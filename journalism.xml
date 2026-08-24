@@ -4,10 +4,65 @@
   <channel>
     <title><![CDATA[Student Paper]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>23 Aug 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>24 Aug 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Daily Bruin Print Issue – Aug. 24, 2026</title>
+      <link>https://dailybruin.com/2026/08/24/daily-bruin-print-issue-aug-24-2026/</link>
+      <description>
+        <![CDATA[<em>The Daily Bruin publishes online issues weekly over the summer. You can view this week’s issue of The Bruin here.</em>]]>
+      </description>
+      <source:markdown>_The Daily Bruin publishes online issues weekly over the summer. You can view this week’s issue of The Bruin here._</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514684</guid>
+      <category>Print</category>
+      <category>db-story-h</category>
+    </item>    <item>
+      <title>UCLA men’s soccer looks to maintain momentum in home opener against Cal State Bakersfield</title>
+      <link>https://dailybruin.com/2026/08/23/ucla-mens-soccer-looks-to-maintain-momentum-in-home-opener-against-cal-state-bakersfield/</link>
+      <description>
+        <![CDATA[<em>This post was updated Aug. 23 at 8:43 p.m.</em>
+        Atlantic water sharks stealthily track prey, creating opportunities to attack and strike fiercely.
+        And when those sharks return to East Coast tides, they remain as hungry and dangerous as ever.]]>
+      </description>
+      <source:markdown>_This post was updated Aug. 23 at 8:43 p.m._
+Atlantic water sharks stealthily track prey, creating opportunities to attack and strike fiercely.
+And when those sharks return to East Coast tides, they remain as hungry and dangerous as ever.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514655</guid>
+      <category>Men&#39;s Soccer</category>
+      <category>Sports</category>
+      <category>db-story-c1</category>
+    </item>    <item>
+      <title>Op-ed: An A is the highest grade. So why can an A+ make it worth less?</title>
+      <link>https://dailybruin.com/2026/08/23/op-ed-an-a-is-the-highest-grade-so-why-can-an-a-make-it-worth-less/</link>
+      <description>
+        <![CDATA[Imagine two UCLA students earn the highest grade their professors award.
+        One receives an A. The other receives an A+.
+        Both students earned the best grade available in their respective courses, as some professors do not offer A+ grades, and UCLA doesn&#8217;t require them to.]]>
+      </description>
+      <source:markdown>Imagine two UCLA students earn the highest grade their professors award.
+One receives an A. The other receives an A+.
+Both students earned the best grade available in their respective courses, as some professors do not offer A+ grades, and UCLA doesn’t require them to.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514625</guid>
+      <category>Opinion</category>
+      <category>Opinion Columns</category>
+      <category>db-story-c2</category>
+      <category>db-story-op</category>
+    </item>    <item>
+      <title>The Chesney train rolls on, adding Trent Hendrick to the JMU-to-UCLA pipeline</title>
+      <link>https://dailybruin.com/2026/08/23/the-chesney-train-rolls-on-adding-trent-hendrick-to-the-jmu-to-ucla-pipeline/</link>
+      <description>
+        <![CDATA[The Chesney train is still taking passengers.
+        Former James Madison linebacker Trent Hendrick transferred to UCLA on Sunday, according to On3. Hendrick received a temporary restraining order as part of a larger lawsuit in Louisiana against the NCAA, which 16 football players – including former UCLA running back TJ Harden – filed among 33 total athletes.]]>
+      </description>
+      <source:markdown>The Chesney train is still taking passengers.
+Former James Madison linebacker Trent Hendrick transferred to UCLA on Sunday, according to On3. Hendrick received a temporary restraining order as part of a larger lawsuit in Louisiana against the NCAA, which 16 football players – including former UCLA running back TJ Harden – filed among 33 total athletes.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=514621</guid>
+      <category>Football</category>
+      <category>Sports</category>
+      <category>breaking</category>
+      <category>db-story-a</category>
+    </item>    <item>
       <title>2026 UCLA football position preview: Running backs</title>
       <link>https://dailybruin.com/2026/08/23/2026-ucla-football-position-preview-running-backs/</link>
       <description>
@@ -18,18 +73,22 @@
       <category>Football</category>
       <category>Sports</category>
       <category>Sports Columns</category>
+      <category>db-story-b</category>
     </item>    <item>
       <title>Trump administration petitions Supreme Court to review ruling on UC grant termination</title>
       <link>https://dailybruin.com/2026/08/22/trump-administration-petitions-supreme-court-to-review-ruling-on-uc-grant-termination/</link>
       <description>
-        <![CDATA[The Trump administration on Tuesday asked the Supreme Court to hear an appeal to a ruling in favor of UC researchers who argued that it was illegal to terminate research grants based on diversity-related language.]]>
+        <![CDATA[<em>This post was updated Aug. 23 at 6:07 p.m.</em>
+        The Trump administration asked the Supreme Court on Tuesday to hear an appeal to a ruling in favor of UC researchers who argued that it was illegal to terminate research grants based on diversity-related language.]]>
       </description>
-      <source:markdown>The Trump administration on Tuesday asked the Supreme Court to hear an appeal to a ruling in favor of UC researchers who argued that it was illegal to terminate research grants based on diversity-related language.</source:markdown>
+      <source:markdown>_This post was updated Aug. 23 at 6:07 p.m._
+The Trump administration asked the Supreme Court on Tuesday to hear an appeal to a ruling in favor of UC researchers who argued that it was illegal to terminate research grants based on diversity-related language.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=514607</guid>
       <category>Higher Education</category>
       <category>National</category>
       <category>News</category>
       <category>UC</category>
+      <category>db-story-g</category>
     </item>    <item>
       <title>Second Take: The MCU keeps Spider-Man’s name, suit and villains. But where’s Peter Parker?</title>
       <link>https://dailybruin.com/2026/08/22/second-take-the-mcu-keeps-spider-mans-name-suit-and-villains-but-wheres-peter-parker/</link>
@@ -45,6 +104,7 @@ Director Destin Daniel Cretton delivered the elite action he featured in “Shan
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Film &#38; TV</category>
+      <category>db-story-d2</category>
     </item>    <item>
       <title>Gallery: Melanie Martinez’s ‘Hades: The Sacrifice Tour’ turns Kia Forum into dazzling dystopia</title>
       <link>https://dailybruin.com/2026/08/22/gallery-melanie-martinezs-hades-the-sacrifice-tour-turns-kia-forum-into-dazzling-dystopia/</link>
@@ -71,6 +131,7 @@ Director Matt Johnson, known for his mockumentary style, embraces a more deliber
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Film &#38; TV</category>
+      <category>db-story-d1</category>
     </item>    <item>
       <title>2026 UCLA football position preview: Offensive line</title>
       <link>https://dailybruin.com/2026/08/22/2026-ucla-football-position-preview-offensive-line/</link>
@@ -87,17 +148,17 @@ Director Matt Johnson, known for his mockumentary style, embraces a more deliber
       <title>Westwood’s Urban Outfitters closes after 22 years following UC Investments acquisition</title>
       <link>https://dailybruin.com/2026/08/21/westwoods-urban-outfitters-closes-after-22-years-following-uc-investments-acquisition/</link>
       <description>
-        <![CDATA[<em>This post was updated Aug. 22 at 10:47 a.m.</em>
+        <![CDATA[<em>This post was updated Aug. 23 at 6:08 p.m.</em>
         Urban Outfitters’ Westwood location shuttered Thursday after over 22 years on Westwood Boulevard.
-        The lifestyle retailer, which sold clothing, dorm decorations and music products at 1028 and 1038 Westwood Boulevard, was among more than a dozen Westwood Village properties that UC Investments – the office of the UC Regents’ chief investment officer – bought in July for nearly $50 million, according to the Commercial Observer.]]>
+        The lifestyle retailer, which sold clothing, dorm decorations and music products at 1028 and 1038 Westwood Blvd., was among more than a dozen Westwood Village properties that UC Investments – the office of the UC Regents’ chief investment officer – bought in July for nearly $50 million, according to the Commercial Observer.]]>
       </description>
-      <source:markdown>_This post was updated Aug. 22 at 10:47 a.m._
+      <source:markdown>_This post was updated Aug. 23 at 6:08 p.m._
 Urban Outfitters’ Westwood location shuttered Thursday after over 22 years on Westwood Boulevard.
-The lifestyle retailer, which sold clothing, dorm decorations and music products at 1028 and 1038 Westwood Boulevard, was among more than a dozen Westwood Village properties that UC Investments – the office of the UC Regents’ chief investment officer – bought in July for nearly $50 million, according to the Commercial Observer.</source:markdown>
+The lifestyle retailer, which sold clothing, dorm decorations and music products at 1028 and 1038 Westwood Blvd., was among more than a dozen Westwood Village properties that UC Investments – the office of the UC Regents’ chief investment officer – bought in July for nearly $50 million, according to the Commercial Observer.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=514557</guid>
       <category>News</category>
       <category>Westwood</category>
-      <category>db-story-c1</category>
+      <category>db-story-f1</category>
     </item>    <item>
       <title>Personalized Medicine Is All About Understanding Your DNA</title>
       <link>https://sundial.csun.edu/219782/sundialbrandstudio/sundial-marketplace/personalized-medicine-is-all-about-understanding-your-dna/</link>
@@ -112,11 +173,11 @@ The lifestyle retailer, which sold clothing, dorm decorations and music products
       <title>UC physicians lead unionization push, cite degraded work, patient care conditions</title>
       <link>https://dailybruin.com/2026/08/21/uc-physicians-lead-unionization-push-cite-degraded-work-patient-care-conditions/</link>
       <description>
-        <![CDATA[Nearly 10,000 UC doctors &#8211; including UCLA Health employees &#8211; have started the largest unionization campaign of attending doctors in United States history.  
-        UC Doctors United &#8211; backed by the Service Employees International Union, a labor union representing around 2 million public sector workers &#8211; announced the campaign in July outside the Zuckerberg San Francisco General Hospital.]]>
+        <![CDATA[<em>This post was updated Aug. 23 at 6:13 p.m.</em>
+        Nearly 10,000 UC doctors – including UCLA Health employees – have started the largest unionization campaign of attending doctors in United States history.]]>
       </description>
-      <source:markdown>Nearly 10,000 UC doctors – including UCLA Health employees – have started the largest unionization campaign of attending doctors in United States history.
-UC Doctors United – backed by the Service Employees International Union, a labor union representing around 2 million public sector workers – announced the campaign in July outside the Zuckerberg San Francisco General Hospital.</source:markdown>
+      <source:markdown>_This post was updated Aug. 23 at 6:13 p.m._
+Nearly 10,000 UC doctors – including UCLA Health employees – have started the largest unionization campaign of attending doctors in United States history.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=514549</guid>
       <category>California</category>
       <category>News</category>
@@ -136,16 +197,18 @@ UC Doctors United – backed by the Service Employees International Union, a lab
       <title>Former guard Donovan Dent heads to LSU, set to reunite with former Bruin Skyy Clark</title>
       <link>https://dailybruin.com/2026/08/21/former-guard-donovan-dent-heads-to-lsu-set-to-reunite-with-former-bruin-skyy-clark/</link>
       <description>
-        <![CDATA[UCLA’s former starting backcourt is moving cross-country.
+        <![CDATA[<em>This post was updated Aug. 23 at 8:37 p.m.</em>
+        UCLA’s former starting backcourt is moving cross-country.
         Former Bruin Donovan Dent announced Friday on Instagram that he will transfer to LSU after spending his senior season in Westwood.]]>
       </description>
-      <source:markdown>UCLA’s former starting backcourt is moving cross-country.
+      <source:markdown>_This post was updated Aug. 23 at 8:37 p.m._
+UCLA’s former starting backcourt is moving cross-country.
 Former Bruin Donovan Dent announced Friday on Instagram that he will transfer to LSU after spending his senior season in Westwood.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=514544</guid>
       <category>Men&#39;s Basketball</category>
       <category>Sports</category>
       <category>breaking</category>
-      <category>db-story-a</category>
+      <category>db-story-f2</category>
     </item>    <item>
       <title>How Switzerland’s Trains Make It the Easiest Country to Hike In</title>
       <link>https://sundial.csun.edu/219774/sundialbrandstudio/sundial-marketplace/how-switzerlands-trains-make-it-the-easiest-country-to-hike-in/</link>
@@ -157,22 +220,21 @@ Former Bruin Donovan Dent announced Friday on Instagram that he will transfer to
       <category>Sundial Marketplace</category>
       <category>Sponsored Content</category>
     </item>    <item>
-      <title>Film review: Coming-of-age comedy “Nimrods” nails nostalgia in road trip to Green Day glory</title>
+      <title>Film review: Coming-of-age comedy ‘Nimrods’ nails nostalgia in road trip to Green Day glory</title>
       <link>https://dailybruin.com/2026/08/21/film-review-coming-of-age-comedy-nimrods-nails-nostalgia-in-road-trip-to-green-day-glory/</link>
       <description>
-        <![CDATA[Warning: Spoilers ahead.
-         1,618 miles. That&#8217;s how far three high school boys drove in a yellow taxi cab to chase their punk rock dreams. 
-        Director Lee Kirk&#8217;s comedy film &#8220;Nimrods&#8221; hit theaters Aug.]]>
+        <![CDATA[<em>This post was updated Aug. 23 at 11:39 p.m.</em>
+        <em>Warning: Spoilers ahead.</em>
+        1,618 miles. That’s how far three high school boys drove in a yellow taxi cab to chase their punk rock dreams.]]>
       </description>
-      <source:markdown>Warning: Spoilers ahead.
- 1,618 miles. That’s how far three high school boys drove in a yellow taxi cab to chase their punk rock dreams.
-Director Lee Kirk’s comedy film “Nimrods” hit theaters Aug.</source:markdown>
+      <source:markdown>_This post was updated Aug. 23 at 11:39 p.m._ _Warning: Spoilers ahead._
+1,618 miles. That’s how far three high school boys drove in a yellow taxi cab to chase their punk rock dreams.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=514539</guid>
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Film &#38; TV</category>
       <category>Music</category>
-      <category>db-story-d1</category>
+      <category>db-story-g</category>
     </item>    <item>
       <title>The Cirque de Gavarnie and Other Pyrenean Wonders</title>
       <link>https://sundial.csun.edu/219778/sundialbrandstudio/sundial-marketplace/the-cirque-de-gavarnie-and-other-pyrenean-wonders/</link>
@@ -227,18 +289,19 @@ UCLA men’s soccer (1-0) took down No. 11 Virginia (0-1) 2-1 on Thursday, openi
       <guid>cid://https://dailybruin.com/?p=514531</guid>
       <category>Men&#39;s Soccer</category>
       <category>Sports</category>
-      <category>db-story-c2</category>
     </item>    <item>
       <title>Individuality and connection combine to define UCLA football’s 2026-27 strategy</title>
       <link>https://dailybruin.com/2026/08/21/individuality-and-connection-combine-to-define-ucla-footballs-2026-27-strategy/</link>
       <description>
-        <![CDATA[With a roster featuring 55 new players and 19 new coaches, including both top coordinators, creating a sense of camaraderie and connection among the new faces of Westwood is at the forefront of head coach Bob Chesney’s first fall camp.]]>
+        <![CDATA[<em>This post was updated Aug. 23 at 8:51 p.m.</em>
+        With a roster featuring 55 new players and 19 new coaches, including both top coordinators, creating a sense of camaraderie and connection among the new faces of Westwood is at the forefront of head coach Bob Chesney’s first fall camp.]]>
       </description>
-      <source:markdown>With a roster featuring 55 new players and 19 new coaches, including both top coordinators, creating a sense of camaraderie and connection among the new faces of Westwood is at the forefront of head coach Bob Chesney’s first fall camp.</source:markdown>
+      <source:markdown>_This post was updated Aug. 23 at 8:51 p.m._
+With a roster featuring 55 new players and 19 new coaches, including both top coordinators, creating a sense of camaraderie and connection among the new faces of Westwood is at the forefront of head coach Bob Chesney’s first fall camp.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=514525</guid>
       <category>Football</category>
       <category>Sports</category>
-      <category>db-story-b</category>
+      <category>db-story-h</category>
     </item>    <item>
       <title>The Camino on a Budget vs the Comfortable Way</title>
       <link>https://sundial.csun.edu/219757/sundialbrandstudio/sundial-marketplace/the-camino-on-a-budget-vs-the-comfortable-way/</link>
@@ -295,16 +358,18 @@ UCLA men’s soccer (1-0) took down No. 11 Virginia (0-1) 2-1 on Thursday, openi
       <title>Design media arts department draws up 3 new degrees to overwrite original</title>
       <link>https://dailybruin.com/2026/08/20/design-media-arts-department-draws-up-3-new-degrees-to-overwrite-original/</link>
       <description>
-        <![CDATA[UCLA&#8217;s current design media arts major will be split into three new majors starting fall 2027. 
+        <![CDATA[<em>This post was updated Aug. 23 at 6:18 p.m.</em>
+        UCLA’s current design media arts major will be split into three new majors starting fall 2027.
         The department will offer separate design, games and computational art majors, said Eddo Stern, a design media arts professor.]]>
       </description>
-      <source:markdown>UCLA’s current design media arts major will be split into three new majors starting fall 2027.
+      <source:markdown>_This post was updated Aug. 23 at 6:18 p.m._
+UCLA’s current design media arts major will be split into three new majors starting fall 2027.
 The department will offer separate design, games and computational art majors, said Eddo Stern, a design media arts professor.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=514508</guid>
       <category>A Closer Look</category>
       <category>Academics</category>
       <category>News</category>
-      <category>db-story-f1</category>
+      <category>db-story-i</category>
     </item>    <item>
       <title>Roster Reset: UCLA men’s water polo lineup lost so little and gained oh-so-much in the offseason</title>
       <link>https://dailybruin.com/2026/08/20/roster-reset-ucla-mens-water-polo-lineup-lost-so-little-and-gained-oh-so-much-in-the-offseason/</link>
@@ -2635,67 +2700,6 @@ At least, that’s what Indiana coach Curt Cignetti said at the 2026 Big Ten Med
       <category>NIL</category>
       <category>Sports</category>
       <category>db-story-j</category>
-    </item>    <item>
-      <title>Undocumented students push for UC job opportunities, citing California court ruling</title>
-      <link>https://dailybruin.com/2026/08/02/undocumented-students-push-for-uc-job-opportunities-citing-california-court-ruling/</link>
-      <description>
-        <![CDATA[<em>This post was updated Aug. 2 at 5:52 p.m.</em>
-        Diego Castro Gomez was accepted to graduate school at UC Merced in 2022.
-        “My dream was to always pursue grad school, potentially become a professor one day,” said Gomez, who is undocumented.]]>
-      </description>
-      <source:markdown>_This post was updated Aug. 2 at 5:52 p.m._
-Diego Castro Gomez was accepted to graduate school at UC Merced in 2022.
-“My dream was to always pursue grad school, potentially become a professor one day,” said Gomez, who is undocumented.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513724</guid>
-      <category>California</category>
-      <category>Higher Education</category>
-      <category>News</category>
-      <category>UC</category>
-      <category>db-story-i</category>
-    </item>    <item>
-      <title>Editorial: The UC should reinstate SAT, ACT requirements to ensure student preparedness</title>
-      <link>https://dailybruin.com/2026/08/02/editorial-the-uc-should-reinstate-sat-act-requirements-to-ensure-student-preparedness/</link>
-      <description>
-        <![CDATA[Say you’re tasked with evaluating a high school senior.
-        Here’s your criteria: their high school, their sophomore and junior year transcripts, a maximum 1,400 words of their writing, their extracurricular activities and the classes they plan to take senior year.]]>
-      </description>
-      <source:markdown>Say you’re tasked with evaluating a high school senior.
-Here’s your criteria: their high school, their sophomore and junior year transcripts, a maximum 1,400 words of their writing, their extracurricular activities and the classes they plan to take senior year.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513717</guid>
-      <category>Opinion</category>
-      <category>Opinion Columns</category>
-      <category>db-story-c2</category>
-      <category>db-story-op</category>
-    </item>    <item>
-      <title>Pro Bruin Rundown: UCLA softball alumni make league-wide impact in 2nd season of AUSL</title>
-      <link>https://dailybruin.com/2026/08/01/pro-bruin-rundown-ucla-softball-alumni-make-league-wide-impact-in-2nd-season-of-ausl/</link>
-      <description>
-        <![CDATA[<em>This post was updated Aug. 2 at 8:15 p.m.</em>
-        Twelve former UCLA softball players are spread across five of the six teams in the Athletes Unlimited Softball League.]]>
-      </description>
-      <source:markdown>_This post was updated Aug. 2 at 8:15 p.m._
-Twelve former UCLA softball players are spread across five of the six teams in the Athletes Unlimited Softball League.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513709</guid>
-      <category>Softball</category>
-      <category>Sports</category>
-      <category>db-story-f1</category>
-    </item>    <item>
-      <title>Q&#38;A: New School of Public Health dean Kari Nadeau wants to expand scholarships, funding</title>
-      <link>https://dailybruin.com/2026/08/01/qa-new-school-of-public-health-dean-kari-nadeau-wants-to-expand-scholarships-funding/</link>
-      <description>
-        <![CDATA[<em>This post was updated Aug. 2 at 6:12 p.m.</em>
-        Kari Nadeau began her tenure as dean of the UCLA Fielding School of Public Health on July 1.]]>
-      </description>
-      <source:markdown>_This post was updated Aug. 2 at 6:12 p.m._
-Kari Nadeau began her tenure as dean of the UCLA Fielding School of Public Health on July 1.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=513705</guid>
-      <category>A Closer Look</category>
-      <category>Academics</category>
-      <category>Campus</category>
-      <category>Higher Education</category>
-      <category>News</category>
-      <category>Science &#38; Health</category>
-      <category>db-story-g</category>
     </item>
   </channel>
 </rss>

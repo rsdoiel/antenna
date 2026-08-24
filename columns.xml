@@ -5,7 +5,7 @@
     <title><![CDATA[Columns]]></title>
     <description><![CDATA[Blogs, columns and snapshots from around the web.]]></description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>23 Aug 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>24 Aug 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -35,6 +35,519 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Celebrating Ukraine’s Independence Day, Understanding The Evolving Battlefield, Dems Embrace A Raucous Pluralism</title>
+      <link>https://www.hopiumchronicles.com/p/celebrating-ukraines-independence</link>
+      <description>
+        <![CDATA[Dr. Rob Shapiro joins us live today at 1215pm ET to talk about Trump&#8217;s failed war and failed economic strategy]]>
+      </description>
+      <source:markdown>Dr. Rob Shapiro joins us live today at 1215pm ET to talk about Trump’s failed war and failed economic strategy</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!AL60!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc8aeff4-6b2f-49d0-bb02-16722f349ae4_768x512.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/celebrating-ukraines-independence</guid>
+    </item>    <item>
+      <title>Create your own cyberdeck</title>
+      <link>https://www.raspberrypi.com/news/create-your-own-cyberdeck/</link>
+      <description>
+        <![CDATA[<p>A hacker’s rite of passage is creating their own cyberdeck. This guide will help you build one from parts.</p>
+        <p>The post <a href="https://www.raspberrypi.com/news/create-your-own-cyberdeck/">Create your own cyberdeck</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <source:markdown>A hacker’s rite of passage is creating their own cyberdeck. This guide will help you build one from parts.
+
+The post [Create your own cyberdeck](https://www.raspberrypi.com/news/create-your-own-cyberdeck/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
+      <guid>cid://https://www.raspberrypi.com/?p=139504</guid>
+      <category>Raspberry Pi 5</category>
+      <category>Raspberry Pi Official Magazine</category>
+      <category>Cyberdeck</category>
+    </item>    <item>
+      <link>http://scripting.com/2026/08/24.html#a124629</link>
+      <description>
+        <![CDATA[Learned something yesterday. Couldn't believe how stupid Claude had become, as I've been writing about here, and then I noticed that I was using Opus 5 and not Fable 5. So I switched back and all of a suddent Claude is smart again. So I conclude that there's a very substantial difference between the two. It's overnight jobs were done more carefully and the report it produced is literate, understandable, and tracks what we had agreed to.]]>
+      </description>
+      <source:markdown>Learned something yesterday. Couldn&#39;t believe how stupid Claude had become, as I&#39;ve been writing about here, and then I noticed that I was using Opus 5 and not Fable 5. So I switched back and all of a suddent Claude is smart again. So I conclude that there&#39;s a very substantial difference between the two. It&#39;s overnight jobs were done more carefully and the report it produced is literate, understandable, and tracks what we had agreed to.</source:markdown>
+      <guid>cid://http://scripting.com/2026/08/24.html#a124629</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/08/24.html#a124622</link>
+      <description>
+        <![CDATA[Good morning sports fans!]]>
+      </description>
+      <source:markdown>Good morning sports fans!</source:markdown>
+      <guid>cid://http://scripting.com/2026/08/24.html#a124622</guid>
+    </item>    <item>
+      <title>The Cables that Connect the World</title>
+      <link>https://xn--gckvb8fzb.com/the-cables-that-connect-the-world/</link>
+      <description>
+        <![CDATA[We treat the internet as if it were air, ambient and ownerless, when in
+        reality, however, it is the exact opposite. This is a look at what
+        connects the world, and who builds and owns that infrastructure.]]>
+      </description>
+      <source:markdown>We treat the internet as if it were air, ambient and ownerless, when in
+reality, however, it is the exact opposite. This is a look at what
+connects the world, and who builds and owns that infrastructure.</source:markdown>
+      <author>marius@xn--gckvb8fzb.com (Marius)</author>
+      <guid>cid:///the-cables-that-connect-the-world/</guid>
+    </item>    <item>
+      <title>A Billion Dollars</title>
+      <link>https://kk.org/thetechnium/a-billion-dollars/</link>
+      <description>
+        <![CDATA[What would you do with a billion dollars? I am occasionally asked by young people for my life advice. Could I counsel them as they decide what to do? They are thinking of going into something new. Or thinking about &#8230; <a href="https://kk.org/thetechnium/a-billion-dollars/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>What would you do with a billion dollars? I am occasionally asked by young people for my life advice. Could I counsel them as they decide what to do? They are thinking of going into something new. Or thinking about … [Continue reading →](https://kk.org/thetechnium/a-billion-dollars/)</source:markdown>
+      <guid>cid://https://kk.org/thetechnium/?p=8232</guid>
+    </item>    <item>
+      <title>Criminal Deception in Silicon Valley</title>
+      <link>https://www.schneier.com/blog/archives/2026/08/criminal-deception-in-silicon-valley.html</link>
+      <description>
+        <![CDATA[<p>Interesting <a href="https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981">paper</a>:</p>
+        <blockquote><p><b>Abstract:</b> With entrepreneurial fraud cases on the rise, we investigate how entrepreneurs carry out <i>criminal deception</i>, employing deceptive means to defraud audiences. Analyzing court data from Silicon Valley ventures and their founders prosecuted for fraud between 2000 and 2023, our findings reveal that entrepreneurs carry out criminal deception through a process of <i>façading</i>: Entrepreneurs construct, perform, and protect illusory appearances (façades) that externally project high-growth performance to audiences while masking ventures’ actual underperformance. We identify three forms of façading&#8212;­surface, reinforced, and deep façading­&#8212;that are contingent on the severity of the gap that entrepreneurs face between audiences’ performance expectations and ventures’ performance reality. Our theoretical framework captures how entrepreneurs facing minor, wide, and extreme expectation-reality gaps engage in evermore sophisticated efforts to detach the venture’s externally projected appearance from its actual operational reality. Practically, we propose several approaches to deter and detect criminal deception, including the extension of U.S. Securities and Exchange Commission surveillance and whistleblower program, investor due diligence reform, and dedicated entrepreneurship education interventions that clearly demarcate when entrepreneurs transgress into criminal deception. We make contributions to literatures on cultural entrepreneurship, organizational wrongdoing, and the social effects of entrepreneurship. ...</p></blockquote>]]>
+      </description>
+      <source:markdown>Interesting [paper](https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981):
+
+&#62; **Abstract:** With entrepreneurial fraud cases on the rise, we investigate how entrepreneurs carry out _criminal deception_, employing deceptive means to defraud audiences. Analyzing court data from Silicon Valley ventures and their founders prosecuted for fraud between 2000 and 2023, our findings reveal that entrepreneurs carry out criminal deception through a process of _façading_: Entrepreneurs construct, perform, and protect illusory appearances (façades) that externally project high-growth performance to audiences while masking ventures’ actual underperformance. We identify three forms of façading—­surface, reinforced, and deep façading­—that are contingent on the severity of the gap that entrepreneurs face between audiences’ performance expectations and ventures’ performance reality. Our theoretical framework captures how entrepreneurs facing minor, wide, and extreme expectation-reality gaps engage in evermore sophisticated efforts to detach the venture’s externally projected appearance from its actual operational reality. Practically, we propose several approaches to deter and detect criminal deception, including the extension of U.S. Securities and Exchange Commission surveillance and whistleblower program, investor due diligence reform, and dedicated entrepreneurship education interventions that clearly demarcate when entrepreneurs transgress into criminal deception. We make contributions to literatures on cultural entrepreneurship, organizational wrongdoing, and the social effects of entrepreneurship. ...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=72483</guid>
+      <category>Uncategorized</category>
+      <category>academic papers</category>
+      <category>crime</category>
+      <category>deception</category>
+    </item>    <item>
+      <title>The Moose That Roared</title>
+      <link>https://paulkrugman.substack.com/p/the-moose-that-roared</link>
+      <description>
+        <![CDATA[Why Trump will lose his war with Canada]]>
+      </description>
+      <source:markdown>Why Trump will lose his war with Canada</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!TFK0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff22fdcde-05b7-4363-ac5f-1af57cb3a7a8_1429x953.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/the-moose-that-roared</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: August 24, 2026</title>
+      <link>https://lithub.com/lit-hub-daily-august-24-2026/</link>
+      <description>
+        <![CDATA[How surveillance technology infuses policing with even more racial bias. &#124; Lit Hub Politics Why studying Goldilocks can help us write emotionally resonant fiction. &#124; Lit Hub Craft Claire Boyles considers the impact of the American West&#8217;s water crisis on her]]>
+      </description>
+      <source:markdown>How surveillance technology infuses policing with even more racial bias. \| Lit Hub Politics Why studying Goldilocks can help us write emotionally resonant fiction. \| Lit Hub Craft Claire Boyles considers the impact of the American West’s water crisis on her</source:markdown>
+      <guid>cid://https://lithub.com/?p=276069</guid>
+      <category>Lit Hub Daily</category>
+    </item>    <item>
+      <title>The old kingmaker magic is gone</title>
+      <link>https://www.publicnotice.co/p/trump-endorsements-lose</link>
+      <description>
+        <![CDATA[Trump&#8217;s endorsement used to be the final word in primaries. But no longer.]]>
+      </description>
+      <source:markdown>Trump’s endorsement used to be the final word in primaries. But no longer.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!iLg8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2080074b-689e-4ba7-9b1d-b6308b408f04_4797x3198.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.publicnotice.co/p/trump-endorsements-lose</guid>
+    </item>    <item>
+      <title>Eric Trump Calls Lindsey Graham’s Sister Unqualified Idiot Who Only Got Job Through Nepotism</title>
+      <link>https://www.borowitzreport.com/p/eric-trump-calls-lindsey-grahams</link>
+      <description>
+        <![CDATA[&#8220;Are we going to give every blithering moron a position of power just because of who they&#8217;re related to?&#8221; he asked.]]>
+      </description>
+      <source:markdown>“Are we going to give every blithering moron a position of power just because of who they’re related to?” he asked.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!imzR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff86071f4-f23e-4b7d-913d-fdc01e98318a_5064x3376.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/eric-trump-calls-lindsey-grahams</guid>
+    </item>    <item>
+      <title>Steven Thrasher on the Killing of Jason Arday</title>
+      <link>https://lithub.com/steven-thrasher-on-the-killing-of-jason-arday/</link>
+      <description>
+        <![CDATA[Though I have been mostly offline for my annual summer social media sabbatical, I watched the Jason Arday story unfold with increasing horror over the last couple of weeks. With hundreds of stories in traditional media, along with many people]]>
+      </description>
+      <source:markdown>Though I have been mostly offline for my annual summer social media sabbatical, I watched the Jason Arday story unfold with increasing horror over the last couple of weeks. With hundreds of stories in traditional media, along with many people</source:markdown>
+      <guid>cid://https://lithub.com/?p=275986</guid>
+      <category>Features</category>
+      <category>Politics</category>
+      <category>Blackademics</category>
+      <category>Cambridge University</category>
+      <category>Jason Arday</category>
+      <category>racism</category>
+      <category>Steven Thrasher</category>
+      <category>suicide</category>
+    </item>    <item>
+      <title>Dorthe Nors on Striving to Write Emotionally Resonant Fiction</title>
+      <link>https://lithub.com/dorthe-nors-on-striving-to-write-emotionally-resonant-fiction/</link>
+      <description>
+        <![CDATA[I published my first novel twenty-five years ago. It was not a masterpiece, but to me it was a miracle. Unboxing was still a private phenomenon back then and I remember looking at the book in disbelief. There it was]]>
+      </description>
+      <source:markdown>I published my first novel twenty-five years ago. It was not a masterpiece, but to me it was a miracle. Unboxing was still a private phenomenon back then and I remember looking at the book in disbelief. There it was</source:markdown>
+      <guid>cid://https://lithub.com/?p=275625</guid>
+      <category>Craft and Advice</category>
+      <category>Craft and Criticism</category>
+      <category>Fullwidth Slider</category>
+      <category>Caroline Waight</category>
+      <category>Craft Advice</category>
+      <category>Dorthe Nors</category>
+      <category>fairytales</category>
+      <category>fiction writing</category>
+      <category>Graywolf Press</category>
+      <category>novel writing</category>
+      <category>Range</category>
+      <category>Writing process</category>
+    </item>    <item>
+      <title>Fiction as a Filter: On Writing the American West’s Water Crisis</title>
+      <link>https://lithub.com/fiction-as-a-filter-on-writing-the-american-wests-water-crisis/</link>
+      <description>
+        <![CDATA[Years ago, during the Great Recession, I attended an event sponsored by an environmental organization that had formed in protest to a planned dam construction project on the Cache La Poudre River in northern Colorado. At the time, my husband]]>
+      </description>
+      <source:markdown>Years ago, during the Great Recession, I attended an event sponsored by an environmental organization that had formed in protest to a planned dam construction project on the Cache La Poudre River in northern Colorado. At the time, my husband</source:markdown>
+      <guid>cid://https://lithub.com/?p=275794</guid>
+      <category>Craft and Advice</category>
+      <category>Craft and Criticism</category>
+      <category>Features</category>
+      <category>Appraisals</category>
+      <category>Claire Boyles</category>
+      <category>climate crisis</category>
+      <category>Environmental Writing</category>
+      <category>environmentalism</category>
+      <category>farming</category>
+      <category>farms</category>
+      <category>fiction writing</category>
+      <category>novel writing</category>
+      <category>the environment</category>
+      <category>W.W. Norton and Company</category>
+    </item>    <item>
+      <title>How Technology-Assisted Surveillance Promotes Racial Bias in Policing</title>
+      <link>https://lithub.com/how-technology-assisted-surveillance-promotes-racial-bias-in-policing/</link>
+      <description>
+        <![CDATA[Policing and incarceration in the twenty-first century are not wholly human practices. The strategies, tactics, and encounters that organize the carceral state are developed and prosecuted in collaboration with inhuman technologies that “we” do not and cannot fully understand. In]]>
+      </description>
+      <source:markdown>Policing and incarceration in the twenty-first century are not wholly human practices. The strategies, tactics, and encounters that organize the carceral state are developed and prosecuted in collaboration with inhuman technologies that “we” do not and cannot fully understand. In</source:markdown>
+      <guid>cid://https://lithub.com/?p=275491</guid>
+      <category>Features</category>
+      <category>News and Culture</category>
+      <category>Politics</category>
+      <category>Technology</category>
+      <category>big tech</category>
+      <category>carceral state</category>
+      <category>police</category>
+      <category>policing</category>
+      <category>prisons</category>
+      <category>R. Joshua Scannell</category>
+      <category>Silicon Valley</category>
+      <category>The Carceral Surround</category>
+      <category>University of Minnesota Press</category>
+    </item>    <item>
+      <title>Christelle Dabos on Empathy, Doing Good, and How We Fill Ourselves Up</title>
+      <link>https://lithub.com/christelle-dabos-on-empathy-doing-good-and-how-we-fill-ourselves-up/</link>
+      <description>
+        <![CDATA[It’s Sunday morning, September 18, 2016. I spent the previous day signing books in Lille, in northern France. My head is still foggy. I am making myself a cup of hot chocolate when, at the exact moment the microwave dings,]]>
+      </description>
+      <source:markdown>It’s Sunday morning, September 18, 2016. I spent the previous day signing books in Lille, in northern France. My head is still foggy. I am making myself a cup of hot chocolate when, at the exact moment the microwave dings,</source:markdown>
+      <guid>cid://https://lithub.com/?p=275826</guid>
+      <category>Craft and Advice</category>
+      <category>Craft and Criticism</category>
+      <category>Features</category>
+      <category>News and Culture</category>
+      <category>Christelle Dabos</category>
+      <category>craft</category>
+      <category>empathy</category>
+      <category>empathy box</category>
+      <category>Europa Editions</category>
+      <category>Philip K. Dick</category>
+      <category>We</category>
+      <category>Writing process</category>
+    </item>    <item>
+      <title>Gaining Ground</title>
+      <link>https://lithub.com/gaining-ground/</link>
+      <description>
+        <![CDATA[The first time I saw this place, I knew I had come home. I do not mean I knew it in a peaceful, comforting sort of way, the way one recognizes an old friend; that first time it was like]]>
+      </description>
+      <source:markdown>The first time I saw this place, I knew I had come home. I do not mean I knew it in a peaceful, comforting sort of way, the way one recognizes an old friend; that first time it was like</source:markdown>
+      <guid>cid://https://lithub.com/?p=275287</guid>
+      <category>Daily Fiction</category>
+      <category>Excerpts</category>
+      <category>Fiction and Poetry</category>
+      <category>From the Novel</category>
+      <category>Novels</category>
+      <category>Faber &#38; Faber</category>
+      <category>Gaining Ground</category>
+      <category>Joan Barfoot</category>
+    </item>    <item>
+      <title>How Trump Plans To Silence CNN, Jon Stewart, and John Oliver (the Same Way He Silenced CBS News)</title>
+      <link>https://robertreich.substack.com/p/the-trump-ellison-media-monopoly</link>
+      <description>
+        <![CDATA[The most important deal could happen today]]>
+      </description>
+      <source:markdown>The most important deal could happen today</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!TA1_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F110c9f4f-934b-4c32-a9b0-0cf0a7c41dc9_364x302.webp" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/the-trump-ellison-media-monopoly</guid>
+    </item>    <item>
+      <title>Reading What We Can Know by Ian McEwan.</title>
+      <link>https://adactio.com/notes/22730</link>
+      <description>
+        <![CDATA[<p>Reading What We Can Know by Ian McEwan.</p>]]>
+      </description>
+      <source:markdown>Reading What We Can Know by Ian McEwan.</source:markdown>
+      <guid>cid://https://adactio.com/notes/22730</guid>
+    </item>    <item>
+      <title>Community Member Monday: Rohan Singh</title>
+      <link>https://blog.documentfoundation.org/blog/2026/08/24/community-member-monday-rohan-singh/</link>
+      <description>
+        <![CDATA[Tell us a bit about yourself! My name is Rohan. I am currently in Berlin, Germany, and my background is in mechanical engineering and I have a master&#8217;s degree in sustainable mobility and robotics. I recently worked on my master’s thesis, where I used LibreOffice closely on macOS. That experience]]>
+      </description>
+      <source:markdown>Tell us a bit about yourself! My name is Rohan. I am currently in Berlin, Germany, and my background is in mechanical engineering and I have a master’s degree in sustainable mobility and robotics. I recently worked on my master’s thesis, where I used LibreOffice closely on macOS. That experience</source:markdown>
+      <guid>cid://https://blog.documentfoundation.org/?p=18009</guid>
+      <category>Community</category>
+      <category>Interviews</category>
+      <category>LibreOffice</category>
+    </item>    <item>
+      <title>My book TBR system</title>
+      <link>https://tracydurnell.com/2026/08/23/my-book-tbr-system/</link>
+      <description>
+        <![CDATA[I mostly avoid corporate platforms&#8230; but I am on Goodreads on a daily basis 🤦‍♀️ (I know a lot of people are down on book tracking, but I read too many books to remember what I have read otherwise. Romance titles are notorious for using puns, pop culture references, and various [duke / earl / [&#8230;]]]>
+      </description>
+      <source:markdown>I mostly avoid corporate platforms… but I am on Goodreads on a daily basis 🤦‍♀️ (I know a lot of people are down on book tracking, but I read too many books to remember what I have read otherwise. Romance titles are notorious for using puns, pop culture references, and various \[duke / earl / \[…\]</source:markdown>
+      <guid>cid://https://tracydurnell.com/?p=40152</guid>
+      <category>Meta</category>
+      <category>Technology</category>
+      <category>big data</category>
+      <category>books</category>
+      <category>categorization</category>
+      <category>corporate web</category>
+      <category>reading</category>
+      <category>software</category>
+      <category>system</category>
+      <category>tracking</category>
+    </item>    <item>
+      <title>Moneyday</title>
+      <link>https://doc.searls.com/2026/08/23/moneyday/</link>
+      <description>
+        <![CDATA[And loved them all Among Money Inc.&#39;s wealthiest college towns, I&#39;ve lived in numbers 2, 3, 4, 10, 13*, and 20. I&#39;ve also had good hang times in 5, 9, and 15. Oddly, I&#39;ve never been to #1, and I grew up in both North and South Jersey. *Same as 2, really.]]>
+      </description>
+      <source:markdown>And loved them all Among Money Inc.&#39;s wealthiest college towns, I&#39;ve lived in numbers 2, 3, 4, 10, 13\*, and 20. I&#39;ve also had good hang times in 5, 9, and 15. Oddly, I&#39;ve never been to #1, and I grew up in both North and South Jersey. \*Same as 2, really.</source:markdown>
+      <guid>cid://https://doc.searls.com/2026/08/23/moneyday/</guid>
+      <category>Economics</category>
+      <category>education</category>
+    </item>    <item>
+      <title>August 23, 2026</title>
+      <link>https://heathercoxrichardson.substack.com/p/august-23-2026</link>
+      <description>
+        <![CDATA[I&#8217;ve heard rumors that we all need a break.]]>
+      </description>
+      <source:markdown>I’ve heard rumors that we all need a break.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!X5V3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67d715fb-287f-40ed-992a-94a611eebbe8_3024x4032.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/august-23-2026</guid>
+    </item>    <item>
+      <title>Harnessing the agent semantic reliability at scale</title>
+      <link>https://www.thoughtworks.com/insights/blog/technology-strategy/harnessing-agent-semantic-reliability-at-scale</link>
+      <description>
+        <![CDATA[<div><img src="https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_054.jpg" class="type:primaryImage webfeedsFeaturedVisual"></div><p>Harnessing the agent semantic reliability at scale</p>]]>
+      </description>
+      <source:markdown>![](https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_054.jpg)
+
+Harnessing the agent semantic reliability at scale</source:markdown>
+      <guid>cid://https://www.thoughtworks.com/insights/blog/technology-strategy/harnessing-agent-semantic-reliability-at-scale</guid>
+    </item>    <item>
+      <title>Umday</title>
+      <link>https://doc.searls.com/2026/08/23/umday/</link>
+      <description>
+        <![CDATA[It can happen where you are too. No data center required. Spotted and obeyed on West Bloomfield Road in Bloomington, Indiana: a robot traffic control flagger. Hard to wear, but that&#8217;s not the point My wife just reported from the Iris van Herpen show in Brooklyn. Wow. I remain charged about both Wired has a [&#8230;]]]>
+      </description>
+      <source:markdown>It can happen where you are too. No data center required. Spotted and obeyed on West Bloomfield Road in Bloomington, Indiana: a robot traffic control flagger. Hard to wear, but that’s not the point My wife just reported from the Iris van Herpen show in Brooklyn. Wow. I remain charged about both Wired has a \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2026/08/23/umday/</guid>
+      <category>Bloomington</category>
+      <category>Dentistry</category>
+      <category>Health</category>
+      <category>Indiana</category>
+      <category>Signaling</category>
+    </item>    <item>
+      <title>Sunday caption contest: Justice?</title>
+      <link>https://robertreich.substack.com/p/sunday-caption-contest-justice-8bf</link>
+      <description>
+        <![CDATA[And last week&#8217;s winner]]>
+      </description>
+      <source:markdown>And last week’s winner</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!RfDK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8028f921-b51a-48b5-9b13-b769aa869590_3072x2487.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-caption-contest-justice-8bf</guid>
+    </item>    <item>
+      <title>An updated look at Trump&#39;s approval rating in every neighborhood</title>
+      <link>https://www.gelliottmorris.com/p/2026-08-23-sunday-roundup</link>
+      <description>
+        <![CDATA[Plus, both parties are now running against data centers. Your weekly political data roundup for August 23, 2026.]]>
+      </description>
+      <source:markdown>Plus, both parties are now running against data centers. Your weekly political data roundup for August 23, 2026.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!1I3X!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feebd22fa-bd47-421b-9bc9-71c7b2e123fe_2862x2124.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/2026-08-23-sunday-roundup</guid>
+    </item>    <item>
+      <title>Getting an LLM to Make Me a Tool for Enriching the Color Metadata in My Icon Collection</title>
+      <link>https://blog.jim-nielsen.com/2026/use-llm-to-add-color-metadata/</link>
+      <description>
+        <![CDATA[<p>On my <a href="https://www.iosicongallery.com" >icon</a> gallery <a href="https://www.macosicongallery.com" >sites</a>, I have metadata I’ve manually added over the years to tag certain icons as being predominantly <a href="https://www.iosicongallery.com/colors/blue/" >“blue”</a> or <a href="https://www.iosicongallery.com/colors/orange/" >“orange”</a> or some other color.</p>
+        <p>Then I use this metadata to present icons of (roughly) the same color. It’s kinda neat to be able to browse a wall of icons that  are all the same color.</p>
+        <p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2026/llm-colors-ios-purple.png" width="1567" height="975" alt="Screenshot of a wall of icons tagged as “purple” on iosicongallery.com" />
+        
+        </p><p>The thing is: I know there are a lot of icons I’ve missed tagging over the years. But I have no idea how many, and figuring that out seems like a really arduous task. How do I go through 2,000+ icons and find all the ones that look predominantly “orange” but haven’t been tagged as such yet?</p>
+        <p>Seems like a good task to throw at an LLM. But I don’t want to just say, “Go tag everything that’s missing” and blindly trust the output. I need to be able to make a decisions as to whether I think a particular color is “orange” or not.</p>
+        <p>What I need is a tool for the job. I’m a very visual thinker, so to continue curating these color categorizations, I need some way for the computer to do its thing really, really fast, and then pull me into the loop to visually make decisions.</p>
+        <p>Here’s how I am thinking about about accomplishing this task:</p>
+        <ul>
+        <li>Create a page with a list of colors on the left (red, green, orange, blue, etc.)</li>
+        <li>When a color is clicked, show two columns. 1) All icons I currently have tagged for that color, and 2) all icons that might be that color but aren’t tagged as such (you, computer, process all my icons and do the work to figure this out and make recommendations).</li>
+        <li>Allow me to select one or more icon(s) in the “not yet tagged as this color” column. Once I have all the ones I perceive as missing, give me a button to say “Copy” which copies the IDs of those icons.</li>
+        <li>I’ll paste the IDs back here in the chat and you go add the corresponding metadata.</li>
+        </ul>
+        <p>That seems like it would be a good tool to put me in control of visual decision making around color categorization. So I tell the LLM to run with it.</p>
+        <p>We chat back and forth. I think, “You probably need to run all the icons through some model to make the correlation?” But it’s like, “Nah bro, just make a ‘hue histogram’.” It tells me how. For a color like “orange”, I can:</p>
+        <blockquote>
+        <p>[process] each PNG, skip transparent pixels, skip low-saturation gray, convert the rest to HSV, and score how much of the remaining mass sits in the orange hue band (roughly 15–45°). Rank icons that don’t already have colorId: <code>orange</code>.</p>
+        </blockquote>
+        <p>Ok, sure. That sounds reasonable.</p>
+        <blockquote>
+        <p>[This] scores each icon PNG by share of opaque pixels per color bucket, then writes a standalone HTML page: tagged vs maybe-missing, per color.</p>
+        </blockquote>
+        <p>Let’s just make it, and then I’ll decide whether it’s good enough.</p>
+        <p>After a few iterations, the computer going “brr…”, and me saying “explain that like I’m dumb”, I have a really effective little tool!</p>
+        <p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2026/llm-colors-orange-picker.png" width="1519" height="1136" alt="Screenshot of a tool showing a collection of orange icons side-by-side, representing icons that have been tagged orange in my collection vs. ones that haven’t." data-og-image />
+        
+        </p><p>The little threshold slider is a nice touch. It lets me fiddle around with the fidelity of the matches. In some cases, sliding it down reveals more icons I would’ve otherwise missed. In other cases, I’m like “What are you thinking? I don’t see that as ‘yellow’ at all!”</p>
+        <p><video src="https://cdn.jim-nielsen.com/blog/2026/llm-colors-browse.mp4" width="866" height="540" controls></video></p>
+        <p>Supper effective little tool. I go through each color, select the ones I think are missing, paste the IDs back into the LLM, and then have it update each icon&#39;s metadata.</p>
+        <p>Boom, done! That all would’ve taken <em>so</em> long before. I would’ve never done it.</p>
+        <p>Takeaways:</p>
+        <ul>
+        <li>The LLM is good at making throw-away code. This doesn’t need to be “production-grade” code I depend on. Just something that’s good enough for me to get a job done, then toss. The resulting metadata is the goal, not the tool I use to get to the goal.</li>
+        <li>The LLM is good at making one-off HTML pages for a specific task. In my case, all these images were hosted on a CDN, easy enough to just point at and have a standalone <code>.html</code> file that I can locate on my hard drive and open directly as a <code>file://</code> URL. No bundling. No transpilation. None of that. I don’t even need a web server! Keeping things <em>very</em> basic on this project is paying off: I had really elemental building blocks that didn’t require additional third-party tooling. Just HTML, CSS, a little in-page JS, and images on a server!</li>
+        <li>It’s fun to say, “Don’t do the work for me. Instead, help me make a custom-fit tool that facilitates me doing the work in the most empowering, correct way possible.”</li>
+        </ul>
+        
+            <hr />
+            
+        
+            <p>
+              Reply via:
+              
+        
+              <a
+                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/use-llm-to-add-color-metadata/"
+                >Email</a
+              >
+              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
+        
+              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
+            </p>]]>
+      </description>
+      <source:markdown>On my [icon](https://www.iosicongallery.com) gallery [sites](https://www.macosicongallery.com), I have metadata I’ve manually added over the years to tag certain icons as being predominantly [“blue”](https://www.iosicongallery.com/colors/blue/) or [“orange”](https://www.iosicongallery.com/colors/orange/) or some other color.
+
+Then I use this metadata to present icons of (roughly) the same color. It’s kinda neat to be able to browse a wall of icons that are all the same color.
+
+![Screenshot of a wall of icons tagged as “purple” on iosicongallery.com](https://cdn.jim-nielsen.com/blog/2026/llm-colors-ios-purple.png)
+
+The thing is: I know there are a lot of icons I’ve missed tagging over the years. But I have no idea how many, and figuring that out seems like a really arduous task. How do I go through 2,000+ icons and find all the ones that look predominantly “orange” but haven’t been tagged as such yet?
+
+Seems like a good task to throw at an LLM. But I don’t want to just say, “Go tag everything that’s missing” and blindly trust the output. I need to be able to make a decisions as to whether I think a particular color is “orange” or not.
+
+What I need is a tool for the job. I’m a very visual thinker, so to continue curating these color categorizations, I need some way for the computer to do its thing really, really fast, and then pull me into the loop to visually make decisions.
+
+Here’s how I am thinking about about accomplishing this task:
+
+- Create a page with a list of colors on the left (red, green, orange, blue, etc.)
+- When a color is clicked, show two columns. 1) All icons I currently have tagged for that color, and 2) all icons that might be that color but aren’t tagged as such (you, computer, process all my icons and do the work to figure this out and make recommendations).
+- Allow me to select one or more icon(s) in the “not yet tagged as this color” column. Once I have all the ones I perceive as missing, give me a button to say “Copy” which copies the IDs of those icons.
+- I’ll paste the IDs back here in the chat and you go add the corresponding metadata.
+
+That seems like it would be a good tool to put me in control of visual decision making around color categorization. So I tell the LLM to run with it.
+
+We chat back and forth. I think, “You probably need to run all the icons through some model to make the correlation?” But it’s like, “Nah bro, just make a ‘hue histogram’.” It tells me how. For a color like “orange”, I can:
+
+&#62; \[process\] each PNG, skip transparent pixels, skip low-saturation gray, convert the rest to HSV, and score how much of the remaining mass sits in the orange hue band (roughly 15–45°). Rank icons that don’t already have colorId: `orange`.
+
+Ok, sure. That sounds reasonable.
+
+&#62; \[This\] scores each icon PNG by share of opaque pixels per color bucket, then writes a standalone HTML page: tagged vs maybe-missing, per color.
+
+Let’s just make it, and then I’ll decide whether it’s good enough.
+
+After a few iterations, the computer going “brr…”, and me saying “explain that like I’m dumb”, I have a really effective little tool!
+
+![Screenshot of a tool showing a collection of orange icons side-by-side, representing icons that have been tagged orange in my collection vs. ones that haven’t.](https://cdn.jim-nielsen.com/blog/2026/llm-colors-orange-picker.png)
+
+The little threshold slider is a nice touch. It lets me fiddle around with the fidelity of the matches. In some cases, sliding it down reveals more icons I would’ve otherwise missed. In other cases, I’m like “What are you thinking? I don’t see that as ‘yellow’ at all!”
+
+Supper effective little tool. I go through each color, select the ones I think are missing, paste the IDs back into the LLM, and then have it update each icon&#39;s metadata.
+
+Boom, done! That all would’ve taken _so_ long before. I would’ve never done it.
+
+Takeaways:
+
+- The LLM is good at making throw-away code. This doesn’t need to be “production-grade” code I depend on. Just something that’s good enough for me to get a job done, then toss. The resulting metadata is the goal, not the tool I use to get to the goal.
+- The LLM is good at making one-off HTML pages for a specific task. In my case, all these images were hosted on a CDN, easy enough to just point at and have a standalone `.html` file that I can locate on my hard drive and open directly as a `file://` URL. No bundling. No transpilation. None of that. I don’t even need a web server! Keeping things _very_ basic on this project is paying off: I had really elemental building blocks that didn’t require additional third-party tooling. Just HTML, CSS, a little in-page JS, and images on a server!
+- It’s fun to say, “Don’t do the work for me. Instead, help me make a custom-fit tool that facilitates me doing the work in the most empowering, correct way possible.”
+
+* * *
+
+Reply via:
+
+
+[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/use-llm-to-add-color-metadata/)
+· [Mastodon](https://mastodon.social/@jimniels) ·
+
+[Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
+      <guid>cid://https://blog.jim-nielsen.com/2026/use-llm-to-add-color-metadata/</guid>
+    </item>    <item>
+      <title>Trump Declares War on Canada</title>
+      <link>https://robertreich.substack.com/p/trump-declares-war-on-canada</link>
+      <description>
+        <![CDATA[Why? Because he&#8217;s a peevish, perverse, enraged child]]>
+      </description>
+      <source:markdown>Why? Because he’s a peevish, perverse, enraged child</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!2l9m!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc70589c9-4bf7-4a5d-bb8a-b3deaaa34dbd_1536x864.webp" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/trump-declares-war-on-canada</guid>
+    </item>    <item>
+      <title>Our Wins Of The Week</title>
+      <link>https://thinkbigpicture.substack.com/p/week-progressive-wins-august-23</link>
+      <description>
+        <![CDATA[As the midterm elections approach, Democrats have the momentum, and it&#8217;s growing.]]>
+      </description>
+      <source:markdown>As the midterm elections approach, Democrats have the momentum, and it’s growing.</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/8d7e35ea-f484-4f45-ac5c-4e074502a9c3_1016x522.png" length="0" type="image/jpeg" />
+      <guid>cid://https://thinkbigpicture.substack.com/p/week-progressive-wins-august-23</guid>
+    </item>    <item>
+      <title>Coming To Terms With The True Cost Of Trump’s Failed War, Ds Must Lean Hard Into The Energy Transition, The Dem Ticket Rocks South Texas</title>
+      <link>https://www.hopiumchronicles.com/p/coming-to-terms-with-the-true-cost</link>
+      <description>
+        <![CDATA[&#8220;The US Armed Forces have probably permanently lost access to 15 Persian Gulf bases&#8221;]]>
+      </description>
+      <source:markdown>“The US Armed Forces have probably permanently lost access to 15 Persian Gulf bases”</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/409e12c1-1e40-4b86-b7c6-a0c60cf917b7_438x372.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/coming-to-terms-with-the-true-cost</guid>
+    </item>    <item>
+      <title>Week Thirteen in 250 to 250</title>
+      <link>https://heathercoxrichardson.substack.com/p/week-thirteen-in-250-to-250</link>
+      <description>
+        <![CDATA[Week Thirteen!]]>
+      </description>
+      <source:markdown>Week Thirteen!</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/055b33bb-b0e8-47cd-a948-cf434871b1a0_1920x1080.png" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/week-thirteen-in-250-to-250</guid>
+    </item>    <item>
+      <title>A few words about Canada and the US</title>
+      <link>https://garymarcus.substack.com/p/a-few-words-about-canada-and-the</link>
+      <description>
+        <![CDATA[Sorry, this one is not about AI. But sometimes one must speak out.]]>
+      </description>
+      <source:markdown>Sorry, this one is not about AI. But sometimes one must speak out.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!f6f_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fnews_img%2F2091502461928329216%2F1s-efXL9%3Fformat%3Djpg%26name%3Dorig" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/a-few-words-about-canada-and-the</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/08/23.html#a161609</link>
+      <description>
+        <![CDATA[Now in Claude's defense, I had to re-learn everything about how Frontier worked. Over the last decade or so I had only been using a narrow set of functionality. I used it for very occasional utility scripts for the file system or over the web, but mostly for writing JavaScript code, and published on GitHub and deployed to servers. If I had been uptospeed on how it works internally and all it's capabilities, when we started, it would have gone somewhat more smoothly. But now in my own defense, Claude has a nasty habit of deciding it fully understands something when it doesn't even slightly understand it. If it asked for a pointer, I could have given it a good one, but it just skated over those things, never questioning it's own guestimation. We used to call this docufiction back in the day, you don't know how they are going to design a feature, so you make up a UI, and document it as if that were the truth. Only now we're doing it with the actual code. It's funny in a way, I guess. But what a huge waste of time, and so much stress because you have to read every word or you'll miss a wrong assumption.]]>
+      </description>
+      <source:markdown>Now in Claude&#39;s defense, I had to re-learn everything about how Frontier worked. Over the last decade or so I had only been using a narrow set of functionality. I used it for very occasional utility scripts for the file system or over the web, but mostly for writing JavaScript code, and published on GitHub and deployed to servers. If I had been uptospeed on how it works internally and all it&#39;s capabilities, when we started, it would have gone somewhat more smoothly. But now in my own defense, Claude has a nasty habit of deciding it fully understands something when it doesn&#39;t even slightly understand it. If it asked for a pointer, I could have given it a good one, but it just skated over those things, never questioning it&#39;s own guestimation. We used to call this docufiction back in the day, you don&#39;t know how they are going to design a feature, so you make up a UI, and document it as if that were the truth. Only now we&#39;re doing it with the actual code. It&#39;s funny in a way, I guess. But what a huge waste of time, and so much stress because you have to read every word or you&#39;ll miss a wrong assumption.</source:markdown>
+      <guid>cid://http://scripting.com/2026/08/23.html#a161609</guid>
+    </item>    <item>
+      <title>BREAKING: More bad news for the frontier AI companies</title>
+      <link>https://garymarcus.substack.com/p/breaking-more-bad-news-for-the-frontier</link>
+      <description>
+        <![CDATA[Cheaper tools are thriving. What does this mean for the upcoming IPOs?]]>
+      </description>
+      <source:markdown>Cheaper tools are thriving. What does this mean for the upcoming IPOs?</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!q8OZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fnews_img%2F2091441482276458496%2FpayoVD7c%3Fformat%3Djpg%26name%3Dorig" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/breaking-more-bad-news-for-the-frontier</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/08/23.html#a151526</link>
+      <description>
+        <![CDATA[Today's development version of Frontier is buggy and the kernel developer (Claude) keeps breaking the most basic verbs. You spin your wheels and wish you could get them to just get keep it together. I remember this from the work that led up to Frontier version 1.0 in 1991 or so. It was a miserable time. Never got to work on what I wanted to, just reported breakage, often a session-ending dealstopper. The sad part is that Claude should be able to find the things it broke on its own, far better than I can and at a much lower expense (I'm paying for its time, not the other way around). But basically every day begins optimistically, maybe today is the day I get to <i>create</i> something, but not yet. I did have a couple of days a week ago when I could tentatively work on building a GitHub repo, but then got distracted by verifying that the basic foundation still wasn't right. My only goal right now, and I'm single-minded about it, is to get it to move forward without breaking the essentials, then without breaking anything.]]>
+      </description>
+      <source:markdown>Today&#39;s development version of Frontier is buggy and the kernel developer (Claude) keeps breaking the most basic verbs. You spin your wheels and wish you could get them to just get keep it together. I remember this from the work that led up to Frontier version 1.0 in 1991 or so. It was a miserable time. Never got to work on what I wanted to, just reported breakage, often a session-ending dealstopper. The sad part is that Claude should be able to find the things it broke on its own, far better than I can and at a much lower expense (I&#39;m paying for its time, not the other way around). But basically every day begins optimistically, maybe today is the day I get to _create_ something, but not yet. I did have a couple of days a week ago when I could tentatively work on building a GitHub repo, but then got distracted by verifying that the basic foundation still wasn&#39;t right. My only goal right now, and I&#39;m single-minded about it, is to get it to move forward without breaking the essentials, then without breaking anything.</source:markdown>
+      <guid>cid://http://scripting.com/2026/08/23.html#a151526</guid>
     </item>    <item>
       <title>“Sweet Caroline”</title>
       <link>https://steady.substack.com/p/sweet-caroline</link>
@@ -1224,6 +1737,15 @@ Some notes from Simeon on id.loc.gov RDF data for the Blue Core project.
       <category>video</category>
       <category>web</category>
     </item>    <item>
+      <title>Monday 24 August, 2026</title>
+      <link>https://memex.naughtons.org/monday-24-august-2026/42610/</link>
+      <description>
+        <![CDATA[Big Skies A view of Brancaster beach that is almost painterly. Quote of the Day ”Successful investing is anticipating the anticipations of others.” John Maynard Keynes (I think he also likened betting on the stock market to judging a beauty &#8230; <a href="https://memex.naughtons.org/monday-24-august-2026/42610/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>Big Skies A view of Brancaster beach that is almost painterly. Quote of the Day ”Successful investing is anticipating the anticipations of others.” John Maynard Keynes (I think he also likened betting on the stock market to judging a beauty … [Continue reading →](https://memex.naughtons.org/monday-24-august-2026/42610/)</source:markdown>
+      <guid>cid://https://memex.naughtons.org/?p=42610</guid>
+      <category>Online version</category>
+    </item>    <item>
       <title>How to see hidden East Anglia as a US service member</title>
       <link>https://petewarden.com/2026/08/22/how-to-see-hidden-east-anglia-as-a-us-service-member/</link>
       <description>
@@ -1242,6 +1764,13 @@ Some notes from Simeon on id.loc.gov RDF data for the Blue Core project.
       <enclosure url="https://substackcdn.com/image/fetch/$s_!BdEg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ab795b8-dd4b-4d19-a995-641d37b3c700_700x538.webp" length="0" type="image/jpeg" />
       <guid>cid://https://danismart.substack.com/p/slips-and-glimpses-a36</guid>
     </item>    <item>
+      <link>http://scripting.com/2026/08/22.html#a205328</link>
+      <description>
+        <![CDATA[Two podcasts I can recommend without reservation.]]>
+      </description>
+      <source:markdown>Two podcasts I can recommend without reservation.</source:markdown>
+      <guid>cid://http://scripting.com/2026/08/22.html#a205328</guid>
+    </item>    <item>
       <title>ARR vs ARR. Watch out for this one sly trick.</title>
       <link>https://garymarcus.substack.com/p/arr-vs-arr-watch-out-for-this-one</link>
       <description>
@@ -1250,6 +1779,20 @@ Some notes from Simeon on id.loc.gov RDF data for the Blue Core project.
       <source:markdown>What’s in an acronym? How to read between the lines.</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!j2-v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa138e2aa-b515-4f94-b4e1-53ed637207db_1310x890.png" length="0" type="image/jpeg" />
       <guid>cid://https://garymarcus.substack.com/p/arr-vs-arr-watch-out-for-this-one</guid>
+    </item>    <item>
+      <title>Could Markdown go to School?</title>
+      <link>https://johnjohnston.info/blog/could-markdown-go-to-school/</link>
+      <description>
+        <![CDATA[I prefer using Markdown over Word for document creation, it is simple and structured. Daring Fireball reported the integration of Markdown with OneDrive. I wonder if it could be used for teaching children  before using more complex software like Word.]]>
+      </description>
+      <source:markdown>I prefer using Markdown over Word for document creation, it is simple and structured. Daring Fireball reported the integration of Markdown with OneDrive. I wonder if it could be used for teaching children before using more complex software like Word.</source:markdown>
+      <guid>cid://https://johnjohnston.info/blog/?p=22462</guid>
+      <category>posse</category>
+      <category>wwwd</category>
+      <category>classroom</category>
+      <category>Daring Fireball</category>
+      <category>markdown</category>
+      <category>onedrive</category>
     </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/117140560156293386</link>
       <description>
@@ -2175,9 +2718,9 @@ The post [Measuring what’s inside: calculating the carbon footprint of our pro
       <title>Agents on Databricks: The platform is ready, your business context is not</title>
       <link>https://www.thoughtworks.com/insights/blog/technology-strategy/agents-on-databricks-the-platform-is-ready-your-business-context-is-not</link>
       <description>
-        <![CDATA[<div><img src="https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_054.jpg" class="type:primaryImage webfeedsFeaturedVisual"></div><p>Agents on Databricks: The platform is ready, your business context is not</p>]]>
+        <![CDATA[<div><img src="https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_038.jpg" class="type:primaryImage webfeedsFeaturedVisual"></div><p>Agents on Databricks: The platform is ready, your business context is not</p>]]>
       </description>
-      <source:markdown>![](https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_054.jpg)
+      <source:markdown>![](https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_038.jpg)
 
 Agents on Databricks: The platform is ready, your business context is not</source:markdown>
       <guid>cid://https://www.thoughtworks.com/insights/blog/technology-strategy/agents-on-databricks-the-platform-is-ready-your-business-context-is-not</guid>
@@ -5628,9 +6171,9 @@ The post [Introducing the Raspberry Pi Compute Module 5 Programming Jig](https:/
       <title>The alpha playbook: AI for investment professionals</title>
       <link>https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/The-alpha-playbook-AI-for-investment-professionals</link>
       <description>
-        <![CDATA[<div><img src="https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_038.jpg" class="type:primaryImage webfeedsFeaturedVisual"></div><p>The alpha playbook: AI for investment professionals</p>]]>
+        <![CDATA[<div><img src="https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_049.jpg" class="type:primaryImage webfeedsFeaturedVisual"></div><p>The alpha playbook: AI for investment professionals</p>]]>
       </description>
-      <source:markdown>![](https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_038.jpg)
+      <source:markdown>![](https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_049.jpg)
 
 The alpha playbook: AI for investment professionals</source:markdown>
       <guid>cid://https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/The-alpha-playbook-AI-for-investment-professionals</guid>
@@ -10221,9 +10764,9 @@ I’ve also tried other apps that use the Reminders database, but I haven’t fo
       <title>An operating model for enterprise AI agent reliability</title>
       <link>https://www.thoughtworks.com/insights/blog/generative-ai/operating-model-enterprise-ai-agent-reliability</link>
       <description>
-        <![CDATA[<div><img src="https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_049.jpg" class="type:primaryImage webfeedsFeaturedVisual"></div><p>An operating model for enterprise AI agent reliability</p>]]>
+        <![CDATA[<div><img src="https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_001.jpg" class="type:primaryImage webfeedsFeaturedVisual"></div><p>An operating model for enterprise AI agent reliability</p>]]>
       </description>
-      <source:markdown>![](https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_049.jpg)
+      <source:markdown>![](https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_001.jpg)
 
 An operating model for enterprise AI agent reliability</source:markdown>
       <guid>cid://https://www.thoughtworks.com/insights/blog/generative-ai/operating-model-enterprise-ai-agent-reliability</guid>
@@ -12844,9 +13387,9 @@ And there it stayed, resting again, until I moved too fast or too close and it d
       <title>Understanding agents, their five controllers and one graph</title>
       <link>https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/understanding-agents-their-five-controllers-and-one-graph</link>
       <description>
-        <![CDATA[<div><img src="https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_001.jpg" class="type:primaryImage webfeedsFeaturedVisual"></div><p>Understanding agents, their five controllers and one graph</p>]]>
+        <![CDATA[<div><img src="https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_057.jpg" class="type:primaryImage webfeedsFeaturedVisual"></div><p>Understanding agents, their five controllers and one graph</p>]]>
       </description>
-      <source:markdown>![](https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_001.jpg)
+      <source:markdown>![](https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_057.jpg)
 
 Understanding agents, their five controllers and one graph</source:markdown>
       <guid>cid://https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/understanding-agents-their-five-controllers-and-one-graph</guid>
@@ -13098,6 +13641,20 @@ La entrada [El final de la calle Oak: un retrato familiar al límite](https://ww
       <source:markdown>Friends, I found 30 minutes tonight for a quick report from Austin. We will meet from 6 to 630pm.....lots to discuss!</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!Z7rJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50121fec-910b-466d-b7f9-8ac510760632_864x789.png" length="0" type="image/jpeg" />
       <guid>cid://https://www.hopiumchronicles.com/p/tonight-6pm-et-ill-report-in-from</guid>
+    </item>    <item>
+      <title>Who uses WordPress?</title>
+      <link>https://johnjohnston.info/blog/who-uses-wordpress/</link>
+      <description>
+        <![CDATA[Thinking about teachers and pupils using WordPress, sparked, in part by Our Core Division posted by  Matt Mullenweg]]>
+      </description>
+      <source:markdown>Thinking about teachers and pupils using WordPress, sparked, in part by Our Core Division posted by Matt Mullenweg</source:markdown>
+      <guid>cid://https://johnjohnston.info/blog/?p=22420</guid>
+      <category>posse</category>
+      <category>wwwd</category>
+      <category>blogging</category>
+      <category>Glow Blogs</category>
+      <category>Matt Mullenweg</category>
+      <category>WordPress</category>
     </item>    <item>
       <link>https://glammr.us/@IIIF/117083158902971307</link>
       <description>
@@ -15300,9 +15857,9 @@ you try it and something doesn’t work please [let me know](mailto:ehs@pobox.co
       <title>Putting NVIDIA Nemotron 3.5 Lightning to the test</title>
       <link>https://www.thoughtworks.com/insights/blog/generative-ai/putting-nvidia-nemotron-3-5-lightning-test</link>
       <description>
-        <![CDATA[<div><img src="https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_057.jpg" class="type:primaryImage webfeedsFeaturedVisual"></div><p>Putting NVIDIA Nemotron 3.5 Lightning to the test</p>]]>
+        <![CDATA[<div><img src="https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_046.jpg" class="type:primaryImage webfeedsFeaturedVisual"></div><p>Putting NVIDIA Nemotron 3.5 Lightning to the test</p>]]>
       </description>
-      <source:markdown>![](https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_057.jpg)
+      <source:markdown>![](https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_046.jpg)
 
 Putting NVIDIA Nemotron 3.5 Lightning to the test</source:markdown>
       <guid>cid://https://www.thoughtworks.com/insights/blog/generative-ai/putting-nvidia-nemotron-3-5-lightning-test</guid>
@@ -21846,9 +22403,9 @@ Thanks to Morgan Gibbons and Anthony Hogbin for some of the photos and memories.
       <title>The importance of agent delegation architecture</title>
       <link>https://www.thoughtworks.com/insights/blog/generative-ai/importance-agent-delegation-architecture</link>
       <description>
-        <![CDATA[<div><img src="https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_046.jpg" class="type:primaryImage webfeedsFeaturedVisual"></div><p>The importance of agent delegation architecture</p>]]>
+        <![CDATA[<div><img src="https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_043.jpg" class="type:primaryImage webfeedsFeaturedVisual"></div><p>The importance of agent delegation architecture</p>]]>
       </description>
-      <source:markdown>![](https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_046.jpg)
+      <source:markdown>![](https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/abstract/insights/blog/abs_blogs_043.jpg)
 
 The importance of agent delegation architecture</source:markdown>
       <guid>cid://https://www.thoughtworks.com/insights/blog/generative-ai/importance-agent-delegation-architecture</guid>
@@ -26953,1065 +27510,6 @@ Click a demo to see its CSS source code below the gallery!
 
 How data agents fail, and why it’s a context problem</source:markdown>
       <guid>cid://https://www.thoughtworks.com/insights/articles/How-data-agents-fail-and-why-its-a-context-problem</guid>
-    </item>    <item>
-      <title>Monday 3 August, 2026</title>
-      <link>https://memex.naughtons.org/monday-3-august-2026/42518/</link>
-      <description>
-        <![CDATA[Benjamin We spent a couple of glorious days at Knepp last week which meant, among other things, discovering that rabbits on the estate seemed relatively relaxed about having humans nearby. This chap spent much of his time nibbling near where &#8230; <a href="https://memex.naughtons.org/monday-3-august-2026/42518/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <source:markdown>Benjamin We spent a couple of glorious days at Knepp last week which meant, among other things, discovering that rabbits on the estate seemed relatively relaxed about having humans nearby. This chap spent much of his time nibbling near where … [Continue reading →](https://memex.naughtons.org/monday-3-august-2026/42518/)</source:markdown>
-      <guid>cid://https://memex.naughtons.org/?p=42518</guid>
-      <category>Online version</category>
-    </item>    <item>
-      <link>http://scripting.com/2026/08/02.html#a212707</link>
-      <description>
-        <![CDATA[<a href="https://news.ycombinator.com/item?id=49136063">Fascinating thread</a> on Hacker News about RSS.]]>
-      </description>
-      <source:markdown>[Fascinating thread](https://news.ycombinator.com/item?id=49136063) on Hacker News about RSS.</source:markdown>
-      <guid>cid://http://scripting.com/2026/08/02.html#a212707</guid>
-    </item>    <item>
-      <title>OpenAI’s amazing — but vastly oversold — new model Astra</title>
-      <link>https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold</link>
-      <description>
-        <![CDATA[Eight or nine misconceptions about Astra. See if you can spot the biggest fallacy.]]>
-      </description>
-      <source:markdown>Eight or nine misconceptions about Astra. See if you can spot the biggest fallacy.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!FupX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOn2XyYasAA_rAp.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold</guid>
-    </item>    <item>
-      <title>To paraphrase Oscar Wilde: to fuck up HTML once is unfortunate; to fuck it up twice is downright careless. https://adactio.com/journal/22360 It’s baaaa-aaaack!</title>
-      <link>https://adactio.com/notes/22691</link>
-      <description>
-        <![CDATA[<p>To paraphrase Oscar Wilde: to fuck up HTML once is unfortunate; to fuck it up twice is downright careless.</p>
-        
-        <p><a href="https://adactio.com/journal/22360">https://adactio.com/journal/22360</a></p>
-        
-        <p>It’s baaaa-aaaack!</p>]]>
-      </description>
-      <source:markdown>To paraphrase Oscar Wilde: to fuck up HTML once is unfortunate; to fuck it up twice is downright careless.
-
-[https://adactio.com/journal/22360](https://adactio.com/journal/22360)
-
-It’s baaaa-aaaack!</source:markdown>
-      <guid>cid://https://adactio.com/notes/22691</guid>
-    </item>    <item>
-      <title>With the latest update to iOS26, Safari has reintroduced this shocking bug that they had previously fixed: https://bugs.webkit.org/show_bug.cgi?id=305719 Apple, you’ve broken HTML. Again. Slow clap.</title>
-      <link>https://adactio.com/notes/22690</link>
-      <description>
-        <![CDATA[<p>With the latest update to iOS26, Safari has reintroduced this shocking bug that they had previously fixed:</p>
-        
-        <p><a href="https://bugs.webkit.org/show_bug.cgi?id=305719">https://bugs.webkit.org/show_bug.cgi?id=305719</a></p>
-        
-        <p>Apple, you’ve broken HTML. Again.</p>
-        
-        <p>Slow clap.</p>]]>
-      </description>
-      <source:markdown>With the latest update to iOS26, Safari has reintroduced this shocking bug that they had previously fixed:
-
-[https://bugs.webkit.org/show\_bug.cgi?id=305719](https://bugs.webkit.org/show_bug.cgi?id=305719)
-
-Apple, you’ve broken HTML. Again.
-
-Slow clap.</source:markdown>
-      <guid>cid://https://adactio.com/notes/22690</guid>
-    </item>    <item>
-      <title>Sunday caption contest: Reflecting</title>
-      <link>https://robertreich.substack.com/p/sunday-caption-contest-reflecting-383</link>
-      <description>
-        <![CDATA[And last week's winner]]>
-      </description>
-      <source:markdown>And last week&#39;s winner</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!HEUG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97d73711-fb75-4b48-8948-8d8d28fdb223_2779x2366.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/sunday-caption-contest-reflecting-383</guid>
-    </item>    <item>
-      <title>Games at the press of a button: The Rip-O-Bot (1989)</title>
-      <link>https://blog.gingerbeardman.com/2026/08/02/games-at-the-press-of-a-button-the-rip-o-bot/</link>
-      <description>
-        <![CDATA[<p><a href="https://en.wikipedia.org/wiki/Fukio_Mitsuji">Fukio Mitsuji</a> (三辻富貴朗)—known by his nickname “MTJ”, squeezed from the consonants of his surname, <em>Mi-Tsu-Ji</em>—was the game designer behind <em>Bubble Bobble</em>, <em>Rainbow Islands</em>, <em>Syvalion</em>, <em>Volfied</em>, and <em>Magical Puzzle Popils</em>. Surely one of the greatest to walk these hallowed halls.</p>
-        
-        <p>In the late 1980s he also wrote a column for the Japanese arcade magazine <em>GAMEST</em> called ゲームデザイン入門—<em>Introduction to Game Design</em>—aimed at readers who dreamed of becoming game designers themselves.</p>
-        
-        <p><img src="https://cdn.gingerbeardman.com/images/posts/mtj-gamest-31-prediction.jpg" alt="IMG" /></p>
-        
-        <p>In part 2 of the series, published in <a href="https://archive.org/details/gamest0031/page/n77/mode/2up"><em>GAMEST</em> No. 31 (April 1989)</a>, MTJ is railing against imitation games—パクリ, “rip-offs”—and the industry attitude that produces them. He quotes a manager at an unnamed company:</p>
-        
-        <blockquote>
-          <p>「10年先!? その頃には今のゲームを知らない世代がプレイヤー層をしめてるさ！ だからあえて変える必要もない！ あとは目さき（外見）さえ変えてやりゃあ…プレイヤーなんて与えられたものをやるだけさ!!」</p>
-        
-          <p><em>“Ten years from now!? By then the player base will be a generation that doesn’t even know today’s games! So there’s no need to go changing anything! Just tweak the surface—the outside—and… players just play whatever they’re handed!!”</em></p>
-        </blockquote>
-        
-        <p>Then, to show where that road leads, he writes a little scene of science fiction. Set in “the very near future” (超近未来), at the development office of the fictional Dekoboko Co., a game is created by conversing with a machine:</p>
-        
-        <blockquote>
-          <p>「ゴシュジンサマ、コンドハナンノゲームノパクリデイキヤショウカ？ インカムバッチリデッセ!?」</p>
-        
-          <p><em>“MASTER, WHICH GAME SHALL WE RIP OFF THIS TIME? THE TAKINGS’LL BE SPLENDID!?”</em></p>
-        
-          <p>「ゲームメイヲ、ニュウリョクシナハレ！ ハヨ、センカイ！ ワレ！」</p>
-        
-          <p><em>“ENTER THE GAME NAME, IF YOU’D BE SO KIND—COME ON, GET ON WITH IT, YOU!”</em></p>
-        
-          <p>○✕社の△□と入力！ いたって簡単だ。</p>
-        
-          <p><em>I punch in Company ○×’s “△□”. Dead simple.</em></p>
-        
-          <p>「OK! OK! ツギハハイケイノイメージデゴワス。ツギノナカカラエランデタモレ」</p>
-        
-          <p><em>“OK! OK! NEXT IS THE BACKGROUND IMAGE, SIR. PRAY CHOOSE FROM THE FOLLOWING.”</em></p>
-        
-          <p>私は億というファイルからそれを見つけるのがめんどうなので、いつもの様にランダムチョイスのキーを押した！ 1発でOKだ！</p>
-        
-          <p><em>Digging that out of hundreds of millions of files is a pain, so as usual I hit the random-choice key! One shot and it’s done!</em></p>
-        
-          <p>「サテ、ツギハキャラクタージャケン、…ツギノナカカラ…」</p>
-        
-          <p><em>“RIGHT THEN, NEXT IT’S THE CHARACTERS, SO IT IS… FROM THE FOLLOWING…”</em></p>
-        
-          <p>「えぇーい!!」</p>
-        
-          <p><em>“Aaaargh!!”</em></p>
-        
-          <p>私はいいかげんうんざりしたので、全て、ランダムチョイスのキーを押しまくった!!</p>
-        
-          <p><em>I’d had quite enough, so I just hammered the random-choice key for everything!!</em></p>
-        
-          <p>「出来た!! 大傑作だ。大傑作の…コピーゲームだ。これで我が社も丸もうけ」</p>
-        
-          <p><em>“IT’S DONE!! A MASTERPIECE. A MASTERPIECE OF A… COPY GAME. Our company’s going to clean up with this one.”</em></p>
-        </blockquote>
-        
-        <p>Reading it now, the resemblance to today’s generative-ai tools is hard to miss. I don’t think this was clairvoyance—MTJ’s deep immersion in the Japan’s 1980s game industry allowed him to see the outcome as an inevitability.</p>
-        
-        <p>(In the original, the robot speaks entirely in katakana, its speech wobbling between Kansai, Kyushu, and Hiroshima dialects with the odd flourish of archaic courtly Japanese—エランデタモレ, “pray choose”. English can’t really reproduce that, so here it’s an over-formal servant whose register keeps slipping.)</p>
-        
-        <p>MTJ even gives his machine a name: the パクリングロボット (<em>Pakuringu Robotto</em>). パクリング is a word you won’t find in any dictionary—it’s his own coinage, the slang パクリ (<em>pakuri</em>, “rip-off”) bolted onto an English <em>-ing</em>, as in サンプリング (sampling) or ボウリング (bowling). A jokey pseudo-word built from real parts, which is why I can’t resist translating it as the <em>Rip-O-Bot</em>. He follows the skit with a warning that lands rather differently reading it today:</p>
-        
-        <blockquote>
-          <p>と言ったかどうかは知らないけど、こんな時代がもうそこまで来ているのは事実です。</p>
-        
-          <p><em>Whether it happens exactly like that or not I don’t know, but it’s a fact that an era like this is very nearly upon us.</em></p>
-        
-          <p>199X年、平凡なゲームデザイナー達は、「パクリングロボット」の出現により、大量に解雇！ てな事になった時、君にはこんなロボット連中に負けないだけの意気込みとオリジナリティーがはたして残ってるだろうか？</p>
-        
-          <p><em>199X. When ordinary game designers are laid off en masse thanks to the arrival of the “Rip-O-Bot”—when that happens, will you still have enough drive and originality left in you to beat robots like those?</em></p>
-        
-          <p>物真ねならロボットにだって出来る！ とは思いませんか？ 人間らしい独創的な事に頭と心を使おうではありませんか!!</p>
-        
-          <p><em>Robots can do imitation too!—don’t you agree? Let’s put our heads and our hearts into the sort of original work that only humans can do.</em></p>
-        </blockquote>
-        
-        <p>He was out by a couple of decades on the date, but much of it feels familiar: a machine that can produce a passable derivative work at the press of a button, followed by the question of what that leaves for the people who used to make them. His answer is the thesis of the whole column, emphasised in the original:</p>
-        
-        <blockquote>
-          <p>「ゲームは行きつくところアイデアだ！」</p>
-        
-          <p><em>“In the end, a game IS the idea!”</em></p>
-        </blockquote>
-        
-        <p>Elsewhere on the page he makes the same point from the other direction: graphics will eventually have “a reality you can’t tell apart from the real thing”, so judging a game by its looks is a dead end; and the era where “anyone can make a game” had, in his view, already arrived—learn a few basic techniques of game feel and presentation and even “the ladies next door” (隣のおばさん達) could turn out a passable imitation. If the only difference between you and them is technique, you have no difference at all. The idea, he says, is “the one and only, final <em>weapon</em> left to you” (あなたに残された唯一、最後の”武器”).</p>
-        
-        <hr />
-        
-        <h2 id="the-osamu-tezuka-of-the-game-world">The Osamu Tezuka of the game world</h2>
-        
-        <p>There’s a poignant footnote to the page. Osamu Tezuka, the “god of manga”, had died on 9 February 1989, shortly before this issue went to press. The page carries a hand-drawn cartoon of a young designer-to-be, pencil in pocket, gazing up at a thought bubble containing Tezuka in his trademark beret:</p>
-        
-        <blockquote>
-          <p>ほんとうに偉大なまんが家 手塚治虫氏がなくなった…</p>
-        
-          <p><em>The truly great manga artist Osamu Tezuka has passed away…</em></p>
-        
-          <p>はたして ゲーム界の手塚治虫は 出現するのだろうか？…</p>
-        
-          <p><em>Will the Osamu Tezuka of the game world ever appear?…</em></p>
-        </blockquote>
-        
-        <p>To me, this is the same question as the Rip-O-Bot’s, approached from the other direction: if imitation becomes easy, where will the next genuinely original designer come from?</p>
-        
-        <p>MTJ died in 2008, at the age of 48, long before the arrival of the Rip-O-Bots. But he’d already written the response, thirty-something years early: robots can do imitation too. So don’t compete with them there.</p>
-        
-        <hr />
-        
-        <h2 id="fuel-for-jinks">Fuel for Jinks</h2>
-        
-        <p>This page is one of the things that fuelled the creation of <a href="/2026/07/30/hi-jinks/">Jinks</a>, my new way to make games. It sharpened a question I was already thinking about: if a game can be made at the click of a button, where should the human effort go?</p>
-        
-        <p>With Jinks, I’m trying to spend less time reimplementing input, scoring, display, and other boilerplate, and more time experimenting with gameplay, systems, and rules. That doesn’t guarantee originality—Jinks could be used to make a copycat game too—but it gives me more time to work on the parts that can make a game <em>mine</em>.</p>
-        
-        <p>The Rip-O-Bots can make copycat games. The idea is still the weapon.</p>
-        
-        <hr />
-        
-        <h2 id="source--translation">Source &amp; translation</h2>
-        
-        <ul>
-          <li><a href="https://archive.org/details/gamest0031/page/n77/mode/2up"><em>GAMEST</em> No. 31, April 1989, page 74, on the Internet Archive</a></li>
-        </ul>
-        
-        <blockquote>
-          <p>The Japanese text is my own transcription from the scan, converted from the original vertical right-to-left layout. For the English, I ran the page through multiple machine translators—the irony is not lost on me—and compared and combined the results. Only one caught that インカム (“income”) is arcade-trade jargon for a machine’s coin takings. All this to say: the English quotes are machine-assisted translations assembled and lightly edited by me, rather than professional translations.</p>
-        </blockquote>]]>
-      </description>
-      <source:markdown>[Fukio Mitsuji](https://en.wikipedia.org/wiki/Fukio_Mitsuji) (三辻富貴朗)—known by his nickname “MTJ”, squeezed from the consonants of his surname, _Mi-Tsu-Ji_—was the game designer behind _Bubble Bobble_, _Rainbow Islands_, _Syvalion_, _Volfied_, and _Magical Puzzle Popils_. Surely one of the greatest to walk these hallowed halls.
-
-In the late 1980s he also wrote a column for the Japanese arcade magazine _GAMEST_ called ゲームデザイン入門— _Introduction to Game Design_—aimed at readers who dreamed of becoming game designers themselves.
-
-![IMG](https://cdn.gingerbeardman.com/images/posts/mtj-gamest-31-prediction.jpg)
-
-In part 2 of the series, published in [_GAMEST_ No. 31 (April 1989)](https://archive.org/details/gamest0031/page/n77/mode/2up), MTJ is railing against imitation games—パクリ, “rip-offs”—and the industry attitude that produces them. He quotes a manager at an unnamed company:
-
-&#62; 「10年先!? その頃には今のゲームを知らない世代がプレイヤー層をしめてるさ！ だからあえて変える必要もない！ あとは目さき（外見）さえ変えてやりゃあ…プレイヤーなんて与えられたものをやるだけさ!!」
-&#62;
-&#62; _“Ten years from now!? By then the player base will be a generation that doesn’t even know today’s games! So there’s no need to go changing anything! Just tweak the surface—the outside—and… players just play whatever they’re handed!!”_
-
-Then, to show where that road leads, he writes a little scene of science fiction. Set in “the very near future” (超近未来), at the development office of the fictional Dekoboko Co., a game is created by conversing with a machine:
-
-&#62; 「ゴシュジンサマ、コンドハナンノゲームノパクリデイキヤショウカ？ インカムバッチリデッセ!?」
-&#62;
-&#62; _“MASTER, WHICH GAME SHALL WE RIP OFF THIS TIME? THE TAKINGS’LL BE SPLENDID!?”_
-&#62;
-&#62; 「ゲームメイヲ、ニュウリョクシナハレ！ ハヨ、センカイ！ ワレ！」
-&#62;
-&#62; _“ENTER THE GAME NAME, IF YOU’D BE SO KIND—COME ON, GET ON WITH IT, YOU!”_
-&#62;
-&#62; ○✕社の△□と入力！ いたって簡単だ。
-&#62;
-&#62; _I punch in Company ○×’s “△□”. Dead simple._
-&#62;
-&#62; 「OK! OK! ツギハハイケイノイメージデゴワス。ツギノナカカラエランデタモレ」
-&#62;
-&#62; _“OK! OK! NEXT IS THE BACKGROUND IMAGE, SIR. PRAY CHOOSE FROM THE FOLLOWING.”_
-&#62;
-&#62; 私は億というファイルからそれを見つけるのがめんどうなので、いつもの様にランダムチョイスのキーを押した！ 1発でOKだ！
-&#62;
-&#62; _Digging that out of hundreds of millions of files is a pain, so as usual I hit the random-choice key! One shot and it’s done!_
-&#62;
-&#62; 「サテ、ツギハキャラクタージャケン、…ツギノナカカラ…」
-&#62;
-&#62; _“RIGHT THEN, NEXT IT’S THE CHARACTERS, SO IT IS… FROM THE FOLLOWING…”_
-&#62;
-&#62; 「えぇーい!!」
-&#62;
-&#62; _“Aaaargh!!”_
-&#62;
-&#62; 私はいいかげんうんざりしたので、全て、ランダムチョイスのキーを押しまくった!!
-&#62;
-&#62; _I’d had quite enough, so I just hammered the random-choice key for everything!!_
-&#62;
-&#62; 「出来た!! 大傑作だ。大傑作の…コピーゲームだ。これで我が社も丸もうけ」
-&#62;
-&#62; _“IT’S DONE!! A MASTERPIECE. A MASTERPIECE OF A… COPY GAME. Our company’s going to clean up with this one.”_
-
-Reading it now, the resemblance to today’s generative-ai tools is hard to miss. I don’t think this was clairvoyance—MTJ’s deep immersion in the Japan’s 1980s game industry allowed him to see the outcome as an inevitability.
-
-(In the original, the robot speaks entirely in katakana, its speech wobbling between Kansai, Kyushu, and Hiroshima dialects with the odd flourish of archaic courtly Japanese—エランデタモレ, “pray choose”. English can’t really reproduce that, so here it’s an over-formal servant whose register keeps slipping.)
-
-MTJ even gives his machine a name: the パクリングロボット ( _Pakuringu Robotto_). パクリング is a word you won’t find in any dictionary—it’s his own coinage, the slang パクリ ( _pakuri_, “rip-off”) bolted onto an English _-ing_, as in サンプリング (sampling) or ボウリング (bowling). A jokey pseudo-word built from real parts, which is why I can’t resist translating it as the _Rip-O-Bot_. He follows the skit with a warning that lands rather differently reading it today:
-
-&#62; と言ったかどうかは知らないけど、こんな時代がもうそこまで来ているのは事実です。
-&#62;
-&#62; _Whether it happens exactly like that or not I don’t know, but it’s a fact that an era like this is very nearly upon us._
-&#62;
-&#62; 199X年、平凡なゲームデザイナー達は、「パクリングロボット」の出現により、大量に解雇！ てな事になった時、君にはこんなロボット連中に負けないだけの意気込みとオリジナリティーがはたして残ってるだろうか？
-&#62;
-&#62; _199X. When ordinary game designers are laid off en masse thanks to the arrival of the “Rip-O-Bot”—when that happens, will you still have enough drive and originality left in you to beat robots like those?_
-&#62;
-&#62; 物真ねならロボットにだって出来る！ とは思いませんか？ 人間らしい独創的な事に頭と心を使おうではありませんか!!
-&#62;
-&#62; _Robots can do imitation too!—don’t you agree? Let’s put our heads and our hearts into the sort of original work that only humans can do._
-
-He was out by a couple of decades on the date, but much of it feels familiar: a machine that can produce a passable derivative work at the press of a button, followed by the question of what that leaves for the people who used to make them. His answer is the thesis of the whole column, emphasised in the original:
-
-&#62; 「ゲームは行きつくところアイデアだ！」
-&#62;
-&#62; _“In the end, a game IS the idea!”_
-
-Elsewhere on the page he makes the same point from the other direction: graphics will eventually have “a reality you can’t tell apart from the real thing”, so judging a game by its looks is a dead end; and the era where “anyone can make a game” had, in his view, already arrived—learn a few basic techniques of game feel and presentation and even “the ladies next door” (隣のおばさん達) could turn out a passable imitation. If the only difference between you and them is technique, you have no difference at all. The idea, he says, is “the one and only, final _weapon_ left to you” (あなたに残された唯一、最後の”武器”).
-
-* * *
-
-## The Osamu Tezuka of the game world
-
-There’s a poignant footnote to the page. Osamu Tezuka, the “god of manga”, had died on 9 February 1989, shortly before this issue went to press. The page carries a hand-drawn cartoon of a young designer-to-be, pencil in pocket, gazing up at a thought bubble containing Tezuka in his trademark beret:
-
-&#62; ほんとうに偉大なまんが家 手塚治虫氏がなくなった…
-&#62;
-&#62; _The truly great manga artist Osamu Tezuka has passed away…_
-&#62;
-&#62; はたして ゲーム界の手塚治虫は 出現するのだろうか？…
-&#62;
-&#62; _Will the Osamu Tezuka of the game world ever appear?…_
-
-To me, this is the same question as the Rip-O-Bot’s, approached from the other direction: if imitation becomes easy, where will the next genuinely original designer come from?
-
-MTJ died in 2008, at the age of 48, long before the arrival of the Rip-O-Bots. But he’d already written the response, thirty-something years early: robots can do imitation too. So don’t compete with them there.
-
-* * *
-
-## Fuel for Jinks
-
-This page is one of the things that fuelled the creation of [Jinks](/2026/07/30/hi-jinks/), my new way to make games. It sharpened a question I was already thinking about: if a game can be made at the click of a button, where should the human effort go?
-
-With Jinks, I’m trying to spend less time reimplementing input, scoring, display, and other boilerplate, and more time experimenting with gameplay, systems, and rules. That doesn’t guarantee originality—Jinks could be used to make a copycat game too—but it gives me more time to work on the parts that can make a game _mine_.
-
-The Rip-O-Bots can make copycat games. The idea is still the weapon.
-
-* * *
-
-## Source &#38; translation
-
-- [_GAMEST_ No. 31, April 1989, page 74, on the Internet Archive](https://archive.org/details/gamest0031/page/n77/mode/2up)
-
-&#62; The Japanese text is my own transcription from the scan, converted from the original vertical right-to-left layout. For the English, I ran the page through multiple machine translators—the irony is not lost on me—and compared and combined the results. Only one caught that インカム (“income”) is arcade-trade jargon for a machine’s coin takings. All this to say: the English quotes are machine-assisted translations assembled and lightly edited by me, rather than professional translations.</source:markdown>
-      <guid>cid://https://blog.gingerbeardman.com/2026/08/02/games-at-the-press-of-a-button-the-rip-o-bot/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/08/02.html#a184757</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2026/02/23/reallySimpleRavioli.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Taking some time off to breathe and regain perspective. Fixed a few bugs, and wrote about the big picture on <a href="https://demo.rss.chat/?id=378">demo.rss.chat</a>. I really want to get a project going to peer with <a href="https://standard.site/">standard.site apps</a> running in AT Proto, both ways, from us to them, and from them to us, via RSS. We can peer with them because as far as I can tell they implement <a href="https://textcasting.org/">textcasting</a>. This bridge would demonstrate something important. When something interesting shows up not based entirely on web standards, we're flexible if the attraction is strong enough. This is how the <a href="https://en.wikipedia.org/wiki/Internet_protocol_suite#History">internet</a> came to be. Our systems are prepared to create bridges. And unlike bridging between systems that have different ideas of what text is, which are basically hopeless, if we agree that the <a href="https://www.w3.org/History/19921103-hypertext/hypertext/WWW/MarkUp/Tags.html">web standard for text</a> is fine for writers and reader, better than the ridiculous limits imposed by twitter-like systems. Writing on the web has been crippled since Twitter, now let's start building it back up. That's the appeal of standard.site, they are working toward the same goal. We should work together.]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2026/02/23/reallySimpleRavioli.png)Taking some time off to breathe and regain perspective. Fixed a few bugs, and wrote about the big picture on [demo.rss.chat](https://demo.rss.chat/?id=378). I really want to get a project going to peer with [standard.site apps](https://standard.site/) running in AT Proto, both ways, from us to them, and from them to us, via RSS. We can peer with them because as far as I can tell they implement [textcasting](https://textcasting.org/). This bridge would demonstrate something important. When something interesting shows up not based entirely on web standards, we&#39;re flexible if the attraction is strong enough. This is how the [internet](https://en.wikipedia.org/wiki/Internet_protocol_suite#History) came to be. Our systems are prepared to create bridges. And unlike bridging between systems that have different ideas of what text is, which are basically hopeless, if we agree that the [web standard for text](https://www.w3.org/History/19921103-hypertext/hypertext/WWW/MarkUp/Tags.html) is fine for writers and reader, better than the ridiculous limits imposed by twitter-like systems. Writing on the web has been crippled since Twitter, now let&#39;s start building it back up. That&#39;s the appeal of standard.site, they are working toward the same goal. We should work together.</source:markdown>
-      <guid>cid://http://scripting.com/2026/08/02.html#a184757</guid>
-    </item>    <item>
-      <title>Our Wins Of The Week</title>
-      <link>https://thinkbigpicture.substack.com/p/week-progressive-wins-august-2</link>
-      <description>
-        <![CDATA[This was not a good week to be Donald Trump, or any Republican running in this year&#8217;s midterm elections for that matter.]]>
-      </description>
-      <source:markdown>This was not a good week to be Donald Trump, or any Republican running in this year’s midterm elections for that matter.</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/a053fc9a-f630-46a1-8611-e4d59917dc51_1048x566.png" length="0" type="image/jpeg" />
-      <guid>cid://https://thinkbigpicture.substack.com/p/week-progressive-wins-august-2</guid>
-    </item>    <item>
-      <title>Been A Good Week Of Polling For Democrats, New Polls In Michigan, As His Powers Ebb Trump&#39;s War With Reality Is Growing More Desperate</title>
-      <link>https://www.hopiumchronicles.com/p/as-his-powers-ebb-trumps-war-with</link>
-      <description>
-        <![CDATA[Got a bunch of terrific new candidate interviews for you.....]]>
-      </description>
-      <source:markdown>Got a bunch of terrific new candidate interviews for you.....</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!XWS3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3eeb54b2-47ce-4b8f-a46e-59a1ffb696d3_1845x1531.png" length="0" type="image/jpeg" />
-      <guid>cid://https://www.hopiumchronicles.com/p/as-his-powers-ebb-trumps-war-with</guid>
-    </item>    <item>
-      <title>A Funny Novel Stuck In The Protagonist&#39;s Head</title>
-      <link>https://buttondown.com/humorouswriting/archive/a-funny-novel-stuck-in-the-protagonists-head/</link>
-      <description>
-        <![CDATA[<h3 data-pm-slice="1 1 []"><strong><em>Welcome to the Subscription Edition of A Newsletter of Humorous Writing. Our paid subscribers keep the weekly newsletter running, and we’re deeply grateful for your support. (And if you’re not already subscribed,</em></strong> <a href="https://buy.stripe.com/cN25mI1X21Gp6XeeUZ?utm_source=humorouswriting&amp;utm_medium=email" rel="noopener noreferrer nofollow" target="_blank"><strong><em>you can sign up here</em></strong></a><strong><em>.)</em></strong></h3>
-        <p><em>This edition is the latest in an ongoing series by James about funny novels. Today, he’s considering a stream-of-consciousness novel starring a distracted man who is hopelessly lost in thought on his lunch break. After that, we’ve got a couple of recommendations of things we’ve been into lately: Some tasty potato chips and a new, writing-focused issue of an academic journal.</em></p>
-        <hr/><p>James here! In the past I’ve recommended novels about <a href="https://buttondown.com/humorouswriting/archive/another-funny-novel-we-love-and-why-it-works-so/" rel="noopener noreferrer nofollow" target="_blank">surreal offices</a>, <a href="https://buttondown.com/humorouswriting/archive/a-funny-novel-we-like-and-why-it-works-so-well/" rel="noopener noreferrer nofollow" target="_blank">midlife re-enactors</a>, <a href="https://buttondown.com/humorouswriting/archive/a-funny-episodic-historical-novel-that-we-like/" rel="noopener noreferrer nofollow" target="_blank">blundering conquistadors</a>, and <a href="https://buttondown.com/humorouswriting/archive/a-novel-with-a-funny-horny-premise-and-why-it/" rel="noopener noreferrer nofollow" target="_blank">the worryingly horny</a>, but the novel I want to recommend today is one where nothing happens. This is a book with no plot, barely a premise, but succeeds with a simple conceit and a <em>very</em> specific central character.</p>]]>
-      </description>
-      <source:markdown>### **_Welcome to the Subscription Edition of A Newsletter of Humorous Writing. Our paid subscribers keep the weekly newsletter running, and we’re deeply grateful for your support. (And if you’re not already subscribed,_** [**_you can sign up here_**](https://buy.stripe.com/cN25mI1X21Gp6XeeUZ?utm_source=humorouswriting&#38;utm_medium=email) **_.)_**
-
-_This edition is the latest in an ongoing series by James about funny novels. Today, he’s considering a stream-of-consciousness novel starring a distracted man who is hopelessly lost in thought on his lunch break. After that, we’ve got a couple of recommendations of things we’ve been into lately: Some tasty potato chips and a new, writing-focused issue of an academic journal._
-
-* * *
-
-James here! In the past I’ve recommended novels about [surreal offices](https://buttondown.com/humorouswriting/archive/another-funny-novel-we-love-and-why-it-works-so/), [midlife re-enactors](https://buttondown.com/humorouswriting/archive/a-funny-novel-we-like-and-why-it-works-so-well/), [blundering conquistadors](https://buttondown.com/humorouswriting/archive/a-funny-episodic-historical-novel-that-we-like/), and [the worryingly horny](https://buttondown.com/humorouswriting/archive/a-novel-with-a-funny-horny-premise-and-why-it/), but the novel I want to recommend today is one where nothing happens. This is a book with no plot, barely a premise, but succeeds with a simple conceit and a _very_ specific central character.</source:markdown>
-      <guid>cid://https://buttondown.com/humorouswriting/archive/a-funny-novel-stuck-in-the-protagonists-head/</guid>
-    </item>    <item>
-      <title>Sunday afternoon session in Belfast</title>
-      <link>https://adactio.com/notes/22689</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22689/small.jpg" srcset="https://adactio.com/images/uploaded/22689/medium.jpg 1.5x, https://adactio.com/images/uploaded/22689/large.jpg 2.5x" alt="Sunday afternoon session in Belfast" />
-        <p>Sunday afternoon session in Belfast</p>]]>
-      </description>
-      <source:markdown>![Sunday afternoon session in Belfast](https://adactio.com/images/uploaded/22689/small.jpg)
-
-Sunday afternoon session in Belfast</source:markdown>
-      <guid>cid://https://adactio.com/notes/22689</guid>
-    </item>    <item>
-      <title>“Take Me Home, Country Roads”</title>
-      <link>https://steady.substack.com/p/take-me-home-country-roads</link>
-      <description>
-        <![CDATA[A Reason To Smile]]>
-      </description>
-      <source:markdown>A Reason To Smile</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!cium!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18a0edff-8b1c-4e4e-84f8-5eba64e19352_3728x2790.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://steady.substack.com/p/take-me-home-country-roads</guid>
-    </item>    <item>
-      <title>On Men and Democrats</title>
-      <link>https://dbarkhuff.substack.com/p/on-men-and-democrats</link>
-      <description>
-        <![CDATA[I've been saying the same thing for a decade]]>
-      </description>
-      <source:markdown>I&#39;ve been saying the same thing for a decade</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!z0nA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd667162d-186a-4b41-8066-59f256672bac_1168x1166.png" length="0" type="image/jpeg" />
-      <guid>cid://https://dbarkhuff.substack.com/p/on-men-and-democrats</guid>
-    </item>    <item>
-      <title>Even Republicans in Congress can see how unpopular Trump&#39;s immigration agenda is</title>
-      <link>https://www.gelliottmorris.com/p/even-republicans-in-congress-can</link>
-      <description>
-        <![CDATA[Trump's deportation agenda is underwater in every swing state. Plus, Sabato moves 13 House ratings toward Democrats. Your weekly political data roundup for August 2, 2026.]]>
-      </description>
-      <source:markdown>Trump&#39;s deportation agenda is underwater in every swing state. Plus, Sabato moves 13 House ratings toward Democrats. Your weekly political data roundup for August 2, 2026.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!_VWe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5497206-4f60-4e67-ad1b-e7348ccb905c_2550x2070.png" length="0" type="image/jpeg" />
-      <guid>cid://https://www.gelliottmorris.com/p/even-republicans-in-congress-can</guid>
-    </item>    <item>
-      <title>Geoeconomics, Part I: Ranking Economic Superpowers</title>
-      <link>https://paulkrugman.substack.com/p/geoeconomics-part-i-ranking-economic</link>
-      <description>
-        <![CDATA[We&#8217;re #1! Or maybe #2. Or maybe &#8230;]]>
-      </description>
-      <source:markdown>We’re #1! Or maybe #2. Or maybe …</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!27xC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4c53d29-0de3-4285-9e57-2afe0c0ce712_1426x1976.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/geoeconomics-part-i-ranking-economic</guid>
-    </item>    <item>
-      <title>Other COVID Origin Stories Rand Paul Should Investigate</title>
-      <link>https://www.borowitzreport.com/p/other-covid-origin-stories-for-rand</link>
-      <description>
-        <![CDATA[TBR Sunday Read]]>
-      </description>
-      <source:markdown>TBR Sunday Read</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!CKIM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43339339-b67d-42ae-a093-696c5706bca5_1024x683.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/other-covid-origin-stories-for-rand</guid>
-    </item>    <item>
-      <title>The TEMU-fication of Software, Digital Goods &#38; Services</title>
-      <link>https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/</link>
-      <description>
-        <![CDATA[A hypothesis on the not-so-distant future of software, books, music, and
-        movies, in which most of what we consume gets cheaper, more abundant, and
-        noticeably worse, while the human-made variant moves into a luxury
-        segment of its own.]]>
-      </description>
-      <source:markdown>A hypothesis on the not-so-distant future of software, books, music, and
-movies, in which most of what we consume gets cheaper, more abundant, and
-noticeably worse, while the human-made variant moves into a luxury
-segment of its own.</source:markdown>
-      <author>marius@xn--gckvb8fzb.com (Marius)</author>
-      <guid>cid:///the-temu-fication-of-software-digital-goods-services/</guid>
-    </item>    <item>
-      <title>Sunday thought: Real Patriotism</title>
-      <link>https://robertreich.substack.com/p/sunday-thought-the-collapse</link>
-      <description>
-        <![CDATA[From Texas to North Carolina]]>
-      </description>
-      <source:markdown>From Texas to North Carolina</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!qf5n!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1f465e7-cdad-46fd-b634-13358fce82aa_468x530.png" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/sunday-thought-the-collapse</guid>
-    </item>    <item>
-      <title>Is Europe having a bad wildfire year?</title>
-      <link>https://hannahritchie.substack.com/p/europe-wildfires-2026</link>
-      <description>
-        <![CDATA[Several countries in Europe are having a very large wildfire year; this is offset by lower burn in the Balkans]]>
-      </description>
-      <source:markdown>Several countries in Europe are having a very large wildfire year; this is offset by lower burn in the Balkans</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/a5a3c566-8c02-4a1d-9196-2c232bba6e7e_2400x1544.png" length="0" type="image/jpeg" />
-      <guid>cid://https://hannahritchie.substack.com/p/europe-wildfires-2026</guid>
-    </item>    <item>
-      <title>Episode IX of Phase One: Orchestrating docs, AI accuracy, and the pipeline writer</title>
-      <link>https://passo.uno/episode-ix-phase-one-orchestrating-docs-anthropic/</link>
-      <description>
-        <![CDATA[<p>Ninth episode of the AI &amp; Docs podcast series is up! In this one, Tom and I talk with Sarah Deaton, a technical writer at Anthropic, about what documentation work looks like when automation handles most content generation: shifting from writing to orchestrating, mining AI assistant conversations for gaps, building forensic processes for accuracy claims, and managing high-volume PR pipelines without losing quality.</p>
-        <p>You can watch / listen to the episode here:</p>]]>
-      </description>
-      <source:markdown>Ninth episode of the AI &#38; Docs podcast series is up! In this one, Tom and I talk with Sarah Deaton, a technical writer at Anthropic, about what documentation work looks like when automation handles most content generation: shifting from writing to orchestrating, mining AI assistant conversations for gaps, building forensic processes for accuracy claims, and managing high-volume PR pipelines without losing quality.
-
-You can watch / listen to the episode here:</source:markdown>
-      <guid>cid://https://passo.uno/episode-ix-phase-one-orchestrating-docs-anthropic/</guid>
-    </item>    <item>
-      <title>August 1, 2026</title>
-      <link>https://heathercoxrichardson.substack.com/p/august-1-2026</link>
-      <description>
-        <![CDATA[In a classic Friday night news dump, the Department of Justice last night moved to dismiss the criminal charges against David Hearn, the U.S.]]>
-      </description>
-      <source:markdown>In a classic Friday night news dump, the Department of Justice last night moved to dismiss the criminal charges against David Hearn, the U.S.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/august-1-2026</guid>
-    </item>    <item>
-      <title>Bookmarks - llm, archive, music, programming</title>
-      <link>https://inkdroid.org/2026/08/02/bookmarks/</link>
-      <description>
-        <![CDATA[These are some things I’ve wandered across on the web this week.
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://wattenberger.com/thoughts/code-is-a-medium-for-thought/">
-        Code was our medium for thought </a>
-        </h2>
-        <section class="p-summary">
-        See how we weren’t just “writing code”? We were exploring the problem,
-        making decisions, evolving our understanding of the code, problem
-        solving with teammates. Writing code was our medium for thought, where
-        we figured out what we wanted. Our code evolved with our thinking, going
-        from “fuzzy” to “clear and granular” in tandem.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/programming/">programming</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://en.wikipedia.org/wiki/Bugonia_(film)">
-        Bugonia (film) </a>
-        </h2>
-        <section class="p-summary">
-        Bugonia is a 2025 dark comedy film[b] directed by Yorgos Lanthimos and
-        written by Will Tracy. An English-language remake of the 2003 South
-        Korean film Save the Green Planet! by Jang Joon-hwan, the film follows
-        two young men who kidnap a powerful CEO, suspecting that she is secretly
-        an alien who wants to destroy Earth. A co-production of the United
-        Kingdom, Ireland, South Korea, and the United States, the film stars
-        Emma Stone, Jesse Plemons, Aidan Delbis, Stavros Halkias, and Alicia
-        Silverstone.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/movie/">movie</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://en.wikipedia.org/wiki/Be_Here_to_Love_Me">
-        Be Here to Love Me </a>
-        </h2>
-        <section class="p-summary">
-        Be Here To Love Me: A Film About Townes Van Zandt is a 2004 documentary
-        film directed by Margaret Brown which chronicles the often turbulent
-        life of American singer-songwriter Townes Van Zandt. The film includes
-        interviews of Van Zandt’s immediate family and contemporaries such as
-        Willie Nelson, Kris Kristofferson, Emmylou Harris, Lyle Lovett, Steve
-        Earle and Guy Clark[1] along with “home movies, old TV performances and,
-        especially, mid-Seventies footage originally filmed by James Szalapski
-        for his outlaw country documentary Heartworn Highways.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/documentary/">documentary</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/music/">music</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://www.theguardian.com/us-news/ng-interactive/2026/jul/28/ice-protests-antifa-minnesota">
-        The professor facing prison in ‘antifa’ case: ‘They want to scare all
-        who oppose ICE’ </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        The broader suggestion of the indictment is that Davis’s statements in
-        Signal chats and meetings, alongside the statements and actions of
-        others, show the groups collectively were conspiring to oppose the US
-        government’s authority and interfere with ICE – and that they were
-        connected to “Antifa groups” that “blend anarchist and communist views”.
-        </p>
-        At a press conference announcing the charges, Rosen said the prosecution
-        supported the mission of Donald Trump’s executive order last year that
-        designated “antifa” a “domestic terrorist organization” responsible for
-        “riots” against ICE. Antifa is not a formal entity, but an umbrella term
-        for a wide array of anti-fascist activism.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/activism/">activism</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/politics/">politics</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://darkhours.io/"> Dark Hours </a>
-        </h2>
-        <section class="p-summary">
-        A mobile friendly SPA that tell you about the night sky at your
-        location, built with open source and open data.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/astronomy/">astronomy</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/data/">data</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/weather/">weather</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://magazine.viterbi.usc.edu/fall-2015/whats-next/password-poetry/">
-        Password Poetry </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        The critical balance between security and memorability is famously
-        illusive. Passwords tough enough to withstand an attack are impossible
-        to memorize. The words and short phrases that agree to stay in our
-        brains can be cracked in a matter of hours, if not minutes. From
-        brilliant mathematicians to colorful cartoonists, some of our best minds
-        have tried their hands at solving the persistent password problem.
-        </p>
-        Where they came up short, USC computational linguists may have
-        succeeded. Harnessing a time-honored method of memorization, Marjan
-        Ghazvininejad and Kevin Knight from the USC Information Sciences
-        Institute applied poetry to the problem. The result is memorable
-        passwords that, they said, take more than 11 years to break. Such
-        passwords promise to make online browsing, banking and shopping more
-        secure, once people start using them.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/poetry/">poetry</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/security/">security</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://flaminghydra.com/issue-617/#beyond-luddism">
-        Bodies upon the gears: Alternative approaches to The Man, considered by
-        Nathan Schneider </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        On this basis, the struggle against big tech can have two stories in
-        one: the vibrant resistance and refusal, but also the effort to build a
-        better economy under workers’ and users’ control. With these combined,
-        we need not accept defeat so easily.
-        </p>
-        When you resist big tech, remember that the choice need not be just Meta
-        or nothing, Google or nothing, ChatGPT or nothing. A durable resistance
-        needs alternatives. Join and support open social networks. Use search
-        and productivity tools that don’t spy on you. If it makes sense to use
-        generative AI, make sure that you can co-govern it. If we are going to
-        have data centers, they should be community controlled and running on
-        renewable energy. If we are going to have gig economies, workers should
-        be in charge. Tell your friends to subscribe to Flaming Hydra, Defector,
-        Hell Gate, Hearing Things, The Flytrap, and other cooperative publishing
-        organizations. A lot of possibilities are free to develop when people
-        refuse to accept dreary options as the only options.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/ai/">ai</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/coop/">coop</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/luddism/">luddism</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/permacomputing/">permacomputing</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://late.sh"> late.sh </a>
-        </h2>
-        <section class="p-summary">
-        a cozy command-line clubhouse for computer people
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/game/">game</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/ssh/">ssh</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/terminal/">terminal</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://bonfirenetworks.org/app/federated_archives/">
-        Bonfire: Federated Archives </a>
-        </h2>
-        <section class="p-summary">
-        Federated Archives Alliance is a Bonfire flavour that connects and
-        empowers public media archives worldwide. The instance enables archives
-        to maintain their autonomy while participating in a collaborative
-        network, allowing their collections to be discoverable and accessible
-        across the fediverse. The goal is to facilitate seamless sharing of
-        movie catalogs between participating archives, with granular permission
-        controls that respect each organization’s policies. Curators,
-        researchers, and authorized users can search across the entire federated
-        network, create curated collections, and contribute to the curation of
-        metadata while preserving the provenance of each item.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/activitypub/">activitypub</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/archive/">archive</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/decentralization/">decentralization</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://medium.com/@nyulibraries/nyu-receives-major-grant-to-preserve-local-journalism-3ac91b0ccf9b">
-        NYU Receives Major Grant to Preserve Local Journalism </a>
-        </h2>
-        <section class="p-summary">
-        NYU Libraries and Portico, a service of the nonprofit ITHAKA, have
-        received a two-year, $510,000 grant from the Mellon Foundation to
-        preserve local digital journalism and expand access to these important
-        historical records. Local journalism plays a vital role in documenting
-        the everyday life of communities. From school board meetings and
-        neighborhood developments to cultural events and local debates,
-        community news outlets create a rich record of the people, places, and
-        issues that shape our world. Yet this journalism — now largely digital —
-        is at risk of disappearing.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/archive/">archive</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/journalism/">journalism</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/mellon/">mellon</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://www.ecologicalcitizen.net/"> The
-        Ecological Citizen </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        The Ecological Citizen is an independent, peer-reviewed, free-to-access
-        journal that provides a forum for inspiring and mobilizing discussion
-        with an Earth-centred perspective. Content is published online and
-        grouped into issues on an approximately twice-yearly basis.
-        </p>
-        The publication has no financial affiliations, no publication charges
-        and no article access fees.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/environment/">environment</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/openaccess/">openaccess</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/publishing/">publishing</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/sustainability/">sustainability</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://youtu.be/p6m4TuDK2Bw"> Keynote: How
-        Complex Systems Taught Me To Fail - Imogen Wright </a>
-        </h2>
-        <section class="p-summary">
-        This talk traces a meandering story of twenty years of invention,
-        triumph and disaster, touching on theoretical physics, cloud computing,
-        viral genetics, pandemic responses, and nearly dying in an NHS A&amp;E
-        queue. You’ll pick up four generally applicable laws of complex systems,
-        gain some superpowers for averting an apocalypse, and hopefully laugh a
-        bit along the way. This isn’t much of a technical talk and it is neither
-        sanitised nor triumphant — expect sarcasm, most of all during the rough
-        patches. My hope is that you’ll leave seeing your own work differently,
-        especially if it’s quiet and unglamorous. Resilience is a property of
-        systems, not their components, and it’s the people who notice small
-        changes and tend locally who make the biggest differences of all.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/care/">care</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/complexity/">complexity</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/engineering/">engineering</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/gardening/">gardening</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/presentation/">presentation</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://thequietus.com/opinion-and-essays/black-sky-thinking/the-fall-and-mark-e-smith-as-a-narrative-lyric-writer/">
-        The Fall and Mark E Smith As A Narrative Lyric Writer </a>
-        </h2>
-        <section class="p-summary">
-        This happened, then that happened, then something else happened to
-        happen, or maybe didn’t happen… and it never matters like you think,
-        because nothing ever happens like you think.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/music/">music</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/writing/">writing</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://rheingold.com/andus-salon.html"> How
-        to Think in the Age of Answers </a>
-        </h2>
-        <section class="p-summary">
-        A conversation with Howard Rheingold on why AI is a know-how problem
-        before it is a technology problem, and what it takes to augment human
-        thinking rather than surrender it.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/management/">management</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/search/">search</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://codeberg.org/Schoeneh/sharing-is-caring/src/branch/main/Misc/2026-07-27_RSS-Reader.md">
-        Misc/2026-07-27_RSS-Reader.md </a>
-        </h2>
-        <section class="p-summary">
-        A short list of RSS tools compiled by Henrik Schönemann, from a
-        fediverse thread.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/rss/">rss</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://opencode.ai/"> OpenCode </a>
-        </h2>
-        <section class="p-summary">
-        The open source AI coding agent. Free models included or connect any
-        model from any provider, including Claude, GPT, Gemini and more.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/localfirst/">localfirst</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/opensource/">opensource</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/programming/">programming</a>
-        </p>
-        </article>]]>
-      </description>
-      <source:markdown>These are some things I’ve wandered across on the web this week.
-
-## 🔖 [Code was our medium for thought](https://wattenberger.com/thoughts/code-is-a-medium-for-thought/)
-
-See how we weren’t just “writing code”? We were exploring the problem,
-making decisions, evolving our understanding of the code, problem
-solving with teammates. Writing code was our medium for thought, where
-we figured out what we wanted. Our code evolved with our thinking, going
-from “fuzzy” to “clear and granular” in tandem.
-
-[programming](/tag/programming/)
-
-## 🔖 [Bugonia (film)](https://en.wikipedia.org/wiki/Bugonia_(film))
-
-Bugonia is a 2025 dark comedy film\[b\] directed by Yorgos Lanthimos and
-written by Will Tracy. An English-language remake of the 2003 South
-Korean film Save the Green Planet! by Jang Joon-hwan, the film follows
-two young men who kidnap a powerful CEO, suspecting that she is secretly
-an alien who wants to destroy Earth. A co-production of the United
-Kingdom, Ireland, South Korea, and the United States, the film stars
-Emma Stone, Jesse Plemons, Aidan Delbis, Stavros Halkias, and Alicia
-Silverstone.
-
-[movie](/tag/movie/)
-
-## 🔖 [Be Here to Love Me](https://en.wikipedia.org/wiki/Be_Here_to_Love_Me)
-
-Be Here To Love Me: A Film About Townes Van Zandt is a 2004 documentary
-film directed by Margaret Brown which chronicles the often turbulent
-life of American singer-songwriter Townes Van Zandt. The film includes
-interviews of Van Zandt’s immediate family and contemporaries such as
-Willie Nelson, Kris Kristofferson, Emmylou Harris, Lyle Lovett, Steve
-Earle and Guy Clark\[1\] along with “home movies, old TV performances and,
-especially, mid-Seventies footage originally filmed by James Szalapski
-for his outlaw country documentary Heartworn Highways.
-
-[documentary](/tag/documentary/) [music](/tag/music/)
-
-## 🔖 [The professor facing prison in ‘antifa’ case: ‘They want to scare all\ who oppose ICE’](https://www.theguardian.com/us-news/ng-interactive/2026/jul/28/ice-protests-antifa-minnesota)
-
-The broader suggestion of the indictment is that Davis’s statements in
-Signal chats and meetings, alongside the statements and actions of
-others, show the groups collectively were conspiring to oppose the US
-government’s authority and interfere with ICE – and that they were
-connected to “Antifa groups” that “blend anarchist and communist views”.
-
-At a press conference announcing the charges, Rosen said the prosecution
-supported the mission of Donald Trump’s executive order last year that
-designated “antifa” a “domestic terrorist organization” responsible for
-“riots” against ICE. Antifa is not a formal entity, but an umbrella term
-for a wide array of anti-fascist activism.
-
-[activism](/tag/activism/) [politics](/tag/politics/)
-
-## 🔖 [Dark Hours](https://darkhours.io/)
-
-A mobile friendly SPA that tell you about the night sky at your
-location, built with open source and open data.
-
-[astronomy](/tag/astronomy/) [data](/tag/data/) [weather](/tag/weather/)
-
-## 🔖 [Password Poetry](https://magazine.viterbi.usc.edu/fall-2015/whats-next/password-poetry/)
-
-The critical balance between security and memorability is famously
-illusive. Passwords tough enough to withstand an attack are impossible
-to memorize. The words and short phrases that agree to stay in our
-brains can be cracked in a matter of hours, if not minutes. From
-brilliant mathematicians to colorful cartoonists, some of our best minds
-have tried their hands at solving the persistent password problem.
-
-Where they came up short, USC computational linguists may have
-succeeded. Harnessing a time-honored method of memorization, Marjan
-Ghazvininejad and Kevin Knight from the USC Information Sciences
-Institute applied poetry to the problem. The result is memorable
-passwords that, they said, take more than 11 years to break. Such
-passwords promise to make online browsing, banking and shopping more
-secure, once people start using them.
-
-[poetry](/tag/poetry/) [security](/tag/security/)
-
-## 🔖 [Bodies upon the gears: Alternative approaches to The Man, considered by\ Nathan Schneider](https://flaminghydra.com/issue-617/\#beyond-luddism)
-
-On this basis, the struggle against big tech can have two stories in
-one: the vibrant resistance and refusal, but also the effort to build a
-better economy under workers’ and users’ control. With these combined,
-we need not accept defeat so easily.
-
-When you resist big tech, remember that the choice need not be just Meta
-or nothing, Google or nothing, ChatGPT or nothing. A durable resistance
-needs alternatives. Join and support open social networks. Use search
-and productivity tools that don’t spy on you. If it makes sense to use
-generative AI, make sure that you can co-govern it. If we are going to
-have data centers, they should be community controlled and running on
-renewable energy. If we are going to have gig economies, workers should
-be in charge. Tell your friends to subscribe to Flaming Hydra, Defector,
-Hell Gate, Hearing Things, The Flytrap, and other cooperative publishing
-organizations. A lot of possibilities are free to develop when people
-refuse to accept dreary options as the only options.
-
-[ai](/tag/ai/) [coop](/tag/coop/) [luddism](/tag/luddism/) [permacomputing](/tag/permacomputing/)
-
-## 🔖 [late.sh](https://late.sh)
-
-a cozy command-line clubhouse for computer people
-
-[game](/tag/game/) [ssh](/tag/ssh/) [terminal](/tag/terminal/)
-
-## 🔖 [Bonfire: Federated Archives](https://bonfirenetworks.org/app/federated_archives/)
-
-Federated Archives Alliance is a Bonfire flavour that connects and
-empowers public media archives worldwide. The instance enables archives
-to maintain their autonomy while participating in a collaborative
-network, allowing their collections to be discoverable and accessible
-across the fediverse. The goal is to facilitate seamless sharing of
-movie catalogs between participating archives, with granular permission
-controls that respect each organization’s policies. Curators,
-researchers, and authorized users can search across the entire federated
-network, create curated collections, and contribute to the curation of
-metadata while preserving the provenance of each item.
-
-[activitypub](/tag/activitypub/) [archive](/tag/archive/) [decentralization](/tag/decentralization/)
-
-## 🔖 [NYU Receives Major Grant to Preserve Local Journalism](https://medium.com/@nyulibraries/nyu-receives-major-grant-to-preserve-local-journalism-3ac91b0ccf9b)
-
-NYU Libraries and Portico, a service of the nonprofit ITHAKA, have
-received a two-year, $510,000 grant from the Mellon Foundation to
-preserve local digital journalism and expand access to these important
-historical records. Local journalism plays a vital role in documenting
-the everyday life of communities. From school board meetings and
-neighborhood developments to cultural events and local debates,
-community news outlets create a rich record of the people, places, and
-issues that shape our world. Yet this journalism — now largely digital —
-is at risk of disappearing.
-
-[archive](/tag/archive/) [journalism](/tag/journalism/) [mellon](/tag/mellon/)
-
-## 🔖 [The\ Ecological Citizen](https://www.ecologicalcitizen.net/)
-
-The Ecological Citizen is an independent, peer-reviewed, free-to-access
-journal that provides a forum for inspiring and mobilizing discussion
-with an Earth-centred perspective. Content is published online and
-grouped into issues on an approximately twice-yearly basis.
-
-The publication has no financial affiliations, no publication charges
-and no article access fees.
-
-[environment](/tag/environment/) [openaccess](/tag/openaccess/) [publishing](/tag/publishing/) [sustainability](/tag/sustainability/)
-
-## 🔖 [Keynote: How\ Complex Systems Taught Me To Fail - Imogen Wright](https://youtu.be/p6m4TuDK2Bw)
-
-This talk traces a meandering story of twenty years of invention,
-triumph and disaster, touching on theoretical physics, cloud computing,
-viral genetics, pandemic responses, and nearly dying in an NHS A&#38;E
-queue. You’ll pick up four generally applicable laws of complex systems,
-gain some superpowers for averting an apocalypse, and hopefully laugh a
-bit along the way. This isn’t much of a technical talk and it is neither
-sanitised nor triumphant — expect sarcasm, most of all during the rough
-patches. My hope is that you’ll leave seeing your own work differently,
-especially if it’s quiet and unglamorous. Resilience is a property of
-systems, not their components, and it’s the people who notice small
-changes and tend locally who make the biggest differences of all.
-
-[care](/tag/care/) [complexity](/tag/complexity/) [engineering](/tag/engineering/) [gardening](/tag/gardening/) [presentation](/tag/presentation/)
-
-## 🔖 [The Fall and Mark E Smith As A Narrative Lyric Writer](https://thequietus.com/opinion-and-essays/black-sky-thinking/the-fall-and-mark-e-smith-as-a-narrative-lyric-writer/)
-
-This happened, then that happened, then something else happened to
-happen, or maybe didn’t happen… and it never matters like you think,
-because nothing ever happens like you think.
-
-[music](/tag/music/) [writing](/tag/writing/)
-
-## 🔖 [How\ to Think in the Age of Answers](https://rheingold.com/andus-salon.html)
-
-A conversation with Howard Rheingold on why AI is a know-how problem
-before it is a technology problem, and what it takes to augment human
-thinking rather than surrender it.
-
-[llm](/tag/llm/) [management](/tag/management/) [search](/tag/search/)
-
-## 🔖 [Misc/2026-07-27\_RSS-Reader.md](https://codeberg.org/Schoeneh/sharing-is-caring/src/branch/main/Misc/2026-07-27_RSS-Reader.md)
-
-A short list of RSS tools compiled by Henrik Schönemann, from a
-fediverse thread.
-
-[rss](/tag/rss/)
-
-## 🔖 [OpenCode](https://opencode.ai/)
-
-The open source AI coding agent. Free models included or connect any
-model from any provider, including Claude, GPT, Gemini and more.
-
-[llm](/tag/llm/) [localfirst](/tag/localfirst/) [opensource](/tag/opensource/) [programming](/tag/programming/)</source:markdown>
-      <guid>cid://https://inkdroid.org/2026/08/02/bookmarks/</guid>
-      <category>activism</category>
-      <category>activitypub</category>
-      <category>ai</category>
-      <category>archive</category>
-      <category>astronomy</category>
-      <category>bookmarks</category>
-      <category>care</category>
-      <category>complexity</category>
-      <category>coop</category>
-      <category>data</category>
-      <category>decentralization</category>
-      <category>documentary</category>
-      <category>engineering</category>
-      <category>environment</category>
-      <category>game</category>
-      <category>gardening</category>
-      <category>journalism</category>
-      <category>llm</category>
-      <category>localfirst</category>
-      <category>luddism</category>
-      <category>management</category>
-      <category>mellon</category>
-      <category>movie</category>
-      <category>music</category>
-      <category>openaccess</category>
-      <category>opensource</category>
-      <category>permacomputing</category>
-      <category>poetry</category>
-      <category>politics</category>
-      <category>presentation</category>
-      <category>programming</category>
-      <category>publishing</category>
-      <category>rss</category>
-      <category>search</category>
-      <category>security</category>
-      <category>ssh</category>
-      <category>sustainability</category>
-      <category>terminal</category>
-      <category>weather</category>
-      <category>writing</category>
-    </item>    <item>
-      <title>Vincent Pastore Tributes: ‘The Sopranos’ Alums Jamie-Lynn Sigler, Michael Imperioli &#38; More Remember “Kind-Hearted Brother”</title>
-      <link>https://deadline.com/2026/08/vincent-pastore-tributes-the-sopranos-alums-1237015368/</link>
-      <description>
-        <![CDATA[As the family loses another beloved member, The Sopranos alums are grieving the death of Vincent Pastore. Following the actor&#8217;s death at age 80, his co-stars from the acclaimed HBO series paid tribute to the man who was known for his portrayal of Salvatore &#8220;Big Pussy&#8221; Bonpensiero during the show&#8217;s six-season run from 1999 to [&#8230;]]]>
-      </description>
-      <source:markdown>As the family loses another beloved member, The Sopranos alums are grieving the death of Vincent Pastore. Following the actor’s death at age 80, his co-stars from the acclaimed HBO series paid tribute to the man who was known for his portrayal of Salvatore “Big Pussy” Bonpensiero during the show’s six-season run from 1999 to \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1237015368</guid>
-      <category>News</category>
-      <category>Obituaries</category>
-      <category>The Sopranos</category>
-      <category>Vincent Pastore</category>
-    </item>    <item>
-      <title>Scott Hylands Dead: ‘Night Heat’ &#38; ‘Fargo’ Actor Was 83</title>
-      <link>https://deadline.com/2026/08/scott-hylands-dead-1237015350/</link>
-      <description>
-        <![CDATA[Scott Hylands, the actor known for playing Detective Kevin &#8220;OB&#8221; O&#8217;Brien in Night Heat, has died. He was 83. The Canadian actor died on Wednesday, July 29, his cinematographer son Luke Hylands announced in a statement memorializing his &#8220;forever hero and best friend&#8221; on social media. &#8220;Husband, Father, Actor, Director, Writer, Storyteller, Friend, and lover [&#8230;]]]>
-      </description>
-      <source:markdown>Scott Hylands, the actor known for playing Detective Kevin “OB” O’Brien in Night Heat, has died. He was 83. The Canadian actor died on Wednesday, July 29, his cinematographer son Luke Hylands announced in a statement memorializing his “forever hero and best friend” on social media. “Husband, Father, Actor, Director, Writer, Storyteller, Friend, and lover \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1237015350</guid>
-      <category>News</category>
-      <category>Scott Hylands</category>
-    </item>    <item>
-      <title>Can Everyone Build Software Now?</title>
-      <link>https://jamesbowman.me/post/can-everyone-build-software-now/</link>
-      <description>
-        <![CDATA[The real difference between engineers and non-engineers &lsquo;vibe coding&rsquo;. Part 2 of a three-part series on AI, engineering, and what actually changed.]]>
-      </description>
-      <source:markdown>The real difference between engineers and non-engineers ‘vibe coding’. Part 2 of a three-part series on AI, engineering, and what actually changed.</source:markdown>
-      <guid>cid://https://jamesbowman.me/post/can-everyone-build-software-now/</guid>
     </item>
   </channel>
 </rss>

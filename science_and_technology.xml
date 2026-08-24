@@ -4,10 +4,47 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>23 Aug 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>24 Aug 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Reverse-engineering Apple’s Find My people</title>
+      <link>https://www.osnews.com/story/145870/reverse-engineering-apples-find-my-people/</link>
+      <description>
+        <![CDATA[So that is the whole pipeline exercised end-to-end. GrandSlam authenticates the Apple Account and obtains the IDS delegate. authenticateDS and id-register turn the Linux process into a registered Apple messaging identity. The Friends sequence attaches that identity to the existing accepted relationship. A missing-key SubscribeAndFetch makes the sharing device deliver its current P-224 key over APNs/IDS, inside a sender-verified P-256 NGM envelope. A second SearchParty fetch returns the encrypted report, and the P-224 key opens it locally. So yeah, in one sentence: authenticate to Apple’s private services, register the Linux machine as an IDS client, receive the existing Find My share key, and use it to fetch and decrypt a consented friend’s latest location. ↫ Zerotistic I wonder if it would be possible to build a proper third-party client for Apple&#8217;s Find My network like this, or if it would be trivial for the company to block it. I&#8217;m fairly sure quite a few people would love to be able to keep using Find My when moving away from Apple&#8217;s operating systems.]]>
+      </description>
+      <source:markdown>So that is the whole pipeline exercised end-to-end. GrandSlam authenticates the Apple Account and obtains the IDS delegate. authenticateDS and id-register turn the Linux process into a registered Apple messaging identity. The Friends sequence attaches that identity to the existing accepted relationship. A missing-key SubscribeAndFetch makes the sharing device deliver its current P-224 key over APNs/IDS, inside a sender-verified P-256 NGM envelope. A second SearchParty fetch returns the encrypted report, and the P-224 key opens it locally. So yeah, in one sentence: authenticate to Apple’s private services, register the Linux machine as an IDS client, receive the existing Find My share key, and use it to fetch and decrypt a consented friend’s latest location. ↫ Zerotistic I wonder if it would be possible to build a proper third-party client for Apple’s Find My network like this, or if it would be trivial for the company to block it. I’m fairly sure quite a few people would love to be able to keep using Find My when moving away from Apple’s operating systems.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145870</guid>
+      <category>Apple</category>
+    </item>    <item>
+      <title>How much has the U.S.’s wildlife changed since Lewis and Clark?</title>
+      <link>https://www.npr.org/2026/08/24/nx-s1-5896440/lewis-and-clark-250th-modern-survey-wildlife</link>
+      <description>
+        <![CDATA[Ever wish you could have been part of the Lewis and Clark expedition? Us too. The Corps of Discovery came across scores of plants and animals that were new to Western science: Grizzly bears, ponderosa pines, a “barking squirrel” that William Clark would later call the prairie dog. A modern effort is underway to see how much the country’s wildlife has changed in the 220-some years since their journey. Host <a href="https://www.npr.org/people/348779465/nathan-rott"target="_blank"   >Nate Rott</a> tags along with some scientists re-surveying a part of the expedition’s route in western Montana. And he wishes he was in better shape.<br/><br/><em>Interested in more science in the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at <a href="http://plus.npr.org/"target="_blank"   >plus.npr.org</a>.<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Ever wish you could have been part of the Lewis and Clark expedition? Us too. The Corps of Discovery came across scores of plants and animals that were new to Western science: Grizzly bears, ponderosa pines, a “barking squirrel” that William Clark would later call the prairie dog. A modern effort is underway to see how much the country’s wildlife has changed in the 220-some years since their journey. Host [Nate Rott](https://www.npr.org/people/348779465/nathan-rott) tags along with some scientists re-surveying a part of the expedition’s route in western Montana. And he wishes he was in better shape.
+
+_Interested in more science in the news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at [plus.npr.org](http://plus.npr.org/).
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/49b43b29-85de-4479-9d1e-6353065e2abc/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=49b43b29-85de-4479-9d1e-6353065e2abc&feed=F0qJcgXZ&t=podcast&e=nx-s1-5896440&p=510351&d=840&size=13451225" length="13451225" type="audio/mpeg" />
+      <guid>cid://2f740ea7-e7f0-4913-9228-d13365d66f60</guid>
+    </item>    <item>
+      <title>What Lake Bonneville Left Behind</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/</link>
+      <description>
+        <![CDATA[The drying of the massive lake exposed playas that became the setting for feats of engineering and technological ingenuity, as well as epic tales of exploration and desperation.]]>
+      </description>
+      <source:markdown>The drying of the massive lake exposed playas that became the setting for feats of engineering and technological ingenuity, as well as epic tales of exploration and desperation.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/</guid>
+      <category>DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging)</category>
+      <category>Earth Observatory</category>
+      <category>Human Dimensions</category>
+    </item>    <item>
       <title>Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming</title>
       <link>https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/</link>
       <description>
@@ -3092,15 +3129,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>Forgejo v13.0.0 is available. Breaking changes have been made to improve security and predictability of Forgejo Actions.</source:markdown>
       <guid>cid://https://forgejo.org/2026-08-runner-release-v13/</guid>
-    </item>    <item>
-      <title>APOD: 2026 August 2 – A Fire Rainbow over West Virginia</title>
-      <link>https://science.nasa.gov/image-article/apod/apod-2026-august-2-a-fire-rainbow-over-west-virginia/</link>
-      <description>
-        <![CDATA[APODScienceAPODAPOD: 2026 August 2 – A Fire…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Fire Rainbow over West Virginia Explanation: What’s happening to this cloud? Ice crystals in [&#8230;]]]>
-      </description>
-      <source:markdown>APODScienceAPODAPOD: 2026 August 2 – A Fire…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Fire Rainbow over West Virginia Explanation: What’s happening to this cloud? Ice crystals in \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-august-2-a-fire-rainbow-over-west-virginia/</guid>
-      <category>APOD</category>
     </item>
   </channel>
 </rss>

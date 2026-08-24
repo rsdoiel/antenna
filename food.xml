@@ -4,19 +4,65 @@
   <channel>
     <title><![CDATA[Healthy Eats]]></title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>23 Aug 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>24 Aug 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>A Twenty Coffee Blend Anyone? The Sprudge Roaster’s Village Has Component Suggestions</title>
-      <link>https://sprudge.com/a-twenty-coffee-blend-anyone-the-sprudge-roasters-village-has-component-suggestions-1278365.html</link>
+      <title>Hurricane Lala Devastates Coffee Farms On Ka’u</title>
+      <link>https://sprudge.com/hurricane-lala-devastates-coffee-farms-on-kau-1277238.html</link>
       <description>
-        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster's Village.]]>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Many are left without power or water and no way to leave.]]>
       </description>
-      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster&#39;s Village.**</source:markdown>
-      <guid>cid://https://sprudge.com/?p=1278365</guid>
-      <category>Roaster&#39;s Village</category>
-      <category>coffee</category>
+      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Many are left without power or water and no way to leave.**</source:markdown>
+      <guid>cid://https://sprudge.com/?p=1277238</guid>
+      <category>News</category>
+      <category>A Coffee Farm</category>
+      <category>hawaii</category>
+      <category>Hurricane Lala</category>
+      <category>Ka&#39;u</category>
+      <category>sf gate</category>
+      <category>the big island</category>
+    </item>    <item>
+      <title>Sheet-Pan Honey Chicken with Apples</title>
+      <link>https://www.tasteofhome.com/recipes/sheet-pan-honey-chicken-with-apples/</link>
+      <description>
+        <![CDATA[This sheet-pan honey chicken with apples is an easy fall dinner. It’s lovely for Rosh Hashanah, and perfect for weeknights too.]]>
+      </description>
+      <source:markdown>This sheet-pan honey chicken with apples is an easy fall dinner. It’s lovely for Rosh Hashanah, and perfect for weeknights too.</source:markdown>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2262322</guid>
+      <category>Bakeware</category>
+      <category>Baking Casseroles &#38; Savories</category>
+      <category>Chicken</category>
+      <category>Chicken Thighs</category>
+      <category>Cooking Style</category>
+      <category>Dairy-Free</category>
+      <category>Diabetic</category>
+      <category>Dinner</category>
+      <category>Easy</category>
+      <category>Gear</category>
+      <category>Gluten-Free</category>
+      <category>Health &#38; Wellness</category>
+      <category>Healthy Eating</category>
+      <category>Holidays &#38; Events</category>
+      <category>How To</category>
+      <category>Ingredients</category>
+      <category>Meal Types</category>
+      <category>Meat &#38; Poultry</category>
+      <category>Recipes</category>
+      <category>Roasting</category>
+      <category>Rosh Hashanah</category>
+      <category>Sheet Pan</category>
+      <category>Techniques</category>
+      <category>Test Kitchen</category>
+    </item>    <item>
+      <title>The 19 Best New Restaurants of 2026</title>
+      <link>https://www.bonappetit.com/story/best-new-restaurants-2026</link>
+      <description>
+        <![CDATA[The definitive list of the year's top US openings features a wine bar in NYC's Chinatown, a style-bending pizza spot in San Francisco, a thrilling izakaya in Kansas City, and more.]]>
+      </description>
+      <source:markdown>The definitive list of the year&#39;s top US openings features a wine bar in NYC&#39;s Chinatown, a style-bending pizza spot in San Francisco, a thrilling izakaya in Kansas City, and more.</source:markdown>
+      <guid>cid://6a85d5c8fd7fe63ef53a9470</guid>
+      <category>Restaurants</category>
     </item>    <item>
       <title>How Our Editors Pick the Best New Restaurants</title>
       <link>https://www.bonappetit.com/story/how-our-editors-pick-the-best-new-restaurants</link>
@@ -26,6 +72,172 @@
       <source:markdown>Editor in chief Jamila Robinson reflects on how the Best New Restaurants of 2026 gave us new ways to eat, gather, and see the world.</source:markdown>
       <guid>cid://6a7c8267a82f7068a84bd96c</guid>
       <category>Restaurants</category>
+    </item>    <item>
+      <title>Gooey Butter Cookies</title>
+      <link>https://www.bonappetit.com/recipe/gohan-gooey-butter-cookies</link>
+      <description>
+        <![CDATA[These playful cookies are reminiscent of St. Louis butter cake, with specks of crunchy rice brittle throughout.]]>
+      </description>
+      <source:markdown>These playful cookies are reminiscent of St. Louis butter cake, with specks of crunchy rice brittle throughout.</source:markdown>
+      <guid>cid://6a749a11f375a541e1d40ae3</guid>
+      <category>Recipes</category>
+    </item>    <item>
+      <title>Cry Baby</title>
+      <link>https://www.bonappetit.com/recipe/cry-baby</link>
+      <description>
+        <![CDATA[Sweet, aromatic, and bubblegum pink, this playful cocktail is the utter definition of fun.]]>
+      </description>
+      <source:markdown>Sweet, aromatic, and bubblegum pink, this playful cocktail is the utter definition of fun.</source:markdown>
+      <guid>cid://6a749a11d28278d01f2f7161</guid>
+      <category>Recipes</category>
+    </item>    <item>
+      <title>How to Turn Nerds Candy Into a Cocktail</title>
+      <link>https://www.bonappetit.com/story/nerds-candy-cocktail-how-to</link>
+      <description>
+        <![CDATA[At Bayonet, bartender Bradleigh Mobley infuses the nostalgic treat into a bubblegum pink drink.]]>
+      </description>
+      <source:markdown>At Bayonet, bartender Bradleigh Mobley infuses the nostalgic treat into a bubblegum pink drink.</source:markdown>
+      <guid>cid://6a847b44b1cdd77349a0e884</guid>
+      <category>Cooking</category>
+    </item>    <item>
+      <title>The Absolute Best Dishes We Ate at New Restaurants in 2026</title>
+      <link>https://www.bonappetit.com/story/best-new-restaurants-dishes-2026</link>
+      <description>
+        <![CDATA[An enormous chuleta kan-kan in DC, a funky, earthy fungi pizza in SF, and 11 other dishes our scouters loved.]]>
+      </description>
+      <source:markdown>An enormous chuleta kan-kan in DC, a funky, earthy fungi pizza in SF, and 11 other dishes our scouters loved.</source:markdown>
+      <guid>cid://6a875ca39863eac26844cbaf</guid>
+      <category>Restaurants</category>
+    </item>    <item>
+      <title>Your Exclusive Bon Appétit Subscriber Perks at This Year&#39;s Best New Restaurants</title>
+      <link>https://www.bonappetit.com/story/your-exclusive-bon-appetit-subscriber-perks-at-this-years-best-new-restaurants</link>
+      <description>
+        <![CDATA[As subscribers, you can redeem complimentary drinks and bites at three restaurants on our 2026 list in Chicago, Los Angeles, and San Francisco.]]>
+      </description>
+      <source:markdown>As subscribers, you can redeem complimentary drinks and bites at three restaurants on our 2026 list in Chicago, Los Angeles, and San Francisco.</source:markdown>
+      <guid>cid://6a85fb7b67ddd8851390d899</guid>
+      <category>Restaurants</category>
+    </item>    <item>
+      <title>The Best Little Treats to Try Across the US</title>
+      <link>https://www.bonappetit.com/story/best-new-little-treats-2026</link>
+      <description>
+        <![CDATA[Peanut butter shoyu pie, sausage-stuffed olives, and more desserts, snacks, and drinks our restaurant scouters love.]]>
+      </description>
+      <source:markdown>Peanut butter shoyu pie, sausage-stuffed olives, and more desserts, snacks, and drinks our restaurant scouters love.</source:markdown>
+      <guid>cid://6a875febdbe7776969a0af7e</guid>
+      <category>Restaurants</category>
+    </item>    <item>
+      <title>The Best Dining Is Happening During the Day</title>
+      <link>https://www.bonappetit.com/story/best-new-daytime-dining</link>
+      <description>
+        <![CDATA[A Japanese bakery in Nashville, cult breakfast burritos in Brooklyn, Indigenous fry bread in Portland: These are the seven best new daytime spots in the US.]]>
+      </description>
+      <source:markdown>A Japanese bakery in Nashville, cult breakfast burritos in Brooklyn, Indigenous fry bread in Portland: These are the seven best new daytime spots in the US.</source:markdown>
+      <guid>cid://6a87357777a2494e844613fe</guid>
+      <category>Restaurants</category>
+    </item>    <item>
+      <title>Cheeseburger Fried Rice</title>
+      <link>https://www.bonappetit.com/recipe/cheeseburger-fried-rice</link>
+      <description>
+        <![CDATA[An immediately familiar and comforting dish from Agnes and Sherman in Houston.]]>
+      </description>
+      <source:markdown>An immediately familiar and comforting dish from Agnes and Sherman in Houston.</source:markdown>
+      <guid>cid://6a749a115d28669da38a4b87</guid>
+      <category>Recipes</category>
+    </item>    <item>
+      <title>Coffee News Club: Week of August 24</title>
+      <link>https://freshcup.com/coffee-news-club-week-of-august-24/</link>
+      <description>
+        <![CDATA[<p>✉️ This story was featured in this week’s Coffee News Club👋 Get the Coffee News Club newsletter in your inbox weekly—sign up. Unicorn Frappuccino? Not at these unionized Starbucks stores. Plus, Colombian coffee farmers recovering from the recent earthquake fear the impact of El Niño, and why do so many specialty coffee shops look the same?&#8230;</p>
+        <p>The post <a href="https://freshcup.com/coffee-news-club-week-of-august-24/">Coffee News Club: Week of August 24</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
+      </description>
+      <source:markdown>✉️ This story was featured in this week’s Coffee News Club👋 Get the Coffee News Club newsletter in your inbox weekly—sign up. Unicorn Frappuccino? Not at these unionized Starbucks stores. Plus, Colombian coffee farmers recovering from the recent earthquake fear the impact of El Niño, and why do so many specialty coffee shops look the same?…
+
+The post [Coffee News Club: Week of August 24](https://freshcup.com/coffee-news-club-week-of-august-24/) appeared first on [Fresh Cup](https://freshcup.com).</source:markdown>
+      <guid>cid://https://freshcup.com/?p=45126</guid>
+      <category>News Hub</category>
+    </item>    <item>
+      <title>Homemade Ranch Dressing</title>
+      <link>https://www.chilipeppermadness.com/recipes/ranch-dressing/</link>
+      <description>
+        <![CDATA[<a href="https://www.chilipeppermadness.com/recipes/ranch-dressing/" title="Homemade Ranch Dressing" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2026/08/Ranch-Dressing-Recipe-JAR1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A spoon holds up creamy Homemade Ranch Dressing over a glass jar filled with more dressing, set on a blue surface with a green cloth nearby." style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2026/08/Ranch-Dressing-Recipe-JAR1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2026/08/Ranch-Dressing-Recipe-JAR1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2026/08/Ranch-Dressing-Recipe-JAR1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2026/08/Ranch-Dressing-Recipe-JAR1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2026/08/Ranch-Dressing-Recipe-JAR1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2026/08/Ranch-Dressing-Recipe-JAR1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2026/08/Ranch-Dressing-Recipe-JAR1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Make cool and creamy ranch dressing at home with a classic buttermilk, sour cream, and mayo base, plus fresh dill, chives and parsley. It only takes 5 minutes and it's perfect to serve with all of your favorite spicy dishes.</p>
+        <p>The post <a href="https://www.chilipeppermadness.com/recipes/ranch-dressing/">Homemade Ranch Dressing</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>]]>
+      </description>
+      <source:markdown>[![A spoon holds up creamy Homemade Ranch Dressing over a glass jar filled with more dressing, set on a blue surface with a green cloth nearby.](https://www.chilipeppermadness.com/wp-content/uploads/2026/08/Ranch-Dressing-Recipe-JAR1-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/ranch-dressing/ &#34;Homemade Ranch Dressing&#34;)
+
+Make cool and creamy ranch dressing at home with a classic buttermilk, sour cream, and mayo base, plus fresh dill, chives and parsley. It only takes 5 minutes and it&#39;s perfect to serve with all of your favorite spicy dishes.
+
+The post [Homemade Ranch Dressing](https://www.chilipeppermadness.com/recipes/ranch-dressing/) appeared first on [Chili Pepper Madness](https://www.chilipeppermadness.com).</source:markdown>
+      <guid>cid://https://www.chilipeppermadness.com/?p=91976</guid>
+      <category>Condiments</category>
+      <category>Recipes</category>
+      <category>Salad Recipes</category>
+      <category>Sauces</category>
+      <category>Soups, Salads &#38; Stews</category>
+      <category>game day and superbowl parties</category>
+    </item>    <item>
+      <title>Smashed Potato Salad</title>
+      <link>https://www.closetcooking.com/smashed-potato-salad/</link>
+      <description>
+        <![CDATA[<div><img src="https://www.closetcooking.com/wp-content/uploads/2026/08/Smashed-Potato-Salad-1200-4510.jpg"/></div>
+        <p>A tasty potato salad where the potatoes are boiled until tender before smashing them and baking them until crispy! The salad includes cucumber, dill pickle, onions and feta and a creamy mayo and Greek yogurt dressing that&#8217;s packed with plenty of fresh herbs! Potatoes salad with its tender potatoes in a creamy mayonnaise dressing is...</p>
+        <p><a class="more-link" href="https://www.closetcooking.com/smashed-potato-salad/">Read On &#8594;</a></p>
+        <p>The post <a href="https://www.closetcooking.com/smashed-potato-salad/">Smashed Potato Salad</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://www.closetcooking.com/wp-content/uploads/2026/08/Smashed-Potato-Salad-1200-4510.jpg)
+
+A tasty potato salad where the potatoes are boiled until tender before smashing them and baking them until crispy! The salad includes cucumber, dill pickle, onions and feta and a creamy mayo and Greek yogurt dressing that’s packed with plenty of fresh herbs! Potatoes salad with its tender potatoes in a creamy mayonnaise dressing is...
+
+[Read On →](https://www.closetcooking.com/smashed-potato-salad/)
+
+The post [Smashed Potato Salad](https://www.closetcooking.com/smashed-potato-salad/) appeared first on [Closet Cooking](https://www.closetcooking.com).</source:markdown>
+      <guid>cid://https://www.closetcooking.com/?p=88026</guid>
+      <category>American</category>
+      <category>Appetizer</category>
+      <category>Food</category>
+      <category>Gluten-free</category>
+      <category>Greek</category>
+      <category>Mediterranean</category>
+      <category>Recipe</category>
+      <category>Salad</category>
+      <category>Side Dish</category>
+      <category>Vegetable</category>
+      <category>Vegetarian</category>
+    </item>    <item>
+      <title>Apple Cider Mimosa</title>
+      <link>https://www.tasteofhome.com/recipes/apple-cider-mimosa/</link>
+      <description>
+        <![CDATA[Apple cider mimosas come together quickly and bring the cozy flavors of fall to the holiday table.]]>
+      </description>
+      <source:markdown>Apple cider mimosas come together quickly and bring the cozy flavors of fall to the holiday table.</source:markdown>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2258485</guid>
+      <category>Apples</category>
+      <category>Beverages</category>
+      <category>Cocktail</category>
+      <category>Cooking Style</category>
+      <category>Dishes &#38; Beverages</category>
+      <category>Easy</category>
+      <category>Fall</category>
+      <category>Fruits</category>
+      <category>Holidays</category>
+      <category>Holidays &#38; Events</category>
+      <category>How To</category>
+      <category>Ingredients</category>
+      <category>Quick</category>
+      <category>Recipes</category>
+      <category>Seasons</category>
+      <category>Test Kitchen</category>
+      <category>Thanksgiving</category>
+    </item>    <item>
+      <title>A Twenty Coffee Blend Anyone? The Sprudge Roaster’s Village Has Component Suggestions</title>
+      <link>https://sprudge.com/a-twenty-coffee-blend-anyone-the-sprudge-roasters-village-has-component-suggestions-1278365.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster's Village.]]>
+      </description>
+      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster&#39;s Village.**</source:markdown>
+      <guid>cid://https://sprudge.com/?p=1278365</guid>
+      <category>Roaster&#39;s Village</category>
+      <category>coffee</category>
     </item>    <item>
       <title>Cauliflower Recipes</title>
       <link>https://www.closetcooking.com/cauliflower-recipes/</link>
@@ -221,10 +433,22 @@ Welcome to DCN’s Weekly Coffee News! Subscribe here for all the latest coffee 
       <category>Columns</category>
       <category>Weekly Coffee News</category>
     </item>    <item>
+      <title>No One Teaches You How To Start a Wholesale Business in Coffee. Until Now.</title>
+      <link>https://freshcup.com/no-one-teaches-you-how-to-start-a-wholesale-business-in-coffee-until-now/</link>
+      <description>
+        <![CDATA[<p>Fresh Cup is thrilled to announce Wholesale for Roasters. This hybrid, on-demand, and cohort course is designed to help coffee roasters master the fundamentals of wholesale, from pricing and sales to account management. The course is broken into four modules, which are led by in-house and guest experts, including coffee consultants Luke Waite and Tarra&#8230;</p>
+        <p>The post <a href="https://freshcup.com/no-one-teaches-you-how-to-start-a-wholesale-business-in-coffee-until-now/">No One Teaches You How To Start a Wholesale Business in Coffee. Until Now.</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
+      </description>
+      <source:markdown>Fresh Cup is thrilled to announce Wholesale for Roasters. This hybrid, on-demand, and cohort course is designed to help coffee roasters master the fundamentals of wholesale, from pricing and sales to account management. The course is broken into four modules, which are led by in-house and guest experts, including coffee consultants Luke Waite and Tarra…
+
+The post [No One Teaches You How To Start a Wholesale Business in Coffee. Until Now.](https://freshcup.com/no-one-teaches-you-how-to-start-a-wholesale-business-in-coffee-until-now/) appeared first on [Fresh Cup](https://freshcup.com).</source:markdown>
+      <guid>cid://https://freshcup.com/?p=45110</guid>
+      <category>Roasters</category>
+    </item>    <item>
       <title>She Crab Soup</title>
       <link>https://www.chilipeppermadness.com/recipes/she-crab-soup/</link>
       <description>
-        <![CDATA[<a href="https://www.chilipeppermadness.com/recipes/she-crab-soup/" title="She Crab Soup" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2026/08/She-Crab-Soup-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Two bowls of creamy She Crab Soup served with extra crab meat over the top, drizzled with olive oil, dusted with bright red paprika and sprinkled with fresh chopped chives" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2026/08/She-Crab-Soup-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2026/08/She-Crab-Soup-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2026/08/She-Crab-Soup-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2026/08/She-Crab-Soup-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2026/08/She-Crab-Soup-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2026/08/She-Crab-Soup-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2026/08/She-Crab-Soup-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This she crab soup recipe is a Charleston classic, rich with sweet lump crab meat, cream, and dry sherry, seasoned the traditional Lowcountry way with mace and white pepper. It's easier to make than you think.</p>
+        <![CDATA[<a href="https://www.chilipeppermadness.com/recipes/she-crab-soup/" title="She Crab Soup" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2026/08/She-Crab-Soup-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Two bowls of creamy She Crab Soup served with extra crab meat over the top, drizzled with olive oil, dusted with bright red paprika and sprinkled with fresh chopped chives" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2026/08/She-Crab-Soup-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2026/08/She-Crab-Soup-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2026/08/She-Crab-Soup-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2026/08/She-Crab-Soup-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2026/08/She-Crab-Soup-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2026/08/She-Crab-Soup-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2026/08/She-Crab-Soup-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This she crab soup recipe is a Charleston classic, rich with sweet lump crab meat, cream, and dry sherry, seasoned the traditional Lowcountry way with mace and white pepper. It's easier to make than you think.</p>
         <p>The post <a href="https://www.chilipeppermadness.com/recipes/she-crab-soup/">She Crab Soup</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>]]>
       </description>
       <source:markdown>[![Two bowls of creamy She Crab Soup served with extra crab meat over the top, drizzled with olive oil, dusted with bright red paprika and sprinkled with fresh chopped chives](https://www.chilipeppermadness.com/wp-content/uploads/2026/08/She-Crab-Soup-Recipe1-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/she-crab-soup/ &#34;She Crab Soup&#34;)
@@ -239,18 +463,6 @@ The post [She Crab Soup](https://www.chilipeppermadness.com/recipes/she-crab-sou
       <category>Soups, Salads &#38; Stews</category>
       <category>Crab</category>
       <category>lowcountry</category>
-    </item>    <item>
-      <title>No One Teaches You How To Start a Wholesale Business in Coffee. Until Now.</title>
-      <link>https://freshcup.com/no-one-teaches-you-how-to-start-a-wholesale-business-in-coffee-until-now/</link>
-      <description>
-        <![CDATA[<p>Fresh Cup is thrilled to announce Wholesale for Roasters. This hybrid, on-demand, and cohort course is designed to help coffee roasters master the fundamentals of wholesale, from pricing and sales to account management. The course is broken into four modules, which are led by in-house and guest experts, including coffee consultants Luke Waite and Tarra&#8230;</p>
-        <p>The post <a href="https://freshcup.com/no-one-teaches-you-how-to-start-a-wholesale-business-in-coffee-until-now/">No One Teaches You How To Start a Wholesale Business in Coffee. Until Now.</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
-      </description>
-      <source:markdown>Fresh Cup is thrilled to announce Wholesale for Roasters. This hybrid, on-demand, and cohort course is designed to help coffee roasters master the fundamentals of wholesale, from pricing and sales to account management. The course is broken into four modules, which are led by in-house and guest experts, including coffee consultants Luke Waite and Tarra…
-
-The post [No One Teaches You How To Start a Wholesale Business in Coffee. Until Now.](https://freshcup.com/no-one-teaches-you-how-to-start-a-wholesale-business-in-coffee-until-now/) appeared first on [Fresh Cup](https://freshcup.com).</source:markdown>
-      <guid>cid://https://freshcup.com/?p=45110</guid>
-      <category>Roasters</category>
     </item>    <item>
       <title>Soy-Marinated Eggs and More Recipes We Made This Week</title>
       <link>https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-august-2026</link>
@@ -864,6 +1076,18 @@ Raleigh, North Carolina-based roasting company The Left Hook Coffee is stepping 
       <category>Retrograph Stone Blend</category>
       <category>timepiece</category>
     </item>    <item>
+      <title>How the Global Coffee Community Is Supporting Colombians After the Earthquake</title>
+      <link>https://freshcup.com/how-the-global-coffee-community-is-supporting-colombians-after-the-earthquake/</link>
+      <description>
+        <![CDATA[<p>Last Monday, a 7.4 magnitude earthquake hit western Colombia, killing hundreds and damaging coffee farms. The coffee community is stepping up: Here’s how you can help.</p>
+        <p>The post <a href="https://freshcup.com/how-the-global-coffee-community-is-supporting-colombians-after-the-earthquake/">How the Global Coffee Community Is Supporting Colombians After the Earthquake</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
+      </description>
+      <source:markdown>Last Monday, a 7.4 magnitude earthquake hit western Colombia, killing hundreds and damaging coffee farms. The coffee community is stepping up: Here’s how you can help.
+
+The post [How the Global Coffee Community Is Supporting Colombians After the Earthquake](https://freshcup.com/how-the-global-coffee-community-is-supporting-colombians-after-the-earthquake/) appeared first on [Fresh Cup](https://freshcup.com).</source:markdown>
+      <guid>cid://https://freshcup.com/?p=45079</guid>
+      <category>News Hub</category>
+    </item>    <item>
       <title>Chicken Riggies Recipe (Spicy Chicken Rigatoni)</title>
       <link>https://www.chilipeppermadness.com/recipes/chicken-riggies/</link>
       <description>
@@ -880,18 +1104,6 @@ The post [Chicken Riggies Recipe (Spicy Chicken Rigatoni)](https://www.chilipepp
       <category>Pasta</category>
       <category>Recipes</category>
       <category>cherry peppers</category>
-    </item>    <item>
-      <title>How the Global Coffee Community Is Supporting Colombians After the Earthquake</title>
-      <link>https://freshcup.com/how-the-global-coffee-community-is-supporting-colombians-after-the-earthquake/</link>
-      <description>
-        <![CDATA[<p>Last Monday, a 7.4 magnitude earthquake hit western Colombia, killing hundreds and damaging coffee farms. The coffee community is stepping up: Here’s how you can help.</p>
-        <p>The post <a href="https://freshcup.com/how-the-global-coffee-community-is-supporting-colombians-after-the-earthquake/">How the Global Coffee Community Is Supporting Colombians After the Earthquake</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
-      </description>
-      <source:markdown>Last Monday, a 7.4 magnitude earthquake hit western Colombia, killing hundreds and damaging coffee farms. The coffee community is stepping up: Here’s how you can help.
-
-The post [How the Global Coffee Community Is Supporting Colombians After the Earthquake](https://freshcup.com/how-the-global-coffee-community-is-supporting-colombians-after-the-earthquake/) appeared first on [Fresh Cup](https://freshcup.com).</source:markdown>
-      <guid>cid://https://freshcup.com/?p=45079</guid>
-      <category>News Hub</category>
     </item>    <item>
       <title>Baked Feta Pasta With Green Sauce</title>
       <link>https://www.bonappetit.com/recipe/baked-feta-pasta-green-sauce</link>
@@ -1918,6 +2130,19 @@ Welcome to DCN’s Weekly Coffee News! Subscribe here for all the latest coffee 
       <category>Columns</category>
       <category>Weekly Coffee News</category>
     </item>    <item>
+      <title>New Product: ColdPerk’s Commissary 70 Can Make 28 Gallons of Espresso-Strength Concentrate in Two Hours</title>
+      <link>https://freshcup.com/new-product-coldperks-commissary-70-can-make-28-gallons-of-espresso-strength-concentrate-in-two-hours/</link>
+      <description>
+        <![CDATA[<p>This article is sponsored by our partner, ColdPerk. Demand for cold coffee shows no signs of slowing. Cafes are selling more cold drinks than hot coffee, the RTD aisle keeps growing with more canned and bottled options, and many offices use cold brew on tap as a way to entice workers. Over the years, Fresh Cup&#8230;</p>
+        <p>The post <a href="https://freshcup.com/new-product-coldperks-commissary-70-can-make-28-gallons-of-espresso-strength-concentrate-in-two-hours/">New Product: ColdPerk’s Commissary 70 Can Make 28 Gallons of Espresso-Strength Concentrate in Two Hours</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
+      </description>
+      <source:markdown>This article is sponsored by our partner, ColdPerk. Demand for cold coffee shows no signs of slowing. Cafes are selling more cold drinks than hot coffee, the RTD aisle keeps growing with more canned and bottled options, and many offices use cold brew on tap as a way to entice workers. Over the years, Fresh Cup…
+
+The post [New Product: ColdPerk’s Commissary 70 Can Make 28 Gallons of Espresso-Strength Concentrate in Two Hours](https://freshcup.com/new-product-coldperks-commissary-70-can-make-28-gallons-of-espresso-strength-concentrate-in-two-hours/) appeared first on [Fresh Cup](https://freshcup.com).</source:markdown>
+      <guid>cid://https://freshcup.com/?p=45058</guid>
+      <category>New Products</category>
+      <category>Sponsored</category>
+    </item>    <item>
       <title>Banana Pepper Relish</title>
       <link>https://www.chilipeppermadness.com/recipes/banana-pepper-relish/</link>
       <description>
@@ -1935,19 +2160,6 @@ The post [Banana Pepper Relish](https://www.chilipeppermadness.com/recipes/banan
       <category>Recipes</category>
       <category>banana peppers</category>
       <category>chili pepper recipe</category>
-    </item>    <item>
-      <title>New Product: ColdPerk’s Commissary 70 Can Make 28 Gallons of Espresso-Strength Concentrate in Two Hours</title>
-      <link>https://freshcup.com/new-product-coldperks-commissary-70-can-make-28-gallons-of-espresso-strength-concentrate-in-two-hours/</link>
-      <description>
-        <![CDATA[<p>This article is sponsored by our partner, ColdPerk. Demand for cold coffee shows no signs of slowing. Cafes are selling more cold drinks than hot coffee, the RTD aisle keeps growing with more canned and bottled options, and many offices use cold brew on tap as a way to entice workers. Over the years, Fresh Cup&#8230;</p>
-        <p>The post <a href="https://freshcup.com/new-product-coldperks-commissary-70-can-make-28-gallons-of-espresso-strength-concentrate-in-two-hours/">New Product: ColdPerk’s Commissary 70 Can Make 28 Gallons of Espresso-Strength Concentrate in Two Hours</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
-      </description>
-      <source:markdown>This article is sponsored by our partner, ColdPerk. Demand for cold coffee shows no signs of slowing. Cafes are selling more cold drinks than hot coffee, the RTD aisle keeps growing with more canned and bottled options, and many offices use cold brew on tap as a way to entice workers. Over the years, Fresh Cup…
-
-The post [New Product: ColdPerk’s Commissary 70 Can Make 28 Gallons of Espresso-Strength Concentrate in Two Hours](https://freshcup.com/new-product-coldperks-commissary-70-can-make-28-gallons-of-espresso-strength-concentrate-in-two-hours/) appeared first on [Fresh Cup](https://freshcup.com).</source:markdown>
-      <guid>cid://https://freshcup.com/?p=45058</guid>
-      <category>New Products</category>
-      <category>Sponsored</category>
     </item>    <item>
       <title>How to Get Rid of Fruit Flies, According to Our Testing</title>
       <link>https://www.bonappetit.com/story/how-to-get-rid-of-fruit-flies</link>
@@ -2623,6 +2835,18 @@ Danish-founded coffee roasting equipment maker Aillio opened a Latin America hea
       <category>Sanremo Coffee Machines</category>
       <category>Weber Workshops EG-1</category>
     </item>    <item>
+      <title>Amidst Economic Turmoil and Climate Crisis, Are Coffee Scores Still Relevant?</title>
+      <link>https://freshcup.com/amidst-economic-turmoil-and-climate-crisis-are-coffee-scores-still-relevant/</link>
+      <description>
+        <![CDATA[<p>Coffee brands are thinking critically about sourcing amid supply chain pressures—and looking beyond traditional cup scores in the process.</p>
+        <p>The post <a href="https://freshcup.com/amidst-economic-turmoil-and-climate-crisis-are-coffee-scores-still-relevant/">Amidst Economic Turmoil and Climate Crisis, Are Coffee Scores Still Relevant?</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
+      </description>
+      <source:markdown>Coffee brands are thinking critically about sourcing amid supply chain pressures—and looking beyond traditional cup scores in the process.
+
+The post [Amidst Economic Turmoil and Climate Crisis, Are Coffee Scores Still Relevant?](https://freshcup.com/amidst-economic-turmoil-and-climate-crisis-are-coffee-scores-still-relevant/) appeared first on [Fresh Cup](https://freshcup.com).</source:markdown>
+      <guid>cid://https://freshcup.com/?p=45045</guid>
+      <category>Coffee Origins</category>
+    </item>    <item>
       <title>Cowboy Butter Seasoning</title>
       <link>https://www.chilipeppermadness.com/recipes/cowboy-butter-seasoning/</link>
       <description>
@@ -2637,18 +2861,6 @@ The post [Cowboy Butter Seasoning](https://www.chilipeppermadness.com/recipes/co
       <guid>cid://https://www.chilipeppermadness.com/?p=91441</guid>
       <category>Recipes</category>
       <category>Seasonings</category>
-    </item>    <item>
-      <title>Amidst Economic Turmoil and Climate Crisis, Are Coffee Scores Still Relevant?</title>
-      <link>https://freshcup.com/amidst-economic-turmoil-and-climate-crisis-are-coffee-scores-still-relevant/</link>
-      <description>
-        <![CDATA[<p>Coffee brands are thinking critically about sourcing amid supply chain pressures—and looking beyond traditional cup scores in the process.</p>
-        <p>The post <a href="https://freshcup.com/amidst-economic-turmoil-and-climate-crisis-are-coffee-scores-still-relevant/">Amidst Economic Turmoil and Climate Crisis, Are Coffee Scores Still Relevant?</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
-      </description>
-      <source:markdown>Coffee brands are thinking critically about sourcing amid supply chain pressures—and looking beyond traditional cup scores in the process.
-
-The post [Amidst Economic Turmoil and Climate Crisis, Are Coffee Scores Still Relevant?](https://freshcup.com/amidst-economic-turmoil-and-climate-crisis-are-coffee-scores-still-relevant/) appeared first on [Fresh Cup](https://freshcup.com).</source:markdown>
-      <guid>cid://https://freshcup.com/?p=45045</guid>
-      <category>Coffee Origins</category>
     </item>    <item>
       <title>Chatbooks Review: Keep Memories Fresh With This Monthly Photo Book Service</title>
       <link>https://www.tasteofhome.com/article/chatbooks-review/</link>
@@ -4743,54 +4955,6 @@ The post [Pesto Chicken Meatballs](https://www.closetcooking.com/pesto-chicken-m
       <source:markdown>How would Tony the man feel about Tony the film? As Bourdain’s longtime assistant, I learned never to predict his responses.</source:markdown>
       <guid>cid://6a6a358c89b680a906927b83</guid>
       <category>Culture</category>
-    </item>    <item>
-      <title>An August Collection Of Coffees Just In Time For… What Month Is It Now?</title>
-      <link>https://sprudge.com/an-august-collection-of-coffees-just-in-time-for-what-month-is-it-now-1243520.html</link>
-      <description>
-        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster's Village.]]>
-      </description>
-      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster&#39;s Village.**</source:markdown>
-      <guid>cid://https://sprudge.com/?p=1243520</guid>
-      <category>Roaster&#39;s Village</category>
-      <category>coffee</category>
-    </item>    <item>
-      <title>23 Almond Recipes From Simple Snacks to Stunning Desserts</title>
-      <link>https://www.bonappetit.com/gallery/almond-recipes</link>
-      <description>
-        <![CDATA[Like a raspberry skillet cake with almond flour and spicy almond-butter green beans.]]>
-      </description>
-      <source:markdown>Like a raspberry skillet cake with almond flour and spicy almond-butter green beans.</source:markdown>
-      <guid>cid://57ed391fb57053f5117fc0d4</guid>
-      <category>Cooking</category>
-      <category>Recipes</category>
-    </item>    <item>
-      <title>Summer Appetizers</title>
-      <link>https://www.closetcooking.com/summer-appetizers/</link>
-      <description>
-        <![CDATA[<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/08/Summer-Appetizer-Recipes.jpg"/></div>
-        <p>The best recipes summer appetizer and snacks that are perfect for hot summer days, eating outdoors, picnics, etc. With the warmer days here it&#8217;s always nice to have a list of goto snack or appetizer recipes on hand so that you are ready for any out doors events like barbecues, picnics, trips to the park,...</p>
-        <p><a class="more-link" href="https://www.closetcooking.com/summer-appetizers/">Read On &#8594;</a></p>
-        <p>The post <a href="https://www.closetcooking.com/summer-appetizers/">Summer Appetizers</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
-      </description>
-      <source:markdown>![](https://www.closetcooking.com/wp-content/uploads/2018/08/Summer-Appetizer-Recipes.jpg)
-
-The best recipes summer appetizer and snacks that are perfect for hot summer days, eating outdoors, picnics, etc. With the warmer days here it’s always nice to have a list of goto snack or appetizer recipes on hand so that you are ready for any out doors events like barbecues, picnics, trips to the park,...
-
-[Read On →](https://www.closetcooking.com/summer-appetizers/)
-
-The post [Summer Appetizers](https://www.closetcooking.com/summer-appetizers/) appeared first on [Closet Cooking](https://www.closetcooking.com).</source:markdown>
-      <guid>cid://https://www.closetcooking.com/2016/06/05/summer-appetizers/</guid>
-      <category>Food</category>
-      <category>Roundup</category>
-    </item>    <item>
-      <title>5 Protein-Powered Dishes Our Editors Make With Cottage Cheese</title>
-      <link>https://www.bonappetit.com/story/protein-powered-meals-our-editors-make-with-cottage-cheese</link>
-      <description>
-        <![CDATA[Like charred elote salad and a mind-blowing berry smoothie.]]>
-      </description>
-      <source:markdown>Like charred elote salad and a mind-blowing berry smoothie.</source:markdown>
-      <guid>cid://6a6a40dde87e04d2d21644a7</guid>
-      <category>Cooking</category>
     </item>
   </channel>
 </rss>
