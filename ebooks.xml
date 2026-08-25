@@ -4,10 +4,66 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>24 Aug 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>25 Aug 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The man that rum made :</title>
+      <link>https://www.gutenberg.org/ebooks/79442</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Nationalisme by Rabindranath Tagore</title>
+      <link>https://www.gutenberg.org/ebooks/79447</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>The Pentateuch of printing by William Blades</title>
+      <link>https://www.gutenberg.org/ebooks/79445</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Stories in green, zinzolin, rose, purple, mauve, lilac and orange by Remy de Gourmont</title>
+      <link>https://www.gutenberg.org/ebooks/79446</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Three John Silence Stories by Algernon Blackwood</title>
+      <link>https://www.gutenberg.org/ebooks/10624</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Slave ships and slaving by George Francis Dow</title>
+      <link>https://www.gutenberg.org/ebooks/79444</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Landesverein Sächsischer Heimatschutz — Mitteilungen Band XVII, Heft 1–2 :</title>
+      <link>https://www.gutenberg.org/ebooks/79443</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>Woman and the higher education</title>
+      <link>https://www.gutenberg.org/ebooks/79448</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Forty-Eighth Annual Report of the Bureau of American Ethnology to the Secretary of the Smithsonian I</title>
       <link>https://www.gutenberg.org/ebooks/50503</link>
       <description>
@@ -45,13 +101,6 @@
     </item>    <item>
       <title>The brat by Henry Slesar</title>
       <link>https://www.gutenberg.org/ebooks/79435</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The man that rum made :</title>
-      <link>https://www.gutenberg.org/ebooks/79442</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1687,34 +1736,6 @@
         <![CDATA[Language: Italian]]>
       </description>
       <source:markdown>Language: Italian</source:markdown>
-    </item>    <item>
-      <title>The Sun Virgin by Jr. Thomas Dixon</title>
-      <link>https://www.gutenberg.org/ebooks/79257</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Buffalo Bill&#39;s death message : by Prentiss Ingraham</title>
-      <link>https://www.gutenberg.org/ebooks/79255</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>De vuurvogel en de grijze wolf by Anonymous</title>
-      <link>https://www.gutenberg.org/ebooks/79258</link>
-      <description>
-        <![CDATA[Language: Dutch]]>
-      </description>
-      <source:markdown>Language: Dutch</source:markdown>
-    </item>    <item>
-      <title>Door de lucht naar Indië by A.N.J. Thomassen à Theussink van der Hoop</title>
-      <link>https://www.gutenberg.org/ebooks/79256</link>
-      <description>
-        <![CDATA[Language: Dutch]]>
-      </description>
-      <source:markdown>Language: Dutch</source:markdown>
     </item>
   </channel>
 </rss>

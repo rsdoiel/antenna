@@ -4,17 +4,106 @@
   <channel>
     <title><![CDATA[GLAM]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>24 Aug 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>25 Aug 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Guest Post — Not the Real Housewives of Scholarly Publishing</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/08/25/guest-post-not-the-real-housewives-of-scholarly-publishing/</link>
+      <description>
+        <![CDATA[<p>Today's guest bloggers reflect on an SSP panel conversation about how scholarly publishing is not only built through shared work but also through shared understanding.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/08/25/guest-post-not-the-real-housewives-of-scholarly-publishing/">Guest Post — Not the Real Housewives of Scholarly Publishing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Today&#39;s guest bloggers reflect on an SSP panel conversation about how scholarly publishing is not only built through shared work but also through shared understanding.
+
+The post [Guest Post — Not the Real Housewives of Scholarly Publishing](https://scholarlykitchen.sspnet.org/2026/08/25/guest-post-not-the-real-housewives-of-scholarly-publishing/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62587</guid>
+      <category>Advocacy</category>
+      <category>Diversity, Equity, Inclusion, and Accessibility</category>
+      <category>Mental Health Awareness</category>
+      <category>Organizational Management</category>
+      <category>Social Role</category>
+      <category>Disability</category>
+      <category>diversity equity inclusion and accessibility</category>
+      <category>early career publishers</category>
+      <category>grief</category>
+      <category>mental wellbeing</category>
+      <category>self expression</category>
+      <category>vulnerability</category>
+    </item>    <item>
+      <title>Preserving a Creative Legacy: How CARTA is Safeguarding Artists’ Websites</title>
+      <link>https://blog.archive.org/2026/08/25/artistswebsites/</link>
+      <description>
+        <![CDATA[Artists today use their websites as more than a business card– they are an online portfolio, CV, document of artistic evolution, and works of art in their own right. They [&#8230;]]]>
+      </description>
+      <source:markdown>Artists today use their websites as more than a business card– they are an online portfolio, CV, document of artistic evolution, and works of art in their own right. They \[…\]</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=30891</guid>
+      <category>Archive-It</category>
+      <category>News</category>
+      <category>Web &#38; Data Services</category>
+      <category>art</category>
+      <category>art libraries</category>
+      <category>artist</category>
+      <category>CARTA</category>
+      <category>web archiving</category>
+    </item>    <item>
+      <title>Rogue Scholar blog post archiving becomes an InvenioRDM module</title>
+      <link>https://blog.front-matter.de/posts/rogue-scholar-blog-post-archiving-becomes-an-inveniordm-module/</link>
+      <description>
+        <![CDATA[<p>Starting this week blog posts are archived in the <a href="https://rogue-scholar.org" rel="noreferrer">Rogue Scholar</a> science blog archive using a dedicated <a href="https://inveniordm.docs.cern.ch/maintenance/modules/" rel="noreferrer">invenio</a> module instead of an external service. This simplifies the maintenance of the service and is critical for the long-term future of the archived content.</p><p>Rogue Scholar <a href="https://doi.org/10.53731/br9f5xa-a556w2t" rel="noreferrer">started out</a> as a bespoke</p>]]>
+      </description>
+      <source:markdown>Starting this week blog posts are archived in the [Rogue Scholar](https://rogue-scholar.org) science blog archive using a dedicated [invenio](https://inveniordm.docs.cern.ch/maintenance/modules/) module instead of an external service. This simplifies the maintenance of the service and is critical for the long-term future of the archived content.
+
+Rogue Scholar [started out](https://doi.org/10.53731/br9f5xa-a556w2t) as a bespoke</source:markdown>
+      <guid>cid://6a8d27711fa20d0001b97b17</guid>
+      <category>Rogue Scholar</category>
+      <category>InvenioRDM</category>
+      <category>Commonmeta</category>
+    </item>    <item>
+      <title>ARL Daily Intelligence (August 24–27)</title>
+      <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-24-27/</link>
+      <description>
+        <![CDATA[<p>Last Updated on August 24, 2026, 3:36 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
+        <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-24-27/">ARL Daily Intelligence (August 24–27)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <source:markdown>Last Updated on August 24, 2026, 3:36 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+
+The post [ARL Daily Intelligence (August 24–27)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-24-27/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
+      <guid>cid://https://www.arl.org/?p=49679</guid>
+      <category>ARL Daily Intelligence</category>
+    </item>    <item>
+      <title>Archiving Democracy: How the U.S. End of Term Web Archive Preserves Government History</title>
+      <link>https://blog.archive.org/2026/08/24/archiving-democracy-how-the-u-s-end-of-term-web-archive-preserves-government-history/</link>
+      <description>
+        <![CDATA[Beginning in January 2025, we witnessed an unprecedented removal of material from U.S. federal websites — documents related to education, health, science, and more, gone from public view almost overnight. [&#8230;]]]>
+      </description>
+      <source:markdown>Beginning in January 2025, we witnessed an unprecedented removal of material from U.S. federal websites — documents related to education, health, science, and more, gone from public view almost overnight. \[…\]</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=30906</guid>
+      <category>Announcements</category>
+      <category>Wayback Machine - Web Archive</category>
+      <category>democracys library</category>
+    </item>    <item>
+      <title>Ohio: Cleveland Public Library Workers Avoid Strike, Reach ‘Tentative’ Agreement</title>
+      <link>https://www.infodocket.com/2026/08/24/ohio-cleveland-public-library-workers-avoid-strike-reach-tentative-agreement/</link>
+      <description>
+        <![CDATA[<p>From WOIO: Cleveland Public Library workers avoided a strike Monday after reaching a last minute “tentative agreement.” Workers were scheduled to walk off the job at noon Monday. They will now take a ratification vote on Aug. 26. If the workers fail to approve the tentative agreement, the strike will happen on Aug. 27. No [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/08/24/ohio-cleveland-public-library-workers-avoid-strike-reach-tentative-agreement/">Ohio: Cleveland Public Library Workers Avoid Strike, Reach &#8216;Tentative&#8217; Agreement</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>From WOIO: Cleveland Public Library workers avoided a strike Monday after reaching a last minute “tentative agreement.” Workers were scheduled to walk off the job at noon Monday. They will now take a ratification vote on Aug. 26. If the workers fail to approve the tentative agreement, the strike will happen on Aug. 27. No \[…\]
+
+The post [Ohio: Cleveland Public Library Workers Avoid Strike, Reach ‘Tentative’ Agreement](https://www.infodocket.com/2026/08/24/ohio-cleveland-public-library-workers-avoid-strike-reach-tentative-agreement/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=168609</guid>
+      <category>Libraries</category>
+      <category>News</category>
+      <category>Public Libraries</category>
+    </item>    <item>
       <title>Library Copyright Alliance Advocates for Copyright Regulations to Facilitate Research, Teaching and Learning, Preservation, and Accessibility</title>
       <link>https://www.arl.org/blog/library-copyright-alliance-advocates-for-copyright-regulations-to-facilitate-research-teaching-and-learning-preservation-and-accessibility/</link>
       <description>
-        <![CDATA[<p>Last Updated on August 24, 2026, 8:32 am ET The Digital Millennium Copyright Act (DMCA) triennial rulemaking cycle has kicked off again. Section 1201 of the DMCA  bars users from...</p>
+        <![CDATA[<p>Last Updated on August 24, 2026, 10:27 am ET The Digital Millennium Copyright Act (DMCA) triennial rulemaking cycle has kicked off again. Section 1201 of the DMCA  bars users from...</p>
         <p>The post <a href="https://www.arl.org/blog/library-copyright-alliance-advocates-for-copyright-regulations-to-facilitate-research-teaching-and-learning-preservation-and-accessibility/">Library Copyright Alliance Advocates for Copyright Regulations to Facilitate Research, Teaching and Learning, Preservation, and Accessibility</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on August 24, 2026, 8:32 am ET The Digital Millennium Copyright Act (DMCA) triennial rulemaking cycle has kicked off again. Section 1201 of the DMCA  bars users from...
+      <source:markdown>Last Updated on August 24, 2026, 10:27 am ET The Digital Millennium Copyright Act (DMCA) triennial rulemaking cycle has kicked off again. Section 1201 of the DMCA  bars users from...
 
 The post [Library Copyright Alliance Advocates for Copyright Regulations to Facilitate Research, Teaching and Learning, Preservation, and Accessibility](https://www.arl.org/blog/library-copyright-alliance-advocates-for-copyright-regulations-to-facilitate-research-teaching-and-learning-preservation-and-accessibility/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=49668</guid>
@@ -2120,63 +2209,6 @@ The post [From Hub to Hustle: The Scattered Social Landscape in Scholarly Comms]
       <category>publishing community</category>
       <category>social media marketing</category>
       <category>Twitter</category>
-    </item>    <item>
-      <title>ARL Daily Intelligence (August 3–6)</title>
-      <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-3-6/</link>
-      <description>
-        <![CDATA[<p>Last Updated on August 6, 2026, 4:25 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
-        <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-3-6/">ARL Daily Intelligence (August 3–6)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <source:markdown>Last Updated on August 6, 2026, 4:25 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
-
-The post [ARL Daily Intelligence (August 3–6)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-3-6/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=49457</guid>
-      <category>ARL Daily Intelligence</category>
-    </item>    <item>
-      <title>The Two Machines</title>
-      <link>https://metaarchivist.substack.com/p/the-two-machines</link>
-      <description>
-        <![CDATA[Appraisal, access, and the ceiling on the computational archive]]>
-      </description>
-      <source:markdown>Appraisal, access, and the ceiling on the computational archive</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!bi3Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F292ba65a-1ba6-4778-89ac-d996a674ec0b_1672x941.png" length="0" type="image/jpeg" />
-      <guid>cid://https://metaarchivist.substack.com/p/the-two-machines</guid>
-    </item>    <item>
-      <title>Ask the Community: What’s Next for the OMB Rule Change?</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/08/03/ask-the-community-whats-next-for-the-omb-rule-change/</link>
-      <description>
-        <![CDATA[<p>Today, we asked the community: What key message(s) do you want policymakers to take from the responses submitted to the OMB?</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/08/03/ask-the-community-whats-next-for-the-omb-rule-change/">Ask the Community: What’s Next for the OMB Rule Change?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Today, we asked the community: What key message(s) do you want policymakers to take from the responses submitted to the OMB?
-
-The post [Ask the Community: What’s Next for the OMB Rule Change?](https://scholarlykitchen.sspnet.org/2026/08/03/ask-the-community-whats-next-for-the-omb-rule-change/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62387</guid>
-      <category>Advocacy</category>
-      <category>Controversial Topics</category>
-      <category>Historical</category>
-      <category>Policy</category>
-      <category>Research</category>
-      <category>Research Integrity</category>
-      <category>Social Role</category>
-      <category>#DefendResearch</category>
-      <category>27 UNIHTED</category>
-      <category>Office of managment and budget</category>
-      <category>OMB rule changes</category>
-      <category>research funding</category>
-      <category>resistance</category>
-      <category>Trump</category>
-      <category>US Funding Policy</category>
-      <category>US OMB</category>
-    </item>    <item>
-      <title>Rogue Scholar Newsletter July 2026</title>
-      <link>https://blog.front-matter.de/posts/rogue-scholar-newsletter-july-2026/</link>
-      <description>
-        <![CDATA[<p>This is the July 2026 issue of the monthly newsletter from the Rogue Scholar&#xA0;<a href="https://rogue-scholar.org/" rel="noreferrer">science blog archive</a> (the June newsletter was skipped for personal reasons). The newsletter reports on new blogs that have joined the platform, important technical updates in Rogue Scholar infrastructure, community updates, and other news relevant</p>]]>
-      </description>
-      <source:markdown>This is the July 2026 issue of the monthly newsletter from the Rogue Scholar [science blog archive](https://rogue-scholar.org/) (the June newsletter was skipped for personal reasons). The newsletter reports on new blogs that have joined the platform, important technical updates in Rogue Scholar infrastructure, community updates, and other news relevant</source:markdown>
-      <guid>cid://6a704870de81520001946e1e</guid>
-      <category>Rogue Scholar</category>
     </item>
   </channel>
 </rss>

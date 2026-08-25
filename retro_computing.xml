@@ -4,10 +4,29 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>24 Aug 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>25 Aug 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>China Switching from Windows to Linux</title>
+      <link>http://www.linux-magazine.com/Online/News/China-Switching-from-Windows-to-Linux</link>
+      <description>
+        <![CDATA[<p>China has ordered several government agencies to drop a Chinese-developed version of Windows 10 in favor of either KylinOS or UOS.</p>]]>
+      </description>
+      <source:markdown>China has ordered several government agencies to drop a Chinese-developed version of Windows 10 in favor of either KylinOS or UOS.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://778b82558407f5f968bfdc85a55d3ba8</guid>
+    </item>    <item>
+      <title>My KIMSI</title>
+      <link>http://retro.hansotten.nl/my-kimsi/</link>
+      <description>
+        <![CDATA[My KIMSI I acquired a KIMSI in August 2026. It was build into a plexiglas/aluminium case, with a KIM-1 (Rev G) and a &#8216;microcalculator board&#8217;. I took the system apart, no room to store the big ugly thing. See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities [&#8230;]]]>
+      </description>
+      <source:markdown>My KIMSI I acquired a KIMSI in August 2026. It was build into a plexiglas/aluminium case, with a KIM-1 (Rev G) and a ‘microcalculator board’. I took the system apart, no room to store the big ugly thing. See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=22089</guid>
+      <category>6502</category>
+      <category>kim-1</category>
+    </item>    <item>
       <link>http://retro.hansotten.nl/22089-2/</link>
       <description>
         <![CDATA[My KIMSI I acquired a KIMSI in August 2026. It was build into a plexiglas/aluminium case, with a KIM1 (Rev G) and a &#8216;microcalculator board&#8217;. I took the system apart, no room to store the big ugly thing. See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities [&#8230;]]]>
@@ -433,19 +452,6 @@ Updated: Bernd has released version 2. Major changes include: SHA-384, SHA-512 a
       <source:markdown>A use-after-free race exploit was discovered and exploited on CentOS Stream 9.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://1bf3a748a6ea2e21ca2e7f350c9352b2</guid>
-    </item>    <item>
-      <title>August WROCC meeting delayed until 12th</title>
-      <link>https://www.riscository.com/2026/august-wrocc-meeting-delayed-until-12th/</link>
-      <description>
-        <![CDATA[As mentioned in the recently posted roundup of August meetings, the Wakefield RISC OS Computer Club (WROCC) normally holds their meetings on the first Wednesday of each month, making the normal scheduled date this coming Wednesday. However, the meeting has unfortunately had to be delayed by a week, and will now take place on Wednesday, 12th August. That meeting will see Martin Eastwood talking about a few items: Two emulators, one acting as a virtual Cortex-A15 system, and one a Kinetic-equipped RiscPC, along with a viewer for sprite and draw&#8230;]]>
-      </description>
-      <source:markdown>As mentioned in the recently posted roundup of August meetings, the Wakefield RISC OS Computer Club (WROCC) normally holds their meetings on the first Wednesday of each month, making the normal scheduled date this coming Wednesday. However, the meeting has unfortunately had to be delayed by a week, and will now take place on Wednesday, 12th August. That meeting will see Martin Eastwood talking about a few items: Two emulators, one acting as a virtual Cortex-A15 system, and one a Kinetic-equipped RiscPC, along with a viewer for sprite and draw…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10992</guid>
-      <category>User groups</category>
-      <category>Meeting</category>
-      <category>User Group</category>
-      <category>Wakefield</category>
-      <category>WROCC</category>
     </item>
   </channel>
 </rss>

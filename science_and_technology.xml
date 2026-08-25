@@ -4,10 +4,237 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>24 Aug 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>25 Aug 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>AI-made viruses could be the future of medicine</title>
+      <link>https://www.npr.org/2026/08/25/nx-s1-5935565/ai-virus-medicine-dna</link>
+      <description>
+        <![CDATA[The era of AI-generated viruses is here. Some scientists are using AI to design viruses that can attack bacteria. The hope is that these tailor-made viruses can fight drug-resistant bacterial infections in people. And longer-term, Brian Hie, the Stanford researcher spearheading this project, hopes that AI can help create more complicated biological systems to treat formidable diseases. But some experts warn that placed in the wrong hands, this technology could create the next pandemic. <br/><br/><em>Interested in more AI-related research? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>The era of AI-generated viruses is here. Some scientists are using AI to design viruses that can attack bacteria. The hope is that these tailor-made viruses can fight drug-resistant bacterial infections in people. And longer-term, Brian Hie, the Stanford researcher spearheading this project, hopes that AI can help create more complicated biological systems to treat formidable diseases. But some experts warn that placed in the wrong hands, this technology could create the next pandemic.
+
+_Interested in more AI-related research? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/54bc8a44-5502-40b7-9e2a-a66009a3ad16/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=54bc8a44-5502-40b7-9e2a-a66009a3ad16&feed=F0qJcgXZ&t=podcast&e=nx-s1-5935565&p=510351&d=695&size=11130758" length="11130758" type="audio/mpeg" />
+      <guid>cid://dde815c2-174c-4b86-bb7f-248ee3bd31a5</guid>
+    </item>    <item>
+      <title>NASA Sets Coverage for Roman Space Telescope Launch from Florida</title>
+      <link>https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/</link>
+      <description>
+        <![CDATA[Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy. NASA and SpaceX are targeting Roman’s liftoff for no earlier than 7:26 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket [&#8230;]]]>
+      </description>
+      <source:markdown>Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy. NASA and SpaceX are targeting Roman’s liftoff for no earlier than 7:26 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1040818</guid>
+      <category>Nancy Grace Roman Space Telescope</category>
+      <category>Astrophysics Division</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Jet Propulsion Laboratory</category>
+      <category>Kennedy Space Center</category>
+      <category>Science Mission Directorate</category>
+    </item>    <item>
+      <title>An actively maintained and updated Motif fork actually exists</title>
+      <link>https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/</link>
+      <description>
+        <![CDATA[Motif is great, I love how it looks and feels, and I want it to be actively maintained. I want a healthy ecosystem of Motif applications and even window managers and desktop environments, so I can run a real Motif environment. Sadly, while Motif has been open source for a while, the project itself stalled years ago, with little to no activity from anyone involved. That may be changing, as a number of developers decided to take matters into their own hands last year. This fork of Motif was born of a desire to keep Motif (and other X11 technologies) alive and well. The original upstream Sourceforge project hasn&#8217;t had any activity in over two years, none of the project admins have been active for at least that amount of time, the official bug tracker has disappeared into the void; and the user forum was closed way back in 2017. Sadly, it appears that the original upstream has abandoned the project. I&#8217;ve incorporated some fixes from upstream that have laid dormant for years, a few others from Gentoo, and made a few improvements of my own. I intend to maintain this fork, and in doing so advocate for the continued use of the user interface toolkit that defined an era, and influenced many of the user interfaces that came after it. ↫ Tim Hentenaar at the Motif fork&#8217;s GitHub page Some of the people involved are people I know online, so I have a bit of faith in this fork being able to stand the test of time, but of course, managing a complex project like this is hard, so who knows how long the enthusiasm remains. Still, this fork has seen five releases since its inception a little over a year ago, which seems promising. It may seem weird for some to have a love for Motif, but I&#8217;m the kind of person who installs weird, outdated corporate and industrial software I don&#8217;t understand on my HP c8000 dual PA-RISC workstation running HP-UX just to enjoy the Motif interfaces they sometimes ship. We all have our quirks. From my experiences talking to people online, I know there&#8217;s actually a rather solid number of people like me, and I hope that at some point the developers in this group can gain enough critical mass to build something like a basic Linux distribution or desktop environment using the disparate, actively-maintained Motif projects out there that yes, still exist. It&#8217;s a long shot, but in today&#8217;s computing landscape, where more and more people feel uncomfortable with &#8220;modern&#8221; software, I really feel like there&#8217;s a niche for something like this to exist. A really small niche, surely, but a niche all the same.]]>
+      </description>
+      <source:markdown>Motif is great, I love how it looks and feels, and I want it to be actively maintained. I want a healthy ecosystem of Motif applications and even window managers and desktop environments, so I can run a real Motif environment. Sadly, while Motif has been open source for a while, the project itself stalled years ago, with little to no activity from anyone involved. That may be changing, as a number of developers decided to take matters into their own hands last year. This fork of Motif was born of a desire to keep Motif (and other X11 technologies) alive and well. The original upstream Sourceforge project hasn’t had any activity in over two years, none of the project admins have been active for at least that amount of time, the official bug tracker has disappeared into the void; and the user forum was closed way back in 2017. Sadly, it appears that the original upstream has abandoned the project. I’ve incorporated some fixes from upstream that have laid dormant for years, a few others from Gentoo, and made a few improvements of my own. I intend to maintain this fork, and in doing so advocate for the continued use of the user interface toolkit that defined an era, and influenced many of the user interfaces that came after it. ↫ Tim Hentenaar at the Motif fork’s GitHub page Some of the people involved are people I know online, so I have a bit of faith in this fork being able to stand the test of time, but of course, managing a complex project like this is hard, so who knows how long the enthusiasm remains. Still, this fork has seen five releases since its inception a little over a year ago, which seems promising. It may seem weird for some to have a love for Motif, but I’m the kind of person who installs weird, outdated corporate and industrial software I don’t understand on my HP c8000 dual PA-RISC workstation running HP-UX just to enjoy the Motif interfaces they sometimes ship. We all have our quirks. From my experiences talking to people online, I know there’s actually a rather solid number of people like me, and I hope that at some point the developers in this group can gain enough critical mass to build something like a basic Linux distribution or desktop environment using the disparate, actively-maintained Motif projects out there that yes, still exist. It’s a long shot, but in today’s computing landscape, where more and more people feel uncomfortable with “modern” software, I really feel like there’s a niche for something like this to exist. A really small niche, surely, but a niche all the same.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145877</guid>
+      <category>Unix</category>
+    </item>    <item>
+      <title>In France, Brutal Summer Heat Waves Are Taking a Toll on the Flowers That Inspired Claude Monet&#39;s Most Beloved Paintings</title>
+      <link>https://www.smithsonianmag.com/smart-news/in-france-brutal-summer-heat-waves-taking-toll-on-flowers-that-inspired-claude-monet-most-beloved-paintings-180989384/</link>
+      <description>
+        <![CDATA[The colorful nasturtiums at the artist's house and gardens have been hit particularly hard this summer as France grapples with a record 52 heatwave days]]>
+      </description>
+      <source:markdown>The colorful nasturtiums at the artist&#39;s house and gardens have been hit particularly hard this summer as France grapples with a record 52 heatwave days</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/pH79FBFwV9ey0W8zHTxSOX7hDA0=/420x240/filters:focal(512x341:513x342)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e2/d4/e2d40cd5-aba9-454d-be26-90aa179d7211/maison-et-jardins-claude-monet-giverny-dr-1024x681.jpg" length="217621" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/in-france-brutal-summer-heat-waves-taking-toll-on-flowers-that-inspired-claude-monet-most-beloved-paintings-180989384/</guid>
+    </item>    <item>
+      <title>AROS gets official Raspberry Pi images</title>
+      <link>https://www.osnews.com/story/145875/aros-gets-official-raspberry-pi-images/</link>
+      <description>
+        <![CDATA[AROS, the open source Amiga OS-compatible operating system, now has images available for the Raspberry Pi 3 (although some people state it also works on the Pi 4), in both 32bit and 64bit versions. According to the AROS team, they are quite stable, but not yet complete, so do know what you&#8217;re getting into. Dan Wood posted a YouTube video about these new images, providing much more insight into how well they work if you want more insight into how well they work. The images are, of course, the basic AROS operating system, so expect a rather barebones experience. If you&#8217;re used to some of the AROS distributions for x86, which come loaded with software and customisations, these images will feel quite bare to you. It&#8217;s going to take some time to port over all of these applications and customisations to the ARM version of AROS, but if and once that happens, I expect more complete images to appear as well. Great news for AROS and the Amiga community in general.]]>
+      </description>
+      <source:markdown>AROS, the open source Amiga OS-compatible operating system, now has images available for the Raspberry Pi 3 (although some people state it also works on the Pi 4), in both 32bit and 64bit versions. According to the AROS team, they are quite stable, but not yet complete, so do know what you’re getting into. Dan Wood posted a YouTube video about these new images, providing much more insight into how well they work if you want more insight into how well they work. The images are, of course, the basic AROS operating system, so expect a rather barebones experience. If you’re used to some of the AROS distributions for x86, which come loaded with software and customisations, these images will feel quite bare to you. It’s going to take some time to port over all of these applications and customisations to the ARM version of AROS, but if and once that happens, I expect more complete images to appear as well. Great news for AROS and the Amiga community in general.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145875</guid>
+      <category>Amiga &#38; AROS</category>
+    </item>    <item>
+      <title>Perseverance Captures Another Phobos Transit</title>
+      <link>https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/</link>
+      <description>
+        <![CDATA[Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture the silhouette of Phobos, one of the two Martian moons, as it crossed in front of the Sun on Aug. 12, 2026, the 1,948th Martian day, or sol, of the mission.  The animation has been tinted to simulate what a human would see if […]]]>
+      </description>
+      <source:markdown>Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture the silhouette of Phobos, one of the two Martian moons, as it crossed in front of the Sun on Aug. 12, 2026, the 1,948th Martian day, or sol, of the mission.  The animation has been tinted to simulate what a human would see if \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/</guid>
+    </item>    <item>
+      <title>‘Only One of Its Kind’ Jellyfish Museum Astounds Visitors With Awe-Inspiring Displays of Sea Nettles Safely Behind Glass</title>
+      <link>https://www.smithsonianmag.com/smart-news/only-one-of-its-kind-jellyfish-museum-opens-in-florida-astounds-visitors-awe-inspiring-displays-nettles-safely-behind-glass-180989381/</link>
+      <description>
+        <![CDATA[The museum opened in the spring and was founded by two aquarium experts who fled the Russia-Ukraine war]]>
+      </description>
+      <source:markdown>The museum opened in the spring and was founded by two aquarium experts who fled the Russia-Ukraine war</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/l64h1FANXnI1sY1AQRF3iHeeCaE=/420x240/filters:focal(3860x2592:3861x2593)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5f/95/5f953e17-1c92-4072-8912-44ff60628703/dsc4258.jpg" length="28087426" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/only-one-of-its-kind-jellyfish-museum-opens-in-florida-astounds-visitors-awe-inspiring-displays-nettles-safely-behind-glass-180989381/</guid>
+    </item>    <item>
+      <title>Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth</title>
+      <link>https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/</link>
+      <description>
+        <![CDATA[At the center of our solar system, the Sun influences every planet that orbits it. In two recent NASA-funded studies, scientists uncovered how ancient events in the Sun’s history may have helped create Earth’s unique climate and driven previously unexplained climatic shifts.   In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center — one of […]]]>
+      </description>
+      <source:markdown>At the center of our solar system, the Sun influences every planet that orbits it. In two recent NASA-funded studies, scientists uncovered how ancient events in the Sun’s history may have helped create Earth’s unique climate and driven previously unexplained climatic shifts.   In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center — one of \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/</guid>
+      <category>Climate Modeling</category>
+      <category>Earth</category>
+      <category>Earth Science</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Heliophysics</category>
+      <category>Heliophysics Division</category>
+      <category>Heliophysics Research Program</category>
+      <category>Heliosphere</category>
+      <category>Kepler / K2</category>
+      <category>Science Mission Directorate</category>
+      <category>The Solar System</category>
+      <category>The Sun</category>
+    </item>    <item>
+      <title>NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix</title>
+      <link>https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-at-freedom-250-grand-prix/</link>
+      <description>
+        <![CDATA[NASA astronaut and Artemis II commander Reid Wiseman is seen in the two-seat IndyCar as he prepares for driver Conor Daly to take him on a lap ahead of the start of the Freedom 250 Grand Prix, Sunday, Aug. 23, 2026, in Washington, D.C. Image credit: NASA/Joel Kowsky]]>
+      </description>
+      <source:markdown>NASA astronaut and Artemis II commander Reid Wiseman is seen in the two-seat IndyCar as he prepares for driver Conor Daly to take him on a lap ahead of the start of the Freedom 250 Grand Prix, Sunday, Aug. 23, 2026, in Washington, D.C. Image credit: NASA/Joel Kowsky</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1040557</guid>
+      <category>G. Reid Wiseman</category>
+    </item>    <item>
+      <title>This 15-Foot Python Is the First Known Snake to Receive Electrochemotherapy for Cancer. Now, She&#39;s Officially Free of the Disease</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-15-foot-python-is-the-first-known-snake-to-receive-electrochemotherapy-for-cancer-now-shes-officially-free-of-the-disease-180989385/</link>
+      <description>
+        <![CDATA[The pioneering treatment makes it easier for traditional chemotherapy drugs to penetrate cancer cells. After the procedure, the reptile, named Jodie Foster, made a speedy recovery]]>
+      </description>
+      <source:markdown>The pioneering treatment makes it easier for traditional chemotherapy drugs to penetrate cancer cells. After the procedure, the reptile, named Jodie Foster, made a speedy recovery</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/nC59Jltx-ukbqNYE1Y5CJLedCNs=/420x240/filters:focal(1719x966:1720x967)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cc/a5/cca51174-4295-4234-b8d2-eab719894c73/screenshot_2026-08-24_at_171648.png" length="8502220" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-15-foot-python-is-the-first-known-snake-to-receive-electrochemotherapy-for-cancer-now-shes-officially-free-of-the-disease-180989385/</guid>
+    </item>    <item>
+      <title>MAIA Air Sensor at Work in Addis Ababa</title>
+      <link>https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/</link>
+      <description>
+        <![CDATA[Description This roof-mounted air sensor in Addis Ababa, the capital of Ethiopia, is one of 10 used by NASA’s Multi-Angle Imager for Aerosols (MAIA) to study the city’s air quality. MAIA’s air sensors provide a detailed look at particulate matter that is 2.5 micrometers or less in diameter, also known as PM2.5, one of the world’s deadliest forms […]]]>
+      </description>
+      <source:markdown>Description This roof-mounted air sensor in Addis Ababa, the capital of Ethiopia, is one of 10 used by NASA’s Multi-Angle Imager for Aerosols (MAIA) to study the city’s air quality. MAIA’s air sensors provide a detailed look at particulate matter that is 2.5 micrometers or less in diameter, also known as PM2.5, one of the world’s deadliest forms \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/</guid>
+      <category>MAIA (Multi-Angle Imager for Aerosols)</category>
+      <category>Photojournal</category>
+    </item>    <item>
+      <title>Mapping Air Pollution With MAIA Sensors in Addis Ababa</title>
+      <link>https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/</link>
+      <description>
+        <![CDATA[Description This map of Addis Ababa, the capital of Ethiopia, shows the locations of 10 air sensors that NASA’s Multi-Angle Imager for Aerosols (MAIA) mission is using to provide one of the most detailed looks ever at the city’s air pollution. Over the course of three years, these sensors measured particulate matter that is 2.5 micrometers or less […]]]>
+      </description>
+      <source:markdown>Description This map of Addis Ababa, the capital of Ethiopia, shows the locations of 10 air sensors that NASA’s Multi-Angle Imager for Aerosols (MAIA) mission is using to provide one of the most detailed looks ever at the city’s air pollution. Over the course of three years, these sensors measured particulate matter that is 2.5 micrometers or less \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/</guid>
+      <category>MAIA (Multi-Angle Imager for Aerosols)</category>
+      <category>Photojournal</category>
+    </item>    <item>
+      <title>Closed to the Public Since WWII, a ‘Hidden’ Gallery at London’s Natural History Museum Opens Its Doors Once Again</title>
+      <link>https://www.smithsonianmag.com/smart-news/closed-to-public-since-wwii-hidden-gallery-at-london-natural-history-museum-opens-doors-once-again-180989380/</link>
+      <description>
+        <![CDATA[Animal skeletons, Neolithic tools and pop culture memorabilia are among the dozens of objects to be displayed in the reopened “Nature and Us” exhibition]]>
+      </description>
+      <source:markdown>Animal skeletons, Neolithic tools and pop culture memorabilia are among the dozens of objects to be displayed in the reopened “Nature and Us” exhibition</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jJ48mnkMBW8pkeJafOWM2SvNqWs=/420x240/filters:focal(3132x2147:3133x2148)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/84/bc/84bc28e7-5bbe-41da-9bae-d8af3b3e3c4e/upper_mammals_gallery_1911_credit_the_trustees_of_the_natural_history_museum_london.jpg" length="17769079" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/closed-to-public-since-wwii-hidden-gallery-at-london-natural-history-museum-opens-doors-once-again-180989380/</guid>
+    </item>    <item>
+      <title>Centuries Ago, Europeans Were Plagued by Constant Flooding, With 16 Major Events That Killed Thousands Over the Course of Just Three Years</title>
+      <link>https://www.smithsonianmag.com/smart-news/centuries-ago-europeans-plagued-constant-flooding-16-major-events-killed-thousands-over-course-three-years-180989378/</link>
+      <description>
+        <![CDATA[When researchers went looking for information about the legendary Magdalena Flood, they were surprised to discover that it was just one of many extreme weather events that ravaged the region in the early 1340s]]>
+      </description>
+      <source:markdown>When researchers went looking for information about the legendary Magdalena Flood, they were surprised to discover that it was just one of many extreme weather events that ravaged the region in the early 1340s</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/SjgWXFXMg2yTvU055-lTik5Ngig=/420x240/filters:focal(800x533:801x534)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f1/a7/f1a7ef64-17ca-4d9a-8672-8a7ee6608b2e/csm_magdalenenflut_e-codices_1e538aabb0.webp" length="338654" type="image/webp" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/centuries-ago-europeans-plagued-constant-flooding-16-major-events-killed-thousands-over-course-three-years-180989378/</guid>
+    </item>    <item>
+      <title>Scientists Used A.I. to Design New Viruses. The Technology Could Be a Boon for Medicine, but Experts Worry About Harmful Pathogens</title>
+      <link>https://www.smithsonianmag.com/smart-news/scientists-used-ai-too-design-new-viruses-the-technology-could-be-a-boon-for-medicine-but-experts-worry-about-harmful-pathogens-180989336/</link>
+      <description>
+        <![CDATA[The findings represent the first genomes, or complete genetic instruction books, designed entirely with generative A.I. The resulting viruses attack only bacteria, which could one day help overcome the problem of antibiotic-resistant microbes]]>
+      </description>
+      <source:markdown>The findings represent the first genomes, or complete genetic instruction books, designed entirely with generative A.I. The resulting viruses attack only bacteria, which could one day help overcome the problem of antibiotic-resistant microbes</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Fntxua-40FPjZNgcqHy9SUT-UTg=/420x240/filters:focal(1088x710:1089x711)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/37/31/37310244-a744-4aff-883f-644ac47266a4/brianhie_image_2024-3.png" length="4182491" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-used-ai-too-design-new-viruses-the-technology-could-be-a-boon-for-medicine-but-experts-worry-about-harmful-pathogens-180989336/</guid>
+    </item>    <item>
+      <title>Japan tried to build an operating system for the entire world: TRON</title>
+      <link>https://www.osnews.com/story/145872/japan-tried-to-build-an-operating-system-for-the-entire-world-tron/</link>
+      <description>
+        <![CDATA[Ah, Japan&#8217;s TRON project &#8211; every few years someone discovers it anew and it bubbles back up the surface, and deservedly so, as it&#8217;s an incredibly interesting operating system project that, like so many others, deserved a better fate. There&#8217;s a version of computing history where the desktop OS that won wasn&#8217;t Windows. Not because the alternative was Unix-based or because Apple pulled off something different, but because an operating system designed at the University of Tokyo in 1984 was ambitious enough to try to replace the file system with a hypermedia document model, run on a custom Japanese CPU architecture, and encode 1.5 million characters, only to have a US trade report single it out as an unfair trade barrier in 1989. That project was TRON (The Real-time Operating system Nucleus), a real, government-backed Japanese computing initiative whose desktop variant, BTRON, was named in a US trade barrier report and effectively killed before it could reach schools nationwide. Meanwhile, its embedded counterpart, ITRON, quietly became one of the most deployed operating systems in history. TRON&#8217;s history has since attracted some genuinely wild conspiracy theories, including one claiming that Japan Airlines Flight 123 was deliberately crashed in order to target the TRON developers on board, despite there being no evidence that any TRON developers were even on the flight. But the strangest part of the story isn&#8217;t even a conspiracy theory: BTRON&#8217;s hypermedia desktop was decades ahead of what the market could support, and SoftBank founder Masayoshi Son may have helped sink it from the inside. ↫ Adam Conway at XDA The most interesting part of TRON for me was the different ways it treated files and documents compared to other operating systems. Instead of focusing on applications and files as the core interaction points for users, it focused on the document. While most operating systems associate specific files with specific applications, TRON associated individual components of documents with individual handlers. If you want to edit a Word document today, you open Word and do all your editing work inside Word, whether you&#8217;re editing blocks of text or an image, or you open entirely different applications when Word&#8217;s capabilities for a certain component in a document are too limited. In TRON, you&#8217;d open a document, and only once you wanted to edit specific components did it &#8220;open&#8221; an &#8220;application&#8221; to perform the editing, without actually leaving the document in question. Want to edit an image inside your document? In most operating systems, you&#8217;d have to open a separate image editor, load the relevant image file into it, make your edits, save the image file, and then paste said edited image file back into your document. There&#8217;s a considerable amount of overhead here that shouldn&#8217;t really exist; a computer is more than smart enough to open up just the editing controls from a different application if need be. In our current paradigm, applications often &#8220;solve&#8221; this by adding ever more features and controls and tools to cover every possible object or component you might have to deal with, but that just makes applications more complex, more bloated, and more difficult to use. TRON&#8217;s approach has been tried in a variety of times and places, but it never caught on. My personal pet theory is that the application-first model is far better at wealth extraction and concentration than TRON&#8217;s model, and as such, that&#8217;s what we ended up with. If a user&#8217;s document and all of its constituent parts are tied to and wrapped up into a single application from a single vendor, it&#8217;s much easier to control said user and extract wealth from them than when that user can just pick and choose whatever handler they want to use for whatever object they happen to run into in a document, without having to open tons of different applications and move, copy, and paste stuff all the time. In fact, this is also why consistency in user interface design is now all but dead; application developers and vendors use their own weird, non-standard, custom user interfaces for branding purposes. Sticking to a platform&#8217;s standards and conventions makes it harder to stand out and put your &#8220;brand&#8221; in people&#8217;s faces. But I digress. Regardless, I&#8217;m not sure if all the stories about the US trying to bury TRON have any real value to them, as even the article itself notes (undoing its own clickbaity headline) that the project already seemed to be in dire straights even before it got a buried mention in some trade document. On top of that, ITRON, the embedded TRON variant, survived and thrives to this very day, powering untold numbers of devices. It seems to have done quite well for itself, supposed US government intervention or no. This article by Steven J. Searle also takes a look at the workstation-focused variant of TRON.]]>
+      </description>
+      <source:markdown>Ah, Japan’s TRON project – every few years someone discovers it anew and it bubbles back up the surface, and deservedly so, as it’s an incredibly interesting operating system project that, like so many others, deserved a better fate. There’s a version of computing history where the desktop OS that won wasn’t Windows. Not because the alternative was Unix-based or because Apple pulled off something different, but because an operating system designed at the University of Tokyo in 1984 was ambitious enough to try to replace the file system with a hypermedia document model, run on a custom Japanese CPU architecture, and encode 1.5 million characters, only to have a US trade report single it out as an unfair trade barrier in 1989. That project was TRON (The Real-time Operating system Nucleus), a real, government-backed Japanese computing initiative whose desktop variant, BTRON, was named in a US trade barrier report and effectively killed before it could reach schools nationwide. Meanwhile, its embedded counterpart, ITRON, quietly became one of the most deployed operating systems in history. TRON’s history has since attracted some genuinely wild conspiracy theories, including one claiming that Japan Airlines Flight 123 was deliberately crashed in order to target the TRON developers on board, despite there being no evidence that any TRON developers were even on the flight. But the strangest part of the story isn’t even a conspiracy theory: BTRON’s hypermedia desktop was decades ahead of what the market could support, and SoftBank founder Masayoshi Son may have helped sink it from the inside. ↫ Adam Conway at XDA The most interesting part of TRON for me was the different ways it treated files and documents compared to other operating systems. Instead of focusing on applications and files as the core interaction points for users, it focused on the document. While most operating systems associate specific files with specific applications, TRON associated individual components of documents with individual handlers. If you want to edit a Word document today, you open Word and do all your editing work inside Word, whether you’re editing blocks of text or an image, or you open entirely different applications when Word’s capabilities for a certain component in a document are too limited. In TRON, you’d open a document, and only once you wanted to edit specific components did it “open” an “application” to perform the editing, without actually leaving the document in question. Want to edit an image inside your document? In most operating systems, you’d have to open a separate image editor, load the relevant image file into it, make your edits, save the image file, and then paste said edited image file back into your document. There’s a considerable amount of overhead here that shouldn’t really exist; a computer is more than smart enough to open up just the editing controls from a different application if need be. In our current paradigm, applications often “solve” this by adding ever more features and controls and tools to cover every possible object or component you might have to deal with, but that just makes applications more complex, more bloated, and more difficult to use. TRON’s approach has been tried in a variety of times and places, but it never caught on. My personal pet theory is that the application-first model is far better at wealth extraction and concentration than TRON’s model, and as such, that’s what we ended up with. If a user’s document and all of its constituent parts are tied to and wrapped up into a single application from a single vendor, it’s much easier to control said user and extract wealth from them than when that user can just pick and choose whatever handler they want to use for whatever object they happen to run into in a document, without having to open tons of different applications and move, copy, and paste stuff all the time. In fact, this is also why consistency in user interface design is now all but dead; application developers and vendors use their own weird, non-standard, custom user interfaces for branding purposes. Sticking to a platform’s standards and conventions makes it harder to stand out and put your “brand” in people’s faces. But I digress. Regardless, I’m not sure if all the stories about the US trying to bury TRON have any real value to them, as even the article itself notes (undoing its own clickbaity headline) that the project already seemed to be in dire straights even before it got a buried mention in some trade document. On top of that, ITRON, the embedded TRON variant, survived and thrives to this very day, powering untold numbers of devices. It seems to have done quite well for itself, supposed US government intervention or no. This article by Steven J. Searle also takes a look at the workstation-focused variant of TRON.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145872</guid>
+      <category>Legacy OSes</category>
+    </item>    <item>
+      <title>How XPUs Meet a World-Class AI Factory</title>
+      <link>https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/</link>
+      <description>
+        <![CDATA[To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.  That requires AI infrastructure designed and built as a full factory, not a collection of individual accelerators. Hyperscalers and AI-native companies building custom XPUs must consider [&#8230;]]]>
+      </description>
+      <source:markdown>To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.  That requires AI infrastructure designed and built as a full factory, not a collection of individual accelerators. Hyperscalers and AI-native companies building custom XPUs must consider \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=97869</guid>
+      <category>AI Infrastructure</category>
+      <category>Hardware</category>
+      <category>Networking</category>
+      <category>Software</category>
+      <category>AI Factory</category>
+      <category>NVIDIA DSX</category>
+      <category>NVLink</category>
+    </item>    <item>
+      <title>With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents</title>
+      <link>https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/</link>
+      <description>
+        <![CDATA[The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems. Announced today, the NVIDIA Vera Rubin rack-scale system NVIDIA Groq [&#8230;]]]>
+      </description>
+      <source:markdown>The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems. Announced today, the NVIDIA Vera Rubin rack-scale system NVIDIA Groq \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=97768</guid>
+      <category>AI Infrastructure</category>
+      <category>Bluefi</category>
+      <category>CPX</category>
+      <category>LPX</category>
+      <category>NVIDIA Spectrum-X Ethernet</category>
+      <category>NVIDIA Vera Rubin</category>
+      <category>NVLink</category>
+      <category>Vera CPU</category>
+    </item>    <item>
+      <title>Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents</title>
+      <link>https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/</link>
+      <description>
+        <![CDATA[According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why?  Consider what happens when an AI agent researches a company for an investment decision. The agent queries financial databases, searches news and filings, invokes a sub-agent to run peer comparisons and model valuations, then synthesizes everything into a [&#8230;]]]>
+      </description>
+      <source:markdown>According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why?  Consider what happens when an AI agent researches a company for an investment decision. The agent queries financial databases, searches news and filings, invokes a sub-agent to run peer comparisons and model valuations, then synthesizes everything into a \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=97826</guid>
+      <category>AI Infrastructure</category>
+      <category>Hardware</category>
+      <category>Networking</category>
+      <category>Software</category>
+      <category>Agentic AI</category>
+      <category>Inference</category>
+      <category>NVIDIA Vera Rubin</category>
+      <category>Think SMART</category>
+    </item>    <item>
+      <title>A New Framework for How the Brain Compresses Our Noisy World</title>
+      <link>https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/</link>
+      <description>
+        <![CDATA[An updated view of categorization reflects the modern understanding that the nervous system is more of a prediction engine than a filing cabinet.            <p>The post <a href="https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/" target="_blank">A New Framework for How the Brain Compresses Our Noisy World</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>An updated view of categorization reflects the modern understanding that the nervous system is more of a prediction engine than a filing cabinet.
+
+The post [A New Framework for How the Brain Compresses Our Noisy World](https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=166076</guid>
+      <category>Biology</category>
+    </item>    <item>
       <title>Reverse-engineering Apple’s Find My people</title>
       <link>https://www.osnews.com/story/145870/reverse-engineering-apples-find-my-people/</link>
       <description>
@@ -33,6 +260,15 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 [NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
       <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/49b43b29-85de-4479-9d1e-6353065e2abc/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=49b43b29-85de-4479-9d1e-6353065e2abc&feed=F0qJcgXZ&t=podcast&e=nx-s1-5896440&p=510351&d=840&size=13451225" length="13451225" type="audio/mpeg" />
       <guid>cid://2f740ea7-e7f0-4913-9228-d13365d66f60</guid>
+    </item>    <item>
+      <title>APOD: 2026 August 24 – Comet 220P in Outburst</title>
+      <link>https://science.nasa.gov/image-article/apod/apod-2026-august-24-comet-220p-in-outburst/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 August 24 – Comet… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet 220P [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 August 24 – Comet… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet 220P \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod/apod-2026-august-24-comet-220p-in-outburst/</guid>
+      <category>APOD</category>
     </item>    <item>
       <title>What Lake Bonneville Left Behind</title>
       <link>https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/</link>
@@ -1499,15 +1735,6 @@ The post [Graduate Student Proves a Quantum Uncertainty Principle for Fractals](
       <guid>cid://https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-polar-geospatial-center-earthdem-elevation-products/</guid>
       <category>Earth Science</category>
     </item>    <item>
-      <title>Pumas Might Be Making Your Drive Home Safer. When the Predators Are Around, Deer Tend to Avoid Roads, Preventing Some Collisions</title>
-      <link>https://www.smithsonianmag.com/smart-news/pumas-might-be-making-your-drive-home-safer-when-the-predators-are-around-deer-tend-to-avoid-roads-preventing-some-collisions-180989314/</link>
-      <description>
-        <![CDATA[In Washington’s Olympic Peninsula, the wild cats’ presence corresponded with a 67 percent drop in the likelihood of a deer-vehicle crash and a 76 percent overall decline in the number of wrecks during a five-year period, according to a new study]]>
-      </description>
-      <source:markdown>In Washington’s Olympic Peninsula, the wild cats’ presence corresponded with a 67 percent drop in the likelihood of a deer-vehicle crash and a 76 percent overall decline in the number of wrecks during a five-year period, according to a new study</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jPMPyOHtw1rxeI78_HUeat6PnBs=/420x240/filters:focal(2000x1352:2001x1353)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/35/a1/35a1806d-e51e-423c-90d6-74bc5d1f676d/nmg0497-edit.jpg" length="6796144" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/pumas-might-be-making-your-drive-home-safer-when-the-predators-are-around-deer-tend-to-avoid-roads-preventing-some-collisions-180989314/</guid>
-    </item>    <item>
       <title>NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs</title>
       <link>https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/</link>
       <description>
@@ -1517,6 +1744,15 @@ The post [Graduate Student Proves a Quantum Uncertainty Principle for Fractals](
       <guid>cid://https://blogs.nvidia.com/?p=97450</guid>
       <category>Corporate</category>
       <category>NVIDIA Life</category>
+    </item>    <item>
+      <title>Pumas Might Be Making Your Drive Home Safer. When the Predators Are Around, Deer Tend to Avoid Roads, Preventing Some Collisions</title>
+      <link>https://www.smithsonianmag.com/smart-news/pumas-might-be-making-your-drive-home-safer-when-the-predators-are-around-deer-tend-to-avoid-roads-preventing-some-collisions-180989314/</link>
+      <description>
+        <![CDATA[In Washington’s Olympic Peninsula, the wild cats’ presence corresponded with a 67 percent drop in the likelihood of a deer-vehicle crash and a 76 percent overall decline in the number of wrecks during a five-year period, according to a new study]]>
+      </description>
+      <source:markdown>In Washington’s Olympic Peninsula, the wild cats’ presence corresponded with a 67 percent drop in the likelihood of a deer-vehicle crash and a 76 percent overall decline in the number of wrecks during a five-year period, according to a new study</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jPMPyOHtw1rxeI78_HUeat6PnBs=/420x240/filters:focal(2000x1352:2001x1353)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/35/a1/35a1806d-e51e-423c-90d6-74bc5d1f676d/nmg0497-edit.jpg" length="6796144" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/pumas-might-be-making-your-drive-home-safer-when-the-predators-are-around-deer-tend-to-avoid-roads-preventing-some-collisions-180989314/</guid>
     </item>    <item>
       <title>Can you spot AI-written stories? Listen and find out</title>
       <link>https://www.npr.org/2026/08/12/nx-s1-5913976/ai-human-detector-writing-check</link>
@@ -2927,208 +3163,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <category>Earth Observatory</category>
       <category>Terra</category>
       <category>Wildfires</category>
-    </item>    <item>
-      <title>To Recover Artworks Looted by the Nazis, Researchers Are Getting Creative, With New Strategies Including an A.I. Chatbot and a Campaign of &#39;Wanted&#39; Posters</title>
-      <link>https://www.smithsonianmag.com/smart-news/to-recover-artworks-looted-by-the-nazis-researchers-are-getting-creative-with-new-strategies-including-an-ai-chatbot-and-a-campaign-of-wanted-posters-180989247/</link>
-      <description>
-        <![CDATA[University researchers hope their new artificial intelligence chatbot makes provenance research easier and more accessible]]>
-      </description>
-      <source:markdown>University researchers hope their new artificial intelligence chatbot makes provenance research easier and more accessible</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/NbIGOKwLJNXBA7mWKqeWhIIoMYk=/420x240/filters:focal(1000x667:1001x668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2c/65/2c6578ec-9446-445d-a687-13c11766fd9b/20aeb8493decd864fed61c47c4df237c-l.webp" length="99188" type="image/webp" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/to-recover-artworks-looted-by-the-nazis-researchers-are-getting-creative-with-new-strategies-including-an-ai-chatbot-and-a-campaign-of-wanted-posters-180989247/</guid>
-    </item>    <item>
-      <title>New Images Provide the Best Evidence Yet That Supergiant Star Betelgeuse Does, Indeed, Have a Long-Theorized Stellar Companion</title>
-      <link>https://www.smithsonianmag.com/smart-news/new-images-provide-the-best-evidence-yet-that-supergiant-star-betelgeuse-does-inded-have-a-long-theorized-stellar-companion-180989225/</link>
-      <description>
-        <![CDATA[The research team is mostly convinced by the data, but they want to capture additional observations in 2027 to confirm what they've found]]>
-      </description>
-      <source:markdown>The research team is mostly convinced by the data, but they want to capture additional observations in 2027 to confirm what they&#39;ve found</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/q7X-oC44tmP1o5jyf5MEEJ2pxrc=/420x240/filters:focal(2102x1241:2103x1242)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/94/ff/94ff6e6b-f487-40cd-ab29-08c7fca4b23e/eso2611a-2.jpg" length="5028277" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/new-images-provide-the-best-evidence-yet-that-supergiant-star-betelgeuse-does-inded-have-a-long-theorized-stellar-companion-180989225/</guid>
-    </item>    <item>
-      <title>This 400-Year-Old Impenetrable Japanese Castle That Survived a Samurai Siege Just Crumbled in an Earthquake</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-400-year-old-impenetrable-japanese-castle-that-survived-a-samurai-siege-just-crumbled-in-an-earthquake-180989248/</link>
-      <description>
-        <![CDATA[In 1877, a force rebelling against Emperor Meiji attacked Kumamoto Castle on Japan's southern Kyushu island]]>
-      </description>
-      <source:markdown>In 1877, a force rebelling against Emperor Meiji attacked Kumamoto Castle on Japan&#39;s southern Kyushu island</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/7eR-Ehm6jDfxTCSqUxo1Iuid0-U=/420x240/filters:focal(554x422:555x423)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fb/4d/fb4d72e3-b649-4ad6-ac78-cdb6cbb172ec/760555007_1461662412652986_7819599822266088404_n.jpeg" length="548975" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-400-year-old-impenetrable-japanese-castle-that-survived-a-samurai-siege-just-crumbled-in-an-earthquake-180989248/</guid>
-    </item>    <item>
-      <title>A Man Used This Civil War Artifact as a Paperweight on His Desk. The Bomb Squad Told Him It Was Actually a Live Explosive</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-man-used-this-civil-war-artifact-as-a-paperweight-on-his-desk-the-bomb-squad-told-him-it-was-actually-a-live-explosive-180989245/</link>
-      <description>
-        <![CDATA[The device turned out to be an artillery shell designed for a Parrott rifle in the mid-1800s. Experts safely detonated it at a firing range near San Antonio]]>
-      </description>
-      <source:markdown>The device turned out to be an artillery shell designed for a Parrott rifle in the mid-1800s. Experts safely detonated it at a firing range near San Antonio</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/mRqeYHk6cADuiU6tai0fYVBMPBg=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b3/8a/b38a50bd-bf7c-4930-9abb-4ab98204d583/civil-war-ordnance.jpg" length="273562" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-man-used-this-civil-war-artifact-as-a-paperweight-on-his-desk-the-bomb-squad-told-him-it-was-actually-a-live-explosive-180989245/</guid>
-    </item>    <item>
-      <title>Louisiana Students Loft Payloads from NASA Balloon Facility in Texas</title>
-      <link>https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/</link>
-      <description>
-        <![CDATA[Every spring in Palestine, Texas, the wide-open fields around NASA’s Columbia Scientific Balloon Facility fill with students and faculty from across Louisiana. They arrive carrying sensors, laptops, and carefully engineered payloads they have spent months preparing. &#160;The goal is to send their experiments to the edge of space and return with meaningful data, while reflecting [&#8230;]]]>
-      </description>
-      <source:markdown>Every spring in Palestine, Texas, the wide-open fields around NASA’s Columbia Scientific Balloon Facility fill with students and faculty from across Louisiana. They arrive carrying sensors, laptops, and carefully engineered payloads they have spent months preparing.  The goal is to send their experiments to the edge of space and return with meaningful data, while reflecting \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1033899</guid>
-      <category>Scientific Balloons</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Wallops Flight Facility</category>
-    </item>    <item>
-      <title>After Receiving a Custom Experimental Medicine, a Teen With a Rare Genetic Disorder Walked on His Own for the First Time</title>
-      <link>https://www.smithsonianmag.com/smart-news/after-receiving-a-custom-experimental-medicine-a-teen-with-a-rare-genetic-disorder-walked-on-his-own-for-the-first-time-180989230/</link>
-      <description>
-        <![CDATA[The patient's genetic disorder causes frequent seizures and developmental delays. His progress, along with that of another boy who received a similar personalized treatment, highlights the promise—and challenges—of tailor-made drugs]]>
-      </description>
-      <source:markdown>The patient&#39;s genetic disorder causes frequent seizures and developmental delays. His progress, along with that of another boy who received a similar personalized treatment, highlights the promise—and challenges—of tailor-made drugs</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/0x9rfhQuv4Tdn4Hj9jQsLR1JWwc=/420x240/filters:focal(4000x2019:4001x2020)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e0/5b/e05b0a8b-12f1-441c-9500-d02666f67670/epilepsy-med.jpg" length="39416181" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/after-receiving-a-custom-experimental-medicine-a-teen-with-a-rare-genetic-disorder-walked-on-his-own-for-the-first-time-180989230/</guid>
-    </item>    <item>
-      <title>Guinea-Bissau Tidal Waters</title>
-      <link>https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/</link>
-      <description>
-        <![CDATA[Twice each day, tides ebb and flow through a maze of sandy channels, mudflats, and mangrove forests that flank the 88 islands and islets of Guinea-Bissau&#8217;s&#160;Bijagós Archipelago&#160;(Arquipélago dos Bijagós in Portuguese). Seen from above in this image from Nov. 28, 2025, the process leads to stark changes to the landscape: around low tide,&#160;intertidal&#160;mudflats and sandflats [&#8230;]]]>
-      </description>
-      <source:markdown>Twice each day, tides ebb and flow through a maze of sandy channels, mudflats, and mangrove forests that flank the 88 islands and islets of Guinea-Bissau’s Bijagós Archipelago (Arquipélago dos Bijagós in Portuguese). Seen from above in this image from Nov. 28, 2025, the process leads to stark changes to the landscape: around low tide, intertidal mudflats and sandflats \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1034360</guid>
-      <category>Earth</category>
-      <category>Water on Earth</category>
-    </item>    <item>
-      <title>A Bare Summer for Barnes Ice Cap</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/a-bare-summer-for-barnes-ice-cap/</link>
-      <description>
-        <![CDATA[The expanse of glacial ice on Canada’s Baffin Island lost its snow cover quickly and early in summer 2026, revealing a network of melt features.]]>
-      </description>
-      <source:markdown>The expanse of glacial ice on Canada’s Baffin Island lost its snow cover quickly and early in summer 2026, revealing a network of melt features.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/a-bare-summer-for-barnes-ice-cap/</guid>
-      <category>Earth Observatory</category>
-      <category>Ice &#38; Glaciers</category>
-      <category>Landsat 9</category>
-      <category>Snow</category>
-    </item>    <item>
-      <title>9front “THIS WAS SUPPOSED TO BE FUN” released</title>
-      <link>https://www.osnews.com/story/145669/9front-this-was-supposed-to-be-fun-released/</link>
-      <description>
-        <![CDATA[The best operating system in the world, 9front, released its latest version, &#8220;THIS WAS SUPPOSED TO BE FUN&#8221;. As I&#8217;m sure you know, 9front is a fork of plan9, and one that&#8217;s actually consistently maintained and developed. It brings an improved affinewarp API for scaling and zooming, a new Synaptics driver, and a new driver for UPSs. There&#8217;s also a new tool called gdbfs, which allows you to mount a remote gdb at /proc. Of course, there&#8217;s much more than this, including the usual list of bugfixes and small changes. Few of us are worthy of using 9front, but if you are, you already know where to get it and how to update.]]>
-      </description>
-      <source:markdown>The best operating system in the world, 9front, released its latest version, “THIS WAS SUPPOSED TO BE FUN”. As I’m sure you know, 9front is a fork of plan9, and one that’s actually consistently maintained and developed. It brings an improved affinewarp API for scaling and zooming, a new Synaptics driver, and a new driver for UPSs. There’s also a new tool called gdbfs, which allows you to mount a remote gdb at /proc. Of course, there’s much more than this, including the usual list of bugfixes and small changes. Few of us are worthy of using 9front, but if you are, you already know where to get it and how to update.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145669</guid>
-      <category>OS News</category>
-    </item>    <item>
-      <title>Smallpox DNA Hidden for Centuries in Mummies Found in Chile Suggests European Colonists Brought the Virus to the Americas</title>
-      <link>https://www.smithsonianmag.com/smart-news/smallpox-dna-hidden-for-centuries-in-mummies-found-in-chile-suggests-european-colonists-brought-the-virus-to-the-americas-180989244/</link>
-      <description>
-        <![CDATA[Researchers say they found the first direct, molecular proof of the deadly trajectory the virus took]]>
-      </description>
-      <source:markdown>Researchers say they found the first direct, molecular proof of the deadly trajectory the virus took</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/e2jcwTfb5-75M_er-g1igHN9kQM=/420x240/filters:focal(600x451:601x452)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1b/e5/1be572c0-d1bf-4750-ac39-415760a37adb/inca-spanish_confrontation.jpeg" length="704553" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/smallpox-dna-hidden-for-centuries-in-mummies-found-in-chile-suggests-european-colonists-brought-the-virus-to-the-americas-180989244/</guid>
-    </item>    <item>
-      <title>Why the Legendary Erdős Problems Are Falling to AI</title>
-      <link>https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/</link>
-      <description>
-        <![CDATA[AI’s greatest mathematical successes have come from answers to problems posed by a mid-20th century iconoclast. By examining what makes the Erdős problems unique, mathematicians are trying to understand how AI might change the rest of math.            <p>The post <a href="https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/" target="_blank">Why the Legendary Erdős Problems Are Falling to AI</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>AI’s greatest mathematical successes have come from answers to problems posed by a mid-20th century iconoclast. By examining what makes the Erdős problems unique, mathematicians are trying to understand how AI might change the rest of math.
-
-The post [Why the Legendary Erdős Problems Are Falling to AI](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=165323</guid>
-      <category>Mathematics</category>
-    </item>    <item>
-      <title>NASA Delivers Navigation System for Commercial Lunar Relay</title>
-      <link>https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/</link>
-      <description>
-        <![CDATA[NASA delivered the NavCube3-mini payload&#160;on&#160;July 13&#160;to Intuitive Machines for integration into&#160;Altus-1,&#160;the company’s&#160;first&#160;lunar relay&#160;satellite, marking an important milestone in the development of future&#160;lunar&#160;communications and navigation services.&#160;The lunar relays are designed to enable communications&#160;and navigation&#160;for astronauts and rovers&#160;operating&#160;at the agency’s future Moon Base. About&#160;half&#160;the size of a shoebox and weighing just 3.5 pounds, NavCube3-mini&#160;is a&#160;compact&#160;but powerful navigation [&#8230;]]]>
-      </description>
-      <source:markdown>NASA delivered the NavCube3-mini payload on July 13 to Intuitive Machines for integration into Altus-1, the company’s first lunar relay satellite, marking an important milestone in the development of future lunar communications and navigation services. The lunar relays are designed to enable communications and navigation for astronauts and rovers operating at the agency’s future Moon Base. About half the size of a shoebox and weighing just 3.5 pounds, NavCube3-mini is a compact but powerful navigation \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1019881</guid>
-      <category>Communicating and Navigating with Missions</category>
-      <category>Artemis</category>
-      <category>Commercial Space</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Moon Base</category>
-      <category>Space Communications &#38; Navigation Program</category>
-    </item>    <item>
-      <title>Ike Theriot Helps Prepare Astronauts to Work on the Moon</title>
-      <link>https://www.nasa.gov/centers-and-facilities/johnson/ike-theriot-helps-prepare-astronauts-to-work-on-the-moon/</link>
-      <description>
-        <![CDATA[From serving in the U.S. Army to helping prepare astronauts to explore the lunar surface, Ike Theriot built a path to NASA&#160;through discipline and determination.&#160; Theriot serves as the&#160;Flight Operations Surface Testing&#160;lead in the&#160;Exploration Extravehicular Activity&#160;Operations Branch within the EVA, Robotics, and Crew Operations Division at NASA’s Johnson Space Center in Houston. He integrates&#160;flight&#160;operations&#160;testing needs [&#8230;]]]>
-      </description>
-      <source:markdown>From serving in the U.S. Army to helping prepare astronauts to explore the lunar surface, Ike Theriot built a path to NASA through discipline and determination.  Theriot serves as the Flight Operations Surface Testing lead in the Exploration Extravehicular Activity Operations Branch within the EVA, Robotics, and Crew Operations Division at NASA’s Johnson Space Center in Houston. He integrates flight operations testing needs \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1021956</guid>
-      <category>Johnson Space Center</category>
-      <category>People of Johnson</category>
-    </item>    <item>
-      <title>NASA Brings Space Exploration to the FIFA World Cup</title>
-      <link>https://www.nasa.gov/centers-and-facilities/johnson/nasa-brings-space-exploration-to-the-fifa-world-cup/</link>
-      <description>
-        <![CDATA[From June 11 through July 19,&#160;NASA’s&#160;free interactive exhibit at FIFA Fan Festival™ brought space exploration to soccer fans in East Downtown Houston.&#160;&#160; More than 500,000 visitors explored&#160;the&#160;exhibit during the tournament, learning how the agency’s missions, research, and technology benefit life on Earth.&#160;&#160; The exhibit introduced a global audience to the&#160;Artemis program,&#160;Moon Base, the&#160;International Space Station, [&#8230;]]]>
-      </description>
-      <source:markdown>From June 11 through July 19, NASA’s free interactive exhibit at FIFA Fan Festival™ brought space exploration to soccer fans in East Downtown Houston.   More than 500,000 visitors explored the exhibit during the tournament, learning how the agency’s missions, research, and technology benefit life on Earth.   The exhibit introduced a global audience to the Artemis program, Moon Base, the International Space Station, \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1033679</guid>
-      <category>Johnson Space Center</category>
-      <category>General</category>
-    </item>    <item>
-      <title>MkLinux and the pimped-out Apple Workgroup Server 9150</title>
-      <link>https://www.osnews.com/story/145667/mklinux-and-the-pimped-out-apple-workgroup-server-9150/</link>
-      <description>
-        <![CDATA[Cameron Kaiser&#8217;s articles are always a right treat, and this one&#8217;s no different. It&#8217;s about running MkLinux on the Apple Workgroup Server, the regular Mac rebadged into a server product and predecessor to Apple&#8217;s first real server product, the Apple Network Server running AIX. The Workgroup Servers were originally marketed with Apple&#8217;s UNIX variant, A/UX, but with this operating system not surviving the transition to PowerPC processors, Apple started offering other options. A/UX ultimately didn&#8217;t survive the 1994 68K transition to PowerPC, but in 1996 Apple publicly offered another option: run Linux, using the Mach microkernel. Although MkLinux emerged after the 9150&#8217;s discontinuation, it&#8217;s still just an overgrown NuBus Power Mac, so between more RAM, a beefier CPU upgrade and various video cards, by the end of this article we ought to have a configuration that gives us the best of two worlds — classic MacOS and MkLinux — in one server. ↫ Cameron Kaiser I never really stopped to think that MkLinux really was, but it&#8217;s a lot more interesting than just an early Linux port to PowerPC Macs. In fact, it ran the monolithic Linux kernel as a userspace process on top of the Mach microkernel, which made it a valuable testing ground for Apple&#8217;s later XNU efforts. It&#8217;s wild that Apple had an official, blessed Linux operating system as early as the mid &#8217;90s, even if its performance was apparently not particularly great &#8211; due to the overhead of running it atop Mach &#8211; and Jobs canned it as soon as he came back to the company.]]>
-      </description>
-      <source:markdown>Cameron Kaiser’s articles are always a right treat, and this one’s no different. It’s about running MkLinux on the Apple Workgroup Server, the regular Mac rebadged into a server product and predecessor to Apple’s first real server product, the Apple Network Server running AIX. The Workgroup Servers were originally marketed with Apple’s UNIX variant, A/UX, but with this operating system not surviving the transition to PowerPC processors, Apple started offering other options. A/UX ultimately didn’t survive the 1994 68K transition to PowerPC, but in 1996 Apple publicly offered another option: run Linux, using the Mach microkernel. Although MkLinux emerged after the 9150’s discontinuation, it’s still just an overgrown NuBus Power Mac, so between more RAM, a beefier CPU upgrade and various video cards, by the end of this article we ought to have a configuration that gives us the best of two worlds — classic MacOS and MkLinux — in one server. ↫ Cameron Kaiser I never really stopped to think that MkLinux really was, but it’s a lot more interesting than just an early Linux port to PowerPC Macs. In fact, it ran the monolithic Linux kernel as a userspace process on top of the Mach microkernel, which made it a valuable testing ground for Apple’s later XNU efforts. It’s wild that Apple had an official, blessed Linux operating system as early as the mid ’90s, even if its performance was apparently not particularly great – due to the overhead of running it atop Mach – and Jobs canned it as soon as he came back to the company.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145667</guid>
-      <category>Apple</category>
-    </item>    <item>
-      <title>“A big win for Android interoperability”</title>
-      <link>https://www.osnews.com/story/145665/a-big-win-for-android-interoperability/</link>
-      <description>
-        <![CDATA[Whenever the EU steps in to regulate the big technology companies, the response from news outlets and bloggers (often funded or outright owned by right-wing extremists) is to claim it&#8217;s just a bunch of dumb , tech-illiterate bureaucrats telling the vastly more intelligent and superior technology companies what to do. Of course, this is just propaganda. Case in point: Something big just happened. As the Open Home Foundation’s Android developer for Home Assistant, I was invited by the European Commission (EC) to consult on Android interoperability. The call for feedback was part of the Commission’s work under the Digital Markets Act (DMA). For anyone unfamiliar, the DMA is an EU law that defines and regulates “gatekeeper platforms” – those that offer “core” services like search engines, app stores, and messaging platforms – to make digital markets fairer and more open to competition. As you might imagine, I had plenty to say about Google’s restrictions on Android, especially the tech giant limiting wake word detection to its own Gemini assistant, a concern I surfaced in our Home Assistant 2026.3 Release Party. To put it plainly, Google had no grounds for limiting Android interoperability in the first place, other than to give itself the upper hand. We knew our community deserved better, and that’s what we told the Commission. The result? The EC listened to us and all the other organizations that contributed. On July 16, 2026, the European Commission adopted a decision under the DMA that requires Alphabet (Google’s parent company) to open up eleven Android features, including always-on wake word detection, ambient sensor access, and screen automation – to all assistants, on equal terms. ↫ Timothy Nibeaudeau What&#8217;s really interesting is just how deeply technical and detailed this new EU decision really is. Timothy Nibeaudeau laid out the technical details of how wake word detection on Android works for the European Commission &#8211; in short, a DSP runs a really tiny model in a process isolated from the network to detect just a specific wakeword, and only once that wakeword is detected does it hand things off to a larger model running on the actual main SoC &#8211; and the EC&#8217;s new decision accurately and precisely describes this method and wrote their decision to take every detail into account. When I was invited to share these limitations (and others) with the Commission, I didn’t hold back. Which is why we were thrilled to discover an impressively precise and technically accurate decision from the EU: it correctly describes the two-stage wake word architecture, the DSP, the isolated process, and the role coupling. The report went down to details we only figured out by reading Android&#8217;s source code ourselves.  ↫ Timothy Nibeaudeau The idea that the European Union and Commission are a bunch of dumb, illiterate bureaucrats imposing impossible, unworkable, unrealistic demands on poor, hardworking, honest technology companies is a bunch of propaganda paid for by these very same companies, and every decision and ruling by the EU around the Digital Markets Act further confirms this by having strong technological underpinnings and being based on the actual workings of the technologies they cover. The EU does a lot of dumb things &#8211; as any government body does &#8211; but you don&#8217;t get to enjoy a nearly two-thirds approval rating for nothing, especially not in the face of the state of the world today. The Digital Markets Act has already proven to be incredibly effective, and this is exactly why the right-wing propaganda against it is reaching an ever crazier fever pitch. When basic consumer protection legislation makes the most powerful companies, right-wing media empires, and even the most powerful country in the world throw tamper tantrums like toddlers, you know you&#8217;re doing something right.]]>
-      </description>
-      <source:markdown>Whenever the EU steps in to regulate the big technology companies, the response from news outlets and bloggers (often funded or outright owned by right-wing extremists) is to claim it’s just a bunch of dumb , tech-illiterate bureaucrats telling the vastly more intelligent and superior technology companies what to do. Of course, this is just propaganda. Case in point: Something big just happened. As the Open Home Foundation’s Android developer for Home Assistant, I was invited by the European Commission (EC) to consult on Android interoperability. The call for feedback was part of the Commission’s work under the Digital Markets Act (DMA). For anyone unfamiliar, the DMA is an EU law that defines and regulates “gatekeeper platforms” – those that offer “core” services like search engines, app stores, and messaging platforms – to make digital markets fairer and more open to competition. As you might imagine, I had plenty to say about Google’s restrictions on Android, especially the tech giant limiting wake word detection to its own Gemini assistant, a concern I surfaced in our Home Assistant 2026.3 Release Party. To put it plainly, Google had no grounds for limiting Android interoperability in the first place, other than to give itself the upper hand. We knew our community deserved better, and that’s what we told the Commission. The result? The EC listened to us and all the other organizations that contributed. On July 16, 2026, the European Commission adopted a decision under the DMA that requires Alphabet (Google’s parent company) to open up eleven Android features, including always-on wake word detection, ambient sensor access, and screen automation – to all assistants, on equal terms. ↫ Timothy Nibeaudeau What’s really interesting is just how deeply technical and detailed this new EU decision really is. Timothy Nibeaudeau laid out the technical details of how wake word detection on Android works for the European Commission – in short, a DSP runs a really tiny model in a process isolated from the network to detect just a specific wakeword, and only once that wakeword is detected does it hand things off to a larger model running on the actual main SoC – and the EC’s new decision accurately and precisely describes this method and wrote their decision to take every detail into account. When I was invited to share these limitations (and others) with the Commission, I didn’t hold back. Which is why we were thrilled to discover an impressively precise and technically accurate decision from the EU: it correctly describes the two-stage wake word architecture, the DSP, the isolated process, and the role coupling. The report went down to details we only figured out by reading Android’s source code ourselves. ↫ Timothy Nibeaudeau The idea that the European Union and Commission are a bunch of dumb, illiterate bureaucrats imposing impossible, unworkable, unrealistic demands on poor, hardworking, honest technology companies is a bunch of propaganda paid for by these very same companies, and every decision and ruling by the EU around the Digital Markets Act further confirms this by having strong technological underpinnings and being based on the actual workings of the technologies they cover. The EU does a lot of dumb things – as any government body does – but you don’t get to enjoy a nearly two-thirds approval rating for nothing, especially not in the face of the state of the world today. The Digital Markets Act has already proven to be incredibly effective, and this is exactly why the right-wing propaganda against it is reaching an ever crazier fever pitch. When basic consumer protection legislation makes the most powerful companies, right-wing media empires, and even the most powerful country in the world throw tamper tantrums like toddlers, you know you’re doing something right.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145665</guid>
-      <category>Android</category>
-    </item>    <item>
-      <title>The new era of AI-powered cybercrime</title>
-      <link>https://www.npr.org/2026/08/03/nx-s1-5814724/cybersecurity-ai-hackers-chatgpt-mythos-tech</link>
-      <description>
-        <![CDATA[Hacking has been on the rise around the world. In 2025, the FBI’s Internet Crime Complaint Center received over 1 million complaints of cybercrime, a record high in the US. Hackers are always getting more creative, and now they have a new tool at their disposal: AI. <br/><br/><em>Interested in more tech in the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Hacking has been on the rise around the world. In 2025, the FBI’s Internet Crime Complaint Center received over 1 million complaints of cybercrime, a record high in the US. Hackers are always getting more creative, and now they have a new tool at their disposal: AI.
-
-_Interested in more tech in the news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f22c3e89-cb69-4759-92b8-036e07bfb415/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f22c3e89-cb69-4759-92b8-036e07bfb415&feed=F0qJcgXZ&t=podcast&e=nx-s1-5814724&p=510351&d=748&size=11974575" length="11974575" type="audio/mpeg" />
-      <guid>cid://2314ce69-69fb-4ddd-abc7-7b2a78ec328e</guid>
-    </item>    <item>
-      <title>APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula</title>
-      <link>https://science.nasa.gov/image-article/apod/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/</link>
-      <description>
-        <![CDATA[APODScienceAPODAPOD: 2026 August 3 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Vaporizing Meteor Photobombs the Lacerta Nebula Explanation: What’s happening to this meteor? This bright meteor streak appeared and disappeared [&#8230;]]]>
-      </description>
-      <source:markdown>APODScienceAPODAPOD: 2026 August 3 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Vaporizing Meteor Photobombs the Lacerta Nebula Explanation: What’s happening to this meteor? This bright meteor streak appeared and disappeared \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/</guid>
-      <category>APOD</category>
-    </item>    <item>
-      <title>APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 August 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Vaporizing Meteor Photobombs [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 August 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Vaporizing Meteor Photobombs \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/</guid>
-      <category>APOD</category>
-    </item>    <item>
-      <title>Forgejo Runner v13.0.0 is available</title>
-      <link>https://forgejo.org/2026-08-runner-release-v13/</link>
-      <description>
-        <![CDATA[Forgejo v13.0.0 is available. Breaking changes have been made to improve security and predictability of Forgejo Actions.]]>
-      </description>
-      <source:markdown>Forgejo v13.0.0 is available. Breaking changes have been made to improve security and predictability of Forgejo Actions.</source:markdown>
-      <guid>cid://https://forgejo.org/2026-08-runner-release-v13/</guid>
     </item>
   </channel>
 </rss>
