@@ -4,10 +4,45 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>25 Aug 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>26 Aug 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Rome, Naples et Florence, en 1817 by Stendhal</title>
+      <link>https://www.gutenberg.org/ebooks/79451</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>The moon era by Jack Williamson</title>
+      <link>https://www.gutenberg.org/ebooks/79450</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Philosophiae Naturalis Principia Mathematica by Isaac Newton</title>
+      <link>https://www.gutenberg.org/ebooks/28233</link>
+      <description>
+        <![CDATA[Language: Latin]]>
+      </description>
+      <source:markdown>Language: Latin</source:markdown>
+    </item>    <item>
+      <title>The conquered by Naomi Mitchison</title>
+      <link>https://www.gutenberg.org/ebooks/79449</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Please stand by by Joseph Ivers Lawrence</title>
+      <link>https://www.gutenberg.org/ebooks/79452</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>The man that rum made :</title>
       <link>https://www.gutenberg.org/ebooks/79442</link>
       <description>
@@ -1654,88 +1689,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Beggar’s Opera, by John Gay</title>
-      <link>https://standardebooks.org/ebooks/john-gay/the-beggars-opera</link>
-      <description>
-        <![CDATA[A highwayman worries that he’s undone when his love affairs are uncovered.]]>
-      </description>
-      <source:markdown>A highwayman worries that he’s undone when his love affairs are uncovered.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/john-gay/the-beggars-opera/downloads/john-gay_the-beggars-opera.epub?source=feed" length="2096019" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/john-gay/the-beggars-opera</guid>
-      <category>Drama</category>
-      <category>Satire</category>
-    </item>    <item>
-      <title>The Great Airport Mystery, by Franklin W. Dixon</title>
-      <link>https://standardebooks.org/ebooks/franklin-w-dixon/the-great-airport-mystery</link>
-      <description>
-        <![CDATA[After surviving an airplane accident, a pair of amateur sleuths get tangled up with a gang of thieves.]]>
-      </description>
-      <source:markdown>After surviving an airplane accident, a pair of amateur sleuths get tangled up with a gang of thieves.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/franklin-w-dixon/the-great-airport-mystery/downloads/franklin-w-dixon_the-great-airport-mystery.epub?source=feed" length="479823" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/franklin-w-dixon/the-great-airport-mystery</guid>
-      <category>Adventure</category>
-      <category>Children’s</category>
-      <category>Fiction</category>
-    </item>    <item>
-      <title>The Home and the World, by Rabindranath Tagore</title>
-      <link>https://standardebooks.org/ebooks/rabindranath-tagore/the-home-and-the-world/surendranath-tagore</link>
-      <description>
-        <![CDATA[When a wealthy Bengali woman’s husband invites an anti-British activist to their home, she becomes devoted to the nationalist cause, leading to disharmony in the household.]]>
-      </description>
-      <source:markdown>When a wealthy Bengali woman’s husband invites an anti-British activist to their home, she becomes devoted to the nationalist cause, leading to disharmony in the household.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/rabindranath-tagore/the-home-and-the-world/surendranath-tagore/downloads/rabindranath-tagore_the-home-and-the-world_surendranath-tagore.epub?source=feed" length="540083" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/rabindranath-tagore/the-home-and-the-world/surendranath-tagore</guid>
-      <category>Fiction</category>
-    </item>    <item>
-      <title>The Further Adventures of Robinson Crusoe by Daniel Defoe</title>
-      <link>https://www.gutenberg.org/ebooks/561</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Greatest Plague of Life: or, the Adventures of a Lady in Search of a Good Servant. by Mayhew</title>
-      <link>https://www.gutenberg.org/ebooks/60562</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Borough Treasurer by J. S.  Fletcher</title>
-      <link>https://www.gutenberg.org/ebooks/20630</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Under the Yankee Ensign by Ralph Henry Barbour</title>
-      <link>https://www.gutenberg.org/ebooks/79261</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The story of Ivy by Marie Belloc Lowndes</title>
-      <link>https://www.gutenberg.org/ebooks/79259</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>My man Jeeves by P. G.  Wodehouse</title>
-      <link>https://www.gutenberg.org/ebooks/8164</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Le due colpe by Giuseppe de Rossi</title>
-      <link>https://www.gutenberg.org/ebooks/79260</link>
-      <description>
-        <![CDATA[Language: Italian]]>
-      </description>
-      <source:markdown>Language: Italian</source:markdown>
     </item>
   </channel>
 </rss>

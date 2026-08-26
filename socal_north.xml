@@ -5,10 +5,101 @@
     <title><![CDATA[SoCal North]]></title>
     <description><![CDATA[News and posts related to the greater North Los Angeles and adjacent counties.]]></description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>25 Aug 26 06:30 -0700</lastBuildDate>
+    <lastBuildDate>26 Aug 26 06:30 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Student homelessness rises in California even as overall enrollment falls</title>
+      <link>https://laist.com/news/education/more-california-students-experiencing-homelessness-2026-ucla-study</link>
+      <description>
+        <![CDATA[Southern California Counties, including Los Angeles, account for the highest numbers of homeless students in the state.]]>
+      </description>
+      <source:markdown>Southern California Counties, including Los Angeles, account for the highest numbers of homeless students in the state.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-39d9-d356-a1f7-3dd9aa630000</guid>
+    </item>    <item>
+      <title>Cleanup begins at long-empty Superfund site in South Gate</title>
+      <link>https://laist.com/news/climate-environment/cleanup-begins-at-superfund-site-south-gate</link>
+      <description>
+        <![CDATA[Federal EPA officials break ground on a project to clean up soil and groundwater at one of three toxic industrial sites in the southeast L.A. city.]]>
+      </description>
+      <source:markdown>Federal EPA officials break ground on a project to clean up soil and groundwater at one of three toxic industrial sites in the southeast L.A. city.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-3b2c-d18e-a7a1-7fac6eb30000</guid>
+    </item>    <item>
+      <title>The Miracle Mile</title>
+      <link>https://transitinglosangeles.com/2026/08/25/the-miracle-mile/</link>
+      <description>
+        <![CDATA[This famed corridor, with its museums, tar pits, and Art Deco architecture, is now even more accessible with the opening of a new subway this year.]]>
+      </description>
+      <source:markdown>This famed corridor, with its museums, tar pits, and Art Deco architecture, is now even more accessible with the opening of a new subway this year.</source:markdown>
+      <guid>cid://http://transitinglosangeles.com/?p=10452</guid>
+      <category>Art</category>
+      <category>Central LA</category>
+      <category>Historic Sites</category>
+      <category>Museums</category>
+      <category>la metro</category>
+      <category>la transit</category>
+      <category>los angeles</category>
+      <category>miracle mile</category>
+      <category>travel guide</category>
+      <category>wilshire</category>
+    </item>    <item>
+      <title>This year’s El Niño could be the strongest on record. What questions do you have?</title>
+      <link>https://laist.com/news/climate-environment/el-nino-callout-questions</link>
+      <description>
+        <![CDATA[LAist wants to help you make sense of El Niño, the climate pattern that can cause dangerously wet winters in Southern California.]]>
+      </description>
+      <source:markdown>LAist wants to help you make sense of El Niño, the climate pattern that can cause dangerously wet winters in Southern California.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-3aea-d07c-a5f1-7aebea660000</guid>
+    </item>    <item>
+      <title>Garden Grove business plans to resume operations after tank hazmat scare</title>
+      <link>https://laist.com/news/climate-environment/gkn-garden-grove-aerospace-resume-operations-september-hazmat-scare</link>
+      <description>
+        <![CDATA[Operations will be subject to an independently monitored, court-approved safety plan.]]>
+      </description>
+      <source:markdown>Operations will be subject to an independently monitored, court-approved safety plan.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-3a88-d6d6-a9f1-7fff5c630000</guid>
+    </item>    <item>
+      <title>Dolly Parton, music star, actor and beloved figure who spanned generations has died at 80</title>
+      <link>https://laist.com/news/arts-and-entertainment/dolly-parton-music-star-actor-dies-at-80</link>
+      <description>
+        <![CDATA[Parton wrote hundreds of songs, including classics like “Jolene,” “Coat of Many Colors” and “I Will Always Love You.”]]>
+      </description>
+      <source:markdown>Parton wrote hundreds of songs, including classics like “Jolene,” “Coat of Many Colors” and “I Will Always Love You.”</source:markdown>
+      <guid>cid://urn:uuid:000001a0-3a1a-d19e-a5a8-7f9e77a50000</guid>
+    </item>    <item>
+      <title>The Whole ‘Hood Knows He’s Innocent. Will He Finally Be Freed After 20 Years In Prison?</title>
+      <link>https://lataco.com/luis-salinas-wrongful-conviction</link>
+      <description>
+        <![CDATA[<p>A shooting he had no knowledge of and a case of mistaken identity cost him his freedom. Then, the actual shooter confessed. Will a judge free him?</p>
+        <p>The post <a href="https://lataco.com/luis-salinas-wrongful-conviction">The Whole &#8216;Hood Knows He&#8217;s Innocent. Will He Finally Be Freed After 20 Years In Prison?</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
+      </description>
+      <source:markdown>A shooting he had no knowledge of and a case of mistaken identity cost him his freedom. Then, the actual shooter confessed. Will a judge free him?
+
+The post [The Whole ‘Hood Knows He’s Innocent. Will He Finally Be Freed After 20 Years In Prison?](https://lataco.com/luis-salinas-wrongful-conviction) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
+      <guid>cid://https://lataco.com/?p=178034</guid>
+      <category>Investigative Report</category>
+      <category>Neighborhoods</category>
+      <category>News</category>
+      <category>Taco Members Only</category>
+      <category>Westlake</category>
+      <category>LAPD</category>
+    </item>    <item>
+      <title>Canada announces retaliatory tariffs on the US as the countries&#39; trade fight deepens</title>
+      <link>https://laist.com/news/canada-announces-retaliatory-tariffs-on-the-us-as-the-countries-trade-fight-deepens</link>
+      <description>
+        <![CDATA[The measures come after President Trump imposed 50% tariffs on many Canadian goods and threatened more after trade talks broke down on Friday.]]>
+      </description>
+      <source:markdown>The measures come after President Trump imposed 50% tariffs on many Canadian goods and threatened more after trade talks broke down on Friday.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-39bb-d6d6-a9f1-7dff4f480000</guid>
+    </item>    <item>
+      <title>California justices seem skeptical of Sheriff Chad Bianco’s defense in ballot seizure case</title>
+      <link>https://laist.com/news/politics/california-justices-seem-skeptical-of-sheriff-chad-biancos-defense-in-ballot-seizure-case</link>
+      <description>
+        <![CDATA[Riverside County Sheriff Chad Bianco was at the California Supreme Court Monday as his attorney argued he acted within his authority in seizing 650,000 ballots.]]>
+      </description>
+      <source:markdown>Riverside County Sheriff Chad Bianco was at the California Supreme Court Monday as his attorney argued he acted within his authority in seizing 650,000 ballots.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-39a0-d6d6-a9f1-7df7401f0000</guid>
+    </item>    <item>
       <title>Trump wants to open more public lands to logging. What does that mean for SoCal forests?</title>
       <link>https://laist.com/news/climate-environment/roadless-rule-socal-forests</link>
       <description>
@@ -53,12 +144,12 @@
       <link>https://sanfernandosun.com/2026/08/24/san-fernando-loses-37-7-season-opener-to-heritage-christian/</link>
       <description>
         <![CDATA[<figure><img width="1024" height="576" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/SFTigersHeritage.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="SFHS varsity football team line up against Heritage Christian players on San Fernando&#039;s field" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/SFTigersHeritage.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/SFTigersHeritage.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/SFTigersHeritage.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/SFTigersHeritage.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/SFTigersHeritage.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/SFTigersHeritage.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/SFTigersHeritage.jpg?resize=780%2C439&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/SFTigersHeritage.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/SFTigersHeritage.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/SFTigersHeritage.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-        <p>By Matthew Robinson SAN FERNANDO- The San Fernando Tigers on Saturday faced a focused and methodical Heritage Christian Warriors team that was eager to set the tone of the game [&#8230;]</p>
+        <p>By Matthew Robinson SAN FERNANDO- The San Fernando Tigers on Friday faced a focused and methodical Heritage Christian Warriors team that was eager to set the tone of the game [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2026/08/24/san-fernando-loses-37-7-season-opener-to-heritage-christian/">San Fernando Loses 37-7 Season Opener to Heritage Christian</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
       <source:markdown>![SFHS varsity football team line up against Heritage Christian players on San Fernando&#39;s field](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/SFTigersHeritage.jpg?fit=1024%2C576&#38;ssl=1)
 
-By Matthew Robinson SAN FERNANDO- The San Fernando Tigers on Saturday faced a focused and methodical Heritage Christian Warriors team that was eager to set the tone of the game \[…\]
+By Matthew Robinson SAN FERNANDO- The San Fernando Tigers on Friday faced a focused and methodical Heritage Christian Warriors team that was eager to set the tone of the game \[…\]
 
 The post [San Fernando Loses 37-7 Season Opener to Heritage Christian](https://sanfernandosun.com/2026/08/24/san-fernando-loses-37-7-season-opener-to-heritage-christian/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).</source:markdown>
       <guid>cid://https://sanfernandosun.com/?p=178853</guid>
@@ -67,6 +158,22 @@ The post [San Fernando Loses 37-7 Season Opener to Heritage Christian](https://s
       <category>Sports</category>
       <category>valley_sportscape</category>
       <category>no-byline</category>
+    </item>    <item>
+      <title>Santa Ynez Tribal Health Clinic hosts community health fair</title>
+      <link>https://www.newspress.com/2026/08/24/santa-ynez-tribal-health-clinic-hosts-community-health-fair/</link>
+      <description>
+        <![CDATA[The Santa Ynez Tribal Health Clinic (SYTHC) will host its Community 
+        Resource Health Fair from 9 a.m. to 1 p.m. Friday, Aug. 28, at the Tribal 
+        Hall on the Santa Ynez Reservation. The free event is open to the public 
+        and will feature wellness resources, nutrition information, family 
+        activities, raffle prizes, food trucks and more.]]>
+      </description>
+      <source:markdown>The Santa Ynez Tribal Health Clinic (SYTHC) will host its Community
+Resource Health Fair from 9 a.m. to 1 p.m. Friday, Aug. 28, at the Tribal
+Hall on the Santa Ynez Reservation. The free event is open to the public
+and will feature wellness resources, nutrition information, family
+activities, raffle prizes, food trucks and more.</source:markdown>
+      <guid>cid://5ce1c6e64abe9e0001603b00:5ce1fd41a265cb000118d783:6a8e0447f6d2573ff5aec08e</guid>
     </item>    <item>
       <title>Treasury Secretary Scott Bessent unveils new US economic sanctions on Iran</title>
       <link>https://laist.com/news/treasury-secretary-scott-bessent-unveils-new-u-s-economic-sanctions-on-iran</link>
@@ -547,7 +654,7 @@ The post [Before They Ride, Know What You’re Buying](https://santaclarita.gov/
       <title>Hombre Desaparecido es Hallado Muerto en el Lago del Hansen Dam, Tres Días Después de Su Desaparición</title>
       <link>https://sanfernandosun.com/2026/08/19/hombre-desaparecido-es-hallado-muerto-en-el-lago-del-hansen-dam-tres-dias-despues-de-su-desaparicion/</link>
       <description>
-        <![CDATA[<figure><img width="1024" height="672" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?fit=1024%2C672&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?resize=300%2C197&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?resize=1024%2C672&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?resize=768%2C504&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?resize=1536%2C1008&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?resize=1200%2C788&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?resize=780%2C512&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?resize=400%2C263&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?resize=706%2C463&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?fit=1024%2C672&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+        <![CDATA[<figure><img width="1024" height="672" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?fit=1024%2C672&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?resize=300%2C197&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?resize=1024%2C672&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?resize=768%2C504&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?resize=1536%2C1008&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?resize=1200%2C788&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?resize=780%2C512&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?resize=400%2C263&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?resize=706%2C463&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Missing-Man-02-scaled-e1787201772402.jpg?fit=1024%2C672&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
         <p>Cuando Rosa Ohm y su esposo Ramiro Herrera visitaban el Hansen Dam Recreational Park, en Lake View Terrace, para una fiesta de cumpleaños a principios de la semana, Herrera decidió [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2026/08/19/hombre-desaparecido-es-hallado-muerto-en-el-lago-del-hansen-dam-tres-dias-despues-de-su-desaparicion/">Hombre Desaparecido es Hallado Muerto en el Lago del Hansen Dam, Tres Días Después de Su Desaparición</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
@@ -564,7 +671,7 @@ The post [Hombre Desaparecido es Hallado Muerto en el Lago del Hansen Dam, Tres 
       <title>Después de Estar Recluido 10 Meses en el Centro de Detención de Adelanto, “Luis” Comparte Su Historia</title>
       <link>https://sanfernandosun.com/2026/08/19/despues-de-estar-recluido-10-meses-en-el-centro-de-detencion-de-adelanto-luis-comparte-su-historia/</link>
       <description>
-        <![CDATA[<figure><img width="1024" height="686" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Luis-Eva-1.jpg?fit=1024%2C686&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Luis-Eva-1.jpg?w=1037&amp;ssl=1 1037w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Luis-Eva-1.jpg?resize=300%2C201&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Luis-Eva-1.jpg?resize=1024%2C686&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Luis-Eva-1.jpg?resize=768%2C515&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Luis-Eva-1.jpg?resize=780%2C523&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Luis-Eva-1.jpg?resize=400%2C268&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Luis-Eva-1.jpg?resize=706%2C473&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Luis-Eva-1.jpg?fit=1024%2C686&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+        <![CDATA[<figure><img width="1024" height="686" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Luis-Eva-1.jpg?fit=1024%2C686&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Luis-Eva-1.jpg?w=1037&amp;ssl=1 1037w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Luis-Eva-1.jpg?resize=300%2C201&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Luis-Eva-1.jpg?resize=1024%2C686&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Luis-Eva-1.jpg?resize=768%2C515&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Luis-Eva-1.jpg?resize=780%2C523&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Luis-Eva-1.jpg?resize=400%2C268&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Luis-Eva-1.jpg?resize=706%2C473&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Luis-Eva-1.jpg?fit=1024%2C686&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
         <p>El pasado septiembre, agentes encapuchados de ICE rodearon de repente el vehículo de Luis: él se había detenido en una gasolinera temprano esa mañana en camino a su trabajo como [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2026/08/19/despues-de-estar-recluido-10-meses-en-el-centro-de-detencion-de-adelanto-luis-comparte-su-historia/">Después de Estar Recluido 10 Meses en el Centro de Detención de Adelanto, “Luis” Comparte Su Historia</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
@@ -609,7 +716,7 @@ The post [EVENTOS Locales – Semana de  20 de agosto, 2026](https://sanfernand
       <title>Bomberos de la LACoFD Regresarán de Colombia Tras Ayudar en Labores de Rescate</title>
       <link>https://sanfernandosun.com/2026/08/19/bomberos-de-la-lacofd-regresaran-de-colombia-tras-ayudar-en-labores-de-rescate/</link>
       <description>
-        <![CDATA[<figure><img width="1014" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?fit=1014%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?w=1260&amp;ssl=1 1260w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?resize=297%2C300&amp;ssl=1 297w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?resize=1014%2C1024&amp;ssl=1 1014w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?resize=768%2C775&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?resize=1200%2C1211&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?resize=780%2C787&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?resize=400%2C404&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?resize=706%2C713&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?fit=1014%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+        <![CDATA[<figure><img width="1014" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?fit=1014%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?w=1260&amp;ssl=1 1260w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?resize=297%2C300&amp;ssl=1 297w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?resize=1014%2C1024&amp;ssl=1 1014w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?resize=768%2C775&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?resize=1200%2C1211&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?resize=780%2C787&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?resize=400%2C404&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?resize=706%2C713&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-18-at-5.25.31-PM.png?fit=1014%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
         <p>A poco más de una semana de haber sido desplegados a Colombia para apoyar las labores de rescate tras el devastador sismo de magnitud 7.4, miembros del equipo internacional de [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2026/08/19/bomberos-de-la-lacofd-regresaran-de-colombia-tras-ayudar-en-labores-de-rescate/">Bomberos de la LACoFD Regresarán de Colombia Tras Ayudar en Labores de Rescate</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
@@ -625,7 +732,7 @@ The post [Bomberos de la LACoFD Regresarán de Colombia Tras Ayudar en Labores d
       <title>La Congresista Luz Rivas Logra 850,000 Dólares en Financiamiento para Mejoras del Pacoima Wash</title>
       <link>https://sanfernandosun.com/2026/08/19/la-congresista-luz-rivas-logra-850000-dolares-en-financiamiento-para-mejoras-del-pacoima-wash/</link>
       <description>
-        <![CDATA[<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?w=1950&amp;ssl=1 1950w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+        <![CDATA[<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?w=1950&amp;ssl=1 1950w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/Pacoima-Wash-01-1.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
         <p>La congresista Luz Rivas entregó un cheque por 850,000 dólares en financiamiento federal para el Proyecto de Mitigación del Puente del Pacoima Wash, que ayudará a mejorar la seguridad y [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2026/08/19/la-congresista-luz-rivas-logra-850000-dolares-en-financiamiento-para-mejoras-del-pacoima-wash/">La Congresista Luz Rivas Logra 850,000 Dólares en Financiamiento para Mejoras del Pacoima Wash</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
@@ -641,7 +748,7 @@ The post [La Congresista Luz Rivas Logra 850,000 Dólares en Financiamiento para
       <title>GR818ERS Conmemora Su 16 Aniversario con un Festival de Tres Días en Canoga Park</title>
       <link>https://sanfernandosun.com/2026/08/19/gr818ers-conmemora-su-16-aniversario-con-un-festival-de-tres-dias-en-canoga-park/</link>
       <description>
-        <![CDATA[<figure><img width="1024" height="640" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?fit=1024%2C640&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?w=1900&amp;ssl=1 1900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?resize=300%2C188&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?resize=1024%2C640&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?resize=768%2C480&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?resize=1536%2C960&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?resize=1200%2C750&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?resize=780%2C488&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?resize=400%2C250&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?resize=706%2C441&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?fit=1024%2C640&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+        <![CDATA[<figure><img width="1024" height="640" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?fit=1024%2C640&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?w=1900&amp;ssl=1 1900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?resize=300%2C188&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?resize=1024%2C640&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?resize=768%2C480&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?resize=1536%2C960&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?resize=1200%2C750&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?resize=780%2C488&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?resize=400%2C250&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?resize=706%2C441&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/08/ATB01003-scaled-e1787200132450.jpg?fit=1024%2C640&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
         <p>Los GR818ERS celebraron su 16 aniversario, al concluir su festival de tres días A Family Affair Festival (AFA Fest) con la competencia anual de baile, que incluyó participantes de todo [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2026/08/19/gr818ers-conmemora-su-16-aniversario-con-un-festival-de-tres-dias-en-canoga-park/">GR818ERS Conmemora Su 16 Aniversario con un Festival de Tres Días en Canoga Park</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
@@ -2835,136 +2942,6 @@ The post [Burbank’s Annual Latin Clown Convention Made Me Embrace My Inner Pay
       </description>
       <source:markdown>Federal officials say they&#39;re already meeting orders to immediately improve medical care, water and food. Attorneys for those detained say poor conditions remain the norm.</source:markdown>
       <guid>cid://urn:uuid:0000019f-cf2e-d36c-a3bf-efee2c130000</guid>
-    </item>    <item>
-      <title>A slate of LA City Council plans could bring more environmental justice power to Boyle Heights</title>
-      <link>https://laist.com/news/politics/la-city-council-plans-boyle-heights-lineage-relief</link>
-      <description>
-        <![CDATA[L.A. City Councilmember Ysabel Jurado introduced seven motions Tuesday, all geared at providing immediate and long-term relief.]]>
-      </description>
-      <source:markdown>L.A. City Councilmember Ysabel Jurado introduced seven motions Tuesday, all geared at providing immediate and long-term relief.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-cec7-dab7-af9f-fef7b7b90000</guid>
-    </item>    <item>
-      <title>LA County to provide assistance checks to businesses near Lineage warehouse fire. What we know</title>
-      <link>https://laist.com/news/politics/la-county-to-assist-businesses-near-lineage-warehouse-fire</link>
-      <description>
-        <![CDATA[County supervisors voted Tuesday to help small businesses affected by the aftermath of the Boyle Heights warehouse fire.]]>
-      </description>
-      <source:markdown>County supervisors voted Tuesday to help small businesses affected by the aftermath of the Boyle Heights warehouse fire.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-ceb4-dab7-af9f-fef540d70000</guid>
-    </item>    <item>
-      <title>LA voters will decide if Palisades homeowners get a break from city’s ‘mansion tax’</title>
-      <link>https://laist.com/news/los-angeles-ballot-measure-palisades-fire-mansion-tax-measure-ula-2026</link>
-      <description>
-        <![CDATA[The L.A. City Council voted to place a measure on the November ballot that would exempt fire survivors from Measure ULA.]]>
-      </description>
-      <source:markdown>The L.A. City Council voted to place a measure on the November ballot that would exempt fire survivors from Measure ULA.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-ce6c-dc95-a1df-fe6ca2750000</guid>
-    </item>    <item>
-      <title>Hey LA County — get paid to give your car a rest!</title>
-      <link>https://thesource.metro.net/hey-la-county-get-paid-to-give-your-car-a-rest/</link>
-      <description>
-        <![CDATA[<figure><img width="960" height="1200" src="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1456_msic_OCC2026_SocialGraphic_1080x1350_hp_final.jpg?fit=960%2C1200&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1456_msic_OCC2026_SocialGraphic_1080x1350_hp_final.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1456_msic_OCC2026_SocialGraphic_1080x1350_hp_final.jpg?resize=320%2C400&amp;ssl=1 320w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1456_msic_OCC2026_SocialGraphic_1080x1350_hp_final.jpg?resize=960%2C1200&amp;ssl=1 960w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1456_msic_OCC2026_SocialGraphic_1080x1350_hp_final.jpg?resize=768%2C960&amp;ssl=1 768w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1456_msic_OCC2026_SocialGraphic_1080x1350_hp_final.jpg?resize=400%2C500&amp;ssl=1 400w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1456_msic_OCC2026_SocialGraphic_1080x1350_hp_final.jpg?fit=960%2C1200&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>Can paying people not to drive reduce traffic?&#160;&#160; Research and practice from around the globe*&#160;shows that incentives to take transit, carpool, walk, or bike can meaningfully reduce driving trips — and that lower car ownership reduces miles traveled and&#160;time spent in traffic&#160;for everyone&#160;(in&#160;cars and buses).&#160;&#160; This summer, LA Metro is putting that idea to the [&#8230;]]]>
-      </description>
-      <source:markdown>![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1456_msic_OCC2026_SocialGraphic_1080x1350_hp_final.jpg?fit=960%2C1200&#38;ssl=1)Can paying people not to drive reduce traffic?   Research and practice from around the globe\* shows that incentives to take transit, carpool, walk, or bike can meaningfully reduce driving trips — and that lower car ownership reduces miles traveled and time spent in traffic for everyone (in cars and buses).   This summer, LA Metro is putting that idea to the \[…\]</source:markdown>
-      <guid>cid://https://thesource.metro.net/?p=147613</guid>
-      <category>Policy</category>
-    </item>    <item>
-      <title>L.A.’s 11 Best Jamaican Restaurants, Ranked</title>
-      <link>https://lataco.com/jamaican-restaurants-guide</link>
-      <description>
-        <![CDATA[<p>Los Angeles may lack the famous Jamaican restaurant scene of New York or Miami, but there are some insanely delicious family-run Caribbean meals hiding in our strip malls and Black family-owned storefronts if you know where to look. </p>
-        <p>The post <a href="https://lataco.com/jamaican-restaurants-guide">L.A.’s 11 Best Jamaican Restaurants, Ranked </a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>Los Angeles may lack the famous Jamaican restaurant scene of New York or Miami, but there are some insanely delicious family-run Caribbean meals hiding in our strip malls and Black family-owned storefronts if you know where to look.
-
-The post [L.A.’s 11 Best Jamaican Restaurants, Ranked](https://lataco.com/jamaican-restaurants-guide) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=182100</guid>
-      <category>Food</category>
-      <category>L.A. Taco Guides</category>
-      <category>Taco Members Only</category>
-      <category>Guides</category>
-    </item>    <item>
-      <title>Newly-released letters show LAUSD moved to fire Carvalho before he resigned</title>
-      <link>https://laist.com/news/education/letters-show-lausd-moved-to-fire-carvalho-before-resignation-as-superintendent</link>
-      <description>
-        <![CDATA[The Los Angeles Unified School District Board planned to vote on firing former Superintendent Alberto Carvalho for cause before he resigned in June.]]>
-      </description>
-      <source:markdown>The Los Angeles Unified School District Board planned to vote on firing former Superintendent Alberto Carvalho for cause before he resigned in June.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-cded-dab7-af9f-fffd051e0000</guid>
-    </item>    <item>
-      <title>Reps. Whitesides, McClain-Delaney, and Salinas Introduce Bill to Help Study Impact of Artificial Intelligence in the Classroom</title>
-      <link>https://whitesides.house.gov/2026/08/04/reps-whitesides-mcclain-delaney-and-salinas-introduce-bill-to-help-study-impact-of-artificial-intelligence-in-the-classroom/</link>
-      <description>
-        <![CDATA[WASHINGTON, D.C.&#160;&#8211; Today,&#160;Reps.&#160;George Whitesides (CA-27), April McClain-Delaney&#160;(MD-06),&#160;and&#160;Andrea Salinas (OR-06)&#160;introduced the&#160;Understanding AI in the Classroom Act. The use of artificial intelligence in the classroom has&#160;expanded greatly, yet&#160;very little research&#160;is being done to understand the real effects it has on students. As teachers and administrators evaluate if and how to permanently integrate AI into their classrooms, more [&#8230;]]]>
-      </description>
-      <source:markdown>WASHINGTON, D.C. – Today, Reps. George Whitesides (CA-27), April McClain-Delaney (MD-06), and Andrea Salinas (OR-06) introduced the Understanding AI in the Classroom Act. The use of artificial intelligence in the classroom has expanded greatly, yet very little research is being done to understand the real effects it has on students. As teachers and administrators evaluate if and how to permanently integrate AI into their classrooms, more \[…\]</source:markdown>
-      <guid>cid://https://whitesides-admin.c3pot.house.gov/?p=17680</guid>
-      <category>Press Releases</category>
-      <category>Education</category>
-    </item>    <item>
-      <title>Edison equipment caused deadly Eaton Fire, LA County Fire investigators conclude</title>
-      <link>https://laist.com/news/climate-environment/edison-eaton-fire-cause-la-county-fire-report</link>
-      <description>
-        <![CDATA[A new report says arcing from electrical equipment owned by the utility sparked the January 2025 fire that killed 19 people and destroyed thousands of homes.]]>
-      </description>
-      <source:markdown>A new report says arcing from electrical equipment owned by the utility sparked the January 2025 fire that killed 19 people and destroyed thousands of homes.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-cdf3-d6b8-afdf-fff7e4970000</guid>
-    </item>    <item>
-      <title>Soundtrips: A soundtrack for Los Angeles—and the world</title>
-      <link>https://thesource.metro.net/soundtrips-a-soundtrack-for-los-angeles-and-the-world/</link>
-      <description>
-        <![CDATA[<figure><img width="1200" height="1200" src="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1203_web_Soundtrips_web_asset_1080x1080_final_all_djs.png?fit=1200%2C1200&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1203_web_Soundtrips_web_asset_1080x1080_final_all_djs.png?w=2250&amp;ssl=1 2250w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1203_web_Soundtrips_web_asset_1080x1080_final_all_djs.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1203_web_Soundtrips_web_asset_1080x1080_final_all_djs.png?resize=1200%2C1200&amp;ssl=1 1200w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1203_web_Soundtrips_web_asset_1080x1080_final_all_djs.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1203_web_Soundtrips_web_asset_1080x1080_final_all_djs.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1203_web_Soundtrips_web_asset_1080x1080_final_all_djs.png?resize=1536%2C1536&amp;ssl=1 1536w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1203_web_Soundtrips_web_asset_1080x1080_final_all_djs.png?resize=2048%2C2048&amp;ssl=1 2048w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1203_web_Soundtrips_web_asset_1080x1080_final_all_djs.png?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1203_web_Soundtrips_web_asset_1080x1080_final_all_djs.png?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1203_web_Soundtrips_web_asset_1080x1080_final_all_djs.png?resize=1568%2C1568&amp;ssl=1 1568w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1203_web_Soundtrips_web_asset_1080x1080_final_all_djs.png?fit=1200%2C1200&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>As Los Angeles welcomed visitors from around the globe this summer, Soundtrips made&#160;Metro into&#160;more than a ride—the playlists became part of the pre-game celebration.&#160; Created by Metro Art and KCRW, the music series invited riders to experience Los Angeles through music. Designed to&#160;accompany&#160;journeys on Metro,&#160;Soundtrips&#160;turns everyday travel into an immersive listening experience that connects neighborhoods,&#160;cultures&#160;and [&#8230;]]]>
-      </description>
-      <source:markdown>![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/08/26-1203_web_Soundtrips_web_asset_1080x1080_final_all_djs.png?fit=1200%2C1200&#38;ssl=1)As Los Angeles welcomed visitors from around the globe this summer, Soundtrips made Metro into more than a ride—the playlists became part of the pre-game celebration.  Created by Metro Art and KCRW, the music series invited riders to experience Los Angeles through music. Designed to accompany journeys on Metro, Soundtrips turns everyday travel into an immersive listening experience that connects neighborhoods, cultures and \[…\]</source:markdown>
-      <guid>cid://https://thesource.metro.net/?p=147607</guid>
-      <category>Culture</category>
-      <category>Metro Art</category>
-    </item>    <item>
-      <title>West Hollywood Sold Its Soul to Flock Cameras</title>
-      <link>https://lataco.com/weho-flock-cameras</link>
-      <description>
-        <![CDATA[<p>The City Council voted 3-2 to install a network of cameras that photographs and logs the license plate of every vehicle entering and leaving the city.</p>
-        <p>The post <a href="https://lataco.com/weho-flock-cameras">West Hollywood Sold Its Soul to Flock Cameras</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>The City Council voted 3-2 to install a network of cameras that photographs and logs the license plate of every vehicle entering and leaving the city.
-
-The post [West Hollywood Sold Its Soul to Flock Cameras](https://lataco.com/weho-flock-cameras) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=182073</guid>
-      <category>Featured</category>
-      <category>News</category>
-      <category>Opinion</category>
-    </item>    <item>
-      <title>The LA Olympics is expected to displace unhoused people living around venues. So what&#39;s the plan?</title>
-      <link>https://laist.com/news/housing-homelessness/la-olympics-unhoused-people-venues-plan</link>
-      <description>
-        <![CDATA[L.A. officials say people living on the streets will likely have to leave certain areas come 2028. They don't know how they'll be moved or who will pay for it.]]>
-      </description>
-      <source:markdown>L.A. officials say people living on the streets will likely have to leave certain areas come 2028. They don&#39;t know how they&#39;ll be moved or who will pay for it.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-c9e6-ded2-a7ff-eff75d4b0000</guid>
-    </item>    <item>
-      <title>The Boyle Heights warehouse fire ruined their summer. Now students want a ‘normal’ school year</title>
-      <link>https://laist.com/news/education/boyle-heights-students-lineage-warehouse-fire-back-to-school-recovery</link>
-      <description>
-        <![CDATA[Boyle Heights families have faced smoke, stench and pests. Los Angeles Unified says after deep cleaning, their campuses are safe.]]>
-      </description>
-      <source:markdown>Boyle Heights families have faced smoke, stench and pests. Los Angeles Unified says after deep cleaning, their campuses are safe.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-c9e8-dab7-af9f-fff9cc660000</guid>
-    </item>    <item>
-      <title>Community college students need housing, Cal State LA will house some for the first time</title>
-      <link>https://laist.com/news/education/la-community-college-housing</link>
-      <description>
-        <![CDATA[For the first time, starting this fall, 56 East L.A. College students will use student housing at Cal State L.A. in an effort to address housing insecurity.]]>
-      </description>
-      <source:markdown>For the first time, starting this fall, 56 East L.A. College students will use student housing at Cal State L.A. in an effort to address housing insecurity.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-c916-d68f-a99f-eb3f055e0000</guid>
-    </item>    <item>
-      <title>The number of people living outdoors in LA is growing. What does that mean for the mayor&#39;s race?</title>
-      <link>https://laist.com/news/politics/la-regional-homeless-count-shows-a-spike-in-homelessness-how-will-that-affect-las-race-for-mayor</link>
-      <description>
-        <![CDATA[The latest numbers were a blow to an incumbent mayor who put homelessness at the top of her agenda.]]>
-      </description>
-      <source:markdown>The latest numbers were a blow to an incumbent mayor who put homelessness at the top of her agenda.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-ca1d-d68f-a99f-ea3f59090000</guid>
     </item>
   </channel>
 </rss>
