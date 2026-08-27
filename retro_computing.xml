@@ -4,10 +4,19 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>26 Aug 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>27 Aug 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Roll Out the Cake: Linux Turns 35</title>
+      <link>http://www.linux-magazine.com/Online/News/Roll-Out-the-Cake-Linux-Turns-35</link>
+      <description>
+        <![CDATA[<p>35 years ago, a Finnish student began a humble project that would forever change the course of technology.</p>]]>
+      </description>
+      <source:markdown>35 years ago, a Finnish student began a humble project that would forever change the course of technology.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://18572c856d5b9589486fd9ce85bbfaf5</guid>
+    </item>    <item>
       <title>China Switching from Windows to Linux</title>
       <link>http://www.linux-magazine.com/Online/News/China-Switching-from-Windows-to-Linux</link>
       <description>
@@ -427,14 +436,6 @@ Updated: Bernd has released version 2. Major changes include: SHA-384, SHA-512 a
       </description>
       <source:markdown>Server update.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260807</guid>
-    </item>    <item>
-      <title>Updated: WROCC August 2026 talk now NEXT Wednesday (12th)</title>
-      <link>http://www.iconbar.com/comments/rss/news2350.html</link>
-      <description>
-        <![CDATA[Update: the August 2026 WROCC talk has moved to the 12th, from the original date of Wednesday 5th August. The meeting starts at 7.45pm on Zoom. This month's speaker is Martin Eastwood.]]>
-      </description>
-      <source:markdown>Update: the August 2026 WROCC talk has moved to the 12th, from the original date of Wednesday 5th August. The meeting starts at 7.45pm on Zoom. This month&#39;s speaker is Martin Eastwood.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2350.html</guid>
     </item>
   </channel>
 </rss>

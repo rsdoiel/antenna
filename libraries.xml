@@ -4,19 +4,107 @@
   <channel>
     <title><![CDATA[GLAM]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>26 Aug 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>27 Aug 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Roundup: Honoring the Life and Work of Dolly Parton (Statements From Libraries, Literacy Organizations, &#38; Others)</title>
+      <title>AI Use in The Scholarly Kitchen</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/08/27/ai-use-in-the-scholarly-kitchen/</link>
+      <description>
+        <![CDATA[<p>Some thoughts on the reader response the Scholarly Kitchen has seen regarding AI use by authors, a recent Nature News article on the efficacy of AI detection tools, and why it's important to keep experimenting to figure out what's ethically acceptable.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/08/27/ai-use-in-the-scholarly-kitchen/">AI Use in The Scholarly Kitchen</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Some thoughts on the reader response the Scholarly Kitchen has seen regarding AI use by authors, a recent Nature News article on the efficacy of AI detection tools, and why it&#39;s important to keep experimenting to figure out what&#39;s ethically acceptable.
+
+The post [AI Use in The Scholarly Kitchen](https://scholarlykitchen.sspnet.org/2026/08/27/ai-use-in-the-scholarly-kitchen/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62642</guid>
+      <category>Artificial Intelligence</category>
+      <category>Authors</category>
+      <category>Controversial Topics</category>
+      <category>Diversity, Equity, Inclusion, and Accessibility</category>
+      <category>Ethics</category>
+      <category>Housekeeping</category>
+      <category>Peer Review</category>
+      <category>Policy</category>
+      <category>Reading</category>
+      <category>Technology</category>
+      <category>Tools</category>
+      <category>AI</category>
+      <category>AI generated images</category>
+      <category>AI use by authors</category>
+      <category>Artificial intelligence</category>
+      <category>author disclosure</category>
+      <category>average writing</category>
+      <category>boring writing</category>
+      <category>GenAI</category>
+      <category>language bias</category>
+      <category>LLMs</category>
+      <category>Nature News</category>
+      <category>peer reviewer bias</category>
+      <category>The Scholarly Kitchen</category>
+      <category>TSK</category>
+      <category>TSK policy</category>
+      <category>word prediction machines</category>
+    </item>    <item>
+      <title>Do you want to be a founding member of the Rogue Scholar non-profit?</title>
+      <link>https://blog.front-matter.de/posts/do-you-want-to-be-a-founding-member/</link>
+      <description>
+        <![CDATA[<p>In November 2025 I <a href="https://doi.org/10.53731/rftfk-qv692" rel="noreferrer">reported my intentions </a>of turning <a href="https://rogue-scholar.org" rel="noreferrer">Rogue Scholar</a> into a German non-profit organization, and the steps needed for that. The first step (needed by German law) is at least seven founding members and I am asking for your support.</p><p>In the November 2025 post I listed</p>]]>
+      </description>
+      <source:markdown>In November 2025 I [reported my intentions](https://doi.org/10.53731/rftfk-qv692) of turning [Rogue Scholar](https://rogue-scholar.org) into a German non-profit organization, and the steps needed for that. The first step (needed by German law) is at least seven founding members and I am asking for your support.
+
+In the November 2025 post I listed</source:markdown>
+      <guid>cid://6a8feafa33894500016cceae</guid>
+      <category>Rogue Scholar</category>
+    </item>    <item>
+      <title>A Computer History Time Capsule</title>
+      <link>https://blog.archive.org/2026/08/27/a-computer-history-time-capsule/</link>
+      <description>
+        <![CDATA[Once upon a time, before the Internet, computer hobbyists went to great lengths to learn about their new technology. Many of these learning opportunities were inherently social: computer classes, software [&#8230;]]]>
+      </description>
+      <source:markdown>Once upon a time, before the Internet, computer hobbyists went to great lengths to learn about their new technology. Many of these learning opportunities were inherently social: computer classes, software \[…\]</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=30879</guid>
+      <category>Cool items</category>
+      <category>atari</category>
+      <category>computer history</category>
+      <category>newsletters</category>
+    </item>    <item>
+      <title>Book Scanning Goes Viral…Again</title>
+      <link>https://blog.archive.org/2026/08/26/book-scanning-goes-viral-again/</link>
+      <description>
+        <![CDATA[Five years after Eliza Zhang’s book-scanning video reached millions of people, the Internet Archive’s page-by-page approach to digitization is capturing attention all over again. In February 2021, a video of [&#8230;]]]>
+      </description>
+      <source:markdown>Five years after Eliza Zhang’s book-scanning video reached millions of people, the Internet Archive’s page-by-page approach to digitization is capturing attention all over again. In February 2021, a video of \[…\]</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=30924</guid>
+      <category>Announcements</category>
+      <category>Books Archive</category>
+      <category>News</category>
+    </item>    <item>
+      <title>Where Instructors Turn to Learn about AI</title>
+      <link>https://sr.ithaka.org/blog/where-instructors-turn-to-learn-about-ai/</link>
+      <description>
+        <![CDATA[<p>Acknowledging that some instructors reject AI outright and see no place for it in higher education, there are increasing numbers of faculty members seeking to better understand, utilize, and integrate AI into their own practice as teachers and researchers. While institutional centers for teaching and learning, libraries, and IT offices are all trying to help instructors adopt or adapt to AI, the broad impact of these efforts remains unknown.</p>
+        <p>The post <a href="https://sr.ithaka.org/blog/where-instructors-turn-to-learn-about-ai/">Where Instructors Turn to Learn about AI</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
+      </description>
+      <source:markdown>Acknowledging that some instructors reject AI outright and see no place for it in higher education, there are increasing numbers of faculty members seeking to better understand, utilize, and integrate AI into their own practice as teachers and researchers. While institutional centers for teaching and learning, libraries, and IT offices are all trying to help instructors adopt or adapt to AI, the broad impact of these efforts remains unknown.
+
+The post [Where Instructors Turn to Learn about AI](https://sr.ithaka.org/blog/where-instructors-turn-to-learn-about-ai/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
+      <guid>cid://https://sr.ithaka.org/?p=326144</guid>
+      <category>Generative AI</category>
+      <category>Teaching and learning</category>
+      <category>AI</category>
+      <category>Faculty</category>
+      <category>Instructional support</category>
+    </item>    <item>
+      <title>Roundup: Honoring the Life and Work of Dolly Parton (Statements and Activities From Libraries, Literacy Organizations, &#38; Others)</title>
       <link>https://www.infodocket.com/2026/08/26/roundup-honoring-the-life-and-work-of-dolly-parton-statements-from-libraries-literacy-organizations-and-others/</link>
       <description>
-        <![CDATA[<p>We plan to update this collection as we discover more statements, posts, and booklists from libraries, literacy organizations and others honoring the life and work of Dolly Parton. Updated: August 26, 2026 6AM &#160; Statement From the Dolly Parton Imagination Library &#160; District of Columbia: DC Public LibraryCelebrating Country Pioneer and Literacy Advocate Dolly Parton [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/08/26/roundup-honoring-the-life-and-work-of-dolly-parton-statements-from-libraries-literacy-organizations-and-others/">Roundup: Honoring the Life and Work of Dolly Parton (Statements From Libraries, Literacy Organizations, &amp; Others)</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+        <![CDATA[<p>We plan to update this collection as we discover more statements, posts, and booklists from libraries, literacy organizations and others honoring the life and work of Dolly Parton. Updated: August 27, 2026 8AM Statement From the Dolly Parton Imagination Library   Libraries California: Richmond Public LibraryRichmond Public Library Thanks Late Dolly Parton for All the [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/08/26/roundup-honoring-the-life-and-work-of-dolly-parton-statements-from-libraries-literacy-organizations-and-others/">Roundup: Honoring the Life and Work of Dolly Parton (Statements and Activities From Libraries, Literacy Organizations, &amp; Others)</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
       </description>
-      <source:markdown>We plan to update this collection as we discover more statements, posts, and booklists from libraries, literacy organizations and others honoring the life and work of Dolly Parton. Updated: August 26, 2026 6AM   Statement From the Dolly Parton Imagination Library   District of Columbia: DC Public LibraryCelebrating Country Pioneer and Literacy Advocate Dolly Parton \[…\]
+      <source:markdown>We plan to update this collection as we discover more statements, posts, and booklists from libraries, literacy organizations and others honoring the life and work of Dolly Parton. Updated: August 27, 2026 8AM Statement From the Dolly Parton Imagination Library   Libraries California: Richmond Public LibraryRichmond Public Library Thanks Late Dolly Parton for All the \[…\]
 
-The post [Roundup: Honoring the Life and Work of Dolly Parton (Statements From Libraries, Literacy Organizations, &#38; Others)](https://www.infodocket.com/2026/08/26/roundup-honoring-the-life-and-work-of-dolly-parton-statements-from-libraries-literacy-organizations-and-others/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+The post [Roundup: Honoring the Life and Work of Dolly Parton (Statements and Activities From Libraries, Literacy Organizations, &#38; Others)](https://www.infodocket.com/2026/08/26/roundup-honoring-the-life-and-work-of-dolly-parton-statements-from-libraries-literacy-organizations-and-others/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
       <guid>cid://https://www.infodocket.com/?p=168612</guid>
       <category>Associations and Organizations</category>
       <category>Libraries</category>
@@ -78,6 +166,125 @@ Check out all of the Future Knowledge episodes at https://archive.org/details/fu
       <category>Computing</category>
       <category>Computer History</category>
     </item>    <item>
+      <title>What does it mean to be a global remote team</title>
+      <link>https://www.crossref.org/blog/what-does-it-mean-to-be-a-global-remote-team/</link>
+      <description>
+        <![CDATA[<p>We’ve had a year full of growth and reached a milestone of 60+ team members; let’s take a moment to digest what that means for people operations. Hiring staff in 19+ countries is no easy task, but we are up for it, and I can honestly say it is the main reason why our culture is so great. That might sound biased coming from Crossref’s first <a href="https://docs.google.com/document/d/1qN63pDb7Nfj7EutwbqD_tG8VBNvTTxE9/edit" target="_blank">Head of Human Resources</a>, but hear me out.</p>
+        <p>One of our four strategic initiatives is to ‘foster a strong team—because reliable infrastructure needs committed people who contribute to and realise the vision, and thrive doing it.’ Prioritising the team isn’t a nice-to-have. It’s essential to our work.</p>
+        <p>Before 2025, Crossref did not need to grow the HR function beyond a single HR Manager. In 2024, we began expanding our workforce more globally and worked our way into a new organisational structure in an effort to become a more sustainable organisation that could meet the needs of our global community, well, forever. As we grew in all directions, it became clear that HR was evolving from mainly administrative to more strategic. We’ve had to tackle challenges around total rewards, policies, numerous local employment laws, systems, HR and payroll partners, leave management, and more.</p>
+        <p>So, what does it mean to be a global remote team? Great question. Let’s break it down into three categories: diversity, equity, and inclusion.</p>
+        <h2 id="diversity">Diversity</h2>
+        <p>My favourite one! Supporting a workforce so diverse is truly a joy. Think about it… bringing numerous cultures together to achieve our goals and <a href="https://www.crossref.org/strategy/">strategic agenda</a> is nothing short of phenomenal. As a Spanish-first speaker, I get to use my native language at work to support initiatives in Spanish-speaking countries. For example, I recently co-hosted our <a href="https://zenodo.org/records/20312321" target="_blank">¿Qué tan buenos son tus metadatos?</a> webinar and supported our <a href="https://www.crossref.org/community/our-ambassadors/americas/">Ambassadors</a> who did a live demo of our <a href="https://manage.crossref.org/#error=login_required&amp;state=a4945a63-5490-4a49-823d-f614e88417ab" target="_blank">Metadata Manager</a> tool. I even get to conduct new hire orientations in Spanish when the colleague is a native speaker too. We encourage our team members to make use of their known languages when possible. People with widely different backgrounds, intersectionalities, and career experiences are the main recipe for success. After all, we serve 25,000+ members from 167 countries, maintain 180+ million records, and handle 2 billion monthly metadata queries from thousands of tools across the research ecosystem.</p>
+        <p>This substantial growth in global membership and engagement pushed us to update our recruiting process. We used to collect applications via an email box, which was a time-consuming manual process. It was time to transition to an Applicant Tracking System (ATS) that could help us streamline our processes, manage applications, pipelines, and scorecards. We gathered feedback from hiring managers in order to create a consistent, fair, and unbiased recruitment process. Before going live with a job post, we need to do a lot of work. Once the job description is finalised, HR works with the hiring manager to develop the recruitment plan, including advertising, application questions, scorecard criteria, interview questions, and any exercises or assessments. For the last round of interviews, we share all questions and/or exercises with the candidates beforehand so everyone has the same opportunity and time to prepare. <a href="https://research-culture.captivate.fm/episode/s6e1-enhancing-research-culture-how-providing-interview-questions-in-advance-levels-the-playing-field" target="_blank">Research</a> and <a href="https://get-staffed.com/should-hiring-managers-send-interview-questions-in-advance-exploring-the-pros-and-cons/" target="_blank">HR guidance</a> consistently frame this practice as a bias-reduction tool—when every candidate gets the same information and preparation time, the interview measures actual competence rather than who performs best under surprise conditions. As we strive to attract a diverse pool of candidates, this practice also supports <a href="https://www.workwithglee.com/resources/blog/should-you-give-candidates-job-interview-questions-ahead-of-time/" target="_blank">inclusivity</a> by considering diverse needs. <br></p>
+        <p>We work with an employer-of-record (EOR) partner in order to hire in countries where we do not have a locally registered entity. EORs are crucial to staying compliant with numerous payroll and tax regulations, benefits, and changing local employment laws. We need partners that can meet our budget needs and provide the visibility, reporting, and compliance support required to align with our internal controls and annual audits.</p>
+        <p>Leave management could no longer be a manual process. We needed a tool that could let us accommodate many different public holidays, carryover rules, seniority dates, and schedules while having reliable reporting and record-keeping of accruals. Vacation Tracker, our leave management platform, did a <a href="https://vacationtracker.io/case-studies/crossref/" target="_blank">case study</a> on the complexities of our diverse needs back in 2024.</p>
+        <p>On the training end, we rolled out two courses in 2024 that would nurture and enhance our multicultural workforce: unconscious bias and cultural competence. After completion of the courses, we ran an anonymous survey to collect feedback on their effectiveness and to reveal what areas needed more attention. We decided to make these two courses part of the new-hire onboarding process.</p>
+        <h2 id="equity">Equity</h2>
+        <p>The most challenging part. How do you create equitable compensation, benefits, and policies across 19+ countries? We had to shift from local to globally minded approaches. As we are committed to meeting the <a href="https://openscholarlyinfrastructure.org/" target="_blank">POSI principles</a> of transparent governance, we openly share our <a href="https://www.crossref.org/operations-and-sustainability/working-at-crossref">employee manual</a>, <a href="https://www.crossref.org/operations-and-sustainability/working-at-crossref/policies/">policies and procedures</a>. These detail our standards for compensation, benefits, paid time off, paid leaves, and others.</p>
+        <p>All countries have different statutory requirements for benefits. When statutory benefits are less than our standard offering, we will try to enhance the benefit, and when the benefits surpass our standards, we will have to plan and accommodate for them. All of our policies will run concurrently with local employment laws. Let’s look at an overview of:</p>
+        <p><strong>Compensation</strong>: We went from location-based to location-agnostic compensation. This means we used to pay salaries based on local salary ranges and benchmarking, and now pay salaries based on internal salary ranges and benchmarking against global averages. For budgeting purposes, our internal salaries are USD-based, but we pay salaries in the currency of the country in which team members are based. We arrive at the local USD-equivalent salary by determining the average 5-year USD <a href="https://www.exchange-rates.org/" target="_blank">exchange rate</a>, to stabilize currency fluctuations.</p>
+        <p>These changes require reliable data in the form of internal equity analytics and global salary benchmarking. We first analysed our internal equity when practicing a location-based approach and found that comp-ratios were consistent across teams and levels. This made the transition to a location-agnostic approach smoother. We’ve had to make adjustments to keep up with internal equity and also based on our annual average 5-year USD exchange analysis. After 3 years of practicing these principles, we are reassessing our compensation policy and it will be updated to reflect our growing needs.</p>
+        <p><strong>Benefits:</strong> We have standards of what we offer our team members when it comes to medical, dental, vision, retirement, income protection, and life insurance benefits. Staff participate in these schemes either through statutory benefits or private premiums. These vary by location.</p>
+        <p><strong>Paid Time Off:</strong> Most staff start with 25 days of PTO per year and add an extra day per anniversary year up to 30 days. In the US, staff start with 20 days of PTO per year, add 5 days at the 5th anniversary, and add another 5 days at the 10th anniversary, capping at 30 days. PTO is pro-rated based on start date and working hours per week. Public holidays are separate from PTO and from our unlimited sick time policy.</p>
+        <p><strong>Paid family and medical leaves:</strong> Eligible employees receive up to 12 weeks of fully paid leave per benefit year—to bond with a new child within their first 12 months, or to care for their own or a family member&rsquo;s serious health condition. Leaves vary by location and run concurrently with local entitlements.</p>
+        <p>As part of my 2026 goals, I am working on establishing HR controls that support our staffing operations across different countries, while maintaining the consistency needed to ensure equity and sustainability.</p>
+        <h2 id="inclusion">Inclusion</h2>
+        <p>It’s how we work. If I could define our way of working in one word, I would go with inclusiveness. It takes a lot of intentionality to work this way and even more so in fully remote work environments. Systematically, we are inclusive by default when staffing across countries and maintaining globally minded policies. Culturally, we have to be intentional about how we work, communicate, and collaborate.</p>
+        <p>Having 13 different time zones with a spread of 12 hours has been a learning process. We’ve had to find out what days and UTC times work best for teams and all-staff meetings, sometimes accommodating multiple options or alternating between two times. We’ve come together and agreed on Slack <a href="https://docs.google.com/document/d/1wfmcsDcrpQtPZM4RBp-DdtaJfJFoB3oQb7EL3llm4GU/edit?tab=t.0#heading=h.c289kgb8cfpa" target="_blank">best practices</a> to help us navigate expectations around communication. One big area for us is being mindful of work-life balance and how we do not expect team members to reply or be available in Slack outside their local working hours. We also utilise Slack to stay connected in fun ways such as coffee-klatsches, quizzes, and channels on different topics. In our job adverts, we include a specific UTC time range as a required availability window for each role, which is dependent on the needs of each team. These are key aspects of working asynchronously.</p>
+        <p>In 2023, I facilitated our first psychological safety workshop and have continued to train our new hires on an annual basis. The workshop focuses on four areas: encouraging everyone to speak up, establishing norms for how we handle failure, creating space for new ideas, and embracing productive conflict. Together, we have defined what <a href="https://docs.google.com/presentation/d/1vCJaWUhEIo9sswG3sc1RXLkGxEd16v1kJ8nbvdNblDo/edit?usp=sharing" target="_blank">psychological safety</a> means at Crossref. I love to advocate for it whenever I can as it is very impactful to our inclusive culture when we make it a priority. We added psychological safety sections to our annual development meetings and internal staff surveys.</p>
+        <p>We strive for cross-team collaboration, as every team member participates in at least one of our <a href="https://doi.org/10.64000/4s2ee-wkr84" target="_blank">three</a> program steering groups: Open and Sustainable Operations (OSO), Co-creation and Community Trends (CCT), and Contribute to the Research Nexus (CRN). Sharing ideas, contributions, updates, and project discussions across teams keeps everyone included, aligned, and informed. We also rolled out a new initiative to foster collaboration, curiosity, and connection between colleagues across different teams and levels in the organisation — the <a href="https://docs.google.com/document/d/10mep4rxIQGv-K1Fl25oQWBX7rY-NknNT/edit" target="_blank">New Buddy</a> and <a href="https://docs.google.com/document/d/1KTGOHTf3wA-1iGCm1_UTBbguemqPCJhW/edit" target="_blank">Curious Buddy</a> programs.</p>
+        <p>We have partnered with training experts in areas that foster inclusiveness. <a href="https://www.cscce.org/" target="_blank">CSCCE</a> facilitated giving and receiving feedback workshops, and <a href="https://ica-uk.org.uk/public-training-courses/" target="_blank">ICA:UK</a> facilitated group facilitation methods and consensus-building workshops for team members in group-leading roles. This year, we have partnered with <a href="https://www.caplorhorizons.org/" target="_blank">Caplor Horizons</a> and are making cultural training a priority because of our growth spurt and the understanding that every team member contributes to our culture. This is a great opportunity to strengthen our inclusive culture and align on how we work.</p>
+        <p>In early 2026, Caplor Horizons conducted an anonymous cultural survey and internal interviews. After analysing the results, we planned for our first remote workshop and then a second workshop in person at our annual all-staff. This year, a record 53 people from 19 different countries attended the annual in-person all-staff in Ghent, Belgium. We plan all year for this event and put a lot of effort into making the most out of our time together with a one-week agenda that includes workshops, presentations, co-working time, birds of a feather (BoF) meetings, team lunches, dinners, city tours, a pub quiz, and other fun activities. This is the second year we have done a prioritisation session where everyone gets to vote on projects to prioritise for the following year by using strategic drivers as the baseline criteria — the results of this exercise are reflected in our <a href="https://share.productboard.com/crossref/board/aadbc362-e552-4af2-9078-1b79a8533e87" target="_blank">roadmap</a>. The projects are the result of a remote brainstorm session where everyone gets to participate and contribute.</p>
+        <p>Here you can see us hard at work—each dot represents a vote, and each colour represents a strategic driver. Team members who couldn&rsquo;t make the in-person all-staff meeting could also vote remotely—all votes were accounted for!</p>
+        <div style="text-align:center;margin:10px">
+        <figure class="img-responsive"><img src="https://www.crossref.org/images/blog/2026/AS1.jpeg"
+        alt="Room full of staff mingling" width="400px">
+        </figure>
+        </div>
+        <p>We also enjoyed the strengths, trial-and-report, and team communication exercises facilitated by our Caplor Horizons trainers. We had a chance to show appreciation for our colleagues, gather feedback on our trial-and-report results, and reflect on the ways we communicate. The trial-and-report exercise was a result of our first remote workshop, where we all contributed ideas to have a positive impact in our main areas of improvement—our collective ideas turned into action as we tried new ways of working and tools for 8-10 weeks prior to the all-staff.</p>
+        <p>Here you can see us showing appreciation for each other during our strengths exercise—lots of happy faces.</p>
+        <div style="text-align:center;margin:10px">
+        <figure class="img-responsive"><img src="https://www.crossref.org/images/blog/2026/AS-GRP-1.png"
+        alt="A grid of five photos of containing Crossref staff talking, mingling, at tables, greeting one another." width="75%">
+        </figure>
+        </div>
+        <div style="text-align:center;margin:10px">
+        <figure class="img-responsive"><img src="https://www.crossref.org/images/blog/2026/AS-GRP-2.png"
+        alt="A grid of three photos of containing Crossref staff talking, mingling, at tables, greeting one another." width="75%">
+        </figure>
+        </div>
+        <h2 id="so-what-does-it-mean-to-be-a-global-remote-team">So, what does it mean to be a global remote team?</h2>
+        <p>Being a global remote team is not a checkbox but a living commitment that requires constant intention and care. Diversity, equity, and inclusion are the framework behind every policy we write, every hire we make, and every meeting we schedule across 13 time zones. Do we have it all figured out? Absolutely not. But we show up every day genuinely invested in getting it right — for our team members, for our members around the globe, and for the research community we serve. As we celebrate 60+ team members and look ahead, I am proud of how far we have come and even more excited about where we are going. The future looks bright — we are <a href="https://doi.org/10.64000/enn8e-31771" target="_blank">investing $4.9 million</a> of our surplus in rebuilding the Crossref system and we will need people to help us get there. Be on the lookout for new <a href="https://www.crossref.org/jobs/">job opportunities</a> as we continue to grow.</p>]]>
+      </description>
+      <source:markdown>We’ve had a year full of growth and reached a milestone of 60+ team members; let’s take a moment to digest what that means for people operations. Hiring staff in 19+ countries is no easy task, but we are up for it, and I can honestly say it is the main reason why our culture is so great. That might sound biased coming from Crossref’s first [Head of Human Resources](https://docs.google.com/document/d/1qN63pDb7Nfj7EutwbqD_tG8VBNvTTxE9/edit), but hear me out.
+
+One of our four strategic initiatives is to ‘foster a strong team—because reliable infrastructure needs committed people who contribute to and realise the vision, and thrive doing it.’ Prioritising the team isn’t a nice-to-have. It’s essential to our work.
+
+Before 2025, Crossref did not need to grow the HR function beyond a single HR Manager. In 2024, we began expanding our workforce more globally and worked our way into a new organisational structure in an effort to become a more sustainable organisation that could meet the needs of our global community, well, forever. As we grew in all directions, it became clear that HR was evolving from mainly administrative to more strategic. We’ve had to tackle challenges around total rewards, policies, numerous local employment laws, systems, HR and payroll partners, leave management, and more.
+
+So, what does it mean to be a global remote team? Great question. Let’s break it down into three categories: diversity, equity, and inclusion.
+
+## Diversity
+
+My favourite one! Supporting a workforce so diverse is truly a joy. Think about it… bringing numerous cultures together to achieve our goals and [strategic agenda](https://www.crossref.org/strategy/) is nothing short of phenomenal. As a Spanish-first speaker, I get to use my native language at work to support initiatives in Spanish-speaking countries. For example, I recently co-hosted our [¿Qué tan buenos son tus metadatos?](https://zenodo.org/records/20312321) webinar and supported our [Ambassadors](https://www.crossref.org/community/our-ambassadors/americas/) who did a live demo of our [Metadata Manager](https://manage.crossref.org/#error=login_required&#38;state=a4945a63-5490-4a49-823d-f614e88417ab) tool. I even get to conduct new hire orientations in Spanish when the colleague is a native speaker too. We encourage our team members to make use of their known languages when possible. People with widely different backgrounds, intersectionalities, and career experiences are the main recipe for success. After all, we serve 25,000+ members from 167 countries, maintain 180+ million records, and handle 2 billion monthly metadata queries from thousands of tools across the research ecosystem.
+
+This substantial growth in global membership and engagement pushed us to update our recruiting process. We used to collect applications via an email box, which was a time-consuming manual process. It was time to transition to an Applicant Tracking System (ATS) that could help us streamline our processes, manage applications, pipelines, and scorecards. We gathered feedback from hiring managers in order to create a consistent, fair, and unbiased recruitment process. Before going live with a job post, we need to do a lot of work. Once the job description is finalised, HR works with the hiring manager to develop the recruitment plan, including advertising, application questions, scorecard criteria, interview questions, and any exercises or assessments. For the last round of interviews, we share all questions and/or exercises with the candidates beforehand so everyone has the same opportunity and time to prepare. [Research](https://research-culture.captivate.fm/episode/s6e1-enhancing-research-culture-how-providing-interview-questions-in-advance-levels-the-playing-field) and [HR guidance](https://get-staffed.com/should-hiring-managers-send-interview-questions-in-advance-exploring-the-pros-and-cons/) consistently frame this practice as a bias-reduction tool—when every candidate gets the same information and preparation time, the interview measures actual competence rather than who performs best under surprise conditions. As we strive to attract a diverse pool of candidates, this practice also supports [inclusivity](https://www.workwithglee.com/resources/blog/should-you-give-candidates-job-interview-questions-ahead-of-time/) by considering diverse needs.
+
+We work with an employer-of-record (EOR) partner in order to hire in countries where we do not have a locally registered entity. EORs are crucial to staying compliant with numerous payroll and tax regulations, benefits, and changing local employment laws. We need partners that can meet our budget needs and provide the visibility, reporting, and compliance support required to align with our internal controls and annual audits.
+
+Leave management could no longer be a manual process. We needed a tool that could let us accommodate many different public holidays, carryover rules, seniority dates, and schedules while having reliable reporting and record-keeping of accruals. Vacation Tracker, our leave management platform, did a [case study](https://vacationtracker.io/case-studies/crossref/) on the complexities of our diverse needs back in 2024.
+
+On the training end, we rolled out two courses in 2024 that would nurture and enhance our multicultural workforce: unconscious bias and cultural competence. After completion of the courses, we ran an anonymous survey to collect feedback on their effectiveness and to reveal what areas needed more attention. We decided to make these two courses part of the new-hire onboarding process.
+
+## Equity
+
+The most challenging part. How do you create equitable compensation, benefits, and policies across 19+ countries? We had to shift from local to globally minded approaches. As we are committed to meeting the [POSI principles](https://openscholarlyinfrastructure.org/) of transparent governance, we openly share our [employee manual](https://www.crossref.org/operations-and-sustainability/working-at-crossref), [policies and procedures](https://www.crossref.org/operations-and-sustainability/working-at-crossref/policies/). These detail our standards for compensation, benefits, paid time off, paid leaves, and others.
+
+All countries have different statutory requirements for benefits. When statutory benefits are less than our standard offering, we will try to enhance the benefit, and when the benefits surpass our standards, we will have to plan and accommodate for them. All of our policies will run concurrently with local employment laws. Let’s look at an overview of:
+
+**Compensation**: We went from location-based to location-agnostic compensation. This means we used to pay salaries based on local salary ranges and benchmarking, and now pay salaries based on internal salary ranges and benchmarking against global averages. For budgeting purposes, our internal salaries are USD-based, but we pay salaries in the currency of the country in which team members are based. We arrive at the local USD-equivalent salary by determining the average 5-year USD [exchange rate](https://www.exchange-rates.org/), to stabilize currency fluctuations.
+
+These changes require reliable data in the form of internal equity analytics and global salary benchmarking. We first analysed our internal equity when practicing a location-based approach and found that comp-ratios were consistent across teams and levels. This made the transition to a location-agnostic approach smoother. We’ve had to make adjustments to keep up with internal equity and also based on our annual average 5-year USD exchange analysis. After 3 years of practicing these principles, we are reassessing our compensation policy and it will be updated to reflect our growing needs.
+
+**Benefits:** We have standards of what we offer our team members when it comes to medical, dental, vision, retirement, income protection, and life insurance benefits. Staff participate in these schemes either through statutory benefits or private premiums. These vary by location.
+
+**Paid Time Off:** Most staff start with 25 days of PTO per year and add an extra day per anniversary year up to 30 days. In the US, staff start with 20 days of PTO per year, add 5 days at the 5th anniversary, and add another 5 days at the 10th anniversary, capping at 30 days. PTO is pro-rated based on start date and working hours per week. Public holidays are separate from PTO and from our unlimited sick time policy.
+
+**Paid family and medical leaves:** Eligible employees receive up to 12 weeks of fully paid leave per benefit year—to bond with a new child within their first 12 months, or to care for their own or a family member’s serious health condition. Leaves vary by location and run concurrently with local entitlements.
+
+As part of my 2026 goals, I am working on establishing HR controls that support our staffing operations across different countries, while maintaining the consistency needed to ensure equity and sustainability.
+
+## Inclusion
+
+It’s how we work. If I could define our way of working in one word, I would go with inclusiveness. It takes a lot of intentionality to work this way and even more so in fully remote work environments. Systematically, we are inclusive by default when staffing across countries and maintaining globally minded policies. Culturally, we have to be intentional about how we work, communicate, and collaborate.
+
+Having 13 different time zones with a spread of 12 hours has been a learning process. We’ve had to find out what days and UTC times work best for teams and all-staff meetings, sometimes accommodating multiple options or alternating between two times. We’ve come together and agreed on Slack [best practices](https://docs.google.com/document/d/1wfmcsDcrpQtPZM4RBp-DdtaJfJFoB3oQb7EL3llm4GU/edit?tab=t.0#heading=h.c289kgb8cfpa) to help us navigate expectations around communication. One big area for us is being mindful of work-life balance and how we do not expect team members to reply or be available in Slack outside their local working hours. We also utilise Slack to stay connected in fun ways such as coffee-klatsches, quizzes, and channels on different topics. In our job adverts, we include a specific UTC time range as a required availability window for each role, which is dependent on the needs of each team. These are key aspects of working asynchronously.
+
+In 2023, I facilitated our first psychological safety workshop and have continued to train our new hires on an annual basis. The workshop focuses on four areas: encouraging everyone to speak up, establishing norms for how we handle failure, creating space for new ideas, and embracing productive conflict. Together, we have defined what [psychological safety](https://docs.google.com/presentation/d/1vCJaWUhEIo9sswG3sc1RXLkGxEd16v1kJ8nbvdNblDo/edit?usp=sharing) means at Crossref. I love to advocate for it whenever I can as it is very impactful to our inclusive culture when we make it a priority. We added psychological safety sections to our annual development meetings and internal staff surveys.
+
+We strive for cross-team collaboration, as every team member participates in at least one of our [three](https://doi.org/10.64000/4s2ee-wkr84) program steering groups: Open and Sustainable Operations (OSO), Co-creation and Community Trends (CCT), and Contribute to the Research Nexus (CRN). Sharing ideas, contributions, updates, and project discussions across teams keeps everyone included, aligned, and informed. We also rolled out a new initiative to foster collaboration, curiosity, and connection between colleagues across different teams and levels in the organisation — the [New Buddy](https://docs.google.com/document/d/10mep4rxIQGv-K1Fl25oQWBX7rY-NknNT/edit) and [Curious Buddy](https://docs.google.com/document/d/1KTGOHTf3wA-1iGCm1_UTBbguemqPCJhW/edit) programs.
+
+We have partnered with training experts in areas that foster inclusiveness. [CSCCE](https://www.cscce.org/) facilitated giving and receiving feedback workshops, and [ICA:UK](https://ica-uk.org.uk/public-training-courses/) facilitated group facilitation methods and consensus-building workshops for team members in group-leading roles. This year, we have partnered with [Caplor Horizons](https://www.caplorhorizons.org/) and are making cultural training a priority because of our growth spurt and the understanding that every team member contributes to our culture. This is a great opportunity to strengthen our inclusive culture and align on how we work.
+
+In early 2026, Caplor Horizons conducted an anonymous cultural survey and internal interviews. After analysing the results, we planned for our first remote workshop and then a second workshop in person at our annual all-staff. This year, a record 53 people from 19 different countries attended the annual in-person all-staff in Ghent, Belgium. We plan all year for this event and put a lot of effort into making the most out of our time together with a one-week agenda that includes workshops, presentations, co-working time, birds of a feather (BoF) meetings, team lunches, dinners, city tours, a pub quiz, and other fun activities. This is the second year we have done a prioritisation session where everyone gets to vote on projects to prioritise for the following year by using strategic drivers as the baseline criteria — the results of this exercise are reflected in our [roadmap](https://share.productboard.com/crossref/board/aadbc362-e552-4af2-9078-1b79a8533e87). The projects are the result of a remote brainstorm session where everyone gets to participate and contribute.
+
+Here you can see us hard at work—each dot represents a vote, and each colour represents a strategic driver. Team members who couldn’t make the in-person all-staff meeting could also vote remotely—all votes were accounted for!
+
+![Room full of staff mingling](https://www.crossref.org/images/blog/2026/AS1.jpeg)
+
+We also enjoyed the strengths, trial-and-report, and team communication exercises facilitated by our Caplor Horizons trainers. We had a chance to show appreciation for our colleagues, gather feedback on our trial-and-report results, and reflect on the ways we communicate. The trial-and-report exercise was a result of our first remote workshop, where we all contributed ideas to have a positive impact in our main areas of improvement—our collective ideas turned into action as we tried new ways of working and tools for 8-10 weeks prior to the all-staff.
+
+Here you can see us showing appreciation for each other during our strengths exercise—lots of happy faces.
+
+![A grid of five photos of containing Crossref staff talking, mingling, at tables, greeting one another.](https://www.crossref.org/images/blog/2026/AS-GRP-1.png)
+
+![A grid of three photos of containing Crossref staff talking, mingling, at tables, greeting one another.](https://www.crossref.org/images/blog/2026/AS-GRP-2.png)
+
+## So, what does it mean to be a global remote team?
+
+Being a global remote team is not a checkbox but a living commitment that requires constant intention and care. Diversity, equity, and inclusion are the framework behind every policy we write, every hire we make, and every meeting we schedule across 13 time zones. Do we have it all figured out? Absolutely not. But we show up every day genuinely invested in getting it right — for our team members, for our members around the globe, and for the research community we serve. As we celebrate 60+ team members and look ahead, I am proud of how far we have come and even more excited about where we are going. The future looks bright — we are [investing $4.9 million](https://doi.org/10.64000/enn8e-31771) of our surplus in rebuilding the Crossref system and we will need people to help us get there. Be on the lookout for new [job opportunities](https://www.crossref.org/jobs/) as we continue to grow.</source:markdown>
+      <guid>cid://https://www.crossref.org/blog/what-does-it-mean-to-be-a-global-remote-team/</guid>
+    </item>    <item>
       <title>Guest Post — Not the Real Housewives of Scholarly Publishing</title>
       <link>https://scholarlykitchen.sspnet.org/2026/08/25/guest-post-not-the-real-housewives-of-scholarly-publishing/</link>
       <description>
@@ -133,10 +340,10 @@ Rogue Scholar [started out](https://doi.org/10.53731/br9f5xa-a556w2t) as a bespo
       <title>ARL Daily Intelligence (August 24–27)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-24-27/</link>
       <description>
-        <![CDATA[<p>Last Updated on August 25, 2026, 5:48 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
+        <![CDATA[<p>Last Updated on August 26, 2026, 5:01 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
         <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-24-27/">ARL Daily Intelligence (August 24–27)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <source:markdown>Last Updated on August 25, 2026, 5:48 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+      <source:markdown>Last Updated on August 26, 2026, 5:01 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (August 24–27)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-24-27/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=49679</guid>
@@ -1440,7 +1647,7 @@ The post [Statement: Governor Maura Healey Signs Freedom to Read Law Keeping Boo
         <![CDATA[On 1 July, Jisc&#8217;s Publications Router was switched off after nearly a decade of quietly piping metadata and manuscripts into institutional repositories. If you manage a repository, you have probably spent the past few weeks watching that particular feed go quiet. In May we set out how CORE would support deposit workflows once Router retired, &#8230; <a href="https://blog.core.ac.uk/2026/08/11/publications-router-has-retired-where-core-freshfinds-stands/" class="more-link">Continue reading <span class="screen-reader-text">Publications Router has retired: where CORE FreshFinds stands</span></a>]]>
       </description>
       <source:markdown>On 1 July, Jisc’s Publications Router was switched off after nearly a decade of quietly piping metadata and manuscripts into institutional repositories. If you manage a repository, you have probably spent the past few weeks watching that particular feed go quiet. In May we set out how CORE would support deposit workflows once Router retired, … [Continue reading Publications Router has retired: where CORE FreshFinds stands](https://blog.core.ac.uk/2026/08/11/publications-router-has-retired-where-core-freshfinds-stands/)</source:markdown>
-      <guid>cid://https://blog.core.ac.uk/?p=2036</guid>
+      <guid>cid://http://blog.core.ac.uk/?p=2036</guid>
       <category>COREupdate</category>
       <category>dashboard</category>
       <category>Uncategorised</category>
@@ -2077,118 +2284,6 @@ We hope that those of you who were able to join one or more of the webinars foun
 6. Rittman, M., &#38; Amdekar, M. (2024). Crossmark community consultation: What did we learn? Crossref. [https://doi.org/10.64000/2jdxh-7dh12](https://doi.org/10.64000/2jdxh-7dh12)
 7. Amdekar, M., &#38; Smulyan, S. (2026). Preserving the scholarly record: how to deposit post-publication updates with Crossref. Crossref. [https://doi.org/10.13003/870495pojpbq](https://doi.org/10.13003/870495pojpbq)</source:markdown>
       <guid>cid://https://www.crossref.org/blog/building-trust-through-metadata-a-recap-of-the-crossref-learning-series/</guid>
-    </item>    <item>
-      <title>Get Semester-Ready with the CSUN Library</title>
-      <link>https://library.csun.edu/blogs/cited/2026/08/05/semester-ready/</link>
-      <description>
-        <![CDATA[<div><img width="300" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2026/08/DSC_2502-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2026/08/DSC_2502-300x200.jpg 300w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2026/08/DSC_2502-1024x683.jpg 1024w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2026/08/DSC_2502-768x512.jpg 768w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2026/08/DSC_2502.jpg 1387w" sizes="(max-width: 300px) 100vw, 300px" /></div>Welcome to Fall 2026, Matadors! Whether you&#8217;re a returning student or just getting started at CSUN, the University Library is here for you with a&#8230;]]>
-      </description>
-      <source:markdown>![](https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2026/08/DSC_2502-300x200.jpg)
-
-Welcome to Fall 2026, Matadors! Whether you’re a returning student or just getting started at CSUN, the University Library is here for you with a…</source:markdown>
-      <guid>cid://https://library.csun.edu/blogs/cited/?p=7661</guid>
-      <category>outreach</category>
-      <category>Study Rooms</category>
-      <category>welcome</category>
-    </item>    <item>
-      <title>PanelPicker Is Open for SXSW EDU 2027</title>
-      <link>https://sr.ithaka.org/blog/panelpicker-is-open-for-sxsw-edu-2027/</link>
-      <description>
-        <![CDATA[<p>Each year, we look forward to bringing innovative projects and research to SXSW EDU 2026, where we connect, learn, and collaborate with an active and engaged community. This year, we’re proposing three sessions—a panel, a presentation, and an interactive workshop—that explore timely topics across higher education, from nontraditional colleges and learner-centered educational pathways to AI literacy.</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/panelpicker-is-open-for-sxsw-edu-2027/">PanelPicker Is Open for SXSW EDU 2027</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>Each year, we look forward to bringing innovative projects and research to SXSW EDU 2026, where we connect, learn, and collaborate with an active and engaged community. This year, we’re proposing three sessions—a panel, a presentation, and an interactive workshop—that explore timely topics across higher education, from nontraditional colleges and learner-centered educational pathways to AI literacy.
-
-The post [PanelPicker Is Open for SXSW EDU 2027](https://sr.ithaka.org/blog/panelpicker-is-open-for-sxsw-edu-2027/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=326105</guid>
-      <category>Access to higher education</category>
-      <category>Student outcomes</category>
-      <category>Teaching and learning</category>
-      <category>Adult learners</category>
-      <category>AI literacy</category>
-      <category>Microcolleges</category>
-      <category>Student success</category>
-      <category>SXSW EDU</category>
-    </item>    <item>
-      <title>Rogue Scholar improves author profiles</title>
-      <link>https://blog.front-matter.de/posts/rogue-scholar-improves-author-profiles/</link>
-      <description>
-        <![CDATA[<p>This week the <a href="https://rogue-scholar.org" rel="noreferrer">Rogue Scholar</a> author profiles that were <a href="https://doi.org/10.53731/204cn-q6m42" rel="noreferrer">launched in June</a> were improved in several important ways. Author profiles are now generated fully automated from the pubic ORCID profile and therefore automatically available for all authors with an ORCID, and affiliation profile pages are now also available.</p><p>The ORCID</p>]]>
-      </description>
-      <source:markdown>This week the [Rogue Scholar](https://rogue-scholar.org) author profiles that were [launched in June](https://doi.org/10.53731/204cn-q6m42) were improved in several important ways. Author profiles are now generated fully automated from the pubic ORCID profile and therefore automatically available for all authors with an ORCID, and affiliation profile pages are now also available.
-
-The ORCID</source:markdown>
-      <guid>cid://6a7361d97fdc100001743577</guid>
-      <category>Rogue Scholar</category>
-      <category>InvenioRDM</category>
-      <category>Commonmeta</category>
-    </item>    <item>
-      <title>Vanishing Culture Episode #6: What We’ve Learned with Vida Vojić &#38; Alice Bridgwood</title>
-      <link>https://blog.archive.org/2026/08/05/vanishing-culture-episode-6-what-weve-learned-with-vida-vojic-alice-bridgwood/</link>
-      <description>
-        <![CDATA[What does it mean to preserve culture in an age of disappearing websites, platform-controlled media, and fragile digital memories? In the final episode of our special six-part series on Vanishing [&#8230;]]]>
-      </description>
-      <source:markdown>What does it mean to preserve culture in an age of disappearing websites, platform-controlled media, and fragile digital memories? In the final episode of our special six-part series on Vanishing \[…\]</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=30690</guid>
-      <category>Announcements</category>
-      <category>vanishingculture</category>
-    </item>    <item>
-      <title>The Published Voice: Whose Voice Are We Really Reading?</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/08/05/the-published-voice-whose-voice-are-we-really-reading/</link>
-      <description>
-        <![CDATA[<p>What happens then to “author voice,” which has always been an important consideration to authors and reviewers alike, if AI is helping researchers with their writing?</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/08/05/the-published-voice-whose-voice-are-we-really-reading/">The Published Voice: Whose Voice Are We Really Reading?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>What happens then to “author voice,” which has always been an important consideration to authors and reviewers alike, if AI is helping researchers with their writing?
-
-The post [The Published Voice: Whose Voice Are We Really Reading?](https://scholarlykitchen.sspnet.org/2026/08/05/the-published-voice-whose-voice-are-we-really-reading/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62459</guid>
-      <category>Artificial Intelligence</category>
-      <category>Authority</category>
-      <category>Authors</category>
-      <category>Language</category>
-      <category>Reading</category>
-      <category>World of Tomorrow</category>
-      <category>AI</category>
-      <category>AI altering author voice</category>
-      <category>AI as writing tool</category>
-      <category>artficial intelligence</category>
-      <category>author voice</category>
-      <category>misidentification of papers as being AI-generated</category>
-      <category>published voice</category>
-    </item>    <item>
-      <title>Vanishing Culture #6: What We&#39;ve Learned with Vida Vojić &#38; Alice Bridgwood</title>
-      <link>https://archive.org/details/future-knowledge-episode-38</link>
-      <description>
-        <![CDATA[<p>What does it mean to preserve culture in an age of disappearing websites, platform-controlled media, and fragile digital memories? In the <strong>final episode of our special six-part series on Vanishing Culture</strong>, Future Knowledge hosts <strong>Dave Hansen</strong> and <strong>Chris Freeland</strong> sit down with musician and series host <strong>Vida Vojić</strong> and producer <strong>Alice Bridgwood</strong> to reflect on the conversations, ideas, and lessons that emerged throughout the series.</p><p>Read <em>Vanishing Culture</em> for free at the Internet Archive or purchase in print: <a href="https://archive.org/details/vanishing-culture-2026">https://archive.org/details/vanishing-culture-2026</a></p>]]>
-      </description>
-      <source:markdown>What does it mean to preserve culture in an age of disappearing websites, platform-controlled media, and fragile digital memories? In the **final episode of our special six-part series on Vanishing Culture**, Future Knowledge hosts **Dave Hansen** and **Chris Freeland** sit down with musician and series host **Vida Vojić** and producer **Alice Bridgwood** to reflect on the conversations, ideas, and lessons that emerged throughout the series.
-
-Read _Vanishing Culture_ for free at the Internet Archive or purchase in print: [https://archive.org/details/vanishing-culture-2026](https://archive.org/details/vanishing-culture-2026)</source:markdown>
-      <enclosure url="https://media.transistor.fm/d96c23cc/8ac24b22.mp3" length="27962723" type="audio/mpeg" />
-      <guid>cid://16872910-0291-418e-847f-adcf5a769c45</guid>
-      <category>Society</category>
-      <category>Books</category>
-      <category>Arts</category>
-      <category>Science</category>
-      <category>Tech</category>
-      <category>Conversations</category>
-      <category>Education</category>
-      <category>Philosophy</category>
-      <category>Information Policy</category>
-      <category>Internet Policy</category>
-      <category>Library</category>
-      <category>Computing</category>
-      <category>Computer History</category>
-    </item>    <item>
-      <title>A Demo of Our New ROR Search App Is Here! Try It and Share Your Feedback</title>
-      <link>https://ror.org/blog/2026-08-05-new-ror-search-app-demo/</link>
-      <description>
-        <![CDATA[A demo version of our new ROR search application is now open for public testing, and we need your feedback to help us get it over the finish line.]]>
-      </description>
-      <source:markdown>A demo version of our new ROR search application is now open for public testing, and we need your feedback to help us get it over the finish line.</source:markdown>
-      <guid>cid://https://doi.org/10.71938/5q26-nb02</guid>
-      <category>[Technical News]</category>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,212 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>26 Aug 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>27 Aug 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/</link>
+      <description>
+        <![CDATA[NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud. New NVIDIA DLSS 4.5 technology controls give members more ways to fine-tune gameplay, while expanded support for new Steam devices, GOG single sign-on, Firefox browser [&#8230;]]]>
+      </description>
+      <source:markdown>NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud. New NVIDIA DLSS 4.5 technology controls give members more ways to fine-tune gameplay, while expanded support for new Steam devices, GOG single sign-on, Firefox browser \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=97971</guid>
+      <category>Gaming</category>
+      <category>Cloud Gaming</category>
+      <category>GeForce NOW</category>
+    </item>    <item>
+      <title>Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now</title>
+      <link>https://blogs.nvidia.com/blog/vera-cpu-delivery/</link>
+      <description>
+        <![CDATA[NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.]]>
+      </description>
+      <source:markdown>NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=92992</guid>
+      <category>AI Infrastructure</category>
+      <category>Corporate</category>
+      <category>Agentic AI</category>
+      <category>AI Training</category>
+      <category>NVIDIA Vera</category>
+    </item>    <item>
+      <title>Haiku R1/beta6 released</title>
+      <link>https://www.osnews.com/story/145885/haiku-r1-beta6-released/</link>
+      <description>
+        <![CDATA[It&#8217;s always a special day on OSNews when Haiku has a new release. While OSNews was founded in 1997, it wasn&#8217;t until 2001, when Eugenia took over and relaunched the site, that we really got going. Eugenia came from BeNews, a popular BeOS news website, which shut down in the wake of Be, Inc&#8217;s infamous &#8220;focus shift&#8221; away from BeOS as a general purpose desktop operating system. BeOS continues to have a special place on OSNews ever since. Today marks the release of Haiku R1/beta6, the first official Haiku release in two years. As such, this new beta covers a monumental amount of progress since beta5, progress I&#8217;ve reported on diligently. The highlights of this new beta include a port of Firefox (including branding) and many of its forks, much improve support for Qemu, a new memory allocated largely based on the one from OpenBSD, and improved support for various filesystems. Of course, there&#8217;s a massive list of performance improvements, memory management changes, as well as a truly massive number of new application ports. It&#8217;s important to note, as I usually do, that while these Haiku beta releases serve as patches of calm in rough seas, Haiku is generally stable and capable enough that using the project&#8217;s nightly releases is usually a totally acceptable way of installing and running the operating system. If you&#8217;re not comfortable running nightly releases, however, and haven&#8217;t tried Haiku since the previous beta, you&#8217;re in for a massive overall improvement. Everybody loves Haiku.]]>
+      </description>
+      <source:markdown>It’s always a special day on OSNews when Haiku has a new release. While OSNews was founded in 1997, it wasn’t until 2001, when Eugenia took over and relaunched the site, that we really got going. Eugenia came from BeNews, a popular BeOS news website, which shut down in the wake of Be, Inc’s infamous “focus shift” away from BeOS as a general purpose desktop operating system. BeOS continues to have a special place on OSNews ever since. Today marks the release of Haiku R1/beta6, the first official Haiku release in two years. As such, this new beta covers a monumental amount of progress since beta5, progress I’ve reported on diligently. The highlights of this new beta include a port of Firefox (including branding) and many of its forks, much improve support for Qemu, a new memory allocated largely based on the one from OpenBSD, and improved support for various filesystems. Of course, there’s a massive list of performance improvements, memory management changes, as well as a truly massive number of new application ports. It’s important to note, as I usually do, that while these Haiku beta releases serve as patches of calm in rough seas, Haiku is generally stable and capable enough that using the project’s nightly releases is usually a totally acceptable way of installing and running the operating system. If you’re not comfortable running nightly releases, however, and haven’t tried Haiku since the previous beta, you’re in for a massive overall improvement. Everybody loves Haiku.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145885</guid>
+      <category>Haiku</category>
+    </item>    <item>
+      <title>APOD: 2026 August 27 – Colorful Aurora over an Icelandic Waterfall</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-august-27-colorful-aurora-over-an-icelandic-waterfall/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 August 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colorful Aurora over [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 August 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colorful Aurora over \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-august-27-colorful-aurora-over-an-icelandic-waterfall/</guid>
+      <category>APOD</category>
+    </item>    <item>
+      <title>NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory</title>
+      <link>https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/</link>
+      <description>
+        <![CDATA[The next wave of AI is placing new demands on infrastructure.  As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation [&#8230;]]]>
+      </description>
+      <source:markdown>The next wave of AI is placing new demands on infrastructure.  As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=97957</guid>
+      <category>AI Infrastructure</category>
+      <category>Hardware</category>
+      <category>Networking</category>
+      <category>NVLink</category>
+    </item>    <item>
+      <title>Building Foresight for Earth Science, featuring Lindsey Jacobson</title>
+      <link>https://www.nasa.gov/earth/earth-visualization-mapping/building-foresight-for-earth-science-featuring-lindsey-jacobson/</link>
+      <description>
+        <![CDATA[NASA&#8217;s Earth-observing satellite missions track dozens of features of a changing planet — aerosols, sea levels, land cover, cloud cover — over years and decades. Sustaining that record for the scientific and operational communities who depend on it requires more than engineering talent. It requires planning for an uncertain future: anticipating where a mission delay [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s Earth-observing satellite missions track dozens of features of a changing planet — aerosols, sea levels, land cover, cloud cover — over years and decades. Sustaining that record for the scientific and operational communities who depend on it requires more than engineering talent. It requires planning for an uncertain future: anticipating where a mission delay \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1041674</guid>
+      <category>Earth Visualization &#38; Mapping</category>
+      <category>Internships</category>
+    </item>    <item>
+      <title>For the First Time, a Selection of Islamic Masterpieces From the Louvre Is Coming to the United States. See the Treasures Soon to Be Displayed at the Smithsonian&#39;s National Museum of Asian Art</title>
+      <link>https://www.smithsonianmag.com/smart-news/for-the-first-time-a-selection-of-islamic-masterpieces-from-the-louvre-is-coming-to-the-united-states-see-the-treasures-soon-to-be-displayed-at-the-smithsonians-national-museum-of-asian-art-180989402/</link>
+      <description>
+        <![CDATA[Twenty-six works spanning many centuries and regions will form the September exhibition titled "From the Louvre: Masterpieces of Islamic Art"]]>
+      </description>
+      <source:markdown>Twenty-six works spanning many centuries and regions will form the September exhibition titled &#34;From the Louvre: Masterpieces of Islamic Art&#34;</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/uvc3kIVCORWT5HbmN3NqHnhL_AA=/420x240/filters:focal(2250x1564:2251x1565)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3f/e5/3fe5d222-27b0-4b54-8965-79299891138e/hd090125orig.jpg" length="5137657" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/for-the-first-time-a-selection-of-islamic-masterpieces-from-the-louvre-is-coming-to-the-united-states-see-the-treasures-soon-to-be-displayed-at-the-smithsonians-national-museum-of-asian-art-180989402/</guid>
+    </item>    <item>
+      <title>Turn Your Eyes to the Night Skies This Week to See a Near-Total Lunar Eclipse. It&#39;ll Temporarily Turn the Moon Red</title>
+      <link>https://www.smithsonianmag.com/smart-news/turn-your-eyes-to-the-night-skies-this-week-to-see-a-near-total-lunar-eclipse-itll-temporarily-turn-the-moon-red-180989404/</link>
+      <description>
+        <![CDATA[During the peak, 96 percent of the moon will be within the darkest part of our planet's shadow. The orb will take on an eerie glow because of how sunlight gets filtered through Earth's atmosphere]]>
+      </description>
+      <source:markdown>During the peak, 96 percent of the moon will be within the darkest part of our planet&#39;s shadow. The orb will take on an eerie glow because of how sunlight gets filtered through Earth&#39;s atmosphere</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/xGE0F-D8QtZYX9y5qju2QtfOPoY=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9a/80/9a806c6d-472c-4a77-a3e3-7fa3ee166bf7/smithsonian_feature_images_13.png" length="657854" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/turn-your-eyes-to-the-night-skies-this-week-to-see-a-near-total-lunar-eclipse-itll-temporarily-turn-the-moon-red-180989404/</guid>
+    </item>    <item>
+      <title>A Brittle Coating on a 2,200-Year-Old Roman Shipwreck Reveals How Ancient Sailors Kept Their Ships Afloat</title>
+      <link>https://www.smithsonianmag.com/smart-news/brittle-coating-on-2200-year-old-roman-shipwreck-revealing-how-ancient-soliders-kept-ships-afloat-180989394/</link>
+      <description>
+        <![CDATA[Traces of pine tar and beeswax preserved on the vessel reveal the painstaking techniques shipbuilders millennia ago used to protect their ships from the briny deep]]>
+      </description>
+      <source:markdown>Traces of pine tar and beeswax preserved on the vessel reveal the painstaking techniques shipbuilders millennia ago used to protect their ships from the briny deep</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jvp3qSw_rnkjrM8l7K8-u6y5hCY=/420x240/filters:focal(666x448:667x449)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/9f/4e9f0fe8-aa48-438a-b88f-3a29cd71107e/https___wwwfrontiersinorg_files_articles_1758862_xml-images_fmats-13-1758862-g001.jpeg" length="794759" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/brittle-coating-on-2200-year-old-roman-shipwreck-revealing-how-ancient-soliders-kept-ships-afloat-180989394/</guid>
+    </item>    <item>
+      <title>Roman Space Telescope Travels to SpaceX Hangar</title>
+      <link>https://www.nasa.gov/image-article/roman-space-telescope-travels-to-spacex-hangar/</link>
+      <description>
+        <![CDATA[NASA’s Nancy Grace Roman Space Telescope, encapsulated in its payload fairing, travels from the Payload Hazardous Servicing Facility to the SpaceX hangar at Launch Complex 39A at NASA’s Kennedy Space Center on Tuesday, Aug. 25, 2026, ahead of mating to a SpaceX Falcon Heavy rocket. Roman’s science instruments are designed to help researchers understand dark [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s Nancy Grace Roman Space Telescope, encapsulated in its payload fairing, travels from the Payload Hazardous Servicing Facility to the SpaceX hangar at Launch Complex 39A at NASA’s Kennedy Space Center on Tuesday, Aug. 25, 2026, ahead of mating to a SpaceX Falcon Heavy rocket. Roman’s science instruments are designed to help researchers understand dark \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1041619</guid>
+      <category>Kennedy Space Center</category>
+      <category>Nancy Grace Roman Space Telescope</category>
+    </item>    <item>
+      <title>See 16 Stunning Animal Images From the Wildlife Photographer of the Year Awards</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-16-stunning-animal-images-from-the-wildlife-photographer-of-the-year-awards-180989397/</link>
+      <description>
+        <![CDATA[Now in its 62nd year, the famed competition has released a sneak peek of the entries from this contest ahead of announcing the winners in October]]>
+      </description>
+      <source:markdown>Now in its 62nd year, the famed competition has released a sneak peek of the entries from this contest ahead of announcing the winners in October</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2rQkH38Pcj87NBbc-ka3nBdkaTs=/420x240/filters:focal(1280x859:1281x860)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dd/dd/dddd293f-fdd7-4e4f-ac3f-8507e88d1e45/c_audun_rikardsen.jpg" length="4273356" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/see-16-stunning-animal-images-from-the-wildlife-photographer-of-the-year-awards-180989397/</guid>
+    </item>    <item>
+      <title>These Medieval Manuscript Fragments Were Reused as Parchment, Inadvertently Preserving Them for Centuries</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-medieval-manuscript-fragments-were-reused-as-parchment-inadvertently-preserving-them-for-centuries-180989398/</link>
+      <description>
+        <![CDATA[Recently discovered on Guernsey, one of the Channel Islands, the pages include Bible passages, poems, plays and other texts. They were repurposed as book bindings during the 16th and 17th centuries]]>
+      </description>
+      <source:markdown>Recently discovered on Guernsey, one of the Channel Islands, the pages include Bible passages, poems, plays and other texts. They were repurposed as book bindings during the 16th and 17th centuries</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/-qtNjQXKEd8yDhf4wJAt6tiuBsw=/420x240/filters:focal(960x640:961x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5e/8e/5e8ec5ec-bf1c-4f6c-b604-7e1ed6692863/island-archives-manuscript-21-of-25-1920x1280.jpg" length="241897" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/these-medieval-manuscript-fragments-were-reused-as-parchment-inadvertently-preserving-them-for-centuries-180989398/</guid>
+    </item>    <item>
+      <title>NASA Johnson Pilots Chase Moon’s Shadow for Eclipse Science</title>
+      <link>https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-pilots-chase-moons-shadow-for-eclipse-science/</link>
+      <description>
+        <![CDATA[During the Aug. 12 total solar eclipse over Europe, scientists aimed to study a long-standing mystery: why the Sun’s outer atmosphere, the corona, is far hotter than its visible surface. Capturing the data they needed meant being in exactly the right place at the right time.  Pilots from NASA’s Johnson Space Center&#160;flew the WB-57F&#160;high altitude research&#160;aircraft&#160;from Ellington Field in Houston&#160;to&#160;Iceland, their [&#8230;]]]>
+      </description>
+      <source:markdown>During the Aug. 12 total solar eclipse over Europe, scientists aimed to study a long-standing mystery: why the Sun’s outer atmosphere, the corona, is far hotter than its visible surface. Capturing the data they needed meant being in exactly the right place at the right time.  Pilots from NASA’s Johnson Space Center flew the WB-57F high altitude research aircraft from Ellington Field in Houston to Iceland, their \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1040616</guid>
+      <category>Johnson Space Center</category>
+      <category>Ellington Field</category>
+      <category>Solar Eclipses</category>
+      <category>WB-57</category>
+    </item>    <item>
+      <title>The Soccer Ball Used for Diego Maradona’s ‘Hand of God’ World Cup Goal Sells for $3.35 Million at Auction</title>
+      <link>https://www.smithsonianmag.com/smart-news/soccer-ball-used-for-diego-maradona-hand-of-god-world-cup-goal-sells-at-auction-180989392/</link>
+      <description>
+        <![CDATA[Despite its role in one of the most famous games in soccer history, the historic piece of sports memorabilia fell short of its $10 million pre-sale estimate]]>
+      </description>
+      <source:markdown>Despite its role in one of the most famous games in soccer history, the historic piece of sports memorabilia fell short of its $10 million pre-sale estimate</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/bJWiwFyDDaFeilXH4_eSa8efLiQ=/420x240/filters:focal(566x415:567x416)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3f/27/3f27be0a-79fb-45fe-b9a4-3928848842d0/maradona_shilton_mano_dios.jpg" length="423896" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/soccer-ball-used-for-diego-maradona-hand-of-god-world-cup-goal-sells-at-auction-180989392/</guid>
+    </item>    <item>
+      <title>This Deadly Shellfish Poisoning Has No Antidote. A Protein Found in American Bullfrogs Could Change That</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-deadly-shellfish-poisoning-has-no-antidote-a-protein-found-in-american-bullfrogs-could-change-that-180989365/</link>
+      <description>
+        <![CDATA[A study in mice found that a protein called saxiphilin acts like a sponge against a deadly toxin produced by algal blooms. The harmful agent, which accumulates in certain seafood, can cause a life-threatening illness called paralytic shellfish poisoning]]>
+      </description>
+      <source:markdown>A study in mice found that a protein called saxiphilin acts like a sponge against a deadly toxin produced by algal blooms. The harmful agent, which accumulates in certain seafood, can cause a life-threatening illness called paralytic shellfish poisoning</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/CUZzyHalEUCE_zZ0MsvlWwuCPZE=/420x240/filters:focal(1143x893:1144x894)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c4/48/c44861eb-ef7f-4042-9c7e-10b7a4a61e39/north-american-bullfrog1.jpg" length="1919081" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-deadly-shellfish-poisoning-has-no-antidote-a-protein-found-in-american-bullfrogs-could-change-that-180989365/</guid>
+    </item>    <item>
+      <title>In Hilbert Space, All Things Are Quantumly Possible</title>
+      <link>https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/</link>
+      <description>
+        <![CDATA[To explore quantum phenomena, we must leave the familiar world and enter the abstract realm of Hilbert space.            <p>The post <a href="https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/" target="_blank">In Hilbert Space, All Things Are Quantumly Possible</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>To explore quantum phenomena, we must leave the familiar world and enter the abstract realm of Hilbert space.
+
+The post [In Hilbert Space, All Things Are Quantumly Possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=166153</guid>
+      <category>Physics</category>
+    </item>    <item>
+      <title>NASA Sets Spacewalk for Station Maintenance, Live Coverage Planned</title>
+      <link>https://www.nasa.gov/news-release/nasa-sets-spacewalk-for-station-maintenance-live-coverage-planned/</link>
+      <description>
+        <![CDATA[NASA will provide coverage as two astronauts step outside the International Space Station on Tuesday, Sept. 1, to replace a spacecraft navigational aid and complete several maintenance tasks in support of space station operations. Watch live coverage beginning at 7 a.m. EDT. The spacewalk is expected to start at approximately 8:30 a.m. and last about [&#8230;]]]>
+      </description>
+      <source:markdown>NASA will provide coverage as two astronauts step outside the International Space Station on Tuesday, Sept. 1, to replace a spacecraft navigational aid and complete several maintenance tasks in support of space station operations. Watch live coverage beginning at 7 a.m. EDT. The spacewalk is expected to start at approximately 8:30 a.m. and last about \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1041442</guid>
+      <category>Humans in Space</category>
+      <category>International Space Station (ISS)</category>
+      <category>Johnson Space Center</category>
+    </item>    <item>
+      <title>A New Telescope Still Under Construction Accidentally Reveals How a Dying Star Returns Matter to Space</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-new-telescope-still-under-construction-accidentally-reveals-how-a-dying-star-returns-matter-to-space-180989349/</link>
+      <description>
+        <![CDATA[Researchers captured an unprecedented image of the stellar recycling process while calibrating a Chile-based instrument called MOTHRA, which is expected to be complete by the end of 2026]]>
+      </description>
+      <source:markdown>Researchers captured an unprecedented image of the stellar recycling process while calibrating a Chile-based instrument called MOTHRA, which is expected to be complete by the end of 2026</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/SubC8RlSAbngMYaNt2tvxwuHP-k=/420x240/filters:focal(485x328:486x329)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3f/55/3f5579c8-c4a7-43a5-bb54-6498478792fd/helix1940__fitmaxwzk3mcw2ntbd.jpg" length="122648" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-new-telescope-still-under-construction-accidentally-reveals-how-a-dying-star-returns-matter-to-space-180989349/</guid>
+    </item>    <item>
+      <title>NASA Begins Moon Mission Plume-Surface Interaction Tests</title>
+      <link>https://www.nasa.gov/missions/artemis/nasa-begins-moon-mission-plume-surface-interaction-tests/</link>
+      <description>
+        <![CDATA[EDITOR’S NOTE: This story, originally published in December, was revised Aug. 26, 2026 with an update on a new phase of testing, including video from a recent test run and new images. To help NASA and commercial partners better understand the science of lunar landings, specifically the hazards that may occur when a lander’s engine [&#8230;]]]>
+      </description>
+      <source:markdown>EDITOR’S NOTE: This story, originally published in December, was revised Aug. 26, 2026 with an update on a new phase of testing, including video from a recent test run and new images. To help NASA and commercial partners better understand the science of lunar landings, specifically the hazards that may occur when a lander’s engine \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1041141</guid>
+      <category>Artemis</category>
+      <category>General</category>
+      <category>Human Landing System Program</category>
+      <category>Langley Research Center</category>
+      <category>Marshall Space Flight Center</category>
+    </item>    <item>
+      <title>Contractor to Civil Servant: NASA Welcomes Jeret Howard</title>
+      <link>https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jeret-howard/</link>
+      <description>
+        <![CDATA[At 17, Jeret Howard raised his right hand to serve his country as a United States Army combat medic in Iraq. This past summer, he raised his right hand again at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Hired as a civil servant under the agency&#8217;s workforce directive to restore core competencies by [&#8230;]]]>
+      </description>
+      <source:markdown>At 17, Jeret Howard raised his right hand to serve his country as a United States Army combat medic in Iraq. This past summer, he raised his right hand again at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Hired as a civil servant under the agency’s workforce directive to restore core competencies by \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1041378</guid>
+      <category>Stennis Space Center</category>
+    </item>    <item>
       <title>&#39;Hunger Stones&#39; Resurface in Europe, Bringing Centuries-Old Warnings Back Into View as Rivers Hit Historic Lows</title>
       <link>https://www.smithsonianmag.com/smart-news/hunger-stones-resurface-europe-bringing-centuries-old-warnings-back-into-view-rivers-hit-historic-lows-180989387/</link>
       <description>
@@ -1948,15 +2150,6 @@ The post [Graduate Student Proves a Quantum Uncertainty Principle for Fractals](
       <guid>cid://https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-polar-geospatial-center-earthdem-elevation-products/</guid>
       <category>Earth Science</category>
     </item>    <item>
-      <title>Pumas Might Be Making Your Drive Home Safer. When the Predators Are Around, Deer Tend to Avoid Roads, Preventing Some Collisions</title>
-      <link>https://www.smithsonianmag.com/smart-news/pumas-might-be-making-your-drive-home-safer-when-the-predators-are-around-deer-tend-to-avoid-roads-preventing-some-collisions-180989314/</link>
-      <description>
-        <![CDATA[In Washington’s Olympic Peninsula, the wild cats’ presence corresponded with a 67 percent drop in the likelihood of a deer-vehicle crash and a 76 percent overall decline in the number of wrecks during a five-year period, according to a new study]]>
-      </description>
-      <source:markdown>In Washington’s Olympic Peninsula, the wild cats’ presence corresponded with a 67 percent drop in the likelihood of a deer-vehicle crash and a 76 percent overall decline in the number of wrecks during a five-year period, according to a new study</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jPMPyOHtw1rxeI78_HUeat6PnBs=/420x240/filters:focal(2000x1352:2001x1353)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/35/a1/35a1806d-e51e-423c-90d6-74bc5d1f676d/nmg0497-edit.jpg" length="6796144" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/pumas-might-be-making-your-drive-home-safer-when-the-predators-are-around-deer-tend-to-avoid-roads-preventing-some-collisions-180989314/</guid>
-    </item>    <item>
       <title>NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs</title>
       <link>https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/</link>
       <description>
@@ -1966,6 +2159,15 @@ The post [Graduate Student Proves a Quantum Uncertainty Principle for Fractals](
       <guid>cid://https://blogs.nvidia.com/?p=97450</guid>
       <category>Corporate</category>
       <category>NVIDIA Life</category>
+    </item>    <item>
+      <title>Pumas Might Be Making Your Drive Home Safer. When the Predators Are Around, Deer Tend to Avoid Roads, Preventing Some Collisions</title>
+      <link>https://www.smithsonianmag.com/smart-news/pumas-might-be-making-your-drive-home-safer-when-the-predators-are-around-deer-tend-to-avoid-roads-preventing-some-collisions-180989314/</link>
+      <description>
+        <![CDATA[In Washington’s Olympic Peninsula, the wild cats’ presence corresponded with a 67 percent drop in the likelihood of a deer-vehicle crash and a 76 percent overall decline in the number of wrecks during a five-year period, according to a new study]]>
+      </description>
+      <source:markdown>In Washington’s Olympic Peninsula, the wild cats’ presence corresponded with a 67 percent drop in the likelihood of a deer-vehicle crash and a 76 percent overall decline in the number of wrecks during a five-year period, according to a new study</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jPMPyOHtw1rxeI78_HUeat6PnBs=/420x240/filters:focal(2000x1352:2001x1353)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/35/a1/35a1806d-e51e-423c-90d6-74bc5d1f676d/nmg0497-edit.jpg" length="6796144" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/pumas-might-be-making-your-drive-home-safer-when-the-predators-are-around-deer-tend-to-avoid-roads-preventing-some-collisions-180989314/</guid>
     </item>    <item>
       <title>Can you spot AI-written stories? Listen and find out</title>
       <link>https://www.npr.org/2026/08/12/nx-s1-5913976/ai-human-detector-writing-check</link>
@@ -2928,194 +3130,6 @@ The post [How Does Touch Lead To Pain Or Pleasure?](https://www.quantamagazine.o
       <source:markdown>APOD Science APOD APOD: 2026 August 6 – New… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. New Sharpest \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/image-article/apod-2026-august-6-new-sharpest-image-of-the-sun-uncovers-instability/</guid>
       <category>APOD</category>
-    </item>    <item>
-      <title>Tribblix Milestone 41 for x86 released</title>
-      <link>https://www.osnews.com/story/145690/tribblix-milestone-41-for-x86-released/</link>
-      <description>
-        <![CDATA[Tribblix, the Illumos distribution focused on giving you a classic UNIX-style experience, has been updated with the release of Milestone 41. According to the release notes, it contains the latest security fixes from Illumos, but beyond that it&#8217;s just a number of small point releases for certain components. Still, it&#8217;s a new release, and Tribblix rocks, so here we are.]]>
-      </description>
-      <source:markdown>Tribblix, the Illumos distribution focused on giving you a classic UNIX-style experience, has been updated with the release of Milestone 41. According to the release notes, it contains the latest security fixes from Illumos, but beyond that it’s just a number of small point releases for certain components. Still, it’s a new release, and Tribblix rocks, so here we are.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145690</guid>
-      <category>Solaris</category>
-    </item>    <item>
-      <title>A.I. Went to the Opera, Creating Images for an Anniversary Production of Wagner&#39;s &#39;Ring Cycle&#39; at the Theater Where He First Staged the Masterpiece</title>
-      <link>https://www.smithsonianmag.com/smart-news/ai-went-to-the-opera-projecting-images-for-an-anniversary-production-of-wagners-ring-cycle-at-the-theater-where-he-first-staged-the-masterpiece-180989270/</link>
-      <description>
-        <![CDATA[It took Richard Wagner a quarter-century to complete the four-part opera. The new production, called "10010110," uses generative artificial intelligence to explore the artwork’s evolution]]>
-      </description>
-      <source:markdown>It took Richard Wagner a quarter-century to complete the four-part opera. The new production, called &#34;10010110,&#34; uses generative artificial intelligence to explore the artwork’s evolution</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/s4Kl2SOQoShTMKb9ese1gMLevWY=/420x240/filters:focal(721x542:722x543)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/23/cc/23cc4325-0370-4aab-9160-3f1e5dd3292a/droneshot-festspielhaus-c-corinna-weih.jpg" length="281822" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/ai-went-to-the-opera-projecting-images-for-an-anniversary-production-of-wagners-ring-cycle-at-the-theater-where-he-first-staged-the-masterpiece-180989270/</guid>
-    </item>    <item>
-      <title>Neptune May Have Once Witnessed a Lunar Massacre That Turned Its Original Moons &#39;Inside Out&#39;</title>
-      <link>https://www.smithsonianmag.com/smart-news/neptune-may-have-once-witnessed-a-lunar-massacre-that-turned-its-original-moons-inside-out-180989266/</link>
-      <description>
-        <![CDATA[A new study identifies an unexpected mineral in two of the planet’s inner moons, pointing to a destructive past in which a large object got pulled into the system and obliterated the former, larger satellites]]>
-      </description>
-      <source:markdown>A new study identifies an unexpected mineral in two of the planet’s inner moons, pointing to a destructive past in which a large object got pulled into the system and obliterated the former, larger satellites</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/XbULV1Ntb8bXfqSxepVXnn5W-DY=/420x240/filters:focal(700x373:701x374)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ec/10/ec10052e-b603-4a08-b51e-49e8ad05ac32/brown_mike-neptune-inner-moons-news-webmax-1400x800.jpg" length="42558" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/neptune-may-have-once-witnessed-a-lunar-massacre-that-turned-its-original-moons-inside-out-180989266/</guid>
-    </item>    <item>
-      <title>NASA’s IXPE May Have Proven 90-Year-Old Theory</title>
-      <link>https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/</link>
-      <description>
-        <![CDATA[A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature. Fast facts Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E […]]]>
-      </description>
-      <source:markdown>A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature. Fast facts Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/</guid>
-      <category>IXPE (Imaging X-ray Polarimetry Explorer)</category>
-      <category>Magnetars</category>
-      <category>Marshall Astrophysics</category>
-      <category>Marshall Space Flight Center</category>
-      <category>Neutron Stars</category>
-      <category>The Universe</category>
-    </item>    <item>
-      <title>Artemis III Orion Crew and Service Models Joined</title>
-      <link>https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/</link>
-      <description>
-        <![CDATA[Technicians joined the Orion crew and service modules together on July 30, 2026, inside the Neil Armstrong Operations and Checkout Building at NASA&#8217;s Kennedy Space Center in Florida. The crew module will carry and sustain NASA astronauts Randy Bresnik, Andre Douglas, and Frank Rubio, and ESA (European Space Agency) astronaut Luca Parmitano, while the service [&#8230;]]]>
-      </description>
-      <source:markdown>Technicians joined the Orion crew and service modules together on July 30, 2026, inside the Neil Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center in Florida. The crew module will carry and sustain NASA astronauts Randy Bresnik, Andre Douglas, and Frank Rubio, and ESA (European Space Agency) astronaut Luca Parmitano, while the service \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1035129</guid>
-      <category>Artemis</category>
-    </item>    <item>
-      <title>Corals Spin Tiny Vortices to Get Oxygen, but Not if It’s Too Hot</title>
-      <link>https://www.quantamagazine.org/corals-spin-tiny-vortices-to-get-oxygen-but-not-if-its-too-hot-20260805/</link>
-      <description>
-        <![CDATA[New research is helping biologists understand how an overlooked aspect of coral physiology may affect their fate under climate change.            <p>The post <a href="https://www.quantamagazine.org/corals-spin-tiny-vortices-to-get-oxygen-but-not-if-its-too-hot-20260805/" target="_blank">Corals Spin Tiny Vortices to Get Oxygen, but Not if It’s Too Hot</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>New research is helping biologists understand how an overlooked aspect of coral physiology may affect their fate under climate change.
-
-The post [Corals Spin Tiny Vortices to Get Oxygen, but Not if It’s Too Hot](https://www.quantamagazine.org/corals-spin-tiny-vortices-to-get-oxygen-but-not-if-its-too-hot-20260805/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=165479</guid>
-      <category>Biology</category>
-    </item>    <item>
-      <title>NASA’s Perseverance Captures Phobos and Earth</title>
-      <link>https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/</link>
-      <description>
-        <![CDATA[Description This composite of seven images from the Mastcam-Z instrument aboard NASA’s Perseverance Mars rover shows Earth, visible as a small bright dot moving from upper left to lower right, passing behind the Martian moon Phobos on July 2, 2026, 1,907th Martian day, or sol, of the mission. The black background is the result of […]]]>
-      </description>
-      <source:markdown>Description This composite of seven images from the Mastcam-Z instrument aboard NASA’s Perseverance Mars rover shows Earth, visible as a small bright dot moving from upper left to lower right, passing behind the Martian moon Phobos on July 2, 2026, 1,907th Martian day, or sol, of the mission. The black background is the result of \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/</guid>
-      <category>Mars 2020</category>
-      <category>Photojournal</category>
-    </item>    <item>
-      <title>NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon</title>
-      <link>https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon/</link>
-      <description>
-        <![CDATA[Earth and the Martian moon Phobos dance together in a series of images recently acquired by NASA’s Perseverance Mars rover. Earth appears as a point of light in the Martian sky, disappearing behind the crescent of Phobos, the larger of Mars’ two moons. This is the first time humanity has captured from the surface of [&#8230;]]]>
-      </description>
-      <source:markdown>Earth and the Martian moon Phobos dance together in a series of images recently acquired by NASA’s Perseverance Mars rover. Earth appears as a point of light in the Martian sky, disappearing behind the crescent of Phobos, the larger of Mars’ two moons. This is the first time humanity has captured from the surface of \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1034946</guid>
-      <category>Mars</category>
-      <category>Earth</category>
-      <category>Jet Propulsion Laboratory</category>
-      <category>Perseverance (Rover)</category>
-      <category>Phobos</category>
-      <category>Planetary Science</category>
-      <category>The Solar System</category>
-    </item>    <item>
-      <title>A Serpentine Sculpture Inspired by Benjamin Franklin&#39;s &#39;Join, or Die&#39; Call for Unity Is Taking Shape—Segment by Segment—in Philadelphia</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-serpentine-sculpture-inspired-by-benjamin-franklins-join-or-die-call-for-unity-is-taking-shape-segment-by-segment-in-philadelphia-180989263/</link>
-      <description>
-        <![CDATA[Created by John Collins, the 46-foot-long granite artwork inspired by an 18th-century political cartoon is slated to be unveiled on Independence Mall sometime this fall]]>
-      </description>
-      <source:markdown>Created by John Collins, the 46-foot-long granite artwork inspired by an 18th-century political cartoon is slated to be unveiled on Independence Mall sometime this fall</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/_gFT1fILsRUwOdcWzdgeeWaXb10=/420x240/filters:focal(505x392:506x393)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fc/50/fc50f59f-6822-4049-bc84-540251b460f8/6e31d14f-f410-4b5f-bbac-f807b38d46ddoriginal.webp" length="146132" type="image/webp" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-serpentine-sculpture-inspired-by-benjamin-franklins-join-or-die-call-for-unity-is-taking-shape-segment-by-segment-in-philadelphia-180989263/</guid>
-    </item>    <item>
-      <title>Flesh-Eating &#39;Superworms&#39; Could Become a New Skeleton-Cleaning Crew for Museum and Research Specimens</title>
-      <link>https://www.smithsonianmag.com/smart-news/flesh-eating-superworms-could-become-a-new-skeleton-cleaning-crew-for-museum-and-research-specimens-180989258/</link>
-      <description>
-        <![CDATA[A new study hints that the critters would be a good alternative to traditional methods used to remove flesh from bones, including dermestid beetles, chemical treatments and boiling, which can cause damage or be time-consuming]]>
-      </description>
-      <source:markdown>A new study hints that the critters would be a good alternative to traditional methods used to remove flesh from bones, including dermestid beetles, chemical treatments and boiling, which can cause damage or be time-consuming</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/RnlwcWobdaB6hyzn-o-28buZGtQ=/420x240/filters:focal(1075x737:1076x738)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/92/1d/921dc374-286e-4958-af39-60fa2c33e07e/journalpone0349669g004.png" length="1828552" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/flesh-eating-superworms-could-become-a-new-skeleton-cleaning-crew-for-museum-and-research-specimens-180989258/</guid>
-    </item>    <item>
-      <title>Advanced Mini-laboratories Automate Space Station Research</title>
-      <link>https://www.nasa.gov/image-article/advanced-mini-laboratories-automate-space-station-research/</link>
-      <description>
-        <![CDATA[The International Space Station hosts hundreds of science experiments at a time. Some experiments can take hours to perform, and researchers need to account for astronauts’ limited time. Fully automated devices, like Redwire’s &#160;ADvanced Space Experiment Processors (ADSEPs), have been designed to conduct more space science with less crew time. Within each ADSEP facility there [&#8230;]]]>
-      </description>
-      <source:markdown>The International Space Station hosts hundreds of science experiments at a time. Some experiments can take hours to perform, and researchers need to account for astronauts’ limited time. Fully automated devices, like Redwire’s  ADvanced Space Experiment Processors (ADSEPs), have been designed to conduct more space science with less crew time. Within each ADSEP facility there \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1034620</guid>
-      <category>International Space Station (ISS)</category>
-      <category>ISS Research</category>
-    </item>    <item>
-      <title>NVIDIA and Partners Build in America, for America</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/</link>
-      <description>
-        <![CDATA[NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.]]>
-      </description>
-      <source:markdown>NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=95626</guid>
-      <category>AI</category>
-      <category>Corporate</category>
-      <category>Artificial Intelligence</category>
-      <category>Economic Development</category>
-      <category>Healthcare and Life Sciences</category>
-      <category>Industrial and Manufacturing</category>
-      <category>Public Sector</category>
-      <category>Science</category>
-      <category>Simulation and Design</category>
-    </item>    <item>
-      <title>Making Videos With Absolute Freedom</title>
-      <link>https://puri.sm/posts/making-videos-with-absolute-freedom/</link>
-      <description>
-        <![CDATA[<p>As with every video that we make at Purism, we have made the Librem 16 launch video in house with Librem hardware running PureOS, and using free software only. This blog post will give a quick overview of the steps that we went through for making this video. It will also show how to run a video project with total freedom, away from proprietary constraints. Finally, it underlines how amazing the Librem laptops are when used in a professional creative environment.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/making-videos-with-absolute-freedom/">Making Videos With Absolute Freedom</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>As with every video that we make at Purism, we have made the Librem 16 launch video in house with Librem hardware running PureOS, and using free software only. This blog post will give a quick overview of the steps that we went through for making this video. It will also show how to run a video project with total freedom, away from proprietary constraints. Finally, it underlines how amazing the Librem laptops are when used in a professional creative environment.
-
-The post [Making Videos With Absolute Freedom](https://puri.sm/posts/making-videos-with-absolute-freedom/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <enclosure url="https://videos.puri.sm/librem16/librem16-launch.mp4" length="39796214" type="video/mp4" />
-      <guid>cid://https://puri.sm/?p=85765</guid>
-      <category>GNU/Linux</category>
-      <category>Hardware</category>
-      <category>Librem 16</category>
-      <category>PureOS</category>
-      <category>Security</category>
-      <category>Software</category>
-      <category>Apps</category>
-      <category>Software freedom</category>
-      <category>Videos</category>
-    </item>    <item>
-      <title>Shooting stars are just pea-sized rocks... and other space wonders</title>
-      <link>https://www.npr.org/2026/08/05/nx-s1-5913854/shooting-star-perseid-meteor-shower</link>
-      <description>
-        <![CDATA[Ahead of the peak of the Perseid meteor shower, we're re-airing our first episode with host <a href="https://www.npr.org/people/1082526815/regina-g-barber"target="_blank"   >Regina G. Barber</a>. In it, Regina and planetary scientist <a href="https://geology.wwu.edu/people/ricem5"target="_blank"   >Melissa Rice</a> explore all things shooting stars. They talk about the different types, where they come from and what they actually are (hint: not stars).<br/><br/>Learn more about viewing the Perseids, which will peak Aug. 12: <a href="https://skyandtelescope.org/astronomy-press-releases/a-perfect-year-for-the-perseid-meteor-shower/"target="_blank"   ><em>A Perfect Year for the Perseid Meteor Shower</em></a><br/><br/><em>Interested in more stellar science in the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Ahead of the peak of the Perseid meteor shower, we&#39;re re-airing our first episode with host [Regina G. Barber](https://www.npr.org/people/1082526815/regina-g-barber). In it, Regina and planetary scientist [Melissa Rice](https://geology.wwu.edu/people/ricem5) explore all things shooting stars. They talk about the different types, where they come from and what they actually are (hint: not stars).
-
-Learn more about viewing the Perseids, which will peak Aug. 12: [_A Perfect Year for the Perseid Meteor Shower_](https://skyandtelescope.org/astronomy-press-releases/a-perfect-year-for-the-perseid-meteor-shower/)
-
-_Interested in more stellar science in the news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/31fc9190-26bb-44dc-bb3b-794a0acff68c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=31fc9190-26bb-44dc-bb3b-794a0acff68c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5913854&p=510351&d=700&size=11208874" length="11208874" type="audio/mpeg" />
-      <guid>cid://dc555ae5-ec6b-4485-8fa6-6cbdf244cd22</guid>
-    </item>    <item>
-      <title>APOD: 2026 August 5 – Spokes on Saturn’s B Ring</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-august-5-spokes-on-saturns-b-ring/</link>
-      <description>
-        <![CDATA[APODScienceAPODAPOD: 2026 August 5 – Spokes…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Brad Croslin Spokes on Saturn&#8217;s B Ring Explanation: Don’t get spooked by Saturn’s ghostly spokes! Today [&#8230;]]]>
-      </description>
-      <source:markdown>APODScienceAPODAPOD: 2026 August 5 – Spokes…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Brad Croslin Spokes on Saturn’s B Ring Explanation: Don’t get spooked by Saturn’s ghostly spokes! Today \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-august-5-spokes-on-saturns-b-ring/</guid>
-      <category>APOD</category>
-    </item>    <item>
-      <title>The Paradox of Lençóis Maranhenses National Park</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/the-paradox-of-lencois-maranhenses-national-park/</link>
-      <description>
-        <![CDATA[The coastal dune field in Brazil looks like a desert but fills with freshwater lagoons every year.]]>
-      </description>
-      <source:markdown>The coastal dune field in Brazil looks like a desert but fills with freshwater lagoons every year.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/the-paradox-of-lencois-maranhenses-national-park/</guid>
     </item>
   </channel>
 </rss>
