@@ -4,10 +4,115 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>28 Aug 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>29 Aug 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Calculus Made Easy by Silvanus P.  Thompson</title>
+      <link>https://www.gutenberg.org/ebooks/33283</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The sailor&#39;s Sabbath : by Titus Coan</title>
+      <link>https://www.gutenberg.org/ebooks/79364</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Please stand by by Joseph I.  Lawrence</title>
+      <link>https://www.gutenberg.org/ebooks/79452</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Childhood&#39;s Favorites and Fairy Stories</title>
+      <link>https://www.gutenberg.org/ebooks/19993</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Confessiones by Saint of Hippo Augustine</title>
+      <link>https://www.gutenberg.org/ebooks/33849</link>
+      <description>
+        <![CDATA[Language: Latin]]>
+      </description>
+      <source:markdown>Language: Latin</source:markdown>
+    </item>    <item>
+      <title>Poems by Rainer Maria Rilke</title>
+      <link>https://www.gutenberg.org/ebooks/38594</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Lives of the Twelve Caesars, Complete by Suetonius</title>
+      <link>https://www.gutenberg.org/ebooks/6400</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Willows by Algernon Blackwood</title>
+      <link>https://www.gutenberg.org/ebooks/11438</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Monster no more by Basil Wells</title>
+      <link>https://www.gutenberg.org/ebooks/79464</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Pride and Prejudice by Jane Austen</title>
+      <link>https://www.gutenberg.org/ebooks/1342</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Dantons Tod by Georg Büchner</title>
+      <link>https://www.gutenberg.org/ebooks/5072</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>Our mission to the court of Marocco by Philip Durham Trotter</title>
+      <link>https://www.gutenberg.org/ebooks/79468</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The history of the Eighth Battalion, the Queen&#39;s Own Royal West Kent Regiment, 1914-1919</title>
+      <link>https://www.gutenberg.org/ebooks/79467</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>We sing Diana by Wanda Fraiken Neff</title>
+      <link>https://www.gutenberg.org/ebooks/79465</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>L&#39;antisémitisme by Anatole Leroy-Beaulieu</title>
+      <link>https://www.gutenberg.org/ebooks/79466</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
       <title>Plays and controversies by W. B.  Yeats</title>
       <link>https://www.gutenberg.org/ebooks/79460</link>
       <description>
@@ -129,13 +234,6 @@
     </item>    <item>
       <title>The conquered by Naomi Mitchison</title>
       <link>https://www.gutenberg.org/ebooks/79449</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Please stand by by Joseph Ivers Lawrence</title>
-      <link>https://www.gutenberg.org/ebooks/79452</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -869,13 +967,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>The sailor&#39;s Sabbath : by Titus Coan</title>
-      <link>https://www.gutenberg.org/ebooks/79364</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>In a German colony : by B.  Pullen-Burry</title>
       <link>https://www.gutenberg.org/ebooks/79365</link>
       <description>
@@ -1480,100 +1571,6 @@
     </item>    <item>
       <title>The youngest princess : by Jenny Chappell</title>
       <link>https://www.gutenberg.org/ebooks/79303</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Clever Woman of the Family, by Charlotte M. Yonge</title>
-      <link>https://standardebooks.org/ebooks/charlotte-m-yonge/the-clever-woman-of-the-family</link>
-      <description>
-        <![CDATA[An opinionated young woman seeks to prove her cleverness as she searches for a purpose in life.]]>
-      </description>
-      <source:markdown>An opinionated young woman seeks to prove her cleverness as she searches for a purpose in life.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/charlotte-m-yonge/the-clever-woman-of-the-family/downloads/charlotte-m-yonge_the-clever-woman-of-the-family.epub?source=feed" length="1001279" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/charlotte-m-yonge/the-clever-woman-of-the-family</guid>
-      <category>Fiction</category>
-    </item>    <item>
-      <title>The Integration of Functions of a Single Variable by G. H.  Hardy</title>
-      <link>https://www.gutenberg.org/ebooks/38993</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A Journey into the Interior of the Earth by Jules Verne</title>
-      <link>https://www.gutenberg.org/ebooks/3748</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Korpi ja puutarha by Joel Lehtonen</title>
-      <link>https://www.gutenberg.org/ebooks/79287</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Sirkus ja pyhimys : by Joel Lehtonen</title>
-      <link>https://www.gutenberg.org/ebooks/79289</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Abenteuer eines Junggesellen by Wilhelm Busch</title>
-      <link>https://www.gutenberg.org/ebooks/79285</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>Rest days : by Hutton Webster</title>
-      <link>https://www.gutenberg.org/ebooks/79292</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The man who limped by Otis Adelbert Kline</title>
-      <link>https://www.gutenberg.org/ebooks/79293</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Lord Lister No. 0052: De krijgsschat van de Roghi by Theo von Blankensee and Kurt Matull</title>
-      <link>https://www.gutenberg.org/ebooks/79288</link>
-      <description>
-        <![CDATA[Language: Dutch]]>
-      </description>
-      <source:markdown>Language: Dutch</source:markdown>
-    </item>    <item>
-      <title>The fatal marriage : by Emma Dorothy Eliza Nevitte Southworth</title>
-      <link>https://www.gutenberg.org/ebooks/79290</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Despised and rejected by A. T. Fitzroy</title>
-      <link>https://www.gutenberg.org/ebooks/79286</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Winds of rebellion : by Ernest Haycox</title>
-      <link>https://www.gutenberg.org/ebooks/79284</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The mysterious locket by active approximately 1876-1880 Ruth Lynn</title>
-      <link>https://www.gutenberg.org/ebooks/79291</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
