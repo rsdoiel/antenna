@@ -5,7 +5,7 @@
     <title><![CDATA[Columns]]></title>
     <description><![CDATA[Blogs, columns and snapshots from around the web.]]></description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>29 Aug 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>30 Aug 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -35,6 +35,226 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Goodbye, Dolly</title>
+      <link>https://steady.substack.com/p/goodbye-dolly</link>
+      <description>
+        <![CDATA[A Reason To Smile]]>
+      </description>
+      <source:markdown>A Reason To Smile</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!6bt3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8877367-a74c-4b3f-afcc-2398ff5e115e_5212x3476.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/goodbye-dolly</guid>
+    </item>    <item>
+      <title>Oligarchy and the Great Evasion</title>
+      <link>https://paulkrugman.substack.com/p/oligarchy-and-the-great-evasion</link>
+      <description>
+        <![CDATA[The tax gap: What it is and why it matters]]>
+      </description>
+      <source:markdown>The tax gap: What it is and why it matters</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!F0UP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6f26977-5f7b-43ab-92e6-9bac55e3564e_936x1274.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/oligarchy-and-the-great-evasion</guid>
+    </item>    <item>
+      <title>Sunday thought: The extremes of the human species</title>
+      <link>https://robertreich.substack.com/p/sunday-thought-dolly-or-donald</link>
+      <description>
+        <![CDATA[From most admirable to least]]>
+      </description>
+      <source:markdown>From most admirable to least</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!0dFy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8bc019cc-1678-4eaa-891d-66f565542c7f_3301x1947.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-thought-dolly-or-donald</guid>
+    </item>    <item>
+      <title>Name that Ware, August 2026</title>
+      <link>https://www.bunniestudios.com/blog/2026/name-that-ware-august-2026/</link>
+      <description>
+        <![CDATA[The Ware for August 2026 is shown below. Technically, this is an integrated circuit &#8211; just from a very different era than last month&#8217;s ware!]]>
+      </description>
+      <source:markdown>The Ware for August 2026 is shown below. Technically, this is an integrated circuit – just from a very different era than last month’s ware!</source:markdown>
+      <guid>cid://https://www.bunniestudios.com/blog/?p=7612</guid>
+      <category>name that ware</category>
+    </item>    <item>
+      <title>Winner, Name that Ware July 2026</title>
+      <link>https://www.bunniestudios.com/blog/2026/winner-name-that-ware-july-2026/</link>
+      <description>
+        <![CDATA[The structure in question for last month&#8217;s ware are a pair of NPN transistors that form the core of a bandgap voltage reference circuit. As its name implies, a bandgap voltage reference generates a near-constant voltage for use inside chips. The voltage is intended to be fairly constant over process variations, temperature variations, and power [&#8230;]]]>
+      </description>
+      <source:markdown>The structure in question for last month’s ware are a pair of NPN transistors that form the core of a bandgap voltage reference circuit. As its name implies, a bandgap voltage reference generates a near-constant voltage for use inside chips. The voltage is intended to be fairly constant over process variations, temperature variations, and power \[…\]</source:markdown>
+      <guid>cid://https://www.bunniestudios.com/blog/?p=7603</guid>
+      <category>baochip</category>
+      <category>name that ware</category>
+    </item>    <item>
+      <title>I asked my city about their street cameras</title>
+      <link>https://tracydurnell.com/2026/08/29/i-asked-my-city-about-their-street-cameras/</link>
+      <description>
+        <![CDATA[Per this map, my city does not have any publicly operated Flock cameras, which I&#8217;m very happy about. But, we do have school zone speed enforcement cameras. I realized I don&#8217;t know how those work, so I emailed the city to ask. Question submitted to the city: As I&#8217;ve been reading about the misuse of [&#8230;]]]>
+      </description>
+      <source:markdown>Per this map, my city does not have any publicly operated Flock cameras, which I’m very happy about. But, we do have school zone speed enforcement cameras. I realized I don’t know how those work, so I emailed the city to ask. Question submitted to the city: As I’ve been reading about the misuse of \[…\]</source:markdown>
+      <guid>cid://https://tracydurnell.com/?p=40126</guid>
+      <category>Activism</category>
+      <category>Places</category>
+      <category>advocacy</category>
+      <category>data</category>
+      <category>Kirkland</category>
+      <category>policy</category>
+      <category>safety</category>
+      <category>surveillance</category>
+    </item>    <item>
+      <title>August 29, 2026</title>
+      <link>https://heathercoxrichardson.substack.com/p/august-29-2026</link>
+      <description>
+        <![CDATA[On Thursday, August 27, Tolouse Olorunnipa reported on the attempts of Republican lawmakers to restrict the ability of naturalized and dual citizens to run for office.]]>
+      </description>
+      <source:markdown>On Thursday, August 27, Tolouse Olorunnipa reported on the attempts of Republican lawmakers to restrict the ability of naturalized and dual citizens to run for office.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!yKDv!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b47f775-3df7-41dd-8bc9-a64cdd72d948_600x600.png" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/august-29-2026</guid>
+    </item>    <item>
+      <title>Mark Carney for President!</title>
+      <link>https://www.borowitzreport.com/p/mark-carney-for-president</link>
+      <description>
+        <![CDATA[The Andy Borowitz Show]]>
+      </description>
+      <source:markdown>The Andy Borowitz Show</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/213206092/4fac2587aba0b6b35752fc0c38efea62.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/mark-carney-for-president</guid>
+    </item>    <item>
+      <title>Just HOW corrupt is Trump?</title>
+      <link>https://robertreich.substack.com/p/just-how-corrupt-is-trump</link>
+      <description>
+        <![CDATA[Friends,]]>
+      </description>
+      <source:markdown>Friends,</source:markdown>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/9WrUiTz1pmU" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/just-how-corrupt-is-trump</guid>
+    </item>    <item>
+      <link>https://tilde.zone/@tomasino/117181225484378795</link>
+      <description>
+        <![CDATA[<p>I made corn bread and slathered it with honey butter.</p>]]>
+      </description>
+      <source:markdown>I made corn bread and slathered it with honey butter.</source:markdown>
+      <guid>cid://https://tilde.zone/@tomasino/117181225484378795</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/08/29.html#a214445</link>
+      <description>
+        <![CDATA[An absolutely delicious temperate cloud-free day in the Catskills, so I got up from the computer and enjoyed.]]>
+      </description>
+      <source:markdown>An absolutely delicious temperate cloud-free day in the Catskills, so I got up from the computer and enjoyed.</source:markdown>
+      <guid>cid://http://scripting.com/2026/08/29.html#a214445</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/117180902292641924</link>
+      <description>
+        <![CDATA[<p>The Gospel of Awni teaches us that you can give someone $15,299 in Claude credits and they can vibe code recipe apps for a month, or give them a 512 GB M5 Ultra and they can maintain their own Linux distro for life.</p>]]>
+      </description>
+      <source:markdown>The Gospel of Awni teaches us that you can give someone $15,299 in Claude credits and they can vibe code recipe apps for a month, or give them a 512 GB M5 Ultra and they can maintain their own Linux distro for life.</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/117180902292641924</guid>
+    </item>    <item>
+      <title>★ Thoughts and Observations on Apple’s First Immersive MLB Broadcast, a Yankees 1-0 Win Over the Red Sox</title>
+      <link>https://daringfireball.net/2026/08/thoughts_and_observations_apple_immersive_mlb_broadcast</link>
+      <description>
+        <![CDATA[It felt like something new and different. Something at least as different from watching on TV as watching on TV is different from merely listening on radio. It’s profound.]]>
+      </description>
+      <source:markdown>It felt like something new and different. Something at least as different from watching on TV as watching on TV is different from merely listening on radio. It’s profound.</source:markdown>
+      <guid>cid://tag:daringfireball.net,2026://1.43443</guid>
+    </item>    <item>
+      <title>Restoring Integrity To Our Discourse, Staying Safe In The Age Of AI</title>
+      <link>https://www.hopiumchronicles.com/p/restoring-integrity-to-our-discourse</link>
+      <description>
+        <![CDATA[:As we retake power in the coming years we must make restoring integrity to our discourse a foundational project of the pro-democracy movement&#8221;]]>
+      </description>
+      <source:markdown>:As we retake power in the coming years we must make restoring integrity to our discourse a foundational project of the pro-democracy movement”</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/d1201b7d-2cdb-41aa-9f5a-8dada0576cc4_900x888.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/restoring-integrity-to-our-discourse</guid>
+    </item>    <item>
+      <title>Booze And Mozart</title>
+      <link>https://thebrowser.com/free/booze-and-mozart/</link>
+      <description>
+        <![CDATA[Writing of lasting value]]>
+      </description>
+      <source:markdown>Writing of lasting value</source:markdown>
+      <guid>cid://6a92acafeeb27c0001ccbcda</guid>
+    </item>    <item>
+      <title>An ultra-condensed history of computing since the 1980s for those who weren&#39;t paying attention</title>
+      <link>https://liam-on-linux.dreamwidth.org/99703.html</link>
+      <description>
+        <![CDATA[Here is the summary:<p>By the '90s microcomputers (computers based on single microprocessors) grew big enough to run Real OSes with memory protection etc. Most 20th century vendors did not have such things in their 1980/1990s OSes and lacked the ability to add them without destroying backwards compatibility.<br /><br />The few OSes that could use this were niche things and either very expensive, and so died out, or they did next to nothing while also being almost impossible to use, and so nobody used them.&nbsp;</p>                                                  <p>Acorn, Commodore, and Atari died.</p>                                                  <p>Apple nearly died. It had fired its boss, and he  went off and built a new company with a super-hi-end  all-singing-all-dancing computer. It flopped but the CIA bought loads of  them and kept the company just about afloat.</p>                                                  <p>Intel, and separately MS &amp; IBM, tried to design their way out.</p>                                                  <p>They all failed.</p>                                                  <p>Even IBM struggled.</p>                                                  <p>Meanwhile...</p>                                                  <p>DEC inspired most of the industry but was even worse at marketing than Commodore. Unix, CP/M, DOS, NT, all were built  on DEC designs and plans and ideas, or at least, on DEC hardware.</p>                                                  <p>DEC had 1 brilliant team lead. He and his team built several of DEC's best-selling OSes. He said:  we have half a dozen incompatible hardware lines and half a dozen  incompatible OSes. A couple sell well but they're old. We should build a  modern RISC chip and a modern modular OS on it that can emulate all the  other OSes and converge on that.</p>                                                  <p>Management said no, and spend billions on trying to scale the VAX minicomputer up into mainframe. It nearly died.</p>                                                  <p>The team lead wanted out. MS headhunted him and the team.</p>                                                  <p>MS handed him the skeleton of portable OS/2 (which it got from IBM in the divorce)&nbsp;and built that modular OS on it.</p>                                                  <p>That's NT.</p>                                                  <p>MS was rich enough to pay to develop it for a  decade while it failed to sell much, while MS actually made money from selling upgrades to 16-bit  Windows on top of DOS.</p>                                                  <p>Eventually the hardware caught up. The new OS finally got halfway good enough 30Y ago last week.&nbsp;</p>                                                  <p>Apple, in dire straits, bought its old boss's company.</p>                                                  <p>DEC survived. It salvaged the RISC CPU design, finished it, built it and it did well...  and it knew MS had used its OS design and used that fact to screw a good deal  out of MS, including porting that new OS to the DEC chip. It also gave  the chips out to FOSS developers so it got the first ever Linux port.</p>                                                  <p>Everyone else is dead.</p>                                                  <p>Acorn is gone, but the Acorn OS is alive and it's FOSS now.</p>                                                  <p>The ST and Commodore OSes are dead but have been reverse engineered and recreated by people who loved them.</p>                                                  <p>All the Unix vendors are dead, but their OS was also re-created by volunteers, running on Windows boxes. It now runs the world... and most phones.</p><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=99703" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments]]>
+      </description>
+      <source:markdown>Here is the summary:
+
+By the &#39;90s microcomputers (computers based on single microprocessors) grew big enough to run Real OSes with memory protection etc. Most 20th century vendors did not have such things in their 1980/1990s OSes and lacked the ability to add them without destroying backwards compatibility.
+
+The few OSes that could use this were niche things and either very expensive, and so died out, or they did next to nothing while also being almost impossible to use, and so nobody used them.
+
+Acorn, Commodore, and Atari died.
+
+Apple nearly died. It had fired its boss, and he went off and built a new company with a super-hi-end all-singing-all-dancing computer. It flopped but the CIA bought loads of them and kept the company just about afloat.
+
+Intel, and separately MS &#38; IBM, tried to design their way out.
+
+They all failed.
+
+Even IBM struggled.
+
+Meanwhile...
+
+DEC inspired most of the industry but was even worse at marketing than Commodore. Unix, CP/M, DOS, NT, all were built on DEC designs and plans and ideas, or at least, on DEC hardware.
+
+DEC had 1 brilliant team lead. He and his team built several of DEC&#39;s best-selling OSes. He said: we have half a dozen incompatible hardware lines and half a dozen incompatible OSes. A couple sell well but they&#39;re old. We should build a modern RISC chip and a modern modular OS on it that can emulate all the other OSes and converge on that.
+
+Management said no, and spend billions on trying to scale the VAX minicomputer up into mainframe. It nearly died.
+
+The team lead wanted out. MS headhunted him and the team.
+
+MS handed him the skeleton of portable OS/2 (which it got from IBM in the divorce) and built that modular OS on it.
+
+That&#39;s NT.
+
+MS was rich enough to pay to develop it for a decade while it failed to sell much, while MS actually made money from selling upgrades to 16-bit Windows on top of DOS.
+
+Eventually the hardware caught up. The new OS finally got halfway good enough 30Y ago last week.
+
+Apple, in dire straits, bought its old boss&#39;s company.
+
+DEC survived. It salvaged the RISC CPU design, finished it, built it and it did well... and it knew MS had used its OS design and used that fact to screw a good deal out of MS, including porting that new OS to the DEC chip. It also gave the chips out to FOSS developers so it got the first ever Linux port.
+
+Everyone else is dead.
+
+Acorn is gone, but the Acorn OS is alive and it&#39;s FOSS now.
+
+The ST and Commodore OSes are dead but have been reverse engineered and recreated by people who loved them.
+
+All the Unix vendors are dead, but their OS was also re-created by volunteers, running on Windows boxes. It now runs the world... and most phones.
+
+![comment count unavailable](https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&#38;ditemid=99703) comments</source:markdown>
+      <guid>cid://https://liam-on-linux.dreamwidth.org/99703.html</guid>
+    </item>    <item>
+      <title>How much will &#39;The end of programming&#39; cost?</title>
+      <link>http://statusq.org/archives/2026/08/29/13695/</link>
+      <description>
+        <![CDATA[<p data-block-key="cknvo">Having entered the frothing, bubbling water of AI very gingerly in the early days, I'm now plunging in on a rather frequent basis! I do, however, take plenty of precautions:</p><ul><li data-block-key="5sf7c">I never use Google's 'AI Overview'. In fact, I have a browser plugin that carefully stops me seeing it in my search results. Google's Gemini has traditionally been rather poor when compared to the competition, and I'd much rather use a system that <i>I</i> select, that's not paid for by advertising, on the occasions when I actually want to use one.</li><li data-block-key="er4ft">For anything vaguely important, I never trust what it tells me without checking it. It can be a great search engine, but always ask for externally-verifiable sources.</li><li data-block-key="2t4ed">I pay for Claude - the £15+VAT per month subscription - and that has been plenty for my needs so far.</li><li data-block-key="5dh67">I don't run anything directly on my machine with general access to my computing world. If it's working on my own code, data or documents, I run it in a container where I allow it only to see the bits of the filesystem it needs, with a firewall which stops it talking to the outside world except to places I explicitly allow. (For those interested, I'm a big fan of using 'dev containers' in VS Code and always run it within one of those. It keeps everything nicely encapsulated.)</li><li data-block-key="9u3mb">I don't do very 'agentic' things. I ask it to do something and wait for a response. An 'agent', as a crude approximation, is when you say 'Do this and keep working on it or retrying it until you succeed'. In other words, 'Carry on without me'. Though powerful, this can also become very expensive very quickly!</li></ul><p data-block-key="405qk">Despite (or perhaps because of) my caution, I've recently been very impressed.</p><p data-block-key="ai1ls">Claude is, of course, now exceedingly good at almost anything software-related, and that's my main use. Paul Dix, the CTO of InfluxData, wrote an article this week entitled "<a href="https://pauldix.com/the-end-of-programming">The End of Programming</a>", in which he talks about the relative scale of machine-generated vs human-generated code that we're already seeing, and this is only the start. I'm starting to feel that I retired at almost exactly the right time; that the demand for 'artisanal software' may well become a niche thing soon!</p><p data-block-key="b95l1">But, going back to Claude, I've also been impressed when asking it non-software things like, "Here's a PDF listing publicly-accessible boat slipways. Could you plot them on a map for me?" Actually, an even more useful variant of this was in the spring, when we were travelling through France in our campervan. We wanted a veterinary practice that could issue an EU pet passport to our UK-resident spaniel, and we had a web page listing a large number of possibilities, along with their addresses, in French towns we had mostly never heard of. The list was unsorted, but plotting the addresses on a map made it easy.</p><p data-block-key="ffkeb">Or, this weekend, having a wife who needs to file tax returns in the US as well as the UK, I've been asking it complex questions about the likely US tax implications of various recent and upcoming financial plans. It's been far more knowledgeable about transatlantic tax than either our UK advisor or our US accountant. What it told us is likely to be painfully expensive, but not nearly as much as if we had gone on for another decade without knowing it. (A hint, if you know any US expats living in the UK who haven't yet discovered this: ISAs are <i>not</i> tax-free for them.)</p><p data-block-key="esamf">Imagine the manual labour involved in, for example, taking a dozen UK account statement PDFs, extracting the list of investments bought and sold from each one, working out the gains in each case and how long each investment was held, taking into account that the gains need to be worked out in US dollars using the exchange rate appropriate <i>on the day</i> of each transaction, so a UK loss is sometimes still a taxable US gain... and then summarising all of the results in a nice Excel spreadsheet... You see why I'm a fan.</p><p data-block-key="6ihhp">So my big worry now is this...</p><p data-block-key="5c1n3">Before long, the AI providers are going to have to start charging us what it <i>actually costs them</i> to provide the service. (Well, presumably a fair bit more than that, if they want to make a profit!) I'm making the most of what I can do with Claude now because I suspect that, before too long, my £15/month subscription is going to turn into something I can no longer afford in my retirement. The current offerings are just a loss-making gateway drug to get us hooked.</p><p data-block-key="6e3ak">The alternative, of course, as everywhere else on the Internet, will no doubt be free services which make money from you and your data by including product placements, subtle political biases, or downright advertisements, and by selling your data to others. And because it will cost them a lot more to provide the service than a Gmail, Facebook, Instagram or WhatsApp account, so the exploitation of the user -- that's you -- will need to be a lot more profitable...<br/></p><p data-block-key="30fbf"></p>]]>
+      </description>
+      <source:markdown>Having entered the frothing, bubbling water of AI very gingerly in the early days, I&#39;m now plunging in on a rather frequent basis! I do, however, take plenty of precautions:
+
+- I never use Google&#39;s &#39;AI Overview&#39;. In fact, I have a browser plugin that carefully stops me seeing it in my search results. Google&#39;s Gemini has traditionally been rather poor when compared to the competition, and I&#39;d much rather use a system that _I_ select, that&#39;s not paid for by advertising, on the occasions when I actually want to use one.
+- For anything vaguely important, I never trust what it tells me without checking it. It can be a great search engine, but always ask for externally-verifiable sources.
+- I pay for Claude - the £15+VAT per month subscription - and that has been plenty for my needs so far.
+- I don&#39;t run anything directly on my machine with general access to my computing world. If it&#39;s working on my own code, data or documents, I run it in a container where I allow it only to see the bits of the filesystem it needs, with a firewall which stops it talking to the outside world except to places I explicitly allow. (For those interested, I&#39;m a big fan of using &#39;dev containers&#39; in VS Code and always run it within one of those. It keeps everything nicely encapsulated.)
+- I don&#39;t do very &#39;agentic&#39; things. I ask it to do something and wait for a response. An &#39;agent&#39;, as a crude approximation, is when you say &#39;Do this and keep working on it or retrying it until you succeed&#39;. In other words, &#39;Carry on without me&#39;. Though powerful, this can also become very expensive very quickly!
+
+Despite (or perhaps because of) my caution, I&#39;ve recently been very impressed.
+
+Claude is, of course, now exceedingly good at almost anything software-related, and that&#39;s my main use. Paul Dix, the CTO of InfluxData, wrote an article this week entitled &#34; [The End of Programming](https://pauldix.com/the-end-of-programming)&#34;, in which he talks about the relative scale of machine-generated vs human-generated code that we&#39;re already seeing, and this is only the start. I&#39;m starting to feel that I retired at almost exactly the right time; that the demand for &#39;artisanal software&#39; may well become a niche thing soon!
+
+But, going back to Claude, I&#39;ve also been impressed when asking it non-software things like, &#34;Here&#39;s a PDF listing publicly-accessible boat slipways. Could you plot them on a map for me?&#34; Actually, an even more useful variant of this was in the spring, when we were travelling through France in our campervan. We wanted a veterinary practice that could issue an EU pet passport to our UK-resident spaniel, and we had a web page listing a large number of possibilities, along with their addresses, in French towns we had mostly never heard of. The list was unsorted, but plotting the addresses on a map made it easy.
+
+Or, this weekend, having a wife who needs to file tax returns in the US as well as the UK, I&#39;ve been asking it complex questions about the likely US tax implications of various recent and upcoming financial plans. It&#39;s been far more knowledgeable about transatlantic tax than either our UK advisor or our US accountant. What it told us is likely to be painfully expensive, but not nearly as much as if we had gone on for another decade without knowing it. (A hint, if you know any US expats living in the UK who haven&#39;t yet discovered this: ISAs are _not_ tax-free for them.)
+
+Imagine the manual labour involved in, for example, taking a dozen UK account statement PDFs, extracting the list of investments bought and sold from each one, working out the gains in each case and how long each investment was held, taking into account that the gains need to be worked out in US dollars using the exchange rate appropriate _on the day_ of each transaction, so a UK loss is sometimes still a taxable US gain... and then summarising all of the results in a nice Excel spreadsheet... You see why I&#39;m a fan.
+
+So my big worry now is this...
+
+Before long, the AI providers are going to have to start charging us what it _actually costs them_ to provide the service. (Well, presumably a fair bit more than that, if they want to make a profit!) I&#39;m making the most of what I can do with Claude now because I suspect that, before too long, my £15/month subscription is going to turn into something I can no longer afford in my retirement. The current offerings are just a loss-making gateway drug to get us hooked.
+
+The alternative, of course, as everywhere else on the Internet, will no doubt be free services which make money from you and your data by including product placements, subtle political biases, or downright advertisements, and by selling your data to others. And because it will cost them a lot more to provide the service than a Gmail, Facebook, Instagram or WhatsApp account, so the exploitation of the user -- that&#39;s you -- will need to be a lot more profitable...</source:markdown>
+      <guid>cid://http://statusq.org/archives/2026/08/29/13695/</guid>
+      <category>Computing</category>
     </item>    <item>
       <title>Pavé à l’abri des particules fines [en]</title>
       <link>https://climbtothestars.org/archives/2026/08/29/pave-a-labri-des-particules-fines/</link>
@@ -3959,6 +4179,14 @@ And to Bill Gates, I wish when you were trying to own the web in the 90s, you ha
       <source:markdown>Elbows up!</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!NXVN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fad8da570-84fc-4fc8-9778-74d65380317f_1280x850.png" length="0" type="image/jpeg" />
       <guid>cid://https://www.publicnotice.co/p/trump-canada-trade-war</guid>
+    </item>    <item>
+      <title>Dragoncatcher: Slop-vestigation and the digital pantograph</title>
+      <link>https://www.robinsloan.com/lab/digital-pantograph/</link>
+      <description>
+        <![CDATA[<p>Gobs and gobs of text. <a href="https://www.robinsloan.com/lab/digital-pantograph/">Read here.</a></p>]]>
+      </description>
+      <source:markdown>Gobs and gobs of text. [Read here.](https://www.robinsloan.com/lab/digital-pantograph/)</source:markdown>
+      <guid>cid://https://www.robinsloan.com/lab/digital-pantograph/</guid>
     </item>    <item>
       <title>Dolly sa Daingean: https://www.youtube.com/watch?v=2qXFoNrqi3Y Fuair sí fáilte mhór (as Gaeilge) agus ansin chann sí le Steve Cooney ar an ngiotár.</title>
       <link>https://adactio.com/notes/22734</link>
@@ -23961,364 +24189,6 @@ October 2, 2015.
       <category>Dwayne Johnson</category>
       <category>Moana</category>
       <category>Reviews</category>
-    </item>    <item>
-      <title>‘One Night Only’ Director Understands The “Sex Purge” Comparisons</title>
-      <link>https://deadline.com/2026/08/one-night-only-director-understands-sex-purge-comparisons-1237029460/</link>
-      <description>
-        <![CDATA[While One Night Only is intended as a romantic-comedy, there are some obvious dystopian undertones that audiences can&#8217;t ignore. Director Will Gluck recently addressed online comparisons between the Purge franchise and his new Universal rom-com, which is now in theaters, about two New Yorkers (Monica Barbaro and Callum Turner) who meet on the one night [&#8230;]]]>
-      </description>
-      <source:markdown>While One Night Only is intended as a romantic-comedy, there are some obvious dystopian undertones that audiences can’t ignore. Director Will Gluck recently addressed online comparisons between the Purge franchise and his new Universal rom-com, which is now in theaters, about two New Yorkers (Monica Barbaro and Callum Turner) who meet on the one night \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1237029460</guid>
-      <category>News</category>
-      <category>One Night Only</category>
-      <category>The Purge</category>
-      <category>Will Gluck</category>
-    </item>    <item>
-      <link>http://scripting.com/2026/08/08.html#a220455</link>
-      <description>
-        <![CDATA[Here's the <a href="https://pdsls.dev/at://did:plc:oety7qbfx7x6exn2ytrwikmr/site.standard.document/3mslhd5zxkg22">sign of success</a>. (<a href="https://imgs.scripting.com/2026/08/08/atprotoScreenshot.png">screen shot</a>.) I wrote a <a href="https://demo.rss.chat/?id=395">post on demo.rss.chat</a> was automatically cross-posted to Bluesky via micro.blog. Because the post has a title, it was routed to <a href="https://standard.site/">standard.site</a>. What does that mean? I still don't really understand, when I do I will explain it here. But part of the answer is that we now have a <a href="https://pdsls.dev/at://did:plc:oety7qbfx7x6exn2ytrwikmr/site.standard.document/3mslhd5zxkg22">data structure</a> in <i>atmosphere</i> that <a href="https://imgs.scripting.com/2026/08/08/atprotoScreenshot.png">looks like</a> an RSS item with different names for things. Are there feed readers in AT-Proto-Land? If so, can we ping one of them to say hey there's a new post in the standard.site world, so please show it to subscribers? And I keep wondering, why not just make all of Bluesky capable of handling the features standard.site calls for. Twenty years is too long to have such a limited view of what text is. See <a href="https://textcasting.org/">textcasting</a> for more dogma.]]>
-      </description>
-      <source:markdown>Here&#39;s the [sign of success](https://pdsls.dev/at://did:plc:oety7qbfx7x6exn2ytrwikmr/site.standard.document/3mslhd5zxkg22). ([screen shot](https://imgs.scripting.com/2026/08/08/atprotoScreenshot.png).) I wrote a [post on demo.rss.chat](https://demo.rss.chat/?id=395) was automatically cross-posted to Bluesky via micro.blog. Because the post has a title, it was routed to [standard.site](https://standard.site/). What does that mean? I still don&#39;t really understand, when I do I will explain it here. But part of the answer is that we now have a [data structure](https://pdsls.dev/at://did:plc:oety7qbfx7x6exn2ytrwikmr/site.standard.document/3mslhd5zxkg22) in _atmosphere_ that [looks like](https://imgs.scripting.com/2026/08/08/atprotoScreenshot.png) an RSS item with different names for things. Are there feed readers in AT-Proto-Land? If so, can we ping one of them to say hey there&#39;s a new post in the standard.site world, so please show it to subscribers? And I keep wondering, why not just make all of Bluesky capable of handling the features standard.site calls for. Twenty years is too long to have such a limited view of what text is. See [textcasting](https://textcasting.org/) for more dogma.</source:markdown>
-      <guid>cid://http://scripting.com/2026/08/08.html#a220455</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/08/08.html#a215640</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="http://scripting.com/images/2021/03/30/grannySmithApple.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I want to connect <b>RSS to AT Proto</b>, both ways, inbound and out. Toward that end, today I <a href="https://github.com/scripting/Scripting-News/issues/359">helped Leaflet</a>, a very nice <a href="https://leaflet.pub/">editor</a> for AT Proto, make their outbound RSS feed better. We should have all our best editors, everywhere, hooked up over popular web standards. And I want my posts to show up not only in Bluesky but also in <a href="https://standard.site/">standard.site</a>. I was able to do that with micro.blog which is the <a href="https://daytona.scripting.com/search?q=%22swiss%20army%20knife%22">swiss army knife</a> of interop in the web of the 2020's. Getting independent developers working with each other is my mission, because first you have to have <a href="http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop">interop</a> between the people before you can get interop between the apps.]]>
-      </description>
-      <source:markdown>![](http://scripting.com/images/2021/03/30/grannySmithApple.png)I want to connect **RSS to AT Proto**, both ways, inbound and out. Toward that end, today I [helped Leaflet](https://github.com/scripting/Scripting-News/issues/359), a very nice [editor](https://leaflet.pub/) for AT Proto, make their outbound RSS feed better. We should have all our best editors, everywhere, hooked up over popular web standards. And I want my posts to show up not only in Bluesky but also in [standard.site](https://standard.site/). I was able to do that with micro.blog which is the [swiss army knife](https://daytona.scripting.com/search?q=%22swiss%20army%20knife%22) of interop in the web of the 2020&#39;s. Getting independent developers working with each other is my mission, because first you have to have [interop](http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop) between the people before you can get interop between the apps.</source:markdown>
-      <guid>cid://http://scripting.com/2026/08/08.html#a215640</guid>
-    </item>    <item>
-      <title>‘Monsters Of God’ Slithers Onto HBO: Reptilian Docuseries From ‘Tiger King’s Eric Goode</title>
-      <link>https://deadline.com/2026/08/monsters-of-god-interview-eric-goode-1237029438/</link>
-      <description>
-        <![CDATA[HBO’s new documentary series Monsters of God abounds with colorful creatures – and those are just the humans. The five-parter from Tiger King co-director Eric Goode features reptile dealers with a fondness for creepy crawlies and a loose connection to ethical and legal mores. There’s Tom Crutchfield, who loves women with the ardor of Pepé [&#8230;]]]>
-      </description>
-      <source:markdown>HBO’s new documentary series Monsters of God abounds with colorful creatures – and those are just the humans. The five-parter from Tiger King co-director Eric Goode features reptile dealers with a fondness for creepy crawlies and a loose connection to ethical and legal mores. There’s Tom Crutchfield, who loves women with the ardor of Pepé \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1237029438</guid>
-      <category>Documentary</category>
-      <category>News</category>
-      <category>Eric Goode</category>
-      <category>HBO</category>
-      <category>Monsters of God</category>
-      <category>Tiger King</category>
-    </item>    <item>
-      <title>‘Heated Rivalry’ Author Appears To Dismiss Negative Reactions To Season 2 Casting</title>
-      <link>https://deadline.com/2026/08/heated-rivalry-author-dismiss-negative-reactions-season-2-casting-1237029395/</link>
-      <description>
-        <![CDATA[As Heated Rivalry hits the ice for another season with some new teammates, there&#8217;s bound to be some opinions about the casting choices for the book series&#8217; beloved characters. Following the news that Justice Smith and Charlie Gillespie have been cast in Season 2, author Rachel Reid appeared to respond to negative online reactions to [&#8230;]]]>
-      </description>
-      <source:markdown>As Heated Rivalry hits the ice for another season with some new teammates, there’s bound to be some opinions about the casting choices for the book series’ beloved characters. Following the news that Justice Smith and Charlie Gillespie have been cast in Season 2, author Rachel Reid appeared to respond to negative online reactions to \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1237029395</guid>
-      <category>Books</category>
-      <category>News</category>
-      <category>Charlie Gillespie</category>
-      <category>Heated Rivalry</category>
-      <category>Justice Smith</category>
-      <category>Rachel Reid</category>
-    </item>    <item>
-      <title>Melissa Barrera Takes Weekend Off From Broadway’s ‘Titanique’ After She “Lost My Voice” On-Stage</title>
-      <link>https://deadline.com/2026/08/melissa-barrera-takes-weekend-off-titanique-lost-voice-1237029390/</link>
-      <description>
-        <![CDATA[As Melissa Barrera enters the final stretch of her Broadway debut run in Titanique, she&#8217;s taking a few days off to get her voice and body back into performance shape. On Saturday, the actress who plays Rose DeWitt Bukater in the hit Titanic (1997) musical parody announced that she &#8220;lost her voice&#8221; during a performance [&#8230;]]]>
-      </description>
-      <source:markdown>As Melissa Barrera enters the final stretch of her Broadway debut run in Titanique, she’s taking a few days off to get her voice and body back into performance shape. On Saturday, the actress who plays Rose DeWitt Bukater in the hit Titanic (1997) musical parody announced that she “lost her voice” during a performance \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1237029390</guid>
-      <category>News</category>
-      <category>Broadway</category>
-      <category>Melissa Barrera</category>
-      <category>Titanique</category>
-    </item>    <item>
-      <title>Madonna Pays Tribute To Late ‘Ray Of Light’ Producer William Orbit: “Your Music Gave Me A Magic Carpet To Fly On”</title>
-      <link>https://deadline.com/2026/08/madonna-william-orbit-tribute-1237029382/</link>
-      <description>
-        <![CDATA[Madonna paid tribute to her late Ray of Light producer William Orbit, saying in an Instagram post that he gave her &#8220;a magic carpet to fly on.&#8221; “I had an epiphany when I met you and started working with you,&#8221; she writes today. &#8220;I realized that music did not have to fit into categories or [&#8230;]]]>
-      </description>
-      <source:markdown>Madonna paid tribute to her late Ray of Light producer William Orbit, saying in an Instagram post that he gave her “a magic carpet to fly on.” “I had an epiphany when I met you and started working with you,” she writes today. “I realized that music did not have to fit into categories or \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1237029382</guid>
-      <category>News</category>
-      <category>Madonna</category>
-      <category>William Orbit</category>
-    </item>    <item>
-      <title>Morrissey Cancels This Month’s Four-Show Las Vegas Residency</title>
-      <link>https://deadline.com/2026/08/morrissey-las-vegas-cancellation-1237029376/</link>
-      <description>
-        <![CDATA[Morrissey, the ex-Smiths frontman with a penchant for canceling shows, has added to his track record: All four performances of his planned August Las Vegas residency have been scrubbed. The four-show stand at the Wynn Las Vegas’ Encore Theater was set to begin August 14 and wrap up August 19, but ticket-holders received an email [&#8230;]]]>
-      </description>
-      <source:markdown>Morrissey, the ex-Smiths frontman with a penchant for canceling shows, has added to his track record: All four performances of his planned August Las Vegas residency have been scrubbed. The four-show stand at the Wynn Las Vegas’ Encore Theater was set to begin August 14 and wrap up August 19, but ticket-holders received an email \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1237029376</guid>
-      <category>News</category>
-      <category>Touring</category>
-      <category>Morrissey</category>
-    </item>    <item>
-      <title>Andrew Lloyd Webber “Gutted” About Tonight’s Closing Of ‘Cats: The Jellicle Ball’; Composer Hopes Broadway Will “Come To Its Senses”</title>
-      <link>https://deadline.com/2026/08/andrew-lloyd-webber-gcats-gutted-broadway-1237029355/</link>
-      <description>
-        <![CDATA[Composer Andrew Lloyd Webber is &#8220;gutted&#8221; that the Broadway production of his Cats: The Jellicle Ball is closing tonight at the Broadhurst Theatre, five months earlier than originally planned. In an emotional message posted on Instagram, Lloyd Webber says he hopes the show&#8217;s closing will serve as a warning about &#8220;the unsustainable cost&#8221; of producing [&#8230;]]]>
-      </description>
-      <source:markdown>Composer Andrew Lloyd Webber is “gutted” that the Broadway production of his Cats: The Jellicle Ball is closing tonight at the Broadhurst Theatre, five months earlier than originally planned. In an emotional message posted on Instagram, Lloyd Webber says he hopes the show’s closing will serve as a warning about “the unsustainable cost” of producing \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1237029355</guid>
-      <category>News</category>
-      <category>Andrew Lloyd-Webber</category>
-      <category>Broadway</category>
-      <category>Cats: The Jellicle Ball</category>
-      <category>Rosie O&#39;Donnell</category>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/117060955593684710</link>
-      <description>
-        <![CDATA[<p>Man this is such a enlightening read on how the Zig compiler does incremental compilation.</p><p>I will definitely keep this in mind in my next life:</p><p><a href="https://mlugg.co.uk/posts/incremental-compilation-internals/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mlugg.co.uk/posts/incremental-</span><span class="invisible">compilation-internals/</span></a></p>]]>
-      </description>
-      <source:markdown>Man this is such a enlightening read on how the Zig compiler does incremental compilation.
-
-I will definitely keep this in mind in my next life:
-
-[https://mlugg.co.uk/posts/incremental-compilation-internals/](https://mlugg.co.uk/posts/incremental-compilation-internals/)</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/117060955593684710</guid>
-    </item>    <item>
-      <link>https://tilde.zone/@tomasino/117060929986520868</link>
-      <description>
-        <![CDATA[<p>Happy pride 🏳️‍🌈</p>]]>
-      </description>
-      <source:markdown>Happy pride 🏳️‍🌈</source:markdown>
-      <guid>cid://https://tilde.zone/@tomasino/117060929986520868</guid>
-    </item>    <item>
-      <title>Reading When The Boys Came Out To Play by John Mackel.</title>
-      <link>https://adactio.com/notes/22707</link>
-      <description>
-        <![CDATA[<p>Reading When The Boys Came Out To Play by John Mackel.</p>]]>
-      </description>
-      <source:markdown>Reading When The Boys Came Out To Play by John Mackel.</source:markdown>
-      <guid>cid://https://adactio.com/notes/22707</guid>
-    </item>    <item>
-      <title>With Blanche In Place We Have To Get Ready For The Incredible F*ckery That Is To Come</title>
-      <link>https://www.hopiumchronicles.com/p/with-blanche-in-place-we-have-to</link>
-      <description>
-        <![CDATA[Blanche's confirmation, at 430am this morning, is one of the greatest betrayals of our country in all our history]]>
-      </description>
-      <source:markdown>Blanche&#39;s confirmation, at 430am this morning, is one of the greatest betrayals of our country in all our history</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/c9e4678e-f771-4f13-b82a-53df635cf29e_985x493.png" length="0" type="image/jpeg" />
-      <guid>cid://https://www.hopiumchronicles.com/p/with-blanche-in-place-we-have-to</guid>
-    </item>    <item>
-      <title>Pink Floyd and Coastal Confluence</title>
-      <link>https://thebrowser.com/free/pink-floyd-and-coastal-confluence/</link>
-      <description>
-        <![CDATA[Writing of lasting value]]>
-      </description>
-      <source:markdown>Writing of lasting value</source:markdown>
-      <guid>cid://6a7609cce903bb00019bdca4</guid>
-    </item>    <item>
-      <title>Dragoncatcher: Still Sublime after all these years</title>
-      <link>https://www.robinsloan.com/lab/still-sublime/</link>
-      <description>
-        <![CDATA[<p>Solid software. <a href="https://www.robinsloan.com/lab/still-sublime/">Read here.</a></p>]]>
-      </description>
-      <source:markdown>Solid software. [Read here.](https://www.robinsloan.com/lab/still-sublime/)</source:markdown>
-      <guid>cid://https://www.robinsloan.com/lab/still-sublime/</guid>
-    </item>    <item>
-      <title>Bill Maher Makes Weight Jokes About Ariana Grande, ‘Real Time’ Audience Groans</title>
-      <link>https://deadline.com/2026/08/bill-maher-ariana-grande-jokes-1237029302/</link>
-      <description>
-        <![CDATA[Too soon, too tasteless or just too cruel, take your pick, but Bill Maher&#8217;s two Ariana Grande weight jokes during his opening monologue on Friday&#8217;s Real Time With Bill Maher were met with mixed audience reactions. Maher sidled up to the subject by recapping some of the bad news of the week, then saying, “I [&#8230;]]]>
-      </description>
-      <source:markdown>Too soon, too tasteless or just too cruel, take your pick, but Bill Maher’s two Ariana Grande weight jokes during his opening monologue on Friday’s Real Time With Bill Maher were met with mixed audience reactions. Maher sidled up to the subject by recapping some of the bad news of the week, then saying, “I \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1237029302</guid>
-      <category>News</category>
-      <category>Ariana Grande</category>
-      <category>Bill Maher</category>
-    </item>    <item>
-      <title>CNN Anchor Sara Sidner Reveals Harrowing False Stage 4 Cancer Scare</title>
-      <link>https://deadline.com/2026/08/sara-sidner-cnn-false-stage-4-cancer-scare-1237029297/</link>
-      <description>
-        <![CDATA[CNN&#8217;s Sara Sidner, who first revealed a stage 3 breast cancer diagnoses two years ago and has occasionally provided updates with her audience since, is now sharing a harrowing experience that had the anchor struggling through &#8220;15 days of torture&#8221; under the mistaken notion that her cancer had advanced to an incurable stage 4. Directly [&#8230;]]]>
-      </description>
-      <source:markdown>CNN’s Sara Sidner, who first revealed a stage 3 breast cancer diagnoses two years ago and has occasionally provided updates with her audience since, is now sharing a harrowing experience that had the anchor struggling through “15 days of torture” under the mistaken notion that her cancer had advanced to an incurable stage 4. Directly \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1237029297</guid>
-      <category>News</category>
-      <category>CNN</category>
-      <category>Sara Sidner</category>
-    </item>    <item>
-      <title>Dragoncatcher: WSJPT</title>
-      <link>https://www.robinsloan.com/lab/wsjpt/</link>
-      <description>
-        <![CDATA[<p>In-house tools. <a href="https://www.robinsloan.com/lab/wsjpt/">Read here.</a></p>]]>
-      </description>
-      <source:markdown>In-house tools. [Read here.](https://www.robinsloan.com/lab/wsjpt/)</source:markdown>
-      <guid>cid://https://www.robinsloan.com/lab/wsjpt/</guid>
-    </item>    <item>
-      <title>Talking With G. Elliott Morris About the Midterms</title>
-      <link>https://paulkrugman.substack.com/p/talking-with-g-elliott-morris-about</link>
-      <description>
-        <![CDATA[Why he says this is a wave election.]]>
-      </description>
-      <source:markdown>Why he says this is a wave election.</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/210327726/7f59a9b31db08ce379e523286771d034.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/talking-with-g-elliott-morris-about</guid>
-    </item>    <item>
-      <title>Lit Hub Weekly: August 3 – 7, 2026</title>
-      <link>https://lithub.com/lit-hub-weekly-august-3-7-2026/</link>
-      <description>
-        <![CDATA[Carly Mattox considers Jennette McCurdy’s Half His Age and reckons with the long literary history of age gap relationships. &#124; Lit Hub Memoir Why mothers and their babies are the ultimate flâneurs, even if “there aren’t a lot of mother-flâneurs]]>
-      </description>
-      <source:markdown>Carly Mattox considers Jennette McCurdy’s Half His Age and reckons with the long literary history of age gap relationships. \| Lit Hub Memoir Why mothers and their babies are the ultimate flâneurs, even if “there aren’t a lot of mother-flâneurs</source:markdown>
-      <guid>cid://https://lithub.com/?p=275460</guid>
-      <category>Lit Hub Daily</category>
-    </item>    <item>
-      <title>How everyday Americans are forced to fund Trump&#39;s corruption</title>
-      <link>https://www.publicnotice.co/p/trump-corruption-quantified</link>
-      <description>
-        <![CDATA[On top of his self-dealing, taxpayers are spending billions on his vanity projects.]]>
-      </description>
-      <source:markdown>On top of his self-dealing, taxpayers are spending billions on his vanity projects.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!oGA_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c1973a9-9c66-46ab-8a74-60336b09c517_5294x3529.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.publicnotice.co/p/trump-corruption-quantified</guid>
-    </item>    <item>
-      <title>Pluralistic: Digital sewer socialism (08 Aug 2026)</title>
-      <link>https://pluralistic.net/2026/08/08/find-yourself-a-city/</link>
-      <description>
-        <![CDATA[Today's links Digital sewer socialism: Mamdani's Public Interest Technologists are what DOGE should have been. Hey look at this: Delights to delectate. Object permanence: Robot garage takes hostages; Thermostat ransomware; Correlate audience exhalations; Judges x TOR; Expectations management. Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Digital sewer socialism (permalink) Hardly a day goes by without my getting an email from someone looking for a way to do good with technology. From computer science students thinking about post-grad careers to seasoned coders with decades of experience, there's an army of hackers looking for a way to turn their expertise into public goods. There's a name for this movement: it's called "Public Interest Technology" and the people who work in it are called "public interest technologists." There've always been techies who understood the link between tech and public wellbeing and who committed themselves to working for the betterment of society, but their numbers swelled as Big Tech companies saturated their markets and switched from growing by making products people like, to locking in their users and then extracting more value from their technological prisoners: https://pluralistic.net/2024/04/24/naming-names/#prabhakar-raghavan It was the era when (in the words of Facebook's Jeff Hammerbacher) "The best minds of my generation are thinking about how to make people click ads": https://quoteinvestigator.com/2017/06/12/click/ For organizations like the Electronic Frontier Foundation, the growing cohort of hackers who wanted to hack for good was great news. Our staff technologist group swelled from a couple of overworked computer scientists helping lawyers and activists with campaigns to a series of increasingly ambitious software projects, from Privacy Badger (a tracking-blocker that every web user needs): https://privacybadger.org/ To Let's Encrypt and Certbot, projects that forever changed the internet's default state, so that today, nearly all online communications are encrypted and resistant to mass surveillance: https://certbot.eff.org/ Other opportunities for public interest technologists proliferated. Bruce Schneier created the canonical resource page for Public Interest Technologists, including career opportunities for would-be public interest technologists: https://public-interest-tech.com/ But the motherlode of public interest technologist opportunities wasn't the nonprofit sector &#8211; it was the public sector. It started with the UK's Government Digital Service, a group of public-spirited hackers (many of them ex- of the BBC, where they'd been tempest-tossed by endless internal power-struggles over the role of the internet in public service media) who retooled many of the UK government's most important administrative front-ends. For several glorious years, Britons delighted to the daily marvel of having their routine interactions with their government transformed from clunky, broken web-pages to slick, superbly thought through online processes that had all the polish of Amazon or Google, but without any of the gamesmanship, manipulation or privacy invasions: https://en.wikipedia.org/wiki/Government_Digital_Service Despite many attempts at official sabotage by a string of increasingly shambolic UK governments, the GDS still exists, and it still does amazing work, even though it operates today with a fraction of the official support that it enjoyed at its inception. The last time I renewed my UK passport, I was gobsmacked by how easy and sensible the process was. Local authorities have gotten in on the act, too: I renewed my absentee voting registration with Hackney Council last week and it was as simple as scanning a QR code, affirming my details, and clicking "submit." Around the world, a generation of public sector technologists duplicated and improved on the UK GDS's work. In Taiwan, a rogue public interest hacker named Audrey Tang led a group of digital guerrillas in creating shadow versions of every Taiwanese government website that scraped and remade the entire digital presence of the Taiwanese state to make public information and services accessible, legible and useful to its people. After the next election, Tang was named Taiwan's first ever Minister of Digital Affairs (today, she is a Taiwanese "Ambassador-At-Large"): https://en.wikipedia.org/wiki/Audrey_Tang In the USA, Jen Pahlka went from running a ragtag "civic hacking" org called Code For America to helping to found the United States Digital Service under Obama, bringing some of that UK GDS spirit to America's dreadful online presence, which had been largely built and maintained by beltway bandits who'd billed handsomely and delivered some of the internet's greatest crimes against usability: https://en.wikipedia.org/wiki/United_States_Digital_Service But the USDS's legacy is bitter. In 2025, USDS was effectively dismantled and replaced with DOGE, Elon Musk's handpicked team of tech-bro cultists who set out to dismantle as much of the US government as possible, deliberately sabotaging the usability of America's governmental systems to make it harder for the public to access the services they are entitled to and pay for with their taxes. My own run-in with this was my attempt to get a certificate of citizenship for my daughter when she turned 18: all I could find was an online form that started by requiring me to list the dates and flight numbers for every trip I'd taken to the USA from the time I was born to the day I became a US citizen, a 50+ year period that started with a trip to visit my snowbird grandparents in Florida when I was six months old. The entire support and advice service for the US Customs and Immigration Service has been replaced with a DOGE chatbot that repeatedly emails and texts links to the form, no matter what question you ask, and no matter whether you call, email or use the website's chat interface: https://pluralistic.net/2026/02/06/doge-ball/#n-600 Many of the DOGE kids were monsters. The most chilling DOGE story I've heard was the anonymous testimony of NIH officials who begged the DOGE children who were dismantling their work to spare some long-running cancer research projects whose great promise would be vaporized if they were interrupted. The DOGE kids laughed at these entreaties, saying that once Musk had perfected "General AI" we wouldn't need cancer research, because their tame AI god would cure cancer. But not every DOGE operator was a digital arsonist. Take Dan Berulis, a DOGE staffer who came out of the private sector and later turned whistleblower over the group's activities, who now faces assassination attempts: https://www.wired.com/story/he-blew-the-whistle-on-doge-then-his-brakes-were-cut/ Berulis joined DOGE to improve America's digital infrastructure, not to dismantle it. When he talks about his motives, he sounds like an early GDS pioneer, one of Audrey Tang's direct-action government data scrapers, or one of the Code For America hackers who followed Pahlka to USDS: https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security DOGE was a catastrophe. It left America's government digital presence in far worse shape than it found it, and even the modest savings it claimed to have made from all this destruction turn out to be lies: https://www.yahoo.com/news/politics/articles/elon-musk-doge-made-big-110000036.html But as Berulis demonstrates, there is a bipartisan group of skilled, ethical technologists who are desperate to do meaningful public interest work. Their numbers swell every day, as Big Tech continues to curdle &#8211; no longer merely sclerotic and enshittifying monopolies, now active participants in Trump's authoritarian dismantling of democracy itself: https://pluralistic.net/2025/10/06/america-with-chinese-characteristics/#orphaned-syrian-refugees-need-not-apply Tech bosses' gleeful mass layoffs mean that tech workers can no longer count on good treatment and stable, high-earning careers; at the same time, tech bosses' betrayal of democracy makes the prospect of working for a tech company far more ethically dubious than mere ad-tech optimizations. The result is a bumper crop of geeks looking for ways to do good with their lives and skills &#8211; as all the emails in my inbox asking for advice about this attests. Enter NYC Mayor Zohran Mamdani, who has made "public excellence" the cornerstone of his politics, hiring the most skilled workers he can find and then giving them all the authority and resources they need to fix 100,000 potholes, bring New York's worst landlords to justice, and deliver every day for all the people of New York: https://pluralistic.net/2025/11/15/unconscionability/#standalone-authority Mamdani has just unveiled his Public Interest Technology (PIT) Crews: five "game changing" teams of public interest hackers who will remake NYC's digital services: https://www.nyc.gov/mayors-office/news/2026/07/transcript&#8211;mayor-mamdani-launches&#8211;public-interest-technology&#8211; Writing for Wired, Steven "Hackers" Levy paints a portrait of New York's PIT Crews, describing them as "what DOGE should have been": https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/ I'll go farther than that: the PIT Crews &#8211; and Mamdani's project as a whole &#8211; is delivering the entire failed promise of DOGE. Unlike Musk and Trump, Mamdani is actually rooting out fraud and waste. The reason Mamdani can do this &#8211; and the reason billionaires can't &#8211; is that the fraud and waste that undermines governments at all levels come from the super-rich, with their tax-dodging, their no-bid contracts, their addiction to public subsidies. Musk owes his riches to federal bailouts and contracts: if he wants to "eliminate government fraud and waste" he should turn over his files to an IRS inspector (if he can find a survivor of the DOGE massacre) and surrender himself for a lengthy prison sentence. For Musk, "government fraud and waste" is a single mom on food stamps who misses a box on a 600-page form because she's exhausted from working three jobs to make rent &#8211; not a no-bid contractor trousering billions in public funds for projects that overcharge and underdeliver. Mamdani's PIT Crews are "small groups of engineers and designers will strive to change the hidebound and confusing nature of current city services by using state-of-art skills to rapidly whip up specialized apps that solve real problems." Mamdani says that they'll "raise expectations on what government can deliver, because we really can deliver." As Levy describes it, the big difference between the Obama-era USDS and 2026's PIT Crews is "a skeptical, almost adversarial, stance toward Big Tech." NYC's PIT Crews explicitly recruit top-tier hacker talent who want to "make software that doesn't serve advertisers, the military, or the pocketbooks of centibillionaires." Their inaugural chief is Lisa Gelobter, a veteran of both tech firms and the USDS, who says that "Without technology, policy is just words written on a piece of paper." The first project on her roster is implementing "Click to Cancel," a policy inaugurated by Lina Khan, Biden's FTC Chief &#8211; and then dismantled by Trump. Under Click to Cancel, companies are required to create one-click workflows to cancel subscriptions and memberships, ending the pernicious, incredibly profitable practice of trapping people with impossible-to-halt recurring billings. Today, Khan is running Mamdani's Economic Development Board, and her Click to Cancel rule is back &#8211; for New Yorkers, at least: https://www.theguardian.com/us-news/2026/jul/22/lina-khan-nyc-economic-development-board NYC PIT Crew's new Click to Cancel site will be live when the policy takes effect on Oct 1. It's a whistleblower site that will make it easy to report merchants who make it hard to get shut of their online Roach Motels (users check in, but they don't check out). It's estimated the Click to Cancel rule will save New Yorkers $160m in the first year alone &#8211; but only if Mamdani can enforce it, which is why this website is so critical. This focus on meat-and-potatoes service delivery was once dismissed as "sewer socialism," an unserious form of progressive politics with an undue focus on improving people's daily lives at the expense of high-flying political change. Today, Mamdani is at the vanguard of an army of proud sewer socialists, who say that once you deliver for people in their day-to-day existence, they will trust you and back you when you fight for deep, structural changes (and the corollary: if you can't deliver for people in their daily lives, why should they trust you when you claim that you'll make everything better?): https://prospect.org/2026/04/10/zohran-mamdani-getting-new-york-city-believe-in-government/ 3,000 techies applied for 35 jobs with NYC's PIT Crews, and, as Levy writes, many of them are high-flying senior coders who are willing to take a massive pay-cut and forfeit their stock options to do something that's both technically excellent and meaningful to their users' lives. It's a clear message to other leaders, at every level of government. Many of the most skilled, ambitious people in every field want to make the world a better place. Every city, county and state could use a squadron of PIT Crews, and there's an army of coders who would give anything for the chance to give everything to make a better world. Hey look at this (permalink) What Was the Internet? https://www.bostonreview.net/articles/what-was-the-internet/ BMW Suddenly Blasts Its Cars’ Internal Screens With Aggressive Advertisements https://futurism.com/advanced-transport/bmw-suddenly-blasts-cars-advertisements People in the midwest know what a livestream is https://www.garbageday.email/p/people-in-the-midwest-know-what-a-livestream-is how Google can go legit https://blog.zgp.org/how-google-can-go-legit/ The Yardstick That Ate the Market https://itsg13.substack.com/p/the-yardstick-that-ate-the-market Object permanence (permalink) #25yrsago Moscow's pirate music market https://web.archive.org/web/20010912203143/https://www.wired.com/news/culture/0,1284,45908,00.html #25yrsago Webcomics v trad comics https://web.archive.org/web/20010821073756/https://www.salon.com/tech/feature/2001/08/09/comics/index.html #25yrsago Aussie teens are addicted to their phones https://web.archive.org/web/20010818220523/http://news.ninemsn.com.au/national/story_5807.asp #20yrsago Canadian librarians decry “Captain Copyright” https://web.archive.org/web/20060813004140/https://cla.ca/Access_Copyright_CptCopy_let_Final_.pdf #20yrsago TiVo/Macrovision screw up breaks devices again https://zatznotfunny.com/2006-08/tivo-macrovision-and-the-stealth-broadcast-flag/ #20yrsago Will the Supreme Court strike down the TSA’s secret laws? https://papersplease.org/gilmore/ #20yrsago Robot garage loses software license, strands parkers https://web.archive.org/web/20060809213517/https://www.wired.com/news/technology/0,71554-0.html?tw=wn_index_1 #15yrsago Typewriter-part penguin https://web.archive.org/web/20111116020049/http://jemayer.tumblr.com/post/8674700147 #15yrsago Choosing Android because you don’t trust Google https://www.theguardian.com/technology/2011/aug/09/technology-failure-more-important-than-success #15yrsago HOWTO sound Canadian https://web.archive.org/web/20110610104919/http://www.oed.com/public/canadianenglish #15yrsago Lev Grossman’s The Magician King: fantasy sequel, the banality of magic and the magic of banality https://memex.craphound.com/2011/08/09/lev-grossmans-the-magician-king-fantasy-sequel-the-banality-of-magic-and-the-magic-of-banality/ #10yrsago Rosie the Riveter, Ghostbusters edition https://www.deviantart.com/hugohugo/art/We-Can-Bust-It-621803816 #10yrsago Thai telcoms regulator wants tourists to use location-tracking SIMs https://web.archive.org/web/20160812182254/https://www.nationmultimedia.com/breakingnews/Thailand-mulls-location-tracking-tourist-SIM-cards-30292551.html #10yrsago Mysterious medical research consortium: we should own volunteers’ clinical trial data for 5 years https://www.techdirt.com/2016/08/08/medical-researchers-want-up-to-five-years-exclusivity-clinical-trial-data-derived-volunteers/ #10yrsago Illegal “Warranty Void If Removed” still ubiquitous: they’re on the Xbox One S https://web.archive.org/web/20160809092923/https://motherboard.vice.com/read/the-xbox-one-s-still-uses-microsofts-illegal-warranty-void-if-removed-sticker #10yrsago Your medical data: misappropriated by health-tech companies, off-limits to you https://web.archive.org/web/20180806230935/https://www.wired.com/2016/02/our-medical-data-must-become-free/ #10yrsago Return of Dieselgate: 3 more hidden programs found in VW Audi/Porsche firmware https://www.reuters.com/article/us-volkswagen-emissions-audi-idUSKCN10I0PB/ #10yrsago Timelapse of pills dissolving: “decaying clowns” https://www.youtube.com/watch?v=4rY3X4xafs0 #10yrsago Proof-of-concept ransomware for smart thermostats demoed at Defcon https://web.archive.org/web/20161020083358/https://www.pentestpartners.com/blog/thermostat-ransomware-a-lesson-in-iot-security/ #10yrsago Compounds in human exhalations during movies vary in response to suspense and comedy https://www.nature.com/articles/srep25464 #10yrsago How racist traffic stops criminalize black people, and what to do about it https://www.vox.com/2016/8/5/12364580/police-overcriminalization-net-widening #10yrsago Chicago cops switched off bodycams and high-fived after shooting unarmed black teen https://web.archive.org/web/20160807194244/http://www.theroot.com/articles/news/2016/08/chicago-pd-paul-oneal-video/ #10yrsago DoJ to judges: use Tor to protect your internet connection https://web.archive.org/web/20160807025945/http://motherboard.vice.com/read/department-of-justice-official-tells-hundred-federal-judges-to-use-tor #5yrsago Expectations management pluralistic.net/2021/08/08/expectations-management-part-v/ #5yrsago When your boss wants an AI camera in your bedroom https://pluralistic.net/2021/08/09/computer-says-no/#disciplinary-tech #5yrsago The 22 Murders of Madison May https://pluralistic.net/2021/08/09/computer-says-no/#existential-crisis #1yrago Millionaire on billionaire violence https://pluralistic.net/2025/08/09/elite-disunity/#awoken-giants Upcoming appearances (permalink) Virtual: EFFecting Change: Who the Machine Serves, Aug 12 https://www.eff.org/event/effecting-change-who-machine-serves Edinburgh International Book Festival with Jimmy Wales, Aug 17 https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales Sydney: The Festival of Dangerous Ideas, Aug 23-24 https://festivalofdangerousideas.com/program/ Melbourne: Enshittification at the Wheeler Centre, Aug 25 https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification Brighton: The Reverse Centaur's Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8 https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/ London: The Reverse Centaur's Guide to Life After AI with Riley Quinn (Foyle's Picadilly), Sep 9 https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn South Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6 https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/ Vancouver: BC Policy Solutions Gala, Nov 12 https://bcpolicy.ca/gala/ Recent appearances (permalink) The AI Enshittification Bubble (Hidden Forces) https://hiddenforces.io/podcasts/the-ai-enshittification-bubble-cory-doctorow/ F@#$ the AI Overlords (On The Media) https://www.wnycstudios.org/podcasts/otm/articles/f-the-ai-overlords Why AI Won't Replace Workers, But Will Crash The Economy (Smart Cookies) https://www.youtube.com/watch?v=rRRmUuxJolY AI and the Enshittification Era (The Weekly Show with Jon Stewart) https://www.youtube.com/watch?v=-dAIJRjb-Bw AI is not inevitable (Betakit) https://www.youtube.com/watch?v=DbiTVkq1WHo Latest books (permalink) "The Reverse-Centaur's Guide to AI," a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/ "Canny Valley": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce "Enshittification: Why Everything Suddenly Got Worse and What to Do About It," Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ "Picks and Shovels": a sequel to "Red Team Blues," about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). "The Bezzle": a sequel to "Red Team Blues," about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). "The Lost Cause:" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). "The Internet Con": A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). "Red Team Blues": "A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before." Tor Books http://redteamblues.com. "Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) "The Post-American Internet," a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 "Unauthorized Bread": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 "Enshittification, Why Everything Suddenly Got Worse and What to Do About It" (the graphic novel), Firstsecond, 2027 "The Memex Method," Farrar, Straus, Giroux, 2027 Colophon (permalink) Today's top sources: Currently writing: “Once Is Enemy Action,” a science fiction novel about the origins of modern technofascism. Friday's words: 564 (2916 total). "The Post-American Internet," a sequel to "Enshittification," about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor. A Little Brother short story about DIY insulin PLANNING This work &#8211; excluding any serialized fiction &#8211; is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic "When life gives you SARS, you make sarsaparilla" -Joey "Accordion Guy" DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies ("BOGUS AGREEMENTS") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X]]>
-      </description>
-      <source:markdown>Today&#39;s links Digital sewer socialism: Mamdani&#39;s Public Interest Technologists are what DOGE should have been. Hey look at this: Delights to delectate. Object permanence: Robot garage takes hostages; Thermostat ransomware; Correlate audience exhalations; Judges x TOR; Expectations management. Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I&#39;ve been. Latest books: You keep readin&#39; em, I&#39;ll keep writin&#39; &#39;em. Upcoming books: Like I said, I&#39;ll keep writin&#39; &#39;em. Colophon: All the rest. Digital sewer socialism (permalink) Hardly a day goes by without my getting an email from someone looking for a way to do good with technology. From computer science students thinking about post-grad careers to seasoned coders with decades of experience, there&#39;s an army of hackers looking for a way to turn their expertise into public goods. There&#39;s a name for this movement: it&#39;s called &#34;Public Interest Technology&#34; and the people who work in it are called &#34;public interest technologists.&#34; There&#39;ve always been techies who understood the link between tech and public wellbeing and who committed themselves to working for the betterment of society, but their numbers swelled as Big Tech companies saturated their markets and switched from growing by making products people like, to locking in their users and then extracting more value from their technological prisoners: https://pluralistic.net/2024/04/24/naming-names/#prabhakar-raghavan It was the era when (in the words of Facebook&#39;s Jeff Hammerbacher) &#34;The best minds of my generation are thinking about how to make people click ads&#34;: https://quoteinvestigator.com/2017/06/12/click/ For organizations like the Electronic Frontier Foundation, the growing cohort of hackers who wanted to hack for good was great news. Our staff technologist group swelled from a couple of overworked computer scientists helping lawyers and activists with campaigns to a series of increasingly ambitious software projects, from Privacy Badger (a tracking-blocker that every web user needs): https://privacybadger.org/ To Let&#39;s Encrypt and Certbot, projects that forever changed the internet&#39;s default state, so that today, nearly all online communications are encrypted and resistant to mass surveillance: https://certbot.eff.org/ Other opportunities for public interest technologists proliferated. Bruce Schneier created the canonical resource page for Public Interest Technologists, including career opportunities for would-be public interest technologists: https://public-interest-tech.com/ But the motherlode of public interest technologist opportunities wasn&#39;t the nonprofit sector – it was the public sector. It started with the UK&#39;s Government Digital Service, a group of public-spirited hackers (many of them ex- of the BBC, where they&#39;d been tempest-tossed by endless internal power-struggles over the role of the internet in public service media) who retooled many of the UK government&#39;s most important administrative front-ends. For several glorious years, Britons delighted to the daily marvel of having their routine interactions with their government transformed from clunky, broken web-pages to slick, superbly thought through online processes that had all the polish of Amazon or Google, but without any of the gamesmanship, manipulation or privacy invasions: https://en.wikipedia.org/wiki/Government\_Digital\_Service Despite many attempts at official sabotage by a string of increasingly shambolic UK governments, the GDS still exists, and it still does amazing work, even though it operates today with a fraction of the official support that it enjoyed at its inception. The last time I renewed my UK passport, I was gobsmacked by how easy and sensible the process was. Local authorities have gotten in on the act, too: I renewed my absentee voting registration with Hackney Council last week and it was as simple as scanning a QR code, affirming my details, and clicking &#34;submit.&#34; Around the world, a generation of public sector technologists duplicated and improved on the UK GDS&#39;s work. In Taiwan, a rogue public interest hacker named Audrey Tang led a group of digital guerrillas in creating shadow versions of every Taiwanese government website that scraped and remade the entire digital presence of the Taiwanese state to make public information and services accessible, legible and useful to its people. After the next election, Tang was named Taiwan&#39;s first ever Minister of Digital Affairs (today, she is a Taiwanese &#34;Ambassador-At-Large&#34;): https://en.wikipedia.org/wiki/Audrey\_Tang In the USA, Jen Pahlka went from running a ragtag &#34;civic hacking&#34; org called Code For America to helping to found the United States Digital Service under Obama, bringing some of that UK GDS spirit to America&#39;s dreadful online presence, which had been largely built and maintained by beltway bandits who&#39;d billed handsomely and delivered some of the internet&#39;s greatest crimes against usability: https://en.wikipedia.org/wiki/United\_States\_Digital\_Service But the USDS&#39;s legacy is bitter. In 2025, USDS was effectively dismantled and replaced with DOGE, Elon Musk&#39;s handpicked team of tech-bro cultists who set out to dismantle as much of the US government as possible, deliberately sabotaging the usability of America&#39;s governmental systems to make it harder for the public to access the services they are entitled to and pay for with their taxes. My own run-in with this was my attempt to get a certificate of citizenship for my daughter when she turned 18: all I could find was an online form that started by requiring me to list the dates and flight numbers for every trip I&#39;d taken to the USA from the time I was born to the day I became a US citizen, a 50+ year period that started with a trip to visit my snowbird grandparents in Florida when I was six months old. The entire support and advice service for the US Customs and Immigration Service has been replaced with a DOGE chatbot that repeatedly emails and texts links to the form, no matter what question you ask, and no matter whether you call, email or use the website&#39;s chat interface: https://pluralistic.net/2026/02/06/doge-ball/#n-600 Many of the DOGE kids were monsters. The most chilling DOGE story I&#39;ve heard was the anonymous testimony of NIH officials who begged the DOGE children who were dismantling their work to spare some long-running cancer research projects whose great promise would be vaporized if they were interrupted. The DOGE kids laughed at these entreaties, saying that once Musk had perfected &#34;General AI&#34; we wouldn&#39;t need cancer research, because their tame AI god would cure cancer. But not every DOGE operator was a digital arsonist. Take Dan Berulis, a DOGE staffer who came out of the private sector and later turned whistleblower over the group&#39;s activities, who now faces assassination attempts: https://www.wired.com/story/he-blew-the-whistle-on-doge-then-his-brakes-were-cut/ Berulis joined DOGE to improve America&#39;s digital infrastructure, not to dismantle it. When he talks about his motives, he sounds like an early GDS pioneer, one of Audrey Tang&#39;s direct-action government data scrapers, or one of the Code For America hackers who followed Pahlka to USDS: https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security DOGE was a catastrophe. It left America&#39;s government digital presence in far worse shape than it found it, and even the modest savings it claimed to have made from all this destruction turn out to be lies: https://www.yahoo.com/news/politics/articles/elon-musk-doge-made-big-110000036.html But as Berulis demonstrates, there is a bipartisan group of skilled, ethical technologists who are desperate to do meaningful public interest work. Their numbers swell every day, as Big Tech continues to curdle – no longer merely sclerotic and enshittifying monopolies, now active participants in Trump&#39;s authoritarian dismantling of democracy itself: https://pluralistic.net/2025/10/06/america-with-chinese-characteristics/#orphaned-syrian-refugees-need-not-apply Tech bosses&#39; gleeful mass layoffs mean that tech workers can no longer count on good treatment and stable, high-earning careers; at the same time, tech bosses&#39; betrayal of democracy makes the prospect of working for a tech company far more ethically dubious than mere ad-tech optimizations. The result is a bumper crop of geeks looking for ways to do good with their lives and skills – as all the emails in my inbox asking for advice about this attests. Enter NYC Mayor Zohran Mamdani, who has made &#34;public excellence&#34; the cornerstone of his politics, hiring the most skilled workers he can find and then giving them all the authority and resources they need to fix 100,000 potholes, bring New York&#39;s worst landlords to justice, and deliver every day for all the people of New York: https://pluralistic.net/2025/11/15/unconscionability/#standalone-authority Mamdani has just unveiled his Public Interest Technology (PIT) Crews: five &#34;game changing&#34; teams of public interest hackers who will remake NYC&#39;s digital services: https://www.nyc.gov/mayors-office/news/2026/07/transcript–mayor-mamdani-launches–public-interest-technology– Writing for Wired, Steven &#34;Hackers&#34; Levy paints a portrait of New York&#39;s PIT Crews, describing them as &#34;what DOGE should have been&#34;: https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/ I&#39;ll go farther than that: the PIT Crews – and Mamdani&#39;s project as a whole – is delivering the entire failed promise of DOGE. Unlike Musk and Trump, Mamdani is actually rooting out fraud and waste. The reason Mamdani can do this – and the reason billionaires can&#39;t – is that the fraud and waste that undermines governments at all levels come from the super-rich, with their tax-dodging, their no-bid contracts, their addiction to public subsidies. Musk owes his riches to federal bailouts and contracts: if he wants to &#34;eliminate government fraud and waste&#34; he should turn over his files to an IRS inspector (if he can find a survivor of the DOGE massacre) and surrender himself for a lengthy prison sentence. For Musk, &#34;government fraud and waste&#34; is a single mom on food stamps who misses a box on a 600-page form because she&#39;s exhausted from working three jobs to make rent – not a no-bid contractor trousering billions in public funds for projects that overcharge and underdeliver. Mamdani&#39;s PIT Crews are &#34;small groups of engineers and designers will strive to change the hidebound and confusing nature of current city services by using state-of-art skills to rapidly whip up specialized apps that solve real problems.&#34; Mamdani says that they&#39;ll &#34;raise expectations on what government can deliver, because we really can deliver.&#34; As Levy describes it, the big difference between the Obama-era USDS and 2026&#39;s PIT Crews is &#34;a skeptical, almost adversarial, stance toward Big Tech.&#34; NYC&#39;s PIT Crews explicitly recruit top-tier hacker talent who want to &#34;make software that doesn&#39;t serve advertisers, the military, or the pocketbooks of centibillionaires.&#34; Their inaugural chief is Lisa Gelobter, a veteran of both tech firms and the USDS, who says that &#34;Without technology, policy is just words written on a piece of paper.&#34; The first project on her roster is implementing &#34;Click to Cancel,&#34; a policy inaugurated by Lina Khan, Biden&#39;s FTC Chief – and then dismantled by Trump. Under Click to Cancel, companies are required to create one-click workflows to cancel subscriptions and memberships, ending the pernicious, incredibly profitable practice of trapping people with impossible-to-halt recurring billings. Today, Khan is running Mamdani&#39;s Economic Development Board, and her Click to Cancel rule is back – for New Yorkers, at least: https://www.theguardian.com/us-news/2026/jul/22/lina-khan-nyc-economic-development-board NYC PIT Crew&#39;s new Click to Cancel site will be live when the policy takes effect on Oct 1. It&#39;s a whistleblower site that will make it easy to report merchants who make it hard to get shut of their online Roach Motels (users check in, but they don&#39;t check out). It&#39;s estimated the Click to Cancel rule will save New Yorkers $160m in the first year alone – but only if Mamdani can enforce it, which is why this website is so critical. This focus on meat-and-potatoes service delivery was once dismissed as &#34;sewer socialism,&#34; an unserious form of progressive politics with an undue focus on improving people&#39;s daily lives at the expense of high-flying political change. Today, Mamdani is at the vanguard of an army of proud sewer socialists, who say that once you deliver for people in their day-to-day existence, they will trust you and back you when you fight for deep, structural changes (and the corollary: if you can&#39;t deliver for people in their daily lives, why should they trust you when you claim that you&#39;ll make everything better?): https://prospect.org/2026/04/10/zohran-mamdani-getting-new-york-city-believe-in-government/ 3,000 techies applied for 35 jobs with NYC&#39;s PIT Crews, and, as Levy writes, many of them are high-flying senior coders who are willing to take a massive pay-cut and forfeit their stock options to do something that&#39;s both technically excellent and meaningful to their users&#39; lives. It&#39;s a clear message to other leaders, at every level of government. Many of the most skilled, ambitious people in every field want to make the world a better place. Every city, county and state could use a squadron of PIT Crews, and there&#39;s an army of coders who would give anything for the chance to give everything to make a better world. Hey look at this (permalink) What Was the Internet? https://www.bostonreview.net/articles/what-was-the-internet/ BMW Suddenly Blasts Its Cars’ Internal Screens With Aggressive Advertisements https://futurism.com/advanced-transport/bmw-suddenly-blasts-cars-advertisements People in the midwest know what a livestream is https://www.garbageday.email/p/people-in-the-midwest-know-what-a-livestream-is how Google can go legit https://blog.zgp.org/how-google-can-go-legit/ The Yardstick That Ate the Market https://itsg13.substack.com/p/the-yardstick-that-ate-the-market Object permanence (permalink) #25yrsago Moscow&#39;s pirate music market https://web.archive.org/web/20010912203143/https://www.wired.com/news/culture/0,1284,45908,00.html #25yrsago Webcomics v trad comics https://web.archive.org/web/20010821073756/https://www.salon.com/tech/feature/2001/08/09/comics/index.html #25yrsago Aussie teens are addicted to their phones https://web.archive.org/web/20010818220523/http://news.ninemsn.com.au/national/story\_5807.asp #20yrsago Canadian librarians decry “Captain Copyright” https://web.archive.org/web/20060813004140/https://cla.ca/Access\_Copyright\_CptCopy\_let\_Final\_.pdf #20yrsago TiVo/Macrovision screw up breaks devices again https://zatznotfunny.com/2006-08/tivo-macrovision-and-the-stealth-broadcast-flag/ #20yrsago Will the Supreme Court strike down the TSA’s secret laws? https://papersplease.org/gilmore/ #20yrsago Robot garage loses software license, strands parkers https://web.archive.org/web/20060809213517/https://www.wired.com/news/technology/0,71554-0.html?tw=wn\_index\_1 #15yrsago Typewriter-part penguin https://web.archive.org/web/20111116020049/http://jemayer.tumblr.com/post/8674700147 #15yrsago Choosing Android because you don’t trust Google https://www.theguardian.com/technology/2011/aug/09/technology-failure-more-important-than-success #15yrsago HOWTO sound Canadian https://web.archive.org/web/20110610104919/http://www.oed.com/public/canadianenglish #15yrsago Lev Grossman’s The Magician King: fantasy sequel, the banality of magic and the magic of banality https://memex.craphound.com/2011/08/09/lev-grossmans-the-magician-king-fantasy-sequel-the-banality-of-magic-and-the-magic-of-banality/ #10yrsago Rosie the Riveter, Ghostbusters edition https://www.deviantart.com/hugohugo/art/We-Can-Bust-It-621803816 #10yrsago Thai telcoms regulator wants tourists to use location-tracking SIMs https://web.archive.org/web/20160812182254/https://www.nationmultimedia.com/breakingnews/Thailand-mulls-location-tracking-tourist-SIM-cards-30292551.html #10yrsago Mysterious medical research consortium: we should own volunteers’ clinical trial data for 5 years https://www.techdirt.com/2016/08/08/medical-researchers-want-up-to-five-years-exclusivity-clinical-trial-data-derived-volunteers/ #10yrsago Illegal “Warranty Void If Removed” still ubiquitous: they’re on the Xbox One S https://web.archive.org/web/20160809092923/https://motherboard.vice.com/read/the-xbox-one-s-still-uses-microsofts-illegal-warranty-void-if-removed-sticker #10yrsago Your medical data: misappropriated by health-tech companies, off-limits to you https://web.archive.org/web/20180806230935/https://www.wired.com/2016/02/our-medical-data-must-become-free/ #10yrsago Return of Dieselgate: 3 more hidden programs found in VW Audi/Porsche firmware https://www.reuters.com/article/us-volkswagen-emissions-audi-idUSKCN10I0PB/ #10yrsago Timelapse of pills dissolving: “decaying clowns” https://www.youtube.com/watch?v=4rY3X4xafs0 #10yrsago Proof-of-concept ransomware for smart thermostats demoed at Defcon https://web.archive.org/web/20161020083358/https://www.pentestpartners.com/blog/thermostat-ransomware-a-lesson-in-iot-security/ #10yrsago Compounds in human exhalations during movies vary in response to suspense and comedy https://www.nature.com/articles/srep25464 #10yrsago How racist traffic stops criminalize black people, and what to do about it https://www.vox.com/2016/8/5/12364580/police-overcriminalization-net-widening #10yrsago Chicago cops switched off bodycams and high-fived after shooting unarmed black teen https://web.archive.org/web/20160807194244/http://www.theroot.com/articles/news/2016/08/chicago-pd-paul-oneal-video/ #10yrsago DoJ to judges: use Tor to protect your internet connection https://web.archive.org/web/20160807025945/http://motherboard.vice.com/read/department-of-justice-official-tells-hundred-federal-judges-to-use-tor #5yrsago Expectations management pluralistic.net/2021/08/08/expectations-management-part-v/ #5yrsago When your boss wants an AI camera in your bedroom https://pluralistic.net/2021/08/09/computer-says-no/#disciplinary-tech #5yrsago The 22 Murders of Madison May https://pluralistic.net/2021/08/09/computer-says-no/#existential-crisis #1yrago Millionaire on billionaire violence https://pluralistic.net/2025/08/09/elite-disunity/#awoken-giants Upcoming appearances (permalink) Virtual: EFFecting Change: Who the Machine Serves, Aug 12 https://www.eff.org/event/effecting-change-who-machine-serves Edinburgh International Book Festival with Jimmy Wales, Aug 17 https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales Sydney: The Festival of Dangerous Ideas, Aug 23-24 https://festivalofdangerousideas.com/program/ Melbourne: Enshittification at the Wheeler Centre, Aug 25 https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification Brighton: The Reverse Centaur&#39;s Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8 https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/ London: The Reverse Centaur&#39;s Guide to Life After AI with Riley Quinn (Foyle&#39;s Picadilly), Sep 9 https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn South Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6 https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/ Vancouver: BC Policy Solutions Gala, Nov 12 https://bcpolicy.ca/gala/ Recent appearances (permalink) The AI Enshittification Bubble (Hidden Forces) https://hiddenforces.io/podcasts/the-ai-enshittification-bubble-cory-doctorow/ F@#$ the AI Overlords (On The Media) https://www.wnycstudios.org/podcasts/otm/articles/f-the-ai-overlords Why AI Won&#39;t Replace Workers, But Will Crash The Economy (Smart Cookies) https://www.youtube.com/watch?v=rRRmUuxJolY AI and the Enshittification Era (The Weekly Show with Jon Stewart) https://www.youtube.com/watch?v=-dAIJRjb-Bw AI is not inevitable (Betakit) https://www.youtube.com/watch?v=DbiTVkq1WHo Latest books (permalink) &#34;The Reverse-Centaur&#39;s Guide to AI,&#34; a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/ &#34;Canny Valley&#34;: A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce &#34;Enshittification: Why Everything Suddenly Got Worse and What to Do About It,&#34; Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ &#34;Picks and Shovels&#34;: a sequel to &#34;Red Team Blues,&#34; about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). &#34;The Bezzle&#34;: a sequel to &#34;Red Team Blues,&#34; about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). &#34;The Lost Cause:&#34; a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). &#34;The Internet Con&#34;: A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). &#34;Red Team Blues&#34;: &#34;A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.&#34; Tor Books http://redteamblues.com. &#34;Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin&#34;, on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) &#34;The Post-American Internet,&#34; a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 &#34;Unauthorized Bread&#34;: a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 &#34;Enshittification, Why Everything Suddenly Got Worse and What to Do About It&#34; (the graphic novel), Firstsecond, 2027 &#34;The Memex Method,&#34; Farrar, Straus, Giroux, 2027 Colophon (permalink) Today&#39;s top sources: Currently writing: “Once Is Enemy Action,” a science fiction novel about the origins of modern technofascism. Friday&#39;s words: 564 (2916 total). &#34;The Post-American Internet,&#34; a sequel to &#34;Enshittification,&#34; about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor. A Little Brother short story about DIY insulin PLANNING This work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic &#34;When life gives you SARS, you make sarsaparilla&#34; -Joey &#34;Accordion Guy&#34; DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (&#34;BOGUS AGREEMENTS&#34;) that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X</source:markdown>
-      <guid>cid://https://pluralistic.net/?p=13140</guid>
-      <category>Uncategorized</category>
-      <category>cities</category>
-      <category>doge</category>
-      <category>gds</category>
-      <category>government digital service</category>
-      <category>mamdani</category>
-      <category>municipalism</category>
-      <category>new york city</category>
-      <category>nyc</category>
-      <category>pit</category>
-      <category>pit crew</category>
-      <category>public interest technologists</category>
-    </item>    <item>
-      <title>Big Money Loses | The Coffee Klatch for Saturday, August 8, 2026</title>
-      <link>https://robertreich.substack.com/p/big-money-loses-the-coffee-klatch</link>
-      <description>
-        <![CDATA[With Heather Lofthouse and yours truly, Robert Reich]]>
-      </description>
-      <source:markdown>With Heather Lofthouse and yours truly, Robert Reich</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/210284472/6cbddb83278a3fde53836205bd6c06c1.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://robertreich.substack.com/p/big-money-loses-the-coffee-klatch</guid>
-    </item>    <item>
-      <title>August 7, 2026</title>
-      <link>https://heathercoxrichardson.substack.com/p/august-7-2026</link>
-      <description>
-        <![CDATA[On Tuesday, August 4, Erin Banco, Mike Stone, and Jonathan Landay of Reuters reported that the U.S.]]>
-      </description>
-      <source:markdown>On Tuesday, August 4, Erin Banco, Mike Stone, and Jonathan Landay of Reuters reported that the U.S.</source:markdown>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/august-7-2026</guid>
-    </item>    <item>
-      <title>Weeknotes: Aug. 1-7, 2026</title>
-      <link>https://tracydurnell.com/2026/08/07/weeknotes-aug-1-7-2026/</link>
-      <description>
-        <![CDATA[Highlight of the week: we were eating lunch when this family of raccoons &#8212; one adult and two little kits &#8212; came to look for figs (none looked ripe to me but they found a few they deemed edible) Looking forward to: the wildfire smoke is supposed to clear out this weekend after a long smoky [&#8230;]]]>
-      </description>
-      <source:markdown>Highlight of the week: we were eating lunch when this family of raccoons — one adult and two little kits — came to look for figs (none looked ripe to me but they found a few they deemed edible) Looking forward to: the wildfire smoke is supposed to clear out this weekend after a long smoky \[…\]</source:markdown>
-      <enclosure url="https://tracydurnell.com/wp-content/uploads/2026/08/raccoon-eating-fig-aug2026.mp4" length="11758097" type="video/mp4" />
-      <guid>cid://https://tracydurnell.com/?p=39403</guid>
-      <category>Weeknotes</category>
-      <category>personal</category>
-    </item>    <item>
-      <title>‘Blue Bloods’ Alum Will Estes Reprising Role On ‘Boston Blue’: “Welcome (Back) To The Family”</title>
-      <link>https://deadline.com/2026/08/blue-bloods-will-estes-reprising-role-boston-blue-1237029175/</link>
-      <description>
-        <![CDATA[One of the original Blue Bloods is making a trip to Beantown after Donnie Wahlberg teased an upcoming guest star on Boston Blue. Deadline can confirm that Will Estes will reprise his Blue Bloods role as Jamie Reagan on an upcoming episode of the CBS spin-off after Wahlberg shared a behind-the-scenes photo with his onscreen [&#8230;]]]>
-      </description>
-      <source:markdown>One of the original Blue Bloods is making a trip to Beantown after Donnie Wahlberg teased an upcoming guest star on Boston Blue. Deadline can confirm that Will Estes will reprise his Blue Bloods role as Jamie Reagan on an upcoming episode of the CBS spin-off after Wahlberg shared a behind-the-scenes photo with his onscreen \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1237029175</guid>
-      <category>News</category>
-      <category>Blue Bloods</category>
-      <category>Boston Blue</category>
-      <category>CBS</category>
-      <category>Will Estes</category>
-    </item>    <item>
-      <title>Whetherday</title>
-      <link>https://doc.searls.com/2026/08/07/whetherday-2/</link>
-      <description>
-        <![CDATA[On big changes in nowheres becoming somewheres Audacy, by far the most stressed-out owner of too many radio stations, is killing off another big old signal: KXNT/840 in Las Vegas. I dug into that, and wrote about it on Trunkline, my neglected blog about infrastructure that will soon get a big facelift. C****heck them out [&#8230;]]]>
-      </description>
-      <source:markdown>On big changes in nowheres becoming somewheres Audacy, by far the most stressed-out owner of too many radio stations, is killing off another big old signal: KXNT/840 in Las Vegas. I dug into that, and wrote about it on Trunkline, my neglected blog about infrastructure that will soon get a big facelift. C\*\*\*\*heck them out \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/2026/08/07/whetherday-2/</guid>
-      <category>Broadcasting</category>
-      <category>Economics</category>
-      <category>infrastructure</category>
-      <category>radio</category>
-    </item>    <item>
-      <title>Jason Clarke Joins Action-Thriller ‘Supermax’ From Amazon MGM &#38; Miramax</title>
-      <link>https://deadline.com/2026/08/supermax-movie-jason-clarke-amazon-mgm-miramax-1237029162/</link>
-      <description>
-        <![CDATA[EXCLUSIVE:&#160;Jason Clarke has closed a deal to join&#160;Supermax, the new action-thriller from Amazon MGM Studios and Miramax, Deadline has learned. Character details are under wraps. The Australian actor is the second of the week to join following Jaafar Jackson, the breakout star of Lionsgate&#8217;s Michael. The pair will share the screen with Will Smith and AnnaSophia [&#8230;]]]>
-      </description>
-      <source:markdown>EXCLUSIVE: Jason Clarke has closed a deal to join Supermax, the new action-thriller from Amazon MGM Studios and Miramax, Deadline has learned. Character details are under wraps. The Australian actor is the second of the week to join following Jaafar Jackson, the breakout star of Lionsgate’s Michael. The pair will share the screen with Will Smith and AnnaSophia \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1237029162</guid>
-      <category>Casting</category>
-      <category>News</category>
-      <category>Amazon MGM Studios</category>
-      <category>Jason Clarke</category>
-      <category>Miramax</category>
-      <category>Supermax</category>
-    </item>    <item>
-      <title>Brandi Carlile Postpones UK, European Tour Dates Due To “Personal Circumstances”</title>
-      <link>https://deadline.com/2026/08/brandi-carlile-postpones-uk-european-tour-dates-1237029159/</link>
-      <description>
-        <![CDATA[Brandi Carlile is pushing her trip across the pond as she announces some postponed tour dates for the UK and Europe. On Friday, the 11x Grammy winner shared her regrets as she had to reschedule some stops on The Human Tour, featuring KT Tunstall, from the fall to the spring due to &#8220;personal circumstances.&#8221; &#8220;To [&#8230;]]]>
-      </description>
-      <source:markdown>Brandi Carlile is pushing her trip across the pond as she announces some postponed tour dates for the UK and Europe. On Friday, the 11x Grammy winner shared her regrets as she had to reschedule some stops on The Human Tour, featuring KT Tunstall, from the fall to the spring due to “personal circumstances.” “To \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1237029159</guid>
-      <category>News</category>
-      <category>Touring</category>
-      <category>Brandi Carlile</category>
-    </item>    <item>
-      <title>TV Show Book Adaptations Arriving In 2026 So Far</title>
-      <link>https://deadline.com/feature/tv-show-based-on-books-this-year-1236035246/</link>
-      <description>
-        <![CDATA[Several best-selling books will make way for returning TV shows and new ones in 2026. Summer has seen several adaptations like Every Year After, Netflix&#8217;s Little House on the Prairie, Peacock&#8217;s The Five-Star Weekend, Apple TV&#8217;s Lucky and Silo Season 3 and Netflix&#8217;s Ransom Canyon Season 2 and My Life With the Walter Boys Season [&#8230;]]]>
-      </description>
-      <source:markdown>Several best-selling books will make way for returning TV shows and new ones in 2026. Summer has seen several adaptations like Every Year After, Netflix’s Little House on the Prairie, Peacock’s The Five-Star Weekend, Apple TV’s Lucky and Silo Season 3 and Netflix’s Ransom Canyon Season 2 and My Life With the Walter Boys Season \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236035246</guid>
-      <category>Books</category>
-      <category>News</category>
-      <category>Ransom Canyon</category>
-      <category>The Summer I Turned Pretty</category>
-      <category>We Were Liars</category>
-    </item>    <item>
-      <title>Bella Thorne Says ‘Spring Breakers 2’ Producers Tapped Her To Write, Direct &#38; Star In Sequel After Seeing Directorial Debut</title>
-      <link>https://deadline.com/2026/08/bella-thorne-spring-breakers-2-tapped-write-direct-star-1237029133/</link>
-      <description>
-        <![CDATA[After wrapping on her directorial debut last year, Bella Thorne revealed that Spring Breakers 2 will be her sophomore feature in the director&#8217;s chair. Following the announcement that she&#8217;ll star in the sequel to Harmony Korine&#8217;s 2012 cult crime drama, the actress said that producers asked her to write and direct the film as well, [&#8230;]]]>
-      </description>
-      <source:markdown>After wrapping on her directorial debut last year, Bella Thorne revealed that Spring Breakers 2 will be her sophomore feature in the director’s chair. Following the announcement that she’ll star in the sequel to Harmony Korine’s 2012 cult crime drama, the actress said that producers asked her to write and direct the film as well, \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1237029133</guid>
-      <category>News</category>
-      <category>Bella Thorne</category>
-      <category>Color Your Hurt</category>
-      <category>Spring Breakers</category>
-      <category>Spring Breakers 2</category>
-    </item>    <item>
-      <title>What To Expect For ‘Heated Rivalry’ Season 2: Everything We Know So Far</title>
-      <link>https://deadline.com/feature/heated-rivalry-season-2-news-updates-everything-we-know-1236867258/</link>
-      <description>
-        <![CDATA[There is still a long wait to be had for the highly anticipated second season of Heated Rivalry. When Season 1 of the Crave book adaptation of Rachel Reid’s Game Changers series skated quietly ontoHBO Max Nov. 28, 2025, it quickly built momentum and became a phenomenon. Season 2 is in the works while stars [&#8230;]]]>
-      </description>
-      <source:markdown>There is still a long wait to be had for the highly anticipated second season of Heated Rivalry. When Season 1 of the Crave book adaptation of Rachel Reid’s Game Changers series skated quietly ontoHBO Max Nov. 28, 2025, it quickly built momentum and became a phenomenon. Season 2 is in the works while stars \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236867258</guid>
-      <category>Books</category>
-      <category>News</category>
-      <category>Connor Storrie</category>
-      <category>Heated Rivalry</category>
-      <category>Hudson Williams</category>
-    </item>    <item>
-      <title>Book-To-Movie Adaptations Coming Out In 2026</title>
-      <link>https://deadline.com/feature/book-to-movie-adaptations-1236035322/</link>
-      <description>
-        <![CDATA[Many books will provide backbone to both theatrical and streaming releases in 2026. From the long-awaited rom com film adaptation of Emily Henry&#8217;s People We Meet on Vacation, which hit Netflix in January, to the Ridley Scott-directed adaptation of The Dog Stars starring Jacob Elordi, Josh Brolin and Margaret Qualley coming in August, several major [&#8230;]]]>
-      </description>
-      <source:markdown>Many books will provide backbone to both theatrical and streaming releases in 2026. From the long-awaited rom com film adaptation of Emily Henry’s People We Meet on Vacation, which hit Netflix in January, to the Ridley Scott-directed adaptation of The Dog Stars starring Jacob Elordi, Josh Brolin and Margaret Qualley coming in August, several major \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1236035322</guid>
-      <category>News</category>
-      <category>Regretting You</category>
-      <category>The Running Man</category>
-      <category>Wicked: For Good</category>
     </item>
   </channel>
 </rss>

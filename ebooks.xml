@@ -4,10 +4,52 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>29 Aug 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>30 Aug 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Tomorrow about this time by Grace Livingston Hill</title>
+      <link>https://www.gutenberg.org/ebooks/79299</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Contes de la chaumière by Octave Mirbeau</title>
+      <link>https://www.gutenberg.org/ebooks/79471</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>La mer glaciale by Wilkie Collins</title>
+      <link>https://www.gutenberg.org/ebooks/79469</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>King Time or the mystical land of the hours : by Percy Keese Fitzhugh</title>
+      <link>https://www.gutenberg.org/ebooks/79473</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Églantine by Jean Giraudoux</title>
+      <link>https://www.gutenberg.org/ebooks/79470</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>In a winter city : by Ouida</title>
+      <link>https://www.gutenberg.org/ebooks/79472</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Calculus Made Easy by Silvanus P.  Thompson</title>
       <link>https://www.gutenberg.org/ebooks/33283</link>
       <description>
@@ -1470,111 +1512,6 @@
       <enclosure url="https://standardebooks.org/ebooks/dorothy-m-richardson/revolving-lights/downloads/dorothy-m-richardson_revolving-lights.epub?source=feed" length="640526" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/dorothy-m-richardson/revolving-lights</guid>
       <category>Fiction</category>
-    </item>    <item>
-      <title>Clay-shuttered doors by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79294</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Howdy! by Murray Leinster</title>
-      <link>https://www.gutenberg.org/ebooks/79295</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Les kolatiers &#38; les noix de kola by Auguste Chevalier and Em.  Perrot</title>
-      <link>https://www.gutenberg.org/ebooks/79298</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Sorron lapset : by Joel Lehtonen</title>
-      <link>https://www.gutenberg.org/ebooks/79301</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Irish Fairy Tales by James Stephens</title>
-      <link>https://www.gutenberg.org/ebooks/2892</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Tomorrow about this time by Grace Livingston Hill</title>
-      <link>https://www.gutenberg.org/ebooks/79299</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Myths of Hellas : by C.  Witt</title>
-      <link>https://www.gutenberg.org/ebooks/79300</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Home Book of Verse — Volume 1 by Burton Egbert Stevenson</title>
-      <link>https://www.gutenberg.org/ebooks/2619</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Home Book of Verse — Volume 2 by Burton Egbert Stevenson</title>
-      <link>https://www.gutenberg.org/ebooks/2620</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Home Book of Verse — Volume 3 by Burton Egbert Stevenson</title>
-      <link>https://www.gutenberg.org/ebooks/2621</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The telling of the bees by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79297</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The success machine by Henry Slesar</title>
-      <link>https://www.gutenberg.org/ebooks/26168</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Genius and degeneration : by William Hirsch</title>
-      <link>https://www.gutenberg.org/ebooks/79296</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Varjojen linnan prinssit : by Laura Soinne</title>
-      <link>https://www.gutenberg.org/ebooks/79302</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>The youngest princess : by Jenny Chappell</title>
-      <link>https://www.gutenberg.org/ebooks/79303</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,34 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>29 Aug 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>30 Aug 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches</title>
+      <link>https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/</link>
+      <description>
+        <![CDATA[Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT Sunday aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large field of [&#8230;]]]>
+      </description>
+      <source:markdown>Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT Sunday aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large field of \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1042730</guid>
+      <category>Missions</category>
+      <category>Astrophysics</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Jet Propulsion Laboratory</category>
+      <category>Kennedy Space Center</category>
+      <category>Nancy Grace Roman Space Telescope</category>
+      <category>Science Mission Directorate</category>
+    </item>    <item>
+      <title>NASA&#39;s Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and Dark Energy</title>
+      <link>https://www.smithsonianmag.com/smart-news/nasas-nancy-grace-roman-space-telescope-launches-to-find-exoplanets-and-unravel-mysteries-of-dark-matter-and-dark-energy-180989268/</link>
+      <description>
+        <![CDATA[The new observatory will complete three surveys of the universe in five years, although it's designed to function at least twice as long. Its data could change scientists' basic understanding of the cosmos]]>
+      </description>
+      <source:markdown>The new observatory will complete three surveys of the universe in five years, although it&#39;s designed to function at least twice as long. Its data could change scientists&#39; basic understanding of the cosmos</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/mR5EHPrmafInwOqOOkDHiEOtvEI=/420x240/filters:focal(1800x1029:1801x1030)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9d/98/9d98cc66-26ad-4f6e-b59e-394818f23d10/roman_beautypass2026-med.png" length="16918059" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/nasas-nancy-grace-roman-space-telescope-launches-to-find-exoplanets-and-unravel-mysteries-of-dark-matter-and-dark-energy-180989268/</guid>
+    </item>    <item>
       <title>NASA’s Artemis II Crew Receives Congressional Space Medal of Honor</title>
       <link>https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/</link>
       <description>
@@ -3028,62 +3052,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>APOD Science APOD APOD: 2026 August 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Contemplating the Sun \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/image-article/apod/apod-2026-august-9-contemplating-the-sun/</guid>
-      <category>APOD</category>
-    </item>    <item>
-      <title>Thanks to the EU’s Digital Markets Act, EU citizens are getting copy and paste between iOS and Windows</title>
-      <link>https://www.osnews.com/story/145708/thanks-to-the-eus-digital-markets-act-eu-citizens-are-getting-copy-and-paste-between-ios-and-windows/</link>
-      <description>
-        <![CDATA[The European Union&#8217;s Digital Markets Act keeps delivering for EU citizens. Apple is working on a new feature that will support cross-device copy and paste between iOS devices and Windows PCs. Microsoft asked for the feature using Apple&#8217;s EU interoperability request system for developers, which Apple implemented to comply with the Digital Markets Act. Apple began evaluating the request in March, and on June 26, proposed a project plan. ↫ Juli Clover at MacRumors According to Apple, this minor feature is going to cost Apple &#8220;significant engineering effort&#8221;; I&#8217;d estimate it&#8217;ll cost them about one to two golden statues.]]>
-      </description>
-      <source:markdown>The European Union’s Digital Markets Act keeps delivering for EU citizens. Apple is working on a new feature that will support cross-device copy and paste between iOS devices and Windows PCs. Microsoft asked for the feature using Apple’s EU interoperability request system for developers, which Apple implemented to comply with the Digital Markets Act. Apple began evaluating the request in March, and on June 26, proposed a project plan. ↫ Juli Clover at MacRumors According to Apple, this minor feature is going to cost Apple “significant engineering effort”; I’d estimate it’ll cost them about one to two golden statues.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145708</guid>
-      <category>Apple</category>
-    </item>    <item>
-      <title>IceWM 4.1.0 released</title>
-      <link>https://www.osnews.com/story/145703/icewm-4-1-0-released/</link>
-      <description>
-        <![CDATA[IceWM, the venerable X11 window manager, has put up a new maintenance release, version 4.1.0. It&#8217;s got a small number of fixes, two very minor new features, as well a few updated translations. That&#8217;s it.]]>
-      </description>
-      <source:markdown>IceWM, the venerable X11 window manager, has put up a new maintenance release, version 4.1.0. It’s got a small number of fixes, two very minor new features, as well a few updated translations. That’s it.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145703</guid>
-      <category>Desktop environments</category>
-    </item>    <item>
-      <title>Firebird Launches CIS Region’s Largest AI Factory in Armenia</title>
-      <link>https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/</link>
-      <description>
-        <![CDATA[The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure.  Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy [&#8230;]]]>
-      </description>
-      <source:markdown>The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure.  Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=97258</guid>
-      <category>AI</category>
-      <category>NVIDIA Blackwell</category>
-      <category>NVIDIA DSX</category>
-      <category>NVIDIA Rubin</category>
-    </item>    <item>
-      <title>The Midnight Rebellion: Almost Midnight</title>
-      <link>https://www.npr.org/2026/08/08/nx-s1-5909430/the-midnight-rebellion-almost-midnight</link>
-      <description>
-        <![CDATA[WBUR’s The Midnight Rebellion is a one-of-a-kind podcast: a “choose your own”-style show set 100 years in the future when the climate has gone haywire, and it’s up to you to save the planet. Rooted in science, this fictional adventure was created for kids and grown-ups alike. <br/><br/>Each chapter ends with a choice. <em>You </em>decide what’s next. Choose wisely.<br/><br/><em>Listen to the rest and follow The Midnight Rebellion </em><a href="https://link.mgln.ai/midnight"target="_blank"   ><em>wherever you get your podcasts</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>WBUR’s The Midnight Rebellion is a one-of-a-kind podcast: a “choose your own”-style show set 100 years in the future when the climate has gone haywire, and it’s up to you to save the planet. Rooted in science, this fictional adventure was created for kids and grown-ups alike.
-
-Each chapter ends with a choice. _You_ decide what’s next. Choose wisely.
-
-_Listen to the rest and follow The Midnight Rebellion_ [_wherever you get your podcasts_](https://link.mgln.ai/midnight) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f2872a20-137f-4c94-a3d9-e9b2eddd5f6a/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f2872a20-137f-4c94-a3d9-e9b2eddd5f6a&feed=F0qJcgXZ&t=podcast&e=nx-s1-5909430&p=510351&d=1029&size=16475160" length="16475160" type="audio/mpeg" />
-      <guid>cid://91f76994-6ff7-46f0-94c7-aea226ffd33d</guid>
-    </item>    <item>
-      <title>APOD: 2026 August 8 – A Messier Moment for Tempel 2</title>
-      <link>https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 August 8 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Messier [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 August 8 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Messier \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/</guid>
       <category>APOD</category>
     </item>
   </channel>

@@ -4,10 +4,20 @@
   <channel>
     <title><![CDATA[Healthy Eats]]></title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>29 Aug 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>30 Aug 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Perk &#38; Recs: A Curated Selection Of Coffees From The Sprudge Roaster’s Village</title>
+      <link>https://sprudge.com/perk-recs-a-curated-selection-of-coffees-from-the-sprudge-roasters-village-1294296.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster's Village.]]>
+      </description>
+      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster&#39;s Village.**</source:markdown>
+      <guid>cid://https://sprudge.com/?p=1294296</guid>
+      <category>Roaster&#39;s Village</category>
+      <category>coffee</category>
+    </item>    <item>
       <title>Lord Gear Me Strength To Not Buy All This Hot Coffee Gear</title>
       <link>https://sprudge.com/lord-gear-me-strength-to-not-buy-all-this-hot-coffee-gear-1294302.html</link>
       <description>
@@ -4936,17 +4946,6 @@ The post [Grilled Meat on a Stick](https://www.closetcooking.com/grilled-meat-on
       <source:markdown>A slightly unhinged vegetarian version of the classic Parisian sandwich.</source:markdown>
       <guid>cid://6a6a07a1ab319aff31d4a7a7</guid>
       <category>Recipes</category>
-    </item>    <item>
-      <title>Bourbon-Barrel Heat: 6 Barrel-Aged Hot Sauces Worth Hunting Down</title>
-      <link>https://pepperscale.com/barrel-aged-hot-sauces/</link>
-      <description>
-        <![CDATA[There&#8217;s a certain kind of hot sauce fan who stopped chasing the Scoville leaderboard a while ago. They still love heat, but what pulls them across the room now is flavor: smoke, oak, a little sweetness, the sense that someone let the sauce sit and ... <p class="read-more-container"><a title="Bourbon-Barrel Heat: 6 Barrel-Aged Hot Sauces Worth Hunting Down" class="read-more button" href="https://pepperscale.com/barrel-aged-hot-sauces/#more-102870" aria-label="Read more about Bourbon-Barrel Heat: 6 Barrel-Aged Hot Sauces Worth Hunting Down">Read more</a></p>]]>
-      </description>
-      <source:markdown>There’s a certain kind of hot sauce fan who stopped chasing the Scoville leaderboard a while ago. They still love heat, but what pulls them across the room now is flavor: smoke, oak, a little sweetness, the sense that someone let the sauce sit and ...
-
-[Read more](https://pepperscale.com/barrel-aged-hot-sauces/#more-102870 &#34;Bourbon-Barrel Heat: 6 Barrel-Aged Hot Sauces Worth Hunting Down&#34;)</source:markdown>
-      <guid>cid://https://pepperscale.com/?p=102870</guid>
-      <category>Trending</category>
     </item>
   </channel>
 </rss>
