@@ -4,10 +4,81 @@
   <channel>
     <title><![CDATA[GLAM]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>30 Aug 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>31 Aug 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>NARA’s AI Guidance Stops Where Appraisal Begins</title>
+      <link>https://metaarchivist.substack.com/p/naras-ai-guidance-stops-where-appraisal</link>
+      <description>
+        <![CDATA[The 2026 guidance tells agencies what a federal record is and which schedule applies. It does not return to the appraisal problem NARA identified six years earlier.]]>
+      </description>
+      <source:markdown>The 2026 guidance tells agencies what a federal record is and which schedule applies. It does not return to the appraisal problem NARA identified six years earlier.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!DImj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f68ef18-5068-443d-ae3f-631ffc071644_1916x821.png" length="0" type="image/jpeg" />
+      <guid>cid://https://metaarchivist.substack.com/p/naras-ai-guidance-stops-where-appraisal</guid>
+    </item>    <item>
+      <title>Fondo de IOI para la Adopción en Redes: actualización sobre los primeros seis meses de avance de LA Referencia</title>
+      <link>https://investinopen.org/fondo-de-ioi-para-la-adopcion-en-redes-la-referencia-6meses-es/</link>
+      <description>
+        <![CDATA[Adopción en red con una sólida base técnica.]]>
+      </description>
+      <source:markdown>Adopción en red con una sólida base técnica.</source:markdown>
+      <guid>cid://6a91cc6aa644ab00015706dd</guid>
+      <category></category>
+    </item>    <item>
+      <title>IOI Fund for Network Adoption: LA Referencia’s six-month progress update</title>
+      <link>https://investinopen.org/blog/ioi-fund-for-network-adoption-la-referencia-6mo-en/</link>
+      <description>
+        <![CDATA[Network adoption with a strong technical foundation.]]>
+      </description>
+      <source:markdown>Network adoption with a strong technical foundation.</source:markdown>
+      <guid>cid://6a91c03ea644ab0001570692</guid>
+      <category>Blog</category>
+    </item>    <item>
+      <title>We Can Now Track AI-generated Content. It Doesn’t Solve the Real Problem.</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/08/31/we-can-now-track-ai-generated-content/</link>
+      <description>
+        <![CDATA[<p>Identifying AI content is now embedded in Claude models. It doesn't solve the problem we have. It also creates others.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/08/31/we-can-now-track-ai-generated-content/">We Can Now Track AI-generated Content. It Doesn’t Solve the Real Problem.</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Identifying AI content is now embedded in Claude models. It doesn&#39;t solve the problem we have. It also creates others.
+
+The post [We Can Now Track AI-generated Content. It Doesn’t Solve the Real Problem.](https://scholarlykitchen.sspnet.org/2026/08/31/we-can-now-track-ai-generated-content/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62619</guid>
+      <category>Artificial Intelligence</category>
+      <category>Authority</category>
+      <category>Authors</category>
+      <category>Controversial Topics</category>
+      <category>Infrastructure</category>
+      <category>Language</category>
+      <category>Metrics and Analytics</category>
+      <category>Reading</category>
+      <category>Research Integrity</category>
+      <category>Technology</category>
+      <category>Tools</category>
+      <category>World of Tomorrow</category>
+      <category>AI</category>
+      <category>AI disclosure</category>
+      <category>Anthropic</category>
+      <category>Artificial intelligence</category>
+      <category>Artificial intelligence (AI)</category>
+      <category>artificial intelligence in peer review</category>
+      <category>Claude</category>
+      <category>COPE</category>
+      <category>EU AI Act</category>
+      <category>intellectual freedom</category>
+      <category>privacy protection</category>
+      <category>watermarking</category>
+    </item>    <item>
+      <title>AI Search capabilities in Scopus are expanding</title>
+      <link>https://aarontay.substack.com/p/ai-search-capabilities-in-scopus</link>
+      <description>
+        <![CDATA[From LLM-to-Boolean conversion to vector retrieval, filters and query interpretation]]>
+      </description>
+      <source:markdown>From LLM-to-Boolean conversion to vector retrieval, filters and query interpretation</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!ZfCU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb856ea82-61ec-4640-b34e-ec70e0538473_1039x584.png" length="0" type="image/jpeg" />
+      <guid>cid://https://aarontay.substack.com/p/ai-search-capabilities-in-scopus</guid>
+    </item>    <item>
       <title>Mentors Matter: Larry Alford Reflects on His Career and the Profession</title>
       <link>https://www.arl.org/blog/mentors-matter-larry-alford-reflects-on-his-career-and-the-profession/</link>
       <description>
@@ -191,21 +262,22 @@ The post [Where Instructors Turn To Learn About AI](https://sr.ithaka.org/blog/w
       <category>Faculty</category>
       <category>Instructional support</category>
     </item>    <item>
-      <title>Roundup: Honoring the Life and Work of Dolly Parton (Statements and Activities From Libraries, Literacy Organizations, &#38; Others)</title>
+      <title>Roundup: Honoring the Life and Work of Dolly Parton (Statements, Media Reports, and More From Libraries, Literacy Organizations, &#38; Others)</title>
       <link>https://www.infodocket.com/2026/08/26/roundup-honoring-the-life-and-work-of-dolly-parton-statements-from-libraries-literacy-organizations-and-others/</link>
       <description>
-        <![CDATA[<p>We plan to update this collection as we discover more statements, posts, and booklists from libraries, literacy organizations and others honoring the life and work of Dolly Parton. Updated: August 29, 2026 2:30 PM Statement From the Dolly Parton Imagination Library &#160; Libraries California: Richmond Public LibraryRichmond Public Library Thanks Late Dolly Parton for All [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/08/26/roundup-honoring-the-life-and-work-of-dolly-parton-statements-from-libraries-literacy-organizations-and-others/">Roundup: Honoring the Life and Work of Dolly Parton (Statements and Activities From Libraries, Literacy Organizations, &amp; Others)</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+        <![CDATA[<p>We plan to update this collection as we discover more statements, posts, and booklists from libraries, literacy organizations and others honoring the life and work of Dolly Parton. Updated: August 30, 2026 10:00 AM &#160; Statement From the Dolly Parton Imagination Library &#160; Libraries California: Richmond Public LibraryRichmond Public Library Thanks Late Dolly Parton for [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/08/26/roundup-honoring-the-life-and-work-of-dolly-parton-statements-from-libraries-literacy-organizations-and-others/">Roundup: Honoring the Life and Work of Dolly Parton (Statements, Media Reports, and More From Libraries, Literacy Organizations, &amp; Others)</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
       </description>
-      <source:markdown>We plan to update this collection as we discover more statements, posts, and booklists from libraries, literacy organizations and others honoring the life and work of Dolly Parton. Updated: August 29, 2026 2:30 PM Statement From the Dolly Parton Imagination Library   Libraries California: Richmond Public LibraryRichmond Public Library Thanks Late Dolly Parton for All \[…\]
+      <source:markdown>We plan to update this collection as we discover more statements, posts, and booklists from libraries, literacy organizations and others honoring the life and work of Dolly Parton. Updated: August 30, 2026 10:00 AM   Statement From the Dolly Parton Imagination Library   Libraries California: Richmond Public LibraryRichmond Public Library Thanks Late Dolly Parton for \[…\]
 
-The post [Roundup: Honoring the Life and Work of Dolly Parton (Statements and Activities From Libraries, Literacy Organizations, &#38; Others)](https://www.infodocket.com/2026/08/26/roundup-honoring-the-life-and-work-of-dolly-parton-statements-from-libraries-literacy-organizations-and-others/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+The post [Roundup: Honoring the Life and Work of Dolly Parton (Statements, Media Reports, and More From Libraries, Literacy Organizations, &#38; Others)](https://www.infodocket.com/2026/08/26/roundup-honoring-the-life-and-work-of-dolly-parton-statements-from-libraries-literacy-organizations-and-others/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
       <guid>cid://https://www.infodocket.com/?p=168612</guid>
       <category>Associations and Organizations</category>
       <category>Journal Articles</category>
       <category>Libraries</category>
       <category>News</category>
       <category>Public Libraries</category>
+      <category>Reports</category>
       <category>Roundup</category>
     </item>    <item>
       <title>Guest Post — From Charity to Intellectual Partnership: The Global Monograph Crisis, Artificial Intelligence, and the Future of Open Access Through the Lens of Ukraine</title>

@@ -4,10 +4,37 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>30 Aug 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>31 Aug 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Meetings and events in September 2026</title>
+      <link>https://www.riscository.com/2026/meetings-and-events-september-2026/</link>
+      <description>
+        <![CDATA[It&#8217;s the last day of August, and it happens &#8211; thankfully &#8211; to fall on an official holiday, so it&#8217;s time to give the new trial feature its second outing, and look at what RISC OS-related meetings and events are coming up in September. Please note that any meeting dates listed below could change, so please be sure to keep an eye on websites, mailing lists, and news sites in case of any last minute changes! Wakefield RISC OS Computer Club (WROCC) meeting &#8211; 2nd September, 7:45pm WROCC usually meets&#8230;]]>
+      </description>
+      <source:markdown>It’s the last day of August, and it happens – thankfully – to fall on an official holiday, so it’s time to give the new trial feature its second outing, and look at what RISC OS-related meetings and events are coming up in September. Please note that any meeting dates listed below could change, so please be sure to keep an eye on websites, mailing lists, and news sites in case of any last minute changes! Wakefield RISC OS Computer Club (WROCC) meeting – 2nd September, 7:45pm WROCC usually meets…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11012</guid>
+      <category>User groups</category>
+      <category>meetings</category>
+      <category>Shows</category>
+    </item>    <item>
+      <title>WROCC September 2026 talk on Wednesday with Andrew Rawnsley</title>
+      <link>http://www.iconbar.com/comments/rss/news2367.html</link>
+      <description>
+        <![CDATA[The July 2026 WROCC talk is on Wednesday 2nd September and starts at 7.45pm on Zoom. This month Andrew Rawnsley returns as speaker]]>
+      </description>
+      <source:markdown>The July 2026 WROCC talk is on Wednesday 2nd September and starts at 7.45pm on Zoom. This month Andrew Rawnsley returns as speaker</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2367.html</guid>
+    </item>    <item>
+      <title>b.log 2026/08/2026 - What does this have to do with the price of beer in Clacton?, The not-vide grenier.</title>
+      <link>https://heyrick.eu/blog/entry/20260830</link>
+      <description>
+        <![CDATA[What does this have to do with the price of beer in Clacton?, The not-vide grenier.]]>
+      </description>
+      <source:markdown>What does this have to do with the price of beer in Clacton?, The not-vide grenier.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260830</guid>
+    </item>    <item>
       <title>b.log 2026/08/2026 - Thunderstorms, Dear Canada, A necessary evil, RSS feed, Forecast accuracy, Bench, Eyeballs.</title>
       <link>https://heyrick.eu/blog/entry/20260829</link>
       <description>
@@ -419,43 +446,6 @@ I don&#39;t know if these overcharges are still happening, but I&#39;ve basicall
       <author>noreply@blogger.com (ClassicHasClass)</author>
       <guid>cid://tag:blogger.com,1999:blog-8349470052336612452.post-6856907916887204460</guid>
       <category>protip</category>
-    </item>    <item>
-      <title>Martin Eastwood talking emulators and more to WROCC – 12th August</title>
-      <link>https://www.riscository.com/2026/martin-eastwood-wrocc-12th-august/</link>
-      <description>
-        <![CDATA[A week later than originally scheduled, as previously noted, Martin Eastwood will be talking to the Wakefield RISC OS Computer Club (WROCC) on Wednesday, 12th August, 2026, covering a few different pieces of software: An A15 emulator, which &#8220;is aimed at running RISC OS on (or emulating) systems based around the Cortex-A15 processor.&#8221; The Titanium board from Elesar is based around such a core, but it&#8217;s also been used in a number of other systems, that RISC OS doesn&#8217;t support natively. Sprite and Draw viewers for Mac and Windows, which&#8230;]]>
-      </description>
-      <source:markdown>A week later than originally scheduled, as previously noted, Martin Eastwood will be talking to the Wakefield RISC OS Computer Club (WROCC) on Wednesday, 12th August, 2026, covering a few different pieces of software: An A15 emulator, which “is aimed at running RISC OS on (or emulating) systems based around the Cortex-A15 processor.” The Titanium board from Elesar is based around such a core, but it’s also been used in a number of other systems, that RISC OS doesn’t support natively. Sprite and Draw viewers for Mac and Windows, which…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=10995</guid>
-      <category>User groups</category>
-      <category>A15</category>
-      <category>Draw</category>
-      <category>Emulator</category>
-      <category>Kinetic</category>
-      <category>Meeting</category>
-      <category>Sprite</category>
-      <category>User Group</category>
-      <category>Wakefield</category>
-      <category>WROCC</category>
-    </item>    <item>
-      <title>Chksum for DOS (version 2)</title>
-      <link>https://sourceforge.net/p/freedos/news/2026/08/chksum-for-dos/</link>
-      <description>
-        <![CDATA[<div class="markdown_content"><p>Bernd has shared Chksum, a new checksum tool for DOS. Bernd writes: "The following checksum algorithms are supported in this first release: Cryptographic checksum algorithms: - md5 (default) - sha-1, sha-224, sha-256, - sha3-224, sha3-256, sha3-384 and sha3-512. Non-cryptographic checksum algorithms: - bsdsum (16-bit BSD checksum) - fletcher16 (modulo 255), fletcher32 (modulo 65535) - adler32 - crc32 (polynome 0x04C11DB7) and crc32c (polynome 0x1EDC6F41)." Chksum should work on all systems, from an 8088 upwards, and is released under the European Union Public Licence (EUPL) version 1.2. You can <a href="https://cloud.disroot.org/s/EmNZXrN8oZkr5X2" rel="nofollow">download version 1</a> from Disroot. The source code is a <a href="https://fossil-scm.org/home/doc/trunk/www/index.wiki" rel="nofollow">Fossil</a> repository.</p>
-        <p>Updated: Bernd has released version 2. Major changes include: SHA-384, SHA-512 and MD4 are now supported, 32-bit executable CHKSUM32.EXE built with DJGPP is provided. You can <a href="https://cloud.disroot.org/s/EmNZXrN8oZkr5X2?dir=/chksum/release2" rel="nofollow">download version 2</a> from Disroot, plus the source code. Thanks Bernd!</p></div>]]>
-      </description>
-      <source:markdown>Bernd has shared Chksum, a new checksum tool for DOS. Bernd writes: &#34;The following checksum algorithms are supported in this first release: Cryptographic checksum algorithms: - md5 (default) - sha-1, sha-224, sha-256, - sha3-224, sha3-256, sha3-384 and sha3-512. Non-cryptographic checksum algorithms: - bsdsum (16-bit BSD checksum) - fletcher16 (modulo 255), fletcher32 (modulo 65535) - adler32 - crc32 (polynome 0x04C11DB7) and crc32c (polynome 0x1EDC6F41).&#34; Chksum should work on all systems, from an 8088 upwards, and is released under the European Union Public Licence (EUPL) version 1.2. You can [download version 1](https://cloud.disroot.org/s/EmNZXrN8oZkr5X2) from Disroot. The source code is a [Fossil](https://fossil-scm.org/home/doc/trunk/www/index.wiki) repository.
-
-Updated: Bernd has released version 2. Major changes include: SHA-384, SHA-512 and MD4 are now supported, 32-bit executable CHKSUM32.EXE built with DJGPP is provided. You can [download version 2](https://cloud.disroot.org/s/EmNZXrN8oZkr5X2?dir=/chksum/release2) from Disroot, plus the source code. Thanks Bernd!</source:markdown>
-      <guid>cid://https://sourceforge.neta8c7af3f258540a6764ee7ca0b956866e1b5948d</guid>
-    </item>    <item>
-      <title>b.log 2026/08/09 - Server update, I lied.</title>
-      <link>https://heyrick.eu/blog/entry/20260809</link>
-      <description>
-        <![CDATA[Server update, I lied.]]>
-      </description>
-      <source:markdown>Server update, I lied.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260809</guid>
     </item>
   </channel>
 </rss>

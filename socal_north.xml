@@ -5,17 +5,33 @@
     <title><![CDATA[SoCal North]]></title>
     <description><![CDATA[News and posts related to the greater North Los Angeles and adjacent counties.]]></description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>30 Aug 26 06:30 -0700</lastBuildDate>
+    <lastBuildDate>31 Aug 26 06:30 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>The music of ‘Hey Arnold!’ stuck with &#39;90s kids. Now it’s going on tour</title>
-      <link>https://laist.com/news/arts-and-entertainment/hey-arnold-nickelodeon-music-tour</link>
+      <title>LAPD wants 300 new vehicles to police the 2028 Olympics. City politicians are skeptical</title>
+      <link>https://laist.com/news/transportation/lapd-wants-300-new-vehicles-to-police-the-2028-olympics-city-politicians-are-skeptical</link>
       <description>
-        <![CDATA[For many millennials, '90s Nickelodeon shows represent a golden age of animation, with music often just as weird and offbeat as the characters.]]>
+        <![CDATA[Police officials say the request for $30M would help temporarily expand the department's fleet during 2028 Games. Councilmembers questioned why the city should cover the cost.]]>
       </description>
-      <source:markdown>For many millennials, &#39;90s Nickelodeon shows represent a golden age of animation, with music often just as weird and offbeat as the characters.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-4a10-d153-aded-6f9e895b0000</guid>
+      <source:markdown>Police officials say the request for $30M would help temporarily expand the department&#39;s fleet during 2028 Games. Councilmembers questioned why the city should cover the cost.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-4937-d6d6-a9f1-6d773e2c0000</guid>
+    </item>    <item>
+      <title>&#39;A glorious dawn launch&#39;: NASA&#39;s newest space telescope has left the Earth</title>
+      <link>https://laist.com/news/a-glorious-dawn-launch-nasas-newest-space-telescope-has-left-the-earth</link>
+      <description>
+        <![CDATA[The tour-bus-sized telescope aims to unravel cosmic mysteries and identify more than 100,000 planets beyond our solar system.]]>
+      </description>
+      <source:markdown>The tour-bus-sized telescope aims to unravel cosmic mysteries and identify more than 100,000 planets beyond our solar system.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-5335-d153-aded-77bf8e220000</guid>
+    </item>    <item>
+      <title>California lawmakers strike wildfire deal that leaves out most of Newsom’s big demands</title>
+      <link>https://laist.com/news/california-lawmakers-strike-wildfire-deal-that-leaves-out-most-of-newsoms-big-demands</link>
+      <description>
+        <![CDATA[Gov. Gavin Newsom backed off his plans to ease costs for utilities following wildfires they cause, striking a narrower deal with Democratic lawmakers.]]>
+      </description>
+      <source:markdown>Gov. Gavin Newsom backed off his plans to ease costs for utilities following wildfires they cause, striking a narrower deal with Democratic lawmakers.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-52dc-d153-aded-77de24410000</guid>
     </item>    <item>
       <title>From opposed bingo hall to blockbuster casino: 40 years of Yaamava’ tribal gaming</title>
       <link>https://laist.com/news/la-history/san-bernardino-county-yuhaaviatam-anniversary-yaamava-tribal-gaming</link>
@@ -24,6 +40,14 @@
       </description>
       <source:markdown>The tribe’s popular gaming enterprise started out as a bingo hall in the ‘80s. It faced opposition from the start.</source:markdown>
       <guid>cid://urn:uuid:000001a0-268c-d18e-a7a1-7f8cf2250000</guid>
+    </item>    <item>
+      <title>The music of ‘Hey Arnold!’ stuck with &#39;90s kids. Now it’s going on tour</title>
+      <link>https://laist.com/news/arts-and-entertainment/hey-arnold-nickelodeon-music-tour</link>
+      <description>
+        <![CDATA[For many millennials, '90s Nickelodeon shows represent a golden age of animation, with music often just as weird and offbeat as the characters.]]>
+      </description>
+      <source:markdown>For many millennials, &#39;90s Nickelodeon shows represent a golden age of animation, with music often just as weird and offbeat as the characters.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-4a10-d153-aded-6f9e895b0000</guid>
     </item>    <item>
       <title>Lineage finishes food waste removal at Boyle Heights warehouse</title>
       <link>https://laist.com/news/lineage-finishes-food-waste-removal-at-boyle-heights-warehouse</link>
@@ -2791,38 +2815,6 @@ The post [Watts’ Viral Tri-Tip BBQ Smoker Just Wanted to Feed His Sick Dad. No
       </description>
       <source:markdown>The proposed changes still need to go through review, including a 60-day comment period. Providers say Head Starts are operating as usual</source:markdown>
       <guid>cid://urn:uuid:0000019f-de2b-d68f-a99f-fe3f58530000</guid>
-    </item>    <item>
-      <title>Long Beach plans to cut library hours, staff even as workers say demand is soaring</title>
-      <link>https://laist.com/news/long-beach-plans-to-cut-library-hours-staff-even-as-workers-say-demand-is-soaring</link>
-      <description>
-        <![CDATA[A city budget proposal would shutter libraries on Mondays and lay off over a dozen library workers.]]>
-      </description>
-      <source:markdown>A city budget proposal would shutter libraries on Mondays and lay off over a dozen library workers.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-e789-dab7-af9f-f7f94a930000</guid>
-    </item>    <item>
-      <title>Inglewood is bulldozing a shopping center with more than 20 businesses for a stadium shuttle system</title>
-      <link>https://laist.com/news/transportation/inglewood-is-bulldozing-a-shopping-center-with-more-than-20-businesses-for-a-stadium-shuttle-system</link>
-      <description>
-        <![CDATA[The shopping center was home to roughly two dozen businesses including Antojitos Martin and Red’s Flavor Table.]]>
-      </description>
-      <source:markdown>The shopping center was home to roughly two dozen businesses including Antojitos Martin and Red’s Flavor Table.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-e2b1-dab7-af9f-f6f119bd0000</guid>
-    </item>    <item>
-      <title>Dozens of businesses lost revenue after the East LA oil spill. Only one has been reimbursed</title>
-      <link>https://laist.com/news/dozens-of-businesses-lost-revenue-after-the-east-la-oil-spill-only-one-has-been-reimbursed</link>
-      <description>
-        <![CDATA[A survey of nearly 50 businesses near East Cesar E. Chavez and Eastern avenues found revenue dropped 70% to 75% in the days after the spill, county officials said.]]>
-      </description>
-      <source:markdown>A survey of nearly 50 businesses near East Cesar E. Chavez and Eastern avenues found revenue dropped 70% to 75% in the days after the spill, county officials said.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-e2a3-dc2b-a3bf-f3ef0eb10000</guid>
-    </item>    <item>
-      <title>How the LA fires turned a composer&#39;s 20-year dream into an anthem for firefighters</title>
-      <link>https://laist.com/news/los-angeles-activities/fireman-prayer-charles-henri-avelange-composer</link>
-      <description>
-        <![CDATA[Charles-Henri Avelange spent almost 20 years trying to turn the firefighters' creed into an anthem. It took 90 Hollywood musicians — and the L.A. fires — to finish part of it.]]>
-      </description>
-      <source:markdown>Charles-Henri Avelange spent almost 20 years trying to turn the firefighters&#39; creed into an anthem. It took 90 Hollywood musicians — and the L.A. fires — to finish part of it.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-d89f-d36c-a3bf-fcdfc8c20000</guid>
     </item>
   </channel>
 </rss>

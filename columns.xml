@@ -5,7 +5,7 @@
     <title><![CDATA[Columns]]></title>
     <description><![CDATA[Blogs, columns and snapshots from around the web.]]></description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>30 Aug 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>31 Aug 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -35,6 +35,716 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>My Experience Has Nuance, Yours Is a Data Point</title>
+      <link>https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/</link>
+      <description>
+        <![CDATA[<p>Eric Bailey has <a href="https://ericwbailey.website/published/a-proposal-for-new-netflix-content-rating-icons/" >a fun little post</a> about how we need more than a few icons to express the nuance of our shared human experience.</p>
+        <p>For example, he suggests Netflix provide some feedback buttons to indicate the kinds of experiences we all share consuming and rating media:</p>
+        <ul>
+        <li>“Just because I expressed interest in this show does not mean I want to be inundated with recommendations for its genre”</li>
+        <li>“Disregard [that I pressed ‘thumbs up’] my cat walked over the keyboard”</li>
+        <li>“I am making bad choices and hatewatching this” (which reminds me of )</li>
+        </ul>
+        <p>What’s great about the examples in Eric’s post is how familiar they are. We can read them and laugh because we’ve had the same thought — “I’m pressing ‘thumbs up’ here, but what I really mean is…” </p>
+        <p>We know when we click that button that it’s a reductive expression of our experience that’ll be erroneously interpreted, but we do it anyway. <a href="https://notes.jim-nielsen.com/n/2026-08-18-1006/" >As Bryan Cantrill shared</a> from his experience:</p>
+        <blockquote>
+        <p>There&#39;s no way to indicate, “I’m engaging with this, but I hate myself for doing it.” I need another mouse button that is like, “I’m clicking on this, but I’m rage clicking on it and for my own mental health could you not drag more of this in front of me please?”</p>
+        </blockquote>
+        <p>We know these feedback mechanisms are often a misrepresentation of our actual experience.</p>
+        <p>Yet we turn around in our professional contexts and see numbers like “142,432 users gave this a ‘thumbs up’” and we forget everything we knew about our own individual experience with these systems. We make it mean what we want it to mean, what’s convenient for measurement and reporting e.g. “Wow, what a great insight about our offerings! Let’s restructure our entire catalog around this new, objective, <a href="https://blog.jim-nielsen.com/2025/product-pseudoscience/" >(pseudo)</a>scientific fact that so many people obviously like this thing!”</p>
+        <p><a href="https://blog.jim-nielsen.com/2024/seeing-others-in-data-but-not-ourselves/" >We reduce the experiences of others to mere data, but grant ourselves exemption from such oversimplifications.</a></p>
+        <p>Where’s the conversation around:</p>
+        <ul>
+        <li>Values, e.g. “Should we provide more of this? <a href="https://blog.jim-nielsen.com/2026/say-no-to-data/" >We can say no to the data…</a>”</li>
+        <li>Nuance, e.g. “What do people really mean when they click ‘thumbs up’ in this interface?”</li>
+        <li>Vision, e.g. “If we provide more of this, where will that lead us?”</li>
+        </ul>
+        <p>But that’s too introspective. Introspection is slow. <a href="https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/" >Ain’t nobody got time for that.</a></p>
+        
+            <hr />
+            
+        
+            <p>
+              Reply via:
+              
+        
+              <a
+                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/"
+                >Email</a
+              >
+              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
+        
+              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
+            </p>]]>
+      </description>
+      <source:markdown>Eric Bailey has [a fun little post](https://ericwbailey.website/published/a-proposal-for-new-netflix-content-rating-icons/) about how we need more than a few icons to express the nuance of our shared human experience.
+
+For example, he suggests Netflix provide some feedback buttons to indicate the kinds of experiences we all share consuming and rating media:
+
+- “Just because I expressed interest in this show does not mean I want to be inundated with recommendations for its genre”
+- “Disregard \[that I pressed ‘thumbs up’\] my cat walked over the keyboard”
+- “I am making bad choices and hatewatching this” (which reminds me of )
+
+What’s great about the examples in Eric’s post is how familiar they are. We can read them and laugh because we’ve had the same thought — “I’m pressing ‘thumbs up’ here, but what I really mean is…”
+
+We know when we click that button that it’s a reductive expression of our experience that’ll be erroneously interpreted, but we do it anyway. [As Bryan Cantrill shared](https://notes.jim-nielsen.com/n/2026-08-18-1006/) from his experience:
+
+&#62; There&#39;s no way to indicate, “I’m engaging with this, but I hate myself for doing it.” I need another mouse button that is like, “I’m clicking on this, but I’m rage clicking on it and for my own mental health could you not drag more of this in front of me please?”
+
+We know these feedback mechanisms are often a misrepresentation of our actual experience.
+
+Yet we turn around in our professional contexts and see numbers like “142,432 users gave this a ‘thumbs up’” and we forget everything we knew about our own individual experience with these systems. We make it mean what we want it to mean, what’s convenient for measurement and reporting e.g. “Wow, what a great insight about our offerings! Let’s restructure our entire catalog around this new, objective, [(pseudo)](https://blog.jim-nielsen.com/2025/product-pseudoscience/) scientific fact that so many people obviously like this thing!”
+
+[We reduce the experiences of others to mere data, but grant ourselves exemption from such oversimplifications.](https://blog.jim-nielsen.com/2024/seeing-others-in-data-but-not-ourselves/)
+
+Where’s the conversation around:
+
+- Values, e.g. “Should we provide more of this? [We can say no to the data…](https://blog.jim-nielsen.com/2026/say-no-to-data/)”
+- Nuance, e.g. “What do people really mean when they click ‘thumbs up’ in this interface?”
+- Vision, e.g. “If we provide more of this, where will that lead us?”
+
+But that’s too introspective. Introspection is slow. [Ain’t nobody got time for that.](https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/)
+
+* * *
+
+Reply via:
+
+
+[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/)
+· [Mastodon](https://mastodon.social/@jimniels) ·
+
+[Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
+      <guid>cid://https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/</guid>
+    </item>    <item>
+      <link>https://hcommons.social/@pleiades_gazetteer/117190398481438567</link>
+      <description>
+        <![CDATA[<p>... complete with titles, descriptions, bylines, change summaries and links to the actual gazetteer entries, as well as an overview map, may be read on the <a href="https://hcommons.social/tags/PleiadesGazetteer" class="mention hashtag" rel="tag">#<span>PleiadesGazetteer</span></a> blog at <a href="https://pleiades.stoa.org/news/blog/last-three-weeks-in-pleiades-10-31-august-2026" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">pleiades.stoa.org/news/blog/la</span><span class="invisible">st-three-weeks-in-pleiades-10-31-august-2026</span></a></p><p><a href="https://hcommons.social/tags/ancientGeography" class="mention hashtag" rel="tag">#<span>ancientGeography</span></a> <a href="https://hcommons.social/tags/ancientHistory" class="mention hashtag" rel="tag">#<span>ancientHistory</span></a> <a href="https://hcommons.social/tags/archaeology" class="mention hashtag" rel="tag">#<span>archaeology</span></a> <a href="https://hcommons.social/tags/classics" class="mention hashtag" rel="tag">#<span>classics</span></a> <a href="https://hcommons.social/tags/DH" class="mention hashtag" rel="tag">#<span>DH</span></a> <a href="https://hcommons.social/tags/gazetteers" class="mention hashtag" rel="tag">#<span>gazetteers</span></a> <a href="https://hcommons.social/tags/HGIS" class="mention hashtag" rel="tag">#<span>HGIS</span></a> <a href="https://hcommons.social/tags/LOD" class="mention hashtag" rel="tag">#<span>LOD</span></a></p>]]>
+      </description>
+      <source:markdown>... complete with titles, descriptions, bylines, change summaries and links to the actual gazetteer entries, as well as an overview map, may be read on the [#PleiadesGazetteer](https://hcommons.social/tags/PleiadesGazetteer) blog at [https://pleiades.stoa.org/news/blog/last-three-weeks-in-pleiades-10-31-august-2026](https://pleiades.stoa.org/news/blog/last-three-weeks-in-pleiades-10-31-august-2026)
+
+[#ancientGeography](https://hcommons.social/tags/ancientGeography) [#ancientHistory](https://hcommons.social/tags/ancientHistory) [#archaeology](https://hcommons.social/tags/archaeology) [#classics](https://hcommons.social/tags/classics) [#DH](https://hcommons.social/tags/DH) [#gazetteers](https://hcommons.social/tags/gazetteers) [#HGIS](https://hcommons.social/tags/HGIS) [#LOD](https://hcommons.social/tags/LOD)</source:markdown>
+      <guid>cid://https://hcommons.social/@pleiades_gazetteer/117190398481438567</guid>
+      <category>pleiadesgazetteer</category>
+      <category>ancientgeography</category>
+      <category>ancienthistory</category>
+      <category>archaeology</category>
+      <category>classics</category>
+      <category>dh</category>
+      <category>gazetteers</category>
+      <category>hgis</category>
+      <category>lod</category>
+    </item>    <item>
+      <link>https://hcommons.social/@pleiades_gazetteer/117190393402286327</link>
+      <description>
+        <![CDATA[<p>Last 3 weeks in the <a href="https://hcommons.social/tags/PleiadesGazetteer" class="mention hashtag" rel="tag">#<span>PleiadesGazetteer</span></a> (10-31 August 2026): Over the course of the last three weeks,  the Pleiades editorial college published 29 new and 263 updated place resources, reflecting the work of Ashley Aguilar, Jeffrey Becker, Isabella Bryant, Ananya Budati, Anika Campbell, Timothy Chavez, Anne Chen, Ian G. Craig, Cayden Dang, Siya Desai, Tom Elliott, Alex Gentry, James Griffin, Maxime Guénette, Wells Hansen, Giacomo Iero, David Jarolimek, Brady Kiesling, Eleftheria Konstantinidou, Chris de Lisle, Matteo Luria, Rex Maurer, Audrey Moore, Holly Moore, Hailey Muir, Evelyn Muskat, Natalie Nickell, Chiara Palladino, Adam Rabinowitz, Cody Robert, Aaron Rogers, Marco Salazar, Zoe Sanchez, Maya Scheffler, Dex Schwartz, Ansley Siemer, Sam Thomas and Philip Towbin, as well as contributors to the Yale Digital Dura-Europos Archive. </p><p>A list of all new and changed resources ... 1/2</p><p><a href="https://hcommons.social/tags/ancientGeography" class="mention hashtag" rel="tag">#<span>ancientGeography</span></a> <a href="https://hcommons.social/tags/ancientHistory" class="mention hashtag" rel="tag">#<span>ancientHistory</span></a> <a href="https://hcommons.social/tags/archaeology" class="mention hashtag" rel="tag">#<span>archaeology</span></a> <a href="https://hcommons.social/tags/classics" class="mention hashtag" rel="tag">#<span>classics</span></a> <a href="https://hcommons.social/tags/DH" class="mention hashtag" rel="tag">#<span>DH</span></a> <a href="https://hcommons.social/tags/gazetteers" class="mention hashtag" rel="tag">#<span>gazetteers</span></a> <a href="https://hcommons.social/tags/HGIS" class="mention hashtag" rel="tag">#<span>HGIS</span></a> <a href="https://hcommons.social/tags/LOD" class="mention hashtag" rel="tag">#<span>LOD</span></a></p>]]>
+      </description>
+      <source:markdown>Last 3 weeks in the [#PleiadesGazetteer](https://hcommons.social/tags/PleiadesGazetteer) (10-31 August 2026): Over the course of the last three weeks, the Pleiades editorial college published 29 new and 263 updated place resources, reflecting the work of Ashley Aguilar, Jeffrey Becker, Isabella Bryant, Ananya Budati, Anika Campbell, Timothy Chavez, Anne Chen, Ian G. Craig, Cayden Dang, Siya Desai, Tom Elliott, Alex Gentry, James Griffin, Maxime Guénette, Wells Hansen, Giacomo Iero, David Jarolimek, Brady Kiesling, Eleftheria Konstantinidou, Chris de Lisle, Matteo Luria, Rex Maurer, Audrey Moore, Holly Moore, Hailey Muir, Evelyn Muskat, Natalie Nickell, Chiara Palladino, Adam Rabinowitz, Cody Robert, Aaron Rogers, Marco Salazar, Zoe Sanchez, Maya Scheffler, Dex Schwartz, Ansley Siemer, Sam Thomas and Philip Towbin, as well as contributors to the Yale Digital Dura-Europos Archive.
+
+A list of all new and changed resources ... 1/2
+
+[#ancientGeography](https://hcommons.social/tags/ancientGeography) [#ancientHistory](https://hcommons.social/tags/ancientHistory) [#archaeology](https://hcommons.social/tags/archaeology) [#classics](https://hcommons.social/tags/classics) [#DH](https://hcommons.social/tags/DH) [#gazetteers](https://hcommons.social/tags/gazetteers) [#HGIS](https://hcommons.social/tags/HGIS) [#LOD](https://hcommons.social/tags/LOD)</source:markdown>
+      <guid>cid://https://hcommons.social/@pleiades_gazetteer/117190393402286327</guid>
+      <category>pleiadesgazetteer</category>
+      <category>ancientgeography</category>
+      <category>ancienthistory</category>
+      <category>archaeology</category>
+      <category>classics</category>
+      <category>dh</category>
+      <category>gazetteers</category>
+      <category>hgis</category>
+      <category>lod</category>
+    </item>    <item>
+      <title>Here are the winners of the 2026 Hugo Awards.</title>
+      <link>https://lithub.com/here-are-the-winners-of-the-2026-hugo-awards/</link>
+      <description>
+        <![CDATA[The winners of the 2026 Hugo Awards—one of science fiction and fantasy’s most prestigious awards, decided by popular vote of all eligible WorldCon members—were presented this weekend at the 84th World Science Fiction Convention in sunny Los Angeles, CA. A]]>
+      </description>
+      <source:markdown>The winners of the 2026 Hugo Awards—one of science fiction and fantasy’s most prestigious awards, decided by popular vote of all eligible WorldCon members—were presented this weekend at the 84th World Science Fiction Convention in sunny Los Angeles, CA. A</source:markdown>
+      <guid>cid://https://lithub.com/?p=276394</guid>
+      <category>Book News</category>
+      <category>News and Culture</category>
+      <category>The Hub</category>
+      <category>Ada Palmer</category>
+      <category>Alix E. Harrow</category>
+      <category>Amal El-Mohtar</category>
+      <category>Antonia Hodgson</category>
+      <category>C.B. Lee</category>
+      <category>H.H. Pak</category>
+      <category>Hugo Awards</category>
+      <category>hugo winners</category>
+      <category>John Scalzi</category>
+      <category>literary awards</category>
+      <category>SFF</category>
+      <category>The Everlasting</category>
+      <category>The River Has Roots</category>
+      <category>Thomas Ha</category>
+      <category>Ursula K. Le Guin</category>
+      <category>WorldCon</category>
+    </item>    <item>
+      <link>https://hcommons.social/@pleiades_gazetteer/117190121400943521</link>
+      <description>
+        <![CDATA[<p>Export Updates 2026-08-31:<br />Pleiades gazetteer of ancient places</p><p>15 updated places. 5 updated linked data sidebars.</p><p>1. Downloads: <a href="https://pleiades.stoa.org/downloads" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">pleiades.stoa.org/downloads</span><span class="invisible"></span></a></p><p>2. pleiades.datasets: <a href="https://github.com/isawnyu/pleiades.datasets" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/isawnyu/pleiades.da</span><span class="invisible">tasets</span></a>:</p><p>&quot;main&quot; branch:</p><p>c88f220a - updated json<br />6e641027 - updated rdf/ttl<br />cbde6b95 - updated gis package<br />0ef6bd3a - updated data quality<br />23700606 - updated bibliography<br />53d7011d - updated indexes<br />cdfff65c - updated sidebar</p><p>3. pleiades-geojson: <a href="https://github.com/ryanfb/pleiades-geojson" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/ryanfb/pleiades-geo</span><span class="invisible">json</span></a>:</p><p>696aaf9a - updated geojson and names index</p><p>4. pleiades_wikidata: <a href="https://github.com/isawnyu/pleiades_wikidata/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/isawnyu/pleiades_wi</span><span class="invisible">kidata/</span></a>:</p><p>a7479447 - updated pleiades wikidata (NB: Wikidata query service unavailable, so changes are only on the Pleiades side)</p>]]>
+      </description>
+      <source:markdown>Export Updates 2026-08-31:
+
+Pleiades gazetteer of ancient places
+
+15 updated places. 5 updated linked data sidebars.
+
+1\. Downloads: [https://pleiades.stoa.org/downloads](https://pleiades.stoa.org/downloads)
+
+2\. pleiades.datasets: [https://github.com/isawnyu/pleiades.datasets](https://github.com/isawnyu/pleiades.datasets):
+
+&#34;main&#34; branch:
+
+c88f220a - updated json
+
+6e641027 - updated rdf/ttl
+
+cbde6b95 - updated gis package
+
+0ef6bd3a - updated data quality
+
+23700606 - updated bibliography
+
+53d7011d - updated indexes
+
+cdfff65c - updated sidebar
+
+3\. pleiades-geojson: [https://github.com/ryanfb/pleiades-geojson](https://github.com/ryanfb/pleiades-geojson):
+
+696aaf9a - updated geojson and names index
+
+4\. pleiades\_wikidata: [https://github.com/isawnyu/pleiades\_wikidata/](https://github.com/isawnyu/pleiades_wikidata/):
+
+a7479447 - updated pleiades wikidata (NB: Wikidata query service unavailable, so changes are only on the Pleiades side)</source:markdown>
+      <guid>cid://https://hcommons.social/@pleiades_gazetteer/117190121400943521</guid>
+    </item>    <item>
+      <link>https://hcommons.social/@pleiades_gazetteer/117190085995217293</link>
+      <description>
+        <![CDATA[<p>Wikidata query service remains unavailable due to various errors. Pleiades exports and derivatives generation will proceed with last known good Wikidata results.</p>]]>
+      </description>
+      <source:markdown>Wikidata query service remains unavailable due to various errors. Pleiades exports and derivatives generation will proceed with last known good Wikidata results.</source:markdown>
+      <guid>cid://https://hcommons.social/@pleiades_gazetteer/117190085995217293</guid>
+    </item>    <item>
+      <link>https://hcommons.social/@pleiades_gazetteer/117189931253516532</link>
+      <description>
+        <![CDATA[<p>Daily exports/derivatives will be delayed as the Wikidata query interface is responding with &quot;upstream request timeout&quot; and &quot;Query timeout limit reached&quot;</p>]]>
+      </description>
+      <source:markdown>Daily exports/derivatives will be delayed as the Wikidata query interface is responding with &#34;upstream request timeout&#34; and &#34;Query timeout limit reached&#34;</source:markdown>
+      <guid>cid://https://hcommons.social/@pleiades_gazetteer/117189931253516532</guid>
+    </item>    <item>
+      <title>It’s Over</title>
+      <link>https://dbarkhuff.substack.com/p/its-over</link>
+      <description>
+        <![CDATA[Last night I took my 7 year old son, along with a few of his friends, to the &#8220;Night Of Fire And Destruction&#8221; at the Champlain Valley Fair in Essex Junction, Vermont.]]>
+      </description>
+      <source:markdown>Last night I took my 7 year old son, along with a few of his friends, to the “Night Of Fire And Destruction” at the Champlain Valley Fair in Essex Junction, Vermont.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!VL-Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6bc79ed-573c-41a3-b1fe-11f3370f57c8_956x1170.webp" length="0" type="image/jpeg" />
+      <guid>cid://https://dbarkhuff.substack.com/p/its-over</guid>
+    </item>    <item>
+      <title>Hiding Prompt Injection in Legal Filing</title>
+      <link>https://www.schneier.com/blog/archives/2026/08/hiding-prompt-injection-in-legal-filing.html</link>
+      <description>
+        <![CDATA[<p>Someone <a href="https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/">hid</a> AI instructions into a legal filing.</p>
+        <p>Alternate <a href="https://archive.ph/NHf32">link</a>.</p>]]>
+      </description>
+      <source:markdown>Someone [hid](https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/) AI instructions into a legal filing.
+
+Alternate [link](https://archive.ph/NHf32).</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=72543</guid>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>courts</category>
+      <category>prompt injection</category>
+    </item>    <item>
+      <title>Lindsey Graham’s Sister Promises to Learn Where Iran Is</title>
+      <link>https://www.borowitzreport.com/p/lindsey-grahams-sister-promises-to</link>
+      <description>
+        <![CDATA["As God is my witness, if you elect me for a full term in the US Senate, I will google Iran," she said.]]>
+      </description>
+      <source:markdown>&#34;As God is my witness, if you elect me for a full term in the US Senate, I will google Iran,&#34; she said.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!JGEI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F443a53f4-6883-4f00-af7c-0da6e557a2f1_1024x683.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/lindsey-grahams-sister-promises-to</guid>
+    </item>    <item>
+      <title>From Kakistocracy to Cheatistocracy</title>
+      <link>https://paulkrugman.substack.com/p/from-kakistocracy-to-cheatistocracy</link>
+      <description>
+        <![CDATA[Rewarding the most dishonest]]>
+      </description>
+      <source:markdown>Rewarding the most dishonest</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/213445838/9d051588f59b4b80e1207cef8852236c.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/from-kakistocracy-to-cheatistocracy</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: August 31, 2026</title>
+      <link>https://lithub.com/lit-hub-daily-august-31-2026/</link>
+      <description>
+        <![CDATA[&#8220;Terror wasn’t the only weapon the Nazis used against the American prisoners. Sometimes, they used propagandistic persuasion as well.&#8221; On the myths and facts of Dresden in Slaughterhouse-Five. &#124; Lit Hub Biography Marlon James tells Eric Olson about (finally!) writing]]>
+      </description>
+      <source:markdown>“Terror wasn’t the only weapon the Nazis used against the American prisoners. Sometimes, they used propagandistic persuasion as well.” On the myths and facts of Dresden in Slaughterhouse-Five. \| Lit Hub Biography Marlon James tells Eric Olson about (finally!) writing</source:markdown>
+      <guid>cid://https://lithub.com/?p=276366</guid>
+      <category>Lit Hub Daily</category>
+    </item>    <item>
+      <title>Desperate to appear strong, Trump shows pathetic weakness</title>
+      <link>https://www.publicnotice.co/p/trump-lake-ontario</link>
+      <description>
+        <![CDATA[Renaming stuff isn&#8217;t the flex he thinks it is.]]>
+      </description>
+      <source:markdown>Renaming stuff isn’t the flex he thinks it is.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!_9oT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb418fe95-56fe-4449-ae4c-9c9152637751_7344x4896.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.publicnotice.co/p/trump-lake-ontario</guid>
+    </item>    <item>
+      <title>On the Fact and Fiction of Kurt Vonnegut’s Dresden</title>
+      <link>https://lithub.com/on-the-fact-and-fiction-of-kurt-vonneguts-dresden/</link>
+      <description>
+        <![CDATA[Kurt Vonnegut describes the train arriving in Dresden at five o’clock that afternoon: “The boxcar doors were opened, and the doorways framed the loveliest city that most of the Americans had ever seen. The skyline was intricate and voluptuous and]]>
+      </description>
+      <source:markdown>Kurt Vonnegut describes the train arriving in Dresden at five o’clock that afternoon: “The boxcar doors were opened, and the doorways framed the loveliest city that most of the Americans had ever seen. The skyline was intricate and voluptuous and</source:markdown>
+      <guid>cid://https://lithub.com/?p=276081</guid>
+      <category>Biography</category>
+      <category>Features</category>
+      <category>History</category>
+      <category>News and Culture</category>
+      <category>Bloomsbury Academic</category>
+      <category>Bloomsbury Publishing</category>
+      <category>Germany</category>
+      <category>Kurt Vonnegut</category>
+      <category>Nazi Germany</category>
+      <category>Slaughterhouse-Five</category>
+      <category>Susan Farrell</category>
+      <category>Vonnegut’s War: The Making of Slaughterhouse-Five</category>
+      <category>war</category>
+      <category>World War II</category>
+    </item>    <item>
+      <title>Marlon James on (Finally) Writing a Novel That Draws From His Life</title>
+      <link>https://lithub.com/marlon-james-on-finally-writing-a-novel-that-draws-from-his-life/</link>
+      <description>
+        <![CDATA[Says a narrator in Marlon James’s freshly Booker-nominated The Disappearers, “I’ve made such a terrible mess out of being a homo.” The novel’s protagonists are all gay men in ‘80s and ‘90s Jamaica; each makes similar proclamations. “But the statement]]>
+      </description>
+      <source:markdown>Says a narrator in Marlon James’s freshly Booker-nominated The Disappearers, “I’ve made such a terrible mess out of being a homo.” The novel’s protagonists are all gay men in ‘80s and ‘90s Jamaica; each makes similar proclamations. “But the statement</source:markdown>
+      <guid>cid://https://lithub.com/?p=276309</guid>
+      <category>Craft and Criticism</category>
+      <category>Fullwidth Slider</category>
+      <category>In Conversation</category>
+      <category>Eric Olson</category>
+      <category>Marlon James</category>
+      <category>profiles</category>
+      <category>Riverhead Books</category>
+      <category>The Disappearers</category>
+    </item>    <item>
+      <title>Fun, Feminine and Fundamental: In Defense of Frivolity</title>
+      <link>https://lithub.com/fun-feminine-and-fundamental-in-defense-of-frivolity/</link>
+      <description>
+        <![CDATA[It will be the Year of Perfect Skin, I told myself. I had arrived at my mid-forties, and the mirror suddenly gave me a face crosshatched with creases. I was Portrait of a Woman Aging. I was a cubist composition,]]>
+      </description>
+      <source:markdown>It will be the Year of Perfect Skin, I told myself. I had arrived at my mid-forties, and the mirror suddenly gave me a face crosshatched with creases. I was Portrait of a Woman Aging. I was a cubist composition,</source:markdown>
+      <guid>cid://https://lithub.com/?p=276044</guid>
+      <category>Craft and Criticism</category>
+      <category>Features</category>
+      <category>Literary Criticism</category>
+      <category>News and Culture</category>
+      <category>art history</category>
+      <category>Columbia University Press</category>
+      <category>cultural criticism</category>
+      <category>Frivolity: A Defense</category>
+      <category>Jehanne Dubrow</category>
+    </item>    <item>
+      <title>What Does Beatlemania Have to Teach Us About Pop Culture Today?</title>
+      <link>https://lithub.com/what-does-beatlemania-have-to-teach-us-about-pop-culture-today/</link>
+      <description>
+        <![CDATA[This conversation between two authors who happen to share the same name: BBC and Channel 4 broadcaster Samira Ahmed, whose A Hard Day&#8217;s Night in Bloomsbury&#8217;s BFI Film Classics series just released this month in the US/Canada, and Little, Brown&#8217;s bestselling author]]>
+      </description>
+      <source:markdown>This conversation between two authors who happen to share the same name: BBC and Channel 4 broadcaster Samira Ahmed, whose A Hard Day’s Night in Bloomsbury’s BFI Film Classics series just released this month in the US/Canada, and Little, Brown’s bestselling author</source:markdown>
+      <guid>cid://https://lithub.com/?p=275978</guid>
+      <category>Craft and Criticism</category>
+      <category>Features</category>
+      <category>In Conversation</category>
+      <category>Music</category>
+      <category>A Hard Day&#39;s Night</category>
+      <category>bands</category>
+      <category>fandom</category>
+      <category>interview</category>
+      <category>interviews</category>
+      <category>pop culture</category>
+      <category>Samira Ahmed</category>
+      <category>The Beatles</category>
+      <category>writers in conversation</category>
+    </item>    <item>
+      <title>Meet Pierre “Peter” Ortiz, Undercover Spy, Marine and Resistance Fighter</title>
+      <link>https://lithub.com/meet-pierre-peter-ortiz-undercover-spy-marine-and-resistance-fighter/</link>
+      <description>
+        <![CDATA[I’ve heard my grandfather’s voice just once. It was on a 1949 episode of the NBC radio show This Is Your Life, recounting his escape from occupied France after a German night fighter shot down the plane he was flying]]>
+      </description>
+      <source:markdown>I’ve heard my grandfather’s voice just once. It was on a 1949 episode of the NBC radio show This Is Your Life, recounting his escape from occupied France after a German night fighter shot down the plane he was flying</source:markdown>
+      <guid>cid://https://lithub.com/?p=276150</guid>
+      <category>Features</category>
+      <category>History</category>
+      <category>Memoir</category>
+      <category>News and Culture</category>
+      <category>Europe</category>
+      <category>Harper</category>
+      <category>HarperCollins Publishers</category>
+      <category>Katie S. Sanders</category>
+      <category>Nicholas Reynolds</category>
+      <category>Ortiz’s War: The Allies’ Secret Weapon Against the Nazis</category>
+      <category>spies</category>
+      <category>World War II</category>
+    </item>    <item>
+      <title>Body Language</title>
+      <link>https://lithub.com/body-language/</link>
+      <description>
+        <![CDATA[Nanette and Josie finished praying and walked toward the bus stop. Josie pulled out her phone. She wanted to show Nanette a group she&#8217;d found on Instagram: @NunsAgainstGuns. &#8220;This one is fire,&#8221; Josie said. Nanette looked at a photo of]]>
+      </description>
+      <source:markdown>Nanette and Josie finished praying and walked toward the bus stop. Josie pulled out her phone. She wanted to show Nanette a group she’d found on Instagram: @NunsAgainstGuns. “This one is fire,” Josie said. Nanette looked at a photo of</source:markdown>
+      <guid>cid://https://lithub.com/?p=275672</guid>
+      <category>Daily Fiction</category>
+      <category>Excerpts</category>
+      <category>Fiction and Poetry</category>
+      <category>From the Novel</category>
+      <category>Novels</category>
+      <category>Body Language</category>
+      <category>Meg Howrey</category>
+    </item>    <item>
+      <title>Who’s Nuts?</title>
+      <link>https://robertreich.substack.com/p/whos-nuts</link>
+      <description>
+        <![CDATA[Trump&#8217;s &#8220;artificially fabricated insanity&#8221; is worsening, but Americans are on to him.]]>
+      </description>
+      <source:markdown>Trump’s “artificially fabricated insanity” is worsening, but Americans are on to him.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!3JlN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43fd85bc-3eda-4aff-9d84-672578c7616d_1560x1040.avif" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/whos-nuts</guid>
+    </item>    <item>
+      <title>Adam Johnson, Muriel Spark, bardic rivalry… and 25 more books out in paperback this September.</title>
+      <link>https://lithub.com/adam-johnson-muriel-spark-bardic-rivalry-and-25-more-books-out-in-paperback-this-september/</link>
+      <description>
+        <![CDATA[September is here, and with it comes a bevy of new books. Below, you&#8217;ll find twenty-five delightful reads to consider, each in a fresh paperback edition, including debuts, sophomore releases, rich translations, and new works from established authors. You&#8217;ll find]]>
+      </description>
+      <source:markdown>September is here, and with it comes a bevy of new books. Below, you’ll find twenty-five delightful reads to consider, each in a fresh paperback edition, including debuts, sophomore releases, rich translations, and new works from established authors. You’ll find</source:markdown>
+      <guid>cid://https://lithub.com/?p=276142</guid>
+      <category>Craft and Criticism</category>
+      <category>Literary Criticism</category>
+      <category>Reading Lists</category>
+      <category>The Hub</category>
+      <category>A Guardian and a Thief</category>
+      <category>Adam Johnson</category>
+      <category>Adam Nicolson</category>
+      <category>Agustín Fuentes</category>
+      <category>Amie Barrodale</category>
+      <category>Amity</category>
+      <category>Bad Bad Girl</category>
+      <category>Bird School: A Beginner in the Wood</category>
+      <category>Boy From the North Country</category>
+      <category>Charlotte Beradt</category>
+      <category>Ciara Greene</category>
+      <category>Cory Doctorow</category>
+      <category>Damion Searls</category>
+      <category>David Brookshaw</category>
+      <category>Electric Spark: The Enigma of Dame Muriel</category>
+      <category>Enshittification: Why Everything Suddenly Got Worse and What to Do About It</category>
+      <category>Frances Wilson</category>
+      <category>Gilded Rage: Elon Musk and the Radicalization of Silicon Valley</category>
+      <category>Gillian Murphy</category>
+      <category>Gish Jen</category>
+      <category>gray dawn</category>
+      <category>Heather Aimee</category>
+      <category>Hu Anyan</category>
+      <category>I Deliver Parcels in Beijing</category>
+      <category>Ian Leslie</category>
+      <category>Jack Hargreaves</category>
+      <category>Jacob Silverman</category>
+      <category>John and Paul: A Love Story in Songs</category>
+      <category>Jordan Castro</category>
+      <category>Karl Ove Knausgaard</category>
+      <category>Megha Majumdar</category>
+      <category>Memory Lane: The Perfectly Imperfect Ways We Remember</category>
+      <category>Mia Couto</category>
+      <category>Muscle Man</category>
+      <category>Nathan Harris</category>
+      <category>paperbacks</category>
+      <category>Playing Wolf</category>
+      <category>Ripeness</category>
+      <category>Sam Sussman</category>
+      <category>Sarah Moss</category>
+      <category>Sex Is a Spectrum: The Biological Limit of the Binary</category>
+      <category>The Cartographer of Absences</category>
+      <category>The Irish Goodbye</category>
+      <category>The School of Night</category>
+      <category>The Third Reich of Dreams: The Nightmares of a Nation</category>
+      <category>The Wayfinder</category>
+      <category>This is For Everyone: The Unfinished Story of the World Wide Web</category>
+      <category>Tim Berners-Lee</category>
+      <category>Trip</category>
+      <category>Walter Mosley</category>
+      <category>Zuzan Říhová</category>
+    </item>    <item>
+      <title>Forget more reservoirs; should the UK just build desalination plants instead?</title>
+      <link>https://hannahritchie.substack.com/p/forget-more-reservoirs-should-the</link>
+      <description>
+        <![CDATA[Maybe, but not as a way to manage droughts. That&#8217;s when they seem to break.]]>
+      </description>
+      <source:markdown>Maybe, but not as a way to manage droughts. That’s when they seem to break.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!HfUn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29ef5bab-70a5-4824-8f07-3afa271ce14f_1407x891.png" length="0" type="image/jpeg" />
+      <guid>cid://https://hannahritchie.substack.com/p/forget-more-reservoirs-should-the</guid>
+    </item>    <item>
+      <title>August 30, 2026</title>
+      <link>https://heathercoxrichardson.substack.com/p/august-30-2026</link>
+      <description>
+        <![CDATA[One of our founding myths is that of George Washington and the cherry tree.]]>
+      </description>
+      <source:markdown>One of our founding myths is that of George Washington and the cherry tree.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!yKDv!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b47f775-3df7-41dd-8bc9-a64cdd72d948_600x600.png" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/august-30-2026</guid>
+    </item>    <item>
+      <title>Week Fourteen in 250 to 250</title>
+      <link>https://heathercoxrichardson.substack.com/p/week-fourteen-in-250-to-250</link>
+      <description>
+        <![CDATA[Last week was the fourteenth week of videos from the 250 to 250 Project that we&#8217;re producing to honor the 250th anniversary of the Declaration of Independence.]]>
+      </description>
+      <source:markdown>Last week was the fourteenth week of videos from the 250 to 250 Project that we’re producing to honor the 250th anniversary of the Declaration of Independence.</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/bd55d33c-272b-424f-88ed-cc92253cacbd_1920x1080.png" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/week-fourteen-in-250-to-250</guid>
+    </item>    <item>
+      <title>They said Mac is easy to use</title>
+      <link>http://jirka.1-2-8.net/20260831-0241_They_said_Mac_is_easy_to_use</link>
+      <description>
+        <![CDATA[Well, we have a new Apple machine  at work - the MacBook Neo. Yes, that think which  looks like a computer  but has old phone  internals. Looks good, of course. But...]]>
+      </description>
+      <source:markdown>Well, we have a new Apple machine at work - the MacBook Neo. Yes, that think which looks like a computer but has old phone internals. Looks good, of course. But...</source:markdown>
+      <guid>cid://ce4942c5d98858564e0fd108627d7b04</guid>
+    </item>    <item>
+      <title>Agency and Agents</title>
+      <link>https://www.oneusefulthing.org/p/agency-and-agents</link>
+      <description>
+        <![CDATA[From the Hugging Face Incident to Twilight Factories]]>
+      </description>
+      <source:markdown>From the Hugging Face Incident to Twilight Factories</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!LzPL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94cee090-1da6-4c8d-a043-01d835708104_1456x816.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.oneusefulthing.org/p/agency-and-agents</guid>
+    </item>    <item>
+      <title>Monday 31 August, 2026</title>
+      <link>https://memex.naughtons.org/monday-31-august-2026/42638/</link>
+      <description>
+        <![CDATA[Burren View One of my favourite photographs. It’s taken from the northern shore of Galway Bay looking south to the ‘moonscape’ of the Burren in Co Clare. Quote of the Day ”The English hoard words like misers; the Irish spend &#8230; <a href="https://memex.naughtons.org/monday-31-august-2026/42638/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>Burren View One of my favourite photographs. It’s taken from the northern shore of Galway Bay looking south to the ‘moonscape’ of the Burren in Co Clare. Quote of the Day ”The English hoard words like misers; the Irish spend … [Continue reading →](https://memex.naughtons.org/monday-31-august-2026/42638/)</source:markdown>
+      <guid>cid://https://memex.naughtons.org/?p=42638</guid>
+      <category>Online version</category>
+    </item>    <item>
+      <title>Before NTP there were Time and Daytime</title>
+      <link>https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/</link>
+      <description>
+        <![CDATA[<p>In building an NTP time demo on old Macs for <a href="https://vcfmw.org">VCF Midwest</a>, I came across <a href="https://www.rfc-editor.org/info/rfc867/">RFC 867</a> and <a href="https://www.rfc-editor.org/info/rfc868/">RFC 868</a>, for the 'Daytime' and 'Time' Protocols, respectively.</p>
+        <figure class="insert-image"><img src="https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/rfc-867-daytime-protocol.png"
+        			alt="RFC 867 Daytime Protocol" width="700" height="auto">
+        </figure>
+        
+        <p>My first exposure to any form of network time was when I upgraded from a used PowerBook 180c to my first 'new' computer, a Power Mac G3, in 2000. With the introduction of Mac OS 8.5, Apple added a 'Network Time Server' option in the Date &amp; Time Control Panel.</p>]]>
+      </description>
+      <source:markdown>In building an NTP time demo on old Macs for [VCF Midwest](https://vcfmw.org), I came across [RFC 867](https://www.rfc-editor.org/info/rfc867/) and [RFC 868](https://www.rfc-editor.org/info/rfc868/), for the &#39;Daytime&#39; and &#39;Time&#39; Protocols, respectively.
+
+![RFC 867 Daytime Protocol](https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/rfc-867-daytime-protocol.png)
+
+My first exposure to any form of network time was when I upgraded from a used PowerBook 180c to my first &#39;new&#39; computer, a Power Mac G3, in 2000. With the introduction of Mac OS 8.5, Apple added a &#39;Network Time Server&#39; option in the Date &#38; Time Control Panel.</source:markdown>
+      <author>jeff@jeffgeerling.com (Jeff Geerling)</author>
+      <guid>cid://https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/</guid>
+    </item>    <item>
+      <title>2026-08-29 Rosenlaui gorge and Engelhorn cabin</title>
+      <link>https://alexschroeder.ch/view/2026-08-29-rosenlaui</link>
+      <description>
+        <![CDATA[<h1 id="2026-08-29-rosenlaui-gorge-and-engelhorn-cabin">2026-08-29 Rosenlaui gorge and Engelhorn cabin</h1>
+        
+        <p>Yesterday, we went to see the Rosenlaui gorge. Sadly, the thunderous roar
+        cannot be heard in this blog post.</p>
+        
+        <p><img loading="lazy" src="2026-08-29-rosenlaui.jpeg" alt="A narrow gorge with a passage hewn into the stone for people to walk up." />
+        <img loading="lazy" src="2026-08-29-rosenlaui-1.jpeg" alt="The walls get steeper but we can still see the trees above." />
+        <img loading="lazy" src="2026-08-29-rosenlaui-2.jpeg" alt="The gorge is now so narrow that the sky is no longer visible." />
+        <img loading="lazy" src="2026-08-29-rosenlaui-3.jpeg" alt="Seen from above, the turbulent water below is amazing." /></p>
+        
+        <p>We kept on climbing up to the Engelhorn cabin. A nice medium level mountain
+        hike.</p>
+        
+        <p><img loading="lazy" src="2026-08-29-rosenlaui-4.jpeg" alt="Looking up at the glacier. It is very small." />
+        <img loading="lazy" src="2026-08-29-rosenlaui-5.jpeg" alt="A view towards the valley from where we came. All is green." />
+        <img loading="lazy" src="2026-08-29-rosenlaui-6.jpeg" alt="Further up, our party had a better view of the glacier." />
+        <img loading="lazy" src="2026-08-29-rosenlaui-7.jpeg" alt="And this is us on the final part of our hike, about to reach the cabin. Everybody is cheering." /></p>
+        
+        <p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Jungfrau">#Jungfrau</a></p>]]>
+      </description>
+      <source:markdown># 2026-08-29 Rosenlaui gorge and Engelhorn cabin
+
+Yesterday, we went to see the Rosenlaui gorge. Sadly, the thunderous roar
+cannot be heard in this blog post.
+
+![A narrow gorge with a passage hewn into the stone for people to walk up.](2026-08-29-rosenlaui.jpeg)![The walls get steeper but we can still see the trees above.](2026-08-29-rosenlaui-1.jpeg)![The gorge is now so narrow that the sky is no longer visible.](2026-08-29-rosenlaui-2.jpeg)![Seen from above, the turbulent water below is amazing.](2026-08-29-rosenlaui-3.jpeg)
+
+We kept on climbing up to the Engelhorn cabin. A nice medium level mountain
+hike.
+
+![Looking up at the glacier. It is very small.](2026-08-29-rosenlaui-4.jpeg)![A view towards the valley from where we came. All is green.](2026-08-29-rosenlaui-5.jpeg)![Further up, our party had a better view of the glacier.](2026-08-29-rosenlaui-6.jpeg)![And this is us on the final part of our hike, about to reach the cabin. Everybody is cheering.](2026-08-29-rosenlaui-7.jpeg)
+
+[#Pictures](/search/?q=%23Pictures) [#Jungfrau](/search/?q=%23Jungfrau)</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2026-08-29-rosenlaui</guid>
+      <category>Pictures</category>
+      <category>Jungfrau</category>
+    </item>    <item>
+      <title>Live with Michael Moore - His first-ever book club discussion and - bonus! His rendition of &#34;Oh, Canada!&#34;</title>
+      <link>https://www.michaelmoore.com/p/live-with-michael-moore-his-first</link>
+      <description>
+        <![CDATA[A recording from Michael Moore's live video]]>
+      </description>
+      <source:markdown>A recording from Michael Moore&#39;s live video</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/213449414/b7e5d28412047e3752a85d4effd2486a.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.michaelmoore.com/p/live-with-michael-moore-his-first</guid>
+    </item>    <item>
+      <title>‘Breaking the News’ is Back.</title>
+      <link>https://fallows.substack.com/p/breaking-the-news-is-back</link>
+      <description>
+        <![CDATA[And so it begins (again).]]>
+      </description>
+      <source:markdown>And so it begins (again).</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!nsN4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F92fe5086-7081-4916-a6f5-7e287d5d8de3_2121x1414.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://fallows.substack.com/p/breaking-the-news-is-back</guid>
+    </item>    <item>
+      <title>Sunday caption contest: Vacation</title>
+      <link>https://robertreich.substack.com/p/sunday-caption-contest-vacation</link>
+      <description>
+        <![CDATA[And last week&#8217;s winner]]>
+      </description>
+      <source:markdown>And last week’s winner</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Hd6D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10228727-eefc-4ab5-9be4-6e9540abd917_3344x2074.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-caption-contest-vacation</guid>
+    </item>    <item>
+      <title>My emergency food supply is extra normal food</title>
+      <link>https://tracydurnell.com/2026/08/30/my-emergency-food-supply/</link>
+      <description>
+        <![CDATA[While most emergency preparation in the PNW focuses on &#8220;The Big One,&#8221; I&#8217;ve realized the most common scenarios in which we actually need emergency food and water are: winter storm power outages (1-4 days, 1-3 times a year) and water main breaks (we had a two-day shutdown ~4 years ago, and a street-level shutdown a [&#8230;]]]>
+      </description>
+      <source:markdown>While most emergency preparation in the PNW focuses on “The Big One,” I’ve realized the most common scenarios in which we actually need emergency food and water are: winter storm power outages (1-4 days, 1-3 times a year) and water main breaks (we had a two-day shutdown ~4 years ago, and a street-level shutdown a \[…\]</source:markdown>
+      <guid>cid://https://tracydurnell.com/?p=40316</guid>
+      <category>Food</category>
+      <category>House</category>
+      <category>Shopping</category>
+      <category>emergency</category>
+      <category>food systems</category>
+      <category>imperfection</category>
+      <category>list</category>
+      <category>preparedness</category>
+      <category>process</category>
+      <category>storage</category>
+    </item>    <item>
+      <title>Our Wins Of The Week</title>
+      <link>https://thinkbigpicture.substack.com/p/week-progressive-wins-august-30</link>
+      <description>
+        <![CDATA[On Thursday, Donald Trump&#8217;s executive order restricting mail-in voting was once again blocked by a federal judge.]]>
+      </description>
+      <source:markdown>On Thursday, Donald Trump’s executive order restricting mail-in voting was once again blocked by a federal judge.</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/a78cae4d-358e-4d50-b852-87448dff0b94_1024x606.png" length="0" type="image/jpeg" />
+      <guid>cid://https://thinkbigpicture.substack.com/p/week-progressive-wins-august-30</guid>
+    </item>    <item>
+      <title>One out of six Trump voters says they wouldn&#39;t vote for him again</title>
+      <link>https://www.gelliottmorris.com/p/2026-08-30-sunday-roundup</link>
+      <description>
+        <![CDATA[Plus, a few articles on why polling isn't broken #ackshually, and YouGov&#8217;s LV-RV gap. Your weekly political data roundup for August 30, 2026.]]>
+      </description>
+      <source:markdown>Plus, a few articles on why polling isn&#39;t broken #ackshually, and YouGov’s LV-RV gap. Your weekly political data roundup for August 30, 2026.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!78F8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50ea9134-8400-4d78-bfac-909b0b0a7b7e_1816x804.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/2026-08-30-sunday-roundup</guid>
+    </item>    <item>
+      <title>A Desperate Trump Steals Venezuela’s Oil And Spirals Here At Home, Russia Escalates In Europe, El-Sayed Apologizes</title>
+      <link>https://www.hopiumchronicles.com/p/a-desperate-trump-steals-venezuelas</link>
+      <description>
+        <![CDATA[Bobby Pulido (TX-15) joins us live tomorrow at 2pm ET]]>
+      </description>
+      <source:markdown>Bobby Pulido (TX-15) joins us live tomorrow at 2pm ET</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Fm2z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2fdc55b7-9b59-4073-80ba-53ff4de01012_1075x705.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/a-desperate-trump-steals-venezuelas</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/08/30.html#a162337</link>
+      <description>
+        <![CDATA[One of life's lessons is if someone does something evil to you, and you decide to let it go, they are sure to do it again and again until you stop letting them do it.]]>
+      </description>
+      <source:markdown>One of life&#39;s lessons is if someone does something evil to you, and you decide to let it go, they are sure to do it again and again until you stop letting them do it.</source:markdown>
+      <guid>cid://http://scripting.com/2026/08/30.html#a162337</guid>
+    </item>    <item>
+      <title>Summertime reading</title>
+      <link>http://www.enlightenmenteconomics.com/blog/index.php/2026/08/summertime-reading/</link>
+      <description>
+        <![CDATA[It&#8217;s the end of August, the weather in the UK has turned so it&#8217;s the end of evenings sitting in the shade of the garden reading. I was writing a first draft of my next book (hopefully out next autumn) &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2026/08/summertime-reading/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>It’s the end of August, the weather in the UK has turned so it’s the end of evenings sitting in the shade of the garden reading. I was writing a first draft of my next book (hopefully out next autumn) … [Continue reading →](http://www.enlightenmenteconomics.com/blog/index.php/2026/08/summertime-reading/)</source:markdown>
+      <guid>cid://http://www.enlightenmenteconomics.com/blog/?p=7955</guid>
+      <category>Main Page</category>
+    </item>    <item>
+      <title>Guest Newsletter: Five Books - Entomology and Psychological Horror</title>
+      <link>https://thebrowser.com/free/guest-newsletter-five-books-101/</link>
+      <description>
+        <![CDATA[Writing of lasting value]]>
+      </description>
+      <source:markdown>Writing of lasting value</source:markdown>
+      <guid>cid://6a92ad56eeb27c0001ccbd04</guid>
+    </item>    <item>
+      <title>How Do We Stop a Coup? We Organize</title>
+      <link>https://ourfuture.org/20260830/how-do-we-stop-a-coup-we-organize</link>
+      <description>
+        <![CDATA[Just like you, there are many people in this country who want to save our democracy. And if we organize, we can, Many of us in the United States are asking hard questions for the first time: Will we lose our democracy? Is there still time to save it? How can we make sure we [&#8230;]
+        <p><a href="https://ourfuture.org/20260830/how-do-we-stop-a-coup-we-organize" rel="nofollow">Source</a></p>]]>
+      </description>
+      <source:markdown>Just like you, there are many people in this country who want to save our democracy. And if we organize, we can, Many of us in the United States are asking hard questions for the first time: Will we lose our democracy? Is there still time to save it? How can we make sure we \[…\]
+
+[Source](https://ourfuture.org/20260830/how-do-we-stop-a-coup-we-organize)</source:markdown>
+      <guid>cid://https://ourfuture.org/?p=234893</guid>
+      <category>Blog</category>
+      <category>Democracy</category>
+      <category>Featured</category>
+      <category>SULMA</category>
+    </item>    <item>
+      <title>¿Como detener a un golpe de estado?</title>
+      <link>https://ourfuture.org/20260830/como-detener-a-un-golpe-de-estado-organizarnos</link>
+      <description>
+        <![CDATA[Muchos preguntan si podremos perder nuestra democracia a una dictadura, y si aún hay tiempo para salvarla. La buena noticia es que si, podemos, si nos organanizamos ahora. &#160; Muchos de nosotros en Estados Unidos nos hacemos preguntas difíciles por primera vez: ¿Podemos perder nuestra democracia a una dictadura? ¿Todavía hay tiempo para salvarlo? ¿Cómo [&#8230;]
+        <p><a href="https://ourfuture.org/20260830/como-detener-a-un-golpe-de-estado-organizarnos" rel="nofollow">Source</a></p>]]>
+      </description>
+      <source:markdown>Muchos preguntan si podremos perder nuestra democracia a una dictadura, y si aún hay tiempo para salvarla. La buena noticia es que si, podemos, si nos organanizamos ahora.   Muchos de nosotros en Estados Unidos nos hacemos preguntas difíciles por primera vez: ¿Podemos perder nuestra democracia a una dictadura? ¿Todavía hay tiempo para salvarlo? ¿Cómo \[…\]
+
+[Source](https://ourfuture.org/20260830/como-detener-a-un-golpe-de-estado-organizarnos)</source:markdown>
+      <guid>cid://https://ourfuture.org/?p=234883</guid>
+      <category>ESPANOL</category>
+      <category>SULMA</category>
+    </item>    <item>
+      <link>http://scripting.com/2026/08/30.html#a134536</link>
+      <description>
+        <![CDATA[My posts are also available on <a href="https://mastodon.social/@scripting@daveverse.org/117184809516602254">Mastodon</a>, made possible by <a href="https://daveverse.org/2026/08/30/#a11957">WordPress</a>, where I mirror my posts from <a href="http://scripting.com/2026/08/30.html#a134536">my original blog</a>. A lot of what's in the post makes it through, but not all of it. This is where we need to do some work, connecting a blog like mine, to WordPress and Mastodon, with <i>no loss of fidelity.</i>]]>
+      </description>
+      <source:markdown>My posts are also available on [Mastodon](https://mastodon.social/@scripting@daveverse.org/117184809516602254), made possible by [WordPress](https://daveverse.org/2026/08/30/#a11957), where I mirror my posts from [my original blog](http://scripting.com/2026/08/30.html#a134536). A lot of what&#39;s in the post makes it through, but not all of it. This is where we need to do some work, connecting a blog like mine, to WordPress and Mastodon, with _no loss of fidelity._</source:markdown>
+      <guid>cid://http://scripting.com/2026/08/30.html#a134536</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/08/30.html#a134124</link>
+      <description>
+        <![CDATA[Trump is rotting in the presidency, and that is becoming more and more dangerous, because this time they had a plan, the most radical part of the Repubs, and have deployed a new secret police around the country and have introduced the nation's military to the nation's capital. And they have a vast prison system that probably doesn't just have immigrants in it or soon will. It was all super insidious as it was starting up, and watching the news I wonder why they don't talk about this in terms of the upcoming election.]]>
+      </description>
+      <source:markdown>Trump is rotting in the presidency, and that is becoming more and more dangerous, because this time they had a plan, the most radical part of the Repubs, and have deployed a new secret police around the country and have introduced the nation&#39;s military to the nation&#39;s capital. And they have a vast prison system that probably doesn&#39;t just have immigrants in it or soon will. It was all super insidious as it was starting up, and watching the news I wonder why they don&#39;t talk about this in terms of the upcoming election.</source:markdown>
+      <guid>cid://http://scripting.com/2026/08/30.html#a134124</guid>
+    </item>    <item>
+      <title>Summer&#39;s lease hath all too short a date</title>
+      <link>http://statusq.org/archives/2026/08/30/13696/</link>
+      <description>
+        <![CDATA[<p data-block-key="8eynu"></p><img alt="Supermarket shelves - “ feel feels like summer” – “Limited time only”" class="richtext-image full-width" height="1066" src="http://statusq.org/media/images/IMG_1546.width-800.jpg" width="800"><p data-block-key="1ufqk"><i>Spotted at our local Waitrose.</i></p>]]>
+      </description>
+      <source:markdown>![Supermarket shelves - “ feel feels like summer” – “Limited time only”](http://statusq.org/media/images/IMG_1546.width-800.jpg)
+
+_Spotted at our local Waitrose._</source:markdown>
+      <guid>cid://http://statusq.org/archives/2026/08/30/13696/</guid>
+      <category>Photos</category>
+      <category>Poems</category>
+    </item>    <item>
+      <link>http://scripting.com/2026/08/30.html#a131140</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2026/08/30/silo.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've been watching Season 1 of <a href="https://en.wikipedia.org/wiki/The_Pitt">The Pitt</a>, and as its <a href="https://www.metacritic.com/tv/the-pitt/">reviews</a> said, it's great drama, and there are lots of episodes. I like shows like this because they're simulated communities, we come to know the characters, and think about them even when we're not watching. Before too long we'll have AI programming that makes these shows like software, the stories assemble around the characters, and then are generated the same way ChatGPT generates the art we call <i>slop, </i>which will someday not be a <a href="https://en.wikipedia.org/wiki/Pejorative">pejorative</a> the same way <a href="https://www.urbandictionary.com/define.php?term=sick">sick</a> and <a href="https://www.urbandictionary.com/define.php?term=junk">junk</a> aren't negative terms today. So we'll be able to call up new episodes of <a href="https://en.wikipedia.org/wiki/The_Wire">The Wire</a> or <a href="https://en.wikipedia.org/wiki/The_Sopranos">The Sopranos</a> or <a href="https://en.wikipedia.org/wiki/The_Pitt">The Pitt</a> any time we like. We'd be missing the fun of discussing the latest episode with friends, or maybe we'll have bot-invented friends too who will simulate having watched the episode you just watched, which leads us to another masterpiece of entertainment, <a href="https://daytona.scripting.com/search?q=%22the%20matrix%22">The Matrix</a>. On the other hand, I've watched The Wire at least five times all the way through, and even though I know what they're about to say in a lot of places, I do forget the sub-plots so at least some of it can be new each time. And btw, finally an <a href="https://gizmodo.com/well-that-just-happened-on-silo-2000804494">episode</a> of <a href="https://en.wikipedia.org/wiki/Silo_(TV_series)">Silo</a> that's was surprising that I didn't see coming. I read the books, so I feel like I should watch the show, but until the latest episode I was uninterested in any of the characters. Finally there's a plot to think about!]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2026/08/30/silo.png)I&#39;ve been watching Season 1 of [The Pitt](https://en.wikipedia.org/wiki/The_Pitt), and as its [reviews](https://www.metacritic.com/tv/the-pitt/) said, it&#39;s great drama, and there are lots of episodes. I like shows like this because they&#39;re simulated communities, we come to know the characters, and think about them even when we&#39;re not watching. Before too long we&#39;ll have AI programming that makes these shows like software, the stories assemble around the characters, and then are generated the same way ChatGPT generates the art we call _slop,_ which will someday not be a [pejorative](https://en.wikipedia.org/wiki/Pejorative) the same way [sick](https://www.urbandictionary.com/define.php?term=sick) and [junk](https://www.urbandictionary.com/define.php?term=junk) aren&#39;t negative terms today. So we&#39;ll be able to call up new episodes of [The Wire](https://en.wikipedia.org/wiki/The_Wire) or [The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos) or [The Pitt](https://en.wikipedia.org/wiki/The_Pitt) any time we like. We&#39;d be missing the fun of discussing the latest episode with friends, or maybe we&#39;ll have bot-invented friends too who will simulate having watched the episode you just watched, which leads us to another masterpiece of entertainment, [The Matrix](https://daytona.scripting.com/search?q=%22the%20matrix%22). On the other hand, I&#39;ve watched The Wire at least five times all the way through, and even though I know what they&#39;re about to say in a lot of places, I do forget the sub-plots so at least some of it can be new each time. And btw, finally an [episode](https://gizmodo.com/well-that-just-happened-on-silo-2000804494) of [Silo](https://en.wikipedia.org/wiki/Silo_\(TV_series\)) that&#39;s was surprising that I didn&#39;t see coming. I read the books, so I feel like I should watch the show, but until the latest episode I was uninterested in any of the characters. Finally there&#39;s a plot to think about!</source:markdown>
+      <guid>cid://http://scripting.com/2026/08/30.html#a131140</guid>
     </item>    <item>
       <title>Goodbye, Dolly</title>
       <link>https://steady.substack.com/p/goodbye-dolly</link>
@@ -115,6 +825,837 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <source:markdown>The Andy Borowitz Show</source:markdown>
       <enclosure url="https://api.substack.com/feed/podcast/213206092/4fac2587aba0b6b35752fc0c38efea62.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.borowitzreport.com/p/mark-carney-for-president</guid>
+    </item>    <item>
+      <title>Bookmarks - llm, music, writing, synth</title>
+      <link>https://inkdroid.org/2026/08/30/bookmarks/</link>
+      <description>
+        <![CDATA[These are some things I’ve wandered across on the web this week.
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://kpfa.org/episode/against-the-grain-august-19-2026/">
+        Ancient Trees and Fossil Capitalism - KPFA </a>
+        </h2>
+        <section class="p-summary">
+        For as long as we’ve known, humans have revered ancient trees. We’ve
+        also destroyed them, especially since the advent of colonialism and
+        fossil fuel capitalism. Environmental historian Jared Farmer reflects on
+        what trees illuminate about our past and potential future.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/books/">books</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/interview/">interview</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/trees/">trees</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://nathanschneider.info/2026/08/against-commune-ism-in-cooperatives/">
+        Against commune-ism in cooperatives </a>
+        </h2>
+        <section class="p-summary">
+        Having a clearly defined, narrow focus means that a co-op’s members
+        don’t have to agree on everything. They don’t have to be all alike. They
+        just have to be able to benefit from a common activity. The cooperative
+        commonwealth can develop among these many overlapping needs, not an
+        all-promising, all-delivering monolith that tries to make everyone happy
+        all at once. Really, I think that’s the only way it’s going to happen,
+        and the only way we should want it to.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/coop/">coop</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/management/">management</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool">
+        There’s no such thing as Just a Tool </a>
+        </h2>
+        <section class="p-summary">
+        The human-tool gestalt that forms with a ready-to-hand tool, however, is
+        not neutral. Rather, the tools that are ready-to-hand each create a
+        different gestalt, with a different range of allowable and potential
+        “things you could do” and, accordingly, different thought patterns,
+        ideas and ideologies that go with that.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/design/">design</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/philosophy/">philosophy</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/tools/">tools</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://arxiv.org/abs/2606.02184"> The Ghost
+        Couple: Correlated LLM Name Priors and Their Haunting of the Web and
+        Academic Publishing </a>
+        </h2>
+        <section class="p-summary">
+        We show that large language models do not merely default to
+        high-probability individual names when generating fictional experts:
+        they produce correlated character ensembles, pairs and trios whose
+        co-occurrence rates far exceed chance and are consistent across
+        independent generations.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/name/">name</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/names/">names</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/publishing/">publishing</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://arxiv.org/abs/2602.11988"> Evaluating
+        AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?
+        </a>
+        </h2>
+        <section class="p-summary">
+        Surprisingly, we find that providing context files does not generally
+        improve task success rates, while increasing inference cost by over 20%
+        on average. This observation holds across different LLMs, coding agents,
+        and for both LLM-generated and developer-committed context files.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/programming/">programming</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://clever-mirage-d82v.here.now/"> Which
+        local model should you run? </a>
+        </h2>
+        <section class="p-summary">
+        One rule decides everything: the model has to fit in your memory. Let’s
+        match your exact hardware to the right model size — fast.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/localfirst/">localfirst</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/">
+        Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s
+        how it imploded. </a>
+        </h2>
+        <section class="p-summary">
+        This article reveals for the first time the rapid pace of the cuts Meta
+        was considering, the thinking behind the plans and how they quickly
+        unraveled. Based on scores of internal documents, posts and recordings
+        reviewed by Reuters, as well as conversations with more than 20 people
+        with knowledge of Meta’s inner workings, the reporting shows how the
+        social-media giant attempted to position itself at the forefront of an
+        AI-driven workplace overhaul, only to stumble in the execution.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/management/">management</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/programming/">programming</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/security/">security</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://www.theringer.com/2019/07/10/music/david-berman-silver-jews-purple-mountains-drag-city">
+        David Berman Returns </a>
+        </h2>
+        <section class="p-summary">
+        So, another comeback! Like the Pixies or Sebadoh, Berman is the latest
+        middle-aged cult musician to reconnect with an audience who grew fonder
+        of the artist in their absence. There’s a fair chance this will be the
+        most successful year David Berman has ever lived. But look at those new
+        song titles: “All My Happiness Is Gone,” “Maybe I’m the Only One for
+        Me,” “Darkness and Cold.” Part of him always yearns, against his better
+        judgment, for that freezing, empty beach town. Part of him always feels
+        like a pier, battered by the sea.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/america/">america</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/music/">music</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/poetry/">poetry</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://citiesandmemory.com/radio/"> CITIES
+        AND MEMORY RADIO </a>
+        </h2>
+        <section class="p-summary">
+        Cities and Memory radio is a great way to start exploring the sounds of
+        the world! Enjoy an uninterrupted flow of more than 8,000 sounds and
+        reimagined pieces from across more than 140 countries, and curate your
+        listening by project or sound type.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/radio/">radio</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/sound/">sound</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://www.courrierinternational.com/article/climatiques-quelle-riposte-apres-cet-ete-d-enfer_263775">
+        Climatiques. Quelle riposte après cet été d’enfer ? </a>
+        </h2>
+        <section class="p-summary">
+        Et il y a une bonne nouvelle : la façon d’y arriver ne relève pas de la
+        magie ou d’une intervention divine : “Nous savons comment transformer
+        nos systèmes énergétiques. Nous savons comment sortir progressivement du
+        charbon, du pétrole et du gaz. Nous savons également comment développer
+        massivement les énergies renouvelables, améliorer l’efficacité
+        énergétique et électrifier une grande partie de l’économie”, soutient
+        Johan Rockström. Et tout cela est déjà en route.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/sustainability/">sustainability</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://www.nytimes.com/2026/08/25/opinion/iran-china-energy-power.html">
+        The Iran War Shows China’s Energy Strategy Is Working </a>
+        </h2>
+        <section class="p-summary">
+        The Hormuz crisis has shown that China is becoming a new type of energy
+        power: an oil importer so large that it is able to influence global oil
+        prices and withstand external disruptions.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/china/">china</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/energy/">energy</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/sustainability/">sustainability</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://news.stanford.edu/stories/2026/08/ai-tool-data-compression-scientific-discovery">
+        New AI tool compresses data without losing critical details </a>
+        </h2>
+        <section class="p-summary">
+        Unlike traditional compression, this AI-based method doesn’t compress an
+        entire dataset equally. First, it uses a mathematical tool, known as
+        wavelet analysis, to separate features of the data by scale. Then, the
+        neural network compresses the different-scaled features separately,
+        ensuring the finer features aren’t lost by generalized compression. The
+        neural network learns a compact representation of those features to
+        preserve them.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/compression/">compression</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/data/">data</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/ml/">ml</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/physics/">physics</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/">
+        The end of IPFS at Shipyard </a>
+        </h2>
+        <section class="p-summary">
+        Protocol Labs has informed us that it will not be renewing Shipyard’s
+        funding. While we’re grateful for the support and trust they have placed
+        in us over the past two-plus years, we’re naturally disappointed by this
+        outcome. As a direct result, Shipyard will be winding down its
+        IPFS-related engineering, maintenance, and infrastructure operations.
+        Our final day of our IPFS related work will be September 30, 2026.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/delete/">delete</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/ipfs/">ipfs</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://chrisburnell.com/html-can-do-that/">
+        HTML Can Do That </a>
+        </h2>
+        <section class="p-summary">
+        HTML has been gobbling up swathes of what used to be JavaScript’s remit.
+        This page lists a bunch of dynamic functionality that we can now achieve
+        with just HTML.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/html/">html</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://github.com/bf-interop"> bf-interop
+        </a>
+        </h2>
+        <section class="p-summary">
+        Various repositories related to sharing BIBFRAME profiles, and
+        validating data.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/bibframe/">bibframe</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://designvillefontaine.com/dsaa/diplomes-2024/jonas-gaugain">
+        Le maintien de la casse : simuler la perturbation matérielle pour
+        accompagner l’imprévu </a>
+        </h2>
+        <section class="p-summary">
+        Pour explorer ce levier, nous avons porté l’étude sur la manière dont
+        les usagers continuent d’utiliser leur matériel numérique malgré leur
+        état de dysfonctionnement. Pour cela, nous avons mené une enquête
+        semi-directive auprès de 14 personnes utilisant des outils numériques
+        dans leur quotidien, révélant des manières de “faire avec” les objets
+        cassés. Nous nommerons comme concept “les tactiques du maintien de la
+        casse numérique”.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/computing/">computing</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/repair/">repair</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://www.w3.org/TR/dx-prof-1.0/"> The
+        Profiles Vocabulary </a>
+        </h2>
+        <section class="p-summary">
+        The Profiles Vocabulary is an RDF vocabulary created to allow the
+        machine-readable description of profiles of specifications for
+        information resources. It can be used to describe profile hierarchies
+        wherein profiles of specifications may themselves have profiles
+        indicated. It can also be used to link together multiple profile
+        resources that make up a profile - guidelines, validation tools,
+        schemas, term lists and so on - and it allows for those profile
+        resources to be described with formats, roles, and digital artifacts.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/linkeddata/">linkeddata</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/standard/">standard</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/validation/">validation</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/vocabulary/">vocabulary</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://arxiv.org/abs/2608.02859"> The crisis
+        of AI-generated mathematics </a>
+        </h2>
+        <section class="p-summary">
+        In this essay, I present the case for total opposition to the use of
+        artificial intelligence in mathematics. I offer proposals for how
+        individuals, departments, journals, and institutions can act in concert
+        to make sure that mathematics survives the coming crisis.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/activism/">activism</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/math/">math</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://learn.ableton.com/"> Ableton Learn
+        </a>
+        </h2>
+        <section class="p-summary">
+        Learn the fundamentals of music making right in your browser.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/ableton/">ableton</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/music/">music</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/synth/">synth</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://mitpress.mit.edu/9780262681544/microsound/">
+        Microsound </a>
+        </h2>
+        <section class="p-summary">
+        Below the level of the musical note lies the realm of microsound, of
+        sound particles lasting less than one-tenth of a second. Recent
+        technological advances allow us to probe and manipulate these pinpoints
+        of sound, dissolving the traditional building blocks of music—notes and
+        their intervals—into a more fluid and supple medium. The sensations of
+        point, pulse (series of points), line (tone), and surface (texture)
+        emerge as particle density increases. Sounds coalesce, evaporate, and
+        mutate into other sounds. Composers have used theories of microsound in
+        computer music since the 1950s. Distinguished practitioners include
+        Karlheinz Stockhausen and Iannis Xenakis. Today, with the increased
+        interest in computer and electronic music, many young composers and
+        software synthesis developers are exploring its advantages. Covering all
+        aspects of composition with sound particles, Microsound offers
+        composition theory, historical accounts, technical overviews, acoustical
+        experiments, descriptions of musical works, and aesthetic reflections.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/book/">book</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/music/">music</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/synth/">synth</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://makingmusic.ableton.com/"> Making
+        Music: Creative Strategies for Electronic Musicians </a>
+        </h2>
+        <section class="p-summary">
+        This book is a collection of solutions to common roadblocks in the
+        creative process, with a specific emphasis on solving musical problems,
+        making progress, and (most importantly) finishing what you start. This
+        site features a selection of chapters from the book.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/ableton/">ableton</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/book/">book</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/music/">music</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/synth/">synth</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://github.com/dokieli/web-annotation/">
+        dokieli/web-annotation </a>
+        </h2>
+        <section class="p-summary">
+        W3C Web Annotation implementation for creating, parsing, and serializing
+        Web Annotations in JSON-LD, with support for HTML+RDFa embedding and
+        DOM-based annotation application.
+        </section>
+        <p class="tags">
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://github.com/uk-gov-mirror/deleted-repo-report">
+        Deleted UK Government code repositories </a>
+        </h2>
+        <section class="p-summary">
+        <p>
+        Total deleted repositories: 1725 Organisations affected: 63
+        </p>
+        <p>
+        See RECENTLY_DELETED.md for the most recently deleted repositories.
+        </p>
+        Deleted dates with a * are approximate, inferred from the last commit or
+        archive.org snapshot. This is the last date we know it was available.
+        </section>
+        <p class="tags">
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://ai-on-the-internet.github.io/"> The
+        Impact of AI-Generated Text on the Internet </a>
+        </h2>
+        <section class="p-summary">
+        The proliferation of AI-generated and AI-assisted text on the internet
+        is feared to contribute to a degradation in semantic and stylistic
+        diversity, factual accuracy, and other negative developments. We find
+        that by mid-2025, roughly 35% of newly published websites were
+        classified as AI-generated or AI-assisted, up from zero before ChatGPT’s
+        launch in late 2022. We also find evidence suggesting that increases in
+        AI-generated text on the internet bring about a decrease in semantic
+        diversity and an increase in positive sentiment. We do not, however,
+        find statistically significant evidence supporting the hypothesis that
+        an increased rate of AI-generated text on the internet decreases factual
+        accuracy or stylistic diversity. Notably, our findings diverge from
+        public perception of AI’s impact on the internet.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/writing/">writing</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://arxiv.org/abs/2510.03154"> EditLens:
+        Quantifying the Extent of AI Editing in Text </a>
+        </h2>
+        <section class="p-summary">
+        A significant proportion of queries to large language models ask them to
+        edit user-provided text, rather than generate new text from scratch.
+        While previous work focuses on detecting fully AI-generated text, we
+        demonstrate that AI-edited text is distinguishable from human-written
+        and AI-generated text. First, we propose using lightweight similarity
+        metrics to quantify the magnitude of AI editing present in a text given
+        the original human-written text and validate these metrics with human
+        annotators. Using these similarity metrics as intermediate supervision,
+        we then train EditLens, a regression model that predicts the amount of
+        AI editing present within a text. Our model achieves state-of-the-art
+        performance on both binary (F1=94.7%) and ternary (F1=90.4%)
+        classification tasks in distinguishing human, AI, and mixed writing. Not
+        only do we show that AI-edited text can be detected, but also that the
+        degree of change made by AI to human writing can be detected, which has
+        implications for authorship attribution, education, and policy. Finally,
+        as a case study, we use our model to analyze the effects of AI-edits
+        applied by Grammarly, a popular writing assistance tool. To encourage
+        further research, we commit to publicly releasing our models and
+        dataset.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/writing/">writing</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://www.pangram.com/blog/introducing-open-pangram">
+        Introducing Open Pangram </a>
+        </h2>
+        <section class="p-summary">
+        Open Pangram brings open-weights and source-available AI detection,
+        built on the EditLens technology from our ICLR 2026 paper.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/model/">model</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/writing/">writing</a>
+        </p>
+        </article>]]>
+      </description>
+      <source:markdown>These are some things I’ve wandered across on the web this week.
+
+## 🔖 [Ancient Trees and Fossil Capitalism - KPFA](https://kpfa.org/episode/against-the-grain-august-19-2026/)
+
+For as long as we’ve known, humans have revered ancient trees. We’ve
+also destroyed them, especially since the advent of colonialism and
+fossil fuel capitalism. Environmental historian Jared Farmer reflects on
+what trees illuminate about our past and potential future.
+
+[books](/tag/books/) [interview](/tag/interview/) [trees](/tag/trees/)
+
+## 🔖 [Against commune-ism in cooperatives](https://nathanschneider.info/2026/08/against-commune-ism-in-cooperatives/)
+
+Having a clearly defined, narrow focus means that a co-op’s members
+don’t have to agree on everything. They don’t have to be all alike. They
+just have to be able to benefit from a common activity. The cooperative
+commonwealth can develop among these many overlapping needs, not an
+all-promising, all-delivering monolith that tries to make everyone happy
+all at once. Really, I think that’s the only way it’s going to happen,
+and the only way we should want it to.
+
+[coop](/tag/coop/) [management](/tag/management/)
+
+## 🔖 [There’s no such thing as Just a Tool](https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool)
+
+The human-tool gestalt that forms with a ready-to-hand tool, however, is
+not neutral. Rather, the tools that are ready-to-hand each create a
+different gestalt, with a different range of allowable and potential
+“things you could do” and, accordingly, different thought patterns,
+ideas and ideologies that go with that.
+
+[design](/tag/design/) [philosophy](/tag/philosophy/) [tools](/tag/tools/)
+
+## 🔖 [The Ghost\ Couple: Correlated LLM Name Priors and Their Haunting of the Web and\ Academic Publishing](https://arxiv.org/abs/2606.02184)
+
+We show that large language models do not merely default to
+high-probability individual names when generating fictional experts:
+they produce correlated character ensembles, pairs and trios whose
+co-occurrence rates far exceed chance and are consistent across
+independent generations.
+
+[llm](/tag/llm/) [name](/tag/name/) [names](/tag/names/) [publishing](/tag/publishing/)
+
+## 🔖 [Evaluating\ AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/abs/2602.11988)
+
+Surprisingly, we find that providing context files does not generally
+improve task success rates, while increasing inference cost by over 20%
+on average. This observation holds across different LLMs, coding agents,
+and for both LLM-generated and developer-committed context files.
+
+[llm](/tag/llm/) [programming](/tag/programming/)
+
+## 🔖 [Which\ local model should you run?](https://clever-mirage-d82v.here.now/)
+
+One rule decides everything: the model has to fit in your memory. Let’s
+match your exact hardware to the right model size — fast.
+
+[llm](/tag/llm/) [localfirst](/tag/localfirst/)
+
+## 🔖 [Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s\ how it imploded.](https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/)
+
+This article reveals for the first time the rapid pace of the cuts Meta
+was considering, the thinking behind the plans and how they quickly
+unraveled. Based on scores of internal documents, posts and recordings
+reviewed by Reuters, as well as conversations with more than 20 people
+with knowledge of Meta’s inner workings, the reporting shows how the
+social-media giant attempted to position itself at the forefront of an
+AI-driven workplace overhaul, only to stumble in the execution.
+
+[llm](/tag/llm/) [management](/tag/management/) [programming](/tag/programming/) [security](/tag/security/)
+
+## 🔖 [David Berman Returns](https://www.theringer.com/2019/07/10/music/david-berman-silver-jews-purple-mountains-drag-city)
+
+So, another comeback! Like the Pixies or Sebadoh, Berman is the latest
+middle-aged cult musician to reconnect with an audience who grew fonder
+of the artist in their absence. There’s a fair chance this will be the
+most successful year David Berman has ever lived. But look at those new
+song titles: “All My Happiness Is Gone,” “Maybe I’m the Only One for
+Me,” “Darkness and Cold.” Part of him always yearns, against his better
+judgment, for that freezing, empty beach town. Part of him always feels
+like a pier, battered by the sea.
+
+[america](/tag/america/) [music](/tag/music/) [poetry](/tag/poetry/)
+
+## 🔖 [CITIES\ AND MEMORY RADIO](https://citiesandmemory.com/radio/)
+
+Cities and Memory radio is a great way to start exploring the sounds of
+the world! Enjoy an uninterrupted flow of more than 8,000 sounds and
+reimagined pieces from across more than 140 countries, and curate your
+listening by project or sound type.
+
+[radio](/tag/radio/) [sound](/tag/sound/)
+
+## 🔖 [Climatiques. Quelle riposte après cet été d’enfer ?](https://www.courrierinternational.com/article/climatiques-quelle-riposte-apres-cet-ete-d-enfer_263775)
+
+Et il y a une bonne nouvelle : la façon d’y arriver ne relève pas de la
+magie ou d’une intervention divine : “Nous savons comment transformer
+nos systèmes énergétiques. Nous savons comment sortir progressivement du
+charbon, du pétrole et du gaz. Nous savons également comment développer
+massivement les énergies renouvelables, améliorer l’efficacité
+énergétique et électrifier une grande partie de l’économie”, soutient
+Johan Rockström. Et tout cela est déjà en route.
+
+[sustainability](/tag/sustainability/)
+
+## 🔖 [The Iran War Shows China’s Energy Strategy Is Working](https://www.nytimes.com/2026/08/25/opinion/iran-china-energy-power.html)
+
+The Hormuz crisis has shown that China is becoming a new type of energy
+power: an oil importer so large that it is able to influence global oil
+prices and withstand external disruptions.
+
+[china](/tag/china/) [energy](/tag/energy/) [sustainability](/tag/sustainability/)
+
+## 🔖 [New AI tool compresses data without losing critical details](https://news.stanford.edu/stories/2026/08/ai-tool-data-compression-scientific-discovery)
+
+Unlike traditional compression, this AI-based method doesn’t compress an
+entire dataset equally. First, it uses a mathematical tool, known as
+wavelet analysis, to separate features of the data by scale. Then, the
+neural network compresses the different-scaled features separately,
+ensuring the finer features aren’t lost by generalized compression. The
+neural network learns a compact representation of those features to
+preserve them.
+
+[compression](/tag/compression/) [data](/tag/data/) [ml](/tag/ml/) [physics](/tag/physics/)
+
+## 🔖 [The end of IPFS at Shipyard](https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/)
+
+Protocol Labs has informed us that it will not be renewing Shipyard’s
+funding. While we’re grateful for the support and trust they have placed
+in us over the past two-plus years, we’re naturally disappointed by this
+outcome. As a direct result, Shipyard will be winding down its
+IPFS-related engineering, maintenance, and infrastructure operations.
+Our final day of our IPFS related work will be September 30, 2026.
+
+[delete](/tag/delete/) [ipfs](/tag/ipfs/)
+
+## 🔖 [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
+
+HTML has been gobbling up swathes of what used to be JavaScript’s remit.
+This page lists a bunch of dynamic functionality that we can now achieve
+with just HTML.
+
+[html](/tag/html/)
+
+## 🔖 [bf-interop](https://github.com/bf-interop)
+
+Various repositories related to sharing BIBFRAME profiles, and
+validating data.
+
+[bibframe](/tag/bibframe/)
+
+## 🔖 [Le maintien de la casse : simuler la perturbation matérielle pour\ accompagner l’imprévu](https://designvillefontaine.com/dsaa/diplomes-2024/jonas-gaugain)
+
+Pour explorer ce levier, nous avons porté l’étude sur la manière dont
+les usagers continuent d’utiliser leur matériel numérique malgré leur
+état de dysfonctionnement. Pour cela, nous avons mené une enquête
+semi-directive auprès de 14 personnes utilisant des outils numériques
+dans leur quotidien, révélant des manières de “faire avec” les objets
+cassés. Nous nommerons comme concept “les tactiques du maintien de la
+casse numérique”.
+
+[computing](/tag/computing/) [repair](/tag/repair/)
+
+## 🔖 [The\ Profiles Vocabulary](https://www.w3.org/TR/dx-prof-1.0/)
+
+The Profiles Vocabulary is an RDF vocabulary created to allow the
+machine-readable description of profiles of specifications for
+information resources. It can be used to describe profile hierarchies
+wherein profiles of specifications may themselves have profiles
+indicated. It can also be used to link together multiple profile
+resources that make up a profile - guidelines, validation tools,
+schemas, term lists and so on - and it allows for those profile
+resources to be described with formats, roles, and digital artifacts.
+
+[linkeddata](/tag/linkeddata/) [standard](/tag/standard/) [validation](/tag/validation/) [vocabulary](/tag/vocabulary/)
+
+## 🔖 [The crisis\ of AI-generated mathematics](https://arxiv.org/abs/2608.02859)
+
+In this essay, I present the case for total opposition to the use of
+artificial intelligence in mathematics. I offer proposals for how
+individuals, departments, journals, and institutions can act in concert
+to make sure that mathematics survives the coming crisis.
+
+[activism](/tag/activism/) [llm](/tag/llm/) [math](/tag/math/)
+
+## 🔖 [Ableton Learn](https://learn.ableton.com/)
+
+Learn the fundamentals of music making right in your browser.
+
+[ableton](/tag/ableton/) [music](/tag/music/) [synth](/tag/synth/)
+
+## 🔖 [Microsound](https://mitpress.mit.edu/9780262681544/microsound/)
+
+Below the level of the musical note lies the realm of microsound, of
+sound particles lasting less than one-tenth of a second. Recent
+technological advances allow us to probe and manipulate these pinpoints
+of sound, dissolving the traditional building blocks of music—notes and
+their intervals—into a more fluid and supple medium. The sensations of
+point, pulse (series of points), line (tone), and surface (texture)
+emerge as particle density increases. Sounds coalesce, evaporate, and
+mutate into other sounds. Composers have used theories of microsound in
+computer music since the 1950s. Distinguished practitioners include
+Karlheinz Stockhausen and Iannis Xenakis. Today, with the increased
+interest in computer and electronic music, many young composers and
+software synthesis developers are exploring its advantages. Covering all
+aspects of composition with sound particles, Microsound offers
+composition theory, historical accounts, technical overviews, acoustical
+experiments, descriptions of musical works, and aesthetic reflections.
+
+[book](/tag/book/) [music](/tag/music/) [synth](/tag/synth/)
+
+## 🔖 [Making\ Music: Creative Strategies for Electronic Musicians](https://makingmusic.ableton.com/)
+
+This book is a collection of solutions to common roadblocks in the
+creative process, with a specific emphasis on solving musical problems,
+making progress, and (most importantly) finishing what you start. This
+site features a selection of chapters from the book.
+
+[ableton](/tag/ableton/) [book](/tag/book/) [music](/tag/music/) [synth](/tag/synth/)
+
+## 🔖 [dokieli/web-annotation](https://github.com/dokieli/web-annotation/)
+
+W3C Web Annotation implementation for creating, parsing, and serializing
+Web Annotations in JSON-LD, with support for HTML+RDFa embedding and
+DOM-based annotation application.
+
+## 🔖 [Deleted UK Government code repositories](https://github.com/uk-gov-mirror/deleted-repo-report)
+
+Total deleted repositories: 1725 Organisations affected: 63
+
+See RECENTLY\_DELETED.md for the most recently deleted repositories.
+
+Deleted dates with a \* are approximate, inferred from the last commit or
+archive.org snapshot. This is the last date we know it was available.
+
+## 🔖 [The\ Impact of AI-Generated Text on the Internet](https://ai-on-the-internet.github.io/)
+
+The proliferation of AI-generated and AI-assisted text on the internet
+is feared to contribute to a degradation in semantic and stylistic
+diversity, factual accuracy, and other negative developments. We find
+that by mid-2025, roughly 35% of newly published websites were
+classified as AI-generated or AI-assisted, up from zero before ChatGPT’s
+launch in late 2022. We also find evidence suggesting that increases in
+AI-generated text on the internet bring about a decrease in semantic
+diversity and an increase in positive sentiment. We do not, however,
+find statistically significant evidence supporting the hypothesis that
+an increased rate of AI-generated text on the internet decreases factual
+accuracy or stylistic diversity. Notably, our findings diverge from
+public perception of AI’s impact on the internet.
+
+[llm](/tag/llm/) [writing](/tag/writing/)
+
+## 🔖 [EditLens:\ Quantifying the Extent of AI Editing in Text](https://arxiv.org/abs/2510.03154)
+
+A significant proportion of queries to large language models ask them to
+edit user-provided text, rather than generate new text from scratch.
+While previous work focuses on detecting fully AI-generated text, we
+demonstrate that AI-edited text is distinguishable from human-written
+and AI-generated text. First, we propose using lightweight similarity
+metrics to quantify the magnitude of AI editing present in a text given
+the original human-written text and validate these metrics with human
+annotators. Using these similarity metrics as intermediate supervision,
+we then train EditLens, a regression model that predicts the amount of
+AI editing present within a text. Our model achieves state-of-the-art
+performance on both binary (F1=94.7%) and ternary (F1=90.4%)
+classification tasks in distinguishing human, AI, and mixed writing. Not
+only do we show that AI-edited text can be detected, but also that the
+degree of change made by AI to human writing can be detected, which has
+implications for authorship attribution, education, and policy. Finally,
+as a case study, we use our model to analyze the effects of AI-edits
+applied by Grammarly, a popular writing assistance tool. To encourage
+further research, we commit to publicly releasing our models and
+dataset.
+
+[llm](/tag/llm/) [writing](/tag/writing/)
+
+## 🔖 [Introducing Open Pangram](https://www.pangram.com/blog/introducing-open-pangram)
+
+Open Pangram brings open-weights and source-available AI detection,
+built on the EditLens technology from our ICLR 2026 paper.
+
+[llm](/tag/llm/) [model](/tag/model/) [writing](/tag/writing/)</source:markdown>
+      <guid>cid://https://inkdroid.org/2026/08/30/bookmarks/</guid>
+      <category>ableton</category>
+      <category>activism</category>
+      <category>america</category>
+      <category>bibframe</category>
+      <category>book</category>
+      <category>bookmarks</category>
+      <category>books</category>
+      <category>china</category>
+      <category>compression</category>
+      <category>computing</category>
+      <category>coop</category>
+      <category>data</category>
+      <category>delete</category>
+      <category>design</category>
+      <category>energy</category>
+      <category>html</category>
+      <category>interview</category>
+      <category>ipfs</category>
+      <category>linkeddata</category>
+      <category>llm</category>
+      <category>localfirst</category>
+      <category>management</category>
+      <category>math</category>
+      <category>ml</category>
+      <category>model</category>
+      <category>music</category>
+      <category>name</category>
+      <category>names</category>
+      <category>philosophy</category>
+      <category>physics</category>
+      <category>poetry</category>
+      <category>programming</category>
+      <category>publishing</category>
+      <category>radio</category>
+      <category>repair</category>
+      <category>security</category>
+      <category>sound</category>
+      <category>standard</category>
+      <category>sustainability</category>
+      <category>synth</category>
+      <category>tools</category>
+      <category>trees</category>
+      <category>validation</category>
+      <category>vocabulary</category>
+      <category>writing</category>
     </item>    <item>
       <title>Just HOW corrupt is Trump?</title>
       <link>https://robertreich.substack.com/p/just-how-corrupt-is-trump</link>
@@ -621,7 +2162,7 @@ Met up with brainbox Steven Pemberton for coffee and a chat.</source:markdown>
       <description>
         <![CDATA[<p>I'm traveling to Chicago for <a href="https://vcfmw.org">VCF Midwest</a> next month. I'll be demoing NTP time history on vintage Macs, with my own GPS-derived NTP service hosted on an Xserve G5, synced via NTP or a strange <a href="https://netatalk.io/manual/en/timelord.8">AppleTalk timing extension from the 1990s</a>.</p>
         <figure class="insert-image"><img src="https://www.jeffgeerling.com/blog/2026/mini-homelab-network-fits-in-carry-on/ubiquiti-mini-rack-network-with-ups.jpg"
-         alt="Ubiquiti mini rack network with UPS" width="700" height="auto">
+        			alt="Ubiquiti mini rack network with UPS" width="700" height="auto">
         </figure>
         
         <p>So I built a little 'portable homelab' (pictured above) that supports 1-10 Gbps networking, can run off a small battery for at least an hour, switches between multiple WANs (so I can get my own 5G Internet connection, in case I need it), and gives me 12 wired Ethernet connections.</p>]]>
@@ -1108,6 +2649,7 @@ popular platforms, without any runtime dependencies, and using PostgreSQL.</sour
       <source:markdown>Marcin Wichary: By default, on a Mac, the initial delay is 500ms, and the key repeat rate 1000ms. \[…\] My suggestion is to make them both as short as possible for testing. \[…\] First, it’s good to test whether your keystrokes behave well when repeated. Occasionally you might want your interface to suppress repeating, or \[…\]</source:markdown>
       <guid>cid://https://mjtsai.com/blog/?p=53025</guid>
       <category>Technology</category>
+      <category>Esoteric Preferences</category>
       <category>Keyboard</category>
       <category>Mac</category>
       <category>Optimization</category>
@@ -1434,13 +2976,13 @@ La entrada [La noche del demonio: están entre nosotros — cuando lo desconocid
       <enclosure url="https://api.substack.com/feed/podcast/212987401/7bf14df00877994648e03251d9b3d051.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.hopiumchronicles.com/p/with-ten-weeks-to-go-dems-are-closing</guid>
     </item>    <item>
-      <title>Live Book Club Q&#38;A at 4 p.m. Eastern this Sunday</title>
+      <title>Reminder: Live Book Club Q&#38;A at 4 p.m. Eastern this Sunday</title>
       <link>https://www.michaelmoore.com/p/live-book-club-q-and-a-at-4-pm-eastern</link>
       <description>
         <![CDATA[Join me August 30th for a live chat in my first-ever book club Q&A]]>
       </description>
       <source:markdown>Join me August 30th for a live chat in my first-ever book club Q&#38;A</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!1Efi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd96fc468-2b9d-4cb1-9b85-5ec03f17d871_500x750.jpeg" length="0" type="image/jpeg" />
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!vRam!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0f01270-b798-4232-ba2e-c9495099f18a_508x508.png" length="0" type="image/jpeg" />
       <guid>cid://https://www.michaelmoore.com/p/live-book-club-q-and-a-at-4-pm-eastern</guid>
     </item>    <item>
       <title>Dolly and Neighbourhoods</title>
@@ -4596,7 +6138,7 @@ Fuair sí fáilte mhór (as Gaeilge) agus ansin chann sí le Steve Cooney ar an 
       <description>
         <![CDATA[<p>For a mobile 'mini homelab' project I'm working on, I wanted to use 5G Internet as a primary 'on-to-go' connection, but still have the ability to plug in another Internet connection when I put the mobile rack I'm building in a fixed location.</p>
         <figure class="insert-image"><img src="https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging/unifi-5g-backup-20mbps-in-studio.jpg"
-         alt="UniFi 5G Backup getting 20 Mbps in my studio" width="700" height="auto">
+        			alt="UniFi 5G Backup getting 20 Mbps in my studio" width="700" height="auto">
         </figure>
         
         <p>I'll have more on that project soon, but I figured this project was a good way to check out Ubiquiti's solutions, especially considering many of their smaller gear fits nicely within the dimensions of a <a href="https://mini-rack.jeffgeerling.com">mini rack</a> (the 3U DeskPi RackMate TT is pictured above).</p>]]>
@@ -7642,6 +9184,8 @@ Some notes from Simeon on id.loc.gov RDF data for the Blue Core project.
       <source:markdown>River Lark and old mill buildings, Mildenhall by Bikeboy Today I saw a question posted on Reddit from someone who’s deploying to Mildenhall from the US. They wanted insights on how to dive deeper into English culture as a visitor, and I since I grew up nearby and I’m waiting on training I ended up writing a \[…\]</source:markdown>
       <guid>cid://http://petewarden.com/?p=8207</guid>
       <category>Uncategorized</category>
+      <category>england</category>
+      <category>travel</category>
     </item>    <item>
       <title>Slips &#38; Glimpses</title>
       <link>https://danismart.substack.com/p/slips-and-glimpses-a36</link>
@@ -10871,7 +12415,7 @@ Caltech&#39;s email privacy notice is [here](https://www.caltech.edu/privacy-no
       <description>
         <![CDATA[<p>The <a href="https://www.aliexpress.us/item/3256806531632512.html?gatewayAdapt=glo2usa4itemAdapt">BOE TV070WXM-TV0 LCD</a> used in the original Steam Deck can be had for around $30. It's a serviceable 7&quot; touchscreen with 400 nits of brightness and a resolution of 1280x800 (for a sharp 216 ppi).</p>
         <figure class="insert-image"><img src="https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/steam-deck-lcd-pi-front-touch.jpeg"
-         alt="Steam Deck LCD working on a Raspberry Pi 5" width="700" height="auto">
+        			alt="Steam Deck LCD working on a Raspberry Pi 5" width="700" height="auto">
         </figure>
         
         <p>The specs are a lot nicer than the <a href="https://www.raspberrypi.com/products/raspberry-pi-touch-display/">Pi 7&quot; Touch Display</a>, which costs twice as much, with giant bezels and half the resolution!</p>
@@ -11997,7 +13541,7 @@ Then</source:markdown>
       <description>
         <![CDATA[<p>In the before-times, when Raspberry Pi CM5s were (relatively) affordable, I built a number of Pi clusters (<a href="https://www.jeffgeerling.com/blog/2025/i-regret-building-3000-pi-ai-cluster/">example</a>), and one of the most annoying parts of the build was flashing Raspberry Pi OS to all the Pis.</p>
         <figure class="insert-image"><img src="https://www.jeffgeerling.com/blog/2026/cm5-programming-jig/cm5-programming-jig-with-cm5.jpeg"
-         alt="Raspberry Pi CM5 Programming Jig" width="700" height="auto">
+        			alt="Raspberry Pi CM5 Programming Jig" width="700" height="auto">
         </figure>
         
         <p>One, two, or even three Pis isn't a big deal, but once you hit 4+, the process of plugging the Compute Module into a carrier board, plugging that into a computer, managing Raspberry Pi Imager, and trying to match up details like a hostname, MAC address, and the physical Pi itself, gets annoying.</p>]]>
@@ -23329,866 +24873,14 @@ Behind the scenes I improved my local Jekyll setup with the help of Copilot tack
       <source:markdown>I’ve seen a strange problem in my inbox that I haven’t been able to put into words. A saga involving a botched app release helped me figure it out.</source:markdown>
       <guid>cid://https://tedium.co/2026/08/09/vibe-coding-insincerity/</guid>
     </item>    <item>
-      <title>Monday 10 August, 2026</title>
-      <link>https://memex.naughtons.org/monday-10-august-2026/42551/</link>
+      <title>TDD inside the agent loop - theater or actual value?</title>
+      <link>https://birgitta.info/pubs/2026-08-10-tdd-inside-the-agent-loop</link>
       <description>
-        <![CDATA[Wistfulness Quote of the Day ”War is only a cowardly escape from the problems of peace.” Thomas Mann Musical alternative to the morning’s radio news Alison Krauss &#124; Down To The River To Pray Link Long Read of the Day &#8230; <a href="https://memex.naughtons.org/monday-10-august-2026/42551/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+        <![CDATA[Thoughts on whether TDD workflows provide actual value when used fully inside an AI agent loop, including a small exploratory evaluation comparing TDD vs non-TDD solutions]]>
       </description>
-      <source:markdown>Wistfulness Quote of the Day ”War is only a cowardly escape from the problems of peace.” Thomas Mann Musical alternative to the morning’s radio news Alison Krauss \| Down To The River To Pray Link Long Read of the Day … [Continue reading →](https://memex.naughtons.org/monday-10-august-2026/42551/)</source:markdown>
-      <guid>cid://https://memex.naughtons.org/?p=42551</guid>
-      <category>Online version</category>
-    </item>    <item>
-      <title>How I backed into subscribing to the New York Times</title>
-      <link>https://andysylvester.com/2026/08/09/how-i-backed-into-subscribing-to-the-new-york-times/</link>
-      <description>
-        <![CDATA[For a long time, I resisted subscribing to news services. After all, pretty much all the news was available somewhere for free&#8230; For years, my go-to news hub was CNN. I still check it more often than any other news site. In the past year or two, though, CNN has gone from unlimited access to [&#8230;]]]>
-      </description>
-      <source:markdown>For a long time, I resisted subscribing to news services. After all, pretty much all the news was available somewhere for free… For years, my go-to news hub was CNN. I still check it more often than any other news site. In the past year or two, though, CNN has gone from unlimited access to \[…\]</source:markdown>
-      <guid>cid://https://andysylvester.com/?p=4536</guid>
-      <category>Journalism</category>
-      <category>Micro.Blog</category>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/117067763123653101</link>
-      <description>
-        <![CDATA[<p>Lile a good Italian, I am enjoying my last espresso of the day at 5:50pm</p>]]>
-      </description>
-      <source:markdown>Lile a good Italian, I am enjoying my last espresso of the day at 5:50pm</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/117067763123653101</guid>
-    </item>    <item>
-      <title>Week Eleven in 250 to 250</title>
-      <link>https://heathercoxrichardson.substack.com/p/week-eleven-in-250-to-250</link>
-      <description>
-        <![CDATA[This was the eleventh week of videos from the 250 to 250 Project that we&#8217;re producing to honor the 250th anniversary of the Declaration of Independence.]]>
-      </description>
-      <source:markdown>This was the eleventh week of videos from the 250 to 250 Project that we’re producing to honor the 250th anniversary of the Declaration of Independence.</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/40dc8a3b-3c3a-46f2-a09c-c3cba8fc3790_1920x1080.png" length="0" type="image/jpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/week-eleven-in-250-to-250</guid>
-    </item>    <item>
-      <title>Sunday caption contest: Arch</title>
-      <link>https://robertreich.substack.com/p/sunday-caption-contest-arch</link>
-      <description>
-        <![CDATA[And last week's winner]]>
-      </description>
-      <source:markdown>And last week&#39;s winner</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!OfeV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe71eafa-c936-4d9d-b576-00b4d597153a_2535x3371.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/sunday-caption-contest-arch</guid>
-    </item>    <item>
-      <title>A License to Act</title>
-      <link>https://blog.jim-nielsen.com/2026/license-to-act/</link>
-      <description>
-        <![CDATA[<p>In the past, search engines and the open web granted access to other people’s knowledge but the task fell to you to synthesize an understanding from it and build a capability to act.</p>
-        <p>Now with LLMs, it’s possible to build things you don’t fully understand which then require a perpetual license in order to have the capacity to maintain and modify.</p>
-        <p>LLMs don’t just do things for you, they do things instead of you — and <em>the doing</em> is a huge part of the point. The struggle to understand, to synthesize, to explain, it all has a byproduct: you! Your own capacity to act in the world.</p>
-        <p>But now you can rent that capacity. Every time you reach for the LLM instead of struggling through it yourself, you’re borrowing against someone else’s capacity that you’re not developing in yourself.</p>
-        <p>It’s as if I used to be a <a href="https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/" >car mechanic</a>, fixing my own vehicles or looking to other mechanics for advice or a demonstration on approaching my problems. That process produced a working car — the output I wanted — but it also produced a capability within myself to fix the next one that came along. </p>
-        <p>But now, for expedience and speed, I drop all my cars off the LLM dealer for fixes and maintenance. Fast and efficient — but also more dependent than ever.</p>
-        <p>(See also: <a href="https://ericwbailey.website/published/evolved-antennas-llm-generated-code-and-a-potential-antifuture/" >Eric Bailey on evolved antennas</a>.)</p>
-        
-            <hr />
-            
-        
-            <p>
-              Reply via:
-              
-        
-              <a
-                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/license-to-act/"
-                >Email</a
-              >
-              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
-        
-              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
-            </p>]]>
-      </description>
-      <source:markdown>In the past, search engines and the open web granted access to other people’s knowledge but the task fell to you to synthesize an understanding from it and build a capability to act.
-
-Now with LLMs, it’s possible to build things you don’t fully understand which then require a perpetual license in order to have the capacity to maintain and modify.
-
-LLMs don’t just do things for you, they do things instead of you — and _the doing_ is a huge part of the point. The struggle to understand, to synthesize, to explain, it all has a byproduct: you! Your own capacity to act in the world.
-
-But now you can rent that capacity. Every time you reach for the LLM instead of struggling through it yourself, you’re borrowing against someone else’s capacity that you’re not developing in yourself.
-
-It’s as if I used to be a [car mechanic](https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/), fixing my own vehicles or looking to other mechanics for advice or a demonstration on approaching my problems. That process produced a working car — the output I wanted — but it also produced a capability within myself to fix the next one that came along.
-
-But now, for expedience and speed, I drop all my cars off the LLM dealer for fixes and maintenance. Fast and efficient — but also more dependent than ever.
-
-(See also: [Eric Bailey on evolved antennas](https://ericwbailey.website/published/evolved-antennas-llm-generated-code-and-a-potential-antifuture/).)
-
-* * *
-
-Reply via:
-
-
-[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/license-to-act/)
-· [Mastodon](https://mastodon.social/@jimniels) ·
-
-[Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
-      <guid>cid://https://blog.jim-nielsen.com/2026/license-to-act/</guid>
-    </item>    <item>
-      <title>Our Wins Of The Week</title>
-      <link>https://thinkbigpicture.substack.com/p/week-progressive-wins-august-9</link>
-      <description>
-        <![CDATA[On Tuesday, Dr. Abdul El-Sayed won the hard-fought primary for U.S. Senate for Michigan against Rep. Haley Stevens by just 1 point.]]>
-      </description>
-      <source:markdown>On Tuesday, Dr. Abdul El-Sayed won the hard-fought primary for U.S. Senate for Michigan against Rep. Haley Stevens by just 1 point.</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/d16013ae-2814-4b60-9426-e169d8e628ba_1074x644.png" length="0" type="image/jpeg" />
-      <guid>cid://https://thinkbigpicture.substack.com/p/week-progressive-wins-august-9</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/117066721684532994</link>
-      <description>
-        <![CDATA[<p>After eight and a half years building terminal emulator libraries and still using MacOS default Terminal.app the time has come to face my biggest fear: pick a name and buy a domain.</p>]]>
-      </description>
-      <source:markdown>After eight and a half years building terminal emulator libraries and still using MacOS default Terminal.app the time has come to face my biggest fear: pick a name and buy a domain.</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/117066721684532994</guid>
-    </item>    <item>
-      <title>The Web and the New Reality</title>
-      <link>https://doc.searls.com/2026/08/09/the-web-and-the-new-reality-2/</link>
-      <description>
-        <![CDATA[Until Linux Journal hired me in 1996, no publication—tech or otherwise—would employ me. Not full-time, anyway. I was too obsessed with the Internet, the Web, and what I saw as the dawn of a new reality: a digital world we would co-occupy with the natural one. So I self-published on the Web, at Searls.com, where [&#8230;]]]>
-      </description>
-      <source:markdown>Until Linux Journal hired me in 1996, no publication—tech or otherwise—would employ me. Not full-time, anyway. I was too obsessed with the Internet, the Web, and what I saw as the dawn of a new reality: a digital world we would co-occupy with the natural one. So I self-published on the Web, at Searls.com, where \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/?p=22209</guid>
-      <category>Business</category>
-    </item>    <item>
-      <title>Sensing Trump&#39;s Weakness, Iran Turns The Screws, And Bibi Flips Him The Bird</title>
-      <link>https://www.hopiumchronicles.com/p/sensing-trumps-weakness-iran-turns</link>
-      <description>
-        <![CDATA[I will be joining Stuart Stevens live tomorrow at 10am ET over at Lincoln Square]]>
-      </description>
-      <source:markdown>I will be joining Stuart Stevens live tomorrow at 10am ET over at Lincoln Square</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!rPGw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55aded28-f690-4473-acea-2379badb4f7c_1200x900.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.hopiumchronicles.com/p/sensing-trumps-weakness-iran-turns</guid>
-    </item>    <item>
-      <title>🌻 abdul el-sayed on AI</title>
-      <link>https://jasmi.news/p/abdul-el-sayed-on-ai</link>
-      <description>
-        <![CDATA[our conversation on data centers, Alex Bores, x-risk, and jobs]]>
-      </description>
-      <source:markdown>our conversation on data centers, Alex Bores, x-risk, and jobs</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!J0ci!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffba89088-317d-4d16-b63a-bdaf1e6e3b8c_5712x3330.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://jasmi.news/p/abdul-el-sayed-on-ai</guid>
-    </item>    <item>
-      <title>Guest Newsletter: Five Books - Ecology and Egyptian Mythology</title>
-      <link>https://thebrowser.com/free/guest-newsletter-five-books-ecology-and-egyptian-mythology/</link>
-      <description>
-        <![CDATA[Writing of lasting value]]>
-      </description>
-      <source:markdown>Writing of lasting value</source:markdown>
-      <guid>cid://6a760a78e903bb00019bdcdb</guid>
-    </item>    <item>
-      <title>Dragoncatcher: The idea of magic</title>
-      <link>https://www.robinsloan.com/lab/cale/</link>
-      <description>
-        <![CDATA[<p>Computing with Cale. <a href="https://www.robinsloan.com/lab/cale/">Read here.</a></p>]]>
-      </description>
-      <source:markdown>Computing with Cale. [Read here.](https://www.robinsloan.com/lab/cale/)</source:markdown>
-      <guid>cid://https://www.robinsloan.com/lab/cale/</guid>
-    </item>    <item>
-      <title>Un pueblo organizado aún puede vencer a los multimillonarios</title>
-      <link>https://ourfuture.org/20260809/un-pueblo-organizado-aun-puede-vencer-a-los-multimillonarios</link>
-      <description>
-        <![CDATA[Si hablamos directamente con los votantes que han perdido la fe en ambos partidos políticos sobre las preocupaciones en sus vidas diarias, podemos comenzar a reconstruir nuestra democracia. Cada vez que oigo hablar de la cantidad de dinero que multimillonarios como Elon Musk inyectan en nuestras elecciones para destruir a los candidatos de base, resulta [&#8230;]
-        <p><a href="https://ourfuture.org/20260809/un-pueblo-organizado-aun-puede-vencer-a-los-multimillonarios" rel="nofollow">Source</a></p>]]>
-      </description>
-      <source:markdown>Si hablamos directamente con los votantes que han perdido la fe en ambos partidos políticos sobre las preocupaciones en sus vidas diarias, podemos comenzar a reconstruir nuestra democracia. Cada vez que oigo hablar de la cantidad de dinero que multimillonarios como Elon Musk inyectan en nuestras elecciones para destruir a los candidatos de base, resulta \[…\]
-
-[Source](https://ourfuture.org/20260809/un-pueblo-organizado-aun-puede-vencer-a-los-multimillonarios)</source:markdown>
-      <guid>cid://https://ourfuture.org/?p=234877</guid>
-      <category>Blog</category>
-      <category>ESPANOL</category>
-      <category>SULMA</category>
-    </item>    <item>
-      <title>Organized People Can Still Beat Your Big Money</title>
-      <link>https://ourfuture.org/20260809/organized-people-can-still-beat-your-big-money</link>
-      <description>
-        <![CDATA[If we speak directly to voters who have lost faith in both political parties about the concerns in their daily lives, we can start to rebuild our democracy. Every time I hear about the insane amounts of money billionaires like Elon Musk and dark-money super PACs pour into our elections to crush grassroots candidates, it’s [&#8230;]
-        <p><a href="https://ourfuture.org/20260809/organized-people-can-still-beat-your-big-money" rel="nofollow">Source</a></p>]]>
-      </description>
-      <source:markdown>If we speak directly to voters who have lost faith in both political parties about the concerns in their daily lives, we can start to rebuild our democracy. Every time I hear about the insane amounts of money billionaires like Elon Musk and dark-money super PACs pour into our elections to crush grassroots candidates, it’s \[…\]
-
-[Source](https://ourfuture.org/20260809/organized-people-can-still-beat-your-big-money)</source:markdown>
-      <guid>cid://https://ourfuture.org/?p=234870</guid>
-      <category>Democracy</category>
-      <category>Election</category>
-      <category>Featured</category>
-      <category>SULMA</category>
-    </item>    <item>
-      <link>http://scripting.com/2026/08/09.html#a141151</link>
-      <description>
-        <![CDATA[Working with Claude on the user interface of <a href="https://this.how/rsschat/">RSS.chat</a> was a grind, but we learned a lot about working on these projects, me in the form of my human memory, and Claude who can read the code for a huge sprawling app like <a href="http://scripting.com/2021/01/04/140651.html?title=whatFrontierIsAbout">Frontier</a>, and understand it, in a minute or two. We've done this project in three stages, not knowing at the first two that there would be another one. Now we're working on the editors. An odb table editor, outliner, menubar editor, script editor. All built on the same codebase. It's in an Electron app that works with lots of independent windows, which while it has its pros and cons, is the way Frontier did it for almost 40 years. I find all this very unsettling, but I realize that once we get back to adjusting the UI, I already know how to work with Claude on tuning things up so they feel just right. I'm a market of one, the only one who has to be happy here is me. This may be the hardest programming project I've ever had, for one simple reason, I'm not doing any programming. That and I'm having very strong deja vu on everything I do and think about. Also there will be a fourth stage and maybe more. It'll be about the affordances, the things that seem little, but make the product usable. The biggest is the debugger. It's patterned after the one in <a href="https://daytona.scripting.com/search?q=%22THINK%20C%22">THINK C</a>, which I found transformative so I <a href="https://daytona.scripting.com/search?q=%22steal%20from%20the%20best%22">stole from the best</a>, as they say.]]>
-      </description>
-      <source:markdown>Working with Claude on the user interface of [RSS.chat](https://this.how/rsschat/) was a grind, but we learned a lot about working on these projects, me in the form of my human memory, and Claude who can read the code for a huge sprawling app like [Frontier](http://scripting.com/2021/01/04/140651.html?title=whatFrontierIsAbout), and understand it, in a minute or two. We&#39;ve done this project in three stages, not knowing at the first two that there would be another one. Now we&#39;re working on the editors. An odb table editor, outliner, menubar editor, script editor. All built on the same codebase. It&#39;s in an Electron app that works with lots of independent windows, which while it has its pros and cons, is the way Frontier did it for almost 40 years. I find all this very unsettling, but I realize that once we get back to adjusting the UI, I already know how to work with Claude on tuning things up so they feel just right. I&#39;m a market of one, the only one who has to be happy here is me. This may be the hardest programming project I&#39;ve ever had, for one simple reason, I&#39;m not doing any programming. That and I&#39;m having very strong deja vu on everything I do and think about. Also there will be a fourth stage and maybe more. It&#39;ll be about the affordances, the things that seem little, but make the product usable. The biggest is the debugger. It&#39;s patterned after the one in [THINK C](https://daytona.scripting.com/search?q=%22THINK%20C%22), which I found transformative so I [stole from the best](https://daytona.scripting.com/search?q=%22steal%20from%20the%20best%22), as they say.</source:markdown>
-      <guid>cid://http://scripting.com/2026/08/09.html#a141151</guid>
-    </item>    <item>
-      <title>James Gray Talks Dream Quality Of Cinema &#38; Approach With Cast: “I’m Not A Good Director Of Actors” – Locarno</title>
-      <link>https://deadline.com/2026/08/james-gray-talks-dream-paper-tiger-locarno-honor-actors-1237029554/</link>
-      <description>
-        <![CDATA[James Gray continued his festival tour with Paper Tiger this weekend setting down in the Locarno Film Festival to receive an honorary award ahead of the film’s Swiss premiere on its landmark Piazza Grande. Meeting the press ahead of the screening on Sunday evening, Gray gave an insight into his vision for cinema and how [&#8230;]]]>
-      </description>
-      <source:markdown>James Gray continued his festival tour with Paper Tiger this weekend setting down in the Locarno Film Festival to receive an honorary award ahead of the film’s Swiss premiere on its landmark Piazza Grande. Meeting the press ahead of the screening on Sunday evening, Gray gave an insight into his vision for cinema and how \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1237029554</guid>
-      <category>Festivals</category>
-      <category>News</category>
-      <category>James Gray</category>
-      <category>Locarno</category>
-      <category>Paper Tiger</category>
-    </item>    <item>
-      <title>“On the Sunny Side of the Street”</title>
-      <link>https://steady.substack.com/p/on-the-sunny-side-of-the-street</link>
-      <description>
-        <![CDATA[A Reason To Smile]]>
-      </description>
-      <source:markdown>A Reason To Smile</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!Z3r3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbaf246a-650d-4f5f-b5bb-026d477f4e01_693x491.png" length="0" type="image/jpeg" />
-      <guid>cid://https://steady.substack.com/p/on-the-sunny-side-of-the-street</guid>
-    </item>    <item>
-      <title>Relying on Go</title>
-      <link>https://antonz.org/relying-on-go/</link>
-      <description>
-        <![CDATA[Reusing Go's tooling and standard library for a systems language.]]>
-      </description>
-      <source:markdown>Reusing Go&#39;s tooling and standard library for a systems language.</source:markdown>
-      <guid>cid://https://antonz.org/relying-on-go/</guid>
-    </item>    <item>
-      <title>Dragoncatcher: Rifling the drawers</title>
-      <link>https://www.robinsloan.com/lab/rifling-the-drawers/</link>
-      <description>
-        <![CDATA[<p>This is computing in 2026! <a href="https://www.robinsloan.com/lab/rifling-the-drawers/">Read here.</a></p>]]>
-      </description>
-      <source:markdown>This is computing in 2026! [Read here.](https://www.robinsloan.com/lab/rifling-the-drawers/)</source:markdown>
-      <guid>cid://https://www.robinsloan.com/lab/rifling-the-drawers/</guid>
-    </item>    <item>
-      <title>Girls In Their Married Bliss by Edna O’Brien</title>
-      <link>https://adactio.com/journal/22708</link>
-      <description>
-        <![CDATA[<p>I really liked Edna O’Brien’s <cite>The Country Girls</cite> so when I saw a copy of <cite>Girls In Their Married Bliss</cite> for £1 in a local charity shop, I snapped it up even though it had the worst cover you could possibly imagine.</p>
-        
-        <p>This is the second and final sequel to <cite>The Country Girls</cite> which means I’ve skipped over the middle book, <cite>The Lonely Girl</cite>. I’ll have to rectify that.</p>
-        
-        <p>Once again the narrative centres on frenemies Kate and Baba but things are different this time around. For a start, we get the first-person perspective of both women this time. And the setting has moved to London, which probably explains the much darker tone of this book.</p>
-        
-        <p>Things are grim. That grimness is described perfectly in O’Brien’s writing. The boredom and sordidness of this life is detailed as precisely as the city and its cold damp weather.</p>
-        
-        <p>It’s a short book, which is probably just as well. I’m not sure I’d want to spend much more time in this milieu. But there’s no denying that it’s the work of a great writer giving a voice to people who’s story doesn’t often get told.</p>
-        
-        <p><a href="https://uk.bookshop.org/a/980/9780571397938"><img src="https://images-eu.bookshop.org/images/9780571397938.jpg" width="326" height="500" loading="lazy" alt="Buy this book"></a></p>]]>
-      </description>
-      <source:markdown>I really liked Edna O’Brien’s The Country Girls so when I saw a copy of Girls In Their Married Bliss for £1 in a local charity shop, I snapped it up even though it had the worst cover you could possibly imagine.
-
-This is the second and final sequel to The Country Girls which means I’ve skipped over the middle book, The Lonely Girl. I’ll have to rectify that.
-
-Once again the narrative centres on frenemies Kate and Baba but things are different this time around. For a start, we get the first-person perspective of both women this time. And the setting has moved to London, which probably explains the much darker tone of this book.
-
-Things are grim. That grimness is described perfectly in O’Brien’s writing. The boredom and sordidness of this life is detailed as precisely as the city and its cold damp weather.
-
-It’s a short book, which is probably just as well. I’m not sure I’d want to spend much more time in this milieu. But there’s no denying that it’s the work of a great writer giving a voice to people who’s story doesn’t often get told.
-
-[![Buy this book](https://images-eu.bookshop.org/images/9780571397938.jpg)](https://uk.bookshop.org/a/980/9780571397938)</source:markdown>
-      <guid>cid://https://adactio.com/journal/22708</guid>
-      <category>book</category>
-      <category>review</category>
-    </item>    <item>
-      <title>Trump is “Teflon Don” no more</title>
-      <link>https://www.gelliottmorris.com/p/2026-08-09-sunday-roundup</link>
-      <description>
-        <![CDATA[Plus, price anxiety and anti-incumbent bias are worse than in 2024. Your weekly political data roundup for August 9, 2026.]]>
-      </description>
-      <source:markdown>Plus, price anxiety and anti-incumbent bias are worse than in 2024. Your weekly political data roundup for August 9, 2026.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!MQv8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02af5fdf-929d-403d-bc7f-19a75a530cfb_1920x1080.webp" length="0" type="image/jpeg" />
-      <guid>cid://https://www.gelliottmorris.com/p/2026-08-09-sunday-roundup</guid>
-    </item>    <item>
-      <title>Against Oligarchy, Part III: Taxing Capital vs. Taxing Labor</title>
-      <link>https://paulkrugman.substack.com/p/against-oligarchy-part-iii-taxing</link>
-      <description>
-        <![CDATA[How the American tax code has swung against workers, and why it matters]]>
-      </description>
-      <source:markdown>How the American tax code has swung against workers, and why it matters</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!BowN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9bf262b-b0ec-40d6-9302-59e57fd18287_470x426.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/against-oligarchy-part-iii-taxing</guid>
-    </item>    <item>
-      <title>A local hybrid search plugin for Obsidian, powered by ZVec</title>
-      <link>http://localhost:1313/2026/08/09/zvec-local-hybrid-search-plugin-for-obsidian/</link>
-      <description>
-        <![CDATA[<p>I recently created a local hybrid search plugin for <a class="link" href="https://obsidian.md"  target="_blank" rel="noopener"
-            >Obsidian</a>, powered by <a class="link" href="https://zvec.org/en/"  target="_blank" rel="noopener"
-            >ZVec</a>. The original announcement is over on my Substack <a class="link" href="https://atomiccurrents.substack.com/p/an-all-new-hybrid-search-plugin-for"  target="_blank" rel="noopener"
-            >Atomic Currents</a>.</p>
-        <p>I&rsquo;ve used it heavily over the past two weeks and it has proven invaluable. It just works better for me than anything else I&rsquo;ve tried. As a result, I decided to bundle it up and make it a proper Community Plugin with single click install from Obsidian itself.</p>
-        <p>You can see it in the <a class="link" href="https://community.obsidian.md/plugins/zvec-hybrid-search"  target="_blank" rel="noopener"
-            >Obsidian Community Plugin Directory here</a>.</p>
-        <p>I don&rsquo;t intend to make any major additions to the functionality as it &ldquo;just works&rdquo; for me. The only two improvements since the first release are date filters and making sure it searches front-matter/metadata from other plugins like Web Clipper.</p>
-        <p>However if you spot bugs or any bad behaviour, please <a class="link" href="https://github.com/conoro/obsidian-zvec-hybrid-search/issues"  target="_blank" rel="noopener"
-            >open an issue on GitHub</a>. I&rsquo;ll obviously stay on top of security alerts etc.</p>
-        <p><img src="http://localhost:1313/images/2026/08/zvec-obsidian-plugin.png"
-        	
-        	
-        	loading="lazy"
-        	
-        		alt="ZVec Plugin Screenshot"
-        	
-            
-        	
-        ></p>]]>
-      </description>
-      <source:markdown>I recently created a local hybrid search plugin for [Obsidian](https://obsidian.md), powered by [ZVec](https://zvec.org/en/). The original announcement is over on my Substack [Atomic Currents](https://atomiccurrents.substack.com/p/an-all-new-hybrid-search-plugin-for).
-
-I’ve used it heavily over the past two weeks and it has proven invaluable. It just works better for me than anything else I’ve tried. As a result, I decided to bundle it up and make it a proper Community Plugin with single click install from Obsidian itself.
-
-You can see it in the [Obsidian Community Plugin Directory here](https://community.obsidian.md/plugins/zvec-hybrid-search).
-
-I don’t intend to make any major additions to the functionality as it “just works” for me. The only two improvements since the first release are date filters and making sure it searches front-matter/metadata from other plugins like Web Clipper.
-
-However if you spot bugs or any bad behaviour, please [open an issue on GitHub](https://github.com/conoro/obsidian-zvec-hybrid-search/issues). I’ll obviously stay on top of security alerts etc.
-
-![ZVec Plugin Screenshot](http://localhost:1313/images/2026/08/zvec-obsidian-plugin.png)</source:markdown>
-      <guid>cid://http://localhost:1313/2026/08/09/zvec-local-hybrid-search-plugin-for-obsidian/</guid>
-    </item>    <item>
-      <title>All the Reasons Tommy Tuberville Believes Abdul El-Sayed is a &#34;Terrorist&#34;</title>
-      <link>https://www.borowitzreport.com/p/all-the-reasons-tommy-tuberville</link>
-      <description>
-        <![CDATA[TBR Sunday Read]]>
-      </description>
-      <source:markdown>TBR Sunday Read</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/f1df4852-191d-439d-8906-ec6c1523de46_1476x724.png" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/all-the-reasons-tommy-tuberville</guid>
-    </item>    <item>
-      <title>Sunday thought: Criminals in Control</title>
-      <link>https://robertreich.substack.com/p/sunday-thought-criminals-in-control</link>
-      <description>
-        <![CDATA[And what we must do]]>
-      </description>
-      <source:markdown>And what we must do</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!Sgbn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa10f04ae-2464-4476-8b62-70422f50a7d4_3500x2458.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/sunday-thought-criminals-in-control</guid>
-    </item>    <item>
-      <title>August 8, 2026</title>
-      <link>https://heathercoxrichardson.substack.com/p/august-8-2026</link>
-      <description>
-        <![CDATA[At 4:00 this morning, just before they left for a five-week recess, Senate Republicans confirmed Acting Attorney General Todd Blanche to the position of Attorney General of the United States.]]>
-      </description>
-      <source:markdown>At 4:00 this morning, just before they left for a five-week recess, Senate Republicans confirmed Acting Attorney General Todd Blanche to the position of Attorney General of the United States.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!yKDv!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b47f775-3df7-41dd-8bc9-a64cdd72d948_600x600.png" length="0" type="image/jpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/august-8-2026</guid>
-    </item>    <item>
-      <title>Bookmarks - llm, movie, programming, research</title>
-      <link>https://inkdroid.org/2026/08/09/bookmarks/</link>
-      <description>
-        <![CDATA[These are some things I’ve wandered across on the web this week.
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://pureinsights.com/blog/2026/elasticsearch-isnt-your-ai-search-problem-you-are/">
-        Elasticsearch isn’t your AI search problem. You are. </a>
-        </h2>
-        <section class="p-summary">
-        Why data governance and evaluation matter when building search systems,
-        and especially when doing Retrieval Augnented Generation.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/search/">search</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://arxiv.org/abs/2607.27191"> Can AI
-        agents conduct open-ended AI research? Early evidence from two case
-        studies </a>
-        </h2>
-        <section class="p-summary">
-        Forecasts of explosive AI progress hinge on AI agents automating AI
-        research. But evidence on whether agents can carry out open-ended AI
-        research is thin. Current evaluations either test agents on narrow,
-        verifiable tasks, which excludes open-ended research, or submit
-        AI-generated papers to blind peer review, which is overstretched,
-        stochastic, and suffers from poor review quality. We introduce a third
-        way to measure progress towards AI R&amp;D automation. An agent takes on
-        the central, open-ended research question of a high-quality unpublished
-        paper, and the paper’s original authors grade its output. We call these
-        shadow evaluations. We ran shadow evaluations on two unpublished NeurIPS
-        2026 submissions, giving frontier agents six days and thousands of
-        dollars of compute. The agents completed all of the engineering without
-        human help, yet could not make substantial progress towards answering
-        the research questions. As a result, both papers were unambiguously
-        rejected by the authors. We identify five recurring failure modes: poor
-        judgment about the bar for publishable research, uncreative responses to
-        shortcomings in the research design, ineffective backtracking from dead
-        ends, poor resource awareness, and instruction drift
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/research/">research</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://github.com/WEB-CHILD/InternetArchiveExtractor">
-        InternetArchiveExtractor </a>
-        </h2>
-        <section class="p-summary">
-        This repository extracts archived content from the Wayback Machine and
-        converts collected metadata and downloaded snapshot files into
-        compressed WARC files. The project supports two primary modes of
-        operation: downloading snapshots from the Internet Archive and
-        converting CSV metadata (produced by pywaybackup) into WARC-GZ archives.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/internetarchive/">internetarchive</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/python warc/">python
-        warc</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/waybackmachine/">waybackmachine</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://browser-use.com/posts/playwright-to-cdp">
-        Closer to the Metal: Leaving Playwright for CDP </a>
-        </h2>
-        <section class="p-summary">
-        Playwright and Puppeteer are great for making QA tests and automation
-        scripts short and readable, but as AI browser companies have been
-        learning the hard way over the last year, sometimes these adapters
-        obscure important details about the underlying browsers. We decided to
-        peek behind the curtain and figure out what the browser was really
-        doing, and it made us decide to drop playwright entirely and just speak
-        the browser’s native tongue: CDP. By switcing to raw CDP we’ve massively
-        increased the speed of element extraction, screenshots, and all our
-        default actions. We’ve also managed to add new async reaction
-        capabilities to the agent, and proper cross-origin iframe support.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/api/">api</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/bot/">bot</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/browser/">browser</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/">
-        rust-lang/rust is adopting an LLM policy </a>
-        </h2>
-        <section class="p-summary">
-        It’s fine to use LLMs to answer questions, analyze, distill, refine,
-        check, suggest, review. But not to create.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/programming/">programming</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/rust/">rust</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://www.seangoedecke.com/llms-reward-expertise/">
-        LLMs reward expertise </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        … the idea here — that domain knowledge makes you better at using LLMs —
-        is something I’ve also experienced in my own work. If you have a good
-        theory of your codebase, you can push the LLM much harder than if you
-        have no familiarity. Because you have your own sense of what a good
-        solution might look like, you can say “no, I think it could be simpler
-        here”, or “but don’t we already do X?”, or “can we express this problem
-        in these familiar terms?“.
-        </p>
-        This touches on an idea I’ve written about before: that system design
-        problems are dominated by concrete specifics, not generic principles. Of
-        course both are useful, but I’d rather have familiarity with the
-        codebase than a deep general understanding of software systems. In his
-        conversation, Terence Tao asks a lot of specific questions like “does X
-        work here?”, or “given Y and Z, why A?“. I can’t ask those questions
-        about the Jacobian Conjecture, but I can ask them about the systems I
-        own at GitHub.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/design/">design</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/programming/">programming</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://pandoc.org/twenty-years-of-pandoc.html">
-        Twenty Years of Pandoc </a>
-        </h2>
-        <section class="p-summary">
-        As things stand now, though, I think that using pandoc to convert texts
-        has several large advantages over relying on an LLM. The first is
-        ecological; it simply requires far less energy for the same conversion.
-        The second is that pandoc’s output is deterministic; if you convert your
-        text with pandoc, you’ll always get the same result, and you’ll be able
-        to predict what that result is. The third is that, for the moment at
-        least, pandoc’s conversions are going to be more reliable. But that
-        could change in the coming years. Indeed, a time may come when LLMs can
-        produce more reliable conversions than pandoc or anything that works
-        like it.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/haskell/">haskell</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/markdown/">markdown</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/pandoc/">pandoc</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://www.bodleian.ox.ac.uk/open-research/oxfos">
-        Oxford Forum of Open Scholarship (OxFOS) 2027 </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        Now in its fifth year, the Oxford Forum of Open Scholarship (OxFOS) is a
-        University-wide conference for researchers, students, staff, and anyone
-        else interested in making research more open and trustworthy.
-        </p>
-        <p>
-        OxFOS is a chance to share ideas, learn, showcase your work, and
-        interact with others passionate about the importance of making research
-        more open, transparent and accessible. It is organised by the Bodleian
-        Libraries in partnership with the Research Practice team and the
-        grassroots researcher group, Reproducible Research Oxford (RROx).
-        </p>
-        Online events will be taking place Monday to Wednesday, with an
-        in-person conference at the Weston Library on Thursday 11 March. The
-        conference and events are free to attend and open to all.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/conference/">conference</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/openaccess/">openaccess</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/research/">research</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://www.spinmagazine.com/2026/07/adam-wiltzie-johann-johannsson/">
-        Adam Wiltzie Completes Jóhann Jóhannsson Collaboration </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        More than a decade after they first began recording together, Adam
-        Wiltzie has completed one final collaboration with his late friend
-        Jóhann Jóhannsson. Friendship Survival Guide, due Sept. 18 via Deutsche
-        Grammophon, draws from sessions the pair recorded between 2013 and 2017
-        before the celebrated Icelandic composer died unexpectedly in 2018 at
-        age 48.
-        </p>
-        The project reunites Stars of the Lid/Windsor for the Derby principal
-        Wiltzie and Jóhannsson, whose acclaimed film score work included The
-        Theory of Everything and Arrival. Originally conceived alongside their
-        collaborations on those scores, the album languished as Jóhannsson’s
-        film career exploded before ultimately being shelved after his death.
-        With the blessing of Jóhannsson’s family, Wiltzie recently returned to
-        the tapes to finish what the composer had once described as “our own
-        weird record.”
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/music/">music</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://en.wikipedia.org/wiki/Last_and_First_Men_%28film%29">
-        Last and First Men (film) </a>
-        </h2>
-        <section class="p-summary">
-        Last and First Men is a 2020 English-language Icelandic science fiction
-        film directed by Jóhann Jóhannsson, who co-wrote the screenplay with
-        José Enrique Macián. Based on the 1930 novel of the same name by English
-        author Olaf Stapledon, it is the only feature film directed by
-        Jóhannsson, a composer who died of an overdose two years before its
-        release.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/movie/">movie</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://en.wikipedia.org/wiki/Sicario_%282015_film%29?wprov=sfla1">
-        Sicario </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        Denis Villeneuve
-        </p>
-        Sicario is a 2015 American action crime thriller film directed by Denis
-        Villeneuve, written by Taylor Sheridan in his screenwriting debut and
-        starring Emily Blunt, Benicio del Toro, and Josh Brolin. The film
-        follows a principled FBI special agent who is enlisted by a government
-        task force to bring down the leader of a powerful and brutal Mexican
-        drug cartel. Sicario was selected to compete for the Palme d’Or at the
-        2015 Cannes Film Festival. It began a limited release in the United
-        States on September 18, 2015, followed by a nationwide release on
-        October 2, 2015.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/movie/">movie</a>
-        </p>
-        </article>]]>
-      </description>
-      <source:markdown>These are some things I’ve wandered across on the web this week.
-
-## 🔖 [Elasticsearch isn’t your AI search problem. You are.](https://pureinsights.com/blog/2026/elasticsearch-isnt-your-ai-search-problem-you-are/)
-
-Why data governance and evaluation matter when building search systems,
-and especially when doing Retrieval Augnented Generation.
-
-[llm](/tag/llm/) [search](/tag/search/)
-
-## 🔖 [Can AI\ agents conduct open-ended AI research? Early evidence from two case\ studies](https://arxiv.org/abs/2607.27191)
-
-Forecasts of explosive AI progress hinge on AI agents automating AI
-research. But evidence on whether agents can carry out open-ended AI
-research is thin. Current evaluations either test agents on narrow,
-verifiable tasks, which excludes open-ended research, or submit
-AI-generated papers to blind peer review, which is overstretched,
-stochastic, and suffers from poor review quality. We introduce a third
-way to measure progress towards AI R&#38;D automation. An agent takes on
-the central, open-ended research question of a high-quality unpublished
-paper, and the paper’s original authors grade its output. We call these
-shadow evaluations. We ran shadow evaluations on two unpublished NeurIPS
-2026 submissions, giving frontier agents six days and thousands of
-dollars of compute. The agents completed all of the engineering without
-human help, yet could not make substantial progress towards answering
-the research questions. As a result, both papers were unambiguously
-rejected by the authors. We identify five recurring failure modes: poor
-judgment about the bar for publishable research, uncreative responses to
-shortcomings in the research design, ineffective backtracking from dead
-ends, poor resource awareness, and instruction drift
-
-[llm](/tag/llm/) [research](/tag/research/)
-
-## 🔖 [InternetArchiveExtractor](https://github.com/WEB-CHILD/InternetArchiveExtractor)
-
-This repository extracts archived content from the Wayback Machine and
-converts collected metadata and downloaded snapshot files into
-compressed WARC files. The project supports two primary modes of
-operation: downloading snapshots from the Internet Archive and
-converting CSV metadata (produced by pywaybackup) into WARC-GZ archives.
-
-[internetarchive](/tag/internetarchive/) [python\
-warc](/tag/python warc/) [waybackmachine](/tag/waybackmachine/)
-
-## 🔖 [Closer to the Metal: Leaving Playwright for CDP](https://browser-use.com/posts/playwright-to-cdp)
-
-Playwright and Puppeteer are great for making QA tests and automation
-scripts short and readable, but as AI browser companies have been
-learning the hard way over the last year, sometimes these adapters
-obscure important details about the underlying browsers. We decided to
-peek behind the curtain and figure out what the browser was really
-doing, and it made us decide to drop playwright entirely and just speak
-the browser’s native tongue: CDP. By switcing to raw CDP we’ve massively
-increased the speed of element extraction, screenshots, and all our
-default actions. We’ve also managed to add new async reaction
-capabilities to the agent, and proper cross-origin iframe support.
-
-[api](/tag/api/) [bot](/tag/bot/) [browser](/tag/browser/)
-
-## 🔖 [rust-lang/rust is adopting an LLM policy](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/)
-
-It’s fine to use LLMs to answer questions, analyze, distill, refine,
-check, suggest, review. But not to create.
-
-[llm](/tag/llm/) [programming](/tag/programming/) [rust](/tag/rust/)
-
-## 🔖 [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
-
-… the idea here — that domain knowledge makes you better at using LLMs —
-is something I’ve also experienced in my own work. If you have a good
-theory of your codebase, you can push the LLM much harder than if you
-have no familiarity. Because you have your own sense of what a good
-solution might look like, you can say “no, I think it could be simpler
-here”, or “but don’t we already do X?”, or “can we express this problem
-in these familiar terms?“.
-
-This touches on an idea I’ve written about before: that system design
-problems are dominated by concrete specifics, not generic principles. Of
-course both are useful, but I’d rather have familiarity with the
-codebase than a deep general understanding of software systems. In his
-conversation, Terence Tao asks a lot of specific questions like “does X
-work here?”, or “given Y and Z, why A?“. I can’t ask those questions
-about the Jacobian Conjecture, but I can ask them about the systems I
-own at GitHub.
-
-[design](/tag/design/) [llm](/tag/llm/) [programming](/tag/programming/)
-
-## 🔖 [Twenty Years of Pandoc](https://pandoc.org/twenty-years-of-pandoc.html)
-
-As things stand now, though, I think that using pandoc to convert texts
-has several large advantages over relying on an LLM. The first is
-ecological; it simply requires far less energy for the same conversion.
-The second is that pandoc’s output is deterministic; if you convert your
-text with pandoc, you’ll always get the same result, and you’ll be able
-to predict what that result is. The third is that, for the moment at
-least, pandoc’s conversions are going to be more reliable. But that
-could change in the coming years. Indeed, a time may come when LLMs can
-produce more reliable conversions than pandoc or anything that works
-like it.
-
-[haskell](/tag/haskell/) [markdown](/tag/markdown/) [pandoc](/tag/pandoc/)
-
-## 🔖 [Oxford Forum of Open Scholarship (OxFOS) 2027](https://www.bodleian.ox.ac.uk/open-research/oxfos)
-
-Now in its fifth year, the Oxford Forum of Open Scholarship (OxFOS) is a
-University-wide conference for researchers, students, staff, and anyone
-else interested in making research more open and trustworthy.
-
-OxFOS is a chance to share ideas, learn, showcase your work, and
-interact with others passionate about the importance of making research
-more open, transparent and accessible. It is organised by the Bodleian
-Libraries in partnership with the Research Practice team and the
-grassroots researcher group, Reproducible Research Oxford (RROx).
-
-Online events will be taking place Monday to Wednesday, with an
-in-person conference at the Weston Library on Thursday 11 March. The
-conference and events are free to attend and open to all.
-
-[conference](/tag/conference/) [openaccess](/tag/openaccess/) [research](/tag/research/)
-
-## 🔖 [Adam Wiltzie Completes Jóhann Jóhannsson Collaboration](https://www.spinmagazine.com/2026/07/adam-wiltzie-johann-johannsson/)
-
-More than a decade after they first began recording together, Adam
-Wiltzie has completed one final collaboration with his late friend
-Jóhann Jóhannsson. Friendship Survival Guide, due Sept. 18 via Deutsche
-Grammophon, draws from sessions the pair recorded between 2013 and 2017
-before the celebrated Icelandic composer died unexpectedly in 2018 at
-age 48.
-
-The project reunites Stars of the Lid/Windsor for the Derby principal
-Wiltzie and Jóhannsson, whose acclaimed film score work included The
-Theory of Everything and Arrival. Originally conceived alongside their
-collaborations on those scores, the album languished as Jóhannsson’s
-film career exploded before ultimately being shelved after his death.
-With the blessing of Jóhannsson’s family, Wiltzie recently returned to
-the tapes to finish what the composer had once described as “our own
-weird record.”
-
-[music](/tag/music/)
-
-## 🔖 [Last and First Men (film)](https://en.wikipedia.org/wiki/Last_and_First_Men_%28film%29)
-
-Last and First Men is a 2020 English-language Icelandic science fiction
-film directed by Jóhann Jóhannsson, who co-wrote the screenplay with
-José Enrique Macián. Based on the 1930 novel of the same name by English
-author Olaf Stapledon, it is the only feature film directed by
-Jóhannsson, a composer who died of an overdose two years before its
-release.
-
-[movie](/tag/movie/)
-
-## 🔖 [Sicario](https://en.wikipedia.org/wiki/Sicario_%282015_film%29?wprov=sfla1)
-
-Denis Villeneuve
-
-Sicario is a 2015 American action crime thriller film directed by Denis
-Villeneuve, written by Taylor Sheridan in his screenwriting debut and
-starring Emily Blunt, Benicio del Toro, and Josh Brolin. The film
-follows a principled FBI special agent who is enlisted by a government
-task force to bring down the leader of a powerful and brutal Mexican
-drug cartel. Sicario was selected to compete for the Palme d’Or at the
-2015 Cannes Film Festival. It began a limited release in the United
-States on September 18, 2015, followed by a nationwide release on
-October 2, 2015.
-
-[movie](/tag/movie/)</source:markdown>
-      <guid>cid://https://inkdroid.org/2026/08/09/bookmarks/</guid>
-      <category>api</category>
-      <category>bookmarks</category>
-      <category>bot</category>
-      <category>browser</category>
-      <category>conference</category>
-      <category>design</category>
-      <category>haskell</category>
-      <category>internetarchive</category>
-      <category>llm</category>
-      <category>markdown</category>
-      <category>movie</category>
-      <category>music</category>
-      <category>openaccess</category>
-      <category>pandoc</category>
-      <category>programming</category>
-      <category>python warc</category>
-      <category>research</category>
-      <category>rust</category>
-      <category>search</category>
-      <category>waybackmachine</category>
-    </item>    <item>
-      <title>★ Retraction: The App Store Rejection of the Week That Was, in Fact, a Correct Rejection</title>
-      <link>https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week</link>
-      <description>
-        <![CDATA[My disdain for astrology is so utter, and my esteem for Godier’s previous work so high, that it simply never occurred to me that he might have actually made and submitted to the App Store an astrology app, let alone that he’d then feign surprise and frustration that an astrology app was rejected for being an astrology app.]]>
-      </description>
-      <source:markdown>My disdain for astrology is so utter, and my esteem for Godier’s previous work so high, that it simply never occurred to me that he might have actually made and submitted to the App Store an astrology app, let alone that he’d then feign surprise and frustration that an astrology app was rejected for being an astrology app.</source:markdown>
-      <guid>cid://tag:daringfireball.net,2026://1.43356</guid>
-    </item>    <item>
-      <title>Obama Blames Larry David For 2014 Tan Suit Debacle In ‘Life, Larry &#38; the Pursuit of Unhappiness’ Finale</title>
-      <link>https://deadline.com/2026/08/obama-tan-suit-life-larry-the-pursuit-of-unhappiness-finale-1237029530/</link>
-      <description>
-        <![CDATA[As Larry David&#8217;s comedic trip through U.S. history comes to an end, he took credit for one of the nation&#8217;s more recent presidential scandals. On Friday&#8217;s season finale of the HBO sketch comedy miniseries Life, Larry and the Pursuit of Unhappiness, President Barack Obama made a surprise appearance as himself in a sketch set in [&#8230;]]]>
-      </description>
-      <source:markdown>As Larry David’s comedic trip through U.S. history comes to an end, he took credit for one of the nation’s more recent presidential scandals. On Friday’s season finale of the HBO sketch comedy miniseries Life, Larry and the Pursuit of Unhappiness, President Barack Obama made a surprise appearance as himself in a sketch set in \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1237029530</guid>
-      <category>News</category>
-      <category>Politics</category>
-      <category>Barack Obama</category>
-      <category>HBO</category>
-      <category>Larry David</category>
-      <category>Life Larry and the Pursuit Of Unhappiness</category>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/117063333408985164</link>
-      <description>
-        <![CDATA[<p>It is a Silo Miracle night!</p>]]>
-      </description>
-      <source:markdown>It is a Silo Miracle night!</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/117063333408985164</guid>
-    </item>    <item>
-      <title>Matthew McConaughey Performs “Quill” In Scene From ‘The Rivals of Amziah King’ — Watch</title>
-      <link>https://deadline.com/2026/08/matthew-mcconaughey-performs-quill-rivals-amziah-king-watch-1237029525/</link>
-      <description>
-        <![CDATA[Matthew McConaughey shows off his vocal skills (and some hidden banjo talents) with his latest role in The Rivals of Amziah King. On Friday, Lakeshore Records released the single and music video for &#8220;Quill&#8221; from the original motion picture soundtrack, performed by the Oscar-winning and co-star Ben Hardesty, also featuring Miranda Zickler, Angelina LookingGlass and [&#8230;]]]>
-      </description>
-      <source:markdown>Matthew McConaughey shows off his vocal skills (and some hidden banjo talents) with his latest role in The Rivals of Amziah King. On Friday, Lakeshore Records released the single and music video for “Quill” from the original motion picture soundtrack, performed by the Oscar-winning and co-star Ben Hardesty, also featuring Miranda Zickler, Angelina LookingGlass and \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1237029525</guid>
-      <category>News</category>
-      <category>Matthew McConaughey</category>
-      <category>The Rivals of Amziah King</category>
-    </item>    <item>
-      <title>Jane Schoenbrun On Deconstructing The “Toxic Soup” Of The Slasher Genre In ‘Teenage Sex &#38; Death at Camp Miasma’: “It’s There In The DNA”</title>
-      <link>https://deadline.com/2026/08/jane-schoenbrun-toxic-soup-slasher-genre-camp-miasma-1237029457/</link>
-      <description>
-        <![CDATA[With their latest directorial outing, Jane Schoenbrun used subtle pieces of nostalgia to deconstruct the slasher genre. The Teenage Sex and Death at Camp Miasma writer/director explained to Deadline that they wanted to create &#8220;a mindset where you can really enjoy something scary,&#8221; noting the frequent symbolism of candy and junk food as providing an [&#8230;]]]>
-      </description>
-      <source:markdown>With their latest directorial outing, Jane Schoenbrun used subtle pieces of nostalgia to deconstruct the slasher genre. The Teenage Sex and Death at Camp Miasma writer/director explained to Deadline that they wanted to create “a mindset where you can really enjoy something scary,” noting the frequent symbolism of candy and junk food as providing an \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1237029457</guid>
-      <category>News</category>
-      <category>Jane Schoenbrun</category>
-      <category>LGBTQ</category>
-      <category>Non-Binary</category>
-      <category>Teenage Sex and Death at Camp Miasma</category>
-      <category>trans</category>
-      <category>Transgender</category>
-    </item>    <item>
-      <title>Dwayne Johnson Reacts To Live-Action ‘Moana’s Negative Reviews: “Just The Way It Goes”</title>
-      <link>https://deadline.com/2026/08/dwayne-johnson-reacts-live-action-moana-negative-reviews-1237029465/</link>
-      <description>
-        <![CDATA[Although the live-action remake of Moana hasn&#8217;t quite been able to catch a wave at the box office, Dwayne Johnson is proud of what they made. The Golden Globe nominee said the Disney movie&#8217;s negative reviews, which currently sit at 32% on Rotten Tomatoes, are &#8220;just the way it goes&#8221; in the entertainment industry, and [&#8230;]]]>
-      </description>
-      <source:markdown>Although the live-action remake of Moana hasn’t quite been able to catch a wave at the box office, Dwayne Johnson is proud of what they made. The Golden Globe nominee said the Disney movie’s negative reviews, which currently sit at 32% on Rotten Tomatoes, are “just the way it goes” in the entertainment industry, and \[…\]</source:markdown>
-      <guid>cid://https://deadline.com/?p=1237029465</guid>
-      <category>News</category>
-      <category>Disney</category>
-      <category>Dwayne Johnson</category>
-      <category>Moana</category>
-      <category>Reviews</category>
+      <source:markdown>Thoughts on whether TDD workflows provide actual value when used fully inside an AI agent loop, including a small exploratory evaluation comparing TDD vs non-TDD solutions</source:markdown>
+      <guid>cid://2026-08-10-tdd-inside-the-agent-loop</guid>
+      <category>ai-assistance</category>
     </item>
   </channel>
 </rss>
