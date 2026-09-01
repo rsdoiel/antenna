@@ -4,12 +4,19 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>31 Aug 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>01 Sep 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>The Works of Edgar Allan Poe — Volume 2 by Edgar Allan Poe</title>
       <link>https://www.gutenberg.org/ebooks/2148</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Works of Edgar Allan Poe — Volume 5 by Edgar Allan Poe</title>
+      <link>https://www.gutenberg.org/ebooks/2151</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -38,6 +45,125 @@
     </item>    <item>
       <title>The Works of Edgar Allan Poe, Volume 4 by Edgar Allan Poe</title>
       <link>https://www.gutenberg.org/ebooks/9515</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Works of Edgar Allan Poe, Volume 2 by Edgar Allan Poe</title>
+      <link>https://www.gutenberg.org/ebooks/9513</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Works of Edgar Allan Poe, Volume 3 by Edgar Allan Poe</title>
+      <link>https://www.gutenberg.org/ebooks/9514</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Works of Edgar Allan Poe — Volume 4 by Edgar Allan Poe</title>
+      <link>https://www.gutenberg.org/ebooks/2150</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>In the shadows by David Gray</title>
+      <link>https://www.gutenberg.org/ebooks/79488</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Le meneur de louves by Rachilde</title>
+      <link>https://www.gutenberg.org/ebooks/79484</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>The wife&#39;s secret by Ann S.  Stephens</title>
+      <link>https://www.gutenberg.org/ebooks/79478</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Narrative of the surveying voyages of His Majesty&#39;s ships Adventure and Beagle, between the years 18</title>
+      <link>https://www.gutenberg.org/ebooks/79486</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Blunder enlightening by Dave Dryfoos</title>
+      <link>https://www.gutenberg.org/ebooks/79483</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Death in Venice by Thomas Mann</title>
+      <link>https://www.gutenberg.org/ebooks/66073</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Criquet by Andrée Viollis</title>
+      <link>https://www.gutenberg.org/ebooks/79479</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Fish talk by Winston K.  Marks</title>
+      <link>https://www.gutenberg.org/ebooks/79487</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Simon le pathétique by Jean Giraudoux</title>
+      <link>https://www.gutenberg.org/ebooks/79485</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>An Illustrated Dictionary of Words used in Art and Archaeology by John W.  Mollett</title>
+      <link>https://www.gutenberg.org/ebooks/67629</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Extra-galactic nebulae by Edwin Hubble</title>
+      <link>https://www.gutenberg.org/ebooks/68428</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The American shotgun by Charles Askins</title>
+      <link>https://www.gutenberg.org/ebooks/79480</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>English Gothic foliage sculpture by Samuel Gardner</title>
+      <link>https://www.gutenberg.org/ebooks/79482</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Final report of the Pennsylvania Chestnut Tree Blight Commission</title>
+      <link>https://www.gutenberg.org/ebooks/79481</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1375,87 +1501,6 @@
     </item>    <item>
       <title>Thoughts of a fool by Evelyn Gladys</title>
       <link>https://www.gutenberg.org/ebooks/79325</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Third Round, by H. C. McNeile</title>
-      <link>https://standardebooks.org/ebooks/h-c-mcneile/the-third-round</link>
-      <description>
-        <![CDATA[A fearless detective comes to the aid of a scientist who’s made the discovery of a lifetime.]]>
-      </description>
-      <source:markdown>A fearless detective comes to the aid of a scientist who’s made the discovery of a lifetime.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/h-c-mcneile/the-third-round/downloads/h-c-mcneile_the-third-round.epub?source=feed" length="702265" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/h-c-mcneile/the-third-round</guid>
-      <category>Adventure</category>
-      <category>Fiction</category>
-    </item>    <item>
-      <title>Short Fiction, by Edgar Saltus</title>
-      <link>https://standardebooks.org/ebooks/edgar-saltus/short-fiction</link>
-      <description>
-        <![CDATA[A collection of novellas and short stories by Edgar Saltus.]]>
-      </description>
-      <source:markdown>A collection of novellas and short stories by Edgar Saltus.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/edgar-saltus/short-fiction/downloads/edgar-saltus_short-fiction.epub?source=feed" length="1215298" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/edgar-saltus/short-fiction</guid>
-      <category>Fiction</category>
-      <category>Shorts</category>
-    </item>    <item>
-      <title>Poetry, by John Donne</title>
-      <link>https://standardebooks.org/ebooks/john-donne/poetry</link>
-      <description>
-        <![CDATA[A collection of John Donne’s poetry.]]>
-      </description>
-      <source:markdown>A collection of John Donne’s poetry.</source:markdown>
-      <enclosure url="https://standardebooks.org/ebooks/john-donne/poetry/downloads/john-donne_poetry.epub?source=feed" length="610702" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/john-donne/poetry</guid>
-      <category>Poetry</category>
-    </item>    <item>
-      <title>The black cat, vol. I, no. 4, January 1896 by Various</title>
-      <link>https://www.gutenberg.org/ebooks/79322</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>L&#39;abbé Jules by Octave Mirbeau</title>
-      <link>https://www.gutenberg.org/ebooks/79320</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>The Good Soldier by Ford Madox Ford</title>
-      <link>https://www.gutenberg.org/ebooks/2775</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>U.S. Copyright Renewals 1950 - 1977 by Library of Congress. Copyright Office</title>
-      <link>https://www.gutenberg.org/ebooks/11800</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Clare Abbey, volume 1 (of 2) : by Lady Emily Ponsonby</title>
-      <link>https://www.gutenberg.org/ebooks/79321</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Clare Abbey, volume 2 (of 2) : by Lady Emily Ponsonby</title>
-      <link>https://www.gutenberg.org/ebooks/79324</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The idyl of the split-bamboo : by George Parker Holden</title>
-      <link>https://www.gutenberg.org/ebooks/79319</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
