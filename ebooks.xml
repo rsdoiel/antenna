@@ -4,10 +4,108 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>01 Sep 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>02 Sep 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Pride and Prejudice by Jane Austen</title>
+      <link>https://www.gutenberg.org/ebooks/1342</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Works of Edgar Allan Poe, Volume 3 by Edgar Allan Poe</title>
+      <link>https://www.gutenberg.org/ebooks/9514</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Works of Edgar Allan Poe, Volume 5 by Edgar Allan Poe</title>
+      <link>https://www.gutenberg.org/ebooks/9516</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>My diaries, being a personal narrative of events 1888-1914, Part 1 (1888-1900) by Blunt</title>
+      <link>https://www.gutenberg.org/ebooks/79491</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>My diaries, being a personal narrative of events 1888-1914, Part 2 (1900-1914) by Blunt</title>
+      <link>https://www.gutenberg.org/ebooks/79492</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The radio gun-runners by Ralph Milne Farley</title>
+      <link>https://www.gutenberg.org/ebooks/79497</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The story of patriarchs and prophets : by Ellen Gould Harmon White</title>
+      <link>https://www.gutenberg.org/ebooks/79498</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The grandmothers : by Glenway Wescott</title>
+      <link>https://www.gutenberg.org/ebooks/79489</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Les travailleurs de la mer - tome 1 by Victor Hugo</title>
+      <link>https://www.gutenberg.org/ebooks/79493</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>The angel that troubled the waters : by Thornton Wilder</title>
+      <link>https://www.gutenberg.org/ebooks/79499</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>On the theory of light and colours by Thomas Young</title>
+      <link>https://www.gutenberg.org/ebooks/79490</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Le voyage rustique by Charles Silvestre</title>
+      <link>https://www.gutenberg.org/ebooks/79496</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Alick&#39;s cave : by Catharine Shaw</title>
+      <link>https://www.gutenberg.org/ebooks/79494</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>An essay on the slave trade by Grímur Jónsson Thorkelín</title>
+      <link>https://www.gutenberg.org/ebooks/79495</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>The Works of Edgar Allan Poe — Volume 2 by Edgar Allan Poe</title>
       <link>https://www.gutenberg.org/ebooks/2148</link>
       <description>
@@ -52,13 +150,6 @@
     </item>    <item>
       <title>The Works of Edgar Allan Poe, Volume 2 by Edgar Allan Poe</title>
       <link>https://www.gutenberg.org/ebooks/9513</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Works of Edgar Allan Poe, Volume 3 by Edgar Allan Poe</title>
-      <link>https://www.gutenberg.org/ebooks/9514</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -297,13 +388,6 @@
     </item>    <item>
       <title>Monster no more by Basil Wells</title>
       <link>https://www.gutenberg.org/ebooks/79464</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Pride and Prejudice by Jane Austen</title>
-      <link>https://www.gutenberg.org/ebooks/1342</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1435,76 +1519,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Yvonne l&#39;Islaise by Jean Mauclère</title>
-      <link>https://www.gutenberg.org/ebooks/79328</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>French fairy tales</title>
-      <link>https://www.gutenberg.org/ebooks/79327</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The book review digest, volume 05, 1909 by Various</title>
-      <link>https://www.gutenberg.org/ebooks/79330</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Frysk mearkesboek by Janneke Ratsma</title>
-      <link>https://www.gutenberg.org/ebooks/79329</link>
-      <description>
-        <![CDATA[Language: Frisian]]>
-      </description>
-      <source:markdown>Language: Frisian</source:markdown>
-    </item>    <item>
-      <title>The dream-maker man by Fanny Heaslip Lea</title>
-      <link>https://www.gutenberg.org/ebooks/79331</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Reise in das Morgenland in den Jahren 1836 und 1837, Dritter und letzter Band by Schubert</title>
-      <link>https://www.gutenberg.org/ebooks/79334</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>Reise in das Morgenland in den Jahren 1836 und 1837, Erster Band by Gotthilf Heinrich von Schubert</title>
-      <link>https://www.gutenberg.org/ebooks/79332</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>Reise in das Morgenland in den Jahren 1836 und 1837, Zweiter Band by Gotthilf Heinrich von Schubert</title>
-      <link>https://www.gutenberg.org/ebooks/79333</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>Pau brasil : by Oswaldo de Andrade</title>
-      <link>https://www.gutenberg.org/ebooks/79326</link>
-      <description>
-        <![CDATA[Language: Portuguese]]>
-      </description>
-      <source:markdown>Language: Portuguese</source:markdown>
-    </item>    <item>
-      <title>Thoughts of a fool by Evelyn Gladys</title>
-      <link>https://www.gutenberg.org/ebooks/79325</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>

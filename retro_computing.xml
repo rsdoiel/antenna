@@ -4,10 +4,27 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>01 Sep 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>02 Sep 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Download the latest &#34;test&#34; distribution</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/09/download-the-latest-test-distribution/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p><strong>Please help us test the next version of FreeDOS!</strong> Thanks to Jerome, our distribution manager, we are able to share a new "test" distribution every month. These monthly releases collect all new changes, and act as a "test bed" to become the next official FreeDOS distribution, and we would like <strong>your</strong> help to test it. The new "T2609" ("T" for test, "26" for 2026, "09" for September) distribution includes an update to UPX and several new translations. Since August, we've also included an updated kernel and other tools. <a href="https://download.freedos.org/test/" rel="nofollow">Download the test release</a> and <a href="https://www.freedos.org/bugs/" rel="nofollow">let us know</a> if you have any problems.</p></div>]]>
+      </description>
+      <source:markdown>**Please help us test the next version of FreeDOS!** Thanks to Jerome, our distribution manager, we are able to share a new &#34;test&#34; distribution every month. These monthly releases collect all new changes, and act as a &#34;test bed&#34; to become the next official FreeDOS distribution, and we would like **your** help to test it. The new &#34;T2609&#34; (&#34;T&#34; for test, &#34;26&#34; for 2026, &#34;09&#34; for September) distribution includes an update to UPX and several new translations. Since August, we&#39;ve also included an updated kernel and other tools. [Download the test release](https://download.freedos.org/test/) and [let us know](https://www.freedos.org/bugs/) if you have any problems.</source:markdown>
+      <guid>cid://https://sourceforge.net78a6826d6d9439a74575f315b72aad235f6cde30</guid>
+    </item>    <item>
+      <title>Linux Exempt from California’s Age Verification Law</title>
+      <link>http://www.linux-magazine.com/Online/News/Linux-Exempt-from-California-s-Age-Verification-Law</link>
+      <description>
+        <![CDATA[<p>So long as Linux is distributed under the GPL, MIT, BSD, and Apache licenses, the OS is&nbsp; exempt from being required to verify the age of its users in California.</p>]]>
+      </description>
+      <source:markdown>So long as Linux is distributed under the GPL, MIT, BSD, and Apache licenses, the OS is  exempt from being required to verify the age of its users in California.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://77d94bf32987f31a2232b4d7620d0960</guid>
+    </item>    <item>
       <title>Mysysinf language update</title>
       <link>https://sourceforge.net/p/freedos/news/2026/08/mysysinf-language-update/</link>
       <description>
@@ -411,14 +428,6 @@
       </description>
       <source:markdown>Reminder WROCC meeting is tonight....</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2363.html</guid>
-    </item>    <item>
-      <title>b.log 2026/08/11 - WZBA&#39;s penultimate day, Site changes, Soy Luna.</title>
-      <link>https://heyrick.eu/blog/entry/20260811</link>
-      <description>
-        <![CDATA[WZBA's penultimate day, Site changes, Soy Luna.]]>
-      </description>
-      <source:markdown>WZBA&#39;s penultimate day, Site changes, Soy Luna.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260811</guid>
     </item>
   </channel>
 </rss>
