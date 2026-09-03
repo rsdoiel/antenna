@@ -4,10 +4,29 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>02 Sep 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>03 Sep 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>WROCC September 2026 meeting - Andrew Rawnsley</title>
+      <link>http://www.iconbar.com/comments/rss/news2372.html</link>
+      <description>
+        <![CDATA[WROCC's September speaker was Andrew Rawnsley (with his ROD hat on).]]>
+      </description>
+      <source:markdown>WROCC&#39;s September speaker was Andrew Rawnsley (with his ROD hat on).</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2372.html</guid>
+    </item>    <item>
+      <title>Issue 2 of French magazine Mag42 now available</title>
+      <link>https://www.riscository.com/2026/mag42-issue-2/</link>
+      <description>
+        <![CDATA[A new French-language digital magazine, Mag42, was launched recently by David Feugey &#8211; and the second issue is now available. The magazine isn&#8217;t RISC OS-specific, but does include coverage of &#8216;our&#8217; little operating system amongst a few others, and this month looks at how to &#8220;expand your RISC OS 5 software library through emulation.&#8221; Other systems covered in this issue include MorphOS, Atari 68K (referring to the processor family, not the amount of memory), Haiku, AmigasOS 4, and Apollo. With issue 2 containing 52 A5 pages, Mag42 is delivered as&#8230;]]>
+      </description>
+      <source:markdown>A new French-language digital magazine, Mag42, was launched recently by David Feugey – and the second issue is now available. The magazine isn’t RISC OS-specific, but does include coverage of ‘our’ little operating system amongst a few others, and this month looks at how to “expand your RISC OS 5 software library through emulation.” Other systems covered in this issue include MorphOS, Atari 68K (referring to the processor family, not the amount of memory), Haiku, AmigasOS 4, and Apollo. With issue 2 containing 52 A5 pages, Mag42 is delivered as…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11019</guid>
+      <category>Publications</category>
+      <category>Mag42</category>
+      <category>Magazine</category>
+    </item>    <item>
       <title>Download the latest &#34;test&#34; distribution</title>
       <link>https://sourceforge.net/p/freedos/news/2026/09/download-the-latest-test-distribution/</link>
       <description>
@@ -55,9 +74,9 @@
       <title>WROCC September 2026 talk on Wednesday with Andrew Rawnsley</title>
       <link>http://www.iconbar.com/comments/rss/news2367.html</link>
       <description>
-        <![CDATA[The July 2026 WROCC talk is on Wednesday 2nd September and starts at 7.45pm on Zoom. This month Andrew Rawnsley returns as speaker]]>
+        <![CDATA[The September 2026 WROCC talk is on Wednesday 2nd September and starts at 7.45pm on Zoom. This month Andrew Rawnsley returns as speaker]]>
       </description>
-      <source:markdown>The July 2026 WROCC talk is on Wednesday 2nd September and starts at 7.45pm on Zoom. This month Andrew Rawnsley returns as speaker</source:markdown>
+      <source:markdown>The September 2026 WROCC talk is on Wednesday 2nd September and starts at 7.45pm on Zoom. This month Andrew Rawnsley returns as speaker</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2367.html</guid>
     </item>    <item>
       <title>b.log 2026/08/2026 - What does this have to do with the price of beer in Clacton?, The not-vide grenier.</title>
@@ -420,14 +439,6 @@
       </description>
       <source:markdown>WROCC&#39;s August speaker was Martin Eastwood making a welcome return.</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2364.html</guid>
-    </item>    <item>
-      <title>WROCC August 2026 talk is tonight</title>
-      <link>http://www.iconbar.com/comments/rss/news2363.html</link>
-      <description>
-        <![CDATA[Reminder WROCC meeting is tonight....]]>
-      </description>
-      <source:markdown>Reminder WROCC meeting is tonight....</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2363.html</guid>
     </item>
   </channel>
 </rss>

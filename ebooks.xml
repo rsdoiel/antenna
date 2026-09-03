@@ -4,10 +4,66 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>02 Sep 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>03 Sep 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Works of Edgar Allan Poe, Volume 5 by Edgar Allan Poe</title>
+      <link>https://www.gutenberg.org/ebooks/9516</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The radio gun-runners by Ralph Milne Farley</title>
+      <link>https://www.gutenberg.org/ebooks/79497</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>L&#39;armée secrète, suivi de Fidélité et du Juge intérieur by H.-R.  Lenormand</title>
+      <link>https://www.gutenberg.org/ebooks/79504</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Songs of a Red Cross nurse by Brookes More</title>
+      <link>https://www.gutenberg.org/ebooks/79500</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Awakening, and Selected Short Stories by Kate Chopin</title>
+      <link>https://www.gutenberg.org/ebooks/160</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The electronic siege by Jr.  John W. Campbell</title>
+      <link>https://www.gutenberg.org/ebooks/79501</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Old New England houses by Albert G.  Robinson</title>
+      <link>https://www.gutenberg.org/ebooks/79502</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Sword play, based upon the French school of the foil by Breckinridge and Breckinridge</title>
+      <link>https://www.gutenberg.org/ebooks/79503</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Pride and Prejudice by Jane Austen</title>
       <link>https://www.gutenberg.org/ebooks/1342</link>
       <description>
@@ -22,13 +78,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>The Works of Edgar Allan Poe, Volume 5 by Edgar Allan Poe</title>
-      <link>https://www.gutenberg.org/ebooks/9516</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>My diaries, being a personal narrative of events 1888-1914, Part 1 (1888-1900) by Blunt</title>
       <link>https://www.gutenberg.org/ebooks/79491</link>
       <description>
@@ -38,13 +87,6 @@
     </item>    <item>
       <title>My diaries, being a personal narrative of events 1888-1914, Part 2 (1900-1914) by Blunt</title>
       <link>https://www.gutenberg.org/ebooks/79492</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The radio gun-runners by Ralph Milne Farley</title>
-      <link>https://www.gutenberg.org/ebooks/79497</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1442,83 +1484,6 @@
         <![CDATA[Language: Italian]]>
       </description>
       <source:markdown>Language: Italian</source:markdown>
-    </item>    <item>
-      <title>And life is better by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79335</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Number three Joy Street :</title>
-      <link>https://www.gutenberg.org/ebooks/79337</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>L&#39;Iliade by Homer</title>
-      <link>https://www.gutenberg.org/ebooks/14285</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>L&#39;Odyssée by Homer</title>
-      <link>https://www.gutenberg.org/ebooks/14286</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>My experiences of the war between France and Germany, Vol. I (of 2) by Archibald Forbes</title>
-      <link>https://www.gutenberg.org/ebooks/79341</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The spectacles by Frank Belknap Long</title>
-      <link>https://www.gutenberg.org/ebooks/79339</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>D. P. from tomorrow by Mack Reynolds</title>
-      <link>https://www.gutenberg.org/ebooks/79340</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Hirondelles de plages by Tristan Bernard</title>
-      <link>https://www.gutenberg.org/ebooks/79343</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Deux fois vingt ans : by Pierre Frondaie</title>
-      <link>https://www.gutenberg.org/ebooks/79342</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Twisted bars by Erle Stanley Gardner</title>
-      <link>https://www.gutenberg.org/ebooks/79336</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Considérations générales sur l&#39;état des sciences et des lettres by Sophie Germain</title>
-      <link>https://www.gutenberg.org/ebooks/79338</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
     </item>
   </channel>
 </rss>
