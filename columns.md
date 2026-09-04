@@ -432,3 +432,5 @@ description: Blogs, columns and snapshots from around the web.
 - [Phil Manzanera news](https://manzanera.com/new/feed/)
 - [The Sun Magazine](https://www.thesunmagazine.org/rss/articles)
 - [Raspberry Pi Podcast](http://rpimag.co/podcast-rss)
+- [Co-Maps Blog](https://www.comaps.app/rss.xml)
+

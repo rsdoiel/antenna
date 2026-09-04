@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>03 Sep 26 06:43 -0700</dateCreated>
+        <dateCreated>04 Sep 26 06:44 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -66,6 +66,7 @@
         <outline text="Claire Berlinski, Substack (Cosmopolitan Globalist)" type="rss" xmlUrl="https://claireberlinski.substack.com/feed" htmlUrl="https://claireberlinski.substack.com,https://claireberlinski.substack.com/feed" description="Edited by essayist Claire Berlinski, this is Substack&#39;s top forum for the discussion of international news among readers and writers, around the world, who are concerned about the future of liberal democracy and the gathering storm of global war." url="https://claireberlinski.substack.com/feed"></outline>
         <outline text="Climbing to the Stars blog" type="rss" xmlUrl="https://climbtothestars.org/feed/" htmlUrl="https://climbtothestars.org,https://climbtothestars.org/feed/" description="Stephanie Booth&#39;s online ramblings since summer 2000" url="https://climbtothestars.org/feed/"></outline>
         <outline text="Cloud Four" type="rss" xmlUrl="https://cloudfour.com/feed/" htmlUrl="https://cloudfour.com,https://cloudfour.com/feed/" description="Responsive web design and development, progressive web apps" url="https://cloudfour.com/feed/"></outline>
+        <outline text="Co-Maps Blog" type="rss" xmlUrl="https://www.comaps.app/rss.xml" htmlUrl="https://www.comaps.app,https://www.comaps.app/rss.xml" description="Free offline maps app for travellers, tourists, hikers, and cyclists based on OpenStreetMap data. Privacy and community focused, and open-source forever ♥️" url="https://www.comaps.app/rss.xml"></outline>
         <outline text="Cobel Sasser&#39;s blog" type="rss" xmlUrl="https://cabel.com/feed/" htmlUrl="https://cabel.com,https://cabel.com/feed/" description="A blog by Cabel Sasser" url="https://cabel.com/feed/"></outline>
         <outline text="Coly blog (Golang web scraper library)" type="rss" xmlUrl="https://go-colly.org/articles/index.xml" htmlUrl="https://go-colly.org/articles/,https://go-colly.org/articles/index.xml" description="Recent content in Data scraping articles on Colly" url="https://go-colly.org/articles/index.xml"></outline>
         <outline text="Conor O&#39;Niell&#39;s blog, Cross Dominant" type="rss" xmlUrl="https://conoroneill.net/index.xml" htmlUrl="http://localhost:1313/,http://localhost:1313/index.xml" description="Recent content on Mixed Laterality" url="http://localhost:1313/index.xml"></outline>
