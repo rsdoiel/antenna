@@ -4,10 +4,82 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>04 Sep 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>05 Sep 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A New York City Exhibition Celebrates Snoopy’s Enduring Influence on Art and Fashion</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-new-york-city-exhibition-celebrates-snoopys-enduring-influence-on-art-and-fashion-180989455/</link>
+      <description>
+        <![CDATA[The beloved "Peanuts" character’s many costumes and brand collaborations are featured in a new showcase]]>
+      </description>
+      <source:markdown>The beloved &#34;Peanuts&#34; character’s many costumes and brand collaborations are featured in a new showcase</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/eaZmeViS7GzNv80O8KfsyF2QGw8=/420x240/filters:focal(960x681:961x682)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c9/05/c905a52f-0314-4ce0-993c-206eadb5d2c4/grc-2019-c-00772large.jpg" length="276206" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-new-york-city-exhibition-celebrates-snoopys-enduring-influence-on-art-and-fashion-180989455/</guid>
+    </item>    <item>
+      <title>Microsoft unveils a Windows variant for developers with 64GB of unified RAM</title>
+      <link>https://www.osnews.com/story/145908/microsoft-unveils-a-windows-variant-for-developers-with-64gb-of-unified-ram/</link>
+      <description>
+        <![CDATA[Zenith is a variant of Windows for &#8220;developer-class devices&#8221;. Project Zenith comes with a set of pre-installed tools spanning languages and runtimes, source control, and productivity tools. Windows Terminal and Visual Studio Code are pinned to the Taskbar by default, putting your favorite tools within immediate reach. We’ve also pre-configured Windows Settings for coding across File Explorer, Search, Start, and the Taskbar. File Explorer shows file extensions, hidden files, the full path in the title bar, and the details pane, with long-path support enabled. Recently used files and folders and sync provider tips are turned off for a cleaner workspace. In Search and Start, Command Palette is enabled, while Start menu tips and account notifications are turned off to reduce distractions. Windows Subsystem for Linux (WSL) has become foundational for running Linux workloads on Windows. Last year we open-sourced WSL. Building on that momentum at Build 2026, we integrated WSL more deeply into Windows with WSL containers to provide a built-in way to create, run, and interact with Linux containers directly on Windows. ↫ Logan Iyer at the Windows Blogs It&#8217;s highly unlikely you&#8217;ll be using this Zenith Windows flavour any time soon, as it requires 64GB of unified RAM with 250 GB/s memory bandwidth. In 2026, that&#8217;s a serious ask. On top of that, it&#8217;s not entirely clear to me if Zenith will be available as a separate Windows variant, without having to buy a complete device. Of course, it would be trivial to set all of this up on any fresh Windows installation.]]>
+      </description>
+      <source:markdown>Zenith is a variant of Windows for “developer-class devices”. Project Zenith comes with a set of pre-installed tools spanning languages and runtimes, source control, and productivity tools. Windows Terminal and Visual Studio Code are pinned to the Taskbar by default, putting your favorite tools within immediate reach. We’ve also pre-configured Windows Settings for coding across File Explorer, Search, Start, and the Taskbar. File Explorer shows file extensions, hidden files, the full path in the title bar, and the details pane, with long-path support enabled. Recently used files and folders and sync provider tips are turned off for a cleaner workspace. In Search and Start, Command Palette is enabled, while Start menu tips and account notifications are turned off to reduce distractions. Windows Subsystem for Linux (WSL) has become foundational for running Linux workloads on Windows. Last year we open-sourced WSL. Building on that momentum at Build 2026, we integrated WSL more deeply into Windows with WSL containers to provide a built-in way to create, run, and interact with Linux containers directly on Windows. ↫ Logan Iyer at the Windows Blogs It’s highly unlikely you’ll be using this Zenith Windows flavour any time soon, as it requires 64GB of unified RAM with 250 GB/s memory bandwidth. In 2026, that’s a serious ask. On top of that, it’s not entirely clear to me if Zenith will be available as a separate Windows variant, without having to buy a complete device. Of course, it would be trivial to set all of this up on any fresh Windows installation.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145908</guid>
+      <category>Windows</category>
+    </item>    <item>
+      <title>NASA Ames Fire Department Aircraft Firefighting Training</title>
+      <link>https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/</link>
+      <description>
+        <![CDATA[The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is [&#8230;]]]>
+      </description>
+      <source:markdown>The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1044835</guid>
+      <category>Ames Research Center</category>
+    </item>    <item>
+      <title>After an Eight-Year Journey, Two Spacecraft Have Begun Their Arrival to Mercury, the Inner Solar System&#39;s Most Mysterious Planet</title>
+      <link>https://www.smithsonianmag.com/smart-news/after-an-eight-year-journey-two-spacecraft-have-begun-their-arrival-to-mercury-the-inner-solar-systems-most-mysterious-planet-180989458/</link>
+      <description>
+        <![CDATA[The BepiColombo mission, by the European Space Agency and the Japan Aerospace Exploration Agency, is only the third to study our smallest planetary neighbor]]>
+      </description>
+      <source:markdown>The BepiColombo mission, by the European Space Agency and the Japan Aerospace Exploration Agency, is only the third to study our smallest planetary neighbor</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/S5B7AQ_n4uVEthi9MGd_sBFoluM=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/31/eb/31ebdfc9-0df0-4f8b-9103-77d6dfdb4483/smithsonian_feature_images_15.png" length="686294" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/after-an-eight-year-journey-two-spacecraft-have-begun-their-arrival-to-mercury-the-inner-solar-systems-most-mysterious-planet-180989458/</guid>
+    </item>    <item>
+      <title>NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community</title>
+      <link>https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/</link>
+      <description>
+        <![CDATA[NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The&#160;RS-25&#160;Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and low-vision audience. The&#160;webinar&#160;will last about two hours and [&#8230;]]]>
+      </description>
+      <source:markdown>NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and low-vision audience. The webinar will last about two hours and \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1044713</guid>
+      <category>General</category>
+      <category>Events</category>
+    </item>    <item>
+      <title>GLP-1 Weight-Loss Drugs Can Slow Aging and Extend Life Span, Mouse Study Suggests</title>
+      <link>https://www.smithsonianmag.com/smart-news/GLP-1-weight-loss-drugs-can-slow-aging-and-extend-lifespan-mouse-study-suggests-180989452/</link>
+      <description>
+        <![CDATA[Older female mice—equivalent in age to 60-year-old women—given daily injections of the active ingredient in Ozempic lived about 12 percent longer than animals that didn't receive the drug]]>
+      </description>
+      <source:markdown>Older female mice—equivalent in age to 60-year-old women—given daily injections of the active ingredient in Ozempic lived about 12 percent longer than animals that didn&#39;t receive the drug</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2AOYC0sfvDbp_lfPShLuLxOb0Q4=/420x240/filters:focal(3840x2176:3841x2177)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bc/df/bcdf38b1-5940-4466-8703-d20d1d334481/ozempic.jpg" length="11866513" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/GLP-1-weight-loss-drugs-can-slow-aging-and-extend-lifespan-mouse-study-suggests-180989452/</guid>
+    </item>    <item>
+      <title>Lunar Occultation of Venus</title>
+      <link>https://www.nasa.gov/image-article/lunar-occultation-of-venus/</link>
+      <description>
+        <![CDATA[On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight. This time, the Moon slipped in front of Venus [&#8230;]]]>
+      </description>
+      <source:markdown>On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight. This time, the Moon slipped in front of Venus \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1044148</guid>
+    </item>    <item>
+      <title>Why Does Rain Eat Through Protective Coatings on Metal Structures? Researchers Propose a New Idea: Electrically Charged Droplets</title>
+      <link>https://www.smithsonianmag.com/smart-news/why-does-rain-eat-through-protective-coatings-on-metal-structures-researchers-propose-a-new-idea-electrically-charged-droplets-180989434/</link>
+      <description>
+        <![CDATA[Scientists long attributed rain damage to physical abrasion and chemical degradation from acidic substances. A new study offers a third idea, which could help researchers develop longer-lasting coatings and preserve important objects]]>
+      </description>
+      <source:markdown>Scientists long attributed rain damage to physical abrasion and chemical degradation from acidic substances. A new study offers a third idea, which could help researchers develop longer-lasting coatings and preserve important objects</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/90pUbwkXXJR59gzyZInsOIWXE58=/420x240/filters:focal(2250x1286:2251x1287)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/47/a8/47a8e50d-723c-4887-9823-98217843639a/golden-gate-bridge.jpg" length="7383298" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/why-does-rain-eat-through-protective-coatings-on-metal-structures-researchers-propose-a-new-idea-electrically-charged-droplets-180989434/</guid>
+    </item>    <item>
       <title>Researchers Have Figured Out How to Spot Fake Ancient Pottery Using the Earth&#39;s Magnetic Field</title>
       <link>https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/</link>
       <description>
@@ -42,6 +114,15 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 [NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
       <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/a8866710-9516-4062-bd0e-f02b001aa88a/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=a8866710-9516-4062-bd0e-f02b001aa88a&feed=F0qJcgXZ&t=podcast&e=nx-s1-5945241&p=510351&d=885&size=14169278" length="14169278" type="audio/mpeg" />
       <guid>cid://d779cae7-b15e-42d7-994f-e9a5135625f1</guid>
+    </item>    <item>
+      <title>APOD: 2026 September 4 – Na Uhane Mahoe Huki Pu i ke Ola</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 September 4 – Na… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Nā ʻUhane [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 September 4 – Na… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Nā ʻUhane \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/</guid>
+      <category>APOD</category>
     </item>    <item>
       <title>A Trio of Tropical Cyclones in the Pacific</title>
       <link>https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/</link>
@@ -692,9 +773,11 @@ The post [‘Stunning’ Percolation Proof Solves Decades-Old Puzzle About Phase
       <title>Football is here – and so is a new study on CTE</title>
       <link>https://www.npr.org/2026/08/31/nx-s1-5944383/football-nfl-cte-brain-injury</link>
       <description>
-        <![CDATA[The NFL season begins this week, but America’s favorite sport has been on our minds for other reasons recently. New <a href="https://doi.org/10.1136/bmj-2026-100418"target="_blank"   >research released in the journal<em> BMJ</em></a> reveals that 1 in 4 former NFL players in this sample had CTE, a neurodegenerative brain disease caused by repetitive head injuries. Past studies already showed that football players are at high risk for CTE, but this study – which assessed ex-NFL players who died from 2016 to 2021 – revealed that at least a quarter of those former players died with CTE, and the study’s lead author says the actual numbers are likely higher. What does that mean for players (and fans) of American football? Short Wave host <a href="https://www.npr.org/people/348779465/nathan-rott"target="_blank"   >Nate Rott</a> and NPR sports correspondent Becky Sullivan find out.<br/><br/><em>Interested in more sports science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org/"target="_blank"   ><em>plus.npr.org</em></a><em>.</em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+        <![CDATA[The NFL season begins this week, but America’s favorite sport has been on our minds for other reasons recently. New <a href="https://doi.org/10.1136/bmj-2026-100418"target="_blank"   >research released in the journal<em> BMJ</em></a> reveals that 1 in 4 former NFL players in this sample had CTE, a neurodegenerative brain disease caused by repetitive head injuries. Past studies already showed that football players are at high risk for CTE, but this study – which assessed ex-NFL players who died from 2016 to 2021 – revealed that at least a quarter of those former players died with CTE, and the study’s lead author says the actual numbers are likely higher. What does that mean for players (and fans) of American football? Short Wave host <a href="https://www.npr.org/people/348779465/nathan-rott"target="_blank"   >Nate Rott</a> and NPR sports correspondent Becky Sullivan find out.<br/><br/>If you liked this episode, check out our<a href="https://lnk.to/QDNSNj"target="_blank"   > episode on the brain injuries caused by operating blast weapons</a>.<br/><br/><em>Interested in more sports science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org/"target="_blank"   ><em>plus.npr.org</em></a><em>.</em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
       </description>
       <source:markdown>The NFL season begins this week, but America’s favorite sport has been on our minds for other reasons recently. New [research released in the journal _BMJ_](https://doi.org/10.1136/bmj-2026-100418) reveals that 1 in 4 former NFL players in this sample had CTE, a neurodegenerative brain disease caused by repetitive head injuries. Past studies already showed that football players are at high risk for CTE, but this study – which assessed ex-NFL players who died from 2016 to 2021 – revealed that at least a quarter of those former players died with CTE, and the study’s lead author says the actual numbers are likely higher. What does that mean for players (and fans) of American football? Short Wave host [Nate Rott](https://www.npr.org/people/348779465/nathan-rott) and NPR sports correspondent Becky Sullivan find out.
+
+If you liked this episode, check out our [episode on the brain injuries caused by operating blast weapons](https://lnk.to/QDNSNj).
 
 _Interested in more sports science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
 
@@ -2682,219 +2765,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <source:markdown>APOD Science APOD APOD: 2026 August 15 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Bright Perseids from \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/</guid>
       <category>APOD</category>
-    </item>    <item>
-      <title>Covid-19 Can Reawaken Dormant Viruses in the Body, Which Might Worsen Symptoms of the Respiratory Illness, Study Suggests</title>
-      <link>https://www.smithsonianmag.com/smart-news/covid-19-can-reawaken-dormant-viruses-in-the-body-which-might-worsen-symptoms-of-the-respiratory-illness-study-suggests-180989322/</link>
-      <description>
-        <![CDATA[Most people carry a sleeping virus in their bodies, such as the herpesvirus that causes mononucleosis, or the “kissing disease.” A new study hints that Covid-19 triggers their reactivation, which could worsen symptoms and increase the risk of long Covid]]>
-      </description>
-      <source:markdown>Most people carry a sleeping virus in their bodies, such as the herpesvirus that causes mononucleosis, or the “kissing disease.” A new study hints that Covid-19 triggers their reactivation, which could worsen symptoms and increase the risk of long Covid</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/uKeIpfGF-bbPiM-zxZ_kSibHMFI=/420x240/filters:focal(400x312:401x313)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/aa/6b/aa6baee5-7e62-4341-8fb8-6a36ee00754b/49535193876_8ec9df4dc7_c.jpg" length="261768" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/covid-19-can-reawaken-dormant-viruses-in-the-body-which-might-worsen-symptoms-of-the-respiratory-illness-study-suggests-180989322/</guid>
-    </item>    <item>
-      <title>NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies</title>
-      <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/</link>
-      <description>
-        <![CDATA[NASA is asking U.S.-based collegiate teams to&#160;submit&#160;bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could&#160;help the agency envision&#160;a future on the Moon shaped by&#160;new technology.&#160; The latest NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition&#160;invites&#160;student teams to explore new&#160;operations paradigms&#160;and advance the technologies needed to [&#8230;]]]>
-      </description>
-      <source:markdown>NASA is asking U.S.-based collegiate teams to submit bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could help the agency envision a future on the Moon shaped by new technology.  The latest NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition invites student teams to explore new operations paradigms and advance the technologies needed to \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1037939</guid>
-      <category>Prizes, Challenges, and Crowdsourcing Program</category>
-      <category>Get Involved</category>
-      <category>Langley Research Center</category>
-      <category>Lunar Surface Innovation Initiative</category>
-      <category>Opportunities to Contribute to NASA Missions &#38; Get Involved</category>
-      <category>Prizes, Challenges, &#38; Crowdsourcing News</category>
-      <category>Research and Technology Mission Directorate</category>
-      <category>Space Technology Mission Directorate</category>
-    </item>    <item>
-      <title>A Medieval Man&#39;s Injuries Reminded One Archaeologist of Modern-Day Car Crash Victims. They Turned Out to Be the Work of an English Trebuchet</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-medieval-mans-injuries-reminded-one-archaeologist-of-modern-day-car-crash-victims-they-turned-out-to-be-the-work-of-an-english-trebuchet-180989346/</link>
-      <description>
-        <![CDATA[A skeleton unearthed in Scotland likely belongs to a soldier struck by a high-speed projectile during Edward I's 1304 siege of Stirling Castle. The man suffered more than 160 fractures]]>
-      </description>
-      <source:markdown>A skeleton unearthed in Scotland likely belongs to a soldier struck by a high-speed projectile during Edward I&#39;s 1304 siege of Stirling Castle. The man suffered more than 160 fractures</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/HcNz1LArTWvmk4s7072wF3Y1OvM=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/40/c6/40c683bd-0e63-413a-84e0-9393057242ad/stirling-castle.png" length="2418374" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-medieval-mans-injuries-reminded-one-archaeologist-of-modern-day-car-crash-victims-they-turned-out-to-be-the-work-of-an-english-trebuchet-180989346/</guid>
-    </item>    <item>
-      <title>The worst PDA of all time</title>
-      <link>https://www.osnews.com/story/145764/the-worst-pda-of-all-time/</link>
-      <description>
-        <![CDATA[Today, you can get low-quality knockoffs of just about any popular smartphone on sites like AliExpress or Temu, whether they be iPhones, Galaxy phones, or whatever else. They have terrible build quality, bottom-of-the-barrel components and specifications, and all run outdated versions of Android &#8211; badly. At the same time, various consumer electronics brands, once popular in a bygone era, sell the rights to their brand name to unknown companies, who then put these brands on generic hardware to give their products a sheen of legitimacy. That&#8217;s why today, you can still buy Nokia smartphones, Polaroid cameras, and low-effort Hi-Fi equipment from various once-respected brands. None of this is new, however. In the late &#8217;90s and early 2000s, companies were already doing the same thing. In fact, there&#8217;s one device from this era which combines both business practices &#8211; it&#8217;s both a cheap knockoff of a wildly successful device, and it carries a once-revered brand name. Also, just to add some juice, this story involves stolen source code. Let&#8217;s take a look at the worst PDA of all time, the Olivetti daVinci. In 1997, Palm launched the Palm Pilot, and it and its successors proved to be a massive hit. Where countless before it had failed, Palm found the magic formula to make pocket computing work. I wrote an in-depth article about Palm over 13 years ago which goes into much (much) more detail, but the reason the Palm Pilot succeeded where things like the Newton, PenPoint OS, and Windows for Pen Computing failed, is that Palm&#8217;s founder, Jeff Hawkins, realised that they were competing with paper, not with desktop computers. Instead of trying to shove the capabilities of a full personal computer into a (barely) pockatable device, a pocket computer had to be as fast and convenient as paper, and therefore extremely strict about which features to add, and which to omit. To this day, the entirety of smartphone computing stands on the shoulders of Palm. Palm&#8217;s ideas, implementations, approaches, paradigms, and even people were absorbed by Apple and Google, where they shaped both iOS and Android. The phone you&#8217;re looking at right now has a ton of Palm DNA in it, still. After all, you&#8217;re still using the homescreen-with-apps paradigm Palm already perfected in the late &#8217;90s and early 2000s. The success of the Palm Pilot and its successors did not go unnoticed. Microsoft, most prominently, felt incredibly threatened by Palm&#8217;s success: The success of Palm’s products got the attention of Microsoft, and the company pretty much announced it was going to crush Palm. According to Hawkins, Microsoft had a sales conference, where, at some point, a big target appeared on the projector screen, with the Palm logo dead in the centre of it: “we are going to crush and kill these guys”, was the central message. Hawkins recalls that he got condolence letters after that, stating things like “Sorry Jeff. Too bad.” ↫ Thom Holwerda While Microsoft proved to be unable to &#8220;kill and crush&#8221; Palm, it did manage to build a relatively successful business selling PDAs running various incarnations of Windows CE. Together, Palm and Microsoft dominated the PDA market pretty much throughout its entire existence, and while the market was a mere fraction of the smartphone market of today, other companies still wanted a piece of this pie too. One of these companies was Olivetti, a storied Italian company with a long history making typewriters, computers, and other electronics. I&#8217;m not going into detail about Olivetti&#8217;s history, but the company was renowned for its attention to design, creating iconic products like the Lexikon 80, Lettera 22, Elea 9003, Programma 101, and so, so many more. Olivetti also entered the personal computer market, first with a variety of custom machines featuring Z80 and later Motorola 68000 processors running a variety of custom operating systems developed by Olivetti (including its own UNIX variant, X/OS). After a few machines using MIPS and Alpha processors in the early &#8217;90s, the company would eventually focus entirely on Intel-based PCs (including this amazing failure) running Windows. Like so many other computer makers from that era, Olivetti eventually left the PC business by selling it off in 1997. To this day, Olivetti PCs tend to cost more on the used market than those from other brands, despite no technical merits dictating so. At around this time, our current story begins. Seeing the success of the Palm Pilot and the emergence of copycat devices running Microsoft&#8217;s Windows CE, Olivetti wanted in on the action. And so, in the late &#8217;90s, the company introduced the Olivetti daVinci, a line of PDAs whose software looked suspiciously like Palm OS. There&#8217;s not a ton of information out there about the development history, but it seems that while Olivetti designed the hardware, it contracted the development of the operating system out to a company from Hong Kong, Echolink Design. And this is where things went horribly wrong for Olivetti. The software Echolink Design developed for the daVinci didn&#8217;t just look like Palm OS, it was Palm OS &#8211; at least, according to Palm. After being on the market for about a year, the Palm Pilot maker, then a subsidiary of 3Com, filed for an injunction, alleging that the daVinci operating system designed by Echolink Design contained actual Palm OS source code. In addition, Palm also filed suit against CompanionLink Software, the company that developed the Outlook synchronisation software for the daVinci. Palm won handily, and within a day of the filing, temporary restraining orders were put in place on both Olivetti and CompanionLink, stopping sales of the daVinci and its software dead in its tracks. It seemed to have been a pretty clear-cut case. From The Wall Street Journal at the time: U.S. District Judge James Ware ruled Olivetti&#8217;s Royal daVinci organizer contains software that appears to have been copied from the operating system for 3Com&#8217;s Palm organizers. Judge Ware said a review by a software expert found the daVinci software contains private Palm code and even grammatical]]>
-      </description>
-      <source:markdown>Today, you can get low-quality knockoffs of just about any popular smartphone on sites like AliExpress or Temu, whether they be iPhones, Galaxy phones, or whatever else. They have terrible build quality, bottom-of-the-barrel components and specifications, and all run outdated versions of Android – badly. At the same time, various consumer electronics brands, once popular in a bygone era, sell the rights to their brand name to unknown companies, who then put these brands on generic hardware to give their products a sheen of legitimacy. That’s why today, you can still buy Nokia smartphones, Polaroid cameras, and low-effort Hi-Fi equipment from various once-respected brands. None of this is new, however. In the late ’90s and early 2000s, companies were already doing the same thing. In fact, there’s one device from this era which combines both business practices – it’s both a cheap knockoff of a wildly successful device, and it carries a once-revered brand name. Also, just to add some juice, this story involves stolen source code. Let’s take a look at the worst PDA of all time, the Olivetti daVinci. In 1997, Palm launched the Palm Pilot, and it and its successors proved to be a massive hit. Where countless before it had failed, Palm found the magic formula to make pocket computing work. I wrote an in-depth article about Palm over 13 years ago which goes into much (much) more detail, but the reason the Palm Pilot succeeded where things like the Newton, PenPoint OS, and Windows for Pen Computing failed, is that Palm’s founder, Jeff Hawkins, realised that they were competing with paper, not with desktop computers. Instead of trying to shove the capabilities of a full personal computer into a (barely) pockatable device, a pocket computer had to be as fast and convenient as paper, and therefore extremely strict about which features to add, and which to omit. To this day, the entirety of smartphone computing stands on the shoulders of Palm. Palm’s ideas, implementations, approaches, paradigms, and even people were absorbed by Apple and Google, where they shaped both iOS and Android. The phone you’re looking at right now has a ton of Palm DNA in it, still. After all, you’re still using the homescreen-with-apps paradigm Palm already perfected in the late ’90s and early 2000s. The success of the Palm Pilot and its successors did not go unnoticed. Microsoft, most prominently, felt incredibly threatened by Palm’s success: The success of Palm’s products got the attention of Microsoft, and the company pretty much announced it was going to crush Palm. According to Hawkins, Microsoft had a sales conference, where, at some point, a big target appeared on the projector screen, with the Palm logo dead in the centre of it: “we are going to crush and kill these guys”, was the central message. Hawkins recalls that he got condolence letters after that, stating things like “Sorry Jeff. Too bad.” ↫ Thom Holwerda While Microsoft proved to be unable to “kill and crush” Palm, it did manage to build a relatively successful business selling PDAs running various incarnations of Windows CE. Together, Palm and Microsoft dominated the PDA market pretty much throughout its entire existence, and while the market was a mere fraction of the smartphone market of today, other companies still wanted a piece of this pie too. One of these companies was Olivetti, a storied Italian company with a long history making typewriters, computers, and other electronics. I’m not going into detail about Olivetti’s history, but the company was renowned for its attention to design, creating iconic products like the Lexikon 80, Lettera 22, Elea 9003, Programma 101, and so, so many more. Olivetti also entered the personal computer market, first with a variety of custom machines featuring Z80 and later Motorola 68000 processors running a variety of custom operating systems developed by Olivetti (including its own UNIX variant, X/OS). After a few machines using MIPS and Alpha processors in the early ’90s, the company would eventually focus entirely on Intel-based PCs (including this amazing failure) running Windows. Like so many other computer makers from that era, Olivetti eventually left the PC business by selling it off in 1997. To this day, Olivetti PCs tend to cost more on the used market than those from other brands, despite no technical merits dictating so. At around this time, our current story begins. Seeing the success of the Palm Pilot and the emergence of copycat devices running Microsoft’s Windows CE, Olivetti wanted in on the action. And so, in the late ’90s, the company introduced the Olivetti daVinci, a line of PDAs whose software looked suspiciously like Palm OS. There’s not a ton of information out there about the development history, but it seems that while Olivetti designed the hardware, it contracted the development of the operating system out to a company from Hong Kong, Echolink Design. And this is where things went horribly wrong for Olivetti. The software Echolink Design developed for the daVinci didn’t just look like Palm OS, it was Palm OS – at least, according to Palm. After being on the market for about a year, the Palm Pilot maker, then a subsidiary of 3Com, filed for an injunction, alleging that the daVinci operating system designed by Echolink Design contained actual Palm OS source code. In addition, Palm also filed suit against CompanionLink Software, the company that developed the Outlook synchronisation software for the daVinci. Palm won handily, and within a day of the filing, temporary restraining orders were put in place on both Olivetti and CompanionLink, stopping sales of the daVinci and its software dead in its tracks. It seemed to have been a pretty clear-cut case. From The Wall Street Journal at the time: U.S. District Judge James Ware ruled Olivetti’s Royal daVinci organizer contains software that appears to have been copied from the operating system for 3Com’s Palm organizers. Judge Ware said a review by a software expert found the daVinci software contains private Palm code and even grammatical</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145764</guid>
-      <category>Mobile</category>
-    </item>    <item>
-      <title>Making a game on a custom bytecode VM in 7 days and 3kB</title>
-      <link>https://www.osnews.com/story/145795/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb/</link>
-      <description>
-        <![CDATA[In the last few days, I built a shoot ’em up game by embedding a tiny custom bytecode VM and rendering the graphics using a fullscreen pixel shader. The result is a 3kB Windows executable. This was done for Langjam Gamejam, a 7-day challenge where you create a programming language and then use it to build a game. The project combines several interests of mine: language tooling, game development, procedural graphics, and demoscene-style size constraints. The game jam format forced me to keep the scope small and explore new ideas. Also, it was fun! ↫ Laurent Le Brun In seven days, Le Brun created a brand new programming language, compiler, bytecode interpreter, a game written in the new language, and rendered it, ending up with a 3kB self-contained executable. It&#8217;s amazing what humans can do.]]>
-      </description>
-      <source:markdown>In the last few days, I built a shoot ’em up game by embedding a tiny custom bytecode VM and rendering the graphics using a fullscreen pixel shader. The result is a 3kB Windows executable. This was done for Langjam Gamejam, a 7-day challenge where you create a programming language and then use it to build a game. The project combines several interests of mine: language tooling, game development, procedural graphics, and demoscene-style size constraints. The game jam format forced me to keep the scope small and explore new ideas. Also, it was fun! ↫ Laurent Le Brun In seven days, Le Brun created a brand new programming language, compiler, bytecode interpreter, a game written in the new language, and rendered it, ending up with a 3kB self-contained executable. It’s amazing what humans can do.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145795</guid>
-      <category>Games</category>
-    </item>    <item>
-      <title>Why tiny JPEGs look different in Chrome</title>
-      <link>https://www.osnews.com/story/145793/why-tiny-jpegs-look-different-in-chrome/</link>
-      <description>
-        <![CDATA[A while back, when chatting with a colleague over their computer, I noticed that a logo did not look exactly the same as it did on mine. It looked thinner on theirs and more faithful to the original image. It was rendered at 15px; here is an upscaled version.  If you squint, or take a step back, the one from Chrome looks thicker. A bit weird, but swapping the image for an SVG fixed it. Still, I was curious: why was it rendering like this in the first place? I did some digging and found a nifty optimization that Chrome uses when rendering JPEGs at small scales. ↫ Guillaume Técher I love it when people detail their discoveries like this.]]>
-      </description>
-      <source:markdown>A while back, when chatting with a colleague over their computer, I noticed that a logo did not look exactly the same as it did on mine. It looked thinner on theirs and more faithful to the original image. It was rendered at 15px; here is an upscaled version. If you squint, or take a step back, the one from Chrome looks thicker. A bit weird, but swapping the image for an SVG fixed it. Still, I was curious: why was it rendering like this in the first place? I did some digging and found a nifty optimization that Chrome uses when rendering JPEGs at small scales. ↫ Guillaume Técher I love it when people detail their discoveries like this.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145793</guid>
-      <category>Internet</category>
-    </item>    <item>
-      <title>NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow</title>
-      <link>https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/</link>
-      <description>
-        <![CDATA[In honor of America’s historic 250th anniversary, NASA announced on Friday MAX POWER, a public exposition of American air and space innovation, Nov. 7 and Nov. 8, on and near the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event will showcase the next-generation aircraft, spacecraft, autonomous vehicles, and technologies that will help define [&#8230;]]]>
-      </description>
-      <source:markdown>In honor of America’s historic 250th anniversary, NASA announced on Friday MAX POWER, a public exposition of American air and space innovation, Nov. 7 and Nov. 8, on and near the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event will showcase the next-generation aircraft, spacecraft, autonomous vehicles, and technologies that will help define \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1038032</guid>
-      <category>Kennedy Space Center</category>
-    </item>    <item>
-      <title>Schlitz Beer, an Iconic Midwestern Pour, Runs Dry in Chicago After 177 Years. Its Legacy, However, Goes Far Beyond the Pint Glass</title>
-      <link>https://www.smithsonianmag.com/smart-news/schlitz-beer-an-iconic-midwestern-pour-officially-runs-dry-in-chicago-after-177-years-180989342/</link>
-      <description>
-        <![CDATA[With significant roles in the Great Chicago Fire, 1893 World’s Fair and modern-day architecture, the beer’s impact on the Windy City is undeniable]]>
-      </description>
-      <source:markdown>With significant roles in the Great Chicago Fire, 1893 World’s Fair and modern-day architecture, the beer’s impact on the Windy City is undeniable</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Fid8SxYxrDU_Bpw86Dl50e0lqus=/420x240/filters:focal(3576x2793:3577x2794)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/db/a9/dba909cb-f988-490d-a55f-7fbb7196e0fe/south_branch_of_the_chicago_river_at_14th_street_1900_photochrom.jpg" length="9179460" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/schlitz-beer-an-iconic-midwestern-pour-officially-runs-dry-in-chicago-after-177-years-180989342/</guid>
-    </item>    <item>
-      <title>Volunteer Develops Machine-Learning Tool to Identify Rare Clouds</title>
-      <link>https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/</link>
-      <description>
-        <![CDATA[Certain kinds of clouds are misbehaving – appearing more often and lower in the sky than they used to. To help identify the factors influencing these changes, scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the NASA-supported Space Cloud Watch project.]]>
-      </description>
-      <source:markdown>Certain kinds of clouds are misbehaving – appearing more often and lower in the sky than they used to. To help identify the factors influencing these changes, scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the NASA-supported Space Cloud Watch project.</source:markdown>
-      <guid>cid://https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/</guid>
-      <category>Citizen Science</category>
-      <category>Earth Science</category>
-      <category>Earth Science Division</category>
-    </item>    <item>
-      <title>Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent</title>
-      <link>https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/</link>
-      <description>
-        <![CDATA[Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta — the country’s first university-based AI technology center. Established under Indonesia’s AI Center of [&#8230;]]]>
-      </description>
-      <source:markdown>Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta — the country’s first university-based AI technology center. Established under Indonesia’s AI Center of \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=97549</guid>
-      <category>AI</category>
-      <category>AI Infrastructure</category>
-      <category>Corporate</category>
-      <category>Economic Development</category>
-      <category>Nemotron</category>
-      <category>Open Source</category>
-    </item>    <item>
-      <title>NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun</title>
-      <link>https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/</link>
-      <description>
-        <![CDATA[As humanity looks to the Moon and stars for future exploration, predicting space weather — conditions in space primarily driven by the Sun — is more important than ever.  Now, a team of astrophysicists and data scientists with NASA’s COFFIES (Consequence Of Fields and Flows in the Interior and Exterior of the Sun) has developed a […]]]>
-      </description>
-      <source:markdown>As humanity looks to the Moon and stars for future exploration, predicting space weather — conditions in space primarily driven by the Sun — is more important than ever.  Now, a team of astrophysicists and data scientists with NASA’s COFFIES (Consequence Of Fields and Flows in the Interior and Exterior of the Sun) has developed a \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/</guid>
-      <category>Ames Research Center</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Heliophysics</category>
-      <category>Heliophysics Division</category>
-      <category>Heliophysics Research Program</category>
-      <category>Science Mission Directorate</category>
-      <category>Space Weather</category>
-      <category>The Sun</category>
-      <category>The Sun &#38; Solar Physics</category>
-    </item>    <item>
-      <title>Astronomers Peered at the Early Universe and May Have Discovered a New Kind of Celestial Object: Black Hole Stars</title>
-      <link>https://www.smithsonianmag.com/smart-news/astronomers-peered-at-the-early-universe-and-may-have-discovered-a-new-kind-of-celestial-object-black-hole-stars-180989334/</link>
-      <description>
-        <![CDATA[Since the James Webb Space Telescope started collecting data in 2022, it has found puzzling objects dubbed little red dots. A new study suggests they might be giant black holes with some characteristics of stars]]>
-      </description>
-      <source:markdown>Since the James Webb Space Telescope started collecting data in 2022, it has found puzzling objects dubbed little red dots. A new study suggests they might be giant black holes with some characteristics of stars</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Fa_KIql8t22AoVzFyXdi3MxOwgs=/420x240/filters:focal(450x300:451x301)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7c/a4/7ca45b97-a5b6-4cdb-9391-d20dd31bd01d/mit-blackholestar-01-press_0.jpg" length="658146" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/astronomers-peered-at-the-early-universe-and-may-have-discovered-a-new-kind-of-celestial-object-black-hole-stars-180989334/</guid>
-    </item>    <item>
-      <title>Historic Submarine Restoration Reveals a Hidden Connection to a Lost Sister Ship That Sank During World War II</title>
-      <link>https://www.smithsonianmag.com/smart-news/historic-submarine-restoration-reveals-a-hidden-connection-to-a-lost-sister-ship-that-sank-during-world-war-ii-180989340/</link>
-      <description>
-        <![CDATA[Experts working on the USS "Silversides" found a flood valve that appears to have been destined for its sister ship, the USS "Trigger." The vessel sank in the East China Sea on March 28, 1945]]>
-      </description>
-      <source:markdown>Experts working on the USS &#34;Silversides&#34; found a flood valve that appears to have been destined for its sister ship, the USS &#34;Trigger.&#34; The vessel sank in the East China Sea on March 28, 1945</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/vwCQTGhHbNcLVFzS2-D74TQmBVU=/420x240/filters:focal(536x306:537x307)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e0/8f/e08fd007-e068-45e9-8ddc-b6264a687719/fb_img_1784226986658.webp" length="121584" type="image/webp" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/historic-submarine-restoration-reveals-a-hidden-connection-to-a-lost-sister-ship-that-sank-during-world-war-ii-180989340/</guid>
-    </item>    <item>
-      <title>Total Solar Eclipse in Sunflower Field</title>
-      <link>https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/</link>
-      <description>
-        <![CDATA[This composite image shows the progression of a total solar eclipse over San Millán de los Caballeros, Spain on, Wednesday, Aug. 12, 2026. A total solar eclipse swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. A partial eclipse was visible in parts of the U.S., [&#8230;]]]>
-      </description>
-      <source:markdown>This composite image shows the progression of a total solar eclipse over San Millán de los Caballeros, Spain on, Wednesday, Aug. 12, 2026. A total solar eclipse swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. A partial eclipse was visible in parts of the U.S., \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1037724</guid>
-    </item>    <item>
-      <title>Here&#39;s Why These Male Spiders Sacrifice Themselves by Somersaulting Into Females&#39; Fangs While Mating</title>
-      <link>https://www.smithsonianmag.com/smart-news/heres-why-these-male-spiders-sacrifice-themselves-by-somersaulting-into-females-fangs-while-mating-180989337/</link>
-      <description>
-        <![CDATA[A new study suggest that even strange, complex animal behaviors can have a relatively simple genetic basis]]>
-      </description>
-      <source:markdown>A new study suggest that even strange, complex animal behaviors can have a relatively simple genetic basis</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/8QEl9bGVDTwfqUALJ66zwU8myoQ=/420x240/filters:focal(512x385:513x386)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cb/3a/cb3a3cf6-d5d9-491b-a0a5-b0ef9d2db312/3565053908_6da33fde6b_b.jpg" length="256757" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/heres-why-these-male-spiders-sacrifice-themselves-by-somersaulting-into-females-fangs-while-mating-180989337/</guid>
-    </item>    <item>
-      <title>Why Aging May Be a Program, Not a Breakdown</title>
-      <link>https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/</link>
-      <description>
-        <![CDATA[By deciphering the molecular signatures of millions of mouse cells, Junyue Cao has found that aging is not haphazard wear and tear but rather a “remodeling of the cell society.”            <p>The post <a href="https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/" target="_blank">Why Aging May Be a Program, Not a Breakdown</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>By deciphering the molecular signatures of millions of mouse cells, Junyue Cao has found that aging is not haphazard wear and tear but rather a “remodeling of the cell society.”
-
-The post [Why Aging May Be a Program, Not a Breakdown](https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=165293</guid>
-      <category>Biology</category>
-      <category>Q&#38;A</category>
-    </item>    <item>
-      <title>This Library Book Was 150 Years Overdue. Fortunately for the Man Who Just Returned It, Librarians Won&#39;t Be Enforcing a $20,000 Late Fee</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-library-book-was-150-years-overdue-fortunately-for-the-man-who-just-returned-it-librarians-wont-be-enforcing-a-20000-late-fee-180989339/</link>
-      <description>
-        <![CDATA["The Antiquities of Athens" had likely been missing from an Australian library since the 1870s. Staffers say its recovery is "an unlikely story of survival (of the book) and redemption (of the borrower)"]]>
-      </description>
-      <source:markdown>&#34;The Antiquities of Athens&#34; had likely been missing from an Australian library since the 1870s. Staffers say its recovery is &#34;an unlikely story of survival (of the book) and redemption (of the borrower)&#34;</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/QS1KGzwLcg_Hw8LrVO1nJOLZ2SY=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9c/a4/9ca40db8-4b6b-4ec5-9151-c80c9890a95f/library-book.jpg" length="386103" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-library-book-was-150-years-overdue-fortunately-for-the-man-who-just-returned-it-librarians-wont-be-enforcing-a-20000-late-fee-180989339/</guid>
-    </item>    <item>
-      <title>Inside Colombia&#39;s big quake – and why more could be coming</title>
-      <link>https://www.npr.org/2026/08/14/nx-s1-5928981/colombia-earthquake-venezuela-fault</link>
-      <description>
-        <![CDATA[The 7.4 magnitude earthquake that struck Colombia was devastating. Host Regina Barber talks to earthquake geologist Rodrigo Alejandro Leon Loya about the tectonic plates that caused the quake and what it was like 150 miles from the epicenter. <br/><br/><em>Interested in more science in the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.   </em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>The 7.4 magnitude earthquake that struck Colombia was devastating. Host Regina Barber talks to earthquake geologist Rodrigo Alejandro Leon Loya about the tectonic plates that caused the quake and what it was like 150 miles from the epicenter.
-
-_Interested in more science in the news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/35884acb-b390-4844-ad78-16c05d6065d8/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=35884acb-b390-4844-ad78-16c05d6065d8&feed=F0qJcgXZ&t=podcast&e=nx-s1-5928981&p=510351&d=732&size=11715440" length="11715440" type="audio/mpeg" />
-      <guid>cid://2623a759-ea28-4ccf-8a2c-c5f810e9e819</guid>
-    </item>    <item>
-      <title>APOD: 2026 August 14 – Total Solar Eclipse from Greenland</title>
-      <link>https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 August 14 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 August 14 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/</guid>
-      <category>APOD</category>
-    </item>    <item>
-      <title>A Sunflower’s View of Totality</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/a-sunflowers-view-of-totality/</link>
-      <description>
-        <![CDATA[The Moon slid between the Sun and Earth to produce a stunning celestial show visible from Spain in August 2026.]]>
-      </description>
-      <source:markdown>The Moon slid between the Sun and Earth to produce a stunning celestial show visible from Spain in August 2026.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/a-sunflowers-view-of-totality/</guid>
-      <category>Earth Observatory</category>
-      <category>Sun-Earth Interactions</category>
     </item>
   </channel>
 </rss>

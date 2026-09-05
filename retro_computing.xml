@@ -4,10 +4,52 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>04 Sep 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>05 Sep 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>RISC OS Open source developments weekly update (5th September 2026)</title>
+      <link>http://www.iconbar.com/comments/rss/news2373.html</link>
+      <description>
+        <![CDATA[Here are some of the things that I spotted which happened in the RISC OS Open source world this week...]]>
+      </description>
+      <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2373.html</guid>
+    </item>    <item>
+      <title>Font Directory Pro jumps beyond its FileCore bounds</title>
+      <link>https://www.riscository.com/2026/font-directory-pro-3-24/</link>
+      <description>
+        <![CDATA[An update to Font Directory Pro is now available from Elesar Ltd. The software, originally developed by LOOKsystems, was added to the Elesar catalogue in 2017, with sales and further development handled by Rob Sprowson&#8217;s company. It provides a system to make a large font collection more manageable, and is actually a suite of applications that fit neatly together to perform different aspects of that task, such as controlling which fonts are &#8216;seen&#8217; by the operating system, with the ability to enable and disable individual fonts dynamically. The headline change&#8230;]]>
+      </description>
+      <source:markdown>An update to Font Directory Pro is now available from Elesar Ltd. The software, originally developed by LOOKsystems, was added to the Elesar catalogue in 2017, with sales and further development handled by Rob Sprowson’s company. It provides a system to make a large font collection more manageable, and is actually a suite of applications that fit neatly together to perform different aspects of that task, such as controlling which fonts are ‘seen’ by the operating system, with the ability to enable and disable individual fonts dynamically. The headline change…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11023</guid>
+      <category>Software</category>
+      <category>Elesar</category>
+      <category>Font Directory Pro</category>
+      <category>Fonts</category>
+    </item>    <item>
+      <title>BASCOMP 3.0</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/09/bascomp-30/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>BASCOMP is a single-pass BASIC compiler for DOS, targetting 8086/8088 and using COM files as output. Matthias Eberle has released version 3: "This major release expands the supported BASIC language while improving parser robustness, runtime safety and QBasic-style source compatibility. Much code has been rewritten and all tool chain executables are now faster and more reliable." You can download the latest release from the <a href="https://github.com/tt1542/BASCOMP" rel="nofollow">BASCOMP website</a>. See the <a href="https://github.com/tt1542/BASCOMP/releases/tag/3.0" rel="nofollow">version 3 release</a> for additional notes. Note that <em>"development was assisted by a coding AI"</em> so we are unlikely to include this in FreeDOS. </p></div>]]>
+      </description>
+      <source:markdown>BASCOMP is a single-pass BASIC compiler for DOS, targetting 8086/8088 and using COM files as output. Matthias Eberle has released version 3: &#34;This major release expands the supported BASIC language while improving parser robustness, runtime safety and QBasic-style source compatibility. Much code has been rewritten and all tool chain executables are now faster and more reliable.&#34; You can download the latest release from the [BASCOMP website](https://github.com/tt1542/BASCOMP). See the [version 3 release](https://github.com/tt1542/BASCOMP/releases/tag/3.0) for additional notes. Note that _&#34;development was assisted by a coding AI&#34;_ so we are unlikely to include this in FreeDOS.</source:markdown>
+      <guid>cid://https://sourceforge.netdda20ebd49241a9b938494109e0a6c7c625f0dcf</guid>
+    </item>    <item>
+      <title>Porsche Unleashed</title>
+      <link>https://www.filfre.net/2026/09/porsche-unleashed/</link>
+      <description>
+        <![CDATA[I&#8217;ve had a running joke with my wife Dorte for almost as long as we&#8217;ve been a couple. I reasoned back in the day that, since she was going to be a doctor &#8212; a more reliable source of income than writing about computer games &#8212; she should be expected to buy me the Porsche [&#8230;]]]>
+      </description>
+      <source:markdown>I’ve had a running joke with my wife Dorte for almost as long as we’ve been a couple. I reasoned back in the day that, since she was going to be a doctor — a more reliable source of income than writing about computer games — she should be expected to buy me the Porsche \[…\]</source:markdown>
+      <enclosure url="https://www.filfre.net/wp-content/uploads/2026/08/opening.mp4" length="5738153" type="video/mp4" />
+      <guid>cid://https://www.filfre.net/?p=6891</guid>
+      <category>Digital Antiquaria</category>
+      <category>Interactive Fiction</category>
+      <category>electronic arta</category>
+      <category>need for speed</category>
+      <category>porsche unleashed</category>
+    </item>    <item>
       <title>b.log 2026/09/2026 - Lidl shananigans, Autism in France, Weather station hacking.</title>
       <link>https://heyrick.eu/blog/entry/20260903</link>
       <description>
@@ -396,50 +438,6 @@
       </description>
       <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2365.html</guid>
-    </item>    <item>
-      <title>Linux Mint Shares a Possible Kernel Cleanup Solution</title>
-      <link>http://www.linux-magazine.com/Online/News/Linux-Mint-Shares-a-Possible-Kernel-Cleanup-Solution</link>
-      <description>
-        <![CDATA[<p>For those on Linux Mint who like to keep multiple kernels around but don't want them to take up too much space, you might be getting a new automated tool.</p>]]>
-      </description>
-      <source:markdown>For those on Linux Mint who like to keep multiple kernels around but don&#39;t want them to take up too much space, you might be getting a new automated tool.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://437cc5c79a7fdba5a6d86d4267eaa802</guid>
-    </item>    <item>
-      <title>b.log 2026/08/14 - Tax data stolen, Jack FM, Blog changes, Faulty oven.</title>
-      <link>https://heyrick.eu/blog/entry/20260814</link>
-      <description>
-        <![CDATA[Tax data stolen, Jack FM, Blog changes, Faulty oven.]]>
-      </description>
-      <source:markdown>Tax data stolen, Jack FM, Blog changes, Faulty oven.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260814</guid>
-    </item>    <item>
-      <title>CachyOS Gets an Update</title>
-      <link>http://www.linux-magazine.com/Online/News/CachyOS-Gets-an-Update</link>
-      <description>
-        <![CDATA[<p>CachyOS August 2026 release is now available with the latest version of KDE, some new features, and plenty of improvements.</p>]]>
-      </description>
-      <source:markdown>CachyOS August 2026 release is now available with the latest version of KDE, some new features, and plenty of improvements.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://1ce92ed56f1acd5fff25cff9b3f55857</guid>
-    </item>    <item>
-      <title>Jolt with 4K images</title>
-      <link>http://retro.hansotten.nl/jolt-with-4k-images/</link>
-      <description>
-        <![CDATA[With thanks to Jonathan Chapman of Glitchworks who found a Jolt system, here images of a Jolt with 4K memory, an experimenters board and the power supply. Here the images See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste [&#8230;]]]>
-      </description>
-      <source:markdown>With thanks to Jonathan Chapman of Glitchworks who found a Jolt system, here images of a Jolt with 4K memory, an experimenters board and the power supply. Here the images See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=22004</guid>
-      <category>6502</category>
-      <category>jolt</category>
-    </item>    <item>
-      <title>Rougol August 2026 meeting on monday</title>
-      <link>http://www.iconbar.com/comments/rss/news2353.html</link>
-      <description>
-        <![CDATA[The August 2026 Rougol meeting is on Monday.]]>
-      </description>
-      <source:markdown>The August 2026 Rougol meeting is on Monday.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2353.html</guid>
     </item>
   </channel>
 </rss>

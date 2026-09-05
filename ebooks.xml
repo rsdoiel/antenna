@@ -4,12 +4,89 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>04 Sep 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>05 Sep 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>English Gothic foliage sculpture by Samuel Gardner</title>
+      <link>https://www.gutenberg.org/ebooks/79482</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>A history of English lotteries : by John Ashton</title>
       <link>https://www.gutenberg.org/ebooks/77478</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A Tennyson dictionary : by Arthur E.  Baker</title>
+      <link>https://www.gutenberg.org/ebooks/79512</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Treasure Island by Robert Louis Stevenson</title>
+      <link>https://www.gutenberg.org/ebooks/120</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>What Diantha Did by Charlotte Perkins Gilman</title>
+      <link>https://www.gutenberg.org/ebooks/3016</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Germanische Mythologie by Eugen Mogk</title>
+      <link>https://www.gutenberg.org/ebooks/79513</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>Anthem by Ayn Rand</title>
+      <link>https://www.gutenberg.org/ebooks/1250</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The journal of George Fox, vol. 2 of 2 : by George Fox</title>
+      <link>https://www.gutenberg.org/ebooks/75590</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Adrift on the Amazon by Leo E.  Miller</title>
+      <link>https://www.gutenberg.org/ebooks/77361</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The last days of the French monarchy by Hilaire Belloc</title>
+      <link>https://www.gutenberg.org/ebooks/77288</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Sous les murs de Bagdad : by Émile Zavie</title>
+      <link>https://www.gutenberg.org/ebooks/79514</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Condensation of Determinants by Lewis Carroll</title>
+      <link>https://www.gutenberg.org/ebooks/37354</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -31,13 +108,6 @@
     </item>    <item>
       <title>Viva la pay day by Seven Anderton</title>
       <link>https://www.gutenberg.org/ebooks/79511</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A Tennyson dictionary : by Arthur E. Baker</title>
-      <link>https://www.gutenberg.org/ebooks/79512</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -360,13 +430,6 @@
     </item>    <item>
       <title>The American shotgun by Charles Askins</title>
       <link>https://www.gutenberg.org/ebooks/79480</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>English Gothic foliage sculpture by Samuel Gardner</title>
-      <link>https://www.gutenberg.org/ebooks/79482</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1403,62 +1466,6 @@
     </item>    <item>
       <title>In a German colony : by B.  Pullen-Burry</title>
       <link>https://www.gutenberg.org/ebooks/79365</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Merry Adventures of Robin Hood by Howard Pyle</title>
-      <link>https://www.gutenberg.org/ebooks/10148</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A la trace de Dieu by Jacques Rivière</title>
-      <link>https://www.gutenberg.org/ebooks/79357</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Poems. : by William Blake</title>
-      <link>https://www.gutenberg.org/ebooks/79363</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Seule en Russie : by Andrée Viollis</title>
-      <link>https://www.gutenberg.org/ebooks/79359</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>The planet of peril by Otis Adelbert Kline</title>
-      <link>https://www.gutenberg.org/ebooks/79360</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Mavericks by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79362</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>History of flagellation among different nations : by Anonymous</title>
-      <link>https://www.gutenberg.org/ebooks/79361</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The botanist&#39;s repository for new and rare plants; vol. 10 [of 10] by Andrews</title>
-      <link>https://www.gutenberg.org/ebooks/79358</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

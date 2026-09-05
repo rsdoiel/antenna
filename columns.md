@@ -422,7 +422,6 @@ description: Blogs, columns and snapshots from around the web.
 - [Optimists Economy Podcast](https://publicfeeds.net/f/14811/feed-rss.xml)
 - [Laura Tacho Blog](https://lauratacho.com/blog?format=rss)
 - [Laura Tacho, Refactor Substack](https://lauratacho.substack.com/feed/)
-- [Thought Works](https://www.thoughtworks.com/rss/insights.xml)
 - [Elijah Potter Blog](https://elijahpotter.dev/rss.xml)
 - [Freakonomics Radio](https://feeds.simplecast.com/Y8lFbOT4)
 - [Worse on Purpose](https://rss.beehiiv.com/feeds/J17ICFTI1f.xml)
