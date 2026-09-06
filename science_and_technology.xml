@@ -4,10 +4,19 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>05 Sep 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>06 Sep 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>APOD: 2026 September 5 – Chasing the Moon’s Shadow</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon&#8217;s [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon’s \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/</guid>
+      <category>APOD</category>
+    </item>    <item>
       <title>A New York City Exhibition Celebrates Snoopy’s Enduring Influence on Art and Fashion</title>
       <link>https://www.smithsonianmag.com/smart-news/a-new-york-city-exhibition-celebrates-snoopys-enduring-influence-on-art-and-fashion-180989455/</link>
       <description>
@@ -2746,24 +2755,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>APOD Science APOD APOD: 2026 August 16 – Milky… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Milky Way \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/</guid>
-      <category>APOD</category>
-    </item>    <item>
-      <title>Summer Triangle Corner: Deneb</title>
-      <link>https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-deneb/</link>
-      <description>
-        <![CDATA[Bird constellations abound in the night sky, including Cygnus, the majestic swan. Easy to find with its dazzling stars, it is one of the few constellations that look like its namesake, and it is full of treasures. Visible in the Northern Hemisphere all summer long, there’s so much to see and even some things that […]]]>
-      </description>
-      <source:markdown>Bird constellations abound in the night sky, including Cygnus, the majestic swan. Easy to find with its dazzling stars, it is one of the few constellations that look like its namesake, and it is full of treasures. Visible in the Northern Hemisphere all summer long, there’s so much to see and even some things that \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-deneb/</guid>
-      <category>Night Sky Network</category>
-    </item>    <item>
-      <title>APOD: 2026 August 15 – Bright Perseids from Sweden</title>
-      <link>https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 August 15 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Bright Perseids from [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 August 15 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Bright Perseids from \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/</guid>
       <category>APOD</category>
     </item>
   </channel>

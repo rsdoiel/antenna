@@ -4,10 +4,381 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>05 Sep 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>06 Sep 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The electronic siege by Jr.  John W. Campbell</title>
+      <link>https://www.gutenberg.org/ebooks/79501</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A Grandpa&#39;s Notebook by Meyer Moldeven</title>
+      <link>https://www.gutenberg.org/ebooks/2737</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>40 years / 40 años / 40 ans by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/34731</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>L&#39;art roman dans le Sud-Manche by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/27041</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>L&#39;art roman dans le Sud-Manche: Album by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/33250</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Booknología: El libro digital (1971-2010) by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/33461</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>Booknologie: Le livre numérique (1971-2010) by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/33462</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Booknology: The eBook (1971-2010) by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/33460</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>De l&#39;imprimé à Internet by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/27031</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Del libro impreso al libro digital by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/34091</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>Le Dictionnaire du NEF by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/27043</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>L&#39;ebook a 40 ans (1971-2011) by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/36987</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>The eBook is 40 (1971-2011) by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/36985</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>El ebook tiene 40 años (1971-2011) by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/36986</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>Entretiens (1998-2001) by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/27033</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Entretiens / Interviews / Entrevistas by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/27035</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Entrevistas (1998-2001) by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/27034</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>From the Print Media to the Internet by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/27030</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Une histoire de l&#39;eBook by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/29802</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Una historia del eBook by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/29803</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>A History of EBooks by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/29801</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Internet and Languages [around the year 2000] by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/30422</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>L&#39;Internet et les langues by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/30423</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>El Internet y los idiomas [alrededor del año 2000] by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/30716</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>Interviews (1998-2001) by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/27032</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>La Jérusalem médiévale by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/27042</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Les langues sur le web by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/32065</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Le Livre 010101: Enquête by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/27036</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Le Livre 010101, Tome 1 (1993-1998) by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/27037</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Le Livre 010101, Tome 2 (1998-2003) by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/27038</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Le livre, de l&#39;imprimé au numérique by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/31944</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Multilingualism on the Web by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/27028</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Le multilinguisme sur le Web by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/27029</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Les mutations du livre by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/27044</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Project Gutenberg (1971-2008) by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/27045</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Project Gutenberg (1971-2009) by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/31632</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Project Gutenberg 4 July 1971 - 4 July 2011: Album by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/36616</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Le Projet Gutenberg (1971-2008) by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/27046</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Le Projet Gutenberg (1971-2009) by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/31634</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>El Proyecto Gutenberg (1971-2009) by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/31633</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>Romanesque Art in Southern Manche: Album by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/33249</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Les technologies et le livre pour tous by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/27047</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Technology and Books for All by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/27098</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Las tecnologías y el libro para todos by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/27048</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>The web, a multilingual encyclopedia by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/41814</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>La web, una enciclopedia multilingüe by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/42023</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>Le web, une encyclopédie multilingue by Marie Lebert</title>
+      <link>https://www.gutenberg.org/ebooks/41815</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Epistles from Pap: Letters from the man known as &#39;The Will Rogers of Indiana&#39; by Durham</title>
+      <link>https://www.gutenberg.org/ebooks/2677</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Realizable ideals : by Theodore Roosevelt</title>
+      <link>https://www.gutenberg.org/ebooks/79515</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Home Book of Verse — Volume 4 by Burton Egbert Stevenson</title>
+      <link>https://www.gutenberg.org/ebooks/2622</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Flesh by Karl W. Detzer</title>
+      <link>https://www.gutenberg.org/ebooks/79518</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Edible fats and oils : by C. Ainsworth  Mitchell and W. H.  Simmons</title>
+      <link>https://www.gutenberg.org/ebooks/79516</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Christie&#39;s Christmas by Pansy</title>
+      <link>https://www.gutenberg.org/ebooks/79517</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>English Gothic foliage sculpture by Samuel Gardner</title>
       <link>https://www.gutenberg.org/ebooks/79482</link>
       <description>
@@ -185,13 +556,6 @@
     </item>    <item>
       <title>The Awakening, and Selected Short Stories by Kate Chopin</title>
       <link>https://www.gutenberg.org/ebooks/160</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The electronic siege by Jr.  John W. Campbell</title>
-      <link>https://www.gutenberg.org/ebooks/79501</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1459,13 +1823,6 @@
     </item>    <item>
       <title>Ryzon baking book : by Marion Harris Neil</title>
       <link>https://www.gutenberg.org/ebooks/79370</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>In a German colony : by B.  Pullen-Burry</title>
-      <link>https://www.gutenberg.org/ebooks/79365</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

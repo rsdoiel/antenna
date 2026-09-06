@@ -5,7 +5,7 @@
     <title><![CDATA[Columns]]></title>
     <description><![CDATA[Blogs, columns and snapshots from around the web.]]></description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>05 Sep 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>06 Sep 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -35,6 +35,533 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>“Conga!”</title>
+      <link>https://steady.substack.com/p/conga</link>
+      <description>
+        <![CDATA[A Reason To Smile]]>
+      </description>
+      <source:markdown>A Reason To Smile</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!oOor!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc401d77-7695-434e-b50b-4f450409ce2c_663x517.png" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/conga</guid>
+    </item>    <item>
+      <title>Weaponized Interdependence</title>
+      <link>https://paulkrugman.substack.com/p/weaponized-interdependence</link>
+      <description>
+        <![CDATA[Who has the power in a trading world?]]>
+      </description>
+      <source:markdown>Who has the power in a trading world?</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!79dh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5de54134-fe50-4383-bc5b-f74c6329cf9b_1600x1154.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/weaponized-interdependence</guid>
+    </item>    <item>
+      <title>LibreOffice talks at the Open Source Conference Luxembourg 2026</title>
+      <link>https://blog.documentfoundation.org/blog/2026/09/06/libreoffice-talks-at-the-open-source-conference-luxembourg-2026/</link>
+      <description>
+        <![CDATA[We&#8217;re gearing up for the LibreOffice Conference 2026 next week in Pordenone, northern Italy – but there are more events in the pipeline too. At the Open Source Conference Luxembourg 2026, which takes place on October 7, there will be two talks from Florian Effenberger, Executive Director at The Document]]>
+      </description>
+      <source:markdown>We’re gearing up for the LibreOffice Conference 2026 next week in Pordenone, northern Italy – but there are more events in the pipeline too. At the Open Source Conference Luxembourg 2026, which takes place on October 7, there will be two talks from Florian Effenberger, Executive Director at The Document</source:markdown>
+      <guid>cid://https://blog.documentfoundation.org/?p=18082</guid>
+      <category>LibreOffice</category>
+      <category>Marketing</category>
+      <category>Meetings</category>
+    </item>    <item>
+      <title>Sunday thought: The Place Robber</title>
+      <link>https://robertreich.substack.com/p/sunday-thought-he-has-no-right-to</link>
+      <description>
+        <![CDATA[Among Trump&#8217;s assertions of arbitrary power]]>
+      </description>
+      <source:markdown>Among Trump’s assertions of arbitrary power</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!q6-p!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd77312d-c203-41b8-b1dd-65b1ee849ce9_1260x1258.webp" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-thought-he-has-no-right-to</guid>
+    </item>    <item>
+      <title>s/Neovim/Helix/g</title>
+      <link>https://xn--gckvb8fzb.com/s-neovim-helix-g/</link>
+      <description>
+        <![CDATA[I have recently replaced Neovim with Helix globally on my computer as well
+        as most of the other systems that I use. This is a write-up
+        of my experience with the new editor so far.]]>
+      </description>
+      <source:markdown>I have recently replaced Neovim with Helix globally on my computer as well
+as most of the other systems that I use. This is a write-up
+of my experience with the new editor so far.</source:markdown>
+      <author>marius@xn--gckvb8fzb.com (Marius)</author>
+      <guid>cid:///s-neovim-helix-g/</guid>
+    </item>    <item>
+      <title>September 5, 2026</title>
+      <link>https://heathercoxrichardson.substack.com/p/september-5-2026</link>
+      <description>
+        <![CDATA[Events of Friday, September 4, showed the Trump administration in a nutshell.]]>
+      </description>
+      <source:markdown>Events of Friday, September 4, showed the Trump administration in a nutshell.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!yKDv!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b47f775-3df7-41dd-8bc9-a64cdd72d948_600x600.png" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/september-5-2026</guid>
+    </item>    <item>
+      <title>Free-Range Childhood</title>
+      <link>https://doc.searls.com/2026/09/05/free-range-childhood/</link>
+      <description>
+        <![CDATA[Virginia Mom Gets 6-Month Suspended Jail Sentence for Letting 5-Year-Old Walk to the Pond is a story in Reason, which adds this subhead: &#8220;The government also placed Karyann Parkinson on its child abuse and neglect registry, where she will remain for seven years.&#8221; The distance to the Pond was half a mile. I turned five [&#8230;]]]>
+      </description>
+      <source:markdown>Virginia Mom Gets 6-Month Suspended Jail Sentence for Letting 5-Year-Old Walk to the Pond is a story in Reason, which adds this subhead: “The government also placed Karyann Parkinson on its child abuse and neglect registry, where she will remain for seven years.” The distance to the Pond was half a mile. I turned five \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/?p=22467</guid>
+      <category>Civics</category>
+      <category>community</category>
+      <category>Culture</category>
+      <category>education</category>
+      <category>Family</category>
+      <category>Freedom</category>
+      <category>history</category>
+    </item>    <item>
+      <title>The GOP&#39;s Worst Nightmare is Coming True</title>
+      <link>https://www.borowitzreport.com/p/will-republicans-lose-ohio</link>
+      <description>
+        <![CDATA[TBR Midterms HQ]]>
+      </description>
+      <source:markdown>TBR Midterms HQ</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!1sBq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c586683-4850-4260-bd95-905d47dd28d2_2048x1368.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/will-republicans-lose-ohio</guid>
+    </item>    <item>
+      <title>Bookmarks - books, philosophy, stiegler, technology</title>
+      <link>https://inkdroid.org/2026/09/06/bookmarks/</link>
+      <description>
+        <![CDATA[These are some things I’ve wandered across on the web this week.
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://www.middledune.com/"> Middledune -
+        letterpress, silkscreen &amp; handmade books </a>
+        </h2>
+        <section class="p-summary">
+        Middle Dune is a small stationery and paper goods business based on Cape
+        Cod, MA. Owned and run by Sylvia, all our notebooks, cards, and paper
+        products are hand printed and bound with care in our studio. We
+        specialize in letterpress and screen printing and take pride in
+        combining a love for traditional hands-on craftsmanship with bold,
+        modern graphics inspired by folklore and the natural world.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/notebooks/">notebooks</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/shopping/">shopping</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://cup.columbia.edu/book/the-politics-of-digital-pharmacology/9783837662498/">
+        The Politics of Digital Pharmacology </a>
+        </h2>
+        <section class="p-summary">
+        Digitization is transforming our world economically, culturally, and
+        psychologically. The influx of new forms of communication, networking,
+        and business opportunities, as well as new types of distraction,
+        self-observation, and control into our societies represents an epochal
+        challenge. Following Bernard Stiegler’s concept of pharmacology, Felix
+        Heidenreich and Florian Weber-Stein propose to view these new forms as
+        digital pharmaka. Properly dosed, they can enable new self-relationships
+        and forms of sociality; in the case of overdose, however, there is a
+        risk of intoxication. In this essay, Felix Heidenreich, Florian
+        Weber-Stein, and, in a detailed interview, Bernard Stiegler analyze this
+        complex change in our world and develop new skills to use digital
+        pharmaka.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/books/">books</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/philosophy/">philosophy</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/stiegler/">stiegler</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/technology/">technology</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://www.themontrealreview.com/Articles/Bernard_Stiegler_Elements_of_Pharmacology.php">
+        BERNARD STIEGLER: ELEMENTS OF PHARMACOLOGY </a>
+        </h2>
+        <section class="p-summary">
+        When you are capable of transforming a poison into a remedy, it is
+        because you have developed a knowledge of this pharmakon. And you can
+        tell yourself or other people, “Don’t use it, it’s very dangerous”. This
+        is what many experts do, doctors, or, for example if you are a
+        mathematician you can critically assess the use of geometry in
+        architecture. You can predict what is possible and what isn’t, and in
+        order to define the limits of what can be built you can use your skills
+        as an expert. In this first sense, there is something similar to science
+        necessary.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/philosophy/">philosophy</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/stiegler/">stiegler</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/technology/">technology</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://katharinabrunner.de/2026/01/archival-demiground-thoughts-on-preserving-trans-oral-history/">
+        Archival Demiground: Thoughts on preserving trans oral history </a>
+        </h2>
+        <section class="p-summary">
+        Resilience makes peer-to-peer file sharing is such a compelling
+        technology not only for pirated content, but also for scientific data
+        and public records. But is it suitable for the life stories of
+        marginalized people living in a country whose own government is
+        persecuting them?
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/archives/">archives</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/bittorrent/">bittorrent</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/politics/">politics</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/sciop/">sciop</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://bibframe.org/docs/view/documentation-bf-primer/index.md">
+        BIBFRAME primer </a>
+        </h2>
+        <section class="p-summary">
+        BIBFRAME (BF) provides a model for representing bibliographic data in a
+        linked data environment. This document is a reference guide for those
+        who would like to implement the Bibframe model and vocabulary.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/bibframe/">bibframe</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/documentation/">documentation</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://store.mudita.com/store/mudita-kompakt-global">
+        Mudita Kompakt </a>
+        </h2>
+        <section class="p-summary">
+        <p>
+        Mudita Kompakt is a minimalist E Ink® phone designed for focus, privacy,
+        and freedom from digital distractions.
+        </p>
+        Featuring network bands for worldwide connectivity and reliable
+        connections when traveling. With a paper-like display, Offline+ Mode for
+        total privacy, and essential tools without unnecessary apps, it helps
+        you stay connected on your terms anywhere in the world.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/eink/">eink</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/phones/">phones</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://www.terrestres.org/2026/07/18/sauver-nos-memoires-de-la-toile-numerique/">
+        Sauver nos mémoires de l’obsolescence numérique </a>
+        </h2>
+        <section class="p-summary">
+        Longtemps consignées sur papier, nos archives individuelles et
+        collectives sont désormais numériques… et menacées par l’obsolescence
+        matérielle, les propriétaires de logiciels ou les pouvoirs autoritaires.
+        Pour lutter contre la fabrique de l’oubli et redonner de la matérialité
+        à nos histoires, il est urgent d’imaginer un mouvement d’archivistes
+        citoyen·nes.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/data/">data</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/preservation/">preservation</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://fuckhope.noblogs.org/files/2026/04/welldriveyouhopeless.pdf">
+        We’ll Drive You Hopeless </a>
+        </h2>
+        <section class="p-summary">
+        The American Dream cannot exist unless the wound stays open. If the
+        wound heals, if the land returns, if the original violence is
+        acknowledged without myth or metaphor then the entire economy collapses.
+        So the wound must be maintained. In other words, the border-town liquor
+        stores must stay open. The pipe-lines must cross through Diné Bikeyah.
+        The data centers have to be built in Page. The subprime auto loans have
+        to continue. The tech empires have to continue and grow. The vending
+        machines have to light up the colonial project of Tempe Town Lake. The
+        narrative of entrepreneurship has to endure. Settler forgetfulness has
+        to pursue its cycle. The nation has to have its myths.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/capitalism/">capitalism</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/indigenous/">indigenous</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/politics/">politics</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/zine/">zine</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://codeberg.org/comaps"> CoMaps </a>
+        </h2>
+        <section class="p-summary">
+        A community-led fork of Organic Maps. Reinforced with commitment to
+        transparency, privacy and being not-for-profit.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/maps/">maps</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/openstreetmap/">openstreetmap</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://book.compcogneuro.org/">
+        Computational Cognitive Neuroscience </a>
+        </h2>
+        <section class="p-summary">
+        A complete, self-contained introduction to the field of Computational
+        Cognitive Neuroscience, where computer models of the brain are used to
+        understand a wide range of cognitive functions, including perception,
+        attention, learning, memory, motor control, executive function, and
+        language.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/books/">books</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/computing/">computing</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/neuroscience/">neuroscience</a>
+        </p>
+        </article>]]>
+      </description>
+      <source:markdown>These are some things I’ve wandered across on the web this week.
+
+## 🔖 [Middledune -\ letterpress, silkscreen &#38; handmade books](https://www.middledune.com/)
+
+Middle Dune is a small stationery and paper goods business based on Cape
+Cod, MA. Owned and run by Sylvia, all our notebooks, cards, and paper
+products are hand printed and bound with care in our studio. We
+specialize in letterpress and screen printing and take pride in
+combining a love for traditional hands-on craftsmanship with bold,
+modern graphics inspired by folklore and the natural world.
+
+[notebooks](/tag/notebooks/) [shopping](/tag/shopping/)
+
+## 🔖 [The Politics of Digital Pharmacology](https://cup.columbia.edu/book/the-politics-of-digital-pharmacology/9783837662498/)
+
+Digitization is transforming our world economically, culturally, and
+psychologically. The influx of new forms of communication, networking,
+and business opportunities, as well as new types of distraction,
+self-observation, and control into our societies represents an epochal
+challenge. Following Bernard Stiegler’s concept of pharmacology, Felix
+Heidenreich and Florian Weber-Stein propose to view these new forms as
+digital pharmaka. Properly dosed, they can enable new self-relationships
+and forms of sociality; in the case of overdose, however, there is a
+risk of intoxication. In this essay, Felix Heidenreich, Florian
+Weber-Stein, and, in a detailed interview, Bernard Stiegler analyze this
+complex change in our world and develop new skills to use digital
+pharmaka.
+
+[books](/tag/books/) [philosophy](/tag/philosophy/) [stiegler](/tag/stiegler/) [technology](/tag/technology/)
+
+## 🔖 [BERNARD STIEGLER: ELEMENTS OF PHARMACOLOGY](https://www.themontrealreview.com/Articles/Bernard_Stiegler_Elements_of_Pharmacology.php)
+
+When you are capable of transforming a poison into a remedy, it is
+because you have developed a knowledge of this pharmakon. And you can
+tell yourself or other people, “Don’t use it, it’s very dangerous”. This
+is what many experts do, doctors, or, for example if you are a
+mathematician you can critically assess the use of geometry in
+architecture. You can predict what is possible and what isn’t, and in
+order to define the limits of what can be built you can use your skills
+as an expert. In this first sense, there is something similar to science
+necessary.
+
+[philosophy](/tag/philosophy/) [stiegler](/tag/stiegler/) [technology](/tag/technology/)
+
+## 🔖 [Archival Demiground: Thoughts on preserving trans oral history](https://katharinabrunner.de/2026/01/archival-demiground-thoughts-on-preserving-trans-oral-history/)
+
+Resilience makes peer-to-peer file sharing is such a compelling
+technology not only for pirated content, but also for scientific data
+and public records. But is it suitable for the life stories of
+marginalized people living in a country whose own government is
+persecuting them?
+
+[archives](/tag/archives/) [bittorrent](/tag/bittorrent/) [politics](/tag/politics/) [sciop](/tag/sciop/)
+
+## 🔖 [BIBFRAME primer](https://bibframe.org/docs/view/documentation-bf-primer/index.md)
+
+BIBFRAME (BF) provides a model for representing bibliographic data in a
+linked data environment. This document is a reference guide for those
+who would like to implement the Bibframe model and vocabulary.
+
+[bibframe](/tag/bibframe/) [documentation](/tag/documentation/)
+
+## 🔖 [Mudita Kompakt](https://store.mudita.com/store/mudita-kompakt-global)
+
+Mudita Kompakt is a minimalist E Ink® phone designed for focus, privacy,
+and freedom from digital distractions.
+
+Featuring network bands for worldwide connectivity and reliable
+connections when traveling. With a paper-like display, Offline+ Mode for
+total privacy, and essential tools without unnecessary apps, it helps
+you stay connected on your terms anywhere in the world.
+
+[eink](/tag/eink/) [phones](/tag/phones/)
+
+## 🔖 [Sauver nos mémoires de l’obsolescence numérique](https://www.terrestres.org/2026/07/18/sauver-nos-memoires-de-la-toile-numerique/)
+
+Longtemps consignées sur papier, nos archives individuelles et
+collectives sont désormais numériques… et menacées par l’obsolescence
+matérielle, les propriétaires de logiciels ou les pouvoirs autoritaires.
+Pour lutter contre la fabrique de l’oubli et redonner de la matérialité
+à nos histoires, il est urgent d’imaginer un mouvement d’archivistes
+citoyen·nes.
+
+[data](/tag/data/) [preservation](/tag/preservation/)
+
+## 🔖 [We’ll Drive You Hopeless](https://fuckhope.noblogs.org/files/2026/04/welldriveyouhopeless.pdf)
+
+The American Dream cannot exist unless the wound stays open. If the
+wound heals, if the land returns, if the original violence is
+acknowledged without myth or metaphor then the entire economy collapses.
+So the wound must be maintained. In other words, the border-town liquor
+stores must stay open. The pipe-lines must cross through Diné Bikeyah.
+The data centers have to be built in Page. The subprime auto loans have
+to continue. The tech empires have to continue and grow. The vending
+machines have to light up the colonial project of Tempe Town Lake. The
+narrative of entrepreneurship has to endure. Settler forgetfulness has
+to pursue its cycle. The nation has to have its myths.
+
+[capitalism](/tag/capitalism/) [indigenous](/tag/indigenous/) [politics](/tag/politics/) [zine](/tag/zine/)
+
+## 🔖 [CoMaps](https://codeberg.org/comaps)
+
+A community-led fork of Organic Maps. Reinforced with commitment to
+transparency, privacy and being not-for-profit.
+
+[maps](/tag/maps/) [openstreetmap](/tag/openstreetmap/)
+
+## 🔖 [Computational Cognitive Neuroscience](https://book.compcogneuro.org/)
+
+A complete, self-contained introduction to the field of Computational
+Cognitive Neuroscience, where computer models of the brain are used to
+understand a wide range of cognitive functions, including perception,
+attention, learning, memory, motor control, executive function, and
+language.
+
+[books](/tag/books/) [computing](/tag/computing/) [neuroscience](/tag/neuroscience/)</source:markdown>
+      <guid>cid://https://inkdroid.org/2026/09/06/bookmarks/</guid>
+      <category>archives</category>
+      <category>bibframe</category>
+      <category>bittorrent</category>
+      <category>bookmarks</category>
+      <category>books</category>
+      <category>capitalism</category>
+      <category>computing</category>
+      <category>data</category>
+      <category>documentation</category>
+      <category>eink</category>
+      <category>indigenous</category>
+      <category>maps</category>
+      <category>neuroscience</category>
+      <category>notebooks</category>
+      <category>openstreetmap</category>
+      <category>philosophy</category>
+      <category>phones</category>
+      <category>politics</category>
+      <category>preservation</category>
+      <category>sciop</category>
+      <category>shopping</category>
+      <category>stiegler</category>
+      <category>technology</category>
+      <category>zine</category>
+    </item>    <item>
+      <link>http://scripting.com/2026/09/05.html#a003154</link>
+      <description>
+        <![CDATA[The governor of Kentucky should appoint a successor to McConnell unless he can prove he’s actually alive.]]>
+      </description>
+      <source:markdown>The governor of Kentucky should appoint a successor to McConnell unless he can prove he’s actually alive.</source:markdown>
+      <guid>cid://http://scripting.com/2026/09/05.html#a003154</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/09/05.html#a001303</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2026/08/30/silo.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I had watched almost three seasons of <a href="https://en.wikipedia.org/wiki/Silo_(TV_series)">Silo</a>, had no feeling for the characters, or the story, which was going nowhere that I could discern. I shouldn't have watched it through all that time, but for some reason I did. Then in episode 9, two Fridays ago, the story took a remarkable turn. It's so good it actually makes this dark and confusing show worth watching. If you haven't been watching, imho you can start in season 3, and maybe read some recaps. You want enough of the boredom so you can revel in the brilliance of this season's end. And there is another season coming, the last one, and this time it's interesting.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2026/08/30/silo.png)I had watched almost three seasons of [Silo](https://en.wikipedia.org/wiki/Silo_\(TV_series\)), had no feeling for the characters, or the story, which was going nowhere that I could discern. I shouldn&#39;t have watched it through all that time, but for some reason I did. Then in episode 9, two Fridays ago, the story took a remarkable turn. It&#39;s so good it actually makes this dark and confusing show worth watching. If you haven&#39;t been watching, imho you can start in season 3, and maybe read some recaps. You want enough of the boredom so you can revel in the brilliance of this season&#39;s end. And there is another season coming, the last one, and this time it&#39;s interesting.</source:markdown>
+      <guid>cid://http://scripting.com/2026/09/05.html#a001303</guid>
+    </item>    <item>
+      <title>The Real Reason Republicans Are Afraid of “Socialism”</title>
+      <link>https://robertreich.substack.com/p/the-real-reason-republicans-are-afraid</link>
+      <description>
+        <![CDATA[This week&#8217;s video]]>
+      </description>
+      <source:markdown>This week’s video</source:markdown>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/WAmMLP3kvZg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/the-real-reason-republicans-are-afraid</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/117219862452189844</link>
+      <description>
+        <![CDATA[<p>If the hubris that lead to security holes and poor engineering of doge/linux did not dissuade your enthusiastic friend, perhaps not supporting the Nazi ideology behind it will: </p><p><a href="https://www.flyingpenguin.com/dhh-nazism-funded-by-1password-vp-who-wrote-honest-security/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">flyingpenguin.com/dhh-nazism-f</span><span class="invisible">unded-by-1password-vp-who-wrote-honest-security/</span></a></p>]]>
+      </description>
+      <source:markdown>If the hubris that lead to security holes and poor engineering of doge/linux did not dissuade your enthusiastic friend, perhaps not supporting the Nazi ideology behind it will:
+
+[https://www.flyingpenguin.com/dhh-nazism-funded-by-1password-vp-who-wrote-honest-security/](https://www.flyingpenguin.com/dhh-nazism-funded-by-1password-vp-who-wrote-honest-security/)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/117219862452189844</guid>
+    </item>    <item>
+      <title>We Need To Turn Their Furious, Desperate Cheating Into Righteous Anger And Drive Our Early Vote/Election Turnout Through The Roof</title>
+      <link>https://www.hopiumchronicles.com/p/we-need-to-turn-their-furious-desperate</link>
+      <description>
+        <![CDATA[People will start voting in North Carolina this week, early in person voting kicks off in thirteen days - the General Election is here everyone! Make your early vote plan today!]]>
+      </description>
+      <source:markdown>People will start voting in North Carolina this week, early in person voting kicks off in thirteen days - the General Election is here everyone! Make your early vote plan today!</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/2fffb233-3911-48d0-9b8d-a616bf6f3427_593x273.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/we-need-to-turn-their-furious-desperate</guid>
+    </item>    <item>
+      <title>Undeadlines</title>
+      <link>https://doc.searls.com/2026/09/05/undeadlines/</link>
+      <description>
+        <![CDATA[Here is some stuff I&#8217;ve noticed, thought about, or wrapped up, while ending a summer of travel and work (the order is random):]]>
+      </description>
+      <source:markdown>Here is some stuff I’ve noticed, thought about, or wrapped up, while ending a summer of travel and work (the order is random):</source:markdown>
+      <guid>cid://https://doc.searls.com/?p=22463</guid>
+      <category>AI</category>
+      <category>Archives</category>
+      <category>Artificial Intelligence</category>
+      <category>Broadcasting</category>
+      <category>Business</category>
+      <category>Photography</category>
+      <category>radio</category>
+    </item>    <item>
+      <title>Fourth Walls and Love Songs</title>
+      <link>https://thebrowser.com/free/fourth-walls-and-love-songs/</link>
+      <description>
+        <![CDATA[Today, enjoy our audio and video picks]]>
+      </description>
+      <source:markdown>Today, enjoy our audio and video picks</source:markdown>
+      <guid>cid://6a9c0306f8daac000117ace7</guid>
+    </item>    <item>
+      <title>The social web vs the software web</title>
+      <link>http://scripting.com/2026/09/05/142635.html?title=theSocialWebVsTheSoftwareWeb</link>
+      <description>
+        <![CDATA[<p>I launched ChatGPT for the first time in a long time because I now have access to the new version. One new thing I see is that they are popping up suggestions about things you can do in realtime, like smart queries in a feed reader, which as far as I know is still uncharted territory. Like this: "let me know when the Mets have a three-game winning streak." </p>
+        <p>That's the kind of thing <a href="https://en.wikipedia.org/wiki/Tim_Berners-Lee">TBL</a> dreamed about in his <a href="https://en.wikipedia.org/wiki/Semantic_Web">semantic web</a> plan, but he wrote the spec before writing software, and that doesn't work. His invention, the web, which came before was a perfectly timed, perfectly simple approach to sharing ideas on the internet. It worked because he created a product that worked, and made every piece completely replaceable. It came at a time when stagnation in tech made something necessary, or the whole thing was going to fall apart, and so close to so much incredible potential. Just like the moment we're in now with AI. </p>
+        <p><a href="https://this.how/standards/">Rules for Standards Makers</a> says a lot about this. </p>
+        <p><b>The value of disruption is that it undoes stagnation. </b></p>
+        <p>Anyone who has the same software plan today that they had a year ago is going to find themselves isolated. Even WordPress, though it is open source, is a silo that imho in the future will not work. The main selling point of AT Proto is that it is a safe haven for developers who nuzzle up, another word for that is silo.</p>
+        <p>The siloers are probably scrambling to find a way for the AI to run inside their world, mistake -- instead they should be trying to be fully relevant to applications in the AI world. Like Slack, for example, and <a href="https://slack.com/help/articles/53532192117267-Use-Claude-in-Slack">Claude Tag</a>. It's now built in. Has to be replaceable too. Small pieces loosely joined. That's what you have to be imho to have a role in the future of tech.</p>
+        <p>If your advantage is your silo, undo that as quickly as possible. Become the default version of whatever it was meant to be wrt the web. Both Bluesky and WordPress find themselves in the same quagmire. Probably a lot of others do, but this is the area I study. (I just am very familiar with the products of both companies, for some reason.)</p>
+        <p>This is the intuition we all had, coming to fruition. Evolution is something we haven't seen much of in the software world since 2006 or so. Incredible stagnation because of the dominance of the social web. We lost the <i>software</i> web. All the focus was on personalities, celebrity -- hype and 99.999% bullshit. It was a 20 year period where all that happened was scaling. </p>
+        <p>Lots more to say about this. The world we lived in ran on hype, now guess what -- having lived through a few big evolutionary changes in tech is a huge advantage vs the people who have never been part of one, and I think most of the people in tech today qualify. </p>]]>
+      </description>
+      <source:markdown>I launched ChatGPT for the first time in a long time because I now have access to the new version. One new thing I see is that they are popping up suggestions about things you can do in realtime, like smart queries in a feed reader, which as far as I know is still uncharted territory. Like this: &#34;let me know when the Mets have a three-game winning streak.&#34;
+
+That&#39;s the kind of thing [TBL](https://en.wikipedia.org/wiki/Tim_Berners-Lee) dreamed about in his [semantic web](https://en.wikipedia.org/wiki/Semantic_Web) plan, but he wrote the spec before writing software, and that doesn&#39;t work. His invention, the web, which came before was a perfectly timed, perfectly simple approach to sharing ideas on the internet. It worked because he created a product that worked, and made every piece completely replaceable. It came at a time when stagnation in tech made something necessary, or the whole thing was going to fall apart, and so close to so much incredible potential. Just like the moment we&#39;re in now with AI.
+
+[Rules for Standards Makers](https://this.how/standards/) says a lot about this.
+
+**The value of disruption is that it undoes stagnation.**
+
+Anyone who has the same software plan today that they had a year ago is going to find themselves isolated. Even WordPress, though it is open source, is a silo that imho in the future will not work. The main selling point of AT Proto is that it is a safe haven for developers who nuzzle up, another word for that is silo.
+
+The siloers are probably scrambling to find a way for the AI to run inside their world, mistake -- instead they should be trying to be fully relevant to applications in the AI world. Like Slack, for example, and [Claude Tag](https://slack.com/help/articles/53532192117267-Use-Claude-in-Slack). It&#39;s now built in. Has to be replaceable too. Small pieces loosely joined. That&#39;s what you have to be imho to have a role in the future of tech.
+
+If your advantage is your silo, undo that as quickly as possible. Become the default version of whatever it was meant to be wrt the web. Both Bluesky and WordPress find themselves in the same quagmire. Probably a lot of others do, but this is the area I study. (I just am very familiar with the products of both companies, for some reason.)
+
+This is the intuition we all had, coming to fruition. Evolution is something we haven&#39;t seen much of in the software world since 2006 or so. Incredible stagnation because of the dominance of the social web. We lost the _software_ web. All the focus was on personalities, celebrity -- hype and 99.999% bullshit. It was a 20 year period where all that happened was scaling.
+
+Lots more to say about this. The world we lived in ran on hype, now guess what -- having lived through a few big evolutionary changes in tech is a huge advantage vs the people who have never been part of one, and I think most of the people in tech today qualify.</source:markdown>
+      <guid>cid://http://scripting.com/2026/09/05/142635.html</guid>
     </item>    <item>
       <title>Lit Hub Weekly: August 31 – September 4, 2026</title>
       <link>https://lithub.com/lit-hub-weekly-august-31-september-4-2026/</link>
@@ -66,9 +593,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <title>Pluralistic: Google skates (05 Sep 2026)</title>
       <link>https://pluralistic.net/2026/09/05/divorce-court/</link>
       <description>
-        <![CDATA[Today's links Google skates: Another federal judge loses a game of peek-a-boo. Hey look at this: Delights to delectate. Object permanence: Memory-hacking ads; "Dzur"; NZ Ministry of DRM; Canadians v looking at the internet; Advice for self-publishers; Advice for writers; Why Wikipedia works. Upcoming appearances: Dąbrowa Górnicza, Warsaw, Brighton, London, Budapest, Edmonton, South Bend, Hudson, Calgary, Winnipeg, Vancouver, Victoria, Ottawa. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Google skates (permalink) Rome wasn't overthrown in a day. Oligarchies are stubborn, and by the time they've established and entrenched themselves, they have resources, power blocs and even mercenaries they can deploy to repel would-be dethroners. The USA got its first antimonopoly law, the Sherman Act, in 1890, but it took 22 years before that law could be used to crush John D Rockefeller's corrupt, sprawling empire. Senator John Sherman promoted his law as a way of preventing monopolies from emerging, warning the Senate that they would struggle to overthrow the "autocrats of trade" that monopolies created: https://pluralistic.net/2022/02/20/we-should-not-endure-a-king/ The Senate passed his law and Harrison signed it, but then successive administrations left the Sherman Act to gather dust on a shelf as Rockefeller went on a spree, accumulating the kind of power that made him a true "autocrat of trade," so powerful that he and the US government were practically evenly matched. Allowing Rockefeller to create, expand and consolidate his monopoly power was a terrible tactical blunder, giving him decades in which he was able to loot America and its trading partners, pauperizing ordinary people and smashing anyone who got in his way. No one was willing to admit that Rockefeller was a threat to democracy and prosperity until he had amassed all that power, and once he had all that power, it took heroic effort to break him. The Rockefeller story is like the punchline of that joke: "When it doesn't rain, the roof don't leak; and when it's raining, it's too wet to fix it." Alternatively, there's my other favorite punchline: "If you wanted to get there, I wouldn't start from here." The Rockefeller blunder wasn't a one-off. The Apple ][+ hit the shelves the same year Reagan hit the campaign trail, and the tech industry's rise occurred simultaneously with the dismantling of competition law enforcement. Tech companies were the first "post-antitrust" industry, and it wasn't until these companies became palpable, terrifying, undeniable, existential civilizational risks that we remembered that we had all these laws on the books that were designed to curb excessive corporate power. Under Biden, a group of generationally talented, visionary trustbusters were given access to those dormant enforcement powers: Lina Khan at the FTC; Rohit Chopra at the CFPB, Tim Wu in the White House, and Jonathan Kantor at the DOJ Antitrust Division. Together with a staff of canny and skilled lawyers and economists, these people scored incredible victories against Big Tech. During the Biden years, Google lost three federal antitrust cases. Three! But if we wanted to get there, we wouldn't start from here. After a series of stinging defeats in the US and abroad, after watching the EU, the UK, Japan, Singapore and South Korea make common cause with Biden's enforcers, Big Tech threw everything it had into Trump, who promised them a system of regulatory forbearance in exchange for low-cost bribery, backstopped by a xenophobic, belligerent geopolitics that would rain down punishments on any country that dared to regulate or tax Big Tech: https://www.bbc.com/news/articles/c62553ywn77o And then the other shoe dropped: the federal judges who convicted Google of operating an illegal monopoly handed down their "remedy" decisions. In an antitrust case, the "remedy" phase is like sentencing &#8211; the stage of the legal proceeding where the judge decides what punishment the company should face for breaking the law. The first of these remedies came out a year ago, in September 2025. Judge Amit Mehta had presided over Google's "search" case, where we learned that Google had deliberately made search worse so that you'd have to search more than once in order to get your answer, which would allow the company the chance to show you more ads: https://pluralistic.net/2024/04/24/naming-names/#prabhakar-raghavan Google was able to do this because it had cornered the market on search. The company had spent years paying a $20b annual bribe to Apple to stay out of the search market, and they'd bought the default search placement for every operating system, browser and carrier. If you encountered a search box in the wild, it was almost certainly wired into Google's servers. They knew that there was approximately zero chance that you'd ever stumble upon another search engine, which meant they could make their own search as shitty as they wanted and keep your business. Confronted with these proven findings, Mehta decided that Google's punishment should be&#8230;nothing. They wouldn't be forced to delete the personal data they'd taken from billions of people. They wouldn't be forced to spin off Chrome or Android &#8211; two of the key tools Google uses to keep people from discovering other search engines. They wouldn't even be forced to halt the $20b annual bribe to Apple &#8211; the judge fretted that without that $20b annual bribe, Apple wouldn't be able to pay researchers to come up with cool new iPhone features (never mind that Apple spends all that money &#8211; and more &#8211; on stock buybacks, a recently illegal form of stock manipulation): https://pluralistic.net/2025/09/03/unpunishing-process/#fucking-shit-goddammit-fuck Then, a year later, another federal judge &#8211; Leonie Brinkema, who presided over the Google "ad-tech" case &#8211; decided that Google's penalty for monopolizing the ad market should also be&#8230;nothing: https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/ Oh, maybe not exactly nothing. We don't actually know the full extent of Judge Brinkema's "remedy," because it's sealed for two weeks. What we do know is that Google will not be forced to take the most obvious, effective and necessary step to prevent it from abusing its monopoly: Google will not be forced to sell off part of its ad-tech stack. Let me unpack that for you, because unless you're an ad-tech weirdo, chances are you have no idea how any of this works and don't think it affects you. But the reality is that this is costing you money. It's one of the dirtiest, most profitable scams in the entire tech economy, which is saying something, because that is an economy that is made of scams: https://pluralistic.net/2026/09/04/cheating-at-fraud/#absentee-rentier Unlike older ads, which were targeted based on content (say, an ad for a hotel might run next to a newspaper article about a beachside town) modern ads are built on surveillance. Companies like Google amass vast, nonconsensual dossiers on the personal characteristics and behavior of billions of people, supplemented with information purchased from the unregulated data-broker sector. When you visit a website, the site fires off a piece of software called "sell-side agent" to message a server called an "ad exchange" in order to announce your visit, soliciting bids for the right to show you an ad: "I am about to serve a web-page to a 18-34 year old man-child from New York's outer boroughs, who owns an Xbox and has been recently searching for information about gonorrhea: who wants to cram some ads into this guy's eyeballs?" That ad-exchange server is haunted by "demand-side agents" &#8211; these are pieces of software fired off by advertisers that monitor all these advertising opportunities announced on the ad exchange and bid for the right to show you an ad. The highest bidder gets to show you an ad, and the fee is remitted to the exchange, which takes a cut and passes the remainder on to the sell-side platform, which also takes a cut and gives the balance to the website publisher. So the ad-tech stack has three main components: the "sell-side platform" (SSP), which lets web publishers announce auctions for the right to advertise to their visitors; the "demand-side platform" (DSP) that lets advertisers bid to show those visitors ads; and the "ad exchange" &#8211; the marketplace where the sell-side and demand-side agents meet to collect bids, finalize the sale, and exchange ads for money. When this all started, there were lots of companies in all three roles. Publishers and advertisers had their choice of SSPs, DSPs and exchanges, and all three types of middleman competed to offer the best deals to advertisers and publishers. Then, Google and Facebook started buying up the leading DSPs, SSPs and exchanges. They used contracts and technical countermeasures to force anyone who used any part of their "stack" to use them for all parts of the transaction. The CEOs of Google and Facebook personally colluded to rig the market, dividing it up between them so that publishers would get less, advertisers would pay more, and Googbook would pocket the difference. The codename for this conspiracy was "Jedi Blue": https://en.wikipedia.org/wiki/Jedi_Blue Jedi Blue was just the icing on the cake. The reality is they didn't need the conspiracy: once Google was selling services to advertisers and publishers on an exchange that Google owned, they created an entire universe of ways to rip off both advertisers and publishers. Now consider that Google is also an advertiser and also a web publisher, and the opportunities to cheat are just wild. The numbers tell the story. Before Googbook captured 80% of the display advertising business, the total share of the advertising industry's revenues that went to "intermediaries" (middlemen like ad agencies, ad buyers, etc) was about 15%. Today, that number is 51%. Hundreds of billions of dollars have been moved out of publishers' and advertisers' bank accounts and onto Google and Facebook's balance sheets. This isn't hard to understand. Google runs an ad business that locks in buyers and sellers on a marketplace Google owns and controls, where it also competes with those buyers and sellers. Buying or selling an ad through Google is like going to court to get a divorce, only to discover that you and your soon-to-be-ex- are both represented by the same lawyer, who promptly ascends the bench and dons a judge's wig, and then spends the whole trial trying to match with both of you on Tinder, and who concludes the trial by banging their gavel and announcing that they've decided that the family house will be awarded to&#8230;the judge! The most absurd part of this whole farce is the lawyers who defend it on behalf of companies like Google. If a Google lawyer ever showed up to to defend the company in a trial where the judge was working for the plaintiff, they would scream blue murder and refuse to proceed until the judge was removed from the case. But when Google operates a business where it presides over transactions where it has nothing but conflicts of interest, these same lawyers argue that Google would never cheat a seller or a buyer. The fucking absurdity of this arrangement is so obvious that a bill to force a halt to it was co-sponsored&#8230;by Elizabeth Warren and Ted Cruz: https://gizmodo.com/google-facebook-america-act-ads-break-up-cruz-warren-1850287725 Why would Warren and Cruz care about this? Because the hundreds of billions that have been moved from publishers and advertisers to Google and Facebook are hundreds of billions of dollars that are no longer paying for news and entertainment production, and they're hundreds of billions of dollars that businesses have to recoup by raising prices on you to pay their advertising bills. Google (and, apparently, Judge Leonie Brinkema) dispute this. They say that "larger forces" have "changed the dynamic" that "restructured the industry." But, I mean, come on! This is a situation where hundreds of billions of dollars are divided up by a thrice convicted monopolist who is mysteriously hundreds of billions of dollars richer, while the other parties to the transaction are mysteriously hundreds of billions of dollars poorer. Anyone who can't draw the obvious causal inference from these facts has so little object permanence that they would lose a fucking game of peek-a-boo. This is so goddamned demoralizing. For a couple years there, it really looked like the tide was turning. Then Judges Brinkema and Mehta came along to snatch defeat from the jaws of victory. The only thing that's keeping me going is object permanence. I know my history. I know it took decades from the passage of the Sherman Act until the defeat of John D Rockefeller. Our forebears brought down Rockefeller because they didn't give up, despite setbacks as bad as this one, and worse. Stein's Law of finance holds that "anything that can't go on forever eventually stops," and MLK told us that "the arc of the moral universe is long, but it bends toward justice." This can't go on forever, and despite Dr King's phrasing, I know he understood that the arc doesn't just "bend" &#8211; it is bent &#8211; by people like us, hauling on it with all our might. Hey look at this (permalink) Rising Customer Durability, Falling Business Dynamism https://www.chicagobooth.edu/-/media/research/stigler/pdfs/workingpapers/387_customer.pdf DOGE Affiliate Asked for College Credits for Participating in Takeover https://www.wired.com/story/doge-affiliate-asked-for-college-credits-for-participating-in-takeover/ Why office workers are turning against AI https://www.bloodinthemachine.com/p/why-office-workers-are-turning-against The Quiet Decision Microsoft Made That Devastated Thousands of Nonprofits https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html Vote for the 2026 Tiny Awards Winner https://tinyawards.net/vote/ Object permanence (permalink) #25yrsago Advertisers claim they can hack your childhood memories https://web.archive.org/web/20010921022846/http://news.independent.co.uk/uk/science/story.jsp?story=92386 #25yrsago Wind-up cellphone charger https://web.archive.org/web/20011031122531/http://www.thetimes.co.uk/article/0,,2-2001310179,00.html #20yrsago Steven Brust’s Dzur: witty and exciting heroic fantasy https://memex.craphound.com/2006/09/05/steven-brusts-dzur-witty-and-exciting-heroic-fantasy/ #20yrsago America to US gov’t: kill the Broadcast Treaty! http://www.cptech.org/ip/wipo/bt/jointletter5sep06usptoforum.pdf #20yrsago New Zealand wants a Ministry of DRM https://web.archive.org/web/20070108042834/http://www.zdnet.com.au/news/software/soa/NZ_draws_line_on_DRM_and_trusted_computing/0,130061733,339270846,00.htm #20yrsago Is it legal to look at the Web in Canada? https://web.archive.org/web/20061010120919/http://www.michaelgeist.ca/content/view/1411/135/ #15yrsago Advice for self-publishers: why should anyone care about your book? https://locusmag.com/feature/cory-doctorow-why-should-anyone-care/ #5yrsago A letter to a discouraged young writer https://pluralistic.net/2021/09/05/why-bother/ #1yrago Why Wikipedia works https://pluralistic.net/2025/09/05/be-the-first-person/#to-not-do-something-that-no-one-else-has-ever-thought-of-not-doing-before Upcoming appearances (permalink) Dąbrowa Górnicza, Kongres Regeneracja! to interdyscyplinarna, Sep 5 https://regeneracja.plse.org.pl/ Warsaw: Romana i Jana Podoskich, Sep 6 https://wydarzenia.phub.pl/events/0ee0e198-f843-423a-890f-c84ff50a46c0 Brighton: The Reverse Centaur's Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8 https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/ London: The Reverse Centaur's Guide to Life After AI with Riley Quinn (Foyle's Picadilly), Sep 9 https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn Budapest: Brain Bar, Sep 17 https://brainbar.com/munkatars/cory-doctorow Edmonton: Elbows Up (Edmonton Public Library), Sep 28 https://www.epl.ca/blogs/post/elbows-up-with-cory-doctorow/ South Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6 https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/ Hudson, OH: Hudson Library, Oct 7 https://engagedpatrons.org/EventsExtended.cfm?SiteID=3850&#38;amp;EventID=596952&#38;amp;PK= Calgary: Wordfest, Oct 8 https://wordfest.com/2026/show/wordfest-presents-cory-doctorow-2026/ Winnipeg: McNally Robinson, Oct 9 https://www.mcnallyrobinson.com/event-18991/An-Evening-with-Cory-Doctorow Vancouver: Read, Resist, Repair, Rejoice (Vancouver Writers Festival), Oct 19 https://writersfest.bc.ca/festival-event-2026/01 Victoria: Munro's Books, Oct 20 https://www.munrobooks.com/events/6113620261020 Vancouver: Life After AI (Vancouver Writers Festival), Oct 22 https://writersfest.bc.ca/festival-event-2026/46 Ottawa: Life After AI (Ottawa Writers Festival), Oct 24 https://writersfestival.org/event/life-after-ai Vancouver: BC Policy Solutions Gala, Nov 12 https://bcpolicy.ca/gala/ Recent appearances (permalink) The future of the tech crisis (How the Light Gets In) https://iai.tv/video/the-future-of-the-tech-crisis?_auid=2020 How Tech Platforms Took Over the Economy (Dystopia Now) https://sites.libsyn.com/566555/enshittification-and-reverse-centaurs-cory-doctorow-on-how-tech-platforms-took-over-the-economy Hope, AI, Fixing the Internet and the Reverse Centaur of it all (Wilosophy) https://podcastaddict.com/everyone-relax/episode/231414816 Deflating the AI Bubble (Do Not Pass Go) https://www.donotpassgo.ca/p/deflating-the-ai-bubble-with-cory Technofeudal Enshittification (Fucking Cancelled) https://www.fuckingcancelled.com/p/technofeudal-enshittification-with Latest books (permalink) "The Reverse-Centaur's Guide to AI," a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/ "Canny Valley": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce "Enshittification: Why Everything Suddenly Got Worse and What to Do About It," Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ "Picks and Shovels": a sequel to "Red Team Blues," about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). "The Bezzle": a sequel to "Red Team Blues," about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). "The Lost Cause:" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). "The Internet Con": A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). "Red Team Blues": "A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before." Tor Books http://redteamblues.com. "Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) "The Post-American Internet," a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 "Unauthorized Bread": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 "Enshittification, Why Everything Suddenly Got Worse and What to Do About It" (the graphic novel), Firstsecond, 2027 "The Memex Method," Farrar, Straus, Giroux, 2027 Colophon (permalink) Today's top sources: Currently writing: “Once Is Enemy Action,” a science fiction novel about the origins of modern technofascism. Saturday's words: 504 (12397 total). "The Post-American Internet," a sequel to "Enshittification," about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor. A Little Brother short story about DIY insulin PLANNING This work &#8211; excluding any serialized fiction &#8211; is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic "When life gives you SARS, you make sarsaparilla" -Joey "Accordion Guy" DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies ("BOGUS AGREEMENTS") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X]]>
+        <![CDATA[Today's links Google skates: Another federal judge loses a game of peek-a-boo. Hey look at this: Delights to delectate. Object permanence: Memory-hacking ads; "Dzur"; NZ Ministry of DRM; Canadians v looking at the internet; Advice for self-publishers; Advice for writers; Why Wikipedia works. Upcoming appearances: Dąbrowa Górnicza, Warsaw, Brighton, London, Budapest, Edmonton, South Bend, Hudson, Calgary, Winnipeg, Vancouver, Victoria, Ottawa. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Google skates (permalink) Rome wasn't overthrown in a day. Oligarchies are stubborn, and by the time they've established and entrenched themselves, they have resources, power blocs and even mercenaries they can deploy to repel would-be dethroners. The USA got its first antimonopoly law, the Sherman Act, in 1890, but it took 22 years before that law could be used to crush John D Rockefeller's corrupt, sprawling empire. Senator John Sherman promoted his law as a way of preventing monopolies from emerging, warning the Senate that they would struggle to overthrow the "autocrats of trade" that monopolies created: https://pluralistic.net/2022/02/20/we-should-not-endure-a-king/ The Senate passed his law and Harrison signed it, but then successive administrations left the Sherman Act to gather dust on a shelf as Rockefeller went on a spree, accumulating the kind of power that made him a true "autocrat of trade," so powerful that he and the US government were practically evenly matched. Allowing Rockefeller to create, expand and consolidate his monopoly power was a terrible tactical blunder, giving him decades in which he was able to loot America and its trading partners, pauperizing ordinary people and smashing anyone who got in his way. No one was willing to admit that Rockefeller was a threat to democracy and prosperity until he had amassed all that power, and once he had all that power, it took heroic effort to break him. The Rockefeller story is like the punchline of that joke: "When it doesn't rain, the roof don't leak; and when it's raining, it's too wet to fix it." Alternatively, there's my other favorite punchline: "If you wanted to get there, I wouldn't start from here." The Rockefeller blunder wasn't a one-off. The Apple ][+ hit the shelves the same year Reagan hit the campaign trail, and the tech industry's rise occurred simultaneously with the dismantling of competition law enforcement. Tech companies were the first "post-antitrust" industry, and it wasn't until these companies became palpable, terrifying, undeniable, existential civilizational risks that we remembered that we had all these laws on the books that were designed to curb excessive corporate power. Under Biden, a group of generationally talented, visionary trustbusters were given access to those dormant enforcement powers: Lina Khan at the FTC; Rohit Chopra at the CFPB, Tim Wu in the White House, and Jonathan Kantor at the DOJ Antitrust Division. Together with a staff of canny and skilled lawyers and economists, these people scored incredible victories against Big Tech. During the Biden years, Google lost three federal antitrust cases. Three! But if we wanted to get there, we wouldn't start from here. After a series of stinging defeats in the US and abroad, after watching the EU, the UK, Japan, Singapore and South Korea make common cause with Biden's enforcers, Big Tech threw everything it had into Trump, who promised them a system of regulatory forbearance in exchange for low-cost bribery, backstopped by a xenophobic, belligerent geopolitics that would rain down punishments on any country that dared to regulate or tax Big Tech: https://www.bbc.com/news/articles/c62553ywn77o And then the other shoe dropped: the federal judges who convicted Google of operating an illegal monopoly handed down their "remedy" decisions. In an antitrust case, the "remedy" phase is like sentencing &#8211; the stage of the legal proceeding where the judge decides what punishment the company should face for breaking the law. The first of these remedies came out a year ago, in September 2025. Judge Amit Mehta had presided over Google's "search" case, where we learned that Google had deliberately made search worse so that you'd have to search more than once in order to get your answer, which would allow the company the chance to show you more ads: https://pluralistic.net/2024/04/24/naming-names/#prabhakar-raghavan Google was able to do this because it had cornered the market on search. The company had spent years paying a $20b annual bribe to Apple to stay out of the search market, and they'd bought the default search placement for every operating system, browser and carrier. If you encountered a search box in the wild, it was almost certainly wired into Google's servers. They knew that there was approximately zero chance that you'd ever stumble upon another search engine, which meant they could make their own search as shitty as they wanted and keep your business. Confronted with these proven findings, Mehta decided that Google's punishment should be&#8230;nothing. They wouldn't be forced to delete the personal data they'd taken from billions of people. They wouldn't be forced to spin off Chrome or Android &#8211; two of the key tools Google uses to keep people from discovering other search engines. They wouldn't even be forced to halt the $20b annual bribe to Apple &#8211; the judge fretted that without that $20b annual bribe, Apple wouldn't be able to pay researchers to come up with cool new iPhone features (never mind that Apple spends all that money &#8211; and more &#8211; on stock buybacks, a recently illegal form of stock manipulation): https://pluralistic.net/2025/09/03/unpunishing-process/#fucking-shit-goddammit-fuck Then, a year later, another federal judge &#8211; Leonie Brinkema, who presided over the Google "ad-tech" case &#8211; decided that Google's penalty for monopolizing the ad market should also be&#8230;nothing: https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/ Oh, maybe not exactly nothing. We don't actually know the full extent of Judge Brinkema's "remedy," because it's sealed for two weeks. What we do know is that Google will not be forced to take the most obvious, effective and necessary step to prevent it from abusing its monopoly: Google will not be forced to sell off part of its ad-tech stack. Let me unpack that for you, because unless you're an ad-tech weirdo, chances are you have no idea how any of this works and don't think it affects you. But the reality is that this is costing you money. It's one of the dirtiest, most profitable scams in the entire tech economy, which is saying something, because that is an economy that is made of scams: https://pluralistic.net/2026/09/04/cheating-at-fraud/#absentee-rentier Unlike older ads, which were targeted based on content (say, an ad for a hotel might run next to a newspaper article about a beachside town) modern ads are built on surveillance. Companies like Google amass vast, nonconsensual dossiers on the personal characteristics and behavior of billions of people, supplemented with information purchased from the unregulated data-broker sector. When you visit a website, the site fires off a piece of software called "sell-side agent" to message a server called an "ad exchange" in order to announce your visit, soliciting bids for the right to show you an ad: "I am about to serve a web-page to a 18-34 year old man-child from New York's outer boroughs, who owns an Xbox and has been recently searching for information about gonorrhea: who wants to cram some ads into this guy's eyeballs?" That ad-exchange server is haunted by "demand-side agents" &#8211; these are pieces of software fired off by advertisers that monitor all these advertising opportunities announced on the ad exchange and bid for the right to show you an ad. The highest bidder gets to show you an ad, and the fee is remitted to the exchange, which takes a cut and passes the remainder on to the sell-side platform, which also takes a cut and gives the balance to the website publisher. So the ad-tech stack has three main components: the "sell-side platform" (SSP), which lets web publishers announce auctions for the right to advertise to their visitors; the "demand-side platform" (DSP) that lets advertisers bid to show those visitors ads; and the "ad exchange" &#8211; the marketplace where the sell-side and demand-side agents meet to collect bids, finalize the sale, and exchange ads for money. When this all started, there were lots of companies in all three roles. Publishers and advertisers had their choice of SSPs, DSPs and exchanges, and all three types of middleman competed to offer the best deals to advertisers and publishers. Then, Google and Facebook started buying up the leading DSPs, SSPs and exchanges. They used contracts and technical countermeasures to force anyone who used any part of their "stack" to use them for all parts of the transaction. The CEOs of Google and Facebook personally colluded to rig the market, dividing it up between them so that publishers would get less, advertisers would pay more, and Googbook would pocket the difference. The codename for this conspiracy was "Jedi Blue": https://en.wikipedia.org/wiki/Jedi_Blue Jedi Blue was just the icing on the cake. The reality is they didn't need the conspiracy: once Google was selling services to advertisers and publishers on an exchange that Google owned, they created an entire universe of ways to rip off both advertisers and publishers. Now consider that Google is also an advertiser and also a web publisher, and the opportunities to cheat are just wild. The numbers tell the story. Before Googbook captured 80% of the display advertising business, the total share of the advertising industry's revenues that went to "intermediaries" (middlemen like ad agencies, ad buyers, etc) was about 15%. Today, that number is 51%. Hundreds of billions of dollars have been moved out of publishers' and advertisers' bank accounts and onto Google and Facebook's balance sheets. This isn't hard to understand. Google runs an ad business that locks in buyers and sellers on a marketplace Google owns and controls, where it also competes with those buyers and sellers. Buying or selling an ad through Google is like going to court to get a divorce, only to discover that you and your soon-to-be-ex- are both represented by the same lawyer, who promptly ascends the bench and dons a judge's wig, and then spends the whole trial trying to match with both of you on Tinder, and who concludes the trial by banging their gavel and announcing that they've decided that the family house will be awarded to&#8230;the judge! The most absurd part of this whole farce is the lawyers who defend it on behalf of companies like Google. If a Google lawyer ever showed up to defend the company in a trial where the judge was working for the plaintiff, they would scream blue murder and refuse to proceed until the judge was removed from the case. But when Google operates a business where it presides over transactions where it has nothing but conflicts of interest, these same lawyers argue that Google would never cheat a seller or a buyer. The fucking absurdity of this arrangement is so obvious that a bill to force a halt to it was co-sponsored&#8230;by Elizabeth Warren and Ted Cruz: https://gizmodo.com/google-facebook-america-act-ads-break-up-cruz-warren-1850287725 Why would Warren and Cruz care about this? Because the hundreds of billions that have been moved from publishers and advertisers to Google and Facebook are hundreds of billions of dollars that are no longer paying for news and entertainment production, and they're hundreds of billions of dollars that businesses have to recoup by raising prices on you to pay their advertising bills. Google (and, apparently, Judge Leonie Brinkema) dispute this. They say that "larger forces" have "changed the dynamic" that "restructured the industry." But, I mean, come on! This is a situation where hundreds of billions of dollars are divided up by a thrice convicted monopolist who is mysteriously hundreds of billions of dollars richer, while the other parties to the transaction are mysteriously hundreds of billions of dollars poorer. Anyone who can't draw the obvious causal inference from these facts has so little object permanence that they would lose a fucking game of peek-a-boo. This is so goddamned demoralizing. For a couple years there, it really looked like the tide was turning. Then Judges Brinkema and Mehta came along to snatch defeat from the jaws of victory. The only thing that's keeping me going is object permanence. I know my history. I know it took decades from the passage of the Sherman Act until the defeat of John D Rockefeller. Our forebears brought down Rockefeller because they didn't give up, despite setbacks as bad as this one, and worse. Stein's Law of finance holds that "anything that can't go on forever eventually stops," and MLK told us that "the arc of the moral universe is long, but it bends toward justice." This can't go on forever, and despite Dr King's phrasing, I know he understood that the arc doesn't just "bend" &#8211; it is bent &#8211; by people like us, hauling on it with all our might. Hey look at this (permalink) Rising Customer Durability, Falling Business Dynamism https://www.chicagobooth.edu/-/media/research/stigler/pdfs/workingpapers/387_customer.pdf DOGE Affiliate Asked for College Credits for Participating in Takeover https://www.wired.com/story/doge-affiliate-asked-for-college-credits-for-participating-in-takeover/ Why office workers are turning against AI https://www.bloodinthemachine.com/p/why-office-workers-are-turning-against The Quiet Decision Microsoft Made That Devastated Thousands of Nonprofits https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html Vote for the 2026 Tiny Awards Winner https://tinyawards.net/vote/ Object permanence (permalink) #25yrsago Advertisers claim they can hack your childhood memories https://web.archive.org/web/20010921022846/http://news.independent.co.uk/uk/science/story.jsp?story=92386 #25yrsago Wind-up cellphone charger https://web.archive.org/web/20011031122531/http://www.thetimes.co.uk/article/0,,2-2001310179,00.html #20yrsago Steven Brust’s Dzur: witty and exciting heroic fantasy https://memex.craphound.com/2006/09/05/steven-brusts-dzur-witty-and-exciting-heroic-fantasy/ #20yrsago America to US gov’t: kill the Broadcast Treaty! http://www.cptech.org/ip/wipo/bt/jointletter5sep06usptoforum.pdf #20yrsago New Zealand wants a Ministry of DRM https://web.archive.org/web/20070108042834/http://www.zdnet.com.au/news/software/soa/NZ_draws_line_on_DRM_and_trusted_computing/0,130061733,339270846,00.htm #20yrsago Is it legal to look at the Web in Canada? https://web.archive.org/web/20061010120919/http://www.michaelgeist.ca/content/view/1411/135/ #15yrsago Advice for self-publishers: why should anyone care about your book? https://locusmag.com/feature/cory-doctorow-why-should-anyone-care/ #5yrsago A letter to a discouraged young writer https://pluralistic.net/2021/09/05/why-bother/ #1yrago Why Wikipedia works https://pluralistic.net/2025/09/05/be-the-first-person/#to-not-do-something-that-no-one-else-has-ever-thought-of-not-doing-before Upcoming appearances (permalink) Dąbrowa Górnicza, Kongres Regeneracja! to interdyscyplinarna, Sep 5 https://regeneracja.plse.org.pl/ Warsaw: Romana i Jana Podoskich, Sep 6 https://wydarzenia.phub.pl/events/0ee0e198-f843-423a-890f-c84ff50a46c0 Brighton: The Reverse Centaur's Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8 https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/ London: The Reverse Centaur's Guide to Life After AI with Riley Quinn (Foyle's Picadilly), Sep 9 https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn Budapest: Brain Bar, Sep 17 https://brainbar.com/munkatars/cory-doctorow Edmonton: Elbows Up (Edmonton Public Library), Sep 28 https://www.epl.ca/blogs/post/elbows-up-with-cory-doctorow/ South Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6 https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/ Hudson, OH: Hudson Library, Oct 7 https://engagedpatrons.org/EventsExtended.cfm?SiteID=3850&#38;amp;EventID=596952&#38;amp;PK= Calgary: Wordfest, Oct 8 https://wordfest.com/2026/show/wordfest-presents-cory-doctorow-2026/ Winnipeg: McNally Robinson, Oct 9 https://www.mcnallyrobinson.com/event-18991/An-Evening-with-Cory-Doctorow Vancouver: Read, Resist, Repair, Rejoice (Vancouver Writers Festival), Oct 19 https://writersfest.bc.ca/festival-event-2026/01 Victoria: Munro's Books, Oct 20 https://www.munrobooks.com/events/6113620261020 Vancouver: Life After AI (Vancouver Writers Festival), Oct 22 https://writersfest.bc.ca/festival-event-2026/46 Ottawa: Life After AI (Ottawa Writers Festival), Oct 24 https://writersfestival.org/event/life-after-ai Vancouver: BC Policy Solutions Gala, Nov 12 https://bcpolicy.ca/gala/ Recent appearances (permalink) The future of the tech crisis (How the Light Gets In) https://iai.tv/video/the-future-of-the-tech-crisis?_auid=2020 How Tech Platforms Took Over the Economy (Dystopia Now) https://sites.libsyn.com/566555/enshittification-and-reverse-centaurs-cory-doctorow-on-how-tech-platforms-took-over-the-economy Hope, AI, Fixing the Internet and the Reverse Centaur of it all (Wilosophy) https://podcastaddict.com/everyone-relax/episode/231414816 Deflating the AI Bubble (Do Not Pass Go) https://www.donotpassgo.ca/p/deflating-the-ai-bubble-with-cory Technofeudal Enshittification (Fucking Cancelled) https://www.fuckingcancelled.com/p/technofeudal-enshittification-with Latest books (permalink) "The Reverse-Centaur's Guide to AI," a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/ "Canny Valley": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce "Enshittification: Why Everything Suddenly Got Worse and What to Do About It," Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ "Picks and Shovels": a sequel to "Red Team Blues," about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). "The Bezzle": a sequel to "Red Team Blues," about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). "The Lost Cause:" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). "The Internet Con": A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). "Red Team Blues": "A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before." Tor Books http://redteamblues.com. "Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) "The Post-American Internet," a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 "Unauthorized Bread": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 "Enshittification, Why Everything Suddenly Got Worse and What to Do About It" (the graphic novel), Firstsecond, 2027 "The Memex Method," Farrar, Straus, Giroux, 2027 Colophon (permalink) Today's top sources: Currently writing: “Once Is Enemy Action,” a science fiction novel about the origins of modern technofascism. Saturday's words: 504 (12397 total). "The Post-American Internet," a sequel to "Enshittification," about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor. A Little Brother short story about DIY insulin PLANNING This work &#8211; excluding any serialized fiction &#8211; is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic "When life gives you SARS, you make sarsaparilla" -Joey "Accordion Guy" DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies ("BOGUS AGREEMENTS") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X]]>
       </description>
-      <source:markdown>Today&#39;s links Google skates: Another federal judge loses a game of peek-a-boo. Hey look at this: Delights to delectate. Object permanence: Memory-hacking ads; &#34;Dzur&#34;; NZ Ministry of DRM; Canadians v looking at the internet; Advice for self-publishers; Advice for writers; Why Wikipedia works. Upcoming appearances: Dąbrowa Górnicza, Warsaw, Brighton, London, Budapest, Edmonton, South Bend, Hudson, Calgary, Winnipeg, Vancouver, Victoria, Ottawa. Recent appearances: Where I&#39;ve been. Latest books: You keep readin&#39; em, I&#39;ll keep writin&#39; &#39;em. Upcoming books: Like I said, I&#39;ll keep writin&#39; &#39;em. Colophon: All the rest. Google skates (permalink) Rome wasn&#39;t overthrown in a day. Oligarchies are stubborn, and by the time they&#39;ve established and entrenched themselves, they have resources, power blocs and even mercenaries they can deploy to repel would-be dethroners. The USA got its first antimonopoly law, the Sherman Act, in 1890, but it took 22 years before that law could be used to crush John D Rockefeller&#39;s corrupt, sprawling empire. Senator John Sherman promoted his law as a way of preventing monopolies from emerging, warning the Senate that they would struggle to overthrow the &#34;autocrats of trade&#34; that monopolies created: https://pluralistic.net/2022/02/20/we-should-not-endure-a-king/ The Senate passed his law and Harrison signed it, but then successive administrations left the Sherman Act to gather dust on a shelf as Rockefeller went on a spree, accumulating the kind of power that made him a true &#34;autocrat of trade,&#34; so powerful that he and the US government were practically evenly matched. Allowing Rockefeller to create, expand and consolidate his monopoly power was a terrible tactical blunder, giving him decades in which he was able to loot America and its trading partners, pauperizing ordinary people and smashing anyone who got in his way. No one was willing to admit that Rockefeller was a threat to democracy and prosperity until he had amassed all that power, and once he had all that power, it took heroic effort to break him. The Rockefeller story is like the punchline of that joke: &#34;When it doesn&#39;t rain, the roof don&#39;t leak; and when it&#39;s raining, it&#39;s too wet to fix it.&#34; Alternatively, there&#39;s my other favorite punchline: &#34;If you wanted to get there, I wouldn&#39;t start from here.&#34; The Rockefeller blunder wasn&#39;t a one-off. The Apple \]\[+ hit the shelves the same year Reagan hit the campaign trail, and the tech industry&#39;s rise occurred simultaneously with the dismantling of competition law enforcement. Tech companies were the first &#34;post-antitrust&#34; industry, and it wasn&#39;t until these companies became palpable, terrifying, undeniable, existential civilizational risks that we remembered that we had all these laws on the books that were designed to curb excessive corporate power. Under Biden, a group of generationally talented, visionary trustbusters were given access to those dormant enforcement powers: Lina Khan at the FTC; Rohit Chopra at the CFPB, Tim Wu in the White House, and Jonathan Kantor at the DOJ Antitrust Division. Together with a staff of canny and skilled lawyers and economists, these people scored incredible victories against Big Tech. During the Biden years, Google lost three federal antitrust cases. Three! But if we wanted to get there, we wouldn&#39;t start from here. After a series of stinging defeats in the US and abroad, after watching the EU, the UK, Japan, Singapore and South Korea make common cause with Biden&#39;s enforcers, Big Tech threw everything it had into Trump, who promised them a system of regulatory forbearance in exchange for low-cost bribery, backstopped by a xenophobic, belligerent geopolitics that would rain down punishments on any country that dared to regulate or tax Big Tech: https://www.bbc.com/news/articles/c62553ywn77o And then the other shoe dropped: the federal judges who convicted Google of operating an illegal monopoly handed down their &#34;remedy&#34; decisions. In an antitrust case, the &#34;remedy&#34; phase is like sentencing – the stage of the legal proceeding where the judge decides what punishment the company should face for breaking the law. The first of these remedies came out a year ago, in September 2025. Judge Amit Mehta had presided over Google&#39;s &#34;search&#34; case, where we learned that Google had deliberately made search worse so that you&#39;d have to search more than once in order to get your answer, which would allow the company the chance to show you more ads: https://pluralistic.net/2024/04/24/naming-names/#prabhakar-raghavan Google was able to do this because it had cornered the market on search. The company had spent years paying a $20b annual bribe to Apple to stay out of the search market, and they&#39;d bought the default search placement for every operating system, browser and carrier. If you encountered a search box in the wild, it was almost certainly wired into Google&#39;s servers. They knew that there was approximately zero chance that you&#39;d ever stumble upon another search engine, which meant they could make their own search as shitty as they wanted and keep your business. Confronted with these proven findings, Mehta decided that Google&#39;s punishment should be…nothing. They wouldn&#39;t be forced to delete the personal data they&#39;d taken from billions of people. They wouldn&#39;t be forced to spin off Chrome or Android – two of the key tools Google uses to keep people from discovering other search engines. They wouldn&#39;t even be forced to halt the $20b annual bribe to Apple – the judge fretted that without that $20b annual bribe, Apple wouldn&#39;t be able to pay researchers to come up with cool new iPhone features (never mind that Apple spends all that money – and more – on stock buybacks, a recently illegal form of stock manipulation): https://pluralistic.net/2025/09/03/unpunishing-process/#fucking-shit-goddammit-fuck Then, a year later, another federal judge – Leonie Brinkema, who presided over the Google &#34;ad-tech&#34; case – decided that Google&#39;s penalty for monopolizing the ad market should also be…nothing: https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/ Oh, maybe not exactly nothing. We don&#39;t actually know the full extent of Judge Brinkema&#39;s &#34;remedy,&#34; because it&#39;s sealed for two weeks. What we do know is that Google will not be forced to take the most obvious, effective and necessary step to prevent it from abusing its monopoly: Google will not be forced to sell off part of its ad-tech stack. Let me unpack that for you, because unless you&#39;re an ad-tech weirdo, chances are you have no idea how any of this works and don&#39;t think it affects you. But the reality is that this is costing you money. It&#39;s one of the dirtiest, most profitable scams in the entire tech economy, which is saying something, because that is an economy that is made of scams: https://pluralistic.net/2026/09/04/cheating-at-fraud/#absentee-rentier Unlike older ads, which were targeted based on content (say, an ad for a hotel might run next to a newspaper article about a beachside town) modern ads are built on surveillance. Companies like Google amass vast, nonconsensual dossiers on the personal characteristics and behavior of billions of people, supplemented with information purchased from the unregulated data-broker sector. When you visit a website, the site fires off a piece of software called &#34;sell-side agent&#34; to message a server called an &#34;ad exchange&#34; in order to announce your visit, soliciting bids for the right to show you an ad: &#34;I am about to serve a web-page to a 18-34 year old man-child from New York&#39;s outer boroughs, who owns an Xbox and has been recently searching for information about gonorrhea: who wants to cram some ads into this guy&#39;s eyeballs?&#34; That ad-exchange server is haunted by &#34;demand-side agents&#34; – these are pieces of software fired off by advertisers that monitor all these advertising opportunities announced on the ad exchange and bid for the right to show you an ad. The highest bidder gets to show you an ad, and the fee is remitted to the exchange, which takes a cut and passes the remainder on to the sell-side platform, which also takes a cut and gives the balance to the website publisher. So the ad-tech stack has three main components: the &#34;sell-side platform&#34; (SSP), which lets web publishers announce auctions for the right to advertise to their visitors; the &#34;demand-side platform&#34; (DSP) that lets advertisers bid to show those visitors ads; and the &#34;ad exchange&#34; – the marketplace where the sell-side and demand-side agents meet to collect bids, finalize the sale, and exchange ads for money. When this all started, there were lots of companies in all three roles. Publishers and advertisers had their choice of SSPs, DSPs and exchanges, and all three types of middleman competed to offer the best deals to advertisers and publishers. Then, Google and Facebook started buying up the leading DSPs, SSPs and exchanges. They used contracts and technical countermeasures to force anyone who used any part of their &#34;stack&#34; to use them for all parts of the transaction. The CEOs of Google and Facebook personally colluded to rig the market, dividing it up between them so that publishers would get less, advertisers would pay more, and Googbook would pocket the difference. The codename for this conspiracy was &#34;Jedi Blue&#34;: https://en.wikipedia.org/wiki/Jedi\_Blue Jedi Blue was just the icing on the cake. The reality is they didn&#39;t need the conspiracy: once Google was selling services to advertisers and publishers on an exchange that Google owned, they created an entire universe of ways to rip off both advertisers and publishers. Now consider that Google is also an advertiser and also a web publisher, and the opportunities to cheat are just wild. The numbers tell the story. Before Googbook captured 80% of the display advertising business, the total share of the advertising industry&#39;s revenues that went to &#34;intermediaries&#34; (middlemen like ad agencies, ad buyers, etc) was about 15%. Today, that number is 51%. Hundreds of billions of dollars have been moved out of publishers&#39; and advertisers&#39; bank accounts and onto Google and Facebook&#39;s balance sheets. This isn&#39;t hard to understand. Google runs an ad business that locks in buyers and sellers on a marketplace Google owns and controls, where it also competes with those buyers and sellers. Buying or selling an ad through Google is like going to court to get a divorce, only to discover that you and your soon-to-be-ex- are both represented by the same lawyer, who promptly ascends the bench and dons a judge&#39;s wig, and then spends the whole trial trying to match with both of you on Tinder, and who concludes the trial by banging their gavel and announcing that they&#39;ve decided that the family house will be awarded to…the judge! The most absurd part of this whole farce is the lawyers who defend it on behalf of companies like Google. If a Google lawyer ever showed up to to defend the company in a trial where the judge was working for the plaintiff, they would scream blue murder and refuse to proceed until the judge was removed from the case. But when Google operates a business where it presides over transactions where it has nothing but conflicts of interest, these same lawyers argue that Google would never cheat a seller or a buyer. The fucking absurdity of this arrangement is so obvious that a bill to force a halt to it was co-sponsored…by Elizabeth Warren and Ted Cruz: https://gizmodo.com/google-facebook-america-act-ads-break-up-cruz-warren-1850287725 Why would Warren and Cruz care about this? Because the hundreds of billions that have been moved from publishers and advertisers to Google and Facebook are hundreds of billions of dollars that are no longer paying for news and entertainment production, and they&#39;re hundreds of billions of dollars that businesses have to recoup by raising prices on you to pay their advertising bills. Google (and, apparently, Judge Leonie Brinkema) dispute this. They say that &#34;larger forces&#34; have &#34;changed the dynamic&#34; that &#34;restructured the industry.&#34; But, I mean, come on! This is a situation where hundreds of billions of dollars are divided up by a thrice convicted monopolist who is mysteriously hundreds of billions of dollars richer, while the other parties to the transaction are mysteriously hundreds of billions of dollars poorer. Anyone who can&#39;t draw the obvious causal inference from these facts has so little object permanence that they would lose a fucking game of peek-a-boo. This is so goddamned demoralizing. For a couple years there, it really looked like the tide was turning. Then Judges Brinkema and Mehta came along to snatch defeat from the jaws of victory. The only thing that&#39;s keeping me going is object permanence. I know my history. I know it took decades from the passage of the Sherman Act until the defeat of John D Rockefeller. Our forebears brought down Rockefeller because they didn&#39;t give up, despite setbacks as bad as this one, and worse. Stein&#39;s Law of finance holds that &#34;anything that can&#39;t go on forever eventually stops,&#34; and MLK told us that &#34;the arc of the moral universe is long, but it bends toward justice.&#34; This can&#39;t go on forever, and despite Dr King&#39;s phrasing, I know he understood that the arc doesn&#39;t just &#34;bend&#34; – it is bent – by people like us, hauling on it with all our might. Hey look at this (permalink) Rising Customer Durability, Falling Business Dynamism https://www.chicagobooth.edu/-/media/research/stigler/pdfs/workingpapers/387\_customer.pdf DOGE Affiliate Asked for College Credits for Participating in Takeover https://www.wired.com/story/doge-affiliate-asked-for-college-credits-for-participating-in-takeover/ Why office workers are turning against AI https://www.bloodinthemachine.com/p/why-office-workers-are-turning-against The Quiet Decision Microsoft Made That Devastated Thousands of Nonprofits https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html Vote for the 2026 Tiny Awards Winner https://tinyawards.net/vote/ Object permanence (permalink) #25yrsago Advertisers claim they can hack your childhood memories https://web.archive.org/web/20010921022846/http://news.independent.co.uk/uk/science/story.jsp?story=92386 #25yrsago Wind-up cellphone charger https://web.archive.org/web/20011031122531/http://www.thetimes.co.uk/article/0,,2-2001310179,00.html #20yrsago Steven Brust’s Dzur: witty and exciting heroic fantasy https://memex.craphound.com/2006/09/05/steven-brusts-dzur-witty-and-exciting-heroic-fantasy/ #20yrsago America to US gov’t: kill the Broadcast Treaty! http://www.cptech.org/ip/wipo/bt/jointletter5sep06usptoforum.pdf #20yrsago New Zealand wants a Ministry of DRM https://web.archive.org/web/20070108042834/http://www.zdnet.com.au/news/software/soa/NZ\_draws\_line\_on\_DRM\_and\_trusted\_computing/0,130061733,339270846,00.htm #20yrsago Is it legal to look at the Web in Canada? https://web.archive.org/web/20061010120919/http://www.michaelgeist.ca/content/view/1411/135/ #15yrsago Advice for self-publishers: why should anyone care about your book? https://locusmag.com/feature/cory-doctorow-why-should-anyone-care/ #5yrsago A letter to a discouraged young writer https://pluralistic.net/2021/09/05/why-bother/ #1yrago Why Wikipedia works https://pluralistic.net/2025/09/05/be-the-first-person/#to-not-do-something-that-no-one-else-has-ever-thought-of-not-doing-before Upcoming appearances (permalink) Dąbrowa Górnicza, Kongres Regeneracja! to interdyscyplinarna, Sep 5 https://regeneracja.plse.org.pl/ Warsaw: Romana i Jana Podoskich, Sep 6 https://wydarzenia.phub.pl/events/0ee0e198-f843-423a-890f-c84ff50a46c0 Brighton: The Reverse Centaur&#39;s Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8 https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/ London: The Reverse Centaur&#39;s Guide to Life After AI with Riley Quinn (Foyle&#39;s Picadilly), Sep 9 https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn Budapest: Brain Bar, Sep 17 https://brainbar.com/munkatars/cory-doctorow Edmonton: Elbows Up (Edmonton Public Library), Sep 28 https://www.epl.ca/blogs/post/elbows-up-with-cory-doctorow/ South Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6 https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/ Hudson, OH: Hudson Library, Oct 7 https://engagedpatrons.org/EventsExtended.cfm?SiteID=3850&#38;amp;EventID=596952&#38;amp;PK= Calgary: Wordfest, Oct 8 https://wordfest.com/2026/show/wordfest-presents-cory-doctorow-2026/ Winnipeg: McNally Robinson, Oct 9 https://www.mcnallyrobinson.com/event-18991/An-Evening-with-Cory-Doctorow Vancouver: Read, Resist, Repair, Rejoice (Vancouver Writers Festival), Oct 19 https://writersfest.bc.ca/festival-event-2026/01 Victoria: Munro&#39;s Books, Oct 20 https://www.munrobooks.com/events/6113620261020 Vancouver: Life After AI (Vancouver Writers Festival), Oct 22 https://writersfest.bc.ca/festival-event-2026/46 Ottawa: Life After AI (Ottawa Writers Festival), Oct 24 https://writersfestival.org/event/life-after-ai Vancouver: BC Policy Solutions Gala, Nov 12 https://bcpolicy.ca/gala/ Recent appearances (permalink) The future of the tech crisis (How the Light Gets In) https://iai.tv/video/the-future-of-the-tech-crisis?\_auid=2020 How Tech Platforms Took Over the Economy (Dystopia Now) https://sites.libsyn.com/566555/enshittification-and-reverse-centaurs-cory-doctorow-on-how-tech-platforms-took-over-the-economy Hope, AI, Fixing the Internet and the Reverse Centaur of it all (Wilosophy) https://podcastaddict.com/everyone-relax/episode/231414816 Deflating the AI Bubble (Do Not Pass Go) https://www.donotpassgo.ca/p/deflating-the-ai-bubble-with-cory Technofeudal Enshittification (Fucking Cancelled) https://www.fuckingcancelled.com/p/technofeudal-enshittification-with Latest books (permalink) &#34;The Reverse-Centaur&#39;s Guide to AI,&#34; a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/ &#34;Canny Valley&#34;: A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce &#34;Enshittification: Why Everything Suddenly Got Worse and What to Do About It,&#34; Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ &#34;Picks and Shovels&#34;: a sequel to &#34;Red Team Blues,&#34; about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). &#34;The Bezzle&#34;: a sequel to &#34;Red Team Blues,&#34; about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). &#34;The Lost Cause:&#34; a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). &#34;The Internet Con&#34;: A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). &#34;Red Team Blues&#34;: &#34;A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.&#34; Tor Books http://redteamblues.com. &#34;Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin&#34;, on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) &#34;The Post-American Internet,&#34; a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 &#34;Unauthorized Bread&#34;: a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 &#34;Enshittification, Why Everything Suddenly Got Worse and What to Do About It&#34; (the graphic novel), Firstsecond, 2027 &#34;The Memex Method,&#34; Farrar, Straus, Giroux, 2027 Colophon (permalink) Today&#39;s top sources: Currently writing: “Once Is Enemy Action,” a science fiction novel about the origins of modern technofascism. Saturday&#39;s words: 504 (12397 total). &#34;The Post-American Internet,&#34; a sequel to &#34;Enshittification,&#34; about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor. A Little Brother short story about DIY insulin PLANNING This work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic &#34;When life gives you SARS, you make sarsaparilla&#34; -Joey &#34;Accordion Guy&#34; DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (&#34;BOGUS AGREEMENTS&#34;) that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X</source:markdown>
+      <source:markdown>Today&#39;s links Google skates: Another federal judge loses a game of peek-a-boo. Hey look at this: Delights to delectate. Object permanence: Memory-hacking ads; &#34;Dzur&#34;; NZ Ministry of DRM; Canadians v looking at the internet; Advice for self-publishers; Advice for writers; Why Wikipedia works. Upcoming appearances: Dąbrowa Górnicza, Warsaw, Brighton, London, Budapest, Edmonton, South Bend, Hudson, Calgary, Winnipeg, Vancouver, Victoria, Ottawa. Recent appearances: Where I&#39;ve been. Latest books: You keep readin&#39; em, I&#39;ll keep writin&#39; &#39;em. Upcoming books: Like I said, I&#39;ll keep writin&#39; &#39;em. Colophon: All the rest. Google skates (permalink) Rome wasn&#39;t overthrown in a day. Oligarchies are stubborn, and by the time they&#39;ve established and entrenched themselves, they have resources, power blocs and even mercenaries they can deploy to repel would-be dethroners. The USA got its first antimonopoly law, the Sherman Act, in 1890, but it took 22 years before that law could be used to crush John D Rockefeller&#39;s corrupt, sprawling empire. Senator John Sherman promoted his law as a way of preventing monopolies from emerging, warning the Senate that they would struggle to overthrow the &#34;autocrats of trade&#34; that monopolies created: https://pluralistic.net/2022/02/20/we-should-not-endure-a-king/ The Senate passed his law and Harrison signed it, but then successive administrations left the Sherman Act to gather dust on a shelf as Rockefeller went on a spree, accumulating the kind of power that made him a true &#34;autocrat of trade,&#34; so powerful that he and the US government were practically evenly matched. Allowing Rockefeller to create, expand and consolidate his monopoly power was a terrible tactical blunder, giving him decades in which he was able to loot America and its trading partners, pauperizing ordinary people and smashing anyone who got in his way. No one was willing to admit that Rockefeller was a threat to democracy and prosperity until he had amassed all that power, and once he had all that power, it took heroic effort to break him. The Rockefeller story is like the punchline of that joke: &#34;When it doesn&#39;t rain, the roof don&#39;t leak; and when it&#39;s raining, it&#39;s too wet to fix it.&#34; Alternatively, there&#39;s my other favorite punchline: &#34;If you wanted to get there, I wouldn&#39;t start from here.&#34; The Rockefeller blunder wasn&#39;t a one-off. The Apple \]\[+ hit the shelves the same year Reagan hit the campaign trail, and the tech industry&#39;s rise occurred simultaneously with the dismantling of competition law enforcement. Tech companies were the first &#34;post-antitrust&#34; industry, and it wasn&#39;t until these companies became palpable, terrifying, undeniable, existential civilizational risks that we remembered that we had all these laws on the books that were designed to curb excessive corporate power. Under Biden, a group of generationally talented, visionary trustbusters were given access to those dormant enforcement powers: Lina Khan at the FTC; Rohit Chopra at the CFPB, Tim Wu in the White House, and Jonathan Kantor at the DOJ Antitrust Division. Together with a staff of canny and skilled lawyers and economists, these people scored incredible victories against Big Tech. During the Biden years, Google lost three federal antitrust cases. Three! But if we wanted to get there, we wouldn&#39;t start from here. After a series of stinging defeats in the US and abroad, after watching the EU, the UK, Japan, Singapore and South Korea make common cause with Biden&#39;s enforcers, Big Tech threw everything it had into Trump, who promised them a system of regulatory forbearance in exchange for low-cost bribery, backstopped by a xenophobic, belligerent geopolitics that would rain down punishments on any country that dared to regulate or tax Big Tech: https://www.bbc.com/news/articles/c62553ywn77o And then the other shoe dropped: the federal judges who convicted Google of operating an illegal monopoly handed down their &#34;remedy&#34; decisions. In an antitrust case, the &#34;remedy&#34; phase is like sentencing – the stage of the legal proceeding where the judge decides what punishment the company should face for breaking the law. The first of these remedies came out a year ago, in September 2025. Judge Amit Mehta had presided over Google&#39;s &#34;search&#34; case, where we learned that Google had deliberately made search worse so that you&#39;d have to search more than once in order to get your answer, which would allow the company the chance to show you more ads: https://pluralistic.net/2024/04/24/naming-names/#prabhakar-raghavan Google was able to do this because it had cornered the market on search. The company had spent years paying a $20b annual bribe to Apple to stay out of the search market, and they&#39;d bought the default search placement for every operating system, browser and carrier. If you encountered a search box in the wild, it was almost certainly wired into Google&#39;s servers. They knew that there was approximately zero chance that you&#39;d ever stumble upon another search engine, which meant they could make their own search as shitty as they wanted and keep your business. Confronted with these proven findings, Mehta decided that Google&#39;s punishment should be…nothing. They wouldn&#39;t be forced to delete the personal data they&#39;d taken from billions of people. They wouldn&#39;t be forced to spin off Chrome or Android – two of the key tools Google uses to keep people from discovering other search engines. They wouldn&#39;t even be forced to halt the $20b annual bribe to Apple – the judge fretted that without that $20b annual bribe, Apple wouldn&#39;t be able to pay researchers to come up with cool new iPhone features (never mind that Apple spends all that money – and more – on stock buybacks, a recently illegal form of stock manipulation): https://pluralistic.net/2025/09/03/unpunishing-process/#fucking-shit-goddammit-fuck Then, a year later, another federal judge – Leonie Brinkema, who presided over the Google &#34;ad-tech&#34; case – decided that Google&#39;s penalty for monopolizing the ad market should also be…nothing: https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/ Oh, maybe not exactly nothing. We don&#39;t actually know the full extent of Judge Brinkema&#39;s &#34;remedy,&#34; because it&#39;s sealed for two weeks. What we do know is that Google will not be forced to take the most obvious, effective and necessary step to prevent it from abusing its monopoly: Google will not be forced to sell off part of its ad-tech stack. Let me unpack that for you, because unless you&#39;re an ad-tech weirdo, chances are you have no idea how any of this works and don&#39;t think it affects you. But the reality is that this is costing you money. It&#39;s one of the dirtiest, most profitable scams in the entire tech economy, which is saying something, because that is an economy that is made of scams: https://pluralistic.net/2026/09/04/cheating-at-fraud/#absentee-rentier Unlike older ads, which were targeted based on content (say, an ad for a hotel might run next to a newspaper article about a beachside town) modern ads are built on surveillance. Companies like Google amass vast, nonconsensual dossiers on the personal characteristics and behavior of billions of people, supplemented with information purchased from the unregulated data-broker sector. When you visit a website, the site fires off a piece of software called &#34;sell-side agent&#34; to message a server called an &#34;ad exchange&#34; in order to announce your visit, soliciting bids for the right to show you an ad: &#34;I am about to serve a web-page to a 18-34 year old man-child from New York&#39;s outer boroughs, who owns an Xbox and has been recently searching for information about gonorrhea: who wants to cram some ads into this guy&#39;s eyeballs?&#34; That ad-exchange server is haunted by &#34;demand-side agents&#34; – these are pieces of software fired off by advertisers that monitor all these advertising opportunities announced on the ad exchange and bid for the right to show you an ad. The highest bidder gets to show you an ad, and the fee is remitted to the exchange, which takes a cut and passes the remainder on to the sell-side platform, which also takes a cut and gives the balance to the website publisher. So the ad-tech stack has three main components: the &#34;sell-side platform&#34; (SSP), which lets web publishers announce auctions for the right to advertise to their visitors; the &#34;demand-side platform&#34; (DSP) that lets advertisers bid to show those visitors ads; and the &#34;ad exchange&#34; – the marketplace where the sell-side and demand-side agents meet to collect bids, finalize the sale, and exchange ads for money. When this all started, there were lots of companies in all three roles. Publishers and advertisers had their choice of SSPs, DSPs and exchanges, and all three types of middleman competed to offer the best deals to advertisers and publishers. Then, Google and Facebook started buying up the leading DSPs, SSPs and exchanges. They used contracts and technical countermeasures to force anyone who used any part of their &#34;stack&#34; to use them for all parts of the transaction. The CEOs of Google and Facebook personally colluded to rig the market, dividing it up between them so that publishers would get less, advertisers would pay more, and Googbook would pocket the difference. The codename for this conspiracy was &#34;Jedi Blue&#34;: https://en.wikipedia.org/wiki/Jedi\_Blue Jedi Blue was just the icing on the cake. The reality is they didn&#39;t need the conspiracy: once Google was selling services to advertisers and publishers on an exchange that Google owned, they created an entire universe of ways to rip off both advertisers and publishers. Now consider that Google is also an advertiser and also a web publisher, and the opportunities to cheat are just wild. The numbers tell the story. Before Googbook captured 80% of the display advertising business, the total share of the advertising industry&#39;s revenues that went to &#34;intermediaries&#34; (middlemen like ad agencies, ad buyers, etc) was about 15%. Today, that number is 51%. Hundreds of billions of dollars have been moved out of publishers&#39; and advertisers&#39; bank accounts and onto Google and Facebook&#39;s balance sheets. This isn&#39;t hard to understand. Google runs an ad business that locks in buyers and sellers on a marketplace Google owns and controls, where it also competes with those buyers and sellers. Buying or selling an ad through Google is like going to court to get a divorce, only to discover that you and your soon-to-be-ex- are both represented by the same lawyer, who promptly ascends the bench and dons a judge&#39;s wig, and then spends the whole trial trying to match with both of you on Tinder, and who concludes the trial by banging their gavel and announcing that they&#39;ve decided that the family house will be awarded to…the judge! The most absurd part of this whole farce is the lawyers who defend it on behalf of companies like Google. If a Google lawyer ever showed up to defend the company in a trial where the judge was working for the plaintiff, they would scream blue murder and refuse to proceed until the judge was removed from the case. But when Google operates a business where it presides over transactions where it has nothing but conflicts of interest, these same lawyers argue that Google would never cheat a seller or a buyer. The fucking absurdity of this arrangement is so obvious that a bill to force a halt to it was co-sponsored…by Elizabeth Warren and Ted Cruz: https://gizmodo.com/google-facebook-america-act-ads-break-up-cruz-warren-1850287725 Why would Warren and Cruz care about this? Because the hundreds of billions that have been moved from publishers and advertisers to Google and Facebook are hundreds of billions of dollars that are no longer paying for news and entertainment production, and they&#39;re hundreds of billions of dollars that businesses have to recoup by raising prices on you to pay their advertising bills. Google (and, apparently, Judge Leonie Brinkema) dispute this. They say that &#34;larger forces&#34; have &#34;changed the dynamic&#34; that &#34;restructured the industry.&#34; But, I mean, come on! This is a situation where hundreds of billions of dollars are divided up by a thrice convicted monopolist who is mysteriously hundreds of billions of dollars richer, while the other parties to the transaction are mysteriously hundreds of billions of dollars poorer. Anyone who can&#39;t draw the obvious causal inference from these facts has so little object permanence that they would lose a fucking game of peek-a-boo. This is so goddamned demoralizing. For a couple years there, it really looked like the tide was turning. Then Judges Brinkema and Mehta came along to snatch defeat from the jaws of victory. The only thing that&#39;s keeping me going is object permanence. I know my history. I know it took decades from the passage of the Sherman Act until the defeat of John D Rockefeller. Our forebears brought down Rockefeller because they didn&#39;t give up, despite setbacks as bad as this one, and worse. Stein&#39;s Law of finance holds that &#34;anything that can&#39;t go on forever eventually stops,&#34; and MLK told us that &#34;the arc of the moral universe is long, but it bends toward justice.&#34; This can&#39;t go on forever, and despite Dr King&#39;s phrasing, I know he understood that the arc doesn&#39;t just &#34;bend&#34; – it is bent – by people like us, hauling on it with all our might. Hey look at this (permalink) Rising Customer Durability, Falling Business Dynamism https://www.chicagobooth.edu/-/media/research/stigler/pdfs/workingpapers/387\_customer.pdf DOGE Affiliate Asked for College Credits for Participating in Takeover https://www.wired.com/story/doge-affiliate-asked-for-college-credits-for-participating-in-takeover/ Why office workers are turning against AI https://www.bloodinthemachine.com/p/why-office-workers-are-turning-against The Quiet Decision Microsoft Made That Devastated Thousands of Nonprofits https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html Vote for the 2026 Tiny Awards Winner https://tinyawards.net/vote/ Object permanence (permalink) #25yrsago Advertisers claim they can hack your childhood memories https://web.archive.org/web/20010921022846/http://news.independent.co.uk/uk/science/story.jsp?story=92386 #25yrsago Wind-up cellphone charger https://web.archive.org/web/20011031122531/http://www.thetimes.co.uk/article/0,,2-2001310179,00.html #20yrsago Steven Brust’s Dzur: witty and exciting heroic fantasy https://memex.craphound.com/2006/09/05/steven-brusts-dzur-witty-and-exciting-heroic-fantasy/ #20yrsago America to US gov’t: kill the Broadcast Treaty! http://www.cptech.org/ip/wipo/bt/jointletter5sep06usptoforum.pdf #20yrsago New Zealand wants a Ministry of DRM https://web.archive.org/web/20070108042834/http://www.zdnet.com.au/news/software/soa/NZ\_draws\_line\_on\_DRM\_and\_trusted\_computing/0,130061733,339270846,00.htm #20yrsago Is it legal to look at the Web in Canada? https://web.archive.org/web/20061010120919/http://www.michaelgeist.ca/content/view/1411/135/ #15yrsago Advice for self-publishers: why should anyone care about your book? https://locusmag.com/feature/cory-doctorow-why-should-anyone-care/ #5yrsago A letter to a discouraged young writer https://pluralistic.net/2021/09/05/why-bother/ #1yrago Why Wikipedia works https://pluralistic.net/2025/09/05/be-the-first-person/#to-not-do-something-that-no-one-else-has-ever-thought-of-not-doing-before Upcoming appearances (permalink) Dąbrowa Górnicza, Kongres Regeneracja! to interdyscyplinarna, Sep 5 https://regeneracja.plse.org.pl/ Warsaw: Romana i Jana Podoskich, Sep 6 https://wydarzenia.phub.pl/events/0ee0e198-f843-423a-890f-c84ff50a46c0 Brighton: The Reverse Centaur&#39;s Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8 https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/ London: The Reverse Centaur&#39;s Guide to Life After AI with Riley Quinn (Foyle&#39;s Picadilly), Sep 9 https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn Budapest: Brain Bar, Sep 17 https://brainbar.com/munkatars/cory-doctorow Edmonton: Elbows Up (Edmonton Public Library), Sep 28 https://www.epl.ca/blogs/post/elbows-up-with-cory-doctorow/ South Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6 https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/ Hudson, OH: Hudson Library, Oct 7 https://engagedpatrons.org/EventsExtended.cfm?SiteID=3850&#38;amp;EventID=596952&#38;amp;PK= Calgary: Wordfest, Oct 8 https://wordfest.com/2026/show/wordfest-presents-cory-doctorow-2026/ Winnipeg: McNally Robinson, Oct 9 https://www.mcnallyrobinson.com/event-18991/An-Evening-with-Cory-Doctorow Vancouver: Read, Resist, Repair, Rejoice (Vancouver Writers Festival), Oct 19 https://writersfest.bc.ca/festival-event-2026/01 Victoria: Munro&#39;s Books, Oct 20 https://www.munrobooks.com/events/6113620261020 Vancouver: Life After AI (Vancouver Writers Festival), Oct 22 https://writersfest.bc.ca/festival-event-2026/46 Ottawa: Life After AI (Ottawa Writers Festival), Oct 24 https://writersfestival.org/event/life-after-ai Vancouver: BC Policy Solutions Gala, Nov 12 https://bcpolicy.ca/gala/ Recent appearances (permalink) The future of the tech crisis (How the Light Gets In) https://iai.tv/video/the-future-of-the-tech-crisis?\_auid=2020 How Tech Platforms Took Over the Economy (Dystopia Now) https://sites.libsyn.com/566555/enshittification-and-reverse-centaurs-cory-doctorow-on-how-tech-platforms-took-over-the-economy Hope, AI, Fixing the Internet and the Reverse Centaur of it all (Wilosophy) https://podcastaddict.com/everyone-relax/episode/231414816 Deflating the AI Bubble (Do Not Pass Go) https://www.donotpassgo.ca/p/deflating-the-ai-bubble-with-cory Technofeudal Enshittification (Fucking Cancelled) https://www.fuckingcancelled.com/p/technofeudal-enshittification-with Latest books (permalink) &#34;The Reverse-Centaur&#39;s Guide to AI,&#34; a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/ &#34;Canny Valley&#34;: A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce &#34;Enshittification: Why Everything Suddenly Got Worse and What to Do About It,&#34; Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ &#34;Picks and Shovels&#34;: a sequel to &#34;Red Team Blues,&#34; about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). &#34;The Bezzle&#34;: a sequel to &#34;Red Team Blues,&#34; about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). &#34;The Lost Cause:&#34; a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). &#34;The Internet Con&#34;: A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). &#34;Red Team Blues&#34;: &#34;A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.&#34; Tor Books http://redteamblues.com. &#34;Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin&#34;, on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) &#34;The Post-American Internet,&#34; a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 &#34;Unauthorized Bread&#34;: a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 &#34;Enshittification, Why Everything Suddenly Got Worse and What to Do About It&#34; (the graphic novel), Firstsecond, 2027 &#34;The Memex Method,&#34; Farrar, Straus, Giroux, 2027 Colophon (permalink) Today&#39;s top sources: Currently writing: “Once Is Enemy Action,” a science fiction novel about the origins of modern technofascism. Saturday&#39;s words: 504 (12397 total). &#34;The Post-American Internet,&#34; a sequel to &#34;Enshittification,&#34; about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor. A Little Brother short story about DIY insulin PLANNING This work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic &#34;When life gives you SARS, you make sarsaparilla&#34; -Joey &#34;Accordion Guy&#34; DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (&#34;BOGUS AGREEMENTS&#34;) that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X</source:markdown>
       <guid>cid://https://pluralistic.net/?p=13250</guid>
       <category>Uncategorized</category>
       <category>ad-tech</category>
@@ -581,7 +1108,7 @@ The post [Trump Administration’s Push for Deep-Sea Mining Threatens the Atlant
         
         <p>The town coffee shop was just a coffee shop. We weren&#8217;t publicly shamed for going there because one of the owners was an ass. It was just a place to hang out with our friends.</p>
         
-        <p>Our casual work friends were just casual work friends. We didn&#8217;t expect them to take positions on the world&#8217;s most complicated conflicts. We could just talk about weather and TV shows, and maybe sometimes get a beer after work.</p>
+        <p>Our casual friends were just casual friends. We didn&#8217;t expect them to take positions on the world&#8217;s most complicated conflicts. We could just talk about weather and TV shows, and maybe sometimes get a beer.</p>
         
         <p>And our neighbors were just our neighbors.</p>
         
@@ -628,7 +1155,7 @@ And I can’t help but feel that maybe we were better off before we knew _everyo
 
 The town coffee shop was just a coffee shop. We weren’t publicly shamed for going there because one of the owners was an ass. It was just a place to hang out with our friends.
 
-Our casual work friends were just casual work friends. We didn’t expect them to take positions on the world’s most complicated conflicts. We could just talk about weather and TV shows, and maybe sometimes get a beer after work.
+Our casual friends were just casual friends. We didn’t expect them to take positions on the world’s most complicated conflicts. We could just talk about weather and TV shows, and maybe sometimes get a beer.
 
 And our neighbors were just our neighbors.
 
@@ -23705,384 +24232,6 @@ Crimson.
       <category>programming</category>
       <category>shopping</category>
       <category>work</category>
-    </item>    <item>
-      <title>Thoughts about “working together”</title>
-      <link>https://andysylvester.com/2026/08/15/thoughts-about-working-together/</link>
-      <description>
-        <![CDATA[Today, Dave Winer talks about &#8220;working together&#8221;, and how he wants to work with other people. The bug in this statement is that Dave Winer deletes things from sites he provides for others to try out his tools, talks about &#8220;spam&#8221; posts (which is his word for someone trying to make use of his &#8220;flow&#8221; [&#8230;]]]>
-      </description>
-      <source:markdown>Today, Dave Winer talks about “working together”, and how he wants to work with other people. The bug in this statement is that Dave Winer deletes things from sites he provides for others to try out his tools, talks about “spam” posts (which is his word for someone trying to make use of his “flow” \[…\]</source:markdown>
-      <guid>cid://https://andysylvester.com/?p=4556</guid>
-      <category>Micro.Blog</category>
-      <category>rss.chat</category>
-      <category>Software Development</category>
-      <category>Software Engineering</category>
-    </item>    <item>
-      <link>https://andysylvester.com/2026/08/15/4552/</link>
-      <description>
-        <![CDATA[Saw this at Walmart today &#8211; loved it!]]>
-      </description>
-      <source:markdown>Saw this at Walmart today – loved it!</source:markdown>
-      <guid>cid://https://andysylvester.com/?p=4552</guid>
-      <category>Micro.Blog</category>
-      <category>Politics</category>
-      <category>Trump</category>
-    </item>    <item>
-      <title>Apocalypse, When?</title>
-      <link>https://branko2f7.substack.com/p/apocalypse-when</link>
-      <description>
-        <![CDATA[On a new film about the Reagan-Gorbachev 1986 summit in Reykjavik]]>
-      </description>
-      <source:markdown>On a new film about the Reagan-Gorbachev 1986 summit in Reykjavik</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/e9d91ec8-07c5-4dc3-8327-d257a35cb8dc_249x349.png" length="0" type="image/jpeg" />
-      <guid>cid://https://branko2f7.substack.com/p/apocalypse-when</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/117101562905841305</link>
-      <description>
-        <![CDATA[<p class="quote-inline">RE: <a href="https://hachyderm.io/@mitchellh/117101237420189953" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">hachyderm.io/@mitchellh/117101</span><span class="invisible">237420189953</span></a></p>]]>
-      </description>
-      <source:markdown>RE: [https://hachyderm.io/@mitchellh/117101237420189953](https://hachyderm.io/@mitchellh/117101237420189953)</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/117101562905841305</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/117101119538286059</link>
-      <description>
-        <![CDATA[<p>One addendum “where SwiftTerm stands today means the latest branch I pushed”, I haven’t merged yet to main</p>]]>
-      </description>
-      <source:markdown>One addendum “where SwiftTerm stands today means the latest branch I pushed”, I haven’t merged yet to main</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/117101119538286059</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/117100958627927936</link>
-      <description>
-        <![CDATA[<p>First chart is logarithmical because starting this effort showed how bad performance was.</p><p>The second chart is closer to &quot;This is where SwiftTerm&quot; stands compared to Ghostty today.   In the second chart, the yellow bar is where I am at, ghostty in green.</p><p>To get this, I will have to break API compatibility in SwiftTerm, so will need to split 1.x vs 2.x but the Delegate pattern with &quot;weak&quot; variables is just too damn expensive as well as things that at the time looked like cute extensions points</p>]]>
-      </description>
-      <source:markdown>First chart is logarithmical because starting this effort showed how bad performance was.
-
-The second chart is closer to &#34;This is where SwiftTerm&#34; stands compared to Ghostty today. In the second chart, the yellow bar is where I am at, ghostty in green.
-
-To get this, I will have to break API compatibility in SwiftTerm, so will need to split 1.x vs 2.x but the Delegate pattern with &#34;weak&#34; variables is just too damn expensive as well as things that at the time looked like cute extensions points</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/117100958627927936</guid>
-    </item>    <item>
-      <link>https://tilde.zone/@tomasino/117100653103850626</link>
-      <description>
-        <![CDATA[<p>I really want a log flume ride. I'm calling it now. If I ever have an evil lair it's gonna have a log flume.</p>]]>
-      </description>
-      <source:markdown>I really want a log flume ride. I&#39;m calling it now. If I ever have an evil lair it&#39;s gonna have a log flume.</source:markdown>
-      <guid>cid://https://tilde.zone/@tomasino/117100653103850626</guid>
-    </item>    <item>
-      <title>BTC goes head to head with JD Vance</title>
-      <link>https://plus.briantylercohen.com/p/btc-goes-head-to-head-with-jd-vance</link>
-      <description>
-        <![CDATA[We're going to defeat the Vice President.]]>
-      </description>
-      <source:markdown>We&#39;re going to defeat the Vice President.</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/aadefd98-1601-44e8-ba88-9d5f494a63a7_860x538.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://plus.briantylercohen.com/p/btc-goes-head-to-head-with-jd-vance</guid>
-    </item>    <item>
-      <title>ppdpt.jpg - removed - external edit (Unknown date)</title>
-      <link>https://toolkit.wellgedacht.org/doku.php?image=0%3Appdpt.jpg&#38;ns=0&#38;rev=1786810242&#38;tab_details=history&#38;media_do=diff&#38;do=media</link>
-      <description>
-        <![CDATA[<img src="https://toolkit.wellgedacht.org/lib/exe/fetch.php?w=500&amp;h=500&amp;tok=a242e2&amp;media=0:ppdpt.jpg" alt="ppdpt.jpg" loading="lazy" width="500" height="500" />]]>
-      </description>
-      <source:markdown>![ppdpt.jpg](https://toolkit.wellgedacht.org/lib/exe/fetch.php?w=500&#38;h=500&#38;tok=a242e2&#38;media=0:ppdpt.jpg)</source:markdown>
-      <author>anonymous@undisclosed.example.com (Anonymous)</author>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/117100233138577795</link>
-      <description>
-        <![CDATA[<p>Deploying apps on the web has always been a major turn off for me - it feels like being gifted a litter of puppies.</p><p>Assorted pain reduction services exist with tamagotchi rental economics.</p><p>And then I discovered miren.dev.</p><p>I have absolutely no association with them.   I am just genuinely in awe.</p>]]>
-      </description>
-      <source:markdown>Deploying apps on the web has always been a major turn off for me - it feels like being gifted a litter of puppies.
-
-Assorted pain reduction services exist with tamagotchi rental economics.
-
-And then I discovered miren.dev.
-
-I have absolutely no association with them. I am just genuinely in awe.</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/117100233138577795</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/117100092447988523</link>
-      <description>
-        <![CDATA[<p>Sometimes I think about this thread:</p><p><a href="https://www.reddit.com/r/AskReddit/comments/9eq95t/what_is_something_that_someone_who_has_never_been/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">reddit.com/r/AskReddit/comment</span><span class="invisible">s/9eq95t/what_is_something_that_someone_who_has_never_been/</span></a></p>]]>
-      </description>
-      <source:markdown>Sometimes I think about this thread:
-
-[https://www.reddit.com/r/AskReddit/comments/9eq95t/what\_is\_something\_that\_someone\_who\_has\_never\_been/](https://www.reddit.com/r/AskReddit/comments/9eq95t/what_is_something_that_someone_who_has_never_been/)</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/117100092447988523</guid>
-    </item>    <item>
-      <title>Thinking out loud on a Saturday morning</title>
-      <link>http://scripting.com/2026/08/15/140129.html?title=thinkingOutLoudOnASaturdayMorning</link>
-      <description>
-        <![CDATA[<p><img class="imgRightMargin" src="https://imgs.scripting.com/2026/08/15/bloggerCon.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Tech is very competitive, I learned, even when you give your work away, which I have been doing for a couple of decades. Maybe even especially when you give it away. </p>
-        <p>I want to work with other people, and am always making <a href="https://daytona.scripting.com/search?q=%22working%20together%22">invitations</a>. When I see a product that fits in with what I'm doing my first impulse is how do we connect them? This is one of the basic great things about computers and our networks. But there must be interop between people before there can be interop between products.</p>
-        <p>Connecting two pieces of tech is mostly mathematics, code writing, not very much in the way of manufacturing, whereas in the physical world two train lines can cross each other but can't connect because they have different <a href="https://en.wikipedia.org/wiki/Track_gauge">rail spacing</a>, or run on a different kind of fuel. In software if there's a huge difference like that you can make a software bridge, as they did with <a href="https://en.wikipedia.org/wiki/Internet_protocol_suite">TCP/IP</a>, and it costs a little time to convert each request twice for each transaction, but that cost is pretty close to zero. </p>
-        <p>That's what I want, <a href="https://daytona.scripting.com/search?q=%22working%20together%22">working together</a>, but what I get instead is people want to be me. They want to take over the project I'm working on, which if they understood it from my point of view is always the most ridiculous choice possible because it is impossible. So many stories to go with this. One of the most puzzling was when one of my best friends signed up to do a development project with a developer who used to work for me. Long story, but when you come down to it, he wanted to be me, not work with me. </p>
-        <p>But I didn't want to be <a href="https://en.wikipedia.org/wiki/Douglas_Engelbart">Doug Engelbart</a> or <a href="https://en.wikipedia.org/wiki/Ted_Nelson">Ted Nelson</a> though I learned from them. I certainly didn't want to be Bill Gates or Steve Jobs. I probably would have liked being <a href="https://en.wikipedia.org/wiki/Dennis_Ritchie">Dennis Ritchie</a> or <a href="https://en.wikipedia.org/wiki/Ken_Thompson">Ken Thompson</a>.  I have ideas of things that should be done that for some reason no one else sees. I start working and sometimes they take off. Then everyone writes business plans and boom, they start up and shortly thereafter they fail. This happened with <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a>. I was meeting with a lot of VCs, I wanted to start a company to build two-way RSS apps and content, as we had pioneered at UserLand. Seemed like a total no-brainer. I felt I had proven I had a clue. But they invested in hired programmers so the VCs could be the vision behind the products (I guess, I don't really know know why) instead of me. </p>
-        <p>I had a colleague at <a href="https://daytona.scripting.com/search?q=berkman">Berkman</a> tell me to get out of the way because he was going to take over RSS. To this day people don't get why competing with RSS was counter-productive, assuming your goal is interop. When another friend tried to take over OPML, as I was promoting it at the time on my blog and going on a roadshow to answer questions and raise interest, I was so sick of the whole thing, he wasn't the only one, btw, I just stopped promoting it and poof like magic their ventures disappeared. If they had offered friendship and interop, which they didn't, it could have worked. One of these guys even tricked Harvard into hosting an OPML conference. They assumed everyone who repped open tech was legit. </p>
-        <p>The thing that really pissed me off is that while this was going on, people started writing about me, literally, grammatically, in the past tense. People whose accomplishments weren't that great imho. Look at sports and entertainment, how they celebrate those who made contributions to their arts, I wonder when tech will gain that level maturity. It's childish to not respect those whose work you build on. And btw, unlike sports players, while programmer's minds do eventually lose some brilliance for coding, because it relies so heavily on memory, I've experienced that myself -- our ability to create and set standards doesn't have an actual expiration date. If you want to keep creating at 40, 50, 60 even 70, you probably can.</p>
-        <p>My life has been full of all kinds of wonderful coincidences, at the exact moment I need it along comes Claude Code, and all of a sudden I can do much bigger projects than I ever could when I was in my 20s and 30s. Which I think is good, not just for me but for the whole thing. Because there are processes and concepts that belong in the toolkit of every developer that were squashed by Apple in the 90s  (I'm relearning this now as I'm working on getting Frontier running on Node.js) and now we have a chance to restore it to mostly running condition. Some features will be hard to make work, because of peculiarities in JavaScript. </p>
-        <p>Maybe as one of my last creative acts, I will try to hook up with a university to build bridges between generations that aren't specific to any timeframe, to making handing off a lifetime of work viable, and maybe the AI tools can facilitate that. Just thinking out loud on a Saturday morning. </p>
-        <p>BTW, I was talking about this with Doc Searls a couple of years ago and offered a name for the seminar series, The Exit Interview. This gave me a thought, when Berkman had their reunion a couple of summers ago, they did a long video interview with me to explain how we got all the stuff running there that we did. It was going back to Berkman, even though the building is gone (which I kind of like, that's how fast things change) that summed up what had gone wrong. We were off to a fantastic start with blogging, podcasting, politics and education -- we weren't just making software and creating standards, we were involving the creative people the new medium would enable. This is something you don't find often in the tech industry. Academic freedom can be a real thing.</p>]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2026/08/15/bloggerCon.png)Tech is very competitive, I learned, even when you give your work away, which I have been doing for a couple of decades. Maybe even especially when you give it away.
-
-I want to work with other people, and am always making [invitations](https://daytona.scripting.com/search?q=%22working%20together%22). When I see a product that fits in with what I&#39;m doing my first impulse is how do we connect them? This is one of the basic great things about computers and our networks. But there must be interop between people before there can be interop between products.
-
-Connecting two pieces of tech is mostly mathematics, code writing, not very much in the way of manufacturing, whereas in the physical world two train lines can cross each other but can&#39;t connect because they have different [rail spacing](https://en.wikipedia.org/wiki/Track_gauge), or run on a different kind of fuel. In software if there&#39;s a huge difference like that you can make a software bridge, as they did with [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite), and it costs a little time to convert each request twice for each transaction, but that cost is pretty close to zero.
-
-That&#39;s what I want, [working together](https://daytona.scripting.com/search?q=%22working%20together%22), but what I get instead is people want to be me. They want to take over the project I&#39;m working on, which if they understood it from my point of view is always the most ridiculous choice possible because it is impossible. So many stories to go with this. One of the most puzzling was when one of my best friends signed up to do a development project with a developer who used to work for me. Long story, but when you come down to it, he wanted to be me, not work with me.
-
-But I didn&#39;t want to be [Doug Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) or [Ted Nelson](https://en.wikipedia.org/wiki/Ted_Nelson) though I learned from them. I certainly didn&#39;t want to be Bill Gates or Steve Jobs. I probably would have liked being [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) or [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson). I have ideas of things that should be done that for some reason no one else sees. I start working and sometimes they take off. Then everyone writes business plans and boom, they start up and shortly thereafter they fail. This happened with [RSS](https://cyber.harvard.edu/rss/rss.html). I was meeting with a lot of VCs, I wanted to start a company to build two-way RSS apps and content, as we had pioneered at UserLand. Seemed like a total no-brainer. I felt I had proven I had a clue. But they invested in hired programmers so the VCs could be the vision behind the products (I guess, I don&#39;t really know know why) instead of me.
-
-I had a colleague at [Berkman](https://daytona.scripting.com/search?q=berkman) tell me to get out of the way because he was going to take over RSS. To this day people don&#39;t get why competing with RSS was counter-productive, assuming your goal is interop. When another friend tried to take over OPML, as I was promoting it at the time on my blog and going on a roadshow to answer questions and raise interest, I was so sick of the whole thing, he wasn&#39;t the only one, btw, I just stopped promoting it and poof like magic their ventures disappeared. If they had offered friendship and interop, which they didn&#39;t, it could have worked. One of these guys even tricked Harvard into hosting an OPML conference. They assumed everyone who repped open tech was legit.
-
-The thing that really pissed me off is that while this was going on, people started writing about me, literally, grammatically, in the past tense. People whose accomplishments weren&#39;t that great imho. Look at sports and entertainment, how they celebrate those who made contributions to their arts, I wonder when tech will gain that level maturity. It&#39;s childish to not respect those whose work you build on. And btw, unlike sports players, while programmer&#39;s minds do eventually lose some brilliance for coding, because it relies so heavily on memory, I&#39;ve experienced that myself -- our ability to create and set standards doesn&#39;t have an actual expiration date. If you want to keep creating at 40, 50, 60 even 70, you probably can.
-
-My life has been full of all kinds of wonderful coincidences, at the exact moment I need it along comes Claude Code, and all of a sudden I can do much bigger projects than I ever could when I was in my 20s and 30s. Which I think is good, not just for me but for the whole thing. Because there are processes and concepts that belong in the toolkit of every developer that were squashed by Apple in the 90s (I&#39;m relearning this now as I&#39;m working on getting Frontier running on Node.js) and now we have a chance to restore it to mostly running condition. Some features will be hard to make work, because of peculiarities in JavaScript.
-
-Maybe as one of my last creative acts, I will try to hook up with a university to build bridges between generations that aren&#39;t specific to any timeframe, to making handing off a lifetime of work viable, and maybe the AI tools can facilitate that. Just thinking out loud on a Saturday morning.
-
-BTW, I was talking about this with Doc Searls a couple of years ago and offered a name for the seminar series, The Exit Interview. This gave me a thought, when Berkman had their reunion a couple of summers ago, they did a long video interview with me to explain how we got all the stuff running there that we did. It was going back to Berkman, even though the building is gone (which I kind of like, that&#39;s how fast things change) that summed up what had gone wrong. We were off to a fantastic start with blogging, podcasting, politics and education -- we weren&#39;t just making software and creating standards, we were involving the creative people the new medium would enable. This is something you don&#39;t find often in the tech industry. Academic freedom can be a real thing.</source:markdown>
-      <guid>cid://http://scripting.com/2026/08/15/140129.html</guid>
-    </item>    <item>
-      <title>Midlife continues</title>
-      <link>https://kwon.nyc/notes/midlife-continues/</link>
-      <description>
-        <![CDATA[<p><em>Note: this is unedited copy that came straight from my brain, local organic brain-to-table writing, and likely riddled with grammar and syntax errors. Proceed at your own risk.</em></p>
-        <p>Things that started happening inexplicably to me since I turned 40:</p>
-        <ul>
-        <li>Seeing the wobbly erratic spotlight of a phone flashlight, being like “what idiot has their phone flashlight on and doesn&rsquo;t know it?”, and then realizing it’s me. I’m the idiot.</li>
-        <li>Grunting to help things along &ndash; lifting something heavy, squeezing through narrow spaces, walking up a flight of stairs. Idk, it just feels like it helps. Related: clearing my throat just for fun, saying &ldquo;huh&rdquo; out loud to myself.</li>
-        <li>If I see an open seat, bench, or chair, I&rsquo;m gonna sit in it. Even if it&rsquo;s just for a minute. It&rsquo;s not  even because I&rsquo;m that tired (at least physically&hellip; I&rsquo;m emotionally tired from being a middle aged woman), I just&hellip; see a seat and think, “oh that looks nice” and need to sit in it.
-        <ul>
-        <li>Exception is the subway. Unfortunately, while I do have the soul and essence of an elderly person, I am aware that my outward appearance is likely still perceived as a young person.</li>
-        </ul>
-        </li>
-        <li>Squinting even though I can see the thing okay &ndash; it just feels like it helps. What can I say, apparently I love furrowing a brow in my 40s.</li>
-        <li>Walking with my arms behind my back, halmoni style
-        <ul>
-        <li>This is so underrated and I genuinely enjoy this. Halmoni knows what&rsquo;s up. It&rsquo;s a natural chest opener and a huge alleviator<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> for when your arms feel too heavy (again, from carrying the weight of the world).</li>
-        </ul>
-        </li>
-        <li>I&rsquo;m mildly cranky a lot of the time. Complaining about things like &ldquo;car headlights are way too bright these days!!&rdquo; and &ldquo;there are too many loud private helicopters flying over Brooklyn!!&rdquo;
-        <ul>
-        <li>I went to a backyard party several weeks ago and multiple loud private helicopters flew over us over the course of the afternoon and I took the opportunity to proselytize to the partygoers about the dangers of noise pollution and the private choppers taking rich people to and from the Hamptons are not supposed to take a flight path over residential Brooklyn but nobody enforces it. It was a pride party btw<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>.</li>
-        <li>Both of these things are objectively valid, by the way (<a href="https://www.softlights.org/education-vehicle-headlights/">headlights</a>, <a href="https://stopthechopnynj.org/">helicopters</a>). (And you better believe I signed both of those petitions because another thing I will do in my 40s is sign a petition to officially put my name on the record that I am ANNOYED!)</li>
-        </ul>
-        </li>
-        <li>Having to wear house slippers 100% of the time. I bring them with me when I travel.</li>
-        <li>I don&rsquo;t swear as much as I used to.
-        <ul>
-        <li>Not that I was a total potty mouth or anything before, but idk, cursing just doesn&rsquo;t have the same punch that it used to. (There are some people supposedly running this world who I wouldn&rsquo;t mind if someone put an <em>actual</em> curse on, though that&rsquo;s unrelated.) Also, when I hear younger people swear I think <em>hmm you are not communicating as effectively as you think you are</em>.</li>
-        </ul>
-        </li>
-        <li>Being ignored by younger people (non-derogatory and non-ageist; I don&rsquo;t mean they&rsquo;re ignoring me intentionally, I mean I am more aware of how I used to be so self-focused that I did not pay much attention to older people).
-        <ul>
-        <li>I was sitting adjacent to 3 young friends at a sushi bar (clearly they hadn&rsquo;t made a reservation, because who would make a reservation for 3 to sit at the bar). They all had their phones out, and all ordered the same special roll, and were all gussied up to go out after. It was somewhat amusing to observe because I remember those days in my own life, and in my mind I was kind of thinking &ldquo;excuse me young people, i&rsquo;ll have you know i used to be very cool and edgy&rdquo; but there is nothing that makes me sound older than saying things like &ldquo;i&rsquo;ll have you know i used to be very cool and edgy&rdquo; and &ldquo;gussied up to go out&rdquo;. I should rewrite this in a tone that sounds less disparaging because that is not my feeling and intention, more to just kind of amusedly observe and recognize something I hadn&rsquo;t thought about in a while.</li>
-        </ul>
-        </li>
-        <li>In the past few years, I&rsquo;ve made friends with some older adults (in their 70s and 80s) in the neighborhood and circles I run in. They&rsquo;re super active, more social than I am, and it&rsquo;s been really cool to get to know older adults as friends and people, instead of as a &ldquo;young person&rdquo; who is naive and inexperienced interacting with an &ldquo;old person&rdquo; who is wise and frail &ndash; we learn from each other and it&rsquo;s refreshing to be around people who are living fully and also don&rsquo;t really have a filter. Midlife can feel lonely for me and part of it is that there aren&rsquo;t many visible examples of what it looks like to age, that aren&rsquo;t stereotypical or flattened or negative, so I&rsquo;m super grateful to have made these friends.</li>
-        </ul>
-        <div class="footnotes" role="doc-endnotes">
-        <hr>
-        <ol>
-        <li id="fn:1">
-        <p>Is &ldquo;alleviator&rdquo; a word? Probably not, and probably not in the way I meant it&hellip; looks like a portmanteau of &ldquo;alligator&rdquo; and &ldquo;elevator&rdquo;. Meh, I&rsquo;m using it anyway.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-        </li>
-        <li id="fn:2">
-        <p>Before you say &ldquo;oh you must be real fun at parties&rdquo;, I did get some people to listen and sign the petition, and one already knew about it and showed people how to check real time flight trackers to see what kind of helicopter it was, which I didn&rsquo;t know about and appreciated!! If there&rsquo;s one thing about older lesbians they will care about a cause and help you enforce it!!! One time I went to Hawaii and there was a sign on the black sand beach about how you had to stay at least 8 feet from the sea turtles and of course there were entitled tourists going way too close to the sea turtles and there was this older butch lesbian who basically just started enforcing the rule and speaking sternly to anyone who got too close and you could tell that the tourists had an attitude about it but they did back off, thankfully. To this day, whenever my partner and I see anyone protecting wildlife or standing up for the vulnerable or just generally getting shit done, we nod at each other and say &ldquo;lesbian sea turtle energy&rdquo; with great respect.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-        </li>
-        </ol>
-        </div>]]>
-      </description>
-      <source:markdown>_Note: this is unedited copy that came straight from my brain, local organic brain-to-table writing, and likely riddled with grammar and syntax errors. Proceed at your own risk._
-
-Things that started happening inexplicably to me since I turned 40:
-
-- Seeing the wobbly erratic spotlight of a phone flashlight, being like “what idiot has their phone flashlight on and doesn’t know it?”, and then realizing it’s me. I’m the idiot.
-- Grunting to help things along – lifting something heavy, squeezing through narrow spaces, walking up a flight of stairs. Idk, it just feels like it helps. Related: clearing my throat just for fun, saying “huh” out loud to myself.
-- If I see an open seat, bench, or chair, I’m gonna sit in it. Even if it’s just for a minute. It’s not even because I’m that tired (at least physically… I’m emotionally tired from being a middle aged woman), I just… see a seat and think, “oh that looks nice” and need to sit in it.
-  - Exception is the subway. Unfortunately, while I do have the soul and essence of an elderly person, I am aware that my outward appearance is likely still perceived as a young person.
-- Squinting even though I can see the thing okay – it just feels like it helps. What can I say, apparently I love furrowing a brow in my 40s.
-- Walking with my arms behind my back, halmoni style
-  - This is so underrated and I genuinely enjoy this. Halmoni knows what’s up. It’s a natural chest opener and a huge alleviator[1](#fn:1) for when your arms feel too heavy (again, from carrying the weight of the world).
-- I’m mildly cranky a lot of the time. Complaining about things like “car headlights are way too bright these days!!” and “there are too many loud private helicopters flying over Brooklyn!!”
-  - I went to a backyard party several weeks ago and multiple loud private helicopters flew over us over the course of the afternoon and I took the opportunity to proselytize to the partygoers about the dangers of noise pollution and the private choppers taking rich people to and from the Hamptons are not supposed to take a flight path over residential Brooklyn but nobody enforces it. It was a pride party btw[2](#fn:2).
-  - Both of these things are objectively valid, by the way ( [headlights](https://www.softlights.org/education-vehicle-headlights/), [helicopters](https://stopthechopnynj.org/)). (And you better believe I signed both of those petitions because another thing I will do in my 40s is sign a petition to officially put my name on the record that I am ANNOYED!)
-- Having to wear house slippers 100% of the time. I bring them with me when I travel.
-- I don’t swear as much as I used to.
-  - Not that I was a total potty mouth or anything before, but idk, cursing just doesn’t have the same punch that it used to. (There are some people supposedly running this world who I wouldn’t mind if someone put an _actual_ curse on, though that’s unrelated.) Also, when I hear younger people swear I think _hmm you are not communicating as effectively as you think you are_.
-- Being ignored by younger people (non-derogatory and non-ageist; I don’t mean they’re ignoring me intentionally, I mean I am more aware of how I used to be so self-focused that I did not pay much attention to older people).
-  - I was sitting adjacent to 3 young friends at a sushi bar (clearly they hadn’t made a reservation, because who would make a reservation for 3 to sit at the bar). They all had their phones out, and all ordered the same special roll, and were all gussied up to go out after. It was somewhat amusing to observe because I remember those days in my own life, and in my mind I was kind of thinking “excuse me young people, i’ll have you know i used to be very cool and edgy” but there is nothing that makes me sound older than saying things like “i’ll have you know i used to be very cool and edgy” and “gussied up to go out”. I should rewrite this in a tone that sounds less disparaging because that is not my feeling and intention, more to just kind of amusedly observe and recognize something I hadn’t thought about in a while.
-- In the past few years, I’ve made friends with some older adults (in their 70s and 80s) in the neighborhood and circles I run in. They’re super active, more social than I am, and it’s been really cool to get to know older adults as friends and people, instead of as a “young person” who is naive and inexperienced interacting with an “old person” who is wise and frail – we learn from each other and it’s refreshing to be around people who are living fully and also don’t really have a filter. Midlife can feel lonely for me and part of it is that there aren’t many visible examples of what it looks like to age, that aren’t stereotypical or flattened or negative, so I’m super grateful to have made these friends.
-
-* * *
-
-1. Is “alleviator” a word? Probably not, and probably not in the way I meant it… looks like a portmanteau of “alligator” and “elevator”. Meh, I’m using it anyway. [↩︎](#fnref:1)
-
-2. Before you say “oh you must be real fun at parties”, I did get some people to listen and sign the petition, and one already knew about it and showed people how to check real time flight trackers to see what kind of helicopter it was, which I didn’t know about and appreciated!! If there’s one thing about older lesbians they will care about a cause and help you enforce it!!! One time I went to Hawaii and there was a sign on the black sand beach about how you had to stay at least 8 feet from the sea turtles and of course there were entitled tourists going way too close to the sea turtles and there was this older butch lesbian who basically just started enforcing the rule and speaking sternly to anyone who got too close and you could tell that the tourists had an attitude about it but they did back off, thankfully. To this day, whenever my partner and I see anyone protecting wildlife or standing up for the vulnerable or just generally getting shit done, we nod at each other and say “lesbian sea turtle energy” with great respect. [↩︎](#fnref:2)</source:markdown>
-      <guid>cid://https://kwon.nyc/notes/midlife-continues/</guid>
-    </item>    <item>
-      <title>On Mangione</title>
-      <link>https://dbarkhuff.substack.com/p/on-mangione</link>
-      <description>
-        <![CDATA[Luigi Mangione pleaded guilty yesterday, not to murder, but to two federal stalking charges arising from the killing of UnitedHealthcare CEO Brian Thompson.]]>
-      </description>
-      <source:markdown>Luigi Mangione pleaded guilty yesterday, not to murder, but to two federal stalking charges arising from the killing of UnitedHealthcare CEO Brian Thompson.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!CCJ2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e2b455d-9292-41dd-b123-aabcb914c5a5_1392x928.png" length="0" type="image/jpeg" />
-      <guid>cid://https://dbarkhuff.substack.com/p/on-mangione</guid>
-    </item>    <item>
-      <title>Vanessa Williamson on Taxes and Democracy</title>
-      <link>https://paulkrugman.substack.com/p/vanessa-williamson-on-taxes-and-democracy</link>
-      <description>
-        <![CDATA[What tax history teaches us about this dire moment]]>
-      </description>
-      <source:markdown>What tax history teaches us about this dire moment</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/211246988/b82ec95bba6b0bef96797817c7e406f2.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/vanessa-williamson-on-taxes-and-democracy</guid>
-    </item>    <item>
-      <title>Lit Hub Weekly: August 10 – 14, 2026</title>
-      <link>https://lithub.com/lit-hub-weekly-august-10-14-2026/</link>
-      <description>
-        <![CDATA[When a wealthy university donor can silence one of the world’s leading genocide scholars, it exposes the problem with for-profit higher education. &#124; Lit Hub Politics On The Catcher in the Rye at 75, Hemingway, and the influence of war]]>
-      </description>
-      <source:markdown>When a wealthy university donor can silence one of the world’s leading genocide scholars, it exposes the problem with for-profit higher education. \| Lit Hub Politics On The Catcher in the Rye at 75, Hemingway, and the influence of war</source:markdown>
-      <guid>cid://https://lithub.com/?p=275769</guid>
-      <category>Lit Hub Daily</category>
-    </item>    <item>
-      <title>logo-1.png - removed - external edit (Unknown date)</title>
-      <link>https://toolkit.wellgedacht.org/doku.php?image=logo-1.png&#38;ns=0&#38;rev=1786789266&#38;tab_details=history&#38;media_do=diff&#38;do=media</link>
-      <description>
-        <![CDATA[<img src="https://toolkit.wellgedacht.org/lib/exe/fetch.php?w=500&amp;h=500&amp;tok=5f3ab4&amp;media=logo-1.png" alt="logo-1.png" loading="lazy" width="500" height="500" />]]>
-      </description>
-      <source:markdown>![logo-1.png](https://toolkit.wellgedacht.org/lib/exe/fetch.php?w=500&#38;h=500&#38;tok=5f3ab4&#38;media=logo-1.png)</source:markdown>
-      <author>anonymous@undisclosed.example.com (Anonymous)</author>
-    </item>    <item>
-      <title>Transgender athletes are a red herring</title>
-      <link>https://www.publicnotice.co/p/trans-wnba</link>
-      <description>
-        <![CDATA[It's about excluding people from public life.]]>
-      </description>
-      <source:markdown>It&#39;s about excluding people from public life.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!BdhP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc8f4e6d-05b6-4100-b224-ce1a8fcf5499_2581x1721.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.publicnotice.co/p/trans-wnba</guid>
-    </item>    <item>
-      <title>Chíne tréile</title>
-      <link>https://adactio.com/journal/22716</link>
-      <description>
-        <![CDATA[<p>When I was immersed in the Irish language for a week <a href="https://adactio.com/journal/22709">in Donegal</a> last month, I made plenty of mistakes. But there’s one mistake that I’m actually quite pleased I made.</p>
-        
-        <p>The emphasis at <a href="https://www.oideasgael.ie/en">Oideas Gael</a> is on conversational Irish, so our teacher would often put us into groups of around four people to discuss a particular topic. On one occasion, the topic was food.</p>
-        
-        <p>We had some starter questions to ask one another to get the conversation going. One of the questions was about how we liked our eggs in the morning. One of my classmates described how her father, when he was in a hurry, would just crack an egg into a glass and gulp it straight down.</p>
-        
-        <p>If you’re like me, this will immediately make you think of <a href="https://www.youtube.com/watch?v=HF86HqHzfDw">that scene in <cite>Rocky</cite></a>. I wanted to say:</p>
-        
-        <blockquote lang="ga">Sin sa scannán <cite>Rocky</cite>!</blockquote>
-        
-        <p>…which means “that’s in the film <cite>Rocky</cite>!”.</p>
-        
-        <p>But what actually came out was:</p>
-        
-        <blockquote lang="ga">Sin sa rackán <cite>Sconny</cite>!</blockquote>
-        
-        <p>In my excitement, I made a <a href="https://en.wikipedia.org/wiki/Spoonerism">spoonerism</a>.</p>
-        
-        <p>I’ve come across spoonerisms in English like “my lord is shoving leopard” or “no wucking furries” and I’ve certainly made some myself. But this was the first time it had happened in Irish.</p>
-        
-        <p>Mistakes are never intentional, but something about this category of mistake felt different. Like, there must be a certain level of comfort with a language for your brain to make an off-the-cuff involuntary mix-up like that.</p>
-        
-        <p>There are well-known milestones in learning any language. Having your first dream in that language. Making your first pun. This felt kind of like that.</p>]]>
-      </description>
-      <source:markdown>When I was immersed in the Irish language for a week [in Donegal](https://adactio.com/journal/22709) last month, I made plenty of mistakes. But there’s one mistake that I’m actually quite pleased I made.
-
-The emphasis at [Oideas Gael](https://www.oideasgael.ie/en) is on conversational Irish, so our teacher would often put us into groups of around four people to discuss a particular topic. On one occasion, the topic was food.
-
-We had some starter questions to ask one another to get the conversation going. One of the questions was about how we liked our eggs in the morning. One of my classmates described how her father, when he was in a hurry, would just crack an egg into a glass and gulp it straight down.
-
-If you’re like me, this will immediately make you think of [that scene in Rocky](https://www.youtube.com/watch?v=HF86HqHzfDw). I wanted to say:
-
-&#62; Sin sa scannán Rocky!
-
-…which means “that’s in the film Rocky!”.
-
-But what actually came out was:
-
-&#62; Sin sa rackán Sconny!
-
-In my excitement, I made a [spoonerism](https://en.wikipedia.org/wiki/Spoonerism).
-
-I’ve come across spoonerisms in English like “my lord is shoving leopard” or “no wucking furries” and I’ve certainly made some myself. But this was the first time it had happened in Irish.
-
-Mistakes are never intentional, but something about this category of mistake felt different. Like, there must be a certain level of comfort with a language for your brain to make an off-the-cuff involuntary mix-up like that.
-
-There are well-known milestones in learning any language. Having your first dream in that language. Making your first pun. This felt kind of like that.</source:markdown>
-      <guid>cid://https://adactio.com/journal/22716</guid>
-      <category>irish</category>
-      <category>language</category>
-      <category>mistakes</category>
-      <category>spoonerisms</category>
-      <category>linguistics</category>
-      <category>donegal</category>
-      <category>oideasgael</category>
-      <category>learning</category>
-    </item>    <item>
-      <title>Dragoncatcher: The new funnel, part 2</title>
-      <link>https://www.robinsloan.com/lab/ai-funnel-2/</link>
-      <description>
-        <![CDATA[<p>The LLM sent me. <a href="https://www.robinsloan.com/lab/ai-funnel-2/">Read here.</a></p>]]>
-      </description>
-      <source:markdown>The LLM sent me. [Read here.](https://www.robinsloan.com/lab/ai-funnel-2/)</source:markdown>
-      <guid>cid://https://www.robinsloan.com/lab/ai-funnel-2/</guid>
-    </item>    <item>
-      <title>How to Dump the Trump | The Coffee Klatch for Saturday, August 15, 2026</title>
-      <link>https://robertreich.substack.com/p/how-to-dump-the-trump-the-coffee</link>
-      <description>
-        <![CDATA[With Heather Lofthouse and Kamau Bell]]>
-      </description>
-      <source:markdown>With Heather Lofthouse and Kamau Bell</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/211126036/6ceb07898c16a4ab88626ea11e0dc178.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://robertreich.substack.com/p/how-to-dump-the-trump-the-coffee</guid>
-    </item>    <item>
-      <title>August 14, 2026</title>
-      <link>https://heathercoxrichardson.substack.com/p/august-14-2026</link>
-      <description>
-        <![CDATA[Today the Trump administration asked the United States Supreme Court to let it build Trump&#8217;s ballroom where the East Wing of the White House used to be.]]>
-      </description>
-      <source:markdown>Today the Trump administration asked the United States Supreme Court to let it build Trump’s ballroom where the East Wing of the White House used to be.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!yKDv!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b47f775-3df7-41dd-8bc9-a64cdd72d948_600x600.png" length="0" type="image/jpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/august-14-2026</guid>
-    </item>    <item>
-      <title>Weeknotes: Aug. 8-14, 2026</title>
-      <link>https://tracydurnell.com/2026/08/14/weeknotes-aug-8-14-2026/</link>
-      <description>
-        <![CDATA[Win of the week: printed off a bunch of PDFs I&#8217;ve collected because I am never going to get around to reading them otherwise &#8212; already have read two of them 🦾 Looking forward to: got some big ol peaches, hope they&#8217;re good ones! gotta binge on stone fruit in the summer Stuff I did: [&#8230;]]]>
-      </description>
-      <source:markdown>Win of the week: printed off a bunch of PDFs I’ve collected because I am never going to get around to reading them otherwise — already have read two of them 🦾 Looking forward to: got some big ol peaches, hope they’re good ones! gotta binge on stone fruit in the summer Stuff I did: \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=39670</guid>
-      <category>Weeknotes</category>
-      <category>personal</category>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/117097129970289094</link>
-      <description>
-        <![CDATA[<p>Two days in Instruments.</p><p>This includes Ghostty&#39;s IO system and the elimination of swift_beginAccess in most places:</p>]]>
-      </description>
-      <source:markdown>Two days in Instruments.
-
-This includes Ghostty&#39;s IO system and the elimination of swift\_beginAccess in most places:</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/117097129970289094</guid>
-    </item>    <item>
-      <title>Why I ported Moonshine to Javascript</title>
-      <link>https://petewarden.com/2026/08/15/why-i-ported-moonshine-to-javascript/</link>
-      <description>
-        <![CDATA[One of the most common requests I’ve heard from developers is an in-browser version of Moonshine that can run on a web page. In theory this should be straightforward &#8211; we already built MoonshineJS for the previous generation of models, and the core library is written in portable C++, so emscripten can compile it into [&#8230;]]]>
-      </description>
-      <source:markdown>One of the most common requests I’ve heard from developers is an in-browser version of Moonshine that can run on a web page. In theory this should be straightforward – we already built MoonshineJS for the previous generation of models, and the core library is written in portable C++, so emscripten can compile it into \[…\]</source:markdown>
-      <guid>cid://http://petewarden.com/?p=8200</guid>
-      <category>Uncategorized</category>
-      <category>ai</category>
-      <category>artificial-intelligence</category>
-      <category>javascript</category>
-      <category>llm</category>
-      <category>technology</category>
     </item>
   </channel>
 </rss>
