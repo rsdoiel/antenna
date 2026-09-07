@@ -4,10 +4,44 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>06 Sep 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>07 Sep 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Avenger release completes the set of Code the Classics Volume 2 conversions</title>
+      <link>http://www.iconbar.com/comments/rss/news2375.html</link>
+      <description>
+        <![CDATA[Jeroen has completed his project to port all the games from Code the Classics Volume 2 to RISC OS with the completion of Avenger.]]>
+      </description>
+      <source:markdown>Jeroen has completed his project to port all the games from Code the Classics Volume 2 to RISC OS with the completion of Avenger.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2375.html</guid>
+    </item>    <item>
+      <title>Avenger release completes the set of Code the Classics Volume 2 conversions</title>
+      <link>http://www.acornarcade.com/comments/rss/news2375.html</link>
+      <description>
+        <![CDATA[Jeroen has completed his project to port all the games from Code the Classics Volume 2 to RISC OS with the completion of Avenger.]]>
+      </description>
+      <source:markdown>Jeroen has completed his project to port all the games from Code the Classics Volume 2 to RISC OS with the completion of Avenger.</source:markdown>
+      <guid>cid://http://www.acornarcade.com/comments/rss/news2375.html</guid>
+    </item>    <item>
+      <title>Font Directory Pro 3.24 reviewed</title>
+      <link>http://www.iconbar.com/comments/rss/news2374.html</link>
+      <description>
+        <![CDATA[It's been 8 years since the last release of Font Directory Pro but it remains a tool I use every day. It was originally from LOOKsystems and now sold and supported by Elesar. So I was really pleased to receive an email from them with news of an update (free to existing customers). 
+        What problem does Font Directory Pro solve?]]>
+      </description>
+      <source:markdown>It&#39;s been 8 years since the last release of Font Directory Pro but it remains a tool I use every day. It was originally from LOOKsystems and now sold and supported by Elesar. So I was really pleased to receive an email from them with news of an update (free to existing customers).
+What problem does Font Directory Pro solve?</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2374.html</guid>
+    </item>    <item>
+      <title>b.log 2026/09/2026 - Coding with the help of AI, LCD weather station decoding, blogme bot, And no one heard at all not even the chair, HP sucks, Weird RISC OS error.</title>
+      <link>https://heyrick.eu/blog/entry/20260906</link>
+      <description>
+        <![CDATA[Coding with the help of AI, LCD weather station decoding, blogme bot, And no one heard at all not even the chair, HP sucks, Weird RISC OS error.]]>
+      </description>
+      <source:markdown>Coding with the help of AI, LCD weather station decoding, blogme bot, And no one heard at all not even the chair, HP sucks, Weird RISC OS error.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20260906</guid>
+    </item>    <item>
       <title>RISC OS Open source developments weekly update (5th September 2026)</title>
       <link>http://www.iconbar.com/comments/rss/news2373.html</link>
       <description>
@@ -402,14 +436,6 @@
       <category>Meeting</category>
       <category>ROUGOL</category>
       <category>User Group</category>
-    </item>    <item>
-      <title>b.log 2026/08/16 - Today is the day!, Other stuff, EDF app estimations.</title>
-      <link>https://heyrick.eu/blog/entry/20260816</link>
-      <description>
-        <![CDATA[Today is the day!, Other stuff, EDF app estimations.]]>
-      </description>
-      <source:markdown>Today is the day!, Other stuff, EDF app estimations.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260816</guid>
     </item>
   </channel>
 </rss>

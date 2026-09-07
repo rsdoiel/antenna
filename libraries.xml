@@ -4,10 +4,35 @@
   <channel>
     <title><![CDATA[GLAM]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>06 Sep 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>07 Sep 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Rogue Scholar has archived all blog posts as PDF</title>
+      <link>https://blog.front-matter.de/posts/rogue-scholar-has-archived-all-blog-posts-as-pdf/</link>
+      <description>
+        <![CDATA[<p>The <a href="https://rogue-scholar.org" rel="noreferrer">Rogue Scholar science blog archive</a> has now archived all its currently 55,730 blog posts as PDF files. These PDF files use the archival PDF/A-3A format and include the full-text HTML blog post with metadata embedded as Schema.org attachment, and their PDF URLs are included</p>]]>
+      </description>
+      <source:markdown>The [Rogue Scholar science blog archive](https://rogue-scholar.org) has now archived all its currently 55,730 blog posts as PDF files. These PDF files use the archival PDF/A-3A format and include the full-text HTML blog post with metadata embedded as Schema.org attachment, and their PDF URLs are included</source:markdown>
+      <guid>cid://6a9ea0805184f900019e9f92</guid>
+      <category>Rogue Scholar</category>
+      <category>Commonmeta</category>
+      <category>InvenioRDM</category>
+    </item>    <item>
+      <title>Accountability, Integrity: AI Policy in Public Libraries (New Journal Article)</title>
+      <link>https://www.infodocket.com/2026/09/06/accountability-integrity-ai-policy-in-public-libraries-new-journal-article/</link>
+      <description>
+        <![CDATA[<p>The article linked below was published by Public Library Quarterly. Title Accountability, Integrity: AI Policy in Public Libraries Authors Kathryn FitzGerald University of Washington Benjamin Lee University of Washington Source Public Library Quarterly DOI: 10.1080/01616846.2026.2725502 Abstract As artificial intelligence reshapes both library work and the information environment, public libraries must determine whether or how to [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/09/06/accountability-integrity-ai-policy-in-public-libraries-new-journal-article/">Accountability, Integrity: AI Policy in Public Libraries (New Journal Article)</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>The article linked below was published by Public Library Quarterly. Title Accountability, Integrity: AI Policy in Public Libraries Authors Kathryn FitzGerald University of Washington Benjamin Lee University of Washington Source Public Library Quarterly DOI: 10.1080/01616846.2026.2725502 Abstract As artificial intelligence reshapes both library work and the information environment, public libraries must determine whether or how to \[…\]
+
+The post [Accountability, Integrity: AI Policy in Public Libraries (New Journal Article)](https://www.infodocket.com/2026/09/06/accountability-integrity-ai-policy-in-public-libraries-new-journal-article/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=168771</guid>
+      <category>Libraries</category>
+      <category>News</category>
+      <category>Public Libraries</category>
+    </item>    <item>
       <title>Machine Capabilities at a Human Scale: Get to Know the Revolution Crossroads Initiative</title>
       <link>https://blogs.loc.gov/thesignal/2026/09/revolution-crossroads/</link>
       <description>
@@ -1413,15 +1438,6 @@ The post [Community: The Key to Effective Digital Preservation Strategy](https:/
       <category>Digital Preservation</category>
       <category>Digital Preservation Community</category>
       <category>Tips</category>
-    </item>    <item>
-      <title>Vintage Artificial Intelligence: Before It Got Awkward</title>
-      <link>https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/</link>
-      <description>
-        <![CDATA[Long before the current kerfuffle about LLMs, Generative AI Artwork, and asking your tax preparation chatbot for a cookie recipe, the concept of artificial intelligence and synthetic life was a [&#8230;]]]>
-      </description>
-      <source:markdown>Long before the current kerfuffle about LLMs, Generative AI Artwork, and asking your tax preparation chatbot for a cookie recipe, the concept of artificial intelligence and synthetic life was a \[…\]</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=30816</guid>
-      <category>News</category>
     </item>
   </channel>
 </rss>

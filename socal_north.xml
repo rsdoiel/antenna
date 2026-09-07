@@ -5,10 +5,34 @@
     <title><![CDATA[SoCal North]]></title>
     <description><![CDATA[News and posts related to the greater North Los Angeles and adjacent counties.]]></description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>06 Sep 26 06:30 -0700</lastBuildDate>
+    <lastBuildDate>07 Sep 26 06:30 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Data from 911 calls at ICE detention centers must be released under bill going to Newsom</title>
+      <link>https://laist.com/news/politics/data-from-911-calls-at-ice-detention-centers-must-be-released-under-bill-going-to-gov-newsom</link>
+      <description>
+        <![CDATA[The California Legislature passed a bill that would force disclosure of information about emergency calls at immigrant detention centers.]]>
+      </description>
+      <source:markdown>The California Legislature passed a bill that would force disclosure of information about emergency calls at immigrant detention centers.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-6970-d6a5-a9f8-effa6f4e0000</guid>
+    </item>    <item>
+      <title>Rain has arrived in Southern California. We have the forecast, heads-ups on risks and more</title>
+      <link>https://laist.com/news/climate-environment/rain-has-arrived-heres-the-forecast</link>
+      <description>
+        <![CDATA[Expect rain throughout the day.]]>
+      </description>
+      <source:markdown>Expect rain throughout the day.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-774e-d6d6-a9f1-777ff94f0000</guid>
+    </item>    <item>
+      <title>Final cleanup of Boyle Heights warehouse is complete, Lineage says. What&#39;s next</title>
+      <link>https://laist.com/news/final-cleanup-of-boyle-heights-warehouse-is-complete-lineage-says-whats-next</link>
+      <description>
+        <![CDATA[Last weekend, the company finished removing some 88 million pounds of rotting food waste at the burned cold storage site.]]>
+      </description>
+      <source:markdown>Last weekend, the company finished removing some 88 million pounds of rotting food waste at the burned cold storage site.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-76e3-d4e7-a3ad-7febd0440000</guid>
+    </item>    <item>
       <title>Inside the Burbank vintage store with a built-in bee museum</title>
       <link>https://laist.com/news/los-angeles-activities/burbank-honey-bee-museum-hive-hanger</link>
       <description>
@@ -99,6 +123,14 @@ The post [Robbie Conal, L.A’s Most Infamous Street Art Firebrand, Is Still Fla
       </description>
       <source:markdown>Karen Bass and Nithya Raman detailed their environmental platforms at the Thursday night event and painted two different pictures of Los Angeles.</source:markdown>
       <guid>cid://urn:uuid:000001a0-6d9e-df12-adae-ffdf3b960000</guid>
+    </item>    <item>
+      <title>Harmful algal bloom shuts down swimming in Riverside County’s Lake Hemet</title>
+      <link>https://laist.com/news/climate-environment/harmful-algal-bloom-shuts-down-swimming-in-riverside-countys-lake-hemet</link>
+      <description>
+        <![CDATA[Visitors and residents are being urged to keep people and pets out of the water.]]>
+      </description>
+      <source:markdown>Visitors and residents are being urged to keep people and pets out of the water.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-6db3-dfde-a1bb-effb2bc00000</guid>
     </item>    <item>
       <title>Beijing’s Crispy Bing Burgers Are Coming to the SGV This Week</title>
       <link>https://lataco.com/bingz-crispy-chinese-burger</link>
@@ -204,7 +236,7 @@ The post [Panorama Runs Through and Over Fulton Jaguars 52-12](https://sanfernan
       <category>Metro Forecast</category>
       <category>Weekend Events</category>
     </item>    <item>
-      <title>What to know about the mail-in voting fight at the Supreme Court</title>
+      <title>Trump again asks Supreme Court to allow USPS plan to restrict mail-in voting</title>
       <link>https://laist.com/news/politics/trump-asks-supreme-court-to-lift-block-on-usps-plan-to-restrict-mail-voting</link>
       <description>
         <![CDATA[The Trump administration has asked the Supreme Court to lift a temporary block on the USPS plan for Trump's attempt to restrict mail-in voting for the midterm election.]]>
@@ -630,6 +662,14 @@ The post [Dig Deep Theatre Returns to the Stage Following Fire at The MAIN](http
       </description>
       <source:markdown>A Long Beach state lawmaker authored rules on the forefront of regulating Instagram, TikTok, Snapchat, Facebook and YouTube.</source:markdown>
       <guid>cid://urn:uuid:000001a0-62e3-d356-a1f7-77e3d3420000</guid>
+    </item>    <item>
+      <title>Nearly 800 households are eligible for Lineage recovery assistance. See if you qualify</title>
+      <link>https://laist.com/news/climate-environment/nearly-800-households-are-eligible-for-lineage-recovery-assistance-see-if-you-qualify</link>
+      <description>
+        <![CDATA[The map to determine who is eligible for resources from air purifiers to grocery vouchers was recently expanded into a larger part of East L.A.]]>
+      </description>
+      <source:markdown>The map to determine who is eligible for resources from air purifiers to grocery vouchers was recently expanded into a larger part of East L.A.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-62c7-d6d6-a9f1-67f7bb9f0000</guid>
     </item>    <item>
       <title>Best things to do in LA and SoCal: Sept. 2-9</title>
       <link>https://laist.com/news/arts-and-entertainment/best-things-to-do/music-arts-events-weekly-weekend-los-angeles-sept-2-9</link>
@@ -2718,69 +2758,6 @@ figure out what came next.</source:markdown>
       </description>
       <source:markdown>A new eagle, known as KD1, has been seen hanging out with Shadow lately — and fans have mixed feelings.</source:markdown>
       <guid>cid://urn:uuid:0000019f-fd7e-d96d-afbf-fffe203c0000</guid>
-    </item>    <item>
-      <title>Tommy John, namesake for a pioneering elbow surgery that saved his career, dead at 83</title>
-      <link>https://laist.com/news/tommy-john-namesake-for-a-pioneering-elbow-surgery-that-saved-his-career-dead-at-83</link>
-      <description>
-        <![CDATA[John played for the Dodgers from 1972-74 and 1976-78.]]>
-      </description>
-      <source:markdown>John played for the Dodgers from 1972-74 and 1976-78.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-0bce-d68f-a9b3-2bffc8ee0000</guid>
-    </item>    <item>
-      <title>Back-to-school supplies giveaways: Free backpacks, haircuts and more in Long Beach</title>
-      <link>https://laist.com/news/back-to-school-supplies-giveaways-free-backpacks-haircuts-and-more-in-long-beach</link>
-      <description>
-        <![CDATA[Long Beach Unified School District schools open for the new school year on Tuesday, Aug. 25, 2026]]>
-      </description>
-      <source:markdown>Long Beach Unified School District schools open for the new school year on Tuesday, Aug. 25, 2026</source:markdown>
-      <guid>cid://urn:uuid:000001a0-0b5d-d68f-a9b3-2b7f818d0000</guid>
-    </item>    <item>
-      <title>Sunday Taquitos #31: “For Sale: Basketball Team, Never Won” (Plus Bonus Taquitos!)</title>
-      <link>https://lataco.com/sunday-taquitos-31-for-sale-basketball-team-never-won</link>
-      <description>
-        <![CDATA[<p>Sunday Taquitos! Art by Pulitzer Prize Finalist Ivan Ehlers.</p>
-        <p>The post <a href="https://lataco.com/sunday-taquitos-31-for-sale-basketball-team-never-won">Sunday Taquitos #31: “For Sale: Basketball Team, Never Won&#8221; (Plus Bonus Taquitos!)</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>Sunday Taquitos! Art by Pulitzer Prize Finalist Ivan Ehlers.
-
-The post [Sunday Taquitos #31: “For Sale: Basketball Team, Never Won” (Plus Bonus Taquitos!)](https://lataco.com/sunday-taquitos-31-for-sale-basketball-team-never-won) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=182479</guid>
-      <category>Art</category>
-      <category>Comix</category>
-      <category>Culture</category>
-      <category>Sunday Taquitos</category>
-    </item>    <item>
-      <title>Inside Flask &#38; Field’s natural wine happy hours in DTLA</title>
-      <link>https://laist.com/news/los-angeles-activities/inside-flask-fields-natural-wine-happy-hours-in-dtla</link>
-      <description>
-        <![CDATA[Former entertainment lawyer Miriam Yoo curates natural wines, zero-proof spirits, gifts and free weekend tastings at ROW DTLA]]>
-      </description>
-      <source:markdown>Former entertainment lawyer Miriam Yoo curates natural wines, zero-proof spirits, gifts and free weekend tastings at ROW DTLA</source:markdown>
-      <guid>cid://urn:uuid:000001a0-05b2-dca8-a3be-25be6d060000</guid>
-    </item>    <item>
-      <title>Is there a summer COVID-19 surge this year? Yep, it&#39;s ramping up again</title>
-      <link>https://laist.com/news/health/is-there-a-summer-covid-19-surge-this-year-yep-its-ramping-up-again</link>
-      <description>
-        <![CDATA[Just like all previous summers since the pandemic began, COVID-19 cases are ticking up again, even while other health threats make more headlines.]]>
-      </description>
-      <source:markdown>Just like all previous summers since the pandemic began, COVID-19 cases are ticking up again, even while other health threats make more headlines.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-0afa-dca8-a3be-2bfee26c0000</guid>
-    </item>    <item>
-      <title>The OC helped shape Philip K Dick. A festival in Fullerton celebrates the sci-fi writer</title>
-      <link>https://laist.com/news/los-angeles-activities/philip-k-dick-festival-cal-state-fullerton</link>
-      <description>
-        <![CDATA[The Philip K. Dick Festival beams into Cal State Fullerton Aug. 20-23.]]>
-      </description>
-      <source:markdown>The Philip K. Dick Festival beams into Cal State Fullerton Aug. 20-23.</source:markdown>
-      <guid>cid://urn:uuid:0000019f-fd42-d7bf-a1df-fd46c8970000</guid>
-    </item>    <item>
-      <title>How San Francisco’s ridiculous housing prices are defining the race to replace Pelosi</title>
-      <link>https://laist.com/news/how-san-franciscos-ridiculous-housing-prices-are-defining-the-race-to-replace-pelosi</link>
-      <description>
-        <![CDATA[The race to succeed Nancy Pelosi as San Francisco’s representative in Congress features two Democratic candidates, who both claim the title of “progressive."]]>
-      </description>
-      <source:markdown>The race to succeed Nancy Pelosi as San Francisco’s representative in Congress features two Democratic candidates, who both claim the title of “progressive.&#34;</source:markdown>
-      <guid>cid://urn:uuid:000001a0-06ae-ddac-a9ff-8fee910c0000</guid>
     </item>
   </channel>
 </rss>

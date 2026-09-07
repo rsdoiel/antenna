@@ -5,7 +5,7 @@
     <title><![CDATA[Columns]]></title>
     <description><![CDATA[Blogs, columns and snapshots from around the web.]]></description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>06 Sep 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>07 Sep 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -36,6 +36,430 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <title>Rogue Scholar has archived all blog posts as PDF</title>
+      <link>https://blog.front-matter.de/posts/rogue-scholar-has-archived-all-blog-posts-as-pdf/</link>
+      <description>
+        <![CDATA[The Rogue Scholar science blog archive has now archived all its currently 55,730 blog posts as PDF files. These PDF files use the archival PDF/A-3A format and include the full-text HTML blog post with metadata embedded as Schema.org attachment, and their PDF URLs are included]]>
+      </description>
+      <source:markdown>The Rogue Scholar science blog archive has now archived all its currently 55,730 blog posts as PDF files. These PDF files use the archival PDF/A-3A format and include the full-text HTML blog post with metadata embedded as Schema.org attachment, and their PDF URLs are included</source:markdown>
+      <guid>cid://https://doi.org/10.53731/apaab-tkq88</guid>
+      <category>Rogue Scholar</category>
+      <category>Commonmeta</category>
+      <category>InvenioRDM</category>
+    </item>    <item>
+      <title>Research Workflows</title>
+      <link>https://kieranhealy.org/blog/archives/2026/09/07/research-workflows/</link>
+      <description>
+        <![CDATA[<p>I&rsquo;m teaching <a href="https://mptc.io">MPTC</a> again this semester and have been developing a few workflow slides. Here&rsquo;s a popular one.</p>
+        <figure><a href="https://kieranhealy.org/blog/archives/2026/09/07/research-workflows/research-workflow-ted-edition.png" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2026/09/07/research-workflows/research-workflow-ted-edition.png"
+                 alt="A description of a broadly data science workflow of the sort followed by someone who likes to let&#39;s say augment their results the better to ensure their publishabiltiy."/></a><figcaption>
+                    <p>The Scientific Process.</p>
+                </figcaption>
+        </figure>
+        <p>Now if you&rsquo;ll excuse me there&rsquo;s a mandatory webinar I need to click through.</p>]]>
+      </description>
+      <source:markdown>I’m teaching [MPTC](https://mptc.io) again this semester and have been developing a few workflow slides. Here’s a popular one.
+
+[![A description of a broadly data science workflow of the sort followed by someone who likes to let&#39;s say augment their results the better to ensure their publishabiltiy.](https://kieranhealy.org/blog/archives/2026/09/07/research-workflows/research-workflow-ted-edition.png)](https://kieranhealy.org/blog/archives/2026/09/07/research-workflows/research-workflow-ted-edition.png)
+
+The Scientific Process.
+
+Now if you’ll excuse me there’s a mandatory webinar I need to click through.</source:markdown>
+      <guid>cid://https://kieranhealy.org/blog/archives/2026/09/07/research-workflows/</guid>
+    </item>    <item>
+      <title>The Medievalization of Work and the Cooperative Cure</title>
+      <link>https://literatemachine.com/2026/09/07/the-medievalization-of-work-and-the-cooperative-cure/</link>
+      <description>
+        <![CDATA[Video Version &#124; Audio Version You ever feel like what you do doesn’t matter? That every day you work at a job that doesn’t do anything good for the world and only exists to make money for shareholders, the vast majority of whom are already rich? You ever feel like the work that you dedicate<p><a href="https://literatemachine.com/2026/09/07/the-medievalization-of-work-and-the-cooperative-cure/" class="more-link themebutton">Read More</a></p>]]>
+      </description>
+      <source:markdown>Video Version \| Audio Version You ever feel like what you do doesn’t matter? That every day you work at a job that doesn’t do anything good for the world and only exists to make money for shareholders, the vast majority of whom are already rich? You ever feel like the work that you dedicate
+
+[Read More](https://literatemachine.com/2026/09/07/the-medievalization-of-work-and-the-cooperative-cure/)</source:markdown>
+      <guid>cid://https://literatemachine.com/?p=1480</guid>
+      <category>Uncategorized</category>
+    </item>    <item>
+      <title>Hardware discount for The Document Foundation members</title>
+      <link>https://blog.documentfoundation.org/blog/2026/09/07/hardware-discount-for-the-document-foundation-members/</link>
+      <description>
+        <![CDATA[The Document Foundation is the non-profit organisation that coordinates the LibreOffice community. Anyone who contributes to the project can apply to become a member of the foundation, and join the over 200 existing members. We&#8217;ve also partnered with TUXEDO, a laptop vendor based in Germany that offers Linux-powered machines, to]]>
+      </description>
+      <source:markdown>The Document Foundation is the non-profit organisation that coordinates the LibreOffice community. Anyone who contributes to the project can apply to become a member of the foundation, and join the over 200 existing members. We’ve also partnered with TUXEDO, a laptop vendor based in Germany that offers Linux-powered machines, to</source:markdown>
+      <guid>cid://https://blog.documentfoundation.org/?p=18090</guid>
+      <category>Foundation</category>
+    </item>    <item>
+      <title>Neo-Nazis and the Impotence of Trumponomics</title>
+      <link>https://paulkrugman.substack.com/p/neo-nazis-and-the-impotence-of-trumponomics</link>
+      <description>
+        <![CDATA[Crude economics doesn&#8217;t explain what just happened]]>
+      </description>
+      <source:markdown>Crude economics doesn’t explain what just happened</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!ko6B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3282c6b-129f-4063-beb4-0594571b313c_1280x720.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/neo-nazis-and-the-impotence-of-trumponomics</guid>
+    </item>    <item>
+      <title>Automobile Camouflage to Hide from Flock Cameras</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html</link>
+      <description>
+        <![CDATA[<p>Not sure it&#8217;s practical, but it&#8217;s certainly <a href="https://www.bitdefender.com/en-us/blog/hotforsecurity/invisible-car-machine-learning-hide-vehicle-flock-cameras">striking</a>.</p>]]>
+      </description>
+      <source:markdown>Not sure it’s practical, but it’s certainly [striking](https://www.bitdefender.com/en-us/blog/hotforsecurity/invisible-car-machine-learning-hide-vehicle-flock-cameras).</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=72548</guid>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>cars</category>
+      <category>privacy</category>
+      <category>surveillance</category>
+    </item>    <item>
+      <title>JD Vance Says Labor Day Should Celebrate Women who go Through Labor</title>
+      <link>https://www.borowitzreport.com/p/jd-vance-says-labor-day-should-celebrate-b32</link>
+      <description>
+        <![CDATA[&#8220;The woke mob has distorted the true meaning of Labor Day,&#8221; Vance said.]]>
+      </description>
+      <source:markdown>“The woke mob has distorted the true meaning of Labor Day,” Vance said.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!o8ic!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1469e96a-0132-44d5-8fa0-422fbd419a09_1024x683.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/jd-vance-says-labor-day-should-celebrate-b32</guid>
+    </item>    <item>
+      <title>American Kafala</title>
+      <link>https://lpeproject.org/blog/american-kafala/</link>
+      <description>
+        <![CDATA[Under the kafala system, tens of millions of migrant workers across the Levant and Gulf have their legal residency tied to a single employer, leaving them vulnerable to exploitation and state control. In the United States, the Trump administration’s attacks on both undocumented and legally present migrants threaten to consolidate a similar regime of labor extraction and migrant precarity.]]>
+      </description>
+      <source:markdown>Under the kafala system, tens of millions of migrant workers across the Levant and Gulf have their legal residency tied to a single employer, leaving them vulnerable to exploitation and state control. In the United States, the Trump administration’s attacks on both undocumented and legally present migrants threaten to consolidate a similar regime of labor extraction and migrant precarity.</source:markdown>
+      <guid>cid://https://lpeproject.org/?p=13004</guid>
+      <category>Essay</category>
+      <category>Labor</category>
+      <category>Racial Capitalism</category>
+      <category>Transnational LPE</category>
+    </item>    <item>
+      <title>Arguments in Favor of AI Fair Use</title>
+      <link>https://kk.org/thetechnium/arguments-in-favor-of-ai-fair-use/</link>
+      <description>
+        <![CDATA[I made some notes on the nature of the training of LLMs, and about whether we as a society should consider the material used to train them as a fair use of that material. I believe it would be best &#8230; <a href="https://kk.org/thetechnium/arguments-in-favor-of-ai-fair-use/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>I made some notes on the nature of the training of LLMs, and about whether we as a society should consider the material used to train them as a fair use of that material. I believe it would be best … [Continue reading →](https://kk.org/thetechnium/arguments-in-favor-of-ai-fair-use/)</source:markdown>
+      <guid>cid://https://kk.org/thetechnium/?p=8238</guid>
+    </item>    <item>
+      <title>Build a digitally sovereign second brain</title>
+      <link>https://www.raspberrypi.com/news/build-a-digitally-sovereign-second-brain/</link>
+      <description>
+        <![CDATA[<p>Build a system to keep information and notes organised, searchable, synchronised, and backed up using Raspberry Pi.</p>
+        <p>The post <a href="https://www.raspberrypi.com/news/build-a-digitally-sovereign-second-brain/">Build a digitally sovereign second brain</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <source:markdown>Build a system to keep information and notes organised, searchable, synchronised, and backed up using Raspberry Pi.
+
+The post [Build a digitally sovereign second brain](https://www.raspberrypi.com/news/build-a-digitally-sovereign-second-brain/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
+      <guid>cid://https://www.raspberrypi.com/?p=139889</guid>
+      <category>Raspberry Pi 500</category>
+      <category>Raspberry Pi OS</category>
+    </item>    <item>
+      <title>Trump’s colonialist Venezuela fever dream</title>
+      <link>https://www.publicnotice.co/p/trump-venezuela-oil-deal</link>
+      <description>
+        <![CDATA[Pillaging resources like this is the stuff of fascist regimes.]]>
+      </description>
+      <source:markdown>Pillaging resources like this is the stuff of fascist regimes.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!xmHP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa58b65fa-5556-4788-9d1c-28ba76234565_6192x4128.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.publicnotice.co/p/trump-venezuela-oil-deal</guid>
+    </item>    <item>
+      <title>The things you can do with DNA...</title>
+      <link>http://statusq.org/archives/2026/09/07/13699/</link>
+      <description>
+        <![CDATA[<p data-block-key="q3us3">My friend <a href="https://turiking.co.uk">Turi King</a> is perhaps best known for the DNA analysis identifying Richard III's remains when they were found in that Leicester car park. She also hosts the BBC TV series <a href="https://www.bbc.co.uk/iplayer/episodes/m000sthc/dna-family-secrets">DNA Family Secrets</a>, with Stacy Dooley.</p><p data-block-key="7v69b">Her recent book, "<a href="https://www.amazon.co.uk/Secrets-our-DNA-Award-Winning-Scientist/dp/0857529102/ref=sr_1_1?crid=ZFI1V1FVBY91&amp;dib=eyJ2IjoiMSJ9.8MMBHdHzXiw0KRjfmjl_kH4G0AjDMG70FGW15msCzn9qS6-dUZjvTFDaFePZccSigIuVQ9S_0c3txSLVixcfAm19uCHopFIEThHwUWtRhMJ6jdtTL_3btOtkDzK8PeL3CvIGwc33HAhBTqpTuuRZFFmCDUorSEzqA-HUdnVOZ3Y.P5dBM-IclgEUao8dS0L9UUEAR_3I64gOFDHNikj42ng&amp;dib_tag=se&amp;keywords=the+secrets+of+our+dna&amp;qid=1788776402&amp;sprefix=the+secrets+of+our+%2Caps%2C260&amp;sr=8-1">The Secrets of our DNA</a>", is a very readable way to learn about the history of DNA analysis, what can and can't be done at a crime scene, how many children Thomas Jefferson actually had, and the role DNA analysis played in the recent lives of O.J. Simpson and Angelina Jolie, to name just a few. I say it's readable, though I'm actually <i>listening</i> to the audiobook (which Turi narrates very nicely) on my daily dog-walk.</p><p data-block-key="56i4s">So I know a lot more about DNA then I did a few weeks ago, but I was still pleasantly surprised by an article <a href="https://memex.naughtons.org/monday-7-september-2026/42668/">John Naughton</a> linked to recently. It explains how you can learn about historical livestock diseases from medieval documents... but perhaps <a href="https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/">not in the way you'd expect</a>!</p><p data-block-key="6907r"></p>]]>
+      </description>
+      <source:markdown>My friend [Turi King](https://turiking.co.uk) is perhaps best known for the DNA analysis identifying Richard III&#39;s remains when they were found in that Leicester car park. She also hosts the BBC TV series [DNA Family Secrets](https://www.bbc.co.uk/iplayer/episodes/m000sthc/dna-family-secrets), with Stacy Dooley.
+
+Her recent book, &#34; [The Secrets of our DNA](https://www.amazon.co.uk/Secrets-our-DNA-Award-Winning-Scientist/dp/0857529102/ref=sr_1_1?crid=ZFI1V1FVBY91&#38;dib=eyJ2IjoiMSJ9.8MMBHdHzXiw0KRjfmjl_kH4G0AjDMG70FGW15msCzn9qS6-dUZjvTFDaFePZccSigIuVQ9S_0c3txSLVixcfAm19uCHopFIEThHwUWtRhMJ6jdtTL_3btOtkDzK8PeL3CvIGwc33HAhBTqpTuuRZFFmCDUorSEzqA-HUdnVOZ3Y.P5dBM-IclgEUao8dS0L9UUEAR_3I64gOFDHNikj42ng&#38;dib_tag=se&#38;keywords=the+secrets+of+our+dna&#38;qid=1788776402&#38;sprefix=the+secrets+of+our+%2Caps%2C260&#38;sr=8-1)&#34;, is a very readable way to learn about the history of DNA analysis, what can and can&#39;t be done at a crime scene, how many children Thomas Jefferson actually had, and the role DNA analysis played in the recent lives of O.J. Simpson and Angelina Jolie, to name just a few. I say it&#39;s readable, though I&#39;m actually _listening_ to the audiobook (which Turi narrates very nicely) on my daily dog-walk.
+
+So I know a lot more about DNA then I did a few weeks ago, but I was still pleasantly surprised by an article [John Naughton](https://memex.naughtons.org/monday-7-september-2026/42668/) linked to recently. It explains how you can learn about historical livestock diseases from medieval documents... but perhaps [not in the way you&#39;d expect](https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/)!</source:markdown>
+      <guid>cid://http://statusq.org/archives/2026/09/07/13699/</guid>
+    </item>    <item>
+      <title>Tech needs humanists more than ever</title>
+      <link>https://passo.uno/tech-needs-humanists-more-than-ever/</link>
+      <description>
+        <![CDATA[<blockquote>
+        <p><em>Whoever speaks badly, thinks badly and lives badly. We must find the right words: words are important! —</em><a href="https://www.youtube.com/watch?v=wAsaOs0iUUk">Nanni Moretti</a></p>
+        </blockquote>
+        <p>A reader reached out to me the other day to talk about the future of tech writing as a profession. They asked me a pretty good question: What skills would you prioritize in this age of constant change and uncertainty? Is it AI? Maybe coding? Well, not really.</p>]]>
+      </description>
+      <source:markdown>&#62; _Whoever speaks badly, thinks badly and lives badly. We must find the right words: words are important! —_ [Nanni Moretti](https://www.youtube.com/watch?v=wAsaOs0iUUk)
+
+A reader reached out to me the other day to talk about the future of tech writing as a profession. They asked me a pretty good question: What skills would you prioritize in this age of constant change and uncertainty? Is it AI? Maybe coding? Well, not really.</source:markdown>
+      <guid>cid://https://passo.uno/tech-needs-humanists-more-than-ever/</guid>
+    </item>    <item>
+      <title>From me to you</title>
+      <link>https://robertreich.substack.com/p/from-me-to-you</link>
+      <description>
+        <![CDATA[A special day (and I&#8217;m taking it off)]]>
+      </description>
+      <source:markdown>A special day (and I’m taking it off)</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!lIGa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e461da3-ae72-42e2-9df7-4727cd5c03a7_2501x3500.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/from-me-to-you</guid>
+    </item>    <item>
+      <title>Community Member Monday: Tulio Macedo</title>
+      <link>https://blog.documentfoundation.org/blog/2026/09/07/community-member-monday-tulio-macedo/</link>
+      <description>
+        <![CDATA[Tell us what you&#8217;re doing in the LibreOffice project, and other free and open source (FOSS) projects! I&#8217;m a member of the Brazilian documentation team, officially since 2017. I spent most of that time working on translation and localisation, but lately I&#8217;ve been working more on web design, like the]]>
+      </description>
+      <source:markdown>Tell us what you’re doing in the LibreOffice project, and other free and open source (FOSS) projects! I’m a member of the Brazilian documentation team, officially since 2017. I spent most of that time working on translation and localisation, but lately I’ve been working more on web design, like the</source:markdown>
+      <guid>cid://https://blog.documentfoundation.org/?p=18086</guid>
+      <category>Community</category>
+      <category>Interviews</category>
+      <category>LibreOffice</category>
+    </item>    <item>
+      <title>Pluralistic: How corporate America built a better Roach Motel (07 Sep 2026)</title>
+      <link>https://pluralistic.net/2026/09/06/hotels-california/</link>
+      <description>
+        <![CDATA[Today's links How corporate America built a better Roach Motel: Hostages beat customers every day. Hey look at this: Delights to delectate. Object permanence: 3-hole punches; Warner Bros v Warner Bros; Privacy wars get worse; "Weapons of Math Destruction"; HK elections go to pro-democracy reformers; Stock buybacks are swindles; NZ v Open source; MSFT patches DRM faster than other bugs; Wikipedia's worst arguments; Pirates x Iceland. Upcoming appearances: Brighton, London, Budapest, Edmonton, South Bend, Hudson, Calgary, Winnipeg, Vancouver, Victoria, Ottawa. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. How corporate America built a better Roach Motel (permalink) "If economists wished to study the horse, they wouldn’t go and look at horses. They'd sit in their studies and say to themselves, 'What would I do if I were a horse?'" -Ely Devons Half a century ago, a group of lavishly financed economists from the University of Chicago (the "neoliberals") convinced governments all over the world to completely upend the way they treated monopolies. Up until then, the purpose of competition enforcement was to reduce corporate power, with the understanding that once a corporation became more powerful than the government, it would be impossible to force it to follow any rules: https://pluralistic.net/2022/02/20/we-should-not-endure-a-king/ But for the "Chicago Boys," monopolies were evidence of efficiency. When you encounter a company in the wild that has acquired a commanding market share, your first assumption should be that it has taken over its sector by being better than anyone else &#8211; you should not assume that the company cheated its way to glory. After all, if a company with a large market share was cheating &#8211; say, if it was increasing its profit margins by reducing quality or jacking up prices &#8211; then smaller companies would rush into the market to poach its dissatisfied customers. Thus, all competition enforcement was reduced to an empty syllogism: monopolies are the result of excellence and any less-than-excellent monopolist will have its advantage "competed away." Therefore, any monopolist you encounter in the wild is definitionally not a bad monopolist, otherwise it would already have disappeared. To quote another economist joke: Two economists are walking down the street when one notices a $20 bill on the sidewalk. "It's not a real $20 bill," the other declares. "If it were a real $20 bill, someone would have picked it up off the sidewalk already." Half a century later, our entire economy is dominated by monopolies, duopolies and cartels, who boast of gigantic margins, whose products are palpably worsening at an accelerating clip, and yet there is no sign of the "new market entrants" who should be flooding into the market to "compete away" those amazing margins. It turns out that asking "What would I do if I were a horse?" does not yield a series of accurate predictions about horses. Things have changed. Today, the University of Chicago's Stigler Center harbors a cluster of influential economists who largely or entirely repudiate the orthodoxy of the Chicago Boys. The Center hosts an annual, rather radical conference on antitrust; runs an excellent heterodox podcast (Capitalisn't); its house organ, Promarket.org, regularly hosts work that torches the received wisdom of High Chicago Neoclassicism; and the school's researchers publish papers that dare to actually "go and look at horses." A recent horse-looking excursion has yielded some distressing, alarming, and thoroughly documented equine facts. In a new Stigler paper, "Rising Customer Durability, Falling Business Dynamism," UC's Li Azinovic-Yang, Ava E Speros and Christopher R Stewart and Stanford's John D Kepler report on some clever research into how a monopolist could raise prices, lower quality, anger its customers, and still dominate its market: https://www.chicagobooth.edu/-/media/research/stigler/pdfs/workingpapers/387_customer.pdf The researchers' hypothesis was that dominant businesses don't maintain their lead by making their customers happy, but by making it harder for those customers to leave. There's good reasons to suspect this. Between 2002 and 2024, the average "customer relationship" (how long a customer continues to purchase from a merchant) has risen from 7.5 years to 11.5 years, a 50% surge in "customer loyalty," far outstripping any measure of customer satisfaction over the same period. This is true across all the largest sectors of the economy: "manufacturing, information, professional services, financial services, and wholesale trade." How to explain the falling divorce rate between customers and businesses? That's where the researchers got very clever. They realized that when a company seeks permission to acquire another business, it must publish truthful and comprehensive information about how the merger is expected to increase the profits of the new combination. These disclosures are validated by external auditors, boards of directors, and/or audit committees. There are legal repercussions for falsifying them or making material omissions to them, and they are matters of public record. Crucially, these disclosures must include the business's plans to retain its customers, and its plans to increase the profits from those customers. That's where the researchers struck gold. They amassed a novel data-set of 9,500 acquisitions that disclosed over $1t worth of "customer relationship-related intangibles," more than 20% of all the assets that changed hands. They supplemented this data by mining earnings calls (also subject to strict penalties for omissions and falsehoods), finding CEOs boasting about "practices that may impede switching or increase customers’ dependence on the firm." Executives bragged about their "contractual restrictions, bundling and ecosystem lock-in, and switching costs." You can get a sense of these in a short accompanying article by the study's co-author Christopher Stewart: https://www.promarket.org/2026/09/04/american-companies-expect-their-customers-to-stay-much-longer-that-may-be-making-the-economy-less-competitive/ The article recounts how Sirius XM's execs celebrated the news that an appeals court had struck down the FTC's "Click to Cancel" rule, which required companies to make it as easy to resign from a subscription service as it was to sign up for it. Click to Cancel is a response to increasingly sleazy, increasingly pervasive tactics that make it all but impossible to stop being someone's customer. Trump's FTC walked away from defending the rule, which let the court kill it: https://pluralistic.net/2025/05/12/greased-slide/#greased-pole After Click to Cancel died, Sirius XM's C-suite got on a call with their shareholders to project "better outcome(s) as a result of not having that in place." Sirius believed that a rule that made it easy for customers to resign from their monthly subscriptions would hurt its business. Put another way: Sirius believes that its profits come in part from the fact that dissatisfied customers can't figure out how to cancel their service. Then there's the online insurance company eHealth, whose execs crowed about a new "innovation" that forced senior patients to painstakingly enter a long list of their medications and doctors, but did not give them any way to export that data. The lengthy investment of time in getting set up on eHealth would stop customers from leaving, because they wouldn't want "to repeat all of that information over the phone." This is also a feature of business-to-business relationships. In 2019, US Silica's execs described how they had launched a program to become embedded in their customers' supply chains, because that "really locks in the business," making it "much more difficult for customers to switch and go to someone else." That's the first half of the story: an empirical account of how the business world switched from "acquiring customers" to taking hostages. But the second half of the paper is even more interesting: an empirical investigation into the effects of this customer lock-in. For starters, increased customer retention is "associated with higher gross profit margins": that is, the companies whose customers can't leave squeeze those customers for more profit. What's more, once a company has its customers locked in, it starts to capture a larger share of all the profits in its entire sector: these hostage-takers become so profitable that their profits dwarf the profits of their competitors. The paper also solves the mystery of the missing market entrants that the neoclassical horse-ponderers insisted would be conjured up to compete away an abusive monopolist's margins. The more locked in the customers of a monopolist are, the fewer companies try to enter that market. This makes sense: who would invest in a new business in a market where none of its potential customers can switch to its new business? This is the opposite of what the horse-ponderers have insisted upon for 50 years. The more lock-in a company attains, the more profitable it becomes, and the less it has to worry about new competitors coming after those incredible margins. This is obvious to everyone, except the monopolist-funded "social scientists" and the governments they captured. This is bad news, and not just for those locked-in customers. New businesses are the source of new jobs, and, yup, it turns out that sectors dominated by firms with high lock-in create fewer jobs. Of course, as workers chase fewer jobs, bosses are able to suppress their wages by forcing workers to bid against one another. Once again, the study finds that the sectors with the most lock-in also see declining wages in addition to declining jobs. These are not the horse-ponderers' "efficient" monopolists. Once a company has its customers locked in, it innovates less &#8211; as measured by the number of patents a company is awarded, and by how often those patents are cited in other patents (this second measure helps distinguish companies that file mountains of bullshit patents from companies that actually invent useful things). Naturally, R&#38;D spending also declines in companies with more lock-in. All of this is entirely compatible with the theory of enshittification. Once a company knows its customers can't leave, it can switch from treating them well to abusing them in order to extract money from them. The same goes for companies whose workers can't leave &#8211; because they're bound by noncompete clauses, or because their employer has bought out all their rivals: https://www.eff.org/deeplinks/2023/04/platforms-decay-lets-put-users-first It's like the old Lily Tomlin sketches on SNL and Laugh-In, where she played Ernestine the telephone operator narrating satirical ads for AT&#38;T. Those sketches would end with her obviously true catch-phrase: "We don't care. We don't have to. We're the phone company": https://www.youtube.com/watch?v=CHgUN_95UAw Decades later, Tomlin's phone company joke is a perfect distillation of modern management philosophy. As a famous NBER working paper showed, when a family business is handed over to a professional manager with an MBA, the company doesn't become more profitable overall; it just finds ways to pay its workers less: https://www.nber.org/system/files/working_papers/w29874/w29874.pdf That's why Tim Wu named this "the age of extraction." "Growth" no longer means "making something new that people want" &#8211; now it means "finding ways to take a larger share of the pie, even if that makes the pie smaller overall": https://www.wired.com/story/tim-wu-age-of-extraction/ This is something we can all feel. We experience it in our daily lives, through "shrinkflation" and "junk fees" and a million other gross and petty scams. But it's rare that we actually catch executives explicitly admitting that their job is to find ways to take you hostage and squeeze you. Historically, those revelations have come from extraordinary circumstances, like when Frontier (the worst ISP in America) went bankrupt and we learned that the company had 1.6 million customers who had no access to competing broadband connections. Frontier carried these hostages on their balance sheet as a special, highly valued asset, since they could be charged more for slower, less reliable service: https://www.eff.org/deeplinks/2020/04/frontiers-bankruptcy-reveals-cynical-choice-deny-profitable-fiber-millions In assembling this novel, high-quality data-set, the researchers on this paper have performed an important service, capturing a vast number of sworn confessions of highly paid enshittifiers, and then showing how their hostage-taking wrecked competition, prices, wages, jobs and innovation. Hey look at this (permalink) Gloria Steinem Helped Transform the World for Everyone https://www.meditationsinanemergency.com/gloria-steinem-helped-transform-the-world-for-everyone/ Keep the Internet free https://keepitfree.ai/ Money Does Not Decide What It Becomes https://sekimonyo.com/money-does-not-decide-what-it-becomes Object permanence (permalink) #20yrsago Three-hole punch debut, April 1940 https://web.archive.org/web/20061119140057/https://blog.modernmechanix.com/2006/09/06/three-hole-paper-punch-debut/ #20yrsago New Zealand redefines open source as “code you can’t modify” https://memex.craphound.com/2006/09/07/nobel-prize-sperm-bank-human-tragicomedy-about-eugenics/ #20yrsago MSFT quicker to patch DRM than security vulnerabilities https://www.schneier.com/blog/archives/2006/09/microsoft_and_f.html #20yrsago Wikipedia’s dumbest arguments https://en.wikipedia.org/wiki/Wikipedia:Lamest_edit_wars #10yrsago Why the Pirate Party could end up running Iceland https://web.archive.org/web/20211024071400/https://www.newstatesman.com/culture/2016/09/how-internet-pirates-became-political-force-iceland #10yrsago Sampling bias: how a machine-learning beauty contest awarded nearly all prizes to whites https://web.archive.org/web/20160906154712/https://motherboard.vice.com/read/why-an-ai-judged-beauty-contest-picked-nearly-all-white-winners #10yrago Warner Bros flags its own website as a piracy portal in copyright takedowns https://torrentfreak.com/warner-bros-flags-website-piracy-portal-160904/ #10yrsago The privacy wars have been a disaster and they’re about to get a LOT worse https://locusmag.com/feature/cory-doctorowthe-privacy-wars-are-about-to-get-a-whole-lot-worse/ #10yrsago Weapons of Math Destruction: invisible, ubiquitous algorithms are ruining millions of lives https://memex.craphound.com/2016/09/06/weapons-of-math-destruction-invisible-ubiquitous-algorithms-are-ruining-millions-of-lives/ #10yrsago Pro-democracy reformers win big in Hong Kong’s elections https://globalvoices.org/2016/09/06/hong-kong-voters-elect-pro-democracy-legislators-to-defend-the-citys-autonomy-from-china/ #1yrago Stock buybacks are stock swindles https://pluralistic.net/2025/09/06/computer-says-huh/#invisible-handcuffs Upcoming appearances (permalink) Brighton: The Reverse Centaur's Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8 https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/ London: The Reverse Centaur's Guide to Life After AI with Riley Quinn (Foyle's Picadilly), Sep 9 https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn Budapest: Brain Bar, Sep 17 https://brainbar.com/munkatars/cory-doctorow Edmonton: Elbows Up (Edmonton Public Library), Sep 28 https://www.epl.ca/blogs/post/elbows-up-with-cory-doctorow/ South Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6 https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/ Hudson, OH: Hudson Library, Oct 7 https://engagedpatrons.org/EventsExtended.cfm?SiteID=3850&#38;amp;EventID=596952&#38;amp;PK= Calgary: Wordfest, Oct 8 https://wordfest.com/2026/show/wordfest-presents-cory-doctorow-2026/ Winnipeg: McNally Robinson, Oct 9 https://www.mcnallyrobinson.com/event-18991/An-Evening-with-Cory-Doctorow Vancouver: Read, Resist, Repair, Rejoice (Vancouver Writers Festival), Oct 19 https://writersfest.bc.ca/festival-event-2026/01 Victoria: Munro's Books, Oct 20 https://www.munrobooks.com/events/6113620261020 Vancouver: Life After AI (Vancouver Writers Festival), Oct 22 https://writersfest.bc.ca/festival-event-2026/46 Ottawa: Life After AI (Ottawa Writers Festival), Oct 24 https://writersfestival.org/event/life-after-ai Vancouver: BC Policy Solutions Gala, Nov 12 https://bcpolicy.ca/gala/ Recent appearances (permalink) Downstream with Michael Walker (Novara) https://www.youtube.com/watch?v=nTqCVJFr7XM The future of the tech crisis (How the Light Gets In) https://iai.tv/video/the-future-of-the-tech-crisis?_auid=2020 How Tech Platforms Took Over the Economy (Dystopia Now) https://sites.libsyn.com/566555/enshittification-and-reverse-centaurs-cory-doctorow-on-how-tech-platforms-took-over-the-economy Hope, AI, Fixing the Internet and the Reverse Centaur of it all (Wilosophy) https://podcastaddict.com/everyone-relax/episode/231414816 Deflating the AI Bubble (Do Not Pass Go) https://www.donotpassgo.ca/p/deflating-the-ai-bubble-with-cory Latest books (permalink) "The Reverse-Centaur's Guide to AI," a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/ "Canny Valley": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce "Enshittification: Why Everything Suddenly Got Worse and What to Do About It," Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ "Picks and Shovels": a sequel to "Red Team Blues," about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). "The Bezzle": a sequel to "Red Team Blues," about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). "The Lost Cause:" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). "The Internet Con": A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). "Red Team Blues": "A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before." Tor Books http://redteamblues.com. "Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) "The Post-American Internet," a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 "Unauthorized Bread": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 "Enshittification, Why Everything Suddenly Got Worse and What to Do About It" (the graphic novel), Firstsecond, 2027 "The Memex Method," Farrar, Straus, Giroux, 2027 Colophon (permalink) Today's top sources: Currently writing: “Once Is Enemy Action,” a science fiction novel about the origins of modern technofascism. Today's words: 574 (7730 total). "The Post-American Internet," a sequel to "Enshittification," about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor. A Little Brother short story about DIY insulin PLANNING This work &#8211; excluding any serialized fiction &#8211; is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic "When life gives you SARS, you make sarsaparilla" -Joey "Accordion Guy" DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies ("BOGUS AGREEMENTS") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X]]>
+      </description>
+      <source:markdown>Today&#39;s links How corporate America built a better Roach Motel: Hostages beat customers every day. Hey look at this: Delights to delectate. Object permanence: 3-hole punches; Warner Bros v Warner Bros; Privacy wars get worse; &#34;Weapons of Math Destruction&#34;; HK elections go to pro-democracy reformers; Stock buybacks are swindles; NZ v Open source; MSFT patches DRM faster than other bugs; Wikipedia&#39;s worst arguments; Pirates x Iceland. Upcoming appearances: Brighton, London, Budapest, Edmonton, South Bend, Hudson, Calgary, Winnipeg, Vancouver, Victoria, Ottawa. Recent appearances: Where I&#39;ve been. Latest books: You keep readin&#39; em, I&#39;ll keep writin&#39; &#39;em. Upcoming books: Like I said, I&#39;ll keep writin&#39; &#39;em. Colophon: All the rest. How corporate America built a better Roach Motel (permalink) &#34;If economists wished to study the horse, they wouldn’t go and look at horses. They&#39;d sit in their studies and say to themselves, &#39;What would I do if I were a horse?&#39;&#34; -Ely Devons Half a century ago, a group of lavishly financed economists from the University of Chicago (the &#34;neoliberals&#34;) convinced governments all over the world to completely upend the way they treated monopolies. Up until then, the purpose of competition enforcement was to reduce corporate power, with the understanding that once a corporation became more powerful than the government, it would be impossible to force it to follow any rules: https://pluralistic.net/2022/02/20/we-should-not-endure-a-king/ But for the &#34;Chicago Boys,&#34; monopolies were evidence of efficiency. When you encounter a company in the wild that has acquired a commanding market share, your first assumption should be that it has taken over its sector by being better than anyone else – you should not assume that the company cheated its way to glory. After all, if a company with a large market share was cheating – say, if it was increasing its profit margins by reducing quality or jacking up prices – then smaller companies would rush into the market to poach its dissatisfied customers. Thus, all competition enforcement was reduced to an empty syllogism: monopolies are the result of excellence and any less-than-excellent monopolist will have its advantage &#34;competed away.&#34; Therefore, any monopolist you encounter in the wild is definitionally not a bad monopolist, otherwise it would already have disappeared. To quote another economist joke: Two economists are walking down the street when one notices a $20 bill on the sidewalk. &#34;It&#39;s not a real $20 bill,&#34; the other declares. &#34;If it were a real $20 bill, someone would have picked it up off the sidewalk already.&#34; Half a century later, our entire economy is dominated by monopolies, duopolies and cartels, who boast of gigantic margins, whose products are palpably worsening at an accelerating clip, and yet there is no sign of the &#34;new market entrants&#34; who should be flooding into the market to &#34;compete away&#34; those amazing margins. It turns out that asking &#34;What would I do if I were a horse?&#34; does not yield a series of accurate predictions about horses. Things have changed. Today, the University of Chicago&#39;s Stigler Center harbors a cluster of influential economists who largely or entirely repudiate the orthodoxy of the Chicago Boys. The Center hosts an annual, rather radical conference on antitrust; runs an excellent heterodox podcast (Capitalisn&#39;t); its house organ, Promarket.org, regularly hosts work that torches the received wisdom of High Chicago Neoclassicism; and the school&#39;s researchers publish papers that dare to actually &#34;go and look at horses.&#34; A recent horse-looking excursion has yielded some distressing, alarming, and thoroughly documented equine facts. In a new Stigler paper, &#34;Rising Customer Durability, Falling Business Dynamism,&#34; UC&#39;s Li Azinovic-Yang, Ava E Speros and Christopher R Stewart and Stanford&#39;s John D Kepler report on some clever research into how a monopolist could raise prices, lower quality, anger its customers, and still dominate its market: https://www.chicagobooth.edu/-/media/research/stigler/pdfs/workingpapers/387\_customer.pdf The researchers&#39; hypothesis was that dominant businesses don&#39;t maintain their lead by making their customers happy, but by making it harder for those customers to leave. There&#39;s good reasons to suspect this. Between 2002 and 2024, the average &#34;customer relationship&#34; (how long a customer continues to purchase from a merchant) has risen from 7.5 years to 11.5 years, a 50% surge in &#34;customer loyalty,&#34; far outstripping any measure of customer satisfaction over the same period. This is true across all the largest sectors of the economy: &#34;manufacturing, information, professional services, financial services, and wholesale trade.&#34; How to explain the falling divorce rate between customers and businesses? That&#39;s where the researchers got very clever. They realized that when a company seeks permission to acquire another business, it must publish truthful and comprehensive information about how the merger is expected to increase the profits of the new combination. These disclosures are validated by external auditors, boards of directors, and/or audit committees. There are legal repercussions for falsifying them or making material omissions to them, and they are matters of public record. Crucially, these disclosures must include the business&#39;s plans to retain its customers, and its plans to increase the profits from those customers. That&#39;s where the researchers struck gold. They amassed a novel data-set of 9,500 acquisitions that disclosed over $1t worth of &#34;customer relationship-related intangibles,&#34; more than 20% of all the assets that changed hands. They supplemented this data by mining earnings calls (also subject to strict penalties for omissions and falsehoods), finding CEOs boasting about &#34;practices that may impede switching or increase customers’ dependence on the firm.&#34; Executives bragged about their &#34;contractual restrictions, bundling and ecosystem lock-in, and switching costs.&#34; You can get a sense of these in a short accompanying article by the study&#39;s co-author Christopher Stewart: https://www.promarket.org/2026/09/04/american-companies-expect-their-customers-to-stay-much-longer-that-may-be-making-the-economy-less-competitive/ The article recounts how Sirius XM&#39;s execs celebrated the news that an appeals court had struck down the FTC&#39;s &#34;Click to Cancel&#34; rule, which required companies to make it as easy to resign from a subscription service as it was to sign up for it. Click to Cancel is a response to increasingly sleazy, increasingly pervasive tactics that make it all but impossible to stop being someone&#39;s customer. Trump&#39;s FTC walked away from defending the rule, which let the court kill it: https://pluralistic.net/2025/05/12/greased-slide/#greased-pole After Click to Cancel died, Sirius XM&#39;s C-suite got on a call with their shareholders to project &#34;better outcome(s) as a result of not having that in place.&#34; Sirius believed that a rule that made it easy for customers to resign from their monthly subscriptions would hurt its business. Put another way: Sirius believes that its profits come in part from the fact that dissatisfied customers can&#39;t figure out how to cancel their service. Then there&#39;s the online insurance company eHealth, whose execs crowed about a new &#34;innovation&#34; that forced senior patients to painstakingly enter a long list of their medications and doctors, but did not give them any way to export that data. The lengthy investment of time in getting set up on eHealth would stop customers from leaving, because they wouldn&#39;t want &#34;to repeat all of that information over the phone.&#34; This is also a feature of business-to-business relationships. In 2019, US Silica&#39;s execs described how they had launched a program to become embedded in their customers&#39; supply chains, because that &#34;really locks in the business,&#34; making it &#34;much more difficult for customers to switch and go to someone else.&#34; That&#39;s the first half of the story: an empirical account of how the business world switched from &#34;acquiring customers&#34; to taking hostages. But the second half of the paper is even more interesting: an empirical investigation into the effects of this customer lock-in. For starters, increased customer retention is &#34;associated with higher gross profit margins&#34;: that is, the companies whose customers can&#39;t leave squeeze those customers for more profit. What&#39;s more, once a company has its customers locked in, it starts to capture a larger share of all the profits in its entire sector: these hostage-takers become so profitable that their profits dwarf the profits of their competitors. The paper also solves the mystery of the missing market entrants that the neoclassical horse-ponderers insisted would be conjured up to compete away an abusive monopolist&#39;s margins. The more locked in the customers of a monopolist are, the fewer companies try to enter that market. This makes sense: who would invest in a new business in a market where none of its potential customers can switch to its new business? This is the opposite of what the horse-ponderers have insisted upon for 50 years. The more lock-in a company attains, the more profitable it becomes, and the less it has to worry about new competitors coming after those incredible margins. This is obvious to everyone, except the monopolist-funded &#34;social scientists&#34; and the governments they captured. This is bad news, and not just for those locked-in customers. New businesses are the source of new jobs, and, yup, it turns out that sectors dominated by firms with high lock-in create fewer jobs. Of course, as workers chase fewer jobs, bosses are able to suppress their wages by forcing workers to bid against one another. Once again, the study finds that the sectors with the most lock-in also see declining wages in addition to declining jobs. These are not the horse-ponderers&#39; &#34;efficient&#34; monopolists. Once a company has its customers locked in, it innovates less – as measured by the number of patents a company is awarded, and by how often those patents are cited in other patents (this second measure helps distinguish companies that file mountains of bullshit patents from companies that actually invent useful things). Naturally, R&#38;D spending also declines in companies with more lock-in. All of this is entirely compatible with the theory of enshittification. Once a company knows its customers can&#39;t leave, it can switch from treating them well to abusing them in order to extract money from them. The same goes for companies whose workers can&#39;t leave – because they&#39;re bound by noncompete clauses, or because their employer has bought out all their rivals: https://www.eff.org/deeplinks/2023/04/platforms-decay-lets-put-users-first It&#39;s like the old Lily Tomlin sketches on SNL and Laugh-In, where she played Ernestine the telephone operator narrating satirical ads for AT&#38;T. Those sketches would end with her obviously true catch-phrase: &#34;We don&#39;t care. We don&#39;t have to. We&#39;re the phone company&#34;: https://www.youtube.com/watch?v=CHgUN\_95UAw Decades later, Tomlin&#39;s phone company joke is a perfect distillation of modern management philosophy. As a famous NBER working paper showed, when a family business is handed over to a professional manager with an MBA, the company doesn&#39;t become more profitable overall; it just finds ways to pay its workers less: https://www.nber.org/system/files/working\_papers/w29874/w29874.pdf That&#39;s why Tim Wu named this &#34;the age of extraction.&#34; &#34;Growth&#34; no longer means &#34;making something new that people want&#34; – now it means &#34;finding ways to take a larger share of the pie, even if that makes the pie smaller overall&#34;: https://www.wired.com/story/tim-wu-age-of-extraction/ This is something we can all feel. We experience it in our daily lives, through &#34;shrinkflation&#34; and &#34;junk fees&#34; and a million other gross and petty scams. But it&#39;s rare that we actually catch executives explicitly admitting that their job is to find ways to take you hostage and squeeze you. Historically, those revelations have come from extraordinary circumstances, like when Frontier (the worst ISP in America) went bankrupt and we learned that the company had 1.6 million customers who had no access to competing broadband connections. Frontier carried these hostages on their balance sheet as a special, highly valued asset, since they could be charged more for slower, less reliable service: https://www.eff.org/deeplinks/2020/04/frontiers-bankruptcy-reveals-cynical-choice-deny-profitable-fiber-millions In assembling this novel, high-quality data-set, the researchers on this paper have performed an important service, capturing a vast number of sworn confessions of highly paid enshittifiers, and then showing how their hostage-taking wrecked competition, prices, wages, jobs and innovation. Hey look at this (permalink) Gloria Steinem Helped Transform the World for Everyone https://www.meditationsinanemergency.com/gloria-steinem-helped-transform-the-world-for-everyone/ Keep the Internet free https://keepitfree.ai/ Money Does Not Decide What It Becomes https://sekimonyo.com/money-does-not-decide-what-it-becomes Object permanence (permalink) #20yrsago Three-hole punch debut, April 1940 https://web.archive.org/web/20061119140057/https://blog.modernmechanix.com/2006/09/06/three-hole-paper-punch-debut/ #20yrsago New Zealand redefines open source as “code you can’t modify” https://memex.craphound.com/2006/09/07/nobel-prize-sperm-bank-human-tragicomedy-about-eugenics/ #20yrsago MSFT quicker to patch DRM than security vulnerabilities https://www.schneier.com/blog/archives/2006/09/microsoft\_and\_f.html #20yrsago Wikipedia’s dumbest arguments https://en.wikipedia.org/wiki/Wikipedia:Lamest\_edit\_wars #10yrsago Why the Pirate Party could end up running Iceland https://web.archive.org/web/20211024071400/https://www.newstatesman.com/culture/2016/09/how-internet-pirates-became-political-force-iceland #10yrsago Sampling bias: how a machine-learning beauty contest awarded nearly all prizes to whites https://web.archive.org/web/20160906154712/https://motherboard.vice.com/read/why-an-ai-judged-beauty-contest-picked-nearly-all-white-winners #10yrago Warner Bros flags its own website as a piracy portal in copyright takedowns https://torrentfreak.com/warner-bros-flags-website-piracy-portal-160904/ #10yrsago The privacy wars have been a disaster and they’re about to get a LOT worse https://locusmag.com/feature/cory-doctorowthe-privacy-wars-are-about-to-get-a-whole-lot-worse/ #10yrsago Weapons of Math Destruction: invisible, ubiquitous algorithms are ruining millions of lives https://memex.craphound.com/2016/09/06/weapons-of-math-destruction-invisible-ubiquitous-algorithms-are-ruining-millions-of-lives/ #10yrsago Pro-democracy reformers win big in Hong Kong’s elections https://globalvoices.org/2016/09/06/hong-kong-voters-elect-pro-democracy-legislators-to-defend-the-citys-autonomy-from-china/ #1yrago Stock buybacks are stock swindles https://pluralistic.net/2025/09/06/computer-says-huh/#invisible-handcuffs Upcoming appearances (permalink) Brighton: The Reverse Centaur&#39;s Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8 https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/ London: The Reverse Centaur&#39;s Guide to Life After AI with Riley Quinn (Foyle&#39;s Picadilly), Sep 9 https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn Budapest: Brain Bar, Sep 17 https://brainbar.com/munkatars/cory-doctorow Edmonton: Elbows Up (Edmonton Public Library), Sep 28 https://www.epl.ca/blogs/post/elbows-up-with-cory-doctorow/ South Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6 https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/ Hudson, OH: Hudson Library, Oct 7 https://engagedpatrons.org/EventsExtended.cfm?SiteID=3850&#38;amp;EventID=596952&#38;amp;PK= Calgary: Wordfest, Oct 8 https://wordfest.com/2026/show/wordfest-presents-cory-doctorow-2026/ Winnipeg: McNally Robinson, Oct 9 https://www.mcnallyrobinson.com/event-18991/An-Evening-with-Cory-Doctorow Vancouver: Read, Resist, Repair, Rejoice (Vancouver Writers Festival), Oct 19 https://writersfest.bc.ca/festival-event-2026/01 Victoria: Munro&#39;s Books, Oct 20 https://www.munrobooks.com/events/6113620261020 Vancouver: Life After AI (Vancouver Writers Festival), Oct 22 https://writersfest.bc.ca/festival-event-2026/46 Ottawa: Life After AI (Ottawa Writers Festival), Oct 24 https://writersfestival.org/event/life-after-ai Vancouver: BC Policy Solutions Gala, Nov 12 https://bcpolicy.ca/gala/ Recent appearances (permalink) Downstream with Michael Walker (Novara) https://www.youtube.com/watch?v=nTqCVJFr7XM The future of the tech crisis (How the Light Gets In) https://iai.tv/video/the-future-of-the-tech-crisis?\_auid=2020 How Tech Platforms Took Over the Economy (Dystopia Now) https://sites.libsyn.com/566555/enshittification-and-reverse-centaurs-cory-doctorow-on-how-tech-platforms-took-over-the-economy Hope, AI, Fixing the Internet and the Reverse Centaur of it all (Wilosophy) https://podcastaddict.com/everyone-relax/episode/231414816 Deflating the AI Bubble (Do Not Pass Go) https://www.donotpassgo.ca/p/deflating-the-ai-bubble-with-cory Latest books (permalink) &#34;The Reverse-Centaur&#39;s Guide to AI,&#34; a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/ &#34;Canny Valley&#34;: A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce &#34;Enshittification: Why Everything Suddenly Got Worse and What to Do About It,&#34; Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ &#34;Picks and Shovels&#34;: a sequel to &#34;Red Team Blues,&#34; about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). &#34;The Bezzle&#34;: a sequel to &#34;Red Team Blues,&#34; about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). &#34;The Lost Cause:&#34; a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). &#34;The Internet Con&#34;: A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). &#34;Red Team Blues&#34;: &#34;A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.&#34; Tor Books http://redteamblues.com. &#34;Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin&#34;, on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) &#34;The Post-American Internet,&#34; a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 &#34;Unauthorized Bread&#34;: a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 &#34;Enshittification, Why Everything Suddenly Got Worse and What to Do About It&#34; (the graphic novel), Firstsecond, 2027 &#34;The Memex Method,&#34; Farrar, Straus, Giroux, 2027 Colophon (permalink) Today&#39;s top sources: Currently writing: “Once Is Enemy Action,” a science fiction novel about the origins of modern technofascism. Today&#39;s words: 574 (7730 total). &#34;The Post-American Internet,&#34; a sequel to &#34;Enshittification,&#34; about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor. A Little Brother short story about DIY insulin PLANNING This work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic &#34;When life gives you SARS, you make sarsaparilla&#34; -Joey &#34;Accordion Guy&#34; DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (&#34;BOGUS AGREEMENTS&#34;) that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X</source:markdown>
+      <guid>cid://https://pluralistic.net/?p=13258</guid>
+      <category>Uncategorized</category>
+      <category>Ava E. Speros</category>
+      <category>business</category>
+      <category>Christopher R. Stewart</category>
+      <category>customer relationship-related intangibles</category>
+      <category>customer retention</category>
+      <category>enshittification</category>
+      <category>John D. Kepler</category>
+      <category>Li Azinovic-Yang</category>
+      <category>lock in</category>
+      <category>scholarship</category>
+      <category>stigler center</category>
+    </item>    <item>
+      <title>September 6, 2026</title>
+      <link>https://heathercoxrichardson.substack.com/p/september-6-2026</link>
+      <description>
+        <![CDATA[Storm clouds over the horizon looked like mountains last week as I came in from a late afternoon paddle in the kayak.]]>
+      </description>
+      <source:markdown>Storm clouds over the horizon looked like mountains last week as I came in from a late afternoon paddle in the kayak.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!yswi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe89f56e3-493f-4ecf-b662-e99145283a93_4032x3024.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/september-6-2026</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/117226922672757379</link>
+      <description>
+        <![CDATA[<p>I miss the roflcopter</p>]]>
+      </description>
+      <source:markdown>I miss the roflcopter</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/117226922672757379</guid>
+    </item>    <item>
+      <title>I bought retinol and I feel weird about it</title>
+      <link>https://tracydurnell.com/2026/09/06/feeling-weird-about-retinol/</link>
+      <description>
+        <![CDATA[I&#8217;m trying to do better about caring for my skin, so I went into the dermatologist for a full body skin check in January. (Apparently most insurance companies will cover this annually!) My grandparents developed fragile skin as they got older, and were constantly cutting themselves, so I asked the dermatologist if there was anything [&#8230;]]]>
+      </description>
+      <source:markdown>I’m trying to do better about caring for my skin, so I went into the dermatologist for a full body skin check in January. (Apparently most insurance companies will cover this annually!) My grandparents developed fragile skin as they got older, and were constantly cutting themselves, so I asked the dermatologist if there was anything \[…\]</source:markdown>
+      <guid>cid://https://tracydurnell.com/?p=40134</guid>
+      <category>Culture</category>
+      <category>Health</category>
+      <category>Reflection</category>
+      <category>Self Care</category>
+      <category>aesthetics</category>
+      <category>aging</category>
+      <category>beauty standards</category>
+      <category>control</category>
+      <category>death</category>
+      <category>insecurity</category>
+      <category>longevity</category>
+      <category>medical system</category>
+      <category>motivation</category>
+      <category>self acceptance</category>
+      <category>self esteem</category>
+      <category>women</category>
+    </item>    <item>
+      <title>Monday 7 September, 2026</title>
+      <link>https://memex.naughtons.org/monday-7-september-2026/42668/</link>
+      <description>
+        <![CDATA[Non-potable Quote of the Day “The past is never dead. It’s not even past.” William Faulkner Musical alternative to the morning’s radio news Alison Krauss &#38; Union Station &#124; Dimming Of The Day Link Long Read of the Day &#8216;Empire&#8217;s &#8230; <a href="https://memex.naughtons.org/monday-7-september-2026/42668/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>Non-potable Quote of the Day “The past is never dead. It’s not even past.” William Faulkner Musical alternative to the morning’s radio news Alison Krauss &#38; Union Station \| Dimming Of The Day Link Long Read of the Day ‘Empire’s … [Continue reading →](https://memex.naughtons.org/monday-7-september-2026/42668/)</source:markdown>
+      <guid>cid://https://memex.naughtons.org/?p=42668</guid>
+      <category>Online version</category>
+    </item>    <item>
+      <title>Sad to see Jensen Huang claim that AGI has arrived, with no evidence and no definitions</title>
+      <link>https://garymarcus.substack.com/p/sad-to-see-jensen-huang-claim-that</link>
+      <description>
+        <![CDATA[Declaring victory without a definition simply muddies the waters]]>
+      </description>
+      <source:markdown>Declaring victory without a definition simply muddies the waters</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!vbW1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F608d4701-6c7b-40ee-9842-aecc96614901_1226x584.png" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/sad-to-see-jensen-huang-claim-that</guid>
+    </item>    <item>
+      <title>2026-09-06 From Braunwald to Glattalalp</title>
+      <link>https://alexschroeder.ch/view/2026-09-06-braunwald-glattal-alp</link>
+      <description>
+        <![CDATA[<h1 id="2026-09-06-from-braunwald-to-glattalalp">2026-09-06 From Braunwald to Glattalalp</h1>
+        
+        <p>Today we went for a hike from the canton of Glarus to the canton of Schwyz. We
+        went to Braunwald, up with the funicular, and then on with a chairlift to
+        Gumen. There, we went above the tree line and got into a Karst landscape. Far
+        below there are large caves. The snow melts in spring and provides the
+        moisture for summer. Any remaining water disappears into the caverns below.</p>
+        
+        <p><img loading="lazy" src="2026-09-06-braunwald-glattal-alp.jpeg" alt="Mountain meadow near the tree line with majestic mountain in the back." />
+        <img loading="lazy" src="2026-09-06-braunwald-glattal-alp-1.jpeg" alt="A steep ascent with a lot of exposed limestone." />
+        <img loading="lazy" src="2026-09-06-braunwald-glattal-alp-2.jpeg" alt="We reached the pass and look back onto mountains and a blue sky." />
+        <img loading="lazy" src="2026-09-06-braunwald-glattal-alp-3.jpeg" alt="The main part of the hike is more or less flat, over the exposed limestone." /></p>
+        
+        <p>Towards the end we had to climb over a ridge to the left to get to the
+        Glattalalp, and the tiny cable car that only takes eight people per trip. We
+        waited for over an hour and missed the last bus. Then we called a taxi and
+        waited another 40 minutes and paid 120.- for it. Oh well, that, too, is
+        Switzerland.</p>
+        
+        <p><img loading="lazy" src="2026-09-06-braunwald-glattal-alp-4.jpeg" alt="A view back at the flat limestone valley and the faint grass cover and mountains in the back." />
+        <img loading="lazy" src="2026-09-06-braunwald-glattal-alp-5.jpeg" alt="These limestone fields are sometimes called Silberen, something like The Silvery." />
+        <img loading="lazy" src="2026-09-06-braunwald-glattal-alp-6.jpeg" alt="The melting snow in spring creates temporary rivers that rip little riverbeds into the meadows. These then lie dry for the rest of the year." />
+        <img loading="lazy" src="2026-09-06-braunwald-glattal-alp-7.jpeg" alt="And at last, in the next valley, the restaurant where we drank coffee and ate sweets for 20 minutes (the half-wooden building on the left), not knowing that we’d wait for over an hour at the cable car station (the grey building on the right)." /></p>
+        
+        <p><a class="tag" href="/search/?q=%23Switzerland">#Switzerland</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p>]]>
+      </description>
+      <source:markdown># 2026-09-06 From Braunwald to Glattalalp
+
+Today we went for a hike from the canton of Glarus to the canton of Schwyz. We
+went to Braunwald, up with the funicular, and then on with a chairlift to
+Gumen. There, we went above the tree line and got into a Karst landscape. Far
+below there are large caves. The snow melts in spring and provides the
+moisture for summer. Any remaining water disappears into the caverns below.
+
+![Mountain meadow near the tree line with majestic mountain in the back.](2026-09-06-braunwald-glattal-alp.jpeg)![A steep ascent with a lot of exposed limestone.](2026-09-06-braunwald-glattal-alp-1.jpeg)![We reached the pass and look back onto mountains and a blue sky.](2026-09-06-braunwald-glattal-alp-2.jpeg)![The main part of the hike is more or less flat, over the exposed limestone.](2026-09-06-braunwald-glattal-alp-3.jpeg)
+
+Towards the end we had to climb over a ridge to the left to get to the
+Glattalalp, and the tiny cable car that only takes eight people per trip. We
+waited for over an hour and missed the last bus. Then we called a taxi and
+waited another 40 minutes and paid 120.- for it. Oh well, that, too, is
+Switzerland.
+
+![A view back at the flat limestone valley and the faint grass cover and mountains in the back.](2026-09-06-braunwald-glattal-alp-4.jpeg)![These limestone fields are sometimes called Silberen, something like The Silvery.](2026-09-06-braunwald-glattal-alp-5.jpeg)![The melting snow in spring creates temporary rivers that rip little riverbeds into the meadows. These then lie dry for the rest of the year.](2026-09-06-braunwald-glattal-alp-6.jpeg)![And at last, in the next valley, the restaurant where we drank coffee and ate sweets for 20 minutes (the half-wooden building on the left), not knowing that we’d wait for over an hour at the cable car station (the grey building on the right).](2026-09-06-braunwald-glattal-alp-7.jpeg)
+
+[#Switzerland](/search/?q=%23Switzerland) [#Pictures](/search/?q=%23Pictures)</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2026-09-06-braunwald-glattal-alp</guid>
+      <category>Switzerland</category>
+      <category>Pictures</category>
+    </item>    <item>
+      <title>Wed, Sept 9th, 7pm ET - Our Weekly Paid Subscriber Get Together</title>
+      <link>https://www.hopiumchronicles.com/p/wed-sept-9th-7pm-et-our-weekly-paid</link>
+      <description>
+        <![CDATA[Breaking news from Ohio - Dr. Amy Acton was attacked at an event today but is now safe and the assailant is in custody]]>
+      </description>
+      <source:markdown>Breaking news from Ohio - Dr. Amy Acton was attacked at an event today but is now safe and the assailant is in custody</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!ckLu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2da6121d-b972-4ff1-b182-6243f2905c42_3570x2634.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/wed-sept-9th-7pm-et-our-weekly-paid</guid>
+    </item>    <item>
+      <title>Sunday caption contest: Fortress</title>
+      <link>https://robertreich.substack.com/p/sunday-caption-contest-fortress</link>
+      <description>
+        <![CDATA[And last week&#8217;s winner]]>
+      </description>
+      <source:markdown>And last week’s winner</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!ZaYb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7461ec1-9bdd-4be8-9444-bc5de47c266f_2289x2190.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-caption-contest-fortress</guid>
+    </item>    <item>
+      <title>Notes on building an independent media and polling ecosystem in 2026</title>
+      <link>https://www.gelliottmorris.com/p/2026-09-06-sunday-roundup</link>
+      <description>
+        <![CDATA[For a special Labor Day edition of the Sunday roundup, I&#8217;ve written some personal thoughts on journalism, polling, forecasting, and the value of staying off algorithmic social media in 2026.]]>
+      </description>
+      <source:markdown>For a special Labor Day edition of the Sunday roundup, I’ve written some personal thoughts on journalism, polling, forecasting, and the value of staying off algorithmic social media in 2026.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!gLnS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffdfc5f20-7290-4b13-8b64-c1026827143a_1752x934.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/2026-09-06-sunday-roundup</guid>
+    </item>    <item>
+      <title>Week Fifteen in 250 to 250</title>
+      <link>https://heathercoxrichardson.substack.com/p/week-fifteen-in-250-to-250</link>
+      <description>
+        <![CDATA[Last week was the fifteenth week of videos from the 250 to 250 Project that we&#8217;re producing to honor the 250th anniversary of the Declaration of Independence.]]>
+      </description>
+      <source:markdown>Last week was the fifteenth week of videos from the 250 to 250 Project that we’re producing to honor the 250th anniversary of the Declaration of Independence.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/oGtG6_eGp9c" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/week-fifteen-in-250-to-250</guid>
+    </item>    <item>
+      <title>Fatherland</title>
+      <link>https://dbarkhuff.substack.com/p/fatherland</link>
+      <description>
+        <![CDATA[The last two days involved a lot of driving.]]>
+      </description>
+      <source:markdown>The last two days involved a lot of driving.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!2kE_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e8dd4d8-1c9c-4028-bdbd-7b49194dcd1f_516x776.png" length="0" type="image/jpeg" />
+      <guid>cid://https://dbarkhuff.substack.com/p/fatherland</guid>
+    </item>    <item>
+      <title>Our Wins Of The Week</title>
+      <link>https://thinkbigpicture.substack.com/p/week-progressive-wins-september-6</link>
+      <description>
+        <![CDATA[The mid-decade redistricting wars heated up again this week.]]>
+      </description>
+      <source:markdown>The mid-decade redistricting wars heated up again this week.</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/30a78712-d339-4cd9-b91a-97d8bf15ae2f_1048x636.png" length="0" type="image/jpeg" />
+      <guid>cid://https://thinkbigpicture.substack.com/p/week-progressive-wins-september-6</guid>
+    </item>    <item>
+      <title>Sunday session</title>
+      <link>https://adactio.com/notes/22752</link>
+      <description>
+        <![CDATA[<img src="https://adactio.com/images/uploaded/22752/small.jpg" srcset="https://adactio.com/images/uploaded/22752/medium.jpg 1.5x, https://adactio.com/images/uploaded/22752/large.jpg 2.5x" alt="Sunday session" />
+        <p>Sunday session</p>]]>
+      </description>
+      <source:markdown>![Sunday session](https://adactio.com/images/uploaded/22752/small.jpg)
+
+Sunday session</source:markdown>
+      <guid>cid://https://adactio.com/notes/22752</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/09/06.html#a172205</link>
+      <description>
+        <![CDATA[Today's song: <a href="https://www.youtube.com/watch?v=QyIZ3pYKOQM">So into you</a>.]]>
+      </description>
+      <source:markdown>Today&#39;s song: [So into you](https://www.youtube.com/watch?v=QyIZ3pYKOQM).</source:markdown>
+      <guid>cid://http://scripting.com/2026/09/06.html#a172205</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/09/06.html#a171945</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2026/09/06/reallySimpleSpaghetti.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">We got past the bump, and I'm getting stuff done. I write this stuff because I will probably forget most of the frustration. Frontier is a hard piece of software to get going, it's got a lot of integrations, which you want when you're using, but hard when you're getting it all to work the first time. And this port is very much like getting it work that way. But Claude does some things poorly and others spectacularly. It can play the role of a CPU and run the code and tell you where it will fail. Helpful when you don;t have a working debugger to step through the code and see exactly how and why it failed where it did. Before debuggers it was either all or nothing.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2026/09/06/reallySimpleSpaghetti.png)We got past the bump, and I&#39;m getting stuff done. I write this stuff because I will probably forget most of the frustration. Frontier is a hard piece of software to get going, it&#39;s got a lot of integrations, which you want when you&#39;re using, but hard when you&#39;re getting it all to work the first time. And this port is very much like getting it work that way. But Claude does some things poorly and others spectacularly. It can play the role of a CPU and run the code and tell you where it will fail. Helpful when you don;t have a working debugger to step through the code and see exactly how and why it failed where it did. Before debuggers it was either all or nothing.</source:markdown>
+      <guid>cid://http://scripting.com/2026/09/06.html#a171945</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/09/06.html#a150927</link>
+      <description>
+        <![CDATA[Every day with Claude I end up debugging the things it broke overnight. Yesterday I actually got a useful script written and debugged, along the way reporting glitches but no deal-stoppers. This morning, after updating to the latest version, the script doesn't run. It's been like this for two weeks. No wonder every day before starting work I think of ditching this project and do whatever, but I don't think I could ever muster the determination to get Frontier working on modern systems. And I can't give up. But if you think this system can replace programmers, you are sorely mistaken. It can't even do the job of a programmer fielding good bug reports and verifying that they fixed the problem and didn't break anything else. Breakage happens, but this is something it does every freaking day. And then it admits that it didn't do the other half of what it knew it had to do. I say it every day, this is ridiculous and I am fed up, and that's just the beginning of the frustration. What keeps me coming back is when I can build up a head of steam in Frontier on my new Mac laptop.]]>
+      </description>
+      <source:markdown>Every day with Claude I end up debugging the things it broke overnight. Yesterday I actually got a useful script written and debugged, along the way reporting glitches but no deal-stoppers. This morning, after updating to the latest version, the script doesn&#39;t run. It&#39;s been like this for two weeks. No wonder every day before starting work I think of ditching this project and do whatever, but I don&#39;t think I could ever muster the determination to get Frontier working on modern systems. And I can&#39;t give up. But if you think this system can replace programmers, you are sorely mistaken. It can&#39;t even do the job of a programmer fielding good bug reports and verifying that they fixed the problem and didn&#39;t break anything else. Breakage happens, but this is something it does every freaking day. And then it admits that it didn&#39;t do the other half of what it knew it had to do. I say it every day, this is ridiculous and I am fed up, and that&#39;s just the beginning of the frustration. What keeps me coming back is when I can build up a head of steam in Frontier on my new Mac laptop.</source:markdown>
+      <guid>cid://http://scripting.com/2026/09/06.html#a150927</guid>
+    </item>    <item>
+      <title>Guest Newsletter: Five Books - Fall Fiction and Sewing</title>
+      <link>https://thebrowser.com/free/guest-newsletter-five-books-102/</link>
+      <description>
+        <![CDATA[Five Books features in-depth author interviews recommending five books on a theme]]>
+      </description>
+      <source:markdown>Five Books features in-depth author interviews recommending five books on a theme</source:markdown>
+      <guid>cid://6a9c03b8f8daac000117ad12</guid>
+    </item>    <item>
+      <title>Twenty-five Years After 9/11: What Have We Learned, and Forgotten?</title>
+      <link>https://fallows.substack.com/p/twenty-five-years-after-911-what</link>
+      <description>
+        <![CDATA[It&#8217;s the things we don&#8217;t talk about that have changed the most. They need our attention now.]]>
+      </description>
+      <source:markdown>It’s the things we don’t talk about that have changed the most. They need our attention now.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!kd08!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5c8a577-9c21-4ee0-ac97-1c8701359ade_1452x1329.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://fallows.substack.com/p/twenty-five-years-after-911-what</guid>
+    </item>    <item>
+      <title>Trump Gets More Terrible Polls, Ballots Are Getting Mailed In Wisconsin, Hopium Community Members Are Working It!!!!!!!!!!!</title>
+      <link>https://www.hopiumchronicles.com/p/trump-gets-more-terrible-polls-ballots</link>
+      <description>
+        <![CDATA[Hopium is hope with a plan. Here we don&#8217;t just hope tomorrow will be better than today. We do the work to make it so......]]>
+      </description>
+      <source:markdown>Hopium is hope with a plan. Here we don’t just hope tomorrow will be better than today. We do the work to make it so......</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!o625!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39eb75bc-cff8-4509-9641-c751b561e510_1005x751.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/trump-gets-more-terrible-polls-ballots</guid>
+    </item>    <item>
+      <title>Pre-Labor Day</title>
+      <link>https://doc.searls.com/2026/09/06/pre-labor-day/</link>
+      <description>
+        <![CDATA[Yesterday I was working in my home office when I suddenly remembered that the first IU football game of the season was on. So I went downstairs, turned on the TV, found the Indianapolis station carrying it (we still use an antenna here, 60 miles away), and started watching in time to see what I [&#8230;]]]>
+      </description>
+      <source:markdown>Yesterday I was working in my home office when I suddenly remembered that the first IU football game of the season was on. So I went downstairs, turned on the TV, found the Indianapolis station carrying it (we still use an antenna here, 60 miles away), and started watching in time to see what I \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2026/09/06/pre-labor-day/</guid>
+      <category>Broadcasting</category>
+      <category>Indiana University</category>
+      <category>radio</category>
+      <category>Sports</category>
+    </item>    <item>
       <title>“Conga!”</title>
       <link>https://steady.substack.com/p/conga</link>
       <description>
@@ -64,6 +488,14 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <category>LibreOffice</category>
       <category>Marketing</category>
       <category>Meetings</category>
+    </item>    <item>
+      <title>Dragoncatcher: Pacing consensus</title>
+      <link>https://www.robinsloan.com/lab/pacing-consensus/</link>
+      <description>
+        <![CDATA[<p>Good development, huge challenge. <a href="https://www.robinsloan.com/lab/pacing-consensus/">Read here.</a></p>]]>
+      </description>
+      <source:markdown>Good development, huge challenge. [Read here.](https://www.robinsloan.com/lab/pacing-consensus/)</source:markdown>
+      <guid>cid://https://www.robinsloan.com/lab/pacing-consensus/</guid>
     </item>    <item>
       <title>Sunday thought: The Place Robber</title>
       <link>https://robertreich.substack.com/p/sunday-thought-he-has-no-right-to</link>
@@ -7131,8 +7563,8 @@ But the rest of you could, if you wanted, watch a couple of minutes to see how p
         <p>For example, he suggests Netflix provide some feedback buttons to indicate the kinds of experiences we all share consuming and rating media:</p>
         <ul>
         <li>“Just because I expressed interest in this show does not mean I want to be inundated with recommendations for its genre”</li>
-        <li>“Disregard [that I pressed ‘thumbs up’] my cat walked over the keyboard”</li>
-        <li>“I am making bad choices and hatewatching this” (which reminds me of )</li>
+        <li>“Disregard that I pressed ‘thumbs up’ my cat walked over the keyboard”</li>
+        <li>“I am making bad choices and hatewatching this”</li>
         </ul>
         <p>What’s great about the examples in Eric’s post is how familiar they are. We can read them and laugh because we’ve had the same thought — “I’m pressing ‘thumbs up’ here, but what I really mean is…” </p>
         <p>We know when we click that button that it’s a reductive expression of our experience that’ll be erroneously interpreted, but we do it anyway. <a href="https://notes.jim-nielsen.com/n/2026-08-18-1006/" >As Bryan Cantrill shared</a> from his experience:</p>
@@ -7177,8 +7609,8 @@ But the rest of you could, if you wanted, watch a couple of minutes to see how p
 For example, he suggests Netflix provide some feedback buttons to indicate the kinds of experiences we all share consuming and rating media:
 
 - “Just because I expressed interest in this show does not mean I want to be inundated with recommendations for its genre”
-- “Disregard \[that I pressed ‘thumbs up’\] my cat walked over the keyboard”
-- “I am making bad choices and hatewatching this” (which reminds me of )
+- “Disregard that I pressed ‘thumbs up’ my cat walked over the keyboard”
+- “I am making bad choices and hatewatching this”
 
 What’s great about the examples in Eric’s post is how familiar they are. We can read them and laugh because we’ve had the same thought — “I’m pressing ‘thumbs up’ here, but what I really mean is…”
 
@@ -23575,663 +24007,6 @@ I, the poet administrator, confess this is a painful way to live.</source:markdo
       <source:markdown>There is a meteor impact crater in Utah’s Canyonlands National Park. It’s called Upheaval Dome, because that’s what geologists thought it was before it became clear that it wasn’t. When I visited the place with my teenage kids in the late ’80s, all the placards along the trail explained that the circular canyon was what \[…\]</source:markdown>
       <guid>cid://https://doc.searls.com/?p=22274</guid>
       <category>Business</category>
-    </item>    <item>
-      <title>Monday 17 August, 2026</title>
-      <link>https://memex.naughtons.org/monday-17-august-2026/42581/</link>
-      <description>
-        <![CDATA[Holy Smoke! Nice juxtaposition on a Donegal beach. Quote of the Day ”A man’s dying is more the survivors’ affair than his own.” Thomas Mann Musical alternative to the morning’s radio news Paul Simon &#124; Graceland Link Triggered by a &#8230; <a href="https://memex.naughtons.org/monday-17-august-2026/42581/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <source:markdown>Holy Smoke! Nice juxtaposition on a Donegal beach. Quote of the Day ”A man’s dying is more the survivors’ affair than his own.” Thomas Mann Musical alternative to the morning’s radio news Paul Simon \| Graceland Link Triggered by a … [Continue reading →](https://memex.naughtons.org/monday-17-august-2026/42581/)</source:markdown>
-      <guid>cid://https://memex.naughtons.org/?p=42581</guid>
-      <category>Online version</category>
-    </item>    <item>
-      <title>Sunday caption contest: Transfer</title>
-      <link>https://robertreich.substack.com/p/sunday-caption-contest-transfer</link>
-      <description>
-        <![CDATA[And last week's winner]]>
-      </description>
-      <source:markdown>And last week&#39;s winner</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!vWTI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0cac1d0-a6a5-4512-bdab-f58e25b66bd6_3016x1935.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/sunday-caption-contest-transfer</guid>
-    </item>    <item>
-      <title>★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing</title>
-      <link>https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</link>
-      <description>
-        <![CDATA[It’s unacceptable for a tool to sacrifice an iota of clarity, coherence, meaning, quality, etc. for the purpose of embedding hidden clues within the text to suggest its provenance. The idea that anything other than *my* needs should factor into the generation of text *for me* is patently offensive.]]>
-      </description>
-      <source:markdown>It’s unacceptable for a tool to sacrifice an iota of clarity, coherence, meaning, quality, etc. for the purpose of embedding hidden clues within the text to suggest its provenance. The idea that anything other than \*my\* needs should factor into the generation of text \*for me\* is patently offensive.</source:markdown>
-      <guid>cid://tag:daringfireball.net,2026://1.43389</guid>
-    </item>    <item>
-      <title>The hyping of Anthropic’s IPO</title>
-      <link>https://garymarcus.substack.com/p/the-hyping-of-anthropics-ipo</link>
-      <description>
-        <![CDATA[Some strong claims, dissected]]>
-      </description>
-      <source:markdown>Some strong claims, dissected</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!_JAy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c37b33c-26f4-4229-86ba-352f43d81fcb_1743x838.png" length="0" type="image/jpeg" />
-      <guid>cid://https://garymarcus.substack.com/p/the-hyping-of-anthropics-ipo</guid>
-    </item>    <item>
-      <title>Oops, Should’ve Thought of That</title>
-      <link>https://blog.jim-nielsen.com/2026/oops-shouldve-thought-of-that/</link>
-      <description>
-        <![CDATA[<p>Gordon Brander <a href="https://newsletter.squishy.computer/p/agents-want-flexible-schemas" >writes</a>:</p>
-        <blockquote>
-        <p>The thing about computers is that they can do anything you wish, so long as you specify your wish in exacting detail. However, LLMs relieve this constraint. An LLM can extrapolate what you mean (more or less) from just a few words. So computers can do vibes now.</p>
-        </blockquote>
-        <p>It used to be that computers could only ever do exactly what you told them to do, nothing more.</p>
-        <p>If they did something unexpected (a.k.a. a bug), it was because you failed to 1) anticipate it could happen, or 2) specify with greater detail that it shouldn’t happen.</p>
-        <p>But in this new world, computers can extrapolate your intent.</p>
-        <p>LLMS can act like a fill-in-the-gap machine, which alleviates you from <a href="https://blog.jim-nielsen.com/2026/pedantry-of-computing/" >the pedantic demands of coding from years past</a>.</p>
-        <p>There’s going to be a lot more “Oops, I didn’t mean to do that” in the future.</p>
-        <p>This <em>should</em> be what separates professional practitioners from hobbyists. </p>
-        <p>A good practitioner recognizes that leveraging some foresight is part and parcel of the job in order to mitigate unintended consequences.</p>
-        <p>Meanwhile, a hobbyist or amateur doesn’t even have the capability or experience to understand the assumed intent of an LLM until it’s too late and users have been affected.</p>
-        <p>Software we use everyday, software that many aspects of our lives increasingly depend on, needs less unintended consequences. Less “Oops, should’ve thought of that.”</p>
-        
-            <hr />
-            
-        
-            <p>
-              Reply via:
-              
-        
-              <a
-                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/oops-shouldve-thought-of-that/"
-                >Email</a
-              >
-              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
-        
-              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
-            </p>]]>
-      </description>
-      <source:markdown>Gordon Brander [writes](https://newsletter.squishy.computer/p/agents-want-flexible-schemas):
-
-&#62; The thing about computers is that they can do anything you wish, so long as you specify your wish in exacting detail. However, LLMs relieve this constraint. An LLM can extrapolate what you mean (more or less) from just a few words. So computers can do vibes now.
-
-It used to be that computers could only ever do exactly what you told them to do, nothing more.
-
-If they did something unexpected (a.k.a. a bug), it was because you failed to 1) anticipate it could happen, or 2) specify with greater detail that it shouldn’t happen.
-
-But in this new world, computers can extrapolate your intent.
-
-LLMS can act like a fill-in-the-gap machine, which alleviates you from [the pedantic demands of coding from years past](https://blog.jim-nielsen.com/2026/pedantry-of-computing/).
-
-There’s going to be a lot more “Oops, I didn’t mean to do that” in the future.
-
-This _should_ be what separates professional practitioners from hobbyists.
-
-A good practitioner recognizes that leveraging some foresight is part and parcel of the job in order to mitigate unintended consequences.
-
-Meanwhile, a hobbyist or amateur doesn’t even have the capability or experience to understand the assumed intent of an LLM until it’s too late and users have been affected.
-
-Software we use everyday, software that many aspects of our lives increasingly depend on, needs less unintended consequences. Less “Oops, should’ve thought of that.”
-
-* * *
-
-Reply via:
-
-
-[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/oops-shouldve-thought-of-that/)
-· [Mastodon](https://mastodon.social/@jimniels) ·
-
-[Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
-      <guid>cid://https://blog.jim-nielsen.com/2026/oops-shouldve-thought-of-that/</guid>
-    </item>    <item>
-      <title>“I Am a Living UNESCO Site”: When AI Flattens Culture with Dr. Cana Itchuaqiyaq</title>
-      <link>https://www.digitalrhetoriccollaborative.org/2026/08/16/i-am-a-living-unesco-site-when-ai-flattens-culture-with-dr-cana-itchuaqiyaq/</link>
-      <description>
-        <![CDATA[Dr. Itchuaqiyaq is an Associate Professor of Technical and Scientific Communication and the Founding Director of the Center for Sustainable Engagement in the Arctic at Virginia Tech University. She argues that technologies can lead us to outsource our thinking while emphasizing the importance of prioritizing our own reasoning, valuing physical interactions, and investing in analog [...]
-        <p><a href="https://www.digitalrhetoriccollaborative.org/2026/08/16/i-am-a-living-unesco-site-when-ai-flattens-culture-with-dr-cana-itchuaqiyaq/" rel="nofollow">Source</a></p>]]>
-      </description>
-      <source:markdown>Dr. Itchuaqiyaq is an Associate Professor of Technical and Scientific Communication and the Founding Director of the Center for Sustainable Engagement in the Arctic at Virginia Tech University. She argues that technologies can lead us to outsource our thinking while emphasizing the importance of prioritizing our own reasoning, valuing physical interactions, and investing in analog \[...\]
-
-[Source](https://www.digitalrhetoriccollaborative.org/2026/08/16/i-am-a-living-unesco-site-when-ai-flattens-culture-with-dr-cana-itchuaqiyaq/)</source:markdown>
-      <guid>cid://https://www.digitalrhetoriccollaborative.org/?p=22816</guid>
-      <category>Interviews</category>
-      <category>DRC Talk Series</category>
-      <category>Conversations</category>
-    </item>    <item>
-      <title>Our Wins Of The Week</title>
-      <link>https://thinkbigpicture.substack.com/p/week-progressive-wins-august-16</link>
-      <description>
-        <![CDATA[After more bruising primary fights, Democrats are once again uniting heading into November.]]>
-      </description>
-      <source:markdown>After more bruising primary fights, Democrats are once again uniting heading into November.</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/e7422411-17f5-4075-8ce3-511eddd6eb3e_996x530.png" length="0" type="image/jpeg" />
-      <guid>cid://https://thinkbigpicture.substack.com/p/week-progressive-wins-august-16</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/117106195635895520</link>
-      <description>
-        <![CDATA[<p>After looking at photos of the blistering rashes from shingles, I got my second vaccine dose to keep the beach body I deserve</p>]]>
-      </description>
-      <source:markdown>After looking at photos of the blistering rashes from shingles, I got my second vaccine dose to keep the beach body I deserve</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/117106195635895520</guid>
-    </item>    <item>
-      <title>Meet Randy Villegas, Our Terrific Candidate Working Hard To Finally Flip CA-22 Blue</title>
-      <link>https://www.hopiumchronicles.com/p/meet-randy-villegas-our-terrific</link>
-      <description>
-        <![CDATA[Randy will be the first Latino ever elected to the Congress from the Central Valley of California]]>
-      </description>
-      <source:markdown>Randy will be the first Latino ever elected to the Congress from the Central Valley of California</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/210617444/61d6bb38ffe05b4cf2d7728fc40ff07c.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://www.hopiumchronicles.com/p/meet-randy-villegas-our-terrific</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/08/16.html#a151513</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2023/04/24/cheshireCat.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://daytona.scripting.com/search?q=%22Brent%20Simmons%22">Brent Simmons</a> posted a <a href="https://rss.chat/?id=530">note in RSS.chat</a> about how to connect with <a href="https://netnewswire.com/">NetNewsWire</a>. I have a fairly detailed <a href="https://rss.chat/?id=531">response</a>, that says <a href="https://www.google.com/search?q=%22dynamic+OPML%22">dynamic OPML</a> is the way to go. I know serving it publicly will be a problem, that's why we're going to move FeedLand into position to solve that. <a href="https://freshrss.github.io/FreshRSS/en/developers/OPML.html">FreshRSS</a>, <a href="http://scripting.com/2025/12/18/135613.html">InoReader</a> and my own <a href="https://docs.feedland.com/gettingstarted.md">FeedLand</a> already support it. It feels like this is getting established. I still want a podcast client to work here. I've pitched a few of them. Will continue.]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2023/04/24/cheshireCat.png)[Brent Simmons](https://daytona.scripting.com/search?q=%22Brent%20Simmons%22) posted a [note in RSS.chat](https://rss.chat/?id=530) about how to connect with [NetNewsWire](https://netnewswire.com/). I have a fairly detailed [response](https://rss.chat/?id=531), that says [dynamic OPML](https://www.google.com/search?q=%22dynamic+OPML%22) is the way to go. I know serving it publicly will be a problem, that&#39;s why we&#39;re going to move FeedLand into position to solve that. [FreshRSS](https://freshrss.github.io/FreshRSS/en/developers/OPML.html), [InoReader](http://scripting.com/2025/12/18/135613.html) and my own [FeedLand](https://docs.feedland.com/gettingstarted.md) already support it. It feels like this is getting established. I still want a podcast client to work here. I&#39;ve pitched a few of them. Will continue.</source:markdown>
-      <guid>cid://http://scripting.com/2026/08/16.html#a151513</guid>
-    </item>    <item>
-      <link>https://tilde.zone/@tomasino/117105790832091626</link>
-      <description>
-        <![CDATA[<p>Tartigrade hefty stuffed animal at the grocery store</p>]]>
-      </description>
-      <source:markdown>Tartigrade hefty stuffed animal at the grocery store</source:markdown>
-      <guid>cid://https://tilde.zone/@tomasino/117105790832091626</guid>
-    </item>    <item>
-      <title>A Few Things Luke Learned About Humor Writing From Translating Sci-Fi</title>
-      <link>https://buttondown.com/humorouswriting/archive/a-few-things-luke-learned-about-humor-writing/</link>
-      <description>
-        <![CDATA[<h3 data-pm-slice="1 1 []"><strong><em>Welcome to the Subscription Edition of A Newsletter of Humorous Writing. Our paid subscribers keep the weekly newsletter running, and we’re deeply grateful for your support. (And if you’re not already subscribed,</em></strong> <a href="https://buy.stripe.com/cN25mI1X21Gp6XeeUZ?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-few-things-luke-learned-about-humor-writing" rel="noopener noreferrer nofollow" target="_blank"><strong><em>you can sign up here</em></strong></a><strong><em>.)</em></strong></h3>
-        <p><em>This week we’re turning off the paywall so Luke can tell you about some things he learned while working on his translation of Jean Pleyer’s sci-fi graphic novel </em><a href="https://bookshop.org/p/books/the-children-of-light-jean-pleyers/65f3a760a38116cb?ean=9781681379845&amp;bkshp-astro=t&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-few-things-luke-learned-about-humor-writing" rel="noopener noreferrer nofollow" target="_blank">The Children of Light</a>. <em>(Coming out this Tuesday, August 18th, and currently </em><a href="https://bookshop.org/p/books/the-children-of-light-jean-pleyers/65f3a760a38116cb?ean=9781681379845&amp;bkshp-astro=t&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-few-things-luke-learned-about-humor-writing" rel="noopener noreferrer nofollow" target="_blank"><em>available for pre-order</em></a><em>!)</em></p>
-        <p><em>After that, we’ve got a joint recommendation for something we’ve been into lately: An article about a short humor piece being adapted into a feature film. (Note to all the big shot Hollywood producers who read this newsletter: Yes! The rights to Luke and James’ piece, </em><a href="https://www.mcsweeneys.net/articles/fragments-from-the-ancient-gospels-of-the-church-of-a-pretty-good-god?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-few-things-luke-learned-about-humor-writing" rel="noopener noreferrer nofollow" target="_blank"><em>Fragments from the Ancient Gospels of “The Church of a Pretty Good God”</em></a><em> are still very much available!)</em></p>
-        <hr/><h2 data-pm-slice="1 1 []">A Few Things Luke Learned About Humor Writing From Translating a Sci-Fi Comic</h2>
-        <p>Luke here! <a href="https://www.nyrb.com/products/the-children-of-light?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-few-things-luke-learned-about-humor-writing" rel="noopener noreferrer nofollow" target="_blank"><em>The Children of Light</em></a> is one of the most unique comics I’ve ever encountered. A brief plot teaser: "In the far reaches of the Andromeda Galaxy, a supernova obliterates the homeworld of the Zors, an advanced alien race. But the Zors knew this particular apocalypse was coming. To escape destruction, they built a world-sized spaceship run by an omniscient supercomputer. They search for a new home, but the odds are bleak. Aboard the ship, major unrest amongst the crew and passengers endangers the mission."</p>
-        <p><em>The Children of Light (CoL) </em>has gorgeous illustrations, deeply compelling worldbuilding, and some particularly striking resonances with our current historical moment. When I first read it in French, I immediately hoped I’d be lucky enough to get the assignment to translate it into English. (The backstory behind Jean Pleyer’s creation of this comic is also incredible—you can read all about it in the supplemental materials in the back of this new edition.)</p>
-        <p>Now as excited as I was when I found out I’d be able to take on this translation project, I must admit I was also a little apprehensive about tackling a piece of science fiction. As newsletter readers know, most (though not all) of my work involves humor writing. Even my previous translation, <a href="https://www.nyrb.com/products/masters-of-the-nefarious?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-few-things-luke-learned-about-humor-writing" rel="noopener noreferrer nofollow" target="_blank"><em>Masters of the Nefarious</em></a><em>, </em>was a piece of highly absurd comedy. Working in the sci-fi genre would take me out of my comfort zone. (For example: I wound up having to research a bunch of science terminology—I am by no means a science guy!) But as I got into the translation, I was surprised, and comforted, to realize that there’s more overlap between humor writing and sci-fi than you might expect. </p>
-        <p dir="ltr"><strong>Suspension of Disbelief</strong></p>
-        <p>Suspension of disbelief is one of the cornerstones of both science fiction and humor. Your reader gives you an enormous amount of leeway to drop them into worlds that are quite different from our own. The need to suspend disbelief is very apparent in a story like <em>CoL</em>, which is entirely focused on an alien civilization, but it also happens in humor—and it happens so often that you might not even realize that you are suspending your disbelief! Take the Simon Rich piece <a href="https://www.newyorker.com/magazine/2013/11/18/guy-walks-into-a-bar?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-few-things-luke-learned-about-humor-writing" rel="noopener noreferrer nofollow" target="_blank">Guy Walks Into a Bar</a>. It’s so obvious that it barely seems worth saying, but in order for the piece to work, the reader has to be okay with the fact that genies exist in the world of the piece. In my piece, <a href="https://www.newyorker.com/humor/daily-shouts/could-i-be-using-my-time-machine-more-effectively?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-few-things-luke-learned-about-humor-writing" rel="noopener noreferrer nofollow" target="_blank">Could I Be Using My Time Machine More Effectively?</a>, the reader has to accept that the extremely dumb narrator was able to invent a time machine. There are many many more examples I could cite here—suspension of disbelief is fundamental to a huge number of humor pieces. </p>
-        <p><strong>Base Reality</strong></p>
-        <p>Connected to suspension of disbelief is the idea of base reality—that is, what is considered normal within the world of your sci-fi story or humor piece. <em>CoL</em> is written from an entirely alien perspective. There’s no human audience surrogate character to guide us through the world and explain things to us. The alien perspective is what is normal within the context of the comic. Similarly, Jack Handey’s <a href="https://www.newyorker.com/magazine/2005/08/08/what-id-say-to-the-martians?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-few-things-luke-learned-about-humor-writing" rel="noopener noreferrer nofollow" target="_blank">What I’d Say to the Martians</a> takes place in a world where martians exist and the narrator has been captured by them. There’s no real sense of surprise about the fact that martians exist, that’s just the setting that needs to be established in order for the piece to work.</p>
-        <p>Along those lines, when writing my piece <a href="https://www.newyorker.com/humor/daily-shouts/frustrating-things-that-happen-after-you-moisturize-your-hands?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-few-things-luke-learned-about-humor-writing" rel="noopener noreferrer nofollow" target="_blank">Frustrating Things That Happen After You Moisturize Your Hands</a>, I quickly realized that basically all the scenarios I was describing would not be a problem if the characters simply put on gloves. I tried to get around this with a joke about how the base reality of this piece is a world in which gloves do not exist. (“By the way, just to clarify—all of these situations take place in a world where gloves don’t exist. So, if you were thinking, Why don’t these people just put gloves on?, there’s your answer, wise guy.”)</p>
-        <p><strong>How Much to Explain</strong></p>
-        <p>In both humor and sci-fi it’s crucial to figure out just how much to explain to the reader about your world and characters. In both genres, if you don’t explain enough, you run the risk of the reader getting lost. But if you explain too much it can start to feel too prosaic and exposition-y. What’s more, sometimes when you answer one question a reader might have, that explanation can wind up raising even MORE questions. In <a href="https://www.mcsweeneys.net/articles/its-decorative-gourd-season-motherfuckers?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-few-things-luke-learned-about-humor-writing" rel="noopener noreferrer nofollow" target="_blank">It’s Decorative Gourd Season, Motherfuckers</a>, there’s never any explanation for why the narrator loves gourds so much, or any exploration of the character’s backstory. (“I remember the first time I saw a decorative gourd…”) It’s more fun to see the character’s behavior play out than to get an explanation of why the character behaves that way. In <em>CoL</em>, you’re given enough information to get your bearings, but enough is left unexplained to cultivate an atmosphere of awe and wonder.</p>
-        <p><strong>Heightening</strong></p>
-        <p>Heightening is, of course, one of the most important things to get right in short humor. And one of the toughest things to get right about heightening is striking a balance where each new heightening move is surprising but not overly random, and is a logical extension of your premise without being predictable. Over the course of <em>CoL</em>, the reader is dropped into increasingly alien scenes and situations, but each new twist is built on everything that was previously established. The book heightens in a way that is quite similar to how the best short humor pieces work.</p>
-        <p><strong>A Final Plug</strong></p>
-        <p>I hope you'll consider <a href="https://bookshop.org/p/books/the-children-of-light-jean-pleyers/65f3a760a38116cb?ean=9781681379845&amp;bkshp-astro=t&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-few-things-luke-learned-about-humor-writing" rel="noopener noreferrer nofollow" target="_blank">ordering <em>The Children of Light</em></a> from your bookstore, comic shop, or library of choice! It's been getting very good reviews:</p>
-        <p>The Library Journal (in a starred review) says it's "<strong>a gorgeously illustrated, thrilling and thought-provoking episodic epic sci-fi odyssey unlike anything else in contemporary comics</strong>."</p>
-        <p>The Observer UK calls it "a blazingly colourful work of madcap, intergalactic sci-fi" and describes one image from the book as "<strong>surely one of the greatest spectacles in comics</strong>."</p>
-        <p>From Bookmunch: "<strong>Recalling nothing quite so much as Jack Kirby at his most grandiose</strong>, Children of Light zings between radical strangeness... and elevated cosmic wonders... if intense sci-fi is your bag, <strong>we guarantee you will have a thunderously good time</strong>"</p>
-        <p>The Irish Times picked it as <strong>one of the best graphic novels of 2026</strong> (so far) and calls out "the sheer energy of Pleyers’s art and his glorious unselfconsciousness as a storyteller."</p>
-        <p>Finally, the Financial Times says <strong>the translation is "expertly done by Luke Burns</strong>, especially given the amount of intergalactic jargon." (I particularly appreciate this one, because, yes, that was all really hard.)</p>
-        <p><a href="https://bookshop.org/p/books/the-children-of-light-jean-pleyers/65f3a760a38116cb?ean=9781681379845&amp;bkshp-astro=t&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-few-things-luke-learned-about-humor-writing" rel="noopener noreferrer nofollow" target="_blank">Get that order in now</a>!</p>
-        <hr/><h2 data-pm-slice="1 1 []">A Recommendation From James and Luke</h2>
-        <p><strong>James and Luke recommend </strong><a href="https://www.nytimes.com/2026/08/14/style/ian-frazier-coyote-vs-acme-movie.html?unlocked_article_code=1.5lA.BQ4w.BwuAlMK9seF2&amp;smid=nytcore-ios-share&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-few-things-luke-learned-about-humor-writing" rel="noopener noreferrer nofollow" target="_blank"><strong>this New York <em>Times</em> article</strong></a><strong> about Ian Frazier and how it took 36 years for his New Yorker piece, Coyote V. Acme, to go from his typewriter to the big screen. </strong>There are some really great behind-the-scenes tidbits in this one, not just about the genesis of the movie, but also about how Frazier wrote the piece, and what it was like submitting humor to The New Yorker back in the day. </p>
-        <p>Beyond that, this story resonated because it reminded us about the hopeful aspect of being a writer. You put work out into the world, and sometimes, after a while, when you least expect it, it pays off in surprising ways. If you’ve ever had a project in development hell for an extended period of time, or really ANY period of time, you may take some comfort in the fact that the movie finally got made after all those years. (Or you might become even more depressed about how long it takes things to get off the ground— fair!)</p>
-        <p>We also want to give kudos to Bryan Anselm, the photographer who took the picture at the top of the article, which frames Frazier in hilariously Coyote-esque fashion, as if he’s about to get hit by a New Jersey Transit train. And finally, we also hope it goes without saying that we highly recommend that you read (or reread) Ian Frazier’s original <a href="https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-few-things-luke-learned-about-humor-writing" rel="noopener noreferrer nofollow" target="_blank">Coyote V. Acme piece</a>!</p>]]>
-      </description>
-      <source:markdown>### **_Welcome to the Subscription Edition of A Newsletter of Humorous Writing. Our paid subscribers keep the weekly newsletter running, and we’re deeply grateful for your support. (And if you’re not already subscribed,_** [**_you can sign up here_**](https://buy.stripe.com/cN25mI1X21Gp6XeeUZ?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-few-things-luke-learned-about-humor-writing) **_.)_**
-
-_This week we’re turning off the paywall so Luke can tell you about some things he learned while working on his translation of Jean Pleyer’s sci-fi graphic novel_ [The Children of Light](https://bookshop.org/p/books/the-children-of-light-jean-pleyers/65f3a760a38116cb?ean=9781681379845&#38;bkshp-astro=t&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-few-things-luke-learned-about-humor-writing). _(Coming out this Tuesday, August 18th, and currently_ [_available for pre-order_](https://bookshop.org/p/books/the-children-of-light-jean-pleyers/65f3a760a38116cb?ean=9781681379845&#38;bkshp-astro=t&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-few-things-luke-learned-about-humor-writing) _!)_
-
-_After that, we’ve got a joint recommendation for something we’ve been into lately: An article about a short humor piece being adapted into a feature film. (Note to all the big shot Hollywood producers who read this newsletter: Yes! The rights to Luke and James’ piece,_ [_Fragments from the Ancient Gospels of “The Church of a Pretty Good God”_](https://www.mcsweeneys.net/articles/fragments-from-the-ancient-gospels-of-the-church-of-a-pretty-good-god?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-few-things-luke-learned-about-humor-writing) _are still very much available!)_
-
-* * *
-
-## A Few Things Luke Learned About Humor Writing From Translating a Sci-Fi Comic
-
-Luke here! [_The Children of Light_](https://www.nyrb.com/products/the-children-of-light?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-few-things-luke-learned-about-humor-writing) is one of the most unique comics I’ve ever encountered. A brief plot teaser: &#34;In the far reaches of the Andromeda Galaxy, a supernova obliterates the homeworld of the Zors, an advanced alien race. But the Zors knew this particular apocalypse was coming. To escape destruction, they built a world-sized spaceship run by an omniscient supercomputer. They search for a new home, but the odds are bleak. Aboard the ship, major unrest amongst the crew and passengers endangers the mission.&#34;
-
-_The Children of Light (CoL)_ has gorgeous illustrations, deeply compelling worldbuilding, and some particularly striking resonances with our current historical moment. When I first read it in French, I immediately hoped I’d be lucky enough to get the assignment to translate it into English. (The backstory behind Jean Pleyer’s creation of this comic is also incredible—you can read all about it in the supplemental materials in the back of this new edition.)
-
-Now as excited as I was when I found out I’d be able to take on this translation project, I must admit I was also a little apprehensive about tackling a piece of science fiction. As newsletter readers know, most (though not all) of my work involves humor writing. Even my previous translation, [_Masters of the Nefarious_](https://www.nyrb.com/products/masters-of-the-nefarious?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-few-things-luke-learned-about-humor-writing) _,_ was a piece of highly absurd comedy. Working in the sci-fi genre would take me out of my comfort zone. (For example: I wound up having to research a bunch of science terminology—I am by no means a science guy!) But as I got into the translation, I was surprised, and comforted, to realize that there’s more overlap between humor writing and sci-fi than you might expect.
-
-**Suspension of Disbelief**
-
-Suspension of disbelief is one of the cornerstones of both science fiction and humor. Your reader gives you an enormous amount of leeway to drop them into worlds that are quite different from our own. The need to suspend disbelief is very apparent in a story like _CoL_, which is entirely focused on an alien civilization, but it also happens in humor—and it happens so often that you might not even realize that you are suspending your disbelief! Take the Simon Rich piece [Guy Walks Into a Bar](https://www.newyorker.com/magazine/2013/11/18/guy-walks-into-a-bar?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-few-things-luke-learned-about-humor-writing). It’s so obvious that it barely seems worth saying, but in order for the piece to work, the reader has to be okay with the fact that genies exist in the world of the piece. In my piece, [Could I Be Using My Time Machine More Effectively?](https://www.newyorker.com/humor/daily-shouts/could-i-be-using-my-time-machine-more-effectively?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-few-things-luke-learned-about-humor-writing), the reader has to accept that the extremely dumb narrator was able to invent a time machine. There are many many more examples I could cite here—suspension of disbelief is fundamental to a huge number of humor pieces.
-
-**Base Reality**
-
-Connected to suspension of disbelief is the idea of base reality—that is, what is considered normal within the world of your sci-fi story or humor piece. _CoL_ is written from an entirely alien perspective. There’s no human audience surrogate character to guide us through the world and explain things to us. The alien perspective is what is normal within the context of the comic. Similarly, Jack Handey’s [What I’d Say to the Martians](https://www.newyorker.com/magazine/2005/08/08/what-id-say-to-the-martians?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-few-things-luke-learned-about-humor-writing) takes place in a world where martians exist and the narrator has been captured by them. There’s no real sense of surprise about the fact that martians exist, that’s just the setting that needs to be established in order for the piece to work.
-
-Along those lines, when writing my piece [Frustrating Things That Happen After You Moisturize Your Hands](https://www.newyorker.com/humor/daily-shouts/frustrating-things-that-happen-after-you-moisturize-your-hands?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-few-things-luke-learned-about-humor-writing), I quickly realized that basically all the scenarios I was describing would not be a problem if the characters simply put on gloves. I tried to get around this with a joke about how the base reality of this piece is a world in which gloves do not exist. (“By the way, just to clarify—all of these situations take place in a world where gloves don’t exist. So, if you were thinking, Why don’t these people just put gloves on?, there’s your answer, wise guy.”)
-
-**How Much to Explain**
-
-In both humor and sci-fi it’s crucial to figure out just how much to explain to the reader about your world and characters. In both genres, if you don’t explain enough, you run the risk of the reader getting lost. But if you explain too much it can start to feel too prosaic and exposition-y. What’s more, sometimes when you answer one question a reader might have, that explanation can wind up raising even MORE questions. In [It’s Decorative Gourd Season, Motherfuckers](https://www.mcsweeneys.net/articles/its-decorative-gourd-season-motherfuckers?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-few-things-luke-learned-about-humor-writing), there’s never any explanation for why the narrator loves gourds so much, or any exploration of the character’s backstory. (“I remember the first time I saw a decorative gourd…”) It’s more fun to see the character’s behavior play out than to get an explanation of why the character behaves that way. In _CoL_, you’re given enough information to get your bearings, but enough is left unexplained to cultivate an atmosphere of awe and wonder.
-
-**Heightening**
-
-Heightening is, of course, one of the most important things to get right in short humor. And one of the toughest things to get right about heightening is striking a balance where each new heightening move is surprising but not overly random, and is a logical extension of your premise without being predictable. Over the course of _CoL_, the reader is dropped into increasingly alien scenes and situations, but each new twist is built on everything that was previously established. The book heightens in a way that is quite similar to how the best short humor pieces work.
-
-**A Final Plug**
-
-I hope you&#39;ll consider [ordering _The Children of Light_](https://bookshop.org/p/books/the-children-of-light-jean-pleyers/65f3a760a38116cb?ean=9781681379845&#38;bkshp-astro=t&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-few-things-luke-learned-about-humor-writing) from your bookstore, comic shop, or library of choice! It&#39;s been getting very good reviews:
-
-The Library Journal (in a starred review) says it&#39;s &#34; **a gorgeously illustrated, thrilling and thought-provoking episodic epic sci-fi odyssey unlike anything else in contemporary comics**.&#34;
-
-The Observer UK calls it &#34;a blazingly colourful work of madcap, intergalactic sci-fi&#34; and describes one image from the book as &#34; **surely one of the greatest spectacles in comics**.&#34;
-
-From Bookmunch: &#34; **Recalling nothing quite so much as Jack Kirby at his most grandiose**, Children of Light zings between radical strangeness... and elevated cosmic wonders... if intense sci-fi is your bag, **we guarantee you will have a thunderously good time**&#34;
-
-The Irish Times picked it as **one of the best graphic novels of 2026** (so far) and calls out &#34;the sheer energy of Pleyers’s art and his glorious unselfconsciousness as a storyteller.&#34;
-
-Finally, the Financial Times says **the translation is &#34;expertly done by Luke Burns**, especially given the amount of intergalactic jargon.&#34; (I particularly appreciate this one, because, yes, that was all really hard.)
-
-[Get that order in now](https://bookshop.org/p/books/the-children-of-light-jean-pleyers/65f3a760a38116cb?ean=9781681379845&#38;bkshp-astro=t&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-few-things-luke-learned-about-humor-writing)!
-
-* * *
-
-## A Recommendation From James and Luke
-
-**James and Luke recommend** [**this New York _Times_ article**](https://www.nytimes.com/2026/08/14/style/ian-frazier-coyote-vs-acme-movie.html?unlocked_article_code=1.5lA.BQ4w.BwuAlMK9seF2&#38;smid=nytcore-ios-share&#38;utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-few-things-luke-learned-about-humor-writing) **about Ian Frazier and how it took 36 years for his New Yorker piece, Coyote V. Acme, to go from his typewriter to the big screen.** There are some really great behind-the-scenes tidbits in this one, not just about the genesis of the movie, but also about how Frazier wrote the piece, and what it was like submitting humor to The New Yorker back in the day.
-
-Beyond that, this story resonated because it reminded us about the hopeful aspect of being a writer. You put work out into the world, and sometimes, after a while, when you least expect it, it pays off in surprising ways. If you’ve ever had a project in development hell for an extended period of time, or really ANY period of time, you may take some comfort in the fact that the movie finally got made after all those years. (Or you might become even more depressed about how long it takes things to get off the ground— fair!)
-
-We also want to give kudos to Bryan Anselm, the photographer who took the picture at the top of the article, which frames Frazier in hilariously Coyote-esque fashion, as if he’s about to get hit by a New Jersey Transit train. And finally, we also hope it goes without saying that we highly recommend that you read (or reread) Ian Frazier’s original [Coyote V. Acme piece](https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme?utm_source=humorouswriting&#38;utm_medium=email&#38;utm_campaign=a-few-things-luke-learned-about-humor-writing)!</source:markdown>
-      <guid>cid://https://buttondown.com/humorouswriting/archive/a-few-things-luke-learned-about-humor-writing/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/08/16.html#a141326</link>
-      <description>
-        <![CDATA[Sometimes I need to use a Google-style search engine to find something on a reference site. That no longer works in Google. This is a major feature pullback. So far all we've heard in journalism is how it hurts their bottom line, but nothing about the world's information architecture. This is something like every bridge in the world being blown up at the same time, and I don't think that's an exaggeration.]]>
-      </description>
-      <source:markdown>Sometimes I need to use a Google-style search engine to find something on a reference site. That no longer works in Google. This is a major feature pullback. So far all we&#39;ve heard in journalism is how it hurts their bottom line, but nothing about the world&#39;s information architecture. This is something like every bridge in the world being blown up at the same time, and I don&#39;t think that&#39;s an exaggeration.</source:markdown>
-      <guid>cid://http://scripting.com/2026/08/16.html#a141326</guid>
-    </item>    <item>
-      <title>Is Ground News a Right-Wing Psy-op?</title>
-      <link>https://literatemachine.com/2026/08/16/is-ground-news-a-right-wing-psy-op/</link>
-      <description>
-        <![CDATA[Video Version &#124; Audio Version Now, in&#160;my last episode about Ground News, I talked about how there’s been a many-decade long effort by a lot of extremely rich people&#160;to create an alternative media ecosystem of reactionary thought&#160;under the term “Conservative Media”. And part of that project was to portray all media that wasn’t Conservative Media<p><a href="https://literatemachine.com/2026/08/16/is-ground-news-a-right-wing-psy-op/" class="more-link themebutton">Read More</a></p>]]>
-      </description>
-      <source:markdown>Video Version \| Audio Version Now, in my last episode about Ground News, I talked about how there’s been a many-decade long effort by a lot of extremely rich people to create an alternative media ecosystem of reactionary thought under the term “Conservative Media”. And part of that project was to portray all media that wasn’t Conservative Media
-
-[Read More](https://literatemachine.com/2026/08/16/is-ground-news-a-right-wing-psy-op/)</source:markdown>
-      <guid>cid://https://literatemachine.com/?p=1415</guid>
-      <category>Uncategorized</category>
-    </item>    <item>
-      <title>“Friends In Low Places”</title>
-      <link>https://steady.substack.com/p/friends-in-low-places</link>
-      <description>
-        <![CDATA[A Reason To Smile]]>
-      </description>
-      <source:markdown>A Reason To Smile</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!PuGm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f6da5df-1a04-463c-aa5f-5041075ca244_5306x3360.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://steady.substack.com/p/friends-in-low-places</guid>
-    </item>    <item>
-      <title>Polytropus</title>
-      <link>https://adactio.com/journal/22717</link>
-      <description>
-        <![CDATA[<p>Christopher Nolan’s adaptation of <cite>The Odyssey</cite> comes at just at the right time for me. I spent the last two years reading <a href="https://en.wikipedia.org/wiki/Odyssey_(Robert_Fagles_translation)">the Robert Fagles translation</a>, finishing it just a few months ago.</p>
-        
-        <p>When I heard that Christopher Nolan was adapting Homer’s poem, I thought it made perfect sense. I really like the way that he plays around with flashbacks and narrative structure—something that <cite>The Odyssey</cite> is absolutely stuffed with.</p>
-        
-        <p>Meanwhile, inspired by Madeline Miller’s <cite>Circe</cite>, I’ve also been reading lots of <a href="https://uk.bookshop.org/lists/greek-myths">modern retellings of Greek myths</a>, including new takes on the events in <cite>The Odyssey</cite>.</p>
-        
-        <p><a href="https://adactio.com/journal/21531">I’ve mentioned it before</a>, but one of the most interesting choices in these interpretations is how to treat the gods in these stories. Do they actually exist, directing the narrative? Or are events told in a purely factual way?</p>
-        
-        <p>Claire North’s <cite>Songs of Penelope</cite> series has different gods narrate the story, but they themselves are non-interventionist. Likewise Pat Barker’s Trojan war trilogy is full of grit, avoiding supernatural occurrences.</p>
-        
-        <p>So I was wondering what approach Christopher Nolan would take.</p>
-        
-        <p>Having seen the film, it looks like it’s chock full of gods and monsters: Polyphemus the cyclops, the Laestrygonian giants, the song of the sirens, the sorcery of Circe, the fearsome Scylla and Charybdis.</p>
-        
-        <p>But…</p>
-        
-        <p>As with Homer’s original poem, all of those events are told in flashback. And they’re told by one very unreliable narrator. Odysseus, the much-travelled, adaptable, wily, ingenious, complicated man of twists and turns. His superpower is manipulation through storytelling.</p>
-        
-        <p>Not only that, but Nolan combines two different story elements to have Odysseus narrate those supernatural events to Calypso having been drugged up on lotus leaves. He is, at this point, the last surviving member of his fleet. There is no one left to contradict his account. His men are dead, perhaps by cyclops, giant, whirlpool and monster, or perhaps by more mundane starvation, exhaustion and disease.</p>
-        
-        <p>Recently I read <a href="https://adactio.com/journal/22532">Finn Mac Cool by Morgan Llywelyn</a> about a hero from a different mythology:</p>
-        
-        <blockquote>
-          <p>For the characters in this book, their belief in magic is as real as their belief in the weather. But there are no supernatural powers here. If anything, Finn’s superpower is his ability to tell—and believe—tall tales involving supernatural intervention.</p>
-          
-          <p>All the usual accounts of Finn Mac Cool’s prowess are retold as deeds that may have a basis in reality but then get exaggerated almost immediately.</p>
-          
-          <p>It’s a framing device that works well. It’s all too easy to believe in the rise to power of a charismatic man skilled in controlling the narrative.</p>
-        </blockquote>
-        
-        <p>I think this is what Christopher Nolan has done with <cite>The Odyssey</cite>. Odysseus probably believes himself that he tricked a cyclops, fought giants, saw his crew turned into pigs, and led them between a whirlpool and a cliff monster.</p>
-        
-        <p>But when he returns the real world of Ithica, there are no supernatural foes and no supernatural allies. Just a grubby story of disguise and household combat, a sort of <a href="https://en.wikipedia.org/wiki/Massacre_of_Glencoe">Glencoe massacre</a>, a Red Wedding, where Odysseus delivers the killing stroke to the very concept of <a href="https://en.wikipedia.org/wiki/Xenia_(Greek)" lang="grc">xenia</a>, a process he began with his Trojan horse deception.</p>
-        
-        <p>We get one final reveal from the flashbacks, and it’s to show that the one supernatural character on-screen—Athena—is likely a figment of Odysseus’s conscience.</p>
-        
-        <p>Knowing that we’ve been getting the narrative from a hallucinating traumatised combat veteran should make us question everything he’s been telling us. I’m looking forward to rewatching the film with this in mind.</p>]]>
-      </description>
-      <source:markdown>Christopher Nolan’s adaptation of The Odyssey comes at just at the right time for me. I spent the last two years reading [the Robert Fagles translation](https://en.wikipedia.org/wiki/Odyssey_(Robert_Fagles_translation)), finishing it just a few months ago.
-
-When I heard that Christopher Nolan was adapting Homer’s poem, I thought it made perfect sense. I really like the way that he plays around with flashbacks and narrative structure—something that The Odyssey is absolutely stuffed with.
-
-Meanwhile, inspired by Madeline Miller’s Circe, I’ve also been reading lots of [modern retellings of Greek myths](https://uk.bookshop.org/lists/greek-myths), including new takes on the events in The Odyssey.
-
-[I’ve mentioned it before](https://adactio.com/journal/21531), but one of the most interesting choices in these interpretations is how to treat the gods in these stories. Do they actually exist, directing the narrative? Or are events told in a purely factual way?
-
-Claire North’s Songs of Penelope series has different gods narrate the story, but they themselves are non-interventionist. Likewise Pat Barker’s Trojan war trilogy is full of grit, avoiding supernatural occurrences.
-
-So I was wondering what approach Christopher Nolan would take.
-
-Having seen the film, it looks like it’s chock full of gods and monsters: Polyphemus the cyclops, the Laestrygonian giants, the song of the sirens, the sorcery of Circe, the fearsome Scylla and Charybdis.
-
-But…
-
-As with Homer’s original poem, all of those events are told in flashback. And they’re told by one very unreliable narrator. Odysseus, the much-travelled, adaptable, wily, ingenious, complicated man of twists and turns. His superpower is manipulation through storytelling.
-
-Not only that, but Nolan combines two different story elements to have Odysseus narrate those supernatural events to Calypso having been drugged up on lotus leaves. He is, at this point, the last surviving member of his fleet. There is no one left to contradict his account. His men are dead, perhaps by cyclops, giant, whirlpool and monster, or perhaps by more mundane starvation, exhaustion and disease.
-
-Recently I read [Finn Mac Cool by Morgan Llywelyn](https://adactio.com/journal/22532) about a hero from a different mythology:
-
-&#62; For the characters in this book, their belief in magic is as real as their belief in the weather. But there are no supernatural powers here. If anything, Finn’s superpower is his ability to tell—and believe—tall tales involving supernatural intervention.
-&#62;
-&#62; All the usual accounts of Finn Mac Cool’s prowess are retold as deeds that may have a basis in reality but then get exaggerated almost immediately.
-&#62;
-&#62; It’s a framing device that works well. It’s all too easy to believe in the rise to power of a charismatic man skilled in controlling the narrative.
-
-I think this is what Christopher Nolan has done with The Odyssey. Odysseus probably believes himself that he tricked a cyclops, fought giants, saw his crew turned into pigs, and led them between a whirlpool and a cliff monster.
-
-But when he returns the real world of Ithica, there are no supernatural foes and no supernatural allies. Just a grubby story of disguise and household combat, a sort of [Glencoe massacre](https://en.wikipedia.org/wiki/Massacre_of_Glencoe), a Red Wedding, where Odysseus delivers the killing stroke to the very concept of [xenia](https://en.wikipedia.org/wiki/Xenia_(Greek)), a process he began with his Trojan horse deception.
-
-We get one final reveal from the flashbacks, and it’s to show that the one supernatural character on-screen—Athena—is likely a figment of Odysseus’s conscience.
-
-Knowing that we’ve been getting the narrative from a hallucinating traumatised combat veteran should make us question everything he’s been telling us. I’m looking forward to rewatching the film with this in mind.</source:markdown>
-      <guid>cid://https://adactio.com/journal/22717</guid>
-      <category>odyssey</category>
-      <category>film</category>
-      <category>poem</category>
-      <category>homer</category>
-      <category>adaptation</category>
-      <category>interpretation</category>
-      <category>greek</category>
-      <category>myths</category>
-      <category>legends</category>
-      <category>narrative</category>
-      <category>structure</category>
-    </item>    <item>
-      <title>The Perfect Replacement for Karoline Leavitt</title>
-      <link>https://www.borowitzreport.com/p/meet-the-new-george-santos-e35</link>
-      <description>
-        <![CDATA[TBR Sunday Read]]>
-      </description>
-      <source:markdown>TBR Sunday Read</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!7uXR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7f0bfd2-5086-4e5b-85fd-9a76a23a380e_1024x683.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/meet-the-new-george-santos-e35</guid>
-    </item>    <item>
-      <title>Demography, Deportations and the Trump Stall</title>
-      <link>https://paulkrugman.substack.com/p/demography-deportations-and-the-trump</link>
-      <description>
-        <![CDATA[Why the American jobs machine is sputtering]]>
-      </description>
-      <source:markdown>Why the American jobs machine is sputtering</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!nfcA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d0c7a67-218d-4dca-8f1a-858f8db7166c_1240x858.png" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/demography-deportations-and-the-trump</guid>
-    </item>    <item>
-      <title>LibreOffice Conference 2026 schedule is online!</title>
-      <link>https://blog.documentfoundation.org/blog/2026/08/16/libreoffice-conference-2026-schedule-is-online/</link>
-      <description>
-        <![CDATA[The LibreOffice Conference 2026 will take place in Pordenone, Italy, from September 10 – 12. And now the schedule is online, with: 8 conference tracks 64 sessions 49 speakers Click here to view the schedule]]>
-      </description>
-      <source:markdown>The LibreOffice Conference 2026 will take place in Pordenone, Italy, from September 10 – 12. And now the schedule is online, with: 8 conference tracks 64 sessions 49 speakers Click here to view the schedule</source:markdown>
-      <guid>cid://https://blog.documentfoundation.org/?p=17972</guid>
-      <category>Community</category>
-      <category>Conference</category>
-      <category>LibreOffice</category>
-    </item>    <item>
-      <title>US Invites China to Invade Taiwan</title>
-      <link>https://blog.rongarret.info/2026/08/us-invites-china-to-invade-taiwan.html</link>
-      <description>
-        <![CDATA[Donald Trump has pulled the last U.S. aircraft carrier out of Asia to help prosecute the war in the Middle East.]]>
-      </description>
-      <source:markdown>Donald Trump has pulled the last U.S. aircraft carrier out of Asia to help prosecute the war in the Middle East.</source:markdown>
-      <author>noreply@blogger.com (Ron)</author>
-      <guid>cid://tag:blogger.com,1999:blog-5592542.post-5554182394381448485</guid>
-    </item>    <item>
-      <title>Sunday thought: Beyond shock and outrage</title>
-      <link>https://robertreich.substack.com/p/sunday-thought-beyond-the-lies</link>
-      <description>
-        <![CDATA[Surviving a madman]]>
-      </description>
-      <source:markdown>Surviving a madman</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!jRlJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70975180-3137-4b2c-87e5-a04b3493b443_2340x1560.webp" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/sunday-thought-beyond-the-lies</guid>
-    </item>    <item>
-      <title>August 15, 2026</title>
-      <link>https://heathercoxrichardson.substack.com/p/august-15-2026</link>
-      <description>
-        <![CDATA[On Monday, August 10, Todd Blanche took the oath of office as attorney general, administered by federal appeals court judge Emil Bove, another of Trump&#8217;s defense lawyers before moving to the Department of Justice, where he was Blanche&#8217;s top deputy.]]>
-      </description>
-      <source:markdown>On Monday, August 10, Todd Blanche took the oath of office as attorney general, administered by federal appeals court judge Emil Bove, another of Trump’s defense lawyers before moving to the Department of Justice, where he was Blanche’s top deputy.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!yKDv!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b47f775-3df7-41dd-8bc9-a64cdd72d948_600x600.png" length="0" type="image/jpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/august-15-2026</guid>
-    </item>    <item>
-      <title>Bookmarks - harvard, labor, philosophy, archive</title>
-      <link>https://inkdroid.org/2026/08/16/bookmarks/</link>
-      <description>
-        <![CDATA[These are some things I’ve wandered across on the web this week.
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://aschoolcalledhome.org/illich-at-100/">
-        Illich at 100 </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        We’re spreading a rumour.
-        </p>
-        <p>
-        Over the first weekend in September, 2026, there will be local
-        gatherings around dinner tables and picnic blankets and in convivial
-        spaces of different kinds, in places around the world, to mark what
-        would have been the 100th birthday of Ivan Illich.
-        </p>
-        <p>
-        Whether you’re a newcomer to Illich’s work, a long-time reader or
-        anywhere in between, you are warmly invited to be part of this.
-        </p>
-        Check out the map to find what’s happening near you, sign up as a local
-        contact to host a gathering – or read on to learn more about this
-        remarkable thinker and why we are celebrating his centenary
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tags/philosophy/">philosophy</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://institutional.org/assets/misc/ip-um-technical-report-tmp.pdf">
-        Institutional Proceedings - University of Michigan: A pipeline and
-        dataset to reason through two centuries of institutional
-        decision-making. </a>
-        </h2>
-        <section class="p-summary">
-        We introduce a structured dataset and accompanying processing pipeline
-        for nearly 200 years of decision making, derived from the Proceedings of
-        the Board of Regents of the University of Michigan. This
-        English-language collection holds official decision making records of
-        one of the oldest public research universities in the United States,
-        covering the period of 1837~2023. These records span 55,177 pages across
-        71 volumes, containing roughly 36 million o200k_base text tokens. We
-        describe how our pipeline makes use of open-source reasoning Large
-        Language Models (LLMs) to extract insights from these records, at
-        meeting, volume and collection level. We separate each volume into
-        individual Board meetings—1,755 in total—and then extract meeting-level
-        metadata records (date, attendees, location, presiding officer) and
-        governance events in several categories: degree programs, leadership
-        transitions, organizational units, fundraising, buildings, and strategic
-        plans. The event categories we extract were defined together with
-        University of Michigan librarians, reflecting the kinds of requests for
-        hard-to-reach information they have received about these records over
-        the years. We also include a derivative reasoning dataset that pairs
-        each meeting with a model-generated summary, chain-of-thought traces,
-        and decade-level synthesis. Finally, we include EPUB exports for each
-        meeting to increase the accessibility of the information for human
-        readers. These datasets are of particular interest for research on
-        historical governance and decision-making and, as a narrow-domain corpus
-        paired with reasoning traces, may also contribute to AI training
-        efforts. None of this data processing would be possible without clearly
-        established ground truths. To that end, we evaluate each stage of the
-        pipeline against hand-annotated reference data
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tags/archives/">archives</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tags/harvard/">harvard</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tags/llm/">llm</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tags/michigan/">michigan</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tags/ocr/">ocr</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://www.noemamag.com/why-is-everyone-in-tech-so-sad/">
-        A lot of people seem to be realizing that knowledge work is mostly
-        pointless. AI might give us the pleasure of finding out what happens if
-        an entire class of workers loses faith in their careers. </a>
-        </h2>
-        <section class="p-summary">
-        A lot of people seem to be realizing that knowledge work is mostly
-        pointless. AI might give us the pleasure of finding out what happens if
-        an entire class of workers loses faith in their careers.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tags/ai/">ai</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tags/culture/">culture</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tags/labor/">labor</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tags/programming/">programming</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://www.montgomerycountymd.gov/montgomery-county-public-libraries/events-programs-library/events-library/vinyl-day-just-record">
-        Vinyl Day - Just for the Record </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        Vinyl Day - Just for the Record, is a free family-friendly music event
-        for all ages, dedicated to celebrating record and DJ culture in
-        Montgomery County.
-        </p>
-        Join us at Rockville Memorial Library, 10:00am - 3:00 pm. Guest
-        performers will be taking the mainstage in Rockville town center Plaza
-        during that entire time!
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tags/dc/">dc</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tags/music/">music</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tags/shopping/">shopping</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://www.thecrimson.com/article/2026/8/11/fas-social-sciences-layoffs/">
-        More Than 30% of FAS Social Sciences Staff Laid Off in Largest Wave Yet
-        </a>
-        </h2>
-        <section class="p-summary">
-        Harvard’s Faculty of Arts and Sciences directly laid off 75 staff across
-        its social sciences units last week — nearly one-third of employees
-        covered by the restructuring and more than twice the number cut in last
-        month’s Harvard College wave — according to a document obtained by The
-        Crimson.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tags/harvard/">harvard</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tags/labor/">labor</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tags/work/">work</a>
-        </p>
-        </article>]]>
-      </description>
-      <source:markdown>These are some things I’ve wandered across on the web this week.
-
-## 🔖 [Illich at 100](https://aschoolcalledhome.org/illich-at-100/)
-
-We’re spreading a rumour.
-
-Over the first weekend in September, 2026, there will be local
-gatherings around dinner tables and picnic blankets and in convivial
-spaces of different kinds, in places around the world, to mark what
-would have been the 100th birthday of Ivan Illich.
-
-Whether you’re a newcomer to Illich’s work, a long-time reader or
-anywhere in between, you are warmly invited to be part of this.
-
-Check out the map to find what’s happening near you, sign up as a local
-contact to host a gathering – or read on to learn more about this
-remarkable thinker and why we are celebrating his centenary
-
-[philosophy](/tags/philosophy/)
-
-## 🔖 [Institutional Proceedings - University of Michigan: A pipeline and\ dataset to reason through two centuries of institutional\ decision-making.](https://institutional.org/assets/misc/ip-um-technical-report-tmp.pdf)
-
-We introduce a structured dataset and accompanying processing pipeline
-for nearly 200 years of decision making, derived from the Proceedings of
-the Board of Regents of the University of Michigan. This
-English-language collection holds official decision making records of
-one of the oldest public research universities in the United States,
-covering the period of 1837~2023. These records span 55,177 pages across
-71 volumes, containing roughly 36 million o200k\_base text tokens. We
-describe how our pipeline makes use of open-source reasoning Large
-Language Models (LLMs) to extract insights from these records, at
-meeting, volume and collection level. We separate each volume into
-individual Board meetings—1,755 in total—and then extract meeting-level
-metadata records (date, attendees, location, presiding officer) and
-governance events in several categories: degree programs, leadership
-transitions, organizational units, fundraising, buildings, and strategic
-plans. The event categories we extract were defined together with
-University of Michigan librarians, reflecting the kinds of requests for
-hard-to-reach information they have received about these records over
-the years. We also include a derivative reasoning dataset that pairs
-each meeting with a model-generated summary, chain-of-thought traces,
-and decade-level synthesis. Finally, we include EPUB exports for each
-meeting to increase the accessibility of the information for human
-readers. These datasets are of particular interest for research on
-historical governance and decision-making and, as a narrow-domain corpus
-paired with reasoning traces, may also contribute to AI training
-efforts. None of this data processing would be possible without clearly
-established ground truths. To that end, we evaluate each stage of the
-pipeline against hand-annotated reference data
-
-[archives](/tags/archives/) [harvard](/tags/harvard/) [llm](/tags/llm/) [michigan](/tags/michigan/) [ocr](/tags/ocr/)
-
-## 🔖 [A lot of people seem to be realizing that knowledge work is mostly\ pointless. AI might give us the pleasure of finding out what happens if\ an entire class of workers loses faith in their careers.](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/)
-
-A lot of people seem to be realizing that knowledge work is mostly
-pointless. AI might give us the pleasure of finding out what happens if
-an entire class of workers loses faith in their careers.
-
-[ai](/tags/ai/) [culture](/tags/culture/) [labor](/tags/labor/) [programming](/tags/programming/)
-
-## 🔖 [Vinyl Day - Just for the Record](https://www.montgomerycountymd.gov/montgomery-county-public-libraries/events-programs-library/events-library/vinyl-day-just-record)
-
-Vinyl Day - Just for the Record, is a free family-friendly music event
-for all ages, dedicated to celebrating record and DJ culture in
-Montgomery County.
-
-Join us at Rockville Memorial Library, 10:00am - 3:00 pm. Guest
-performers will be taking the mainstage in Rockville town center Plaza
-during that entire time!
-
-[dc](/tags/dc/) [music](/tags/music/) [shopping](/tags/shopping/)
-
-## 🔖 [More Than 30% of FAS Social Sciences Staff Laid Off in Largest Wave Yet](https://www.thecrimson.com/article/2026/8/11/fas-social-sciences-layoffs/)
-
-Harvard’s Faculty of Arts and Sciences directly laid off 75 staff across
-its social sciences units last week — nearly one-third of employees
-covered by the restructuring and more than twice the number cut in last
-month’s Harvard College wave — according to a document obtained by The
-Crimson.
-
-[harvard](/tags/harvard/) [labor](/tags/labor/) [work](/tags/work/)</source:markdown>
-      <guid>cid://https://inkdroid.org/2026/08/16/bookmarks/</guid>
-      <category>ai</category>
-      <category>archives</category>
-      <category>bookmarks</category>
-      <category>culture</category>
-      <category>dc</category>
-      <category>harvard</category>
-      <category>labor</category>
-      <category>llm</category>
-      <category>michigan</category>
-      <category>music</category>
-      <category>ocr</category>
-      <category>philosophy</category>
-      <category>programming</category>
-      <category>shopping</category>
-      <category>work</category>
     </item>
   </channel>
 </rss>

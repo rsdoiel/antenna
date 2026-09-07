@@ -4,10 +4,80 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>06 Sep 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>07 Sep 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Flesh by Karl Detzer</title>
+      <link>https://www.gutenberg.org/ebooks/79518</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Jerusalemin suutari : by L. Onerva</title>
+      <link>https://www.gutenberg.org/ebooks/79524</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>The Works of the Right Honourable Edmund Burke, Vol. 03 (of 12) by Edmund Burke</title>
+      <link>https://www.gutenberg.org/ebooks/15679</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Erkki by Wilho Soini</title>
+      <link>https://www.gutenberg.org/ebooks/79521</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>A Study in Scarlet by Arthur Conan Doyle</title>
+      <link>https://www.gutenberg.org/ebooks/244</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Household words, No. 1, March 30, 1850 :</title>
+      <link>https://www.gutenberg.org/ebooks/79523</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Sanomalehtimiehet : by Gustaf Freytag and K. P:nen</title>
+      <link>https://www.gutenberg.org/ebooks/79522</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>The flapper wife by Beatrice Burton</title>
+      <link>https://www.gutenberg.org/ebooks/79525</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Les Russes en Extrême-Orient by Paul Labbé</title>
+      <link>https://www.gutenberg.org/ebooks/79519</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>The benefit of farting explain&#39;d : by Fart in hando Puff-indorst</title>
+      <link>https://www.gutenberg.org/ebooks/79520</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>The electronic siege by Jr.  John W. Campbell</title>
       <link>https://www.gutenberg.org/ebooks/79501</link>
       <description>
@@ -353,13 +423,6 @@
     </item>    <item>
       <title>The Home Book of Verse — Volume 4 by Burton Egbert Stevenson</title>
       <link>https://www.gutenberg.org/ebooks/2622</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Flesh by Karl W. Detzer</title>
-      <link>https://www.gutenberg.org/ebooks/79518</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1760,69 +1823,6 @@
     </item>    <item>
       <title>The dilemma of the liberated : by Gorham Bert Munson</title>
       <link>https://www.gutenberg.org/ebooks/79374</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Complete Original Short Stories of Guy De Maupassant by Guy de Maupassant</title>
-      <link>https://www.gutenberg.org/ebooks/3090</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Mr. Isaacs, A Tale of Modern India by F. Marion  Crawford</title>
-      <link>https://www.gutenberg.org/ebooks/13340</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Il pedante by Francesco Belo</title>
-      <link>https://www.gutenberg.org/ebooks/34640</link>
-      <description>
-        <![CDATA[Language: Italian]]>
-      </description>
-      <source:markdown>Language: Italian</source:markdown>
-    </item>    <item>
-      <title>The Battle of the Somme by Philip Gibbs</title>
-      <link>https://www.gutenberg.org/ebooks/79366</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Security Risk by Ed M. Clinton</title>
-      <link>https://www.gutenberg.org/ebooks/35759</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The book of the boudoir, Volume 1 (of 2) by Lady  Morgan</title>
-      <link>https://www.gutenberg.org/ebooks/79367</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The book of the boudoir, Volume 2 (of 2) by Lady  Morgan</title>
-      <link>https://www.gutenberg.org/ebooks/79368</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Bell&#39;s cathedrals: the cathedral church of Southwell by Arthur Dimock</title>
-      <link>https://www.gutenberg.org/ebooks/79369</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Ryzon baking book : by Marion Harris Neil</title>
-      <link>https://www.gutenberg.org/ebooks/79370</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
