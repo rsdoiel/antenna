@@ -4,7 +4,7 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>07 Sep 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>08 Sep 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -406,36 +406,6 @@ What problem does Font Directory Pro solve?</source:markdown>
       </description>
       <source:markdown>Ghosts.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260818</guid>
-    </item>    <item>
-      <title>b.log 2026/08/17 - Loose ends, Blocked bots, Guttering.</title>
-      <link>https://heyrick.eu/blog/entry/20260817</link>
-      <description>
-        <![CDATA[Loose ends, Blocked bots, Guttering.]]>
-      </description>
-      <source:markdown>Loose ends, Blocked bots, Guttering.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260817</guid>
-    </item>    <item>
-      <title>AI Can’t Adulterate its Own Writing</title>
-      <link>https://bitsplitting.org/2026/08/17/ai-cant-adulterate-its-own-writing/</link>
-      <description>
-        <![CDATA[My friend John Gruber is incensed by the idea that AI watermarking schemes adjust the output of a given LLM so that the output can later be assessed as likely coming from it in particular: They say “imperceptible” and “doesn’t change the meaning, quality, or readability”. Their words. Not almost imperceptible. Not slightly changes the meaning, quality, [&#8230;]]]>
-      </description>
-      <source:markdown>My friend John Gruber is incensed by the idea that AI watermarking schemes adjust the output of a given LLM so that the output can later be assessed as likely coming from it in particular: They say “imperceptible” and “doesn’t change the meaning, quality, or readability”. Their words. Not almost imperceptible. Not slightly changes the meaning, quality, \[…\]</source:markdown>
-      <guid>cid://https://bitsplitting.org/?p=1505</guid>
-      <category>AI</category>
-      <category>Philosophical</category>
-    </item>    <item>
-      <title>General RISC OS chat at ROUGOL – 17th August</title>
-      <link>https://www.riscository.com/2026/rougol-general-chat-17th-august/</link>
-      <description>
-        <![CDATA[Tonight (17th August) is when the next RISC OS User Group of London (ROUGOL) meeting will take place, and like last month&#8217;s meeting it hasn&#8217;t been possible to arrange a guest speaker, so the meeting will again be an open one for general discussion of all things RISC OS. Following the group&#8217;s own record of having eighteen consecutive meetings with a guest speaker, this month sees the group&#8217;s second consecutive meeting without one &#8211; I&#8217;ll have to check with Bryan Hogan, who organises the meetings, to find out if is&#8230;]]>
-      </description>
-      <source:markdown>Tonight (17th August) is when the next RISC OS User Group of London (ROUGOL) meeting will take place, and like last month’s meeting it hasn’t been possible to arrange a guest speaker, so the meeting will again be an open one for general discussion of all things RISC OS. Following the group’s own record of having eighteen consecutive meetings with a guest speaker, this month sees the group’s second consecutive meeting without one – I’ll have to check with Bryan Hogan, who organises the meetings, to find out if is…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=11001</guid>
-      <category>User groups</category>
-      <category>Meeting</category>
-      <category>ROUGOL</category>
-      <category>User Group</category>
     </item>
   </channel>
 </rss>

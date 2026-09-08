@@ -4,10 +4,94 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>07 Sep 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>08 Sep 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The picture in the house by H. P.  Lovecraft</title>
+      <link>https://www.gutenberg.org/ebooks/79405</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Some imagist poets, 1917 : by Aldington and Fletcher and Flint and H. D.  and Lawrence and Lowell</title>
+      <link>https://www.gutenberg.org/ebooks/79529</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The prophetic marriage by Warwick Deeping</title>
+      <link>https://www.gutenberg.org/ebooks/79530</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Inscriptions from Dante&#39;s Divina Commedia in the streets of Florence by Ida Riedisser</title>
+      <link>https://www.gutenberg.org/ebooks/79531</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Neka, the boy conjuror : by Edward Stratemeyer</title>
+      <link>https://www.gutenberg.org/ebooks/79533</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Segundo livro de crítica : by Luciano Cordeiro</title>
+      <link>https://www.gutenberg.org/ebooks/79528</link>
+      <description>
+        <![CDATA[Language: Portuguese]]>
+      </description>
+      <source:markdown>Language: Portuguese</source:markdown>
+    </item>    <item>
+      <title>Moby Dick; Or, The Whale by Herman Melville</title>
+      <link>https://www.gutenberg.org/ebooks/2701</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Stopping &#39;em with lead by W. Wirt</title>
+      <link>https://www.gutenberg.org/ebooks/79526</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The pageant of Parliament, vol. 2 of 2 by Michael MacDonagh</title>
+      <link>https://www.gutenberg.org/ebooks/79527</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Tintinnalogia : by Richard Duckworth and Fabian Stedman</title>
+      <link>https://www.gutenberg.org/ebooks/18567</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Mr. Fortune&#39;s maggot by Sylvia Townsend Warner</title>
+      <link>https://www.gutenberg.org/ebooks/79534</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Les enfants de Caïn by Louis Roubaud</title>
+      <link>https://www.gutenberg.org/ebooks/79532</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
       <title>Flesh by Karl Detzer</title>
       <link>https://www.gutenberg.org/ebooks/79518</link>
       <description>
@@ -1541,13 +1625,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>The picture in the house by H. P.  Lovecraft</title>
-      <link>https://www.gutenberg.org/ebooks/79405</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Ten poems, 1913-1915 by Alice Meynell</title>
       <link>https://www.gutenberg.org/ebooks/79403</link>
       <description>
@@ -1736,97 +1813,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Mémoires de Beaumarchais; vol. 1 by Pierre Augustin Caron de Beaumarchais</title>
-      <link>https://www.gutenberg.org/ebooks/79323</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>The voice of El-lil by Robert E.  Howard</title>
-      <link>https://www.gutenberg.org/ebooks/79376</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Golliwog News : by Fay Inchfawn and Philip Inchfawn</title>
-      <link>https://www.gutenberg.org/ebooks/79377</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Oracles of Nostradamus by Nostradamus and Chas. A. Ward</title>
-      <link>https://www.gutenberg.org/ebooks/79378</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Saint Mungo&#39;s city; vol. 1 [of 3] by Sarah Tytler</title>
-      <link>https://www.gutenberg.org/ebooks/79371</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Saint Mungo&#39;s city; vol. 2 [of 3] by Sarah Tytler</title>
-      <link>https://www.gutenberg.org/ebooks/79372</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Saint Mungo&#39;s city; vol. 3 [of 3] by Sarah Tytler</title>
-      <link>https://www.gutenberg.org/ebooks/79373</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Memoirs of Napoleon Bonaparte — Complete by Louis Antoine Fauvelet de Bourrienne</title>
-      <link>https://www.gutenberg.org/ebooks/3567</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Mr. Standfast by John Buchan</title>
-      <link>https://www.gutenberg.org/ebooks/560</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Four Arthurian Romances by active 12th century de Troyes Chrétien</title>
-      <link>https://www.gutenberg.org/ebooks/831</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Preaching of Islam: A History of the Propagation of the Muslim Faith by Sir Thomas Walker Arnold</title>
-      <link>https://www.gutenberg.org/ebooks/66960</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Michael Strogoff : by Jules Verne</title>
-      <link>https://www.gutenberg.org/ebooks/79379</link>
-      <description>
-        <![CDATA[Language: Dutch]]>
-      </description>
-      <source:markdown>Language: Dutch</source:markdown>
-    </item>    <item>
-      <title>The dilemma of the liberated : by Gorham Bert Munson</title>
-      <link>https://www.gutenberg.org/ebooks/79374</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>

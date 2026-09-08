@@ -4,10 +4,59 @@
   <channel>
     <title><![CDATA[GLAM]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>07 Sep 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>08 Sep 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>What Can a Computer See?: Testing the Limits of Automated QA for Web Archives</title>
+      <link>https://blogs.loc.gov/thesignal/2026/09/what-can-a-computer-see/</link>
+      <description>
+        <![CDATA[A 2026 Junior Fellowship project explored whether automated screenshot comparison could make quality assurance more manageable for the Library of Congress web archives. By comparing computer-generated visual similiarity metrics with staff assessments, we found that automation cannot replace human judgement but may help prioritize captures most likely to have serious issues.]]>
+      </description>
+      <source:markdown>A 2026 Junior Fellowship project explored whether automated screenshot comparison could make quality assurance more manageable for the Library of Congress web archives. By comparing computer-generated visual similiarity metrics with staff assessments, we found that automation cannot replace human judgement but may help prioritize captures most likely to have serious issues.</source:markdown>
+      <guid>cid://https://blogs.loc.gov/thesignal/?p=38121</guid>
+      <category>Internships and Fellowships</category>
+      <category>Tools and Infrastructure</category>
+      <category>Web Archiving</category>
+    </item>    <item>
+      <title>Up Close and Personal with the Trump Administration’s NIH Funding Cuts: An Interview with Sylvia Chou and Alexa Romberg</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/09/08/up-close-and-personal-with-the-trump-administrations-nih-funding-cuts-an-interview-with-sylvia-chou-and-alexa-romberg/</link>
+      <description>
+        <![CDATA[<p>Today's interview with Sylvia Chou and Alexa Romberg, formerly of NIH, sheds some light on censorship at the agency and the damage it's doing to health research.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/09/08/up-close-and-personal-with-the-trump-administrations-nih-funding-cuts-an-interview-with-sylvia-chou-and-alexa-romberg/">Up Close and Personal with the Trump Administration’s NIH Funding Cuts: An Interview with Sylvia Chou and Alexa Romberg</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Today&#39;s interview with Sylvia Chou and Alexa Romberg, formerly of NIH, sheds some light on censorship at the agency and the damage it&#39;s doing to health research.
+
+The post [Up Close and Personal with the Trump Administration’s NIH Funding Cuts: An Interview with Sylvia Chou and Alexa Romberg](https://scholarlykitchen.sspnet.org/2026/09/08/up-close-and-personal-with-the-trump-administrations-nih-funding-cuts-an-interview-with-sylvia-chou-and-alexa-romberg/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62685</guid>
+      <category>Policy</category>
+      <category>27 UNIHTED</category>
+      <category>censorship</category>
+      <category>interview</category>
+      <category>Lysenkoism</category>
+      <category>National Institutes of Health (NIH)</category>
+      <category>NIH</category>
+      <category>science funding</category>
+      <category>Trump</category>
+      <category>Trump administration</category>
+    </item>    <item>
+      <title>What Your RFP Isn’t Asking: Lessons from a Real Procurement Journey</title>
+      <link>https://libnova.com/rfp-to-procurement/</link>
+      <description>
+        <![CDATA[<p>Most advice about digital preservation RFPs focuses on what to put in the document: which standards to require, which architecture to demand, which boxes to check. That&#8217;s useful advice, and we&#8217;ve written about it before — our recent piece on future-proofing your RFP breaks down the four pillars every institution should prioritize when drafting requirements. [&#8230;]</p>
+        <p>The post <a rel="nofollow" href="https://libnova.com/rfp-to-procurement/">What Your RFP Isn&#8217;t Asking: Lessons from a Real Procurement Journey</a> appeared first on <a rel="nofollow" href="https://libnova.com">LIBNOVA</a>.</p>]]>
+      </description>
+      <source:markdown>Most advice about digital preservation RFPs focuses on what to put in the document: which standards to require, which architecture to demand, which boxes to check. That’s useful advice, and we’ve written about it before — our recent piece on future-proofing your RFP breaks down the four pillars every institution should prioritize when drafting requirements. \[…\]
+
+The post [What Your RFP Isn’t Asking: Lessons from a Real Procurement Journey](https://libnova.com/rfp-to-procurement/) appeared first on [LIBNOVA](https://libnova.com).</source:markdown>
+      <guid>cid://https://libnova.com/?p=14291</guid>
+      <category>Best practices</category>
+      <category>Digital Preservation</category>
+      <category>Digital Preservation Community</category>
+      <category>Procurement</category>
+      <category>RFP</category>
+      <category>Tips</category>
+    </item>    <item>
       <title>Rogue Scholar has archived all blog posts as PDF</title>
       <link>https://blog.front-matter.de/posts/rogue-scholar-has-archived-all-blog-posts-as-pdf/</link>
       <description>
@@ -1356,88 +1405,6 @@ The post [Guest Post — Preserving the Record, Shaping the Future: Why Diversit
       <category>preservation</category>
       <category>racial bias</category>
       <category>reducing bias</category>
-    </item>    <item>
-      <title>ARL Daily Intelligence (August 17–20)</title>
-      <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-17-20/</link>
-      <description>
-        <![CDATA[<p>Last Updated on August 20, 2026, 5:14 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
-        <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-17-20/">ARL Daily Intelligence (August 17–20)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <source:markdown>Last Updated on August 20, 2026, 5:14 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
-
-The post [ARL Daily Intelligence (August 17–20)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-august-17-20/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=49601</guid>
-      <category>ARL Daily Intelligence</category>
-    </item>    <item>
-      <title>No Layoffs Is Not a Finding</title>
-      <link>https://metaarchivist.substack.com/p/no-layoffs-is-not-a-finding</link>
-      <description>
-        <![CDATA[Why the evidence on AI and records work stops exactly where the question begins]]>
-      </description>
-      <source:markdown>Why the evidence on AI and records work stops exactly where the question begins</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!wpYG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F559a763f-a62d-4e2c-abdc-8c2a000a04ac_1983x793.png" length="0" type="image/jpeg" />
-      <guid>cid://https://metaarchivist.substack.com/p/no-layoffs-is-not-a-finding</guid>
-    </item>    <item>
-      <title>Service Restored from Overnight Power Outage</title>
-      <link>https://blog.archive.org/2026/08/17/service-restored-from-overnight-power-outage/</link>
-      <description>
-        <![CDATA[Yesterday, the Internet Archive experienced a power outage that took some of our services offline and degraded others. The power outage at one of our datacenters was caused by damage [&#8230;]]]>
-      </description>
-      <source:markdown>Yesterday, the Internet Archive experienced a power outage that took some of our services offline and degraded others. The power outage at one of our datacenters was caused by damage \[…\]</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=30870</guid>
-      <category>Announcements</category>
-    </item>    <item>
-      <title>Registration is Now Open For Internet Archive’s Annual Celebration</title>
-      <link>https://blog.archive.org/2026/08/17/registration-is-now-open-for-internet-archives-annual-celebration/</link>
-      <description>
-        <![CDATA[Democracy’s Library: Tools for ParticipationWednesday, October 21, 2026Internet Archive, San FranciscoREGISTER: In person &#124; Virtual Democracy invites participation; democracies require it. At the Internet Archive, we believe libraries can help [&#8230;]]]>
-      </description>
-      <source:markdown>Democracy’s Library: Tools for ParticipationWednesday, October 21, 2026Internet Archive, San FranciscoREGISTER: In person \| Virtual Democracy invites participation; democracies require it. At the Internet Archive, we believe libraries can help \[…\]</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=30868</guid>
-      <category>Announcements</category>
-      <category>Event</category>
-      <category>celebration</category>
-    </item>    <item>
-      <title>Guest Post — When Errors Become Consensus: Science’s Self-Correction Can No Longer Keep Up</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/08/17/guest-post-when-errors-become-consensus-sciences-self-correction-can-no-longer-keep-up/</link>
-      <description>
-        <![CDATA[<p>From 19th-century beef tea to paper mills and generative AI, the challenge is no longer detection alone; it is preventing bad claims from becoming embedded knowledge.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/08/17/guest-post-when-errors-become-consensus-sciences-self-correction-can-no-longer-keep-up/">Guest Post — When Errors Become Consensus: Science’s Self-Correction Can No Longer Keep Up</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>From 19th-century beef tea to paper mills and generative AI, the challenge is no longer detection alone; it is preventing bad claims from becoming embedded knowledge.
-
-The post [Guest Post — When Errors Become Consensus: Science’s Self-Correction Can No Longer Keep Up](https://scholarlykitchen.sspnet.org/2026/08/17/guest-post-when-errors-become-consensus-sciences-self-correction-can-no-longer-keep-up/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62530</guid>
-      <category>Artificial Intelligence</category>
-      <category>Ethics</category>
-      <category>Infrastructure</category>
-      <category>Research</category>
-      <category>Research Integrity</category>
-      <category>citation bias</category>
-      <category>confirmation bias</category>
-      <category>disinformation</category>
-      <category>Eric Hellman</category>
-      <category>herd mentality</category>
-      <category>Jason Hu</category>
-      <category>Liebig</category>
-      <category>meat</category>
-      <category>misinformation</category>
-      <category>OXO</category>
-      <category>synthetic consensus</category>
-    </item>    <item>
-      <title>Community: The Key to Effective Digital Preservation Strategy</title>
-      <link>https://libnova.com/community-digitalpreservation/</link>
-      <description>
-        <![CDATA[<p>Digital preservation is often framed as a technical challenge—storage architecture, checksums, and migration pipelines. But ask anyone caring for a growing archive, and they’ll tell you the heart of this work lies elsewhere: true innovation doesn&#8217;t happen in isolation, but through shared wisdom and open collaboration. No tool can replace the vision, heart, and creative [&#8230;]</p>
-        <p>The post <a rel="nofollow" href="https://libnova.com/community-digitalpreservation/">Community: The Key to Effective Digital Preservation Strategy</a> appeared first on <a rel="nofollow" href="https://libnova.com">LIBNOVA</a>.</p>]]>
-      </description>
-      <source:markdown>Digital preservation is often framed as a technical challenge—storage architecture, checksums, and migration pipelines. But ask anyone caring for a growing archive, and they’ll tell you the heart of this work lies elsewhere: true innovation doesn’t happen in isolation, but through shared wisdom and open collaboration. No tool can replace the vision, heart, and creative \[…\]
-
-The post [Community: The Key to Effective Digital Preservation Strategy](https://libnova.com/community-digitalpreservation/) appeared first on [LIBNOVA](https://libnova.com).</source:markdown>
-      <guid>cid://https://libnova.com/?p=14255</guid>
-      <category>Digital Preservation</category>
-      <category>Digital Preservation Community</category>
-      <category>Tips</category>
     </item>
   </channel>
 </rss>
