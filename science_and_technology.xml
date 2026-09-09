@@ -4,10 +4,170 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>08 Sep 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>09 Sep 26 06:40 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Lindsay Clancy and postpartum psychosis</title>
+      <link>https://www.npr.org/2026/09/09/nx-s1-5958289/health-pregnancy-clancy-trial-mental</link>
+      <description>
+        <![CDATA[The trial around Lindsay Clancy may be over for now, but it still leaves us with questions. On today’s episode, we talk to psychiatrists and patients to answer them: What is postpartum psychosis, exactly? Why don’t we know more about it? And what can you do if you are worried about a postpartum loved one?<br/><br/><em>Interested in more stories on mental health? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>The trial around Lindsay Clancy may be over for now, but it still leaves us with questions. On today’s episode, we talk to psychiatrists and patients to answer them: What is postpartum psychosis, exactly? Why don’t we know more about it? And what can you do if you are worried about a postpartum loved one?
+
+_Interested in more stories on mental health? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/4d397d7c-2ed6-49b8-b4ec-04248d55dc34/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=4d397d7c-2ed6-49b8-b4ec-04248d55dc34&feed=F0qJcgXZ&t=podcast&e=nx-s1-5958289&p=510351&d=850&size=13612556" length="13612556" type="audio/mpeg" />
+      <guid>cid://3c852c16-d35b-42b9-b2ee-55926f3b4dcd</guid>
+    </item>    <item>
+      <title>Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars</title>
+      <link>https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/</link>
+      <description>
+        <![CDATA[Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug. 28, 2026 The span of sols spanned by this blog post is noteworthy in several ways. First, Curiosity became a world-class (for Mars at least) mountaineer by passing the 1 kilometer mark of elevation from its landing site on the floor […]]]>
+      </description>
+      <source:markdown>Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug. 28, 2026 The span of sols spanned by this blog post is noteworthy in several ways. First, Curiosity became a world-class (for Mars at least) mountaineer by passing the 1 kilometer mark of elevation from its landing site on the floor \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/</guid>
+      <category>Blogs</category>
+    </item>    <item>
+      <title>Anak Krakatau Rumbles Again</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again/</link>
+      <description>
+        <![CDATA[A powerful eruption from the Indonesian volcano lofted ash into the atmosphere, disrupting thousands of flights and degrading air quality.]]>
+      </description>
+      <source:markdown>A powerful eruption from the Indonesian volcano lofted ash into the atmosphere, disrupting thousands of flights and degrading air quality.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again/</guid>
+      <category>Earth Observatory</category>
+      <category>Landsat 8 / LDCM (Landsat Data Continuity Mission)</category>
+      <category>Visible Infrared Imaging Radiometer Suite (VIIRS)</category>
+      <category>Volcanoes</category>
+    </item>    <item>
+      <title>FreeBSD 14.5 released</title>
+      <link>https://www.osnews.com/story/145929/freebsd-14-5-released/</link>
+      <description>
+        <![CDATA[Yesterday we had the final maintenance release for the NetBSD 9.x series, and today we have FreeBSD 14.5 entering the scene. Since this release is occurring late in a legacy stable branch, there are few new features; rather, the focus is primarily on maintenance. As such, changes since 14.4-RELEASE consist mostly of bug fixes, driver updates, and new versions of externally-maintained software. ↫ FreeBSD 14.5 release announcement The adventurous among us are already on the 15.x branch, but those of us running mission-critical systems are most likely still rocking 14.x, and for you, this is a must.]]>
+      </description>
+      <source:markdown>Yesterday we had the final maintenance release for the NetBSD 9.x series, and today we have FreeBSD 14.5 entering the scene. Since this release is occurring late in a legacy stable branch, there are few new features; rather, the focus is primarily on maintenance. As such, changes since 14.4-RELEASE consist mostly of bug fixes, driver updates, and new versions of externally-maintained software. ↫ FreeBSD 14.5 release announcement The adventurous among us are already on the 15.x branch, but those of us running mission-critical systems are most likely still rocking 14.x, and for you, this is a must.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145929</guid>
+      <category>FreeBSD</category>
+    </item>    <item>
+      <title>Antiquated HTML snippets and artefacts</title>
+      <link>https://www.osnews.com/story/145927/antiquated-html-snippets-and-artefacts/</link>
+      <description>
+        <![CDATA[With ever-changing devices, browsers, operating systems, form factors, specifications, personal preferences, tooling, and corporate interests, the web is in a constant state of flux. As a result, so is the HTML we write. For every line of the HTML specification itself that has changed since the language’s inception, there are many more bits of HTML that have seen what I’ll call ‘environmental’ changes. Adaptations to differing browsers, extensions, integrations, and systems which we find HTML existing in. This article doesn’t cover once-specced but now obsolete bits of HTML but instead looks at all the snippets that have wormed their way into websites as result of, or in combat against, third-party integrations, browser competition, vendor extensions, and platform-specific hacks. The bits of HTML that were included for reasons, and which have been forgotten for present irrelevance. The snippets that live on only in the markup of sites from bygone eras and in the minds of those who fought during the browser wars. ↫ Declan Chidlow I don&#8217;t do any HTML or website development, and even I clearly recognise quite a few of these. Especially the countless relics of the large technology companies trying to worm their way into the various web standards of decades ago serve as a stark reminder of how many times they tried and failed &#8211; which should tell you something about all the times they tried and succeeded.]]>
+      </description>
+      <source:markdown>With ever-changing devices, browsers, operating systems, form factors, specifications, personal preferences, tooling, and corporate interests, the web is in a constant state of flux. As a result, so is the HTML we write. For every line of the HTML specification itself that has changed since the language’s inception, there are many more bits of HTML that have seen what I’ll call ‘environmental’ changes. Adaptations to differing browsers, extensions, integrations, and systems which we find HTML existing in. This article doesn’t cover once-specced but now obsolete bits of HTML but instead looks at all the snippets that have wormed their way into websites as result of, or in combat against, third-party integrations, browser competition, vendor extensions, and platform-specific hacks. The bits of HTML that were included for reasons, and which have been forgotten for present irrelevance. The snippets that live on only in the markup of sites from bygone eras and in the minds of those who fought during the browser wars. ↫ Declan Chidlow I don’t do any HTML or website development, and even I clearly recognise quite a few of these. Especially the countless relics of the large technology companies trying to worm their way into the various web standards of decades ago serve as a stark reminder of how many times they tried and failed – which should tell you something about all the times they tried and succeeded.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145927</guid>
+      <category>Internet</category>
+    </item>    <item>
+      <title>Stealing Candy From Children, Splash-Proof Urinals and Buried Panties, Oh My! Here Are the Winners of the 2026 Ig Nobel Prizes</title>
+      <link>https://www.smithsonianmag.com/smart-news/stealing-candy-from-children-splash-proof-urinals-and-buried-panties-oh-my-here-are-the-winners-of-the-2026-ig-nobel-prizes-180989463/</link>
+      <description>
+        <![CDATA[The awards are an unaffiliated spoof of the Nobel Prizes. They highlight research achievements that are surprising and silly-sounding—but also make people think]]>
+      </description>
+      <source:markdown>The awards are an unaffiliated spoof of the Nobel Prizes. They highlight research achievements that are surprising and silly-sounding—but also make people think</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/7cwdXb5s4p2qGCbM-5jnKSkc0mw=/420x240/filters:focal(1024x819:1025x820)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5a/18/5a18ee76-29b8-4312-801b-10403122a8b9/790301025_1907260287363681_7934810595457474372_n.jpg" length="357309" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/stealing-candy-from-children-splash-proof-urinals-and-buried-panties-oh-my-here-are-the-winners-of-the-2026-ig-nobel-prizes-180989463/</guid>
+    </item>    <item>
+      <title>From the Corps to the Cosmos, featuring Jaden Caradine</title>
+      <link>https://www.nasa.gov/general/from-the-corps-to-the-cosmos-featuring-jaden-caradine/</link>
+      <description>
+        <![CDATA[Jaden Caradine knew he wanted to be an engineer at eight years old. He just took a winding road to get there. Before he enrolled at Embry-Riddle Aeronautical University, before he discovered the field that would become his focus, and before he landed a Pathways internship at NASA&#8217;s Langley Research Center in Hampton, Virginia, Caradine [&#8230;]]]>
+      </description>
+      <source:markdown>Jaden Caradine knew he wanted to be an engineer at eight years old. He just took a winding road to get there. Before he enrolled at Embry-Riddle Aeronautical University, before he discovered the field that would become his focus, and before he landed a Pathways internship at NASA’s Langley Research Center in Hampton, Virginia, Caradine \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1043425</guid>
+      <category>General</category>
+      <category>Commercial Space</category>
+      <category>Internships</category>
+    </item>    <item>
+      <title>NASA Calls for Proposals to Accelerate Lunar Surface Technologies</title>
+      <link>https://www.nasa.gov/news-release/nasa-calls-for-proposals-to-accelerate-lunar-surface-technologies/</link>
+      <description>
+        <![CDATA[NASA is seeking proposals to advance the technology and infrastructure needed to explore the Moon and establish a Moon Base in the lunar South Pole region. Announced on Tuesday, Sept. 8, the solicitation targets capability gaps, including power generation, oxygen extraction, and producing materials on the Moon required for construction and operations. These technologies are [&#8230;]]]>
+      </description>
+      <source:markdown>NASA is seeking proposals to advance the technology and infrastructure needed to explore the Moon and establish a Moon Base in the lunar South Pole region. Announced on Tuesday, Sept. 8, the solicitation targets capability gaps, including power generation, oxygen extraction, and producing materials on the Moon required for construction and operations. These technologies are \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1045129</guid>
+      <category>Lunar Surface Technology Research</category>
+      <category>Moon Base</category>
+    </item>    <item>
+      <title>Thieves Broke Into a French Museum and Made Off With Renoir Paintings Worth More Than $2.5 Million</title>
+      <link>https://www.smithsonianmag.com/smart-news/thieves-broke-into-a-french-museum-and-made-off-with-renoir-paintings-worth-more-than-25-million-180989462/</link>
+      <description>
+        <![CDATA[Early today, burglars stole four artworks from the Renoir Museum, in the French Riviera, only to drop two of them as they escaped]]>
+      </description>
+      <source:markdown>Early today, burglars stole four artworks from the Renoir Museum, in the French Riviera, only to drop two of them as they escaped</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/lAZOvOTDcz4R-gQx1L52VU8G1OQ=/420x240/filters:focal(863x575:864x576)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/25/a0/25a0aa25-6886-4d8d-b4f6-65d28fe4dd09/800781231_1737427244230131_4510547318998373369_n_1.jpeg" length="2321519" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/thieves-broke-into-a-french-museum-and-made-off-with-renoir-paintings-worth-more-than-25-million-180989462/</guid>
+    </item>    <item>
+      <title>These Adorable, Critically Endangered Pygmy Raccoons in Cozumel Are Teaching One Another to Turn Trash Into Toy Balls</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-adorable-critically-endangered-pygmy-raccoons-in-cozumel-are-teaching-one-another-to-turn-trash-into-toy-balls-180989459/</link>
+      <description>
+        <![CDATA[The observations offer rare evidence of a skill being passed among raccoons. But the work also highlights the effects of human pollution at the popular tourist destination]]>
+      </description>
+      <source:markdown>The observations offer rare evidence of a skill being passed among raccoons. But the work also highlights the effects of human pollution at the popular tourist destination</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/9TIsk4UtZ2yvwIj6pi01T4gD-yE=/420x240/filters:focal(2560x1707:2561x1708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/55/d6/55d6d83b-532e-46dc-85c8-53988b371fa3/pygmy-raccoons.jpg" length="10036600" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/these-adorable-critically-endangered-pygmy-raccoons-in-cozumel-are-teaching-one-another-to-turn-trash-into-toy-balls-180989459/</guid>
+    </item>    <item>
+      <title>Superbubble in the Large Magellanic Cloud</title>
+      <link>https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/</link>
+      <description>
+        <![CDATA[NASA&#8217;s Hubble Space Telescope captures a photogenic nebula, N44, in the Large Magellanic Cloud in this Sept. 3, 2026, image. N44 is dominated by two features: a vast central void and a shell of dense, dusty gas. The central void is a ‘superbubble’ spanning roughly 210 by 140 light-years across. The glittering stars at the [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s Hubble Space Telescope captures a photogenic nebula, N44, in the Large Magellanic Cloud in this Sept. 3, 2026, image. N44 is dominated by two features: a vast central void and a shell of dense, dusty gas. The central void is a ‘superbubble’ spanning roughly 210 by 140 light-years across. The glittering stars at the \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1045006</guid>
+      <category>Nebulae</category>
+    </item>    <item>
+      <title>Scientists May Have Finally Detected a Hint of Dark Matter, the Mysterious, Invisible Stuff That Holds the Universe Together</title>
+      <link>https://www.smithsonianmag.com/smart-news/scientists-may-have-finally-detected-a-hint-of-dark-matter-the-mysterious-invisible-stuff-that-holds-the-universe-together-180989440/</link>
+      <description>
+        <![CDATA[A South Dakota-based instrument built to detect theoretical dark matter particles has sensed a particle interaction that's difficult to explain with known phenomena. But more data is needed to confirm that the strange substance—which scientists have never directly observed—is, indeed, the culprit]]>
+      </description>
+      <source:markdown>A South Dakota-based instrument built to detect theoretical dark matter particles has sensed a particle interaction that&#39;s difficult to explain with known phenomena. But more data is needed to confirm that the strange substance—which scientists have never directly observed—is, indeed, the culprit</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/T0TO_noso0aJJ43Hiui03JbYp7Q=/420x240/filters:focal(720x300:721x301)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/09/ab/09ab3c0d-6792-47ea-9db3-608caa4ed0b8/mod-190124-lz-lower-pmt-array-0104-pano-hdr-edit-5953_x_5953px.jpg" length="409031" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-may-have-finally-detected-a-hint-of-dark-matter-the-mysterious-invisible-stuff-that-holds-the-universe-together-180989440/</guid>
+    </item>    <item>
+      <title>NASA Technique for Manipulating Satellite Photos Now Reveals Ancient Images</title>
+      <link>https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/</link>
+      <description>
+        <![CDATA[Algorithm NASA first applied to satellite imagery is now used to peer into antiquity]]>
+      </description>
+      <source:markdown>Algorithm NASA first applied to satellite imagery is now used to peer into antiquity</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1041705</guid>
+      <category>Technology Transfer &#38; Spinoffs</category>
+      <category>Spinoffs</category>
+      <category>Technology Transfer</category>
+    </item>    <item>
+      <title>1,000 Museum Visitors Dive Into NASA Sea Level Science on World Ocean Day</title>
+      <link>https://science.nasa.gov/learning-resources/science-activation/1000-museum-visitors-dive-into-nasa-sea-level-science-on-world-ocean-day/</link>
+      <description>
+        <![CDATA[More than 1,000 visitors explored NASA sea level science firsthand during World Ocean Day at the University of Georgia Aquarium on Skidaway Island on June 6, 2026.]]>
+      </description>
+      <source:markdown>More than 1,000 visitors explored NASA sea level science firsthand during World Ocean Day at the University of Georgia Aquarium on Skidaway Island on June 6, 2026.</source:markdown>
+      <guid>cid://https://science.nasa.gov/learning-resources/science-activation/1000-museum-visitors-dive-into-nasa-sea-level-science-on-world-ocean-day/</guid>
+      <category>Earth Science</category>
+      <category>For Colleges &#38; Universities</category>
+      <category>Opportunities For Educators to Get Involved</category>
+      <category>Science Activation</category>
+    </item>    <item>
+      <title>NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past</title>
+      <link>https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/</link>
+      <description>
+        <![CDATA[For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, Trans-Neptunian Objects (TNOs). Some of these are the smallest and faintest ever directly seen. The researchers unexpectedly found fewer small TNOs than they expected, and that […]]]>
+      </description>
+      <source:markdown>For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, Trans-Neptunian Objects (TNOs). Some of these are the smallest and faintest ever directly seen. The researchers unexpectedly found fewer small TNOs than they expected, and that \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/</guid>
+      <category>Astrophysics</category>
+      <category>Astrophysics Division</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Hubble Space Telescope</category>
+      <category>James Webb Space Telescope (JWST)</category>
+      <category>Small Bodies of the Solar System</category>
+      <category>The Solar System</category>
+    </item>    <item>
       <title>Routine Yard Work Reveals a Trove of Viking Silver—the Largest Treasure of Its Kind Ever Discovered in Denmark</title>
       <link>https://www.smithsonianmag.com/smart-news/routine-yard-work-reveals-a-trove-of-viking-silver-the-largest-treasure-of-its-kind-ever-discovered-in-denmark-180989456/</link>
       <description>
@@ -16,6 +176,17 @@
       <source:markdown>The collection includes coins, jewelry, silver bars and a tiny artifact shaped like Thor&#39;s hammer. Experts say the roughly 700 items were buried during the tenth century</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/or09xAmFToZQWOkp9MATE8zTmFI=/420x240/filters:focal(975x660:976x661)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/95/43/9543c0d6-d8e6-41b5-acd2-e351ebf3f44a/vikingesoelvskat-rebild-2026-6-2048x1365.jpeg" length="2200211" type="image/jpeg" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/routine-yard-work-reveals-a-trove-of-viking-silver-the-largest-treasure-of-its-kind-ever-discovered-in-denmark-180989456/</guid>
+    </item>    <item>
+      <title>AI Has Solved One of Math’s $1 Million Millennium Prize Problems</title>
+      <link>https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/</link>
+      <description>
+        <![CDATA[Mathematicians at OpenAI showed that the Navier-Stokes equations, which describe how fluids flow, can sometimes “blow up.” But the massive result is not without controversy.            <p>The post <a href="https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/" target="_blank">AI Has Solved One of Math’s $1 Million Millennium Prize Problems</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Mathematicians at OpenAI showed that the Navier-Stokes equations, which describe how fluids flow, can sometimes “blow up.” But the massive result is not without controversy.
+
+The post [AI Has Solved One of Math’s $1 Million Millennium Prize Problems](https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=166677</guid>
+      <category>Mathematics</category>
     </item>    <item>
       <title>How hurricanes triggered lizard evolution</title>
       <link>https://www.npr.org/2026/09/08/nx-s1-5948030/weather-storm-hurricane-lizard-science-news</link>
@@ -2438,206 +2609,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <source:markdown>APODScienceAPODAPOD: 2026 August 19 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this video please enable JavaScript, and consider upgrading to a web browser that supports \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/</guid>
       <category>APOD</category>
-    </item>    <item>
-      <title>Do Monkeys Keep Pets? Study Finds Widespread Primate Interactions With Other Animal Species, From Mice to Deer</title>
-      <link>https://www.smithsonianmag.com/smart-news/do-monkeys-keep-pets-study-finds-widespread-primate-interactions-with-other-animal-species-from-mice-to-deer-180989356/</link>
-      <description>
-        <![CDATA[This social behavior might reveal the evolutionary roots of traits that underlie pet-keeping in humans, scientists say, from caregiving to tolerance and curiosity. But it's not the same as a person keeping a cat or a dog]]>
-      </description>
-      <source:markdown>This social behavior might reveal the evolutionary roots of traits that underlie pet-keeping in humans, scientists say, from caregiving to tolerance and curiosity. But it&#39;s not the same as a person keeping a cat or a dog</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/YpPHUykMsYdM8jsaxOuoaNYgT3A=/420x240/filters:focal(864x683:865x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/96/29/96293c84-c9d0-4e95-937e-0c025c80d88e/screenshot_2026-08-17_at_34552pm.png" length="4079643" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/do-monkeys-keep-pets-study-finds-widespread-primate-interactions-with-other-animal-species-from-mice-to-deer-180989356/</guid>
-    </item>    <item>
-      <title>This Newly Approved Narcolepsy Drug Is the First to Target the Sleep Disorder&#39;s Root Cause Rather Than Its Symptoms</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-newly-approved-narcolepsy-drug-is-the-first-to-target-the-sleep-disorders-root-cause-rather-than-its-symptoms-180989362/</link>
-      <description>
-        <![CDATA[The Food and Drug Administration just greenlit a medication called Orzeyful for the treatment of narcolepsy type 1 in adults. The condition is caused by the loss of brain cells that produce orexin, a chemical important for regulating the sleep-wake cycle]]>
-      </description>
-      <source:markdown>The Food and Drug Administration just greenlit a medication called Orzeyful for the treatment of narcolepsy type 1 in adults. The condition is caused by the loss of brain cells that produce orexin, a chemical important for regulating the sleep-wake cycle</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/D9V3yh83DLBlrG431lUPwy5L_hc=/420x240/filters:focal(3000x2000:3001x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/47/fc/47fc814d-c7fd-46ae-b4d2-5f8be614e012/narcolepsy.jpg" length="15323807" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-newly-approved-narcolepsy-drug-is-the-first-to-target-the-sleep-disorders-root-cause-rather-than-its-symptoms-180989362/</guid>
-    </item>    <item>
-      <title>NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details</title>
-      <link>https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/</link>
-      <description>
-        <![CDATA[Between Aug. 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images of a new crater on the Moon. The crater formed on Aug. 5, when a SpaceX Falcon 9 upper stage impacted the surface following its January 2025 launch of the Firefly Blue Ghost 1 mission. To capture imagery of the […]]]>
-      </description>
-      <source:markdown>Between Aug. 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images of a new crater on the Moon. The crater formed on Aug. 5, when a SpaceX Falcon 9 upper stage impacted the surface following its January 2025 launch of the Firefly Blue Ghost 1 mission. To capture imagery of the \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/</guid>
-      <category>Commercial Space</category>
-      <category>Craters</category>
-      <category>Earth&#39;s Moon</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Humans in Space</category>
-      <category>Lunar Reconnaissance Orbiter (LRO)</category>
-      <category>Missions</category>
-      <category>NASA Centers &#38; Facilities</category>
-      <category>NASA Directorates</category>
-      <category>Planetary Defense</category>
-      <category>Planetary Defense Coordination Office</category>
-      <category>Planetary Science</category>
-      <category>Planetary Science Division</category>
-      <category>Science Mission Directorate</category>
-      <category>The Solar System</category>
-    </item>    <item>
-      <title>NASA Student Aviation Challenge Focuses on Nation’s Infrastructure</title>
-      <link>https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/</link>
-      <description>
-        <![CDATA[NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based infrastructure, such as bridges and tunnels, to improve safety, reliability, and costs by 2035 or sooner. Infrastructure is the foundation of the nation’s strong economy, global competitiveness, and daily quality of life. When that infrastructure is [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based infrastructure, such as bridges and tunnels, to improve safety, reliability, and costs by 2035 or sooner. Infrastructure is the foundation of the nation’s strong economy, global competitiveness, and daily quality of life. When that infrastructure is \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1038723</guid>
-      <category>Aeronautics</category>
-      <category>Center of Excellence for Collaborative Innovation (CoECI)</category>
-      <category>CoECI News</category>
-      <category>General</category>
-      <category>Get Involved</category>
-      <category>Opportunities to Contribute to NASA Missions &#38; Get Involved</category>
-      <category>Prizes, Challenges, &#38; Crowdsourcing News</category>
-      <category>Prizes, Challenges, and Crowdsourcing Program</category>
-      <category>Research and Technology Mission Directorate</category>
-      <category>Transformative Aeronautics Concepts Program</category>
-      <category>University Innovation</category>
-    </item>    <item>
-      <title>Inside the Fight to Save a 300-Year-Old Tree That Survived a Revolutionary War Battle</title>
-      <link>https://www.smithsonianmag.com/smart-news/inside-fight-to-save-300-year-old-tree-that-survived-revolutionary-war-battle-180989357/</link>
-      <description>
-        <![CDATA[Arborists are working to preserve the 45-foot-tall live oak in South Carolina's Eutaw Springs Battlefield Park. The historic tree suffered damage during a lightning strike 50 years ago]]>
-      </description>
-      <source:markdown>Arborists are working to preserve the 45-foot-tall live oak in South Carolina&#39;s Eutaw Springs Battlefield Park. The historic tree suffered damage during a lightning strike 50 years ago</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2KJOlnI1_FBHJCtOIKlZqwfvxV4=/420x240/filters:focal(2732x1821:2733x1822)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/72/b5/72b5f8c0-76bf-4a8c-b7a7-2add2c87b156/081226_savatree-3.jpg" length="21586352" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/inside-fight-to-save-300-year-old-tree-that-survived-revolutionary-war-battle-180989357/</guid>
-    </item>    <item>
-      <title>Stolen Masterpieces Worth $10 Million Discovered in a Cardboard Box, Months After Thieves Snuck Into a Museum and Whisked Them Away Into the Night</title>
-      <link>https://www.smithsonianmag.com/smart-news/stolen-masterpieces-worth-10-million-discovered-in-a-cardboard-box-months-after-thieves-snuck-into-a-museum-and-whisked-them-away-into-the-night-180989358/</link>
-      <description>
-        <![CDATA[The artworks by Cézanne, Renoir and Matisse disappeared in a three-minute heist earlier this year. Now, police have arrested five suspects in connection with the burglary in northern Italy]]>
-      </description>
-      <source:markdown>The artworks by Cézanne, Renoir and Matisse disappeared in a three-minute heist earlier this year. Now, police have arrested five suspects in connection with the burglary in northern Italy</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/e9vt8Kfz9LPB6z4XkQcag3MnmjA=/420x240/filters:focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/51/39/5139c616-4dae-49b2-8762-b46f5129fc88/ap26226378287784.jpg" length="347361" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/stolen-masterpieces-worth-10-million-discovered-in-a-cardboard-box-months-after-thieves-snuck-into-a-museum-and-whisked-them-away-into-the-night-180989358/</guid>
-    </item>    <item>
-      <title>NASA’s B777 Gets New Coat of Paint</title>
-      <link>https://www.nasa.gov/image-article/nasas-b777-gets-new-coat-of-paint/</link>
-      <description>
-        <![CDATA[NASA&#8217;s Boeing 777 shows off a new paint job in this Aug. 11, 2026, photo. The B777 was acquired to replace and extend the capabilities of the NASA DC-8, which was retired in 2024. The B777, set to begin operations from NASA&#8217;s Langley Research Center in Hampton, Virginia in 2027, will be a unique flying [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s Boeing 777 shows off a new paint job in this Aug. 11, 2026, photo. The B777 was acquired to replace and extend the capabilities of the NASA DC-8, which was retired in 2024. The B777, set to begin operations from NASA’s Langley Research Center in Hampton, Virginia in 2027, will be a unique flying \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1038484</guid>
-    </item>    <item>
-      <title>These Coral Reefs Off West Africa Were Long Presumed Dead. Scientists Just Found Them Alive and Teeming With Life</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-coral-reefs-off-west-africa-were-long-presumed-dead-scientists-just-found-them-alive-and-teeming-with-life-180989350/</link>
-      <description>
-        <![CDATA[Fish surveys in the 1960s detected what experts thought was a dead coral reef barrier off the country of Benin. Decades later, researchers set off in small fishing boats to investigate it using sonar mapping, underwater drone surveys and stationary video recorders]]>
-      </description>
-      <source:markdown>Fish surveys in the 1960s detected what experts thought was a dead coral reef barrier off the country of Benin. Decades later, researchers set off in small fishing boats to investigate it using sonar mapping, underwater drone surveys and stationary video recorders</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/bGNTfjkD0geyZg2JGlvAIO_oxsw=/420x240/filters:focal(791x407:792x408)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/33/61/33616fe6-ca67-48ac-aef5-b6688f9adf93/e3a9deb0-b760-4205-844e-b0f2564d35e1.png" length="3192555" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/these-coral-reefs-off-west-africa-were-long-presumed-dead-scientists-just-found-them-alive-and-teeming-with-life-180989350/</guid>
-    </item>    <item>
-      <title>Avoiding These Three Vascular Health Risk Factors in Midlife Can Help You Delay Dementia for About 13 Years, Study Suggests</title>
-      <link>https://www.smithsonianmag.com/smart-news/avoiding-these-three-vascular-health-risk-factors-in-midlife-can-help-you-delay-dementia-for-about-13-years-study-suggests-180989354/</link>
-      <description>
-        <![CDATA[High blood pressure, diabetes and smoking are three major modifiable risk factors of dementia. New research tracked more than 12,000 participants to quantify how many years of healthy cognitive function you can gain by evading some or all of them during middle age]]>
-      </description>
-      <source:markdown>High blood pressure, diabetes and smoking are three major modifiable risk factors of dementia. New research tracked more than 12,000 participants to quantify how many years of healthy cognitive function you can gain by evading some or all of them during middle age</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/h-oEdsE0tm8r63Yb_ZpKqMG06P0=/420x240/filters:focal(2926x1951:2927x1952)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c4/7b/c47b94b6-a678-4fb2-be73-f04b3e171819/pexels-shvets-production-8900036.jpg" length="1703095" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/avoiding-these-three-vascular-health-risk-factors-in-midlife-can-help-you-delay-dementia-for-about-13-years-study-suggests-180989354/</guid>
-    </item>    <item>
-      <title>NASA Glenn’s Legacy Forged Through Decades of Flight Research</title>
-      <link>https://www.nasa.gov/general/nasa-glenn-inflight-research/</link>
-      <description>
-        <![CDATA[Many of NASA’s most important aerospace breakthroughs that began in the laboratory were&#160;ultimately proven&#160;in the sky. For decades, experts at NASA’s Glenn Research Center in Cleveland conducted flight tests — piloting&#160;aircraft&#160;into targeted environments such as icing clouds and carefully defined atmospheric routes. This approach allowed them to collect measurements directly in flight, providing critical data [&#8230;]]]>
-      </description>
-      <source:markdown>Many of NASA’s most important aerospace breakthroughs that began in the laboratory were ultimately proven in the sky. For decades, experts at NASA’s Glenn Research Center in Cleveland conducted flight tests — piloting aircraft into targeted environments such as icing clouds and carefully defined atmospheric routes. This approach allowed them to collect measurements directly in flight, providing critical data \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1036938</guid>
-      <category>General</category>
-      <category>Aeronautics</category>
-      <category>Armstrong Flight Research Center</category>
-      <category>Glenn Research Center</category>
-      <category>NASA Aircraft</category>
-      <category>NASA History</category>
-    </item>    <item>
-      <title>The road to MS-DOS 2</title>
-      <link>https://www.osnews.com/story/145852/the-road-to-ms-dos-2/</link>
-      <description>
-        <![CDATA[A great and concise history of the run-up to MS-DOS 2.0. Yet, there was a nagging feeling that a single-tasking CP/M clone was inadequate for the new generation of personal computers. Digital Research released multi-user, multitasking MP/M-86 in September 1981 and announced the single‑user multitasking Concurrent CP/M in early 1982. In response, Microsoft came up with a plan for tiered approach to its operating systems: single-user/single-tasking MS-DOS at the bottom; multi-user/multitasking XENIX at the top; and in the middle, something called XEDOS: a single-user version of XENIX. This “pyramid of upward-compatible operating systems” was announced in a Byte Magazine editorial in January 1982. ↫ Nemanja Trifunovic I&#8217;ve always found this tiered approach fascinating, and the world surely would&#8217;ve looked quite different had Microsoft been able to make it work. I doubt Windows NT would ever have existed, and most of the world would probably be running a XENIX-based Windows today (all else being equal, which is of course unlikely and silly). Regardless, MS-DOS 2.0 contained a few UNIX-like utilities to deal with its brand new support for directory trees and other new features, and even had a /dev directory.]]>
-      </description>
-      <source:markdown>A great and concise history of the run-up to MS-DOS 2.0. Yet, there was a nagging feeling that a single-tasking CP/M clone was inadequate for the new generation of personal computers. Digital Research released multi-user, multitasking MP/M-86 in September 1981 and announced the single‑user multitasking Concurrent CP/M in early 1982. In response, Microsoft came up with a plan for tiered approach to its operating systems: single-user/single-tasking MS-DOS at the bottom; multi-user/multitasking XENIX at the top; and in the middle, something called XEDOS: a single-user version of XENIX. This “pyramid of upward-compatible operating systems” was announced in a Byte Magazine editorial in January 1982. ↫ Nemanja Trifunovic I’ve always found this tiered approach fascinating, and the world surely would’ve looked quite different had Microsoft been able to make it work. I doubt Windows NT would ever have existed, and most of the world would probably be running a XENIX-based Windows today (all else being equal, which is of course unlikely and silly). Regardless, MS-DOS 2.0 contained a few UNIX-like utilities to deal with its brand new support for directory trees and other new features, and even had a /dev directory.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145852</guid>
-      <category>Legacy OSes</category>
-    </item>    <item>
-      <title>PervertPods: Apple is adding cameras to AirPods</title>
-      <link>https://www.osnews.com/story/145850/pervertpods-apple-is-adding-cameras-to-airpods/</link>
-      <description>
-        <![CDATA[If you thought pervert glasses weren&#8217;t bad enough, Apple is taking it up a notch by adding cameras to its AirPods. Apple is working on camera-equipped AirPods that appear to be nearly ready to launch, based on a video MacRumors found in the macOS Tahoe 26.7 release candidate. In a short demo, a man holds a book up so the camera in the AirPods can see the title. &#8220;With Visual Intelligence, your world becomes savable. See something you like? Just ask me to save it for later,&#8221; says the voiceover text. ↫ Juli Clover at MacRumors AirPods are tiny. I&#8217;ve seen people use them at the gym. I&#8217;ve seen them on playgrounds. I&#8217;ve seen them around swimming pools. People use them at the beach. They&#8217;re used at schools. In locker rooms. Tiny cameras in tiny AirPods that can photograph anything in front of the user are a pervert&#8217;s wet dream. Abusers are going to love this. Why wear bulky glasses anyone can see and try to demand you take off, when you can wear tiny AirPods that have already been fully normalised in society? Was there not a single woman or parent on the team that made this? All over the United States, people are destroying Flock surveillance cameras. More and more communities are rising up and demanding these things removed from their streets and neighbourhoods. The awareness of just how pervasive mass government surveillance has become is growing, and Silicon Valley&#8217;s complicity is not exactly a secret. And in this climate of rapidly growing concern and anger, Apple is going to add tiny cameras to its tiny AirPods. Was there not a single person of colour or protester on the team that made this? How detached from reality do you have to be to greenlight something like this? Does anyone &#8211; regardless of skin colour, gender, or political leaning &#8211; want even more cameras around them?]]>
-      </description>
-      <source:markdown>If you thought pervert glasses weren’t bad enough, Apple is taking it up a notch by adding cameras to its AirPods. Apple is working on camera-equipped AirPods that appear to be nearly ready to launch, based on a video MacRumors found in the macOS Tahoe 26.7 release candidate. In a short demo, a man holds a book up so the camera in the AirPods can see the title. “With Visual Intelligence, your world becomes savable. See something you like? Just ask me to save it for later,” says the voiceover text. ↫ Juli Clover at MacRumors AirPods are tiny. I’ve seen people use them at the gym. I’ve seen them on playgrounds. I’ve seen them around swimming pools. People use them at the beach. They’re used at schools. In locker rooms. Tiny cameras in tiny AirPods that can photograph anything in front of the user are a pervert’s wet dream. Abusers are going to love this. Why wear bulky glasses anyone can see and try to demand you take off, when you can wear tiny AirPods that have already been fully normalised in society? Was there not a single woman or parent on the team that made this? All over the United States, people are destroying Flock surveillance cameras. More and more communities are rising up and demanding these things removed from their streets and neighbourhoods. The awareness of just how pervasive mass government surveillance has become is growing, and Silicon Valley’s complicity is not exactly a secret. And in this climate of rapidly growing concern and anger, Apple is going to add tiny cameras to its tiny AirPods. Was there not a single person of colour or protester on the team that made this? How detached from reality do you have to be to greenlight something like this? Does anyone – regardless of skin colour, gender, or political leaning – want even more cameras around them?</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145850</guid>
-      <category>Apple</category>
-    </item>    <item>
-      <title>Quake shareware, a CD-ROM just a little too full</title>
-      <link>https://www.osnews.com/story/145848/quake-shareware-a-cd-rom-just-a-little-too-full/</link>
-      <description>
-        <![CDATA[I was around when Quake was launched, but I was entirely unaware of this story. By June 1996, after three years of hard work, id Software had completed their next title, Quake. As for their previous title, they were going to release both a shareware version and a full version of their game. Since it used a mere 22 MiB of storage, people at id Software had the idea of leveraging the remaining capacity of a CD-ROM. Why not include encrypted versions of the full id catalogue of games? Not only this would cut out the middlemen, it would give instant access to gamers with a simple phone call and a credit card. The concept was implemented. The CD was announced on July 3, 1996 and released on August 30th. The hacker group GNOMON released Quakecrk.zip only 39 days later. The archive contained QCRACK.EXE, a tool allowing to decrypt every single game on the CD-ROM. ↫ Fabien Sanglard The system id employed turned out to be incredibly primitive and simple, and hackers found out quite easily that the system required no secret sauce from id at all &#8211; the code you&#8217;d get over the phone contained no secret, and all the validation program on the disk did was check to ensure the code received over the phone matched the code generated by the disk. No wonder it took them only 39 days to crack this.]]>
-      </description>
-      <source:markdown>I was around when Quake was launched, but I was entirely unaware of this story. By June 1996, after three years of hard work, id Software had completed their next title, Quake. As for their previous title, they were going to release both a shareware version and a full version of their game. Since it used a mere 22 MiB of storage, people at id Software had the idea of leveraging the remaining capacity of a CD-ROM. Why not include encrypted versions of the full id catalogue of games? Not only this would cut out the middlemen, it would give instant access to gamers with a simple phone call and a credit card. The concept was implemented. The CD was announced on July 3, 1996 and released on August 30th. The hacker group GNOMON released Quakecrk.zip only 39 days later. The archive contained QCRACK.EXE, a tool allowing to decrypt every single game on the CD-ROM. ↫ Fabien Sanglard The system id employed turned out to be incredibly primitive and simple, and hackers found out quite easily that the system required no secret sauce from id at all – the code you’d get over the phone contained no secret, and all the validation program on the disk did was check to ensure the code received over the phone matched the code generated by the disk. No wonder it took them only 39 days to crack this.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145848</guid>
-      <category>Games</category>
-    </item>    <item>
-      <title>Beyond the limits of physical VRAM</title>
-      <link>https://www.osnews.com/story/145846/beyond-the-limits-of-physical-vram/</link>
-      <description>
-        <![CDATA[Earlier this year, Natalie Vock made a splash with a set of patches to the Linux kernel that greatly increased performance on AMD GPUs with lower amounts of VRAM. With that work now accepted by upstream, Vock decided to turn their attention to another interesting problem: what if you run out of VRAM, and how can we improve performance when we do? Regardless, what I hope this blogpost can demonstrate is that even if you end up with some memory evicted to system RAM, the slowdown can be manageable. There’s measures that drivers (particularly, the kernel driver) can take to make overcommit work as fast as possible, and even applications can do their part in coordinating with the driver stack to mitigate the effects of their memory being evicted. With everything in place, VRAM overcommit isn’t really as big of a deal as one may think it is at first sight. ↫ Natalie Vock The work Vock has done has already been in SteamOS for a while, and they&#8217;re currently in the process of upstreaming it to the vanilla kernel as well. Since this is a complex set of patches and changes, this may take a while, and as such, they&#8217;ve prepared custom kernel and Mesa branches for adventurous users. Do note that these branches won&#8217;t be maintained much, and are entirely experimental, not as well-tested as the SteamOS kernel, and probably won&#8217;t yield the same performance improvements. Still, this is the kind of work that has a material impact for users. Not everyone has a 16GB monster GPU, especially not today with supply chains ravaged and ruined by slopmakers, so it&#8217;s great to see the Linux world working to improve performance for everyone, not just the wealthy few.]]>
-      </description>
-      <source:markdown>Earlier this year, Natalie Vock made a splash with a set of patches to the Linux kernel that greatly increased performance on AMD GPUs with lower amounts of VRAM. With that work now accepted by upstream, Vock decided to turn their attention to another interesting problem: what if you run out of VRAM, and how can we improve performance when we do? Regardless, what I hope this blogpost can demonstrate is that even if you end up with some memory evicted to system RAM, the slowdown can be manageable. There’s measures that drivers (particularly, the kernel driver) can take to make overcommit work as fast as possible, and even applications can do their part in coordinating with the driver stack to mitigate the effects of their memory being evicted. With everything in place, VRAM overcommit isn’t really as big of a deal as one may think it is at first sight. ↫ Natalie Vock The work Vock has done has already been in SteamOS for a while, and they’re currently in the process of upstreaming it to the vanilla kernel as well. Since this is a complex set of patches and changes, this may take a while, and as such, they’ve prepared custom kernel and Mesa branches for adventurous users. Do note that these branches won’t be maintained much, and are entirely experimental, not as well-tested as the SteamOS kernel, and probably won’t yield the same performance improvements. Still, this is the kind of work that has a material impact for users. Not everyone has a 16GB monster GPU, especially not today with supply chains ravaged and ruined by slopmakers, so it’s great to see the Linux world working to improve performance for everyone, not just the wealthy few.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145846</guid>
-      <category>Linux</category>
-    </item>    <item>
-      <title>Were Touch Bar’s problems software rather than hardware?</title>
-      <link>https://www.osnews.com/story/145844/were-touch-bars-problems-software-rather-than-hardware/</link>
-      <description>
-        <![CDATA[The Touch Bar arrived in 2016 seemingly already pre-doomed, on a generation of machines that had a “we’ve run out of ideas” smell all around them. The arrow keys were reshaped, the keyboard got a slimming down, and even the beloved MagSafe wasn’t, in fact, safe. All of these changes would prove unpopular and get reverted in time, and the axe would eventually come for the Touch Bar, too. With an enormous benefit of hindsight, a decade after its arrival, and on the (rumored) eve of fully multitouch MacBooks, I wanted to look critically at the Touch Bar in more detail. I put a spicy title above this post, and while I’m not sure I can answer it in the affirmative, I feel I got surprisingly close to that. ↫ Marcin Wichary I have never spent this much reading about and pondering a technology seemingly nobody liked and that I never really used. I still think there&#8217;s merit to the idea of screen on a keyboard, but only if the screens are integrated into the individual keys (as some products have tried over the years). Of course, this would also be astronomically expensive, delicate, and virtually impossible to repair, so I&#8217;m not sure something like that can be reasonably made at an affordable price.]]>
-      </description>
-      <source:markdown>The Touch Bar arrived in 2016 seemingly already pre-doomed, on a generation of machines that had a “we’ve run out of ideas” smell all around them. The arrow keys were reshaped, the keyboard got a slimming down, and even the beloved MagSafe wasn’t, in fact, safe. All of these changes would prove unpopular and get reverted in time, and the axe would eventually come for the Touch Bar, too. With an enormous benefit of hindsight, a decade after its arrival, and on the (rumored) eve of fully multitouch MacBooks, I wanted to look critically at the Touch Bar in more detail. I put a spicy title above this post, and while I’m not sure I can answer it in the affirmative, I feel I got surprisingly close to that. ↫ Marcin Wichary I have never spent this much reading about and pondering a technology seemingly nobody liked and that I never really used. I still think there’s merit to the idea of screen on a keyboard, but only if the screens are integrated into the individual keys (as some products have tried over the years). Of course, this would also be astronomically expensive, delicate, and virtually impossible to repair, so I’m not sure something like that can be reasonably made at an affordable price.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145844</guid>
-      <category>Apple</category>
-    </item>    <item>
-      <title>A survivor&#39;s view from inside a tornado</title>
-      <link>https://www.npr.org/2026/08/18/nx-s1-5887624/tornado-weather-live-chase-cloud-storm</link>
-      <description>
-        <![CDATA[What’s the dumbest thing Perry Samson says he’s ever done? Getting caught inside a tornado.  But when you’re an atmospheric scientist who studies supercell thunderstorms—with a special interest in the ones that cause tornadoes—that sort of thing is a bit of an occupational hazard. Lucky for Perry, he also made a split-second decision while in the tornado that may be the smartest thing he’s ever done. So today on the show: What we can learn from nature at its wildest.<br/><br/><em>Interested in more </em><em>science behind the weather?</em><em> Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at <a href="http://plus.npr.org/"target="_blank"   >plus.npr.org</a>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>What’s the dumbest thing Perry Samson says he’s ever done? Getting caught inside a tornado.  But when you’re an atmospheric scientist who studies supercell thunderstorms—with a special interest in the ones that cause tornadoes—that sort of thing is a bit of an occupational hazard. Lucky for Perry, he also made a split-second decision while in the tornado that may be the smartest thing he’s ever done. So today on the show: What we can learn from nature at its wildest.
-
-_Interested in more_ _science behind the weather?_ _Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at [plus.npr.org](http://plus.npr.org/)._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/9769546e-f6c6-40bb-b072-6f68458719a5/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=9769546e-f6c6-40bb-b072-6f68458719a5&feed=F0qJcgXZ&t=podcast&e=nx-s1-5887624&p=510351&d=746&size=11941974" length="11941974" type="audio/mpeg" />
-      <guid>cid://7cbf171c-76a8-43b8-8076-f174190e95c6</guid>
-    </item>    <item>
-      <title>APOD: 2026 August 18 – Perseids from Perseus</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-august-18-perseids-from-perseus/</link>
-      <description>
-        <![CDATA[APODScienceAPODAPOD: 2026 August 18 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Perseids from Perseus Explanation: This was a good year for the Perseids meteor shower. A key reason was the Moon was [&#8230;]]]>
-      </description>
-      <source:markdown>APODScienceAPODAPOD: 2026 August 18 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Perseids from Perseus Explanation: This was a good year for the Perseids meteor shower. A key reason was the Moon was \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-august-18-perseids-from-perseus/</guid>
-      <category>APOD</category>
-    </item>    <item>
-      <title>Lala Batters Hawaii</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/lala-batters-hawaii/</link>
-      <description>
-        <![CDATA[The powerful storm delivered extreme rainfall and damaging winds to the state, passing the Island of Hawaiʻi as a category 1 hurricane.]]>
-      </description>
-      <source:markdown>The powerful storm delivered extreme rainfall and damaging winds to the state, passing the Island of Hawaiʻi as a category 1 hurricane.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/lala-batters-hawaii/</guid>
-      <category>Earth Observatory</category>
-      <category>Hurricanes &#38; Typhoons</category>
-      <category>Visible Infrared Imaging Radiometer Suite (VIIRS)</category>
     </item>
   </channel>
 </rss>

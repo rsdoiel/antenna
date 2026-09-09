@@ -9,7 +9,7 @@ title: North America
 - [Federal News Network](https://federalnewsnetwork.com/feed/)
 - Saturday Evening Post, <https://www.saturdayeveningpost.com/feed/>
 - The American Prospect <https://prospect.org/feed/>, rarely read it RSD 2026-06-25
-
+- [Washington Sun](https://washingtonsun.com/index.rss)
 
 # Government News Sources
 

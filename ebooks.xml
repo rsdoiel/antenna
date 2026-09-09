@@ -4,10 +4,66 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>08 Sep 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>09 Sep 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Mr. Fortune&#39;s maggot by Sylvia Townsend Warner</title>
+      <link>https://www.gutenberg.org/ebooks/79534</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The House of the Arrow by A. E. W.  Mason</title>
+      <link>https://www.gutenberg.org/ebooks/67514</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The story of the world a thousand years hence : by Henry Olerich</title>
+      <link>https://www.gutenberg.org/ebooks/79536</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Days with Walt Whitman : by Edward Carpenter</title>
+      <link>https://www.gutenberg.org/ebooks/79537</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Squee by Margaret St. Clair</title>
+      <link>https://www.gutenberg.org/ebooks/79539</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Le bourgeois by Abel Hermant</title>
+      <link>https://www.gutenberg.org/ebooks/79540</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Life of a licensed victualler&#39;s daughter by Mary Ann Ashford</title>
+      <link>https://www.gutenberg.org/ebooks/79535</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Traditions and stories of Scottish castles by A. H. Millar</title>
+      <link>https://www.gutenberg.org/ebooks/79538</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>The picture in the house by H. P.  Lovecraft</title>
       <link>https://www.gutenberg.org/ebooks/79405</link>
       <description>
@@ -73,13 +129,6 @@
     </item>    <item>
       <title>Tintinnalogia : by Richard Duckworth and Fabian Stedman</title>
       <link>https://www.gutenberg.org/ebooks/18567</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Mr. Fortune&#39;s maggot by Sylvia Townsend Warner</title>
-      <link>https://www.gutenberg.org/ebooks/79534</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1694,125 +1743,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>East of Siam : by Harry Alverson Franck</title>
-      <link>https://www.gutenberg.org/ebooks/78626</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Au pays des souvenirs : by Armand Silvestre</title>
-      <link>https://www.gutenberg.org/ebooks/78875</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Evidence by Murray Leinster</title>
-      <link>https://www.gutenberg.org/ebooks/79381</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Collected poems of Alice Meynell by Alice Meynell</title>
-      <link>https://www.gutenberg.org/ebooks/79380</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Party girl by Robert Silverberg</title>
-      <link>https://www.gutenberg.org/ebooks/79382</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Clever—? by Jack Woodford</title>
-      <link>https://www.gutenberg.org/ebooks/79383</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>James Branch Cabell by Carl Van Doren</title>
-      <link>https://www.gutenberg.org/ebooks/79393</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Little Caesar by William Riley Burnett</title>
-      <link>https://www.gutenberg.org/ebooks/79392</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Five miles to Perdition : by Henry Herbert Knibbs</title>
-      <link>https://www.gutenberg.org/ebooks/79385</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Recluses by Raymond S.  Spears</title>
-      <link>https://www.gutenberg.org/ebooks/79384</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The death&#39;s head meteor by Neil R. Jones</title>
-      <link>https://www.gutenberg.org/ebooks/79386</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Il salotto della contessa Maffei e la società milanese : by Raffaello Barbiera</title>
-      <link>https://www.gutenberg.org/ebooks/79391</link>
-      <description>
-        <![CDATA[Language: Italian]]>
-      </description>
-      <source:markdown>Language: Italian</source:markdown>
-    </item>    <item>
-      <title>Maxwell Drewitt, vol. 2 of 2 : by Mrs. J. H. Riddell</title>
-      <link>https://www.gutenberg.org/ebooks/79387</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The two brothers; vol. 1 [of 3] by Lady Emily Ponsonby</title>
-      <link>https://www.gutenberg.org/ebooks/79388</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The two brothers; vol. 2 [of 3] by Lady Emily Ponsonby</title>
-      <link>https://www.gutenberg.org/ebooks/79389</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The two brothers; vol. 3 [of 3] by Lady Emily Ponsonby</title>
-      <link>https://www.gutenberg.org/ebooks/79390</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Cézanne by Joachim Gasquet</title>
-      <link>https://www.gutenberg.org/ebooks/78132</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
     </item>
   </channel>
 </rss>

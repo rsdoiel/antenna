@@ -4,10 +4,51 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>08 Sep 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>09 Sep 26 06:41 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>MICROCALCULATOR MODEL-85</title>
+      <link>http://retro.hansotten.nl/microcalculator-model-85/</link>
+      <description>
+        <![CDATA[A board that serves as a calculator accessible via a parallel 8 bit port, e.g. from a KIM-1. Send commands and read the calculated results. Made by Artisan Electronics in 1977. Acquired August 2026, as built in a KIM-1 with KIMSI system. Page updated September 2026 with scans and KIM-1 source of the original manual [&#8230;]]]>
+      </description>
+      <source:markdown>A board that serves as a calculator accessible via a parallel 8 bit port, e.g. from a KIM-1. Send commands and read the calculated results. Made by Artisan Electronics in 1977. Acquired August 2026, as built in a KIM-1 with KIMSI system. Page updated September 2026 with scans and KIM-1 source of the original manual \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=22157</guid>
+      <category>6502</category>
+      <category>kim-1</category>
+    </item>    <item>
+      <title>WROCC Newsletter Volume 43:05 reviewed</title>
+      <link>http://www.iconbar.com/comments/rss/news2371.html</link>
+      <description>
+        <![CDATA[The September edition of WROCC's mini magazine was sent out to subscribers last week.]]>
+      </description>
+      <source:markdown>The September edition of WROCC&#39;s mini magazine was sent out to subscribers last week.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2371.html</guid>
+    </item>    <item>
+      <title>Advanced Video Coding Still Under Patent</title>
+      <link>http://www.linux-magazine.com/Online/News/Advanced-Video-Coding-Still-Under-Patent</link>
+      <description>
+        <![CDATA[<p>Brazilian patent BRPI0109962B1 has expired, which means that DivX and Xvid are no longer problematic for Linux, but it doesn’t mean that video is all of a sudden fully unleashed.</p>]]>
+      </description>
+      <source:markdown>Brazilian patent BRPI0109962B1 has expired, which means that DivX and Xvid are no longer problematic for Linux, but it doesn’t mean that video is all of a sudden fully unleashed.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://d51ce33ca3efd75b1290115a28e0c3e9</guid>
+    </item>    <item>
+      <title>Time to shoot ’em up with Avenger</title>
+      <link>https://www.riscository.com/2026/avenger-game-released/</link>
+      <description>
+        <![CDATA[Jeroen Vermeulen has released another game ported to RISC OS from the Code the Classics Volume II tome from Raspberry Pi Press &#8211; the last one from that particular book, so no more unless there&#8217;s another volume &#8211; and this time, you&#8217;ll find yourself blasting aliens and saving people in Avenger. Based on the classic title Defender (and there was a version for the BBC Micro called Planetoid) the game puts you in charge of a vessel flying over a world in which the inhabitants it are under attack from&#8230;]]>
+      </description>
+      <source:markdown>Jeroen Vermeulen has released another game ported to RISC OS from the Code the Classics Volume II tome from Raspberry Pi Press – the last one from that particular book, so no more unless there’s another volume – and this time, you’ll find yourself blasting aliens and saving people in Avenger. Based on the classic title Defender (and there was a version for the BBC Micro called Planetoid) the game puts you in charge of a vessel flying over a world in which the inhabitants it are under attack from…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11027</guid>
+      <category>Software</category>
+      <category>Avenger</category>
+      <category>Code the Classics</category>
+      <category>Defender</category>
+      <category>Game</category>
+      <category>Planetoid</category>
+    </item>    <item>
       <title>Avenger release completes the set of Code the Classics Volume 2 conversions</title>
       <link>http://www.iconbar.com/comments/rss/news2375.html</link>
       <description>
@@ -389,23 +430,6 @@ What problem does Font Directory Pro solve?</source:markdown>
       </description>
       <source:markdown>Autism: Because mummy never had sex with me!</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260819</guid>
-    </item>    <item>
-      <title>The Bullet-Proof KDE Software Initiative Is Coming</title>
-      <link>http://www.linux-magazine.com/Online/News/The-Bullet-Proof-KDE-Software-Initiative-Is-Coming</link>
-      <description>
-        <![CDATA[<p>KDE, Techpaladin, and Kubuntu Focus have announced a new initiative that will provide at least three years of support for KDE Plasma 6.6 LTS and related software.</p>]]>
-      </description>
-      <source:markdown>KDE, Techpaladin, and Kubuntu Focus have announced a new initiative that will provide at least three years of support for KDE Plasma 6.6 LTS and related software.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://958064c666e78011506dcbb5060aabe7</guid>
-    </item>    <item>
-      <title>b.log 2026/08/18 - Ghosts.</title>
-      <link>https://heyrick.eu/blog/entry/20260818</link>
-      <description>
-        <![CDATA[Ghosts.]]>
-      </description>
-      <source:markdown>Ghosts.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260818</guid>
     </item>
   </channel>
 </rss>
