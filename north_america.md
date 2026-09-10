@@ -10,6 +10,7 @@ title: North America
 - Saturday Evening Post, <https://www.saturdayeveningpost.com/feed/>
 - The American Prospect <https://prospect.org/feed/>, rarely read it RSD 2026-06-25
 - [Washington Sun](https://washingtonsun.com/index.rss)
+- [South Dakota Standard](https://www.sdstandardnow.com/home?format=rss)
 
 # Government News Sources
 

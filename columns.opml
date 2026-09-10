@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>09 Sep 26 06:39 -0700</dateCreated>
+        <dateCreated>10 Sep 26 06:43 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -304,6 +304,7 @@
         <outline text="Pleiades STOA at hcommons.socal" type="rss" xmlUrl="https://hcommons.social/@pleiades_gazetteer.rss" htmlUrl="https://hcommons.social/@pleiades_gazetteer" description="Public posts from @pleiades_gazetteer@hcommons.social"></outline>
         <outline text="Pod Save America" type="rss" xmlUrl="https://crooked.com/podcast-series/pod-save-america/feed/" htmlUrl="https://www.crooked.com/podcast-series/pod-save-america/,https://crooked.com/podcast-series/pod-save-america/feed/" url="https://crooked.com/podcast-series/pod-save-america/feed/"></outline>
         <outline text="Pointers gone wild blog" type="rss" xmlUrl="https://pointersgonewild.com/rss.xml" htmlUrl="https://pointersgonewild.com/" description="Latest Posts from Pointers Gone Wild"></outline>
+        <outline text="Popular Information (Judd Legum)" type="rss" xmlUrl="https://popular.info/feed" htmlUrl="https://popular.info,https://popular.info/feed" description="Independent accountability journalism. " url="https://popular.info/feed"></outline>
         <outline text="Post-Platform Toolkit" type="rss" xmlUrl="https://toolkit.wellgedacht.org/feed.php" htmlUrl="https://toolkit.wellgedacht.org/"></outline>
         <outline text="Press Think" type="rss" xmlUrl="https://pressthink.org/feed/" htmlUrl="https://pressthink.org/,https://pressthink.org/feed/" description="PressThink, a project of the Arthur L. Carter Journalism Institute at New York University, is written by Jay Rosen." url="https://pressthink.org/feed/"></outline>
         <outline text="Prof. Griswold blog, UCSD Software Evolution Lab" type="rss" xmlUrl="https://profgriz.wordpress.com/feed/" htmlUrl="https://profgriz.wordpress.com,https://profgriz.wordpress.com/feed/" description="Reflections of a computer science professor" url="https://profgriz.wordpress.com/feed/"></outline>

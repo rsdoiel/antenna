@@ -4,10 +4,224 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>09 Sep 26 06:40 -0700</lastBuildDate>
+    <lastBuildDate>10 Sep 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment</title>
+      <link>https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/</link>
+      <description>
+        <![CDATA[AI inference chipmaker d-Matrix today announced it will use NVIDIA NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners. By connecting Raptor to NVIDIA NVLink scale-up and Spectrum-X scale-out networking, the NVIDIA MGX rack architecture and the broader NVIDIA AI platform, NVLink Fusion [&#8230;]]]>
+      </description>
+      <source:markdown>AI inference chipmaker d-Matrix today announced it will use NVIDIA NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners. By connecting Raptor to NVIDIA NVLink scale-up and Spectrum-X scale-out networking, the NVIDIA MGX rack architecture and the broader NVIDIA AI platform, NVLink Fusion \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=98153</guid>
+      <category>Corporate</category>
+    </item>    <item>
+      <title>Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/</link>
+      <description>
+        <![CDATA[Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week. WARDOGS drops onto the cloud at early-access launch, alongside the Valheim 1.0 Deep North update and Bus Simulator 27 — part of nine new titles joining the cloud. The newest PC releases can demand serious hardware, storage [&#8230;]]]>
+      </description>
+      <source:markdown>Gear up: The latest PC games and major updates are ready to play on GeForce NOW this week. WARDOGS drops onto the cloud at early-access launch, alongside the Valheim 1.0 Deep North update and Bus Simulator 27 — part of nine new titles joining the cloud. The newest PC releases can demand serious hardware, storage \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=98103</guid>
+      <category>Gaming</category>
+      <category>Cloud Gaming</category>
+      <category>GeForce NOW</category>
+    </item>    <item>
+      <title>APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 September 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. LDN 1295: The [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 September 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. LDN 1295: The \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/</guid>
+      <category>APOD</category>
+    </item>    <item>
+      <title>Dust Storm Sweeps Over Mali</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/dust-storm-sweeps-over-mali/</link>
+      <description>
+        <![CDATA[At a time of year when dust storm activity winds down, a plume of dust blanketed parts of the West African nation and its neighbors.]]>
+      </description>
+      <source:markdown>At a time of year when dust storm activity winds down, a plume of dust blanketed parts of the West African nation and its neighbors.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/dust-storm-sweeps-over-mali/</guid>
+    </item>    <item>
+      <title>The new Apple Watch is always recording and transcribing everything it hears</title>
+      <link>https://www.osnews.com/story/145940/the-new-apple-watch-is-always-recording-and-transcribing-everything-it-hears/</link>
+      <description>
+        <![CDATA[Do tech companies ever stop to think about the misery they unleash on people’s lives? The Apple Watch Series 12 uses “Audio Intelligence” that, as well as secretly taking notes, also has a Live Rewind feature that can replay the last 15 seconds of recently detected audio and view a text transcript. ↫ Matt Growcoot at PetaPixel Another win for us Europeans: this dystopian nightmare will not be available in the EU.]]>
+      </description>
+      <source:markdown>Do tech companies ever stop to think about the misery they unleash on people’s lives? The Apple Watch Series 12 uses “Audio Intelligence” that, as well as secretly taking notes, also has a Live Rewind feature that can replay the last 15 seconds of recently detected audio and view a text transcript. ↫ Matt Growcoot at PetaPixel Another win for us Europeans: this dystopian nightmare will not be available in the EU.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145940</guid>
+      <category>Apple</category>
+    </item>    <item>
+      <title>Solaris’ turnstiles</title>
+      <link>https://www.osnews.com/story/145938/solaris-turnstiles/</link>
+      <description>
+        <![CDATA[Although Solaris is now mostly defunct, its influence remains substantial; technologies pioneered by Solaris can still be found across a wide range of software A lot of Solaris&#8217; inventions have been described and talked about ad nauseam (such as the Slab Allocator), but one I rarely see discussed is its use of turnstiles. Despite being relatively obscure, the idea has quietly spread far beyond Solaris. Variations of it can now be found in major operating systems, web browsers, and language runtimes. In fact, you’re probably using several implementations of the same basic concept right now! ↫ Loïc Grégoire I&#8217;m not going to pretend to understand all of this, but I know you people do, and many of you will definitely find this interesting to read. Also note that Grégoire develops their own operating system kernel called zag.]]>
+      </description>
+      <source:markdown>Although Solaris is now mostly defunct, its influence remains substantial; technologies pioneered by Solaris can still be found across a wide range of software A lot of Solaris’ inventions have been described and talked about ad nauseam (such as the Slab Allocator), but one I rarely see discussed is its use of turnstiles. Despite being relatively obscure, the idea has quietly spread far beyond Solaris. Variations of it can now be found in major operating systems, web browsers, and language runtimes. In fact, you’re probably using several implementations of the same basic concept right now! ↫ Loïc Grégoire I’m not going to pretend to understand all of this, but I know you people do, and many of you will definitely find this interesting to read. Also note that Grégoire develops their own operating system kernel called zag.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145938</guid>
+      <category>Solaris</category>
+    </item>    <item>
+      <title>Archaeologists Excavating a Roman-Era Cemetery in Poland Were Surprised to Stumble Upon a 5,000-Year-Old Necklace Made of 42 Teeth</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-excavating-a-roman-era-cemetery-in-poland-were-surprised-to-stumble-upon-a-5000-year-old-necklace-made-of-42-teeth-180989471/</link>
+      <description>
+        <![CDATA[Crafted from the teeth of large mammals, such as wolves, deer, bears and perhaps even humans, the jewelry was found in a grave in southern Poland that may belong to an important patriarch of the Corded Ware culture]]>
+      </description>
+      <source:markdown>Crafted from the teeth of large mammals, such as wolves, deer, bears and perhaps even humans, the jewelry was found in a grave in southern Poland that may belong to an important patriarch of the Corded Ware culture</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/BYLadOrwvcHGmBGul_DynGA72aM=/420x240/filters:focal(400x267:401x268)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/58/74/58744720-be88-40a9-a2a1-a4fec11a6f2a/792508615_2953780694972800_6084568669239326733_n.jpeg" length="397088" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/archaeologists-excavating-a-roman-era-cemetery-in-poland-were-surprised-to-stumble-upon-a-5000-year-old-necklace-made-of-42-teeth-180989471/</guid>
+    </item>    <item>
+      <title>Lotus Notes and the dangers of starting from scratch</title>
+      <link>https://www.osnews.com/story/145936/lotus-notes-and-the-dangers-of-starting-from-scratch/</link>
+      <description>
+        <![CDATA[Lotus Notes was the future of communications, a decade before laptops had WiFi. Yet of all things, it wasn’t even an email app. It was a notes app, a collaboration tool, an all-things-to-all-people software that let you build apps in the way Access and Airtable later would. That, and the notes could be used for email. Love it or hate it (and there were plenty on both sides of the fence), what you couldn’t do was ignore it. This email-and-everything-else platform showed what the future of digital communications would become — and provoked, as email itself was always doomed to provoke, equal measures of awe and exasperation. ↫ Matthew Guay I have no experience with Lotus Notes, but I do have some vague memories of the software being used at my parents&#8217; employers back in the late &#8217;90s. Note that Notes still exists and is in active development as HCL Domino (server) and Notes (the client). If you really want to, you can still run your company of office on Notes. I wonder how many actually still do.]]>
+      </description>
+      <source:markdown>Lotus Notes was the future of communications, a decade before laptops had WiFi. Yet of all things, it wasn’t even an email app. It was a notes app, a collaboration tool, an all-things-to-all-people software that let you build apps in the way Access and Airtable later would. That, and the notes could be used for email. Love it or hate it (and there were plenty on both sides of the fence), what you couldn’t do was ignore it. This email-and-everything-else platform showed what the future of digital communications would become — and provoked, as email itself was always doomed to provoke, equal measures of awe and exasperation. ↫ Matthew Guay I have no experience with Lotus Notes, but I do have some vague memories of the software being used at my parents’ employers back in the late ’90s. Note that Notes still exists and is in active development as HCL Domino (server) and Notes (the client). If you really want to, you can still run your company of office on Notes. I wonder how many actually still do.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145936</guid>
+      <category>Office</category>
+    </item>    <item>
+      <title>To Researchers&#39; Surprise, This Giant Dinosaur Laid Eggs in a Cold Climate</title>
+      <link>https://www.smithsonianmag.com/smart-news/to-researchers-surprise-this-giant-dinosaur-laid-eggs-in-a-cold-climate-180989474/</link>
+      <description>
+        <![CDATA[A new study suggests that titanosaurs used rotting vegetation to keep their eggs warm much like crocodiles do today]]>
+      </description>
+      <source:markdown>A new study suggests that titanosaurs used rotting vegetation to keep their eggs warm much like crocodiles do today</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2TdESwHyuR5rLnlVZH696lDfe60=/420x240/filters:focal(600x377:601x378)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/98/7e/987e07a0-744a-421e-8eb9-0cccdd8c5cf0/p20260909081500.jpg" length="160234" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/to-researchers-surprise-this-giant-dinosaur-laid-eggs-in-a-cold-climate-180989474/</guid>
+    </item>    <item>
+      <title>NASA Adds Relativity Space’s Terran R to Launch Services Contract</title>
+      <link>https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/</link>
+      <description>
+        <![CDATA[A NASA Launch Services (NLS) II contract has been awarded by the agency to Relativity Space Inc., and its Terran R launch service in accordance with the contract’s on-ramp provision. The Terran R launch service will be available to NASA’s launch services to use for future missions. The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts [&#8230;]]]>
+      </description>
+      <source:markdown>A NASA Launch Services (NLS) II contract has been awarded by the agency to Relativity Space Inc., and its Terran R launch service in accordance with the contract’s on-ramp provision. The Terran R launch service will be available to NASA’s launch services to use for future missions. The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1045439</guid>
+      <category>Launch Services Program</category>
+      <category>Kennedy Space Center</category>
+      <category>Launch Services Office</category>
+    </item>    <item>
+      <title>NASA’s Chandra Unveils Mysterious X-Ray Objects</title>
+      <link>https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/</link>
+      <description>
+        <![CDATA[Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two long-standing questions in astrophysics. These mysterious objects give off unusually low-energy X-rays but intense levels of ultraviolet radiation. This […]]]>
+      </description>
+      <source:markdown>Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two long-standing questions in astrophysics. These mysterious objects give off unusually low-energy X-rays but intense levels of ultraviolet radiation. This \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/</guid>
+      <category>Astrophysics</category>
+      <category>Chandra X-Ray Observatory</category>
+      <category>Galaxies</category>
+      <category>Marshall Astrophysics</category>
+      <category>Marshall Space Flight Center</category>
+    </item>    <item>
+      <title>This Hospital Ship Sank Off Albania&#39;s Coast During World War II. Now, It’s Teeming With Marine Life</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-hospital-ship-sank-off-albania-coast-during-world-war-ii-now-its-teeming-with-marine-life-180989468/</link>
+      <description>
+        <![CDATA[A new survey of the "Po" has revealed a thriving underwater ecosystem, including rare Mediterranean monk seals]]>
+      </description>
+      <source:markdown>A new survey of the &#34;Po&#34; has revealed a thriving underwater ecosystem, including rare Mediterranean monk seals</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/uH2bReJ_gBq4SjLgxJdbKZtgJAs=/420x240/filters:focal(708x479:709x480)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9c/ec/9cecf0eb-f893-42d3-a0fd-739da0636b1e/https___wwwfrontiersinorg_files_articles_1762680_xml-images_focsu-04-1762680-g0008.webp" length="334526" type="image/webp" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-hospital-ship-sank-off-albania-coast-during-world-war-ii-now-its-teeming-with-marine-life-180989468/</guid>
+    </item>    <item>
+      <title>NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC</title>
+      <link>https://blogs.nvidia.com/blog/ibc-news-2026/</link>
+      <description>
+        <![CDATA[At the IBC conference, running Sept. 11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment industries. More than 44,000 attendees from 170+ countries are gathering to explore 1,300+ exhibitions in 14+ halls and outdoor spaces, with over 600 speakers [&#8230;]]]>
+      </description>
+      <source:markdown>At the IBC conference, running Sept. 11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment industries. More than 44,000 attendees from 170+ countries are gathering to explore 1,300+ exhibitions in 14+ halls and outdoor spaces, with over 600 speakers \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=98109</guid>
+      <category>AI</category>
+      <category>Pro Graphics</category>
+      <category>Artificial Intelligence</category>
+      <category>Events</category>
+      <category>Holoscan for Media</category>
+      <category>Media and Entertainment</category>
+      <category>NVIDIA NIM</category>
+    </item>    <item>
+      <title>How 2 US, European Satellites Are Studying Hurricanes During El Niño</title>
+      <link>https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/</link>
+      <description>
+        <![CDATA[Last November, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure, and benefit commercial industries, including shipping. The satellite now is flying 30 seconds behind its predecessor, Sentinel-6 Michael Freilich. Both satellites are providing precise sea level height measurements during what oceanographers expect to be a historic El [&#8230;]]]>
+      </description>
+      <source:markdown>Last November, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure, and benefit commercial industries, including shipping. The satellite now is flying 30 seconds behind its predecessor, Sentinel-6 Michael Freilich. Both satellites are providing precise sea level height measurements during what oceanographers expect to be a historic El \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1045192</guid>
+      <category>Jason-CS (Continuity of Service) / Sentinel-6</category>
+      <category>Earth Science Division</category>
+      <category>Earth&#39;s Atmosphere</category>
+      <category>Extreme Weather Events</category>
+      <category>Hurricanes &#38; Typhoons</category>
+      <category>Jet Propulsion Laboratory</category>
+      <category>Natural Disasters</category>
+      <category>Sentinel-6 Michael Freilich Satellite</category>
+      <category>Sentinel-6B</category>
+      <category>Water on Earth</category>
+      <category>Weather and Atmospheric Dynamics</category>
+    </item>    <item>
+      <title>Artemis II Crew at NASA Marshall</title>
+      <link>https://www.nasa.gov/image-article/artemis-ii-crew-at-nasa-marshall/</link>
+      <description>
+        <![CDATA[The crew of NASA’s Artemis II mission – NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman and CSA (Canadian Space Agency) astronaut Jeremy Hansen – visited Huntsville, Alabama, Sept. 1, 2026, where they met with the NASA workforce at NASA’s Marshall Space Flight Center. The event gave the crew an opportunity to share firsthand [&#8230;]]]>
+      </description>
+      <source:markdown>The crew of NASA’s Artemis II mission – NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman and CSA (Canadian Space Agency) astronaut Jeremy Hansen – visited Huntsville, Alabama, Sept. 1, 2026, where they met with the NASA workforce at NASA’s Marshall Space Flight Center. The event gave the crew an opportunity to share firsthand \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1045162</guid>
+      <category>Artemis 2</category>
+      <category>Marshall Space Flight Center</category>
+    </item>    <item>
+      <title>Desktop Settings: Removing technical jargon</title>
+      <link>https://blog.thunderbird.net/2026/09/desktop-settings-removing-technical-jargon/</link>
+      <description>
+        <![CDATA[<p>Our goal for this phase of work is to remove the technical jargon, use plain language, and make it effortless for everyone to make informed decisions about their settings. With over 250 blocks of settings content to untangle, we aimed for incremental improvements rather than striving for perfection. While our previous research leaned heavily on [&#8230;]</p>
+        <p>The post <a href="https://blog.thunderbird.net/2026/09/desktop-settings-removing-technical-jargon/">Desktop Settings: Removing technical jargon</a> appeared first on <a href="https://blog.thunderbird.net">The Thunderbird Blog</a>.</p>]]>
+      </description>
+      <source:markdown>Our goal for this phase of work is to remove the technical jargon, use plain language, and make it effortless for everyone to make informed decisions about their settings. With over 250 blocks of settings content to untangle, we aimed for incremental improvements rather than striving for perfection. While our previous research leaned heavily on \[…\]
+
+The post [Desktop Settings: Removing technical jargon](https://blog.thunderbird.net/2026/09/desktop-settings-removing-technical-jargon/) appeared first on [The Thunderbird Blog](https://blog.thunderbird.net).</source:markdown>
+      <guid>cid://https://blog.thunderbird.net/?p=4543</guid>
+      <category>Thunderbird</category>
+      <category>Design</category>
+      <category>Desktop</category>
+      <category>Research</category>
+      <category>Settings</category>
+    </item>    <item>
+      <title>What Is Math’s Mysterious Langlands Program Really About?</title>
+      <link>https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-20260909/</link>
+      <description>
+        <![CDATA[Hidden correspondences hint at a deeper structure to the mathematical universe. Our columnist unpacks one of those connections and asks mathematicians what they might mean.             <p>The post <a href="https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-20260909/" target="_blank">What Is Math’s Mysterious Langlands Program Really About?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Hidden correspondences hint at a deeper structure to the mathematical universe. Our columnist unpacks one of those connections and asks mathematicians what they might mean.
+
+The post [What Is Math’s Mysterious Langlands Program Really About?](https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-20260909/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=166565</guid>
+      <category>Mathematics</category>
+    </item>    <item>
+      <title>World’s Largest Collection of Serial Killer ‘Murderabilia,’ From John Wayne Gacy to H.H. Holmes, Opens in Chicago</title>
+      <link>https://www.smithsonianmag.com/smart-news/worlds-largest-collection-of-serial-killer-murderabilia-from-john-wayne-gacy-to-hh-holmes-opens-in-chicago-180989461/</link>
+      <description>
+        <![CDATA[More than 2,000 items belonging or connected to some 150 serial killers from around the globe feature in a chilling new exhibition]]>
+      </description>
+      <source:markdown>More than 2,000 items belonging or connected to some 150 serial killers from around the globe feature in a chilling new exhibition</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/twWuZrJIzuHLNvIBS02VI0EXv8I=/420x240/filters:focal(554x416:555x417)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a6/10/a6103184-b809-42ab-879e-eee064986397/h_h_holmes_castle.jpg" length="410547" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/worlds-largest-collection-of-serial-killer-murderabilia-from-john-wayne-gacy-to-hh-holmes-opens-in-chicago-180989461/</guid>
+    </item>    <item>
+      <title>FreeBSD working on new service manager</title>
+      <link>https://www.osnews.com/story/145933/freebsd-working-on-new-service-manager/</link>
+      <description>
+        <![CDATA[The BSD news will continue until morale improves. I missed this two months ago, but Baptiste Daroussin, creator of pkg and poudriere, is working on a service manager for FreeBSD called rcd. rcd(8) is a service manager daemon called by init(8) (in place of /etc/rc). It reads service definitions from UCL unit files (/etc/rcd.d/*.ucl), builds a dependency DAG, and starts services in parallel. After boot completes, it forks to background and stays running as a supervision daemon (automatically restarting failed services and accepting control commands via a UNIX socket). ↫ Baptiste Daroussin It&#8217;s fully backwards compatible, and works on any existing FreeBSD system without having to make any modifications to rc.d scripts or configuration files. In fact, you can install it on a running system, make zero changes to your files, and reboot to use it, which is quite impressive. The most immediate benefit is, of course, faster boot times, but you&#8217;ll also get several other benefits already found on similar systems like Solaris&#8217; smf. There&#8217;s a migration path in place, with a hard promise to maintain compatibility with rc.d scripts for as long as needed. This gives maintainers as much time as they need to convert to rcd&#8216;s own unit files.]]>
+      </description>
+      <source:markdown>The BSD news will continue until morale improves. I missed this two months ago, but Baptiste Daroussin, creator of pkg and poudriere, is working on a service manager for FreeBSD called rcd. rcd(8) is a service manager daemon called by init(8) (in place of /etc/rc). It reads service definitions from UCL unit files (/etc/rcd.d/\*.ucl), builds a dependency DAG, and starts services in parallel. After boot completes, it forks to background and stays running as a supervision daemon (automatically restarting failed services and accepting control commands via a UNIX socket). ↫ Baptiste Daroussin It’s fully backwards compatible, and works on any existing FreeBSD system without having to make any modifications to rc.d scripts or configuration files. In fact, you can install it on a running system, make zero changes to your files, and reboot to use it, which is quite impressive. The most immediate benefit is, of course, faster boot times, but you’ll also get several other benefits already found on similar systems like Solaris’ smf. There’s a migration path in place, with a hard promise to maintain compatibility with rc.d scripts for as long as needed. This gives maintainers as much time as they need to convert to rcd‘s own unit files.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145933</guid>
+      <category>FreeBSD</category>
+    </item>    <item>
+      <title>NASA Names Two Artemis II Astronauts to Emeritus Program</title>
+      <link>https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/</link>
+      <description>
+        <![CDATA[Following their landmark Artemis II mission earlier this year, distinguished NASA astronauts Victor Glover and Reid Wiseman are transitioning in September to emeritus status at the agency’s Johnson Space Center in Houston. In an emeritus role, individuals with a high degree of technical and professional knowledge can continue to support the agency by donating their [&#8230;]]]>
+      </description>
+      <source:markdown>Following their landmark Artemis II mission earlier this year, distinguished NASA astronauts Victor Glover and Reid Wiseman are transitioning in September to emeritus status at the agency’s Johnson Space Center in Houston. In an emeritus role, individuals with a high degree of technical and professional knowledge can continue to support the agency by donating their \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1045217</guid>
+      <category>Astronauts</category>
+      <category>NASA Headquarters</category>
+    </item>    <item>
       <title>Lindsay Clancy and postpartum psychosis</title>
       <link>https://www.npr.org/2026/09/09/nx-s1-5958289/health-pregnancy-clancy-trial-mental</link>
       <description>
@@ -204,7 +418,7 @@ _Support public media with NPR+ and enjoy perks for over 25 podcasts like this o
 See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
 
 [NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/ed2ecd1b-9960-4d89-9021-24be6b383400/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=ed2ecd1b-9960-4d89-9021-24be6b383400&feed=F0qJcgXZ&t=podcast&e=nx-s1-5948030&p=510351&d=703&size=11253595" length="11253595" type="audio/mpeg" />
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/ed2ecd1b-9960-4d89-9021-24be6b383400/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=ed2ecd1b-9960-4d89-9021-24be6b383400&feed=F0qJcgXZ&t=podcast&e=nx-s1-5948030&p=510351&d=688&size=11017449" length="11017449" type="audio/mpeg" />
       <guid>cid://c70e9f4f-d2a2-4ef7-bfc3-2a951d1dd530</guid>
     </item>    <item>
       <title>APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole</title>
@@ -2428,187 +2642,6 @@ The post [Are We Thinking Correctly About AI Intelligence?](https://www.quantama
       <category>Earth Observatory</category>
       <category>Ice &#38; Glaciers</category>
       <category>Landsat 9</category>
-    </item>    <item>
-      <title>Windows news sites are reviewing context menus and it’s perversely delightful</title>
-      <link>https://www.osnews.com/story/145858/windows-news-sites-are-reviewing-context-menus-and-its-perversely-delightful/</link>
-      <description>
-        <![CDATA[When I wrote about using Windows 11 for a month as part of the ongoing OSNews fundraiser (keep donating to get me to do the same for macOS!), one of the things I mentioned was that &#8220;the modern desktop context menu has its own classic Win32 context menu&#8221;. This is, in fact, a long-standing complaint I&#8217;ve repeatedly used as the perfect example of just how chaotic and low-quality Windows has become. Thankfully, and naturally I fully attribute this to my repeated complaints (*), Microsoft has been working on a brand new, faster, configurable context menu, and Neowin actually reviewed it. If you ask me, this revamped context menu addresses just about the biggest problem users had with the one in Windows 11, and that is the need to click through more buttons than necessary to do simple things like renaming a file or opening its properties. That problem is now basically gone. I have no issues with the new design. It looks modern, it feels more consistent with the rest of Windows, and even though all the new sections can still make it look a little busy, you now have the option to make it as simple or as button-packed as you want. That should cover most use cases and preferences well. I’d even say that when the new context menu becomes available to everyone, my guide on how to bring back the classic context menu might become obsolete. ↫ Ivan Jenic at Neowin The biggest reason I&#8217;m linking to this is not because I care about whatever monster of a context menu Windows users are having to deal with. No, I&#8217;m only linking to this because I never in my life imagined I&#8217;d be linking to a review of a context menu. I mean, at least it&#8217;s not the chess application icon. That would be embarrassing. I get a perverse sense of joy out of this.]]>
-      </description>
-      <source:markdown>When I wrote about using Windows 11 for a month as part of the ongoing OSNews fundraiser (keep donating to get me to do the same for macOS!), one of the things I mentioned was that “the modern desktop context menu has its own classic Win32 context menu”. This is, in fact, a long-standing complaint I’ve repeatedly used as the perfect example of just how chaotic and low-quality Windows has become. Thankfully, and naturally I fully attribute this to my repeated complaints (\*), Microsoft has been working on a brand new, faster, configurable context menu, and Neowin actually reviewed it. If you ask me, this revamped context menu addresses just about the biggest problem users had with the one in Windows 11, and that is the need to click through more buttons than necessary to do simple things like renaming a file or opening its properties. That problem is now basically gone. I have no issues with the new design. It looks modern, it feels more consistent with the rest of Windows, and even though all the new sections can still make it look a little busy, you now have the option to make it as simple or as button-packed as you want. That should cover most use cases and preferences well. I’d even say that when the new context menu becomes available to everyone, my guide on how to bring back the classic context menu might become obsolete. ↫ Ivan Jenic at Neowin The biggest reason I’m linking to this is not because I care about whatever monster of a context menu Windows users are having to deal with. No, I’m only linking to this because I never in my life imagined I’d be linking to a review of a context menu. I mean, at least it’s not the chess application icon. That would be embarrassing. I get a perverse sense of joy out of this.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145858</guid>
-      <category>Windows</category>
-    </item>    <item>
-      <title>Why Don&#39;t Insects Live in the Ocean? Scientists Just Ruled Out One Possible Explanation Thanks to Deep-Diving Fly Larvae</title>
-      <link>https://www.smithsonianmag.com/smart-news/why-dont-insects-live-in-the-ocean-scientists-just-ruled-out-one-possible-explanation-thanks-to-deep-diving-fly-larvae-180989348/</link>
-      <description>
-        <![CDATA[Researchers thought that insects might not live there because their respiratory systems would implode from water pressure. But certain fly larvae in East Africa make daily trips toward the bottom of Lake Malawi with the help of strong air sacs that contain a stretchy protein]]>
-      </description>
-      <source:markdown>Researchers thought that insects might not live there because their respiratory systems would implode from water pressure. But certain fly larvae in East Africa make daily trips toward the bottom of Lake Malawi with the help of strong air sacs that contain a stretchy protein</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/d2YIMJvt2M1Ad_h9oKpmIG6--3s=/420x240/filters:focal(500x338:501x339)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/97/c9/97c9789f-14e5-4a5d-9175-0d31b2b109c9/article_-_a_swarm_of_the_lake_fly_chaoborus_edulis_over_lake_malawi_credit_philip_matthews.jpg" length="428533" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/why-dont-insects-live-in-the-ocean-scientists-just-ruled-out-one-possible-explanation-thanks-to-deep-diving-fly-larvae-180989348/</guid>
-    </item>    <item>
-      <title>NASA TechLeap Prize: Orbital Clarity Challenge</title>
-      <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/</link>
-      <description>
-        <![CDATA[The Orbital Clarity Challenge — the sixth in the NASA TechLeap Prize series — is a collaborative effort between NASA’s&#160;Heliophysics Division,&#160;Flight Opportunities program, and&#160;Center of Excellence for Collaborative Innovation.&#160;The Heliophysics Division studies space weather, including how it heats and expands Earth’s outer atmosphere during intense solar activity, creating orbital drag through atmospheric density changes. The [&#8230;]]]>
-      </description>
-      <source:markdown>The Orbital Clarity Challenge — the sixth in the NASA TechLeap Prize series — is a collaborative effort between NASA’s Heliophysics Division, Flight Opportunities program, and Center of Excellence for Collaborative Innovation. The Heliophysics Division studies space weather, including how it heats and expands Earth’s outer atmosphere during intense solar activity, creating orbital drag through atmospheric density changes. The \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1039521</guid>
-      <category>Prizes, Challenges, and Crowdsourcing Program</category>
-      <category>Center of Excellence for Collaborative Innovation (CoECI)</category>
-      <category>CoECI News</category>
-      <category>Get Involved</category>
-      <category>Opportunities to Contribute to NASA Missions &#38; Get Involved</category>
-      <category>Prizes, Challenges, &#38; Crowdsourcing News</category>
-    </item>    <item>
-      <title>NASA Updates Next Steps for Commercial Swift Boost Mission</title>
-      <link>https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/</link>
-      <description>
-        <![CDATA[Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned. However, LINK still will attempt to conduct rendezvous and proximity operations with NASA’s Neil Gehrels Swift Observatory to [&#8230;]]]>
-      </description>
-      <source:markdown>Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned. However, LINK still will attempt to conduct rendezvous and proximity operations with NASA’s Neil Gehrels Swift Observatory to \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1039059</guid>
-      <category>Neil Gehrels Swift Observatory</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Missions</category>
-      <category>Swift Boost Mission</category>
-    </item>    <item>
-      <title>Human-Related Microbes May Survive Moon’s South Pole, NASA Finds</title>
-      <link>https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/</link>
-      <description>
-        <![CDATA[Lee esta historia en español aquí. Some of Earth’s microbes likely to hitch a ride to space with human explorers could survive in the shaded nooks and crannies of the Moon’s South Pole region, NASA scientists say.  Published on Aug. 19, 2026, in Science Advances, these findings highlight a need to better understand microbial persistence […]]]>
-      </description>
-      <source:markdown>Lee esta historia en español aquí. Some of Earth’s microbes likely to hitch a ride to space with human explorers could survive in the shaded nooks and crannies of the Moon’s South Pole region, NASA scientists say.  Published on Aug. 19, 2026, in Science Advances, these findings highlight a need to better understand microbial persistence \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/</guid>
-      <category>Astrobiology</category>
-      <category>Earth&#39;s Moon</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Human Spaceflight Mission Directorate</category>
-      <category>Humans in Space</category>
-      <category>International Space Station (ISS)</category>
-      <category>ISS Research</category>
-      <category>Johnson Space Center</category>
-      <category>NASA Centers &#38; Facilities</category>
-      <category>NASA Directorates</category>
-      <category>Planetary Geosciences &#38; Geophysics</category>
-      <category>Planetary Science</category>
-      <category>Planetary Science Division</category>
-      <category>Science &#38; Research</category>
-      <category>Science Mission Directorate</category>
-    </item>    <item>
-      <title>A Towering 182-Feet-Tall Statue in Rural Poland Is Now the Tallest Virgin Mary in All of Europe. Locals Hope It Will Become a Tourist Destination</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-towering-182-feet-tall-statue-in-rural-poland-now-tallest-virgin-mary-in-europe-locals-hope-it-will-become-tourist-destination-180989364/</link>
-      <description>
-        <![CDATA[The steel and concrete monument honoring the mother of Jesus is located in Konotopie, a rural village about 100 miles from Warsaw]]>
-      </description>
-      <source:markdown>The steel and concrete monument honoring the mother of Jesus is located in Konotopie, a rural village about 100 miles from Warsaw</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/h7Ngf92A04xKqaJNpLkwae2HRUU=/420x240/filters:focal(3151x2371:3152x2372)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c8/4b/c84b24e2-edba-41ab-ac63-8f4c7861fe66/gettyimages-2286872540.jpg" length="16336894" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-towering-182-feet-tall-statue-in-rural-poland-now-tallest-virgin-mary-in-europe-locals-hope-it-will-become-tourist-destination-180989364/</guid>
-    </item>    <item>
-      <title>Ancient Milky Way Merger</title>
-      <link>https://www.nasa.gov/image-article/ancient-milky-way-merger/</link>
-      <description>
-        <![CDATA[This artist&#8217;s concept, released on Aug. 17, 2026, depicts a collision between our Milky Way galaxy and a dwarf galaxy known as LKH that happened about 12 billion years ago. A study of data from NASA’s Hubble Space Telescope, recently published in the journal Nature Astronomy, shows definitive evidence of a dwarf galaxy merging with the young [&#8230;]]]>
-      </description>
-      <source:markdown>This artist’s concept, released on Aug. 17, 2026, depicts a collision between our Milky Way galaxy and a dwarf galaxy known as LKH that happened about 12 billion years ago. A study of data from NASA’s Hubble Space Telescope, recently published in the journal Nature Astronomy, shows definitive evidence of a dwarf galaxy merging with the young \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1038778</guid>
-    </item>    <item>
-      <title>Why Are Some Octopuses So Smart? The Answer Might Lie in a Never-Before-Seen Mutation That Helps Them Accurately Build Proteins</title>
-      <link>https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/</link>
-      <description>
-        <![CDATA[Scientists discovered a strange feature in certain octopuses’ ribosomal RNA, molecules that create a 3D scaffold for cellular protein factories. It was found only in shallow-water creatures that have expanded nervous systems and can do complex behaviors]]>
-      </description>
-      <source:markdown>Scientists discovered a strange feature in certain octopuses’ ribosomal RNA, molecules that create a 3D scaffold for cellular protein factories. It was found only in shallow-water creatures that have expanded nervous systems and can do complex behaviors</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/bF5TQCy9XDFWAMWmWtTQtOKjW78=/420x240/filters:focal(980x541:981x542)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/41/6e/416e4112-c164-43fb-bfb2-aee28f44da1f/octopus_2.jpg" length="299182" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/</guid>
-    </item>    <item>
-      <title>NASA Establishes State Hubs to Grow Technical Aerospace Workforce</title>
-      <link>https://www.nasa.gov/news-release/nasa-establishes-state-hubs-to-grow-technical-aerospace-workforce/</link>
-      <description>
-        <![CDATA[NASA has awarded approximately $10.5 million to seven institutions to help strengthen and streamline state-based pathways for students into skilled technical jobs in the aerospace industry. The awards were made through the new NASA Aerospace Skilled Technical Workforce Hubs initiative, or NASA State Hubs. This investment in state ecosystems is designed to accelerate the development [&#8230;]]]>
-      </description>
-      <source:markdown>NASA has awarded approximately $10.5 million to seven institutions to help strengthen and streamline state-based pathways for students into skilled technical jobs in the aerospace industry. The awards were made through the new NASA Aerospace Skilled Technical Workforce Hubs initiative, or NASA State Hubs. This investment in state ecosystems is designed to accelerate the development \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1039357</guid>
-      <category>Learning Resources</category>
-      <category>NASA Headquarters</category>
-      <category>Next Gen STEM</category>
-      <category>STEM Engagement at NASA</category>
-    </item>    <item>
-      <title>Building a Quantum Computer, One Fragile Qubit at a Time</title>
-      <link>https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/</link>
-      <description>
-        <![CDATA[No one yet knows which technology will power the quantum computers of the future, but the race to create them has already produced some of science’s most intricate machinery.            <p>The post <a href="https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/" target="_blank">Building a Quantum Computer, One Fragile Qubit at a Time</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>No one yet knows which technology will power the quantum computers of the future, but the race to create them has already produced some of science’s most intricate machinery.
-
-The post [Building a Quantum Computer, One Fragile Qubit at a Time](https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=165698</guid>
-      <category>Computer Science</category>
-      <category>Physics</category>
-    </item>    <item>
-      <title>Brazil&#39;s First Urban Yellow Fever Outbreak in Nearly a Century May Have Been Fueled by a Surprising Culprit</title>
-      <link>https://www.smithsonianmag.com/smart-news/brazils-first-urban-yellow-fever-outbreak-in-nearly-a-century-may-have-been-fueled-by-a-surprising-culprit-180989363/</link>
-      <description>
-        <![CDATA[Extremely wet conditions are known to help spread mosquito-borne diseases like yellow fever. But based on computer simulations, researchers suspect that a severe drought may have contributed to the South American country’s recent deadly epidemic]]>
-      </description>
-      <source:markdown>Extremely wet conditions are known to help spread mosquito-borne diseases like yellow fever. But based on computer simulations, researchers suspect that a severe drought may have contributed to the South American country’s recent deadly epidemic</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/hvCxsubjEGhlw5aRI8pJ6D4xgQ0=/420x240/filters:focal(2784x1856:2785x1857)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7e/09/7e096d93-f8c4-40e0-a2a4-2e4d8503e292/yellow-fever.jpg" length="3589938" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/brazils-first-urban-yellow-fever-outbreak-in-nearly-a-century-may-have-been-fueled-by-a-surprising-culprit-180989363/</guid>
-    </item>    <item>
-      <title>Career Spotlight: Mechanic (Ages 14-18)</title>
-      <link>https://www.nasa.gov/learning-resources/career-spotlight-mechanic-ages-14-18/</link>
-      <description>
-        <![CDATA[What does a mechanic do? Machines and engines are all around us. They power everything from cars and boats to airplanes and even rockets. Mechanics are experts who know how machinery works, especially engines, and how to fix them. When you think of a mechanic, you might picture someone working on cars. But mechanics can [&#8230;]]]>
-      </description>
-      <source:markdown>What does a mechanic do? Machines and engines are all around us. They power everything from cars and boats to airplanes and even rockets. Mechanics are experts who know how machinery works, especially engines, and how to fix them. When you think of a mechanic, you might picture someone working on cars. But mechanics can \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1038471</guid>
-      <category>Learning Resources</category>
-      <category>Grades 9 - 12</category>
-    </item>    <item>
-      <title>You Can Now See One of the Oldest Surviving Copies of &#39;The Odyssey&#39; at the Metropolitan Museum of Art</title>
-      <link>https://www.smithsonianmag.com/smart-news/you-can-now-see-one-of-oldest-surviving-copies-of-the-odyssey-at-metropolitan-museum-of-art-180989360/</link>
-      <description>
-        <![CDATA[The papyrus fragment contains three lines that don't appear in standard modern-day translations of Homer's epic poem]]>
-      </description>
-      <source:markdown>The papyrus fragment contains three lines that don&#39;t appear in standard modern-day translations of Homer&#39;s epic poem</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/kZT8X2_ZD6qW18ccm6bahIzwhQA=/420x240/filters:focal(1896x1914:1897x1915)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/12/05/120524e1-9e51-48cf-8d22-2d033533e6ef/odyssey-fragment.png" length="1107845" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/you-can-now-see-one-of-oldest-surviving-copies-of-the-odyssey-at-metropolitan-museum-of-art-180989360/</guid>
-    </item>    <item>
-      <title>More men are taking testosterone. What gives?</title>
-      <link>https://www.npr.org/2026/08/19/nx-s1-5935460/testosterone-hormone-therapy-test-levels</link>
-      <description>
-        <![CDATA[If you’re a guy – or even just friends with a guy – and on the Internet, you may have noticed that testosterone discourse is<em> everywhere</em>. There’s Defense Secretary Pete Hegseth announcing testosterone screenings for soldiers, Joe Rogan discussing hormone therapy, and influencers discussing high- and low-T levels. Those levels affect more than just sex. They also affect metabolism, bone health, muscle mass, red blood cell production and brain function. NPR science reporter <a href="https://www.npr.org/people/919093243/will-stone"target="_blank"   >Will Stone</a> took a deep dive into it all: What deficiency looks like in men, what doctors recommend and what the research says about who actually needs testosterone replacement therapy.<br/><br/><em>Interested in hearing more reporting on popular science topics? Email us what you’d like us to cover at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>If you’re a guy – or even just friends with a guy – and on the Internet, you may have noticed that testosterone discourse is _everywhere_. There’s Defense Secretary Pete Hegseth announcing testosterone screenings for soldiers, Joe Rogan discussing hormone therapy, and influencers discussing high- and low-T levels. Those levels affect more than just sex. They also affect metabolism, bone health, muscle mass, red blood cell production and brain function. NPR science reporter [Will Stone](https://www.npr.org/people/919093243/will-stone) took a deep dive into it all: What deficiency looks like in men, what doctors recommend and what the research says about who actually needs testosterone replacement therapy.
-
-_Interested in hearing more reporting on popular science topics? Email us what you’d like us to cover at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/7d8daa3b-75f9-4145-9812-2ec7170161ac/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=7d8daa3b-75f9-4145-9812-2ec7170161ac&feed=F0qJcgXZ&t=podcast&e=nx-s1-5935460&p=510351&d=891&size=14263738" length="14263738" type="audio/mpeg" />
-      <guid>cid://6d266887-c612-4871-a883-bc16a6f35624</guid>
-    </item>    <item>
-      <title>Behind the Lens: Meet NASA Johnson’s Photographers</title>
-      <link>https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/</link>
-      <description>
-        <![CDATA[Photographers at NASA’s Johnson Space Center in Houston have documented some of the most defining moments in human spaceflight.&#160; From astronaut training and engineering tests to&#160;mission&#160;control operations and milestone celebrations, their images preserve the history&#160;of exploration while capturing the&#160;people and teams&#160;behind the missions shaping the&#160;next era.&#160;&#160; Meet the photographers behind the lens and explore the [&#8230;]]]>
-      </description>
-      <source:markdown>Photographers at NASA’s Johnson Space Center in Houston have documented some of the most defining moments in human spaceflight.  From astronaut training and engineering tests to mission control operations and milestone celebrations, their images preserve the history of exploration while capturing the people and teams behind the missions shaping the next era.   Meet the photographers behind the lens and explore the \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1036108</guid>
-      <category>Johnson Space Center</category>
-      <category>General</category>
-    </item>    <item>
-      <title>APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/</link>
-      <description>
-        <![CDATA[APODScienceAPODAPOD: 2026 August 19 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this video please enable JavaScript, and consider upgrading to a web browser that supports [&#8230;]]]>
-      </description>
-      <source:markdown>APODScienceAPODAPOD: 2026 August 19 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this video please enable JavaScript, and consider upgrading to a web browser that supports \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/</guid>
-      <category>APOD</category>
     </item>
   </channel>
 </rss>

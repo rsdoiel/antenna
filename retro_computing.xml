@@ -4,7 +4,7 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>09 Sep 26 06:41 -0700</lastBuildDate>
+    <lastBuildDate>10 Sep 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -422,14 +422,6 @@ What problem does Font Directory Pro solve?</source:markdown>
       <source:markdown>With continued DRAM and eMMC shortages, Pine64 has decided to discontinue production of Linux devices.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://9242593676c4a86a6725dd9ffc692611</guid>
-    </item>    <item>
-      <title>b.log 2026/08/19 - Autism: Because mummy never had sex with me!</title>
-      <link>https://heyrick.eu/blog/entry/20260819</link>
-      <description>
-        <![CDATA[Autism: Because mummy never had sex with me!]]>
-      </description>
-      <source:markdown>Autism: Because mummy never had sex with me!</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260819</guid>
     </item>
   </channel>
 </rss>

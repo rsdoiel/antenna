@@ -432,4 +432,5 @@ description: Blogs, columns and snapshots from around the web.
 - [The Sun Magazine](https://www.thesunmagazine.org/rss/articles)
 - [Raspberry Pi Podcast](http://rpimag.co/podcast-rss)
 - [Co-Maps Blog](https://www.comaps.app/rss.xml)
-
+- [Popular Information (Judd Legum)](https://popular.info/feed)
+- [Wesleyan Media Project](https://mediaproject.wesleyan.edu/feed/)
