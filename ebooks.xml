@@ -4,10 +4,38 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>10 Sep 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>11 Sep 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Mrs. Rule&#39;s foundlings by Annette Lyster</title>
+      <link>https://www.gutenberg.org/ebooks/79549</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Kick formation by Ralph Henry Barbour</title>
+      <link>https://www.gutenberg.org/ebooks/79550</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The castaways : by James Otis</title>
+      <link>https://www.gutenberg.org/ebooks/79552</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Ex-wife by Ursula Parrott</title>
+      <link>https://www.gutenberg.org/ebooks/79551</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Blackwood&#39;s Edinburgh Magazine, Vol. LXXXI, No. 496, February 1857. by Various</title>
       <link>https://www.gutenberg.org/ebooks/79546</link>
       <description>
@@ -28,13 +56,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Mrs. Rule&#39;s Foundlings by Annette Lyster</title>
-      <link>https://www.gutenberg.org/ebooks/79549</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>In the scarlet star by Jack Williamson</title>
       <link>https://www.gutenberg.org/ebooks/79548</link>
@@ -1708,48 +1729,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Guide de l&#39;aviateur by Roland Garros</title>
-      <link>https://www.gutenberg.org/ebooks/79375</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Lady Mary Wortley Montague, Her Life and Letters (1689-1762) by Melville and Montagu</title>
-      <link>https://www.gutenberg.org/ebooks/10590</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The works of Plato (Vol. 2 of 6) : by Plato</title>
-      <link>https://www.gutenberg.org/ebooks/79398</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Preludes by Alice Meynell</title>
-      <link>https://www.gutenberg.org/ebooks/79402</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The international crisis in its ethical and psychological aspects : by Bernard Bosanquet</title>
-      <link>https://www.gutenberg.org/ebooks/79404</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Ten poems, 1913-1915 by Alice Meynell</title>
-      <link>https://www.gutenberg.org/ebooks/79403</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>
