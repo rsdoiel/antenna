@@ -4,10 +4,127 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>11 Sep 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>12 Sep 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Age verification exemptions for open source operating systems feel like Phyrric victories</title>
+      <link>https://www.osnews.com/story/145944/age-verification-exemptions-for-open-source-operating-systems-feel-like-phyrric-victories/</link>
+      <description>
+        <![CDATA[On the Windows side of the age verification question, Microsoft is obviously following trends among lawmakers the world over. To address this, Windows is introducing a new platform capability: the Windows Age API.  This API brings age awareness beyond the operating system by making it available across the entire Windows ecosystem so that apps and services can deliver age-appropriate experiences using the same trusted foundation. By making age awareness available as a platform capability, Windows helps developers build safeguards into experiences from the start rather than placing the burden on children and families to manage protections app by app.&#160; ↫ Rob Mauceri at the Windows Blogs Meanwhile, on the Linux side of things, there&#8217;s been some cheering as at least California passed amendments to its age verification law to exempt open source operating systems. These amendments redefine the term “operating system provider” to exclude any person or entity that distributes an OS or application “under license terms that permit a recipient to copy, redistribute, and modify the software.” Any software distributed under the GPL, MIT, BSD, and Apache licenses satisfies that test, which removes the likes of Debian, Fedora, Ubuntu, Arch, and the BSD family from AB 1856’s scope. ↫ Luke James at Tom&#8217;s Hardware I think this is not at all the good news that many make it out to be. Exempting Linux, BSD, and other open source operating systems from age verification obligations may seem like a good thing at first glance, but in reality, I think services and applications will simply choose to not work at all on platforms that do not implement age verification. The fear of legal ramifications, especially when it involves children, will be enough for existing and future popular services and applications to exclusively work on platforms that implement age verification &#8211; whether those fears are founded or not. In fact, I&#8217;m fairly sure a company like Microsoft, which has actually been feeling the squeeze from the Linux side recently &#8211; even if it is modestly so &#8211; is quite happy to see open source operating systems excluded from these obligations. Google, too, is probably none too unhappy to see any possible open source mobile operating system competitors not implement age verification. The fear of missing out is real, and most people are not as invested in fighting big tech and government surveillance as the average OSNews reader is going to be. If using Linux means not being able to play the latest hit games or use that new successful service, people will choose to stick with Windows or macOS. Let me be very clear that I do not support these age verification laws in any way, shape, or form, and I definitely do not want the open source world to embrace age verification. What I&#8217;m worried about is that the open source world will cheer on these exceptions and consider the battle won, when in reality, they feel more like Pyrrhic victories. Age verification laws must be fought and destroyed at ballot boxes the world over, because otherwise I fear they will become just another tool in big tech&#8217;s toolbox, exemptions or not.]]>
+      </description>
+      <source:markdown>On the Windows side of the age verification question, Microsoft is obviously following trends among lawmakers the world over. To address this, Windows is introducing a new platform capability: the Windows Age API.  This API brings age awareness beyond the operating system by making it available across the entire Windows ecosystem so that apps and services can deliver age-appropriate experiences using the same trusted foundation. By making age awareness available as a platform capability, Windows helps developers build safeguards into experiences from the start rather than placing the burden on children and families to manage protections app by app.  ↫ Rob Mauceri at the Windows Blogs Meanwhile, on the Linux side of things, there’s been some cheering as at least California passed amendments to its age verification law to exempt open source operating systems. These amendments redefine the term “operating system provider” to exclude any person or entity that distributes an OS or application “under license terms that permit a recipient to copy, redistribute, and modify the software.” Any software distributed under the GPL, MIT, BSD, and Apache licenses satisfies that test, which removes the likes of Debian, Fedora, Ubuntu, Arch, and the BSD family from AB 1856’s scope. ↫ Luke James at Tom’s Hardware I think this is not at all the good news that many make it out to be. Exempting Linux, BSD, and other open source operating systems from age verification obligations may seem like a good thing at first glance, but in reality, I think services and applications will simply choose to not work at all on platforms that do not implement age verification. The fear of legal ramifications, especially when it involves children, will be enough for existing and future popular services and applications to exclusively work on platforms that implement age verification – whether those fears are founded or not. In fact, I’m fairly sure a company like Microsoft, which has actually been feeling the squeeze from the Linux side recently – even if it is modestly so – is quite happy to see open source operating systems excluded from these obligations. Google, too, is probably none too unhappy to see any possible open source mobile operating system competitors not implement age verification. The fear of missing out is real, and most people are not as invested in fighting big tech and government surveillance as the average OSNews reader is going to be. If using Linux means not being able to play the latest hit games or use that new successful service, people will choose to stick with Windows or macOS. Let me be very clear that I do not support these age verification laws in any way, shape, or form, and I definitely do not want the open source world to embrace age verification. What I’m worried about is that the open source world will cheer on these exceptions and consider the battle won, when in reality, they feel more like Pyrrhic victories. Age verification laws must be fought and destroyed at ballot boxes the world over, because otherwise I fear they will become just another tool in big tech’s toolbox, exemptions or not.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145944</guid>
+      <category>Open Source</category>
+    </item>    <item>
+      <title>Help Refine Data from Space Telescopes with Artifact InSPECtor</title>
+      <link>https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/</link>
+      <description>
+        <![CDATA[How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace Roman Space Telescope answer fundamental […]]]>
+      </description>
+      <source:markdown>How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace Roman Space Telescope answer fundamental \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/</guid>
+      <category>Citizen Science</category>
+      <category>Dark Energy</category>
+      <category>Euclid</category>
+      <category>Nancy Grace Roman Space Telescope</category>
+    </item>    <item>
+      <title>A Finnish Metal Detectorist Was Shocked to Unearth a Trove of Viking Age Silver in His Hometown. Then His Detector Went Off Again</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-finnish-metal-detectorist-was-shocked-to-unearth-a-trove-of-viking-age-silver-in-his-hometown-then-his-detector-went-off-again-180989487/</link>
+      <description>
+        <![CDATA[Weighing a combined ten pounds, the artifacts are estimated to be 1,000 years old and constitute Finland’s largest coin hoard of the era]]>
+      </description>
+      <source:markdown>Weighing a combined ten pounds, the artifacts are estimated to be 1,000 years old and constitute Finland’s largest coin hoard of the era</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/sdipN_n1lQdmK2IANbNpKuAneEg=/420x240/filters:focal(1628x1085:1629x1086)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ef/5b/ef5b9055-962e-483d-b70c-ed912c2a6481/viikinkaikainen_rahakatko.jpeg" length="9471626" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-finnish-metal-detectorist-was-shocked-to-unearth-a-trove-of-viking-age-silver-in-his-hometown-then-his-detector-went-off-again-180989487/</guid>
+    </item>    <item>
+      <title>NASA’s Chandra Spots Galactic Gem</title>
+      <link>https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/</link>
+      <description>
+        <![CDATA[Two galaxies merge at a furious rate in this Aug. 25, 2026, image of the II Zw 096 system. This and several other images of both visually and scientifically interesting galaxies were released by NASA&#8217;s Chandra X-ray Observatory and other telescopes. Chandra X-ray data (magenta) pinpoint powerful black hole activity and hot gas, while optical [&#8230;]]]>
+      </description>
+      <source:markdown>Two galaxies merge at a furious rate in this Aug. 25, 2026, image of the II Zw 096 system. This and several other images of both visually and scientifically interesting galaxies were released by NASA’s Chandra X-ray Observatory and other telescopes. Chandra X-ray data (magenta) pinpoint powerful black hole activity and hot gas, while optical \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1046013</guid>
+      <category>Galaxy Mergers</category>
+    </item>    <item>
+      <title>Did You Suffer a Sweltering August? You Weren&#39;t Alone. It Tied for the Month With the Hottest Global Temperatures on Record</title>
+      <link>https://www.smithsonianmag.com/smart-news/did-you-suffer-a-sweltering-august-you-werent-alone-it-tied-for-the-month-with-the-hottest-global-temperatures-on-record-180989482/</link>
+      <description>
+        <![CDATA[Last month, the air temperature averaged 62.53 degrees Fahrenheit, tying with July 2023 as the toastiest month ever documented by the European Union's climate service]]>
+      </description>
+      <source:markdown>Last month, the air temperature averaged 62.53 degrees Fahrenheit, tying with July 2023 as the toastiest month ever documented by the European Union&#39;s climate service</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/nJ79eF1fE7tC0APGmF3E0euM8dQ=/420x240/filters:focal(1750x1142:1751x1143)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f4/6c/f46c4f05-1b77-47c1-ad1b-f672339d4a5d/august-heat.jpg" length="5674556" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/did-you-suffer-a-sweltering-august-you-werent-alone-it-tied-for-the-month-with-the-hottest-global-temperatures-on-record-180989482/</guid>
+    </item>    <item>
+      <title>Designers and Computer Scientists Create New Decoy Fonts That Humans Can Read but A.I. Bots Cannot</title>
+      <link>https://www.smithsonianmag.com/smart-news/designers-and-computer-scientists-create-new-decoy-fonts-that-humans-can-read-and-ai-bots-cannot-180989470/</link>
+      <description>
+        <![CDATA[To prevent the trawling and theft of human writing, font-makers are employing both old and new illusions to outsmart large language models]]>
+      </description>
+      <source:markdown>To prevent the trawling and theft of human writing, font-makers are employing both old and new illusions to outsmart large language models</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/OKDw2SM8hz-y-NdJam9d_ooCJIM=/420x240/filters:focal(1200x1200:1201x1201)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d8/85/d8856063-02dd-40b8-b532-45eb3c38a409/decoy-font-message.png" length="1344304" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/designers-and-computer-scientists-create-new-decoy-fonts-that-humans-can-read-and-ai-bots-cannot-180989470/</guid>
+    </item>    <item>
+      <title>Ancient Rome’s Largest Fresco and Mosaic Complex, Featuring Depictions of a Mysterious Maritime City, Opens to the Public After 2,000 Years</title>
+      <link>https://www.smithsonianmag.com/smart-news/ancient-romes-largest-fresco-and-mosaic-complex-featuring-depictions-of-a-mysterious-maritime-city-opens-to-the-public-after-2000-years-180989484/</link>
+      <description>
+        <![CDATA[The massive artworks, created in the first century C.E., were discovered in the 1990s during excavations of the Baths of Trajan]]>
+      </description>
+      <source:markdown>The massive artworks, created in the first century C.E., were discovered in the 1990s during excavations of the Baths of Trajan</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/vjf6VIvJfNtR5T8p0w0WMuYTyq0=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/75/34/75342ac4-0f4b-4563-a63d-3012f0feae31/gettyimages-2293659629.jpg" length="25089345" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/ancient-romes-largest-fresco-and-mosaic-complex-featuring-depictions-of-a-mysterious-maritime-city-opens-to-the-public-after-2000-years-180989484/</guid>
+    </item>    <item>
+      <title>Archaeologists Discover the World&#39;s Oldest Evidence of Habitual Drug Use in the Teeth of a Hunter-Gatherer Who Lived Up to 25,000 Years Ago</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-discover-the-worlds-oldest-evidence-of-habitual-drug-use-in-the-teeth-of-a-hunter-gatherer-who-lived-up-to-25000-years-ago-180989485/</link>
+      <description>
+        <![CDATA[This individual may have regularly sucked on betel nuts, known for their mind-altering properties, leading to worsening dental disease. Researchers say the discovery sheds light on addiction in prehistoric environments]]>
+      </description>
+      <source:markdown>This individual may have regularly sucked on betel nuts, known for their mind-altering properties, leading to worsening dental disease. Researchers say the discovery sheds light on addiction in prehistoric environments</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/eQul9l_eqsQwgGGwAbKEiNXgDyE=/420x240/filters:focal(2592x1728:2593x1729)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/67/55/67554c1e-359d-4a83-b4fa-d952e0291d31/maros-lbb-1a_human_maxilla_fragment.jpg" length="4028930" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/archaeologists-discover-the-worlds-oldest-evidence-of-habitual-drug-use-in-the-teeth-of-a-hunter-gatherer-who-lived-up-to-25000-years-ago-180989485/</guid>
+    </item>    <item>
+      <title>NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return</title>
+      <link>https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/</link>
+      <description>
+        <![CDATA[Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where [&#8230;]]]>
+      </description>
+      <source:markdown>Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1046206</guid>
+      <category>Humans in Space</category>
+      <category>International Space Station (ISS)</category>
+    </item>    <item>
+      <title>NASA Boosts Open Science, Data Sharing with Artemis Accords</title>
+      <link>https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/</link>
+      <description>
+        <![CDATA[The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those [&#8230;]]]>
+      </description>
+      <source:markdown>The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1045960</guid>
+      <category>Artemis Accords</category>
+      <category>Artemis</category>
+      <category>Missions</category>
+      <category>Open Science</category>
+    </item>    <item>
+      <title>Why Do These Fossil Shells Flip Their Spirals Every Few Millennia?</title>
+      <link>https://www.quantamagazine.org/why-do-these-fossil-shells-flip-their-spirals-every-few-millennia-20260911/</link>
+      <description>
+        <![CDATA[The mystery of the flipping foraminifera may conceal a rarely observed evolutionary process playing out across the planet.            <p>The post <a href="https://www.quantamagazine.org/why-do-these-fossil-shells-flip-their-spirals-every-few-millennia-20260911/" target="_blank">Why Do These Fossil Shells Flip Their Spirals Every Few Millennia?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>The mystery of the flipping foraminifera may conceal a rarely observed evolutionary process playing out across the planet.
+
+The post [Why Do These Fossil Shells Flip Their Spirals Every Few Millennia?](https://www.quantamagazine.org/why-do-these-fossil-shells-flip-their-spirals-every-few-millennia-20260911/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=166829</guid>
+      <category>Biology</category>
+    </item>    <item>
+      <title>For Decades, Scientists Thought an &#39;American Cheetah&#39; Once Roamed North America. Turns Out the Extinct Cat Wasn&#39;t a Cheetah</title>
+      <link>https://www.smithsonianmag.com/smart-news/for-decades-scientists-thought-an-american-cheetah-once-roamed-north-america-ancient-turns-out-the-extinct-cat-wasnt-a-cheetah-180989465/</link>
+      <description>
+        <![CDATA[Ancient DNA from fossils found in Wyoming and Canada's Yukon Territory suggests the wild cat more closely resembled modern pumas than modern cheetahs]]>
+      </description>
+      <source:markdown>Ancient DNA from fossils found in Wyoming and Canada&#39;s Yukon Territory suggests the wild cat more closely resembled modern pumas than modern cheetahs</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/IiGTxziIXIYcQgEraNnUxVzdeD4=/420x240/filters:focal(1024x605:1025x606)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/73/ef/73ef9644-a9a8-4a1d-b560-c82236eb3bb5/miracinonyx-illustration-2048x1195.jpg" length="376502" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/for-decades-scientists-thought-an-american-cheetah-once-roamed-north-america-ancient-turns-out-the-extinct-cat-wasnt-a-cheetah-180989465/</guid>
+    </item>    <item>
       <title>A Genetically Modified Pig Kidney Kept a Man Alive for a Record Nine Months, Allowing Him to Wait for a Donated Human Organ</title>
       <link>https://www.smithsonianmag.com/smart-news/a-genetically-modified-pig-kidney-kept-a-man-alive-for-a-record-nine-months-allowing-him-to-wait-for-a-donated-human-organ-180989466/</link>
       <description>
@@ -234,9 +351,9 @@ The post [The Four-Color Theorem Gets a Rare New Proof](https://www.quantamagazi
       <title>d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment</title>
       <link>https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/</link>
       <description>
-        <![CDATA[AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of partners building on the NVIDIA AI platform. By connecting Raptor to NVIDIA NVLink scale-up and Spectrum-X scale-out networking, the NVIDIA MGX rack architecture and the broader NVIDIA [&#8230;]]]>
+        <![CDATA[AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners. By connecting Raptor to NVIDIA NVLink scale-up and Spectrum-X scale-out networking, the NVIDIA MGX rack architecture and the broader NVIDIA AI platform, NVLink Fusion gives [&#8230;]]]>
       </description>
-      <source:markdown>AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of partners building on the NVIDIA AI platform. By connecting Raptor to NVIDIA NVLink scale-up and Spectrum-X scale-out networking, the NVIDIA MGX rack architecture and the broader NVIDIA \[…\]</source:markdown>
+      <source:markdown>AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners. By connecting Raptor to NVIDIA NVLink scale-up and Spectrum-X scale-out networking, the NVIDIA MGX rack architecture and the broader NVIDIA AI platform, NVLink Fusion gives \[…\]</source:markdown>
       <guid>cid://https://blogs.nvidia.com/?p=98153</guid>
       <category>Corporate</category>
     </item>    <item>
@@ -2606,132 +2723,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <source:markdown>APOD Science APOD APOD: 2026 August 22… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mostly Perseids Explanation: Recorded \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/</guid>
       <category>APOD</category>
-    </item>    <item>
-      <title>NASA Shares Views of August Solar Eclipse from Ground, Air, Space</title>
-      <link>https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/</link>
-      <description>
-        <![CDATA[On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona — to those in the path of totality who were lucky enough to have clear skies. NASA researchers and photographers were along the eclipse […]]]>
-      </description>
-      <source:markdown>On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona — to those in the path of totality who were lucky enough to have clear skies. NASA researchers and photographers were along the eclipse \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/</guid>
-      <category>Eclipses</category>
-      <category>Heliophysics</category>
-      <category>Solar Eclipses</category>
-      <category>The Sun</category>
-      <category>The Sun &#38; Solar Physics</category>
-    </item>    <item>
-      <title>A New Personalized Cancer Vaccine Could Keep Skin Cancer From Coming Back, Drugmakers Say</title>
-      <link>https://www.smithsonianmag.com/smart-news/new-personalized-cancer-vaccine-could-keep-skin-cancer-from-coming-back-drugmakers-say-180989382/</link>
-      <description>
-        <![CDATA[The results, announced this week by Moderna and Merck, could pave the way for a new generation of treatments tailored to individual tumors]]>
-      </description>
-      <source:markdown>The results, announced this week by Moderna and Merck, could pave the way for a new generation of treatments tailored to individual tumors</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/edcUW2c6-lZf7E8S2kXyVGt3eyE=/420x240/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8f/51/8f519049-2d05-4f9a-8858-f58ed880bd57/gettyimages-1432941680.jpg" length="2007238" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/new-personalized-cancer-vaccine-could-keep-skin-cancer-from-coming-back-drugmakers-say-180989382/</guid>
-    </item>    <item>
-      <title>Shipwreck Hunters Discover the Ruins of a British Destroyer That Split in Half During a Tragic Peacetime Accident 118 Years Ago</title>
-      <link>https://www.smithsonianmag.com/smart-news/shipwreck-hunters-discover-the-ruins-of-a-british-destroyer-that-split-in-half-during-a-tragic-peacetime-accident-118-years-ago-180989379/</link>
-      <description>
-        <![CDATA[Minutes after it collided with a 10,000-ton cruiser, the HMS "Tiger" sank to the bottom of the English Channel. Divers and historians have spent the past four years searching for the Royal Navy vessel]]>
-      </description>
-      <source:markdown>Minutes after it collided with a 10,000-ton cruiser, the HMS &#34;Tiger&#34; sank to the bottom of the English Channel. Divers and historians have spent the past four years searching for the Royal Navy vessel</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/0t0kylGP7VEVK7z7Ti7iXAysQ8I=/420x240/filters:focal(810x540:811x541)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d0/64/d064592c-d3fc-4ce4-a068-9252a84df55d/dr_steffen_g_scholz_credit_single_whitehead_torpedo_tube_locat-098ead67b3c8a8d78866627705003f89.jpeg" length="760422" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/shipwreck-hunters-discover-the-ruins-of-a-british-destroyer-that-split-in-half-during-a-tragic-peacetime-accident-118-years-ago-180989379/</guid>
-    </item>    <item>
-      <title>TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code</title>
-      <link>https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/</link>
-      <description>
-        <![CDATA[For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity [&#8230;]]]>
-      </description>
-      <source:markdown>For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1040107</guid>
-      <category>NASA Engineering and Safety Center</category>
-    </item>    <item>
-      <title>Webb Opens Treasure Chest</title>
-      <link>https://www.nasa.gov/image-article/webb-opens-treasure-chest/</link>
-      <description>
-        <![CDATA[NASA&#8217;s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an object known as a cometary globule. A cometary globule is an isolated cloud of gas and dust with a dense, [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an object known as a cometary globule. A cometary globule is an isolated cloud of gas and dust with a dense, \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1039860</guid>
-      <category>James Webb Space Telescope (JWST)</category>
-      <category>Nebulae</category>
-    </item>    <item>
-      <title>NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor</title>
-      <link>https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/</link>
-      <description>
-        <![CDATA[President Donald J. Trump will award each of NASA’s Artemis II crew members the Congressional Space Medal of Honor at 11 a.m. EDT on Friday, Aug. 28, during a ceremony at the agency’s Johnson Space Center in Houston. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen, [&#8230;]]]>
-      </description>
-      <source:markdown>President Donald J. Trump will award each of NASA’s Artemis II crew members the Congressional Space Medal of Honor at 11 a.m. EDT on Friday, Aug. 28, during a ceremony at the agency’s Johnson Space Center in Houston. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen, \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1039603</guid>
-      <category>Artemis 2</category>
-    </item>    <item>
-      <title>Scientists Gave Dogs MRIs and Learned That They&#39;re Surprisingly Good at Distinguishing Between Human Emotions, Even Some Negative Ones</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-gave-dogs-mris-and-learned-that-theyre-surprisingly-good-at-distinguishing-between-human-emotions-even-some-negative-ones-180989329/</link>
-      <description>
-        <![CDATA[A recent study found that man’s best friend processes positive and negative human emotions differently and can distinguish between fearful faces and those showing sadness or anger]]>
-      </description>
-      <source:markdown>A recent study found that man’s best friend processes positive and negative human emotions differently and can distinguish between fearful faces and those showing sadness or anger</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/0cJGF-gqfuZI13q0ex7NYOHb1CY=/420x240/filters:focal(1426x1317:1427x1318)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/06/46/0646d94a-82ec-4948-87ef-b40f8d3de826/dogs-can-distinguish-b.jpg" length="716783" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-gave-dogs-mris-and-learned-that-theyre-surprisingly-good-at-distinguishing-between-human-emotions-even-some-negative-ones-180989329/</guid>
-    </item>    <item>
-      <title>‘Huge Breakthrough’ in the Math of Imbalance</title>
-      <link>https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/</link>
-      <description>
-        <![CDATA[For the first time in 30 years, computer scientists have found a better way to allocate objects evenly between two groups.            <p>The post <a href="https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/" target="_blank">‘Huge Breakthrough’ in the Math of Imbalance</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>For the first time in 30 years, computer scientists have found a better way to allocate objects evenly between two groups.
-
-The post [‘Huge Breakthrough’ in the Math of Imbalance](https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=166010</guid>
-      <category>Mathematics</category>
-    </item>    <item>
-      <title>An &#39;Extremely Rare&#39; Half-Male, Half-Female Bird Temporarily Took Up Residence Outside of Chicago</title>
-      <link>https://www.smithsonianmag.com/smart-news/an-extremely-rare-half-male-half-female-bird-temporarily-took-up-residence-outside-of-chicago-180989377/</link>
-      <description>
-        <![CDATA[The unusual-looking bobolink is what's called a bilateral gynandromorph. The bird behaved like a male, eventually wooing a mate and raising fledglings]]>
-      </description>
-      <source:markdown>The unusual-looking bobolink is what&#39;s called a bilateral gynandromorph. The bird behaved like a male, eventually wooing a mate and raising fledglings</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/NI5VmaHdWvXutzCunpRQCms0Jq8=/420x240/filters:focal(678x455:679x456)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ed/d2/edd2d777-fb26-4bc8-82e2-f19130ee7794/1000019009.jpg" length="396079" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/an-extremely-rare-half-male-half-female-bird-temporarily-took-up-residence-outside-of-chicago-180989377/</guid>
-    </item>    <item>
-      <title>These ‘Extremely Rare’ 17th-Century Drawings Were Astonishingly Well-Preserved. Now They Are on Display for the First Time in Nearly a Century</title>
-      <link>https://www.smithsonianmag.com/smart-news/extremely-rare-artworks-from-17th-century-drawing-book-were-astonishingly-well-preserved-now-they-are-on-display-for-first-time-in-nearly-century-180989374/</link>
-      <description>
-        <![CDATA[Amsterdam’s Rijksmuseum acquired the drawing book, which has artwork attributed to Rombout Uylenburgh, a celebrated 17th-century Dutch painter whose legacy later fell into obscurity]]>
-      </description>
-      <source:markdown>Amsterdam’s Rijksmuseum acquired the drawing book, which has artwork attributed to Rombout Uylenburgh, a celebrated 17th-century Dutch painter whose legacy later fell into obscurity</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jexcwVdkKr6-OB5lj1AzRFBCBs0=/420x240/filters:focal(3650x2433:3651x2434)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/11/93/119341ed-4ead-4e8c-9b85-36950e8966df/rp-t-2025-120_06.jpg" length="7869213" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/extremely-rare-artworks-from-17th-century-drawing-book-were-astonishingly-well-preserved-now-they-are-on-display-for-first-time-in-nearly-century-180989374/</guid>
-    </item>    <item>
-      <title>Why scientists are stoked about mysterious black hole stars</title>
-      <link>https://www.npr.org/2026/08/21/nx-s1-5931541/black-hole-stars-red-dots-james-webb</link>
-      <description>
-        <![CDATA[You've heard of black holes. You've heard of stars. But have you heard of the newly discovered black hole stars that may explain multiple mysteries of the universe? We just did and we're honestly freaking out about it. Learn everything you need to know about it in this episode. Plus, hear some other cool stories fresh off the presses: Which exercise can help reduce your risk of dementia and how shrews shrink — and then <em>regrow</em> — parts of their body throughout the year.<br/><br/><em>Interested in hearing more reporting on space, scientific mysteries or other emerging science? We want to know! Email us what you'd like us to talk about at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>!</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org/"target="_blank"   ><em>plus.npr.org</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>You&#39;ve heard of black holes. You&#39;ve heard of stars. But have you heard of the newly discovered black hole stars that may explain multiple mysteries of the universe? We just did and we&#39;re honestly freaking out about it. Learn everything you need to know about it in this episode. Plus, hear some other cool stories fresh off the presses: Which exercise can help reduce your risk of dementia and how shrews shrink — and then _regrow_ — parts of their body throughout the year.
-
-_Interested in hearing more reporting on space, scientific mysteries or other emerging science? We want to know! Email us what you&#39;d like us to talk about at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _!_
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org/) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/be5b4316-9719-4728-8ac0-b2b420000376/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=be5b4316-9719-4728-8ac0-b2b420000376&feed=F0qJcgXZ&t=podcast&e=nx-s1-5931541&p=510351&d=734&size=11755146" length="11755146" type="audio/mpeg" />
-      <guid>cid://abfd9967-81e5-4897-b1a0-47ff1daf5256</guid>
-    </item>    <item>
-      <title>Europe’s Scorching Summer</title>
-      <link>https://science.nasa.gov/earth/europes-scorching-summer/</link>
-      <description>
-        <![CDATA[A series of heat waves in 2026 is breaking records and taking a toll in Europe.]]>
-      </description>
-      <source:markdown>A series of heat waves in 2026 is breaking records and taking a toll in Europe.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/europes-scorching-summer/</guid>
-      <category>Earth</category>
-      <category>Earth Observatory</category>
-      <category>Extreme Temperatures</category>
-      <category>Extreme Weather Events</category>
     </item>
   </channel>
 </rss>

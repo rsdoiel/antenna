@@ -4,10 +4,45 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>11 Sep 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>12 Sep 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The castaways : by James Otis</title>
+      <link>https://www.gutenberg.org/ebooks/79552</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Drift and mastery : by Walter Lippmann</title>
+      <link>https://www.gutenberg.org/ebooks/79553</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Valiant dust by Katharine Fullerton Gerould</title>
+      <link>https://www.gutenberg.org/ebooks/79554</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The gate marked &#34;Private&#34; by Ethel M.  Dell</title>
+      <link>https://www.gutenberg.org/ebooks/79556</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Kränze auf das Grab einer theuren Angehörigen. 28. Oktober 1858 by Anonymous</title>
+      <link>https://www.gutenberg.org/ebooks/79555</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
       <title>Mrs. Rule&#39;s foundlings by Annette Lyster</title>
       <link>https://www.gutenberg.org/ebooks/79549</link>
       <description>
@@ -17,13 +52,6 @@
     </item>    <item>
       <title>Kick formation by Ralph Henry Barbour</title>
       <link>https://www.gutenberg.org/ebooks/79550</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The castaways : by James Otis</title>
-      <link>https://www.gutenberg.org/ebooks/79552</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1666,69 +1694,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Stories from the Faerie Queene by Mary Macleod and Edmund Spenser</title>
-      <link>https://www.gutenberg.org/ebooks/79406</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Sonnets from the Portuguese by Elizabeth Barrett Browning</title>
-      <link>https://www.gutenberg.org/ebooks/2002</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Uncooked foods &#38; how to use them : by Eugene Christian and Mollie Griswold Christian</title>
-      <link>https://www.gutenberg.org/ebooks/79407</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Works of the Rev. John Wesley, Vol 16 (of 32) by John Wesley</title>
-      <link>https://www.gutenberg.org/ebooks/79413</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Sylvia by Adeline Adams</title>
-      <link>https://www.gutenberg.org/ebooks/79408</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Abeokuta and the Camaroons Mountains, Vol. 1 (of 2) by Sir Richard Francis Burton</title>
-      <link>https://www.gutenberg.org/ebooks/79409</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Abeokuta and the Camaroons Mountains, Vol. 2 (of 2) by Sir Richard Francis Burton</title>
-      <link>https://www.gutenberg.org/ebooks/79410</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Instructions sur les droits de messageries by Anonymous</title>
-      <link>https://www.gutenberg.org/ebooks/79412</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Les chambres du plaisir by Eugène Marsan</title>
-      <link>https://www.gutenberg.org/ebooks/79411</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,92 @@
   <channel>
     <title><![CDATA[Student Paper]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>11 Sep 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>12 Sep 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>UCLA women’s soccer kicks off Big Ten play with win over Purdue</title>
+      <link>https://dailybruin.com/2026/09/11/ucla-womens-soccer-kicks-off-big-ten-play-with-win-over-purdue/</link>
+      <description>
+        <![CDATA[While most of Los Angeles sought out air conditioning, the Bruins turned up the heat.
+        And sure enough, the Boilermakers melted under the pressure at Wallis Annenberg Stadium.]]>
+      </description>
+      <source:markdown>While most of Los Angeles sought out air conditioning, the Bruins turned up the heat.
+And sure enough, the Boilermakers melted under the pressure at Wallis Annenberg Stadium.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=515527</guid>
+      <category>Sports</category>
+      <category>Women&#39;s Soccer</category>
+      <category>db-story-g</category>
+    </item>    <item>
+      <title>Full steam ahead: UCLA football to take on SDSU for Chesney’s first home game</title>
+      <link>https://dailybruin.com/2026/09/11/full-steam-ahead-ucla-football-to-take-on-sdsu-for-chesneys-first-home-game/</link>
+      <description>
+        <![CDATA[Football is won in the trenches.
+        And the Bruins excelled on both fronts in their Week 1 triumph.
+        UCLA football (1-0) will face a physically imposing San Diego State squad (1-0) &#8211; which racked up 53 points and 237 rushing yards in its 33-point victory over Portland State last week &#8211; at the Rose Bowl on Saturday afternoon, marking the first home contest of the coach Bob Chesney era.]]>
+      </description>
+      <source:markdown>Football is won in the trenches.
+And the Bruins excelled on both fronts in their Week 1 triumph.
+UCLA football (1-0) will face a physically imposing San Diego State squad (1-0) – which racked up 53 points and 237 rushing yards in its 33-point victory over Portland State last week – at the Rose Bowl on Saturday afternoon, marking the first home contest of the coach Bob Chesney era.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=515521</guid>
+      <category>Football</category>
+      <category>Sports</category>
+      <category>db-story-c1</category>
+    </item>    <item>
+      <title>UCLA study sheds light on California’s lack of community solar programs</title>
+      <link>https://dailybruin.com/2026/09/11/ucla-study-sheds-light-on-californias-lack-of-community-solar-programs/</link>
+      <description>
+        <![CDATA[California has more solar capacity than any other state, but residents can’t access solar power for themselves without installing their own panels.
+        But an August study conducted by UCLA researchers found that California has failed to build a functioning community solar program, which would allow people to do just that.]]>
+      </description>
+      <source:markdown>California has more solar capacity than any other state, but residents can’t access solar power for themselves without installing their own panels.
+But an August study conducted by UCLA researchers found that California has failed to build a functioning community solar program, which would allow people to do just that.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=515516</guid>
+      <category>California</category>
+      <category>News</category>
+      <category>Science &#38; Health</category>
+      <category>db-story-a</category>
+    </item>    <item>
+      <title>Scouting Report: UCLA football vs. SDSU</title>
+      <link>https://dailybruin.com/2026/09/11/scouting-report-ucla-football-vs-sdsu/</link>
+      <description>
+        <![CDATA[After its Week 1 victory, UCLA football (1-0) will make its first stand at home in the Rose Bowl against San Diego State (1-0) Saturday afternoon.]]>
+      </description>
+      <source:markdown>After its Week 1 victory, UCLA football (1-0) will make its first stand at home in the Rose Bowl against San Diego State (1-0) Saturday afternoon.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=515512</guid>
+      <category>Football</category>
+      <category>Sports</category>
+      <category>Sports Columns</category>
+      <category>db-story-b</category>
+    </item>    <item>
+      <title>‘What’s the standard?’: UCLA football builds on strong start ahead of home opener</title>
+      <link>https://dailybruin.com/2026/09/11/whats-the-standard-ucla-football-builds-on-strong-start-ahead-of-home-opener/</link>
+      <description>
+        <![CDATA[<em>This post was updated Sept. 11 at 3:48 p.m.</em>
+        Ahead of UCLA’s matchup against San Diego State on Saturday, its new-look staff is bringing an unwavering focus on maintaining competitive intensity and building brotherhood in its deep roster.]]>
+      </description>
+      <source:markdown>_This post was updated Sept. 11 at 3:48 p.m._
+Ahead of UCLA’s matchup against San Diego State on Saturday, its new-look staff is bringing an unwavering focus on maintaining competitive intensity and building brotherhood in its deep roster.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=515503</guid>
+      <category>Football</category>
+      <category>Sports</category>
+      <category>db-story-c2</category>
+    </item>    <item>
+      <title>USAC Recap – Sept. 1</title>
+      <link>https://dailybruin.com/2026/09/11/usac-recap-sept-1/</link>
+      <description>
+        <![CDATA[The Undergraduate Students Association Council recommended several changes to the student conduct code during its Sept. 1 meeting.
+        USAC is the official student government representing the undergraduate student body at UCLA.]]>
+      </description>
+      <source:markdown>The Undergraduate Students Association Council recommended several changes to the student conduct code during its Sept. 1 meeting.
+USAC is the official student government representing the undergraduate student body at UCLA.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=515499</guid>
+      <category>Academics</category>
+      <category>Campus</category>
+      <category>News</category>
+      <category>Student Government</category>
+      <category>db-story-d1</category>
+    </item>    <item>
       <title>Western Michigan was robbed, plain and simple</title>
       <link>https://dailytrojan.com/2026/09/11/western-michigan-was-robbed-plain-and-simple/</link>
       <description>
@@ -43,6 +125,7 @@ The post [Men’s golf falls short on final day of season-opening tournament](ht
       <category>Sports sub-main feature</category>
       <category>bryce-dechert</category>
       <category>fall-2026</category>
+      <category>golf</category>
       <category>mason-bloom</category>
       <category>mens-golf</category>
       <category>sports</category>
@@ -300,18 +383,20 @@ No. 11 UCLA men’s soccer (3-0-2) will face Rutgers (1-3-1) in Piscataway, New 
       <guid>cid://https://dailybruin.com/?p=515493</guid>
       <category>Men&#39;s Soccer</category>
       <category>Sports</category>
+      <category>db-story-g</category>
     </item>    <item>
       <title>UCLA men’s golf tees off new season after placing 2nd at 2026 NCAA championship</title>
       <link>https://dailybruin.com/2026/09/10/ucla-mens-golf-tees-off-new-season-after-placing-2nd-at-2026-ncaa-championship/</link>
       <description>
         <![CDATA[Three months removed from a historic season, the Bruins are back in full swing.
-        UCLA men&#8217;s golf will be stepping up to the tee box for the first event of the 2026-27 season Saturday and Sunday at the Sahalee Players Championship in Sammamish, Washington.]]>
+        UCLA men’s golf will be stepping up to the tee box for the first event of the 2026-27 season Saturday and Sunday at the Sahalee Players Championship in Sammamish, Washington.]]>
       </description>
       <source:markdown>Three months removed from a historic season, the Bruins are back in full swing.
 UCLA men’s golf will be stepping up to the tee box for the first event of the 2026-27 season Saturday and Sunday at the Sahalee Players Championship in Sammamish, Washington.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=515488</guid>
       <category>Men&#39;s Golf</category>
       <category>Sports</category>
+      <category>db-story-f2</category>
     </item>    <item>
       <title>Opinion: Podcaster Scott Galloway, the newest UC regent, will make the changes the UC needs</title>
       <link>https://dailybruin.com/2026/09/10/opinion-podcaster-scott-galloway-the-newest-uc-regent-will-make-the-changes-the-uc-needs/</link>
@@ -324,6 +409,7 @@ California Gov. Gavin Newsom appointed Galloway to the UC Board of Regents on Ju
       <guid>cid://https://dailybruin.com/?p=515484</guid>
       <category>Opinion</category>
       <category>Opinion Columns</category>
+      <category>db-story-d2</category>
       <category>db-story-op</category>
     </item>    <item>
       <title>Emmys 2026: Spotlighting UCLA alumni at the 78th Primetime Creative Arts Emmy Awards</title>
@@ -338,6 +424,7 @@ The 78th Primetime Creative Arts Emmy Awards ceremony was held Sept. 5-6 at Peac
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Film &#38; TV</category>
+      <category>db-story-g</category>
     </item>    <item>
       <title>The Trump administration killed Climate.gov. A new website is resurrecting it.</title>
       <link>https://www.niemanlab.org/2026/09/the-trump-administration-killed-climate-gov-a-new-website-is-resurrecting-it/</link>
@@ -555,7 +642,7 @@ A 4-year-old student at a UCLA childcare center was reported to child protective
       <category>Campus</category>
       <category>Crime</category>
       <category>Enterprise</category>
-      <category>db-story-c1</category>
+      <category>db-story-f1</category>
     </item>    <item>
       <title>UCLA men’s water polo to play trio of opponents in Irvine, LA home opener</title>
       <link>https://dailybruin.com/2026/09/09/ucla-mens-water-polo-to-play-trio-of-opponents-in-irvine-la-home-opener/</link>
@@ -568,7 +655,7 @@ No. 1 UCLA men’s water polo (5-0) will play No.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=515452</guid>
       <category>Men&#39;s Water Polo</category>
       <category>Sports</category>
-      <category>db-story-b</category>
+      <category>db-story-d1</category>
     </item>    <item>
       <title>UCLA women’s volleyball hopes to continue win streak on the road in Utah</title>
       <link>https://dailybruin.com/2026/09/09/ucla-womens-volleyball-hopes-to-continue-win-streak-on-the-road-in-utah/</link>
@@ -581,7 +668,7 @@ UCLA women’s volleyball (4-1) continues its time on the road, traveling to fac
       <guid>cid://https://dailybruin.com/?p=515446</guid>
       <category>Sports</category>
       <category>Women&#39;s Volleyball</category>
-      <category>db-story-g</category>
+      <category>db-story-h</category>
     </item>    <item>
       <title>North Westwood Neighborhood Council recap – Sept. 2</title>
       <link>https://dailybruin.com/2026/09/09/north-westwood-neighborhood-council-recap-sept-2-2/</link>
@@ -594,7 +681,7 @@ The council, which represents UCLA and Westwood Village, meets on the first Wedn
       <guid>cid://https://dailybruin.com/?p=515442</guid>
       <category>News</category>
       <category>Westwood</category>
-      <category>db-story-d1</category>
+      <category>db-story-d2</category>
     </item>    <item>
       <title>Hip Hop Congress at UCLA ‘edutains’ students on history, culture behind the music</title>
       <link>https://dailybruin.com/2026/09/09/hip-hop-congress-at-ucla-edutains-students-on-history-culture-behind-the-music/</link>
@@ -607,7 +694,7 @@ In the ’90s, the Hip Hop Congress was founded under the Afrikan Student Union.
       <guid>cid://https://dailybruin.com/?p=515436</guid>
       <category>Arts</category>
       <category>Theater &#38; Fine Arts</category>
-      <category>db-story-a</category>
+      <category>db-story-j</category>
     </item>    <item>
       <title>Viva Draw Vegas: CSUN battles UNLV to a 2-2 tie</title>
       <link>https://sundial.csun.edu/221428/sports/viva-draw-vegas-csun-battles-unlv-to-a-2-2-tie/</link>
@@ -905,7 +992,7 @@ The university suspended Sigma Alpha Zeta, a multicultural sorority, for one yea
       <category>Campus</category>
       <category>News</category>
       <category>breaking</category>
-      <category>db-story-c2</category>
+      <category>db-story-i</category>
     </item>    <item>
       <title>New Angels Ownership Brings Hope for a Turnaround</title>
       <link>https://sundial.csun.edu/221226/sports/new-angels-ownership-brings-hope-for-a-turnaround/</link>
@@ -927,7 +1014,7 @@ The university suspended Sigma Alpha Zeta, a multicultural sorority, for one yea
       <category>California</category>
       <category>National</category>
       <category>News</category>
-      <category>db-story-d2</category>
+      <category>db-story-k</category>
     </item>    <item>
       <title>At three years old, Deep South Today threads the needle between “lean and mean” and “aggressive expansion”</title>
       <link>https://www.niemanlab.org/2026/09/at-three-deep-south-today-threads-the-needle-between-lean-and-mean-and-aggressive-expansion/</link>
@@ -999,7 +1086,7 @@ The 78th Primetime Emmy Awards will be held Sept.</source:markdown>
       <category>Arts Columns</category>
       <category>Film &#38; TV</category>
       <category>2026 Emmy Awards</category>
-      <category>db-story-f1</category>
+      <category>db-story-h</category>
     </item>    <item>
       <title>Gallery: ‘Put it on tape’: UCLA smothers Cal in Chesney era season opener</title>
       <link>https://dailybruin.com/2026/09/07/gallery-put-it-on-tape-ucla-smothers-cal-in-chesney-era-season-opener/</link>
@@ -1029,7 +1116,7 @@ No. 12 UCLA men’s soccer (3-0-2) chose the latter as it defeated Omaha (2-1-2)
       <guid>cid://https://dailybruin.com/?p=515388</guid>
       <category>Men&#39;s Soccer</category>
       <category>Sports</category>
-      <category>db-story-f2</category>
+      <category>db-story-i</category>
     </item>    <item>
       <title>This Labor Day, AI regulation should take center stage</title>
       <link>https://sundial.csun.edu/221075/editorials/this-labor-day-ai-regulation-should-take-center-stage/</link>
@@ -4509,152 +4596,6 @@ Former Bruin Donovan Dent announced Friday on Instagram that he will transfer to
       <category>Arts Columns</category>
       <category>Film &#38; TV</category>
       <category>Music</category>
-      <category>db-story-g</category>
-    </item>    <item>
-      <title>The Cirque de Gavarnie and Other Pyrenean Wonders</title>
-      <link>https://sundial.csun.edu/219778/sundialbrandstudio/sundial-marketplace/the-cirque-de-gavarnie-and-other-pyrenean-wonders/</link>
-      <description>
-        <![CDATA[The Pyrenees are full of natural spectacles that would be world-famous if they lay in the Alps. Chief among them is the Cirque de Gavarnie, a vast natural amphitheatre of...]]>
-      </description>
-      <source:markdown>The Pyrenees are full of natural spectacles that would be world-famous if they lay in the Alps. Chief among them is the Cirque de Gavarnie, a vast natural amphitheatre of...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=219778</guid>
-      <category>Sundial Marketplace</category>
-      <category>Sponsored Content</category>
-    </item>    <item>
-      <title>Preikestolen, Kjerag and Trolltunga: Which Should You Do?</title>
-      <link>https://sundial.csun.edu/219772/sundialbrandstudio/sundial-marketplace/preikestolen-kjerag-and-trolltunga-which-should-you-do/</link>
-      <description>
-        <![CDATA[Three hikes have come to define Norwegian fjord country in the popular imagination: the flat clifftop of Preikestolen, the boulder wedged in the void at Kjerag, and the jutting tongue...]]>
-      </description>
-      <source:markdown>Three hikes have come to define Norwegian fjord country in the popular imagination: the flat clifftop of Preikestolen, the boulder wedged in the void at Kjerag, and the jutting tongue...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=219772</guid>
-      <category>Sundial Marketplace</category>
-      <category>Sponsored Content</category>
-    </item>    <item>
-      <title>The Walks Where the Accommodation Is Part of the Experience</title>
-      <link>https://sundial.csun.edu/219762/sundialbrandstudio/sundial-marketplace/the-walks-where-the-accommodation-is-part-of-the-experience/</link>
-      <description>
-        <![CDATA[The standard relationship between a walking holiday and its accommodation is functional. You walk during the day, you sleep somewhere at night, and the somewhere is chosen primarily on the...]]>
-      </description>
-      <source:markdown>The standard relationship between a walking holiday and its accommodation is functional. You walk during the day, you sleep somewhere at night, and the somewhere is chosen primarily on the...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=219762</guid>
-      <category>Sundial Marketplace</category>
-      <category>Sponsored Content</category>
-    </item>    <item>
-      <title>Why Austria Is Europe’s Most Underrated Hiking Country</title>
-      <link>https://sundial.csun.edu/219759/sundialbrandstudio/sundial-marketplace/why-austria-is-europes-most-underrated-hiking-country/</link>
-      <description>
-        <![CDATA[When walkers dream of the Alps, they picture Switzerland or the Italian Dolomites. Austria rarely gets a mention, and that is a genuine oversight. For scenery, value, and sheer quality...]]>
-      </description>
-      <source:markdown>When walkers dream of the Alps, they picture Switzerland or the Italian Dolomites. Austria rarely gets a mention, and that is a genuine oversight. For scenery, value, and sheer quality...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=219759</guid>
-      <category>Sundial Marketplace</category>
-      <category>Sponsored Content</category>
-    </item>    <item>
-      <title>UCLA men’s soccer starts strong, stuns Virginia in season opener upset</title>
-      <link>https://dailybruin.com/2026/08/21/ucla-mens-soccer-starts-strong-stuns-virginia-in-season-opener-upset/</link>
-      <description>
-        <![CDATA[Good things come to those who wait.
-        But the Bruins did not want to waste any time.
-        UCLA men&#8217;s soccer (1-0) took down No. 11 Virginia (0-1) 2-1 on Thursday, opening the season with an upset-victory at Kl&#246;ckner Stadium.]]>
-      </description>
-      <source:markdown>Good things come to those who wait.
-But the Bruins did not want to waste any time.
-UCLA men’s soccer (1-0) took down No. 11 Virginia (0-1) 2-1 on Thursday, opening the season with an upset-victory at Klöckner Stadium.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=514531</guid>
-      <category>Men&#39;s Soccer</category>
-      <category>Sports</category>
-    </item>    <item>
-      <title>Individuality and connection combine to define UCLA football’s 2026-27 strategy</title>
-      <link>https://dailybruin.com/2026/08/21/individuality-and-connection-combine-to-define-ucla-footballs-2026-27-strategy/</link>
-      <description>
-        <![CDATA[<em>This post was updated Aug. 23 at 8:51 p.m.</em>
-        With a roster featuring 55 new players and 19 new coaches, including both top coordinators, creating a sense of camaraderie and connection among the new faces of Westwood is at the forefront of head coach Bob Chesney’s first fall camp.]]>
-      </description>
-      <source:markdown>_This post was updated Aug. 23 at 8:51 p.m._
-With a roster featuring 55 new players and 19 new coaches, including both top coordinators, creating a sense of camaraderie and connection among the new faces of Westwood is at the forefront of head coach Bob Chesney’s first fall camp.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=514525</guid>
-      <category>Football</category>
-      <category>Sports</category>
-      <category>db-story-h</category>
-    </item>    <item>
-      <title>The Camino on a Budget vs the Comfortable Way</title>
-      <link>https://sundial.csun.edu/219757/sundialbrandstudio/sundial-marketplace/the-camino-on-a-budget-vs-the-comfortable-way/</link>
-      <description>
-        <![CDATA[One of the first decisions you face when planning a Camino de Santiago is what kind of walk you want it to be. You can do it for very little...]]>
-      </description>
-      <source:markdown>One of the first decisions you face when planning a Camino de Santiago is what kind of walk you want it to be. You can do it for very little...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=219757</guid>
-      <category>Sundial Marketplace</category>
-      <category>Sponsored Content</category>
-    </item>    <item>
-      <title>This UCLA alum’s experimental video game ‘Slot Waste’ is nothing to throw away</title>
-      <link>https://dailybruin.com/2026/08/21/this-ucla-alums-experimental-video-game-slot-waste-is-nothing-to-throw-away/</link>
-      <description>
-        <![CDATA[A UCLA alumnus&#8217; MFA thesis project trades saving kingdoms and defeating fire-breathing dragons for a far more introspective mission: confronting the systems that shape our identities and the world around us.]]>
-      </description>
-      <source:markdown>A UCLA alumnus’ MFA thesis project trades saving kingdoms and defeating fire-breathing dragons for a far more introspective mission: confronting the systems that shape our identities and the world around us.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=514519</guid>
-      <category>Arts</category>
-      <category>Lifestyle</category>
-      <category>db-story-h</category>
-    </item>    <item>
-      <title>Trendtrack Review 2026: The Best SaaS for E-commerce Sellers</title>
-      <link>https://sundial.csun.edu/219755/sundialbrandstudio/sundial-marketplace/trendtrack-review-2026-the-best-saas-for-e-commerce-sellers/</link>
-      <description>
-        <![CDATA[In the fast-moving world of e-commerce, finding winning products before they saturate is the difference between scaling a profitable store and burning through your ad budget. This is exactly why...]]>
-      </description>
-      <source:markdown>In the fast-moving world of e-commerce, finding winning products before they saturate is the difference between scaling a profitable store and burning through your ad budget. This is exactly why...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=219755</guid>
-      <category>Sundial Marketplace</category>
-      <category>Sponsored Content</category>
-    </item>    <item>
-      <title>That Watch Your Grandpa Left You Might Be Worth More Than Your Textbooks Combined</title>
-      <link>https://sundial.csun.edu/219365/sundialbrandstudio/sundial-marketplace/that-watch-your-grandpa-left-you-might-be-worth-more-than-your-textbooks-combined/</link>
-      <description>
-        <![CDATA[Written by Mills Menser  The Watch in the Sock Drawer  Somewhere in many CSUN dorm rooms and apartments, there is a watch sitting in a sock drawer that nobody has...]]>
-      </description>
-      <source:markdown>Written by Mills Menser  The Watch in the Sock Drawer  Somewhere in many CSUN dorm rooms and apartments, there is a watch sitting in a sock drawer that nobody has...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=219365</guid>
-      <category>Sundial Marketplace</category>
-      <category>Sponsored Content</category>
-    </item>    <item>
-      <title>2026 UCLA football position preview: Secondary</title>
-      <link>https://dailybruin.com/2026/08/20/2026-ucla-football-position-preview-secondary/</link>
-      <description>
-        <![CDATA[As UCLA football enters its first year under coach Bob Chesney and third season in the Big Ten, Daily Bruin Sports will preview the personnel of the Bruins&#8217; position groups and predict their 2026 outlook prior to the season&#8217;s opening game Sept.]]>
-      </description>
-      <source:markdown>As UCLA football enters its first year under coach Bob Chesney and third season in the Big Ten, Daily Bruin Sports will preview the personnel of the Bruins’ position groups and predict their 2026 outlook prior to the season’s opening game Sept.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=514512</guid>
-      <category>Football</category>
-      <category>Sports</category>
-      <category>Sports Columns</category>
-    </item>    <item>
-      <title>Design media arts department draws up 3 new degrees to overwrite original</title>
-      <link>https://dailybruin.com/2026/08/20/design-media-arts-department-draws-up-3-new-degrees-to-overwrite-original/</link>
-      <description>
-        <![CDATA[<em>This post was updated Aug. 23 at 6:18 p.m.</em>
-        UCLA’s current design media arts major will be split into three new majors starting fall 2027.
-        The department will offer separate design, games and computational art majors, said Eddo Stern, a design media arts professor.]]>
-      </description>
-      <source:markdown>_This post was updated Aug. 23 at 6:18 p.m._
-UCLA’s current design media arts major will be split into three new majors starting fall 2027.
-The department will offer separate design, games and computational art majors, said Eddo Stern, a design media arts professor.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=514508</guid>
-      <category>A Closer Look</category>
-      <category>Academics</category>
-      <category>News</category>
-      <category>db-story-i</category>
-    </item>    <item>
-      <title>Roster Reset: UCLA men’s water polo lineup lost so little and gained oh-so-much in the offseason</title>
-      <link>https://dailybruin.com/2026/08/20/roster-reset-ucla-mens-water-polo-lineup-lost-so-little-and-gained-oh-so-much-in-the-offseason/</link>
-      <description>
-        <![CDATA[UCLA men&#8217;s water polo begins its 2026 season Aug. 29 at the Triton Invitational in La Jolla. Coming off back-to-back national championships, the Bruins will open what could be a three-peat campaign with a doubleheader against Saint Mary&#8217;s and Bucknell.]]>
-      </description>
-      <source:markdown>UCLA men’s water polo begins its 2026 season Aug. 29 at the Triton Invitational in La Jolla. Coming off back-to-back national championships, the Bruins will open what could be a three-peat campaign with a doubleheader against Saint Mary’s and Bucknell.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=514500</guid>
-      <category>Men&#39;s Water Polo</category>
-      <category>Sports</category>
       <category>db-story-g</category>
     </item>
   </channel>
