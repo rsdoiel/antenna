@@ -4,10 +4,83 @@
   <channel>
     <title><![CDATA[Healthy Eats]]></title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>12 Sep 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>13 Sep 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A Fresh Roster Of Fresh Coffees From The Sprudge Roaster’s Village</title>
+      <link>https://sprudge.com/a-fresh-roster-of-fresh-coffees-from-the-sprudge-roasters-village-1332178.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster's Village.]]>
+      </description>
+      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster&#39;s Village.**</source:markdown>
+      <guid>cid://https://sprudge.com/?p=1332178</guid>
+      <category>Roaster&#39;s Village</category>
+      <category>coffee</category>
+    </item>    <item>
+      <title>The 3-Ingredient Pumpkin Soup You’ll Fall For</title>
+      <link>https://www.bonappetit.com/story/the-3-ingredient-pumpkin-soup-youll-fall-for</link>
+      <description>
+        <![CDATA[From our It’s That Simple column, it’s easy and cozy as can be.]]>
+      </description>
+      <source:markdown>From our It’s That Simple column, it’s easy and cozy as can be.</source:markdown>
+      <guid>cid://6aa17fdd322e4fbe88648353</guid>
+      <category>Cooking</category>
+    </item>    <item>
+      <title>3-Ingredient Curry Pumpkin Soup</title>
+      <link>https://www.bonappetit.com/recipe/curry-pumpkin-soup</link>
+      <description>
+        <![CDATA[A cozy, spicy soup that comes together in a flash.]]>
+      </description>
+      <source:markdown>A cozy, spicy soup that comes together in a flash.</source:markdown>
+      <guid>cid://6a749a112dfadfaf7a3c8671</guid>
+      <category>Recipes</category>
+    </item>    <item>
+      <title>100 Game Day Snacks</title>
+      <link>https://www.closetcooking.com/25-super-bowl-snacks/</link>
+      <description>
+        <![CDATA[<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/01/100-Game-Day-Snack-Recipes.jpg"/></div>
+        <p>There are a lot of games on and whether you are watching alone, with a few friends and family, or throwing a big party, it&#8217;s pretty much a requirement to have some tasty snacks to enjoy while watching! With that in mind I have gathered some of my favourite game day munchies recipes and they...</p>
+        <p><a class="more-link" href="https://www.closetcooking.com/25-super-bowl-snacks/">Read On &#8594;</a></p>
+        <p>The post <a href="https://www.closetcooking.com/25-super-bowl-snacks/">100 Game Day Snacks</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
+      </description>
+      <source:markdown>![](https://www.closetcooking.com/wp-content/uploads/2018/01/100-Game-Day-Snack-Recipes.jpg)
+
+There are a lot of games on and whether you are watching alone, with a few friends and family, or throwing a big party, it’s pretty much a requirement to have some tasty snacks to enjoy while watching! With that in mind I have gathered some of my favourite game day munchies recipes and they...
+
+[Read On →](https://www.closetcooking.com/25-super-bowl-snacks/)
+
+The post [100 Game Day Snacks](https://www.closetcooking.com/25-super-bowl-snacks/) appeared first on [Closet Cooking](https://www.closetcooking.com).</source:markdown>
+      <guid>cid://https://www.closetcooking.com/2018/01/28/25-super-bowl-snacks/</guid>
+      <category>Food</category>
+      <category>Roundup</category>
+    </item>    <item>
+      <title>East African Rolex (Rolled Eggs)</title>
+      <link>https://www.tasteofhome.com/recipes/east-african-rolex-rolled-eggs/</link>
+      <description>
+        <![CDATA[Soft chapati rolled around a garlicky vegetable omelet turns this Ugandan rolex into a breakfast you can eat on the go.]]>
+      </description>
+      <source:markdown>Soft chapati rolled around a garlicky vegetable omelet turns this Ugandan rolex into a breakfast you can eat on the go.</source:markdown>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2258642</guid>
+      <category>Africa</category>
+      <category>Brunch</category>
+      <category>Cooking Style</category>
+      <category>Cuisines</category>
+      <category>Dairy-Free</category>
+      <category>Eggs</category>
+      <category>Health &#38; Wellness</category>
+      <category>How To</category>
+      <category>Ingredients</category>
+      <category>Meal Types</category>
+      <category>Pan-Frying</category>
+      <category>Recipes</category>
+      <category>Techniques</category>
+      <category>Test Kitchen</category>
+      <category>Tomatoes</category>
+      <category>Vegetables</category>
+      <category>Vegetarian</category>
+      <category>Winning Recipes</category>
+    </item>    <item>
       <title>Gearly Beloved, We Are Gathered Here Today For More Coffee Gadgets</title>
       <link>https://sprudge.com/gearly-beloved-we-are-gathered-here-today-for-more-coffee-gadgets-1332253.html</link>
       <description>
@@ -4678,45 +4751,6 @@ The post [Cauliflower Recipes](https://www.closetcooking.com/cauliflower-recipes
       <guid>cid://https://www.closetcooking.com/2017/07/30/cauliflower-recipes/</guid>
       <category>Food</category>
       <category>Roundup</category>
-    </item>    <item>
-      <title>Angel Food Cake Strawberry Ice Cream Sandwiches</title>
-      <link>https://www.tasteofhome.com/recipes/angel-food-cake-strawberry-ice-cream-sandwiches/</link>
-      <description>
-        <![CDATA[These angel food cake strawberry ice cream sandwiches are made from scratch without an ice cream maker. They're heavenly treats for hot days.]]>
-      </description>
-      <source:markdown>These angel food cake strawberry ice cream sandwiches are made from scratch without an ice cream maker. They&#39;re heavenly treats for hot days.</source:markdown>
-      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2250623</guid>
-      <category>Angel Food Cakes</category>
-      <category>Angel Food Pan</category>
-      <category>Bakeware</category>
-      <category>Baking Breads &#38; Desserts</category>
-      <category>Cakes</category>
-      <category>Christmas</category>
-      <category>Cooking Style</category>
-      <category>Desserts</category>
-      <category>Dishes &#38; Beverages</category>
-      <category>Easter</category>
-      <category>Easy</category>
-      <category>Egg Whites</category>
-      <category>Eggs</category>
-      <category>Events &#38; Gatherings</category>
-      <category>Father&#39;s Day</category>
-      <category>Gear</category>
-      <category>Health &#38; Wellness</category>
-      <category>Holidays</category>
-      <category>Holidays &#38; Events</category>
-      <category>How To</category>
-      <category>Ice Cream &#38; Frozen Treats</category>
-      <category>Ice Cream Sandwiches</category>
-      <category>Ingredients</category>
-      <category>Low-Fat</category>
-      <category>Meal Types</category>
-      <category>Mother&#39;s Day</category>
-      <category>Potluck</category>
-      <category>Recipes</category>
-      <category>Techniques</category>
-      <category>Test Kitchen</category>
-      <category>Thanksgiving</category>
     </item>
   </channel>
 </rss>

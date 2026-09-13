@@ -4,10 +4,59 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>12 Sep 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>13 Sep 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The gate marked &#34;Private&#34; by Ethel M.  Dell</title>
+      <link>https://www.gutenberg.org/ebooks/79556</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Malice in Kulturland by Horace Wyatt</title>
+      <link>https://www.gutenberg.org/ebooks/79557</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Goldsmith&#39;s essays by Oliver Goldsmith</title>
+      <link>https://www.gutenberg.org/ebooks/79560</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Diario de su residencia en Chile (1822) y de su viaje al Brasil (1823) by Lady Maria Callcott</title>
+      <link>https://www.gutenberg.org/ebooks/79559</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+    </item>    <item>
+      <title>The treble clef by Edward Charles Booth</title>
+      <link>https://www.gutenberg.org/ebooks/79558</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Switch off : by Oliver Optic</title>
+      <link>https://www.gutenberg.org/ebooks/79562</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Some ethical gains through legislation by Florence Kelley</title>
+      <link>https://www.gutenberg.org/ebooks/79561</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>The castaways : by James Otis</title>
       <link>https://www.gutenberg.org/ebooks/79552</link>
       <description>
@@ -24,13 +73,6 @@
     </item>    <item>
       <title>Valiant dust by Katharine Fullerton Gerould</title>
       <link>https://www.gutenberg.org/ebooks/79554</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The gate marked &#34;Private&#34; by Ethel M.  Dell</title>
-      <link>https://www.gutenberg.org/ebooks/79556</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1638,62 +1680,6 @@
         <![CDATA[Language: Spanish]]>
       </description>
       <source:markdown>Language: Spanish</source:markdown>
-    </item>    <item>
-      <title>Miss Mole : by E. H.  Young</title>
-      <link>https://www.gutenberg.org/ebooks/79210</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Paradise Lost by John Milton</title>
-      <link>https://www.gutenberg.org/ebooks/26</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Michael Forth by Mary Johnston</title>
-      <link>https://www.gutenberg.org/ebooks/79418</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Tout arrive by Henri Ardel</title>
-      <link>https://www.gutenberg.org/ebooks/79417</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Boswell&#39;s life of Johnson : by Charles Joseph Finger</title>
-      <link>https://www.gutenberg.org/ebooks/79416</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Rocket Summer by Ray Bradbury</title>
-      <link>https://www.gutenberg.org/ebooks/64181</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Mrs. Grey&#39;s strange silence by Ruth Lamb</title>
-      <link>https://www.gutenberg.org/ebooks/79415</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A little southern beauty : by Mrs. Alex. McVeigh Miller</title>
-      <link>https://www.gutenberg.org/ebooks/79414</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>
