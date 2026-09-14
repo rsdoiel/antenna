@@ -4,10 +4,115 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>13 Sep 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>14 Sep 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Through the Grand Canyon from Wyoming to Mexico by E. L.  Kolb</title>
+      <link>https://www.gutenberg.org/ebooks/13150</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Switch off : by Oliver Optic</title>
+      <link>https://www.gutenberg.org/ebooks/79562</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Man&#39;s descent from the gods : by Anthony M.  Ludovici</title>
+      <link>https://www.gutenberg.org/ebooks/79572</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The next-to-last laugh by Raoul Whitfield</title>
+      <link>https://www.gutenberg.org/ebooks/79571</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A Political Romance by Laurence Sterne</title>
+      <link>https://www.gutenberg.org/ebooks/20257</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Poetical Works of Oliver Wendell Holmes — Volume 06 by Oliver Wendell Holmes</title>
+      <link>https://www.gutenberg.org/ebooks/7393</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Spawn of the comet by Otis Adelbert Kline</title>
+      <link>https://www.gutenberg.org/ebooks/79565</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Seven brothers by Aleksis Kivi</title>
+      <link>https://www.gutenberg.org/ebooks/79566</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The King of Elfland&#39;s Daughter by Lord Dunsany</title>
+      <link>https://www.gutenberg.org/ebooks/61077</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Lord Lister No. 0055: Het onschatbare kleinood by Theo von Blankensee and Kurt Matull</title>
+      <link>https://www.gutenberg.org/ebooks/79568</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
+      <title>Buzzards by W. C.  Tuttle</title>
+      <link>https://www.gutenberg.org/ebooks/79563</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>La teoria dell&#39;evoluzione : by Giovanni Canestrini</title>
+      <link>https://www.gutenberg.org/ebooks/79567</link>
+      <description>
+        <![CDATA[Language: Italian]]>
+      </description>
+      <source:markdown>Language: Italian</source:markdown>
+    </item>    <item>
+      <title>Ashes by Theodore Thomas Flynn</title>
+      <link>https://www.gutenberg.org/ebooks/79569</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Mrs. Mayo&#39;s second husband by Mrs. Alex. McVeigh Miller</title>
+      <link>https://www.gutenberg.org/ebooks/79570</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Historia geral da invasão dos francezes em Portugal e da restauração deste reino (Volume I)</title>
+      <link>https://www.gutenberg.org/ebooks/79564</link>
+      <description>
+        <![CDATA[Language: Portuguese]]>
+      </description>
+      <source:markdown>Language: Portuguese</source:markdown>
+    </item>    <item>
       <title>The gate marked &#34;Private&#34; by Ethel M.  Dell</title>
       <link>https://www.gutenberg.org/ebooks/79556</link>
       <description>
@@ -38,13 +143,6 @@
     </item>    <item>
       <title>The treble clef by Edward Charles Booth</title>
       <link>https://www.gutenberg.org/ebooks/79558</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Switch off : by Oliver Optic</title>
-      <link>https://www.gutenberg.org/ebooks/79562</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1582,104 +1680,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Mémoire sur l&#39;importance de la conservation du régime actuel des postes by Duclos</title>
-      <link>https://www.gutenberg.org/ebooks/79420</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Rapport fait par Defrance, au nom de la commission composée des citoyens Pliéger, Engerran, Defrance</title>
-      <link>https://www.gutenberg.org/ebooks/79421</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Rough sketches of the life of an old soldier : by Jonathan Leach</title>
-      <link>https://www.gutenberg.org/ebooks/79419</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Observations importantes sur la pétition des maîtres de postes à l&#39;Assemblée nationale by Fenis</title>
-      <link>https://www.gutenberg.org/ebooks/79423</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>The psychology of the criminal by Leo Markun</title>
-      <link>https://www.gutenberg.org/ebooks/79430</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The libertine; vol. 1 [of 4] by Charlotte Dacre</title>
-      <link>https://www.gutenberg.org/ebooks/79424</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The libertine; vol. 2 [of 4] by Charlotte Dacre</title>
-      <link>https://www.gutenberg.org/ebooks/79426</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The libertine; vol. 3 [of 4] by Charlotte Dacre</title>
-      <link>https://www.gutenberg.org/ebooks/79427</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The libertine; vol. 4 [of 4] by Charlotte Dacre</title>
-      <link>https://www.gutenberg.org/ebooks/79428</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Lord Lister No. 0350: De opiumschuiver by Theo von Blankensee and Felix  Hageman and Kurt Matull</title>
-      <link>https://www.gutenberg.org/ebooks/79422</link>
-      <description>
-        <![CDATA[Language: Dutch]]>
-      </description>
-      <source:markdown>Language: Dutch</source:markdown>
-    </item>    <item>
-      <title>Applause mail by Oney Fred Sweet</title>
-      <link>https://www.gutenberg.org/ebooks/79429</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Réflexions importantes sur l&#39;organisation des postes, et les propositions insidieuses d&#39;une compagni</title>
-      <link>https://www.gutenberg.org/ebooks/79431</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>The chinook by Frank Richardson Pierce</title>
-      <link>https://www.gutenberg.org/ebooks/79432</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Viviana y Merlín : by Benjamín Jarnés</title>
-      <link>https://www.gutenberg.org/ebooks/79425</link>
-      <description>
-        <![CDATA[Language: Spanish]]>
-      </description>
-      <source:markdown>Language: Spanish</source:markdown>
     </item>
   </channel>
 </rss>

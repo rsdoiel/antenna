@@ -5,10 +5,42 @@
     <title><![CDATA[SoCal North]]></title>
     <description><![CDATA[News and posts related to the greater North Los Angeles and adjacent counties.]]></description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>13 Sep 26 06:30 -0700</lastBuildDate>
+    <lastBuildDate>14 Sep 26 06:30 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>International students worry as SoCal universities pause work authorizations</title>
+      <link>https://laist.com/news/education/international-students-work-authorizations-dhs-usc-ucla</link>
+      <description>
+        <![CDATA[DHS says they have put universities "on notice" that they could be in violation of federal rules that dictate work opportunities for international students.]]>
+      </description>
+      <source:markdown>DHS says they have put universities &#34;on notice&#34; that they could be in violation of federal rules that dictate work opportunities for international students.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-9100-d5ae-ade8-b774795f0000</guid>
+    </item>    <item>
+      <title>The countdown to the 2028 Olympics is on. Here’s why you should care</title>
+      <link>https://laist.com/news/los-angeles-activities/2028-olympics-countdown-why-you-should-care</link>
+      <description>
+        <![CDATA[LAist will highlight our Olympics and Paralympics coverage every Monday, with a focus on how the Games will affect Angelenos.]]>
+      </description>
+      <source:markdown>LAist will highlight our Olympics and Paralympics coverage every Monday, with a focus on how the Games will affect Angelenos.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-8387-df6a-adf9-8b87f9e40000</guid>
+    </item>    <item>
+      <title>With mail-in rules uncertain, here’s how Californians can prepare to vote in November</title>
+      <link>https://laist.com/news/politics/with-mail-in-rules-uncertain-heres-how-californians-can-prepare-to-vote-in-november</link>
+      <description>
+        <![CDATA[The Supreme Court is weighing President Trump’s plan to limit universal mail-in voting with just seven weeks until the November election.]]>
+      </description>
+      <source:markdown>The Supreme Court is weighing President Trump’s plan to limit universal mail-in voting with just seven weeks until the November election.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-9b98-d0e0-a3bf-fff856cd0000</guid>
+    </item>    <item>
+      <title>An oral history project captures stories in and around K-Town. Now anyone can dive in</title>
+      <link>https://laist.com/news/los-angeles-activities/ktown-archive-kycc-koreatown-stories-digital-home</link>
+      <description>
+        <![CDATA[The new K-Town Archive is sharing hundreds of firsthand accounts of life in Koreatown and neighboring communities]]>
+      </description>
+      <source:markdown>The new K-Town Archive is sharing hundreds of firsthand accounts of life in Koreatown and neighboring communities</source:markdown>
+      <guid>cid://urn:uuid:000001a0-93c8-d5ae-ade8-b7fcb1f30000</guid>
+    </item>    <item>
       <title>If the Emmys were up to us ... Plus, how to watch the show</title>
       <link>https://laist.com/news/arts-and-entertainment/if-the-emmys-were-up-to-us-plus-how-to-watch-the-show</link>
       <description>
@@ -24,14 +56,6 @@
       </description>
       <source:markdown>The singing contest was created last year by the Mexican government to strengthen the bonds between Mexicans living in the U.S. and Mexico.</source:markdown>
       <guid>cid://urn:uuid:000001a0-8773-d04b-ade3-af73038e0000</guid>
-    </item>    <item>
-      <title>An oral history project captures stories in and around K-Town. Now anyone can dive in</title>
-      <link>https://laist.com/news/los-angeles-activities/ktown-archive-kycc-koreatown-stories-digital-home</link>
-      <description>
-        <![CDATA[The new K-Town Archive is sharing hundreds of firsthand accounts of life in Koreatown and neighboring communities]]>
-      </description>
-      <source:markdown>The new K-Town Archive is sharing hundreds of firsthand accounts of life in Koreatown and neighboring communities</source:markdown>
-      <guid>cid://urn:uuid:000001a0-93c8-d5ae-ade8-b7fcb1f30000</guid>
     </item>    <item>
       <title>Newsom signed 13 new laws to protect kids from technology. Will they work?</title>
       <link>https://laist.com/news/newsom-signed-13-new-laws-to-protect-kids-from-technology-will-they-work</link>
@@ -264,13 +288,9 @@ The post [The Westside’s Most Thrilling New Modern Mexican Restaurant Is . . .
       <title>Space Systems Command Leadership Visit VSFB</title>
       <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4599607/space-systems-command-leadership-visit-vsfb/</link>
       <description>
-        <![CDATA[U.S. Space Force Lt. Gen. Philip A. Garrant, Space Systems Command commander, Natalie Riedel, SSC executive director, and Chief Master Sgt. Kevin Ryan, SSC senior enlisted leader, visited Vandenberg Space Force Base, California, Sept. 8-10, 2026.<br/> 
-        <img src='https://media.defense.gov/2026/Sep/11/2003996995/300/300/0/260909-X-DW038-1065.JPG' alt='Three people sit down in chairs on a stage' /> <br />]]>
+        <![CDATA[U.S. Space Force Lt. Gen. Philip A. Garrant, Space Systems Command commander, Natalie Riedel, SSC executive director, and Chief Master Sgt. Kevin Ryan, SSC senior enlisted leader, visited Vandenberg Space Force Base, California, Sept. 8-10, 2026.<br/>]]>
       </description>
-      <source:markdown>U.S. Space Force Lt. Gen. Philip A. Garrant, Space Systems Command commander, Natalie Riedel, SSC executive director, and Chief Master Sgt. Kevin Ryan, SSC senior enlisted leader, visited Vandenberg Space Force Base, California, Sept. 8-10, 2026.
-
-![Three people sit down in chairs on a stage](https://media.defense.gov/2026/Sep/11/2003996995/300/300/0/260909-X-DW038-1065.JPG)</source:markdown>
-      <enclosure url="https://media.defense.gov/2026/Sep/11/2003996995/700/700/0/260909-X-DW038-1065.JPG" length="" type="image/jpeg" />
+      <source:markdown>U.S. Space Force Lt. Gen. Philip A. Garrant, Space Systems Command commander, Natalie Riedel, SSC executive director, and Chief Master Sgt. Kevin Ryan, SSC senior enlisted leader, visited Vandenberg Space Force Base, California, Sept. 8-10, 2026.</source:markdown>
       <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4599607/space-systems-command-leadership-visit-vsfb/</guid>
       <category>News</category>
     </item>    <item>
@@ -679,13 +699,9 @@ The post [Grow Your Business with Google and AI](https://santaclarita.gov/blog/2
       <title>Vandenberg SFB Hosts SSC All Call 2026</title>
       <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4599336/vandenberg-sfb-hosts-ssc-all-call-2026/</link>
       <description>
-        <![CDATA[Space Launch Delta 30 hosted U.S. Space Force Lt. Gen. Philip A. Garrant, Space Systems Command commander, for an enterprise-wide all-call at the base theater at Vandenberg Space Force Base, California, Sept. 9, 2026.<br/> 
-        <img src='https://media.defense.gov/2026/Sep/11/2003996813/300/300/0/260909-X-DY416-1003.JPG' alt='People stand on a stage for a group photo' /> <br />]]>
+        <![CDATA[Space Launch Delta 30 hosted U.S. Space Force Lt. Gen. Philip A. Garrant, Space Systems Command commander, for an enterprise-wide all-call at the base theater at Vandenberg Space Force Base, California, Sept. 9, 2026.<br/>]]>
       </description>
-      <source:markdown>Space Launch Delta 30 hosted U.S. Space Force Lt. Gen. Philip A. Garrant, Space Systems Command commander, for an enterprise-wide all-call at the base theater at Vandenberg Space Force Base, California, Sept. 9, 2026.
-
-![People stand on a stage for a group photo](https://media.defense.gov/2026/Sep/11/2003996813/300/300/0/260909-X-DY416-1003.JPG)</source:markdown>
-      <enclosure url="https://media.defense.gov/2026/Sep/11/2003996814/700/700/0/260909-X-DY416-1002.JPG" length="" type="image/jpeg" />
+      <source:markdown>Space Launch Delta 30 hosted U.S. Space Force Lt. Gen. Philip A. Garrant, Space Systems Command commander, for an enterprise-wide all-call at the base theater at Vandenberg Space Force Base, California, Sept. 9, 2026.</source:markdown>
       <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4599336/vandenberg-sfb-hosts-ssc-all-call-2026/</guid>
       <category>News</category>
     </item>    <item>
@@ -1506,13 +1522,9 @@ The post [La Ley ‘Gabriel’s Law’ del Legislador de Palmdale Aprueba el Tr�
       <title>Team Vandenberg Welcomes New NCOs</title>
       <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4589880/team-vandenberg-welcomes-new-ncos/</link>
       <description>
-        <![CDATA[Vandenberg’s new noncommissioned officers attend their noncommissioned officer induction ceremony at Vandenberg Space Force Base, California, Sept. 2, 2026.<br/> 
-        <img src='https://media.defense.gov/2026/Sep/02/2003991288/300/300/0/260902-X-DW038-1109.JPG' alt='People stand with certificates in their hands' /> <br />]]>
+        <![CDATA[Vandenberg’s new noncommissioned officers attend their noncommissioned officer induction ceremony at Vandenberg Space Force Base, California, Sept. 2, 2026.<br/>]]>
       </description>
-      <source:markdown>Vandenberg’s new noncommissioned officers attend their noncommissioned officer induction ceremony at Vandenberg Space Force Base, California, Sept. 2, 2026.
-
-![People stand with certificates in their hands](https://media.defense.gov/2026/Sep/02/2003991288/300/300/0/260902-X-DW038-1109.JPG)</source:markdown>
-      <enclosure url="https://media.defense.gov/2026/Sep/02/2003991295/700/700/0/260902-X-DW038-1001.JPG" length="" type="image/jpeg" />
+      <source:markdown>Vandenberg’s new noncommissioned officers attend their noncommissioned officer induction ceremony at Vandenberg Space Force Base, California, Sept. 2, 2026.</source:markdown>
       <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4589880/team-vandenberg-welcomes-new-ncos/</guid>
       <category>News</category>
     </item>    <item>
@@ -1602,13 +1614,9 @@ The post [Dig Deep Theatre Returns to the Stage Following Fire at The MAIN](http
       <title>Vandenberg&#39;s Aquila Innovation Award: 1st Lt. Omar Fattah</title>
       <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4589625/vandenbergs-aquila-innovation-award-1st-lt-omar-fattah/</link>
       <description>
-        <![CDATA[Vandenberg's Aquila Innovation Award: 1st Lt. Omar Fattah<br/> 
-        <img src='https://media.defense.gov/2026/Sep/02/2003991185/300/300/0/260902-X-HP195-1002.JPG' alt='Two people stand near each other and hold an award' /> <br />]]>
+        <![CDATA[Vandenberg's Aquila Innovation Award: 1st Lt. Omar Fattah<br/>]]>
       </description>
-      <source:markdown>Vandenberg&#39;s Aquila Innovation Award: 1st Lt. Omar Fattah
-
-![Two people stand near each other and hold an award](https://media.defense.gov/2026/Sep/02/2003991185/300/300/0/260902-X-HP195-1002.JPG)</source:markdown>
-      <enclosure url="https://media.defense.gov/2026/Sep/02/2003991185/700/700/0/260902-X-HP195-1002.JPG" length="" type="image/jpeg" />
+      <source:markdown>Vandenberg&#39;s Aquila Innovation Award: 1st Lt. Omar Fattah</source:markdown>
       <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4589625/vandenbergs-aquila-innovation-award-1st-lt-omar-fattah/</guid>
       <category>News</category>
     </item>    <item>
@@ -1616,13 +1624,9 @@ The post [Dig Deep Theatre Returns to the Stage Following Fire at The MAIN](http
       <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4589615/vandenbergs-hawk-of-the-week-award-on-september-2nd/</link>
       <description>
         <![CDATA[Vandenberg's Hawk of the Week Award on September 2nd
-        <br/> 
-        <img src='https://media.defense.gov/2026/Sep/02/2003991183/300/300/0/260902-X-HP195-1001.JPG' alt='Two people stand and hold an award' /> <br />]]>
+        <br/>]]>
       </description>
-      <source:markdown>Vandenberg&#39;s Hawk of the Week Award on September 2nd
-
-![Two people stand and hold an award](https://media.defense.gov/2026/Sep/02/2003991183/300/300/0/260902-X-HP195-1001.JPG)</source:markdown>
-      <enclosure url="https://media.defense.gov/2026/Sep/02/2003991183/700/700/0/260902-X-HP195-1001.JPG" length="" type="image/jpeg" />
+      <source:markdown>Vandenberg&#39;s Hawk of the Week Award on September 2nd</source:markdown>
       <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4589615/vandenbergs-hawk-of-the-week-award-on-september-2nd/</guid>
       <category>News</category>
     </item>    <item>
@@ -2074,13 +2078,9 @@ The post [Santa Clarita Voices Podcast: Conversations that Connect our Community
       <title>Leadership Santa Maria Valley tour VSFB</title>
       <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4589701/leadership-santa-maria-valley-tour-vsfb/</link>
       <description>
-        <![CDATA[Leadership Santa Maria Valley tour VSFB.<br/> 
-        <img src='https://media.defense.gov/2026/Sep/02/2003991206/300/300/0/260831-X-IT855-1008.JPG' alt='People stand for a group photo' /> <br />]]>
+        <![CDATA[Leadership Santa Maria Valley tour VSFB.<br/>]]>
       </description>
-      <source:markdown>Leadership Santa Maria Valley tour VSFB.
-
-![People stand for a group photo](https://media.defense.gov/2026/Sep/02/2003991206/300/300/0/260831-X-IT855-1008.JPG)</source:markdown>
-      <enclosure url="https://media.defense.gov/2026/Sep/02/2003991221/700/700/0/260831-X-IT855-1001.JPG" length="" type="image/jpeg" />
+      <source:markdown>Leadership Santa Maria Valley tour VSFB.</source:markdown>
       <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4589701/leadership-santa-maria-valley-tour-vsfb/</guid>
       <category>News</category>
     </item>    <item>
@@ -2550,13 +2550,9 @@ The post [The 21 Best Street Kebabs in L.A.](https://lataco.com/best-street-keba
       <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4583909/vandenbergs-hawk-of-the-week-award-on-august-26/</link>
       <description>
         <![CDATA[Vandenberg's Hawk of the Week Award on August 26, 2026.
-        <br/> 
-        <img src='https://media.defense.gov/2026/Aug/26/2003987253/300/300/0/260826-X-DW038-1001.JPG' alt='Two people stand and hold an award' /> <br />]]>
+        <br/>]]>
       </description>
-      <source:markdown>Vandenberg&#39;s Hawk of the Week Award on August 26, 2026.
-
-![Two people stand and hold an award](https://media.defense.gov/2026/Aug/26/2003987253/300/300/0/260826-X-DW038-1001.JPG)</source:markdown>
-      <enclosure url="https://media.defense.gov/2026/Aug/26/2003987253/700/700/0/260826-X-DW038-1001.JPG" length="" type="image/jpeg" />
+      <source:markdown>Vandenberg&#39;s Hawk of the Week Award on August 26, 2026.</source:markdown>
       <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4583909/vandenbergs-hawk-of-the-week-award-on-august-26/</guid>
       <category>News</category>
     </item>    <item>
@@ -2832,45 +2828,6 @@ The post [This Clown Sex Party Creampied 12 Brave Souls in DTLA (for Charity)](h
       </description>
       <source:markdown>Bass is the first mayor to appoint herself to the commission that oversees the region&#39;s top homelessness agency. Her attendance record could trigger removal under the bylaws.</source:markdown>
       <guid>cid://urn:uuid:000001a0-271e-d6d6-a9f1-677f50ed0000</guid>
-    </item>    <item>
-      <title>Sunday Taquitos #32: Total Recall</title>
-      <link>https://lataco.com/sunday-taquitos-32-total-recall</link>
-      <description>
-        <![CDATA[<p>Sunday Taquitos! Art by Pulitzer Prize Finalist Ivan Ehlers.</p>
-        <p>The post <a href="https://lataco.com/sunday-taquitos-32-total-recall">Sunday Taquitos #32: Total Recall</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>Sunday Taquitos! Art by Pulitzer Prize Finalist Ivan Ehlers.
-
-The post [Sunday Taquitos #32: Total Recall](https://lataco.com/sunday-taquitos-32-total-recall) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=182662</guid>
-      <category>Art</category>
-      <category>Comix</category>
-      <category>Culture</category>
-      <category>Sunday Taquitos</category>
-    </item>    <item>
-      <title>Becerra, running for governor of California, faces a health insurance problem</title>
-      <link>https://laist.com/news/politics/becerra-running-for-governor-of-california-faces-a-health-insurance-problem</link>
-      <description>
-        <![CDATA[The nation's uninsured rate hit a historical low when Xavier Becerra was health secretary.]]>
-      </description>
-      <source:markdown>The nation&#39;s uninsured rate hit a historical low when Xavier Becerra was health secretary.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-2f35-d6d6-a9f1-6f77a82c0000</guid>
-    </item>    <item>
-      <title>New YA novel sends California teens to rural Mexico for a digital detox</title>
-      <link>https://laist.com/news/los-angeles-activities/new-ya-novel-sends-california-teens-to-rural-mexico-for-a-digital-detox</link>
-      <description>
-        <![CDATA[The book Stream by California writer Aida Salazar is based on real life experiences raising teens and her hometown in Mexico]]>
-      </description>
-      <source:markdown>The book Stream by California writer Aida Salazar is based on real life experiences raising teens and her hometown in Mexico</source:markdown>
-      <guid>cid://urn:uuid:000001a0-2648-d18e-a7a1-7fc8ad870000</guid>
-    </item>    <item>
-      <title>Proposed California wealth tax sparks debate: Will billionaires leave the state?</title>
-      <link>https://laist.com/news/politics/proposed-california-wealth-tax-sparks-debate-will-billionaires-leave-the-state</link>
-      <description>
-        <![CDATA[A proposed first-of-its kind tax would target California's nearly 250 billionaires in an effort to fund health care. If voters pass it, will the state's economy suffer?]]>
-      </description>
-      <source:markdown>A proposed first-of-its kind tax would target California&#39;s nearly 250 billionaires in an effort to fund health care. If voters pass it, will the state&#39;s economy suffer?</source:markdown>
-      <guid>cid://urn:uuid:000001a0-2a0c-d18e-a7a1-7f8c1b150000</guid>
     </item>
   </channel>
 </rss>

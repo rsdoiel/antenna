@@ -4,10 +4,91 @@
   <channel>
     <title><![CDATA[GLAM]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>13 Sep 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>14 Sep 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Ask the Chefs: Peer Review Capacity — Uncomfortable Truths and Overlooked Conversations</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/09/14/ask-the-chefs-peer-review-capacity-uncomfortable-truths-and-overlooked-conversations/</link>
+      <description>
+        <![CDATA[<p>For Peer Review Week 2026, we asked the Chefs two questions: What is one uncomfortable truth about peer review that the scholarly publishing community doesn’t talk about enough? And, beyond recruiting more reviewers, what conversation about peer review capacity are we overlooking?</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/09/14/ask-the-chefs-peer-review-capacity-uncomfortable-truths-and-overlooked-conversations/">Ask the Chefs: Peer Review Capacity — Uncomfortable Truths and Overlooked Conversations</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>For Peer Review Week 2026, we asked the Chefs two questions: What is one uncomfortable truth about peer review that the scholarly publishing community doesn’t talk about enough? And, beyond recruiting more reviewers, what conversation about peer review capacity are we overlooking?
+
+The post [Ask the Chefs: Peer Review Capacity — Uncomfortable Truths and Overlooked Conversations](https://scholarlykitchen.sspnet.org/2026/09/14/ask-the-chefs-peer-review-capacity-uncomfortable-truths-and-overlooked-conversations/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62773</guid>
+      <category>Artificial Intelligence</category>
+      <category>Authority</category>
+      <category>Authors</category>
+      <category>Controversial Topics</category>
+      <category>Ethics</category>
+      <category>Infrastructure</category>
+      <category>Innovation</category>
+      <category>Peer Review</category>
+      <category>Research</category>
+      <category>Research Integrity</category>
+      <category>Technology</category>
+      <category>Tools</category>
+      <category>World of Tomorrow</category>
+      <category>AI</category>
+      <category>AI in peer review</category>
+      <category>Peer Review Week</category>
+      <category>peer review week 2026</category>
+      <category>prw</category>
+      <category>PRW 2026</category>
+      <category>research integrity</category>
+      <category>reviewer capacity</category>
+    </item>    <item>
+      <title>Director’s cut #1: implementing semantic interoperability</title>
+      <link>https://opencitations.hypotheses.org/4355</link>
+      <description>
+        <![CDATA[“Director’s cut” is a new bimonthly blog series launched on the OpenCitations blog to share the Director’s point of view on the hidden work happening within our infrastructure. In our roadmap, informed by a community survey we conducted to address the needs of our users (and potential users), we promised to focus, among other things, on strengthening backend development to foster better semantic interoperability with other research infrastructures. Indeed, such a topic is gaining momentum in recent months and has generated a lot of &#8230; <a href="https://opencitations.hypotheses.org/4355" class="more-link">Continue reading <span class="screen-reader-text">Director’s cut #1: implementing semantic interoperability</span></a>]]>
+      </description>
+      <source:markdown>“Director’s cut” is a new bimonthly blog series launched on the OpenCitations blog to share the Director’s point of view on the hidden work happening within our infrastructure. In our roadmap, informed by a community survey we conducted to address the needs of our users (and potential users), we promised to focus, among other things, on strengthening backend development to foster better semantic interoperability with other research infrastructures. Indeed, such a topic is gaining momentum in recent months and has generated a lot of … [Continue reading Director’s cut #1: implementing semantic interoperability](https://opencitations.hypotheses.org/4355)</source:markdown>
+      <guid>cid://https://opencitations.hypotheses.org/?p=4355</guid>
+      <category>Bibliographic references</category>
+      <category>Director&#39;s cut</category>
+      <category>Open Citations</category>
+      <category>OpenCitations</category>
+      <category>OpenCitations Indexes</category>
+      <category>OpenCitations Meta</category>
+      <category>Semantic Publishing</category>
+      <category>Community Survey</category>
+      <category>Graphia</category>
+      <category>open research information</category>
+      <category>Principles of Open Scholarly Infrastructure</category>
+      <category>RAMOSE</category>
+      <category>REST API</category>
+      <category>road</category>
+      <category>semantic publishing</category>
+      <category>SKG-IF</category>
+      <category>SPARQL</category>
+    </item>    <item>
+      <title>From Milan to Copenhagen to Stockholm: Following the Standards Conversation</title>
+      <link>https://metaarchivist.substack.com/p/from-milan-to-copenhagen-to-stockholm</link>
+      <description>
+        <![CDATA[Three professional communities, three programs, and one organizational question arriving from all of them]]>
+      </description>
+      <source:markdown>Three professional communities, three programs, and one organizational question arriving from all of them</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!88Do!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff27c27b8-45b9-4466-8c20-821298bd8474_2172x724.png" length="0" type="image/jpeg" />
+      <guid>cid://https://metaarchivist.substack.com/p/from-milan-to-copenhagen-to-stockholm</guid>
+    </item>    <item>
+      <title>Report: “As Digital Checkouts Soar, Los Angeles Libraries Pivot to AI Education”</title>
+      <link>https://www.infodocket.com/2026/09/13/report-as-digital-checkouts-soar-los-angeles-libraries-pivot-to-ai-education/</link>
+      <description>
+        <![CDATA[<p>From the Yale Daily News Beyond fighting misinformation, public libraries are stepping up to bridge paywalls. While students often run into paid barriers when accessing articles via Google or Google Scholar, public libraries subscribe to expensive digital databases, academic journals, and major news outlets — including the New York Times and the Wall Street Journal [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/09/13/report-as-digital-checkouts-soar-los-angeles-libraries-pivot-to-ai-education/">Report: &#8220;As Digital Checkouts Soar, Los Angeles Libraries Pivot to AI Education&#8221;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>From the Yale Daily News Beyond fighting misinformation, public libraries are stepping up to bridge paywalls. While students often run into paid barriers when accessing articles via Google or Google Scholar, public libraries subscribe to expensive digital databases, academic journals, and major news outlets — including the New York Times and the Wall Street Journal \[…\]
+
+The post [Report: “As Digital Checkouts Soar, Los Angeles Libraries Pivot to AI Education”](https://www.infodocket.com/2026/09/13/report-as-digital-checkouts-soar-los-angeles-libraries-pivot-to-ai-education/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=168854</guid>
+      <category>Journal Articles</category>
+      <category>Libraries</category>
+      <category>News</category>
+      <category>Public Libraries</category>
+    </item>    <item>
       <title>Investigating International Academic Librarian Attitudes on Copyright Reform in Support of Open Access (New Journal Article)</title>
       <link>https://www.infodocket.com/2026/09/12/investigating-international-academic-librarian-attitudes-on-copyright-reform-in-support-of-open-access-new-journal-article/</link>
       <description>
@@ -1253,44 +1334,6 @@ The post [Guest Post — Beyond Messaging: The Structural Case for Rebranding Sc
       <category>brand behavior</category>
       <category>brand identity</category>
       <category>mission and vision</category>
-    </item>    <item>
-      <title>Building a Library Patrons Choose to Revisit</title>
-      <link>https://blog.openlibrary.org/2026/08/23/building-a-library-patrons-choose-to-revisit/</link>
-      <description>
-        <![CDATA[A&#160;forward&#160;by Mek, Open Library’s program lead:This year, through Google Summer of Code, the Open Library Team had the privilege of collaborating with Tanishq Sangwan to help readers avoid dead ends and discover more of the books they’re looking for. This collaboration was particularly fruitful because of Tanishq’s strong product sense, his commitment to metrics, and [&#8230;]]]>
-      </description>
-      <source:markdown>A forward by Mek, Open Library’s program lead:This year, through Google Summer of Code, the Open Library Team had the privilege of collaborating with Tanishq Sangwan to help readers avoid dead ends and discover more of the books they’re looking for. This collaboration was particularly fruitful because of Tanishq’s strong product sense, his commitment to metrics, and \[…\]</source:markdown>
-      <guid>cid://https://blog.openlibrary.org/?p=2707</guid>
-      <category>Uncategorized</category>
-    </item>    <item>
-      <title>Helping Patrons Discover Books</title>
-      <link>https://blog.openlibrary.org/2026/08/23/helping-patrons-discover-books/</link>
-      <description>
-        <![CDATA[A forward by Mek, Open Library&#8217;s program lead:This year, the Open Library team and I were fortunate to collaborate with Chisom, as part of Google Summer of Code, to make millions of books more discoverable to readers. Chisom entered this year&#8217;s Google Summer of Code program a motivated and capable software developer and continued to [&#8230;]]]>
-      </description>
-      <source:markdown>A forward by Mek, Open Library’s program lead:This year, the Open Library team and I were fortunate to collaborate with Chisom, as part of Google Summer of Code, to make millions of books more discoverable to readers. Chisom entered this year’s Google Summer of Code program a motivated and capable software developer and continued to \[…\]</source:markdown>
-      <guid>cid://https://blog.openlibrary.org/?p=2697</guid>
-      <category>Google Summer of Code (GSoC)</category>
-      <category>Uncategorized</category>
-    </item>    <item>
-      <title>San Francisco Public Library (SFPL) Launches New Platform For DigitalSF Digital Archive, Access to Online Resource is Free to Public</title>
-      <link>https://www.infodocket.com/2026/08/23/san-francisco-public-library-sfpl-launches-new-platform-for-digitalsf-digital-archive-access-to-online-resource-is-free-to-public/</link>
-      <description>
-        <![CDATA[<p>From SF Gate: The San Francisco Public Library announced this week that it has launched a new platform [powered by TIND) for its digital archive featuring more than 80,000 pieces of historical items that are free to access for the public. The archive, called DigitalSF, includes historical photographs dating back to before the city was [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/08/23/san-francisco-public-library-sfpl-launches-new-platform-for-digitalsf-digital-archive-access-to-online-resource-is-free-to-public/">San Francisco Public Library (SFPL) Launches New Platform For DigitalSF Digital Archive, Access to Online Resource is Free to Public</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>From SF Gate: The San Francisco Public Library announced this week that it has launched a new platform \[powered by TIND) for its digital archive featuring more than 80,000 pieces of historical items that are free to access for the public. The archive, called DigitalSF, includes historical photographs dating back to before the city was \[…\]
-
-The post [San Francisco Public Library (SFPL) Launches New Platform For DigitalSF Digital Archive, Access to Online Resource is Free to Public](https://www.infodocket.com/2026/08/23/san-francisco-public-library-sfpl-launches-new-platform-for-digitalsf-digital-archive-access-to-online-resource-is-free-to-public/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=168603</guid>
-      <category>Archives and Special Collections</category>
-      <category>Digital Collections</category>
-      <category>Digital Preservation</category>
-      <category>Libraries</category>
-      <category>Maps</category>
-      <category>News</category>
-      <category>Patrons and Users</category>
-      <category>Public Libraries</category>
     </item>
   </channel>
 </rss>

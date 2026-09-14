@@ -4,10 +4,40 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>13 Sep 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>14 Sep 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>AMCOG unveiling Ghost Hunter at London 2026</title>
+      <link>https://www.riscository.com/2026/amcog-ghost-hunter-london-2026/</link>
+      <description>
+        <![CDATA[As the next RISC OS event looms &#8211; the London Show, which will take place on Saturday, 24th October &#8211; the first piece of show-related news has landed in the RISCOSitory inbox: AMCOG Games will be releasing a new arcade-style game at London, to be called Ghost Hunter. AMCOG&#8217;s Tony Bartram describes the game as &#8220;an evolution of the case study that is present in the AMCOG Development Kit&#8221; called Sparky, which he explains was always popular at computer shows. The objective in the game will be to light up&#8230;]]>
+      </description>
+      <source:markdown>As the next RISC OS event looms – the London Show, which will take place on Saturday, 24th October – the first piece of show-related news has landed in the RISCOSitory inbox: AMCOG Games will be releasing a new arcade-style game at London, to be called Ghost Hunter. AMCOG’s Tony Bartram describes the game as “an evolution of the case study that is present in the AMCOG Development Kit” called Sparky, which he explains was always popular at computer shows. The objective in the game will be to light up…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11034</guid>
+      <category>Software</category>
+      <category>AMCOG</category>
+      <category>Game</category>
+      <category>Ghost Hunter</category>
+      <category>Show</category>
+    </item>    <item>
+      <title>RISC OS in video #01</title>
+      <link>https://www.riscository.com/2026/risc-os-in-video-01/</link>
+      <description>
+        <![CDATA[How about another new trial feature? There is a growing number of videos on YouTube that are either about RISC OS, mention it in some way, or at least may be of interest to its users. They may not be appearing with any great frequency, but more do appear online from time to time. So why not have an occasional post highlighting any such videos? Well, welcome to the first of those occasional posts! This feature won&#8217;t appear on a regular cycle. Instead, whenever a relevant video causes a bleep&#8230;]]>
+      </description>
+      <source:markdown>How about another new trial feature? There is a growing number of videos on YouTube that are either about RISC OS, mention it in some way, or at least may be of interest to its users. They may not be appearing with any great frequency, but more do appear online from time to time. So why not have an occasional post highlighting any such videos? Well, welcome to the first of those occasional posts! This feature won’t appear on a regular cycle. Instead, whenever a relevant video causes a bleep…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11030</guid>
+      <category>Videos</category>
+    </item>    <item>
+      <title>Amcog targets London Show for new Ghost hunter game</title>
+      <link>http://www.iconbar.com/comments/rss/news2380.html</link>
+      <description>
+        <![CDATA[Amcog are working on a new game for the imminent London Show..]]>
+      </description>
+      <source:markdown>Amcog are working on a new game for the imminent London Show..</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2380.html</guid>
+    </item>    <item>
       <title>A Dick Smith VZ200 without the Dick Smith (but with a serial port)</title>
       <link>https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html</link>
       <description>
@@ -551,7 +581,7 @@
         <p>
         Note the "snow" in this shot &mdash; that's because the program was animating screen memory at the same time the VDG was trying to read it, so the VDG's memory access got briefly suppressed during that period. Because the display scan can't wait for the VDG to be enabled again, the result is a brief splat of garbage on that line until the VDG is allowed to proceed. Dubois could have simply waited for the VDG's next interframe interrupt, but there's also only so much time between frames before the VDG will start drawing again. As a result, for many programs where significant CPU time was required to do screen updates, outright ignoring the video artifacts turned out to be the least bad approach.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwjEHzHLbmjxGvtj3dfnJY3WjCVJSzpHV-WozNUfQgtYgs0P0pN9G4Sh69_B0GBm3HF7KgWk8vDPIChP7yrBA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwDpcplB5xbn2wGbC27jArQ7oB2wYtFIzhizKYPrXSo-oixo6lyZTbOUtdiPlcdf_ylbU3BrQukUBz40Oo31Q' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         Here's a short video I recorded of another high quality arcade clone, Galaxon (gee, I wonder what <a href="https://en.wikipedia.org/wiki/Galaxian">that was</a>) by Stephen Clarke.<!-- https://pro.nfsa.gov.au/titles/9QYN7JJV --> It shows loading from the SD card, the title and options screen (even the VZ200 had software pirates), and then playing the game, which worked fine on the keyboard. This and the other recordings I did for this entry were generated from the composite capture rig for video, but for audio using a microphone near the VZ200's piezo speaker to capture sound (since there's no audio out). You'll notice I'm pounding on the keys a bit, which the microphone faithfully picks up, though you do have to hit the keys with a bit of, shall we say, deliberateness to get them to register.
         
@@ -567,7 +597,7 @@
         
         Appropriately for a Four'n Twenty take on sugar-sweetened citrus beverages, you decide how many <s>glasses</s> pies you want to make, how many advertising signs you want to buy, and the price per item you want to request. Other than the pie business, Larry Taylor's<!-- bushy --> port of the game seems to be heavily influenced by the well-known Apple II version and includes the same sort of simple graphics for weather reports and the like.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxw4zpyvpoLmheWvwWA47XSqrXB9KawMUhm3ce6PP1gpc17pJmey7LjcU-JiSpTFMSmBA_L3LMNJGhZHgSlDg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dw37jCr7oPONzxKhvEikn4LT2PE2LKDoDtEoST-rYUPn0ONHT7hUYgQe5Yv7xbG14RkmeCCW3JDOoRn9s6icA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         An exceptional entry in the VZ's edutainment canon is Factory by VSoftwareZ.<!-- bushy --> It oozes professional quality with a slick title screen and menu, and is an extremely fun puzzler to boot. The aim is to create a factory from various primitive machines (paint, rotate, hole punch) that will generate a specific product. It is so well animated and so thoroughly polished that it deserves this short video to fully appreciate it.
         
@@ -583,7 +613,7 @@
         
         And of course a couple more games. Here is a simple Formula 1 racer (also by Stephen Clarke)<!-- game --> a la <a href="https://en.wikipedia.org/wiki/Night_Driver_%28video_game%29">Night Driver</a> where you are apparently an alien with wings and feet ...
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwIhGIPFoXXdZO2p55LJdStq6j4yUsRZaksuROXnD8wn70SiYFigYXI0MHKBOU3wwt-nBweM2Gu-M-IACopbg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwriNegsYre8TsMKaFvkpaoOaU1duNCjmB0joYMe1JeilnEWmVVu_IKHcc5Kiy96RylLWW6bX_kCzlNdkOiKw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         ... alongside a rather good 3-D maze game by Laserlink.<!-- bushy --> It's only rendered at 90 degree angles, but it's fast and well-written, and deserved another video.
         
@@ -683,7 +713,7 @@
         
         Now we'll proceed with the hardware part, and we won't even need to solder anything from here on out, because we'll just use DuPont female jumpers to connect to the BennVenn GPIO pins we've already attached &mdash; everything else will be done in software. The SD card board uses 3.3V logic and has 24 GPIO pins that can be individually configured as inputs or outputs. These are all accessible through the Z80's I/O space, with locations 68-70 setting the data direction (1=input), and locations 71-73 setting the value of outputs. All pins can be read, not only pins configured as inputs, but also the current state of any output pins. The SD card board's GPIO pins provide +5V and +9V lines as well, but we won't be needing them for this project.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dytkdf2AFy_UA0bAMHsXM7Fk7wvjIzrJ6WJZfcdqBSeFQC5SDcX7AmmKWPGiP2n3CP3JnHItDTtLeGi8_UYlQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dy5_E7Ecluj3iYrJOuLnzzuThs0Bq2g49vpMcKPo-lVX6QCYBtQjRIf11EyJgcD7gwXCXIW6Hw076GvGJ7x8Q' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         As an example, in <a href="https://github.com/classilla/bushfood">the Github repo</a> I have a small program to cycle the LEDs on his proto board, which you can see in this brief video. It sets all GPIO pins to output and lights all 24 green LEDs connected to them (the red ones are check LEDs for 3.3V, 5V and 9V), then cycles a dark one through them from left to right until a key is pressed. This is done by hooking into the interrupt routine called when the VDG completes a frame, the only regular timesource on an unaltered VZ200, and used back in the day as a simple clock by various programs. Every third tick of the interrupt routine, this code runs:
         <p>
@@ -991,7 +1021,7 @@
         <p>
         Now that we can iterate quickly on them, let's patch and play a few more games before we close.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dx3xhDAx9r_99P53ChiBR3Tynm8QgO5sbfXRPj8eebOTxdMapSMqzqjtV5IegK8Ah4V1r5Af_uPgG3wwA0EvA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyynaPTIA0xqB3PGRDugU1d0xl7fHH_mU_Pu_s6p56QDw_TgGHl_RVgOPr1nw7v3hGDN-j1DSrxqneG97t09g' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         Another outstanding edutainment title is Maths Armada (not Math Armada, which my wife would insists is patentlys incorrects), where you have to load your cannon with the right sum, quotient, etc., aim, and fire. In the video we autoload the new binary with the BFL and the game starts immediately. This one I had to tack on a custom routine; the programmer had been a little <em>too</em> efficient and constructed a general fill subroutine which lots of things called, the screen clear portion being only one of many. (Darn those efficient little assembly language programmers.)
         
@@ -1007,11 +1037,11 @@
         
         More recently, Juergen Buchmueller's Defense Command is sort of like a vertical Defender (complete with descending aliens trying to harvest your brood), though it has a curious game deficiency in that the side-to-side entering attackers need never be shot, so you can enter an eternal stalemate by merely sitting there. Still, the action is fast and the animations, albeit small, are decent. This game was written in C using an earlier version of the <a href="https://z88dk.org/site/targets">Z88 Development Kit</a>.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwCHsueiYzmJPo_p7huo6j5miEEl8I30KpehWR-3fMdyLGQsGm1HSWYRG2wDXmxxKAdrNytkMLsDGn2C3Ikpg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz39a1f9KwT6jqYGOLKUl2TEuM08jgJM1CSrNRHvOP2XMtBkkaslW9K5X5sIauZG7FyxbByKTuutTPRgV2lGA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         Another Z88DK game is <a href="https://bluebilby.com/sdm_downloads/arkaball/">Arkaball by Jason Oakley</a>, an obvious Arkanoid clone, but competently crafted and worth a video.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyS5TjCroHSj-40fTaNK8JR3mhs7RU3VI06nXnDApXGnI-0aTuGSmJaWEhY-JqV3CA1BhTc7XLPqBDk13-DOw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwpYFk5coU5iaPYUtrtkIYRXEWJk5wry59PRdiA0vqB9zCu6vSwlNhQYXuk8rdKm8cV6xxL8GSXvnFI15KMfw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         Finally, a much more modern game is (the vibecoded) <a href="https://github.com/zonared/vz-doom">VZ-DOOM</a>, a Claude-written raycast Wolfenstein 3D-style game. It fortunately didn't need patching and "just worked." Your mileage may vary as to whether you think the AI usage is cheating, and this blog has a strict no-AI-article-text policy, but it performs as advertised on this NTSC machine and likewise merits a video. VZ-DOOM uses WASD for motion, comma and period to strafe, E to open and SPACE to shoot. 
         
@@ -2476,51 +2506,6 @@ What problem does Font Directory Pro solve?</source:markdown>
       <source:markdown>China has ordered several government agencies to drop a Chinese-developed version of Windows 10 in favor of either KylinOS or UOS.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://778b82558407f5f968bfdc85a55d3ba8</guid>
-    </item>    <item>
-      <title>My KIMSI</title>
-      <link>http://retro.hansotten.nl/my-kimsi/</link>
-      <description>
-        <![CDATA[My KIMSI I acquired a KIMSI in August 2026. It was build into a plexiglas/aluminium case, with a KIM-1 (Rev G) and a &#8216;microcalculator board&#8217;. I took the system apart, no room to store the big ugly thing. See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities [&#8230;]]]>
-      </description>
-      <source:markdown>My KIMSI I acquired a KIMSI in August 2026. It was build into a plexiglas/aluminium case, with a KIM-1 (Rev G) and a ‘microcalculator board’. I took the system apart, no room to store the big ugly thing. See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=22089</guid>
-      <category>6502</category>
-      <category>kim-1</category>
-    </item>    <item>
-      <link>http://retro.hansotten.nl/22089-2/</link>
-      <description>
-        <![CDATA[My KIMSI I acquired a KIMSI in August 2026. It was build into a plexiglas/aluminium case, with a KIM1 (Rev G) and a &#8216;microcalculator board&#8217;. I took the system apart, no room to store the big ugly thing. See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities [&#8230;]]]>
-      </description>
-      <source:markdown>My KIMSI I acquired a KIMSI in August 2026. It was build into a plexiglas/aluminium case, with a KIM1 (Rev G) and a ‘microcalculator board’. I took the system apart, no room to store the big ugly thing. See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=22089</guid>
-      <category>6502</category>
-      <category>kim-1</category>
-    </item>    <item>
-      <title>A boxed Synertek VIM-1</title>
-      <link>http://retro.hansotten.nl/a-boxed-synertek-vim-1/</link>
-      <description>
-        <![CDATA[A boxed VIM-1 acquired in August 2026. More SYM-1 photos here. See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions of KIM-...KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The [&#8230;]]]>
-      </description>
-      <source:markdown>A boxed VIM-1 acquired in August 2026. More SYM-1 photos here. See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions of KIM-...KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=22087</guid>
-      <category>6502</category>
-    </item>    <item>
-      <title>RISC OS Open source developments weekly update (22nd August 2026)</title>
-      <link>http://www.iconbar.com/comments/rss/news2368.html</link>
-      <description>
-        <![CDATA[Here are some of the things that I spotted which happened in the RISC OS Open source world this week...]]>
-      </description>
-      <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2368.html</guid>
-    </item>    <item>
-      <title>SYM-2 prototype</title>
-      <link>http://retro.hansotten.nl/sym-2-prototype/</link>
-      <description>
-        <![CDATA[In August 2026 I acquired an boxed engineering SYM-2 prototype. It comes with two large circuit diagrams illustrating the design. Next photos by Paul Schroeter. See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions [&#8230;]]]>
-      </description>
-      <source:markdown>In August 2026 I acquired an boxed engineering SYM-2 prototype. It comes with two large circuit diagrams illustrating the design. Next photos by Paul Schroeter. See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=22074</guid>
-      <category>6502</category>
     </item>
   </channel>
 </rss>
