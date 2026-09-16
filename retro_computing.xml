@@ -4,10 +4,18 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>15 Sep 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>16 Sep 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Archive Edition 28:03 reviewed</title>
+      <link>http://www.iconbar.com/comments/rss/news2376.html</link>
+      <description>
+        <![CDATA[The PDF of Archive Magazine 28:03 has been mailed out and paper copies are in the post]]>
+      </description>
+      <source:markdown>The PDF of Archive Magazine 28:03 has been mailed out and paper copies are in the post</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2376.html</guid>
+    </item>    <item>
       <title>AMCOG unveiling Ghost Hunter at London 2026</title>
       <link>https://www.riscository.com/2026/amcog-ghost-hunter-london-2026/</link>
       <description>
@@ -581,7 +589,7 @@
         <p>
         Note the "snow" in this shot &mdash; that's because the program was animating screen memory at the same time the VDG was trying to read it, so the VDG's memory access got briefly suppressed during that period. Because the display scan can't wait for the VDG to be enabled again, the result is a brief splat of garbage on that line until the VDG is allowed to proceed. Dubois could have simply waited for the VDG's next interframe interrupt, but there's also only so much time between frames before the VDG will start drawing again. As a result, for many programs where significant CPU time was required to do screen updates, outright ignoring the video artifacts turned out to be the least bad approach.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzOrmIOiFyD4VGM5Gb7pUY1t7H1XpnHzd07daBLVAAVj7Ar3Dju17oJXFAIbA25IeQvoLqMp5lx-XQwkCPxrA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxtMy31NKukQ3TV9wqhEjpqxyFEcEeLyGQKzvh1rz7HnRDvatn8qSamxXOYojt4bgzsHMdpsW3nTxCdxu_wSQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         Here's a short video I recorded of another high quality arcade clone, Galaxon (gee, I wonder what <a href="https://en.wikipedia.org/wiki/Galaxian">that was</a>) by Stephen Clarke.<!-- https://pro.nfsa.gov.au/titles/9QYN7JJV --> It shows loading from the SD card, the title and options screen (even the VZ200 had software pirates), and then playing the game, which worked fine on the keyboard. This and the other recordings I did for this entry were generated from the composite capture rig for video, but for audio using a microphone near the VZ200's piezo speaker to capture sound (since there's no audio out). You'll notice I'm pounding on the keys a bit, which the microphone faithfully picks up, though you do have to hit the keys with a bit of, shall we say, deliberateness to get them to register.
         
@@ -597,7 +605,7 @@
         
         Appropriately for a Four'n Twenty take on sugar-sweetened citrus beverages, you decide how many <s>glasses</s> pies you want to make, how many advertising signs you want to buy, and the price per item you want to request. Other than the pie business, Larry Taylor's<!-- bushy --> port of the game seems to be heavily influenced by the well-known Apple II version and includes the same sort of simple graphics for weather reports and the like.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyvCs38iWILfp6Yo_VfYTU8GtLAGp88zAjHtrEbOVc8yIOQ5OidFVEa_A19VzH-C4vCVwpJipLJW0WiO-ScmQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyYGj6NoGq0_JfBe0niMRjpX6ZkRavBCJ634Px0h-NzX5GR5ELbgUS-fJu9JnpyssMk0RYPITlArUlcUb5RKw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         An exceptional entry in the VZ's edutainment canon is Factory by VSoftwareZ.<!-- bushy --> It oozes professional quality with a slick title screen and menu, and is an extremely fun puzzler to boot. The aim is to create a factory from various primitive machines (paint, rotate, hole punch) that will generate a specific product. It is so well animated and so thoroughly polished that it deserves this short video to fully appreciate it.
         
@@ -613,7 +621,7 @@
         
         And of course a couple more games. Here is a simple Formula 1 racer (also by Stephen Clarke)<!-- game --> a la <a href="https://en.wikipedia.org/wiki/Night_Driver_%28video_game%29">Night Driver</a> where you are apparently an alien with wings and feet ...
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzkxFPegTlM6JBN5VPOkd2MGoBgtf37cfwdsBG3G1Ifi-YYdu7ONF-rMsMgcWbPuv1PN02mvy-zzkrWLkc4gg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwzO_m9LGw11mllns15hvuD2YMizMgjPvRj8F9FhXkmXIkR-9xPimyZd502WqQPv5PW9U5yvvzMU0U4Z1GetQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         ... alongside a rather good 3-D maze game by Laserlink.<!-- bushy --> It's only rendered at 90 degree angles, but it's fast and well-written, and deserved another video.
         
@@ -713,7 +721,7 @@
         
         Now we'll proceed with the hardware part, and we won't even need to solder anything from here on out, because we'll just use DuPont female jumpers to connect to the BennVenn GPIO pins we've already attached &mdash; everything else will be done in software. The SD card board uses 3.3V logic and has 24 GPIO pins that can be individually configured as inputs or outputs. These are all accessible through the Z80's I/O space, with locations 68-70 setting the data direction (1=input), and locations 71-73 setting the value of outputs. All pins can be read, not only pins configured as inputs, but also the current state of any output pins. The SD card board's GPIO pins provide +5V and +9V lines as well, but we won't be needing them for this project.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyEcmBsmvnD7GZ0g61JFKvmro_cAGHUyg2jkDKynQgFURaAhR430ceEzp5KPy5pN6Yb4MYOk-DZItbBp3uKdg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz93rXd7YIE4qQHX-UwqUs2tiZ7CDxMfMvAFeMrVCns2D5nFRg9jRfnUCHkDZBoPwjJNds6hobFfJMamuhElQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         As an example, in <a href="https://github.com/classilla/bushfood">the Github repo</a> I have a small program to cycle the LEDs on his proto board, which you can see in this brief video. It sets all GPIO pins to output and lights all 24 green LEDs connected to them (the red ones are check LEDs for 3.3V, 5V and 9V), then cycles a dark one through them from left to right until a key is pressed. This is done by hooking into the interrupt routine called when the VDG completes a frame, the only regular timesource on an unaltered VZ200, and used back in the day as a simple clock by various programs. Every third tick of the interrupt routine, this code runs:
         <p>
@@ -1021,7 +1029,7 @@
         <p>
         Now that we can iterate quickly on them, let's patch and play a few more games before we close.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwXW24b2yvVwy2lNpBezLNPq-qaBT1o6UVKr0QKX9QmHQpGleV48GYHmzXM0hHn6aJhBQ8V3bYhkVrZAzHJJA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyBnPtWHs1TbEVdV-HGfVuYmyjQGkbGmd_W8RJ2Hov3C0xTdZouMbOuOBwB46SAJAH2BFlIizlQZNtOjC_jCg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         Another outstanding edutainment title is Maths Armada (not Math Armada, which my wife would insists is patentlys incorrects), where you have to load your cannon with the right sum, quotient, etc., aim, and fire. In the video we autoload the new binary with the BFL and the game starts immediately. This one I had to tack on a custom routine; the programmer had been a little <em>too</em> efficient and constructed a general fill subroutine which lots of things called, the screen clear portion being only one of many. (Darn those efficient little assembly language programmers.)
         
@@ -1037,11 +1045,11 @@
         
         More recently, Juergen Buchmueller's Defense Command is sort of like a vertical Defender (complete with descending aliens trying to harvest your brood), though it has a curious game deficiency in that the side-to-side entering attackers need never be shot, so you can enter an eternal stalemate by merely sitting there. Still, the action is fast and the animations, albeit small, are decent. This game was written in C using an earlier version of the <a href="https://z88dk.org/site/targets">Z88 Development Kit</a>.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyW5efZsFI-bh6K4oHjKcs5X8CjVsRivvDWMPl4oruXNTJkuBkoNtVq5_jUd0Dm2NJU8e3mE44BX2YPcyIQRg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwDiDlU9myrZL1DkGGhoF8fBGRfyEJJJjw-k91HfP9RVDo2Sw3KqhbpZ9WMZ422eZmO2Q6uNAcY0YgrTkC_MQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         Another Z88DK game is <a href="https://bluebilby.com/sdm_downloads/arkaball/">Arkaball by Jason Oakley</a>, an obvious Arkanoid clone, but competently crafted and worth a video.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dygX6tUUSjF_u8v4K09YZMpPkWkfGyVGXniIfTrCAP4E6em3HmjtEpJWPLI1z6yn4HMY1XZinEA2WYgOSUwdQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dw36hEA9vIpAkDEGsDUS318PbsBIwhB8NLeTilE7aefg9uvhksGgSkX95nHg0yBEo5_l-XzuROGQzZVWn9o4w' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         Finally, a much more modern game is (the vibecoded) <a href="https://github.com/zonared/vz-doom">VZ-DOOM</a>, a Claude-written raycast Wolfenstein 3D-style game. It fortunately didn't need patching and "just worked." Your mileage may vary as to whether you think the AI usage is cheating, and this blog has a strict no-AI-article-text policy, but it performs as advertised on this NTSC machine and likewise merits a video. VZ-DOOM uses WASD for motion, comma and period to strafe, E to open and SPACE to shoot. 
         
