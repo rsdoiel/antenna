@@ -4,19 +4,124 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>16 Sep 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>17 Sep 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>The House of the Arrow by A. E. W.  Mason</title>
-      <link>https://www.gutenberg.org/ebooks/67514</link>
+      <title>Ukraine under the Soviets by Clarence Augustus Manning</title>
+      <link>https://www.gutenberg.org/ebooks/79579</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>Ukraine under the Soviets by Clarence Augustus Manning</title>
-      <link>https://www.gutenberg.org/ebooks/79579</link>
+      <title>Plutarch&#39;s Essays and Miscellanies, Vol. 4 (of 5) : by Plutarch</title>
+      <link>https://www.gutenberg.org/ebooks/79588</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Dark days by Hugh Conway</title>
+      <link>https://www.gutenberg.org/ebooks/79594</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Devil&#39;s deputy by Erle Stanley Gardner</title>
+      <link>https://www.gutenberg.org/ebooks/79595</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Sahara et Soudan : by Gustav Nachtigal</title>
+      <link>https://www.gutenberg.org/ebooks/79599</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>The ghost of Gamblin&#39; Dan by James W. Egan</title>
+      <link>https://www.gutenberg.org/ebooks/79602</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Yellow Wallpaper by Charlotte Perkins Gilman</title>
+      <link>https://www.gutenberg.org/ebooks/1952</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Intellectual things by Stanley J. Kunitz</title>
+      <link>https://www.gutenberg.org/ebooks/79603</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Undream&#39;d of shores by Frank Harris</title>
+      <link>https://www.gutenberg.org/ebooks/79600</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Beyond the end of space by Jr.  John W. Campbell</title>
+      <link>https://www.gutenberg.org/ebooks/79597</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Barnaby Rudge: A Tale of the Riots of &#39;Eighty by Charles Dickens</title>
+      <link>https://www.gutenberg.org/ebooks/917</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The City of God, Volume II by Saint of Hippo Augustine</title>
+      <link>https://www.gutenberg.org/ebooks/45305</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The beauties of the Bosphorus by Miss  Pardoe</title>
+      <link>https://www.gutenberg.org/ebooks/79601</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Die Vögel : by Aristophanes</title>
+      <link>https://www.gutenberg.org/ebooks/79596</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>Rivals of the clouds by Raoul Whitfield</title>
+      <link>https://www.gutenberg.org/ebooks/73987</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The sky jinx by Raoul Whitfield</title>
+      <link>https://www.gutenberg.org/ebooks/79598</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The House of the Arrow by A. E. W.  Mason</title>
+      <link>https://www.gutenberg.org/ebooks/67514</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -85,13 +190,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>Plutarch&#39;s Essays and Miscellanies, Vol. 4 (of 5) : by Plutarch</title>
-      <link>https://www.gutenberg.org/ebooks/79588</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Auf dem chinesischen Fluß : by Norbert Jacques</title>
       <link>https://www.gutenberg.org/ebooks/79585</link>
       <description>
@@ -101,13 +199,6 @@
     </item>    <item>
       <title>The Salvation Army in Switzerland by Josephine Elizabeth Grey Butler</title>
       <link>https://www.gutenberg.org/ebooks/79586</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Dark days by Hugh Conway</title>
-      <link>https://www.gutenberg.org/ebooks/79594</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -147,13 +238,6 @@
         <![CDATA[Language: Irish]]>
       </description>
       <source:markdown>Language: Irish</source:markdown>
-    </item>    <item>
-      <title>The Devil&#39;s deputy by Erle Stanley Gardner</title>
-      <link>https://www.gutenberg.org/ebooks/79595</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>The life story of gipsy Cornelius Smith by Cornelius Smith</title>
       <link>https://www.gutenberg.org/ebooks/79580</link>
@@ -1725,34 +1809,6 @@
     </item>    <item>
       <title>Confessions of Zeno by Italo Svevo</title>
       <link>https://www.gutenberg.org/ebooks/79453</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Rome, Naples et Florence, en 1817 by Stendhal</title>
-      <link>https://www.gutenberg.org/ebooks/79451</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>The moon era by Jack Williamson</title>
-      <link>https://www.gutenberg.org/ebooks/79450</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Philosophiae Naturalis Principia Mathematica by Isaac Newton</title>
-      <link>https://www.gutenberg.org/ebooks/28233</link>
-      <description>
-        <![CDATA[Language: Latin]]>
-      </description>
-      <source:markdown>Language: Latin</source:markdown>
-    </item>    <item>
-      <title>The conquered by Naomi Mitchison</title>
-      <link>https://www.gutenberg.org/ebooks/79449</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

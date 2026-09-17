@@ -4,10 +4,238 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>16 Sep 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>17 Sep 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/</link>
+      <description>
+        <![CDATA[A new creature-catching adventure is ready to stream from the cloud this week. Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported devices. Also this week, 007 First Light receives a path-tracing update on GeForce NOW, alongside a smashing limited-time Deluxe Edition sale on [&#8230;]]]>
+      </description>
+      <source:markdown>A new creature-catching adventure is ready to stream from the cloud this week. Pawprint Studio’s Aniimo arrives on GeForce NOW at launch, inviting gamers to explore the vibrant continent of Idyll across supported devices. Also this week, 007 First Light receives a path-tracing update on GeForce NOW, alongside a smashing limited-time Deluxe Edition sale on \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=98338</guid>
+      <category>Gaming</category>
+      <category>Cloud Gaming</category>
+      <category>GeForce NOW</category>
+    </item>    <item>
+      <title>APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 September 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Treasure [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 September 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Treasure \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/</guid>
+      <category>APOD</category>
+    </item>    <item>
+      <title>Summer Goes Out With a Heat Dome</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/</link>
+      <description>
+        <![CDATA[Temperature records toppled across the central and southern U.S. as the autumnal equinox approached.]]>
+      </description>
+      <source:markdown>Temperature records toppled across the central and southern U.S. as the autumnal equinox approached.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/</guid>
+      <category>Earth Observatory</category>
+      <category>Extreme Temperatures</category>
+      <category>Heat &#38; Radiation</category>
+    </item>    <item>
+      <title>GNOME 51 released</title>
+      <link>https://www.osnews.com/story/145980/gnome-51-released/</link>
+      <description>
+        <![CDATA[GNOME 51 has been released, with a whole slew of new features and improvements. Most notably, at least in my experience, will be the work done on GNOME&#8217;s graphics stack, which seems to stutter and jitter more than KDE&#8217;s on the same hardware &#8211; at least in my experience. In particular, GNOME&#8217;s compositor, Mutter, has improved frame scheduling for smoother animations, even under load. This hopefully addresses the stutters I generally experience when using GNOME. They&#8217;ve also done a lot of work on the Settings, Maps, Calendar, Web, and other applications. Of note to many will be the array of improvements to GNOME&#8217;s file manager, including better performance, although I doubt it will convince those of us who aren&#8217;t particular fans of Nautilus in general. They&#8217;ve also improved the remote desktop experience by, among other things, adding support for smart cards and improving support for Kerberos. GNOME 51 will make its way to your distribution of choice soon enough.]]>
+      </description>
+      <source:markdown>GNOME 51 has been released, with a whole slew of new features and improvements. Most notably, at least in my experience, will be the work done on GNOME’s graphics stack, which seems to stutter and jitter more than KDE’s on the same hardware – at least in my experience. In particular, GNOME’s compositor, Mutter, has improved frame scheduling for smoother animations, even under load. This hopefully addresses the stutters I generally experience when using GNOME. They’ve also done a lot of work on the Settings, Maps, Calendar, Web, and other applications. Of note to many will be the array of improvements to GNOME’s file manager, including better performance, although I doubt it will convince those of us who aren’t particular fans of Nautilus in general. They’ve also improved the remote desktop experience by, among other things, adding support for smart cards and improving support for Kerberos. GNOME 51 will make its way to your distribution of choice soon enough.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145980</guid>
+      <category>Gnome</category>
+    </item>    <item>
+      <title>Ubuntu 26.10 completes transition to Rust-based coreutils</title>
+      <link>https://www.osnews.com/story/145978/ubuntu-26-10-completes-transition-to-rust-based-coreutils/</link>
+      <description>
+        <![CDATA[Ubuntu has been replacing core utilities with Rust rewrites, and it&#8217;s now completed the process. cp,&#160;mv&#160;and&#160;rm&#160;were held back on&#160;their GNU versions in&#160;Ubuntu 26.04 LTS due to a crop of&#160;TOCTOU (time-of-check to time-of-use) issues that needed to be fixed in the&#160;uutils&#160;versions.&#160; With those issues resolved upstream,&#160;Ubuntu 26.10 finishes the job. The ‘Stonking Stingray’ ships a full set of Rust core utilities, which encompasses common command-line tools like ls,&#160;cat,&#160;chmod and &#160;du. ↫ Joey Sneddon at OMG! Ubuntu I&#8217;m definitely not qualified enough to make any useful remarks about this, but the idea of replacing such foundational, battle-tested utilities with brand new ones, even when written in a memory-safe language, does make feel a little hesitant. Still, at least this way Ubuntu users can work out any issues so that if and when other distributions &#8211; like the one I use, Fedora &#8211; follows suit.]]>
+      </description>
+      <source:markdown>Ubuntu has been replacing core utilities with Rust rewrites, and it’s now completed the process. cp, mv and rm were held back on their GNU versions in Ubuntu 26.04 LTS due to a crop of TOCTOU (time-of-check to time-of-use) issues that needed to be fixed in the uutils versions.  With those issues resolved upstream, Ubuntu 26.10 finishes the job. The ‘Stonking Stingray’ ships a full set of Rust core utilities, which encompasses common command-line tools like ls, cat, chmod and  du. ↫ Joey Sneddon at OMG! Ubuntu I’m definitely not qualified enough to make any useful remarks about this, but the idea of replacing such foundational, battle-tested utilities with brand new ones, even when written in a memory-safe language, does make feel a little hesitant. Still, at least this way Ubuntu users can work out any issues so that if and when other distributions – like the one I use, Fedora – follows suit.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145978</guid>
+      <category>Ubuntu</category>
+    </item>    <item>
+      <title>The terrible menu bar in the Windows 11 Notepad</title>
+      <link>https://www.osnews.com/story/145974/the-terrible-menu-bar-in-the-windows-11-notepad/</link>
+      <description>
+        <![CDATA[When I used Windows for a month because you people paid me to do so, the utter lack of consistency in the way applications and the operating system itself looks, feels, and behaves was a major sticking point. It turns out, though, that I was only scratching the surface of just how bad things really are on Windows. Case in point: the new WinUI Notepad application that replaced the classic Win32 one. I had no idea just how bad it really is. It’s been seven weeks since I last complained about something in Windows on this blog. That feels like too long, so here’s a post about menus – specifically, the menu bar in the modern version of Notepad in Windows 11. That menu bar has, unfortunately, quite a few regressions compared to the menu bar in the old Win32 version of Notepad. ↫ Reupen Shah I&#8217;m not going to spoil any of it, because there&#8217;s no way you&#8217;d believe any of it without the videos Shah provides. I&#8217;m aghast.]]>
+      </description>
+      <source:markdown>When I used Windows for a month because you people paid me to do so, the utter lack of consistency in the way applications and the operating system itself looks, feels, and behaves was a major sticking point. It turns out, though, that I was only scratching the surface of just how bad things really are on Windows. Case in point: the new WinUI Notepad application that replaced the classic Win32 one. I had no idea just how bad it really is. It’s been seven weeks since I last complained about something in Windows on this blog. That feels like too long, so here’s a post about menus – specifically, the menu bar in the modern version of Notepad in Windows 11. That menu bar has, unfortunately, quite a few regressions compared to the menu bar in the old Win32 version of Notepad. ↫ Reupen Shah I’m not going to spoil any of it, because there’s no way you’d believe any of it without the videos Shah provides. I’m aghast.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145974</guid>
+      <category>Windows</category>
+    </item>    <item>
+      <title>Passion Meets Precision at NASA’s Flight Research Lab</title>
+      <link>https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/</link>
+      <description>
+        <![CDATA[Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled aircraft, testing new ideas, and flying their creations at hobby events. That early passion now fuels the work of NASA’s Dale Reed Subscale Flight Research Laboratory at the agency’s Armstrong Flight [&#8230;]]]>
+      </description>
+      <source:markdown>Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled aircraft, testing new ideas, and flying their creations at hobby events. That early passion now fuels the work of NASA’s Dale Reed Subscale Flight Research Laboratory at the agency’s Armstrong Flight \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1047551</guid>
+      <category>People of Armstrong</category>
+      <category>Aeronautics</category>
+      <category>Armstrong Flight Research Center</category>
+      <category>Flight Innovation</category>
+      <category>People of NASA</category>
+    </item>    <item>
+      <title>A 66-Million-Year-Old Feather Trapped in Dinosaur Poop Might Help Explain Why Some Birds Survived Mass Extinction</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-66-million-year-old-feather-trapped-in-dinosaur-poop-might-help-explain-why-some-birds-survived-mass-extinction-180989496/</link>
+      <description>
+        <![CDATA[Discovered in Montana in 2016, the cherry-size coprolite contains feathers, bones and evidence of the bird's last meal before the creature was eaten by a theropod]]>
+      </description>
+      <source:markdown>Discovered in Montana in 2016, the cherry-size coprolite contains feathers, bones and evidence of the bird&#39;s last meal before the creature was eaten by a theropod</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Beeki7CU4YwXyUkXsO0duEq_kSw=/420x240/filters:focal(5020x3346:5021x3347)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/94/c9/94c976d9-9cd3-42b3-883c-3ccb289c9d62/hesper_nano.jpg" length="41826841" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-66-million-year-old-feather-trapped-in-dinosaur-poop-might-help-explain-why-some-birds-survived-mass-extinction-180989496/</guid>
+    </item>    <item>
+      <title>NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater</title>
+      <link>https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/</link>
+      <description>
+        <![CDATA[It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye, as it implied that surface material in that area had been shaken up. “I […]]]>
+      </description>
+      <source:markdown>It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye, as it implied that surface material in that area had been shaken up. “I \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/</guid>
+      <category>Asteroids</category>
+      <category>Craters</category>
+      <category>Earth&#39;s Moon</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Lunar Reconnaissance Orbiter (LRO)</category>
+      <category>Lunar Science</category>
+      <category>Missions</category>
+      <category>NASA Centers &#38; Facilities</category>
+      <category>NASA Directorates</category>
+      <category>Planetary Environments &#38; Atmospheres</category>
+      <category>Planetary Science</category>
+      <category>Planetary Science Division</category>
+      <category>Science &#38; Research</category>
+      <category>Science Mission Directorate</category>
+      <category>The Solar System</category>
+    </item>    <item>
+      <title>This New Brain Map Shows Every Nerve Cell in an Adult Male Fruit Fly&#39;s Central Nervous System. Here&#39;s Why That Matters</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-new-brain-map-shows-every-nerve-cell-in-an-adult-male-fruit-flys-central-nervous-system-heres-why-that-matters-180989490/</link>
+      <description>
+        <![CDATA[The recently released "connectome" joins a previously completed map of an adult female fruit fly’s brain. The digital 3D diagrams allow scientists to trace precise neural paths in the bugs’ brains, which can unlock secrets about the organ in humans]]>
+      </description>
+      <source:markdown>The recently released &#34;connectome&#34; joins a previously completed map of an adult female fruit fly’s brain. The digital 3D diagrams allow scientists to trace precise neural paths in the bugs’ brains, which can unlock secrets about the organ in humans</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/guNOla-4Oo9ndnYwDa19lmK5CXI=/420x240/filters:focal(960x649:961x650)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a6/ce/a6cea92b-eaa2-4db6-8548-7259a539330c/connectome-nervous-system.webp" length="359650" type="image/webp" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-new-brain-map-shows-every-nerve-cell-in-an-adult-male-fruit-flys-central-nervous-system-heres-why-that-matters-180989490/</guid>
+    </item>    <item>
+      <title>NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar</title>
+      <link>https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar/</link>
+      <description>
+        <![CDATA[NASA celebrated the full restoration of its Guam Remote Station with a ribbon-cutting on Sept. 10, closing out more than three years of recovery after Super Typhoon Mawar devastated the site in 2023. Engineers from across the agency completed the final and most complex step of the rebuild on July 1, when they returned the [&#8230;]]]>
+      </description>
+      <source:markdown>NASA celebrated the full restoration of its Guam Remote Station with a ribbon-cutting on Sept. 10, closing out more than three years of recovery after Super Typhoon Mawar devastated the site in 2023. Engineers from across the agency completed the final and most complex step of the rebuild on July 1, when they returned the \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1045713</guid>
+      <category>Communicating and Navigating with Missions</category>
+      <category>General</category>
+      <category>Glenn Research Center</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Research and Technology Mission Directorate</category>
+      <category>Space Communications &#38; Navigation Program</category>
+      <category>Tracking and Data Relay Satellite (TDRS)</category>
+    </item>    <item>
+      <title>NASA Watches Earth’s Weight, Finds Center of Mass</title>
+      <link>https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/</link>
+      <description>
+        <![CDATA[Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its geometric center. NASA scientists are on the case, tracking the oscillations because Earth’s center of mass is a crucial reference point for satellite navigation and elevation measurements. A team, led [&#8230;]]]>
+      </description>
+      <source:markdown>Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its geometric center. NASA scientists are on the case, tracking the oscillations because Earth’s center of mass is a crucial reference point for satellite navigation and elevation measurements. A team, led \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1047247</guid>
+      <category>Earth Science</category>
+      <category>Earth</category>
+      <category>Earth Surface &#38; Interior</category>
+      <category>General</category>
+      <category>GRACE (Gravity Recovery And Climate Experiment)</category>
+      <category>GRACE-FO (Gravity Recovery and Climate Experiment Follow-on)</category>
+      <category>Jet Propulsion Laboratory</category>
+      <category>LAGEOS (LAser GEOdynamics Satellite)</category>
+      <category>Oceans</category>
+      <category>Water on Earth</category>
+    </item>    <item>
+      <title>Ctenophores Aren’t Just Beautiful. They’re Biological Wonders.</title>
+      <link>https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/</link>
+      <description>
+        <![CDATA[Comb jellies are helping answer fundamental questions in biology, from how the earliest nervous systems evolved to how bioluminescence works.             <p>The post <a href="https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/" target="_blank">Ctenophores Aren’t Just Beautiful. They’re Biological Wonders.</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Comb jellies are helping answer fundamental questions in biology, from how the earliest nervous systems evolved to how bioluminescence works.
+
+The post [Ctenophores Aren’t Just Beautiful. They’re Biological Wonders.](https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=166816</guid>
+      <category>Biology</category>
+    </item>    <item>
+      <title>Three Wild Dogs Made a Record-Breaking Trek Across Zambia, Traveling More Than 2,500 Miles in Search of Mates</title>
+      <link>https://www.smithsonianmag.com/smart-news/three-wild-dogs-made-a-record-breaking-trek-across-zambia-traveling-more-than-2500-miles-in-search-of-mates-180989505/</link>
+      <description>
+        <![CDATA[The canines achieved the longest recorded movement by any African mammal. Their journey highlights the importance of having protected corridors for wildlife]]>
+      </description>
+      <source:markdown>The canines achieved the longest recorded movement by any African mammal. Their journey highlights the importance of having protected corridors for wildlife</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/tTWKkepNNkuZplcSrYt2_hQZTwg=/420x240/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ad/e8/ade838a5-53ad-49b0-af83-c3f1fa7593e2/gettyimages-1126919690.jpg" length="1707878" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/three-wild-dogs-made-a-record-breaking-trek-across-zambia-traveling-more-than-2500-miles-in-search-of-mates-180989505/</guid>
+    </item>    <item>
+      <title>Indonesia’s Anak Krakatau</title>
+      <link>https://www.nasa.gov/image-article/indonesias-anak-krakatau/</link>
+      <description>
+        <![CDATA[Anak Krakatau erupts ash and volcanic gases in this Sept. 5, 2026, image acquired with the OLI (Operational Land Imager) on Landsat 8. Eruptions are a regular occurrence at Anak Krakatau, a small volcano between the Indonesian islands of Java and Sumatra. Much of its activity remains relatively mild, but it occasionally puts on more [&#8230;]]]>
+      </description>
+      <source:markdown>Anak Krakatau erupts ash and volcanic gases in this Sept. 5, 2026, image acquired with the OLI (Operational Land Imager) on Landsat 8. Eruptions are a regular occurrence at Anak Krakatau, a small volcano between the Indonesian islands of Java and Sumatra. Much of its activity remains relatively mild, but it occasionally puts on more \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1047101</guid>
+      <category>Earth</category>
+    </item>    <item>
+      <title>Curiosity Postcard Celebrates Rover’s 5,000th Day on Mars</title>
+      <link>https://science.nasa.gov/photojournal/curiosity-postcard-celebrates-rovers-5000th-day-on-mars/</link>
+      <description>
+        <![CDATA[Description While parked at a sand ridge nicknamed “Chocolatal,” NASA’s Curiosity Mars rover used its black-and-white navigation cameras to capture panoramas at two times of day. The first was taken on Aug. 30, 2026, at 9:56 a.m. local Mars time; the second was taken on Sep. 2, 2026, at 5:39 p.m. local Mars time. Those […]]]>
+      </description>
+      <source:markdown>Description While parked at a sand ridge nicknamed “Chocolatal,” NASA’s Curiosity Mars rover used its black-and-white navigation cameras to capture panoramas at two times of day. The first was taken on Aug. 30, 2026, at 9:56 a.m. local Mars time; the second was taken on Sep. 2, 2026, at 5:39 p.m. local Mars time. Those \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/photojournal/curiosity-postcard-celebrates-rovers-5000th-day-on-mars/</guid>
+    </item>    <item>
+      <title>NASA Visits Schools Strengthening Florida’s Skilled Workforce</title>
+      <link>https://www.nasa.gov/image-article/nasa-visits-schools-strengthening-floridas-skilled-workforce/</link>
+      <description>
+        <![CDATA[NASA recently awarded $10.5 million to seven organizations nationwide through its new State Hubs initiative. Space Florida was selected for Project ORBIT, which aims to expand opportunities for middle and high school students, boost enrollment in key career and technical programs, and create a statewide portal connecting skilled workers with aerospace employers. Elaine Ho, associate [&#8230;]]]>
+      </description>
+      <source:markdown>NASA recently awarded $10.5 million to seven organizations nationwide through its new State Hubs initiative. Space Florida was selected for Project ORBIT, which aims to expand opportunities for middle and high school students, boost enrollment in key career and technical programs, and create a statewide portal connecting skilled workers with aerospace employers. Elaine Ho, associate \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1047338</guid>
+      <category>Grades 9 - 12</category>
+      <category>Learning Resources</category>
+    </item>    <item>
+      <title>Mysteriously Stolen More Than 30 Years Ago, and Illicitly Transported to the U.S., This 300-Pound Sculpture Is Finally Back Home in France</title>
+      <link>https://www.smithsonianmag.com/smart-news/mysteriously-stolen-more-than-30-years-ago-and-illicitly-transported-to-the-us-this-300-pound-sculpture-is-finally-back-home-in-france-180989507/</link>
+      <description>
+        <![CDATA[Alfred Lepère’s hulking “Faune Chasseur” artwork is once again on display at the Musée de Picardie, in Amiens]]>
+      </description>
+      <source:markdown>Alfred Lepère’s hulking “Faune Chasseur” artwork is once again on display at the Musée de Picardie, in Amiens</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/lbuhY_G52Ddkd_0ST_S9GDiaJbQ=/420x240/filters:focal(1536x2048:1537x2049)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f2/54/f2549862-c776-4c8d-886c-8ae438efbdc4/802777524_18348475594302071_4770168855678653748_n.jpg" length="1120243" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/mysteriously-stolen-more-than-30-years-ago-and-illicitly-transported-to-the-us-this-300-pound-sculpture-is-finally-back-home-in-france-180989507/</guid>
+    </item>    <item>
+      <title>NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut</title>
+      <link>https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/</link>
+      <description>
+        <![CDATA[System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher revenue. Efficient scaling means throughput grows proportionally as hardware gets added, requiring fewer resources to serve users at scale. Continuous optimization means generating more value from infrastructure investments.  [&#8230;]]]>
+      </description>
+      <source:markdown>System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher revenue. Efficient scaling means throughput grows proportionally as hardware gets added, requiring fewer resources to serve users at scale. Continuous optimization means generating more value from infrastructure investments.  \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=98215</guid>
+      <category>AI Infrastructure</category>
+      <category>Hardware</category>
+      <category>Networking</category>
+      <category>Software</category>
+      <category>Dynamo</category>
+      <category>Inference</category>
+      <category>NVIDIA Vera Rubin</category>
+      <category>TensorRT</category>
+    </item>    <item>
+      <title>NASA Astronaut Reid Wiseman to Join NFL Fans in Baltimore</title>
+      <link>https://www.nasa.gov/news-release/nasa-astronaut-reid-wiseman-to-join-nfl-fans-in-baltimore/</link>
+      <description>
+        <![CDATA[As part of NASA’s new Inspiration Tour, Reid Wiseman, NASA astronaut and commander of the agency’s Artemis II mission, will highlight America’s strengths in space exploration and aeronautics innovation at the Baltimore Ravens vs. New Orleans Saints game in Baltimore on Sunday, Sept. 20. A Baltimore native, Wiseman is a 27-year Navy veteran and NASA [&#8230;]]]>
+      </description>
+      <source:markdown>As part of NASA’s new Inspiration Tour, Reid Wiseman, NASA astronaut and commander of the agency’s Artemis II mission, will highlight America’s strengths in space exploration and aeronautics innovation at the Baltimore Ravens vs. New Orleans Saints game in Baltimore on Sunday, Sept. 20. A Baltimore native, Wiseman is a 27-year Navy veteran and NASA \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1047385</guid>
+      <category>G. Reid Wiseman</category>
+      <category>Artemis 2</category>
+      <category>Astronauts</category>
+    </item>    <item>
       <title>Tasmanian Devils Lived Alongside Humans in Northwestern Australia as Far Back as 45,000 Years Ago, Researchers Find</title>
       <link>https://www.smithsonianmag.com/smart-news/tasmanian-devils-lived-alongside-humans-in-northwestern-australia-as-far-back-as-45000-years-ago-researchers-find-180989503/</link>
       <description>
@@ -2065,7 +2293,7 @@ The post [PureOS Development Report: July 2026](https://puri.sm/posts/pureos-dev
         <![CDATA[Researchers found the textile traces on a pair of metal brooches. When the accessories corroded, they released metallic salts that inadvertently preserved the fabric for centuries]]>
       </description>
       <source:markdown>Researchers found the textile traces on a pair of metal brooches. When the accessories corroded, they released metallic salts that inadvertently preserved the fabric for centuries</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/6mqLqdTT69eS1wtwuIKPruoiBFs=/420x240/filters:focal(579x386:580x387)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ce/3a/ce3ad4ec-2ba5-4000-badb-8ce3dc4cdf41/metal.png" length="1897267" type="image/png" />
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/N2om-w3AQk9ef3It_rgrFSWYU8k=/420x240/filters:focal(736x464:737x465)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ce/3a/ce3ad4ec-2ba5-4000-badb-8ce3dc4cdf41/metal.png" length="1897267" type="image/png" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/archaeologists-in-denmark-discover-rare-fragments-of-1300-year-old-clothing-preserved-inside-viking-age-grave-180989419/</guid>
     </item>    <item>
       <title>‘Stunning’ Percolation Proof Solves Decades-Old Puzzle About Phase Transitions</title>
@@ -2532,203 +2760,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>Back-to-back winter storms in August 2026 brought snowfall to northern Chile, from the Andes to near the Pacific coast.</source:markdown>
       <guid>cid://https://science.nasa.gov/earth/earth-observatory/rare-widespread-snow-in-the-atacama-desert/</guid>
-    </item>    <item>
-      <title>NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory</title>
-      <link>https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/</link>
-      <description>
-        <![CDATA[The next wave of AI is placing new demands on infrastructure.  As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation [&#8230;]]]>
-      </description>
-      <source:markdown>The next wave of AI is placing new demands on infrastructure.  As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=97957</guid>
-      <category>AI Infrastructure</category>
-      <category>Hardware</category>
-      <category>Networking</category>
-      <category>NVLink</category>
-    </item>    <item>
-      <title>Building Foresight for Earth Science, featuring Lindsey Jacobson</title>
-      <link>https://www.nasa.gov/earth/earth-visualization-mapping/building-foresight-for-earth-science-featuring-lindsey-jacobson/</link>
-      <description>
-        <![CDATA[NASA&#8217;s Earth-observing satellite missions track dozens of features of a changing planet — aerosols, sea levels, land cover, cloud cover — over years and decades. Sustaining that record for the scientific and operational communities who depend on it requires more than engineering talent. It requires planning for an uncertain future: anticipating where a mission delay [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s Earth-observing satellite missions track dozens of features of a changing planet — aerosols, sea levels, land cover, cloud cover — over years and decades. Sustaining that record for the scientific and operational communities who depend on it requires more than engineering talent. It requires planning for an uncertain future: anticipating where a mission delay \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1041674</guid>
-      <category>Earth Visualization &#38; Mapping</category>
-      <category>Internships</category>
-    </item>    <item>
-      <title>For the First Time, a Selection of Islamic Masterpieces From the Louvre Is Coming to the United States. See the Treasures Soon to Be Displayed at the Smithsonian&#39;s National Museum of Asian Art</title>
-      <link>https://www.smithsonianmag.com/smart-news/for-the-first-time-a-selection-of-islamic-masterpieces-from-the-louvre-is-coming-to-the-united-states-see-the-treasures-soon-to-be-displayed-at-the-smithsonians-national-museum-of-asian-art-180989402/</link>
-      <description>
-        <![CDATA[Twenty-six works spanning many centuries and regions will form the September exhibition titled "From the Louvre: Masterpieces of Islamic Art"]]>
-      </description>
-      <source:markdown>Twenty-six works spanning many centuries and regions will form the September exhibition titled &#34;From the Louvre: Masterpieces of Islamic Art&#34;</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/uvc3kIVCORWT5HbmN3NqHnhL_AA=/420x240/filters:focal(2250x1564:2251x1565)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3f/e5/3fe5d222-27b0-4b54-8965-79299891138e/hd090125orig.jpg" length="5137657" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/for-the-first-time-a-selection-of-islamic-masterpieces-from-the-louvre-is-coming-to-the-united-states-see-the-treasures-soon-to-be-displayed-at-the-smithsonians-national-museum-of-asian-art-180989402/</guid>
-    </item>    <item>
-      <title>Turn Your Eyes to the Night Skies This Week to See a Near-Total Lunar Eclipse. It&#39;ll Temporarily Turn the Moon Red</title>
-      <link>https://www.smithsonianmag.com/smart-news/turn-your-eyes-to-the-night-skies-this-week-to-see-a-near-total-lunar-eclipse-itll-temporarily-turn-the-moon-red-180989404/</link>
-      <description>
-        <![CDATA[During the peak, 96 percent of the moon will be within the darkest part of our planet's shadow. The orb will take on an eerie glow because of how sunlight gets filtered through Earth's atmosphere]]>
-      </description>
-      <source:markdown>During the peak, 96 percent of the moon will be within the darkest part of our planet&#39;s shadow. The orb will take on an eerie glow because of how sunlight gets filtered through Earth&#39;s atmosphere</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/xGE0F-D8QtZYX9y5qju2QtfOPoY=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9a/80/9a806c6d-472c-4a77-a3e3-7fa3ee166bf7/smithsonian_feature_images_13.png" length="657854" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/turn-your-eyes-to-the-night-skies-this-week-to-see-a-near-total-lunar-eclipse-itll-temporarily-turn-the-moon-red-180989404/</guid>
-    </item>    <item>
-      <title>A Brittle Coating on a 2,200-Year-Old Roman Shipwreck Reveals How Ancient Sailors Kept Their Ships Afloat</title>
-      <link>https://www.smithsonianmag.com/smart-news/brittle-coating-on-2200-year-old-roman-shipwreck-revealing-how-ancient-soliders-kept-ships-afloat-180989394/</link>
-      <description>
-        <![CDATA[Traces of pine tar and beeswax preserved on the vessel reveal the painstaking techniques shipbuilders millennia ago used to protect their ships from the briny deep]]>
-      </description>
-      <source:markdown>Traces of pine tar and beeswax preserved on the vessel reveal the painstaking techniques shipbuilders millennia ago used to protect their ships from the briny deep</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jvp3qSw_rnkjrM8l7K8-u6y5hCY=/420x240/filters:focal(666x448:667x449)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/9f/4e9f0fe8-aa48-438a-b88f-3a29cd71107e/https___wwwfrontiersinorg_files_articles_1758862_xml-images_fmats-13-1758862-g001.jpeg" length="794759" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/brittle-coating-on-2200-year-old-roman-shipwreck-revealing-how-ancient-soliders-kept-ships-afloat-180989394/</guid>
-    </item>    <item>
-      <title>Roman Space Telescope Travels to SpaceX Hangar</title>
-      <link>https://www.nasa.gov/image-article/roman-space-telescope-travels-to-spacex-hangar/</link>
-      <description>
-        <![CDATA[NASA’s Nancy Grace Roman Space Telescope, encapsulated in its payload fairing, travels from the Payload Hazardous Servicing Facility to the SpaceX hangar at Launch Complex 39A at NASA’s Kennedy Space Center on Tuesday, Aug. 25, 2026, ahead of mating to a SpaceX Falcon Heavy rocket. Roman’s science instruments are designed to help researchers understand dark [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s Nancy Grace Roman Space Telescope, encapsulated in its payload fairing, travels from the Payload Hazardous Servicing Facility to the SpaceX hangar at Launch Complex 39A at NASA’s Kennedy Space Center on Tuesday, Aug. 25, 2026, ahead of mating to a SpaceX Falcon Heavy rocket. Roman’s science instruments are designed to help researchers understand dark \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1041619</guid>
-      <category>Kennedy Space Center</category>
-      <category>Nancy Grace Roman Space Telescope</category>
-    </item>    <item>
-      <title>See 16 Stunning Animal Images From the Wildlife Photographer of the Year Awards</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-16-stunning-animal-images-from-the-wildlife-photographer-of-the-year-awards-180989397/</link>
-      <description>
-        <![CDATA[Now in its 62nd year, the famed competition has released a sneak peek of the entries from this contest ahead of announcing the winners in October]]>
-      </description>
-      <source:markdown>Now in its 62nd year, the famed competition has released a sneak peek of the entries from this contest ahead of announcing the winners in October</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2rQkH38Pcj87NBbc-ka3nBdkaTs=/420x240/filters:focal(1280x859:1281x860)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dd/dd/dddd293f-fdd7-4e4f-ac3f-8507e88d1e45/c_audun_rikardsen.jpg" length="4273356" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-16-stunning-animal-images-from-the-wildlife-photographer-of-the-year-awards-180989397/</guid>
-    </item>    <item>
-      <title>These Medieval Manuscript Fragments Were Reused as Parchment, Inadvertently Preserving Them for Centuries</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-medieval-manuscript-fragments-were-reused-as-parchment-inadvertently-preserving-them-for-centuries-180989398/</link>
-      <description>
-        <![CDATA[Recently discovered on Guernsey, one of the Channel Islands, the pages include Bible passages, poems, plays and other texts. They were repurposed as book bindings during the 16th and 17th centuries]]>
-      </description>
-      <source:markdown>Recently discovered on Guernsey, one of the Channel Islands, the pages include Bible passages, poems, plays and other texts. They were repurposed as book bindings during the 16th and 17th centuries</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/-qtNjQXKEd8yDhf4wJAt6tiuBsw=/420x240/filters:focal(960x640:961x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5e/8e/5e8ec5ec-bf1c-4f6c-b604-7e1ed6692863/island-archives-manuscript-21-of-25-1920x1280.jpg" length="241897" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/these-medieval-manuscript-fragments-were-reused-as-parchment-inadvertently-preserving-them-for-centuries-180989398/</guid>
-    </item>    <item>
-      <title>NASA Johnson Pilots Chase Moon’s Shadow for Eclipse Science</title>
-      <link>https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-pilots-chase-moons-shadow-for-eclipse-science/</link>
-      <description>
-        <![CDATA[During the Aug. 12 total solar eclipse over Europe, scientists aimed to study a long-standing mystery: why the Sun’s outer atmosphere, the corona, is far hotter than its visible surface. Capturing the data they needed meant being in exactly the right place at the right time.  Pilots from NASA’s Johnson Space Center&#160;flew the WB-57F&#160;high altitude research&#160;aircraft&#160;from Ellington Field in Houston&#160;to&#160;Iceland, their [&#8230;]]]>
-      </description>
-      <source:markdown>During the Aug. 12 total solar eclipse over Europe, scientists aimed to study a long-standing mystery: why the Sun’s outer atmosphere, the corona, is far hotter than its visible surface. Capturing the data they needed meant being in exactly the right place at the right time.  Pilots from NASA’s Johnson Space Center flew the WB-57F high altitude research aircraft from Ellington Field in Houston to Iceland, their \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1040616</guid>
-      <category>Johnson Space Center</category>
-      <category>Ellington Field</category>
-      <category>Solar Eclipses</category>
-      <category>WB-57</category>
-    </item>    <item>
-      <title>The Soccer Ball Used for Diego Maradona’s ‘Hand of God’ World Cup Goal Sells for $3.35 Million at Auction</title>
-      <link>https://www.smithsonianmag.com/smart-news/soccer-ball-used-for-diego-maradona-hand-of-god-world-cup-goal-sells-at-auction-180989392/</link>
-      <description>
-        <![CDATA[Despite its role in one of the most famous games in soccer history, the historic piece of sports memorabilia fell short of its $10 million pre-sale estimate]]>
-      </description>
-      <source:markdown>Despite its role in one of the most famous games in soccer history, the historic piece of sports memorabilia fell short of its $10 million pre-sale estimate</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/bJWiwFyDDaFeilXH4_eSa8efLiQ=/420x240/filters:focal(566x415:567x416)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3f/27/3f27be0a-79fb-45fe-b9a4-3928848842d0/maradona_shilton_mano_dios.jpg" length="423896" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/soccer-ball-used-for-diego-maradona-hand-of-god-world-cup-goal-sells-at-auction-180989392/</guid>
-    </item>    <item>
-      <title>This Deadly Shellfish Poisoning Has No Antidote. A Protein Found in American Bullfrogs Could Change That</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-deadly-shellfish-poisoning-has-no-antidote-a-protein-found-in-american-bullfrogs-could-change-that-180989365/</link>
-      <description>
-        <![CDATA[A study in mice found that a protein called saxiphilin acts like a sponge against a deadly toxin produced by algal blooms. The harmful agent, which accumulates in certain seafood, can cause a life-threatening illness called paralytic shellfish poisoning]]>
-      </description>
-      <source:markdown>A study in mice found that a protein called saxiphilin acts like a sponge against a deadly toxin produced by algal blooms. The harmful agent, which accumulates in certain seafood, can cause a life-threatening illness called paralytic shellfish poisoning</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/CUZzyHalEUCE_zZ0MsvlWwuCPZE=/420x240/filters:focal(1143x893:1144x894)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c4/48/c44861eb-ef7f-4042-9c7e-10b7a4a61e39/north-american-bullfrog1.jpg" length="1919081" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-deadly-shellfish-poisoning-has-no-antidote-a-protein-found-in-american-bullfrogs-could-change-that-180989365/</guid>
-    </item>    <item>
-      <title>In Hilbert Space, All Things Are Quantumly Possible</title>
-      <link>https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/</link>
-      <description>
-        <![CDATA[To explore quantum phenomena, we must leave the familiar world and enter the abstract realm of Hilbert space.            <p>The post <a href="https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/" target="_blank">In Hilbert Space, All Things Are Quantumly Possible</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>To explore quantum phenomena, we must leave the familiar world and enter the abstract realm of Hilbert space.
-
-The post [In Hilbert Space, All Things Are Quantumly Possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=166153</guid>
-      <category>Physics</category>
-    </item>    <item>
-      <title>NASA Sets Spacewalk for Station Maintenance, Live Coverage Planned</title>
-      <link>https://www.nasa.gov/news-release/nasa-sets-spacewalk-for-station-maintenance-live-coverage-planned/</link>
-      <description>
-        <![CDATA[NASA will provide coverage as two astronauts step outside the International Space Station on Tuesday, Sept. 1, to replace a spacecraft navigational aid and complete several maintenance tasks in support of space station operations. Watch live coverage beginning at 7 a.m. EDT. The spacewalk is expected to start at approximately 8:30 a.m. and last about [&#8230;]]]>
-      </description>
-      <source:markdown>NASA will provide coverage as two astronauts step outside the International Space Station on Tuesday, Sept. 1, to replace a spacecraft navigational aid and complete several maintenance tasks in support of space station operations. Watch live coverage beginning at 7 a.m. EDT. The spacewalk is expected to start at approximately 8:30 a.m. and last about \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1041442</guid>
-      <category>Humans in Space</category>
-      <category>International Space Station (ISS)</category>
-      <category>Johnson Space Center</category>
-    </item>    <item>
-      <title>A New Telescope Still Under Construction Accidentally Reveals How a Dying Star Returns Matter to Space</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-new-telescope-still-under-construction-accidentally-reveals-how-a-dying-star-returns-matter-to-space-180989349/</link>
-      <description>
-        <![CDATA[Researchers captured an unprecedented image of the stellar recycling process while calibrating a Chile-based instrument called MOTHRA, which is expected to be complete by the end of 2026]]>
-      </description>
-      <source:markdown>Researchers captured an unprecedented image of the stellar recycling process while calibrating a Chile-based instrument called MOTHRA, which is expected to be complete by the end of 2026</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/SubC8RlSAbngMYaNt2tvxwuHP-k=/420x240/filters:focal(485x328:486x329)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3f/55/3f5579c8-c4a7-43a5-bb54-6498478792fd/helix1940__fitmaxwzk3mcw2ntbd.jpg" length="122648" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-new-telescope-still-under-construction-accidentally-reveals-how-a-dying-star-returns-matter-to-space-180989349/</guid>
-    </item>    <item>
-      <title>NASA Begins Moon Mission Plume-Surface Interaction Tests</title>
-      <link>https://www.nasa.gov/missions/artemis/nasa-begins-moon-mission-plume-surface-interaction-tests/</link>
-      <description>
-        <![CDATA[EDITOR’S NOTE: This story, originally published in December, was revised Aug. 26, 2026 with an update on a new phase of testing, including video from a recent test run and new images. To help NASA and commercial partners better understand the science of lunar landings, specifically the hazards that may occur when a lander’s engine [&#8230;]]]>
-      </description>
-      <source:markdown>EDITOR’S NOTE: This story, originally published in December, was revised Aug. 26, 2026 with an update on a new phase of testing, including video from a recent test run and new images. To help NASA and commercial partners better understand the science of lunar landings, specifically the hazards that may occur when a lander’s engine \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1041141</guid>
-      <category>Artemis</category>
-      <category>General</category>
-      <category>Human Landing System Program</category>
-      <category>Langley Research Center</category>
-      <category>Marshall Space Flight Center</category>
-    </item>    <item>
-      <title>Contractor to Civil Servant: NASA Welcomes Jeret Howard</title>
-      <link>https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jeret-howard/</link>
-      <description>
-        <![CDATA[At 17, Jeret Howard raised his right hand to serve his country as a United States Army combat medic in Iraq. This past summer, he raised his right hand again at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Hired as a civil servant under the agency&#8217;s workforce directive to restore core competencies by [&#8230;]]]>
-      </description>
-      <source:markdown>At 17, Jeret Howard raised his right hand to serve his country as a United States Army combat medic in Iraq. This past summer, he raised his right hand again at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Hired as a civil servant under the agency’s workforce directive to restore core competencies by \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1041378</guid>
-      <category>Stennis Space Center</category>
-    </item>    <item>
-      <title>&#39;Hunger Stones&#39; Resurface in Europe, Bringing Centuries-Old Warnings Back Into View as Rivers Hit Historic Lows</title>
-      <link>https://www.smithsonianmag.com/smart-news/hunger-stones-resurface-europe-bringing-centuries-old-warnings-back-into-view-rivers-hit-historic-lows-180989387/</link>
-      <description>
-        <![CDATA[As drought exposes stretches of riverbed in central Europe, markers carved by past generations to record low water levels are emerging once again]]>
-      </description>
-      <source:markdown>As drought exposes stretches of riverbed in central Europe, markers carved by past generations to record low water levels are emerging once again</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/9haqKVK9JYZmazeIHe6KG1aHXYw=/420x240/filters:focal(2736x1537:2737x1538)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/07/4e079c86-562a-4a24-892c-038825b326ae/hungerstein_in_decin_21.jpeg" length="9765376" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/hunger-stones-resurface-europe-bringing-centuries-old-warnings-back-into-view-rivers-hit-historic-lows-180989387/</guid>
-    </item>    <item>
-      <title>How your metabolism could alter your mental health</title>
-      <link>https://www.npr.org/2026/08/26/nx-s1-5807708/metabolism-mental-health-keto-schizophrenia-bipolar-depression</link>
-      <description>
-        <![CDATA[In 2009, medical student <a href="https://med.stanford.edu/profiles/shebani-sethi"target="_blank"   >Shebani Sethi</a> watched a patient in a weight loss program make a remarkable recovery. The dietary intervention she underwent alleviated her schizophrenia symptoms, something the woman had tried – and failed – to treat with medication for years. That experience sent Shebani down a medical path that would lead her to treating mental health in a radically different way. Today host <a href="https://www.npr.org/people/767284140/emily-kwong"target="_blank"   >Emily Kwong</a> talks to Shebani about the emerging field of metabolic psychiatry and how ketogenic metabolic therapy may treat schizophrenia, bipolar disorder and depression.<br/><br/><strong>Read Shebani’s </strong><a href="https://www.nature.com/articles/s44220-026-00609-5"target="_blank"   ><strong>article on metabolic psychiatry here</strong></a><strong>.</strong><br/><br/><em>Interested in more lifestyle science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at </em><a href="http://plus.npr.org/"target="_blank"   >plus.npr.org</a><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>In 2009, medical student [Shebani Sethi](https://med.stanford.edu/profiles/shebani-sethi) watched a patient in a weight loss program make a remarkable recovery. The dietary intervention she underwent alleviated her schizophrenia symptoms, something the woman had tried – and failed – to treat with medication for years. That experience sent Shebani down a medical path that would lead her to treating mental health in a radically different way. Today host [Emily Kwong](https://www.npr.org/people/767284140/emily-kwong) talks to Shebani about the emerging field of metabolic psychiatry and how ketogenic metabolic therapy may treat schizophrenia, bipolar disorder and depression.
-
-**Read Shebani’s** [**article on metabolic psychiatry here**](https://www.nature.com/articles/s44220-026-00609-5) **.**
-
-_Interested in more lifestyle science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at_ [plus.npr.org](http://plus.npr.org/)
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/02027688-bab9-4193-b6a0-8cae4b207ca3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=02027688-bab9-4193-b6a0-8cae4b207ca3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5807708&p=510351&d=748&size=11969977" length="11969977" type="audio/mpeg" />
-      <guid>cid://164a2c5f-577f-4a0c-b2e8-7d3a42e76fa3</guid>
-    </item>    <item>
-      <title>APOD: 2026 August 26 – JWST Images The Lion’s Head Nebula</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-august-26-jwst-images-the-lions-head-nebula/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 August 26 – JWST… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. JWST Images [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 August 26 – JWST… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. JWST Images \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-august-26-jwst-images-the-lions-head-nebula/</guid>
-      <category>APOD</category>
     </item>
   </channel>
 </rss>
