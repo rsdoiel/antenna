@@ -4,7 +4,7 @@
   <channel>
     <title><![CDATA[Writing]]></title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>17 Sep 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>18 Sep 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -102,18 +102,6 @@ September 2026</source:markdown>
 The post [Quinceañera](https://johnaugust.com/2026/750-quinceanera) first appeared on [John August](https://johnaugust.com).</source:markdown>
       <guid>cid://https://johnaugust.com/?p=27122</guid>
       <category>Scriptnotes</category>
-    </item>    <item>
-      <title>Authors Alliance Joins with HathiTrust and Northeastern University on “Transparent Books”</title>
-      <link>https://www.authorsalliance.org/2026/08/27/authors-alliance-joins-with-hathitrust-and-northeastern-university-on-transparent-books/</link>
-      <description>
-        <![CDATA[A five-year, $5 million grant to HathiTrust will create responsible, equitable, and transparent services that leverage AI for the public good and scholarly discovery. Authors Alliance and Northeastern University Library are partners in the effort.]]>
-      </description>
-      <source:markdown>A five-year, $5 million grant to HathiTrust will create responsible, equitable, and transparent services that leverage AI for the public good and scholarly discovery. Authors Alliance and Northeastern University Library are partners in the effort.</source:markdown>
-      <guid>cid://https://www.authorsalliance.org/?p=13100</guid>
-      <category>AI &#38; Access to Knowledge</category>
-      <category>Blog</category>
-      <category>Artificial Intelligence</category>
-      <category>text and data mining</category>
     </item>
   </channel>
 </rss>
