@@ -4,10 +4,73 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>18 Sep 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>19 Sep 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Squee by Margaret St. Clair</title>
+      <link>https://www.gutenberg.org/ebooks/79539</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Goldsmith&#39;s essays by Oliver Goldsmith</title>
+      <link>https://www.gutenberg.org/ebooks/79560</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Brothers Karamazov by Fyodor Dostoyevsky</title>
+      <link>https://www.gutenberg.org/ebooks/28054</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>White nights, and other stories by Fyodor Dostoyevsky</title>
+      <link>https://www.gutenberg.org/ebooks/36034</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Alice Meynell by Alice Meynell</title>
+      <link>https://www.gutenberg.org/ebooks/79607</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The last poems of Alice Meynell by Alice Meynell</title>
+      <link>https://www.gutenberg.org/ebooks/79606</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The spoiled Buddha : by Helen Waddell</title>
+      <link>https://www.gutenberg.org/ebooks/79608</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The work of the Afro-American woman by Mrs. N. F. Mossell</title>
+      <link>https://www.gutenberg.org/ebooks/79604</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Entstehung des Deutschen Königthums by Heinrich von Sybel</title>
+      <link>https://www.gutenberg.org/ebooks/79605</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
       <title>The ghost of Gamblin&#39; Dan by James W.  Egan</title>
       <link>https://www.gutenberg.org/ebooks/79602</link>
       <description>
@@ -449,13 +512,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>Goldsmith&#39;s essays by Oliver Goldsmith</title>
-      <link>https://www.gutenberg.org/ebooks/79560</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Diario de su residencia en Chile (1822) y de su viaje al Brasil (1823) by Lady Maria Callcott</title>
       <link>https://www.gutenberg.org/ebooks/79559</link>
       <description>
@@ -605,13 +661,6 @@
     </item>    <item>
       <title>Days with Walt Whitman : by Edward Carpenter</title>
       <link>https://www.gutenberg.org/ebooks/79537</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Squee by Margaret St. Clair</title>
-      <link>https://www.gutenberg.org/ebooks/79539</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1743,48 +1792,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Plays and controversies by W. B.  Yeats</title>
-      <link>https://www.gutenberg.org/ebooks/79460</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Everlasting Man by G. K.  Chesterton</title>
-      <link>https://www.gutenberg.org/ebooks/65688</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Midst granite hills : by Eglanton Thorne</title>
-      <link>https://www.gutenberg.org/ebooks/79459</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Nora; vol. 1 [of 3] by Lady Emily Ponsonby</title>
-      <link>https://www.gutenberg.org/ebooks/79461</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Nora; vol. 2 [of 3] by Lady Emily Ponsonby</title>
-      <link>https://www.gutenberg.org/ebooks/79462</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Nora; vol. 3 [of 3] by Lady Emily Ponsonby</title>
-      <link>https://www.gutenberg.org/ebooks/79463</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>

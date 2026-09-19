@@ -4,10 +4,174 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>18 Sep 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>19 Sep 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>“I don’t like passkeys”</title>
+      <link>https://www.osnews.com/story/145989/i-dont-like-passkeys/</link>
+      <description>
+        <![CDATA[Passkeys are a fantastic technology. Since they are bound to the site they are created for, they cannot be phished by a hacker’s fake login screen. If a site suffers a data breach, passkeys are asymmetric and cannot be recovered from the server-side details. This leads to passkeys being the perfect fit for a corporate environment, but a poor fit for personal security. To an individual, the greatest risks are instead permanent account lockout, automated account bans, and device loss. By using passkeys, you gain better security against man-in-the-middle attacks but face the higher probability scenario of losing access to your accounts. Phishing through the standard login flow is eliminated by passkeys, but it creates a false sense of security. An account’s security is still dictated by the weakest recovery method: SMS, email links, security questions, and so on. If these recovery methods aren’t enabled, then the risk of permanent lockout remains for the user. ↫ Ethan Hawksley I&#8217;ve always felt something was off about passkeys, and have never used them. They&#8217;ve become &#8211; or were always intended to be &#8211; tools for further lock-in by especially Google and Apple, tying their entire usage flow to their respective operating systems. They also don&#8217;t seem to work well if you often work on devices not your own, which is a major hassle. None of these shortcomings come into play when using a traditional password manager, even if they require more manual work. Just let me use a password manager with random password generation, instead of trying to force passkeys down my throat.]]>
+      </description>
+      <source:markdown>Passkeys are a fantastic technology. Since they are bound to the site they are created for, they cannot be phished by a hacker’s fake login screen. If a site suffers a data breach, passkeys are asymmetric and cannot be recovered from the server-side details. This leads to passkeys being the perfect fit for a corporate environment, but a poor fit for personal security. To an individual, the greatest risks are instead permanent account lockout, automated account bans, and device loss. By using passkeys, you gain better security against man-in-the-middle attacks but face the higher probability scenario of losing access to your accounts. Phishing through the standard login flow is eliminated by passkeys, but it creates a false sense of security. An account’s security is still dictated by the weakest recovery method: SMS, email links, security questions, and so on. If these recovery methods aren’t enabled, then the risk of permanent lockout remains for the user. ↫ Ethan Hawksley I’ve always felt something was off about passkeys, and have never used them. They’ve become – or were always intended to be – tools for further lock-in by especially Google and Apple, tying their entire usage flow to their respective operating systems. They also don’t seem to work well if you often work on devices not your own, which is a major hassle. None of these shortcomings come into play when using a traditional password manager, even if they require more manual work. Just let me use a password manager with random password generation, instead of trying to force passkeys down my throat.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145989</guid>
+      <category>Privacy, Security</category>
+    </item>    <item>
+      <title>APOD: 2026 September 19 – A Zodiacal Night</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 September 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night SkyAnnotation A [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 September 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night SkyAnnotation A \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/</guid>
+      <category>APOD</category>
+    </item>    <item>
+      <title>Java 27 released</title>
+      <link>https://www.osnews.com/story/145987/java-27-released/</link>
+      <description>
+        <![CDATA[Speaking of unsexy programming, we&#8217;ve got a new Java release. Featuring thousands of performance, stability, security, and productivity improvements, Java 27 (Oracle JDK 27) provides a strong foundation for continued Java innovation. To help organizations prepare for more secure communications in a post-quantum world, Java 27 advances its post-quantum cryptography (PQC) capabilities with hybrid key exchange for TLS 1.3. ↫ Oracle press release The OpenJDK release page has more information.]]>
+      </description>
+      <source:markdown>Speaking of unsexy programming, we’ve got a new Java release. Featuring thousands of performance, stability, security, and productivity improvements, Java 27 (Oracle JDK 27) provides a strong foundation for continued Java innovation. To help organizations prepare for more secure communications in a post-quantum world, Java 27 advances its post-quantum cryptography (PQC) capabilities with hybrid key exchange for TLS 1.3. ↫ Oracle press release The OpenJDK release page has more information.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145987</guid>
+      <category>Java</category>
+    </item>    <item>
+      <title>Performance improvements in .NET 11</title>
+      <link>https://www.osnews.com/story/145985/performance-improvements-in-net-11/</link>
+      <description>
+        <![CDATA[Look, nobody&#8217;s going to argue .NET is sexy, but the truth of the matter is that it&#8217;s quite popular in less visible circles, so any new release is going to have a big impact on a ton of people and product. In other words, performance improvements in .NET 11 are going to matter. In contrast, .NET 11 is actually one higher, one louder. The sections that follow are full of real improvements. A bounds check removed, an allocation that no longer happens, a lock that isn’t taken, a loop that runs in fewer cycles than it did a year ago, a comparison folded to a constant here, a redundant check hoisted out of a loop there, a couple of instructions fused into one, a syscall sidestepped, an array copy handed off to SIMD, and on and on. That’s how real performance work goes, accumulating gain after gain, each compounding on the last, until the whole thing is measurably, provably louder. And so, in this post, as I’ve done in past years with .NET 10, .NET 9, .NET 8, .NET 7, .NET 6, .NET 5, .NET Core 3.0, .NET Core 2.1, and .NET Core 2.0 before it, we’ll take an unhurried tour through hundreds of them. ↫ Stephen Toub at Microsoft&#8217;s Dev Blogs My eyes glaze over at all of this, but even here on OSNews, there&#8217;s going to be countless people working with .NET at their jobs.]]>
+      </description>
+      <source:markdown>Look, nobody’s going to argue .NET is sexy, but the truth of the matter is that it’s quite popular in less visible circles, so any new release is going to have a big impact on a ton of people and product. In other words, performance improvements in .NET 11 are going to matter. In contrast, .NET 11 is actually one higher, one louder. The sections that follow are full of real improvements. A bounds check removed, an allocation that no longer happens, a lock that isn’t taken, a loop that runs in fewer cycles than it did a year ago, a comparison folded to a constant here, a redundant check hoisted out of a loop there, a couple of instructions fused into one, a syscall sidestepped, an array copy handed off to SIMD, and on and on. That’s how real performance work goes, accumulating gain after gain, each compounding on the last, until the whole thing is measurably, provably louder. And so, in this post, as I’ve done in past years with .NET 10, .NET 9, .NET 8, .NET 7, .NET 6, .NET 5, .NET Core 3.0, .NET Core 2.1, and .NET Core 2.0 before it, we’ll take an unhurried tour through hundreds of them. ↫ Stephen Toub at Microsoft’s Dev Blogs My eyes glaze over at all of this, but even here on OSNews, there’s going to be countless people working with .NET at their jobs.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=145985</guid>
+      <category>.NET</category>
+    </item>    <item>
+      <title>NASA Invites Media to Albania Artemis Accords Signing Ceremony</title>
+      <link>https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/</link>
+      <description>
+        <![CDATA[The Republic of Albania will sign the Artemis Accords during a ceremony at 12 p.m. EDT on Monday, Sept. 21, at NASA Headquarters in Washington, becoming the 73rd country signatory. NASA Deputy Administrator Matt Anderson will host Albania’s Minister for Europe and Foreign Affairs Ferit Hoxha and Ambassador of the Republic of Albania to the [&#8230;]]]>
+      </description>
+      <source:markdown>The Republic of Albania will sign the Artemis Accords during a ceremony at 12 p.m. EDT on Monday, Sept. 21, at NASA Headquarters in Washington, becoming the 73rd country signatory. NASA Deputy Administrator Matt Anderson will host Albania’s Minister for Europe and Foreign Affairs Ferit Hoxha and Ambassador of the Republic of Albania to the \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1048788</guid>
+      <category>Office of International and Interagency Relations (OIIR)</category>
+      <category>Artemis Accords</category>
+    </item>    <item>
+      <title>The Moon Just Got a Massive New Crater That&#39;s Wider Than Two End-to-End Football Fields. It&#39;s a &#39;Once-in-a-Lifetime Observation&#39;</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-moon-just-got-a-massive-new-crater-thats-wider-than-two-end-to-end-football-fields-its-a-once-in-a-lifetime-observation-180989526/</link>
+      <description>
+        <![CDATA[The impact crater was formed in 2024 when an object the size of a multistory building crashed into our lunar companion. The resulting divot is about 728 feet wide and 141 feet deep]]>
+      </description>
+      <source:markdown>The impact crater was formed in 2024 when an object the size of a multistory building crashed into our lunar companion. The resulting divot is about 728 feet wide and 141 feet deep</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/-aKrZjWN02nMQXEeBtposXGslrE=/420x240/filters:focal(512x512:513x513)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/07/f2/07f2373b-918c-4e19-8b22-9a2d4398bc64/mcgetchinobligueviewlrocnac.jpeg" length="102187" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/the-moon-just-got-a-massive-new-crater-thats-wider-than-two-end-to-end-football-fields-its-a-once-in-a-lifetime-observation-180989526/</guid>
+    </item>    <item>
+      <title>A Herd of 40 Life-Size Bison Puppets Will Stampede Through New York This Weekend to Honor Indigenous History and Resilience</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-herd-of-40-life-size-bison-puppets-will-stampede-through-new-york-this-weekend-to-honor-indigenous-history-and-resilience-180989525/</link>
+      <description>
+        <![CDATA[The massive bovines, each maneuvered by three puppeteers, will roam through Lower Manhattan and Brooklyn]]>
+      </description>
+      <source:markdown>The massive bovines, each maneuvered by three puppeteers, will roam through Lower Manhattan and Brooklyn</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Y5blksHg8mva4xIScy2TOISkRzk=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ee/af/eeaf8702-0ac4-473b-9399-aefed4f4c3ae/2026-08-26_return_of_the_buffalo_rush-10.jpg" length="12374776" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-herd-of-40-life-size-bison-puppets-will-stampede-through-new-york-this-weekend-to-honor-indigenous-history-and-resilience-180989525/</guid>
+    </item>    <item>
+      <title>NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’</title>
+      <link>https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/</link>
+      <description>
+        <![CDATA[Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares. The research is part of NASA’s exploration of the extreme universe to better understand how the […]]]>
+      </description>
+      <source:markdown>Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares. The research is part of NASA’s exploration of the extreme universe to better understand how the \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/</guid>
+      <category>Astrophysics</category>
+      <category>Electromagnetic Spectrum</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Neutron Stars</category>
+      <category>Pulsars</category>
+      <category>Stars</category>
+      <category>The Universe</category>
+      <category>X-ray Astronomy</category>
+      <category>X-ray Binaries</category>
+      <category>XRISM (X-Ray Imaging and Spectroscopy Mission)</category>
+    </item>    <item>
+      <title>Centuries Ago, an Architect Characterized the Parthenon’s Curves as a Clever Optical Illusion. Now, a Mathematician Begs to Differ</title>
+      <link>https://www.smithsonianmag.com/smart-news/centuries-ago-an-architect-characterized-the-parthenons-curves-as-a-clever-optical-illusion-now-a-mathematician-begs-to-differ-180989520/</link>
+      <description>
+        <![CDATA[In the first century B.C.E., Vitruvius wrote that the Acropolis’ largest temple was horizontally bowed so that it didn't seem to sag, and that explanation persisted for millennia. New research suggests a different reason]]>
+      </description>
+      <source:markdown>In the first century B.C.E., Vitruvius wrote that the Acropolis’ largest temple was horizontally bowed so that it didn&#39;t seem to sag, and that explanation persisted for millennia. New research suggests a different reason</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/JbjLUVy4WNr0ifqgSfTFCr76TEk=/420x240/filters:focal(1466x977:1467x978)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ed/88/ed88a908-056c-40c6-bc7d-6fac7f2979f5/parthenon.jpeg" length="4370882" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/centuries-ago-an-architect-characterized-the-parthenons-curves-as-a-clever-optical-illusion-now-a-mathematician-begs-to-differ-180989520/</guid>
+    </item>    <item>
+      <title>NASA Awards SpaceX Three Crew Flights to Space Station</title>
+      <link>https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/</link>
+      <description>
+        <![CDATA[To continue regular crew transportation to the International Space Station, NASA has awarded SpaceX three additional missions through a contract modification.]]>
+      </description>
+      <source:markdown>To continue regular crew transportation to the International Space Station, NASA has awarded SpaceX three additional missions through a contract modification.</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1048645</guid>
+      <category>Commercial Crew</category>
+      <category>International Space Station (ISS)</category>
+    </item>    <item>
+      <title>Tyrannosaurus Rex Was a Warm-Blooded Dinosaur, With a Body Temperature Similar to That of Humans, Study Suggests</title>
+      <link>https://www.smithsonianmag.com/smart-news/tyrannosaurus-rex-was-a-warm-blooded-dinosaur-with-a-body-temperature-similar-to-that-of-humans-study-suggests-180989519/</link>
+      <description>
+        <![CDATA[A tooth analysis hints that the fearsome predator ran at a toasty 97 degrees Fahrenheit. Maintaining that internal temperature may have allowed it to inhabit a range stretching from modern-day Alaska to Mexico during the Cretaceous period]]>
+      </description>
+      <source:markdown>A tooth analysis hints that the fearsome predator ran at a toasty 97 degrees Fahrenheit. Maintaining that internal temperature may have allowed it to inhabit a range stretching from modern-day Alaska to Mexico during the Cretaceous period</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/bzajx0j1Nesr1J0ztclF5X1hlyE=/420x240/filters:focal(1824x1372:1825x1373)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f2/60/f2601472-df0b-4fa8-af14-660201e25d0c/nhm_t-rex_skull_dinosaur_institute_natural_history_museum_of_los_angeles_county.jpg" length="4253481" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/tyrannosaurus-rex-was-a-warm-blooded-dinosaur-with-a-body-temperature-similar-to-that-of-humans-study-suggests-180989519/</guid>
+    </item>    <item>
+      <title>COSI Telescope Comes Together</title>
+      <link>https://www.nasa.gov/image-article/cosi-telescope-comes-together/</link>
+      <description>
+        <![CDATA[UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image. The four pieces of silver material on the top of the detector box cover the flex circuits, which carry signals from the detectors to the readout electronics. COSI [&#8230;]]]>
+      </description>
+      <source:markdown>UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image. The four pieces of silver material on the top of the detector box cover the flex circuits, which carry signals from the detectors to the readout electronics. COSI \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1048253</guid>
+      <category>COSI (Compton Spectrometer and Imager)</category>
+    </item>    <item>
+      <title>The Ancient DNA of a Deadly Animal Virus Has Been Lurking in Medieval Manuscripts for Centuries, Researchers Find</title>
+      <link>https://www.smithsonianmag.com/smart-news/medieval-manuscripts-preserved-traces-of-a-deadly-virus-for-centuries-180989522/</link>
+      <description>
+        <![CDATA[A new analysis of teeth and parchment suggests that the devastating sheep pox virus has been infecting livestock for 3,700 years]]>
+      </description>
+      <source:markdown>A new analysis of teeth and parchment suggests that the devastating sheep pox virus has been infecting livestock for 3,700 years</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/IC6ZqV0bilIF3JbHmTbWPJqKB3E=/420x240/filters:focal(640x427:641x428)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5f/6c/5f6c0f39-bd93-4c2a-9605-b518b8574158/irish_sheep_71088397.jpeg" length="383750" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/medieval-manuscripts-preserved-traces-of-a-deadly-virus-for-centuries-180989522/</guid>
+    </item>    <item>
+      <title>A Humpback Whale Mom Stayed With Her Stillborn Calf, Repeatedly Touching It and Staring Into Its Eyes. Was She Grieving?</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-humpback-whale-mom-stayed-with-her-stillborn-calf-repeatedly-touchingi-it-and-staring-into-its-eyes-was-she-grieving-180989516/</link>
+      <description>
+        <![CDATA[Observed last year off the coast of Queensland, Australia, this event marks the first documentation of a stillbirth in the species, providing a rare glimpse at how the highly social animals respond to death]]>
+      </description>
+      <source:markdown>Observed last year off the coast of Queensland, Australia, this event marks the first documentation of a stillbirth in the species, providing a rare glimpse at how the highly social animals respond to death</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/IpN2zeC4Ek1Eyt2U423LyMgGaHk=/420x240/filters:focal(2560x1707:2561x1708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6c/2b/6c2b9cb4-4047-4020-8266-b2b2a9ddf278/15194165793_23452f7980_5k.jpg" length="2260026" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-humpback-whale-mom-stayed-with-her-stillborn-calf-repeatedly-touchingi-it-and-staring-into-its-eyes-was-she-grieving-180989516/</guid>
+    </item>    <item>
+      <title>Mathematicians Build Long-Awaited Graph Sandwich</title>
+      <link>https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/</link>
+      <description>
+        <![CDATA[The proof of a decades-old conjecture has given researchers a new way to understand complex networks.            <p>The post <a href="https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/" target="_blank">Mathematicians Build Long-Awaited Graph Sandwich</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>The proof of a decades-old conjecture has given researchers a new way to understand complex networks.
+
+The post [Mathematicians Build Long-Awaited Graph Sandwich](https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=167212</guid>
+      <category>Mathematics</category>
+    </item>    <item>
+      <title>NASA’s Hubble Spots an Out-of-Sync Galaxy</title>
+      <link>https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/</link>
+      <description>
+        <![CDATA[Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over a thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by […]]]>
+      </description>
+      <source:markdown>Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over a thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/</guid>
+      <category>Astrophysics</category>
+      <category>Astrophysics Division</category>
+      <category>Galaxies</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Hubble Space Telescope</category>
+      <category>Spiral Galaxies</category>
+      <category>The Universe</category>
+      <category>Uncategorized</category>
+    </item>    <item>
       <title>The latest on AI panic — and whether it&#39;s justified</title>
       <link>https://www.npr.org/2026/09/18/nx-s1-5971154/open-ai-anthropic-news-research-takeover</link>
       <description>
@@ -52,9 +216,9 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <title>Scientists Created Mice With Half-Human Brains. The Hybrid Animals Could Revolutionize Our Understanding of Neurological Disorders</title>
       <link>https://www.smithsonianmag.com/smart-news/scientists-created-mice-with-half-human-brains-the-hybrid-animals-could-revolutionize-our-understanding-of-neurological-disorders-180989518/</link>
       <description>
-        <![CDATA[Our brains and their associated diseases are notoriously hard to study. So, researchers developed an animal model with a cortex—the brain’s outer layer—grown from human-derived cells]]>
+        <![CDATA[Our brains and their associated diseases are notoriously hard to study. So researchers developed an animal model with a cortex—the brain’s outer layer—grown from human-derived cells]]>
       </description>
-      <source:markdown>Our brains and their associated diseases are notoriously hard to study. So, researchers developed an animal model with a cortex—the brain’s outer layer—grown from human-derived cells</source:markdown>
+      <source:markdown>Our brains and their associated diseases are notoriously hard to study. So researchers developed an animal model with a cortex—the brain’s outer layer—grown from human-derived cells</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/fANTk77GNIecwvj39uxSR7VQnm0=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0a/75/0a75c260-fa9a-425c-bf5e-b90eaf93c0f5/mouse-brain.png" length="1547154" type="image/png" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-created-mice-with-half-human-brains-the-hybrid-animals-could-revolutionize-our-understanding-of-neurological-disorders-180989518/</guid>
     </item>    <item>
@@ -2552,163 +2716,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <source:markdown>The new observatory will complete three surveys of the universe in five years, although it&#39;s designed to function at least twice as long. Its data could change scientists&#39; basic understanding of the cosmos</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/mR5EHPrmafInwOqOOkDHiEOtvEI=/420x240/filters:focal(1800x1029:1801x1030)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9d/98/9d98cc66-26ad-4f6e-b59e-394818f23d10/roman_beautypass2026-med.png" length="16918059" type="image/png" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/nasas-nancy-grace-roman-space-telescope-launches-to-find-exoplanets-and-unravel-mysteries-of-dark-matter-and-dark-energy-180989268/</guid>
-    </item>    <item>
-      <title>NASA’s Artemis II Crew Receives Congressional Space Medal of Honor</title>
-      <link>https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/</link>
-      <description>
-        <![CDATA[From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug. 28, 2026, for their service during the Artemis II mission. The Congressional Space Medal of Honor was authorized [&#8230;]]]>
-      </description>
-      <source:markdown>From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug. 28, 2026, for their service during the Artemis II mission. The Congressional Space Medal of Honor was authorized \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1042653</guid>
-      <category>Artemis 2</category>
-      <category>Christina H. Koch</category>
-      <category>G. Reid Wiseman</category>
-      <category>Victor J. Glover</category>
-    </item>    <item>
-      <title>NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge</title>
-      <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/</link>
-      <description>
-        <![CDATA[NASA&#160;named&#160;a team from the&#160;Massachusetts Institute of Technology&#160;(MIT)&#160;as the&#160;first prize&#160;winner&#160;for&#160;Phase 2&#160;of the&#160;agency’s&#160;LunaRecycle&#160;Challenge, which&#160;focused on&#160;developing&#160;solutions for&#160;reducing waste&#160;during missions to the Moon or deep space by&#160;recycling common materials,&#160;like fabrics, plastics, foam, and metals.&#160; The&#160;Composites for Extraterrestrial Recycling&#160;By&#160;Engineering the Reuse and Upcycling of&#160;Zotek&#160;(CERBERUZ) team,&#160;comprised&#160;of&#160;undergraduate,&#160;graduate,&#160;and&#160;doctoral&#160;students at&#160;MIT,&#160;received a total of $775,000 in&#160;awards.&#160;&#160; The technology grinds mixed trash into a fine powder, [&#8230;]]]>
-      </description>
-      <source:markdown>NASA named a team from the Massachusetts Institute of Technology (MIT) as the first prize winner for Phase 2 of the agency’s LunaRecycle Challenge, which focused on developing solutions for reducing waste during missions to the Moon or deep space by recycling common materials, like fabrics, plastics, foam, and metals.  The Composites for Extraterrestrial Recycling By Engineering the Reuse and Upcycling of Zotek (CERBERUZ) team, comprised of undergraduate, graduate, and doctoral students at MIT, received a total of $775,000 in awards.   The technology grinds mixed trash into a fine powder, \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1042552</guid>
-      <category>Centennial Challenges</category>
-      <category>Prizes, Challenges, &#38; Crowdsourcing News</category>
-      <category>Prizes, Challenges, and Crowdsourcing Program</category>
-      <category>Space Technology Mission Directorate</category>
-    </item>    <item>
-      <title>Forests Didn&#39;t Fare Well During an Ancient Global Warming Event, Offering a &#39;Cautionary&#39; Tale About Today&#39;s Climate Change</title>
-      <link>https://www.smithsonianmag.com/smart-news/forests-didnt-fare-well-during-an-ancient-global-warming-event-offering-a-cautionary-tale-about-todays-climate-change-180989353/</link>
-      <description>
-        <![CDATA[An intense global warming event 56 million years ago caused a forest in modern-day Wyoming to lose around 60 percent of its canopy cover, and it took more than 100,000 years to bounce back, a study suggests]]>
-      </description>
-      <source:markdown>An intense global warming event 56 million years ago caused a forest in modern-day Wyoming to lose around 60 percent of its canopy cover, and it took more than 100,000 years to bounce back, a study suggests</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/R24DK6D7rmaZwnU-8WQOiPKUSuA=/420x240/filters:focal(350x263:351x264)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f9/a1/f9a1f6a6-893d-43dc-a48a-6386c8defe01/low-res_example_of_carbonaceous_shale_img_6878.jpg" length="70071" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/forests-didnt-fare-well-during-an-ancient-global-warming-event-offering-a-cautionary-tale-about-todays-climate-change-180989353/</guid>
-    </item>    <item>
-      <title>Deep Inside a Spanish Cave, Roman Women May Have Worshipped a Mysterious Goddess</title>
-      <link>https://www.smithsonianmag.com/smart-news/deep-inside-spanish-cave-roman-women-may-have-worshipped-mysterious-goddess-180989414/</link>
-      <description>
-        <![CDATA[Best known for its Paleolithic art, Valencia’s Cova de les Dones also contains a Roman sanctuary where researchers say women appear to have played an active role in the worship of a female deity]]>
-      </description>
-      <source:markdown>Best known for its Paleolithic art, Valencia’s Cova de les Dones also contains a Roman sanctuary where researchers say women appear to have played an active role in the worship of a female deity</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Mu6zkFMkxZfiW82i6OC3jMjj_xc=/420x240/filters:focal(360x240:361x241)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f8/2a/f82aae37-3a31-4995-b8f3-4be66db320c8/members_of_the_research_team_during_the_documentation_and_analysis_work.jpeg" length="243277" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/deep-inside-spanish-cave-roman-women-may-have-worshipped-mysterious-goddess-180989414/</guid>
-    </item>    <item>
-      <title>Historical Pollution, Not Current Industrial Emissions, Damaged the World&#39;s Largest and Oldest Collection of Ancient Rock Art, Study Suggests</title>
-      <link>https://www.smithsonianmag.com/smart-news/historical-pollution-not-current-industrial-emissions-damaged-worlds-largest-oldest-collection-ancient-rock-art-180989416/</link>
-      <description>
-        <![CDATA[Researchers say that past exposure to sulfur dioxide is likely to blame for the increased porosity of the Murujuga rock art created by the Ngarda-Ngarli people tens of thousands of years ago]]>
-      </description>
-      <source:markdown>Researchers say that past exposure to sulfur dioxide is likely to blame for the increased porosity of the Murujuga rock art created by the Ngarda-Ngarli people tens of thousands of years ago</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/4hXQCmsv0lmrJEewBp2UehREu6k=/420x240/filters:focal(640x457:641x458)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3f/8b/3f8ba94f-bec9-40c9-b0c7-1b63c5ebea39/1280px-ancient_and_modern_4000_years.jpg" length="385928" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/historical-pollution-not-current-industrial-emissions-damaged-worlds-largest-oldest-collection-ancient-rock-art-180989416/</guid>
-    </item>    <item>
-      <title>President Honors NASA’s Artemis II Crew with Highest US Space Award</title>
-      <link>https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/</link>
-      <description>
-        <![CDATA[President Donald J. Trump awarded NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen with the Congressional Space Medal of Honor Friday for their service during the Artemis II mission. He presented the awards during a ceremony at NASA’s Johnson Space Center in Houston, honoring the first [&#8230;]]]>
-      </description>
-      <source:markdown>President Donald J. Trump awarded NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen with the Congressional Space Medal of Honor Friday for their service during the Artemis II mission. He presented the awards during a ceremony at NASA’s Johnson Space Center in Houston, honoring the first \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1042483</guid>
-      <category>Humans in Space</category>
-    </item>    <item>
-      <title>President Trump Signs Executive Order to Create US Space Academy</title>
-      <link>https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/</link>
-      <description>
-        <![CDATA[To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.S. Space Academy. The order highlights how space is a critical domain for American national security, economic growth, scientific discovery, and technological innovation. The proposed academy [&#8230;]]]>
-      </description>
-      <source:markdown>To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.S. Space Academy. The order highlights how space is a critical domain for American national security, economic growth, scientific discovery, and technological innovation. The proposed academy \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1042363</guid>
-      <category>NASA Headquarters</category>
-    </item>    <item>
-      <title>Grants</title>
-      <link>https://www.nasa.gov/centers-and-facilities/grants-2/</link>
-      <description>
-        <![CDATA[*Notice* The Payment Management System (PMS) is currently experiencing issues affecting Federal Financial Report (FFR) generation. Impacted NASA grant recipients will not be considered noncompliant. NASA is working with PMS to resolve the issue. Updates will be posted here. Grants Status Requests To submit a request, visit NASA General Information Request Form and complete the [&#8230;]]]>
-      </description>
-      <source:markdown>\*Notice\* The Payment Management System (PMS) is currently experiencing issues affecting Federal Financial Report (FFR) generation. Impacted NASA grant recipients will not be considered noncompliant. NASA is working with PMS to resolve the issue. Updates will be posted here. Grants Status Requests To submit a request, visit NASA General Information Request Form and complete the \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=540748</guid>
-      <category>NASA Centers &#38; Facilities</category>
-      <category>NASA Shared Services Center</category>
-    </item>    <item>
-      <title>This Star Orbits Our Galaxy&#39;s Heart at a Record-Breaking Speed—and Could Help Uncover Secrets About the Behemoth Black Hole There</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-star-orbits-our-galaxys-heart-at-a-record-breaking-speed-and-could-help-uncover-secrets-about-the-behemoth-black-hole-there-180989393/</link>
-      <description>
-        <![CDATA[The speedster travels at up to 56 million miles per hour, or about 8 percent the speed of light. It also gets very close to the supermassive black hole at the center of the Milky Way]]>
-      </description>
-      <source:markdown>The speedster travels at up to 56 million miles per hour, or about 8 percent the speed of light. It also gets very close to the supermassive black hole at the center of the Milky Way</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/qfEIPJP2gHqqrpZvN1RoNB1NAr8=/420x240/filters:focal(700x400:701x401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f0/fe/f0fe19e4-e68b-474d-b0a4-19c5beb9d19d/speedy-star.webp" length="73926" type="image/webp" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-star-orbits-our-galaxys-heart-at-a-record-breaking-speed-and-could-help-uncover-secrets-about-the-behemoth-black-hole-there-180989393/</guid>
-    </item>    <item>
-      <title>A Landlord Found a Peculiar Print Hanging in a Vacant Apartment. It Turned Out to Be an Original Picasso That Had Been Missing for Eight Years</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-landlord-found-a-peculiar-print-hanging-in-a-vacant-apartment-it-turned-out-to-be-an-original-picasso-print-that-had-been-missing-for-eight-years-180989417/</link>
-      <description>
-        <![CDATA[When "Torero" vanished from a Milwaukee art gallery in 2018, the owners didn't know whether they'd ever see it again. The man who found the etching turned it over to the police earlier this month]]>
-      </description>
-      <source:markdown>When &#34;Torero&#34; vanished from a Milwaukee art gallery in 2018, the owners didn&#39;t know whether they&#39;d ever see it again. The man who found the etching turned it over to the police earlier this month</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/QqOzuAhc8_7sDfJMOZXd_7ggibg=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e9/38/e938158b-f130-4222-9bc7-a6b11a5a8354/picasso_print.jpg" length="151337" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-landlord-found-a-peculiar-print-hanging-in-a-vacant-apartment-it-turned-out-to-be-an-original-picasso-print-that-had-been-missing-for-eight-years-180989417/</guid>
-    </item>    <item>
-      <title>When Fruit Is Scarce, These Monkeys Hunt Animals. The Behavior May Offer Clues About the Origins of Humans&#39; Meat-Eating Habits</title>
-      <link>https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/</link>
-      <description>
-        <![CDATA[The bearded capuchins of northeastern Brazil typically eat plant-based foods, but they turn to small vertebrates when those sources are limited. Our ancestors may have done the same, eventually allowing predatory behaviors to be more frequently passed on in our lineage]]>
-      </description>
-      <source:markdown>The bearded capuchins of northeastern Brazil typically eat plant-based foods, but they turn to small vertebrates when those sources are limited. Our ancestors may have done the same, eventually allowing predatory behaviors to be more frequently passed on in our lineage</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/_SxIzXx5E4NbpLFv_AW5VhHfTZw=/420x240/filters:focal(1936x1309:1937x1310)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/09/db/09dba898-5ce8-4705-a26f-94aa75051dc6/capuchin_birdprey.jpg" length="1193646" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/</guid>
-    </item>    <item>
-      <title>Does Computer Science Need Computers?</title>
-      <link>https://www.quantamagazine.org/does-computer-science-need-computers-20260828/</link>
-      <description>
-        <![CDATA[The theoretical side of the field doesn’t require computing machines. But many questions would never have been posed without them.             <p>The post <a href="https://www.quantamagazine.org/does-computer-science-need-computers-20260828/" target="_blank">Does Computer Science Need Computers?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>The theoretical side of the field doesn’t require computing machines. But many questions would never have been posed without them.
-
-The post [Does Computer Science Need Computers?](https://www.quantamagazine.org/does-computer-science-need-computers-20260828/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=166297</guid>
-      <category>Computer Science</category>
-    </item>    <item>
-      <title>NASA&#39;s newest telescope has a top secret past</title>
-      <link>https://www.npr.org/2026/08/28/nx-s1-5935626/space-telescope-roman-supernovae-exoplanets-spy</link>
-      <description>
-        <![CDATA[The new Nancy Grace Roman space telescope is slated to launch <em>this weekend</em>. It was originally built for the National Reconnaissance Office as a spy satellite, but was never launched. Instead, NRO gave it to NASA about 15 years ago. After some major modifications, it’s set to begin its five-year mission peering at new supernovas, distant galaxies and planets orbiting stars outside our solar system. It should help scientists get a better understanding of the mysterious force known as dark energy – which will tell us about the fate of the universe.<br/><br/><strong>If you liked this episode, check out Regina’s reporting </strong><a href="http://lnk.to/C0Cpam"target="_blank"   ><strong>demystifying the mysterious red dots</strong></a><strong> spotted by the James Webb Space Telescope.</strong><br/><br/><em>Interested in more space news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>The new Nancy Grace Roman space telescope is slated to launch _this weekend_. It was originally built for the National Reconnaissance Office as a spy satellite, but was never launched. Instead, NRO gave it to NASA about 15 years ago. After some major modifications, it’s set to begin its five-year mission peering at new supernovas, distant galaxies and planets orbiting stars outside our solar system. It should help scientists get a better understanding of the mysterious force known as dark energy – which will tell us about the fate of the universe.
-
-**If you liked this episode, check out Regina’s reporting** [**demystifying the mysterious red dots**](http://lnk.to/C0Cpam) **spotted by the James Webb Space Telescope.**
-
-_Interested in more space news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/0dce5ef3-e265-401c-b7d5-78ea9086385c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=0dce5ef3-e265-401c-b7d5-78ea9086385c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5935626&p=510351&d=811&size=12988961" length="12988961" type="audio/mpeg" />
-      <guid>cid://993c4162-2f5a-496d-a4aa-5a02de07c524</guid>
-    </item>    <item>
-      <title>APOD: 2026 August 28 – The Sky Turns Above Paranal</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-august-28-the-sky-turns-above-paranal/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 August 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Sky [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 August 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Sky \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-august-28-the-sky-turns-above-paranal/</guid>
-      <category>APOD</category>
-    </item>    <item>
-      <title>The Forested Floodplains of Congaree National Park</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/the-forested-floodplains-of-congaree-national-park/</link>
-      <description>
-        <![CDATA[The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain.]]>
-      </description>
-      <source:markdown>The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/the-forested-floodplains-of-congaree-national-park/</guid>
-      <category>Earth Observatory</category>
-      <category>Landsat 9</category>
-      <category>Surface Water</category>
-      <category>Vegetation</category>
     </item>
   </channel>
 </rss>

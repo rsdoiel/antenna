@@ -4,10 +4,36 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>18 Sep 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>19 Sep 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>ROUGOL revisits elite – now with two player split screen</title>
+      <link>https://www.riscository.com/2026/rougol-elite-two-player-split-screen/</link>
+      <description>
+        <![CDATA[Just over a year ago, Mark Moxon visited the RISC OS User Group of London (ROUGOL) to talk about how he had added econet support to Elite. He had been taking a deep dive into the game for a while, analysing the code and how some of its clever tricks were implemented, adding his own improvements to it &#8211; such as ensuring the graphics were flicker free &#8211; and at the time of that meeting, network support was his latest innovation. The depth of Mark&#8217;s investigation into Elite&#8217;s inner workings&#8230;]]>
+      </description>
+      <source:markdown>Just over a year ago, Mark Moxon visited the RISC OS User Group of London (ROUGOL) to talk about how he had added econet support to Elite. He had been taking a deep dive into the game for a while, analysing the code and how some of its clever tricks were implemented, adding his own improvements to it – such as ensuring the graphics were flicker free – and at the time of that meeting, network support was his latest innovation. The depth of Mark’s investigation into Elite’s inner workings…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11037</guid>
+      <category>User groups</category>
+      <category>Elite</category>
+      <category>London</category>
+      <category>ROUGOL</category>
+      <category>User Group</category>
+    </item>    <item>
+      <title>The Lamentable Later Life of Lemmings</title>
+      <link>https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/</link>
+      <description>
+        <![CDATA[This article tells the last part of the story of Lemmings. For a while there in the early 1990s, there seemed to be good reason to believe that Lemmings was on its way to becoming one of gaming&#8217;s perennial franchises. Developed by DMA Design of Dundee, Scotland, the original Lemmings game took the world by storm [&#8230;]]]>
+      </description>
+      <source:markdown>This article tells the last part of the story of Lemmings. For a while there in the early 1990s, there seemed to be good reason to believe that Lemmings was on its way to becoming one of gaming’s perennial franchises. Developed by DMA Design of Dundee, Scotland, the original Lemmings game took the world by storm \[…\]</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6907</guid>
+      <category>Digital Antiquaria</category>
+      <category>Interactive Fiction</category>
+      <category>lemmings</category>
+      <category>psygnosis</category>
+      <category>rockstar</category>
+    </item>    <item>
       <title>RISC OS one publishes its mission statement</title>
       <link>http://www.iconbar.com/comments/rss/news2381.html</link>
       <description>
@@ -623,7 +649,7 @@
         <p>
         Note the "snow" in this shot &mdash; that's because the program was animating screen memory at the same time the VDG was trying to read it, so the VDG's memory access got briefly suppressed during that period. Because the display scan can't wait for the VDG to be enabled again, the result is a brief splat of garbage on that line until the VDG is allowed to proceed. Dubois could have simply waited for the VDG's next interframe interrupt, but there's also only so much time between frames before the VDG will start drawing again. As a result, for many programs where significant CPU time was required to do screen updates, outright ignoring the video artifacts turned out to be the least bad approach.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwcPuZnAz_s1WwBVDdm_TyhJXXXLRzi9XYFQz7M8H4ICFUdoXe82TlDUwXJW-ON2KbqiIV0aHq-KOIw7Je7CA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyDultaaz4xBbqAA5tpVGr6xlbwfSiZZN-Aw93DLlC0r-eGPQ8DhhPKKawObFMTbm79hXNpkEl0c5PGprcgtg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         Here's a short video I recorded of another high quality arcade clone, Galaxon (gee, I wonder what <a href="https://en.wikipedia.org/wiki/Galaxian">that was</a>) by Stephen Clarke.<!-- https://pro.nfsa.gov.au/titles/9QYN7JJV --> It shows loading from the SD card, the title and options screen (even the VZ200 had software pirates), and then playing the game, which worked fine on the keyboard. This and the other recordings I did for this entry were generated from the composite capture rig for video, but for audio using a microphone near the VZ200's piezo speaker to capture sound (since there's no audio out). You'll notice I'm pounding on the keys a bit, which the microphone faithfully picks up, though you do have to hit the keys with a bit of, shall we say, deliberateness to get them to register.
         
@@ -639,7 +665,7 @@
         
         Appropriately for a Four'n Twenty take on sugar-sweetened citrus beverages, you decide how many <s>glasses</s> pies you want to make, how many advertising signs you want to buy, and the price per item you want to request. Other than the pie business, Larry Taylor's<!-- bushy --> port of the game seems to be heavily influenced by the well-known Apple II version and includes the same sort of simple graphics for weather reports and the like.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyWaU1zhtUQZwuepNuY4oZBZwgKJspx5FsOtLIpY2s05R670eUoz_TGuyGLB0nIutEAjYTzcTYBqFzvCDFlKA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzcv82dvyhVHVzgznnwMejovNyv5XZ8pBg3w54EswifmamkEqnEMcLOicQziqAQtvTrzZo-WeChwZl1M3rhHQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         An exceptional entry in the VZ's edutainment canon is Factory by VSoftwareZ.<!-- bushy --> It oozes professional quality with a slick title screen and menu, and is an extremely fun puzzler to boot. The aim is to create a factory from various primitive machines (paint, rotate, hole punch) that will generate a specific product. It is so well animated and so thoroughly polished that it deserves this short video to fully appreciate it.
         
@@ -655,7 +681,7 @@
         
         And of course a couple more games. Here is a simple Formula 1 racer (also by Stephen Clarke)<!-- game --> a la <a href="https://en.wikipedia.org/wiki/Night_Driver_%28video_game%29">Night Driver</a> where you are apparently an alien with wings and feet ...
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dw12w1YVM4lWU0nRlXmMDOM2bZifW5Lt_swp8JwZbECEQBq940bcGEajT3BSQAmlmwKV8jttJmGCX3CSOXpjQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyGXomxoldCxCkYCLd4zH_Afcw31ynkQ4QJkTrk6deW6K4hYvYztxh74QYHa4rNwsBpqMNsV5YnnhULJX3Faw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         ... alongside a rather good 3-D maze game by Laserlink.<!-- bushy --> It's only rendered at 90 degree angles, but it's fast and well-written, and deserved another video.
         
@@ -755,7 +781,7 @@
         
         Now we'll proceed with the hardware part, and we won't even need to solder anything from here on out, because we'll just use DuPont female jumpers to connect to the BennVenn GPIO pins we've already attached &mdash; everything else will be done in software. The SD card board uses 3.3V logic and has 24 GPIO pins that can be individually configured as inputs or outputs. These are all accessible through the Z80's I/O space, with locations 68-70 setting the data direction (1=input), and locations 71-73 setting the value of outputs. All pins can be read, not only pins configured as inputs, but also the current state of any output pins. The SD card board's GPIO pins provide +5V and +9V lines as well, but we won't be needing them for this project.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyTn6V4Qfn065EmV5zBQTP09pBRD6qx_3cx78as4IV5wWgavEcppZY_JeF-gwTDnB07wkwHEqiOZ6502tCv8Q' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxqpygZ4Lw0H4I1wAI0dMlmQK-JJ0y3cGtnTCgArua8S56vuYCCPkq2m3yuLGlVJJtq0RIB5g761ZYJJ8Ou0A' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         As an example, in <a href="https://github.com/classilla/bushfood">the Github repo</a> I have a small program to cycle the LEDs on his proto board, which you can see in this brief video. It sets all GPIO pins to output and lights all 24 green LEDs connected to them (the red ones are check LEDs for 3.3V, 5V and 9V), then cycles a dark one through them from left to right until a key is pressed. This is done by hooking into the interrupt routine called when the VDG completes a frame, the only regular timesource on an unaltered VZ200, and used back in the day as a simple clock by various programs. Every third tick of the interrupt routine, this code runs:
         <p>
@@ -1063,7 +1089,7 @@
         <p>
         Now that we can iterate quickly on them, let's patch and play a few more games before we close.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxnhNKr75gwLbQtYEVRy_AVEaYnZDs-0dZ_hNmOa8l-eu_QHeS5kSs2YKeA5MXRMt8VRuhWOyQvLS9hYl_EEg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwy55W2QzAffXx_orbED-x7dtQgJJ4Cmasr8jMmXWUPoIsWsBGdLNXXZountRF041leaTtTaVGgj38iaHXliw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         Another outstanding edutainment title is Maths Armada (not Math Armada, which my wife would insists is patentlys incorrects), where you have to load your cannon with the right sum, quotient, etc., aim, and fire. In the video we autoload the new binary with the BFL and the game starts immediately. This one I had to tack on a custom routine; the programmer had been a little <em>too</em> efficient and constructed a general fill subroutine which lots of things called, the screen clear portion being only one of many. (Darn those efficient little assembly language programmers.)
         
@@ -1079,11 +1105,11 @@
         
         More recently, Juergen Buchmueller's Defense Command is sort of like a vertical Defender (complete with descending aliens trying to harvest your brood), though it has a curious game deficiency in that the side-to-side entering attackers need never be shot, so you can enter an eternal stalemate by merely sitting there. Still, the action is fast and the animations, albeit small, are decent. This game was written in C using an earlier version of the <a href="https://z88dk.org/site/targets">Z88 Development Kit</a>.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxO818PnjyTtviQFnRo8LIoIATMry3QaAtAQ65OcrfoR3Oe4Mr_IoEp59ldo19hZsGRV4mAHRJRj6tK_ubLRQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyVKL2q-IYkcvnqDbT6c2Smx3zWBhE5lnZMSDPjHH-JTWqA7EjzIlPjT55ulzOw-KgKz9mnV-TVZcFMTyXKtw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         Another Z88DK game is <a href="https://bluebilby.com/sdm_downloads/arkaball/">Arkaball by Jason Oakley</a>, an obvious Arkanoid clone, but competently crafted and worth a video.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxItkoGfmhs2lc0DAPlJ3WW7xqmMsYP2IKAYPtk0oqtgHBEwbA67nFbkVIJNV-3hA8VamiL7cF4PHvYnLYLEw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzb4n_oL47dAZrvXxE8OPoIfL_W1oCrK5l0GMRdwC3ZCUxeeuHpJk8EzVpd8ZGQUs8pySeiosz6MlsoxVAo5Q' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         Finally, a much more modern game is (the vibecoded) <a href="https://github.com/zonared/vz-doom">VZ-DOOM</a>, a Claude-written raycast Wolfenstein 3D-style game. It fortunately didn't need patching and "just worked." Your mileage may vary as to whether you think the AI usage is cheating, and this blog has a strict no-AI-article-text policy, but it performs as advertised on this NTSC machine and likewise merits a video. VZ-DOOM uses WASD for motion, comma and period to strafe, E to open and SPACE to shoot. 
         
@@ -2460,76 +2486,6 @@ What problem does Font Directory Pro solve?</source:markdown>
       </description>
       <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2370.html</guid>
-    </item>    <item>
-      <title>ZIP-Laufwerke unter RISC OS</title>
-      <link>http://riscosblog.huber-net.de/2026/08/zip-laufwerke-unter-risc-os/</link>
-      <description>
-        <![CDATA[Anfang der 1990er Jahre &#8211; CD-Brenner gab es noch nicht, und USB-Sticks schon gar nicht (wie auch &#8211; USB war noch nicht verfügbar, und an Flash-Speicher in anständigen Größen war erst recht nicht zu denken) &#8211; waren ZIP-Laufwerke von Iomega mit weitem Abstand die beliebteste Art unter Computernutzern, Daten auszutauschen die nicht auf eine 1,44 MiB-Diskette passten. Davor wurden vor allem im Desktop-Publishing-Bereich oft SyQuest-Wechselplattenmedien verwendet (häufig die 44 oder 88 MiB-Variante in 5,25&#8243;, später <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="http://riscosblog.huber-net.de/2026/08/zip-laufwerke-unter-risc-os/" class="more-link"><span>Read More &#8594;</span></a></span>]]>
-      </description>
-      <source:markdown>Anfang der 1990er Jahre – CD-Brenner gab es noch nicht, und USB-Sticks schon gar nicht (wie auch – USB war noch nicht verfügbar, und an Flash-Speicher in anständigen Größen war erst recht nicht zu denken) – waren ZIP-Laufwerke von Iomega mit weitem Abstand die beliebteste Art unter Computernutzern, Daten auszutauschen die nicht auf eine 1,44 MiB-Diskette passten. Davor wurden vor allem im Desktop-Publishing-Bereich oft SyQuest-Wechselplattenmedien verwendet (häufig die 44 oder 88 MiB-Variante in 5,25″, später …[Read More →](http://riscosblog.huber-net.de/2026/08/zip-laufwerke-unter-risc-os/)</source:markdown>
-      <guid>cid://http://riscosblog.huber-net.de/?p=584</guid>
-      <category>Retro</category>
-    </item>    <item>
-      <title>Microprocessor programming and applications  for scientists and engineers (Richard R. Smardzewski</title>
-      <link>http://retro.hansotten.nl/microprocessor-programming/</link>
-      <description>
-        <![CDATA[Book added to the 6502 KIM-1 AIM 65 books pages: Microprocessor programming and applications for scientists and engineers (Richard R. Smardzewski See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions of KIM-...KIM-1 connectors: beware [&#8230;]]]>
-      </description>
-      <source:markdown>Book added to the 6502 KIM-1 AIM 65 books pages: Microprocessor programming and applications for scientists and engineers (Richard R. Smardzewski See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions of KIM-...KIM-1 connectors: beware \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=22118</guid>
-      <category>6502</category>
-      <category>aim65</category>
-    </item>    <item>
-      <title>Microprocessor programming and applications  for scientists and engineers (Richard R. Smardzewski</title>
-      <link>http://retro.hansotten.nl/22118-2/</link>
-      <description>
-        <![CDATA[Book added to the 6502 KIM-1 AIM 65 books pages: Microprocessor programming and applications for scientists and engineers (Richard R. Smardzewski See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions of KIM-...KIM-1 connectors: beware [&#8230;]]]>
-      </description>
-      <source:markdown>Book added to the 6502 KIM-1 AIM 65 books pages: Microprocessor programming and applications for scientists and engineers (Richard R. Smardzewski See also:A demo of the new facilities in the KIM-1 Simulator 2.2.1A demo of the new facilities in the KIM-1 Simulator 2.2.1 Scroll, copy paste of the console. New versions of KIM-...KIM-1 connectors: beware \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=22118</guid>
-      <category>6502</category>
-      <category>aim65</category>
-    </item>    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/</link>
-      <description>
-        <![CDATA[Rehabilitating Richard]]>
-      </description>
-      <source:markdown>Rehabilitating Richard</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6922</guid>
-      <category>Uncategorized</category>
-    </item>    <item>
-      <title>The road towards 64-bit with Andrew Rawnsley – WROCC meeting 2nd September</title>
-      <link>https://www.riscository.com/2026/wrocc-meeting-andrew-rawnsley-65-bit-2nd-september/</link>
-      <description>
-        <![CDATA[Andrew Rawnsley, wearing his RISC OS Developments hat, will be the guest speaker at the next Wakefield RISC OS Computer Club (WROCC) meeting, which takes place on Wednesday, 2nd September, and he will be talking on the subject of 64-bit. RISC OS itself is currently a 32-bit operating system, with the code that makes it up running in the ARM 32-bit architecture, AArch32. For some time now, newer ARM CPUs have had a 64-bit architecture, AArch64, and with it a new instruction set &#8211; and the wider ARM-based world has&#8230;]]>
-      </description>
-      <source:markdown>Andrew Rawnsley, wearing his RISC OS Developments hat, will be the guest speaker at the next Wakefield RISC OS Computer Club (WROCC) meeting, which takes place on Wednesday, 2nd September, and he will be talking on the subject of 64-bit. RISC OS itself is currently a 32-bit operating system, with the code that makes it up running in the ARM 32-bit architecture, AArch32. For some time now, newer ARM CPUs have had a 64-bit architecture, AArch64, and with it a new instruction set – and the wider ARM-based world has…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=11007</guid>
-      <category>User groups</category>
-      <category>64-bit</category>
-      <category>Andrew Rawnsley</category>
-      <category>Meeting</category>
-      <category>Wakefield</category>
-      <category>WROCC</category>
-    </item>    <item>
-      <title>Apple 1 Replica TE PAL version</title>
-      <link>http://retro.hansotten.nl/apple-1-replica-te-pal-version/</link>
-      <description>
-        <![CDATA[User ExPLIT on the German forum Verein zum Erhalt klassischer Computer e.V. has build an Apple 1 Replica 1 TE from the design files by Vince Briel. He was not so happy with the NTSC composite signal of this Replica 1. So he reworked the source files of the Propeller to support PAL formatted video. [&#8230;]]]>
-      </description>
-      <source:markdown>User ExPLIT on the German forum Verein zum Erhalt klassischer Computer e.V. has build an Apple 1 Replica 1 TE from the design files by Vince Briel. He was not so happy with the NTSC composite signal of this Replica 1. So he reworked the source files of the Propeller to support PAL formatted video. \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=22106</guid>
-      <category>6502</category>
-      <category>apple1</category>
-    </item>    <item>
-      <title>August 2026 News Summary</title>
-      <link>http://www.iconbar.com/comments/rss/news2354.html</link>
-      <description>
-        <![CDATA[Some things we noticed this month. What did you see?]]>
-      </description>
-      <source:markdown>Some things we noticed this month. What did you see?</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2354.html</guid>
     </item>
   </channel>
 </rss>
