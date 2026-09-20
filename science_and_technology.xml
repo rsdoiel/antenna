@@ -4,10 +4,19 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>19 Sep 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>20 Sep 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>APOD: 2026 September 20 – Analemma over the Callanish Stones</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 September 20 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Analemma over the [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 September 20 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Analemma over the \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/</guid>
+      <category>APOD</category>
+    </item>    <item>
       <title>“I don’t like passkeys”</title>
       <link>https://www.osnews.com/story/145989/i-dont-like-passkeys/</link>
       <description>

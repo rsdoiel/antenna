@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>19 Sep 26 06:43 -0700</dateCreated>
+        <dateCreated>20 Sep 26 06:41 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -223,7 +223,7 @@
         <outline text="Lloyd Rochester Blog" type="rss" xmlUrl="https://lloydrochester.com/index.xml" htmlUrl="https://lloydrochester.com/,https://lloydrochester.com/index.xml" description="Recent content in Home on Lloyd Rochester&#39;s Geek Blog" url="https://lloydrochester.com/index.xml"></outline>
         <outline text="Los Nettos News" type="rss" xmlUrl="https://losnettos.net/feed/" htmlUrl="https://losnettos.net,https://losnettos.net/feed/" url="https://losnettos.net/feed/"></outline>
         <outline text="Luizirber blog" type="atom" xmlUrl="https://blog.luizirber.org/atom.xml" htmlUrl="https://blog.luizirber.org/,https://blog.luizirber.org/atom.xml" description="Vogon Poetry, Computers and (some) biology" url="https://blog.luizirber.org/atom.xml"></outline>
-        <outline text="Maggie Appleton" type="rss" xmlUrl="https://maggieappleton.com/rss.xml" htmlUrl="https://maggieappleton.com/" description="Essays on programming, design, and anthropology"></outline>
+        <outline text="Maggie Appleton" type="rss" xmlUrl="https://maggieappleton.com/rss.xml" htmlUrl="https://maggieappleton.com" description="Essays on programming, design, and anthropology"></outline>
         <outline text="Marc André Tanner blog (creator of vis editor)" type="rss" xmlUrl="https://www.brain-dump.org/index.xml" htmlUrl="https://www.brain-dump.org/,https://www.brain-dump.org/index.xml" description="Recent content on Marc André Tanner" url="https://www.brain-dump.org/index.xml"></outline>
         <outline text="Marcin Wichary at Medium" type="rss" xmlUrl="https://mwichary.medium.com/feed" htmlUrl="https://medium.com/@mwichary?source=rss-b55535a4ac78------2,https://medium.com/@mwichary/feed" description="Stories by Marcin Wichary on Medium" url="https://medium.com/@mwichary/feed"></outline>
         <outline text="Marco Arment blog" type="rss" xmlUrl="https://marco.org/rss" htmlUrl="https://marco.org/" description="I’m Marco Arment, creator of Overcast, technology podcaster and writer, and coffee enthusiast."></outline>
