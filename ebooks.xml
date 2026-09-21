@@ -4,10 +4,94 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>20 Sep 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>21 Sep 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Woman in music : by George P.  Upton</title>
+      <link>https://www.gutenberg.org/ebooks/79613</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Volume 01: Childhood by Giacomo Casanova</title>
+      <link>https://www.gutenberg.org/ebooks/2951</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Tama of the light country by Ray Cummings</title>
+      <link>https://www.gutenberg.org/ebooks/79620</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The poetical works of Anna Seward, Vol. 1 [of 3] by Anna Seward</title>
+      <link>https://www.gutenberg.org/ebooks/79615</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The poetical works of Anna Seward, Vol. 2 [of 3] by Anna Seward</title>
+      <link>https://www.gutenberg.org/ebooks/79616</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The poetical works of Anna Seward, Vol. 3 [of 3] by Anna Seward</title>
+      <link>https://www.gutenberg.org/ebooks/79617</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Histoire maccaronique de Merlin Coccaie by Teofilo Folengo</title>
+      <link>https://www.gutenberg.org/ebooks/79618</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Grimms&#39; Fairy Tales by Jacob Grimm and Wilhelm Grimm</title>
+      <link>https://www.gutenberg.org/ebooks/2591</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Hanne Nüte en de kleine Poedel by Fritz Reuter</title>
+      <link>https://www.gutenberg.org/ebooks/79614</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
+      <title>Paddenstoelen by Jac. P.  Thijsse</title>
+      <link>https://www.gutenberg.org/ebooks/79622</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
+      <title>Historia geral da invasão dos francezes em Portugal e da restauração deste reino (Volume II)</title>
+      <link>https://www.gutenberg.org/ebooks/79619</link>
+      <description>
+        <![CDATA[Language: Portuguese]]>
+      </description>
+      <source:markdown>Language: Portuguese</source:markdown>
+    </item>    <item>
+      <title>The sewing circle meets at Mrs. Martin&#39;s : by F. M. Kelly</title>
+      <link>https://www.gutenberg.org/ebooks/79621</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Our money and the state by Hartley Withers</title>
       <link>https://www.gutenberg.org/ebooks/79609</link>
       <description>
@@ -17,13 +101,6 @@
     </item>    <item>
       <title>In case of fire by Walter Kellogg Towers</title>
       <link>https://www.gutenberg.org/ebooks/79612</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Woman in music : by George P.  Upton</title>
-      <link>https://www.gutenberg.org/ebooks/79613</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1687,48 +1764,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Tomorrow about this time by Grace Livingston Hill</title>
-      <link>https://www.gutenberg.org/ebooks/79299</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Contes de la chaumière by Octave Mirbeau</title>
-      <link>https://www.gutenberg.org/ebooks/79471</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>La mer glaciale by Wilkie Collins</title>
-      <link>https://www.gutenberg.org/ebooks/79469</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>King Time or the mystical land of the hours : by Percy Keese Fitzhugh</title>
-      <link>https://www.gutenberg.org/ebooks/79473</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Églantine by Jean Giraudoux</title>
-      <link>https://www.gutenberg.org/ebooks/79470</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>In a winter city : by Ouida</title>
-      <link>https://www.gutenberg.org/ebooks/79472</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>

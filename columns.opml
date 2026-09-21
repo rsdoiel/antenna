@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>20 Sep 26 06:41 -0700</dateCreated>
+        <dateCreated>21 Sep 26 06:43 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -288,7 +288,7 @@
         <outline text="Paolo Valdemarin&#39;s blog" type="rss" xmlUrl="https://val.demar.in/feed/" htmlUrl="https://val.demar.in,https://val.demar.in/feed/" description="Paolo Valdemarin&#39;s blog - since 2002" url="https://val.demar.in/feed/"></outline>
         <outline text="Patrick Ruthfuss blog" type="rss" xmlUrl="https://feeds2.feedburner.com/PatrickRothfuss" htmlUrl="https://blog.patrickrothfuss.com,http://blog.patrickrothfuss.com/feed/" description="Author of the Kingkiller Chronicle" url="http://blog.patrickrothfuss.com/feed/"></outline>
         <outline text="Paul Krugman" type="rss" xmlUrl="https://paulkrugman.substack.com/feed" htmlUrl="https://paulkrugman.substack.com,https://paulkrugman.substack.com/feed" description="Notes on economics and more" url="https://paulkrugman.substack.com/feed"></outline>
-        <outline text="Peter Molnar blog" type="rss" xmlUrl="https://petermolnar.net/feed/" htmlUrl="https://petermolnar.net,https://petermolnar.net/feed/index.xml" description="-" url="https://petermolnar.net/feed/index.xml"></outline>
+        <outline text="Peter Molnar blog" type="atom" xmlUrl="https://petermolnar.net/feed/" htmlUrl="https://petermolnar.net/feed/,https://petermolnar.net" url="https://petermolnar.net/feed/"></outline>
         <outline text="Peter Norvig&#39;s feed" type="rss" xmlUrl="http://www.norvig.com/rss-feed.xml" htmlUrl="http://www.norvig.com" description="Articles by Peter Norvig"></outline>
         <outline text="Peter Sefton&#39;s Blog" type="atom" xmlUrl="https://ptsefton.com/feed/atom" htmlUrl="https://ptsefton.com/feed/atom,https://ptsefton.com/" description="Peter (PT) Sefton&#39;s blog -- mostly about research data and archival repositories these days" url="https://ptsefton.com/feed/atom"></outline>
         <outline text="Peter Warden" type="rss" xmlUrl="https://petewarden.com/feed/" htmlUrl="https://petewarden.com,https://petewarden.com/feed/" description="Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." url="https://petewarden.com/feed/"></outline>

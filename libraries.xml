@@ -4,10 +4,31 @@
   <channel>
     <title><![CDATA[GLAM]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>20 Sep 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>21 Sep 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Mental Health Awareness Mondays — Maternal Mental Health: It’s More than Postpartum Depression</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/09/21/mental-health-awareness-mondays-maternal-mental-health-its-more-than-postpartum-depression/</link>
+      <description>
+        <![CDATA[<p>In today’s Mental Health Monday post, Ja’Nya Jenoch, a licensed mental health counselor, professor, author, and health researcher, takes us through the history of maternal mental health, unpacks terms such as postpartum depression and maternal separation anxiety, and explores the complex systems and pressures that shape the experiences of many mothers.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/09/21/mental-health-awareness-mondays-maternal-mental-health-its-more-than-postpartum-depression/">Mental Health Awareness Mondays — Maternal Mental Health: It’s More than Postpartum Depression</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>In today’s Mental Health Monday post, Ja’Nya Jenoch, a licensed mental health counselor, professor, author, and health researcher, takes us through the history of maternal mental health, unpacks terms such as postpartum depression and maternal separation anxiety, and explores the complex systems and pressures that shape the experiences of many mothers.
+
+The post [Mental Health Awareness Mondays — Maternal Mental Health: It’s More than Postpartum Depression](https://scholarlykitchen.sspnet.org/2026/09/21/mental-health-awareness-mondays-maternal-mental-health-its-more-than-postpartum-depression/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62816</guid>
+      <category>Advocacy</category>
+      <category>Mental Health Awareness</category>
+      <category>Organizational Management</category>
+      <category>Social Role</category>
+      <category>diversity equity inclusion and accessibility</category>
+      <category>family leave</category>
+      <category>feminism</category>
+      <category>maternal mental health</category>
+      <category>mental health awareness Mondays</category>
+      <category>postpardum syndrome</category>
+    </item>    <item>
       <title>Urban Libraries Council (ULC) Releases a New Policy Roadmap For Library Leaders: “Future Scenarios: Library Space &#38; Design”</title>
       <link>https://www.infodocket.com/2026/09/18/urban-libraries-council-ulc-releases-a-new-policy-roadmap-for-library-leaders-future-scenarios-library-space-design/</link>
       <description>
@@ -1572,15 +1593,6 @@ The post [We Can Now Track AI-generated Content. It Doesn’t Solve the Real Pro
       <category>intellectual freedom</category>
       <category>privacy protection</category>
       <category>watermarking</category>
-    </item>    <item>
-      <title>AI Search capabilities in Scopus are expanding</title>
-      <link>https://aarontay.substack.com/p/ai-search-capabilities-in-scopus</link>
-      <description>
-        <![CDATA[From LLM-to-Boolean conversion to vector retrieval, filters and query interpretation]]>
-      </description>
-      <source:markdown>From LLM-to-Boolean conversion to vector retrieval, filters and query interpretation</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!M0dt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1731bc3-c62e-4480-ac2b-5a52a304c3cd_1055x1491.png" length="0" type="image/jpeg" />
-      <guid>cid://https://aarontay.substack.com/p/ai-search-capabilities-in-scopus</guid>
     </item>
   </channel>
 </rss>

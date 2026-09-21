@@ -5,10 +5,42 @@
     <title><![CDATA[SoCal North]]></title>
     <description><![CDATA[News and posts related to the greater North Los Angeles and adjacent counties.]]></description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>20 Sep 26 06:30 -0700</lastBuildDate>
+    <lastBuildDate>21 Sep 26 06:30 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>LA County warns of possible measles exposure at Union Station</title>
+      <link>https://laist.com/news/health/county-public-health-los-angeles-union-station-measles-exposure</link>
+      <description>
+        <![CDATA[An unvaccinated passenger passed through the station Sept. 12 before boarding a bus to Bakersfield, part of a trip that touched six California counties.]]>
+      </description>
+      <source:markdown>An unvaccinated passenger passed through the station Sept. 12 before boarding a bus to Bakersfield, part of a trip that touched six California counties.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-bf7d-d48f-a5e9-bfff8d360000</guid>
+    </item>    <item>
+      <title>Sunday Taquitos #33: One of the Good Ones (Plus Bonus Taquito!)</title>
+      <link>https://lataco.com/sunday-taquitos-33-one-of-the-good-ones</link>
+      <description>
+        <![CDATA[<p>Sunday Taquitos! Art by Pulitzer Prize Finalist Ivan Ehlers.</p>
+        <p>The post <a href="https://lataco.com/sunday-taquitos-33-one-of-the-good-ones">Sunday Taquitos #33: One of the Good Ones (Plus Bonus Taquito!)</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
+      </description>
+      <source:markdown>Sunday Taquitos! Art by Pulitzer Prize Finalist Ivan Ehlers.
+
+The post [Sunday Taquitos #33: One of the Good Ones (Plus Bonus Taquito!)](https://lataco.com/sunday-taquitos-33-one-of-the-good-ones) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
+      <guid>cid://https://lataco.com/?p=183639</guid>
+      <category>Art</category>
+      <category>Comix</category>
+      <category>Culture</category>
+      <category>COMICS</category>
+      <category>Sunday Taquitos</category>
+    </item>    <item>
+      <title>California accounts for 1 in 4 ICE arrests of Asian immigrants, new tracker finds</title>
+      <link>https://laist.com/news/california-asian-immigrant-ice-arrests-deportations-detentions</link>
+      <description>
+        <![CDATA[The tracker from Stop AAPI Hate saw a surge in arrests and deportations in the arrest of people from Asian countries.]]>
+      </description>
+      <source:markdown>The tracker from Stop AAPI Hate saw a surge in arrests and deportations in the arrest of people from Asian countries.</source:markdown>
+      <guid>cid://urn:uuid:000001a0-b575-d355-a1fa-bf77c34b0000</guid>
+    </item>    <item>
       <title>A pianist off-roads a Steinway into Griffith Park for an outdoor concert</title>
       <link>https://laist.com/news/los-angeles-activities/pianist-steinway-griffith-park-outdoor-concert</link>
       <description>
@@ -24,14 +56,6 @@
       </description>
       <source:markdown>Long Beach is embarking on its biggest street redevelopment yet, reshaping over five miles of Studebaker Road into bike friendly lanes with other improvements.</source:markdown>
       <guid>cid://urn:uuid:000001a0-ba94-d05e-afe0-fa96e24e0000</guid>
-    </item>    <item>
-      <title>California accounts for 1 in 4 ICE arrests of Asian immigrants, new tracker finds</title>
-      <link>https://laist.com/news/california-asian-immigrant-ice-arrests-deportations-detentions</link>
-      <description>
-        <![CDATA[The tracker from Stop AAPI Hate saw a surge in arrests and deportations in the arrest of people from Asian countries.]]>
-      </description>
-      <source:markdown>The tracker from Stop AAPI Hate saw a surge in arrests and deportations in the arrest of people from Asian countries.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-b575-d355-a1fa-bf77c34b0000</guid>
     </item>    <item>
       <title>Taft Had No Answer for La Salle’s High-Powered Offense in 48-13 Loss</title>
       <link>https://sanfernandosun.com/2026/09/19/taft-had-no-answer-for-la-salles-high-powered-offense-in-48-13-loss/</link>
@@ -768,7 +792,7 @@ The post [Applications Now Open for 2027 Community Services and Arts Grants](htt
       <source:markdown>Thousands of homes survived last year’s L.A. fires, but were covered in toxic residue. Gov. Gavin Newsom has signed laws setting new rules for smoke damage cleanup.</source:markdown>
       <guid>cid://urn:uuid:000001a0-a6e6-d4cf-affa-aefe2f150001</guid>
     </item>    <item>
-      <title>Metro says Olympics transit could fall on LA28 if federal money doesn’t come in soon</title>
+      <title>Metro says it can&#39;t deploy LA Olympic buses without federal funding guarantee by year&#39;s end</title>
       <link>https://laist.com/news/transportation/metro-olympics-transit-costs-la28-federal-money</link>
       <description>
         <![CDATA[Metro has a plan to deploy 1,750 additional buses for the Olympics and Paralympics. But that requires $1 billion in federal funds that hasn’t come through.]]>
@@ -2871,46 +2895,6 @@ The post [Police Video Shows LAPD Beat Handcuffed Man in Van Nuys Jail Before Hi
       </description>
       <source:markdown>Police officials say the request for $30M would help temporarily expand the department&#39;s fleet during 2028 Games. Councilmembers questioned why the city should cover the cost.</source:markdown>
       <guid>cid://urn:uuid:000001a0-4937-d6d6-a9f1-6d773e2c0000</guid>
-    </item>    <item>
-      <title>&#39;A glorious dawn launch&#39;: NASA&#39;s newest space telescope has left the Earth</title>
-      <link>https://laist.com/news/a-glorious-dawn-launch-nasas-newest-space-telescope-has-left-the-earth</link>
-      <description>
-        <![CDATA[The tour-bus-sized telescope aims to unravel cosmic mysteries and identify more than 100,000 planets beyond our solar system.]]>
-      </description>
-      <source:markdown>The tour-bus-sized telescope aims to unravel cosmic mysteries and identify more than 100,000 planets beyond our solar system.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-5335-d153-aded-77bf8e220000</guid>
-    </item>    <item>
-      <title>California lawmakers strike wildfire deal that leaves out most of Newsom’s big demands</title>
-      <link>https://laist.com/news/california-lawmakers-strike-wildfire-deal-that-leaves-out-most-of-newsoms-big-demands</link>
-      <description>
-        <![CDATA[Gov. Gavin Newsom backed off his plans to ease costs for utilities following wildfires they cause, striking a narrower deal with Democratic lawmakers.]]>
-      </description>
-      <source:markdown>Gov. Gavin Newsom backed off his plans to ease costs for utilities following wildfires they cause, striking a narrower deal with Democratic lawmakers.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-52dc-d153-aded-77de24410000</guid>
-    </item>    <item>
-      <title>From opposed bingo hall to blockbuster casino: 40 years of Yaamava’ tribal gaming</title>
-      <link>https://laist.com/news/la-history/san-bernardino-county-yuhaaviatam-anniversary-yaamava-tribal-gaming</link>
-      <description>
-        <![CDATA[The tribe’s popular gaming enterprise started out as a bingo hall in the ‘80s. It faced opposition from the start.]]>
-      </description>
-      <source:markdown>The tribe’s popular gaming enterprise started out as a bingo hall in the ‘80s. It faced opposition from the start.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-268c-d18e-a7a1-7f8cf2250000</guid>
-    </item>    <item>
-      <title>The music of ‘Hey Arnold!’ stuck with &#39;90s kids. Now it’s going on tour</title>
-      <link>https://laist.com/news/arts-and-entertainment/hey-arnold-nickelodeon-music-tour</link>
-      <description>
-        <![CDATA[For many millennials, '90s Nickelodeon shows represent a golden age of animation, with music often just as weird and offbeat as the characters.]]>
-      </description>
-      <source:markdown>For many millennials, &#39;90s Nickelodeon shows represent a golden age of animation, with music often just as weird and offbeat as the characters.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-4a10-d153-aded-6f9e895b0000</guid>
-    </item>    <item>
-      <title>Lineage finishes food waste removal at Boyle Heights warehouse</title>
-      <link>https://laist.com/news/lineage-finishes-food-waste-removal-at-boyle-heights-warehouse</link>
-      <description>
-        <![CDATA[The company now has seven days to complete cleanup, including removing debris and disinfecting certain areas.]]>
-      </description>
-      <source:markdown>The company now has seven days to complete cleanup, including removing debris and disinfecting certain areas.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-500d-d153-aded-759fbac90000</guid>
     </item>
   </channel>
 </rss>
