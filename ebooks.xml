@@ -4,11 +4,123 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>21 Sep 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>22 Sep 26 07:03 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Woman in music : by George P.  Upton</title>
+      <title>Notes from the Underground by Fyodor Dostoyevsky</title>
+      <link>https://www.gutenberg.org/ebooks/600</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Grand Inquisitor by Fyodor Dostoyevsky</title>
+      <link>https://www.gutenberg.org/ebooks/8578</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Crime and Punishment by Fyodor Dostoyevsky</title>
+      <link>https://www.gutenberg.org/ebooks/2554</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The possessed : by Fyodor Dostoyevsky</title>
+      <link>https://www.gutenberg.org/ebooks/8117</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Idiot by Fyodor Dostoyevsky</title>
+      <link>https://www.gutenberg.org/ebooks/2638</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Gambler by Fyodor Dostoyevsky</title>
+      <link>https://www.gutenberg.org/ebooks/2197</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Poor Folk by Fyodor Dostoyevsky</title>
+      <link>https://www.gutenberg.org/ebooks/2302</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Neptune speaks by Frank Richardson Pierce</title>
+      <link>https://www.gutenberg.org/ebooks/79623</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>In the town : by Douglas Goldring</title>
+      <link>https://www.gutenberg.org/ebooks/79630</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Murder of Delicia</title>
+      <link>https://www.gutenberg.org/ebooks/53097</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Voyage du Bornou au Baguirmi by Gustav Nachtigal</title>
+      <link>https://www.gutenberg.org/ebooks/79625</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Narrative of the surveying voyages of His Majesty&#39;s Ships Adventure and Beagle, Vol. 3 [of 3]</title>
+      <link>https://www.gutenberg.org/ebooks/79628</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A history of the American people, Vol. 4 [of 5] : by Woodrow Wilson</title>
+      <link>https://www.gutenberg.org/ebooks/79629</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Poems by Elizabeth Bibesco</title>
+      <link>https://www.gutenberg.org/ebooks/79624</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The confessions of a dancing girl by Anonymous</title>
+      <link>https://www.gutenberg.org/ebooks/79627</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A social mirage by Mrs. Frank Leslie</title>
+      <link>https://www.gutenberg.org/ebooks/79626</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Woman in music by George P.  Upton</title>
       <link>https://www.gutenberg.org/ebooks/79613</link>
       <description>
         <![CDATA[Language: English]]>
@@ -50,7 +162,7 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>Histoire maccaronique de Merlin Coccaie by Teofilo Folengo</title>
+      <title>Histoire maccaronique de Merlin Coccaie [pseudonym] : by Teofilo Folengo</title>
       <link>https://www.gutenberg.org/ebooks/79618</link>
       <description>
         <![CDATA[Language: French]]>
@@ -1736,34 +1848,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Blue Jackets : by William Henry Giles Kingston</title>
-      <link>https://www.gutenberg.org/ebooks/79475</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Towards democracy by Edward Carpenter</title>
-      <link>https://www.gutenberg.org/ebooks/79477</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The bright doom : by John Hall Wheelock</title>
-      <link>https://www.gutenberg.org/ebooks/79476</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>La science mystérieuse des Pharaons by Théophile Moreux</title>
-      <link>https://www.gutenberg.org/ebooks/79474</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
     </item>
   </channel>
 </rss>
