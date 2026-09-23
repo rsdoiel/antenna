@@ -4,10 +4,80 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>22 Sep 26 07:03 -0700</lastBuildDate>
+    <lastBuildDate>23 Sep 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A Journey into the Interior of the Earth by Jules Verne</title>
+      <link>https://www.gutenberg.org/ebooks/3748</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>In the town : by Douglas Goldring</title>
+      <link>https://www.gutenberg.org/ebooks/79630</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A history of the American people, Vol. 4 [of 5] : by Woodrow Wilson</title>
+      <link>https://www.gutenberg.org/ebooks/79629</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A six-hour shift by William McFee</title>
+      <link>https://www.gutenberg.org/ebooks/79633</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A history of the American people, Vol. 5 [of 5] : by Woodrow Wilson</title>
+      <link>https://www.gutenberg.org/ebooks/79634</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Psycho-analysis : by William J.  Fielding</title>
+      <link>https://www.gutenberg.org/ebooks/79631</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The origin of the family, private property, and the state by Friedrich Engels</title>
+      <link>https://www.gutenberg.org/ebooks/33111</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Space rays by Jr.  John W. Campbell</title>
+      <link>https://www.gutenberg.org/ebooks/79635</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Le collier d&#39;acier by Fortuné Du Boisgobey</title>
+      <link>https://www.gutenberg.org/ebooks/79632</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Mr. Mulliner speaking by P. G.  Wodehouse</title>
+      <link>https://www.gutenberg.org/ebooks/79636</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Notes from the Underground by Fyodor Dostoyevsky</title>
       <link>https://www.gutenberg.org/ebooks/600</link>
       <description>
@@ -64,13 +134,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>In the town : by Douglas Goldring</title>
-      <link>https://www.gutenberg.org/ebooks/79630</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>The Murder of Delicia</title>
       <link>https://www.gutenberg.org/ebooks/53097</link>
       <description>
@@ -87,13 +150,6 @@
     </item>    <item>
       <title>Narrative of the surveying voyages of His Majesty&#39;s Ships Adventure and Beagle, Vol. 3 [of 3]</title>
       <link>https://www.gutenberg.org/ebooks/79628</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A history of the American people, Vol. 4 [of 5] : by Woodrow Wilson</title>
-      <link>https://www.gutenberg.org/ebooks/79629</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1697,153 +1753,6 @@
     </item>    <item>
       <title>An essay on the slave trade by Grímur Jónsson Thorkelín</title>
       <link>https://www.gutenberg.org/ebooks/79495</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Works of Edgar Allan Poe — Volume 2 by Edgar Allan Poe</title>
-      <link>https://www.gutenberg.org/ebooks/2148</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Works of Edgar Allan Poe — Volume 5 by Edgar Allan Poe</title>
-      <link>https://www.gutenberg.org/ebooks/2151</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Works of Edgar Allan Poe — Volume 1 by Edgar Allan Poe</title>
-      <link>https://www.gutenberg.org/ebooks/2147</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Works of Edgar Allan Poe, Volume 1 by Edgar Allan Poe</title>
-      <link>https://www.gutenberg.org/ebooks/9512</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Works of Edgar Allan Poe — Volume 3 by Edgar Allan Poe</title>
-      <link>https://www.gutenberg.org/ebooks/2149</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Works of Edgar Allan Poe, Volume 4 by Edgar Allan Poe</title>
-      <link>https://www.gutenberg.org/ebooks/9515</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Works of Edgar Allan Poe, Volume 2 by Edgar Allan Poe</title>
-      <link>https://www.gutenberg.org/ebooks/9513</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Works of Edgar Allan Poe — Volume 4 by Edgar Allan Poe</title>
-      <link>https://www.gutenberg.org/ebooks/2150</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>In the shadows by David Gray</title>
-      <link>https://www.gutenberg.org/ebooks/79488</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Le meneur de louves by Rachilde</title>
-      <link>https://www.gutenberg.org/ebooks/79484</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>The wife&#39;s secret by Ann S.  Stephens</title>
-      <link>https://www.gutenberg.org/ebooks/79478</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Narrative of the surveying voyages of His Majesty&#39;s ships Adventure and Beagle, between the years 18</title>
-      <link>https://www.gutenberg.org/ebooks/79486</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Blunder enlightening by Dave Dryfoos</title>
-      <link>https://www.gutenberg.org/ebooks/79483</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Death in Venice by Thomas Mann</title>
-      <link>https://www.gutenberg.org/ebooks/66073</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Criquet by Andrée Viollis</title>
-      <link>https://www.gutenberg.org/ebooks/79479</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Fish talk by Winston K.  Marks</title>
-      <link>https://www.gutenberg.org/ebooks/79487</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Simon le pathétique by Jean Giraudoux</title>
-      <link>https://www.gutenberg.org/ebooks/79485</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>An Illustrated Dictionary of Words used in Art and Archaeology by John W.  Mollett</title>
-      <link>https://www.gutenberg.org/ebooks/67629</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Extra-galactic nebulae by Edwin Hubble</title>
-      <link>https://www.gutenberg.org/ebooks/68428</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The American shotgun by Charles Askins</title>
-      <link>https://www.gutenberg.org/ebooks/79480</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Final report of the Pennsylvania Chestnut Tree Blight Commission</title>
-      <link>https://www.gutenberg.org/ebooks/79481</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
