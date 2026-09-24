@@ -4,10 +4,238 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>23 Sep 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>24 Sep 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/</link>
+      <description>
+        <![CDATA[A warped Manhattan is waiting in the cloud this week. Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch. With the release comes the final days of the CONTROL Resonant Ultimate Membership Bundle. Purchase a 12-month GeForce NOW Ultimate membership through Sunday, Sept. 27, and receive [&#8230;]]]>
+      </description>
+      <source:markdown>A warped Manhattan is waiting in the cloud this week. Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch. With the release comes the final days of the CONTROL Resonant Ultimate Membership Bundle. Purchase a 12-month GeForce NOW Ultimate membership through Sunday, Sept. 27, and receive \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=98480</guid>
+      <category>Gaming</category>
+      <category>Cloud Gaming</category>
+      <category>GeForce NOW</category>
+    </item>    <item>
+      <title>A Metal Detectorist Exploring a Field in Germany Was Stunned to Discover a Massive Hoard of Roman Coins</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-metal-detectorist-exploring-a-field-in-germany-was-stunned-to-discover-a-massive-hoard-of-roman-coins-180989561/</link>
+      <description>
+        <![CDATA[Together, the 943 silver denarii span nearly 300 years of Roman history, from 148 B.C.E. to 124 or 125 C.E.]]>
+      </description>
+      <source:markdown>Together, the 943 silver denarii span nearly 300 years of Roman history, from 148 B.C.E. to 124 or 125 C.E.</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/zuZ5F8YeFnIRdSekr7R0iy-ZMig=/420x240/filters:focal(3089x2059:3090x2060)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dc/cc/dccc6636-887e-4221-8326-4dd6c36ba473/lvr-abr-roemischer-muenzschatz-wesseling-domitian.jpg" length="2017159" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-metal-detectorist-exploring-a-field-in-germany-was-stunned-to-discover-a-massive-hoard-of-roman-coins-180989561/</guid>
+    </item>    <item>
+      <title>APOD: 2026 September 24 – The Ghosts of Five Supernovas</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 September 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The Ghosts [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 September 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The Ghosts \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/</guid>
+      <category>APOD</category>
+    </item>    <item>
+      <title>Cloudy Cloak Over the Northwest</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/</link>
+      <description>
+        <![CDATA[A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall.]]>
+      </description>
+      <source:markdown>A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/</guid>
+      <category>Clouds</category>
+      <category>Earth Observatory</category>
+      <category>Moderate Resolution Imaging Spectroradiometer (MODIS)</category>
+    </item>    <item>
+      <title>The state of scrollbars in Windows makes even longtime Microsoft engineers sad</title>
+      <link>https://www.osnews.com/story/146018/the-state-of-scrollbars-in-windows-makes-even-longtime-microsoft-engineers-sad/</link>
+      <description>
+        <![CDATA[Raymond Chen, longtime Microsoft employee and author of the very popular The Old New Thing blog, published an interesting post about the Win32 scrollbar. It turns out there&#8217;s actually quite a few interesting shortcuts and useful hidden features, like clicking inside a scrollbar while holding down shift will make the content jump to that point. Halfway through the article, though, Chen laments how nobody really uses proper Win32 scrollbars anymore. Sadly, almost nobody uses Win32 scroll bars any more. Everybody uses frameworks that provide their own custom scroll bars. ↫ Raymond Chen And as you might expect, none of these scrollbars work like the Win32 one, making even something as basic as the scrollbar a fragmented mess. He doesn&#8217;t just blame things like Electron, either, as Microsoft&#8217;s own WinUI framework, which is used for most &#8220;new&#8221; Windows UI developed by Microsoft for Windows 11, also uses custom scrollbars that do not work like the Win32 one does. Great, so by the time I learn about a shortcut for scroll bars (Shift+click), the ecosystem has fragmented so much that I can’t even rely on it working. ↫ Raymond Chen Modern computing is depressing.]]>
+      </description>
+      <source:markdown>Raymond Chen, longtime Microsoft employee and author of the very popular The Old New Thing blog, published an interesting post about the Win32 scrollbar. It turns out there’s actually quite a few interesting shortcuts and useful hidden features, like clicking inside a scrollbar while holding down shift will make the content jump to that point. Halfway through the article, though, Chen laments how nobody really uses proper Win32 scrollbars anymore. Sadly, almost nobody uses Win32 scroll bars any more. Everybody uses frameworks that provide their own custom scroll bars. ↫ Raymond Chen And as you might expect, none of these scrollbars work like the Win32 one, making even something as basic as the scrollbar a fragmented mess. He doesn’t just blame things like Electron, either, as Microsoft’s own WinUI framework, which is used for most “new” Windows UI developed by Microsoft for Windows 11, also uses custom scrollbars that do not work like the Win32 one does. Great, so by the time I learn about a shortcut for scroll bars (Shift+click), the ecosystem has fragmented so much that I can’t even rely on it working. ↫ Raymond Chen Modern computing is depressing.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146018</guid>
+      <category>Windows</category>
+    </item>    <item>
+      <title>Thunderbird Monthly Development Digest: September 2026</title>
+      <link>https://blog.thunderbird.net/2026/09/thunderbird-monthly-development-digest-september-2026/</link>
+      <description>
+        <![CDATA[<p>Greetings once more from the Thunderbird development team! As the Northern hemisphere summer comes to an end and a slew of PTO, company holidays and projects have wrapped up, what better time to share progress and next steps on the work the Thunderbird Desktop Engineering team has on their plates!? Exchange support moving well The [&#8230;]</p>
+        <p>The post <a href="https://blog.thunderbird.net/2026/09/thunderbird-monthly-development-digest-september-2026/">Thunderbird Monthly Development Digest: September 2026</a> appeared first on <a href="https://blog.thunderbird.net">The Thunderbird Blog</a>.</p>]]>
+      </description>
+      <source:markdown>Greetings once more from the Thunderbird development team! As the Northern hemisphere summer comes to an end and a slew of PTO, company holidays and projects have wrapped up, what better time to share progress and next steps on the work the Thunderbird Desktop Engineering team has on their plates!? Exchange support moving well The \[…\]
+
+The post [Thunderbird Monthly Development Digest: September 2026](https://blog.thunderbird.net/2026/09/thunderbird-monthly-development-digest-september-2026/) appeared first on [The Thunderbird Blog](https://blog.thunderbird.net).</source:markdown>
+      <guid>cid://https://blog.thunderbird.net/?p=4621</guid>
+      <category>Thunderbird</category>
+      <category>Calendar</category>
+      <category>Development Digest</category>
+    </item>    <item>
+      <title>NASA Modernizes Commercial Airline Systems</title>
+      <link>https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/</link>
+      <description>
+        <![CDATA[NASA’s researchers know that when you settle into your seat on a commercial flight, you expect a smooth takeoff, views over the clouds, a steady descent, and hopefully an early arrival at your destination. But when your flight gets delayed on the tarmac instead of lifting off, or it ends up in a holding pattern [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s researchers know that when you settle into your seat on a commercial flight, you expect a smooth takeoff, views over the clouds, a steady descent, and hopefully an early arrival at your destination. But when your flight gets delayed on the tarmac instead of lifting off, or it ends up in a holding pattern \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1049637</guid>
+      <category>Airspace Operations and Safety Program</category>
+      <category>Aeronautics</category>
+      <category>Air Traffic Management and Safety</category>
+      <category>Air Traffic Solutions</category>
+      <category>Ames Research Center</category>
+      <category>Research and Technology Mission Directorate</category>
+    </item>    <item>
+      <title>Solaris 11.4 SRU95 released</title>
+      <link>https://www.osnews.com/story/146016/solaris-11-4-sru95-released/</link>
+      <description>
+        <![CDATA[The Solaris branch for paying customers has been updated to SRU95. Oracle Solaris 11.4 SRU95 updates a broad set of platform, runtime, developer, networking, desktop, and open source components. Notable updates include Ansible Core to 2.21.1, Apache HTTP Server to 2.4.67, Apache Tomcat to 9.0.120, BIND to 9.20.23, Django to 5.2.15, Elixir to 1.20.1, Erlang to 28.5.0.2, Firefox to 140.10.0esr, Go to 1.25.11, ImageMagick to 7.1.2-27, MySQL 8.4 to 8.4.10, NSS to 3.125, OpenSSH to 10.4p1, Rust to 1.96.0, SQLite to 3.53.2, Thunderbird to 140.10.0esr, and Vim to 9.2.0513. Additional updates include CMake, CUPS, Cython, GnuTLS, libarchive, libexpat, pip, rsync, and a range of Python modules, X11 libraries, graphics libraries, printing components, and desktop utilities. ↫ Colin Kavanagh at the Oracle Solaris Blog One of the major changes is the deprecation and removal of NTLM authentication of local users; only NTLMv2 is supported now for security reasons. This release also brings GCC 16, with GCC 13 being removed in the next version. The detailed release notes go into some of the more low-level, esoteric changes in Solaris 11.4 SRU 95.]]>
+      </description>
+      <source:markdown>The Solaris branch for paying customers has been updated to SRU95. Oracle Solaris 11.4 SRU95 updates a broad set of platform, runtime, developer, networking, desktop, and open source components. Notable updates include Ansible Core to 2.21.1, Apache HTTP Server to 2.4.67, Apache Tomcat to 9.0.120, BIND to 9.20.23, Django to 5.2.15, Elixir to 1.20.1, Erlang to 28.5.0.2, Firefox to 140.10.0esr, Go to 1.25.11, ImageMagick to 7.1.2-27, MySQL 8.4 to 8.4.10, NSS to 3.125, OpenSSH to 10.4p1, Rust to 1.96.0, SQLite to 3.53.2, Thunderbird to 140.10.0esr, and Vim to 9.2.0513. Additional updates include CMake, CUPS, Cython, GnuTLS, libarchive, libexpat, pip, rsync, and a range of Python modules, X11 libraries, graphics libraries, printing components, and desktop utilities. ↫ Colin Kavanagh at the Oracle Solaris Blog One of the major changes is the deprecation and removal of NTLM authentication of local users; only NTLMv2 is supported now for security reasons. This release also brings GCC 16, with GCC 13 being removed in the next version. The detailed release notes go into some of the more low-level, esoteric changes in Solaris 11.4 SRU 95.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146016</guid>
+      <category>Solaris</category>
+    </item>    <item>
+      <title>NASA Welcomes Croatia as Newest Artemis Accords Signatory</title>
+      <link>https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/</link>
+      <description>
+        <![CDATA[The Republic of Croatia became the 74th signatory to the Artemis Accords on Wednesday during a ceremony in the capital city of Zagreb with NASA and U.S. Department of State officials present. “It is my privilege to welcome the Republic of Croatia as the latest signatory of the Artemis Accords,” said NASA Deputy Matt Anderson [&#8230;]]]>
+      </description>
+      <source:markdown>The Republic of Croatia became the 74th signatory to the Artemis Accords on Wednesday during a ceremony in the capital city of Zagreb with NASA and U.S. Department of State officials present. “It is my privilege to welcome the Republic of Croatia as the latest signatory of the Artemis Accords,” said NASA Deputy Matt Anderson \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1049853</guid>
+      <category>Artemis Accords</category>
+      <category>General</category>
+      <category>Office of International and Interagency Relations (OIIR)</category>
+    </item>    <item>
+      <title>This Cubist Painting With a Mysterious Provenance Hung in the Art Institute of Chicago for Decades. Now, the Museum Will Return It to Its Rightful Jewish Heirs</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-cubist-painting-with-a-mysterious-provenance-hung-in-the-art-institute-of-chicago-for-decades-now-the-museum-will-return-it-to-its-rightful-jewish-heirs-180989553/</link>
+      <description>
+        <![CDATA[Infrared imaging links the 20th-century Jean Metzinger work to a collector whose pieces were forcibly auctioned under Nazi orders during World War II]]>
+      </description>
+      <source:markdown>Infrared imaging links the 20th-century Jean Metzinger work to a collector whose pieces were forcibly auctioned under Nazi orders during World War II</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/J2TUeAbTqAeXOi41KfYYVGVczKU=/420x240/filters:focal(422x602:423x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4a/03/4a03cf6c-55a2-4e7a-8b5a-6fdcacc385aa/default_3.jpg" length="339667" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-cubist-painting-with-a-mysterious-provenance-hung-in-the-art-institute-of-chicago-for-decades-now-the-museum-will-return-it-to-its-rightful-jewish-heirs-180989553/</guid>
+    </item>    <item>
+      <title>NASA Selects Far-Infrared Telescope as First in New Mission Class</title>
+      <link>https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/</link>
+      <description>
+        <![CDATA[NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. “The PRIMA mission is [&#8230;]]]>
+      </description>
+      <source:markdown>NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. “The PRIMA mission is \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1049864</guid>
+      <category>Astrophysics</category>
+      <category>Astrophysics Division</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Jet Propulsion Laboratory</category>
+      <category>Marshall Space Flight Center</category>
+      <category>Science Mission Directorate</category>
+    </item>    <item>
+      <title>NASA Aircraft to Make Low-Altitude Research Flights Over Colorado</title>
+      <link>https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/</link>
+      <description>
+        <![CDATA[Agricultural emissions represent an important and understudied&#160;part of Earth’s land and atmosphere systems.&#160;The&#160;FarmFlux&#160;mission will&#160;deploy more than a dozen sensors to&#160;measure ozone, methane, ammonia,&#160;particulates, and other pollutants rising from agricultural lands and animal farms and the interaction with the Earth’s atmosphere. The mission is jointly led by NASA’s Goddard Space Flight Center in Greenbelt, Maryland; Colorado [&#8230;]]]>
+      </description>
+      <source:markdown>Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. The FarmFlux mission will deploy more than a dozen sensors to measure ozone, methane, ammonia, particulates, and other pollutants rising from agricultural lands and animal farms and the interaction with the Earth’s atmosphere. The mission is jointly led by NASA’s Goddard Space Flight Center in Greenbelt, Maryland; Colorado \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1049685</guid>
+      <category>General</category>
+      <category>Ames Research Center</category>
+    </item>    <item>
+      <title>NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova</title>
+      <link>https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/</link>
+      <description>
+        <![CDATA[NASA’s Hubble Space Telescope captured this image of massive galaxy cluster MACS J0417 (left of center) on Sept. 19, 2026. This galaxy cluster acts as a gravitational lens, bending and magnifying light from objects far behind it. Supernova Athena, discovered by NASA’s James Webb Space Telescope in 2025, is predicted to reappear between now and [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s Hubble Space Telescope captured this image of massive galaxy cluster MACS J0417 (left of center) on Sept. 19, 2026. This galaxy cluster acts as a gravitational lens, bending and magnifying light from objects far behind it. Supernova Athena, discovered by NASA’s James Webb Space Telescope in 2025, is predicted to reappear between now and \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1049709</guid>
+    </item>    <item>
+      <title>Researchers in Turkey Have Unearthed an Ancient Fragment Inscribed With the World’s Oldest Peace Treaty</title>
+      <link>https://www.smithsonianmag.com/smart-news/researchers-in-turkey-have-unearthed-an-ancient-fragment-inscribed-with-the-worlds-oldest-peace-treaty-180989554/</link>
+      <description>
+        <![CDATA[The piece of a clay tablet is marked with Akkadian cuneiform, and its text belongs to the Kadesh Peace Treaty, created by ancient Egyptians and Hittites in the 13th century B.C.E.]]>
+      </description>
+      <source:markdown>The piece of a clay tablet is marked with Akkadian cuneiform, and its text belongs to the Kadesh Peace Treaty, created by ancient Egyptians and Hittites in the 13th century B.C.E.</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/5DqSL_IvdDf1VMPUfZzgmHtuN6g=/420x240/filters:focal(500x338:501x339)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/22/0c/220c941c-e8a9-4eac-92d3-8ce7335fbb7d/515659-490ebdfb5c70cef8586e27ab5fe2e5eee7529cf2-0.jpeg" length="370887" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/researchers-in-turkey-have-unearthed-an-ancient-fragment-inscribed-with-the-worlds-oldest-peace-treaty-180989554/</guid>
+    </item>    <item>
+      <title>An Otter Just Returned to New York City&#39;s Bronx River for the First Time in a Century. Now, You Can Help Name It</title>
+      <link>https://www.smithsonianmag.com/smart-news/an-otter-just-returned-to-new-york-citys-bronx-river-for-the-first-time-in-a-century-now-you-can-help-name-it-180989556/</link>
+      <description>
+        <![CDATA[A trail camera photographed the animal earlier this summer, offering a hopeful sign that the once-polluted urban waterway is recovering after decades of restoration work]]>
+      </description>
+      <source:markdown>A trail camera photographed the animal earlier this summer, offering a hopeful sign that the once-polluted urban waterway is recovering after decades of restoration work</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Qx4hb_Ky6DVvTGwLecS_0Dlhd-A=/420x240/filters:focal(600x314:601x315)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/22/4b22b57d-d095-4913-9311-8d798aaf8ae9/river_otter_camera_trap_2.jpg" length="134273" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/an-otter-just-returned-to-new-york-citys-bronx-river-for-the-first-time-in-a-century-now-you-can-help-name-it-180989556/</guid>
+    </item>    <item>
+      <title>Arctic Sea Ice Reaches 2026 Annual Minimum Extent</title>
+      <link>https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/</link>
+      <description>
+        <![CDATA[Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder. The ice covered an estimated 1.78 million square miles (4.6 million square kilometers), tying 2008, 2010, and 2025 for the 10th-lowest minimum in the satellite record. […]]]>
+      </description>
+      <source:markdown>Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder. The ice covered an estimated 1.78 million square miles (4.6 million square kilometers), tying 2008, 2010, and 2025 for the 10th-lowest minimum in the satellite record. \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/</guid>
+      <category>Earth</category>
+      <category>Sea Ice</category>
+      <category>Uncategorized</category>
+    </item>    <item>
+      <title>From Boosting Mental Health to Reducing Dementia Risk, Here&#39;s Why Reading Is Extremely Good for You, According to Science</title>
+      <link>https://www.smithsonianmag.com/smart-news/from-boosting-mental-health-to-reducing-dementia-risk-heres-why-reading-is-extremely-good-for-you-according-to-science-180989548/</link>
+      <description>
+        <![CDATA[Mounting evidence suggests that regularly cozying up with a book can increase brain and mental health, improve literacy and math skills, and even slow cognitive decline. What's more, fiction seems to have the added benefit of introducing readers to others' perspectives]]>
+      </description>
+      <source:markdown>Mounting evidence suggests that regularly cozying up with a book can increase brain and mental health, improve literacy and math skills, and even slow cognitive decline. What&#39;s more, fiction seems to have the added benefit of introducing readers to others&#39; perspectives</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/5dDnrHvCPyZwccxr2iHYN4QgelA=/420x240/filters:focal(2138x1437:2139x1438)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6d/8c/6d8ca4da-2fc4-4af9-85a5-722d51698ba4/head-shot-brunette-lying-bed-reading-book.jpg" length="15517536" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/from-boosting-mental-health-to-reducing-dementia-risk-heres-why-reading-is-extremely-good-for-you-according-to-science-180989548/</guid>
+    </item>    <item>
+      <title>Shannon Lucid’s Record-Setting Mission Aboard Mir</title>
+      <link>https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/</link>
+      <description>
+        <![CDATA[Shannon Lucid’s Record-Setting Mission Aboard Mir&#160; Three days before returning to Earth, Shannon W. Lucid—who joined NASA in 1978 as one of its first six female astronauts—checked in on wheat growing in the Svet greenhouse aboard the Russian space station Mir. For six months, Lucid lived and worked alongside two Russian cosmonauts conducting life science [&#8230;]]]>
+      </description>
+      <source:markdown>Shannon Lucid’s Record-Setting Mission Aboard Mir  Three days before returning to Earth, Shannon W. Lucid—who joined NASA in 1978 as one of its first six female astronauts—checked in on wheat growing in the Svet greenhouse aboard the Russian space station Mir. For six months, Lucid lived and worked alongside two Russian cosmonauts conducting life science \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1049689</guid>
+      <category>NASA History</category>
+      <category>Shannon W. Lucid</category>
+      <category>Shuttle-Mir</category>
+      <category>STS-79</category>
+    </item>    <item>
+      <title>Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/</link>
+      <description>
+        <![CDATA[When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. “Validation engineers look in the shadows and shine a light into every corner,” Fiza said. “Every time we get a system, our first thought is: how can it [&#8230;]]]>
+      </description>
+      <source:markdown>When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. “Validation engineers look in the shadows and shine a light into every corner,” Fiza said. “Every time we get a system, our first thought is: how can it \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=98468</guid>
+      <category>AI Infrastructure</category>
+      <category>Hardware</category>
+      <category>NVIDIA Life</category>
+      <category>NVIDIA Rubin</category>
+    </item>    <item>
+      <title>FFA 2026 Hyperwall Schedule</title>
+      <link>https://science.nasa.gov/earth/ffa-2026-hyperwall-schedule/</link>
+      <description>
+        <![CDATA[FFA 2026 Hyperwall Schedule]]>
+      </description>
+      <source:markdown>FFA 2026 Hyperwall Schedule</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/ffa-2026-hyperwall-schedule/</guid>
+    </item>    <item>
+      <title>Biology Might Not Be Quantum, but Its Math Is Quantumlike</title>
+      <link>https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/</link>
+      <description>
+        <![CDATA[Scientists have a history of trying — and failing — to link biology and quantum mechanics. The real connection between them may be in the math.            <p>The post <a href="https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/" target="_blank">Biology Might Not Be Quantum, but Its Math Is Quantumlike</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Scientists have a history of trying — and failing — to link biology and quantum mechanics. The real connection between them may be in the math.
+
+The post [Biology Might Not Be Quantum, but Its Math Is Quantumlike](https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=167361</guid>
+      <category>Physics</category>
+    </item>    <item>
+      <title>Meet Bubbles, a Dolphin in Australia That Chases Fish Until They Barf—Then Eats Their Upchucked Meals</title>
+      <link>https://www.smithsonianmag.com/smart-news/meet-bubbles-a-dolphin-in-australia-that-chases-fish-until-they-barf-then-eats-their-upchucked-meals-180989547/</link>
+      <description>
+        <![CDATA[Scientists recorded 11 instances of Bubbles successfully snacking this way. They mark some of the first detailed observations of kleptoparasitism, or food stealing, in cetaceans, the group of marine mammals that includes dolphins, whales and porpoises]]>
+      </description>
+      <source:markdown>Scientists recorded 11 instances of Bubbles successfully snacking this way. They mark some of the first detailed observations of kleptoparasitism, or food stealing, in cetaceans, the group of marine mammals that includes dolphins, whales and porpoises</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/lbCxiqblHupowunVdW2lV9DtjJg=/420x240/filters:focal(1200x800:1201x801)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a8/a5/a8a5e093-276c-42c5-b311-5439a069f9c0/bubbles-lei-tracyolive.jpg" length="3861241" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/meet-bubbles-a-dolphin-in-australia-that-chases-fish-until-they-barf-then-eats-their-upchucked-meals-180989547/</guid>
+    </item>    <item>
       <title>Experience the Wonder of Birds With These 11 Winning Photos From the Bird Photographer of the Year Contest</title>
       <link>https://www.smithsonianmag.com/smart-news/experience-the-wonder-of-birds-with-these-11-winning-photos-from-the-bird-photographer-of-the-year-contest-180989552/</link>
       <description>
@@ -2750,155 +2978,6 @@ The post [In an Age of AI, a Physicist Seeks What Endures](https://www.quantamag
       </description>
       <source:markdown>Forgejo Runner v13.1.0 is available. An experimental plugin capability allows Forgejo Runner to support user-developed pluggable execution environments.</source:markdown>
       <guid>cid://https://forgejo.org/2026-09-runner-release-v131/</guid>
-    </item>    <item>
-      <title>Thunderbird Desktop New Protocol Support: Microsoft Graph API</title>
-      <link>https://blog.thunderbird.net/2026/09/thunderbird-desktop-new-protocol-support-microsoft-graph-api/</link>
-      <description>
-        <![CDATA[<p>As many of you know, Microsoft will be disabling Exchange Web Services (EWS) support on its Microsoft 365 platform later this year. The Thunderbird Desktop team has been hard at work to ensure continuity of functionality through this transition, and today we are pleased to announce the release of native Thunderbird support for the Microsoft [&#8230;]</p>
-        <p>The post <a href="https://blog.thunderbird.net/2026/09/thunderbird-desktop-new-protocol-support-microsoft-graph-api/">Thunderbird Desktop New Protocol Support: Microsoft Graph API</a> appeared first on <a href="https://blog.thunderbird.net">The Thunderbird Blog</a>.</p>]]>
-      </description>
-      <source:markdown>As many of you know, Microsoft will be disabling Exchange Web Services (EWS) support on its Microsoft 365 platform later this year. The Thunderbird Desktop team has been hard at work to ensure continuity of functionality through this transition, and today we are pleased to announce the release of native Thunderbird support for the Microsoft \[…\]
-
-The post [Thunderbird Desktop New Protocol Support: Microsoft Graph API](https://blog.thunderbird.net/2026/09/thunderbird-desktop-new-protocol-support-microsoft-graph-api/) appeared first on [The Thunderbird Blog](https://blog.thunderbird.net).</source:markdown>
-      <guid>cid://https://blog.thunderbird.net/?p=4540</guid>
-      <category>Development</category>
-      <category>Thunderbird</category>
-      <category>Desktop</category>
-      <category>Exchange</category>
-      <category>Microsoft Graph</category>
-    </item>    <item>
-      <title>These 20 Breathtaking Bird Images From the Audubon Photography Awards Capture the Wonder of the Winged World</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-20-breathtaking-bird-images-from-the-audubon-photography-awards-capture-the-wonder-of-the-winged-world-180989436/</link>
-      <description>
-        <![CDATA[The winners of the 17th annual contest reveal the beauty of birds, the splendor of their migratory journeys and the risks they face]]>
-      </description>
-      <source:markdown>The winners of the 17th annual contest reveal the beauty of birds, the splendor of their migratory journeys and the risks they face</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/x2WEc3vBqXU1RtBYtBwBHXEjE1o=/420x240/filters:focal(3008x2034:3009x2035)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0b/41/0b41ec61-4273-4ef2-99b1-29a1cb91e9a3/aves_sin_fronteras_01_winner_aud_apa-la-2026_black-browed-alba-084504f33f946a37c701ef10cf21da27.jpg" length="5706234" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/these-20-breathtaking-bird-images-from-the-audubon-photography-awards-capture-the-wonder-of-the-winged-world-180989436/</guid>
-    </item>    <item>
-      <title>NASA Revamps Challenge Linking Community College Studies to Aerospace Careers</title>
-      <link>https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/</link>
-      <description>
-        <![CDATA[Community college students across the U.S. now have another opportunity to discover how their education can lead to fulfilling roles at the forefront of aerospace, science, engineering, and technology. The updated NASA Community College Aerospace Scholars (NCAS) student challenge invites students to learn about the agency and its missions, engage with NASA experts, and explore [&#8230;]]]>
-      </description>
-      <source:markdown>Community college students across the U.S. now have another opportunity to discover how their education can lead to fulfilling roles at the forefront of aerospace, science, engineering, and technology. The updated NASA Community College Aerospace Scholars (NCAS) student challenge invites students to learn about the agency and its missions, engage with NASA experts, and explore \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1043783</guid>
-      <category>Learning Resources</category>
-      <category>For Colleges &#38; Universities</category>
-    </item>    <item>
-      <title>Blue Crabs Have Taken Over the Adriatic Sea. To Fight Them Off, Italian Researchers Just Released Thousands of Baby Octopuses</title>
-      <link>https://www.smithsonianmag.com/smart-news/blue-crabs-have-taken-over-the-adriatic-sea-to-fight-them-off-italian-researchers-just-released-thousands-of-baby-octopuses-180989430/</link>
-      <description>
-        <![CDATA[Although prized in the United States, the crustaceans have been decimating ecosystems and the fishing industry in Italy. Experts hope that an army of natural predators—common octopuses—can help contain the invasive species' spread]]>
-      </description>
-      <source:markdown>Although prized in the United States, the crustaceans have been decimating ecosystems and the fishing industry in Italy. Experts hope that an army of natural predators—common octopuses—can help contain the invasive species&#39; spread</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/eenBi3IefUU4z9qtqkbsOce9LkI=/420x240/filters:focal(600x400:601x401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a1/49/a1499be1-a337-473d-a81a-8d93d4b73f7e/image-1200-43334072918d7c689f4c8c2e2824b65b.jpeg" length="207062" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/blue-crabs-have-taken-over-the-adriatic-sea-to-fight-them-off-italian-researchers-just-released-thousands-of-baby-octopuses-180989430/</guid>
-    </item>    <item>
-      <title>Archaeologists Discover a 4,000-Year-Old Tomb With a False Door at Egypt&#39;s Ancient Saqqara Necropolis</title>
-      <link>https://www.smithsonianmag.com/smart-news/archaeologists-discover-a-4000-year-old-tomb-with-a-false-door-at-egypts-ancient-saqqara-necropolis-180989438/</link>
-      <description>
-        <![CDATA[In addition to the tomb, which once belonged to a high-ranking official, excavations revealed a network of burial shafts that still held human remains and funerary objects]]>
-      </description>
-      <source:markdown>In addition to the tomb, which once belonged to a high-ranking official, excavations revealed a network of burial shafts that still held human remains and funerary objects</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/JZs0GCEyuiIpdWfhnSMuhegCz_U=/420x240/filters:focal(800x450:801x451)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1f/9e/1f9e6914-9c23-4f2d-8380-1d81ffd9f44b/789564173_1484421623719379_8140589185182233480_n.jpg" length="129266" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/archaeologists-discover-a-4000-year-old-tomb-with-a-false-door-at-egypts-ancient-saqqara-necropolis-180989438/</guid>
-    </item>    <item>
-      <title>NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole</title>
-      <link>https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/</link>
-      <description>
-        <![CDATA[NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole.]]>
-      </description>
-      <source:markdown>NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole.</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/</guid>
-      <category>Astrophysics</category>
-      <category>Astrophysics Division</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Hubble Space Telescope</category>
-      <category>Saturn</category>
-      <category>The Solar System</category>
-    </item>    <item>
-      <title>World War II Sugar Rationing Data Hints That Limiting Intake of the Sweet Stuff Early in Life Lowers the Risk of Dementia and Cancer</title>
-      <link>https://www.smithsonianmag.com/smart-news/world-war-ii-sugar-rationing-data-hints-that-limiting-intake-of-the-sweet-stuff-early-in-life-lowers-the-risk-of-dementia-and-cancer-180989431/</link>
-      <description>
-        <![CDATA[For roughly a decade leading up to September 1953, the United Kingdom limited sugar purchases. Scientists studied health outcomes in people born during the ration and right after]]>
-      </description>
-      <source:markdown>For roughly a decade leading up to September 1953, the United Kingdom limited sugar purchases. Scientists studied health outcomes in people born during the ration and right after</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/tSSZadGQN0Y63xwRT4e-CSG9kgs=/420x240/filters:focal(4096x2750:4097x2751)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/32/32/3232b726-b4f1-43c1-98c6-7cdefc6b9ff4/sugar.jpg" length="31461856" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/world-war-ii-sugar-rationing-data-hints-that-limiting-intake-of-the-sweet-stuff-early-in-life-lowers-the-risk-of-dementia-and-cancer-180989431/</guid>
-    </item>    <item>
-      <title>Rising Over Louisiana</title>
-      <link>https://www.nasa.gov/image-article/rising-over-louisiana/</link>
-      <description>
-        <![CDATA[On Aug. 28, 2026 (the evening of Aug. 27 in some time zones), the Moon passed into Earth’s shadow, creating a deep partial lunar eclipse. At the moment of greatest eclipse, 12:13 a.m. EDT, 96.3% of the Moon’s disk was immersed in Earth’s umbra—the central, darkest part of the shadow where sunlight is completely blocked. [&#8230;]]]>
-      </description>
-      <source:markdown>On Aug. 28, 2026 (the evening of Aug. 27 in some time zones), the Moon passed into Earth’s shadow, creating a deep partial lunar eclipse. At the moment of greatest eclipse, 12:13 a.m. EDT, 96.3% of the Moon’s disk was immersed in Earth’s umbra—the central, darkest part of the shadow where sunlight is completely blocked. \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1043638</guid>
-    </item>    <item>
-      <title>NASA Rocket Takes First Multi-Point Look Inside Radio-Disrupting Clouds</title>
-      <link>https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/</link>
-      <description>
-        <![CDATA[High above Earth, thin veils of metallic haze drift through the edge of space. Known as sporadic E layers, these high-altitude “clouds” form from the vaporized dust of burnt-up meteors, earning their name from the unpredictable way they emerge and then dissipate. Now, new results from a NASA sounding rocket — a suborbital research rocket […]]]>
-      </description>
-      <source:markdown>High above Earth, thin veils of metallic haze drift through the edge of space. Known as sporadic E layers, these high-altitude “clouds” form from the vaporized dust of burnt-up meteors, earning their name from the unpredictable way they emerge and then dissipate. Now, new results from a NASA sounding rocket — a suborbital research rocket \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/</guid>
-      <category>Goddard Space Flight Center</category>
-      <category>Heliophysics</category>
-      <category>Heliophysics Division</category>
-      <category>Heliophysics Research Program</category>
-      <category>Ionosphere</category>
-      <category>Science Mission Directorate</category>
-      <category>Sounding Rockets</category>
-      <category>Sounding Rockets Program</category>
-      <category>Space Weather</category>
-      <category>The Sun</category>
-      <category>Wallops Flight Facility</category>
-    </item>    <item>
-      <title>Genome Duplication Is a Radical Evolutionary Gamble</title>
-      <link>https://www.quantamagazine.org/genome-duplication-is-a-radical-evolutionary-gamble-20260902/</link>
-      <description>
-        <![CDATA[By doubling their entire genome, organisms can evolve extremely rapidly — or they can lose it all. New studies reveal how to survive the high-risk, high-reward evolutionary event.            <p>The post <a href="https://www.quantamagazine.org/genome-duplication-is-a-radical-evolutionary-gamble-20260902/" target="_blank">Genome Duplication Is a Radical Evolutionary Gamble</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>By doubling their entire genome, organisms can evolve extremely rapidly — or they can lose it all. New studies reveal how to survive the high-risk, high-reward evolutionary event.
-
-The post [Genome Duplication Is a Radical Evolutionary Gamble](https://www.quantamagazine.org/genome-duplication-is-a-radical-evolutionary-gamble-20260902/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=166412</guid>
-      <category>Biology</category>
-    </item>    <item>
-      <title>Corals Reveal El Niño Events Have Become Stronger in Recent Decades, Probably Because Humans Have Been Heating Up the Planet</title>
-      <link>https://www.smithsonianmag.com/smart-news/corals-reveal-el-nino-events-have-become-stronger-in-recent-decades-probably-because-humans-have-been-heating-up-the-planet-180989432/</link>
-      <description>
-        <![CDATA[Researchers used elements trapped within Galápagos corals to understand natural swings in the climate over the past millennium. They hint that variability has gone up over the past 40 years compared to preindustrial times]]>
-      </description>
-      <source:markdown>Researchers used elements trapped within Galápagos corals to understand natural swings in the climate over the past millennium. They hint that variability has gone up over the past 40 years compared to preindustrial times</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/zpRS0CYyAvRXeELj2MEovQ-UWqA=/420x240/filters:focal(1000x876:1001x877)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/95/51/9551ee70-228c-4dbe-9da9-47fdec6f5069/coral-underwater-sample.jpg" length="638988" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/corals-reveal-el-nino-events-have-become-stronger-in-recent-decades-probably-because-humans-have-been-heating-up-the-planet-180989432/</guid>
-    </item>    <item>
-      <title>The science of emotional regulation — and how to do it better</title>
-      <link>https://www.npr.org/2026/09/02/nx-s1-5896292/health-therapy-brain-mental-relationship-feeling</link>
-      <description>
-        <![CDATA[Do you ever feel like your emotions control you instead of you controlling them? Maybe you lash out at someone after a long day at work or indulge to avoid a stressful situation. It’s called emotional dysregulation and don’t worry – we all experience it at some point. Luckily, there’s a better way of dealing with our feelings: building emotional intelligence. That may seem daunting, but Short Wave is here to guide you through everything from understanding the importance of emotions to how we can repair our relationship to them.<br/><br/><em>Interested in learning more about your brain and your feelings? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>. We might cover it in a future episode!</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Do you ever feel like your emotions control you instead of you controlling them? Maybe you lash out at someone after a long day at work or indulge to avoid a stressful situation. It’s called emotional dysregulation and don’t worry – we all experience it at some point. Luckily, there’s a better way of dealing with our feelings: building emotional intelligence. That may seem daunting, but Short Wave is here to guide you through everything from understanding the importance of emotions to how we can repair our relationship to them.
-
-_Interested in learning more about your brain and your feelings? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _. We might cover it in a future episode!_
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/e00f51f0-c2f9-4860-9772-8fc83ba7873e/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=e00f51f0-c2f9-4860-9772-8fc83ba7873e&feed=F0qJcgXZ&t=podcast&e=nx-s1-5896292&p=510351&d=749&size=11998398" length="11998398" type="audio/mpeg" />
-      <guid>cid://15ed343e-70d9-4a39-a345-cf3a7c3d7904</guid>
-    </item>    <item>
-      <title>APOD: 2026 September 2 – Solar Eclipses and Culture</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-september-2-solar-eclipses-and-culture/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 September 2 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Solar Eclipses and [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 September 2 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Solar Eclipses and \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-2-solar-eclipses-and-culture/</guid>
-      <category>APOD</category>
     </item>
   </channel>
 </rss>

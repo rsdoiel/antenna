@@ -4,10 +4,73 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>23 Sep 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>24 Sep 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The origin of the family, private property, and the state by Friedrich Engels</title>
+      <link>https://www.gutenberg.org/ebooks/33111</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Mr. Mulliner speaking by P. G.  Wodehouse</title>
+      <link>https://www.gutenberg.org/ebooks/79636</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>What the butler winked at : by Eric Horne</title>
+      <link>https://www.gutenberg.org/ebooks/79637</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Silver Bird&#39;s flight by Gordon Stiles</title>
+      <link>https://www.gutenberg.org/ebooks/79642</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Some town by Ray Humphreys</title>
+      <link>https://www.gutenberg.org/ebooks/79643</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>La chienne by Georges de la Fouchardière</title>
+      <link>https://www.gutenberg.org/ebooks/79639</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>I, the vampire by Henry Kuttner</title>
+      <link>https://www.gutenberg.org/ebooks/79638</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>It walks by night by Henry Kuttner</title>
+      <link>https://www.gutenberg.org/ebooks/79641</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Myra Sherwood&#39;s cross : by Lucy Ellen Guernsey</title>
+      <link>https://www.gutenberg.org/ebooks/79640</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>A Journey into the Interior of the Earth by Jules Verne</title>
       <link>https://www.gutenberg.org/ebooks/3748</link>
       <description>
@@ -50,13 +113,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>The origin of the family, private property, and the state by Friedrich Engels</title>
-      <link>https://www.gutenberg.org/ebooks/33111</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Space rays by Jr.  John W. Campbell</title>
       <link>https://www.gutenberg.org/ebooks/79635</link>
       <description>
@@ -70,13 +126,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Mr. Mulliner speaking by P. G.  Wodehouse</title>
-      <link>https://www.gutenberg.org/ebooks/79636</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>Notes from the Underground by Fyodor Dostoyevsky</title>
       <link>https://www.gutenberg.org/ebooks/600</link>
@@ -1669,90 +1718,6 @@
     </item>    <item>
       <title>Sword play, based upon the French school of the foil by Breckinridge and Breckinridge</title>
       <link>https://www.gutenberg.org/ebooks/79503</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Pride and Prejudice by Jane Austen</title>
-      <link>https://www.gutenberg.org/ebooks/1342</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Works of Edgar Allan Poe, Volume 3 by Edgar Allan Poe</title>
-      <link>https://www.gutenberg.org/ebooks/9514</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>My diaries, being a personal narrative of events 1888-1914, Part 1 (1888-1900) by Blunt</title>
-      <link>https://www.gutenberg.org/ebooks/79491</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>My diaries, being a personal narrative of events 1888-1914, Part 2 (1900-1914) by Blunt</title>
-      <link>https://www.gutenberg.org/ebooks/79492</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The story of patriarchs and prophets : by Ellen Gould Harmon White</title>
-      <link>https://www.gutenberg.org/ebooks/79498</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The grandmothers : by Glenway Wescott</title>
-      <link>https://www.gutenberg.org/ebooks/79489</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Les travailleurs de la mer - tome 1 by Victor Hugo</title>
-      <link>https://www.gutenberg.org/ebooks/79493</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>The angel that troubled the waters : by Thornton Wilder</title>
-      <link>https://www.gutenberg.org/ebooks/79499</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>On the theory of light and colours by Thomas Young</title>
-      <link>https://www.gutenberg.org/ebooks/79490</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Le voyage rustique by Charles Silvestre</title>
-      <link>https://www.gutenberg.org/ebooks/79496</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Alick&#39;s cave : by Catharine Shaw</title>
-      <link>https://www.gutenberg.org/ebooks/79494</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>An essay on the slave trade by Grímur Jónsson Thorkelín</title>
-      <link>https://www.gutenberg.org/ebooks/79495</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
