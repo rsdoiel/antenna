@@ -4,10 +4,18 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>24 Sep 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>25 Sep 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>September 2026 News Summary</title>
+      <link>http://www.iconbar.com/comments/rss/news2369.html</link>
+      <description>
+        <![CDATA[Some things we noticed this month. What did you see?]]>
+      </description>
+      <source:markdown>Some things we noticed this month. What did you see?</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2369.html</guid>
+    </item>    <item>
       <title>Fireside developer chat on saturday night</title>
       <link>http://www.iconbar.com/comments/rss/news2356.html</link>
       <description>
@@ -15,6 +23,149 @@
       </description>
       <source:markdown>As the nights start to draw in, it&#39;s time to light that fire. The next developer fireside chat is tomorrow night (26th September) for anyone interested in a very informal event online aimed at RISC OS developers of all levels.</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2356.html</guid>
+    </item>    <item>
+      <title>Out Now: Low-tech Magazine Volume IV</title>
+      <link>https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/</link>
+      <description>
+        <![CDATA[<div class="article-img ">
+        <figure data-imgstate="dither">
+        <img src="https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/images/dithers/IMG_3962-contrast_dithered.png" alt='Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret.' loading="lazy"/></figure>
+        <figcaption class="caption">
+         Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret. 
+        </figcaption>
+        </div>
+        </div>
+        <p>Low-tech Magazine presents the fourth volume in the chronological book series. It contains twenty articles that were published online between 2022 and 2026. <a href="https://solar.lowtechmagazine.com/2026/03/low-tech-magazine-the-uncompressed-book-series/">Three earlier volumes</a> collect articles written and published online between 2007 and 2021, which are also bundled in the &ldquo;<a href="https://solar.lowtechmagazine.com/2025/03/the-compressed-book-edition/">Compressed Edition</a>&rdquo;.</p>
+        <p>This new volume is a bit different from the earlier books: eight of the articles are DIY guides or manuals, and we have grouped them together in the second part of the book. This volume covers the period that Marie Verdeil joined Low-tech Magazine, which partly shifted the focus from writing articles to building prototypes inspired by historical research. These prototypes also led us to conduct workshops in universities and participate in museum exhibitions.</p>
+        <p>As is the case with all of our books, the articles have been edited and improved compared to the original web versions. Some articles gained extra or better images. We rewrote two manuals, based on further experiences we gained since the publication of the originals. The book has 500 pages and contains 405 images in black and white.</p>
+        <p>You can order Low-tech Magazine Volume IV at our online bookstore, available as <a href="https://www.lulu.com/shop/kris-de-decker-and-marie-verdeil/low-tech-magazine-volume-iv-2022-2026/paperback/product-zmn24gr.html?page=1&amp;pageSize=4">paperback</a> and <a href="https://www.lulu.com/shop/kris-de-decker-and-marie-verdeil/low-tech-magazine-volume-iv-2022-2026-hardcover/hardcover/product-rm2djpv.html?page=1&amp;pageSize=4">hardcover</a>. The ebook is not yet available.</p>
+        <div class="article-img ">
+        <figure data-imgstate="dither">
+        <img src="https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/images/dithers/IMG_3999-contrast_dithered.png" alt='Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret.' loading="lazy"/></figure>
+        <figcaption class="caption">
+         Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret. 
+        </figcaption>
+        </div>
+        </div>
+        <h2 id="contents-table">Contents table</h2>
+        <h3 id="articles">ARTICLES:</h3>
+        <ul>
+        <li>The Revenge of the Hot Water Bottle</li>
+        <li>When Lethal Weapons Grew on Trees</li>
+        <li>What if We Replace Guns and Bullets with Bows and Arrows?</li>
+        <li>Can We Make Bicycles Sustainable Again?</li>
+        <li>Low-tech Magazine: The Comic</li>
+        <li>Direct Solar Power: Off-Grid Without Batteries</li>
+        <li>Plastic Waste in the Fuel Tank?</li>
+        <li>How to Escape From the Iron Age?</li>
+        <li>Communal Luxury: The Public Bathhouse</li>
+        <li>The Compressed Book Edition</li>
+        <li>How to Dress and Undress your Home</li>
+        <li>Rediscovering the Handcart</li>
+        </ul>
+        <h3 id="manuals-and-guides">MANUALS and GUIDES:</h3>
+        <ul>
+        <li>How to Build a Small Solar Power System</li>
+        <li>How to Build an Electrically Heated Table</li>
+        <li>How to Build a Solar Powered Electric Oven</li>
+        <li>How to Brew Solar Powered Coffee</li>
+        <li>Winter is Coming: Build a Solar Powered Foot Stove</li>
+        <li>How to Assemble an Electric Heating Element from Scratch</li>
+        <li>How to Build a Practical Household Bike Generator</li>
+        <li>Human Powered Air Compressor and Energy Storage System</li>
+        </ul>
+        <p>With contributions by: Kris De Decker, Marie Verdeil, Guillaume Lion, Kozimo, Andy Lagzdins.</p>
+        <p>The book design is a collaborative effort by Laia Comellas, Marie Verdeil, and Johanna Gratzer. Marie Verdeil made the cover, Vaiva Vinskaitė did the typesetting.</p>
+        <h2 id="earlier-volumes">Earlier volumes:</h2>
+        <ul>
+        <li>Low-tech Magazine Volume I: <a href="https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-i-2007-2012/paperback/product-m25864q.html?q=&amp;page=1&amp;pageSize=4">paperback</a> / <a href="https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-i-2007-2012-hardcover/hardcover/product-w4w2z2j.html?page=1&amp;pageSize=4">hardcover</a>.</li>
+        <li>Low-tech Magazine Volume II: <a href="https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-ii-2012-2018/paperback/product-zmwgz9k.html?q=&amp;page=1&amp;pageSize=4">paperback</a> / <a href="https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-ii-2012-2018-hardcover/hardcover/product-m26g4ey.html?page=1&amp;pageSize=4">hardcover</a>.</li>
+        <li>Low-tech Magazine Volume III: <a href="https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-iii-2018-2021/paperback/product-45jp6yy.html?q=&amp;page=1&amp;pageSize=4">paperback</a> / <a href="https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-iii-2018-2021-hardcover/hardcover/product-je6m989.html?page=1&amp;pageSize=4">hardcover</a>.</li>
+        <li>The Compressed Edition: <a href="https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-2007-2021-the-compressed-edition/paperback/product-jeqeevm.html?q=&amp;page=1&amp;pageSize=4">paperback</a> / <a href="https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-2007-2021-the-compressed-edition-hardcover/hardcover/product-v8j886j.html?q=&amp;page=1&amp;pageSize=4">hardcover</a>.</li>
+        <li>The Comments: <a href="https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-the-comments-2008-2021/paperback/product-9457rd.html?q=&amp;page=1&amp;pageSize=4">paperback</a> / <a href="https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-the-comments-2008-2021-hardcover/hardcover/product-q4zrjj.html?q=&amp;page=1&amp;pageSize=4">hardcover</a>.</li>
+        <li><a href="https://www.lulu.com/search?contributor=Kris+De+Decker&amp;adult_audience_rating=00&amp;sortBy=PRICE_ASC&amp;page=1">Thematic book series</a>.</li>
+        </ul>
+        <p><a href="https://patreon.com/lowtechmagazine">Patrons</a> have free access to all ebooks, and early access to print books at a reduced price. They also receive exclusive content, which includes previews of new building projects and behind-the-scenes news.</p>
+        <div class="article-img ">
+        <figure data-imgstate="dither">
+        <img src="https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/images/dithers/IMG_3974-contrast_dithered.png" alt='Image: Low-tech Magazine Volume I, II, III &amp;amp; IV  (2022-2026). Photo: Juliette Demaret.' loading="lazy"/></figure>
+        <figcaption class="caption">
+         Image: Low-tech Magazine Volume I, II, III & IV  (2022-2026). Photo: Juliette Demaret. 
+        </figcaption>
+        </div>
+        </div>]]>
+      </description>
+      <source:markdown>![Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret.](https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/images/dithers/IMG_3962-contrast_dithered.png)
+Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret.
+
+Low-tech Magazine presents the fourth volume in the chronological book series. It contains twenty articles that were published online between 2022 and 2026. [Three earlier volumes](https://solar.lowtechmagazine.com/2026/03/low-tech-magazine-the-uncompressed-book-series/) collect articles written and published online between 2007 and 2021, which are also bundled in the “ [Compressed Edition](https://solar.lowtechmagazine.com/2025/03/the-compressed-book-edition/)”.
+
+This new volume is a bit different from the earlier books: eight of the articles are DIY guides or manuals, and we have grouped them together in the second part of the book. This volume covers the period that Marie Verdeil joined Low-tech Magazine, which partly shifted the focus from writing articles to building prototypes inspired by historical research. These prototypes also led us to conduct workshops in universities and participate in museum exhibitions.
+
+As is the case with all of our books, the articles have been edited and improved compared to the original web versions. Some articles gained extra or better images. We rewrote two manuals, based on further experiences we gained since the publication of the originals. The book has 500 pages and contains 405 images in black and white.
+
+You can order Low-tech Magazine Volume IV at our online bookstore, available as [paperback](https://www.lulu.com/shop/kris-de-decker-and-marie-verdeil/low-tech-magazine-volume-iv-2022-2026/paperback/product-zmn24gr.html?page=1&#38;pageSize=4) and [hardcover](https://www.lulu.com/shop/kris-de-decker-and-marie-verdeil/low-tech-magazine-volume-iv-2022-2026-hardcover/hardcover/product-rm2djpv.html?page=1&#38;pageSize=4). The ebook is not yet available.
+
+![Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret.](https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/images/dithers/IMG_3999-contrast_dithered.png)
+Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret.
+
+## Contents table
+
+### ARTICLES:
+
+- The Revenge of the Hot Water Bottle
+- When Lethal Weapons Grew on Trees
+- What if We Replace Guns and Bullets with Bows and Arrows?
+- Can We Make Bicycles Sustainable Again?
+- Low-tech Magazine: The Comic
+- Direct Solar Power: Off-Grid Without Batteries
+- Plastic Waste in the Fuel Tank?
+- How to Escape From the Iron Age?
+- Communal Luxury: The Public Bathhouse
+- The Compressed Book Edition
+- How to Dress and Undress your Home
+- Rediscovering the Handcart
+
+### MANUALS and GUIDES:
+
+- How to Build a Small Solar Power System
+- How to Build an Electrically Heated Table
+- How to Build a Solar Powered Electric Oven
+- How to Brew Solar Powered Coffee
+- Winter is Coming: Build a Solar Powered Foot Stove
+- How to Assemble an Electric Heating Element from Scratch
+- How to Build a Practical Household Bike Generator
+- Human Powered Air Compressor and Energy Storage System
+
+With contributions by: Kris De Decker, Marie Verdeil, Guillaume Lion, Kozimo, Andy Lagzdins.
+
+The book design is a collaborative effort by Laia Comellas, Marie Verdeil, and Johanna Gratzer. Marie Verdeil made the cover, Vaiva Vinskaitė did the typesetting.
+
+## Earlier volumes:
+
+- Low-tech Magazine Volume I: [paperback](https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-i-2007-2012/paperback/product-m25864q.html?q=&#38;page=1&#38;pageSize=4) / [hardcover](https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-i-2007-2012-hardcover/hardcover/product-w4w2z2j.html?page=1&#38;pageSize=4).
+- Low-tech Magazine Volume II: [paperback](https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-ii-2012-2018/paperback/product-zmwgz9k.html?q=&#38;page=1&#38;pageSize=4) / [hardcover](https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-ii-2012-2018-hardcover/hardcover/product-m26g4ey.html?page=1&#38;pageSize=4).
+- Low-tech Magazine Volume III: [paperback](https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-iii-2018-2021/paperback/product-45jp6yy.html?q=&#38;page=1&#38;pageSize=4) / [hardcover](https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-iii-2018-2021-hardcover/hardcover/product-je6m989.html?page=1&#38;pageSize=4).
+- The Compressed Edition: [paperback](https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-2007-2021-the-compressed-edition/paperback/product-jeqeevm.html?q=&#38;page=1&#38;pageSize=4) / [hardcover](https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-2007-2021-the-compressed-edition-hardcover/hardcover/product-v8j886j.html?q=&#38;page=1&#38;pageSize=4).
+- The Comments: [paperback](https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-the-comments-2008-2021/paperback/product-9457rd.html?q=&#38;page=1&#38;pageSize=4) / [hardcover](https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-the-comments-2008-2021-hardcover/hardcover/product-q4zrjj.html?q=&#38;page=1&#38;pageSize=4).
+- [Thematic book series](https://www.lulu.com/search?contributor=Kris+De+Decker&#38;adult_audience_rating=00&#38;sortBy=PRICE_ASC&#38;page=1).
+
+[Patrons](https://patreon.com/lowtechmagazine) have free access to all ebooks, and early access to print books at a reduced price. They also receive exclusive content, which includes previews of new building projects and behind-the-scenes news.
+
+![Image: Low-tech Magazine Volume I, II, III &#38;amp; IV  (2022-2026). Photo: Juliette Demaret.](https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/images/dithers/IMG_3974-contrast_dithered.png)
+Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette Demaret.</source:markdown>
+      <enclosure url="https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/images/dithers/IMG_3962-contrast_dithered.png" length="49193" type="image/png" />
+      <guid>cid://https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/</guid>
+    </item>    <item>
+      <title>PiCMD is a brain transplant for Pi1541</title>
+      <link>https://www.c64os.com/post/picmd</link>
+      <description>
+        <![CDATA[<img src='https://s3.amazonaws.com/com.c64os.resources/weblog/picmd/icon-picmd.jpg'> C64 OS is a system of sufficient complexity that, like modern operating systems, it requires a boot device that is capable of certain minimum requirements. Once upon a time you could run Mac OS (System 1 through 6, mostly) from floppy disks. But after that the system was truly designed for and eventually required a hard drive. Something similar either did or would have happened with Amiga OS. The original versions released by Commodore could be booted from floppies, but later versions like 3.9 and 4.x require installation on a hard drive. Even early versions of Windows, 1.0 and 2.0 could run from floppies, but 2.1, 3.0 and up require a hard drive. This is the way of things. GEOS can be run from floppies, but when I started with C64 OS in 2017, it was time to design a system that requires a hard drive. It gets all the benefits that can be had by guaranteeing a mass storage device with nested subdirectories is available. The only downside is that you have a hardware requirement that must. . .]]>
+      </description>
+      <source:markdown>![](https://s3.amazonaws.com/com.c64os.resources/weblog/picmd/icon-picmd.jpg) C64 OS is a system of sufficient complexity that, like modern operating systems, it requires a boot device that is capable of certain minimum requirements. Once upon a time you could run Mac OS (System 1 through 6, mostly) from floppy disks. But after that the system was truly designed for and eventually required a hard drive. Something similar either did or would have happened with Amiga OS. The original versions released by Commodore could be booted from floppies, but later versions like 3.9 and 4.x require installation on a hard drive. Even early versions of Windows, 1.0 and 2.0 could run from floppies, but 2.1, 3.0 and up require a hard drive. This is the way of things. GEOS can be run from floppies, but when I started with C64 OS in 2017, it was time to design a system that requires a hard drive. It gets all the benefits that can be had by guaranteeing a mass storage device with nested subdirectories is available. The only downside is that you have a hardware requirement that must. . .</source:markdown>
+      <author>gregorynacu@me.com (Gregory Nacu)</author>
+      <guid>cid://https://www.c64os.com/post?p=137</guid>
+      <category>Hardware</category>
     </item>    <item>
       <title>KDE Sets Ambitious Goals for 2026 and Beyond</title>
       <link>http://www.linux-magazine.com/Online/News/KDE-Sets-Ambitious-Goals-for-2026-and-Beyond</link>
@@ -787,7 +938,7 @@
         <p>
         Note the "snow" in this shot &mdash; that's because the program was animating screen memory at the same time the VDG was trying to read it, so the VDG's memory access got briefly suppressed during that period. Because the display scan can't wait for the VDG to be enabled again, the result is a brief splat of garbage on that line until the VDG is allowed to proceed. Dubois could have simply waited for the VDG's next interframe interrupt, but there's also only so much time between frames before the VDG will start drawing again. As a result, for many programs where significant CPU time was required to do screen updates, outright ignoring the video artifacts turned out to be the least bad approach.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzDyOgLBTR9jcB83v7c0YtdAJGsyAlMN1D_QMAyNPoK2yFgbexPSruMIwPB7ZsLLMQu1lRnjGd5nJKP3xvR4A' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyEaUiukH1kg3vJV1sQi7yzm_3KLXoRDzOxT0_7ieGgdqVowyCBRDcHHHt_-iuLJhWiSZj4_48Vo1Tzox0TIQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         Here's a short video I recorded of another high quality arcade clone, Galaxon (gee, I wonder what <a href="https://en.wikipedia.org/wiki/Galaxian">that was</a>) by Stephen Clarke.<!-- https://pro.nfsa.gov.au/titles/9QYN7JJV --> It shows loading from the SD card, the title and options screen (even the VZ200 had software pirates), and then playing the game, which worked fine on the keyboard. This and the other recordings I did for this entry were generated from the composite capture rig for video, but for audio using a microphone near the VZ200's piezo speaker to capture sound (since there's no audio out). You'll notice I'm pounding on the keys a bit, which the microphone faithfully picks up, though you do have to hit the keys with a bit of, shall we say, deliberateness to get them to register.
         
@@ -803,7 +954,7 @@
         
         Appropriately for a Four'n Twenty take on sugar-sweetened citrus beverages, you decide how many <s>glasses</s> pies you want to make, how many advertising signs you want to buy, and the price per item you want to request. Other than the pie business, Larry Taylor's<!-- bushy --> port of the game seems to be heavily influenced by the well-known Apple II version and includes the same sort of simple graphics for weather reports and the like.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwahNNNFsBtzpqYmZ74U1FXEwbmaE8e86iv8WjroNXXqS8JW4P-DVmUHak2sht6ZrtLzdxB9SPNmq5bG_nfmg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxgBseBGiWAuqAmaJmnOc4h2CamL60Vs_8CjBjikMrQtfZ9AebEDF0GF46QBIdtPKYweRn1djx__0Z_SMc_HQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         An exceptional entry in the VZ's edutainment canon is Factory by VSoftwareZ.<!-- bushy --> It oozes professional quality with a slick title screen and menu, and is an extremely fun puzzler to boot. The aim is to create a factory from various primitive machines (paint, rotate, hole punch) that will generate a specific product. It is so well animated and so thoroughly polished that it deserves this short video to fully appreciate it.
         
@@ -819,7 +970,7 @@
         
         And of course a couple more games. Here is a simple Formula 1 racer (also by Stephen Clarke)<!-- game --> a la <a href="https://en.wikipedia.org/wiki/Night_Driver_%28video_game%29">Night Driver</a> where you are apparently an alien with wings and feet ...
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxwBjvLhSRlS2wJX6VGXGDckUzcKwRbS13hT7b7uTG8TOYhzVvAY8o_s_oRAdmkRclB6P8e2rQ95b5GwGANDQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxYyjMkLRGts5lPuS1gEPlQ3hFaXhytF-y6DXcToOvjsYpB8ZFWY9kKmmhfGUPI_IWkgAMh9UrvOJT_dL81gQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         ... alongside a rather good 3-D maze game by Laserlink.<!-- bushy --> It's only rendered at 90 degree angles, but it's fast and well-written, and deserved another video.
         
@@ -919,7 +1070,7 @@
         
         Now we'll proceed with the hardware part, and we won't even need to solder anything from here on out, because we'll just use DuPont female jumpers to connect to the BennVenn GPIO pins we've already attached &mdash; everything else will be done in software. The SD card board uses 3.3V logic and has 24 GPIO pins that can be individually configured as inputs or outputs. These are all accessible through the Z80's I/O space, with locations 68-70 setting the data direction (1=input), and locations 71-73 setting the value of outputs. All pins can be read, not only pins configured as inputs, but also the current state of any output pins. The SD card board's GPIO pins provide +5V and +9V lines as well, but we won't be needing them for this project.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dw7_oPcOVZZcwnqTJYSeD8ntx_2973-ha5oI84bhAHeDIqYB2TTDgNOvpm5N3hBRA288yYJML3oR8X3bz7OIg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxPZWmQ48z_UXTrDMb9YlaZ34u8g3QOC5wyF5wN8fbC8mb2G_nzWXxQTI6yLJirgZ60ppg4_PpE9cQOEDsNAg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         As an example, in <a href="https://github.com/classilla/bushfood">the Github repo</a> I have a small program to cycle the LEDs on his proto board, which you can see in this brief video. It sets all GPIO pins to output and lights all 24 green LEDs connected to them (the red ones are check LEDs for 3.3V, 5V and 9V), then cycles a dark one through them from left to right until a key is pressed. This is done by hooking into the interrupt routine called when the VDG completes a frame, the only regular timesource on an unaltered VZ200, and used back in the day as a simple clock by various programs. Every third tick of the interrupt routine, this code runs:
         <p>
@@ -1227,7 +1378,7 @@
         <p>
         Now that we can iterate quickly on them, let's patch and play a few more games before we close.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwqqrKBwmSeoEDS3wc0BIQ3lkBGbr3yh3fSzxaAybGWe6lRms4h8AjFTAwrgdby7QzwgKFcym-FwjXDBnrDmg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dza-lpV-75e7dEK1HGGq3NewmdnPvCgfTXieHG1s4VwHnQVNWTx3qNJ-yokRPLlO9mBrk3AWRQDsZnNwsyVeA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         Another outstanding edutainment title is Maths Armada (not Math Armada, which my wife would insists is patentlys incorrects), where you have to load your cannon with the right sum, quotient, etc., aim, and fire. In the video we autoload the new binary with the BFL and the game starts immediately. This one I had to tack on a custom routine; the programmer had been a little <em>too</em> efficient and constructed a general fill subroutine which lots of things called, the screen clear portion being only one of many. (Darn those efficient little assembly language programmers.)
         
@@ -1243,11 +1394,11 @@
         
         More recently, Juergen Buchmueller's Defense Command is sort of like a vertical Defender (complete with descending aliens trying to harvest your brood), though it has a curious game deficiency in that the side-to-side entering attackers need never be shot, so you can enter an eternal stalemate by merely sitting there. Still, the action is fast and the animations, albeit small, are decent. This game was written in C using an earlier version of the <a href="https://z88dk.org/site/targets">Z88 Development Kit</a>.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzJBMwtQdhZkNnDWVf7BiwDWYiZ6vEcrKR-rFAzysAQUoYgxONixoBnMlhi1Hmyc52ySgGh-_9atuW4L71LxQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxg99wZk8V-DbY-V1Y4FynOC_enM0s5vzXrEtO81GDLMip5COatzR3iMKWX84OdbuJ2ad0tkWeUXn-YP1gHZQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         Another Z88DK game is <a href="https://bluebilby.com/sdm_downloads/arkaball/">Arkaball by Jason Oakley</a>, an obvious Arkanoid clone, but competently crafted and worth a video.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dzPfxrJiwQ62bEYBGORHEWaRnCH1zrjvqIi4ZtEl4sti-T6WjAHbKctjJ8Ok5pb0JWgUf7bKIA33UdrZykOvw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxEu3J2EckDY2NTQezR9KZo-RWlKNoG7iHo7qBQP2Nd9tRm95407_S31V7FH8rPaw9I7s0ww2-xa-KbgXuvsw' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         Finally, a much more modern game is (the vibecoded) <a href="https://github.com/zonared/vz-doom">VZ-DOOM</a>, a Claude-written raycast Wolfenstein 3D-style game. It fortunately didn't need patching and "just worked." Your mileage may vary as to whether you think the AI usage is cheating, and this blog has a strict no-AI-article-text policy, but it performs as advertised on this NTSC machine and likewise merits a video. VZ-DOOM uses WASD for motion, comma and period to strafe, E to open and SPACE to shoot. 
         
@@ -2512,31 +2663,6 @@ What problem does Font Directory Pro solve?</source:markdown>
       <category>electronic arta</category>
       <category>need for speed</category>
       <category>porsche unleashed</category>
-    </item>    <item>
-      <title>b.log 2026/09/03 - Lidl shananigans, Autism in France, Weather station hacking.</title>
-      <link>https://heyrick.eu/blog/entry/20260903</link>
-      <description>
-        <![CDATA[Lidl shananigans, Autism in France, Weather station hacking.]]>
-      </description>
-      <source:markdown>Lidl shananigans, Autism in France, Weather station hacking.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260903</guid>
-    </item>    <item>
-      <title>2,000 Vulnerabilities per Linux Release</title>
-      <link>http://www.linux-magazine.com/Online/News/2-000-Vulnerabilities-per-Linux-Release</link>
-      <description>
-        <![CDATA[<p>Thanks to AI bug hunters, the Linux kernel is seeing record numbers of vulnerabilities, and it's overwhelming developers.</p>]]>
-      </description>
-      <source:markdown>Thanks to AI bug hunters, the Linux kernel is seeing record numbers of vulnerabilities, and it&#39;s overwhelming developers.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://f3ff0733d36bece39fabbad14c7f0d6e</guid>
-    </item>    <item>
-      <title>WROCC September 2026 meeting - Andrew Rawnsley</title>
-      <link>http://www.iconbar.com/comments/rss/news2372.html</link>
-      <description>
-        <![CDATA[WROCC's September speaker was Andrew Rawnsley (with his ROD hat on).]]>
-      </description>
-      <source:markdown>WROCC&#39;s September speaker was Andrew Rawnsley (with his ROD hat on).</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2372.html</guid>
     </item>
   </channel>
 </rss>

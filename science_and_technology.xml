@@ -4,10 +4,205 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>24 Sep 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>25 Sep 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>See a Stunning Collection of Stolen Greek Artifacts, Spanning 5,000 Years, That Were Just Returned to Greece</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-a-stunning-collection-of-stolen-greek-artifacts-spanning-5000-years-that-were-just-returned-to-greece-180989566/</link>
+      <description>
+        <![CDATA[The antiquities were seized at the Metropolitan Museum of Art by investigators from the office of Manhattan District Attorney Alvin L. Bragg Jr.]]>
+      </description>
+      <source:markdown>The antiquities were seized at the Metropolitan Museum of Art by investigators from the office of Manhattan District Attorney Alvin L. Bragg Jr.</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/est9W790asbItr66t9QSn-kemqo=/420x240/filters:focal(600x400:601x401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e6/36/e636b185-79c0-4391-9026-b5a1ca490cd1/4_______-787b484df8505720c52d3086a2927b91.jpeg" length="506970" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/see-a-stunning-collection-of-stolen-greek-artifacts-spanning-5000-years-that-were-just-returned-to-greece-180989566/</guid>
+    </item>    <item>
+      <title>&#39;Super&#39; El Niño is coming. What should you expect?</title>
+      <link>https://www.npr.org/2026/09/25/nx-s1-5953022/weather-super-rain-climate-extreme-godzilla-el-nino</link>
+      <description>
+        <![CDATA[The world is bracing for the worst effects of a Super El Niño. Or a Godzilla El Niño. But what does that really even mean?<br/><br/>For millennia El Niño has shaped weather across the globe, fueling flooding in parts of the U.S., droughts and wildfires in Australia and Indonesia, and disrupting fisheries across the Pacific.<br/><br/>Scientists have long wondered if human activities — chiefly the burning of fossil fuels — are making El Niños stronger. Now, on the eve of the strongest El Niño on record, a team of researchers think they have an answer.<br/><br/><em>Interested in more science behind the weather? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>The world is bracing for the worst effects of a Super El Niño. Or a Godzilla El Niño. But what does that really even mean?
+
+For millennia El Niño has shaped weather across the globe, fueling flooding in parts of the U.S., droughts and wildfires in Australia and Indonesia, and disrupting fisheries across the Pacific.
+
+Scientists have long wondered if human activities — chiefly the burning of fossil fuels — are making El Niños stronger. Now, on the eve of the strongest El Niño on record, a team of researchers think they have an answer.
+
+_Interested in more science behind the weather? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/4a7dd3ff-a325-45f0-9ddb-183108a64806/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=4a7dd3ff-a325-45f0-9ddb-183108a64806&feed=F0qJcgXZ&t=podcast&e=nx-s1-5953022&p=510351&d=751&size=12017624" length="12017624" type="audio/mpeg" />
+      <guid>cid://789e05a2-e656-4d61-960d-dc615acf8aa6</guid>
+    </item>    <item>
+      <title>We’ve been here before: Qualcomm promises Linux support for Snapdragon X2</title>
+      <link>https://www.osnews.com/story/146022/weve-been-here-before-qualcomm-promises-linux-support-for-snapdragon-x2/</link>
+      <description>
+        <![CDATA[Qualcomm, yesterday, promising Linux support for the new Snapdragon X2 processors: Linux on Snapdragon X2 Series is moving from early bring-up toward a more complete upstream developer experience. Core support is landing, Hexagon NPU and Adreno GPU work is progressing, and real laptops with Snapdragon X2 Series processors are already beginning to boot Linux. ↫ Qualcomm&#8217;s promises from 2026 Interesting, but I feel like I&#8217;ve heard these exact words before. Qualcomm, two years ago, promising Linux support for the then-new Snapdragon X processors: It’s been our priority not only to support Linux on our premium-tier SoCs, but to support it pronto. In fact, within one or two days of publicly announcing each generation of Snapdragon 8, we’ve posted the initial patchset for Linux kernel support. Snapdragon X Elite was no exception: we announced on October 23 of last year and posted the patchset the next day. That was the result of a lot of pre-announcement work to get everything up and running on Linux and Debian. ↫ Qualcomm&#8217;s empty promises from 2024 These promises were not at all kept. Two years later, Linux support for Snapdragon X laptops is still spotty, broken, and limited, confined to just a few bespoke Ubuntu builds, which don&#8217;t even offer full support either. It&#8217;s a complete mess, effectively unusable, and highlights once again that big technology companies are compulsive liars. I have little faith in these new promises, but who knows &#8211; maybe this time it&#8217;ll be different. Probably not, though.]]>
+      </description>
+      <source:markdown>Qualcomm, yesterday, promising Linux support for the new Snapdragon X2 processors: Linux on Snapdragon X2 Series is moving from early bring-up toward a more complete upstream developer experience. Core support is landing, Hexagon NPU and Adreno GPU work is progressing, and real laptops with Snapdragon X2 Series processors are already beginning to boot Linux. ↫ Qualcomm’s promises from 2026 Interesting, but I feel like I’ve heard these exact words before. Qualcomm, two years ago, promising Linux support for the then-new Snapdragon X processors: It’s been our priority not only to support Linux on our premium-tier SoCs, but to support it pronto. In fact, within one or two days of publicly announcing each generation of Snapdragon 8, we’ve posted the initial patchset for Linux kernel support. Snapdragon X Elite was no exception: we announced on October 23 of last year and posted the patchset the next day. That was the result of a lot of pre-announcement work to get everything up and running on Linux and Debian. ↫ Qualcomm’s empty promises from 2024 These promises were not at all kept. Two years later, Linux support for Snapdragon X laptops is still spotty, broken, and limited, confined to just a few bespoke Ubuntu builds, which don’t even offer full support either. It’s a complete mess, effectively unusable, and highlights once again that big technology companies are compulsive liars. I have little faith in these new promises, but who knows – maybe this time it’ll be different. Probably not, though.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146022</guid>
+      <category>Linux</category>
+    </item>    <item>
+      <title>APOD: 2026 September 25 – Globular Star Cluster Omega Centauri</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 September 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Globular Cluster Omega [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 September 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Globular Cluster Omega \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/</guid>
+      <category>APOD</category>
+    </item>    <item>
+      <title>Explosive Intensification for Hurricane Polo</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/</link>
+      <description>
+        <![CDATA[Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen.]]>
+      </description>
+      <source:markdown>Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/</guid>
+      <category>Aqua</category>
+      <category>Earth Observatory</category>
+      <category>Hurricanes &#38; Typhoons</category>
+      <category>Moderate Resolution Imaging Spectroradiometer (MODIS)</category>
+    </item>    <item>
+      <title>NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory</title>
+      <link>https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/</link>
+      <description>
+        <![CDATA[Côte d’Ivoire signed the Artemis Accords on Thursday, becoming the 75th signatory and marking a major milestone for this growing coalition. With the signing ceremony in the nation’s largest city, Abidjan, Côte d’Ivoire joined other like-minded nations and committed to the peaceful, transparent, and responsible exploration of the Moon, Mars, and beyond. “The United States [&#8230;]]]>
+      </description>
+      <source:markdown>Côte d’Ivoire signed the Artemis Accords on Thursday, becoming the 75th signatory and marking a major milestone for this growing coalition. With the signing ceremony in the nation’s largest city, Abidjan, Côte d’Ivoire joined other like-minded nations and committed to the peaceful, transparent, and responsible exploration of the Moon, Mars, and beyond. “The United States \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1050342</guid>
+      <category>Office of International and Interagency Relations (OIIR)</category>
+      <category>Artemis Accords</category>
+    </item>    <item>
+      <title>NASA Shares SpaceX Crew-14 Assignments for Space Station Mission</title>
+      <link>https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/</link>
+      <description>
+        <![CDATA[Four crew members from three space agencies will launch to the International Space Station no earlier than spring 2027 for a long-duration science expedition as part of NASA’s SpaceX Crew-14 mission. NASA astronauts Kayla Barron&#160;and Chris Birch&#160;will serve as spacecraft commander and pilot, with JAXA (Japan Aerospace Exploration Agency) astronaut Makoto Suwa, and Roscosmos cosmonaut [&#8230;]]]>
+      </description>
+      <source:markdown>Four crew members from three space agencies will launch to the International Space Station no earlier than spring 2027 for a long-duration science expedition as part of NASA’s SpaceX Crew-14 mission. NASA astronauts Kayla Barron and Chris Birch will serve as spacecraft commander and pilot, with JAXA (Japan Aerospace Exploration Agency) astronaut Makoto Suwa, and Roscosmos cosmonaut \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1050298</guid>
+      <category>Humans in Space</category>
+      <category>International Space Station (ISS)</category>
+      <category>Missions</category>
+    </item>    <item>
+      <title>Some Birdsongs Are More Pleasing to Human Ears Than Others. Higher-Pitched, Complex Calls Tend to Sound More Beautiful to Us</title>
+      <link>https://www.smithsonianmag.com/smart-news/some-birdsongs-are-more-pleasing-to-human-ears-than-others-higher-pitched-complex-calls-tend-to-sound-more-beautiful-to-us-180989540/</link>
+      <description>
+        <![CDATA[In a new study, more than 80 participants rated the pleasantness of vocalizations made by 123 European bird species. Researchers then looked at the acoustic qualities of the most—and least—liked songs]]>
+      </description>
+      <source:markdown>In a new study, more than 80 participants rated the pleasantness of vocalizations made by 123 European bird species. Researchers then looked at the acoustic qualities of the most—and least—liked songs</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/0cXIGotQWI2L9zGMThhIwHBn6_s=/420x240/filters:focal(960x640:961x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/21/c6/21c63376-978a-418b-8d0a-4a26db1c4fdf/common_blackbird.jpg" length="440139" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/some-birdsongs-are-more-pleasing-to-human-ears-than-others-higher-pitched-complex-calls-tend-to-sound-more-beautiful-to-us-180989540/</guid>
+    </item>    <item>
+      <title>Travel</title>
+      <link>https://www.nasa.gov/centers-and-facilities/nssc/travel/</link>
+      <description>
+        <![CDATA[The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS). References Federal Travel Regulations (FTR) Traveler Extended TDY and Taxes Domestic Per Diem Rates Foreign Per Diem Rates Change of Station NSSC Travel now has another way that a transferee Traveler may submit his [&#8230;]]]>
+      </description>
+      <source:markdown>The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS). References Federal Travel Regulations (FTR) Traveler Extended TDY and Taxes Domestic Per Diem Rates Foreign Per Diem Rates Change of Station NSSC Travel now has another way that a transferee Traveler may submit his \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?migration=converted-node-460005</guid>
+      <category>NASA Shared Services Center</category>
+    </item>    <item>
+      <title>NASA Unveils Winning Designs for Mars Space Food Systems Challenge</title>
+      <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/</link>
+      <description>
+        <![CDATA[NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa. for the Adaptive Nourishment Infrastructure (ANI) food system concept. This competition challenged solvers to explore innovative solutions for integrated space food systems that would provide safe, nutritious meals [&#8230;]]]>
+      </description>
+      <source:markdown>NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa. for the Adaptive Nourishment Infrastructure (ANI) food system concept. This competition challenged solvers to explore innovative solutions for integrated space food systems that would provide safe, nutritious meals \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1050055</guid>
+      <category>Centennial Challenges</category>
+      <category>Centennial Challenges News</category>
+      <category>Marshall Space Flight Center</category>
+      <category>Prizes, Challenges, and Crowdsourcing Program</category>
+      <category>Research and Technology Mission Directorate</category>
+    </item>    <item>
+      <title>A 3,000-Year-Old Warhorse Burial and a Ramses II Tablet, Among Other Relics, Have Been Discovered in an Ancient Egyptian Fortress</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-3000-year-old-warhorse-burial-and-a-ramses-ii-tablet-among-other-relics-have-been-discovered-in-an-ancient-egyptian-fortress-180989564/</link>
+      <description>
+        <![CDATA[New excavations in the Nile Delta offer eye-opening clues about military and residential life in the New Kingdom era]]>
+      </description>
+      <source:markdown>New excavations in the Nile Delta offer eye-opening clues about military and residential life in the New Kingdom era</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/erCCgv9Q8H7lmMPFZxllPnnKpMY=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fb/a9/fba9bff4-b78d-4c05-b896-df879dcc3f95/790562685_2226708541441523_6987418583732232031_n.jpeg" length="218472" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-3000-year-old-warhorse-burial-and-a-ramses-ii-tablet-among-other-relics-have-been-discovered-in-an-ancient-egyptian-fortress-180989564/</guid>
+    </item>    <item>
+      <title>NASA’s Machines for Mars Make Beer Bubbly</title>
+      <link>https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/</link>
+      <description>
+        <![CDATA[Carbon-capture technology repurposed for breweries spreads and finds new applications]]>
+      </description>
+      <source:markdown>Carbon-capture technology repurposed for breweries spreads and finds new applications</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1048091</guid>
+      <category>Technology Transfer &#38; Spinoffs</category>
+      <category>Spinoffs</category>
+      <category>Technology Transfer</category>
+    </item>    <item>
+      <title>Practicing for Safe Landings on the Moon and Beyond</title>
+      <link>https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/</link>
+      <description>
+        <![CDATA[In this Aug. 27, 2026, image, an Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California. Researchers at NASA’s Johnson Space Center in Houston developed SPLICE, which successfully completed simulated lunar descent and [&#8230;]]]>
+      </description>
+      <source:markdown>In this Aug. 27, 2026, image, an Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California. Researchers at NASA’s Johnson Space Center in Houston developed SPLICE, which successfully completed simulated lunar descent and \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1050089</guid>
+    </item>    <item>
+      <title>US-India Satellite Captures Time-lapse Video of Volcanic Eruption</title>
+      <link>https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/</link>
+      <description>
+        <![CDATA[Like tendrils on a vine, lava spreads out from the northern crater of Krasheninnikov, a volcano pair on the Pacific coast of Russia’s Kamchatka Peninsula. On July 30, 2025, an 8.8-magnitude earthquake had struck in the nearby ocean, apparently jolting one of the two volcanoes awake. A few days later, for the first time in [&#8230;]]]>
+      </description>
+      <source:markdown>Like tendrils on a vine, lava spreads out from the northern crater of Krasheninnikov, a volcano pair on the Pacific coast of Russia’s Kamchatka Peninsula. On July 30, 2025, an 8.8-magnitude earthquake had struck in the nearby ocean, apparently jolting one of the two volcanoes awake. A few days later, for the first time in \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1049983</guid>
+      <category>NISAR (NASA-ISRO Synthetic Aperture Radar)</category>
+      <category>Earth</category>
+      <category>Earth Science</category>
+      <category>Earth Science Division</category>
+      <category>Jet Propulsion Laboratory</category>
+      <category>Volcanoes</category>
+    </item>    <item>
+      <title>Why Did Claude Monet Paint the Same Scenes Over and Over Again? The Impressionist Artist Was Obsessed With Capturing the Fleeting Nature of Time</title>
+      <link>https://www.smithsonianmag.com/smart-news/why-did-claude-monet-paint-the-same-scenes-over-and-over-again-the-impressionist-artist-was-obsessed-with-capturing-the-fleeting-nature-of-time-180989563/</link>
+      <description>
+        <![CDATA[An upcoming exhibition at Tate Modern will feature more than 60 artworks created by Monet between the 1870s and 1920s. These pieces reveal how he documented changing light and weather conditions]]>
+      </description>
+      <source:markdown>An upcoming exhibition at Tate Modern will feature more than 60 artworks created by Monet between the 1870s and 1920s. These pieces reveal how he documented changing light and weather conditions</source:markdown>
+      <enclosure url="https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/98/d6/98d6a5c3-f44e-4561-b2de-9e47ba26a7de/cathedral.gif" length="3468455" type="image/gif" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/why-did-claude-monet-paint-the-same-scenes-over-and-over-again-the-impressionist-artist-was-obsessed-with-capturing-the-fleeting-nature-of-time-180989563/</guid>
+    </item>    <item>
+      <title>How Open Science Can Help Researchers Prepare for the Next Pandemic</title>
+      <link>https://blogs.nvidia.com/blog/open-protein-dataset/</link>
+      <description>
+        <![CDATA[When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus’ key proteins well enough to design vaccines in record time. The next pandemic may not offer the same head start.  To help improve the odds, NVIDIA has joined a coalition of global research organizations, including Google [&#8230;]]]>
+      </description>
+      <source:markdown>When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus’ key proteins well enough to design vaccines in record time. The next pandemic may not offer the same head start.  To help improve the odds, NVIDIA has joined a coalition of global research organizations, including Google \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=98486</guid>
+      <category>AI</category>
+      <category>Research</category>
+      <category>AI for Good</category>
+      <category>Healthcare and Life Sciences</category>
+      <category>Open Source</category>
+    </item>    <item>
+      <title>Scientists Say Scorching Temperatures Brought on by the &#39;Super&#39; El Niño Could Kill Nearly Half a Million People by February</title>
+      <link>https://www.smithsonianmag.com/smart-news/scientists-say-scorching-temperatures-brought-on-by-the-super-el-nino-could-kill-nearly-half-a-million-people-by-february-180989555/</link>
+      <description>
+        <![CDATA[The predicted number, which includes deaths since June, likely represents an underestimate of total deaths. The heat could linger beyond February, and the climate swing could bring about other life-threatening conditions, including flooding, wildfire and infectious diseases]]>
+      </description>
+      <source:markdown>The predicted number, which includes deaths since June, likely represents an underestimate of total deaths. The heat could linger beyond February, and the climate swing could bring about other life-threatening conditions, including flooding, wildfire and infectious diseases</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/14hKqFNTn-nTpLvF8C1YMaxtI58=/420x240/filters:focal(3120x2080:3121x2081)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bd/0a/bd0ada23-18c3-41a6-984e-9eeae21d1a20/el-nino-heat.jpg" length="12541437" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-say-scorching-temperatures-brought-on-by-the-super-el-nino-could-kill-nearly-half-a-million-people-by-february-180989555/</guid>
+    </item>    <item>
+      <title>NASA to Study Human Health, Performance During Crew-13 Mission</title>
+      <link>https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/</link>
+      <description>
+        <![CDATA[During NASA’s SpaceX Crew‑13 mission aboard the International Space Station, astronauts will support a series of biomedical and human performance investigations, including a new collaborative effort to study how spaceflight affects blood flow and clotting. NASA also is testing crew members’ manual piloting skills, evaluating methods to counter vision and brain changes, gathering essential health [&#8230;]]]>
+      </description>
+      <source:markdown>During NASA’s SpaceX Crew‑13 mission aboard the International Space Station, astronauts will support a series of biomedical and human performance investigations, including a new collaborative effort to study how spaceflight affects blood flow and clotting. NASA also is testing crew members’ manual piloting skills, evaluating methods to counter vision and brain changes, gathering essential health \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1049101</guid>
+      <category>Humans in Space</category>
+      <category>Human Research Program</category>
+    </item>    <item>
       <title>Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/</link>
       <description>
@@ -227,7 +422,7 @@ The post [Biology Might Not Be Quantum, but Its Math Is Quantumlike](https://www
       <guid>cid://https://www.quantamagazine.org/?p=167361</guid>
       <category>Physics</category>
     </item>    <item>
-      <title>Meet Bubbles, a Dolphin in Australia That Chases Fish Until They Barf—Then Eats Their Upchucked Meals</title>
+      <title>Meet Bubbles, a Dolphin in Australia Who Chases Fish Until They Barf—Then Eats Their Upchucked Meals</title>
       <link>https://www.smithsonianmag.com/smart-news/meet-bubbles-a-dolphin-in-australia-that-chases-fish-until-they-barf-then-eats-their-upchucked-meals-180989547/</link>
       <description>
         <![CDATA[Scientists recorded 11 instances of Bubbles successfully snacking this way. They mark some of the first detailed observations of kleptoparasitism, or food stealing, in cetaceans, the group of marine mammals that includes dolphins, whales and porpoises]]>
@@ -1533,15 +1728,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ELfQdslIuGvs0kHOZw2aEu3Gsk8=/420x240/filters:focal(4000x2667:4001x2668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1a/a6/1aa67fc3-b755-4ed5-b9eb-5e3f801ad982/walkingtrexillustration_credit_andrey_atuchin.jpg" length="26618566" type="image/jpeg" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/these-four-giant-dinosaur-footprints-discovered-in-north-dakota-might-represent-the-first-trackway-made-by-an-adult-t-rex-ever-found-180989481/</guid>
     </item>    <item>
-      <title>Travel</title>
-      <link>https://www.nasa.gov/centers-and-facilities/nssc/travel/</link>
-      <description>
-        <![CDATA[The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS). References Federal Travel Regulations (FTR) Traveler Extended TDY and Taxes Domestic Per Diem Rates Foreign Per Diem Rates Change of Station NSSC Travel now has another way that a transferee Traveler may submit his [&#8230;]]]>
-      </description>
-      <source:markdown>The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS). References Federal Travel Regulations (FTR) Traveler Extended TDY and Taxes Domestic Per Diem Rates Foreign Per Diem Rates Change of Station NSSC Travel now has another way that a transferee Traveler may submit his \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?migration=converted-node-460005</guid>
-      <category>NASA Shared Services Center</category>
-    </item>    <item>
       <title>Why you&#39;ll probably be misdiagnosed in your lifetime</title>
       <link>https://www.npr.org/2026/09/15/nx-s1-5847020/diagnosis-crisis-medical-error-patient</link>
       <description>
@@ -2785,199 +2971,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <category>Deep Space Climate Observatory (DSCOVR)</category>
       <category>Earth Observatory</category>
       <category>Hurricanes &#38; Typhoons</category>
-    </item>    <item>
-      <title>Scientists Recreated the Long-Lost Chirps of Jurassic Insects. Listen to the Simulated Soundscape of 165 Million Years Ago</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-recreated-the-long-lost-chirps-of-jurassic-insects-listen-to-the-simulated-soundscape-of-165-million-years-ago-180989445/</link>
-      <description>
-        <![CDATA[With artificial intelligence and careful modeling of fossilized wings, researchers reproduced how some extinct, katydid-like insects might have made noise]]>
-      </description>
-      <source:markdown>With artificial intelligence and careful modeling of fossilized wings, researchers reproduced how some extinct, katydid-like insects might have made noise</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/LxKS7yUAQcob6u2wTKJH2OzSSjA=/420x240/filters:focal(2220x1597:2221x1598)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/28/5d/285d7d60-b85c-4680-a56d-670fdceb34d6/fork-tailed_bush_katydid_42143s.jpg" length="10398939" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-recreated-the-long-lost-chirps-of-jurassic-insects-listen-to-the-simulated-soundscape-of-165-million-years-ago-180989445/</guid>
-    </item>    <item>
-      <title>A Lake in Canada Got a Mysterious New Island. Then, It Disappeared—and Now It&#39;s Back</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-lake-in-canada-got-a-mysterious-new-island-then-it-disappeared-and-now-its-back-180989442/</link>
-      <description>
-        <![CDATA[The floating forest appeared in a well-mapped reservoir in British Columbia. Its presence and vanishing act have puzzled locals and officials at the power utility that operates the lake, but other similar islands exist elsewhere]]>
-      </description>
-      <source:markdown>The floating forest appeared in a well-mapped reservoir in British Columbia. Its presence and vanishing act have puzzled locals and officials at the power utility that operates the lake, but other similar islands exist elsewhere</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/DBrenJ2CHXnVzdrDg5OFmiQx-6w=/420x240/filters:focal(2082x1427:2083x1428)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/46/f1/46f18bd2-beb5-4922-9fa0-6f5d63e35951/williston-lake.jpg" length="11552702" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-lake-in-canada-got-a-mysterious-new-island-then-it-disappeared-and-now-its-back-180989442/</guid>
-    </item>    <item>
-      <title>A Mysterious Decagon Unexpectedly Appeared Around Saturn&#39;s South Pole. The Ten-Sided Shape Seems to Be a Wave in the Atmosphere</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-mysterious-decagon-unexpectedly-appeared-around-saturns-south-pole-the-ten-sided-shape-seems-to-be-a-wave-in-the-atmosphere-180989449/</link>
-      <description>
-        <![CDATA[Decades ago, scientists found a hexagon around Saturn’s north pole. Now, recent images reveal a decagon in the planet’s southern hemisphere—and it seems to have recently formed]]>
-      </description>
-      <source:markdown>Decades ago, scientists found a hexagon around Saturn’s north pole. Now, recent images reveal a decagon in the planet’s southern hemisphere—and it seems to have recently formed</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/PDlvF_L7rYmf4jtYOWT9kDngTOk=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9a/e4/9ae43ab0-03cb-4d82-bb5c-1f4a270e9fb3/smithsonian_feature_images_14.png" length="223803" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-mysterious-decagon-unexpectedly-appeared-around-saturns-south-pole-the-ten-sided-shape-seems-to-be-a-wave-in-the-atmosphere-180989449/</guid>
-    </item>    <item>
-      <title>ReactOS 0.4.16 released</title>
-      <link>https://www.osnews.com/story/145906/reactos-0-4-16-released/</link>
-      <description>
-        <![CDATA[We are pleased to announce the release of ReactOS 0.4.16! After a year and a half of development, we’re excited to showcase the improvements we’ve made between a new graphical installer; a unified bootcd and livecd image; video, audio, networking, and storage stack improvements; a new installation type; and third-party code syncs. ↫ The ReactOS Team on the ReactOS website The amount of changes and improvements is quite staggering, honestly. They&#8217;ll always be chasing a moving target, sure, but if they manage to keep this rate up ReactOS might actually grow into something usable in its own right, full compatibility with Windows or not. Excellent progress.]]>
-      </description>
-      <source:markdown>We are pleased to announce the release of ReactOS 0.4.16! After a year and a half of development, we’re excited to showcase the improvements we’ve made between a new graphical installer; a unified bootcd and livecd image; video, audio, networking, and storage stack improvements; a new installation type; and third-party code syncs. ↫ The ReactOS Team on the ReactOS website The amount of changes and improvements is quite staggering, honestly. They’ll always be chasing a moving target, sure, but if they manage to keep this rate up ReactOS might actually grow into something usable in its own right, full compatibility with Windows or not. Excellent progress.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145906</guid>
-      <category>ReactOS</category>
-    </item>    <item>
-      <title>Historic Trove of Monets, Renoirs and Other Impressionist Masterpieces Expected to Fetch Up to $50 Million on Auction Block This Fall</title>
-      <link>https://www.smithsonianmag.com/smart-news/historic-trove-of-monets-renoirs-and-other-impressionist-masterpieces-expected-to-fetch-up-to-50-million-on-auction-block-this-fall-180989448/</link>
-      <description>
-        <![CDATA[More than 60 paintings from the private estate of Paul Durand-Ruel, who shepherded Impressionism out from obscurity, will be up for sale]]>
-      </description>
-      <source:markdown>More than 60 paintings from the private estate of Paul Durand-Ruel, who shepherded Impressionism out from obscurity, will be up for sale</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/KLZBQdodl-TIUZP4JMZKdKAorgM=/420x240/filters:focal(1000x590:1001x591)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6a/02/6a02d570-0d3b-4950-b837-b7e3d12fc62d/4d5833ef2782c794311d9be10ffa38e2-ljpg.webp" length="637530" type="image/webp" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/historic-trove-of-monets-renoirs-and-other-impressionist-masterpieces-expected-to-fetch-up-to-50-million-on-auction-block-this-fall-180989448/</guid>
-    </item>    <item>
-      <title>NASA to Cover Progress 96 Spacecraft Launch, Docking</title>
-      <link>https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/</link>
-      <description>
-        <![CDATA[NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the crew aboard the International Space Station. The unpiloted Progress 96 resupply spacecraft is scheduled to launch at 12:15 p.m. EDT (9:15 p.m. Baikonur time), Wednesday, Sept. 9, on a [&#8230;]]]>
-      </description>
-      <source:markdown>NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the crew aboard the International Space Station. The unpiloted Progress 96 resupply spacecraft is scheduled to launch at 12:15 p.m. EDT (9:15 p.m. Baikonur time), Wednesday, Sept. 9, on a \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1044282</guid>
-      <category>International Space Station (ISS)</category>
-      <category>ISS Research</category>
-    </item>    <item>
-      <title>Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/</link>
-      <description>
-        <![CDATA[Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators [&#8230;]]]>
-      </description>
-      <source:markdown>Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=98045</guid>
-      <category>AI</category>
-      <category>Agentic AI</category>
-      <category>Artificial Intelligence</category>
-      <category>DGX Spark</category>
-      <category>Local AI</category>
-      <category>NVIDIA RTX</category>
-      <category>Open Source</category>
-      <category>RTX AI Garage</category>
-      <category>RTX Spark</category>
-    </item>    <item>
-      <title>Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog</title>
-      <link>https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/</link>
-      <description>
-        <![CDATA[Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Aug. 21, 2026 After Curiosity’s 14 years on the surface, Mars continues to surprise. Both of our workspaces this week contained features unlike quite anything we have seen in the past — broad, shallow pits (like the one in the image above) dotted […]]]>
-      </description>
-      <source:markdown>Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Aug. 21, 2026 After Curiosity’s 14 years on the surface, Mars continues to surprise. Both of our workspaces this week contained features unlike quite anything we have seen in the past — broad, shallow pits (like the one in the image above) dotted \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/</guid>
-      <category>Blogs</category>
-    </item>    <item>
-      <title>Igniting Roman’s Journey</title>
-      <link>https://www.nasa.gov/image-article/igniting-romans-journey/</link>
-      <description>
-        <![CDATA[Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large [&#8230;]]]>
-      </description>
-      <source:markdown>Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1043945</guid>
-    </item>    <item>
-      <title>Leaf-Peeping Season Is Almost Here. These Interactive Maps Can Help You Figure Out When Fall Foliage Will Peak in Your Area</title>
-      <link>https://www.smithsonianmag.com/smart-news/leaf-peeping-season-is-almost-here-these-interactive-maps-can-help-you-figure-out-when-fall-foliage-will-peak-in-your-area-180989439/</link>
-      <description>
-        <![CDATA[From the magnificent mountains of New England to the desert landscape of northern New Mexico, the tools can help you make the most of nature's upcoming wardrobe change]]>
-      </description>
-      <source:markdown>From the magnificent mountains of New England to the desert landscape of northern New Mexico, the tools can help you make the most of nature&#39;s upcoming wardrobe change</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ziVuY0HDtjHLNZBAQLnRVP-cL74=/420x240/filters:focal(2752x1835:2753x1836)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8d/1c/8d1c13c7-6d2e-4c37-879e-ea72569e6ad6/fall-foliage.jpg" length="22426544" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/leaf-peeping-season-is-almost-here-these-interactive-maps-can-help-you-figure-out-when-fall-foliage-will-peak-in-your-area-180989439/</guid>
-    </item>    <item>
-      <title>Live from ICM 2026: What Is Math For in the Age of AI?</title>
-      <link>https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/</link>
-      <description>
-        <![CDATA[In this special live recording from the International Congress of Mathematicians in Philadelphia, July 2026, the central question discussed was what do mathematicians really value about doing mathematics in the first place?            <p>The post <a href="https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/" target="_blank">Live from ICM 2026: What Is Math For in the Age of AI?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>In this special live recording from the International Congress of Mathematicians in Philadelphia, July 2026, the central question discussed was what do mathematicians really value about doing mathematics in the first place?
-
-The post [Live from ICM 2026: What Is Math For in the Age of AI?](https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=166452</guid>
-      <category>Computer Science</category>
-      <category>Mathematics</category>
-    </item>    <item>
-      <title>In an Age of AI, a Physicist Seeks What Endures</title>
-      <link>https://www.quantamagazine.org/in-an-age-of-ai-a-physicist-seeks-what-endures-20260903/</link>
-      <description>
-        <![CDATA[Sarah Demers, chair of the physics department at Yale University, sees the potential for large language models to both help and harm her field.            <p>The post <a href="https://www.quantamagazine.org/in-an-age-of-ai-a-physicist-seeks-what-endures-20260903/" target="_blank">In an Age of AI, a Physicist Seeks What Endures</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Sarah Demers, chair of the physics department at Yale University, sees the potential for large language models to both help and harm her field.
-
-The post [In an Age of AI, a Physicist Seeks What Endures](https://www.quantamagazine.org/in-an-age-of-ai-a-physicist-seeks-what-endures-20260903/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=166521</guid>
-      <category>Physics</category>
-      <category>Q&#38;A</category>
-    </item>    <item>
-      <title>NASA’s Hubble Spies Superbubble Scene</title>
-      <link>https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/</link>
-      <description>
-        <![CDATA[This Hubble Space Telescope image features a sprawling cosmic vista called N44.]]>
-      </description>
-      <source:markdown>This Hubble Space Telescope image features a sprawling cosmic vista called N44.</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/</guid>
-      <category>Astrophysics</category>
-      <category>Astrophysics Division</category>
-      <category>Emission Nebulae</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Hubble Space Telescope</category>
-      <category>Nebulae</category>
-      <category>Star-forming Nebulae</category>
-      <category>Supernovae</category>
-      <category>The Universe</category>
-    </item>    <item>
-      <title>‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/</link>
-      <description>
-        <![CDATA[September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned [&#8230;]]]>
-      </description>
-      <source:markdown>September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=98028</guid>
-      <category>Gaming</category>
-      <category>Cloud Gaming</category>
-      <category>GeForce NOW</category>
-    </item>    <item>
-      <title>NVIDIA to Acquire Hugging Face</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/</link>
-      <description>
-        <![CDATA[I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for [&#8230;]]]>
-      </description>
-      <source:markdown>I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=98049</guid>
-      <category>AI</category>
-      <category>Corporate</category>
-      <category>Software</category>
-      <category>Artificial Intelligence</category>
-      <category>High-Performance Computing</category>
-      <category>Open Source</category>
-      <category>Supercomputing</category>
-    </item>    <item>
-      <title>APOD: 2026 September 3 – The Eclipse and the Stork</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 September 3 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Eclipse [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 September 3 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Eclipse \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/</guid>
-      <category>APOD</category>
-    </item>    <item>
-      <title>Peatland Fires Darken Skies in Indonesia</title>
-      <link>https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia/</link>
-      <description>
-        <![CDATA[With Indonesia gripped by drought, fires are smoldering on the surface and underground.]]>
-      </description>
-      <source:markdown>With Indonesia gripped by drought, fires are smoldering on the surface and underground.</source:markdown>
-      <guid>cid://https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia/</guid>
-      <category>Aqua</category>
-      <category>Earth Observatory</category>
-      <category>Wildfires</category>
-    </item>    <item>
-      <title>Forgejo Runner v13.1.0 is available</title>
-      <link>https://forgejo.org/2026-09-runner-release-v131/</link>
-      <description>
-        <![CDATA[Forgejo Runner v13.1.0 is available. An experimental plugin capability allows Forgejo Runner to support user-developed pluggable execution environments.]]>
-      </description>
-      <source:markdown>Forgejo Runner v13.1.0 is available. An experimental plugin capability allows Forgejo Runner to support user-developed pluggable execution environments.</source:markdown>
-      <guid>cid://https://forgejo.org/2026-09-runner-release-v131/</guid>
     </item>
   </channel>
 </rss>

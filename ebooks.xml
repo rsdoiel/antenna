@@ -4,10 +4,80 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>24 Sep 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>25 Sep 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>King Arthur and the Knights of the Round Table by Sir Thomas Malory</title>
+      <link>https://www.gutenberg.org/ebooks/36462</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The invisible enemy by Jerry Sohl</title>
+      <link>https://www.gutenberg.org/ebooks/79645</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Memoirs of Fanny Hill by John Cleland</title>
+      <link>https://www.gutenberg.org/ebooks/25305</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Uncle&#39;s Dream; and The Permanent Husband by Fyodor Dostoyevsky</title>
+      <link>https://www.gutenberg.org/ebooks/38241</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The wisdom of Father Brown by G. K.  Chesterton</title>
+      <link>https://www.gutenberg.org/ebooks/223</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>About Zionism : by Albert Einstein</title>
+      <link>https://www.gutenberg.org/ebooks/79647</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Democracy and leadership by Irving Babbitt</title>
+      <link>https://www.gutenberg.org/ebooks/79644</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Underestimation by Jerome Bixby and Algis Budrys</title>
+      <link>https://www.gutenberg.org/ebooks/79646</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Every woman her own midwife : by Anonymous</title>
+      <link>https://www.gutenberg.org/ebooks/79648</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Short Stories by Fyodor Dostoyevsky</title>
+      <link>https://www.gutenberg.org/ebooks/40745</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>The origin of the family, private property, and the state by Friedrich Engels</title>
       <link>https://www.gutenberg.org/ebooks/33111</link>
       <description>
@@ -1669,55 +1739,6 @@
     </item>    <item>
       <title>Summer camp by Anne Herbert</title>
       <link>https://www.gutenberg.org/ebooks/79509</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Works of Edgar Allan Poe, Volume 5 by Edgar Allan Poe</title>
-      <link>https://www.gutenberg.org/ebooks/9516</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The radio gun-runners by Ralph Milne Farley</title>
-      <link>https://www.gutenberg.org/ebooks/79497</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>L&#39;armée secrète, suivi de Fidélité et du Juge intérieur by H.-R.  Lenormand</title>
-      <link>https://www.gutenberg.org/ebooks/79504</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Songs of a Red Cross nurse by Brookes More</title>
-      <link>https://www.gutenberg.org/ebooks/79500</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Awakening, and Selected Short Stories by Kate Chopin</title>
-      <link>https://www.gutenberg.org/ebooks/160</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Old New England houses by Albert G.  Robinson</title>
-      <link>https://www.gutenberg.org/ebooks/79502</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Sword play, based upon the French school of the foil by Breckinridge and Breckinridge</title>
-      <link>https://www.gutenberg.org/ebooks/79503</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
