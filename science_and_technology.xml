@@ -4,10 +4,188 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>25 Sep 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>26 Sep 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>APOD: 2026 September 26 – Mirrored Meteor and Milky Way</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 September 26 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mirrored Meteor and [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 September 26 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mirrored Meteor and \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/</guid>
+      <category>APOD</category>
+    </item>    <item>
+      <title>Amiga screens: a primer</title>
+      <link>https://www.osnews.com/story/146031/amiga-screens-a-orimer/</link>
+      <description>
+        <![CDATA[One of the unwritten rules of the Internet seems to be that whenever something Amiga-related is mentioned, at least one Amiga fan (myself included) must show up and try to explain the concept of screens. Amiga screens can have different resolutions, we&#8217;ll tell you, and one can drag them, we&#8217;ll say, and other Amiga users rally in agreement, while non-Amiga users probably still don&#8217;t get what&#8217;s so great about screens. Until now, when this text has been written, in the hope of converting unsuspecting normies into full-blown Amiga screen lovers. ↫ Carl Svensson A deeply technical look at not just how the Amiga managed to achieve this stunning functionality way back in the &#8217;80s on machines with 7MHz and less RAM than a keyfob, but also how this functionality can be useful. I&#8217;ve always found the concept of screens on the Amiga quite interesting, and Svensson&#8217;s article does a great job at demystifying the whole concept. Of course, expect a lot of lovely Amiga OS screenshots.]]>
+      </description>
+      <source:markdown>One of the unwritten rules of the Internet seems to be that whenever something Amiga-related is mentioned, at least one Amiga fan (myself included) must show up and try to explain the concept of screens. Amiga screens can have different resolutions, we’ll tell you, and one can drag them, we’ll say, and other Amiga users rally in agreement, while non-Amiga users probably still don’t get what’s so great about screens. Until now, when this text has been written, in the hope of converting unsuspecting normies into full-blown Amiga screen lovers. ↫ Carl Svensson A deeply technical look at not just how the Amiga managed to achieve this stunning functionality way back in the ’80s on machines with 7MHz and less RAM than a keyfob, but also how this functionality can be useful. I’ve always found the concept of screens on the Amiga quite interesting, and Svensson’s article does a great job at demystifying the whole concept. Of course, expect a lot of lovely Amiga OS screenshots.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146031</guid>
+      <category>Amiga &#38; AROS</category>
+    </item>    <item>
+      <title>Redox runs Qemu, gets multicore support for ARM</title>
+      <link>https://www.osnews.com/story/146029/redox-runs-qemu-gets-multicore-support-for-arm/</link>
+      <description>
+        <![CDATA[It&#8217;s time for an overview of another month of Redox OS progress, and over the month of August &#8211; they&#8217;re a bit late, don&#8217;t believe the publication date &#8211; they&#8217;ve implemented multicore support for ARM, and considerably improved the I/O performance for the NVMe driver, RedoxFS, and RAMFS by implementing a ring buffer communication API. There&#8217;s also initial support for NUMA-based memory management, QEMU is now working on Redox, and much more. Of course, there&#8217;s also the usual long list of improvements to the kernel, relibc, drivers, and more.]]>
+      </description>
+      <source:markdown>It’s time for an overview of another month of Redox OS progress, and over the month of August – they’re a bit late, don’t believe the publication date – they’ve implemented multicore support for ARM, and considerably improved the I/O performance for the NVMe driver, RedoxFS, and RAMFS by implementing a ring buffer communication API. There’s also initial support for NUMA-based memory management, QEMU is now working on Redox, and much more. Of course, there’s also the usual long list of improvements to the kernel, relibc, drivers, and more.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146029</guid>
+      <category>Redox OS</category>
+    </item>    <item>
+      <title>JagOS ‘Spot’ turns Atari Jaguar into the unreleased Atari Painter prototype computer</title>
+      <link>https://www.osnews.com/story/146020/jagos-spot-turns-atari-jaguar-into-the-unreleased-atari-painter-prototype-computer/</link>
+      <description>
+        <![CDATA[Can you run an operating system with a graphical user interface and applications on the Atari Jaguar? Well, you can. A long time running idea and work-in-progress, I&#8217;d like to finally announce the current version of JagOS &#8216;Spot&#8217; for the Atari Jaguar, running from the RetroHQ GameDrive. I&#8217;m slow at releasing things and try not to announce in-progress stuff due to lack of free time but would like to push this along. Maybe it&#8217;ll motivate me to work on it more if the interest is there or just release it as-is if not. The idea is based on the unreleased Atari Jaguar Painter Computer prototype, that a merged Falcon with Jaguar chipset-based computer would have found its way into consumer hands after the Falcon030. ↫ Clint Thompson The screenshots and YouTube video are quite impressive, but as it&#8217;s not actually released, it&#8217;s difficult to really say anything more about this project for now. I hope there&#8217;s enough interest to get this project&#8217;s code out there so it can be further improved and expanded.]]>
+      </description>
+      <source:markdown>Can you run an operating system with a graphical user interface and applications on the Atari Jaguar? Well, you can. A long time running idea and work-in-progress, I’d like to finally announce the current version of JagOS ‘Spot’ for the Atari Jaguar, running from the RetroHQ GameDrive. I’m slow at releasing things and try not to announce in-progress stuff due to lack of free time but would like to push this along. Maybe it’ll motivate me to work on it more if the interest is there or just release it as-is if not. The idea is based on the unreleased Atari Jaguar Painter Computer prototype, that a merged Falcon with Jaguar chipset-based computer would have found its way into consumer hands after the Falcon030. ↫ Clint Thompson The screenshots and YouTube video are quite impressive, but as it’s not actually released, it’s difficult to really say anything more about this project for now. I hope there’s enough interest to get this project’s code out there so it can be further improved and expanded.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146020</guid>
+      <category>OS News</category>
+    </item>    <item>
+      <title>NASA, Boeing to Provide Update on Starliner Development</title>
+      <link>https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/</link>
+      <description>
+        <![CDATA[During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to watch online: https://www.nasa.gov/live The briefing participants include: Media already credentialed for Crew-13 may participate in person at NASA’s Kennedy [&#8230;]]]>
+      </description>
+      <source:markdown>During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to watch online: https://www.nasa.gov/live The briefing participants include: Media already credentialed for Crew-13 may participate in person at NASA’s Kennedy \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1050672</guid>
+      <category>International Space Station (ISS)</category>
+      <category>Commercial Space</category>
+      <category>Low Earth Orbit Economy</category>
+    </item>    <item>
+      <title>Mysterious &#39;Anomalies&#39; Have Been Detected Beyond King Tut&#39;s Tomb. Could They Be Secret Passageways Leading to the Long-Lost Remains of Queen Nefertiti?</title>
+      <link>https://www.smithsonianmag.com/smart-news/mysterious-anomalies-have-been-detected-beyond-king-tuts-tomb-could-they-be-secret-passageways-leading-to-the-long-lost-remains-of-queen-nefertiti-180989576/</link>
+      <description>
+        <![CDATA[Geophysical surveys provide new evidence for a theory that the Egyptian pharaoh was interred in the outer rooms of an existing burial complex. Researchers are trying to get approval to investigate for themselves]]>
+      </description>
+      <source:markdown>Geophysical surveys provide new evidence for a theory that the Egyptian pharaoh was interred in the outer rooms of an existing burial complex. Researchers are trying to get approval to investigate for themselves</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ks82A7LDdM5OoMitjsPA-0Df6Vk=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/67/cb/67cb50d9-fce7-4660-ab6d-568ffe85a9b0/tut.jpg" length="626788" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/mysterious-anomalies-have-been-detected-beyond-king-tuts-tomb-could-they-be-secret-passageways-leading-to-the-long-lost-remains-of-queen-nefertiti-180989576/</guid>
+    </item>    <item>
+      <title>In a First, Sea Turtles Were Spotted Nesting on the U.S. West Coast. Scientists Say the &#39;Super&#39; El Niño Could Have Brought Them There</title>
+      <link>https://www.smithsonianmag.com/smart-news/in-a-first-sea-turtles-were-spotted-nesting-on-the-us-west-coast-scientists-say-the-super-el-nino-could-have-brought-them-there-180989574/</link>
+      <description>
+        <![CDATA[Two olive ridley turtles were found laying eggs on beaches in Southern California in September. In the Pacific Ocean, these reptiles normally nest farther south, often in Mexico, Nicaragua, Costa Rica and Panama]]>
+      </description>
+      <source:markdown>Two olive ridley turtles were found laying eggs on beaches in Southern California in September. In the Pacific Ocean, these reptiles normally nest farther south, often in Mexico, Nicaragua, Costa Rica and Panama</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/D-Npq0DIiuKirQjyPOCwOFVtZQQ=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/37/a2/37a2a3e3-0258-4b23-87cf-13af4e698411/smithsonian_feature_images_24.png" length="3557319" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/in-a-first-sea-turtles-were-spotted-nesting-on-the-us-west-coast-scientists-say-the-super-el-nino-could-have-brought-them-there-180989574/</guid>
+    </item>    <item>
+      <title>NASA Welcomes San Marino Signing the Artemis Accords</title>
+      <link>https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/</link>
+      <description>
+        <![CDATA[The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present.   “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space,” said NASA Deputy Administrator [&#8230;]]]>
+      </description>
+      <source:markdown>The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present.   “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space,” said NASA Deputy Administrator \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1050600</guid>
+      <category>Office of International and Interagency Relations (OIIR)</category>
+      <category>Artemis Accords</category>
+    </item>    <item>
+      <title>NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch</title>
+      <link>https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/</link>
+      <description>
+        <![CDATA[Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests on a new small satellite designed to make spaceflight safer [&#8230;]]]>
+      </description>
+      <source:markdown>Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests on a new small satellite designed to make spaceflight safer \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1050570</guid>
+      <category>Research and Technology Mission Directorate</category>
+      <category>CubeSats</category>
+      <category>Marshall Space Flight Center</category>
+    </item>    <item>
+      <title>Hitler Had an Intense, Mysterious Relationship With His Half-Niece. New Research Suggests His Alibi for Her Murder Might Not Hold Up</title>
+      <link>https://www.smithsonianmag.com/smart-news/hitler-had-an-intense-mysterious-relationship-with-his-half-niece-new-research-suggests-his-alibi-for-her-murder-might-not-hold-up-180989572/</link>
+      <description>
+        <![CDATA[Recently uncovered documents about the timing of Geli Raubal’s death cast new doubt on the Nazi leader’s alibi, which had been considered reasonably sound for nearly a century]]>
+      </description>
+      <source:markdown>Recently uncovered documents about the timing of Geli Raubal’s death cast new doubt on the Nazi leader’s alibi, which had been considered reasonably sound for nearly a century</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/iU7R-ACwPCaD9NcIPnX4KP9XInE=/420x240/filters:focal(1916x1277:1917x1278)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b6/f7/b6f771b8-a427-42f4-bde3-52aaba2da286/gettyimages-541794949.jpg" length="1136757" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/hitler-had-an-intense-mysterious-relationship-with-his-half-niece-new-research-suggests-his-alibi-for-her-murder-might-not-hold-up-180989572/</guid>
+    </item>    <item>
+      <title>Two New Stick Insect Species Have Been Discovered in Australia—and Another One Was Hiding in Plain Sight</title>
+      <link>https://www.smithsonianmag.com/smart-news/two-new-stick-insect-species-have-been-discovered-in-australiaand-another-one-was-hiding-in-plain-sight-180989575/</link>
+      <description>
+        <![CDATA[The new discoveries emphasize that scientists have a lot left to learn about insect diversity, even in areas with many observations]]>
+      </description>
+      <source:markdown>The new discoveries emphasize that scientists have a lot left to learn about insect diversity, even in areas with many observations</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jPCib-s7FZd7gQJP35seTjiOVEI=/420x240/filters:focal(992x661:993x662)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/50/e9/50e99089-da9f-4a3d-896e-28f2bd58ca21/aen70096-fig-0001-m.jpg" length="714180" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/two-new-stick-insect-species-have-been-discovered-in-australiaand-another-one-was-hiding-in-plain-sight-180989575/</guid>
+    </item>    <item>
+      <title>Scientists Invent a Digestible, Paper-Based Battery That Can Power Swallowed or Implanted Medical Devices</title>
+      <link>https://www.smithsonianmag.com/smart-news/scientists-invent-a-digestible-paper-based-battery-that-can-power-swallowed-or-implanted-medical-devices-180989549/</link>
+      <description>
+        <![CDATA[So far, the technology has been tested only in pigs. If it's successful in humans, it could one day power tools that monitor your health or deliver drugs or electrical currents inside the body]]>
+      </description>
+      <source:markdown>So far, the technology has been tested only in pigs. If it&#39;s successful in humans, it could one day power tools that monitor your health or deliver drugs or electrical currents inside the body</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/a2CDwyfZrRzsswovbsf6PjFzwik=/420x240/filters:focal(450x300:451x301)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b3/5d/b35d927c-99db-4447-80d5-53df2c4600cf/mit-bioreabsorb-01-press_0.jpg" length="347436" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-invent-a-digestible-paper-based-battery-that-can-power-swallowed-or-implanted-medical-devices-180989549/</guid>
+    </item>    <item>
+      <title>2026-2027 DWU: Middle School Design Challenge</title>
+      <link>https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/</link>
+      <description>
+        <![CDATA[2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.”&#160; As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, make [&#8230;]]]>
+      </description>
+      <source:markdown>2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.”  As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, make \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1045213</guid>
+      <category>Aeronautics STEM</category>
+    </item>    <item>
+      <title>2026-2027 DWU: High School Engineering Challenge</title>
+      <link>https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/</link>
+      <description>
+        <![CDATA[2026-2027 DWU: High School Engineering Challenge Challenge Materials Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA,&#160;at universities, and in the aviation industry are searching for ways to increase safety, [&#8230;]]]>
+      </description>
+      <source:markdown>2026-2027 DWU: High School Engineering Challenge Challenge Materials Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1044122</guid>
+      <category>Aeronautics STEM</category>
+    </item>    <item>
+      <title>Hubble Spots Chaotic Secret in Galaxy</title>
+      <link>https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/</link>
+      <description>
+        <![CDATA[A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA&#8217;s Hubble Space Telescope and released on Sept. 18, 2026. As a spiral galaxy like our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disk of stars, gas, and dust. These arms [&#8230;]]]>
+      </description>
+      <source:markdown>A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA’s Hubble Space Telescope and released on Sept. 18, 2026. As a spiral galaxy like our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disk of stars, gas, and dust. These arms \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1050096</guid>
+      <category>Spiral Galaxies</category>
+    </item>    <item>
+      <title>Two Thousand Years Ago, Julius Caesar Conquered the Settlement That Eventually Became Paris. Archaeologists May Have Just Found It</title>
+      <link>https://www.smithsonianmag.com/smart-news/two-thousand-years-ago-julius-caesar-conquered-the-settlement-that-eventually-became-paris-archaeologists-may-have-just-found-it-180989569/</link>
+      <description>
+        <![CDATA[While conducting excavations at a hospital on the Île de la Cité, in the Seine River, researchers discovered part of a wall that may have once protected Lutetia, the Gallic precursor to France’s capital]]>
+      </description>
+      <source:markdown>While conducting excavations at a hospital on the Île de la Cité, in the Seine River, researchers discovered part of a wall that may have once protected Lutetia, the Gallic precursor to France’s capital</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/8kxMESGE-tZqAQYUPO61Eie6EEA=/420x240/filters:focal(412x275:413x276)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a6/69/a66911ad-542f-4d10-8daa-eacfc5f26304/7f5eed1406ef-image5-sitewebp.webp" length="70770" type="image/webp" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/two-thousand-years-ago-julius-caesar-conquered-the-settlement-that-eventually-became-paris-archaeologists-may-have-just-found-it-180989569/</guid>
+    </item>    <item>
+      <title>TB 26-07 Aluminum Alloy 2219 Material Guidance</title>
+      <link>https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/</link>
+      <description>
+        <![CDATA[For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.parker@nasa.gov Download the PDF version Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to microstructural defects that result in a sub-optimal response to anodic surface treatments and an increase in corrosion susceptibility. This Technical Bulletin communicates the risks of [&#8230;]]]>
+      </description>
+      <source:markdown>For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.parker@nasa.gov Download the PDF version Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to microstructural defects that result in a sub-optimal response to anodic surface treatments and an increase in corrosion susceptibility. This Technical Bulletin communicates the risks of \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1050431</guid>
+      <category>NASA Engineering and Safety Center</category>
+    </item>    <item>
+      <title>Gravity Seems Holographic. What Does That Mean for Reality?</title>
+      <link>https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/</link>
+      <description>
+        <![CDATA[The biggest breakthrough in modern theoretical physics is the discovery that gravity can collapse the dimensions of space. Physicists don’t yet understand the implications.            <p>The post <a href="https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/" target="_blank">Gravity Seems Holographic. What Does That Mean for Reality?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>The biggest breakthrough in modern theoretical physics is the discovery that gravity can collapse the dimensions of space. Physicists don’t yet understand the implications.
+
+The post [Gravity Seems Holographic. What Does That Mean for Reality?](https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=167403</guid>
+      <category>Physics</category>
+    </item>    <item>
+      <title>Where Did Bats Originate? Huge Genetic Study May Have Settled the Longstanding Debate and Rewritten the Creatures&#39; Evolutionary Tree</title>
+      <link>https://www.smithsonianmag.com/smart-news/where-did-bats-originate-huge-genetic-study-may-have-settled-the-longstanding-debate-and-rewritten-the-creatures-evolutionary-tree-180989568/</link>
+      <description>
+        <![CDATA[The flying mammals likely arose 65 million years ago in Europe, before spreading to Africa and then the rest of the world, according to the new research]]>
+      </description>
+      <source:markdown>The flying mammals likely arose 65 million years ago in Europe, before spreading to Africa and then the rest of the world, according to the new research</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/uuEuehsJazuE5uGnWRcdlXpjP5k=/420x240/filters:focal(1112x953:1113x954)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/90/d9/90d902fa-11d3-4e16-a7b8-e242a46643dc/common_vampire_bat_desmodus_rotundus_credit_brock_and_sherri_fenton.jpg" length="1043630" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/where-did-bats-originate-huge-genetic-study-may-have-settled-the-longstanding-debate-and-rewritten-the-creatures-evolutionary-tree-180989568/</guid>
+    </item>    <item>
       <title>See a Stunning Collection of Stolen Greek Artifacts, Spanning 5,000 Years, That Were Just Returned to Greece</title>
       <link>https://www.smithsonianmag.com/smart-news/see-a-stunning-collection-of-stolen-greek-artifacts-spanning-5000-years-that-were-just-returned-to-greece-180989566/</link>
       <description>
@@ -2843,134 +3021,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <source:markdown>APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon’s \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/</guid>
       <category>APOD</category>
-    </item>    <item>
-      <title>A New York City Exhibition Celebrates Snoopy’s Enduring Influence on Art and Fashion</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-new-york-city-exhibition-celebrates-snoopys-enduring-influence-on-art-and-fashion-180989455/</link>
-      <description>
-        <![CDATA[The beloved "Peanuts" character’s many costumes and brand collaborations are featured in a new showcase]]>
-      </description>
-      <source:markdown>The beloved &#34;Peanuts&#34; character’s many costumes and brand collaborations are featured in a new showcase</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/eaZmeViS7GzNv80O8KfsyF2QGw8=/420x240/filters:focal(960x681:961x682)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c9/05/c905a52f-0314-4ce0-993c-206eadb5d2c4/grc-2019-c-00772large.jpg" length="276206" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-new-york-city-exhibition-celebrates-snoopys-enduring-influence-on-art-and-fashion-180989455/</guid>
-    </item>    <item>
-      <title>Microsoft unveils a Windows variant for developers with 64GB of unified RAM</title>
-      <link>https://www.osnews.com/story/145908/microsoft-unveils-a-windows-variant-for-developers-with-64gb-of-unified-ram/</link>
-      <description>
-        <![CDATA[Zenith is a variant of Windows for &#8220;developer-class devices&#8221;. Project Zenith comes with a set of pre-installed tools spanning languages and runtimes, source control, and productivity tools. Windows Terminal and Visual Studio Code are pinned to the Taskbar by default, putting your favorite tools within immediate reach. We’ve also pre-configured Windows Settings for coding across File Explorer, Search, Start, and the Taskbar. File Explorer shows file extensions, hidden files, the full path in the title bar, and the details pane, with long-path support enabled. Recently used files and folders and sync provider tips are turned off for a cleaner workspace. In Search and Start, Command Palette is enabled, while Start menu tips and account notifications are turned off to reduce distractions. Windows Subsystem for Linux (WSL) has become foundational for running Linux workloads on Windows. Last year we open-sourced WSL. Building on that momentum at Build 2026, we integrated WSL more deeply into Windows with WSL containers to provide a built-in way to create, run, and interact with Linux containers directly on Windows. ↫ Logan Iyer at the Windows Blogs It&#8217;s highly unlikely you&#8217;ll be using this Zenith Windows flavour any time soon, as it requires 64GB of unified RAM with 250 GB/s memory bandwidth. In 2026, that&#8217;s a serious ask. On top of that, it&#8217;s not entirely clear to me if Zenith will be available as a separate Windows variant, without having to buy a complete device. Of course, it would be trivial to set all of this up on any fresh Windows installation.]]>
-      </description>
-      <source:markdown>Zenith is a variant of Windows for “developer-class devices”. Project Zenith comes with a set of pre-installed tools spanning languages and runtimes, source control, and productivity tools. Windows Terminal and Visual Studio Code are pinned to the Taskbar by default, putting your favorite tools within immediate reach. We’ve also pre-configured Windows Settings for coding across File Explorer, Search, Start, and the Taskbar. File Explorer shows file extensions, hidden files, the full path in the title bar, and the details pane, with long-path support enabled. Recently used files and folders and sync provider tips are turned off for a cleaner workspace. In Search and Start, Command Palette is enabled, while Start menu tips and account notifications are turned off to reduce distractions. Windows Subsystem for Linux (WSL) has become foundational for running Linux workloads on Windows. Last year we open-sourced WSL. Building on that momentum at Build 2026, we integrated WSL more deeply into Windows with WSL containers to provide a built-in way to create, run, and interact with Linux containers directly on Windows. ↫ Logan Iyer at the Windows Blogs It’s highly unlikely you’ll be using this Zenith Windows flavour any time soon, as it requires 64GB of unified RAM with 250 GB/s memory bandwidth. In 2026, that’s a serious ask. On top of that, it’s not entirely clear to me if Zenith will be available as a separate Windows variant, without having to buy a complete device. Of course, it would be trivial to set all of this up on any fresh Windows installation.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=145908</guid>
-      <category>Windows</category>
-    </item>    <item>
-      <title>NASA Ames Fire Department Aircraft Firefighting Training</title>
-      <link>https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/</link>
-      <description>
-        <![CDATA[The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is [&#8230;]]]>
-      </description>
-      <source:markdown>The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1044835</guid>
-      <category>Ames Research Center</category>
-    </item>    <item>
-      <title>After an Eight-Year Journey, Two Spacecraft Have Begun Their Arrival to Mercury, the Inner Solar System&#39;s Most Mysterious Planet</title>
-      <link>https://www.smithsonianmag.com/smart-news/after-an-eight-year-journey-two-spacecraft-have-begun-their-arrival-to-mercury-the-inner-solar-systems-most-mysterious-planet-180989458/</link>
-      <description>
-        <![CDATA[The BepiColombo mission, by the European Space Agency and the Japan Aerospace Exploration Agency, is only the third to study our smallest planetary neighbor]]>
-      </description>
-      <source:markdown>The BepiColombo mission, by the European Space Agency and the Japan Aerospace Exploration Agency, is only the third to study our smallest planetary neighbor</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/S5B7AQ_n4uVEthi9MGd_sBFoluM=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/31/eb/31ebdfc9-0df0-4f8b-9103-77d6dfdb4483/smithsonian_feature_images_15.png" length="686294" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/after-an-eight-year-journey-two-spacecraft-have-begun-their-arrival-to-mercury-the-inner-solar-systems-most-mysterious-planet-180989458/</guid>
-    </item>    <item>
-      <title>NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community</title>
-      <link>https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/</link>
-      <description>
-        <![CDATA[NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The&#160;RS-25&#160;Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and low-vision audience. The&#160;webinar&#160;will last about two hours and [&#8230;]]]>
-      </description>
-      <source:markdown>NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and low-vision audience. The webinar will last about two hours and \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1044713</guid>
-      <category>General</category>
-      <category>Events</category>
-    </item>    <item>
-      <title>GLP-1 Weight-Loss Drugs Can Slow Aging and Extend Life Span, Mouse Study Suggests</title>
-      <link>https://www.smithsonianmag.com/smart-news/GLP-1-weight-loss-drugs-can-slow-aging-and-extend-lifespan-mouse-study-suggests-180989452/</link>
-      <description>
-        <![CDATA[Older female mice—equivalent in age to 60-year-old women—given daily injections of the active ingredient in Ozempic lived about 12 percent longer than animals that didn't receive the drug]]>
-      </description>
-      <source:markdown>Older female mice—equivalent in age to 60-year-old women—given daily injections of the active ingredient in Ozempic lived about 12 percent longer than animals that didn&#39;t receive the drug</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2AOYC0sfvDbp_lfPShLuLxOb0Q4=/420x240/filters:focal(3840x2176:3841x2177)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bc/df/bcdf38b1-5940-4466-8703-d20d1d334481/ozempic.jpg" length="11866513" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/GLP-1-weight-loss-drugs-can-slow-aging-and-extend-lifespan-mouse-study-suggests-180989452/</guid>
-    </item>    <item>
-      <title>Lunar Occultation of Venus</title>
-      <link>https://www.nasa.gov/image-article/lunar-occultation-of-venus/</link>
-      <description>
-        <![CDATA[On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight. This time, the Moon slipped in front of Venus [&#8230;]]]>
-      </description>
-      <source:markdown>On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight. This time, the Moon slipped in front of Venus \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1044148</guid>
-    </item>    <item>
-      <title>Why Does Rain Eat Through Protective Coatings on Metal Structures? Researchers Propose a New Idea: Electrically Charged Droplets</title>
-      <link>https://www.smithsonianmag.com/smart-news/why-does-rain-eat-through-protective-coatings-on-metal-structures-researchers-propose-a-new-idea-electrically-charged-droplets-180989434/</link>
-      <description>
-        <![CDATA[Scientists long attributed rain damage to physical abrasion and chemical degradation from acidic substances. A new study offers a third idea, which could help researchers develop longer-lasting coatings and preserve important objects]]>
-      </description>
-      <source:markdown>Scientists long attributed rain damage to physical abrasion and chemical degradation from acidic substances. A new study offers a third idea, which could help researchers develop longer-lasting coatings and preserve important objects</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/90pUbwkXXJR59gzyZInsOIWXE58=/420x240/filters:focal(2250x1286:2251x1287)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/47/a8/47a8e50d-723c-4887-9823-98217843639a/golden-gate-bridge.jpg" length="7383298" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/why-does-rain-eat-through-protective-coatings-on-metal-structures-researchers-propose-a-new-idea-electrically-charged-droplets-180989434/</guid>
-    </item>    <item>
-      <title>Researchers Have Figured Out How to Spot Fake Ancient Pottery Using the Earth&#39;s Magnetic Field</title>
-      <link>https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/</link>
-      <description>
-        <![CDATA[The magnetic North Pole has shifted over the millennia, leaving clues in the minerals that make up clay antiquities]]>
-      </description>
-      <source:markdown>The magnetic North Pole has shifted over the millennia, leaving clues in the minerals that make up clay antiquities</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/aWufYkAc5iqD3aOGX1QVjLT7q48=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cf/4d/cf4d3176-9efd-4c9f-b643-2bc4f16839b6/scripps_oceanography_geoscientist_lisa_tauxe_inserts_samples_i-32fad9c82902379b111b3658ab9c8a35.jpeg" length="1016758" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/</guid>
-    </item>    <item>
-      <title>Part of Your Personality Is Encoded in Your Genes. Huge Analysis Links Characteristics to More Than 1,200 Common Genetic Variants</title>
-      <link>https://www.smithsonianmag.com/smart-news/part-of-your-ersonality-is-encoded-in-your-genes-huge-analysis-links-characteristics-to-more-than-1200-common-genetic-variants-180989450/</link>
-      <description>
-        <![CDATA[A new meta-analysis pooled data from more than one million people to look at the crossover between DNA and the "Big Five" personality traits: openness to experience, conscientiousness, extroversion, agreeableness and neuroticism]]>
-      </description>
-      <source:markdown>A new meta-analysis pooled data from more than one million people to look at the crossover between DNA and the &#34;Big Five&#34; personality traits: openness to experience, conscientiousness, extroversion, agreeableness and neuroticism</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/qxS4gH-lD3pRWGwZyglljSpGLQ4=/420x240/filters:focal(3000x2086:3001x2087)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/34/5d/345da7bc-77c2-4e35-af89-ccc2662f78c5/dna-personality.jpg" length="11250444" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/part-of-your-ersonality-is-encoded-in-your-genes-huge-analysis-links-characteristics-to-more-than-1200-common-genetic-variants-180989450/</guid>
-    </item>    <item>
-      <title>A new investigation shows heat is even deadlier than we thought</title>
-      <link>https://www.npr.org/2026/09/04/nx-s1-5945241/a-new-investigation-shows-heat-is-even-deadlier-than-we-thought</link>
-      <description>
-        <![CDATA[Hot weather isn’t just an inconvenience. It’s killing thousands more Americans than show up in official records. That’s the finding from a new NPR investigation, in partnership with Boston University. And the way they came up with that new, better estimate of the true toll of heat is, of course, with <em>science</em>. This episode, we’ll bring you all the details – and chat about why getting good estimates could save lives.<br/><br/><em>Interested in more science-based investigations? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at <a href="http://plus.npr.org/"target="_blank"   >plus.npr.org</a>.<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Hot weather isn’t just an inconvenience. It’s killing thousands more Americans than show up in official records. That’s the finding from a new NPR investigation, in partnership with Boston University. And the way they came up with that new, better estimate of the true toll of heat is, of course, with _science_. This episode, we’ll bring you all the details – and chat about why getting good estimates could save lives.
-
-_Interested in more science-based investigations? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at [plus.npr.org](http://plus.npr.org/).
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/a8866710-9516-4062-bd0e-f02b001aa88a/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=a8866710-9516-4062-bd0e-f02b001aa88a&feed=F0qJcgXZ&t=podcast&e=nx-s1-5945241&p=510351&d=885&size=14169278" length="14169278" type="audio/mpeg" />
-      <guid>cid://d779cae7-b15e-42d7-994f-e9a5135625f1</guid>
-    </item>    <item>
-      <title>APOD: 2026 September 4 – Na Uhane Mahoe Huki Pu i ke Ola</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 September 4 – Na… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Nā ʻUhane [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 September 4 – Na… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Nā ʻUhane \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/</guid>
-      <category>APOD</category>
-    </item>    <item>
-      <title>A Trio of Tropical Cyclones in the Pacific</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/</link>
-      <description>
-        <![CDATA[The Pacific was buzzing with storms while the Atlantic was notably quiet.]]>
-      </description>
-      <source:markdown>The Pacific was buzzing with storms while the Atlantic was notably quiet.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/</guid>
-      <category>Clouds</category>
-      <category>Deep Space Climate Observatory (DSCOVR)</category>
-      <category>Earth Observatory</category>
-      <category>Hurricanes &#38; Typhoons</category>
     </item>
   </channel>
 </rss>

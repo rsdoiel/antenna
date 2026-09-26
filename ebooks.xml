@@ -4,10 +4,87 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>25 Sep 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>26 Sep 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Work, wait, win by Ruth Lamb</title>
+      <link>https://www.gutenberg.org/ebooks/79593</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>All&#39;s fair by Ray Humphreys</title>
+      <link>https://www.gutenberg.org/ebooks/79652</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A minute to think by Ray Humphreys</title>
+      <link>https://www.gutenberg.org/ebooks/79649</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Le voyage de Nachtigal au Ouadaï by Gustav Nachtigal</title>
+      <link>https://www.gutenberg.org/ebooks/79651</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Along the Hudson with Washington Irving by Wallace Bruce</title>
+      <link>https://www.gutenberg.org/ebooks/79653</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Connie Morgan in the cattle country by James B.  Hendryx</title>
+      <link>https://www.gutenberg.org/ebooks/79655</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Primitive art by Franz Boas</title>
+      <link>https://www.gutenberg.org/ebooks/77834</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Race and reason : by Carleton Putnam</title>
+      <link>https://www.gutenberg.org/ebooks/79654</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The best short stories of 1916, and the yearbook of the American short story</title>
+      <link>https://www.gutenberg.org/ebooks/79656</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Die Leiden des jungen Werther — Band 1 by Johann Wolfgang von Goethe</title>
+      <link>https://www.gutenberg.org/ebooks/2407</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>Historia geral da invasão dos francezes em Portugal e da restauração deste reino (Volume IV)</title>
+      <link>https://www.gutenberg.org/ebooks/79650</link>
+      <description>
+        <![CDATA[Language: Portuguese]]>
+      </description>
+      <source:markdown>Language: Portuguese</source:markdown>
+    </item>    <item>
       <title>King Arthur and the Knights of the Round Table by Sir Thomas Malory</title>
       <link>https://www.gutenberg.org/ebooks/36462</link>
       <description>
@@ -710,13 +787,6 @@
     </item>    <item>
       <title>Hell&#39;s Angel by Raoul Whitfield</title>
       <link>https://www.gutenberg.org/ebooks/79581</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Work, wait, win by Ruth Lamb</title>
-      <link>https://www.gutenberg.org/ebooks/79593</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1676,69 +1746,6 @@
     </item>    <item>
       <title>Condensation of Determinants by Lewis Carroll</title>
       <link>https://www.gutenberg.org/ebooks/37354</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Koran (Al-Qur&#39;an)</title>
-      <link>https://www.gutenberg.org/ebooks/2800</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The puzzle planet by Robert A.W. Lowndes</title>
-      <link>https://www.gutenberg.org/ebooks/79510</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Viva la pay day by Seven Anderton</title>
-      <link>https://www.gutenberg.org/ebooks/79511</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Variations by James Huneker</title>
-      <link>https://www.gutenberg.org/ebooks/79507</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Lives of the queens of Scotland and English princesses : by Agnes Strickland</title>
-      <link>https://www.gutenberg.org/ebooks/79508</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Fortunes and Misfortunes of the Famous Moll Flanders by Daniel Defoe</title>
-      <link>https://www.gutenberg.org/ebooks/370</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Ladies of Lyndon by Margaret Kennedy</title>
-      <link>https://www.gutenberg.org/ebooks/79505</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Lucien by Henri-René Binet-Valmer</title>
-      <link>https://www.gutenberg.org/ebooks/79506</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Summer camp by Anne Herbert</title>
-      <link>https://www.gutenberg.org/ebooks/79509</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
