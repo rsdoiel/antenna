@@ -4,12 +4,75 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>26 Sep 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>27 Sep 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Work, wait, win by Ruth Lamb</title>
       <link>https://www.gutenberg.org/ebooks/79593</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Primitive art by Franz Boas</title>
+      <link>https://www.gutenberg.org/ebooks/77834</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Die Leiden des jungen Werther — Band 1 by Johann Wolfgang von Goethe</title>
+      <link>https://www.gutenberg.org/ebooks/2407</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+    </item>    <item>
+      <title>The fourth plague by Edgar Wallace</title>
+      <link>https://www.gutenberg.org/ebooks/79658</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Divine Comedy, Longfellow&#39;s Translation, Purgatory by Dante Alighieri</title>
+      <link>https://www.gutenberg.org/ebooks/1002</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>L&#39;homme stupide by Charles Richet</title>
+      <link>https://www.gutenberg.org/ebooks/79657</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Penrod by Booth Tarkington</title>
+      <link>https://www.gutenberg.org/ebooks/402</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>A Set of Six by Joseph Conrad</title>
+      <link>https://www.gutenberg.org/ebooks/2305</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone by Sophocles</title>
+      <link>https://www.gutenberg.org/ebooks/31</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Souls of Black Folk by W. E. B.  Du Bois</title>
+      <link>https://www.gutenberg.org/ebooks/408</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -50,13 +113,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>Primitive art by Franz Boas</title>
-      <link>https://www.gutenberg.org/ebooks/77834</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Race and reason : by Carleton Putnam</title>
       <link>https://www.gutenberg.org/ebooks/79654</link>
       <description>
@@ -70,13 +126,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Die Leiden des jungen Werther — Band 1 by Johann Wolfgang von Goethe</title>
-      <link>https://www.gutenberg.org/ebooks/2407</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
     </item>    <item>
       <title>Historia geral da invasão dos francezes em Portugal e da restauração deste reino (Volume IV)</title>
       <link>https://www.gutenberg.org/ebooks/79650</link>
@@ -1662,90 +1711,6 @@
     </item>    <item>
       <title>Christie&#39;s Christmas by Pansy</title>
       <link>https://www.gutenberg.org/ebooks/79517</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>English Gothic foliage sculpture by Samuel Gardner</title>
-      <link>https://www.gutenberg.org/ebooks/79482</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A history of English lotteries : by John Ashton</title>
-      <link>https://www.gutenberg.org/ebooks/77478</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A Tennyson dictionary : by Arthur E.  Baker</title>
-      <link>https://www.gutenberg.org/ebooks/79512</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Treasure Island by Robert Louis Stevenson</title>
-      <link>https://www.gutenberg.org/ebooks/120</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>What Diantha Did by Charlotte Perkins Gilman</title>
-      <link>https://www.gutenberg.org/ebooks/3016</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Germanische Mythologie by Eugen Mogk</title>
-      <link>https://www.gutenberg.org/ebooks/79513</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>Anthem by Ayn Rand</title>
-      <link>https://www.gutenberg.org/ebooks/1250</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The journal of George Fox, vol. 2 of 2 : by George Fox</title>
-      <link>https://www.gutenberg.org/ebooks/75590</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Adrift on the Amazon by Leo E.  Miller</title>
-      <link>https://www.gutenberg.org/ebooks/77361</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The last days of the French monarchy by Hilaire Belloc</title>
-      <link>https://www.gutenberg.org/ebooks/77288</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Sous les murs de Bagdad : by Émile Zavie</title>
-      <link>https://www.gutenberg.org/ebooks/79514</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Condensation of Determinants by Lewis Carroll</title>
-      <link>https://www.gutenberg.org/ebooks/37354</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

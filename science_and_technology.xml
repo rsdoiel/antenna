@@ -4,10 +4,19 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>26 Sep 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>27 Sep 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>APOD: 2026 September 27 – Andromeda Before and After Photoshop</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 September 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. BeforeAfter Andromeda Before [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 September 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. BeforeAfter Andromeda Before \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/</guid>
+      <category>APOD</category>
+    </item>    <item>
       <title>APOD: 2026 September 26 – Mirrored Meteor and Milky Way</title>
       <link>https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/</link>
       <description>
@@ -3012,15 +3021,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <category>Landsat 8 / LDCM (Landsat Data Continuity Mission)</category>
       <category>Landsat 9</category>
       <category>Volcanoes</category>
-    </item>    <item>
-      <title>APOD: 2026 September 5 – Chasing the Moon’s Shadow</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon&#8217;s [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon’s \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/</guid>
-      <category>APOD</category>
     </item>
   </channel>
 </rss>

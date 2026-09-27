@@ -4,10 +4,20 @@
   <channel>
     <title><![CDATA[Healthy Eats]]></title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>26 Sep 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>27 Sep 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Best Part Of Waking Up Is When September Ends</title>
+      <link>https://sprudge.com/the-best-part-of-waking-up-is-when-september-ends-1367324.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster's Village.]]>
+      </description>
+      <source:markdown>**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster&#39;s Village.**</source:markdown>
+      <guid>cid://https://sprudge.com/?p=1367324</guid>
+      <category>Roaster&#39;s Village</category>
+      <category>coffee</category>
+    </item>    <item>
       <title>Update Your Coffee Counter With Some Fresh New Gear</title>
       <link>https://sprudge.com/update-your-coffee-counter-with-some-fresh-new-gear-1367327.html</link>
       <description>
@@ -4844,15 +4854,6 @@ The post [50+ Late Summer Recipes](https://www.closetcooking.com/50-late-summer-
       <category>Featured</category>
       <category>Food</category>
       <category>Roundup</category>
-    </item>    <item>
-      <title>Pumpkin Chili</title>
-      <link>https://www.bonappetit.com/recipe/weeknight-pumpkin-chili</link>
-      <description>
-        <![CDATA[A can of pumpkin puree adds richness, body, and an autumnal hue to this speedy chili, letting the flavors of the spices, aromatics, and ground beef shine.]]>
-      </description>
-      <source:markdown>A can of pumpkin puree adds richness, body, and an autumnal hue to this speedy chili, letting the flavors of the spices, aromatics, and ground beef shine.</source:markdown>
-      <guid>cid://68de835be1095cc00a2d7beb</guid>
-      <category>Recipes</category>
     </item>
   </channel>
 </rss>
