@@ -5,7 +5,7 @@
     <title><![CDATA[Columns]]></title>
     <description><![CDATA[Blogs, columns and snapshots from around the web.]]></description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>27 Sep 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>28 Sep 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -35,6 +35,737 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Shin honkaku</title>
+      <link>https://dbushell.com/2026/09/28/shin-honkaku/</link>
+      <description>
+        <![CDATA[Shin honkaku is a sub-genre of Japanese detection fiction — and my new obsession! I’ve even designed my own book cover, scroll down to see… An intro to the genre “Shin honkaku” translates to “new orthodox” and pays homage to classic western authors of the early 20th century such as Poe, Queen, Van […]]]>
+      </description>
+      <source:markdown>Shin honkaku is a sub-genre of Japanese detection fiction — and my new obsession! I’ve even designed my own book cover, scroll down to see… An intro to the genre “Shin honkaku” translates to “new orthodox” and pays homage to classic western authors of the early 20th century such as Poe, Queen, Van \[…\]</source:markdown>
+      <guid>cid://https://dbushell.com/2026/09/28/shin-honkaku/</guid>
+    </item>    <item>
+      <title>Leaving them behind</title>
+      <link>https://dbushell.com/2026/09/28/leaving-them-behind/</link>
+      <description>
+        <![CDATA[Quick note before we begin: this is the first of two posts I’m publishing today. You’re welcome to skip ahead to: Shin honkaku — it’s far more fun! I’ve waited long enough! I’ve entertained one “wait six months” too many! The TL;DR for my updated AI policy has changed: The absolute vileness of the […]]]>
+      </description>
+      <source:markdown>Quick note before we begin: this is the first of two posts I’m publishing today. You’re welcome to skip ahead to: Shin honkaku — it’s far more fun! I’ve waited long enough! I’ve entertained one “wait six months” too many! The TL;DR for my updated AI policy has changed: The absolute vileness of the \[…\]</source:markdown>
+      <guid>cid://https://dbushell.com/2026/09/28/leaving-them-behind/</guid>
+    </item>    <item>
+      <title>Trump Has Become What He Feared Most - Impotent, Not Powerful</title>
+      <link>https://www.hopiumchronicles.com/p/trump-has-become-what-he-feared-most</link>
+      <description>
+        <![CDATA[One of the most impressive candidates of the cycle, Paige Cognetti (PA-08), joins us live today at 230pm ET]]>
+      </description>
+      <source:markdown>One of the most impressive candidates of the cycle, Paige Cognetti (PA-08), joins us live today at 230pm ET</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/af2616a9-76c6-4389-becf-1f4efbeb3de0_643x403.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/trump-has-become-what-he-feared-most</guid>
+    </item>    <item>
+      <title>New Attack Against RSA</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html</link>
+      <description>
+        <![CDATA[<p>ArsTechnica is <a href="https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/">reporting</a> on a &#8220;new&#8221; attack against RSA, one that bypasses factoring.</p>
+        <p>First, this attack isn&#8217;t new. The original research is from <a href="https://eprint.iacr.org/2007/424">2007</a>. What is new is the implementation.</p>
+        <p>Second, it is a forgery attack. It allows an attacker to forge digital signatures. It does not recover the private key from the public key.</p>
+        <p>Third, the attack only works against pure signatures. That is, signatures without any formatting or padding. This is not generally how we use RSA in practice.</p>
+        <p>Fourth, speed is all relative. This is not a polynomial-time algorithm; it&#8217;s a subexponential-time algorithm. But it is somewhat faster than factoring. The authors were able to forge messages for 1024-bit RSA with 1380 CPU core-years (over five real-world months)...</p>]]>
+      </description>
+      <source:markdown>ArsTechnica is [reporting](https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/) on a “new” attack against RSA, one that bypasses factoring.
+
+First, this attack isn’t new. The original research is from [2007](https://eprint.iacr.org/2007/424). What is new is the implementation.
+
+Second, it is a forgery attack. It allows an attacker to forge digital signatures. It does not recover the private key from the public key.
+
+Third, the attack only works against pure signatures. That is, signatures without any formatting or padding. This is not generally how we use RSA in practice.
+
+Fourth, speed is all relative. This is not a polynomial-time algorithm; it’s a subexponential-time algorithm. But it is somewhat faster than factoring. The authors were able to forge messages for 1024-bit RSA with 1380 CPU core-years (over five real-world months)...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=72687</guid>
+      <category>Uncategorized</category>
+      <category>academic papers</category>
+      <category>cryptography</category>
+      <category>forgery</category>
+      <category>RSA</category>
+    </item>    <item>
+      <title>Trump Bans Numbers 2 and 9 After Approval Rating Hits 29</title>
+      <link>https://www.borowitzreport.com/p/trump-bans-numbers-2-and-9-after</link>
+      <description>
+        <![CDATA[&#8220;Two and nine have treated me very unfairly," he said.]]>
+      </description>
+      <source:markdown>“Two and nine have treated me very unfairly,&#34; he said.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!21b_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8705d2f-4bca-479f-9072-c18ec0a8975b_1024x683.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/trump-bans-numbers-2-and-9-after</guid>
+    </item>    <item>
+      <title>The Time for Public Pharma is Now</title>
+      <link>https://lpeproject.org/blog/the-time-for-public-pharma-is-now/</link>
+      <description>
+        <![CDATA[To make medicines more affordable, policymakers are increasingly turning to price controls and out-of-pocket caps. These measures, while lowering costs, leave decisions about which drugs to manufacture and distribute in private hands. If patients are to have reliable access to the medicines they need, the government must take on a more direct role in development, production, and provision.]]>
+      </description>
+      <source:markdown>To make medicines more affordable, policymakers are increasingly turning to price controls and out-of-pocket caps. These measures, while lowering costs, leave decisions about which drugs to manufacture and distribute in private hands. If patients are to have reliable access to the medicines they need, the government must take on a more direct role in development, production, and provision.</source:markdown>
+      <guid>cid://https://lpeproject.org/?p=13401</guid>
+      <category>Essay</category>
+      <category>Health</category>
+      <category>Market Governance</category>
+    </item>    <item>
+      <title>I Approve of Trump’s Ad</title>
+      <link>https://paulkrugman.substack.com/p/i-approve-of-trumps-ad</link>
+      <description>
+        <![CDATA[No, I haven&#8217;t lost my mind]]>
+      </description>
+      <source:markdown>No, I haven’t lost my mind</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!cm9i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa52ff6f6-6c7f-4656-9cc1-3a045faa1b40_1952x1256.png" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/i-approve-of-trumps-ad</guid>
+    </item>    <item>
+      <title>What congressional candidate Jay Feely really thinks about female athletes</title>
+      <link>https://popular.info/p/what-congressional-candidate-jay</link>
+      <description>
+        <![CDATA[The former NFL kicker has made women&#8217;s sports a central issue in his campaign.]]>
+      </description>
+      <source:markdown>The former NFL kicker has made women’s sports a central issue in his campaign.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!CVt7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb6d8d00-3257-439f-9d91-4cda2fa7c8d7_1024x683.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://popular.info/p/what-congressional-candidate-jay</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: September 28, 2026</title>
+      <link>https://lithub.com/lit-hub-daily-september-28-2026/</link>
+      <description>
+        <![CDATA[&#8220;The spectral are getting louder, more insistent, more prevalent, and our literature, our cinema, reflect this.&#8221; Tara Badstubner explores why recent ghosts are (actually) haunting us. &#124; Lit Hub Craft Watch Angela Flournoy discuss The Wilderness, class, the internet, and]]>
+      </description>
+      <source:markdown>“The spectral are getting louder, more insistent, more prevalent, and our literature, our cinema, reflect this.” Tara Badstubner explores why recent ghosts are (actually) haunting us. \| Lit Hub Craft Watch Angela Flournoy discuss The Wilderness, class, the internet, and</source:markdown>
+      <guid>cid://https://lithub.com/?p=277577</guid>
+      <category>Lit Hub Daily</category>
+    </item>    <item>
+      <title>Trump loves Xi because he wants to be him</title>
+      <link>https://www.publicnotice.co/p/trump-china-xi</link>
+      <description>
+        <![CDATA[Kowtowing to tyrants makes him think he&#8217;s strong.]]>
+      </description>
+      <source:markdown>Kowtowing to tyrants makes him think he’s strong.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!YP7d!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34299f11-7af1-49bc-9e8d-004d5adcb00c_4290x2861.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.publicnotice.co/p/trump-china-xi</guid>
+    </item>    <item>
+      <title>Animate a Halloween skeleton — Raspberry Pi Book of Making 2027</title>
+      <link>https://www.raspberrypi.com/news/animate-a-halloween-skeleton-raspberry-pi-book-of-making-2027/</link>
+      <description>
+        <![CDATA[<p>From Raspberry Pi Book of Making 2027, this seasonal build uses a Raspberry Pi Pico and some Halloween magic.</p>
+        <p>The post <a href="https://www.raspberrypi.com/news/animate-a-halloween-skeleton-raspberry-pi-book-of-making-2027/">Animate a Halloween skeleton — Raspberry Pi Book of Making 2027</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <source:markdown>From Raspberry Pi Book of Making 2027, this seasonal build uses a Raspberry Pi Pico and some Halloween magic.
+
+The post [Animate a Halloween skeleton — Raspberry Pi Book of Making 2027](https://www.raspberrypi.com/news/animate-a-halloween-skeleton-raspberry-pi-book-of-making-2027/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
+      <guid>cid://https://www.raspberrypi.com/?p=140349</guid>
+      <category>Publications</category>
+      <category>Raspberry Pi Pico</category>
+      <category>Raspberry Pi Official Magazine</category>
+      <category>Raspberry Pi Publishing</category>
+    </item>    <item>
+      <title>William T. Vollmann on Trying to Excavate American Foreign Policy From the Cold War to the War on Terror</title>
+      <link>https://lithub.com/william-t-vollmann-on-trying-to-excavate-american-foreign-policy-from-the-cold-war-to-the-war-on-terror/</link>
+      <description>
+        <![CDATA[A Table for Fortune is about September 11th. As it grew, tracing the roots of that crime in one direction and its poisoned harvest in another, the book bifurcated. The first part is, or means to be, a novel of]]>
+      </description>
+      <source:markdown>A Table for Fortune is about September 11th. As it grew, tracing the roots of that crime in one direction and its poisoned harvest in another, the book bifurcated. The first part is, or means to be, a novel of</source:markdown>
+      <guid>cid://https://lithub.com/?p=277193</guid>
+      <category>Craft and Advice</category>
+      <category>Craft and Criticism</category>
+      <category>Features</category>
+      <category>History</category>
+      <category>Politics</category>
+      <category>A Table for Fortune</category>
+      <category>Arcade Publishing</category>
+      <category>Cold War</category>
+      <category>fiction writing</category>
+      <category>Skyhorse Publishing</category>
+      <category>spies</category>
+      <category>War on Terror</category>
+      <category>William T. Vollmann</category>
+      <category>Writing process</category>
+    </item>    <item>
+      <title>A Journey to Antarctica in Photos: Remembering Ernest Shackleton’s Grand Expedition</title>
+      <link>https://lithub.com/a-journey-to-antarctica-in-photos-remembering-ernest-shackletons-grand-expedition/</link>
+      <description>
+        <![CDATA[Among the treasures of the Royal Geographical Society’s two million strong collections are over 150 glass and celluloid negatives: the work of Frank Hurley, official photographer to Ernest Shackleton’s Imperial Trans-Antarctic Expedition of 1914-1917. These wonderful images have an importance]]>
+      </description>
+      <source:markdown>Among the treasures of the Royal Geographical Society’s two million strong collections are over 150 glass and celluloid negatives: the work of Frank Hurley, official photographer to Ernest Shackleton’s Imperial Trans-Antarctic Expedition of 1914-1917. These wonderful images have an importance</source:markdown>
+      <guid>cid://https://lithub.com/?p=277236</guid>
+      <category>Art and Photography</category>
+      <category>Features</category>
+      <category>History</category>
+      <category>Nature</category>
+      <category>News and Culture</category>
+      <category>Alexandra Shackleton</category>
+      <category>Chronicle Books</category>
+      <category>Ernest Shackleton</category>
+      <category>geography</category>
+      <category>photography</category>
+      <category>Polar exploration</category>
+      <category>The Endurance Photographs: A Definitive Visual Record of Shackleton’s Expedition</category>
+      <category>The Royal Geographical Society</category>
+    </item>    <item>
+      <title>The Real Story of the So-Called “Witches” of England</title>
+      <link>https://lithub.com/the-real-story-of-the-so-called-witches-of-england/</link>
+      <description>
+        <![CDATA[Although we can see many connections between our own lives and those of 17th-century English villagers—disputes among neighbors, domestic disharmony, wealth disparity—the times were very different indeed from our own. Look around you now and strip away the trappings of the]]>
+      </description>
+      <source:markdown>Although we can see many connections between our own lives and those of 17th-century English villagers—disputes among neighbors, domestic disharmony, wealth disparity—the times were very different indeed from our own. Look around you now and strip away the trappings of the</source:markdown>
+      <guid>cid://https://lithub.com/?p=277306</guid>
+      <category>Fullwidth Slider</category>
+      <category>History</category>
+      <category>News and Culture</category>
+      <category>Religion</category>
+      <category>England</category>
+      <category>Marion Gibson</category>
+      <category>religion</category>
+      <category>Scribner</category>
+      <category>Simon and Schuster</category>
+      <category>witchcraft</category>
+      <category>witches</category>
+      <category>Witchland: A Deadly Moral Panic in Seventeenth-Century Britain</category>
+    </item>    <item>
+      <title>Angela Flournoy on Exploring Economic and Social Uncertainty in the Internet Age</title>
+      <link>https://lithub.com/angela-flournoy-on-exploring-economic-and-social-uncertainty-in-the-internet-age/</link>
+      <description>
+        <![CDATA[Angela Flournoy, critically acclaimed author of The Turner House, joined The Center For Fiction to celebrate the highly anticipated release of her new novel, The Wilderness. The Wilderness follows five Black women in their twenties—Desiree, Danielle, January, Monique, and Nakia—as]]>
+      </description>
+      <source:markdown>Angela Flournoy, critically acclaimed author of The Turner House, joined The Center For Fiction to celebrate the highly anticipated release of her new novel, The Wilderness. The Wilderness follows five Black women in their twenties—Desiree, Danielle, January, Monique, and Nakia—as</source:markdown>
+      <guid>cid://https://lithub.com/?p=277199</guid>
+      <category>Craft and Criticism</category>
+      <category>Features</category>
+      <category>In Conversation</category>
+      <category>Angela Flournoy</category>
+      <category>Brit Bennett</category>
+      <category>interviews</category>
+      <category>Raven Leilani</category>
+      <category>The Center for Fiction</category>
+      <category>the wilderness</category>
+    </item>    <item>
+      <title>Why Ghosts Are Haunting Us in 2026 (For Real)</title>
+      <link>https://lithub.com/why-ghosts-are-haunting-us-in-2026-for-real/</link>
+      <description>
+        <![CDATA[Several years ago, when COVID was still a bruising force in our lives, scaring us spitless, I took a COVID test, got the requisite negative result, and trekked to upstate New York for a writer’s retreat. I had no more]]>
+      </description>
+      <source:markdown>Several years ago, when COVID was still a bruising force in our lives, scaring us spitless, I took a COVID test, got the requisite negative result, and trekked to upstate New York for a writer’s retreat. I had no more</source:markdown>
+      <guid>cid://https://lithub.com/?p=277380</guid>
+      <category>Craft and Advice</category>
+      <category>Craft and Criticism</category>
+      <category>Features</category>
+      <category>Memoir</category>
+      <category>News and Culture</category>
+      <category>craft</category>
+      <category>Every Room Remembers</category>
+      <category>ghosts</category>
+      <category>haunting</category>
+      <category>process</category>
+      <category>Sibylline Press</category>
+      <category>spectral</category>
+      <category>Tara Badstubner</category>
+    </item>    <item>
+      <title>“Crabs”</title>
+      <link>https://lithub.com/crabs/</link>
+      <description>
+        <![CDATA[My all-girls&#8217; high school was sometimes visited by crabs. The first time I saw one show up was during my first year, on a rainy day in early summer. The crab was sidling along one of the outside walkways, where]]>
+      </description>
+      <source:markdown>My all-girls’ high school was sometimes visited by crabs. The first time I saw one show up was during my first year, on a rainy day in early summer. The crab was sidling along one of the outside walkways, where</source:markdown>
+      <guid>cid://https://lithub.com/?p=276028</guid>
+      <category>Daily Fiction</category>
+      <category>Excerpts</category>
+      <category>Fiction and Poetry</category>
+      <category>Short Stories</category>
+      <category>Short Story</category>
+      <category>crabs</category>
+      <category>Garden</category>
+      <category>Hiroko Oyamada</category>
+      <category>New Directions</category>
+    </item>    <item>
+      <title>“Wealth and Poverty” Class 2: The investor’s view</title>
+      <link>https://robertreich.substack.com/p/wealth-and-poverty-class-2-the-investors</link>
+      <description>
+        <![CDATA[The highest return, regardless]]>
+      </description>
+      <source:markdown>The highest return, regardless</source:markdown>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/O8RpyqauWOQ" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/wealth-and-poverty-class-2-the-investors</guid>
+    </item>    <item>
+      <title>The MAGA Factor</title>
+      <link>https://robertreich.substack.com/p/maga-republican-voters-vs-non-maga</link>
+      <description>
+        <![CDATA[What separates Trump voters who consider themselves MAGA from Trump voters who do not?]]>
+      </description>
+      <source:markdown>What separates Trump voters who consider themselves MAGA from Trump voters who do not?</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!1Wn2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0fe64d99-709b-4091-b067-a573f4d0872f_2560x2560.gif" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/maga-republican-voters-vs-non-maga</guid>
+    </item>    <item>
+      <title>Adopting new words</title>
+      <link>https://tracydurnell.com/2026/09/27/adopting-new-words/</link>
+      <description>
+        <![CDATA[Although I&#8217;m looking up more words than ever, I don&#8217;t find myself adopting many of those new words for my own use. (This realization is part of why I want to revamp my vocabulary page &#8212; I&#8217;m hoping that having a list I can look through easily might help me pick up some of them.) [&#8230;]]]>
+      </description>
+      <source:markdown>Although I’m looking up more words than ever, I don’t find myself adopting many of those new words for my own use. (This realization is part of why I want to revamp my vocabulary page — I’m hoping that having a list I can look through easily might help me pick up some of them.) \[…\]</source:markdown>
+      <guid>cid://https://tracydurnell.com/?p=41441</guid>
+      <category>Ponderings</category>
+      <category>Writing</category>
+      <category>aesthetics</category>
+      <category>confidence</category>
+      <category>craft</category>
+      <category>memory</category>
+      <category>rhythm</category>
+      <category>sounds</category>
+      <category>taste</category>
+      <category>vocabulary</category>
+      <category>voice</category>
+      <category>words</category>
+    </item>    <item>
+      <title>September 27, 2026</title>
+      <link>https://heathercoxrichardson.substack.com/p/september-27-2026</link>
+      <description>
+        <![CDATA[A friend tells me that when I take a night off, other people feel they can take a night off, too.]]>
+      </description>
+      <source:markdown>A friend tells me that when I take a night off, other people feel they can take a night off, too.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!yJz4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2735bad4-6cdc-4ebd-afac-cd354634a3f1_4032x3024.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/september-27-2026</guid>
+    </item>    <item>
+      <title>We Finish the Job.</title>
+      <link>https://www.michaelmoore.com/p/we-finish-the-job</link>
+      <description>
+        <![CDATA[The Founders failed to create a true Democracy. Let&#8217;s win, then demand one.]]>
+      </description>
+      <source:markdown>The Founders failed to create a true Democracy. Let’s win, then demand one.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!cXM-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F606a3861-cec8-4bc7-bd81-5e7b6448533f_1600x900.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.michaelmoore.com/p/we-finish-the-job</guid>
+    </item>    <item>
+      <title>Episode 189 - The IBM 701</title>
+      <link>https://adventofcomputing.libsyn.com/episode-189-the-ibm-701</link>
+      <description>
+        <![CDATA[<p data-pm-slice="1 1 []">At the end of the 1940s IBM stood at a crossroads. The punch card company had yet to enter the electronic computer market. Forces within and without were pushing them in that direction, but many man in blue suits would resist the coming change. Out of this climate emerged the Type 701, IBM's first commercial machine. How did it beat the odds and make it to market? And what even did folk do with these early machines?</p> <p>Like Advent of Computing? Then check out the after show! Adjunct of Computing is now LIVE: <a href= "https://www.youtube.com/playlist?list=PLbDuNUQ4K7mxrRIEyg4zeD3ALP-6e6QRC" target="_blank" rel= "noopener noreferrer nofollow">YouTube</a> <a href= "https://open.spotify.com/show/72NQNuVcDq2AvNqcAd7A31" target= "_blank" rel= "noopener noreferrer nofollow">Spotify</a> <a href= "https://podcasts.apple.com/us/podcast/adjunct-of-computing/id1885420630" target="_blank" rel="noopener noreferrer nofollow"><u>Apple Podcasts</u></a></p> <p>Join the conversation on the OFFICIAL discord server: <a href= "https://discord.com/invite/GpFNu3DTU2" target="_blank" rel= "noopener noreferrer nofollow" data-link-auto= "">https://discord.com/invite/GpFNu3DTU2</a></p>]]>
+      </description>
+      <source:markdown>At the end of the 1940s IBM stood at a crossroads. The punch card company had yet to enter the electronic computer market. Forces within and without were pushing them in that direction, but many man in blue suits would resist the coming change. Out of this climate emerged the Type 701, IBM&#39;s first commercial machine. How did it beat the odds and make it to market? And what even did folk do with these early machines?
+
+Like Advent of Computing? Then check out the after show! Adjunct of Computing is now LIVE: [YouTube](https://www.youtube.com/playlist?list=PLbDuNUQ4K7mxrRIEyg4zeD3ALP-6e6QRC) [Spotify](https://open.spotify.com/show/72NQNuVcDq2AvNqcAd7A31) [Apple Podcasts](https://podcasts.apple.com/us/podcast/adjunct-of-computing/id1885420630)
+
+Join the conversation on the OFFICIAL discord server: [https://discord.com/invite/GpFNu3DTU2](https://discord.com/invite/GpFNu3DTU2)</source:markdown>
+      <enclosure url="https://traffic.libsyn.com/secure/adventofcomputing/ep189_701.mp3?dest-id=1206722" length="63458744" type="audio/mpeg" />
+      <guid>cid://0ca080f1-2fc2-4f04-aefe-41c9f57a94a7</guid>
+    </item>    <item>
+      <title>Monday 28 September, 2026</title>
+      <link>https://memex.naughtons.org/monday-28-september-2026/42760/</link>
+      <description>
+        <![CDATA[Doggy sense This is one of my all-time favourite photographs. We were driving along the seafront in Antibes one sweltering Sunday afternoon when I saw a small dog sitting in the shade of a beach umbrella looking at his master &#8230; <a href="https://memex.naughtons.org/monday-28-september-2026/42760/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>Doggy sense This is one of my all-time favourite photographs. We were driving along the seafront in Antibes one sweltering Sunday afternoon when I saw a small dog sitting in the shade of a beach umbrella looking at his master … [Continue reading →](https://memex.naughtons.org/monday-28-september-2026/42760/)</source:markdown>
+      <guid>cid://https://memex.naughtons.org/?p=42760</guid>
+      <category>Online version</category>
+    </item>    <item>
+      <title>Wed, Sept. 30th, 7pm ET - Our Weekly Paid Subscriber Get Together</title>
+      <link>https://www.hopiumchronicles.com/p/wed-sept-30th-7pm-et-our-weekly-paid</link>
+      <description>
+        <![CDATA[Welcome new subscribers!]]>
+      </description>
+      <source:markdown>Welcome new subscribers!</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!X-JG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55f8a2f6-b3a9-4fbe-883f-321a34eefcf6_992x630.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/wed-sept-30th-7pm-et-our-weekly-paid</guid>
+    </item>    <item>
+      <link>https://andysylvester.com/2026/09/27/4596/</link>
+      <description>
+        <![CDATA[After reading Will Bunch cringing about Trump&#8217;s address to the UN last week and China summit, and yet another Natalie Harp expose on the Daily Beast, my thought is &#8220;how can we get out of this mess?&#8221;.]]>
+      </description>
+      <source:markdown>After reading Will Bunch cringing about Trump’s address to the UN last week and China summit, and yet another Natalie Harp expose on the Daily Beast, my thought is “how can we get out of this mess?”.</source:markdown>
+      <guid>cid://https://andysylvester.com/?p=4596</guid>
+      <category>Links</category>
+      <category>Micro.Blog</category>
+      <category>Politics</category>
+      <category>Trump</category>
+    </item>    <item>
+      <title>Today, we are celebrating sixteen years of LibreOffice’s independence and commitment to supporting free software, open standards and digital sovereignty</title>
+      <link>https://blog.documentfoundation.org/blog/2026/09/28/sixteen-years-of-libreoffices/</link>
+      <description>
+        <![CDATA[On 28 September 2010, a group of OpenOffice.org community members announced the launch of the LibreOffice project and the foundation that would support it: The Document Foundation. The announcement sparked some confusion and scepticism, as well as enormous enthusiasm amongst those in the community who believe in free and open-source]]>
+      </description>
+      <source:markdown>On 28 September 2010, a group of OpenOffice.org community members announced the launch of the LibreOffice project and the foundation that would support it: The Document Foundation. The announcement sparked some confusion and scepticism, as well as enormous enthusiasm amongst those in the community who believe in free and open-source</source:markdown>
+      <guid>cid://https://blog.documentfoundation.org/?p=18162</guid>
+      <category>Announcements</category>
+      <category>Foundation</category>
+      <category>LibreOffice</category>
+    </item>    <item>
+      <title>Creating a local version of a Drummer oldSchool blog</title>
+      <link>https://andysylvester.com/2026/09/27/creating-a-local-version-of-a-drummer-oldschool-blog/</link>
+      <description>
+        <![CDATA[As part of migrating my main website and other sites to a new hosting service, I have also been working to create backups of sites hosted elsewhere. One of those sites was a weblog I created using Drummer (created by Dave Winer) and using the oldSchool blogging template/tool. As part of other updates made by [&#8230;]]]>
+      </description>
+      <source:markdown>As part of migrating my main website and other sites to a new hosting service, I have also been working to create backups of sites hosted elsewhere. One of those sites was a weblog I created using Drummer (created by Dave Winer) and using the oldSchool blogging template/tool. As part of other updates made by \[…\]</source:markdown>
+      <guid>cid://https://andysylvester.com/?p=4591</guid>
+      <category>Blogging</category>
+      <category>Drummer</category>
+      <category>Micro.Blog</category>
+    </item>    <item>
+      <title>Caption contest: State Dinner</title>
+      <link>https://robertreich.substack.com/p/caption-contest-state-dinner</link>
+      <description>
+        <![CDATA[And last week&#8217;s winner]]>
+      </description>
+      <source:markdown>And last week’s winner</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Tg97!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1e74d9b-d87f-44d5-8913-4b5b2c8d9b01_2959x1802.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/caption-contest-state-dinner</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/09/27.html#a204116</link>
+      <description>
+        <![CDATA[The bottom line is that tech companies have rarely understood that developers can be major influencers. We give a platform new meaning. It's a good deal to invest in the people doing the work, who often are doing it for love more than money. That grew into the blogosphere. There was no telling where Frontier would take us, and it would have cost them so little to help insure it had a future, but the did the opposite.]]>
+      </description>
+      <source:markdown>The bottom line is that tech companies have rarely understood that developers can be major influencers. We give a platform new meaning. It&#39;s a good deal to invest in the people doing the work, who often are doing it for love more than money. That grew into the blogosphere. There was no telling where Frontier would take us, and it would have cost them so little to help insure it had a future, but the did the opposite.</source:markdown>
+      <guid>cid://http://scripting.com/2026/09/27.html#a204116</guid>
+    </item>    <item>
+      <title>Bad News Plagues the Administration</title>
+      <link>https://heathercoxrichardson.substack.com/p/bad-news-plagues-the-administration</link>
+      <description>
+        <![CDATA[September 26, 2026]]>
+      </description>
+      <source:markdown>September 26, 2026</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/217717359/b3b080f02243f4bb751e0b1ac6c2d5c0.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/bad-news-plagues-the-administration</guid>
+    </item>    <item>
+      <title>Humane Interfaces</title>
+      <link>https://blog.jim-nielsen.com/2026/humane-interfaces/</link>
+      <description>
+        <![CDATA[<p>So there I am <a href="https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users" >reading Unsung</a> when I come across <a href="https://raskincenter.org/rchi/about/" >this quote from Jef Raskin</a>:</p>
+        <blockquote>
+        <p>An interface is humane if it is responsive to human needs and considerate of human frailties.</p>
+        </blockquote>
+        <p>This articulation perfectly captures why I recoil at modern “growth tactics” in user interfaces and experiences: they are designed to exploit human frailties, not be considerate of them.</p>
+        <p>Stated again: a humane interface — or a humane system, even a humane technology — is <em>considerate</em> of human frailties. It acknowledges they exist and works with them, rather than taking advantage of them.</p>
+        <p>Humane technology does not rely on impulse, addiction, or imposition to survive.</p>
+        <p>It survives purely on the free choice of its user.</p>
+        <p>You choose to use it because you have the freedom not to.</p>
+        
+            <hr />
+            
+        
+            <p>
+              Reply via:
+              
+        
+              <a
+                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/humane-interfaces/"
+                >Email</a
+              >
+              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
+        
+              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
+            </p>]]>
+      </description>
+      <source:markdown>So there I am [reading Unsung](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users) when I come across [this quote from Jef Raskin](https://raskincenter.org/rchi/about/):
+
+&#62; An interface is humane if it is responsive to human needs and considerate of human frailties.
+
+This articulation perfectly captures why I recoil at modern “growth tactics” in user interfaces and experiences: they are designed to exploit human frailties, not be considerate of them.
+
+Stated again: a humane interface — or a humane system, even a humane technology — is _considerate_ of human frailties. It acknowledges they exist and works with them, rather than taking advantage of them.
+
+Humane technology does not rely on impulse, addiction, or imposition to survive.
+
+It survives purely on the free choice of its user.
+
+You choose to use it because you have the freedom not to.
+
+* * *
+
+Reply via:
+
+
+[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/humane-interfaces/)
+· [Mastodon](https://mastodon.social/@jimniels) ·
+
+[Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
+      <guid>cid://https://blog.jim-nielsen.com/2026/humane-interfaces/</guid>
+    </item>    <item>
+      <title>Our Wins Of The Week</title>
+      <link>https://thinkbigpicture.substack.com/p/week-progressive-wins-september-27</link>
+      <description>
+        <![CDATA[Midterm polling continues to show Republicans are in real trouble in November.]]>
+      </description>
+      <source:markdown>Midterm polling continues to show Republicans are in real trouble in November.</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/361a47e6-b2be-4eb0-adb1-4fd655eb19ee_1086x610.png" length="0" type="image/jpeg" />
+      <guid>cid://https://thinkbigpicture.substack.com/p/week-progressive-wins-september-27</guid>
+    </item>    <item>
+      <title>Sunlint</title>
+      <link>https://doc.searls.com/2026/09/27/sunlint/</link>
+      <description>
+        <![CDATA[Lemme know when one shows up Liblice II, the tallest structures in the Czech Republic, are about to come down. They carried the 1.5 million watt signal of  Czech Radio Two until 2021 on 639 mHz. The cool thing is this (from that last link, translated): After the removal of the Liblice masts, the Czech [&#8230;]]]>
+      </description>
+      <source:markdown>Lemme know when one shows up Liblice II, the tallest structures in the Czech Republic, are about to come down. They carried the 1.5 million watt signal of  Czech Radio Two until 2021 on 639 mHz. The cool thing is this (from that last link, translated): After the removal of the Liblice masts, the Czech \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2026/09/27/sunlint/</guid>
+      <category>Broadcasting</category>
+      <category>Indiana</category>
+      <category>Indiana University</category>
+      <category>music</category>
+      <category>Nature</category>
+    </item>    <item>
+      <title>Combo Platter</title>
+      <link>https://feed.tedium.co/link/15204/17475461/combos-snack-food-history</link>
+      <description>
+        <![CDATA[Admit it, you were wondering where the hell the gas-station staples Combos came from just as much as I was. Anyway, I figured it out. At one point a drill was involved.]]>
+      </description>
+      <source:markdown>Admit it, you were wondering where the hell the gas-station staples Combos came from just as much as I was. Anyway, I figured it out. At one point a drill was involved.</source:markdown>
+      <guid>cid://https://tedium.co/2026/09/27/combos-snack-food-history/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/09/27.html#a155053</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/21/magazineCover.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">As I go through porting Frontier, there's a sad note. What if Apple had made it a goal that Frontier move along with their OS. That it was a unique advantage of the Mac and should be promoted as such. Don't laugh, because Apple did do that for ThinkTank and MORE, a few years before. We spent a lot on advertising, but they spent a lot more advertising our product. We cross-licensed our tech, so everyone in my little company had a Mac. This was a Bill Campbell idea. I was having trouble convincing my board that the Mac was a good bet and they were all PC users. So we got them Macs too, for free, from Apple. And they site-licensed MORE, and you gotta know that really helped sales. They were hungy, and this is something today's tech industry only feels in the most crude way, as in "what can we steal" or "what can we lock down." If they had put a fraction of the commitment behind Frontier that they had for Hypercard, some very cool things could have happened. And maybe we could have made the two work together. Amazing, two contemporary scripting systems on a small platform, relatively, in an OS that was transitioning to IAC, <i>didn't connect.</i> They missed a lot of opportunities by being so employee centered. Their developers were willing to move mountains to make the Mac perform. Apple was defensive. And now I'm beginning to see more clearly how much was lost.]]>
+      </description>
+      <source:markdown>![](https://imgs.scripting.com/2024/05/21/magazineCover.png)As I go through porting Frontier, there&#39;s a sad note. What if Apple had made it a goal that Frontier move along with their OS. That it was a unique advantage of the Mac and should be promoted as such. Don&#39;t laugh, because Apple did do that for ThinkTank and MORE, a few years before. We spent a lot on advertising, but they spent a lot more advertising our product. We cross-licensed our tech, so everyone in my little company had a Mac. This was a Bill Campbell idea. I was having trouble convincing my board that the Mac was a good bet and they were all PC users. So we got them Macs too, for free, from Apple. And they site-licensed MORE, and you gotta know that really helped sales. They were hungy, and this is something today&#39;s tech industry only feels in the most crude way, as in &#34;what can we steal&#34; or &#34;what can we lock down.&#34; If they had put a fraction of the commitment behind Frontier that they had for Hypercard, some very cool things could have happened. And maybe we could have made the two work together. Amazing, two contemporary scripting systems on a small platform, relatively, in an OS that was transitioning to IAC, _didn&#39;t connect._ They missed a lot of opportunities by being so employee centered. Their developers were willing to move mountains to make the Mac perform. Apple was defensive. And now I&#39;m beginning to see more clearly how much was lost.</source:markdown>
+      <guid>cid://http://scripting.com/2026/09/27.html#a155053</guid>
+    </item>    <item>
+      <title>Only 13% of voters buy Trump’s promise to send $5k checks if GOP wins midterms</title>
+      <link>https://www.gelliottmorris.com/p/2026-09-27-sunday-roundup</link>
+      <description>
+        <![CDATA[This is why a midterm convention is a dumb idea, part one. Plus how Democrats should deal with low trust in government in 2027-28. Your weekly political data roundup for September 27, 2026.]]>
+      </description>
+      <source:markdown>This is why a midterm convention is a dumb idea, part one. Plus how Democrats should deal with low trust in government in 2027-28. Your weekly political data roundup for September 27, 2026.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!cGwU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7affbd89-6e31-40ff-bc30-332c1bb169b3_2550x1740.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/2026-09-27-sunday-roundup</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/09/27.html#a154522</link>
+      <description>
+        <![CDATA[Sometimes I forget how much fun I have making software tricks that people don't even notice but contribute to the "it thinks like I do" feeling a of crafted UI. I think of it like walking on the Highline in NYC. You're just walking, right? But you're above it, in a city where a lot of what's going on is above you. And it's comfortable. Why? You don't need to know, it just is. But <i>someone</i> made it that way.]]>
+      </description>
+      <source:markdown>Sometimes I forget how much fun I have making software tricks that people don&#39;t even notice but contribute to the &#34;it thinks like I do&#34; feeling a of crafted UI. I think of it like walking on the Highline in NYC. You&#39;re just walking, right? But you&#39;re above it, in a city where a lot of what&#39;s going on is above you. And it&#39;s comfortable. Why? You don&#39;t need to know, it just is. But _someone_ made it that way.</source:markdown>
+      <guid>cid://http://scripting.com/2026/09/27.html#a154522</guid>
+    </item>    <item>
+      <title>Proxmox Ethernet Failing After Upgrade</title>
+      <link>https://elijahpotter.dev/articles/proxmox_ethernet_failing_after_upgrade</link>
+      <description>
+        <![CDATA[<h1>Proxmox Ethernet Failing After an Upgrade</h1>
+        <p>After up­grad­ing my pair of Lenovo M720q ma­chines from Proxmox <span class="small-caps">VE</span> 8 to 9, they ran­domly started drop­ping their con­nec­tion to the in­ter­net.
+        The only so­lu­tion that seemed to ﬁx it was to phys­i­cally dis­con­nect, then re­con­nect their Ethernet ca­bles.
+        Weird, right?</p>
+        <p>I am hon­estly not sure why this was hap­pen­ing, but I can of­fer a per­ma­nent so­lu­tion in case you (or any­one else) en­coun­ters this same prob­lem.</p>
+        <h2>The Solution</h2>
+        <p>First, ﬁnd the la­bel for the phys­i­cal Ethernet adapter for your sys­tem:</p>
+        <pre><code class="hljs language-bash">ip addr
+        </code></pre>
+        <p>For me, it was <code>eno1</code>.
+        The lo­cal ad­dress of your sys­tem might be bound to a vir­tual adapter (like <code>vmbr0</code>).
+        This is <span class="small-caps">NOT</span> what we are in­ter­ested in.
+        We are in­ter­ested in the <strong>phys­i­cal</strong> adapter.</p>
+        <p>Next, dis­able <a href="https://phoenixnap.com/glossary/what-is-tcp-segmentation-offload/"><span class="small-caps">TSO</span></a> for the live sys­tem. Substitute <code>eno1</code> for what­ever you just found for the la­bel of your Ethernet adapter.</p>
+        <pre><code class="hljs language-bash">ethtool -K eno1 tso off
+        </code></pre>
+        <p>To make this set­ting per­ma­nent, add a line to ex­e­cute this on sys­tem boot to your <code>/etc/network/interfaces/</code> ﬁle.</p>
+        <pre><code class="hljs language-plaintext">iface eno1 inet manual
+            post-up ethtool -K eno1 tso off
+        </code></pre>
+        <h2>Your Mileage May Vary</h2>
+        <p>If you have this prob­lem, this ﬁx might work for you, and it might not.
+        Ei­ther way, good luck!</p>]]>
+      </description>
+      <source:markdown># Proxmox Ethernet Failing After an Upgrade
+
+After up­grad­ing my pair of Lenovo M720q ma­chines from Proxmox VE 8 to 9, they ran­domly started drop­ping their con­nec­tion to the in­ter­net.
+The only so­lu­tion that seemed to ﬁx it was to phys­i­cally dis­con­nect, then re­con­nect their Ethernet ca­bles.
+Weird, right?
+
+I am hon­estly not sure why this was hap­pen­ing, but I can of­fer a per­ma­nent so­lu­tion in case you (or any­one else) en­coun­ters this same prob­lem.
+
+## The Solution
+
+First, ﬁnd the la­bel for the phys­i­cal Ethernet adapter for your sys­tem:
+
+```hljs bash
+ip addr
+
+```
+
+For me, it was `eno1`.
+The lo­cal ad­dress of your sys­tem might be bound to a vir­tual adapter (like `vmbr0`).
+This is NOT what we are in­ter­ested in.
+We are in­ter­ested in the **phys­i­cal** adapter.
+
+Next, dis­able [TSO](https://phoenixnap.com/glossary/what-is-tcp-segmentation-offload/) for the live sys­tem. Substitute `eno1` for what­ever you just found for the la­bel of your Ethernet adapter.
+
+```hljs bash
+ethtool -K eno1 tso off
+
+```
+
+To make this set­ting per­ma­nent, add a line to ex­e­cute this on sys­tem boot to your `/etc/network/interfaces/` ﬁle.
+
+```hljs plaintext
+iface eno1 inet manual
+    post-up ethtool -K eno1 tso off
+
+```
+
+## Your Mileage May Vary
+
+If you have this prob­lem, this ﬁx might work for you, and it might not.
+Ei­ther way, good luck!</source:markdown>
+      <guid>cid://https://elijahpotter.dev/articles/proxmox_ethernet_failing_after_upgrade</guid>
+    </item>    <item>
+      <title>Tupo</title>
+      <link>https://daverupert.com/2026/09/play-tupo/</link>
+      <description>
+        <![CDATA[<img alt="The 4×4 game board of numbers and colors for Tupo" width="1200" height="630" style="grid-column: outdent" src="https://cdn.daverupert.com/posts/2026/tupo.png">
+        <p>“Triple Threat” <a href="https://joshcollinsworth.com/">Josh Collinsworth</a> has a brand new daily puzzler game called <a href="https://playtupo.com/">Tupo</a>. On it’s surface it looks like a simplified 4×4 Sudoku block but with colored squares. That is the foundation for a simple ruleset:</p>
+        <ol>
+        <li>Every row and column contains <strong>each number exactly once</strong></li>
+        <li>Every row and column contains <strong>each color exactly once</strong></li>
+        <li>Every <strong>number + color combination</strong> appears <strong>exactly once</strong></li>
+        </ol>
+        <p>Mini Sudoku with colors. Got it. How hard could it be?</p>
+        <p>Hahahahahahahahahaha. You naive bastard.</p>
+        <p>It’s deceptively difficult and then right when you get the hang of it, it jumps to a 5×5 grid on Friday. Simple yet complex is a difficult design concept to achieve and Josh did a great job. I got a sneak peek of the game a couple weeks ago and it quickly earned the top spot in my daily puzzle playlist. Before <a href="https://daverupert.com/2025/11/inkwell-games/">Inkwell Games</a>, before <a href="https://daverupert.com/2025/11/clues-by-sam/">Clues by Sam</a>, I play Tupo. If you’re a fan of daily puzzlers, try Tupo. It won’t disappoint.</p>
+        <p><a href="https://playtupo.com" class="button">→ Play Tupo</a></p>]]>
+      </description>
+      <source:markdown>![The 4×4 game board of numbers and colors for Tupo](https://cdn.daverupert.com/posts/2026/tupo.png)
+
+“Triple Threat” [Josh Collinsworth](https://joshcollinsworth.com/) has a brand new daily puzzler game called [Tupo](https://playtupo.com/). On it’s surface it looks like a simplified 4×4 Sudoku block but with colored squares. That is the foundation for a simple ruleset:
+
+1. Every row and column contains **each number exactly once**
+2. Every row and column contains **each color exactly once**
+3. Every **number + color combination** appears **exactly once**
+
+Mini Sudoku with colors. Got it. How hard could it be?
+
+Hahahahahahahahahaha. You naive bastard.
+
+It’s deceptively difficult and then right when you get the hang of it, it jumps to a 5×5 grid on Friday. Simple yet complex is a difficult design concept to achieve and Josh did a great job. I got a sneak peek of the game a couple weeks ago and it quickly earned the top spot in my daily puzzle playlist. Before [Inkwell Games](https://daverupert.com/2025/11/inkwell-games/), before [Clues by Sam](https://daverupert.com/2025/11/clues-by-sam/), I play Tupo. If you’re a fan of daily puzzlers, try Tupo. It won’t disappoint.
+
+[→ Play Tupo](https://playtupo.com)</source:markdown>
+      <guid>cid://https://daverupert.com/2026/09/play-tupo/</guid>
+    </item>    <item>
+      <title>Performing a pooplic service</title>
+      <link>https://doc.searls.com/2026/09/27/performing-a-pooplic-service/</link>
+      <description>
+        <![CDATA[When a whole business category is fubar, and its members together exemplify enshittification better than each does alone, I suggest we speak of their collectivity as a fecosystem. I&#8217;ve been using that word since 2016, and bring it up now because these two posts about the subscription industry&#8216;s fecosystem have been getting action lately, and I [&#8230;]]]>
+      </description>
+      <source:markdown>When a whole business category is fubar, and its members together exemplify enshittification better than each does alone, I suggest we speak of their collectivity as a fecosystem. I’ve been using that word since 2016, and bring it up now because these two posts about the subscription industry‘s fecosystem have been getting action lately, and I \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2026/09/27/performing-a-pooplic-service/</guid>
+      <category>Business</category>
+    </item>    <item>
+      <title>2026-09-27 Still loving the MNT Pocket Reform</title>
+      <link>https://alexschroeder.ch/view/2026-09-27-pocket-reform</link>
+      <description>
+        <![CDATA[<h1 id="2026-09-27-still-loving-the-mnt-pocket-reform">2026-09-27 Still loving the MNT Pocket Reform</h1>
+        
+        <p>I still use the MNT Pocket Reform a lot. I recently took it along on a
+        trip, as my &ldquo;emergency&rdquo; laptop, but also as my chill-out activity late
+        at night in the hotel room, working on a little something instead of
+        reading a book.</p>
+        
+        <p>At home, I use it as my secondary laptop in the living room. My wife
+        loves to sit on the couch and read and sit on the floor. Here,
+        reception is not too good and so I use an Ethernet cable to get
+        connected.</p>
+        
+        <p>During our recent trip, Wi-Fi reception was never an issue.</p>
+        
+        <p>The charging problems I used to have disappeared with a recent
+        upgrade. So I can plug and unplug the laptop while it runs with no
+        issues.</p>
+        
+        <p>I sometimes run into the situation where the laptop keyboard seems
+        dead. It&rsquo;s not entirely dead because I can still use Hyper+Enter to
+        call up and navigate the OLED menu. What almost always seems to help
+        is closing and opening the lid. Other people have reported that they
+        reset the keyboard multiple times using the OLED menu. Eventually, it
+        works. As long as the situation does not deteriorate, I can live with
+        it.</p>
+        
+        <p>I also made my peace with Debian unstable. I haven&rsquo;t run into any
+        problems in a very long time, now.</p>
+        
+        <p><img loading="lazy" src="2026-09-27-pocket-reform-1.jpg" alt="An empty sofa, a small wooden table with the laptop, a cushion on a
+        carpet to sit on. The laptop is connected to both the network and the
+        charger with a cable each." /></p>
+        
+        <p><a class="tag" href="/search/?q=%23Reform">#Reform</a></p>]]>
+      </description>
+      <source:markdown># 2026-09-27 Still loving the MNT Pocket Reform
+
+I still use the MNT Pocket Reform a lot. I recently took it along on a
+trip, as my “emergency” laptop, but also as my chill-out activity late
+at night in the hotel room, working on a little something instead of
+reading a book.
+
+At home, I use it as my secondary laptop in the living room. My wife
+loves to sit on the couch and read and sit on the floor. Here,
+reception is not too good and so I use an Ethernet cable to get
+connected.
+
+During our recent trip, Wi-Fi reception was never an issue.
+
+The charging problems I used to have disappeared with a recent
+upgrade. So I can plug and unplug the laptop while it runs with no
+issues.
+
+I sometimes run into the situation where the laptop keyboard seems
+dead. It’s not entirely dead because I can still use Hyper+Enter to
+call up and navigate the OLED menu. What almost always seems to help
+is closing and opening the lid. Other people have reported that they
+reset the keyboard multiple times using the OLED menu. Eventually, it
+works. As long as the situation does not deteriorate, I can live with
+it.
+
+I also made my peace with Debian unstable. I haven’t run into any
+problems in a very long time, now.
+
+![An empty sofa, a small wooden table with the laptop, a cushion on a carpet to sit on. The laptop is connected to both the network and the charger with a cable each.](2026-09-27-pocket-reform-1.jpg)
+
+[#Reform](/search/?q=%23Reform)</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2026-09-27-pocket-reform</guid>
+      <category>Reform</category>
+    </item>    <item>
+      <title>daveMigrates, and a personal note</title>
+      <link>http://scripting.com/2026/09/27/151321.html?title=davemigratesAndAPersonalNote</link>
+      <description>
+        <![CDATA[<p>When I started the Atlantis project, a port of UserLand Frontier to modern system, I had a goal in mind that has been achieved. It was part of a project I named <a href="https://imgs.scripting.com/2026/09/27/daveMigrates.png">daveMigrates</a>. The goal was to use new hardware and system software to do the work I was doing in Frontier. </p>
+        <p>At first we got a portion of Frontier working, planning to use <a href="https://daytona.scripting.com/search?q=%22Electric%20Drummer%22">Electric Drummer</a> as the UI. It took about five minutes to realize that would mean reimplementing most of what's in Frontier in a new way in Drummer's UI which is very different from Frontier's. I could see that porting the whole thing would be faster, so that's how we proceeded. </p>
+        <p>Now, there are lots of bugs and some big features missing, but it actually does all that Frontier does that I need for my work, which I have proven by doing the work. A lot of the verbs haven't been ported but they won't be -- they're no longer relevant in the world of 2026. And there are new verbs for Markdown, and kernelized verbs for JSON. The core verbs have been ported. We've been gradually working on getting Manila to run, it's probably the most complex piece of software that was ever written in Frontier, at least by UserLand. But we can compile and run the DocServer app, which is itself quite large and written in a different style from how we work now. All the work in Manila was why we got so far with DocServer so quickly. </p>
+        <p>Why this is a personal note -- I'm pretty sure the goal of <i>daveMigrates</i> has been achieved. To the extent that's true, all work beyond this point is for my love of Frontier, basically my life's work and why we were able to move so fast in the early days of the web. I want there to be a good record of what it does and how it works, and it to serve as prior art to future developers my friend Claude (who now probably has a more complete picture of how Frontier works than any human and I am glad of that, unlike other creative people who dream of getting paid for stuff that people aren't paying for). </p>
+        <p>We will release the source, and it will be available as a download, and we will port the support parts, and I'll stay with it as long as it makes sense and I have the time and good health. </p>
+        <p>Whether it advances beyond that involves a lot of factors. I really want to get back on course with RSS.chat and FeedLand asap. These two products were designed to be connected, one for writing, the other for reading, and to take it far beyond the blogging paradigm that was pushed aside by Twitter et al in 2006. I wrote about this <a href="http://scripting.com/2026/09/25.html#a205506">on Friday</a> in the continued dialog with Toni Schneider. He wrote in his product, Bluesky, and I wrote in my product RSS.chat. And that is right, and they should work much better with each other. Choice everywhere is the foundation of the web. The tech industry has tried to undermine that, and generally has succeeded but I have not given up. <span class="spOldSchoolEmoji">😄</span></p>
+        <p>In the web that I envision, it wouldn't matter where each of us wrote, we could also read where we want to read. Small parts loosely joined. All parts replaceable. A lot of things have to happen to get there, but I'm going to put out a demo of what I have in mind. It's far from impossible, we already have the core technology to create the bridge. It's called RSS 2.0 with a few new elements. </p>
+        <p>See <a href="https://source.scripting.com/social.opml">RSS as a social network</a> for a technical walkthrough.</p>
+        <p>It may sound futuristic, but it really isn't. We did wonderful things for MP3s with podcasting, all I want now is to <a href="https://textcasting.org/">do the same for text</a>. All we need there is a standard for text that's as strong as the one for sound, MP3. And for that we have two excellent places to start -- Markdown and RSS 2.0. As we used to <a href="https://daytona.scripting.com/search?q=bing">say</a> in ye olde school blogosphere -- <i>bing!</i></p>]]>
+      </description>
+      <source:markdown>When I started the Atlantis project, a port of UserLand Frontier to modern system, I had a goal in mind that has been achieved. It was part of a project I named [daveMigrates](https://imgs.scripting.com/2026/09/27/daveMigrates.png). The goal was to use new hardware and system software to do the work I was doing in Frontier.
+
+At first we got a portion of Frontier working, planning to use [Electric Drummer](https://daytona.scripting.com/search?q=%22Electric%20Drummer%22) as the UI. It took about five minutes to realize that would mean reimplementing most of what&#39;s in Frontier in a new way in Drummer&#39;s UI which is very different from Frontier&#39;s. I could see that porting the whole thing would be faster, so that&#39;s how we proceeded.
+
+Now, there are lots of bugs and some big features missing, but it actually does all that Frontier does that I need for my work, which I have proven by doing the work. A lot of the verbs haven&#39;t been ported but they won&#39;t be -- they&#39;re no longer relevant in the world of 2026. And there are new verbs for Markdown, and kernelized verbs for JSON. The core verbs have been ported. We&#39;ve been gradually working on getting Manila to run, it&#39;s probably the most complex piece of software that was ever written in Frontier, at least by UserLand. But we can compile and run the DocServer app, which is itself quite large and written in a different style from how we work now. All the work in Manila was why we got so far with DocServer so quickly.
+
+Why this is a personal note -- I&#39;m pretty sure the goal of _daveMigrates_ has been achieved. To the extent that&#39;s true, all work beyond this point is for my love of Frontier, basically my life&#39;s work and why we were able to move so fast in the early days of the web. I want there to be a good record of what it does and how it works, and it to serve as prior art to future developers my friend Claude (who now probably has a more complete picture of how Frontier works than any human and I am glad of that, unlike other creative people who dream of getting paid for stuff that people aren&#39;t paying for).
+
+We will release the source, and it will be available as a download, and we will port the support parts, and I&#39;ll stay with it as long as it makes sense and I have the time and good health.
+
+Whether it advances beyond that involves a lot of factors. I really want to get back on course with RSS.chat and FeedLand asap. These two products were designed to be connected, one for writing, the other for reading, and to take it far beyond the blogging paradigm that was pushed aside by Twitter et al in 2006. I wrote about this [on Friday](http://scripting.com/2026/09/25.html#a205506) in the continued dialog with Toni Schneider. He wrote in his product, Bluesky, and I wrote in my product RSS.chat. And that is right, and they should work much better with each other. Choice everywhere is the foundation of the web. The tech industry has tried to undermine that, and generally has succeeded but I have not given up. 😄
+
+In the web that I envision, it wouldn&#39;t matter where each of us wrote, we could also read where we want to read. Small parts loosely joined. All parts replaceable. A lot of things have to happen to get there, but I&#39;m going to put out a demo of what I have in mind. It&#39;s far from impossible, we already have the core technology to create the bridge. It&#39;s called RSS 2.0 with a few new elements.
+
+See [RSS as a social network](https://source.scripting.com/social.opml) for a technical walkthrough.
+
+It may sound futuristic, but it really isn&#39;t. We did wonderful things for MP3s with podcasting, all I want now is to [do the same for text](https://textcasting.org/). All we need there is a standard for text that&#39;s as strong as the one for sound, MP3. And for that we have two excellent places to start -- Markdown and RSS 2.0. As we used to [say](https://daytona.scripting.com/search?q=bing) in ye olde school blogosphere -- _bing!_</source:markdown>
+      <guid>cid://http://scripting.com/2026/09/27/151321.html</guid>
+    </item>    <item>
+      <title>Guest Newsletter: Five Books - Memoir And Historical Fiction</title>
+      <link>https://thebrowser.com/free/guest-newsletter-five-books-105/</link>
+      <description>
+        <![CDATA[Five Books features in-depth author interviews recommending five books on a theme]]>
+      </description>
+      <source:markdown>Five Books features in-depth author interviews recommending five books on a theme</source:markdown>
+      <guid>cid://6ab6999a10a75b00017b8590</guid>
+    </item>    <item>
+      <title>Senate Polling Far Better For Ds Than Rs, Need To Keep AI Safe Urgent Now, Putin Should Not Be Allowed To Come To US For G20</title>
+      <link>https://www.hopiumchronicles.com/p/senate-polling-far-better-for-dems</link>
+      <description>
+        <![CDATA[Paige Cognetti (PA-8) joins us live Monday, Cait Conley (NY-17) Tuesday]]>
+      </description>
+      <source:markdown>Paige Cognetti (PA-8) joins us live Monday, Cait Conley (NY-17) Tuesday</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/78f36eac-b7ce-4ef5-b4d9-02431336aa72_958x964.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/senate-polling-far-better-for-dems</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/09/27.html#a144814</link>
+      <description>
+        <![CDATA[<a href="https://tmp.userland.com/">Milestone</a>. We were able to get the DocServer site for Frontier to build. Here's the page for the <a href="https://tmp.userland.com/file/default">file verbs</a>. And within that group the page for <a href="https://tmp.userland.com/file/copy">file.copy</a>. It worked the first time, but there were errors in the new kernel that were fixed. The site <a href="https://imgs.scripting.com/2026/09/27/fileCopyScreen.png">looks dated</a>, of course -- it was created in the 90s. We will update the CSS to be more like the DocServer site for Drummer, which was done a couple of years ago. Almost everyone on the team contributed to this site, Wes Felter, Andre Radke, Jake Savin, Brent Simmons, and myself. I see there names a lot and it makes me happy to see this group effort preserved.]]>
+      </description>
+      <source:markdown>[Milestone](https://tmp.userland.com/). We were able to get the DocServer site for Frontier to build. Here&#39;s the page for the [file verbs](https://tmp.userland.com/file/default). And within that group the page for [file.copy](https://tmp.userland.com/file/copy). It worked the first time, but there were errors in the new kernel that were fixed. The site [looks dated](https://imgs.scripting.com/2026/09/27/fileCopyScreen.png), of course -- it was created in the 90s. We will update the CSS to be more like the DocServer site for Drummer, which was done a couple of years ago. Almost everyone on the team contributed to this site, Wes Felter, Andre Radke, Jake Savin, Brent Simmons, and myself. I see there names a lot and it makes me happy to see this group effort preserved.</source:markdown>
+      <guid>cid://http://scripting.com/2026/09/27.html#a144814</guid>
     </item>    <item>
       <title>On Chickens Roosting</title>
       <link>https://dbarkhuff.substack.com/p/on-chickens-roosting</link>
@@ -4732,7 +5463,7 @@ This week Alex speaks to April Ryan, the longest serving Black White House corre
 **Hate listening to ads?** Become a Friends of the Pod subscriber for ad-free episodes of Pod Save America, Pod Save the World, Lovett or Leave It, Runaway Country, Offline with Jon Favreau, and more—plus exclusive content, including bonus episodes of Pod Save America. Subscribe now at [crooked.com/friends](http://crooked.com/friends), on Apple Podcasts, or through the Pod Save America YouTube channel.
 
 You can request a transcript by emailing [transcripts@crooked.com](mailto:transcripts@crooked.com). Include the podcast name, episode title, and air date. Please allow 48 hours for delivery.</source:markdown>
-      <enclosure url="https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8956367.mp3?modified=1790215740&sid=5166628&source=rss" length="0" type="audio/mpeg" />
+      <enclosure url="https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8956367.mp3?modified=1790215740&sid=5166628&source=rss" length="0" type="audio/mpeg" />
       <guid>cid://audioboom-01a0d11b-6f07-73c0-a36e-712b26483e4c</guid>
     </item>    <item>
       <title>Which Big Fall Book Should You Read?</title>
@@ -6499,7 +7230,7 @@ you&#39;re surrounded with lush greens and cloud-covered mountains.</source:mark
       <enclosure url="https://substackcdn.com/image/fetch/$s_!j_Aw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d46a83f-2a26-4726-b818-f2176c982385_1844x796.png" length="0" type="image/jpeg" />
       <guid>cid://https://www.hopiumchronicles.com/p/hopium-ad-and-video-roundup-peltola</guid>
     </item>    <item>
-      <title>Wealth &#38; Poverty Class 1: The paradox of widening inequality</title>
+      <title>Wealth and Poverty Class 1: The paradox of widening inequality</title>
       <link>https://robertreich.substack.com/p/wealth-and-poverty-class-1-the-problem</link>
       <description>
         <![CDATA[We begin.]]>
@@ -13884,7 +14615,7 @@ Pre-order Alex&#39;s new book, [_The Steal: Four Right-Wing Hard-Liners, One Rep
 **Hate listening to ads?** Become a Friends of the Pod subscriber for ad-free episodes of Pod Save America, Pod Save the World, Lovett or Leave It, Runaway Country, Offline with Jon Favreau, and more—plus exclusive content, including bonus episodes of Pod Save America. Subscribe now at [crooked.com/friends](http://crooked.com/friends), on Apple Podcasts, or through the Pod Save America YouTube channel.
 
 You can request a transcript by emailing [transcripts@crooked.com](mailto:transcripts@crooked.com). Include the podcast name, episode title, and air date. Please allow 48 hours for delivery.</source:markdown>
-      <enclosure url="https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8953669.mp3?modified=1789601307&sid=5166628&source=rss" length="0" type="audio/mpeg" />
+      <enclosure url="https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8953669.mp3?modified=1789601307&sid=5166628&source=rss" length="0" type="audio/mpeg" />
       <guid>cid://audioboom-01a0ac8b-8d79-7751-b5b2-a454c0235269</guid>
     </item>    <item>
       <title>Is Nonfiction in Crisis? These 14 Books Suggest Otherwise</title>
@@ -20335,7 +21066,7 @@ The post [The EU Cyber Resilience Act: mandatory reporting requirements](https:/
       <source:markdown>Nate Silver, Clare Malone, and Galen Druke discuss the most competitive Senate races heading into the midterms in this excerpt from their new podcast, _Still Counting._ To hear the rest, head over to _Still Counting_ and subscribe! New episodes drop every Wednesday evening.
 
 You can request a transcript by emailing [transcripts@crooked.com](mailto:transcripts@crooked.com). Include the podcast name, episode title, and air date. Please allow 48 hours for delivery.</source:markdown>
-      <enclosure url="https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8950747.mp3?modified=1788999266&sid=5166628&source=rss" length="0" type="audio/mpeg" />
+      <enclosure url="https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8950747.mp3?modified=1788999266&sid=5166628&source=rss" length="0" type="audio/mpeg" />
       <guid>cid://audioboom-01a088a0-6192-737b-94c0-4d3bac1bcaad</guid>
     </item>    <item>
       <title>Remembering 9/11</title>
@@ -22709,7 +23440,7 @@ Pre-order Alex&#39;s new book, [_The Steal: Four Right-Wing Hard-Liners, One Rep
 **Hate listening to ads?** Become a Friends of the Pod subscriber for ad-free episodes of Pod Save America, Pod Save the World, Lovett or Leave It, Runaway Country, Offline with Jon Favreau, and more—plus exclusive content, including bonus episodes of Pod Save America. Subscribe now at [crooked.com/friends](http://crooked.com/friends), on Apple Podcasts, or through the Pod Save America YouTube channel.
 
 You can request a transcript by emailing [transcripts@crooked.com](mailto:transcripts@crooked.com). Include the podcast name, episode title, and air date. Please allow 48 hours for delivery.</source:markdown>
-      <enclosure url="https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8950768.mp3?modified=1789003894&sid=5166628&source=rss" length="0" type="audio/mpeg" />
+      <enclosure url="https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8950768.mp3?modified=1789003894&sid=5166628&source=rss" length="0" type="audio/mpeg" />
       <guid>cid://audioboom-01a088ee-e730-760f-8b80-5cd0a2c26e79</guid>
     </item>    <item>
       <title>My Partner Refuses to Read or Even TALK About Books? Should We Break Up?</title>
@@ -25164,6 +25895,14 @@ To do both of those things _well_, you need a smart interface. And at least with
       <source:markdown>Writing of lasting value</source:markdown>
       <guid>cid://6a9fe3a1f8daac00011b7b07</guid>
     </item>    <item>
+      <title>CodePen: exposed!</title>
+      <link>https://dbushell.com/2026/09/08/codepen/</link>
+      <description>
+        <![CDATA[I promise this post is not merely a comment on a Hacker News submission because good lord that would be desperate but that is where I’m starting: “They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in […]]]>
+      </description>
+      <source:markdown>I promise this post is not merely a comment on a Hacker News submission because good lord that would be desperate but that is where I’m starting: “They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in \[…\]</source:markdown>
+      <guid>cid://https://dbushell.com/2026/09/08/codepen/</guid>
+    </item>    <item>
       <title>EatingThe Seed Corn (Updated)</title>
       <link>https://blog.dshr.org/2026/09/eatingthe-seed-corn.html</link>
       <description>
@@ -25517,14 +26256,6 @@ The combination of a world filled with LLMs unchecked rampant hallucinations, an
       <author>noreply@blogger.com (David.)</author>
       <guid>cid://tag:blogger.com,1999:blog-4503292949532760618.post-4038517079392072080</guid>
       <category>ai</category>
-    </item>    <item>
-      <title>CodePen: exposed!</title>
-      <link>https://dbushell.com/2026/09/08/codepen/</link>
-      <description>
-        <![CDATA[I promise this post is not merely a comment on a Hacker News submission because good lord that would be desperate but that is where I’m starting: “They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in […]]]>
-      </description>
-      <source:markdown>I promise this post is not merely a comment on a Hacker News submission because good lord that would be desperate but that is where I’m starting: “They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in \[…\]</source:markdown>
-      <guid>cid://https://dbushell.com/2026/09/08/codepen/</guid>
     </item>    <item>
       <title>★ SuperDuper 4</title>
       <link>https://daringfireball.net/2026/09/superduper_4</link>
@@ -26434,625 +27165,6 @@ A reader reached out to me the other day to talk about the future of tech writin
       </description>
       <source:markdown>Export not just an email&#39;s aggregate numbers, but every individual event and timestamp behind them.</source:markdown>
       <category>changelog</category>
-    </item>    <item>
-      <title>I bought retinol and I feel weird about it</title>
-      <link>https://tracydurnell.com/2026/09/06/feeling-weird-about-retinol/</link>
-      <description>
-        <![CDATA[I&#8217;m trying to do better about caring for my skin, so I went into the dermatologist for a full body skin check in January. (Apparently most insurance companies will cover this annually!) My grandparents developed fragile skin as they got older, and were constantly cutting themselves, so I asked the dermatologist if there was anything [&#8230;]]]>
-      </description>
-      <source:markdown>I’m trying to do better about caring for my skin, so I went into the dermatologist for a full body skin check in January. (Apparently most insurance companies will cover this annually!) My grandparents developed fragile skin as they got older, and were constantly cutting themselves, so I asked the dermatologist if there was anything \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=40134</guid>
-      <category>Culture</category>
-      <category>Health</category>
-      <category>Reflection</category>
-      <category>Self Care</category>
-      <category>aesthetics</category>
-      <category>aging</category>
-      <category>beauty standards</category>
-      <category>control</category>
-      <category>death</category>
-      <category>insecurity</category>
-      <category>longevity</category>
-      <category>medical system</category>
-      <category>motivation</category>
-      <category>self acceptance</category>
-      <category>self esteem</category>
-      <category>women</category>
-    </item>    <item>
-      <title>Monday 7 September, 2026</title>
-      <link>https://memex.naughtons.org/monday-7-september-2026/42668/</link>
-      <description>
-        <![CDATA[Non-potable Quote of the Day “The past is never dead. It’s not even past.” William Faulkner Musical alternative to the morning’s radio news Alison Krauss &#38; Union Station &#124; Dimming Of The Day Link Long Read of the Day &#8216;Empire&#8217;s &#8230; <a href="https://memex.naughtons.org/monday-7-september-2026/42668/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <source:markdown>Non-potable Quote of the Day “The past is never dead. It’s not even past.” William Faulkner Musical alternative to the morning’s radio news Alison Krauss &#38; Union Station \| Dimming Of The Day Link Long Read of the Day ‘Empire’s … [Continue reading →](https://memex.naughtons.org/monday-7-september-2026/42668/)</source:markdown>
-      <guid>cid://https://memex.naughtons.org/?p=42668</guid>
-      <category>Online version</category>
-    </item>    <item>
-      <title>Sad to see Jensen Huang claim that AGI has arrived, with no evidence and no definitions</title>
-      <link>https://garymarcus.substack.com/p/sad-to-see-jensen-huang-claim-that</link>
-      <description>
-        <![CDATA[Declaring victory without a definition simply muddies the waters]]>
-      </description>
-      <source:markdown>Declaring victory without a definition simply muddies the waters</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!vbW1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F608d4701-6c7b-40ee-9842-aecc96614901_1226x584.png" length="0" type="image/jpeg" />
-      <guid>cid://https://garymarcus.substack.com/p/sad-to-see-jensen-huang-claim-that</guid>
-    </item>    <item>
-      <title>Wed, Sept 9th, 7pm ET - Our Weekly Paid Subscriber Get Together</title>
-      <link>https://www.hopiumchronicles.com/p/wed-sept-9th-7pm-et-our-weekly-paid</link>
-      <description>
-        <![CDATA[Breaking news from Ohio - Dr. Amy Acton was attacked at an event today but is now safe and the assailant is in custody]]>
-      </description>
-      <source:markdown>Breaking news from Ohio - Dr. Amy Acton was attacked at an event today but is now safe and the assailant is in custody</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!ckLu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2da6121d-b972-4ff1-b182-6243f2905c42_3570x2634.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.hopiumchronicles.com/p/wed-sept-9th-7pm-et-our-weekly-paid</guid>
-    </item>    <item>
-      <title>Sunday caption contest: Fortress</title>
-      <link>https://robertreich.substack.com/p/sunday-caption-contest-fortress</link>
-      <description>
-        <![CDATA[And last week&#8217;s winner]]>
-      </description>
-      <source:markdown>And last week’s winner</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!ZaYb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7461ec1-9bdd-4be8-9444-bc5de47c266f_2289x2190.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/sunday-caption-contest-fortress</guid>
-    </item>    <item>
-      <title>Notes on building an independent media and polling ecosystem in 2026</title>
-      <link>https://www.gelliottmorris.com/p/2026-09-06-sunday-roundup</link>
-      <description>
-        <![CDATA[For a special Labor Day edition of the Sunday roundup, I&#8217;ve written some personal thoughts on journalism, polling, forecasting, and the value of staying off algorithmic social media in 2026.]]>
-      </description>
-      <source:markdown>For a special Labor Day edition of the Sunday roundup, I’ve written some personal thoughts on journalism, polling, forecasting, and the value of staying off algorithmic social media in 2026.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!gLnS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffdfc5f20-7290-4b13-8b64-c1026827143a_1752x934.png" length="0" type="image/jpeg" />
-      <guid>cid://https://www.gelliottmorris.com/p/2026-09-06-sunday-roundup</guid>
-    </item>    <item>
-      <title>Week Fifteen in 250 to 250</title>
-      <link>https://heathercoxrichardson.substack.com/p/week-fifteen-in-250-to-250</link>
-      <description>
-        <![CDATA[Last week was the fifteenth week of videos from the 250 to 250 Project that we&#8217;re producing to honor the 250th anniversary of the Declaration of Independence.]]>
-      </description>
-      <source:markdown>Last week was the fifteenth week of videos from the 250 to 250 Project that we’re producing to honor the 250th anniversary of the Declaration of Independence.</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/0077cb54-d904-499d-b231-08f6e9936a4f_1920x1080.png" length="0" type="image/jpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/week-fifteen-in-250-to-250</guid>
-    </item>    <item>
-      <title>Fatherland</title>
-      <link>https://dbarkhuff.substack.com/p/fatherland</link>
-      <description>
-        <![CDATA[The last two days involved a lot of driving.]]>
-      </description>
-      <source:markdown>The last two days involved a lot of driving.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!2kE_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e8dd4d8-1c9c-4028-bdbd-7b49194dcd1f_516x776.png" length="0" type="image/jpeg" />
-      <guid>cid://https://dbarkhuff.substack.com/p/fatherland</guid>
-    </item>    <item>
-      <title>Our Wins Of The Week</title>
-      <link>https://thinkbigpicture.substack.com/p/week-progressive-wins-september-6</link>
-      <description>
-        <![CDATA[The mid-decade redistricting wars heated up again this week.]]>
-      </description>
-      <source:markdown>The mid-decade redistricting wars heated up again this week.</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/30a78712-d339-4cd9-b91a-97d8bf15ae2f_1048x636.png" length="0" type="image/jpeg" />
-      <guid>cid://https://thinkbigpicture.substack.com/p/week-progressive-wins-september-6</guid>
-    </item>    <item>
-      <title>Sunday session</title>
-      <link>https://adactio.com/notes/22752</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22752/small.jpg" srcset="https://adactio.com/images/uploaded/22752/medium.jpg 1.5x, https://adactio.com/images/uploaded/22752/large.jpg 2.5x" alt="Sunday session" />
-        <p>Sunday session</p>]]>
-      </description>
-      <source:markdown>![Sunday session](https://adactio.com/images/uploaded/22752/small.jpg)
-
-Sunday session</source:markdown>
-      <guid>cid://https://adactio.com/notes/22752</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/09/06.html#a172205</link>
-      <description>
-        <![CDATA[Today's song: <a href="https://www.youtube.com/watch?v=QyIZ3pYKOQM">So into you</a>.]]>
-      </description>
-      <source:markdown>Today&#39;s song: [So into you](https://www.youtube.com/watch?v=QyIZ3pYKOQM).</source:markdown>
-      <guid>cid://http://scripting.com/2026/09/06.html#a172205</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/09/06.html#a171945</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2026/09/06/reallySimpleSpaghetti.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">We got past the bump, and I'm getting stuff done. I write this stuff because I will probably forget most of the frustration. Frontier is a hard piece of software to get going, it's got a lot of integrations, which you want when you're using, but hard when you're getting it all to work the first time. And this port is very much like getting it work that way. But Claude does some things poorly and others spectacularly. It can play the role of a CPU and run the code and tell you where it will fail. Helpful when you don't have a working debugger to step through the code and see exactly how and why it failed where it did. Before debuggers it was either all or nothing.]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2026/09/06/reallySimpleSpaghetti.png)We got past the bump, and I&#39;m getting stuff done. I write this stuff because I will probably forget most of the frustration. Frontier is a hard piece of software to get going, it&#39;s got a lot of integrations, which you want when you&#39;re using, but hard when you&#39;re getting it all to work the first time. And this port is very much like getting it work that way. But Claude does some things poorly and others spectacularly. It can play the role of a CPU and run the code and tell you where it will fail. Helpful when you don&#39;t have a working debugger to step through the code and see exactly how and why it failed where it did. Before debuggers it was either all or nothing.</source:markdown>
-      <guid>cid://http://scripting.com/2026/09/06.html#a171945</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/09/06.html#a150927</link>
-      <description>
-        <![CDATA[Every day with Claude I end up debugging the things it broke overnight. Yesterday I actually got a useful script written and debugged, along the way reporting glitches but no deal-stoppers. This morning, after updating to the latest version, the script doesn't run. It's been like this for two weeks. No wonder every day before starting work I think of ditching this project and do whatever, but I don't think I could ever muster the determination to get Frontier working on modern systems. And I can't give up. But if you think this system can replace programmers, you are sorely mistaken. It can't even do the job of a programmer fielding good bug reports and verifying that they fixed the problem and didn't break anything else. Breakage happens, but this is something it does every freaking day. And then it admits that it didn't do the other half of what it knew it had to do. I say it every day, this is ridiculous and I am fed up, and that's just the beginning of the frustration. What keeps me coming back is when I can build up a head of steam in Frontier on my new Mac laptop.]]>
-      </description>
-      <source:markdown>Every day with Claude I end up debugging the things it broke overnight. Yesterday I actually got a useful script written and debugged, along the way reporting glitches but no deal-stoppers. This morning, after updating to the latest version, the script doesn&#39;t run. It&#39;s been like this for two weeks. No wonder every day before starting work I think of ditching this project and do whatever, but I don&#39;t think I could ever muster the determination to get Frontier working on modern systems. And I can&#39;t give up. But if you think this system can replace programmers, you are sorely mistaken. It can&#39;t even do the job of a programmer fielding good bug reports and verifying that they fixed the problem and didn&#39;t break anything else. Breakage happens, but this is something it does every freaking day. And then it admits that it didn&#39;t do the other half of what it knew it had to do. I say it every day, this is ridiculous and I am fed up, and that&#39;s just the beginning of the frustration. What keeps me coming back is when I can build up a head of steam in Frontier on my new Mac laptop.</source:markdown>
-      <guid>cid://http://scripting.com/2026/09/06.html#a150927</guid>
-    </item>    <item>
-      <title>Guest Newsletter: Five Books - Fall Fiction and Sewing</title>
-      <link>https://thebrowser.com/free/guest-newsletter-five-books-102/</link>
-      <description>
-        <![CDATA[Five Books features in-depth author interviews recommending five books on a theme]]>
-      </description>
-      <source:markdown>Five Books features in-depth author interviews recommending five books on a theme</source:markdown>
-      <guid>cid://6a9c03b8f8daac000117ad12</guid>
-    </item>    <item>
-      <title>Twenty-five Years After 9/11: What Have We Learned, and Forgotten?</title>
-      <link>https://fallows.substack.com/p/twenty-five-years-after-911-what</link>
-      <description>
-        <![CDATA[It&#8217;s the things we don&#8217;t talk about that have changed the most. They need our attention now.]]>
-      </description>
-      <source:markdown>It’s the things we don’t talk about that have changed the most. They need our attention now.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!kd08!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5c8a577-9c21-4ee0-ac97-1c8701359ade_1452x1329.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://fallows.substack.com/p/twenty-five-years-after-911-what</guid>
-    </item>    <item>
-      <title>Trump Gets More Terrible Polls, Ballots Are Getting Mailed In Wisconsin, Hopium Community Members Are Working It!!!!!!!!!!!</title>
-      <link>https://www.hopiumchronicles.com/p/trump-gets-more-terrible-polls-ballots</link>
-      <description>
-        <![CDATA[Hopium is hope with a plan. Here we don&#8217;t just hope tomorrow will be better than today. We do the work to make it so......]]>
-      </description>
-      <source:markdown>Hopium is hope with a plan. Here we don’t just hope tomorrow will be better than today. We do the work to make it so......</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!o625!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39eb75bc-cff8-4509-9641-c751b561e510_1005x751.png" length="0" type="image/jpeg" />
-      <guid>cid://https://www.hopiumchronicles.com/p/trump-gets-more-terrible-polls-ballots</guid>
-    </item>    <item>
-      <title>Pre-Labor Day</title>
-      <link>https://doc.searls.com/2026/09/06/pre-labor-day/</link>
-      <description>
-        <![CDATA[Yesterday I was working in my office when I suddenly remembered that the first IU football game of the season was on. So I went downstairs, turned on the TV, found the Indianapolis station carrying it (we still use an antenna here, 60 miles away), and started watching in time to see what I thought [&#8230;]]]>
-      </description>
-      <source:markdown>Yesterday I was working in my office when I suddenly remembered that the first IU football game of the season was on. So I went downstairs, turned on the TV, found the Indianapolis station carrying it (we still use an antenna here, 60 miles away), and started watching in time to see what I thought \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/2026/09/06/pre-labor-day/</guid>
-      <category>Broadcasting</category>
-      <category>Indiana University</category>
-      <category>radio</category>
-      <category>Sports</category>
-    </item>    <item>
-      <title>“Conga!”</title>
-      <link>https://steady.substack.com/p/conga</link>
-      <description>
-        <![CDATA[A Reason To Smile]]>
-      </description>
-      <source:markdown>A Reason To Smile</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!oOor!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc401d77-7695-434e-b50b-4f450409ce2c_663x517.png" length="0" type="image/jpeg" />
-      <guid>cid://https://steady.substack.com/p/conga</guid>
-    </item>    <item>
-      <title>Weaponized Interdependence</title>
-      <link>https://paulkrugman.substack.com/p/weaponized-interdependence</link>
-      <description>
-        <![CDATA[Who has the power in a trading world?]]>
-      </description>
-      <source:markdown>Who has the power in a trading world?</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!79dh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5de54134-fe50-4383-bc5b-f74c6329cf9b_1600x1154.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/weaponized-interdependence</guid>
-    </item>    <item>
-      <title>LibreOffice talks at the Open Source Conference Luxembourg 2026</title>
-      <link>https://blog.documentfoundation.org/blog/2026/09/06/libreoffice-talks-at-the-open-source-conference-luxembourg-2026/</link>
-      <description>
-        <![CDATA[We&#8217;re gearing up for the LibreOffice Conference 2026 next week in Pordenone, northern Italy – but there are more events in the pipeline too. At the Open Source Conference Luxembourg 2026, which takes place on October 7, there will be two talks from Florian Effenberger, Executive Director at The Document]]>
-      </description>
-      <source:markdown>We’re gearing up for the LibreOffice Conference 2026 next week in Pordenone, northern Italy – but there are more events in the pipeline too. At the Open Source Conference Luxembourg 2026, which takes place on October 7, there will be two talks from Florian Effenberger, Executive Director at The Document</source:markdown>
-      <guid>cid://https://blog.documentfoundation.org/?p=18082</guid>
-      <category>LibreOffice</category>
-      <category>Marketing</category>
-      <category>Meetings</category>
-    </item>    <item>
-      <title>Dragoncatcher: Pacing consensus</title>
-      <link>https://www.robinsloan.com/lab/pacing-consensus/</link>
-      <description>
-        <![CDATA[<p>Good development, huge challenge. <a href="https://www.robinsloan.com/lab/pacing-consensus/">Read here.</a></p>]]>
-      </description>
-      <source:markdown>Good development, huge challenge. [Read here.](https://www.robinsloan.com/lab/pacing-consensus/)</source:markdown>
-      <guid>cid://https://www.robinsloan.com/lab/pacing-consensus/</guid>
-    </item>    <item>
-      <title>Sunday thought: The Place Robber</title>
-      <link>https://robertreich.substack.com/p/sunday-thought-he-has-no-right-to</link>
-      <description>
-        <![CDATA[Among Trump&#8217;s assertions of arbitrary power]]>
-      </description>
-      <source:markdown>Among Trump’s assertions of arbitrary power</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!q6-p!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd77312d-c203-41b8-b1dd-65b1ee849ce9_1260x1258.webp" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/sunday-thought-he-has-no-right-to</guid>
-    </item>    <item>
-      <title>s/Neovim/Helix/g</title>
-      <link>https://xn--gckvb8fzb.com/s-neovim-helix-g/</link>
-      <description>
-        <![CDATA[I have recently replaced Neovim with Helix globally on my computer as well
-        as most of the other systems that I use. This is a write-up
-        of my experience with the new editor so far.]]>
-      </description>
-      <source:markdown>I have recently replaced Neovim with Helix globally on my computer as well
-as most of the other systems that I use. This is a write-up
-of my experience with the new editor so far.</source:markdown>
-      <author>marius@xn--gckvb8fzb.com (Marius)</author>
-      <guid>cid:///s-neovim-helix-g/</guid>
-    </item>    <item>
-      <title>September 5, 2026</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-5-2026</link>
-      <description>
-        <![CDATA[Events of Friday, September 4, showed the Trump administration in a nutshell.]]>
-      </description>
-      <source:markdown>Events of Friday, September 4, showed the Trump administration in a nutshell.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!yKDv!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b47f775-3df7-41dd-8bc9-a64cdd72d948_600x600.png" length="0" type="image/jpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-5-2026</guid>
-    </item>    <item>
-      <title>Free-Range Childhood</title>
-      <link>https://doc.searls.com/2026/09/05/free-range-childhood/</link>
-      <description>
-        <![CDATA[Virginia Mom Gets 6-Month Suspended Jail Sentence for Letting 5-Year-Old Walk to the Pond is a story in Reason, which adds this subhead: &#8220;The government also placed Karyann Parkinson on its child abuse and neglect registry, where she will remain for seven years.&#8221; The distance to the Pond was half a mile. I turned five [&#8230;]]]>
-      </description>
-      <source:markdown>Virginia Mom Gets 6-Month Suspended Jail Sentence for Letting 5-Year-Old Walk to the Pond is a story in Reason, which adds this subhead: “The government also placed Karyann Parkinson on its child abuse and neglect registry, where she will remain for seven years.” The distance to the Pond was half a mile. I turned five \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/?p=22467</guid>
-      <category>Civics</category>
-      <category>community</category>
-      <category>Culture</category>
-      <category>education</category>
-      <category>Family</category>
-      <category>Freedom</category>
-      <category>history</category>
-    </item>    <item>
-      <title>The GOP&#39;s Worst Nightmare is Coming True</title>
-      <link>https://www.borowitzreport.com/p/will-republicans-lose-ohio</link>
-      <description>
-        <![CDATA[TBR Midterms HQ]]>
-      </description>
-      <source:markdown>TBR Midterms HQ</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!1sBq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c586683-4850-4260-bd95-905d47dd28d2_2048x1368.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/will-republicans-lose-ohio</guid>
-    </item>    <item>
-      <title>Bookmarks - books, philosophy, stiegler, technology</title>
-      <link>https://inkdroid.org/2026/09/06/bookmarks/</link>
-      <description>
-        <![CDATA[These are some things I’ve wandered across on the web this week.
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://www.middledune.com/"> Middledune -
-        letterpress, silkscreen &amp; handmade books </a>
-        </h2>
-        <section class="p-summary">
-        Middle Dune is a small stationery and paper goods business based on Cape
-        Cod, MA. Owned and run by Sylvia, all our notebooks, cards, and paper
-        products are hand printed and bound with care in our studio. We
-        specialize in letterpress and screen printing and take pride in
-        combining a love for traditional hands-on craftsmanship with bold,
-        modern graphics inspired by folklore and the natural world.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/notebooks/">notebooks</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/shopping/">shopping</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://cup.columbia.edu/book/the-politics-of-digital-pharmacology/9783837662498/">
-        The Politics of Digital Pharmacology </a>
-        </h2>
-        <section class="p-summary">
-        Digitization is transforming our world economically, culturally, and
-        psychologically. The influx of new forms of communication, networking,
-        and business opportunities, as well as new types of distraction,
-        self-observation, and control into our societies represents an epochal
-        challenge. Following Bernard Stiegler’s concept of pharmacology, Felix
-        Heidenreich and Florian Weber-Stein propose to view these new forms as
-        digital pharmaka. Properly dosed, they can enable new self-relationships
-        and forms of sociality; in the case of overdose, however, there is a
-        risk of intoxication. In this essay, Felix Heidenreich, Florian
-        Weber-Stein, and, in a detailed interview, Bernard Stiegler analyze this
-        complex change in our world and develop new skills to use digital
-        pharmaka.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/books/">books</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/philosophy/">philosophy</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/stiegler/">stiegler</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/technology/">technology</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://www.themontrealreview.com/Articles/Bernard_Stiegler_Elements_of_Pharmacology.php">
-        BERNARD STIEGLER: ELEMENTS OF PHARMACOLOGY </a>
-        </h2>
-        <section class="p-summary">
-        When you are capable of transforming a poison into a remedy, it is
-        because you have developed a knowledge of this pharmakon. And you can
-        tell yourself or other people, “Don’t use it, it’s very dangerous”. This
-        is what many experts do, doctors, or, for example if you are a
-        mathematician you can critically assess the use of geometry in
-        architecture. You can predict what is possible and what isn’t, and in
-        order to define the limits of what can be built you can use your skills
-        as an expert. In this first sense, there is something similar to science
-        necessary.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/philosophy/">philosophy</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/stiegler/">stiegler</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/technology/">technology</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://katharinabrunner.de/2026/01/archival-demiground-thoughts-on-preserving-trans-oral-history/">
-        Archival Demiground: Thoughts on preserving trans oral history </a>
-        </h2>
-        <section class="p-summary">
-        Resilience makes peer-to-peer file sharing is such a compelling
-        technology not only for pirated content, but also for scientific data
-        and public records. But is it suitable for the life stories of
-        marginalized people living in a country whose own government is
-        persecuting them?
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/archives/">archives</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/bittorrent/">bittorrent</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/politics/">politics</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/sciop/">sciop</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://bibframe.org/docs/view/documentation-bf-primer/index.md">
-        BIBFRAME primer </a>
-        </h2>
-        <section class="p-summary">
-        BIBFRAME (BF) provides a model for representing bibliographic data in a
-        linked data environment. This document is a reference guide for those
-        who would like to implement the Bibframe model and vocabulary.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/bibframe/">bibframe</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/documentation/">documentation</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://store.mudita.com/store/mudita-kompakt-global">
-        Mudita Kompakt </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        Mudita Kompakt is a minimalist E Ink® phone designed for focus, privacy,
-        and freedom from digital distractions.
-        </p>
-        Featuring network bands for worldwide connectivity and reliable
-        connections when traveling. With a paper-like display, Offline+ Mode for
-        total privacy, and essential tools without unnecessary apps, it helps
-        you stay connected on your terms anywhere in the world.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/eink/">eink</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/phones/">phones</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://www.terrestres.org/2026/07/18/sauver-nos-memoires-de-la-toile-numerique/">
-        Sauver nos mémoires de l’obsolescence numérique </a>
-        </h2>
-        <section class="p-summary">
-        Longtemps consignées sur papier, nos archives individuelles et
-        collectives sont désormais numériques… et menacées par l’obsolescence
-        matérielle, les propriétaires de logiciels ou les pouvoirs autoritaires.
-        Pour lutter contre la fabrique de l’oubli et redonner de la matérialité
-        à nos histoires, il est urgent d’imaginer un mouvement d’archivistes
-        citoyen·nes.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/data/">data</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/preservation/">preservation</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://fuckhope.noblogs.org/files/2026/04/welldriveyouhopeless.pdf">
-        We’ll Drive You Hopeless </a>
-        </h2>
-        <section class="p-summary">
-        The American Dream cannot exist unless the wound stays open. If the
-        wound heals, if the land returns, if the original violence is
-        acknowledged without myth or metaphor then the entire economy collapses.
-        So the wound must be maintained. In other words, the border-town liquor
-        stores must stay open. The pipe-lines must cross through Diné Bikeyah.
-        The data centers have to be built in Page. The subprime auto loans have
-        to continue. The tech empires have to continue and grow. The vending
-        machines have to light up the colonial project of Tempe Town Lake. The
-        narrative of entrepreneurship has to endure. Settler forgetfulness has
-        to pursue its cycle. The nation has to have its myths.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/capitalism/">capitalism</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/indigenous/">indigenous</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/politics/">politics</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/zine/">zine</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://codeberg.org/comaps"> CoMaps </a>
-        </h2>
-        <section class="p-summary">
-        A community-led fork of Organic Maps. Reinforced with commitment to
-        transparency, privacy and being not-for-profit.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/maps/">maps</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/openstreetmap/">openstreetmap</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://book.compcogneuro.org/">
-        Computational Cognitive Neuroscience </a>
-        </h2>
-        <section class="p-summary">
-        A complete, self-contained introduction to the field of Computational
-        Cognitive Neuroscience, where computer models of the brain are used to
-        understand a wide range of cognitive functions, including perception,
-        attention, learning, memory, motor control, executive function, and
-        language.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/books/">books</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/computing/">computing</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/neuroscience/">neuroscience</a>
-        </p>
-        </article>]]>
-      </description>
-      <source:markdown>These are some things I’ve wandered across on the web this week.
-
-## 🔖 [Middledune -\ letterpress, silkscreen &#38; handmade books](https://www.middledune.com/)
-
-Middle Dune is a small stationery and paper goods business based on Cape
-Cod, MA. Owned and run by Sylvia, all our notebooks, cards, and paper
-products are hand printed and bound with care in our studio. We
-specialize in letterpress and screen printing and take pride in
-combining a love for traditional hands-on craftsmanship with bold,
-modern graphics inspired by folklore and the natural world.
-
-[notebooks](/tag/notebooks/) [shopping](/tag/shopping/)
-
-## 🔖 [The Politics of Digital Pharmacology](https://cup.columbia.edu/book/the-politics-of-digital-pharmacology/9783837662498/)
-
-Digitization is transforming our world economically, culturally, and
-psychologically. The influx of new forms of communication, networking,
-and business opportunities, as well as new types of distraction,
-self-observation, and control into our societies represents an epochal
-challenge. Following Bernard Stiegler’s concept of pharmacology, Felix
-Heidenreich and Florian Weber-Stein propose to view these new forms as
-digital pharmaka. Properly dosed, they can enable new self-relationships
-and forms of sociality; in the case of overdose, however, there is a
-risk of intoxication. In this essay, Felix Heidenreich, Florian
-Weber-Stein, and, in a detailed interview, Bernard Stiegler analyze this
-complex change in our world and develop new skills to use digital
-pharmaka.
-
-[books](/tag/books/) [philosophy](/tag/philosophy/) [stiegler](/tag/stiegler/) [technology](/tag/technology/)
-
-## 🔖 [BERNARD STIEGLER: ELEMENTS OF PHARMACOLOGY](https://www.themontrealreview.com/Articles/Bernard_Stiegler_Elements_of_Pharmacology.php)
-
-When you are capable of transforming a poison into a remedy, it is
-because you have developed a knowledge of this pharmakon. And you can
-tell yourself or other people, “Don’t use it, it’s very dangerous”. This
-is what many experts do, doctors, or, for example if you are a
-mathematician you can critically assess the use of geometry in
-architecture. You can predict what is possible and what isn’t, and in
-order to define the limits of what can be built you can use your skills
-as an expert. In this first sense, there is something similar to science
-necessary.
-
-[philosophy](/tag/philosophy/) [stiegler](/tag/stiegler/) [technology](/tag/technology/)
-
-## 🔖 [Archival Demiground: Thoughts on preserving trans oral history](https://katharinabrunner.de/2026/01/archival-demiground-thoughts-on-preserving-trans-oral-history/)
-
-Resilience makes peer-to-peer file sharing is such a compelling
-technology not only for pirated content, but also for scientific data
-and public records. But is it suitable for the life stories of
-marginalized people living in a country whose own government is
-persecuting them?
-
-[archives](/tag/archives/) [bittorrent](/tag/bittorrent/) [politics](/tag/politics/) [sciop](/tag/sciop/)
-
-## 🔖 [BIBFRAME primer](https://bibframe.org/docs/view/documentation-bf-primer/index.md)
-
-BIBFRAME (BF) provides a model for representing bibliographic data in a
-linked data environment. This document is a reference guide for those
-who would like to implement the Bibframe model and vocabulary.
-
-[bibframe](/tag/bibframe/) [documentation](/tag/documentation/)
-
-## 🔖 [Mudita Kompakt](https://store.mudita.com/store/mudita-kompakt-global)
-
-Mudita Kompakt is a minimalist E Ink® phone designed for focus, privacy,
-and freedom from digital distractions.
-
-Featuring network bands for worldwide connectivity and reliable
-connections when traveling. With a paper-like display, Offline+ Mode for
-total privacy, and essential tools without unnecessary apps, it helps
-you stay connected on your terms anywhere in the world.
-
-[eink](/tag/eink/) [phones](/tag/phones/)
-
-## 🔖 [Sauver nos mémoires de l’obsolescence numérique](https://www.terrestres.org/2026/07/18/sauver-nos-memoires-de-la-toile-numerique/)
-
-Longtemps consignées sur papier, nos archives individuelles et
-collectives sont désormais numériques… et menacées par l’obsolescence
-matérielle, les propriétaires de logiciels ou les pouvoirs autoritaires.
-Pour lutter contre la fabrique de l’oubli et redonner de la matérialité
-à nos histoires, il est urgent d’imaginer un mouvement d’archivistes
-citoyen·nes.
-
-[data](/tag/data/) [preservation](/tag/preservation/)
-
-## 🔖 [We’ll Drive You Hopeless](https://fuckhope.noblogs.org/files/2026/04/welldriveyouhopeless.pdf)
-
-The American Dream cannot exist unless the wound stays open. If the
-wound heals, if the land returns, if the original violence is
-acknowledged without myth or metaphor then the entire economy collapses.
-So the wound must be maintained. In other words, the border-town liquor
-stores must stay open. The pipe-lines must cross through Diné Bikeyah.
-The data centers have to be built in Page. The subprime auto loans have
-to continue. The tech empires have to continue and grow. The vending
-machines have to light up the colonial project of Tempe Town Lake. The
-narrative of entrepreneurship has to endure. Settler forgetfulness has
-to pursue its cycle. The nation has to have its myths.
-
-[capitalism](/tag/capitalism/) [indigenous](/tag/indigenous/) [politics](/tag/politics/) [zine](/tag/zine/)
-
-## 🔖 [CoMaps](https://codeberg.org/comaps)
-
-A community-led fork of Organic Maps. Reinforced with commitment to
-transparency, privacy and being not-for-profit.
-
-[maps](/tag/maps/) [openstreetmap](/tag/openstreetmap/)
-
-## 🔖 [Computational Cognitive Neuroscience](https://book.compcogneuro.org/)
-
-A complete, self-contained introduction to the field of Computational
-Cognitive Neuroscience, where computer models of the brain are used to
-understand a wide range of cognitive functions, including perception,
-attention, learning, memory, motor control, executive function, and
-language.
-
-[books](/tag/books/) [computing](/tag/computing/) [neuroscience](/tag/neuroscience/)</source:markdown>
-      <guid>cid://https://inkdroid.org/2026/09/06/bookmarks/</guid>
-      <category>archives</category>
-      <category>bibframe</category>
-      <category>bittorrent</category>
-      <category>bookmarks</category>
-      <category>books</category>
-      <category>capitalism</category>
-      <category>computing</category>
-      <category>data</category>
-      <category>documentation</category>
-      <category>eink</category>
-      <category>indigenous</category>
-      <category>maps</category>
-      <category>neuroscience</category>
-      <category>notebooks</category>
-      <category>openstreetmap</category>
-      <category>philosophy</category>
-      <category>phones</category>
-      <category>politics</category>
-      <category>preservation</category>
-      <category>sciop</category>
-      <category>shopping</category>
-      <category>stiegler</category>
-      <category>technology</category>
-      <category>zine</category>
-    </item>    <item>
-      <link>http://scripting.com/2026/09/05.html#a003154</link>
-      <description>
-        <![CDATA[The governor of Kentucky should appoint a successor to McConnell unless he can prove he’s actually alive.]]>
-      </description>
-      <source:markdown>The governor of Kentucky should appoint a successor to McConnell unless he can prove he’s actually alive.</source:markdown>
-      <guid>cid://http://scripting.com/2026/09/05.html#a003154</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/09/05.html#a001303</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2026/08/30/silo.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I had watched almost three seasons of <a href="https://en.wikipedia.org/wiki/Silo_(TV_series)">Silo</a>, had no feeling for the characters, or the story, which was going nowhere that I could discern. I shouldn't have watched it through all that time, but for some reason I did. Then in episode 9, two Fridays ago, the story took a remarkable turn. It's so good it actually makes this dark and confusing show worth watching. If you haven't been watching, imho you can start in season 3, and maybe read some recaps. You want enough of the boredom so you can revel in the brilliance of this season's end. And there is another season coming, the last one, and this time it's interesting.]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2026/08/30/silo.png)I had watched almost three seasons of [Silo](https://en.wikipedia.org/wiki/Silo_\(TV_series\)), had no feeling for the characters, or the story, which was going nowhere that I could discern. I shouldn&#39;t have watched it through all that time, but for some reason I did. Then in episode 9, two Fridays ago, the story took a remarkable turn. It&#39;s so good it actually makes this dark and confusing show worth watching. If you haven&#39;t been watching, imho you can start in season 3, and maybe read some recaps. You want enough of the boredom so you can revel in the brilliance of this season&#39;s end. And there is another season coming, the last one, and this time it&#39;s interesting.</source:markdown>
-      <guid>cid://http://scripting.com/2026/09/05.html#a001303</guid>
     </item>
   </channel>
 </rss>
