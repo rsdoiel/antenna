@@ -4,10 +4,122 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>30 Sep 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>01 Oct 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Ecce Homo by Friedrich Wilhelm Nietzsche</title>
+      <link>https://www.gutenberg.org/ebooks/52190</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Romanced to freedom by Murray Leinster</title>
+      <link>https://www.gutenberg.org/ebooks/79690</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The famous killer who— by Ray Humphreys</title>
+      <link>https://www.gutenberg.org/ebooks/79692</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Rattling chains by Ray Humphreys</title>
+      <link>https://www.gutenberg.org/ebooks/79689</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Shorty goes loco by Ray Humphreys</title>
+      <link>https://www.gutenberg.org/ebooks/79691</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>&#34;Captains Courageous&#34;: A Story of the Grand Banks by Rudyard Kipling</title>
+      <link>https://www.gutenberg.org/ebooks/2225</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Complete Poetical Works of Edgar Allan Poe by Edgar Allan Poe</title>
+      <link>https://www.gutenberg.org/ebooks/10031</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Eureka: A Prose Poem by Edgar Allan Poe</title>
+      <link>https://www.gutenberg.org/ebooks/32037</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Masque of the Red Death by Edgar Allan Poe</title>
+      <link>https://www.gutenberg.org/ebooks/1064</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Raven by Edgar Allan Poe</title>
+      <link>https://www.gutenberg.org/ebooks/1065</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The mystery of Hoyle&#39;s Mouth : by Mary E.  Ropes</title>
+      <link>https://www.gutenberg.org/ebooks/79697</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Strait is the gate (La porte étroite) by André Gide</title>
+      <link>https://www.gutenberg.org/ebooks/79693</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Arte da grammatica da lingua do Brasil by Luis Figueira</title>
+      <link>https://www.gutenberg.org/ebooks/79695</link>
+      <description>
+        <![CDATA[Language: Portuguese]]>
+      </description>
+      <source:markdown>Language: Portuguese</source:markdown>
+    </item>    <item>
+      <title>The secret of The Sahara: Kufara by Rosita Forbes</title>
+      <link>https://www.gutenberg.org/ebooks/79696</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Bad girl by Viña Delmar</title>
+      <link>https://www.gutenberg.org/ebooks/79694</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Eighteenth Brumaire of Louis Bonaparte by Karl Marx</title>
+      <link>https://www.gutenberg.org/ebooks/1346</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Pride and Prejudice by Jane Austen</title>
       <link>https://www.gutenberg.org/ebooks/1342</link>
       <description>
@@ -45,13 +157,6 @@
     </item>    <item>
       <title>The Fall of the House of Usher by Edgar Allan Poe</title>
       <link>https://www.gutenberg.org/ebooks/932</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Ecce Homo by Friedrich Wilhelm Nietzsche</title>
-      <link>https://www.gutenberg.org/ebooks/52190</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -120,13 +225,6 @@
       </description>
       <source:markdown>Language: French</source:markdown>
     </item>    <item>
-      <title>Romanced to freedom by Murray Leinster</title>
-      <link>https://www.gutenberg.org/ebooks/79690</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Landesverein Sächsischer Heimatschutz — Mitteilungen Band XVII, Heft 3–4 :</title>
       <link>https://www.gutenberg.org/ebooks/79679</link>
       <description>
@@ -141,13 +239,6 @@
       </description>
       <source:markdown>Language: German</source:markdown>
     </item>    <item>
-      <title>The famous killer who— by Ray Humphreys</title>
-      <link>https://www.gutenberg.org/ebooks/79692</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>He would be a hero by Ray Humphreys</title>
       <link>https://www.gutenberg.org/ebooks/79686</link>
       <description>
@@ -157,20 +248,6 @@
     </item>    <item>
       <title>Never saner by Ray Humphreys</title>
       <link>https://www.gutenberg.org/ebooks/79687</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Rattling chains by Ray Humphreys</title>
-      <link>https://www.gutenberg.org/ebooks/79689</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Shorty goes loco by Ray Humphreys</title>
-      <link>https://www.gutenberg.org/ebooks/79691</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1487,48 +1564,6 @@
     </item>    <item>
       <title>Recollections of Juliana : by Clare I.  Macdonald</title>
       <link>https://www.gutenberg.org/ebooks/79544</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Mr. Fortune&#39;s maggot by Sylvia Townsend Warner</title>
-      <link>https://www.gutenberg.org/ebooks/79534</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The story of the world a thousand years hence : by Henry Olerich</title>
-      <link>https://www.gutenberg.org/ebooks/79536</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Days with Walt Whitman : by Edward Carpenter</title>
-      <link>https://www.gutenberg.org/ebooks/79537</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Le bourgeois by Abel Hermant</title>
-      <link>https://www.gutenberg.org/ebooks/79540</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Life of a licensed victualler&#39;s daughter by Mary Ann Ashford</title>
-      <link>https://www.gutenberg.org/ebooks/79535</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Traditions and stories of Scottish castles by A. H. Millar</title>
-      <link>https://www.gutenberg.org/ebooks/79538</link>
       <description>
         <![CDATA[Language: English]]>
       </description>

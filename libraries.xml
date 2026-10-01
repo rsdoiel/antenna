@@ -4,10 +4,120 @@
   <channel>
     <title><![CDATA[GLAM]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>30 Sep 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>01 Oct 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Foreword</title>
+      <link>https://investinopen.org/state-of-open-infrastructure-2026/foreword/</link>
+      <description>
+        <![CDATA[The funding disruptions that made headlines last year were real, and we have documented them carefully in this report. But the story I most want to tell is not the one that made the news.The loud disruptions – the cancelled federal grants, the agencies dismantled, the program closures that generated]]>
+      </description>
+      <source:markdown>The funding disruptions that made headlines last year were real, and we have documented them carefully in this report. But the story I most want to tell is not the one that made the news.The loud disruptions – the cancelled federal grants, the agencies dismantled, the program closures that generated</source:markdown>
+      <guid>cid://6abd3c8f1ec33d0001a84bb4</guid>
+      <category>SOOI-2026</category>
+    </item>    <item>
+      <title>Contributors</title>
+      <link>https://investinopen.org/state-of-open-infrastructure-2026/contributors/</link>
+      <description>
+        <![CDATA[We use the Contributor Roles Taxonomy (CRediT) to specify collaborators’ contributions: https://credit.niso.org/
+        
+        
+        
+        Emmy Tsanghttps://orcid.org/0000-0002-9248-1280data curation, formal analysis, investigation, methodology, validation, visualization, writing – original draft, writing – review &amp; editing
+        Sarah Lippincotthttps://orcid.org/0000-0002-5700-5844data curation, formal analysis, investigation, methodology,]]>
+      </description>
+      <source:markdown>We use the Contributor Roles Taxonomy (CRediT) to specify collaborators’ contributions: https://credit.niso.org/
+
+Emmy Tsanghttps://orcid.org/0000-0002-9248-1280data curation, formal analysis, investigation, methodology, validation, visualization, writing – original draft, writing – review &#38; editing
+Sarah Lippincotthttps://orcid.org/0000-0002-5700-5844data curation, formal analysis, investigation, methodology,</source:markdown>
+      <guid>cid://6abd5920e6358500010afd89</guid>
+      <category>SOOI-2026</category>
+    </item>    <item>
+      <title>Sponsors</title>
+      <link>https://investinopen.org/state-of-open-infrastructure-2026/sponsors/</link>
+      <description>
+        <![CDATA[The State of Open Infrastructure is not simply a record of where the sector stands today. It draws on IOI’s position across the ecosystem to ask questions that individual institutions and funders rarely have the vantage point to ask: what should be sustained, where investment is most needed, how]]>
+      </description>
+      <source:markdown>The State of Open Infrastructure is not simply a record of where the sector stands today. It draws on IOI’s position across the ecosystem to ask questions that individual institutions and funders rarely have the vantage point to ask: what should be sustained, where investment is most needed, how</source:markdown>
+      <guid>cid://6abd5976e6358500010afd91</guid>
+      <category>SOOI-2026</category>
+    </item>    <item>
+      <title>Ask the Chefs: What Would You Have Done Differently About Open Access/Open Science if You Predicted the World as it Exists Today? Part 1</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/10/01/ask-the-chefs-what-would-you-have-done-differently-about-open-access-open-science-if-you-predicted-the-world-as-it-exists-today/</link>
+      <description>
+        <![CDATA[<p>Today, we "Ask the Chefs" to consider what they might do differently with their open access strategy if they knew then what they know now.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/10/01/ask-the-chefs-what-would-you-have-done-differently-about-open-access-open-science-if-you-predicted-the-world-as-it-exists-today/">Ask the Chefs: What Would You Have Done Differently About Open Access/Open Science if You Predicted the World as it Exists Today? Part 1</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Today, we &#34;Ask the Chefs&#34; to consider what they might do differently with their open access strategy if they knew then what they know now.
+
+The post [Ask the Chefs: What Would You Have Done Differently About Open Access/Open Science if You Predicted the World as it Exists Today? Part 1](https://scholarlykitchen.sspnet.org/2026/10/01/ask-the-chefs-what-would-you-have-done-differently-about-open-access-open-science-if-you-predicted-the-world-as-it-exists-today/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62910</guid>
+      <category>Artificial Intelligence</category>
+      <category>Business Models</category>
+      <category>Controversial Topics</category>
+      <category>Economics</category>
+      <category>Historical</category>
+      <category>Libraries</category>
+      <category>Open Access</category>
+      <category>Open Science</category>
+      <category>Research</category>
+      <category>APCs</category>
+      <category>Ask The Chefs</category>
+      <category>Budapest Open Access Initiative</category>
+      <category>Diamond Open Access</category>
+      <category>Green Open Access</category>
+      <category>OA in hindsight</category>
+      <category>what we got right</category>
+      <category>what we got wrong</category>
+    </item>    <item>
+      <title>Test</title>
+      <link>https://investinopen.org/state-of-open-infrastructure-2026/test/</link>
+      <description>
+        <![CDATA[Research integrity is supported by a chain of interconnected infrastructure. Publishers, funders, and researchers depend on this chain every day, yet many of the critical links remain invisible unless they break. This analysis traces the infrastructure required to support research integrity in the context of increasing challenges created by generative]]>
+      </description>
+      <source:markdown>Research integrity is supported by a chain of interconnected infrastructure. Publishers, funders, and researchers depend on this chain every day, yet many of the critical links remain invisible unless they break. This analysis traces the infrastructure required to support research integrity in the context of increasing challenges created by generative</source:markdown>
+      <guid>cid://6abd65abe6358500010afdb3</guid>
+      <category>SOOI-2026</category>
+    </item>    <item>
+      <title>Artificial Intelligence in the Writing of Scientific Articles: Guidelines for Ethical and Responsible Use</title>
+      <link>https://blog.scielo.org/en/2026/09/30/artificial-intelligence-in-the-writing-of-scientific-articles-guidelines-for-ethical-and-responsible-use/</link>
+      <description>
+        <![CDATA[<p>Generative AI is transforming academic writing, but it also poses challenges such as shallow content, fabricated data, and editorial overload. Editors warn of ethical limitations, the need for human responsibility, and the need to guide authors in adopting best practices when using AI.</p>
+        <p> <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2026/09/30/artificial-intelligence-in-the-writing-of-scientific-articles-guidelines-for-ethical-and-responsible-use/" class="more-link"><span>Read More &#8594;</span></a></span></p>
+        <p>The post <a href="https://blog.scielo.org/en/2026/09/30/artificial-intelligence-in-the-writing-of-scientific-articles-guidelines-for-ethical-and-responsible-use/">Artificial Intelligence in the Writing of Scientific Articles: Guidelines for Ethical and Responsible Use</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p>]]>
+      </description>
+      <source:markdown>Generative AI is transforming academic writing, but it also poses challenges such as shallow content, fabricated data, and editorial overload. Editors warn of ethical limitations, the need for human responsibility, and the need to guide authors in adopting best practices when using AI.
+
+…[Read More →](https://blog.scielo.org/en/2026/09/30/artificial-intelligence-in-the-writing-of-scientific-articles-guidelines-for-ethical-and-responsible-use/)
+
+The post [Artificial Intelligence in the Writing of Scientific Articles: Guidelines for Ethical and Responsible Use](https://blog.scielo.org/en/2026/09/30/artificial-intelligence-in-the-writing-of-scientific-articles-guidelines-for-ethical-and-responsible-use/) first appeared on [SciELO in Perspective](https://blog.scielo.org/en).</source:markdown>
+      <guid>cid://https://blog.scielo.org/en/?p=6012</guid>
+      <category>Analysis</category>
+      <category>Artificial Intelligence</category>
+      <category>Ethics in Scientific Communication</category>
+    </item>    <item>
+      <title>Mellon Foundation Releases: “Mapping the Landscape of Community-Based Archives” Report</title>
+      <link>https://www.infodocket.com/2026/09/30/mellon-foundation-releases-mapping-the-landscape-of-community-based-archives-report/</link>
+      <description>
+        <![CDATA[<p>From the Mellon Foundation: Today, the Mellon Foundation released &#8220;Powerful but Precarious: Mapping the Landscape of Community-Based Archives,&#8221; the first national study of its kind. Produced in partnership with research firm Engage R+D, the study draws on a survey of 336 independent, community-led archives, and in-depth interviews with more than 20 practitioners across the country. [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/09/30/mellon-foundation-releases-mapping-the-landscape-of-community-based-archives-report/">Mellon Foundation Releases: &#8220;Mapping the Landscape of Community-Based Archives&#8221; Report</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>From the Mellon Foundation: Today, the Mellon Foundation released “Powerful but Precarious: Mapping the Landscape of Community-Based Archives,” the first national study of its kind. Produced in partnership with research firm Engage R+D, the study draws on a survey of 336 independent, community-led archives, and in-depth interviews with more than 20 practitioners across the country. \[…\]
+
+The post [Mellon Foundation Releases: “Mapping the Landscape of Community-Based Archives” Report](https://www.infodocket.com/2026/09/30/mellon-foundation-releases-mapping-the-landscape-of-community-based-archives-report/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=168970</guid>
+      <category>Archives and Special Collections</category>
+      <category>Associations and Organizations</category>
+      <category>Digital Collections</category>
+      <category>Digital Preservation</category>
+      <category>Funding</category>
+      <category>Interviews</category>
+      <category>Journal Articles</category>
+      <category>Libraries</category>
+      <category>News</category>
+      <category>Preservation</category>
+    </item>    <item>
       <title>Report: Chinese-Owned Science Journal Created to Rival the Best</title>
       <link>https://www.infodocket.com/2026/09/30/report-chinese-owned-science-journal-created-to-rival-the-best/</link>
       <description>
@@ -1628,106 +1738,6 @@ The post [Internet Archive Receives IMLS Grant to Expand Access to Local and Sta
       <category>democracys library</category>
       <category>digital preservation</category>
       <category>government information</category>
-    </item>    <item>
-      <title>Report: “DOJ Official Queried a Dozen Journals on ‘Partisan’ Views in 2025”</title>
-      <link>https://www.infodocket.com/2026/09/09/report-doj-official-queried-a-dozen-journals-on-partisan-views-in-2025/</link>
-      <description>
-        <![CDATA[<p>From FYI Science Policy News: FYI Science Policy News obtained the letters through a July 2025 public records request. The new materials reveal a campaign spearheaded by then-interim US attorney for the District of Columbia Ed Martin to pressure publications prominent in the public health response to the COVID pandemic and in reproductive medicine. [Clip] [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/09/09/report-doj-official-queried-a-dozen-journals-on-partisan-views-in-2025/">Report: &#8220;DOJ Official Queried a Dozen Journals on &#8216;Partisan&#8217; Views in 2025&#8221;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>From FYI Science Policy News: FYI Science Policy News obtained the letters through a July 2025 public records request. The new materials reveal a campaign spearheaded by then-interim US attorney for the District of Columbia Ed Martin to pressure publications prominent in the public health response to the COVID pandemic and in reproductive medicine. \[Clip\] \[…\]
-
-The post [Report: “DOJ Official Queried a Dozen Journals on ‘Partisan’ Views in 2025”](https://www.infodocket.com/2026/09/09/report-doj-official-queried-a-dozen-journals-on-partisan-views-in-2025/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=168820</guid>
-      <category>News</category>
-    </item>    <item>
-      <title>Guest Post — The Unbundling of Scholarly Publishing: A Trilemma for the AI Era</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/09/09/guest-post-the-unbundling-of-scholarly-publishing-a-trilemma-for-the-ai-era/</link>
-      <description>
-        <![CDATA[<p>The journal portfolio, platform, or membership is no longer enough, as AI transforms how research is discovered and consumed. How will your organization adapt?</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/09/09/guest-post-the-unbundling-of-scholarly-publishing-a-trilemma-for-the-ai-era/">Guest Post — The Unbundling of Scholarly Publishing: A Trilemma for the AI Era</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>The journal portfolio, platform, or membership is no longer enough, as AI transforms how research is discovered and consumed. How will your organization adapt?
-
-The post [Guest Post — The Unbundling of Scholarly Publishing: A Trilemma for the AI Era](https://scholarlykitchen.sspnet.org/2026/09/09/guest-post-the-unbundling-of-scholarly-publishing-a-trilemma-for-the-ai-era/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62733</guid>
-      <category>Artificial Intelligence</category>
-      <category>Copyright</category>
-      <category>Discovery</category>
-      <category>Innovation</category>
-      <category>Research</category>
-      <category>Technology</category>
-      <category>World of Tomorrow</category>
-      <category>academic conferences</category>
-      <category>Article of the Future</category>
-      <category>cassyni</category>
-      <category>Community</category>
-      <category>Content provenance</category>
-      <category>context</category>
-      <category>corpus</category>
-      <category>elsevier leapspace</category>
-      <category>PubPeer</category>
-      <category>taming the crocodile</category>
-      <category>unbundling the journal article</category>
-      <category>wiley gateway</category>
-    </item>    <item>
-      <title>Now Available: Clarivate Releases Pulse of the Library 2026 Survey Report</title>
-      <link>https://www.infodocket.com/2026/09/09/just-released-clarivate-releases-pulse-of-the-library-2026/</link>
-      <description>
-        <![CDATA[<p>From Clarivate: Clarivate today released the Pulse of the Library 2026 report. Now in its third year, the global survey examines how libraries are responding to technological change, including AI, shifting priorities and growing demands on staff and resources. The findings reveal that Mainland China recorded the highest level of AI implementation, with 28% reporting moderate [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/09/09/just-released-clarivate-releases-pulse-of-the-library-2026/">Now Available: Clarivate Releases Pulse of the Library 2026 Survey Report</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>From Clarivate: Clarivate today released the Pulse of the Library 2026 report. Now in its third year, the global survey examines how libraries are responding to technological change, including AI, shifting priorities and growing demands on staff and resources. The findings reveal that Mainland China recorded the highest level of AI implementation, with 28% reporting moderate \[…\]
-
-The post [Now Available: Clarivate Releases Pulse of the Library 2026 Survey Report](https://www.infodocket.com/2026/09/09/just-released-clarivate-releases-pulse-of-the-library-2026/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=168809</guid>
-      <category>Academic Libraries</category>
-      <category>Funding</category>
-      <category>Libraries</category>
-      <category>News</category>
-      <category>Open Access</category>
-      <category>Productivity</category>
-      <category>Reports</category>
-    </item>    <item>
-      <title>The Fight for the Public Record</title>
-      <link>https://archive.org/details/future-knowledge-episode-41</link>
-      <description>
-        <![CDATA[<p>The public record is the foundation of an informed democracy, but in the digital age, it is more fragile than ever. In this timely conversation, <strong>Merrilee Proffitt </strong>(Democracy’s Library at the Internet Archive), <strong>James Jacobs</strong> (Stanford University), and <strong>Christopher Marcum</strong> (Federation of American Scientists) examine the growing challenges of preserving government information in the digital age. As government websites, scientific datasets, public health guidance, and other public records can be altered, removed, or lost with unprecedented speed, they explore the critical role libraries, archives, and civil society organizations play in safeguarding trustworthy public knowledge.</p><p>This conversation was recorded on 6/23/2026.</p><p>Check out all of the Future Knowledge episodes at <a href="https://archive.org/details/future-knowledge">https://archive.org/details/future-knowledge</a></p>]]>
-      </description>
-      <source:markdown>The public record is the foundation of an informed democracy, but in the digital age, it is more fragile than ever. In this timely conversation, **Merrilee Proffitt**(Democracy’s Library at the Internet Archive), **James Jacobs** (Stanford University), and **Christopher Marcum** (Federation of American Scientists) examine the growing challenges of preserving government information in the digital age. As government websites, scientific datasets, public health guidance, and other public records can be altered, removed, or lost with unprecedented speed, they explore the critical role libraries, archives, and civil society organizations play in safeguarding trustworthy public knowledge.
-
-This conversation was recorded on 6/23/2026.
-
-Check out all of the Future Knowledge episodes at [https://archive.org/details/future-knowledge](https://archive.org/details/future-knowledge)</source:markdown>
-      <enclosure url="https://media.transistor.fm/e708220d/a8006647.mp3" length="43164439" type="audio/mpeg" />
-      <guid>cid://9c0d2194-026d-43a3-82fa-8f1b7a774693</guid>
-      <category>Society</category>
-      <category>Books</category>
-      <category>Arts</category>
-      <category>Science</category>
-      <category>Tech</category>
-      <category>Conversations</category>
-      <category>Education</category>
-      <category>Philosophy</category>
-      <category>Information Policy</category>
-      <category>Internet Policy</category>
-      <category>Library</category>
-      <category>Computing</category>
-      <category>Computer History</category>
-    </item>    <item>
-      <title>Digital Preservation: Internet Archive Releases Online Archive (199,000 Articles) of BET Journalism No Longer Available on the Live Web</title>
-      <link>https://www.infodocket.com/2026/09/08/internet-archive-releases-archive-of-bet-journalism-removed-from-the-web/</link>
-      <description>
-        <![CDATA[<p>From the Internet Archive (via Bluesky, X, and Mastodon): Much of BET’s digital journalism is no longer available on the live web. Internet Archive has preserved more than 199,000 BET articles over the years. They can now be accessed through The Wayback Machine &#38; a new pilot explorer: https://wayback-labs.sf.archive.org/bet-explorer/ &#160; Background From Huff Post: Black [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/09/08/internet-archive-releases-archive-of-bet-journalism-removed-from-the-web/">Digital Preservation: Internet Archive Releases Online Archive (199,000 Articles) of BET Journalism No Longer Available on the Live Web</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>From the Internet Archive (via Bluesky, X, and Mastodon): Much of BET’s digital journalism is no longer available on the live web. Internet Archive has preserved more than 199,000 BET articles over the years. They can now be accessed through The Wayback Machine &#38; a new pilot explorer: https://wayback-labs.sf.archive.org/bet-explorer/   Background From Huff Post: Black \[…\]
-
-The post [Digital Preservation: Internet Archive Releases Online Archive (199,000 Articles) of BET Journalism No Longer Available on the Live Web](https://www.infodocket.com/2026/09/08/internet-archive-releases-archive-of-bet-journalism-removed-from-the-web/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=168785</guid>
-      <category>Digital Preservation</category>
-      <category>News</category>
-      <category>Preservation</category>
     </item>
   </channel>
 </rss>
