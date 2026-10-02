@@ -4,10 +4,66 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>01 Oct 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>02 Oct 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The life of Sethos, Vol. 1 (of 2) : by Jean Terrasson</title>
+      <link>https://www.gutenberg.org/ebooks/79675</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Eighteenth Brumaire of Louis Bonaparte by Karl Marx</title>
+      <link>https://www.gutenberg.org/ebooks/1346</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>George Washington by Woodrow Wilson</title>
+      <link>https://www.gutenberg.org/ebooks/79698</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Narrative of Arthur Gordon Pym of Nantucket by Edgar Allan Poe</title>
+      <link>https://www.gutenberg.org/ebooks/51060</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Thus Spake Zarathustra: A Book for All and None by Friedrich Wilhelm Nietzsche</title>
+      <link>https://www.gutenberg.org/ebooks/1998</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>We are the dead by Henry Kuttner</title>
+      <link>https://www.gutenberg.org/ebooks/79700</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The fortune-hunters, and other stories by Violet Jacob</title>
+      <link>https://www.gutenberg.org/ebooks/79699</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Too many heroes by Ray Humphreys</title>
+      <link>https://www.gutenberg.org/ebooks/79701</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Ecce Homo by Friedrich Wilhelm Nietzsche</title>
       <link>https://www.gutenberg.org/ebooks/52190</link>
       <description>
@@ -113,13 +169,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
     </item>    <item>
-      <title>The Eighteenth Brumaire of Louis Bonaparte by Karl Marx</title>
-      <link>https://www.gutenberg.org/ebooks/1346</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
       <title>Pride and Prejudice by Jane Austen</title>
       <link>https://www.gutenberg.org/ebooks/1342</link>
       <description>
@@ -199,13 +248,6 @@
     </item>    <item>
       <title>The lake of life by Edmond Hamilton</title>
       <link>https://www.gutenberg.org/ebooks/79677</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The life of Sethos, Vol. 1 (of 2) : by Jean Terrasson</title>
-      <link>https://www.gutenberg.org/ebooks/79675</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1501,69 +1543,6 @@
     </item>    <item>
       <title>Ex-wife by Ursula Parrott</title>
       <link>https://www.gutenberg.org/ebooks/79551</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Blackwood&#39;s Edinburgh Magazine, Vol. LXXXI, No. 496, February 1857. by Various</title>
-      <link>https://www.gutenberg.org/ebooks/79546</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Trial of the major war criminals before the International Military Tribunal, Nuremburg, 14 November</title>
-      <link>https://www.gutenberg.org/ebooks/79545</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Manuel historique de politique étrangère, tome II [de 4] : by Émile Bourgeois</title>
-      <link>https://www.gutenberg.org/ebooks/79547</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>In the scarlet star by Jack Williamson</title>
-      <link>https://www.gutenberg.org/ebooks/79548</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Mayor of New York : by L. P.  Gratacap</title>
-      <link>https://www.gutenberg.org/ebooks/79541</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Off on a Comet! a Journey through Planetary Space by Jules Verne</title>
-      <link>https://www.gutenberg.org/ebooks/1353</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Le Karité, l&#39;Argan et quelques autres Sapotacées à graines grasses de l&#39;Afrique by Em.  Perrot</title>
-      <link>https://www.gutenberg.org/ebooks/79543</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>Sänger und Könige : by Robert Hohlbaum</title>
-      <link>https://www.gutenberg.org/ebooks/79542</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>Recollections of Juliana : by Clare I.  Macdonald</title>
-      <link>https://www.gutenberg.org/ebooks/79544</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
