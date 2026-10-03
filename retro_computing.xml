@@ -4,10 +4,29 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>02 Oct 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>03 Oct 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>RISC OS Open source developments weekly update (3rd October 2026)</title>
+      <link>http://www.iconbar.com/comments/rss/news2387.html</link>
+      <description>
+        <![CDATA[Here are some of the things that I spotted which happened in the RISC OS Open source world this week...]]>
+      </description>
+      <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2387.html</guid>
+    </item>    <item>
+      <title>Meetings and events in October 2026</title>
+      <link>https://www.riscository.com/2026/meetings-and-events-october-2026/</link>
+      <description>
+        <![CDATA[The weekend starts here, and it&#8217;s the closest one to the start of October that I could fit this in &#8211; so with no further ado, here&#8217;s what meetings etc. are happening this month. Wakefield RISC OS Computer Club (WROCC) meeting &#8211; 7th October, 7:45pm WROCC usually meets up online, using Zoom, on the first Wednesday of each month, and the next meeting will feature Mark Moxon talking about the various hacking he has done to old Acornsoft games &#8211; such as Elite, Revs, and so on. Wessex ARM User&#8230;]]>
+      </description>
+      <source:markdown>The weekend starts here, and it’s the closest one to the start of October that I could fit this in – so with no further ado, here’s what meetings etc. are happening this month. Wakefield RISC OS Computer Club (WROCC) meeting – 7th October, 7:45pm WROCC usually meets up online, using Zoom, on the first Wednesday of each month, and the next meeting will feature Mark Moxon talking about the various hacking he has done to old Acornsoft games – such as Elite, Revs, and so on. Wessex ARM User…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11077</guid>
+      <category>User groups</category>
+      <category>meetings</category>
+      <category>Shows</category>
+    </item>    <item>
       <title>Dutch Government Turns to Open Source for Digital Sovereignty</title>
       <link>http://www.linux-magazine.com/Online/News/Dutch-Government-Turns-to-Open-Source-for-Digital-Sovereignty</link>
       <description>
@@ -1074,7 +1093,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
         <p>
         Note the "snow" in this shot &mdash; that's because the program was animating screen memory at the same time the VDG was trying to read it, so the VDG's memory access got briefly suppressed during that period. Because the display scan can't wait for the VDG to be enabled again, the result is a brief splat of garbage on that line until the VDG is allowed to proceed. Dubois could have simply waited for the VDG's next interframe interrupt, but there's also only so much time between frames before the VDG will start drawing again. As a result, for many programs where significant CPU time was required to do screen updates, outright ignoring the video artifacts turned out to be the least bad approach.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dygMnDX_J1GSX3K-Ai0ePTmQbHF2aHspZe534TCwZg5wCaUBtkCw0wYH1Vs3i0hR6pqtcxXNn82uRxgLutXMQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dysTVb_Ck5kOI4iJ9V69OdHapBeCy7bon3o1QDM_-bM4DWRygnidNtXLOcWacZB0GOl-jkIxFcdrdRubZp5gQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         Here's a short video I recorded of another high quality arcade clone, Galaxon (gee, I wonder what <a href="https://en.wikipedia.org/wiki/Galaxian">that was</a>) by Stephen Clarke.<!-- https://pro.nfsa.gov.au/titles/9QYN7JJV --> It shows loading from the SD card, the title and options screen (even the VZ200 had software pirates), and then playing the game, which worked fine on the keyboard. This and the other recordings I did for this entry were generated from the composite capture rig for video, but for audio using a microphone near the VZ200's piezo speaker to capture sound (since there's no audio out). You'll notice I'm pounding on the keys a bit, which the microphone faithfully picks up, though you do have to hit the keys with a bit of, shall we say, deliberateness to get them to register.
         
@@ -1090,7 +1109,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
         
         Appropriately for a Four'n Twenty take on sugar-sweetened citrus beverages, you decide how many <s>glasses</s> pies you want to make, how many advertising signs you want to buy, and the price per item you want to request. Other than the pie business, Larry Taylor's<!-- bushy --> port of the game seems to be heavily influenced by the well-known Apple II version and includes the same sort of simple graphics for weather reports and the like.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxWKO_8Pf3hEVyGiYGsUD68q13th0dH5mjBgtjkzdQ_XOJ2kfXFVRjlmTc1604P4xzKv9IAvWIvIDVuDx_s4g' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxiG0rtl-o-GTvx4lrFpjuKMW4GVD3-9oAnumztDaEALrO_g8O2vBH7-NQfW-4FihYIm80u0UtNMVyS9Qbj_Q' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         An exceptional entry in the VZ's edutainment canon is Factory by VSoftwareZ.<!-- bushy --> It oozes professional quality with a slick title screen and menu, and is an extremely fun puzzler to boot. The aim is to create a factory from various primitive machines (paint, rotate, hole punch) that will generate a specific product. It is so well animated and so thoroughly polished that it deserves this short video to fully appreciate it.
         
@@ -1106,7 +1125,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
         
         And of course a couple more games. Here is a simple Formula 1 racer (also by Stephen Clarke)<!-- game --> a la <a href="https://en.wikipedia.org/wiki/Night_Driver_%28video_game%29">Night Driver</a> where you are apparently an alien with wings and feet ...
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwGNKIOOAssmkE1ZIgNX8uo7k0R-FL8m5RPFRu1dUiQdq3UCNTTR0An4eEG6iTw3oTHzd45LTgYmBE7E9K0MA' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz_8Z1RNxJajQLKUBcc1xKbrvG0OGpTlh4CXSJwN8yMpg7IY1Ds_Guc-dzoKYI0Xjgf8Ye56VOp6D5HCiKf0g' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         ... alongside a rather good 3-D maze game by Laserlink.<!-- bushy --> It's only rendered at 90 degree angles, but it's fast and well-written, and deserved another video.
         
@@ -1206,7 +1225,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
         
         Now we'll proceed with the hardware part, and we won't even need to solder anything from here on out, because we'll just use DuPont female jumpers to connect to the BennVenn GPIO pins we've already attached &mdash; everything else will be done in software. The SD card board uses 3.3V logic and has 24 GPIO pins that can be individually configured as inputs or outputs. These are all accessible through the Z80's I/O space, with locations 68-70 setting the data direction (1=input), and locations 71-73 setting the value of outputs. All pins can be read, not only pins configured as inputs, but also the current state of any output pins. The SD card board's GPIO pins provide +5V and +9V lines as well, but we won't be needing them for this project.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz3J21GSQM_84JfIfCuDC1GazJ2ebdwZ9poHrGNeUQbyAeJ14CnxwhNIs_8m94YO1fQeQNHPVnTal5LzX_C7A' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dy6LLjBHQ6ts6ZhUk2D5br7GEixJgm3_IxkJ9sKT9uKpXt4N_axFivjR7KgobNPbnGwdYKUY64O0QyM2VDA0A' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         As an example, in <a href="https://github.com/classilla/bushfood">the Github repo</a> I have a small program to cycle the LEDs on his proto board, which you can see in this brief video. It sets all GPIO pins to output and lights all 24 green LEDs connected to them (the red ones are check LEDs for 3.3V, 5V and 9V), then cycles a dark one through them from left to right until a key is pressed. This is done by hooking into the interrupt routine called when the VDG completes a frame, the only regular timesource on an unaltered VZ200, and used back in the day as a simple clock by various programs. Every third tick of the interrupt routine, this code runs:
         <p>
@@ -1514,7 +1533,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
         <p>
         Now that we can iterate quickly on them, let's patch and play a few more games before we close.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dwc46d9Qxuas-Qj70I3Y6Xpu4rHUz0t2zvH8Dd3ubfH-_VmlkogLUrPUJLQRXAxpgi0Nq5qnHFDXd9dizP0ow' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz1qU0Ag6tl9NhEHtvzthyB1mMlBjigbcTKQX0iNWV3NuZ4s26qLBdcdNy3ZNUh857GBlAj6A22pmxqnTqhCQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         Another outstanding edutainment title is Maths Armada (not Math Armada, which my wife would insists is patentlys incorrects), where you have to load your cannon with the right sum, quotient, etc., aim, and fire. In the video we autoload the new binary with the BFL and the game starts immediately. This one I had to tack on a custom routine; the programmer had been a little <em>too</em> efficient and constructed a general fill subroutine which lots of things called, the screen clear portion being only one of many. (Darn those efficient little assembly language programmers.)
         
@@ -1530,11 +1549,11 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
         
         More recently, Juergen Buchmueller's Defense Command is sort of like a vertical Defender (complete with descending aliens trying to harvest your brood), though it has a curious game deficiency in that the side-to-side entering attackers need never be shot, so you can enter an eternal stalemate by merely sitting there. Still, the action is fast and the animations, albeit small, are decent. This game was written in C using an earlier version of the <a href="https://z88dk.org/site/targets">Z88 Development Kit</a>.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dz-dFp0A4qXwQvlftW_a4gw7kt4whR5O6GPbImvKQzTEWa33Aibp3CfxrVV-VgXWVHRmImfgZgKM1RA7RGv5w' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dy0Q5S0Mmy2nhqDipOAMnRKE5r6Oz5gIvymvIhPEa7_M37VSCNY2PDMu4LpQ99fslUHxPg8a0lvMDzAh3eYyg' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         Another Z88DK game is <a href="https://bluebilby.com/sdm_downloads/arkaball/">Arkaball by Jason Oakley</a>, an obvious Arkanoid clone, but competently crafted and worth a video.
         <p>
-        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dyCr0UG6D0pvBNpn4C1w7qEgkIBBGHVaOqOeUkaxqN6Ls_S3skjRFuV192NXWjkt5WRmdzE8toucxvoGA8foQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.blogger.com/video.g?token=AD6v5dxU_oxHPJr52RNxn5D-_hsGnGFIuknWlvGQZ-shLI7YqUfw1x9pIFL9Uwuv0FZI-l8WpbcpbndJIzpl68yozQ' class='b-hbp-video b-uploaded' frameborder='0'></iframe></div>
         <p>
         Finally, a much more modern game is (the vibecoded) <a href="https://github.com/zonared/vz-doom">VZ-DOOM</a>, a Claude-written raycast Wolfenstein 3D-style game. It fortunately didn't need patching and "just worked." Your mileage may vary as to whether you think the AI usage is cheating, and this blog has a strict no-AI-article-text policy, but it performs as advertised on this NTSC machine and likewise merits a video. VZ-DOOM uses WASD for motion, comma and period to strafe, E to open and SPACE to shoot. 
         
@@ -2651,22 +2670,6 @@ A few weeks ago, Laaca released version 1.77. Here&#39;s the feature list from t
       </description>
       <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2379.html</guid>
-    </item>    <item>
-      <title>b.log 2026/09/11 - Barn swallows, Taaard, Debugging with AI, Cinnamon is a sucky programming environment, Info window, Marble track.</title>
-      <link>https://heyrick.eu/blog/entry/20260911</link>
-      <description>
-        <![CDATA[Barn swallows, Taaard, Debugging with AI, Cinnamon is a sucky programming environment, Info window, Marble track.]]>
-      </description>
-      <source:markdown>Barn swallows, Taaard, Debugging with AI, Cinnamon is a sucky programming environment, Info window, Marble track.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260911</guid>
-    </item>    <item>
-      <title>What is the role of AI in RISC OS development?</title>
-      <link>http://www.iconbar.com/comments/rss/news2378.html</link>
-      <description>
-        <![CDATA[AI (love it or loathe it) has become a big factor in the general world of software development.]]>
-      </description>
-      <source:markdown>AI (love it or loathe it) has become a big factor in the general world of software development.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2378.html</guid>
     </item>
   </channel>
 </rss>

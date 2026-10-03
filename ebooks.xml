@@ -4,10 +4,94 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>02 Oct 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>03 Oct 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Bad girl by Viña Delmar</title>
+      <link>https://www.gutenberg.org/ebooks/79694</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>George Washington by Woodrow Wilson</title>
+      <link>https://www.gutenberg.org/ebooks/79698</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Mauprat by George Sand</title>
+      <link>https://www.gutenberg.org/ebooks/2194</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Chambers&#39;s Journal of Popular Literature, Science, and Art, index for 1886</title>
+      <link>https://www.gutenberg.org/ebooks/79705</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Antichrist by Friedrich Wilhelm Nietzsche</title>
+      <link>https://www.gutenberg.org/ebooks/19322</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Beyond Good and Evil by Friedrich Wilhelm Nietzsche</title>
+      <link>https://www.gutenberg.org/ebooks/4363</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Star Born by Andre Norton</title>
+      <link>https://www.gutenberg.org/ebooks/18458</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Arithmetical books : by Augustus De Morgan</title>
+      <link>https://www.gutenberg.org/ebooks/79706</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The slang brander by Ray Humphreys</title>
+      <link>https://www.gutenberg.org/ebooks/79702</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>What made the pinto jump by Ray Humphreys</title>
+      <link>https://www.gutenberg.org/ebooks/79703</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The mountain man by Robert J. Horton</title>
+      <link>https://www.gutenberg.org/ebooks/79704</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Commentaires de Montluc, tome 4/4 by seigneur de Blaise Monluc</title>
+      <link>https://www.gutenberg.org/ebooks/79707</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
       <title>The life of Sethos, Vol. 1 (of 2) : by Jean Terrasson</title>
       <link>https://www.gutenberg.org/ebooks/79675</link>
       <description>
@@ -17,13 +101,6 @@
     </item>    <item>
       <title>The Eighteenth Brumaire of Louis Bonaparte by Karl Marx</title>
       <link>https://www.gutenberg.org/ebooks/1346</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>George Washington by Woodrow Wilson</title>
-      <link>https://www.gutenberg.org/ebooks/79698</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -157,13 +234,6 @@
     </item>    <item>
       <title>The secret of The Sahara: Kufara by Rosita Forbes</title>
       <link>https://www.gutenberg.org/ebooks/79696</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Bad girl by Viña Delmar</title>
-      <link>https://www.gutenberg.org/ebooks/79694</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1526,27 +1596,6 @@
         <![CDATA[Language: German]]>
       </description>
       <source:markdown>Language: German</source:markdown>
-    </item>    <item>
-      <title>Mrs. Rule&#39;s foundlings by Annette Lyster</title>
-      <link>https://www.gutenberg.org/ebooks/79549</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Kick formation by Ralph Henry Barbour</title>
-      <link>https://www.gutenberg.org/ebooks/79550</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Ex-wife by Ursula Parrott</title>
-      <link>https://www.gutenberg.org/ebooks/79551</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>
