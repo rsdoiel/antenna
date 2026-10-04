@@ -5,11 +5,55 @@
     <title><![CDATA[SoCal North]]></title>
     <description><![CDATA[News and posts related to the greater North Los Angeles and adjacent counties.]]></description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>03 Oct 26 06:30 -0700</lastBuildDate>
+    <lastBuildDate>04 Oct 26 06:30 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>How a podcaster, historian and a pool contractor got Integratron&#39;s UFO history to the Huntington</title>
+      <title>Fact check: Could California lawmakers expand the billionaire tax to everyone?</title>
+      <link>https://laist.com/news/politics/fact-check-could-california-lawmakers-expand-the-billionaire-tax-to-everyone</link>
+      <description>
+        <![CDATA[Prop. 40 opponents say Prop. 40 opens the door to future wealth taxes on everyday Californians.]]>
+      </description>
+      <source:markdown>Prop. 40 opponents say Prop. 40 opens the door to future wealth taxes on everyday Californians.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-0288-d59a-a1f1-b39d18260000</guid>
+    </item>    <item>
+      <title>In South LA forum, Bass and Raman agree new homelessness system is needed but spar over housing</title>
+      <link>https://laist.com/news/politics/los-angeles-mayor-race-city-council-district-nine-forum-bass-raman-2026-november-election</link>
+      <description>
+        <![CDATA[While the two mayoral candidates aligned on some issues, they were sharply divided on where to allow new housing and how to protect renters ahead of the 2028 Olympics.]]>
+      </description>
+      <source:markdown>While the two mayoral candidates aligned on some issues, they were sharply divided on where to allow new housing and how to protect renters ahead of the 2028 Olympics.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-04eb-da37-ada3-bffb9bd30001</guid>
+    </item>    <item>
+      <title>Fans gather in Big Bear to say goodbye to Jackie the eagle. How to join from afar</title>
+      <link>https://laist.com/news/climate-environment/jackie-big-bear-memorial</link>
+      <description>
+        <![CDATA[Several groups, including local tourism bureau Visit Big Bear, organized a weekend of events to memorialize Jackie and celebrate local wildlife.]]>
+      </description>
+      <source:markdown>Several groups, including local tourism bureau Visit Big Bear, organized a weekend of events to memorialize Jackie and celebrate local wildlife.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-0363-dff2-aff1-e3e74e080001</guid>
+    </item>    <item>
+      <title>Parenting for Prevention</title>
+      <link>https://santaclarita.gov/blog/2026/10/03/parenting-for-prevention/</link>
+      <description>
+        <![CDATA[<p>By City Manager Ken Striplin Every parent wants to have the information they need to keep their children safe. When it comes to fentanyl and other drugs, that starts with understanding the risks and being willing to have tough conversations. For some families, that message comes from an experience no parent should have to endure. [&#8230;]</p>
+        <p>The post <a href="https://santaclarita.gov/blog/2026/10/03/parenting-for-prevention/">Parenting for Prevention</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
+      </description>
+      <source:markdown>By City Manager Ken Striplin Every parent wants to have the information they need to keep their children safe. When it comes to fentanyl and other drugs, that starts with understanding the risks and being willing to have tough conversations. For some families, that message comes from an experience no parent should have to endure. \[…\]
+
+The post [Parenting for Prevention](https://santaclarita.gov/blog/2026/10/03/parenting-for-prevention/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
+      <guid>cid://https://santaclarita.gov/?p=8872</guid>
+      <category>From the City Manager</category>
+    </item>    <item>
+      <title>LBUSD moves to close 2 more schools as enrollment continues to fall</title>
+      <link>https://laist.com/news/education/lbusd-moves-to-close-2-more-schools-as-enrollment-continues-to-fall</link>
+      <description>
+        <![CDATA[It’s the district’s latest effort to consolidate resources as enrollment continues to fall districtwide.]]>
+      </description>
+      <source:markdown>It’s the district’s latest effort to consolidate resources as enrollment continues to fall districtwide.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-0248-da37-ada3-bb7b6c790001</guid>
+    </item>    <item>
+      <title>How a podcaster, a historian and a pool contractor got Integratron&#39;s UFO history to the Huntington</title>
       <link>https://laist.com/news/los-angeles-activities/integratron-ufo-history-huntington-library</link>
       <description>
         <![CDATA[The new collection preserves blueprints, photographs and recordings tracing Southern California's UFO movement in the desert.]]>
@@ -3016,58 +3060,6 @@ The post [Chatsworth Bounces Back With 32-0 Shutout of Arleta Mustangs](https://
       <category>News</category>
       <category>news/local</category>
       <category>no-byline</category>
-    </item>    <item>
-      <title>Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO</title>
-      <link>https://laist.com/news/anthropic-and-openai-ceos-call-for-ai-development-to-slow-down</link>
-      <description>
-        <![CDATA[Dario Amodei and Sam Altman are the latest to urge caution amid fears the industry is racing too fast to build powerful AI while safety measures lag.]]>
-      </description>
-      <source:markdown>Dario Amodei and Sam Altman are the latest to urge caution amid fears the industry is racing too fast to build powerful AI while safety measures lag.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-9754-d56f-abb1-f7746fc60000</guid>
-    </item>    <item>
-      <title>Ride SAFE: Simple Habits for Every Bike Ride</title>
-      <link>https://santaclarita.gov/blog/2026/09/12/ride-safe-simple-habits-for-every-bike-ride/</link>
-      <description>
-        <![CDATA[<p>By City Manager Ken Striplin As parents, we want to give our children the tools they need to make good decisions and stay safe. Now that students are back in school, many young riders are using bikes and e-bikes to get to class, meet up with friends or travel around their neighborhoods. But no matter [&#8230;]</p>
-        <p>The post <a href="https://santaclarita.gov/blog/2026/09/12/ride-safe-simple-habits-for-every-bike-ride/">Ride SAFE: Simple Habits for Every Bike Ride</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
-      </description>
-      <source:markdown>By City Manager Ken Striplin As parents, we want to give our children the tools they need to make good decisions and stay safe. Now that students are back in school, many young riders are using bikes and e-bikes to get to class, meet up with friends or travel around their neighborhoods. But no matter \[…\]
-
-The post [Ride SAFE: Simple Habits for Every Bike Ride](https://santaclarita.gov/blog/2026/09/12/ride-safe-simple-habits-for-every-bike-ride/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
-      <guid>cid://https://santaclarita.gov/?p=8753</guid>
-      <category>From the City Manager</category>
-    </item>    <item>
-      <title>The deal that helped bring SoFi Stadium to Inglewood isn’t legally valid, judge rules</title>
-      <link>https://laist.com/news/the-deal-that-helped-bring-sofi-stadium-to-inglewood-isnt-legally-valid-judge-rules</link>
-      <description>
-        <![CDATA[The ruling comes as Inglewood is arguing it shouldn’t have to pay $400 million to the companies behind SoFi.]]>
-      </description>
-      <source:markdown>The ruling comes as Inglewood is arguing it shouldn’t have to pay $400 million to the companies behind SoFi.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-95ce-d56f-abb1-f5fe928f0000</guid>
-    </item>    <item>
-      <title>How does a farm in Irvine end up hosting the first-ever Tanaka Day?</title>
-      <link>https://laist.com/news/los-angeles-activities/tanaka-day-farms-irvine-orange-county</link>
-      <description>
-        <![CDATA[How one surname ties together farming and the Japanese immigration experience.]]>
-      </description>
-      <source:markdown>How one surname ties together farming and the Japanese immigration experience.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-8d0b-d5ae-ade8-bf7f06050000</guid>
-    </item>    <item>
-      <title>Camels in LA? Inside the military’s wild experiment</title>
-      <link>https://laist.com/news/la-history/los-angeles-camel-corp-us-military-experiment-civil-war</link>
-      <description>
-        <![CDATA[Before cars, a so-called “Camel Corp” was brought to Los Angeles in hopes they could transport goods.]]>
-      </description>
-      <source:markdown>Before cars, a so-called “Camel Corp” was brought to Los Angeles in hopes they could transport goods.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-86ff-d04b-ade3-aeffc8680000</guid>
-    </item>    <item>
-      <title>Gallery featuring neurodivergent artists opens on Venice&#39;s Abbott Kinney</title>
-      <link>https://laist.com/news/los-angeles-activities/limitless-gallery-neurodivergent-autism-abbott-kinney</link>
-      <description>
-        <![CDATA[“Limitless” is a project of Help Group, a nonprofit that serves people in Los Angeles with autism and mental health challenges.]]>
-      </description>
-      <source:markdown>“Limitless” is a project of Help Group, a nonprofit that serves people in Los Angeles with autism and mental health challenges.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-8ca2-d6eb-aba3-fdb2eed90000</guid>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,59 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>03 Oct 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>04 Oct 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Last years of Louis XV by Imbert de Saint-Amand</title>
+      <link>https://www.gutenberg.org/ebooks/79712</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Twenty-five years as Bishop of London by Charles Herbert</title>
+      <link>https://www.gutenberg.org/ebooks/79708</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Republic by Plato</title>
+      <link>https://www.gutenberg.org/ebooks/1497</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The heart of peace, and other poems by Laurence Housman</title>
+      <link>https://www.gutenberg.org/ebooks/79709</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Voyages de Monsieur le chevalier Chardin en Perse et autres lieux de l&#39;Orient. by Sir John Chardin</title>
+      <link>https://www.gutenberg.org/ebooks/79711</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>New England&#39;s rural winter : by John Chick Murray</title>
+      <link>https://www.gutenberg.org/ebooks/79713</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Auringon nousun maahan : by Heikki Toppila</title>
+      <link>https://www.gutenberg.org/ebooks/79710</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
       <title>Bad girl by Viña Delmar</title>
       <link>https://www.gutenberg.org/ebooks/79694</link>
       <description>
@@ -1568,34 +1617,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The castaways : by James Otis</title>
-      <link>https://www.gutenberg.org/ebooks/79552</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Drift and mastery : by Walter Lippmann</title>
-      <link>https://www.gutenberg.org/ebooks/79553</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Valiant dust by Katharine Fullerton Gerould</title>
-      <link>https://www.gutenberg.org/ebooks/79554</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Kränze auf das Grab einer theuren Angehörigen. 28. Oktober 1858 by Anonymous</title>
-      <link>https://www.gutenberg.org/ebooks/79555</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
     </item>
   </channel>
 </rss>
