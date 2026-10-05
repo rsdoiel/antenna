@@ -4,10 +4,122 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>04 Oct 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>05 Oct 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Emma by Jane Austen</title>
+      <link>https://www.gutenberg.org/ebooks/158</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>New England&#39;s rural winter : by John Chick Murray</title>
+      <link>https://www.gutenberg.org/ebooks/79713</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The justification of the good : by Vladimir Sergeyevich Solovyov</title>
+      <link>https://www.gutenberg.org/ebooks/79715</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Raven by Edgar Allan Poe</title>
+      <link>https://www.gutenberg.org/ebooks/45484</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The treasury of David, Volume 1 (of 6) : by C. H.  Spurgeon</title>
+      <link>https://www.gutenberg.org/ebooks/79723</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Little Review, November 1917 (Vol. 4, No. 7) by Various</title>
+      <link>https://www.gutenberg.org/ebooks/79714</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The lost dirigible by Ralph Henry Barbour</title>
+      <link>https://www.gutenberg.org/ebooks/79722</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Kaunis Ambrosine : by Elinor Glyn</title>
+      <link>https://www.gutenberg.org/ebooks/79718</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+    </item>    <item>
+      <title>Powder by Walt Coburn</title>
+      <link>https://www.gutenberg.org/ebooks/79724</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Nuttall encyclopædia : by P. Austin Nuttall</title>
+      <link>https://www.gutenberg.org/ebooks/12342</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>The Suppression of the African Slave Trade to the United States of America by W. E. B.  Du Bois</title>
+      <link>https://www.gutenberg.org/ebooks/17700</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>China and the allies, vol. 1 (of 2) by Arnold Henry Savage Landor</title>
+      <link>https://www.gutenberg.org/ebooks/79720</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Master in sail &#38; steam : by Charles S. Morgan</title>
+      <link>https://www.gutenberg.org/ebooks/79717</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
+      <title>Toon van &#39;t Veer by Arie Cornelis Bos</title>
+      <link>https://www.gutenberg.org/ebooks/79719</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+    </item>    <item>
+      <title>Le bienheureux Thomas More : by Henri Bremond</title>
+      <link>https://www.gutenberg.org/ebooks/79721</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+    </item>    <item>
+      <title>Women&#39;s barracks by Tereska Torrès</title>
+      <link>https://www.gutenberg.org/ebooks/79716</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+    </item>    <item>
       <title>Last years of Louis XV by Imbert de Saint-Amand</title>
       <link>https://www.gutenberg.org/ebooks/79712</link>
       <description>
@@ -42,13 +154,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-    </item>    <item>
-      <title>New England&#39;s rural winter : by John Chick Murray</title>
-      <link>https://www.gutenberg.org/ebooks/79713</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>    <item>
       <title>Auringon nousun maahan : by Heikki Toppila</title>
       <link>https://www.gutenberg.org/ebooks/79710</link>
@@ -1582,41 +1687,6 @@
         <![CDATA[Language: Portuguese]]>
       </description>
       <source:markdown>Language: Portuguese</source:markdown>
-    </item>    <item>
-      <title>The gate marked &#34;Private&#34; by Ethel M.  Dell</title>
-      <link>https://www.gutenberg.org/ebooks/79556</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Malice in Kulturland by Horace Wyatt</title>
-      <link>https://www.gutenberg.org/ebooks/79557</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Diario de su residencia en Chile (1822) y de su viaje al Brasil (1823) by Lady Maria Callcott</title>
-      <link>https://www.gutenberg.org/ebooks/79559</link>
-      <description>
-        <![CDATA[Language: Spanish]]>
-      </description>
-      <source:markdown>Language: Spanish</source:markdown>
-    </item>    <item>
-      <title>The treble clef by Edward Charles Booth</title>
-      <link>https://www.gutenberg.org/ebooks/79558</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Some ethical gains through legislation by Florence Kelley</title>
-      <link>https://www.gutenberg.org/ebooks/79561</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
     </item>
   </channel>
 </rss>

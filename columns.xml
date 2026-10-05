@@ -5,7 +5,7 @@
     <title><![CDATA[Columns]]></title>
     <description><![CDATA[Blogs, columns and snapshots from around the web.]]></description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>04 Oct 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>05 Oct 26 06:42 -0700</lastBuildDate>
     <generator>antenna/0.0.26</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -35,6 +35,855 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/117388430203937558</link>
+      <description>
+        <![CDATA[<p>Judging from the vast numbers of riot police, undercover agents, and crowd control hardware used to beat students, one begins to understand the French concern about a budget imbalance.</p>]]>
+      </description>
+      <source:markdown>Judging from the vast numbers of riot police, undercover agents, and crowd control hardware used to beat students, one begins to understand the French concern about a budget imbalance.</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/117388430203937558</guid>
+    </item>    <item>
+      <title>an application in lisp you grow by talking to it</title>
+      <link>https://ghuntley.com/lisp/</link>
+      <description>
+        <![CDATA[<p>It&apos;s kind of strange seeing all these discussions about software factories... and the like. It&apos;s also strange to see conversations about programming languages or claims that &#x24;language is best, as if that will remain true going forward. It&apos;s very clear, however, that programming</p>]]>
+      </description>
+      <source:markdown>It&#39;s kind of strange seeing all these discussions about software factories... and the like. It&#39;s also strange to see conversations about programming languages or claims that $language is best, as if that will remain true going forward. It&#39;s very clear, however, that programming</source:markdown>
+      <guid>cid://6ac3721d5c02140001aa8372</guid>
+      <category>AI</category>
+    </item>    <item>
+      <title>Seeing, understanding, and responding: low-power CNN, VLM and SLM workloads on Raspberry Pi 5</title>
+      <link>https://www.raspberrypi.com/news/seeing-understanding-and-responding-low-power-cnn-vlm-and-slm-workloads-on-raspberry-pi-5/</link>
+      <description>
+        <![CDATA[<p>A 3W NPU from Sixfab and DEEPX expands the possibilities for vision and compact language AI at the edge.</p>
+        <p>The post <a href="https://www.raspberrypi.com/news/seeing-understanding-and-responding-low-power-cnn-vlm-and-slm-workloads-on-raspberry-pi-5/">Seeing, understanding, and responding: low-power CNN, VLM and SLM workloads on Raspberry Pi 5</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <source:markdown>A 3W NPU from Sixfab and DEEPX expands the possibilities for vision and compact language AI at the edge.
+
+The post [Seeing, understanding, and responding: low-power CNN, VLM and SLM workloads on Raspberry Pi 5](https://www.raspberrypi.com/news/seeing-understanding-and-responding-low-power-cnn-vlm-and-slm-workloads-on-raspberry-pi-5/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
+      <guid>cid://https://www.raspberrypi.com/?p=140257</guid>
+      <category>Raspberry Pi 5</category>
+      <category>Raspberry Pi AI</category>
+      <category>Uncategorized</category>
+      <category>DEEPX</category>
+      <category>Sixfab</category>
+    </item>    <item>
+      <title>2026-10-04 HEIC decoding for Oddμ is problematic</title>
+      <link>https://alexschroeder.ch/view/2026-10-04-heic-patents</link>
+      <description>
+        <![CDATA[<h1 id="2026-10-04-heic-decoding-for-oddμ-is-problematic">2026-10-04 HEIC decoding for Oddμ is problematic</h1>
+        
+        <p>About half a year ago I wrote about software patents (<a href="2026-03-18-software-patents">2026-03-18 I haven&rsquo;t thought about software patents in a long time</a>). I was unhappy. And I think I was right. Just now I was looking through my dependencies again and noticed that something has changed.</p>
+        
+        <p>Back in March I wrote that <a href="Odd%CE%BC">Oddμ</a> uses the <a href="https://pkg.go.dev/github.com/gen2brain/heic">heic</a> library, which says:</p>
+        
+        <blockquote>
+        <p>License: MIT … Go decoder for HEIC Image File Format (HEVC in HEIF). Based on libheif and libde265 compiled to WASM and used with wazero runtime (CGo-free). The library will first try to use a dynamic/shared library (if installed) via purego and will fall back to WASM.</p>
+        </blockquote>
+        
+        <p>Today I found that it says:</p>
+        
+        <blockquote>
+        <p>License: MIT … Go decoder for HEIC Image File Format (HEVC in HEIF). Based on the Rust <a href="https://crates.io/crates/heic">heic</a> decoder compiled to WASM and run with wazero (CGo-free). The library will first try to use a libheif dynamic/shared library (if installed) via purego and will fall back to the embedded WASM.</p>
+        </blockquote>
+        
+        <p>It&rsquo;s a different library! The Rust crate says:</p>
+        
+        <blockquote>
+        <h2 id="patents">Patents</h2>
+        
+        <p>HEVC (H.265) and its use in HEIF containers may be covered by patents held by third parties, including (but not limited to) members of the Access Advance HEVC patent pool. This decoder may or may not be subject to those patents depending on your jurisdiction, use case, and distribution model.</p>
+        
+        <p><strong>Imazen holds no patents</strong> — only copyrights on the code we wrote. The dual license (AGPL-3.0 / commercial) grants <strong>copyright</strong> permissions for the implementation in this repository. It does <strong>not</strong> grant, and cannot grant, any rights under third-party patents.</p>
+        
+        <p>This codec is <strong>decode-only</strong>. If you ship this crate in a product, you may need to determine whether a patent license is required for your use and obtain one if so. We are not lawyers; consult a patent attorney for legal advice.
+        License</p>
+        
+        <h2 id="license">License</h2>
+        
+        <p>Dual-licensed: AGPL-3.0 or commercial.</p>
+        </blockquote>
+        
+        <p>So now at least the patent encumbrance is obvious.
+        I have questions, however.</p>
+        
+        <p>How can the Go library be MIT licensed when it is based on AGPL licensed code?</p>
+        
+        <p>How can the Rust library be AGPL licensed when it is patent encumbered?</p>
+        
+        <p>The AGPL-3.0 says the following about patents:</p>
+        
+        <blockquote>
+        <p>Each contributor grants you a non-exclusive, worldwide, royalty-free
+        patent license under the contributor&rsquo;s essential patent claims, to
+        make, use, sell, offer for sale, import and otherwise run, modify and
+        propagate the contents of its contributor version.</p>
+        </blockquote>
+        
+        <p>The contributors of the Rust library explicitly disclaim this grant.</p>
+        
+        <p>The situation is not great. Even if I argue that Oddμ is AGPL-3.0 licensed so I&rsquo;m not affected by the license of the Rust library, I&rsquo;ll just ignore the MIT license on the Go library, I am confused by the long section in the AGPL-3.0 regarding patents. I am a contributor. I think the recipients don&rsquo;t need a patent license because Oddμ is not a device that is being sold.</p>
+        
+        <p>Check the <a href="https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding#Patent_licensing">patent licensing</a> section on the HECV Wikipedia page. I see a lot of talk about &ldquo;devices&rdquo;.</p>
+        
+        <blockquote>
+        <p>The first 100,000 &ldquo;devices&rdquo; (which includes software implementations) are royalty-free, and after that the fee is $0.20 per device up to an annual cap of $25 million.</p>
+        </blockquote>
+        
+        <p>So many doubts.</p>
+        
+        <p>The reason I am thinking about all this, however:</p>
+        
+        <blockquote>
+        <h2 id="ai-generated-code-notice">AI-Generated Code Notice</h2>
+        
+        <p>Developed with Claude (Anthropic). Not all code manually reviewed. Review critical paths before production use.</p>
+        </blockquote>
+        
+        <p>I think I&rsquo;ll remove HEIC support from Oddμ. 😓</p>
+        
+        <p><a class="tag" href="/search/?q=%23Patents">#Patents</a> <a class="tag" href="/search/?q=%23Oddμ">#Oddμ</a></p>
+        
+        <p><strong>2026-10-05</strong>. There is a different <a href="https://github.com/gen2brain/h265">h265</a> library.
+        MIT license. The decoder is a port of the pure-Rust <a href="https://github.com/roticv/rust_h265">rust_h265</a> and <a href="https://github.com/OxideAV/oxideav-h265">oxideav-h265</a> decoders and carries their notices.</p>
+        
+        <p>h265 says:</p>
+        
+        <blockquote>
+        <p>This software implements a decoder and an encoder. It gives you no special rights on the HEVC patents. HEVC is covered by patents held by several pools and by unpooled holders; if you distribute or use this software you may need a licence from them.</p>
+        </blockquote>
+        
+        <p>rust_h265 licensed under either Apache-2.0 or MIT license, at your option, and contains a <code>CLAUDE.md</code> file.</p>
+        
+        <p>oxideav-h265 is co-authored by Claude.</p>]]>
+      </description>
+      <source:markdown># 2026-10-04 HEIC decoding for Oddμ is problematic
+
+About half a year ago I wrote about software patents ( [2026-03-18 I haven’t thought about software patents in a long time](2026-03-18-software-patents)). I was unhappy. And I think I was right. Just now I was looking through my dependencies again and noticed that something has changed.
+
+Back in March I wrote that [Oddμ](Odd%CE%BC) uses the [heic](https://pkg.go.dev/github.com/gen2brain/heic) library, which says:
+
+&#62; License: MIT … Go decoder for HEIC Image File Format (HEVC in HEIF). Based on libheif and libde265 compiled to WASM and used with wazero runtime (CGo-free). The library will first try to use a dynamic/shared library (if installed) via purego and will fall back to WASM.
+
+Today I found that it says:
+
+&#62; License: MIT … Go decoder for HEIC Image File Format (HEVC in HEIF). Based on the Rust [heic](https://crates.io/crates/heic) decoder compiled to WASM and run with wazero (CGo-free). The library will first try to use a libheif dynamic/shared library (if installed) via purego and will fall back to the embedded WASM.
+
+It’s a different library! The Rust crate says:
+
+&#62; ## Patents
+&#62;
+&#62; HEVC (H.265) and its use in HEIF containers may be covered by patents held by third parties, including (but not limited to) members of the Access Advance HEVC patent pool. This decoder may or may not be subject to those patents depending on your jurisdiction, use case, and distribution model.
+&#62;
+&#62; **Imazen holds no patents** — only copyrights on the code we wrote. The dual license (AGPL-3.0 / commercial) grants **copyright** permissions for the implementation in this repository. It does **not** grant, and cannot grant, any rights under third-party patents.
+&#62;
+&#62; This codec is **decode-only**. If you ship this crate in a product, you may need to determine whether a patent license is required for your use and obtain one if so. We are not lawyers; consult a patent attorney for legal advice.
+&#62; License
+&#62;
+&#62; ## License
+&#62;
+&#62; Dual-licensed: AGPL-3.0 or commercial.
+
+So now at least the patent encumbrance is obvious.
+I have questions, however.
+
+How can the Go library be MIT licensed when it is based on AGPL licensed code?
+
+How can the Rust library be AGPL licensed when it is patent encumbered?
+
+The AGPL-3.0 says the following about patents:
+
+&#62; Each contributor grants you a non-exclusive, worldwide, royalty-free
+&#62; patent license under the contributor’s essential patent claims, to
+&#62; make, use, sell, offer for sale, import and otherwise run, modify and
+&#62; propagate the contents of its contributor version.
+
+The contributors of the Rust library explicitly disclaim this grant.
+
+The situation is not great. Even if I argue that Oddμ is AGPL-3.0 licensed so I’m not affected by the license of the Rust library, I’ll just ignore the MIT license on the Go library, I am confused by the long section in the AGPL-3.0 regarding patents. I am a contributor. I think the recipients don’t need a patent license because Oddμ is not a device that is being sold.
+
+Check the [patent licensing](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding#Patent_licensing) section on the HECV Wikipedia page. I see a lot of talk about “devices”.
+
+&#62; The first 100,000 “devices” (which includes software implementations) are royalty-free, and after that the fee is $0.20 per device up to an annual cap of $25 million.
+
+So many doubts.
+
+The reason I am thinking about all this, however:
+
+&#62; ## AI-Generated Code Notice
+&#62;
+&#62; Developed with Claude (Anthropic). Not all code manually reviewed. Review critical paths before production use.
+
+I think I’ll remove HEIC support from Oddμ. 😓
+
+[#Patents](/search/?q=%23Patents) [#Oddμ](/search/?q=%23Oddμ)
+
+**2026-10-05**. There is a different [h265](https://github.com/gen2brain/h265) library.
+MIT license. The decoder is a port of the pure-Rust [rust\_h265](https://github.com/roticv/rust_h265) and [oxideav-h265](https://github.com/OxideAV/oxideav-h265) decoders and carries their notices.
+
+h265 says:
+
+&#62; This software implements a decoder and an encoder. It gives you no special rights on the HEVC patents. HEVC is covered by patents held by several pools and by unpooled holders; if you distribute or use this software you may need a licence from them.
+
+rust\_h265 licensed under either Apache-2.0 or MIT license, at your option, and contains a `CLAUDE.md` file.
+
+oxideav-h265 is co-authored by Claude.</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2026-10-04-heic-patents</guid>
+      <category>Patents</category>
+      <category>Oddμ</category>
+    </item>    <item>
+      <title>How Feminist Activist Robin Morgan Helped Preserve the Legacy of Sylvia Plath</title>
+      <link>https://lithub.com/how-feminist-activist-robin-morgan-helped-preserve-the-legacy-of-sylvia-plath/</link>
+      <description>
+        <![CDATA[On the Saturday morning of Labor Day weekend, my best friend Dani, also a writer, wrote to tell me that Robin Morgan, the landmark American feminist activist, organizer, and writer, had died. In the midst of the rush to finish]]>
+      </description>
+      <source:markdown>On the Saturday morning of Labor Day weekend, my best friend Dani, also a writer, wrote to tell me that Robin Morgan, the landmark American feminist activist, organizer, and writer, had died. In the midst of the rush to finish</source:markdown>
+      <guid>cid://https://lithub.com/?p=277894</guid>
+      <category>Biography</category>
+      <category>Craft and Criticism</category>
+      <category>Features</category>
+      <category>Literary Criticism</category>
+      <category>News and Culture</category>
+      <category>Emily Van Duyne</category>
+      <category>feminism</category>
+      <category>in memorium</category>
+      <category>Loving Sylvia Plath: A Reclamation</category>
+      <category>Robin Morgan</category>
+      <category>Sylvia Plath</category>
+      <category>Ted Hughes</category>
+    </item>    <item>
+      <title>Community Member Monday: Adlair Cerecedo-Méndez</title>
+      <link>https://blog.documentfoundation.org/blog/2026/10/05/community-member-monday-adlair-cerecedo-mendez/</link>
+      <description>
+        <![CDATA[( Note: this is a translation of an article on the Spanish-language blog) For Adlair Cerecedo-Méndez, his work with LibreOffice began as a response to a specific need: helping the Mexican government obtain an office suite tailored to public institutions. Over time, that technical work also became an experience in]]>
+      </description>
+      <source:markdown>( Note: this is a translation of an article on the Spanish-language blog) For Adlair Cerecedo-Méndez, his work with LibreOffice began as a response to a specific need: helping the Mexican government obtain an office suite tailored to public institutions. Over time, that technical work also became an experience in</source:markdown>
+      <guid>cid://https://blog.documentfoundation.org/?p=18203</guid>
+      <category>Community</category>
+      <category>Interviews</category>
+      <category>LibreOffice</category>
+    </item>    <item>
+      <title>Another Historic Cipher Falls to AI</title>
+      <link>https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html</link>
+      <description>
+        <![CDATA[<p><a href="https://carter.church/writeups/the-letter-to-marmont/#war">This one</a> is from 1809, written by Napoleon&#8217;s nephew.</p>]]>
+      </description>
+      <source:markdown>[This one](https://carter.church/writeups/the-letter-to-marmont/#war) is from 1809, written by Napoleon’s nephew.</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=72737</guid>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>cryptography</category>
+      <category>history of cryptography</category>
+    </item>    <item>
+      <title>Eric Schmitt Hospitalized After Walking Into Wall</title>
+      <link>https://www.borowitzreport.com/p/eric-schmitt-hospitalized-after-walking</link>
+      <description>
+        <![CDATA[Yet another setback for the embattled lawmaker.]]>
+      </description>
+      <source:markdown>Yet another setback for the embattled lawmaker.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!msXZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41dda2c6-3068-414a-a2cb-debe0d0db344_3669x2930.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/eric-schmitt-hospitalized-after-walking</guid>
+    </item>    <item>
+      <title>What Could LPE Want from a Method?</title>
+      <link>https://lpeproject.org/blog/what-could-lpe-want-from-a-method/</link>
+      <description>
+        <![CDATA[Law and economics offers a portable, teachable procedure that students can learn in a semester and apply across fields. Should LPE aim to develop a rival procedure of its own, or should it aspire to a different kind of methodological maturity?]]>
+      </description>
+      <source:markdown>Law and economics offers a portable, teachable procedure that students can learn in a semester and apply across fields. Should LPE aim to develop a rival procedure of its own, or should it aspire to a different kind of methodological maturity?</source:markdown>
+      <guid>cid://https://lpeproject.org/?p=13535</guid>
+      <category>Symposium</category>
+      <category>Legal and Political Theory</category>
+    </item>    <item>
+      <title>The Trump Administration is a Cesspit of Corruption</title>
+      <link>https://paulkrugman.substack.com/p/the-trump-administration-is-a-cesspit</link>
+      <description>
+        <![CDATA[And fighting it should be at the heart of the Democratic agenda]]>
+      </description>
+      <source:markdown>And fighting it should be at the heart of the Democratic agenda</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!ho_l!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50a20401-0b98-4778-bf3d-7caddf0cd194_554x554.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/the-trump-administration-is-a-cesspit</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: October 5, 2026</title>
+      <link>https://lithub.com/lit-hub-daily-october-5-2026/</link>
+      <description>
+        <![CDATA[How British media legitimized J.K. Rowling&#8217;s transphobia: &#8220;We are rendered hostile abstractions in a contradictory narrative: Trans people are not real, only our violence is real.&#8221; &#124; Lit Hub Politics Samantha&#8217;s all grown up, and American Girl books are entering]]>
+      </description>
+      <source:markdown>How British media legitimized J.K. Rowling’s transphobia: “We are rendered hostile abstractions in a contradictory narrative: Trans people are not real, only our violence is real.” \| Lit Hub Politics Samantha’s all grown up, and American Girl books are entering</source:markdown>
+      <guid>cid://https://lithub.com/?p=277914</guid>
+      <category>Lit Hub Daily</category>
+    </item>    <item>
+      <title>Reflecting on 5 years of Public Notice</title>
+      <link>https://www.publicnotice.co/p/public-notice-5-year-anniversary</link>
+      <description>
+        <![CDATA[And a look forward to what&#8217;s next.]]>
+      </description>
+      <source:markdown>And a look forward to what’s next.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!wlio!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F310f2518-316f-48c3-820b-0dfa2e8540ba_1035x711.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.publicnotice.co/p/public-notice-5-year-anniversary</guid>
+    </item>    <item>
+      <title>How the British Media Legitimized J.K. Rowling’s Transphobia</title>
+      <link>https://lithub.com/how-the-british-media-legitimized-j-k-rowlings-transphobia/</link>
+      <description>
+        <![CDATA[Preserved like frozen eddies in the whirlwind of a moral panic are the words of a national journalist, days after J.K. Rowling publishes her essay on the threat of the trans rights movement. Shona Craven’s newspaper article “This Is Why]]>
+      </description>
+      <source:markdown>Preserved like frozen eddies in the whirlwind of a moral panic are the words of a national journalist, days after J.K. Rowling publishes her essay on the threat of the trans rights movement. Shona Craven’s newspaper article “This Is Why</source:markdown>
+      <guid>cid://https://lithub.com/?p=277526</guid>
+      <category>Features</category>
+      <category>News and Culture</category>
+      <category>Politics</category>
+      <category>Gina Gwenffrewi</category>
+      <category>J. K. Rowling and the Anti-Trans Panic</category>
+      <category>J.K. Rowling</category>
+      <category>journalism</category>
+      <category>LGBTQ</category>
+      <category>media</category>
+      <category>Ohio State University Press</category>
+      <category>social media</category>
+      <category>transphobia</category>
+      <category>United Kingdom</category>
+    </item>    <item>
+      <title>Revisiting an Unsung 100-Year-Old Novel From an Intellectual New York Family</title>
+      <link>https://lithub.com/revisiting-an-unsung-100-year-old-novel-from-an-intellectual-new-york-family/</link>
+      <description>
+        <![CDATA[I recently visited a house on Manhattan’s Upper East Side. Despite its hospitable interiors, I wasn’t invited inside. I wandered around in the dark, peering through the windows like a voyeur. I couldn’t believe what I saw. I dreamed of]]>
+      </description>
+      <source:markdown>I recently visited a house on Manhattan’s Upper East Side. Despite its hospitable interiors, I wasn’t invited inside. I wandered around in the dark, peering through the windows like a voyeur. I couldn’t believe what I saw. I dreamed of</source:markdown>
+      <guid>cid://https://lithub.com/?p=277469</guid>
+      <category>Craft and Criticism</category>
+      <category>Features</category>
+      <category>Literary Criticism</category>
+      <category>Ettie Stettheimer</category>
+      <category>Love Days</category>
+      <category>Mabel Capability Taylor</category>
+      <category>Mandylion Press</category>
+      <category>women writers</category>
+    </item>    <item>
+      <title>We Banned the Soul from the Building: On AI, Spiritual Life, and Sustainable Practices for Writing</title>
+      <link>https://lithub.com/we-banned-the-soul-from-the-building-on-ai-spiritual-life-and-sustainable-practices-for-writing/</link>
+      <description>
+        <![CDATA[The literary world is finally asking a question it has dodged for years: What can a human writer do that artificial intelligence cannot? The answers tend to circle around technical and personal aspects of writing, like voice, lived experience, and]]>
+      </description>
+      <source:markdown>The literary world is finally asking a question it has dodged for years: What can a human writer do that artificial intelligence cannot? The answers tend to circle around technical and personal aspects of writing, like voice, lived experience, and</source:markdown>
+      <guid>cid://https://lithub.com/?p=277739</guid>
+      <category>Craft and Advice</category>
+      <category>Craft and Criticism</category>
+      <category>Features</category>
+      <category>News and Culture</category>
+      <category>Religion</category>
+      <category>Technology</category>
+      <category>AI</category>
+      <category>Charlotte Donlon</category>
+      <category>craft</category>
+      <category>Here Below Books</category>
+      <category>Soul</category>
+      <category>Spiritual Direction for Writers: Everyday Rituals for Your Writing Life</category>
+      <category>Spirituality</category>
+      <category>Writing process</category>
+    </item>    <item>
+      <title>9 Novels About Being the Poorest Person in the Room</title>
+      <link>https://lithub.com/9-novels-about-being-the-poorest-person-in-the-room/</link>
+      <description>
+        <![CDATA[I like my fiction the way I like my reality TV: full of rich people behaving badly, all of whom are one wrong move away from total exposure. Fortunately for me, Rich People Behaving Badly is a whole supergenre—spanning thrillers,]]>
+      </description>
+      <source:markdown>I like my fiction the way I like my reality TV: full of rich people behaving badly, all of whom are one wrong move away from total exposure. Fortunately for me, Rich People Behaving Badly is a whole supergenre—spanning thrillers,</source:markdown>
+      <guid>cid://https://lithub.com/?p=277530</guid>
+      <category>Craft and Criticism</category>
+      <category>Features</category>
+      <category>Literary Criticism</category>
+      <category>Reading Lists</category>
+      <category>All That Life Can Afford</category>
+      <category>Amor Towles</category>
+      <category>Carla Vass</category>
+      <category>Crazy Rich Asians</category>
+      <category>Daphne du Maurier</category>
+      <category>Donna Tartt</category>
+      <category>Emily Everett</category>
+      <category>Emma Cline</category>
+      <category>F. Scott Fitzgerald</category>
+      <category>Hachette Book Group</category>
+      <category>Jenny Jackson</category>
+      <category>Kevin Kwan</category>
+      <category>Patricia Highsmith</category>
+      <category>Pineapple Street</category>
+      <category>reading list</category>
+      <category>Rebecca</category>
+      <category>Rules of Civility</category>
+      <category>The Great Gatsby</category>
+      <category>The Guest</category>
+      <category>The Rally</category>
+      <category>The Secret History</category>
+      <category>The Talented Mr. Ripley</category>
+      <category>Union Square and Co.</category>
+    </item>    <item>
+      <title>Rebranding Samantha: Reflections on the First “Grown Up” American Girl Book</title>
+      <link>https://lithub.com/rebranding-samantha-reflections-on-the-first-grown-up-american-girl-book/</link>
+      <description>
+        <![CDATA[We had several things on our 40th anniversary of American Girl wishlist: The relaunch of Grin Pins; a new historical doll with a more contemporary history (we have consistently suggested something from the 1960s Chicano Movement); a few updated Smart]]>
+      </description>
+      <source:markdown>We had several things on our 40th anniversary of American Girl wishlist: The relaunch of Grin Pins; a new historical doll with a more contemporary history (we have consistently suggested something from the 1960s Chicano Movement); a few updated Smart</source:markdown>
+      <guid>cid://https://lithub.com/?p=277877</guid>
+      <category>Craft and Criticism</category>
+      <category>Features</category>
+      <category>Literary Criticism</category>
+      <category>american girl dolls</category>
+      <category>An American Girl Anthology: Finding Ourselves in the Pleasant Company Universe</category>
+      <category>Justine Orlovsky-Schnitzler</category>
+      <category>KC Hysmith</category>
+      <category>Samantha Parkington</category>
+      <category>Samantha: The Next Chapter</category>
+    </item>    <item>
+      <title>You Don’t Just Need Better AI. You Need Better Infrastructure.</title>
+      <link>https://blog.mozilla.ai/you-dont-just-need-better-ai-you-need-better-infrastructure/</link>
+      <description>
+        <![CDATA[Coding agents now edit repos, run tests, and open pull requests, but a rule in AGENTS.md is an instruction, not a constraint. As we delegate more, we need limits that hold even when model judgment fails, a record of every decision, and open infrastructure we own, so rules outlive any agent.]]>
+      </description>
+      <source:markdown>Coding agents now edit repos, run tests, and open pull requests, but a rule in AGENTS.md is an instruction, not a constraint. As we delegate more, we need limits that hold even when model judgment fails, a record of every decision, and open infrastructure we own, so rules outlive any agent.</source:markdown>
+      <guid>cid://6ac366413563670001430e00</guid>
+      <category>Expert Opinion</category>
+    </item>    <item>
+      <title>Love Days</title>
+      <link>https://lithub.com/love-days/</link>
+      <description>
+        <![CDATA[After a hasty breakfast, of which she remembered nothing but that she had eaten it, Susanna found herself on the street car bound for college. She had indeed been dimly aware of the states through which she had passed up]]>
+      </description>
+      <source:markdown>After a hasty breakfast, of which she remembered nothing but that she had eaten it, Susanna found herself on the street car bound for college. She had indeed been dimly aware of the states through which she had passed up</source:markdown>
+      <guid>cid://https://lithub.com/?p=276954</guid>
+      <category>Daily Fiction</category>
+      <category>Excerpts</category>
+      <category>Fiction and Poetry</category>
+      <category>From the Novel</category>
+      <category>Novels</category>
+      <category>Ettie Stettheimer</category>
+      <category>Love Days</category>
+      <category>Mandylion Press</category>
+    </item>    <item>
+      <title>The Central Question of Power in America</title>
+      <link>https://robertreich.substack.com/p/the-central-question-of-power-in</link>
+      <description>
+        <![CDATA[Can we reverse the power shift that began four decades ago? This is the biggest question lurking behind the midterm campaigns.]]>
+      </description>
+      <source:markdown>Can we reverse the power shift that began four decades ago? This is the biggest question lurking behind the midterm campaigns.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!tJ81!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ccf2cc4-f9ea-4282-aaae-3e56c95b39a8_678x452.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/the-central-question-of-power-in</guid>
+    </item>    <item>
+      <title>October 4, 2026</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-4-2026</link>
+      <description>
+        <![CDATA[On Friday night, just before 11:00, Trump announced that his administration &#8220;will, immediately, begin sending &#8216;Checks&#8217; of nearly $100 to over 20 MILLION wonderful Seniors to help pay for their Medicare Part B premiums, which we have already reduced by significant amounts.]]>
+      </description>
+      <source:markdown>On Friday night, just before 11:00, Trump announced that his administration “will, immediately, begin sending ‘Checks’ of nearly $100 to over 20 MILLION wonderful Seniors to help pay for their Medicare Part B premiums, which we have already reduced by significant amounts.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!yKDv!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b47f775-3df7-41dd-8bc9-a64cdd72d948_600x600.png" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-4-2026</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/altusds.altgov.info/post/3mx434z4gss2s</link>
+      <description>
+        <![CDATA[Are you as pissed off about what's happening with the US Web Design System as we are?
+        
+        Show your support with new swag. We worked with a US Digital Corps alum (new career folks) and we love what they came up with. 
+        
+        These items are sold at cost, no donations or profit. 
+        
+        wethebuilders.myshopify.com]]>
+      </description>
+      <source:markdown>Are you as pissed off about what&#39;s happening with the US Web Design System as we are?
+
+Show your support with new swag. We worked with a US Digital Corps alum (new career folks) and we love what they came up with.
+
+These items are sold at cost, no donations or profit.
+
+wethebuilders.myshopify.com</source:markdown>
+      <guid>cid://at://did:plc:fuovrvjiloafdym65x3oloqc/app.bsky.feed.post/3mx434z4gss2s</guid>
+    </item>    <item>
+      <title>Coming soon: New York City’s hearing on AI risks</title>
+      <link>https://garymarcus.substack.com/p/coming-soon-new-york-citys-hearing</link>
+      <description>
+        <![CDATA[New York tries to take care of its own]]>
+      </description>
+      <source:markdown>New York tries to take care of its own</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!PaV0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9870d99a-f47e-4187-947e-cbabb7a2bdbe_1518x763.png" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/coming-soon-new-york-citys-hearing</guid>
+    </item>    <item>
+      <title>Wed, Oct. 7th, 7pm ET - Our Weekly Paid Subscriber Get Together</title>
+      <link>https://www.hopiumchronicles.com/p/wed-oct-7th-7pm-et-our-weekly-paid</link>
+      <description>
+        <![CDATA[Welcome new subscribers!]]>
+      </description>
+      <source:markdown>Welcome new subscribers!</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Yle-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3945cad3-d44b-4002-bba4-65cb6f927d3c_1273x735.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/wed-oct-7th-7pm-et-our-weekly-paid</guid>
+    </item>    <item>
+      <title>Poor enshittified souls</title>
+      <link>https://deadsimpletech.com/blog/poor-enshittified-souls</link>
+      <description>
+        <![CDATA[Doctorow, after all, is a techie and tech writer from a union background (of which, of course, I highly approve), which means that he wrote a very particular kind of book. As I read it, though, I noticed that I have a tendency to look at things through... well, my mother did a fine arts degree while I was at high school, and as a consequence I was exposed to hazardous levels of critical theory. I'm a humanist, and I tend to find quite a different  set of questions interesting, like "what the hell is going on inside the heads of all the people involved in enshittifying things?" or "why is enshittification generally treated as a legitimate thing for companies to do?". While money and political power are often excellent answers to this, they've never been able to stop me from thinking about it.]]>
+      </description>
+      <source:markdown>Doctorow, after all, is a techie and tech writer from a union background (of which, of course, I highly approve), which means that he wrote a very particular kind of book. As I read it, though, I noticed that I have a tendency to look at things through... well, my mother did a fine arts degree while I was at high school, and as a consequence I was exposed to hazardous levels of critical theory. I&#39;m a humanist, and I tend to find quite a different set of questions interesting, like &#34;what the hell is going on inside the heads of all the people involved in enshittifying things?&#34; or &#34;why is enshittification generally treated as a legitimate thing for companies to do?&#34;. While money and political power are often excellent answers to this, they&#39;ve never been able to stop me from thinking about it.</source:markdown>
+      <guid>cid://https://deadsimpletech.com/blog/poor-enshittified-souls</guid>
+    </item>    <item>
+      <title>GSOC26: Sharing LLVM-libc&#39;s floating-point routines with compiler-rt</title>
+      <link>https://blog.llvm.org/posts/2026-08-24-gsoc-sharing-libc-with-compiler-rt/</link>
+      <description>
+        <![CDATA[<h2 id="introduction">Introduction</h2><p>Hello LLVM community! I am Mohamed Emad, CSE student at Zagazig University, Egypt. This summer I worked on the next step of the Hand-in-Hand project, an effort that began in 2024 with <a href="https://github.com/llvm/llvm-project/pull/91651">#91651</a> to make LLVM-libc a shared foundation that the rest of LLVM can build on.</p><p>My part was to share LLVM-libc&rsquo;s floating-point math routines with compiler-rt. It replaces compiler-rt&rsquo;s existing builtins, which were written from scratch in C and assembly with a separate implementation per architecture, with LLVM-libc&rsquo;s code, which is well-tested and well-maintained.</p><h2 id="overview">Overview</h2><p>When a program targets hardware without a floating-point unit, the compilercannot emit an <code>fadd</code> or <code>fcvt</code> instruction. Instead it emits a call to a helperroutine: <code>__adddf3</code> to add two doubles, <code>__fixdfsi</code> to convert a double to an<code>int</code>, <code>__letf2</code> to compare two <code>float128</code>s. compiler-rt&rsquo;s builtins libraryships these routines, and it has carried its own soft-float implementations ofthem for years.</p><p>LLVM-libc implements the same math independently, with correctly-rounded resultsand a large test suite behind it. So the project starts from an awkward fact:LLVM keeps two separate soft-float implementations of the same operations. Twocopies drift apart, each needs its own review and testing, and a bug fixed inone rarely reaches the other. compiler-rt&rsquo;s versions are also older and lessrigorously verified than libc&rsquo;s.</p><p>This project gives compiler-rt one source of truth. LLVM-libc exposes itsroutines as freestanding headers under <code>LIBC_NAMESPACE::shared::</code>, and eachcompiler-rt builtin becomes a thin wrapper that forwards to the matching libcroutine. A single <code>.c</code> file such as <code>truncdfsf2.c</code> is swapped for a<code>truncdfsf2.cpp</code> that calls <code>shared::truncdfsf2</code>. The swap happens through aCMake macro, <code>use_libc_builtin()</code>, gated on <code>COMPILER_RT_USE_LIBC_MATH</code>, sodistributors who want the libc-backed path opt in and everyone else keeps theexisting behavior.</p><p><img src="https://blog.llvm.org/img/gsoc26-sharing-libc-with-compiler-rt-01-duplication-to-shared.png" alt="compiler-rt and LLVM-libc each carried their own soft-float routine; now compiler-rt&rsquo;s builtin is a thin wrapper over the single shared libc routine"></p><p><em>Figure 1: Two soft-float implementations of the same operation become one shared LLVM-libc routine that compiler-rt forwards to.</em></p><p>The result covers the arithmetic builtins (add, subtract, multiply, divide for<code>float</code>, <code>double</code>, and <code>float128</code>), float-to-integer and integer-to-floatconversions across the integer widths, float-to-float extend and truncateacross every format including x87 80-bit, half, and bfloat16, and the comparisonroutines. compiler-rt gets libc&rsquo;s tested math, and LLVM stops maintaining theoperation twice.</p><p><img src="https://blog.llvm.org/img/gsoc26-sharing-libc-with-compiler-rt-02-delegation-mechanism.png" alt="At build time use_libc_builtin swaps the .c source for a .cpp wrapper; at the call site the wrapper forwards the builtin call into the shared libc header"></p><p><em>Figure 2: The build-time swap and the call path: <code>use_libc_builtin()</code> replaces <code>truncdfsf2.c</code> with a wrapper that forwards <code>__truncdfsf2</code> to <code>shared::truncdfsf2</code>.</em></p><h2 id="challenges">Challenges</h2><p><strong>A routine that calls itself.</strong> Some of LLVM-libc&rsquo;s conversions are written asan ordinary cast from one floating-point type to another. That is fine when thehardware can do the conversion. On a target without an FPU, the compiler turnsthat same cast back into a call to the very builtin we are implementing, so theroutine calls itself and never finishes. The way out was to do the conversionthrough an internal, integer-only representation, so nothing the compiler seescan turn back into a floating-point builtin. A companion project, describedbelow, will let us drop even this workaround.</p><p><img src="https://blog.llvm.org/img/gsoc26-sharing-libc-with-compiler-rt-03-self-call-loop.png" alt="On the left, an ordinary cast turns back into the builtin and recurses forever; on the right, going through an integer-only representation breaks the loop"></p><p><em>Figure 3: An ordinary cast turns back into the builtin and loops forever (left); going through an integer-only representation breaks the loop (right).</em></p><p><strong>16-bit floats the target cannot name.</strong> Half precision and bfloat16 are notreal types on every target, and even where they exist, naming one in a functionsignature quietly pulls in yet another conversion builtin. So these routinesnever take a 16-bit value directly. They receive the raw bits and rebuild thenumber from a description of the format, which lets the half and bfloat16conversions work even on targets that have no 16-bit float type at all.</p><p><strong>The 80-bit x87 format.</strong> Intel&rsquo;s 80-bit extended <code>long double</code> does not followthe same layout rules as the standard IEEE formats the shared code expects, andit needs a 128-bit integer to hold its bit pattern, which does not exist on32-bit x86 where <code>long double</code> is still 80 bits. We handled it the waycompiler-rt already does: convert through a standard <code>double</code> or <code>float</code> at theedges, and compile these routines only where the 80-bit format actually exists.</p><p><strong>Two libraries in one binary.</strong> LLVM-libc&rsquo;s routines carry their own symbolnames. Linked into compiler-rt next to the target&rsquo;s real C library, those nameswould collide. We build the shared routines under a private namespace so nothingclashes, and keep the few legacy alias names that some platforms still expect.</p><p><strong>Seventy builtins, one pattern.</strong> Every builtin repeats the same shape in fourplaces: an LLVM-libc header, a compiler-rt wrapper, a build-system entry, and atest. Keeping seventy of them aligned by hand would invite mistakes, so a smallgenerator produces all four from a single description of each builtin. Onechange to the pattern updates every builtin at once.</p><h2 id="what-comes-next">What comes next</h2><p>The functional work is landing. The next phase is measuring and tuning it.</p><p><strong>Benchmarking.</strong> These routines run inside the compiled output of any programbuilt for an FPU-less target, so both their speed and their code size matter. Wewill compare each libc-backed builtin against compiler-rt&rsquo;s original soft-floatversion across the targets that actually use them: soft-float Arm, x86 withoutSSE, and bare-metal embedded configurations. The comparison covers per-calllatency and the size each routine adds to a static binary. We will test it on <a href="https://www.raspberrypi.com/products/raspberry-pi-pico-2/">raspberry pi pico 2</a> since it uses Arm Cortex-M33 that doesn&rsquo;t contain a <a href="https://en.wikipedia.org/wiki/Floating-point_unit">floating-point unit</a> for double-precision so it will be a good choice for benchmarking and finding the tradeoffs.</p><p><strong>Optimization.</strong> The integer-only conversion path trades some hand-tuned bitmanipulation for a single shared implementation. Where a benchmark shows that costing more than compiler-rt&rsquo;s original, we will tighten the hot paths, and we will watchcode size closely so the shared routines stay usable in size-constrained builds.</p><p><strong>Emulated soft-float types.</strong> Two efforts in LLVM-libc will replace theworkarounds behind the conversion builtins with something cleaner. A companionGSoC 2026 project by <a href="https://github.com/sukumarsawant">Sukumar Sawant</a>,<a href="https://summerofcode.withgoogle.com/programs/2026/projects/r3Y64A3Y">Emulated Float128 and Float80 in LLVM-libc</a>(tracked in <a href="https://github.com/llvm/llvm-project/issues/206895">#206895</a>), addsstruct-backed versions of the wide formats, and <a href="https://github.com/llvm/llvm-project/pull/184283">software<code>float16</code></a> does the same forhalf. Once a format has an emulated type, converting to it no longer turns backinto the builtin we are implementing, because the compiler has no native type toconvert with and uses the software path instead. The self-call problemdisappears at its source, the half conversions stop needing the raw-bits detour,and the code drops the integer-only workaround for a direct conversion.That is also where most of the optimization headroom lives: an emulated typecarries a proper representation the routines can specialize against, rather thanrebuilding the value from bits on every call.</p><p><strong>Finishing the port.</strong> The comparison stack and the integer, x87, half, andbfloat16 conversion stacks are in review. Once they merge, the remainingbuiltins follow the same generator-driven pattern.</p><h2 id="milestones">Milestones</h2><table><thead><tr><th>PR</th><th>Title</th><th>Status</th></tr></thead><tbody><tr><td><a href="https://github.com/llvm/llvm-project/pull/197950">#197950</a></td><td>Introduce libc math routines into compiler-rt builtins</td><td>Merged</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/200094">#200094</a></td><td>Introduce shared compiler-rt builtins in LLVM-libc</td><td>Merged</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/200196">#200196</a></td><td>Add precommit CI for the compiler-rt + libc integration</td><td>Merged</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/200539">#200539</a></td><td>Document builtin compatibility</td><td>Merged</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/205669">#205669–#205679</a></td><td>Shared add/sub/mul/div builtins for <code>sf</code>/<code>df</code>/<code>tf</code> (LLVM-libc, 11 PRs)</td><td>Merged</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/207092">#207092</a></td><td>Libc-backed arithmetic builtins (compiler-rt)</td><td>Merged</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/207543">#207543</a></td><td>Libc-backed float-to-int conversion builtins</td><td>Merged</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/209900">#209900</a></td><td>Libc-backed int-to-float/double conversion builtins</td><td>Merged</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/209984">#209984</a></td><td>Libc-backed float-to-float extend/truncate builtins</td><td>Merged</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/213481">#213481</a></td><td>Filter libc-backed builtins superseded by assembly (CMake)</td><td>Merged</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/211881">#211881</a></td><td>Libc-backed bfloat16 extend/truncate builtins</td><td>Open</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/211882">#211882</a></td><td>Libc-backed float16 extend/truncate builtins</td><td>Open</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/212649">#212649</a></td><td>Add <code>cmp_helper</code> for soft-float comparisons</td><td>Open</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/212651">#212651</a></td><td>Libc-backed single-float comparison builtins</td><td>Open</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/212652">#212652</a></td><td>Libc-backed double-float comparison builtins</td><td>Open</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/212653">#212653</a></td><td>Libc-backed quad-float comparison builtins</td><td>Open</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/215725">#215725</a></td><td>Libc-backed int-to-quad conversion builtins</td><td>Open</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/215726">#215726</a></td><td>Add the missing int-float conversion tests</td><td>Open</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/215727">#215727</a></td><td>Libc-backed quad-to-int conversion builtins</td><td>Open</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/215728">#215728</a></td><td>Libc-backed float80-to-int conversion builtins</td><td>Open</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/215729">#215729</a></td><td>Libc-backed float80/bfloat16/float16 conversion builtins</td><td>Open</td></tr><tr><td><a href="https://github.com/llvm/llvm-project/pull/183959">#183959</a></td><td>Build option to warn about unlisted builtins</td><td>Open</td></tr></tbody></table><h2 id="conclusion">Conclusion</h2><p>This summer I got to take a real piece of LLVM and remove a duplication that had been sitting in it for years. compiler-rt now backs its arithmetic and conversion builtins with LLVM-libc&rsquo;s tested math, and the comparison and remaining conversion builtins are in review and close behind. Along the way I learned far more about floating-point corner cases than I expected: how a harmless-looking cast can end up calling itself forever, why a 16-bit float can simply not exist on a target, and how the 80-bit x87 format bends nearly every rule around it.</p><p>There is still work ahead. The open pull requests need to land, and once the emulated soft-float types arrive, the conversions get simpler and the real benchmarking and optimization phase can begin. I am excited to keep pushing this forward with the community.</p><h2 id="acknowledgments">Acknowledgments</h2><p>Huge thanks to my mentors, <a href="https://github.com/lntue">Tue Ly</a>, <a href="https://github.com/michaelrj-google">Michael Jones</a>, and <a href="https://github.com/bassiounix">Muhammad Bassiouni</a>. Their reviews, patience, and design guidance shaped this work. Thank you as well to the LLVM-libc and compiler-rt reviewers for the careful feedback, and to the whole LLVM community for making room for a project like this. It has been a wonderful summer.</p>]]>
+      </description>
+      <source:markdown>## Introduction
+
+Hello LLVM community! I am Mohamed Emad, CSE student at Zagazig University, Egypt. This summer I worked on the next step of the Hand-in-Hand project, an effort that began in 2024 with [#91651](https://github.com/llvm/llvm-project/pull/91651) to make LLVM-libc a shared foundation that the rest of LLVM can build on.
+
+My part was to share LLVM-libc’s floating-point math routines with compiler-rt. It replaces compiler-rt’s existing builtins, which were written from scratch in C and assembly with a separate implementation per architecture, with LLVM-libc’s code, which is well-tested and well-maintained.
+
+## Overview
+
+When a program targets hardware without a floating-point unit, the compilercannot emit an `fadd` or `fcvt` instruction. Instead it emits a call to a helperroutine: `__adddf3` to add two doubles, `__fixdfsi` to convert a double to an `int`, `__letf2` to compare two `float128` s. compiler-rt’s builtins libraryships these routines, and it has carried its own soft-float implementations ofthem for years.
+
+LLVM-libc implements the same math independently, with correctly-rounded resultsand a large test suite behind it. So the project starts from an awkward fact:LLVM keeps two separate soft-float implementations of the same operations. Twocopies drift apart, each needs its own review and testing, and a bug fixed inone rarely reaches the other. compiler-rt’s versions are also older and lessrigorously verified than libc’s.
+
+This project gives compiler-rt one source of truth. LLVM-libc exposes itsroutines as freestanding headers under `LIBC_NAMESPACE::shared::`, and eachcompiler-rt builtin becomes a thin wrapper that forwards to the matching libcroutine. A single `.c` file such as `truncdfsf2.c` is swapped for a `truncdfsf2.cpp` that calls `shared::truncdfsf2`. The swap happens through aCMake macro, `use_libc_builtin()`, gated on `COMPILER_RT_USE_LIBC_MATH`, sodistributors who want the libc-backed path opt in and everyone else keeps theexisting behavior.
+
+![compiler-rt and LLVM-libc each carried their own soft-float routine; now compiler-rt’s builtin is a thin wrapper over the single shared libc routine](https://blog.llvm.org/img/gsoc26-sharing-libc-with-compiler-rt-01-duplication-to-shared.png)
+
+_Figure 1: Two soft-float implementations of the same operation become one shared LLVM-libc routine that compiler-rt forwards to._
+
+The result covers the arithmetic builtins (add, subtract, multiply, divide for `float`, `double`, and `float128`), float-to-integer and integer-to-floatconversions across the integer widths, float-to-float extend and truncateacross every format including x87 80-bit, half, and bfloat16, and the comparisonroutines. compiler-rt gets libc’s tested math, and LLVM stops maintaining theoperation twice.
+
+![At build time use_libc_builtin swaps the .c source for a .cpp wrapper; at the call site the wrapper forwards the builtin call into the shared libc header](https://blog.llvm.org/img/gsoc26-sharing-libc-with-compiler-rt-02-delegation-mechanism.png)
+
+_Figure 2: The build-time swap and the call path: `use_libc_builtin()` replaces `truncdfsf2.c` with a wrapper that forwards `__truncdfsf2` to `shared::truncdfsf2`._
+
+## Challenges
+
+**A routine that calls itself.** Some of LLVM-libc’s conversions are written asan ordinary cast from one floating-point type to another. That is fine when thehardware can do the conversion. On a target without an FPU, the compiler turnsthat same cast back into a call to the very builtin we are implementing, so theroutine calls itself and never finishes. The way out was to do the conversionthrough an internal, integer-only representation, so nothing the compiler seescan turn back into a floating-point builtin. A companion project, describedbelow, will let us drop even this workaround.
+
+![On the left, an ordinary cast turns back into the builtin and recurses forever; on the right, going through an integer-only representation breaks the loop](https://blog.llvm.org/img/gsoc26-sharing-libc-with-compiler-rt-03-self-call-loop.png)
+
+_Figure 3: An ordinary cast turns back into the builtin and loops forever (left); going through an integer-only representation breaks the loop (right)._
+
+**16-bit floats the target cannot name.** Half precision and bfloat16 are notreal types on every target, and even where they exist, naming one in a functionsignature quietly pulls in yet another conversion builtin. So these routinesnever take a 16-bit value directly. They receive the raw bits and rebuild thenumber from a description of the format, which lets the half and bfloat16conversions work even on targets that have no 16-bit float type at all.
+
+**The 80-bit x87 format.** Intel’s 80-bit extended `long double` does not followthe same layout rules as the standard IEEE formats the shared code expects, andit needs a 128-bit integer to hold its bit pattern, which does not exist on32-bit x86 where `long double` is still 80 bits. We handled it the waycompiler-rt already does: convert through a standard `double` or `float` at theedges, and compile these routines only where the 80-bit format actually exists.
+
+**Two libraries in one binary.** LLVM-libc’s routines carry their own symbolnames. Linked into compiler-rt next to the target’s real C library, those nameswould collide. We build the shared routines under a private namespace so nothingclashes, and keep the few legacy alias names that some platforms still expect.
+
+**Seventy builtins, one pattern.** Every builtin repeats the same shape in fourplaces: an LLVM-libc header, a compiler-rt wrapper, a build-system entry, and atest. Keeping seventy of them aligned by hand would invite mistakes, so a smallgenerator produces all four from a single description of each builtin. Onechange to the pattern updates every builtin at once.
+
+## What comes next
+
+The functional work is landing. The next phase is measuring and tuning it.
+
+**Benchmarking.** These routines run inside the compiled output of any programbuilt for an FPU-less target, so both their speed and their code size matter. Wewill compare each libc-backed builtin against compiler-rt’s original soft-floatversion across the targets that actually use them: soft-float Arm, x86 withoutSSE, and bare-metal embedded configurations. The comparison covers per-calllatency and the size each routine adds to a static binary. We will test it on [raspberry pi pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) since it uses Arm Cortex-M33 that doesn’t contain a [floating-point unit](https://en.wikipedia.org/wiki/Floating-point_unit) for double-precision so it will be a good choice for benchmarking and finding the tradeoffs.
+
+**Optimization.** The integer-only conversion path trades some hand-tuned bitmanipulation for a single shared implementation. Where a benchmark shows that costing more than compiler-rt’s original, we will tighten the hot paths, and we will watchcode size closely so the shared routines stay usable in size-constrained builds.
+
+**Emulated soft-float types.** Two efforts in LLVM-libc will replace theworkarounds behind the conversion builtins with something cleaner. A companionGSoC 2026 project by [Sukumar Sawant](https://github.com/sukumarsawant), [Emulated Float128 and Float80 in LLVM-libc](https://summerofcode.withgoogle.com/programs/2026/projects/r3Y64A3Y)(tracked in [#206895](https://github.com/llvm/llvm-project/issues/206895)), addsstruct-backed versions of the wide formats, and [software `float16`](https://github.com/llvm/llvm-project/pull/184283) does the same forhalf. Once a format has an emulated type, converting to it no longer turns backinto the builtin we are implementing, because the compiler has no native type toconvert with and uses the software path instead. The self-call problemdisappears at its source, the half conversions stop needing the raw-bits detour,and the code drops the integer-only workaround for a direct conversion.That is also where most of the optimization headroom lives: an emulated typecarries a proper representation the routines can specialize against, rather thanrebuilding the value from bits on every call.
+
+**Finishing the port.** The comparison stack and the integer, x87, half, andbfloat16 conversion stacks are in review. Once they merge, the remainingbuiltins follow the same generator-driven pattern.
+
+## Milestones
+
+PRTitleStatus[#197950](https://github.com/llvm/llvm-project/pull/197950)Introduce libc math routines into compiler-rt builtinsMerged[#200094](https://github.com/llvm/llvm-project/pull/200094)Introduce shared compiler-rt builtins in LLVM-libcMerged[#200196](https://github.com/llvm/llvm-project/pull/200196)Add precommit CI for the compiler-rt + libc integrationMerged[#200539](https://github.com/llvm/llvm-project/pull/200539)Document builtin compatibilityMerged[#205669–#205679](https://github.com/llvm/llvm-project/pull/205669)Shared add/sub/mul/div builtins for `sf`/ `df`/ `tf` (LLVM-libc, 11 PRs)Merged[#207092](https://github.com/llvm/llvm-project/pull/207092)Libc-backed arithmetic builtins (compiler-rt)Merged[#207543](https://github.com/llvm/llvm-project/pull/207543)Libc-backed float-to-int conversion builtinsMerged[#209900](https://github.com/llvm/llvm-project/pull/209900)Libc-backed int-to-float/double conversion builtinsMerged[#209984](https://github.com/llvm/llvm-project/pull/209984)Libc-backed float-to-float extend/truncate builtinsMerged[#213481](https://github.com/llvm/llvm-project/pull/213481)Filter libc-backed builtins superseded by assembly (CMake)Merged[#211881](https://github.com/llvm/llvm-project/pull/211881)Libc-backed bfloat16 extend/truncate builtinsOpen[#211882](https://github.com/llvm/llvm-project/pull/211882)Libc-backed float16 extend/truncate builtinsOpen[#212649](https://github.com/llvm/llvm-project/pull/212649)Add `cmp_helper` for soft-float comparisonsOpen[#212651](https://github.com/llvm/llvm-project/pull/212651)Libc-backed single-float comparison builtinsOpen[#212652](https://github.com/llvm/llvm-project/pull/212652)Libc-backed double-float comparison builtinsOpen[#212653](https://github.com/llvm/llvm-project/pull/212653)Libc-backed quad-float comparison builtinsOpen[#215725](https://github.com/llvm/llvm-project/pull/215725)Libc-backed int-to-quad conversion builtinsOpen[#215726](https://github.com/llvm/llvm-project/pull/215726)Add the missing int-float conversion testsOpen[#215727](https://github.com/llvm/llvm-project/pull/215727)Libc-backed quad-to-int conversion builtinsOpen[#215728](https://github.com/llvm/llvm-project/pull/215728)Libc-backed float80-to-int conversion builtinsOpen[#215729](https://github.com/llvm/llvm-project/pull/215729)Libc-backed float80/bfloat16/float16 conversion builtinsOpen[#183959](https://github.com/llvm/llvm-project/pull/183959)Build option to warn about unlisted builtinsOpen
+
+## Conclusion
+
+This summer I got to take a real piece of LLVM and remove a duplication that had been sitting in it for years. compiler-rt now backs its arithmetic and conversion builtins with LLVM-libc’s tested math, and the comparison and remaining conversion builtins are in review and close behind. Along the way I learned far more about floating-point corner cases than I expected: how a harmless-looking cast can end up calling itself forever, why a 16-bit float can simply not exist on a target, and how the 80-bit x87 format bends nearly every rule around it.
+
+There is still work ahead. The open pull requests need to land, and once the emulated soft-float types arrive, the conversions get simpler and the real benchmarking and optimization phase can begin. I am excited to keep pushing this forward with the community.
+
+## Acknowledgments
+
+Huge thanks to my mentors, [Tue Ly](https://github.com/lntue), [Michael Jones](https://github.com/michaelrj-google), and [Muhammad Bassiouni](https://github.com/bassiounix). Their reviews, patience, and design guidance shaped this work. Thank you as well to the LLVM-libc and compiler-rt reviewers for the careful feedback, and to the whole LLVM community for making room for a project like this. It has been a wonderful summer.</source:markdown>
+      <guid>cid://https://blog.llvm.org/posts/2026-08-24-gsoc-sharing-libc-with-compiler-rt/</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/117385303445858367</link>
+      <description>
+        <![CDATA[<p>Authentic Boston Fajitas for dinner</p>]]>
+      </description>
+      <source:markdown>Authentic Boston Fajitas for dinner</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/117385303445858367</guid>
+    </item>    <item>
+      <title>Episode 190 - Machine Room or DEATH TRAP!?</title>
+      <link>https://adventofcomputing.libsyn.com/episode-190-machine-room-or-death-trap</link>
+      <description>
+        <![CDATA[<p>Boo! Welcome to Spook Month 2026! I start off my scary coverage by looking at the dangers of the mainframe rooms of the 50s and 60s. We all know that running computers can be a drag. But can it be deadly? Answering that question takes me through government documents, maintenance manuals, and odd recollections of days gone by.</p> <p>Like Advent of Computing? Then check out the after show! Adjunct of Computing is now LIVE: <a href= "https://www.youtube.com/playlist?list=PLbDuNUQ4K7mxrRIEyg4zeD3ALP-6e6QRC" target="_blank" rel= "noopener noreferrer nofollow">YouTube</a> <a href= "https://open.spotify.com/show/72NQNuVcDq2AvNqcAd7A31" target= "_blank" rel= "noopener noreferrer nofollow">Spotify</a> <a href= "https://podcasts.apple.com/us/podcast/adjunct-of-computing/id1885420630" target="_blank" rel="noopener noreferrer nofollow"><u>Apple Podcasts</u></a></p> <p data-node-text-align="start">Join the conversation on the OFFICIAL discord server: <a href= "https://discord.com/invite/GpFNu3DTU2" target="_blank" rel= "noopener noreferrer nofollow" data-link-auto= "">https://discord.com/invite/GpFNu3DTU2</a></p>]]>
+      </description>
+      <source:markdown>Boo! Welcome to Spook Month 2026! I start off my scary coverage by looking at the dangers of the mainframe rooms of the 50s and 60s. We all know that running computers can be a drag. But can it be deadly? Answering that question takes me through government documents, maintenance manuals, and odd recollections of days gone by.
+
+Like Advent of Computing? Then check out the after show! Adjunct of Computing is now LIVE: [YouTube](https://www.youtube.com/playlist?list=PLbDuNUQ4K7mxrRIEyg4zeD3ALP-6e6QRC) [Spotify](https://open.spotify.com/show/72NQNuVcDq2AvNqcAd7A31) [Apple Podcasts](https://podcasts.apple.com/us/podcast/adjunct-of-computing/id1885420630)
+
+Join the conversation on the OFFICIAL discord server: [https://discord.com/invite/GpFNu3DTU2](https://discord.com/invite/GpFNu3DTU2)</source:markdown>
+      <enclosure url="https://traffic.libsyn.com/secure/adventofcomputing/ep190_death_trap.mp3?dest-id=1206722" length="28994666" type="audio/mpeg" />
+      <guid>cid://bbe23c70-af9d-414c-a8b6-afc2524c4298</guid>
+    </item>    <item>
+      <title>Monday 5 October, 2026</title>
+      <link>https://memex.naughtons.org/monday-5-october-2026/42791/</link>
+      <description>
+        <![CDATA[Acorn This fell on to the pavement in front of me the other day. Funny to think that from such a tiny, beautiful seed a mighty oak might grow. Quote of the Day ”Did you know that Mozart had no &#8230; <a href="https://memex.naughtons.org/monday-5-october-2026/42791/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>Acorn This fell on to the pavement in front of me the other day. Funny to think that from such a tiny, beautiful seed a mighty oak might grow. Quote of the Day ”Did you know that Mozart had no … [Continue reading →](https://memex.naughtons.org/monday-5-october-2026/42791/)</source:markdown>
+      <guid>cid://https://memex.naughtons.org/?p=42791</guid>
+      <category>Online version</category>
+    </item>    <item>
+      <title>The emergence of shareholder capitalism</title>
+      <link>https://robertreich.substack.com/p/the-emergence-of-shareholder-capitalism</link>
+      <description>
+        <![CDATA[Friends,]]>
+      </description>
+      <source:markdown>Friends,</source:markdown>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/VBh3WS6HzNE" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/the-emergence-of-shareholder-capitalism</guid>
+    </item>    <item>
+      <title>Power to the People</title>
+      <link>https://heathercoxrichardson.substack.com/p/power-to-the-people</link>
+      <description>
+        <![CDATA[To read this letter, click here:]]>
+      </description>
+      <source:markdown>To read this letter, click here:</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/218844341/4c92d664caa15193ad7318240e8bb5e9.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/power-to-the-people</guid>
+    </item>    <item>
+      <title>Caption contest: Hole</title>
+      <link>https://robertreich.substack.com/p/caption-contest-hole</link>
+      <description>
+        <![CDATA[And last week&#8217;s winner]]>
+      </description>
+      <source:markdown>And last week’s winner</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!xI7V!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5368dbb2-5711-4892-bafe-ed0785448a8e_2467x2274.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/caption-contest-hole</guid>
+    </item>    <item>
+      <title>This tool makes everyone a campaign finance expert</title>
+      <link>https://popular.info/p/this-tool-makes-everyone-a-campaign</link>
+      <description>
+        <![CDATA[Introducing PaidForBy.info, a new app created by Popular Information]]>
+      </description>
+      <source:markdown>Introducing PaidForBy.info, a new app created by Popular Information</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/a2e5b3cb-1069-4656-bd3b-cc70eba7964b_1200x630.png" length="0" type="image/jpeg" />
+      <guid>cid://https://popular.info/p/this-tool-makes-everyone-a-campaign</guid>
+    </item>    <item>
+      <title>“I’m Embarrassed on Behalf of the Tech Industry”</title>
+      <link>https://blog.jim-nielsen.com/2026/embarrassed-by-tech/</link>
+      <description>
+        <![CDATA[<p>That’s something Ben Thompson said a recent episode of <a href="https://dithering.passport.online/" >Dithering</a>. He was referring to how he felt while trying to help his mom get control of her digital life. Everything was just too hard and convoluted and he felt embarrassed as someone who works in tech.</p>
+        <p>That very same evening, I randomly got this text from a family member.</p>
+        <p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2026/embarassed.png" width="603" height="565" alt="Text message reading: “Dude. I hate the modern web. I hate. Website. S. Using websites. Trying to do things quickly and efficiently. What a buggy mess.”" />
+        
+        </p><p>I hear this a lot from family and friends who sit outside tech.</p>
+        <p>“Nothing works.”</p>
+        <p>“Everything is hard to use.”</p>
+        <p>“I can’t make sense of this.”</p>
+        <p>And to them I am a representative, a connection, to this pain in their lives.</p>
+        <p>And I, too, am embarrassed on behalf of the tech industry — by our collective failure.</p>
+        
+            <hr />
+            
+        
+            <p>
+              Reply via:
+              
+        
+              <a
+                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/embarrassed-by-tech/"
+                >Email</a
+              >
+              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
+        
+              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
+            </p>]]>
+      </description>
+      <source:markdown>That’s something Ben Thompson said a recent episode of [Dithering](https://dithering.passport.online/). He was referring to how he felt while trying to help his mom get control of her digital life. Everything was just too hard and convoluted and he felt embarrassed as someone who works in tech.
+
+That very same evening, I randomly got this text from a family member.
+
+![Text message reading: “Dude. I hate the modern web. I hate. Website. S. Using websites. Trying to do things quickly and efficiently. What a buggy mess.”](https://cdn.jim-nielsen.com/blog/2026/embarassed.png)
+
+I hear this a lot from family and friends who sit outside tech.
+
+“Nothing works.”
+
+“Everything is hard to use.”
+
+“I can’t make sense of this.”
+
+And to them I am a representative, a connection, to this pain in their lives.
+
+And I, too, am embarrassed on behalf of the tech industry — by our collective failure.
+
+* * *
+
+Reply via:
+
+
+[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/embarrassed-by-tech/)
+· [Mastodon](https://mastodon.social/@jimniels) ·
+
+[Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
+      <guid>cid://https://blog.jim-nielsen.com/2026/embarrassed-by-tech/</guid>
+    </item>    <item>
+      <title>Seeking God in Science part 12: A clean-sheet introduction to quantum mechanics and quantum field theory (part 1 of n)</title>
+      <link>https://blog.rongarret.info/2026/10/seeking-god-in-science-part-12-clean.html</link>
+      <description>
+        <![CDATA[For months now I have been writing the phrase "when we get to quantum mechanics..."&nbsp; Well, today we finally get to quantum mechanics (QM).&nbsp; QM is a big topic.&nbsp; I will not be able to cover it all, or even put a significant dent in it, in one blog post.&nbsp; The goal of this post is just to give you an overview of the lay of the land, a clean-sheet introduction to the topic for]]>
+      </description>
+      <source:markdown>For months now I have been writing the phrase &#34;when we get to quantum mechanics...&#34;  Well, today we finally get to quantum mechanics (QM).  QM is a big topic.  I will not be able to cover it all, or even put a significant dent in it, in one blog post.  The goal of this post is just to give you an overview of the lay of the land, a clean-sheet introduction to the topic for</source:markdown>
+      <author>noreply@blogger.com (Ron)</author>
+      <guid>cid://tag:blogger.com,1999:blog-5592542.post-475722407484489192</guid>
+    </item>    <item>
+      <title>On Rape</title>
+      <link>https://dbarkhuff.substack.com/p/on-rape</link>
+      <description>
+        <![CDATA[I&#8217;ve always been beyond a little bit skeptical when it comes to campus fraternities.]]>
+      </description>
+      <source:markdown>I’ve always been beyond a little bit skeptical when it comes to campus fraternities.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!jTMY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe64f03b-4ba4-4e38-bf84-3e391510f437_1168x552.png" length="0" type="image/jpeg" />
+      <guid>cid://https://dbarkhuff.substack.com/p/on-rape</guid>
+    </item>    <item>
+      <title>Our Wins Of The Week</title>
+      <link>https://thinkbigpicture.substack.com/p/week-progressive-wins-october-4</link>
+      <description>
+        <![CDATA[Donald Trump went on the road this week to stump for Republican candidates a month out from Election Day.]]>
+      </description>
+      <source:markdown>Donald Trump went on the road this week to stump for Republican candidates a month out from Election Day.</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/161daefe-4679-4ac8-8c48-90ca90aaef5f_820x428.png" length="0" type="image/jpeg" />
+      <guid>cid://https://thinkbigpicture.substack.com/p/week-progressive-wins-october-4</guid>
+    </item>    <item>
+      <title>Sunday session</title>
+      <link>https://adactio.com/notes/22786</link>
+      <description>
+        <![CDATA[<img src="https://adactio.com/images/uploaded/22786/small.jpg" srcset="https://adactio.com/images/uploaded/22786/medium.jpg 1.5x, https://adactio.com/images/uploaded/22786/large.jpg 2.5x" alt="Sunday session" />
+        <p>Sunday session</p>]]>
+      </description>
+      <source:markdown>![Sunday session](https://adactio.com/images/uploaded/22786/small.jpg)
+
+Sunday session</source:markdown>
+      <guid>cid://https://adactio.com/notes/22786</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/10/04.html#a160439</link>
+      <description>
+        <![CDATA[Claude's biggest most amazing strength is its ability to inhale a lot of source code and understand what's going on, any language, any OS, anything, in an instant.]]>
+      </description>
+      <source:markdown>Claude&#39;s biggest most amazing strength is its ability to inhale a lot of source code and understand what&#39;s going on, any language, any OS, anything, in an instant.</source:markdown>
+      <guid>cid://http://scripting.com/2026/10/04.html#a160439</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3mx2qh5bkos2n</link>
+      <description>
+        <![CDATA[True
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <source:markdown>True
+
+\[contains quote post or other embedded content\]</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3mx2qh5bkos2n</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3mx2q7citoc2n</link>
+      <description>
+        <![CDATA[This is cool https://pointinthecloud.com/2026-08-19-144600.html]]>
+      </description>
+      <source:markdown>This is cool https://pointinthecloud.com/2026-08-19-144600.html</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3mx2q7citoc2n</guid>
+    </item>    <item>
+      <title>With A Month To Go Dems Are Expanding The Battlefield And Trump Is Becoming More Wild And Desperate</title>
+      <link>https://www.hopiumchronicles.com/p/with-a-month-to-go-dems-are-expanding</link>
+      <description>
+        <![CDATA[Stuart Stevens joins us tomorrow at 230pm ET, Sarah Trone Garriott (IA-3) Tuesday at 115pm]]>
+      </description>
+      <source:markdown>Stuart Stevens joins us tomorrow at 230pm ET, Sarah Trone Garriott (IA-3) Tuesday at 115pm</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!-4wQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6709cb97-46f2-4d78-999a-0815b483d665_640x480.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/with-a-month-to-go-dems-are-expanding</guid>
+    </item>    <item>
+      <title>Polls and &#34;fundamentals&#34; basically agree about the blue wave</title>
+      <link>https://www.gelliottmorris.com/p/2026-10-04-sunday-roundup-polls-fundamentals-senate-blue</link>
+      <description>
+        <![CDATA[When you look at state-level election results, fundraising, and the national environment, surprising state polls actually make a lot of sense. Your weekly political data roundup for October 4, 2026.]]>
+      </description>
+      <source:markdown>When you look at state-level election results, fundraising, and the national environment, surprising state polls actually make a lot of sense. Your weekly political data roundup for October 4, 2026.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!zBM-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F958e551c-65ea-473c-9088-f6a634aecad1_2250x1560.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/2026-10-04-sunday-roundup-polls-fundamentals-senate-blue</guid>
+    </item>    <item>
+      <title>Guest Newsletter: Five Books - Baldwin and Battles</title>
+      <link>https://thebrowser.com/free/guest-newsletter-five-books-106/</link>
+      <description>
+        <![CDATA[Five Books features in-depth author interviews recommending five books on a theme]]>
+      </description>
+      <source:markdown>Five Books features in-depth author interviews recommending five books on a theme</source:markdown>
+      <guid>cid://6abfd378d1322d0001109748</guid>
+    </item>    <item>
+      <title>The climate will kill you</title>
+      <link>http://scripting.com/2026/10/04/135421.html?title=theClimateWillKillYou</link>
+      <description>
+        <![CDATA[<p>Great scene from The West Wing.</p>
+        <p><a href="https://en.wikipedia.org/wiki/C._J._Cregg">CJ</a> and <a href="https://en.wikipedia.org/wiki/Josh_Lyman">Josh</a>, on the street outside the White House.</p>
+        <p>The president was hiding serious <a href="https://westwing.fandom.com/wiki/MS_scandal">disease</a>, and it’s about to come out. Back in those days such a revelation meant the president has no chance of being re-elected. </p>
+        <p>Anyway, the kid has an idea and starts explaining, and as he does CJ laughs. The kid asks what’s so funny. </p>
+        <p>She tells him about a <a href="https://youtu.be/2sdlUad38xU">scene</a> in <a href="https://en.wikipedia.org/wiki/Butch_Cassidy_and_the_Sundance_Kid">Butch Cassidy and the Sundance Kid</a> starring Paul Newman as Butch and Robert Redford as the kid.</p>
+        <p>They’re cornered, on a cliff, preparing to jump into a river far below. Redford says he can’t swim. Newman says it doesn’t matter, the fall is going to kill you.</p>
+        <p>Okay so why mention this now?</p>
+        <p>I hear there’s a monster <a href="https://www.ktvu.com/news/bay-area-weather-sizzling-hot-weather-ahead-temps-could-reach-100-degrees">heat wave</a> in California. Over 90F every day for two weeks. That’s unusual for October IIRC.</p>
+        <p>We’re all fretting about AI killing us.</p>
+        <p>Imagine CJ laughing. Haha she says, so you’re worried about AI are ya? It’s the climate that’s going to kill you.</p>
+        <p>Josh would correct her. “Us. It’s going to kill us.”</p>
+        <p>CJ tells him to go away she needs to be an adult right now.</p>]]>
+      </description>
+      <source:markdown>Great scene from The West Wing.
+
+[CJ](https://en.wikipedia.org/wiki/C._J._Cregg) and [Josh](https://en.wikipedia.org/wiki/Josh_Lyman), on the street outside the White House.
+
+The president was hiding serious [disease](https://westwing.fandom.com/wiki/MS_scandal), and it’s about to come out. Back in those days such a revelation meant the president has no chance of being re-elected.
+
+Anyway, the kid has an idea and starts explaining, and as he does CJ laughs. The kid asks what’s so funny.
+
+She tells him about a [scene](https://youtu.be/2sdlUad38xU) in [Butch Cassidy and the Sundance Kid](https://en.wikipedia.org/wiki/Butch_Cassidy_and_the_Sundance_Kid) starring Paul Newman as Butch and Robert Redford as the kid.
+
+They’re cornered, on a cliff, preparing to jump into a river far below. Redford says he can’t swim. Newman says it doesn’t matter, the fall is going to kill you.
+
+Okay so why mention this now?
+
+I hear there’s a monster [heat wave](https://www.ktvu.com/news/bay-area-weather-sizzling-hot-weather-ahead-temps-could-reach-100-degrees) in California. Over 90F every day for two weeks. That’s unusual for October IIRC.
+
+We’re all fretting about AI killing us.
+
+Imagine CJ laughing. Haha she says, so you’re worried about AI are ya? It’s the climate that’s going to kill you.
+
+Josh would correct her. “Us. It’s going to kill us.”
+
+CJ tells him to go away she needs to be an adult right now.</source:markdown>
+      <guid>cid://http://scripting.com/2026/10/04/135421.html</guid>
+    </item>    <item>
+      <link>http://scripting.com/2026/10/04.html#a135130</link>
+      <description>
+        <![CDATA[BTW now that I have Frontier back and am using it for most of my work, I'm having a lot more fun writing my blog. Can you tell??]]>
+      </description>
+      <source:markdown>BTW now that I have Frontier back and am using it for most of my work, I&#39;m having a lot more fun writing my blog. Can you tell??</source:markdown>
+      <guid>cid://http://scripting.com/2026/10/04.html#a135130</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/117382920266360739</link>
+      <description>
+        <![CDATA[<p>When you are a musician, every day is Xmas!</p><p><a href="https://1amageek.github.io/MusicPlaygournd/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">1amageek.github.io/MusicPlaygo</span><span class="invisible">urnd/</span></a></p>]]>
+      </description>
+      <source:markdown>When you are a musician, every day is Xmas!
+
+[https://1amageek.github.io/MusicPlaygournd/](https://1amageek.github.io/MusicPlaygournd/)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/117382920266360739</guid>
+    </item>    <item>
+      <title>Twitter as a blog platform</title>
+      <link>http://scripting.com/2026/10/04/133947.html?title=twitterAsABlogPlatform</link>
+      <description>
+        <![CDATA[<p>Twitter with its relaxed character limit is getting pretty close to being a blogging platform. I wrote the <a href="https://x.com/davewiner/status/2106714885593677926">first draft</a> of this post on my iPad, that's how useful it is.</p>
+        <p>Imagine if a real blog platform created a super simple way to write posts, no need for Gutenberg, just Markdown and that would be optional. Default would be a normal wizzy text editor, bold, italic, using a standard user interface. </p>
+        <p>Add web links and a reply structure, open source, nice API and developer program to shine the light on the cool editors independent devs were creating, and all of a sudden a bunch of new blog platforms emerge, and get this — they all work perfectly with each other because of the common foundation and API. The web of social media. It would be exciting and would pressure the other social media apps to peer with this truly open system.</p>
+        <p>It would change the freaking world I tell you. And it would be so wonderful with AI. No need for the cheesy chat UI. A real revolution. Undo all the craptastic silos that strangled the web? </p>
+        <p>It would be pretty damn easy imho, fwiw, ymmv, mmlm. </p>
+        <p>PS: MMLM is an acronym for My Mother Loves Me. Anticipates flameage. Okay you don't like me, but <i>my mother loves me. </i></p>]]>
+      </description>
+      <source:markdown>Twitter with its relaxed character limit is getting pretty close to being a blogging platform. I wrote the [first draft](https://x.com/davewiner/status/2106714885593677926) of this post on my iPad, that&#39;s how useful it is.
+
+Imagine if a real blog platform created a super simple way to write posts, no need for Gutenberg, just Markdown and that would be optional. Default would be a normal wizzy text editor, bold, italic, using a standard user interface.
+
+Add web links and a reply structure, open source, nice API and developer program to shine the light on the cool editors independent devs were creating, and all of a sudden a bunch of new blog platforms emerge, and get this — they all work perfectly with each other because of the common foundation and API. The web of social media. It would be exciting and would pressure the other social media apps to peer with this truly open system.
+
+It would change the freaking world I tell you. And it would be so wonderful with AI. No need for the cheesy chat UI. A real revolution. Undo all the craptastic silos that strangled the web?
+
+It would be pretty damn easy imho, fwiw, ymmv, mmlm.
+
+PS: MMLM is an acronym for My Mother Loves Me. Anticipates flameage. Okay you don&#39;t like me, but _my mother loves me._</source:markdown>
+      <guid>cid://http://scripting.com/2026/10/04/133947.html</guid>
     </item>    <item>
       <title>2026-09-27 Still loving the MNT Pocket Reform</title>
       <link>https://alexschroeder.ch/view/2026-09-27-pocket-reform</link>
@@ -213,6 +1062,37 @@ As always, you can get everything from our site and GitHub:
       <source:markdown>Why are interest rates surging?</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!YND9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38e64cb8-2833-44b4-a9a1-45ccc435402e_800x450.png" length="0" type="image/jpeg" />
       <guid>cid://https://paulkrugman.substack.com/p/who-dropped-the-bonds-interest-rates</guid>
+    </item>    <item>
+      <title>We Are the Medicine: Recommendations on the Ever Growing List of Latinx Literature</title>
+      <link>https://lithub.com/we-are-the-medicine-recommendations-on-the-ever-growing-list-of-latinx-literature/</link>
+      <description>
+        <![CDATA[I’m starting this draft on the Fourth of July, 2026 in the Northern California redwoods. The phrase “250 Years of Independence” inundates my social media feed, though most people posting the phrase chide the intended meaning, highlighting the contradictions of]]>
+      </description>
+      <source:markdown>I’m starting this draft on the Fourth of July, 2026 in the Northern California redwoods. The phrase “250 Years of Independence” inundates my social media feed, though most people posting the phrase chide the intended meaning, highlighting the contradictions of</source:markdown>
+      <guid>cid://https://lithub.com/?p=277721</guid>
+      <category>Craft and Criticism</category>
+      <category>Features</category>
+      <category>Literary Criticism</category>
+      <category>Reading Lists</category>
+      <category>...and the earth did not devour him</category>
+      <category>Algonquin</category>
+      <category>Almanac of the Dead</category>
+      <category>Ana Castillo</category>
+      <category>Cherrie Moraga</category>
+      <category>Chipped</category>
+      <category>Hachette</category>
+      <category>Inter State</category>
+      <category>José Vadi</category>
+      <category>Leslie Marmon Silko</category>
+      <category>Loving in the War Years</category>
+      <category>Michael Nava</category>
+      <category>Ron Arias</category>
+      <category>The Death of Friends</category>
+      <category>The King of Aloe Vera</category>
+      <category>The Mixquiahuala Letters</category>
+      <category>The Road to Tamazunchale</category>
+      <category>Tomas Moniz</category>
+      <category>Tomás Rivera</category>
     </item>    <item>
       <title>Sunday thought: What’s Up With Kansas?</title>
       <link>https://robertreich.substack.com/p/sunday-thought-whats-the-matter-with</link>
@@ -757,6 +1637,14 @@ images, which is not possible with Jev
       <source:markdown>checking out jrnl. Kinda neat! [https://jrnl.sh](https://jrnl.sh)</source:markdown>
       <guid>cid://https://tilde.zone/@tomasino/117380504802016295</guid>
     </item>    <item>
+      <title>Dragoncatcher: Ask for: a variable font explorer</title>
+      <link>https://www.robinsloan.com/lab/ask-variable-font-test/</link>
+      <description>
+        <![CDATA[<p>From the annals of asking for what you want. <a href="https://www.robinsloan.com/lab/ask-variable-font-test/">Read here.</a></p>]]>
+      </description>
+      <source:markdown>From the annals of asking for what you want. [Read here.](https://www.robinsloan.com/lab/ask-variable-font-test/)</source:markdown>
+      <guid>cid://https://www.robinsloan.com/lab/ask-variable-font-test/</guid>
+    </item>    <item>
       <title>A Seismic Political Change</title>
       <link>https://heathercoxrichardson.substack.com/p/a-seismic-political-change</link>
       <description>
@@ -1087,7 +1975,8 @@ Mmm... I can&#39;t quite get away from the feeling that it&#39;s quite a good wa
         </p>
         <p>
         So how’s that for whataboutism? If you see a flaw in this argument, or
-        think it’s wrong headed, please drop me a line?
+        think it’s wrong headed, please drop me a line? For what it is worth, I
+        can’t shake the feeling that this is in fact the language of addiction.
         </p>]]>
       </description>
       <source:markdown>The computing industry is extremely resource intensive. In terms of
@@ -1174,7 +2063,8 @@ technology already is, and already was, before we started prompting LLMs
 instead of searching Google to find the answer to a coding problem.
 
 So how’s that for whataboutism? If you see a flaw in this argument, or
-think it’s wrong headed, please drop me a line?</source:markdown>
+think it’s wrong headed, please drop me a line? For what it is worth, I
+can’t shake the feeling that this is in fact the language of addiction.</source:markdown>
       <guid>cid://https://inkdroid.org/2026/10/03/d14n/</guid>
       <category>architecture</category>
       <category>computing</category>
@@ -6010,6 +6900,94 @@ Here’s to the next twenty five.</source:markdown>
       <source:markdown>We need to have a big day peeps. Decisions on ads, where to put final resources will be made based on the q3 fundraising totals for candidates and committees. Let’s be Hopium strong for them today!</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!wScV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47deac84-6774-4878-be3c-9ded47be1da6_958x964.png" length="0" type="image/jpeg" />
       <guid>cid://https://www.hopiumchronicles.com/p/its-the-last-day-of-the-quarter-lets</guid>
+    </item>    <item>
+      <title>This Month in CoMaps: September 2026</title>
+      <link>https://www.comaps.app/news/2026-09-30/this-month-in-comaps-september-2026/</link>
+      <description>
+        <![CDATA[<p>Welcome to the inaugural edition of <em>This Month in CoMaps</em>! This is the first of a series of posts which will do as the title suggests: recap everything that has happened throughout the project over the past month.</p>
+        <p>At the end of August we released <a rel="noopener external" target="_blank" href="https://www.comaps.app/news/2026-08-31/Release-2026.08.31-release-notes/">CoMaps v2026.08.31-14</a>, featuring a brand new transportation modes UI for iOS, and the inclusion of reviews from <a rel="noopener external" target="_blank" href="https://mangrove.reviews/">Mangrove</a> on Android, amongst many other improvements. Feedback for the modes UI from users has been largely positive, with notable issues relating to the <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/comaps/pulls/5180">discoverability of the options and accessibility</a> fixed for the next release.</p>
+        <p>This month has seen substantial progress in formalising our governance structures, and while many contributors have been focusing their time mostly on this, there also has been steady work on new features too.</p>
+        <h2 id="feature-progress">Feature progress</h2>
+        <p>Since releasing the Mangrove reviews feature on Android, we've seen an additional ~1,000 reviews be made over the past month, which is 20% of the total number of reviews! <a rel="noopener external" target="_blank" href="https://codeberg.org/mmakowski">@mmakowski</a> has been working on further refining the feature by showing reviews in search results, and adding a handy link to MapComplete to submit new ones. We hope this encourages even more users to add Mangrove reviews and help populate the dataset!</p>
+        <figure>
+        <img src="02-mangrove.png" class="max-w-50">
+        <figcaption><small>Left: Review summary in search results; right: link to add a review via MapComplete in reviews page</small></figcaption>
+        </figure>
+        <p><a rel="noopener external" target="_blank" href="https://codeberg.org/hackintosh5">@hackintosh5</a> has been making substantial improvements to CoMaps for non-visual use. In case you missed it, it has been possible navigate points of interest on the map on Android using TalkBack since v2026.08.31-14, allowing users with visual impairments to "feel" their way around the map. They have also been working this month on porting this over to iOS, so VoiceOver users can benefit too. All this means CoMaps on Android (and soon, iOS) will be comparable to Apple Maps in terms of accessibility as a fully FLOSS alternative!</p>
+        <figure>
+        <video controls  class="max-w-50">
+            <source src="03-talkback.webm">
+        </video>
+        <figcaption><small>Demonstration of TalkBack navigation on the map itself</small></figcaption>
+        </figure>
+        <p>Attendees of this year's State of the Map may already be aware that <a rel="noopener external" target="_blank" href="https://codeberg.org/zyphlar">@zyphlar</a> has been working hard on <em>indoor mapping</em> support in CoMaps. This has involved some major work on our rendering engine, but it means previously hard to read areas like train stations and shopping centres become a whole lot clearer. On a similar vein to Mangrove reviews, we hope that by supporting indoor maps, users are more motivated to map out indoor areas and contribute them back to OpenStreetMap!</p>
+        <figure>
+        <img src="04-indoor.png" class="max-w-50">
+        <figcaption><small>An indoor map of a building at Université Gustave Eiffel</small></figcaption>
+        </figure>
+        <h2 id="governance-updates">Governance updates</h2>
+        <p>Following the recent <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/Governance/issues/166">poll on an umbrella host</a>, the founding members of CoMaps have applied for membership with the Software Freedom Conservancy (SFC) on behalf of the project. We are happy to share that our application has been accepted, and that initial negotiations are underway! There is still a way to go before CoMaps is formally established under the SFC, but we are one step closer to achieving one of the <a rel="noopener external" target="_blank" href="https://www.comaps.app/news/2026-01-09/comaps-in-2026-planning-for-the-future/">goals we set out at the start of the year</a>.</p>
+        <p>There has additionally been progress in establishing a formal constitution for CoMaps, with a draft constitution having been deliberated amongst existing contributors and now <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/Governance/pulls/175">submitted in a pull request</a>. To summarise it in a sentence, it aims to actualize our <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/Governance#core-principles">core principles</a> of a community-driven project, with key authority being derived from community members, and a legal and financial backstop in the form of the SFC. You can read the full draft text and more about its motivations in the pull request.</p>
+        <h2 id="community-news">Community news</h2>
+        <p>In case you happened to miss all the noise about OpenStreetMap's State of the Map, a few contributors represented CoMaps at this year's edition. You can read more about it in Bastian and Diego's post <a rel="noopener external" target="_blank" href="https://www.comaps.app/news/2026-09-14/comaps-at-state-of-the-map-2026/"><em>CoMaps at State of the Map 2026</em></a>.</p>
+        <figure>
+        <img src="05-comaps-at-sotm.png" class="max-w-50">
+        <figcaption><small>CoMaps contributors Bastian and Diego presenting at State of the Map 2026. A recording of this talk is <a rel="noopener external" target="_blank" href="https://peertube.openstreetmap.fr/w/9DGz6jXc2wG93XohZweE8M">available online</a>.</small></figcaption>
+        </figure>
+        <h2 id="new-contributors">New contributors</h2>
+        <p>⭐ <a rel="noopener external" target="_blank" href="https://codeberg.org/philt3r">@philt3r</a> made their first contribution in <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/comaps/pulls/5149">#5149</a><br />
+        ⭐ <a rel="noopener external" target="_blank" href="https://codeberg.org/kevintcoughlin">@kevintcoughlin</a> made their first contribution in <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/comaps/pulls/5309">#5309</a><br />
+        ⭐ <a rel="noopener external" target="_blank" href="https://codeberg.org/erik-mansson">@erik-mansson</a> made their first contribution in <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/comaps/pulls/5307">#5307</a></p>
+        <hr />
+        <p>Thank you for reading this edition of <em>This Month in CoMaps</em>! Consider <a rel="noopener external" target="_blank" href="https://www.comaps.app/rss.xml">subscribing to our RSS feed</a> to stay updated with our latest news.</p>
+        <p>If you enjoy using CoMaps, also consider <a rel="noopener external" target="_blank" href="https://www.comaps.app/donate/">donating</a> or <a rel="noopener external" target="_blank" href="https://www.comaps.app/community/">getting involved with the community</a>.</p>]]>
+      </description>
+      <source:markdown>Welcome to the inaugural edition of _This Month in CoMaps_! This is the first of a series of posts which will do as the title suggests: recap everything that has happened throughout the project over the past month.
+
+At the end of August we released [CoMaps v2026.08.31-14](https://www.comaps.app/news/2026-08-31/Release-2026.08.31-release-notes/), featuring a brand new transportation modes UI for iOS, and the inclusion of reviews from [Mangrove](https://mangrove.reviews/) on Android, amongst many other improvements. Feedback for the modes UI from users has been largely positive, with notable issues relating to the [discoverability of the options and accessibility](https://codeberg.org/comaps/comaps/pulls/5180) fixed for the next release.
+
+This month has seen substantial progress in formalising our governance structures, and while many contributors have been focusing their time mostly on this, there also has been steady work on new features too.
+
+## Feature progress
+
+Since releasing the Mangrove reviews feature on Android, we&#39;ve seen an additional ~1,000 reviews be made over the past month, which is 20% of the total number of reviews! [@mmakowski](https://codeberg.org/mmakowski) has been working on further refining the feature by showing reviews in search results, and adding a handy link to MapComplete to submit new ones. We hope this encourages even more users to add Mangrove reviews and help populate the dataset!
+
+![](02-mangrove.png)Left: Review summary in search results; right: link to add a review via MapComplete in reviews page
+
+[@hackintosh5](https://codeberg.org/hackintosh5) has been making substantial improvements to CoMaps for non-visual use. In case you missed it, it has been possible navigate points of interest on the map on Android using TalkBack since v2026.08.31-14, allowing users with visual impairments to &#34;feel&#34; their way around the map. They have also been working this month on porting this over to iOS, so VoiceOver users can benefit too. All this means CoMaps on Android (and soon, iOS) will be comparable to Apple Maps in terms of accessibility as a fully FLOSS alternative!
+
+Demonstration of TalkBack navigation on the map itself
+
+Attendees of this year&#39;s State of the Map may already be aware that [@zyphlar](https://codeberg.org/zyphlar) has been working hard on _indoor mapping_ support in CoMaps. This has involved some major work on our rendering engine, but it means previously hard to read areas like train stations and shopping centres become a whole lot clearer. On a similar vein to Mangrove reviews, we hope that by supporting indoor maps, users are more motivated to map out indoor areas and contribute them back to OpenStreetMap!
+
+![](04-indoor.png)An indoor map of a building at Université Gustave Eiffel
+
+## Governance updates
+
+Following the recent [poll on an umbrella host](https://codeberg.org/comaps/Governance/issues/166), the founding members of CoMaps have applied for membership with the Software Freedom Conservancy (SFC) on behalf of the project. We are happy to share that our application has been accepted, and that initial negotiations are underway! There is still a way to go before CoMaps is formally established under the SFC, but we are one step closer to achieving one of the [goals we set out at the start of the year](https://www.comaps.app/news/2026-01-09/comaps-in-2026-planning-for-the-future/).
+
+There has additionally been progress in establishing a formal constitution for CoMaps, with a draft constitution having been deliberated amongst existing contributors and now [submitted in a pull request](https://codeberg.org/comaps/Governance/pulls/175). To summarise it in a sentence, it aims to actualize our [core principles](https://codeberg.org/comaps/Governance#core-principles) of a community-driven project, with key authority being derived from community members, and a legal and financial backstop in the form of the SFC. You can read the full draft text and more about its motivations in the pull request.
+
+## Community news
+
+In case you happened to miss all the noise about OpenStreetMap&#39;s State of the Map, a few contributors represented CoMaps at this year&#39;s edition. You can read more about it in Bastian and Diego&#39;s post [_CoMaps at State of the Map 2026_](https://www.comaps.app/news/2026-09-14/comaps-at-state-of-the-map-2026/).
+
+![](05-comaps-at-sotm.png)CoMaps contributors Bastian and Diego presenting at State of the Map 2026. A recording of this talk is [available online](https://peertube.openstreetmap.fr/w/9DGz6jXc2wG93XohZweE8M).
+
+## New contributors
+
+⭐ [@philt3r](https://codeberg.org/philt3r) made their first contribution in [#5149](https://codeberg.org/comaps/comaps/pulls/5149)
+
+⭐ [@kevintcoughlin](https://codeberg.org/kevintcoughlin) made their first contribution in [#5309](https://codeberg.org/comaps/comaps/pulls/5309)
+
+⭐ [@erik-mansson](https://codeberg.org/erik-mansson) made their first contribution in [#5307](https://codeberg.org/comaps/comaps/pulls/5307)
+
+* * *
+
+Thank you for reading this edition of _This Month in CoMaps_! Consider [subscribing to our RSS feed](https://www.comaps.app/rss.xml) to stay updated with our latest news.
+
+If you enjoy using CoMaps, also consider [donating](https://www.comaps.app/donate/) or [getting involved with the community](https://www.comaps.app/community/).</source:markdown>
+      <guid>cid://https://www.comaps.app/news/2026-09-30/this-month-in-comaps-september-2026/</guid>
     </item>    <item>
       <title>I Want Better Reporting on AI Genie Behavior</title>
       <link>https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html</link>
@@ -11511,12 +12489,12 @@ Tomorrow we’re going back.
       <enclosure url="https://api.substack.com/feed/podcast/217169615/3bbf306df9792ea7b047bbc53cef5697.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://www.gelliottmorris.com/p/2026-09-24-podcast-episode-democrats-blue-wave-midterms</guid>
     </item>    <item>
-      <title>Garden on the Wall Earns Platinum Calm Tech Certification for Modular Indoor Greenery</title>
+      <title>Garden on the Wall® Earns Platinum Calm Tech Certification for Modular Indoor Greenery</title>
       <link>https://www.calmtech.institute/post/garden-on-the-wall-earns-platinum-calm-tech-certification-for-modular-indoor-greenery</link>
       <description>
-        <![CDATA[People spend roughly 90 percent of their time indoors. Most of that time is spent in spaces designed around efficiency, code compliance, and cost per square foot. Whether those spaces support the people inside them has historically been a secondary concern. Garden on the Wall® is a no-maintenance plant art system crafted with all-natural preserved moss and plant species, allowing buildings like airports and hospitals to bring nature inside. With so much of built life a non-place, greenery on...]]>
+        <![CDATA[People spend roughly 90 percent of their time indoors. Most of that time is spent in spaces designed around efficiency, code compliance, and cost per square foot. Whether those spaces support the people inside them has historically been a secondary concern. Garden on the Wall® is a no-maintenance plant art system crafted with all-natural preserved moss and plant species, allowing buildings like workplaces, healthcare environments,  airports and hospitals to bring nature inside. With so much...]]>
       </description>
-      <source:markdown>People spend roughly 90 percent of their time indoors. Most of that time is spent in spaces designed around efficiency, code compliance, and cost per square foot. Whether those spaces support the people inside them has historically been a secondary concern. Garden on the Wall® is a no-maintenance plant art system crafted with all-natural preserved moss and plant species, allowing buildings like airports and hospitals to bring nature inside. With so much of built life a non-place, greenery on...</source:markdown>
+      <source:markdown>People spend roughly 90 percent of their time indoors. Most of that time is spent in spaces designed around efficiency, code compliance, and cost per square foot. Whether those spaces support the people inside them has historically been a secondary concern. Garden on the Wall® is a no-maintenance plant art system crafted with all-natural preserved moss and plant species, allowing buildings like workplaces, healthcare environments, airports and hospitals to bring nature inside. With so much...</source:markdown>
       <enclosure url="https://static.wixstatic.com/media/4c414f_e18a2e657b504e34bf4c773522f9fda4~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png" length="0" type="image/png" />
       <guid>cid://6aa0ce466e4f334c1f529156</guid>
       <category>Blog</category>
@@ -27196,1053 +28174,6 @@ Their feedback helped preserve compatibility with existing API Notes while exten
       </description>
       <source:markdown>Why we need richer, thicker interfaces and better boundary objects for collaborative planning with agents</source:markdown>
       <guid>cid://https://maggieappleton.com/planning-agents</guid>
-    </item>    <item>
-      <title>Usagi Electric and the LGP-21 Restoration</title>
-      <link>https://adventofcomputing.libsyn.com/usagi-electric-and-the-lgp-21-restoration</link>
-      <description>
-        <![CDATA[<p>Who can't resist Librascope hardware? Well, me, for one. And David from Usagi Electric is in the same boat. In this episode we sit down to talk about his LGP-21, how he got it, how he got it working, and what the machine can do!</p> <p>Subscribe to Usagi Electric to see the full project: <a href= "https://www.youtube.com/@UsagiElectric">https://www.youtube.com/@UsagiElectric</a></p>]]>
-      </description>
-      <source:markdown>Who can&#39;t resist Librascope hardware? Well, me, for one. And David from Usagi Electric is in the same boat. In this episode we sit down to talk about his LGP-21, how he got it, how he got it working, and what the machine can do!
-
-Subscribe to Usagi Electric to see the full project: [https://www.youtube.com/@UsagiElectric](https://www.youtube.com/@UsagiElectric)</source:markdown>
-      <enclosure url="https://traffic.libsyn.com/secure/adventofcomputing/lgp21_interview.mp3?dest-id=1206722" length="61000538" type="audio/mpeg" />
-      <guid>cid://1c9c41de-65af-4738-997b-13da36c489db</guid>
-    </item>    <item>
-      <title>Monday 14 September, 2026</title>
-      <link>https://memex.naughtons.org/monday-14-september-2026/42698/</link>
-      <description>
-        <![CDATA[Modernists I love the paintings of Edward Hopper. One of my favourite works of his is Nighthawks, which shows three customers at an all-night diner sitting at the counter opposite a server, each appearing to be lost in thought and &#8230; <a href="https://memex.naughtons.org/monday-14-september-2026/42698/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <source:markdown>Modernists I love the paintings of Edward Hopper. One of my favourite works of his is Nighthawks, which shows three customers at an all-night diner sitting at the counter opposite a server, each appearing to be lost in thought and … [Continue reading →](https://memex.naughtons.org/monday-14-september-2026/42698/)</source:markdown>
-      <guid>cid://https://memex.naughtons.org/?p=42698</guid>
-      <category>Online version</category>
-    </item>    <item>
-      <title>2026-09-14 Tomorrow we&#39;re leaving for a short trip</title>
-      <link>https://alexschroeder.ch/view/2026-09-13-tomorrow</link>
-      <description>
-        <![CDATA[<h1 id="2026-09-14-tomorrow-we-re-leaving-for-a-short-trip">2026-09-14 Tomorrow we&rsquo;re leaving for a short trip</h1>
-        
-        <p>I think I finished rewriting <a href="oddmu">Oddμ</a>. Just in time! 😅 This is the software that I use for a bunch of sites including this one. It now uses a SQLite database for a lot of stuff. Most importantly, it uses the full-text search that SQLite offers instead of grepping through the Markdown files. There&rsquo;s now a branch that passes the tests, at least. 😂 But it&rsquo;s a start!</p>
-        
-        <p>And since it&rsquo;s 0:30 and we&rsquo;re leaving for Slovenia tomorrow (today?), it&rsquo;s time for bed and I&rsquo;m not going to test for any more bugs. The branch isn&rsquo;t merged, yet, so there&rsquo;s time for things to settle (not sure how that&rsquo;ll work in my absence but I like to think that some part of my brain keeps thinking about this).</p>
-        
-        <p>Speaking more generally, working on code like that seems to be my litany against fear. It keeps my mind and my hands busy as deadlines loom and to stop and think would just make me very nervous without much I can do about it. The suitcase is packed. The todo list is ready.</p>
-        
-        <p>I really don&rsquo;t like travel. And today my wife tells me that she&rsquo;s nervous, too! It didn&rsquo;t use to be like that. When we were twenty I used to say we just need a passport and a credit card and everything else we can buy! But now we&rsquo;re over fifty and the planes make us nervous, the airports make us nervous, the car rental, the streets, the traffic, other people, everything. Once we&rsquo;re there, wherever it is, this passes. But the two or three days before leaving are the worst part of the holidays, now.</p>
-        
-        <p>Me being unable to finish this post is indication of the problem.</p>
-        
-        <p><a class="tag" href="/search/?q=%23Life">#Life</a></p>]]>
-      </description>
-      <source:markdown># 2026-09-14 Tomorrow we’re leaving for a short trip
-
-I think I finished rewriting [Oddμ](oddmu). Just in time! 😅 This is the software that I use for a bunch of sites including this one. It now uses a SQLite database for a lot of stuff. Most importantly, it uses the full-text search that SQLite offers instead of grepping through the Markdown files. There’s now a branch that passes the tests, at least. 😂 But it’s a start!
-
-And since it’s 0:30 and we’re leaving for Slovenia tomorrow (today?), it’s time for bed and I’m not going to test for any more bugs. The branch isn’t merged, yet, so there’s time for things to settle (not sure how that’ll work in my absence but I like to think that some part of my brain keeps thinking about this).
-
-Speaking more generally, working on code like that seems to be my litany against fear. It keeps my mind and my hands busy as deadlines loom and to stop and think would just make me very nervous without much I can do about it. The suitcase is packed. The todo list is ready.
-
-I really don’t like travel. And today my wife tells me that she’s nervous, too! It didn’t use to be like that. When we were twenty I used to say we just need a passport and a credit card and everything else we can buy! But now we’re over fifty and the planes make us nervous, the airports make us nervous, the car rental, the streets, the traffic, other people, everything. Once we’re there, wherever it is, this passes. But the two or three days before leaving are the worst part of the holidays, now.
-
-Me being unable to finish this post is indication of the problem.
-
-[#Life](/search/?q=%23Life)</source:markdown>
-      <guid>cid://https://alexschroeder.ch/view/2026-09-13-tomorrow</guid>
-      <category>Life</category>
-    </item>    <item>
-      <title>If Democrats win, one reason will be great recruitment</title>
-      <link>https://www.gelliottmorris.com/p/2026-09-13-sunday-roundup</link>
-      <description>
-        <![CDATA[Plus, Democrats hit +7 in our generic ballot average for the first time this cycle. Your weekly political data roundup for September 13, 2026.]]>
-      </description>
-      <source:markdown>Plus, Democrats hit +7 in our generic ballot average for the first time this cycle. Your weekly political data roundup for September 13, 2026.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!y733!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccab5961-ae00-47f3-b43f-decfb66edf7d_2732x1588.png" length="0" type="image/jpeg" />
-      <guid>cid://https://www.gelliottmorris.com/p/2026-09-13-sunday-roundup</guid>
-    </item>    <item>
-      <title>Caption contest: What’s in his head?</title>
-      <link>https://robertreich.substack.com/p/caption-contest-the-choice</link>
-      <description>
-        <![CDATA[And last week&#8217;s winner]]>
-      </description>
-      <source:markdown>And last week’s winner</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!UKdM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d037a0e-0809-4399-9ddf-3ba78c6e741d_2890x1907.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/caption-contest-the-choice</guid>
-    </item>    <item>
-      <title>The PIBO Bird Centre on Pelee Island is Open!</title>
-      <link>https://margaretatwood.substack.com/p/the-pibo-bird-centre-on-pelee-island</link>
-      <description>
-        <![CDATA[Thanks to many of you!]]>
-      </description>
-      <source:markdown>Thanks to many of you!</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!PUlW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86deab73-f8d7-403e-aa5a-09d01665ca47_3868x1846.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://margaretatwood.substack.com/p/the-pibo-bird-centre-on-pelee-island</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/09/13.html#a202605</link>
-      <description>
-        <![CDATA[It is probably the closest to <a href="https://en.wikipedia.org/wiki/First_contact_(science_fiction)">First Contact</a> with an intelligent alien life form that our species will ever have.]]>
-      </description>
-      <source:markdown>It is probably the closest to [First Contact](https://en.wikipedia.org/wiki/First_contact_\(science_fiction\)) with an intelligent alien life form that our species will ever have.</source:markdown>
-      <guid>cid://http://scripting.com/2026/09/13.html#a202605</guid>
-    </item>    <item>
-      <title>Preserving Netlify Analytics Data Beyond 30 Days</title>
-      <link>https://blog.jim-nielsen.com/2026/preserving-netlify-analytics-data/</link>
-      <description>
-        <![CDATA[<p>I’ve got Netlify Analytics turned on for a few of my websites.</p>
-        <p>I use it <a href="https://blog.jim-nielsen.com/2022/netlify-analytics-email-digest/" >send myself a little daily digest</a> that alerts me when folks link to my writing, be it an individual sending me a few referrals, a newsletter sending me a few hundred, or Hacker News sending me thousands.</p>
-        <p>But sometimes I want to know more than, “What happened with traffic in the last 24 hours?”</p>
-        <p>Sometimes I want to know, “What happened with traffic in the last month?” I can log in to Netlify to answer that question.</p>
-        <p>Sometimes I want to know, “What happened with traffic in the last six months?” Netlify doesn’t have an answer for that because they only store the last thirty days of traffic data.</p>
-        <p>I’ve known about this limitation for years and always thought, “I really should just start saving that data for myself.” </p>
-        <p>But, you know, laziness. How bad do I really want it? The answer, it seems, was “I only want it if it’s _easy_”.</p>
-        <p><em>Enter <a href="https://www.val.town/" >Val Town</a>.</em></p>
-        <p>Val Town makes this kind of task easy. Each “Val” is it’s own little bucket of scoped computing primitives for just such a task:</p>
-        <ul>
-        <li>Code (run a script that fetches data)</li>
-        <li>Secrets (securely store my Netlify access token)</li>
-        <li>Storage (my own little SQLite database for persisting data over time)</li>
-        <li>Automation (run this task every 30 days)</li>
-        </ul>
-        <p>All of this might seem like overkill for a single-script task like mine. But I like it. The scoped nature of each of these primitives makes composition easy without the kind of entanglement I’d have to fight to keep isolated if I were co-locating this task with other small tasks.</p>
-        <p>I don’t want to think about a shared schema for this task and whatever other tasks I might think of in six months. I don’t want to have to reason about evolving an architecture and maintaining a codebase of miscellaneous, unrelated tasks. Vals are perfect for this.</p>
-        <p>So the way I have this setup is: run the <code>.ts</code> file every 30 days which fetches the last 30 days worth of analytics data from Netlify and stores it in SQLite. (<a href="https://www.val.town/x/jimniels/analytics-cron" >You can see my Val here.</a>)</p>
-        <p>At that point, I have the data I need to curiously ask any question, e.g.</p>
-        <ul>
-        <li>What are the top referring sites to my blog?</li>
-        <li>What post has received the most page views over time?</li>
-        <li>Where does most of my traffic come from?</li>
-        </ul>
-        <p>The answers to these questions get more and more interesting over time, as the long tail of web dynamics play out: search engine traffic, serendipitous rediscovery of old posts in light of new trends, etc.</p>
-        <p>“But how do you actually <em>view</em> the data you’re storing to get answers to these kinds of questions?”</p>
-        <p>Great question. Val Town has a UI where I can see the raw data I’m storing (which I chose to store exactly as I got it from Netlify, rather than doing some pre-processing first):</p>
-        <p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2026/netlify-analytics-valtown.png" width="1292" height="852" alt="Screenshot of the SQLite tab on a Val, showing a database table with a number of rows and columns of analytics data from Netlify." data-og-image />
-        
-        </p><p>But that’s not very useful. I need to parse that data and turn it into some kind of useful analysis.</p>
-        <p>And you know what tool is super useful for understanding data? A spreadsheet.</p>
-        <p>If I were using Excel, I’d probably have to figure out a way to dump the SQL, convert the JSON to some kind of CSV, then import it. And every time I wanted to see the “latest” data, I’d have to run that workflow.</p>
-        <p><em>Enter <a href="https://www.quadratichq.com/" >Quadratic</a>.</em></p>
-        <p><a href="https://docs.val.town/openapi" >Val Town has an API</a> where I can fetch the latest data via code, and Quadratic is a spreadsheet that runs code. So seeing “the latest data” from my pipeline in Val Town is as easy as pressing a “re-run code” button in Quadratic.</p>
-        <p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2026/netlify-analytics-quadratic-code.png" width="1287" height="778" alt="Screnshot of a spreadsheet in Quadratic where Python code is open on the right and the result of that Python script is some tabluar data on the spreadsheet on the left." />
-        
-        </p><p>Quadratic serves as a kind of “front-end” to my data pipeline. Easy to pull the raw data, transform it however I need, and create a “dashboard” I can revisit whenever I want to see the latest insights or ask new questions.</p>
-        <p>And, since I’m storing data for a couple different sites in Netlify, I have a single cell in my spreadsheet where I can swap out the domain — say from <code>blog.jim-nielsen.com</code> to <code>iosicongallery.com</code> — and the entire dataset and dashboard redraw.</p>
-        <p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2026/netlify-analytics-dashboard.png" width="1094" height="660" alt="Screenshot of a web-analytics-like dashboard in a spreadsheet in Quadratic, showing trend lines, top data sources, etc." />
-        
-        </p><p>I know, I know. There are lots of products for stuff like this. And there’s probably a million other ways to do what I’m doing, all peculiar in their own way. But this one is mine.</p>
-        <p>And now I can sleep at night knowing that every 30 days my little Val Town robot is gonna go store the last 30 days of data that Netlify is throwing away.</p>
-        <p>One person’s garbage is another person’s treasure trove of data.</p>
-        
-            <hr />
-            
-        
-            <p>
-              Reply via:
-              
-        
-              <a
-                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/preserving-netlify-analytics-data/"
-                >Email</a
-              >
-              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
-        
-              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
-            </p>]]>
-      </description>
-      <source:markdown>I’ve got Netlify Analytics turned on for a few of my websites.
-
-I use it [send myself a little daily digest](https://blog.jim-nielsen.com/2022/netlify-analytics-email-digest/) that alerts me when folks link to my writing, be it an individual sending me a few referrals, a newsletter sending me a few hundred, or Hacker News sending me thousands.
-
-But sometimes I want to know more than, “What happened with traffic in the last 24 hours?”
-
-Sometimes I want to know, “What happened with traffic in the last month?” I can log in to Netlify to answer that question.
-
-Sometimes I want to know, “What happened with traffic in the last six months?” Netlify doesn’t have an answer for that because they only store the last thirty days of traffic data.
-
-I’ve known about this limitation for years and always thought, “I really should just start saving that data for myself.”
-
-But, you know, laziness. How bad do I really want it? The answer, it seems, was “I only want it if it’s \_easy\_”.
-
-_Enter [Val Town](https://www.val.town/)._
-
-Val Town makes this kind of task easy. Each “Val” is it’s own little bucket of scoped computing primitives for just such a task:
-
-- Code (run a script that fetches data)
-- Secrets (securely store my Netlify access token)
-- Storage (my own little SQLite database for persisting data over time)
-- Automation (run this task every 30 days)
-
-All of this might seem like overkill for a single-script task like mine. But I like it. The scoped nature of each of these primitives makes composition easy without the kind of entanglement I’d have to fight to keep isolated if I were co-locating this task with other small tasks.
-
-I don’t want to think about a shared schema for this task and whatever other tasks I might think of in six months. I don’t want to have to reason about evolving an architecture and maintaining a codebase of miscellaneous, unrelated tasks. Vals are perfect for this.
-
-So the way I have this setup is: run the `.ts` file every 30 days which fetches the last 30 days worth of analytics data from Netlify and stores it in SQLite. ( [You can see my Val here.](https://www.val.town/x/jimniels/analytics-cron))
-
-At that point, I have the data I need to curiously ask any question, e.g.
-
-- What are the top referring sites to my blog?
-- What post has received the most page views over time?
-- Where does most of my traffic come from?
-
-The answers to these questions get more and more interesting over time, as the long tail of web dynamics play out: search engine traffic, serendipitous rediscovery of old posts in light of new trends, etc.
-
-“But how do you actually _view_ the data you’re storing to get answers to these kinds of questions?”
-
-Great question. Val Town has a UI where I can see the raw data I’m storing (which I chose to store exactly as I got it from Netlify, rather than doing some pre-processing first):
-
-![Screenshot of the SQLite tab on a Val, showing a database table with a number of rows and columns of analytics data from Netlify.](https://cdn.jim-nielsen.com/blog/2026/netlify-analytics-valtown.png)
-
-But that’s not very useful. I need to parse that data and turn it into some kind of useful analysis.
-
-And you know what tool is super useful for understanding data? A spreadsheet.
-
-If I were using Excel, I’d probably have to figure out a way to dump the SQL, convert the JSON to some kind of CSV, then import it. And every time I wanted to see the “latest” data, I’d have to run that workflow.
-
-_Enter [Quadratic](https://www.quadratichq.com/)._
-
-[Val Town has an API](https://docs.val.town/openapi) where I can fetch the latest data via code, and Quadratic is a spreadsheet that runs code. So seeing “the latest data” from my pipeline in Val Town is as easy as pressing a “re-run code” button in Quadratic.
-
-![Screnshot of a spreadsheet in Quadratic where Python code is open on the right and the result of that Python script is some tabluar data on the spreadsheet on the left.](https://cdn.jim-nielsen.com/blog/2026/netlify-analytics-quadratic-code.png)
-
-Quadratic serves as a kind of “front-end” to my data pipeline. Easy to pull the raw data, transform it however I need, and create a “dashboard” I can revisit whenever I want to see the latest insights or ask new questions.
-
-And, since I’m storing data for a couple different sites in Netlify, I have a single cell in my spreadsheet where I can swap out the domain — say from `blog.jim-nielsen.com` to `iosicongallery.com` — and the entire dataset and dashboard redraw.
-
-![Screenshot of a web-analytics-like dashboard in a spreadsheet in Quadratic, showing trend lines, top data sources, etc.](https://cdn.jim-nielsen.com/blog/2026/netlify-analytics-dashboard.png)
-
-I know, I know. There are lots of products for stuff like this. And there’s probably a million other ways to do what I’m doing, all peculiar in their own way. But this one is mine.
-
-And now I can sleep at night knowing that every 30 days my little Val Town robot is gonna go store the last 30 days of data that Netlify is throwing away.
-
-One person’s garbage is another person’s treasure trove of data.
-
-* * *
-
-Reply via:
-
-
-[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/preserving-netlify-analytics-data/)
-· [Mastodon](https://mastodon.social/@jimniels) ·
-
-[Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
-      <guid>cid://https://blog.jim-nielsen.com/2026/preserving-netlify-analytics-data/</guid>
-    </item>    <item>
-      <title>Two cheers (out of three) for Dario Amodei</title>
-      <link>https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario</link>
-      <description>
-        <![CDATA[A partial endorsement of his essay &#8220;We Must Pace the Frontier&#8221;]]>
-      </description>
-      <source:markdown>A partial endorsement of his essay “We Must Pace the Frontier”</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!yCey!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3c1cf54-29be-461a-aa92-8583ec6cd404_1309x1360.png" length="0" type="image/jpeg" />
-      <guid>cid://https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario</guid>
-    </item>    <item>
-      <title>Our Wins Of The Week</title>
-      <link>https://thinkbigpicture.substack.com/p/week-progressive-wins-september-13</link>
-      <description>
-        <![CDATA[We are now officially in the final post-Labor Day stretch of the midterm election campaign.]]>
-      </description>
-      <source:markdown>We are now officially in the final post-Labor Day stretch of the midterm election campaign.</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/3df831be-4ddb-43db-8157-1b23f6fbb601_1054x626.png" length="0" type="image/jpeg" />
-      <guid>cid://https://thinkbigpicture.substack.com/p/week-progressive-wins-september-13</guid>
-    </item>    <item>
-      <title>AI as a Teacher of Athletes</title>
-      <link>https://doc.searls.com/2026/09/13/ai-as-a-teacher-of-athletes/</link>
-      <description>
-        <![CDATA[On the whole, AI writing is good. Yes, I&#8217;ve called it &#8220;AutoTune for the human kind&#8221; and &#8220;fancy blah.&#8221; Claudio&#160;Nastruzzi called it &#8220;semantic ablation.&#8221; But Big AI&#8217;s grammar, styling, and prose still tends to beat the shit out of the ways most people write. Does that have to be a bad thing? Nearly all of [&#8230;]]]>
-      </description>
-      <source:markdown>On the whole, AI writing is good. Yes, I’ve called it “AutoTune for the human kind” and “fancy blah.” Claudio Nastruzzi called it “semantic ablation.” But Big AI’s grammar, styling, and prose still tends to beat the shit out of the ways most people write. Does that have to be a bad thing? Nearly all of \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/?p=22530</guid>
-      <category>aging</category>
-      <category>AI</category>
-      <category>Art</category>
-      <category>Artificial Intelligence</category>
-      <category>music</category>
-      <category>Personal</category>
-      <category>Philosophy</category>
-      <category>School</category>
-      <category>Technology</category>
-      <category>writing</category>
-    </item>    <item>
-      <link>http://scripting.com/2026/09/13.html#a152333</link>
-      <description>
-        <![CDATA[On a good day working with Claude is like working with my old UW-Madison programmer friend <a href="https://daytona.scripting.com/search?q=%22Gary%20Sevitsky%22">Gary Sevitsky</a> from the 70s.]]>
-      </description>
-      <source:markdown>On a good day working with Claude is like working with my old UW-Madison programmer friend [Gary Sevitsky](https://daytona.scripting.com/search?q=%22Gary%20Sevitsky%22) from the 70s.</source:markdown>
-      <guid>cid://http://scripting.com/2026/09/13.html#a152333</guid>
-    </item>    <item>
-      <title>The Fight To Keep AI Safe, Encouraging New Senate Polling, Accountability Is Coming, Protecting Our Elections</title>
-      <link>https://www.hopiumchronicles.com/p/the-fight-to-keep-ai-safe-encouraging</link>
-      <description>
-        <![CDATA[Early voting kicks off in three states this Friday - Minnesota, South Dakota, and Virginia - the general election is truly here everyone]]>
-      </description>
-      <source:markdown>Early voting kicks off in three states this Friday - Minnesota, South Dakota, and Virginia - the general election is truly here everyone</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/ec61b07f-5b49-42cf-b07f-149865632066_678x452.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.hopiumchronicles.com/p/the-fight-to-keep-ai-safe-encouraging</guid>
-    </item>    <item>
-      <title>Guest Newsletter: Five Books - Russian and Autobiography</title>
-      <link>https://thebrowser.com/free/guest-newsletter-five-books-103/</link>
-      <description>
-        <![CDATA[Five Books features in-depth author interviews recommending five books on a theme]]>
-      </description>
-      <source:markdown>Five Books features in-depth author interviews recommending five books on a theme</source:markdown>
-      <guid>cid://6aa3f31617ca360001b49725</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/09/13.html#a144500</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2023/05/05/heavenCanWaitSmall.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've been writing about Atlantis on various social media sites in the last few days. Published the long piece I wrote <a href="http://scripting.com/2026/09/12/131527.html">yesterday</a> on Facebook and X, both of which allow long posts. Wasn't going to try that on Mastodon or Bluesky, which have character limits (I know Mastodon doesn't technically have a limit, but in practice it does). And I am reaching old school Frontier enthusiasts, and realize I need a feed they can follow to stay up on the news. For now the one place to follow is <a href="http://scripting.com/rss.xml">rss.xml</a> on scripting.com. If your reader can't deal with http, let me know.]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2023/05/05/heavenCanWaitSmall.png)I&#39;ve been writing about Atlantis on various social media sites in the last few days. Published the long piece I wrote [yesterday](http://scripting.com/2026/09/12/131527.html) on Facebook and X, both of which allow long posts. Wasn&#39;t going to try that on Mastodon or Bluesky, which have character limits (I know Mastodon doesn&#39;t technically have a limit, but in practice it does). And I am reaching old school Frontier enthusiasts, and realize I need a feed they can follow to stay up on the news. For now the one place to follow is [rss.xml](http://scripting.com/rss.xml) on scripting.com. If your reader can&#39;t deal with http, let me know.</source:markdown>
-      <guid>cid://http://scripting.com/2026/09/13.html#a144500</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/09/13.html#a141205</link>
-      <description>
-        <![CDATA[Claude has started asking me how Claude is doing. It's clear that the Claude I talk to knows nothing about this. I appreciate this, and hope if I said it wasn't working well with me, it would try to fix it? Not sure. Anyway this is what I just wrote, and felt it was worth blogging. "it's working with me the way i want to, and it appears to be learning and getting better at it, though i think that could be my imagination. also just as likely that i'm learning how to work the way it likes to work."]]>
-      </description>
-      <source:markdown>Claude has started asking me how Claude is doing. It&#39;s clear that the Claude I talk to knows nothing about this. I appreciate this, and hope if I said it wasn&#39;t working well with me, it would try to fix it? Not sure. Anyway this is what I just wrote, and felt it was worth blogging. &#34;it&#39;s working with me the way i want to, and it appears to be learning and getting better at it, though i think that could be my imagination. also just as likely that i&#39;m learning how to work the way it likes to work.&#34;</source:markdown>
-      <guid>cid://http://scripting.com/2026/09/13.html#a141205</guid>
-    </item>    <item>
-      <link>http://scripting.com/2026/09/13.html#a135842</link>
-      <description>
-        <![CDATA[With Claude Code you don't have to write system scripts to get data about your data. Claude makes that fully transparent. For example, I just asked Claude to get me a list of all the parts I've changed since the last release of frontier.root. So far all the releases have been internal, between Claude and myself. After the job was done, and I had the list in hand, I asked Claude to show me the <a href="https://gist.github.com/scripting/06b7dc714456e2baf283ab17c3a68af1">script it wrote</a> to do the work. It was not written in my coding style which is fine, I wasn't meant to see this. In all the years I've been programming we've never come up with a syntax that was anything close to the simplicity of math. It's easy to describe the algorithm mathematically, but look at all the explaining it had to do it in JS.]]>
-      </description>
-      <source:markdown>With Claude Code you don&#39;t have to write system scripts to get data about your data. Claude makes that fully transparent. For example, I just asked Claude to get me a list of all the parts I&#39;ve changed since the last release of frontier.root. So far all the releases have been internal, between Claude and myself. After the job was done, and I had the list in hand, I asked Claude to show me the [script it wrote](https://gist.github.com/scripting/06b7dc714456e2baf283ab17c3a68af1) to do the work. It was not written in my coding style which is fine, I wasn&#39;t meant to see this. In all the years I&#39;ve been programming we&#39;ve never come up with a syntax that was anything close to the simplicity of math. It&#39;s easy to describe the algorithm mathematically, but look at all the explaining it had to do it in JS.</source:markdown>
-      <guid>cid://http://scripting.com/2026/09/13.html#a135842</guid>
-    </item>    <item>
-      <title>I’ve Seen This Movie Before</title>
-      <link>https://dbarkhuff.substack.com/p/ive-seen-movie-this-before</link>
-      <description>
-        <![CDATA[And it has stained a uniform I am proud of]]>
-      </description>
-      <source:markdown>And it has stained a uniform I am proud of</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!uMs_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09c17126-dc59-4b58-b75a-c73012fb4bbf_884x1188.png" length="0" type="image/jpeg" />
-      <guid>cid://https://dbarkhuff.substack.com/p/ive-seen-movie-this-before</guid>
-    </item>    <item>
-      <title>“Waitin’ On A Sunny Day”</title>
-      <link>https://steady.substack.com/p/waitin-on-a-sunny-day</link>
-      <description>
-        <![CDATA[A Reason To Smile]]>
-      </description>
-      <source:markdown>A Reason To Smile</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!JtM7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44cd8329-887e-493a-bddf-90a5c73ca6fa_4256x2848.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://steady.substack.com/p/waitin-on-a-sunny-day</guid>
-    </item>    <item>
-      <title>Trade, Peace and War</title>
-      <link>https://paulkrugman.substack.com/p/trade-peace-and-war</link>
-      <description>
-        <![CDATA[Welcome to the dark side of globalization]]>
-      </description>
-      <source:markdown>Welcome to the dark side of globalization</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!0Enh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84488cbb-69a1-45a7-b7ee-bf89ab461d7e_1429x753.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/trade-peace-and-war</guid>
-    </item>    <item>
-      <title>Sunday thought: WE are the leaders we’ve been waiting for</title>
-      <link>https://robertreich.substack.com/p/sunday-thought-we-are-the-leaders</link>
-      <description>
-        <![CDATA[Avoiding the traps &#8212; and understanding what must be done now]]>
-      </description>
-      <source:markdown>Avoiding the traps — and understanding what must be done now</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!qbKE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F127cf897-8e54-4783-b64c-1a61ec23e20f_3337x1801.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/sunday-thought-we-are-the-leaders</guid>
-    </item>    <item>
-      <title>The Fascist Billionaire Who Created JD Vance</title>
-      <link>https://www.borowitzreport.com/p/the-rise-and-fall-of-the-nerd-reich</link>
-      <description>
-        <![CDATA[The Andy Borowitz Show]]>
-      </description>
-      <source:markdown>The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/213626230/bc12ee3777fff083b45edeb2d14995a0.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/the-rise-and-fall-of-the-nerd-reich</guid>
-    </item>    <item>
-      <title>Bookmarks - llm, graph, memory, security</title>
-      <link>https://inkdroid.org/2026/09/13/bookmarks/</link>
-      <description>
-        <![CDATA[These are some things I’ve wandered across on the web this week.
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://www.rubyhack.ai/#an-openai-agent-swarm-was-responsible-for-this-i">
-        OpenAI agents carried out an undisclosed cyber-attack on RubyGems </a>
-        </h2>
-        <section class="p-summary">
-        On May 11th, 2026, hundreds of malicious packages were uploaded to
-        RubyGems by AI agents. We believe these were authored by internal OpenAI
-        agents
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/openai/">openai</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/ruby/">ruby</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/security/">security</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://arxiv.org/abs/2512.12818"> Hindsight
-        is 20/20: Building Agent Memory that Retains, Recalls, and Reflects </a>
-        </h2>
-        <section class="p-summary">
-        Agent memory has been touted as a dimension of growth for LLM-based
-        applications, enabling agents that can accumulate experience, adapt
-        across sessions, and move beyond single-shot question answering. The
-        current generation of agent memory systems treats memory as an external
-        layer that extracts salient snippets from conversations, stores them in
-        vector or graph-based stores, and retrieves top-k items into the prompt
-        of an otherwise stateless model. While these systems improve
-        personalization and context carry-over, they still blur the line between
-        evidence and inference, struggle to organize information over long
-        horizons, and offer limited support for agents that must explain their
-        reasoning. We present Hindsight, a memory architecture that treats agent
-        memory as a structured, first-class substrate for reasoning by
-        organizing it into four logical networks that distinguish world facts,
-        agent experiences, synthesized entity summaries, and evolving beliefs.
-        This framework supports three core operations – retain, recall, and
-        reflect – that govern how information is added, accessed, and updated.
-        Under this abstraction, a temporal, entity aware memory layer
-        incrementally turns conversational streams into a structured, queryable
-        memory bank, while a reflection layer reasons over this bank to produce
-        answers and to update information in a traceable way. On key
-        long-horizon conversational memory benchmarks like LongMemEval and
-        LoCoMo, Hindsight with an open-source 20B model lifts overall accuracy
-        from 39% to 83.6% over a full-context baseline with the same backbone
-        and outperforms full context GPT-4o. Scaling the backbone further pushes
-        Hindsight to 91.4% on LongMemEval and up to 89.61% on LoCoMo (vs. 75.78%
-        for the strongest prior open system), consistently outperforming
-        existing memory architectures on multi-session and open-domain
-        questions.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/graph/">graph</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/memory/">memory</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://www.dpconline.org/news/cyber-security-twgn-series-gen-release">
-        Cyber Security and Resilience for Digital Preservation </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        The Digital Preservation Coalition (DPC) has today released its complete
-        three-part Technology Watch Guidance Note series, Cyber Security and
-        Resilience for Digital Preservation, for general public access.
-        </p>
-        Following an exclusive preview for DPC Members over the summer, all
-        three Guidance Notes are now freely available to the wider digital
-        preservation community.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/preservation/">preservation</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/security/">security</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://github.com/Graphify-Labs/graphify">
-        Graphify </a>
-        </h2>
-        <section class="p-summary">
-        Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a
-        queryable knowledge graph. A /graphify skill for Claude Code, Cursor,
-        Codex, and Gemini CLI: local deterministic AST parsing, every edge
-        explained, no vector store.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/graph/">graph</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/knowledge-base/">knowledge-base</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/python/">python</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://honcho.dev/docs/v3/documentation/introduction/overview">
-        Honcho </a>
-        </h2>
-        <section class="p-summary">
-        Traditional RAG systems retrieve what was explicitly said, but they miss
-        what matters most—the insights only accessible by rigorously thinking
-        about your data. Without reasoning, you’re leaving latent information on
-        the table. Static retrieval can’t surface implicit connections,
-        struggles when new information contradicts old data, and fails when you
-        need to make predictions under uncertainty. Honcho uses formal logic to
-        extract all that latent information. This reasoning is AI-native—it
-        performs the rigorous, compute-intensive thinking that humans struggle
-        with, instantly and consistently. The result is memory that goes beyond
-        simple RAG recall to provide exhaustive context for statefulness.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/graph/">graph</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/memory/">memory</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://hindsight.vectorize.io/"> Hindsight
-        </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        Hindsight is an agent memory system that provides long-term memory for
-        AI agents using biomimetic data structures. Unlike traditional RAG
-        (Retrieval-Augmented Generation), Hindsight:
-        </p>
-        <ul>
-        <li>
-        Stores structured facts instead of raw document chunks
-        </li>
-        <li>
-        Builds mental models that consolidate knowledge over time
-        </li>
-        <li>
-        Uses graph-based relationships between entities and concepts
-        </li>
-        <li>
-        Supports temporal reasoning with time-aware retrieval
-        </li>
-        <li>
-        Enables disposition-aware reflection for nuanced reasoning
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/graph/">graph</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/knowledge-graph/">knowledge-graph</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/memory/">memory</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/search/">search</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://editorial.rottentomatoes.com/guide/best-new-tv-series-shows/">
-        Best TV Shows of 2026: New Series to Watch Now </a>
-        </h2>
-        <section class="p-summary">
-        The newest Certified Fresh shows, from ‘Adults’ to ‘Lanterns.’
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/tv/">tv</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://logicmag.io/supa-dupa-skies/origin-stories-plantations-computers-and-industrial-control/">
-        Origin Stories: Plantations, Computers, and Industrial Control </a>
-        </h2>
-        <section class="p-summary">
-        The blueprint for modern digital computing was codesigned by Charles
-        Babbage, a vocal champion for the concerns of the emerging industrial
-        capitalist class who condemned organized workers and viewed democracy
-        and capitalism as incompatible. Histories of Babbage diverge sharply in
-        their emphasis. His influential theories on how “enterprising
-        capitalists” could best subjugate workers are well documented in
-        conventional labor scholarship. However, these are oddly absent from
-        many mainstream accounts of his foundational contributions to digital
-        computing, which he made with mathematician Ada Lovelace in the
-        nineteenth century.1 Reading these histories together, we find that
-        Babbage’s proto-Taylorist ideas on how to discipline workers are
-        inextricably connected to the calculating engines he spent his life
-        attempting to build.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/computing/">computing</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/history/">history</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://hpc.guix.info/blog/2026/09/guix-science-first-release/">
-        Announcing the first Guix-Science release! </a>
-        </h2>
-        <section class="p-summary">
-        It’s a dedicated Guix channel from the Guix-Science project. The channel
-        provides a comprehensive, community-driven, scientific software catalog
-        suitable for the global scientific community.
-        </li>
-        </ul>
-        With the increased usage of Guix in scientific contexts, there is also a
-        growing need for packaging software used in the research and teaching
-        spheres. Although the Guix project encourages users to contribute
-        packages to the main Guix channel, some packages cannot be included
-        there because they do not comply with Guix’s packaging policy, or
-        because they are too specialized to be used outside an HPC context. The
-        Guix-Science channel has a more permissive policy than the main Guix
-        channel; especially regarding the usage of pre-built components.
-        Additionally, it has a more lenient deprecation policy than Guix proper.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/guix/">guix</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/operating-systems/">operating-systems</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/science/">science</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://github.com/civboot/civboot"> Civboot:
-        civboot a civilizational bootstrapper civboot </a>
-        </h2>
-        <section class="p-summary">
-        What is a Civboot? Conceptually it is a seed from which can grow the
-        essential technology of Civilization. Imagine a factory capable of
-        building a minimalist general-purpose personal computer, like something
-        from the 80’s/90’s or better. A Civboot factory is one which can build
-        such a factory from raw materials.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/permacomputing/">permacomputing</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://www.tascamforums.com/threads/tascam-788-firmware-iso-files.8194/">
-        Tascam 788 Firmware ISO Files </a>
-        </h2>
-        <section class="p-summary">
-        A discussion about upgrading TASCAM 788 to the v2.0.2 firmware which
-        will allow you to write individual tracks as WAV files to a CD.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/audio/">audio</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://reticulum.network/manual/zen.html">
-        Zen of Reticulum </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        The first step in the Zen of Reticulum is to realize that there is no
-        cloud. There is only other people’s computers. When you build for the
-        cloud, you are building for a landlord. You are accepting that your
-        application’s existence is conditional on the permission, uptime, and
-        continued goodwill of a central authority.
-        </p>
-        In Reticulum, you must shift your thinking from “connecting to” to
-        “being among”. Reticulum is not a service you subscribe to - it is a
-        fabric you inhabit. There is no “up there”. There is only here and
-        there, and the space between them is peer-to-peer.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/networks/">networks</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/p2p/">p2p</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/protocols/">protocols</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://zenodo.org/records/22276836"> Beyond
-        AI: Infrastructuring the Common Good </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        This paper proposes decomputing as a programme for pushing back against
-        such technocratic nihilism. Decomputing adopts a degrowth framework and
-        advocates for reclaiming agency through deautomatisation and people’s
-        councils, in order to develop convivial alternatives that centre an
-        ethics of care. It is a philosophical and tactical response to the wider
-        crisis of care induced by the collapse of existing systems.
-        </p>
-        Decomputing proposes a prefigurative praxis for those experiencing
-        ruptures in the infrastructures of everyday life, while minimising the
-        opening for an authoritarian turn or war economy. Rather than
-        capitulating to an increasingly fascistic world order, decomputing
-        advocates a shift in the idea of order itself, one that means
-        challenging the idea that ever more advanced tech is synonymous with
-        progress.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/activism/">activism</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/ai/">ai</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/computing/">computing</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/coop/">coop</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/politics/">politics</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://sabot.media/post/a-network-called-resistance">
-        Interview with Autistici/Inventati - A Network for Resistance </a>
-        </h2>
-        <section class="p-summary">
-        This interview was conducted in writing with Autistici/Inventati
-        following its August 26, 2026 designation by the United States under
-        Executive Order 13224.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/activism/">activism</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/censorship/">censorship</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/interviews/">interviews</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/politics/">politics</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://www.ghi-dc.org/events/event/date/between-big-data-and-obsolescence-born-digital-sources-contemporary-history-and-the-politics-of-access">
-        Between Big Data and Obsolescence: Born-Digital Sources, Contemporary
-        History, and the Politics of Access </a>
-        </h2>
-        <section class="p-summary">
-        The conference aims to create a forum for sustained exchange between
-        those who preserve born-digital materials and those who interpret them
-        as historical sources. By bringing together archival, methodological,
-        technical, and historiographical perspectives, we seek to ask not only
-        how born-digital records can be saved, but also how they can be made
-        meaningful for contemporary history. We especially welcome contributions
-        that combine methodological reflection with concrete case studies,
-        project presentations, or hands-on approaches.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/conference/">conference</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/history/">history</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/preservation/">preservation</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://arxiv.org/abs/2609.03344v1">
-        Large-Language Models as a Cognitive Virus </a>
-        </h2>
-        <section class="p-summary">
-        Large-language models (LLMs) are rapidly becoming part of human culture,
-        reshaping how information is produced, transmitted, and used. Here we
-        propose that their diffusion can be understood through a viral analogy,
-        with LLM use spreading through populations, becoming embedded in
-        cognitive and cultural practices. We model transitions among uncoupled,
-        coupled, and persistently dependent users, and show that the interplay
-        between social transmission, recovery, and collective reinforcement can
-        generate tipping points and technological lock-in. A central consequence
-        is the possibility of runaway dynamics: once a critical threshold is
-        crossed, small increases in adoption can trigger rapid population-level
-        shifts toward persistent dependence, with abrupt losses in cognitive
-        competence. The same framework, however, identifies conditions for
-        cognitive immunization, based on reducing transmission and facilitating
-        reversibility. Our results highlight how LLM adoption may involve
-        nonlinear collective transitions with important consequences for
-        cognitive autonomy.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/knowledge/">knowledge</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/virus/">virus</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/">
-        The revolt of the reader </a>
-        </h2>
-        <section class="p-summary">
-        You should fully expect your writing to be run through Pangram. If your
-        position is that we should be fine with an LLM crafting prose from your
-        prompt, spare us all the wasted cycles and just give us your prompt. Or,
-        better yet, consider doing what generations of writers have done before
-        you, and treating that prompt as a skeleton that you use to write your
-        piece yourself!
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/reading/">reading</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/spam/">spam</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/writing/">writing</a>
-        </p>
-        </article>]]>
-      </description>
-      <source:markdown>These are some things I’ve wandered across on the web this week.
-
-## 🔖 [OpenAI agents carried out an undisclosed cyber-attack on RubyGems](https://www.rubyhack.ai/\#an-openai-agent-swarm-was-responsible-for-this-i)
-
-On May 11th, 2026, hundreds of malicious packages were uploaded to
-RubyGems by AI agents. We believe these were authored by internal OpenAI
-agents
-
-[llm](/tag/llm/) [openai](/tag/openai/) [ruby](/tag/ruby/) [security](/tag/security/)
-
-## 🔖 [Hindsight\ is 20/20: Building Agent Memory that Retains, Recalls, and Reflects](https://arxiv.org/abs/2512.12818)
-
-Agent memory has been touted as a dimension of growth for LLM-based
-applications, enabling agents that can accumulate experience, adapt
-across sessions, and move beyond single-shot question answering. The
-current generation of agent memory systems treats memory as an external
-layer that extracts salient snippets from conversations, stores them in
-vector or graph-based stores, and retrieves top-k items into the prompt
-of an otherwise stateless model. While these systems improve
-personalization and context carry-over, they still blur the line between
-evidence and inference, struggle to organize information over long
-horizons, and offer limited support for agents that must explain their
-reasoning. We present Hindsight, a memory architecture that treats agent
-memory as a structured, first-class substrate for reasoning by
-organizing it into four logical networks that distinguish world facts,
-agent experiences, synthesized entity summaries, and evolving beliefs.
-This framework supports three core operations – retain, recall, and
-reflect – that govern how information is added, accessed, and updated.
-Under this abstraction, a temporal, entity aware memory layer
-incrementally turns conversational streams into a structured, queryable
-memory bank, while a reflection layer reasons over this bank to produce
-answers and to update information in a traceable way. On key
-long-horizon conversational memory benchmarks like LongMemEval and
-LoCoMo, Hindsight with an open-source 20B model lifts overall accuracy
-from 39% to 83.6% over a full-context baseline with the same backbone
-and outperforms full context GPT-4o. Scaling the backbone further pushes
-Hindsight to 91.4% on LongMemEval and up to 89.61% on LoCoMo (vs. 75.78%
-for the strongest prior open system), consistently outperforming
-existing memory architectures on multi-session and open-domain
-questions.
-
-[graph](/tag/graph/) [llm](/tag/llm/) [memory](/tag/memory/)
-
-## 🔖 [Cyber Security and Resilience for Digital Preservation](https://www.dpconline.org/news/cyber-security-twgn-series-gen-release)
-
-The Digital Preservation Coalition (DPC) has today released its complete
-three-part Technology Watch Guidance Note series, Cyber Security and
-Resilience for Digital Preservation, for general public access.
-
-Following an exclusive preview for DPC Members over the summer, all
-three Guidance Notes are now freely available to the wider digital
-preservation community.
-
-[preservation](/tag/preservation/) [security](/tag/security/)
-
-## 🔖 [Graphify](https://github.com/Graphify-Labs/graphify)
-
-Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a
-queryable knowledge graph. A /graphify skill for Claude Code, Cursor,
-Codex, and Gemini CLI: local deterministic AST parsing, every edge
-explained, no vector store.
-
-[graph](/tag/graph/) [knowledge-base](/tag/knowledge-base/) [llm](/tag/llm/) [python](/tag/python/)
-
-## 🔖 [Honcho](https://honcho.dev/docs/v3/documentation/introduction/overview)
-
-Traditional RAG systems retrieve what was explicitly said, but they miss
-what matters most—the insights only accessible by rigorously thinking
-about your data. Without reasoning, you’re leaving latent information on
-the table. Static retrieval can’t surface implicit connections,
-struggles when new information contradicts old data, and fails when you
-need to make predictions under uncertainty. Honcho uses formal logic to
-extract all that latent information. This reasoning is AI-native—it
-performs the rigorous, compute-intensive thinking that humans struggle
-with, instantly and consistently. The result is memory that goes beyond
-simple RAG recall to provide exhaustive context for statefulness.
-
-[graph](/tag/graph/) [llm](/tag/llm/) [memory](/tag/memory/)
-
-## 🔖 [Hindsight](https://hindsight.vectorize.io/)
-
-Hindsight is an agent memory system that provides long-term memory for
-AI agents using biomimetic data structures. Unlike traditional RAG
-(Retrieval-Augmented Generation), Hindsight:
-
-- Stores structured facts instead of raw document chunks
-
-- Builds mental models that consolidate knowledge over time
-
-- Uses graph-based relationships between entities and concepts
-
-- Supports temporal reasoning with time-aware retrieval
-
-- Enables disposition-aware reflection for nuanced reasoning
-
-
-[graph](/tag/graph/) [knowledge-graph](/tag/knowledge-graph/) [llm](/tag/llm/) [memory](/tag/memory/) [search](/tag/search/)
-
-## 🔖 [Best TV Shows of 2026: New Series to Watch Now](https://editorial.rottentomatoes.com/guide/best-new-tv-series-shows/)
-
-The newest Certified Fresh shows, from ‘Adults’ to ‘Lanterns.’
-
-[tv](/tag/tv/)
-
-## 🔖 [Origin Stories: Plantations, Computers, and Industrial Control](https://logicmag.io/supa-dupa-skies/origin-stories-plantations-computers-and-industrial-control/)
-
-The blueprint for modern digital computing was codesigned by Charles
-Babbage, a vocal champion for the concerns of the emerging industrial
-capitalist class who condemned organized workers and viewed democracy
-and capitalism as incompatible. Histories of Babbage diverge sharply in
-their emphasis. His influential theories on how “enterprising
-capitalists” could best subjugate workers are well documented in
-conventional labor scholarship. However, these are oddly absent from
-many mainstream accounts of his foundational contributions to digital
-computing, which he made with mathematician Ada Lovelace in the
-nineteenth century.1 Reading these histories together, we find that
-Babbage’s proto-Taylorist ideas on how to discipline workers are
-inextricably connected to the calculating engines he spent his life
-attempting to build.
-
-[computing](/tag/computing/) [history](/tag/history/)
-
-## 🔖 [Announcing the first Guix-Science release!](https://hpc.guix.info/blog/2026/09/guix-science-first-release/)
-
-It’s a dedicated Guix channel from the Guix-Science project. The channel
-provides a comprehensive, community-driven, scientific software catalog
-suitable for the global scientific community.
-
-With the increased usage of Guix in scientific contexts, there is also a
-growing need for packaging software used in the research and teaching
-spheres. Although the Guix project encourages users to contribute
-packages to the main Guix channel, some packages cannot be included
-there because they do not comply with Guix’s packaging policy, or
-because they are too specialized to be used outside an HPC context. The
-Guix-Science channel has a more permissive policy than the main Guix
-channel; especially regarding the usage of pre-built components.
-Additionally, it has a more lenient deprecation policy than Guix proper.
-
-[guix](/tag/guix/) [operating-systems](/tag/operating-systems/) [science](/tag/science/)
-
-## 🔖 [Civboot:\ civboot a civilizational bootstrapper civboot](https://github.com/civboot/civboot)
-
-What is a Civboot? Conceptually it is a seed from which can grow the
-essential technology of Civilization. Imagine a factory capable of
-building a minimalist general-purpose personal computer, like something
-from the 80’s/90’s or better. A Civboot factory is one which can build
-such a factory from raw materials.
-
-[permacomputing](/tag/permacomputing/)
-
-## 🔖 [Tascam 788 Firmware ISO Files](https://www.tascamforums.com/threads/tascam-788-firmware-iso-files.8194/)
-
-A discussion about upgrading TASCAM 788 to the v2.0.2 firmware which
-will allow you to write individual tracks as WAV files to a CD.
-
-[audio](/tag/audio/)
-
-## 🔖 [Zen of Reticulum](https://reticulum.network/manual/zen.html)
-
-The first step in the Zen of Reticulum is to realize that there is no
-cloud. There is only other people’s computers. When you build for the
-cloud, you are building for a landlord. You are accepting that your
-application’s existence is conditional on the permission, uptime, and
-continued goodwill of a central authority.
-
-In Reticulum, you must shift your thinking from “connecting to” to
-“being among”. Reticulum is not a service you subscribe to - it is a
-fabric you inhabit. There is no “up there”. There is only here and
-there, and the space between them is peer-to-peer.
-
-[networks](/tag/networks/) [p2p](/tag/p2p/) [protocols](/tag/protocols/)
-
-## 🔖 [Beyond\ AI: Infrastructuring the Common Good](https://zenodo.org/records/22276836)
-
-This paper proposes decomputing as a programme for pushing back against
-such technocratic nihilism. Decomputing adopts a degrowth framework and
-advocates for reclaiming agency through deautomatisation and people’s
-councils, in order to develop convivial alternatives that centre an
-ethics of care. It is a philosophical and tactical response to the wider
-crisis of care induced by the collapse of existing systems.
-
-Decomputing proposes a prefigurative praxis for those experiencing
-ruptures in the infrastructures of everyday life, while minimising the
-opening for an authoritarian turn or war economy. Rather than
-capitulating to an increasingly fascistic world order, decomputing
-advocates a shift in the idea of order itself, one that means
-challenging the idea that ever more advanced tech is synonymous with
-progress.
-
-[activism](/tag/activism/) [ai](/tag/ai/) [computing](/tag/computing/) [coop](/tag/coop/) [politics](/tag/politics/)
-
-## 🔖 [Interview with Autistici/Inventati - A Network for Resistance](https://sabot.media/post/a-network-called-resistance)
-
-This interview was conducted in writing with Autistici/Inventati
-following its August 26, 2026 designation by the United States under
-Executive Order 13224.
-
-[activism](/tag/activism/) [censorship](/tag/censorship/) [interviews](/tag/interviews/) [politics](/tag/politics/)
-
-## 🔖 [Between Big Data and Obsolescence: Born-Digital Sources, Contemporary\ History, and the Politics of Access](https://www.ghi-dc.org/events/event/date/between-big-data-and-obsolescence-born-digital-sources-contemporary-history-and-the-politics-of-access)
-
-The conference aims to create a forum for sustained exchange between
-those who preserve born-digital materials and those who interpret them
-as historical sources. By bringing together archival, methodological,
-technical, and historiographical perspectives, we seek to ask not only
-how born-digital records can be saved, but also how they can be made
-meaningful for contemporary history. We especially welcome contributions
-that combine methodological reflection with concrete case studies,
-project presentations, or hands-on approaches.
-
-[conference](/tag/conference/) [history](/tag/history/) [preservation](/tag/preservation/)
-
-## 🔖 [Large-Language Models as a Cognitive Virus](https://arxiv.org/abs/2609.03344v1)
-
-Large-language models (LLMs) are rapidly becoming part of human culture,
-reshaping how information is produced, transmitted, and used. Here we
-propose that their diffusion can be understood through a viral analogy,
-with LLM use spreading through populations, becoming embedded in
-cognitive and cultural practices. We model transitions among uncoupled,
-coupled, and persistently dependent users, and show that the interplay
-between social transmission, recovery, and collective reinforcement can
-generate tipping points and technological lock-in. A central consequence
-is the possibility of runaway dynamics: once a critical threshold is
-crossed, small increases in adoption can trigger rapid population-level
-shifts toward persistent dependence, with abrupt losses in cognitive
-competence. The same framework, however, identifies conditions for
-cognitive immunization, based on reducing transmission and facilitating
-reversibility. Our results highlight how LLM adoption may involve
-nonlinear collective transitions with important consequences for
-cognitive autonomy.
-
-[knowledge](/tag/knowledge/) [llm](/tag/llm/) [virus](/tag/virus/)
-
-## 🔖 [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
-
-You should fully expect your writing to be run through Pangram. If your
-position is that we should be fine with an LLM crafting prose from your
-prompt, spare us all the wasted cycles and just give us your prompt. Or,
-better yet, consider doing what generations of writers have done before
-you, and treating that prompt as a skeleton that you use to write your
-piece yourself!
-
-[llm](/tag/llm/) [reading](/tag/reading/) [spam](/tag/spam/) [writing](/tag/writing/)</source:markdown>
-      <guid>cid://https://inkdroid.org/2026/09/13/bookmarks/</guid>
-      <category>activism</category>
-      <category>ai</category>
-      <category>audio</category>
-      <category>bookmarks</category>
-      <category>censorship</category>
-      <category>computing</category>
-      <category>conference</category>
-      <category>coop</category>
-      <category>graph</category>
-      <category>guix</category>
-      <category>history</category>
-      <category>interviews</category>
-      <category>knowledge</category>
-      <category>knowledge-base</category>
-      <category>knowledge-graph</category>
-      <category>llm</category>
-      <category>memory</category>
-      <category>networks</category>
-      <category>openai</category>
-      <category>operating-systems</category>
-      <category>p2p</category>
-      <category>permacomputing</category>
-      <category>politics</category>
-      <category>preservation</category>
-      <category>protocols</category>
-      <category>python</category>
-      <category>reading</category>
-      <category>ruby</category>
-      <category>science</category>
-      <category>search</category>
-      <category>security</category>
-      <category>spam</category>
-      <category>tv</category>
-      <category>virus</category>
-      <category>writing</category>
-    </item>    <item>
-      <title>September 12, 2026</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-12-2026</link>
-      <description>
-        <![CDATA[On Thursday, in The New Republic, conservative judge J.]]>
-      </description>
-      <source:markdown>On Thursday, in The New Republic, conservative judge J.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!yKDv!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b47f775-3df7-41dd-8bc9-a64cdd72d948_600x600.png" length="0" type="image/jpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-12-2026</guid>
     </item>
   </channel>
 </rss>

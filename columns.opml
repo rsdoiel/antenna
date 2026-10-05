@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>04 Oct 26 06:44 -0700</dateCreated>
+        <dateCreated>05 Oct 26 06:42 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -304,6 +304,7 @@
         <outline text="Pleiades STOA at hcommons.socal" type="rss" xmlUrl="https://hcommons.social/@pleiades_gazetteer.rss" htmlUrl="https://hcommons.social/@pleiades_gazetteer" description="Public posts from @pleiades_gazetteer@hcommons.social"></outline>
         <outline text="Pod Save America" type="rss" xmlUrl="https://crooked.com/podcast-series/pod-save-america/feed/" htmlUrl="https://www.crooked.com/podcast-series/pod-save-america/,https://crooked.com/podcast-series/pod-save-america/feed/" url="https://crooked.com/podcast-series/pod-save-america/feed/"></outline>
         <outline text="Pointers gone wild blog" type="rss" xmlUrl="https://pointersgonewild.com/rss.xml" htmlUrl="https://pointersgonewild.com/" description="Latest Posts from Pointers Gone Wild"></outline>
+        <outline text="Points in thw cloud blog" type="atom" xmlUrl="https://pointinthecloud.com/blog.xml" htmlUrl="https://pointinthecloud.com,https://pointinthecloud.com/blog.xml" description="Written by Colin" url="https://pointinthecloud.com/blog.xml"></outline>
         <outline text="Popular Information (Judd Legum)" type="rss" xmlUrl="https://popular.info/feed" htmlUrl="https://popular.info,https://popular.info/feed" description="Independent accountability journalism. " url="https://popular.info/feed"></outline>
         <outline text="Post-Platform Toolkit" type="rss" xmlUrl="https://toolkit.wellgedacht.org/feed.php" htmlUrl="https://toolkit.wellgedacht.org/"></outline>
         <outline text="Press Think" type="rss" xmlUrl="https://pressthink.org/feed/" htmlUrl="https://pressthink.org/,https://pressthink.org/feed/" description="PressThink, a project of the Arthur L. Carter Journalism Institute at New York University, is written by Jay Rosen." url="https://pressthink.org/feed/"></outline>
@@ -358,7 +359,7 @@
         <outline text="Stephen Smith&#39;s blog" type="rss" xmlUrl="https://smist08.wordpress.com/feed/" htmlUrl="https://smist08.wordpress.com,https://smist08.wordpress.com/feed/" description="Musings on Machine Learning..." url="https://smist08.wordpress.com/feed/"></outline>
         <outline text="Steve Francia (spf13) blog" type="rss" xmlUrl="https://spf13.com/index.xml" htmlUrl="https://spf13.com/,https://spf13.com/index.xml" description="Recent content on spf13" url="https://spf13.com/index.xml"></outline>
         <outline text="Steve Sounders blog" type="rss" xmlUrl="https://www.stevesouders.com/blog/feed/" htmlUrl="https://www.stevesouders.com/blog,https://www.stevesouders.com/blog/feed/" description="Essential knowledge for making your web pages faster." url="https://www.stevesouders.com/blog/feed/"></outline>
-        <outline text="Strength in Numbere" type="rss" xmlUrl="https://www.gelliottmorris.com/feed" htmlUrl="https://www.gelliottmorris.com,https://www.gelliottmorris.com/feed" description="Independent, data-driven analysis of politics, public opinion polls, and elections. From author, journalist, and pollster G. Elliott Morris." url="https://www.gelliottmorris.com/feed"></outline>
+        <outline text="Strength in Numbere" type="rss" xmlUrl="https://www.gelliottmorris.com/feed" htmlUrl="https://www.gelliottmorris.com,https://www.gelliottmorris.com/feed" description="A newsletter and podcast for independent, data-driven analysis of politics, public opinion, and elections. From author, journalist, and pollster G. Elliott Morris." url="https://www.gelliottmorris.com/feed"></outline>
         <outline text="Stu Maschwitz blog" type="rss" xmlUrl="https://prolost.com/blog?format=rss" htmlUrl="https://prolost.com/" description="&lt;p&gt;Filmmaking with your nerd out.&lt;/p&gt;"></outline>
         <outline text="Stubbornella Blog" type="rss" xmlUrl="https://www.stubbornella.org/feed/" htmlUrl="https://www.stubbornella.org,https://www.stubbornella.org/feed/" description="Nicole Sullivan" url="https://www.stubbornella.org/feed/"></outline>
         <outline text="Swiss Storage" type="rss" xmlUrl="https://storageswiss.com/feed/" htmlUrl="https://storageswiss.com,https://storageswiss.com/feed/" url="https://storageswiss.com/feed/"></outline>
