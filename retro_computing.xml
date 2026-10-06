@@ -4,10 +4,19 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>05 Oct 26 06:43 -0700</lastBuildDate>
-    <generator>antenna/0.0.26</generator>
+    <lastBuildDate>06 Oct 26 06:46 -0700</lastBuildDate>
+    <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Amcog posts teaser video for new Ghost Hunter game</title>
+      <link>http://www.iconbar.com/comments/rss/news2391.html</link>
+      <description>
+        <![CDATA[Amcog have been frantically working on their new Ghost Hunter game for the upcoming London Show.]]>
+      </description>
+      <source:markdown>Amcog have been frantically working on their new Ghost Hunter game for the upcoming London Show.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2391.html</guid>
+      <pubDate>Tue, 06 Oct 2026 08:01:00 +0000</pubDate>
+    </item>    <item>
       <title>WROCC October 2026 talk on Wednesday with Mark Moxon</title>
       <link>http://www.iconbar.com/comments/rss/news2377.html</link>
       <description>
@@ -15,6 +24,7 @@
       </description>
       <source:markdown>The October 2026 WROCC talk is on Wednesday 7th October and starts at 7.45pm on Zoom. This month Mark Moxon returns as our speaker</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2377.html</guid>
+      <pubDate>Mon, 05 Oct 2026 07:11:00 +0000</pubDate>
     </item>    <item>
       <title>Mark Moxon talks Elite, Revs, and more to WROCC – 7th October</title>
       <link>https://www.riscository.com/2026/wrocc-meeting-7th-october-mark-moxon/</link>
@@ -30,6 +40,7 @@
       <category>User Group</category>
       <category>Wakefield</category>
       <category>WROCC</category>
+      <pubDate>Sun, 04 Oct 2026 20:02:34 +0000</pubDate>
     </item>    <item>
       <title>Radio Bulletin articles OCR’ed and translated</title>
       <link>http://retro.hansotten.nl/radio-bulletin-articles-ocred-and-translated/</link>
@@ -40,6 +51,7 @@
       <guid>cid://http://retro.hansotten.nl/?p=22196</guid>
       <category>6502</category>
       <category>kim-1</category>
+      <pubDate>Sun, 04 Oct 2026 17:06:50 +0000</pubDate>
     </item>    <item>
       <title>b.log 2026/10/04 - Cockroaches, midiparse v1.00.</title>
       <link>https://heyrick.eu/blog/entry/20261004</link>
@@ -48,6 +60,7 @@
       </description>
       <source:markdown>Cockroaches, midiparse v1.00.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20261004</guid>
+      <pubDate>Sun, 04 Oct 2026 16:07:34 +0000</pubDate>
     </item>    <item>
       <title>b.log 2026/10/03 - Things better left unsaid, Listeria, Everything is an argument now.</title>
       <link>https://heyrick.eu/blog/entry/20261003</link>
@@ -56,6 +69,7 @@
       </description>
       <source:markdown>Things better left unsaid, Listeria, Everything is an argument now.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20261003</guid>
+      <pubDate>Sat, 03 Oct 2026 18:12:10 +0000</pubDate>
     </item>    <item>
       <title>RISC OS Open source developments weekly update (3rd October 2026)</title>
       <link>http://www.iconbar.com/comments/rss/news2387.html</link>
@@ -64,6 +78,7 @@
       </description>
       <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2387.html</guid>
+      <pubDate>Sat, 03 Oct 2026 09:02:00 +0000</pubDate>
     </item>    <item>
       <title>Meetings and events in October 2026</title>
       <link>https://www.riscository.com/2026/meetings-and-events-october-2026/</link>
@@ -75,6 +90,7 @@
       <category>User groups</category>
       <category>meetings</category>
       <category>Shows</category>
+      <pubDate>Fri, 02 Oct 2026 15:54:22 +0000</pubDate>
     </item>    <item>
       <title>Dutch Government Turns to Open Source for Digital Sovereignty</title>
       <link>http://www.linux-magazine.com/Online/News/Dutch-Government-Turns-to-Open-Source-for-Digital-Sovereignty</link>
@@ -84,6 +100,7 @@
       <source:markdown>Following in the footsteps of European countries, the Netherlands is looking to increase its sovereign digital infrastructure with open source software.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://15693011b13c58119a26a4b1476e16e9</guid>
+      <pubDate>Thu, 01 Oct 2026 16:33:16 +0000</pubDate>
     </item>    <item>
       <title>Cybersecurity: Rules, Enforcement and Quality</title>
       <link>https://paolozaino.wordpress.com/2026/10/01/cybersecurity-rules-enforcement-and-quality/</link>
@@ -110,6 +127,7 @@
       <category>Secure Software Development</category>
       <category>software</category>
       <category>technology</category>
+      <pubDate>Thu, 01 Oct 2026 16:14:54 +0000</pubDate>
     </item>    <item>
       <title>Help test the next FreeDOS distribution</title>
       <link>https://sourceforge.net/p/freedos/news/2026/10/help-test-the-next-freedos-distribution/</link>
@@ -118,6 +136,7 @@
       </description>
       <source:markdown>Please help us test the next version of FreeDOS! Thanks to Jerome, our distribution manager, we are able to share a new &#34;test&#34; distribution every month. These monthly releases collect all new changes, and act as a &#34;test bed&#34; to become the next official FreeDOS distribution, and we would like your help to test it. The new &#34;T2610&#34; (&#34;T&#34; for test, &#34;26&#34; for 2026, &#34;10&#34; for October) distribution includes updates to VSBHDA, SBEMU, Himem, TinyAsm, Blocek, Lynx, FDNPKG16, plus several new translations. Since August, we&#39;ve also included an updated kernel and other tools. [Download the test release](https://download.freedos.org/test/) and [let us know](https://www.freedos.org/bugs/) if you have any problems.</source:markdown>
       <guid>cid://https://sourceforge.netacc5c6aa44b009ee91203a90dea975d2954a8594</guid>
+      <pubDate>Thu, 01 Oct 2026 13:51:22 +0000</pubDate>
     </item>    <item>
       <title>b.log 2026/09/29 - Illness Redux, DeskLib madness.</title>
       <link>https://heyrick.eu/blog/entry/20260929</link>
@@ -126,6 +145,7 @@
       </description>
       <source:markdown>Illness Redux, DeskLib madness.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260929</guid>
+      <pubDate>Tue, 29 Sep 2026 19:30:41 +0000</pubDate>
     </item>    <item>
       <title>Linux May Soon Work on Snapdragon X2-Based PCs</title>
       <link>http://www.linux-magazine.com/Online/News/Linux-May-Soon-Work-on-Snapdragon-X2-Based-PCs</link>
@@ -135,6 +155,7 @@
       <source:markdown>If you&#39;re thinking about buying a Snapdragon X2-based desktop or laptop, Linux may soon be an option.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://ebaf25a4b6201f6bdf45359cbe021c91</guid>
+      <pubDate>Tue, 29 Sep 2026 18:49:32 +0000</pubDate>
     </item>    <item>
       <title>The 2026 London Show is less than 4 weeks away...</title>
       <link>http://www.iconbar.com/comments/rss/news2385.html</link>
@@ -143,6 +164,7 @@
       </description>
       <source:markdown>It&#39;s now less than 4 weeks to go until the next RISC OS Show.....</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2385.html</guid>
+      <pubDate>Mon, 28 Sep 2026 08:03:00 +0000</pubDate>
     </item>    <item>
       <title>Updated: FDNPKG16 ver. 0.99.8254f</title>
       <link>https://sourceforge.net/p/freedos/news/2026/09/fdnpkg16-ver-0998254e/</link>
@@ -154,6 +176,7 @@
 
 We announced the previous 0.99.8254e version a few days ago: &#34;Newest version released is a massive bug fix with the networking a bit&#34; and adds &#34;It just needs 640k of RAM with 480k of free RAM.&#34; You can find it at [FDNPKG16 on GitHub](https://github.com/sparky4/fdnpkg16) or more directly at the [ver. 0.99.8254e release](https://github.com/sparky4/fdnpkg16/releases/tag/0.99.8254e)</source:markdown>
       <guid>cid://https://sourceforge.net89e6e5efd72e38752a68e6987f11fe826cebadda</guid>
+      <pubDate>Sun, 27 Sep 2026 17:05:13 +0000</pubDate>
     </item>    <item>
       <title>RISC OS Open source developments weekly update (26th September 2026)</title>
       <link>http://www.iconbar.com/comments/rss/news2383.html</link>
@@ -162,6 +185,7 @@ We announced the previous 0.99.8254e version a few days ago: &#34;Newest version
       </description>
       <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2383.html</guid>
+      <pubDate>Sat, 26 Sep 2026 21:29:00 +0000</pubDate>
     </item>    <item>
       <title>b.log 2026/09/26 - Illness, EDF and the double failure, The Pope ought to shut up about things he doesn&#39;t understand, Why Does C# Sound Wrong?, The notes that aren&#39;t actually there.</title>
       <link>https://heyrick.eu/blog/entry/20260926</link>
@@ -170,6 +194,7 @@ We announced the previous 0.99.8254e version a few days ago: &#34;Newest version
       </description>
       <source:markdown>Illness, EDF and the double failure, The Pope ought to shut up about things he doesn&#39;t understand, Why Does C# Sound Wrong?, The notes that aren&#39;t actually there.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260926</guid>
+      <pubDate>Sat, 26 Sep 2026 17:23:14 +0000</pubDate>
     </item>    <item>
       <title>StrongED test release 4.70a22 now available</title>
       <link>https://www.riscository.com/2026/stronged-test-release-4-70a22/</link>
@@ -181,6 +206,7 @@ We announced the previous 0.99.8254e version a few days ago: &#34;Newest version
       <category>Software</category>
       <category>StrongED</category>
       <category>text editor</category>
+      <pubDate>Sat, 26 Sep 2026 12:53:06 +0000</pubDate>
     </item>    <item>
       <title>A mission statement from RISC OS Technologies</title>
       <link>https://www.riscository.com/2026/risc-os-technologies-mission-statement/</link>
@@ -193,6 +219,7 @@ We announced the previous 0.99.8254e version a few days ago: &#34;Newest version
       <category>AI</category>
       <category>RISC OS Technologies</category>
       <category>Vibe coding</category>
+      <pubDate>Sat, 26 Sep 2026 12:29:07 +0000</pubDate>
     </item>    <item>
       <title>KDE for People Initiative Calls for AI Ban in Plasma</title>
       <link>http://www.linux-magazine.com/Online/News/KDE-for-People-Initiative-Calls-for-AI-Ban-in-Plasma</link>
@@ -202,6 +229,7 @@ We announced the previous 0.99.8254e version a few days ago: &#34;Newest version
       <source:markdown>A new community of KDE wants the project to adopt a strict no-AI policy for KDE Plasma.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://dbbd66644b54e8999f391645cabc6d65</guid>
+      <pubDate>Fri, 25 Sep 2026 19:45:43 +0000</pubDate>
     </item>    <item>
       <title>This Week on The Analog Antiquarian</title>
       <link>https://www.filfre.net/2026/09/this-week-on-the-analog-antiquarian/</link>
@@ -211,6 +239,7 @@ We announced the previous 0.99.8254e version a few days ago: &#34;Newest version
       <source:markdown>The Tudor Queens Also, a little programming note: there will go one extra week between this article on The Analog Antiquarian and the next one on The Digital Antiquarian. Just the usual excuses: a holiday and a five-Friday month.</source:markdown>
       <guid>cid://https://www.filfre.net/?p=6961</guid>
       <category>Uncategorized</category>
+      <pubDate>Fri, 25 Sep 2026 14:02:16 +0000</pubDate>
     </item>    <item>
       <title>September 2026 News Summary</title>
       <link>http://www.iconbar.com/comments/rss/news2369.html</link>
@@ -219,6 +248,7 @@ We announced the previous 0.99.8254e version a few days ago: &#34;Newest version
       </description>
       <source:markdown>Some things we noticed this month. What did you see?</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2369.html</guid>
+      <pubDate>Fri, 25 Sep 2026 09:36:00 +0000</pubDate>
     </item>    <item>
       <title>Fireside developer chat on saturday night</title>
       <link>http://www.iconbar.com/comments/rss/news2356.html</link>
@@ -227,6 +257,7 @@ We announced the previous 0.99.8254e version a few days ago: &#34;Newest version
       </description>
       <source:markdown>As the nights start to draw in, it&#39;s time to light that fire. The next developer fireside chat is tomorrow night (26th September) for anyone interested in a very informal event online aimed at RISC OS developers of all levels.</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2356.html</guid>
+      <pubDate>Thu, 24 Sep 2026 06:59:00 +0000</pubDate>
     </item>    <item>
       <title>Out Now: Low-tech Magazine Volume IV</title>
       <link>https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/</link>
@@ -360,6 +391,7 @@ The book design is a collaborative effort by Laia Comellas, Marie Verdeil, and J
 Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette Demaret.</source:markdown>
       <enclosure url="https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/images/dithers/IMG_3962-contrast_dithered.png" length="49193" type="image/png" />
       <guid>cid://https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>    <item>
       <title>PiCMD is a brain transplant for Pi1541</title>
       <link>https://www.c64os.com/post/picmd</link>
@@ -370,6 +402,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       <author>gregorynacu@me.com (Gregory Nacu)</author>
       <guid>cid://https://www.c64os.com/post?p=137</guid>
       <category>Hardware</category>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>    <item>
       <title>KDE Sets Ambitious Goals for 2026 and Beyond</title>
       <link>http://www.linux-magazine.com/Online/News/KDE-Sets-Ambitious-Goals-for-2026-and-Beyond</link>
@@ -379,6 +412,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       <source:markdown>KDE Connect reveals the goals for the Linux desktop darling, with one of those goals long overdue.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://c862af911f49a8d0275b20e30cf832b8</guid>
+      <pubDate>Wed, 23 Sep 2026 20:28:15 +0000</pubDate>
     </item>    <item>
       <title>Developers’ fireside chat – 26th September</title>
       <link>https://www.riscository.com/2026/developers-fireside-chat-26th-september/</link>
@@ -391,6 +425,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       <category>Developing</category>
       <category>Fireside</category>
       <category>Meeting</category>
+      <pubDate>Wed, 23 Sep 2026 19:39:05 +0000</pubDate>
     </item>    <item>
       <title>The AI-Coded Rightwing Pipeline</title>
       <link>/posts/posts/the-ai-coded-right-wing-pipeline/</link>
@@ -399,6 +434,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       </description>
       <source:markdown>It is no surprise to anyone that knows me, that I am no fan of LLMs and the hype that follows them; in fact, most of the people who know me have accurately assumed that I’m not particularly enthusiastic without the need to even ask. I’m asked _why_ I dislike them, but never seem to be asked _whether_ I dislike them. My answer changes all of the time; I flip between criticising their environmental impact, their effect on capital allocation, the extreme labour theft, determinism, etc and avoid talking about the technology itself because debating whether a machine can autonomously do X or Y seems unimportant when it costs $20 million and burns though tons of natural gas in the process; It’s like a debate about the morality of soviet gulags focusing mostly on whether the food was good or not.</source:markdown>
       <guid>cid:///posts/the-ai-coded-right-wing-pipeline/</guid>
+      <pubDate>Wed, 23 Sep 2026 08:35:16 +0000</pubDate>
     </item>    <item>
       <title>Teach KIM to Sing</title>
       <link>http://retro.hansotten.nl/teach-kim-to-sing/</link>
@@ -409,6 +445,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       <guid>cid://http://retro.hansotten.nl/?p=22200</guid>
       <category>6502</category>
       <category>kim-1</category>
+      <pubDate>Tue, 22 Sep 2026 14:16:46 +0000</pubDate>
     </item>    <item>
       <title>AI &#38; Cybersecurity: Your AI Agent Is the Next Phishing Victim</title>
       <link>https://paolozaino.wordpress.com/2026/09/21/ai-cybersecurity-your-ai-agent-is-the-next-phishing-victim/</link>
@@ -454,6 +491,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       <category>understanding LLMs</category>
       <category>USENIX</category>
       <category>vibe-coding</category>
+      <pubDate>Mon, 21 Sep 2026 21:23:16 +0000</pubDate>
     </item>    <item>
       <title>Web home for RISC OS conversions of Code the Classics v2 games</title>
       <link>https://www.riscository.com/2026/code-the-classics-v2-risc-os-games-site/</link>
@@ -466,6 +504,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       <category>Code the Classics</category>
       <category>games</category>
       <category>itch.io</category>
+      <pubDate>Mon, 21 Sep 2026 18:37:02 +0000</pubDate>
     </item>    <item>
       <title>b.log 2026/09/20 - AI coding, Number conversions on Linux.</title>
       <link>https://heyrick.eu/blog/entry/20260920</link>
@@ -474,6 +513,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       </description>
       <source:markdown>AI coding, Number conversions on Linux.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260920</guid>
+      <pubDate>Sun, 20 Sep 2026 18:20:20 +0000</pubDate>
     </item>    <item>
       <title>b.log 2026/09/19 - Monday, Wednesday, Friday, Electricity bill?</title>
       <link>https://heyrick.eu/blog/entry/20260919</link>
@@ -482,6 +522,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       </description>
       <source:markdown>Monday, Wednesday, Friday, Electricity bill?</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260919</guid>
+      <pubDate>Sat, 19 Sep 2026 19:50:06 +0000</pubDate>
     </item>    <item>
       <title>RISC OS Open source developments weekly update (19th September 2026)</title>
       <link>http://www.iconbar.com/comments/rss/news2382.html</link>
@@ -490,6 +531,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       </description>
       <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2382.html</guid>
+      <pubDate>Sat, 19 Sep 2026 14:26:00 +0000</pubDate>
     </item>    <item>
       <title>ROUGOL revisits elite – now with two player split screen</title>
       <link>https://www.riscository.com/2026/rougol-elite-two-player-split-screen/</link>
@@ -503,6 +545,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       <category>London</category>
       <category>ROUGOL</category>
       <category>User Group</category>
+      <pubDate>Sat, 19 Sep 2026 11:54:24 +0000</pubDate>
     </item>    <item>
       <title>The Lamentable Later Life of Lemmings</title>
       <link>https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/</link>
@@ -516,6 +559,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       <category>lemmings</category>
       <category>psygnosis</category>
       <category>rockstar</category>
+      <pubDate>Fri, 18 Sep 2026 15:39:55 +0000</pubDate>
     </item>    <item>
       <title>RISC OS one publishes its mission statement</title>
       <link>http://www.iconbar.com/comments/rss/news2381.html</link>
@@ -524,6 +568,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       </description>
       <source:markdown>One of the really exciting things about RISC OS at the moment is the number of people looking to take RISC OS forward</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2381.html</guid>
+      <pubDate>Fri, 18 Sep 2026 13:14:00 +0000</pubDate>
     </item>    <item>
       <title>Rougol September 2026 meeting on monday</title>
       <link>http://www.iconbar.com/comments/rss/news2366.html</link>
@@ -532,6 +577,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       </description>
       <source:markdown>The September 2026 Rougol meeting is on Monday.</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2366.html</guid>
+      <pubDate>Fri, 18 Sep 2026 08:42:00 +0000</pubDate>
     </item>    <item>
       <title>It’s Time to Test Fedora 45 Beta</title>
       <link>http://www.linux-magazine.com/Online/News/It-s-Time-to-Test-Fedora-45-Beta</link>
@@ -541,6 +587,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       <source:markdown>Fedora 45 beta has been released with updated Gnome, KDE Plasma, and kernel.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://3267b3bfdf780f4e21ca39d0cc28d8c7</guid>
+      <pubDate>Thu, 17 Sep 2026 14:20:12 +0000</pubDate>
     </item>    <item>
       <title>Ubuntu Stonking Stingray Gets Even Rustier</title>
       <link>http://www.linux-magazine.com/Online/News/Ubuntu-Stonking-Stingray-Gets-Even-Rustier</link>
@@ -550,6 +597,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       <source:markdown>Ubuntu 26.10 has completed its migration to the Rust-based coreutils.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://2fe9ea0b9c2b980fdadd45e27a37be0a</guid>
+      <pubDate>Wed, 16 Sep 2026 13:56:32 +0000</pubDate>
     </item>    <item>
       <title>Archive Edition 28:03 reviewed</title>
       <link>http://www.iconbar.com/comments/rss/news2376.html</link>
@@ -558,36 +606,7 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       </description>
       <source:markdown>The PDF of Archive Magazine 28:03 has been mailed out and paper copies are in the post</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2376.html</guid>
-    </item>    <item>
-      <title>AMCOG unveiling Ghost Hunter at London 2026</title>
-      <link>https://www.riscository.com/2026/amcog-ghost-hunter-london-2026/</link>
-      <description>
-        <![CDATA[As the next RISC OS event looms &#8211; the London Show, which will take place on Saturday, 24th October &#8211; the first piece of show-related news has landed in the RISCOSitory inbox: AMCOG Games will be releasing a new arcade-style game at London, to be called Ghost Hunter. AMCOG&#8217;s Tony Bartram describes the game as &#8220;an evolution of the case study that is present in the AMCOG Development Kit&#8221; called Sparky, which he explains was always popular at computer shows. The objective in the game will be to light up&#8230;]]>
-      </description>
-      <source:markdown>As the next RISC OS event looms – the London Show, which will take place on Saturday, 24th October – the first piece of show-related news has landed in the RISCOSitory inbox: AMCOG Games will be releasing a new arcade-style game at London, to be called Ghost Hunter. AMCOG’s Tony Bartram describes the game as “an evolution of the case study that is present in the AMCOG Development Kit” called Sparky, which he explains was always popular at computer shows. The objective in the game will be to light up…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=11034</guid>
-      <category>Software</category>
-      <category>AMCOG</category>
-      <category>Game</category>
-      <category>Ghost Hunter</category>
-      <category>Show</category>
-    </item>    <item>
-      <title>RISC OS in video #01</title>
-      <link>https://www.riscository.com/2026/risc-os-in-video-01/</link>
-      <description>
-        <![CDATA[How about another new trial feature? There is a growing number of videos on YouTube that are either about RISC OS, mention it in some way, or at least may be of interest to its users. They may not be appearing with any great frequency, but more do appear online from time to time. So why not have an occasional post highlighting any such videos? Well, welcome to the first of those occasional posts! This feature won&#8217;t appear on a regular cycle. Instead, whenever a relevant video causes a bleep&#8230;]]>
-      </description>
-      <source:markdown>How about another new trial feature? There is a growing number of videos on YouTube that are either about RISC OS, mention it in some way, or at least may be of interest to its users. They may not be appearing with any great frequency, but more do appear online from time to time. So why not have an occasional post highlighting any such videos? Well, welcome to the first of those occasional posts! This feature won’t appear on a regular cycle. Instead, whenever a relevant video causes a bleep…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=11030</guid>
-      <category>Videos</category>
-    </item>    <item>
-      <title>Amcog targets London Show for new Ghost hunter game</title>
-      <link>http://www.iconbar.com/comments/rss/news2380.html</link>
-      <description>
-        <![CDATA[Amcog are working on a new game for the imminent London Show..]]>
-      </description>
-      <source:markdown>Amcog are working on a new game for the imminent London Show..</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2380.html</guid>
+      <pubDate>Wed, 16 Sep 2026 08:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

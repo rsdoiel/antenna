@@ -4,16 +4,113 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>05 Oct 26 06:45 -0700</lastBuildDate>
-    <generator>antenna/0.0.26</generator>
+    <lastBuildDate>06 Oct 26 06:48 -0700</lastBuildDate>
+    <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Powder by Walt Coburn</title>
+      <link>https://www.gutenberg.org/ebooks/79724</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 06 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>The treasury of David, Volume 2 (of 6), Psalm 27-57 : by C. H.  Spurgeon</title>
+      <link>https://www.gutenberg.org/ebooks/79727</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 06 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>Bartleby, the Scrivener: A Story of Wall-Street by Herman Melville</title>
+      <link>https://www.gutenberg.org/ebooks/11231</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 06 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>The Unbearable Bassington by Saki</title>
+      <link>https://www.gutenberg.org/ebooks/555</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 06 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>On the edge of a moor by Amy Le Feuvre</title>
+      <link>https://www.gutenberg.org/ebooks/79731</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 06 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>The National Gallery by Alice Corkran</title>
+      <link>https://www.gutenberg.org/ebooks/79730</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 06 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>Le cerf by Jean Giraudoux</title>
+      <link>https://www.gutenberg.org/ebooks/79732</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+      <pubDate>Tue, 06 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>The house of the Falcon by Harold Lamb</title>
+      <link>https://www.gutenberg.org/ebooks/79726</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 06 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>Pages mystiques by Séverine</title>
+      <link>https://www.gutenberg.org/ebooks/79733</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+      <pubDate>Tue, 06 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>La pór guarda la vinya : by Lleó Fontova</title>
+      <link>https://www.gutenberg.org/ebooks/79725</link>
+      <description>
+        <![CDATA[Language: Catalan]]>
+      </description>
+      <source:markdown>Language: Catalan</source:markdown>
+      <pubDate>Tue, 06 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>Maan suola : by Väinö Kolkkala</title>
+      <link>https://www.gutenberg.org/ebooks/79728</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+      <pubDate>Tue, 06 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>Naurun loppu : by Väinö Kolkkala</title>
+      <link>https://www.gutenberg.org/ebooks/79729</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+      <pubDate>Tue, 06 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
       <title>Emma by Jane Austen</title>
       <link>https://www.gutenberg.org/ebooks/158</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 05 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>New England&#39;s rural winter : by John Chick Murray</title>
       <link>https://www.gutenberg.org/ebooks/79713</link>
@@ -21,6 +118,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 05 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The justification of the good : by Vladimir Sergeyevich Solovyov</title>
       <link>https://www.gutenberg.org/ebooks/79715</link>
@@ -28,6 +126,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 05 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The Raven by Edgar Allan Poe</title>
       <link>https://www.gutenberg.org/ebooks/45484</link>
@@ -35,6 +134,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 05 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The treasury of David, Volume 1 (of 6) : by C. H.  Spurgeon</title>
       <link>https://www.gutenberg.org/ebooks/79723</link>
@@ -42,6 +142,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 05 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The Little Review, November 1917 (Vol. 4, No. 7) by Various</title>
       <link>https://www.gutenberg.org/ebooks/79714</link>
@@ -49,6 +150,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 05 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The lost dirigible by Ralph Henry Barbour</title>
       <link>https://www.gutenberg.org/ebooks/79722</link>
@@ -56,6 +158,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 05 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Kaunis Ambrosine : by Elinor Glyn</title>
       <link>https://www.gutenberg.org/ebooks/79718</link>
@@ -63,13 +166,7 @@
         <![CDATA[Language: Finnish]]>
       </description>
       <source:markdown>Language: Finnish</source:markdown>
-    </item>    <item>
-      <title>Powder by Walt Coburn</title>
-      <link>https://www.gutenberg.org/ebooks/79724</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 05 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The Nuttall encyclopædia : by P. Austin Nuttall</title>
       <link>https://www.gutenberg.org/ebooks/12342</link>
@@ -77,6 +174,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 05 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The Suppression of the African Slave Trade to the United States of America by W. E. B.  Du Bois</title>
       <link>https://www.gutenberg.org/ebooks/17700</link>
@@ -84,6 +182,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 05 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>China and the allies, vol. 1 (of 2) by Arnold Henry Savage Landor</title>
       <link>https://www.gutenberg.org/ebooks/79720</link>
@@ -91,6 +190,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 05 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Master in sail &#38; steam : by Charles S. Morgan</title>
       <link>https://www.gutenberg.org/ebooks/79717</link>
@@ -98,6 +198,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 05 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Toon van &#39;t Veer by Arie Cornelis Bos</title>
       <link>https://www.gutenberg.org/ebooks/79719</link>
@@ -105,6 +206,7 @@
         <![CDATA[Language: Dutch]]>
       </description>
       <source:markdown>Language: Dutch</source:markdown>
+      <pubDate>Mon, 05 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Le bienheureux Thomas More : by Henri Bremond</title>
       <link>https://www.gutenberg.org/ebooks/79721</link>
@@ -112,6 +214,7 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
+      <pubDate>Mon, 05 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Women&#39;s barracks by Tereska Torrès</title>
       <link>https://www.gutenberg.org/ebooks/79716</link>
@@ -119,6 +222,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 05 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Last years of Louis XV by Imbert de Saint-Amand</title>
       <link>https://www.gutenberg.org/ebooks/79712</link>
@@ -126,6 +230,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 04 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Twenty-five years as Bishop of London by Charles Herbert</title>
       <link>https://www.gutenberg.org/ebooks/79708</link>
@@ -133,6 +238,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 04 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The Republic by Plato</title>
       <link>https://www.gutenberg.org/ebooks/1497</link>
@@ -140,6 +246,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 04 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The heart of peace, and other poems by Laurence Housman</title>
       <link>https://www.gutenberg.org/ebooks/79709</link>
@@ -147,6 +254,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 04 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Voyages de Monsieur le chevalier Chardin en Perse et autres lieux de l&#39;Orient. by Sir John Chardin</title>
       <link>https://www.gutenberg.org/ebooks/79711</link>
@@ -154,6 +262,7 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
+      <pubDate>Sun, 04 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Auringon nousun maahan : by Heikki Toppila</title>
       <link>https://www.gutenberg.org/ebooks/79710</link>
@@ -161,6 +270,7 @@
         <![CDATA[Language: Finnish]]>
       </description>
       <source:markdown>Language: Finnish</source:markdown>
+      <pubDate>Sun, 04 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Bad girl by Viña Delmar</title>
       <link>https://www.gutenberg.org/ebooks/79694</link>
@@ -168,6 +278,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 03 Oct 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>George Washington by Woodrow Wilson</title>
       <link>https://www.gutenberg.org/ebooks/79698</link>
@@ -175,6 +286,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 03 Oct 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>Mauprat by George Sand</title>
       <link>https://www.gutenberg.org/ebooks/2194</link>
@@ -182,6 +294,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 03 Oct 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>Chambers&#39;s Journal of Popular Literature, Science, and Art, index for 1886</title>
       <link>https://www.gutenberg.org/ebooks/79705</link>
@@ -189,6 +302,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 03 Oct 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>The Antichrist by Friedrich Wilhelm Nietzsche</title>
       <link>https://www.gutenberg.org/ebooks/19322</link>
@@ -196,6 +310,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 03 Oct 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>Beyond Good and Evil by Friedrich Wilhelm Nietzsche</title>
       <link>https://www.gutenberg.org/ebooks/4363</link>
@@ -203,6 +318,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 03 Oct 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>Star Born by Andre Norton</title>
       <link>https://www.gutenberg.org/ebooks/18458</link>
@@ -210,6 +326,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 03 Oct 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>Arithmetical books : by Augustus De Morgan</title>
       <link>https://www.gutenberg.org/ebooks/79706</link>
@@ -217,6 +334,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 03 Oct 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>The slang brander by Ray Humphreys</title>
       <link>https://www.gutenberg.org/ebooks/79702</link>
@@ -224,6 +342,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 03 Oct 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>What made the pinto jump by Ray Humphreys</title>
       <link>https://www.gutenberg.org/ebooks/79703</link>
@@ -231,6 +350,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 03 Oct 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>The mountain man by Robert J. Horton</title>
       <link>https://www.gutenberg.org/ebooks/79704</link>
@@ -238,6 +358,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 03 Oct 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>Commentaires de Montluc, tome 4/4 by seigneur de Blaise Monluc</title>
       <link>https://www.gutenberg.org/ebooks/79707</link>
@@ -245,6 +366,7 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
+      <pubDate>Sat, 03 Oct 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>The life of Sethos, Vol. 1 (of 2) : by Jean Terrasson</title>
       <link>https://www.gutenberg.org/ebooks/79675</link>
@@ -252,6 +374,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 02 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The Eighteenth Brumaire of Louis Bonaparte by Karl Marx</title>
       <link>https://www.gutenberg.org/ebooks/1346</link>
@@ -259,6 +382,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 02 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The Narrative of Arthur Gordon Pym of Nantucket by Edgar Allan Poe</title>
       <link>https://www.gutenberg.org/ebooks/51060</link>
@@ -266,6 +390,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 02 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Thus Spake Zarathustra: A Book for All and None by Friedrich Wilhelm Nietzsche</title>
       <link>https://www.gutenberg.org/ebooks/1998</link>
@@ -273,6 +398,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 02 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>We are the dead by Henry Kuttner</title>
       <link>https://www.gutenberg.org/ebooks/79700</link>
@@ -280,6 +406,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 02 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The fortune-hunters, and other stories by Violet Jacob</title>
       <link>https://www.gutenberg.org/ebooks/79699</link>
@@ -287,6 +414,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 02 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Too many heroes by Ray Humphreys</title>
       <link>https://www.gutenberg.org/ebooks/79701</link>
@@ -294,6 +422,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 02 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Ecce Homo by Friedrich Wilhelm Nietzsche</title>
       <link>https://www.gutenberg.org/ebooks/52190</link>
@@ -301,6 +430,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 01 Oct 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Romanced to freedom by Murray Leinster</title>
       <link>https://www.gutenberg.org/ebooks/79690</link>
@@ -308,6 +438,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 01 Oct 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>The famous killer who— by Ray Humphreys</title>
       <link>https://www.gutenberg.org/ebooks/79692</link>
@@ -315,6 +446,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 01 Oct 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Rattling chains by Ray Humphreys</title>
       <link>https://www.gutenberg.org/ebooks/79689</link>
@@ -322,6 +454,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 01 Oct 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Shorty goes loco by Ray Humphreys</title>
       <link>https://www.gutenberg.org/ebooks/79691</link>
@@ -329,6 +462,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 01 Oct 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>&#34;Captains Courageous&#34;: A Story of the Grand Banks by Rudyard Kipling</title>
       <link>https://www.gutenberg.org/ebooks/2225</link>
@@ -336,6 +470,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 01 Oct 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>The Complete Poetical Works of Edgar Allan Poe by Edgar Allan Poe</title>
       <link>https://www.gutenberg.org/ebooks/10031</link>
@@ -343,6 +478,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 01 Oct 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Eureka: A Prose Poem by Edgar Allan Poe</title>
       <link>https://www.gutenberg.org/ebooks/32037</link>
@@ -350,6 +486,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 01 Oct 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>The Masque of the Red Death by Edgar Allan Poe</title>
       <link>https://www.gutenberg.org/ebooks/1064</link>
@@ -357,6 +494,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 01 Oct 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>The Raven by Edgar Allan Poe</title>
       <link>https://www.gutenberg.org/ebooks/1065</link>
@@ -364,6 +502,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 01 Oct 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>The mystery of Hoyle&#39;s Mouth : by Mary E.  Ropes</title>
       <link>https://www.gutenberg.org/ebooks/79697</link>
@@ -371,6 +510,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 01 Oct 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Strait is the gate (La porte étroite) by André Gide</title>
       <link>https://www.gutenberg.org/ebooks/79693</link>
@@ -378,6 +518,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 01 Oct 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Arte da grammatica da lingua do Brasil by Luis Figueira</title>
       <link>https://www.gutenberg.org/ebooks/79695</link>
@@ -385,6 +526,7 @@
         <![CDATA[Language: Portuguese]]>
       </description>
       <source:markdown>Language: Portuguese</source:markdown>
+      <pubDate>Thu, 01 Oct 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>The secret of The Sahara: Kufara by Rosita Forbes</title>
       <link>https://www.gutenberg.org/ebooks/79696</link>
@@ -392,6 +534,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 01 Oct 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Pride and Prejudice by Jane Austen</title>
       <link>https://www.gutenberg.org/ebooks/1342</link>
@@ -399,6 +542,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Sahara et Soudan, tome premier : by Gustav Nachtigal</title>
       <link>https://www.gutenberg.org/ebooks/79599</link>
@@ -406,6 +550,7 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
+      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Voyage du Bornou au Baguirmi by Gustav Nachtigal</title>
       <link>https://www.gutenberg.org/ebooks/79625</link>
@@ -413,6 +558,7 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
+      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Histoire de don Pèdre Ier, roi de Castille by Prosper Mérimée</title>
       <link>https://www.gutenberg.org/ebooks/79676</link>
@@ -420,6 +566,7 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
+      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The Cask of Amontillado by Edgar Allan Poe</title>
       <link>https://www.gutenberg.org/ebooks/1063</link>
@@ -427,6 +574,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The Fall of the House of Usher by Edgar Allan Poe</title>
       <link>https://www.gutenberg.org/ebooks/932</link>
@@ -434,6 +582,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>合錦回文傳 by Yu Li</title>
       <link>https://www.gutenberg.org/ebooks/25250</link>
@@ -441,6 +590,7 @@
         <![CDATA[Language: Chinese]]>
       </description>
       <source:markdown>Language: Chinese</source:markdown>
+      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The ego and the id by Sigmund Freud</title>
       <link>https://www.gutenberg.org/ebooks/79682</link>
@@ -448,6 +598,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Childhood by Alice Meynell</title>
       <link>https://www.gutenberg.org/ebooks/79680</link>
@@ -455,6 +606,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Brains—but scrambled by Ray Humphreys</title>
       <link>https://www.gutenberg.org/ebooks/79685</link>
@@ -462,6 +614,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The hour before the dawn : by Josephine Elizabeth Grey Butler</title>
       <link>https://www.gutenberg.org/ebooks/79681</link>
@@ -469,6 +622,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The lake of life by Edmond Hamilton</title>
       <link>https://www.gutenberg.org/ebooks/79677</link>
@@ -476,6 +630,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>A bear-raising ride by Ray Humphreys</title>
       <link>https://www.gutenberg.org/ebooks/79684</link>
@@ -483,6 +638,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Les grandes enquêtes de Mega Sulvan by Emmanuel Bourcier</title>
       <link>https://www.gutenberg.org/ebooks/79688</link>
@@ -490,6 +646,7 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
+      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Landesverein Sächsischer Heimatschutz — Mitteilungen Band XVII, Heft 3–4 :</title>
       <link>https://www.gutenberg.org/ebooks/79679</link>
@@ -497,6 +654,7 @@
         <![CDATA[Language: German]]>
       </description>
       <source:markdown>Language: German</source:markdown>
+      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Lehrbuch der Protozoenkunde : by Franz Doflein</title>
       <link>https://www.gutenberg.org/ebooks/79674</link>
@@ -504,6 +662,7 @@
         <![CDATA[Language: German]]>
       </description>
       <source:markdown>Language: German</source:markdown>
+      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>He would be a hero by Ray Humphreys</title>
       <link>https://www.gutenberg.org/ebooks/79686</link>
@@ -511,6 +670,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Never saner by Ray Humphreys</title>
       <link>https://www.gutenberg.org/ebooks/79687</link>
@@ -518,6 +678,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The last woman by Thomas S.  Gardner</title>
       <link>https://www.gutenberg.org/ebooks/79678</link>
@@ -525,6 +686,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Così parlarono due imbecilli by Luigi Lucatelli</title>
       <link>https://www.gutenberg.org/ebooks/79683</link>
@@ -532,6 +694,7 @@
         <![CDATA[Language: Italian]]>
       </description>
       <source:markdown>Language: Italian</source:markdown>
+      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Bevis: The Story of a Boy by Richard Jefferies</title>
       <link>https://www.gutenberg.org/ebooks/35930</link>
@@ -539,6 +702,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
     </item>    <item>
       <title>Als ich noch der Waldbauernbub war. Band 3 by Peter Rosegger</title>
       <link>https://www.gutenberg.org/ebooks/79665</link>
@@ -546,6 +710,7 @@
         <![CDATA[Language: German]]>
       </description>
       <source:markdown>Language: German</source:markdown>
+      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
     </item>    <item>
       <title>Connie Morgan with the Mounted by James B.  Hendryx</title>
       <link>https://www.gutenberg.org/ebooks/79664</link>
@@ -553,6 +718,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
     </item>    <item>
       <title>Hamlet by William Shakespeare</title>
       <link>https://www.gutenberg.org/ebooks/9077</link>
@@ -560,6 +726,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
     </item>    <item>
       <title>The Last Trail by Zane Grey</title>
       <link>https://www.gutenberg.org/ebooks/9932</link>
@@ -567,6 +734,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
     </item>    <item>
       <title>The Kama Sutra of Vatsyayana by Vatsyayana</title>
       <link>https://www.gutenberg.org/ebooks/27827</link>
@@ -574,6 +742,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
     </item>    <item>
       <title>Ganymede House by Donald A. Wollheim</title>
       <link>https://www.gutenberg.org/ebooks/79667</link>
@@ -581,6 +750,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
     </item>    <item>
       <title>Mrs. Martin&#39;s company : by Jane Barlow</title>
       <link>https://www.gutenberg.org/ebooks/79670</link>
@@ -588,6 +758,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
     </item>    <item>
       <title>The Misplaced Battleship by Harry Harrison</title>
       <link>https://www.gutenberg.org/ebooks/22541</link>
@@ -595,6 +766,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
     </item>    <item>
       <title>Dangling doom by W. C.  Tuttle</title>
       <link>https://www.gutenberg.org/ebooks/79673</link>
@@ -602,6 +774,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
     </item>    <item>
       <title>Darkwater: Voices from Within the Veil by W. E. B.  Du Bois</title>
       <link>https://www.gutenberg.org/ebooks/15210</link>
@@ -609,6 +782,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
     </item>    <item>
       <title>The neurotic rose by Homer Nearing</title>
       <link>https://www.gutenberg.org/ebooks/79668</link>
@@ -616,6 +790,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
     </item>    <item>
       <title>The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African by Equiano</title>
       <link>https://www.gutenberg.org/ebooks/15399</link>
@@ -623,6 +798,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
     </item>    <item>
       <title>Alberuni&#39;s India (Volume 1 of 2) : by Alberuni</title>
       <link>https://www.gutenberg.org/ebooks/79672</link>
@@ -630,6 +806,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
     </item>    <item>
       <title>Alias Napoleon by John Jakes</title>
       <link>https://www.gutenberg.org/ebooks/79669</link>
@@ -637,6 +814,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
     </item>    <item>
       <title>The Crookshaven murder by Alexander Morrison</title>
       <link>https://www.gutenberg.org/ebooks/79666</link>
@@ -644,6 +822,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
     </item>    <item>
       <title>La fada : by Jaime Massó Torrents</title>
       <link>https://www.gutenberg.org/ebooks/79671</link>
@@ -651,6 +830,7 @@
         <![CDATA[Language: Catalan]]>
       </description>
       <source:markdown>Language: Catalan</source:markdown>
+      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
     </item>    <item>
       <title>Les travailleurs de la mer - tome 1 by Victor Hugo</title>
       <link>https://www.gutenberg.org/ebooks/79493</link>
@@ -658,6 +838,7 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
+      <pubDate>Mon, 28 Sep 2026 09:51:27 +0000</pubDate>
     </item>    <item>
       <title>The fourth plague by Edgar Wallace</title>
       <link>https://www.gutenberg.org/ebooks/79658</link>
@@ -665,6 +846,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 28 Sep 2026 09:51:27 +0000</pubDate>
     </item>    <item>
       <title>Voyages and travels of Marco Polo by Marco Polo</title>
       <link>https://www.gutenberg.org/ebooks/79661</link>
@@ -672,6 +854,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 28 Sep 2026 09:51:27 +0000</pubDate>
     </item>    <item>
       <title>Slang and its analogues past and present, volume 4 [of 7] : by Farmer and Henley</title>
       <link>https://www.gutenberg.org/ebooks/79663</link>
@@ -679,6 +862,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 28 Sep 2026 09:51:27 +0000</pubDate>
     </item>    <item>
       <title>The gist of Burton&#39;s Anatomy of melancholy by Charles Joseph Finger</title>
       <link>https://www.gutenberg.org/ebooks/79662</link>
@@ -686,6 +870,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 28 Sep 2026 09:51:27 +0000</pubDate>
     </item>    <item>
       <title>Les travailleurs de la mer - tome 2 by Victor Hugo</title>
       <link>https://www.gutenberg.org/ebooks/79659</link>
@@ -693,6 +878,7 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
+      <pubDate>Mon, 28 Sep 2026 09:51:27 +0000</pubDate>
     </item>    <item>
       <title>60 years of best sellers, 1895-1955 by Alice Payne Hackett</title>
       <link>https://www.gutenberg.org/ebooks/79660</link>
@@ -700,6 +886,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 28 Sep 2026 09:51:27 +0000</pubDate>
     </item>    <item>
       <title>Work, wait, win by Ruth Lamb</title>
       <link>https://www.gutenberg.org/ebooks/79593</link>
@@ -707,6 +894,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 27 Sep 2026 09:51:29 +0000</pubDate>
     </item>    <item>
       <title>Primitive art by Franz Boas</title>
       <link>https://www.gutenberg.org/ebooks/77834</link>
@@ -714,6 +902,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 27 Sep 2026 09:51:29 +0000</pubDate>
     </item>    <item>
       <title>Die Leiden des jungen Werther — Band 1 by Johann Wolfgang von Goethe</title>
       <link>https://www.gutenberg.org/ebooks/2407</link>
@@ -721,6 +910,7 @@
         <![CDATA[Language: German]]>
       </description>
       <source:markdown>Language: German</source:markdown>
+      <pubDate>Sun, 27 Sep 2026 09:51:29 +0000</pubDate>
     </item>    <item>
       <title>Divine Comedy, Longfellow&#39;s Translation, Purgatory by Dante Alighieri</title>
       <link>https://www.gutenberg.org/ebooks/1002</link>
@@ -728,6 +918,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 27 Sep 2026 09:51:29 +0000</pubDate>
     </item>    <item>
       <title>L&#39;homme stupide by Charles Richet</title>
       <link>https://www.gutenberg.org/ebooks/79657</link>
@@ -735,6 +926,7 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
+      <pubDate>Sun, 27 Sep 2026 09:51:29 +0000</pubDate>
     </item>    <item>
       <title>Penrod by Booth Tarkington</title>
       <link>https://www.gutenberg.org/ebooks/402</link>
@@ -742,6 +934,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 27 Sep 2026 09:51:29 +0000</pubDate>
     </item>    <item>
       <title>A Set of Six by Joseph Conrad</title>
       <link>https://www.gutenberg.org/ebooks/2305</link>
@@ -749,6 +942,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 27 Sep 2026 09:51:29 +0000</pubDate>
     </item>    <item>
       <title>Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone by Sophocles</title>
       <link>https://www.gutenberg.org/ebooks/31</link>
@@ -756,6 +950,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 27 Sep 2026 09:51:29 +0000</pubDate>
     </item>    <item>
       <title>The Souls of Black Folk by W. E. B.  Du Bois</title>
       <link>https://www.gutenberg.org/ebooks/408</link>
@@ -763,6 +958,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 27 Sep 2026 09:51:29 +0000</pubDate>
     </item>    <item>
       <title>All&#39;s fair by Ray Humphreys</title>
       <link>https://www.gutenberg.org/ebooks/79652</link>
@@ -770,6 +966,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 26 Sep 2026 09:51:28 +0000</pubDate>
     </item>    <item>
       <title>A minute to think by Ray Humphreys</title>
       <link>https://www.gutenberg.org/ebooks/79649</link>
@@ -777,6 +974,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 26 Sep 2026 09:51:28 +0000</pubDate>
     </item>    <item>
       <title>Le voyage de Nachtigal au Ouadaï by Gustav Nachtigal</title>
       <link>https://www.gutenberg.org/ebooks/79651</link>
@@ -784,6 +982,7 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
+      <pubDate>Sat, 26 Sep 2026 09:51:28 +0000</pubDate>
     </item>    <item>
       <title>Along the Hudson with Washington Irving by Wallace Bruce</title>
       <link>https://www.gutenberg.org/ebooks/79653</link>
@@ -791,6 +990,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 26 Sep 2026 09:51:28 +0000</pubDate>
     </item>    <item>
       <title>Connie Morgan in the cattle country by James B.  Hendryx</title>
       <link>https://www.gutenberg.org/ebooks/79655</link>
@@ -798,6 +998,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 26 Sep 2026 09:51:28 +0000</pubDate>
     </item>    <item>
       <title>Race and reason : by Carleton Putnam</title>
       <link>https://www.gutenberg.org/ebooks/79654</link>
@@ -805,6 +1006,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 26 Sep 2026 09:51:28 +0000</pubDate>
     </item>    <item>
       <title>The best short stories of 1916, and the yearbook of the American short story</title>
       <link>https://www.gutenberg.org/ebooks/79656</link>
@@ -812,6 +1014,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 26 Sep 2026 09:51:28 +0000</pubDate>
     </item>    <item>
       <title>Historia geral da invasão dos francezes em Portugal e da restauração deste reino (Volume IV)</title>
       <link>https://www.gutenberg.org/ebooks/79650</link>
@@ -819,6 +1022,7 @@
         <![CDATA[Language: Portuguese]]>
       </description>
       <source:markdown>Language: Portuguese</source:markdown>
+      <pubDate>Sat, 26 Sep 2026 09:51:28 +0000</pubDate>
     </item>    <item>
       <title>King Arthur and the Knights of the Round Table by Sir Thomas Malory</title>
       <link>https://www.gutenberg.org/ebooks/36462</link>
@@ -826,6 +1030,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 25 Sep 2026 09:51:28 +0000</pubDate>
     </item>    <item>
       <title>The invisible enemy by Jerry Sohl</title>
       <link>https://www.gutenberg.org/ebooks/79645</link>
@@ -833,6 +1038,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 25 Sep 2026 09:51:28 +0000</pubDate>
     </item>    <item>
       <title>Memoirs of Fanny Hill by John Cleland</title>
       <link>https://www.gutenberg.org/ebooks/25305</link>
@@ -840,6 +1046,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 25 Sep 2026 09:51:28 +0000</pubDate>
     </item>    <item>
       <title>Uncle&#39;s Dream; and The Permanent Husband by Fyodor Dostoyevsky</title>
       <link>https://www.gutenberg.org/ebooks/38241</link>
@@ -847,6 +1054,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 25 Sep 2026 09:51:28 +0000</pubDate>
     </item>    <item>
       <title>The wisdom of Father Brown by G. K.  Chesterton</title>
       <link>https://www.gutenberg.org/ebooks/223</link>
@@ -854,6 +1062,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 25 Sep 2026 09:51:28 +0000</pubDate>
     </item>    <item>
       <title>About Zionism : by Albert Einstein</title>
       <link>https://www.gutenberg.org/ebooks/79647</link>
@@ -861,6 +1070,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 25 Sep 2026 09:51:28 +0000</pubDate>
     </item>    <item>
       <title>Democracy and leadership by Irving Babbitt</title>
       <link>https://www.gutenberg.org/ebooks/79644</link>
@@ -868,6 +1078,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 25 Sep 2026 09:51:28 +0000</pubDate>
     </item>    <item>
       <title>Underestimation by Jerome Bixby and Algis Budrys</title>
       <link>https://www.gutenberg.org/ebooks/79646</link>
@@ -875,6 +1086,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 25 Sep 2026 09:51:28 +0000</pubDate>
     </item>    <item>
       <title>Every woman her own midwife : by Anonymous</title>
       <link>https://www.gutenberg.org/ebooks/79648</link>
@@ -882,6 +1094,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 25 Sep 2026 09:51:28 +0000</pubDate>
     </item>    <item>
       <title>Short Stories by Fyodor Dostoyevsky</title>
       <link>https://www.gutenberg.org/ebooks/40745</link>
@@ -889,6 +1102,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 25 Sep 2026 09:51:28 +0000</pubDate>
     </item>    <item>
       <title>The origin of the family, private property, and the state by Friedrich Engels</title>
       <link>https://www.gutenberg.org/ebooks/33111</link>
@@ -896,6 +1110,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 24 Sep 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>Mr. Mulliner speaking by P. G.  Wodehouse</title>
       <link>https://www.gutenberg.org/ebooks/79636</link>
@@ -903,6 +1118,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 24 Sep 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>What the butler winked at : by Eric Horne</title>
       <link>https://www.gutenberg.org/ebooks/79637</link>
@@ -910,6 +1126,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 24 Sep 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>Silver Bird&#39;s flight by Gordon Stiles</title>
       <link>https://www.gutenberg.org/ebooks/79642</link>
@@ -917,6 +1134,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 24 Sep 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>Some town by Ray Humphreys</title>
       <link>https://www.gutenberg.org/ebooks/79643</link>
@@ -924,6 +1142,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 24 Sep 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>La chienne by Georges de la Fouchardière</title>
       <link>https://www.gutenberg.org/ebooks/79639</link>
@@ -931,6 +1150,7 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
+      <pubDate>Thu, 24 Sep 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>I, the vampire by Henry Kuttner</title>
       <link>https://www.gutenberg.org/ebooks/79638</link>
@@ -938,6 +1158,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 24 Sep 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>It walks by night by Henry Kuttner</title>
       <link>https://www.gutenberg.org/ebooks/79641</link>
@@ -945,6 +1166,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 24 Sep 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>Myra Sherwood&#39;s cross : by Lucy Ellen Guernsey</title>
       <link>https://www.gutenberg.org/ebooks/79640</link>
@@ -952,6 +1174,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 24 Sep 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>A Journey into the Interior of the Earth by Jules Verne</title>
       <link>https://www.gutenberg.org/ebooks/3748</link>
@@ -959,6 +1182,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 23 Sep 2026 09:51:24 +0000</pubDate>
     </item>    <item>
       <title>In the town : by Douglas Goldring</title>
       <link>https://www.gutenberg.org/ebooks/79630</link>
@@ -966,6 +1190,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 23 Sep 2026 09:51:24 +0000</pubDate>
     </item>    <item>
       <title>A history of the American people, Vol. 4 [of 5] : by Woodrow Wilson</title>
       <link>https://www.gutenberg.org/ebooks/79629</link>
@@ -973,6 +1198,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 23 Sep 2026 09:51:24 +0000</pubDate>
     </item>    <item>
       <title>A six-hour shift by William McFee</title>
       <link>https://www.gutenberg.org/ebooks/79633</link>
@@ -980,6 +1206,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 23 Sep 2026 09:51:24 +0000</pubDate>
     </item>    <item>
       <title>A history of the American people, Vol. 5 [of 5] : by Woodrow Wilson</title>
       <link>https://www.gutenberg.org/ebooks/79634</link>
@@ -987,6 +1214,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 23 Sep 2026 09:51:24 +0000</pubDate>
     </item>    <item>
       <title>Psycho-analysis : by William J.  Fielding</title>
       <link>https://www.gutenberg.org/ebooks/79631</link>
@@ -994,6 +1222,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 23 Sep 2026 09:51:24 +0000</pubDate>
     </item>    <item>
       <title>Space rays by Jr.  John W. Campbell</title>
       <link>https://www.gutenberg.org/ebooks/79635</link>
@@ -1001,6 +1230,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 23 Sep 2026 09:51:24 +0000</pubDate>
     </item>    <item>
       <title>Le collier d&#39;acier by Fortuné Du Boisgobey</title>
       <link>https://www.gutenberg.org/ebooks/79632</link>
@@ -1008,6 +1238,7 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
+      <pubDate>Wed, 23 Sep 2026 09:51:24 +0000</pubDate>
     </item>    <item>
       <title>Notes from the Underground by Fyodor Dostoyevsky</title>
       <link>https://www.gutenberg.org/ebooks/600</link>
@@ -1015,6 +1246,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>The Grand Inquisitor by Fyodor Dostoyevsky</title>
       <link>https://www.gutenberg.org/ebooks/8578</link>
@@ -1022,6 +1254,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Crime and Punishment by Fyodor Dostoyevsky</title>
       <link>https://www.gutenberg.org/ebooks/2554</link>
@@ -1029,6 +1262,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>The possessed : by Fyodor Dostoyevsky</title>
       <link>https://www.gutenberg.org/ebooks/8117</link>
@@ -1036,6 +1270,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>The Idiot by Fyodor Dostoyevsky</title>
       <link>https://www.gutenberg.org/ebooks/2638</link>
@@ -1043,6 +1278,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>The Gambler by Fyodor Dostoyevsky</title>
       <link>https://www.gutenberg.org/ebooks/2197</link>
@@ -1050,6 +1286,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Poor Folk by Fyodor Dostoyevsky</title>
       <link>https://www.gutenberg.org/ebooks/2302</link>
@@ -1057,6 +1294,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Neptune speaks by Frank Richardson Pierce</title>
       <link>https://www.gutenberg.org/ebooks/79623</link>
@@ -1064,6 +1302,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>The Murder of Delicia</title>
       <link>https://www.gutenberg.org/ebooks/53097</link>
@@ -1071,6 +1310,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Narrative of the surveying voyages of His Majesty&#39;s Ships Adventure and Beagle, Vol. 3 [of 3]</title>
       <link>https://www.gutenberg.org/ebooks/79628</link>
@@ -1078,6 +1318,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Poems by Elizabeth Bibesco</title>
       <link>https://www.gutenberg.org/ebooks/79624</link>
@@ -1085,6 +1326,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>The confessions of a dancing girl by Anonymous</title>
       <link>https://www.gutenberg.org/ebooks/79627</link>
@@ -1092,6 +1334,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>A social mirage by Mrs. Frank Leslie</title>
       <link>https://www.gutenberg.org/ebooks/79626</link>
@@ -1099,6 +1342,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Woman in music by George P.  Upton</title>
       <link>https://www.gutenberg.org/ebooks/79613</link>
@@ -1106,6 +1350,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
     </item>    <item>
       <title>The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Volume 01: Childhood by Giacomo Casanova</title>
       <link>https://www.gutenberg.org/ebooks/2951</link>
@@ -1113,6 +1358,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
     </item>    <item>
       <title>Tama of the light country by Ray Cummings</title>
       <link>https://www.gutenberg.org/ebooks/79620</link>
@@ -1120,6 +1366,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
     </item>    <item>
       <title>The poetical works of Anna Seward, Vol. 1 [of 3] by Anna Seward</title>
       <link>https://www.gutenberg.org/ebooks/79615</link>
@@ -1127,6 +1374,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
     </item>    <item>
       <title>The poetical works of Anna Seward, Vol. 2 [of 3] by Anna Seward</title>
       <link>https://www.gutenberg.org/ebooks/79616</link>
@@ -1134,6 +1382,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
     </item>    <item>
       <title>The poetical works of Anna Seward, Vol. 3 [of 3] by Anna Seward</title>
       <link>https://www.gutenberg.org/ebooks/79617</link>
@@ -1141,6 +1390,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
     </item>    <item>
       <title>Histoire maccaronique de Merlin Coccaie [pseudonym] : by Teofilo Folengo</title>
       <link>https://www.gutenberg.org/ebooks/79618</link>
@@ -1148,6 +1398,7 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
+      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
     </item>    <item>
       <title>Grimms&#39; Fairy Tales by Jacob Grimm and Wilhelm Grimm</title>
       <link>https://www.gutenberg.org/ebooks/2591</link>
@@ -1155,6 +1406,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
     </item>    <item>
       <title>Hanne Nüte en de kleine Poedel by Fritz Reuter</title>
       <link>https://www.gutenberg.org/ebooks/79614</link>
@@ -1162,6 +1414,7 @@
         <![CDATA[Language: Dutch]]>
       </description>
       <source:markdown>Language: Dutch</source:markdown>
+      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
     </item>    <item>
       <title>Paddenstoelen by Jac. P.  Thijsse</title>
       <link>https://www.gutenberg.org/ebooks/79622</link>
@@ -1169,6 +1422,7 @@
         <![CDATA[Language: Dutch]]>
       </description>
       <source:markdown>Language: Dutch</source:markdown>
+      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
     </item>    <item>
       <title>Historia geral da invasão dos francezes em Portugal e da restauração deste reino (Volume II)</title>
       <link>https://www.gutenberg.org/ebooks/79619</link>
@@ -1176,6 +1430,7 @@
         <![CDATA[Language: Portuguese]]>
       </description>
       <source:markdown>Language: Portuguese</source:markdown>
+      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
     </item>    <item>
       <title>The sewing circle meets at Mrs. Martin&#39;s : by F. M. Kelly</title>
       <link>https://www.gutenberg.org/ebooks/79621</link>
@@ -1183,6 +1438,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
     </item>    <item>
       <title>Our money and the state by Hartley Withers</title>
       <link>https://www.gutenberg.org/ebooks/79609</link>
@@ -1190,6 +1446,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 20 Sep 2026 09:51:24 +0000</pubDate>
     </item>    <item>
       <title>In case of fire by Walter Kellogg Towers</title>
       <link>https://www.gutenberg.org/ebooks/79612</link>
@@ -1197,6 +1454,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 20 Sep 2026 09:51:24 +0000</pubDate>
     </item>    <item>
       <title>Lord Lister No. 0352: De witte terreur by Theo von Blankensee and Felix  Hageman and Kurt Matull</title>
       <link>https://www.gutenberg.org/ebooks/79611</link>
@@ -1204,6 +1462,7 @@
         <![CDATA[Language: Dutch]]>
       </description>
       <source:markdown>Language: Dutch</source:markdown>
+      <pubDate>Sun, 20 Sep 2026 09:51:24 +0000</pubDate>
     </item>    <item>
       <title>History of Unity, Maine by James R. Taber</title>
       <link>https://www.gutenberg.org/ebooks/79610</link>
@@ -1211,6 +1470,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 20 Sep 2026 09:51:24 +0000</pubDate>
     </item>    <item>
       <title>Squee by Margaret St. Clair</title>
       <link>https://www.gutenberg.org/ebooks/79539</link>
@@ -1218,6 +1478,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 19 Sep 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>Goldsmith&#39;s essays by Oliver Goldsmith</title>
       <link>https://www.gutenberg.org/ebooks/79560</link>
@@ -1225,6 +1486,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 19 Sep 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>The Brothers Karamazov by Fyodor Dostoyevsky</title>
       <link>https://www.gutenberg.org/ebooks/28054</link>
@@ -1232,6 +1494,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 19 Sep 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>White nights, and other stories by Fyodor Dostoyevsky</title>
       <link>https://www.gutenberg.org/ebooks/36034</link>
@@ -1239,6 +1502,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 19 Sep 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>Alice Meynell by Alice Meynell</title>
       <link>https://www.gutenberg.org/ebooks/79607</link>
@@ -1246,6 +1510,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 19 Sep 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>The last poems of Alice Meynell by Alice Meynell</title>
       <link>https://www.gutenberg.org/ebooks/79606</link>
@@ -1253,6 +1518,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 19 Sep 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>The spoiled Buddha : by Helen Waddell</title>
       <link>https://www.gutenberg.org/ebooks/79608</link>
@@ -1260,6 +1526,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 19 Sep 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>The work of the Afro-American woman by Mrs. N. F. Mossell</title>
       <link>https://www.gutenberg.org/ebooks/79604</link>
@@ -1267,6 +1534,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 19 Sep 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>Entstehung des Deutschen Königthums by Heinrich von Sybel</title>
       <link>https://www.gutenberg.org/ebooks/79605</link>
@@ -1274,6 +1542,7 @@
         <![CDATA[Language: German]]>
       </description>
       <source:markdown>Language: German</source:markdown>
+      <pubDate>Sat, 19 Sep 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>The ghost of Gamblin&#39; Dan by James W.  Egan</title>
       <link>https://www.gutenberg.org/ebooks/79602</link>
@@ -1281,6 +1550,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 18 Sep 2026 09:51:20 +0000</pubDate>
     </item>    <item>
       <title>Intellectual things by Stanley Kunitz</title>
       <link>https://www.gutenberg.org/ebooks/79603</link>
@@ -1288,6 +1558,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 18 Sep 2026 09:51:20 +0000</pubDate>
     </item>    <item>
       <title>Barnaby Rudge: A Tale of the Riots of &#39;Eighty by Charles Dickens</title>
       <link>https://www.gutenberg.org/ebooks/917</link>
@@ -1295,6 +1566,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 18 Sep 2026 09:51:20 +0000</pubDate>
     </item>    <item>
       <title>Rivals of the clouds by Raoul Whitfield</title>
       <link>https://www.gutenberg.org/ebooks/73987</link>
@@ -1302,6 +1574,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 18 Sep 2026 09:51:20 +0000</pubDate>
     </item>    <item>
       <title>Project Gutenberg (1971-2005) by Marie Lebert</title>
       <link>https://www.gutenberg.org/ebooks/27039</link>
@@ -1309,6 +1582,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 18 Sep 2026 09:51:20 +0000</pubDate>
     </item>    <item>
       <title>Le Projet Gutenberg (1971-2005) by Marie Lebert</title>
       <link>https://www.gutenberg.org/ebooks/27040</link>
@@ -1316,6 +1590,7 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
+      <pubDate>Fri, 18 Sep 2026 09:51:20 +0000</pubDate>
     </item>    <item>
       <title>My Life and Loves, Vol. 1 (of 4) by Frank Harris</title>
       <link>https://www.gutenberg.org/ebooks/59827</link>
@@ -1323,6 +1598,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 18 Sep 2026 09:51:20 +0000</pubDate>
     </item>    <item>
       <title>The City of God, Volume I by Saint of Hippo Augustine</title>
       <link>https://www.gutenberg.org/ebooks/45304</link>
@@ -1330,6 +1606,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 18 Sep 2026 09:51:20 +0000</pubDate>
     </item>    <item>
       <title>Ukraine under the Soviets by Clarence Augustus Manning</title>
       <link>https://www.gutenberg.org/ebooks/79579</link>
@@ -1337,6 +1614,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 17 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Plutarch&#39;s Essays and Miscellanies, Vol. 4 (of 5) : by Plutarch</title>
       <link>https://www.gutenberg.org/ebooks/79588</link>
@@ -1344,6 +1622,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 17 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Dark days by Hugh Conway</title>
       <link>https://www.gutenberg.org/ebooks/79594</link>
@@ -1351,6 +1630,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 17 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The Devil&#39;s deputy by Erle Stanley Gardner</title>
       <link>https://www.gutenberg.org/ebooks/79595</link>
@@ -1358,6 +1638,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 17 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The Yellow Wallpaper by Charlotte Perkins Gilman</title>
       <link>https://www.gutenberg.org/ebooks/1952</link>
@@ -1365,6 +1646,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 17 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Undream&#39;d of shores by Frank Harris</title>
       <link>https://www.gutenberg.org/ebooks/79600</link>
@@ -1372,6 +1654,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 17 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Beyond the end of space by Jr.  John W. Campbell</title>
       <link>https://www.gutenberg.org/ebooks/79597</link>
@@ -1379,6 +1662,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 17 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The City of God, Volume II by Saint of Hippo Augustine</title>
       <link>https://www.gutenberg.org/ebooks/45305</link>
@@ -1386,6 +1670,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 17 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The beauties of the Bosphorus by Miss  Pardoe</title>
       <link>https://www.gutenberg.org/ebooks/79601</link>
@@ -1393,6 +1678,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 17 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Die Vögel : by Aristophanes</title>
       <link>https://www.gutenberg.org/ebooks/79596</link>
@@ -1400,6 +1686,7 @@
         <![CDATA[Language: German]]>
       </description>
       <source:markdown>Language: German</source:markdown>
+      <pubDate>Thu, 17 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The sky jinx by Raoul Whitfield</title>
       <link>https://www.gutenberg.org/ebooks/79598</link>
@@ -1407,6 +1694,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 17 Sep 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The House of the Arrow by A. E. W.  Mason</title>
       <link>https://www.gutenberg.org/ebooks/67514</link>
@@ -1414,6 +1702,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 16 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Pollyanna Grows Up by Eleanor H.  Porter</title>
       <link>https://www.gutenberg.org/ebooks/6100</link>
@@ -1421,6 +1710,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 16 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Named right by Andrew A.  Caffrey</title>
       <link>https://www.gutenberg.org/ebooks/79582</link>
@@ -1428,6 +1718,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 16 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>The Confessions of St. Augustine by Saint of Hippo Augustine</title>
       <link>https://www.gutenberg.org/ebooks/3296</link>
@@ -1435,6 +1726,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 16 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Mystic Immanence, the Indwelling Spirit by Basil Wilberforce</title>
       <link>https://www.gutenberg.org/ebooks/36996</link>
@@ -1442,6 +1734,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 16 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Lady Wedderburn&#39;s wish, Vol. III (of 3) : by James Grant</title>
       <link>https://www.gutenberg.org/ebooks/79592</link>
@@ -1449,6 +1742,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 16 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Lady Wedderburn&#39;s wish, Vol. II (of 3) : by James Grant</title>
       <link>https://www.gutenberg.org/ebooks/79591</link>
@@ -1456,6 +1750,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 16 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Lady Wedderburn&#39;s wish, Vol. I (of 3) : by James Grant</title>
       <link>https://www.gutenberg.org/ebooks/79590</link>
@@ -1463,6 +1758,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 16 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Library Essays; Papers Related to the Work of Public Libraries by Arthur E.  Bostwick</title>
       <link>https://www.gutenberg.org/ebooks/58241</link>
@@ -1470,6 +1766,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 16 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Costa Rican tales by Ricardo Fernández Guardia</title>
       <link>https://www.gutenberg.org/ebooks/79583</link>
@@ -1477,6 +1774,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 16 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Auf dem chinesischen Fluß : by Norbert Jacques</title>
       <link>https://www.gutenberg.org/ebooks/79585</link>
@@ -1484,6 +1782,7 @@
         <![CDATA[Language: German]]>
       </description>
       <source:markdown>Language: German</source:markdown>
+      <pubDate>Wed, 16 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>The Salvation Army in Switzerland by Josephine Elizabeth Grey Butler</title>
       <link>https://www.gutenberg.org/ebooks/79586</link>
@@ -1491,6 +1790,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 16 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Da vida e feitos d&#39;El Rei D. Manoel : by Jerónimo Osório</title>
       <link>https://www.gutenberg.org/ebooks/79584</link>
@@ -1498,6 +1798,7 @@
         <![CDATA[Language: Portuguese]]>
       </description>
       <source:markdown>Language: Portuguese</source:markdown>
+      <pubDate>Wed, 16 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>The Field of Ice by Jules Verne</title>
       <link>https://www.gutenberg.org/ebooks/9618</link>
@@ -1505,6 +1806,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 16 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Hell&#39;s Angel by Raoul Whitfield</title>
       <link>https://www.gutenberg.org/ebooks/79581</link>
@@ -1512,6 +1814,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 16 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Cormac Ua Conaill : by Patrick S.  Dinneen</title>
       <link>https://www.gutenberg.org/ebooks/79587</link>
@@ -1519,6 +1822,7 @@
         <![CDATA[Language: Irish]]>
       </description>
       <source:markdown>Language: Irish</source:markdown>
+      <pubDate>Wed, 16 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>The life story of gipsy Cornelius Smith by Cornelius Smith</title>
       <link>https://www.gutenberg.org/ebooks/79580</link>
@@ -1526,6 +1830,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 16 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Tierra virgen by Inés Echeverría de Larrain</title>
       <link>https://www.gutenberg.org/ebooks/79589</link>
@@ -1533,6 +1838,7 @@
         <![CDATA[Language: Spanish]]>
       </description>
       <source:markdown>Language: Spanish</source:markdown>
+      <pubDate>Wed, 16 Sep 2026 09:51:21 +0000</pubDate>
     </item>    <item>
       <title>Man&#39;s descent from the gods : by Anthony M.  Ludovici</title>
       <link>https://www.gutenberg.org/ebooks/79572</link>
@@ -1540,6 +1846,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 15 Sep 2026 09:51:18 +0000</pubDate>
     </item>    <item>
       <title>The Phantom of the Opera by Gaston Leroux</title>
       <link>https://www.gutenberg.org/ebooks/175</link>
@@ -1547,6 +1854,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 15 Sep 2026 09:51:18 +0000</pubDate>
     </item>    <item>
       <title>The book of a naturalist : by W. H.  Hudson</title>
       <link>https://www.gutenberg.org/ebooks/79577</link>
@@ -1554,6 +1862,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 15 Sep 2026 09:51:18 +0000</pubDate>
     </item>    <item>
       <title>A history of the American people, Vol. 1 [of 5] : by Woodrow Wilson</title>
       <link>https://www.gutenberg.org/ebooks/79575</link>
@@ -1561,6 +1870,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 15 Sep 2026 09:51:18 +0000</pubDate>
     </item>    <item>
       <title>A history of the American people, Vol. 3 [of 5] : by Woodrow Wilson</title>
       <link>https://www.gutenberg.org/ebooks/79576</link>
@@ -1568,6 +1878,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 15 Sep 2026 09:51:18 +0000</pubDate>
     </item>    <item>
       <title>Snow-berries : by Alice Cary</title>
       <link>https://www.gutenberg.org/ebooks/79573</link>
@@ -1575,6 +1886,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 15 Sep 2026 09:51:18 +0000</pubDate>
     </item>    <item>
       <title>Der weiße Dominikaner : by Gustav Meyrink</title>
       <link>https://www.gutenberg.org/ebooks/79578</link>
@@ -1582,6 +1894,7 @@
         <![CDATA[Language: German]]>
       </description>
       <source:markdown>Language: German</source:markdown>
+      <pubDate>Tue, 15 Sep 2026 09:51:18 +0000</pubDate>
     </item>    <item>
       <title>Ocean-born : by Oliver Optic</title>
       <link>https://www.gutenberg.org/ebooks/79574</link>
@@ -1589,104 +1902,7 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Through the Grand Canyon from Wyoming to Mexico by E. L.  Kolb</title>
-      <link>https://www.gutenberg.org/ebooks/13150</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Switch off : by Oliver Optic</title>
-      <link>https://www.gutenberg.org/ebooks/79562</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The next-to-last laugh by Raoul Whitfield</title>
-      <link>https://www.gutenberg.org/ebooks/79571</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>A Political Romance by Laurence Sterne</title>
-      <link>https://www.gutenberg.org/ebooks/20257</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The Poetical Works of Oliver Wendell Holmes — Volume 06 by Oliver Wendell Holmes</title>
-      <link>https://www.gutenberg.org/ebooks/7393</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Spawn of the comet by Otis Adelbert Kline</title>
-      <link>https://www.gutenberg.org/ebooks/79565</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Seven brothers by Aleksis Kivi</title>
-      <link>https://www.gutenberg.org/ebooks/79566</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>The King of Elfland&#39;s Daughter by Lord Dunsany</title>
-      <link>https://www.gutenberg.org/ebooks/61077</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Lord Lister No. 0055: Het onschatbare kleinood by Theo von Blankensee and Kurt Matull</title>
-      <link>https://www.gutenberg.org/ebooks/79568</link>
-      <description>
-        <![CDATA[Language: Dutch]]>
-      </description>
-      <source:markdown>Language: Dutch</source:markdown>
-    </item>    <item>
-      <title>Buzzards by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79563</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>La teoria dell&#39;evoluzione : by Giovanni Canestrini</title>
-      <link>https://www.gutenberg.org/ebooks/79567</link>
-      <description>
-        <![CDATA[Language: Italian]]>
-      </description>
-      <source:markdown>Language: Italian</source:markdown>
-    </item>    <item>
-      <title>Ashes by Theodore Thomas Flynn</title>
-      <link>https://www.gutenberg.org/ebooks/79569</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Mrs. Mayo&#39;s second husband by Mrs. Alex. McVeigh Miller</title>
-      <link>https://www.gutenberg.org/ebooks/79570</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-    </item>    <item>
-      <title>Historia geral da invasão dos francezes em Portugal e da restauração deste reino (Volume I)</title>
-      <link>https://www.gutenberg.org/ebooks/79564</link>
-      <description>
-        <![CDATA[Language: Portuguese]]>
-      </description>
-      <source:markdown>Language: Portuguese</source:markdown>
+      <pubDate>Tue, 15 Sep 2026 09:51:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

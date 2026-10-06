@@ -4,10 +4,31 @@
   <channel>
     <title><![CDATA[GLAM]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>05 Oct 26 06:45 -0700</lastBuildDate>
-    <generator>antenna/0.0.26</generator>
+    <lastBuildDate>06 Oct 26 06:48 -0700</lastBuildDate>
+    <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Research Integrity in Scholarly Communications — SSP Pulse Check Report</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/10/06/research-integrity-in-scholarly-communications-ssp-pulse-check-report/</link>
+      <description>
+        <![CDATA[<p>Today, we take a dive into the results of SSP's latest Pulse Check Survey, revealing how our community is grappling with research integrity and its interconnected challenges.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/10/06/research-integrity-in-scholarly-communications-ssp-pulse-check-report/">Research Integrity in Scholarly Communications — SSP Pulse Check Report</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Today, we take a dive into the results of SSP&#39;s latest Pulse Check Survey, revealing how our community is grappling with research integrity and its interconnected challenges.
+
+The post [Research Integrity in Scholarly Communications — SSP Pulse Check Report](https://scholarlykitchen.sspnet.org/2026/10/06/research-integrity-in-scholarly-communications-ssp-pulse-check-report/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62956</guid>
+      <category>Authors</category>
+      <category>Historical</category>
+      <category>Infrastructure</category>
+      <category>Policy</category>
+      <category>Research</category>
+      <category>Research Integrity</category>
+      <category>Society for Scholarly Publishing</category>
+      <category>research integrity metrics</category>
+      <category>SSP Pulse Check Survey Report</category>
+      <pubDate>Tue, 06 Oct 2026 09:30:14 +0000</pubDate>
+    </item>    <item>
       <title>New Data: PEN America Tracks Record School Book Bans (12,000) For a Single Year; Record Number of Unique Book Titles, at 7,000, Were Banned, as New State Laws, Artificial Intelligence, and Political Pressure Drives Censorship in Schools</title>
       <link>https://www.infodocket.com/2026/10/05/new-data-pen-america-tracks-record-school-book-bans-12000-for-a-single-year-record-number-of-unique-book-titles-at-7000-were-banned-as-new-state-laws-artificial-intelligence-and-political-p/</link>
       <description>
@@ -21,6 +42,7 @@ The post [New Data: PEN America Tracks Record School Book Bans (12,000) For a Si
       <category>Awards</category>
       <category>Data Files</category>
       <category>News</category>
+      <pubDate>Mon, 05 Oct 2026 12:31:00 +0000</pubDate>
     </item>    <item>
       <title>Internet Archive to Honor Poynter Institute and Investigative Reporters and Editors with 2026 Hero Award for Preserving Local News Online</title>
       <link>https://blog.archive.org/2026/10/05/internet-archive-to-honor-poynter-institute-and-investigative-reporters-and-editors-with-2026-hero-award-for-preserving-local-news-online/</link>
@@ -36,6 +58,7 @@ The post [Internet Archive to Honor Poynter Institute and Investigative Reporter
       <category>Event</category>
       <category>News</category>
       <category>hero award</category>
+      <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
     </item>    <item>
       <title>The 2026 State of Open Infrastructure report: Running to stay in place</title>
       <link>https://investinopen.org/blog/the-2026-state-of-open-infrastructure-report-running-to-stay-in-place/</link>
@@ -45,6 +68,7 @@ The post [Internet Archive to Honor Poynter Institute and Investigative Reporter
       <source:markdown>Insights on open infrastructure funding trends and emergent issues in scholarly communication</source:markdown>
       <guid>cid://6ac3500f19ee5f000115d957</guid>
       <category>Blog</category>
+      <pubDate>Mon, 05 Oct 2026 11:50:11 +0000</pubDate>
     </item>    <item>
       <title>The Representation Is Not the Scholarship</title>
       <link>https://scholarlykitchen.sspnet.org/2026/10/05/the-representation-is-not-the-scholarship/</link>
@@ -72,6 +96,7 @@ The post [The Representation Is Not the Scholarship](https://scholarlykitchen.ss
       <category>the map is not the territory</category>
       <category>thinking</category>
       <category>thought</category>
+      <pubDate>Mon, 05 Oct 2026 09:30:09 +0000</pubDate>
     </item>    <item>
       <title>Dispatch from Oslo: A Library for People We Will Never Meet</title>
       <link>https://metaarchivist.substack.com/p/dispatch-from-oslo-a-library-for</link>
@@ -81,6 +106,7 @@ The post [The Representation Is Not the Scholarship](https://scholarlykitchen.ss
       <source:markdown>At Future Library, preservation becomes a promise whose fulfillment most of us will never witness.</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!8IyN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05e070ce-2f1f-44fb-ba74-56cde1af8b9c_1672x941.png" length="0" type="image/jpeg" />
       <guid>cid://https://metaarchivist.substack.com/p/dispatch-from-oslo-a-library-for</guid>
+      <pubDate>Sun, 04 Oct 2026 11:26:10 +0000</pubDate>
     </item>    <item>
       <title>State of Open Infrastructure</title>
       <link>https://investinopen.org/our-work/state-of-oi/</link>
@@ -90,6 +116,7 @@ The post [The Representation Is Not the Scholarship](https://scholarlykitchen.ss
       <source:markdown>Surfacing trends, patterns, and gaps in the investment in and adoption of open infrastructure</source:markdown>
       <guid>cid://65d2f3122a2d910001e72499</guid>
       <category>Ecosystem Intelligence</category>
+      <pubDate>Sun, 04 Oct 2026 10:20:00 +0000</pubDate>
     </item>    <item>
       <title>Now Available: Article Preprints For portal: Libraries and the Academy (Volume 26, Number 4)</title>
       <link>https://www.infodocket.com/2026/10/02/now-available-article-preprints-for-portal-libraries-and-the-academy-volume-26-number-4/</link>
@@ -105,6 +132,7 @@ The post [Now Available: Article Preprints For portal: Libraries and the Academy
       <category>Libraries</category>
       <category>News</category>
       <category>Reports</category>
+      <pubDate>Fri, 02 Oct 2026 16:40:27 +0000</pubDate>
     </item>    <item>
       <title>100+ Years of Student Radio History in the DLARC College Radio Collections</title>
       <link>https://blog.archive.org/2026/10/02/100-years-of-student-radio-history-in-the-dlarc-college-radio-collections/</link>
@@ -125,6 +153,7 @@ The post [100+ Years of Student Radio History in the DLARC College Radio Collect
       <category>DLARC</category>
       <category>DLARC College Radio</category>
       <category>radio history</category>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
     </item>    <item>
       <title>Ask the Chefs: What Would You Have Done Differently About Open Access/Open Science if You Predicted the World as it Exists Today? Part 2</title>
       <link>https://scholarlykitchen.sspnet.org/2026/10/02/ask-the-chefs-what-would-you-have-done-differently-about-open-access-open-science-if-you-predicted-the-world-as-it-exists-today-part-2/</link>
@@ -153,6 +182,7 @@ The post [Ask the Chefs: What Would You Have Done Differently About Open Access/
       <category>OA in hindsight</category>
       <category>what we got right</category>
       <category>what we got wrong</category>
+      <pubDate>Fri, 02 Oct 2026 09:30:22 +0000</pubDate>
     </item>    <item>
       <title>Can Jev a super cheap, super fast classifier compete with LLMs for systematic review screening?</title>
       <link>https://aarontay.substack.com/p/can-jev-a-super-cheap-super-fast</link>
@@ -162,6 +192,7 @@ The post [Ask the Chefs: What Would You Have Done Differently About Open Access/
       <source:markdown>TL;DR: I tested Jev, a cheap zero-shot decision model, for title/abstract screening in systematic reviews.</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!2-cD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbdfa449-c49b-4a69-9730-1ebcf7f46a5b_1672x941.png" length="0" type="image/jpeg" />
       <guid>cid://https://aarontay.substack.com/p/can-jev-a-super-cheap-super-fast</guid>
+      <pubDate>Thu, 01 Oct 2026 21:56:08 +0000</pubDate>
     </item>    <item>
       <title>Elena, Aris, Marcus: : AI-Generated ‘Ghosts’ are Polluting the Scientific Literature</title>
       <link>https://www.infodocket.com/2026/10/01/report-ai-generated-ghosts-are-polluting-the-scientific-literature/</link>
@@ -177,6 +208,7 @@ The post [Elena, Aris, Marcus: : AI-Generated ‘Ghosts’ are Polluting the Sc
       <category>Patrons and Users</category>
       <category>Podcasts</category>
       <category>Publishing</category>
+      <pubDate>Thu, 01 Oct 2026 20:06:31 +0000</pubDate>
     </item>    <item>
       <title>ARL Daily Intelligence: Special Double Issue (October 1)</title>
       <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-special-double-issue-october-1/</link>
@@ -189,6 +221,7 @@ The post [Elena, Aris, Marcus: : AI-Generated ‘Ghosts’ are Polluting the Sc
 The post [ARL Daily Intelligence: Special Double Issue (October 1)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-special-double-issue-october-1/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=50035</guid>
       <category>ARL Daily Intelligence</category>
+      <pubDate>Thu, 01 Oct 2026 19:27:07 +0000</pubDate>
     </item>    <item>
       <title>Where the money goes</title>
       <link>https://investinopen.org/state-of-open-infrastructure-2026/sooi-where-the-money-goes-2026/</link>
@@ -208,6 +241,7 @@ Grant funding flows are one signal of how the research ecosystem values and take
 The data and analyses we published in 2024 and 2025 primarily focused on better understanding</source:markdown>
       <guid>cid://6abe8ab319ee5f000115d8ec</guid>
       <category>SOOI-2026</category>
+      <pubDate>Thu, 01 Oct 2026 16:57:24 +0000</pubDate>
     </item>    <item>
       <title>The infrastructure of integrity: What does it take to trust a published research output?</title>
       <link>https://investinopen.org/state-of-open-infrastructure-2026/sooi-the-infrastructure-of-integrity-what-does-it-take-to-trust-a-published-research-output-2026/</link>
@@ -217,6 +251,7 @@ The data and analyses we published in 2024 and 2025 primarily focused on better 
       <source:markdown>Research integrity is supported by a chain of interconnected infrastructure. Publishers, funders, and researchers depend on this chain every day, yet many of the critical links remain invisible unless they break. This analysis traces the infrastructure required to support research integrity in the context of increasing challenges created by generative</source:markdown>
       <guid>cid://6a8d659febf8fa000181757c</guid>
       <category>SOOI-2026</category>
+      <pubDate>Thu, 01 Oct 2026 16:24:36 +0000</pubDate>
     </item>    <item>
       <title>Assessing Open Education in Higher Education in Prison Programs</title>
       <link>https://sr.ithaka.org/blog/assessing-open-education-in-higher-education-in-prison-programs/</link>
@@ -234,6 +269,7 @@ The post [Assessing Open Education in Higher Education in Prison Programs](https
       <category>OER</category>
       <category>Open educational resources</category>
       <category>Prison education</category>
+      <pubDate>Thu, 01 Oct 2026 16:02:30 +0000</pubDate>
     </item>    <item>
       <title>Where the sector is heading</title>
       <link>https://investinopen.org/state-of-open-infrastructure-2026/sooi-where-the-sector-is-heading-2026/</link>
@@ -248,6 +284,7 @@ The post [Assessing Open Education in Higher Education in Prison Programs](https
 The open infrastructure sector is being reshaped by forces that are often discussed as though they are separate — the AI investment boom, tightening public science budgets, and a growing emphasis on digital sovereignty — but that are, in practice, deeply intertwined. Below are seven signals we’</source:markdown>
       <guid>cid://6abd7548e6358500010afde3</guid>
       <category>SOOI-2026</category>
+      <pubDate>Thu, 01 Oct 2026 15:53:29 +0000</pubDate>
     </item>    <item>
       <title>Foreword</title>
       <link>https://investinopen.org/state-of-open-infrastructure-2026/sooi-foreword-2026/</link>
@@ -257,6 +294,7 @@ The open infrastructure sector is being reshaped by forces that are often discus
       <source:markdown>The funding disruptions that made headlines last year were real, and we have documented them carefully in this report. But the story I most want to tell is not the one that made the news.The loud disruptions – the cancelled federal grants, the agencies dismantled, the program closures that generated</source:markdown>
       <guid>cid://6abd3c8f1ec33d0001a84bb4</guid>
       <category>SOOI-2026</category>
+      <pubDate>Thu, 01 Oct 2026 13:39:08 +0000</pubDate>
     </item>    <item>
       <title>Foreword</title>
       <link>https://investinopen.org/state-of-open-infrastructure-2026/foreword/</link>
@@ -266,6 +304,7 @@ The open infrastructure sector is being reshaped by forces that are often discus
       <source:markdown>The funding disruptions that made headlines last year were real, and we have documented them carefully in this report. But the story I most want to tell is not the one that made the news.The loud disruptions – the cancelled federal grants, the agencies dismantled, the program closures that generated</source:markdown>
       <guid>cid://6abd3c8f1ec33d0001a84bb4</guid>
       <category>SOOI-2026</category>
+      <pubDate>Thu, 01 Oct 2026 13:39:08 +0000</pubDate>
     </item>    <item>
       <title>Contributors</title>
       <link>https://investinopen.org/state-of-open-infrastructure-2026/sooi-contributors-2026/</link>
@@ -283,6 +322,7 @@ Emmy Tsanghttps://orcid.org/0000-0002-9248-1280data curation, formal analysis, i
 Sarah Lippincotthttps://orcid.org/0000-0002-5700-5844data curation, formal analysis, investigation, methodology,</source:markdown>
       <guid>cid://6abd5920e6358500010afd89</guid>
       <category>SOOI-2026</category>
+      <pubDate>Thu, 01 Oct 2026 13:37:49 +0000</pubDate>
     </item>    <item>
       <title>Contributors</title>
       <link>https://investinopen.org/state-of-open-infrastructure-2026/contributors/</link>
@@ -300,6 +340,7 @@ Emmy Tsanghttps://orcid.org/0000-0002-9248-1280data curation, formal analysis, i
 Sarah Lippincotthttps://orcid.org/0000-0002-5700-5844data curation, formal analysis, investigation, methodology,</source:markdown>
       <guid>cid://6abd5920e6358500010afd89</guid>
       <category>SOOI-2026</category>
+      <pubDate>Thu, 01 Oct 2026 13:37:49 +0000</pubDate>
     </item>    <item>
       <title>Sponsors</title>
       <link>https://investinopen.org/state-of-open-infrastructure-2026/sooi-sponsors-2026/</link>
@@ -309,6 +350,7 @@ Sarah Lippincotthttps://orcid.org/0000-0002-5700-5844data curation, formal analy
       <source:markdown>The State of Open Infrastructure is not simply a record of where the sector stands today. It draws on IOI’s position across the ecosystem to ask questions that individual institutions and funders rarely have the vantage point to ask: what should be sustained, where investment is most needed, how</source:markdown>
       <guid>cid://6abd5976e6358500010afd91</guid>
       <category>SOOI-2026</category>
+      <pubDate>Thu, 01 Oct 2026 13:37:09 +0000</pubDate>
     </item>    <item>
       <title>Sponsors</title>
       <link>https://investinopen.org/state-of-open-infrastructure-2026/sponsors/</link>
@@ -318,6 +360,7 @@ Sarah Lippincotthttps://orcid.org/0000-0002-5700-5844data curation, formal analy
       <source:markdown>The State of Open Infrastructure is not simply a record of where the sector stands today. It draws on IOI’s position across the ecosystem to ask questions that individual institutions and funders rarely have the vantage point to ask: what should be sustained, where investment is most needed, how</source:markdown>
       <guid>cid://6abd5976e6358500010afd91</guid>
       <category>SOOI-2026</category>
+      <pubDate>Thu, 01 Oct 2026 13:37:09 +0000</pubDate>
     </item>    <item>
       <title>Ask the Chefs: What Would You Have Done Differently About Open Access/Open Science if You Predicted the World as it Exists Today? Part 1</title>
       <link>https://scholarlykitchen.sspnet.org/2026/10/01/ask-the-chefs-what-would-you-have-done-differently-about-open-access-open-science-if-you-predicted-the-world-as-it-exists-today/</link>
@@ -346,6 +389,7 @@ The post [Ask the Chefs: What Would You Have Done Differently About Open Access/
       <category>OA in hindsight</category>
       <category>what we got right</category>
       <category>what we got wrong</category>
+      <pubDate>Thu, 01 Oct 2026 09:30:16 +0000</pubDate>
     </item>    <item>
       <title>Test</title>
       <link>https://investinopen.org/state-of-open-infrastructure-2026/test/</link>
@@ -355,6 +399,7 @@ The post [Ask the Chefs: What Would You Have Done Differently About Open Access/
       <source:markdown>Research integrity is supported by a chain of interconnected infrastructure. Publishers, funders, and researchers depend on this chain every day, yet many of the critical links remain invisible unless they break. This analysis traces the infrastructure required to support research integrity in the context of increasing challenges created by generative</source:markdown>
       <guid>cid://6abd65abe6358500010afdb3</guid>
       <category>SOOI-2026</category>
+      <pubDate>Wed, 30 Sep 2026 20:38:29 +0000</pubDate>
     </item>    <item>
       <title>Artificial Intelligence in the Writing of Scientific Articles: Guidelines for Ethical and Responsible Use</title>
       <link>https://blog.scielo.org/en/2026/09/30/artificial-intelligence-in-the-writing-of-scientific-articles-guidelines-for-ethical-and-responsible-use/</link>
@@ -372,6 +417,7 @@ The post [Artificial Intelligence in the Writing of Scientific Articles: Guideli
       <category>Analysis</category>
       <category>Artificial Intelligence</category>
       <category>Ethics in Scientific Communication</category>
+      <pubDate>Wed, 30 Sep 2026 17:00:02 +0000</pubDate>
     </item>    <item>
       <title>Mellon Foundation Releases: “Mapping the Landscape of Community-Based Archives” Report</title>
       <link>https://www.infodocket.com/2026/09/30/mellon-foundation-releases-mapping-the-landscape-of-community-based-archives-report/</link>
@@ -393,6 +439,7 @@ The post [Mellon Foundation Releases: “Mapping the Landscape of Community-Base
       <category>Libraries</category>
       <category>News</category>
       <category>Preservation</category>
+      <pubDate>Wed, 30 Sep 2026 16:14:32 +0000</pubDate>
     </item>    <item>
       <title>Report: Chinese-Owned Science Journal Created to Rival the Best</title>
       <link>https://www.infodocket.com/2026/09/30/report-chinese-owned-science-journal-created-to-rival-the-best/</link>
@@ -409,6 +456,7 @@ The post [Report: Chinese-Owned Science Journal Created to Rival the Best](https
       <category>News</category>
       <category>Open Access</category>
       <category>Publishing</category>
+      <pubDate>Wed, 30 Sep 2026 13:34:57 +0000</pubDate>
     </item>    <item>
       <title>Web Archive Collections in Online Reference Resources</title>
       <link>https://blogs.loc.gov/thesignal/2026/09/web-archive-collections-in-online-reference-resources/</link>
@@ -420,6 +468,7 @@ The post [Report: Chinese-Owned Science Journal Created to Rival the Best](https
       <category>Education and Training</category>
       <category>Publications and Resources</category>
       <category>Web Archiving</category>
+      <pubDate>Wed, 30 Sep 2026 11:00:26 +0000</pubDate>
     </item>    <item>
       <title>Guest Post — Medical and Health Data Sharing Policies Need Specific Guidance: New STM Recommendations Aim to Help</title>
       <link>https://scholarlykitchen.sspnet.org/2026/09/30/guest-post-medical-and-health-data-sharing-policies-need-specific-guidance-new-stm-recommendations-aim-to-help/</link>
@@ -440,6 +489,7 @@ The post [Guest Post — Medical and Health Data Sharing Policies Need Specific 
       <category>medical publishing</category>
       <category>medical research data</category>
       <category>research participant privacy</category>
+      <pubDate>Wed, 30 Sep 2026 09:30:51 +0000</pubDate>
     </item>    <item>
       <title>Announcing a National Cohort Exploring Students’ Perspectives on Basic Needs Insecurity</title>
       <link>https://sr.ithaka.org/blog/announcing-a-national-cohort-exploring-students-perspectives-on-basic-needs-insecurity/</link>
@@ -455,6 +505,7 @@ The post [Announcing a National Cohort Exploring Students’ Perspectives on Bas
       <category>Basic needs</category>
       <category>Student success</category>
       <category>Undergraduates</category>
+      <pubDate>Tue, 29 Sep 2026 17:21:39 +0000</pubDate>
     </item>    <item>
       <title>Book Industry Study Group (BISG) and BookNet Canada Release 2026 Report on AI Use Across the North American Book Industry</title>
       <link>https://www.infodocket.com/2026/09/29/book-industry-study-group-bisg-and-booknet-canada-release-2026-report-on-ai-use-across-the-north-american-book-industry/</link>
@@ -470,6 +521,7 @@ The post [Book Industry Study Group (BISG) and BookNet Canada Release 2026 Repor
       <category>News</category>
       <category>Publishing</category>
       <category>Reports</category>
+      <pubDate>Tue, 29 Sep 2026 14:01:12 +0000</pubDate>
     </item>    <item>
       <title>Every Night Is Different: Ryley Walker on Preserving Live Music</title>
       <link>https://blog.archive.org/2026/09/29/every-night-is-different-ryley-walker-on-preserving-live-music/</link>
@@ -484,6 +536,7 @@ The post [Every Night Is Different: Ryley Walker on Preserving Live Music](https
       <category>Announcements</category>
       <category>Live Music Archive</category>
       <category>News</category>
+      <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
     </item>    <item>
       <title>Are Libraries Prepared for the Second Digital Transformation of Distinctive Collections?</title>
       <link>https://scholarlykitchen.sspnet.org/2026/09/29/are-libraries-prepared-second-digital-transformation-distinctive-collections/</link>
@@ -504,6 +557,7 @@ The post [Are Libraries Prepared for the Second Digital Transformation of Distin
       <category>digital collections</category>
       <category>distinctive collections</category>
       <category>repositories</category>
+      <pubDate>Tue, 29 Sep 2026 09:30:42 +0000</pubDate>
     </item>    <item>
       <title>Repertoires: How Broader Impacts Went Campuswide</title>
       <link>https://www.arl.org/blog/repertoires-how-broader-impacts-went-campuswide/</link>
@@ -516,6 +570,7 @@ The post [Are Libraries Prepared for the Second Digital Transformation of Distin
 The post [Repertoires: How Broader Impacts Went Campuswide](https://www.arl.org/blog/repertoires-how-broader-impacts-went-campuswide/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=49999</guid>
       <category>Blog</category>
+      <pubDate>Mon, 28 Sep 2026 22:08:43 +0000</pubDate>
     </item>    <item>
       <title>Founding Documents in Context: AI-Powered and Grounded Cultural Heritage</title>
       <link>https://blogs.loc.gov/thesignal/2026/09/ai-powered-and-grounded-cultural-heritage/</link>
@@ -527,6 +582,7 @@ The post [Repertoires: How Broader Impacts Went Campuswide](https://www.arl.org/
       <category>America 250</category>
       <category>API</category>
       <category>Artificial Intelligence</category>
+      <pubDate>Mon, 28 Sep 2026 18:13:22 +0000</pubDate>
     </item>    <item>
       <title>Mental Health Mondays: What We Haven’t Talked About</title>
       <link>https://scholarlykitchen.sspnet.org/2026/09/28/mental-health-mondays-what-we-havent-talked-about/</link>
@@ -550,6 +606,7 @@ The post [Mental Health Mondays: What We Haven’t Talked About](https://scholar
       <category>neurodivergence</category>
       <category>suicide awareness</category>
       <category>suicide prevention</category>
+      <pubDate>Mon, 28 Sep 2026 09:30:01 +0000</pubDate>
     </item>    <item>
       <title>Report: Oxford Lets OpenAI Train Its AI Models On Historical Texts From the Bodleian Library</title>
       <link>https://www.infodocket.com/2026/09/26/report-oxford-lets-openai-train-its-ai-models-on-historical-texts-from-the-bodleian-library/</link>
@@ -564,6 +621,7 @@ The post [Report: Oxford Lets OpenAI Train Its AI Models On Historical Texts Fro
       <category>Data Files</category>
       <category>Libraries</category>
       <category>News</category>
+      <pubDate>Sat, 26 Sep 2026 18:16:29 +0000</pubDate>
     </item>    <item>
       <title>National Science Foundation (NSF) Announces Launch of the Open Knowledge Network, A National Open-Data Platform Connecting More Than 40 Knowledge Graphs</title>
       <link>https://www.infodocket.com/2026/09/25/national-science-foundation-nsf-announces-launch-of-the-open-knowledge-network-a-national-open-data-platform-connecting-more-than-40-knowledge-graphs/</link>
@@ -580,6 +638,7 @@ The post [National Science Foundation (NSF) Announces Launch of the Open Knowled
       <category>Maps</category>
       <category>News</category>
       <category>Productivity</category>
+      <pubDate>Fri, 25 Sep 2026 23:21:43 +0000</pubDate>
     </item>    <item>
       <title>It’s Not Just About AI Skills</title>
       <link>https://sr.ithaka.org/blog/its-not-just-about-ai-skills/</link>
@@ -597,6 +656,7 @@ The post [It’s Not Just About AI Skills](https://sr.ithaka.org/blog/its-not-ju
       <category>Instructors</category>
       <category>Professional development</category>
       <category>Workforce development</category>
+      <pubDate>Fri, 25 Sep 2026 18:01:51 +0000</pubDate>
     </item>    <item>
       <title>Guidance on Research Misconduct for U.S. Public Health Service Policies Involving Generative Artificial Intelligence</title>
       <link>https://blog.scielo.org/en/2026/09/25/guidance-on-research-misconduct-for-u-s-public-health-service-policies-involving-generative-artificial-intelligence/</link>
@@ -613,6 +673,7 @@ The post [Guidance on Research Misconduct for U.S. Public Health Service Policie
       <category>Ethics in Scientific Communication</category>
       <category>Public Policies</category>
       <category>Science Communication</category>
+      <pubDate>Fri, 25 Sep 2026 17:00:52 +0000</pubDate>
     </item>    <item>
       <title>New Online at the Library of Congress: September 2026</title>
       <link>https://blogs.loc.gov/thesignal/2026/09/new-loc-september-2026/</link>
@@ -622,6 +683,7 @@ The post [Guidance on Research Misconduct for U.S. Public Health Service Policie
       <source:markdown>In our September 2026 edition of &#34;New Online at the Library of Congress,&#34; we share updates to the Library&#39;s digital collections, datasets, web archives, and more.</source:markdown>
       <guid>cid://https://blogs.loc.gov/thesignal/?p=38295</guid>
       <category>New on loc.gov</category>
+      <pubDate>Fri, 25 Sep 2026 13:40:40 +0000</pubDate>
     </item>    <item>
       <title>OpenAI Agent Hacking Attempt Targets University of New Mexico Digital Library</title>
       <link>https://www.infodocket.com/2026/09/25/openai-agent-hacking-attempt-targets-university-of-new-mexico-digital-library/</link>
@@ -641,6 +703,7 @@ The post [OpenAI Agent Hacking Attempt Targets University of New Mexico Digital 
       <category>News</category>
       <category>Open Access</category>
       <category>Reports</category>
+      <pubDate>Fri, 25 Sep 2026 10:30:22 +0000</pubDate>
     </item>    <item>
       <title>Guest Post — Integrity First: Inside Ukraine’s Publishing Reforms</title>
       <link>https://scholarlykitchen.sspnet.org/2026/09/25/guest-post-integrity-first-inside-ukraines-publishing-reforms/</link>
@@ -665,6 +728,7 @@ The post [Guest Post — Integrity First: Inside Ukraine’s Publishing Reforms]
       <category>predatory publishing</category>
       <category>publishing in Ukraine</category>
       <category>Ukrainian science</category>
+      <pubDate>Fri, 25 Sep 2026 09:30:03 +0000</pubDate>
     </item>    <item>
       <title>Report: UAlbany Study Examines Public Library AI Programs</title>
       <link>https://www.infodocket.com/2026/09/24/report-ualbany-study-examines-public-library-ai-programs/</link>
@@ -683,6 +747,7 @@ The post [Report: UAlbany Study Examines Public Library AI Programs](https://www
       <category>News</category>
       <category>Patrons and Users</category>
       <category>Public Libraries</category>
+      <pubDate>Thu, 24 Sep 2026 19:51:33 +0000</pubDate>
     </item>    <item>
       <title>The Hygge Archive</title>
       <link>https://metaarchivist.substack.com/p/the-hygge-archive</link>
@@ -692,6 +757,7 @@ The post [Report: UAlbany Study Examines Public Library AI Programs](https://www
       <source:markdown>Digital preservation likes reassurance: successful ingest, verified fixity, neat information packages, green dashboards.</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!M76o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3022a46-3e33-4ac2-879d-7afd38348e45_1448x1086.png" length="0" type="image/jpeg" />
       <guid>cid://https://metaarchivist.substack.com/p/the-hygge-archive</guid>
+      <pubDate>Thu, 24 Sep 2026 13:50:47 +0000</pubDate>
     </item>    <item>
       <title>Making rescued data usable, starting with wildfire</title>
       <link>https://investinopen.org/blog/making-rescued-data-usable-starting-with-wildfire/</link>
@@ -701,6 +767,7 @@ The post [Report: UAlbany Study Examines Public Library AI Programs](https://www
       <source:markdown>IOI&#39;s new prototype that uses wildfire data to explore how we can move from data rescue to data resilience</source:markdown>
       <guid>cid://6ab3e40024038a0001d4ea12</guid>
       <category>Blog</category>
+      <pubDate>Thu, 24 Sep 2026 11:24:27 +0000</pubDate>
     </item>    <item>
       <title>Guest Post — Six Ways to Close the Attribution Loop in Publishing</title>
       <link>https://scholarlykitchen.sspnet.org/2026/09/24/guest-post-six-ways-to-close-the-attribution-loop-in-publishing/</link>
@@ -723,6 +790,7 @@ The post [Guest Post — Six Ways to Close the Attribution Loop in Publishing](h
       <category>customer relationship management systems (CRMs)</category>
       <category>researchers</category>
       <category>submission increases</category>
+      <pubDate>Thu, 24 Sep 2026 09:30:01 +0000</pubDate>
     </item>    <item>
       <title>arXiv Announces  New Multiyear Philanthropic Commitments ($17.2 Million) to Support Its Launch as an Independent Nonprofit</title>
       <link>https://www.infodocket.com/2026/09/23/arxiv-announces-new-multiyear-philanthropic-commitments-to-support-its-launch-as-an-independent-nonprofit/</link>
@@ -739,6 +807,7 @@ The post [arXiv Announces New Multiyear Philanthropic Commitments ($17.2 Million
       <category>News</category>
       <category>Open Access</category>
       <category>Patrons and Users</category>
+      <pubDate>Wed, 23 Sep 2026 17:56:52 +0000</pubDate>
     </item>    <item>
       <title>From Card Catalogs to Chatbots: Envisioning Academic Library Services in the Era of AI and LLMs(New Journal Article)</title>
       <link>https://www.infodocket.com/2026/09/23/from-card-catalogs-to-chatbots-envisioning-academic-library-services-in-the-era-of-ai-and-llms-open-access-new-journal-article/</link>
@@ -755,6 +824,7 @@ The post [From Card Catalogs to Chatbots: Envisioning Academic Library Services 
       <category>Libraries</category>
       <category>News</category>
       <category>Open Access</category>
+      <pubDate>Wed, 23 Sep 2026 16:15:30 +0000</pubDate>
     </item>    <item>
       <title>The Archive After Business as Usual</title>
       <link>https://metaarchivist.substack.com/p/the-archive-after-business-as-usual</link>
@@ -764,6 +834,7 @@ The post [From Card Catalogs to Chatbots: Envisioning Academic Library Services 
       <source:markdown>Sibyl Schaefer opened iPRES 2026 with an unsettling question for digital preservation: What if the institutions, infrastructures, and assumptions on which preservation depends are themselves temporary</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!r2QF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8b9fc27-e07e-4be9-b38c-3ab8285f1bc3_1672x941.png" length="0" type="image/jpeg" />
       <guid>cid://https://metaarchivist.substack.com/p/the-archive-after-business-as-usual</guid>
+      <pubDate>Wed, 23 Sep 2026 10:59:05 +0000</pubDate>
     </item>    <item>
       <title>AI and Scholarly Reading: Foxes versus Hedgehogs</title>
       <link>https://scholarlykitchen.sspnet.org/2026/09/23/ai-and-scholarly-reading-foxes-versus-hedgehogs/</link>
@@ -794,6 +865,7 @@ The post [AI and Scholarly Reading: Foxes versus Hedgehogs](https://scholarlykit
       <category>reading comprehension</category>
       <category>reading strategies</category>
       <category>the fox and the hedgehog</category>
+      <pubDate>Wed, 23 Sep 2026 09:30:35 +0000</pubDate>
     </item>    <item>
       <title>Open for Whom?</title>
       <link>https://archive.org/details/future-knowledge-episode-42</link>
@@ -820,6 +892,7 @@ Check out all of the Future Knowledge episodes at [https://archive.org/details/f
       <category>Library</category>
       <category>Computing</category>
       <category>Computer History</category>
+      <pubDate>Wed, 23 Sep 2026 08:00:00 +0000</pubDate>
     </item>    <item>
       <title>New Mexico Supreme Court Law Library Named 2026 Federal Depository Library of the Year</title>
       <link>https://www.infodocket.com/2026/09/22/new-mexico-supreme-court-law-library-named-2026-federal-depository-library-of-the-year/</link>
@@ -836,6 +909,7 @@ The post [New Mexico Supreme Court Law Library Named 2026 Federal Depository Lib
       <category>Preservation</category>
       <category>Publishing</category>
       <category>Reports</category>
+      <pubDate>Tue, 22 Sep 2026 17:00:12 +0000</pubDate>
     </item>    <item>
       <title>Harvard Library Releases Advancing Open Knowledge 2026</title>
       <link>https://www.infodocket.com/2026/09/22/harvard-library-releases-advancing-open-knowledge-2026/</link>
@@ -853,6 +927,7 @@ The post [Harvard Library Releases Advancing Open Knowledge 2026](https://www.in
       <category>Libraries</category>
       <category>Management and Leadership</category>
       <category>News</category>
+      <pubDate>Tue, 22 Sep 2026 14:59:58 +0000</pubDate>
     </item>    <item>
       <title>Rogue Scholar is launching an Editorial Board</title>
       <link>https://blog.front-matter.de/posts/rogue-scholar-is-launching-an-editorial-board/</link>
@@ -864,6 +939,7 @@ The post [Harvard Library Releases Advancing Open Knowledge 2026](https://www.in
 The Rogue Scholar science blog archive accepts new blogs via a submission</source:markdown>
       <guid>cid://6ab286f30a2af3000156df71</guid>
       <category>Rogue Scholar</category>
+      <pubDate>Tue, 22 Sep 2026 14:45:25 +0000</pubDate>
     </item>    <item>
       <title>By the People Webinar: Exploring the Life and Death of James A. Garfield</title>
       <link>https://blogs.loc.gov/thesignal/2026/09/btp-webinar-garfield/</link>
@@ -874,6 +950,7 @@ The Rogue Scholar science blog archive accepts new blogs via a submission</sourc
       <guid>cid://https://blogs.loc.gov/thesignal/?p=38267</guid>
       <category>By the People Transcription Program</category>
       <category>Outreach and Events</category>
+      <pubDate>Tue, 22 Sep 2026 13:45:15 +0000</pubDate>
     </item>    <item>
       <title>FADGI Moves Provenance from Principle to Practice in the Age of AI</title>
       <link>https://metaarchivist.substack.com/p/fadgi-moves-provenance-from-principle</link>
@@ -883,6 +960,7 @@ The Rogue Scholar science blog archive accepts new blogs via a submission</sourc
       <source:markdown>A new federal framework asks libraries, archives and museums to document not only whether AI touched a digital object, but how, when and with what evidence. Public comments are due October 15, 2026.</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!yLeU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7c414e6-5a28-4441-a567-a781b5606606_1672x941.png" length="0" type="image/jpeg" />
       <guid>cid://https://metaarchivist.substack.com/p/fadgi-moves-provenance-from-principle</guid>
+      <pubDate>Tue, 22 Sep 2026 11:13:33 +0000</pubDate>
     </item>    <item>
       <title>Damned if You Do, Damned if You Don’t: Multilingual Researchers’ Use of AI in Academic Writing</title>
       <link>https://scholarlykitchen.sspnet.org/2026/09/22/damned-if-you-do-damned-if-you-dont-multilingual-researchers-use-of-ai-in-academic-writing/</link>
@@ -908,6 +986,7 @@ The post [Damned if You Do, Damned if You Don’t: Multilingual Researchers’ U
       <category>English as a second language</category>
       <category>linguistic discrimination</category>
       <category>multilingual auathors</category>
+      <pubDate>Tue, 22 Sep 2026 09:30:36 +0000</pubDate>
     </item>    <item>
       <title>Accelerating Generative AI Integration in Libraries (A New Special Issue of Information Technology and Libraries (Vol. 45 No. 3; 2026)</title>
       <link>https://www.infodocket.com/2026/09/21/accelerating-generative-ai-integration-in-libraries-a-new-special-issue-of-information-technology-and-libraries-vol-45-no-3-2026/</link>
@@ -924,6 +1003,7 @@ The post [Accelerating Generative AI Integration in Libraries (A New Special Iss
       <category>Data Files</category>
       <category>Libraries</category>
       <category>News</category>
+      <pubDate>Mon, 21 Sep 2026 13:56:12 +0000</pubDate>
     </item>    <item>
       <title>Mental Health Awareness Mondays — Maternal Mental Health: It’s More than Postpartum Depression</title>
       <link>https://scholarlykitchen.sspnet.org/2026/09/21/mental-health-awareness-mondays-maternal-mental-health-its-more-than-postpartum-depression/</link>
@@ -945,6 +1025,7 @@ The post [Mental Health Awareness Mondays — Maternal Mental Health: It’s Mor
       <category>maternal mental health</category>
       <category>mental health awareness Mondays</category>
       <category>postpardum syndrome</category>
+      <pubDate>Mon, 21 Sep 2026 09:30:21 +0000</pubDate>
     </item>    <item>
       <title>2026 board election slate</title>
       <link>https://www.crossref.org/blog/2026-board-election-slate/</link>
@@ -1018,6 +1099,7 @@ Special thanks to the committee: Nick Lindsay of MIT Press, Oscar Donde of Pan A
 
 If you have any questions about our election process, please [contact me.](mailto:voting@crossref.org)</source:markdown>
       <guid>cid://https://www.crossref.org/blog/2026-board-election-slate/</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>    <item>
       <title>Urban Libraries Council (ULC) Releases a New Policy Roadmap For Library Leaders: “Future Scenarios: Library Space &#38; Design”</title>
       <link>https://www.infodocket.com/2026/09/18/urban-libraries-council-ulc-releases-a-new-policy-roadmap-for-library-leaders-future-scenarios-library-space-design/</link>
@@ -1033,6 +1115,7 @@ The post [Urban Libraries Council (ULC) Releases a New Policy Roadmap For Librar
       <category>News</category>
       <category>Patrons and Users</category>
       <category>Public Libraries</category>
+      <pubDate>Fri, 18 Sep 2026 21:16:47 +0000</pubDate>
     </item>    <item>
       <title>September 2026</title>
       <link>https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/september-2026/</link>
@@ -1045,6 +1128,7 @@ The post [Urban Libraries Council (ULC) Releases a New Policy Roadmap For Librar
 The post [September 2026](https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/september-2026/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=49951</guid>
       <category>Public Policy Briefing</category>
+      <pubDate>Fri, 18 Sep 2026 13:11:02 +0000</pubDate>
     </item>    <item>
       <title>Guest Post — Does Peer Review Favor Familiarity Over Innovation?</title>
       <link>https://scholarlykitchen.sspnet.org/2026/09/18/guest-post-does-peer-review-favor-familiarity-over-innovation/</link>
@@ -1067,6 +1151,7 @@ The post [Guest Post — Does Peer Review Favor Familiarity Over Innovation?](ht
       <category>novelty</category>
       <category>research integrity</category>
       <category>standards of rigor</category>
+      <pubDate>Fri, 18 Sep 2026 09:30:16 +0000</pubDate>
     </item>    <item>
       <title>How ABES Became the Second-Largest Provider of ROR IDs in Crossref Metadata</title>
       <link>https://ror.org/blog/2026-09-17-abes-ror/</link>
@@ -1076,6 +1161,7 @@ The post [Guest Post — Does Peer Review Favor Familiarity Over Innovation?](ht
       <source:markdown>France&#39;s Bibliographic Agency for Higher Education and Research (ABES) explains how and why thousands of French dissertations are so well-described in Crossref DOI metadata with ROR IDs and more.</source:markdown>
       <guid>cid://https://doi.org/10.71938/rkk2-5510</guid>
       <category>[Case Studies]</category>
+      <pubDate>Thu, 17 Sep 2026 15:20:23 +0000</pubDate>
     </item>    <item>
       <title>Open Access in the European Research Area: Progress Remains Uneven as New Report Calls For More Concerted Action</title>
       <link>https://www.infodocket.com/2026/09/17/open-access-in-the-european-research-area-progress-remains-uneven-as-new-report-calls-for-more-concerted-action/</link>
@@ -1093,6 +1179,7 @@ The post [Open Access in the European Research Area: Progress Remains Uneven as 
       <category>News</category>
       <category>Open Access</category>
       <category>Reports</category>
+      <pubDate>Thu, 17 Sep 2026 13:55:27 +0000</pubDate>
     </item>    <item>
       <title>New York Public Library for the Performing Arts Receives $60M Donation — Largest Single Gift in its History</title>
       <link>https://www.infodocket.com/2026/09/17/new-york-public-library-for-the-performing-arts-receives-60m-donation-largest-single-gift-in-its-history/</link>
@@ -1114,6 +1201,7 @@ The post [New York Public Library for the Performing Arts Receives $60M Donation
       <category>Patrons and Users</category>
       <category>Preservation</category>
       <category>Public Libraries</category>
+      <pubDate>Thu, 17 Sep 2026 13:14:07 +0000</pubDate>
     </item>    <item>
       <title>New Resources from FADGI on Content Authenticity and Provenance for AI-impacted Content</title>
       <link>https://blogs.loc.gov/thesignal/2026/09/fadgi-tcr4cap/</link>
@@ -1128,6 +1216,7 @@ The post [New York Public Library for the Performing Arts Receives $60M Donation
       <category>Formats</category>
       <category>Partners and Collaboration</category>
       <category>Publications and Resources</category>
+      <pubDate>Thu, 17 Sep 2026 13:00:55 +0000</pubDate>
     </item>    <item>
       <title>Rethinking Scholarly Evaluation: Matching Rigor to Purpose</title>
       <link>https://scholarlykitchen.sspnet.org/2026/09/17/rethinking-scholarly-evaluation-matching-rigor-to-purpose/</link>
@@ -1150,6 +1239,7 @@ The post [Rethinking Scholarly Evaluation: Matching Rigor to Purpose](https://sc
       <category>lifecycle of knowledge creation</category>
       <category>scholarly rigor</category>
       <category>validating research</category>
+      <pubDate>Thu, 17 Sep 2026 10:22:13 +0000</pubDate>
     </item>    <item>
       <title>July 2026 board meeting summary</title>
       <link>https://www.crossref.org/blog/july-2026-board-meeting-summary/</link>
@@ -1257,6 +1347,7 @@ We close each meeting with any other business a board member wants to raise. We 
 
 There being no other business, the meeting was adjourned.</source:markdown>
       <guid>cid://https://www.crossref.org/blog/july-2026-board-meeting-summary/</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>    <item>
       <title>Reimagining Research Papers as Interactive and Reliable AI Agents (New Journal Article)</title>
       <link>https://www.infodocket.com/2026/09/16/reimagining-research-papers-as-interactive-and-reliable-ai-agents-new-journal-article/</link>
@@ -1271,6 +1362,7 @@ The post [Reimagining Research Papers as Interactive and Reliable AI Agents (New
       <category>Data Files</category>
       <category>Journal Articles</category>
       <category>News</category>
+      <pubDate>Wed, 16 Sep 2026 18:05:34 +0000</pubDate>
     </item>    <item>
       <title>From Peer Review to the Emergency Room: The Dangerous Path of Fabricated References</title>
       <link>https://blog.scielo.org/blog/2026/09/16/8470/#new_tab</link>
@@ -1286,6 +1378,7 @@ The post [From Peer Review to the Emergency Room: The Dangerous Path of Fabricat
       <category>Artificial Intelligence</category>
       <category>Ethics in Scientific Communication</category>
       <category>Open Peer Review</category>
+      <pubDate>Wed, 16 Sep 2026 18:00:33 +0000</pubDate>
     </item>    <item>
       <title>New Report: Expert Pessimism About the World’s Information Environment Hits Record High, New International Panel on the Information Environment (IPIE) Survey Finds</title>
       <link>https://www.infodocket.com/2026/09/16/new-report-expert-pessimism-about-the-worlds-information-environment-hits-record-high-new-international-panel-on-the-information-environment-ipie-survey-finds/</link>
@@ -1301,6 +1394,7 @@ The post [New Report: Expert Pessimism About the World’s Information Environme
       <category>Funding</category>
       <category>News</category>
       <category>Reports</category>
+      <pubDate>Wed, 16 Sep 2026 17:41:27 +0000</pubDate>
     </item>    <item>
       <title>Developing and Sustaining Partnerships for Reentry and the Transition to Campus</title>
       <link>https://sr.ithaka.org/blog/developing-and-sustaining-partnerships-for-reentry-and-the-transition-to-campus/</link>
@@ -1317,6 +1411,7 @@ The post [Developing and Sustaining Partnerships for Reentry and the Transition 
       <category>Higher education in prison</category>
       <category>Prison education</category>
       <category>Reentry</category>
+      <pubDate>Wed, 16 Sep 2026 16:27:35 +0000</pubDate>
     </item>    <item>
       <title>Survey of Intellectual Freedom Procedures in the United States (New Journal Article)</title>
       <link>https://www.infodocket.com/2026/09/16/survey-of-intellectual-freedomprocedures-in-the-united-states-new-journal-article/</link>
@@ -1332,6 +1427,7 @@ The post [Survey of Intellectual Freedom Procedures in the United States (New Jo
       <category>Data Files</category>
       <category>Libraries</category>
       <category>News</category>
+      <pubDate>Wed, 16 Sep 2026 12:13:02 +0000</pubDate>
     </item>    <item>
       <title>Kitchen Essentials: An Interview with Daniela Saderi of PREreview</title>
       <link>https://scholarlykitchen.sspnet.org/2026/09/16/kitchen-essentials-an-interview-with-daniela-saderi-of-prereview/</link>
@@ -1353,6 +1449,7 @@ The post [Kitchen Essentials: An Interview with Daniela Saderi of PREreview](htt
       <category>peer review week 2026</category>
       <category>PREreview</category>
       <category>research infrastructure</category>
+      <pubDate>Wed, 16 Sep 2026 09:30:31 +0000</pubDate>
     </item>    <item>
       <title>DPLA: Cleveland Public Library Takes the Helm of The National Digital Collection</title>
       <link>https://www.infodocket.com/2026/09/15/dpla-cleveland-public-library-takes-the-helm-of-the-national-digital-collection/</link>
@@ -1370,6 +1467,7 @@ The post [DPLA: Cleveland Public Library Takes the Helm of The National Digital 
       <category>News</category>
       <category>Patrons and Users</category>
       <category>Public Libraries</category>
+      <pubDate>Tue, 15 Sep 2026 16:33:15 +0000</pubDate>
     </item>    <item>
       <title>Improving How Funding Connects to Research Outputs</title>
       <link>https://ror.org/blog/2026-09-15-crossref-funder-matching/</link>
@@ -1379,6 +1477,7 @@ The post [DPLA: Cleveland Public Library Takes the Helm of The National Digital 
       <source:markdown>Starting today, funder names deposited in Crossref metadata without an identifier will be matched to ROR IDs, to support an open and connected Research Nexus.</source:markdown>
       <guid>cid://https://doi.org/10.71938/vwjc-1725</guid>
       <category>[Adoption News]</category>
+      <pubDate>Tue, 15 Sep 2026 16:20:31 +0000</pubDate>
     </item>    <item>
       <title>An Update on Wayback Machine Access</title>
       <link>https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/</link>
@@ -1393,6 +1492,7 @@ The post [An Update on Wayback Machine Access](https://blog.archive.org/2026/09/
       <category>Announcements</category>
       <category>Wayback Machine - Web Archive</category>
       <category>Wayback Machine</category>
+      <pubDate>Tue, 15 Sep 2026 15:14:58 +0000</pubDate>
     </item>    <item>
       <title>Large Scale Digitization in the AI Era: Issues and Model Terms for Libraries and Their Partners (New Issue Paper From Center For Research Libraries)</title>
       <link>https://www.infodocket.com/2026/09/15/large-scale-digitization-in-the-ai-era-issues-and-model-terms-for-libraries-and-their-partners-new-issue-paper-from-center-for-research-libraries/</link>
@@ -1411,6 +1511,7 @@ The post [Large Scale Digitization in the AI Era: Issues and Model Terms for Lib
       <category>New Issue</category>
       <category>News</category>
       <category>Preservation</category>
+      <pubDate>Tue, 15 Sep 2026 15:13:24 +0000</pubDate>
     </item>    <item>
       <title>Don’t Miss Accessibility Conversations at the 2026 Charleston Conference</title>
       <link>https://www.arl.org/blog/dont-miss-accessibility-conversations-at-the-2026-charleston-conference/</link>
@@ -1423,6 +1524,7 @@ The post [Large Scale Digitization in the AI Era: Issues and Model Terms for Lib
 The post [Don’t Miss Accessibility Conversations at the 2026 Charleston Conference](https://www.arl.org/blog/dont-miss-accessibility-conversations-at-the-2026-charleston-conference/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
       <guid>cid://https://www.arl.org/?p=49906</guid>
       <category>Blog</category>
+      <pubDate>Tue, 15 Sep 2026 14:27:27 +0000</pubDate>
     </item>    <item>
       <title>Harvard Crimson Op/Ed: “We’re Using Harvard’s Libraries Wrong”</title>
       <link>https://www.infodocket.com/2026/09/15/harvard-crimson-op-ed-were-using-harvards-libraries-wrong/</link>
@@ -1437,6 +1539,7 @@ The post [Harvard Crimson Op/Ed: “We’re Using Harvard’s Libraries Wrong”
       <category>Data Files</category>
       <category>Libraries</category>
       <category>News</category>
+      <pubDate>Tue, 15 Sep 2026 12:25:19 +0000</pubDate>
     </item>    <item>
       <title>A Commitment to Trustworthy and Authentic Information: Technological Transformation Over the Centuries</title>
       <link>https://blogs.loc.gov/thesignal/2026/09/trustworthy-and-authentic-information/</link>
@@ -1447,6 +1550,7 @@ The post [Harvard Crimson Op/Ed: “We’re Using Harvard’s Libraries Wrong”
       <guid>cid://https://blogs.loc.gov/thesignal/?p=38017</guid>
       <category>Artificial Intelligence</category>
       <category>Digital Content</category>
+      <pubDate>Tue, 15 Sep 2026 12:10:27 +0000</pubDate>
     </item>    <item>
       <title>Guest Post — Peer Review Triage: Deciding What’s Worth Saving</title>
       <link>https://scholarlykitchen.sspnet.org/2026/09/15/guest-post-peer-review-triage-deciding-whats-worth-saving/</link>
@@ -1465,6 +1569,7 @@ The post [Guest Post — Peer Review Triage: Deciding What’s Worth Saving](htt
       <category>peer review crisis</category>
       <category>peer review week 2026</category>
       <category>sustainable peer review</category>
+      <pubDate>Tue, 15 Sep 2026 09:30:18 +0000</pubDate>
     </item>    <item>
       <title>Improving how funding connects to research outputs</title>
       <link>https://www.crossref.org/blog/improving-how-funding-connects-to-research-outputs/</link>
@@ -1553,287 +1658,7 @@ Yes.
 
 If no corresponding ROR ID exists, no ROR ID will be added.</source:markdown>
       <guid>cid://https://www.crossref.org/blog/improving-how-funding-connects-to-research-outputs/</guid>
-    </item>    <item>
-      <title>ARL Daily Intelligence (September 14–16)</title>
-      <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-september-14-17/</link>
-      <description>
-        <![CDATA[<p>Last Updated on September 16, 2026, 4:54 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
-        <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-september-14-17/">ARL Daily Intelligence (September 14–16)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <source:markdown>Last Updated on September 16, 2026, 4:54 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
-
-The post [ARL Daily Intelligence (September 14–16)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-september-14-17/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=49899</guid>
-      <category>ARL Daily Intelligence</category>
-    </item>    <item>
-      <title>Standards Have Provenance Too</title>
-      <link>https://metaarchivist.substack.com/p/standards-have-provenance-too</link>
-      <description>
-        <![CDATA[How China&#8217;s data-paper experiment reached ISO]]>
-      </description>
-      <source:markdown>How China’s data-paper experiment reached ISO</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!JGjh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb6b011a-2425-4c69-b0bd-45ce7d32ba16_1536x1024.png" length="0" type="image/jpeg" />
-      <guid>cid://https://metaarchivist.substack.com/p/standards-have-provenance-too</guid>
-    </item>    <item>
-      <title>Supporting International Students, Sustaining the Research Enterprise</title>
-      <link>https://sr.ithaka.org/blog/supporting-international-students/</link>
-      <description>
-        <![CDATA[<p>Amid growing geopolitical tensions, shifting federal policies, and expanded research security and compliance requirements, universities across the country are facing challenging questions: what do changing policies mean for international scholarly exchange? How can institutions continue to foster academic openness in a constrained environment? And what role can universities continue to play in the global production and circulation of knowledge?</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/supporting-international-students/">Supporting International Students, Sustaining the Research Enterprise</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <source:markdown>Amid growing geopolitical tensions, shifting federal policies, and expanded research security and compliance requirements, universities across the country are facing challenging questions: what do changing policies mean for international scholarly exchange? How can institutions continue to foster academic openness in a constrained environment? And what role can universities continue to play in the global production and circulation of knowledge?
-
-The post [Supporting International Students, Sustaining the Research Enterprise](https://sr.ithaka.org/blog/supporting-international-students/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=326239</guid>
-      <category>Research practices</category>
-      <category>International education</category>
-      <category>international scholarship</category>
-      <category>International students</category>
-      <category>Research</category>
-    </item>    <item>
-      <title>Ask the Chefs: Peer Review Capacity — Uncomfortable Truths and Overlooked Conversations</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/09/14/ask-the-chefs-peer-review-capacity-uncomfortable-truths-and-overlooked-conversations/</link>
-      <description>
-        <![CDATA[<p>For Peer Review Week 2026, we asked the Chefs two questions: What is one uncomfortable truth about peer review that the scholarly publishing community doesn’t talk about enough? And, beyond recruiting more reviewers, what conversation about peer review capacity are we overlooking?</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/09/14/ask-the-chefs-peer-review-capacity-uncomfortable-truths-and-overlooked-conversations/">Ask the Chefs: Peer Review Capacity — Uncomfortable Truths and Overlooked Conversations</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>For Peer Review Week 2026, we asked the Chefs two questions: What is one uncomfortable truth about peer review that the scholarly publishing community doesn’t talk about enough? And, beyond recruiting more reviewers, what conversation about peer review capacity are we overlooking?
-
-The post [Ask the Chefs: Peer Review Capacity — Uncomfortable Truths and Overlooked Conversations](https://scholarlykitchen.sspnet.org/2026/09/14/ask-the-chefs-peer-review-capacity-uncomfortable-truths-and-overlooked-conversations/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62773</guid>
-      <category>Artificial Intelligence</category>
-      <category>Authority</category>
-      <category>Authors</category>
-      <category>Controversial Topics</category>
-      <category>Ethics</category>
-      <category>Infrastructure</category>
-      <category>Innovation</category>
-      <category>Peer Review</category>
-      <category>Research</category>
-      <category>Research Integrity</category>
-      <category>Technology</category>
-      <category>Tools</category>
-      <category>World of Tomorrow</category>
-      <category>AI</category>
-      <category>AI in peer review</category>
-      <category>Peer Review Week</category>
-      <category>peer review week 2026</category>
-      <category>prw</category>
-      <category>PRW 2026</category>
-      <category>research integrity</category>
-      <category>reviewer capacity</category>
-    </item>    <item>
-      <title>Director’s cut #1: implementing semantic interoperability</title>
-      <link>https://opencitations.hypotheses.org/4355</link>
-      <description>
-        <![CDATA[“Director’s cut” is a new bimonthly blog series launched on the OpenCitations blog to share the Director’s point of view on the hidden work happening within our infrastructure. In our roadmap, informed by a community survey we conducted to address the needs of our users (and potential users), we promised to focus, among other things, on strengthening backend development to foster better semantic interoperability with other research infrastructures. Indeed, such a topic is gaining momentum in recent months and has generated a lot of &#8230; <a href="https://opencitations.hypotheses.org/4355" class="more-link">Continue reading <span class="screen-reader-text">Director’s cut #1: implementing semantic interoperability</span></a>]]>
-      </description>
-      <source:markdown>“Director’s cut” is a new bimonthly blog series launched on the OpenCitations blog to share the Director’s point of view on the hidden work happening within our infrastructure. In our roadmap, informed by a community survey we conducted to address the needs of our users (and potential users), we promised to focus, among other things, on strengthening backend development to foster better semantic interoperability with other research infrastructures. Indeed, such a topic is gaining momentum in recent months and has generated a lot of … [Continue reading Director’s cut #1: implementing semantic interoperability](https://opencitations.hypotheses.org/4355)</source:markdown>
-      <guid>cid://https://opencitations.hypotheses.org/?p=4355</guid>
-      <category>Bibliographic references</category>
-      <category>Director&#39;s cut</category>
-      <category>Open Citations</category>
-      <category>OpenCitations</category>
-      <category>OpenCitations Indexes</category>
-      <category>OpenCitations Meta</category>
-      <category>Semantic Publishing</category>
-      <category>Community Survey</category>
-      <category>Graphia</category>
-      <category>open research information</category>
-      <category>Principles of Open Scholarly Infrastructure</category>
-      <category>RAMOSE</category>
-      <category>REST API</category>
-      <category>road</category>
-      <category>semantic publishing</category>
-      <category>SKG-IF</category>
-      <category>SPARQL</category>
-    </item>    <item>
-      <title>Strengthening Scholarly Publishing in Africa</title>
-      <link>https://www.crossref.org/blog/strengthening-scholarly-publishing-in-africa/</link>
-      <description>
-        <![CDATA[<p><em><strong>French version</strong> –– <a href="#frenchversion">Version française</a></em></p>
-        <p>Strengthening Scholarly Publishing in Africa is a collaborative webinar series bringing together ASSAf, Crossref, DOAJ, EIFL, and PKP to share practical guidance, resources, and approaches for strengthening the publishing ecosystem in the region. This series responds to the growing interest in open access, digital publishing, stronger editorial practices, and greater visibility of research publishing across Africa. Each partner organisation has long experience of building that capacity in the area of their expertise. In this series, we’re coming together to offer a more holistic learning experience to the community of African publishers, putting different aspects of the publishing process in their broader context.</p>
-        <p>The entire series is offered simultaneously in English and French.</p>
-        <p>You are welcome to join any of the sessions selectively, or participate actively in the full series to receive a certificate of completion.</p>
-        <p>Please read on about the learning objectives for each webinar and register for the sessions of interest.</p>
-        <h2 id="30-september-2026-strengthening-trusted-open-access-publishing-in-africa">30 September 2026: Strengthening Trusted Open Access Publishing in Africa</h2>
-        <p>This opening session introduces the purpose and structure of the webinar series, setting the scene for a coordinated capacity-building pathway to strengthen scholarly publishing in Africa. The session will highlight why editorial quality, transparency, publishing standards, discoverability, and sustainability are essential for trusted open access journals and book publishing. It will also explain how participation in open scholarly infrastructure, including DOAJ, OJS, Crossref, and related services, supports the visibility and integrity of African research. Participants will be introduced to the main themes of the series, including digitisation and preservation, publishing platforms, editorial workflows, metadata, research visibility, and long-term journal sustainability. The session will position the series as a collaborative effort to support African publishers in improving quality, strengthening operations, and connecting their publications more effectively to the global scholarly communication ecosystem.
-        <a href="https://us02web.zoom.us/webinar/register/WN_--SH541-TgCgPz6T0OB0oA" target="_blank">Register</a></p>
-        <h2 id="7-october-2026-day-to-day-journal-operations">7 October 2026: Day-to-day journal operations</h2>
-        <p>Efficient editorial workflows are crucial for maintaining quality and timely publication. This session explores ways to optimise daily editorial workflows from manuscript submission, through editorial review, selection of reviewers, peer review, production, publication and post-publication discussions. Special attention will be paid to the realities of volunteer-led and institutionally supported journals, as well as to common areas for improvement in journal transparency, discoverability, accessibility, interoperability and compliance with good publishing practices, and to approaches for systematically assessing journals against these requirements. This session builds on the <a href="https://www.eifl.net/resources/eifl-guide-editorial-workflows-diamond-open-access-journals" target="_blank">EIFL Guide on Editorial Workflows in Diamond Open Access Journals</a>, but will also be useful to the editors of all types of journals.
-        <a href="https://us02web.zoom.us/webinar/register/WN__uDG8xaeRm6Z3Y_IBdYavg" target="_blank">Register</a></p>
-        <h2 id="21-october-2026-plug-it-in-connecting-ojs-to-scholarly-infrastructure">21 October 2026: Plug It In: Connecting OJS to Scholarly Infrastructure</h2>
-        <p>This session introduces the key settings, workflows, and metadata practices that help journals connect OJS to the wider scholarly communications ecosystem. Participants will learn where metadata is entered and managed in OJS, how to configure policies and settings that support indexing services such as DOAJ, and how to use built-in features and plugins to connect with services like Crossref. The session will also highlight the importance of maintaining these connections through regular platform upgrades and good metadata stewardship.
-        <a href="https://pkp.sfu.ca/event/plug-it-in-connecting-ojs-to-scholarly-infrastructure/" target="_blank">Register</a></p>
-        <h2 id="4-november-2026-sustainability-of-scholarly-publishing-in-africa">4 November 2026: Sustainability of scholarly publishing in Africa</h2>
-        <p>Sustainability is a multidimensional construct that goes beyond financial resources to include human, technological, and social capital (<a href="https://journals.sagepub.com/doi/10.1177/02666669251411317" target="_blank">Kwanya and Ateka</a> (2026)). This session explores journal sustainability, drawing from experiences of African Diamond OA journals developing and implementing their sustainability strategies and action plans. Guidance will be provided on how to shift from issue-to-issue or year-to-year planning to multi-year planning and from rough cost estimates to clearly defined funding streams with realistic expectations and a contingency plan. Common funding challenges will be discussed and practical solutions shared. Financial Sustainability Planning Toolkit for Diamond OA journals with planning templates will be presented, and different funding sources discussed (based on <a href="https://doi.org/10.5281/zenodo.18569135" target="_blank">Funding sources of African no-fee open access journals</a>).
-        <a href="https://us02web.zoom.us/webinar/register/WN_N1_CTekgRtS8wG9rGtfo3w" target="_blank">Register</a></p>
-        <h2 id="25-november-2026-enhancing-research-visibility-and-trustworthiness-through-metadata">25 November 2026: Enhancing research visibility and trustworthiness through metadata</h2>
-        <p>Research institutions across Africa produce valuable scholarly outputs, yet gaps in metadata practices can limit their visibility, discoverability, trustworthiness, and connection to the global research ecosystem. This session will offer practical tips about workflows to support registering richer metadata for increased research visibility and impact.
-        <a href="https://crossref.zoom.us/webinar/register/WN_YRKdlCmVS7Kxf1MsjXUbRA" target="_blank">Register</a></p>
-        <p>The organisations behind the series</p>
-        <h3 id="assaf">ASSAf</h3>
-        <p>The Academy of Science of South Africa (ASSAf) was inaugurated in May 1996 by the former President of South Africa and patron of the Academy, Nelson Mandela. It was formed in response to the need for an academy of science congruent with the dawn of democracy in South Africa – activist in its mission of using science for the benefit of society. The mandate of the Academy encompasses all fields of scientific enquiry and it includes the full diversity of South Africa’s distinguished scientists. The Parliament of South Africa passed the Academy of Science of South Africa Act (Act 67 of 2001), as amended, which came into operation in May 2002. ASSAf is the official national Academy of Science of South Africa and represents the country in the international community of science academies. Since its inception, ASSAf has grown from a small, emergent organisation to a well-established academy.</p>
-        <h3 id="crossref">Crossref</h3>
-        <p>Crossref is a not-for-profit membership organisation that runs open infrastructure for a connected scholarly research record. We connect 25,000+ members across 167 countries, registering over 185 million records and facilitating 2.1 billion metadata queries each month. Our mission is to make research objects easy to find, cite, link, assess, and reuse.</p>
-        <h3 id="doaj">DOAJ</h3>
-        <p>The Directory of Open Access Journals (DOAJ) is a unique and extensive index of diverse open access journals from around the world, driven by a growing community. It is committed to ensuring quality content is openly available online for everyone. DOAJ is run and managed by the DOAJ Foundation, a non-profit community-governed Danish foundation based in Denmark, but has team members and Ambassadors from all over the world. DOAJ&rsquo;s mission is to increase the visibility, accessibility, reputation, usage and impact of quality, peer-reviewed, open access scholarly research journals globally, regardless of discipline, geography or language.</p>
-        <h3 id="eifl">EIFL</h3>
-        <p>EIFL (Electronic Information for Libraries) is a not-for-profit organisation that works with libraries to enable access to knowledge in developing and transition economy countries in Africa, Asia Pacific, Europe and Latin America.</p>
-        <h3 id="pkp">PKP</h3>
-        <p>The Public Knowledge Project (PKP) is a not-for-profit, community-governed organization based at Simon Fraser University (SFU), with its remote team based all around the world. Its vision is for a world where everyone can access and meaningfully contribute to open knowledge for the benefit of all. In collaboration with our global community, PKP conducts research, develops free and open source software, and works to increase the quality, diversity and accessibility of scholarly publishing. While it is best known for Open Journal Systems (OJS) used by more than 60,000 journals globally, PKP also develops Open Monograph Press (OMP) and Open Preprint Systems (OPS).</p>
-        <p><a id="frenchversion"></a>
-        <em><strong>French version</strong></em></p>
-        <h2 id="version-française">Version française</h2>
-        <p>Renforcer l’édition scientifique en Afrique
-        « Renforcer l’édition scientifique en Afrique » est une série de webinaires organisée par l’ASSAf, Crossref, le DOAJ, l’EIFL et le PKP afin de partager des conseils pratiques, des ressources et des approches visant à renforcer l’écosystème de l’édition dans la région. Cette série répond à l’intérêt croissant pour le libre accès, l’édition numérique, le renforcement des pratiques éditoriales et une plus grande visibilité des publications de recherche à travers l’Afrique. Chaque organisation partenaire possède une longue expérience dans le renforcement de ces capacités dans son domaine d’expertise. Dans le cadre de cette série, nous unissons nos forces pour offrir une expérience d’apprentissage plus globale à la communauté des éditeurs africains, en replaçant les différents aspects du processus d’édition dans leur contexte plus large.</p>
-        <p>L&rsquo;ensemble de la série est proposé simultanément en anglais et en français.</p>
-        <p>Vous pouvez assister à certaines sessions de votre choix ou participer activement à l&rsquo;intégralité de la série afin d&rsquo;obtenir une attestation de participation.</p>
-        <p>Nous vous invitons à découvrir les objectifs pédagogiques de chaque webinaire et à vous inscrire aux sessions qui vous intéressent.</p>
-        <h2 id="30-septembre-2026--renforcer-lédition-en-libre-accès-de-confiance-en-afrique">30 septembre 2026 : Renforcer l’édition en libre accès de confiance en Afrique</h2>
-        <p>Cette session d’ouverture présente l’objectif et la structure de la série de webinaires, posant ainsi les bases d’un parcours coordonné de renforcement des capacités visant à consolider l’édition scientifique en Afrique. La session mettra en évidence pourquoi la qualité éditoriale, la transparence, les normes de publication, la découvrabilité et la pérennité sont essentielles pour des revues et des ouvrages en libre accès fiables. Elle expliquera également comment la participation à des infrastructures scientifiques ouvertes, notamment le DOAJ, l’OJS, Crossref et les services associés, favorise la visibilité et l’intégrité de la recherche africaine. Les participants découvriront les principaux thèmes de la série, notamment la numérisation et la conservation, les plateformes de publication, les flux de travail éditoriaux, les métadonnées, la visibilité de la recherche et la pérennité à long terme des revues. Cette session présentera la série comme une initiative collaborative visant à aider les éditeurs africains à améliorer la qualité, à renforcer leurs opérations et à relier plus efficacement leurs publications à l’écosystème mondial de la communication scientifique.
-        <a href="https://us02web.zoom.us/webinar/register/WN_--SH541-TgCgPz6T0OB0oA" target="_blank">S’inscrire</a></p>
-        <h2 id="7-octobre-2026--le-fonctionnement-quotidien-des-revues">7 octobre 2026 : Le fonctionnement quotidien des revues</h2>
-        <p>Des flux de travail éditoriaux efficaces sont essentiels pour maintenir la qualité et assurer une publication dans les délais. Cette session explore les moyens d’optimiser les flux de travail éditoriaux quotidiens, depuis la soumission des manuscrits jusqu’à la révision éditoriale, en passant par la sélection des évaluateurs, l’évaluation par les pairs, la production, la publication et les discussions post-publication. Une attention particulière sera accordée aux réalités des revues gérées par des bénévoles et soutenues par des institutions, ainsi qu’aux domaines communs à améliorer en matière de transparence, de découvrabilité, d’accessibilité, d’interopérabilité et de conformité aux bonnes pratiques éditoriales, et aux approches permettant d’évaluer systématiquement les revues au regard de ces exigences. Cette session s’appuie sur <a href="https://www.eifl.net/resources/eifl-guide-editorial-workflows-diamond-open-access-journals" target="_blank">le Guide de l’EIFL sur les flux de travail éditoriaux dans les revues en libre accès « Diamond »</a>, mais sera également utile aux rédacteurs en chef de tous types de revues.
-        <a href="https://us02web.zoom.us/webinar/register/WN__uDG8xaeRm6Z3Y_IBdYavg" target="_blank">S’inscrire</a></p>
-        <h2 id="21-octobre-2026--plug-it-in--connecter-ojs-à-linfrastructure-scientifique">21 octobre 2026 : Plug It In : Connecter OJS à l’infrastructure scientifique</h2>
-        <p>Cette session présente les principaux paramètres, flux de travail et pratiques en matière de métadonnées qui aident les revues à connecter OJS à l’écosystème plus large de la communication scientifique. Les participants apprendront où les métadonnées sont saisies et gérées dans OJS, comment configurer les politiques et les paramètres qui prennent en charge les services d’indexation tels que le DOAJ, et comment utiliser les fonctionnalités intégrées et les plugins pour se connecter à des services comme Crossref. La session mettra également en évidence l’importance de maintenir ces connexions grâce à des mises à jour régulières de la plateforme et à une bonne gestion des métadonnées.
-        <a href="https://pkp.sfu.ca/event/plug-it-in-connecting-ojs-to-scholarly-infrastructure/" target="_blank">S&rsquo;inscrire</a></p>
-        <h2 id="4-novembre-2026--la-pérennité-de-lédition-scientifique-en-afrique">4 novembre 2026 : La pérennité de l&rsquo;édition scientifique en Afrique</h2>
-        <p>La pérennité est un concept multidimensionnel qui va au-delà des ressources financières pour inclure le capital humain, technologique et social (<a href="https://journals.sagepub.com/doi/10.1177/02666669251411317" target="_blank">Kwanya et Ateka</a>, 2026). Cette session explore la pérennité des revues, en s&rsquo;appuyant sur les expériences de revues africaines en accès libre « Diamond » qui ont développé et mis en œuvre leurs stratégies et plans d&rsquo;action en matière de pérennité. Des conseils seront prodigués sur la manière de passer d’une planification numéro par numéro ou année par année à une planification pluriannuelle, et d’estimations approximatives des coûts à des sources de financement clairement définies, assorties d’attentes réalistes et d’un plan d’urgence. Les défis courants en matière de financement seront abordés et des solutions pratiques seront partagées. Une boîte à outils de planification de la pérennité financière destinée aux revues en libre accès « Diamond » (avec des modèles de planification) sera présentée, et différentes sources de financement seront examinées (sur la base <a href="https://doi.org/10.5281/zenodo.18569135" target="_blank">des sources de financement des revues africaines en libre accès sans frais</a>).
-        <a href="https://us02web.zoom.us/webinar/register/WN_N1_CTekgRtS8wG9rGtfo3w" target="_blank">S’inscrire</a></p>
-        <h2 id="25-novembre-2026--renforcer-la-visibilité-et-la-fiabilité-de-la-recherche-grâce-aux-métadonnées">25 novembre 2026 : Renforcer la visibilité et la fiabilité de la recherche grâce aux métadonnées</h2>
-        <p>Les institutions de recherche à travers l’Afrique produisent des résultats scientifiques précieux, mais des lacunes dans les pratiques relatives aux métadonnées peuvent limiter leur visibilité, leur accessibilité, leur fiabilité et leur connexion à l’écosystème mondial de la recherche. Cette session proposera des conseils pratiques sur les flux de travail permettant d’enregistrer des métadonnées plus riches afin d’accroître la visibilité et l’impact de la recherche.
-        <a href="https://crossref.zoom.us/webinar/register/WN_YRKdlCmVS7Kxf1MsjXUbRA" target="_blank">S’inscrire</a></p>
-        <p>Les organisations à l&rsquo;origine de la série</p>
-        <h3 id="assaf-1">ASSAf</h3>
-        <p>L&rsquo;Académie des sciences d&rsquo;Afrique du Sud (ASSAf) a été inaugurée en mai 1996 par l&rsquo;ancien président de l&rsquo;Afrique du Sud et parrain de l&rsquo;Académie, Nelson Mandela. Elle a été créée pour répondre au besoin d&rsquo;une académie des sciences en phase avec l&rsquo;avènement de la démocratie en Afrique du Sud – une académie engagée dans sa mission consistant à mettre la science au service de la société. Le mandat de l’Académie englobe tous les domaines de la recherche scientifique et rassemble toute la diversité des éminents scientifiques sud-africains. Le Parlement sud-africain a adopté la loi sur l’Académie des sciences d’Afrique du Sud (loi n° 67 de 2001), telle que modifiée, qui est entrée en vigueur en mai 2002. L’ASSAf est l’Académie nationale officielle des sciences d’Afrique du Sud et représente le pays au sein de la communauté internationale des académies des sciences. Depuis sa création, l’ASSAf est passée d’une petite organisation naissante à une académie bien établie.</p>
-        <h3 id="crossref-1">Crossref</h3>
-        <p>Crossref est une organisation associative à but non lucratif qui gère une infrastructure ouverte destinée à relier les données issues de la recherche scientifique. Nous mettons en relation plus de 25 000 membres répartis dans 167 pays, enregistrons plus de 185 millions d’entrées et traitons 2,1 milliards de requêtes de métadonnées chaque mois. Notre mission est de faciliter la recherche, la citation, la mise en lien, l’évaluation et la réutilisation des objets de recherche.</p>
-        <h3 id="doaj-1">DOAJ</h3>
-        <p>Le Directory of Open Access Journals (DOAJ) est un index unique et exhaustif regroupant une grande diversité de revues en libre accès du monde entier, animé par une communauté en pleine expansion. Il s’engage à garantir que des contenus de qualité soient librement accessibles en ligne pour tous. Le DOAJ est dirigé et géré par la Fondation DOAJ, une fondation danoise à but non lucratif régie par la communauté et basée au Danemark, mais qui compte des membres de l’équipe et des ambassadeurs issus du monde entier. La mission du DOAJ est d’accroître la visibilité, l’accessibilité, la réputation, l’utilisation et l’impact des revues de recherche scientifique de qualité, évaluées par des pairs et en libre accès, à l’échelle mondiale, indépendamment de la discipline, de la situation géographique ou de la langue.</p>
-        <h3 id="eifl-1">EIFL</h3>
-        <p>EIFL (Electronic Information for Libraries) est une organisation à but non lucratif qui collabore avec les bibliothèques pour faciliter l’accès à la connaissance dans les pays en développement et en transition économique d’Afrique, d’Asie-Pacifique, d’Europe et d’Amérique latine.</p>
-        <h3 id="pkp-1">PKP</h3>
-        <p>Le Public Knowledge Project (PKP) est une organisation à but non lucratif, gérée par sa communauté, basée à l’université Simon Fraser (SFU), dont l’équipe travaille à distance depuis les quatre coins du monde. Sa vision est celle d’un monde où chacun peut accéder à la connaissance ouverte et y contribuer de manière significative, pour le bien de tous. En collaboration avec sa communauté mondiale, le PKP mène des recherches, développe des logiciels libres et open source, et œuvre à améliorer la qualité, la diversité et l’accessibilité de l’édition scientifique. Bien qu’il soit surtout connu pour Open Journal Systems (OJS), utilisé par plus de 60 000 revues à travers le monde, le PKP développe également Open Monograph Press (OMP) et Open Preprint Systems (OPS).</p>]]>
-      </description>
-      <source:markdown>_**French version** –– [Version française](#frenchversion)_
-
-Strengthening Scholarly Publishing in Africa is a collaborative webinar series bringing together ASSAf, Crossref, DOAJ, EIFL, and PKP to share practical guidance, resources, and approaches for strengthening the publishing ecosystem in the region. This series responds to the growing interest in open access, digital publishing, stronger editorial practices, and greater visibility of research publishing across Africa. Each partner organisation has long experience of building that capacity in the area of their expertise. In this series, we’re coming together to offer a more holistic learning experience to the community of African publishers, putting different aspects of the publishing process in their broader context.
-
-The entire series is offered simultaneously in English and French.
-
-You are welcome to join any of the sessions selectively, or participate actively in the full series to receive a certificate of completion.
-
-Please read on about the learning objectives for each webinar and register for the sessions of interest.
-
-## 30 September 2026: Strengthening Trusted Open Access Publishing in Africa
-
-This opening session introduces the purpose and structure of the webinar series, setting the scene for a coordinated capacity-building pathway to strengthen scholarly publishing in Africa. The session will highlight why editorial quality, transparency, publishing standards, discoverability, and sustainability are essential for trusted open access journals and book publishing. It will also explain how participation in open scholarly infrastructure, including DOAJ, OJS, Crossref, and related services, supports the visibility and integrity of African research. Participants will be introduced to the main themes of the series, including digitisation and preservation, publishing platforms, editorial workflows, metadata, research visibility, and long-term journal sustainability. The session will position the series as a collaborative effort to support African publishers in improving quality, strengthening operations, and connecting their publications more effectively to the global scholarly communication ecosystem.
-[Register](https://us02web.zoom.us/webinar/register/WN_--SH541-TgCgPz6T0OB0oA)
-
-## 7 October 2026: Day-to-day journal operations
-
-Efficient editorial workflows are crucial for maintaining quality and timely publication. This session explores ways to optimise daily editorial workflows from manuscript submission, through editorial review, selection of reviewers, peer review, production, publication and post-publication discussions. Special attention will be paid to the realities of volunteer-led and institutionally supported journals, as well as to common areas for improvement in journal transparency, discoverability, accessibility, interoperability and compliance with good publishing practices, and to approaches for systematically assessing journals against these requirements. This session builds on the [EIFL Guide on Editorial Workflows in Diamond Open Access Journals](https://www.eifl.net/resources/eifl-guide-editorial-workflows-diamond-open-access-journals), but will also be useful to the editors of all types of journals.
-[Register](https://us02web.zoom.us/webinar/register/WN__uDG8xaeRm6Z3Y_IBdYavg)
-
-## 21 October 2026: Plug It In: Connecting OJS to Scholarly Infrastructure
-
-This session introduces the key settings, workflows, and metadata practices that help journals connect OJS to the wider scholarly communications ecosystem. Participants will learn where metadata is entered and managed in OJS, how to configure policies and settings that support indexing services such as DOAJ, and how to use built-in features and plugins to connect with services like Crossref. The session will also highlight the importance of maintaining these connections through regular platform upgrades and good metadata stewardship.
-[Register](https://pkp.sfu.ca/event/plug-it-in-connecting-ojs-to-scholarly-infrastructure/)
-
-## 4 November 2026: Sustainability of scholarly publishing in Africa
-
-Sustainability is a multidimensional construct that goes beyond financial resources to include human, technological, and social capital ( [Kwanya and Ateka](https://journals.sagepub.com/doi/10.1177/02666669251411317) (2026)). This session explores journal sustainability, drawing from experiences of African Diamond OA journals developing and implementing their sustainability strategies and action plans. Guidance will be provided on how to shift from issue-to-issue or year-to-year planning to multi-year planning and from rough cost estimates to clearly defined funding streams with realistic expectations and a contingency plan. Common funding challenges will be discussed and practical solutions shared. Financial Sustainability Planning Toolkit for Diamond OA journals with planning templates will be presented, and different funding sources discussed (based on [Funding sources of African no-fee open access journals](https://doi.org/10.5281/zenodo.18569135)).
-[Register](https://us02web.zoom.us/webinar/register/WN_N1_CTekgRtS8wG9rGtfo3w)
-
-## 25 November 2026: Enhancing research visibility and trustworthiness through metadata
-
-Research institutions across Africa produce valuable scholarly outputs, yet gaps in metadata practices can limit their visibility, discoverability, trustworthiness, and connection to the global research ecosystem. This session will offer practical tips about workflows to support registering richer metadata for increased research visibility and impact.
-[Register](https://crossref.zoom.us/webinar/register/WN_YRKdlCmVS7Kxf1MsjXUbRA)
-
-The organisations behind the series
-
-### ASSAf
-
-The Academy of Science of South Africa (ASSAf) was inaugurated in May 1996 by the former President of South Africa and patron of the Academy, Nelson Mandela. It was formed in response to the need for an academy of science congruent with the dawn of democracy in South Africa – activist in its mission of using science for the benefit of society. The mandate of the Academy encompasses all fields of scientific enquiry and it includes the full diversity of South Africa’s distinguished scientists. The Parliament of South Africa passed the Academy of Science of South Africa Act (Act 67 of 2001), as amended, which came into operation in May 2002. ASSAf is the official national Academy of Science of South Africa and represents the country in the international community of science academies. Since its inception, ASSAf has grown from a small, emergent organisation to a well-established academy.
-
-### Crossref
-
-Crossref is a not-for-profit membership organisation that runs open infrastructure for a connected scholarly research record. We connect 25,000+ members across 167 countries, registering over 185 million records and facilitating 2.1 billion metadata queries each month. Our mission is to make research objects easy to find, cite, link, assess, and reuse.
-
-### DOAJ
-
-The Directory of Open Access Journals (DOAJ) is a unique and extensive index of diverse open access journals from around the world, driven by a growing community. It is committed to ensuring quality content is openly available online for everyone. DOAJ is run and managed by the DOAJ Foundation, a non-profit community-governed Danish foundation based in Denmark, but has team members and Ambassadors from all over the world. DOAJ’s mission is to increase the visibility, accessibility, reputation, usage and impact of quality, peer-reviewed, open access scholarly research journals globally, regardless of discipline, geography or language.
-
-### EIFL
-
-EIFL (Electronic Information for Libraries) is a not-for-profit organisation that works with libraries to enable access to knowledge in developing and transition economy countries in Africa, Asia Pacific, Europe and Latin America.
-
-### PKP
-
-The Public Knowledge Project (PKP) is a not-for-profit, community-governed organization based at Simon Fraser University (SFU), with its remote team based all around the world. Its vision is for a world where everyone can access and meaningfully contribute to open knowledge for the benefit of all. In collaboration with our global community, PKP conducts research, develops free and open source software, and works to increase the quality, diversity and accessibility of scholarly publishing. While it is best known for Open Journal Systems (OJS) used by more than 60,000 journals globally, PKP also develops Open Monograph Press (OMP) and Open Preprint Systems (OPS).
-
-_**French version**_
-
-## Version française
-
-Renforcer l’édition scientifique en Afrique
-« Renforcer l’édition scientifique en Afrique » est une série de webinaires organisée par l’ASSAf, Crossref, le DOAJ, l’EIFL et le PKP afin de partager des conseils pratiques, des ressources et des approches visant à renforcer l’écosystème de l’édition dans la région. Cette série répond à l’intérêt croissant pour le libre accès, l’édition numérique, le renforcement des pratiques éditoriales et une plus grande visibilité des publications de recherche à travers l’Afrique. Chaque organisation partenaire possède une longue expérience dans le renforcement de ces capacités dans son domaine d’expertise. Dans le cadre de cette série, nous unissons nos forces pour offrir une expérience d’apprentissage plus globale à la communauté des éditeurs africains, en replaçant les différents aspects du processus d’édition dans leur contexte plus large.
-
-L’ensemble de la série est proposé simultanément en anglais et en français.
-
-Vous pouvez assister à certaines sessions de votre choix ou participer activement à l’intégralité de la série afin d’obtenir une attestation de participation.
-
-Nous vous invitons à découvrir les objectifs pédagogiques de chaque webinaire et à vous inscrire aux sessions qui vous intéressent.
-
-## 30 septembre 2026 : Renforcer l’édition en libre accès de confiance en Afrique
-
-Cette session d’ouverture présente l’objectif et la structure de la série de webinaires, posant ainsi les bases d’un parcours coordonné de renforcement des capacités visant à consolider l’édition scientifique en Afrique. La session mettra en évidence pourquoi la qualité éditoriale, la transparence, les normes de publication, la découvrabilité et la pérennité sont essentielles pour des revues et des ouvrages en libre accès fiables. Elle expliquera également comment la participation à des infrastructures scientifiques ouvertes, notamment le DOAJ, l’OJS, Crossref et les services associés, favorise la visibilité et l’intégrité de la recherche africaine. Les participants découvriront les principaux thèmes de la série, notamment la numérisation et la conservation, les plateformes de publication, les flux de travail éditoriaux, les métadonnées, la visibilité de la recherche et la pérennité à long terme des revues. Cette session présentera la série comme une initiative collaborative visant à aider les éditeurs africains à améliorer la qualité, à renforcer leurs opérations et à relier plus efficacement leurs publications à l’écosystème mondial de la communication scientifique.
-[S’inscrire](https://us02web.zoom.us/webinar/register/WN_--SH541-TgCgPz6T0OB0oA)
-
-## 7 octobre 2026 : Le fonctionnement quotidien des revues
-
-Des flux de travail éditoriaux efficaces sont essentiels pour maintenir la qualité et assurer une publication dans les délais. Cette session explore les moyens d’optimiser les flux de travail éditoriaux quotidiens, depuis la soumission des manuscrits jusqu’à la révision éditoriale, en passant par la sélection des évaluateurs, l’évaluation par les pairs, la production, la publication et les discussions post-publication. Une attention particulière sera accordée aux réalités des revues gérées par des bénévoles et soutenues par des institutions, ainsi qu’aux domaines communs à améliorer en matière de transparence, de découvrabilité, d’accessibilité, d’interopérabilité et de conformité aux bonnes pratiques éditoriales, et aux approches permettant d’évaluer systématiquement les revues au regard de ces exigences. Cette session s’appuie sur [le Guide de l’EIFL sur les flux de travail éditoriaux dans les revues en libre accès « Diamond »](https://www.eifl.net/resources/eifl-guide-editorial-workflows-diamond-open-access-journals), mais sera également utile aux rédacteurs en chef de tous types de revues.
-[S’inscrire](https://us02web.zoom.us/webinar/register/WN__uDG8xaeRm6Z3Y_IBdYavg)
-
-## 21 octobre 2026 : Plug It In : Connecter OJS à l’infrastructure scientifique
-
-Cette session présente les principaux paramètres, flux de travail et pratiques en matière de métadonnées qui aident les revues à connecter OJS à l’écosystème plus large de la communication scientifique. Les participants apprendront où les métadonnées sont saisies et gérées dans OJS, comment configurer les politiques et les paramètres qui prennent en charge les services d’indexation tels que le DOAJ, et comment utiliser les fonctionnalités intégrées et les plugins pour se connecter à des services comme Crossref. La session mettra également en évidence l’importance de maintenir ces connexions grâce à des mises à jour régulières de la plateforme et à une bonne gestion des métadonnées.
-[S’inscrire](https://pkp.sfu.ca/event/plug-it-in-connecting-ojs-to-scholarly-infrastructure/)
-
-## 4 novembre 2026 : La pérennité de l’édition scientifique en Afrique
-
-La pérennité est un concept multidimensionnel qui va au-delà des ressources financières pour inclure le capital humain, technologique et social ( [Kwanya et Ateka](https://journals.sagepub.com/doi/10.1177/02666669251411317), 2026). Cette session explore la pérennité des revues, en s’appuyant sur les expériences de revues africaines en accès libre « Diamond » qui ont développé et mis en œuvre leurs stratégies et plans d’action en matière de pérennité. Des conseils seront prodigués sur la manière de passer d’une planification numéro par numéro ou année par année à une planification pluriannuelle, et d’estimations approximatives des coûts à des sources de financement clairement définies, assorties d’attentes réalistes et d’un plan d’urgence. Les défis courants en matière de financement seront abordés et des solutions pratiques seront partagées. Une boîte à outils de planification de la pérennité financière destinée aux revues en libre accès « Diamond » (avec des modèles de planification) sera présentée, et différentes sources de financement seront examinées (sur la base [des sources de financement des revues africaines en libre accès sans frais](https://doi.org/10.5281/zenodo.18569135)).
-[S’inscrire](https://us02web.zoom.us/webinar/register/WN_N1_CTekgRtS8wG9rGtfo3w)
-
-## 25 novembre 2026 : Renforcer la visibilité et la fiabilité de la recherche grâce aux métadonnées
-
-Les institutions de recherche à travers l’Afrique produisent des résultats scientifiques précieux, mais des lacunes dans les pratiques relatives aux métadonnées peuvent limiter leur visibilité, leur accessibilité, leur fiabilité et leur connexion à l’écosystème mondial de la recherche. Cette session proposera des conseils pratiques sur les flux de travail permettant d’enregistrer des métadonnées plus riches afin d’accroître la visibilité et l’impact de la recherche.
-[S’inscrire](https://crossref.zoom.us/webinar/register/WN_YRKdlCmVS7Kxf1MsjXUbRA)
-
-Les organisations à l’origine de la série
-
-### ASSAf
-
-L’Académie des sciences d’Afrique du Sud (ASSAf) a été inaugurée en mai 1996 par l’ancien président de l’Afrique du Sud et parrain de l’Académie, Nelson Mandela. Elle a été créée pour répondre au besoin d’une académie des sciences en phase avec l’avènement de la démocratie en Afrique du Sud – une académie engagée dans sa mission consistant à mettre la science au service de la société. Le mandat de l’Académie englobe tous les domaines de la recherche scientifique et rassemble toute la diversité des éminents scientifiques sud-africains. Le Parlement sud-africain a adopté la loi sur l’Académie des sciences d’Afrique du Sud (loi n° 67 de 2001), telle que modifiée, qui est entrée en vigueur en mai 2002. L’ASSAf est l’Académie nationale officielle des sciences d’Afrique du Sud et représente le pays au sein de la communauté internationale des académies des sciences. Depuis sa création, l’ASSAf est passée d’une petite organisation naissante à une académie bien établie.
-
-### Crossref
-
-Crossref est une organisation associative à but non lucratif qui gère une infrastructure ouverte destinée à relier les données issues de la recherche scientifique. Nous mettons en relation plus de 25 000 membres répartis dans 167 pays, enregistrons plus de 185 millions d’entrées et traitons 2,1 milliards de requêtes de métadonnées chaque mois. Notre mission est de faciliter la recherche, la citation, la mise en lien, l’évaluation et la réutilisation des objets de recherche.
-
-### DOAJ
-
-Le Directory of Open Access Journals (DOAJ) est un index unique et exhaustif regroupant une grande diversité de revues en libre accès du monde entier, animé par une communauté en pleine expansion. Il s’engage à garantir que des contenus de qualité soient librement accessibles en ligne pour tous. Le DOAJ est dirigé et géré par la Fondation DOAJ, une fondation danoise à but non lucratif régie par la communauté et basée au Danemark, mais qui compte des membres de l’équipe et des ambassadeurs issus du monde entier. La mission du DOAJ est d’accroître la visibilité, l’accessibilité, la réputation, l’utilisation et l’impact des revues de recherche scientifique de qualité, évaluées par des pairs et en libre accès, à l’échelle mondiale, indépendamment de la discipline, de la situation géographique ou de la langue.
-
-### EIFL
-
-EIFL (Electronic Information for Libraries) est une organisation à but non lucratif qui collabore avec les bibliothèques pour faciliter l’accès à la connaissance dans les pays en développement et en transition économique d’Afrique, d’Asie-Pacifique, d’Europe et d’Amérique latine.
-
-### PKP
-
-Le Public Knowledge Project (PKP) est une organisation à but non lucratif, gérée par sa communauté, basée à l’université Simon Fraser (SFU), dont l’équipe travaille à distance depuis les quatre coins du monde. Sa vision est celle d’un monde où chacun peut accéder à la connaissance ouverte et y contribuer de manière significative, pour le bien de tous. En collaboration avec sa communauté mondiale, le PKP mène des recherches, développe des logiciels libres et open source, et œuvre à améliorer la qualité, la diversité et l’accessibilité de l’édition scientifique. Bien qu’il soit surtout connu pour Open Journal Systems (OJS), utilisé par plus de 60 000 revues à travers le monde, le PKP développe également Open Monograph Press (OMP) et Open Preprint Systems (OPS).</source:markdown>
-      <guid>cid://https://www.crossref.org/blog/strengthening-scholarly-publishing-in-africa/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

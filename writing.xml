@@ -4,8 +4,8 @@
   <channel>
     <title><![CDATA[Writing]]></title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>05 Oct 26 06:45 -0700</lastBuildDate>
-    <generator>antenna/0.0.26</generator>
+    <lastBuildDate>06 Oct 26 06:49 -0700</lastBuildDate>
+    <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Third Circuit affirms in Thomson Reuters v. ROSS: The Court Gets Merger Wrong and Does a Disservice to Fair Use</title>
@@ -24,6 +24,7 @@ The court insists that &#34;this is no more than an ordinary copyright case&#34;
       <category>Artificial Intelligence</category>
       <category>Copyright</category>
       <category>Fair Use</category>
+      <pubDate>Fri, 02 Oct 2026 15:18:47 +0000</pubDate>
     </item>    <item>
       <title>The Server Test’s Fraternal Twin: What the Fifth Circuit’s Emmerich Decision Changes — and What It Doesn’t</title>
       <link>https://www.authorsalliance.org/2026/09/29/the-server-tests-fraternal-twin-what-the-fifth-circuits-emmerich-decision-changes-and-what-it-doesnt/</link>
@@ -36,6 +37,7 @@ The court insists that &#34;this is no more than an ordinary copyright case&#34;
       <category>Copyright</category>
       <category>public display</category>
       <category>server test</category>
+      <pubDate>Tue, 29 Sep 2026 16:13:17 +0000</pubDate>
     </item>    <item>
       <title>East of Eden with Zoe Kazan</title>
       <link>https://johnaugust.com/2026/east-of-eden-with-zoe-kazan</link>
@@ -48,6 +50,7 @@ The court insists that &#34;this is no more than an ordinary copyright case&#34;
 The post [East of Eden with Zoe Kazan](https://johnaugust.com/2026/east-of-eden-with-zoe-kazan) first appeared on [John August](https://johnaugust.com).</source:markdown>
       <guid>cid://https://johnaugust.com/?p=27189</guid>
       <category>Scriptnotes</category>
+      <pubDate>Tue, 29 Sep 2026 15:15:08 +0000</pubDate>
     </item>    <item>
       <title>Resolving an Interlocutory Appeal, Ninth Circuit Affirms Dismissal of Section 1202 DMCA Claims in ongoing Doe v. GitHub litigation</title>
       <link>https://www.authorsalliance.org/2026/09/23/resolving-an-interlocutory-appeal-ninth-circuit-affirms-dismissal-of-section-1202-dmca-claims-in-ongoing-doe-v-github-litigation/</link>
@@ -60,6 +63,7 @@ The post [East of Eden with Zoe Kazan](https://johnaugust.com/2026/east-of-eden-
       <category>Blog</category>
       <category>Artificial Intelligence</category>
       <category>Copyright</category>
+      <pubDate>Wed, 23 Sep 2026 13:26:02 +0000</pubDate>
     </item>    <item>
       <title>The One with Aaron Sorkin</title>
       <link>https://johnaugust.com/2026/the-one-with-aaron-sorkin</link>
@@ -72,6 +76,7 @@ The post [East of Eden with Zoe Kazan](https://johnaugust.com/2026/east-of-eden-
 The post [The One with Aaron Sorkin](https://johnaugust.com/2026/the-one-with-aaron-sorkin) first appeared on [John August](https://johnaugust.com).</source:markdown>
       <guid>cid://https://johnaugust.com/?p=27172</guid>
       <category>Scriptnotes</category>
+      <pubDate>Tue, 22 Sep 2026 15:15:01 +0000</pubDate>
     </item>    <item>
       <title>General Meetings</title>
       <link>https://johnaugust.com/2026/752-general-meetings</link>
@@ -84,6 +89,7 @@ The post [The One with Aaron Sorkin](https://johnaugust.com/2026/the-one-with-aa
 The post [General Meetings](https://johnaugust.com/2026/752-general-meetings) first appeared on [John August](https://johnaugust.com).</source:markdown>
       <guid>cid://https://johnaugust.com/?p=27156</guid>
       <category>Scriptnotes</category>
+      <pubDate>Tue, 15 Sep 2026 15:20:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
