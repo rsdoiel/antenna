@@ -4,10 +4,114 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>06 Oct 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>07 Oct 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Off on a Comet! a Journey through Planetary Space by Jules Verne</title>
+      <link>https://www.gutenberg.org/ebooks/1353</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 07 Oct 2026 09:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>George Washington by Woodrow Wilson</title>
+      <link>https://www.gutenberg.org/ebooks/79698</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 07 Oct 2026 09:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>The house of the Falcon by Harold Lamb</title>
+      <link>https://www.gutenberg.org/ebooks/79726</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 07 Oct 2026 09:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>On Liberty by John Stuart Mill</title>
+      <link>https://www.gutenberg.org/ebooks/34901</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 07 Oct 2026 09:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>The Nether World by George Gissing</title>
+      <link>https://www.gutenberg.org/ebooks/4301</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 07 Oct 2026 09:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Little Women by Louisa May Alcott</title>
+      <link>https://www.gutenberg.org/ebooks/514</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 07 Oct 2026 09:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>On the Origin of Species By Means of Natural Selection by Charles Darwin</title>
+      <link>https://www.gutenberg.org/ebooks/1228</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 07 Oct 2026 09:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Dracula by Bram Stoker</title>
+      <link>https://www.gutenberg.org/ebooks/45839</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 07 Oct 2026 09:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Frankenstein; Or, The Modern Prometheus by Mary Wollstonecraft Shelley</title>
+      <link>https://www.gutenberg.org/ebooks/41445</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 07 Oct 2026 09:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>A Japanese artist in London by Yoshio Makino</title>
+      <link>https://www.gutenberg.org/ebooks/79734</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 07 Oct 2026 09:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Journal of a residence in Ashantee by Joseph Dupuis</title>
+      <link>https://www.gutenberg.org/ebooks/79736</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 07 Oct 2026 09:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Cyclopedia of painters and paintings, volume 2 (of 4)</title>
+      <link>https://www.gutenberg.org/ebooks/79735</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 07 Oct 2026 09:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Myself and others by J. B.  Booth and Jessie Millward</title>
+      <link>https://www.gutenberg.org/ebooks/79737</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 07 Oct 2026 09:51:21 +0000</pubDate>
+    </item>    <item>
       <title>Powder by Walt Coburn</title>
       <link>https://www.gutenberg.org/ebooks/79724</link>
       <description>
@@ -62,14 +166,6 @@
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-      <pubDate>Tue, 06 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>The house of the Falcon by Harold Lamb</title>
-      <link>https://www.gutenberg.org/ebooks/79726</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
       <pubDate>Tue, 06 Oct 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>Pages mystiques by Séverine</title>
@@ -274,14 +370,6 @@
     </item>    <item>
       <title>Bad girl by Viña Delmar</title>
       <link>https://www.gutenberg.org/ebooks/79694</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sat, 03 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>George Washington by Woodrow Wilson</title>
-      <link>https://www.gutenberg.org/ebooks/79698</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1839,70 +1927,6 @@
       </description>
       <source:markdown>Language: Spanish</source:markdown>
       <pubDate>Wed, 16 Sep 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>Man&#39;s descent from the gods : by Anthony M.  Ludovici</title>
-      <link>https://www.gutenberg.org/ebooks/79572</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 15 Sep 2026 09:51:18 +0000</pubDate>
-    </item>    <item>
-      <title>The Phantom of the Opera by Gaston Leroux</title>
-      <link>https://www.gutenberg.org/ebooks/175</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 15 Sep 2026 09:51:18 +0000</pubDate>
-    </item>    <item>
-      <title>The book of a naturalist : by W. H.  Hudson</title>
-      <link>https://www.gutenberg.org/ebooks/79577</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 15 Sep 2026 09:51:18 +0000</pubDate>
-    </item>    <item>
-      <title>A history of the American people, Vol. 1 [of 5] : by Woodrow Wilson</title>
-      <link>https://www.gutenberg.org/ebooks/79575</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 15 Sep 2026 09:51:18 +0000</pubDate>
-    </item>    <item>
-      <title>A history of the American people, Vol. 3 [of 5] : by Woodrow Wilson</title>
-      <link>https://www.gutenberg.org/ebooks/79576</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 15 Sep 2026 09:51:18 +0000</pubDate>
-    </item>    <item>
-      <title>Snow-berries : by Alice Cary</title>
-      <link>https://www.gutenberg.org/ebooks/79573</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 15 Sep 2026 09:51:18 +0000</pubDate>
-    </item>    <item>
-      <title>Der weiße Dominikaner : by Gustav Meyrink</title>
-      <link>https://www.gutenberg.org/ebooks/79578</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-      <pubDate>Tue, 15 Sep 2026 09:51:18 +0000</pubDate>
-    </item>    <item>
-      <title>Ocean-born : by Oliver Optic</title>
-      <link>https://www.gutenberg.org/ebooks/79574</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 15 Sep 2026 09:51:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
