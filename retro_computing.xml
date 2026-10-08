@@ -4,10 +4,20 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>07 Oct 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>08 Oct 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Office 365 Available for Testing on Linux via Bottles</title>
+      <link>http://www.linux-magazine.com/Online/News/Office-365-Available-for-Testing-on-Linux-via-Bottles</link>
+      <description>
+        <![CDATA[<p>Linux users can now test the official Office 365, thanks to Mirko Brombin's work on Bottles.</p>]]>
+      </description>
+      <source:markdown>Linux users can now test the official Office 365, thanks to Mirko Brombin&#39;s work on Bottles.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://9931dce9a9d9304e3f3421808e22f21d</guid>
+      <pubDate>Wed, 07 Oct 2026 13:58:02 +0000</pubDate>
+    </item>    <item>
       <title>b.log 2026/10/06 - Do-overs, Ten years of Macron.</title>
       <link>https://heyrick.eu/blog/entry/20261006</link>
       <description>
@@ -597,25 +607,6 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://3267b3bfdf780f4e21ca39d0cc28d8c7</guid>
       <pubDate>Thu, 17 Sep 2026 14:20:12 +0000</pubDate>
-    </item>    <item>
-      <title>Ubuntu Stonking Stingray Gets Even Rustier</title>
-      <link>http://www.linux-magazine.com/Online/News/Ubuntu-Stonking-Stingray-Gets-Even-Rustier</link>
-      <description>
-        <![CDATA[<p>Ubuntu 26.10 has completed its migration to the Rust-based coreutils.</p>]]>
-      </description>
-      <source:markdown>Ubuntu 26.10 has completed its migration to the Rust-based coreutils.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://2fe9ea0b9c2b980fdadd45e27a37be0a</guid>
-      <pubDate>Wed, 16 Sep 2026 13:56:32 +0000</pubDate>
-    </item>    <item>
-      <title>Archive Edition 28:03 reviewed</title>
-      <link>http://www.iconbar.com/comments/rss/news2376.html</link>
-      <description>
-        <![CDATA[The PDF of Archive Magazine 28:03 has been mailed out and paper copies are in the post]]>
-      </description>
-      <source:markdown>The PDF of Archive Magazine 28:03 has been mailed out and paper copies are in the post</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2376.html</guid>
-      <pubDate>Wed, 16 Sep 2026 08:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
