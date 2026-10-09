@@ -4,10 +4,40 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>08 Oct 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>09 Oct 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The CROWler v2.2.5 is out! Performance, stability and scalability improvements</title>
+      <link>https://paolozaino.wordpress.com/2026/10/08/the-crowler-v2-2-5-is-out-performance-stability-and-scalability-improvements/</link>
+      <description>
+        <![CDATA[The CROWler v2.2.5 has been released, enhancing Time Series performance, database stability, and concurrency. Key updates include PostgreSQL 17 integration testing, improved database reliability, and fixes for source updates. The CROWler is a versatile framework for information discovery and action, aiming to support various sectors including cybersecurity and marketing.]]>
+      </description>
+      <source:markdown>The CROWler v2.2.5 has been released, enhancing Time Series performance, database stability, and concurrency. Key updates include PostgreSQL 17 integration testing, improved database reliability, and fixes for source updates. The CROWler is a versatile framework for information discovery and action, aiming to support various sectors including cybersecurity and marketing.</source:markdown>
+      <guid>cid://http://paolozaino.wordpress.com/?p=11065</guid>
+      <category>Artificial Intelligence</category>
+      <category>CIRT / SIRT / SOC / Blue Team</category>
+      <category>Project Updates</category>
+      <category>Security</category>
+      <category>Agents</category>
+      <category>AI</category>
+      <category>coding</category>
+      <category>computer</category>
+      <category>Computing</category>
+      <category>Cyber Security</category>
+      <category>Cybersecurity</category>
+      <category>Data Discovery</category>
+      <category>framework</category>
+      <category>LLM</category>
+      <category>LLMs</category>
+      <category>Orchestration</category>
+      <category>OSINT</category>
+      <category>Paolo Fabio Zaino</category>
+      <category>programming</category>
+      <category>software</category>
+      <category>technology</category>
+      <pubDate>Thu, 08 Oct 2026 21:26:42 +0000</pubDate>
+    </item>    <item>
       <title>Office 365 Available for Testing on Linux via Bottles</title>
       <link>http://www.linux-magazine.com/Online/News/Office-365-Available-for-Testing-on-Linux-via-Bottles</link>
       <description>
@@ -114,9 +144,9 @@
       <title>Dutch Government Turns to Open Source for Digital Sovereignty</title>
       <link>http://www.linux-magazine.com/Online/News/Dutch-Government-Turns-to-Open-Source-for-Digital-Sovereignty</link>
       <description>
-        <![CDATA[<p>Following in the footsteps of European countries, the Netherlands is looking to increase its sovereign digital infrastructure with open source software.</p>]]>
+        <![CDATA[<p>Following in the footsteps of other European countries, the Netherlands is looking to increase its sovereign digital infrastructure with open source software.</p>]]>
       </description>
-      <source:markdown>Following in the footsteps of European countries, the Netherlands is looking to increase its sovereign digital infrastructure with open source software.</source:markdown>
+      <source:markdown>Following in the footsteps of other European countries, the Netherlands is looking to increase its sovereign digital infrastructure with open source software.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://15693011b13c58119a26a4b1476e16e9</guid>
       <pubDate>Thu, 01 Oct 2026 16:33:16 +0000</pubDate>
@@ -597,16 +627,6 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       <source:markdown>The September 2026 Rougol meeting is on Monday.</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2366.html</guid>
       <pubDate>Fri, 18 Sep 2026 08:42:00 +0000</pubDate>
-    </item>    <item>
-      <title>It’s Time to Test Fedora 45 Beta</title>
-      <link>http://www.linux-magazine.com/Online/News/It-s-Time-to-Test-Fedora-45-Beta</link>
-      <description>
-        <![CDATA[<p>Fedora 45 beta has been released with updated Gnome, KDE Plasma, and kernel.</p>]]>
-      </description>
-      <source:markdown>Fedora 45 beta has been released with updated Gnome, KDE Plasma, and kernel.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://3267b3bfdf780f4e21ca39d0cc28d8c7</guid>
-      <pubDate>Thu, 17 Sep 2026 14:20:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
