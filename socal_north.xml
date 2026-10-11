@@ -5,10 +5,50 @@
     <title><![CDATA[SoCal North]]></title>
     <description><![CDATA[News and posts related to the greater North Los Angeles and adjacent counties.]]></description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>10 Oct 26 06:30 -0700</lastBuildDate>
+    <lastBuildDate>11 Oct 26 06:30 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Long Beach Peninsula residents join scramble to save homes from high surf</title>
+      <link>https://laist.com/news/climate-environment/long-beach-peninsula-residents-join-scramble-to-save-homes-from-high-surf</link>
+      <description>
+        <![CDATA[As anxiety remains high about the weekend’s extreme weather, some residents said they were focused on taking action.]]>
+      </description>
+      <source:markdown>As anxiety remains high about the weekend’s extreme weather, some residents said they were focused on taking action.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-2b08-da8d-aba5-7b6d89420000</guid>
+      <pubDate>Sun, 11 Oct 2026 13:18:31 +0000</pubDate>
+    </item>    <item>
+      <title>Taste of Soul takes over Crenshaw Oct. 17. What to know about the free festival</title>
+      <link>https://laist.com/news/los-angeles-activities/taste-of-soul-festival-south-la-2026</link>
+      <description>
+        <![CDATA[The annual festival brings music, food and more to three miles of Crenshaw Boulevard in South L.A.]]>
+      </description>
+      <source:markdown>The annual festival brings music, food and more to three miles of Crenshaw Boulevard in South L.A.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-1c99-d9dd-a3a1-7dbdcbb70000</guid>
+      <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Rolling Into the Future at State of the City</title>
+      <link>https://santaclarita.gov/blog/2026/10/10/rolling-into-the-future-at-state-of-the-city/</link>
+      <description>
+        <![CDATA[<p>City Manager Ken Striplin Santa Clarita became a City nearly 40 years ago because residents wanted a greater voice in the decisions affecting our community. They wanted local control and elected representatives who lived here, understood the community and were accessible to the people they served. That commitment to an engaged and informed community remains [&#8230;]</p>
+        <p>The post <a href="https://santaclarita.gov/blog/2026/10/10/rolling-into-the-future-at-state-of-the-city/">Rolling Into the Future at State of the City</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
+      </description>
+      <source:markdown>City Manager Ken Striplin Santa Clarita became a City nearly 40 years ago because residents wanted a greater voice in the decisions affecting our community. They wanted local control and elected representatives who lived here, understood the community and were accessible to the people they served. That commitment to an engaged and informed community remains \[…\]
+
+The post [Rolling Into the Future at State of the City](https://santaclarita.gov/blog/2026/10/10/rolling-into-the-future-at-state-of-the-city/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
+      <guid>cid://https://santaclarita.gov/?p=8912</guid>
+      <category>From the City Manager</category>
+      <pubDate>Sat, 10 Oct 2026 15:02:00 +0000</pubDate>
+    </item>    <item>
+      <title>Why one small stretch of Long Beach keeps getting pounded with damaging waves</title>
+      <link>https://laist.com/news/climate-environment/why-one-small-stretch-of-long-beach-keeps-getting-pounded-with-damaging-waves</link>
+      <description>
+        <![CDATA[Long Beach is surrounded by a breakwater to protect its harbor, but the massive barrier hasn’t been able to shield homes on the city’s Peninsula from hurricane-charged swells.]]>
+      </description>
+      <source:markdown>Long Beach is surrounded by a breakwater to protect its harbor, but the massive barrier hasn’t been able to shield homes on the city’s Peninsula from hurricane-charged swells.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-2389-d99a-abe3-f3bb92cd0001</guid>
+      <pubDate>Sat, 10 Oct 2026 14:00:00 +0000</pubDate>
+    </item>    <item>
       <title>Long Beach orders evacuations, fast-tracks plans to rebuild beach as waves pound the Peninsula</title>
       <link>https://laist.com/news/climate-environment/long-beach-orders-evacuations-fast-tracks-plans-to-rebuild-beach-as-waves-pound-the-peninsula</link>
       <description>
@@ -18,15 +58,6 @@
       <guid>cid://urn:uuid:000001a1-25ec-d99a-abe3-f5fecaeb0001</guid>
       <pubDate>Sat, 10 Oct 2026 13:14:17 +0000</pubDate>
     </item>    <item>
-      <title>A cow striptease and a bootleg Chinese film? Inside LA&#39;s wildest movie night</title>
-      <link>https://laist.com/news/los-angeles-activities/shitty-movie-club-los-angeles</link>
-      <description>
-        <![CDATA[Sh—ty Movie Club celebrates films that its founder said are entertaining, earnest, genuine — and yeah, a little weird.]]>
-      </description>
-      <source:markdown>Sh—ty Movie Club celebrates films that its founder said are entertaining, earnest, genuine — and yeah, a little weird.</source:markdown>
-      <guid>cid://urn:uuid:000001a1-17f4-d9dd-a3a1-77f4f9780001</guid>
-      <pubDate>Sat, 10 Oct 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
       <title>Leo Politi painted their Bunker Hill home before it was razed. They finally saw the originals</title>
       <link>https://laist.com/news/los-angeles-activities/leo-politi-bunker-hill-drawings-central-library</link>
       <description>
@@ -34,6 +65,15 @@
       </description>
       <source:markdown>The artist called them &#34;the last children on Bunker Hill.&#34; Six decades later, they saw sketches and paintings of their lost neighborhood they never knew existed.</source:markdown>
       <guid>cid://urn:uuid:000001a1-089a-dff2-aff1-e89e6c490000</guid>
+      <pubDate>Sat, 10 Oct 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>A cow striptease and a bootleg Chinese film? Inside LA&#39;s wildest movie night</title>
+      <link>https://laist.com/news/los-angeles-activities/shitty-movie-club-los-angeles</link>
+      <description>
+        <![CDATA[Sh—ty Movie Club celebrates films that its founder said are entertaining, earnest, genuine — and yeah, a little weird.]]>
+      </description>
+      <source:markdown>Sh—ty Movie Club celebrates films that its founder said are entertaining, earnest, genuine — and yeah, a little weird.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-17f4-d9dd-a3a1-77f4f9780001</guid>
       <pubDate>Sat, 10 Oct 2026 12:00:00 +0000</pubDate>
     </item>    <item>
       <title>High-speed rail board limits CEO contract authority after $600,000 travel scandal</title>
@@ -169,6 +209,15 @@ The post [Call for Entry: 2027 Trailhead Sculpture Program](https://santaclarita
       <source:markdown>Jane Kim and Ben Allen, two Democrats with differing approaches, vie to regulate one of the biggest insurance markets in the world.</source:markdown>
       <guid>cid://urn:uuid:000001a1-2178-debd-a5a7-f778fe230000</guid>
       <pubDate>Fri, 09 Oct 2026 18:30:00 +0000</pubDate>
+    </item>    <item>
+      <title>Dave Grohl headlines Soundstage of Hope gala: &#39;I just want to give food to people who are hungry&#39;</title>
+      <link>https://laist.com/news/food/dave-grohl-soundstage-hope-gala</link>
+      <description>
+        <![CDATA[Hope the Mission and LA Mission event also features John Mayer and Chevy Metal.]]>
+      </description>
+      <source:markdown>Hope the Mission and LA Mission event also features John Mayer and Chevy Metal.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-2121-d268-afe5-67ed82eb0001</guid>
+      <pubDate>Fri, 09 Oct 2026 18:01:47 +0000</pubDate>
     </item>    <item>
       <title>Go Metro to the Chargers and Rams this season – here’s your easy guide to taking our SoFi Stadium Express</title>
       <link>https://thesource.metro.net/go-metro-to-the-chargers-and-rams-this-season-heres-your-easy-guide-to-taking-our-sofi-stadium-express/</link>
@@ -3333,107 +3382,6 @@ The post [Taft Had No Answer for La Salle’s High-Powered Offense in 48-13 Loss
       <category>news/local</category>
       <category>no-byline</category>
       <pubDate>Sun, 20 Sep 2026 00:11:48 +0000</pubDate>
-    </item>    <item>
-      <title>Delta Leadership Course bridges air and space</title>
-      <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4606745/delta-leadership-course-bridges-air-and-space/</link>
-      <description>
-        <![CDATA[Space Launch Delta 30 recently hosted its inaugural Delta Leadership Course, equipping 13 commanders and senior enlisted leaders with the knowledge, relationships and resources necessary to lead Guardians and Airmen at a Space Force installation.
-        
-        The locally developed course supports the Department of the Air Force’s emphasis on preparing command teams to build ready units, uphold standards, care for their people and execute the mission in a rapidly changing operational environment.
-        <br/> 
-        <img src='https://media.defense.gov/2026/Sep/19/2004004293/300/300/0/260813-X-DY416-1004.JPG' alt='Space Launch Delta 30 recently hosted its inaugural Delta Leadership Course, equipping 13 commanders and senior enlisted leaders with the knowledge, relationships and resources necessary to lead Guardians and Airmen at a Space Force installation.
-        The locally developed course supports the Department of the Air Force’s emphasis on preparing command teams to build ready units, uphold standards, care for their people and execute the mission in a rapidly changing operational environment.' /> <br />]]>
-      </description>
-      <source:markdown>Space Launch Delta 30 recently hosted its inaugural Delta Leadership Course, equipping 13 commanders and senior enlisted leaders with the knowledge, relationships and resources necessary to lead Guardians and Airmen at a Space Force installation.
-
-The locally developed course supports the Department of the Air Force’s emphasis on preparing command teams to build ready units, uphold standards, care for their people and execute the mission in a rapidly changing operational environment.
-
-![Space Launch Delta 30 recently hosted its inaugural Delta Leadership Course, equipping 13 commanders and senior enlisted leaders with the knowledge, relationships and resources necessary to lead Guardians and Airmen at a Space Force installation. The locally developed course supports the Department of the Air Force’s emphasis on preparing command teams to build ready units, uphold standards, care for their people and execute the mission in a rapidly changing operational environment.](https://media.defense.gov/2026/Sep/19/2004004293/300/300/0/260813-X-DY416-1004.JPG)</source:markdown>
-      <enclosure url="https://media.defense.gov/2026/Sep/19/2004004293/700/700/0/260813-X-DY416-1004.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4606745/delta-leadership-course-bridges-air-and-space/</guid>
-      <category>News</category>
-      <pubDate>Sat, 19 Sep 2026 23:34:03 +0000</pubDate>
-    </item>    <item>
-      <title>Team V welcomes home Honor Flight veterans</title>
-      <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4606738/team-v-welcomes-home-honor-flight-veterans/</link>
-      <description>
-        <![CDATA[Guardians and Airmen from Vandenberg Space Force Base join Central Coast veterans and volunteers<br/> 
-        <img src='https://media.defense.gov/2026/Sep/19/2004004285/300/300/0/260917-X-EI087-1004.JPG' alt='The U.S. Space Force and service members from Vandenberg Space Force Base warmly welcomed home more than 84 Central Coast Honor Flight veterans returning from their trip to Washington, D.C.' /> <br />]]>
-      </description>
-      <source:markdown>Guardians and Airmen from Vandenberg Space Force Base join Central Coast veterans and volunteers
-
-![The U.S. Space Force and service members from Vandenberg Space Force Base warmly welcomed home more than 84 Central Coast Honor Flight veterans returning from their trip to Washington, D.C.](https://media.defense.gov/2026/Sep/19/2004004285/300/300/0/260917-X-EI087-1004.JPG)</source:markdown>
-      <enclosure url="https://media.defense.gov/2026/Sep/19/2004004285/700/700/0/260917-X-EI087-1004.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4606738/team-v-welcomes-home-honor-flight-veterans/</guid>
-      <category>News</category>
-      <pubDate>Sat, 19 Sep 2026 22:10:39 +0000</pubDate>
-    </item>    <item>
-      <title>Ready for Rain: Preparing for El Niño</title>
-      <link>https://santaclarita.gov/blog/2026/09/19/ready-for-rain-preparing-for-el-nino/</link>
-      <description>
-        <![CDATA[<p>By City Manager Ken Striplin Safety is our number one priority in the City of Santa Clarita, and when it comes to severe weather, preparation is one of the most important things we can do to protect our residents, neighborhoods and infrastructure. El Niño is strengthening, with the National Oceanic and Atmospheric Administration reporting a [&#8230;]</p>
-        <p>The post <a href="https://santaclarita.gov/blog/2026/09/19/ready-for-rain-preparing-for-el-nino/">Ready for Rain: Preparing for El Niño</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
-      </description>
-      <source:markdown>By City Manager Ken Striplin Safety is our number one priority in the City of Santa Clarita, and when it comes to severe weather, preparation is one of the most important things we can do to protect our residents, neighborhoods and infrastructure. El Niño is strengthening, with the National Oceanic and Atmospheric Administration reporting a \[…\]
-
-The post [Ready for Rain: Preparing for El Niño](https://santaclarita.gov/blog/2026/09/19/ready-for-rain-preparing-for-el-nino/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
-      <guid>cid://https://santaclarita.gov/?p=8792</guid>
-      <category>From the City Manager</category>
-      <pubDate>Sat, 19 Sep 2026 21:43:00 +0000</pubDate>
-    </item>    <item>
-      <title>People&#39;s houses are collapsing into the ocean. FEMA gives them no other option</title>
-      <link>https://laist.com/news/climate-environment/peoples-houses-are-collapsing-into-the-ocean-fema-gives-them-no-other-option</link>
-      <description>
-        <![CDATA[Waterfront homes are collapsing along the coast. Homeowners generally have plenty of warning before their house buckles. So why aren't most houses removed?]]>
-      </description>
-      <source:markdown>Waterfront homes are collapsing along the coast. Homeowners generally have plenty of warning before their house buckles. So why aren&#39;t most houses removed?</source:markdown>
-      <guid>cid://urn:uuid:000001a0-ba68-d48f-a5e9-bffebdc10000</guid>
-      <pubDate>Sat, 19 Sep 2026 17:19:00 +0000</pubDate>
-    </item>    <item>
-      <title>A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened?</title>
-      <link>https://laist.com/news/health/a-year-ago-president-trump-pledged-to-lower-medicaid-drug-prices-has-that-happened</link>
-      <description>
-        <![CDATA[The Trump administration's efforts to lower drug prices included promised changes to Medicaid. But it's still unclear which drugs will be affected.]]>
-      </description>
-      <source:markdown>The Trump administration&#39;s efforts to lower drug prices included promised changes to Medicaid. But it&#39;s still unclear which drugs will be affected.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-ba5d-d48f-a5e9-bfdf66c40004</guid>
-      <pubDate>Sat, 19 Sep 2026 15:54:58 +0000</pubDate>
-    </item>    <item>
-      <title>She lived the ‘90s LA party crew scene. Now she’s making sure it’s remembered</title>
-      <link>https://laist.com/news/los-angeles-activities/she-lived-the-90s-la-party-crew-scene-now-shes-making-sure-its-remembered</link>
-      <description>
-        <![CDATA[Guadalupe Rosales’ memoir builds on the decade old project, Veteranas and Rucas.]]>
-      </description>
-      <source:markdown>Guadalupe Rosales’ memoir builds on the decade old project, Veteranas and Rucas.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-6379-d4e7-a3ad-6bfb615e0002</guid>
-      <pubDate>Sat, 19 Sep 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Mariachi meets The Smiths at The Ford. It started with a lucha libre Christmas party</title>
-      <link>https://laist.com/news/los-angeles-activities/mariachi-meets-the-smiths-at-the-ford-it-started-with-a-lucha-libre-christmas-party</link>
-      <description>
-        <![CDATA[L.A.'s very own Mariachi Tierra Mia is behind the crossover happening Sept. 27.]]>
-      </description>
-      <source:markdown>L.A.&#39;s very own Mariachi Tierra Mia is behind the crossover happening Sept. 27.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-b057-d2bc-abb9-f3dfbaa60001</guid>
-      <pubDate>Sat, 19 Sep 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Dodgers owner Mark Walter sued over alleged failure to disclose federal probe to policyholders</title>
-      <link>https://laist.com/news/dodgers-owner-mark-walter-sued-over-alleged-failure-to-disclose-federal-probe-to-policyholders</link>
-      <description>
-        <![CDATA[Dodgers owner Mark Walter and multiple insurance companies he owns have been sued, alleging they failed to disclose an ongoing federal probe to customers.]]>
-      </description>
-      <source:markdown>Dodgers owner Mark Walter and multiple insurance companies he owns have been sued, alleging they failed to disclose an ongoing federal probe to customers.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-b71a-d689-a7b5-f7fa6ebf0001</guid>
-      <pubDate>Sat, 19 Sep 2026 01:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Compton superintendent Brawley receives national recognition</title>
-      <link>https://laist.com/news/education/compton-superintendent-brawley-receives-national-recognition</link>
-      <description>
-        <![CDATA[Compton Unified Superintendent Darin Brawley has won a national education prize recognizing his leadership in improving student achievement in the district.]]>
-      </description>
-      <source:markdown>Compton Unified Superintendent Darin Brawley has won a national education prize recognizing his leadership in improving student achievement in the district.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-b6e0-d355-a1fa-bee319520001</guid>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

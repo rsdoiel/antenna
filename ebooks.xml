@@ -4,10 +4,82 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>10 Oct 26 06:50 -0700</lastBuildDate>
+    <lastBuildDate>11 Oct 26 06:58 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Sense and Sensibility by Jane Austen</title>
+      <link>https://www.gutenberg.org/ebooks/21839</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 11 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>The Sayings of Confucius by Confucius</title>
+      <link>https://www.gutenberg.org/ebooks/46389</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 11 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>The Adventures of Bob White by Thornton W.  Burgess</title>
+      <link>https://www.gutenberg.org/ebooks/46950</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 11 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>Heart of Darkness by Joseph Conrad</title>
+      <link>https://www.gutenberg.org/ebooks/219</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 11 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>The Art of War by active 6th century B.C. Sunzi</title>
+      <link>https://www.gutenberg.org/ebooks/17405</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 11 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>The Art of War by active 6th century B.C. Sunzi</title>
+      <link>https://www.gutenberg.org/ebooks/132</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 11 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>Medieval cities : by Henri Pirenne</title>
+      <link>https://www.gutenberg.org/ebooks/79759</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 11 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>Réponse de M. Émile Faguet au discours de M. René Doumic by Émile Faguet</title>
+      <link>https://www.gutenberg.org/ebooks/79760</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+      <pubDate>Sun, 11 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>Histoire d&#39;un cheval de bois by Jeanne Marcel</title>
+      <link>https://www.gutenberg.org/ebooks/79758</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+      <pubDate>Sun, 11 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
       <title>Moby Dick; Or, The Whale by Herman Melville</title>
       <link>https://www.gutenberg.org/ebooks/2701</link>
       <description>
@@ -1799,78 +1871,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
       <pubDate>Sun, 20 Sep 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>Squee by Margaret St. Clair</title>
-      <link>https://www.gutenberg.org/ebooks/79539</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sat, 19 Sep 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Goldsmith&#39;s essays by Oliver Goldsmith</title>
-      <link>https://www.gutenberg.org/ebooks/79560</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sat, 19 Sep 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>The Brothers Karamazov by Fyodor Dostoyevsky</title>
-      <link>https://www.gutenberg.org/ebooks/28054</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sat, 19 Sep 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>White nights, and other stories by Fyodor Dostoyevsky</title>
-      <link>https://www.gutenberg.org/ebooks/36034</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sat, 19 Sep 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Alice Meynell by Alice Meynell</title>
-      <link>https://www.gutenberg.org/ebooks/79607</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sat, 19 Sep 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>The last poems of Alice Meynell by Alice Meynell</title>
-      <link>https://www.gutenberg.org/ebooks/79606</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sat, 19 Sep 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>The spoiled Buddha : by Helen Waddell</title>
-      <link>https://www.gutenberg.org/ebooks/79608</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sat, 19 Sep 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>The work of the Afro-American woman by Mrs. N. F. Mossell</title>
-      <link>https://www.gutenberg.org/ebooks/79604</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sat, 19 Sep 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Entstehung des Deutschen Königthums by Heinrich von Sybel</title>
-      <link>https://www.gutenberg.org/ebooks/79605</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-      <pubDate>Sat, 19 Sep 2026 09:51:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

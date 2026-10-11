@@ -5,7 +5,7 @@
     <title><![CDATA[Columns]]></title>
     <description><![CDATA[Blogs, columns and snapshots from around the web.]]></description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>10 Oct 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>11 Oct 26 06:55 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -36,6 +36,155 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>D-Bus Hell</title>
+      <link>https://dbushell.com/2026/10/11/d-bus-hell/</link>
+      <description>
+        <![CDATA[The time has come to address the elephant in the comments. Whenever my blog hits a place with a comments section the most predictable comment I see — besides some variation of “this idiot is utterly delusional!”† — is this one: “lol I read the domain as “D-Bus Hell” Random commenter”I’d prefer if […]]]>
+      </description>
+      <source:markdown>The time has come to address the elephant in the comments. Whenever my blog hits a place with a comments section the most predictable comment I see — besides some variation of “this idiot is utterly delusional!”† — is this one: “lol I read the domain as “D-Bus Hell” Random commenter”I’d prefer if \[…\]</source:markdown>
+      <guid>cid://https://dbushell.com/2026/10/11/d-bus-hell/</guid>
+      <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>[COPY] The Pythia Blathers On</title>
+      <link>https://margaretatwood.substack.com/p/copy-the-pythia-blathers-on</link>
+      <description>
+        <![CDATA[Now you want my post-election predictions. Oh very well. Hand me the hallucinogenic laurel leaves and release the toxic fumes. Here comes the trance state...]]>
+      </description>
+      <source:markdown>Now you want my post-election predictions. Oh very well. Hand me the hallucinogenic laurel leaves and release the toxic fumes. Here comes the trance state...</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!W__q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3599001-574b-49b6-93b9-327ab1fafef9_1140x2171.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://margaretatwood.substack.com/p/copy-the-pythia-blathers-on</guid>
+      <pubDate>Sun, 11 Oct 2026 12:46:36 +0000</pubDate>
+    </item>    <item>
+      <title>[COPY] The Oracle Mouths Off, Part 2</title>
+      <link>https://margaretatwood.substack.com/p/copy-the-oracle-mouths-off-part-2</link>
+      <description>
+        <![CDATA[Multiple-Choice Uproars: more blather about the U.S. Election.]]>
+      </description>
+      <source:markdown>Multiple-Choice Uproars: more blather about the U.S. Election.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!jSRM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6374036-44ef-422c-a5d0-849563ccb132_720x406.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://margaretatwood.substack.com/p/copy-the-oracle-mouths-off-part-2</guid>
+      <pubDate>Sun, 11 Oct 2026 12:45:38 +0000</pubDate>
+    </item>    <item>
+      <title>[COPY] The Oracle Mouths Off, Part One</title>
+      <link>https://margaretatwood.substack.com/p/copy-the-oracle-mouths-off-part-one</link>
+      <description>
+        <![CDATA[Be careful what you wish for.]]>
+      </description>
+      <source:markdown>Be careful what you wish for.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Kv1q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff67a69a5-f0b2-494f-b3f7-32bd96d400ea_4032x3024.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://margaretatwood.substack.com/p/copy-the-oracle-mouths-off-part-one</guid>
+      <pubDate>Sun, 11 Oct 2026 12:44:48 +0000</pubDate>
+    </item>    <item>
+      <title>Judy &#38; Barbra</title>
+      <link>https://steady.substack.com/p/judy-and-barbra</link>
+      <description>
+        <![CDATA[Two Reasons To Smile]]>
+      </description>
+      <source:markdown>Two Reasons To Smile</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!2J8k!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc8e570c-472c-40a5-9899-81d5fae6d846_3344x4260.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/judy-and-barbra</guid>
+      <pubDate>Sun, 11 Oct 2026 12:03:45 +0000</pubDate>
+    </item>    <item>
+      <title>Charlie Cook says there’s no “blue wave.” I think he’s wrong.</title>
+      <link>https://www.gelliottmorris.com/p/2026-10-11-sunday-roundup</link>
+      <description>
+        <![CDATA[Plus, Democrats are winning the ad war despite the GOP's cash edge. Your weekly political data roundup for October 11, 2026.]]>
+      </description>
+      <source:markdown>Plus, Democrats are winning the ad war despite the GOP&#39;s cash edge. Your weekly political data roundup for October 11, 2026.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!3Gpm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F555ec508-3b0f-4c2e-ad81-354d1207c2e8_1000x899.webp" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/2026-10-11-sunday-roundup</guid>
+      <pubDate>Sun, 11 Oct 2026 11:56:18 +0000</pubDate>
+    </item>    <item>
+      <title>LibreOffice Conference 2026 group photo – and final video updates</title>
+      <link>https://blog.documentfoundation.org/blog/2026/10/11/libreoffice-conference-2026-group-photo-and-final-video-updates/</link>
+      <description>
+        <![CDATA[Last month we had the LibreOffice Conference 2026 in Pordenone, northern Italy. Huge thanks to the organisers for such a great event! At lunchtime on the final day we took a group photo, which you can see above – but of course, some people had left by then, so thanks]]>
+      </description>
+      <source:markdown>Last month we had the LibreOffice Conference 2026 in Pordenone, northern Italy. Huge thanks to the organisers for such a great event! At lunchtime on the final day we took a group photo, which you can see above – but of course, some people had left by then, so thanks</source:markdown>
+      <guid>cid://https://blog.documentfoundation.org/?p=18224</guid>
+      <category>Community</category>
+      <category>Conference</category>
+      <category>LibreOffice</category>
+      <pubDate>Sun, 11 Oct 2026 10:59:27 +0000</pubDate>
+    </item>    <item>
+      <title>Will AI Crowd Out Jobs?</title>
+      <link>https://paulkrugman.substack.com/p/will-ai-crowd-out-jobs</link>
+      <description>
+        <![CDATA[A different and alarming take on the economic risks]]>
+      </description>
+      <source:markdown>A different and alarming take on the economic risks</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!SpnG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb08f5ecb-f68b-4e09-a9c6-8019378eef3b_1067x600.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/will-ai-crowd-out-jobs</guid>
+      <pubDate>Sun, 11 Oct 2026 10:31:20 +0000</pubDate>
+    </item>    <item>
+      <title>The final blow</title>
+      <link>http://jirka.1-2-8.net/20261011-1220_The_final_blow</link>
+      <description>
+        <![CDATA[Until recently I was able to connect to the sdf.org from my SGI O2. The ssh worked  with older  cyphers. Now  the SDF's  ssh server  is updated (which is easy to understood) so the O2 cannot connect any more.]]>
+      </description>
+      <source:markdown>Until recently I was able to connect to the sdf.org from my SGI O2. The ssh worked with older cyphers. Now the SDF&#39;s ssh server is updated (which is easy to understood) so the O2 cannot connect any more.</source:markdown>
+      <guid>cid://2fee1953f608269116df09d39098b565</guid>
+      <pubDate>Sun, 11 Oct 2026 10:20:00 +0000</pubDate>
+    </item>    <item>
+      <title>(No) life without smartphone</title>
+      <link>http://jirka.1-2-8.net/20261011-1220_No_life_without_smartphone</link>
+      <description>
+        <![CDATA[The university  introduced the mandatory dual-factor  logins everywhere (to far  the toilets do  dot require this  but one never  knows...). In practice, the only place where I can  log in without a smartphone is my desktop  with installed  thumb reader.  A windows  desktop, of  course. Everything else requires the smartphone.]]>
+      </description>
+      <source:markdown>The university introduced the mandatory dual-factor logins everywhere (to far the toilets do dot require this but one never knows...). In practice, the only place where I can log in without a smartphone is my desktop with installed thumb reader. A windows desktop, of course. Everything else requires the smartphone.</source:markdown>
+      <guid>cid://040476755cd97b43c458da728574c8ed</guid>
+      <pubDate>Sun, 11 Oct 2026 10:20:00 +0000</pubDate>
+    </item>    <item>
+      <title>Sunday thought: The Beginning of the End or the End of the Beginning?</title>
+      <link>https://robertreich.substack.com/p/sunday-thought-the-beginning-of-the</link>
+      <description>
+        <![CDATA[Friends,]]>
+      </description>
+      <source:markdown>Friends,</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!i_jc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F526a20c4-cfaf-4969-9392-dc128155c674_1154x1351.png" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-thought-the-beginning-of-the</guid>
+      <pubDate>Sun, 11 Oct 2026 08:03:07 +0000</pubDate>
+    </item>    <item>
+      <title>The Moment We Were Spared</title>
+      <link>https://danismart.substack.com/p/the-moment-we-were-spared</link>
+      <description>
+        <![CDATA[Why livestreaming the execution of Nidal Hasan would cost the country more than it delivers]]>
+      </description>
+      <source:markdown>Why livestreaming the execution of Nidal Hasan would cost the country more than it delivers</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!C1cO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75566b71-76c9-4dd3-a99f-3e52c3958ae6_800x533.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://danismart.substack.com/p/the-moment-we-were-spared</guid>
+      <pubDate>Sun, 11 Oct 2026 04:59:06 +0000</pubDate>
+    </item>    <item>
+      <title>The Private Haiku Journal of Pete Hegseth</title>
+      <link>https://www.borowitzreport.com/p/the-private-haiku-journal-of-pete</link>
+      <description>
+        <![CDATA[TBR Sunday Read]]>
+      </description>
+      <source:markdown>TBR Sunday Read</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!V7jQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3eefa889-7dc3-4207-8a68-9dc78bdcecda_801x467.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/the-private-haiku-journal-of-pete</guid>
+      <pubDate>Sun, 11 Oct 2026 04:02:01 +0000</pubDate>
+    </item>    <item>
+      <title>Enjoying the Shows</title>
+      <link>https://doc.searls.com/2026/10/10/enjoying-the-shows/</link>
+      <description>
+        <![CDATA[The idea was to get my photos from the latest Lotus Festival up right after the three-day event ended on Sunday the 4th. I had too many other things to do, so a week went by. But at least my shots of the last two performances are up. This one is for Nikki D &#38; [&#8230;]]]>
+      </description>
+      <source:markdown>The idea was to get my photos from the latest Lotus Festival up right after the three-day event ended on Sunday the 4th. I had too many other things to do, so a week went by. But at least my shots of the last two performances are up. This one is for Nikki D &#38; \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/?p=22805</guid>
+      <category>Business</category>
+      <pubDate>Sun, 11 Oct 2026 03:52:51 +0000</pubDate>
+    </item>    <item>
+      <title>October 10, 2026</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-10-2026-saturday</link>
+      <description>
+        <![CDATA[So now, after more than a decade of pretending that he is not associated with Russia and that he would honor the U.S.]]>
+      </description>
+      <source:markdown>So now, after more than a decade of pretending that he is not associated with Russia and that he would honor the U.S.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!yKDv!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b47f775-3df7-41dd-8bc9-a64cdd72d948_600x600.png" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-10-2026-saturday</guid>
+      <pubDate>Sun, 11 Oct 2026 03:35:20 +0000</pubDate>
     </item>    <item>
       <title>2026-10-10 XMPP and OMEMO</title>
       <link>https://alexschroeder.ch/view/2026-10-10-omemo</link>
@@ -123,7 +272,47 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
         sudo dpkg -i profanity_0.18.2-1_arm64.deb
         </code></pre>
         
-        <p>Testing it: In Profanity, run <code>/omemo gen</code> and you should be able to use it as documented.</p>]]>
+        <p>Testing it: In Profanity, run <code>/omemo gen</code> and you should be able to use it as documented.</p>
+        
+        <p>Reported as <a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1150542">1150542</a> for the Debian bug tracker.</p>
+        
+        <p><strong>2026-10-11</strong>. How to get rid of the build environment once you&rsquo;ve done it? I checked the log at <code>/var/log/apt/history.log</code> and decided to mark all of them as &ldquo;auto&rdquo; installs and then auto-remove them. Should any other package need them, they won&rsquo;t get deleted. I think that&rsquo;s best.</p>
+        
+        <pre><code>sudo apt-mark auto libidn2-dev libglycin-2-dev libblkid-dev libglib2.0-dev-bin \
+        libegl-dev libatk-bridge2.0-dev libgles-dev libgdk-pixbuf2.0-bin libslang2-dev \
+        libcaca-dev libqrencode-dev libxcomposite-dev libmount-dev libxrender-dev \
+        libglib2.0-dev libkrb5-dev libbz2-dev libice-dev libxss-dev libxres-dev \
+        autoconf-archive libgnutls28-dev libkadm5srv-mit12 libgmpxx4ldbl libxrandr-dev \
+        libcurl4-gnutls-dev girepository-tools libreadline-dev libstrophe-dev libpng-dev \
+        libxfixes-dev libgssrpc4t64 libfribidi-dev libxtst-dev libatspi2.0-dev libldap-dev \
+        libngtcp2-crypto-gnutls-dev libsm-dev libcloudproviders-dev libepoxy-dev \
+        libcmocka-dev libotr5-dev libxinerama-dev libfontconfig-dev libgio-2.0-dev-bin \
+        libglvnd-dev libassuan-dev libxi-dev libgles1 libegl1-mesa-dev liblcms2-dev \
+        libpcre2-posix3 libxcb-shm0-dev libnotify-dev gir1.2-cloudproviders-0.3.0 \
+        comerr-dev libffi-dev gir1.2-freedesktop-dev libprotobuf-c-dev gir1.2-glib-2.0-dev \
+        native-architecture libdatrie-dev libharfbuzz-cairo0 libatk1.0-dev \
+        libgdk-pixbuf-2.0-dev libgio-2.0-dev libsqlite3-dev libncurses-dev libxft-dev \
+        pango1.0-tools libp11-kit-dev libxcursor-dev libsepol-dev uuid-dev \
+        libxcb-render0-dev libkdb5-10t64 libxdamage-dev libzstd-dev libpsl-dev \
+        gir1.2-gly-2 libselinux-dev libgcrypt20-dev libgraphite2-dev libicu-dev \
+        libtasn1-6-dev libglvnd-core-dev libnghttp2-dev libsysprof-capture-4-dev \
+        krb5-multidev libxext-dev libnghttp3-dev libseccomp-dev libxkbcommon-dev \
+        libfreetype-dev libdbus-1-dev libomemo-c-dev libwayland-bin libgtk-3-dev \
+        libwayland-dev libcairo2-dev libgmp-dev libunistring-dev nettle-dev meson \
+        libgpgme-dev libgpg-error-dev libpcre2-dev libpixman-1-dev ninja-build \
+        libharfbuzz-dev libpango1.0-dev libkadm5clnt-mit12 libsystemd-dev librtmp-dev \
+        libthai-dev libngtcp2-dev libcmocka0 icu-devtools
+        sudo apt autoremove
+        </code></pre>
+        
+        <p>When I tried to reinstall the dpkg, I ran into missing dependencies, so I had to do the following:</p>
+        
+        <pre><code>sudo apt-mark auto libomemo-c0 libotr5t64 libstrophe0
+        sudo apt install libomemo-c0 libotr5t64 libstrophe0
+        dpkg -i profanity_0.18.2-1_arm64.deb
+        </code></pre>
+        
+        <p>I hope this works for you as well.</p>]]>
       </description>
       <source:markdown># 2026-10-10 XMPP and OMEMO
 
@@ -218,10 +407,137 @@ sudo dpkg -i profanity_0.18.2-1_arm64.deb
 
 ```
 
-Testing it: In Profanity, run `/omemo gen` and you should be able to use it as documented.</source:markdown>
+Testing it: In Profanity, run `/omemo gen` and you should be able to use it as documented.
+
+Reported as [1150542](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1150542) for the Debian bug tracker.
+
+**2026-10-11**. How to get rid of the build environment once you’ve done it? I checked the log at `/var/log/apt/history.log` and decided to mark all of them as “auto” installs and then auto-remove them. Should any other package need them, they won’t get deleted. I think that’s best.
+
+```
+sudo apt-mark auto libidn2-dev libglycin-2-dev libblkid-dev libglib2.0-dev-bin \
+libegl-dev libatk-bridge2.0-dev libgles-dev libgdk-pixbuf2.0-bin libslang2-dev \
+libcaca-dev libqrencode-dev libxcomposite-dev libmount-dev libxrender-dev \
+libglib2.0-dev libkrb5-dev libbz2-dev libice-dev libxss-dev libxres-dev \
+autoconf-archive libgnutls28-dev libkadm5srv-mit12 libgmpxx4ldbl libxrandr-dev \
+libcurl4-gnutls-dev girepository-tools libreadline-dev libstrophe-dev libpng-dev \
+libxfixes-dev libgssrpc4t64 libfribidi-dev libxtst-dev libatspi2.0-dev libldap-dev \
+libngtcp2-crypto-gnutls-dev libsm-dev libcloudproviders-dev libepoxy-dev \
+libcmocka-dev libotr5-dev libxinerama-dev libfontconfig-dev libgio-2.0-dev-bin \
+libglvnd-dev libassuan-dev libxi-dev libgles1 libegl1-mesa-dev liblcms2-dev \
+libpcre2-posix3 libxcb-shm0-dev libnotify-dev gir1.2-cloudproviders-0.3.0 \
+comerr-dev libffi-dev gir1.2-freedesktop-dev libprotobuf-c-dev gir1.2-glib-2.0-dev \
+native-architecture libdatrie-dev libharfbuzz-cairo0 libatk1.0-dev \
+libgdk-pixbuf-2.0-dev libgio-2.0-dev libsqlite3-dev libncurses-dev libxft-dev \
+pango1.0-tools libp11-kit-dev libxcursor-dev libsepol-dev uuid-dev \
+libxcb-render0-dev libkdb5-10t64 libxdamage-dev libzstd-dev libpsl-dev \
+gir1.2-gly-2 libselinux-dev libgcrypt20-dev libgraphite2-dev libicu-dev \
+libtasn1-6-dev libglvnd-core-dev libnghttp2-dev libsysprof-capture-4-dev \
+krb5-multidev libxext-dev libnghttp3-dev libseccomp-dev libxkbcommon-dev \
+libfreetype-dev libdbus-1-dev libomemo-c-dev libwayland-bin libgtk-3-dev \
+libwayland-dev libcairo2-dev libgmp-dev libunistring-dev nettle-dev meson \
+libgpgme-dev libgpg-error-dev libpcre2-dev libpixman-1-dev ninja-build \
+libharfbuzz-dev libpango1.0-dev libkadm5clnt-mit12 libsystemd-dev librtmp-dev \
+libthai-dev libngtcp2-dev libcmocka0 icu-devtools
+sudo apt autoremove
+
+```
+
+When I tried to reinstall the dpkg, I ran into missing dependencies, so I had to do the following:
+
+```
+sudo apt-mark auto libomemo-c0 libotr5t64 libstrophe0
+sudo apt install libomemo-c0 libotr5t64 libstrophe0
+dpkg -i profanity_0.18.2-1_arm64.deb
+
+```
+
+I hope this works for you as well.</source:markdown>
       <guid>cid://https://alexschroeder.ch/view/2026-10-10-omemo</guid>
       <category>XMPP</category>
-      <pubDate>Sat, 10 Oct 2026 13:04:47 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 21:50:21 +0000</pubDate>
+    </item>    <item>
+      <title>Charlie Bailey, Chair Of The Georgia Democratic Party, Checks Back In From Battleground Georgia</title>
+      <link>https://www.hopiumchronicles.com/p/charlie-bailey-chair-of-the-democratic</link>
+      <description>
+        <![CDATA[&#8220;This is the best year to be a Democratic in Georgia since 1998&#8221; - Charlie Bailey]]>
+      </description>
+      <source:markdown>“This is the best year to be a Democratic in Georgia since 1998” - Charlie Bailey</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/219588030/c22bb6962ba0e20f26965cd4e346e622.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/charlie-bailey-chair-of-the-democratic</guid>
+      <pubDate>Sat, 10 Oct 2026 20:16:16 +0000</pubDate>
+    </item>    <item>
+      <link>http://scripting.com/2026/10/10.html#a165325</link>
+      <description>
+        <![CDATA[Today I did something different. I wrote a little Node app, without Claude's help. It was a revelation. It's been most of a year since I actually started even a test app and wrote it from beginning to end. I used to do this routinely. Nothing routine about it anymore. What this app does, it generates a Markdown-only version of scripting.com for testing. I want to see what such a site looks like. It'll be a start.]]>
+      </description>
+      <source:markdown>Today I did something different. I wrote a little Node app, without Claude&#39;s help. It was a revelation. It&#39;s been most of a year since I actually started even a test app and wrote it from beginning to end. I used to do this routinely. Nothing routine about it anymore. What this app does, it generates a Markdown-only version of scripting.com for testing. I want to see what such a site looks like. It&#39;ll be a start.</source:markdown>
+      <guid>cid://http://scripting.com/2026/10/10.html#a165325</guid>
+      <pubDate>Sat, 10 Oct 2026 16:53:25 +0000</pubDate>
+    </item>    <item>
+      <title>D</title>
+      <link>https://nealstephenson.substack.com/p/d</link>
+      <description>
+        <![CDATA[The book tour begins]]>
+      </description>
+      <source:markdown>The book tour begins</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Od-V!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42410cfa-15f4-496d-bb09-3af81f557a28_350x531.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://nealstephenson.substack.com/p/d</guid>
+      <pubDate>Sat, 10 Oct 2026 16:12:08 +0000</pubDate>
+    </item>    <item>
+      <title>La Gradiva (BIFF 12): en búsqueda de la belleza</title>
+      <link>https://www.palomitademaiz.net/resenas-la-gradiva-biff-12/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-la-gradiva-biff-12</link>
+      <description>
+        <![CDATA[<p>Sección: Espíritu joven.  Dirección: Marine Atlan. Guion: Marine Atlan y Anne Brouillet. Elenco: Colas Quignard, Antonia Buresi, Mitia Capellier-Audat y Suzanne Gerin.  Países: Francia e Italia.  Más información de la película https://www.imdb.com/title/tt36107185/  “Eres tonto; eres incapaz,” grita con vehemencia la señora Mercier (Antonia Buresi) para reprochar a Toni (Colas Quignard), en frente de toda la [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-la-gradiva-biff-12/">La Gradiva (BIFF 12): en búsqueda de la belleza</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Sección: Espíritu joven.  Dirección: Marine Atlan. Guion: Marine Atlan y Anne Brouillet. Elenco: Colas Quignard, Antonia Buresi, Mitia Capellier-Audat y Suzanne Gerin.  Países: Francia e Italia.  Más información de la película https://www.imdb.com/title/tt36107185/  “Eres tonto; eres incapaz,” grita con vehemencia la señora Mercier (Antonia Buresi) para reprochar a Toni (Colas Quignard), en frente de toda la \[…\]
+
+La entrada [La Gradiva (BIFF 12): en búsqueda de la belleza](https://www.palomitademaiz.net/resenas-la-gradiva-biff-12/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=27046</guid>
+      <category>Cine</category>
+      <category>Festivales</category>
+      <category>Reseñas</category>
+      <category>Anne Brouillet</category>
+      <category>Antonia Buresi</category>
+      <category>BIFF</category>
+      <category>BIFF 2026</category>
+      <category>Colas Quignard</category>
+      <category>La Gradiva</category>
+      <category>Marine Atlan</category>
+      <category>Mitia Capellier-Audat</category>
+      <category>Suzanne Gerin.</category>
+      <pubDate>Sat, 10 Oct 2026 16:00:14 +0000</pubDate>
+    </item>    <item>
+      <title>Cook Moves 18 House Races Towards The Ds, Terrific New Candidate Discussions, We Need To Make These Elections About Taking The Keys Away From Our Terrible Leader</title>
+      <link>https://www.hopiumchronicles.com/p/cook-moves-18-house-races-towards</link>
+      <description>
+        <![CDATA[&#8220;Elections are decided in November, but they&#8217;re won in October&#8221; - Anderson Clayton]]>
+      </description>
+      <source:markdown>“Elections are decided in November, but they’re won in October” - Anderson Clayton</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/4707c38e-5638-43cc-bbee-5d65f01122e1_594x333.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/cook-moves-18-house-races-towards</guid>
+      <pubDate>Sat, 10 Oct 2026 15:10:57 +0000</pubDate>
+    </item>    <item>
+      <title>unikernels were hard. key word: were.</title>
+      <link>https://ghuntley.com/unikernels/</link>
+      <description>
+        <![CDATA[Justin Cormack, who worked on MirageOS back in the day, called me at the pub to talk about why unikernels are coming back. The friction that made them hard is gone, the operating system is design debt, and if you care about security you should seriously consider them.]]>
+      </description>
+      <source:markdown>Justin Cormack, who worked on MirageOS back in the day, called me at the pub to talk about why unikernels are coming back. The friction that made them hard is gone, the operating system is design debt, and if you care about security you should seriously consider them.</source:markdown>
+      <guid>cid://6aca44ffb244820001e15c2d</guid>
+      <category>AI</category>
+      <pubDate>Sat, 10 Oct 2026 14:23:33 +0000</pubDate>
+    </item>    <item>
+      <title>Running</title>
+      <link>https://doc.searls.com/2026/10/10/running/</link>
+      <description>
+        <![CDATA[I&#39;m in Chicago for the Marathon and our son&#39;s birthday (he&#39;s running tomorrow). Also hanging with relatives and enjoying the city, which always feels to me like a giant Boston. (Color me wrong, it&#39;s okay.) Meaning it was fully yours Steven Levy: I’m Still Convinced the iPod Was the Perfect Gadget—Apple’s original music player got [&#8230;]]]>
+      </description>
+      <source:markdown>I&#39;m in Chicago for the Marathon and our son&#39;s birthday (he&#39;s running tomorrow). Also hanging with relatives and enjoying the city, which always feels to me like a giant Boston. (Color me wrong, it&#39;s okay.) Meaning it was fully yours Steven Levy: I’m Still Convinced the iPod Was the Perfect Gadget—Apple’s original music player got \[…\]</source:markdown>
+      <guid>cid://https://doc.searls.com/2026/10/10/running/</guid>
+      <category>Internet</category>
+      <category>music</category>
+      <pubDate>Sat, 10 Oct 2026 13:56:15 +0000</pubDate>
     </item>    <item>
       <title>Repost: My head talks at the ECB</title>
       <link>https://paulkrugman.substack.com/p/my-head-talks-at-the-ecb</link>
@@ -1991,6 +2307,18 @@ Reply via:
       <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/5c5bfa19-9d7d-4f23-9653-5022c6a28b08_992x511.png" length="0" type="image/jpeg" />
       <guid>cid://https://www.hopiumchronicles.com/p/hopium-ad-and-video-roundup-peltola-204</guid>
       <pubDate>Thu, 08 Oct 2026 16:30:57 +0000</pubDate>
+    </item>    <item>
+      <title>The Technofeudal Roadmap to Socialism</title>
+      <link>https://literatemachine.com/2026/10/08/the-technofeudal-roadmap-to-socialism/</link>
+      <description>
+        <![CDATA[Video Version &#124; Audio Version Hi. Sometimes it seems hopeless, doesn’t it? So much unthinkable wealth and power has been hoarded by a such small number of people, and those people are using that wealth to wreck… everything. And rather than being able to fight them, most of us have to work for them or<p><a href="https://literatemachine.com/2026/10/08/the-technofeudal-roadmap-to-socialism/" class="more-link themebutton">Read More</a></p>]]>
+      </description>
+      <source:markdown>Video Version \| Audio Version Hi. Sometimes it seems hopeless, doesn’t it? So much unthinkable wealth and power has been hoarded by a such small number of people, and those people are using that wealth to wreck… everything. And rather than being able to fight them, most of us have to work for them or
+
+[Read More](https://literatemachine.com/2026/10/08/the-technofeudal-roadmap-to-socialism/)</source:markdown>
+      <guid>cid://https://literatemachine.com/?p=1129</guid>
+      <category>Uncategorized</category>
+      <pubDate>Thu, 08 Oct 2026 16:14:10 +0000</pubDate>
     </item>    <item>
       <title>Neil Peart: No One’s Disciple – recordando a una leyenda a través de sus colegas</title>
       <link>https://www.palomitademaiz.net/resenas-neil-peart-no-ones-disciple/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-neil-peart-no-ones-disciple</link>
@@ -4194,18 +4522,6 @@ I have to trust Google for far too many things, but I think we can get rid of ou
       <guid>cid://https://www.noemamag.com/does-claude-feel-the-whip</guid>
       <pubDate>Thu, 08 Oct 2026 13:25:15 +0000</pubDate>
     </item>    <item>
-      <title>The Technofeudal Roadmap to Socialism</title>
-      <link>https://literatemachine.com/2026/10/08/the-technofeudal-roadmap-to-socialism/</link>
-      <description>
-        <![CDATA[Video Version &#124; Audio Version Hi. Sometimes it seems hopeless, doesn’t it? So much unthinkable wealth and power has been hoarded by a such small number of people, and those people are using that wealth to wreck… everything. And rather than being able to fight them, most of us have to work for them or<p><a href="https://literatemachine.com/2026/10/08/the-technofeudal-roadmap-to-socialism/" class="more-link themebutton">Read More</a></p>]]>
-      </description>
-      <source:markdown>Video Version \| Audio Version Hi. Sometimes it seems hopeless, doesn’t it? So much unthinkable wealth and power has been hoarded by a such small number of people, and those people are using that wealth to wreck… everything. And rather than being able to fight them, most of us have to work for them or
-
-[Read More](https://literatemachine.com/2026/10/08/the-technofeudal-roadmap-to-socialism/)</source:markdown>
-      <guid>cid://https://literatemachine.com/?p=1601</guid>
-      <category>Uncategorized</category>
-      <pubDate>Thu, 08 Oct 2026 13:18:39 +0000</pubDate>
-    </item>    <item>
       <title>The Rightwing Media Machine Just Got Way More Dangerous</title>
       <link>https://plus.briantylercohen.com/p/the-rightwing-media-machine-just</link>
       <description>
@@ -4647,6 +4963,19 @@ You can request a transcript by emailing transcripts@crooked.com. Include the po
       <category>storytelling</category>
       <category>Writing process</category>
       <pubDate>Thu, 08 Oct 2026 09:07:00 +0000</pubDate>
+    </item>    <item>
+      <title>Let&#39;s talk about 2.8</title>
+      <link>https://meshtastic.org/blog/lets-talk-about-2-8/</link>
+      <description>
+        <![CDATA[2.8.1 alpha replaces the revoked 2.8.0 and isn't ready for wide deployment yet. Here's what 2.8 brings: signed packets, private-by-default location, and support for much larger meshes.]]>
+      </description>
+      <source:markdown>2.8.1 alpha replaces the revoked 2.8.0 and isn&#39;t ready for wide deployment yet. Here&#39;s what 2.8 brings: signed packets, private-by-default location, and support for much larger meshes.</source:markdown>
+      <guid>cid://https://meshtastic.org/blog/lets-talk-about-2-8/</guid>
+      <category>meshtastic</category>
+      <category>firmware</category>
+      <category>release</category>
+      <category>security</category>
+      <pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
     </item>    <item>
       <title>The Independent Press Top 40 Bestsellers: Fiction</title>
       <link>https://lithub.com/the-independent-press-top-40-bestsellers-fiction-37/</link>
@@ -5775,7 +6104,7 @@ It still has a lot of bugs, but pretty psyched.</source:markdown>
       <description>
         <![CDATA[<p><a href="https://parakeet.co/blog/the-shape-of-apps/" >Louie Mantia has a great post</a> about how app icons are converging towards the squircle on iOS and macOS.</p>
         <p>His post reads like a history. If you’re wondering, “How did we get to a place where all app icons are becoming squircles?” Mantia’s post answers that question by starting at the beginning.</p>
-        <p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2026/apples-hoa-icons.png" width="596" height="328" alt="Eight app icons in two rows: a pink monitor with a tool, a teal clock with a reverse arrow, a yellow diamond, and a blue magnifying glass with a pencil, each shown as a circle and a rounded square." />
+        <p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2026/apples-hoa-icons.png" width="600" height="450" alt="Eight app icons in two rows: a pink monitor with a tool, a teal clock with a reverse arrow, a yellow diamond, and a blue magnifying glass with a pencil, each shown as a circle and a rounded square." />
         
         </p><p>It’s hard to walk away from Mantia’s article without a sense of empathy for Apple’s position, like “Oh ok, I get why they’re doing what they’re doing. It makes sense.”</p>
         <p>Apple’s direction is kind of a tacit acknowledgement to how most people are shipping app icons. Apple is “paving the cowpaths” as it were, because most app icons are just brand logos.</p>
@@ -5797,7 +6126,7 @@ It still has a lot of bugs, but pretty psyched.</source:markdown>
         <p>Somewhere along the way HOAs became more prevalent (in my neck of the woods), where all the houses in a neighborhood have to meet a certain standard — and so they all start to look the same.</p>
         <p>It keeps the dumpy things out, yet nobody <em>stands out</em>.</p>
         <p>That’s kinda what macOS feels like right now with regard to app icons.</p>
-        <p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2026/apples-hoa-homes.png" width="601" height="450" alt="Four app icons floating over a suburban neighborhood." data-og-image />
+        <p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2026/apples-hoa-homes.jpg" width="600" height="450" alt="Four app icons floating over a suburban neighborhood." data-og-image />
         
         </p><p>For better or worse, squircle app icons are Apple’s HOA and we’re all just living in it.</p>
         
@@ -5851,7 +6180,7 @@ It keeps the dumpy things out, yet nobody _stands out_.
 
 That’s kinda what macOS feels like right now with regard to app icons.
 
-![Four app icons floating over a suburban neighborhood.](https://cdn.jim-nielsen.com/blog/2026/apples-hoa-homes.png)
+![Four app icons floating over a suburban neighborhood.](https://cdn.jim-nielsen.com/blog/2026/apples-hoa-homes.jpg)
 
 For better or worse, squircle app icons are Apple’s HOA and we’re all just living in it.
 
@@ -20557,7 +20886,7 @@ La entrada [El corazón de la bestia podría estar vacío](https://www.palomitad
       <category>Thriller</category>
       <pubDate>Thu, 24 Sep 2026 19:00:38 +0000</pubDate>
     </item>    <item>
-      <title>The Mooch and Me: My Interview with Anthony Scaramucci</title>
+      <title>The Mooch and Me: My Live Sit-Down with Anthony Scaramucci</title>
       <link>https://tinabrown.substack.com/p/the-mooch-and-me-my-interview-with</link>
       <description>
         <![CDATA[Check out my live interview with the mighty Mooch for the season debut of the smart person&#8217;s convener, Intelligence Squared, at London&#8217;s historic Lyceum Theatre.]]>
@@ -24703,6 +25032,18 @@ you&#39;re surrounded with lush greens and cloud-covered mountains.</source:mark
       <category>Notable links</category>
       <pubDate>Tue, 22 Sep 2026 16:56:05 +0000</pubDate>
     </item>    <item>
+      <title>50k Subscriber Q&#38;A</title>
+      <link>https://literatemachine.com/2026/09/22/50k-subscriber-qa/</link>
+      <description>
+        <![CDATA[Video Version &#124; Audio Version Well, hello again. I don’t know if you expected me to be doing this again so quickly, I know I certainly didn’t. And sorry if I sound a little hoarse, I’m recovering from a cold. So to recap from the 25k Q&#38;A video, I started this channel as a kind<p><a href="https://literatemachine.com/2026/09/22/50k-subscriber-qa/" class="more-link themebutton">Read More</a></p>]]>
+      </description>
+      <source:markdown>Video Version \| Audio Version Well, hello again. I don’t know if you expected me to be doing this again so quickly, I know I certainly didn’t. And sorry if I sound a little hoarse, I’m recovering from a cold. So to recap from the 25k Q&#38;A video, I started this channel as a kind
+
+[Read More](https://literatemachine.com/2026/09/22/50k-subscriber-qa/)</source:markdown>
+      <guid>cid://https://literatemachine.com/?p=1160</guid>
+      <category>Uncategorized</category>
+      <pubDate>Tue, 22 Sep 2026 16:52:30 +0000</pubDate>
+    </item>    <item>
       <title>Hopium Ad And Video Roundup - Peltola (Alaska), Taylor (VA-1), Johnson (MN-1), Acton (OH-Gov), Haaland (NM-Gov)</title>
       <link>https://www.hopiumchronicles.com/p/hopium-ad-and-video-roundup-peltola</link>
       <description>
@@ -24859,18 +25200,6 @@ The post [Turn text input into actions with Needle, a 14MB function-calling LLM]
       <category>Raspberry Pi 5</category>
       <category>Raspberry Pi AI</category>
       <pubDate>Tue, 22 Sep 2026 13:44:08 +0000</pubDate>
-    </item>    <item>
-      <title>50k Subscriber Q&#38;A!</title>
-      <link>https://literatemachine.com/2026/09/22/50k-subscriber-qa/</link>
-      <description>
-        <![CDATA[Video Version &#124; Audio Version Well, hello again! I don’t know if you expected me to be doing this again so quickly, I know I certainly didn’t. So to recap from the 25k Q&#38;A episode, I started this channel as a kind of passion project, making videos when I had free time from my day<p><a href="https://literatemachine.com/2026/09/22/50k-subscriber-qa/" class="more-link themebutton">Read More</a></p>]]>
-      </description>
-      <source:markdown>Video Version \| Audio Version Well, hello again! I don’t know if you expected me to be doing this again so quickly, I know I certainly didn’t. So to recap from the 25k Q&#38;A episode, I started this channel as a kind of passion project, making videos when I had free time from my day
-
-[Read More](https://literatemachine.com/2026/09/22/50k-subscriber-qa/)</source:markdown>
-      <guid>cid://https://literatemachine.com/?p=1539</guid>
-      <category>Uncategorized</category>
-      <pubDate>Tue, 22 Sep 2026 13:42:24 +0000</pubDate>
     </item>    <item>
       <title>The Curious About Everything Newsletter #66</title>
       <link>https://jodiettenberg.substack.com/p/sixty-six</link>
@@ -28312,279 +28641,6 @@ Zero expectation turned out to be the right frame. Since that post I’ve receiv
 I’m not surprised by how hard the sponsorship model is for individuals. Even with whatever visibility I have after years in this community, the numbers are what they are. And I’m one of the _lucky_ ones: there are countless open-source contributors with far less visibility than me, quietly maintaining things the rest of us depend on, for whom getting sponsored at all would be dramatically harder. If you have the means and the inclination to support open source, please don’t stop at the maintainers you’ve already heard of—the ones you haven’t heard of may need it more.</source:markdown>
       <guid>cid://https://yihui.org/en/2026/09/knitr-backlog/</guid>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>KdK part 5: The Aitkenator</title>
-      <link>https://nealstephenson.substack.com/p/kdk-part-5-the-aitkenator</link>
-      <description>
-        <![CDATA[John Aitken, Father of the Chain-Flinger]]>
-      </description>
-      <source:markdown>John Aitken, Father of the Chain-Flinger</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!rIqh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6997166-fd55-45ed-90aa-6f2515bd957c_1090x1114.png" length="0" type="image/jpeg" />
-      <guid>cid://https://nealstephenson.substack.com/p/kdk-part-5-the-aitkenator</guid>
-      <pubDate>Sat, 19 Sep 2026 19:49:06 +0000</pubDate>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/117299417773977490</link>
-      <description>
-        <![CDATA[<p class="quote-inline">RE: <a href="https://mastodon.social/@obrhoff/117296962475870478" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@obrhoff/11729</span><span class="invisible">6962475870478</span></a></p><p>Uh oh</p>]]>
-      </description>
-      <source:markdown>RE: [https://mastodon.social/@obrhoff/117296962475870478](https://mastodon.social/@obrhoff/117296962475870478)
-
-Uh oh</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/117299417773977490</guid>
-      <pubDate>Sat, 19 Sep 2026 19:44:32 +0000</pubDate>
-    </item>    <item>
-      <title>Splatterday</title>
-      <link>https://doc.searls.com/2026/09/19/splatterday/</link>
-      <description>
-        <![CDATA[They need more. Smithsonian Magazine: An Amateur Astronomer Using Google Maps Spotted a Strange Indentation. It Turned Out to Be a Meteorite Crater From 390 Million Years Ago. That one has been added to the excellent Impact Earth crater map. I&#8217;ve shot three of those: Manicougan, Upheaval Dome, and Meteor Crater. No doom, no utopia In Jeff Jarvis&#8217; They’re covering [&#8230;]]]>
-      </description>
-      <source:markdown>They need more. Smithsonian Magazine: An Amateur Astronomer Using Google Maps Spotted a Strange Indentation. It Turned Out to Be a Meteorite Crater From 390 Million Years Ago. That one has been added to the excellent Impact Earth crater map. I’ve shot three of those: Manicougan, Upheaval Dome, and Meteor Crater. No doom, no utopia In Jeff Jarvis’ They’re covering \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/2026/09/19/splatterday/</guid>
-      <category>astronomy</category>
-      <category>Geology</category>
-      <category>Photography</category>
-      <category>Space</category>
-      <pubDate>Sat, 19 Sep 2026 18:26:29 +0000</pubDate>
-    </item>    <item>
-      <link>http://scripting.com/2026/09/19.html#a182151</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2026/05/19/reallySimpleNet.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Well I got a lot done today. We had a bit of a meltdown due to a Atlantis bug, where it couldn't handle some text that I threw at it that was a huge file of includes used in everything I do, and I was feeling pretty cheeky, and it blew up. For about an hour you couldn't read my lovely words. But by remembering "slow down to hurry up" Claude figured out what went wrong as I asked 20 questions to narrow it down. And to celebrate, I decided to do something easy -- created <a href="https://shownotes.scripting.com/scripting/2026/09/19/knicksInFive.html">a podcast</a>. And it showed up in all the <a href="https://shownotes.scripting.com/scripting/">right</a> <a href="http://scripting.com/podcast.xml">places</a>. Might be worth listening to as well. Now let's see if this shows up <a href="https://daveverse.org/2026/09/19/#a12543">on daveverse.org</a>, that's what I'm really testing. (It worked.)]]>
-      </description>
-      <source:markdown>![](https://imgs.scripting.com/2026/05/19/reallySimpleNet.png)Well I got a lot done today. We had a bit of a meltdown due to a Atlantis bug, where it couldn&#39;t handle some text that I threw at it that was a huge file of includes used in everything I do, and I was feeling pretty cheeky, and it blew up. For about an hour you couldn&#39;t read my lovely words. But by remembering &#34;slow down to hurry up&#34; Claude figured out what went wrong as I asked 20 questions to narrow it down. And to celebrate, I decided to do something easy -- created [a podcast](https://shownotes.scripting.com/scripting/2026/09/19/knicksInFive.html). And it showed up in all the [right](https://shownotes.scripting.com/scripting/) [places](http://scripting.com/podcast.xml). Might be worth listening to as well. Now let&#39;s see if this shows up [on daveverse.org](https://daveverse.org/2026/09/19/#a12543), that&#39;s what I&#39;m really testing. (It worked.)</source:markdown>
-      <guid>cid://http://scripting.com/2026/09/19.html#a182151</guid>
-      <pubDate>Sat, 19 Sep 2026 18:21:51 +0000</pubDate>
-    </item>    <item>
-      <link>http://scripting.com/2026/09/19.html#a174001</link>
-      <description>
-        <![CDATA[New podcast. <a href="https://shownotes.scripting.com/scripting/2026/09/19/knicksInFive.html">Knicks in Five</a>! (It's not about the Knicks.)]]>
-      </description>
-      <source:markdown>New podcast. [Knicks in Five](https://shownotes.scripting.com/scripting/2026/09/19/knicksInFive.html)! (It&#39;s not about the Knicks.)</source:markdown>
-      <guid>cid://http://scripting.com/2026/09/19.html#a174001</guid>
-      <pubDate>Sat, 19 Sep 2026 17:40:01 +0000</pubDate>
-    </item>    <item>
-      <link>http://scripting.com/2026/09/19.html#a170516</link>
-      <description>
-        <![CDATA[I wish there were a way to set the dock icons on a Mac. In going from the old machine to the new, the icons are all different. I am juggling so many apps right now, and totally don't appreciate that.]]>
-      </description>
-      <source:markdown>I wish there were a way to set the dock icons on a Mac. In going from the old machine to the new, the icons are all different. I am juggling so many apps right now, and totally don&#39;t appreciate that.</source:markdown>
-      <guid>cid://http://scripting.com/2026/09/19.html#a170516</guid>
-      <pubDate>Sat, 19 Sep 2026 17:05:16 +0000</pubDate>
-    </item>    <item>
-      <title>More street sessions in Cáceres.</title>
-      <link>https://adactio.com/notes/22770</link>
-      <description>
-        <![CDATA[<p>More street sessions in Cáceres.</p>]]>
-      </description>
-      <source:markdown>More street sessions in Cáceres.</source:markdown>
-      <guid>cid://https://adactio.com/notes/22770</guid>
-      <pubDate>Sat, 19 Sep 2026 16:19:45 +0000</pubDate>
-    </item>    <item>
-      <link>http://scripting.com/2026/09/19.html#a161443</link>
-      <description>
-        <![CDATA[When Claude has a clear task to do, it does it well, and exhaustively in a way no human could manage.]]>
-      </description>
-      <source:markdown>When Claude has a clear task to do, it does it well, and exhaustively in a way no human could manage.</source:markdown>
-      <guid>cid://http://scripting.com/2026/09/19.html#a161443</guid>
-      <pubDate>Sat, 19 Sep 2026 16:14:43 +0000</pubDate>
-    </item>    <item>
-      <title>Made a nice salad for lunch in Cáceres. 🥗</title>
-      <link>https://adactio.com/notes/22769</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22769/small.jpg" srcset="https://adactio.com/images/uploaded/22769/medium.jpg 1.5x, https://adactio.com/images/uploaded/22769/large.jpg 2.5x" alt="Made a nice salad for lunch in Cáceres. 🥗" />
-        <p>Made a nice salad for lunch in Cáceres. 🥗</p>]]>
-      </description>
-      <source:markdown>![Made a nice salad for lunch in Cáceres. 🥗](https://adactio.com/images/uploaded/22769/small.jpg)
-
-Made a nice salad for lunch in Cáceres. 🥗</source:markdown>
-      <guid>cid://https://adactio.com/notes/22769</guid>
-      <pubDate>Sat, 19 Sep 2026 16:07:05 +0000</pubDate>
-    </item>    <item>
-      <title>So, In Sum - Trump Is A Titanic F-ck Up, His Madness Is Getting Worse, American Voters Are Angry, And Are Ready Now To Put Us Back In Power</title>
-      <link>https://www.hopiumchronicles.com/p/so-in-sum-trump-is-a-titanic-f-ck</link>
-      <description>
-        <![CDATA[Trump had a very bad week and we had a very good one]]>
-      </description>
-      <source:markdown>Trump had a very bad week and we had a very good one</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!bvqj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30d24135-9c91-4c62-88b4-6e5066d7c3a7_496x331.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.hopiumchronicles.com/p/so-in-sum-trump-is-a-titanic-f-ck</guid>
-      <pubDate>Sat, 19 Sep 2026 15:50:36 +0000</pubDate>
-    </item>    <item>
-      <link>http://scripting.com/2026/09/19.html#a150544</link>
-      <description>
-        <![CDATA[I'm now trying to come up with projects I can try that change things in visible ways so I can see which parts don't work. For example, I have a new Snarky Slogan to add to the list.]]>
-      </description>
-      <source:markdown>I&#39;m now trying to come up with projects I can try that change things in visible ways so I can see which parts don&#39;t work. For example, I have a new Snarky Slogan to add to the list.</source:markdown>
-      <guid>cid://http://scripting.com/2026/09/19.html#a150544</guid>
-      <pubDate>Sat, 19 Sep 2026 15:05:44 +0000</pubDate>
-    </item>    <item>
-      <link>http://scripting.com/2026/09/19.html#a150203</link>
-      <description>
-        <![CDATA[I am working on the new system now. It feels like I had a nice enough house that I have lived in for decades, sitting across the way, where I've been constructing a new super luxury house with all the things a modern personal publisher and code-partner to Claude would want. But until yesterday I could only simulate what it would be like to use it, I was still living in the old comfortable well-worn and out of date in so many ways. Today I'm sitting at the other chair typing this. Now the question is -- when I click the Publish button what will happen? Here we go. Well fuck me, it worked the first fucking time. <i>Knicks in five! </i>:-)]]>
-      </description>
-      <source:markdown>I am working on the new system now. It feels like I had a nice enough house that I have lived in for decades, sitting across the way, where I&#39;ve been constructing a new super luxury house with all the things a modern personal publisher and code-partner to Claude would want. But until yesterday I could only simulate what it would be like to use it, I was still living in the old comfortable well-worn and out of date in so many ways. Today I&#39;m sitting at the other chair typing this. Now the question is -- when I click the Publish button what will happen? Here we go. Well fuck me, it worked the first fucking time. _Knicks in five!_ :-)</source:markdown>
-      <guid>cid://http://scripting.com/2026/09/19.html#a150203</guid>
-      <pubDate>Sat, 19 Sep 2026 15:02:03 +0000</pubDate>
-    </item>    <item>
-      <title>Surrogacy and Optics</title>
-      <link>https://thebrowser.com/free/surrogacy-and-optics/</link>
-      <description>
-        <![CDATA[Writing of lasting value]]>
-      </description>
-      <source:markdown>Writing of lasting value</source:markdown>
-      <guid>cid://6aad31056b16920001af44fa</guid>
-      <pubDate>Sat, 19 Sep 2026 15:00:28 +0000</pubDate>
-    </item>    <item>
-      <title>Top three ways Dario Amodei has blown his credibility in seven days</title>
-      <link>https://garymarcus.substack.com/p/top-three-ways-dario-amodei-has-blown</link>
-      <description>
-        <![CDATA[Actions speak louder than words]]>
-      </description>
-      <source:markdown>Actions speak louder than words</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!Ka51!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8fb2e48c-be2a-4db7-b68c-90300f00fd1e_1668x1456.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://garymarcus.substack.com/p/top-three-ways-dario-amodei-has-blown</guid>
-      <pubDate>Sat, 19 Sep 2026 14:59:18 +0000</pubDate>
-    </item>    <item>
-      <title>Reanimating a Corpus. Or Two. Or More.</title>
-      <link>https://doc.searls.com/2026/09/19/reanimating-a-corpus-or-two-or-more/</link>
-      <description>
-        <![CDATA[For many years, I have despaired of ever saving the contents of my old blog (1999-2007), my writing for Linux Journal (1996-2019), and countless other articles, essays, and posts, published mostly on the Web—which looks and sounds like a permanent place (&#8220;sites,&#8221; &#8220;locations,&#8221; domains&#8221;), but in fact is a whiteboard. Then, last week, I asked [&#8230;]]]>
-      </description>
-      <source:markdown>For many years, I have despaired of ever saving the contents of my old blog (1999-2007), my writing for Linux Journal (1996-2019), and countless other articles, essays, and posts, published mostly on the Web—which looks and sounds like a permanent place (“sites,” “locations,” domains”), but in fact is a whiteboard. Then, last week, I asked \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/?p=22605</guid>
-      <category>AI</category>
-      <category>Archives</category>
-      <category>Artificial Intelligence</category>
-      <pubDate>Sat, 19 Sep 2026 13:54:08 +0000</pubDate>
-    </item>    <item>
-      <title>The Business-to-Industry Index and the Geography of Global Capitalism</title>
-      <link>https://economicsfromthetopdown.com/2026/09/19/the-business-to-industry-index-and-the-geography-of-global-capitalism/</link>
-      <description>
-        <![CDATA[<p><img width="150" height="150" src="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2026/09/bti_cover.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2026/09/bti_cover.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2026/09/bti_cover.png?resize=450%2C450&amp;ssl=1 450w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2026/09/bti_cover.png?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2026/09/bti_cover.png?resize=550%2C550&amp;ssl=1 550w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2026/09/bti_cover.png?zoom=2&amp;resize=150%2C150&amp;ssl=1 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="15639" data-permalink="https://economicsfromthetopdown.com/bti_cover/" data-orig-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2026/09/bti_cover.png?fit=6594%2C3971&amp;ssl=1" data-orig-size="6594,3971" data-comments-opened="1" data-image-title="bti_cover" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2026/09/bti_cover.png?fit=723%2C436&amp;ssl=1" />I use the business-to-industry index to chart the rise and fall of capitalist hegemony, and to map the uneven structure of global capitalism.</p>
-        <p>The post <a href="https://economicsfromthetopdown.com/2026/09/19/the-business-to-industry-index-and-the-geography-of-global-capitalism/">The Business-to-Industry Index and the Geography of Global Capitalism</a> appeared first on <a href="https://economicsfromthetopdown.com">Economics from the Top Down</a>.</p>]]>
-      </description>
-      <source:markdown>![](https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2026/09/bti_cover.png?resize=150%2C150&#38;ssl=1)I use the business-to-industry index to chart the rise and fall of capitalist hegemony, and to map the uneven structure of global capitalism.
-
-The post [The Business-to-Industry Index and the Geography of Global Capitalism](https://economicsfromthetopdown.com/2026/09/19/the-business-to-industry-index-and-the-geography-of-global-capitalism/) appeared first on [Economics from the Top Down](https://economicsfromthetopdown.com).</source:markdown>
-      <enclosure url="https://economicsfromthetopdown.com/wp-content/uploads/2026/09/fix_bti_20260919.mp3" length="63818910" type="audio/mpeg" />
-      <guid>cid://https://economicsfromthetopdown.com/?p=15626</guid>
-      <category>Uncategorized</category>
-      <category>business-to-industry index</category>
-      <category>capital as power</category>
-      <category>communism</category>
-      <category>empire</category>
-      <category>Energy</category>
-      <category>geography of global capitalism</category>
-      <category>hegemony</category>
-      <category>income</category>
-      <category>industrial disruption</category>
-      <category>Marxism</category>
-      <category>monetization</category>
-      <category>Nitzan and Bichler</category>
-      <category>US politics</category>
-      <category>Veblen</category>
-      <category>world-systems theory</category>
-      <pubDate>Sat, 19 Sep 2026 12:53:03 +0000</pubDate>
-    </item>    <item>
-      <title>Schlimmer als Stoppschilder fürs Internet: Der EU Kids Act</title>
-      <link>https://www.ccc.de/updates/2026/kids-act</link>
-      <description>
-        <![CDATA[Die EU-Kommission hat einen Entwurf zum „EU Kids Act“ vorgestellt. Er bedeutet nichts Gutes für die Zukunft des freien und fairen Internet: Anstatt Kinder wirklich zu schützen, bedeutet er das Ende jeglicher digitaler Teilhabe für Jugendliche unter 18, einen tiefen Grundrechtseingriff für alle und eine Gefahr für Alternativen zu Big Tech.]]>
-      </description>
-      <source:markdown>Die EU-Kommission hat einen Entwurf zum „EU Kids Act“ vorgestellt. Er bedeutet nichts Gutes für die Zukunft des freien und fairen Internet: Anstatt Kinder wirklich zu schützen, bedeutet er das Ende jeglicher digitaler Teilhabe für Jugendliche unter 18, einen tiefen Grundrechtseingriff für alle und eine Gefahr für Alternativen zu Big Tech.</source:markdown>
-      <guid>cid://https://www.ccc.de/1127</guid>
-      <pubDate>Sat, 19 Sep 2026 11:36:54 +0000</pubDate>
-    </item>    <item>
-      <title>Economic Size and Economic Power</title>
-      <link>https://paulkrugman.substack.com/p/economic-size-and-economic-power</link>
-      <description>
-        <![CDATA[My talk at the European Central Bank]]>
-      </description>
-      <source:markdown>My talk at the European Central Bank</source:markdown>
-      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/R0Vx6WKr8y0" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/economic-size-and-economic-power</guid>
-      <pubDate>Sat, 19 Sep 2026 10:31:12 +0000</pubDate>
-    </item>    <item>
-      <title>Lit Hub Weekly: September 14 – 18, 2026</title>
-      <link>https://lithub.com/lit-hub-weekly-september-14-18-2026/</link>
-      <description>
-        <![CDATA[Don’t have time to read all those fall reading lists? That’s okay. We read them for you. Here’s the Ultimate Fall Reading List. &#124; Lit Hub Reading Lists How raising a multilingual child taught Bo Wang to seamlessly incorporate English]]>
-      </description>
-      <source:markdown>Don’t have time to read all those fall reading lists? That’s okay. We read them for you. Here’s the Ultimate Fall Reading List. \| Lit Hub Reading Lists How raising a multilingual child taught Bo Wang to seamlessly incorporate English</source:markdown>
-      <guid>cid://https://lithub.com/?p=277257</guid>
-      <category>Lit Hub Daily</category>
-      <pubDate>Sat, 19 Sep 2026 10:30:59 +0000</pubDate>
-    </item>    <item>
-      <title>Last night’s fun.</title>
-      <link>https://adactio.com/notes/22768</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22768/small.jpg" srcset="https://adactio.com/images/uploaded/22768/medium.jpg 1.5x, https://adactio.com/images/uploaded/22768/large.jpg 2.5x" alt="Last night’s fun." />
-        <p>Last night’s fun.</p>]]>
-      </description>
-      <source:markdown>![Last night’s fun.](https://adactio.com/images/uploaded/22768/small.jpg)
-
-Last night’s fun.</source:markdown>
-      <guid>cid://https://adactio.com/notes/22768</guid>
-      <pubDate>Sat, 19 Sep 2026 08:49:46 +0000</pubDate>
-    </item>    <item>
-      <title>He’s Out of His Gourd | The Coffee Klatch for Saturday, September 19, 2026</title>
-      <link>https://robertreich.substack.com/p/hes-out-of-his-gourd-the-coffee-klatch</link>
-      <description>
-        <![CDATA[With Heather Lofthouse and yours truly, Robert Reich]]>
-      </description>
-      <source:markdown>With Heather Lofthouse and yours truly, Robert Reich</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/216371893/b3c268c7b619972fea1ba53674c0111e.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://robertreich.substack.com/p/hes-out-of-his-gourd-the-coffee-klatch</guid>
-      <pubDate>Sat, 19 Sep 2026 08:01:43 +0000</pubDate>
-    </item>    <item>
-      <title>Weeknotes: Sept. 12-18, 2026</title>
-      <link>https://tracydurnell.com/2026/09/18/weeknotes-sept-12-18-2026/</link>
-      <description>
-        <![CDATA[Win of the week: did a task I&#8217;ve been putting off for years 🙌 Sorted through my tubs of beading supplies from when I tried to sell handmade jewelry online in 2009 &#8212; separated out about 2/3 to donate or give away &#8212; plus I have a bunch of handmade jewelry to deconstruct to salvage nice [&#8230;]]]>
-      </description>
-      <source:markdown>Win of the week: did a task I’ve been putting off for years 🙌 Sorted through my tubs of beading supplies from when I tried to sell handmade jewelry online in 2009 — separated out about 2/3 to donate or give away — plus I have a bunch of handmade jewelry to deconstruct to salvage nice \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=40872</guid>
-      <category>Weeknotes</category>
-      <category>personal</category>
-      <pubDate>Sat, 19 Sep 2026 05:09:39 +0000</pubDate>
-    </item>    <item>
-      <title>September 18, 2026</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-18-2026</link>
-      <description>
-        <![CDATA[According to the American Automobile Association, diesel hit its highest recorded average price today at just above $6.44 per gallon.]]>
-      </description>
-      <source:markdown>According to the American Automobile Association, diesel hit its highest recorded average price today at just above $6.44 per gallon.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!yKDv!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b47f775-3df7-41dd-8bc9-a64cdd72d948_600x600.png" length="0" type="image/jpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-18-2026</guid>
-      <pubDate>Sat, 19 Sep 2026 03:25:16 +0000</pubDate>
-    </item>    <item>
-      <title>Photos from the end-of-summer garden</title>
-      <link>https://tracydurnell.com/2026/09/18/photos-from-the-end-of-summer-garden/</link>
-      <description>
-        <![CDATA[The light was muted this morning so I decided to haul out the ol&#8217; dSLR and take some photos in the garden. The sun came out so I went in for lunch, then I decided I needed to go back out for sunny shots! 😂]]>
-      </description>
-      <source:markdown>The light was muted this morning so I decided to haul out the ol’ dSLR and take some photos in the garden. The sun came out so I went in for lunch, then I decided I needed to go back out for sunny shots! 😂</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=41122</guid>
-      <category>Garden</category>
-      <category>green</category>
-      <category>native plants</category>
-      <category>photography</category>
-      <category>pink</category>
-      <category>plants</category>
-      <category>purple</category>
-      <category>summer</category>
-      <pubDate>Sat, 19 Sep 2026 02:37:37 +0000</pubDate>
-    </item>    <item>
-      <title>A Wham on the Moon</title>
-      <link>https://doc.searls.com/2026/09/18/a-wham-on-the-moon/</link>
-      <description>
-        <![CDATA[The Moon has a new crater, called McGetchin. The Lunar Reconnaissance Orbiter Camera people have the story here. (That&#8217;s their before and after view.) NASA calls it a once-in-a-lifetime thing. Specifically, Officially&#160;named McGetchin&#160;after pioneering lunar scientist Tom McGetchin, the crater formed on the Moon’s eastern edge sometime between April 11 and May 22, 2024, after [&#8230;]]]>
-      </description>
-      <source:markdown>The Moon has a new crater, called McGetchin. The Lunar Reconnaissance Orbiter Camera people have the story here. (That’s their before and after view.) NASA calls it a once-in-a-lifetime thing. Specifically, Officially named McGetchin after pioneering lunar scientist Tom McGetchin, the crater formed on the Moon’s eastern edge sometime between April 11 and May 22, 2024, after \[…\]</source:markdown>
-      <guid>cid://https://doc.searls.com/?p=22600</guid>
-      <category>astronomy</category>
-      <category>Science</category>
-      <category>Space</category>
-      <pubDate>Sat, 19 Sep 2026 02:36:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

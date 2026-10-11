@@ -4,10 +4,20 @@
   <channel>
     <title><![CDATA[GLAM]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>10 Oct 26 06:50 -0700</lastBuildDate>
+    <lastBuildDate>11 Oct 26 06:58 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>When AI Search Makes Up the Query Input, and Why That Isn’t Necessarily a Problem</title>
+      <link>https://aarontay.substack.com/p/when-ai-search-makes-up-the-query</link>
+      <description>
+        <![CDATA[The counterintuitive logic behind HyDE, Query2doc and the hidden query transformations used in modern AI-powered academic search.]]>
+      </description>
+      <source:markdown>The counterintuitive logic behind HyDE, Query2doc and the hidden query transformations used in modern AI-powered academic search.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!qJ8a!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3ae9690-4868-49a3-aea3-98f9d25f605f_925x643.png" length="0" type="image/jpeg" />
+      <guid>cid://https://aarontay.substack.com/p/when-ai-search-makes-up-the-query</guid>
+      <pubDate>Sat, 10 Oct 2026 20:59:37 +0000</pubDate>
+    </item>    <item>
       <title>Now Available: NASIG Proceedings, Volume 40 (2026)</title>
       <link>https://www.infodocket.com/2026/10/09/now-available-nasig-proceedings-volume-40-2026/</link>
       <description>

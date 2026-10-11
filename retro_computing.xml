@@ -4,10 +4,38 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>10 Oct 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>11 Oct 26 06:57 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2026/10/10 - Cloudflare sucks, The backwards PRINT#, AI music, Thermodynamically Offensive.</title>
+      <link>https://heyrick.eu/blog/entry/20261010</link>
+      <description>
+        <![CDATA[Cloudflare sucks, The backwards PRINT#, AI music, Thermodynamically Offensive.]]>
+      </description>
+      <source:markdown>Cloudflare sucks, The backwards PRINT#, AI music, Thermodynamically Offensive.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20261010</guid>
+      <pubDate>Sat, 10 Oct 2026 19:32:34 +0000</pubDate>
+    </item>    <item>
+      <title>Two weeks today: RISC OS London</title>
+      <link>https://www.riscository.com/2026/two-weeks-today-risc-os-london/</link>
+      <description>
+        <![CDATA[In just three weeks time it will be my favourite day of the year &#8211; and exactly one week before that is a day that should be one of a small number of firm favourites amongst discerning RISC OS users. What am I talking about? Well, as a long time fan of things that go bump in the night, Halloween will always rank highly as a date to look forward to. And one week before that it will be 24th October &#8211; the date of this year&#8217;s RISC OS London&#8230;]]>
+      </description>
+      <source:markdown>In just three weeks time it will be my favourite day of the year – and exactly one week before that is a day that should be one of a small number of firm favourites amongst discerning RISC OS users. What am I talking about? Well, as a long time fan of things that go bump in the night, Halloween will always rank highly as a date to look forward to. And one week before that it will be 24th October – the date of this year’s RISC OS London…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11083</guid>
+      <category>Announcements</category>
+      <pubDate>Sat, 10 Oct 2026 16:19:50 +0000</pubDate>
+    </item>    <item>
+      <title>RISC OS Open source developments weekly update (10th October 2026)</title>
+      <link>http://www.iconbar.com/comments/rss/news2392.html</link>
+      <description>
+        <![CDATA[Here are some of the things that I spotted which happened in the RISC OS Open source world this week...]]>
+      </description>
+      <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2392.html</guid>
+      <pubDate>Sat, 10 Oct 2026 15:42:00 +0000</pubDate>
+    </item>    <item>
       <title>b.log 2026/10/09 - AI code review.</title>
       <link>https://heyrick.eu/blog/entry/20261009</link>
       <description>
@@ -589,38 +617,6 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       <source:markdown>AI coding, Number conversions on Linux.</source:markdown>
       <guid>cid://https://heyrick.eu/blog/entry/20260920</guid>
       <pubDate>Sun, 20 Sep 2026 18:20:20 +0000</pubDate>
-    </item>    <item>
-      <title>b.log 2026/09/19 - Monday, Wednesday, Friday, Electricity bill?</title>
-      <link>https://heyrick.eu/blog/entry/20260919</link>
-      <description>
-        <![CDATA[Monday, Wednesday, Friday, Electricity bill?]]>
-      </description>
-      <source:markdown>Monday, Wednesday, Friday, Electricity bill?</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260919</guid>
-      <pubDate>Sat, 19 Sep 2026 19:50:06 +0000</pubDate>
-    </item>    <item>
-      <title>RISC OS Open source developments weekly update (19th September 2026)</title>
-      <link>http://www.iconbar.com/comments/rss/news2382.html</link>
-      <description>
-        <![CDATA[Here are some of the things that I spotted which happened in the RISC OS Open source world this week...]]>
-      </description>
-      <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2382.html</guid>
-      <pubDate>Sat, 19 Sep 2026 14:26:00 +0000</pubDate>
-    </item>    <item>
-      <title>ROUGOL revisits elite – now with two player split screen</title>
-      <link>https://www.riscository.com/2026/rougol-elite-two-player-split-screen/</link>
-      <description>
-        <![CDATA[Just over a year ago, Mark Moxon visited the RISC OS User Group of London (ROUGOL) to talk about how he had added econet support to Elite. He had been taking a deep dive into the game for a while, analysing the code and how some of its clever tricks were implemented, adding his own improvements to it &#8211; such as ensuring the graphics were flicker free &#8211; and at the time of that meeting, network support was his latest innovation. The depth of Mark&#8217;s investigation into Elite&#8217;s inner workings&#8230;]]>
-      </description>
-      <source:markdown>Just over a year ago, Mark Moxon visited the RISC OS User Group of London (ROUGOL) to talk about how he had added econet support to Elite. He had been taking a deep dive into the game for a while, analysing the code and how some of its clever tricks were implemented, adding his own improvements to it – such as ensuring the graphics were flicker free – and at the time of that meeting, network support was his latest innovation. The depth of Mark’s investigation into Elite’s inner workings…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=11037</guid>
-      <category>User groups</category>
-      <category>Elite</category>
-      <category>London</category>
-      <category>ROUGOL</category>
-      <category>User Group</category>
-      <pubDate>Sat, 19 Sep 2026 11:54:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
