@@ -4,16 +4,58 @@
   <channel>
     <title><![CDATA[GLAM]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>11 Oct 26 06:58 -0700</lastBuildDate>
+    <lastBuildDate>12 Oct 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Rogue Scholar integrates deeper with the Internet Archive</title>
+      <link>https://blog.front-matter.de/posts/rogue-scholar-integrates-deeper-with-the-internet-archive/</link>
+      <description>
+        <![CDATA[<p>The science blog archive <a href="https://rogue-scholar.org" rel="noreferrer">Rogue Scholar</a> is paying for the Internet Archive <a href="https://archive-it.org" rel="noreferrer">Archive-It</a> service to help archive participating blogs since <a href="https://doi.org/10.53731/hhtx0-wb293" rel="noreferrer">October 2023</a>. This week a deeper integration is launching, linking blog posts to the archived versions in the Rogue Scholar record sidebar, and linking the blog community to the</p>]]>
+      </description>
+      <source:markdown>The science blog archive [Rogue Scholar](https://rogue-scholar.org) is paying for the Internet Archive [Archive-It](https://archive-it.org) service to help archive participating blogs since [October 2023](https://doi.org/10.53731/hhtx0-wb293). This week a deeper integration is launching, linking blog posts to the archived versions in the Rogue Scholar record sidebar, and linking the blog community to the</source:markdown>
+      <guid>cid://6accb3058e12810001e53703</guid>
+      <category>Rogue Scholar</category>
+      <pubDate>Mon, 12 Oct 2026 11:02:45 +0000</pubDate>
+    </item>    <item>
+      <title>Mental Health Awareness Mondays — The Courage to Feel: Why Discomfort Is Not the Enemy</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/10/12/mental-health-awareness-mondays-the-courage-to-feel-why-discomfort-is-not-the-enemy/</link>
+      <description>
+        <![CDATA[<p>Today's post explores the relationship between avoidance, attention, and healing, suggesting that psychological discomfort is not simply an obstacle to overcome, but a signal to understand.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/10/12/mental-health-awareness-mondays-the-courage-to-feel-why-discomfort-is-not-the-enemy/">Mental Health Awareness Mondays &#8212; The Courage to Feel: Why Discomfort Is Not the Enemy</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Today&#39;s post explores the relationship between avoidance, attention, and healing, suggesting that psychological discomfort is not simply an obstacle to overcome, but a signal to understand.
+
+The post [Mental Health Awareness Mondays — The Courage to Feel: Why Discomfort Is Not the Enemy](https://scholarlykitchen.sspnet.org/2026/10/12/mental-health-awareness-mondays-the-courage-to-feel-why-discomfort-is-not-the-enemy/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63035</guid>
+      <category>Diversity, Equity, Inclusion, and Accessibility</category>
+      <category>Mental Health Awareness</category>
+      <category>Organizational Management</category>
+      <category>Research</category>
+      <category>Social Role</category>
+      <category>grief</category>
+      <category>mental health awareness</category>
+      <category>pregnancy loss</category>
+      <category>psychological change</category>
+      <category>recovery</category>
+      <pubDate>Mon, 12 Oct 2026 09:30:53 +0000</pubDate>
+    </item>    <item>
+      <title>Eight Mentions</title>
+      <link>https://metaarchivist.substack.com/p/eight-mentions</link>
+      <description>
+        <![CDATA[A new study of cataloging job ads finds almost no AI in them. It also shows why job ads may be the wrong place to look.]]>
+      </description>
+      <source:markdown>A new study of cataloging job ads finds almost no AI in them. It also shows why job ads may be the wrong place to look.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!IgNg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b1c8331-473e-4694-b16f-200c27774e14_1672x941.png" length="0" type="image/jpeg" />
+      <guid>cid://https://metaarchivist.substack.com/p/eight-mentions</guid>
+      <pubDate>Mon, 12 Oct 2026 09:28:10 +0000</pubDate>
+    </item>    <item>
       <title>When AI Search Makes Up the Query Input, and Why That Isn’t Necessarily a Problem</title>
       <link>https://aarontay.substack.com/p/when-ai-search-makes-up-the-query</link>
       <description>
-        <![CDATA[The counterintuitive logic behind HyDE, Query2doc and the hidden query transformations used in modern AI-powered academic search.]]>
+        <![CDATA[The hidden query transformations (e.g HyDE, Query2doc) and counterintuitive logic used in modern AI-powered academic search.]]>
       </description>
-      <source:markdown>The counterintuitive logic behind HyDE, Query2doc and the hidden query transformations used in modern AI-powered academic search.</source:markdown>
+      <source:markdown>The hidden query transformations (e.g HyDE, Query2doc) and counterintuitive logic used in modern AI-powered academic search.</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!qJ8a!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3ae9690-4868-49a3-aea3-98f9d25f605f_925x643.png" length="0" type="image/jpeg" />
       <guid>cid://https://aarontay.substack.com/p/when-ai-search-makes-up-the-query</guid>
       <pubDate>Sat, 10 Oct 2026 20:59:37 +0000</pubDate>

@@ -4,10 +4,33 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>11 Oct 26 06:56 -0700</lastBuildDate>
+    <lastBuildDate>12 Oct 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>APOD: 2026 October 12 – Jupiter and the Moons</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 October 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Jupiter and the [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 October 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Jupiter and the \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/</guid>
+      <category>APOD</category>
+      <pubDate>Mon, 12 Oct 2026 04:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>Antarctic Sea Ice Grows to Its 2026 Maximum</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/</link>
+      <description>
+        <![CDATA[The ice reached its third-lowest maximum extent since satellite observations began.]]>
+      </description>
+      <source:markdown>The ice reached its third-lowest maximum extent since satellite observations began.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/</guid>
+      <category>Aqua</category>
+      <category>Earth Observatory</category>
+      <category>Nimbus</category>
+      <category>Sea Ice</category>
+      <pubDate>Mon, 12 Oct 2026 04:00:00 +0000</pubDate>
+    </item>    <item>
       <title>APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos</title>
       <link>https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/</link>
       <description>
@@ -3644,16 +3667,6 @@ The post [How Virus-like ‘Jumping Genes’ Became Our Partners in Evolution](h
       <category>Ice &#38; Glaciers</category>
       <category>Sea Ice</category>
       <pubDate>Mon, 21 Sep 2026 04:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>APOD: 2026 September 20 – Analemma over the Callanish Stones</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/</link>
-      <description>
-        <![CDATA[APODScienceAPODAPOD: 2026 September 20 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Analemma over the Callanish Stones Explanation: If you went outside at the same time every day and [&#8230;]]]>
-      </description>
-      <source:markdown>APODScienceAPODAPOD: 2026 September 20 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Analemma over the Callanish Stones Explanation: If you went outside at the same time every day and \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/</guid>
-      <category>APOD</category>
-      <pubDate>Sun, 20 Sep 2026 04:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

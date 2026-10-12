@@ -4,10 +4,106 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>11 Oct 26 06:58 -0700</lastBuildDate>
+    <lastBuildDate>12 Oct 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Moby Dick; Or, The Whale by Herman Melville</title>
+      <link>https://www.gutenberg.org/ebooks/2701</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 12 Oct 2026 09:51:26 +0000</pubDate>
+    </item>    <item>
+      <title>Roget&#39;s Thesaurus by Peter Mark Roget</title>
+      <link>https://www.gutenberg.org/ebooks/22</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 12 Oct 2026 09:51:26 +0000</pubDate>
+    </item>    <item>
+      <title>Roget&#39;s Thesaurus of English Words and Phrases by Peter Mark Roget</title>
+      <link>https://www.gutenberg.org/ebooks/10681</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 12 Oct 2026 09:51:26 +0000</pubDate>
+    </item>    <item>
+      <title>An Etymological Dictionary of the Scottish Language by John Jamieson</title>
+      <link>https://www.gutenberg.org/ebooks/40521</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 12 Oct 2026 09:51:26 +0000</pubDate>
+    </item>    <item>
+      <title>Hero stories of France by Eva March Tappan</title>
+      <link>https://www.gutenberg.org/ebooks/79765</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 12 Oct 2026 09:51:26 +0000</pubDate>
+    </item>    <item>
+      <title>The Last Man by Mary Wollstonecraft Shelley</title>
+      <link>https://www.gutenberg.org/ebooks/18247</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 12 Oct 2026 09:51:26 +0000</pubDate>
+    </item>    <item>
+      <title>Le parement et triumphe des dames by Olivier de La Marche</title>
+      <link>https://www.gutenberg.org/ebooks/79762</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+      <pubDate>Mon, 12 Oct 2026 09:51:26 +0000</pubDate>
+    </item>    <item>
+      <title>Flower, Fruit, and Thorn Pieces; by Jean Paul</title>
+      <link>https://www.gutenberg.org/ebooks/36164</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 12 Oct 2026 09:51:26 +0000</pubDate>
+    </item>    <item>
+      <title>Dead end by Mack Reynolds</title>
+      <link>https://www.gutenberg.org/ebooks/79764</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 12 Oct 2026 09:51:26 +0000</pubDate>
+    </item>    <item>
+      <title>Geist der Utopie by Ernst Bloch</title>
+      <link>https://www.gutenberg.org/ebooks/79763</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+      <pubDate>Mon, 12 Oct 2026 09:51:26 +0000</pubDate>
+    </item>    <item>
+      <title>A narrative of the causes which led to Philip&#39;s Indian War, of 1675 and 1676 by John Easton</title>
+      <link>https://www.gutenberg.org/ebooks/79766</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Mon, 12 Oct 2026 09:51:26 +0000</pubDate>
+    </item>    <item>
+      <title>Deutsches Badewesen in vergangenen Tagen by Alfred Martin</title>
+      <link>https://www.gutenberg.org/ebooks/79761</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+      <pubDate>Mon, 12 Oct 2026 09:51:26 +0000</pubDate>
+    </item>    <item>
       <title>Sense and Sensibility by Jane Austen</title>
       <link>https://www.gutenberg.org/ebooks/21839</link>
       <description>
@@ -79,14 +175,6 @@
       </description>
       <source:markdown>Language: French</source:markdown>
       <pubDate>Sun, 11 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Moby Dick; Or, The Whale by Herman Melville</title>
-      <link>https://www.gutenberg.org/ebooks/2701</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sat, 10 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>Recording of Thomas Edison by Thomas A.  Edison</title>
       <link>https://www.gutenberg.org/ebooks/10137</link>
@@ -1839,38 +1927,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
       <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Our money and the state by Hartley Withers</title>
-      <link>https://www.gutenberg.org/ebooks/79609</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sun, 20 Sep 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>In case of fire by Walter Kellogg Towers</title>
-      <link>https://www.gutenberg.org/ebooks/79612</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sun, 20 Sep 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>Lord Lister No. 0352: De witte terreur by Theo von Blankensee and Felix  Hageman and Kurt Matull</title>
-      <link>https://www.gutenberg.org/ebooks/79611</link>
-      <description>
-        <![CDATA[Language: Dutch]]>
-      </description>
-      <source:markdown>Language: Dutch</source:markdown>
-      <pubDate>Sun, 20 Sep 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>History of Unity, Maine by James R. Taber</title>
-      <link>https://www.gutenberg.org/ebooks/79610</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sun, 20 Sep 2026 09:51:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
