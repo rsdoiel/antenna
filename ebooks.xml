@@ -4,10 +4,98 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>12 Oct 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>13 Oct 26 06:49 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Last Man by Mary Wollstonecraft Shelley</title>
+      <link>https://www.gutenberg.org/ebooks/18247</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 13 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>Flower, Fruit, and Thorn Pieces; by Jean Paul</title>
+      <link>https://www.gutenberg.org/ebooks/36164</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 13 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>Samhain, issue 2, October 1902 :</title>
+      <link>https://www.gutenberg.org/ebooks/79768</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 13 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>Samhain, issue 3, October 1903 :</title>
+      <link>https://www.gutenberg.org/ebooks/79770</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 13 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>Madame Bovary by Gustave Flaubert</title>
+      <link>https://www.gutenberg.org/ebooks/2413</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 13 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>Il socialismo by Napoleone Colajanni</title>
+      <link>https://www.gutenberg.org/ebooks/79769</link>
+      <description>
+        <![CDATA[Language: Italian]]>
+      </description>
+      <source:markdown>Language: Italian</source:markdown>
+      <pubDate>Tue, 13 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>The historical evolution of the Ukrainian problem by Michaelo Hrushevsky</title>
+      <link>https://www.gutenberg.org/ebooks/79773</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 13 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>Oliver Twist by Charles Dickens</title>
+      <link>https://www.gutenberg.org/ebooks/730</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 13 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>Jeff Clayton&#39;s surprise : by William C. Ward</title>
+      <link>https://www.gutenberg.org/ebooks/79772</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 13 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>A reluctant hero by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79767</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 13 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>Secret societies and the French revolution : by Una Pope-Hennessy</title>
+      <link>https://www.gutenberg.org/ebooks/79771</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 13 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
       <title>Moby Dick; Or, The Whale by Herman Melville</title>
       <link>https://www.gutenberg.org/ebooks/2701</link>
       <description>
@@ -48,28 +136,12 @@
       <source:markdown>Language: English</source:markdown>
       <pubDate>Mon, 12 Oct 2026 09:51:26 +0000</pubDate>
     </item>    <item>
-      <title>The Last Man by Mary Wollstonecraft Shelley</title>
-      <link>https://www.gutenberg.org/ebooks/18247</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 12 Oct 2026 09:51:26 +0000</pubDate>
-    </item>    <item>
       <title>Le parement et triumphe des dames by Olivier de La Marche</title>
       <link>https://www.gutenberg.org/ebooks/79762</link>
       <description>
         <![CDATA[Language: French]]>
       </description>
       <source:markdown>Language: French</source:markdown>
-      <pubDate>Mon, 12 Oct 2026 09:51:26 +0000</pubDate>
-    </item>    <item>
-      <title>Flower, Fruit, and Thorn Pieces; by Jean Paul</title>
-      <link>https://www.gutenberg.org/ebooks/36164</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
       <pubDate>Mon, 12 Oct 2026 09:51:26 +0000</pubDate>
     </item>    <item>
       <title>Dead end by Mack Reynolds</title>
@@ -1831,102 +1903,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
       <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>Woman in music by George P.  Upton</title>
-      <link>https://www.gutenberg.org/ebooks/79613</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Volume 01: Childhood by Giacomo Casanova</title>
-      <link>https://www.gutenberg.org/ebooks/2951</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Tama of the light country by Ray Cummings</title>
-      <link>https://www.gutenberg.org/ebooks/79620</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>The poetical works of Anna Seward, Vol. 1 [of 3] by Anna Seward</title>
-      <link>https://www.gutenberg.org/ebooks/79615</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>The poetical works of Anna Seward, Vol. 2 [of 3] by Anna Seward</title>
-      <link>https://www.gutenberg.org/ebooks/79616</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>The poetical works of Anna Seward, Vol. 3 [of 3] by Anna Seward</title>
-      <link>https://www.gutenberg.org/ebooks/79617</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Histoire maccaronique de Merlin Coccaie [pseudonym] : by Teofilo Folengo</title>
-      <link>https://www.gutenberg.org/ebooks/79618</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Grimms&#39; Fairy Tales by Jacob Grimm and Wilhelm Grimm</title>
-      <link>https://www.gutenberg.org/ebooks/2591</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Hanne Nüte en de kleine Poedel by Fritz Reuter</title>
-      <link>https://www.gutenberg.org/ebooks/79614</link>
-      <description>
-        <![CDATA[Language: Dutch]]>
-      </description>
-      <source:markdown>Language: Dutch</source:markdown>
-      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Paddenstoelen by Jac. P.  Thijsse</title>
-      <link>https://www.gutenberg.org/ebooks/79622</link>
-      <description>
-        <![CDATA[Language: Dutch]]>
-      </description>
-      <source:markdown>Language: Dutch</source:markdown>
-      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Historia geral da invasão dos francezes em Portugal e da restauração deste reino (Volume II)</title>
-      <link>https://www.gutenberg.org/ebooks/79619</link>
-      <description>
-        <![CDATA[Language: Portuguese]]>
-      </description>
-      <source:markdown>Language: Portuguese</source:markdown>
-      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>The sewing circle meets at Mrs. Martin&#39;s : by F. M. Kelly</title>
-      <link>https://www.gutenberg.org/ebooks/79621</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 21 Sep 2026 15:51:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

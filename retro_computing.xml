@@ -4,10 +4,43 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>12 Oct 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>13 Oct 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>openKylin 3.0 Released with Expanded AI Integration</title>
+      <link>http://www.linux-magazine.com/Online/News/openKylin-3.0-Released-with-Expanded-AI-Integration</link>
+      <description>
+        <![CDATA[<p>The latest release features a pre-installed AI agent to help perform tasks.</p>]]>
+      </description>
+      <source:markdown>The latest release features a pre-installed AI agent to help perform tasks.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://fd728d884169afc59eff6801831b0ea9</guid>
+      <pubDate>Mon, 12 Oct 2026 18:09:06 +0000</pubDate>
+    </item>    <item>
+      <title>DigitalOcean Ends Open Source Credits Program</title>
+      <link>http://www.linux-magazine.com/Online/News/DigitalOcean-Ends-Open-Source-Credits-Program</link>
+      <description>
+        <![CDATA[<p>In a change that has surprised many open source developers, DigitalOcean has decided to sunset its Open Source Credits Program.</p>]]>
+      </description>
+      <source:markdown>In a change that has surprised many open source developers, DigitalOcean has decided to sunset its Open Source Credits Program.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://e93f61737b4690b16a252727d8bda941</guid>
+      <pubDate>Mon, 12 Oct 2026 16:48:19 +0000</pubDate>
+    </item>    <item>
+      <title>ScummVM 2026.04.0 now available</title>
+      <link>https://www.riscository.com/2026/scummvm-2026-04-0/</link>
+      <description>
+        <![CDATA[Missing the actual date by a couple of days &#8211; which is almost an off-by-one-or-two error, the bane of any programmer&#8217;s life &#8211; the developers of ScummVM have released another new version of the software to almost coincide with the 25th anniversary of its first public commit (putting the latest change(s) to the code &#8211; or in this case the first actual code, I imagine, without looking to check &#8211; into the repository). ScummVM stands for Script creation utility for maniac mansion Virtual Machine &#8211; and it was originally developed&#8230;]]>
+      </description>
+      <source:markdown>Missing the actual date by a couple of days – which is almost an off-by-one-or-two error, the bane of any programmer’s life – the developers of ScummVM have released another new version of the software to almost coincide with the 25th anniversary of its first public commit (putting the latest change(s) to the code – or in this case the first actual code, I imagine, without looking to check – into the repository). ScummVM stands for Script creation utility for maniac mansion Virtual Machine – and it was originally developed…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11086</guid>
+      <category>Software</category>
+      <category>games</category>
+      <category>ScummVM</category>
+      <category>Virtual machine</category>
+      <pubDate>Mon, 12 Oct 2026 16:34:49 +0000</pubDate>
+    </item>    <item>
       <title>OSI Model 300 manual and brochure improved</title>
       <link>http://retro.hansotten.nl/osi-model-300-manual-and-brochure-improved/</link>
       <description>
@@ -2524,65 +2557,6 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       <category>6502</category>
       <category>kim-1</category>
       <pubDate>Tue, 22 Sep 2026 14:16:46 +0000</pubDate>
-    </item>    <item>
-      <title>AI &#38; Cybersecurity: Your AI Agent Is the Next Phishing Victim</title>
-      <link>https://paolozaino.wordpress.com/2026/09/21/ai-cybersecurity-your-ai-agent-is-the-next-phishing-victim/</link>
-      <description>
-        <![CDATA[In this article, we&#8217;ll explore a specific type of AI-based attack (and remediations) that can be executed using any LLMs capable of coding and used as agents, without the need for Anthropic Mythos or OpenAI Astra. Table of Contents This article is particularily extensive, given the specific type of attack it describes, so, instead of [&#8230;]]]>
-      </description>
-      <source:markdown>In this article, we’ll explore a specific type of AI-based attack (and remediations) that can be executed using any LLMs capable of coding and used as agents, without the need for Anthropic Mythos or OpenAI Astra. Table of Contents This article is particularily extensive, given the specific type of attack it describes, so, instead of \[…\]</source:markdown>
-      <guid>cid://http://paolozaino.wordpress.com/?p=10695</guid>
-      <category>Artificial Intelligence</category>
-      <category>CIRT / SIRT / SOC / Blue Team</category>
-      <category>Security</category>
-      <category>Agent</category>
-      <category>Agents</category>
-      <category>AI</category>
-      <category>artifact attestations</category>
-      <category>BitBucket</category>
-      <category>chatgpt</category>
-      <category>coding</category>
-      <category>computer</category>
-      <category>Computing</category>
-      <category>Cybersecurity</category>
-      <category>dependecy firewall</category>
-      <category>dependecy track</category>
-      <category>EDR</category>
-      <category>GenAI</category>
-      <category>github</category>
-      <category>GitLab</category>
-      <category>ISO</category>
-      <category>LLM</category>
-      <category>LLMs</category>
-      <category>NIST</category>
-      <category>OpenSSF</category>
-      <category>OWASP</category>
-      <category>Paolo Fabio Zaino</category>
-      <category>programming</category>
-      <category>SAST</category>
-      <category>SCA</category>
-      <category>Secure Software Development</category>
-      <category>SLSA</category>
-      <category>software</category>
-      <category>SPDX</category>
-      <category>technology</category>
-      <category>understanding LLMs</category>
-      <category>USENIX</category>
-      <category>vibe-coding</category>
-      <pubDate>Mon, 21 Sep 2026 21:23:16 +0000</pubDate>
-    </item>    <item>
-      <title>Web home for RISC OS conversions of Code the Classics v2 games</title>
-      <link>https://www.riscository.com/2026/code-the-classics-v2-risc-os-games-site/</link>
-      <description>
-        <![CDATA[With Avenger, the last of the Code the Classics volume 2 games converted to run on RISC OS, Jeroen Vermeulen has created a web-based home for them (as well as them being downloadable from )!Store &#8211; and, presumably, for any future projects he undertakes. The new website is on itch.io, a site that is itself dedicated to indie games, allowing developers to set up their own pages, and Jeroen&#8217;s page can be found at jvsgames.itch.io, from where the games can be downloaded for free. The downloads from the site (and&#8230;]]>
-      </description>
-      <source:markdown>With Avenger, the last of the Code the Classics volume 2 games converted to run on RISC OS, Jeroen Vermeulen has created a web-based home for them (as well as them being downloadable from )!Store – and, presumably, for any future projects he undertakes. The new website is on itch.io, a site that is itself dedicated to indie games, allowing developers to set up their own pages, and Jeroen’s page can be found at jvsgames.itch.io, from where the games can be downloaded for free. The downloads from the site (and…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=11041</guid>
-      <category>Websites</category>
-      <category>Code the Classics</category>
-      <category>games</category>
-      <category>itch.io</category>
-      <pubDate>Mon, 21 Sep 2026 18:37:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
