@@ -4,7 +4,7 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>13 Oct 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>14 Oct 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -2546,17 +2546,6 @@ Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette
       <source:markdown>It is no surprise to anyone that knows me, that I am no fan of LLMs and the hype that follows them; in fact, most of the people who know me have accurately assumed that I’m not particularly enthusiastic without the need to even ask. I’m asked _why_ I dislike them, but never seem to be asked _whether_ I dislike them. My answer changes all of the time; I flip between criticising their environmental impact, their effect on capital allocation, the extreme labour theft, determinism, etc and avoid talking about the technology itself because debating whether a machine can autonomously do X or Y seems unimportant when it costs $20 million and burns though tons of natural gas in the process; It’s like a debate about the morality of soviet gulags focusing mostly on whether the food was good or not.</source:markdown>
       <guid>cid:///posts/the-ai-coded-right-wing-pipeline/</guid>
       <pubDate>Wed, 23 Sep 2026 08:35:16 +0000</pubDate>
-    </item>    <item>
-      <title>Teach KIM to Sing</title>
-      <link>http://retro.hansotten.nl/teach-kim-to-sing/</link>
-      <description>
-        <![CDATA[A program to let the KIM-1 play music. Store notes and its pitch in memory and listen to it. Published in the Byte Book of Computer Music, 1979. Written by Peter H. Myers. Scanned article here. The listing is converted to MOS Technology standard assembler source. The resulting code compared to the publsihed code. Here [&#8230;]]]>
-      </description>
-      <source:markdown>A program to let the KIM-1 play music. Store notes and its pitch in memory and listen to it. Published in the Byte Book of Computer Music, 1979. Written by Peter H. Myers. Scanned article here. The listing is converted to MOS Technology standard assembler source. The resulting code compared to the publsihed code. Here \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=22200</guid>
-      <category>6502</category>
-      <category>kim-1</category>
-      <pubDate>Tue, 22 Sep 2026 14:16:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

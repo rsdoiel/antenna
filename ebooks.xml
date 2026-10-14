@@ -4,10 +4,98 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>13 Oct 26 06:49 -0700</lastBuildDate>
+    <lastBuildDate>14 Oct 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Madame Bovary by Gustave Flaubert</title>
+      <link>https://www.gutenberg.org/ebooks/2413</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 14 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>The historical evolution of the Ukrainian problem by Mykhaĭlo Hrushevsʹkyĭ</title>
+      <link>https://www.gutenberg.org/ebooks/79773</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 14 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>Radiotechnik : by Hanns Günther</title>
+      <link>https://www.gutenberg.org/ebooks/79778</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+      <pubDate>Wed, 14 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>The voiceless sentinels by Roger D. Aycock</title>
+      <link>https://www.gutenberg.org/ebooks/79780</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 14 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>Paradise Regained by John Milton</title>
+      <link>https://www.gutenberg.org/ebooks/58</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 14 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>Simple Sabotage Field Manual by United States. Office of Strategic Services</title>
+      <link>https://www.gutenberg.org/ebooks/26184</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 14 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>The flaw by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79774</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 14 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>The widowhood of Queen Victoria by Clare Jerrold</title>
+      <link>https://www.gutenberg.org/ebooks/79779</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 14 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>Picture logic : by Alfred James Swinburne</title>
+      <link>https://www.gutenberg.org/ebooks/79775</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 14 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>A saudade portuguesa : by Carolina Michaëlis de Vasconcellos</title>
+      <link>https://www.gutenberg.org/ebooks/79776</link>
+      <description>
+        <![CDATA[Language: Portuguese]]>
+      </description>
+      <source:markdown>Language: Portuguese</source:markdown>
+      <pubDate>Wed, 14 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
+      <title>The early history of Piccadilly, Leicester Square, Soho, &#38; their neighbourhood : by Kingsford</title>
+      <link>https://www.gutenberg.org/ebooks/79777</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 14 Oct 2026 09:51:22 +0000</pubDate>
+    </item>    <item>
       <title>The Last Man by Mary Wollstonecraft Shelley</title>
       <link>https://www.gutenberg.org/ebooks/18247</link>
       <description>
@@ -40,28 +128,12 @@
       <source:markdown>Language: English</source:markdown>
       <pubDate>Tue, 13 Oct 2026 09:51:22 +0000</pubDate>
     </item>    <item>
-      <title>Madame Bovary by Gustave Flaubert</title>
-      <link>https://www.gutenberg.org/ebooks/2413</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 13 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
       <title>Il socialismo by Napoleone Colajanni</title>
       <link>https://www.gutenberg.org/ebooks/79769</link>
       <description>
         <![CDATA[Language: Italian]]>
       </description>
       <source:markdown>Language: Italian</source:markdown>
-      <pubDate>Tue, 13 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>The historical evolution of the Ukrainian problem by Michaelo Hrushevsky</title>
-      <link>https://www.gutenberg.org/ebooks/79773</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
       <pubDate>Tue, 13 Oct 2026 09:51:22 +0000</pubDate>
     </item>    <item>
       <title>Oliver Twist by Charles Dickens</title>
@@ -1799,110 +1871,6 @@
       </description>
       <source:markdown>Language: French</source:markdown>
       <pubDate>Wed, 23 Sep 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>Notes from the Underground by Fyodor Dostoyevsky</title>
-      <link>https://www.gutenberg.org/ebooks/600</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>The Grand Inquisitor by Fyodor Dostoyevsky</title>
-      <link>https://www.gutenberg.org/ebooks/8578</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>Crime and Punishment by Fyodor Dostoyevsky</title>
-      <link>https://www.gutenberg.org/ebooks/2554</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>The possessed : by Fyodor Dostoyevsky</title>
-      <link>https://www.gutenberg.org/ebooks/8117</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>The Idiot by Fyodor Dostoyevsky</title>
-      <link>https://www.gutenberg.org/ebooks/2638</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>The Gambler by Fyodor Dostoyevsky</title>
-      <link>https://www.gutenberg.org/ebooks/2197</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>Poor Folk by Fyodor Dostoyevsky</title>
-      <link>https://www.gutenberg.org/ebooks/2302</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>Neptune speaks by Frank Richardson Pierce</title>
-      <link>https://www.gutenberg.org/ebooks/79623</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>The Murder of Delicia</title>
-      <link>https://www.gutenberg.org/ebooks/53097</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>Narrative of the surveying voyages of His Majesty&#39;s Ships Adventure and Beagle, Vol. 3 [of 3]</title>
-      <link>https://www.gutenberg.org/ebooks/79628</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>Poems by Elizabeth Bibesco</title>
-      <link>https://www.gutenberg.org/ebooks/79624</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>The confessions of a dancing girl by Anonymous</title>
-      <link>https://www.gutenberg.org/ebooks/79627</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>A social mirage by Mrs. Frank Leslie</title>
-      <link>https://www.gutenberg.org/ebooks/79626</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 22 Sep 2026 09:51:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
