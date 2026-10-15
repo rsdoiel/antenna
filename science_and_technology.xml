@@ -4,10 +4,290 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>14 Oct 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>15 Oct 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>How Do Fungi Keep the Planet Healthy?</title>
+      <link>https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/</link>
+      <description>
+        <![CDATA[Evolutionary biologist Toby Kiers explains how fungal networks in soil trade nutrients with plants, help keep carbon underground, and strike bargains without having a brain.            <p>The post <a href="https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/" target="_blank">How Do Fungi Keep the Planet Healthy?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Evolutionary biologist Toby Kiers explains how fungal networks in soil trade nutrients with plants, help keep carbon underground, and strike bargains without having a brain.
+
+The post [How Do Fungi Keep the Planet Healthy?](https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=167865</guid>
+      <category>Biology</category>
+      <pubDate>Thu, 15 Oct 2026 13:40:13 +0000</pubDate>
+    </item>    <item>
+      <title>Costa: a modern, maintained graphical shell for DOS</title>
+      <link>https://www.osnews.com/story/146160/costa-a-modern-maintained-graphical-shell-for-dos/</link>
+      <description>
+        <![CDATA[Graphical user interfaces for DOS were a dime-a-dozen back in the &#8217;90s, but of course faded into irrelevance as time went on. But what if you still run DOS today, and want a maintained graphical shell instead of the rather limited DOS command line? Costa is a small and lightweight application which runs on top of MS-DOS or compatible operating systems. It replaces the DOS-prompt with a clean, user-friendly interface &#8211; a so-called GUI (Graphical User Interface). Costa comes packed with a bunch of useful accessories and can be used with or without a mouse. Developed by Jacob Palm, a Danish IT-professional and hobby developer, the first release of Costa came way back in 2004. Over the years &#8211; and through several releases &#8211; Costa has gradually evolved into what it is today, with new releases still coming out regularly as of 2025. ↫ Costa website Costa comes bundled with a number of useful utilities, a few games, and useful features like a desktop with custom icons, virtual desktop support, a file selector, and much more. The latest release, version 1.8.0, was released in late 2024, and should run on just about any IBM PC-compatible, but a 386 is recommended. It&#8217;s been tested with a variety of DOS flavours, including FreeDOS ad DOSBox, so it should run pretty much anywhere.]]>
+      </description>
+      <source:markdown>Graphical user interfaces for DOS were a dime-a-dozen back in the ’90s, but of course faded into irrelevance as time went on. But what if you still run DOS today, and want a maintained graphical shell instead of the rather limited DOS command line? Costa is a small and lightweight application which runs on top of MS-DOS or compatible operating systems. It replaces the DOS-prompt with a clean, user-friendly interface – a so-called GUI (Graphical User Interface). Costa comes packed with a bunch of useful accessories and can be used with or without a mouse. Developed by Jacob Palm, a Danish IT-professional and hobby developer, the first release of Costa came way back in 2004. Over the years – and through several releases – Costa has gradually evolved into what it is today, with new releases still coming out regularly as of 2025. ↫ Costa website Costa comes bundled with a number of useful utilities, a few games, and useful features like a desktop with custom icons, virtual desktop support, a file selector, and much more. The latest release, version 1.8.0, was released in late 2024, and should run on just about any IBM PC-compatible, but a 386 is recommended. It’s been tested with a variety of DOS flavours, including FreeDOS ad DOSBox, so it should run pretty much anywhere.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146160</guid>
+      <category>OS News</category>
+      <pubDate>Thu, 15 Oct 2026 13:20:19 +0000</pubDate>
+    </item>    <item>
+      <title>Ubuntu 26.10 released</title>
+      <link>https://www.osnews.com/story/146158/ubuntu-26-10-released/</link>
+      <description>
+        <![CDATA[Ubuntu 26.10 has landed. Ubuntu 26.10 brings significant progress for security, and strengthens the platform with the full adoption of Rust-based coreutils, post-quantum-ready package signing, and expanded TPM-backed full-disk encryption support. Enterprise authentication gains deeper integration with Microsoft Entra ID, including password and multi-factor authentication. Linux kernel 7.3 extends support for the latest hardware, alongside new RISC-V desktop images and optimized amd64v3 installation images. ↫ Ubuntu 26.10 release announcement Of course, it comes with the latest version of GNOME, and the whole family of Ubuntu variants focusing on other desktops have also been updated. While I doubt many people here run Ubuntu, it&#8217;s still quite popular, and serves as the base for countless other distributions.]]>
+      </description>
+      <source:markdown>Ubuntu 26.10 has landed. Ubuntu 26.10 brings significant progress for security, and strengthens the platform with the full adoption of Rust-based coreutils, post-quantum-ready package signing, and expanded TPM-backed full-disk encryption support. Enterprise authentication gains deeper integration with Microsoft Entra ID, including password and multi-factor authentication. Linux kernel 7.3 extends support for the latest hardware, alongside new RISC-V desktop images and optimized amd64v3 installation images. ↫ Ubuntu 26.10 release announcement Of course, it comes with the latest version of GNOME, and the whole family of Ubuntu variants focusing on other desktops have also been updated. While I doubt many people here run Ubuntu, it’s still quite popular, and serves as the base for countless other distributions.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146158</guid>
+      <category>Ubuntu</category>
+      <pubDate>Thu, 15 Oct 2026 13:11:56 +0000</pubDate>
+    </item>    <item>
+      <title>Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/</link>
+      <description>
+        <![CDATA[Dial in the next gaming session this GFN Thursday. New NVIDIA DLSS 4.5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware. Then, step into the Shroud as Keen Games’ Enshrouded leaves early access with its 1.0 release, or let the bolts [&#8230;]]]>
+      </description>
+      <source:markdown>Dial in the next gaming session this GFN Thursday. New NVIDIA DLSS 4.5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware. Then, step into the Shroud as Keen Games’ Enshrouded leaves early access with its 1.0 release, or let the bolts \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=98870</guid>
+      <category>Gaming</category>
+      <category>Cloud Gaming</category>
+      <category>GeForce NOW</category>
+      <pubDate>Thu, 15 Oct 2026 13:00:59 +0000</pubDate>
+    </item>    <item>
+      <title>Construction Work on the North Dakota Governor&#39;s Residence Accidentally Unearthed Seven Coffins Dating Back to the State&#39;s Early Settlement</title>
+      <link>https://www.smithsonianmag.com/smart-news/construction-work-on-the-north-dakota-governors-residence-accidentally-unearthed-seven-coffins-dating-back-to-the-states-early-settlement-180989686/</link>
+      <description>
+        <![CDATA[The cemetery site was established in 1872, when the state capital Bismarck was a small frontier community called Edwinton. Most, but not all, of its gravesites were exhumed five years later to make way for a railroad]]>
+      </description>
+      <source:markdown>The cemetery site was established in 1872, when the state capital Bismarck was a small frontier community called Edwinton. Most, but not all, of its gravesites were exhumed five years later to make way for a railroad</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/XlwDLYNEdvQKjxqYGymjdyDFSjs=/420x240/filters:focal(1489x851:1490x852)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/80/08/8008f28e-0f79-412b-b961-4a73bf7580f1/north_dakota_governors_residence.jpg" length="935470" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/construction-work-on-the-north-dakota-governors-residence-accidentally-unearthed-seven-coffins-dating-back-to-the-states-early-settlement-180989686/</guid>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute</title>
+      <link>https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/</link>
+      <description>
+        <![CDATA[Much of today’s scientific progress begins with computation.  But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or science-based startups, the hardest part of research can be everything that comes before the science: [&#8230;]]]>
+      </description>
+      <source:markdown>Much of today’s scientific progress begins with computation.  But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or science-based startups, the hardest part of research can be everything that comes before the science: \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=98912</guid>
+      <category>AI</category>
+      <category>AI Factory</category>
+      <category>Artificial Intelligence</category>
+      <category>Climate</category>
+      <category>Deep Learning Institute</category>
+      <category>Events</category>
+      <category>High-Performance Computing</category>
+      <category>Inception</category>
+      <category>NVIDIA in Europe</category>
+      <category>Open Source</category>
+      <category>Science</category>
+      <category>Sovereign AI</category>
+      <category>Supercomputing</category>
+      <pubDate>Thu, 15 Oct 2026 10:00:12 +0000</pubDate>
+    </item>    <item>
+      <title>What&#39;s at stake if we can&#39;t regrow our forests</title>
+      <link>https://www.npr.org/2026/10/15/nx-s1-5983821/reforestation-seed-bombing-drones-trees</link>
+      <description>
+        <![CDATA[In 2022, parachutist Luigi Cani dropped 100 million seeds over the Amazon rainforest while skydiving. He did it to raise awareness about deforestation and help regrow the forest. But there has been little scientific follow up to see whether it worked. So, today, we talk to restoration ecologist Pedro Brancalion about the surprising complexity involved in regrowing a forest, and when dropping seeds from the sky – by people or by drones – could work.<br/><br/><strong>If you liked this episode, check out our others on </strong><a href="http://lnk.to/PaZ3Mw"target="_blank"   ><strong>building microforests in cities</strong></a><strong> and scientists’ creative idea to </strong><a href="http://lnk.to/eatdH8"target="_blank"   ><strong>save a keystone tree species</strong></a><strong> that grows </strong><em>very </em><strong>slowly.</strong><br/><br/><em>Interested in more tree science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>In 2022, parachutist Luigi Cani dropped 100 million seeds over the Amazon rainforest while skydiving. He did it to raise awareness about deforestation and help regrow the forest. But there has been little scientific follow up to see whether it worked. So, today, we talk to restoration ecologist Pedro Brancalion about the surprising complexity involved in regrowing a forest, and when dropping seeds from the sky – by people or by drones – could work.
+
+**If you liked this episode, check out our others on** [**building microforests in cities**](http://lnk.to/PaZ3Mw) **and scientists’ creative idea to** [**save a keystone tree species**](http://lnk.to/eatdH8) **that grows** _very_ **slowly.**
+
+_Interested in more tree science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/336a9530-e802-4e39-a713-f6181cd4d6a0/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=336a9530-e802-4e39-a713-f6181cd4d6a0&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-5983821&#38;p=510351&#38;d=815&#38;size=13048355" length="13048355" type="audio/mpeg" />
+      <guid>cid://b5f3f8f7-7848-423e-a853-1830e3625ffa</guid>
+      <pubDate>Thu, 15 Oct 2026 07:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing</title>
+      <link>https://blogs.nvidia.com/blog/nordics-technology-ecosystem/</link>
+      <description>
+        <![CDATA[The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries race to build one of Europe’s most consequential technology ecosystems. The many computing advancements already underway [&#8230;]]]>
+      </description>
+      <source:markdown>The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries race to build one of Europe’s most consequential technology ecosystems. The many computing advancements already underway \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=98901</guid>
+      <category>AI</category>
+      <category>AI Factory</category>
+      <category>Artificial Intelligence</category>
+      <category>Customer Stories</category>
+      <category>Events</category>
+      <category>Inception</category>
+      <category>NVIDIA in Europe</category>
+      <category>Open Source</category>
+      <category>Physical AI</category>
+      <category>Quantum Computing</category>
+      <category>Robotics</category>
+      <category>Sovereign AI</category>
+      <pubDate>Thu, 15 Oct 2026 05:00:12 +0000</pubDate>
+    </item>    <item>
+      <title>APOD: 2026 October 15 – The Milky Way over Manhattan</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 October 15 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Milky [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 October 15 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Milky \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/</guid>
+      <category>APOD</category>
+      <pubDate>Thu, 15 Oct 2026 04:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>Fires Arrive in the Amazon Rainforest</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/</link>
+      <description>
+        <![CDATA[During El Niño, a cascade of fires across the tropics begins in equatorial Asia and continues in the central and eastern Amazon.]]>
+      </description>
+      <source:markdown>During El Niño, a cascade of fires across the tropics begins in equatorial Asia and continues in the central and eastern Amazon.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/</guid>
+      <category>Aqua</category>
+      <category>Earth Observatory</category>
+      <category>Moderate Resolution Imaging Spectroradiometer (MODIS)</category>
+      <category>Wildfires</category>
+      <pubDate>Thu, 15 Oct 2026 04:01:00 +0000</pubDate>
+    </item>    <item>
+      <title>See the Stunning Winners of the Wildlife Photographer of the Year Contest, Capturing the Splendor and Drama of Nature</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-the-stunning-winners-of-the-wildlife-photographer-of-the-year-contest-capturing-the-splendor-and-drama-of-nature-180989681/</link>
+      <description>
+        <![CDATA[These 19 recognized images highlight the diversity across our planet and the value in appreciating and protecting the natural world]]>
+      </description>
+      <source:markdown>These 19 recognized images highlight the diversity across our planet and the value in appreciating and protecting the natural world</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/9c3P4-2RP315TlYiMJAN0T420GY=/420x240/filters:focal(1280x853:1281x854)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/04/a8/04a840a6-41bd-4f53-86c5-87ea8402f208/loren_elliott.jpg" length="3416413" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-stunning-winners-of-the-wildlife-photographer-of-the-year-contest-capturing-the-splendor-and-drama-of-nature-180989681/</guid>
+      <pubDate>Wed, 14 Oct 2026 20:50:00 +0000</pubDate>
+    </item>    <item>
+      <title>NASA to Host News Conference Previewing US Spacewalks 100, 101</title>
+      <link>https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/</link>
+      <description>
+        <![CDATA[NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m. EDT, Tuesday, Oct. 20, from NASA’s Johnson Space Center in Houston. NASA will stream the event through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live NASA participants [&#8230;]]]>
+      </description>
+      <source:markdown>NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m. EDT, Tuesday, Oct. 20, from NASA’s Johnson Space Center in Houston. NASA will stream the event through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live NASA participants \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1056475</guid>
+      <category>Humans in Space</category>
+      <category>Human Spaceflight Mission Directorate</category>
+      <category>International Space Station (ISS)</category>
+      <category>Johnson Space Center</category>
+      <pubDate>Wed, 14 Oct 2026 20:13:29 +0000</pubDate>
+    </item>    <item>
+      <title>A New Contender for the World&#39;s Oldest Shipwreck Has Been Discovered Off the Coast of Turkey. Its Ancient Cargo Is a &#39;Time Capsule&#39; From 4,700 Years Ago</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-new-contender-for-the-worlds-oldest-shipwreck-has-been-discovered-off-the-coast-of-turkey-its-ancient-cargo-is-a-time-capsule-from-4700-years-ago-180989682/</link>
+      <description>
+        <![CDATA[The ship was likely transporting huge jars of olive oil or wine across the Mediterranean when it sank to the seafloor. One archaeologist "could not believe how much" residue remained inside]]>
+      </description>
+      <source:markdown>The ship was likely transporting huge jars of olive oil or wine across the Mediterranean when it sank to the seafloor. One archaeologist &#34;could not believe how much&#34; residue remained inside</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Oet27LBpL_QtKcAjzkk8A5VZXvY=/420x240/filters:focal(675x450:676x451)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/87/a5/87a5bfac-08d0-4f12-906c-80d91e88be26/gettyimages-2299583059.jpeg" length="752403" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-new-contender-for-the-worlds-oldest-shipwreck-has-been-discovered-off-the-coast-of-turkey-its-ancient-cargo-is-a-time-capsule-from-4700-years-ago-180989682/</guid>
+      <pubDate>Wed, 14 Oct 2026 19:20:10 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Astronauts to Answer Questions from Florida Students</title>
+      <link>https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/</link>
+      <description>
+        <![CDATA[Editor&#8217;s Note: This article was updated Thursday, Oct. 15, 2026, to reflect a change to the event start time. Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the&#160;International Space Station. The Earth-to-space call will begin at 12:30 p.m. EDT Friday, Oct. 16, [&#8230;]]]>
+      </description>
+      <source:markdown>Editor’s Note: This article was updated Thursday, Oct. 15, 2026, to reflect a change to the event start time. Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 12:30 p.m. EDT Friday, Oct. 16, \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1056421</guid>
+      <category>Learning Resources</category>
+      <category>Humans in Space</category>
+      <category>In-flight Education Downlinks</category>
+      <category>International Space Station (ISS)</category>
+      <pubDate>Wed, 14 Oct 2026 19:12:51 +0000</pubDate>
+    </item>    <item>
+      <title>This Vincent van Gogh Painting Has Not Been Seen in Public for Over 60 Years. It Is Now Poised to Set a Record at an Upcoming Auction</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-vincent-van-gogh-painting-has-not-been-seen-in-public-for-over-60-years-it-is-now-poised-to-set-a-record-at-an-upcoming-auction-180989680/</link>
+      <description>
+        <![CDATA[The Dutch Post-Impressionist painted "Chestnut Trees in Blossom" during the highly productive yet tragic final months of his life. It is heading to auction as part of a "legendary" private collection which also includes works from Cézanne and Renoir]]>
+      </description>
+      <source:markdown>The Dutch Post-Impressionist painted &#34;Chestnut Trees in Blossom&#34; during the highly productive yet tragic final months of his life. It is heading to auction as part of a &#34;legendary&#34; private collection which also includes works from Cézanne and Renoir</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/uho5pqnseXSZzW9vQY7U2jDipsg=/420x240/filters:focal(3603x2436:3604x2437)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/34/67/346750f7-2477-4d69-af5b-898cc7c2d3d6/van_gogh_chataigniers_en_fleurs_on_view_at_sothebys_maison_in_hong_kong.jpg" length="4744808" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-vincent-van-gogh-painting-has-not-been-seen-in-public-for-over-60-years-it-is-now-poised-to-set-a-record-at-an-upcoming-auction-180989680/</guid>
+      <pubDate>Wed, 14 Oct 2026 17:28:54 +0000</pubDate>
+    </item>    <item>
+      <title>NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision</title>
+      <link>https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/</link>
+      <description>
+        <![CDATA[Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol. The researchers discovered the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision […]]]>
+      </description>
+      <source:markdown>Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol. The researchers discovered the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/</guid>
+      <category>Black Holes</category>
+      <category>Chandra X-Ray Observatory</category>
+      <category>Marshall Astrophysics</category>
+      <category>Marshall Science Research &#38; Projects</category>
+      <category>Marshall Space Flight Center</category>
+      <category>Supermassive Black Holes</category>
+      <category>The Universe</category>
+      <pubDate>Wed, 14 Oct 2026 16:46:58 +0000</pubDate>
+    </item>    <item>
+      <title>NASA’s Space X CRS-35 Launch Jellyfish</title>
+      <link>https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/</link>
+      <description>
+        <![CDATA[Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft on Oct. 13, 2026. This visual phenomenon is known as a &#8220;jellyfish&#8221;; it happens near sunrise or sunset when the exhaust plume from the rocket becomes brightly illuminated, creating a glowing shape resembling a jellyfish. The mission lifted off [&#8230;]]]>
+      </description>
+      <source:markdown>Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft on Oct. 13, 2026. This visual phenomenon is known as a “jellyfish”; it happens near sunrise or sunset when the exhaust plume from the rocket becomes brightly illuminated, creating a glowing shape resembling a jellyfish. The mission lifted off \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1056002</guid>
+      <pubDate>Wed, 14 Oct 2026 15:18:38 +0000</pubDate>
+    </item>    <item>
+      <title>KDE Plasma 6.8 released</title>
+      <link>https://www.osnews.com/story/146152/kde-plasma-6-8-released/</link>
+      <description>
+        <![CDATA[KDE turns 30 today, and they&#8217;re celebrating it with a brand new KDE Plasma release: version 6.8 is here. On the accessibility front, 6.8 brings a new dwell clicker function (meaning a click will register if the pointer is held still for a short while) and support for the Bikram Sambat calendar and the Amharic language. I always love it when I see support for new languages and scripts, especially when, as is the case here, it&#8217;s a language spoken as a first language by 25 million people. The Plasma remote desktop has also been improved with bi-directional copy/paste, performance and quality improvements, and more, and you can now record microphone and audio while screen recording with Spectacle. In System Monitor, you can now assign processes and tasks to specific processors/cores, which is a great feature for people running intensive tasks but who would still like to, you know, do other things while those tasks are running. KDE 6.8 drops support for X11, focusing entirely on Wayland. Of course, X11 applications will remain usable thanks to Xwayland, and KDE&#8217;s applications will continue to support X11 in case you&#8217;re using them outside of KDE. This release also further expands the Union theming system, now adding support for styling Qt Widgets. Union is still in beta, so you&#8217;ll have to enable it to test it. There&#8217;s a ton more, too, but these are some of the highlights. KDE Plasma 6.8 will find its way to your distribution of choice soon enough.]]>
+      </description>
+      <source:markdown>KDE turns 30 today, and they’re celebrating it with a brand new KDE Plasma release: version 6.8 is here. On the accessibility front, 6.8 brings a new dwell clicker function (meaning a click will register if the pointer is held still for a short while) and support for the Bikram Sambat calendar and the Amharic language. I always love it when I see support for new languages and scripts, especially when, as is the case here, it’s a language spoken as a first language by 25 million people. The Plasma remote desktop has also been improved with bi-directional copy/paste, performance and quality improvements, and more, and you can now record microphone and audio while screen recording with Spectacle. In System Monitor, you can now assign processes and tasks to specific processors/cores, which is a great feature for people running intensive tasks but who would still like to, you know, do other things while those tasks are running. KDE 6.8 drops support for X11, focusing entirely on Wayland. Of course, X11 applications will remain usable thanks to Xwayland, and KDE’s applications will continue to support X11 in case you’re using them outside of KDE. This release also further expands the Union theming system, now adding support for styling Qt Widgets. Union is still in beta, so you’ll have to enable it to test it. There’s a ton more, too, but these are some of the highlights. KDE Plasma 6.8 will find its way to your distribution of choice soon enough.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146152</guid>
+      <category>KDE</category>
+      <pubDate>Wed, 14 Oct 2026 15:03:47 +0000</pubDate>
+    </item>    <item>
+      <title>Haiku’s latest activity report contains a ton of smaller fixes and improvements</title>
+      <link>https://www.osnews.com/story/146150/haikus-latest-activity-report-contains-a-ton-of-smaller-fixes-and-improvements/</link>
+      <description>
+        <![CDATA[You know the drill by now &#8211; a new month, a new Haiku activity report. This past month doesn&#8217;t seem to have any big ticket items, but instead contains a long list of smaller but still welcome fixes. Various filesystem drivers saw some work, a few bugs in virtio drivers were fixed, and NVMM execution is now easily interruptible by signals which should improve performance in various emulators like QEMU. Be sure to comb through the complete list to see if there&#8217;s anything in there that impacts you.]]>
+      </description>
+      <source:markdown>You know the drill by now – a new month, a new Haiku activity report. This past month doesn’t seem to have any big ticket items, but instead contains a long list of smaller but still welcome fixes. Various filesystem drivers saw some work, a few bugs in virtio drivers were fixed, and NVMM execution is now easily interruptible by signals which should improve performance in various emulators like QEMU. Be sure to comb through the complete list to see if there’s anything in there that impacts you.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146150</guid>
+      <category>Haiku</category>
+      <pubDate>Wed, 14 Oct 2026 14:53:04 +0000</pubDate>
+    </item>    <item>
+      <title>ESA targets Anbernic emulation handhelds as “superfake” piracy enablers</title>
+      <link>https://www.osnews.com/story/146148/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/</link>
+      <description>
+        <![CDATA[The ESA &#8211; not, not the cool one &#8211; a lobby group made up of various videogame and entertainment companies, has asked the US Trade Representative (USTR) to add Anbernic to its list of companies that are supposedly notorious for engaging in and facilitating piracy. If you&#8217;re unaware, Anbernic is one of the bigger names in Android and Linux-based handheld gaming devices targeted at the retrocomputing market. While many online sellers do include an SD card full of ROMs alongside emulation hardware of all types, Anbernic itself does not appear to do the same when selling directly from its website. Regardless, the ESA argues that these ROM-laden Anbernic devices selling through “normal retail channels” help to “normalize hardware-based piracy by delivering illicit catalogues through a polished consumer product.” This, the ESA says, meets the threshold for a “superfake,” an ill-defined designation that applies to “high-quality counterfeit trademark goods … on a commercial scale.” ↫ Kyle Orland at Ars Technica There&#8217;s a lot of murkiness surrounding whether or not Anbernic sells their devices with preloaded ROMs or not. The number of reports from people who say they did get a ton of ROMs on their Anbernic devices, bought from Anbernic&#8217;s own store, is large enough that it&#8217;s clearly something they do. However, there&#8217;s an equal number of people who say their Anbernic devices were completely free of ROMs, and I&#8217;m one of them &#8211; I&#8217;ve bought like three or so devices from their store over the years, and they never came with any ROMs. My most recent purchase was an RG 35XXPro Linux-based model, and there were no ROMs on it (I replaced the stock operating system with Knulli, which has been a great experience). If Anbernic does indeed ship at least some of their devices with ROMs preinstalled, then it&#8217;s their own damn fault if that lands them in legal trouble. It&#8217;s not like downloading ROMs is particularly difficult (just do an internet search for your preferred system and something like &#8220;ROM pack&#8221; and you&#8217;ll get the console&#8217;s complete library in a single download), so they really have no need to do so. There&#8217;s one extra layer here though. Third-party resellers like Amazon offer loads of Anbernic devices preloaded with SD cards full of ROMs, all from third parties not affiliated with Anbernic. And wouldn&#8217;t you know it &#8211; Amazon is a member of the ESA lobby group. In other words, the problem also lies with lax retailers not properly vetting what they&#8217;re offering, but instead of going after places like Amazon, they&#8217;re going after Anbernic instead. Amazon is a haven for illegal and counterfeit products, but they&#8217;re so wealthy and powerful they just get away with it.]]>
+      </description>
+      <source:markdown>The ESA – not, not the cool one – a lobby group made up of various videogame and entertainment companies, has asked the US Trade Representative (USTR) to add Anbernic to its list of companies that are supposedly notorious for engaging in and facilitating piracy. If you’re unaware, Anbernic is one of the bigger names in Android and Linux-based handheld gaming devices targeted at the retrocomputing market. While many online sellers do include an SD card full of ROMs alongside emulation hardware of all types, Anbernic itself does not appear to do the same when selling directly from its website. Regardless, the ESA argues that these ROM-laden Anbernic devices selling through “normal retail channels” help to “normalize hardware-based piracy by delivering illicit catalogues through a polished consumer product.” This, the ESA says, meets the threshold for a “superfake,” an ill-defined designation that applies to “high-quality counterfeit trademark goods … on a commercial scale.” ↫ Kyle Orland at Ars Technica There’s a lot of murkiness surrounding whether or not Anbernic sells their devices with preloaded ROMs or not. The number of reports from people who say they did get a ton of ROMs on their Anbernic devices, bought from Anbernic’s own store, is large enough that it’s clearly something they do. However, there’s an equal number of people who say their Anbernic devices were completely free of ROMs, and I’m one of them – I’ve bought like three or so devices from their store over the years, and they never came with any ROMs. My most recent purchase was an RG 35XXPro Linux-based model, and there were no ROMs on it (I replaced the stock operating system with Knulli, which has been a great experience). If Anbernic does indeed ship at least some of their devices with ROMs preinstalled, then it’s their own damn fault if that lands them in legal trouble. It’s not like downloading ROMs is particularly difficult (just do an internet search for your preferred system and something like “ROM pack” and you’ll get the console’s complete library in a single download), so they really have no need to do so. There’s one extra layer here though. Third-party resellers like Amazon offer loads of Anbernic devices preloaded with SD cards full of ROMs, all from third parties not affiliated with Anbernic. And wouldn’t you know it – Amazon is a member of the ESA lobby group. In other words, the problem also lies with lax retailers not properly vetting what they’re offering, but instead of going after places like Amazon, they’re going after Anbernic instead. Amazon is a haven for illegal and counterfeit products, but they’re so wealthy and powerful they just get away with it.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146148</guid>
+      <category>Legal</category>
+      <pubDate>Wed, 14 Oct 2026 14:43:39 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Develops Batteries to Power Humanity’s Return to Moon</title>
+      <link>https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/</link>
+      <description>
+        <![CDATA[If you’ve ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That’s why NASA researchers are working to develop a battery that could function in the brutal cold of the Moon’s South Pole, where nighttime temperatures plunge to minus [&#8230;]]]>
+      </description>
+      <source:markdown>If you’ve ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That’s why NASA researchers are working to develop a battery that could function in the brutal cold of the Moon’s South Pole, where nighttime temperatures plunge to minus \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1056228</guid>
+      <category>Langley Research Center</category>
+      <category>Game Changing Development Program</category>
+      <category>Glenn Research Center</category>
+      <category>Research and Technology Mission Directorate</category>
+      <category>Space Technology Mission Directorate</category>
+      <category>Technology</category>
+      <category>Technology for Living in Space</category>
+      <category>Technology Research</category>
+      <pubDate>Wed, 14 Oct 2026 14:41:21 +0000</pubDate>
+    </item>    <item>
+      <title>Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t</title>
+      <link>https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/</link>
+      <description>
+        <![CDATA[A collision may have left these galaxies without dark matter. That spells trouble for alternative gravity theories.            <p>The post <a href="https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/" target="_blank">Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>A collision may have left these galaxies without dark matter. That spells trouble for alternative gravity theories.
+
+The post [Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t](https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=167839</guid>
+      <category>Physics</category>
+      <pubDate>Wed, 14 Oct 2026 14:04:05 +0000</pubDate>
+    </item>    <item>
       <title>NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions</title>
       <link>https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/</link>
       <description>
@@ -57,12 +337,12 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <guid>cid://683e5330-7dac-4e3d-a764-25e5636551f0</guid>
       <pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
     </item>    <item>
-      <title>From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA</title>
+      <title>NVIDIA Announces New Investments in the UK Startup Ecosystem</title>
       <link>https://blogs.nvidia.com/blog/uk-ecosystem-deployment/</link>
       <description>
-        <![CDATA[Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250 million compute commitment to strengthen the U.K.’s agentic safety [&#8230;]]]>
+        <![CDATA[Across industries, the U.K. is putting the full stack to work. The scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250 million compute commitment to strengthen the U.K.’s agentic safety and security [&#8230;]]]>
       </description>
-      <source:markdown>Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250 million compute commitment to strengthen the U.K.’s agentic safety \[…\]</source:markdown>
+      <source:markdown>Across industries, the U.K. is putting the full stack to work. The scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250 million compute commitment to strengthen the U.K.’s agentic safety and security \[…\]</source:markdown>
       <guid>cid://https://blogs.nvidia.com/?p=98835</guid>
       <category>AI</category>
       <category>AI Infrastructure</category>
@@ -3363,301 +3643,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <category>Earth Observatory</category>
       <category>Moderate Resolution Imaging Spectroradiometer (MODIS)</category>
       <pubDate>Thu, 24 Sep 2026 04:01:00 +0000</pubDate>
-    </item>    <item>
-      <title>The state of scrollbars in Windows makes even longtime Microsoft engineers sad</title>
-      <link>https://www.osnews.com/story/146018/the-state-of-scrollbars-in-windows-makes-even-longtime-microsoft-engineers-sad/</link>
-      <description>
-        <![CDATA[Raymond Chen, longtime Microsoft employee and author of the very popular The Old New Thing blog, published an interesting post about the Win32 scrollbar. It turns out there&#8217;s actually quite a few interesting shortcuts and useful hidden features, like clicking inside a scrollbar while holding down shift will make the content jump to that point. Halfway through the article, though, Chen laments how nobody really uses proper Win32 scrollbars anymore. Sadly, almost nobody uses Win32 scroll bars any more. Everybody uses frameworks that provide their own custom scroll bars. ↫ Raymond Chen And as you might expect, none of these scrollbars work like the Win32 one, making even something as basic as the scrollbar a fragmented mess. He doesn&#8217;t just blame things like Electron, either, as Microsoft&#8217;s own WinUI framework, which is used for most &#8220;new&#8221; Windows UI developed by Microsoft for Windows 11, also uses custom scrollbars that do not work like the Win32 one does. Great, so by the time I learn about a shortcut for scroll bars (Shift+click), the ecosystem has fragmented so much that I can’t even rely on it working. ↫ Raymond Chen Modern computing is depressing.]]>
-      </description>
-      <source:markdown>Raymond Chen, longtime Microsoft employee and author of the very popular The Old New Thing blog, published an interesting post about the Win32 scrollbar. It turns out there’s actually quite a few interesting shortcuts and useful hidden features, like clicking inside a scrollbar while holding down shift will make the content jump to that point. Halfway through the article, though, Chen laments how nobody really uses proper Win32 scrollbars anymore. Sadly, almost nobody uses Win32 scroll bars any more. Everybody uses frameworks that provide their own custom scroll bars. ↫ Raymond Chen And as you might expect, none of these scrollbars work like the Win32 one, making even something as basic as the scrollbar a fragmented mess. He doesn’t just blame things like Electron, either, as Microsoft’s own WinUI framework, which is used for most “new” Windows UI developed by Microsoft for Windows 11, also uses custom scrollbars that do not work like the Win32 one does. Great, so by the time I learn about a shortcut for scroll bars (Shift+click), the ecosystem has fragmented so much that I can’t even rely on it working. ↫ Raymond Chen Modern computing is depressing.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=146018</guid>
-      <category>Windows</category>
-      <pubDate>Wed, 23 Sep 2026 22:40:22 +0000</pubDate>
-    </item>    <item>
-      <title>Thunderbird Monthly Development Digest: September 2026</title>
-      <link>https://blog.thunderbird.net/2026/09/thunderbird-monthly-development-digest-september-2026/</link>
-      <description>
-        <![CDATA[<p>Greetings once more from the Thunderbird development team! As the Northern hemisphere summer comes to an end and a slew of PTO, company holidays and projects have wrapped up, what better time to share progress and next steps on the work the Thunderbird Desktop Engineering team has on their plates!? Exchange support moving well The [&#8230;]</p>
-        <p>The post <a href="https://blog.thunderbird.net/2026/09/thunderbird-monthly-development-digest-september-2026/">Thunderbird Monthly Development Digest: September 2026</a> appeared first on <a href="https://blog.thunderbird.net">The Thunderbird Blog</a>.</p>]]>
-      </description>
-      <source:markdown>Greetings once more from the Thunderbird development team! As the Northern hemisphere summer comes to an end and a slew of PTO, company holidays and projects have wrapped up, what better time to share progress and next steps on the work the Thunderbird Desktop Engineering team has on their plates!? Exchange support moving well The \[…\]
-
-The post [Thunderbird Monthly Development Digest: September 2026](https://blog.thunderbird.net/2026/09/thunderbird-monthly-development-digest-september-2026/) appeared first on [The Thunderbird Blog](https://blog.thunderbird.net).</source:markdown>
-      <guid>cid://https://blog.thunderbird.net/?p=4621</guid>
-      <category>Development</category>
-      <category>Thunderbird</category>
-      <category>Calendar</category>
-      <category>Development Digest</category>
-      <pubDate>Wed, 23 Sep 2026 22:35:00 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Modernizes Commercial Airline Systems</title>
-      <link>https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/</link>
-      <description>
-        <![CDATA[NASA’s researchers know that when you settle into your seat on a commercial flight, you expect a smooth takeoff, views over the clouds, a steady descent, and hopefully an early arrival at your destination. But when your flight gets delayed on the tarmac instead of lifting off, or it ends up in a holding pattern [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s researchers know that when you settle into your seat on a commercial flight, you expect a smooth takeoff, views over the clouds, a steady descent, and hopefully an early arrival at your destination. But when your flight gets delayed on the tarmac instead of lifting off, or it ends up in a holding pattern \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1049637</guid>
-      <category>Airspace Operations and Safety Program</category>
-      <category>Aeronautics</category>
-      <category>Air Traffic Management and Safety</category>
-      <category>Air Traffic Solutions</category>
-      <category>Ames Research Center</category>
-      <category>Research and Technology Mission Directorate</category>
-      <pubDate>Wed, 23 Sep 2026 22:08:54 +0000</pubDate>
-    </item>    <item>
-      <title>Solaris 11.4 SRU95 released</title>
-      <link>https://www.osnews.com/story/146016/solaris-11-4-sru95-released/</link>
-      <description>
-        <![CDATA[The Solaris branch for paying customers has been updated to SRU95. Oracle Solaris 11.4 SRU95 updates a broad set of platform, runtime, developer, networking, desktop, and open source components. Notable updates include Ansible Core to 2.21.1, Apache HTTP Server to 2.4.67, Apache Tomcat to 9.0.120, BIND to 9.20.23, Django to 5.2.15, Elixir to 1.20.1, Erlang to 28.5.0.2, Firefox to 140.10.0esr, Go to 1.25.11, ImageMagick to 7.1.2-27, MySQL 8.4 to 8.4.10, NSS to 3.125, OpenSSH to 10.4p1, Rust to 1.96.0, SQLite to 3.53.2, Thunderbird to 140.10.0esr, and Vim to 9.2.0513. Additional updates include CMake, CUPS, Cython, GnuTLS, libarchive, libexpat, pip, rsync, and a range of Python modules, X11 libraries, graphics libraries, printing components, and desktop utilities. ↫ Colin Kavanagh at the Oracle Solaris Blog One of the major changes is the deprecation and removal of NTLM authentication of local users; only NTLMv2 is supported now for security reasons. This release also brings GCC 16, with GCC 13 being removed in the next version. The detailed release notes go into some of the more low-level, esoteric changes in Solaris 11.4 SRU 95.]]>
-      </description>
-      <source:markdown>The Solaris branch for paying customers has been updated to SRU95. Oracle Solaris 11.4 SRU95 updates a broad set of platform, runtime, developer, networking, desktop, and open source components. Notable updates include Ansible Core to 2.21.1, Apache HTTP Server to 2.4.67, Apache Tomcat to 9.0.120, BIND to 9.20.23, Django to 5.2.15, Elixir to 1.20.1, Erlang to 28.5.0.2, Firefox to 140.10.0esr, Go to 1.25.11, ImageMagick to 7.1.2-27, MySQL 8.4 to 8.4.10, NSS to 3.125, OpenSSH to 10.4p1, Rust to 1.96.0, SQLite to 3.53.2, Thunderbird to 140.10.0esr, and Vim to 9.2.0513. Additional updates include CMake, CUPS, Cython, GnuTLS, libarchive, libexpat, pip, rsync, and a range of Python modules, X11 libraries, graphics libraries, printing components, and desktop utilities. ↫ Colin Kavanagh at the Oracle Solaris Blog One of the major changes is the deprecation and removal of NTLM authentication of local users; only NTLMv2 is supported now for security reasons. This release also brings GCC 16, with GCC 13 being removed in the next version. The detailed release notes go into some of the more low-level, esoteric changes in Solaris 11.4 SRU 95.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=146016</guid>
-      <category>Solaris</category>
-      <pubDate>Wed, 23 Sep 2026 21:55:25 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Welcomes Croatia as Newest Artemis Accords Signatory</title>
-      <link>https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/</link>
-      <description>
-        <![CDATA[The Republic of Croatia became the 74th signatory to the Artemis Accords on Wednesday during a ceremony in the capital city of Zagreb with NASA and U.S. Department of State officials present. “It is my privilege to welcome the Republic of Croatia as the latest signatory of the Artemis Accords,” said NASA Deputy Matt Anderson [&#8230;]]]>
-      </description>
-      <source:markdown>The Republic of Croatia became the 74th signatory to the Artemis Accords on Wednesday during a ceremony in the capital city of Zagreb with NASA and U.S. Department of State officials present. “It is my privilege to welcome the Republic of Croatia as the latest signatory of the Artemis Accords,” said NASA Deputy Matt Anderson \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1049853</guid>
-      <category>Artemis Accords</category>
-      <category>General</category>
-      <category>Office of International and Interagency Relations (OIIR)</category>
-      <pubDate>Wed, 23 Sep 2026 20:37:19 +0000</pubDate>
-    </item>    <item>
-      <title>This Cubist Painting With a Mysterious Provenance Hung in the Art Institute of Chicago for Decades. Now, the Museum Will Return It to Its Rightful Jewish Heirs</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-cubist-painting-with-a-mysterious-provenance-hung-in-the-art-institute-of-chicago-for-decades-now-the-museum-will-return-it-to-its-rightful-jewish-heirs-180989553/</link>
-      <description>
-        <![CDATA[Infrared imaging links the 20th-century Jean Metzinger work to a collector whose pieces were forcibly auctioned under Nazi orders during World War II]]>
-      </description>
-      <source:markdown>Infrared imaging links the 20th-century Jean Metzinger work to a collector whose pieces were forcibly auctioned under Nazi orders during World War II</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/J2TUeAbTqAeXOi41KfYYVGVczKU=/420x240/filters:focal(422x602:423x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4a/03/4a03cf6c-55a2-4e7a-8b5a-6fdcacc385aa/default_3.jpg" length="339667" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-cubist-painting-with-a-mysterious-provenance-hung-in-the-art-institute-of-chicago-for-decades-now-the-museum-will-return-it-to-its-rightful-jewish-heirs-180989553/</guid>
-      <pubDate>Wed, 23 Sep 2026 20:18:46 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Selects Far-Infrared Telescope as First in New Mission Class</title>
-      <link>https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/</link>
-      <description>
-        <![CDATA[NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. “The PRIMA mission is [&#8230;]]]>
-      </description>
-      <source:markdown>NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. “The PRIMA mission is \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1049864</guid>
-      <category>Astrophysics</category>
-      <category>Astrophysics Division</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Jet Propulsion Laboratory</category>
-      <category>Marshall Space Flight Center</category>
-      <category>Science Mission Directorate</category>
-      <pubDate>Wed, 23 Sep 2026 20:09:42 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Aircraft to Make Low-Altitude Research Flights Over Colorado</title>
-      <link>https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/</link>
-      <description>
-        <![CDATA[Agricultural emissions represent an important and understudied&#160;part of Earth’s land and atmosphere systems.&#160;The&#160;FarmFlux&#160;mission will&#160;deploy more than a dozen sensors to&#160;measure ozone, methane, ammonia,&#160;particulates, and other pollutants rising from agricultural lands and animal farms and the interaction with the Earth’s atmosphere. The mission is jointly led by NASA’s Goddard Space Flight Center in Greenbelt, Maryland; Colorado [&#8230;]]]>
-      </description>
-      <source:markdown>Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. The FarmFlux mission will deploy more than a dozen sensors to measure ozone, methane, ammonia, particulates, and other pollutants rising from agricultural lands and animal farms and the interaction with the Earth’s atmosphere. The mission is jointly led by NASA’s Goddard Space Flight Center in Greenbelt, Maryland; Colorado \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1049685</guid>
-      <category>General</category>
-      <category>Ames Research Center</category>
-      <pubDate>Wed, 23 Sep 2026 19:03:03 +0000</pubDate>
-    </item>    <item>
-      <title>NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova</title>
-      <link>https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/</link>
-      <description>
-        <![CDATA[NASA’s Hubble Space Telescope captured this image of massive galaxy cluster MACS J0417 (left of center) on Sept. 19, 2026. This galaxy cluster acts as a gravitational lens, bending and magnifying light from objects far behind it. Supernova Athena, discovered by NASA’s James Webb Space Telescope in 2025, is predicted to reappear between now and [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s Hubble Space Telescope captured this image of massive galaxy cluster MACS J0417 (left of center) on Sept. 19, 2026. This galaxy cluster acts as a gravitational lens, bending and magnifying light from objects far behind it. Supernova Athena, discovered by NASA’s James Webb Space Telescope in 2025, is predicted to reappear between now and \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1049709</guid>
-      <pubDate>Wed, 23 Sep 2026 18:43:43 +0000</pubDate>
-    </item>    <item>
-      <title>Researchers in Turkey Have Unearthed an Ancient Fragment Inscribed With the World’s Oldest Peace Treaty</title>
-      <link>https://www.smithsonianmag.com/smart-news/researchers-in-turkey-have-unearthed-an-ancient-fragment-inscribed-with-the-worlds-oldest-peace-treaty-180989554/</link>
-      <description>
-        <![CDATA[The piece of a clay tablet is marked with Akkadian cuneiform, and its text belongs to the Kadesh Peace Treaty, created by ancient Egyptians and Hittites in the 13th century B.C.E.]]>
-      </description>
-      <source:markdown>The piece of a clay tablet is marked with Akkadian cuneiform, and its text belongs to the Kadesh Peace Treaty, created by ancient Egyptians and Hittites in the 13th century B.C.E.</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/5DqSL_IvdDf1VMPUfZzgmHtuN6g=/420x240/filters:focal(500x338:501x339)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/22/0c/220c941c-e8a9-4eac-92d3-8ce7335fbb7d/515659-490ebdfb5c70cef8586e27ab5fe2e5eee7529cf2-0.jpeg" length="370887" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/researchers-in-turkey-have-unearthed-an-ancient-fragment-inscribed-with-the-worlds-oldest-peace-treaty-180989554/</guid>
-      <pubDate>Wed, 23 Sep 2026 18:39:01 +0000</pubDate>
-    </item>    <item>
-      <title>An Otter Just Returned to New York City&#39;s Bronx River for the First Time in a Century. Now, You Can Help Name It</title>
-      <link>https://www.smithsonianmag.com/smart-news/an-otter-just-returned-to-new-york-citys-bronx-river-for-the-first-time-in-a-century-now-you-can-help-name-it-180989556/</link>
-      <description>
-        <![CDATA[A trail camera photographed the animal earlier this summer, offering a hopeful sign that the once-polluted urban waterway is recovering after decades of restoration work]]>
-      </description>
-      <source:markdown>A trail camera photographed the animal earlier this summer, offering a hopeful sign that the once-polluted urban waterway is recovering after decades of restoration work</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Qx4hb_Ky6DVvTGwLecS_0Dlhd-A=/420x240/filters:focal(600x314:601x315)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/22/4b22b57d-d095-4913-9311-8d798aaf8ae9/river_otter_camera_trap_2.jpg" length="134273" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/an-otter-just-returned-to-new-york-citys-bronx-river-for-the-first-time-in-a-century-now-you-can-help-name-it-180989556/</guid>
-      <pubDate>Wed, 23 Sep 2026 18:06:27 +0000</pubDate>
-    </item>    <item>
-      <title>Arctic Sea Ice Reaches 2026 Annual Minimum Extent</title>
-      <link>https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/</link>
-      <description>
-        <![CDATA[Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder. The ice covered an estimated 1.78 million square miles (4.6 million square kilometers), tying 2008, 2010, and 2025 for the 10th-lowest minimum in the satellite record. […]]]>
-      </description>
-      <source:markdown>Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder. The ice covered an estimated 1.78 million square miles (4.6 million square kilometers), tying 2008, 2010, and 2025 for the 10th-lowest minimum in the satellite record. \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/</guid>
-      <category>Earth</category>
-      <category>Sea Ice</category>
-      <category>Uncategorized</category>
-      <pubDate>Wed, 23 Sep 2026 17:15:32 +0000</pubDate>
-    </item>    <item>
-      <title>From Boosting Mental Health to Reducing Dementia Risk, Here&#39;s Why Reading Is Extremely Good for You, According to Science</title>
-      <link>https://www.smithsonianmag.com/smart-news/from-boosting-mental-health-to-reducing-dementia-risk-heres-why-reading-is-extremely-good-for-you-according-to-science-180989548/</link>
-      <description>
-        <![CDATA[Mounting evidence suggests that regularly cozying up with a book can increase brain and mental health, improve literacy and math skills, and even slow cognitive decline. What's more, fiction seems to have the added benefit of introducing readers to others' perspectives]]>
-      </description>
-      <source:markdown>Mounting evidence suggests that regularly cozying up with a book can increase brain and mental health, improve literacy and math skills, and even slow cognitive decline. What&#39;s more, fiction seems to have the added benefit of introducing readers to others&#39; perspectives</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/5dDnrHvCPyZwccxr2iHYN4QgelA=/420x240/filters:focal(2138x1437:2139x1438)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6d/8c/6d8ca4da-2fc4-4af9-85a5-722d51698ba4/head-shot-brunette-lying-bed-reading-book.jpg" length="15517536" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/from-boosting-mental-health-to-reducing-dementia-risk-heres-why-reading-is-extremely-good-for-you-according-to-science-180989548/</guid>
-      <pubDate>Wed, 23 Sep 2026 16:33:51 +0000</pubDate>
-    </item>    <item>
-      <title>Shannon Lucid’s Record-Setting Mission Aboard Mir</title>
-      <link>https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/</link>
-      <description>
-        <![CDATA[Shannon Lucid’s Record-Setting Mission Aboard Mir&#160; Three days before returning to Earth, Shannon W. Lucid—who joined NASA in 1978 as one of its first six female astronauts—checked in on wheat growing in the Svet greenhouse aboard the Russian space station Mir. For six months, Lucid lived and worked alongside two Russian cosmonauts conducting life science [&#8230;]]]>
-      </description>
-      <source:markdown>Shannon Lucid’s Record-Setting Mission Aboard Mir  Three days before returning to Earth, Shannon W. Lucid—who joined NASA in 1978 as one of its first six female astronauts—checked in on wheat growing in the Svet greenhouse aboard the Russian space station Mir. For six months, Lucid lived and worked alongside two Russian cosmonauts conducting life science \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1049689</guid>
-      <category>NASA History</category>
-      <category>Shannon W. Lucid</category>
-      <category>Shuttle-Mir</category>
-      <category>STS-79</category>
-      <pubDate>Wed, 23 Sep 2026 16:03:37 +0000</pubDate>
-    </item>    <item>
-      <title>Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/</link>
-      <description>
-        <![CDATA[When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. “Validation engineers look in the shadows and shine a light into every corner,” Fiza said. “Every time we get a system, our first thought is: how can it [&#8230;]]]>
-      </description>
-      <source:markdown>When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. “Validation engineers look in the shadows and shine a light into every corner,” Fiza said. “Every time we get a system, our first thought is: how can it \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=98468</guid>
-      <category>AI Infrastructure</category>
-      <category>Hardware</category>
-      <category>NVIDIA Life</category>
-      <category>NVIDIA Rubin</category>
-      <pubDate>Wed, 23 Sep 2026 15:00:32 +0000</pubDate>
-    </item>    <item>
-      <title>FFA 2026 Hyperwall Schedule</title>
-      <link>https://science.nasa.gov/earth/ffa-2026-hyperwall-schedule/</link>
-      <description>
-        <![CDATA[FFA 2026 Hyperwall Schedule]]>
-      </description>
-      <source:markdown>FFA 2026 Hyperwall Schedule</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/ffa-2026-hyperwall-schedule/</guid>
-      <pubDate>Wed, 23 Sep 2026 14:58:13 +0000</pubDate>
-    </item>    <item>
-      <title>Biology Might Not Be Quantum, but Its Math Is Quantumlike</title>
-      <link>https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/</link>
-      <description>
-        <![CDATA[Scientists have a history of trying — and failing — to link biology and quantum mechanics. The real connection between them may be in the math.            <p>The post <a href="https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/" target="_blank">Biology Might Not Be Quantum, but Its Math Is Quantumlike</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Scientists have a history of trying — and failing — to link biology and quantum mechanics. The real connection between them may be in the math.
-
-The post [Biology Might Not Be Quantum, but Its Math Is Quantumlike](https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=167361</guid>
-      <category>Physics</category>
-      <pubDate>Wed, 23 Sep 2026 14:16:54 +0000</pubDate>
-    </item>    <item>
-      <title>Meet Bubbles, a Dolphin in Australia Who Chases Fish Until They Barf—Then Eats Their Upchucked Meals</title>
-      <link>https://www.smithsonianmag.com/smart-news/meet-bubbles-a-dolphin-in-australia-that-chases-fish-until-they-barf-then-eats-their-upchucked-meals-180989547/</link>
-      <description>
-        <![CDATA[Scientists recorded 11 instances of Bubbles successfully snacking this way. They mark some of the first detailed observations of kleptoparasitism, or food stealing, in cetaceans, the group of marine mammals that includes dolphins, whales and porpoises]]>
-      </description>
-      <source:markdown>Scientists recorded 11 instances of Bubbles successfully snacking this way. They mark some of the first detailed observations of kleptoparasitism, or food stealing, in cetaceans, the group of marine mammals that includes dolphins, whales and porpoises</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/lbCxiqblHupowunVdW2lV9DtjJg=/420x240/filters:focal(1200x800:1201x801)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a8/a5/a8a5e093-276c-42c5-b311-5439a069f9c0/bubbles-lei-tracyolive.jpg" length="3861241" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/meet-bubbles-a-dolphin-in-australia-that-chases-fish-until-they-barf-then-eats-their-upchucked-meals-180989547/</guid>
-      <pubDate>Wed, 23 Sep 2026 14:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Experience the Wonder of Birds With These 11 Winning Photos From the Bird Photographer of the Year Contest</title>
-      <link>https://www.smithsonianmag.com/smart-news/experience-the-wonder-of-birds-with-these-11-winning-photos-from-the-bird-photographer-of-the-year-contest-180989552/</link>
-      <description>
-        <![CDATA[From a greater sage-grouse performing a mating display to a tawny frogmouth making a funny face, these photographs capture the breathtaking diversity of the world’s avian species]]>
-      </description>
-      <source:markdown>From a greater sage-grouse performing a mating display to a tawny frogmouth making a funny face, these photographs capture the breathtaking diversity of the world’s avian species</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/6Sr9dTtpxvwpM9CDn2g09XCuaaA=/420x240/filters:focal(1580x1061:1581x1062)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8c/26/8c2673aa-538e-4504-aa24-5996a2bd5ee5/gold_-_bird_behaviour_-_im_keeping_everyone_dry_by_donald_chin.jpg" length="779320" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/experience-the-wonder-of-birds-with-these-11-winning-photos-from-the-bird-photographer-of-the-year-contest-180989552/</guid>
-      <pubDate>Wed, 23 Sep 2026 13:22:07 +0000</pubDate>
-    </item>    <item>
-      <title>This Woman Who Lived in 14th-Century China May Have Had Her Nose Cut Off as Punishment for Theft or Adultery</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-woman-who-lived-in-imperial-china-may-have-had-her-nose-cut-off-as-punishment-for-theft-or-adultery-180989551/</link>
-      <description>
-        <![CDATA[Researchers found signs of healing on her 700-year-old skull, which suggests that she survived the painful sanction—and may even have gone on to wear a prosthesis]]>
-      </description>
-      <source:markdown>Researchers found signs of healing on her 700-year-old skull, which suggests that she survived the painful sanction—and may even have gone on to wear a prosthesis</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/h1XcqaTfhUG_qYqxMMLFS9PtYYg=/420x240/filters:focal(1453x969:1454x970)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ec/80/ec80ce8c-8425-48d4-9b09-7fc19f4a94f5/picture_4b.jpg" length="706393" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-woman-who-lived-in-imperial-china-may-have-had-her-nose-cut-off-as-punishment-for-theft-or-adultery-180989551/</guid>
-      <pubDate>Wed, 23 Sep 2026 12:30:00 +0000</pubDate>
-    </item>    <item>
-      <title>Vaccinated or not, we’re on the brink of a measles epidemic</title>
-      <link>https://www.npr.org/2026/09/23/nx-s1-5974052/measles-outbreak-epidemic-vaccination-rfk</link>
-      <description>
-        <![CDATA[Measles is making a comeback. Ongoing outbreaks in Pennsylvania, South Carolina, Texas, and Utah have documented hundreds of cases, mostly among unvaccinated people. And while local and federal politicians debate the definitions and impact of those measles-associated deaths, health experts worry that we’re overlooking the real problem: the threat of a full-scale epidemic. Today, we talk to one of those experts – epidemiologist <a href="https://crcs.seas.harvard.edu/event/michael-j-mina-md-phd-harvard-th-chan-school-public-health-harvard-medical-school"target="_blank"   >Michael Mina</a> – to figure out who’s most at risk and whether there’s any way for us to turn this epidemic around.<br/><br/><em>Interested in more </em><em>health and medical news?</em><em> Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Measles is making a comeback. Ongoing outbreaks in Pennsylvania, South Carolina, Texas, and Utah have documented hundreds of cases, mostly among unvaccinated people. And while local and federal politicians debate the definitions and impact of those measles-associated deaths, health experts worry that we’re overlooking the real problem: the threat of a full-scale epidemic. Today, we talk to one of those experts – epidemiologist [Michael Mina](https://crcs.seas.harvard.edu/event/michael-j-mina-md-phd-harvard-th-chan-school-public-health-harvard-medical-school) – to figure out who’s most at risk and whether there’s any way for us to turn this epidemic around.
-
-_Interested in more_ _health and medical news?_ _Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/042f306b-3241-4610-838c-bfa3ce7a1b55/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=042f306b-3241-4610-838c-bfa3ce7a1b55&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-5974052&#38;p=510351&#38;d=858&#38;size=13743377" length="13743377" type="audio/mpeg" />
-      <guid>cid://ba4f38a3-1e49-4e5b-8540-3790122a8547</guid>
-      <pubDate>Wed, 23 Sep 2026 07:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>APOD: 2026 September 23 – A New Lunar Crater: McGetchin</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 September 23 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. AfterBefore A [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 September 23 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. AfterBefore A \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/</guid>
-      <category>APOD</category>
-      <pubDate>Wed, 23 Sep 2026 04:05:00 +0000</pubDate>
-    </item>    <item>
-      <title>Boom Year for Desert Blooms</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/</link>
-      <description>
-        <![CDATA[Carpets of wildflowers burst from arid, ochre-colored land in Western Australia following winter rains.]]>
-      </description>
-      <source:markdown>Carpets of wildflowers burst from arid, ochre-colored land in Western Australia following winter rains.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/</guid>
-      <category>Earth Observatory</category>
-      <category>Landsat 8 / LDCM (Landsat Data Continuity Mission)</category>
-      <category>Vegetation</category>
-      <pubDate>Wed, 23 Sep 2026 04:01:00 +0000</pubDate>
-    </item>    <item>
-      <title>At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia</title>
-      <link>https://blogs.nvidia.com/blog/ai-day-singapore/</link>
-      <description>
-        <![CDATA[NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region [&#8230;]]]>
-      </description>
-      <source:markdown>NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=98374</guid>
-      <category>AI</category>
-      <category>AI Days</category>
-      <category>Artificial Intelligence</category>
-      <category>Economic Development</category>
-      <category>Events</category>
-      <category>Nemotron</category>
-      <category>NVIDIA Rubin</category>
-      <category>Public Sector</category>
-      <category>Sovereign AI</category>
-      <pubDate>Wed, 23 Sep 2026 02:30:22 +0000</pubDate>
-    </item>    <item>
-      <title>Curiosity Blog, Sols 5010-5015: Checking out the Bands</title>
-      <link>https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands/</link>
-      <description>
-        <![CDATA[Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University New Brunswick, NB, Canada Earth planning date: Friday, Sept. 11, 2026 This week we had two planning days (Tuesday and Friday), as Monday was Labor Day in North America, where many of the Curiosity team are based. Labor Day (the first Monday in September) marks […]]]>
-      </description>
-      <source:markdown>Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University New Brunswick, NB, Canada Earth planning date: Friday, Sept. 11, 2026 This week we had two planning days (Tuesday and Friday), as Monday was Labor Day in North America, where many of the Curiosity team are based. Labor Day (the first Monday in September) marks \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands/</guid>
-      <category>Blogs</category>
-      <pubDate>Wed, 23 Sep 2026 00:40:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

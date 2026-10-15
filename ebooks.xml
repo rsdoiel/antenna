@@ -4,10 +4,90 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>14 Oct 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>15 Oct 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>We are the dead by Henry Kuttner</title>
+      <link>https://www.gutenberg.org/ebooks/79700</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 15 Oct 2026 09:51:28 +0000</pubDate>
+    </item>    <item>
+      <title>Simple Sabotage Field Manual by United States. Office of Strategic Services</title>
+      <link>https://www.gutenberg.org/ebooks/26184</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 15 Oct 2026 09:51:28 +0000</pubDate>
+    </item>    <item>
+      <title>Time and chance : by Elbert Hubbard</title>
+      <link>https://www.gutenberg.org/ebooks/79783</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 15 Oct 2026 09:51:28 +0000</pubDate>
+    </item>    <item>
+      <title>The Jew of Malta by Christopher Marlowe</title>
+      <link>https://www.gutenberg.org/ebooks/901</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 15 Oct 2026 09:51:28 +0000</pubDate>
+    </item>    <item>
+      <title>The Tragical History of Doctor Faustus by Christopher Marlowe</title>
+      <link>https://www.gutenberg.org/ebooks/779</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 15 Oct 2026 09:51:28 +0000</pubDate>
+    </item>    <item>
+      <title>The Tragical History of Doctor Faustus by Christopher Marlowe</title>
+      <link>https://www.gutenberg.org/ebooks/811</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 15 Oct 2026 09:51:28 +0000</pubDate>
+    </item>    <item>
+      <title>The story of Little Black Quibba by Helen Bannerman</title>
+      <link>https://www.gutenberg.org/ebooks/79784</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 15 Oct 2026 09:51:28 +0000</pubDate>
+    </item>    <item>
+      <title>Spoon River Anthology by Edgar Lee Masters</title>
+      <link>https://www.gutenberg.org/ebooks/1280</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 15 Oct 2026 09:51:28 +0000</pubDate>
+    </item>    <item>
+      <title>How to become a United States citizen by George Milburn</title>
+      <link>https://www.gutenberg.org/ebooks/79782</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 15 Oct 2026 09:51:28 +0000</pubDate>
+    </item>    <item>
+      <title>A pamphlet against anthologies by Robert Graves and Laura Riding</title>
+      <link>https://www.gutenberg.org/ebooks/79781</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 15 Oct 2026 09:51:28 +0000</pubDate>
+    </item>    <item>
       <title>Madame Bovary by Gustave Flaubert</title>
       <link>https://www.gutenberg.org/ebooks/2413</link>
       <description>
@@ -42,14 +122,6 @@
     </item>    <item>
       <title>Paradise Regained by John Milton</title>
       <link>https://www.gutenberg.org/ebooks/58</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 14 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Simple Sabotage Field Manual by United States. Office of Strategic Services</title>
-      <link>https://www.gutenberg.org/ebooks/26184</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1032,14 +1104,6 @@
       <source:markdown>Language: English</source:markdown>
       <pubDate>Fri, 02 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
-      <title>We are the dead by Henry Kuttner</title>
-      <link>https://www.gutenberg.org/ebooks/79700</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Fri, 02 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
       <title>The fortune-hunters, and other stories by Violet Jacob</title>
       <link>https://www.gutenberg.org/ebooks/79699</link>
       <description>
@@ -1807,70 +1871,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
       <pubDate>Thu, 24 Sep 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>A Journey into the Interior of the Earth by Jules Verne</title>
-      <link>https://www.gutenberg.org/ebooks/3748</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 23 Sep 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>In the town : by Douglas Goldring</title>
-      <link>https://www.gutenberg.org/ebooks/79630</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 23 Sep 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>A history of the American people, Vol. 4 [of 5] : by Woodrow Wilson</title>
-      <link>https://www.gutenberg.org/ebooks/79629</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 23 Sep 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>A six-hour shift by William McFee</title>
-      <link>https://www.gutenberg.org/ebooks/79633</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 23 Sep 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>A history of the American people, Vol. 5 [of 5] : by Woodrow Wilson</title>
-      <link>https://www.gutenberg.org/ebooks/79634</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 23 Sep 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>Psycho-analysis : by William J.  Fielding</title>
-      <link>https://www.gutenberg.org/ebooks/79631</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 23 Sep 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>Space rays by Jr.  John W. Campbell</title>
-      <link>https://www.gutenberg.org/ebooks/79635</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 23 Sep 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>Le collier d&#39;acier by Fortuné Du Boisgobey</title>
-      <link>https://www.gutenberg.org/ebooks/79632</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-      <pubDate>Wed, 23 Sep 2026 09:51:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
