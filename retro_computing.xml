@@ -4,10 +4,78 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>15 Oct 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>16 Oct 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>52 BASIC programs</title>
+      <link>http://retro.hansotten.nl/52-basic-programs/</link>
+      <description>
+        <![CDATA[Available from my good friends. GET IT HERE. Perfect for Microsoft Basic KB9. A real, printed book packed with BASIC programs for you to type in yourself! Featuring 170 pages in a practical wire-bound format, this book brings the spirit of classic home computing back to life. See also:A demo of the new facilities in [&#8230;]]]>
+      </description>
+      <source:markdown>Available from my good friends. GET IT HERE. Perfect for Microsoft Basic KB9. A real, printed book packed with BASIC programs for you to type in yourself! Featuring 170 pages in a practical wire-bound format, this book brings the spirit of classic home computing back to life. See also:A demo of the new facilities in \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=22414</guid>
+      <category>6502</category>
+      <pubDate>Fri, 16 Oct 2026 08:58:34 +0000</pubDate>
+    </item>    <item>
+      <title>Rougol October 2026 meeting on monday</title>
+      <link>http://www.iconbar.com/comments/rss/news2390.html</link>
+      <description>
+        <![CDATA[The October 2026 Rougol meeting is on Monday.]]>
+      </description>
+      <source:markdown>The October 2026 Rougol meeting is on Monday.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2390.html</guid>
+      <pubDate>Fri, 16 Oct 2026 08:51:00 +0000</pubDate>
+    </item>    <item>
+      <title>CJE Micro’s and 4D coming to London</title>
+      <link>https://www.riscository.com/2026/cje-micros-4d-london-2026/</link>
+      <description>
+        <![CDATA[If you&#8217;re attending the London Show on 24th October, you&#8217;ll no doubt want to pay a visit to the CJE Micro&#8217;s/4D stand to see what they have to offer. The company suffered a fire late last year, and have a reduced amount of stock available &#8211; but in spite of this they say they&#8217;ll &#8220;be launching three or four new products at the show with stock to sell!&#8221; So if you to find out what those new toys might be, the place you&#8217;ll need to be is The Harrow District&#8230;]]>
+      </description>
+      <source:markdown>If you’re attending the London Show on 24th October, you’ll no doubt want to pay a visit to the CJE Micro’s/4D stand to see what they have to offer. The company suffered a fire late last year, and have a reduced amount of stock available – but in spite of this they say they’ll “be launching three or four new products at the show with stock to sell!” So if you to find out what those new toys might be, the place you’ll need to be is The Harrow District…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11088</guid>
+      <category>Shows</category>
+      <category>CJE Micro&#39;s</category>
+      <category>London</category>
+      <category>Show</category>
+      <pubDate>Thu, 15 Oct 2026 19:55:48 +0000</pubDate>
+    </item>    <item>
+      <title>Is Linus Torvalds Vibe Coding?</title>
+      <link>http://www.linux-magazine.com/Online/News/Is-Linus-Torvalds-Vibe-Coding</link>
+      <description>
+        <![CDATA[<p>The creator of Linux has added AI into his process for Linux kernel development, and it's more than just for debugging.</p>]]>
+      </description>
+      <source:markdown>The creator of Linux has added AI into his process for Linux kernel development, and it&#39;s more than just for debugging.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Lori White)</author>
+      <guid>cid://875530ee9727b89ddeeadd3f1f68a1d8</guid>
+      <pubDate>Thu, 15 Oct 2026 17:27:19 +0000</pubDate>
+    </item>    <item>
+      <title>Laser focused on London</title>
+      <link>https://www.riscosopen.org/news/articles/2026/10/15/laser-focused-on-london</link>
+      <description>
+        <![CDATA[<p>This year&#8217;s <a href="https://www.riscoslondonshow.co.uk/">London show</a> organised by <a href="https://rougol.jellybaby.net/"><span class="caps">ROUGOL</span></a> is on Saturday the 24th October from 11am.</p>
+        <p>While <span class="caps">ROOL</span> celebrated its twenty year birthday <a href="/news/articles/2026/06/20/twenty-years-of-risc-os-open">in June</a> it&#8217;s also been forty years since the launch of the <a href="https://www.computinghistory.org.uk/domesday/">Domesday</a> laser disc system, and the group has arranged for a still-working system to be available &#8211; capturing a time in the 1980&#8217;s when interest rates were rampant and there was tension in the Middle East.</p>
+        <p><img src="/images/risc_os_open/shows/rougol2026.png" title="Show banner" alt="Show banner" /></p>
+        <h3>Come and see what <span class="caps">ROOL</span> are up to</h3>
+        <p>We&#8217;ll be letting the hare out of the trap on the next stable release of <span class="caps">RISC</span> OS, version 5.32, with a shortlist of the new features planned. A number of the goodies directly feed in from community sponsored work done under the <a href="/bounty/">original bounty scheme</a>, such as an overhauled LanManFS which is able to connect to its peers without compromising security, and the Git and Paint applications which also close to the finishing line.</p>
+        <p>If coding isn&#8217;t your thing, why not pick a chapter of the User Guide and try to find <a href="/wiki/documentation/show/User%20Guide%20small%20corrections">any typos that may have been missed</a> last time round?</p>]]>
+      </description>
+      <source:markdown>This year’s [London show](https://www.riscoslondonshow.co.uk/) organised by [ROUGOL](https://rougol.jellybaby.net/) is on Saturday the 24th October from 11am.
+
+While ROOL celebrated its twenty year birthday [in June](/news/articles/2026/06/20/twenty-years-of-risc-os-open) it’s also been forty years since the launch of the [Domesday](https://www.computinghistory.org.uk/domesday/) laser disc system, and the group has arranged for a still-working system to be available – capturing a time in the 1980’s when interest rates were rampant and there was tension in the Middle East.
+
+![Show banner](/images/risc_os_open/shows/rougol2026.png)
+
+### Come and see what ROOL are up to
+
+We’ll be letting the hare out of the trap on the next stable release of RISC OS, version 5.32, with a shortlist of the new features planned. A number of the goodies directly feed in from community sponsored work done under the [original bounty scheme](/bounty/), such as an overhauled LanManFS which is able to connect to its peers without compromising security, and the Git and Paint applications which also close to the finishing line.
+
+If coding isn’t your thing, why not pick a chapter of the User Guide and try to find [any typos that may have been missed](/wiki/documentation/show/User%20Guide%20small%20corrections) last time round?</source:markdown>
+      <guid>cid://urn:uuid:edcede7c-3976-4f1e-860d-f24ac5aee1b3</guid>
+      <category>Miscellaneous</category>
+      <category>Community</category>
+      <pubDate>Thu, 15 Oct 2026 16:09:00 +0000</pubDate>
+    </item>    <item>
       <title>Wizard&#39;s Apprentice game gets an update</title>
       <link>http://www.iconbar.com/comments/rss/news2394.html</link>
       <description>
@@ -2378,160 +2446,6 @@ We announced the previous 0.99.8254e version a few days ago: &#34;Newest version
       <source:markdown>Some things we noticed this month. What did you see?</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2369.html</guid>
       <pubDate>Fri, 25 Sep 2026 09:36:00 +0000</pubDate>
-    </item>    <item>
-      <title>Fireside developer chat on saturday night</title>
-      <link>http://www.iconbar.com/comments/rss/news2356.html</link>
-      <description>
-        <![CDATA[As the nights start to draw in, it's time to light that fire. The next developer fireside chat is tomorrow night (26th September) for anyone interested in a very informal event online aimed at RISC OS developers of all levels.]]>
-      </description>
-      <source:markdown>As the nights start to draw in, it&#39;s time to light that fire. The next developer fireside chat is tomorrow night (26th September) for anyone interested in a very informal event online aimed at RISC OS developers of all levels.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2356.html</guid>
-      <pubDate>Thu, 24 Sep 2026 06:59:00 +0000</pubDate>
-    </item>    <item>
-      <title>Out Now: Low-tech Magazine Volume IV</title>
-      <link>https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/</link>
-      <description>
-        <![CDATA[<div class="article-img ">
-        <figure data-imgstate="dither">
-        <img src="https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/images/dithers/IMG_3962-contrast_dithered.png" alt='Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret.' loading="lazy"/></figure>
-        <figcaption class="caption">
-         Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret. 
-        </figcaption>
-        </div>
-        </div>
-        <p>Low-tech Magazine presents the fourth volume in the chronological book series. It contains twenty articles that were published online between 2022 and 2026. <a href="https://solar.lowtechmagazine.com/2026/03/low-tech-magazine-the-uncompressed-book-series/">Three earlier volumes</a> collect articles written and published online between 2007 and 2021, which are also bundled in the &ldquo;<a href="https://solar.lowtechmagazine.com/2025/03/the-compressed-book-edition/">Compressed Edition</a>&rdquo;.</p>
-        <p>This new volume is a bit different from the earlier books: eight of the articles are DIY guides or manuals, and we have grouped them together in the second part of the book. This volume covers the period that Marie Verdeil joined Low-tech Magazine, which partly shifted the focus from writing articles to building prototypes inspired by historical research. These prototypes also led us to conduct workshops in universities and participate in museum exhibitions.</p>
-        <p>As is the case with all of our books, the articles have been edited and improved compared to the original web versions. Some articles gained extra or better images. We rewrote two manuals, based on further experiences we gained since the publication of the originals. The book has 500 pages and contains 405 images in black and white.</p>
-        <p>You can order Low-tech Magazine Volume IV at our online bookstore, available as <a href="https://www.lulu.com/shop/kris-de-decker-and-marie-verdeil/low-tech-magazine-volume-iv-2022-2026/paperback/product-zmn24gr.html?page=1&amp;pageSize=4">paperback</a> and <a href="https://www.lulu.com/shop/kris-de-decker-and-marie-verdeil/low-tech-magazine-volume-iv-2022-2026-hardcover/hardcover/product-rm2djpv.html?page=1&amp;pageSize=4">hardcover</a>. The ebook is not yet available.</p>
-        <div class="article-img ">
-        <figure data-imgstate="dither">
-        <img src="https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/images/dithers/IMG_3999-contrast_dithered.png" alt='Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret.' loading="lazy"/></figure>
-        <figcaption class="caption">
-         Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret. 
-        </figcaption>
-        </div>
-        </div>
-        <h2 id="contents-table">Contents table</h2>
-        <h3 id="articles">ARTICLES:</h3>
-        <ul>
-        <li>The Revenge of the Hot Water Bottle</li>
-        <li>When Lethal Weapons Grew on Trees</li>
-        <li>What if We Replace Guns and Bullets with Bows and Arrows?</li>
-        <li>Can We Make Bicycles Sustainable Again?</li>
-        <li>Low-tech Magazine: The Comic</li>
-        <li>Direct Solar Power: Off-Grid Without Batteries</li>
-        <li>Plastic Waste in the Fuel Tank?</li>
-        <li>How to Escape From the Iron Age?</li>
-        <li>Communal Luxury: The Public Bathhouse</li>
-        <li>The Compressed Book Edition</li>
-        <li>How to Dress and Undress your Home</li>
-        <li>Rediscovering the Handcart</li>
-        </ul>
-        <h3 id="manuals-and-guides">MANUALS and GUIDES:</h3>
-        <ul>
-        <li>How to Build a Small Solar Power System</li>
-        <li>How to Build an Electrically Heated Table</li>
-        <li>How to Build a Solar Powered Electric Oven</li>
-        <li>How to Brew Solar Powered Coffee</li>
-        <li>Winter is Coming: Build a Solar Powered Foot Stove</li>
-        <li>How to Assemble an Electric Heating Element from Scratch</li>
-        <li>How to Build a Practical Household Bike Generator</li>
-        <li>Human Powered Air Compressor and Energy Storage System</li>
-        </ul>
-        <p>With contributions by: Kris De Decker, Marie Verdeil, Guillaume Lion, Kozimo, Andy Lagzdins.</p>
-        <p>The book design is a collaborative effort by Laia Comellas, Marie Verdeil, and Johanna Gratzer. Marie Verdeil made the cover, Vaiva Vinskaitė did the typesetting.</p>
-        <h2 id="earlier-volumes">Earlier volumes:</h2>
-        <ul>
-        <li>Low-tech Magazine Volume I: <a href="https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-i-2007-2012/paperback/product-m25864q.html?q=&amp;page=1&amp;pageSize=4">paperback</a> / <a href="https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-i-2007-2012-hardcover/hardcover/product-w4w2z2j.html?page=1&amp;pageSize=4">hardcover</a>.</li>
-        <li>Low-tech Magazine Volume II: <a href="https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-ii-2012-2018/paperback/product-zmwgz9k.html?q=&amp;page=1&amp;pageSize=4">paperback</a> / <a href="https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-ii-2012-2018-hardcover/hardcover/product-m26g4ey.html?page=1&amp;pageSize=4">hardcover</a>.</li>
-        <li>Low-tech Magazine Volume III: <a href="https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-iii-2018-2021/paperback/product-45jp6yy.html?q=&amp;page=1&amp;pageSize=4">paperback</a> / <a href="https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-iii-2018-2021-hardcover/hardcover/product-je6m989.html?page=1&amp;pageSize=4">hardcover</a>.</li>
-        <li>The Compressed Edition: <a href="https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-2007-2021-the-compressed-edition/paperback/product-jeqeevm.html?q=&amp;page=1&amp;pageSize=4">paperback</a> / <a href="https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-2007-2021-the-compressed-edition-hardcover/hardcover/product-v8j886j.html?q=&amp;page=1&amp;pageSize=4">hardcover</a>.</li>
-        <li>The Comments: <a href="https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-the-comments-2008-2021/paperback/product-9457rd.html?q=&amp;page=1&amp;pageSize=4">paperback</a> / <a href="https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-the-comments-2008-2021-hardcover/hardcover/product-q4zrjj.html?q=&amp;page=1&amp;pageSize=4">hardcover</a>.</li>
-        <li><a href="https://www.lulu.com/search?contributor=Kris+De+Decker&amp;adult_audience_rating=00&amp;sortBy=PRICE_ASC&amp;page=1">Thematic book series</a>.</li>
-        </ul>
-        <p><a href="https://patreon.com/lowtechmagazine">Patrons</a> have free access to all ebooks, and early access to print books at a reduced price. They also receive exclusive content, which includes previews of new building projects and behind-the-scenes news.</p>
-        <div class="article-img ">
-        <figure data-imgstate="dither">
-        <img src="https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/images/dithers/IMG_3974-contrast_dithered.png" alt='Image: Low-tech Magazine Volume I, II, III &amp;amp; IV  (2022-2026). Photo: Juliette Demaret.' loading="lazy"/></figure>
-        <figcaption class="caption">
-         Image: Low-tech Magazine Volume I, II, III & IV  (2022-2026). Photo: Juliette Demaret. 
-        </figcaption>
-        </div>
-        </div>]]>
-      </description>
-      <source:markdown>![Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret.](https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/images/dithers/IMG_3962-contrast_dithered.png)
-Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret.
-
-Low-tech Magazine presents the fourth volume in the chronological book series. It contains twenty articles that were published online between 2022 and 2026. [Three earlier volumes](https://solar.lowtechmagazine.com/2026/03/low-tech-magazine-the-uncompressed-book-series/) collect articles written and published online between 2007 and 2021, which are also bundled in the “ [Compressed Edition](https://solar.lowtechmagazine.com/2025/03/the-compressed-book-edition/)”.
-
-This new volume is a bit different from the earlier books: eight of the articles are DIY guides or manuals, and we have grouped them together in the second part of the book. This volume covers the period that Marie Verdeil joined Low-tech Magazine, which partly shifted the focus from writing articles to building prototypes inspired by historical research. These prototypes also led us to conduct workshops in universities and participate in museum exhibitions.
-
-As is the case with all of our books, the articles have been edited and improved compared to the original web versions. Some articles gained extra or better images. We rewrote two manuals, based on further experiences we gained since the publication of the originals. The book has 500 pages and contains 405 images in black and white.
-
-You can order Low-tech Magazine Volume IV at our online bookstore, available as [paperback](https://www.lulu.com/shop/kris-de-decker-and-marie-verdeil/low-tech-magazine-volume-iv-2022-2026/paperback/product-zmn24gr.html?page=1&#38;pageSize=4) and [hardcover](https://www.lulu.com/shop/kris-de-decker-and-marie-verdeil/low-tech-magazine-volume-iv-2022-2026-hardcover/hardcover/product-rm2djpv.html?page=1&#38;pageSize=4). The ebook is not yet available.
-
-![Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret.](https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/images/dithers/IMG_3999-contrast_dithered.png)
-Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret.
-
-## Contents table
-
-### ARTICLES:
-
-- The Revenge of the Hot Water Bottle
-- When Lethal Weapons Grew on Trees
-- What if We Replace Guns and Bullets with Bows and Arrows?
-- Can We Make Bicycles Sustainable Again?
-- Low-tech Magazine: The Comic
-- Direct Solar Power: Off-Grid Without Batteries
-- Plastic Waste in the Fuel Tank?
-- How to Escape From the Iron Age?
-- Communal Luxury: The Public Bathhouse
-- The Compressed Book Edition
-- How to Dress and Undress your Home
-- Rediscovering the Handcart
-
-### MANUALS and GUIDES:
-
-- How to Build a Small Solar Power System
-- How to Build an Electrically Heated Table
-- How to Build a Solar Powered Electric Oven
-- How to Brew Solar Powered Coffee
-- Winter is Coming: Build a Solar Powered Foot Stove
-- How to Assemble an Electric Heating Element from Scratch
-- How to Build a Practical Household Bike Generator
-- Human Powered Air Compressor and Energy Storage System
-
-With contributions by: Kris De Decker, Marie Verdeil, Guillaume Lion, Kozimo, Andy Lagzdins.
-
-The book design is a collaborative effort by Laia Comellas, Marie Verdeil, and Johanna Gratzer. Marie Verdeil made the cover, Vaiva Vinskaitė did the typesetting.
-
-## Earlier volumes:
-
-- Low-tech Magazine Volume I: [paperback](https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-i-2007-2012/paperback/product-m25864q.html?q=&#38;page=1&#38;pageSize=4) / [hardcover](https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-i-2007-2012-hardcover/hardcover/product-w4w2z2j.html?page=1&#38;pageSize=4).
-- Low-tech Magazine Volume II: [paperback](https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-ii-2012-2018/paperback/product-zmwgz9k.html?q=&#38;page=1&#38;pageSize=4) / [hardcover](https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-ii-2012-2018-hardcover/hardcover/product-m26g4ey.html?page=1&#38;pageSize=4).
-- Low-tech Magazine Volume III: [paperback](https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-iii-2018-2021/paperback/product-45jp6yy.html?q=&#38;page=1&#38;pageSize=4) / [hardcover](https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-volume-iii-2018-2021-hardcover/hardcover/product-je6m989.html?page=1&#38;pageSize=4).
-- The Compressed Edition: [paperback](https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-2007-2021-the-compressed-edition/paperback/product-jeqeevm.html?q=&#38;page=1&#38;pageSize=4) / [hardcover](https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-2007-2021-the-compressed-edition-hardcover/hardcover/product-v8j886j.html?q=&#38;page=1&#38;pageSize=4).
-- The Comments: [paperback](https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-the-comments-2008-2021/paperback/product-9457rd.html?q=&#38;page=1&#38;pageSize=4) / [hardcover](https://www.lulu.com/shop/kris-de-decker/low-tech-magazine-the-comments-2008-2021-hardcover/hardcover/product-q4zrjj.html?q=&#38;page=1&#38;pageSize=4).
-- [Thematic book series](https://www.lulu.com/search?contributor=Kris+De+Decker&#38;adult_audience_rating=00&#38;sortBy=PRICE_ASC&#38;page=1).
-
-[Patrons](https://patreon.com/lowtechmagazine) have free access to all ebooks, and early access to print books at a reduced price. They also receive exclusive content, which includes previews of new building projects and behind-the-scenes news.
-
-![Image: Low-tech Magazine Volume I, II, III &#38;amp; IV  (2022-2026). Photo: Juliette Demaret.](https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/images/dithers/IMG_3974-contrast_dithered.png)
-Image: Low-tech Magazine Volume I, II, III &#38; IV (2022-2026). Photo: Juliette Demaret.</source:markdown>
-      <enclosure url="https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/images/dithers/IMG_3962-contrast_dithered.png" length="49193" type="image/png" />
-      <guid>cid://https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>PiCMD is a brain transplant for Pi1541</title>
-      <link>https://www.c64os.com/post/picmd</link>
-      <description>
-        <![CDATA[<img src='https://s3.amazonaws.com/com.c64os.resources/weblog/picmd/icon-picmd.jpg'> C64 OS is a system of sufficient complexity that, like modern operating systems, it requires a boot device that is capable of certain minimum requirements. Once upon a time you could run Mac OS (System 1 through 6, mostly) from floppy disks. But after that the system was truly designed for and eventually required a hard drive. Something similar either did or would have happened with Amiga OS. The original versions released by Commodore could be booted from floppies, but later versions like 3.9 and 4.x require installation on a hard drive. Even early versions of Windows, 1.0 and 2.0 could run from floppies, but 2.1, 3.0 and up require a hard drive. This is the way of things. GEOS can be run from floppies, but when I started with C64 OS in 2017, it was time to design a system that requires a hard drive. It gets all the benefits that can be had by guaranteeing a mass storage device with nested subdirectories is available. The only downside is that you have a hardware requirement that must. . .]]>
-      </description>
-      <source:markdown>![](https://s3.amazonaws.com/com.c64os.resources/weblog/picmd/icon-picmd.jpg) C64 OS is a system of sufficient complexity that, like modern operating systems, it requires a boot device that is capable of certain minimum requirements. Once upon a time you could run Mac OS (System 1 through 6, mostly) from floppy disks. But after that the system was truly designed for and eventually required a hard drive. Something similar either did or would have happened with Amiga OS. The original versions released by Commodore could be booted from floppies, but later versions like 3.9 and 4.x require installation on a hard drive. Even early versions of Windows, 1.0 and 2.0 could run from floppies, but 2.1, 3.0 and up require a hard drive. This is the way of things. GEOS can be run from floppies, but when I started with C64 OS in 2017, it was time to design a system that requires a hard drive. It gets all the benefits that can be had by guaranteeing a mass storage device with nested subdirectories is available. The only downside is that you have a hardware requirement that must. . .</source:markdown>
-      <author>gregorynacu@me.com (Gregory Nacu)</author>
-      <guid>cid://https://www.c64os.com/post?p=137</guid>
-      <category>Hardware</category>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
