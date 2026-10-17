@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>16 Oct 26 06:43 -0700</dateCreated>
+        <dateCreated>17 Oct 26 06:44 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -292,10 +292,10 @@
         <outline text="Peter Norvig&#39;s feed" type="rss" xmlUrl="http://www.norvig.com/rss-feed.xml" htmlUrl="http://www.norvig.com" description="Articles by Peter Norvig"></outline>
         <outline text="Peter Sefton&#39;s Blog" type="atom" xmlUrl="https://ptsefton.com/feed/atom" htmlUrl="https://ptsefton.com/feed/atom,https://ptsefton.com/" description="Peter (PT) Sefton&#39;s blog -- mostly about research data and archival repositories these days" url="https://ptsefton.com/feed/atom"></outline>
         <outline text="Peter Warden" type="rss" xmlUrl="https://petewarden.com/feed/" htmlUrl="https://petewarden.com,https://petewarden.com/feed/" description="Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." url="https://petewarden.com/feed/"></outline>
-        <outline text="Peter&#39;s feed on California" type="atom" xmlUrl="https://collopy.net/feed/research/California.xml" htmlUrl="https://collopy.net/feed/research/California.xml,https://collopy.net/" url="https://collopy.net/feed/research/California.xml"></outline>
-        <outline text="Peter&#39;s feed on Caltech" type="atom" xmlUrl="https://collopy.net/feed/research/Caltech.xml" htmlUrl="https://collopy.net/feed/research/Caltech.xml,https://collopy.net/" url="https://collopy.net/feed/research/Caltech.xml"></outline>
-        <outline text="Peter&#39;s feed on Synthesizers" type="atom" xmlUrl="https://collopy.net/feed/research/synthesizers.xml" htmlUrl="https://collopy.net/feed/research/synthesizers.xml,https://collopy.net/" url="https://collopy.net/feed/research/synthesizers.xml"></outline>
-        <outline text="Peter&#39;s general feed" type="atom" xmlUrl="https://collopy.net/feed.xml" htmlUrl="https://collopy.net/feed.xml,https://collopy.net/" url="https://collopy.net/feed.xml"></outline>
+        <outline text="Peter&#39;s feed on California" type="atom" xmlUrl="https://collopy.net/feed/research/California.xml" htmlUrl="http://localhost:4000/feed/research/California.xml,http://localhost:4000/" url="http://localhost:4000/feed/research/California.xml"></outline>
+        <outline text="Peter&#39;s feed on Caltech" type="atom" xmlUrl="https://collopy.net/feed/research/Caltech.xml" htmlUrl="http://localhost:4000/feed/research/Caltech.xml,http://localhost:4000/" url="http://localhost:4000/feed/research/Caltech.xml"></outline>
+        <outline text="Peter&#39;s feed on Synthesizers" type="atom" xmlUrl="https://collopy.net/feed/research/synthesizers.xml" htmlUrl="http://localhost:4000/feed/research/synthesizers.xml,http://localhost:4000/" url="http://localhost:4000/feed/research/synthesizers.xml"></outline>
+        <outline text="Peter&#39;s general feed" type="atom" xmlUrl="https://collopy.net/feed.xml" htmlUrl="http://localhost:4000/feed.xml,http://localhost:4000/" url="http://localhost:4000/feed.xml"></outline>
         <outline text="Phil Manzanera news" type="rss" xmlUrl="https://manzanera.com/new/feed/" htmlUrl="https://manzanera.com/new,https://manzanera.com/new/feed/" description="The official site of Phil Manzanera" url="https://manzanera.com/new/feed/"></outline>
         <outline text="Phillip Ball" type="rss" xmlUrl="https://philipball86.substack.com/feed" htmlUrl="https://philipball86.substack.com,https://philipball86.substack.com/feed" description="Philip Ball&#39;s marginalia that can&#39;t or needn&#39;t be published elsewhere. It could be music, it could be biology, quantum mechanics, more or less anything." url="https://philipball86.substack.com/feed"></outline>
         <outline text="Phiresky&#39;s blog" type="rss" xmlUrl="https://phiresky.github.io/blog/rss.xml" htmlUrl="https://phiresky.github.io/blog/" description="Code, Craft, and Creativity"></outline>

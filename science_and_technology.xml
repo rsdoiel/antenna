@@ -4,10 +4,149 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>16 Oct 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>17 Oct 26 06:45 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>APOD: 2026 October 17 – 3D 67P</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 October 17… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 3D 67P Explanation: Put [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 October 17… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 3D 67P Explanation: Put \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/</guid>
+      <category>APOD</category>
+      <pubDate>Sat, 17 Oct 2026 04:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>GNOME OS moves to preview stage</title>
+      <link>https://www.osnews.com/story/146176/gnome-os-moves-to-preview-stage/</link>
+      <description>
+        <![CDATA[It’s been two years since my initial post about making GNOME OS an end-user general purpose OS. Today, we’re excited to announce that we’ve hit a major milestone! TL;DR: We’re launching a new edition called “GNOME OS Preview”, which is built from the latest stable GNOME release. This means that GNOME OS is no longer just a nightly OS for GNOME developers and testers! ↫ Aaron Ardiri A number of changes and improvements have made the move from nightly status to preview status possible. They&#8217;ve made GNOME OS handle environments with limited amounts of RAM much better &#8211; not a luxury, these days &#8211; including the ability to dynamically increase the swap space if needed. In addition, the work to make it much easier to install and test daily Flatpak builds of applications is now part of GNOME OS, as is the effort to make command-line utilities manageable in the same way as Flatpaks. As the blog post notes, there&#8217;s still a ton of work left to do before GNOME OS is ready for everyone. They&#8217;re going to bet heavily on systemd-homed to enable, among other things, per-user disk encryption, and there&#8217;s a new installer coming, as well. They also want to ship GNOME&#8217;s preinstalled applications as Flatpaks, integrate delta updates, and much more. It all looks incredibly appealing, even if I am not the target user for something like GNOME OS.]]>
+      </description>
+      <source:markdown>It’s been two years since my initial post about making GNOME OS an end-user general purpose OS. Today, we’re excited to announce that we’ve hit a major milestone! TL;DR: We’re launching a new edition called “GNOME OS Preview”, which is built from the latest stable GNOME release. This means that GNOME OS is no longer just a nightly OS for GNOME developers and testers! ↫ Aaron Ardiri A number of changes and improvements have made the move from nightly status to preview status possible. They’ve made GNOME OS handle environments with limited amounts of RAM much better – not a luxury, these days – including the ability to dynamically increase the swap space if needed. In addition, the work to make it much easier to install and test daily Flatpak builds of applications is now part of GNOME OS, as is the effort to make command-line utilities manageable in the same way as Flatpaks. As the blog post notes, there’s still a ton of work left to do before GNOME OS is ready for everyone. They’re going to bet heavily on systemd-homed to enable, among other things, per-user disk encryption, and there’s a new installer coming, as well. They also want to ship GNOME’s preinstalled applications as Flatpaks, integrate delta updates, and much more. It all looks incredibly appealing, even if I am not the target user for something like GNOME OS.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146176</guid>
+      <category>Gnome</category>
+      <pubDate>Fri, 16 Oct 2026 23:54:12 +0000</pubDate>
+    </item>    <item>
+      <title>Palm OS developer archive: Palm OS development resources, SDKs, documentation, and utilities</title>
+      <link>https://www.osnews.com/story/146174/palm-os-developer-archive-palm-os-development-resources-sdks-documentation-and-utilities/</link>
+      <description>
+        <![CDATA[This repository contains approximately 1 GB of historical Palm OS development material, collected over many years of working with the platform. The archive includes a mixture of publicly distributed development resources, personal development material, technical references, and historical artifacts. ↫ Aaron Ardiri An incredible resource for anyone wishing to dive into Palm OS programming and development in this day and age.]]>
+      </description>
+      <source:markdown>This repository contains approximately 1 GB of historical Palm OS development material, collected over many years of working with the platform. The archive includes a mixture of publicly distributed development resources, personal development material, technical references, and historical artifacts. ↫ Aaron Ardiri An incredible resource for anyone wishing to dive into Palm OS programming and development in this day and age.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146174</guid>
+      <category>Mobile</category>
+      <pubDate>Fri, 16 Oct 2026 20:47:05 +0000</pubDate>
+    </item>    <item>
+      <title>Rembrandt Turned Ancient Myths Into &#39;Supremely Human&#39; Works of Art. An Upcoming Exhibition Traces the Inspiration He Took From Antiquity</title>
+      <link>https://www.smithsonianmag.com/smart-news/rembrandt-turned-ancient-myths-into-supremely-human-works-of-art-an-upcoming-exhibition-traces-the-inspiration-he-took-from-antiquity-180989705/</link>
+      <description>
+        <![CDATA["Rembrandt and the Ancients" at the Metropolitan Museum of Art will unpack an "underexplored but vital" part of the Dutch master's career, putting his paintings and drawings in conversation with the antecedents that inspired them]]>
+      </description>
+      <source:markdown>&#34;Rembrandt and the Ancients&#34; at the Metropolitan Museum of Art will unpack an &#34;underexplored but vital&#34; part of the Dutch master&#39;s career, putting his paintings and drawings in conversation with the antecedents that inspired them</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/xnoRln4Vst7V9z0bF9SBxQjb1mU=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/69/0b/690bd80a-40d6-4a04-a019-d6dec37d35df/rembrandt_aristotle_with_a_bust_of_homer.jpg" length="392552" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/rembrandt-turned-ancient-myths-into-supremely-human-works-of-art-an-upcoming-exhibition-traces-the-inspiration-he-took-from-antiquity-180989705/</guid>
+      <pubDate>Fri, 16 Oct 2026 20:16:08 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Names Stephen Cash Marshall Space Flight Center Director</title>
+      <link>https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/</link>
+      <description>
+        <![CDATA[NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than four decades ago. “Marshall contributions to NASA&#8217;s missions are historic and it&#8217;s [&#8230;]]]>
+      </description>
+      <source:markdown>NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than four decades ago. “Marshall contributions to NASA’s missions are historic and it’s \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1057238</guid>
+      <category>Leadership</category>
+      <category>Marshall Space Flight Center</category>
+      <category>NASA Headquarters</category>
+      <pubDate>Fri, 16 Oct 2026 20:14:39 +0000</pubDate>
+    </item>    <item>
+      <title>Legend Has It That This Roman Emperor Established a Camp in Wales. A Newly Discovered Fort May Offer Proof That It Really Existed</title>
+      <link>https://www.smithsonianmag.com/smart-news/legend-has-it-that-this-roman-emperor-established-camp-wales-newly-discovered-fort-may-offer-proof-that-it-really-existed-180989702/</link>
+      <description>
+        <![CDATA[An archaeologist has uncovered an ancient fortification linked to Magnus Maximus, a fourth-century ruler who is immortalized in the medieval "Mabinogion" stories as Macsen Wledig]]>
+      </description>
+      <source:markdown>An archaeologist has uncovered an ancient fortification linked to Magnus Maximus, a fourth-century ruler who is immortalized in the medieval &#34;Mabinogion&#34; stories as Macsen Wledig</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/UJxMSUez7A9UHfcMeyWLzKg_610=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/12/dc/12dc133b-15a8-418c-8bce-583e680f390c/coins.png" length="1758921" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/legend-has-it-that-this-roman-emperor-established-camp-wales-newly-discovered-fort-may-offer-proof-that-it-really-existed-180989702/</guid>
+      <pubDate>Fri, 16 Oct 2026 18:51:49 +0000</pubDate>
+    </item>    <item>
+      <title>Wildlife Experts Stunned to Find That Bird Flu Killed Jackie, the Beloved, Internet-Famous Bald Eagle</title>
+      <link>https://www.smithsonianmag.com/smart-news/wildlife-experts-stunned-to-find-that-bird-flu-killed-jackie-the-beloved-internet-famous-bald-eagle-180989703/</link>
+      <description>
+        <![CDATA[Jackie died in August after receiving weeks of intensive care at the Ojai Raptor Center in California. The necropsy results are surprising, given that Jackie's symptoms were unusual for bird flu and there is no ongoing outbreak among bald eagles]]>
+      </description>
+      <source:markdown>Jackie died in August after receiving weeks of intensive care at the Ojai Raptor Center in California. The necropsy results are surprising, given that Jackie&#39;s symptoms were unusual for bird flu and there is no ongoing outbreak among bald eagles</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ArfiJIzBTjamfp5iCCP-PyQakOY=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/aa/63/aa632d4b-490b-4f4b-9ba3-f0219d6e2598/jackie-main.png" length="1838997" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/wildlife-experts-stunned-to-find-that-bird-flu-killed-jackie-the-beloved-internet-famous-bald-eagle-180989703/</guid>
+      <pubDate>Fri, 16 Oct 2026 18:23:17 +0000</pubDate>
+    </item>    <item>
+      <title>Madrid&#39;s Renewed and Expanded Sorolla Museum Lets the Paintings of the Spanish &#39;Master of Light&#39; Re-emerge Into Public View</title>
+      <link>https://www.smithsonianmag.com/smart-news/madrids-renewed-and-expanded-sorolla-museum-lets-the-paintings-of-the-spanish-master-of-light-reemerge-into-public-view-180989701/</link>
+      <description>
+        <![CDATA[Dedicated to the works of Joaquín Sorolla y Bastida, the museum is centered around his historic home and studio. The first phase of its yearslong renovation is complete, featuring expanded exhibition spaces]]>
+      </description>
+      <source:markdown>Dedicated to the works of Joaquín Sorolla y Bastida, the museum is centered around his historic home and studio. The first phase of its yearslong renovation is complete, featuring expanded exhibition spaces</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/e6IoVySZbnnsO6bsvbozgptP4Kc=/420x240/filters:focal(2312x1740:2313x1741)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/57/ab/57ab3e23-9bdb-4a28-bafa-6d1f0ba091d3/enrique_varela_agui.jpg" length="4330738" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/madrids-renewed-and-expanded-sorolla-museum-lets-the-paintings-of-the-spanish-master-of-light-reemerge-into-public-view-180989701/</guid>
+      <pubDate>Fri, 16 Oct 2026 18:01:39 +0000</pubDate>
+    </item>    <item>
+      <title>Microplastics Have Been Linked With Myriad Human Health Problems. Scientists May Have Finally Figured Out How They Harm the Body</title>
+      <link>https://www.smithsonianmag.com/smart-news/microplastics-have-been-linked-with-myriad-human-health-problems-scientists-may-have-finally-figured-out-how-they-harm-the-body-180989694/</link>
+      <description>
+        <![CDATA[Lab experiments suggest that tiny bits of plastic can react with water inside us to produce highly reactive molecules. They can lead to damaging oxidative stress and inflammation]]>
+      </description>
+      <source:markdown>Lab experiments suggest that tiny bits of plastic can react with water inside us to produce highly reactive molecules. They can lead to damaging oxidative stress and inflammation</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/_6nJz2iFkN-vz_BnrWzBkMlSVZM=/420x240/filters:focal(2880x1920:2881x1921)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1b/4f/1b4fb679-695a-4912-9732-1c428708606d/microplastics.jpg" length="11514100" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/microplastics-have-been-linked-with-myriad-human-health-problems-scientists-may-have-finally-figured-out-how-they-harm-the-body-180989694/</guid>
+      <pubDate>Fri, 16 Oct 2026 17:03:22 +0000</pubDate>
+    </item>    <item>
+      <title>Artemis II Heat Shield After Splashdown</title>
+      <link>https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/</link>
+      <description>
+        <![CDATA[Shortly after NASA&#8217;s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth’s atmosphere. This rigorous analysis confirmed that the [&#8230;]]]>
+      </description>
+      <source:markdown>Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth’s atmosphere. This rigorous analysis confirmed that the \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1057059</guid>
+      <category>Artemis 2</category>
+      <pubDate>Fri, 16 Oct 2026 16:28:01 +0000</pubDate>
+    </item>    <item>
+      <title>Small Dogs Tend to Live Longer Than Big Dogs. Scientists Say They Might Finally Know Why—and It Goes to the Molecular Level</title>
+      <link>https://www.smithsonianmag.com/smart-news/small-dogs-tend-to-live-longer-than-big-dogs-scientists-say-they-might-finally-know-why-and-it-goes-to-the-molecular-level-180989695/</link>
+      <description>
+        <![CDATA[Larger breeds like Great Danes seem to accumulate changes to chemical tags on their DNA more quickly than tinier breeds, such as chihuahuas. These alterations allow potentially harmful 'jumping genes' to move around their genomes]]>
+      </description>
+      <source:markdown>Larger breeds like Great Danes seem to accumulate changes to chemical tags on their DNA more quickly than tinier breeds, such as chihuahuas. These alterations allow potentially harmful &#39;jumping genes&#39; to move around their genomes</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/vkL-ODNWba8a-lY8rQ3nhs3rUZk=/420x240/filters:focal(3000x2000:3001x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/74/34/7434a73b-c609-4c39-800b-1d3d045895a5/pexels-paparazziratzfatzzi-8660788.jpg" length="7060051" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/small-dogs-tend-to-live-longer-than-big-dogs-scientists-say-they-might-finally-know-why-and-it-goes-to-the-molecular-level-180989695/</guid>
+      <pubDate>Fri, 16 Oct 2026 16:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>I Am Artemis: Allison Mjoen</title>
+      <link>https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/</link>
+      <description>
+        <![CDATA[As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride. Mjoen, NASA’s operations manager for the agency’s Exploration Ground Systems Program, helped shape the systems and ground operations that will one day send humans back to [&#8230;]]]>
+      </description>
+      <source:markdown>As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride. Mjoen, NASA’s operations manager for the agency’s Exploration Ground Systems Program, helped shape the systems and ground operations that will one day send humans back to \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1056996</guid>
+      <category>International Space Station (ISS)</category>
+      <category>Artemis</category>
+      <category>Exploration Ground Systems</category>
+      <category>I Am Artemis</category>
+      <category>Kennedy Space Center</category>
+      <category>Orion Multi-Purpose Crew Vehicle</category>
+      <category>Space Launch System (SLS)</category>
+      <category>Space Shuttle</category>
+      <pubDate>Fri, 16 Oct 2026 14:24:29 +0000</pubDate>
+    </item>    <item>
+      <title>This Ancient Animal Looked Like a Platypus-Otter Hybrid. It&#39;s Providing Clues About the Origins of Mammalian Suckling and Swallowing</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-ancient-animal-looked-like-a-platapys-otter-hybrid-its-providing-clues-about-the-origins-of-mammalian-suckling-and-swallowing-180989666/</link>
+      <description>
+        <![CDATA[The roughly two- to four-pound predator lived alongside dinosaurs some 165 million years ago. A fossil found in northern China shows the strange creature had a surprisingly modern throat structure]]>
+      </description>
+      <source:markdown>The roughly two- to four-pound predator lived alongside dinosaurs some 165 million years ago. A fossil found in northern China shows the strange creature had a surprisingly modern throat structure</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/AmQssIByRH3blIoyaxFWnIQA4Uo=/420x240/filters:focal(690x388:691x389)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1d/50/1d50a161-315c-4d8a-a06a-a768c2c1922c/hero_megacauda_life_restoration.png" length="1056988" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-ancient-animal-looked-like-a-platapys-otter-hybrid-its-providing-clues-about-the-origins-of-mammalian-suckling-and-swallowing-180989666/</guid>
+      <pubDate>Fri, 16 Oct 2026 14:00:00 +0000</pubDate>
+    </item>    <item>
       <title>He Wants AI Benchmarking To Be a Science, Not a Dark Art</title>
       <link>https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/</link>
       <description>
@@ -19,6 +158,21 @@ The post [He Wants AI Benchmarking To Be a Science, Not a Dark Art](https://www.
       <guid>cid://https://www.quantamagazine.org/?p=167932</guid>
       <category>Computer Science</category>
       <pubDate>Fri, 16 Oct 2026 13:25:08 +0000</pubDate>
+    </item>    <item>
+      <title>NASA’s Hubble Spies Spiral’s Edge</title>
+      <link>https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/</link>
+      <description>
+        <![CDATA[This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.]]>
+      </description>
+      <source:markdown>This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/</guid>
+      <category>Astrophysics</category>
+      <category>Astrophysics Division</category>
+      <category>Galaxies</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Hubble Space Telescope</category>
+      <category>Spiral Galaxies</category>
+      <pubDate>Fri, 16 Oct 2026 12:42:08 +0000</pubDate>
     </item>    <item>
       <title>A Monumental 18th-Century Portrait of a Young Polynesian Man—a &#39;Supreme Work of Art&#39;—Visits the U.S. for the First Time</title>
       <link>https://www.smithsonianmag.com/smart-news/a-monumental-18th-century-portrait-of-a-young-polynesian-man-a-supreme-work-of-art-visits-the-us-for-the-first-time-180989699/</link>
@@ -65,6 +219,11 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back.</source:markdown>
       <guid>cid://https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/</guid>
+      <category>Earth Observatory</category>
+      <category>Extreme Weather Events</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Landsat 9</category>
+      <category>NOAA-20 (JPSS-1)</category>
       <pubDate>Fri, 16 Oct 2026 04:00:00 +0000</pubDate>
     </item>    <item>
       <title>VSI launches how-to portal for OpenVMS</title>
@@ -114,6 +273,13 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       </description>
       <source:markdown>NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring the Red Planet. The mission aims to characterize and determine the origin of Mars’ moons Phobos and Deimos and deliver a sample \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/</guid>
+      <category>Mars</category>
+      <category>Mars Exploration Program</category>
+      <category>Mars Moons</category>
+      <category>Martian Moon Exploration (MMX)</category>
+      <category>Phobos</category>
+      <category>Planetary Science Division</category>
+      <category>Science Mission Directorate</category>
       <pubDate>Thu, 15 Oct 2026 19:58:08 +0000</pubDate>
     </item>    <item>
       <title>This Soldier Kept a Diary in the Trenches of World War I. A Child Found It at the Dump Decades Later, Pierced by a Bullet and Stained With Blood</title>
@@ -3507,258 +3673,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/</guid>
       <category>APOD</category>
       <pubDate>Sat, 26 Sep 2026 04:05:00 +0000</pubDate>
-    </item>    <item>
-      <title>Amiga screens: a primer</title>
-      <link>https://www.osnews.com/story/146031/amiga-screens-a-orimer/</link>
-      <description>
-        <![CDATA[One of the unwritten rules of the Internet seems to be that whenever something Amiga-related is mentioned, at least one Amiga fan (myself included) must show up and try to explain the concept of screens. Amiga screens can have different resolutions, we&#8217;ll tell you, and one can drag them, we&#8217;ll say, and other Amiga users rally in agreement, while non-Amiga users probably still don&#8217;t get what&#8217;s so great about screens. Until now, when this text has been written, in the hope of converting unsuspecting normies into full-blown Amiga screen lovers. ↫ Carl Svensson A deeply technical look at not just how the Amiga managed to achieve this stunning functionality way back in the &#8217;80s on machines with 7MHz and less RAM than a keyfob, but also how this functionality can be useful. I&#8217;ve always found the concept of screens on the Amiga quite interesting, and Svensson&#8217;s article does a great job at demystifying the whole concept. Of course, expect a lot of lovely Amiga OS screenshots.]]>
-      </description>
-      <source:markdown>One of the unwritten rules of the Internet seems to be that whenever something Amiga-related is mentioned, at least one Amiga fan (myself included) must show up and try to explain the concept of screens. Amiga screens can have different resolutions, we’ll tell you, and one can drag them, we’ll say, and other Amiga users rally in agreement, while non-Amiga users probably still don’t get what’s so great about screens. Until now, when this text has been written, in the hope of converting unsuspecting normies into full-blown Amiga screen lovers. ↫ Carl Svensson A deeply technical look at not just how the Amiga managed to achieve this stunning functionality way back in the ’80s on machines with 7MHz and less RAM than a keyfob, but also how this functionality can be useful. I’ve always found the concept of screens on the Amiga quite interesting, and Svensson’s article does a great job at demystifying the whole concept. Of course, expect a lot of lovely Amiga OS screenshots.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=146031</guid>
-      <category>Amiga &#38; AROS</category>
-      <pubDate>Fri, 25 Sep 2026 23:10:13 +0000</pubDate>
-    </item>    <item>
-      <title>Redox runs Qemu, gets multicore support for ARM</title>
-      <link>https://www.osnews.com/story/146029/redox-runs-qemu-gets-multicore-support-for-arm/</link>
-      <description>
-        <![CDATA[It&#8217;s time for an overview of another month of Redox OS progress, and over the month of August &#8211; they&#8217;re a bit late, don&#8217;t believe the publication date &#8211; they&#8217;ve implemented multicore support for ARM, and considerably improved the I/O performance for the NVMe driver, RedoxFS, and RAMFS by implementing a ring buffer communication API. There&#8217;s also initial support for NUMA-based memory management, QEMU is now working on Redox, and much more. Of course, there&#8217;s also the usual long list of improvements to the kernel, relibc, drivers, and more.]]>
-      </description>
-      <source:markdown>It’s time for an overview of another month of Redox OS progress, and over the month of August – they’re a bit late, don’t believe the publication date – they’ve implemented multicore support for ARM, and considerably improved the I/O performance for the NVMe driver, RedoxFS, and RAMFS by implementing a ring buffer communication API. There’s also initial support for NUMA-based memory management, QEMU is now working on Redox, and much more. Of course, there’s also the usual long list of improvements to the kernel, relibc, drivers, and more.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=146029</guid>
-      <category>Redox OS</category>
-      <pubDate>Fri, 25 Sep 2026 22:44:13 +0000</pubDate>
-    </item>    <item>
-      <title>JagOS ‘Spot’ turns Atari Jaguar into the unreleased Atari Painter prototype computer</title>
-      <link>https://www.osnews.com/story/146020/jagos-spot-turns-atari-jaguar-into-the-unreleased-atari-painter-prototype-computer/</link>
-      <description>
-        <![CDATA[Can you run an operating system with a graphical user interface and applications on the Atari Jaguar? Well, you can. A long time running idea and work-in-progress, I&#8217;d like to finally announce the current version of JagOS &#8216;Spot&#8217; for the Atari Jaguar, running from the RetroHQ GameDrive. I&#8217;m slow at releasing things and try not to announce in-progress stuff due to lack of free time but would like to push this along. Maybe it&#8217;ll motivate me to work on it more if the interest is there or just release it as-is if not. The idea is based on the unreleased Atari Jaguar Painter Computer prototype, that a merged Falcon with Jaguar chipset-based computer would have found its way into consumer hands after the Falcon030. ↫ Clint Thompson The screenshots and YouTube video are quite impressive, but as it&#8217;s not actually released, it&#8217;s difficult to really say anything more about this project for now. I hope there&#8217;s enough interest to get this project&#8217;s code out there so it can be further improved and expanded.]]>
-      </description>
-      <source:markdown>Can you run an operating system with a graphical user interface and applications on the Atari Jaguar? Well, you can. A long time running idea and work-in-progress, I’d like to finally announce the current version of JagOS ‘Spot’ for the Atari Jaguar, running from the RetroHQ GameDrive. I’m slow at releasing things and try not to announce in-progress stuff due to lack of free time but would like to push this along. Maybe it’ll motivate me to work on it more if the interest is there or just release it as-is if not. The idea is based on the unreleased Atari Jaguar Painter Computer prototype, that a merged Falcon with Jaguar chipset-based computer would have found its way into consumer hands after the Falcon030. ↫ Clint Thompson The screenshots and YouTube video are quite impressive, but as it’s not actually released, it’s difficult to really say anything more about this project for now. I hope there’s enough interest to get this project’s code out there so it can be further improved and expanded.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=146020</guid>
-      <category>OS News</category>
-      <pubDate>Fri, 25 Sep 2026 22:38:42 +0000</pubDate>
-    </item>    <item>
-      <title>NASA, Boeing to Provide Update on Starliner Development</title>
-      <link>https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/</link>
-      <description>
-        <![CDATA[During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to watch online: https://www.nasa.gov/live The briefing participants include: Media already credentialed for Crew-13 may participate in person at NASA’s Kennedy [&#8230;]]]>
-      </description>
-      <source:markdown>During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to watch online: https://www.nasa.gov/live The briefing participants include: Media already credentialed for Crew-13 may participate in person at NASA’s Kennedy \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1050672</guid>
-      <category>International Space Station (ISS)</category>
-      <category>Commercial Space</category>
-      <category>Low Earth Orbit Economy</category>
-      <pubDate>Fri, 25 Sep 2026 22:06:50 +0000</pubDate>
-    </item>    <item>
-      <title>Mysterious &#39;Anomalies&#39; Have Been Detected Beyond King Tut&#39;s Tomb. Could They Be Secret Passageways Leading to the Long-Lost Remains of Queen Nefertiti?</title>
-      <link>https://www.smithsonianmag.com/smart-news/mysterious-anomalies-have-been-detected-beyond-king-tuts-tomb-could-they-be-secret-passageways-leading-to-the-long-lost-remains-of-queen-nefertiti-180989576/</link>
-      <description>
-        <![CDATA[Geophysical surveys provide new evidence for a theory that the Egyptian pharaoh was interred in the outer rooms of an existing burial complex. Researchers are trying to get approval to investigate for themselves]]>
-      </description>
-      <source:markdown>Geophysical surveys provide new evidence for a theory that the Egyptian pharaoh was interred in the outer rooms of an existing burial complex. Researchers are trying to get approval to investigate for themselves</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ks82A7LDdM5OoMitjsPA-0Df6Vk=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/67/cb/67cb50d9-fce7-4660-ab6d-568ffe85a9b0/tut.jpg" length="626788" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/mysterious-anomalies-have-been-detected-beyond-king-tuts-tomb-could-they-be-secret-passageways-leading-to-the-long-lost-remains-of-queen-nefertiti-180989576/</guid>
-      <pubDate>Fri, 25 Sep 2026 21:08:36 +0000</pubDate>
-    </item>    <item>
-      <title>In a First, Sea Turtles Were Spotted Nesting on the U.S. West Coast. Scientists Say the &#39;Super&#39; El Niño Could Have Brought Them There</title>
-      <link>https://www.smithsonianmag.com/smart-news/in-a-first-sea-turtles-were-spotted-nesting-on-the-us-west-coast-scientists-say-the-super-el-nino-could-have-brought-them-there-180989574/</link>
-      <description>
-        <![CDATA[Two olive ridley turtles were found laying eggs on beaches in Southern California in September. In the Pacific Ocean, these reptiles normally nest farther south, often in Mexico, Nicaragua, Costa Rica and Panama]]>
-      </description>
-      <source:markdown>Two olive ridley turtles were found laying eggs on beaches in Southern California in September. In the Pacific Ocean, these reptiles normally nest farther south, often in Mexico, Nicaragua, Costa Rica and Panama</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/D-Npq0DIiuKirQjyPOCwOFVtZQQ=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/37/a2/37a2a3e3-0258-4b23-87cf-13af4e698411/smithsonian_feature_images_24.png" length="3557319" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/in-a-first-sea-turtles-were-spotted-nesting-on-the-us-west-coast-scientists-say-the-super-el-nino-could-have-brought-them-there-180989574/</guid>
-      <pubDate>Fri, 25 Sep 2026 20:24:20 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Welcomes San Marino Signing the Artemis Accords</title>
-      <link>https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/</link>
-      <description>
-        <![CDATA[The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present.   “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space,” said NASA Deputy Administrator [&#8230;]]]>
-      </description>
-      <source:markdown>The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present.   “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space,” said NASA Deputy Administrator \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1050600</guid>
-      <category>Office of International and Interagency Relations (OIIR)</category>
-      <category>Artemis Accords</category>
-      <pubDate>Fri, 25 Sep 2026 19:53:03 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch</title>
-      <link>https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/</link>
-      <description>
-        <![CDATA[Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests on a new small satellite designed to make spaceflight safer [&#8230;]]]>
-      </description>
-      <source:markdown>Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests on a new small satellite designed to make spaceflight safer \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1050570</guid>
-      <category>Research and Technology Mission Directorate</category>
-      <category>CubeSats</category>
-      <category>Marshall Space Flight Center</category>
-      <pubDate>Fri, 25 Sep 2026 19:36:10 +0000</pubDate>
-    </item>    <item>
-      <title>Hitler Had an Intense, Mysterious Relationship With His Half-Niece. New Research Suggests His Alibi for Her Murder Might Not Hold Up</title>
-      <link>https://www.smithsonianmag.com/smart-news/hitler-had-an-intense-mysterious-relationship-with-his-half-niece-new-research-suggests-his-alibi-for-her-murder-might-not-hold-up-180989572/</link>
-      <description>
-        <![CDATA[Recently uncovered documents about the timing of Geli Raubal’s death cast new doubt on the Nazi leader’s alibi, which had been considered reasonably sound for nearly a century]]>
-      </description>
-      <source:markdown>Recently uncovered documents about the timing of Geli Raubal’s death cast new doubt on the Nazi leader’s alibi, which had been considered reasonably sound for nearly a century</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/iU7R-ACwPCaD9NcIPnX4KP9XInE=/420x240/filters:focal(1916x1277:1917x1278)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b6/f7/b6f771b8-a427-42f4-bde3-52aaba2da286/gettyimages-541794949.jpg" length="1136757" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/hitler-had-an-intense-mysterious-relationship-with-his-half-niece-new-research-suggests-his-alibi-for-her-murder-might-not-hold-up-180989572/</guid>
-      <pubDate>Fri, 25 Sep 2026 19:07:56 +0000</pubDate>
-    </item>    <item>
-      <title>Two New Stick Insect Species Have Been Discovered in Australia—and Another One Was Hiding in Plain Sight</title>
-      <link>https://www.smithsonianmag.com/smart-news/two-new-stick-insect-species-have-been-discovered-in-australiaand-another-one-was-hiding-in-plain-sight-180989575/</link>
-      <description>
-        <![CDATA[The new discoveries emphasize that scientists have a lot left to learn about insect diversity, even in areas with many observations]]>
-      </description>
-      <source:markdown>The new discoveries emphasize that scientists have a lot left to learn about insect diversity, even in areas with many observations</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jPCib-s7FZd7gQJP35seTjiOVEI=/420x240/filters:focal(992x661:993x662)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/50/e9/50e99089-da9f-4a3d-896e-28f2bd58ca21/aen70096-fig-0001-m.jpg" length="714180" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/two-new-stick-insect-species-have-been-discovered-in-australiaand-another-one-was-hiding-in-plain-sight-180989575/</guid>
-      <pubDate>Fri, 25 Sep 2026 19:03:30 +0000</pubDate>
-    </item>    <item>
-      <title>Scientists Invent a Digestible, Paper-Based Battery That Can Power Swallowed or Implanted Medical Devices</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-invent-a-digestible-paper-based-battery-that-can-power-swallowed-or-implanted-medical-devices-180989549/</link>
-      <description>
-        <![CDATA[So far, the technology has been tested only in pigs. If it's successful in humans, it could one day power tools that monitor your health or deliver drugs or electrical currents inside the body]]>
-      </description>
-      <source:markdown>So far, the technology has been tested only in pigs. If it&#39;s successful in humans, it could one day power tools that monitor your health or deliver drugs or electrical currents inside the body</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/a2CDwyfZrRzsswovbsf6PjFzwik=/420x240/filters:focal(450x300:451x301)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b3/5d/b35d927c-99db-4447-80d5-53df2c4600cf/mit-bioreabsorb-01-press_0.jpg" length="347436" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-invent-a-digestible-paper-based-battery-that-can-power-swallowed-or-implanted-medical-devices-180989549/</guid>
-      <pubDate>Fri, 25 Sep 2026 18:37:27 +0000</pubDate>
-    </item>    <item>
-      <title>2026-2027 DWU: Middle School Design Challenge</title>
-      <link>https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/</link>
-      <description>
-        <![CDATA[2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.”&#160; As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, make [&#8230;]]]>
-      </description>
-      <source:markdown>2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.”  As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, make \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1045213</guid>
-      <category>Aeronautics STEM</category>
-      <pubDate>Fri, 25 Sep 2026 17:20:51 +0000</pubDate>
-    </item>    <item>
-      <title>2026-2027 DWU: High School Engineering Challenge</title>
-      <link>https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/</link>
-      <description>
-        <![CDATA[2026-2027 DWU: High School Engineering Challenge Challenge Materials Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA,&#160;at universities, and in the aviation industry are searching for ways to increase safety, [&#8230;]]]>
-      </description>
-      <source:markdown>2026-2027 DWU: High School Engineering Challenge Challenge Materials Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1044122</guid>
-      <category>Aeronautics STEM</category>
-      <pubDate>Fri, 25 Sep 2026 17:19:42 +0000</pubDate>
-    </item>    <item>
-      <title>Hubble Spots Chaotic Secret in Galaxy</title>
-      <link>https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/</link>
-      <description>
-        <![CDATA[A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA&#8217;s Hubble Space Telescope and released on Sept. 18, 2026. As a spiral galaxy like our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disk of stars, gas, and dust. These arms [&#8230;]]]>
-      </description>
-      <source:markdown>A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA’s Hubble Space Telescope and released on Sept. 18, 2026. As a spiral galaxy like our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disk of stars, gas, and dust. These arms \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1050096</guid>
-      <category>Spiral Galaxies</category>
-      <pubDate>Fri, 25 Sep 2026 15:54:10 +0000</pubDate>
-    </item>    <item>
-      <title>Two Thousand Years Ago, Julius Caesar Conquered the Settlement That Eventually Became Paris. Archaeologists May Have Just Found It</title>
-      <link>https://www.smithsonianmag.com/smart-news/two-thousand-years-ago-julius-caesar-conquered-the-settlement-that-eventually-became-paris-archaeologists-may-have-just-found-it-180989569/</link>
-      <description>
-        <![CDATA[While conducting excavations at a hospital on the Île de la Cité, in the Seine River, researchers discovered part of a wall that may have once protected Lutetia, the Gallic precursor to France’s capital]]>
-      </description>
-      <source:markdown>While conducting excavations at a hospital on the Île de la Cité, in the Seine River, researchers discovered part of a wall that may have once protected Lutetia, the Gallic precursor to France’s capital</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/8kxMESGE-tZqAQYUPO61Eie6EEA=/420x240/filters:focal(412x275:413x276)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a6/69/a66911ad-542f-4d10-8daa-eacfc5f26304/7f5eed1406ef-image5-sitewebp.webp" length="70770" type="image/webp" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/two-thousand-years-ago-julius-caesar-conquered-the-settlement-that-eventually-became-paris-archaeologists-may-have-just-found-it-180989569/</guid>
-      <pubDate>Fri, 25 Sep 2026 15:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>TB 26-07 Aluminum Alloy 2219 Material Guidance</title>
-      <link>https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/</link>
-      <description>
-        <![CDATA[For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.parker@nasa.gov Download the PDF version Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to microstructural defects that result in a sub-optimal response to anodic surface treatments and an increase in corrosion susceptibility. This Technical Bulletin communicates the risks of [&#8230;]]]>
-      </description>
-      <source:markdown>For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.parker@nasa.gov Download the PDF version Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to microstructural defects that result in a sub-optimal response to anodic surface treatments and an increase in corrosion susceptibility. This Technical Bulletin communicates the risks of \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1050431</guid>
-      <category>NASA Engineering and Safety Center</category>
-      <pubDate>Fri, 25 Sep 2026 14:45:51 +0000</pubDate>
-    </item>    <item>
-      <title>Gravity Seems Holographic. What Does That Mean for Reality?</title>
-      <link>https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/</link>
-      <description>
-        <![CDATA[The biggest breakthrough in modern theoretical physics is the discovery that gravity can collapse the dimensions of space. Physicists don’t yet understand the implications.            <p>The post <a href="https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/" target="_blank">Gravity Seems Holographic. What Does That Mean for Reality?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>The biggest breakthrough in modern theoretical physics is the discovery that gravity can collapse the dimensions of space. Physicists don’t yet understand the implications.
-
-The post [Gravity Seems Holographic. What Does That Mean for Reality?](https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=167403</guid>
-      <category>Physics</category>
-      <pubDate>Fri, 25 Sep 2026 14:40:26 +0000</pubDate>
-    </item>    <item>
-      <title>Where Did Bats Originate? Huge Genetic Study May Have Settled the Longstanding Debate and Rewritten the Creatures&#39; Evolutionary Tree</title>
-      <link>https://www.smithsonianmag.com/smart-news/where-did-bats-originate-huge-genetic-study-may-have-settled-the-longstanding-debate-and-rewritten-the-creatures-evolutionary-tree-180989568/</link>
-      <description>
-        <![CDATA[The flying mammals likely arose 65 million years ago in Europe, before spreading to Africa and then the rest of the world, according to the new research]]>
-      </description>
-      <source:markdown>The flying mammals likely arose 65 million years ago in Europe, before spreading to Africa and then the rest of the world, according to the new research</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/uuEuehsJazuE5uGnWRcdlXpjP5k=/420x240/filters:focal(1112x953:1113x954)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/90/d9/90d902fa-11d3-4e16-a7b8-e242a46643dc/common_vampire_bat_desmodus_rotundus_credit_brock_and_sherri_fenton.jpg" length="1043630" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/where-did-bats-originate-huge-genetic-study-may-have-settled-the-longstanding-debate-and-rewritten-the-creatures-evolutionary-tree-180989568/</guid>
-      <pubDate>Fri, 25 Sep 2026 14:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>See a Stunning Collection of Stolen Greek Artifacts, Spanning 5,000 Years, That Were Just Returned to Greece</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-a-stunning-collection-of-stolen-greek-artifacts-spanning-5000-years-that-were-just-returned-to-greece-180989566/</link>
-      <description>
-        <![CDATA[The antiquities were seized at the Metropolitan Museum of Art by investigators from the office of Manhattan District Attorney Alvin L. Bragg Jr.]]>
-      </description>
-      <source:markdown>The antiquities were seized at the Metropolitan Museum of Art by investigators from the office of Manhattan District Attorney Alvin L. Bragg Jr.</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/est9W790asbItr66t9QSn-kemqo=/420x240/filters:focal(600x400:601x401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e6/36/e636b185-79c0-4391-9026-b5a1ca490cd1/4_______-787b484df8505720c52d3086a2927b91.jpeg" length="506970" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-a-stunning-collection-of-stolen-greek-artifacts-spanning-5000-years-that-were-just-returned-to-greece-180989566/</guid>
-      <pubDate>Fri, 25 Sep 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>&#39;Super&#39; El Niño is coming. What should you expect?</title>
-      <link>https://www.npr.org/2026/09/25/nx-s1-5953022/weather-super-rain-climate-extreme-godzilla-el-nino</link>
-      <description>
-        <![CDATA[The world is bracing for the worst effects of a Super El Niño. Or a Godzilla El Niño. But what does that really even mean?<br/><br/>For millennia El Niño has shaped weather across the globe, fueling flooding in parts of the U.S., droughts and wildfires in Australia and Indonesia, and disrupting fisheries across the Pacific.<br/><br/>Scientists have long wondered if human activities — chiefly the burning of fossil fuels — are making El Niños stronger. Now, on the eve of the strongest El Niño on record, a team of researchers think they have an answer.<br/><br/><em>Interested in more science behind the weather? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>.</em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>The world is bracing for the worst effects of a Super El Niño. Or a Godzilla El Niño. But what does that really even mean?
-
-For millennia El Niño has shaped weather across the globe, fueling flooding in parts of the U.S., droughts and wildfires in Australia and Indonesia, and disrupting fisheries across the Pacific.
-
-Scientists have long wondered if human activities — chiefly the burning of fossil fuels — are making El Niños stronger. Now, on the eve of the strongest El Niño on record, a team of researchers think they have an answer.
-
-_Interested in more science behind the weather? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/4a7dd3ff-a325-45f0-9ddb-183108a64806/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=4a7dd3ff-a325-45f0-9ddb-183108a64806&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-5953022&#38;p=510351&#38;d=751&#38;size=12017624" length="12017624" type="audio/mpeg" />
-      <guid>cid://789e05a2-e656-4d61-960d-dc615acf8aa6</guid>
-      <pubDate>Fri, 25 Sep 2026 07:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>We’ve been here before: Qualcomm promises Linux support for Snapdragon X2</title>
-      <link>https://www.osnews.com/story/146022/weve-been-here-before-qualcomm-promises-linux-support-for-snapdragon-x2/</link>
-      <description>
-        <![CDATA[Qualcomm, yesterday, promising Linux support for the new Snapdragon X2 processors: Linux on Snapdragon X2 Series is moving from early bring-up toward a more complete upstream developer experience. Core support is landing, Hexagon NPU and Adreno GPU work is progressing, and real laptops with Snapdragon X2 Series processors are already beginning to boot Linux. ↫ Qualcomm&#8217;s promises from 2026 Interesting, but I feel like I&#8217;ve heard these exact words before. Qualcomm, two years ago, promising Linux support for the then-new Snapdragon X processors: It’s been our priority not only to support Linux on our premium-tier SoCs, but to support it pronto. In fact, within one or two days of publicly announcing each generation of Snapdragon 8, we’ve posted the initial patchset for Linux kernel support. Snapdragon X Elite was no exception: we announced on October 23 of last year and posted the patchset the next day. That was the result of a lot of pre-announcement work to get everything up and running on Linux and Debian. ↫ Qualcomm&#8217;s empty promises from 2024 These promises were not at all kept. Two years later, Linux support for Snapdragon X laptops is still spotty, broken, and limited, confined to just a few bespoke Ubuntu builds, which don&#8217;t even offer full support either. It&#8217;s a complete mess, effectively unusable, and highlights once again that big technology companies are compulsive liars. I have little faith in these new promises, but who knows &#8211; maybe this time it&#8217;ll be different. Probably not, though.]]>
-      </description>
-      <source:markdown>Qualcomm, yesterday, promising Linux support for the new Snapdragon X2 processors: Linux on Snapdragon X2 Series is moving from early bring-up toward a more complete upstream developer experience. Core support is landing, Hexagon NPU and Adreno GPU work is progressing, and real laptops with Snapdragon X2 Series processors are already beginning to boot Linux. ↫ Qualcomm’s promises from 2026 Interesting, but I feel like I’ve heard these exact words before. Qualcomm, two years ago, promising Linux support for the then-new Snapdragon X processors: It’s been our priority not only to support Linux on our premium-tier SoCs, but to support it pronto. In fact, within one or two days of publicly announcing each generation of Snapdragon 8, we’ve posted the initial patchset for Linux kernel support. Snapdragon X Elite was no exception: we announced on October 23 of last year and posted the patchset the next day. That was the result of a lot of pre-announcement work to get everything up and running on Linux and Debian. ↫ Qualcomm’s empty promises from 2024 These promises were not at all kept. Two years later, Linux support for Snapdragon X laptops is still spotty, broken, and limited, confined to just a few bespoke Ubuntu builds, which don’t even offer full support either. It’s a complete mess, effectively unusable, and highlights once again that big technology companies are compulsive liars. I have little faith in these new promises, but who knows – maybe this time it’ll be different. Probably not, though.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=146022</guid>
-      <category>Linux</category>
-      <pubDate>Fri, 25 Sep 2026 06:30:55 +0000</pubDate>
-    </item>    <item>
-      <title>APOD: 2026 September 25 – Globular Star Cluster Omega Centauri</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 September 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Globular Cluster Omega [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 September 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Globular Cluster Omega \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/</guid>
-      <category>APOD</category>
-      <pubDate>Fri, 25 Sep 2026 04:05:00 +0000</pubDate>
-    </item>    <item>
-      <title>Explosive Intensification for Hurricane Polo</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/</link>
-      <description>
-        <![CDATA[Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen.]]>
-      </description>
-      <source:markdown>Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/</guid>
-      <category>Aqua</category>
-      <category>Earth Observatory</category>
-      <category>Hurricanes &#38; Typhoons</category>
-      <category>Moderate Resolution Imaging Spectroradiometer (MODIS)</category>
-      <pubDate>Fri, 25 Sep 2026 04:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
