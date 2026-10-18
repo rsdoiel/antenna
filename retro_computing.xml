@@ -4,10 +4,88 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>17 Oct 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>18 Oct 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>RCI updates Heroes of Might and Magic 2</title>
+      <link>http://www.iconbar.com/comments/rss/news2397.html</link>
+      <description>
+        <![CDATA[Lots of news in the run-up to the London Show next week.]]>
+      </description>
+      <source:markdown>Lots of news in the run-up to the London Show next week.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2397.html</guid>
+      <pubDate>Sun, 18 Oct 2026 13:11:00 +0000</pubDate>
+    </item>    <item>
+      <title>RCI updates Heroes of Might and Magic 2</title>
+      <link>http://www.acornarcade.com/comments/rss/news2397.html</link>
+      <description>
+        <![CDATA[Lots of news in the run-up to the London Show next week.]]>
+      </description>
+      <source:markdown>Lots of news in the run-up to the London Show next week.</source:markdown>
+      <guid>cid://http://www.acornarcade.com/comments/rss/news2397.html</guid>
+      <pubDate>Sun, 18 Oct 2026 13:11:00 +0000</pubDate>
+    </item>    <item>
+      <title>RISC OS Open source developments weekly update (17th October 2026)</title>
+      <link>http://www.iconbar.com/comments/rss/news2396.html</link>
+      <description>
+        <![CDATA[Here are some of the things that I spotted which happened in the RISC OS Open source world this week...]]>
+      </description>
+      <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2396.html</guid>
+      <pubDate>Sat, 17 Oct 2026 20:20:00 +0000</pubDate>
+    </item>    <item>
+      <title>Updated mTCP</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/10/updated-mtcp/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>mTCP is a set of TCP/IP programs for your PC compatible computers running DOS. Mike Brutman recently announced that a new mTCP is available! This version has some bug fixes, adds black and white Sixel graphics to Telnet, makes Ping more accurate, and has major performance improvements for NetDrive. The HTTP server source code is also now included. Download the new from from the <a href="https://www.brutman.com/mTCP/mTCP.html" rel="nofollow">mTCP website</a></p></div>]]>
+      </description>
+      <source:markdown>mTCP is a set of TCP/IP programs for your PC compatible computers running DOS. Mike Brutman recently announced that a new mTCP is available! This version has some bug fixes, adds black and white Sixel graphics to Telnet, makes Ping more accurate, and has major performance improvements for NetDrive. The HTTP server source code is also now included. Download the new from from the [mTCP website](https://www.brutman.com/mTCP/mTCP.html)</source:markdown>
+      <guid>cid://https://sourceforge.netbd309f6fc7e22c26428cd36a0cc591603eb4ee46</guid>
+      <pubDate>Sat, 17 Oct 2026 18:54:19 +0000</pubDate>
+    </item>    <item>
+      <title>RISC OS Developments brings you the RISC OS Renaissance Project</title>
+      <link>https://www.riscository.com/2026/risc-os-developments-renaissance-project/</link>
+      <description>
+        <![CDATA[With the London Show now just a week away &#8211; technically less given that it&#8217;s now the evening of the 17th &#8211; the announcements have started to appear, and RISCOSitory has had to switch to &#8216;just quote &#8217;em in full&#8217; mode (with the occasional tweak to make them suit the medium, and stylistic changes here and there). Here&#8217;s a very interesting one from RISC OS Developments: Those who watched Andrew&#8217;s presentation to the Wakefield User Group in September this year will have already heard an introduction to the RISC OS&#8230;]]>
+      </description>
+      <source:markdown>With the London Show now just a week away – technically less given that it’s now the evening of the 17th – the announcements have started to appear, and RISCOSitory has had to switch to ‘just quote ’em in full’ mode (with the occasional tweak to make them suit the medium, and stylistic changes here and there). Here’s a very interesting one from RISC OS Developments: Those who watched Andrew’s presentation to the Wakefield User Group in September this year will have already heard an introduction to the RISC OS…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11096</guid>
+      <category>Announcements</category>
+      <category>London Show</category>
+      <category>Renaissance</category>
+      <category>RISC OS Developments</category>
+      <pubDate>Sat, 17 Oct 2026 18:53:20 +0000</pubDate>
+    </item>    <item>
+      <title>Join ROUGOL for a chase through space – 19th October</title>
+      <link>https://www.riscository.com/2026/rougol-space-chase-19th-october/</link>
+      <description>
+        <![CDATA[Neatly following last month&#8217;s meeting, in which Mark Moxon showed off his two player, split screen version of Elite, this month the RISC OS User Group of London (ROUGOL) will be treated to a RISC OS game under development by Nick Anderson &#8211; aka jankfactor &#8211; inspired by the flight and fight aspects of Elite but styled as an arcade action combat game. Called Space Chase, the game is pretty much what it says on the tin: you&#8217;ll play as a cop, and you chase another ship through space with&#8230;]]>
+      </description>
+      <source:markdown>Neatly following last month’s meeting, in which Mark Moxon showed off his two player, split screen version of Elite, this month the RISC OS User Group of London (ROUGOL) will be treated to a RISC OS game under development by Nick Anderson – aka jankfactor – inspired by the flight and fight aspects of Elite but styled as an arcade action combat game. Called Space Chase, the game is pretty much what it says on the tin: you’ll play as a cop, and you chase another ship through space with…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11094</guid>
+      <category>User groups</category>
+      <category>Game</category>
+      <category>Meeting</category>
+      <category>ROUGOL</category>
+      <category>Space Chase</category>
+      <category>User Group</category>
+      <pubDate>Sat, 17 Oct 2026 18:34:01 +0000</pubDate>
+    </item>    <item>
+      <title>Heroes of Might and Magic II now available for modern RISC OS machines</title>
+      <link>https://www.riscository.com/2026/hommii-for-modern-risc-os/</link>
+      <description>
+        <![CDATA[An new version of turn-based fantasy strategy game Heroes of Might and Magic II is available from R-Comp Interactive, and can be purchased for £18.99 from !Store, or by popping along to the R-Comp stand at next week&#8217;s London Show. Here is the press release sent out by Andrew Rawnsley announcing the release: RCI is pleased to announce that Heroes of Might and Magic 2 has returned to RISC OS after an extended absence (the original version wasn&#8217;t 32-bit compatible). The new version is aimed at 32-bit RISC OS 5&#8230;]]>
+      </description>
+      <source:markdown>An new version of turn-based fantasy strategy game Heroes of Might and Magic II is available from R-Comp Interactive, and can be purchased for £18.99 from !Store, or by popping along to the R-Comp stand at next week’s London Show. Here is the press release sent out by Andrew Rawnsley announcing the release: RCI is pleased to announce that Heroes of Might and Magic 2 has returned to RISC OS after an extended absence (the original version wasn’t 32-bit compatible). The new version is aimed at 32-bit RISC OS 5…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11091</guid>
+      <category>Software</category>
+      <category>Game</category>
+      <category>Heroes of Might and Magic II</category>
+      <category>London Show</category>
+      <category>R-Comp</category>
+      <pubDate>Sat, 17 Oct 2026 18:02:16 +0000</pubDate>
+    </item>    <item>
       <title>RISC OS London Show is next saturday</title>
       <link>http://www.iconbar.com/comments/rss/news2395.html</link>
       <description>
@@ -2393,49 +2471,6 @@ Over their production lifetime, analysis of known serial numbers suggests around
 We announced the previous 0.99.8254e version a few days ago: &#34;Newest version released is a massive bug fix with the networking a bit&#34; and adds &#34;It just needs 640k of RAM with 480k of free RAM.&#34; You can find it at [FDNPKG16 on GitHub](https://github.com/sparky4/fdnpkg16) or more directly at the [ver. 0.99.8254e release](https://github.com/sparky4/fdnpkg16/releases/tag/0.99.8254e)</source:markdown>
       <guid>cid://https://sourceforge.net89e6e5efd72e38752a68e6987f11fe826cebadda</guid>
       <pubDate>Sun, 27 Sep 2026 17:05:13 +0000</pubDate>
-    </item>    <item>
-      <title>RISC OS Open source developments weekly update (26th September 2026)</title>
-      <link>http://www.iconbar.com/comments/rss/news2383.html</link>
-      <description>
-        <![CDATA[Here are some of the things that I spotted which happened in the RISC OS Open source world this week...]]>
-      </description>
-      <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2383.html</guid>
-      <pubDate>Sat, 26 Sep 2026 21:29:00 +0000</pubDate>
-    </item>    <item>
-      <title>b.log 2026/09/26 - Illness, EDF and the double failure, The Pope ought to shut up about things he doesn&#39;t understand, Why Does C# Sound Wrong?, The notes that aren&#39;t actually there.</title>
-      <link>https://heyrick.eu/blog/entry/20260926</link>
-      <description>
-        <![CDATA[Illness, EDF and the double failure, The Pope ought to shut up about things he doesn't understand, Why Does C# Sound Wrong?, The notes that aren't actually there.]]>
-      </description>
-      <source:markdown>Illness, EDF and the double failure, The Pope ought to shut up about things he doesn&#39;t understand, Why Does C# Sound Wrong?, The notes that aren&#39;t actually there.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20260926</guid>
-      <pubDate>Sat, 26 Sep 2026 17:23:14 +0000</pubDate>
-    </item>    <item>
-      <title>StrongED test release 4.70a22 now available</title>
-      <link>https://www.riscository.com/2026/stronged-test-release-4-70a22/</link>
-      <description>
-        <![CDATA[If you&#8217;re a bleeding edge user of StrongED, Fred Graute has another updated test release for you to play with: Version 4.70a22 (zip). You can also grab the sources (zip) if you wish to look at them, and if you&#8217;re on version 4.70a19 or higher you can download a smaller update (zip). Changes in this version include: A new &#8216;Diff&#8217; button on the Refresh dialogue box. This performs a &#8216;diff&#8217; analysis against the loaded file compared to the version saved on disc, provided SideDiff is present on your system. The&#8230;]]>
-      </description>
-      <source:markdown>If you’re a bleeding edge user of StrongED, Fred Graute has another updated test release for you to play with: Version 4.70a22 (zip). You can also grab the sources (zip) if you wish to look at them, and if you’re on version 4.70a19 or higher you can download a smaller update (zip). Changes in this version include: A new ‘Diff’ button on the Refresh dialogue box. This performs a ‘diff’ analysis against the loaded file compared to the version saved on disc, provided SideDiff is present on your system. The…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=11072</guid>
-      <category>Software</category>
-      <category>StrongED</category>
-      <category>text editor</category>
-      <pubDate>Sat, 26 Sep 2026 12:53:06 +0000</pubDate>
-    </item>    <item>
-      <title>A mission statement from RISC OS Technologies</title>
-      <link>https://www.riscository.com/2026/risc-os-technologies-mission-statement/</link>
-      <description>
-        <![CDATA[And a look at the use of AI in programming. About a week ago Martin Eastwood, who is using the name RISC OS Technologies for his efforts with the operating system, published a mission statement &#8211; and rather than just quote it and leave it at that, it&#8217;s worth looking a little deeper into what&#8217;s behind it &#8211; chiefly, his use of AI to develop software, and the reaction it has caused. First, however, it does need to be quoted in full: RISC OS Technologies: Mission Statement RISC OS deserves&#8230;]]>
-      </description>
-      <source:markdown>And a look at the use of AI in programming. About a week ago Martin Eastwood, who is using the name RISC OS Technologies for his efforts with the operating system, published a mission statement – and rather than just quote it and leave it at that, it’s worth looking a little deeper into what’s behind it – chiefly, his use of AI to develop software, and the reaction it has caused. First, however, it does need to be quoted in full: RISC OS Technologies: Mission Statement RISC OS deserves…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=11043</guid>
-      <category>Announcements</category>
-      <category>AI</category>
-      <category>RISC OS Technologies</category>
-      <category>Vibe coding</category>
-      <pubDate>Sat, 26 Sep 2026 12:29:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

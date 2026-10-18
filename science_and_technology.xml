@@ -4,10 +4,35 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>17 Oct 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>18 Oct 26 06:47 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sonified: Eagle Nebula [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sonified: Eagle Nebula \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/</guid>
+      <category>APOD</category>
+      <pubDate>Sun, 18 Oct 2026 04:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>RTX Spark Ignites Global Celebration as New Windows PCs Arrive</title>
+      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/</link>
+      <description>
+        <![CDATA[NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.  Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with [&#8230;]]]>
+      </description>
+      <source:markdown>NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.  Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99053</guid>
+      <category>AI</category>
+      <category>Agentic AI</category>
+      <category>Artificial Intelligence</category>
+      <category>Local AI</category>
+      <category>NVIDIA RTX</category>
+      <category>RTX Spark</category>
+      <pubDate>Sat, 17 Oct 2026 21:00:13 +0000</pubDate>
+    </item>    <item>
       <title>APOD: 2026 October 17 – 3D 67P</title>
       <link>https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/</link>
       <description>
@@ -3663,16 +3688,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/</guid>
       <category>APOD</category>
       <pubDate>Sun, 27 Sep 2026 04:05:00 +0000</pubDate>
-    </item>    <item>
-      <title>APOD: 2026 September 26 – Mirrored Meteor and Milky Way</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 September 26 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mirrored Meteor and [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 September 26 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mirrored Meteor and \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/</guid>
-      <category>APOD</category>
-      <pubDate>Sat, 26 Sep 2026 04:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

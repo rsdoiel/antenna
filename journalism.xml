@@ -4,10 +4,80 @@
   <channel>
     <title><![CDATA[Student Paper]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>17 Oct 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>18 Oct 26 06:50 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>UCLA women’s volleyball earns first ranked win 3-2 against Penn State</title>
+      <link>https://dailybruin.com/2026/10/17/ucla-womena-volleyball-earns-first-ranked-win-3-2-against-penn-state/</link>
+      <description>
+        <![CDATA[<em>This post was updated Oct. 17 at 9:29 p.m.</em>
+        Smiles and screams filled the stands of Pauley Pavilion – Friday’s game was Team Day, and young volleyball players admired the tightly contested play on center court.]]>
+      </description>
+      <source:markdown>_This post was updated Oct. 17 at 9:29 p.m._
+Smiles and screams filled the stands of Pauley Pavilion – Friday’s game was Team Day, and young volleyball players admired the tightly contested play on center court.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=517676</guid>
+      <category>Sports</category>
+      <category>Women&#39;s Volleyball</category>
+      <pubDate>Sun, 18 Oct 2026 04:27:36 +0000</pubDate>
+    </item>    <item>
+      <title>California public college students now automatically meet some CalFresh requirements</title>
+      <link>https://dailybruin.com/2026/10/17/california-public-college-students-now-automatically-meet-some-calfresh-requirements/</link>
+      <description>
+        <![CDATA[All public undergraduate college students in California now automatically pass the first barrier to applying to CalFresh, giving more than 200,000 students access to the food assistance program.]]>
+      </description>
+      <source:markdown>All public undergraduate college students in California now automatically pass the first barrier to applying to CalFresh, giving more than 200,000 students access to the food assistance program.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=517672</guid>
+      <category>California</category>
+      <category>Higher Education</category>
+      <category>News</category>
+      <pubDate>Sun, 18 Oct 2026 04:15:45 +0000</pubDate>
+    </item>    <item>
+      <title>Ty Dieffenbach brings winning streak home in UCLA football win over Wisconsin</title>
+      <link>https://dailybruin.com/2026/10/17/ty-dieffenbach-brings-winning-streak-home-in-ucla-football-win-over-wisconsin/</link>
+      <description>
+        <![CDATA[<em>This post was updated Oct. 17 at 9:16 p.m.</em>
+        Saturday had the makings of a childhood dream.&#160;
+        Two Southern California locals playing backyard football in Pasadena – with a rainbow gracing the San Gabriel Mountains at golden hour and a pack of corgis gracing the Rose Bowl at halftime.&#160;
+        However, football doesn’t afford a storybook ending to everyone.&#160;
+        Calabasas, California, local and senior quarterback Ty Dieffenbach led No.]]>
+      </description>
+      <source:markdown>_This post was updated Oct. 17 at 9:16 p.m._
+Saturday had the makings of a childhood dream.
+Two Southern California locals playing backyard football in Pasadena – with a rainbow gracing the San Gabriel Mountains at golden hour and a pack of corgis gracing the Rose Bowl at halftime.
+However, football doesn’t afford a storybook ending to everyone.
+Calabasas, California, local and senior quarterback Ty Dieffenbach led No.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=517666</guid>
+      <category>Football</category>
+      <category>Sports</category>
+      <category>breaking</category>
+      <category>db-story-c1</category>
+      <pubDate>Sun, 18 Oct 2026 03:28:03 +0000</pubDate>
+    </item>    <item>
+      <title>Legal experts warn Meta’s new terms still grant broad scraping permissions, despite language changes</title>
+      <link>https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/</link>
+      <description>
+        <![CDATA[Meta has removed the word &#8220;train&#8221; from its upcoming terms of service for business accounts. The company revised its terms after Nieman Lab&#8217;s story on Thursday exposed that the new terms would permit broad scraping of websites &#8220;associated with&#8221; business accounts, and possibly allow Meta to use that scraped content to train its AI models....]]>
+      </description>
+      <source:markdown>Meta has removed the word “train” from its upcoming terms of service for business accounts. The company revised its terms after Nieman Lab’s story on Thursday exposed that the new terms would permit broad scraping of websites “associated with” business accounts, and possibly allow Meta to use that scraped content to train its AI models....</source:markdown>
+      <enclosure url="https://www.niemanlab.org/images/AdobeStock_1108807119_Editorial_Use_Only-990x623.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.niemanlab.org/?p=254304</guid>
+      <category>Featured Art</category>
+      <category>Regular post</category>
+      <category>AI</category>
+      <category>artificial intelligence</category>
+      <category>content licensing</category>
+      <category>Facebook</category>
+      <category>Instagram</category>
+      <category>meta</category>
+      <category>scraping</category>
+      <category>terms of service</category>
+      <category>Threads</category>
+      <category>TOS</category>
+      <category>training</category>
+      <category>WhatsApp</category>
+      <pubDate>Sat, 17 Oct 2026 18:49:46 +0000</pubDate>
+    </item>    <item>
       <title>Scouting Report: UCLA football vs. Wisconsin</title>
       <link>https://dailybruin.com/2026/10/16/scouting-report-ucla-football-vs-wisconsin/</link>
       <description>
@@ -18,6 +88,7 @@
       <category>Football</category>
       <category>Sports</category>
       <category>Sports Columns</category>
+      <category>db-story-d1</category>
       <pubDate>Sat, 17 Oct 2026 05:42:10 +0000</pubDate>
     </item>    <item>
       <title>Gameday Predictions: UCLA football vs. Wisconsin</title>
@@ -30,6 +101,7 @@
       <category>Football</category>
       <category>Sports</category>
       <category>Sports Columns</category>
+      <category>db-story-c1</category>
       <pubDate>Sat, 17 Oct 2026 05:34:59 +0000</pubDate>
     </item>    <item>
       <title>USAC Recap – Oct. 13</title>
@@ -44,6 +116,7 @@ USAC is the official student government representing the undergraduate student b
       <category>Academics</category>
       <category>News</category>
       <category>Student Government</category>
+      <category>db-story-d2</category>
       <pubDate>Sat, 17 Oct 2026 03:40:51 +0000</pubDate>
     </item>    <item>
       <title>Film Review: ‘Sense and Sensibility’ successfully brings Austen’s classic to the modern screen</title>
@@ -60,6 +133,7 @@ Facing the pressure to live up to Ang Lee’s 1995 adaptation, director Georgia 
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Film &#38; TV</category>
+      <category>db-story-f1</category>
       <pubDate>Sat, 17 Oct 2026 02:11:02 +0000</pubDate>
     </item>    <item>
       <title>Film Review: In enticing Elizabeth Holmes documentary, ‘You Can See Everything’ but the truth</title>
@@ -76,6 +150,7 @@ Released Friday, the documentary captures the 34 days before and the three years
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Film &#38; TV</category>
+      <category>db-story-c2</category>
       <pubDate>Sat, 17 Oct 2026 01:35:43 +0000</pubDate>
     </item>    <item>
       <title>Chaminade Guest Speakers Explore AI, Human Values, the Future of Technology</title>
@@ -100,6 +175,7 @@ There is no protocol. There is no precedent – outside of the 14 other times th
       <guid>cid://https://dailybruin.com/?p=517620</guid>
       <category>Football</category>
       <category>Sports</category>
+      <category>db-story-g</category>
       <pubDate>Fri, 16 Oct 2026 22:50:38 +0000</pubDate>
     </item>    <item>
       <title>Gym rat or lab rat? A UCLA student’s gamble with peptides</title>
@@ -112,6 +188,7 @@ There is no protocol. There is no precedent – outside of the 14 other times th
 A UCLA biochemistry student depresses the rubbery plunger of his syringe as the stack – a peptide blend of TB-500 and BPC-157 lauded for its muscle recovery capabilities – floods his bloodstream.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=517611</guid>
       <category>Prime</category>
+      <category>db-story-a</category>
       <pubDate>Fri, 16 Oct 2026 22:33:14 +0000</pubDate>
     </item>    <item>
       <title>VARK Learning Styles: Why a Popular Study Theory Remains Controversial</title>
@@ -137,6 +214,7 @@ UCLA remains outside the top 25 after falling in all three of its matchups again
       <guid>cid://https://dailybruin.com/?p=517600</guid>
       <category>Sports</category>
       <category>Women&#39;s Volleyball</category>
+      <category>db-story-b</category>
       <pubDate>Fri, 16 Oct 2026 18:47:16 +0000</pubDate>
     </item>    <item>
       <title>Hogan Kickoff Celebration Brings Together Future Entrepreneurs and Business Leaders</title>
@@ -161,7 +239,7 @@ UCLA remains outside the top 25 after falling in all three of its matchups again
       <category>Los Angeles</category>
       <category>News</category>
       <category>Westwood</category>
-      <category>db-story-c1</category>
+      <category>db-story-f2</category>
       <pubDate>Fri, 16 Oct 2026 07:54:49 +0000</pubDate>
     </item>    <item>
       <title>Classifieds – October 16, 2026</title>
@@ -478,7 +556,7 @@ Californians have until Oct. 19 – or 15 days prior to Election Day – to regi
       <guid>cid://https://dailybruin.com/?p=517571</guid>
       <category>Politics</category>
       <category>The Quad</category>
-      <category>db-story-a</category>
+      <category>db-story-i</category>
       <pubDate>Fri, 16 Oct 2026 06:13:25 +0000</pubDate>
     </item>    <item>
       <title>Daily Bruin Print Issue – Oct. 16, 2026</title>
@@ -505,7 +583,7 @@ Interim changes to the Student Conduct Code went into effect Jan.</source:markdo
       <guid>cid://https://dailybruin.com/?p=517557</guid>
       <category>Campus</category>
       <category>News</category>
-      <category>db-story-b</category>
+      <category>db-story-j</category>
       <pubDate>Fri, 16 Oct 2026 04:10:15 +0000</pubDate>
     </item>    <item>
       <title>ClassSwap platform hopes to solve enrollment woes, help students graduate on time</title>
@@ -538,7 +616,7 @@ A growing number of Californians are experiencing extreme heat and other climate
       <category>California</category>
       <category>News</category>
       <category>Science &#38; Health</category>
-      <category>db-story-f2</category>
+      <category>db-story-g</category>
       <pubDate>Fri, 16 Oct 2026 03:41:55 +0000</pubDate>
     </item>    <item>
       <title>UCLA Health addresses healthcare accessibility issues for Spanish speakers</title>
@@ -554,7 +632,7 @@ Three UCLA Health initiatives are working to make healthcare more accessible for
       <category>Los Angeles</category>
       <category>News</category>
       <category>Science &#38; Health</category>
-      <category>db-story-d2</category>
+      <category>db-story-l</category>
       <pubDate>Fri, 16 Oct 2026 02:31:21 +0000</pubDate>
     </item>    <item>
       <title>UCLA women’s soccer to test its 6-game win streak against Washington</title>
@@ -568,7 +646,7 @@ Blue-ribboned medals adorning players’ necks, monogrammed hats atop carefully 
       <guid>cid://https://dailybruin.com/?p=517529</guid>
       <category>Sports</category>
       <category>Women&#39;s Soccer</category>
-      <category>db-story-g</category>
+      <category>db-story-k</category>
       <pubDate>Fri, 16 Oct 2026 02:05:50 +0000</pubDate>
     </item>    <item>
       <title>Beyond Business: Nazarian College Fair welcomes all CSUN students</title>
@@ -6623,207 +6701,6 @@ But for a golfer in the Wild West, it could take only one.</source:markdown>
       <category>Sports</category>
       <category>db-story-c2</category>
       <pubDate>Sun, 27 Sep 2026 01:33:43 +0000</pubDate>
-    </item>    <item>
-      <title>USC vs Oregon — as it happened</title>
-      <link>https://dailytrojan.com/2026/09/26/usc-vs-oregon-as-it-happened/</link>
-      <description>
-        <![CDATA[<p>Caleb Olguin and Dillon Zamperin report live from Los Angeles Memorial Coliseum.</p>
-        <p>The post <a href="https://dailytrojan.com/2026/09/26/usc-vs-oregon-as-it-happened/">USC vs Oregon — as it happened</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <source:markdown>Caleb Olguin and Dillon Zamperin report live from Los Angeles Memorial Coliseum.
-
-The post [USC vs Oregon — as it happened](https://dailytrojan.com/2026/09/26/usc-vs-oregon-as-it-happened/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
-      <guid>cid://https://dailytrojan.com/?p=260009</guid>
-      <category>Football</category>
-      <category>Sports</category>
-      <category>caleb-olguin</category>
-      <category>dillon-zamperin</category>
-      <category>fall-2026</category>
-      <category>football</category>
-      <category>live-updates</category>
-      <category>luis-ochea</category>
-      <category>sports</category>
-      <category>yu-chen-lin</category>
-      <pubDate>Sat, 26 Sep 2026 23:18:47 +0000</pubDate>
-    </item>    <item>
-      <title>UCLA football keeps winning streak, takes down Maryland 54-3</title>
-      <link>https://dailybruin.com/2026/09/26/ucla-football-keeps-winning-streak-takes-down-maryland-54-3/</link>
-      <description>
-        <![CDATA[<em>This post was updated Sept. 27 at 11:57 p.m.</em>
-        COLLEGE PARK — All offseason, headlines clamored about the Chesney train, with players, coaches and fans alike subscribing to a movement of optimism heading into the 2026 season.]]>
-      </description>
-      <source:markdown>_This post was updated Sept. 27 at 11:57 p.m._
-COLLEGE PARK — All offseason, headlines clamored about the Chesney train, with players, coaches and fans alike subscribing to a movement of optimism heading into the 2026 season.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=516305</guid>
-      <category>Football</category>
-      <category>Sports</category>
-      <category>breaking</category>
-      <category>db-story-i</category>
-      <pubDate>Sat, 26 Sep 2026 21:49:56 +0000</pubDate>
-    </item>    <item>
-      <title>Lucy Dacus ushers in new era for classical music</title>
-      <link>https://dailytrojan.com/2026/09/26/lucy-dacus-ushers-in-new-era-for-classical-music/</link>
-      <description>
-        <![CDATA[<p>The musician celebrated reclaiming her debut album’s masters at the Hollywood Bowl. </p>
-        <p>The post <a href="https://dailytrojan.com/2026/09/26/lucy-dacus-ushers-in-new-era-for-classical-music/">Lucy Dacus ushers in new era for classical music</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <source:markdown>The musician celebrated reclaiming her debut album’s masters at the Hollywood Bowl.
-
-The post [Lucy Dacus ushers in new era for classical music](https://dailytrojan.com/2026/09/26/lucy-dacus-ushers-in-new-era-for-classical-music/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
-      <guid>cid://https://dailytrojan.com/?p=260005</guid>
-      <category>Arts &#38; Entertainment</category>
-      <category>Columns</category>
-      <category>Music</category>
-      <category>a&#38;e</category>
-      <category>fall-2026</category>
-      <category>Femininomenon</category>
-      <category>fiona-feingold</category>
-      <category>lucy-dacus</category>
-      <category>women</category>
-      <pubDate>Sat, 26 Sep 2026 17:39:26 +0000</pubDate>
-    </item>    <item>
-      <title>Diversity is more than just a statistic</title>
-      <link>https://dailytrojan.com/2026/09/25/diversity-is-more-than-just-a-statistic/</link>
-      <description>
-        <![CDATA[<p>USC recruits international students, but it leaves their integration up to chance.</p>
-        <p>The post <a href="https://dailytrojan.com/2026/09/25/diversity-is-more-than-just-a-statistic/">Diversity is more than just a statistic</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <source:markdown>USC recruits international students, but it leaves their integration up to chance.
-
-The post [Diversity is more than just a statistic](https://dailytrojan.com/2026/09/25/diversity-is-more-than-just-a-statistic/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
-      <guid>cid://https://dailytrojan.com/?p=259995</guid>
-      <category>Opinion</category>
-      <category>Opinion General</category>
-      <category>diversity</category>
-      <category>fall-2026</category>
-      <category>odysseus-jang</category>
-      <category>opinion</category>
-      <category>yolanda-wang</category>
-      <pubDate>Sat, 26 Sep 2026 06:19:35 +0000</pubDate>
-    </item>    <item>
-      <title>Peptides reveal the price of working smarter, not harder</title>
-      <link>https://dailytrojan.com/2026/09/25/peptides-reveal-the-price-of-working-smarter-not-harder/</link>
-      <description>
-        <![CDATA[<p>Don’t become an experiment; it’s time to take the “rat” part of being a gym rat less seriously.</p>
-        <p>The post <a href="https://dailytrojan.com/2026/09/25/peptides-reveal-the-price-of-working-smarter-not-harder/">Peptides reveal the price of working smarter, not harder</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <source:markdown>Don’t become an experiment; it’s time to take the “rat” part of being a gym rat less seriously.
-
-The post [Peptides reveal the price of working smarter, not harder](https://dailytrojan.com/2026/09/25/peptides-reveal-the-price-of-working-smarter-not-harder/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
-      <guid>cid://https://dailytrojan.com/?p=259949</guid>
-      <category>Opinion</category>
-      <category>Opinion Columns</category>
-      <category>Opinion General</category>
-      <category>fall-2026</category>
-      <category>opinion</category>
-      <category>peptides</category>
-      <category>soefae-chen</category>
-      <category>vital-signs</category>
-      <pubDate>Sat, 26 Sep 2026 06:15:00 +0000</pubDate>
-    </item>    <item>
-      <title>Oral history project K-Town Archive documents LA’s ‘beating heart’</title>
-      <link>https://dailybruin.com/2026/09/25/oral-history-project-k-town-archive-documents-las-beating-heart/</link>
-      <description>
-        <![CDATA[<em>This post was updated Sept. 27 at 11:03 p.m.</em>
-        When one woman from El Salvador moved to the United States in 1979, she was alone and worked as a housekeeper, retail employee and babysitter to support her daughter.]]>
-      </description>
-      <source:markdown>_This post was updated Sept. 27 at 11:03 p.m._
-When one woman from El Salvador moved to the United States in 1979, she was alone and worked as a housekeeper, retail employee and babysitter to support her daughter.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=516294</guid>
-      <category>A Closer Look</category>
-      <category>Los Angeles</category>
-      <category>News</category>
-      <category>db-story-d1</category>
-      <pubDate>Sat, 26 Sep 2026 05:23:32 +0000</pubDate>
-    </item>    <item>
-      <title>Gameday Predictions: UCLA football vs. Maryland</title>
-      <link>https://dailybruin.com/2026/09/25/gameday-predictions-ucla-football-vs-maryland-2/</link>
-      <description>
-        <![CDATA[UCLA football (3-0, 1-0 Big Ten) began its conference slate with a victory last week and now has the chance to continue its win streak against Maryland (2-1) on Saturday on the road.]]>
-      </description>
-      <source:markdown>UCLA football (3-0, 1-0 Big Ten) began its conference slate with a victory last week and now has the chance to continue its win streak against Maryland (2-1) on Saturday on the road.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=516287</guid>
-      <category>Football</category>
-      <category>Sports</category>
-      <category>Sports Columns</category>
-      <category>db-story-a</category>
-      <pubDate>Sat, 26 Sep 2026 04:34:19 +0000</pubDate>
-    </item>    <item>
-      <title>Women’s golf wins Red Sky Classic in style</title>
-      <link>https://dailytrojan.com/2026/09/25/womens-golf-wins-red-sky-classic-in-style/</link>
-      <description>
-        <![CDATA[<p>The Trojans shot a historic 47-under par in an all-time performance to win the title.</p>
-        <p>The post <a href="https://dailytrojan.com/2026/09/25/womens-golf-wins-red-sky-classic-in-style/">Women’s golf wins Red Sky Classic in style</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <source:markdown>The Trojans shot a historic 47-under par in an all-time performance to win the title.
-
-The post [Women’s golf wins Red Sky Classic in style](https://dailytrojan.com/2026/09/25/womens-golf-wins-red-sky-classic-in-style/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
-      <guid>cid://https://dailytrojan.com/?p=259986</guid>
-      <category>Golf</category>
-      <category>Sports</category>
-      <category>fall-2026</category>
-      <category>golf</category>
-      <category>kaylon-gilmore</category>
-      <category>louis-chen</category>
-      <category>sports</category>
-      <category>womens-golf</category>
-      <pubDate>Sat, 26 Sep 2026 04:25:54 +0000</pubDate>
-    </item>    <item>
-      <title>Women’s volleyball finishes road trip against Illinois</title>
-      <link>https://dailytrojan.com/2026/09/25/womens-volleyball-finishes-road-trip-against-illinois/</link>
-      <description>
-        <![CDATA[<p>USC ended nonconference play Sunday as it turns to two matches this weekend.</p>
-        <p>The post <a href="https://dailytrojan.com/2026/09/25/womens-volleyball-finishes-road-trip-against-illinois/">Women&#8217;s volleyball finishes road trip against Illinois</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <source:markdown>USC ended nonconference play Sunday as it turns to two matches this weekend.
-
-The post [Women’s volleyball finishes road trip against Illinois](https://dailytrojan.com/2026/09/25/womens-volleyball-finishes-road-trip-against-illinois/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
-      <guid>cid://https://dailytrojan.com/?p=259975</guid>
-      <category>Sports</category>
-      <category>Volleyball</category>
-      <category>fall-2026</category>
-      <category>luis-ochea</category>
-      <category>luke-seruma</category>
-      <category>sports</category>
-      <category>volleyball</category>
-      <category>womens-volleyball</category>
-      <pubDate>Sat, 26 Sep 2026 04:20:50 +0000</pubDate>
-    </item>    <item>
-      <title>Film Review: In gripping, clever ‘Primetime,’ the pursuit of justice becomes unjust</title>
-      <link>https://dailybruin.com/2026/09/25/movie-review-in-gripping-clever-primetime-the-pursuit-of-justice-becomes-unjust/</link>
-      <description>
-        <![CDATA[<em>This post was updated Sept. 28 at 8:55 p.m.</em>
-        Warning: Spoilers ahead.
-        Robert Pattinson’s thrilling performance brings the infamous world of “To Catch a Predator” to the big screen in Lance Oppenheim’s latest film, “Primetime.”
-        Released Friday, the film is based on Dateline NBC’s hit show from the 2000s.]]>
-      </description>
-      <source:markdown>_This post was updated Sept. 28 at 8:55 p.m._
-Warning: Spoilers ahead.
-Robert Pattinson’s thrilling performance brings the infamous world of “To Catch a Predator” to the big screen in Lance Oppenheim’s latest film, “Primetime.”
-Released Friday, the film is based on Dateline NBC’s hit show from the 2000s.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=516283</guid>
-      <category>Arts</category>
-      <category>Arts Columns</category>
-      <category>Film &#38; TV</category>
-      <category>db-story-d2</category>
-      <pubDate>Sat, 26 Sep 2026 03:35:48 +0000</pubDate>
-    </item>    <item>
-      <title>Album Review: Taylor Swift’s ‘The Encore’ is a personal, catchy add to ‘The Life of a Showgirl’</title>
-      <link>https://dailybruin.com/2026/09/25/album-review-taylor-swifts-the-encore-is-a-personal-catchy-add-to-the-life-of-a-showgirl/</link>
-      <description>
-        <![CDATA[<em>This post was updated Sept. 27 at 8:17 p.m.</em>
-        A showgirl never leaves the stage without an encore.
-        Taylor Swift released “The Life of a Showgirl: The Encore,” the deluxe edition of her 2025 album “The Life of a Showgirl,” on Friday, featuring four new tracks.]]>
-      </description>
-      <source:markdown>_This post was updated Sept. 27 at 8:17 p.m._
-A showgirl never leaves the stage without an encore.
-Taylor Swift released “The Life of a Showgirl: The Encore,” the deluxe edition of her 2025 album “The Life of a Showgirl,” on Friday, featuring four new tracks.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=516279</guid>
-      <category>Arts</category>
-      <category>Arts Columns</category>
-      <category>Music</category>
-      <category>db-story-g</category>
-      <pubDate>Sat, 26 Sep 2026 00:10:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
   <channel>
     <title><![CDATA[GLAM]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>17 Oct 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>18 Oct 26 06:49 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -1528,21 +1528,6 @@ The post [Mental Health Mondays: What We Haven’t Talked About](https://scholar
       <category>suicide awareness</category>
       <category>suicide prevention</category>
       <pubDate>Mon, 28 Sep 2026 09:30:01 +0000</pubDate>
-    </item>    <item>
-      <title>Report: Oxford Lets OpenAI Train Its AI Models On Historical Texts From the Bodleian Library</title>
-      <link>https://www.infodocket.com/2026/09/26/report-oxford-lets-openai-train-its-ai-models-on-historical-texts-from-the-bodleian-library/</link>
-      <description>
-        <![CDATA[<p>From The Guardian: The University of Oxford has allowed the company behind ChatGPT to train its AI models on historical texts from its Bodleian Library, as tech companies scour academic institutions for fresh data. The Bodleian material digitised by OpenAI has been used to “populate the OpenAI training set”, according to internal documents. Oxford announced [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/09/26/report-oxford-lets-openai-train-its-ai-models-on-historical-texts-from-the-bodleian-library/">Report: Oxford Lets OpenAI Train Its AI Models On Historical Texts From the Bodleian Library</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>From The Guardian: The University of Oxford has allowed the company behind ChatGPT to train its AI models on historical texts from its Bodleian Library, as tech companies scour academic institutions for fresh data. The Bodleian material digitised by OpenAI has been used to “populate the OpenAI training set”, according to internal documents. Oxford announced \[…\]
-
-The post [Report: Oxford Lets OpenAI Train Its AI Models On Historical Texts From the Bodleian Library](https://www.infodocket.com/2026/09/26/report-oxford-lets-openai-train-its-ai-models-on-historical-texts-from-the-bodleian-library/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=168954</guid>
-      <category>Data Files</category>
-      <category>Libraries</category>
-      <category>News</category>
-      <pubDate>Sat, 26 Sep 2026 18:16:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
