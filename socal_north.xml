@@ -5,18 +5,35 @@
     <title><![CDATA[SoCal North]]></title>
     <description><![CDATA[News and posts related to the greater North Los Angeles and adjacent counties.]]></description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>18 Oct 26 06:30 -0700</lastBuildDate>
+    <lastBuildDate>19 Oct 26 06:30 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Forget swiping: How pitch decks are saving LA’s exhausted singles</title>
-      <link>https://laist.com/news/los-angeles-activities/forget-swiping-how-pitch-decks-are-saving-las-exhausted-singles</link>
+      <title>Feeling overwhelmed by your ballot? Welcome to California</title>
+      <link>https://laist.com/news/housing-homelessness/california-election-2026-voter-game-plan-guide-to-propositions-overwhelming-why</link>
       <description>
-        <![CDATA[At this LA singles night, friends pitch their besties on stage with slide decks, and the hype is the whole point.]]>
+        <![CDATA[Californians have been asked to make more ballot initiative decisions than voters in any other state. Do we actually want all these choices?]]>
       </description>
-      <source:markdown>At this LA singles night, friends pitch their besties on stage with slide decks, and the hype is the whole point.</source:markdown>
-      <guid>cid://urn:uuid:000001a1-4b42-d66b-a5e1-dff6eea10000</guid>
-      <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+      <source:markdown>Californians have been asked to make more ballot initiative decisions than voters in any other state. Do we actually want all these choices?</source:markdown>
+      <guid>cid://urn:uuid:000001a1-46a8-d66b-a5e1-defce9d60001</guid>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Sunday Taquitos #35: The A.I. Bubble Bursts</title>
+      <link>https://lataco.com/sunday-taquitos-35-the-a-i-bubble-bursts</link>
+      <description>
+        <![CDATA[<p>Sunday Taquitos! Art by Pulitzer Prize Finalist Ivan Ehlers.</p>
+        <p>The post <a href="https://lataco.com/sunday-taquitos-35-the-a-i-bubble-bursts">Sunday Taquitos #35: The A.I. Bubble Bursts</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
+      </description>
+      <source:markdown>Sunday Taquitos! Art by Pulitzer Prize Finalist Ivan Ehlers.
+
+The post [Sunday Taquitos #35: The A.I. Bubble Bursts](https://lataco.com/sunday-taquitos-35-the-a-i-bubble-bursts) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
+      <guid>cid://https://lataco.com/?p=184306</guid>
+      <category>Art</category>
+      <category>Comix</category>
+      <category>Culture</category>
+      <category>COMICS</category>
+      <category>Sunday Taquitos</category>
+      <pubDate>Sun, 18 Oct 2026 16:30:00 +0000</pubDate>
     </item>    <item>
       <title>Move over, jacaranda. LA’s fall showstopper is the Chinese flame tree</title>
       <link>https://laist.com/news/los-angeles-activities/chinese-flame-tree-los-angeles</link>
@@ -25,6 +42,15 @@
       </description>
       <source:markdown>Yellow flowers give way to pink, lantern-like pods across Southern California this time of year. Here’s what to know about the tree.</source:markdown>
       <guid>cid://urn:uuid:000001a1-4127-d35b-afad-65f7d44d0001</guid>
+      <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Forget swiping: How pitch decks are saving LA’s exhausted singles</title>
+      <link>https://laist.com/news/los-angeles-activities/forget-swiping-how-pitch-decks-are-saving-las-exhausted-singles</link>
+      <description>
+        <![CDATA[At this LA singles night, friends pitch their besties on stage with slide decks, and the hype is the whole point.]]>
+      </description>
+      <source:markdown>At this LA singles night, friends pitch their besties on stage with slide decks, and the hype is the whole point.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-4b42-d66b-a5e1-dff6eea10000</guid>
       <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
     </item>    <item>
       <title>Raul Berdon and Devin Del Toro lead El Camino Real Past Chatsworth, 22-6</title>
@@ -150,12 +176,12 @@ The post [Why Are So Many Restaurants Using A.I. for Menus Now?](https://lataco.
       <guid>cid://urn:uuid:000001a1-4660-d250-afe7-fe7af6440000</guid>
       <pubDate>Fri, 16 Oct 2026 21:33:37 +0000</pubDate>
     </item>    <item>
-      <title>Most evacuations lifted for Norte Fire in South Orange County</title>
+      <title>All evacuations lifted for Norte Fire in South Orange County</title>
       <link>https://laist.com/news/climate-environment/norte-fire-san-clemente</link>
       <description>
-        <![CDATA[The brush fire is holding at around 570 acres as of Saturday evening.]]>
+        <![CDATA[Fire authorities updated the number of structures damaged or destroyed to seven.]]>
       </description>
-      <source:markdown>The brush fire is holding at around 570 acres as of Saturday evening.</source:markdown>
+      <source:markdown>Fire authorities updated the number of structures damaged or destroyed to seven.</source:markdown>
       <guid>cid://urn:uuid:000001a1-465f-d250-afe7-fe7f78160002</guid>
       <pubDate>Fri, 16 Oct 2026 20:44:12 +0000</pubDate>
     </item>    <item>
@@ -167,6 +193,15 @@ The post [Why Are So Many Restaurants Using A.I. for Menus Now?](https://lataco.
       <source:markdown>We’ve rounded up a list of mostly free events on the Eastside and downtown to celebrate the cherished cultural holiday.</source:markdown>
       <guid>cid://urn:uuid:000001a1-458b-d482-a5f3-5fab0afe0004</guid>
       <pubDate>Fri, 16 Oct 2026 19:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>There’s an $11.25 billion housing bond on the ballot this November. Here’s what you should know</title>
+      <link>https://laist.com/news/housing-homelessness/prop-1-november-what-you-should-know</link>
+      <description>
+        <![CDATA[Supporters of Prop 1 say California desperately needs money make a dent in its homelessness and affordability crisis.]]>
+      </description>
+      <source:markdown>Supporters of Prop 1 say California desperately needs money make a dent in its homelessness and affordability crisis.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-4580-d250-afe7-ffbad8940001</guid>
+      <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
     </item>    <item>
       <title>Metro Art’s inaugural artwork from 1991, “Unity,” has been refurbished for the next generation of Metro riders to enjoy.</title>
       <link>https://thesource.metro.net/metro-arts-inaugural-artwork-from-1991-unity-has-been-refurbished-for-the-next-generation-of-metro-riders-to-enjoy/</link>
@@ -228,12 +263,12 @@ The post [Why Are So Many Restaurants Using A.I. for Menus Now?](https://lataco.
       <category>Weekend Events</category>
       <pubDate>Fri, 16 Oct 2026 01:28:35 +0000</pubDate>
     </item>    <item>
-      <title>Bryson Fire prompts evacuation orders in Malibu. Containment grows to 61%</title>
+      <title>Fire evacuations lifted in Malibu. Containment grows to 68%</title>
       <link>https://laist.com/news/climate-environment/bryson-fire-malibu-oct-2026</link>
       <description>
-        <![CDATA[The fire near Encinal Canyon is threatening thousands of structures.]]>
+        <![CDATA[All evacuation warnings and orders are lifted, but advisories remain for some residents.]]>
       </description>
-      <source:markdown>The fire near Encinal Canyon is threatening thousands of structures.</source:markdown>
+      <source:markdown>All evacuation warnings and orders are lifted, but advisories remain for some residents.</source:markdown>
       <guid>cid://urn:uuid:000001a1-4234-d8bb-adfb-7634dd5b0002</guid>
       <pubDate>Fri, 16 Oct 2026 01:09:52 +0000</pubDate>
     </item>    <item>
@@ -393,6 +428,15 @@ The post [Your Voice Can Help Shape Santa Clarita’s Future](https://santaclari
       <category>City Council</category>
       <category>Jason Gibbs</category>
       <pubDate>Thu, 15 Oct 2026 14:19:00 +0000</pubDate>
+    </item>    <item>
+      <title>Was planning for LA’s Olympic arts and culture festival left too late?</title>
+      <link>https://laist.com/news/la-olympic-arts-culture-festival-planning-questions</link>
+      <description>
+        <![CDATA[At a state hearing, lawmakers, lawmakers heard plans for the 2028 Cultural Olympiad, and concerns that the runway is too short for big plans and needs more funding]]>
+      </description>
+      <source:markdown>At a state hearing, lawmakers, lawmakers heard plans for the 2028 Cultural Olympiad, and concerns that the runway is too short for big plans and needs more funding</source:markdown>
+      <guid>cid://urn:uuid:000001a1-3ca0-d250-afe7-feba23830000</guid>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
     </item>    <item>
       <title>LAUSD begins to make the case for school closures, with many questions yet to be answered</title>
       <link>https://laist.com/news/education/lausd-community-meetings-school-closures-consolidation</link>
@@ -3263,42 +3307,6 @@ The post [Data Shows City of L.A. as Extreme Hotspot for ICE Arrests](https://la
       <source:markdown>The battle over AI&#39;s promise and perils is not a clash between two opposing sides, but a debate with lots of perspectives. Here is a guide to who&#39;s who in that debate.</source:markdown>
       <guid>cid://urn:uuid:000001a0-e345-d506-afbe-fff78ec40000</guid>
       <pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>You have Hurricane Odalys to thank for that beautiful sunset last night</title>
-      <link>https://laist.com/news/los-angeles-activities/you-have-hurricane-odalys-to-thank-for-that-beautiful-sunset-last-night</link>
-      <description>
-        <![CDATA[High clouds could stick around today too, making for another beautiful golden hour.]]>
-      </description>
-      <source:markdown>High clouds could stick around today too, making for another beautiful golden hour.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-e424-df60-a5ff-e4e4cf230000</guid>
-      <pubDate>Sun, 27 Sep 2026 19:08:57 +0000</pubDate>
-    </item>    <item>
-      <title>The Pacific is churning with hurricanes. The Atlantic is quiet. Blame El Niño</title>
-      <link>https://laist.com/news/climate-environment/the-pacific-is-churning-with-hurricanes-the-atlantic-is-quiet-blame-el-nino</link>
-      <description>
-        <![CDATA[The Pacific Ocean has had an unusual number of storms this year, while the Atlantic hasn't recorded a single full-blown hurricane.]]>
-      </description>
-      <source:markdown>The Pacific Ocean has had an unusual number of storms this year, while the Atlantic hasn&#39;t recorded a single full-blown hurricane.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-e325-d657-afa2-e36d7af30004</guid>
-      <pubDate>Sun, 27 Sep 2026 13:59:36 +0000</pubDate>
-    </item>    <item>
-      <title>Need a New York bagel in Joshua Tree? Check the lockers on Highway 62</title>
-      <link>https://laist.com/news/los-angeles-activities/new-york-bagel-joshua-tree-highway-62</link>
-      <description>
-        <![CDATA[The unusual delivery method — and the homemade bagels — come from transplant Richard Lee.]]>
-      </description>
-      <source:markdown>The unusual delivery method — and the homemade bagels — come from transplant Richard Lee.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-d988-d0b3-afb2-d9ab439d0001</guid>
-      <pubDate>Sun, 27 Sep 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>From cumbia to Luther Vandross, this DJ crew spins vinyl over dinner in Claremont and Ontario</title>
-      <link>https://laist.com/news/los-angeles-activities/from-cumbia-to-luther-vandross-this-dj-crew-spins-vinyl-over-dinner-in-claremont-and-ontario</link>
-      <description>
-        <![CDATA[Compás Discoteca brings genre-hopping vinyl sets to two local restaurants every month.]]>
-      </description>
-      <source:markdown>Compás Discoteca brings genre-hopping vinyl sets to two local restaurants every month.</source:markdown>
-      <guid>cid://urn:uuid:000001a0-d5ed-d657-afa2-d7ed75150000</guid>
-      <pubDate>Sun, 27 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

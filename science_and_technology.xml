@@ -4,10 +4,111 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>18 Oct 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>19 Oct 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A Farmer in Egypt Stumbled Upon a Pink Stone and Called the Authorities. They Found the Remains of Two Colossal Statues of Ramses II Beneath the Property</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-farmer-in-egypt-stumbled-upon-a-pink-stone-and-called-the-authorities-they-found-the-remains-of-two-colossal-statues-of-ramses-ii-beneath-the-property-180989708/</link>
+      <description>
+        <![CDATA[Archaeologists recovered the head of one statue that might have measured nearly 28 feet tall. It could point to a major building site commissioned by the pharaoh]]>
+      </description>
+      <source:markdown>Archaeologists recovered the head of one statue that might have measured nearly 28 feet tall. It could point to a major building site commissioned by the pharaoh</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/WmXlnfY7AIf8S3DDNWzYXowmuG4=/420x240/filters:focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/17/cd/17cdf8a2-67ba-42d2-a59f-94366ec5d3cd/847496580_1527305306097677_6996053566867282813_n.jpg" length="357252" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-farmer-in-egypt-stumbled-upon-a-pink-stone-and-called-the-authorities-they-found-the-remains-of-two-colossal-statues-of-ramses-ii-beneath-the-property-180989708/</guid>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>What the world&#39;s leading researchers think about saunas</title>
+      <link>https://www.npr.org/2026/10/19/nx-s1-5995406/saunas-health-wellness-thermal</link>
+      <description>
+        <![CDATA[Saunas have gone from a Scandinavian tradition to a global wellness phenomenon. But how long should a person endure heat? Do saunas actually work? And if so, what are their benefits? NPR health reporter Will Stone goes as deep as the science will let him to explore the sauna hype waves and find out what happens to our bodies when we step in them.<br/><br/><em>Interested in more </em><em>about thermal physiology?</em><em> Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Saunas have gone from a Scandinavian tradition to a global wellness phenomenon. But how long should a person endure heat? Do saunas actually work? And if so, what are their benefits? NPR health reporter Will Stone goes as deep as the science will let him to explore the sauna hype waves and find out what happens to our bodies when we step in them.
+
+_Interested in more_ _about thermal physiology?_ _Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/84701610-9737-4496-b60f-4033560b4473/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=84701610-9737-4496-b60f-4033560b4473&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-5995406&#38;p=510351&#38;d=826&#38;size=13216793" length="13216793" type="audio/mpeg" />
+      <guid>cid://fed667a4-5fd5-467c-af59-f6ad91ea6b0a</guid>
+      <pubDate>Mon, 19 Oct 2026 07:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Wine ported to OpenBSD, runs modern Windows games</title>
+      <link>https://www.osnews.com/story/146195/wine-ported-to-openbsd-runs-modern-windows-games/</link>
+      <description>
+        <![CDATA[In what is quite a major achievement, Wine has been ported and made to work on OpenBSD. We have since tested several dozens of 64-bit Windows software, mostly successfully. See screenshots, livestream recordings for example. Even the Remaster of The Witcher 3 which released just last month runs, and runs well (requires adding in vkd3d-proton; see README; livestream which looks less fluent than it is due to the on-system recording with ffmpeg). ↫ Thomas Frohwein The biggest limitation seems to be the lack of support for WoW64, so 32bit Windows software won&#8217;t work. Still, this is a massive milestone for OpenBSD, and makes especially gaming a somewhat viable option on OpenBSD.]]>
+      </description>
+      <source:markdown>In what is quite a major achievement, Wine has been ported and made to work on OpenBSD. We have since tested several dozens of 64-bit Windows software, mostly successfully. See screenshots, livestream recordings for example. Even the Remaster of The Witcher 3 which released just last month runs, and runs well (requires adding in vkd3d-proton; see README; livestream which looks less fluent than it is due to the on-system recording with ffmpeg). ↫ Thomas Frohwein The biggest limitation seems to be the lack of support for WoW64, so 32bit Windows software won’t work. Still, this is a massive milestone for OpenBSD, and makes especially gaming a somewhat viable option on OpenBSD.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146195</guid>
+      <category>OpenBSD</category>
+      <pubDate>Mon, 19 Oct 2026 06:38:40 +0000</pubDate>
+    </item>    <item>
+      <title>Single-partition encrypted NetBSD 11 root</title>
+      <link>https://www.osnews.com/story/146193/single-partition-encrypted-netbsd-11-root/</link>
+      <description>
+        <![CDATA[What if a regular, normal NetBSD installation is too plebeian for you? This is a quick overview which attempts to synthesize DW Armstrong&#8217;s tutorial on NetBSD encryption with the cgdroot page from the NetBSD wiki in a single MBR partition, divided into multiple disklabel slices to preserve MBR entries. ↫ indigoparadox Web Zone What if you need this?]]>
+      </description>
+      <source:markdown>What if a regular, normal NetBSD installation is too plebeian for you? This is a quick overview which attempts to synthesize DW Armstrong’s tutorial on NetBSD encryption with the cgdroot page from the NetBSD wiki in a single MBR partition, divided into multiple disklabel slices to preserve MBR entries. ↫ indigoparadox Web Zone What if you need this?</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146193</guid>
+      <category>NetBSD</category>
+      <pubDate>Mon, 19 Oct 2026 06:31:23 +0000</pubDate>
+    </item>    <item>
+      <title>Linux 7.3 released</title>
+      <link>https://www.osnews.com/story/146191/linux-7-3-released/</link>
+      <description>
+        <![CDATA[Significant changes in this release include some significant binfmt_misc extensions, some group-scheduling work aimed at improving performance on large systems, the new failfs filesystem that fails all operations, the fchroot() system call, global per-CPU data for BPF programs, the completion of the sched_ext subscheduler feature, working-set tracking for virtual machines, alternative data-stream support in the ntfs3 filesystem, a long list of SMB server improvements, and much more. ↫ &#8220;corbet&#8221; at LWN.net It&#8217;ll make it way to your distribution of choice soon enough.]]>
+      </description>
+      <source:markdown>Significant changes in this release include some significant binfmt\_misc extensions, some group-scheduling work aimed at improving performance on large systems, the new failfs filesystem that fails all operations, the fchroot() system call, global per-CPU data for BPF programs, the completion of the sched\_ext subscheduler feature, working-set tracking for virtual machines, alternative data-stream support in the ntfs3 filesystem, a long list of SMB server improvements, and much more. ↫ “corbet” at LWN.net It’ll make it way to your distribution of choice soon enough.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146191</guid>
+      <category>Linux</category>
+      <pubDate>Mon, 19 Oct 2026 06:21:06 +0000</pubDate>
+    </item>    <item>
+      <title>APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 October 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Treble Clef: Unusual [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 October 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Treble Clef: Unusual \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/</guid>
+      <category>APOD</category>
+      <pubDate>Mon, 19 Oct 2026 04:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>Autumn Paints Poland’s Bieszczady Mountains</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/</link>
+      <description>
+        <![CDATA[Fall color covers the forested slopes of Bieszczady National Park, while patches of polonina, a type of high-mountain meadow, have turned tan.]]>
+      </description>
+      <source:markdown>Fall color covers the forested slopes of Bieszczady National Park, while patches of polonina, a type of high-mountain meadow, have turned tan.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/</guid>
+      <category>Earth Observatory</category>
+      <category>Landsat 9</category>
+      <category>Topography</category>
+      <category>Vegetation</category>
+      <pubDate>Mon, 19 Oct 2026 04:01:00 +0000</pubDate>
+    </item>    <item>
+      <title>Inside the Intel 8087 chip: floating-point addition and subtraction</title>
+      <link>https://www.osnews.com/story/146189/inside-the-intel-8087-chip-floating-point-addition-and-subtraction/</link>
+      <description>
+        <![CDATA[In 1980, Intel introduced the 8087, a chip that made floating-point operations much faster in the IBM PC and other systems. Although the 8087 supports advanced operations such as tangents, square roots, and logarithms, this article focuses on basic arithmetic operations: addition and subtraction. The 8087 provided a spectacular speed improvement over the 8086 processor, speeding up addition by a factor of almost 100, and complicated operations by even more. In this article, I examine the 8087&#8217;s microcode and circuitry to explain exactly how floating-point addition and subtraction are implemented, including numerous special cases for infinities and other special values. ↫ Ken Shirriff Shirriff took an actual chisel to the 8087 coprocessor to gain access to the insides for highly detailed photographs, taken with a microscope. They look amazing.]]>
+      </description>
+      <source:markdown>In 1980, Intel introduced the 8087, a chip that made floating-point operations much faster in the IBM PC and other systems. Although the 8087 supports advanced operations such as tangents, square roots, and logarithms, this article focuses on basic arithmetic operations: addition and subtraction. The 8087 provided a spectacular speed improvement over the 8086 processor, speeding up addition by a factor of almost 100, and complicated operations by even more. In this article, I examine the 8087’s microcode and circuitry to explain exactly how floating-point addition and subtraction are implemented, including numerous special cases for infinities and other special values. ↫ Ken Shirriff Shirriff took an actual chisel to the 8087 coprocessor to gain access to the insides for highly detailed photographs, taken with a microscope. They look amazing.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146189</guid>
+      <category>Intel</category>
+      <pubDate>Sun, 18 Oct 2026 23:34:37 +0000</pubDate>
+    </item>    <item>
+      <title>Source code for the Palm OS port of Lemmings</title>
+      <link>https://www.osnews.com/story/146187/source-code-for-the-palm-os-port-of-lemmings/</link>
+      <description>
+        <![CDATA[Only a few day ago I linked to a massive collection of original Palm OS development resources, and today we can take a look at what it was like to put all of those resources into practice: the original source code for the Palm OS port of Lemmings. With these resources combined, there&#8217;s no excuse to not building any Palm OS applications. I&#8217;d really like a modern email client, a Fediverse client, and a slightly more modern browser surely wouldn&#8217;t hurt. Get on it!]]>
+      </description>
+      <source:markdown>Only a few day ago I linked to a massive collection of original Palm OS development resources, and today we can take a look at what it was like to put all of those resources into practice: the original source code for the Palm OS port of Lemmings. With these resources combined, there’s no excuse to not building any Palm OS applications. I’d really like a modern email client, a Fediverse client, and a slightly more modern browser surely wouldn’t hurt. Get on it!</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146187</guid>
+      <category>Mobile</category>
+      <pubDate>Sun, 18 Oct 2026 23:29:40 +0000</pubDate>
+    </item>    <item>
       <title>APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars</title>
       <link>https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/</link>
       <description>
@@ -1883,7 +1984,7 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
         <![CDATA[Radio signals emanating from Beta Pictoris b suggest that this young and massive exoplanet has a strong magnetic field and intense auroral show]]>
       </description>
       <source:markdown>Radio signals emanating from Beta Pictoris b suggest that this young and massive exoplanet has a strong magnetic field and intense auroral show</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/o46w37eIrPG1cqsbfW6eTVm0usk=/420x240/filters:focal(1920x1088:1921x1089)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1a/ea/1aead3d9-9466-45ac-a8bb-112bea0fccfe/full-res-for-display-3840x2160.jpg" length="1504274" type="image/jpeg" />
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/4vOoxJyOuknqJ1z9ZCUjyWrvhm8=/420x240/filters:focal(1920x1097:1921x1098)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1a/ea/1aead3d9-9466-45ac-a8bb-112bea0fccfe/full-res-for-display-3840x2160.jpg" length="1504274" type="image/jpeg" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/researchers-may-have-directly-glimpsed-an-exoplanets-magnetic-field-for-the-first-time-building-hope-of-peering-deeper-into-faraway-worlds-180989633/</guid>
       <pubDate>Wed, 07 Oct 2026 16:07:13 +0000</pubDate>
     </item>    <item>
@@ -3678,16 +3779,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <category>ICESat-2 (Ice, Cloud and land Elevation Satellite-2)</category>
       <category>Topography</category>
       <pubDate>Mon, 28 Sep 2026 04:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>APOD: 2026 September 27 – Andromeda Before and After Photoshop</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 September 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. BeforeAfter Andromeda Before [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 September 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. BeforeAfter Andromeda Before \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/</guid>
-      <category>APOD</category>
-      <pubDate>Sun, 27 Sep 2026 04:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
