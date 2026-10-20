@@ -4,10 +4,31 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>19 Oct 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>20 Oct 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>HTMLEdit Studio 6.5 released by R-Comp</title>
+      <link>https://www.riscository.com/2026/htmledit-studio-6-5-r-comp/</link>
+      <description>
+        <![CDATA[As the gap between &#8216;now&#8217; and the London Show shrinking more and more &#8211; for the benefit of anyone who has been living in a hermit&#8217;s cave, it&#8217;s this coming Saturday (24th October) &#8211; another announcement has landed in the RISCOSitory inbox. This one is from R-Comp: R-Comp is pleased to announce a new version of their founding program &#8211; HTMLEdit. The new version 6.5 includes numerous updates throughout the suite of programs focusing on compatibility with modern ARMv8 computers (Pi4, RK3399), as well as introducing some HTML 5 features.&#8230;]]>
+      </description>
+      <source:markdown>As the gap between ‘now’ and the London Show shrinking more and more – for the benefit of anyone who has been living in a hermit’s cave, it’s this coming Saturday (24th October) – another announcement has landed in the RISCOSitory inbox. This one is from R-Comp: R-Comp is pleased to announce a new version of their founding program – HTMLEdit. The new version 6.5 includes numerous updates throughout the suite of programs focusing on compatibility with modern ARMv8 computers (Pi4, RK3399), as well as introducing some HTML 5 features.…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11099</guid>
+      <category>Software</category>
+      <category>HTMLEdit</category>
+      <category>R-Comp</category>
+      <pubDate>Mon, 19 Oct 2026 18:20:38 +0000</pubDate>
+    </item>    <item>
+      <title>R-Comp announces HTMLEdit 6.5</title>
+      <link>http://www.iconbar.com/comments/rss/news2398.html</link>
+      <description>
+        <![CDATA[R-Comp are clearly planning a very busy day at the London Show on Saturday, with yet another update to HTMLEdit.]]>
+      </description>
+      <source:markdown>R-Comp are clearly planning a very busy day at the London Show on Saturday, with yet another update to HTMLEdit.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2398.html</guid>
+      <pubDate>Mon, 19 Oct 2026 11:37:00 +0000</pubDate>
+    </item>    <item>
       <title>b.log 2026/10/18 - What a week, Freezers, Yummy, Mowing, Cheeseburgers, The French are revolting, The enemy is now clear, Dinner.</title>
       <link>https://heyrick.eu/blog/entry/20261018</link>
       <description>
@@ -2459,15 +2480,6 @@ Over their production lifetime, analysis of known serial numbers suggests around
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://ebaf25a4b6201f6bdf45359cbe021c91</guid>
       <pubDate>Tue, 29 Sep 2026 18:49:32 +0000</pubDate>
-    </item>    <item>
-      <title>The 2026 London Show is less than 4 weeks away...</title>
-      <link>http://www.iconbar.com/comments/rss/news2385.html</link>
-      <description>
-        <![CDATA[It's now less than 4 weeks to go until the next RISC OS Show.....]]>
-      </description>
-      <source:markdown>It&#39;s now less than 4 weeks to go until the next RISC OS Show.....</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2385.html</guid>
-      <pubDate>Mon, 28 Sep 2026 08:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -435,3 +435,5 @@ description: Blogs, columns and snapshots from around the web.
 - [Popular Information (Judd Legum)](https://popular.info/feed)
 - [Wesleyan Media Project](https://mediaproject.wesleyan.edu/feed/)
 - [Points in thw cloud blog](https://pointinthecloud.com/blog.xml)
+- [Apryl Lundsten blog](https://www.apryllundstenportfolio.com/blog?format=rss)
+

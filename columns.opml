@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>19 Oct 26 06:45 -0700</dateCreated>
+        <dateCreated>20 Oct 26 06:42 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -24,6 +24,7 @@
         <outline text="Anil Dash blog" type="atom" xmlUrl="https://www.dashes.com/feed.xml" htmlUrl="https://anildash.com/feed.xml,https://anildash.com/" description="A blog about making culture. Since 1999." url="https://anildash.com/feed.xml"></outline>
         <outline text="Anthony Bucci blog" type="atom" xmlUrl="https://bucci.onl/feed.xml" htmlUrl="https://bucci.onl/feed.xml,https://bucci.onl/" description="Anthony Bucci&#39;s personal web site" url="https://bucci.onl/feed.xml"></outline>
         <outline text="Anton Zhiyanov blog" type="rss" xmlUrl="https://antonz.org/all/index.xml" htmlUrl="https://antonz.org/,https://antonz.org/index.xml" description="Everything about Go, SQL, and software in general." url="https://antonz.org/index.xml"></outline>
+        <outline text="Apryl Lundsten blog" type="rss" xmlUrl="https://www.apryllundstenportfolio.com/blog?format=rss" htmlUrl="https://www.apryllundstenportfolio.com/"></outline>
         <outline text="Arks Alliance blog" type="atom" xmlUrl="https://arks.org/feed/index.xml" htmlUrl="https://arks.org/feed.xml,https://arks.org/" url="https://arks.org/feed.xml"></outline>
         <outline text="Ashwin&#39;s Chronicles" type="atom" xmlUrl="https://ashwinschronicles.github.io/feeds/all.atom.xml" htmlUrl="https://ashwinschronicles.github.io/,https://ashwinschronicles.github.io/feeds/all.atom.xml" url="https://ashwinschronicles.github.io/feeds/all.atom.xml"></outline>
         <outline text="Asilomar Microcomputer Workshop News" type="rss" xmlUrl="https://amw.org/category/news/feed/" htmlUrl="https://amw.org,https://amw.org/category/news/feed/" url="https://amw.org/category/news/feed/"></outline>
