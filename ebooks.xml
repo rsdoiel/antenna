@@ -4,10 +4,82 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>20 Oct 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>21 Oct 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Voyages de Monsieur le chevalier Chardin en Perse et autres lieux de l&#39;Orient. by Sir John Chardin</title>
+      <link>https://www.gutenberg.org/ebooks/79711</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+      <pubDate>Wed, 21 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>The man who was two men by Ray Cummings</title>
+      <link>https://www.gutenberg.org/ebooks/79828</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 21 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>The Chemical History of a Candle by Michael Faraday</title>
+      <link>https://www.gutenberg.org/ebooks/14474</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 21 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>A History, of the War of 1812-15 Between the United States and Great Britain by Rossiter Johnson</title>
+      <link>https://www.gutenberg.org/ebooks/49393</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 21 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>Ylpeys ja ennakkoluulo by Jane Austen</title>
+      <link>https://www.gutenberg.org/ebooks/45186</link>
+      <description>
+        <![CDATA[Language: Finnish]]>
+      </description>
+      <source:markdown>Language: Finnish</source:markdown>
+      <pubDate>Wed, 21 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>A deputy was king by G. B.  Stern</title>
+      <link>https://www.gutenberg.org/ebooks/79832</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 21 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>Realmah by Sir Arthur Helps</title>
+      <link>https://www.gutenberg.org/ebooks/79831</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 21 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>Emptiness : by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79829</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 21 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>Prátaí Ṁíċíl Ṫaiḋg by Séamus Ó Dubhghaill</title>
+      <link>https://www.gutenberg.org/ebooks/79830</link>
+      <description>
+        <![CDATA[Language: Irish]]>
+      </description>
+      <source:markdown>Language: Irish</source:markdown>
+      <pubDate>Wed, 21 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
       <title>The idealists by Helen R.  Hull</title>
       <link>https://www.gutenberg.org/ebooks/79825</link>
       <description>
@@ -18,14 +90,6 @@
     </item>    <item>
       <title>The wanderer : by Alain-Fournier</title>
       <link>https://www.gutenberg.org/ebooks/79827</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 20 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>The man who was two men by Ray Cummings</title>
-      <link>https://www.gutenberg.org/ebooks/79828</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -238,14 +302,6 @@
         <![CDATA[Language: English]]>
       </description>
       <source:markdown>Language: English</source:markdown>
-      <pubDate>Sun, 18 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Voyages de Monsieur le chevalier Chardin en Perse et autres lieux de l&#39;Orient. by Sir John Chardin</title>
-      <link>https://www.gutenberg.org/ebooks/79711</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
       <pubDate>Sun, 18 Oct 2026 09:51:23 +0000</pubDate>
     </item>    <item>
       <title>The marriage verdict : by Frank H.  Spearman</title>
@@ -2031,142 +2087,6 @@
       </description>
       <source:markdown>Language: Italian</source:markdown>
       <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Bevis: The Story of a Boy by Richard Jefferies</title>
-      <link>https://www.gutenberg.org/ebooks/35930</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
-    </item>    <item>
-      <title>Als ich noch der Waldbauernbub war. Band 3 by Peter Rosegger</title>
-      <link>https://www.gutenberg.org/ebooks/79665</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
-    </item>    <item>
-      <title>Connie Morgan with the Mounted by James B.  Hendryx</title>
-      <link>https://www.gutenberg.org/ebooks/79664</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
-    </item>    <item>
-      <title>Hamlet by William Shakespeare</title>
-      <link>https://www.gutenberg.org/ebooks/9077</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
-    </item>    <item>
-      <title>The Last Trail by Zane Grey</title>
-      <link>https://www.gutenberg.org/ebooks/9932</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
-    </item>    <item>
-      <title>The Kama Sutra of Vatsyayana by Vatsyayana</title>
-      <link>https://www.gutenberg.org/ebooks/27827</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
-    </item>    <item>
-      <title>Ganymede House by Donald A. Wollheim</title>
-      <link>https://www.gutenberg.org/ebooks/79667</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
-    </item>    <item>
-      <title>Mrs. Martin&#39;s company : by Jane Barlow</title>
-      <link>https://www.gutenberg.org/ebooks/79670</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
-    </item>    <item>
-      <title>The Misplaced Battleship by Harry Harrison</title>
-      <link>https://www.gutenberg.org/ebooks/22541</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
-    </item>    <item>
-      <title>Dangling doom by W. C.  Tuttle</title>
-      <link>https://www.gutenberg.org/ebooks/79673</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
-    </item>    <item>
-      <title>Darkwater: Voices from Within the Veil by W. E. B.  Du Bois</title>
-      <link>https://www.gutenberg.org/ebooks/15210</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
-    </item>    <item>
-      <title>The neurotic rose by Homer Nearing</title>
-      <link>https://www.gutenberg.org/ebooks/79668</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
-    </item>    <item>
-      <title>The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African by Equiano</title>
-      <link>https://www.gutenberg.org/ebooks/15399</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
-    </item>    <item>
-      <title>Alberuni&#39;s India (Volume 1 of 2) : by Alberuni</title>
-      <link>https://www.gutenberg.org/ebooks/79672</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
-    </item>    <item>
-      <title>Alias Napoleon by John Jakes</title>
-      <link>https://www.gutenberg.org/ebooks/79669</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
-    </item>    <item>
-      <title>The Crookshaven murder by Alexander Morrison</title>
-      <link>https://www.gutenberg.org/ebooks/79666</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
-    </item>    <item>
-      <title>La fada : by Jaime Massó Torrents</title>
-      <link>https://www.gutenberg.org/ebooks/79671</link>
-      <description>
-        <![CDATA[Language: Catalan]]>
-      </description>
-      <source:markdown>Language: Catalan</source:markdown>
-      <pubDate>Tue, 29 Sep 2026 09:51:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

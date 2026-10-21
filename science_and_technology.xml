@@ -4,10 +4,388 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>20 Oct 26 06:43 -0700</lastBuildDate>
+    <lastBuildDate>21 Oct 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface</title>
+      <link>https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/</link>
+      <description>
+        <![CDATA[From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to adaptively ‘sweep’ large swaths of Earth’s surface. This […]]]>
+      </description>
+      <source:markdown>From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to adaptively ‘sweep’ large swaths of Earth’s surface. This \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/</guid>
+      <category>3D Resources</category>
+      <category>Earth Surface &#38; Interior</category>
+      <category>Science Instruments</category>
+      <category>Technology Highlights</category>
+      <pubDate>Wed, 21 Oct 2026 12:17:58 +0000</pubDate>
+    </item>    <item>
+      <title>To Understand Social Divides in Medieval England, Archaeologists Examined Tooth Enamel From Lead Mining Communities</title>
+      <link>https://www.smithsonianmag.com/smart-news/to-understand-social-divides-in-medieval-england-archaeologists-examined-tooth-enamel-from-lead-mining-communities-180989722/</link>
+      <description>
+        <![CDATA[Some residents of the Peaks District in the 13th century may have experienced worse lead pollution than city-dwellers during the Industrial Revolution. Female skeletons showed higher lead levels and earlier ages of death]]>
+      </description>
+      <source:markdown>Some residents of the Peaks District in the 13th century may have experienced worse lead pollution than city-dwellers during the Industrial Revolution. Female skeletons showed higher lead levels and earlier ages of death</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/fsVLl_Kv-6z3JhrehtV3vIyRXaY=/420x240/filters:focal(450x253:451x254)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/06/1f/061f4e31-ba3b-4dab-8937-adf2d2b74242/urn_cambridgeorg_id_binary-alt_20261002030248-45366-optimisedimage-png-s0003598x26104165_figab.jpg" length="930517" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/to-understand-social-divides-in-medieval-england-archaeologists-examined-tooth-enamel-from-lead-mining-communities-180989722/</guid>
+      <pubDate>Wed, 21 Oct 2026 11:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents</title>
+      <link>https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/</link>
+      <description>
+        <![CDATA[At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on Linux, with a Windows version arriving in December. Announcements include: [&#8230;]]]>
+      </description>
+      <source:markdown>At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on Linux, with a Windows version arriving in December. Announcements include: \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99244</guid>
+      <category>AI</category>
+      <category>Agentic AI</category>
+      <category>Artificial Intelligence</category>
+      <category>DGX Spark</category>
+      <category>GTC 2026</category>
+      <category>Local AI</category>
+      <category>NVIDIA RTX</category>
+      <category>Open Source</category>
+      <category>RTX AI Garage</category>
+      <category>RTX Spark</category>
+      <pubDate>Wed, 21 Oct 2026 10:50:37 +0000</pubDate>
+    </item>    <item>
+      <title>Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure</title>
+      <link>https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/</link>
+      <description>
+        <![CDATA[General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9 SuperNICs, Google Cloud Virgo Network and Google Cloud’s fourth-generation advanced liquid-cooling technology for demanding [&#8230;]]]>
+      </description>
+      <source:markdown>General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9 SuperNICs, Google Cloud Virgo Network and Google Cloud’s fourth-generation advanced liquid-cooling technology for demanding \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99227</guid>
+      <category>AI Infrastructure</category>
+      <category>Cloud</category>
+      <category>Hardware</category>
+      <category>Networking</category>
+      <category>GTC 2026</category>
+      <category>Nemotron</category>
+      <category>NVIDIA DSX</category>
+      <category>NVIDIA Vera Rubin</category>
+      <category>OpenShell</category>
+      <pubDate>Wed, 21 Oct 2026 10:45:17 +0000</pubDate>
+    </item>    <item>
+      <title>NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents</title>
+      <link>https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/</link>
+      <description>
+        <![CDATA[Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design.  NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for [&#8230;]]]>
+      </description>
+      <source:markdown>Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design.  NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99232</guid>
+      <category>AI Infrastructure</category>
+      <category>Cloud</category>
+      <category>Cosmos</category>
+      <category>GTC 2026</category>
+      <category>Nemotron</category>
+      <category>NVIDIA BlueField</category>
+      <category>NVIDIA DSX</category>
+      <category>NVIDIA in Europe</category>
+      <category>NVIDIA Spectrum-X Ethernet</category>
+      <category>NVIDIA Vera</category>
+      <category>OpenShell</category>
+      <pubDate>Wed, 21 Oct 2026 10:30:41 +0000</pubDate>
+    </item>    <item>
+      <title>Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA</title>
+      <link>https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/</link>
+      <description>
+        <![CDATA[To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open models, across the engineering and manufacturing lifecycle.  Bringing those capabilities together on the factory floor, the NVIDIA Factory Operations Blueprint (FOX) is now available in [&#8230;]]]>
+      </description>
+      <source:markdown>To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open models, across the engineering and manufacturing lifecycle.  Bringing those capabilities together on the factory floor, the NVIDIA Factory Operations Blueprint (FOX) is now available in \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99195</guid>
+      <category>AI</category>
+      <category>Cosmos</category>
+      <category>CUDA-X</category>
+      <category>GTC 2026</category>
+      <pubDate>Wed, 21 Oct 2026 10:30:40 +0000</pubDate>
+    </item>    <item>
+      <title>NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations</title>
+      <link>https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/</link>
+      <description>
+        <![CDATA[NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs.  Complex engineering feats — from advanced chips to aircraft to industrial systems —– depend on simulation to predict how designs will perform before they’re built. As designs become more complex, simulations [&#8230;]]]>
+      </description>
+      <source:markdown>NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs.  Complex engineering feats — from advanced chips to aircraft to industrial systems —– depend on simulation to predict how designs will perform before they’re built. As designs become more complex, simulations \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99204</guid>
+      <category>AI</category>
+      <category>CUDA-X</category>
+      <category>GTC 2026</category>
+      <category>Scientific Visualization</category>
+      <category>Simulation</category>
+      <pubDate>Wed, 21 Oct 2026 10:30:25 +0000</pubDate>
+    </item>    <item>
+      <title>NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure</title>
+      <link>https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/</link>
+      <description>
+        <![CDATA[NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy agents at scale. NVIDIA Confidential Computing is the infrastructure layer that protects the models and data those agents depend on while running. Today, NVIDIA [&#8230;]]]>
+      </description>
+      <source:markdown>NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy agents at scale. NVIDIA Confidential Computing is the infrastructure layer that protects the models and data those agents depend on while running. Today, NVIDIA \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99214</guid>
+      <category>AI</category>
+      <category>AI Infrastructure</category>
+      <category>GTC 2026</category>
+      <category>NVIDIA Blackwell</category>
+      <category>NVIDIA Vera Rubin</category>
+      <pubDate>Wed, 21 Oct 2026 10:30:02 +0000</pubDate>
+    </item>    <item>
+      <title>NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data</title>
+      <link>https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/</link>
+      <description>
+        <![CDATA[Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within.  Leading enterprises are using the open source NVIDIA Agent Toolkit — now expanded with new tools — to customize and control agents, use company data to inform their answers and actions, monitor what they do and [&#8230;]]]>
+      </description>
+      <source:markdown>Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within.  Leading enterprises are using the open source NVIDIA Agent Toolkit — now expanded with new tools — to customize and control agents, use company data to inform their answers and actions, monitor what they do and \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99221</guid>
+      <category>AI</category>
+      <category>Software</category>
+      <category>Agentic AI</category>
+      <category>GTC 2026</category>
+      <category>OpenShell</category>
+      <pubDate>Wed, 21 Oct 2026 10:10:01 +0000</pubDate>
+    </item>    <item>
+      <title>NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries</title>
+      <link>https://blogs.nvidia.com/blog/open-models-europe-industry/</link>
+      <description>
+        <![CDATA[NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what they need to build applications tailored to local languages and industries The portfolio includes the new NVIDIA Nemotron 3.5 Super VL and Nemotron 3.5 Bolt models; new NVIDIA Nemotron Retriever models for embedding, reranking [&#8230;]]]>
+      </description>
+      <source:markdown>NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what they need to build applications tailored to local languages and industries The portfolio includes the new NVIDIA Nemotron 3.5 Super VL and Nemotron 3.5 Bolt models; new NVIDIA Nemotron Retriever models for embedding, reranking \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99217</guid>
+      <category>AI</category>
+      <category>Driving</category>
+      <category>Software</category>
+      <category>Agentic AI</category>
+      <category>Cosmos</category>
+      <category>GTC 2026</category>
+      <category>Healthcare and Life Sciences</category>
+      <category>Nemotron</category>
+      <category>Open Source</category>
+      <category>Physical AI</category>
+      <category>Quantum Computing</category>
+      <pubDate>Wed, 21 Oct 2026 10:00:07 +0000</pubDate>
+    </item>    <item>
+      <title>GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote</title>
+      <link>https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/</link>
+      <description>
+        <![CDATA[Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permanent home has since hosted concerts, galas and political events. Today, it hosts a different kind of spectacle. GTC Berlin runs three days, with more than 100 sessions on agentic AI, robotics, [&#8230;]]]>
+      </description>
+      <source:markdown>Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permanent home has since hosted concerts, galas and political events. Today, it hosts a different kind of spectacle. GTC Berlin runs three days, with more than 100 sessions on agentic AI, robotics, \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99238</guid>
+      <category>AI</category>
+      <category>Artificial Intelligence</category>
+      <category>Events</category>
+      <category>GTC Berlin 2026</category>
+      <pubDate>Wed, 21 Oct 2026 09:30:16 +0000</pubDate>
+    </item>    <item>
+      <title>Can planting more trees make allergies worse?</title>
+      <link>https://www.npr.org/2026/10/21/nx-s1-5953066/fall-allergies-pollen-trees-asthma</link>
+      <description>
+        <![CDATA[Trees provide shade and clean air in congested cities, so planting more of them seems like a straightforward solution. But trees also produce a natural pollutant— pollen. In this episode, producer Juan Diego Ramirez reports on the link between growing urban canopies and allergy exposure, and what you can do to protect yourself.<br/><br/><em>Interested in more health stories? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Trees provide shade and clean air in congested cities, so planting more of them seems like a straightforward solution. But trees also produce a natural pollutant— pollen. In this episode, producer Juan Diego Ramirez reports on the link between growing urban canopies and allergy exposure, and what you can do to protect yourself.
+
+_Interested in more health stories? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/db22198b-4a47-40fd-a9eb-cfb7ae81f1b3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=db22198b-4a47-40fd-a9eb-cfb7ae81f1b3&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-5953066&#38;p=510351&#38;d=700&#38;size=11201394" length="11201394" type="audio/mpeg" />
+      <guid>cid://20bf1a4f-9c8e-4317-aa09-d1c1ffbef44e</guid>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 October 21 – New… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated New [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 October 21 – New… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated New \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/</guid>
+      <category>APOD</category>
+      <pubDate>Wed, 21 Oct 2026 04:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>Extratropical Cyclone Whips Past Iceland</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/</link>
+      <description>
+        <![CDATA[The powerful low-pressure system formed over the North Atlantic out of the remnants of Hurricane Isaias.]]>
+      </description>
+      <source:markdown>The powerful low-pressure system formed over the North Atlantic out of the remnants of Hurricane Isaias.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/</guid>
+      <category>Earth Observatory</category>
+      <category>Extreme Weather Events</category>
+      <category>Visible Infrared Imaging Radiometer Suite (VIIRS)</category>
+      <pubDate>Wed, 21 Oct 2026 04:01:00 +0000</pubDate>
+    </item>    <item>
+      <title>Apple stops pretending macOS is UNIX</title>
+      <link>https://www.osnews.com/story/146203/apple-stops-pretending-macos-is-unix/</link>
+      <description>
+        <![CDATA[Early 2025, I wrote about how I think macOS&#8217; UNIX certification was basically a lie. It required so many convoluted and cumbersome changes to macOS that literally nobody applies to their system that it the certification had kind of become a farce. At the end of the article I wondered for how much longer Apple would be playing this little charade to hammer macOS through a meaningless UNIX-shaped hole, and it turns out the answer was &#8220;about 18 months&#8221;. When you go to the Open Group&#8217;s website and the list of certified UNIX operating systems, macOS is no longer listed. For the past few weeks, it was still listed if you drilled down specifically to the UNIX 03 certification, but that, too, has now been removed. Assuming macOS 27 doesn&#8217;t return in the near future with a brand new certification, we can safely say that Apple got tired of paying a few employees to get its desktop operating system certified. With one more operating system gone from the list, there&#8217;s now only one UNIX operating systems left: AIX. While the registry also lists HP-UX, z/OS, and UnixWare/OpenServer, those either only conform to really old UNIX certifications (from the &#8217;90s), or simply aren&#8217;t developed anymore (HP sunset HP-UX at the end of last year). Only one operating system version conforms to the latest version of the certification, UNIX 07, and that&#8217;s AIX 7.2 TL5 &#8220;and later&#8221;, which possibly includes AIX 7.3, the most recent version of AIX. Not that any of this really matters.]]>
+      </description>
+      <source:markdown>Early 2025, I wrote about how I think macOS’ UNIX certification was basically a lie. It required so many convoluted and cumbersome changes to macOS that literally nobody applies to their system that it the certification had kind of become a farce. At the end of the article I wondered for how much longer Apple would be playing this little charade to hammer macOS through a meaningless UNIX-shaped hole, and it turns out the answer was “about 18 months”. When you go to the Open Group’s website and the list of certified UNIX operating systems, macOS is no longer listed. For the past few weeks, it was still listed if you drilled down specifically to the UNIX 03 certification, but that, too, has now been removed. Assuming macOS 27 doesn’t return in the near future with a brand new certification, we can safely say that Apple got tired of paying a few employees to get its desktop operating system certified. With one more operating system gone from the list, there’s now only one UNIX operating systems left: AIX. While the registry also lists HP-UX, z/OS, and UnixWare/OpenServer, those either only conform to really old UNIX certifications (from the ’90s), or simply aren’t developed anymore (HP sunset HP-UX at the end of last year). Only one operating system version conforms to the latest version of the certification, UNIX 07, and that’s AIX 7.2 TL5 “and later”, which possibly includes AIX 7.3, the most recent version of AIX. Not that any of this really matters.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146203</guid>
+      <category>macOS</category>
+      <pubDate>Tue, 20 Oct 2026 21:41:56 +0000</pubDate>
+    </item>    <item>
+      <title>A Rhode Island Man Grew the First Pumpkin to Surpass 3,000 Pounds. The Gargantuan Gourd Is the Largest Fruit Ever</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-rhode-island-man-grew-the-first-pumpkin-to-surpass-3000-pounds-the-gargantuan-gourd-is-the-largest-fruit-ever-180989723/</link>
+      <description>
+        <![CDATA[On October 10, Ron Wallace took the pumpkin king crown with a 3,156-pounder. The previous record—a respectable, nearly 2,857-pound pumpkin—was set just a week earlier by British grower Ian Paton]]>
+      </description>
+      <source:markdown>On October 10, Ron Wallace took the pumpkin king crown with a 3,156-pounder. The previous record—a respectable, nearly 2,857-pound pumpkin—was set just a week earlier by British grower Ian Paton</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/hjyCXJnfyE4cp1DJAhhIdm60N1w=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d6/4c/d64cc167-99f1-4988-8f9c-9135d3fa4817/846378470_1617719747031956_692727846930532438_n.jpg" length="641016" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-rhode-island-man-grew-the-first-pumpkin-to-surpass-3000-pounds-the-gargantuan-gourd-is-the-largest-fruit-ever-180989723/</guid>
+      <pubDate>Tue, 20 Oct 2026 21:20:19 +0000</pubDate>
+    </item>    <item>
+      <title>NASA to Conduct Low-Altitude Flights Over Texas Farmland</title>
+      <link>https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/</link>
+      <description>
+        <![CDATA[Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location of the flights. A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Amarillo, Texas, from Thursday, Oct. 22, through Monday, Nov. 9. These flights will measure gaseous and particulate emissions from [&#8230;]]]>
+      </description>
+      <source:markdown>Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location of the flights. A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Amarillo, Texas, from Thursday, Oct. 22, through Monday, Nov. 9. These flights will measure gaseous and particulate emissions from \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1056679</guid>
+      <category>General</category>
+      <category>Ames Research Center</category>
+      <category>NASA Aircraft</category>
+      <pubDate>Tue, 20 Oct 2026 20:21:36 +0000</pubDate>
+    </item>    <item>
+      <title>Sick Corals Can Heal With the Help of a &#39;Magic Touch&#39; From Healthy Ones, Offering Hope for Heat-Damaged Marine Ecosystems</title>
+      <link>https://www.smithsonianmag.com/smart-news/sick-corals-can-heal-with-the-help-of-a-magic-touch-from-healthy-ones-offering-hope-for-heat-damaged-marine-ecosystems-180989693/</link>
+      <description>
+        <![CDATA[A coral is often a colony of tiny, genetically identical animals. New research suggests that when a bleached coral fragment comes into physical contact with a colorful, thriving clone, the pale one can revive within weeks]]>
+      </description>
+      <source:markdown>A coral is often a colony of tiny, genetically identical animals. New research suggests that when a bleached coral fragment comes into physical contact with a colorful, thriving clone, the pale one can revive within weeks</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/-oJtKm37u_1J6LddYF4uC9zDSfE=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/15/38/153880b7-e88e-4c86-aea8-52ad810ee8de/smithsonian_feature_images_28.png" length="1174385" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/sick-corals-can-heal-with-the-help-of-a-magic-touch-from-healthy-ones-offering-hope-for-heat-damaged-marine-ecosystems-180989693/</guid>
+      <pubDate>Tue, 20 Oct 2026 18:56:20 +0000</pubDate>
+    </item>    <item>
+      <title>The First Step Toward Digital Independence: Why AweSIM Matters</title>
+      <link>https://puri.sm/posts/the-first-step-toward-digital-independence-why-awesim-matters/</link>
+      <description>
+        <![CDATA[<p>The privacy movement often asks people to make significant changes. Switch phones. Change operating systems. Learn new tools. Adopt new habits. We do that too.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/the-first-step-toward-digital-independence-why-awesim-matters/">The First Step Toward Digital Independence: Why AweSIM Matters</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>The privacy movement often asks people to make significant changes. Switch phones. Change operating systems. Learn new tools. Adopt new habits. We do that too.
+
+The post [The First Step Toward Digital Independence: Why AweSIM Matters](https://puri.sm/posts/the-first-step-toward-digital-independence-why-awesim-matters/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+      <guid>cid://https://puri.sm/?p=86235</guid>
+      <category>AweSIM</category>
+      <category>Liberty Phone</category>
+      <category>Librem 5</category>
+      <category>Privacy</category>
+      <category>Private Cellular Networking</category>
+      <category>Security</category>
+      <category>SIMple</category>
+      <category>Voice &#38; Data Services</category>
+      <category>librem 5</category>
+      <category>Phones</category>
+      <category>SIMple Plus</category>
+      <category>smartphone</category>
+      <pubDate>Tue, 20 Oct 2026 18:34:44 +0000</pubDate>
+    </item>    <item>
+      <title>A Vast New Database Shows How Britain Built a Global Empire by Trading Goods Like Coal, Wine and Wood Closer to Home</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-vast-new-database-shows-how-britain-built-a-global-empire-by-trading-goods-like-coal-wine-and-wood-closer-to-home-180989717/</link>
+      <description>
+        <![CDATA[Using AI to comb through hundreds of thousands of handwritten pages of port records, historians have constructed an interactive map of Britain’s maritime trading routes. Even as it expanded in Asia and the Americas, Britain's commerce with Europe remained overwhelming]]>
+      </description>
+      <source:markdown>Using AI to comb through hundreds of thousands of handwritten pages of port records, historians have constructed an interactive map of Britain’s maritime trading routes. Even as it expanded in Asia and the Americas, Britain&#39;s commerce with Europe remained overwhelming</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/72Y-aZOgr2N6rWd1OMWMGdjN81s=/420x240/filters:focal(464x287:465x288)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c2/6b/c26b4a71-6e73-4f08-b244-dd2619029e28/a_port_book_being_digitally_transferred_at_the_national_archives_in_kew_cropped_alt-1.jpg" length="115967" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-vast-new-database-shows-how-britain-built-a-global-empire-by-trading-goods-like-coal-wine-and-wood-closer-to-home-180989717/</guid>
+      <pubDate>Tue, 20 Oct 2026 18:34:12 +0000</pubDate>
+    </item>    <item>
+      <title>NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module</title>
+      <link>https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/</link>
+      <description>
+        <![CDATA[Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuclear power module. To expedite development of the spacecraft, NASA [&#8230;]]]>
+      </description>
+      <source:markdown>Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuclear power module. To expedite development of the spacecraft, NASA \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1057550</guid>
+      <category>Glenn Research Center</category>
+      <category>General</category>
+      <category>Science &#38; Research</category>
+      <category>Space Nuclear Propulsion (SNP)</category>
+      <category>Technology</category>
+      <pubDate>Tue, 20 Oct 2026 18:11:33 +0000</pubDate>
+    </item>    <item>
+      <title>OpenBSD 8.0 released</title>
+      <link>https://www.osnews.com/story/146200/openbsd-8-0-released/</link>
+      <description>
+        <![CDATA[Hot on the heels of Wine being ported to OpenBSD, we now have the release of OpenBSD 8.0. It adds hibernate support for arm64, switches the sparc64 toolchain to LLVM, and updates the DRM graphics drivers to Linux 6.18.53, which also adds support for Intel Arc A-Series (DG2/Alchemist) graphics cards. There&#8217;s a whole bunch of improvements, fixes, and changes for RISC-V and ARM in general, of course, as well as to the various Wi-Fi drivers. On top of that, it also comes with new versions of OpenSSH and LibreSSL, as well as a massive list of other improvements and fixes. If you&#8217;ve never installed OpenBSD before, be sure to read this detailed guide to know what to do once everything&#8217;s installed, while listening to the official release song, of course.]]>
+      </description>
+      <source:markdown>Hot on the heels of Wine being ported to OpenBSD, we now have the release of OpenBSD 8.0. It adds hibernate support for arm64, switches the sparc64 toolchain to LLVM, and updates the DRM graphics drivers to Linux 6.18.53, which also adds support for Intel Arc A-Series (DG2/Alchemist) graphics cards. There’s a whole bunch of improvements, fixes, and changes for RISC-V and ARM in general, of course, as well as to the various Wi-Fi drivers. On top of that, it also comes with new versions of OpenSSH and LibreSSL, as well as a massive list of other improvements and fixes. If you’ve never installed OpenBSD before, be sure to read this detailed guide to know what to do once everything’s installed, while listening to the official release song, of course.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146200</guid>
+      <category>OpenBSD</category>
+      <pubDate>Tue, 20 Oct 2026 17:50:54 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Experimental Mars Helicopter Blade Designs Target Longer Flights</title>
+      <link>https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/</link>
+      <description>
+        <![CDATA[NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers.]]>
+      </description>
+      <source:markdown>NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers.</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1057581</guid>
+      <category>Aeronautics Research</category>
+      <category>Ames Research Center</category>
+      <category>General</category>
+      <category>Ingenuity (Helicopter)</category>
+      <pubDate>Tue, 20 Oct 2026 16:02:35 +0000</pubDate>
+    </item>    <item>
+      <title>The World&#39;s Tallest Trees Seem to Struggle to Make Their Own Food During Heat Waves, Leaving Them Vulnerable as the World Warms</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-worlds-tallest-trees-seem-to-struggle-to-make-their-own-food-during-heat-waves-leaving-them-vulnerable-as-the-world-warms-180989714/</link>
+      <description>
+        <![CDATA[Coast redwoods, which grow only from central California to southern Oregon, slow photosynthesis when temperatures ramp up, according to a new study. Scientists worry about the towering plants' future amid climate change]]>
+      </description>
+      <source:markdown>Coast redwoods, which grow only from central California to southern Oregon, slow photosynthesis when temperatures ramp up, according to a new study. Scientists worry about the towering plants&#39; future amid climate change</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/b3I5Kg8srVFRX4QRoX1NalzrTHw=/420x240/filters:focal(600x400:601x401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/83/35/8335dd93-0af6-4942-8526-d3be678e0670/20010915_redwood_7806.png" length="1836237" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/the-worlds-tallest-trees-seem-to-struggle-to-make-their-own-food-during-heat-waves-leaving-them-vulnerable-as-the-world-warms-180989714/</guid>
+      <pubDate>Tue, 20 Oct 2026 16:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Provides Progress Update on Moon Base Rovers</title>
+      <link>https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/</link>
+      <description>
+        <![CDATA[As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and infrastructure needed for astronauts to live and work on the Moon. [&#8230;]]]>
+      </description>
+      <source:markdown>As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and infrastructure needed for astronauts to live and work on the Moon. \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1055949</guid>
+      <category>Moon Base</category>
+      <category>Ames Research Center</category>
+      <category>Commercial Lunar Payload Services (CLPS)</category>
+      <category>Glenn Research Center</category>
+      <category>Johnson Space Center</category>
+      <category>Missions</category>
+      <category>NASA Headquarters</category>
+      <category>VIPER (Volatiles Investigating Polar Exploration Rover)</category>
+      <pubDate>Tue, 20 Oct 2026 15:00:10 +0000</pubDate>
+    </item>    <item>
+      <title>Webb Captures Stellar Jets</title>
+      <link>https://www.nasa.gov/image-article/webb-captures-stellar-jets/</link>
+      <description>
+        <![CDATA[An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Learn more about this region – and tour it in [&#8230;]]]>
+      </description>
+      <source:markdown>An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Learn more about this region – and tour it in \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1057477</guid>
+      <pubDate>Tue, 20 Oct 2026 14:44:09 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory</title>
+      <link>https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/</link>
+      <description>
+        <![CDATA[The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration. “Uzbekistan joins the Artemis Accords at a pivotal moment,” said NASA Deputy Administrator Matt Anderson. “President Trump has directed NASA to build [&#8230;]]]>
+      </description>
+      <source:markdown>The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration. “Uzbekistan joins the Artemis Accords at a pivotal moment,” said NASA Deputy Administrator Matt Anderson. “President Trump has directed NASA to build \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1057634</guid>
+      <category>Artemis Accords</category>
+      <category>Office of International and Interagency Relations (OIIR)</category>
+      <pubDate>Tue, 20 Oct 2026 14:21:42 +0000</pubDate>
+    </item>    <item>
+      <title>This Dog Learned to Sniff Out a Slimy Marine Invader Called &#39;Sea Vomit&#39;—a Skill That Earned Her the Animal of the Year Award</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-dog-learned-to-sniff-out-a-slimy-marine-invader-called-sea-vomit-a-skill-that-earned-her-the-animal-of-the-year-award-180989706/</link>
+      <description>
+        <![CDATA[Sgiath, a 6-year-old Labrador from the Scottish Highlands, received the honor from the International Fund for Animal Welfare. She's believed to be the first pup trained to hunt for the invasive carpet sea squirt, which is threatening marine life along the British coast and elsewhere]]>
+      </description>
+      <source:markdown>Sgiath, a 6-year-old Labrador from the Scottish Highlands, received the honor from the International Fund for Animal Welfare. She&#39;s believed to be the first pup trained to hunt for the invasive carpet sea squirt, which is threatening marine life along the British coast and elsewhere</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/hx7NyzqUIqfbAxiSthCC530GCzI=/420x240/filters:focal(800x450:801x451)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b1/0d/b10d3281-4d6e-4572-95fa-40934e26c5ac/whatsapp_image_2026-10-14_at_113349.jpeg" length="172097" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-dog-learned-to-sniff-out-a-slimy-marine-invader-called-sea-vomit-a-skill-that-earned-her-the-animal-of-the-year-award-180989706/</guid>
+      <pubDate>Tue, 20 Oct 2026 14:00:00 +0000</pubDate>
+    </item>    <item>
       <title>Archaeologists Searching for Evidence of a Norse Church in Greenland Have Found &#39;the Smoking Gun&#39; Near Erik the Red&#39;s Settlement</title>
       <link>https://www.smithsonianmag.com/smart-news/archaeologists-searching-for-evidence-of-a-norse-church-in-greenland-have-found-the-smoking-gu-near-erik-the-reds-settlement-180989716/</link>
       <description>
@@ -17,6 +395,20 @@
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/0T4kspTNf8nW1Ki407h19Og-EUo=/420x240/filters:focal(1024x770:1025x771)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/55/77/5577cbb9-bd8f-4f91-b54d-210bb5485761/d825eef1-5fa2-43fb-be4e-e994e5ea8ccc.jpeg" length="284168" type="image/jpeg" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/archaeologists-searching-for-evidence-of-a-norse-church-in-greenland-have-found-the-smoking-gu-near-erik-the-reds-settlement-180989716/</guid>
       <pubDate>Tue, 20 Oct 2026 11:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure</title>
+      <link>https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/</link>
+      <description>
+        <![CDATA[Nebius and Nscale are among global technology partners looking to NVIDIA Vera CPUs to build the next wave of infrastructure. Their momentum reflects rapid advancements in agentic computing.  Agents do more than generate answers: they retrieve information, run software tools, execute code and evaluate results. Each step depends on fast CPU processing.  Vera accelerates that [&#8230;]]]>
+      </description>
+      <source:markdown>Nebius and Nscale are among global technology partners looking to NVIDIA Vera CPUs to build the next wave of infrastructure. Their momentum reflects rapid advancements in agentic computing.  Agents do more than generate answers: they retrieve information, run software tools, execute code and evaluate results. Each step depends on fast CPU processing.  Vera accelerates that \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99208</guid>
+      <category>AI Infrastructure</category>
+      <category>Hardware</category>
+      <category>Agentic AI</category>
+      <category>GTC 2026</category>
+      <category>NVIDIA Vera</category>
+      <pubDate>Tue, 20 Oct 2026 10:30:11 +0000</pubDate>
     </item>    <item>
       <title>What are the odds we&#39;re not alone in the universe?</title>
       <link>https://www.npr.org/2026/10/20/nx-s1-5991784/alien-life-space-planets-nasa</link>
@@ -52,6 +444,7 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <category>Climate</category>
       <category>Customer Stories</category>
       <category>Events</category>
+      <category>GTC 2026</category>
       <category>Healthcare and Life Sciences</category>
       <category>High-Performance Computing</category>
       <category>Inception</category>
@@ -259,6 +652,7 @@ The post [AI Proved the Quasi-Riemann Hypothesis. What Happens Now?](https://www
       <category>Artificial Intelligence</category>
       <category>Customer Stories</category>
       <category>Events</category>
+      <category>GTC 2026</category>
       <category>Media and Entertainment</category>
       <category>NVIDIA in Europe</category>
       <category>Open Source</category>
@@ -746,17 +1140,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/R-gMLy3SSOo1kJkX1gKiSD7KmdM=/420x240/filters:focal(918x507:919x508)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ee/93/ee93d12c-9c47-4e9b-9f03-876dfa91ef38/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp" length="2041394" type="image/webp" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/a-detailed-martian-rover-photograph-highlights-mysterious-cliffs-on-the-edge-of-one-of-mars-mountains-180989675/</guid>
       <pubDate>Thu, 15 Oct 2026 16:50:01 +0000</pubDate>
-    </item>    <item>
-      <title>NASA to Conduct Low-Altitude Flights Over Texas Farmland</title>
-      <link>https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/</link>
-      <description>
-        <![CDATA[A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct. 22, through Monday, Nov. 9. These flights will measure gaseous and particulate emissions from animal feeding operations. Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. The FarmFlux mission will deploy [&#8230;]]]>
-      </description>
-      <source:markdown>A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct. 22, through Monday, Nov. 9. These flights will measure gaseous and particulate emissions from animal feeding operations. Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. The FarmFlux mission will deploy \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1056679</guid>
-      <category>General</category>
-      <category>Ames Research Center</category>
-      <pubDate>Thu, 15 Oct 2026 16:42:10 +0000</pubDate>
     </item>    <item>
       <title>London&#39;s Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of &#39;Living History.&#39; Now It&#39;s Protected by the National Trust for Generations to Come</title>
       <link>https://www.smithsonianmag.com/smart-news/londons-oldest-restaurant-frequented-by-monarchs-and-pop-stars-alike-is-a-site-of-living-history-now-its-protected-by-the-national-trust-for-generations-to-come-180989688/</link>
@@ -3601,211 +3984,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <category>Hurricanes &#38; Typhoons</category>
       <category>Visible Infrared Imaging Radiometer Suite (VIIRS)</category>
       <pubDate>Wed, 30 Sep 2026 04:01:00 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Opens 2027 Human Lander Challenge for Lunar Communications</title>
-      <link>https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/</link>
-      <description>
-        <![CDATA[NASA’s 2027 Human Lander Challenge is seeking ideas from college and university students to help address one of the most critical needs for sustained lunar exploration: reliable communications. As NASA prepares for long-term human presence on the Moon through the Artemis and Moon Base programs, communications systems will be just as important as spacecraft and [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s 2027 Human Lander Challenge is seeking ideas from college and university students to help address one of the most critical needs for sustained lunar exploration: reliable communications. As NASA prepares for long-term human presence on the Moon through the Artemis and Moon Base programs, communications systems will be just as important as spacecraft and \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1051652</guid>
-      <category>Human Landing System Program</category>
-      <category>Artemis</category>
-      <category>Center of Excellence for Collaborative Innovation (CoECI)</category>
-      <category>CoECI News</category>
-      <category>Humans in Space</category>
-      <category>Marshall Space Flight Center</category>
-      <category>Prizes, Challenges, &#38; Crowdsourcing News</category>
-      <category>Prizes, Challenges, and Crowdsourcing Program</category>
-      <category>Research and Technology Mission Directorate</category>
-      <pubDate>Tue, 29 Sep 2026 21:27:56 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Awards Orbital Safety Analysis Support Services Contract</title>
-      <link>https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/</link>
-      <description>
-        <![CDATA[NASA has awarded a contract to Omitron Inc. for the acquisition of orbital safety analysis services, which provide for critical protection of NASA spaceflight assets and astronaut lives. This indefinite-delivery contract is valued at approximately $23.5 million over a five-year period of performance and entails conjunction assessment screening services for all NASA uncrewed spacecraft, support [&#8230;]]]>
-      </description>
-      <source:markdown>NASA has awarded a contract to Omitron Inc. for the acquisition of orbital safety analysis services, which provide for critical protection of NASA spaceflight assets and astronaut lives. This indefinite-delivery contract is valued at approximately $23.5 million over a five-year period of performance and entails conjunction assessment screening services for all NASA uncrewed spacecraft, support \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1051346</guid>
-      <category>Goddard Space Flight Center</category>
-      <pubDate>Tue, 29 Sep 2026 21:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Features Exploration, Science at International Space Conference</title>
-      <link>https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/</link>
-      <description>
-        <![CDATA[NASA will participate in the 77th International Astronautical Congress (IAC) in Antalya, Türkiye, from Monday, Oct. 5, to Friday, Oct. 9, highlighting America’s leadership in human exploration to the Moon and Mars, advancing responsible exploration under the Artemis Accords, world-changing science, and support for the commercial space sector.&#160; The IAC, organized by the International Astronautical [&#8230;]]]>
-      </description>
-      <source:markdown>NASA will participate in the 77th International Astronautical Congress (IAC) in Antalya, Türkiye, from Monday, Oct. 5, to Friday, Oct. 9, highlighting America’s leadership in human exploration to the Moon and Mars, advancing responsible exploration under the Artemis Accords, world-changing science, and support for the commercial space sector.  The IAC, organized by the International Astronautical \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1051625</guid>
-      <category>Opportunities For International Participants to Get Involved</category>
-      <category>Office of International and Interagency Relations (OIIR)</category>
-      <pubDate>Tue, 29 Sep 2026 20:55:24 +0000</pubDate>
-    </item>    <item>
-      <title>MRI Scans Might Reveal Signs of Alzheimer&#39;s Disease Seven Years Before a Telltale Marker Appears in the Brain</title>
-      <link>https://www.smithsonianmag.com/smart-news/mri-scans-might-reveal-signs-of-alzheimers-disease-seven-years-before-a-telltale-marker-appears-in-the-brain-180989570/</link>
-      <description>
-        <![CDATA[Not all researchers are convinced that the brain changes detected via MRI are robust enough to become a diagnostic tool. But the findings could help researchers better understand the mechanisms that drive the neurodegenerative disease]]>
-      </description>
-      <source:markdown>Not all researchers are convinced that the brain changes detected via MRI are robust enough to become a diagnostic tool. But the findings could help researchers better understand the mechanisms that drive the neurodegenerative disease</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/zpbuzpzdXyOil8zFATo7JIRWpAk=/420x240/filters:focal(3680x2488:3681x2489)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/16/16/1616de65-269e-40a2-b249-780f47517d1d/mri-scan.jpg" length="8217954" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/mri-scans-might-reveal-signs-of-alzheimers-disease-seven-years-before-a-telltale-marker-appears-in-the-brain-180989570/</guid>
-      <pubDate>Tue, 29 Sep 2026 20:33:37 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract</title>
-      <link>https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/</link>
-      <description>
-        <![CDATA[In accordance with a contract on-ramp clause, NASA has added Blue Origin’s New Glenn 9&#215;4 launch service to the NASA Launch Services (NLS) II contract. The New Glenn 9&#215;4 launch service will be available to NASA’s Launch Services Program Office to use for future missions. The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts with an [&#8230;]]]>
-      </description>
-      <source:markdown>In accordance with a contract on-ramp clause, NASA has added Blue Origin’s New Glenn 9×4 launch service to the NASA Launch Services (NLS) II contract. The New Glenn 9×4 launch service will be available to NASA’s Launch Services Program Office to use for future missions. The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts with an \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1051579</guid>
-      <category>Kennedy Space Center</category>
-      <category>Launch Services Program</category>
-      <pubDate>Tue, 29 Sep 2026 20:08:01 +0000</pubDate>
-    </item>    <item>
-      <title>In One of Rome’s Most Famed and Neglected Villas, Centuries-Old Risqué Frescoes, Painted Over by Nuns, Have Reappeared</title>
-      <link>https://www.smithsonianmag.com/smart-news/in-one-of-romes-most-famed-and-neglected-villas-centuries-old-risque-frescoes-painted-over-by-nuns-have-reappeared-180989585/</link>
-      <description>
-        <![CDATA[Nearly a year into a $40 million restoration of the Villa Silvestri Rivaldi, conservators are rediscovering and reviving 16th-century art]]>
-      </description>
-      <source:markdown>Nearly a year into a $40 million restoration of the Villa Silvestri Rivaldi, conservators are rediscovering and reviving 16th-century art</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/s_9vplfAP1gXxmh2SFp1UXDIFHw=/420x240/filters:focal(600x400:601x401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9d/f7/9df77a95-aaf8-42d2-9516-c5a9713762d9/9-dicembre-villa-silvestri-rivaldi-rocca-giuli-baldassarre-15.jpg" length="198528" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/in-one-of-romes-most-famed-and-neglected-villas-centuries-old-risque-frescoes-painted-over-by-nuns-have-reappeared-180989585/</guid>
-      <pubDate>Tue, 29 Sep 2026 20:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Sets Crew-13 Launch, Docking Coverage</title>
-      <link>https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/</link>
-      <description>
-        <![CDATA[NASA will provide live coverage of prelaunch, launch, and docking activities for the agency’s SpaceX Crew‑13 mission to the International Space Station. Live coverage will stream through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live Crew‑13 is scheduled to launch at 11:10 a.m. EDT, Thursday, Oct. 1, from Space Launch Complex 40 at [&#8230;]]]>
-      </description>
-      <source:markdown>NASA will provide live coverage of prelaunch, launch, and docking activities for the agency’s SpaceX Crew‑13 mission to the International Space Station. Live coverage will stream through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live Crew‑13 is scheduled to launch at 11:10 a.m. EDT, Thursday, Oct. 1, from Space Launch Complex 40 at \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1051327</guid>
-      <category>Humans in Space</category>
-      <category>Commercial Crew</category>
-      <category>International Space Station (ISS)</category>
-      <pubDate>Tue, 29 Sep 2026 18:57:14 +0000</pubDate>
-    </item>    <item>
-      <title>Anthropic Says Its A.I. Discovered a New Enzyme System That Resembles the Revolutionary Gene-Editing Tool CRISPR</title>
-      <link>https://www.smithsonianmag.com/smart-news/anthropic-says-its-ai-discovered-a-new-enzyme-system-that-resembles-the-revolutionary-gene-editing-tool-crispr-180989578/</link>
-      <description>
-        <![CDATA[Experts at the company don't know what the newfound system does, so its potential utility in biology—if any—remains unclear. But the work marks a major advancement because the A.I. made this discovery mostly on its own]]>
-      </description>
-      <source:markdown>Experts at the company don&#39;t know what the newfound system does, so its potential utility in biology—if any—remains unclear. But the work marks a major advancement because the A.I. made this discovery mostly on its own</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/AER28tCCSbXzov2lp_ZYgL_qfb4=/420x240/filters:focal(1757x841:1758x842)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a0/c7/a0c7f0f1-1d56-4cbe-9ac6-2aa724305fdd/screenshot_2026-09-28_at_125214.png" length="3699319" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/anthropic-says-its-ai-discovered-a-new-enzyme-system-that-resembles-the-revolutionary-gene-editing-tool-crispr-180989578/</guid>
-      <pubDate>Tue, 29 Sep 2026 18:16:27 +0000</pubDate>
-    </item>    <item>
-      <title>The Milwaukee Art Museum Just Returned Two Ceramics Made by Enslaved Potter David Drake to His Descendants</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-milwaukee-art-museum-just-returned-two-ceramics-made-by-enslaved-potter-david-drake-to-his-descendants-180989586/</link>
-      <description>
-        <![CDATA[The two vessels, one of them a signed 1855 jar, are the latest to be reinstituted to Drake’s family, who are on a mission to acquire the works of their ancestor]]>
-      </description>
-      <source:markdown>The two vessels, one of them a signed 1855 jar, are the latest to be reinstituted to Drake’s family, who are on a mission to acquire the works of their ancestor</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/5KIw5l6soBHZ7jAA3hSMsZ_8tLU=/420x240/filters:focal(1242x828:1243x829)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/44/0b/440b06cd-d76d-495e-bded-151b36f5202a/im048333_press.jpeg" length="3313439" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/the-milwaukee-art-museum-just-returned-two-ceramics-made-by-enslaved-potter-david-drake-to-his-descendants-180989586/</guid>
-      <pubDate>Tue, 29 Sep 2026 18:07:38 +0000</pubDate>
-    </item>    <item>
-      <title>Crew-13 Rocket and Spacecraft at Launch Pad</title>
-      <link>https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/</link>
-      <description>
-        <![CDATA[Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dragon spacecraft are vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida in this Sept. 27, 2026, photo. NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey [&#8230;]]]>
-      </description>
-      <source:markdown>Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dragon spacecraft are vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida in this Sept. 27, 2026, photo. NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1051255</guid>
-      <pubDate>Tue, 29 Sep 2026 15:31:56 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Opens Applications for Second Season of ORBIT Student Challenge</title>
-      <link>https://www.nasa.gov/learning-resources/research-program-for-students/</link>
-      <description>
-        <![CDATA[Following a successful inaugural year of ingenuity and career building, NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology) has officially returned for a second season to bring university and college student innovation to the forefront of Earth technology development and deep-space exploration. Registration for the 2026–2027 challenge is open through Monday, Nov. 16, 2026, [&#8230;]]]>
-      </description>
-      <source:markdown>Following a successful inaugural year of ingenuity and career building, NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology) has officially returned for a second season to bring university and college student innovation to the forefront of Earth technology development and deep-space exploration. Registration for the 2026–2027 challenge is open through Monday, Nov. 16, 2026, \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=938105</guid>
-      <category>Learning Resources</category>
-      <category>For Colleges &#38; Universities</category>
-      <category>Prizes, Challenges, &#38; Crowdsourcing News</category>
-      <category>Prizes, Challenges, and Crowdsourcing Program</category>
-      <category>Research and Technology Mission Directorate</category>
-      <pubDate>Tue, 29 Sep 2026 15:11:15 +0000</pubDate>
-    </item>    <item>
-      <title>NSTGRO 2026</title>
-      <link>https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro/nstgro-2026/</link>
-      <description>
-        <![CDATA[NSTGRO Homepage Omar AlyousefUniversity Of MemphisPolycatenated Architected Materials (PAM) for Origami-Inspired Space Docking Ports Cade ArmstrongUniversity Of Texas at AustinIntelligent Multi-Agent Constellations for Cooperative Cislunar Operations Laurel BarnettHarvard UniversityPhotonic SNSPD Readout and Feed Forward System for Improved Optical Communication Capabilities Katie BarcakWilliam Marsh Rice UniversityCompact magnetic heat switch for thermal management of long duration low [&#8230;]]]>
-      </description>
-      <source:markdown>NSTGRO Homepage Omar AlyousefUniversity Of MemphisPolycatenated Architected Materials (PAM) for Origami-Inspired Space Docking Ports Cade ArmstrongUniversity Of Texas at AustinIntelligent Multi-Agent Constellations for Cooperative Cislunar Operations Laurel BarnettHarvard UniversityPhotonic SNSPD Readout and Feed Forward System for Improved Optical Communication Capabilities Katie BarcakWilliam Marsh Rice UniversityCompact magnetic heat switch for thermal management of long duration low \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1051335</guid>
-      <category>NASA Space Technology Graduate Research Opportunities (NSTGRO)</category>
-      <pubDate>Tue, 29 Sep 2026 14:20:08 +0000</pubDate>
-    </item>    <item>
-      <title>Two Heads Are Better Than One: Rare, Double-Headed Turtle Hatchling Discovered on Cape Cod</title>
-      <link>https://www.smithsonianmag.com/smart-news/two-heads-are-better-than-one-rare-double-headed-turtle-hatchling-discovered-on-cape-cod-180989579/</link>
-      <description>
-        <![CDATA[The tiny diamondback terrapin was brought to a wildlife center on September 17. At the time, the creature weighed about as much as a nickel]]>
-      </description>
-      <source:markdown>The tiny diamondback terrapin was brought to a wildlife center on September 17. At the time, the creature weighed about as much as a nickel</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/flwUuAGybpt7R1nDtt2k5FwihnQ=/420x240/filters:focal(816x482:817x483)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c1/32/c1323fed-f8b0-41ff-be13-e2a9fa983d82/813878266_1366770682282989_6709670340602065331_n.jpg" length="584558" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/two-heads-are-better-than-one-rare-double-headed-turtle-hatchling-discovered-on-cape-cod-180989579/</guid>
-      <pubDate>Tue, 29 Sep 2026 13:33:21 +0000</pubDate>
-    </item>    <item>
-      <title>In 1884, Gale-Force Winds Ran a Ship Aground Near Cape Cod. Now, the Nor’easter Lashing the East Coast May Have Uncovered Part of It</title>
-      <link>https://www.smithsonianmag.com/smart-news/in-1884-gale-force-winds-ran-a-ship-aground-near-cape-code-now-the-noreaster-lashing-the-east-coast-may-have-uncovered-part-of-it-180989583/</link>
-      <description>
-        <![CDATA[The wreckage could belong to the “Warren Sawyer,” a three-masted cargo schooner that foundered more than 140 years ago]]>
-      </description>
-      <source:markdown>The wreckage could belong to the “Warren Sawyer,” a three-masted cargo schooner that foundered more than 140 years ago</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/9omqHzx4brllSvWkD9_mL6i4XG0=/420x240/filters:focal(2016x1517:2017x1518)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/74/af/74afbd73-0b7b-4181-b868-88e1e7bf6f15/8ff41a7a-5360-4471-81ba-786133bce5bc.jpg" length="3342592" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/in-1884-gale-force-winds-ran-a-ship-aground-near-cape-code-now-the-noreaster-lashing-the-east-coast-may-have-uncovered-part-of-it-180989583/</guid>
-      <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>What social media gets wrong about inflammation</title>
-      <link>https://www.npr.org/2026/09/29/nx-s1-5958510/health-medical-inflammation-chronic-acute</link>
-      <description>
-        <![CDATA[Inflammation is all over our feeds. Influencers claim it’s the reason you're bloated or fatigued, the source of digestive problems and the cause of more serious illnesses like Alzheimer's or cardiovascular disease. But how much of that is scientifically backed, and how viable are the solutions you see on social media? Short Wave talks to immunologist <a href="https://naiklab.com/team/dr-shruti-naik/"target="_blank"   >Shruti Naik</a> to separate the health from the hype. <br/><br/><em>Interested in more </em><em>wellness science?</em><em> Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Inflammation is all over our feeds. Influencers claim it’s the reason you&#39;re bloated or fatigued, the source of digestive problems and the cause of more serious illnesses like Alzheimer&#39;s or cardiovascular disease. But how much of that is scientifically backed, and how viable are the solutions you see on social media? Short Wave talks to immunologist [Shruti Naik](https://naiklab.com/team/dr-shruti-naik/) to separate the health from the hype.
-
-_Interested in more_ _wellness science?_ _Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/aa8093c3-ee49-44b4-848b-39593ad7df9c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=aa8093c3-ee49-44b4-848b-39593ad7df9c&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-5958510&#38;p=510351&#38;d=872&#38;size=13968240" length="13968240" type="audio/mpeg" />
-      <guid>cid://53721718-7aa5-4eb6-a2cd-51250064b225</guid>
-      <pubDate>Tue, 29 Sep 2026 07:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 September 29 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sh2-188: The Shrimp [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 September 29 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sh2-188: The Shrimp \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/</guid>
-      <category>APOD</category>
-      <pubDate>Tue, 29 Sep 2026 04:05:00 +0000</pubDate>
-    </item>    <item>
-      <title>Fire Cloud with a Pileus on Top</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top/</link>
-      <description>
-        <![CDATA[Scientists captured rare observations of an ephemeral pileus cloud hovering over a smoke-infused cloud that rose above a wildfire in Montana.]]>
-      </description>
-      <source:markdown>Scientists captured rare observations of an ephemeral pileus cloud hovering over a smoke-infused cloud that rose above a wildfire in Montana.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top/</guid>
-      <category>Clouds</category>
-      <category>Earth Observatory</category>
-      <category>Wildfires</category>
-      <pubDate>Tue, 29 Sep 2026 04:01:00 +0000</pubDate>
-    </item>    <item>
-      <title>Mars Has Its Charmes</title>
-      <link>https://science.nasa.gov/blog/mars-has-its-charmes/</link>
-      <description>
-        <![CDATA[Written by Athanasios (Thanos) Klidaras, Ph.D. candidate at Purdue University  Sept. 21, 2026 After a long hiatus, the Perseverance rover updates page is back. A lot has happened on Mars in the meantime, and with regular updates now resuming, there is plenty to catch up on — Perseverance has been busy. The rover has spent […]]]>
-      </description>
-      <source:markdown>Written by Athanasios (Thanos) Klidaras, Ph.D. candidate at Purdue University  Sept. 21, 2026 After a long hiatus, the Perseverance rover updates page is back. A lot has happened on Mars in the meantime, and with regular updates now resuming, there is plenty to catch up on — Perseverance has been busy. The rover has spent \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/blog/mars-has-its-charmes/</guid>
-      <category>Blogs</category>
-      <pubDate>Tue, 29 Sep 2026 01:27:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
