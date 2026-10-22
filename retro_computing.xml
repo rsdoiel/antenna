@@ -4,10 +4,103 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>21 Oct 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>22 Oct 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Two Samba, or not two Samba? SMB2 lands in the nightly builds</title>
+      <link>https://www.riscosopen.org/news/articles/2026/10/22/two-samba-or-not-two-samba-smb2-lands-in-the-nightly-builds</link>
+      <description>
+        <![CDATA[<p>Ever since Windows 10 switched off the original <span class="caps">SMB</span> protocol, plugging a <span class="caps">RISC</span> OS computer into a modern home or office network has meant staring at an empty file server window. Today that changes: the new LanManFS, speaking <span class="caps">SMB</span> 2 and 3, has finished its closed alpha and is now in our nightly beta builds, ready for everyone to try.</p>
+        <p><img src="/images/risc_os_open/screenshots/win11mount.png" title="Mounting a Windows 11 share through LanManFS" alt="Mounting a Windows 11 share through LanManFS" /></p>]]>
+      </description>
+      <source:markdown>Ever since Windows 10 switched off the original SMB protocol, plugging a RISC OS computer into a modern home or office network has meant staring at an empty file server window. Today that changes: the new LanManFS, speaking SMB 2 and 3, has finished its closed alpha and is now in our nightly beta builds, ready for everyone to try.
+
+![Mounting a Windows 11 share through LanManFS](/images/risc_os_open/screenshots/win11mount.png)</source:markdown>
+      <guid>cid://urn:uuid:271d8228-edd6-4bc4-9e13-3d7a321823ae</guid>
+      <category>New component</category>
+      <category>Web site</category>
+      <category>Community</category>
+      <pubDate>Thu, 22 Oct 2026 13:16:00 +0000</pubDate>
+    </item>    <item>
+      <title>Wizard Apprentice 30th anniversary release for Linux and Android</title>
+      <link>http://www.iconbar.com/comments/rss/news2402.html</link>
+      <description>
+        <![CDATA[Wizard Apprentice, the 1997 Fantasia puzzle, is coming up to its 30th anniversary, and the original developer has finished a free port for Linux and Android]]>
+      </description>
+      <source:markdown>Wizard Apprentice, the 1997 Fantasia puzzle, is coming up to its 30th anniversary, and the original developer has finished a free port for Linux and Android</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2402.html</guid>
+      <pubDate>Thu, 22 Oct 2026 09:22:00 +0000</pubDate>
+    </item>    <item>
+      <title>Wizard Apprentice 30th anniversary release for Linux and Android</title>
+      <link>http://www.acornarcade.com/comments/rss/news2402.html</link>
+      <description>
+        <![CDATA[Wizard Apprentice, the 1997 Fantasia puzzle, is coming up to its 30th anniversary, and the original developer has finished a free port for Linux and Android]]>
+      </description>
+      <source:markdown>Wizard Apprentice, the 1997 Fantasia puzzle, is coming up to its 30th anniversary, and the original developer has finished a free port for Linux and Android</source:markdown>
+      <guid>cid://http://www.acornarcade.com/comments/rss/news2402.html</guid>
+      <pubDate>Thu, 22 Oct 2026 09:22:00 +0000</pubDate>
+    </item>    <item>
+      <title>Show news update</title>
+      <link>http://www.iconbar.com/comments/rss/news2401.html</link>
+      <description>
+        <![CDATA[Lots of Show news appearing in our inbox so here's a summary for you .]]>
+      </description>
+      <source:markdown>Lots of Show news appearing in our inbox so here&#39;s a summary for you .</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2401.html</guid>
+      <pubDate>Thu, 22 Oct 2026 08:52:00 +0000</pubDate>
+    </item>    <item>
+      <title>UniPrint for Mac now available (for RISC OS!)</title>
+      <link>https://www.riscository.com/2026/uniprint-for-mac-now-available/</link>
+      <description>
+        <![CDATA[Aaaand don&#8217;t breathe yet &#8211; there&#8217;s yet another announcement waiting to be read, this one from R-Comp &#8211; although, while it has appeared in the final sprint to the London Show, it doesn&#8217;t actually mention the event. I&#8217;m sure it&#8217;ll be available in Harrow on Saturday, though. Anyway, over to Andrew Rawnsley: R-Comp is pleased to announce the release of a new product &#8211; UniPrint for Mac. It is available now for download on !Store. UniPrint is a well established program that allows RISC OS users to use almost any&#8230;]]>
+      </description>
+      <source:markdown>Aaaand don’t breathe yet – there’s yet another announcement waiting to be read, this one from R-Comp – although, while it has appeared in the final sprint to the London Show, it doesn’t actually mention the event. I’m sure it’ll be available in Harrow on Saturday, though. Anyway, over to Andrew Rawnsley: R-Comp is pleased to announce the release of a new product – UniPrint for Mac. It is available now for download on !Store. UniPrint is a well established program that allows RISC OS users to use almost any…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11110</guid>
+      <category>Software</category>
+      <category>London</category>
+      <category>R-Comp</category>
+      <category>Show</category>
+      <category>UniPrint</category>
+      <pubDate>Wed, 21 Oct 2026 21:24:29 +0000</pubDate>
+    </item>    <item>
+      <title>Chris Hall at London 2026</title>
+      <link>https://www.riscository.com/2026/chris-hall-at-london-2026/</link>
+      <description>
+        <![CDATA[Chris Hall will be at the London Show on Saturday, 24th October, and has sent out an announcement of sorts &#8211; meaning it&#8217;s less of an announcement, and more of an article. And by &#8220;more of an article&#8221; I actually mean &#8220;an article&#8221; &#8211; he has provided an article to Archive Magazine, and says it will be appearing in the issue that will be available for subscribers to pick up at the show on Saturday, and talks about what visitors will be able to see on his stand. As the&#8230;]]>
+      </description>
+      <source:markdown>Chris Hall will be at the London Show on Saturday, 24th October, and has sent out an announcement of sorts – meaning it’s less of an announcement, and more of an article. And by “more of an article” I actually mean “an article” – he has provided an article to Archive Magazine, and says it will be appearing in the issue that will be available for subscribers to pick up at the show on Saturday, and talks about what visitors will be able to see on his stand. As the…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11105</guid>
+      <category>Shows</category>
+      <category>Chris Hall</category>
+      <category>Impression</category>
+      <category>Linux</category>
+      <category>Raspberry Pi CM5</category>
+      <category>RISC OS on Linux</category>
+      <pubDate>Wed, 21 Oct 2026 21:15:51 +0000</pubDate>
+    </item>    <item>
+      <title>London Show, Saturday 24th October 2026</title>
+      <link>https://www.riscository.com/2026/london-show-saturday-24th-october-2026/</link>
+      <description>
+        <![CDATA[With the London Show now merely days away, a final announcement from its organisers has arrived &#8211; so over to the RISC OS User Group of London for some final words of persuasion in case you haven&#8217;t decided yet: This year&#8217;s RISC OS London Show is only a few days away and is looking like being the most exciting show for years with many announcements and new developments on display for the first time. Saturday 24th October 2026, open 11am &#8211; 4pm It is back at the same venue in&#8230;]]>
+      </description>
+      <source:markdown>With the London Show now merely days away, a final announcement from its organisers has arrived – so over to the RISC OS User Group of London for some final words of persuasion in case you haven’t decided yet: This year’s RISC OS London Show is only a few days away and is looking like being the most exciting show for years with many announcements and new developments on display for the first time. Saturday 24th October 2026, open 11am – 4pm It is back at the same venue in…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11102</guid>
+      <category>Shows</category>
+      <category>London</category>
+      <category>ROUGOL</category>
+      <category>Show</category>
+      <pubDate>Wed, 21 Oct 2026 20:33:38 +0000</pubDate>
+    </item>    <item>
+      <title>Zerofill 4.10</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/10/zerofill-410/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>Javier Gutiérrez Chamorro has made a huge update to his Zerofill tool, which fills empty space on a drive with zeroes (helps with virtual machine disk compression). Version 4.10 has huge improvements, including: Rewritten to avoid int64/long long so binary is smaller, Use bigger blocks and bigger file to make process twice as fast, Rewritten as TUI with WCONIO. Download and source code are available from <a href="https://sourceforge.net/projects/nikkhokkho/files/ZEROFILL/4.10/">Zerofill on Sourceforge</a></p></div>]]>
+      </description>
+      <source:markdown>Javier Gutiérrez Chamorro has made a huge update to his Zerofill tool, which fills empty space on a drive with zeroes (helps with virtual machine disk compression). Version 4.10 has huge improvements, including: Rewritten to avoid int64/long long so binary is smaller, Use bigger blocks and bigger file to make process twice as fast, Rewritten as TUI with WCONIO. Download and source code are available from [Zerofill on Sourceforge](https://sourceforge.net/projects/nikkhokkho/files/ZEROFILL/4.10/)</source:markdown>
+      <guid>cid://https://sourceforge.netefbc1b0c4cbfa4350140a361f3672eb72d0025a8</guid>
+      <pubDate>Wed, 21 Oct 2026 15:15:50 +0000</pubDate>
+    </item>    <item>
       <title>ROD promises a Mega Demo for saturday London Show</title>
       <link>http://www.iconbar.com/comments/rss/news2400.html</link>
       <description>

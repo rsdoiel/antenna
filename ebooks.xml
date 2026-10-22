@@ -4,10 +4,74 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>21 Oct 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>22 Oct 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Chemical History of a Candle by Michael Faraday</title>
+      <link>https://www.gutenberg.org/ebooks/14474</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 22 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>The bishop&#39;s emeralds by Houghton Townley</title>
+      <link>https://www.gutenberg.org/ebooks/79833</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 22 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>Pendragon by Alfred Assollant</title>
+      <link>https://www.gutenberg.org/ebooks/79836</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+      <pubDate>Thu, 22 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>Inhibition, symptom and anxiety by Sigmund Freud</title>
+      <link>https://www.gutenberg.org/ebooks/79835</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 22 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>The First Steps in Algebra by G. A.  Wentworth</title>
+      <link>https://www.gutenberg.org/ebooks/36670</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 22 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>Im Bernsteinwald by Wilhelm Bölsche</title>
+      <link>https://www.gutenberg.org/ebooks/79837</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+      <pubDate>Thu, 22 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>Experimental Researches in Electricity, Volume 1 by Michael Faraday</title>
+      <link>https://www.gutenberg.org/ebooks/14986</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 22 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>The city of the blind by Murray Leinster</title>
+      <link>https://www.gutenberg.org/ebooks/79834</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 22 Oct 2026 09:51:23 +0000</pubDate>
+    </item>    <item>
       <title>Voyages de Monsieur le chevalier Chardin en Perse et autres lieux de l&#39;Orient. by Sir John Chardin</title>
       <link>https://www.gutenberg.org/ebooks/79711</link>
       <description>
@@ -18,14 +82,6 @@
     </item>    <item>
       <title>The man who was two men by Ray Cummings</title>
       <link>https://www.gutenberg.org/ebooks/79828</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 21 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>The Chemical History of a Candle by Michael Faraday</title>
-      <link>https://www.gutenberg.org/ebooks/14474</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1927,166 +1983,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
       <pubDate>Thu, 01 Oct 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>Pride and Prejudice by Jane Austen</title>
-      <link>https://www.gutenberg.org/ebooks/1342</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Sahara et Soudan, tome premier : by Gustav Nachtigal</title>
-      <link>https://www.gutenberg.org/ebooks/79599</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Voyage du Bornou au Baguirmi by Gustav Nachtigal</title>
-      <link>https://www.gutenberg.org/ebooks/79625</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Histoire de don Pèdre Ier, roi de Castille by Prosper Mérimée</title>
-      <link>https://www.gutenberg.org/ebooks/79676</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>The Cask of Amontillado by Edgar Allan Poe</title>
-      <link>https://www.gutenberg.org/ebooks/1063</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>The Fall of the House of Usher by Edgar Allan Poe</title>
-      <link>https://www.gutenberg.org/ebooks/932</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>合錦回文傳 by Yu Li</title>
-      <link>https://www.gutenberg.org/ebooks/25250</link>
-      <description>
-        <![CDATA[Language: Chinese]]>
-      </description>
-      <source:markdown>Language: Chinese</source:markdown>
-      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>The ego and the id by Sigmund Freud</title>
-      <link>https://www.gutenberg.org/ebooks/79682</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Childhood by Alice Meynell</title>
-      <link>https://www.gutenberg.org/ebooks/79680</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Brains—but scrambled by Ray Humphreys</title>
-      <link>https://www.gutenberg.org/ebooks/79685</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>The hour before the dawn : by Josephine Elizabeth Grey Butler</title>
-      <link>https://www.gutenberg.org/ebooks/79681</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>The lake of life by Edmond Hamilton</title>
-      <link>https://www.gutenberg.org/ebooks/79677</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>A bear-raising ride by Ray Humphreys</title>
-      <link>https://www.gutenberg.org/ebooks/79684</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Les grandes enquêtes de Mega Sulvan by Emmanuel Bourcier</title>
-      <link>https://www.gutenberg.org/ebooks/79688</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Landesverein Sächsischer Heimatschutz — Mitteilungen Band XVII, Heft 3–4 :</title>
-      <link>https://www.gutenberg.org/ebooks/79679</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Lehrbuch der Protozoenkunde : by Franz Doflein</title>
-      <link>https://www.gutenberg.org/ebooks/79674</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>He would be a hero by Ray Humphreys</title>
-      <link>https://www.gutenberg.org/ebooks/79686</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Never saner by Ray Humphreys</title>
-      <link>https://www.gutenberg.org/ebooks/79687</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>The last woman by Thomas S.  Gardner</title>
-      <link>https://www.gutenberg.org/ebooks/79678</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Così parlarono due imbecilli by Luigi Lucatelli</title>
-      <link>https://www.gutenberg.org/ebooks/79683</link>
-      <description>
-        <![CDATA[Language: Italian]]>
-      </description>
-      <source:markdown>Language: Italian</source:markdown>
-      <pubDate>Wed, 30 Sep 2026 09:51:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

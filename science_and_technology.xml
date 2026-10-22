@@ -4,10 +4,311 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>21 Oct 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>22 Oct 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/</link>
+      <description>
+        <![CDATA[Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in [&#8230;]]]>
+      </description>
+      <source:markdown>Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99414</guid>
+      <category>Gaming</category>
+      <category>Cloud Gaming</category>
+      <category>GeForce NOW</category>
+      <pubDate>Thu, 22 Oct 2026 13:00:20 +0000</pubDate>
+    </item>    <item>
+      <title>Arizona&#39;s Otherworldly &#39;Wonderland of Rocks&#39; Is Now America&#39;s Newest National Park</title>
+      <link>https://www.smithsonianmag.com/smart-news/arizona-otherworldly-wonderland-of-rocks-is-now-americas-newest-national-park-180989733/</link>
+      <description>
+        <![CDATA[Chiricahua National Monument in southeastern Arizona is now Chiricahua National Park, the 64th national park in the United States. Its striking geologic landscape and biodiversity have drawn humans for thousands of years]]>
+      </description>
+      <source:markdown>Chiricahua National Monument in southeastern Arizona is now Chiricahua National Park, the 64th national park in the United States. Its striking geologic landscape and biodiversity have drawn humans for thousands of years</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/507pp7uclxmt5gYqHqpOZ7CF-oc=/420x240/filters:focal(1752x1168:1753x1169)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0e/74/0e74eb42-3919-41af-a20e-677343eb707a/766ee6b8-8352-4dca-a9dc-1f6ec1bab324original_1.jpg" length="2618741" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/arizona-otherworldly-wonderland-of-rocks-is-now-americas-newest-national-park-180989733/</guid>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>How to install an app on your Commodore 64</title>
+      <link>https://www.osnews.com/story/146210/how-to-install-an-app-on-your-commodore-64/</link>
+      <description>
+        <![CDATA[Graybeards like me remember trying to painstakingly type source code from a magazine. This is a very accurate account of what a young computer user in 1986 needed to do to get a new game for the Commodore 64, complete with an immersive emulation. It’s time to install an app! But here in 1986, we still call them “programs,” not apps. So, you’ll want to set aside some time to get started installing a program.]]>
+      </description>
+      <source:markdown>Graybeards like me remember trying to painstakingly type source code from a magazine. This is a very accurate account of what a young computer user in 1986 needed to do to get a new game for the Commodore 64, complete with an immersive emulation. It’s time to install an app! But here in 1986, we still call them “programs,” not apps. So, you’ll want to set aside some time to get started installing a program.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146210</guid>
+      <category>Retro computing</category>
+      <pubDate>Thu, 22 Oct 2026 06:55:01 +0000</pubDate>
+    </item>    <item>
+      <title>Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence</title>
+      <link>https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/</link>
+      <description>
+        <![CDATA[At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding its technology stack on a single foundation model PRAGMA, powered by NVIDIA accelerated computing. Using the NVIDIA cuDF [&#8230;]]]>
+      </description>
+      <source:markdown>At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding its technology stack on a single foundation model PRAGMA, powered by NVIDIA accelerated computing. Using the NVIDIA cuDF \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99173</guid>
+      <category>AI</category>
+      <category>Financial Services</category>
+      <category>GTC 2026</category>
+      <category>NVIDIA Blackwell</category>
+      <pubDate>Thu, 22 Oct 2026 05:00:56 +0000</pubDate>
+    </item>    <item>
+      <title>NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models</title>
+      <link>https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/</link>
+      <description>
+        <![CDATA[To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints.  Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open [&#8230;]]]>
+      </description>
+      <source:markdown>To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints.  Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open \[…\]</source:markdown>
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/CDF-visual-Oct20.mp4" length="771226" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4" length="8719511" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/ANYbotics-Cosmos-Data-Factory.mp4" length="14197514" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/ADNOC-Cosmos.mp4" length="12581754" type="video/mp4" />
+      <guid>cid://https://blogs.nvidia.com/?p=99128</guid>
+      <category>AI</category>
+      <category>Cosmos</category>
+      <category>GTC 2026</category>
+      <category>Physical AI</category>
+      <pubDate>Thu, 22 Oct 2026 05:00:27 +0000</pubDate>
+    </item>    <item>
+      <title>How Companies Are Using NVIDIA DSX to Break the Power Bottleneck</title>
+      <link>https://blogs.nvidia.com/blog/dsx-power/</link>
+      <description>
+        <![CDATA[Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of the platform responds to an acute problem. Power is now the biggest bottleneck in infrastructure. More than $300 billion [&#8230;]]]>
+      </description>
+      <source:markdown>Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of the platform responds to an acute problem. Power is now the biggest bottleneck in infrastructure. More than $300 billion \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99155</guid>
+      <category>AI Infrastructure</category>
+      <category>AI Factory</category>
+      <category>GTC 2026</category>
+      <category>NVIDIA DSX</category>
+      <category>NVIDIA Vera Rubin</category>
+      <category>Omniverse</category>
+      <pubDate>Thu, 22 Oct 2026 05:00:25 +0000</pubDate>
+    </item>    <item>
+      <title>NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations</title>
+      <link>https://blogs.nvidia.com/blog/european-retail-open-models-robotics/</link>
+      <description>
+        <![CDATA[European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a digital twin. Frontier Results With Open Models Retail leaders and technology companies across Europe are using NVIDIA-accelerated open [&#8230;]]]>
+      </description>
+      <source:markdown>European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a digital twin. Frontier Results With Open Models Retail leaders and technology companies across Europe are using NVIDIA-accelerated open \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99181</guid>
+      <category>AI</category>
+      <category>GTC 2026</category>
+      <category>Nemotron</category>
+      <category>Retail and Consumer Packaged Goods</category>
+      <pubDate>Thu, 22 Oct 2026 05:00:23 +0000</pubDate>
+    </item>    <item>
+      <title>Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction</title>
+      <link>https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/</link>
+      <description>
+        <![CDATA[Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators to plan around changing conditions. A global forecast can show a storm taking shape, but decisions about solar farms, shipping routes or insured property depend on what happens locally. NVIDIA Earth-2 gives developers and researchers a [&#8230;]]]>
+      </description>
+      <source:markdown>Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators to plan around changing conditions. A global forecast can show a storm taking shape, but decisions about solar farms, shipping routes or insured property depend on what happens locally. NVIDIA Earth-2 gives developers and researchers a \[…\]</source:markdown>
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Vaisala-Xweather-Nvidia-StormScope.mp4" length="6128469" type="video/mp4" />
+      <guid>cid://https://blogs.nvidia.com/?p=99164</guid>
+      <category>AI</category>
+      <category>Climate</category>
+      <category>GTC 2026</category>
+      <category>NVIDIA Earth-2</category>
+      <pubDate>Thu, 22 Oct 2026 05:00:19 +0000</pubDate>
+    </item>    <item>
+      <title>NVIDIA Open Models Power a New Wave of European Public Sector Projects</title>
+      <link>https://blogs.nvidia.com/blog/european-public-sector-open-models/</link>
+      <description>
+        <![CDATA[Governments need modern solutions to serve the public while keeping sensitive information under their control. Open models provide a path forward, letting governments evaluate them, adapt them to local languages and public services, run them on infrastructure they control, apply their own safeguards and keep sensitive data within controlled environments. Some open models go further, [&#8230;]]]>
+      </description>
+      <source:markdown>Governments need modern solutions to serve the public while keeping sensitive information under their control. Open models provide a path forward, letting governments evaluate them, adapt them to local languages and public services, run them on infrastructure they control, apply their own safeguards and keep sensitive data within controlled environments. Some open models go further, \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99121</guid>
+      <category>AI</category>
+      <category>Agentic AI</category>
+      <category>GTC 2026</category>
+      <category>Nemotron</category>
+      <category>NVIDIA NeMo</category>
+      <category>Open Source</category>
+      <category>Public Sector</category>
+      <pubDate>Thu, 22 Oct 2026 05:00:02 +0000</pubDate>
+    </item>    <item>
+      <title>APOD: 2026 October 22 – The First Green Star, WD J1330+6435</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The First [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The First \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/</guid>
+      <category>APOD</category>
+      <pubDate>Thu, 22 Oct 2026 04:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>Fires Char New Guinea</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/</link>
+      <description>
+        <![CDATA[Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.]]>
+      </description>
+      <source:markdown>Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/</guid>
+      <category>Earth Observatory</category>
+      <category>Visible Infrared Imaging Radiometer Suite (VIIRS)</category>
+      <category>Wildfires</category>
+      <pubDate>Thu, 22 Oct 2026 04:01:00 +0000</pubDate>
+    </item>    <item>
+      <title>Faster to Science: A Letter to the Science Community</title>
+      <link>https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/</link>
+      <description>
+        <![CDATA[NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.]]>
+      </description>
+      <source:markdown>NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.</source:markdown>
+      <guid>cid://https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/</guid>
+      <category>Science Mission Directorate</category>
+      <pubDate>Thu, 22 Oct 2026 00:00:16 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions</title>
+      <link>https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/</link>
+      <description>
+        <![CDATA[NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket. During [&#8230;]]]>
+      </description>
+      <source:markdown>NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket. During \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1058381</guid>
+      <category>RS-25</category>
+      <category>Stennis Space Center</category>
+      <category>Stennis Test Facility and Support Infrastructure</category>
+      <pubDate>Wed, 21 Oct 2026 20:51:50 +0000</pubDate>
+    </item>    <item>
+      <title>Archaeologists May Have Solved the Mystery of a Roman Sarcophagus Excavated at Westminster Abbey in 1869</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-may-have-solved-the-mystery-of-a-roman-sarcophagus-excavated-at-westminster-abbey-in-1869-180989732/</link>
+      <description>
+        <![CDATA[New research suggests that the ancient coffin was repurposed in the 10th or 11th century to hold the remains of an abbot who had overseen the London monastery]]>
+      </description>
+      <source:markdown>New research suggests that the ancient coffin was repurposed in the 10th or 11th century to hold the remains of an abbot who had overseen the London monastery</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/7IRa04gtSbZbQFUDj22TLtWEorM=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/23/9e/239ef087-4c00-4afc-a727-0299d689db31/sarcophagus.png" length="2699470" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/archaeologists-may-have-solved-the-mystery-of-a-roman-sarcophagus-excavated-at-westminster-abbey-in-1869-180989732/</guid>
+      <pubDate>Wed, 21 Oct 2026 20:34:09 +0000</pubDate>
+    </item>    <item>
+      <title>African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They&#39;ve Died, Study Suggests</title>
+      <link>https://www.smithsonianmag.com/smart-news/african-elephants-shape-the-savanna-ecosystem-and-continue-doing-so-long-after-theyve-died-study-suggests-180989718/</link>
+      <description>
+        <![CDATA[At first, plants below an elephant carcass die. Soil microbes and plants grow back soon after, but only a few select species. Herbivores later come in to munch on the nutrient-rich greens]]>
+      </description>
+      <source:markdown>At first, plants below an elephant carcass die. Soil microbes and plants grow back soon after, but only a few select species. Herbivores later come in to munch on the nutrient-rich greens</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Ldoa_yzKh-4GupRX9_luaREuk28=/420x240/filters:focal(1170x646:1171x647)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/73/c1/73c1ef6c-fdf0-4a01-9bd6-76c0091aa45d/gozi_east-elephan-carcass.jpg" length="1243266" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/african-elephants-shape-the-savanna-ecosystem-and-continue-doing-so-long-after-theyve-died-study-suggests-180989718/</guid>
+      <pubDate>Wed, 21 Oct 2026 18:47:22 +0000</pubDate>
+    </item>    <item>
+      <title>NASA JPL Looks to Next 90 Years of Innovation, Exploration</title>
+      <link>https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/</link>
+      <description>
+        <![CDATA[Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years later, the lab, now managed by Caltech for NASA, isn’t [&#8230;]]]>
+      </description>
+      <source:markdown>Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years later, the lab, now managed by Caltech for NASA, isn’t \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1058236</guid>
+      <category>Jet Propulsion Laboratory</category>
+      <pubDate>Wed, 21 Oct 2026 18:35:56 +0000</pubDate>
+    </item>    <item>
+      <title>Shanghai&#39;s &#39;Audacious&#39; New Opera House Just Opened Its Doors—and a Gravity-Defying Staircase—to the Public</title>
+      <link>https://www.smithsonianmag.com/smart-news/shanghais-audacious-new-opera-house-just-opened-its-doors-and-a-gravity-defying-staircase-to-the-public-180989726/</link>
+      <description>
+        <![CDATA[The riverfront opera house is Shanghai's latest cultural statement. It features three performance halls and is designed to be accessible to everyone, not just ticket-holders]]>
+      </description>
+      <source:markdown>The riverfront opera house is Shanghai&#39;s latest cultural statement. It features three performance halls and is designed to be accessible to everyone, not just ticket-holders</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/PuU0Q0NKrZwe4QApxzjP3yTre74=/420x240/filters:focal(1886x2443:1887x2444)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3c/32/3c32ba4c-9478-4408-b03f-c17d1e317dd3/shanghai_1.png" length="18914401" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/shanghais-audacious-new-opera-house-just-opened-its-doors-and-a-gravity-defying-staircase-to-the-public-180989726/</guid>
+      <pubDate>Wed, 21 Oct 2026 17:50:54 +0000</pubDate>
+    </item>    <item>
+      <title>NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama</title>
+      <link>https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/</link>
+      <description>
+        <![CDATA[As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&#38;M football game in Tuscaloosa, Alabama, on Saturday, Oct. 24. NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets during the flyover, highlighting NASA&#8217;s contributions to aeronautics and the agency&#8217;s continued commitment to [&#8230;]]]>
+      </description>
+      <source:markdown>As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&#38;M football game in Tuscaloosa, Alabama, on Saturday, Oct. 24. NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets during the flyover, highlighting NASA’s contributions to aeronautics and the agency’s continued commitment to \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1058161</guid>
+      <category>Marshall Space Flight Center</category>
+      <category>Aeronautics</category>
+      <category>General</category>
+      <category>NASA Aircraft</category>
+      <category>NASA Headquarters</category>
+      <pubDate>Wed, 21 Oct 2026 16:31:11 +0000</pubDate>
+    </item>    <item>
+      <title>Where Exactly Were the First Humans to Be Captured in a Photograph Standing? Three Obsessed Filmmakers Solved the Nearly 200-Year-Old Mystery</title>
+      <link>https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/</link>
+      <description>
+        <![CDATA[The sleuths spent two years digging into archives and building 3D models of 19th-century Paris. The location is now immortalized by a bronze plaque celebrating the historic site and the "poetic" early photograph]]>
+      </description>
+      <source:markdown>The sleuths spent two years digging into archives and building 3D models of 19th-century Paris. The location is now immortalized by a bronze plaque celebrating the historic site and the &#34;poetic&#34; early photograph</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/JzqTXpDuxCMPf42-Ab3ZL7R7YfI=/420x240/filters:focal(1720x1147:1721x1148)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/eb/b5/ebb52ce7-6bce-4a5f-866f-07208a301b70/boulevard_du_temple_by_daguerre.jpeg" length="4123466" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/</guid>
+      <pubDate>Wed, 21 Oct 2026 16:29:02 +0000</pubDate>
+    </item>    <item>
+      <title>She Painted the First Known Self-Portrait of an Artist at Work—and Signed It—Nearly 500 Years Ago. Who Was Catharina van Hemessen?</title>
+      <link>https://www.smithsonianmag.com/smart-news/she-painted-first-known-self-portrait-an-artist-at-work-and-signed-it-nearly-500-years-ago-who-was-catharina-van-hemessen-180989724/</link>
+      <description>
+        <![CDATA[Few women worked as professional artists in the 16th century. A new exhibition in Antwerp, Belgium, seeks to restore this Flemish painter to the pantheon of art history giants]]>
+      </description>
+      <source:markdown>Few women worked as professional artists in the 16th century. A new exhibition in Antwerp, Belgium, seeks to restore this Flemish painter to the pantheon of art history giants</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/prn5rhIxhVeOd3SUtWW09AWLex4=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/35/b5/35b53d93-481f-4c74-8a24-6d26bc3f7175/catharina2.png" length="749050" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/she-painted-first-known-self-portrait-an-artist-at-work-and-signed-it-nearly-500-years-ago-who-was-catharina-van-hemessen-180989724/</guid>
+      <pubDate>Wed, 21 Oct 2026 16:01:03 +0000</pubDate>
+    </item>    <item>
+      <title>These Snakes Can Cartwheel Away From Danger. Scientists Just Uncovered How the Slithering Creatures Perform Their Acrobatic Rolls</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-snakes-can-cartwheel-away-from-danger-scientists-just-uncovered-how-the-slithering-creatures-perform-their-acrobatic-rolls-180989720/</link>
+      <description>
+        <![CDATA[When they're rolling, some snakes belonging to the Pseudorabdion genus can reach top speeds of 3.8 to 8.3 miles per hour, according to a new study]]>
+      </description>
+      <source:markdown>When they&#39;re rolling, some snakes belonging to the Pseudorabdion genus can reach top speeds of 3.8 to 8.3 miles per hour, according to a new study</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/a53K_NGvMZuh9jiAvOqHUqyOxdU=/420x240/filters:focal(2286x578:2287x579)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8f/0c/8f0c4a10-bd7d-4893-a6b3-8e15f95356a8/image.jpg" length="495560" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/these-snakes-can-cartwheel-away-from-danger-scientists-just-uncovered-how-the-slithering-creatures-perform-their-acrobatic-rolls-180989720/</guid>
+      <pubDate>Wed, 21 Oct 2026 16:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Tracks Along the Longest Drive on Another World</title>
+      <link>https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/</link>
+      <description>
+        <![CDATA[Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reached 45.22 kilometers (28.10 miles), setting a new record for the farthest distance driven on another celestial […]]]>
+      </description>
+      <source:markdown>Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reached 45.22 kilometers (28.10 miles), setting a new record for the farthest distance driven on another celestial \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/</guid>
+      <category>Blogs</category>
+      <pubDate>Wed, 21 Oct 2026 15:50:44 +0000</pubDate>
+    </item>    <item>
+      <title>Science on the Space Station with NASA Astronaut Jessica Watkins</title>
+      <link>https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/</link>
+      <description>
+        <![CDATA[NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module&#8217;s Life Science Glovebox on Oct. 9, 2026, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture. The advanced research operations were part of the InSPA‑Auxilium Bioprinter‑Cell Printing investigation, which explores 3D [&#8230;]]]>
+      </description>
+      <source:markdown>NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module’s Life Science Glovebox on Oct. 9, 2026, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture. The advanced research operations were part of the InSPA‑Auxilium Bioprinter‑Cell Printing investigation, which explores 3D \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1057777</guid>
+      <category>ISS Research</category>
+      <category>Jessica Watkins</category>
+      <pubDate>Wed, 21 Oct 2026 15:05:08 +0000</pubDate>
+    </item>    <item>
+      <title>See Inside Cells Like Never Before in These Vivid Microscopic Images</title>
+      <link>https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/</link>
+      <description>
+        <![CDATA[Winning entries in the 2026 Nikon Small World competitions reveal the hidden interactions that govern everyday life.            <p>The post <a href="https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/" target="_blank">See Inside Cells Like Never Before in These Vivid Microscopic Images</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Winning entries in the 2026 Nikon Small World competitions reveal the hidden interactions that govern everyday life.
+
+The post [See Inside Cells Like Never Before in These Vivid Microscopic Images](https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=168082</guid>
+      <category>Biology</category>
+      <pubDate>Wed, 21 Oct 2026 14:00:07 +0000</pubDate>
+    </item>    <item>
+      <title>See the Scientific and the Mundane Become Surprisingly Dazzling When Viewed Through a Microscope, From Neurons to Ballpoint Pens</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-the-scientific-and-the-mundane-become-surprisingly-dazzling-when-viewed-through-a-microscope-from-neurons-to-ballpoint-pens-180989721/</link>
+      <description>
+        <![CDATA[The Nikon Small World Competition has announced its photography winners for its 52nd annual contest. This comes weeks after its video winner was dethroned for use of generative A.I.]]>
+      </description>
+      <source:markdown>The Nikon Small World Competition has announced its photography winners for its 52nd annual contest. This comes weeks after its video winner was dethroned for use of generative A.I.</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/apgdjH2gPJdC9JxYCGf4hz_omPI=/420x240/filters:focal(905x526:906x527)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/14/29/1429993b-ad63-4362-a37a-29d8471aff3b/3rd_-_2026_wulf_kaelin_e43619_f28742_1.png" length="3402217" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-scientific-and-the-mundane-become-surprisingly-dazzling-when-viewed-through-a-microscope-from-neurons-to-ballpoint-pens-180989721/</guid>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>In a First, Astronomers Identify a Star That Might Glow Green. New Research Highlights the Strange Hues White Dwarfs Can Take on</title>
+      <link>https://www.smithsonianmag.com/smart-news/in-a-first-astronomers-identify-a-star-that-might-glow-green-new-research-highlights-the-strange-hues-white-dwarfs-can-take-on-180989719/</link>
+      <description>
+        <![CDATA[White dwarf stars are too far from Earth to be observed directly. So, scientists reconstructed how they'd look to human eyes based on the wavelengths of light they emit and found a colorful array of objects that might appear yellow, purple or pink]]>
+      </description>
+      <source:markdown>White dwarf stars are too far from Earth to be observed directly. So, scientists reconstructed how they&#39;d look to human eyes based on the wavelengths of light they emit and found a colorful array of objects that might appear yellow, purple or pink</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/uXm6N0kS9ds8hBFuBigEG4Qx3wE=/420x240/filters:focal(640x640:641x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5b/9f/5b9ff64c-cba5-42ba-aef6-ec6f419254f7/green_wd_credit_mark-garlick_university-of-warwick.webp" length="31138" type="image/webp" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/in-a-first-astronomers-identify-a-star-that-might-glow-green-new-research-highlights-the-strange-hues-white-dwarfs-can-take-on-180989719/</guid>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
+    </item>    <item>
       <title>NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface</title>
       <link>https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/</link>
       <description>
@@ -16,6 +317,7 @@
       <source:markdown>From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to adaptively ‘sweep’ large swaths of Earth’s surface. This \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/</guid>
       <category>3D Resources</category>
+      <category>Earth Science</category>
       <category>Earth Surface &#38; Interior</category>
       <category>Science Instruments</category>
       <category>Technology Highlights</category>
@@ -197,9 +499,9 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <title>APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia</title>
       <link>https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/</link>
       <description>
-        <![CDATA[APOD Science APOD APOD: 2026 October 21 – New… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated New [&#8230;]]]>
+        <![CDATA[APODScienceAPODAPOD: 2026 October 21 – New…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated New Ghosts Revealed in Cassiopeia Explanation: Jinkies, look at all those ghosts! It took 100 [&#8230;]]]>
       </description>
-      <source:markdown>APOD Science APOD APOD: 2026 October 21 – New… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated New \[…\]</source:markdown>
+      <source:markdown>APODScienceAPODAPOD: 2026 October 21 – New…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated New Ghosts Revealed in Cassiopeia Explanation: Jinkies, look at all those ghosts! It took 100 \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/</guid>
       <category>APOD</category>
       <pubDate>Wed, 21 Oct 2026 04:05:00 +0000</pubDate>
@@ -3696,294 +3998,6 @@ The post [What Does the Fourth Dimension Actually Look Like?](https://www.quanta
       <category>Landsat 8 / LDCM (Landsat Data Continuity Mission)</category>
       <category>Landsat 9</category>
       <pubDate>Thu, 01 Oct 2026 04:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them</title>
-      <link>https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/</link>
-      <description>
-        <![CDATA[Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, Sept. 18, 2026 Curiosity surprised us at the beginning of the week with a change in rock texture — instead of the finely layered bedrock blocks we’ve been seeing in our recent sulfate unit workspaces, suddenly we were looking […]]]>
-      </description>
-      <source:markdown>Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, Sept. 18, 2026 Curiosity surprised us at the beginning of the week with a change in rock texture — instead of the finely layered bedrock blocks we’ve been seeing in our recent sulfate unit workspaces, suddenly we were looking \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/</guid>
-      <category>Blogs</category>
-      <pubDate>Wed, 30 Sep 2026 23:37:47 +0000</pubDate>
-    </item>    <item>
-      <title>Google breaks promise to provide 10 years of updates to Chromebooks</title>
-      <link>https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/</link>
-      <description>
-        <![CDATA[Google launched its Googlebooks platform a week ago, and a lot of people were wondering what this meant for Chrome OS and Chromebooks. Since Googlebooks and its Android-based Googlebook OS lack the management frameworks markets like schools require, Chromebooks will continue to be available for now, until such time Googlebooks catch up in that regard. However, in a support document, Google states that update support for all Chromebook devices will end in 2034: ChromeOS devices will continue to receive regular updates and security patches through mid-2034. For qualifying devices purchased today whose 10-year support lifecycle extends beyond 2034, Google is committed to supporting your transition to Googlebook OS, with many devices offering direct migration paths. ↫ Google support document Google promised 10 years of updates for all Chromebooks, and it&#8217;s now breaking that promise for anyone buying a Chromebook between now and whenever the last Chromebook rolls off the production line. Sadly, we live in a world where corporations are free to make and break whatever promises they want virtually free of consequences, and as society we&#8217;re so used to it that anti-consumer behaviour like this barely elicits a shrug. Google does state that &#8220;many newer commercial Chromebook models will be capable of upgrading to Googlebook OS&#8221;, but that, too, is just another promise &#8211; and a vague, one at that &#8211; so who knows how many devices will actually be capable of upgrading out in the real world. On top of that, we have no idea if Googlebooks will just be yet another in a long line of quickly abandoned Google tablet/laptop projects, further adding to the uncertainty. Stuff like this should not be legal.]]>
-      </description>
-      <source:markdown>Google launched its Googlebooks platform a week ago, and a lot of people were wondering what this meant for Chrome OS and Chromebooks. Since Googlebooks and its Android-based Googlebook OS lack the management frameworks markets like schools require, Chromebooks will continue to be available for now, until such time Googlebooks catch up in that regard. However, in a support document, Google states that update support for all Chromebook devices will end in 2034: ChromeOS devices will continue to receive regular updates and security patches through mid-2034. For qualifying devices purchased today whose 10-year support lifecycle extends beyond 2034, Google is committed to supporting your transition to Googlebook OS, with many devices offering direct migration paths. ↫ Google support document Google promised 10 years of updates for all Chromebooks, and it’s now breaking that promise for anyone buying a Chromebook between now and whenever the last Chromebook rolls off the production line. Sadly, we live in a world where corporations are free to make and break whatever promises they want virtually free of consequences, and as society we’re so used to it that anti-consumer behaviour like this barely elicits a shrug. Google does state that “many newer commercial Chromebook models will be capable of upgrading to Googlebook OS”, but that, too, is just another promise – and a vague, one at that – so who knows how many devices will actually be capable of upgrading out in the real world. On top of that, we have no idea if Googlebooks will just be yet another in a long line of quickly abandoned Google tablet/laptop projects, further adding to the uncertainty. Stuff like this should not be legal.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=146052</guid>
-      <category>Google</category>
-      <pubDate>Wed, 30 Sep 2026 22:09:55 +0000</pubDate>
-    </item>    <item>
-      <title>“macOS Golden Gate is a buggy mess”</title>
-      <link>https://www.osnews.com/story/146050/macos-golden-gate-is-a-buggy-mess/</link>
-      <description>
-        <![CDATA[In June 2008 Apple announced Mac OS X Snow Leopard, proudly boasting that it would have &#8220;no new features&#8221;. Instead of piling on new things, Snow Leopard aimed to build on the success of its predecessor, Leopard, opting to focus on under-the-hood performance and stability improvements throughout the system. 18 years later, Apple is taking a similar approach with macOS 27. Golden Gate aims to fix the missteps of last year&#8217;s Tahoe, promising an expansive set of improvements and &#8220;a more responsive and delightful experience&#8221;. Does it hold up? Here are just some of the bugs I’ve encountered in my daily use over the past couple of weeks. ↫ Chester at SquareOrbits I&#8217;m getting some real Windows 11 vibes from this long list of bugs and issues, further underlining my perception that Apple completely lost the plot when it comes to Mac OS X (in the past) and MacOS (today). These are not the kind of things you&#8217;d find in the heydays of Mac OS X, back when I was a devout user, and makes me glad I abandoned ship long, long ago (around the time of the Intel transition). I don&#8217;t see stuff like this in GNOME or KDE, and while not nearly as bad as Windows 11, the cracks are obvious. I am by no means an expert at how Apple is run and how it organises itself, but as a layperson I do wonder if the company is simply trying to do too much &#8211; too many different platforms, too many different crucial components it all develops internally, too many different markets to please. Things are going to fall through the cracks when you try to keep this many plates spinning.]]>
-      </description>
-      <source:markdown>In June 2008 Apple announced Mac OS X Snow Leopard, proudly boasting that it would have “no new features”. Instead of piling on new things, Snow Leopard aimed to build on the success of its predecessor, Leopard, opting to focus on under-the-hood performance and stability improvements throughout the system. 18 years later, Apple is taking a similar approach with macOS 27. Golden Gate aims to fix the missteps of last year’s Tahoe, promising an expansive set of improvements and “a more responsive and delightful experience”. Does it hold up? Here are just some of the bugs I’ve encountered in my daily use over the past couple of weeks. ↫ Chester at SquareOrbits I’m getting some real Windows 11 vibes from this long list of bugs and issues, further underlining my perception that Apple completely lost the plot when it comes to Mac OS X (in the past) and MacOS (today). These are not the kind of things you’d find in the heydays of Mac OS X, back when I was a devout user, and makes me glad I abandoned ship long, long ago (around the time of the Intel transition). I don’t see stuff like this in GNOME or KDE, and while not nearly as bad as Windows 11, the cracks are obvious. I am by no means an expert at how Apple is run and how it organises itself, but as a layperson I do wonder if the company is simply trying to do too much – too many different platforms, too many different crucial components it all develops internally, too many different markets to please. Things are going to fall through the cracks when you try to keep this many plates spinning.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=146050</guid>
-      <category>macOS</category>
-      <pubDate>Wed, 30 Sep 2026 21:55:52 +0000</pubDate>
-    </item>    <item>
-      <title>Tcl/Tk 9.1 released</title>
-      <link>https://www.osnews.com/story/146048/tcl-tk-9-1-released/</link>
-      <description>
-        <![CDATA[A brand new Tcl/Tk release, in the form of Tcl/Tk 9.1. The new features in Tcl are a bit difficult for me to properly parse as a non-developer, but Tk&#8217;s improvements are easy to understand: it brings supports for screen readers, initial supports for bidirectional and RTL scripts, improved listbox selection colours, and more. It also happens to drop support for Windows XP appearances, if that&#8217;s something that matters to you.]]>
-      </description>
-      <source:markdown>A brand new Tcl/Tk release, in the form of Tcl/Tk 9.1. The new features in Tcl are a bit difficult for me to properly parse as a non-developer, but Tk’s improvements are easy to understand: it brings supports for screen readers, initial supports for bidirectional and RTL scripts, improved listbox selection colours, and more. It also happens to drop support for Windows XP appearances, if that’s something that matters to you.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=146048</guid>
-      <category>General Development</category>
-      <pubDate>Wed, 30 Sep 2026 21:47:16 +0000</pubDate>
-    </item>    <item>
-      <title>WSL containers are now generally available</title>
-      <link>https://www.osnews.com/story/146044/wsl-containers-are-now-generally-available/</link>
-      <description>
-        <![CDATA[Microsoft has announced WSL containers for developers who aren&#8217;t already using Docker, Podman, or Rancher on their Windows workstations. WSL containers is now generally available! Check out this blog post to learn more about this overall feature enabling seamless access to Linux containers on Windows via the new “wslc.exe” command. This new Linux container platform comes with multiple architectures changes compared to WSL, which we’ll detail in this post. ↫ Pierre Boulay at the Microsoft Dev Blogs If you already have WSL installed, you can run wsl -update to get this new container feature, or you can download it straight from GitHub.]]>
-      </description>
-      <source:markdown>Microsoft has announced WSL containers for developers who aren’t already using Docker, Podman, or Rancher on their Windows workstations. WSL containers is now generally available! Check out this blog post to learn more about this overall feature enabling seamless access to Linux containers on Windows via the new “wslc.exe” command. This new Linux container platform comes with multiple architectures changes compared to WSL, which we’ll detail in this post. ↫ Pierre Boulay at the Microsoft Dev Blogs If you already have WSL installed, you can run wsl -update to get this new container feature, or you can download it straight from GitHub.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=146044</guid>
-      <category>Windows</category>
-      <pubDate>Wed, 30 Sep 2026 21:41:38 +0000</pubDate>
-    </item>    <item>
-      <title>Help Overlap Zoo Reveal Cosmic Dust</title>
-      <link>https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/</link>
-      <description>
-        <![CDATA[Galaxies, vast collections of billions of stars, gas, and dust held together by gravity, are scattered across the immensity of space. But every so often, a coincidence occurs: Two galaxies line up from our point of view on Earth (or from a space telescope) and appear to overlap in the sky. These rare overlapping galaxies […]]]>
-      </description>
-      <source:markdown>Galaxies, vast collections of billions of stars, gas, and dust held together by gravity, are scattered across the immensity of space. But every so often, a coincidence occurs: Two galaxies line up from our point of view on Earth (or from a space telescope) and appear to overlap in the sky. These rare overlapping galaxies \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/</guid>
-      <pubDate>Wed, 30 Sep 2026 21:19:33 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Adds New Science Investigations for Moon Base</title>
-      <link>https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/</link>
-      <description>
-        <![CDATA[Editor&#8217;s note: This release was updated on Sept. 30, 2026, to correct the name of the DISCO payload. NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base. The suite of science instruments and technologies [&#8230;]]]>
-      </description>
-      <source:markdown>Editor’s note: This release was updated on Sept. 30, 2026, to correct the name of the DISCO payload. NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base. The suite of science instruments and technologies \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1052091</guid>
-      <category>Moon Base</category>
-      <category>Commercial Lunar Payload Services (CLPS)</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Missions</category>
-      <pubDate>Wed, 30 Sep 2026 21:11:23 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Awards Contract to Develop 5G Communications for Moon</title>
-      <link>https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/</link>
-      <description>
-        <![CDATA[NASA has awarded Modulate Space Corporation a contract to develop key elements of a 5G communications system for use on the lunar surface with built-in Wi-Fi 6, for NASA’s Glenn Research Center in Cleveland. This accelerated effort is organized into two primary work areas that together will develop a scalable, standards-based communications capability designed to [&#8230;]]]>
-      </description>
-      <source:markdown>NASA has awarded Modulate Space Corporation a contract to develop key elements of a 5G communications system for use on the lunar surface with built-in Wi-Fi 6, for NASA’s Glenn Research Center in Cleveland. This accelerated effort is organized into two primary work areas that together will develop a scalable, standards-based communications capability designed to \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1052072</guid>
-      <category>NASA Headquarters</category>
-      <category>Glenn Research Center</category>
-      <pubDate>Wed, 30 Sep 2026 20:41:26 +0000</pubDate>
-    </item>    <item>
-      <title>SpaceX&#39;s Giant Starship Rocket Reached Earth Orbit on Its First Try, but Engine Problems Forced It to Return to the Planet Early</title>
-      <link>https://www.smithsonianmag.com/smart-news/spacexs-giant-starship-rocket-reached-earth-orbit-on-its-first-try-but-engine-problems-forced-it-to-return-to-the-planet-early-180989596/</link>
-      <description>
-        <![CDATA[Two aerospace companies are competing to create the lunar lander NASA uses when it returns humans to the moon's surface. But to reach our lunar companion, a spacecraft will first have to get to Earth orbit]]>
-      </description>
-      <source:markdown>Two aerospace companies are competing to create the lunar lander NASA uses when it returns humans to the moon&#39;s surface. But to reach our lunar companion, a spacecraft will first have to get to Earth orbit</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/qJJN3CBS8bStcKYWaqIyAOZEJ3o=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/42/e2/42e230fc-5bca-4f15-9cbe-706fc5bec804/smithsonian_feature_images_27.png" length="1562222" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/spacexs-giant-starship-rocket-reached-earth-orbit-on-its-first-try-but-engine-problems-forced-it-to-return-to-the-planet-early-180989596/</guid>
-      <pubDate>Wed, 30 Sep 2026 20:30:34 +0000</pubDate>
-    </item>    <item>
-      <title>An Enigmatic Chalk Drawing, Rediscovered in a Private Italian Collection, Has Been Identified as the Long-Lost Work of Édouard Manet</title>
-      <link>https://www.smithsonianmag.com/smart-news/an-enigmatic-chalk-drawing-rediscovered-in-a-private-italian-collection-has-been-identified-as-the-long-lost-work-of-edouard-manet-180989593/</link>
-      <description>
-        <![CDATA[The sketch of a young girl, in the red chalk characteristic of Manet’s 1860s life studies, is thought to be linked to several of the artist’s paintings]]>
-      </description>
-      <source:markdown>The sketch of a young girl, in the red chalk characteristic of Manet’s 1860s life studies, is thought to be linked to several of the artist’s paintings</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/7l2q8x9ib3t9Fl-x2hWEKtg81ZU=/420x240/filters:focal(2048x1560:2049x1561)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e7/8c/e78c0e4f-1a76-469c-89b6-0a1ded4191e9/the_old_musician_196310162.jpg" length="2790824" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/an-enigmatic-chalk-drawing-rediscovered-in-a-private-italian-collection-has-been-identified-as-the-long-lost-work-of-edouard-manet-180989593/</guid>
-      <pubDate>Wed, 30 Sep 2026 19:55:09 +0000</pubDate>
-    </item>    <item>
-      <title>NASA, International Partners Advance Work on Space Crops</title>
-      <link>https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/</link>
-      <description>
-        <![CDATA[NASA, CSA (Canadian Space Agency), and the German Aerospace Center signed a joint statement of intent to begin coordinated, preparatory work toward an Earth-based demonstrator to learn how to grow crops on the Moon.]]>
-      </description>
-      <source:markdown>NASA, CSA (Canadian Space Agency), and the German Aerospace Center signed a joint statement of intent to begin coordinated, preparatory work toward an Earth-based demonstrator to learn how to grow crops on the Moon.</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/</guid>
-      <category>Biological &#38; Physical Sciences</category>
-      <category>Science &#38; Research</category>
-      <category>Science Mission Directorate</category>
-      <pubDate>Wed, 30 Sep 2026 18:38:20 +0000</pubDate>
-    </item>    <item>
-      <title>Could Saturn&#39;s Moon Enceladus Host Alien Life? Earth Microbes Can Live in Its Simulated Environment, Boosting Its Potential Habitability</title>
-      <link>https://www.smithsonianmag.com/smart-news/could-saturns-moon-enceladus-host-alien-life-earth-microbes-can-live-in-its-simulated-environment-boosting-its-potential-habitability-180989589/</link>
-      <description>
-        <![CDATA[Enceladus is covered in ice, but that layer might hide a subsurface ocean. Researchers have long wondered if the salty body of water has the right conditions to host life, and now, a team suggests that an Earthly, heat-loving organism could thrive there]]>
-      </description>
-      <source:markdown>Enceladus is covered in ice, but that layer might hide a subsurface ocean. Researchers have long wondered if the salty body of water has the right conditions to host life, and now, a team suggests that an Earthly, heat-loving organism could thrive there</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2WMBsWbYgVpPIUoMmkr3Mt3IeMU=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ea/ef/eaefd54c-2822-499d-a433-7d4e116a31a2/smithsonian_feature_images_26.png" length="534915" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/could-saturns-moon-enceladus-host-alien-life-earth-microbes-can-live-in-its-simulated-environment-boosting-its-potential-habitability-180989589/</guid>
-      <pubDate>Wed, 30 Sep 2026 18:00:14 +0000</pubDate>
-    </item>    <item>
-      <title>PureOS Development Report: August 2026</title>
-      <link>https://puri.sm/posts/pureos-development-report-august-2026/</link>
-      <description>
-        <![CDATA[<p>We're already working on building PureOS Dawn Alpha images, and we're eager to get Dawn into your hands to test!  As always, stability and reliability are paramount, so this month brings even more improvements on both fronts.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/pureos-development-report-august-2026/">PureOS Development Report: August 2026</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>We&#39;re already working on building PureOS Dawn Alpha images, and we&#39;re eager to get Dawn into your hands to test! As always, stability and reliability are paramount, so this month brings even more improvements on both fronts.
-
-The post [PureOS Development Report: August 2026](https://puri.sm/posts/pureos-development-report-august-2026/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=85949</guid>
-      <category>PureOS</category>
-      <category>Advanced readers</category>
-      <pubDate>Wed, 30 Sep 2026 18:00:03 +0000</pubDate>
-    </item>    <item>
-      <title>Star Trails</title>
-      <link>https://www.nasa.gov/image-article/star-trails/</link>
-      <description>
-        <![CDATA[This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea on Sept. 20, 2026. Image credit: NASA/Anil Menon]]>
-      </description>
-      <source:markdown>This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea on Sept. 20, 2026. Image credit: NASA/Anil Menon</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1051692</guid>
-      <category>International Space Station (ISS)</category>
-      <pubDate>Wed, 30 Sep 2026 17:50:50 +0000</pubDate>
-    </item>    <item>
-      <title>Over a Decade of Warrant Canaries</title>
-      <link>https://puri.sm/posts/over-a-decade-of-warrant-canaries/</link>
-      <description>
-        <![CDATA[<p>October 1st, 2026 will be ten years and 3 quarters worth of <a href="https://puri.sm/warrant-canary/">warrant canaries</a> published by Purism.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/over-a-decade-of-warrant-canaries/">Over a Decade of Warrant Canaries</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <source:markdown>October 1st, 2026 will be ten years and 3 quarters worth of [warrant canaries](https://puri.sm/warrant-canary/) published by Purism.
-
-The post [Over a Decade of Warrant Canaries](https://puri.sm/posts/over-a-decade-of-warrant-canaries/) appeared first on [Purism](https://puri.sm/).</source:markdown>
-      <guid>cid://https://puri.sm/?p=86156</guid>
-      <category>Regulatory</category>
-      <category>Security</category>
-      <category>Social Purpose</category>
-      <category>Consumer Protection</category>
-      <category>User empowerment</category>
-      <pubDate>Wed, 30 Sep 2026 17:13:10 +0000</pubDate>
-    </item>    <item>
-      <title>NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000</title>
-      <link>https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/</link>
-      <description>
-        <![CDATA[Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems. To foster such innovation, the NVIDIA Graduate Fellowship Program provides grants, mentors and technical support to doctoral students doing outstanding research relevant to NVIDIA technologies. The program, in its 26th [&#8230;]]]>
-      </description>
-      <source:markdown>Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems. To foster such innovation, the NVIDIA Graduate Fellowship Program provides grants, mentors and technical support to doctoral students doing outstanding research relevant to NVIDIA technologies. The program, in its 26th \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=98499</guid>
-      <category>AI</category>
-      <category>Corporate</category>
-      <category>Research</category>
-      <category>Artificial Intelligence</category>
-      <category>Education</category>
-      <pubDate>Wed, 30 Sep 2026 17:00:21 +0000</pubDate>
-    </item>    <item>
-      <title>From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI</title>
-      <link>https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/</link>
-      <description>
-        <![CDATA[Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced [&#8230;]]]>
-      </description>
-      <source:markdown>Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=98507</guid>
-      <category>AI Infrastructure</category>
-      <category>Cloud</category>
-      <category>Agentic AI</category>
-      <category>AI Factory</category>
-      <category>AI Training</category>
-      <category>Artificial Intelligence</category>
-      <category>Cloud Services</category>
-      <category>Customer Stories</category>
-      <category>Dynamo</category>
-      <category>Events</category>
-      <category>Inference</category>
-      <category>Nemotron</category>
-      <category>NVIDIA BlueField</category>
-      <category>NVIDIA Spectrum-X Ethernet</category>
-      <category>NVIDIA Vera</category>
-      <category>NVIDIA Vera Rubin</category>
-      <pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Surprisingly Complex Waves Reveal the Brain’s Inner Workings</title>
-      <link>https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/</link>
-      <description>
-        <![CDATA[Unexpected patterns traveling across the human brain may be reorganizing its activity in real time.            <p>The post <a href="https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/" target="_blank">Surprisingly Complex Waves Reveal the Brain’s Inner Workings</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Unexpected patterns traveling across the human brain may be reorganizing its activity in real time.
-
-The post [Surprisingly Complex Waves Reveal the Brain’s Inner Workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=167494</guid>
-      <category>Biology</category>
-      <pubDate>Wed, 30 Sep 2026 14:52:12 +0000</pubDate>
-    </item>    <item>
-      <title>A Shark Was Spotted Swimming Through the Flooded Streets of New Jersey During the Nor&#39;easter</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-shark-was-spotted-swimming-through-the-flooded-streets-of-new-jersey-during-the-noreaster-180989588/</link>
-      <description>
-        <![CDATA[The creature has been identified as a smooth dogfish, a harmless species found throughout the western Atlantic Ocean. It wasn't the only animal caught in the chaos brought by the storm system]]>
-      </description>
-      <source:markdown>The creature has been identified as a smooth dogfish, a harmless species found throughout the western Atlantic Ocean. It wasn&#39;t the only animal caught in the chaos brought by the storm system</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/egZYsdLALvY4ZIEv0aWEYPvrrPM=/420x240/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/05/78/05782a4b-de8f-4169-98a8-407daac09187/noreaster.jpg" length="4069359" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-shark-was-spotted-swimming-through-the-flooded-streets-of-new-jersey-during-the-noreaster-180989588/</guid>
-      <pubDate>Wed, 30 Sep 2026 14:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>England’s Beloved Sycamore Gap Tree Is Showing Signs of Life, Three Years After Vandals Chopped It Down</title>
-      <link>https://www.smithsonianmag.com/smart-news/englands-beloved-sycamore-gap-tree-is-showing-signs-of-life-three-years-after-vandals-chopped-it-down-180989591/</link>
-      <description>
-        <![CDATA[Numerous leafy shoots are now sprouting around the base of the tree’s stump, which is located near Hadrian’s Wall in northern England]]>
-      </description>
-      <source:markdown>Numerous leafy shoots are now sprouting around the base of the tree’s stump, which is located near Hadrian’s Wall in northern England</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/X9qQqEw2msLQXE8XXBGuMN0p6GQ=/420x240/filters:focal(2000x1200:2001x1201)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1a/40/1a4062f5-75c2-4d3d-9109-13fc3691edba/gettyimages-1695245422.jpg" length="7141922" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/englands-beloved-sycamore-gap-tree-is-showing-signs-of-life-three-years-after-vandals-chopped-it-down-180989591/</guid>
-      <pubDate>Wed, 30 Sep 2026 13:30:00 +0000</pubDate>
-    </item>    <item>
-      <title>When Jane Austen Took a Turn About the Ballroom in Bath, Ancient Roman Artifacts Were Hiding Beneath Her Feet. Now, Archaeologists Have Finally Found Them</title>
-      <link>https://www.smithsonianmag.com/smart-news/when-jane-austen-took-a-turn-about-the-ballroom-in-bath-ancient-roman-artifacts-were-hiding-beneath-her-feet-now-archaeologists-have-finally-found-them-180989592/</link>
-      <description>
-        <![CDATA[Recent excavations at the Bath Assembly Rooms in England revealed Roman-era coins, roof tiles, pottery, glassware, a network of ditches and a fragment of a military helmet]]>
-      </description>
-      <source:markdown>Recent excavations at the Bath Assembly Rooms in England revealed Roman-era coins, roof tiles, pottery, glassware, a network of ditches and a fragment of a military helmet</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/HwpErU5p-9ZPh5skNh1yM0Hr6EU=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/48/c3/48c3628f-301e-490a-b265-a60160c4addb/ancient-roman-artifacts.jpg" length="127086" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/when-jane-austen-took-a-turn-about-the-ballroom-in-bath-ancient-roman-artifacts-were-hiding-beneath-her-feet-now-archaeologists-have-finally-found-them-180989592/</guid>
-      <pubDate>Wed, 30 Sep 2026 11:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>How much of Earth&#39;s life is still undiscovered?</title>
-      <link>https://www.npr.org/2026/09/30/nx-s1-5978106/new-cat-penguin-species-discovery-biodiversity-genetics</link>
-      <description>
-        <![CDATA[If you, like us, clicked on the cute cat photos posted everywhere recently, announcing the discovery of the first new cat species in more than a century, you might have wondered how rare it is to find a new species. Turns out, it’s not! We live in an era of “unprecedented” discovery, says <a href="https://eeb.arizona.edu/person/john-wiens"target="_blank"   >John Wiens</a>, a professor of ecology and evolutionary biology at the University of Arizona. And scientists say we’re still just scratching at the surface of how much life exists on Earth.   <br/><br/><em>Interested in more science in the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>.</em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>If you, like us, clicked on the cute cat photos posted everywhere recently, announcing the discovery of the first new cat species in more than a century, you might have wondered how rare it is to find a new species. Turns out, it’s not! We live in an era of “unprecedented” discovery, says [John Wiens](https://eeb.arizona.edu/person/john-wiens), a professor of ecology and evolutionary biology at the University of Arizona. And scientists say we’re still just scratching at the surface of how much life exists on Earth.
-
-_Interested in more science in the news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/5bc17927-1be6-4514-bc2c-308925959415/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=5bc17927-1be6-4514-bc2c-308925959415&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-5978106&#38;p=510351&#38;d=829&#38;size=13276100" length="13276100" type="audio/mpeg" />
-      <guid>cid://4b5861b9-e7fa-4087-a20a-81c769a28334</guid>
-      <pubDate>Wed, 30 Sep 2026 07:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 September 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Arp 78: Peculiar [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 September 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Arp 78: Peculiar \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/</guid>
-      <category>APOD</category>
-      <pubDate>Wed, 30 Sep 2026 04:05:00 +0000</pubDate>
-    </item>    <item>
-      <title>Powerful Storms Continue to Prowl the Pacific</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/</link>
-      <description>
-        <![CDATA[Hurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.]]>
-      </description>
-      <source:markdown>Hurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/</guid>
-      <category>Deep Space Climate Observatory (DSCOVR)</category>
-      <category>Earth Observatory</category>
-      <category>Hurricanes &#38; Typhoons</category>
-      <category>Visible Infrared Imaging Radiometer Suite (VIIRS)</category>
-      <pubDate>Wed, 30 Sep 2026 04:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
