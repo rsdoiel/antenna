@@ -4,10 +4,139 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>22 Oct 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>23 Oct 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Brutech Electronics Microsystems – B.E.M large update</title>
+      <link>http://retro.hansotten.nl/22533-2/</link>
+      <description>
+        <![CDATA[Brutech Electronics Microsystems – B.E.M Gebroeders Bruyn, Vinkeveen. Small company, custom made electronics and standard microprocessor boards and systems aimed at industry and hobbyist. During my years with Radio Bulletin we often worked with Brutech, and I visisted their office/manufacturing plant in Vinkeveen several times. The BEM-bus became the standard bus for expansion at Radio [&#8230;]]]>
+      </description>
+      <source:markdown>Brutech Electronics Microsystems – B.E.M Gebroeders Bruyn, Vinkeveen. Small company, custom made electronics and standard microprocessor boards and systems aimed at industry and hobbyist. During my years with Radio Bulletin we often worked with Brutech, and I visisted their office/manufacturing plant in Vinkeveen several times. The BEM-bus became the standard bus for expansion at Radio \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=22533</guid>
+      <category>6502</category>
+      <pubDate>Fri, 23 Oct 2026 11:49:42 +0000</pubDate>
+    </item>    <item>
+      <title>Organizer will be at tomorrow&#39;s London Show</title>
+      <link>http://www.iconbar.com/comments/rss/news2405.html</link>
+      <description>
+        <![CDATA[Very pleased to see that regular Show exhibitor Organizer have managed to resolve a double-booking and will be attending the London Show tomorrow.]]>
+      </description>
+      <source:markdown>Very pleased to see that regular Show exhibitor Organizer have managed to resolve a double-booking and will be attending the London Show tomorrow.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2405.html</guid>
+      <pubDate>Fri, 23 Oct 2026 09:42:00 +0000</pubDate>
+    </item>    <item>
+      <title>RISC OS Technologies at London Show</title>
+      <link>http://www.iconbar.com/comments/rss/news2404.html</link>
+      <description>
+        <![CDATA[New exhibitor RISC OS Technologies have dropped us a line to give you yet more reasons to attend the show tomorrow.]]>
+      </description>
+      <source:markdown>New exhibitor RISC OS Technologies have dropped us a line to give you yet more reasons to attend the show tomorrow.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2404.html</guid>
+      <pubDate>Fri, 23 Oct 2026 09:30:00 +0000</pubDate>
+    </item>    <item>
+      <title>Floopy resurrected for London</title>
+      <link>https://www.riscository.com/2026/floopy-resurrected-london/</link>
+      <description>
+        <![CDATA[One final, small piece of news for this year&#8217;s London Show comes from me, wearing my Soft Rock Software hat. (And if I can find it, I might even bring it, to prove it really exists!) If you head for the Soft Rock table, you&#8217;ll be able to see and play Floopy, which has been resurrected in time for the show. Floopy was originally written all the way back in 1993 &#8211; yes, thirty three years ago &#8211; and it was the first full program I ever wrote in C.&#8230;]]>
+      </description>
+      <source:markdown>One final, small piece of news for this year’s London Show comes from me, wearing my Soft Rock Software hat. (And if I can find it, I might even bring it, to prove it really exists!) If you head for the Soft Rock table, you’ll be able to see and play Floopy, which has been resurrected in time for the show. Floopy was originally written all the way back in 1993 – yes, thirty three years ago – and it was the first full program I ever wrote in C.…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11123</guid>
+      <category>Software</category>
+      <category>Floopy</category>
+      <category>Game</category>
+      <category>London</category>
+      <category>RISC OS North</category>
+      <category>Show</category>
+      <category>Soft Rock Software</category>
+      <pubDate>Thu, 22 Oct 2026 21:38:32 +0000</pubDate>
+    </item>    <item>
+      <title>First aid (for discs) available at London from RISC OS Technologies</title>
+      <link>https://www.riscository.com/2026/risc-os-technologies-discmedic-london/</link>
+      <description>
+        <![CDATA[Another bit of London Show news has landed in the RISCOSitory mailbox &#8211; this time from Martin Eastwood, about something RISC OS Technologies will be bringing to the show. Tell &#8217;em, Martin: Saturdays Event will see the Launch of DiscMedic, RISC OS brand new check and repair suite for Filecore and other filesystems, with FAT32 Mounting CMOS Backup and Restore functionality, Free to everyone to download on the day! Bluetooth Dongles will be sold at the show with a link to try out the Bluetooth Stack for Voice/Keyboaard/Mouse support for&#8230;]]>
+      </description>
+      <source:markdown>Another bit of London Show news has landed in the RISCOSitory mailbox – this time from Martin Eastwood, about something RISC OS Technologies will be bringing to the show. Tell ’em, Martin: Saturdays Event will see the Launch of DiscMedic, RISC OS brand new check and repair suite for Filecore and other filesystems, with FAT32 Mounting CMOS Backup and Restore functionality, Free to everyone to download on the day! Bluetooth Dongles will be sold at the show with a link to try out the Bluetooth Stack for Voice/Keyboaard/Mouse support for…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11121</guid>
+      <category>Software</category>
+      <category>BlueTooth</category>
+      <category>DiscMedic</category>
+      <category>RISC OS Technologies</category>
+      <category>Show</category>
+      <pubDate>Thu, 22 Oct 2026 21:22:20 +0000</pubDate>
+    </item>    <item>
+      <title>Will RISCOSbits be hiding in plain sight at the London Show?</title>
+      <link>https://www.riscository.com/2026/riscosbits-stealthy-appearance-london-show/</link>
+      <description>
+        <![CDATA[According to Andy Marks, RISCOSbits will be in &#8216;stealth&#8217; mode at London 2026 &#8211; but that doesn&#8217;t mean they&#8217;re arriving in an F-117, because there isn&#8217;t enough space to land one. I&#8217;ll let Andy explain: New hardware, faster storage, clever software and a few surprises are heading to the RISC OS London Show with RISCOSbits. RISCOSbits will be back at the London Show this year, bringing a selection of new machines, some interesting software developments, special show offers and a few things that might make visitors look twice. Despite the&#8230;]]>
+      </description>
+      <source:markdown>According to Andy Marks, RISCOSbits will be in ‘stealth’ mode at London 2026 – but that doesn’t mean they’re arriving in an F-117, because there isn’t enough space to land one. I’ll let Andy explain: New hardware, faster storage, clever software and a few surprises are heading to the RISC OS London Show with RISCOSbits. RISCOSbits will be back at the London Show this year, bringing a selection of new machines, some interesting software developments, special show offers and a few things that might make visitors look twice. Despite the…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11118</guid>
+      <category>Shows</category>
+      <category>RISCOSbits</category>
+      <category>Show</category>
+      <category>Stealth</category>
+      <pubDate>Thu, 22 Oct 2026 21:07:12 +0000</pubDate>
+    </item>    <item>
+      <title>b.log 2026/10/22 - Vulnerabilities, Storm, Cheeseburgers, Money begets money, Efficiency.</title>
+      <link>https://heyrick.eu/blog/entry/20261022</link>
+      <description>
+        <![CDATA[Vulnerabilities, Storm, Cheeseburgers, Money begets money, Efficiency.]]>
+      </description>
+      <source:markdown>Vulnerabilities, Storm, Cheeseburgers, Money begets money, Efficiency.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20261022</guid>
+      <pubDate>Thu, 22 Oct 2026 18:59:48 +0000</pubDate>
+    </item>    <item>
+      <title>Show news from Paolo Zaino – aka ZFP Systems</title>
+      <link>https://www.riscository.com/2026/show-news-from-paolo-zaino/</link>
+      <description>
+        <![CDATA[When (not if) you pop along to the London Show on Saturday, you&#8217;ll very definitely want to visit Paolo Zaino&#8217;s table, where he will have quite a few exciting developments (and works in progress) to show you. One of his projects is UltimaVM, a virtual machine that will run on RISC OS, Linux, Windows, macOS, and BSD &#8211; write a piece of software for UltimaVM, and it can be used on any platform on which the virtual machine itself runs. Paolo will have early versions of a couple of new&#8230;]]>
+      </description>
+      <source:markdown>When (not if) you pop along to the London Show on Saturday, you’ll very definitely want to visit Paolo Zaino’s table, where he will have quite a few exciting developments (and works in progress) to show you. One of his projects is UltimaVM, a virtual machine that will run on RISC OS, Linux, Windows, macOS, and BSD – write a piece of software for UltimaVM, and it can be used on any platform on which the virtual machine itself runs. Paolo will have early versions of a couple of new…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11116</guid>
+      <category>Shows</category>
+      <category>London Show</category>
+      <category>Merlin</category>
+      <category>Paolo Zaino</category>
+      <category>ShareFSServer</category>
+      <category>UltimaVM</category>
+      <category>ZFP Systems</category>
+      <pubDate>Thu, 22 Oct 2026 17:14:44 +0000</pubDate>
+    </item>    <item>
+      <title>Messenger Pro reaches a double-digit version number</title>
+      <link>https://www.riscository.com/2026/messenger-pro-10-available/</link>
+      <description>
+        <![CDATA[With the amount of news rolling in, anyone would think there was a show taking place this Saturday, so I&#8217;d better check the calendar&#8230; Ah, yes &#8211; that&#8217;ll be the London Show, then. That probably explains the latest announcement from R-Comp: R-Comp is pleased to announce the release of Messenger Pro 10 (can you believe it has been 4 years since v9?) &#8211; a significant expansion of Messenger Pro&#8217;s functionality. We&#8217;ve tried to address a number of the perceived &#8220;room for improvement&#8221; areas of Messenger Pro in this release &#8211;&#8230;]]>
+      </description>
+      <source:markdown>With the amount of news rolling in, anyone would think there was a show taking place this Saturday, so I’d better check the calendar… Ah, yes – that’ll be the London Show, then. That probably explains the latest announcement from R-Comp: R-Comp is pleased to announce the release of Messenger Pro 10 (can you believe it has been 4 years since v9?) – a significant expansion of Messenger Pro’s functionality. We’ve tried to address a number of the perceived “room for improvement” areas of Messenger Pro in this release –…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11113</guid>
+      <category>Software</category>
+      <category>email</category>
+      <category>London Show</category>
+      <category>Messenger Pro</category>
+      <category>R-Comp</category>
+      <pubDate>Thu, 22 Oct 2026 16:49:44 +0000</pubDate>
+    </item>    <item>
+      <title>PwnEscape Poses VM Vulnerability</title>
+      <link>http://www.linux-magazine.com/Online/News/PwnEscape-Poses-VM-Vulnerability</link>
+      <description>
+        <![CDATA[<p>A guest-to-host escape flaw in Linux KVM, named PwnEscape, might be yet another means of attacking Linux.</p>]]>
+      </description>
+      <source:markdown>A guest-to-host escape flaw in Linux KVM, named PwnEscape, might be yet another means of attacking Linux.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://5783f3d0d36553119d4b2e2bff0ce5ae</guid>
+      <pubDate>Thu, 22 Oct 2026 16:18:31 +0000</pubDate>
+    </item>    <item>
+      <title>New Messenger Pro 10 released</title>
+      <link>http://www.iconbar.com/comments/rss/news2403.html</link>
+      <description>
+        <![CDATA[R-Comp have also announced Messenger Pro 10, four years after the last release.]]>
+      </description>
+      <source:markdown>R-Comp have also announced Messenger Pro 10, four years after the last release.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2403.html</guid>
+      <pubDate>Thu, 22 Oct 2026 13:56:00 +0000</pubDate>
+    </item>    <item>
       <title>Two Samba, or not two Samba? SMB2 lands in the nightly builds</title>
       <link>https://www.riscosopen.org/news/articles/2026/10/22/two-samba-or-not-two-samba-smb2-lands-in-the-nightly-builds</link>
       <description>
@@ -2536,52 +2665,6 @@ Over their production lifetime, analysis of known serial numbers suggests around
       <category>meetings</category>
       <category>Shows</category>
       <pubDate>Fri, 02 Oct 2026 15:54:22 +0000</pubDate>
-    </item>    <item>
-      <title>Dutch Government Turns to Open Source for Digital Sovereignty</title>
-      <link>http://www.linux-magazine.com/Online/News/Dutch-Government-Turns-to-Open-Source-for-Digital-Sovereignty</link>
-      <description>
-        <![CDATA[<p>Following in the footsteps of other European countries, the Netherlands is looking to increase its sovereign digital infrastructure with open source software.</p>]]>
-      </description>
-      <source:markdown>Following in the footsteps of other European countries, the Netherlands is looking to increase its sovereign digital infrastructure with open source software.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://15693011b13c58119a26a4b1476e16e9</guid>
-      <pubDate>Thu, 01 Oct 2026 16:33:16 +0000</pubDate>
-    </item>    <item>
-      <title>Cybersecurity: Rules, Enforcement and Quality</title>
-      <link>https://paolozaino.wordpress.com/2026/10/01/cybersecurity-rules-enforcement-and-quality/</link>
-      <description>
-        <![CDATA[This article defines cybersecurity as the establishment and enforcement of rules and constraints to manage security effectively. It distinguishes between merely listing security properties and understanding the underlying principles that govern them, emphasizing that robust security integrates practices, mechanisms, and policies to address vulnerabilities and ensure system integrity.]]>
-      </description>
-      <source:markdown>This article defines cybersecurity as the establishment and enforcement of rules and constraints to manage security effectively. It distinguishes between merely listing security properties and understanding the underlying principles that govern them, emphasizing that robust security integrates practices, mechanisms, and policies to address vulnerabilities and ensure system integrity.</source:markdown>
-      <guid>cid://http://paolozaino.wordpress.com/?p=10888</guid>
-      <category>CIRT / SIRT / SOC / Blue Team</category>
-      <category>Security</category>
-      <category>availability</category>
-      <category>computer</category>
-      <category>Computing</category>
-      <category>confidentiality</category>
-      <category>Cybersecurity</category>
-      <category>detection</category>
-      <category>identity</category>
-      <category>incident response</category>
-      <category>integrity</category>
-      <category>Paolo Fabio Zaino</category>
-      <category>resilience</category>
-      <category>risk management</category>
-      <category>secure coding</category>
-      <category>Secure Software Development</category>
-      <category>software</category>
-      <category>technology</category>
-      <pubDate>Thu, 01 Oct 2026 16:14:54 +0000</pubDate>
-    </item>    <item>
-      <title>Help test the next FreeDOS distribution</title>
-      <link>https://sourceforge.net/p/freedos/news/2026/10/help-test-the-next-freedos-distribution/</link>
-      <description>
-        <![CDATA[<div class="markdown_content"><p>Please help us test the next version of FreeDOS! Thanks to Jerome, our distribution manager, we are able to share a new "test" distribution every month. These monthly releases collect all new changes, and act as a "test bed" to become the next official FreeDOS distribution, and we would like your help to test it. The new "T2610" ("T" for test, "26" for 2026, "10" for October) distribution includes updates to VSBHDA, SBEMU, Himem, TinyAsm, Blocek, Lynx, FDNPKG16, plus several new translations. Since August, we've also included an updated kernel and other tools. <a href="https://download.freedos.org/test/" rel="nofollow">Download the test release</a> and <a href="https://www.freedos.org/bugs/" rel="nofollow">let us know</a> if you have any problems.</p></div>]]>
-      </description>
-      <source:markdown>Please help us test the next version of FreeDOS! Thanks to Jerome, our distribution manager, we are able to share a new &#34;test&#34; distribution every month. These monthly releases collect all new changes, and act as a &#34;test bed&#34; to become the next official FreeDOS distribution, and we would like your help to test it. The new &#34;T2610&#34; (&#34;T&#34; for test, &#34;26&#34; for 2026, &#34;10&#34; for October) distribution includes updates to VSBHDA, SBEMU, Himem, TinyAsm, Blocek, Lynx, FDNPKG16, plus several new translations. Since August, we&#39;ve also included an updated kernel and other tools. [Download the test release](https://download.freedos.org/test/) and [let us know](https://www.freedos.org/bugs/) if you have any problems.</source:markdown>
-      <guid>cid://https://sourceforge.netacc5c6aa44b009ee91203a90dea975d2954a8594</guid>
-      <pubDate>Thu, 01 Oct 2026 13:51:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
