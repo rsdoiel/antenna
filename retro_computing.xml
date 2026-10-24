@@ -4,10 +4,75 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>23 Oct 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>24 Oct 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Andrew Rawnsley demos RISC OS 64 at London Show</title>
+      <link>http://www.iconbar.com/comments/rss/news2411.html</link>
+      <description>
+        <![CDATA[Andrew Rawnsley is demoing RISC OS 64 running on a PI 5.]]>
+      </description>
+      <source:markdown>Andrew Rawnsley is demoing RISC OS 64 running on a PI 5.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2411.html</guid>
+      <pubDate>Sat, 24 Oct 2026 11:11:00 +0000</pubDate>
+    </item>    <item>
+      <title>The Day of the London show....</title>
+      <link>http://www.iconbar.com/comments/rss/news2410.html</link>
+      <description>
+        <![CDATA[Today is the RISC OS London Show.]]>
+      </description>
+      <source:markdown>Today is the RISC OS London Show.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2410.html</guid>
+      <pubDate>Sat, 24 Oct 2026 08:52:00 +0000</pubDate>
+    </item>    <item>
+      <title>Bottlenecks Discovered by Meta Engineers Lead to Scalability Improvements</title>
+      <link>http://www.linux-magazine.com/Online/News/Bottlenecks-Discovered-by-Meta-Engineers-Lead-to-Scalability-Improvements</link>
+      <description>
+        <![CDATA[<p>Thanks to a small group of engineers at Meta, the Linux kernel module kernfs has been improved, which has led to some serious gains.</p>]]>
+      </description>
+      <source:markdown>Thanks to a small group of engineers at Meta, the Linux kernel module kernfs has been improved, which has led to some serious gains.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://cdb8d75cbf82fb1642e0ad18f0e02ddd</guid>
+      <pubDate>Fri, 23 Oct 2026 20:52:54 +0000</pubDate>
+    </item>    <item>
+      <title>Last minute Show news...</title>
+      <link>http://www.iconbar.com/comments/rss/news2409.html</link>
+      <description>
+        <![CDATA[Hopefully our last new post - we will have the report up tomorrow with all the news and pictures.]]>
+      </description>
+      <source:markdown>Hopefully our last new post - we will have the report up tomorrow with all the news and pictures.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2409.html</guid>
+      <pubDate>Fri, 23 Oct 2026 16:56:00 +0000</pubDate>
+    </item>    <item>
+      <title>An Ion Storm!, Part 2: The Return to Ground Level</title>
+      <link>https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/</link>
+      <description>
+        <![CDATA[This article tells part of the story of John Romero. Note that there is a sexually suggestive image below that may be Not Safe For Work! In the badlands of what used to be Texas, rumor has it that John Romero has thrown himself out the window of Ion Storm&#8217;s penthouse offices. Apparently Romero had [&#8230;]]]>
+      </description>
+      <source:markdown>This article tells part of the story of John Romero. Note that there is a sexually suggestive image below that may be Not Safe For Work! In the badlands of what used to be Texas, rumor has it that John Romero has thrown himself out the window of Ion Storm’s penthouse offices. Apparently Romero had \[…\]</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6925</guid>
+      <category>Digital Antiquaria</category>
+      <category>Interactive Fiction</category>
+      <category>anachronox</category>
+      <category>daikatana</category>
+      <category>deus ex</category>
+      <category>ion storm</category>
+      <category>romero</category>
+      <category>spector</category>
+      <pubDate>Fri, 23 Oct 2026 16:19:26 +0000</pubDate>
+    </item>    <item>
+      <title>Famatra brochure and pricelist KIM-1</title>
+      <link>http://retro.hansotten.nl/22548-2/</link>
+      <description>
+        <![CDATA[In 1978 I bought a KIM-1 from the Dutch company Famatra Benelux, Breda. They were a Rockwell reseller and that explains why my KIM-1 was a KIM-1 with a Rockwell sticker (it is an original MOS Technology build system) and Rockwell branded documents. Here the brochure and pricelist with products like Memory PLus, the sofwtare [&#8230;]]]>
+      </description>
+      <source:markdown>In 1978 I bought a KIM-1 from the Dutch company Famatra Benelux, Breda. They were a Rockwell reseller and that explains why my KIM-1 was a KIM-1 with a Rockwell sticker (it is an original MOS Technology build system) and Rockwell branded documents. Here the brochure and pricelist with products like Memory PLus, the sofwtare \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=22548</guid>
+      <category>6502</category>
+      <category>kim-1</category>
+      <pubDate>Fri, 23 Oct 2026 14:03:29 +0000</pubDate>
+    </item>    <item>
       <title>Brutech Electronics Microsystems – B.E.M large update</title>
       <link>http://retro.hansotten.nl/22533-2/</link>
       <description>
@@ -2653,18 +2718,6 @@ Over their production lifetime, analysis of known serial numbers suggests around
       <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2387.html</guid>
       <pubDate>Sat, 03 Oct 2026 09:02:00 +0000</pubDate>
-    </item>    <item>
-      <title>Meetings and events in October 2026</title>
-      <link>https://www.riscository.com/2026/meetings-and-events-october-2026/</link>
-      <description>
-        <![CDATA[The weekend starts here, and it&#8217;s the closest one to the start of October that I could fit this in &#8211; so with no further ado, here&#8217;s what meetings etc. are happening this month. Wakefield RISC OS Computer Club (WROCC) meeting &#8211; 7th October, 7:45pm WROCC usually meets up online, using Zoom, on the first Wednesday of each month, and the next meeting will feature Mark Moxon talking about the various hacking he has done to old Acornsoft games &#8211; such as Elite, Revs, and so on. Wessex ARM User&#8230;]]>
-      </description>
-      <source:markdown>The weekend starts here, and it’s the closest one to the start of October that I could fit this in – so with no further ado, here’s what meetings etc. are happening this month. Wakefield RISC OS Computer Club (WROCC) meeting – 7th October, 7:45pm WROCC usually meets up online, using Zoom, on the first Wednesday of each month, and the next meeting will feature Mark Moxon talking about the various hacking he has done to old Acornsoft games – such as Elite, Revs, and so on. Wessex ARM User…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=11077</guid>
-      <category>User groups</category>
-      <category>meetings</category>
-      <category>Shows</category>
-      <pubDate>Fri, 02 Oct 2026 15:54:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
