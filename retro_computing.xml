@@ -4,10 +4,19 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>25 Oct 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>26 Oct 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2026/10/25 - The problem with the GPL, An example of why copyright matters, As for me, Footnote.</title>
+      <link>https://heyrick.eu/blog/entry/20261025</link>
+      <description>
+        <![CDATA[The problem with the GPL, An example of why copyright matters, As for me, Footnote.]]>
+      </description>
+      <source:markdown>The problem with the GPL, An example of why copyright matters, As for me, Footnote.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20261025</guid>
+      <pubDate>Sun, 25 Oct 2026 14:30:13 +0000</pubDate>
+    </item>    <item>
       <title>ROOL unveils its latest softwear project at London Show</title>
       <link>http://www.iconbar.com/comments/rss/news2413.html</link>
       <description>
@@ -53,7 +62,7 @@
         
         Denizens of the classic Mac OS are painfully familiar with <tt>INIT</tt>s and <tt>CDEV</tt>s, which is to say, the extensions and control panels which extend the operating system (and in many cases constitute substantial parts of it). Adding device support to the operating system required a <tt>DRVR</tt> resource, which could be stored in the declaration ROM of a NuBus card and available at power-on, or in an <tt>INIT</tt> or <tt>CDEV</tt> and made available during the boot process, or in a regular application and loaded on demand. (Parenthetically, desk accessories were also implemented as <tt>DRVRs</tt>.) Even after the 1994 transition to PowerPC, some, if not all, of such code still had to be 68K for backwards compatibility, and thus required emulation on a Power Macintosh.
         <p>
-        Since this requirement was an obvious performance bottleneck, Apple attempted to address it in Copland, Apple's fallback attempt to modernise the Mac OS stepwise amid the slow-motion death marches of Taligent and PowerOpen-A/UX 4. Copland's tale of woe is a much longer story, to be the topic of <a href="/search/label/copland">a future article</a>, but the part relevant to this piece was the new driver architecture it introduced. This aspect was part of how Copland's design partitioned its components ih memory to avoid the attendant pitfalls inherent in the classic Mac OS. In order to wall the old Mac OS world off but retain compatibility, everything that was 68K code lived in the so-called "cooperative" address space and was treated as data to be interpreted by the Power Mac 68K emulator, including 68K portions of the Toolbox. Even PowerPC-native System 7 applications ran here, since significant portions of the Toolbox were still 68K. This cooperative address space would theoretically allow most applications to run as they did before, but intentionally without privileges to the rest of the system nor access to Copland's hardware abstraction layer (HAL).
+        Since this requirement was an obvious performance bottleneck, Apple attempted to address it in Copland, Apple's fallback attempt to modernise the Mac OS stepwise amid the slow-motion death marches of Taligent and PowerOpen-A/UX 4. Copland's tale of woe is a much longer story, to be the topic of <a href="/search/label/copland">a future article</a>, but the part relevant to this piece was the new driver architecture it introduced. This aspect was part of how Copland's design partitioned its components ih memory to avoid the attendant pitfalls inherent in the classic Mac OS. In order to wall the old Mac OS world off but retain compatibility, everything that was 68K code lived in the so-called "cooperative" address space and was treated as data to be interpreted by the Power Mac 68K emulator, including 68K portions of the Toolbox; even PowerPC-native System 7 applications ran here. This cooperative address space would theoretically allow most applications to run as they did before, but intentionally without privileges to the rest of the system nor access to Copland's hardware abstraction layer (HAL).
         <p>  
         As such, Copland drivers necessarily were fully native code, in this case implemented as regular PowerPC code fragments. These drivers hooked into the HAL and the Name Registry, an object database that tracked devices on the system and mediated loading and unloading device drivers as needed, and were collapsed into a separate global region at a lower execution level where only limited operating system functionality was available. Although such limitations restricted their ability to integrate with the operating system, it also enabled those drivers to run early in the boot process and remain protected from user code. This new class of driver was called a <i>native driver</i>.
         
@@ -295,7 +304,7 @@ Let&#39;s talk about drivers and PCI devices on Power Macs.
 
 Denizens of the classic Mac OS are painfully familiar with `INIT` s and `CDEV` s, which is to say, the extensions and control panels which extend the operating system (and in many cases constitute substantial parts of it). Adding device support to the operating system required a `DRVR` resource, which could be stored in the declaration ROM of a NuBus card and available at power-on, or in an `INIT` or `CDEV` and made available during the boot process, or in a regular application and loaded on demand. (Parenthetically, desk accessories were also implemented as `DRVRs`.) Even after the 1994 transition to PowerPC, some, if not all, of such code still had to be 68K for backwards compatibility, and thus required emulation on a Power Macintosh.
 
-Since this requirement was an obvious performance bottleneck, Apple attempted to address it in Copland, Apple&#39;s fallback attempt to modernise the Mac OS stepwise amid the slow-motion death marches of Taligent and PowerOpen-A/UX 4. Copland&#39;s tale of woe is a much longer story, to be the topic of [a future article](/search/label/copland), but the part relevant to this piece was the new driver architecture it introduced. This aspect was part of how Copland&#39;s design partitioned its components ih memory to avoid the attendant pitfalls inherent in the classic Mac OS. In order to wall the old Mac OS world off but retain compatibility, everything that was 68K code lived in the so-called &#34;cooperative&#34; address space and was treated as data to be interpreted by the Power Mac 68K emulator, including 68K portions of the Toolbox. Even PowerPC-native System 7 applications ran here, since significant portions of the Toolbox were still 68K. This cooperative address space would theoretically allow most applications to run as they did before, but intentionally without privileges to the rest of the system nor access to Copland&#39;s hardware abstraction layer (HAL).
+Since this requirement was an obvious performance bottleneck, Apple attempted to address it in Copland, Apple&#39;s fallback attempt to modernise the Mac OS stepwise amid the slow-motion death marches of Taligent and PowerOpen-A/UX 4. Copland&#39;s tale of woe is a much longer story, to be the topic of [a future article](/search/label/copland), but the part relevant to this piece was the new driver architecture it introduced. This aspect was part of how Copland&#39;s design partitioned its components ih memory to avoid the attendant pitfalls inherent in the classic Mac OS. In order to wall the old Mac OS world off but retain compatibility, everything that was 68K code lived in the so-called &#34;cooperative&#34; address space and was treated as data to be interpreted by the Power Mac 68K emulator, including 68K portions of the Toolbox; even PowerPC-native System 7 applications ran here. This cooperative address space would theoretically allow most applications to run as they did before, but intentionally without privileges to the rest of the system nor access to Copland&#39;s hardware abstraction layer (HAL).
 
 
 As such, Copland drivers necessarily were fully native code, in this case implemented as regular PowerPC code fragments. These drivers hooked into the HAL and the Name Registry, an object database that tracked devices on the system and mediated loading and unloading device drivers as needed, and were collapsed into a separate global region at a lower execution level where only limited operating system functionality was available. Although such limitations restricted their ability to integrate with the operating system, it also enabled those drivers to run early in the boot process and remain protected from user code. This new class of driver was called a _native driver_.
@@ -3222,42 +3231,6 @@ Over their production lifetime, analysis of known serial numbers suggests around
       <source:markdown>The October 2026 WROCC talk is on Wednesday 7th October and starts at 7.45pm on Zoom. This month Mark Moxon returns as our speaker</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2377.html</guid>
       <pubDate>Mon, 05 Oct 2026 07:11:00 +0000</pubDate>
-    </item>    <item>
-      <title>Mark Moxon talks Elite, Revs, and more to WROCC – 7th October</title>
-      <link>https://www.riscository.com/2026/wrocc-meeting-7th-october-mark-moxon/</link>
-      <description>
-        <![CDATA[Mark Moxon will be joining the next meeting of the Wakefield RISC OS Computer Club (WROCC), which will take place on Wednesday, 7th October, to take the group on a tour of the various Acornsoft games he has taken a detailed look at, and into which he has hacked new features. With Elite, for example, he has produced a teletext version of the game, one with anaglyph graphics (three dimensional with the aid of colour-filtered glasses), and a two player version. With Revs, on the other hand, he has added&#8230;]]>
-      </description>
-      <source:markdown>Mark Moxon will be joining the next meeting of the Wakefield RISC OS Computer Club (WROCC), which will take place on Wednesday, 7th October, to take the group on a tour of the various Acornsoft games he has taken a detailed look at, and into which he has hacked new features. With Elite, for example, he has produced a teletext version of the game, one with anaglyph graphics (three dimensional with the aid of colour-filtered glasses), and a two player version. With Revs, on the other hand, he has added…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=11080</guid>
-      <category>User groups</category>
-      <category>games</category>
-      <category>Mark Moxon</category>
-      <category>Meeting</category>
-      <category>User Group</category>
-      <category>Wakefield</category>
-      <category>WROCC</category>
-      <pubDate>Sun, 04 Oct 2026 20:02:34 +0000</pubDate>
-    </item>    <item>
-      <title>Radio Bulletin articles OCR’ed and translated</title>
-      <link>http://retro.hansotten.nl/radio-bulletin-articles-ocred-and-translated/</link>
-      <description>
-        <![CDATA[From 1977 to 1986 I was heavily involved in the Dutch magazine Radio Bulletin. The magazine started in the time of the then new radio long before I was born! I started writing about my interest in electronic since 1970. And in 1977 the magazine (Dick de Boer!) introduced me to the KIM-1, and that [&#8230;]]]>
-      </description>
-      <source:markdown>From 1977 to 1986 I was heavily involved in the Dutch magazine Radio Bulletin. The magazine started in the time of the then new radio long before I was born! I started writing about my interest in electronic since 1970. And in 1977 the magazine (Dick de Boer!) introduced me to the KIM-1, and that \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=22196</guid>
-      <category>6502</category>
-      <category>kim-1</category>
-      <pubDate>Sun, 04 Oct 2026 17:06:50 +0000</pubDate>
-    </item>    <item>
-      <title>b.log 2026/10/04 - Cockroaches, midiparse v1.00.</title>
-      <link>https://heyrick.eu/blog/entry/20261004</link>
-      <description>
-        <![CDATA[Cockroaches, midiparse v1.00.]]>
-      </description>
-      <source:markdown>Cockroaches, midiparse v1.00.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20261004</guid>
-      <pubDate>Sun, 04 Oct 2026 16:07:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

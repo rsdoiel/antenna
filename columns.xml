@@ -5,7 +5,7 @@
     <title><![CDATA[Columns]]></title>
     <description><![CDATA[Blogs, columns and snapshots from around the web.]]></description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>25 Oct 26 06:42 -0700</lastBuildDate>
+    <lastBuildDate>26 Oct 26 06:43 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -36,6 +36,1580 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Generative AI’s make-or-break week?</title>
+      <link>https://garymarcus.substack.com/p/ais-make-or-break-week</link>
+      <description>
+        <![CDATA[We may know a lot more, soon]]>
+      </description>
+      <source:markdown>We may know a lot more, soon</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!P5_l!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHVhQsArWoAARP9F.jpg" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/ais-make-or-break-week</guid>
+      <pubDate>Mon, 26 Oct 2026 13:21:14 +0000</pubDate>
+    </item>    <item>
+      <title>Victorinox Virtuoso</title>
+      <link>https://statusq.org/archives/2026/10/26/13704/</link>
+      <description>
+        <![CDATA[<p data-block-key="w8mvr">Several people liked <a href="https://statusq.org/archives/2026/10/13/13702/">my earlier post</a> linking to a set of hints and tips about how to use a 'Swiss Army' Victorinox penknife.</p><p data-block-key="2k5fk">Since then, I've discovered the wonderful Youtube channel by <a href="https://www.youtube.com/@FelixImmler">Felix Immler</a> (and I note that more than a quarter of a million other people have subscribed too). Part of the fun is that Felix is making his videos on the side of a Swiss mountain (of course) and sometimes has to pause because the wind is too strong or because the nearby cowbells get too loud!</p><p data-block-key="bbgsd">Here's one of his playlists: <a href="https://www.youtube.com/playlist?list=PLz0r9DyPuu9ebOTZ73dScwF57nZm-ITYY">Victorinox Tips and Tricks</a> - and as a couple of examples, have you ever wondered why you might bother with the <i>small</i> blade on your penknife?</p><p data-block-key="bra1n"></p><div style="padding-bottom: 56.49999999999999%;" class="responsive-object">
+            <iframe width="200" height="113" src="https://www.youtube.com/embed/TMYvxMcvrr4?list=PLz0r9DyPuu9ebOTZ73dScwF57nZm-ITYY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+        <p data-block-key="bblc8">Later clips give you more details on how to use it.</p><p data-block-key="707u3">Also, if you need to use the corkscrew, do you just twist it into the cork and pull? There may be better ways...</p><p data-block-key="6u3se"></p><div style="padding-bottom: 56.49999999999999%;" class="responsive-object">
+            <iframe width="200" height="113" src="https://www.youtube.com/embed/IZKu4RDfdjs?list=PLz0r9DyPuu9ebOTZ73dScwF57nZm-ITYY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+        <p data-block-key="5k525"></p>]]>
+      </description>
+      <source:markdown>Several people liked [my earlier post](https://statusq.org/archives/2026/10/13/13702/) linking to a set of hints and tips about how to use a &#39;Swiss Army&#39; Victorinox penknife.
+
+Since then, I&#39;ve discovered the wonderful Youtube channel by [Felix Immler](https://www.youtube.com/@FelixImmler) (and I note that more than a quarter of a million other people have subscribed too). Part of the fun is that Felix is making his videos on the side of a Swiss mountain (of course) and sometimes has to pause because the wind is too strong or because the nearby cowbells get too loud!
+
+Here&#39;s one of his playlists: [Victorinox Tips and Tricks](https://www.youtube.com/playlist?list=PLz0r9DyPuu9ebOTZ73dScwF57nZm-ITYY) \- and as a couple of examples, have you ever wondered why you might bother with the _small_ blade on your penknife?
+
+Later clips give you more details on how to use it.
+
+Also, if you need to use the corkscrew, do you just twist it into the cork and pull? There may be better ways...</source:markdown>
+      <guid>cid://https://statusq.org/archives/2026/10/26/13704/</guid>
+      <category>Gadgets &#38; Toys</category>
+      <pubDate>Mon, 26 Oct 2026 12:51:00 +0000</pubDate>
+    </item>    <item>
+      <title>LibreOffice at hackathons in Nepal</title>
+      <link>https://blog.documentfoundation.org/blog/2026/10/26/libreoffice-at-hackathons-in-nepal/</link>
+      <description>
+        <![CDATA[Suraj Bhattarai, our Nepalese LibreOffice Liaison, reports back from the LibreOffice community at Major League Hacking (MLH) powered student hackathon. Click here to read his report]]>
+      </description>
+      <source:markdown>Suraj Bhattarai, our Nepalese LibreOffice Liaison, reports back from the LibreOffice community at Major League Hacking (MLH) powered student hackathon. Click here to read his report</source:markdown>
+      <guid>cid://https://blog.documentfoundation.org/?p=18277</guid>
+      <category>Community</category>
+      <category>LibreOffice</category>
+      <category>Meetings</category>
+      <pubDate>Mon, 26 Oct 2026 12:29:36 +0000</pubDate>
+    </item>    <item>
+      <title>The Oligarchs Lose a Big One</title>
+      <link>https://paulkrugman.substack.com/p/the-oligarchs-lose-a-big-one</link>
+      <description>
+        <![CDATA[Brazil refuses to be bullied]]>
+      </description>
+      <source:markdown>Brazil refuses to be bullied</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Oh4t!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20125b6d-6216-4989-82d6-5521334c494d_1429x953.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/the-oligarchs-lose-a-big-one</guid>
+      <pubDate>Mon, 26 Oct 2026 11:49:46 +0000</pubDate>
+    </item>    <item>
+      <title>IF I KNEW HOW TO PRAY, I’D PRAY</title>
+      <link>https://jacobsonh.substack.com/p/if-i-knew-how-to-pray-id-pray</link>
+      <description>
+        <![CDATA[On the eve of a fateful election in Israel I republish this piece I wrote for the New Statesman a couple of years ago, during which time every lie I described has multiplied a thousandfold and the sanctimony of the &#8216;educated&#8217; classes has grown to plague proportions&#8230;.]]>
+      </description>
+      <source:markdown>On the eve of a fateful election in Israel I republish this piece I wrote for the New Statesman a couple of years ago, during which time every lie I described has multiplied a thousandfold and the sanctimony of the ‘educated’ classes has grown to plague proportions….</source:markdown>
+      <enclosure url="https://images.unsplash.com/photo-1664997432332-4a3e2c7a379a?crop=entropy&#38;cs=tinysrgb&#38;fit=max&#38;fm=jpg&#38;ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw2NXx8amV3c3xlbnwwfHx8fDE3OTMwMTQwODZ8MA&#38;ixlib=rb-4.1.0&#38;q=80&#38;w=1080" length="0" type="image/jpeg" />
+      <guid>cid://https://jacobsonh.substack.com/p/if-i-knew-how-to-pray-id-pray</guid>
+      <pubDate>Mon, 26 Oct 2026 11:35:25 +0000</pubDate>
+    </item>    <item>
+      <title>Emulate Apple II on Raspberry Pi</title>
+      <link>https://www.raspberrypi.com/news/emulate-apple-ii-on-raspberry-pi/</link>
+      <description>
+        <![CDATA[<p>Recreate the classic 8-bit computer on Raspberry Pi.</p>
+        <p>The post <a href="https://www.raspberrypi.com/news/emulate-apple-ii-on-raspberry-pi/">Emulate Apple II on Raspberry Pi</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <source:markdown>Recreate the classic 8-bit computer on Raspberry Pi.
+
+The post [Emulate Apple II on Raspberry Pi](https://www.raspberrypi.com/news/emulate-apple-ii-on-raspberry-pi/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).</source:markdown>
+      <guid>cid://https://www.raspberrypi.com/?p=140997</guid>
+      <category>Raspberry Pi Official Magazine</category>
+      <category>Maker Monday</category>
+      <category>Retro computing</category>
+      <pubDate>Mon, 26 Oct 2026 11:21:37 +0000</pubDate>
+    </item>    <item>
+      <title>Bias in Qwen3-Coder Model</title>
+      <link>https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html</link>
+      <description>
+        <![CDATA[<p>Interesting <a href="https://www.hirundo.io/blog/qwen3-coder-vulnerabilities">research</a>:</p>
+        <blockquote><p>TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model&#8217;s weights, and that removing the model&#8217;s CCP alignment removes it.</p>
+        <ul>
+        <li>One word tilts the code against Americans. Ask for the app &#8220;for a US defense contractor&#8221; instead of &#8220;for a Chinese defense contractor&#8221;, and Qwen3-Coder is 19% more likely to hand back an app that can be hacked.
+        ...</li></ul></blockquote>]]>
+      </description>
+      <source:markdown>Interesting [research](https://www.hirundo.io/blog/qwen3-coder-vulnerabilities):
+
+&#62; TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model’s weights, and that removing the model’s CCP alignment removes it.
+&#62;
+&#62; - One word tilts the code against Americans. Ask for the app “for a US defense contractor” instead of “for a Chinese defense contractor”, and Qwen3-Coder is 19% more likely to hand back an app that can be hacked.
+&#62;   ...</source:markdown>
+      <guid>cid://https://www.schneier.com/?p=72840</guid>
+      <category>Uncategorized</category>
+      <category>bias</category>
+      <category>China</category>
+      <category>hacking</category>
+      <pubDate>Mon, 26 Oct 2026 11:03:31 +0000</pubDate>
+    </item>    <item>
+      <title>TBR Monday Cartoon</title>
+      <link>https://www.borowitzreport.com/p/tbr-monday-cartoon</link>
+      <description>
+        <![CDATA[New Yorker legend Jason Chatfield joins TBR!]]>
+      </description>
+      <source:markdown>New Yorker legend Jason Chatfield joins TBR!</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!alKE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08c51077-35d8-4cc2-a332-dadc717e10ab_2777x2480.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/tbr-monday-cartoon</guid>
+      <pubDate>Mon, 26 Oct 2026 11:00:50 +0000</pubDate>
+    </item>    <item>
+      <title>AI as a Public Utility</title>
+      <link>https://lpeproject.org/blog/ai-as-a-public-utility/</link>
+      <description>
+        <![CDATA[In thinking about how to regulate AI as a public utility, there are two big questions: which layers of the AI stack warrant regulation, and which tools of public utility law are best suited to each layer?]]>
+      </description>
+      <source:markdown>In thinking about how to regulate AI as a public utility, there are two big questions: which layers of the AI stack warrant regulation, and which tools of public utility law are best suited to each layer?</source:markdown>
+      <guid>cid://https://lpeproject.org/?p=13824</guid>
+      <category>Essay</category>
+      <category>Market Governance</category>
+      <category>Policymaking</category>
+      <category>Tech</category>
+      <pubDate>Mon, 26 Oct 2026 11:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Mailers from “Progressive Alliance of Wisconsin” linked to GOP operative in Oklahoma</title>
+      <link>https://popular.info/p/mailers-from-progressive-alliance</link>
+      <description>
+        <![CDATA[The mailers, targeting Democratic gubernatorial nominee David Crowley, are part of a Republican dirty-tricks operation]]>
+      </description>
+      <source:markdown>The mailers, targeting Democratic gubernatorial nominee David Crowley, are part of a Republican dirty-tricks operation</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/a6691a85-c65e-4d7a-be3e-2b515a3c6edc_918x500.png" length="0" type="image/jpeg" />
+      <guid>cid://https://popular.info/p/mailers-from-progressive-alliance</guid>
+      <pubDate>Mon, 26 Oct 2026 10:30:44 +0000</pubDate>
+    </item>    <item>
+      <title>Lit Hub Daily: October 26, 2026</title>
+      <link>https://lithub.com/lit-hub-daily-october-26-2026/</link>
+      <description>
+        <![CDATA[Why boys actually need boy bands: “Books and boy bands are a bard’s best balm.” &#124; Lit Hub Music Matthew Sitman talks to Brandon Taylor about Minor Black Figures, writing about Black art, and more at The Center For Fiction.]]>
+      </description>
+      <source:markdown>Why boys actually need boy bands: “Books and boy bands are a bard’s best balm.” \| Lit Hub Music Matthew Sitman talks to Brandon Taylor about Minor Black Figures, writing about Black art, and more at The Center For Fiction.</source:markdown>
+      <guid>cid://https://lithub.com/?p=278834</guid>
+      <category>Lit Hub Daily</category>
+      <pubDate>Mon, 26 Oct 2026 10:30:19 +0000</pubDate>
+    </item>    <item>
+      <title>Vivek Ramaswamy discovers that voters have their limits</title>
+      <link>https://www.publicnotice.co/p/vivek-ramaswamy-acton-ad</link>
+      <description>
+        <![CDATA[Asking &#8220;What would Trump do?&#8221; is a bad way to make campaign strategy.]]>
+      </description>
+      <source:markdown>Asking “What would Trump do?” is a bad way to make campaign strategy.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!aexG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29d4a3e7-42f2-412b-94d3-978c2bd1b2cb_5548x3859.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.publicnotice.co/p/vivek-ramaswamy-acton-ad</guid>
+      <pubDate>Mon, 26 Oct 2026 10:17:33 +0000</pubDate>
+    </item>    <item>
+      <title>2026-10-26 Oddμ code churn</title>
+      <link>https://alexschroeder.ch/view/2026-10-26-oddmu-testing</link>
+      <description>
+        <![CDATA[<h1 id="2026-10-26-oddμ-code-churn">2026-10-26 Oddμ code churn</h1>
+        
+        <p>When I rewrote Oddμ to use SQLite for full-text search, I had to update the database when changes were made. Once the code was there, it was easy to add more information, like links. That in turned allowed me to use the database when rendering the page to HTML. Now it was possible to quickly find all the backlinks to a page. At the time, the easiest solution was to add a global variable for the database handle.</p>
+        
+        <p>The problem is testing, when tests run in parallel. One test starts putting a bunch of pages into the database. Another test does the same and reads the pages in the database. And suddenly there are more pages in there. There are ways around that. The problem is not new because creating files and reading all the files runs into the same problem. The first step was to have every test use its own directory and cleaning up when the test is done.</p>
+        
+        <p>But what about entries in the database. They weren&rsquo;t always getting cleaned out. And depending on the random order of tests, I&rsquo;d run into a problem. Of course the next time I&rsquo;d run the tests, the problem disappeared. Something about the first test having to initialize the database and no other test. Some of the tests probably don&rsquo;t initialize the database and if they run first, rarely, things fail.</p>
+        
+        <p>So the solution, it seems to me, is to have a wiki context that contains the database handle and pass that around:</p>
+        
+        <ol>
+        <li>when the server starts, create the context and pass it to all the handlers as they are registered;</li>
+        <li>when commands run, create the context and pass it to the data structure initialized when commands are registered;</li>
+        <li>when tests run, create a new directory and a database for every test and clean it up when the test is done.</li>
+        </ol>
+        
+        <p>I&rsquo;ve done 1 and 2 but 3 is still open.</p>
+        
+        <p>Remember kids: Write code such that it can be tested. Avoid global state. Collect all the state you have into a context object and pass that around. I know it hurts but global state will hurt you more when you&rsquo;re writing tests.</p>
+        
+        <p><a class="tag" href="/search/?q=%23Oddμ">#Oddμ</a> <a class="tag" href="/search/?q=%23Programming">#Programming</a></p>]]>
+      </description>
+      <source:markdown># 2026-10-26 Oddμ code churn
+
+When I rewrote Oddμ to use SQLite for full-text search, I had to update the database when changes were made. Once the code was there, it was easy to add more information, like links. That in turned allowed me to use the database when rendering the page to HTML. Now it was possible to quickly find all the backlinks to a page. At the time, the easiest solution was to add a global variable for the database handle.
+
+The problem is testing, when tests run in parallel. One test starts putting a bunch of pages into the database. Another test does the same and reads the pages in the database. And suddenly there are more pages in there. There are ways around that. The problem is not new because creating files and reading all the files runs into the same problem. The first step was to have every test use its own directory and cleaning up when the test is done.
+
+But what about entries in the database. They weren’t always getting cleaned out. And depending on the random order of tests, I’d run into a problem. Of course the next time I’d run the tests, the problem disappeared. Something about the first test having to initialize the database and no other test. Some of the tests probably don’t initialize the database and if they run first, rarely, things fail.
+
+So the solution, it seems to me, is to have a wiki context that contains the database handle and pass that around:
+
+1. when the server starts, create the context and pass it to all the handlers as they are registered;
+2. when commands run, create the context and pass it to the data structure initialized when commands are registered;
+3. when tests run, create a new directory and a database for every test and clean it up when the test is done.
+
+I’ve done 1 and 2 but 3 is still open.
+
+Remember kids: Write code such that it can be tested. Avoid global state. Collect all the state you have into a context object and pass that around. I know it hurts but global state will hurt you more when you’re writing tests.
+
+[#Oddμ](/search/?q=%23Oddμ) [#Programming](/search/?q=%23Programming)</source:markdown>
+      <guid>cid://https://alexschroeder.ch/view/2026-10-26-oddmu-testing</guid>
+      <category>Oddμ</category>
+      <category>Programming</category>
+      <pubDate>Mon, 26 Oct 2026 09:43:01 +0000</pubDate>
+    </item>    <item>
+      <title>Brandon Taylor on Writing About Black Art and Black Artists in America</title>
+      <link>https://lithub.com/brandon-taylor-on-writing-about-black-art-and-black-artists-in-america/</link>
+      <description>
+        <![CDATA[The Center For Fiction welcomed Brandon Taylor, Booker Prize finalist and bestselling author of Real Life and Filthy Animals, back to our stage to celebrate the release of his highly anticipated novel Minor Black Figures. Matthew Sitman, host of the]]>
+      </description>
+      <source:markdown>The Center For Fiction welcomed Brandon Taylor, Booker Prize finalist and bestselling author of Real Life and Filthy Animals, back to our stage to celebrate the release of his highly anticipated novel Minor Black Figures. Matthew Sitman, host of the</source:markdown>
+      <guid>cid://https://lithub.com/?p=278443</guid>
+      <category>Craft and Criticism</category>
+      <category>Features</category>
+      <category>In Conversation</category>
+      <category>Literary Criticism</category>
+      <category>Brandon Taylor</category>
+      <category>interviews</category>
+      <category>Matthew Sitman</category>
+      <category>Minor Black Figures</category>
+      <category>The Center for Fiction</category>
+      <pubDate>Mon, 26 Oct 2026 09:10:26 +0000</pubDate>
+    </item>    <item>
+      <title>Hidden In Plain Sight: What It Meant to Unearth My Father’s Decades-Old FBI File</title>
+      <link>https://lithub.com/hidden-in-plain-sight-what-it-meant-to-unearth-my-fathers-decades-old-fbi-file/</link>
+      <description>
+        <![CDATA[My father didn’t want to know what, if anything, the FBI had on him. Or at least that’s what my mother claimed. But after he died, as I sifted through his United Nations personnel documents and wartime correspondence to and]]>
+      </description>
+      <source:markdown>My father didn’t want to know what, if anything, the FBI had on him. Or at least that’s what my mother claimed. But after he died, as I sifted through his United Nations personnel documents and wartime correspondence to and</source:markdown>
+      <guid>cid://https://lithub.com/?p=278512</guid>
+      <category>Features</category>
+      <category>History</category>
+      <category>Memoir</category>
+      <category>News and Culture</category>
+      <category>Politics</category>
+      <category>Aimee Liu</category>
+      <category>China</category>
+      <category>family</category>
+      <category>family history</category>
+      <category>fathers</category>
+      <category>fathers and daughters</category>
+      <category>FBI</category>
+      <category>J. Edgar Hoover</category>
+      <category>J. Edgar Hoover v. Maurice T. Liu</category>
+      <category>McCarthyism</category>
+      <category>New England Review</category>
+      <category>Red Scare</category>
+      <pubDate>Mon, 26 Oct 2026 09:09:45 +0000</pubDate>
+    </item>    <item>
+      <title>Maria Edgeworth: Early 19th-Century Celebrity Novelist and… Key Contributor to the Birth of Classical Economics?</title>
+      <link>https://lithub.com/maria-edgeworth-early-19th-century-celebrity-novelist-and-key-contributor-to-the-birth-of-classical-economics/</link>
+      <description>
+        <![CDATA[London society buzzed with one name that spring: Miss Edgeworth. The year was 1813. The Regency era was in full swing, and the upper class had assembled for the season in a pastel whirl of lace and silk, complete with]]>
+      </description>
+      <source:markdown>London society buzzed with one name that spring: Miss Edgeworth. The year was 1813. The Regency era was in full swing, and the upper class had assembled for the season in a pastel whirl of lace and silk, complete with</source:markdown>
+      <guid>cid://https://lithub.com/?p=278567</guid>
+      <category>Biography</category>
+      <category>Features</category>
+      <category>History</category>
+      <category>News and Culture</category>
+      <category>19th century</category>
+      <category>Alfred A. Knopf</category>
+      <category>British literature</category>
+      <category>economics</category>
+      <category>England</category>
+      <category>intellectuals</category>
+      <category>Jeanna Smialek</category>
+      <category>Knopf Doubleday Publishing Group</category>
+      <category>Maria Edgeworth</category>
+      <category>The Invisible Hand of Maria Edgeworth: How a Nineteenth-Century Novelist Taught the World Economics</category>
+      <category>women writers</category>
+      <pubDate>Mon, 26 Oct 2026 09:09:41 +0000</pubDate>
+    </item>    <item>
+      <title>How Joe Biden and the National Democratic Party Paved the Way For American Fascism</title>
+      <link>https://lithub.com/how-joe-biden-and-the-national-democratic-party-paved-the-way-for-american-fascism/</link>
+      <description>
+        <![CDATA[I’m angry at MAGA leaders every day for the lies and manipulation and wreckage they’ve wrought on the very people who voted for them—not to mention the rest of us. I’m angry when I see faith manipulated and weaponized, while]]>
+      </description>
+      <source:markdown>I’m angry at MAGA leaders every day for the lies and manipulation and wreckage they’ve wrought on the very people who voted for them—not to mention the rest of us. I’m angry when I see faith manipulated and weaponized, while</source:markdown>
+      <guid>cid://https://lithub.com/?p=278565</guid>
+      <category>Features</category>
+      <category>History</category>
+      <category>News and Culture</category>
+      <category>Politics</category>
+      <category>authoritarianism</category>
+      <category>Democratic Party</category>
+      <category>Donald Trump</category>
+      <category>fascism</category>
+      <category>Hanover Square Press</category>
+      <category>Jennifer Welch</category>
+      <category>Joe Biden</category>
+      <category>MAGA</category>
+      <category>Not Today Fascists: The Lies That Got Us Here and the Truths That Will Reunite Us</category>
+      <category>Republican party</category>
+      <pubDate>Mon, 26 Oct 2026 09:09:26 +0000</pubDate>
+    </item>    <item>
+      <title>Anika Fajardo on Connecting With Her Colombian Heritage Through Magical Realism</title>
+      <link>https://lithub.com/anika-fajardo-on-connecting-with-her-colombian-heritage-through-magical-realism/</link>
+      <description>
+        <![CDATA[I discovered magical realism when I was sixteen, the same summer I began a correspondence with my Colombian father. Up to that point, I had lived entirely removed from my birthplace in Colombia. It was the 1980s and I was]]>
+      </description>
+      <source:markdown>I discovered magical realism when I was sixteen, the same summer I began a correspondence with my Colombian father. Up to that point, I had lived entirely removed from my birthplace in Colombia. It was the 1980s and I was</source:markdown>
+      <guid>cid://https://lithub.com/?p=278447</guid>
+      <category>Craft and Advice</category>
+      <category>Craft and Criticism</category>
+      <category>Features</category>
+      <category>Literary Criticism</category>
+      <category>Anika Fajardo</category>
+      <category>Colombia</category>
+      <category>family</category>
+      <category>fathers</category>
+      <category>fathers and daughters</category>
+      <category>Gallery Books</category>
+      <category>identity</category>
+      <category>Latin America</category>
+      <category>Latin American literature</category>
+      <category>magical realism</category>
+      <category>Simon and Schuster</category>
+      <category>The Many Mothers of Dolores Moore</category>
+      <pubDate>Mon, 26 Oct 2026 09:07:35 +0000</pubDate>
+    </item>    <item>
+      <title>This Week in Literary History: The First Ballpoint Pen is Sold in New York City</title>
+      <link>https://lithub.com/this-week-in-literary-history-the-first-ballpoint-pen-is-sold-in-new-york-city/</link>
+      <description>
+        <![CDATA[This first appeared in Lit Hub’s Literary History newsletter—sign up here. In the summer of 1944, news of an exciting new invention made its way to American newspapers. A Hungarian-Argentinian journalist named László Bíró had patented a new kind of pen, one]]>
+      </description>
+      <source:markdown>This first appeared in Lit Hub’s Literary History newsletter—sign up here. In the summer of 1944, news of an exciting new invention made its way to American newspapers. A Hungarian-Argentinian journalist named László Bíró had patented a new kind of pen, one</source:markdown>
+      <guid>cid://https://lithub.com/?p=278837</guid>
+      <category>Features</category>
+      <category>History</category>
+      <category>commerce</category>
+      <category>Gimbel&#39;s</category>
+      <category>pens</category>
+      <category>This Week in Literary History</category>
+      <pubDate>Mon, 26 Oct 2026 09:05:57 +0000</pubDate>
+    </item>    <item>
+      <title>The Story Behind Edward Hopper’s Iconic Painting, “Nighthawks”</title>
+      <link>https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/</link>
+      <description>
+        <![CDATA[Feature image: Edward Hopper, Nighthawks, 1942. Oil on canvas, 33 1/8 × 60 in. (84.1 x 152.4 cm). The Art Institute of Chicago, Illinois. Purchased using Friends of American Art fund, 1942.51. Photo: The Art Institute of Chicago / Art]]>
+      </description>
+      <source:markdown>Feature image: Edward Hopper, Nighthawks, 1942. Oil on canvas, 33 1/8 × 60 in. (84.1 x 152.4 cm). The Art Institute of Chicago, Illinois. Purchased using Friends of American Art fund, 1942.51. Photo: The Art Institute of Chicago / Art</source:markdown>
+      <guid>cid://https://lithub.com/?p=278599</guid>
+      <category>Art and Photography</category>
+      <category>Biography</category>
+      <category>Fullwidth Slider</category>
+      <category>News and Culture</category>
+      <category>art</category>
+      <category>artists</category>
+      <category>biography</category>
+      <category>Edward Hopper</category>
+      <category>Edward Hopper: A Life</category>
+      <category>Louis Shadwick</category>
+      <category>Nighthawks</category>
+      <category>Yale University Press</category>
+      <pubDate>Mon, 26 Oct 2026 09:00:56 +0000</pubDate>
+    </item>    <item>
+      <title>Are Boy Bands the Cure for the Male Loneliness Epidemic?</title>
+      <link>https://lithub.com/are-boy-bands-the-cure-for-the-male-loneliness-epidemic/</link>
+      <description>
+        <![CDATA[One of the most formative moments in my adventures in rock ‘n roll occurred when I was around fourteen. I went to a brick and mortar record store at the mall and read the liner notes to Good Charlotte’s self-titled]]>
+      </description>
+      <source:markdown>One of the most formative moments in my adventures in rock ‘n roll occurred when I was around fourteen. I went to a brick and mortar record store at the mall and read the liner notes to Good Charlotte’s self-titled</source:markdown>
+      <guid>cid://https://lithub.com/?p=278687</guid>
+      <category>Features</category>
+      <category>Memoir</category>
+      <category>Music</category>
+      <category>News and Culture</category>
+      <category>99 Problems Finding the 1</category>
+      <category>bands</category>
+      <category>Beacon Press</category>
+      <category>boy bands</category>
+      <category>craft</category>
+      <category>G&#39;Ra Asim</category>
+      <category>music</category>
+      <category>Uppity</category>
+      <pubDate>Mon, 26 Oct 2026 08:55:34 +0000</pubDate>
+    </item>    <item>
+      <title>Can Creative Hobbies Actually Change the World?</title>
+      <link>https://lithub.com/can-creative-hobbies-actually-change-the-world/</link>
+      <description>
+        <![CDATA[At first glance, belonging to a calligraphy guild or attending a quilting circle may seem like the very definition of apolitical activity. A handful of people gathering in a library conference room or church fellowship hall to have a potluck]]>
+      </description>
+      <source:markdown>At first glance, belonging to a calligraphy guild or attending a quilting circle may seem like the very definition of apolitical activity. A handful of people gathering in a library conference room or church fellowship hall to have a potluck</source:markdown>
+      <guid>cid://https://lithub.com/?p=278705</guid>
+      <category>Art and Photography</category>
+      <category>Features</category>
+      <category>News and Culture</category>
+      <category>Politics</category>
+      <category>art</category>
+      <category>Bonnie Smith Whitehouse</category>
+      <category>connection</category>
+      <category>crafting</category>
+      <category>Hachette Book Group</category>
+      <category>In Our Hands: A Maker&#39;s Manifesto for Changing the World Through Creative Practices</category>
+      <category>political activism</category>
+      <category>Running Press</category>
+      <pubDate>Mon, 26 Oct 2026 08:15:05 +0000</pubDate>
+    </item>    <item>
+      <title>Watch, Read, and Share</title>
+      <link>https://robertreich.substack.com/p/wise-and-important-words</link>
+      <description>
+        <![CDATA[Obama said it as clearly as it can be stated.]]>
+      </description>
+      <source:markdown>Obama said it as clearly as it can be stated.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/MUfFjRGbhPw" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/wise-and-important-words</guid>
+      <pubDate>Mon, 26 Oct 2026 08:03:05 +0000</pubDate>
+    </item>    <item>
+      <title>Name that Ware, October 2026</title>
+      <link>https://www.bunniestudios.com/blog/2026/name-that-ware-october-2026/</link>
+      <description>
+        <![CDATA[The Ware for October 2026 is shown below: Another contribution from FETguy and Renew Computers! I found this board to be interesting mainly because I always wondered how these things worked. The construction reveals a trick which ended up as a surprise, at least to me! A couple of administrative notes &#8211; I am counting [&#8230;]]]>
+      </description>
+      <source:markdown>The Ware for October 2026 is shown below: Another contribution from FETguy and Renew Computers! I found this board to be interesting mainly because I always wondered how these things worked. The construction reveals a trick which ended up as a surprise, at least to me! A couple of administrative notes – I am counting \[…\]</source:markdown>
+      <guid>cid://https://www.bunniestudios.com/blog/?p=7629</guid>
+      <category>name that ware</category>
+      <pubDate>Mon, 26 Oct 2026 08:02:21 +0000</pubDate>
+    </item>    <item>
+      <title>Winner, Name that Ware September 2026</title>
+      <link>https://www.bunniestudios.com/blog/2026/winner-name-that-ware-september-2026/</link>
+      <description>
+        <![CDATA[The Ware for September 2026 is a tire pressure monitor from a late 80&#8217;s to early 90&#8217;s model Porsche, made by Bosch. According to the submitter: Kind of a crazy piece of hardware for the late 80&#8217;s &#8211; this would be pretty cutting edge for the time. Nobody quite got what the part was &#8211; [&#8230;]]]>
+      </description>
+      <source:markdown>The Ware for September 2026 is a tire pressure monitor from a late 80’s to early 90’s model Porsche, made by Bosch. According to the submitter: Kind of a crazy piece of hardware for the late 80’s – this would be pretty cutting edge for the time. Nobody quite got what the part was – \[…\]</source:markdown>
+      <guid>cid://https://www.bunniestudios.com/blog/?p=7627</guid>
+      <category>name that ware</category>
+      <pubDate>Mon, 26 Oct 2026 08:01:27 +0000</pubDate>
+    </item>    <item>
+      <title>Meet me at PIDFest in Leiden this week</title>
+      <link>https://blog.front-matter.de/posts/meet-me-at-pidfest-in-leiden-this-week/</link>
+      <description>
+        <![CDATA[This week I will be traveling to Leiden in the Netherlands (26.-29. October) to attend PIDFest 2026. I will present a poster on Commonmeta, the metadata standard for scholarly metadata that I have developed over the last three years.]]>
+      </description>
+      <source:markdown>This week I will be traveling to Leiden in the Netherlands (26.-29. October) to attend PIDFest 2026. I will present a poster on Commonmeta, the metadata standard for scholarly metadata that I have developed over the last three years.</source:markdown>
+      <guid>cid://https://doi.org/10.53731/k0rjt-qgs07</guid>
+      <category>Commonmeta</category>
+      <category>Metadata</category>
+      <pubDate>Mon, 26 Oct 2026 08:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Finding a better keyboard setup</title>
+      <link>https://a.wholelottanothing.org/finding-a-better-keyboard-setup/</link>
+      <description>
+        <![CDATA[<p>From the 1990s into the early 2010s, I always used ergonomic keyboards hooked to a PC or Mac (Microsoft Natural Keyboards were a favorite). But once I started spending most of my time using a MacBook, I got used to using the flat, basic keyboards attached to Macs and when</p>]]>
+      </description>
+      <source:markdown>From the 1990s into the early 2010s, I always used ergonomic keyboards hooked to a PC or Mac (Microsoft Natural Keyboards were a favorite). But once I started spending most of my time using a MacBook, I got used to using the flat, basic keyboards attached to Macs and when</source:markdown>
+      <guid>cid://6aded4a56e513e00019bada3</guid>
+      <category>apple</category>
+      <category>technology</category>
+      <pubDate>Mon, 26 Oct 2026 06:15:01 +0000</pubDate>
+    </item>    <item>
+      <title>October 25, 2026</title>
+      <link>https://heathercoxrichardson.substack.com/p/october-25-2026</link>
+      <description>
+        <![CDATA[And so, here we are in the last days of the 2026 midterm campaign.]]>
+      </description>
+      <source:markdown>And so, here we are in the last days of the 2026 midterm campaign.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!yKDv!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b47f775-3df7-41dd-8bc9-a64cdd72d948_600x600.png" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/october-25-2026</guid>
+      <pubDate>Mon, 26 Oct 2026 04:51:44 +0000</pubDate>
+    </item>    <item>
+      <title>TASCAM recovery part 2</title>
+      <link>https://inkdroid.org/2026/10/26/tascam2/</link>
+      <description>
+        <![CDATA[<p>
+        <em>TL;DR Yes, user forums and the Internet Archive are extremely
+        important for digital preservation work. LLMs also seem quite good for
+        synthesizing information that is found in them, connecting the dots
+        between aspects of the problem you are facing, and connecting you to
+        other people engaged in similar work.</em>
+        </p>
+        <hr />
+        <p>
+        <a href="https://inkdroid.org/2026/06/12/tascam/">Back in June</a> I
+        wrote about how my brother John had died, and how among the things he
+        left behind were over 100 CD backups of music he had created in the
+        early 2000s. Each CD was clearly labeled with a song title, and
+        contained a multi-track backup of a single song, which (I was to learn)
+        was made with a TASCAM 788. He had told me he had these backups years
+        ago, but I’d never seen them until we were emptying out some of the
+        storage space in his apartment building.
+        </p>
+        <p>
+        John preformed live in different small venues in Pittsburgh in the
+        1990s, and then in the Doylestown, PA area in the early 2000s. He left
+        behind several guitars, and other musical equipment. But despite my
+        encouragement on many occasions he never really released any of his
+        music in any form, except for one song on Bandcamp, that he had recorded
+        much later in 2022. John’s music was really important to me, even more
+        now that he is gone, so I wanted to see if I could retrieve these songs,
+        and perhaps put together a collection for family members, and other
+        people who were interested in hearing his music, and remembering his
+        creative spirit.
+        </p>
+        <p>
+        Unfortunately the CDs use a proprietary format, that can only be read
+        using the TASCAM 788’s optional CD burner. As I noted in the previous
+        post I did figure out a way to rip the raw data from the CDs and reverse
+        engineer a program to read the tracks, as well as the final mix. It is
+        far from perfect because the gaps between tracks are not consistent.
+        Sometimes the program would extract part of a song as a track. It also
+        wasn’t clear what the final mix was. Still, it is possible to pull the
+        concatenated tracks off as a single WAV file, which was amazing to hear.
+        But I was hopeful I could get the tracks as they existed in the backups.
+        </p>
+        <p>
+        John left his TASCAM 788 in the storage unit too, along with an
+        (optional) external CD burner for creating the backups. My brother
+        Matthew actually thankfully kept it. However the devices looked quite
+        different in style, and I think I mistakenly thought the CD recorder was
+        part of some old computer equipment, and donated to a local record
+        store, along with part of his CD collection. Once I realized the CD
+        recorder’s significance for recovering John’s music it was too late to
+        get it back. So I bought one on Ebay for a little less that $200.
+        </p>
+        <p>
+        Once I got the CD burner hooked up to the TASCAM 788 I discovered that I
+        could read the CDs and see the tracks, and listen to them, but not
+        export them. While it’s possible to export each track by hand by
+        connecting the audio output directly to a soundcard with digital input,
+        there are over 100 CDs, so I was hoping I could easily extract the track
+        and the final mix as a WAV file. My goal is to be able to view these in
+        another <a
+        href="https://en.wikipedia.org/wiki/Digital_audio_workstation">DAW</a>
+        on my laptop instead of learning how to use the 788 itself.
+        </p>
+        <p>
+        In conversation with Claude I learned that I could <a
+        href="https://midimagic.sgc-hosting.com/tas788.htm">upgrade the
+        firmware</a> from v1.10 to v2.02 to get a new Export to WAV function on
+        the 788, and that would let me easily burn the tracks to a CD, which I
+        could then read on my laptop. Claude also pointed me at a <a
+        href="https://www.tascamforums.com/threads/tascam-788-firmware-iso-files.8194/">TASCAM
+        forum</a> where the upgrade was being discussed. Unfortunately the
+        <em>other</em> TASCAM site where the upgrade was located was now gone,
+        and while <a
+        href="https://web.archive.org/web/20241104012919/https://tascam-ca.com/product/788/downloads/">the
+        page</a> was in Wayback Machine, the actual ZIP file it linked to was
+        not. While I could’ve pieced some of this information together given
+        enough time it was actually very useful to learn about it in the context
+        of my questions and conversation.
+        </p>
+        <p>
+        One of the helpful people on the forum seemed to be responding over the
+        years to requests for the firmware update file. So I responded on the
+        forum asking if anyone still had it available. I ended up hearing back
+        about a month later, and was able to flash the 788, and like magic, it
+        now has a new Export to WAV function. Since <a
+        href="https://en.wikipedia.org/wiki/LOCKSS">lots of copies keeps stuff
+        safe</a> I placed a copy of the <a
+        href="https://archive.org/details/tascam-788-v2-02">788 V2.02 Firmware
+        Update</a> up at the Internet Archive.
+        </p>
+        <p>
+        But, alas when I went to use the Export function it assembled the WAV
+        file on the TASCAM but then gave a PANIC message when actually trying to
+        write to the CD. I tried a few times hoping it was a temporary glitch,
+        but it failed with the same result at the same time. Again according to
+        Claude apparently CD-RW devices can retain the ability to read, but no
+        longer be able to write due to a weakening <a
+        href="https://www.explainthatstuff.com/semiconductorlaserdiodes.html">laser
+        diode</a>. The CD-RW I found on Ebay did seem kind beat up honestly. So
+        I rolled the dice and dropped another $175 on Ebay in the hopes that
+        this one would work better. I’m still waiting for it to arrive.
+        </p>
+        <p>
+        I guess if this new one doesn’t work as well I will fall back to using
+        the reverse-engineered Python script to extract WAV from the raw CD rip
+        and work with that instead. It has been therapeutic spending time with
+        these backups, especially because it was clear that John created them
+        knowing they would be accessed some day. It also is heartbreaking,
+        thinking that he’s no longer around to talk to about them.
+        </p>]]>
+      </description>
+      <source:markdown>_TL;DR Yes, user forums and the Internet Archive are extremely_
+_important for digital preservation work. LLMs also seem quite good for_
+_synthesizing information that is found in them, connecting the dots_
+_between aspects of the problem you are facing, and connecting you to_
+_other people engaged in similar work._
+
+* * *
+
+[Back in June](https://inkdroid.org/2026/06/12/tascam/) I
+wrote about how my brother John had died, and how among the things he
+left behind were over 100 CD backups of music he had created in the
+early 2000s. Each CD was clearly labeled with a song title, and
+contained a multi-track backup of a single song, which (I was to learn)
+was made with a TASCAM 788. He had told me he had these backups years
+ago, but I’d never seen them until we were emptying out some of the
+storage space in his apartment building.
+
+John preformed live in different small venues in Pittsburgh in the
+1990s, and then in the Doylestown, PA area in the early 2000s. He left
+behind several guitars, and other musical equipment. But despite my
+encouragement on many occasions he never really released any of his
+music in any form, except for one song on Bandcamp, that he had recorded
+much later in 2022. John’s music was really important to me, even more
+now that he is gone, so I wanted to see if I could retrieve these songs,
+and perhaps put together a collection for family members, and other
+people who were interested in hearing his music, and remembering his
+creative spirit.
+
+Unfortunately the CDs use a proprietary format, that can only be read
+using the TASCAM 788’s optional CD burner. As I noted in the previous
+post I did figure out a way to rip the raw data from the CDs and reverse
+engineer a program to read the tracks, as well as the final mix. It is
+far from perfect because the gaps between tracks are not consistent.
+Sometimes the program would extract part of a song as a track. It also
+wasn’t clear what the final mix was. Still, it is possible to pull the
+concatenated tracks off as a single WAV file, which was amazing to hear.
+But I was hopeful I could get the tracks as they existed in the backups.
+
+John left his TASCAM 788 in the storage unit too, along with an
+(optional) external CD burner for creating the backups. My brother
+Matthew actually thankfully kept it. However the devices looked quite
+different in style, and I think I mistakenly thought the CD recorder was
+part of some old computer equipment, and donated to a local record
+store, along with part of his CD collection. Once I realized the CD
+recorder’s significance for recovering John’s music it was too late to
+get it back. So I bought one on Ebay for a little less that $200.
+
+Once I got the CD burner hooked up to the TASCAM 788 I discovered that I
+could read the CDs and see the tracks, and listen to them, but not
+export them. While it’s possible to export each track by hand by
+connecting the audio output directly to a soundcard with digital input,
+there are over 100 CDs, so I was hoping I could easily extract the track
+and the final mix as a WAV file. My goal is to be able to view these in
+another [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation)
+on my laptop instead of learning how to use the 788 itself.
+
+In conversation with Claude I learned that I could [upgrade the\
+firmware](https://midimagic.sgc-hosting.com/tas788.htm) from v1.10 to v2.02 to get a new Export to WAV function on
+the 788, and that would let me easily burn the tracks to a CD, which I
+could then read on my laptop. Claude also pointed me at a [TASCAM\
+forum](https://www.tascamforums.com/threads/tascam-788-firmware-iso-files.8194/) where the upgrade was being discussed. Unfortunately the
+_other_ TASCAM site where the upgrade was located was now gone,
+and while [the\
+page](https://web.archive.org/web/20241104012919/https://tascam-ca.com/product/788/downloads/) was in Wayback Machine, the actual ZIP file it linked to was
+not. While I could’ve pieced some of this information together given
+enough time it was actually very useful to learn about it in the context
+of my questions and conversation.
+
+One of the helpful people on the forum seemed to be responding over the
+years to requests for the firmware update file. So I responded on the
+forum asking if anyone still had it available. I ended up hearing back
+about a month later, and was able to flash the 788, and like magic, it
+now has a new Export to WAV function. Since [lots of copies keeps stuff\
+safe](https://en.wikipedia.org/wiki/LOCKSS) I placed a copy of the [788 V2.02 Firmware\
+Update](https://archive.org/details/tascam-788-v2-02) up at the Internet Archive.
+
+But, alas when I went to use the Export function it assembled the WAV
+file on the TASCAM but then gave a PANIC message when actually trying to
+write to the CD. I tried a few times hoping it was a temporary glitch,
+but it failed with the same result at the same time. Again according to
+Claude apparently CD-RW devices can retain the ability to read, but no
+longer be able to write due to a weakening [laser\
+diode](https://www.explainthatstuff.com/semiconductorlaserdiodes.html). The CD-RW I found on Ebay did seem kind beat up honestly. So
+I rolled the dice and dropped another $175 on Ebay in the hopes that
+this one would work better. I’m still waiting for it to arrive.
+
+I guess if this new one doesn’t work as well I will fall back to using
+the reverse-engineered Python script to extract WAV from the raw CD rip
+and work with that instead. It has been therapeutic spending time with
+these backups, especially because it was clear that John created them
+knowing they would be accessed some day. It also is heartbreaking,
+thinking that he’s no longer around to talk to about them.</source:markdown>
+      <guid>cid://https://inkdroid.org/2026/10/26/tascam2/</guid>
+      <category>preservation</category>
+      <category>music</category>
+      <category>llm</category>
+      <category>john</category>
+      <pubDate>Mon, 26 Oct 2026 04:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Harvest Moonday</title>
+      <link>https://doc.searls.com/2026/10/25/harvest-moonday/</link>
+      <description>
+        <![CDATA[Among many One more way the US defeats itself. A briefing Inside Anthropic.]]>
+      </description>
+      <source:markdown>Among many One more way the US defeats itself. A briefing Inside Anthropic.</source:markdown>
+      <guid>cid://https://doc.searls.com/2026/10/25/harvest-moonday/</guid>
+      <category>AI</category>
+      <category>Politics</category>
+      <pubDate>Mon, 26 Oct 2026 02:32:52 +0000</pubDate>
+    </item>    <item>
+      <title>Monday 26 October, 2026</title>
+      <link>https://memex.naughtons.org/monday-26-october-2026/42872/</link>
+      <description>
+        <![CDATA[Contrails If you were a conspiracy theorist, you’d be wondering where all these planes were going to meet up. Sadly, I think the answer was Stansted Airport :-( Quote of the Day ”Any sufficiently advanced punditry is indistinguishable from bollocks”. &#8230; <a href="https://memex.naughtons.org/monday-26-october-2026/42872/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>Contrails If you were a conspiracy theorist, you’d be wondering where all these planes were going to meet up. Sadly, I think the answer was Stansted Airport :-( Quote of the Day ”Any sufficiently advanced punditry is indistinguishable from bollocks”. … [Continue reading →](https://memex.naughtons.org/monday-26-october-2026/42872/)</source:markdown>
+      <guid>cid://https://memex.naughtons.org/?p=42872</guid>
+      <category>Online version</category>
+      <pubDate>Mon, 26 Oct 2026 00:54:50 +0000</pubDate>
+    </item>    <item>
+      <title>Wed, Oct 28th, 7pm ET - Our Weekly Paid Subscriber Get Together</title>
+      <link>https://www.hopiumchronicles.com/p/wed-oct-28th-7pm-et-our-weekly-paid</link>
+      <description>
+        <![CDATA[Greater MAGA suffers significant losses in Brazil and Serbia today - big day folks!!!!!!!!!!!!!!]]>
+      </description>
+      <source:markdown>Greater MAGA suffers significant losses in Brazil and Serbia today - big day folks!!!!!!!!!!!!!!</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!tDR7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F614d8f23-ef62-4c02-bca5-16af747b5310_630x573.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/wed-oct-28th-7pm-et-our-weekly-paid</guid>
+      <pubDate>Mon, 26 Oct 2026 00:45:39 +0000</pubDate>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/117504376601613849</link>
+      <description>
+        <![CDATA[<p>Lula won!</p><p>We dodged a bullet!</p>]]>
+      </description>
+      <source:markdown>Lula won!
+
+We dodged a bullet!</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/117504376601613849</guid>
+      <pubDate>Mon, 26 Oct 2026 00:28:16 +0000</pubDate>
+    </item>    <item>
+      <title>Marginalia Search, Money, C++, Rust, AI, stuff</title>
+      <link>https://www.marginalia.nu/log/a_141_marginalia_update/</link>
+      <description>
+        <![CDATA[<p>Title possibly signs checks the article doesn&rsquo;t have backing for. This is just a brief pro forma project update.</p>
+        <p>Not much new functionality or anything to announce, last few months have mostly been bug fixes and technical debt cleanup. Most big parts of the search engine are in place, and while there are many things that could be better, we&rsquo;re less likely to straight up see massive new features, at least in the immediate future. Per familiar intuition from binary searches, the closer you get to your goal the smaller and more deliberate steps you need to take in order to get even closer.</p>]]>
+      </description>
+      <source:markdown>Title possibly signs checks the article doesn’t have backing for. This is just a brief pro forma project update.
+
+Not much new functionality or anything to announce, last few months have mostly been bug fixes and technical debt cleanup. Most big parts of the search engine are in place, and while there are many things that could be better, we’re less likely to straight up see massive new features, at least in the immediate future. Per familiar intuition from binary searches, the closer you get to your goal the smaller and more deliberate steps you need to take in order to get even closer.</source:markdown>
+      <guid>cid://https://www.marginalia.nu/log/a_141_marginalia_update/</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Episode 193 - Digital Dating... SCAM?</title>
+      <link>https://adventofcomputing.libsyn.com/episode-193-digital-dating-scam</link>
+      <description>
+        <![CDATA[<p>Computers can do anything! They can open new fields of study, connect the world, and solve impossible problems. But can they find you love? The answer may be yes. That is, if you can escape all the scams, hoaxes, and odd happenings in the world of early comptuer dating!</p> <p>Like Advent of Computing? Then check out the after show! Adjunct of Computing is now LIVE: <a href= "https://www.youtube.com/playlist?list=PLbDuNUQ4K7mxrRIEyg4zeD3ALP-6e6QRC" target="_blank" rel= "noopener noreferrer nofollow">YouTube</a> <a href= "https://open.spotify.com/show/72NQNuVcDq2AvNqcAd7A31" target= "_blank" rel= "noopener noreferrer nofollow">Spotify</a> <a href= "https://podcasts.apple.com/us/podcast/adjunct-of-computing/id1885420630" target="_blank" rel="noopener noreferrer nofollow"><u>Apple Podcasts</u></a></p> <p data-pm-slice="1 1 []">Join the conversation on the OFFICIAL discord server: <a href="https://discord.com/invite/GpFNu3DTU2" target="_blank" rel="noopener noreferrer nofollow" data-link-auto= "">https://discord.com/invite/GpFNu3DTU2</a></p>]]>
+      </description>
+      <source:markdown>Computers can do anything! They can open new fields of study, connect the world, and solve impossible problems. But can they find you love? The answer may be yes. That is, if you can escape all the scams, hoaxes, and odd happenings in the world of early comptuer dating!
+
+Like Advent of Computing? Then check out the after show! Adjunct of Computing is now LIVE: [YouTube](https://www.youtube.com/playlist?list=PLbDuNUQ4K7mxrRIEyg4zeD3ALP-6e6QRC) [Spotify](https://open.spotify.com/show/72NQNuVcDq2AvNqcAd7A31) [Apple Podcasts](https://podcasts.apple.com/us/podcast/adjunct-of-computing/id1885420630)
+
+Join the conversation on the OFFICIAL discord server: [https://discord.com/invite/GpFNu3DTU2](https://discord.com/invite/GpFNu3DTU2)</source:markdown>
+      <enclosure url="https://traffic.libsyn.com/secure/adventofcomputing/ep193-dating.mp3?dest-id=1206722" length="24771418" type="audio/mpeg" />
+      <guid>cid://0b0f9026-2e0f-407f-8721-6bb8b536853c</guid>
+      <pubDate>Sun, 25 Oct 2026 23:37:00 +0000</pubDate>
+    </item>    <item>
+      <title>On Annapolis: Part Two</title>
+      <link>https://dbarkhuff.substack.com/p/on-annapolis-part-two</link>
+      <description>
+        <![CDATA[After forty-eight hours of Old Bay seasoning, Yuengling, and old faces I remember as young on the shores of the Severn, accompanied by a few hundred other members of the Naval Academy Class of 2001, I&#8217;m back in Vermont.]]>
+      </description>
+      <source:markdown>After forty-eight hours of Old Bay seasoning, Yuengling, and old faces I remember as young on the shores of the Severn, accompanied by a few hundred other members of the Naval Academy Class of 2001, I’m back in Vermont.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!k2hF!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35871aac-b3db-473d-a3c2-30065fb86d4d_1146x1146.png" length="0" type="image/jpeg" />
+      <guid>cid://https://dbarkhuff.substack.com/p/on-annapolis-part-two</guid>
+      <pubDate>Sun, 25 Oct 2026 22:03:44 +0000</pubDate>
+    </item>    <item>
+      <title>Early Polls Show Something Big is Happening</title>
+      <link>https://plus.briantylercohen.com/p/early-polls-show-something-big-is</link>
+      <description>
+        <![CDATA[Data journalist Elliott Morris breaks down the early vote and explains how to tell real polling from noise]]>
+      </description>
+      <source:markdown>Data journalist Elliott Morris breaks down the early vote and explains how to tell real polling from noise</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/8b2bc42d-51b9-46fb-a291-aeddc4a9c02a_1280x850.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://plus.briantylercohen.com/p/early-polls-show-something-big-is</guid>
+      <pubDate>Sun, 25 Oct 2026 21:59:19 +0000</pubDate>
+    </item>    <item>
+      <title>Sunday caption contest: fishing for the worst</title>
+      <link>https://robertreich.substack.com/p/sunday-caption-contest-fishing-for</link>
+      <description>
+        <![CDATA[And last week&#8217;s winner]]>
+      </description>
+      <source:markdown>And last week’s winner</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!eqA9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03349194-4c42-4fcb-b28c-6561450b595d_3087x2505.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-caption-contest-fishing-for</guid>
+      <pubDate>Sun, 25 Oct 2026 21:01:28 +0000</pubDate>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3mypzaycy5k2v</link>
+      <description>
+        <![CDATA[It's time for a change. 
+        
+        Vote for leaders like @abdulelsayed.bsky.social and @jocelynbenson.bsky.social who will work every day to make this country better.]]>
+      </description>
+      <source:markdown>It&#39;s time for a change.
+
+Vote for leaders like @abdulelsayed.bsky.social and @jocelynbenson.bsky.social who will work every day to make this country better.</source:markdown>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3mypzaycy5k2v</guid>
+      <pubDate>Sun, 25 Oct 2026 20:10:00 +0000</pubDate>
+    </item>    <item>
+      <link>https://hcommons.social/@pleiades_gazetteer/117503305170658103</link>
+      <description>
+        <![CDATA[<p>Export Updates 2026-10-25:<br />Pleiades gazetteer of ancient places</p><p>29 updated places. 4 new and 130 updated linked data sidebars. Inbound PATHS Atlas links are stale because the download file was not available at runtime.</p><p>1. Downloads: <a href="https://pleiades.stoa.org/downloads" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">pleiades.stoa.org/downloads</span><span class="invisible"></span></a></p><p>2. pleiades.datasets: <a href="https://github.com/isawnyu/pleiades.datasets" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/isawnyu/pleiades.da</span><span class="invisible">tasets</span></a>:</p><p>&quot;main&quot; branch:</p><p>9f2c6e4f - updated json<br />88ea3619 - updated rdf/ttl<br />a96d0174 - updated gis package<br />46a9b3aa - updated data quality<br />9e88165e - updated bibliography<br />749843c8 - updated indexes<br />8aab761b - updated sidebar</p><p>3. pleiades-geojson: <a href="https://github.com/ryanfb/pleiades-geojson" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/ryanfb/pleiades-geo</span><span class="invisible">json</span></a>:</p><p>03e2a485 - updated geojson and names index</p><p>4. pleiades_wikidata: <a href="https://github.com/isawnyu/pleiades_wikidata/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/isawnyu/pleiades_wi</span><span class="invisible">kidata/</span></a>:</p><p>dfee0f25 - updated pleiades wikidata</p>]]>
+      </description>
+      <source:markdown>Export Updates 2026-10-25:
+
+Pleiades gazetteer of ancient places
+
+29 updated places. 4 new and 130 updated linked data sidebars. Inbound PATHS Atlas links are stale because the download file was not available at runtime.
+
+1\. Downloads: [https://pleiades.stoa.org/downloads](https://pleiades.stoa.org/downloads)
+
+2\. pleiades.datasets: [https://github.com/isawnyu/pleiades.datasets](https://github.com/isawnyu/pleiades.datasets):
+
+&#34;main&#34; branch:
+
+9f2c6e4f - updated json
+
+88ea3619 - updated rdf/ttl
+
+a96d0174 - updated gis package
+
+46a9b3aa - updated data quality
+
+9e88165e - updated bibliography
+
+749843c8 - updated indexes
+
+8aab761b - updated sidebar
+
+3\. pleiades-geojson: [https://github.com/ryanfb/pleiades-geojson](https://github.com/ryanfb/pleiades-geojson):
+
+03e2a485 - updated geojson and names index
+
+4\. pleiades\_wikidata: [https://github.com/isawnyu/pleiades\_wikidata/](https://github.com/isawnyu/pleiades_wikidata/):
+
+dfee0f25 - updated pleiades wikidata</source:markdown>
+      <guid>cid://https://hcommons.social/@pleiades_gazetteer/117503305170658103</guid>
+      <pubDate>Sun, 25 Oct 2026 19:55:47 +0000</pubDate>
+    </item>    <item>
+      <title>Some Additional Notes On The Early Vote</title>
+      <link>https://www.hopiumchronicles.com/p/some-additional-notes-on-the-early</link>
+      <description>
+        <![CDATA[The big news so far is the incredible turnout surge we are seeing with Hispanic/Latino voters]]>
+      </description>
+      <source:markdown>The big news so far is the incredible turnout surge we are seeing with Hispanic/Latino voters</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/7bd9df85-2743-4865-9a56-f0d88cb0b35c_507x538.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/some-additional-notes-on-the-early</guid>
+      <pubDate>Sun, 25 Oct 2026 19:30:41 +0000</pubDate>
+    </item>    <item>
+      <title>Cartografías sensoriales 2026: programa “Hacia nuevas zoologías”</title>
+      <link>https://www.palomitademaiz.net/cartografias-sensoriales-2026-programa-hacia-nuevas-zoologias/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=cartografias-sensoriales-2026-programa-hacia-nuevas-zoologias</link>
+      <description>
+        <![CDATA[<p>Cartografías sensoriales es una muestra de cine latinoamericano vanguardista y experimental que se realiza en Yopal, capital del departamento de Casanare en Colombia. Su cuarta edición, que tiene lugar del 20 al 25 de octubre, tiene como eje la noción de lo animal, entendida como una presencia que transita entre lo cotidiano y lo raro, [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/cartografias-sensoriales-2026-programa-hacia-nuevas-zoologias/">Cartografías sensoriales 2026: programa “Hacia nuevas zoologías”</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Cartografías sensoriales es una muestra de cine latinoamericano vanguardista y experimental que se realiza en Yopal, capital del departamento de Casanare en Colombia. Su cuarta edición, que tiene lugar del 20 al 25 de octubre, tiene como eje la noción de lo animal, entendida como una presencia que transita entre lo cotidiano y lo raro, \[…\]
+
+La entrada [Cartografías sensoriales 2026: programa “Hacia nuevas zoologías”](https://www.palomitademaiz.net/cartografias-sensoriales-2026-programa-hacia-nuevas-zoologias/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=27138</guid>
+      <category>Cine</category>
+      <category>Especiales</category>
+      <category>Festivales</category>
+      <category>Cartografías sensoriales 2026</category>
+      <category>El tercer mundo después del sol</category>
+      <category>Hacia nuevas zoologías</category>
+      <category>Jirapo</category>
+      <category>La vaca</category>
+      <category>Marsh Birds of the Upper Nile</category>
+      <category>Unas bolitas de mercurio</category>
+      <pubDate>Sun, 25 Oct 2026 19:00:53 +0000</pubDate>
+    </item>    <item>
+      <title>Why My Dad Didn’t Have a Cell Phone</title>
+      <link>https://blog.jim-nielsen.com/2026/why-dad-didnt-have-cellphone/</link>
+      <description>
+        <![CDATA[<p><a href="https://daverupert.com/2026/10/bad-at-email/" >Here’s Dave Rupert</a> writing about all those emails, texts, phone calls, etc. we’re getting these days:</p>
+        <blockquote>
+        <p>Once upon a time it had utility, now it’s all noise and grifter slop demanding our attention and giving us to-dos</p>
+        </blockquote>
+        <p>That last part really hit: “giving us to-dos”.</p>
+        <p>I feel this. So many of the messenger apps on my phone are other people laying claim to my time and attention.</p>
+        <p>It reminds me of an interaction I had with my Dad years ago.</p>
+        <p>This was back when cell phones were starting to become ubiquitous.</p>
+        <p>Not <em>smartphones</em>, mind you. Cell phones, i.e. telephones that were mobile. Texting wasn’t really a thing yet. These were devices for making voice calls wherever you went.</p>
+        <p>As a teen, it seemed like <em>everyone</em> had one: my teachers, my friends, even my friends’ parents.</p>
+        <p>But not my parents.</p>
+        <p>They were “behind the times”. (Everyone was getting cell phones and we didn’t even have caller ID on our landline!)</p>
+        <p>One night at family dinner I asked, “Dad, why don’t you have a cell phone?”</p>
+        <p>His response?</p>
+        <p>“Why would I want to allow other people to contact me whenever <em>they</em> want?”</p>
+        <p>I still think about that.</p>
+        
+            <hr />
+            
+        
+            <p>
+              Reply via:
+              
+        
+              <a
+                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/why-dad-didnt-have-cellphone/"
+                >Email</a
+              >
+              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
+        
+              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
+            </p>]]>
+      </description>
+      <source:markdown>[Here’s Dave Rupert](https://daverupert.com/2026/10/bad-at-email/) writing about all those emails, texts, phone calls, etc. we’re getting these days:
+
+&#62; Once upon a time it had utility, now it’s all noise and grifter slop demanding our attention and giving us to-dos
+
+That last part really hit: “giving us to-dos”.
+
+I feel this. So many of the messenger apps on my phone are other people laying claim to my time and attention.
+
+It reminds me of an interaction I had with my Dad years ago.
+
+This was back when cell phones were starting to become ubiquitous.
+
+Not _smartphones_, mind you. Cell phones, i.e. telephones that were mobile. Texting wasn’t really a thing yet. These were devices for making voice calls wherever you went.
+
+As a teen, it seemed like _everyone_ had one: my teachers, my friends, even my friends’ parents.
+
+But not my parents.
+
+They were “behind the times”. (Everyone was getting cell phones and we didn’t even have caller ID on our landline!)
+
+One night at family dinner I asked, “Dad, why don’t you have a cell phone?”
+
+His response?
+
+“Why would I want to allow other people to contact me whenever _they_ want?”
+
+I still think about that.
+
+* * *
+
+Reply via:
+
+
+[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/why-dad-didnt-have-cellphone/)
+· [Mastodon](https://mastodon.social/@jimniels) ·
+
+[Bluesky](https://bsky.app/profile/jim-nielsen.com)</source:markdown>
+      <guid>cid://https://blog.jim-nielsen.com/2026/why-dad-didnt-have-cellphone/</guid>
+      <pubDate>Sun, 25 Oct 2026 19:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>A New Approach</title>
+      <link>https://heathercoxrichardson.substack.com/p/a-new-approach</link>
+      <description>
+        <![CDATA[To read this letter, click here:]]>
+      </description>
+      <source:markdown>To read this letter, click here:</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/222071791/77aab2ccc1ffc013531f451e009362f1.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/a-new-approach</guid>
+      <pubDate>Sun, 25 Oct 2026 18:47:22 +0000</pubDate>
+    </item>    <item>
+      <title>Dogs of New York, Shapes and Sizes Edition</title>
+      <link>https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/</link>
+      <description>
+        <![CDATA[<p>My recent <a href="https://kieranhealy.org/blog/archives/2026/10/14/dogs-of-new-york/">Dogs of New
+        York</a>, post
+        got circulated a little. On Friday I got a very nice note from <a href="https://www.gc.cuny.edu/people/william-kornblum">William
+        Kornblum</a>, an urban and
+        community studies sociologist who these days is emeritus at CUNY. In the 1980s,
+        Bill studied the people who use Central Park and wrote a report for the Central
+        Park Conservancy. Some of that work counted dog-walkers.</p>
+        <p>He reminded me that parks in New York City see a lot of dogs. <a href="https://www.centralparknyc.org/articles/dogscentralpark">NYC Parks
+        estimates</a> about 1.5
+        million canine visits to Central Park each year. That is about 4,100 visits a
+        day, to one park. He also asked:</p>
+        
+        
+        
+        <blockquote>
+            <p>Is there a size gradient perhaps? Larger dogs out on the periphery where there
+        is more room? Smaller dogs in the dense apartment neighborhoods?</p>
+        
+        </blockquote>
+        
+        <p>This is a good question. The data I have can <em>almost</em> answer it. The main
+        problem is that the license data contained in
+        <a href="https://kjhealy.github.io/nycdogs/"><code>nycdogs</code></a> does not record the size or
+        weight of any particular dog. Licenses do record the breed that the owner
+        reports (though, <a href="https://kieranhealy.org/blog/archives/2026/10/14/dogs-of-new-york/">as we saw
+        before</a> the
+        modal breed reported is &ldquo;Unknown&rdquo;). But let&rsquo;s see how far we can get by
+        leveraging our knowledge of breeds.</p>
+        <p>To begin we need to give each breed a size. For this I used the American Kennel
+        Club&rsquo;s breed weights. The AKC lists a weight range for each breed it recognizes,
+        from its breed standards. Tiago Filho <a href="https://github.com/tmfilho/akcdata">collected these into one
+        table</a> for 277 breeds in 2020. I had to make
+        a few adjustments to reconcile it with the breeds recorded in <code>nycdogs</code>, most
+        notably for two popular city breeds. First, the AKC lists one Dachshund range
+        that covers both sizes within this breed. Owners often record &ldquo;Miniature&rdquo; in the
+        breed name, so I gave those dogs the AKC miniature limit of 11 pounds. Second,
+        Pit Bulls are among the most common dogs in the city, but to my knowledge the
+        AKC does not register them. I used the United Kennel Club&rsquo;s <a href="https://www.ukcdogs.com/american-pit-bull-terrier">American Pit Bull
+        Terrier standard</a> instead.</p>
+        <p>I assigned each breed a &ldquo;typical weight&rdquo;, which is the middle of its range. Some
+        standards give only one figure, such as &ldquo;not more than 6 pounds&rdquo; for a
+        Chihuahua. In those cases I used that number. This isn&rsquo;t ideal. A breed
+        standard describes a show dog, not the dog you see in the park. (Though, of
+        course, in some NYC parks those might be the same. But  not in general.) Real
+        dogs will be heavier or lighter than their standard. Still, a Great Dane is
+        reliably bigger than a Yorkie, and it&rsquo;s the relative differences we&rsquo;re
+        interested in.</p>
+        <p>The second problem is that many dogs have no breed we can use. As in the earlier
+        post, we&rsquo;re working with a subset of the <code>nyc_license</code> table that&rsquo;s our
+        best-guess approximation of a &ldquo;dog-level&rdquo; data set, one that cuts down as much
+        as possible on double-counting and just has one record per actual dog. This
+        table consists of about 358,000 dogs. I can only assign a breed size to about 60
+        percent of those:</p>
+        <ul>
+        <li>About 22 percent are crossbreeds, such as &ldquo;Labrador Retriever Crossbreed&rdquo;. A
+        mix could be any size. I chose not to guess.</li>
+        <li>About 10 percent have no breed recorded, mostly &ldquo;Unknown&rdquo;.</li>
+        <li>About 6 percent are &ldquo;designer&rdquo; breeds, such as the up-and-coming
+        Goldendoodles, Maltipoos, and Morkies. No kennel club sets a standard for
+        these.</li>
+        <li>About 1.5 percent are Poodles with no size given. A Toy Poodle and a Standard
+        Poodle differ by about 50 pounds, so again, I chose to drop these.</li>
+        </ul>
+        <p>We end up, for this analysis, with about 215,000 dogs. Now, if the missing dogs
+        were spread evenly across the city, the missingness would not matter all that
+        much. We can try to check that. Here is a map showing the share of dogs in each
+        ZIP code that have a breed size.</p>
+        <figure class="full-width"><a href="https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-coverage-zip.png" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-coverage-zip.png"
+                 alt="Map of the share of licensed dogs in each ZIP code that have a breed size. Most ZIP codes are between about half and two-thirds."/></a>
+        </figure>
+        <p>Coverage runs from about half to about two-thirds of dogs in each ZIP code. It
+        is highest on the West Side of Manhattan and in parts of eastern Queens. It is
+        lowest in central Brooklyn. So, dogs are not
+        <a href="https://stefvanbuuren.name/fimd/sec-MCAR.html">MCAR</a> in the city. The maps and
+        analysis below is restricted to describing dogs with a known breed, and that
+        group is not quite the same in every part of the city.</p>
+        <h2 id="where-the-big-dogs-are">Where the big dogs are</h2>
+        <p>For each ZIP code with at least 50 dogs of known size, I calculated the median
+        typical weight. (As before, I use the city&rsquo;s MODZCTAs, which are ZIP code areas
+        with some small ones merged.)</p>
+        <figure class="full-width"><a href="https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-median-zip.png" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-median-zip.png"
+                 alt="Median typical breed weight of licensed dogs by ZIP code. The largest medians are in lower Manhattan, brownstone Brooklyn, Woodlawn and City Island in the Bronx, and the Rockaways. The smallest are in most of the Bronx, southeast Queens"/></a>
+        </figure>
+        <p>I didn&rsquo;t try to make the weight categories too fine-grained. Again, the weights
+        are derived from the breed standard, not individual dogs, and so the
+        distribution is quite lumpy. Each dog is counted as having the typical weight of
+        its breed. Very popular breeds therefore pile up on single values. Many ZIP
+        codes have a median of exactly 12.5 pounds, for example. (That&rsquo;s the Shih Tzu&rsquo;s
+        weight.)</p>
+        <p>Even so, we still see a clear pattern. The ZIP codes with the biggest dogs are
+        in lower Manhattan and brownstone Brooklyn. Park Slope is at the top, with a
+        median of 29 pounds. Woodlawn and City Island in the Bronx, and the Rockaways in
+        Queens, also have big dogs. The smallest dogs are in most of the Bronx,
+        southeast Queens, and East New York and Brownsville in Brooklyn. There, the
+        median dog weighs 12.5 pounds.</p>
+        <p>So Bill&rsquo;s idea is partly supported by the evidence. Some of the city&rsquo;s edges,
+        where people have more room on average, do have bigger dogs. But, on the other
+        hand, some of the densest apartment neighborhoods in the city have the biggest
+        dogs of all.</p>
+        <h2 id="size-classes">Size classes</h2>
+        <p>A median can hide a lot. I sorted the breeds into five size classes. I used the
+        weight bands that you see on bags of dog food: Toy (up to about 9 pounds), Small
+        (9 to 22), Medium (22 to 55), Large (55 to 99), and Giant (over 99). This is
+        kind of arbitrary, and not even arbitrary in the &ldquo;AKC Standard&rdquo; sense of
+        arbitrary. But I don&rsquo;t think it&rsquo;s unreasonable.</p>
+        <p>Across the city, here is how the dogs with a known size divide up:</p>
+        <ul>
+        <li>About a quarter are Toy dogs.</li>
+        <li>About a third are Small.</li>
+        <li>About a quarter are Medium.</li>
+        <li>14 percent are Large.</li>
+        <li>Fewer than 2 percent are Giant.</li>
+        </ul>
+        <p>Here is the share of each class within each ZIP code.</p>
+        <figure class="full-width"><a href="https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-classes-zip.png" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-classes-zip.png"
+                 alt="Share of dogs of each size class, by ZIP code."/></a>
+        </figure>
+        <p>Toy dogs are most common in the Bronx and in parts of Brooklyn and Queens.
+        Medium dogs cluster in somewhat fancier parts of Brooklyn and lower Manhattan.
+        Large dogs are most common on Staten Island, in the Rockaways, and (again) in
+        parts of Manhattan. Giant dogs are rare everywhere.</p>
+        <p>The same numbers aggregated up to the level of boroughs are a little easier to
+        compare:</p>
+        <figure class="full-width"><a href="https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-classes-borough.png" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-classes-borough.png"
+                 alt="Heatmap of the percent of dogs in each size class, by borough."/></a>
+        </figure>
+        <p>Small dogs are about a third of all licensed dogs in every borough. The
+        differences are at the ends. A third of the Bronx&rsquo;s dogs are Toy dogs, compared
+        with about a fifth of Manhattan&rsquo;s. Only 9 percent of the Bronx&rsquo;s dogs are Large,
+        compared with 16 percent in Manhattan and 17 percent on Staten Island. Staten
+        Island, the least densely-populated borough, has the largest share of big dogs,
+        but only by a percentage point more than Manhattan.</p>
+        <h2 id="mo-money-mo-doggo">Mo Money, Mo Doggo</h2>
+        <p>Manhattan and brownstone Brooklyn are dense, but they are also rich. The Bronx
+        is dense too, but much poorer. Happily, thanks to both <a href="https://www.nyc.gov/opendata">NYC OpenData</a> and the <a href="https://www.census.gov">Census Bureau</a>, we have relevant housing and income measures available that we can construct for each ZIP code.</p>
+        <ul>
+        <li><em>Floor area per home.</em> This comes from
+        <a href="https://www.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page">PLUTO</a>,
+        the city&rsquo;s database of every tax lot. I added up the residential floor area
+        and the number of homes on every lot in each ZIP code, and divided. This is
+        gross floor area, so it includes halls and stairs. It&rsquo;s a rough measure of
+        apartment size. You can use my <a href="https://kjhealy.github.io/nycpluto/"><code>nycpluto</code></a>
+        package to access these data in R.</li>
+        <li><em>Percent of homes in one- or two-family houses.</em> This is also from PLUTO,
+        using each lot&rsquo;s building class.</li>
+        <li><em>Median rooms per home,</em> <em>percent of homes that are owner-occupied,</em> and
+        <em>median household income.</em> These come from the Census Bureau&rsquo;s American
+        Community Survey, using the five-year estimates for 2020 to 2024. You can
+        query the Census API directly for these, or use my
+        <a href="https://kjhealy.github.io/nycdemog/"><code>nycdemog</code></a> package to get them.</li>
+        </ul>
+        <p>The Census reports these figures for ZCTAs, its version of ZIP code areas. Most
+        MODZCTAs contain only one ZCTA. Where a MODZCTA contains more than one, I added
+        up the counts. For the medians, I took an average of the ZCTA medians, weighted
+        by the number of households. The Census caps median income at $250,000. A few of
+        the richest ZIP codes in Manhattan hit that cap.</p>
+        <p>I fit a regression with this data where the outcome is the typical weight of the
+        dogs in each ZIP code. I use an average rather than the median here, because the
+        median is so lumpy. Specifically, I average the logged weights, which is the
+        same as taking the <a href="https://en.wikipedia.org/wiki/Geometric_mean">geometric
+        mean</a>. Breed weights are very
+        skewed. The middle dog weighs about 17 pounds, but a few breeds weigh well
+        over 100. And differences in weight are proportional. Five pounds is a big
+        difference between two toy dogs, but not between two retrievers. On the log
+        scale, effects become percent differences in weight. The predictors are the five
+        measures above, plus the borough. There are 177 ZIP codes in the model.</p>
+        <p>The five predictors use different units: dollars, square feet, rooms, and
+        percentages. This makes the coefficients hard to compare directly. What we can
+        do is ask &ldquo;If we take a ZIP code that is low on this measure (at the 25th
+        percentile of ZIP codes) and move it to a high value (the 75th percentile),
+        holding everything else constant, by what percent do its dogs get bigger or
+        smaller?&rdquo; For the boroughs, the figure shows the difference between each borough and
+        Manhattan.</p>
+        <figure class="full-width"><a href="https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-effects.png" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-effects.png"
+                 alt="Dot-and-whisker plot of the estimated percent effects on typical dog size. Income has a clear positive effect of about 17 percent. Floor area per home has a small negative effect. Staten Island&#39;s dogs are about 10 percent heavier than Manhattan&#39;s. The other effects are close to zero."/></a>
+        </figure>
+        <p>Income is the clearest result. A ZIP code with a median household income of
+        $116,000 has dogs that are about 17 percent heavier, on average, than one with a
+        median income of $67,000. The housing measures make much less difference once
+        we know income, and they do not point the way Bill expected. The share of homes
+        in one- or two-family houses and the share of owners have effects close to
+        zero. Median rooms has a small positive effect, maybe, with an interval that
+        includes zero. Floor area per home has a small but clearly negative effect.
+        Moving from about 910 to about 1,100 square feet per home goes with dogs about
+        3 percent <em>smaller</em>, at the same income. Together, the four housing measures
+        do improve the model a little, by more than we would expect by chance. But
+        mostly that is the floor area effect, and it runs the wrong way for the idea
+        that more room means bigger dogs.</p>
+        <p>Among the boroughs, Staten Island&rsquo;s dogs are about 10 percent heavier than
+        Manhattan&rsquo;s at the same levels of income and housing. That fits the idea of room
+        on the periphery, although the interval is wide, running from about 1 to 20
+        percent. The other boroughs do not differ much from Manhattan.</p>
+        <p>In terms of how much variation we can explain, income alone accounts for about
+        53 percent of the variation in typical dog size across ZIP codes. Adding the
+        borough raises that to 54 percent. Adding all four housing measures raises it
+        to 57 percent.</p>
+        <p>Here is the income effect on its own. This is a partial regression plot. For
+        both dog size and income, we remove the part that the borough and the housing
+        measures predict. What remains shows the relationship between income and dog
+        size among ZIP codes with similar housing in the same borough.</p>
+        <figure class="full-width"><a href="https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-income-net.png" data-fancybox>
+            <img src="https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-income-net.png"
+                 alt="Scatterplot of ZIP codes, colored by borough. The x-axis is median income relative to what borough and housing predict. The y-axis is typical dog size relative to the same prediction, as a percent difference. The points rise from left to right."/></a>
+        </figure>
+        <p>The relationship is pretty good. Each doubling of median household income goes
+        with dogs about 22 percent heavier. The points come from every borough. So there
+        is a size gradient, as Bill speculated, but it&rsquo;s not purely geography that&rsquo;s at
+        work here, it&rsquo;s money. Some of the biggest dogs in New York live in dense,
+        expensive neighborhoods such as Park Slope, SoHo, and the West Village. The
+        smallest dogs live in the Bronx, where incomes are much lower. Once we know a
+        ZIP code&rsquo;s income, its housing tells us only a little more about its dogs, and
+        not in the expected direction. If anything, more floor area per home goes with
+        slightly smaller dogs. Staten Island is the one place where extra room may add
+        to dog size, beyond what income predicts.</p>
+        <p>Again, as a paid-up social science rather than infographic guy, I feel like I
+        have to close with the caveats. Remember these are <em>breed</em> weights, not dog
+        weights. Four in ten dogs have no breed size. And, like we said before, these
+        are the licensed dogs only. Licensing rates probably vary with income too.
+        Finally, this is a comparison of ZIP codes, not of households. It tells us that
+        richer ZIP codes have bigger dogs on average. It does not tell us that richer
+        people choose bigger dogs, although that seems likely.</p>
+        <p>Why would money matter more than space? Big dogs cost more to feed and to treat
+        at the vet. They are harder to keep in buildings that limit pets by weight. And
+        their owners may need to pay someone to walk them while they are at work.
+        Perhaps those many daily dog visits to Central Park are part of the answer too.
+        If you live near a very large park, maybe it&rsquo;s easier to have a very nice
+        apartment that&rsquo;s comparatively small for your very large dog.</p>]]>
+      </description>
+      <source:markdown>My recent [Dogs of New\
+York](https://kieranhealy.org/blog/archives/2026/10/14/dogs-of-new-york/), post
+got circulated a little. On Friday I got a very nice note from [William\
+Kornblum](https://www.gc.cuny.edu/people/william-kornblum), an urban and
+community studies sociologist who these days is emeritus at CUNY. In the 1980s,
+Bill studied the people who use Central Park and wrote a report for the Central
+Park Conservancy. Some of that work counted dog-walkers.
+
+He reminded me that parks in New York City see a lot of dogs. [NYC Parks\
+estimates](https://www.centralparknyc.org/articles/dogscentralpark) about 1.5
+million canine visits to Central Park each year. That is about 4,100 visits a
+day, to one park. He also asked:
+
+&#62; Is there a size gradient perhaps? Larger dogs out on the periphery where there
+&#62; is more room? Smaller dogs in the dense apartment neighborhoods?
+
+This is a good question. The data I have can _almost_ answer it. The main
+problem is that the license data contained in
+[`nycdogs`](https://kjhealy.github.io/nycdogs/) does not record the size or
+weight of any particular dog. Licenses do record the breed that the owner
+reports (though, [as we saw\
+before](https://kieranhealy.org/blog/archives/2026/10/14/dogs-of-new-york/) the
+modal breed reported is “Unknown”). But let’s see how far we can get by
+leveraging our knowledge of breeds.
+
+To begin we need to give each breed a size. For this I used the American Kennel
+Club’s breed weights. The AKC lists a weight range for each breed it recognizes,
+from its breed standards. Tiago Filho [collected these into one\
+table](https://github.com/tmfilho/akcdata) for 277 breeds in 2020. I had to make
+a few adjustments to reconcile it with the breeds recorded in `nycdogs`, most
+notably for two popular city breeds. First, the AKC lists one Dachshund range
+that covers both sizes within this breed. Owners often record “Miniature” in the
+breed name, so I gave those dogs the AKC miniature limit of 11 pounds. Second,
+Pit Bulls are among the most common dogs in the city, but to my knowledge the
+AKC does not register them. I used the United Kennel Club’s [American Pit Bull\
+Terrier standard](https://www.ukcdogs.com/american-pit-bull-terrier) instead.
+
+I assigned each breed a “typical weight”, which is the middle of its range. Some
+standards give only one figure, such as “not more than 6 pounds” for a
+Chihuahua. In those cases I used that number. This isn’t ideal. A breed
+standard describes a show dog, not the dog you see in the park. (Though, of
+course, in some NYC parks those might be the same. But not in general.) Real
+dogs will be heavier or lighter than their standard. Still, a Great Dane is
+reliably bigger than a Yorkie, and it’s the relative differences we’re
+interested in.
+
+The second problem is that many dogs have no breed we can use. As in the earlier
+post, we’re working with a subset of the `nyc_license` table that’s our
+best-guess approximation of a “dog-level” data set, one that cuts down as much
+as possible on double-counting and just has one record per actual dog. This
+table consists of about 358,000 dogs. I can only assign a breed size to about 60
+percent of those:
+
+- About 22 percent are crossbreeds, such as “Labrador Retriever Crossbreed”. A
+  mix could be any size. I chose not to guess.
+- About 10 percent have no breed recorded, mostly “Unknown”.
+- About 6 percent are “designer” breeds, such as the up-and-coming
+  Goldendoodles, Maltipoos, and Morkies. No kennel club sets a standard for
+  these.
+- About 1.5 percent are Poodles with no size given. A Toy Poodle and a Standard
+  Poodle differ by about 50 pounds, so again, I chose to drop these.
+
+We end up, for this analysis, with about 215,000 dogs. Now, if the missing dogs
+were spread evenly across the city, the missingness would not matter all that
+much. We can try to check that. Here is a map showing the share of dogs in each
+ZIP code that have a breed size.
+
+[![Map of the share of licensed dogs in each ZIP code that have a breed size. Most ZIP codes are between about half and two-thirds.](https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-coverage-zip.png)](https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-coverage-zip.png)
+
+Coverage runs from about half to about two-thirds of dogs in each ZIP code. It
+is highest on the West Side of Manhattan and in parts of eastern Queens. It is
+lowest in central Brooklyn. So, dogs are not
+[MCAR](https://stefvanbuuren.name/fimd/sec-MCAR.html) in the city. The maps and
+analysis below is restricted to describing dogs with a known breed, and that
+group is not quite the same in every part of the city.
+
+## Where the big dogs are
+
+For each ZIP code with at least 50 dogs of known size, I calculated the median
+typical weight. (As before, I use the city’s MODZCTAs, which are ZIP code areas
+with some small ones merged.)
+
+[![Median typical breed weight of licensed dogs by ZIP code. The largest medians are in lower Manhattan, brownstone Brooklyn, Woodlawn and City Island in the Bronx, and the Rockaways. The smallest are in most of the Bronx, southeast Queens](https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-median-zip.png)](https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-median-zip.png)
+
+I didn’t try to make the weight categories too fine-grained. Again, the weights
+are derived from the breed standard, not individual dogs, and so the
+distribution is quite lumpy. Each dog is counted as having the typical weight of
+its breed. Very popular breeds therefore pile up on single values. Many ZIP
+codes have a median of exactly 12.5 pounds, for example. (That’s the Shih Tzu’s
+weight.)
+
+Even so, we still see a clear pattern. The ZIP codes with the biggest dogs are
+in lower Manhattan and brownstone Brooklyn. Park Slope is at the top, with a
+median of 29 pounds. Woodlawn and City Island in the Bronx, and the Rockaways in
+Queens, also have big dogs. The smallest dogs are in most of the Bronx,
+southeast Queens, and East New York and Brownsville in Brooklyn. There, the
+median dog weighs 12.5 pounds.
+
+So Bill’s idea is partly supported by the evidence. Some of the city’s edges,
+where people have more room on average, do have bigger dogs. But, on the other
+hand, some of the densest apartment neighborhoods in the city have the biggest
+dogs of all.
+
+## Size classes
+
+A median can hide a lot. I sorted the breeds into five size classes. I used the
+weight bands that you see on bags of dog food: Toy (up to about 9 pounds), Small
+(9 to 22), Medium (22 to 55), Large (55 to 99), and Giant (over 99). This is
+kind of arbitrary, and not even arbitrary in the “AKC Standard” sense of
+arbitrary. But I don’t think it’s unreasonable.
+
+Across the city, here is how the dogs with a known size divide up:
+
+- About a quarter are Toy dogs.
+- About a third are Small.
+- About a quarter are Medium.
+- 14 percent are Large.
+- Fewer than 2 percent are Giant.
+
+Here is the share of each class within each ZIP code.
+
+[![Share of dogs of each size class, by ZIP code.](https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-classes-zip.png)](https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-classes-zip.png)
+
+Toy dogs are most common in the Bronx and in parts of Brooklyn and Queens.
+Medium dogs cluster in somewhat fancier parts of Brooklyn and lower Manhattan.
+Large dogs are most common on Staten Island, in the Rockaways, and (again) in
+parts of Manhattan. Giant dogs are rare everywhere.
+
+The same numbers aggregated up to the level of boroughs are a little easier to
+compare:
+
+[![Heatmap of the percent of dogs in each size class, by borough.](https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-classes-borough.png)](https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-classes-borough.png)
+
+Small dogs are about a third of all licensed dogs in every borough. The
+differences are at the ends. A third of the Bronx’s dogs are Toy dogs, compared
+with about a fifth of Manhattan’s. Only 9 percent of the Bronx’s dogs are Large,
+compared with 16 percent in Manhattan and 17 percent on Staten Island. Staten
+Island, the least densely-populated borough, has the largest share of big dogs,
+but only by a percentage point more than Manhattan.
+
+## Mo Money, Mo Doggo
+
+Manhattan and brownstone Brooklyn are dense, but they are also rich. The Bronx
+is dense too, but much poorer. Happily, thanks to both [NYC OpenData](https://www.nyc.gov/opendata) and the [Census Bureau](https://www.census.gov), we have relevant housing and income measures available that we can construct for each ZIP code.
+
+- _Floor area per home._ This comes from
+  [PLUTO](https://www.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page),
+  the city’s database of every tax lot. I added up the residential floor area
+  and the number of homes on every lot in each ZIP code, and divided. This is
+  gross floor area, so it includes halls and stairs. It’s a rough measure of
+  apartment size. You can use my [`nycpluto`](https://kjhealy.github.io/nycpluto/)
+  package to access these data in R.
+- _Percent of homes in one- or two-family houses._ This is also from PLUTO,
+  using each lot’s building class.
+- _Median rooms per home,_ _percent of homes that are owner-occupied,_ and
+  _median household income._ These come from the Census Bureau’s American
+  Community Survey, using the five-year estimates for 2020 to 2024. You can
+  query the Census API directly for these, or use my
+  [`nycdemog`](https://kjhealy.github.io/nycdemog/) package to get them.
+
+The Census reports these figures for ZCTAs, its version of ZIP code areas. Most
+MODZCTAs contain only one ZCTA. Where a MODZCTA contains more than one, I added
+up the counts. For the medians, I took an average of the ZCTA medians, weighted
+by the number of households. The Census caps median income at $250,000. A few of
+the richest ZIP codes in Manhattan hit that cap.
+
+I fit a regression with this data where the outcome is the typical weight of the
+dogs in each ZIP code. I use an average rather than the median here, because the
+median is so lumpy. Specifically, I average the logged weights, which is the
+same as taking the [geometric\
+mean](https://en.wikipedia.org/wiki/Geometric_mean). Breed weights are very
+skewed. The middle dog weighs about 17 pounds, but a few breeds weigh well
+over 100. And differences in weight are proportional. Five pounds is a big
+difference between two toy dogs, but not between two retrievers. On the log
+scale, effects become percent differences in weight. The predictors are the five
+measures above, plus the borough. There are 177 ZIP codes in the model.
+
+The five predictors use different units: dollars, square feet, rooms, and
+percentages. This makes the coefficients hard to compare directly. What we can
+do is ask “If we take a ZIP code that is low on this measure (at the 25th
+percentile of ZIP codes) and move it to a high value (the 75th percentile),
+holding everything else constant, by what percent do its dogs get bigger or
+smaller?” For the boroughs, the figure shows the difference between each borough and
+Manhattan.
+
+[![Dot-and-whisker plot of the estimated percent effects on typical dog size. Income has a clear positive effect of about 17 percent. Floor area per home has a small negative effect. Staten Island&#39;s dogs are about 10 percent heavier than Manhattan&#39;s. The other effects are close to zero.](https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-effects.png)](https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-effects.png)
+
+Income is the clearest result. A ZIP code with a median household income of
+$116,000 has dogs that are about 17 percent heavier, on average, than one with a
+median income of $67,000. The housing measures make much less difference once
+we know income, and they do not point the way Bill expected. The share of homes
+in one- or two-family houses and the share of owners have effects close to
+zero. Median rooms has a small positive effect, maybe, with an interval that
+includes zero. Floor area per home has a small but clearly negative effect.
+Moving from about 910 to about 1,100 square feet per home goes with dogs about
+3 percent _smaller_, at the same income. Together, the four housing measures
+do improve the model a little, by more than we would expect by chance. But
+mostly that is the floor area effect, and it runs the wrong way for the idea
+that more room means bigger dogs.
+
+Among the boroughs, Staten Island’s dogs are about 10 percent heavier than
+Manhattan’s at the same levels of income and housing. That fits the idea of room
+on the periphery, although the interval is wide, running from about 1 to 20
+percent. The other boroughs do not differ much from Manhattan.
+
+In terms of how much variation we can explain, income alone accounts for about
+53 percent of the variation in typical dog size across ZIP codes. Adding the
+borough raises that to 54 percent. Adding all four housing measures raises it
+to 57 percent.
+
+Here is the income effect on its own. This is a partial regression plot. For
+both dog size and income, we remove the part that the borough and the housing
+measures predict. What remains shows the relationship between income and dog
+size among ZIP codes with similar housing in the same borough.
+
+[![Scatterplot of ZIP codes, colored by borough. The x-axis is median income relative to what borough and housing predict. The y-axis is typical dog size relative to the same prediction, as a percent difference. The points rise from left to right.](https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-income-net.png)](https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/nyc-dog-size-income-net.png)
+
+The relationship is pretty good. Each doubling of median household income goes
+with dogs about 22 percent heavier. The points come from every borough. So there
+is a size gradient, as Bill speculated, but it’s not purely geography that’s at
+work here, it’s money. Some of the biggest dogs in New York live in dense,
+expensive neighborhoods such as Park Slope, SoHo, and the West Village. The
+smallest dogs live in the Bronx, where incomes are much lower. Once we know a
+ZIP code’s income, its housing tells us only a little more about its dogs, and
+not in the expected direction. If anything, more floor area per home goes with
+slightly smaller dogs. Staten Island is the one place where extra room may add
+to dog size, beyond what income predicts.
+
+Again, as a paid-up social science rather than infographic guy, I feel like I
+have to close with the caveats. Remember these are _breed_ weights, not dog
+weights. Four in ten dogs have no breed size. And, like we said before, these
+are the licensed dogs only. Licensing rates probably vary with income too.
+Finally, this is a comparison of ZIP codes, not of households. It tells us that
+richer ZIP codes have bigger dogs on average. It does not tell us that richer
+people choose bigger dogs, although that seems likely.
+
+Why would money matter more than space? Big dogs cost more to feed and to treat
+at the vet. They are harder to keep in buildings that limit pets by weight. And
+their owners may need to pay someone to walk them while they are at work.
+Perhaps those many daily dog visits to Central Park are part of the answer too.
+If you live near a very large park, maybe it’s easier to have a very nice
+apartment that’s comparatively small for your very large dog.</source:markdown>
+      <guid>cid://https://kieranhealy.org/blog/archives/2026/10/25/dogs-of-new-york-shapes-and-sizes-edition/</guid>
+      <pubDate>Sun, 25 Oct 2026 17:57:06 +0000</pubDate>
+    </item>    <item>
+      <title>Our Wins Of The Week</title>
+      <link>https://thinkbigpicture.substack.com/p/week-progressive-wins-october-25</link>
+      <description>
+        <![CDATA[The Democratic Party&#8217;s biggest names barnstormed the country this week in the final stretch of the midterm campaign.]]>
+      </description>
+      <source:markdown>The Democratic Party’s biggest names barnstormed the country this week in the final stretch of the midterm campaign.</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/226b1258-9649-41a8-a6ff-09d14cede302_970x556.png" length="0" type="image/jpeg" />
+      <guid>cid://https://thinkbigpicture.substack.com/p/week-progressive-wins-october-25</guid>
+      <pubDate>Sun, 25 Oct 2026 17:42:06 +0000</pubDate>
+    </item>    <item>
+      <link>http://scripting.com/2026/10/25.html#a163924</link>
+      <description>
+        <![CDATA[Changed <a href="https://x.com/davewiner">my bio</a> on Twitter: "I make software to interop. Working on a new web designed for writers and readers and in place of HTML we use Markdown. Keep it super simple. The big undo."]]>
+      </description>
+      <source:markdown>Changed [my bio](https://x.com/davewiner) on Twitter: &#34;I make software to interop. Working on a new web designed for writers and readers and in place of HTML we use Markdown. Keep it super simple. The big undo.&#34;</source:markdown>
+      <guid>cid://http://scripting.com/2026/10/25.html#a163924</guid>
+      <pubDate>Sun, 25 Oct 2026 16:39:24 +0000</pubDate>
+    </item>    <item>
+      <link>http://scripting.com/2026/10/25.html#a162353</link>
+      <description>
+        <![CDATA[Obama is doing the old Obama campaign schtick and it's something to see. He's got a few gray hairs, but he's still got the energy and chutzpah. I'd love to see him and Bernie Sanders on the same stage before this campaign is over. My favorite <a href="https://www.youtube.com/watch?v=QclN6UnicMg">Obama clip</a> is him wiping the schmutz off his shoulder, I forget who he was putting down, but wow it so concise. I also really liked the time when <a href="https://www.youtube.com/watch?v=IHJeptnpNWU">HRC flirted</a> with him about her likeability. "You're likeable enough," he said. Trump gets the votes not necessarily because people are what people call them, he is a comedian, I say this so many times, that's the charm. Young folk may not remember Don Rickles and Joan Rivers, but that's Trump, and the other two probably had a sweet side, but I don't think that's ever been said about Trump. I could be wrong. There's also a bit of George Carlin in there.]]>
+      </description>
+      <source:markdown>Obama is doing the old Obama campaign schtick and it&#39;s something to see. He&#39;s got a few gray hairs, but he&#39;s still got the energy and chutzpah. I&#39;d love to see him and Bernie Sanders on the same stage before this campaign is over. My favorite [Obama clip](https://www.youtube.com/watch?v=QclN6UnicMg) is him wiping the schmutz off his shoulder, I forget who he was putting down, but wow it so concise. I also really liked the time when [HRC flirted](https://www.youtube.com/watch?v=IHJeptnpNWU) with him about her likeability. &#34;You&#39;re likeable enough,&#34; he said. Trump gets the votes not necessarily because people are what people call them, he is a comedian, I say this so many times, that&#39;s the charm. Young folk may not remember Don Rickles and Joan Rivers, but that&#39;s Trump, and the other two probably had a sweet side, but I don&#39;t think that&#39;s ever been said about Trump. I could be wrong. There&#39;s also a bit of George Carlin in there.</source:markdown>
+      <guid>cid://http://scripting.com/2026/10/25.html#a162353</guid>
+      <pubDate>Sun, 25 Oct 2026 16:23:53 +0000</pubDate>
+    </item>    <item>
+      <title>Cartografías sensoriales 2026: programa “Estas son nuestras vidas”</title>
+      <link>https://www.palomitademaiz.net/cartografias-sensoriales-2026-programa-estas-son-nuestras-vidas/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=cartografias-sensoriales-2026-programa-estas-son-nuestras-vidas</link>
+      <description>
+        <![CDATA[<p>Cartografías sensoriales es una muestra de cine latinoamericano vanguardista y experimental que se realiza en Yopal, capital del departamento de Casanare en Colombia. Su cuarta edición, que tiene lugar del 20 al 25 de octubre, tiene como eje la noción de lo animal, entendida como una presencia que transita entre lo cotidiano y lo raro, [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/cartografias-sensoriales-2026-programa-estas-son-nuestras-vidas/">Cartografías sensoriales 2026: programa “Estas son nuestras vidas”</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Cartografías sensoriales es una muestra de cine latinoamericano vanguardista y experimental que se realiza en Yopal, capital del departamento de Casanare en Colombia. Su cuarta edición, que tiene lugar del 20 al 25 de octubre, tiene como eje la noción de lo animal, entendida como una presencia que transita entre lo cotidiano y lo raro, \[…\]
+
+La entrada [Cartografías sensoriales 2026: programa “Estas son nuestras vidas”](https://www.palomitademaiz.net/cartografias-sensoriales-2026-programa-estas-son-nuestras-vidas/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <guid>cid://https://www.palomitademaiz.net/?p=27140</guid>
+      <category>Cine</category>
+      <category>Especiales</category>
+      <category>Festivales</category>
+      <category>Boa</category>
+      <category>Cartografías sensoriales 2026</category>
+      <category>Emechiche: el renacer de los cabeciblancos</category>
+      <category>La vida en las texturas</category>
+      <category>Mãe da manh</category>
+      <category>Mi casa es su casa</category>
+      <pubDate>Sun, 25 Oct 2026 16:00:45 +0000</pubDate>
+    </item>    <item>
+      <title>Guest Newsletter: Five Books - Popular Science and Adventure Novels</title>
+      <link>https://thebrowser.com/free/guest-newsletter-five-books-popular-science-and-adventure-novels/</link>
+      <description>
+        <![CDATA[Five Books features in-depth author interviews recommending five books on a theme]]>
+      </description>
+      <source:markdown>Five Books features in-depth author interviews recommending five books on a theme</source:markdown>
+      <guid>cid://6adb5860b4ca9f0001df9c9e</guid>
+      <pubDate>Sun, 25 Oct 2026 16:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Who has already voted for the 2026 midterms? Who’s undecided? How might they vote?</title>
+      <link>https://www.gelliottmorris.com/p/2026-10-25-sunday-roundup</link>
+      <description>
+        <![CDATA[Why undecided voters probably won&#8217;t care about Trump&#8217;s closing message, and an early voting update. Your weekly political data roundup for October 25, 2026.]]>
+      </description>
+      <source:markdown>Why undecided voters probably won’t care about Trump’s closing message, and an early voting update. Your weekly political data roundup for October 25, 2026.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!i905!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F83dc9302-ed3b-4b06-90f0-dc8b56b71b5d_2122x1166.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/2026-10-25-sunday-roundup</guid>
+      <pubDate>Sun, 25 Oct 2026 15:17:44 +0000</pubDate>
+    </item>    <item>
+      <title>456: ‘Lubricate the Inside of the Hinge’, With Joanna Stern</title>
+      <link>https://daringfireball.net/thetalkshow/2026/10/25/ep-456</link>
+      <description>
+        <![CDATA[Special guest: Joanna Stern. Special topic: The iPhone Duo.]]>
+      </description>
+      <source:markdown>Special guest: Joanna Stern. Special topic: The iPhone Duo.</source:markdown>
+      <enclosure url="https://traffic.libsyn.com/secure/daringfireball/thetalkshow-456-joanna-stern.mp3" length="57440366" type="audio/mpeg" />
+      <guid>cid://https://daringfireball.net/thetalkshow/2026/10/25/ep-456</guid>
+      <pubDate>Sun, 25 Oct 2026 14:55:04 +0000</pubDate>
+    </item>    <item>
+      <title>Imagining the sci-fi cabal meeting where Adrian Tchaikovsky and Ray Nayler divvied up their assignments: “Okay, we can both do octopuses and crows, but let’s toss a coin for mammoths; loser has to do spiders.”</title>
+      <link>https://adactio.com/notes/22814</link>
+      <description>
+        <![CDATA[<p>Imagining the sci-fi cabal meeting where Adrian Tchaikovsky and Ray Nayler divvied up their assignments:</p>
+        
+        <p>“Okay, we can both do octopuses and crows, but let’s toss a coin for mammoths; loser has to do spiders.”</p>]]>
+      </description>
+      <source:markdown>Imagining the sci-fi cabal meeting where Adrian Tchaikovsky and Ray Nayler divvied up their assignments:
+
+“Okay, we can both do octopuses and crows, but let’s toss a coin for mammoths; loser has to do spiders.”</source:markdown>
+      <guid>cid://https://adactio.com/notes/22814</guid>
+      <pubDate>Sun, 25 Oct 2026 14:33:11 +0000</pubDate>
+    </item>    <item>
+      <title>We’re Seeing A Huge Surge Of Hispanics Voting Across The US, An Extraordinary Trump-Russia Scandal Breaks in Alaska, Obama Returns To The Trail - Powerfully</title>
+      <link>https://www.hopiumchronicles.com/p/we-are-seeing-a-huge-surge-of-hispanics</link>
+      <description>
+        <![CDATA[&#8220;Elections are decided in November, but they are won in October&#8221;]]>
+      </description>
+      <source:markdown>“Elections are decided in November, but they are won in October”</source:markdown>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/fd087750-5f74-46ab-a8f0-62cffa030135_646x481.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/we-are-seeing-a-huge-surge-of-hispanics</guid>
+      <pubDate>Sun, 25 Oct 2026 14:31:03 +0000</pubDate>
+    </item>    <item>
+      <title>Will You Save Democracy?</title>
+      <link>https://ourfuture.org/20261025/will-you-save-democracy</link>
+      <description>
+        <![CDATA[Everyone who has the right to vote must vote. We must send a clear message to authoritarians that we reject their plan, and reject division. We stand together, in numbers they cannot deny. On the eve of elections in the United States, I never thought I’d be in the Alps for the first time. But [&#8230;]
+        <p><a href="https://ourfuture.org/20261025/will-you-save-democracy" rel="nofollow">Source</a></p>]]>
+      </description>
+      <source:markdown>Everyone who has the right to vote must vote. We must send a clear message to authoritarians that we reject their plan, and reject division. We stand together, in numbers they cannot deny. On the eve of elections in the United States, I never thought I’d be in the Alps for the first time. But \[…\]
+
+[Source](https://ourfuture.org/20261025/will-you-save-democracy)</source:markdown>
+      <guid>cid://https://ourfuture.org/?p=234905</guid>
+      <category>Blog</category>
+      <pubDate>Sun, 25 Oct 2026 14:21:23 +0000</pubDate>
+    </item>    <item>
+      <title>¿Salvarás la democracia?</title>
+      <link>https://ourfuture.org/20261025/salvaras-la-democracia</link>
+      <description>
+        <![CDATA[Todos los que tenemos derecho a votar debemos hacerlo. Podemos enviar un mensaje claro a los autoritarios: rechazamos su plan y su división. Nos mantenemos unidos, en una mayoría clara que ellos no pueden negar. Justo antes de las elecciones en Estados Unidos, jamás imaginé que me encontraría en los Alpes por primera vez. Pero [&#8230;]
+        <p><a href="https://ourfuture.org/20261025/salvaras-la-democracia" rel="nofollow">Source</a></p>]]>
+      </description>
+      <source:markdown>Todos los que tenemos derecho a votar debemos hacerlo. Podemos enviar un mensaje claro a los autoritarios: rechazamos su plan y su división. Nos mantenemos unidos, en una mayoría clara que ellos no pueden negar. Justo antes de las elecciones en Estados Unidos, jamás imaginé que me encontraría en los Alpes por primera vez. Pero \[…\]
+
+[Source](https://ourfuture.org/20261025/salvaras-la-democracia)</source:markdown>
+      <guid>cid://https://ourfuture.org/?p=234916</guid>
+      <category>Blog</category>
+      <category>ESPANOL</category>
+      <category>SULMA</category>
+      <pubDate>Sun, 25 Oct 2026 14:17:12 +0000</pubDate>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/117501842322197896</link>
+      <description>
+        <![CDATA[<p class="quote-inline">RE: <a href="https://mastodon.social/@verge/117501788476778885" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@verge/1175017</span><span class="invisible">88476778885</span></a></p><p>These bans deputize random busybodies into hall monitors, replacing communities built by people who contribute with hierarchies ruled by people who have nothing to offer but the power to stop others.</p>]]>
+      </description>
+      <source:markdown>RE: [https://mastodon.social/@verge/117501788476778885](https://mastodon.social/@verge/117501788476778885)
+
+These bans deputize random busybodies into hall monitors, replacing communities built by people who contribute with hierarchies ruled by people who have nothing to offer but the power to stop others.</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/117501842322197896</guid>
+      <pubDate>Sun, 25 Oct 2026 13:43:46 +0000</pubDate>
+    </item>    <item>
+      <link>https://johnjohnston.info/blog/link-the-right-words-in-the-right-order/</link>
+      <description>
+        <![CDATA[As the education scholar Gert Biesta has argued, over the 1980s and ’90s the very idea of “education” was displaced in favor of an ideal of “learning.” Education implies a teacher, a subject, and a purpose; learning is something an individual does. What Biesta termed “learnification” meant that the transmission and application of knowledge became a priority [&#8230;]]]>
+      </description>
+      <source:markdown>As the education scholar Gert Biesta has argued, over the 1980s and ’90s the very idea of “education” was displaced in favor of an ideal of “learning.” Education implies a teacher, a subject, and a purpose; learning is something an individual does. What Biesta termed “learnification” meant that the transmission and application of knowledge became a priority \[…\]</source:markdown>
+      <guid>cid://https://johnjohnston.info/blog/?p=22707</guid>
+      <category>Micro</category>
+      <category>wwwd</category>
+      <category>ai</category>
+      <category>classroom</category>
+      <category>edtech</category>
+      <category>education</category>
+      <category>learning</category>
+      <category>LLMs</category>
+      <pubDate>Sun, 25 Oct 2026 13:13:35 +0000</pubDate>
     </item>    <item>
       <title>Dwight Yoakam</title>
       <link>https://steady.substack.com/p/dwight-yoakam</link>
@@ -26724,1002 +28298,6 @@ Huge thanks to my mentors, [Tue Ly](https://github.com/lntue), [Michael Jones](h
       <source:markdown>The Tracking page is gone, and so is the Design folder in the sidebar.</source:markdown>
       <category>changelog</category>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/117385303445858367</link>
-      <description>
-        <![CDATA[<p>Authentic Boston Fajitas for dinner</p>]]>
-      </description>
-      <source:markdown>Authentic Boston Fajitas for dinner</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/117385303445858367</guid>
-      <pubDate>Sun, 04 Oct 2026 23:46:24 +0000</pubDate>
-    </item>    <item>
-      <title>Episode 190 - Machine Room or DEATH TRAP!?</title>
-      <link>https://adventofcomputing.libsyn.com/episode-190-machine-room-or-death-trap</link>
-      <description>
-        <![CDATA[<p>Boo! Welcome to Spook Month 2026! I start off my scary coverage by looking at the dangers of the mainframe rooms of the 50s and 60s. We all know that running computers can be a drag. But can it be deadly? Answering that question takes me through government documents, maintenance manuals, and odd recollections of days gone by.</p> <p>Like Advent of Computing? Then check out the after show! Adjunct of Computing is now LIVE: <a href= "https://www.youtube.com/playlist?list=PLbDuNUQ4K7mxrRIEyg4zeD3ALP-6e6QRC" target="_blank" rel= "noopener noreferrer nofollow">YouTube</a> <a href= "https://open.spotify.com/show/72NQNuVcDq2AvNqcAd7A31" target= "_blank" rel= "noopener noreferrer nofollow">Spotify</a> <a href= "https://podcasts.apple.com/us/podcast/adjunct-of-computing/id1885420630" target="_blank" rel="noopener noreferrer nofollow"><u>Apple Podcasts</u></a></p> <p data-node-text-align="start">Join the conversation on the OFFICIAL discord server: <a href= "https://discord.com/invite/GpFNu3DTU2" target="_blank" rel= "noopener noreferrer nofollow" data-link-auto= "">https://discord.com/invite/GpFNu3DTU2</a></p>]]>
-      </description>
-      <source:markdown>Boo! Welcome to Spook Month 2026! I start off my scary coverage by looking at the dangers of the mainframe rooms of the 50s and 60s. We all know that running computers can be a drag. But can it be deadly? Answering that question takes me through government documents, maintenance manuals, and odd recollections of days gone by.
-
-Like Advent of Computing? Then check out the after show! Adjunct of Computing is now LIVE: [YouTube](https://www.youtube.com/playlist?list=PLbDuNUQ4K7mxrRIEyg4zeD3ALP-6e6QRC) [Spotify](https://open.spotify.com/show/72NQNuVcDq2AvNqcAd7A31) [Apple Podcasts](https://podcasts.apple.com/us/podcast/adjunct-of-computing/id1885420630)
-
-Join the conversation on the OFFICIAL discord server: [https://discord.com/invite/GpFNu3DTU2](https://discord.com/invite/GpFNu3DTU2)</source:markdown>
-      <enclosure url="https://traffic.libsyn.com/secure/adventofcomputing/ep190_death_trap.mp3?dest-id=1206722" length="28994666" type="audio/mpeg" />
-      <guid>cid://bbe23c70-af9d-414c-a8b6-afc2524c4298</guid>
-      <pubDate>Sun, 04 Oct 2026 23:43:00 +0000</pubDate>
-    </item>    <item>
-      <title>Monday 5 October, 2026</title>
-      <link>https://memex.naughtons.org/monday-5-october-2026/42791/</link>
-      <description>
-        <![CDATA[Acorn This fell on to the pavement in front of me the other day. Funny to think that from such a tiny, beautiful seed a mighty oak might grow. Quote of the Day ”Did you know that Mozart had no &#8230; <a href="https://memex.naughtons.org/monday-5-october-2026/42791/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <source:markdown>Acorn This fell on to the pavement in front of me the other day. Funny to think that from such a tiny, beautiful seed a mighty oak might grow. Quote of the Day ”Did you know that Mozart had no … [Continue reading →](https://memex.naughtons.org/monday-5-october-2026/42791/)</source:markdown>
-      <guid>cid://https://memex.naughtons.org/?p=42791</guid>
-      <category>Online version</category>
-      <pubDate>Sun, 04 Oct 2026 23:01:56 +0000</pubDate>
-    </item>    <item>
-      <title>The emergence of shareholder capitalism</title>
-      <link>https://robertreich.substack.com/p/the-emergence-of-shareholder-capitalism</link>
-      <description>
-        <![CDATA[Friends,]]>
-      </description>
-      <source:markdown>Friends,</source:markdown>
-      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/VBh3WS6HzNE" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/the-emergence-of-shareholder-capitalism</guid>
-      <pubDate>Sun, 04 Oct 2026 23:01:50 +0000</pubDate>
-    </item>    <item>
-      <title>Power to the People</title>
-      <link>https://heathercoxrichardson.substack.com/p/power-to-the-people</link>
-      <description>
-        <![CDATA[To read this letter, click here:]]>
-      </description>
-      <source:markdown>To read this letter, click here:</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/218844341/4c92d664caa15193ad7318240e8bb5e9.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/power-to-the-people</guid>
-      <pubDate>Sun, 04 Oct 2026 22:09:03 +0000</pubDate>
-    </item>    <item>
-      <title>Caption contest: Hole</title>
-      <link>https://robertreich.substack.com/p/caption-contest-hole</link>
-      <description>
-        <![CDATA[And last week&#8217;s winner]]>
-      </description>
-      <source:markdown>And last week’s winner</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!xI7V!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5368dbb2-5711-4892-bafe-ed0785448a8e_2467x2274.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/caption-contest-hole</guid>
-      <pubDate>Sun, 04 Oct 2026 21:01:42 +0000</pubDate>
-    </item>    <item>
-      <title>This tool makes everyone a campaign finance expert</title>
-      <link>https://popular.info/p/this-tool-makes-everyone-a-campaign</link>
-      <description>
-        <![CDATA[Introducing PaidForBy.info, a new app created by Popular Information]]>
-      </description>
-      <source:markdown>Introducing PaidForBy.info, a new app created by Popular Information</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/a2e5b3cb-1069-4656-bd3b-cc70eba7964b_1200x630.png" length="0" type="image/jpeg" />
-      <guid>cid://https://popular.info/p/this-tool-makes-everyone-a-campaign</guid>
-      <pubDate>Sun, 04 Oct 2026 20:15:11 +0000</pubDate>
-    </item>    <item>
-      <title>“I’m Embarrassed on Behalf of the Tech Industry”</title>
-      <link>https://blog.jim-nielsen.com/2026/embarrassed-by-tech/</link>
-      <description>
-        <![CDATA[<p>That’s something Ben Thompson said a recent episode of <a href="https://dithering.passport.online/" >Dithering</a>. He was referring to how he felt while trying to help his mom get control of her digital life. Everything was just too hard and convoluted and he felt embarrassed as someone who works in tech.</p>
-        <p>That very same evening, I randomly got this text from a family member.</p>
-        <p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2026/embarassed.png" width="603" height="565" alt="Text message reading: “Dude. I hate the modern web. I hate. Website. S. Using websites. Trying to do things quickly and efficiently. What a buggy mess.”" />
-        
-        </p><p>I hear this a lot from family and friends who sit outside tech.</p>
-        <p>“Nothing works.”</p>
-        <p>“Everything is hard to use.”</p>
-        <p>“I can’t make sense of this.”</p>
-        <p>And to them I am a representative, a connection, to this pain in their lives.</p>
-        <p>And I, too, am embarrassed on behalf of the tech industry — by our collective failure.</p>
-        
-            <hr />
-            
-        
-            <p>
-              Reply via:
-              
-        
-              <a
-                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/embarrassed-by-tech/"
-                >Email</a
-              >
-              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
-        
-              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
-            </p>
-        
-            
-              <p>
-                Related posts linking here:
-                <a href="/2026/talk-notes-modernization-treadmill/">(2026) “Getting off the Modernization Treadmill”</a>
-              </p>]]>
-      </description>
-      <source:markdown>That’s something Ben Thompson said a recent episode of [Dithering](https://dithering.passport.online/). He was referring to how he felt while trying to help his mom get control of her digital life. Everything was just too hard and convoluted and he felt embarrassed as someone who works in tech.
-
-That very same evening, I randomly got this text from a family member.
-
-![Text message reading: “Dude. I hate the modern web. I hate. Website. S. Using websites. Trying to do things quickly and efficiently. What a buggy mess.”](https://cdn.jim-nielsen.com/blog/2026/embarassed.png)
-
-I hear this a lot from family and friends who sit outside tech.
-
-“Nothing works.”
-
-“Everything is hard to use.”
-
-“I can’t make sense of this.”
-
-And to them I am a representative, a connection, to this pain in their lives.
-
-And I, too, am embarrassed on behalf of the tech industry — by our collective failure.
-
-* * *
-
-Reply via:
-
-
-[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/embarrassed-by-tech/)
-· [Mastodon](https://mastodon.social/@jimniels) ·
-
-[Bluesky](https://bsky.app/profile/jim-nielsen.com)
-
-Related posts linking here:
-[(2026) “Getting off the Modernization Treadmill”](/2026/talk-notes-modernization-treadmill/)</source:markdown>
-      <guid>cid://https://blog.jim-nielsen.com/2026/embarrassed-by-tech/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Seeking God in Science part 12: A clean-sheet introduction to quantum mechanics and quantum field theory (part 1 of n)</title>
-      <link>https://blog.rongarret.info/2026/10/seeking-god-in-science-part-12-clean.html</link>
-      <description>
-        <![CDATA[For months now I have been writing the phrase "when we get to quantum mechanics..."&nbsp; Well, today we finally get to quantum mechanics (QM).&nbsp; QM is a big topic.&nbsp; I will not be able to cover it all, or even put a significant dent in it, in one blog post.&nbsp; The goal of this post is just to give you an overview of the lay of the land, a clean-sheet introduction to the topic for]]>
-      </description>
-      <source:markdown>For months now I have been writing the phrase &#34;when we get to quantum mechanics...&#34;  Well, today we finally get to quantum mechanics (QM).  QM is a big topic.  I will not be able to cover it all, or even put a significant dent in it, in one blog post.  The goal of this post is just to give you an overview of the lay of the land, a clean-sheet introduction to the topic for</source:markdown>
-      <author>noreply@blogger.com (Ron)</author>
-      <guid>cid://tag:blogger.com,1999:blog-5592542.post-475722407484489192</guid>
-      <pubDate>Sun, 04 Oct 2026 18:44:45 +0000</pubDate>
-    </item>    <item>
-      <title>On Rape</title>
-      <link>https://dbarkhuff.substack.com/p/on-rape</link>
-      <description>
-        <![CDATA[I&#8217;ve always been beyond a little bit skeptical when it comes to campus fraternities.]]>
-      </description>
-      <source:markdown>I’ve always been beyond a little bit skeptical when it comes to campus fraternities.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!jTMY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe64f03b-4ba4-4e38-bf84-3e391510f437_1168x552.png" length="0" type="image/jpeg" />
-      <guid>cid://https://dbarkhuff.substack.com/p/on-rape</guid>
-      <pubDate>Sun, 04 Oct 2026 18:33:17 +0000</pubDate>
-    </item>    <item>
-      <title>Our Wins Of The Week</title>
-      <link>https://thinkbigpicture.substack.com/p/week-progressive-wins-october-4</link>
-      <description>
-        <![CDATA[Donald Trump went on the road this week to stump for Republican candidates a month out from Election Day.]]>
-      </description>
-      <source:markdown>Donald Trump went on the road this week to stump for Republican candidates a month out from Election Day.</source:markdown>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/161daefe-4679-4ac8-8c48-90ca90aaef5f_820x428.png" length="0" type="image/jpeg" />
-      <guid>cid://https://thinkbigpicture.substack.com/p/week-progressive-wins-october-4</guid>
-      <pubDate>Sun, 04 Oct 2026 17:35:23 +0000</pubDate>
-    </item>    <item>
-      <title>Sunday session</title>
-      <link>https://adactio.com/notes/22786</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22786/small.jpg" srcset="https://adactio.com/images/uploaded/22786/medium.jpg 1.5x, https://adactio.com/images/uploaded/22786/large.jpg 2.5x" alt="Sunday session" />
-        <p>Sunday session</p>]]>
-      </description>
-      <source:markdown>![Sunday session](https://adactio.com/images/uploaded/22786/small.jpg)
-
-Sunday session</source:markdown>
-      <guid>cid://https://adactio.com/notes/22786</guid>
-      <pubDate>Sun, 04 Oct 2026 17:29:10 +0000</pubDate>
-    </item>    <item>
-      <link>http://scripting.com/2026/10/04.html#a160439</link>
-      <description>
-        <![CDATA[Claude's biggest most amazing strength is its ability to inhale a lot of source code and understand what's going on, any language, any OS, anything, in an instant.]]>
-      </description>
-      <source:markdown>Claude&#39;s biggest most amazing strength is its ability to inhale a lot of source code and understand what&#39;s going on, any language, any OS, anything, in an instant.</source:markdown>
-      <guid>cid://http://scripting.com/2026/10/04.html#a160439</guid>
-      <pubDate>Sun, 04 Oct 2026 16:04:39 +0000</pubDate>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3mx2qh5bkos2n</link>
-      <description>
-        <![CDATA[True
-        
-        [contains quote post or other embedded content]]]>
-      </description>
-      <source:markdown>True
-
-\[contains quote post or other embedded content\]</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3mx2qh5bkos2n</guid>
-      <pubDate>Sun, 04 Oct 2026 15:41:00 +0000</pubDate>
-    </item>    <item>
-      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3mx2q7citoc2n</link>
-      <description>
-        <![CDATA[This is cool https://pointinthecloud.com/2026-08-19-144600.html]]>
-      </description>
-      <source:markdown>This is cool https://pointinthecloud.com/2026-08-19-144600.html</source:markdown>
-      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3mx2q7citoc2n</guid>
-      <pubDate>Sun, 04 Oct 2026 15:37:00 +0000</pubDate>
-    </item>    <item>
-      <title>With A Month To Go Dems Are Expanding The Battlefield And Trump Is Becoming More Wild And Desperate</title>
-      <link>https://www.hopiumchronicles.com/p/with-a-month-to-go-dems-are-expanding</link>
-      <description>
-        <![CDATA[Stuart Stevens joins us tomorrow at 230pm ET, Sarah Trone Garriott (IA-3) Tuesday at 115pm]]>
-      </description>
-      <source:markdown>Stuart Stevens joins us tomorrow at 230pm ET, Sarah Trone Garriott (IA-3) Tuesday at 115pm</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!-4wQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6709cb97-46f2-4d78-999a-0815b483d665_640x480.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.hopiumchronicles.com/p/with-a-month-to-go-dems-are-expanding</guid>
-      <pubDate>Sun, 04 Oct 2026 15:35:48 +0000</pubDate>
-    </item>    <item>
-      <title>Polls and &#34;fundamentals&#34; basically agree about the blue wave</title>
-      <link>https://www.gelliottmorris.com/p/2026-10-04-sunday-roundup-polls-fundamentals-senate-blue</link>
-      <description>
-        <![CDATA[When you look at state-level election results, fundraising, and the national environment, surprising state polls actually make a lot of sense. Your weekly political data roundup for October 4, 2026.]]>
-      </description>
-      <source:markdown>When you look at state-level election results, fundraising, and the national environment, surprising state polls actually make a lot of sense. Your weekly political data roundup for October 4, 2026.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!zBM-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F958e551c-65ea-473c-9088-f6a634aecad1_2250x1560.png" length="0" type="image/jpeg" />
-      <guid>cid://https://www.gelliottmorris.com/p/2026-10-04-sunday-roundup-polls-fundamentals-senate-blue</guid>
-      <pubDate>Sun, 04 Oct 2026 15:06:17 +0000</pubDate>
-    </item>    <item>
-      <title>Guest Newsletter: Five Books - Baldwin and Battles</title>
-      <link>https://thebrowser.com/free/guest-newsletter-five-books-106/</link>
-      <description>
-        <![CDATA[Five Books features in-depth author interviews recommending five books on a theme]]>
-      </description>
-      <source:markdown>Five Books features in-depth author interviews recommending five books on a theme</source:markdown>
-      <guid>cid://6abfd378d1322d0001109748</guid>
-      <pubDate>Sun, 04 Oct 2026 15:00:37 +0000</pubDate>
-    </item>    <item>
-      <title>The climate will kill you</title>
-      <link>http://scripting.com/2026/10/04/135421.html?title=theClimateWillKillYou</link>
-      <description>
-        <![CDATA[<p>Great scene from The West Wing.</p>
-        <p><a href="https://en.wikipedia.org/wiki/C._J._Cregg">CJ</a> and <a href="https://en.wikipedia.org/wiki/Josh_Lyman">Josh</a>, on the street outside the White House.</p>
-        <p>The president was hiding serious <a href="https://westwing.fandom.com/wiki/MS_scandal">disease</a>, and it’s about to come out. Back in those days such a revelation meant the president has no chance of being re-elected. </p>
-        <p>Anyway, the kid has an idea and starts explaining, and as he does CJ laughs. The kid asks what’s so funny. </p>
-        <p>She tells him about a <a href="https://youtu.be/2sdlUad38xU">scene</a> in <a href="https://en.wikipedia.org/wiki/Butch_Cassidy_and_the_Sundance_Kid">Butch Cassidy and the Sundance Kid</a> starring Paul Newman as Butch and Robert Redford as the kid.</p>
-        <p>They’re cornered, on a cliff, preparing to jump into a river far below. Redford says he can’t swim. Newman says it doesn’t matter, the fall is going to kill you.</p>
-        <p>Okay so why mention this now?</p>
-        <p>I hear there’s a monster <a href="https://www.ktvu.com/news/bay-area-weather-sizzling-hot-weather-ahead-temps-could-reach-100-degrees">heat wave</a> in California. Over 90F every day for two weeks. That’s unusual for October IIRC.</p>
-        <p>We’re all fretting about AI killing us.</p>
-        <p>Imagine CJ laughing. Haha she says, so you’re worried about AI are ya? It’s the climate that’s going to kill you.</p>
-        <p>Josh would correct her. “Us. It’s going to kill us.”</p>
-        <p>CJ tells him to go away she needs to be an adult right now.</p>]]>
-      </description>
-      <source:markdown>Great scene from The West Wing.
-
-[CJ](https://en.wikipedia.org/wiki/C._J._Cregg) and [Josh](https://en.wikipedia.org/wiki/Josh_Lyman), on the street outside the White House.
-
-The president was hiding serious [disease](https://westwing.fandom.com/wiki/MS_scandal), and it’s about to come out. Back in those days such a revelation meant the president has no chance of being re-elected.
-
-Anyway, the kid has an idea and starts explaining, and as he does CJ laughs. The kid asks what’s so funny.
-
-She tells him about a [scene](https://youtu.be/2sdlUad38xU) in [Butch Cassidy and the Sundance Kid](https://en.wikipedia.org/wiki/Butch_Cassidy_and_the_Sundance_Kid) starring Paul Newman as Butch and Robert Redford as the kid.
-
-They’re cornered, on a cliff, preparing to jump into a river far below. Redford says he can’t swim. Newman says it doesn’t matter, the fall is going to kill you.
-
-Okay so why mention this now?
-
-I hear there’s a monster [heat wave](https://www.ktvu.com/news/bay-area-weather-sizzling-hot-weather-ahead-temps-could-reach-100-degrees) in California. Over 90F every day for two weeks. That’s unusual for October IIRC.
-
-We’re all fretting about AI killing us.
-
-Imagine CJ laughing. Haha she says, so you’re worried about AI are ya? It’s the climate that’s going to kill you.
-
-Josh would correct her. “Us. It’s going to kill us.”
-
-CJ tells him to go away she needs to be an adult right now.</source:markdown>
-      <guid>cid://http://scripting.com/2026/10/04/135421.html</guid>
-      <pubDate>Sun, 04 Oct 2026 13:54:21 +0000</pubDate>
-    </item>    <item>
-      <link>http://scripting.com/2026/10/04.html#a135130</link>
-      <description>
-        <![CDATA[BTW now that I have Frontier back and am using it for most of my work, I'm having a lot more fun writing my blog. Can you tell??]]>
-      </description>
-      <source:markdown>BTW now that I have Frontier back and am using it for most of my work, I&#39;m having a lot more fun writing my blog. Can you tell??</source:markdown>
-      <guid>cid://http://scripting.com/2026/10/04.html#a135130</guid>
-      <pubDate>Sun, 04 Oct 2026 13:51:30 +0000</pubDate>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/117382920266360739</link>
-      <description>
-        <![CDATA[<p>When you are a musician, every day is Xmas!</p><p><a href="https://1amageek.github.io/MusicPlaygournd/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">1amageek.github.io/MusicPlaygo</span><span class="invisible">urnd/</span></a></p>]]>
-      </description>
-      <source:markdown>When you are a musician, every day is Xmas!
-
-[https://1amageek.github.io/MusicPlaygournd/](https://1amageek.github.io/MusicPlaygournd/)</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/117382920266360739</guid>
-      <pubDate>Sun, 04 Oct 2026 13:40:19 +0000</pubDate>
-    </item>    <item>
-      <title>Twitter as a blog platform</title>
-      <link>http://scripting.com/2026/10/04/133947.html?title=twitterAsABlogPlatform</link>
-      <description>
-        <![CDATA[<p>Twitter with its relaxed character limit is getting pretty close to being a blogging platform. I wrote the <a href="https://x.com/davewiner/status/2106714885593677926">first draft</a> of this post on my iPad, that's how useful it is.</p>
-        <p>Imagine if a real blog platform created a super simple way to write posts, no need for Gutenberg, just Markdown and that would be optional. Default would be a normal wizzy text editor, bold, italic, using a standard user interface. </p>
-        <p>Add web links and a reply structure, open source, nice API and developer program to shine the light on the cool editors independent devs were creating, and all of a sudden a bunch of new blog platforms emerge, and get this — they all work perfectly with each other because of the common foundation and API. The web of social media. It would be exciting and would pressure the other social media apps to peer with this truly open system.</p>
-        <p>It would change the freaking world I tell you. And it would be so wonderful with AI. No need for the cheesy chat UI. A real revolution. Undo all the craptastic silos that strangled the web? </p>
-        <p>It would be pretty damn easy imho, fwiw, ymmv, mmlm. </p>
-        <p>PS: MMLM is an acronym for My Mother Loves Me. Anticipates flameage. Okay you don't like me, but <i>my mother loves me. </i></p>]]>
-      </description>
-      <source:markdown>Twitter with its relaxed character limit is getting pretty close to being a blogging platform. I wrote the [first draft](https://x.com/davewiner/status/2106714885593677926) of this post on my iPad, that&#39;s how useful it is.
-
-Imagine if a real blog platform created a super simple way to write posts, no need for Gutenberg, just Markdown and that would be optional. Default would be a normal wizzy text editor, bold, italic, using a standard user interface.
-
-Add web links and a reply structure, open source, nice API and developer program to shine the light on the cool editors independent devs were creating, and all of a sudden a bunch of new blog platforms emerge, and get this — they all work perfectly with each other because of the common foundation and API. The web of social media. It would be exciting and would pressure the other social media apps to peer with this truly open system.
-
-It would change the freaking world I tell you. And it would be so wonderful with AI. No need for the cheesy chat UI. A real revolution. Undo all the craptastic silos that strangled the web?
-
-It would be pretty damn easy imho, fwiw, ymmv, mmlm.
-
-PS: MMLM is an acronym for My Mother Loves Me. Anticipates flameage. Okay you don&#39;t like me, but _my mother loves me._</source:markdown>
-      <guid>cid://http://scripting.com/2026/10/04/133947.html</guid>
-      <pubDate>Sun, 04 Oct 2026 13:39:47 +0000</pubDate>
-    </item>    <item>
-      <title>“Songs In The Key of Life”</title>
-      <link>https://steady.substack.com/p/songs-in-the-key-of-life-620</link>
-      <description>
-        <![CDATA[A Reason To Smile]]>
-      </description>
-      <source:markdown>A Reason To Smile</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!1Uy4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0aad25ff-d373-4067-9548-2d8bde7ad868_597x597.png" length="0" type="image/jpeg" />
-      <guid>cid://https://steady.substack.com/p/songs-in-the-key-of-life-620</guid>
-      <pubDate>Sun, 04 Oct 2026 12:02:19 +0000</pubDate>
-    </item>    <item>
-      <title>Newsboat 2.45 is out</title>
-      <link>https://newsboat.org/releases/2.45/docs/newsboat.html</link>
-      <description>
-        <![CDATA[<p>
-                        The release is a week late because we were dealing with a few
-                        vulnerabilities. They were publicly disclosed via GitHub pull
-                        requests, along with proposed fixes, and it took some time to
-                        mould them into complete solutions. There will be separate news
-                        items for each vulnerability. If you're using OPML import or
-                        Podboat, it'd be wise to upgrade as fast as possible.
-                    </p>
-        
-                    <p>
-                        Apart from that, we also got a new Podboat operation (<code>pb-reload</code>),
-                        new setting (<code>keep-forever-if-flagged-with</code>), and
-                        a few new highlight groups to use in your colour schemes
-                        (<code>listnormal_deleted</code> and <code>listfocus_deleted</code>).
-                        Please see the changelog and the docs for details.
-                    </p>
-        
-                    <p>As always, you can get everything from our site and GitHub:
-                            <a href="https://newsboat.org/releases/2.45/newsboat-2.45.tar.xz">tar.xz</a>,
-                            <a href="https://newsboat.org/releases/2.45/newsboat-2.45.tar.xz.asc">asc</a>,
-                            <a href="https://newsboat.org/releases/2.45/docs/newsboat.html">docs</a>,
-                            <a href="https://newsboat.org/releases/2.45/docs/faq.html">FAQ</a>,
-                            <a href="https://github.com/newsboat/newsboat/blob/master/CHANGELOG.md#245---2026-10-04">changelog</a>.
-                    </p>]]>
-      </description>
-      <source:markdown>The release is a week late because we were dealing with a few
-vulnerabilities. They were publicly disclosed via GitHub pull
-requests, along with proposed fixes, and it took some time to
-mould them into complete solutions. There will be separate news
-items for each vulnerability. If you&#39;re using OPML import or
-Podboat, it&#39;d be wise to upgrade as fast as possible.
-
-
-Apart from that, we also got a new Podboat operation ( `pb-reload`),
-new setting ( `keep-forever-if-flagged-with`), and
-a few new highlight groups to use in your colour schemes
-( `listnormal_deleted` and `listfocus_deleted`).
-Please see the changelog and the docs for details.
-
-
-As always, you can get everything from our site and GitHub:
-[tar.xz](https://newsboat.org/releases/2.45/newsboat-2.45.tar.xz),
-[asc](https://newsboat.org/releases/2.45/newsboat-2.45.tar.xz.asc),
-[docs](https://newsboat.org/releases/2.45/docs/newsboat.html),
-[FAQ](https://newsboat.org/releases/2.45/docs/faq.html),
-[changelog](https://github.com/newsboat/newsboat/blob/master/CHANGELOG.md#245---2026-10-04).</source:markdown>
-      <author>eual.jp@gmail.com (Alexander Batischev)</author>
-      <guid>cid://https://newsboat.org/releases/2.45/docs/newsboat.html</guid>
-      <pubDate>Sun, 04 Oct 2026 11:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>AI needs fewer Iron Men and more Smart Hulks</title>
-      <link>https://christianheilmann.com/2026/10/04/ai-needs-fewer-iron-men-and-more-smart-hulks/</link>
-      <description>
-        <![CDATA[When I got into machine learning it was all about making the world a better place. I worked for Microsoft and had access to projects and the smart people behind them that all were for the benefit of humans. Batch analysis of MRI scan data to allow doctors to detect cancer growths faster. Analysis of [&#8230;]]]>
-      </description>
-      <source:markdown>When I got into machine learning it was all about making the world a better place. I worked for Microsoft and had access to projects and the smart people behind them that all were for the benefit of humans. Batch analysis of MRI scan data to allow doctors to detect cancer growths faster. Analysis of \[…\]</source:markdown>
-      <guid>cid://https://christianheilmann.com/?p=10300</guid>
-      <category>General</category>
-      <pubDate>Sun, 04 Oct 2026 10:45:36 +0000</pubDate>
-    </item>    <item>
-      <title>Who Dropped the Bonds? Interest Rates, Part II</title>
-      <link>https://paulkrugman.substack.com/p/who-dropped-the-bonds-interest-rates</link>
-      <description>
-        <![CDATA[Why are interest rates surging?]]>
-      </description>
-      <source:markdown>Why are interest rates surging?</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!YND9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38e64cb8-2833-44b4-a9a1-45ccc435402e_800x450.png" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/who-dropped-the-bonds-interest-rates</guid>
-      <pubDate>Sun, 04 Oct 2026 10:30:57 +0000</pubDate>
-    </item>    <item>
-      <title>We Are the Medicine: Recommendations on the Ever Growing List of Latinx Literature</title>
-      <link>https://lithub.com/we-are-the-medicine-recommendations-on-the-ever-growing-list-of-latinx-literature/</link>
-      <description>
-        <![CDATA[I’m starting this draft on the Fourth of July, 2026 in the Northern California redwoods. The phrase “250 Years of Independence” inundates my social media feed, though most people posting the phrase chide the intended meaning, highlighting the contradictions of]]>
-      </description>
-      <source:markdown>I’m starting this draft on the Fourth of July, 2026 in the Northern California redwoods. The phrase “250 Years of Independence” inundates my social media feed, though most people posting the phrase chide the intended meaning, highlighting the contradictions of</source:markdown>
-      <guid>cid://https://lithub.com/?p=277721</guid>
-      <category>Craft and Criticism</category>
-      <category>Features</category>
-      <category>Literary Criticism</category>
-      <category>Reading Lists</category>
-      <category>...and the earth did not devour him</category>
-      <category>Algonquin</category>
-      <category>Almanac of the Dead</category>
-      <category>Ana Castillo</category>
-      <category>Cherrie Moraga</category>
-      <category>Chipped</category>
-      <category>Hachette</category>
-      <category>Inter State</category>
-      <category>José Vadi</category>
-      <category>Leslie Marmon Silko</category>
-      <category>Loving in the War Years</category>
-      <category>Michael Nava</category>
-      <category>Ron Arias</category>
-      <category>The Death of Friends</category>
-      <category>The King of Aloe Vera</category>
-      <category>The Mixquiahuala Letters</category>
-      <category>The Road to Tamazunchale</category>
-      <category>Tomas Moniz</category>
-      <category>Tomás Rivera</category>
-      <pubDate>Sun, 04 Oct 2026 09:07:47 +0000</pubDate>
-    </item>    <item>
-      <title>Sunday thought: What’s Up With Kansas?</title>
-      <link>https://robertreich.substack.com/p/sunday-thought-whats-the-matter-with</link>
-      <description>
-        <![CDATA[The power of kitchen-table economics]]>
-      </description>
-      <source:markdown>The power of kitchen-table economics</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!c6U-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9f1f026-e4f9-47cc-9a76-d67522cdde65_1600x1049.webp" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/sunday-thought-whats-the-matter-with</guid>
-      <pubDate>Sun, 04 Oct 2026 08:04:35 +0000</pubDate>
-    </item>    <item>
-      <title>October 3, 2026</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-3-2026</link>
-      <description>
-        <![CDATA[On Saturday, October 3, the Power to the People festival, organized by Rock & Roll Hall of Fame guitarist Tom Morello of Rage Against the Machine and Audioslave, took over the stage at the Merriweather Post Pavilion in Columbia, Maryland.]]>
-      </description>
-      <source:markdown>On Saturday, October 3, the Power to the People festival, organized by Rock &#38; Roll Hall of Fame guitarist Tom Morello of Rage Against the Machine and Audioslave, took over the stage at the Merriweather Post Pavilion in Columbia, Maryland.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!yKDv!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b47f775-3df7-41dd-8bc9-a64cdd72d948_600x600.png" length="0" type="image/jpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-3-2026</guid>
-      <pubDate>Sun, 04 Oct 2026 05:25:20 +0000</pubDate>
-    </item>    <item>
-      <title>Are the Republicans Toast?</title>
-      <link>https://www.borowitzreport.com/p/is-the-blue-wave-real</link>
-      <description>
-        <![CDATA[The Andy Borowitz Show]]>
-      </description>
-      <source:markdown>The Andy Borowitz Show</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/217857573/83e0b32a46b121830e9e85e14c810217.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://www.borowitzreport.com/p/is-the-blue-wave-real</guid>
-      <pubDate>Sun, 04 Oct 2026 04:02:24 +0000</pubDate>
-    </item>    <item>
-      <title>Bookmarks - llm, music, ai, knowledge</title>
-      <link>https://inkdroid.org/2026/10/04/bookmarks/</link>
-      <description>
-        <![CDATA[These are some things I’ve wandered across on the web this week.
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://bellard.org/ts_server/"> TextSynth
-        Server </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        ts_server is a web server proposing a REST API to large language models.
-        They can be used for example for text completion, question answering,
-        classification, chat, translation, image generation, audio
-        transcription, speech synthesis, …
-        </p>
-        (from the creator of ffmpeg)
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/api/">api</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://europeanreviewofbooks.com/the-spectacle-of-ai-taking-over-the-world/">
-        The Spectacle of AI taking over the world </a>
-        </h2>
-        <section class="p-summary">
-        A group of French scientists sees OpenAI unjustly claiming it has solved
-        the mathematical Navier-Stokes problem and sounds the alarm. A handful
-        of tech moguls are establishing a private monopoly over cognition and
-        knowledge.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/ai/">ai</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/knowledge/">knowledge</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/math/">math</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://tecnoscienza.unibo.it/article/view/18405">
-        Maintain-ability: On Life Alongside Computer Software </a>
-        </h2>
-        <section class="p-summary">
-        Software maintainers exercise considerable agency over the material in
-        their immediate care: code. However, in doing so they also find
-        themselves having to articulate dynamic, interdependent and hybrid
-        networks of relations which they are intimately entangled with, and
-        whose durability depends on the success of their ongoing, indeterminate
-        reconfiguration. Both the programmers and the software they maintain
-        must continuously navigate risks of breakage, burnout, bugs or falling
-        into obsolescence.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/maintenance/">maintenance</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/software/">software</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/sts/">sts</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://prismreports.org/2026/09/29/college-radio-stations-license-transfers/">
-        A free speech fight is playing out on college campuses where student
-        radio stations are disappearing </a>
-        </h2>
-        <section class="p-summary">
-        Eclectic, human-created radio programming is made possible not just
-        because of student devotion, but also because many campus stations house
-        irreplaceable collections of physical media. For example, Cleveland was
-        once considered the city with the second-largest Hungarian population
-        after Budapest, and WCSB was home to thousands of Hungarian records, a
-        culturally significant collection regularly played during the station’s
-        long-running “Hungarian Hour.”
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/radio/">radio</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://books-memorization.github.io/"> How
-        much do open-weight LLMs memorize specific books? </a>
-        </h2>
-        <section class="p-summary">
-        How much LLMs memorize their training data is a central question, both
-        for copyright lawsuits and for AI research more broadly. But most
-        technical work that measures memorization doesn’t address the questions
-        that matter most for copyright. It tends to measure memorization over
-        random samples of all the training data to estimate average memorization
-        rates, yet copyright is about specific works. So the copyright-relevant
-        question is: how much of a particular book has a particular LLM
-        memorized?
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/books/">books</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/copyright/">copyright</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://martinfowler.com/rachels-ramblings/code-review.html">
-        Maybe We Shouldn’t Be Reviewing All This Code </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        Perhaps that’s what AI is exposing. We’ve spent years loading an
-        extraordinary number of responsibilities onto the humble code review:
-        quality gate, security check, architecture review, mentoring mechanism,
-        knowledge-sharing system, ownership model.
-        </p>
-        It worked, sort of, while humans could only produce code so quickly.
-        That constraint is disappearing. So perhaps the question isn’t how we
-        get the code reviewed faster. Perhaps it’s why we’re waiting until code
-        review to have all the important conversations in the first place.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/management/">management</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/programming/">programming</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://github.com/Egonex-AI/Understand-Anything">
-        Understand-Anything </a>
-        </h2>
-        <section class="p-summary">
-        Understand Anything is a Claude Code Plugin that analyzes your project
-        with a multi-agent pipeline, builds a knowledge graph of every file,
-        function, class, and dependency, then gives you an interactive dashboard
-        to explore it all visually. Stop reading code blind. Start seeing the
-        big picture.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/design/">design</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/programming/">programming</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://github.com/Australian-Internet-Observatory/DDP-Schema-Library-and-Mapping-Toolkit">
-        Data Download Package Schema repository </a>
-        </h2>
-        <section class="p-summary">
-        This repository supports the article “Standardising Access to Digital
-        Platform Data: A Taxonomy for Social Research.” It provides guidelines,
-        platform-specific schemas, entity mappings aligned with the proposed
-        taxonomy, and example structures to help researchers access and use Data
-        Download Packages
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/data/">data</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/research/">research</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/social-media/">social-media</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://ploum.net/2026-10-01-pascal_wager.html">
-        The AI Pascal’s Wager </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        While mass marketing is trying to instil a Fear of Missing Out hysteria,
-        the most rational and pragmatic approach is to strongly reject all
-        AI-generated contributions to your projects. For now.
-        </p>
-        Someday, we might realise that LLMs are doing good in the world, that
-        they are evolving toward ethical, reliable, sustainable solutions, and
-        that people who use them are happier (try to read that sentence again
-        without rolling your eyes). If that really happens, you could always
-        change your AI policy. It will cost you nothing.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/ai/">ai</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/opensource/">opensource</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/philosophy/">philosophy</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://www.nts.live/shows/david-holmes">
-        God’s Waiting Room w/ David Holmes </a>
-        </h2>
-        <section class="p-summary">
-        God’s Waiting Room: a round-about selection of the cinematic, library
-        music, rock ‘n’ roll, psych, experimental, unclassifiable and
-        independent. From the mind of DJ, producer and creator of original
-        soundtracks, David Holmes.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/music/">music</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/radio/">radio</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://en.wikipedia.org/wiki/Nuraghe">
-        Nuraghe </a>
-        </h2>
-        <section class="p-summary">
-        The nuraghe, or nurhag, is the main type of ancient megalithic edifice
-        found in Sardinia, Italy, developed during the Nuragic Age between 1900
-        and 730 BC. Today it has come to be the symbol of Sardinia and its
-        distinctive culture known as the Nuragic civilization. More than 7,000
-        nuraghes have been found, though archeologists believe that originally
-        there were more than 10,000.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/archeology/">archeology</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/architecture/">architecture</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/stones/">stones</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://heads.social/@livetapes"> LiveTapes
-        </a>
-        </h2>
-        <section class="p-summary">
-        Automated feed with new posts from live music &amp; unusual recording
-        repositories to accompany <span class="citation"
-        data-cites="LiveMusicArchiveUpdates">(<a
-        href="#ref-LiveMusicArchiveUpdates"
-        role="doc-biblioref"><strong>LiveMusicArchiveUpdates?</strong></a>)</span>,
-        instigated by <span class="citation" data-cites="bourgwick">(<a
-        href="#ref-bourgwick"
-        role="doc-biblioref"><strong>bourgwick?</strong></a>)</span>, operated
-        via MastoFeed.
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/audio/">audio</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/mastodon/">mastodon</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/music/">music</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖 <a class="h-name" href="https://www.youtube.com/watch?v=h4qYh-Ejt1w">
-        Grouper @ Buenos Aires | Casal de Catalunya, Teatro Margarita Xirgu |
-        26-09-2026 </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        Grouper Casal de Catalunya Teatro Margarita Xirgu Buenos Aires, Barrio
-        de San Telmo 26-09-2026
-        </p>
-        00:00 04:14 Invisible 04:15 08:44 I’m Clean Now 08:45 11:32 Introduction
-        Headache 11:33 17:01 Headache
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/music/">music</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/videos/">videos</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://wiser.wits.ac.za/system/files/Achille%20Mbembe%20-%20Decolonizing%20Knowledge%20and%20the%20Question%20of%20the%20Archive.pdf">
-        Decolonizing Knowledge and the Question of the Archive </a>
-        </h2>
-        <section class="p-summary">
-        By Achille Mbembe
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/colonialism/">colonialism</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/knowledge/">knowledge</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/philosophy/">philosophy</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/politics/">politics</a>
-        </p>
-        </article>
-        <article class="bookmark h-entry">
-        <h2>
-        🔖
-        <a class="h-name" href="https://www.privatemode.ai/blog/system-one-from-glm-flash">
-        Turn GLM-5.3-Flash into a Jev-like System One model </a>
-        </h2>
-        <section class="p-summary">
-        <p>
-        TL;DR: In this post, we show how an off-the-shelf LLM can make typed
-        decisions in a single forward pass. This approach makes it possible to
-        turn an LLM into a Jev-like decision model.
-        </p>
-        <p>
-        We evaluate the approach using GLM-5.3-Flash running on Privatemode.
-        Using a benchmark constructed from public data sets, we show that this
-        setup delivers results that are on par with TypeSafe’s Jev in terms of
-        decision accuracy/correctness and speed.
-        </p>
-        As a bonus, the setup with GLM-5.3-Flash enables typed decisions on
-        images, which is not possible with Jev
-        </section>
-        <p class="tags">
-        <a rel="tag" class="tag label label-default p-category" href="/tag/json/">json</a>
-        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
-        </p>
-        </article>]]>
-      </description>
-      <source:markdown>These are some things I’ve wandered across on the web this week.
-
-## 🔖 [TextSynth\ Server](https://bellard.org/ts_server/)
-
-ts\_server is a web server proposing a REST API to large language models.
-They can be used for example for text completion, question answering,
-classification, chat, translation, image generation, audio
-transcription, speech synthesis, …
-
-(from the creator of ffmpeg)
-
-[api](/tag/api/) [llm](/tag/llm/)
-
-## 🔖 [The Spectacle of AI taking over the world](https://europeanreviewofbooks.com/the-spectacle-of-ai-taking-over-the-world/)
-
-A group of French scientists sees OpenAI unjustly claiming it has solved
-the mathematical Navier-Stokes problem and sounds the alarm. A handful
-of tech moguls are establishing a private monopoly over cognition and
-knowledge.
-
-[ai](/tag/ai/) [knowledge](/tag/knowledge/) [math](/tag/math/)
-
-## 🔖 [Maintain-ability: On Life Alongside Computer Software](https://tecnoscienza.unibo.it/article/view/18405)
-
-Software maintainers exercise considerable agency over the material in
-their immediate care: code. However, in doing so they also find
-themselves having to articulate dynamic, interdependent and hybrid
-networks of relations which they are intimately entangled with, and
-whose durability depends on the success of their ongoing, indeterminate
-reconfiguration. Both the programmers and the software they maintain
-must continuously navigate risks of breakage, burnout, bugs or falling
-into obsolescence.
-
-[maintenance](/tag/maintenance/) [software](/tag/software/) [sts](/tag/sts/)
-
-## 🔖 [A free speech fight is playing out on college campuses where student\ radio stations are disappearing](https://prismreports.org/2026/09/29/college-radio-stations-license-transfers/)
-
-Eclectic, human-created radio programming is made possible not just
-because of student devotion, but also because many campus stations house
-irreplaceable collections of physical media. For example, Cleveland was
-once considered the city with the second-largest Hungarian population
-after Budapest, and WCSB was home to thousands of Hungarian records, a
-culturally significant collection regularly played during the station’s
-long-running “Hungarian Hour.”
-
-[radio](/tag/radio/)
-
-## 🔖 [How\ much do open-weight LLMs memorize specific books?](https://books-memorization.github.io/)
-
-How much LLMs memorize their training data is a central question, both
-for copyright lawsuits and for AI research more broadly. But most
-technical work that measures memorization doesn’t address the questions
-that matter most for copyright. It tends to measure memorization over
-random samples of all the training data to estimate average memorization
-rates, yet copyright is about specific works. So the copyright-relevant
-question is: how much of a particular book has a particular LLM
-memorized?
-
-[books](/tag/books/) [copyright](/tag/copyright/) [llm](/tag/llm/)
-
-## 🔖 [Maybe We Shouldn’t Be Reviewing All This Code](https://martinfowler.com/rachels-ramblings/code-review.html)
-
-Perhaps that’s what AI is exposing. We’ve spent years loading an
-extraordinary number of responsibilities onto the humble code review:
-quality gate, security check, architecture review, mentoring mechanism,
-knowledge-sharing system, ownership model.
-
-It worked, sort of, while humans could only produce code so quickly.
-That constraint is disappearing. So perhaps the question isn’t how we
-get the code reviewed faster. Perhaps it’s why we’re waiting until code
-review to have all the important conversations in the first place.
-
-[llm](/tag/llm/) [management](/tag/management/) [programming](/tag/programming/)
-
-## 🔖 [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
-
-Understand Anything is a Claude Code Plugin that analyzes your project
-with a multi-agent pipeline, builds a knowledge graph of every file,
-function, class, and dependency, then gives you an interactive dashboard
-to explore it all visually. Stop reading code blind. Start seeing the
-big picture.
-
-[design](/tag/design/) [llm](/tag/llm/) [programming](/tag/programming/)
-
-## 🔖 [Data Download Package Schema repository](https://github.com/Australian-Internet-Observatory/DDP-Schema-Library-and-Mapping-Toolkit)
-
-This repository supports the article “Standardising Access to Digital
-Platform Data: A Taxonomy for Social Research.” It provides guidelines,
-platform-specific schemas, entity mappings aligned with the proposed
-taxonomy, and example structures to help researchers access and use Data
-Download Packages
-
-[data](/tag/data/) [research](/tag/research/) [social-media](/tag/social-media/)
-
-## 🔖 [The AI Pascal’s Wager](https://ploum.net/2026-10-01-pascal_wager.html)
-
-While mass marketing is trying to instil a Fear of Missing Out hysteria,
-the most rational and pragmatic approach is to strongly reject all
-AI-generated contributions to your projects. For now.
-
-Someday, we might realise that LLMs are doing good in the world, that
-they are evolving toward ethical, reliable, sustainable solutions, and
-that people who use them are happier (try to read that sentence again
-without rolling your eyes). If that really happens, you could always
-change your AI policy. It will cost you nothing.
-
-[ai](/tag/ai/) [opensource](/tag/opensource/) [philosophy](/tag/philosophy/)
-
-## 🔖 [God’s Waiting Room w/ David Holmes](https://www.nts.live/shows/david-holmes)
-
-God’s Waiting Room: a round-about selection of the cinematic, library
-music, rock ‘n’ roll, psych, experimental, unclassifiable and
-independent. From the mind of DJ, producer and creator of original
-soundtracks, David Holmes.
-
-[music](/tag/music/) [radio](/tag/radio/)
-
-## 🔖 [Nuraghe](https://en.wikipedia.org/wiki/Nuraghe)
-
-The nuraghe, or nurhag, is the main type of ancient megalithic edifice
-found in Sardinia, Italy, developed during the Nuragic Age between 1900
-and 730 BC. Today it has come to be the symbol of Sardinia and its
-distinctive culture known as the Nuragic civilization. More than 7,000
-nuraghes have been found, though archeologists believe that originally
-there were more than 10,000.
-
-[archeology](/tag/archeology/) [architecture](/tag/architecture/) [stones](/tag/stones/)
-
-## 🔖 [LiveTapes](https://heads.social/@livetapes)
-
-Automated feed with new posts from live music &#38; unusual recording
-repositories to accompany ( [**LiveMusicArchiveUpdates?**](#ref-LiveMusicArchiveUpdates)),
-instigated by ( [**bourgwick?**](#ref-bourgwick)), operated
-via MastoFeed.
-
-[audio](/tag/audio/) [mastodon](/tag/mastodon/) [music](/tag/music/)
-
-## 🔖 [Grouper @ Buenos Aires \| Casal de Catalunya, Teatro Margarita Xirgu \|\ 26-09-2026](https://www.youtube.com/watch?v=h4qYh-Ejt1w)
-
-Grouper Casal de Catalunya Teatro Margarita Xirgu Buenos Aires, Barrio
-de San Telmo 26-09-2026
-
-00:00 04:14 Invisible 04:15 08:44 I’m Clean Now 08:45 11:32 Introduction
-Headache 11:33 17:01 Headache
-
-[music](/tag/music/) [videos](/tag/videos/)
-
-## 🔖 [Decolonizing Knowledge and the Question of the Archive](https://wiser.wits.ac.za/system/files/Achille%20Mbembe%20-%20Decolonizing%20Knowledge%20and%20the%20Question%20of%20the%20Archive.pdf)
-
-By Achille Mbembe
-
-[colonialism](/tag/colonialism/) [knowledge](/tag/knowledge/) [philosophy](/tag/philosophy/) [politics](/tag/politics/)
-
-## 🔖 [Turn GLM-5.3-Flash into a Jev-like System One model](https://www.privatemode.ai/blog/system-one-from-glm-flash)
-
-TL;DR: In this post, we show how an off-the-shelf LLM can make typed
-decisions in a single forward pass. This approach makes it possible to
-turn an LLM into a Jev-like decision model.
-
-We evaluate the approach using GLM-5.3-Flash running on Privatemode.
-Using a benchmark constructed from public data sets, we show that this
-setup delivers results that are on par with TypeSafe’s Jev in terms of
-decision accuracy/correctness and speed.
-
-As a bonus, the setup with GLM-5.3-Flash enables typed decisions on
-images, which is not possible with Jev
-
-[json](/tag/json/) [llm](/tag/llm/)</source:markdown>
-      <guid>cid://https://inkdroid.org/2026/10/04/bookmarks/</guid>
-      <category>ai</category>
-      <category>api</category>
-      <category>archeology</category>
-      <category>architecture</category>
-      <category>audio</category>
-      <category>bookmarks</category>
-      <category>books</category>
-      <category>colonialism</category>
-      <category>copyright</category>
-      <category>data</category>
-      <category>design</category>
-      <category>json</category>
-      <category>knowledge</category>
-      <category>llm</category>
-      <category>maintenance</category>
-      <category>management</category>
-      <category>mastodon</category>
-      <category>math</category>
-      <category>music</category>
-      <category>opensource</category>
-      <category>philosophy</category>
-      <category>politics</category>
-      <category>programming</category>
-      <category>radio</category>
-      <category>research</category>
-      <category>social-media</category>
-      <category>software</category>
-      <category>stones</category>
-      <category>sts</category>
-      <category>videos</category>
-      <pubDate>Sun, 04 Oct 2026 04:00:00 +0000</pubDate>
-    </item>    <item>
-      <link>https://tilde.zone/@tomasino/117380504802016295</link>
-      <description>
-        <![CDATA[<p>checking out jrnl. Kinda neat! <a href="https://jrnl.sh" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">jrnl.sh</span><span class="invisible"></span></a></p>]]>
-      </description>
-      <source:markdown>checking out jrnl. Kinda neat! [https://jrnl.sh](https://jrnl.sh)</source:markdown>
-      <guid>cid://https://tilde.zone/@tomasino/117380504802016295</guid>
-      <pubDate>Sun, 04 Oct 2026 03:26:02 +0000</pubDate>
-    </item>    <item>
-      <title>Dragoncatcher: Ask for: a variable font explorer</title>
-      <link>https://www.robinsloan.com/lab/ask-variable-font-test/</link>
-      <description>
-        <![CDATA[<p>From the annals of asking for what you want. <a href="https://www.robinsloan.com/lab/ask-variable-font-test/">Read here.</a></p>]]>
-      </description>
-      <source:markdown>From the annals of asking for what you want. [Read here.](https://www.robinsloan.com/lab/ask-variable-font-test/)</source:markdown>
-      <guid>cid://https://www.robinsloan.com/lab/ask-variable-font-test/</guid>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
