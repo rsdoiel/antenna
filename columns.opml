@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>26 Oct 26 06:43 -0700</dateCreated>
+        <dateCreated>27 Oct 26 06:45 -0700</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -163,7 +163,7 @@
         <outline text="Ivan Enderlin&#39;s Medium Wasmer announcements" type="rss" xmlUrl="https://medium.com/feed/@hywan" htmlUrl="https://medium.com/@hywan?source=rss-d1a15a1c8914------2,https://medium.com/@hywan/feed" description="Stories by Ivan Enderlin on Medium" url="https://medium.com/@hywan/feed"></outline>
         <outline text="Ivan Penchev blog" type="atom" xmlUrl="https://penchev.com/feed.xml" htmlUrl="https://penchev.com/feed.xml,https://penchev.com/" description="Ivan Penchev (Иван Пенчев) Software Engineer, thoughts and aspirations about code." url="https://penchev.com/feed.xml"></outline>
         <outline text="Iván Paredes Reséndiz blog, Mexico&#39;s cinema" type="rss" xmlUrl="https://www.palomitademaiz.net/feed/" htmlUrl="https://www.palomitademaiz.net/,https://www.palomitademaiz.net/feed/" description="- Sitio independiente de cine y TV." url="https://www.palomitademaiz.net/feed/"></outline>
-        <outline text="J. Bittner&#39;s Substack" type="rss" xmlUrl="https://semanticallyspeaking.substack.com/feed" htmlUrl="https://semanticallyspeaking.substack.com,https://semanticallyspeaking.substack.com/feed" description="My personal Substack" url="https://semanticallyspeaking.substack.com/feed"></outline>
+        <outline text="J. Bittner&#39;s Substack" type="rss" xmlUrl="https://semanticallyspeaking.substack.com/feed" htmlUrl="https://semanticallyspeaking.substack.com,https://semanticallyspeaking.substack.com/feed" description="Formal ontology, enterprise data, and AI governance for people deciding what systems mean and which actions they may take." url="https://semanticallyspeaking.substack.com/feed"></outline>
         <outline text="JCharisTech Innovations and Inspirations" type="rss" xmlUrl="https://jcharistech.wordpress.com/feed/" htmlUrl="https://jcharistech.wordpress.com,https://jcharistech.wordpress.com/feed/" description="Innovations and Inspirations" url="https://jcharistech.wordpress.com/feed/"></outline>
         <outline text="JSON Feed blog" type="rss" xmlUrl="https://www.jsonfeed.org/feed.xml" htmlUrl="https://www.jsonfeed.org/"></outline>
         <outline text="James Bottomley&#39;s blog" type="rss" xmlUrl="https://blog.hansenpartnership.com/feed/" htmlUrl="https://blog.hansenpartnership.com,https://blog.hansenpartnership.com/feed/" description="A collection of information" url="https://blog.hansenpartnership.com/feed/"></outline>

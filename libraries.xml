@@ -4,10 +4,123 @@
   <channel>
     <title><![CDATA[GLAM]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>26 Oct 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>27 Oct 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A Behind-the-Scenes Look at the Physical Archive</title>
+      <link>https://blog.archive.org/2026/10/27/behind-the-scenes-physical-archive/</link>
+      <description>
+        <![CDATA[<p>Visitors who came to the open house at the Physical Archive in Richmond, California, on October 20 were curious. They wanted to learn about the range of items collected, the [&#8230;]</p>
+        <p>The post <a href="https://blog.archive.org/2026/10/27/behind-the-scenes-physical-archive/">A Behind-the-Scenes Look at the Physical Archive</a> first appeared on <a href="https://blog.archive.org">Internet Archive Blogs</a>.</p>]]>
+      </description>
+      <source:markdown>Visitors who came to the open house at the Physical Archive in Richmond, California, on October 20 were curious. They wanted to learn about the range of items collected, the \[…\]
+
+The post [A Behind-the-Scenes Look at the Physical Archive](https://blog.archive.org/2026/10/27/behind-the-scenes-physical-archive/) first appeared on [Internet Archive Blogs](https://blog.archive.org).</source:markdown>
+      <guid>cid://https://blog.archive.org/?p=31088</guid>
+      <category>Announcements</category>
+      <category>Event</category>
+      <category>celebration</category>
+      <category>Physical Archive</category>
+      <pubDate>Tue, 27 Oct 2026 11:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>Who Keeps the Catalog of Connectors? The Coming MCP Discovery Problem</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/10/27/mcp-discovery/</link>
+      <description>
+        <![CDATA[<p>Libraries and their vendor partners can build registries and metadata feeds that make MCP connectors for scholarly content findable, accessible,  and usable.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/10/27/mcp-discovery/">Who Keeps the Catalog of Connectors? The Coming MCP Discovery Problem</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>Libraries and their vendor partners can build registries and metadata feeds that make MCP connectors for scholarly content findable, accessible, and usable.
+
+The post [Who Keeps the Catalog of Connectors? The Coming MCP Discovery Problem](https://scholarlykitchen.sspnet.org/2026/10/27/mcp-discovery/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63142</guid>
+      <category>Artificial Intelligence</category>
+      <category>Discovery</category>
+      <category>Research</category>
+      <category>Technology</category>
+      <category>Tools</category>
+      <category>agentic discovery</category>
+      <category>AI</category>
+      <category>AI discovery</category>
+      <category>artificial intellgence</category>
+      <category>content discovery</category>
+      <category>discovery</category>
+      <category>mcp</category>
+      <pubDate>Tue, 27 Oct 2026 09:30:06 +0000</pubDate>
+    </item>    <item>
+      <title>Digital Preservation Exit Strategy: How to Avoid Vendor Lock-In</title>
+      <link>https://libnova.com/digital-preservation-exit-strategy/</link>
+      <description>
+        <![CDATA[<p>Digital preservation is a long-term commitment. Institutions need to ensure that their digital collections remain accessible, authentic, and usable as technologies, systems, and organizational needs evolve. But what happens when an institution needs to change its digital preservation platform or service provider? A digital preservation exit strategy defines how an institution can retrieve its digital [&#8230;]</p>
+        <p>The post <a rel="nofollow" href="https://libnova.com/digital-preservation-exit-strategy/">Digital Preservation Exit Strategy: How to Avoid Vendor Lock-In</a> appeared first on <a rel="nofollow" href="https://libnova.com">LIBNOVA</a>.</p>]]>
+      </description>
+      <source:markdown>Digital preservation is a long-term commitment. Institutions need to ensure that their digital collections remain accessible, authentic, and usable as technologies, systems, and organizational needs evolve. But what happens when an institution needs to change its digital preservation platform or service provider? A digital preservation exit strategy defines how an institution can retrieve its digital \[…\]
+
+The post [Digital Preservation Exit Strategy: How to Avoid Vendor Lock-In](https://libnova.com/digital-preservation-exit-strategy/) appeared first on [LIBNOVA](https://libnova.com).</source:markdown>
+      <guid>cid://https://libnova.com/?p=14493</guid>
+      <category>Best practices</category>
+      <category>Digital Preservation</category>
+      <category>Digital Preservation Community</category>
+      <category>exit strategy</category>
+      <category>Tips</category>
+      <category>vendor lock-in</category>
+      <pubDate>Tue, 27 Oct 2026 07:55:30 +0000</pubDate>
+    </item>    <item>
+      <title>ARL Daily Intelligence (October 26–29)</title>
+      <link>https://www.arl.org/daily-intelligence/arl-daily-intelligence-october-26-29/</link>
+      <description>
+        <![CDATA[<p>Last Updated on October 26, 2026, 5:06 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...</p>
+        <p>The post <a href="https://www.arl.org/daily-intelligence/arl-daily-intelligence-october-26-29/">ARL Daily Intelligence (October 26–29)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <source:markdown>Last Updated on October 26, 2026, 5:06 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+
+The post [ARL Daily Intelligence (October 26–29)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-october-26-29/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
+      <guid>cid://https://www.arl.org/?p=50344</guid>
+      <category>ARL Daily Intelligence</category>
+      <pubDate>Mon, 26 Oct 2026 20:58:20 +0000</pubDate>
+    </item>    <item>
+      <title>AI Sandbox Series: The Embedded Catalog</title>
+      <link>https://blogs.loc.gov/thesignal/2026/10/ai-sandbox-series-embedded-catalog/</link>
+      <description>
+        <![CDATA[This post was written by Matthew Miller, a Linked Data Applications Technical Specialist in Discovery and Preservation Services at the Library of Congress. We are excited to share this post in our ongoing series about the Library of Congress Artificial Intelligence (AI) Sandbox for staff. Posts in the series will feature details about experiments in text recognition and searchability, metadata and bibliographic record enhancement, and more. A previous post introduced the initiative’s goals and an overview of the types of experiments conducted so far.]]>
+      </description>
+      <source:markdown>This post was written by Matthew Miller, a Linked Data Applications Technical Specialist in Discovery and Preservation Services at the Library of Congress. We are excited to share this post in our ongoing series about the Library of Congress Artificial Intelligence (AI) Sandbox for staff. Posts in the series will feature details about experiments in text recognition and searchability, metadata and bibliographic record enhancement, and more. A previous post introduced the initiative’s goals and an overview of the types of experiments conducted so far.</source:markdown>
+      <guid>cid://https://blogs.loc.gov/thesignal/?p=38571</guid>
+      <category>Artificial Intelligence</category>
+      <category>Digital Content</category>
+      <category>Guest Posts</category>
+      <pubDate>Mon, 26 Oct 2026 17:41:42 +0000</pubDate>
+    </item>    <item>
+      <title>Balancing Affordability and Access within Textbook Affordability Models</title>
+      <link>https://sr.ithaka.org/blog/balancing-affordability-and-access-within-textbook-affordability-models/</link>
+      <description>
+        <![CDATA[<p>We’re pleased to announce the publication of the first of two reports resulting from new research to analyze, pilot, and evaluate affordable course material models. This project, conducted with funding from ECMC Foundation, provides us with the opportunity to document how course affordability programs are working in practice and understand the support they need to thrive. </p>
+        <p>The post <a href="https://sr.ithaka.org/blog/balancing-affordability-and-access-within-textbook-affordability-models/">Balancing Affordability and Access within Textbook Affordability Models</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
+      </description>
+      <source:markdown>We’re pleased to announce the publication of the first of two reports resulting from new research to analyze, pilot, and evaluate affordable course material models. This project, conducted with funding from ECMC Foundation, provides us with the opportunity to document how course affordability programs are working in practice and understand the support they need to thrive.
+
+The post [Balancing Affordability and Access within Textbook Affordability Models](https://sr.ithaka.org/blog/balancing-affordability-and-access-within-textbook-affordability-models/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
+      <guid>cid://https://sr.ithaka.org/?p=326574</guid>
+      <category>Affordability</category>
+      <category>Teaching and learning</category>
+      <category>OER</category>
+      <category>Open educational resources</category>
+      <category>Textbooks</category>
+      <pubDate>Mon, 26 Oct 2026 15:41:54 +0000</pubDate>
+    </item>    <item>
+      <title>Fall 2026</title>
+      <link>https://www.arl.org/our-priorities/scholars-scholarship/arl-monitor/fall-2026/</link>
+      <description>
+        <![CDATA[<p>Last Updated on October 26, 2026, 11:38 am ET ARL Monitor: Public Edition (Fall 2026) In the Government Affairs section of this issue, once-threatened grants to US research libraries resume...</p>
+        <p>The post <a href="https://www.arl.org/our-priorities/scholars-scholarship/arl-monitor/fall-2026/">Fall 2026</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <source:markdown>Last Updated on October 26, 2026, 11:38 am ET ARL Monitor: Public Edition (Fall 2026) In the Government Affairs section of this issue, once-threatened grants to US research libraries resume...
+
+The post [Fall 2026](https://www.arl.org/our-priorities/scholars-scholarship/arl-monitor/fall-2026/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
+      <guid>cid://https://www.arl.org/?p=50334</guid>
+      <category>ARL Monitor</category>
+      <pubDate>Mon, 26 Oct 2026 15:38:13 +0000</pubDate>
+    </item>    <item>
       <title>Company News: Springer Nature and Google DeepMind Announcing a  Research Partnership to Co-Design an AI Peer Review Assistant</title>
       <link>https://www.infodocket.com/2026/10/26/company-news-springer-nature-and-google-deepmind-announcing-a-research-partnership-to-co-design-an-ai-peer-review-assistant/</link>
       <description>
@@ -1460,75 +1573,6 @@ Crossref holds over 180 mln records contributed by more that 25,000 member organ
 6. Rittman, M., &#38; Montilla, L. (2025). Announcing changes to REST API rate limits. Crossref. [https://doi.org/10.64000/wadve-3tj60](https://doi.org/10.64000/wadve-3tj60) [↩︎](#fnref:6)</source:markdown>
       <guid>cid://https://www.crossref.org/blog/how-grobid-uses-crossref-metadata-to-enrich-bibliographic-information/</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>New Data: PEN America Tracks Record School Book Bans (12,000) For a Single Year; Record Number of Unique Book Titles, at 7,000, Were Banned, as New State Laws, Artificial Intelligence, and Political Pressure Drives Censorship in Schools</title>
-      <link>https://www.infodocket.com/2026/10/05/new-data-pen-america-tracks-record-school-book-bans-12000-for-a-single-year-record-number-of-unique-book-titles-at-7000-were-banned-as-new-state-laws-artificial-intelligence-and-political-p/</link>
-      <description>
-        <![CDATA[<p>From PEN America: PEN America today reported nearly 12,000 book bans in public schools nationwide during the 2025-2026 school year—the largest number in a single year. New state censorship laws accounted for much of the increase, coupled with the use of artificial intelligence to remove books en masse including popular manga series and other graphic [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/10/05/new-data-pen-america-tracks-record-school-book-bans-12000-for-a-single-year-record-number-of-unique-book-titles-at-7000-were-banned-as-new-state-laws-artificial-intelligence-and-political-p/">New Data: PEN America Tracks Record School Book Bans (12,000) For a Single Year; Record Number of Unique Book Titles, at 7,000, Were Banned, as New State Laws, Artificial Intelligence, and Political Pressure Drives Censorship in Schools</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>From PEN America: PEN America today reported nearly 12,000 book bans in public schools nationwide during the 2025-2026 school year—the largest number in a single year. New state censorship laws accounted for much of the increase, coupled with the use of artificial intelligence to remove books en masse including popular manga series and other graphic \[…\]
-
-The post [New Data: PEN America Tracks Record School Book Bans (12,000) For a Single Year; Record Number of Unique Book Titles, at 7,000, Were Banned, as New State Laws, Artificial Intelligence, and Political Pressure Drives Censorship in Schools](https://www.infodocket.com/2026/10/05/new-data-pen-america-tracks-record-school-book-bans-12000-for-a-single-year-record-number-of-unique-book-titles-at-7000-were-banned-as-new-state-laws-artificial-intelligence-and-political-p/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=168992</guid>
-      <category>Awards</category>
-      <category>Data Files</category>
-      <category>News</category>
-      <pubDate>Mon, 05 Oct 2026 12:31:00 +0000</pubDate>
-    </item>    <item>
-      <title>Internet Archive to Honor Poynter Institute and Investigative Reporters and Editors with 2026 Hero Award for Preserving Local News Online</title>
-      <link>https://blog.archive.org/2026/10/05/internet-archive-to-honor-poynter-institute-and-investigative-reporters-and-editors-with-2026-hero-award-for-preserving-local-news-online/</link>
-      <description>
-        <![CDATA[<p>The Internet Archive is proud to announce that the Poynter Institute and Investigative Reporters and Editors (IRE) will receive the 2026 Internet Archive Hero Award for their leadership in preserving [&#8230;]</p>
-        <p>The post <a href="https://blog.archive.org/2026/10/05/internet-archive-to-honor-poynter-institute-and-investigative-reporters-and-editors-with-2026-hero-award-for-preserving-local-news-online/">Internet Archive to Honor Poynter Institute and Investigative Reporters and Editors with 2026 Hero Award for Preserving Local News Online</a> first appeared on <a href="https://blog.archive.org">Internet Archive Blogs</a>.</p>]]>
-      </description>
-      <source:markdown>The Internet Archive is proud to announce that the Poynter Institute and Investigative Reporters and Editors (IRE) will receive the 2026 Internet Archive Hero Award for their leadership in preserving \[…\]
-
-The post [Internet Archive to Honor Poynter Institute and Investigative Reporters and Editors with 2026 Hero Award for Preserving Local News Online](https://blog.archive.org/2026/10/05/internet-archive-to-honor-poynter-institute-and-investigative-reporters-and-editors-with-2026-hero-award-for-preserving-local-news-online/) first appeared on [Internet Archive Blogs](https://blog.archive.org).</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=31016</guid>
-      <category>Announcements</category>
-      <category>Event</category>
-      <category>News</category>
-      <category>hero award</category>
-      <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>The 2026 State of Open Infrastructure report: Running to stay in place</title>
-      <link>https://investinopen.org/blog/the-2026-state-of-open-infrastructure-report-running-to-stay-in-place/</link>
-      <description>
-        <![CDATA[Insights on open infrastructure funding trends and emergent issues in scholarly communication]]>
-      </description>
-      <source:markdown>Insights on open infrastructure funding trends and emergent issues in scholarly communication</source:markdown>
-      <guid>cid://6ac3500f19ee5f000115d957</guid>
-      <category>Blog</category>
-      <pubDate>Mon, 05 Oct 2026 11:50:11 +0000</pubDate>
-    </item>    <item>
-      <title>The Representation Is Not the Scholarship</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/10/05/the-representation-is-not-the-scholarship/</link>
-      <description>
-        <![CDATA[<p>The problem with AI may not be that machines are growing more intelligent. It may be that we are becoming increasingly skilled at amplifying a highly capable, but limited form of cognition.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/10/05/the-representation-is-not-the-scholarship/">The Representation Is Not the Scholarship</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>The problem with AI may not be that machines are growing more intelligent. It may be that we are becoming increasingly skilled at amplifying a highly capable, but limited form of cognition.
-
-The post [The Representation Is Not the Scholarship](https://scholarlykitchen.sspnet.org/2026/10/05/the-representation-is-not-the-scholarship/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62948</guid>
-      <category>Artificial Intelligence</category>
-      <category>Authority</category>
-      <category>Innovation</category>
-      <category>Research</category>
-      <category>Technology</category>
-      <category>Tools</category>
-      <category>AI</category>
-      <category>AI governance</category>
-      <category>AI limitations</category>
-      <category>AI risks</category>
-      <category>Artificial intelligence</category>
-      <category>cognition</category>
-      <category>humility</category>
-      <category>the map is not the territory</category>
-      <category>thinking</category>
-      <category>thought</category>
-      <pubDate>Mon, 05 Oct 2026 09:30:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

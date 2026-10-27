@@ -4,10 +4,28 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>26 Oct 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>27 Oct 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Archive Edition 28:04 reviewed</title>
+      <link>http://www.iconbar.com/comments/rss/news2414.html</link>
+      <description>
+        <![CDATA[Archive Magazine 28:4 (Oct/Nov 2026) was published to coincide with the London Show. If you were there you could receive your copy in person from the editor.]]>
+      </description>
+      <source:markdown>Archive Magazine 28:4 (Oct/Nov 2026) was published to coincide with the London Show. If you were there you could receive your copy in person from the editor.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2414.html</guid>
+      <pubDate>Tue, 27 Oct 2026 06:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>b.log 2026/10/26 - We were warned.</title>
+      <link>https://heyrick.eu/blog/entry/20261026</link>
+      <description>
+        <![CDATA[We were warned.]]>
+      </description>
+      <source:markdown>We were warned.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20261026</guid>
+      <pubDate>Mon, 26 Oct 2026 18:30:09 +0000</pubDate>
+    </item>    <item>
       <title>b.log 2026/10/25 - The problem with the GPL, An example of why copyright matters, As for me, Footnote.</title>
       <link>https://heyrick.eu/blog/entry/20261025</link>
       <description>
@@ -159,7 +177,7 @@
         <p>
         The numbers are fixed indexes into NVRAM since this is just a hack, but in order are <tt>input-device</tt>, <tt>output-device</tt>, <tt>use-nvramrc?</tt> and <tt>nvramrc</tt> itself. This simple nvramrc patches up the Ethernet to work correctly with the Mac OS <tt>Apple Enet</tt> <tt>INIT</tt>. Prior Macintoshes with Ethernet, including first generation NuBus Power Macs like the <a href="/2026/08/mklinux-and-pimped-out-apple-workgroup.html">Workgroup Server 9150</a>, had a single Ethernet AAUI port, but AAUI was expensive and unpopular and as the industry moved to twisted-pair Apple offered both an 8P8C ("RJ-45") and AAUI port starting with the 9500 &mdash; but still using just the single MACE, so only one port was active at a time. For as yet unexplained reasons, the ANS went back to a single AAUI port with no 8P8C/"RJ-45" despite being an evolution of the same platform base.
         <p>
-        This means the MACE is connected directly to the (A)AUI port in the ANS, whereas in machines like the 7300, 7500, 8600, 9500, etc., it switches between the AAUI (equivalent to AUI) or an internal MAU to provide the link over twisted-pair. The MACE embedded in CURIO has a register called PLSCC, or the Physical Layer Signaling Configuration Control, which determines which network port is active. In dual-ported machines, the PLSCC value should be 7 (which includes the $01 enable bit), which corresponds to the "General Purpose Serial Interface" to the circuitry where the signal is routed. In the ANS, however, this value should 1, which specifies a direct AUI connection.
+        This means the MACE is connected directly to the (A)AUI port in the ANS, whereas in machines like the 7300, 7500, 8600, 9500, etc., it switches between the AAUI (equivalent to AUI) or an internal MAU to provide the link over twisted-pair. The MACE embedded in CURIO has a register called PLSCC, or the Physical Layer Signaling Configuration Control, which determines which network port is active. In dual-ported machines, the PLSCC value should be 7 (which includes the $01 enable bit), which corresponds to the "General Purpose Serial Interface" to the circuitry where the signal is routed. In the ANS, however, this value should be 1, which specifies a direct AUI connection.
         <p>
         The ANS Mac OS ROM internally and explicitly specifies a property <tt>PLSCCPort</tt> on <tt>/bandit/gc/mace</tt> with that value of <tt>1</tt>. @joevt gets credit here (a) for  discovering that the Apple Enet <tt>INIT</tt> looks for and if specified uses this property as an override, relying on a platform default if not, and (b) for the magic incantation required to make this property stick when placed in the <tt>nvramrc</tt>. Since the ANS looks like a Power Mac 9500 to Mac OS, this value must be provided before Apple Enet runs, so since it's not in the 1.1.20.1 ROM we'll provide it ourselves in Open Firmware before the operating system even starts.
         <p>
@@ -267,7 +285,7 @@
         <p>
         <ul><li>Get the internal SCSI bays working, which may require us to create a modified ROM and put the <tt>ndrv</tt> there with the proper node name. However, one other possibility is by installing a MacOS-bootable SCSI PCI card. The Shiner logic board has 68-pin connectors on the logic board that directly feed into the two front SCSI busses (bus 0 controls the top four trays and bus 1 controls the bottom three and the 700's rear two). These connectors were intended for the ANS PCI RAID card, but I don't see why we couldn't just connect a regular controller there as long as we change its SCSI ID to not conflict with the 53C825, which should be possible on Adaptec cards with the PowerDomain Control <tt>CDEV</tt>. I intend to do some experimentation with that, including finding an optimum card which is Mac-bootable (or flashable to same) and supports full Fast'n'Wide SCSI-2, yet is <em>not</em> supported by AIX so that the regular 53C825 will "just work."</li>
         <p>
-        <li>On a reboot, the ANS may go into its Long RAM Test. This is not only <em>not</em> fatal but is arguably intended behaviour and it will start normally afterwards, though the delay is annoying. On the other hand, even though the ANS Mac OS ROM doesn't do this, it also doesn't properly register the sticks as parity RAM even if they are. I don't know if I can fix this by tweaking Open Firmware or this requires a ROM patch, though I suspect it's the latter. In the meantime, you can manually cut it short by hitting Control-Command-Reset.</li>
+        <li>On a reboot, the ANS may go into its Long RAM Test. This is not only <em>not</em> fatal but is arguably intended behaviour and it will start normally afterwards, though the delay is annoying. On the other hand, even though the ANS Mac OS ROM doesn't do this, it also doesn't properly register the sticks as parity RAM even if they are. I don't know if I can stop the Long RAM Test by tweaking Open Firmware or if it requires a ROM patch, though I suspect it's the latter. In the meantime, you can manually cut it short by hitting Control-Command-Reset.</li>
         <p></ul><p>
         Hopefully you'll see solutions to one or both of these in <a href="/search/label/ans">a future article</a>. For now, you can get everything on <a href="https://github.com/classilla/ansmac">the Github repo</a>, including source code for CodeWarrior Pro 7. Note that this compiler cannot build the 68K portion of the ANS MACE Fixer, but I've included the source for that too, and you don't need to build the 68K segment anyway merely to modify the PowerPC portion. Each portion is under its own license and you should read the brief notes. No AI was used.]]>
       </description>
@@ -405,7 +423,7 @@ patchstr(25,
 
 The numbers are fixed indexes into NVRAM since this is just a hack, but in order are `input-device`, `output-device`, `use-nvramrc?` and `nvramrc` itself. This simple nvramrc patches up the Ethernet to work correctly with the Mac OS `Apple Enet`  `INIT`. Prior Macintoshes with Ethernet, including first generation NuBus Power Macs like the [Workgroup Server 9150](/2026/08/mklinux-and-pimped-out-apple-workgroup.html), had a single Ethernet AAUI port, but AAUI was expensive and unpopular and as the industry moved to twisted-pair Apple offered both an 8P8C (&#34;RJ-45&#34;) and AAUI port starting with the 9500 — but still using just the single MACE, so only one port was active at a time. For as yet unexplained reasons, the ANS went back to a single AAUI port with no 8P8C/&#34;RJ-45&#34; despite being an evolution of the same platform base.
 
-This means the MACE is connected directly to the (A)AUI port in the ANS, whereas in machines like the 7300, 7500, 8600, 9500, etc., it switches between the AAUI (equivalent to AUI) or an internal MAU to provide the link over twisted-pair. The MACE embedded in CURIO has a register called PLSCC, or the Physical Layer Signaling Configuration Control, which determines which network port is active. In dual-ported machines, the PLSCC value should be 7 (which includes the $01 enable bit), which corresponds to the &#34;General Purpose Serial Interface&#34; to the circuitry where the signal is routed. In the ANS, however, this value should 1, which specifies a direct AUI connection.
+This means the MACE is connected directly to the (A)AUI port in the ANS, whereas in machines like the 7300, 7500, 8600, 9500, etc., it switches between the AAUI (equivalent to AUI) or an internal MAU to provide the link over twisted-pair. The MACE embedded in CURIO has a register called PLSCC, or the Physical Layer Signaling Configuration Control, which determines which network port is active. In dual-ported machines, the PLSCC value should be 7 (which includes the $01 enable bit), which corresponds to the &#34;General Purpose Serial Interface&#34; to the circuitry where the signal is routed. In the ANS, however, this value should be 1, which specifies a direct AUI connection.
 
 The ANS Mac OS ROM internally and explicitly specifies a property `PLSCCPort` on `/bandit/gc/mace` with that value of `1`. @joevt gets credit here (a) for discovering that the Apple Enet `INIT` looks for and if specified uses this property as an override, relying on a platform default if not, and (b) for the magic incantation required to make this property stick when placed in the `nvramrc`. Since the ANS looks like a Power Mac 9500 to Mac OS, this value must be provided before Apple Enet runs, so since it&#39;s not in the 1.1.20.1 ROM we&#39;ll provide it ourselves in Open Firmware before the operating system even starts.
 
@@ -517,7 +535,7 @@ Things still to do:
 
 - Get the internal SCSI bays working, which may require us to create a modified ROM and put the `ndrv` there with the proper node name. However, one other possibility is by installing a MacOS-bootable SCSI PCI card. The Shiner logic board has 68-pin connectors on the logic board that directly feed into the two front SCSI busses (bus 0 controls the top four trays and bus 1 controls the bottom three and the 700&#39;s rear two). These connectors were intended for the ANS PCI RAID card, but I don&#39;t see why we couldn&#39;t just connect a regular controller there as long as we change its SCSI ID to not conflict with the 53C825, which should be possible on Adaptec cards with the PowerDomain Control `CDEV`. I intend to do some experimentation with that, including finding an optimum card which is Mac-bootable (or flashable to same) and supports full Fast&#39;n&#39;Wide SCSI-2, yet is _not_ supported by AIX so that the regular 53C825 will &#34;just work.&#34;
 
-- On a reboot, the ANS may go into its Long RAM Test. This is not only _not_ fatal but is arguably intended behaviour and it will start normally afterwards, though the delay is annoying. On the other hand, even though the ANS Mac OS ROM doesn&#39;t do this, it also doesn&#39;t properly register the sticks as parity RAM even if they are. I don&#39;t know if I can fix this by tweaking Open Firmware or this requires a ROM patch, though I suspect it&#39;s the latter. In the meantime, you can manually cut it short by hitting Control-Command-Reset.
+- On a reboot, the ANS may go into its Long RAM Test. This is not only _not_ fatal but is arguably intended behaviour and it will start normally afterwards, though the delay is annoying. On the other hand, even though the ANS Mac OS ROM doesn&#39;t do this, it also doesn&#39;t properly register the sticks as parity RAM even if they are. I don&#39;t know if I can stop the Long RAM Test by tweaking Open Firmware or if it requires a ROM patch, though I suspect it&#39;s the latter. In the meantime, you can manually cut it short by hitting Control-Command-Reset.
 
 Hopefully you&#39;ll see solutions to one or both of these in [a future article](/search/label/ans). For now, you can get everything on [the Github repo](https://github.com/classilla/ansmac), including source code for CodeWarrior Pro 7. Note that this compiler cannot build the 68K portion of the ANS MACE Fixer, but I&#39;ve included the source for that too, and you don&#39;t need to build the 68K segment anyway merely to modify the PowerPC portion. Each portion is under its own license and you should read the brief notes. No AI was used.</source:markdown>
       <author>noreply@blogger.com (ClassicHasClass)</author>
@@ -3222,15 +3240,6 @@ Over their production lifetime, analysis of known serial numbers suggests around
       <source:markdown>Amcog have been frantically working on their new Ghost Hunter game for the upcoming London Show.</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2391.html</guid>
       <pubDate>Tue, 06 Oct 2026 08:01:00 +0000</pubDate>
-    </item>    <item>
-      <title>WROCC October 2026 talk on Wednesday with Mark Moxon</title>
-      <link>http://www.iconbar.com/comments/rss/news2377.html</link>
-      <description>
-        <![CDATA[The October 2026 WROCC talk is on Wednesday 7th October and starts at 7.45pm on Zoom. This month Mark Moxon returns as our speaker]]>
-      </description>
-      <source:markdown>The October 2026 WROCC talk is on Wednesday 7th October and starts at 7.45pm on Zoom. This month Mark Moxon returns as our speaker</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2377.html</guid>
-      <pubDate>Mon, 05 Oct 2026 07:11:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
