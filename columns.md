@@ -436,4 +436,5 @@ description: Blogs, columns and snapshots from around the web.
 - [Wesleyan Media Project](https://mediaproject.wesleyan.edu/feed/)
 - [Points in thw cloud blog](https://pointinthecloud.com/blog.xml)
 - [Apryl Lundsten blog](https://www.apryllundstenportfolio.com/blog?format=rss)
+- [Machine Gods, NPR](https://feeds.npr.org/g-s1-143588/podcast.xml)
 
