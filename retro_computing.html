@@ -3,13 +3,13 @@
 <head>
   <meta charset="utf-8" >
   <meta name="generator" content="antenna/0.0.28" >
-  <meta name="date" content="2026-10-28T06:46:23-07:00" >
+  <meta name="date" content="2026-10-29T06:45:53-07:00" >
   <meta name="viewport" content="width=device-width, initial-scale=1.0" >
   <title>Retro</title>
   <link rel="stylesheet" href="css/site.css" >
   <link rel="alternate" type="application/rss+xml" href="retro_computing.xml" >
   <script type="module" src="modules/date_filter.js" ></script>
-  <script src="modules/article_collapse.js" type="module" ></script>
+  <script type="module" src="modules/article_collapse.js" ></script>
 </head>
 <body>
   <a href="#main-content" class="skip-link">Skip to main content</a>
@@ -90,11 +90,11 @@
 
     <article data-published="2026-10-25T01:21:15Z" data-link="https://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html" data-pagefind-filter="category:ans, category:apple, category:copland, category:power mac, category:powerpc, category:software, author:ClassicHasClass, datePublished:2026-10-25T01:21:15Z, label:Old Ventage Computing Research, channel:https://oldvcr.blogspot.com/feeds/posts/default?alt=rss">
       <h2>MacOS Extensions pack for the Apple Network Server v1.0</h2>
-      <p><time datetime="2026-10-25">2026-10-25</time>, updated: <time datetime="2026-10-27">2026-10-27</time></p>
+      <p><time datetime="2026-10-25">2026-10-25</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
       <div class="article-body"><p><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Z41XAQEyv90YDSNsUZoRLFphrYb6i6dcfu2ZGSv0bIYyLdZ1ubThIPquyvjUS2fDx-GdIqf4sIUl77bKZCgodMzYrW-6lt2fci3thoYOJscOyOr0mTDnbIif9J324iDTr0wNpXR0AYuXZhCx-7CuPRL7vFLrmZbISj9Z585sNjYK7sYb5oXg62Bh3iY/s4080/PXL_20261013_011922071.jpg"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Z41XAQEyv90YDSNsUZoRLFphrYb6i6dcfu2ZGSv0bIYyLdZ1ubThIPquyvjUS2fDx-GdIqf4sIUl77bKZCgodMzYrW-6lt2fci3thoYOJscOyOr0mTDnbIif9J324iDTr0wNpXR0AYuXZhCx-7CuPRL7vFLrmZbISj9Z585sNjYK7sYb5oXg62Bh3iY/s320/PXL_20261013_011922071.jpg" alt=""></a></p>
 <p>By now regular readers of this blog are quite familiar with my affection for the 1996 <a href="/search/label/ans">Apple Network Server</a>, Apple's Unix-through-and-through $10,000+ server that only shipped with, and only officially ran, Harpoon, its unique superset of IBM AIX. An ANS 500, the lower tier of this dorm fridge-sized computer, was the first server I ever personally owned, a nearly-new hand-me-down after Steve Jobs convinced Gil Amelio to cancel the machine and the bookstore's vendor at the University I worked for wouldn't support it anymore. There are <a href="/2023/11/the-apple-network-servers-all-too.html">several fascinating features</a> present in Harpoon that were never implemented in any other Apple product. Currently I have three, that original ANS 500, this ANS 700 here which I use for testing, and a battery-bombed EVT prototype (a so-called &quot;Shiner ESB&quot; that <a href="/2021/10/shiner-esb-apple-network-server.html">used to be at Netscape</a>).</p>
 <p>The ANS was strongly based on the Power Macintosh 9500 and Apple was known to have demonstrated the ANS with Mac OS during development, but this confused potential buyers, causing the ability to boot Mac OS to be stripped from production systems. While then-CTO Ellen Hancock claimed in 1997 a ROM swap would enable the ANS to boot Mac OS again <em>and</em> Windows NT, these ROMs were believed to be vapourware until a former Apple employee presented a working dump of <a href="/2025/10/the-apple-network-server-macos-roms.html">both the preproduction ROM and the later ANS Mac OS ROM</a>. <a href="/2026/01/hands-on-with-two-apple-network-server.html">A prototype Windows NT ROM also emerged</a> from another former employee, though there are pieces missing and booting Windows NT natively on the ANS is still a work in progress (hopefully to be the subject of <a href="/search/label/ans">a future article</a>).</p>
-<p>It turned out <a href="/2026/01/hands-on-with-two-apple-network-server.html">I had one of the preproduction ROMs myself</a> and didn't realize what it was. Because the later Mac OS ROM was apparently unfinished, <a href="/2026/05/testing-macos-on-apple-network-server.html">it doesn't properly support the L2 cache</a> and consequently runs substantially slower, and it can't boot AIX. The preproduction ROM does boot both operating systems and does support the cache. On the other hand, it doesn't support the on-board video or the front Fast Wide SCSI-2 controller, the on-board MACE Ethernet doesn't work, and after MacOS first boots, the next restart without zapping the PRAM will come up with a black screen.</p>
+<p>It turned out <a href="/2026/01/hands-on-with-two-apple-network-server.html">I had one of the preproduction ROMs myself</a> and didn't realize what it was. Because the later Mac OS ROM was apparently unfinished, <a href="/2026/05/testing-macos-on-apple-network-server.html">it doesn't properly support the L2 cache</a> and consequently runs substantially slower, and it can't boot AIX. The preproduction ROM does boot both operating systems and does support the cache. On the other hand, in MacOS it doesn't support the on-board video or the front Fast Wide SCSI-2 controller, the on-board MACE Ethernet doesn't work there either, and after MacOS first boots, the next restart without zapping the PRAM will come up with a black screen.</p>
 <p>The good news is, many of the issues with the preproduction ROM in Mac OS can be fixed or worked around in software. So I've fixed or worked around many of them in software: the MACE Ethernet is fixed, the on-board video is now supported, and the ANS can restart properly back into Mac OS. Plus, because it's the preproduction ROM, you can still boot AIX, thus preserving the entire historical reason for Shiner's existence. Here's the first cut of that software and how it was developed.</p>
 <p><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6CkO34PaOUnL6hPI7sYn9fCUL30ZE1hyphenhyphenTBmb4tzKgCmUALiUX-i063YdMnYOGdDG4xzh79Fik9fAYlCQmi_qDsIafrvMwykhSoXi5EtUOW13FPhAhJW_1dIqYsDRVloaoYDYktjKJypRzqapghHxHOecAA6NwpUGXpx0wIbrmRGp5Pc-0bbkF3X_ifuY/s4080/PXL_20260118_202225393.jpg"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6CkO34PaOUnL6hPI7sYn9fCUL30ZE1hyphenhyphenTBmb4tzKgCmUALiUX-i063YdMnYOGdDG4xzh79Fik9fAYlCQmi_qDsIafrvMwykhSoXi5EtUOW13FPhAhJW_1dIqYsDRVloaoYDYktjKJypRzqapghHxHOecAA6NwpUGXpx0wIbrmRGp5Pc-0bbkF3X_ifuY/s320/PXL_20260118_202225393.jpg" alt=""></a></p>
 <p>Naturally, the first order of business is to get an Apple Network Server and the 1.1.20.1 preproduction ROM (the production ROM is version 1.1.22). I can't help you with the first part, but replica ROMs now exist to cover the second part, and as of this writing <a href="https://jcm-1.com/product/apple-network-server-rom-v1-1-20-0/">Joe's Computer Museum</a> has a few in stock (not affiliated, just a satisfied occasional customer). I <a href="/2026/05/testing-macos-on-apple-network-server.html">tested the original design</a> of these ROM DIMMs, kindly provided by Jeff Walther. Jeff assembled and donated this particular batch to Joe Strosnider, who is selling them and donating the proceeds in turn to the maintenance of the Tinker Different forum, where <a href="https://tinkerdifferent.com/threads/apple-network-server-macos-based-roms-found.4756/">this whole thing started</a>.</p>
@@ -107,7 +107,7 @@
 <p>Let's talk about drivers and PCI devices on Power Macs.</p>
 <p><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLXs_w6SU8ogqRkiq0usmTmPyG79zvoiNXhLY05phzwE06-2PrfDXtDD5cSkq7lz7kE2kZRCTM5uIISueDNKt8AuHhpwDnsiFMGr8YzUJ_S0sf6r1nsDSRYO5fO82lijh64rK24qtmB85_IYuXNsIZnAsBJsIOz_vk8Auq2-Vv70yiVdUWIqVPz4XRglk/s3235/copland.jpg"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLXs_w6SU8ogqRkiq0usmTmPyG79zvoiNXhLY05phzwE06-2PrfDXtDD5cSkq7lz7kE2kZRCTM5uIISueDNKt8AuHhpwDnsiFMGr8YzUJ_S0sf6r1nsDSRYO5fO82lijh64rK24qtmB85_IYuXNsIZnAsBJsIOz_vk8Auq2-Vv70yiVdUWIqVPz4XRglk/s320/copland.jpg" alt=""></a></p>
 <p>Denizens of the classic Mac OS are painfully familiar with <code>INIT</code> s and <code>CDEV</code> s, which is to say, the extensions and control panels which extend the operating system (and in many cases constitute substantial parts of it). Adding device support to the operating system required a <code>DRVR</code> resource, which could be stored in the declaration ROM of a NuBus card and available at power-on, or in an <code>INIT</code> or <code>CDEV</code> and made available during the boot process, or in a regular application and loaded on demand. (Parenthetically, desk accessories were also implemented as <code>DRVRs</code>.) Even after the 1994 transition to PowerPC, some, if not all, of such code still had to be 68K for backwards compatibility, and thus required emulation on a Power Macintosh.</p>
-<p>Since this requirement was an obvious performance bottleneck, Apple attempted to address it in Copland, Apple's fallback attempt to modernise the Mac OS stepwise amid the slow-motion death marches of Taligent and PowerOpen-A/UX 4. Copland's tale of woe is a much longer story, to be the topic of <a href="/search/label/copland">a future article</a>, but the part relevant to this piece was the new driver architecture it introduced. This aspect was part of how Copland's design partitioned its components ih memory to avoid the attendant pitfalls inherent in the classic Mac OS. In order to wall the old Mac OS world off but retain compatibility, everything that was 68K code lived in the so-called &quot;cooperative&quot; address space and was treated as data to be interpreted by the Power Mac 68K emulator, including 68K portions of the Toolbox; even PowerPC-native System 7 applications ran here. This cooperative address space would theoretically allow most applications to run as they did before, but intentionally without privileges to the rest of the system nor access to Copland's hardware abstraction layer (HAL).</p>
+<p>Since this requirement was an obvious performance bottleneck, Apple attempted to address it in Copland, Apple's fallback attempt to modernise the Mac OS stepwise amid the slow-motion death marches of Taligent and PowerOpen-A/UX 4. Copland's tale of woe is a much longer story, to be the topic of <a href="/search/label/copland">a future article</a>, but the part relevant to this piece was the new driver architecture it introduced. This aspect was part of how Copland's design partitioned its components in memory to avoid the attendant pitfalls inherent in the classic Mac OS. In order to wall the old Mac OS world off but retain compatibility, everything that was 68K code lived in the so-called &quot;cooperative&quot; address space and was treated as data to be interpreted by the Power Mac 68K emulator, including 68K portions of the Toolbox; even PowerPC-native System 7 applications ran here. This cooperative address space would theoretically allow most applications to run as they did before, but intentionally without privileges to the rest of the system nor access to Copland's hardware abstraction layer (HAL).</p>
 <p>As such, Copland drivers necessarily were fully native code, in this case implemented as regular PowerPC code fragments. These drivers hooked into the HAL and the Name Registry, an object database that tracked devices on the system and mediated loading and unloading device drivers as needed, and were collapsed into a separate global region at a lower execution level where only limited operating system functionality was available. Although such limitations restricted their ability to integrate with the operating system, it also enabled those drivers to run early in the boot process and remain protected from user code. This new class of driver was called a <em>native driver</em>.</p>
 <p><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDwA3VJ98wlKcX3sUfD3YgwyDIUX0VRRrU7ROd-YKeuBvlBFvinVSLSAul8MJGbmcwCPavVl8nsuvNdu4kNKcF_KtZemOlK8vrhd6kFjxWFEOPGaWufW8JwRake-5pYpmxZxTJ2RcoLmJfUj860BhjHwh8DtTENE6nwxmts79vMyEjhqFPDy_35tOix5A/s2500/19941007-iw-pcitrap.jpg"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDwA3VJ98wlKcX3sUfD3YgwyDIUX0VRRrU7ROd-YKeuBvlBFvinVSLSAul8MJGbmcwCPavVl8nsuvNdu4kNKcF_KtZemOlK8vrhd6kFjxWFEOPGaWufW8JwRake-5pYpmxZxTJ2RcoLmJfUj860BhjHwh8DtTENE6nwxmts79vMyEjhqFPDy_35tOix5A/s320/19941007-iw-pcitrap.jpg" alt=""></a></p>
 <p>Although Copland suffered from terminal second-system effect just as badly as its contemporaries, it was modular enough for parts of it to be used as transitional enhancements — such as its visual language, which later became the basis of Mac OS 8's Platinum theme, and other pieces that shipped more quietly. Germane to our discussion here was Apple's transition from NuBus to PCI, one not uniformly well-received by users, though in fairness it was effectively forced on Apple when IBM wouldn't support NuBus in the PowerOpen-based AIX 4. For these first PCI Power Macs, starting with the 9500 in 1995, Apple added a port of the Copland Name Registry to their ROMs as well as Eric Traut's faster dynamic recompiling 68K emulator, also intended for Copland.</p>
@@ -328,7 +328,7 @@ MacOS is currently unsupported, use at your own risk.
 
     <article data-published="2026-10-23T20:52:54Z" data-link="http://www.linux-magazine.com/Online/News/Bottlenecks-Discovered-by-Meta-Engineers-Lead-to-Scalability-Improvements" data-pagefind-filter="author:Gwen Clark, datePublished:2026-10-23T20:52:54Z, label:Linux Magazine, channel:https://www.linux-magazine.com/rss/feed/lmi_news">
       <h2>Bottlenecks Discovered by Meta Engineers Lead to Scalability Improvements</h2>
-      <p><time datetime="2026-10-23">2026-10-23</time>, updated: <time datetime="2026-10-28">2026-10-28</time></p>
+      <p><time datetime="2026-10-23">2026-10-23</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
       <div class="article-body"><p>Thanks to a small group of engineers at Meta, the Linux kernel module kernfs has been improved, which has led to some serious gains.</p>
 </div>
       <footer>
@@ -471,7 +471,7 @@ MacOS is currently unsupported, use at your own risk.
 
     <article data-published="2026-10-22T16:18:31Z" data-link="http://www.linux-magazine.com/Online/News/PwnEscape-Poses-VM-Vulnerability" data-pagefind-filter="author:Gwen Clark, datePublished:2026-10-22T16:18:31Z, label:Linux Magazine, channel:https://www.linux-magazine.com/rss/feed/lmi_news">
       <h2>PwnEscape Poses VM Vulnerability</h2>
-      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-28">2026-10-28</time></p>
+      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
       <div class="article-body"><p>A guest-to-host escape flaw in Linux KVM, named PwnEscape, might be yet another means of attacking Linux.</p>
 </div>
       <footer>
@@ -593,7 +593,7 @@ MacOS is currently unsupported, use at your own risk.
 
     <article data-published="2026-10-20T16:17:46Z" data-link="http://www.linux-magazine.com/Online/News/Linux-Mint-27-Set-for-a-Christmas-Release" data-pagefind-filter="author:Gwen Clark, datePublished:2026-10-20T16:17:46Z, label:Linux Magazine, channel:https://www.linux-magazine.com/rss/feed/lmi_news">
       <h2>Linux Mint 27 Set for a Christmas Release</h2>
-      <p><time datetime="2026-10-20">2026-10-20</time>, updated: <time datetime="2026-10-28">2026-10-28</time></p>
+      <p><time datetime="2026-10-20">2026-10-20</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
       <div class="article-body"><p>The developers behind Linux Mint have announced a Christmas release, and it looks like Santa's sack will be brimming with features.</p>
 </div>
       <footer>
@@ -780,7 +780,7 @@ MacOS is currently unsupported, use at your own risk.
 
     <article data-published="2026-10-15T17:27:19Z" data-link="http://www.linux-magazine.com/Online/News/Is-Linus-Torvalds-Vibe-Coding" data-pagefind-filter="author:Lori White, datePublished:2026-10-15T17:27:19Z, label:Linux Magazine, channel:https://www.linux-magazine.com/rss/feed/lmi_news">
       <h2>Is Linus Torvalds Vibe Coding?</h2>
-      <p><time datetime="2026-10-15">2026-10-15</time>, updated: <time datetime="2026-10-28">2026-10-28</time></p>
+      <p><time datetime="2026-10-15">2026-10-15</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
       <div class="article-body"><p>The creator of Linux has added AI into his process for Linux kernel development, and it's more than just for debugging.</p>
 </div>
       <footer>
@@ -829,7 +829,7 @@ MacOS is currently unsupported, use at your own risk.
 
     <article data-published="2026-10-12T18:09:06Z" data-link="http://www.linux-magazine.com/Online/News/openKylin-3.0-Released-with-Expanded-AI-Integration" data-pagefind-filter="author:Gwen Clark, datePublished:2026-10-12T18:09:06Z, label:Linux Magazine, channel:https://www.linux-magazine.com/rss/feed/lmi_news">
       <h2>openKylin 3.0 Released with Expanded AI Integration</h2>
-      <p><time datetime="2026-10-12">2026-10-12</time>, updated: <time datetime="2026-10-28">2026-10-28</time></p>
+      <p><time datetime="2026-10-12">2026-10-12</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
       <div class="article-body"><p>The latest release features a pre-installed AI agent to help perform tasks.</p>
 </div>
       <footer>
@@ -840,7 +840,7 @@ MacOS is currently unsupported, use at your own risk.
 
     <article data-published="2026-10-12T16:48:19Z" data-link="http://www.linux-magazine.com/Online/News/DigitalOcean-Ends-Open-Source-Credits-Program" data-pagefind-filter="author:Gwen Clark, datePublished:2026-10-12T16:48:19Z, label:Linux Magazine, channel:https://www.linux-magazine.com/rss/feed/lmi_news">
       <h2>DigitalOcean Ends Open Source Credits Program</h2>
-      <p><time datetime="2026-10-12">2026-10-12</time>, updated: <time datetime="2026-10-28">2026-10-28</time></p>
+      <p><time datetime="2026-10-12">2026-10-12</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
       <div class="article-body"><p>In a change that has surprised many open source developers, DigitalOcean has decided to sunset its Open Source Credits Program.</p>
 </div>
       <footer>
@@ -873,7 +873,7 @@ MacOS is currently unsupported, use at your own risk.
 
     <article data-published="2026-10-12T01:47:19Z" data-link="https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html" data-pagefind-filter="category:68000, category:alpha micro, category:coldfire, category:memorials, category:refurb weekend, author:ClassicHasClass, datePublished:2026-10-12T01:47:19Z, label:Old Ventage Computing Research, channel:https://oldvcr.blogspot.com/feeds/posts/default?alt=rss">
       <h2>Refurb weekend II: Alpha Micro Eagle 300 and friends</h2>
-      <p><time datetime="2026-10-12">2026-10-12</time>, updated: <time datetime="2026-10-27">2026-10-27</time></p>
+      <p><time datetime="2026-10-12">2026-10-12</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
       <div class="article-body"><p>This Refurb Weekend is a sequel in two ways.</p>
 <p><a href="/2020/06/refurb-weekend-alpha-micro-eagle-300.html">Six years ago</a> I fixed the power supply and case fan in my 68EC030-based Alpha Microsystems Eagle 300, a more modernized and substantially faster Alpha Micro running AMOS, their unique DEC-inspired multiuser operating system. These blue-collar boxes were very common in many vertical markets due to their tightly integrated business-specific software packages, and are especially unusual for running their big-endian 68000-series processors <em>little</em>-endian (for data file backwards compatibility with their WD-16 ancestors). The 1990s-era Alpha Micro Eagle family improves on the originals with later 68K and even ColdFire CPUs, plus Ethernet and faster SCSI.</p>
 <p>The second way it's a sequel is to <a href="/2026/03/refurb-weekend-double-header-alpha.html">our previous Alpha Micro refurb weekend</a>, a double header restoring an Alpha Micro AM-1000 and AM-1200, two members of Alpha Micro's most popular series of computers and some of the closest things they made in the early '80s to desktop workstations.</p>
@@ -1672,17 +1672,6 @@ Floating Point Index (FX), relative to AM-100/L:  1700.0
       <footer>
         <a href="https://paolozaino.wordpress.com/2026/10/08/the-crowler-v2-2-5-is-out-performance-stability-and-scalability-improvements/">Continue reading</a>
         <p class="source">via Pablo Fabio Zaino blog</p>
-      </footer>
-    </article>
-
-    <article data-published="2026-10-07T13:58:02Z" data-link="http://www.linux-magazine.com/Online/News/Office-365-Available-for-Testing-on-Linux-via-Bottles" data-pagefind-filter="author:Gwen Clark, datePublished:2026-10-07T13:58:02Z, label:Linux Magazine, channel:https://www.linux-magazine.com/rss/feed/lmi_news">
-      <h2>Office 365 Available for Testing on Linux via Bottles</h2>
-      <p><time datetime="2026-10-07">2026-10-07</time>, updated: <time datetime="2026-10-28">2026-10-28</time></p>
-      <div class="article-body"><p>Linux users can now test the official Office 365, thanks to Mirko Brombin's work on Bottles.</p>
-</div>
-      <footer>
-        <a href="http://www.linux-magazine.com/Online/News/Office-365-Available-for-Testing-on-Linux-via-Bottles">Continue reading</a>
-        <p class="source">via Linux Magazine</p>
       </footer>
     </article>
   </main>
