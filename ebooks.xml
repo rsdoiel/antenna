@@ -4,10 +4,50 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>29 Oct 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>30 Oct 26 06:48 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Herland by Charlotte Perkins Gilman</title>
+      <link>https://www.gutenberg.org/ebooks/32</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 30 Oct 2026 09:51:19 +0000</pubDate>
+    </item>    <item>
+      <title>The Imitation of Christ by à Kempis Thomas</title>
+      <link>https://www.gutenberg.org/ebooks/1653</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 30 Oct 2026 09:51:19 +0000</pubDate>
+    </item>    <item>
+      <title>In a matter of nuisances by Raymond S.  Spears</title>
+      <link>https://www.gutenberg.org/ebooks/79880</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 30 Oct 2026 09:51:19 +0000</pubDate>
+    </item>    <item>
+      <title>Dirt cheap by Carl Clausen</title>
+      <link>https://www.gutenberg.org/ebooks/79879</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 30 Oct 2026 09:51:19 +0000</pubDate>
+    </item>    <item>
+      <title>西遊記 by Cheng&#39;en Wu</title>
+      <link>https://www.gutenberg.org/ebooks/23962</link>
+      <description>
+        <![CDATA[Language: Chinese]]>
+      </description>
+      <source:markdown>Language: Chinese</source:markdown>
+      <pubDate>Fri, 30 Oct 2026 09:51:19 +0000</pubDate>
+    </item>    <item>
       <title>The darkness on Fifth Avenue by Murray Leinster</title>
       <link>https://www.gutenberg.org/ebooks/79873</link>
       <description>
@@ -1999,86 +2039,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
       <pubDate>Fri, 09 Oct 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>My Life and Loves, Vol. 1 (of 4) by Frank Harris</title>
-      <link>https://www.gutenberg.org/ebooks/59827</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 08 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Master in sail &#38; steam : by Charles S. Morgan</title>
-      <link>https://www.gutenberg.org/ebooks/79717</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 08 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Second Treatise of Government by John Locke</title>
-      <link>https://www.gutenberg.org/ebooks/7370</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 08 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>On the Origin of Species by Means of Natural Selection by Charles Darwin</title>
-      <link>https://www.gutenberg.org/ebooks/22764</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 08 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>The Origin of Species by Means of Natural Selection by Charles Darwin</title>
-      <link>https://www.gutenberg.org/ebooks/2009</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 08 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>The stratagem, and other stories by Aleister Crowley</title>
-      <link>https://www.gutenberg.org/ebooks/79738</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 08 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Essays on museums : by William Henry Flower</title>
-      <link>https://www.gutenberg.org/ebooks/79742</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 08 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>A conquest of two worlds by Edmond Hamilton</title>
-      <link>https://www.gutenberg.org/ebooks/79739</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 08 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Adorable Clio by Jean Giraudoux</title>
-      <link>https://www.gutenberg.org/ebooks/79741</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-      <pubDate>Thu, 08 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>The king&#39;s friend : by Robert Sulivan</title>
-      <link>https://www.gutenberg.org/ebooks/79740</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 08 Oct 2026 09:51:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

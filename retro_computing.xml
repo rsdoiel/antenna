@@ -4,10 +4,28 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>29 Oct 26 06:45 -0700</lastBuildDate>
+    <lastBuildDate>30 Oct 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>October 2026 News Summary</title>
+      <link>http://www.iconbar.com/comments/rss/news2389.html</link>
+      <description>
+        <![CDATA[Some things we noticed this month. What did you see?]]>
+      </description>
+      <source:markdown>Some things we noticed this month. What did you see?</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2389.html</guid>
+      <pubDate>Fri, 30 Oct 2026 08:48:00 +0000</pubDate>
+    </item>    <item>
+      <title>b.log 2026/10/29 - Enough is enough.</title>
+      <link>https://heyrick.eu/blog/entry/20261029</link>
+      <description>
+        <![CDATA[Enough is enough.]]>
+      </description>
+      <source:markdown>Enough is enough.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20261029</guid>
+      <pubDate>Thu, 29 Oct 2026 19:00:06 +0000</pubDate>
+    </item>    <item>
       <title>Archive Edition 28:04 reviewed</title>
       <link>http://www.iconbar.com/comments/rss/news2414.html</link>
       <description>
@@ -3182,36 +3200,6 @@ Over their production lifetime, analysis of known serial numbers suggests around
       <category>romero</category>
       <category>spector</category>
       <pubDate>Fri, 09 Oct 2026 16:10:11 +0000</pubDate>
-    </item>    <item>
-      <title>The CROWler v2.2.5 is out! Performance, stability and scalability improvements</title>
-      <link>https://paolozaino.wordpress.com/2026/10/08/the-crowler-v2-2-5-is-out-performance-stability-and-scalability-improvements/</link>
-      <description>
-        <![CDATA[The CROWler v2.2.5 has been released, enhancing Time Series performance, database stability, and concurrency. Key updates include PostgreSQL 17 integration testing, improved database reliability, and fixes for source updates. The CROWler is a versatile framework for information discovery and action, aiming to support various sectors including cybersecurity and marketing.]]>
-      </description>
-      <source:markdown>The CROWler v2.2.5 has been released, enhancing Time Series performance, database stability, and concurrency. Key updates include PostgreSQL 17 integration testing, improved database reliability, and fixes for source updates. The CROWler is a versatile framework for information discovery and action, aiming to support various sectors including cybersecurity and marketing.</source:markdown>
-      <guid>cid://http://paolozaino.wordpress.com/?p=11065</guid>
-      <category>Artificial Intelligence</category>
-      <category>CIRT / SIRT / SOC / Blue Team</category>
-      <category>Project Updates</category>
-      <category>Security</category>
-      <category>Agents</category>
-      <category>AI</category>
-      <category>coding</category>
-      <category>computer</category>
-      <category>Computing</category>
-      <category>Cyber Security</category>
-      <category>Cybersecurity</category>
-      <category>Data Discovery</category>
-      <category>framework</category>
-      <category>LLM</category>
-      <category>LLMs</category>
-      <category>Orchestration</category>
-      <category>OSINT</category>
-      <category>Paolo Fabio Zaino</category>
-      <category>programming</category>
-      <category>software</category>
-      <category>technology</category>
-      <pubDate>Thu, 08 Oct 2026 21:26:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
