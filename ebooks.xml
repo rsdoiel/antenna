@@ -4,10 +4,58 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>30 Oct 26 06:48 -0700</lastBuildDate>
+    <lastBuildDate>31 Oct 26 06:46 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Lady Bell, volume 3 (of 3) : by Sarah Tytler</title>
+      <link>https://www.gutenberg.org/ebooks/79883</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 31 Oct 2026 09:51:31 +0000</pubDate>
+    </item>    <item>
+      <title>The Castle of Otranto by Horace Walpole</title>
+      <link>https://www.gutenberg.org/ebooks/696</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 31 Oct 2026 09:51:31 +0000</pubDate>
+    </item>    <item>
+      <title>Coxswain of the Eight by Ralph Henry Barbour</title>
+      <link>https://www.gutenberg.org/ebooks/79884</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 31 Oct 2026 09:51:31 +0000</pubDate>
+    </item>    <item>
+      <title>The Vampyre; a Tale by John William Polidori</title>
+      <link>https://www.gutenberg.org/ebooks/6087</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 31 Oct 2026 09:51:31 +0000</pubDate>
+    </item>    <item>
+      <title>Beschrijvinge van het machtigh koninckrijcke Japan : by François Caron</title>
+      <link>https://www.gutenberg.org/ebooks/79881</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+      <pubDate>Sat, 31 Oct 2026 09:51:31 +0000</pubDate>
+    </item>    <item>
+      <title>Gallipoli memories by Compton Mackenzie</title>
+      <link>https://www.gutenberg.org/ebooks/79882</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 31 Oct 2026 09:51:31 +0000</pubDate>
+    </item>    <item>
       <title>Herland by Charlotte Perkins Gilman</title>
       <link>https://www.gutenberg.org/ebooks/32</link>
       <description>
@@ -2007,38 +2055,6 @@
       </description>
       <source:markdown>Language: French</source:markdown>
       <pubDate>Sat, 10 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Motion Picture of Rotating Earth by United States</title>
-      <link>https://www.gutenberg.org/ebooks/256</link>
-      <description>
-        <![CDATA[Language:]]>
-      </description>
-      <source:markdown>Language:</source:markdown>
-      <pubDate>Fri, 09 Oct 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>Mon frère Yves by Pierre Loti</title>
-      <link>https://www.gutenberg.org/ebooks/18427</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-      <pubDate>Fri, 09 Oct 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>The impulsive Mr. Morrison by Fred MacIsaac</title>
-      <link>https://www.gutenberg.org/ebooks/79744</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Fri, 09 Oct 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>Kings and queens I have known by Elena Văcărescu</title>
-      <link>https://www.gutenberg.org/ebooks/79743</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Fri, 09 Oct 2026 09:51:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

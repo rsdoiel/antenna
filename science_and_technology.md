@@ -13,6 +13,8 @@ title: STEM
 -  Caltech Magazine <https://magazine.caltech.edu/index?format=rss>, feed location unknown, RSD 2026-02-24
 - [NPR Short Wave](https://feeds.npr.org/510351/podcast.xml)
 - [Proceedings of Machine Learning Research](https://proceedings.mlr.press//v80/assets/rss/feed.xml)
+- [ETH News](https://ethz.ch/en/news-und-veranstaltungen/eth-news/news/_jcr_content.feed.html)
+- [ETH Globe](https://ethz.ch/en/news-und-veranstaltungen/eth-news/news/_jcr_content.feed.html?tag=news:dossiers/globe)
 
 # Open Source Projects
 

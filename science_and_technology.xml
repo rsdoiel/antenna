@@ -4,10 +4,200 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>30 Oct 26 06:46 -0700</lastBuildDate>
+    <lastBuildDate>31 Oct 26 06:44 -0700</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Sculpt OS 26.10 releases</title>
+      <link>https://www.osnews.com/story/146275/sculpt-os-26-10-releases/</link>
+      <description>
+        <![CDATA[Sculpt OS 26.10 brings quite a few new features, like scalable cursors, support for UK keyboards, better webcam support, and more, but the real meat of this release is much tastier. First, Sculpt 26.10 is the first version based on Genode&#8217;s custom microkernel instead of relying on a 3rd-party kernel. This kernel &#8211; designed from the ground up for the needs of Genode and Sculpt OS in particular &#8211; is not only more &#8220;micro&#8221; than any other of the microkernels supported by Genode, it also solves long-standing deficiencies concerning CPU scheduling and kernel-memory management. Sculpt OS finally stands on Genode&#8217;s own footing!  Finally, Sculpt OS 26.10 pays tribute to this year&#8217;s overall theme of &#8220;building bridges&#8221; by featuring our software development kit (Goa SDK) running directly on Sculpt OS without virtualization. This entails a wealth of tooling including GCC, Binutils, Git, Sequoia, Expect, Curl, man, Make, and CMake having landed on Genode. Although still young and not time-tested yet, it shows what&#8217;s possible today and allows us developers to gradually shift more and more development routine into this self-hosted environment, stressing the general-purpose qualities of Genode and motivating further optimizations. ↫ Sculpt OS release 26.10 announcement This new release also completes the transition from XML to Genode&#8217;s own HID language for configuration, moves from VirtualBox 6 to 7, and upgrades a whole slew of its Linux-based drivers]]>
+      </description>
+      <source:markdown>Sculpt OS 26.10 brings quite a few new features, like scalable cursors, support for UK keyboards, better webcam support, and more, but the real meat of this release is much tastier. First, Sculpt 26.10 is the first version based on Genode’s custom microkernel instead of relying on a 3rd-party kernel. This kernel – designed from the ground up for the needs of Genode and Sculpt OS in particular – is not only more “micro” than any other of the microkernels supported by Genode, it also solves long-standing deficiencies concerning CPU scheduling and kernel-memory management. Sculpt OS finally stands on Genode’s own footing! Finally, Sculpt OS 26.10 pays tribute to this year’s overall theme of “building bridges” by featuring our software development kit (Goa SDK) running directly on Sculpt OS without virtualization. This entails a wealth of tooling including GCC, Binutils, Git, Sequoia, Expect, Curl, man, Make, and CMake having landed on Genode. Although still young and not time-tested yet, it shows what’s possible today and allows us developers to gradually shift more and more development routine into this self-hosted environment, stressing the general-purpose qualities of Genode and motivating further optimizations. ↫ Sculpt OS release 26.10 announcement This new release also completes the transition from XML to Genode’s own HID language for configuration, moves from VirtualBox 6 to 7, and upgrades a whole slew of its Linux-based drivers</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146275</guid>
+      <category>Genode</category>
+      <pubDate>Sat, 31 Oct 2026 08:02:17 +0000</pubDate>
+    </item>    <item>
+      <title>How long do you need to hold down the power button to turn off a PC?</title>
+      <link>https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/</link>
+      <description>
+        <![CDATA[Raymond Chen published another story from the Windows development trenches, this time about what happens when you hold down the power button. If you hold a PC’s power button for 12 seconds, it will turn off at the hardware level without notifying the operating system. This is a safety feature so that you can turn of the computer even if the operating system’s “Shut down” command isn’t working. After eight seconds of the power button being held down, the Windows kernel realizes that the user is trying to do a force-power-off of the system, and it quickly takes a kernel dump that can be uploaded to the Windows Error Reporting service the next time you turn the system on. ↫ Raymond Chen I&#8217;m a bit confused by these numbers, because I have never seen a PC take this long to power off when holding down the power button; usually it takes only a few seconds to do so, meaning Windows would never generate said kernel dump. I tried reading through the various ATX specification documents to find more information on this, but then I remembered I&#8217;m not an electrical engineer so I have no idea what I&#8217;m looking at. The baseline is that ATX always provides standby power to the motherboard, and pressing the power button shorts the power button pin to ground, telling the PSU to power on fully. Pressing the power button if the computer is running tells the operating system to initiate a shutdown (although you can change this behaviour), but if you hold the button down for a certain number of seconds, it forces a power-off. So far, so good; basic information. It seems that the length of time you need to hold down the power button to force a power-off is dependent on the motherboard in question, handled by a microcontroller or some other IC. Virtually every source I can find says this timing is set to about 4-5 seconds, which is quite a bit shorter than the number of seconds given by Chen. Perhaps motherboard manufacturers consider the 12 seconds to be too long, and just do their own thing, regardless what the ATX specification suggests? What further complicates matters is that Chen details how the kernel dumps created after pressing the power button for 8 seconds do, in fact, get sent to Microsoft once the computer turns on again. In fact, he is one of the people who gets to see these dumps and respond to them, so obviously they are indeed rolling in. Does this mean there&#8217;s a huge number of computers out there that require you to hold down the power button for 12 seconds to force a shutdown that nobody&#8217;s ever seen? These emergency kernel dumps are internally classified as “long power button hold” (LPBH) failures. One of the pieces of information recorded in these emergency kernel dumps is whether the screen consists entirely of black pixels. Those failures are sub-classified as “black screen LPBH”, and they go to a special virtual team for analysis. (I happen to be a member of this black screen LPBH team.) ↫ Raymond Chen What&#8217;s going on here? Obviously, I&#8217;m not going to doubt Chen, so there must be something here I don&#8217;t quite understand or that I&#8217;m missing. The ATX specification might suggest 12 seconds, but could Windows perhaps adapt its kernel dump behaviour &#8211; dumping much sooner than 8 seconds &#8211; based on the motherboard it&#8217;s running on, maybe through information provided by the chipset drivers? I would love it if someone more knowledgeable than me can help us unravel this small mystery.]]>
+      </description>
+      <source:markdown>Raymond Chen published another story from the Windows development trenches, this time about what happens when you hold down the power button. If you hold a PC’s power button for 12 seconds, it will turn off at the hardware level without notifying the operating system. This is a safety feature so that you can turn of the computer even if the operating system’s “Shut down” command isn’t working. After eight seconds of the power button being held down, the Windows kernel realizes that the user is trying to do a force-power-off of the system, and it quickly takes a kernel dump that can be uploaded to the Windows Error Reporting service the next time you turn the system on. ↫ Raymond Chen I’m a bit confused by these numbers, because I have never seen a PC take this long to power off when holding down the power button; usually it takes only a few seconds to do so, meaning Windows would never generate said kernel dump. I tried reading through the various ATX specification documents to find more information on this, but then I remembered I’m not an electrical engineer so I have no idea what I’m looking at. The baseline is that ATX always provides standby power to the motherboard, and pressing the power button shorts the power button pin to ground, telling the PSU to power on fully. Pressing the power button if the computer is running tells the operating system to initiate a shutdown (although you can change this behaviour), but if you hold the button down for a certain number of seconds, it forces a power-off. So far, so good; basic information. It seems that the length of time you need to hold down the power button to force a power-off is dependent on the motherboard in question, handled by a microcontroller or some other IC. Virtually every source I can find says this timing is set to about 4-5 seconds, which is quite a bit shorter than the number of seconds given by Chen. Perhaps motherboard manufacturers consider the 12 seconds to be too long, and just do their own thing, regardless what the ATX specification suggests? What further complicates matters is that Chen details how the kernel dumps created after pressing the power button for 8 seconds do, in fact, get sent to Microsoft once the computer turns on again. In fact, he is one of the people who gets to see these dumps and respond to them, so obviously they are indeed rolling in. Does this mean there’s a huge number of computers out there that require you to hold down the power button for 12 seconds to force a shutdown that nobody’s ever seen? These emergency kernel dumps are internally classified as “long power button hold” (LPBH) failures. One of the pieces of information recorded in these emergency kernel dumps is whether the screen consists entirely of black pixels. Those failures are sub-classified as “black screen LPBH”, and they go to a special virtual team for analysis. (I happen to be a member of this black screen LPBH team.) ↫ Raymond Chen What’s going on here? Obviously, I’m not going to doubt Chen, so there must be something here I don’t quite understand or that I’m missing. The ATX specification might suggest 12 seconds, but could Windows perhaps adapt its kernel dump behaviour – dumping much sooner than 8 seconds – based on the motherboard it’s running on, maybe through information provided by the chipset drivers? I would love it if someone more knowledgeable than me can help us unravel this small mystery.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146273</guid>
+      <category>Windows</category>
+      <pubDate>Sat, 31 Oct 2026 07:54:57 +0000</pubDate>
+    </item>    <item>
+      <title>How curl was accidentally Turing-complete for nine months</title>
+      <link>https://www.osnews.com/story/146271/how-curl-was-accidentally-turing-complete-for-nine-months/</link>
+      <description>
+        <![CDATA[From curl 8.12 through 8.16, config files could slice variable values and include other config files without an explicit depth cap. Together, these features let curl simulate any two-counter Minsky program. Under the usual idealization of unbounded strings and resources, this construction was Turing-complete. Curl 8.17.0 added a five-level include cap that breaks this reduction. ↫ Nicolas Seriot Neat.]]>
+      </description>
+      <source:markdown>From curl 8.12 through 8.16, config files could slice variable values and include other config files without an explicit depth cap. Together, these features let curl simulate any two-counter Minsky program. Under the usual idealization of unbounded strings and resources, this construction was Turing-complete. Curl 8.17.0 added a five-level include cap that breaks this reduction. ↫ Nicolas Seriot Neat.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146271</guid>
+      <category>Internet</category>
+      <pubDate>Sat, 31 Oct 2026 07:10:02 +0000</pubDate>
+    </item>    <item>
+      <title>APOD: 2026 October 31 – Night on a Spooky Planet</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/</guid>
+      <category>APOD</category>
+      <pubDate>Sat, 31 Oct 2026 04:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>Crafted From Bone, This 2,800-Year-Old Flute Unearthed in Troy May Have Been Played Around the Time That Homer Composed &#39;The Iliad&#39; and &#39;The Odyssey&#39;</title>
+      <link>https://www.smithsonianmag.com/smart-news/crafted-from-bone-this-2800-year-old-flute-unearthed-in-troy-may-have-been-played-around-the-time-that-homer-composed-the-iliad-and-the-odyssey-180989792/</link>
+      <description>
+        <![CDATA[After more than 150 years of excavations, the object is the first musical instrument ever discovered in the ruins of the ancient city, which is located in modern-day Turkey]]>
+      </description>
+      <source:markdown>After more than 150 years of excavations, the object is the first musical instrument ever discovered in the ruins of the ancient city, which is located in modern-day Turkey</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/AKpv2vKSGNwEgaSQ5mzFUZ8zlYg=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f9/46/f9462a52-e858-424a-8024-9e19a3b14306/bone-flute.png" length="383169" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/crafted-from-bone-this-2800-year-old-flute-unearthed-in-troy-may-have-been-played-around-the-time-that-homer-composed-the-iliad-and-the-odyssey-180989792/</guid>
+      <pubDate>Fri, 30 Oct 2026 20:20:20 +0000</pubDate>
+    </item>    <item>
+      <title>A Dog Left a Paw Print on This Mud Brick 4,000 Years Ago. Archaeologists Discovered It in the Rubble of a Bronze Age House</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-dog-left-a-paw-print-on-this-mud-brick-4000-years-ago-archaeologists-discovered-it-in-the-rubble-of-a-bronze-age-house-180989785/</link>
+      <description>
+        <![CDATA[The brick was found at Tavsanli Hoyuk, an archaeological site in western Turkey. Humans and dogs in this region have had a close relationship for thousands of years]]>
+      </description>
+      <source:markdown>The brick was found at Tavsanli Hoyuk, an archaeological site in western Turkey. Humans and dogs in this region have had a close relationship for thousands of years</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/wC18lLwPspfIkaP7atRWBfVCvR8=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3d/1b/3d1b71b2-0c3b-47b1-9545-7f125caf1983/paw-print.jpg" length="279045" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-dog-left-a-paw-print-on-this-mud-brick-4000-years-ago-archaeologists-discovered-it-in-the-rubble-of-a-bronze-age-house-180989785/</guid>
+      <pubDate>Fri, 30 Oct 2026 20:07:35 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Releases MAX POWER Key Events for Media, Participants</title>
+      <link>https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/</link>
+      <description>
+        <![CDATA[America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external collaborators [&#8230;]]]>
+      </description>
+      <source:markdown>America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external collaborators \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1060823</guid>
+      <category>General</category>
+      <category>Aeronautics</category>
+      <category>Astronauts</category>
+      <category>Human Spaceflight Mission Directorate</category>
+      <category>Kennedy Space Center</category>
+      <category>Moon Base</category>
+      <category>Nancy Grace Roman Space Telescope</category>
+      <category>Quesst (X-59)</category>
+      <category>Research and Technology Mission Directorate</category>
+      <category>Science Mission Directorate</category>
+      <category>Space Nuclear Propulsion (SNP)</category>
+      <pubDate>Fri, 30 Oct 2026 19:31:02 +0000</pubDate>
+    </item>    <item>
+      <title>Madagascar&#39;s Giant Bats Seem to Be Shrinking. After Measuring 121 Specimens, Scientists Suggest Hunting by Humans Is to Blame</title>
+      <link>https://www.smithsonianmag.com/smart-news/madagascars-giant-bats-seem-to-be-shrinking-after-measuring-121-specimens-scientists-suggest-hunting-by-humans-is-to-blame-180989782/</link>
+      <description>
+        <![CDATA[In a new study, researchers looked at museum specimens of the island’s flying foxes, spanning 150 years of history. They found a significant decline in size—right when commercial hunting ramped up]]>
+      </description>
+      <source:markdown>In a new study, researchers looked at museum specimens of the island’s flying foxes, spanning 150 years of history. They found a significant decline in size—right when commercial hunting ramped up</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/0eD1defXo-FQaafRJcqXPunKO0E=/420x240/filters:focal(507x377:508x378)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ea/e2/eae258ca-d684-4650-8860-cfae3e8ca16d/image_63408632931792100998139.png" length="1343232" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/madagascars-giant-bats-seem-to-be-shrinking-after-measuring-121-specimens-scientists-suggest-hunting-by-humans-is-to-blame-180989782/</guid>
+      <pubDate>Fri, 30 Oct 2026 19:13:07 +0000</pubDate>
+    </item>    <item>
+      <title>This Rosy Stone Spotted in the Sahara Turned Out to Be a 4.1-Billion-Year-Old Meteorite From Mars, One of the Oldest Ever Found</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-rosy-stone-spotted-in-the-sahara-turned-out-to-be-a-4-1-billion-year-old-meteorite-from-mars-one-of-the-oldest-ever-found-180989786/</link>
+      <description>
+        <![CDATA[Martian samples this old are extremely rare and offer clues about the Red Planet's youth. This meteorite further hints that our celestial neighbor was once a watery world, suggesting it could've had the conditions to host life]]>
+      </description>
+      <source:markdown>Martian samples this old are extremely rare and offer clues about the Red Planet&#39;s youth. This meteorite further hints that our celestial neighbor was once a watery world, suggesting it could&#39;ve had the conditions to host life</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/MKzqMz86YmUQQtF8p7Vasxqfnns=/420x240/filters:focal(1920x1097:1921x1098)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4f/d3/4fd337e2-4d9f-4a6b-9f61-ed3c16d5c7c8/1-teghaza_1611-white-flat_final_a.jpg" length="2186495" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-rosy-stone-spotted-in-the-sahara-turned-out-to-be-a-4-1-billion-year-old-meteorite-from-mars-one-of-the-oldest-ever-found-180989786/</guid>
+      <pubDate>Fri, 30 Oct 2026 18:42:39 +0000</pubDate>
+    </item>    <item>
+      <title>Manga Are Black, White and Read All Over. Treasures of the Globally Popular Japanese Comic Book Medium Are on View in New York</title>
+      <link>https://www.smithsonianmag.com/smart-news/manga-are-black-white-and-read-all-over-treasures-of-the-globally-popular-japanese-comic-book-medium-are-on-view-in-new-york-180989788/</link>
+      <description>
+        <![CDATA[The Brooklyn Museum's "Art of Manga" exhibition highlights the "mangaka," or creators, who have shaped the medium. Hundreds of original illustrations are making a rare trip to the United States]]>
+      </description>
+      <source:markdown>The Brooklyn Museum&#39;s &#34;Art of Manga&#34; exhibition highlights the &#34;mangaka,&#34; or creators, who have shaped the medium. Hundreds of original illustrations are making a rare trip to the United States</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/rgHsMTPAf_T-nYNIDR2-sjn7Kl8=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/68/ad/68adb38b-dcea-4783-a674-2d42ea7ba876/dig_e_2026_art_of_manga_044_paula_abreu_pita_ps22-large_jpeg.jpg" length="11030064" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/manga-are-black-white-and-read-all-over-treasures-of-the-globally-popular-japanese-comic-book-medium-are-on-view-in-new-york-180989788/</guid>
+      <pubDate>Fri, 30 Oct 2026 18:34:14 +0000</pubDate>
+    </item>    <item>
+      <title>Where Is England&#39;s Oldest Pub? An Archaeologist Drilled Into 600-Year-Old Timbers to Answer the Contentious Question</title>
+      <link>https://www.smithsonianmag.com/smart-news/where-is-englands-oldest-pub-an-archaeologist-drilled-into-600-year-old-timbers-to-answer-the-contentious-question-180989783/</link>
+      <description>
+        <![CDATA[Tree-ring dating shows that a historic tavern in Somerset has been continually operating as an inn since the 1430s, when local monks built it to lodge wool merchants]]>
+      </description>
+      <source:markdown>Tree-ring dating shows that a historic tavern in Somerset has been continually operating as an inn since the 1430s, when local monks built it to lodge wool merchants</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/K0t84P0gOZCryQNA1ORGkYI0BLk=/420x240/filters:focal(1000x686:1001x687)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b6/1c/b61c3921-c39e-41a3-b4f9-007f8851dce7/george_inn_norton_st_philip_geograph-3743829-by-humphrey-bolton.jpg" length="917631" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/where-is-englands-oldest-pub-an-archaeologist-drilled-into-600-year-old-timbers-to-answer-the-contentious-question-180989783/</guid>
+      <pubDate>Fri, 30 Oct 2026 15:57:10 +0000</pubDate>
+    </item>    <item>
+      <title>NASA’s James Webb Space Telescope Captures Eerie Cat’s Head</title>
+      <link>https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/</link>
+      <description>
+        <![CDATA[Intricate structures within the Cat&#8217;s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback [&#8230;]]]>
+      </description>
+      <source:markdown>Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1060579</guid>
+      <category>Nebulae</category>
+      <pubDate>Fri, 30 Oct 2026 15:56:26 +0000</pubDate>
+    </item>    <item>
+      <title>Three in Four Former NFL Players Who Died From 2008 Through 2023 May Have Had CTE, a Brain Disease Caused by Repeated Head Injuries</title>
+      <link>https://www.smithsonianmag.com/smart-news/three-in-four-former-nfl-players-who-died-from-2008-through-2023-may-have-had-cte-a-brain-disease-caused-by-repeated-head-injuries-180989780/</link>
+      <description>
+        <![CDATA[The researchers also estimate that around one in four of the former football players had dementia, a common feature of late-stage CTE]]>
+      </description>
+      <source:markdown>The researchers also estimate that around one in four of the former football players had dementia, a common feature of late-stage CTE</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/uu2x2-66qxxinuJKbotVtc5gIY4=/420x240/filters:focal(1901x1267:1902x1268)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e6/8a/e68a8f79-738a-4b67-a686-de2c3d5d5a96/nfl-cte.jpg" length="1675922" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/three-in-four-former-nfl-players-who-died-from-2008-through-2023-may-have-had-cte-a-brain-disease-caused-by-repeated-head-injuries-180989780/</guid>
+      <pubDate>Fri, 30 Oct 2026 15:46:34 +0000</pubDate>
+    </item>    <item>
+      <title>Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals</title>
+      <link>https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/</link>
+      <description>
+        <![CDATA[While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents [&#8230;]]]>
+      </description>
+      <source:markdown>While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99597</guid>
+      <category>AI</category>
+      <category>Artificial Intelligence</category>
+      <category>Nemotron</category>
+      <category>NVIDIA Holoscan</category>
+      <category>Science</category>
+      <pubDate>Fri, 30 Oct 2026 15:00:10 +0000</pubDate>
+    </item>    <item>
+      <title>A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy</title>
+      <link>https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/</link>
+      <description>
+        <![CDATA[For decades, astronomers treated the interstellar medium as a static backdrop to the goings-on of the universe. Now, a wave of 3D mapping is bringing the interstellar medium’s dynamic nature into focus.            <p>The post <a href="https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/" target="_blank">A New Map of &#8216;Empty&#8217; Space Challenges a Tranquil Picture of the Galaxy</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>For decades, astronomers treated the interstellar medium as a static backdrop to the goings-on of the universe. Now, a wave of 3D mapping is bringing the interstellar medium’s dynamic nature into focus.
+
+The post [A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy](https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=168464</guid>
+      <category>Physics</category>
+      <pubDate>Fri, 30 Oct 2026 14:52:05 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Explores Potential Commercial Servicing for Hubble Telescope</title>
+      <link>https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/</link>
+      <description>
+        <![CDATA[NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.]]>
+      </description>
+      <source:markdown>NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/</guid>
+      <category>Astrophysics</category>
+      <category>Astrophysics Division</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Hubble Space Telescope</category>
+      <category>The Universe</category>
+      <pubDate>Fri, 30 Oct 2026 14:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Crows Can Make Decisions Based on Visual Information at Lightning Speed—Roughly Twice as Fast as Humans Can, Study Suggests</title>
+      <link>https://www.smithsonianmag.com/smart-news/crows-can-make-decisions-based-on-visual-information-at-lightning-speed-roughly-twice-as-fast-as-humans-can-study-suggests-180989779/</link>
+      <description>
+        <![CDATA[Even though the brain structures of birds and mammals are different, a new study suggests that crows and primates have similar decision-making nerve cell circuitry]]>
+      </description>
+      <source:markdown>Even though the brain structures of birds and mammals are different, a new study suggests that crows and primates have similar decision-making nerve cell circuitry</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/0DbQHRDTbpZbrFH250Keyn8G6lE=/420x240/filters:focal(640x445:641x446)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/97/fd/97fdac94-f70e-4fed-9323-6569601936bc/crows-make-decisions-t-1.jpg" length="147369" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/crows-can-make-decisions-based-on-visual-information-at-lightning-speed-roughly-twice-as-fast-as-humans-can-study-suggests-180989779/</guid>
+      <pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
+    </item>    <item>
       <title>November’s Night Sky Notes: Light-Day Away</title>
       <link>https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/</link>
       <description>
@@ -437,9 +627,9 @@ The post [How Do You Take a Picture of a Black Hole?](https://www.quantamagazine
       <title>How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material</title>
       <link>https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/</link>
       <description>
-        <![CDATA[By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a tough, flexible thread.             <p>The post <a href="https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/" target="_blank">How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+        <![CDATA[By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a strong, flexible fiber.            <p>The post <a href="https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/" target="_blank">How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
       </description>
-      <source:markdown>By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a tough, flexible thread.
+      <source:markdown>By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a strong, flexible fiber.
 
 The post [How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material](https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
       <guid>cid://https://www.quantamagazine.org/?p=168359</guid>
@@ -3702,196 +3892,6 @@ The post [Is ‘Attention’ the Essence of Intelligence?](https://www.quantamag
       <guid>cid://https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/</guid>
       <category>APOD</category>
       <pubDate>Sat, 10 Oct 2026 04:05:00 +0000</pubDate>
-    </item>    <item>
-      <title>Watch Five Adorable Newborn Cheetah Cubs Grow on a Livestream From the Smithsonian&#39;s Conservation Biology Institute</title>
-      <link>https://www.smithsonianmag.com/smart-news/watch-five-adorable-newborn-cheetah-cubs-grow-on-a-livestream-from-the-smithsonians-conservation-biology-institute-180989669/</link>
-      <description>
-        <![CDATA[The healthy and active babies are being cared for by first-time mother Zura, and the public can keep up with their antics through an online cheetah cub cam]]>
-      </description>
-      <source:markdown>The healthy and active babies are being cared for by first-time mother Zura, and the public can keep up with their antics through an online cheetah cub cam</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/wiQphM974DHMfqfIxqbigNIrpQI=/420x240/filters:focal(1249x730:1250x731)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0e/75/0e759221-7bae-4759-ae5c-ea84bbb4b9d5/screenshot_2026-10-09_at_33437pm.png" length="5858099" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/watch-five-adorable-newborn-cheetah-cubs-grow-on-a-livestream-from-the-smithsonians-conservation-biology-institute-180989669/</guid>
-      <pubDate>Fri, 09 Oct 2026 21:05:40 +0000</pubDate>
-    </item>    <item>
-      <title>A Digital Swamp Coming to New York City’s MoMA Is &#39;Made to Envelop You&#39; in Nature With the Help of Cutting-Edge Technology</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-digital-swamp-coming-to-new-york-citys-moma-is-made-to-envelop-you-in-nature-with-the-help-of-cutting-edge-technology-180989652/</link>
-      <description>
-        <![CDATA["Wetland" is the latest installation of a high-tech traveling exhibition designed by Danish artist Jakob Kudsk Steensen. It recreates the overlooked ecosystem with the help of folklore, soundscapes and video game software]]>
-      </description>
-      <source:markdown>&#34;Wetland&#34; is the latest installation of a high-tech traveling exhibition designed by Danish artist Jakob Kudsk Steensen. It recreates the overlooked ecosystem with the help of folklore, soundscapes and video game software</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/zWDxOO4Jj5co5A453I6CyjmGRR4=/420x240/filters:focal(850x526:851x527)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a3/8d/a38dd753-9c7e-4e71-b9ee-883308dc5d69/highresscreenshot00111_webpage-image.png" length="3515567" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-digital-swamp-coming-to-new-york-citys-moma-is-made-to-envelop-you-in-nature-with-the-help-of-cutting-edge-technology-180989652/</guid>
-      <pubDate>Fri, 09 Oct 2026 20:39:30 +0000</pubDate>
-    </item>    <item>
-      <title>Raised in Apartheid South Africa, 2026 Nobel Peace Prize Winner Navi Pillay Is One of the World’s Leading Human Rights Jurists</title>
-      <link>https://www.smithsonianmag.com/smart-news/raised-in-apartheid-south-africa-2026-nobel-peace-prize-winner-navi-pillay-is-one-of-the-worlds-leading-human-rights-jurists-180989667/</link>
-      <description>
-        <![CDATA[When Pillay learned she had won the award, she was in the same courtroom where the Nuremberg Trials held Nazi war criminals to account. Her legal career has been dedicated to fighting against human rights abuses and mass atrocities]]>
-      </description>
-      <source:markdown>When Pillay learned she had won the award, she was in the same courtroom where the Nuremberg Trials held Nazi war criminals to account. Her legal career has been dedicated to fighting against human rights abuses and mass atrocities</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/yJmiodAcLIA2AF5AIzILVcMjww8=/420x240/filters:focal(2529x1686:2530x1687)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dd/6f/dd6f5dc1-1cfb-4de1-ac62-ea52fffeaaf4/gettyimages-2298735670.jpg" length="5082427" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/raised-in-apartheid-south-africa-2026-nobel-peace-prize-winner-navi-pillay-is-one-of-the-worlds-leading-human-rights-jurists-180989667/</guid>
-      <pubDate>Fri, 09 Oct 2026 18:53:42 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Seeks US Industry Plans for Commercial Space Stations</title>
-      <link>https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/</link>
-      <description>
-        <![CDATA[NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space stations. “In alignment with the President’s National [&#8230;]]]>
-      </description>
-      <source:markdown>NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space stations. “In alignment with the President’s National \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1055597</guid>
-      <category>Commercial Space</category>
-      <category>Human Spaceflight Mission Directorate</category>
-      <category>Low Earth Orbit Economy</category>
-      <pubDate>Fri, 09 Oct 2026 18:11:44 +0000</pubDate>
-    </item>    <item>
-      <title>Scientists Took a Cheek Swab From the World&#39;s Oldest Tortoise. His DNA Could Reveal Hints to Longevity</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-took-a-cheek-swab-from-the-worlds-oldest-tortoise-his-dna-could-reveal-hints-to-longevity-180989663/</link>
-      <description>
-        <![CDATA[Jonathan, an Aldabra giant tortoise, is about 194 years old and the oldest land animal alive today. Discoveries about his genetics could provide clues to extending lifespan in humans]]>
-      </description>
-      <source:markdown>Jonathan, an Aldabra giant tortoise, is about 194 years old and the oldest land animal alive today. Discoveries about his genetics could provide clues to extending lifespan in humans</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/WuqNR-4IIzd9LcRRF5wGfTJlA-A=/420x240/filters:focal(2016x1517:2017x1518)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a7/7b/a77be531-cb07-4a9e-a6dc-155b6c26f63d/saint-helena-plantation-house-jonathan-the-tortoise-by-kevin-gepford-02.jpg" length="4073791" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/scientists-took-a-cheek-swab-from-the-worlds-oldest-tortoise-his-dna-could-reveal-hints-to-longevity-180989663/</guid>
-      <pubDate>Fri, 09 Oct 2026 17:28:10 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Demonstrates Next-Generation Heat Shield Technologies</title>
-      <link>https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/</link>
-      <description>
-        <![CDATA[NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimental capsules designed to [&#8230;]]]>
-      </description>
-      <source:markdown>NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimental capsules designed to \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1055289</guid>
-      <category>Ames Research Center</category>
-      <category>EPSCoR</category>
-      <category>General</category>
-      <category>International Space Station (ISS)</category>
-      <category>Johnson Space Center</category>
-      <pubDate>Fri, 09 Oct 2026 16:59:24 +0000</pubDate>
-    </item>    <item>
-      <title>This One-of-a-Kind Bronze Ring Offers a Tantalizing Glimpse at the Lighthouse of Alexandria, a Lost Wonder of the Ancient World</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-one-of-a-kind-bronze-ring-offers-a-tantalizing-glimpse-at-the-lighthouse-of-alexandria-a-lost-wonder-of-the-ancient-world-180989661/</link>
-      <description>
-        <![CDATA[Archaeologists in Egypt discovered the signet ring while conducting excavations on the island of Antirhodos, which once housed a lavish Ptolemaic palace]]>
-      </description>
-      <source:markdown>Archaeologists in Egypt discovered the signet ring while conducting excavations on the island of Antirhodos, which once housed a lavish Ptolemaic palace</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/FTnbSIzIivGfsUs2Gb70ziz1tlg=/420x240/filters:focal(1000x667:1001x668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d1/1d/d11d5260-a855-4fe8-ab1c-8865c93aa333/ring.png" length="1807987" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-one-of-a-kind-bronze-ring-offers-a-tantalizing-glimpse-at-the-lighthouse-of-alexandria-a-lost-wonder-of-the-ancient-world-180989661/</guid>
-      <pubDate>Fri, 09 Oct 2026 15:21:52 +0000</pubDate>
-    </item>    <item>
-      <title>A Century Ago, an Extinct Crocodilian&#39;s Skull Was Found in the Rocks That Built the Sphinx. Turns Out, It Belonged to a New Species</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-century-ago-an-extinct-crocidilians-skull-was-found-in-the-rocks-that-built-the-sphinx-turns-out-it-belonged-to-a-new-species-180989641/</link>
-      <description>
-        <![CDATA[The specimen was long mislabeled, according to a new study. Paleontologists identified it as a  previously undescribed genus and species of gavial—a cousin of crocodiles and alligators—which they named after the ancient Egyptian god Horus]]>
-      </description>
-      <source:markdown>The specimen was long mislabeled, according to a new study. Paleontologists identified it as a previously undescribed genus and species of gavial—a cousin of crocodiles and alligators—which they named after the ancient Egyptian god Horus</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/i-giezARbc83-ETGxV1HDhAXVwI=/420x240/filters:focal(405x230:406x231)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b6/9f/b69fb13c-0813-4975-9b36-6e1c00272daf/new-croc.webp" length="49196" type="image/webp" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-century-ago-an-extinct-crocidilians-skull-was-found-in-the-rocks-that-built-the-sphinx-turns-out-it-belonged-to-a-new-species-180989641/</guid>
-      <pubDate>Fri, 09 Oct 2026 15:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>September&#39;s Ozone Hole Was the Biggest It Has Been in 25 Years</title>
-      <link>https://www.smithsonianmag.com/smart-news/septembers-ozone-hole-was-the-biggest-it-has-been-in-25-years-180989657/</link>
-      <description>
-        <![CDATA[The size of the hole in the stratosphere's ozone layer fluctuates every year, but last month's, measuring 10.6 million square miles, was especially large]]>
-      </description>
-      <source:markdown>The size of the hole in the stratosphere&#39;s ozone layer fluctuates every year, but last month&#39;s, measuring 10.6 million square miles, was especially large</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/LSy406YTr9qXqxakSsb4h6fR42I=/420x240/filters:focal(1000x709:1001x710)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/52/21/5221e37a-444a-4c23-9fd5-a82b199fac95/20260916_international_day_for_the_preservation_of_the_ozone_layer_copy.jpg" length="1066046" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/septembers-ozone-hole-was-the-biggest-it-has-been-in-25-years-180989657/</guid>
-      <pubDate>Fri, 09 Oct 2026 14:55:21 +0000</pubDate>
-    </item>    <item>
-      <title>A Community-Led Archaeology Dig on a Tiny Scottish Isle Has Unearthed a Medieval Monastery of &#39;International Importance&#39;</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-community-led-archaeology-dig-on-a-tiny-scottish-isle-has-unearthed-a-medieval-monastery-of-international-importance-180989654/</link>
-      <description>
-        <![CDATA[The settlement, founded by an early Christian saint in the 500s, is "far more than a small island church." It may have played a larger role in the Christianization of Britain than historians once realized]]>
-      </description>
-      <source:markdown>The settlement, founded by an early Christian saint in the 500s, is &#34;far more than a small island church.&#34; It may have played a larger role in the Christianization of Britain than historians once realized</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/mMyIu3rth8mOwZSjBCtPj2jeUWY=/420x240/filters:focal(797x531:798x532)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/19/1b/191b6b16-3366-4b72-ae0a-53d2fee141d1/community-led-archaeol-2.jpeg" length="1525815" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-community-led-archaeology-dig-on-a-tiny-scottish-isle-has-unearthed-a-medieval-monastery-of-international-importance-180989654/</guid>
-      <pubDate>Fri, 09 Oct 2026 14:35:25 +0000</pubDate>
-    </item>    <item>
-      <title>How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.</title>
-      <link>https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/</link>
-      <description>
-        <![CDATA[C.H. Waddington’s powerful image of embryonic stem cells specializing on a rolling landscape has captivated biologists since the 1950s. Experimental data is finally confirming, and complicating, his visionary ideas.            <p>The post <a href="https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/" target="_blank">How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>C.H. Waddington’s powerful image of embryonic stem cells specializing on a rolling landscape has captivated biologists since the 1950s. Experimental data is finally confirming, and complicating, his visionary ideas.
-
-The post [How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.](https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=167729</guid>
-      <category>Biology</category>
-      <pubDate>Fri, 09 Oct 2026 14:03:07 +0000</pubDate>
-    </item>    <item>
-      <title>Cosmic House of Mirrors</title>
-      <link>https://www.nasa.gov/image-article/cosmic-house-of-mirrors/</link>
-      <description>
-        <![CDATA[Galaxies warp and multiply as if in a house of mirrors in this image from NASA&#8217;s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS J0454.1-0300. The orange galaxies bunched together on one side of the image, however, are not actually [&#8230;]]]>
-      </description>
-      <source:markdown>Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS J0454.1-0300. The orange galaxies bunched together on one side of the image, however, are not actually \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1055170</guid>
-      <pubDate>Fri, 09 Oct 2026 13:57:24 +0000</pubDate>
-    </item>    <item>
-      <title>These South American Birds Can Match a Jackhammer&#39;s Ear-Splitting Volume, Making Them Some of the World&#39;s Loudest Known Avians</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-south-american-birds-can-match-a-jackhammers-ear-splitting-volume-making-them-some-of-the-worlds-loudest-known-avians-180989629/</link>
-      <description>
-        <![CDATA[The bare-throated bellbird and the red-legged seriema can produce sounds at amplitudes that exceed 120 decibels, which puts them on par with a trumpeting elephant or a chainsaw]]>
-      </description>
-      <source:markdown>The bare-throated bellbird and the red-legged seriema can produce sounds at amplitudes that exceed 120 decibels, which puts them on par with a trumpeting elephant or a chainsaw</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/vnVDL9AwiwfmbEooVuQIJVTG-tg=/420x240/filters:focal(1222x815:1223x816)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/19/ab/19abaa5d-7c15-46fa-8349-a5a9b9e6cc36/bare_throated_bellbird.jpg" length="1279259" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/these-south-american-birds-can-match-a-jackhammers-ear-splitting-volume-making-them-some-of-the-worlds-loudest-known-avians-180989629/</guid>
-      <pubDate>Fri, 09 Oct 2026 13:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>One of the toughest parts of ADHD is left out of the diagnosis</title>
-      <link>https://www.npr.org/2026/10/09/nx-s1-5978061/rejection-sensitive-dysphoria-adhd</link>
-      <description>
-        <![CDATA[ADHD diagnoses are on the rise in the United States, but what if professionals are missing a key part of the disorder? In the 1970s, some clinicians recognized a lot of their ADHD patients had trouble with emotional regulation. But because it was easier to measure behavior rather than emotions, the criteria eventually fell off the radar. Today in the U.S., emotional dysregulation is not a part of the ADHD diagnostic criteria in the Diagnostic and Statistical Manual of Mental Disorders (DSM). Dr. Sasha Hamdani thinks that needs to change. In today’s episode, she talks about her book <em>Too Sensitive</em>, and explains what is going on in the brains of people with Rejection Sensitive Dysphoria. <br/><br/><em>Interested in more mental health science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/><strong>Wender, P. H. (1971).</strong> <em>Minimal Brain Dysfunction in Children.</em> Wiley-Interscience. <a href="https://pubmed.ncbi.nlm.nih.gov/4581984/"target="_blank"   >https://pubmed.ncbi.nlm.nih.gov/4581984/</a> <br/><br/><strong>Barkley, R. A. (2015).</strong> Emotional dysregulation is a core component of ADHD. In R. A. Barkley (Ed.), <em>Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment</em> (4th ed., pp. 81–115). Guilford Press. <a href="https://www.guilford.com/excerpts/barkley2.pdf?t=1"target="_blank"   >https://www.guilford.com/excerpts/barkley2.pdf?t=1</a> <br/><br/><strong>Shaw, P., Stringaris, A., Nigg, J., & Leibenluft, E. (2014).</strong> Emotion dysregulation in attention deficit hyperactivity disorder. <em>American Journal of Psychiatry</em>, 171(3), 276–293.<a href="https://doi.org/10.1176/appi.ajp.2013.13070966"target="_blank"   > https://doi.org/10.1176/appi.ajp.2013.13070966</a><br/><br/><strong>Faraone, S. V., et al. (2019).</strong> Emotional dysregulation in adults with attention deficit hyperactivity disorder: Validity, aetiology, and clinical implications. <em>Neuroscience & Biobehavioral Reviews</em>, 107, 132–142.<a href="https://www.google.com/search?q=https://doi.org/10.1016/j.neubiorev.2019.08.021"target="_blank"   ></a><a href="https://doi.org/10.1016/j.neubiorev.2019.08.021"target="_blank"   >https://doi.org/10.1016/j.neubiorev.2019.08.021</a><br/><br/><strong>Bondü, R., & Esser, G. (2015).</strong> Justice and rejection sensitivity in children and adolescents with ADHD symptoms. <em>European Child & Adolescent Psychiatry</em>, 24(2), 185–198.<a href="https://www.google.com/search?q=https://doi.org/10.1007/s00787-014-0560-9"target="_blank"   ></a><a href="https://doi.org/10.1007/s00787-014-0560-9"target="_blank"   >https://doi.org/10.1007/s00787-014-0560-9</a><br/><br/><strong>Cleveland Clinic. (2022).</strong> <em>Rejection Sensitive Dysphoria (RSD): Symptoms & Treatment.</em> Cleveland Clinic Health Library. <a href="https://my.clevelandclinic.org/health/diseases/24099-rejection-sensitive-dysphoria-rsd"target="_blank"   >https://my.clevelandclinic.org/health/diseases/24099-rejection-sensitive-dysphoria-rsd</a><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>ADHD diagnoses are on the rise in the United States, but what if professionals are missing a key part of the disorder? In the 1970s, some clinicians recognized a lot of their ADHD patients had trouble with emotional regulation. But because it was easier to measure behavior rather than emotions, the criteria eventually fell off the radar. Today in the U.S., emotional dysregulation is not a part of the ADHD diagnostic criteria in the Diagnostic and Statistical Manual of Mental Disorders (DSM). Dr. Sasha Hamdani thinks that needs to change. In today’s episode, she talks about her book _Too Sensitive_, and explains what is going on in the brains of people with Rejection Sensitive Dysphoria.
-
-_Interested in more mental health science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-**Wender, P. H. (1971).** _Minimal Brain Dysfunction in Children._ Wiley-Interscience. [https://pubmed.ncbi.nlm.nih.gov/4581984/](https://pubmed.ncbi.nlm.nih.gov/4581984/)
-
-**Barkley, R. A. (2015).** Emotional dysregulation is a core component of ADHD. In R. A. Barkley (Ed.), _Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment_ (4th ed., pp. 81–115). Guilford Press. [https://www.guilford.com/excerpts/barkley2.pdf?t=1](https://www.guilford.com/excerpts/barkley2.pdf?t=1)
-
-**Shaw, P., Stringaris, A., Nigg, J., &#38; Leibenluft, E. (2014).** Emotion dysregulation in attention deficit hyperactivity disorder. _American Journal of Psychiatry_, 171(3), 276–293. [https://doi.org/10.1176/appi.ajp.2013.13070966](https://doi.org/10.1176/appi.ajp.2013.13070966)
-
-**Faraone, S. V., et al. (2019).** Emotional dysregulation in adults with attention deficit hyperactivity disorder: Validity, aetiology, and clinical implications. _Neuroscience &#38; Biobehavioral Reviews_, 107, 132–142. [https://doi.org/10.1016/j.neubiorev.2019.08.021](https://doi.org/10.1016/j.neubiorev.2019.08.021)
-
-**Bondü, R., &#38; Esser, G. (2015).** Justice and rejection sensitivity in children and adolescents with ADHD symptoms. _European Child &#38; Adolescent Psychiatry_, 24(2), 185–198. [https://doi.org/10.1007/s00787-014-0560-9](https://doi.org/10.1007/s00787-014-0560-9)
-
-**Cleveland Clinic. (2022).** _Rejection Sensitive Dysphoria (RSD): Symptoms &#38; Treatment._ Cleveland Clinic Health Library. [https://my.clevelandclinic.org/health/diseases/24099-rejection-sensitive-dysphoria-rsd](https://my.clevelandclinic.org/health/diseases/24099-rejection-sensitive-dysphoria-rsd)
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/60ac9a5d-7083-4c69-b86b-fb316b73c8d6/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=60ac9a5d-7083-4c69-b86b-fb316b73c8d6&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-5978061&#38;p=510351&#38;d=729&#38;size=11665745" length="11665745" type="audio/mpeg" />
-      <guid>cid://7301e268-8d8e-4329-993d-a1da3108d8b9</guid>
-      <pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>APOD: 2026 October 9 – Stickney Crater</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 October 9… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Stickney Crater Explanation: Stickney [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 October 9… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Stickney Crater Explanation: Stickney \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/</guid>
-      <category>APOD</category>
-      <pubDate>Fri, 09 Oct 2026 04:05:00 +0000</pubDate>
-    </item>    <item>
-      <title>Floodwaters Overwhelm Thailand</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/</link>
-      <description>
-        <![CDATA[Heavy rains since mid-September have caused widespread flooding that has affected millions of people across the country.]]>
-      </description>
-      <source:markdown>Heavy rains since mid-September have caused widespread flooding that has affected millions of people across the country.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/</guid>
-      <category>Earth Observatory</category>
-      <category>Floods</category>
-      <category>Landsat 8 / LDCM (Landsat Data Continuity Mission)</category>
-      <category>Landsat 9</category>
-      <pubDate>Fri, 09 Oct 2026 04:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

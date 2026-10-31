@@ -3,13 +3,13 @@
 <head>
   <meta charset="utf-8" >
   <meta name="generator" content="antenna/0.0.28" >
-  <meta name="date" content="2026-10-30T06:46:13-07:00" >
+  <meta name="date" content="2026-10-31T06:44:36-07:00" >
   <meta name="viewport" content="width=device-width, initial-scale=1.0" >
   <title>STEM</title>
-  <link href="css/site.css" rel="stylesheet" >
+  <link rel="stylesheet" href="css/site.css" >
   <link rel="alternate" type="application/rss+xml" href="science_and_technology.xml" >
-  <script type="module" src="modules/date_filter.js" ></script>
-  <script type="module" src="modules/article_collapse.js" ></script>
+  <script src="modules/date_filter.js" type="module" ></script>
+  <script src="modules/article_collapse.js" type="module" ></script>
 </head>
 <body>
   <a href="#main-content" class="skip-link">Skip to main content</a>
@@ -44,9 +44,197 @@
     <div class="article-filter"><label for="filter-by-date">Filter by date:</label> <input id="filter-by-date" type="date"></div>
   <main id="main-content" tabindex="-1">
 
+    <article data-published="2026-10-31T08:02:17Z" data-link="https://www.osnews.com/story/146275/sculpt-os-26-10-releases/" data-pagefind-filter="category:Genode, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-10-31T08:02:17Z, label:OS News, channel:https://www.osnews.com/feed/">
+      <h2>Sculpt OS 26.10 releases</h2>
+      <p><time datetime="2026-10-31">2026-10-31</time></p>
+      <div class="article-body"><p>Sculpt OS 26.10 brings quite a few new features, like scalable cursors, support for UK keyboards, better webcam support, and more, but the real meat of this release is much tastier. First, Sculpt 26.10 is the first version based on Genode’s custom microkernel instead of relying on a 3rd-party kernel. This kernel – designed from the ground up for the needs of Genode and Sculpt OS in particular – is not only more “micro” than any other of the microkernels supported by Genode, it also solves long-standing deficiencies concerning CPU scheduling and kernel-memory management. Sculpt OS finally stands on Genode’s own footing! Finally, Sculpt OS 26.10 pays tribute to this year’s overall theme of “building bridges” by featuring our software development kit (Goa SDK) running directly on Sculpt OS without virtualization. This entails a wealth of tooling including GCC, Binutils, Git, Sequoia, Expect, Curl, man, Make, and CMake having landed on Genode. Although still young and not time-tested yet, it shows what’s possible today and allows us developers to gradually shift more and more development routine into this self-hosted environment, stressing the general-purpose qualities of Genode and motivating further optimizations. ↫ Sculpt OS release 26.10 announcement This new release also completes the transition from XML to Genode’s own HID language for configuration, moves from VirtualBox 6 to 7, and upgrades a whole slew of its Linux-based drivers</p>
+</div>
+      <footer>
+        <a href="https://www.osnews.com/story/146275/sculpt-os-26-10-releases/">Continue reading</a>
+        <p class="source">via OS News</p>
+      </footer>
+    </article>
+
+    <article data-published="2026-10-31T07:54:57Z" data-link="https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/" data-pagefind-filter="category:Windows, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-10-31T07:54:57Z, label:OS News, channel:https://www.osnews.com/feed/">
+      <h2>How long do you need to hold down the power button to turn off a PC?</h2>
+      <p><time datetime="2026-10-31">2026-10-31</time></p>
+      <div class="article-body"><p>Raymond Chen published another story from the Windows development trenches, this time about what happens when you hold down the power button. If you hold a PC’s power button for 12 seconds, it will turn off at the hardware level without notifying the operating system. This is a safety feature so that you can turn of the computer even if the operating system’s “Shut down” command isn’t working. After eight seconds of the power button being held down, the Windows kernel realizes that the user is trying to do a force-power-off of the system, and it quickly takes a kernel dump that can be uploaded to the Windows Error Reporting service the next time you turn the system on. ↫ Raymond Chen I’m a bit confused by these numbers, because I have never seen a PC take this long to power off when holding down the power button; usually it takes only a few seconds to do so, meaning Windows would never generate said kernel dump. I tried reading through the various ATX specification documents to find more information on this, but then I remembered I’m not an electrical engineer so I have no idea what I’m looking at. The baseline is that ATX always provides standby power to the motherboard, and pressing the power button shorts the power button pin to ground, telling the PSU to power on fully. Pressing the power button if the computer is running tells the operating system to initiate a shutdown (although you can change this behaviour), but if you hold the button down for a certain number of seconds, it forces a power-off. So far, so good; basic information. It seems that the length of time you need to hold down the power button to force a power-off is dependent on the motherboard in question, handled by a microcontroller or some other IC. Virtually every source I can find says this timing is set to about 4-5 seconds, which is quite a bit shorter than the number of seconds given by Chen. Perhaps motherboard manufacturers consider the 12 seconds to be too long, and just do their own thing, regardless what the ATX specification suggests? What further complicates matters is that Chen details how the kernel dumps created after pressing the power button for 8 seconds do, in fact, get sent to Microsoft once the computer turns on again. In fact, he is one of the people who gets to see these dumps and respond to them, so obviously they are indeed rolling in. Does this mean there’s a huge number of computers out there that require you to hold down the power button for 12 seconds to force a shutdown that nobody’s ever seen? These emergency kernel dumps are internally classified as “long power button hold” (LPBH) failures. One of the pieces of information recorded in these emergency kernel dumps is whether the screen consists entirely of black pixels. Those failures are sub-classified as “black screen LPBH”, and they go to a special virtual team for analysis. (I happen to be a member of this black screen LPBH team.) ↫ Raymond Chen What’s going on here? Obviously, I’m not going to doubt Chen, so there must be something here I don’t quite understand or that I’m missing. The ATX specification might suggest 12 seconds, but could Windows perhaps adapt its kernel dump behaviour – dumping much sooner than 8 seconds – based on the motherboard it’s running on, maybe through information provided by the chipset drivers? I would love it if someone more knowledgeable than me can help us unravel this small mystery.</p>
+</div>
+      <footer>
+        <a href="https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/">Continue reading</a>
+        <p class="source">via OS News</p>
+      </footer>
+    </article>
+
+    <article data-published="2026-10-31T07:10:02Z" data-link="https://www.osnews.com/story/146271/how-curl-was-accidentally-turing-complete-for-nine-months/" data-pagefind-filter="category:Internet, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-10-31T07:10:02Z, label:OS News, channel:https://www.osnews.com/feed/">
+      <h2>How curl was accidentally Turing-complete for nine months</h2>
+      <p><time datetime="2026-10-31">2026-10-31</time></p>
+      <div class="article-body"><p>From curl 8.12 through 8.16, config files could slice variable values and include other config files without an explicit depth cap. Together, these features let curl simulate any two-counter Minsky program. Under the usual idealization of unbounded strings and resources, this construction was Turing-complete. Curl 8.17.0 added a five-level include cap that breaks this reduction. ↫ Nicolas Seriot Neat.</p>
+</div>
+      <footer>
+        <a href="https://www.osnews.com/story/146271/how-curl-was-accidentally-turing-complete-for-nine-months/">Continue reading</a>
+        <p class="source">via OS News</p>
+      </footer>
+    </article>
+
+    <article data-published="2026-10-31T04:05:00Z" data-link="https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/" data-pagefind-filter="category:APOD, datePublished:2026-10-31T04:05:00Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
+      <h2>APOD: 2026 October 31 – Night on a Spooky Planet</h2>
+      <p><time datetime="2026-10-31">2026-10-31</time></p>
+      <div class="article-body"><p>APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a […]</p>
+</div>
+      <footer>
+        <a href="https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/">Continue reading</a>
+        <p class="source">via NASA breaking news</p>
+      </footer>
+    </article>
+
+    <article data-published="2026-10-30T20:20:20Z" data-link="https://www.smithsonianmag.com/smart-news/crafted-from-bone-this-2800-year-old-flute-unearthed-in-troy-may-have-been-played-around-the-time-that-homer-composed-the-iliad-and-the-odyssey-180989792/" data-pagefind-filter="datePublished:2026-10-30T20:20:20Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
+      <h2>Crafted From Bone, This 2,800-Year-Old Flute Unearthed in Troy May Have Been Played Around the Time That Homer Composed &#39;The Iliad&#39; and &#39;The Odyssey&#39;</h2>
+      <p><time datetime="2026-10-30">2026-10-30</time></p>
+      <div class="article-body"><p>After more than 150 years of excavations, the object is the first musical instrument ever discovered in the ruins of the ancient city, which is located in modern-day Turkey</p>
+</div>
+      <footer>
+        <a href="https://www.smithsonianmag.com/smart-news/crafted-from-bone-this-2800-year-old-flute-unearthed-in-troy-may-have-been-played-around-the-time-that-homer-composed-the-iliad-and-the-odyssey-180989792/">Continue reading</a>
+        <p class="source">via Smithsonian Magazine</p>
+      </footer>
+    </article>
+
+    <article data-published="2026-10-30T20:07:35Z" data-link="https://www.smithsonianmag.com/smart-news/a-dog-left-a-paw-print-on-this-mud-brick-4000-years-ago-archaeologists-discovered-it-in-the-rubble-of-a-bronze-age-house-180989785/" data-pagefind-filter="datePublished:2026-10-30T20:07:35Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
+      <h2>A Dog Left a Paw Print on This Mud Brick 4,000 Years Ago. Archaeologists Discovered It in the Rubble of a Bronze Age House</h2>
+      <p><time datetime="2026-10-30">2026-10-30</time></p>
+      <div class="article-body"><p>The brick was found at Tavsanli Hoyuk, an archaeological site in western Turkey. Humans and dogs in this region have had a close relationship for thousands of years</p>
+</div>
+      <footer>
+        <a href="https://www.smithsonianmag.com/smart-news/a-dog-left-a-paw-print-on-this-mud-brick-4000-years-ago-archaeologists-discovered-it-in-the-rubble-of-a-bronze-age-house-180989785/">Continue reading</a>
+        <p class="source">via Smithsonian Magazine</p>
+      </footer>
+    </article>
+
+    <article data-published="2026-10-30T19:31:02Z" data-link="https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/" data-pagefind-filter="category:General, category:Aeronautics, category:Astronauts, category:Human Spaceflight Mission Directorate, category:Kennedy Space Center, category:Moon Base, category:Nancy Grace Roman Space Telescope, category:Quesst (X-59), category:Research and Technology Mission Directorate, category:Science Mission Directorate, category:Space Nuclear Propulsion (SNP), dc_creator:Jessica Taveau, author:Jessica Taveau, datePublished:2026-10-30T19:31:02Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
+      <h2>NASA Releases MAX POWER Key Events for Media, Participants</h2>
+      <p><time datetime="2026-10-30">2026-10-30</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
+      <div class="article-body"><p>America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external collaborators […]</p>
+</div>
+      <footer>
+        <a href="https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/">Continue reading</a>
+        <p class="source">via NASA breaking news</p>
+      </footer>
+    </article>
+
+    <article data-published="2026-10-30T19:13:07Z" data-link="https://www.smithsonianmag.com/smart-news/madagascars-giant-bats-seem-to-be-shrinking-after-measuring-121-specimens-scientists-suggest-hunting-by-humans-is-to-blame-180989782/" data-pagefind-filter="datePublished:2026-10-30T19:13:07Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
+      <h2>Madagascar&#39;s Giant Bats Seem to Be Shrinking. After Measuring 121 Specimens, Scientists Suggest Hunting by Humans Is to Blame</h2>
+      <p><time datetime="2026-10-30">2026-10-30</time></p>
+      <div class="article-body"><p>In a new study, researchers looked at museum specimens of the island’s flying foxes, spanning 150 years of history. They found a significant decline in size—right when commercial hunting ramped up</p>
+</div>
+      <footer>
+        <a href="https://www.smithsonianmag.com/smart-news/madagascars-giant-bats-seem-to-be-shrinking-after-measuring-121-specimens-scientists-suggest-hunting-by-humans-is-to-blame-180989782/">Continue reading</a>
+        <p class="source">via Smithsonian Magazine</p>
+      </footer>
+    </article>
+
+    <article data-published="2026-10-30T18:42:39Z" data-link="https://www.smithsonianmag.com/smart-news/this-rosy-stone-spotted-in-the-sahara-turned-out-to-be-a-4-1-billion-year-old-meteorite-from-mars-one-of-the-oldest-ever-found-180989786/" data-pagefind-filter="datePublished:2026-10-30T18:42:39Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
+      <h2>This Rosy Stone Spotted in the Sahara Turned Out to Be a 4.1-Billion-Year-Old Meteorite From Mars, One of the Oldest Ever Found</h2>
+      <p><time datetime="2026-10-30">2026-10-30</time></p>
+      <div class="article-body"><p>Martian samples this old are extremely rare and offer clues about the Red Planet's youth. This meteorite further hints that our celestial neighbor was once a watery world, suggesting it could've had the conditions to host life</p>
+</div>
+      <footer>
+        <a href="https://www.smithsonianmag.com/smart-news/this-rosy-stone-spotted-in-the-sahara-turned-out-to-be-a-4-1-billion-year-old-meteorite-from-mars-one-of-the-oldest-ever-found-180989786/">Continue reading</a>
+        <p class="source">via Smithsonian Magazine</p>
+      </footer>
+    </article>
+
+    <article data-published="2026-10-30T18:34:14Z" data-link="https://www.smithsonianmag.com/smart-news/manga-are-black-white-and-read-all-over-treasures-of-the-globally-popular-japanese-comic-book-medium-are-on-view-in-new-york-180989788/" data-pagefind-filter="datePublished:2026-10-30T18:34:14Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
+      <h2>Manga Are Black, White and Read All Over. Treasures of the Globally Popular Japanese Comic Book Medium Are on View in New York</h2>
+      <p><time datetime="2026-10-30">2026-10-30</time></p>
+      <div class="article-body"><p>The Brooklyn Museum's &quot;Art of Manga&quot; exhibition highlights the &quot;mangaka,&quot; or creators, who have shaped the medium. Hundreds of original illustrations are making a rare trip to the United States</p>
+</div>
+      <footer>
+        <a href="https://www.smithsonianmag.com/smart-news/manga-are-black-white-and-read-all-over-treasures-of-the-globally-popular-japanese-comic-book-medium-are-on-view-in-new-york-180989788/">Continue reading</a>
+        <p class="source">via Smithsonian Magazine</p>
+      </footer>
+    </article>
+
+    <article data-published="2026-10-30T15:57:10Z" data-link="https://www.smithsonianmag.com/smart-news/where-is-englands-oldest-pub-an-archaeologist-drilled-into-600-year-old-timbers-to-answer-the-contentious-question-180989783/" data-pagefind-filter="datePublished:2026-10-30T15:57:10Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
+      <h2>Where Is England&#39;s Oldest Pub? An Archaeologist Drilled Into 600-Year-Old Timbers to Answer the Contentious Question</h2>
+      <p><time datetime="2026-10-30">2026-10-30</time></p>
+      <div class="article-body"><p>Tree-ring dating shows that a historic tavern in Somerset has been continually operating as an inn since the 1430s, when local monks built it to lodge wool merchants</p>
+</div>
+      <footer>
+        <a href="https://www.smithsonianmag.com/smart-news/where-is-englands-oldest-pub-an-archaeologist-drilled-into-600-year-old-timbers-to-answer-the-contentious-question-180989783/">Continue reading</a>
+        <p class="source">via Smithsonian Magazine</p>
+      </footer>
+    </article>
+
+    <article data-published="2026-10-30T15:56:26Z" data-link="https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/" data-pagefind-filter="category:Nebulae, dc_creator:HQ Web Team, author:HQ Web Team, datePublished:2026-10-30T15:56:26Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
+      <h2>NASA’s James Webb Space Telescope Captures Eerie Cat’s Head</h2>
+      <p><time datetime="2026-10-30">2026-10-30</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
+      <div class="article-body"><p>Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback […]</p>
+</div>
+      <footer>
+        <a href="https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/">Continue reading</a>
+        <p class="source">via NASA breaking news</p>
+      </footer>
+    </article>
+
+    <article data-published="2026-10-30T15:46:34Z" data-link="https://www.smithsonianmag.com/smart-news/three-in-four-former-nfl-players-who-died-from-2008-through-2023-may-have-had-cte-a-brain-disease-caused-by-repeated-head-injuries-180989780/" data-pagefind-filter="datePublished:2026-10-30T15:46:34Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
+      <h2>Three in Four Former NFL Players Who Died From 2008 Through 2023 May Have Had CTE, a Brain Disease Caused by Repeated Head Injuries</h2>
+      <p><time datetime="2026-10-30">2026-10-30</time></p>
+      <div class="article-body"><p>The researchers also estimate that around one in four of the former football players had dementia, a common feature of late-stage CTE</p>
+</div>
+      <footer>
+        <a href="https://www.smithsonianmag.com/smart-news/three-in-four-former-nfl-players-who-died-from-2008-through-2023-may-have-had-cte-a-brain-disease-caused-by-repeated-head-injuries-180989780/">Continue reading</a>
+        <p class="source">via Smithsonian Magazine</p>
+      </footer>
+    </article>
+
+    <article data-published="2026-10-30T15:00:10Z" data-link="https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/" data-pagefind-filter="category:AI, category:Artificial Intelligence, category:Nemotron, category:NVIDIA Holoscan, category:Science, dc_creator:Chris Porter, author:Chris Porter, datePublished:2026-10-30T15:00:10Z, label:NVidia blog, channel:https://blogs.nvidia.com/feed/">
+      <h2>Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals</h2>
+      <p><time datetime="2026-10-30">2026-10-30</time></p>
+      <div class="article-body"><p>While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […]</p>
+</div>
+      <footer>
+        <a href="https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/">Continue reading</a>
+        <p class="source">via NVidia blog</p>
+      </footer>
+    </article>
+
+    <article data-published="2026-10-30T14:52:05Z" data-link="https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/" data-pagefind-filter="category:Physics, dc_creator:Perri Thaler, author:Perri Thaler, datePublished:2026-10-30T14:52:05Z, label:Quanta Magazine, channel:https://www.quantamagazine.org/feed/">
+      <h2>A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy</h2>
+      <p><time datetime="2026-10-30">2026-10-30</time></p>
+      <div class="article-body"><p>For decades, astronomers treated the interstellar medium as a static backdrop to the goings-on of the universe. Now, a wave of 3D mapping is bringing the interstellar medium’s dynamic nature into focus.</p>
+<p>The post <a href="https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/">A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy</a> first appeared on <a href="https://www.quantamagazine.org">Quanta Magazine</a></p>
+</div>
+      <footer>
+        <a href="https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/">Continue reading</a>
+        <p class="source">via Quanta Magazine</p>
+      </footer>
+    </article>
+
+    <article data-published="2026-10-30T14:51:21Z" data-link="https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/" data-pagefind-filter="category:Astrophysics, category:Astrophysics Division, category:Goddard Space Flight Center, category:Hubble Space Telescope, category:The Universe, datePublished:2026-10-30T14:51:21Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
+      <h2>NASA Explores Potential Commercial Servicing for Hubble Telescope</h2>
+      <p><time datetime="2026-10-30">2026-10-30</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
+      <div class="article-body"><p>NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.</p>
+</div>
+      <footer>
+        <a href="https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/">Continue reading</a>
+        <p class="source">via NASA breaking news</p>
+      </footer>
+    </article>
+
+    <article data-published="2026-10-30T14:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/crows-can-make-decisions-based-on-visual-information-at-lightning-speed-roughly-twice-as-fast-as-humans-can-study-suggests-180989779/" data-pagefind-filter="datePublished:2026-10-30T14:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
+      <h2>Crows Can Make Decisions Based on Visual Information at Lightning Speed—Roughly Twice as Fast as Humans Can, Study Suggests</h2>
+      <p><time datetime="2026-10-30">2026-10-30</time></p>
+      <div class="article-body"><p>Even though the brain structures of birds and mammals are different, a new study suggests that crows and primates have similar decision-making nerve cell circuitry</p>
+</div>
+      <footer>
+        <a href="https://www.smithsonianmag.com/smart-news/crows-can-make-decisions-based-on-visual-information-at-lightning-speed-roughly-twice-as-fast-as-humans-can-study-suggests-180989779/">Continue reading</a>
+        <p class="source">via Smithsonian Magazine</p>
+      </footer>
+    </article>
+
     <article data-published="2026-10-30T10:00:00Z" data-link="https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/" data-pagefind-filter="category:Night Sky Network, datePublished:2026-10-30T10:00:00Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
       <h2>November’s Night Sky Notes: Light-Day Away</h2>
-      <p><time datetime="2026-10-30">2026-10-30</time></p>
+      <p><time datetime="2026-10-30">2026-10-30</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
       <div class="article-body"><p>Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. […]</p>
 </div>
       <footer>
@@ -72,7 +260,7 @@
 
     <article data-published="2026-10-30T04:05:00Z" data-link="https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/" data-pagefind-filter="category:APOD, datePublished:2026-10-30T04:05:00Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
       <h2>APOD: 2026 October 30 – Haunting the Cepheus Flare</h2>
-      <p><time datetime="2026-10-30">2026-10-30</time></p>
+      <p><time datetime="2026-10-30">2026-10-30</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
       <div class="article-body"><p>APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Haunting the Cepheus […]</p>
 </div>
       <footer>
@@ -83,7 +271,7 @@
 
     <article data-published="2026-10-30T04:01:00Z" data-link="https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/" data-pagefind-filter="category:Earth Observatory, category:Ice &amp; Glaciers, category:Landsat 9, datePublished:2026-10-30T04:01:00Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
       <h2>Vega Island Frozen in Fright</h2>
-      <p><time datetime="2026-10-30">2026-10-30</time></p>
+      <p><time datetime="2026-10-30">2026-10-30</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
       <div class="article-body"><p>The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.</p>
 </div>
       <footer>
@@ -94,7 +282,7 @@
 
     <article data-published="2026-10-30T00:16:30Z" data-link="https://www.osnews.com/story/146267/alpinebsd-combines-netbsd-with-alpines-apk-package-manager/" data-pagefind-filter="category:NetBSD, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-10-30T00:16:30Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>AlpineBSD combines NetBSD with Alpine’s apk package manager</h2>
-      <p><time datetime="2026-10-30">2026-10-30</time></p>
+      <p><time datetime="2026-10-30">2026-10-30</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
       <div class="article-body"><p>AlpineBSD is an operating system based on the NetBSD kernel with a userspace inspired by Alpine Linux and the objective of making it possible to use as little AI-generated software as possible. There is no LLM output included in the base system or main package repository (AlpineBSD AI policy). ↫ AlpineBSD’s website AlpineBSD uses the NetBSD kernel, libc, and essential tools, and combines them with Alpine’s apk-tools package manager, busybox, and generlaly preferring GNU tools over their BSD equivalents. It uses the s6 init system, but the project intends to add OpenRC as an alternative. The project is in its very early stages, so don’t expect things like an installer; you’re on your own, basically.</p>
 </div>
       <footer>
@@ -105,7 +293,7 @@
 
     <article data-published="2026-10-30T00:09:59Z" data-link="https://www.osnews.com/story/146265/my-favourite-powermac-is-a-nintendo-wii/" data-pagefind-filter="category:macOS, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-10-30T00:09:59Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>“My favourite PowerMac is a Nintendo Wii”</h2>
-      <p><time datetime="2026-10-30">2026-10-30</time></p>
+      <p><time datetime="2026-10-30">2026-10-30</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
       <div class="article-body"><p>The Nintendo Wii (and its related consoles) were already made to run the PowerPC version of Windows NT as well as Mac OS X, but now we can add another milestone to the list: classic Mac OS. So today I reached a nice milestone in one of my projects: my work porting classic Mac OS to PowerPC systems with what I affectionately call ArtX chipsets (Nintendo GameCube, Wii, eventually Wii U; the GameCube’s Flipper integrated chipset was very much designed by ArtX as it was effectively finished when ATI acquired the company, and the Wii’s Vegas (and its later revision Bollywood) and Wii U’s Latte are effectively straight successors) reached the desktop for the first time, most likely the first time since the CHRP clone era that someone outside of Apple brought up classic Mac OS on a new system to the desktop. Despite still being nowhere near ready for a public release, I want to talk about the challenges I faced with this project so far. ↫ Rairii at Virtuallyfun Various versions of Mac OS boot to the desktop, including Mac OS 9.2.2, the last ever version, but there’s still a ton or work to be done before this is ready for release. Still, with Rairii amazing track record of porting all kinds of things to various PowerPC machines, including getting the PowerPC version of Windows NT to run on various PowerPC Macs, I have little doubt they’ll manager to get this to a releasable state. I absolutely love this kind of work.</p>
 </div>
       <footer>
@@ -116,7 +304,7 @@
 
     <article data-published="2026-10-30T00:07:39Z" data-link="https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/" data-pagefind-filter="datePublished:2026-10-30T00:07:39Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
       <h2>Map Showing Potential Origins of Martian Meteorite Teghaza 001</h2>
-      <p><time datetime="2026-10-30">2026-10-30</time></p>
+      <p><time datetime="2026-10-30">2026-10-30</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
       <div class="article-body"><p>Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorite originated, Teghaza 001 includes clues that link it to highlands in the southern hemisphere of […]</p>
 </div>
       <footer>
@@ -127,7 +315,7 @@
 
     <article data-published="2026-10-29T23:57:46Z" data-link="https://www.osnews.com/story/146263/microsoft-hopefully-fixes-modern-standby-and-adds-online-windows-reinstallation/" data-pagefind-filter="category:Windows, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-10-29T23:57:46Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>Microsoft hopefully fixes Modern Standby and adds online Windows reinstallation</h2>
-      <p><time datetime="2026-10-29">2026-10-29</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
+      <p><time datetime="2026-10-29">2026-10-29</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
       <div class="article-body"><p>I think it’s safe to say that Windows’ Modern Standby feature isn’t exactly free from issues. The biggest problem seems to be that it’s not very good at actually determining when to transition between regular sleep and hibernation, often leaving users with an empty battery as they open their laptop’s lid. Microsoft has now released an update to hopefully address this long-standing problem. This update improves the adaptive hibernate policy to provide more instant-on resumes from Modern Standby while helping preserve battery life when the charge is low. Noticeable changes include less hibernation while the battery is above 80% and hibernating sooner when the battery is below 10%. ↫ KB5127936 Among other new features and changes this update brings are Cloud Rebuild, a way for devices to install Windows without needing a local image. Cloud Rebuild can be started form within an existing installation, remotely by administrators, or through the Windows Recovery Environment. Obviously, a working internet connection, wired or wireless, is required for this feature to work. This is the same update that introduces CLAT, which we talked about yesterday, to smooth the transition from IPv4 to IPv6.</p>
 </div>
       <footer>
@@ -138,7 +326,7 @@
 
     <article data-published="2026-10-29T23:32:35Z" data-link="https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/" data-pagefind-filter="category:Meteors &amp; Meteorites, category:Photojournal, datePublished:2026-10-29T23:32:35Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
       <h2>Slice of Martian Meteorite Teghaza 001</h2>
-      <p><time datetime="2026-10-29">2026-10-29</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
+      <p><time datetime="2026-10-29">2026-10-29</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
       <div class="article-body"><p>Description This slice of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth, was used to determine the age of the rock. Reflected light images like these serve as a scientist’s road map, helping them find minerals of interest to analyze by different instruments. Figure A is the same image with […]</p>
 </div>
       <footer>
@@ -149,7 +337,7 @@
 
     <article data-published="2026-10-29T21:44:23Z" data-link="https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/" data-pagefind-filter="category:Johnson Space Center, category:International Space Station (ISS), dc_creator:Sumer Loggins, author:Sumer Loggins, datePublished:2026-10-29T21:44:23Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
       <h2>Halloween Aboard the International Space Station</h2>
-      <p><time datetime="2026-10-29">2026-10-29</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
+      <p><time datetime="2026-10-29">2026-10-29</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
       <div class="article-body"><p>Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative costumes, often designed from materials available aboard the […]</p>
 </div>
       <footer>
@@ -160,7 +348,7 @@
 
     <article data-published="2026-10-29T20:58:27Z" data-link="https://www.smithsonianmag.com/smart-news/from-a-black-limo-with-a-silken-armchair-to-a-bulletproof-sardine-can-the-vatican-looks-back-at-the-evolution-of-the-popemobile-180989778/" data-pagefind-filter="datePublished:2026-10-29T20:58:27Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>From a Black Limo With a Silken Armchair to a Bulletproof &#39;Sardine Can,&#39; the Vatican Looks Back at the Evolution of the Popemobile</h2>
-      <p><time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-29">2026-10-29</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>A new exhibition at the Vatican Museums highlights a century of collaboration with Mercedes-Benz, showcasing eight papal vehicles that developed from a &quot;means of transportation into an instrument of encounter,&quot; per Pope Leo XIV</p>
 </div>
       <footer>
@@ -182,7 +370,7 @@
 
     <article data-published="2026-10-29T18:13:48Z" data-link="https://www.smithsonianmag.com/smart-news/gullivers-travels-turns-300-this-week-jonathan-swifts-profound-satrire-of-human-nature-is-still-just-as-bitingly-relevant-180989777/" data-pagefind-filter="datePublished:2026-10-29T18:13:48Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>&#39;Gulliver&#39;s Travels&#39; Turns 300 This Week. Jonathan Swift&#39;s &#39;Profound Satire of Human Nature&#39; Is Still Just as Bitingly Relevant</h2>
-      <p><time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-29">2026-10-29</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Since it was first published in October 1726, the novel purporting to tell the fantastical travel tales of Captain Lemuel Gulliver has never left print. An exhibition of rare editions and adaptations in Dublin celebrates Swift's most famous work</p>
 </div>
       <footer>
@@ -215,7 +403,7 @@
 
     <article data-published="2026-10-29T17:07:35Z" data-link="https://www.smithsonianmag.com/smart-news/drug-resistant-germs-now-kill-more-than-50000-americans-each-year-according-to-a-new-cdc-report-180989774/" data-pagefind-filter="datePublished:2026-10-29T17:07:35Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Drug-Resistant Germs Now Kill More Than 50,000 Americans Each Year, According to a New CDC Report</h2>
-      <p><time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-29">2026-10-29</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The Centers for Disease Control and Prevention has identified 19 &quot;superbugs&quot; that currently pose a threat to human health in the United States, plus another six that are being monitored as potential threats</p>
 </div>
       <footer>
@@ -226,7 +414,7 @@
 
     <article data-published="2026-10-29T16:00:35Z" data-link="https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/" data-pagefind-filter="category:Robotics, category:Agentic AI, category:Into the Omniverse, category:NVIDIA Isaac Sim, category:Omniverse, category:OpenUSD, category:Physical AI, category:Simulation, dc_creator:NVIDIA Writers, author:NVIDIA Writers, datePublished:2026-10-29T16:00:35Z, label:NVidia blog, channel:https://blogs.nvidia.com/feed/">
       <h2>Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents</h2>
-      <p><time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-29">2026-10-29</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]</p>
 </div>
       <footer>
@@ -260,7 +448,7 @@
 
     <article data-published="2026-10-29T15:09:54Z" data-link="https://www.smithsonianmag.com/smart-news/paleontologists-discover-the-first-known-amphibian-that-lived-entirely-at-sea-a-flat-armored-creature-from-237-million-years-ago-180989772/" data-pagefind-filter="datePublished:2026-10-29T15:09:54Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Paleontologists Discover the First Known Amphibian That Lived Entirely at Sea: a Flat, Armored Creature From 237 Million Years Ago</h2>
-      <p><time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-29">2026-10-29</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Two nearly complete fossilized skeletons of the strange new species were found in southwestern China. Scientists suspect its marine lifestyle was an evolutionary accident</p>
 </div>
       <footer>
@@ -271,7 +459,7 @@
 
     <article data-published="2026-10-29T14:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/a-rare-nanotyrannus-skeleton-sells-for-47-3-million-dollars-becoming-the-second-most-valuable-dinosaur-auctioned-180989771/" data-pagefind-filter="datePublished:2026-10-29T14:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>A Rare Nanotyrannus Skeleton Sells for $47.3 Million, Becoming the Second Most Valuable Dinosaur Ever Auctioned</h2>
-      <p><time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-29">2026-10-29</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Paleontologists have long argued over whether some small tyrannosaur skeletons belonged to a new genus, called Nanotyrannus, or were young Tyrannosaurus rex. &quot;Jodi&quot; was sold just one year after researchers reported the most conclusive evidence yet that Nanotyrannus is valid</p>
 </div>
       <footer>
@@ -282,7 +470,7 @@
 
     <article data-published="2026-10-29T13:00:16Z" data-link="https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/" data-pagefind-filter="category:Gaming, category:Cloud Gaming, category:GeForce NOW, dc_creator:GeForce NOW Community, author:GeForce NOW Community, datePublished:2026-10-29T13:00:16Z, label:NVidia blog, channel:https://blogs.nvidia.com/feed/">
       <h2>Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW</h2>
-      <p><time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-29">2026-10-29</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud. There’s also something on the horizon for adventurers: World of Warcraft: Forever arrives Wednesday, […]</p>
 </div>
       <footer>
@@ -293,7 +481,7 @@
 
     <article data-published="2026-10-29T12:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/as-winnie-the-pooh-turns-100-the-original-stuffed-toy-remains-in-new-york-will-the-silly-old-bear-ever-return-to-britain-180989775/" data-pagefind-filter="datePublished:2026-10-29T12:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>As Winnie-the-Pooh Turns 100, the Original Stuffed Toy Remains in New York. Will the Silly Old Bear Ever Return to Britain?</h2>
-      <p><time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-29">2026-10-29</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>A century after A.A. Milne first published his classic children's tales, British admirers and royal emissaries have made a polite push to bring Christopher Robin's original toys back home, if only for a royal vacation</p>
 </div>
       <footer>
@@ -337,7 +525,7 @@
 
     <article data-published="2026-10-29T00:38:24Z" data-link="https://www.osnews.com/story/146256/netbsd-adds-nano-like-text-editor-to-base-system/" data-pagefind-filter="category:NetBSD, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-10-29T00:38:24Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>NetBSD adds nano-like text editor to base system</h2>
-      <p><time datetime="2026-10-29">2026-10-29</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
+      <p><time datetime="2026-10-29">2026-10-29</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
       <div class="article-body"><p>Flag LinuxNetBSD made a seemingly small, but very welcome announcement today: they’re adding a more user-friendly, easier to use command-line text editor to the base install. To ease the transition for new users, NetBSD -current now includes an alternative editor to vi(1) and xedit(1) in its base system, atto(1). It is a modeless screen-based editor similar to nano, pico, xedit, or emacs. It is only 48 kilobytes, making it suitable for inclusion in the rescue system. ↫ NetBSD Foundation on Fedi Most guides and how-to article for operating systems like NetBSD assume the use of vi, and while I don’t want to ignite a flamewar, vi isn’t exactly the most approachable or friendly piece of software out there. My occassional text editing in the command line is all done through nano, but now I’m definitely curious to give atto a go. While other tech news websites are plastered with articles about a PC maker adding a touch screen to one of their laptops, we’re talking about a new CLI text editor in NetBSD’s base system. Priorities, folks.</p>
 </div>
       <footer>
@@ -348,7 +536,7 @@
 
     <article data-published="2026-10-29T00:28:31Z" data-link="https://www.osnews.com/story/146254/windows-clat-is-now-generally-available/" data-pagefind-filter="category:Windows, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-10-29T00:28:31Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>Windows CLAT is now generally available</h2>
-      <p><time datetime="2026-10-29">2026-10-29</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
+      <p><time datetime="2026-10-29">2026-10-29</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
       <div class="article-body"><p>Windows 11 25H2, starting with build 26200.9550, now comes with something called CLAT. As organizations move toward IPv6-only and IPv6-mostly networks, some applications still depend on IPv4-only applications or services. Windows CLAT helps those applications continue to work when a network does not provide native IPv4 connectivity. CLAT is the client-side component of 464XLAT. It statelessly translates IPv4 traffic from the Windows client into IPv6 for transport across the network to a provider-side translator (PLAT), which provides stateful NAT64 translation to IPv4. ↫ Jim Alumbaugh at Microsoft’s Networking Blog Yet another important component of the long, neverending transition to IPv6. Like endlessly cutting a cucumber in half, you’ll never quite run out of cucumber to cut.</p>
 </div>
       <footer>
@@ -359,7 +547,7 @@
 
     <article data-published="2026-10-29T00:09:48Z" data-link="https://www.osnews.com/story/146248/sylphide-os-an-operating-system-for-computers-based-on-microcontrollers/" data-pagefind-filter="category:OS News, dc_creator:orzel, author:orzel, datePublished:2026-10-29T00:09:48Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>Sylphide OS: an operating system for computers based on microcontrollers</h2>
-      <p><time datetime="2026-10-29">2026-10-29</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
+      <p><time datetime="2026-10-29">2026-10-29</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
       <div class="article-body"><p>Do you want a hobby operating system with a desktop for a microcontroller-based computer? Sylphide OS is a new project aiming to build just that. For the last few weeks, I’ve worked on a new pet project: an operating system for computers based on microcontrollers. There aren’t many yet, but I expect them to be more and more common. Why MCU computers ? You get a relatively very simple platform, booting straight to your code (or almost), and you can understand the whole architecture. Exactly as it was with home computers long ago. And not at all what you get with modern computers. Even booting involves lot of very different systems, black magic, and even blog/proprietary software. ↫ Thomas Capricelli It’s very early in development, but by building it atop FreeRTOS, Capricelli had a head-start. It’s got a basic desktop, one that might need some changes to avoid the lawyers. The code’s open source, of course.</p>
 </div>
       <footer>
@@ -381,7 +569,7 @@
 
     <article data-published="2026-10-28T21:03:46Z" data-link="https://www.smithsonianmag.com/smart-news/dolores-huerta-farmworker-rights-activist-who-coined-si-se-puede-dies-at-96-180989776/" data-pagefind-filter="datePublished:2026-10-28T21:03:46Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Dolores Huerta, Farmworker Rights Activist Who Coined &#39;Sí Se Puede,&#39; Dies at 96</h2>
-      <p><time datetime="2026-10-28">2026-10-28</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-28">2026-10-28</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>A pioneering labor organizer who co-founded the United Farm Workers union, Huerta spent a lifetime fighting for migrant laborers' rights, advocating for women and supporting marginalized communities</p>
 </div>
       <footer>
@@ -392,7 +580,7 @@
 
     <article data-published="2026-10-28T19:46:25Z" data-link="https://www.smithsonianmag.com/smart-news/see-18-captivating-images-from-the-european-wildlife-photographer-of-the-year-contest-180989769/" data-pagefind-filter="datePublished:2026-10-28T19:46:25Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>See 18 Captivating Images From the European Wildlife Photographer of the Year Contest</h2>
-      <p><time datetime="2026-10-28">2026-10-28</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-28">2026-10-28</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>From tranquil landscapes to a thunderous flock of seabirds, the recognized photos reveal stunning scenes of often-hidden aspects of the natural world</p>
 </div>
       <footer>
@@ -414,7 +602,7 @@
 
     <article data-published="2026-10-28T18:19:13Z" data-link="https://www.smithsonianmag.com/smart-news/lie-down-and-look-up-at-englands-most-ornate-ceilings-from-sparkling-gold-leaf-stars-to-intricate-plaster-designs-at-queen-victorias-seaside-retreat-180989770/" data-pagefind-filter="datePublished:2026-10-28T18:19:13Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>&#39;Lie Down and Look Up&#39; at England&#39;s Most Ornate Ceilings, From Sparkling Gold-Leaf Stars to Intricate Plaster Designs at Queen Victoria&#39;s Seaside Retreat</h2>
-      <p><time datetime="2026-10-28">2026-10-28</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-28">2026-10-28</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>A new campaign encourages visitors to take in the lavish art above their heads at five historic sites across England. There are even cushions for maximum comfort while you gaze</p>
 </div>
       <footer>
@@ -436,7 +624,7 @@
 
     <article data-published="2026-10-28T17:03:08Z" data-link="https://www.smithsonianmag.com/smart-news/did-women-and-children-collaborate-with-male-artisans-to-create-chinas-terra-cotta-army-fingerprints-left-on-the-2000-year-old-clay-warriors-may-hold-the-answer-180989767/" data-pagefind-filter="datePublished:2026-10-28T17:03:08Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Did Women and Children Collaborate With Male Artisans to Create China&#39;s Terra-Cotta Army? Fingerprints Left on the 2,000-Year-Old Clay Warriors May Hold the Answer</h2>
-      <p><time datetime="2026-10-28">2026-10-28</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-28">2026-10-28</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>A new study found that adult women and juveniles under the age of 15 accounted for 67 percent of the fingerprints analyzed. The research challenges long-held assumptions about the age and gender of the workers who sculpted Qin Shi Huang's soldiers</p>
 </div>
       <footer>
@@ -459,7 +647,7 @@
     <article data-published="2026-10-28T16:04:18Z" data-link="https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/" data-pagefind-filter="category:Biology, dc_creator:Yasemin Saplakoglu, author:Yasemin Saplakoglu, datePublished:2026-10-28T16:04:18Z, label:Quanta Magazine, channel:https://www.quantamagazine.org/feed/">
       <h2>How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material</h2>
       <p><time datetime="2026-10-28">2026-10-28</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
-      <div class="article-body"><p>By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a tough, flexible thread.</p>
+      <div class="article-body"><p>By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a strong, flexible fiber.</p>
 <p>The post <a href="https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/">How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material</a> first appeared on <a href="https://www.quantamagazine.org">Quanta Magazine</a></p>
 </div>
       <footer>
@@ -481,7 +669,7 @@
 
     <article data-published="2026-10-28T15:18:44Z" data-link="https://www.smithsonianmag.com/smart-news/some-monkeys-seem-to-become-germaphobic-after-living-through-a-disease-outbreak-just-like-humans-180989764/" data-pagefind-filter="datePublished:2026-10-28T15:18:44Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Some Monkeys Seem to Become Germophobic After Living Through a Disease Outbreak, Just Like Humans</h2>
-      <p><time datetime="2026-10-28">2026-10-28</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-28">2026-10-28</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Macaques that had gotten sick or seen others become ill were less likely to eat a tasty treat that looked like it was contaminated with poop than primates that didn't witness the outbreak—even though they didn't know how the infection spreads</p>
 </div>
       <footer>
@@ -492,7 +680,7 @@
 
     <article data-published="2026-10-28T15:00:46Z" data-link="https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/" data-pagefind-filter="category:AI, category:Agentic AI, category:Artificial Intelligence, category:Gaming, category:GeForce, category:Local AI, category:NVIDIA RTX, category:Open Source, category:RTX Spark, dc_creator:Shreevar Rastogi, author:Shreevar Rastogi, datePublished:2026-10-28T15:00:46Z, label:NVidia blog, channel:https://blogs.nvidia.com/feed/">
       <h2>Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games</h2>
-      <p><time datetime="2026-10-28">2026-10-28</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-28">2026-10-28</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified […]</p>
 </div>
       <footer>
@@ -503,7 +691,7 @@
 
     <article data-published="2026-10-28T15:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/hundreds-of-baby-whales-have-died-in-argentina-this-year-and-scientists-are-scrambling-to-understand-why-180989762/" data-pagefind-filter="datePublished:2026-10-28T15:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Hundreds of Baby Whales Have Died in Argentina This Year—and Scientists Are Scrambling to Understand Why</h2>
-      <p><time datetime="2026-10-28">2026-10-28</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-28">2026-10-28</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Their leading hypothesis is that the young cetaceans are dying from a bacterial infection, but experts are still trying to figure out why this year's mortality rates are so high. Adults have also been washing up dead, possibly because of a toxic algal bloom</p>
 </div>
       <footer>
@@ -514,7 +702,7 @@
 
     <article data-published="2026-10-28T14:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/in-nasas-plan-for-artemis-3-spacex-and-blue-origin-will-compete-to-have-their-landers-take-humans-back-to-the-moons-surface-180989761/" data-pagefind-filter="datePublished:2026-10-28T14:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>In NASA&#39;s Plan for Artemis 3, SpaceX and Blue Origin Will Compete to Have Their Landers Take Humans Back to the Moon&#39;s Surface</h2>
-      <p><time datetime="2026-10-28">2026-10-28</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-28">2026-10-28</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The 14-day mission, slated for mid-2027, will serve as a test to see which company's lunar lander performs better in low-Earth orbit. Both will practice docking, habitation and operational procedures essential for the return to the moon, planned for 2028</p>
 </div>
       <footer>
@@ -525,7 +713,7 @@
 
     <article data-published="2026-10-28T12:30:00Z" data-link="https://www.smithsonianmag.com/smart-news/romans-made-color-changing-glass-with-ancient-nanotechnology-scientists-just-discovered-how-to-replicate-the-1600-year-old-marvel-180989766/" data-pagefind-filter="datePublished:2026-10-28T12:30:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Romans Made Color-Changing Glass With Ancient Nanotechnology. Scientists Just Discovered How to Replicate the 1,600-Year-Old Marvel</h2>
-      <p><time datetime="2026-10-28">2026-10-28</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-28">2026-10-28</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Researchers were inspired by Lycurgus Cup, a chalice from the fourth century C.E. that appears opaque green under reflected light but wine red when lit directly. &quot;To me, it’s magic,&quot; the lead researcher says</p>
 </div>
       <footer>
@@ -585,7 +773,7 @@
 
     <article data-published="2026-10-27T20:49:30Z" data-link="https://www.smithsonianmag.com/smart-news/looted-by-nazi-and-recently-restituted-a-kaleidoscopic-kandinsky-painting-just-sold-for-nearly-42-million-180989763/" data-pagefind-filter="datePublished:2026-10-27T20:49:30Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Looted by Nazis and Recently Restituted, a Kaleidoscopic Kandinsky Painting Just Sold for Nearly $42 Million</h2>
-      <p><time datetime="2026-10-27">2026-10-27</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-27">2026-10-27</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>&quot;Das bunte Leben,&quot; the Russian artist's dreamlike panorama, bridges folklore and early modernism. The sale follows a 2023 ruling concluding that the work was seized from its rightful Dutch Jewish owners</p>
 </div>
       <footer>
@@ -607,7 +795,7 @@
 
     <article data-published="2026-10-27T18:49:28Z" data-link="https://www.smithsonianmag.com/smart-news/specialists-removed-three-thrilling-century-old-murals-from-the-walls-of-a-french-monastery-beneath-they-made-a-discovery-for-the-history-of-art-180989760/" data-pagefind-filter="datePublished:2026-10-27T18:49:28Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Specialists Removed Three Thrilling, Century-Old Murals From the Walls of a French Monastery. Beneath, They Made &#39;a Discovery for the History of Art&#39;</h2>
-      <p><time datetime="2026-10-27">2026-10-27</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-27">2026-10-27</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Hidden under multi-paneled Symbolist murals by French artist Odilon Redon were sketches that he had drawn directly on the walls of the 11th-century Abbaye de Fontfroide</p>
 </div>
       <footer>
@@ -618,7 +806,7 @@
 
     <article data-published="2026-10-27T18:06:49Z" data-link="https://www.smithsonianmag.com/smart-news/divers-recover-a-mysterious-cauldron-that-had-been-hiding-at-the-bottom-of-an-english-river-for-hundreds-of-years-180989765/" data-pagefind-filter="datePublished:2026-10-27T18:06:49Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Divers Recover a Mysterious Cauldron That Had Been Hiding at the Bottom of an English River for Hundreds of Years</h2>
-      <p><time datetime="2026-10-27">2026-10-27</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-27">2026-10-27</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Nobody knows how the three-legged iron cauldron ended up in the River Wear. Weeks before Halloween, it finally returned to the surface</p>
 </div>
       <footer>
@@ -640,7 +828,7 @@
 
     <article data-published="2026-10-27T17:42:13Z" data-link="https://www.smithsonianmag.com/smart-news/this-11-foot-wide-bowl-shaped-object-was-found-in-a-minnesota-cornfield-experts-suspect-its-a-stray-rocket-part-180989754/" data-pagefind-filter="datePublished:2026-10-27T17:42:13Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>This 11-Foot-Wide, Bowl-Shaped Object Was Found in a Minnesota Cornfield. Experts Suspect It&#39;s a Stray Rocket Part</h2>
-      <p><time datetime="2026-10-27">2026-10-27</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-27">2026-10-27</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The mysterious, shiny object has not been conclusively identified, but it might be space junk from a rocket built by the Chinese company LandSpace and launched on September 15. Metal pieces were also recently found in Borneo, believed to be shed by a different LandSpace rocket</p>
 </div>
       <footer>
@@ -651,7 +839,7 @@
 
     <article data-published="2026-10-27T15:26:00Z" data-link="https://www.smithsonianmag.com/smart-news/the-united-kingdom-is-launching-giant-claws-into-orbit-to-clean-up-space-junk-you-can-help-name-the-first-of-its-kind-mission-180989755/" data-pagefind-filter="datePublished:2026-10-27T15:26:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>The United Kingdom Is Launching Giant Claws Into Orbit to Clean Up Space Junk. You Can Help Name the First-of-Its-Kind Mission</h2>
-      <p><time datetime="2026-10-27">2026-10-27</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-27">2026-10-27</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The spacecraft is designed to drag two dead satellites into Earth's atmosphere, where they are expected to disintegrate. The mission is slated to launch in 2029 and be completed by 2032</p>
 </div>
       <footer>
@@ -662,7 +850,7 @@
 
     <article data-published="2026-10-27T15:00:20Z" data-link="https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/" data-pagefind-filter="category:AI, category:Agentic AI, category:AI for Good, category:Healthcare and Life Sciences, category:Open Source, dc_creator:Anthony Costa, author:Anthony Costa, datePublished:2026-10-27T15:00:20Z, label:NVidia blog, channel:https://blogs.nvidia.com/feed/">
       <h2>How AI Is Changing the Pace of Discovery for Millions Living With Dementia</h2>
-      <p><time datetime="2026-10-27">2026-10-27</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-27">2026-10-27</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease.  The Consortium for Biomedical Research and AI in […]</p>
 </div>
       <footer>
@@ -673,7 +861,7 @@
 
     <article data-published="2026-10-27T14:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/two-thousand-years-ago-a-new-ice-age-began-but-human-caused-climate-change-recently-reversed-it-according-to-a-new-study-180989746/" data-pagefind-filter="datePublished:2026-10-27T14:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Two Thousand Years Ago, a New Ice Age Began—but Human-Caused Climate Change Recently Reversed It, According to New Research</h2>
-      <p><time datetime="2026-10-27">2026-10-27</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-27">2026-10-27</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>All that's left of a gargantuan ice sheet that once covered nearly 30 percent of North America is a Delaware-size ice cap in Canada. Scientists have found that the ice cap began to expand around 2,000 years ago—a sign of a new ice age—but it started shrinking in the 1960s</p>
 </div>
       <footer>
@@ -684,7 +872,7 @@
 
     <article data-published="2026-10-27T12:25:00Z" data-link="https://www.smithsonianmag.com/smart-news/see-the-sweeping-dune-walls-and-125-foot-bas-relief-sculpture-at-the-national-mall-newest-memorial-dedicated-to-veterans-of-operations-desert-shield-and-desert-storm-180989759/" data-pagefind-filter="datePublished:2026-10-27T12:25:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>See the Sweeping Dune Walls and 125-Foot Bas-Relief Sculpture at the National Mall&#39;s Newest Memorial, Dedicated to Veterans of Operations Desert Shield and Desert Storm</h2>
-      <p><time datetime="2026-10-27">2026-10-27</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-27">2026-10-27</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The Desert Shield and Desert Storm Memorial is an oasis-like place for honoring the Americans who served and lost their lives in combat to liberate Kuwait in the early 1990s</p>
 </div>
       <footer>
@@ -744,7 +932,7 @@
 
     <article data-published="2026-10-27T00:14:44Z" data-link="https://www.osnews.com/story/146242/oldest-gui-application-that-still-runs-on-windows-11/" data-pagefind-filter="category:Windows, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-10-27T00:14:44Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>Oldest GUI application that still runs on Windows 11</h2>
-      <p><time datetime="2026-10-27">2026-10-27</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
+      <p><time datetime="2026-10-27">2026-10-27</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
       <div class="article-body"><p>What’s the oldest Windows GUI application you can still run on Windows 11 today, without any modifications? For now, the best answer Boris Popik can come up with is an innocuous application from build 347 of Windows NT 3.1, an early prerelease: CDPLAYER.EXE. You can’t go any older than that, because earlier prerelease builds had not yet finalised its PE format and calling convention. Neat find. Popik also mentions a few other contenders, but I won’t spoil those here.</p>
 </div>
       <footer>
@@ -755,7 +943,7 @@
 
     <article data-published="2026-10-27T00:06:45Z" data-link="https://www.osnews.com/story/146240/another-month-of-redox-improvements/" data-pagefind-filter="category:Redox OS, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-10-27T00:06:45Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>Another month of Redox improvements</h2>
-      <p><time datetime="2026-10-27">2026-10-27</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
+      <p><time datetime="2026-10-27">2026-10-27</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
       <div class="article-body"><p>Another month has crumbled to dust under the oppressive boots of time, so it’s time for another month of Redox improvements. This past month, Redox’ build system gained support for Clang, SDL2 saw performance improvements, and WebKitGTK3’s HTML layout rendering was fixed. Users of Intel Tiger Lake processors can now enjoy external display hot-plugging, and overall system performance has been improved in a variety of ways. And as always, there’s the long lists of kernel, relibc, and driver improvements and fixes as well. Redox keeps making big strides every month, and it’s definitely one of the few alternative operating systems that actually feels like it might, one day, be an actual contender for general purpose use.</p>
 </div>
       <footer>
@@ -766,7 +954,7 @@
 
     <article data-published="2026-10-26T23:57:37Z" data-link="https://www.osnews.com/story/146238/microsoft-ui-reactor-a-c-first-way-to-build-winui-apps/" data-pagefind-filter="category:Windows, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-10-26T23:57:37Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>Microsoft.UI.Reactor: a C#-first way to build WinUI apps</h2>
-      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
+      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
       <div class="article-body"><p>Thew day ends in a Y, so Microsoft is launching a new way to build Windows applications. Get excited, Windows application developers! If you caught our session at Microsoft Build 2026 or you’ve been watching the repo, you’ve seen this one taking shape in public for a while now, and a lot has changed since Build. Here’s the longer tour: Microsoft.UI.Reactor, an experimental C# framework that brings the MVU (Model-View-Update) pattern to WinUI desktop apps. No XAML files, no code-behind, no ViewModels. Two things before the fun part. Reactor is experimental: no support policy, no API guarantees, published this early on purpose because we’d rather hear we got the design wrong now than once people have shipped on it. And it is not a replacement for XAML or MVVM, which we’ll come back to. ↫ Alexandre Zollinger Chohfi at Microsoft’s Dev Blogs At multiple points in the linked blog post, Microsoft underlines that no, Reactor is not going to replace XAML. I’m sure Windows developers who learned Win32, Silverlight, WinRT XAML, WPF, UWP, WinUI 2 and 3, and all the others, over the past two decades will feel deeply comforted by Microsoft’s insistence that Reactor will not replace XAML. Microsoft repeats: this won’t replace XAML. They swear.</p>
 </div>
       <footer>
@@ -777,7 +965,7 @@
 
     <article data-published="2026-10-26T23:48:09Z" data-link="https://www.osnews.com/story/146236/macos-extensions-pack-for-the-apple-network-server-v1-0/" data-pagefind-filter="category:Apple, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-10-26T23:48:09Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>MacOS Extensions pack for the Apple Network Server v1.0</h2>
-      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
+      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
       <div class="article-body"><p>We’ve been following along with Carmen Kaiser’s Apple Network Server exploits, and by now things are really starting to come together for owners of this machine. When we last left off, the ROM to allow Mac OS to run on the machine which normally runs IBM’s AIX, but there were still a number of bugs, limitations, and issues to be worked out. A lot of progress on that front has been made. The good news is, many of the issues with the preproduction ROM in Mac OS can be fixed or worked around in software. So I’ve fixed or worked around many of them in software: the MACE Ethernet is fixed, the on-board video is now supported, and the ANS can restart properly back into Mac OS. Plus, because it’s the preproduction ROM, you can still boot AIX, thus preserving the entire historical reason for Shiner’s existence. Here’s the first cut of that software and how it was developed. ↫ Cameron Kaiser There’s still two issues Kaiser wishes to address – the internal SCSI bays don’t work, and the ROM doesn’t properly register parity RAM – but the progress here is amazing.</p>
 </div>
       <footer>
@@ -799,7 +987,7 @@
 
     <article data-published="2026-10-26T21:30:34Z" data-link="https://www.smithsonianmag.com/smart-news/a-fire-ravaged-the-eagles-nest-an-alpine-retreat-built-for-top-nazis-what-happens-next-180989757/" data-pagefind-filter="datePublished:2026-10-26T21:30:34Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>A Fire Ravaged the &#39;Eagle&#39;s Nest,&#39; an Alpine Retreat Built for Top Nazis. What Happens Next?</h2>
-      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Police have detained a 33-year-old German citizen in connection with the blaze, which gutted the infamous historic building. In recent years, the mountaintop guesthouse hosted a restaurant, beer garden and exhibit about the site's dark past</p>
 </div>
       <footer>
@@ -854,7 +1042,7 @@
 
     <article data-published="2026-10-26T19:25:17Z" data-link="https://www.smithsonianmag.com/smart-news/shamonda-virus-infected-and-killed-a-person-for-the-first-time-heres-what-to-know-about-the-pathogen-usually-found-in-livestock-180989756/" data-pagefind-filter="datePublished:2026-10-26T19:25:17Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Shamonda Virus Infected and Killed a Person for the First Time. Here&#39;s What to Know About the Pathogen Usually Found in Livestock</h2>
-      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The patient, a French man in his 60s with leukemia, died earlier this month. Health officials say the risk to the public is low</p>
 </div>
       <footer>
@@ -865,7 +1053,7 @@
 
     <article data-published="2026-10-26T18:16:26Z" data-link="https://www.smithsonianmag.com/smart-news/art-museums-in-milwaukee-and-tampa-bay-are-betting-that-their-hometown-baseball-teams-will-win-the-world-series-the-wager-monet-paintings-180989753/" data-pagefind-filter="datePublished:2026-10-26T18:16:26Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Art Museums in Milwaukee and Tampa Bay Are Betting That Their Hometown Baseball Teams Will Win the World Series. The Wager? Monet Paintings</h2>
-      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>As the Brewers take on the Rays in the Fall Classic, two art museums are engaged in a friendly bit of sports betting: The winning city (temporarily) gets a Monet from the other city's collection</p>
 </div>
       <footer>
@@ -887,7 +1075,7 @@
 
     <article data-published="2026-10-26T16:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/most-of-the-worlds-shallow-water-coral-reefs-have-been-deemed-critically-endangered-meaning-they-could-collapse-within-50-years-180989748/" data-pagefind-filter="datePublished:2026-10-26T16:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Most of the World&#39;s Shallow-Water Coral Reefs Have Been Deemed Critically Endangered, Meaning They Could Collapse Within 50 Years</h2>
-      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The first-ever global assessment of these vibrant underwater ecosystems paints a grim picture: Climate change projections put 96 percent of shallow-water reefs at the highest level of threat</p>
 </div>
       <footer>
@@ -921,7 +1109,7 @@
 
     <article data-published="2026-10-26T14:47:55Z" data-link="https://www.smithsonianmag.com/smart-news/scientists-estimate-that-europes-scorching-summer-heat-killed-more-than-50000-people-in-urban-areas-180989745/" data-pagefind-filter="datePublished:2026-10-26T14:47:55Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Scientists Estimate That Europe&#39;s Scorching Summer Heat Killed More Than 50,000 People in Urban Areas</h2>
-      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The new research, which has not yet been peer-reviewed but was accepted for publication, suggests that climate change is responsible for two-thirds of the deaths</p>
 </div>
       <footer>
@@ -932,7 +1120,7 @@
 
     <article data-published="2026-10-26T14:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/rule-breaking-is-contagious-just-a-few-extreme-troublemakers-can-turn-a-whole-group-into-rebels-study-suggests-180989731/" data-pagefind-filter="datePublished:2026-10-26T14:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Rule Breaking Is Contagious. Just a Few Extreme Troublemakers Can Turn a Whole Group Into Rebels, Study Suggests</h2>
-      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Experiments with real participants—and digital twins based on them—show how a small number of bad apples can spoil the whole barrel. However, the research scenarios don't exactly mimic the real world</p>
 </div>
       <footer>
@@ -943,7 +1131,7 @@
 
     <article data-published="2026-10-26T12:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/this-massive-mega-rare-monet-painting-is-now-the-most-expensive-artwork-ever-sold-at-auction-in-france-180989749/" data-pagefind-filter="datePublished:2026-10-26T12:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>This Massive, &#39;Mega-Rare&#39; Monet Painting Is Now the Most Expensive Artwork Ever Sold at Auction in France</h2>
-      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The Impressionist painted &quot;Iris&quot; a year or two before his death, at a time when his work was becoming increasingly abstract and falling out of favor with critics. Now, it’s considered a masterpiece ahead of its time</p>
 </div>
       <footer>
@@ -990,7 +1178,7 @@
 
     <article data-published="2026-10-26T01:07:30Z" data-link="https://www.osnews.com/story/146233/cow-which-sort-of-brings-fvwm-to-wayland-reaches-version-0-4/" data-pagefind-filter="category:Wayland, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-10-26T01:07:30Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>CoW, which (sort-of) brings FVWM to Wayland, reaches version 0.4</h2>
-      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
+      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
       <div class="article-body"><p>Thomas Adam, one of the core developers of FVWM, has been working on CoW for a while now. CoW can best be described as “FVWM for Wayland”, which uniquely uses the River compositor. River, in turn, is unique in that it does not combine the compositor and window manager into a single program, allowing for a more traditional X11-like approach. Adam released version 0.4 today, which comes with a load of fixes, changes, and minor improvements, as well as one bigger-ticket item: container windows. This PR introduces the concept of a top-level container window. This means a window can be subdivided into columns and rows (called panes) and can be resized independently of one another. The idea for this has been unashamedly stolen from shod. ↫ Thomas Adam I’ve been keeping an eye on CoW ever since I learned about it when it was first released, and at some point soon I want to build a desktop around it for myself.</p>
 </div>
       <footer>
@@ -1001,7 +1189,7 @@
 
     <article data-published="2026-10-26T00:51:28Z" data-link="https://www.osnews.com/story/146230/the-many-many-missed-opportunities-of-sonic-06/" data-pagefind-filter="category:Games, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-10-26T00:51:28Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>The many many missed opportunities of Sonic 06</h2>
-      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
+      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
       <div class="article-body"><p>Speaking of games, if you’ve ever heard anything about or even played Sonic ’06, you know this wasn’t the most polished entry in the hedgehog’s franchise. In fact, it’s probably one of the worst, and considering the average quality of Sonic games, that’s quite an achievement. The team that’s working on decompiling the game to make it run on the PC obviously had to dive deep into the game’s inner workings, and the process learned a lot about why, exactly, the game is so notoriously bad. It really makes you wonder what exactly went wrong? If you look at what limited footage we have of beta content, we can see many effects that aren’t present in the final game. Kingdom Valley had full bump maps, Castle Town had more complex geometry and plants, and New City’s collision implies a very different building layout at some point in development. It turns out, much of the cut content is actually still in the game, but is simply not enabled for performance reasons in vanilla. Even with the cut-back visuals, the game struggles to reach target FPS on real hardware. It’s not surprising that given the crunch Sonic Team were under to get the game out the door, these features were among the first to go. ↫ Isaac Marovitz The article details what, exactly, was turned off for the final release, and it’s quite an interesting read. Of course, the team intends to try and address many of these issues, and they think they can push the game and its engine to much greater heights.</p>
 </div>
       <footer>
@@ -1012,7 +1200,7 @@
 
     <article data-published="2026-10-26T00:42:55Z" data-link="https://www.osnews.com/story/146228/how-to-run-a-city-builder-on-16-mhz/" data-pagefind-filter="category:Games, dc_creator:Thom Holwerda, author:Thom Holwerda, datePublished:2026-10-26T00:42:55Z, label:OS News, channel:https://www.osnews.com/feed/">
       <h2>How to run a city builder on 16 MHz</h2>
-      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
+      <p><time datetime="2026-10-26">2026-10-26</time>, updated: <time datetime="2026-10-31">2026-10-31</time></p>
       <div class="article-body"><p>When thinking about impressive technical achievements in retro games, most people will first point to graphical milestones set by action games like Doom or Quake. Rightfully so, but at least I am personally far more impressed by the early examples of the city builder genre. Simulating whole economies on a large scale with a fraction of today’s power seems impossible if modern builder games even struggle on modern machines. Of course this didn’t stop developers in the past to develop and run city builder games on significantly weaker hardware. The original SimCity for example lists Intel’s 386SX as the CPU in it’s system requirements. A CPU which at the time of it’s launch ran at magnificent 16 MHz. ↫ Lars Thießen What’s even more impressive are some of the other systems the origin al SimCity was ported to, which had even more limited hardware than a 386SX. The Super Nintendo got a SimCity port, which even included fun extras like a Mario statue and Bowser taking up the mantle of the Godzilla disaster, and additional systems the PC version didn’t have. Hell, they even worked on a port to the NES, but it was cancelled and thought lost, until a relatively complete and working copy was discovered in 2017. Even this NES version contained features not available in the PC version. Hardware limitations really did breed a lot of innovation back in those days, and sometimes I wonder if programmers and developers could benefit from tasking themselves with working within such limitations today, if only to become a bit more prudent with resources.</p>
 </div>
       <footer>
@@ -1078,7 +1266,7 @@
 
     <article data-published="2026-10-23T20:41:48Z" data-link="https://www.smithsonianmag.com/smart-news/a-team-of-astronomers-thinks-they-have-identified-the-exact-night-sky-that-inspired-vincent-van-gogh-starry-Night-not-everyone-is-convinced-180989744/" data-pagefind-filter="datePublished:2026-10-23T20:41:48Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>A Team of Astronomers Thinks They Have Identified the Exact Night Sky That Inspired Vincent van Gogh&#39;s &#39;Starry Night.&#39; Not Everyone Is Convinced</h2>
-      <p><time datetime="2026-10-23">2026-10-23</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-23">2026-10-23</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Very few night skies seen from the south of France during the summer of 1889 would match the scene on van Gogh's canvas. A new study argues that it could have been July 22</p>
 </div>
       <footer>
@@ -1089,7 +1277,7 @@
 
     <article data-published="2026-10-23T18:59:01Z" data-link="https://www.smithsonianmag.com/smart-news/for-the-first-time-scientists-trapped-an-elusive-antimatter-particle-and-contained-it-for-months-it-could-allow-them-to-test-an-enduring-physics-theory-180989738/" data-pagefind-filter="datePublished:2026-10-23T18:59:01Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>For the First Time, Scientists Trapped an Elusive Antimatter Particle—and Contained It for Months. It Could Allow Them to Test an Enduring Physics Theory</h2>
-      <p><time datetime="2026-10-23">2026-10-23</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-23">2026-10-23</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The standard model of particle physics works really well, but it can't explain why the universe exists. Something is missing, and this trapped particle might hold a clue to the answer</p>
 </div>
       <footer>
@@ -1111,7 +1299,7 @@
 
     <article data-published="2026-10-23T18:08:23Z" data-link="https://www.smithsonianmag.com/smart-news/immerse-yourself-in-the-cosmos-at-frank-lloyd-wrights-only-planetarium-recently-restored-to-its-former-glory-in-florida-180989743/" data-pagefind-filter="datePublished:2026-10-23T18:08:23Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Immerse Yourself in the Cosmos at Frank Lloyd Wright&#39;s Only Planetarium, Recently Restored to Its Former Glory in Florida</h2>
-      <p><time datetime="2026-10-23">2026-10-23</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-23">2026-10-23</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Completed in 1958, the domed building is located on the campus of Florida Southern College, home to 13 Wright-designed buildings, the world's largest single-site collection of the architect's work</p>
 </div>
       <footer>
@@ -1133,7 +1321,7 @@
 
     <article data-published="2026-10-23T17:17:35Z" data-link="https://www.smithsonianmag.com/smart-news/astronomers-detect-the-oldest-fast-radio-burst-spewed-from-an-ancient-galaxy-just-three-billion-years-after-the-big-bang-180989730/" data-pagefind-filter="datePublished:2026-10-23T17:17:35Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Astronomers Detect the Oldest Known Fast Radio Burst, Spewed From an Ancient Galaxy Just Three Billion Years After the Big Bang</h2>
-      <p><time datetime="2026-10-23">2026-10-23</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-23">2026-10-23</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The universe formed 13.8 billion years ago, so this far-traveled burst of radio waves can help scientists learn more about the early cosmos. However, researchers still aren't sure what produces these strange flashes</p>
 </div>
       <footer>
@@ -1144,7 +1332,7 @@
 
     <article data-published="2026-10-23T15:42:02Z" data-link="https://www.smithsonianmag.com/smart-news/conservationists-in-australia-celebrate-the-arrival-of-two-southern-cassowary-eggsthe-first-at-adelaide-zoo-in-34-years-180989739/" data-pagefind-filter="datePublished:2026-10-23T15:42:02Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>These Big, Fierce Birds Found Love in Australia—and Laid the First Southern Cassowary Eggs at the Adelaide Zoo in 34 Years</h2>
-      <p><time datetime="2026-10-23">2026-10-23</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-23">2026-10-23</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Zoo staffers don’t know whether the bright green eggs are viable and will ultimately hatch into chicks. However, the eggs themselves are a major win, because breeding the birds in captivity is tricky</p>
 </div>
       <footer>
@@ -1167,7 +1355,7 @@
 
     <article data-published="2026-10-23T12:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/in-a-hoard-of-5500-viking-age-coins-archaeologists-in-norway-found-one-so-rare-that-they-already-consider-it-a-national-treasure-180989741/" data-pagefind-filter="datePublished:2026-10-23T12:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>In a Hoard of 5,500 Viking Age Coins, Archaeologists in Norway Found One So Rare That They Already Consider It a &#39;National Treasure&#39;</h2>
-      <p><time datetime="2026-10-23">2026-10-23</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-23">2026-10-23</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Fewer than 20 coins minted under Norwegian King Olaf II Haraldsson have ever been found. &quot;We can almost imagine Olaf himself holding this coin in his hand,&quot; one researcher says</p>
 </div>
       <footer>
@@ -1215,7 +1403,7 @@
 
     <article data-published="2026-10-23T02:00:13Z" data-link="https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/" data-pagefind-filter="category:AI Infrastructure, category:AI Factory, category:Artificial Intelligence, category:NVIDIA Rubin, category:Sovereign AI, dc_creator:Rev Lebaredian, author:Rev Lebaredian, datePublished:2026-10-23T02:00:13Z, label:NVidia blog, channel:https://blogs.nvidia.com/feed/">
       <h2>Kazakhstan Expands Compute for Its AI Future</h2>
-      <p><time datetime="2026-10-23">2026-10-23</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-23">2026-10-23</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment.  The shift is visible across the full AI stack — from infrastructure to models to applications. The announcements below — coinciding with a visit to Astana by NVIDIA founder and CEO Jensen Huang — point to the nation’s increasing supply of accelerated computing, along with […]</p>
 </div>
       <footer>
@@ -1292,7 +1480,7 @@
 
     <article data-published="2026-10-22T20:21:27Z" data-link="https://www.smithsonianmag.com/smart-news/this-mysterious-medieval-manuscript-has-stumped-scholars-for-well-over-a-century-could-its-pages-have-been-bound-out-of-order-this-whole-time-180989737/" data-pagefind-filter="datePublished:2026-10-22T20:21:27Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>This Mysterious Medieval Manuscript Has Stumped Scholars for Well Over a Century. Could Its Pages Have Been Bound Out of Order This Whole Time?</h2>
-      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>A new study claims that the pages of the Voynich Manuscript, thought to be written by several different scribes in 16th-century Europe, alternate irregularly. It may change the way codebreakers approach the text</p>
 </div>
       <footer>
@@ -1303,7 +1491,7 @@
 
     <article data-published="2026-10-22T18:15:07Z" data-link="https://www.smithsonianmag.com/smart-news/one-in-four-cases-of-depression-could-be-caused-by-a-dysregulated-body-clock-study-says-180989736/" data-pagefind-filter="datePublished:2026-10-22T18:15:07Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>One in Four Cases of Depression Could Be Caused by a Dysregulated Body Clock, Study Says</h2>
-      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Outside experts warn that more research is needed before &quot;circadian depression&quot; can be classified as a subtype</p>
 </div>
       <footer>
@@ -1325,7 +1513,7 @@
 
     <article data-published="2026-10-22T16:20:14Z" data-link="https://www.smithsonianmag.com/smart-news/researchers-claimed-a-blurry-object-on-apple-maps-was-very-likely-amelia-earharts-missing-plane-it-turned-out-to-be-a-collection-of-large-trees-180989734/" data-pagefind-filter="datePublished:2026-10-22T16:20:14Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Researchers Claimed a Blurry Object on Apple Maps Was &#39;Very Likely&#39; Amelia Earhart&#39;s Missing Plane. It Turned Out to Be a &#39;Collection of Large Trees&#39;</h2>
-      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>A 17-person crew traveled to a remote atoll in the South Pacific to investigate the so-called Taraia Object. After surveying the site, the team announced that the anomaly was not a fragment of the long-lost Lockheed Electra aircraft</p>
 </div>
       <footer>
@@ -1336,7 +1524,7 @@
 
     <article data-published="2026-10-22T15:30:38Z" data-link="https://www.smithsonianmag.com/smart-news/the-canadian-artist-jean-paul-riopelle-was-completely-absorbed-by-the-act-of-painting-his-abstract-works-finally-have-their-own-home-in-a-quebec-museum-180989735/" data-pagefind-filter="datePublished:2026-10-22T15:30:38Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>The Canadian Artist Jean Paul Riopelle Was &#39;Completely Absorbed by the Act of Painting.&#39; His Abstract Works Finally Have Their Own Home in a Quebec Museum</h2>
-      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Home to the world’s largest public collection of his artworks, a new pavilion at Quebec's Musée National des Beaux-Arts showcases the more than 50-year career of Riopelle, who was a key member of the avant-garde Automatistes movement</p>
 </div>
       <footer>
@@ -1347,7 +1535,7 @@
 
     <article data-published="2026-10-22T15:00:02Z" data-link="https://blogs.nvidia.com/blog/minerva-platform-infrastructure/" data-pagefind-filter="category:AI Infrastructure, category:AI Factory, category:GTC 2026, dc_creator:Brian Sparks, author:Brian Sparks, datePublished:2026-10-22T15:00:02Z, label:NVidia blog, channel:https://blogs.nvidia.com/feed/">
       <h2>NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories</h2>
-      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast […]</p>
 </div>
       <footer>
@@ -1358,7 +1546,7 @@
 
     <article data-published="2026-10-22T14:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/more-than-1000-birds-were-killed-or-injured-around-chicago-during-a-single-weekend-180989729/" data-pagefind-filter="datePublished:2026-10-22T14:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>More Than 1,000 Birds Were Killed or Injured in Window Collisions Around Chicago Over the Weekend</h2>
-      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>On the evening of October 16, more than five million birds are estimated to have flown through Cook County, which includes Chicago. They were propelled by favorable winds brought by a cold front</p>
 </div>
       <footer>
@@ -1369,7 +1557,7 @@
 
     <article data-published="2026-10-22T13:00:20Z" data-link="https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/" data-pagefind-filter="category:Gaming, category:Cloud Gaming, category:GeForce NOW, dc_creator:GeForce NOW Community, author:GeForce NOW Community, datePublished:2026-10-22T13:00:20Z, label:NVidia blog, channel:https://blogs.nvidia.com/feed/">
       <h2>Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW</h2>
-      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in […]</p>
 </div>
       <footer>
@@ -1380,7 +1568,7 @@
 
     <article data-published="2026-10-22T12:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/arizona-otherworldly-wonderland-of-rocks-is-now-americas-newest-national-park-180989733/" data-pagefind-filter="datePublished:2026-10-22T12:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Arizona&#39;s Otherworldly &#39;Wonderland of Rocks&#39; Is Now America&#39;s Newest National Park</h2>
-      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Chiricahua National Monument in southeastern Arizona is now Chiricahua National Park, the 64th national park in the United States. Its striking geologic landscape and biodiversity have drawn humans for thousands of years</p>
 </div>
       <footer>
@@ -1402,7 +1590,7 @@
 
     <article data-published="2026-10-22T05:00:56Z" data-link="https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/" data-pagefind-filter="category:AI, category:Financial Services, category:GTC 2026, category:NVIDIA Blackwell, dc_creator:Jason Renders, author:Jason Renders, datePublished:2026-10-22T05:00:56Z, label:NVidia blog, channel:https://blogs.nvidia.com/feed/">
       <h2>Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence</h2>
-      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding its technology stack on a single foundation model PRAGMA, powered by NVIDIA accelerated computing. Using the NVIDIA cuDF […]</p>
 </div>
       <footer>
@@ -1413,7 +1601,7 @@
 
     <article data-published="2026-10-22T05:00:27Z" data-link="https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/" data-pagefind-filter="category:AI, category:Cosmos, category:GTC 2026, category:Physical AI, dc_creator:Pranjali Joshi, author:Pranjali Joshi, datePublished:2026-10-22T05:00:27Z, label:NVidia blog, channel:https://blogs.nvidia.com/feed/">
       <h2>NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models</h2>
-      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints.  Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open […]</p>
 </div>
       <footer>
@@ -1424,7 +1612,7 @@
 
     <article data-published="2026-10-22T05:00:25Z" data-link="https://blogs.nvidia.com/blog/dsx-power/" data-pagefind-filter="category:AI Infrastructure, category:AI Factory, category:GTC 2026, category:NVIDIA DSX, category:NVIDIA Vera Rubin, category:Omniverse, dc_creator:Vladimir Troy, author:Vladimir Troy, datePublished:2026-10-22T05:00:25Z, label:NVidia blog, channel:https://blogs.nvidia.com/feed/">
       <h2>How Companies Are Using NVIDIA DSX to Break the Power Bottleneck</h2>
-      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of the platform responds to an acute problem. Power is now the biggest bottleneck in infrastructure. More than $300 billion […]</p>
 </div>
       <footer>
@@ -1435,7 +1623,7 @@
 
     <article data-published="2026-10-22T05:00:23Z" data-link="https://blogs.nvidia.com/blog/european-retail-open-models-robotics/" data-pagefind-filter="category:AI, category:GTC 2026, category:Nemotron, category:Retail and Consumer Packaged Goods, dc_creator:Mavi Nafria, author:Mavi Nafria, datePublished:2026-10-22T05:00:23Z, label:NVidia blog, channel:https://blogs.nvidia.com/feed/">
       <h2>NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations</h2>
-      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a digital twin. Frontier Results With Open Models Retail leaders and technology companies across Europe are using NVIDIA-accelerated open […]</p>
 </div>
       <footer>
@@ -1446,7 +1634,7 @@
 
     <article data-published="2026-10-22T05:00:19Z" data-link="https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/" data-pagefind-filter="category:AI, category:Climate, category:GTC 2026, category:NVIDIA Earth-2, dc_creator:Niall Robinson, author:Niall Robinson, datePublished:2026-10-22T05:00:19Z, label:NVidia blog, channel:https://blogs.nvidia.com/feed/">
       <h2>Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction</h2>
-      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators to plan around changing conditions. A global forecast can show a storm taking shape, but decisions about solar farms, shipping routes or insured property depend on what happens locally. NVIDIA Earth-2 gives developers and researchers a […]</p>
 </div>
       <footer>
@@ -1457,7 +1645,7 @@
 
     <article data-published="2026-10-22T05:00:02Z" data-link="https://blogs.nvidia.com/blog/european-public-sector-open-models/" data-pagefind-filter="category:AI, category:Agentic AI, category:GTC 2026, category:Nemotron, category:NVIDIA NeMo, category:Open Source, category:Public Sector, dc_creator:Eva-Maria Hempe, author:Eva-Maria Hempe, datePublished:2026-10-22T05:00:02Z, label:NVidia blog, channel:https://blogs.nvidia.com/feed/">
       <h2>NVIDIA Open Models Power a New Wave of European Public Sector Projects</h2>
-      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-22">2026-10-22</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Governments need modern solutions to serve the public while keeping sensitive information under their control. Open models provide a path forward, letting governments evaluate them, adapt them to local languages and public services, run them on infrastructure they control, apply their own safeguards and keep sensitive data within controlled environments. Some open models go further, […]</p>
 </div>
       <footer>
@@ -1512,7 +1700,7 @@
 
     <article data-published="2026-10-21T20:34:09Z" data-link="https://www.smithsonianmag.com/smart-news/archaeologists-may-have-solved-the-mystery-of-a-roman-sarcophagus-excavated-at-westminster-abbey-in-1869-180989732/" data-pagefind-filter="datePublished:2026-10-21T20:34:09Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Archaeologists May Have Solved the Mystery of a Roman Sarcophagus Excavated at Westminster Abbey in 1869</h2>
-      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>New research suggests that the ancient coffin was repurposed in the 10th or 11th century to hold the remains of an abbot who had overseen the London monastery</p>
 </div>
       <footer>
@@ -1523,7 +1711,7 @@
 
     <article data-published="2026-10-21T18:47:22Z" data-link="https://www.smithsonianmag.com/smart-news/african-elephants-shape-the-savanna-ecosystem-and-continue-doing-so-long-after-theyve-died-study-suggests-180989718/" data-pagefind-filter="datePublished:2026-10-21T18:47:22Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They&#39;ve Died, Study Suggests</h2>
-      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>At first, plants below an elephant carcass die. Soil microbes and plants grow back soon after, but only a few select species. Herbivores later come in to munch on the nutrient-rich greens</p>
 </div>
       <footer>
@@ -1545,7 +1733,7 @@
 
     <article data-published="2026-10-21T17:50:54Z" data-link="https://www.smithsonianmag.com/smart-news/shanghais-audacious-new-opera-house-just-opened-its-doors-and-a-gravity-defying-staircase-to-the-public-180989726/" data-pagefind-filter="datePublished:2026-10-21T17:50:54Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Shanghai&#39;s &#39;Audacious&#39; New Opera House Just Opened Its Doors—and a Gravity-Defying Staircase—to the Public</h2>
-      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The riverfront opera house is Shanghai's latest cultural statement. It features three performance halls and is designed to be accessible to everyone, not just ticket-holders</p>
 </div>
       <footer>
@@ -1567,7 +1755,7 @@
 
     <article data-published="2026-10-21T16:29:02Z" data-link="https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/" data-pagefind-filter="datePublished:2026-10-21T16:29:02Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Where Exactly Were the First Humans to Be Captured in a Photograph Standing? Three Obsessed Filmmakers Solved the Nearly 200-Year-Old Mystery</h2>
-      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The sleuths spent two years digging into archives and building 3D models of 19th-century Paris. The location is now immortalized by a bronze plaque celebrating the historic site and the &quot;poetic&quot; early photograph</p>
 </div>
       <footer>
@@ -1578,7 +1766,7 @@
 
     <article data-published="2026-10-21T16:01:03Z" data-link="https://www.smithsonianmag.com/smart-news/she-painted-first-known-self-portrait-an-artist-at-work-and-signed-it-nearly-500-years-ago-who-was-catharina-van-hemessen-180989724/" data-pagefind-filter="datePublished:2026-10-21T16:01:03Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>She Painted the First Known Self-Portrait of an Artist at Work—and Signed It—Nearly 500 Years Ago. Who Was Catharina van Hemessen?</h2>
-      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Few women worked as professional artists in the 16th century. A new exhibition in Antwerp, Belgium, seeks to restore this Flemish painter to the pantheon of art history giants</p>
 </div>
       <footer>
@@ -1589,7 +1777,7 @@
 
     <article data-published="2026-10-21T16:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/these-snakes-can-cartwheel-away-from-danger-scientists-just-uncovered-how-the-slithering-creatures-perform-their-acrobatic-rolls-180989720/" data-pagefind-filter="datePublished:2026-10-21T16:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>These Snakes Can Cartwheel Away From Danger. Scientists Just Uncovered How the Slithering Creatures Perform Their Acrobatic Rolls</h2>
-      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>When they're rolling, some snakes belonging to the Pseudorabdion genus can reach top speeds of 3.8 to 8.3 miles per hour, according to a new study</p>
 </div>
       <footer>
@@ -1634,7 +1822,7 @@
 
     <article data-published="2026-10-21T14:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/see-the-scientific-and-the-mundane-become-surprisingly-dazzling-when-viewed-through-a-microscope-from-neurons-to-ballpoint-pens-180989721/" data-pagefind-filter="datePublished:2026-10-21T14:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>See the Scientific and the Mundane Become Surprisingly Dazzling When Viewed Through a Microscope, From Neurons to Ballpoint Pens</h2>
-      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The Nikon Small World Competition has announced its photography winners for its 52nd annual contest. This comes weeks after its video winner was dethroned for use of generative A.I.</p>
 </div>
       <footer>
@@ -1645,7 +1833,7 @@
 
     <article data-published="2026-10-21T14:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/in-a-first-astronomers-identify-a-star-that-might-glow-green-new-research-highlights-the-strange-hues-white-dwarfs-can-take-on-180989719/" data-pagefind-filter="datePublished:2026-10-21T14:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>In a First, Astronomers Identify a Star That Might Glow Green. New Research Highlights the Strange Hues White Dwarfs Can Take on</h2>
-      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>White dwarf stars are too far from Earth to be observed directly. So, scientists reconstructed how they'd look to human eyes based on the wavelengths of light they emit and found a colorful array of objects that might appear yellow, purple or pink</p>
 </div>
       <footer>
@@ -1667,7 +1855,7 @@
 
     <article data-published="2026-10-21T11:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/to-understand-social-divides-in-medieval-england-archaeologists-examined-tooth-enamel-from-lead-mining-communities-180989722/" data-pagefind-filter="datePublished:2026-10-21T11:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>To Understand Social Divides in Medieval England, Archaeologists Examined Tooth Enamel From Lead Mining Communities</h2>
-      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Some residents of the Peaks District in the 13th century may have experienced worse lead pollution than city-dwellers during the Industrial Revolution. Female skeletons showed higher lead levels and earlier ages of death</p>
 </div>
       <footer>
@@ -1678,7 +1866,7 @@
 
     <article data-published="2026-10-21T10:50:37Z" data-link="https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/" data-pagefind-filter="category:AI, category:Agentic AI, category:Artificial Intelligence, category:DGX Spark, category:GTC 2026, category:Local AI, category:NVIDIA RTX, category:Open Source, category:RTX AI Garage, category:RTX Spark, dc_creator:Gerardo Delgado, author:Gerardo Delgado, datePublished:2026-10-21T10:50:37Z, label:NVidia blog, channel:https://blogs.nvidia.com/feed/">
       <h2>Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents</h2>
-      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on Linux, with a Windows version arriving in December. Announcements include: […]</p>
 </div>
       <footer>
@@ -1689,7 +1877,7 @@
 
     <article data-published="2026-10-21T10:45:17Z" data-link="https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/" data-pagefind-filter="category:AI Infrastructure, category:Cloud, category:Hardware, category:Networking, category:GTC 2026, category:Nemotron, category:NVIDIA DSX, category:NVIDIA Vera Rubin, category:OpenShell, dc_creator:Uttara Kumar, author:Uttara Kumar, datePublished:2026-10-21T10:45:17Z, label:NVidia blog, channel:https://blogs.nvidia.com/feed/">
       <h2>Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure</h2>
-      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9 SuperNICs, Google Cloud Virgo Network and Google Cloud’s fourth-generation advanced liquid-cooling technology for demanding […]</p>
 </div>
       <footer>
@@ -1700,7 +1888,7 @@
 
     <article data-published="2026-10-21T10:30:41Z" data-link="https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/" data-pagefind-filter="category:AI Infrastructure, category:Cloud, category:Cosmos, category:GTC 2026, category:Nemotron, category:NVIDIA BlueField, category:NVIDIA DSX, category:NVIDIA in Europe, category:NVIDIA Spectrum-X Ethernet, category:NVIDIA Vera, category:OpenShell, dc_creator:Stuart Pitts, author:Stuart Pitts, datePublished:2026-10-21T10:30:41Z, label:NVidia blog, channel:https://blogs.nvidia.com/feed/">
       <h2>NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents</h2>
-      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design.  NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for […]</p>
 </div>
       <footer>
@@ -1711,7 +1899,7 @@
 
     <article data-published="2026-10-21T10:30:40Z" data-link="https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/" data-pagefind-filter="category:AI, category:Cosmos, category:CUDA-X, category:GTC 2026, dc_creator:James McKenna, author:James McKenna, datePublished:2026-10-21T10:30:40Z, label:NVidia blog, channel:https://blogs.nvidia.com/feed/">
       <h2>Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA</h2>
-      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-21">2026-10-21</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open models, across the engineering and manufacturing lifecycle.  Bringing those capabilities together on the factory floor, the NVIDIA Factory Operations Blueprint (FOX) is now available in […]</p>
 </div>
       <footer>
@@ -1825,7 +2013,7 @@
 
     <article data-published="2026-10-20T21:20:19Z" data-link="https://www.smithsonianmag.com/smart-news/a-rhode-island-man-grew-the-first-pumpkin-to-surpass-3000-pounds-the-gargantuan-gourd-is-the-largest-fruit-ever-180989723/" data-pagefind-filter="datePublished:2026-10-20T21:20:19Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>A Rhode Island Man Grew the First Pumpkin to Surpass 3,000 Pounds. The Gargantuan Gourd Is the Largest Fruit Ever</h2>
-      <p><time datetime="2026-10-20">2026-10-20</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-20">2026-10-20</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>On October 10, Ron Wallace took the pumpkin king crown with a 3,156-pounder. The previous record—a respectable, nearly 2,857-pound pumpkin—was set just a week earlier by British grower Ian Paton</p>
 </div>
       <footer>
@@ -1847,7 +2035,7 @@
 
     <article data-published="2026-10-20T18:56:20Z" data-link="https://www.smithsonianmag.com/smart-news/sick-corals-can-heal-with-the-help-of-a-magic-touch-from-healthy-ones-offering-hope-for-heat-damaged-marine-ecosystems-180989693/" data-pagefind-filter="datePublished:2026-10-20T18:56:20Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Sick Corals Can Heal With the Help of a &#39;Magic Touch&#39; From Healthy Ones, Offering Hope for Heat-Damaged Marine Ecosystems</h2>
-      <p><time datetime="2026-10-20">2026-10-20</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-20">2026-10-20</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>A coral is often a colony of tiny, genetically identical animals. New research suggests that when a bleached coral fragment comes into physical contact with a colorful, thriving clone, the pale one can revive within weeks</p>
 </div>
       <footer>
@@ -1870,7 +2058,7 @@
 
     <article data-published="2026-10-20T18:34:12Z" data-link="https://www.smithsonianmag.com/smart-news/a-vast-new-database-shows-how-britain-built-a-global-empire-by-trading-goods-like-coal-wine-and-wood-closer-to-home-180989717/" data-pagefind-filter="datePublished:2026-10-20T18:34:12Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>A Vast New Database Shows How Britain Built a Global Empire by Trading Goods Like Coal, Wine and Wood Closer to Home</h2>
-      <p><time datetime="2026-10-20">2026-10-20</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-20">2026-10-20</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Using AI to comb through hundreds of thousands of handwritten pages of port records, historians have constructed an interactive map of Britain’s maritime trading routes. Even as it expanded in Asia and the Americas, Britain's commerce with Europe remained overwhelming</p>
 </div>
       <footer>
@@ -1914,7 +2102,7 @@
 
     <article data-published="2026-10-20T16:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/the-worlds-tallest-trees-seem-to-struggle-to-make-their-own-food-during-heat-waves-leaving-them-vulnerable-as-the-world-warms-180989714/" data-pagefind-filter="datePublished:2026-10-20T16:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>The World&#39;s Tallest Trees Seem to Struggle to Make Their Own Food During Heat Waves, Leaving Them Vulnerable as the World Warms</h2>
-      <p><time datetime="2026-10-20">2026-10-20</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-20">2026-10-20</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Coast redwoods, which grow only from central California to southern Oregon, slow photosynthesis when temperatures ramp up, according to a new study. Scientists worry about the towering plants' future amid climate change</p>
 </div>
       <footer>
@@ -1958,7 +2146,7 @@
 
     <article data-published="2026-10-20T14:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/this-dog-learned-to-sniff-out-a-slimy-marine-invader-called-sea-vomit-a-skill-that-earned-her-the-animal-of-the-year-award-180989706/" data-pagefind-filter="datePublished:2026-10-20T14:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>This Dog Learned to Sniff Out a Slimy Marine Invader Called &#39;Sea Vomit&#39;—a Skill That Earned Her the Animal of the Year Award</h2>
-      <p><time datetime="2026-10-20">2026-10-20</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-20">2026-10-20</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Sgiath, a 6-year-old Labrador from the Scottish Highlands, received the honor from the International Fund for Animal Welfare. She's believed to be the first pup trained to hunt for the invasive carpet sea squirt, which is threatening marine life along the British coast and elsewhere</p>
 </div>
       <footer>
@@ -1969,7 +2157,7 @@
 
     <article data-published="2026-10-20T11:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/archaeologists-searching-for-evidence-of-a-norse-church-in-greenland-have-found-the-smoking-gu-near-erik-the-reds-settlement-180989716/" data-pagefind-filter="datePublished:2026-10-20T11:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Archaeologists Searching for Evidence of a Norse Church in Greenland Have Found &#39;the Smoking Gun&#39; Near Erik the Red&#39;s Settlement</h2>
-      <p><time datetime="2026-10-20">2026-10-20</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-20">2026-10-20</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The site was first identified as a possible church decades ago, but researchers did not confirm that hunch until they found human remains there this summer. It could offer another clue to the Viking's unexplained 15th-century disappearance</p>
 </div>
       <footer>
@@ -2061,7 +2249,7 @@
 
     <article data-published="2026-10-19T21:13:51Z" data-link="https://www.smithsonianmag.com/smart-news/the-burning-of-this-french-city-hall-was-a-catastrophe-for-heritage-tragically-reminiscent-of-the-notre-dame-fire-180989711/" data-pagefind-filter="datePublished:2026-10-19T21:13:51Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>The Burning of This French City Hall Was a &#39;Catastrophe for Heritage,&#39; Tragically Reminiscent of the Notre-Dame Fire</h2>
-      <p><time datetime="2026-10-19">2026-10-19</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-19">2026-10-19</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>French authorities say that the Limoges city hall, built in the late 19th century and celebrated as an architectural gem, was the victim of an arson attack amid mass protests in France over the weekend</p>
 </div>
       <footer>
@@ -2072,7 +2260,7 @@
 
     <article data-published="2026-10-19T19:41:00Z" data-link="https://www.smithsonianmag.com/smart-news/scientists-dont-know-how-mars-acquired-its-two-moons-japan-just-launched-a-historic-space-mission-that-will-fetch-samples-to-find-out-180989713/" data-pagefind-filter="datePublished:2026-10-19T19:41:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Scientists Don&#39;t Know How Mars Acquired Its Two Moons. Japan Just Launched a Historic Space Mission That Will Fetch Samples to Find Out</h2>
-      <p><time datetime="2026-10-19">2026-10-19</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-19">2026-10-19</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The Japan Aerospace Exploration Agency's spacecraft is expected to reach the Martian system in August 2027 and return samples from the moon Phobos to Earth in 2031</p>
 </div>
       <footer>
@@ -2105,7 +2293,7 @@
 
     <article data-published="2026-10-19T19:17:45Z" data-link="https://www.smithsonianmag.com/smart-news/when-a-19th-century-scottish-landowner-blocked-a-public-footpath-locals-rebelled-now-archaeologists-have-unearthed-parts-of-his-controversial-wall-180989712/" data-pagefind-filter="datePublished:2026-10-19T19:17:45Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>When a 19th-Century Scottish Landowner Blocked a Public Footpath, Locals Rebelled. Now, Archaeologists Have Unearthed Parts of His Controversial Wall</h2>
-      <p><time datetime="2026-10-19">2026-10-19</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-19">2026-10-19</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The rebellion against &quot;Harvie’s Dyke,&quot; a pair of stone walls erected in the 1820s, was a triumph for the workers and middle classes of Glasgow, who used riots, boycotts and lawsuits to win back access to the River Clyde</p>
 </div>
       <footer>
@@ -2183,7 +2371,7 @@
 
     <article data-published="2026-10-19T15:01:46Z" data-link="https://www.smithsonianmag.com/smart-news/earths-true-north-and-south-poles-have-wandered-four-times-over-the-past-320-million-years-study-suggests-180989698/" data-pagefind-filter="datePublished:2026-10-19T15:01:46Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Earth&#39;s True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests</h2>
-      <p><time datetime="2026-10-19">2026-10-19</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-19">2026-10-19</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The phenomenon, which involves the geographic poles, is distinct from when the magnetic poles move. The planet's solid crust and molten mantle occasionally shift and subsequently reorient themselves during what's called true polar wander</p>
 </div>
       <footer>
@@ -2205,7 +2393,7 @@
 
     <article data-published="2026-10-19T14:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/how-colorados-wildlife-mitigation-efforts-including-the-largest-animal-crossing-overpass-in-north-america-are-making-everyone-safer-180989704/" data-pagefind-filter="datePublished:2026-10-19T14:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>How Colorado&#39;s Wildlife Mitigation Efforts—Including the Largest Animal Crossing Overpass in North America—Are Making Everyone Safer</h2>
-      <p><time datetime="2026-10-19">2026-10-19</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-19">2026-10-19</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Animals can now cross a dangerous stretch of Interstate 25 thanks to new infrastructure, including fences, underpasses and a massive overpass, which has led to a 91 percent reduction in wildlife-vehicle collisions</p>
 </div>
       <footer>
@@ -2216,7 +2404,7 @@
 
     <article data-published="2026-10-19T12:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/a-farmer-in-egypt-stumbled-upon-a-pink-stone-and-called-the-authorities-they-found-the-remains-of-two-colossal-statues-of-ramses-ii-beneath-the-property-180989708/" data-pagefind-filter="datePublished:2026-10-19T12:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>A Farmer in Egypt Stumbled Upon a Pink Stone and Called the Authorities. They Found the Remains of Two Colossal Statues of Ramses II Beneath the Property</h2>
-      <p><time datetime="2026-10-19">2026-10-19</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-19">2026-10-19</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Archaeologists recovered the head of one statue that might have measured nearly 28 feet tall. It could point to a major building site commissioned by the pharaoh</p>
 </div>
       <footer>
@@ -2374,7 +2562,7 @@
 
     <article data-published="2026-10-16T20:16:08Z" data-link="https://www.smithsonianmag.com/smart-news/rembrandt-turned-ancient-myths-into-supremely-human-works-of-art-an-upcoming-exhibition-traces-the-inspiration-he-took-from-antiquity-180989705/" data-pagefind-filter="datePublished:2026-10-16T20:16:08Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Rembrandt Turned Ancient Myths Into &#39;Supremely Human&#39; Works of Art. An Upcoming Exhibition Traces the Inspiration He Took From Antiquity</h2>
-      <p><time datetime="2026-10-16">2026-10-16</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-16">2026-10-16</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>&quot;Rembrandt and the Ancients&quot; at the Metropolitan Museum of Art will unpack an &quot;underexplored but vital&quot; part of the Dutch master's career, putting his paintings and drawings in conversation with the antecedents that inspired them</p>
 </div>
       <footer>
@@ -2396,7 +2584,7 @@
 
     <article data-published="2026-10-16T18:51:49Z" data-link="https://www.smithsonianmag.com/smart-news/legend-has-it-that-this-roman-emperor-established-camp-wales-newly-discovered-fort-may-offer-proof-that-it-really-existed-180989702/" data-pagefind-filter="datePublished:2026-10-16T18:51:49Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Legend Has It That This Roman Emperor Established a Camp in Wales. A Newly Discovered Fort May Offer Proof That It Really Existed</h2>
-      <p><time datetime="2026-10-16">2026-10-16</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-16">2026-10-16</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>An archaeologist has uncovered an ancient fortification linked to Magnus Maximus, a fourth-century ruler who is immortalized in the medieval &quot;Mabinogion&quot; stories as Macsen Wledig</p>
 </div>
       <footer>
@@ -2407,7 +2595,7 @@
 
     <article data-published="2026-10-16T18:23:17Z" data-link="https://www.smithsonianmag.com/smart-news/wildlife-experts-stunned-to-find-that-bird-flu-killed-jackie-the-beloved-internet-famous-bald-eagle-180989703/" data-pagefind-filter="datePublished:2026-10-16T18:23:17Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Wildlife Experts Stunned to Find That Bird Flu Killed Jackie, the Beloved, Internet-Famous Bald Eagle</h2>
-      <p><time datetime="2026-10-16">2026-10-16</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-16">2026-10-16</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Jackie died in August after receiving weeks of intensive care at the Ojai Raptor Center in California. The necropsy results are surprising, given that Jackie's symptoms were unusual for bird flu and there is no ongoing outbreak among bald eagles</p>
 </div>
       <footer>
@@ -2418,7 +2606,7 @@
 
     <article data-published="2026-10-16T18:01:39Z" data-link="https://www.smithsonianmag.com/smart-news/madrids-renewed-and-expanded-sorolla-museum-lets-the-paintings-of-the-spanish-master-of-light-reemerge-into-public-view-180989701/" data-pagefind-filter="datePublished:2026-10-16T18:01:39Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Madrid&#39;s Renewed and Expanded Sorolla Museum Lets the Paintings of the Spanish &#39;Master of Light&#39; Re-emerge Into Public View</h2>
-      <p><time datetime="2026-10-16">2026-10-16</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-16">2026-10-16</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Dedicated to the works of Joaquín Sorolla y Bastida, the museum is centered around his historic home and studio. The first phase of its yearslong renovation is complete, featuring expanded exhibition spaces</p>
 </div>
       <footer>
@@ -2429,7 +2617,7 @@
 
     <article data-published="2026-10-16T17:03:22Z" data-link="https://www.smithsonianmag.com/smart-news/microplastics-have-been-linked-with-myriad-human-health-problems-scientists-may-have-finally-figured-out-how-they-harm-the-body-180989694/" data-pagefind-filter="datePublished:2026-10-16T17:03:22Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Microplastics Have Been Linked With Myriad Human Health Problems. Scientists May Have Finally Figured Out How They Harm the Body</h2>
-      <p><time datetime="2026-10-16">2026-10-16</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-16">2026-10-16</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Lab experiments suggest that tiny bits of plastic can react with water inside us to produce highly reactive molecules. They can lead to damaging oxidative stress and inflammation</p>
 </div>
       <footer>
@@ -2451,7 +2639,7 @@
 
     <article data-published="2026-10-16T16:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/small-dogs-tend-to-live-longer-than-big-dogs-scientists-say-they-might-finally-know-why-and-it-goes-to-the-molecular-level-180989695/" data-pagefind-filter="datePublished:2026-10-16T16:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Small Dogs Tend to Live Longer Than Big Dogs. Scientists Say They Might Finally Know Why—and It Goes to the Molecular Level</h2>
-      <p><time datetime="2026-10-16">2026-10-16</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-16">2026-10-16</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Larger breeds like Great Danes seem to accumulate changes to chemical tags on their DNA more quickly than tinier breeds, such as chihuahuas. These alterations allow potentially harmful 'jumping genes' to move around their genomes</p>
 </div>
       <footer>
@@ -2473,7 +2661,7 @@
 
     <article data-published="2026-10-16T14:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/this-ancient-animal-looked-like-a-platapys-otter-hybrid-its-providing-clues-about-the-origins-of-mammalian-suckling-and-swallowing-180989666/" data-pagefind-filter="datePublished:2026-10-16T14:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>This Ancient Animal Looked Like a Platypus-Otter Hybrid. It&#39;s Providing Clues About the Origins of Mammalian Suckling and Swallowing</h2>
-      <p><time datetime="2026-10-16">2026-10-16</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-16">2026-10-16</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The roughly two- to four-pound predator lived alongside dinosaurs some 165 million years ago. A fossil found in northern China shows the strange creature had a surprisingly modern throat structure</p>
 </div>
       <footer>
@@ -2507,7 +2695,7 @@
 
     <article data-published="2026-10-16T12:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/a-monumental-18th-century-portrait-of-a-young-polynesian-man-a-supreme-work-of-art-visits-the-us-for-the-first-time-180989699/" data-pagefind-filter="datePublished:2026-10-16T12:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>A Monumental 18th-Century Portrait of a Young Polynesian Man—a &#39;Supreme Work of Art&#39;—Visits the U.S. for the First Time</h2>
-      <p><time datetime="2026-10-16">2026-10-16</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-16">2026-10-16</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The massive &quot;Portrait of Mai&quot; depicts the first Pacific Islander to visit Britain, a young man who became a quasi-celebrity in the 1770s after joining the expedition of explorer James Cook</p>
 </div>
       <footer>
@@ -2577,7 +2765,7 @@
 
     <article data-published="2026-10-15T20:43:52Z" data-link="https://www.smithsonianmag.com/smart-news/its-official-timekeepers-have-gotten-rid-of-the-leap-second-and-introduced-the-leap-hour-instead-180989685/" data-pagefind-filter="datePublished:2026-10-15T20:43:52Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>It&#39;s Official: Timekeepers Have Gotten Rid of the Leap Second—and Introduced the Leap Hour Instead</h2>
-      <p><time datetime="2026-10-15">2026-10-15</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-15">2026-10-15</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Since 1972, experts have added 27 seconds to Coordinated Universal Time to keep it aligned with Earth's rotation, but it has been an imperfect fix</p>
 </div>
       <footer>
@@ -2588,7 +2776,7 @@
 
     <article data-published="2026-10-15T20:19:07Z" data-link="https://www.smithsonianmag.com/smart-news/on-an-island-outside-paris-a-sprawling-contemporary-arts-center-aptly-called-large-prepares-to-open-its-doors-180989690/" data-pagefind-filter="datePublished:2026-10-15T20:19:07Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>On an Island Outside Paris, a Sprawling Contemporary Arts Center Aptly Called &#39;Large&#39; Prepares to Open Its Doors</h2>
-      <p><time datetime="2026-10-15">2026-10-15</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-15">2026-10-15</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The landmark institution’s first exhibition pays homage to a historic Renault automobile plant that once operated on the Île Seguin in the Seine River. &quot;The project called for a great deal of perseverance,&quot; one official says</p>
 </div>
       <footer>
@@ -2610,7 +2798,7 @@
 
     <article data-published="2026-10-15T19:41:46Z" data-link="https://www.smithsonianmag.com/smart-news/this-soldier-kept-a-diary-in-the-trenches-of-world-war-i-a-child-found-it-at-the-dump-decades-later-pierced-by-a-bullet-and-stained-with-blood-180989696/" data-pagefind-filter="datePublished:2026-10-15T19:41:46Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>This Soldier Kept a Diary in the Trenches of World War I. A Child Found It at the Dump Decades Later, Pierced by a Bullet and Stained With Blood</h2>
-      <p><time datetime="2026-10-15">2026-10-15</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-15">2026-10-15</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Corporal Claude Nuttall recorded his wartime experiences in the diary. Now, after decades of research, a museum curator is telling the soldier's story in a new book</p>
 </div>
       <footer>
@@ -2621,7 +2809,7 @@
 
     <article data-published="2026-10-15T18:03:46Z" data-link="https://www.smithsonianmag.com/smart-news/venetian-artist-canaletto-merged-fantasy-and-architectural-detail-in-this-previously-unseen-sketch-heading-to-auction-this-month-180989692/" data-pagefind-filter="datePublished:2026-10-15T18:03:46Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Venetian Artist Canaletto Merged Fantasy and Architectural Detail in This Previously Unseen Sketch, Heading to Auction This Month</h2>
-      <p><time datetime="2026-10-15">2026-10-15</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-15">2026-10-15</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The 18th-century painter was a key practitioner of &quot;capriccio&quot; artworks, which blended scenes of everyday life with bold, out-of-place structures. This work was not known to exist for centuries and could now fetch up to $80,000</p>
 </div>
       <footer>
@@ -2665,7 +2853,7 @@
 
     <article data-published="2026-10-15T16:50:01Z" data-link="https://www.smithsonianmag.com/smart-news/a-detailed-martian-rover-photograph-highlights-mysterious-cliffs-on-the-edge-of-one-of-mars-mountains-180989675/" data-pagefind-filter="datePublished:2026-10-15T16:50:01Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>A Detailed Martian Rover Photograph Highlights Mysterious Cliffs on the Edge of One of Mars’ Mountains</h2>
-      <p><time datetime="2026-10-15">2026-10-15</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-15">2026-10-15</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>These crags don't match the rest of the mountain, and scientists don't know how they formed</p>
 </div>
       <footer>
@@ -2676,7 +2864,7 @@
 
     <article data-published="2026-10-15T16:24:32Z" data-link="https://www.smithsonianmag.com/smart-news/londons-oldest-restaurant-frequented-by-monarchs-and-pop-stars-alike-is-a-site-of-living-history-now-its-protected-by-the-national-trust-for-generations-to-come-180989688/" data-pagefind-filter="datePublished:2026-10-15T16:24:32Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>London&#39;s Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of &#39;Living History.&#39; Now It&#39;s Protected by the National Trust for Generations to Come</h2>
-      <p><time datetime="2026-10-15">2026-10-15</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-15">2026-10-15</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Rules, a historic restaurant where the likes of Charles Dickens and Madonna have dined, is changing hands for only the fourth time in over 200 years. Visitors can see artifact-covered walls and indulge in rich British cuisine</p>
 </div>
       <footer>
@@ -2709,7 +2897,7 @@
 
     <article data-published="2026-10-15T15:21:22Z" data-link="https://www.smithsonianmag.com/smart-news/wildlife-biologists-start-vaccinating-shy-albatross-by-hand-taking-aim-at-the-spread-of-avian-flu-in-tasmania-180989684/" data-pagefind-filter="datePublished:2026-10-15T15:21:22Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Wildlife Biologists Start Vaccinating Shy Albatrosses by Hand, Taking Aim at the Spread of Avian Flu in Tasmania</h2>
-      <p><time datetime="2026-10-15">2026-10-15</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-15">2026-10-15</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>If all goes to plan, officials hope to vaccinate up to 100 of the large seabirds on Albatross Island, giving each two doses of the vaccine. Afterward, they plan to keep tabs on the birds using remote cameras and follow-up visits</p>
 </div>
       <footer>
@@ -2742,7 +2930,7 @@
 
     <article data-published="2026-10-15T14:52:27Z" data-link="https://www.smithsonianmag.com/smart-news/birds-in-their-pants-two-men-accused-of-smuggling-21-avians-after-miami-airport-bust-180989670/" data-pagefind-filter="datePublished:2026-10-15T14:52:27Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Birds in Their Pants: Two Men Accused of Smuggling 21 Avians After Miami Airport Bust</h2>
-      <p><time datetime="2026-10-15">2026-10-15</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-15">2026-10-15</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Customs officers say they found the creatures hidden in the men's clothes after they touched down on separate flights from Cuba, and it's unclear whether the two incidents are related. Wildlife trafficking is the world's fourth-largest form of organized crime</p>
 </div>
       <footer>
@@ -2809,7 +2997,7 @@
 
     <article data-published="2026-10-15T12:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/construction-work-on-the-north-dakota-governors-residence-accidentally-unearthed-seven-coffins-dating-back-to-the-states-early-settlement-180989686/" data-pagefind-filter="datePublished:2026-10-15T12:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Construction Work on the North Dakota Governor&#39;s Residence Accidentally Unearthed Seven Coffins Dating Back to the State&#39;s Early Settlement</h2>
-      <p><time datetime="2026-10-15">2026-10-15</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-15">2026-10-15</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The cemetery site was established in 1872, when the state capital Bismarck was a small frontier community called Edwinton. Most, but not all, of its gravesites were exhumed five years later to make way for a railroad</p>
 </div>
       <footer>
@@ -2891,7 +3079,7 @@
 
     <article data-published="2026-10-14T20:50:00Z" data-link="https://www.smithsonianmag.com/smart-news/see-the-stunning-winners-of-the-wildlife-photographer-of-the-year-contest-capturing-the-splendor-and-drama-of-nature-180989681/" data-pagefind-filter="datePublished:2026-10-14T20:50:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>See the Stunning Winners of the Wildlife Photographer of the Year Contest, Capturing the Splendor and Drama of Nature</h2>
-      <p><time datetime="2026-10-14">2026-10-14</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-14">2026-10-14</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>These 19 recognized images highlight the diversity across our planet and the value in appreciating and protecting the natural world</p>
 </div>
       <footer>
@@ -2913,7 +3101,7 @@
 
     <article data-published="2026-10-14T19:20:10Z" data-link="https://www.smithsonianmag.com/smart-news/a-new-contender-for-the-worlds-oldest-shipwreck-has-been-discovered-off-the-coast-of-turkey-its-ancient-cargo-is-a-time-capsule-from-4700-years-ago-180989682/" data-pagefind-filter="datePublished:2026-10-14T19:20:10Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>A New Contender for the World&#39;s Oldest Shipwreck Has Been Discovered Off the Coast of Turkey. Its Ancient Cargo Is a &#39;Time Capsule&#39; From 4,700 Years Ago</h2>
-      <p><time datetime="2026-10-14">2026-10-14</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-14">2026-10-14</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The ship was likely transporting huge jars of olive oil or wine across the Mediterranean when it sank to the seafloor. One archaeologist &quot;could not believe how much&quot; residue remained inside</p>
 </div>
       <footer>
@@ -2935,7 +3123,7 @@
 
     <article data-published="2026-10-14T17:28:54Z" data-link="https://www.smithsonianmag.com/smart-news/this-vincent-van-gogh-painting-has-not-been-seen-in-public-for-over-60-years-it-is-now-poised-to-set-a-record-at-an-upcoming-auction-180989680/" data-pagefind-filter="datePublished:2026-10-14T17:28:54Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>This Vincent van Gogh Painting Has Not Been Seen in Public for Over 60 Years. It Is Now Poised to Set a Record at an Upcoming Auction</h2>
-      <p><time datetime="2026-10-14">2026-10-14</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-14">2026-10-14</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The Dutch Post-Impressionist painted &quot;Chestnut Trees in Blossom&quot; during the highly productive yet tragic final months of his life. It is heading to auction as part of a &quot;legendary&quot; private collection which also includes works from Cézanne and Renoir</p>
 </div>
       <footer>
@@ -3035,7 +3223,7 @@
 
     <article data-published="2026-10-14T12:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/two-recently-stolen-renoir-paintings-were-found-hidden-behind-a-cinderblock-wall-french-police-used-dna-evidence-and-vehicle-tracking-to-crack-the-case-180989678/" data-pagefind-filter="datePublished:2026-10-14T12:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Two Recently Stolen Renoir Paintings Were Found Hidden Behind a Cinderblock Wall. French Police Used DNA Evidence and Vehicle Tracking to Crack the Case</h2>
-      <p><time datetime="2026-10-14">2026-10-14</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-14">2026-10-14</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The bungled heist took place at the Renoir Museum on the French Riviera in September. French authorities made six arrests and believe they prevented another &quot;imminent&quot; theft, possibly at a nearby modern art museum</p>
 </div>
       <footer>
@@ -3046,7 +3234,7 @@
 
     <article data-published="2026-10-14T11:30:00Z" data-link="https://www.smithsonianmag.com/smart-news/archaeologists-in-egypt-discover-a-mud-brick-tomb-featuring-a-heartbreaking-elegy-to-an-ancient-mans-father-180989677/" data-pagefind-filter="datePublished:2026-10-14T11:30:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Archaeologists in Egypt Discover a Mud-Brick Tomb Featuring a Heartbreaking Elegy to an Ancient Man&#39;s Father</h2>
-      <p><time datetime="2026-10-14">2026-10-14</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-14">2026-10-14</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The 19-line poem was inscribed on a stone slab in the Bir al-Shaghala necropolis. The lament &quot;is a highly literary and original epigram,&quot; a scholar says</p>
 </div>
       <footer>
@@ -3149,7 +3337,7 @@
 
     <article data-published="2026-10-13T19:44:43Z" data-link="https://www.smithsonianmag.com/smart-news/mourners-laced-an-ancient-sippy-cup-in-a-roman-toddlers-grave-it-may-have-been-meant-to-sustain-the-child-on-the-journey-to-the-afterlife-180989673/" data-pagefind-filter="datePublished:2026-10-13T19:44:43Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Mourners Placed an Ancient Sippy Cup in a Roman Toddler&#39;s Grave. It May Have Been Meant to Sustain the Child on the Journey to the Afterlife</h2>
-      <p><time datetime="2026-10-13">2026-10-13</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-13">2026-10-13</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Fragments of the spouted cup, known as a &quot;tettina,&quot; were unearthed in England over a decade ago. It has recently been restored and put on display for the first time</p>
 </div>
       <footer>
@@ -3160,7 +3348,7 @@
 
     <article data-published="2026-10-13T19:25:00Z" data-link="https://www.smithsonianmag.com/smart-news/a-family-of-barn-owls-has-moved-into-new-york-citys-upper-west-side-perhaps-the-first-to-nest-in-manhattan-in-modern-history-180989674/" data-pagefind-filter="datePublished:2026-10-13T19:25:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>A Family of Barn Owls Has Moved Into New York City&#39;s Upper West Side, Perhaps the First to Nest in Manhattan in Modern History</h2>
-      <p><time datetime="2026-10-13">2026-10-13</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-13">2026-10-13</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>The feathered residents have attracted lots of attention, as their species is considered an extremely rare sight in the city</p>
 </div>
       <footer>
@@ -3171,7 +3359,7 @@
 
     <article data-published="2026-10-13T19:23:43Z" data-link="https://www.smithsonianmag.com/smart-news/one-of-the-worlds-largest-chinstrap-penguin-colonies-is-shrinking-fast-180989676/" data-pagefind-filter="datePublished:2026-10-13T19:23:43Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>One of the World’s Largest Chinstrap Penguin Colonies Is Shrinking Fast</h2>
-      <p><time datetime="2026-10-13">2026-10-13</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-13">2026-10-13</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Zavodovski Island, a remote, uninhabited volcanic island between South America and Antarctica, lost 63 percent of its chinstrap penguins between 2011 and 2025, according to a new study</p>
 </div>
       <footer>
@@ -3182,7 +3370,7 @@
 
     <article data-published="2026-10-13T17:58:31Z" data-link="https://www.smithsonianmag.com/smart-news/after-an-american-bomber-crashed-into-an-english-moor-during-world-war-II-a-corporal-was-declared-missing-in-action-archaeologists-have-now-revived-the-search-for-his-remains-180989672/" data-pagefind-filter="datePublished:2026-10-13T17:58:31Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>After an American Bomber Crashed Into an English Moor During World War II, a Corporal Was Declared Missing in Action. Archaeologists Have Now Revived the Search for His Remains</h2>
-      <p><time datetime="2026-10-13">2026-10-13</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-13">2026-10-13</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Corporal Clarence Watson was among 10 American airmen aboard a B-24H Liberator when it crashed under foggy conditions. The crew was training for Operation Carpetbagger, a top-secret effort to fly deep into Nazi-occupied Europe</p>
 </div>
       <footer>
@@ -3248,7 +3436,7 @@
 
     <article data-published="2026-10-13T17:00:10Z" data-link="https://www.smithsonianmag.com/smart-news/an-unprecedented-trove-of-ancient-wooden-tools-uncovered-at-a-rock-shelter-in-spain-show-neanderthals-were-skilled-woodworkers-180989668/" data-pagefind-filter="datePublished:2026-10-13T17:00:10Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>An Unprecedented Trove of Ancient Wooden Tools Uncovered at a Rock Shelter in Spain Shows Neanderthals Were Skilled Woodworkers</h2>
-      <p><time datetime="2026-10-13">2026-10-13</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-13">2026-10-13</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Wooden objects usually decompose quickly, but periodic flooding and minerals in the water helped preserve those at a site called Abric Romaní. Archaeologists documented nearly 600 wooden objects—or their imprints—and 13 were clearly shaped by human hands</p>
 </div>
       <footer>
@@ -3259,7 +3447,7 @@
 
     <article data-published="2026-10-13T15:19:10Z" data-link="https://www.smithsonianmag.com/smart-news/with-the-help-of-family-wealth-and-instagram-gen-z-is-spending-big-in-the-art-market-180989664/" data-pagefind-filter="datePublished:2026-10-13T15:19:10Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>With the Help of Family Wealth and Instagram, Gen Z Is Spending Big in the Art Market</h2>
-      <p><time datetime="2026-10-13">2026-10-13</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-13">2026-10-13</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>According to a new survey, high-net-worth 20-somethings are emerging as the most active members of the global art trade, outspending other generations by wide margins. Their habits are changing how the art world works</p>
 </div>
       <footer>
@@ -3270,7 +3458,7 @@
 
     <article data-published="2026-10-13T15:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/this-tiny-sardinian-village-might-be-a-new-blue-zone-and-could-hold-the-secrets-to-female-longevity-180989660/" data-pagefind-filter="datePublished:2026-10-13T15:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>This Tiny Sardinian Village Might Be a New &#39;Blue Zone&#39;—and Could Hold the Secrets to Female Longevity</h2>
-      <p><time datetime="2026-10-13">2026-10-13</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-13">2026-10-13</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>In Bolotana, a town on the Italian island with about 2,300 residents, women who reach the age of 70 are about three times as likely to live to 100 than women in the United States, according to a new study</p>
 </div>
       <footer>
@@ -3281,7 +3469,7 @@
 
     <article data-published="2026-10-13T14:13:57Z" data-link="https://www.smithsonianmag.com/smart-news/volunteers-are-helping-unearth-one-of-englands-oldest-leprosy-hospitals-giving-a-glimpse-into-how-victims-of-the-disease-were-treated-in-medieval-times-180989665/" data-pagefind-filter="datePublished:2026-10-13T14:13:57Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Volunteers Are Helping Unearth One of England&#39;s Oldest Leprosy Hospitals, Giving a Glimpse Into How Victims of the Disease Were Treated in Medieval Times</h2>
-      <p><time datetime="2026-10-13">2026-10-13</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-13">2026-10-13</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Researchers believe that the Hospital of the Holy Innocents, founded in the 11th or 12th century, may have had &quot;little houses with a little yard&quot; for up to 20 people with leprosy. &quot;You’d need to have resources to get in here,&quot; one archaeologist says.</p>
 </div>
       <footer>
@@ -3292,7 +3480,7 @@
 
     <article data-published="2026-10-13T13:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/did-industrialization-gut-our-microbiomes-a-new-study-on-rural-foraging-communities-in-south-america-and-africa-hints-the-answer-is-yes-180989658/" data-pagefind-filter="datePublished:2026-10-13T13:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
       <h2>Did Industrialization Gut Our Microbiomes? A New Study on Rural Foraging Communities in South America and Africa Hints the Answer Is Yes</h2>
-      <p><time datetime="2026-10-13">2026-10-13</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
+      <p><time datetime="2026-10-13">2026-10-13</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
       <div class="article-body"><p>Two groups—the Tsimane forager-horticulturists in Bolivia and the Hadza hunter-gatherers in Tanzania—remarkably share more than 1,200 gut microbe species. However, around 60 percent of them are rare or absent in people living in industrialized places, according to researchers</p>
 </div>
       <footer>
@@ -3510,193 +3698,6 @@
 </div>
       <footer>
         <a href="https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/">Continue reading</a>
-        <p class="source">via NASA breaking news</p>
-      </footer>
-    </article>
-
-    <article data-published="2026-10-09T21:05:40Z" data-link="https://www.smithsonianmag.com/smart-news/watch-five-adorable-newborn-cheetah-cubs-grow-on-a-livestream-from-the-smithsonians-conservation-biology-institute-180989669/" data-pagefind-filter="datePublished:2026-10-09T21:05:40Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
-      <h2>Watch Five Adorable Newborn Cheetah Cubs Grow on a Livestream From the Smithsonian&#39;s Conservation Biology Institute</h2>
-      <p><time datetime="2026-10-09">2026-10-09</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
-      <div class="article-body"><p>The healthy and active babies are being cared for by first-time mother Zura, and the public can keep up with their antics through an online cheetah cub cam</p>
-</div>
-      <footer>
-        <a href="https://www.smithsonianmag.com/smart-news/watch-five-adorable-newborn-cheetah-cubs-grow-on-a-livestream-from-the-smithsonians-conservation-biology-institute-180989669/">Continue reading</a>
-        <p class="source">via Smithsonian Magazine</p>
-      </footer>
-    </article>
-
-    <article data-published="2026-10-09T20:39:30Z" data-link="https://www.smithsonianmag.com/smart-news/a-digital-swamp-coming-to-new-york-citys-moma-is-made-to-envelop-you-in-nature-with-the-help-of-cutting-edge-technology-180989652/" data-pagefind-filter="datePublished:2026-10-09T20:39:30Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
-      <h2>A Digital Swamp Coming to New York City’s MoMA Is &#39;Made to Envelop You&#39; in Nature With the Help of Cutting-Edge Technology</h2>
-      <p><time datetime="2026-10-09">2026-10-09</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
-      <div class="article-body"><p>&quot;Wetland&quot; is the latest installation of a high-tech traveling exhibition designed by Danish artist Jakob Kudsk Steensen. It recreates the overlooked ecosystem with the help of folklore, soundscapes and video game software</p>
-</div>
-      <footer>
-        <a href="https://www.smithsonianmag.com/smart-news/a-digital-swamp-coming-to-new-york-citys-moma-is-made-to-envelop-you-in-nature-with-the-help-of-cutting-edge-technology-180989652/">Continue reading</a>
-        <p class="source">via Smithsonian Magazine</p>
-      </footer>
-    </article>
-
-    <article data-published="2026-10-09T18:53:42Z" data-link="https://www.smithsonianmag.com/smart-news/raised-in-apartheid-south-africa-2026-nobel-peace-prize-winner-navi-pillay-is-one-of-the-worlds-leading-human-rights-jurists-180989667/" data-pagefind-filter="datePublished:2026-10-09T18:53:42Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
-      <h2>Raised in Apartheid South Africa, 2026 Nobel Peace Prize Winner Navi Pillay Is One of the World’s Leading Human Rights Jurists</h2>
-      <p><time datetime="2026-10-09">2026-10-09</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
-      <div class="article-body"><p>When Pillay learned she had won the award, she was in the same courtroom where the Nuremberg Trials held Nazi war criminals to account. Her legal career has been dedicated to fighting against human rights abuses and mass atrocities</p>
-</div>
-      <footer>
-        <a href="https://www.smithsonianmag.com/smart-news/raised-in-apartheid-south-africa-2026-nobel-peace-prize-winner-navi-pillay-is-one-of-the-worlds-leading-human-rights-jurists-180989667/">Continue reading</a>
-        <p class="source">via Smithsonian Magazine</p>
-      </footer>
-    </article>
-
-    <article data-published="2026-10-09T18:11:44Z" data-link="https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/" data-pagefind-filter="category:Commercial Space, category:Human Spaceflight Mission Directorate, category:Low Earth Orbit Economy, dc_creator:Jessica Taveau, author:Jessica Taveau, datePublished:2026-10-09T18:11:44Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
-      <h2>NASA Seeks US Industry Plans for Commercial Space Stations</h2>
-      <p><time datetime="2026-10-09">2026-10-09</time>, updated: <time datetime="2026-10-12">2026-10-12</time></p>
-      <div class="article-body"><p>NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space stations. “In alignment with the President’s National […]</p>
-</div>
-      <footer>
-        <a href="https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/">Continue reading</a>
-        <p class="source">via NASA breaking news</p>
-      </footer>
-    </article>
-
-    <article data-published="2026-10-09T17:28:10Z" data-link="https://www.smithsonianmag.com/smart-news/scientists-took-a-cheek-swab-from-the-worlds-oldest-tortoise-his-dna-could-reveal-hints-to-longevity-180989663/" data-pagefind-filter="datePublished:2026-10-09T17:28:10Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
-      <h2>Scientists Took a Cheek Swab From the World&#39;s Oldest Tortoise. His DNA Could Reveal Hints to Longevity</h2>
-      <p><time datetime="2026-10-09">2026-10-09</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
-      <div class="article-body"><p>Jonathan, an Aldabra giant tortoise, is about 194 years old and the oldest land animal alive today. Discoveries about his genetics could provide clues to extending lifespan in humans</p>
-</div>
-      <footer>
-        <a href="https://www.smithsonianmag.com/smart-news/scientists-took-a-cheek-swab-from-the-worlds-oldest-tortoise-his-dna-could-reveal-hints-to-longevity-180989663/">Continue reading</a>
-        <p class="source">via Smithsonian Magazine</p>
-      </footer>
-    </article>
-
-    <article data-published="2026-10-09T16:59:24Z" data-link="https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/" data-pagefind-filter="category:Ames Research Center, category:EPSCoR, category:General, category:International Space Station (ISS), category:Johnson Space Center, dc_creator:Tara Friesen, author:Tara Friesen, datePublished:2026-10-09T16:59:24Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
-      <h2>NASA Demonstrates Next-Generation Heat Shield Technologies</h2>
-      <p><time datetime="2026-10-09">2026-10-09</time>, updated: <time datetime="2026-10-12">2026-10-12</time></p>
-      <div class="article-body"><p>NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimental capsules designed to […]</p>
-</div>
-      <footer>
-        <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/">Continue reading</a>
-        <p class="source">via NASA breaking news</p>
-      </footer>
-    </article>
-
-    <article data-published="2026-10-09T15:21:52Z" data-link="https://www.smithsonianmag.com/smart-news/this-one-of-a-kind-bronze-ring-offers-a-tantalizing-glimpse-at-the-lighthouse-of-alexandria-a-lost-wonder-of-the-ancient-world-180989661/" data-pagefind-filter="datePublished:2026-10-09T15:21:52Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
-      <h2>This One-of-a-Kind Bronze Ring Offers a Tantalizing Glimpse at the Lighthouse of Alexandria, a Lost Wonder of the Ancient World</h2>
-      <p><time datetime="2026-10-09">2026-10-09</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
-      <div class="article-body"><p>Archaeologists in Egypt discovered the signet ring while conducting excavations on the island of Antirhodos, which once housed a lavish Ptolemaic palace</p>
-</div>
-      <footer>
-        <a href="https://www.smithsonianmag.com/smart-news/this-one-of-a-kind-bronze-ring-offers-a-tantalizing-glimpse-at-the-lighthouse-of-alexandria-a-lost-wonder-of-the-ancient-world-180989661/">Continue reading</a>
-        <p class="source">via Smithsonian Magazine</p>
-      </footer>
-    </article>
-
-    <article data-published="2026-10-09T15:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/a-century-ago-an-extinct-crocidilians-skull-was-found-in-the-rocks-that-built-the-sphinx-turns-out-it-belonged-to-a-new-species-180989641/" data-pagefind-filter="datePublished:2026-10-09T15:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
-      <h2>A Century Ago, an Extinct Crocodilian&#39;s Skull Was Found in the Rocks That Built the Sphinx. Turns Out, It Belonged to a New Species</h2>
-      <p><time datetime="2026-10-09">2026-10-09</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
-      <div class="article-body"><p>The specimen was long mislabeled, according to a new study. Paleontologists identified it as a previously undescribed genus and species of gavial—a cousin of crocodiles and alligators—which they named after the ancient Egyptian god Horus</p>
-</div>
-      <footer>
-        <a href="https://www.smithsonianmag.com/smart-news/a-century-ago-an-extinct-crocidilians-skull-was-found-in-the-rocks-that-built-the-sphinx-turns-out-it-belonged-to-a-new-species-180989641/">Continue reading</a>
-        <p class="source">via Smithsonian Magazine</p>
-      </footer>
-    </article>
-
-    <article data-published="2026-10-09T14:55:21Z" data-link="https://www.smithsonianmag.com/smart-news/septembers-ozone-hole-was-the-biggest-it-has-been-in-25-years-180989657/" data-pagefind-filter="datePublished:2026-10-09T14:55:21Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
-      <h2>September&#39;s Ozone Hole Was the Biggest It Has Been in 25 Years</h2>
-      <p><time datetime="2026-10-09">2026-10-09</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
-      <div class="article-body"><p>The size of the hole in the stratosphere's ozone layer fluctuates every year, but last month's, measuring 10.6 million square miles, was especially large</p>
-</div>
-      <footer>
-        <a href="https://www.smithsonianmag.com/smart-news/septembers-ozone-hole-was-the-biggest-it-has-been-in-25-years-180989657/">Continue reading</a>
-        <p class="source">via Smithsonian Magazine</p>
-      </footer>
-    </article>
-
-    <article data-published="2026-10-09T14:35:25Z" data-link="https://www.smithsonianmag.com/smart-news/a-community-led-archaeology-dig-on-a-tiny-scottish-isle-has-unearthed-a-medieval-monastery-of-international-importance-180989654/" data-pagefind-filter="datePublished:2026-10-09T14:35:25Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
-      <h2>A Community-Led Archaeology Dig on a Tiny Scottish Isle Has Unearthed a Medieval Monastery of &#39;International Importance&#39;</h2>
-      <p><time datetime="2026-10-09">2026-10-09</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
-      <div class="article-body"><p>The settlement, founded by an early Christian saint in the 500s, is &quot;far more than a small island church.&quot; It may have played a larger role in the Christianization of Britain than historians once realized</p>
-</div>
-      <footer>
-        <a href="https://www.smithsonianmag.com/smart-news/a-community-led-archaeology-dig-on-a-tiny-scottish-isle-has-unearthed-a-medieval-monastery-of-international-importance-180989654/">Continue reading</a>
-        <p class="source">via Smithsonian Magazine</p>
-      </footer>
-    </article>
-
-    <article data-published="2026-10-09T14:03:07Z" data-link="https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/" data-pagefind-filter="category:Biology, dc_creator:Philip Ball, author:Philip Ball, datePublished:2026-10-09T14:03:07Z, label:Quanta Magazine, channel:https://www.quantamagazine.org/feed/">
-      <h2>How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.</h2>
-      <p><time datetime="2026-10-09">2026-10-09</time>, updated: <time datetime="2026-10-16">2026-10-16</time></p>
-      <div class="article-body"><p>C.H. Waddington’s powerful image of embryonic stem cells specializing on a rolling landscape has captivated biologists since the 1950s. Experimental data is finally confirming, and complicating, his visionary ideas.</p>
-<p>The post <a href="https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/">How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.</a> first appeared on <a href="https://www.quantamagazine.org">Quanta Magazine</a></p>
-</div>
-      <footer>
-        <a href="https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/">Continue reading</a>
-        <p class="source">via Quanta Magazine</p>
-      </footer>
-    </article>
-
-    <article data-published="2026-10-09T13:57:24Z" data-link="https://www.nasa.gov/image-article/cosmic-house-of-mirrors/" data-pagefind-filter="dc_creator:HQ Web Team, author:HQ Web Team, datePublished:2026-10-09T13:57:24Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
-      <h2>Cosmic House of Mirrors</h2>
-      <p><time datetime="2026-10-09">2026-10-09</time>, updated: <time datetime="2026-10-12">2026-10-12</time></p>
-      <div class="article-body"><p>Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS J0454.1-0300. The orange galaxies bunched together on one side of the image, however, are not actually […]</p>
-</div>
-      <footer>
-        <a href="https://www.nasa.gov/image-article/cosmic-house-of-mirrors/">Continue reading</a>
-        <p class="source">via NASA breaking news</p>
-      </footer>
-    </article>
-
-    <article data-published="2026-10-09T13:00:00Z" data-link="https://www.smithsonianmag.com/smart-news/these-south-american-birds-can-match-a-jackhammers-ear-splitting-volume-making-them-some-of-the-worlds-loudest-known-avians-180989629/" data-pagefind-filter="datePublished:2026-10-09T13:00:00Z, label:Smithsonian Magazine, channel:https://www.smithsonianmag.com/rss/smart-news/">
-      <h2>These South American Birds Can Match a Jackhammer&#39;s Ear-Splitting Volume, Making Them Some of the World&#39;s Loudest Known Avians</h2>
-      <p><time datetime="2026-10-09">2026-10-09</time>, updated: <time datetime="2026-10-29">2026-10-29</time></p>
-      <div class="article-body"><p>The bare-throated bellbird and the red-legged seriema can produce sounds at amplitudes that exceed 120 decibels, which puts them on par with a trumpeting elephant or a chainsaw</p>
-</div>
-      <footer>
-        <a href="https://www.smithsonianmag.com/smart-news/these-south-american-birds-can-match-a-jackhammers-ear-splitting-volume-making-them-some-of-the-worlds-loudest-known-avians-180989629/">Continue reading</a>
-        <p class="source">via Smithsonian Magazine</p>
-      </footer>
-    </article>
-
-    <article data-published="2026-10-09T07:00:00Z" data-link="https://www.npr.org/2026/10/09/nx-s1-5978061/rejection-sensitive-dysphoria-adhd" data-pagefind-filter="datePublished:2026-10-09T07:00:00Z, label:NPR Short Wave, channel:https://feeds.npr.org/510351/podcast.xml">
-      <h2>One of the toughest parts of ADHD is left out of the diagnosis</h2>
-      <p><time datetime="2026-10-09">2026-10-09</time>, updated: <time datetime="2026-10-30">2026-10-30</time></p>
-      <div class="article-body"><p>ADHD diagnoses are on the rise in the United States, but what if professionals are missing a key part of the disorder? In the 1970s, some clinicians recognized a lot of their ADHD patients had trouble with emotional regulation. But because it was easier to measure behavior rather than emotions, the criteria eventually fell off the radar. Today in the U.S., emotional dysregulation is not a part of the ADHD diagnostic criteria in the Diagnostic and Statistical Manual of Mental Disorders (DSM). Dr. Sasha Hamdani thinks that needs to change. In today’s episode, she talks about her book <em>Too Sensitive</em>, and explains what is going on in the brains of people with Rejection Sensitive Dysphoria.</p>
-<p><em>Interested in more mental health science? Email us your question at</em> <a href="mailto:shortwave@npr.org"><em>shortwave@npr.org</em></a> <em>.</em></p>
-<p><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at</em> <a href="http://plus.npr.org"><em>plus.npr.org</em></a> <em>.</em></p>
-<p><strong>Wender, P. H. (1971).</strong> <em>Minimal Brain Dysfunction in Children.</em> Wiley-Interscience. <a href="https://pubmed.ncbi.nlm.nih.gov/4581984/">https://pubmed.ncbi.nlm.nih.gov/4581984/</a></p>
-<p><strong>Barkley, R. A. (2015).</strong> Emotional dysregulation is a core component of ADHD. In R. A. Barkley (Ed.), <em>Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment</em> (4th ed., pp. 81–115). Guilford Press. <a href="https://www.guilford.com/excerpts/barkley2.pdf?t=1">https://www.guilford.com/excerpts/barkley2.pdf?t=1</a></p>
-<p><strong>Shaw, P., Stringaris, A., Nigg, J., &amp; Leibenluft, E. (2014).</strong> Emotion dysregulation in attention deficit hyperactivity disorder. <em>American Journal of Psychiatry</em>, 171(3), 276–293. <a href="https://doi.org/10.1176/appi.ajp.2013.13070966">https://doi.org/10.1176/appi.ajp.2013.13070966</a></p>
-<p><strong>Faraone, S. V., et al. (2019).</strong> Emotional dysregulation in adults with attention deficit hyperactivity disorder: Validity, aetiology, and clinical implications. <em>Neuroscience &amp; Biobehavioral Reviews</em>, 107, 132–142. <a href="https://doi.org/10.1016/j.neubiorev.2019.08.021">https://doi.org/10.1016/j.neubiorev.2019.08.021</a></p>
-<p><strong>Bondü, R., &amp; Esser, G. (2015).</strong> Justice and rejection sensitivity in children and adolescents with ADHD symptoms. <em>European Child &amp; Adolescent Psychiatry</em>, 24(2), 185–198. <a href="https://doi.org/10.1007/s00787-014-0560-9">https://doi.org/10.1007/s00787-014-0560-9</a></p>
-<p><strong>Cleveland Clinic. (2022).</strong> <em>Rejection Sensitive Dysphoria (RSD): Symptoms &amp; Treatment.</em> Cleveland Clinic Health Library. <a href="https://my.clevelandclinic.org/health/diseases/24099-rejection-sensitive-dysphoria-rsd">https://my.clevelandclinic.org/health/diseases/24099-rejection-sensitive-dysphoria-rsd</a></p>
-<p>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.</p>
-<p><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a></p>
-</div>
-      <footer>
-        <a href="https://www.npr.org/2026/10/09/nx-s1-5978061/rejection-sensitive-dysphoria-adhd">Continue reading</a>
-        <p class="source">via NPR Short Wave</p>
-      </footer>
-    </article>
-
-    <article data-published="2026-10-09T04:05:00Z" data-link="https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/" data-pagefind-filter="category:APOD, datePublished:2026-10-09T04:05:00Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
-      <h2>APOD: 2026 October 9 – Stickney Crater</h2>
-      <p><time datetime="2026-10-09">2026-10-09</time>, updated: <time datetime="2026-10-12">2026-10-12</time></p>
-      <div class="article-body"><p>APOD Science APOD APOD: 2026 October 9… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Stickney Crater Explanation: Stickney […]</p>
-</div>
-      <footer>
-        <a href="https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/">Continue reading</a>
-        <p class="source">via NASA breaking news</p>
-      </footer>
-    </article>
-
-    <article data-published="2026-10-09T04:01:00Z" data-link="https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/" data-pagefind-filter="category:Earth Observatory, category:Floods, category:Landsat 8 / LDCM (Landsat Data Continuity Mission), category:Landsat 9, datePublished:2026-10-09T04:01:00Z, label:NASA breaking news, channel:https://www.nasa.gov/news-release/feed/">
-      <h2>Floodwaters Overwhelm Thailand</h2>
-      <p><time datetime="2026-10-09">2026-10-09</time>, updated: <time datetime="2026-10-12">2026-10-12</time></p>
-      <div class="article-body"><p>Heavy rains since mid-September have caused widespread flooding that has affected millions of people across the country.</p>
-</div>
-      <footer>
-        <a href="https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/">Continue reading</a>
         <p class="source">via NASA breaking news</p>
       </footer>
     </article>
