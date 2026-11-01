@@ -6,10 +6,20 @@
     <description><![CDATA[Craft is a list of hand oriented craft and technology
 Do we really need all those power tools?]]></description>
     <link>https://rsdoiel.github.io/antenna/craft.xml</link>
-    <lastBuildDate>31 Oct 26 06:47 -0700</lastBuildDate>
+    <lastBuildDate>01 Nov 26 06:47 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Free Shipping All November</title>
+      <link>https://blog.lostartpress.com/2026/11/01/free-shipping-all-november/</link>
+      <description>
+        <![CDATA[We know our books costs good money (we think they are worth it). But we&#8217;ve held prices at current levels for more than four years now. And today we are offering free shipping on all domestic orders for the month of November. There is no code to copy. No special link or back-door access. Just...]]>
+      </description>
+      <source:markdown>We know our books costs good money (we think they are worth it). But we’ve held prices at current levels for more than four years now. And today we are offering free shipping on all domestic orders for the month of November. There is no code to copy. No special link or back-door access. Just...</source:markdown>
+      <guid>cid://https://blog.lostartpress.com/?p=70809</guid>
+      <category>Uncategorized</category>
+      <pubDate>Sun, 01 Nov 2026 13:51:30 +0000</pubDate>
+    </item>    <item>
       <title>The Splinter Report: October 30th</title>
       <link>https://www.popularwoodworking.com/editors-blog/the-splinter-report-october-30th/</link>
       <description>
@@ -544,16 +554,6 @@ as Model 2 Mandolin. Simple!
       <category>End Grain</category>
       <category>February 2026 #287</category>
       <pubDate>Mon, 12 Oct 2026 15:48:56 +0000</pubDate>
-    </item>    <item>
-      <title>LAP Open Wire, Oct. 10, 2026</title>
-      <link>https://blog.lostartpress.com/2026/10/10/lap-open-wire-oct-10-2026/</link>
-      <description>
-        <![CDATA[Welcome to Open Wire, our bi-monthly Woodworking Q&#38;A session. Until 5 p.m. today, you can post your questions in the comment section below, then Chris and I, along with your fellow readers if they wish, will answer. I&#8217;m writing this post about a week ahead of time, but it&#8217;s fairly safe to assume that as...]]>
-      </description>
-      <source:markdown>Welcome to Open Wire, our bi-monthly Woodworking Q&#38;A session. Until 5 p.m. today, you can post your questions in the comment section below, then Chris and I, along with your fellow readers if they wish, will answer. I’m writing this post about a week ahead of time, but it’s fairly safe to assume that as...</source:markdown>
-      <guid>cid://https://blog.lostartpress.com/?p=70742</guid>
-      <category>Open Wire</category>
-      <pubDate>Sat, 10 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

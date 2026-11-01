@@ -4,10 +4,20 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>31 Oct 26 06:44 -0700</lastBuildDate>
+    <lastBuildDate>01 Nov 26 06:44 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>APOD: 2026 November 1 – Colors of the Moon</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/</guid>
+      <category>APOD</category>
+      <pubDate>Sun, 01 Nov 2026 04:05:00 +0000</pubDate>
+    </item>    <item>
       <title>Sculpt OS 26.10 releases</title>
       <link>https://www.osnews.com/story/146275/sculpt-os-26-10-releases/</link>
       <description>
@@ -3869,29 +3879,6 @@ The post [Is ‘Attention’ the Essence of Intelligence?](https://www.quantamag
       <guid>cid://https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/</guid>
       <category>APOD</category>
       <pubDate>Sun, 11 Oct 2026 04:05:00 +0000</pubDate>
-    </item>    <item>
-      <title>NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium</title>
-      <link>https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/</link>
-      <description>
-        <![CDATA[As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11. NASA team members will engage with fans at the agency’s Experience Zone, located at the [&#8230;]]]>
-      </description>
-      <source:markdown>As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11. NASA team members will engage with fans at the agency’s Experience Zone, located at the \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1055705</guid>
-      <category>Aeronautics</category>
-      <category>General</category>
-      <category>NASA Aircraft</category>
-      <category>NASA Headquarters</category>
-      <pubDate>Sat, 10 Oct 2026 14:18:59 +0000</pubDate>
-    </item>    <item>
-      <title>APOD: 2026 October 10 – Lunar Farside</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/</link>
-      <description>
-        <![CDATA[APODScienceAPODAPOD: 2026 October 10…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Lunar Farside Explanation: Tidally locked in synchronous rotation, the Moon always presents its familiar nearside to denizens of [&#8230;]]]>
-      </description>
-      <source:markdown>APODScienceAPODAPOD: 2026 October 10…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Lunar Farside Explanation: Tidally locked in synchronous rotation, the Moon always presents its familiar nearside to denizens of \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/</guid>
-      <category>APOD</category>
-      <pubDate>Sat, 10 Oct 2026 04:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
