@@ -4,10 +4,58 @@
   <channel>
     <title><![CDATA[GLAM]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>02 Nov 26 06:47 -0800</lastBuildDate>
+    <lastBuildDate>03 Nov 26 06:46 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Understanding the CORE Dashboard: Finding New Research with the FreshFinds Tab</title>
+      <link>https://blog.core.ac.uk/2026/11/03/understanding-the-core-dashboard-finding-new-research-with-the-freshfinds-tab/</link>
+      <description>
+        <![CDATA[CORE FreshFinds is now live in the CORE Dashboard and available to CORE Sustaining Members. It has been shaped with repository teams through our recent pilot, and we will keep developing it with your feedback. This post is part of our Understanding the CORE Dashboard series. It walks through the FreshFinds tab: what it shows, and how to &#8230; <a href="https://blog.core.ac.uk/2026/11/03/understanding-the-core-dashboard-finding-new-research-with-the-freshfinds-tab/" class="more-link">Continue reading <span class="screen-reader-text">Understanding the CORE Dashboard: Finding New Research with the FreshFinds Tab</span></a>]]>
+      </description>
+      <source:markdown>CORE FreshFinds is now live in the CORE Dashboard and available to CORE Sustaining Members. It has been shaped with repository teams through our recent pilot, and we will keep developing it with your feedback. This post is part of our Understanding the CORE Dashboard series. It walks through the FreshFinds tab: what it shows, and how to … [Continue reading Understanding the CORE Dashboard: Finding New Research with the FreshFinds Tab](https://blog.core.ac.uk/2026/11/03/understanding-the-core-dashboard-finding-new-research-with-the-freshfinds-tab/)</source:markdown>
+      <guid>cid://https://blog.core.ac.uk/?p=2056</guid>
+      <category>dashboard</category>
+      <category>Uncategorised</category>
+      <pubDate>Tue, 03 Nov 2026 14:33:31 +0000</pubDate>
+    </item>    <item>
+      <title>Company News: Oxford University Press Launches MCP Pilot; Partners Include Harvard Library, Wharton School, and University of Oxford</title>
+      <link>https://www.infodocket.com/2026/11/03/company-news-oxford-university-press-launches-mcp-pilot-partners-include-harvard-library-wharton-school-and-university-of-oxford/</link>
+      <description>
+        <![CDATA[<p>Here&#8217;s the Full Text of the Oxford University Press Announcement: Oxford University Press (OUP) is working with three universities to securely connect their ChatGPT Edu accounts to academic content from OUP. Running from October to December 2026, the pilot will enable students and researchers to access OUP’s trusted content directly within their AI-assisted research journeys. [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/11/03/company-news-oxford-university-press-launches-mcp-pilot-partners-include-harvard-library-wharton-school-and-university-of-oxford/">Company News: Oxford University Press Launches MCP Pilot; Partners Include Harvard Library, Wharton School, and University of Oxford</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>Here’s the Full Text of the Oxford University Press Announcement: Oxford University Press (OUP) is working with three universities to securely connect their ChatGPT Edu accounts to academic content from OUP. Running from October to December 2026, the pilot will enable students and researchers to access OUP’s trusted content directly within their AI-assisted research journeys. \[…\]
+
+The post [Company News: Oxford University Press Launches MCP Pilot; Partners Include Harvard Library, Wharton School, and University of Oxford](https://www.infodocket.com/2026/11/03/company-news-oxford-university-press-launches-mcp-pilot-partners-include-harvard-library-wharton-school-and-university-of-oxford/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=169134</guid>
+      <category>Companies (Publishers/Vendors)</category>
+      <category>Data Files</category>
+      <category>Libraries</category>
+      <category>News</category>
+      <category>Publishing</category>
+      <pubDate>Tue, 03 Nov 2026 14:24:50 +0000</pubDate>
+    </item>    <item>
+      <title>Guest Post — What Accessibility at Scale Actually Requires of Academic Publishers</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/11/03/what-accessibility-at-scale-actually-requires-of-academic-publishers/</link>
+      <description>
+        <![CDATA[<p>How can publishers move past the regulatory overview for accessibility compliance and into the production reality after sitting on decades of archived content, posts, and data.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/11/03/what-accessibility-at-scale-actually-requires-of-academic-publishers/">Guest Post &#8212; What Accessibility at Scale Actually Requires of Academic Publishers</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>How can publishers move past the regulatory overview for accessibility compliance and into the production reality after sitting on decades of archived content, posts, and data.
+
+The post [Guest Post — What Accessibility at Scale Actually Requires of Academic Publishers](https://scholarlykitchen.sspnet.org/2026/11/03/what-accessibility-at-scale-actually-requires-of-academic-publishers/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63215</guid>
+      <category>Diversity, Equity, Inclusion, and Accessibility</category>
+      <category>Infrastructure</category>
+      <category>Research</category>
+      <category>Social Role</category>
+      <category>Technology</category>
+      <category>accessibility compliance</category>
+      <category>content accessibility</category>
+      <category>content remediation</category>
+      <pubDate>Tue, 03 Nov 2026 10:30:57 +0000</pubDate>
+    </item>    <item>
       <title>Rethinking Readers’ Advisory For Today’s Reading Reality (New Issue of Library Trends; Vol. 75, No. 2)</title>
       <link>https://www.infodocket.com/2026/11/02/rethinking-readers-advisory-for-todays-reading-reality-new-issue-of-library-trends-vol-75-no-2/</link>
       <description>
@@ -1314,61 +1362,6 @@ The post [Reflecting on HSS Publishing as Informa Plans to Separate Taylor &#38;
       <category>private equity</category>
       <category>Taylor &#38; Francis</category>
       <pubDate>Tue, 13 Oct 2026 09:30:46 +0000</pubDate>
-    </item>    <item>
-      <title>The People, Counted: Browse Raw Census Records at the Internet Archive</title>
-      <link>https://blog.archive.org/2026/10/12/the-people-counted-browse-raw-census-records-at-the-internet-archive/</link>
-      <description>
-        <![CDATA[<p>The U.S. Census has been in the headlines lately, as proposed changes to the 2030 count have sparked debate over who gets counted and what information should be recorded as [&#8230;]</p>
-        <p>The post <a href="https://blog.archive.org/2026/10/12/the-people-counted-browse-raw-census-records-at-the-internet-archive/">The People, Counted: Browse Raw Census Records at the Internet Archive</a> first appeared on <a href="https://blog.archive.org">Internet Archive Blogs</a>.</p>]]>
-      </description>
-      <source:markdown>The U.S. Census has been in the headlines lately, as proposed changes to the 2030 count have sparked debate over who gets counted and what information should be recorded as \[…\]
-
-The post [The People, Counted: Browse Raw Census Records at the Internet Archive](https://blog.archive.org/2026/10/12/the-people-counted-browse-raw-census-records-at-the-internet-archive/) first appeared on [Internet Archive Blogs](https://blog.archive.org).</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=31031</guid>
-      <category>News</category>
-      <pubDate>Mon, 12 Oct 2026 16:13:51 +0000</pubDate>
-    </item>    <item>
-      <title>Rogue Scholar integrates deeper with the Internet Archive</title>
-      <link>https://blog.front-matter.de/posts/rogue-scholar-integrates-deeper-with-the-internet-archive/</link>
-      <description>
-        <![CDATA[<p>The science blog archive <a href="https://rogue-scholar.org" rel="noreferrer">Rogue Scholar</a> is paying for the Internet Archive <a href="https://archive-it.org" rel="noreferrer">Archive-It</a> service to help archive participating blogs since <a href="https://doi.org/10.53731/hhtx0-wb293" rel="noreferrer">October 2023</a>. This week a deeper integration is launching, linking blog posts to the archived versions in the Rogue Scholar record sidebar, and linking the blog community to the</p>]]>
-      </description>
-      <source:markdown>The science blog archive [Rogue Scholar](https://rogue-scholar.org) is paying for the Internet Archive [Archive-It](https://archive-it.org) service to help archive participating blogs since [October 2023](https://doi.org/10.53731/hhtx0-wb293). This week a deeper integration is launching, linking blog posts to the archived versions in the Rogue Scholar record sidebar, and linking the blog community to the</source:markdown>
-      <guid>cid://6accb3058e12810001e53703</guid>
-      <category>Rogue Scholar</category>
-      <pubDate>Mon, 12 Oct 2026 11:02:45 +0000</pubDate>
-    </item>    <item>
-      <title>Mental Health Awareness Mondays — The Courage to Feel: Why Discomfort Is Not the Enemy</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/10/12/mental-health-awareness-mondays-the-courage-to-feel-why-discomfort-is-not-the-enemy/</link>
-      <description>
-        <![CDATA[<p>Today's post explores the relationship between avoidance, attention, and healing, suggesting that psychological discomfort is not simply an obstacle to overcome, but a signal to understand.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/10/12/mental-health-awareness-mondays-the-courage-to-feel-why-discomfort-is-not-the-enemy/">Mental Health Awareness Mondays &#8212; The Courage to Feel: Why Discomfort Is Not the Enemy</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Today&#39;s post explores the relationship between avoidance, attention, and healing, suggesting that psychological discomfort is not simply an obstacle to overcome, but a signal to understand.
-
-The post [Mental Health Awareness Mondays — The Courage to Feel: Why Discomfort Is Not the Enemy](https://scholarlykitchen.sspnet.org/2026/10/12/mental-health-awareness-mondays-the-courage-to-feel-why-discomfort-is-not-the-enemy/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63035</guid>
-      <category>Diversity, Equity, Inclusion, and Accessibility</category>
-      <category>Mental Health Awareness</category>
-      <category>Organizational Management</category>
-      <category>Research</category>
-      <category>Social Role</category>
-      <category>grief</category>
-      <category>mental health awareness</category>
-      <category>pregnancy loss</category>
-      <category>psychological change</category>
-      <category>recovery</category>
-      <pubDate>Mon, 12 Oct 2026 09:30:53 +0000</pubDate>
-    </item>    <item>
-      <title>Eight Mentions</title>
-      <link>https://metaarchivist.substack.com/p/eight-mentions</link>
-      <description>
-        <![CDATA[A new study of cataloging job ads finds almost no AI in them. It also shows why job ads may be the wrong place to look.]]>
-      </description>
-      <source:markdown>A new study of cataloging job ads finds almost no AI in them. It also shows why job ads may be the wrong place to look.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!IgNg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b1c8331-473e-4694-b16f-200c27774e14_1672x941.png" length="0" type="image/jpeg" />
-      <guid>cid://https://metaarchivist.substack.com/p/eight-mentions</guid>
-      <pubDate>Mon, 12 Oct 2026 09:28:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
