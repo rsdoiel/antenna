@@ -4,10 +4,30 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>03 Nov 26 06:44 -0800</lastBuildDate>
+    <lastBuildDate>04 Nov 26 06:46 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Linux 7.4 is &#34;Much Healthier&#34; Thanks to AI</title>
+      <link>http://www.linux-magazine.com/Online/News/Linux-7.4-is-Much-Healthier-Thanks-to-AI</link>
+      <description>
+        <![CDATA[<p>At nearly 42 million lines, Linux 7.4 is the largest merge in the history of the kernel.</p>]]>
+      </description>
+      <source:markdown>At nearly 42 million lines, Linux 7.4 is the largest merge in the history of the kernel.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://344547397a8f4277c70e7f535e03f2f9</guid>
+      <pubDate>Tue, 03 Nov 2026 22:43:30 +0000</pubDate>
+    </item>    <item>
+      <title>MCS Alpha 1 and Beta 8</title>
+      <link>http://retro.hansotten.nl/mcs-alpha-1-and-beta-8/</link>
+      <description>
+        <![CDATA[I acquired (again) a MCS Alpha 1. The KIM-1 alike 6502 development system in a case, ready to run. With the processor card on top. First time I had one was in 1979, for a review in the magazine Radio Bulletin. Second time around 2000, sold as part of the big cleanup. And now the [&#8230;]]]>
+      </description>
+      <source:markdown>I acquired (again) a MCS Alpha 1. The KIM-1 alike 6502 development system in a case, ready to run. With the processor card on top. First time I had one was in 1979, for a review in the magazine Radio Bulletin. Second time around 2000, sold as part of the big cleanup. And now the \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=22690</guid>
+      <category>6502</category>
+      <pubDate>Tue, 03 Nov 2026 18:40:58 +0000</pubDate>
+    </item>    <item>
       <title>Drag&#39;n&#39;Drop 16i1 edition reviewed</title>
       <link>http://www.iconbar.com/comments/rss/news2418.html</link>
       <description>
