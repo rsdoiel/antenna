@@ -4,10 +4,74 @@
   <channel>
     <title><![CDATA[GLAM]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>04 Nov 26 06:48 -0800</lastBuildDate>
+    <lastBuildDate>05 Nov 26 06:47 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Rogue Scholar no longer registers concept DOIs for each post</title>
+      <link>https://blog.front-matter.de/posts/rogue-scholar-no-longer-registers-concept-dois-for-each-post/</link>
+      <description>
+        <![CDATA[Starting this Monday November 3rd the Rogue Scholar science blog archive stopped registering concept DOIs for new blog posts, i.e. two DOIs for each post.]]>
+      </description>
+      <source:markdown>Starting this Monday November 3rd the Rogue Scholar science blog archive stopped registering concept DOIs for new blog posts, i.e. two DOIs for each post.</source:markdown>
+      <guid>cid://6aec83c7cd244800010e4263</guid>
+      <category>InvenioRDM</category>
+      <category>Rogue Scholar</category>
+      <pubDate>Thu, 05 Nov 2026 14:09:05 +0000</pubDate>
+    </item>    <item>
+      <title>CBC Report: University Libraries are Being Swarmed by AI Bots, Putting Public Access at Risk</title>
+      <link>https://www.infodocket.com/2026/11/05/cbc-report-libraries-are-being-swarmed-by-ai-bots-putting-public-access-at-risk/</link>
+      <description>
+        <![CDATA[<p>From the CBC: University libraries say entire collections are being knocked offline by persistent streams of unruly bots trying to access their archives, which include academic, historical and government documents. &#8220;They&#8217;re just out there on the internet, just bombarding us with trying to grab up as much material as possible,&#8221; Jill Strykowski, cataloguing and government documents [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/11/05/cbc-report-libraries-are-being-swarmed-by-ai-bots-putting-public-access-at-risk/">CBC Report: University Libraries are Being Swarmed by AI Bots, Putting Public Access at Risk</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>From the CBC: University libraries say entire collections are being knocked offline by persistent streams of unruly bots trying to access their archives, which include academic, historical and government documents. “They’re just out there on the internet, just bombarding us with trying to grab up as much material as possible,” Jill Strykowski, cataloguing and government documents \[…\]
+
+The post [CBC Report: University Libraries are Being Swarmed by AI Bots, Putting Public Access at Risk](https://www.infodocket.com/2026/11/05/cbc-report-libraries-are-being-swarmed-by-ai-bots-putting-public-access-at-risk/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=169159</guid>
+      <category>Archives and Special Collections</category>
+      <category>Libraries</category>
+      <category>News</category>
+      <category>Open Access</category>
+      <pubDate>Thu, 05 Nov 2026 13:03:35 +0000</pubDate>
+    </item>    <item>
+      <title>Guest Post — What AI Can’t Learn About Peer Review… Because Nobody Can Explain It</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/11/05/guest-post-what-ai-cant-learn-about-peer-review-because-nobody-can-explain-it/</link>
+      <description>
+        <![CDATA[<p>What might be lost if we automate a task without first fully understanding the expertise behind it?</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/11/05/guest-post-what-ai-cant-learn-about-peer-review-because-nobody-can-explain-it/">Guest Post &#8212; What AI Can’t Learn About Peer Review… Because Nobody Can Explain It</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>What might be lost if we automate a task without first fully understanding the expertise behind it?
+
+The post [Guest Post — What AI Can’t Learn About Peer Review… Because Nobody Can Explain It](https://scholarlykitchen.sspnet.org/2026/11/05/guest-post-what-ai-cant-learn-about-peer-review-because-nobody-can-explain-it/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63230</guid>
+      <category>Artificial Intelligence</category>
+      <category>Authority</category>
+      <category>Authors</category>
+      <category>Peer Review</category>
+      <category>Technology</category>
+      <category>Tools</category>
+      <category>AI</category>
+      <category>AI in peer review</category>
+      <category>Artificial intelligence</category>
+      <category>Expertise</category>
+      <category>human expertise</category>
+      <category>judgment</category>
+      <pubDate>Thu, 05 Nov 2026 10:30:15 +0000</pubDate>
+    </item>    <item>
+      <title>How the University of Glasgow uses CORE FreshFinds to streamline repository workflows</title>
+      <link>https://blog.core.ac.uk/2026/11/04/how-the-university-of-glasgow-uses-core-freshfinds-to-streamline-repository-workflows/</link>
+      <description>
+        <![CDATA[George Macgregor, Assistant Director – Digital Library, University of Glasgow A core objective of CORE FreshFinds is to make it easier for institutional repositories to capture newly published research and maintain a comprehensive record of their academics&#8217; research outputs.&#160;It also helps to ensure institutions are optimising research discovery while simultaneously mitigating deposit pressures that might &#8230; <a href="https://blog.core.ac.uk/2026/11/04/how-the-university-of-glasgow-uses-core-freshfinds-to-streamline-repository-workflows/" class="more-link">Continue reading <span class="screen-reader-text">How the University of Glasgow uses CORE FreshFinds to streamline repository workflows</span></a>]]>
+      </description>
+      <source:markdown>George Macgregor, Assistant Director – Digital Library, University of Glasgow A core objective of CORE FreshFinds is to make it easier for institutional repositories to capture newly published research and maintain a comprehensive record of their academics’ research outputs. It also helps to ensure institutions are optimising research discovery while simultaneously mitigating deposit pressures that might … [Continue reading How the University of Glasgow uses CORE FreshFinds to streamline repository workflows](https://blog.core.ac.uk/2026/11/04/how-the-university-of-glasgow-uses-core-freshfinds-to-streamline-repository-workflows/)</source:markdown>
+      <guid>cid://https://blog.core.ac.uk/?p=2073</guid>
+      <category>COREupdate</category>
+      <category>dashboard</category>
+      <category>FreshFinds</category>
+      <category>University of Glasgow</category>
+      <pubDate>Wed, 04 Nov 2026 15:07:20 +0000</pubDate>
+    </item>    <item>
       <title>Shaping FreshFinds together: thank you to everyone at the Oxford community workshop</title>
       <link>https://blog.core.ac.uk/2026/11/04/shaping-freshfinds-together-thank-you-to-everyone-at-the-oxford-community-workshop/</link>
       <description>
@@ -1311,80 +1375,6 @@ The post [Guest Post – The Evolution of Eras: Agentic Discovery Makes Way for 
       <category>intelligent automation</category>
       <category>robotic traffic</category>
       <pubDate>Thu, 15 Oct 2026 09:30:44 +0000</pubDate>
-    </item>    <item>
-      <title>Celebrating 2026 Internet Archive Artist in Residence: Christopher Burch</title>
-      <link>https://blog.archive.org/2026/10/14/celebrating-2026-internet-archive-artist-in-residence-christopher-burch/</link>
-      <description>
-        <![CDATA[<p>Written by VITA HEWITT “Echoes of Absence and Mythos: The Un-Archivists of Shitocracy” comes straight from the hands of artist Christopher Burch and opens on October 17 at Incline Gallery. [&#8230;]</p>
-        <p>The post <a href="https://blog.archive.org/2026/10/14/celebrating-2026-internet-archive-artist-in-residence-christopher-burch/">Celebrating 2026 Internet Archive Artist in Residence: Christopher Burch</a> first appeared on <a href="https://blog.archive.org">Internet Archive Blogs</a>.</p>]]>
-      </description>
-      <source:markdown>Written by VITA HEWITT “Echoes of Absence and Mythos: The Un-Archivists of Shitocracy” comes straight from the hands of artist Christopher Burch and opens on October 17 at Incline Gallery. \[…\]
-
-The post [Celebrating 2026 Internet Archive Artist in Residence: Christopher Burch](https://blog.archive.org/2026/10/14/celebrating-2026-internet-archive-artist-in-residence-christopher-burch/) first appeared on [Internet Archive Blogs](https://blog.archive.org).</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=31058</guid>
-      <category>News</category>
-      <pubDate>Wed, 14 Oct 2026 20:23:31 +0000</pubDate>
-    </item>    <item>
-      <title>When the State Asks the Machine</title>
-      <link>https://metaarchivist.substack.com/p/when-the-state-asks-the-machine</link>
-      <description>
-        <![CDATA[A dispatch from Stockholm: Linda Lindstr&#246;m, generative AI, and the public&#8217;s right to see how government works]]>
-      </description>
-      <source:markdown>A dispatch from Stockholm: Linda Lindström, generative AI, and the public’s right to see how government works</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!ezdu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0bbf796-3de7-4e2b-8f6b-34c9c391822b_1774x887.png" length="0" type="image/jpeg" />
-      <guid>cid://https://metaarchivist.substack.com/p/when-the-state-asks-the-machine</guid>
-      <pubDate>Wed, 14 Oct 2026 19:52:03 +0000</pubDate>
-    </item>    <item>
-      <title>Report: Between Google Scholar and ChatGPT: How Economics and Business Students Conduct Research in 2026</title>
-      <link>https://www.infodocket.com/2026/10/14/report-between-google-scholar-and-chatgpt-how-economics-and-business-students-conduct-research-in-2026/</link>
-      <description>
-        <![CDATA[<p>From ZBW (Leibniz Information Centre for Economics) MediaTalk: Students in economics and business studies today draw on a wide range of information environments when searching for academic literature. Google Scholar, library catalogues and generative AI are part of their everyday research routines. But what role do traditional subject-specific databases still play? And how well do [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/10/14/report-between-google-scholar-and-chatgpt-how-economics-and-business-students-conduct-research-in-2026/">Report: Between Google Scholar and ChatGPT: How Economics and Business Students Conduct Research in 2026</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>From ZBW (Leibniz Information Centre for Economics) MediaTalk: Students in economics and business studies today draw on a wide range of information environments when searching for academic literature. Google Scholar, library catalogues and generative AI are part of their everyday research routines. But what role do traditional subject-specific databases still play? And how well do \[…\]
-
-The post [Report: Between Google Scholar and ChatGPT: How Economics and Business Students Conduct Research in 2026](https://www.infodocket.com/2026/10/14/report-between-google-scholar-and-chatgpt-how-economics-and-business-students-conduct-research-in-2026/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=169057</guid>
-      <category>Libraries</category>
-      <category>News</category>
-      <pubDate>Wed, 14 Oct 2026 13:30:38 +0000</pubDate>
-    </item>    <item>
-      <title>Building the Hero Award: The Story Behind Taekyeom Lee’s 3D-Printed Model of the Internet Archive</title>
-      <link>https://blog.archive.org/2026/10/14/building-the-hero-award/</link>
-      <description>
-        <![CDATA[<p>Taekyeom Lee is an educator, designer, maker, and researcher. The associate professor of graphic design at Indiana University Bloomington is not only committed to teaching his students, Lee believes in [&#8230;]</p>
-        <p>The post <a href="https://blog.archive.org/2026/10/14/building-the-hero-award/">Building the Hero Award: The Story Behind Taekyeom Lee’s 3D-Printed Model of the Internet Archive</a> first appeared on <a href="https://blog.archive.org">Internet Archive Blogs</a>.</p>]]>
-      </description>
-      <source:markdown>Taekyeom Lee is an educator, designer, maker, and researcher. The associate professor of graphic design at Indiana University Bloomington is not only committed to teaching his students, Lee believes in \[…\]
-
-The post [Building the Hero Award: The Story Behind Taekyeom Lee’s 3D-Printed Model of the Internet Archive](https://blog.archive.org/2026/10/14/building-the-hero-award/) first appeared on [Internet Archive Blogs](https://blog.archive.org).</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=31038</guid>
-      <category>Announcements</category>
-      <category>News</category>
-      <category>hero award</category>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Guest Post – Artificial Intelligence in Scholarly Publishing: Are We Moving Faster Than the Evidence?</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/10/14/guest-post-artificial-intelligence-in-scholarly-publishing-are-we-moving-faster-than-the-evidence/</link>
-      <description>
-        <![CDATA[<p>Today's guest blogger reflects on why the next phase of AI adoption needs more evaluation, collaboration, and human judgment.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/10/14/guest-post-artificial-intelligence-in-scholarly-publishing-are-we-moving-faster-than-the-evidence/">Guest Post – Artificial Intelligence in Scholarly Publishing: Are We Moving Faster Than the Evidence?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Today&#39;s guest blogger reflects on why the next phase of AI adoption needs more evaluation, collaboration, and human judgment.
-
-The post [Guest Post – Artificial Intelligence in Scholarly Publishing: Are We Moving Faster Than the Evidence?](https://scholarlykitchen.sspnet.org/2026/10/14/guest-post-artificial-intelligence-in-scholarly-publishing-are-we-moving-faster-than-the-evidence/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=62977</guid>
-      <category>Artificial Intelligence</category>
-      <category>Innovation</category>
-      <category>Organizational Management</category>
-      <category>Research</category>
-      <category>Technology</category>
-      <category>Adoption</category>
-      <category>Artificial intelligence (AI)</category>
-      <category>cost of technological progress</category>
-      <category>fast follower</category>
-      <category>innovation</category>
-      <pubDate>Wed, 14 Oct 2026 09:30:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
