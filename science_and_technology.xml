@@ -4,10 +4,224 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>05 Nov 26 06:45 -0800</lastBuildDate>
+    <lastBuildDate>06 Nov 26 06:44 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>APOD: 2026 November 6 – A Farewell to Swift</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Farewell [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Farewell \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/</guid>
+      <category>APOD</category>
+      <pubDate>Fri, 06 Nov 2026 05:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>Taking a Gander at Utah’s Goosenecks</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/</link>
+      <description>
+        <![CDATA[The San Juan River has carved deep, improbably curvy meanders into the desert landscape.]]>
+      </description>
+      <source:markdown>The San Juan River has carved deep, improbably curvy meanders into the desert landscape.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/</guid>
+      <category>Earth Observatory</category>
+      <category>Surface Water</category>
+      <category>Topography</category>
+      <pubDate>Fri, 06 Nov 2026 05:01:00 +0000</pubDate>
+    </item>    <item>
+      <title>A Nazi Submarine Torpedoed a Merchant Ship Just Off the Coast of Maine in 1944. Divers Have Finally Located the Wreckage, 400 Feet Below the Surface</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-nazi-submarine-torpedoed-a-merchant-ship-just-off-the-coast-of-maine-in-1944-divers-have-finally-located-the-wreckage-400-feet-below-the-surface-180989822/</link>
+      <description>
+        <![CDATA[The SS "Cornwallis" was traveling between Barbados and Canada when it was sunk by a German U-boat that had delivered Nazi spies to American soil just days earlier]]>
+      </description>
+      <source:markdown>The SS &#34;Cornwallis&#34; was traveling between Barbados and Canada when it was sunk by a German U-boat that had delivered Nazi spies to American soil just days earlier</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/8bQReyOLCWAr0mjfBUpadLS5Zbc=/420x240/filters:focal(960x530:961x531)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/75/54/755403b6-87d9-4459-8597-6ec1ccc0faea/cornwallis.jpeg" length="431577" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-nazi-submarine-torpedoed-a-merchant-ship-just-off-the-coast-of-maine-in-1944-divers-have-finally-located-the-wreckage-400-feet-below-the-surface-180989822/</guid>
+      <pubDate>Thu, 05 Nov 2026 22:40:00 +0000</pubDate>
+    </item>    <item>
+      <title>Was the British King Who Urged the Romans to Invade Actually a Queen? One Archaeologist Thinks So</title>
+      <link>https://www.smithsonianmag.com/smart-news/was-the-british-king-who-urged-the-roman-invasion-of-britain-actually-a-queen-one-archaeologist-thinks-so-180989821/</link>
+      <description>
+        <![CDATA[Linguistic clues and ancient coins could suggest that Verica—a ruler who fled Britain and convinced Roman Emperor Claudius to launch an invasion across the English Channel—has been misgendered for centuries]]>
+      </description>
+      <source:markdown>Linguistic clues and ancient coins could suggest that Verica—a ruler who fled Britain and convinced Roman Emperor Claudius to launch an invasion across the English Channel—has been misgendered for centuries</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jJB3JjL0VdMQYl2h_7iDQE88tFA=/420x240/filters:focal(512x458:513x459)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ce/3b/ce3ba593-6137-4ecf-bba2-a723bfb94818/gettyimages-1183129122.jpg" length="169948" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/was-the-british-king-who-urged-the-roman-invasion-of-britain-actually-a-queen-one-archaeologist-thinks-so-180989821/</guid>
+      <pubDate>Thu, 05 Nov 2026 21:38:09 +0000</pubDate>
+    </item>    <item>
+      <title>Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents</title>
+      <link>https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/</link>
+      <description>
+        <![CDATA[AI agents do more than generate answers. They search for information, query databases, write and test code and take action.  Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task.  As businesses put more agents to work, AI factories need CPUs that can execute those [&#8230;]]]>
+      </description>
+      <source:markdown>AI agents do more than generate answers. They search for information, query databases, write and test code and take action.  Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task.  As businesses put more agents to work, AI factories need CPUs that can execute those \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99689</guid>
+      <category>AI Infrastructure</category>
+      <category>Hardware</category>
+      <category>Networking</category>
+      <category>Software</category>
+      <category>Agentic AI</category>
+      <category>NVIDIA Vera</category>
+      <pubDate>Thu, 05 Nov 2026 20:00:41 +0000</pubDate>
+    </item>    <item>
+      <title>China Announces a Plan to Put Astronauts on the Moon by 2030, Revealing Details of Four Upcoming Missions</title>
+      <link>https://www.smithsonianmag.com/smart-news/china-announces-a-plan-to-put-astronauts-on-the-moon-by-2030-revealing-details-of-four-upcoming-missions-180989810/</link>
+      <description>
+        <![CDATA[The country intends to launch three uncrewed test missions followed by a human lunar landing within the next few years. NASA hopes to send humans to the moon in 2028, though some experts have expressed doubt about that timeline]]>
+      </description>
+      <source:markdown>The country intends to launch three uncrewed test missions followed by a human lunar landing within the next few years. NASA hopes to send humans to the moon in 2028, though some experts have expressed doubt about that timeline</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/4Te-yCgINvgeRgPZOExzF9V5qtQ=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d2/74/d274b638-89da-4d42-ad1c-09a3021afbd6/smithsonian_feature_images_30.png" length="2317535" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/china-announces-a-plan-to-put-astronauts-on-the-moon-by-2030-revealing-details-of-four-upcoming-missions-180989810/</guid>
+      <pubDate>Thu, 05 Nov 2026 19:32:00 +0000</pubDate>
+    </item>    <item>
+      <title>This Bull and Male Donkey Have a Surprisingly Sexual Relationship, Providing Insights Into Interspecies and Same-Sex Bonds</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-bull-and-male-donkey-have-a-surprisingly-sexual-relationship-revealing-insights-into-interspecies-and-same-sex-bonds-180989803/</link>
+      <description>
+        <![CDATA[The ungulates, dubbed Achille and Patroclo, chose each other repeatedly and showed affection before and after each rendezvous. Same-sex sexual encounters are common among animals of the same species, but less so between different ones]]>
+      </description>
+      <source:markdown>The ungulates, dubbed Achille and Patroclo, chose each other repeatedly and showed affection before and after each rendezvous. Same-sex sexual encounters are common among animals of the same species, but less so between different ones</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/_E89q7eIsIbAP6I9oBblu1ecBU4=/420x240/filters:focal(751x415:752x416)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ab/3c/ab3c924d-1d61-4178-90a1-3775fa014c56/an-unusual-sexual-bond.jpg" length="487184" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-bull-and-male-donkey-have-a-surprisingly-sexual-relationship-revealing-insights-into-interspecies-and-same-sex-bonds-180989803/</guid>
+      <pubDate>Thu, 05 Nov 2026 18:47:54 +0000</pubDate>
+    </item>    <item>
+      <title>Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents</title>
+      <link>https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/</link>
+      <description>
+        <![CDATA[Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&#8230;]]]>
+      </description>
+      <source:markdown>Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through \[…\]</source:markdown>
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Humanoid-Warehouse.mp4" length="9339145" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/zero-to-alpamayo-under-10MB.mp4" length="9692557" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/0_00-0_004-hubble_rivermark_Real_Sim_no_loop.mp4" length="6517882" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Infra-scale-demo-20260914_144614-Meeting-Recording.mp4" length="6815937" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/scurve_rl_vs_astra_side_by_side.mp4" length="6145836" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/relay-video-v14-1080p.mp4" length="9557112" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Turbine-Lab-RTX-and-What-If-under-10MB-1.mp4" length="9387027" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/kitchen_final_blog_with_music.mp4" length="9974240" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Robot_Hand_Video_Omniverse.mp4" length="7901725" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/Robotic_Dissasembly_Omniverse.mp4" length="8670789" type="video/mp4" />
+      <guid>cid://https://blogs.nvidia.com/?p=98677</guid>
+      <category>Robotics</category>
+      <category>Agentic AI</category>
+      <category>Into the Omniverse</category>
+      <category>NVIDIA Isaac Sim</category>
+      <category>Omniverse</category>
+      <category>OpenUSD</category>
+      <category>Physical AI</category>
+      <category>Simulation</category>
+      <pubDate>Thu, 05 Nov 2026 17:00:35 +0000</pubDate>
+    </item>    <item>
+      <title>The Ubuntu 26.04 Rust sudo is not compatible with standard sudo</title>
+      <link>https://www.osnews.com/story/146309/the-ubuntu-26-04-rust-sudo-is-not-compatible-with-standard-sudo/</link>
+      <description>
+        <![CDATA[Ubuntu has been at the forefront of replacing the traditional versions of basic tools like sudo with replacements written in Rust, but aside from worries about replacing battle-tested code with brand new, relatively untested code, there&#8217;s new things to worry about it. As it turns out, sudo-rs, the Rust replacement for sudo, is intentionally incompatible with the classic version in dangerous ways, as Chris Siebenmann discovered to his dismay. Basically, the classic sudo supports the use of wildcards defined using square brackets, so that if you allow a user to run, say, /usr/sbin/exim -bp, without a password, they can run exim -bpa, exim -bpc, exim -bpr, or exim -bpu without having to supply a password. This allows for very specific, fine-grained access control, which is quite a nice capability to have if you&#8217;re managing many systems and users. Sadly, sudo-rs intentionally does not support this, opting to only allow you to use the generic * wildcard. Worse yet, it doesn&#8217;t really make this clear, either. ↫ Chris Siebenmann I do not really have words for this. The Rust sudo has apparently opted to keep the single most dangerous wildcard while disallowing all of the wildcards that allow one to be narrow and specific about what you&#8217;re allowing, and it buries this at the end of a section that devotes a bunch of words to describing functionality it doesn&#8217;t have and doesn&#8217;t support, with absolutely nothing else in that section to say this (either up front or in the descriptions of how all the wildcards would work if sudo-rs supported them, which it doesn&#8217;t). If you&#8217;re going to replace such vital, core tools like sudo that god knows how many people rely on every single day, you better be damn sure you&#8217;re feature-complete and can act as a drop-in replacement. If someone switches from sudo to doas, nobody expects the experience to be identical. However, if you&#8217;re consistently being told that sudo-rs is a drop-in replacement and you shouldn&#8217;t expect any disruptions, you better be able to make true on that promise. Ubuntu isn&#8217;t some also-ran small hobby distribution, and its developers should act like it. What a clown show.]]>
+      </description>
+      <source:markdown>Ubuntu has been at the forefront of replacing the traditional versions of basic tools like sudo with replacements written in Rust, but aside from worries about replacing battle-tested code with brand new, relatively untested code, there’s new things to worry about it. As it turns out, sudo-rs, the Rust replacement for sudo, is intentionally incompatible with the classic version in dangerous ways, as Chris Siebenmann discovered to his dismay. Basically, the classic sudo supports the use of wildcards defined using square brackets, so that if you allow a user to run, say, /usr/sbin/exim -bp, without a password, they can run exim -bpa, exim -bpc, exim -bpr, or exim -bpu without having to supply a password. This allows for very specific, fine-grained access control, which is quite a nice capability to have if you’re managing many systems and users. Sadly, sudo-rs intentionally does not support this, opting to only allow you to use the generic \* wildcard. Worse yet, it doesn’t really make this clear, either. ↫ Chris Siebenmann I do not really have words for this. The Rust sudo has apparently opted to keep the single most dangerous wildcard while disallowing all of the wildcards that allow one to be narrow and specific about what you’re allowing, and it buries this at the end of a section that devotes a bunch of words to describing functionality it doesn’t have and doesn’t support, with absolutely nothing else in that section to say this (either up front or in the descriptions of how all the wildcards would work if sudo-rs supported them, which it doesn’t). If you’re going to replace such vital, core tools like sudo that god knows how many people rely on every single day, you better be damn sure you’re feature-complete and can act as a drop-in replacement. If someone switches from sudo to doas, nobody expects the experience to be identical. However, if you’re consistently being told that sudo-rs is a drop-in replacement and you shouldn’t expect any disruptions, you better be able to make true on that promise. Ubuntu isn’t some also-ran small hobby distribution, and its developers should act like it. What a clown show.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146309</guid>
+      <category>Ubuntu</category>
+      <pubDate>Thu, 05 Nov 2026 16:24:04 +0000</pubDate>
+    </item>    <item>
+      <title>LXQt 2.5.0 released</title>
+      <link>https://www.osnews.com/story/146307/lxqt-2-5-0-released/</link>
+      <description>
+        <![CDATA[The second desktop environment release I&#8217;ve got for you today is LXQt 2.5.0. This new version excises its last LXDE dependency, and QTerminal and QTermWidget received considerable improvements, like new background image modes, a visual bell, support for OSC-8 hyperlinks, and more. There&#8217;s a ton of smaller changes and improvements as well, but do note that due to a bug, 2.5.0 broke LXQt&#8217;s Monitor Settings on X11. The project intends to fix this as quickly as possible and push a point release to address this issue.]]>
+      </description>
+      <source:markdown>The second desktop environment release I’ve got for you today is LXQt 2.5.0. This new version excises its last LXDE dependency, and QTerminal and QTermWidget received considerable improvements, like new background image modes, a visual bell, support for OSC-8 hyperlinks, and more. There’s a ton of smaller changes and improvements as well, but do note that due to a bug, 2.5.0 broke LXQt’s Monitor Settings on X11. The project intends to fix this as quickly as possible and push a point release to address this issue.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146307</guid>
+      <category>Desktop environments</category>
+      <pubDate>Thu, 05 Nov 2026 16:03:27 +0000</pubDate>
+    </item>    <item>
+      <title>This Ancient &#39;Hell Chicken&#39; Might Be the First Known Fruit-Loving Dinosaur, Revealing a Whole New Cretaceous Lifestyle</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-ancient-hell-chicken-might-be-the-first-known-fruit-loving-dinosaur-revealing-a-whole-new-cretaceous-lifestyle-180989801/</link>
+      <description>
+        <![CDATA[Infernogallus jamesi had beak and mouth adaptations that hint it could mash soft foods, like today's frugivorous birds. The dinosaur probably munched on fruits resembling modern-day cherries and peaches, and may have helped spread seeds via its poop]]>
+      </description>
+      <source:markdown>Infernogallus jamesi had beak and mouth adaptations that hint it could mash soft foods, like today&#39;s frugivorous birds. The dinosaur probably munched on fruits resembling modern-day cherries and peaches, and may have helped spread seeds via its poop</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/gDq0TlvIBO0DioQAw0NKjQvZgOk=/420x240/filters:focal(1406x790:1407x791)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9f/3f/9f3fe00f-d12a-4e69-a161-480ebeb358df/paleoart_illustration_nrjpg.webp" length="393370" type="image/webp" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-ancient-hell-chicken-might-be-the-first-known-fruit-loving-dinosaur-revealing-a-whole-new-cretaceous-lifestyle-180989801/</guid>
+      <pubDate>Thu, 05 Nov 2026 16:01:07 +0000</pubDate>
+    </item>    <item>
+      <title>The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/</link>
+      <description>
+        <![CDATA[Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers.  [&#8230;]]]>
+      </description>
+      <source:markdown>Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers.  \[…\]</source:markdown>
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/ChrisAlexiuk_captions_9MB.mp4" length="9701261" type="video/mp4" />
+      <guid>cid://https://blogs.nvidia.com/?p=99663</guid>
+      <category>AI</category>
+      <category>NVIDIA Life</category>
+      <category>Agentic AI</category>
+      <category>Nemotron</category>
+      <category>Nemotron Labs</category>
+      <category>Open Source</category>
+      <pubDate>Thu, 05 Nov 2026 16:00:05 +0000</pubDate>
+    </item>    <item>
+      <title>More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge</title>
+      <link>https://blogs.nvidia.com/blog/memory-full-stack-codesign/</link>
+      <description>
+        <![CDATA[Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack.  [&#8230;]]]>
+      </description>
+      <source:markdown>Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack.  \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99648</guid>
+      <category>AI Infrastructure</category>
+      <category>Agentic AI</category>
+      <category>AI Factory</category>
+      <category>Artificial Intelligence</category>
+      <category>Dynamo</category>
+      <category>Hardware</category>
+      <category>Inference</category>
+      <category>Nemotron</category>
+      <category>NVIDIA Blackwell</category>
+      <category>NVIDIA Hopper Architecture</category>
+      <category>NVIDIA Rubin</category>
+      <category>NVIDIA Vera</category>
+      <category>NVLink</category>
+      <pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Cinnamon 6.8 desktop environment released with hibernation support</title>
+      <link>https://www.osnews.com/story/146305/cinnamon-6-8-desktop-environment-released-with-hibernation-support/</link>
+      <description>
+        <![CDATA[It&#8217;s desktop environment Thursday, as I&#8217;ve got two new releases for you today. First, Cinnamon, the desktop environment primarily associated with Linux Mint, has hit version 6.8. This version will officially ship with Linux Mint 27, scheduled for around Christmas of this year. Highlights of Cinnamon 6.8 include hibernation support via a Suspend action in the main menu, modern one-to-one trackpad gestures for both Wayland and Xorg sessions, support for the oo7 Secret Service provider, support for multiple instances in the Sound applet, and a more unified Network applet that merges the WireGuard and VPN sections. ↫ Marcus Nestor at 9To5Linux While Cinnamon is first and foremost a Linux Mint project, it&#8217;s available on countless other distributions as well, including dedicated variants for popular distributions like Fedora and Ubuntu. Its Wayland support is finally materialising too, which is long overdue.]]>
+      </description>
+      <source:markdown>It’s desktop environment Thursday, as I’ve got two new releases for you today. First, Cinnamon, the desktop environment primarily associated with Linux Mint, has hit version 6.8. This version will officially ship with Linux Mint 27, scheduled for around Christmas of this year. Highlights of Cinnamon 6.8 include hibernation support via a Suspend action in the main menu, modern one-to-one trackpad gestures for both Wayland and Xorg sessions, support for the oo7 Secret Service provider, support for multiple instances in the Sound applet, and a more unified Network applet that merges the WireGuard and VPN sections. ↫ Marcus Nestor at 9To5Linux While Cinnamon is first and foremost a Linux Mint project, it’s available on countless other distributions as well, including dedicated variants for popular distributions like Fedora and Ubuntu. Its Wayland support is finally materialising too, which is long overdue.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146305</guid>
+      <category>Desktop environments</category>
+      <pubDate>Thu, 05 Nov 2026 15:57:51 +0000</pubDate>
+    </item>    <item>
+      <title>Midwestern City Lights</title>
+      <link>https://www.nasa.gov/image-article/midwestern-city-lights/</link>
+      <description>
+        <![CDATA[City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Station was orbiting 259 miles above Earth when this [&#8230;]]]>
+      </description>
+      <source:markdown>City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Station was orbiting 259 miles above Earth when this \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1061815</guid>
+      <category>International Space Station (ISS)</category>
+      <pubDate>Thu, 05 Nov 2026 15:17:19 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Astronauts to Answer Questions from Florida Students</title>
+      <link>https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/</link>
+      <description>
+        <![CDATA[Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the&#160;International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s&#160;Learn With NASA&#160;YouTube channel. This event is hosted by Freedom Crossing Academy in [&#8230;]]]>
+      </description>
+      <source:markdown>Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Freedom Crossing Academy in \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1062633</guid>
+      <category>Learning Resources</category>
+      <category>Humans in Space</category>
+      <category>In-flight Education Downlinks</category>
+      <pubDate>Thu, 05 Nov 2026 15:11:25 +0000</pubDate>
+    </item>    <item>
+      <title>Archaeologists Found a 3,300-Year-Old Sword at the Bottom of a Volcanic Lake in Italy—and It&#39;s Still Sharp</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-found-a-3300-year-old-sword-at-the-bottom-of-a-volcanic-lake-in-italy-and-its-still-sharp-180989813/</link>
+      <description>
+        <![CDATA[The remarkably well-preserved 13th century B.C.E. weapon was found submerged in Lake Mezzano, once home to a Bronze Age village on stilts]]>
+      </description>
+      <source:markdown>The remarkably well-preserved 13th century B.C.E. weapon was found submerged in Lake Mezzano, once home to a Bronze Age village on stilts</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/bks3_8bl7OOpRDquKt18ndzlAjw=/420x240/filters:focal(384x218:385x219)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3b/d5/3bd5f8c9-a1af-4708-9899-03e607df68dc/spada_mezzano-3-768x432.jpg" length="26596" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/archaeologists-found-a-3300-year-old-sword-at-the-bottom-of-a-volcanic-lake-in-italy-and-its-still-sharp-180989813/</guid>
+      <pubDate>Thu, 05 Nov 2026 15:08:53 +0000</pubDate>
+    </item>    <item>
       <title>‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/</link>
       <description>
@@ -1096,31 +1310,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/OvEvAINzLqPBS4csX9qy5MEQ-os=/420x240/filters:focal(592x446:593x447)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/11/45/1145fe34-3234-48d2-ba5e-f490a929cde0/28931.jpg" length="336492" type="image/jpeg" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/drug-resistant-germs-now-kill-more-than-50000-americans-each-year-according-to-a-new-cdc-report-180989774/</guid>
       <pubDate>Thu, 29 Oct 2026 17:07:35 +0000</pubDate>
-    </item>    <item>
-      <title>Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents</title>
-      <link>https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/</link>
-      <description>
-        <![CDATA[Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&#8230;]]]>
-      </description>
-      <source:markdown>Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through \[…\]</source:markdown>
-      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Humanoid-Warehouse.mp4" length="9339145" type="video/mp4" />
-      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/zero-to-alpamayo-under-10MB.mp4" length="9692557" type="video/mp4" />
-      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/0_00-0_004-hubble_rivermark_Real_Sim_no_loop.mp4" length="6517882" type="video/mp4" />
-      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Infra-scale-demo-20260914_144614-Meeting-Recording.mp4" length="6815937" type="video/mp4" />
-      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/scurve_rl_vs_astra_side_by_side.mp4" length="6145836" type="video/mp4" />
-      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/relay-video-v14-1080p.mp4" length="9557112" type="video/mp4" />
-      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Turbine-Lab-RTX-and-What-If-under-10MB-1.mp4" length="9387027" type="video/mp4" />
-      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/kitchen_final_blog_with_music.mp4" length="9974240" type="video/mp4" />
-      <guid>cid://https://blogs.nvidia.com/?p=98677</guid>
-      <category>Robotics</category>
-      <category>Agentic AI</category>
-      <category>Into the Omniverse</category>
-      <category>NVIDIA Isaac Sim</category>
-      <category>Omniverse</category>
-      <category>OpenUSD</category>
-      <category>Physical AI</category>
-      <category>Simulation</category>
-      <pubDate>Thu, 29 Oct 2026 16:00:35 +0000</pubDate>
     </item>    <item>
       <title>Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA</title>
       <link>https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/</link>
@@ -3557,379 +3746,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <category>Landsat 9</category>
       <category>NOAA-20 (JPSS-1)</category>
       <pubDate>Fri, 16 Oct 2026 04:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>VSI launches how-to portal for OpenVMS</title>
-      <link>https://www.osnews.com/story/146169/vsi-launches-how-to-portal-for-openvms/</link>
-      <description>
-        <![CDATA[OpenVMS isn&#8217;t exactly the easiest platform to get into, with even the first major hurdle &#8211; licensing! &#8211; being a bit of a complex issue. To address this and other issues people new to OpenVMS might run into, VSI, the company currently developing OpenVMS, launched its new VSI How-to Portal. For now, it covers things like licensing, installing and updating OpenVMS for x86, TCP/IP configuration, and setting up SSH. The company plans to expand the portal with more articles based on customer and user feedback, so hopefully more information will appear soon. Most of us are probably not particularly not particularly experienced with OpenVMS, so having a portal like this can really help get you started.]]>
-      </description>
-      <source:markdown>OpenVMS isn’t exactly the easiest platform to get into, with even the first major hurdle – licensing! – being a bit of a complex issue. To address this and other issues people new to OpenVMS might run into, VSI, the company currently developing OpenVMS, launched its new VSI How-to Portal. For now, it covers things like licensing, installing and updating OpenVMS for x86, TCP/IP configuration, and setting up SSH. The company plans to expand the portal with more articles based on customer and user feedback, so hopefully more information will appear soon. Most of us are probably not particularly not particularly experienced with OpenVMS, so having a portal like this can really help get you started.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=146169</guid>
-      <category>OS News</category>
-      <pubDate>Thu, 15 Oct 2026 23:55:21 +0000</pubDate>
-    </item>    <item>
-      <title>Microsoft claims Windows 11 is now “up to 20% more responsive”</title>
-      <link>https://www.osnews.com/story/146167/microsoft-claims-windows-11-is-now-up-to-20-more-responsive/</link>
-      <description>
-        <![CDATA[Microsoft&#8217;s been claiming for a while now that they&#8217;re working on improving performance and responsiveness in Windows, with a particular focus on making more efficient use of memory. This is probably the only positive thing to come out of the RAM crisis Microsoft helped create and is currently still fueling. The company&#8217;s now claiming that Windows 11 is &#8220;up to 20% more responsive&#8221; thanks to these efforts. The result is a Windows experience that’s up to 20% more responsive, with improvements you can feel as soon as you boot into your PC and extending to Start, File Explorer, Search, Snipping Tool, Microsoft 365, Edge and more. A big part of that work is making smarter use of memory and system resources. We’ve improved memory management and efficiency across Windows to help keep more of your PC’s resources focused on what you’re actively doing. That work can make an especially meaningful difference on PCs with 8GB of memory. Windows can now keep up to 2GB more of your active data in memory instead of moving it to slower storage, helping your PC stay responsive as you open more apps or browser tabs. Windows is also making additional memory-saving improvements that reduce background memory use. For example, on PCs with 8GB of memory or less, Widgets load only when you open them, making more than 200 MB of memory available for your apps and other work. It’s one example of the broader work underway to reduce the Windows memory footprint and deliver a fast, responsive experience across the PCs people use every day, an area we’ve made an explicit focus for Windows. ↫ Navjot Virk on the Windows Blogs If, for a moment, we take these claims at face value, they&#8217;re simply good news for every Windows 11 user, and legitimately the only good thing to come out of the RAM crisis. These kind of claims are always hard to measure, especially considering just how varied the Windows software and hardware ecosystem is, but I&#8217;m sure people good at benchmarking are going to try and find some more definitive answers here. In the same blog post, Microsoft also highlights several other recent improvements it&#8217;s made to Windows 11, like the new search experience we talked about recently, a brand new Photos application, some new whiteboard-like application, and several more things. Considering how complex Windows&#8217; versioning scheme and various branches have become, I have no idea when these features and improvements actually make their way to your machine. On a slightly related note, Microsoft also unveiled that it&#8217;s bringing Microsoft Defender to Linux, with a particular focus on desktop Linux. Even Microsoft has to face the reality of the rising popularity of Linux on the desktop.]]>
-      </description>
-      <source:markdown>Microsoft’s been claiming for a while now that they’re working on improving performance and responsiveness in Windows, with a particular focus on making more efficient use of memory. This is probably the only positive thing to come out of the RAM crisis Microsoft helped create and is currently still fueling. The company’s now claiming that Windows 11 is “up to 20% more responsive” thanks to these efforts. The result is a Windows experience that’s up to 20% more responsive, with improvements you can feel as soon as you boot into your PC and extending to Start, File Explorer, Search, Snipping Tool, Microsoft 365, Edge and more. A big part of that work is making smarter use of memory and system resources. We’ve improved memory management and efficiency across Windows to help keep more of your PC’s resources focused on what you’re actively doing. That work can make an especially meaningful difference on PCs with 8GB of memory. Windows can now keep up to 2GB more of your active data in memory instead of moving it to slower storage, helping your PC stay responsive as you open more apps or browser tabs. Windows is also making additional memory-saving improvements that reduce background memory use. For example, on PCs with 8GB of memory or less, Widgets load only when you open them, making more than 200 MB of memory available for your apps and other work. It’s one example of the broader work underway to reduce the Windows memory footprint and deliver a fast, responsive experience across the PCs people use every day, an area we’ve made an explicit focus for Windows. ↫ Navjot Virk on the Windows Blogs If, for a moment, we take these claims at face value, they’re simply good news for every Windows 11 user, and legitimately the only good thing to come out of the RAM crisis. These kind of claims are always hard to measure, especially considering just how varied the Windows software and hardware ecosystem is, but I’m sure people good at benchmarking are going to try and find some more definitive answers here. In the same blog post, Microsoft also highlights several other recent improvements it’s made to Windows 11, like the new search experience we talked about recently, a brand new Photos application, some new whiteboard-like application, and several more things. Considering how complex Windows’ versioning scheme and various branches have become, I have no idea when these features and improvements actually make their way to your machine. On a slightly related note, Microsoft also unveiled that it’s bringing Microsoft Defender to Linux, with a particular focus on desktop Linux. Even Microsoft has to face the reality of the rising popularity of Linux on the desktop.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=146167</guid>
-      <category>Windows</category>
-      <pubDate>Thu, 15 Oct 2026 23:47:05 +0000</pubDate>
-    </item>    <item>
-      <title>It&#39;s Official: Timekeepers Have Gotten Rid of the Leap Second—and Introduced the Leap Hour Instead</title>
-      <link>https://www.smithsonianmag.com/smart-news/its-official-timekeepers-have-gotten-rid-of-the-leap-second-and-introduced-the-leap-hour-instead-180989685/</link>
-      <description>
-        <![CDATA[Since 1972, experts have added 27 seconds to Coordinated Universal Time to keep it aligned with Earth's rotation, but it has been an imperfect fix]]>
-      </description>
-      <source:markdown>Since 1972, experts have added 27 seconds to Coordinated Universal Time to keep it aligned with Earth&#39;s rotation, but it has been an imperfect fix</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/cS2junWFGPCXEg5c-HJxUQ1-sYg=/420x240/filters:focal(1920x1353:1921x1354)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/52/e0/52e0ad1d-3ad1-4f1b-ac1b-29c99056f9a8/wall_clocks_at_ikea_store.jpg" length="856989" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/its-official-timekeepers-have-gotten-rid-of-the-leap-second-and-introduced-the-leap-hour-instead-180989685/</guid>
-      <pubDate>Thu, 15 Oct 2026 20:43:52 +0000</pubDate>
-    </item>    <item>
-      <title>On an Island Outside Paris, a Sprawling Contemporary Arts Center Aptly Called &#39;Large&#39; Prepares to Open Its Doors</title>
-      <link>https://www.smithsonianmag.com/smart-news/on-an-island-outside-paris-a-sprawling-contemporary-arts-center-aptly-called-large-prepares-to-open-its-doors-180989690/</link>
-      <description>
-        <![CDATA[The landmark institution’s first exhibition pays homage to a historic Renault automobile plant that once operated on the Île Seguin in the Seine River. "The project called for a great deal of perseverance," one official says]]>
-      </description>
-      <source:markdown>The landmark institution’s first exhibition pays homage to a historic Renault automobile plant that once operated on the Île Seguin in the Seine River. &#34;The project called for a great deal of perseverance,&#34; one official says</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/J8ioFNT33vpy30YS4O0U03np9Xs=/420x240/filters:focal(720x480:721x481)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b7/1f/b71fa290-10a4-4a87-a534-76778a166a9e/1960x0_1.webp" length="171634" type="image/webp" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/on-an-island-outside-paris-a-sprawling-contemporary-arts-center-aptly-called-large-prepares-to-open-its-doors-180989690/</guid>
-      <pubDate>Thu, 15 Oct 2026 20:19:07 +0000</pubDate>
-    </item>    <item>
-      <title>NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission</title>
-      <link>https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/</link>
-      <description>
-        <![CDATA[NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring the Red Planet. The mission aims to characterize and determine the origin of Mars’ moons Phobos and Deimos and deliver a sample […]]]>
-      </description>
-      <source:markdown>NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring the Red Planet. The mission aims to characterize and determine the origin of Mars’ moons Phobos and Deimos and deliver a sample \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/</guid>
-      <category>Mars</category>
-      <category>Mars Exploration Program</category>
-      <category>Mars Moons</category>
-      <category>Martian Moon Exploration (MMX)</category>
-      <category>Phobos</category>
-      <category>Planetary Science Division</category>
-      <category>Science Mission Directorate</category>
-      <pubDate>Thu, 15 Oct 2026 19:58:08 +0000</pubDate>
-    </item>    <item>
-      <title>This Soldier Kept a Diary in the Trenches of World War I. A Child Found It at the Dump Decades Later, Pierced by a Bullet and Stained With Blood</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-soldier-kept-a-diary-in-the-trenches-of-world-war-i-a-child-found-it-at-the-dump-decades-later-pierced-by-a-bullet-and-stained-with-blood-180989696/</link>
-      <description>
-        <![CDATA[Corporal Claude Nuttall recorded his wartime experiences in the diary. Now, after decades of research, a museum curator is telling the soldier's story in a new book]]>
-      </description>
-      <source:markdown>Corporal Claude Nuttall recorded his wartime experiences in the diary. Now, after decades of research, a museum curator is telling the soldier&#39;s story in a new book</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/QYFjyfiVkgmBtsP_NDepifLAKKY=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/74/0d/740db6c4-aa8f-45ee-af23-31a14fa97b6d/diary.jpg" length="275479" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/this-soldier-kept-a-diary-in-the-trenches-of-world-war-i-a-child-found-it-at-the-dump-decades-later-pierced-by-a-bullet-and-stained-with-blood-180989696/</guid>
-      <pubDate>Thu, 15 Oct 2026 19:41:46 +0000</pubDate>
-    </item>    <item>
-      <title>Venetian Artist Canaletto Merged Fantasy and Architectural Detail in This Previously Unseen Sketch, Heading to Auction This Month</title>
-      <link>https://www.smithsonianmag.com/smart-news/venetian-artist-canaletto-merged-fantasy-and-architectural-detail-in-this-previously-unseen-sketch-heading-to-auction-this-month-180989692/</link>
-      <description>
-        <![CDATA[The 18th-century painter was a key practitioner of "capriccio" artworks, which blended scenes of everyday life with bold, out-of-place structures. This work was not known to exist for centuries and could now fetch up to $80,000]]>
-      </description>
-      <source:markdown>The 18th-century painter was a key practitioner of &#34;capriccio&#34; artworks, which blended scenes of everyday life with bold, out-of-place structures. This work was not known to exist for centuries and could now fetch up to $80,000</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Vq_wVLbr2vmT0L-XM1v8Z9i13N8=/420x240/filters:focal(750x529:751x530)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bb/29/bb290216-2bed-461a-bb53-84a7f15d9ea1/100228132-0-medium.jpg" length="216912" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/venetian-artist-canaletto-merged-fantasy-and-architectural-detail-in-this-previously-unseen-sketch-heading-to-auction-this-month-180989692/</guid>
-      <pubDate>Thu, 15 Oct 2026 18:03:46 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Satellites Observe Historic 2026 El Niño</title>
-      <link>https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/</link>
-      <description>
-        <![CDATA[A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely. El Niño is a natural climate pattern that emerges roughly every two to seven years marked by warmer-than-normal water temperatures in parts of the equatorial Pacific. NASA scientists are keeping […]]]>
-      </description>
-      <source:markdown>A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely. El Niño is a natural climate pattern that emerges roughly every two to seven years marked by warmer-than-normal water temperatures in parts of the equatorial Pacific. NASA scientists are keeping \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/</guid>
-      <category>Earth</category>
-      <category>El Niño - Southern Oscillation</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Jet Propulsion Laboratory</category>
-      <category>Oceans</category>
-      <category>PACE (Plankton, Aerosol, Cloud, Ocean Ecosystem)</category>
-      <category>Sentinel-6 Michael Freilich Satellite</category>
-      <pubDate>Thu, 15 Oct 2026 17:59:22 +0000</pubDate>
-    </item>    <item>
-      <title>Power Up: Roll Out Solar Arrays Boost Space Station Power Supply</title>
-      <link>https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/</link>
-      <description>
-        <![CDATA[From the International Space Station’s unique position 250 miles above Earth, the Sun is a vital source of energy. Solar power supports the station’s life support systems, daily activities, and hundreds of research investigations that improve life on Earth and prepare humans for deep space exploration. Over the past five years, NASA augmented the station’s [&#8230;]]]>
-      </description>
-      <source:markdown>From the International Space Station’s unique position 250 miles above Earth, the Sun is a vital source of energy. Solar power supports the station’s life support systems, daily activities, and hundreds of research investigations that improve life on Earth and prepare humans for deep space exploration. Over the past five years, NASA augmented the station’s \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1056401</guid>
-      <category>ISS Research</category>
-      <category>General</category>
-      <category>International Space Station (ISS)</category>
-      <pubDate>Thu, 15 Oct 2026 17:30:00 +0000</pubDate>
-    </item>    <item>
-      <title>Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/</link>
-      <description>
-        <![CDATA[A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your first Windows PC, and [&#8230;]]]>
-      </description>
-      <source:markdown>A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your first Windows PC, and \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=98987</guid>
-      <category>AI</category>
-      <category>Local AI</category>
-      <category>NVIDIA RTX</category>
-      <category>RTX AI Garage</category>
-      <category>RTX Spark</category>
-      <pubDate>Thu, 15 Oct 2026 17:00:23 +0000</pubDate>
-    </item>    <item>
-      <title>A Detailed Martian Rover Photograph Highlights Mysterious Cliffs on the Edge of One of Mars’ Mountains</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-detailed-martian-rover-photograph-highlights-mysterious-cliffs-on-the-edge-of-one-of-mars-mountains-180989675/</link>
-      <description>
-        <![CDATA[These crags don't match the rest of the mountain, and scientists don't know how they formed]]>
-      </description>
-      <source:markdown>These crags don&#39;t match the rest of the mountain, and scientists don&#39;t know how they formed</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/R-gMLy3SSOo1kJkX1gKiSD7KmdM=/420x240/filters:focal(918x507:919x508)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ee/93/ee93d12c-9c47-4e9b-9f03-876dfa91ef38/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp" length="2041394" type="image/webp" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/a-detailed-martian-rover-photograph-highlights-mysterious-cliffs-on-the-edge-of-one-of-mars-mountains-180989675/</guid>
-      <pubDate>Thu, 15 Oct 2026 16:50:01 +0000</pubDate>
-    </item>    <item>
-      <title>London&#39;s Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of &#39;Living History.&#39; Now It&#39;s Protected by the National Trust for Generations to Come</title>
-      <link>https://www.smithsonianmag.com/smart-news/londons-oldest-restaurant-frequented-by-monarchs-and-pop-stars-alike-is-a-site-of-living-history-now-its-protected-by-the-national-trust-for-generations-to-come-180989688/</link>
-      <description>
-        <![CDATA[Rules, a historic restaurant where the likes of Charles Dickens and Madonna have dined, is changing hands for only the fourth time in over 200 years. Visitors can see artifact-covered walls and indulge in rich British cuisine]]>
-      </description>
-      <source:markdown>Rules, a historic restaurant where the likes of Charles Dickens and Madonna have dined, is changing hands for only the fourth time in over 200 years. Visitors can see artifact-covered walls and indulge in rich British cuisine</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/0xVkHsDFbdozB8Y55I6RMmD33Xk=/420x240/filters:focal(1048x719:1049x720)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c2/28/c2283da7-edd4-4453-ab4f-20b584852130/gettyimages-1686794563.jpg" length="3001376" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/londons-oldest-restaurant-frequented-by-monarchs-and-pop-stars-alike-is-a-site-of-living-history-now-its-protected-by-the-national-trust-for-generations-to-come-180989688/</guid>
-      <pubDate>Thu, 15 Oct 2026 16:24:32 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Welcomes All Ages, Experience Levels for Space Apps Challenge</title>
-      <link>https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/</link>
-      <description>
-        <![CDATA[Registration is open for the 2026 NASA Space Apps Challenge, a two-day global event on Saturday, Nov. 14 and Sunday, Nov. 15, where teams work to create solutions inspired by NASA’s most ambitious exploration goals and making use of the agency’s free and open data. The annual challenge, often called a hackathon, is an intensive, […]]]>
-      </description>
-      <source:markdown>Registration is open for the 2026 NASA Space Apps Challenge, a two-day global event on Saturday, Nov. 14 and Sunday, Nov. 15, where teams work to create solutions inspired by NASA’s most ambitious exploration goals and making use of the agency’s free and open data. The annual challenge, often called a hackathon, is an intensive, \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/</guid>
-      <category>Astrophysics Division</category>
-      <category>Open Science</category>
-      <category>Planetary Science Division</category>
-      <category>Science Mission Directorate</category>
-      <category>The Universe</category>
-      <pubDate>Thu, 15 Oct 2026 16:13:08 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Awards Enable Research, Technology to Build Future Workforce</title>
-      <link>https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/</link>
-      <description>
-        <![CDATA[NASA has selected 12 U.S. institutions to receive $12 million to accelerate academic research and technology development in support of the agency’s priorities for exploring the Moon, Mars, and deep space. Through NASA’s Minority University Research and Education Project (MUREP) Space Technology Artemis Research (M‑STAR) initiative, selected institutions will each receive up to $1 million [&#8230;]]]>
-      </description>
-      <source:markdown>NASA has selected 12 U.S. institutions to receive $12 million to accelerate academic research and technology development in support of the agency’s priorities for exploring the Moon, Mars, and deep space. Through NASA’s Minority University Research and Education Project (MUREP) Space Technology Artemis Research (M‑STAR) initiative, selected institutions will each receive up to $1 million \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1056624</guid>
-      <category>Learning Resources</category>
-      <category>For Colleges &#38; Universities</category>
-      <category>MUREP</category>
-      <pubDate>Thu, 15 Oct 2026 15:57:47 +0000</pubDate>
-    </item>    <item>
-      <title>Wildlife Biologists Start Vaccinating Shy Albatrosses by Hand, Taking Aim at the Spread of Avian Flu in Tasmania</title>
-      <link>https://www.smithsonianmag.com/smart-news/wildlife-biologists-start-vaccinating-shy-albatross-by-hand-taking-aim-at-the-spread-of-avian-flu-in-tasmania-180989684/</link>
-      <description>
-        <![CDATA[If all goes to plan, officials hope to vaccinate up to 100 of the large seabirds on Albatross Island, giving each two doses of the vaccine. Afterward, they plan to keep tabs on the birds using remote cameras and follow-up visits]]>
-      </description>
-      <source:markdown>If all goes to plan, officials hope to vaccinate up to 100 of the large seabirds on Albatross Island, giving each two doses of the vaccine. Afterward, they plan to keep tabs on the birds using remote cameras and follow-up visits</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/nDmLlZcDCNNVRfcudDUnJQ5TACE=/420x240/filters:focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cc/a9/cca9115c-cc96-4a79-96ad-cb7cfc88b44c/shy_albatross_h5_bird_flu_vaccine_pilot_albatross_island_octob-4d378a5e14b2eba93db46a726880ae12.jpg" length="510533" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/wildlife-biologists-start-vaccinating-shy-albatross-by-hand-taking-aim-at-the-spread-of-avian-flu-in-tasmania-180989684/</guid>
-      <pubDate>Thu, 15 Oct 2026 15:21:22 +0000</pubDate>
-    </item>    <item>
-      <title>Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models</title>
-      <link>https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/</link>
-      <description>
-        <![CDATA[NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized [&#8230;]]]>
-      </description>
-      <source:markdown>NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=98620</guid>
-      <category>AI</category>
-      <category>Corporate</category>
-      <category>Deep Learning</category>
-      <category>Nemotron</category>
-      <pubDate>Thu, 15 Oct 2026 15:00:24 +0000</pubDate>
-    </item>    <item>
-      <title>Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance</title>
-      <link>https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/</link>
-      <description>
-        <![CDATA[NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion spacecraft’s heat shield confirmed initial data showing the heat shield performed as expected.   In particular, NASA measured whether the thermal protection [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion spacecraft’s heat shield confirmed initial data showing the heat shield performed as expected.   In particular, NASA measured whether the thermal protection \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1056507</guid>
-      <category>Artemis 2</category>
-      <category>Ames Research Center</category>
-      <category>Artemis</category>
-      <category>Exploration Systems Development Mission Directorate</category>
-      <category>Kennedy Space Center</category>
-      <category>Marshall Space Flight Center</category>
-      <category>Missions</category>
-      <category>Orion Multi-Purpose Crew Vehicle</category>
-      <category>Space Launch System (SLS)</category>
-      <pubDate>Thu, 15 Oct 2026 14:57:21 +0000</pubDate>
-    </item>    <item>
-      <title>Birds in Their Pants: Two Men Accused of Smuggling 21 Avians After Miami Airport Bust</title>
-      <link>https://www.smithsonianmag.com/smart-news/birds-in-their-pants-two-men-accused-of-smuggling-21-avians-after-miami-airport-bust-180989670/</link>
-      <description>
-        <![CDATA[Customs officers say they found the creatures hidden in the men's clothes after they touched down on separate flights from Cuba, and it's unclear whether the two incidents are related. Wildlife trafficking is the world's fourth-largest form of organized crime]]>
-      </description>
-      <source:markdown>Customs officers say they found the creatures hidden in the men&#39;s clothes after they touched down on separate flights from Cuba, and it&#39;s unclear whether the two incidents are related. Wildlife trafficking is the world&#39;s fourth-largest form of organized crime</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Rsy1Iod_unrLf55jvxb1jERbvr4=/420x240/filters:focal(600x400:601x401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a5/a9/a5a94f55-aa0d-4a94-910b-8a227393fe3b/blue_grosbeak_passerina_caerulea.jpg" length="649289" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/birds-in-their-pants-two-men-accused-of-smuggling-21-avians-after-miami-airport-bust-180989670/</guid>
-      <pubDate>Thu, 15 Oct 2026 14:52:27 +0000</pubDate>
-    </item>    <item>
-      <title>Chandra Finds Possible Origin of ‘Treble Clef’ Waves</title>
-      <link>https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/</link>
-      <description>
-        <![CDATA[A formation of radio waves looks remarkably like a treble clef in this Oct. 14, 2026, image from NASA&#8217;s Chandra X-Ray Observatory. Researchers used Chandra to find that the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision of two galaxy clusters. Read more about this discovery. [&#8230;]]]>
-      </description>
-      <source:markdown>A formation of radio waves looks remarkably like a treble clef in this Oct. 14, 2026, image from NASA’s Chandra X-Ray Observatory. Researchers used Chandra to find that the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision of two galaxy clusters. Read more about this discovery. \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1056389</guid>
-      <pubDate>Thu, 15 Oct 2026 14:19:06 +0000</pubDate>
-    </item>    <item>
-      <title>How Do Fungi Keep the Planet Healthy?</title>
-      <link>https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/</link>
-      <description>
-        <![CDATA[Evolutionary biologist Toby Kiers explains how fungal networks in soil trade nutrients with plants, help keep carbon underground, and strike bargains without having a brain.            <p>The post <a href="https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/" target="_blank">How Do Fungi Keep the Planet Healthy?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Evolutionary biologist Toby Kiers explains how fungal networks in soil trade nutrients with plants, help keep carbon underground, and strike bargains without having a brain.
-
-The post [How Do Fungi Keep the Planet Healthy?](https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=167865</guid>
-      <category>Biology</category>
-      <pubDate>Thu, 15 Oct 2026 13:40:13 +0000</pubDate>
-    </item>    <item>
-      <title>Costa: a modern, maintained graphical shell for DOS</title>
-      <link>https://www.osnews.com/story/146160/costa-a-modern-maintained-graphical-shell-for-dos/</link>
-      <description>
-        <![CDATA[Graphical user interfaces for DOS were a dime-a-dozen back in the &#8217;90s, but of course faded into irrelevance as time went on. But what if you still run DOS today, and want a maintained graphical shell instead of the rather limited DOS command line? Costa is a small and lightweight application which runs on top of MS-DOS or compatible operating systems. It replaces the DOS-prompt with a clean, user-friendly interface &#8211; a so-called GUI (Graphical User Interface). Costa comes packed with a bunch of useful accessories and can be used with or without a mouse. Developed by Jacob Palm, a Danish IT-professional and hobby developer, the first release of Costa came way back in 2004. Over the years &#8211; and through several releases &#8211; Costa has gradually evolved into what it is today, with new releases still coming out regularly as of 2025. ↫ Costa website Costa comes bundled with a number of useful utilities, a few games, and useful features like a desktop with custom icons, virtual desktop support, a file selector, and much more. The latest release, version 1.8.0, was released in late 2024, and should run on just about any IBM PC-compatible, but a 386 is recommended. It&#8217;s been tested with a variety of DOS flavours, including FreeDOS ad DOSBox, so it should run pretty much anywhere.]]>
-      </description>
-      <source:markdown>Graphical user interfaces for DOS were a dime-a-dozen back in the ’90s, but of course faded into irrelevance as time went on. But what if you still run DOS today, and want a maintained graphical shell instead of the rather limited DOS command line? Costa is a small and lightweight application which runs on top of MS-DOS or compatible operating systems. It replaces the DOS-prompt with a clean, user-friendly interface – a so-called GUI (Graphical User Interface). Costa comes packed with a bunch of useful accessories and can be used with or without a mouse. Developed by Jacob Palm, a Danish IT-professional and hobby developer, the first release of Costa came way back in 2004. Over the years – and through several releases – Costa has gradually evolved into what it is today, with new releases still coming out regularly as of 2025. ↫ Costa website Costa comes bundled with a number of useful utilities, a few games, and useful features like a desktop with custom icons, virtual desktop support, a file selector, and much more. The latest release, version 1.8.0, was released in late 2024, and should run on just about any IBM PC-compatible, but a 386 is recommended. It’s been tested with a variety of DOS flavours, including FreeDOS ad DOSBox, so it should run pretty much anywhere.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=146160</guid>
-      <category>OS News</category>
-      <pubDate>Thu, 15 Oct 2026 13:20:19 +0000</pubDate>
-    </item>    <item>
-      <title>Ubuntu 26.10 released</title>
-      <link>https://www.osnews.com/story/146158/ubuntu-26-10-released/</link>
-      <description>
-        <![CDATA[Ubuntu 26.10 has landed. Ubuntu 26.10 brings significant progress for security, and strengthens the platform with the full adoption of Rust-based coreutils, post-quantum-ready package signing, and expanded TPM-backed full-disk encryption support. Enterprise authentication gains deeper integration with Microsoft Entra ID, including password and multi-factor authentication. Linux kernel 7.3 extends support for the latest hardware, alongside new RISC-V desktop images and optimized amd64v3 installation images. ↫ Ubuntu 26.10 release announcement Of course, it comes with the latest version of GNOME, and the whole family of Ubuntu variants focusing on other desktops have also been updated. While I doubt many people here run Ubuntu, it&#8217;s still quite popular, and serves as the base for countless other distributions.]]>
-      </description>
-      <source:markdown>Ubuntu 26.10 has landed. Ubuntu 26.10 brings significant progress for security, and strengthens the platform with the full adoption of Rust-based coreutils, post-quantum-ready package signing, and expanded TPM-backed full-disk encryption support. Enterprise authentication gains deeper integration with Microsoft Entra ID, including password and multi-factor authentication. Linux kernel 7.3 extends support for the latest hardware, alongside new RISC-V desktop images and optimized amd64v3 installation images. ↫ Ubuntu 26.10 release announcement Of course, it comes with the latest version of GNOME, and the whole family of Ubuntu variants focusing on other desktops have also been updated. While I doubt many people here run Ubuntu, it’s still quite popular, and serves as the base for countless other distributions.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=146158</guid>
-      <category>Ubuntu</category>
-      <pubDate>Thu, 15 Oct 2026 13:11:56 +0000</pubDate>
-    </item>    <item>
-      <title>Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/</link>
-      <description>
-        <![CDATA[Dial in the next gaming session this GFN Thursday. New NVIDIA DLSS 4.5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware. Then, step into the Shroud as Keen Games’ Enshrouded leaves early access with its 1.0 release, or let the bolts [&#8230;]]]>
-      </description>
-      <source:markdown>Dial in the next gaming session this GFN Thursday. New NVIDIA DLSS 4.5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware. Then, step into the Shroud as Keen Games’ Enshrouded leaves early access with its 1.0 release, or let the bolts \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=98870</guid>
-      <category>Gaming</category>
-      <category>Cloud Gaming</category>
-      <category>GeForce NOW</category>
-      <pubDate>Thu, 15 Oct 2026 13:00:59 +0000</pubDate>
-    </item>    <item>
-      <title>Construction Work on the North Dakota Governor&#39;s Residence Accidentally Unearthed Seven Coffins Dating Back to the State&#39;s Early Settlement</title>
-      <link>https://www.smithsonianmag.com/smart-news/construction-work-on-the-north-dakota-governors-residence-accidentally-unearthed-seven-coffins-dating-back-to-the-states-early-settlement-180989686/</link>
-      <description>
-        <![CDATA[The cemetery site was established in 1872, when the state capital Bismarck was a small frontier community called Edwinton. Most, but not all, of its gravesites were exhumed five years later to make way for a railroad]]>
-      </description>
-      <source:markdown>The cemetery site was established in 1872, when the state capital Bismarck was a small frontier community called Edwinton. Most, but not all, of its gravesites were exhumed five years later to make way for a railroad</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/XlwDLYNEdvQKjxqYGymjdyDFSjs=/420x240/filters:focal(1489x851:1490x852)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/80/08/8008f28e-0f79-412b-b961-4a73bf7580f1/north_dakota_governors_residence.jpg" length="935470" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/construction-work-on-the-north-dakota-governors-residence-accidentally-unearthed-seven-coffins-dating-back-to-the-states-early-settlement-180989686/</guid>
-      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute</title>
-      <link>https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/</link>
-      <description>
-        <![CDATA[Much of today’s scientific progress begins with computation.  But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or science-based startups, the hardest part of research can be everything that comes before the science: [&#8230;]]]>
-      </description>
-      <source:markdown>Much of today’s scientific progress begins with computation.  But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or science-based startups, the hardest part of research can be everything that comes before the science: \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=98912</guid>
-      <category>AI</category>
-      <category>AI Factory</category>
-      <category>Artificial Intelligence</category>
-      <category>Climate</category>
-      <category>Deep Learning Institute</category>
-      <category>Events</category>
-      <category>High-Performance Computing</category>
-      <category>Inception</category>
-      <category>NVIDIA in Europe</category>
-      <category>Open Source</category>
-      <category>Science</category>
-      <category>Sovereign AI</category>
-      <category>Supercomputing</category>
-      <pubDate>Thu, 15 Oct 2026 10:00:12 +0000</pubDate>
-    </item>    <item>
-      <title>What&#39;s at stake if we can&#39;t regrow our forests</title>
-      <link>https://www.npr.org/2026/10/15/nx-s1-5983821/reforestation-seed-bombing-drones-trees</link>
-      <description>
-        <![CDATA[In 2022, parachutist Luigi Cani dropped 100 million seeds over the Amazon rainforest while skydiving. He did it to raise awareness about deforestation and help regrow the forest. But there has been little scientific follow up to see whether it worked. So, today, we talk to restoration ecologist Pedro Brancalion about the surprising complexity involved in regrowing a forest, and when dropping seeds from the sky – by people or by drones – could work.<br/><br/><strong>If you liked this episode, check out our others on </strong><a href="http://lnk.to/PaZ3Mw"target="_blank"   ><strong>building microforests in cities</strong></a><strong> and scientists’ creative idea to </strong><a href="http://lnk.to/eatdH8"target="_blank"   ><strong>save a keystone tree species</strong></a><strong> that grows </strong><em>very </em><strong>slowly.</strong><br/><br/><em>Interested in more tree science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>In 2022, parachutist Luigi Cani dropped 100 million seeds over the Amazon rainforest while skydiving. He did it to raise awareness about deforestation and help regrow the forest. But there has been little scientific follow up to see whether it worked. So, today, we talk to restoration ecologist Pedro Brancalion about the surprising complexity involved in regrowing a forest, and when dropping seeds from the sky – by people or by drones – could work.
-
-**If you liked this episode, check out our others on** [**building microforests in cities**](http://lnk.to/PaZ3Mw) **and scientists’ creative idea to** [**save a keystone tree species**](http://lnk.to/eatdH8) **that grows** _very_ **slowly.**
-
-_Interested in more tree science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/336a9530-e802-4e39-a713-f6181cd4d6a0/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=336a9530-e802-4e39-a713-f6181cd4d6a0&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-5983821&#38;p=510351&#38;d=815&#38;size=13048355" length="13048355" type="audio/mpeg" />
-      <guid>cid://b5f3f8f7-7848-423e-a853-1830e3625ffa</guid>
-      <pubDate>Thu, 15 Oct 2026 07:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing</title>
-      <link>https://blogs.nvidia.com/blog/nordics-technology-ecosystem/</link>
-      <description>
-        <![CDATA[The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries race to build one of Europe’s most consequential technology ecosystems. The many computing advancements already underway [&#8230;]]]>
-      </description>
-      <source:markdown>The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries race to build one of Europe’s most consequential technology ecosystems. The many computing advancements already underway \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=98901</guid>
-      <category>AI</category>
-      <category>AI Factory</category>
-      <category>Artificial Intelligence</category>
-      <category>Customer Stories</category>
-      <category>Events</category>
-      <category>Inception</category>
-      <category>NVIDIA in Europe</category>
-      <category>Open Source</category>
-      <category>Physical AI</category>
-      <category>Quantum Computing</category>
-      <category>Robotics</category>
-      <category>Sovereign AI</category>
-      <pubDate>Thu, 15 Oct 2026 05:00:12 +0000</pubDate>
-    </item>    <item>
-      <title>APOD: 2026 October 15 – The Milky Way over Manhattan</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 October 15 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Milky [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 October 15 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Milky \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/</guid>
-      <category>APOD</category>
-      <pubDate>Thu, 15 Oct 2026 04:05:00 +0000</pubDate>
-    </item>    <item>
-      <title>Fires Arrive in the Amazon Rainforest</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/</link>
-      <description>
-        <![CDATA[During El Niño, a cascade of fires across the tropics begins in equatorial Asia and continues in the central and eastern Amazon.]]>
-      </description>
-      <source:markdown>During El Niño, a cascade of fires across the tropics begins in equatorial Asia and continues in the central and eastern Amazon.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/</guid>
-      <category>Aqua</category>
-      <category>Earth Observatory</category>
-      <category>Moderate Resolution Imaging Spectroradiometer (MODIS)</category>
-      <category>Wildfires</category>
-      <pubDate>Thu, 15 Oct 2026 04:01:00 +0000</pubDate>
-    </item>    <item>
-      <title>Forgejo v17.0 is available</title>
-      <link>https://forgejo.org/2026-10-release-v17-0/</link>
-      <description>
-        <![CDATA[Forgejo v17.0 is available. Repository funding links are supported. Repositories can be migrated from Bitbucket Data Center. LFS support is revamped. Job summaries from Forgejo Actions jobs are displayed.]]>
-      </description>
-      <source:markdown>Forgejo v17.0 is available. Repository funding links are supported. Repositories can be migrated from Bitbucket Data Center. LFS support is revamped. Job summaries from Forgejo Actions jobs are displayed.</source:markdown>
-      <guid>cid://https://forgejo.org/2026-10-release-v17-0/</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

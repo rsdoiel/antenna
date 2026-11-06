@@ -4,10 +4,20 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>05 Nov 26 06:45 -0800</lastBuildDate>
+    <lastBuildDate>06 Nov 26 06:44 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Fedora 45 Now Available</title>
+      <link>http://www.linux-magazine.com/Online/News/Fedora-45-Now-Available</link>
+      <description>
+        <![CDATA[<p>The latest iteration of Fedora has arrived with Gnome 51 and KDE Plasma 6.8.</p>]]>
+      </description>
+      <source:markdown>The latest iteration of Fedora has arrived with Gnome 51 and KDE Plasma 6.8.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://c58933e051458d8b2113f222e8cb6424</guid>
+      <pubDate>Thu, 05 Nov 2026 17:17:10 +0000</pubDate>
+    </item>    <item>
       <title>WROCC November 2026 meeting - Package managers with Chris Hughes</title>
       <link>http://www.iconbar.com/comments/rss/news2420.html</link>
       <description>
@@ -1196,73 +1206,6 @@ Hopefully you&#39;ll see solutions to one or both of these in [a future article]
       <source:markdown>The October 2026 Rougol meeting is on Monday.</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2390.html</guid>
       <pubDate>Fri, 16 Oct 2026 08:51:00 +0000</pubDate>
-    </item>    <item>
-      <title>CJE Micro’s and 4D coming to London</title>
-      <link>https://www.riscository.com/2026/cje-micros-4d-london-2026/</link>
-      <description>
-        <![CDATA[If you&#8217;re attending the London Show on 24th October, you&#8217;ll no doubt want to pay a visit to the CJE Micro&#8217;s/4D stand to see what they have to offer. The company suffered a fire late last year, and have a reduced amount of stock available &#8211; but in spite of this they say they&#8217;ll &#8220;be launching three or four new products at the show with stock to sell!&#8221; So if you to find out what those new toys might be, the place you&#8217;ll need to be is The Harrow District&#8230;]]>
-      </description>
-      <source:markdown>If you’re attending the London Show on 24th October, you’ll no doubt want to pay a visit to the CJE Micro’s/4D stand to see what they have to offer. The company suffered a fire late last year, and have a reduced amount of stock available – but in spite of this they say they’ll “be launching three or four new products at the show with stock to sell!” So if you to find out what those new toys might be, the place you’ll need to be is The Harrow District…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=11088</guid>
-      <category>Shows</category>
-      <category>CJE Micro&#39;s</category>
-      <category>London</category>
-      <category>Show</category>
-      <pubDate>Thu, 15 Oct 2026 19:55:48 +0000</pubDate>
-    </item>    <item>
-      <title>Is Linus Torvalds Vibe Coding?</title>
-      <link>http://www.linux-magazine.com/Online/News/Is-Linus-Torvalds-Vibe-Coding</link>
-      <description>
-        <![CDATA[<p>The creator of Linux has added AI into his process for Linux kernel development, and it's more than just for debugging.</p>]]>
-      </description>
-      <source:markdown>The creator of Linux has added AI into his process for Linux kernel development, and it&#39;s more than just for debugging.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Lori White)</author>
-      <guid>cid://875530ee9727b89ddeeadd3f1f68a1d8</guid>
-      <pubDate>Thu, 15 Oct 2026 17:27:19 +0000</pubDate>
-    </item>    <item>
-      <title>Laser focused on London</title>
-      <link>https://www.riscosopen.org/news/articles/2026/10/15/laser-focused-on-london</link>
-      <description>
-        <![CDATA[<p>This year&#8217;s <a href="https://www.riscoslondonshow.co.uk/">London show</a> organised by <a href="https://rougol.jellybaby.net/"><span class="caps">ROUGOL</span></a> is on Saturday the 24th October from 11am.</p>
-        <p>While <span class="caps">ROOL</span> celebrated its twenty year birthday <a href="/news/articles/2026/06/20/twenty-years-of-risc-os-open">in June</a> it&#8217;s also been forty years since the launch of the <a href="https://www.computinghistory.org.uk/domesday/">Domesday</a> laser disc system, and the group has arranged for a still-working system to be available &#8211; capturing a time in the 1980&#8217;s when interest rates were rampant and there was tension in the Middle East.</p>
-        <p><img src="/images/risc_os_open/shows/rougol2026.png" title="Show banner" alt="Show banner" /></p>
-        <h3>Come and see what <span class="caps">ROOL</span> are up to</h3>
-        <p>We&#8217;ll be letting the hare out of the trap on the next stable release of <span class="caps">RISC</span> OS, version 5.32, with a shortlist of the new features planned. A number of the goodies directly feed in from community sponsored work done under the <a href="/bounty/">original bounty scheme</a>, such as an overhauled LanManFS which is able to connect to its peers without compromising security, and the Git and Paint applications which also close to the finishing line.</p>
-        <p>If coding isn&#8217;t your thing, why not pick a chapter of the User Guide and try to find <a href="/wiki/documentation/show/User%20Guide%20small%20corrections">any typos that may have been missed</a> last time round?</p>]]>
-      </description>
-      <source:markdown>This year’s [London show](https://www.riscoslondonshow.co.uk/) organised by [ROUGOL](https://rougol.jellybaby.net/) is on Saturday the 24th October from 11am.
-
-While ROOL celebrated its twenty year birthday [in June](/news/articles/2026/06/20/twenty-years-of-risc-os-open) it’s also been forty years since the launch of the [Domesday](https://www.computinghistory.org.uk/domesday/) laser disc system, and the group has arranged for a still-working system to be available – capturing a time in the 1980’s when interest rates were rampant and there was tension in the Middle East.
-
-![Show banner](/images/risc_os_open/shows/rougol2026.png)
-
-### Come and see what ROOL are up to
-
-We’ll be letting the hare out of the trap on the next stable release of RISC OS, version 5.32, with a shortlist of the new features planned. A number of the goodies directly feed in from community sponsored work done under the [original bounty scheme](/bounty/), such as an overhauled LanManFS which is able to connect to its peers without compromising security, and the Git and Paint applications which also close to the finishing line.
-
-If coding isn’t your thing, why not pick a chapter of the User Guide and try to find [any typos that may have been missed](/wiki/documentation/show/User%20Guide%20small%20corrections) last time round?</source:markdown>
-      <guid>cid://urn:uuid:edcede7c-3976-4f1e-860d-f24ac5aee1b3</guid>
-      <category>Miscellaneous</category>
-      <category>Community</category>
-      <pubDate>Thu, 15 Oct 2026 16:09:00 +0000</pubDate>
-    </item>    <item>
-      <title>Wizard&#39;s Apprentice game gets an update</title>
-      <link>http://www.iconbar.com/comments/rss/news2394.html</link>
-      <description>
-        <![CDATA[We first reviewed Wizard's Apprentice way back in 2000. We really excited to Bill Kotsias (the original developer) has released an update]]>
-      </description>
-      <source:markdown>We first reviewed Wizard&#39;s Apprentice way back in 2000. We really excited to Bill Kotsias (the original developer) has released an update</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2394.html</guid>
-      <pubDate>Thu, 15 Oct 2026 08:25:00 +0000</pubDate>
-    </item>    <item>
-      <title>London show is fast approaching....</title>
-      <link>http://www.iconbar.com/comments/rss/news2393.html</link>
-      <description>
-        <![CDATA[The London Show is fast approaching and we are starting to see more news from exhibitors.]]>
-      </description>
-      <source:markdown>The London Show is fast approaching and we are starting to see more news from exhibitors.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2393.html</guid>
-      <pubDate>Thu, 15 Oct 2026 07:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
