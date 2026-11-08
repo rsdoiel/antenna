@@ -4,10 +4,73 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>07 Nov 26 06:45 -0800</lastBuildDate>
+    <lastBuildDate>08 Nov 26 06:46 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>APOD: 2026 November 8 – Major Fireball Meteor</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Major Fireball Meteor [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Major Fireball Meteor \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/</guid>
+      <category>APOD</category>
+      <pubDate>Sun, 08 Nov 2026 05:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Awards Moon Base Transportation, Technology, Science Projects</title>
+      <link>https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/</link>
+      <description>
+        <![CDATA[NASA announced a suite of awards and mission updates on Saturday to expand the agency&#8217;s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on [&#8230;]]]>
+      </description>
+      <source:markdown>NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1063528</guid>
+      <category>Moon Base</category>
+      <pubDate>Sat, 07 Nov 2026 22:47:03 +0000</pubDate>
+    </item>    <item>
+      <title>MorphOS 3.21 released with new office suite</title>
+      <link>https://www.osnews.com/story/146332/morphos-3-21-released-with-new-office-suite/</link>
+      <description>
+        <![CDATA[About five months after the previous release, the MorphOS team has released MorphOS 3.21. It brings the usual list of big fixes and smaller improvements, but there&#8217;s a few big ticket items in here as well. MorphOS 3.21 introduces BasicWorks, an office suite made up of CellBasics and PageBasics. It offers document and spreadsheet authoring and loads and saves Microsoft Office and OpenOffice documents. Also new are NVMEMount, an auto-mounter for booting from and mounting NVMe partitions, and the Marbles and Cyber 3D blankers. Graphics performance has been improved, with a faster Radeon driver on cards with little video memory thanks to GART backed bitmap transfers, quicker TinyGL texture copies, hardware accelerated antialiased text in TTEngine and much faster color SVG glyph rendering in Cairo. The Bcm43xx wireless driver has been substantially reworked, with automatic transmit rate selection, updated firmware and numerous connection fixes. PowerBook and iMac hotkeys are now fully configurable. ↫ MorphOS 3.21 release announcement The BasicWorks office suite has been in the works for a while now, and more information on it can be found in a thread on the MorphZone forums and on the website for the spreadsheet component of the suite, CellBasics. The formula loaders and xlsx loaders are ports of open source projects, but the rest of the application is new code based on ObjectiveC++ and Cairo/Harfbuzz. It uses its own file format, but can import csv and xslsx files, so I&#8217;m assuming the same more or else applies to the word processor (but with docx, of course). Alongside MorphOS 3.21 also comes a new release for Wayfarer, the web browser the Amiga-inspired operating system uses. Wayfarer 12.0 moves to WebKitGTK 2.52.5 (which was released in July of 2026, so it&#8217;s quite up to date), and now uses the Skia graphics library. R300-R500 Radeons will render websites with Skia-GL for some massive performance improvements, helped further along by a slew of additional performance optimisations. Adblocking has been improved as well, YouTube should work a lot better now, and much more. The full release notes for MorphOS 3.21 give you all the details.]]>
+      </description>
+      <source:markdown>About five months after the previous release, the MorphOS team has released MorphOS 3.21. It brings the usual list of big fixes and smaller improvements, but there’s a few big ticket items in here as well. MorphOS 3.21 introduces BasicWorks, an office suite made up of CellBasics and PageBasics. It offers document and spreadsheet authoring and loads and saves Microsoft Office and OpenOffice documents. Also new are NVMEMount, an auto-mounter for booting from and mounting NVMe partitions, and the Marbles and Cyber 3D blankers. Graphics performance has been improved, with a faster Radeon driver on cards with little video memory thanks to GART backed bitmap transfers, quicker TinyGL texture copies, hardware accelerated antialiased text in TTEngine and much faster color SVG glyph rendering in Cairo. The Bcm43xx wireless driver has been substantially reworked, with automatic transmit rate selection, updated firmware and numerous connection fixes. PowerBook and iMac hotkeys are now fully configurable. ↫ MorphOS 3.21 release announcement The BasicWorks office suite has been in the works for a while now, and more information on it can be found in a thread on the MorphZone forums and on the website for the spreadsheet component of the suite, CellBasics. The formula loaders and xlsx loaders are ports of open source projects, but the rest of the application is new code based on ObjectiveC++ and Cairo/Harfbuzz. It uses its own file format, but can import csv and xslsx files, so I’m assuming the same more or else applies to the word processor (but with docx, of course). Alongside MorphOS 3.21 also comes a new release for Wayfarer, the web browser the Amiga-inspired operating system uses. Wayfarer 12.0 moves to WebKitGTK 2.52.5 (which was released in July of 2026, so it’s quite up to date), and now uses the Skia graphics library. R300-R500 Radeons will render websites with Skia-GL for some massive performance improvements, helped further along by a slew of additional performance optimisations. Adblocking has been improved as well, YouTube should work a lot better now, and much more. The full release notes for MorphOS 3.21 give you all the details.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146332</guid>
+      <category>Morphos</category>
+      <pubDate>Sat, 07 Nov 2026 19:46:54 +0000</pubDate>
+    </item>    <item>
+      <title>The port that does not exist</title>
+      <link>https://www.osnews.com/story/146330/the-port-that-does-not-exist/</link>
+      <description>
+        <![CDATA[Ask any program to listen on port 0 and it will hand you a socket on port 47193&#8230;or 58037&#8230;or whatever the kernel felt like that day. Port 0 is not a port you can have. It is the number you pass when you want the operating system to pick one for you. But a TCP header is just bytes. The destination port field is 16 bits wide, and 0x0000 fits in 16 bits as well as anything else does. Nothing on the wire stops a packet from being addressed to port 0. Your tools will refuse it, your browser will block it, and your scanner&#8217;s default port list skips it, because everyone agrees it isn&#8217;t a real port. Which makes it a pretty good place to hide things, whether anyone meant to or not. So we did some TCP cowboy shit &#38; port scanned the entire fucking internet for open ports on port 0, which uncovered some interesting unexpected findings. ↫ acidvegas An awesome and entertaining read. Don&#8217;t skip this one.]]>
+      </description>
+      <source:markdown>Ask any program to listen on port 0 and it will hand you a socket on port 47193…or 58037…or whatever the kernel felt like that day. Port 0 is not a port you can have. It is the number you pass when you want the operating system to pick one for you. But a TCP header is just bytes. The destination port field is 16 bits wide, and 0x0000 fits in 16 bits as well as anything else does. Nothing on the wire stops a packet from being addressed to port 0. Your tools will refuse it, your browser will block it, and your scanner’s default port list skips it, because everyone agrees it isn’t a real port. Which makes it a pretty good place to hide things, whether anyone meant to or not. So we did some TCP cowboy shit &#38; port scanned the entire fucking internet for open ports on port 0, which uncovered some interesting unexpected findings. ↫ acidvegas An awesome and entertaining read. Don’t skip this one.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146330</guid>
+      <category>Internet</category>
+      <pubDate>Sat, 07 Nov 2026 19:33:34 +0000</pubDate>
+    </item>    <item>
+      <title>Windows 11 27H2 might be a more substantial upgrade</title>
+      <link>https://www.osnews.com/story/146328/windows-11-27h2-might-be-a-more-substantial-upgrade/</link>
+      <description>
+        <![CDATA[A little tidbit of news regarding the nest major update to Windows, known as Windows 11 27H2. Apparently, it&#8217;s going to come with some more serious changes to the codebase, therefore necessitating a full operating system swap instead of a mere enablement package, much like Windows 11 24H2 was. For those who need a refresher, Microsoft has long been rumored to be running on a three-year release cadence and for a while, it was even thought that the company would launch Windows 12 in 2H 2024. That evidently didn&#8217;t happen, as instead we got Windows 11 24H2, but it was a major upgrade, a full OS swap compared to Windows 11 23H2 and 22H2. Essentially, it looks like every three releases, Microsoft is performing a full swap with major changes in the underlying codebase, and it seems to line up with Windows 11 27H2 as well. At the moment it&#8217;s not known if system requirements will change or not. ↫ Sayan Sen at Neowin.net Microsoft is currently testing adding support for Intel&#8217;s Advanced Performance Extensions, which should yield improved 64bit performance and reduced power consumption. It makes sense to assume this support will be coming with Windows 11 27H2, which should hopefully lead to tangible performance improvements across the board. Also, there&#8217;s going to be a new default wallpaper. Be still my beating heart.]]>
+      </description>
+      <source:markdown>A little tidbit of news regarding the nest major update to Windows, known as Windows 11 27H2. Apparently, it’s going to come with some more serious changes to the codebase, therefore necessitating a full operating system swap instead of a mere enablement package, much like Windows 11 24H2 was. For those who need a refresher, Microsoft has long been rumored to be running on a three-year release cadence and for a while, it was even thought that the company would launch Windows 12 in 2H 2024. That evidently didn’t happen, as instead we got Windows 11 24H2, but it was a major upgrade, a full OS swap compared to Windows 11 23H2 and 22H2. Essentially, it looks like every three releases, Microsoft is performing a full swap with major changes in the underlying codebase, and it seems to line up with Windows 11 27H2 as well. At the moment it’s not known if system requirements will change or not. ↫ Sayan Sen at Neowin.net Microsoft is currently testing adding support for Intel’s Advanced Performance Extensions, which should yield improved 64bit performance and reduced power consumption. It makes sense to assume this support will be coming with Windows 11 27H2, which should hopefully lead to tangible performance improvements across the board. Also, there’s going to be a new default wallpaper. Be still my beating heart.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146328</guid>
+      <category>Windows</category>
+      <pubDate>Sat, 07 Nov 2026 19:27:15 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Seeks Next Generation of Explorers to Join Astronaut Corps</title>
+      <link>https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/</link>
+      <description>
+        <![CDATA[NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation [&#8230;]]]>
+      </description>
+      <source:markdown>NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1063486</guid>
+      <category>Becoming an Astronaut</category>
+      <category>Astronauts</category>
+      <category>Candidate Astronauts</category>
+      <category>Humans in Space</category>
+      <pubDate>Sat, 07 Nov 2026 18:11:57 +0000</pubDate>
+    </item>    <item>
       <title>APOD: 2026 November 7 – De Gerlache-Kocher Massif</title>
       <link>https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/</link>
       <description>
@@ -3640,31 +3703,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <guid>cid://https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/</guid>
       <category>APOD</category>
       <pubDate>Sun, 18 Oct 2026 04:05:00 +0000</pubDate>
-    </item>    <item>
-      <title>RTX Spark Ignites Global Celebration as New Windows PCs Arrive</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/</link>
-      <description>
-        <![CDATA[NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.  Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with [&#8230;]]]>
-      </description>
-      <source:markdown>NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.  Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=99053</guid>
-      <category>AI</category>
-      <category>Agentic AI</category>
-      <category>Artificial Intelligence</category>
-      <category>Local AI</category>
-      <category>NVIDIA RTX</category>
-      <category>RTX Spark</category>
-      <pubDate>Sat, 17 Oct 2026 21:00:13 +0000</pubDate>
-    </item>    <item>
-      <title>APOD: 2026 October 17 – 3D 67P</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 October 17… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 3D 67P Explanation: Put [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 October 17… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 3D 67P Explanation: Put \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/</guid>
-      <category>APOD</category>
-      <pubDate>Sat, 17 Oct 2026 04:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
