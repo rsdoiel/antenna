@@ -6,10 +6,30 @@
     <description><![CDATA[Craft is a list of hand oriented craft and technology
 Do we really need all those power tools?]]></description>
     <link>https://rsdoiel.github.io/antenna/craft.xml</link>
-    <lastBuildDate>08 Nov 26 06:49 -0800</lastBuildDate>
+    <lastBuildDate>09 Nov 26 06:49 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>My Favorite (but Least Successful) Book: ‘Ingenious Mechanicks’</title>
+      <link>https://blog.lostartpress.com/2026/11/08/my-favorite-but-least-successful-book-ingenious-mechanicks/</link>
+      <description>
+        <![CDATA[If I could write 10 more books like “Ingenious Mechanicks,” I would be a happy guy. The book is exactly what I thought I would be doing as a writer and woodworker: That is the script for “Ingenious Mechanicks.” But there’s more. We flushed thousands of dollars away trying to translate a 1505 Germanic codex...]]>
+      </description>
+      <source:markdown>If I could write 10 more books like “Ingenious Mechanicks,” I would be a happy guy. The book is exactly what I thought I would be doing as a writer and woodworker: That is the script for “Ingenious Mechanicks.” But there’s more. We flushed thousands of dollars away trying to translate a 1505 Germanic codex...</source:markdown>
+      <guid>cid://https://blog.lostartpress.com/?p=70895</guid>
+      <category>Ingenious Mechanicks</category>
+      <pubDate>Mon, 09 Nov 2026 02:17:05 +0000</pubDate>
+    </item>    <item>
+      <title>12 Years of Living With ‘Campaign Furniture’</title>
+      <link>https://blog.lostartpress.com/2026/11/08/12-years-of-living-with-campaign-furniture/</link>
+      <description>
+        <![CDATA[I grew up with campaign furniture. My grandparents collected it. And my dad was fond of building it. We had stacking campaign chests (and, weirdly, side tables) in our house in Arkansas. I didn’t think anything was odd about it. It was simple and rugged stuff. Nothing fancy. But when I started working at Popular...]]>
+      </description>
+      <source:markdown>I grew up with campaign furniture. My grandparents collected it. And my dad was fond of building it. We had stacking campaign chests (and, weirdly, side tables) in our house in Arkansas. I didn’t think anything was odd about it. It was simple and rugged stuff. Nothing fancy. But when I started working at Popular...</source:markdown>
+      <guid>cid://https://blog.lostartpress.com/?p=70892</guid>
+      <category>Campaign Furniture</category>
+      <pubDate>Mon, 09 Nov 2026 01:48:36 +0000</pubDate>
+    </item>    <item>
       <title>Get ‘The Essential Woodworker’ at the 2010 Price</title>
       <link>https://blog.lostartpress.com/2026/11/06/get-the-essential-woodworker-at-the-2010-price/</link>
       <description>
@@ -612,27 +632,6 @@ Luthier on Luthier is hosted by Michael Bashkin of [Bashkin Guitars](https://ww
       <category>Podcast</category>
       <category>ShopNotes Podcast</category>
       <pubDate>Mon, 19 Oct 2026 15:57:14 +0000</pubDate>
-    </item>    <item>
-      <title>Model 2 Mandolin: Cuban mahogany neck blank</title>
-      <link>https://guitar-maker.blogspot.com/2026/10/model-2-mandolin-cuban-mahogany-neck.html</link>
-      <description>
-        <![CDATA[<p><br /></p><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/LUxohxAn4Q0" width="320" youtube-src-id="LUxohxAn4Q0"></iframe></div><p></p><p></p><p class="MsoNormal"><span style="background-color: black; color: white;">This video is all about making the neck blank from some very
-        special Cuban mahogany. Also, I set myself the challenge of making a head inlay
-        to match the mandolin’s rosette <a href="https://youtu.be/vuY8WUXl-vI?si=oxDaferF4corhKdQ" target="_blank">as seen here</a>-</span></p>
-        
-        <p class="MsoNormal"><span style="background-color: black; color: white;">Cheers Gary</span><o:p></o:p></p><br /><p></p>]]>
-      </description>
-      <source:markdown>This video is all about making the neck blank from some very
-special Cuban mahogany. Also, I set myself the challenge of making a head inlay
-to match the mandolin’s rosette [as seen here](https://youtu.be/vuY8WUXl-vI?si=oxDaferF4corhKdQ)-
-
-Cheers Gary</source:markdown>
-      <author>noreply@blogger.com (Gary Nava, Luthier)</author>
-      <guid>cid://tag:blogger.com,1999:blog-32932962.post-113753011650956167</guid>
-      <category>Hnadmade</category>
-      <category>Luthier</category>
-      <category>Nava Model 2 mandolin</category>
-      <pubDate>Sun, 18 Oct 2026 14:08:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

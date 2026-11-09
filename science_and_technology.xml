@@ -4,10 +4,208 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>08 Nov 26 06:46 -0800</lastBuildDate>
+    <lastBuildDate>09 Nov 26 06:46 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>OpenIndiana Hipster 2026.10 released</title>
+      <link>https://www.osnews.com/story/146337/openindiana-hipster-2026-10-released/</link>
+      <description>
+        <![CDATA[OpenIndiana is a rolling-release illumos distribution, but they do release snapshots twice a year to serve as a base for installations, which they call Hipster. The project&#8217;s just released OpenIndiana Hipster 2026.10, and it brings a number of welcome changes. First, there&#8217;s UEFI framebuffer support on the live image, which is automatically configured when loading up the image. Second, Firefox and Thunderbird versions have been bumped to 159.0, and a whole slew of development tools have been updated to newer versions as well. This snapshot also brings QEMU 11.1.2 and VirtualBox 7.2.22, and a number of new applications have been added as well. In addition, SPARC build support has been improved to enable new and updated packages for Sun&#8217;s dead ISA as well. You can download a fresh image, or update an existing installation through IPS.]]>
+      </description>
+      <source:markdown>OpenIndiana is a rolling-release illumos distribution, but they do release snapshots twice a year to serve as a base for installations, which they call Hipster. The project’s just released OpenIndiana Hipster 2026.10, and it brings a number of welcome changes. First, there’s UEFI framebuffer support on the live image, which is automatically configured when loading up the image. Second, Firefox and Thunderbird versions have been bumped to 159.0, and a whole slew of development tools have been updated to newer versions as well. This snapshot also brings QEMU 11.1.2 and VirtualBox 7.2.22, and a number of new applications have been added as well. In addition, SPARC build support has been improved to enable new and updated packages for Sun’s dead ISA as well. You can download a fresh image, or update an existing installation through IPS.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146337</guid>
+      <category>Solaris</category>
+      <pubDate>Mon, 09 Nov 2026 14:23:18 +0000</pubDate>
+    </item>    <item>
+      <title>Making musl and proprietary NVIDIA drivers work together</title>
+      <link>https://www.osnews.com/story/146335/making-musl-and-proprietary-nvidia-drivers-work-together/</link>
+      <description>
+        <![CDATA[Creator and lead developer of Chimera Linux, Nina &#8220;q66&#8221;, write about their efforts to get NVIDIA drivers to work properly on musl-based distributions. As you may be aware, one of the limitations of musl-based distributions is that they will not function to their proper extent when used in computers with various NVIDIA graphics cards. This is due to the proprietary nature of the driver, being built for glibc. I have been experimenting with trying to make this work, and this post is the summary of that effort. ↫ Nina &#8220;q66&#8221; on the Chimera blog What follows is a deeply technical exploration of the problem, and the steps Nina q66 and the Chimera team are taking to try and fix it. With how popular and widespread NVIDIA hardware still is, this is a hugely important issue to try and address, and I&#8217;m grateful they&#8217;re trying to address it.]]>
+      </description>
+      <source:markdown>Creator and lead developer of Chimera Linux, Nina “q66”, write about their efforts to get NVIDIA drivers to work properly on musl-based distributions. As you may be aware, one of the limitations of musl-based distributions is that they will not function to their proper extent when used in computers with various NVIDIA graphics cards. This is due to the proprietary nature of the driver, being built for glibc. I have been experimenting with trying to make this work, and this post is the summary of that effort. ↫ Nina “q66” on the Chimera blog What follows is a deeply technical exploration of the problem, and the steps Nina q66 and the Chimera team are taking to try and fix it. With how popular and widespread NVIDIA hardware still is, this is a hugely important issue to try and address, and I’m grateful they’re trying to address it.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146335</guid>
+      <category>Linux</category>
+      <pubDate>Mon, 09 Nov 2026 14:17:06 +0000</pubDate>
+    </item>    <item>
+      <title>Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation</title>
+      <link>https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/</link>
+      <description>
+        <![CDATA[Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components.  The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in [&#8230;]]]>
+      </description>
+      <source:markdown>Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components.  The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in \[…\]</source:markdown>
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/groot-2-shipping-label.mp4" length="2908942" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/egohand-demo.mp4" length="9611394" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/newton-strawberry.mp4" length="1989701" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/newton-physx-web.mp4" length="949677" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/robotics-montage-8s.mp4" length="8704810" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/flexion-newton-isaac-lab.mp4" length="10947153" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/alphanist-6-16s-web.mp4" length="2092344" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/task-tool-sorting.mp4" length="640183" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/wipe-the-bar.mp4" length="213015" type="video/mp4" />
+      <guid>cid://https://blogs.nvidia.com/?p=99751</guid>
+      <category>Robotics</category>
+      <category>Agentic AI</category>
+      <category>Artificial Intelligence</category>
+      <category>Cosmos</category>
+      <category>Events</category>
+      <category>Industrial and Manufacturing</category>
+      <category>Isaac</category>
+      <category>NVIDIA Research</category>
+      <category>Omniverse</category>
+      <category>Open Source</category>
+      <category>Physical AI</category>
+      <category>Simulation and Design</category>
+      <pubDate>Mon, 09 Nov 2026 14:00:01 +0000</pubDate>
+    </item>    <item>
+      <title>CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars</title>
+      <link>https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/</link>
+      <description>
+        <![CDATA[After 378 days without windows, the sounds of the outside world, or real-time calls with family and friends, four research volunteers stepped out of NASA’s Mars Dune Alpha habitat on Oct. 31, completing the agency’s second yearlong Mars surface simulation.&#160; Ross Elder, Ellen Ellis, James Spicer, and Matthew Montgomery&#160;entered the roughly 1,700-square-foot, 3D-printed habitat at [&#8230;]]]>
+      </description>
+      <source:markdown>After 378 days without windows, the sounds of the outside world, or real-time calls with family and friends, four research volunteers stepped out of NASA’s Mars Dune Alpha habitat on Oct. 31, completing the agency’s second yearlong Mars surface simulation.  Ross Elder, Ellen Ellis, James Spicer, and Matthew Montgomery entered the roughly 1,700-square-foot, 3D-printed habitat at \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1061576</guid>
+      <category>Johnson Space Center</category>
+      <category>CHAPEA Mission 2</category>
+      <category>Crew Health and Performance Exploration Analog (CHAPEA)</category>
+      <category>General</category>
+      <category>Human Health and Performance</category>
+      <pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum</title>
+      <link>https://blogs.nvidia.com/blog/korean-startup-investments-msit/</link>
+      <description>
+        <![CDATA[Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with [&#8230;]]]>
+      </description>
+      <source:markdown>Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99744</guid>
+      <category>AI</category>
+      <category>Agentic AI</category>
+      <category>Events</category>
+      <category>Inception</category>
+      <category>Physical AI</category>
+      <category>Robotics</category>
+      <pubDate>Mon, 09 Nov 2026 08:00:53 +0000</pubDate>
+    </item>    <item>
+      <title>An ‘Ozempic baby boom’? The GLP-1 pregnancy plot twist</title>
+      <link>https://www.npr.org/2026/11/09/nx-s1-6023369/glp1-ozempic-babies-pregnancy</link>
+      <description>
+        <![CDATA[The explosion of GLP-1 drugs has created a gray zone for pregnancy. That recently prompted the American College of Obstetricians and Gynecologists to issue <a href="https://www.acog.org/clinical/guidance/practice-advisory/2026/10/use-of-glucagon-like-peptide-1-receptor-agonists-in-pregnancy-and-lactation/"target="_blank"   >its first ever guidance</a> on the topic. In a twist, the drugs may boost fertility for some, leading to more pregnancies – a phenomenon known on social media as “Ozempic babies”. But doctors caution against using the drugs during pregnancy itself. In fact, the more we looked into this story, the more twists and nuances we found. So, we brought Dr. <a href="https://www.ohsu.edu/providers/amy-valent-do"target="_blank"   >Amy Valent</a> of Oregon Health and Science University onto the show to break down the latest on what’s known about how these drugs affect fertility and pregnancy. <br/><br/><em>Interested in more health news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at <a href="http://plus.npr.org/"target="_blank"   >plus.npr.org</a>.<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>The explosion of GLP-1 drugs has created a gray zone for pregnancy. That recently prompted the American College of Obstetricians and Gynecologists to issue [its first ever guidance](https://www.acog.org/clinical/guidance/practice-advisory/2026/10/use-of-glucagon-like-peptide-1-receptor-agonists-in-pregnancy-and-lactation/) on the topic. In a twist, the drugs may boost fertility for some, leading to more pregnancies – a phenomenon known on social media as “Ozempic babies”. But doctors caution against using the drugs during pregnancy itself. In fact, the more we looked into this story, the more twists and nuances we found. So, we brought Dr. [Amy Valent](https://www.ohsu.edu/providers/amy-valent-do) of Oregon Health and Science University onto the show to break down the latest on what’s known about how these drugs affect fertility and pregnancy.
+
+_Interested in more health news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at [plus.npr.org](http://plus.npr.org/).
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/0d99d962-f901-4f83-8f26-403789a8e0bd/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=0d99d962-f901-4f83-8f26-403789a8e0bd&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-6023369&#38;p=510351&#38;d=730&#38;size=11687061" length="11687061" type="audio/mpeg" />
+      <guid>cid://1750ca3b-507f-4cfa-a546-d93fb64bafe1</guid>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>APOD: 2026 November 9 – Rigel and the Witch Head Nebula</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 November 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rigel and the [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 November 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rigel and the \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/</guid>
+      <category>APOD</category>
+      <pubDate>Mon, 09 Nov 2026 05:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>Korea Advances Physical AI Across Industries With NVIDIA</title>
+      <link>https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/</link>
+      <description>
+        <![CDATA[Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With [&#8230;]]]>
+      </description>
+      <source:markdown>Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99712</guid>
+      <category>Driving</category>
+      <category>Robotics</category>
+      <category>CUDA</category>
+      <category>Industrial and Manufacturing</category>
+      <category>Isaac</category>
+      <category>NVIDIA Halos</category>
+      <category>NVIDIA Jetson</category>
+      <category>NVIDIA PhysicsNeMo</category>
+      <category>Physical AI</category>
+      <pubDate>Mon, 09 Nov 2026 05:00:40 +0000</pubDate>
+    </item>    <item>
+      <title>Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA</title>
+      <link>https://blogs.nvidia.com/blog/korea-secure-agentic-ai/</link>
+      <description>
+        <![CDATA[As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key [&#8230;]]]>
+      </description>
+      <source:markdown>As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99736</guid>
+      <category>AI</category>
+      <category>Agentic AI</category>
+      <category>Nemotron</category>
+      <category>Open Source</category>
+      <category>OpenShell</category>
+      <pubDate>Mon, 09 Nov 2026 05:00:39 +0000</pubDate>
+    </item>    <item>
+      <title>From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration</title>
+      <link>https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/</link>
+      <description>
+        <![CDATA[NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes [&#8230;]]]>
+      </description>
+      <source:markdown>NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99721</guid>
+      <category>AI</category>
+      <category>Dynamo</category>
+      <category>NVLink</category>
+      <category>Sovereign AI</category>
+      <pubDate>Mon, 09 Nov 2026 05:00:04 +0000</pubDate>
+    </item>    <item>
+      <title>Ozone Hole Reaches Its 2026 Maximum</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/</link>
+      <description>
+        <![CDATA[The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record.]]>
+      </description>
+      <source:markdown>The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/</guid>
+      <category>Aura</category>
+      <category>Earth Observatory</category>
+      <category>Nimbus</category>
+      <category>NOAA-20 (JPSS-1)</category>
+      <category>Ozone Layer</category>
+      <category>Suomi NPP (Suomi National Polar-orbiting Partnership)</category>
+      <pubDate>Mon, 09 Nov 2026 05:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/</link>
+      <description>
+        <![CDATA[NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing [&#8230;]]]>
+      </description>
+      <source:markdown>NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99731</guid>
+      <category>AI</category>
+      <category>Dynamo</category>
+      <category>Inference</category>
+      <category>Open Source</category>
+      <pubDate>Mon, 09 Nov 2026 05:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Announces $1 Million to Students for Moon Base Challenge</title>
+      <link>https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/</link>
+      <description>
+        <![CDATA[On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute designs for the Moon Base. “We’re [&#8230;]]]>
+      </description>
+      <source:markdown>On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute designs for the Moon Base. “We’re \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1063603</guid>
+      <category>Moon Base</category>
+      <category>Center of Excellence for Collaborative Innovation (CoECI)</category>
+      <category>Get Involved</category>
+      <category>Johnson Space Center</category>
+      <category>Opportunities For Students to Get Involved</category>
+      <category>Opportunities to Contribute to NASA Missions &#38; Get Involved</category>
+      <category>Prizes, Challenges, and Crowdsourcing Program</category>
+      <category>Research and Technology Mission Directorate</category>
+      <category>STEM Engagement at NASA</category>
+      <pubDate>Sun, 08 Nov 2026 15:26:38 +0000</pubDate>
+    </item>    <item>
       <title>APOD: 2026 November 8 – Major Fireball Meteor</title>
       <link>https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/</link>
       <description>
@@ -3673,36 +3871,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <category>Topography</category>
       <category>Vegetation</category>
       <pubDate>Mon, 19 Oct 2026 04:01:00 +0000</pubDate>
-    </item>    <item>
-      <title>Inside the Intel 8087 chip: floating-point addition and subtraction</title>
-      <link>https://www.osnews.com/story/146189/inside-the-intel-8087-chip-floating-point-addition-and-subtraction/</link>
-      <description>
-        <![CDATA[In 1980, Intel introduced the 8087, a chip that made floating-point operations much faster in the IBM PC and other systems. Although the 8087 supports advanced operations such as tangents, square roots, and logarithms, this article focuses on basic arithmetic operations: addition and subtraction. The 8087 provided a spectacular speed improvement over the 8086 processor, speeding up addition by a factor of almost 100, and complicated operations by even more. In this article, I examine the 8087&#8217;s microcode and circuitry to explain exactly how floating-point addition and subtraction are implemented, including numerous special cases for infinities and other special values. ↫ Ken Shirriff Shirriff took an actual chisel to the 8087 coprocessor to gain access to the insides for highly detailed photographs, taken with a microscope. They look amazing.]]>
-      </description>
-      <source:markdown>In 1980, Intel introduced the 8087, a chip that made floating-point operations much faster in the IBM PC and other systems. Although the 8087 supports advanced operations such as tangents, square roots, and logarithms, this article focuses on basic arithmetic operations: addition and subtraction. The 8087 provided a spectacular speed improvement over the 8086 processor, speeding up addition by a factor of almost 100, and complicated operations by even more. In this article, I examine the 8087’s microcode and circuitry to explain exactly how floating-point addition and subtraction are implemented, including numerous special cases for infinities and other special values. ↫ Ken Shirriff Shirriff took an actual chisel to the 8087 coprocessor to gain access to the insides for highly detailed photographs, taken with a microscope. They look amazing.</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=146189</guid>
-      <category>Intel</category>
-      <pubDate>Sun, 18 Oct 2026 23:34:37 +0000</pubDate>
-    </item>    <item>
-      <title>Source code for the Palm OS port of Lemmings</title>
-      <link>https://www.osnews.com/story/146187/source-code-for-the-palm-os-port-of-lemmings/</link>
-      <description>
-        <![CDATA[Only a few day ago I linked to a massive collection of original Palm OS development resources, and today we can take a look at what it was like to put all of those resources into practice: the original source code for the Palm OS port of Lemmings. With these resources combined, there&#8217;s no excuse to not building any Palm OS applications. I&#8217;d really like a modern email client, a Fediverse client, and a slightly more modern browser surely wouldn&#8217;t hurt. Get on it!]]>
-      </description>
-      <source:markdown>Only a few day ago I linked to a massive collection of original Palm OS development resources, and today we can take a look at what it was like to put all of those resources into practice: the original source code for the Palm OS port of Lemmings. With these resources combined, there’s no excuse to not building any Palm OS applications. I’d really like a modern email client, a Fediverse client, and a slightly more modern browser surely wouldn’t hurt. Get on it!</source:markdown>
-      <guid>cid://https://www.osnews.com/?p=146187</guid>
-      <category>Mobile</category>
-      <pubDate>Sun, 18 Oct 2026 23:29:40 +0000</pubDate>
-    </item>    <item>
-      <title>APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sonified: Eagle Nebula [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sonified: Eagle Nebula \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/</guid>
-      <category>APOD</category>
-      <pubDate>Sun, 18 Oct 2026 04:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
