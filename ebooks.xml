@@ -4,10 +4,82 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>10 Nov 26 06:50 -0800</lastBuildDate>
+    <lastBuildDate>11 Nov 26 06:47 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The hallway : by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79962</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 11 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Home and garden : by Gertrude Jekyll</title>
+      <link>https://www.gutenberg.org/ebooks/79967</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 11 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Ein gefährlicher Ausflug : by Arthur Conan Doyle</title>
+      <link>https://www.gutenberg.org/ebooks/79966</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+      <pubDate>Wed, 11 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>The Wreck of the Titan by Morgan Robertson</title>
+      <link>https://www.gutenberg.org/ebooks/24880</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 11 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Mothers still by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79964</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 11 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Eugene Aram — Volume 04 by Baron Edward Bulwer Lytton Lytton</title>
+      <link>https://www.gutenberg.org/ebooks/7612</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 11 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>An English Grammar by William Malone Baskervill and James Witt Sewell</title>
+      <link>https://www.gutenberg.org/ebooks/14006</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 11 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>A Pennsylvania bison hunt :</title>
+      <link>https://www.gutenberg.org/ebooks/79963</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 11 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Blue law ballads : by Sinners Club</title>
+      <link>https://www.gutenberg.org/ebooks/79965</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 11 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
       <title>Stories from the Faerie Queene by Mary Macleod and Edmund Spenser</title>
       <link>https://www.gutenberg.org/ebooks/79406</link>
       <description>
@@ -34,14 +106,6 @@
     </item>    <item>
       <title>The girl in scarlet; or, the loves of Silvère and Miette. (La fortune des Rougon.) by Émile Zola</title>
       <link>https://www.gutenberg.org/ebooks/79959</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 10 Nov 2026 10:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>The hallway : by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79962</link>
       <description>
         <![CDATA[Language: English]]>
       </description>
@@ -1927,78 +1991,6 @@
       </description>
       <source:markdown>Language: Irish</source:markdown>
       <pubDate>Wed, 21 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>The idealists by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79825</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 20 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>The wanderer : by Alain-Fournier</title>
-      <link>https://www.gutenberg.org/ebooks/79827</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 20 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Amy in Acadia: A Story for Girls by Helen Leah Reed</title>
-      <link>https://www.gutenberg.org/ebooks/35985</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 20 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>The Skipper and the Skipped: Being the Shore Log of Cap&#39;n Aaron Sproul by Holman Day</title>
-      <link>https://www.gutenberg.org/ebooks/16631</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 20 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>A First Book in Algebra by Wallace C.  Boyden</title>
-      <link>https://www.gutenberg.org/ebooks/13309</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 20 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Hester: A Story of Contemporary Life, Volume 1 (of 3) by Mrs.  Oliphant</title>
-      <link>https://www.gutenberg.org/ebooks/48197</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 20 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Hester: A Story of Contemporary Life, Volume 2 (of 3) by Mrs.  Oliphant</title>
-      <link>https://www.gutenberg.org/ebooks/48198</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 20 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Hester: A Story of Contemporary Life, Volume 3 (of 3) by Mrs.  Oliphant</title>
-      <link>https://www.gutenberg.org/ebooks/48199</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 20 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>A-gypsying by Anna Blake Mezquida</title>
-      <link>https://www.gutenberg.org/ebooks/79826</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 20 Oct 2026 09:51:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
