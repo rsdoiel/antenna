@@ -4,10 +4,85 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>11 Nov 26 06:46 -0800</lastBuildDate>
+    <lastBuildDate>12 Nov 26 06:47 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Chris Hall will be talking ARM 64 at tonights Bristol RISC OS User Group</title>
+      <link>http://www.iconbar.com/comments/rss/news2422.html</link>
+      <description>
+        <![CDATA[If you are Bristol based and free tonight, Chris Hall is the featured speaker at the Bristol RISC OS User Group November meeting.]]>
+      </description>
+      <source:markdown>If you are Bristol based and free tonight, Chris Hall is the featured speaker at the Bristol RISC OS User Group November meeting.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2422.html</guid>
+      <pubDate>Thu, 12 Nov 2026 13:43:00 +0000</pubDate>
+    </item>    <item>
+      <title>Chessmate for the KIM-1</title>
+      <link>http://retro.hansotten.nl/chessmate-for-the-kim-1/</link>
+      <description>
+        <![CDATA[Since I have a well documented source of the Chessmate ROMs and made a VT100 version of Microchess I made a VT100 version of the VT100. You can download source and papertape version here. ; The Chessmate engine from CHESSMATE.ASM (reconstructed source of ; the 4K ROM, Hans Otten) with the opening book of OPENBOOK.ASM [&#8230;]]]>
+      </description>
+      <source:markdown>Since I have a well documented source of the Chessmate ROMs and made a VT100 version of Microchess I made a VT100 version of the VT100. You can download source and papertape version here. ; The Chessmate engine from CHESSMATE.ASM (reconstructed source of ; the 4K ROM, Hans Otten) with the opening book of OPENBOOK.ASM \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=22729</guid>
+      <category>6502</category>
+      <pubDate>Thu, 12 Nov 2026 13:07:36 +0000</pubDate>
+    </item>    <item>
+      <title>Chessmate ROM reverse engineered</title>
+      <link>http://retro.hansotten.nl/chessmate-rom-reverse-engineered/</link>
+      <description>
+        <![CDATA[With the aid of the source of Microchess and some detective work, started several years ago, I now have a more thorough commnted source of the Chessmate ROMs. You can download here the source of the main ROM and the openings in the 6530-024 RRIOT ROM. ; ; CHESSMATE.ASM &#8211; Commodore Chessmate main ROM ($F000-$FFFF) [&#8230;]]]>
+      </description>
+      <source:markdown>With the aid of the source of Microchess and some detective work, started several years ago, I now have a more thorough commnted source of the Chessmate ROMs. You can download here the source of the main ROM and the openings in the 6530-024 RRIOT ROM. ; ; CHESSMATE.ASM – Commodore Chessmate main ROM ($F000-$FFFF) \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=22730</guid>
+      <category>6502</category>
+      <pubDate>Thu, 12 Nov 2026 12:57:38 +0000</pubDate>
+    </item>    <item>
+      <title>Fireside developer chat on saturday night</title>
+      <link>http://www.iconbar.com/comments/rss/news2386.html</link>
+      <description>
+        <![CDATA[If you were inspired by the recent London Show (or looking to catch-up on what you missed), the next developer fireside chat is saturday night (14th November). It is aimed at anyone interested in a very informal event online aimed at RISC OS developers of all levels.]]>
+      </description>
+      <source:markdown>If you were inspired by the recent London Show (or looking to catch-up on what you missed), the next developer fireside chat is saturday night (14th November). It is aimed at anyone interested in a very informal event online aimed at RISC OS developers of all levels.</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2386.html</guid>
+      <pubDate>Thu, 12 Nov 2026 05:46:00 +0000</pubDate>
+    </item>    <item>
+      <title>Epic Games Targets Linux for New Launcher</title>
+      <link>http://www.linux-magazine.com/Online/News/Epic-Games-Targets-Linux-for-New-Launcher</link>
+      <description>
+        <![CDATA[<p>The Epic Games new launcher is still in preview, but it looks to land on several Linux distributions.</p>]]>
+      </description>
+      <source:markdown>The Epic Games new launcher is still in preview, but it looks to land on several Linux distributions.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://f0437972b8782201d265c92a103d8ac7</guid>
+      <pubDate>Wed, 11 Nov 2026 22:28:14 +0000</pubDate>
+    </item>    <item>
+      <title>b.log 2026/11/11 - Stupid, What is this?, gcd.bas fails on actual BASIC, TeaBASIC progresses.</title>
+      <link>https://heyrick.eu/blog/entry/20261111</link>
+      <description>
+        <![CDATA[Stupid, What is this?, gcd.bas fails on actual BASIC, TeaBASIC progresses.]]>
+      </description>
+      <source:markdown>Stupid, What is this?, gcd.bas fails on actual BASIC, TeaBASIC progresses.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20261111</guid>
+      <pubDate>Wed, 11 Nov 2026 19:15:15 +0000</pubDate>
+    </item>    <item>
+      <title>Jemm v5.87</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/11/jemm-v587/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>Jemm is an "Expanded Memory Manager" (EMM), based on the source of FreeDOS EMM386. Jemm is split into two versions: Jemm386 is the standard version which also needs an external extended memory manager like HIMEM to be loaded, and JemmEx is the extended version that already has an extended memory manager in it. Japheth recently released a new version of Jemm with several fixes, such as + fixed regression in v5.86: exceptions in PL0 were displayed incorrectly + AHCICD: driver now supports long reads in "raw mode" + Int 15h, ah=87h: returns error 02 instead of 80h if limit out of range. See the <a href="https://github.com/Baron-von-Riedesel/Jemm/releases/tag/v5.87" rel="nofollow">Jemm 5.87 release</a> page for the full list of changes, and to download the latest version. We've also mirrored this version in the FreeDOS Files Archive at Ibiblio, under <a href="https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/dos/emm386/jemm/5.87/" rel="nofollow">/dos/emm386/jemm</a></p></div>]]>
+      </description>
+      <source:markdown>Jemm is an &#34;Expanded Memory Manager&#34; (EMM), based on the source of FreeDOS EMM386. Jemm is split into two versions: Jemm386 is the standard version which also needs an external extended memory manager like HIMEM to be loaded, and JemmEx is the extended version that already has an extended memory manager in it. Japheth recently released a new version of Jemm with several fixes, such as + fixed regression in v5.86: exceptions in PL0 were displayed incorrectly + AHCICD: driver now supports long reads in &#34;raw mode&#34; + Int 15h, ah=87h: returns error 02 instead of 80h if limit out of range. See the [Jemm 5.87 release](https://github.com/Baron-von-Riedesel/Jemm/releases/tag/v5.87) page for the full list of changes, and to download the latest version. We&#39;ve also mirrored this version in the FreeDOS Files Archive at Ibiblio, under [/dos/emm386/jemm](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/dos/emm386/jemm/5.87/)</source:markdown>
+      <guid>cid://https://sourceforge.net1ddba90805eaa056655f42083c788dc7a41b6298</guid>
+      <pubDate>Wed, 11 Nov 2026 15:10:08 +0000</pubDate>
+    </item>    <item>
+      <title>JWasm 2.21</title>
+      <link>https://sourceforge.net/p/freedos/news/2026/11/jwasm-221/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>JWasm is a MASM-compatible assembler that runs under DOS and other operating systems. Japheth has released a new version of JWasm with a bunch of fixes and changes, including: + macro arguments: curly braces now handled Masm-compatible + operator MOD returned wrong results for negative operands + model TINY, predefined symbol <code>@code</code>: changed from <code>_TEXT</code> to <code>DGROUP</code> + fixed GPF in jwasm: assembling MOV instruction with destination of type prototype, but without pointer type definition. Check out the full change log and download the latest version on the <a href="https://github.com/Baron-von-Riedesel/JWasm/releases/tag/v2.21" rel="nofollow">JWasm 2.21 release</a> page. We've also mirrored this version in the FreeDOS Files Archive at Ibiblio, under <a href="https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/devel/asm/jwasm/2.21/" rel="nofollow">/devel/asm/jwasm</a></p></div>]]>
+      </description>
+      <source:markdown>JWasm is a MASM-compatible assembler that runs under DOS and other operating systems. Japheth has released a new version of JWasm with a bunch of fixes and changes, including: + macro arguments: curly braces now handled Masm-compatible + operator MOD returned wrong results for negative operands + model TINY, predefined symbol `@code`: changed from `_TEXT` to `DGROUP` \+ fixed GPF in jwasm: assembling MOV instruction with destination of type prototype, but without pointer type definition. Check out the full change log and download the latest version on the [JWasm 2.21 release](https://github.com/Baron-von-Riedesel/JWasm/releases/tag/v2.21) page. We&#39;ve also mirrored this version in the FreeDOS Files Archive at Ibiblio, under [/devel/asm/jwasm](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/devel/asm/jwasm/2.21/)</source:markdown>
+      <guid>cid://https://sourceforge.net96ba436e0a06da05b9e64b455c68bf8f89860fb4</guid>
+      <pubDate>Wed, 11 Nov 2026 15:04:46 +0000</pubDate>
+    </item>    <item>
       <title>Microchess for VT100</title>
       <link>http://retro.hansotten.nl/microchess-for-vt100/</link>
       <description>
@@ -1554,66 +1629,6 @@ Hopefully you&#39;ll see solutions to one or both of these in [a future article]
       <source:markdown>Lots of Show news appearing in our inbox so here&#39;s a summary for you .</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2401.html</guid>
       <pubDate>Thu, 22 Oct 2026 08:52:00 +0000</pubDate>
-    </item>    <item>
-      <title>UniPrint for Mac now available (for RISC OS!)</title>
-      <link>https://www.riscository.com/2026/uniprint-for-mac-now-available/</link>
-      <description>
-        <![CDATA[Aaaand don&#8217;t breathe yet &#8211; there&#8217;s yet another announcement waiting to be read, this one from R-Comp &#8211; although, while it has appeared in the final sprint to the London Show, it doesn&#8217;t actually mention the event. I&#8217;m sure it&#8217;ll be available in Harrow on Saturday, though. Anyway, over to Andrew Rawnsley: R-Comp is pleased to announce the release of a new product &#8211; UniPrint for Mac. It is available now for download on !Store. UniPrint is a well established program that allows RISC OS users to use almost any&#8230;]]>
-      </description>
-      <source:markdown>Aaaand don’t breathe yet – there’s yet another announcement waiting to be read, this one from R-Comp – although, while it has appeared in the final sprint to the London Show, it doesn’t actually mention the event. I’m sure it’ll be available in Harrow on Saturday, though. Anyway, over to Andrew Rawnsley: R-Comp is pleased to announce the release of a new product – UniPrint for Mac. It is available now for download on !Store. UniPrint is a well established program that allows RISC OS users to use almost any…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=11110</guid>
-      <category>Software</category>
-      <category>London</category>
-      <category>R-Comp</category>
-      <category>Show</category>
-      <category>UniPrint</category>
-      <pubDate>Wed, 21 Oct 2026 21:24:29 +0000</pubDate>
-    </item>    <item>
-      <title>Chris Hall at London 2026</title>
-      <link>https://www.riscository.com/2026/chris-hall-at-london-2026/</link>
-      <description>
-        <![CDATA[Chris Hall will be at the London Show on Saturday, 24th October, and has sent out an announcement of sorts &#8211; meaning it&#8217;s less of an announcement, and more of an article. And by &#8220;more of an article&#8221; I actually mean &#8220;an article&#8221; &#8211; he has provided an article to Archive Magazine, and says it will be appearing in the issue that will be available for subscribers to pick up at the show on Saturday, and talks about what visitors will be able to see on his stand. As the&#8230;]]>
-      </description>
-      <source:markdown>Chris Hall will be at the London Show on Saturday, 24th October, and has sent out an announcement of sorts – meaning it’s less of an announcement, and more of an article. And by “more of an article” I actually mean “an article” – he has provided an article to Archive Magazine, and says it will be appearing in the issue that will be available for subscribers to pick up at the show on Saturday, and talks about what visitors will be able to see on his stand. As the…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=11105</guid>
-      <category>Shows</category>
-      <category>Chris Hall</category>
-      <category>Impression</category>
-      <category>Linux</category>
-      <category>Raspberry Pi CM5</category>
-      <category>RISC OS on Linux</category>
-      <pubDate>Wed, 21 Oct 2026 21:15:51 +0000</pubDate>
-    </item>    <item>
-      <title>London Show, Saturday 24th October 2026</title>
-      <link>https://www.riscository.com/2026/london-show-saturday-24th-october-2026/</link>
-      <description>
-        <![CDATA[With the London Show now merely days away, a final announcement from its organisers has arrived &#8211; so over to the RISC OS User Group of London for some final words of persuasion in case you haven&#8217;t decided yet: This year&#8217;s RISC OS London Show is only a few days away and is looking like being the most exciting show for years with many announcements and new developments on display for the first time. Saturday 24th October 2026, open 11am &#8211; 4pm It is back at the same venue in&#8230;]]>
-      </description>
-      <source:markdown>With the London Show now merely days away, a final announcement from its organisers has arrived – so over to the RISC OS User Group of London for some final words of persuasion in case you haven’t decided yet: This year’s RISC OS London Show is only a few days away and is looking like being the most exciting show for years with many announcements and new developments on display for the first time. Saturday 24th October 2026, open 11am – 4pm It is back at the same venue in…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=11102</guid>
-      <category>Shows</category>
-      <category>London</category>
-      <category>ROUGOL</category>
-      <category>Show</category>
-      <pubDate>Wed, 21 Oct 2026 20:33:38 +0000</pubDate>
-    </item>    <item>
-      <title>Zerofill 4.10</title>
-      <link>https://sourceforge.net/p/freedos/news/2026/10/zerofill-410/</link>
-      <description>
-        <![CDATA[<div class="markdown_content"><p>Javier Gutiérrez Chamorro has made a huge update to his Zerofill tool, which fills empty space on a drive with zeroes (helps with virtual machine disk compression). Version 4.10 has huge improvements, including: Rewritten to avoid int64/long long so binary is smaller, Use bigger blocks and bigger file to make process twice as fast, Rewritten as TUI with WCONIO. Download and source code are available from <a href="https://sourceforge.net/projects/nikkhokkho/files/ZEROFILL/4.10/">Zerofill on Sourceforge</a></p></div>]]>
-      </description>
-      <source:markdown>Javier Gutiérrez Chamorro has made a huge update to his Zerofill tool, which fills empty space on a drive with zeroes (helps with virtual machine disk compression). Version 4.10 has huge improvements, including: Rewritten to avoid int64/long long so binary is smaller, Use bigger blocks and bigger file to make process twice as fast, Rewritten as TUI with WCONIO. Download and source code are available from [Zerofill on Sourceforge](https://sourceforge.net/projects/nikkhokkho/files/ZEROFILL/4.10/)</source:markdown>
-      <guid>cid://https://sourceforge.netefbc1b0c4cbfa4350140a361f3672eb72d0025a8</guid>
-      <pubDate>Wed, 21 Oct 2026 15:15:50 +0000</pubDate>
-    </item>    <item>
-      <title>ROD promises a Mega Demo for saturday London Show</title>
-      <link>http://www.iconbar.com/comments/rss/news2400.html</link>
-      <description>
-        <![CDATA[ROD are doing the first talk at saturday's London Show and promising a Mega Demo!]]>
-      </description>
-      <source:markdown>ROD are doing the first talk at saturday&#39;s London Show and promising a Mega Demo!</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2400.html</guid>
-      <pubDate>Wed, 21 Oct 2026 07:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

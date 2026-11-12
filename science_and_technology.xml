@@ -4,10 +4,139 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>11 Nov 26 06:45 -0800</lastBuildDate>
+    <lastBuildDate>12 Nov 26 06:46 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/</link>
+      <description>
+        <![CDATA[Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon’s Dogma 2: Dark Arisen brings new tales [&#8230;]]]>
+      </description>
+      <source:markdown>Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon’s Dogma 2: Dark Arisen brings new tales \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=99861</guid>
+      <category>Gaming</category>
+      <category>Cloud Gaming</category>
+      <category>GeForce NOW</category>
+      <pubDate>Thu, 12 Nov 2026 14:00:59 +0000</pubDate>
+    </item>    <item>
+      <title>NASA’s Hubble Offers Cosmic Sampler of Targets for Roman</title>
+      <link>https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/</link>
+      <description>
+        <![CDATA[A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.]]>
+      </description>
+      <source:markdown>A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/</guid>
+      <category>Astrophysics</category>
+      <category>Astrophysics Division</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Gravitational Lensing</category>
+      <category>Hubble Space Telescope</category>
+      <category>Nancy Grace Roman Space Telescope</category>
+      <category>The Universe</category>
+      <pubDate>Thu, 12 Nov 2026 13:18:40 +0000</pubDate>
+    </item>    <item>
+      <title>Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA</title>
+      <link>https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/</link>
+      <description>
+        <![CDATA[As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watched space shuttle Endeavour fly on top of the agency’s 747 Shuttle Carrier Aircraft for the last time. Endeavour’s new home [&#8230;]]]>
+      </description>
+      <source:markdown>As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watched space shuttle Endeavour fly on top of the agency’s 747 Shuttle Carrier Aircraft for the last time. Endeavour’s new home \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1064883</guid>
+      <category>Armstrong Flight Research Center</category>
+      <category>NASA Aircraft</category>
+      <category>NASA History</category>
+      <category>People of Armstrong</category>
+      <category>People of NASA</category>
+      <category>Space Shuttle</category>
+      <pubDate>Thu, 12 Nov 2026 13:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>I’m not descending into madness because mount and unmount icons make no sense</title>
+      <link>https://www.osnews.com/story/146312/im-not-descending-into-madness-because-mount-and-unmount-icons-make-no-sense/</link>
+      <description>
+        <![CDATA[There are many problems in this world &#8211; some big, some small, some so minute nobody ought to put them to paper at all. The problem I&#8217;m going to highlight here is even smaller than that. This literally &#8211; the actual literally &#8211; does not matter and absolutely nobody should care about it, let alone put any work into changing it or addressing it some other way. I want to talk about the iconography GNOME&#8217;s Disks utility uses to symbolise &#8220;mount&#8221; and &#8220;unmount&#8221;. No, I&#8217;m not descending into madness. GNOME&#8217;s Disks utility uses the &#8220;play&#8221; symbol on the mount button, and the &#8220;stop&#8221; symbol on the unmount button. Inexplicably, considering the state of the world in general and the rapidly deteriorating quality of software specifically, this bothers me. Out in the real world, built on decades of consistent use, these symbols have gained clearly defined meanings, and mounting and unmounting disks definitely isn&#8217;t one of them. In fact, the meaning of these symbols isn&#8217;t mere convention; they&#8217;re defined in a variety of international standards for symbols for use in software and on equipment, such as ISO/IEC 18035 (which you need to buy to read; my copy fell of a truck): ISO/IEC 18035:2002 defines a consistent set of icons and related functions that are represented by multimedia applications on a computer screen and that users interact with to control such applications. It describes controls applying to such functions as: Play, Pause, Stop, Rewind, Scan forward, Scan backward, Replay backward, Loop, Go to beginning, Go to previous, Go to next, Go to end, Set volume and Mute. ↫ ISO/IEC 18035:2003 They&#8217;re also part of ISO 7000/IEC 60417, a much larger, more encompassing standard that also contains things like the various symbols used on laundry machines, tumble dryers, in cars, and so on. The symbols themselves are much older than the standards, of course, with many of them dating back to the 1960s and possibly even 1950s. The point remains, though: the play and stop symbols have clearly defined meanings, and I don&#8217;t think they are at all a good fit for mount and unmount. The function of the &#8220;play&#8221; symbol according to ISO/IEC 18035: To enable the user to start the presentation of dynamic media, except where the task requires automatic playing of that media. ↫ ISO/IEC 18035:2003 And of the &#8220;stop&#8221; symbol: To enable the user to stop the presentation of dynamic media. ↫ ISO/IEC 18035:2003 Neither of these descriptions match what mounting and unmounting mean or do. Mounting a drive or partition doesn&#8217;t present any media at all; it merely makes the drive or partition in question accessible. Unmounting also doesn&#8217;t eject anything; it merely makes the drive or partition inaccessible. I would argue that play and pause act upon contents of a drive or volume, and not upon the drive or volume itself. As it stands right now, you &#8220;play&#8221; a drive&#8221; to &#8220;play&#8221; a video stored on said drive. Madness. I already know what you&#8217;re thinking, and yes, I agree that the Disks utility is a tool aimed at more advanced use cases and users, and most normal, average users will never even know it exists, let alone open it at all. Very few people get to see these symbols, and those that do already know full well what mounting and unmounting mean, reducing the importance of said symbols considerably. But now it&#8217;s time for the big surprise, the twist in the story that turns this entire thing on its head. Files, GNOME&#8217;s file manager, uses an entirely different symbol for unmounting! Instead of the &#8220;stop&#8221; symbol, Files uses the &#8220;eject&#8221; symbol. You may think this is a more accurate visual representation of what unmounting means, but I strongly disagree. Let&#8217;s turn to ISO/IEC 18035:2003 once again: To enable the user to eject the current physical media from the appropriate drive. ↫ ISO/IEC 18035:2003 Unmounting doesn&#8217;t eject anything! If you unmount a USB stick, the stick doesn&#8217;t get fired out of the USB port. If you unmount a volume, it doesn&#8217;t get removed from the SSD. Hell, if you unmount a CD-ROM, it doesn&#8217;t even eject it! Ejecting a CD-ROM &#8211; opening the drive&#8217;s tray or spitting the CD-ROM out of a slot-loader &#8211; is an entirely different act! Are we really &#8220;ejecting&#8221; a CD-ROM twice? Are we &#8220;mounting&#8221; a CD-ROM when we merely close the tray? No! Madness! The real underlying problem here is, of course, that mounting and unmounting are deeply weird and confusing concepts, bordering on the esoteric, that simply do not have physical equivalents to fall back on. Using symbols and iconography designed in the 1960s explicitly for playing music or stopping a video or ejecting a cassette tape are not a good fit for something as difficult to explain to most people as mounting and unmounting. It&#8217;s like putting an eject symbol on a car&#8217;s door handle or a play symbol on a soap dispenser. Should GNOME developers waste any time or resources to address this? No, of course not, that would be stupid. Nobody should care about this but me. I should suffer in silence, every time I need to mount or unmount something, forced to look for an eject or stop symbol in whatever user interface I happen to be using. Every time, I should die a little inside. Please, don&#8217;t be like me and waste precious resources thinking about this. I&#8217;m not descending into madness. I just want mount and unmount symbols that make sense. I&#8217;m not descending into madness.]]>
+      </description>
+      <source:markdown>There are many problems in this world – some big, some small, some so minute nobody ought to put them to paper at all. The problem I’m going to highlight here is even smaller than that. This literally – the actual literally – does not matter and absolutely nobody should care about it, let alone put any work into changing it or addressing it some other way. I want to talk about the iconography GNOME’s Disks utility uses to symbolise “mount” and “unmount”. No, I’m not descending into madness. GNOME’s Disks utility uses the “play” symbol on the mount button, and the “stop” symbol on the unmount button. Inexplicably, considering the state of the world in general and the rapidly deteriorating quality of software specifically, this bothers me. Out in the real world, built on decades of consistent use, these symbols have gained clearly defined meanings, and mounting and unmounting disks definitely isn’t one of them. In fact, the meaning of these symbols isn’t mere convention; they’re defined in a variety of international standards for symbols for use in software and on equipment, such as ISO/IEC 18035 (which you need to buy to read; my copy fell of a truck): ISO/IEC 18035:2002 defines a consistent set of icons and related functions that are represented by multimedia applications on a computer screen and that users interact with to control such applications. It describes controls applying to such functions as: Play, Pause, Stop, Rewind, Scan forward, Scan backward, Replay backward, Loop, Go to beginning, Go to previous, Go to next, Go to end, Set volume and Mute. ↫ ISO/IEC 18035:2003 They’re also part of ISO 7000/IEC 60417, a much larger, more encompassing standard that also contains things like the various symbols used on laundry machines, tumble dryers, in cars, and so on. The symbols themselves are much older than the standards, of course, with many of them dating back to the 1960s and possibly even 1950s. The point remains, though: the play and stop symbols have clearly defined meanings, and I don’t think they are at all a good fit for mount and unmount. The function of the “play” symbol according to ISO/IEC 18035: To enable the user to start the presentation of dynamic media, except where the task requires automatic playing of that media. ↫ ISO/IEC 18035:2003 And of the “stop” symbol: To enable the user to stop the presentation of dynamic media. ↫ ISO/IEC 18035:2003 Neither of these descriptions match what mounting and unmounting mean or do. Mounting a drive or partition doesn’t present any media at all; it merely makes the drive or partition in question accessible. Unmounting also doesn’t eject anything; it merely makes the drive or partition inaccessible. I would argue that play and pause act upon contents of a drive or volume, and not upon the drive or volume itself. As it stands right now, you “play” a drive” to “play” a video stored on said drive. Madness. I already know what you’re thinking, and yes, I agree that the Disks utility is a tool aimed at more advanced use cases and users, and most normal, average users will never even know it exists, let alone open it at all. Very few people get to see these symbols, and those that do already know full well what mounting and unmounting mean, reducing the importance of said symbols considerably. But now it’s time for the big surprise, the twist in the story that turns this entire thing on its head. Files, GNOME’s file manager, uses an entirely different symbol for unmounting! Instead of the “stop” symbol, Files uses the “eject” symbol. You may think this is a more accurate visual representation of what unmounting means, but I strongly disagree. Let’s turn to ISO/IEC 18035:2003 once again: To enable the user to eject the current physical media from the appropriate drive. ↫ ISO/IEC 18035:2003 Unmounting doesn’t eject anything! If you unmount a USB stick, the stick doesn’t get fired out of the USB port. If you unmount a volume, it doesn’t get removed from the SSD. Hell, if you unmount a CD-ROM, it doesn’t even eject it! Ejecting a CD-ROM – opening the drive’s tray or spitting the CD-ROM out of a slot-loader – is an entirely different act! Are we really “ejecting” a CD-ROM twice? Are we “mounting” a CD-ROM when we merely close the tray? No! Madness! The real underlying problem here is, of course, that mounting and unmounting are deeply weird and confusing concepts, bordering on the esoteric, that simply do not have physical equivalents to fall back on. Using symbols and iconography designed in the 1960s explicitly for playing music or stopping a video or ejecting a cassette tape are not a good fit for something as difficult to explain to most people as mounting and unmounting. It’s like putting an eject symbol on a car’s door handle or a play symbol on a soap dispenser. Should GNOME developers waste any time or resources to address this? No, of course not, that would be stupid. Nobody should care about this but me. I should suffer in silence, every time I need to mount or unmount something, forced to look for an eject or stop symbol in whatever user interface I happen to be using. Every time, I should die a little inside. Please, don’t be like me and waste precious resources thinking about this. I’m not descending into madness. I just want mount and unmount symbols that make sense. I’m not descending into madness.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146312</guid>
+      <category>Clown car</category>
+      <pubDate>Thu, 12 Nov 2026 10:13:58 +0000</pubDate>
+    </item>    <item>
+      <title>APOD: 2026 November 12 – Moon, Venus and Spica Meet</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Moon, Venus and [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Moon, Venus and \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/</guid>
+      <category>APOD</category>
+      <pubDate>Thu, 12 Nov 2026 05:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>Scotland’s Flow Country</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/</link>
+      <description>
+        <![CDATA[Blanket bogs in the Scottish Highlands store vast amounts of carbon.]]>
+      </description>
+      <source:markdown>Blanket bogs in the Scottish Highlands store vast amounts of carbon.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/</guid>
+      <category>Earth Observatory</category>
+      <category>Land Cover</category>
+      <category>Landsat 8 / LDCM (Landsat Data Continuity Mission)</category>
+      <category>Surface Water</category>
+      <category>Vegetation</category>
+      <pubDate>Thu, 12 Nov 2026 05:01:00 +0000</pubDate>
+    </item>    <item>
+      <title>Curiosity Blog, Sols 5063-5069 Rocks and Chips</title>
+      <link>https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/</link>
+      <description>
+        <![CDATA[Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretation, potato chip shaped … see linked image) crystal forms. A […]]]>
+      </description>
+      <source:markdown>Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretation, potato chip shaped … see linked image) crystal forms. A \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/</guid>
+      <category>Blogs</category>
+      <pubDate>Thu, 12 Nov 2026 00:41:35 +0000</pubDate>
+    </item>    <item>
+      <title>Haiku gets multifinger touchpad taps</title>
+      <link>https://www.osnews.com/story/146350/haiku-gets-multifinger-touchpad-taps/</link>
+      <description>
+        <![CDATA[We&#8217;re almost halfway through November, but we hadn&#8217;t seen Haiku&#8217;s monthly activity report for October yet. It&#8217;s here now, and there&#8217;s quite a few good things in here, like support for two and three-finger tap gestures on touchpads for right and middle-click, a new driver that adds Universal Flash Storage support, and even some build fixes for Haiku&#8217;s SPARC port as well as some fixes on the RISC-V side. Of course, that&#8217;s just a selection, as there&#8217;s the usual long list of smaller changes, bugfixes, and improvements as well.]]>
+      </description>
+      <source:markdown>We’re almost halfway through November, but we hadn’t seen Haiku’s monthly activity report for October yet. It’s here now, and there’s quite a few good things in here, like support for two and three-finger tap gestures on touchpads for right and middle-click, a new driver that adds Universal Flash Storage support, and even some build fixes for Haiku’s SPARC port as well as some fixes on the RISC-V side. Of course, that’s just a selection, as there’s the usual long list of smaller changes, bugfixes, and improvements as well.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146350</guid>
+      <category>Haiku</category>
+      <pubDate>Wed, 11 Nov 2026 15:22:35 +0000</pubDate>
+    </item>    <item>
+      <title>Microsoft releases .NET 11</title>
+      <link>https://www.osnews.com/story/146348/microsoft-releases-net-11/</link>
+      <description>
+        <![CDATA[Today, we’re excited to announce the release of .NET 11! This year’s release makes building modern applications faster, more productive, and has improvements across C# 15, ASP.NET Core, .NET MAUI, and Windows development. With hundreds of runtime optimizations, more responsive SDK tooling, and less overhead in everyday commands, you can spend less time waiting and more time creating. Build richer web and cross-platform applications, take advantage of new C# language features, and explore AI-powered development with improved tools and agentic capabilities. ↫ .NET Team I&#8217;m not going to pretend to care about .NET, but I know many of you have to care on a professional level, because .NET is remarkably popular in places where the spotlights don&#8217;t often shine.]]>
+      </description>
+      <source:markdown>Today, we’re excited to announce the release of .NET 11! This year’s release makes building modern applications faster, more productive, and has improvements across C# 15, ASP.NET Core, .NET MAUI, and Windows development. With hundreds of runtime optimizations, more responsive SDK tooling, and less overhead in everyday commands, you can spend less time waiting and more time creating. Build richer web and cross-platform applications, take advantage of new C# language features, and explore AI-powered development with improved tools and agentic capabilities. ↫ .NET Team I’m not going to pretend to care about .NET, but I know many of you have to care on a professional level, because .NET is remarkably popular in places where the spotlights don’t often shine.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146348</guid>
+      <category>.NET</category>
+      <pubDate>Wed, 11 Nov 2026 15:13:05 +0000</pubDate>
+    </item>    <item>
+      <title>How a Metabolic Spark Could Have Jump-Started Life</title>
+      <link>https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/</link>
+      <description>
+        <![CDATA[Energetic pathways that make and break complex molecules are critical to all life. It’s even possible that these self-sustaining cycles could have been key at life’s beginning.            <p>The post <a href="https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/" target="_blank">How a Metabolic Spark Could Have Jump-Started Life</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Energetic pathways that make and break complex molecules are critical to all life. It’s even possible that these self-sustaining cycles could have been key at life’s beginning.
+
+The post [How a Metabolic Spark Could Have Jump-Started Life](https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=168766</guid>
+      <category>Biology</category>
+      <pubDate>Wed, 11 Nov 2026 15:10:30 +0000</pubDate>
+    </item>    <item>
+      <title>What if any process could handle SIGKILL?</title>
+      <link>https://www.osnews.com/story/146346/what-if-any-process-could-handle-sigkill/</link>
+      <description>
+        <![CDATA[An interesting question, and a detailed technical rundown of how to make this happen, which involved building a custom Linux kernel, of course. I really, really enjoy the conclusion. And you know? It turned out fine. Nothing exploded on my system. As I could predict, because this was otherwise impossible, nobody did it. The signal system was setup in such a way that you would most likely realize something you were doing was wrong, and not try it. To pull back further, it is interesting to notice how the rules we all take for granted are just set somewhere in code. They were written by someone, at some point. If there is code restricting you from doing something, someone wrote it. Either they did not think anyone would want to do that thing, or they specifically prevented you from doing it. Those rules are written somewhere, and you can take it in your paws to go sniff around the code, pull out the relevant parts, and hack around the things that bother you. For fun, learning, or convenience. Snoop around. Sniff code. Put your paws in it. Hack shit. ↫ lux at VulpineCitrus Even if there&#8217;s no real reason to do, even if it&#8217;s just to satiate an odd and possibly slightly morbid sense of curiosity, fuck with code.]]>
+      </description>
+      <source:markdown>An interesting question, and a detailed technical rundown of how to make this happen, which involved building a custom Linux kernel, of course. I really, really enjoy the conclusion. And you know? It turned out fine. Nothing exploded on my system. As I could predict, because this was otherwise impossible, nobody did it. The signal system was setup in such a way that you would most likely realize something you were doing was wrong, and not try it. To pull back further, it is interesting to notice how the rules we all take for granted are just set somewhere in code. They were written by someone, at some point. If there is code restricting you from doing something, someone wrote it. Either they did not think anyone would want to do that thing, or they specifically prevented you from doing it. Those rules are written somewhere, and you can take it in your paws to go sniff around the code, pull out the relevant parts, and hack around the things that bother you. For fun, learning, or convenience. Snoop around. Sniff code. Put your paws in it. Hack shit. ↫ lux at VulpineCitrus Even if there’s no real reason to do, even if it’s just to satiate an odd and possibly slightly morbid sense of curiosity, fuck with code.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146346</guid>
+      <category>Linux</category>
+      <pubDate>Wed, 11 Nov 2026 15:10:17 +0000</pubDate>
+    </item>    <item>
       <title>A Rare Surviving Letter From Martha Washington Sheds Light on Her Young Daughter&#39;s Struggle With Epilepsy</title>
       <link>https://www.smithsonianmag.com/smart-news/a-rare-surviving-letter-from-martha-washington-sheds-light-on-her-young-daughters-struggle-with-epilepsy-180989858/</link>
       <description>
@@ -3419,363 +3548,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <category>Goddard Space Flight Center</category>
       <category>Science Mission Directorate</category>
       <pubDate>Thu, 22 Oct 2026 00:00:16 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions</title>
-      <link>https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/</link>
-      <description>
-        <![CDATA[NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket. During [&#8230;]]]>
-      </description>
-      <source:markdown>NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket. During \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1058381</guid>
-      <category>RS-25</category>
-      <category>Stennis Space Center</category>
-      <category>Stennis Test Facility and Support Infrastructure</category>
-      <pubDate>Wed, 21 Oct 2026 20:51:50 +0000</pubDate>
-    </item>    <item>
-      <title>Archaeologists May Have Solved the Mystery of a Roman Sarcophagus Excavated at Westminster Abbey in 1869</title>
-      <link>https://www.smithsonianmag.com/smart-news/archaeologists-may-have-solved-the-mystery-of-a-roman-sarcophagus-excavated-at-westminster-abbey-in-1869-180989732/</link>
-      <description>
-        <![CDATA[New research suggests that the ancient coffin was repurposed in the 10th or 11th century to hold the remains of an abbot who had overseen the London monastery]]>
-      </description>
-      <source:markdown>New research suggests that the ancient coffin was repurposed in the 10th or 11th century to hold the remains of an abbot who had overseen the London monastery</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/7IRa04gtSbZbQFUDj22TLtWEorM=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/23/9e/239ef087-4c00-4afc-a727-0299d689db31/sarcophagus.png" length="2699470" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/archaeologists-may-have-solved-the-mystery-of-a-roman-sarcophagus-excavated-at-westminster-abbey-in-1869-180989732/</guid>
-      <pubDate>Wed, 21 Oct 2026 20:34:09 +0000</pubDate>
-    </item>    <item>
-      <title>African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They&#39;ve Died, Study Suggests</title>
-      <link>https://www.smithsonianmag.com/smart-news/african-elephants-shape-the-savanna-ecosystem-and-continue-doing-so-long-after-theyve-died-study-suggests-180989718/</link>
-      <description>
-        <![CDATA[At first, plants below an elephant carcass die. Soil microbes and plants grow back soon after, but only a few select species. Herbivores later come in to munch on the nutrient-rich greens]]>
-      </description>
-      <source:markdown>At first, plants below an elephant carcass die. Soil microbes and plants grow back soon after, but only a few select species. Herbivores later come in to munch on the nutrient-rich greens</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Ldoa_yzKh-4GupRX9_luaREuk28=/420x240/filters:focal(1170x646:1171x647)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/73/c1/73c1ef6c-fdf0-4a01-9bd6-76c0091aa45d/gozi_east-elephan-carcass.jpg" length="1243266" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/african-elephants-shape-the-savanna-ecosystem-and-continue-doing-so-long-after-theyve-died-study-suggests-180989718/</guid>
-      <pubDate>Wed, 21 Oct 2026 18:47:22 +0000</pubDate>
-    </item>    <item>
-      <title>NASA JPL Looks to Next 90 Years of Innovation, Exploration</title>
-      <link>https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/</link>
-      <description>
-        <![CDATA[Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years later, the lab, now managed by Caltech for NASA, isn’t [&#8230;]]]>
-      </description>
-      <source:markdown>Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years later, the lab, now managed by Caltech for NASA, isn’t \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1058236</guid>
-      <category>Jet Propulsion Laboratory</category>
-      <pubDate>Wed, 21 Oct 2026 18:35:56 +0000</pubDate>
-    </item>    <item>
-      <title>Shanghai&#39;s &#39;Audacious&#39; New Opera House Just Opened Its Doors—and a Gravity-Defying Staircase—to the Public</title>
-      <link>https://www.smithsonianmag.com/smart-news/shanghais-audacious-new-opera-house-just-opened-its-doors-and-a-gravity-defying-staircase-to-the-public-180989726/</link>
-      <description>
-        <![CDATA[The riverfront opera house is Shanghai's latest cultural statement. It features three performance halls and is designed to be accessible to everyone, not just ticket-holders]]>
-      </description>
-      <source:markdown>The riverfront opera house is Shanghai&#39;s latest cultural statement. It features three performance halls and is designed to be accessible to everyone, not just ticket-holders</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/PuU0Q0NKrZwe4QApxzjP3yTre74=/420x240/filters:focal(1886x2443:1887x2444)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3c/32/3c32ba4c-9478-4408-b03f-c17d1e317dd3/shanghai_1.png" length="18914401" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/shanghais-audacious-new-opera-house-just-opened-its-doors-and-a-gravity-defying-staircase-to-the-public-180989726/</guid>
-      <pubDate>Wed, 21 Oct 2026 17:50:54 +0000</pubDate>
-    </item>    <item>
-      <title>NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama</title>
-      <link>https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/</link>
-      <description>
-        <![CDATA[As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&#38;M football game in Tuscaloosa, Alabama, on Saturday, Oct. 24. NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets during the flyover, highlighting NASA&#8217;s contributions to aeronautics and the agency&#8217;s continued commitment to [&#8230;]]]>
-      </description>
-      <source:markdown>As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&#38;M football game in Tuscaloosa, Alabama, on Saturday, Oct. 24. NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets during the flyover, highlighting NASA’s contributions to aeronautics and the agency’s continued commitment to \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1058161</guid>
-      <category>Marshall Space Flight Center</category>
-      <category>Aeronautics</category>
-      <category>General</category>
-      <category>NASA Aircraft</category>
-      <category>NASA Headquarters</category>
-      <pubDate>Wed, 21 Oct 2026 16:31:11 +0000</pubDate>
-    </item>    <item>
-      <title>Where Exactly Were the First Humans to Be Captured in a Photograph Standing? Three Obsessed Filmmakers Solved the Nearly 200-Year-Old Mystery</title>
-      <link>https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/</link>
-      <description>
-        <![CDATA[The sleuths spent two years digging into archives and building 3D models of 19th-century Paris. The location is now immortalized by a bronze plaque celebrating the historic site and the "poetic" early photograph]]>
-      </description>
-      <source:markdown>The sleuths spent two years digging into archives and building 3D models of 19th-century Paris. The location is now immortalized by a bronze plaque celebrating the historic site and the &#34;poetic&#34; early photograph</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/JzqTXpDuxCMPf42-Ab3ZL7R7YfI=/420x240/filters:focal(1720x1147:1721x1148)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/eb/b5/ebb52ce7-6bce-4a5f-866f-07208a301b70/boulevard_du_temple_by_daguerre.jpeg" length="4123466" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/</guid>
-      <pubDate>Wed, 21 Oct 2026 16:29:02 +0000</pubDate>
-    </item>    <item>
-      <title>She Painted the First Known Self-Portrait of an Artist at Work—and Signed It—Nearly 500 Years Ago. Who Was Catharina van Hemessen?</title>
-      <link>https://www.smithsonianmag.com/smart-news/she-painted-first-known-self-portrait-an-artist-at-work-and-signed-it-nearly-500-years-ago-who-was-catharina-van-hemessen-180989724/</link>
-      <description>
-        <![CDATA[Few women worked as professional artists in the 16th century. A new exhibition in Antwerp, Belgium, seeks to restore this Flemish painter to the pantheon of art history giants]]>
-      </description>
-      <source:markdown>Few women worked as professional artists in the 16th century. A new exhibition in Antwerp, Belgium, seeks to restore this Flemish painter to the pantheon of art history giants</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/prn5rhIxhVeOd3SUtWW09AWLex4=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/35/b5/35b53d93-481f-4c74-8a24-6d26bc3f7175/catharina2.png" length="749050" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/she-painted-first-known-self-portrait-an-artist-at-work-and-signed-it-nearly-500-years-ago-who-was-catharina-van-hemessen-180989724/</guid>
-      <pubDate>Wed, 21 Oct 2026 16:01:03 +0000</pubDate>
-    </item>    <item>
-      <title>These Snakes Can Cartwheel Away From Danger. Scientists Just Uncovered How the Slithering Creatures Perform Their Acrobatic Rolls</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-snakes-can-cartwheel-away-from-danger-scientists-just-uncovered-how-the-slithering-creatures-perform-their-acrobatic-rolls-180989720/</link>
-      <description>
-        <![CDATA[When they're rolling, some snakes belonging to the Pseudorabdion genus can reach top speeds of 3.8 to 8.3 miles per hour, according to a new study]]>
-      </description>
-      <source:markdown>When they&#39;re rolling, some snakes belonging to the Pseudorabdion genus can reach top speeds of 3.8 to 8.3 miles per hour, according to a new study</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/a53K_NGvMZuh9jiAvOqHUqyOxdU=/420x240/filters:focal(2286x578:2287x579)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8f/0c/8f0c4a10-bd7d-4893-a6b3-8e15f95356a8/image.jpg" length="495560" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/these-snakes-can-cartwheel-away-from-danger-scientists-just-uncovered-how-the-slithering-creatures-perform-their-acrobatic-rolls-180989720/</guid>
-      <pubDate>Wed, 21 Oct 2026 16:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Tracks Along the Longest Drive on Another World</title>
-      <link>https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/</link>
-      <description>
-        <![CDATA[Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reached 45.22 kilometers (28.10 miles), setting a new record for the farthest distance driven on another celestial […]]]>
-      </description>
-      <source:markdown>Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reached 45.22 kilometers (28.10 miles), setting a new record for the farthest distance driven on another celestial \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/</guid>
-      <category>Blogs</category>
-      <pubDate>Wed, 21 Oct 2026 15:50:44 +0000</pubDate>
-    </item>    <item>
-      <title>Science on the Space Station with NASA Astronaut Jessica Watkins</title>
-      <link>https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/</link>
-      <description>
-        <![CDATA[NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module&#8217;s Life Science Glovebox on Oct. 9, 2026, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture. The advanced research operations were part of the InSPA‑Auxilium Bioprinter‑Cell Printing investigation, which explores 3D [&#8230;]]]>
-      </description>
-      <source:markdown>NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module’s Life Science Glovebox on Oct. 9, 2026, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture. The advanced research operations were part of the InSPA‑Auxilium Bioprinter‑Cell Printing investigation, which explores 3D \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1057777</guid>
-      <category>ISS Research</category>
-      <category>Jessica Watkins</category>
-      <pubDate>Wed, 21 Oct 2026 15:05:08 +0000</pubDate>
-    </item>    <item>
-      <title>See Inside Cells Like Never Before in These Vivid Microscopic Images</title>
-      <link>https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/</link>
-      <description>
-        <![CDATA[Winning entries in the 2026 Nikon Small World competitions reveal the hidden interactions that govern everyday life.            <p>The post <a href="https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/" target="_blank">See Inside Cells Like Never Before in These Vivid Microscopic Images</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Winning entries in the 2026 Nikon Small World competitions reveal the hidden interactions that govern everyday life.
-
-The post [See Inside Cells Like Never Before in These Vivid Microscopic Images](https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=168082</guid>
-      <category>Biology</category>
-      <pubDate>Wed, 21 Oct 2026 14:00:07 +0000</pubDate>
-    </item>    <item>
-      <title>See the Scientific and the Mundane Become Surprisingly Dazzling When Viewed Through a Microscope, From Neurons to Ballpoint Pens</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-the-scientific-and-the-mundane-become-surprisingly-dazzling-when-viewed-through-a-microscope-from-neurons-to-ballpoint-pens-180989721/</link>
-      <description>
-        <![CDATA[The Nikon Small World Competition has announced its photography winners for its 52nd annual contest. This comes weeks after its video winner was dethroned for use of generative A.I.]]>
-      </description>
-      <source:markdown>The Nikon Small World Competition has announced its photography winners for its 52nd annual contest. This comes weeks after its video winner was dethroned for use of generative A.I.</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/apgdjH2gPJdC9JxYCGf4hz_omPI=/420x240/filters:focal(905x526:906x527)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/14/29/1429993b-ad63-4362-a37a-29d8471aff3b/3rd_-_2026_wulf_kaelin_e43619_f28742_1.png" length="3402217" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-scientific-and-the-mundane-become-surprisingly-dazzling-when-viewed-through-a-microscope-from-neurons-to-ballpoint-pens-180989721/</guid>
-      <pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>In a First, Astronomers Identify a Star That Might Glow Green. New Research Highlights the Strange Hues White Dwarfs Can Take on</title>
-      <link>https://www.smithsonianmag.com/smart-news/in-a-first-astronomers-identify-a-star-that-might-glow-green-new-research-highlights-the-strange-hues-white-dwarfs-can-take-on-180989719/</link>
-      <description>
-        <![CDATA[White dwarf stars are too far from Earth to be observed directly. So, scientists reconstructed how they'd look to human eyes based on the wavelengths of light they emit and found a colorful array of objects that might appear yellow, purple or pink]]>
-      </description>
-      <source:markdown>White dwarf stars are too far from Earth to be observed directly. So, scientists reconstructed how they&#39;d look to human eyes based on the wavelengths of light they emit and found a colorful array of objects that might appear yellow, purple or pink</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/uXm6N0kS9ds8hBFuBigEG4Qx3wE=/420x240/filters:focal(640x640:641x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5b/9f/5b9ff64c-cba5-42ba-aef6-ec6f419254f7/green_wd_credit_mark-garlick_university-of-warwick.webp" length="31138" type="image/webp" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/in-a-first-astronomers-identify-a-star-that-might-glow-green-new-research-highlights-the-strange-hues-white-dwarfs-can-take-on-180989719/</guid>
-      <pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface</title>
-      <link>https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/</link>
-      <description>
-        <![CDATA[From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to adaptively ‘sweep’ large swaths of Earth’s surface. This […]]]>
-      </description>
-      <source:markdown>From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to adaptively ‘sweep’ large swaths of Earth’s surface. This \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/</guid>
-      <category>3D Resources</category>
-      <category>Earth Science</category>
-      <category>Earth Surface &#38; Interior</category>
-      <category>Science Instruments</category>
-      <category>Technology Highlights</category>
-      <pubDate>Wed, 21 Oct 2026 12:17:58 +0000</pubDate>
-    </item>    <item>
-      <title>To Understand Social Divides in Medieval England, Archaeologists Examined Tooth Enamel From Lead Mining Communities</title>
-      <link>https://www.smithsonianmag.com/smart-news/to-understand-social-divides-in-medieval-england-archaeologists-examined-tooth-enamel-from-lead-mining-communities-180989722/</link>
-      <description>
-        <![CDATA[Some residents of the Peaks District in the 13th century may have experienced worse lead pollution than city-dwellers during the Industrial Revolution. Female skeletons showed higher lead levels and earlier ages of death]]>
-      </description>
-      <source:markdown>Some residents of the Peaks District in the 13th century may have experienced worse lead pollution than city-dwellers during the Industrial Revolution. Female skeletons showed higher lead levels and earlier ages of death</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/fsVLl_Kv-6z3JhrehtV3vIyRXaY=/420x240/filters:focal(450x253:451x254)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/06/1f/061f4e31-ba3b-4dab-8937-adf2d2b74242/urn_cambridgeorg_id_binary-alt_20261002030248-45366-optimisedimage-png-s0003598x26104165_figab.jpg" length="930517" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/to-understand-social-divides-in-medieval-england-archaeologists-examined-tooth-enamel-from-lead-mining-communities-180989722/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/</link>
-      <description>
-        <![CDATA[At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on Linux, with a Windows version arriving in December. Announcements include: [&#8230;]]]>
-      </description>
-      <source:markdown>At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on Linux, with a Windows version arriving in December. Announcements include: \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=99244</guid>
-      <category>AI</category>
-      <category>Agentic AI</category>
-      <category>Artificial Intelligence</category>
-      <category>DGX Spark</category>
-      <category>GTC 2026</category>
-      <category>Local AI</category>
-      <category>NVIDIA RTX</category>
-      <category>Open Source</category>
-      <category>RTX AI Garage</category>
-      <category>RTX Spark</category>
-      <pubDate>Wed, 21 Oct 2026 10:50:37 +0000</pubDate>
-    </item>    <item>
-      <title>Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure</title>
-      <link>https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/</link>
-      <description>
-        <![CDATA[General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9 SuperNICs, Google Cloud Virgo Network and Google Cloud’s fourth-generation advanced liquid-cooling technology for demanding [&#8230;]]]>
-      </description>
-      <source:markdown>General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9 SuperNICs, Google Cloud Virgo Network and Google Cloud’s fourth-generation advanced liquid-cooling technology for demanding \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=99227</guid>
-      <category>AI Infrastructure</category>
-      <category>Cloud</category>
-      <category>Hardware</category>
-      <category>Networking</category>
-      <category>GTC 2026</category>
-      <category>Nemotron</category>
-      <category>NVIDIA DSX</category>
-      <category>NVIDIA Vera Rubin</category>
-      <category>OpenShell</category>
-      <pubDate>Wed, 21 Oct 2026 10:45:17 +0000</pubDate>
-    </item>    <item>
-      <title>NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents</title>
-      <link>https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/</link>
-      <description>
-        <![CDATA[Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design.  NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for [&#8230;]]]>
-      </description>
-      <source:markdown>Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design.  NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=99232</guid>
-      <category>AI Infrastructure</category>
-      <category>Cloud</category>
-      <category>Cosmos</category>
-      <category>GTC 2026</category>
-      <category>Nemotron</category>
-      <category>NVIDIA BlueField</category>
-      <category>NVIDIA DSX</category>
-      <category>NVIDIA in Europe</category>
-      <category>NVIDIA Spectrum-X Ethernet</category>
-      <category>NVIDIA Vera</category>
-      <category>OpenShell</category>
-      <pubDate>Wed, 21 Oct 2026 10:30:41 +0000</pubDate>
-    </item>    <item>
-      <title>Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA</title>
-      <link>https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/</link>
-      <description>
-        <![CDATA[To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open models, across the engineering and manufacturing lifecycle.  Bringing those capabilities together on the factory floor, the NVIDIA Factory Operations Blueprint (FOX) is now available in [&#8230;]]]>
-      </description>
-      <source:markdown>To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open models, across the engineering and manufacturing lifecycle.  Bringing those capabilities together on the factory floor, the NVIDIA Factory Operations Blueprint (FOX) is now available in \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=99195</guid>
-      <category>AI</category>
-      <category>Cosmos</category>
-      <category>CUDA-X</category>
-      <category>GTC 2026</category>
-      <pubDate>Wed, 21 Oct 2026 10:30:40 +0000</pubDate>
-    </item>    <item>
-      <title>NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations</title>
-      <link>https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/</link>
-      <description>
-        <![CDATA[NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs.  Complex engineering feats — from advanced chips to aircraft to industrial systems —– depend on simulation to predict how designs will perform before they’re built. As designs become more complex, simulations [&#8230;]]]>
-      </description>
-      <source:markdown>NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs.  Complex engineering feats — from advanced chips to aircraft to industrial systems —– depend on simulation to predict how designs will perform before they’re built. As designs become more complex, simulations \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=99204</guid>
-      <category>AI</category>
-      <category>CUDA-X</category>
-      <category>GTC 2026</category>
-      <category>Scientific Visualization</category>
-      <category>Simulation</category>
-      <pubDate>Wed, 21 Oct 2026 10:30:25 +0000</pubDate>
-    </item>    <item>
-      <title>NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure</title>
-      <link>https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/</link>
-      <description>
-        <![CDATA[NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy agents at scale. NVIDIA Confidential Computing is the infrastructure layer that protects the models and data those agents depend on while running. Today, NVIDIA [&#8230;]]]>
-      </description>
-      <source:markdown>NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy agents at scale. NVIDIA Confidential Computing is the infrastructure layer that protects the models and data those agents depend on while running. Today, NVIDIA \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=99214</guid>
-      <category>AI</category>
-      <category>AI Infrastructure</category>
-      <category>GTC 2026</category>
-      <category>NVIDIA Blackwell</category>
-      <category>NVIDIA Vera Rubin</category>
-      <pubDate>Wed, 21 Oct 2026 10:30:02 +0000</pubDate>
-    </item>    <item>
-      <title>NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data</title>
-      <link>https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/</link>
-      <description>
-        <![CDATA[Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within.  Leading enterprises are using the open source NVIDIA Agent Toolkit — now expanded with new tools — to customize and control agents, use company data to inform their answers and actions, monitor what they do and [&#8230;]]]>
-      </description>
-      <source:markdown>Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within.  Leading enterprises are using the open source NVIDIA Agent Toolkit — now expanded with new tools — to customize and control agents, use company data to inform their answers and actions, monitor what they do and \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=99221</guid>
-      <category>AI</category>
-      <category>Software</category>
-      <category>Agentic AI</category>
-      <category>GTC 2026</category>
-      <category>OpenShell</category>
-      <pubDate>Wed, 21 Oct 2026 10:10:01 +0000</pubDate>
-    </item>    <item>
-      <title>NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries</title>
-      <link>https://blogs.nvidia.com/blog/open-models-europe-industry/</link>
-      <description>
-        <![CDATA[NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what they need to build applications tailored to local languages and industries The portfolio includes the new NVIDIA Nemotron 3.5 Super VL and Nemotron 3.5 Bolt models; new NVIDIA Nemotron Retriever models for embedding, reranking [&#8230;]]]>
-      </description>
-      <source:markdown>NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what they need to build applications tailored to local languages and industries The portfolio includes the new NVIDIA Nemotron 3.5 Super VL and Nemotron 3.5 Bolt models; new NVIDIA Nemotron Retriever models for embedding, reranking \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=99217</guid>
-      <category>AI</category>
-      <category>Driving</category>
-      <category>Software</category>
-      <category>Agentic AI</category>
-      <category>Cosmos</category>
-      <category>GTC 2026</category>
-      <category>Healthcare and Life Sciences</category>
-      <category>Nemotron</category>
-      <category>Open Source</category>
-      <category>Physical AI</category>
-      <category>Quantum Computing</category>
-      <pubDate>Wed, 21 Oct 2026 10:00:07 +0000</pubDate>
-    </item>    <item>
-      <title>GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote</title>
-      <link>https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/</link>
-      <description>
-        <![CDATA[Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permanent home has since hosted concerts, galas and political events. Today, it hosts a different kind of spectacle. GTC Berlin runs three days, with more than 100 sessions on agentic AI, robotics, [&#8230;]]]>
-      </description>
-      <source:markdown>Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permanent home has since hosted concerts, galas and political events. Today, it hosts a different kind of spectacle. GTC Berlin runs three days, with more than 100 sessions on agentic AI, robotics, \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=99238</guid>
-      <category>AI</category>
-      <category>Artificial Intelligence</category>
-      <category>Events</category>
-      <pubDate>Wed, 21 Oct 2026 09:30:16 +0000</pubDate>
-    </item>    <item>
-      <title>Can planting more trees make allergies worse?</title>
-      <link>https://www.npr.org/2026/10/21/nx-s1-5953066/fall-allergies-pollen-trees-asthma</link>
-      <description>
-        <![CDATA[Trees provide shade and clean air in congested cities, so planting more of them seems like a straightforward solution. But trees also produce a natural pollutant— pollen. In this episode, producer Juan Diego Ramirez reports on the link between growing urban canopies and allergy exposure, and what you can do to protect yourself.<br/><br/><em>Interested in more health stories? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Trees provide shade and clean air in congested cities, so planting more of them seems like a straightforward solution. But trees also produce a natural pollutant— pollen. In this episode, producer Juan Diego Ramirez reports on the link between growing urban canopies and allergy exposure, and what you can do to protect yourself.
-
-_Interested in more health stories? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/db22198b-4a47-40fd-a9eb-cfb7ae81f1b3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=db22198b-4a47-40fd-a9eb-cfb7ae81f1b3&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-5953066&#38;p=510351&#38;d=700&#38;size=11201394" length="11201394" type="audio/mpeg" />
-      <guid>cid://20bf1a4f-9c8e-4317-aa09-d1c1ffbef44e</guid>
-      <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/</link>
-      <description>
-        <![CDATA[APODScienceAPODAPOD: 2026 October 21 – New…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated New Ghosts Revealed in Cassiopeia Explanation: Jinkies, look at all those ghosts! It took 100 [&#8230;]]]>
-      </description>
-      <source:markdown>APODScienceAPODAPOD: 2026 October 21 – New…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated New Ghosts Revealed in Cassiopeia Explanation: Jinkies, look at all those ghosts! It took 100 \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/</guid>
-      <category>APOD</category>
-      <pubDate>Wed, 21 Oct 2026 04:05:00 +0000</pubDate>
-    </item>    <item>
-      <title>Extratropical Cyclone Whips Past Iceland</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/</link>
-      <description>
-        <![CDATA[The powerful low-pressure system formed over the North Atlantic out of the remnants of Hurricane Isaias.]]>
-      </description>
-      <source:markdown>The powerful low-pressure system formed over the North Atlantic out of the remnants of Hurricane Isaias.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/</guid>
-      <category>Earth Observatory</category>
-      <category>Extreme Weather Events</category>
-      <category>Visible Infrared Imaging Radiometer Suite (VIIRS)</category>
-      <pubDate>Wed, 21 Oct 2026 04:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
