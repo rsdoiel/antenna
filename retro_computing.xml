@@ -4,10 +4,29 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>13 Nov 26 06:45 -0800</lastBuildDate>
+    <lastBuildDate>14 Nov 26 06:46 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>b.log 2026/11/13 - AI can be useful.</title>
+      <link>https://heyrick.eu/blog/entry/20261113</link>
+      <description>
+        <![CDATA[AI can be useful.]]>
+      </description>
+      <source:markdown>AI can be useful.</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20261113</guid>
+      <pubDate>Fri, 13 Nov 2026 18:06:23 +0000</pubDate>
+    </item>    <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/</link>
+      <description>
+        <![CDATA[Opus 7: Titus Andronicus]]>
+      </description>
+      <source:markdown>Opus 7: Titus Andronicus</source:markdown>
+      <guid>cid://https://www.filfre.net/?p=6991</guid>
+      <category>Uncategorized</category>
+      <pubDate>Fri, 13 Nov 2026 17:07:18 +0000</pubDate>
+    </item>    <item>
       <title>Rougol November 2026 meeting on monday - RISC OS 10 deep dive</title>
       <link>http://www.iconbar.com/comments/rss/news2416.html</link>
       <description>
@@ -1438,82 +1457,6 @@ Hopefully you&#39;ll see solutions to one or both of these in [a future article]
       <source:markdown>Today is the RISC OS London Show.</source:markdown>
       <guid>cid://http://www.iconbar.com/comments/rss/news2410.html</guid>
       <pubDate>Sat, 24 Oct 2026 08:52:00 +0000</pubDate>
-    </item>    <item>
-      <title>Bottlenecks Discovered by Meta Engineers Lead to Scalability Improvements</title>
-      <link>http://www.linux-magazine.com/Online/News/Bottlenecks-Discovered-by-Meta-Engineers-Lead-to-Scalability-Improvements</link>
-      <description>
-        <![CDATA[<p>Thanks to a small group of engineers at Meta, the Linux kernel module kernfs has been improved, which has led to some serious gains.</p>]]>
-      </description>
-      <source:markdown>Thanks to a small group of engineers at Meta, the Linux kernel module kernfs has been improved, which has led to some serious gains.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://cdb8d75cbf82fb1642e0ad18f0e02ddd</guid>
-      <pubDate>Fri, 23 Oct 2026 20:52:54 +0000</pubDate>
-    </item>    <item>
-      <title>Last minute Show news...</title>
-      <link>http://www.iconbar.com/comments/rss/news2409.html</link>
-      <description>
-        <![CDATA[Hopefully our last new post - we will have the report up tomorrow with all the news and pictures.]]>
-      </description>
-      <source:markdown>Hopefully our last new post - we will have the report up tomorrow with all the news and pictures.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2409.html</guid>
-      <pubDate>Fri, 23 Oct 2026 16:56:00 +0000</pubDate>
-    </item>    <item>
-      <title>An Ion Storm!, Part 2: The Return to Ground Level</title>
-      <link>https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/</link>
-      <description>
-        <![CDATA[This article tells part of the story of John Romero. Note that there is a sexually suggestive image below that may be Not Safe For Work! In the badlands of what used to be Texas, rumor has it that John Romero has thrown himself out the window of Ion Storm&#8217;s penthouse offices. Apparently Romero had [&#8230;]]]>
-      </description>
-      <source:markdown>This article tells part of the story of John Romero. Note that there is a sexually suggestive image below that may be Not Safe For Work! In the badlands of what used to be Texas, rumor has it that John Romero has thrown himself out the window of Ion Storm’s penthouse offices. Apparently Romero had \[…\]</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6925</guid>
-      <category>Digital Antiquaria</category>
-      <category>Interactive Fiction</category>
-      <category>anachronox</category>
-      <category>daikatana</category>
-      <category>deus ex</category>
-      <category>eidos</category>
-      <category>ion storm</category>
-      <category>romero</category>
-      <category>spector</category>
-      <pubDate>Fri, 23 Oct 2026 16:19:26 +0000</pubDate>
-    </item>    <item>
-      <title>Famatra brochure and pricelist KIM-1</title>
-      <link>http://retro.hansotten.nl/22548-2/</link>
-      <description>
-        <![CDATA[In 1978 I bought a KIM-1 from the Dutch company Famatra Benelux, Breda. They were a Rockwell reseller and that explains why my KIM-1 was a KIM-1 with a Rockwell sticker (it is an original MOS Technology build system) and Rockwell branded documents. Here the brochure and pricelist with products like Memory PLus, the sofwtare [&#8230;]]]>
-      </description>
-      <source:markdown>In 1978 I bought a KIM-1 from the Dutch company Famatra Benelux, Breda. They were a Rockwell reseller and that explains why my KIM-1 was a KIM-1 with a Rockwell sticker (it is an original MOS Technology build system) and Rockwell branded documents. Here the brochure and pricelist with products like Memory PLus, the sofwtare \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=22548</guid>
-      <category>6502</category>
-      <category>kim-1</category>
-      <pubDate>Fri, 23 Oct 2026 14:03:29 +0000</pubDate>
-    </item>    <item>
-      <title>Brutech Electronics Microsystems – B.E.M large update</title>
-      <link>http://retro.hansotten.nl/22533-2/</link>
-      <description>
-        <![CDATA[Brutech Electronics Microsystems – B.E.M Gebroeders Bruyn, Vinkeveen. Small company, custom made electronics and standard microprocessor boards and systems aimed at industry and hobbyist. During my years with Radio Bulletin we often worked with Brutech, and I visisted their office/manufacturing plant in Vinkeveen several times. The BEM-bus became the standard bus for expansion at Radio [&#8230;]]]>
-      </description>
-      <source:markdown>Brutech Electronics Microsystems – B.E.M Gebroeders Bruyn, Vinkeveen. Small company, custom made electronics and standard microprocessor boards and systems aimed at industry and hobbyist. During my years with Radio Bulletin we often worked with Brutech, and I visisted their office/manufacturing plant in Vinkeveen several times. The BEM-bus became the standard bus for expansion at Radio \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=22533</guid>
-      <category>6502</category>
-      <pubDate>Fri, 23 Oct 2026 11:49:42 +0000</pubDate>
-    </item>    <item>
-      <title>Organizer will be at tomorrow&#39;s London Show</title>
-      <link>http://www.iconbar.com/comments/rss/news2405.html</link>
-      <description>
-        <![CDATA[Very pleased to see that regular Show exhibitor Organizer have managed to resolve a double-booking and will be attending the London Show tomorrow.]]>
-      </description>
-      <source:markdown>Very pleased to see that regular Show exhibitor Organizer have managed to resolve a double-booking and will be attending the London Show tomorrow.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2405.html</guid>
-      <pubDate>Fri, 23 Oct 2026 09:42:00 +0000</pubDate>
-    </item>    <item>
-      <title>RISC OS Technologies at London Show</title>
-      <link>http://www.iconbar.com/comments/rss/news2404.html</link>
-      <description>
-        <![CDATA[New exhibitor RISC OS Technologies have dropped us a line to give you yet more reasons to attend the show tomorrow.]]>
-      </description>
-      <source:markdown>New exhibitor RISC OS Technologies have dropped us a line to give you yet more reasons to attend the show tomorrow.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2404.html</guid>
-      <pubDate>Fri, 23 Oct 2026 09:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
