@@ -4,10 +4,58 @@
   <channel>
     <title><![CDATA[Student Paper]]></title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>14 Nov 26 06:48 -0800</lastBuildDate>
+    <lastBuildDate>15 Nov 26 06:50 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>UCLA women’s basketball to unveil NCAA championship banner before facing Princeton</title>
+      <link>https://dailybruin.com/2026/11/15/ucla-womens-basketball-to-unveil-ncaa-championship-banner-before-facing-princeton/</link>
+      <description>
+        <![CDATA[The last time Bruins saw a No. 10 UCLA women&#8217;s basketball championship banner lifted into the rafters was in 1978, when Ann Meyers Drysdale and Denise Curry led the program to the AIAW Championship.]]>
+      </description>
+      <source:markdown>The last time Bruins saw a No. 10 UCLA women’s basketball championship banner lifted into the rafters was in 1978, when Ann Meyers Drysdale and Denise Curry led the program to the AIAW Championship.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=520089</guid>
+      <category>Sports</category>
+      <category>Women&#39;s Basketball</category>
+      <pubDate>Sun, 15 Nov 2026 08:19:42 +0000</pubDate>
+    </item>    <item>
+      <title>UCLA cross country stays the course, closes season with top-12 regional finishes</title>
+      <link>https://dailybruin.com/2026/11/14/ucla-cross-country-stays-the-course-closes-season-with-top-12-regional-finishes/</link>
+      <description>
+        <![CDATA[Despite racing to a pair of top-12 finishes, the Bruins have crossed their final finish line of the season.
+        UCLA cross country wrapped up its 2026 campaign at the NCAA West Regional Friday morning at Arcade Creek Cross Country Course in Sacramento, with the women&#8217;s team posting a 12th-place finish in the 6K for the fourth year in a row and the men placing 10th in the 10K for the second year in a row.]]>
+      </description>
+      <source:markdown>Despite racing to a pair of top-12 finishes, the Bruins have crossed their final finish line of the season.
+UCLA cross country wrapped up its 2026 campaign at the NCAA West Regional Friday morning at Arcade Creek Cross Country Course in Sacramento, with the women’s team posting a 12th-place finish in the 6K for the fourth year in a row and the men placing 10th in the 10K for the second year in a row.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=520084</guid>
+      <category>Cross Country</category>
+      <category>Sports</category>
+      <pubDate>Sun, 15 Nov 2026 02:59:27 +0000</pubDate>
+    </item>    <item>
+      <title>What’s going on with ballot propositions?</title>
+      <link>https://dailybruin.com/2026/11/14/whats-going-on-with-ballot-propositions/</link>
+      <description>
+        <![CDATA[Californians are no stranger to long ballots with a sprawling list of propositions.
+        The Nov. 3 election featured California’s longest proposition list in a decade, allowing voters to decide on several hot-button issues.]]>
+      </description>
+      <source:markdown>Californians are no stranger to long ballots with a sprawling list of propositions.
+The Nov. 3 election featured California’s longest proposition list in a decade, allowing voters to decide on several hot-button issues.</source:markdown>
+      <guid>cid://https://dailybruin.com/?p=520079</guid>
+      <category>Politics</category>
+      <category>The Quad</category>
+      <pubDate>Sun, 15 Nov 2026 02:54:24 +0000</pubDate>
+    </item>    <item>
+      <title>Fitness culture has reached new levels of toxicity</title>
+      <link>https://dailytrojan.com/2026/11/14/fitness-culture-has-reached-new-levels-of-toxicity/</link>
+      <description>
+        <![CDATA[<p>The post <a href="https://dailytrojan.com/2026/11/14/fitness-culture-has-reached-new-levels-of-toxicity/">Fitness culture has reached new levels of toxicity</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
+      </description>
+      <source:markdown>The post [Fitness culture has reached new levels of toxicity](https://dailytrojan.com/2026/11/14/fitness-culture-has-reached-new-levels-of-toxicity/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
+      <guid>cid://https://dailytrojan.com/?p=264280</guid>
+      <category>Podcasts</category>
+      <category>The Soapbox</category>
+      <pubDate>Sat, 14 Nov 2026 19:55:19 +0000</pubDate>
+    </item>    <item>
       <title>Fana Misa breaks the musical blueprint at Brandy Melville studio</title>
       <link>https://dailybruin.com/2026/11/13/fana-misa-breaks-the-musical-blueprint-at-brandy-melville-studio/</link>
       <description>
@@ -19,6 +67,7 @@ Fana Misa, who works under the artist name Letters to Fei – a moniker that com
       <guid>cid://https://dailybruin.com/?p=520068</guid>
       <category>Arts</category>
       <category>Music</category>
+      <category>db-story-b</category>
       <pubDate>Sat, 14 Nov 2026 06:41:53 +0000</pubDate>
     </item>    <item>
       <title>UCLA football takes down Illinois, takes off for historic 10-0 season start</title>
@@ -33,7 +82,7 @@ On Friday, flights were delayed across the country, and planes were prevented fr
       <category>Football</category>
       <category>Sports</category>
       <category>breaking</category>
-      <category>db-story-a</category>
+      <category>db-story-c1</category>
       <pubDate>Sat, 14 Nov 2026 06:03:00 +0000</pubDate>
     </item>    <item>
       <title>FAA lifts nationwide ground stop after communications failure disrupts thousands of flights</title>
@@ -61,6 +110,7 @@ UCLA women’s volleyball (17-9, 8-7 Big Ten) toppled No.</source:markdown>
       <guid>cid://https://dailybruin.com/?p=520040</guid>
       <category>Sports</category>
       <category>Women&#39;s Volleyball</category>
+      <category>db-story-a</category>
       <pubDate>Sat, 14 Nov 2026 04:30:30 +0000</pubDate>
     </item>    <item>
       <title>Students discuss Rose Bowl attendance, free football tickets</title>
@@ -75,6 +125,7 @@ UCLA Athletics announced in September that students can access free tickets to a
       <category>A Closer Look</category>
       <category>Campus</category>
       <category>News</category>
+      <category>db-story-g</category>
       <pubDate>Sat, 14 Nov 2026 03:45:51 +0000</pubDate>
     </item>    <item>
       <title>Film Review: ‘Paper Tiger’ has the cast of a crime thriller but not the claws to match</title>
@@ -91,6 +142,7 @@ Opening in theaters nationwide Nov.</source:markdown>
       <category>Arts</category>
       <category>Arts Columns</category>
       <category>Film &#38; TV</category>
+      <category>db-story-c2</category>
       <pubDate>Sat, 14 Nov 2026 03:41:31 +0000</pubDate>
     </item>    <item>
       <title>GSA Recap – Nov. 12</title>
@@ -623,7 +675,7 @@ And Thursday night, the fifth-year forward helped secure another win for the Bru
       <category>Sports</category>
       <category>Women&#39;s Basketball</category>
       <category>breaking</category>
-      <category>db-story-c1</category>
+      <category>db-story-f1</category>
       <pubDate>Fri, 13 Nov 2026 06:13:54 +0000</pubDate>
     </item>    <item>
       <title>With nationals at stake, UCLA cross country heads to Sacramento</title>
@@ -637,7 +689,7 @@ UCLA cross country will head to Sacramento for the NCAA West Regional on Friday 
       <guid>cid://https://dailybruin.com/?p=519984</guid>
       <category>Cross Country</category>
       <category>Sports</category>
-      <category>db-story-b</category>
+      <category>db-story-f2</category>
       <pubDate>Fri, 13 Nov 2026 05:50:46 +0000</pubDate>
     </item>    <item>
       <title>Scouting Report: UCLA football vs. Illinois</title>
@@ -685,9 +737,9 @@ USAC is the official student government representing the undergraduate student b
       <title>BREAKING: Outlook outage raises email concerns for CSUN faculty and staff</title>
       <link>https://sundial.csun.edu/225511/featured/breaking-outlook-outage-raises-email-concerns-for-csun-faculty-and-staff/</link>
       <description>
-        <![CDATA[A widespread Microsoft Outlook outage disrupted email access for users across the country around 8:17 a.m. PST, raising concerns for professors and staff at CSUN, who use Microsoft’s email system....]]>
+        <![CDATA[A widespread Microsoft Outlook outage disrupted email access for users across the country around 8:17 a.m. PST, on Thursday, Nov. 12, raising concerns for professors and staff at CSUN, who...]]>
       </description>
-      <source:markdown>A widespread Microsoft Outlook outage disrupted email access for users across the country around 8:17 a.m. PST, raising concerns for professors and staff at CSUN, who use Microsoft’s email system....</source:markdown>
+      <source:markdown>A widespread Microsoft Outlook outage disrupted email access for users across the country around 8:17 a.m. PST, on Thursday, Nov. 12, raising concerns for professors and staff at CSUN, who...</source:markdown>
       <guid>cid://https://sundial.csun.edu/?p=225511</guid>
       <category>Breaking News</category>
       <category>Featured</category>
@@ -754,7 +806,7 @@ And the Trojans have the opportunity to spoil this special moment for their cros
       <guid>cid://https://dailybruin.com/?p=519952</guid>
       <category>Men&#39;s Water Polo</category>
       <category>Sports</category>
-      <category>db-story-a</category>
+      <category>db-story-h</category>
       <pubDate>Thu, 12 Nov 2026 21:42:08 +0000</pubDate>
     </item>    <item>
       <title>‘At Eye Level’ exhibit reframes disability representation through self-expression</title>
@@ -7464,88 +7516,6 @@ The council, which represents UCLA and Westwood Village, meets on the first Wedn
       <category>Westwood</category>
       <category>db-story-d1</category>
       <pubDate>Sun, 25 Oct 2026 01:33:39 +0000</pubDate>
-    </item>    <item>
-      <title>Digital detox or digital balance? CSUN students choose moderation</title>
-      <link>https://sundial.csun.edu/224467/arts-entertainment/digital-detox-or-digital-balance-csun-students-choose-moderation/</link>
-      <description>
-        <![CDATA[When a first-year computer engineering major, Robert Jimenez, realized he was spending about twelve hours a day on his phone, he decided he needed to make a change. “I was...]]>
-      </description>
-      <source:markdown>When a first-year computer engineering major, Robert Jimenez, realized he was spending about twelve hours a day on his phone, he decided he needed to make a change. “I was...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=224467</guid>
-      <category>Culture</category>
-      <category>Featured</category>
-      <pubDate>Sat, 24 Oct 2026 23:47:06 +0000</pubDate>
-    </item>    <item>
-      <title>UCLA football keeps its rhythm against Michigan State to stay undefeated 7-0</title>
-      <link>https://dailybruin.com/2026/10/24/ucla-football-keeps-its-rhythm-against-michigan-state-to-stay-undefeated-7-0/</link>
-      <description>
-        <![CDATA[<em>This post was updated Oct. 25 at 10:15 p.m.</em>
-        The blue and gold just keep on dancing.
-        Or, at least this time, the baby blue and gold.]]>
-      </description>
-      <source:markdown>_This post was updated Oct. 25 at 10:15 p.m._
-The blue and gold just keep on dancing.
-Or, at least this time, the baby blue and gold.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=518165</guid>
-      <category>Football</category>
-      <category>Sports</category>
-      <category>breaking</category>
-      <category>db-story-c1</category>
-      <pubDate>Sat, 24 Oct 2026 23:39:03 +0000</pubDate>
-    </item>    <item>
-      <title>LIVE: 2026 General Election</title>
-      <link>https://sundial.csun.edu/224456/featured/live-2026-general-election/</link>
-      <description>
-        <![CDATA[Oct. 26 5:24 p.m., Los Angeles Mayor Karen Bass is coming to CSUN Danielle De Leon CSUN Black Student Union announced that they are hosting an event with Mayor Karen...]]>
-      </description>
-      <source:markdown>Oct. 26 5:24 p.m., Los Angeles Mayor Karen Bass is coming to CSUN Danielle De Leon CSUN Black Student Union announced that they are hosting an event with Mayor Karen...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=224456</guid>
-      <category>Elections</category>
-      <category>Featured</category>
-      <category>2026 election</category>
-      <category>election</category>
-      <pubDate>Sat, 24 Oct 2026 23:22:06 +0000</pubDate>
-    </item>    <item>
-      <title>2026 General Election: Meet the Gubernatorial and Mayoral candidates</title>
-      <link>https://sundial.csun.edu/224443/elections/2026-general-election-meet-the-gubernatorial-and-mayoral-candidates/</link>
-      <description>
-        <![CDATA[In California’s Nov. 3 election, voters will cast their ballots on a number of propositions and state office positions. Two of the most important decisions for citizens of the City...]]>
-      </description>
-      <source:markdown>In California’s Nov. 3 election, voters will cast their ballots on a number of propositions and state office positions. Two of the most important decisions for citizens of the City...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=224443</guid>
-      <category>Elections</category>
-      <category>Featured</category>
-      <category>2026 election</category>
-      <category>election</category>
-      <pubDate>Sat, 24 Oct 2026 23:09:35 +0000</pubDate>
-    </item>    <item>
-      <title>Men’s soccer hopes to clinch a spot in the Big West tournament for the first time since 2022</title>
-      <link>https://sundial.csun.edu/224440/sports/mens-soccer-hopes-to-clinch-a-spot-in-the-big-west-tournament-for-the-first-time-since-2022/</link>
-      <description>
-        <![CDATA[The CSUN men’s soccer team is halfway through their season; currently, they are seeking to clinch a spot in the Big West playoffs for the first time in four years,...]]>
-      </description>
-      <source:markdown>The CSUN men’s soccer team is halfway through their season; currently, they are seeking to clinch a spot in the Big West playoffs for the first time in four years,...</source:markdown>
-      <guid>cid://https://sundial.csun.edu/?p=224440</guid>
-      <category>Featured</category>
-      <category>Sports</category>
-      <pubDate>Sat, 24 Oct 2026 23:01:56 +0000</pubDate>
-    </item>    <item>
-      <title>Film Review: ‘Klara and the Sun’ rises with whimsy, but falls without depth</title>
-      <link>https://dailybruin.com/2026/10/24/film-review-klara-and-the-sun-rises-with-whimsy-but-falls-without-depth/</link>
-      <description>
-        <![CDATA[<em>This post was updated Oct. 25 at 8:56 p.m.</em>
-        Warning: Spoilers ahead.
-        For all its whimsical ambition, “Klara and the Sun” gets lost in its own theatricality, stumbling where emotional depth should shine.]]>
-      </description>
-      <source:markdown>_This post was updated Oct. 25 at 8:56 p.m._
-Warning: Spoilers ahead.
-For all its whimsical ambition, “Klara and the Sun” gets lost in its own theatricality, stumbling where emotional depth should shine.</source:markdown>
-      <guid>cid://https://dailybruin.com/?p=518159</guid>
-      <category>Arts</category>
-      <category>Arts Columns</category>
-      <category>Film &#38; TV</category>
-      <category>db-story-a</category>
-      <pubDate>Sat, 24 Oct 2026 22:30:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

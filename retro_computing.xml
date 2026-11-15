@@ -4,10 +4,34 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>14 Nov 26 06:46 -0800</lastBuildDate>
+    <lastBuildDate>15 Nov 26 06:48 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>RISC OS open source developments weekly update (14th November 2026)</title>
+      <link>http://www.iconbar.com/comments/rss/news2424.html</link>
+      <description>
+        <![CDATA[Here are some of the things that I spotted which happened in the RISC OS Open source world this week...]]>
+      </description>
+      <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
+      <guid>cid://http://www.iconbar.com/comments/rss/news2424.html</guid>
+      <pubDate>Sun, 15 Nov 2026 01:34:00 +0000</pubDate>
+    </item>    <item>
+      <title>A 64-bit RISC OS is coming – take a deep dive into it with ROUGOL</title>
+      <link>https://www.riscository.com/2026/64-bit-risc-os-at-rougol/</link>
+      <description>
+        <![CDATA[The RISC OS London Show took place only a few weeks ago, and the big news that came from it was that not only had work been started on a 64-bit version of RISC OS, but that it was already at a point where it could be demonstrated. Indeed, it was the key subject of the talk given in the show theatre by Andrew Rawnsley on behalf of RISC OS Developments. Andrew&#8217;s demonstration in the theatre could only be fairly limited due to time constraints, as well as the status&#8230;]]>
+      </description>
+      <source:markdown>The RISC OS London Show took place only a few weeks ago, and the big news that came from it was that not only had work been started on a 64-bit version of RISC OS, but that it was already at a point where it could be demonstrated. Indeed, it was the key subject of the talk given in the show theatre by Andrew Rawnsley on behalf of RISC OS Developments. Andrew’s demonstration in the theatre could only be fairly limited due to time constraints, as well as the status…</source:markdown>
+      <guid>cid://https://www.riscository.com/?p=11143</guid>
+      <category>User groups</category>
+      <category>64-bit</category>
+      <category>Meeting</category>
+      <category>RISC OS 10</category>
+      <category>RISC OS Developments</category>
+      <category>ROUGOL</category>
+      <pubDate>Sat, 14 Nov 2026 17:47:47 +0000</pubDate>
+    </item>    <item>
       <title>b.log 2026/11/13 - AI can be useful.</title>
       <link>https://heyrick.eu/blog/entry/20261113</link>
       <description>
@@ -1394,69 +1418,6 @@ Hopefully you&#39;ll see solutions to one or both of these in [a future article]
       <category>powerpc</category>
       <category>software</category>
       <pubDate>Sun, 25 Oct 2026 01:21:15 +0000</pubDate>
-    </item>    <item>
-      <title>RISC OS Open source developments weekly update (24th October 2026)</title>
-      <link>http://www.iconbar.com/comments/rss/news2412.html</link>
-      <description>
-        <![CDATA[Here are some of the things that I spotted which happened in the RISC OS Open source world this week...]]>
-      </description>
-      <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2412.html</guid>
-      <pubDate>Sat, 24 Oct 2026 18:33:00 +0000</pubDate>
-    </item>    <item>
-      <title>b.log 2026/10/24 - We had it so easy, Images, Lidl haul (Tronic Power Meter, Parkside LED lamp, Halloween lights), But..., In other news, Pumpkin, Time change.</title>
-      <link>https://heyrick.eu/blog/entry/20261024</link>
-      <description>
-        <![CDATA[We had it so easy, Images, Lidl haul (Tronic Power Meter, Parkside LED lamp, Halloween lights), But..., In other news, Pumpkin, Time change.]]>
-      </description>
-      <source:markdown>We had it so easy, Images, Lidl haul (Tronic Power Meter, Parkside LED lamp, Halloween lights), But..., In other news, Pumpkin, Time change.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20261024</guid>
-      <pubDate>Sat, 24 Oct 2026 17:30:01 +0000</pubDate>
-    </item>    <item>
-      <title>RISC OS London Show Report 2026</title>
-      <link>http://www.iconbar.com/comments/rss/news2408.html</link>
-      <description>
-        <![CDATA[The 2026 London Show took place in its now regular Harrow venue. Doors opened at 11am and there was the usual stands and talks. You can also see all the stands in our pictures and notes on the talks. I took the train from Kent this year which was very straightforward.]]>
-      </description>
-      <source:markdown>The 2026 London Show took place in its now regular Harrow venue. Doors opened at 11am and there was the usual stands and talks. You can also see all the stands in our pictures and notes on the talks. I took the train from Kent this year which was very straightforward.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2408.html</guid>
-      <pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>RISC OS London Show 2026 - Notes from the talks</title>
-      <link>http://www.iconbar.com/comments/rss/news2407.html</link>
-      <description>
-        <![CDATA[Here are my notes from the talks. As usual, any mistakes or omissions are mine.]]>
-      </description>
-      <source:markdown>Here are my notes from the talks. As usual, any mistakes or omissions are mine.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2407.html</guid>
-      <pubDate>Sat, 24 Oct 2026 14:50:00 +0000</pubDate>
-    </item>    <item>
-      <title>RISC OS London Show 2026 - pictures</title>
-      <link>http://www.iconbar.com/comments/rss/news2406.html</link>
-      <description>
-        <![CDATA[Here is a selection of pictures to show you what the event was like.....]]>
-      </description>
-      <source:markdown>Here is a selection of pictures to show you what the event was like.....</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2406.html</guid>
-      <pubDate>Sat, 24 Oct 2026 14:40:00 +0000</pubDate>
-    </item>    <item>
-      <title>Andrew Rawnsley demos RISC OS 64 at London Show</title>
-      <link>http://www.iconbar.com/comments/rss/news2411.html</link>
-      <description>
-        <![CDATA[Andrew Rawnsley is demoing RISC OS 64 running on a PI 5.]]>
-      </description>
-      <source:markdown>Andrew Rawnsley is demoing RISC OS 64 running on a PI 5.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2411.html</guid>
-      <pubDate>Sat, 24 Oct 2026 11:11:00 +0000</pubDate>
-    </item>    <item>
-      <title>The Day of the London show....</title>
-      <link>http://www.iconbar.com/comments/rss/news2410.html</link>
-      <description>
-        <![CDATA[Today is the RISC OS London Show.]]>
-      </description>
-      <source:markdown>Today is the RISC OS London Show.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2410.html</guid>
-      <pubDate>Sat, 24 Oct 2026 08:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
