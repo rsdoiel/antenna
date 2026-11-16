@@ -4,10 +4,85 @@
   <channel>
     <title><![CDATA[GLAM]]></title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>15 Nov 26 06:50 -0800</lastBuildDate>
+    <lastBuildDate>16 Nov 26 06:48 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Report: “New Kickstarter Campaign Rethinks E-Book Ownership and Digital Lending”</title>
+      <link>https://www.infodocket.com/2026/11/16/report-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/</link>
+      <description>
+        <![CDATA[<p>From TechCrunch: Here’s a big promise: A new Kickstarter campaign aims to usher in the “return of the human internet.” That’s the tagline of a crowdfunding campaign for The Phoenix Project, an initiative from the online culture and commentary magazine Flaming Hydra. If you back The Phoenix Project, you’re supporting three things — a one-off [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/11/16/report-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/">Report: &#8220;New Kickstarter Campaign Rethinks E-Book Ownership and Digital Lending&#8221;</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>From TechCrunch: Here’s a big promise: A new Kickstarter campaign aims to usher in the “return of the human internet.” That’s the tagline of a crowdfunding campaign for The Phoenix Project, an initiative from the online culture and commentary magazine Flaming Hydra. If you back The Phoenix Project, you’re supporting three things — a one-off \[…\]
+
+The post [Report: “New Kickstarter Campaign Rethinks E-Book Ownership and Digital Lending”](https://www.infodocket.com/2026/11/16/report-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=169206</guid>
+      <category>Libraries</category>
+      <category>News</category>
+      <pubDate>Mon, 16 Nov 2026 13:51:42 +0000</pubDate>
+    </item>    <item>
+      <title>Guest Post — Beyond the Download: What Counts as Scholarly Content Use in the Age of AI?</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/11/16/guest-post-beyond-the-download-what-counts-as-scholarly-content-use-in-the-age-of-ai/</link>
+      <description>
+        <![CDATA[<p>New usage metrics are needed to represent AI assistants intermediating researchers and content. What should count, and what can those numbers tell us about the value of research? </p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/11/16/guest-post-beyond-the-download-what-counts-as-scholarly-content-use-in-the-age-of-ai/">Guest Post — Beyond the Download: What Counts as Scholarly Content Use in the Age of AI?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <source:markdown>New usage metrics are needed to represent AI assistants intermediating researchers and content. What should count, and what can those numbers tell us about the value of research?
+
+The post [Guest Post — Beyond the Download: What Counts as Scholarly Content Use in the Age of AI?](https://scholarlykitchen.sspnet.org/2026/11/16/guest-post-beyond-the-download-what-counts-as-scholarly-content-use-in-the-age-of-ai/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63311</guid>
+      <category>Artificial Intelligence</category>
+      <category>Authors</category>
+      <category>Infrastructure</category>
+      <category>Metrics and Analytics</category>
+      <category>Research</category>
+      <category>User Experience</category>
+      <category>AI mediated usage</category>
+      <category>AI-mediated activity</category>
+      <category>bot metrics</category>
+      <category>bot traffic</category>
+      <category>COUNTER reporting</category>
+      <category>information standards</category>
+      <category>SPUR</category>
+      <category>usage metrics</category>
+      <pubDate>Mon, 16 Nov 2026 10:30:27 +0000</pubDate>
+    </item>    <item>
+      <title>Defter helps manage your Zotero references</title>
+      <link>https://blog.front-matter.de/posts/defter-helps-manage-your-zotero-references/</link>
+      <description>
+        <![CDATA[<p>Today I am announcing <a href="https://crates.io/crates/defter" rel="noreferrer">defter</a>, a new Zotero sync and file storage server that complements <a href="https://www.zotero.org/storage" rel="nofollow noopener noreferrer">Zotero Storage</a> with a hosted Zotero library using SQLite and S3-compatible object storage.</p><p><a href="https://www.zotero.org/" rel="noreferrer">Zotero</a> is an open source reference manager that helps to <em>collect, organize, annotate, cite, and share research. </em>I have written about</p>]]>
+      </description>
+      <source:markdown>Today I am announcing [defter](https://crates.io/crates/defter), a new Zotero sync and file storage server that complements [Zotero Storage](https://www.zotero.org/storage) with a hosted Zotero library using SQLite and S3-compatible object storage.
+
+[Zotero](https://www.zotero.org/) is an open source reference manager that helps to _collect, organize, annotate, cite, and share research._ I have written about</source:markdown>
+      <guid>cid://6afa0d6bc593490001000aa9</guid>
+      <category>Commonmeta</category>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Appraising Permanence, Sustaining the Promise</title>
+      <link>https://metaarchivist.substack.com/p/appraising-permanence-sustaining</link>
+      <description>
+        <![CDATA[What NARA&#8217;s appraisal process reveals about the distance between deciding that federal records should survive and ensuring that they can.]]>
+      </description>
+      <source:markdown>What NARA’s appraisal process reveals about the distance between deciding that federal records should survive and ensuring that they can.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!bjxp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31e0df75-d462-43fa-84b8-12e59355af62_1672x941.png" length="0" type="image/jpeg" />
+      <guid>cid://https://metaarchivist.substack.com/p/appraising-permanence-sustaining</guid>
+      <pubDate>Sun, 15 Nov 2026 19:19:45 +0000</pubDate>
+    </item>    <item>
+      <title>Report From Utah: Voters Just Ousted The Republican Representative Behind The State’s Sweeping School Book Ban Law</title>
+      <link>https://www.infodocket.com/2026/11/15/report-from-utah-voters-just-ousted-the-republican-representative-behind-the-states-sweeping-school-book-ban-law/</link>
+      <description>
+        <![CDATA[<p>From The Salt Lake Tribune: The Republican representative behind Utah’s statewide school book ban law was ousted last week. Rep. Ken Ivory, R-West Jordan, lost his race against Democrat Drew Howells, who secured 58.11% of the vote as of Friday morning. Ivory received about 41.89%. He acknowledged the defeat in a recent Facebook post. Two [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/11/15/report-from-utah-voters-just-ousted-the-republican-representative-behind-the-states-sweeping-school-book-ban-law/">Report From Utah: Voters Just Ousted The Republican Representative Behind The State’s Sweeping School Book Ban Law</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>From The Salt Lake Tribune: The Republican representative behind Utah’s statewide school book ban law was ousted last week. Rep. Ken Ivory, R-West Jordan, lost his race against Democrat Drew Howells, who secured 58.11% of the vote as of Friday morning. Ivory received about 41.89%. He acknowledged the defeat in a recent Facebook post. Two \[…\]
+
+The post [Report From Utah: Voters Just Ousted The Republican Representative Behind The State’s Sweeping School Book Ban Law](https://www.infodocket.com/2026/11/15/report-from-utah-voters-just-ousted-the-republican-representative-behind-the-states-sweeping-school-book-ban-law/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <guid>cid://https://www.infodocket.com/?p=169201</guid>
+      <category>News</category>
+      <pubDate>Sun, 15 Nov 2026 15:38:36 +0000</pubDate>
+    </item>    <item>
       <title>Johns Hopkins University: Sheridan Libraries Launches New Digital Collections Site</title>
       <link>https://www.infodocket.com/2026/11/14/johns-hopkins-university-sheridan-libraries-launches-new-digital-collections-site/</link>
       <description>
@@ -1246,16 +1321,6 @@ The post [Guest Post — When Research Integrity Fails, the Entire System Follow
       <category>Commonmeta</category>
       <category>Metadata</category>
       <pubDate>Mon, 26 Oct 2026 08:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Revisiting my 2020 predictions about scholarly discovery: Why AI search tools don&#39;t need their own citation indexes</title>
-      <link>https://aarontay.substack.com/p/revisiting-my-2020-predictions-about</link>
-      <description>
-        <![CDATA[I thought the next big scholarly discovery service would be a citation index. I was wrong.]]>
-      </description>
-      <source:markdown>I thought the next big scholarly discovery service would be a citation index. I was wrong.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!nCfq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58e79965-3954-499a-98a9-f12954bfdd31_1672x941.png" length="0" type="image/jpeg" />
-      <guid>cid://https://aarontay.substack.com/p/revisiting-my-2020-predictions-about</guid>
-      <pubDate>Sun, 25 Oct 2026 20:37:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
