@@ -5,16 +5,219 @@
     <title><![CDATA[SoCal North]]></title>
     <description><![CDATA[News and posts related to the greater North Los Angeles and adjacent counties.]]></description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>16 Nov 26 06:30 -0800</lastBuildDate>
+    <lastBuildDate>17 Nov 26 06:30 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>New California hospice rules target fraud. Will they fix LA County’s problems?</title>
+      <link>https://laist.com/news/health/california-hospice-regulations-la-county-fraud-fix</link>
+      <description>
+        <![CDATA[State regulators say the rules can help end billing fraud in the end-of-life care industry.]]>
+      </description>
+      <source:markdown>State regulators say the rules can help end billing fraud in the end-of-life care industry.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-7018-da0d-a7ab-fc7b8e950000</guid>
+      <pubDate>Tue, 17 Nov 2026 13:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>LAUSD spent more than $6 million on its phone ban. Survey data show mixed results</title>
+      <link>https://laist.com/news/education/lausd-cellphone-ban-outcomes-survey-middle-high-school-students-staff</link>
+      <description>
+        <![CDATA[In the first district-wide survey since the policy began, students and staff did agree that engagement has improved.]]>
+      </description>
+      <source:markdown>In the first district-wide survey since the policy began, students and staff did agree that engagement has improved.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-e600-d3a0-adab-f72b976d0003</guid>
+      <pubDate>Tue, 17 Nov 2026 13:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Inglewood mayor gets restraining order against City Council candidate</title>
+      <link>https://laist.com/news/politics/inglewood-mayor-gets-restraining-order-against-city-council-candidate</link>
+      <description>
+        <![CDATA[Leonard Redway, Inglewood City Council District 1 candidate, must stay 100 yards away from James Butts, his home and vehicle, and at least 20 yards away when at City Hall.]]>
+      </description>
+      <source:markdown>Leonard Redway, Inglewood City Council District 1 candidate, must stay 100 yards away from James Butts, his home and vehicle, and at least 20 yards away when at City Hall.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-e739-d3a0-adab-f73b74830004</guid>
+      <pubDate>Tue, 17 Nov 2026 13:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Vandenberg hosts 2026 Fall Job Fair</title>
+      <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649605/vandenberg-hosts-2026-fall-job-fair/</link>
+      <description>
+        <![CDATA[Attendees explore career opportunities during the Fall Job Fair at the Pacific Coast Center at Vandenberg Space Force Base, California, Nov. 16, 2026.<br/> 
+        <img src='https://media.defense.gov/2026/Nov/16/2004027754/300/300/0/261116-F-XB588-3489.JPG' alt='Two people talk' /> <br />]]>
+      </description>
+      <source:markdown>Attendees explore career opportunities during the Fall Job Fair at the Pacific Coast Center at Vandenberg Space Force Base, California, Nov. 16, 2026.
+
+![Two people talk](https://media.defense.gov/2026/Nov/16/2004027754/300/300/0/261116-F-XB588-3489.JPG)</source:markdown>
+      <enclosure url="https://media.defense.gov/2026/Nov/16/2004027755/700/700/0/261116-F-XB588-1847.JPG" length="0" type="image/jpeg" />
+      <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649605/vandenberg-hosts-2026-fall-job-fair/</guid>
+      <category>News</category>
+      <pubDate>Tue, 17 Nov 2026 00:30:00 +0000</pubDate>
+    </item>    <item>
+      <title>OC Sheriff&#39;s deputy and special officer placed on leave. Video shows them talking with ICE agents</title>
+      <link>https://laist.com/news/oc-sheriffs-deputy-special-officer-placed-on-leave-video-shows-them-talking-with-ice-agents</link>
+      <description>
+        <![CDATA[Video published Friday by the department shows two OCSD employees talking with ICE agents last month.]]>
+      </description>
+      <source:markdown>Video published Friday by the department shows two OCSD employees talking with ICE agents last month.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-e6a7-d29b-a3bd-ffafebfc0001</guid>
+      <pubDate>Tue, 17 Nov 2026 00:19:18 +0000</pubDate>
+    </item>    <item>
+      <title>Voyager 1 reaches milestone in distance from Earth</title>
+      <link>https://laist.com/news/politics/voyager-1-reaches-milestone-in-distance-from-earth</link>
+      <description>
+        <![CDATA[NASA's Voyager 1 spacecraft is now one light day — or 16 billion miles — from earth, the furthest any human object has reached.]]>
+      </description>
+      <source:markdown>NASA&#39;s Voyager 1 spacecraft is now one light day — or 16 billion miles — from earth, the furthest any human object has reached.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-e6bf-d29b-a3bd-ffbfe9260002</guid>
+      <pubDate>Tue, 17 Nov 2026 00:18:26 +0000</pubDate>
+    </item>    <item>
+      <title>LAUSD wants to hear from parents about how the district should use AI</title>
+      <link>https://laist.com/news/education/lausd-parent-survey-generative-artificial-intelligence-school-board</link>
+      <description>
+        <![CDATA[The district will survey parents, students and staff, to help it decide how to use artificial intelligence in schools.]]>
+      </description>
+      <source:markdown>The district will survey parents, students and staff, to help it decide how to use artificial intelligence in schools.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-e64f-d469-a5a3-eeefd5910002</guid>
+      <pubDate>Tue, 17 Nov 2026 00:02:42 +0000</pubDate>
+    </item>    <item>
+      <title>Prosecutors ask California Supreme Court to halt Newsom’s death penalty commutation</title>
+      <link>https://laist.com/news/politics/prosecutors-ask-california-supreme-court-to-halt-newsoms-death-penalty-commutation</link>
+      <description>
+        <![CDATA[The district attorneys of 30 counties argued in a lawsuit filed Monday morning that the state’s high court should halt Gov. Gavin Newsom’s commutations of people on death row.]]>
+      </description>
+      <source:markdown>The district attorneys of 30 counties argued in a lawsuit filed Monday morning that the state’s high court should halt Gov. Gavin Newsom’s commutations of people on death row.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-e6a2-d3a0-adab-f7abd7c10000</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>LA blocked housing on a suburban golf course, calling it mountain lion habitat. Now it’s being sued</title>
+      <link>https://laist.com/news/housing-homelessness/los-angeles-city-housing-woodland-hills-country-club-golf-course-mountain-lion-lawsuit-yimby</link>
+      <description>
+        <![CDATA[Neighbors say nearly 400 new homes would also increase fire danger and eliminate valuable green space. Now, courts could decide the project’s fate.]]>
+      </description>
+      <source:markdown>Neighbors say nearly 400 new homes would also increase fire danger and eliminate valuable green space. Now, courts could decide the project’s fate.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-e69d-dc1f-a9e5-f7fd64e10001</guid>
+      <pubDate>Mon, 16 Nov 2026 23:57:00 +0000</pubDate>
+    </item>    <item>
+      <title>Free Drive-Thru Sandbag Distribution at Central Park</title>
+      <link>https://santaclarita.gov/blog/2026/11/16/free-drive-thru-sandbag-distribution-at-central-park/</link>
+      <description>
+        <![CDATA[<p>The City of Santa Clarita, in partnership with the Los Angeles County Fire Department, invites the community to prepare for the upcoming rainy season with a FREE Drive-Thru Sandbag Distribution on Sunday, November 22, from 12:00 to 3:00 p.m., at Central Park (27150 Bouquet Canyon Road). With El Niño conditions continuing to develop and the [&#8230;]</p>
+        <p>The post <a href="https://santaclarita.gov/blog/2026/11/16/free-drive-thru-sandbag-distribution-at-central-park/">Free Drive-Thru Sandbag Distribution at Central Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
+      </description>
+      <source:markdown>The City of Santa Clarita, in partnership with the Los Angeles County Fire Department, invites the community to prepare for the upcoming rainy season with a FREE Drive-Thru Sandbag Distribution on Sunday, November 22, from 12:00 to 3:00 p.m., at Central Park (27150 Bouquet Canyon Road). With El Niño conditions continuing to develop and the \[…\]
+
+The post [Free Drive-Thru Sandbag Distribution at Central Park](https://santaclarita.gov/blog/2026/11/16/free-drive-thru-sandbag-distribution-at-central-park/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
+      <guid>cid://https://santaclarita.gov/?p=9077</guid>
+      <category>Press Release</category>
+      <pubDate>Mon, 16 Nov 2026 23:47:02 +0000</pubDate>
+    </item>    <item>
+      <title>Our 28 Favorite Tacos Al Pastor, Adobada, and Árabes in Los Angeles</title>
+      <link>https://lataco.com/best-al-pastor-la</link>
+      <description>
+        <![CDATA[<p>Whether they use lamb, octopus, pork, beef, or mushrooms, these are our favorite places to get what might be L.A.'s official taco.</p>
+        <p>The post <a href="https://lataco.com/best-al-pastor-la">Our 28 Favorite Tacos Al Pastor, Adobada, and Árabes in Los Angeles</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
+      </description>
+      <source:markdown>Whether they use lamb, octopus, pork, beef, or mushrooms, these are our favorite places to get what might be L.A.&#39;s official taco.
+
+The post [Our 28 Favorite Tacos Al Pastor, Adobada, and Árabes in Los Angeles](https://lataco.com/best-al-pastor-la) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
+      <guid>cid://https://lataco.com/?p=132366</guid>
+      <category>Food</category>
+      <category>L.A. Taco Guides</category>
+      <category>Taco Members Only</category>
+      <category>Tacos</category>
+      <category>al pastor</category>
+      <category>Guides</category>
+      <pubDate>Mon, 16 Nov 2026 23:41:29 +0000</pubDate>
+    </item>    <item>
+      <title>OC workers reach new deal with county, ending weeks long strike</title>
+      <link>https://laist.com/news/politics/oc-workers-reach-new-deal-with-county-ending-weeks-long-strike</link>
+      <description>
+        <![CDATA[The OC Board of Supervisors will vote on the contract at a future meeting, according to a county spokesperson.]]>
+      </description>
+      <source:markdown>The OC Board of Supervisors will vote on the contract at a future meeting, according to a county spokesperson.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-e659-d469-a5a3-eefbc7770002</guid>
+      <pubDate>Mon, 16 Nov 2026 22:13:22 +0000</pubDate>
+    </item>    <item>
+      <title>US Supreme Court rejects Trump’s effort to impose DEI policies on UC researchers</title>
+      <link>https://laist.com/news/education/us-supreme-court-rejects-trumps-effort-to-impose-dei-policies-on-uc-researchers</link>
+      <description>
+        <![CDATA[The U.S. Supreme Court denied the Trump administration’s appeal of lower court decisions ordering it to restore roughly a billion dollars in UC research grants.]]>
+      </description>
+      <source:markdown>The U.S. Supreme Court denied the Trump administration’s appeal of lower court decisions ordering it to restore roughly a billion dollars in UC research grants.</source:markdown>
+      <guid>cid://urn:uuid:000001a1-e60a-d29b-a3bd-ff8f2f760000</guid>
+      <pubDate>Mon, 16 Nov 2026 22:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Sentinel Stage Processing Facility Ribbon Cutting Ceremony at Vandenberg Space Force Base</title>
+      <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649455/sentinel-stage-processing-facility-ribbon-cutting-ceremony-at-vandenberg-space/</link>
+      <description>
+        <![CDATA[The recently completed facility will serve as a hub for processing and testing components for the next-generation Sentinel weapon system ribbon cutting ceremony held at Vandenberg Space Force Base, California, Nov. 5, 2026.<br/> 
+        <img src='https://media.defense.gov/2026/Nov/16/2004027688/300/300/0/261105-X-DY416-1031.JPG' alt='Three people hold scissors' /> <br />]]>
+      </description>
+      <source:markdown>The recently completed facility will serve as a hub for processing and testing components for the next-generation Sentinel weapon system ribbon cutting ceremony held at Vandenberg Space Force Base, California, Nov. 5, 2026.
+
+![Three people hold scissors](https://media.defense.gov/2026/Nov/16/2004027688/300/300/0/261105-X-DY416-1031.JPG)</source:markdown>
+      <enclosure url="https://media.defense.gov/2026/Nov/16/2004027691/700/700/0/261105-X-DY416-1003.JPG" length="0" type="image/jpeg" />
+      <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649455/sentinel-stage-processing-facility-ribbon-cutting-ceremony-at-vandenberg-space/</guid>
+      <category>News</category>
+      <pubDate>Mon, 16 Nov 2026 21:51:00 +0000</pubDate>
+    </item>    <item>
+      <title>Light Up Main Street Know Before You Go!</title>
+      <link>https://santaclarita.gov/blog/2026/11/16/light-up-main-street-know-before-you-go/</link>
+      <description>
+        <![CDATA[<p>From Road Closures and Parking to Festivities and Fun! The holiday season officially begins in Santa Clarita as Old Town Newhall transforms into a sparkling winter wonderland for Light Up Main Street, presented by DrinkPAK, on Saturday, November 21, from 4:00 to 8:00 p.m. rain or shine! The official tree lighting will take place at [&#8230;]</p>
+        <p>The post <a href="https://santaclarita.gov/blog/2026/11/16/light-up-main-street-know-before-you-go/">Light Up Main Street Know Before You Go!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
+      </description>
+      <source:markdown>From Road Closures and Parking to Festivities and Fun! The holiday season officially begins in Santa Clarita as Old Town Newhall transforms into a sparkling winter wonderland for Light Up Main Street, presented by DrinkPAK, on Saturday, November 21, from 4:00 to 8:00 p.m. rain or shine! The official tree lighting will take place at \[…\]
+
+The post [Light Up Main Street Know Before You Go!](https://santaclarita.gov/blog/2026/11/16/light-up-main-street-know-before-you-go/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
+      <guid>cid://https://santaclarita.gov/?p=9073</guid>
+      <category>Press Release</category>
+      <pubDate>Mon, 16 Nov 2026 19:54:25 +0000</pubDate>
+    </item>    <item>
+      <title>Gather Around the Table for Santa Clarita’s Thanksgiving Community Dinners!</title>
+      <link>https://santaclarita.gov/blog/2026/11/16/gather-around-the-table-for-santa-claritas-thanksgiving-community-dinners/</link>
+      <description>
+        <![CDATA[<p>Enjoy a Free Thanksgiving Meal with Family, Friends and Neighbors Gather around the table, Santa Clarita! Celebrate the spirit of Thanksgiving with an evening of gratitude, connection and community at the City&#8217;s annual Thanksgiving Community Dinners. The free events will take place at the Newhall Community Center on Monday, November 23, and the Canyon Country [&#8230;]</p>
+        <p>The post <a href="https://santaclarita.gov/blog/2026/11/16/gather-around-the-table-for-santa-claritas-thanksgiving-community-dinners/">Gather Around the Table for Santa Clarita&#8217;s Thanksgiving Community Dinners!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
+      </description>
+      <source:markdown>Enjoy a Free Thanksgiving Meal with Family, Friends and Neighbors Gather around the table, Santa Clarita! Celebrate the spirit of Thanksgiving with an evening of gratitude, connection and community at the City’s annual Thanksgiving Community Dinners. The free events will take place at the Newhall Community Center on Monday, November 23, and the Canyon Country \[…\]
+
+The post [Gather Around the Table for Santa Clarita’s Thanksgiving Community Dinners!](https://santaclarita.gov/blog/2026/11/16/gather-around-the-table-for-santa-claritas-thanksgiving-community-dinners/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
+      <guid>cid://https://santaclarita.gov/?p=9069</guid>
+      <category>Press Release</category>
+      <pubDate>Mon, 16 Nov 2026 19:20:34 +0000</pubDate>
+    </item>    <item>
+      <title>Draft Environmental Document now available for   I-405 Sepulveda Pass ExpressLanes project</title>
+      <link>https://thesource.metro.net/draft-environmental-document-now-available-for-i-405-sepulveda-pass-expresslanes-project/</link>
+      <description>
+        <![CDATA[<figure><img width="1082" height="1131" src="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/Sepulveda-ExpressLanes-edited.jpg?fit=1082%2C1131&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/Sepulveda-ExpressLanes-edited.jpg?w=1082&amp;ssl=1 1082w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/Sepulveda-ExpressLanes-edited.jpg?resize=383%2C400&amp;ssl=1 383w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/Sepulveda-ExpressLanes-edited.jpg?resize=768%2C803&amp;ssl=1 768w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/Sepulveda-ExpressLanes-edited.jpg?resize=400%2C418&amp;ssl=1 400w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/Sepulveda-ExpressLanes-edited.jpg?fit=1082%2C1131&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>Weary of gridlock and soul-sucking traffic on the 405 through the Sepulveda Pass? We’re studying ways to move people more efficiently on the 405 as part of our I-405 Sepulveda Pass ExpressLanes Project. The slides below show the project options under study &#8211; Alternatives 1, 2, 3 and 5 (Alt 4 has been eliminated from [&#8230;]]]>
+      </description>
+      <source:markdown>![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/Sepulveda-ExpressLanes-edited.jpg?fit=1082%2C1131&#38;ssl=1)Weary of gridlock and soul-sucking traffic on the 405 through the Sepulveda Pass? We’re studying ways to move people more efficiently on the 405 as part of our I-405 Sepulveda Pass ExpressLanes Project. The slides below show the project options under study – Alternatives 1, 2, 3 and 5 (Alt 4 has been eliminated from \[…\]</source:markdown>
+      <guid>cid://https://thesource.metro.net/?p=148265</guid>
+      <category>Projects</category>
+      <category>Featured Post</category>
+      <pubDate>Mon, 16 Nov 2026 19:04:09 +0000</pubDate>
+    </item>    <item>
+      <title>In the Age of A.I. Slop, a Montebello Metalhead Still Proudly Draws Albums and Flyers By Hand</title>
+      <link>https://lataco.com/black-metal-punk-album-art</link>
+      <description>
+        <![CDATA[<p>“I need to paint and draw my best to compete against this A.I. shit,” Guillermo Millán says. "There’s some people who use A.I. to write music, and it’s just wack."</p>
+        <p>The post <a href="https://lataco.com/black-metal-punk-album-art">In the Age of A.I. Slop, a Montebello Metalhead Still Proudly Draws Albums and Flyers By Hand</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
+      </description>
+      <source:markdown>“I need to paint and draw my best to compete against this A.I. shit,” Guillermo Millán says. &#34;There’s some people who use A.I. to write music, and it’s just wack.&#34;
+
+The post [In the Age of A.I. Slop, a Montebello Metalhead Still Proudly Draws Albums and Flyers By Hand](https://lataco.com/black-metal-punk-album-art) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
+      <guid>cid://https://lataco.com/?p=184993</guid>
+      <category>Art</category>
+      <category>Culture</category>
+      <category>Music</category>
+      <category>metal</category>
+      <category>painting</category>
+      <pubDate>Mon, 16 Nov 2026 18:31:31 +0000</pubDate>
+    </item>    <item>
       <title>For years, LA County has been plagued by hospice fraud. Here&#39;s how typical hospice schemes work</title>
       <link>https://laist.com/news/criminal-justice/for-years-la-county-has-been-plagued-by-hospice-fraud-heres-how-typical-hospice-schemes-work</link>
       <description>
-        <![CDATA[Prosecutors and advocates say recruiters for fraudulent hospice companies offer senior cash, gift cards or free supplies to entice them to share Medicare ID numbers.]]>
+        <![CDATA[Prosecutors and advocates say recruiters for fraudulent hospice companies offer older people cash, gift cards or free supplies to entice them to share Medicare ID numbers.]]>
       </description>
-      <source:markdown>Prosecutors and advocates say recruiters for fraudulent hospice companies offer senior cash, gift cards or free supplies to entice them to share Medicare ID numbers.</source:markdown>
+      <source:markdown>Prosecutors and advocates say recruiters for fraudulent hospice companies offer older people cash, gift cards or free supplies to entice them to share Medicare ID numbers.</source:markdown>
       <guid>cid://urn:uuid:000001a1-c681-d37e-afbd-dfcdc5860000</guid>
       <pubDate>Mon, 16 Nov 2026 13:00:00 +0000</pubDate>
     </item>    <item>
@@ -148,7 +351,7 @@ The post [Community Meeting on Proposed Courthouse](https://santaclarita.gov/blo
       <category>From the City Manager</category>
       <pubDate>Sat, 14 Nov 2026 15:47:07 +0000</pubDate>
     </item>    <item>
-      <title>600 strangers, 16 miles, just because — LA’s mellowest walking party hits Route 66 next Saturday</title>
+      <title>600 strangers, 16 miles, just because — LA’s mellowest walking party hits Route 66 on Saturday</title>
       <link>https://laist.com/news/los-angeles-activities/great-los-angeles-walk-2026-route-66</link>
       <description>
         <![CDATA[The Great Los Angeles Walk has covered Wilshire, Pico and Sunset on foot since 2006. It’s free and you can just show up.]]>
@@ -364,7 +567,7 @@ The post [ICE WATCH: The Emotional Toll of Interviewing Detainees As an Immigrat
       <title>Go Metro to Camp Flog Gnaw and the best fall events in Los Angeles: November 13-15</title>
       <link>https://thesource.metro.net/go-metro-to-camp-flog-gnaw-and-the-best-fall-events-in-los-angeles-november-13-15/</link>
       <description>
-        <![CDATA[<figure><img width="1200" height="800" src="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/799308283_1630785628403621_4173385629581106395_n.jpg?fit=1200%2C800&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/799308283_1630785628403621_4173385629581106395_n.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/799308283_1630785628403621_4173385629581106395_n.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/799308283_1630785628403621_4173385629581106395_n.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/799308283_1630785628403621_4173385629581106395_n.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/799308283_1630785628403621_4173385629581106395_n.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/799308283_1630785628403621_4173385629581106395_n.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/799308283_1630785628403621_4173385629581106395_n.jpg?fit=1200%2C800&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>Space Shuttle Endeavour gets its permanent home, Tyler, the Creator throws his carnival at Dodger Stadium and Pasadena closes its streets to cars for CicLAvia. It&#8217;s a big weekend, and Metro can get you to all of it without a parking headache. Here&#8217;s what&#8217;s happening. All Weekend Camp Flog Gnaw takes over the Dodger Stadium [&#8230;]]]>
+        <![CDATA[<figure><img width="1200" height="800" src="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/799308283_1630785628403621_4173385629581106395_n.jpg?fit=1200%2C800&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/799308283_1630785628403621_4173385629581106395_n.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/799308283_1630785628403621_4173385629581106395_n.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/799308283_1630785628403621_4173385629581106395_n.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/799308283_1630785628403621_4173385629581106395_n.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/799308283_1630785628403621_4173385629581106395_n.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/799308283_1630785628403621_4173385629581106395_n.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/799308283_1630785628403621_4173385629581106395_n.jpg?fit=1200%2C800&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>Space Shuttle Endeavour gets its permanent home, Tyler, the Creator throws his carnival at Dodger Stadium and Pasadena closes its streets to cars for CicLAvia. It&#8217;s a big weekend, and Metro can get you to all of it without a parking headache. Here&#8217;s what&#8217;s happening. All Weekend Camp Flog Gnaw takes over the Dodger Stadium [&#8230;]]]>
       </description>
       <source:markdown>![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/799308283_1630785628403621_4173385629581106395_n.jpg?fit=1200%2C800&#38;ssl=1)Space Shuttle Endeavour gets its permanent home, Tyler, the Creator throws his carnival at Dodger Stadium and Pasadena closes its streets to cars for CicLAvia. It’s a big weekend, and Metro can get you to all of it without a parking headache. Here’s what’s happening. All Weekend Camp Flog Gnaw takes over the Dodger Stadium \[…\]</source:markdown>
       <guid>cid://https://thesource.metro.net/?p=148248</guid>
@@ -415,7 +618,7 @@ The post [Our 20 Favorite Diners in Los Angeles](https://lataco.com/best-diners-
       <title>Commuters Remember Street Vendors Tragically Killed in NoHo Metro Crash</title>
       <link>https://sanfernandosun.com/2026/11/12/commuters-remember-street-vendors-tragically-killed-in-noho-metro-crash/</link>
       <description>
-        <![CDATA[<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=780%2C585&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+        <![CDATA[<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=780%2C585&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261112_092009-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
         <p>At the corner of Lankershim and Chandler North boulevards in North Hollywood, outside the NoHo Metro station, a growing memorial with flowers, candles, photos and condolence notes pays tribute to [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2026/11/12/commuters-remember-street-vendors-tragically-killed-in-noho-metro-crash/">Commuters Remember Street Vendors Tragically Killed in NoHo Metro Crash</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
@@ -563,7 +766,7 @@ The post [Thank You, Santa Clarita](https://santaclarita.gov/blog/2026/11/12/tha
       <title>El Desfile Anual del Día de los Veteranos Pone el Focoen los Veteranos judíos</title>
       <link>https://sanfernandosun.com/2026/11/11/el-desfile-anual-del-dia-de-los-veteranos-pone-el-focoen-los-veteranos-judios/</link>
       <description>
-        <![CDATA[<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=1536%2C1157&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=2048%2C1542&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=1200%2C904&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=2000%2C1506&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=780%2C587&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=706%2C532&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+        <![CDATA[<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=1536%2C1157&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=2048%2C1542&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=1200%2C904&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=2000%2C1506&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=780%2C587&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?resize=706%2C532&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261111_195418670-1-scaled.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
         <p>Entre los muchos vehículos que recorrieron Laurel Canyon Boulevard en el 23.º Desfile Anual de Veteranos del Valle de San Fernando, ante las olas de aplausos y los gritos de [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2026/11/11/el-desfile-anual-del-dia-de-los-veteranos-pone-el-focoen-los-veteranos-judios/">El Desfile Anual del Día de los Veteranos Pone el Focoen los Veteranos judíos</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
@@ -581,7 +784,7 @@ The post [El Desfile Anual del Día de los Veteranos Pone el Focoen los Veterano
       <title>Día de los Veteranos: Apoyar a Quienes Enfrentan las Heridas Invisibles del TEPT</title>
       <link>https://sanfernandosun.com/2026/11/11/dia-de-los-veteranos-apoyar-a-quienes-enfrentan-las-heridas-invisibles-del-tept/</link>
       <description>
-        <![CDATA[<figure><img width="1000" height="730" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PTSD-1.jpg?fit=1000%2C730&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PTSD-1.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PTSD-1.jpg?resize=300%2C219&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PTSD-1.jpg?resize=768%2C561&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PTSD-1.jpg?resize=780%2C569&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PTSD-1.jpg?resize=400%2C292&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PTSD-1.jpg?resize=706%2C515&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PTSD-1.jpg?fit=1000%2C730&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+        <![CDATA[<figure><img width="1000" height="730" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PTSD-1.jpg?fit=1000%2C730&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PTSD-1.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PTSD-1.jpg?resize=300%2C219&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PTSD-1.jpg?resize=768%2C561&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PTSD-1.jpg?resize=780%2C569&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PTSD-1.jpg?resize=400%2C292&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PTSD-1.jpg?resize=706%2C515&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PTSD-1.jpg?fit=1000%2C730&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
         <p>El Valle de San Fernando conmemoró el Día de los Veteranos el miércoles 11 de noviembre para honrar a los hombres y mujeres que han servido en las Fuerzas Armadas [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2026/11/11/dia-de-los-veteranos-apoyar-a-quienes-enfrentan-las-heridas-invisibles-del-tept/">Día de los Veteranos: Apoyar a Quienes Enfrentan las Heridas Invisibles del TEPT </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
@@ -629,7 +832,7 @@ The post [EVENTOS Locales – Semana de  12 de noviembre, 2026](https://sanfern
       <title>La Familia de Gabriel Fernández Desafía la Decisión de Newsom de Conmutar Sentencias de Muerte en California</title>
       <link>https://sanfernandosun.com/2026/11/11/la-familia-de-gabriel-fernandez-desafia-la-decision-de-newsom-de-conmutar-sentencias-de-muerte-en-california/</link>
       <description>
-        <![CDATA[<figure><img width="1024" height="940" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/1000029165-e1794462801992.jpg?fit=1024%2C940&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/1000029165-e1794462801992.jpg?w=1536&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/1000029165-e1794462801992.jpg?resize=300%2C275&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/1000029165-e1794462801992.jpg?resize=1024%2C940&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/1000029165-e1794462801992.jpg?resize=768%2C705&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/1000029165-e1794462801992.jpg?resize=1200%2C1102&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/1000029165-e1794462801992.jpg?resize=780%2C716&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/1000029165-e1794462801992.jpg?resize=400%2C367&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/1000029165-e1794462801992.jpg?resize=706%2C648&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/1000029165-e1794462801992.jpg?fit=1024%2C940&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+        <![CDATA[<figure><img width="1024" height="940" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/1000029165-e1794462801992.jpg?fit=1024%2C940&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/1000029165-e1794462801992.jpg?w=1536&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/1000029165-e1794462801992.jpg?resize=300%2C275&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/1000029165-e1794462801992.jpg?resize=1024%2C940&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/1000029165-e1794462801992.jpg?resize=768%2C705&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/1000029165-e1794462801992.jpg?resize=1200%2C1102&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/1000029165-e1794462801992.jpg?resize=780%2C716&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/1000029165-e1794462801992.jpg?resize=400%2C367&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/1000029165-e1794462801992.jpg?resize=706%2C648&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/1000029165-e1794462801992.jpg?fit=1024%2C940&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
         <p>La Criminal Justice Legal Foundation (CJLF) tiene actualmente una petición de desafío que podría anteceder una demanda en nombre de familiares de la víctima del asesinato del niño de 8 [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2026/11/11/la-familia-de-gabriel-fernandez-desafia-la-decision-de-newsom-de-conmutar-sentencias-de-muerte-en-california/">La Familia de Gabriel Fernández Desafía la Decisión de Newsom de Conmutar Sentencias de Muerte en California</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
@@ -662,7 +865,7 @@ The post [Dos de los Principales Legisladores del Noreste del Valle de San Ferna
       <title>Miembros de la Comunidad Expresan Preocupaciones al Contratar al Próximo Jefe de la SFPD</title>
       <link>https://sanfernandosun.com/2026/11/11/miembros-de-la-comunidad-expresan-preocupaciones-al-contratar-al-proximo-jefe-de-la-sfpd/</link>
       <description>
-        <![CDATA[<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Meeting-03-e1794462527312.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Meeting-03-e1794462527312.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Meeting-03-e1794462527312.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Meeting-03-e1794462527312.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Meeting-03-e1794462527312.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Meeting-03-e1794462527312.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+        <![CDATA[<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Meeting-03-e1794462527312.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Meeting-03-e1794462527312.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Meeting-03-e1794462527312.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Meeting-03-e1794462527312.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Meeting-03-e1794462527312.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Meeting-03-e1794462527312.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
         <p>Durante una reunión comunitaria en la Ciudad de San Fernando la semana pasada, residentes dieron su opinión sobre sus preocupaciones respecto a la contratación del próximo jefe permanente del Departamento [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2026/11/11/miembros-de-la-comunidad-expresan-preocupaciones-al-contratar-al-proximo-jefe-de-la-sfpd/">Miembros de la Comunidad Expresan Preocupaciones al Contratar al Próximo Jefe de la SFPD</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
@@ -680,7 +883,7 @@ The post [Miembros de la Comunidad Expresan Preocupaciones al Contratar al Próx
       <title>Miembro del Consejo Blumenfield, Líderes Comunitarios Abren el Primer Parque Autosuficiente de LA</title>
       <link>https://sanfernandosun.com/2026/11/11/miembro-del-consejo-blumenfield-lideres-comunitarios-abren-el-primer-parque-autosuficiente-de-la/</link>
       <description>
-        <![CDATA[<figure><img width="1024" height="625" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?fit=1024%2C625&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?w=1710&amp;ssl=1 1710w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?resize=300%2C183&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?resize=1024%2C625&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?resize=768%2C468&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?resize=1536%2C937&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?resize=1200%2C732&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?resize=780%2C476&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?resize=400%2C244&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?resize=706%2C431&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?fit=1024%2C625&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+        <![CDATA[<figure><img width="1024" height="625" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?fit=1024%2C625&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?w=1710&amp;ssl=1 1710w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?resize=300%2C183&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?resize=1024%2C625&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?resize=768%2C468&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?resize=1536%2C937&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?resize=1200%2C732&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?resize=780%2C476&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?resize=400%2C244&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?resize=706%2C431&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Caballero-Wetlands-1-e1794462387201.jpeg?fit=1024%2C625&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
         <p>El recién inaugurado parque Caballero Creek en Reseda es “el primer parque autosuficiente en Los Ángeles”, que utiliza energía solar para captar y limpiar agua para el riego, anunciaron funcionarios [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2026/11/11/miembro-del-consejo-blumenfield-lideres-comunitarios-abren-el-primer-parque-autosuficiente-de-la/">Miembro del Consejo Blumenfield, Líderes Comunitarios Abren el Primer Parque Autosuficiente de LA</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
@@ -3380,119 +3583,6 @@ The post [Photo Essay: Tacos and Live Graffiti at L.A. TACO Community Day at The
       <category>Site News</category>
       <category>The Broad</category>
       <pubDate>Tue, 27 Oct 2026 00:57:43 +0000</pubDate>
-    </item>    <item>
-      <title>Halloween costumes have a spooky environmental impact. Swaps are a way to reduce waste and recycle</title>
-      <link>https://laist.com/news/climate-environment/halloween-costumes-environmental-impact</link>
-      <description>
-        <![CDATA[Every year, millions of Halloween costumes end up in a landfill after a single use, and many are made from synthetic plastics that don’t easily break down.]]>
-      </description>
-      <source:markdown>Every year, millions of Halloween costumes end up in a landfill after a single use, and many are made from synthetic plastics that don’t easily break down.</source:markdown>
-      <guid>cid://urn:uuid:000001a1-7a59-d9db-aba9-feddc0180001</guid>
-      <pubDate>Mon, 26 Oct 2026 23:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>9th Circuit questions DOJ demand to set aside 20,000 California mail ballots</title>
-      <link>https://laist.com/news/politics/9th-circuit-questions-doj-demand-to-set-aside-20-000-california-mail-ballots</link>
-      <description>
-        <![CDATA[A panel of federal judges questioned the timing, constitutionality and authority of the Justice Department’s demand that election officials set aside thousands of ballots.]]>
-      </description>
-      <source:markdown>A panel of federal judges questioned the timing, constitutionality and authority of the Justice Department’s demand that election officials set aside thousands of ballots.</source:markdown>
-      <guid>cid://urn:uuid:000001a1-797c-d9db-aba9-fdfd83310001</guid>
-      <pubDate>Mon, 26 Oct 2026 20:30:00 +0000</pubDate>
-    </item>    <item>
-      <title>Richard Marx brings his take on the Great American Songbook to SoCal</title>
-      <link>https://laist.com/news/arts-and-entertainment/richard-marx-great-american-songbook-los-angeles</link>
-      <description>
-        <![CDATA[Marx headlines Yaamava’ Theater at Yaamava’ Resort & Casino in Highland on Sunday, Nov. 1.]]>
-      </description>
-      <source:markdown>Marx headlines Yaamava’ Theater at Yaamava’ Resort &#38; Casino in Highland on Sunday, Nov. 1.</source:markdown>
-      <guid>cid://urn:uuid:000001a1-789e-d476-a3a1-fb9fa33f0001</guid>
-      <pubDate>Mon, 26 Oct 2026 19:29:35 +0000</pubDate>
-    </item>    <item>
-      <title>Newsletter: Prosecutors Fought To Keep Him In Prison For 20+ Years, Now They Want To Make a Deal</title>
-      <link>https://lataco.com/luis-miguel-salinas-update</link>
-      <description>
-        <![CDATA[<p>“We are open to receiving an offer with the condition that we know Mr. Salinas is willing to take it," Deputy District Attorney Jessica Balady told Judge Karla Kerlin.</p>
-        <p>The post <a href="https://lataco.com/luis-miguel-salinas-update">Newsletter: Prosecutors Fought To Keep Him In Prison For 20+ Years, Now They Want To Make a Deal</a> appeared first on <a href="https://lataco.com">L.A. TACO</a>.</p>]]>
-      </description>
-      <source:markdown>“We are open to receiving an offer with the condition that we know Mr. Salinas is willing to take it,&#34; Deputy District Attorney Jessica Balady told Judge Karla Kerlin.
-
-The post [Newsletter: Prosecutors Fought To Keep Him In Prison For 20+ Years, Now They Want To Make a Deal](https://lataco.com/luis-miguel-salinas-update) appeared first on [L.A. TACO](https://lataco.com).</source:markdown>
-      <guid>cid://https://lataco.com/?p=184428</guid>
-      <category>Taco Members Only</category>
-      <category>Investigations Newsletter</category>
-      <pubDate>Mon, 26 Oct 2026 18:45:51 +0000</pubDate>
-    </item>    <item>
-      <title>Start watching your speed, LA speed cameras go online today</title>
-      <link>https://laist.com/news/transportation/start-watching-your-speed-la-speed-cameras-go-online-today</link>
-      <description>
-        <![CDATA[About one-fifth of the city of Los Angeles’ new speed cameras are now issuing warnings, with the rest slated to go live later this year.]]>
-      </description>
-      <source:markdown>About one-fifth of the city of Los Angeles’ new speed cameras are now issuing warnings, with the rest slated to go live later this year.</source:markdown>
-      <guid>cid://urn:uuid:000001a1-796f-dc15-a9f9-fb6f3f1b0000</guid>
-      <pubDate>Mon, 26 Oct 2026 18:31:34 +0000</pubDate>
-    </item>    <item>
-      <title>Celebrate 27 Years of Halloween Fun at the Newhall Community Center</title>
-      <link>https://santaclarita.gov/blog/2026/10/26/celebrate-27-years-of-halloween-fun-at-the-newhall-community-center/</link>
-      <description>
-        <![CDATA[<p>Join the Viva Halloween Celebration with Trick-or-Treating, Costumes and Family-Friendly Activities Get your costumes ready for a spooktacular evening of Halloween fun! The City of Santa Clarita invites families to celebrate 27 years of Halloween festivities at the Newhall Community Center, located at 22421 Market Street, with Viva Halloween on Friday, October 30, from 6:00 [&#8230;]</p>
-        <p>The post <a href="https://santaclarita.gov/blog/2026/10/26/celebrate-27-years-of-halloween-fun-at-the-newhall-community-center/">Celebrate 27 Years of Halloween Fun at the Newhall Community Center</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
-      </description>
-      <source:markdown>Join the Viva Halloween Celebration with Trick-or-Treating, Costumes and Family-Friendly Activities Get your costumes ready for a spooktacular evening of Halloween fun! The City of Santa Clarita invites families to celebrate 27 years of Halloween festivities at the Newhall Community Center, located at 22421 Market Street, with Viva Halloween on Friday, October 30, from 6:00 \[…\]
-
-The post [Celebrate 27 Years of Halloween Fun at the Newhall Community Center](https://santaclarita.gov/blog/2026/10/26/celebrate-27-years-of-halloween-fun-at-the-newhall-community-center/) appeared first on [City of Santa Clarita](https://santaclarita.gov).</source:markdown>
-      <guid>cid://https://santaclarita.gov/?p=8978</guid>
-      <category>Press Release</category>
-      <pubDate>Mon, 26 Oct 2026 18:05:21 +0000</pubDate>
-    </item>    <item>
-      <title>Walter Koenig, Ensign Chekov on original &#39;Star Trek&#39; series, dies at 90</title>
-      <link>https://laist.com/news/arts-and-entertainment/walter-koenig-ensign-chekov-on-original-star-trek-series-dies-at-90</link>
-      <description>
-        <![CDATA[Koenig died Monday at his home in the North Hollywood neighborhood of Los Angeles, talent agent Zachery McGinnis said in a statement.]]>
-      </description>
-      <source:markdown>Koenig died Monday at his home in the North Hollywood neighborhood of Los Angeles, talent agent Zachery McGinnis said in a statement.</source:markdown>
-      <guid>cid://urn:uuid:000001a1-7943-d476-a3a1-fb4fbc610000</guid>
-      <pubDate>Mon, 26 Oct 2026 17:39:32 +0000</pubDate>
-    </item>    <item>
-      <title>Vandenberg Hosts Orientation Tour for Indonesian Air Force Leaders</title>
-      <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4639367/vandenberg-hosts-orientation-tour-for-indonesian-air-force-leaders/</link>
-      <description>
-        <![CDATA[Senior leaders from the Indonesian air force stand alongside Guardians during a distinguished visitor orientation tour at Vandenberg Space Force Base, California, Oct. 26, 2026.<br/> 
-        <img src='https://media.defense.gov/2026/Nov/02/2004022071/300/300/0/261026-X-DW038-1018.JPG' alt='People stand near each other' /> <br />]]>
-      </description>
-      <source:markdown>Senior leaders from the Indonesian air force stand alongside Guardians during a distinguished visitor orientation tour at Vandenberg Space Force Base, California, Oct. 26, 2026.
-
-![People stand near each other](https://media.defense.gov/2026/Nov/02/2004022071/300/300/0/261026-X-DW038-1018.JPG)</source:markdown>
-      <enclosure url="https://media.defense.gov/2026/Nov/02/2004022071/700/700/0/261026-X-DW038-1018.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4639367/vandenberg-hosts-orientation-tour-for-indonesian-air-force-leaders/</guid>
-      <category>News</category>
-      <pubDate>Mon, 26 Oct 2026 16:52:00 +0000</pubDate>
-    </item>    <item>
-      <title>Concerned about school closures? LAUSD adds meetings to get community input</title>
-      <link>https://laist.com/news/education/los-angeles-unified-school-district-november-2026-community-meetings</link>
-      <description>
-        <![CDATA[One district official says this is the beginning of “one of the most consequential initiatives” in decades.]]>
-      </description>
-      <source:markdown>One district official says this is the beginning of “one of the most consequential initiatives” in decades.</source:markdown>
-      <guid>cid://urn:uuid:000001a1-6a57-db16-a3ab-ebdfe61c0001</guid>
-      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>If elected, Nithya Raman could shake up the LA Olympics. Here’s how</title>
-      <link>https://laist.com/news/politics/nithya-raman-could-shake-up-los-angeles-olympics-heres-how</link>
-      <description>
-        <![CDATA[The mayor has the power to appoint and fire people in key positions, set a new agenda for the city and put more public pressure on Olympics organizers.]]>
-      </description>
-      <source:markdown>The mayor has the power to appoint and fire people in key positions, set a new agenda for the city and put more public pressure on Olympics organizers.</source:markdown>
-      <guid>cid://urn:uuid:000001a1-6a23-d476-a3a1-fb2f87d40000</guid>
-      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>The hidden history of LA’s Underground Railroad includes an unsolved emancipation mystery</title>
-      <link>https://laist.com/news/la-history/the-hidden-history-of-las-underground-railroad</link>
-      <description>
-        <![CDATA[While Biddy Mason's emancipation from slavery is celebrated, the framework that led to her freedom in LA is less well-known]]>
-      </description>
-      <source:markdown>While Biddy Mason&#39;s emancipation from slavery is celebrated, the framework that led to her freedom in LA is less well-known</source:markdown>
-      <guid>cid://urn:uuid:000001a1-6005-d476-a3a1-f30f3ddf0001</guid>
-      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
