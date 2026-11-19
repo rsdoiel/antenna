@@ -4,10 +4,259 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>18 Nov 26 06:45 -0800</lastBuildDate>
+    <lastBuildDate>19 Nov 26 06:45 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/</link>
+      <description>
+        <![CDATA[GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big gaming plans, smaller price tag.  Keep the holiday savings going: Check out more NVIDIA holiday deals for gamers, [&#8230;]]]>
+      </description>
+      <source:markdown>GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big gaming plans, smaller price tag.  Keep the holiday savings going: Check out more NVIDIA holiday deals for gamers, \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=100100</guid>
+      <category>Gaming</category>
+      <category>Cloud Gaming</category>
+      <category>GeForce NOW</category>
+      <pubDate>Thu, 19 Nov 2026 14:00:12 +0000</pubDate>
+    </item>    <item>
+      <title>APOD: 2026 November 19 – The Horsehead and Flame Nebulas</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 November 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 November 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/</guid>
+      <category>APOD</category>
+      <pubDate>Thu, 19 Nov 2026 05:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>El Niño Rains Paint the Atacama</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/</link>
+      <description>
+        <![CDATA[Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.]]>
+      </description>
+      <source:markdown>Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/</guid>
+      <category>Earth Observatory</category>
+      <category>El Niño - Southern Oscillation</category>
+      <category>Land Cover</category>
+      <category>Landsat 8 / LDCM (Landsat Data Continuity Mission)</category>
+      <category>Landsat 9</category>
+      <category>Vegetation</category>
+      <pubDate>Thu, 19 Nov 2026 05:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch</title>
+      <link>https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/</link>
+      <description>
+        <![CDATA[NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus [&#8230;]]]>
+      </description>
+      <source:markdown>NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1066512</guid>
+      <category>Northrop Grumman Commercial Resupply</category>
+      <category>Commercial Resupply</category>
+      <category>International Space Station (ISS)</category>
+      <category>ISS Research</category>
+      <category>Johnson Space Center</category>
+      <category>Kennedy Space Center</category>
+      <pubDate>Wed, 18 Nov 2026 22:19:17 +0000</pubDate>
+    </item>    <item>
+      <title>Windows Server 2028 enters public preview with hardened Server Core by default</title>
+      <link>https://www.osnews.com/story/146433/windows-server-2028-enters-public-preview-with-hardened-server-core-by-default/</link>
+      <description>
+        <![CDATA[Microsoft has announced the public preview of Window Server 2028, and of course, the announcement is a useless jumble of buzzwords and slop, so I&#8217;m not going to spend any time decoding it. However, there is one major change coming in Server 2028 that everyone working with this platform really ought to be aware of &#8211; a massive hardening of Server Core that will definitely break things that used to work fine on Server 2025. It even got its own detailed blog post that&#8217;s a lot more interesting than the actual public preview announcement. Up to and including Windows Server 2025, a stock installation was insecure, unhardened by default, with the expectation and norm being that administrators applied their own hardening scripts and settings post-installation. With Server 2028, that&#8217;s changing, and Server Core will now be secured and hardened out of the box, with administrators having to explicitly relax any settings their workloads might require. Starting with Windows Server Insider Preview build 29706, Server Core installs hardened. Hundreds of security settings are on from first boot. They&#8217;re aligned with the industry benchmarks you&#8217;re already measured against, such as CIS and DISA STIG. The secure configuration is the starting state, not a project you run after setup. That closes the window where a newly deployed server sits exposed while it waits to be hardened.  ↫ Christina Curlette Things like identity and authentication, cryptography, privilege and admin access, remote access, and more, are all locked down and use only the most up-to-date features, cyphers, best practices, and so on. I&#8217;m no system administrator, but it seems kind of wild to me that this hasn&#8217;t always been the norm. I&#8217;m glad they&#8217;re at least moving to it now, starting with Insider Preview build 29706]]>
+      </description>
+      <source:markdown>Microsoft has announced the public preview of Window Server 2028, and of course, the announcement is a useless jumble of buzzwords and slop, so I’m not going to spend any time decoding it. However, there is one major change coming in Server 2028 that everyone working with this platform really ought to be aware of – a massive hardening of Server Core that will definitely break things that used to work fine on Server 2025. It even got its own detailed blog post that’s a lot more interesting than the actual public preview announcement. Up to and including Windows Server 2025, a stock installation was insecure, unhardened by default, with the expectation and norm being that administrators applied their own hardening scripts and settings post-installation. With Server 2028, that’s changing, and Server Core will now be secured and hardened out of the box, with administrators having to explicitly relax any settings their workloads might require. Starting with Windows Server Insider Preview build 29706, Server Core installs hardened. Hundreds of security settings are on from first boot. They’re aligned with the industry benchmarks you’re already measured against, such as CIS and DISA STIG. The secure configuration is the starting state, not a project you run after setup. That closes the window where a newly deployed server sits exposed while it waits to be hardened.  ↫ Christina Curlette Things like identity and authentication, cryptography, privilege and admin access, remote access, and more, are all locked down and use only the most up-to-date features, cyphers, best practices, and so on. I’m no system administrator, but it seems kind of wild to me that this hasn’t always been the norm. I’m glad they’re at least moving to it now, starting with Insider Preview build 29706</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146433</guid>
+      <category>Windows</category>
+      <pubDate>Wed, 18 Nov 2026 20:53:02 +0000</pubDate>
+    </item>    <item>
+      <title>A Modern Forensic Investigation Reveals the Cause of Death of a 2,000-Year-Old Body Found in a Bog in Northern Ireland</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-modern-forensic-investigation-reveals-the-cause-of-death-of-a-2000-year-old-body-found-in-an-bog-in-northern-ireland-180989898/</link>
+      <description>
+        <![CDATA[Archaeologists teamed up with a coroner to determine that the "Ballymacombs More Woman" was just 15 to 22 years old when she was beheaded in what seems to be an Iron Age ritual sacrifice]]>
+      </description>
+      <source:markdown>Archaeologists teamed up with a coroner to determine that the &#34;Ballymacombs More Woman&#34; was just 15 to 22 years old when she was beheaded in what seems to be an Iron Age ritual sacrifice</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/e3vATf4hyQVT8Ij1lHDg8x8xTYU=/420x240/filters:focal(1250x833:1251x834)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3e/98/3e98f196-7b63-4d64-8c49-649328b9d7cd/irish.png" length="3298628" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-modern-forensic-investigation-reveals-the-cause-of-death-of-a-2000-year-old-body-found-in-an-bog-in-northern-ireland-180989898/</guid>
+      <pubDate>Wed, 18 Nov 2026 20:36:20 +0000</pubDate>
+    </item>    <item>
+      <title>A Gene Variant Inherited From Neanderthals Might Affect Modern Humans&#39; Brain Size and Provide Protection Against Schizophrenia</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-gene-variant-inherited-from-neanderthals-might-affect-modern-humans-brain-size-and-provide-protection-against-schizophrenia-180989893/</link>
+      <description>
+        <![CDATA[About 20 percent of people alive today with European ancestry carry at least one copy of the variant, according to a new study. It's associated with a smaller occipital lobe, a region that processes visual information, and up to a nearly 10 percent lower risk of schizophrenia]]>
+      </description>
+      <source:markdown>About 20 percent of people alive today with European ancestry carry at least one copy of the variant, according to a new study. It&#39;s associated with a smaller occipital lobe, a region that processes visual information, and up to a nearly 10 percent lower risk of schizophrenia</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/9ARMVgWmnKtvrI9RjFQ4_Fn7ZoE=/420x240/filters:focal(2561x1708:2562x1709)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/60/60/6060d5a5-c7d0-4437-862b-4783d2c40b8e/neanderthal-skulls.jpg" length="3678021" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-gene-variant-inherited-from-neanderthals-might-affect-modern-humans-brain-size-and-provide-protection-against-schizophrenia-180989893/</guid>
+      <pubDate>Wed, 18 Nov 2026 19:57:10 +0000</pubDate>
+    </item>    <item>
+      <title>Microsoft is finally upgrading Windows 11’s default PowerShell to version 7.x</title>
+      <link>https://www.osnews.com/story/146431/microsoft-is-finally-upgrading-windows-11s-default-powershell-to-version-7-x/</link>
+      <description>
+        <![CDATA[In true Microsoft fashion, the version of PowerShell that ships with every Windows installation is not the latest version of PowerShell. Even if you fully update your Windows 11 installation, including all of its applications, you&#8217;ll still be stuck on an old version of PowerShell. While a fully updated Windows 11 installation has version 5.1, the most recent version is actually PowerShell 7.7. What makes matters worse is that PowerShell 5.1 hasn&#8217;t seen any significant development in ten years, only receiving security updates, with all development work focusing on PowerShell 7 for years now. Well, all of this is finally about to change, as the next version of Windows 11 &#8211; whatever that may be, Microsoft won&#8217;t say &#8211; will ship with PowerShell 7.x instead of 5.1. PowerShell 7 is coming to Windows. Beginning with the next release of Windows, PowerShell 7 will be included as the upgrade for Windows PowerShell 5.1. The Windows team has published the details in KB5137172. Here is what this means for you, your scripts, your automation, and where our work stands. ↫ Jason Helmick at Microsoft&#8217;s Dev Blog Microsoft also explains why it&#8217;s taken this long. The problem is that a lot of scripts, services, and mor rely on PowerShell 5.1, and PowerShell 7&#8217;s backwards compatibility wasn&#8217;t up to Microsoft&#8217;s strict standards on this front for years. Apparently, PowerShell 7.7 is now at a point where Microsoft feels comfortable moving everyone over to it by default. It seems that the only remaining issues stem from the fact that PowerShell 7 is delivered as an MSIX package as opposed to an MSI installer, and this brings some problems with it, which Microsoft is tracking on GitHub. Of course, you can already install and switch to PowerShell 7.x today if you want to, without losing access to PowerShell 5.1, as the two shell versions can live alongside each other.]]>
+      </description>
+      <source:markdown>In true Microsoft fashion, the version of PowerShell that ships with every Windows installation is not the latest version of PowerShell. Even if you fully update your Windows 11 installation, including all of its applications, you’ll still be stuck on an old version of PowerShell. While a fully updated Windows 11 installation has version 5.1, the most recent version is actually PowerShell 7.7. What makes matters worse is that PowerShell 5.1 hasn’t seen any significant development in ten years, only receiving security updates, with all development work focusing on PowerShell 7 for years now. Well, all of this is finally about to change, as the next version of Windows 11 – whatever that may be, Microsoft won’t say – will ship with PowerShell 7.x instead of 5.1. PowerShell 7 is coming to Windows. Beginning with the next release of Windows, PowerShell 7 will be included as the upgrade for Windows PowerShell 5.1. The Windows team has published the details in KB5137172. Here is what this means for you, your scripts, your automation, and where our work stands. ↫ Jason Helmick at Microsoft’s Dev Blog Microsoft also explains why it’s taken this long. The problem is that a lot of scripts, services, and mor rely on PowerShell 5.1, and PowerShell 7’s backwards compatibility wasn’t up to Microsoft’s strict standards on this front for years. Apparently, PowerShell 7.7 is now at a point where Microsoft feels comfortable moving everyone over to it by default. It seems that the only remaining issues stem from the fact that PowerShell 7 is delivered as an MSIX package as opposed to an MSI installer, and this brings some problems with it, which Microsoft is tracking on GitHub. Of course, you can already install and switch to PowerShell 7.x today if you want to, without losing access to PowerShell 5.1, as the two shell versions can live alongside each other.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146431</guid>
+      <category>Windows</category>
+      <pubDate>Wed, 18 Nov 2026 19:34:37 +0000</pubDate>
+    </item>    <item>
+      <title>MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in</title>
+      <link>https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/</link>
+      <description>
+        <![CDATA[Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind.&#160; However, when a short holiday break turns into a full holiday season, we know that this is a different “ball game”. Everyone has stress about something – some people [&#8230;]]]>
+      </description>
+      <source:markdown>Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind.  However, when a short holiday break turns into a full holiday season, we know that this is a different “ball game”. Everyone has stress about something – some people \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1066234</guid>
+      <category>MAF Employee Assistance Program</category>
+      <pubDate>Wed, 18 Nov 2026 18:58:27 +0000</pubDate>
+    </item>    <item>
+      <title>Medieval Readers Saw Floods, Plagues and Comets as Omens of Doom—So They Created a Mysterious Manuscript of Apocalyptic Artworks to Peruse at Will</title>
+      <link>https://www.smithsonianmag.com/smart-news/medieval-readers-saw-floods-plagues-and-comets-as-omens-of-doom-so-they-created-a-mysterious-manuscript-of-apocalyptic-artworks-to-peruse-at-will-180989891/</link>
+      <description>
+        <![CDATA["The Book of Miracles," a 16th-century manuscript likely created in Augsburg, is heading to auction. It features 167 paintings of extreme weather events and strange celestial phenomena]]>
+      </description>
+      <source:markdown>&#34;The Book of Miracles,&#34; a 16th-century manuscript likely created in Augsburg, is heading to auction. It features 167 paintings of extreme weather events and strange celestial phenomena</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/UVehxH03lY1vf9Io3c7hgq_p_7Q=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b3/52/b352a8b9-fa88-46f1-aca8-190dd01b70ca/comet.jpg" length="234231" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/medieval-readers-saw-floods-plagues-and-comets-as-omens-of-doom-so-they-created-a-mysterious-manuscript-of-apocalyptic-artworks-to-peruse-at-will-180989891/</guid>
+      <pubDate>Wed, 18 Nov 2026 18:53:36 +0000</pubDate>
+    </item>    <item>
+      <title>Hours Before It Was Expected to Sell for Up to $3.5 Million, This Frida Kahlo Painting Was Whisked From the Auction Block</title>
+      <link>https://www.smithsonianmag.com/smart-news/hours-before-it-was-expected-to-sell-for-up-to-3-million-this-frida-kahlo-painting-was-whisked-from-the-auction-block-180989890/</link>
+      <description>
+        <![CDATA[The 1952 painting, "Congreso de los pueblos por la paz," allegedly disappeared from Kahlo's house-museum in Mexico City under suspicious circumstances. Heritage groups argue that it rightfully belongs to the Mexican public]]>
+      </description>
+      <source:markdown>The 1952 painting, &#34;Congreso de los pueblos por la paz,&#34; allegedly disappeared from Kahlo&#39;s house-museum in Mexico City under suspicious circumstances. Heritage groups argue that it rightfully belongs to the Mexican public</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/5outg3UHY7Rsn4UptQwmCaaxr_4=/420x240/filters:focal(512x346:513x347)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/12/90/12906235-3c2d-479a-aad5-09aad4edb6aa/gettyimages-1250792563.jpg" length="110513" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/hours-before-it-was-expected-to-sell-for-up-to-3-million-this-frida-kahlo-painting-was-whisked-from-the-auction-block-180989890/</guid>
+      <pubDate>Wed, 18 Nov 2026 18:30:48 +0000</pubDate>
+    </item>    <item>
+      <title>A Child Tossed a Hat, and a Ceiling Fan Sent It Flying Into a Hippo&#39;s Zoo Enclosure, Where the Animal Ate It. Here&#39;s How the Care Team Is Responding</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-child-tossed-a-hat-and-a-ceiling-fan-sent-it-flying-into-a-hippos-zoo-enclosure-where-the-animal-ate-it-heres-how-the-care-team-is-responding-180989894/</link>
+      <description>
+        <![CDATA[The Cincinnati Zoo’s beloved hippo Fiona is under constant medical surveillance, but her carers are “cautiously optimistic” that she will pass the object on her own and recover]]>
+      </description>
+      <source:markdown>The Cincinnati Zoo’s beloved hippo Fiona is under constant medical surveillance, but her carers are “cautiously optimistic” that she will pass the object on her own and recover</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/gz673zeNTjPedC2DMH9x2bUCt_I=/420x240/filters:focal(295x334:296x335)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/27/22/2722bf19-e3d7-4c68-b687-ed20dcd4ca3d/smithmag-hippo.jpg" length="1089964" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/a-child-tossed-a-hat-and-a-ceiling-fan-sent-it-flying-into-a-hippos-zoo-enclosure-where-the-animal-ate-it-heres-how-the-care-team-is-responding-180989894/</guid>
+      <pubDate>Wed, 18 Nov 2026 18:21:00 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Announces Mid-Power Electric Rocket Challenge for US Companies</title>
+      <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/</link>
+      <description>
+        <![CDATA[NASA launched a new competition inviting U.S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust for long-duration missions. Used for propelling satellites and deep [&#8230;]]]>
+      </description>
+      <source:markdown>NASA launched a new competition inviting U.S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust for long-duration missions. Used for propelling satellites and deep \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1066292</guid>
+      <category>Prizes, Challenges, and Crowdsourcing Program</category>
+      <category>Center of Excellence for Collaborative Innovation (CoECI)</category>
+      <category>CoECI News</category>
+      <category>Glenn Research Center</category>
+      <category>Prizes, Challenges, &#38; Crowdsourcing News</category>
+      <category>Research and Technology Mission Directorate</category>
+      <pubDate>Wed, 18 Nov 2026 18:12:32 +0000</pubDate>
+    </item>    <item>
+      <title>Empire State Building Goes Gold for Voyager</title>
+      <link>https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/</link>
+      <description>
+        <![CDATA[The Empire State Building is seen illuminated in gold to celebrate NASA&#8217;s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. 17, 2026. The color gold represents the gold-plated copper phonograph record that is flying on Voyager; the Golden Record contains [&#8230;]]]>
+      </description>
+      <source:markdown>The Empire State Building is seen illuminated in gold to celebrate NASA’s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. 17, 2026. The color gold represents the gold-plated copper phonograph record that is flying on Voyager; the Golden Record contains \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1066283</guid>
+      <category>Voyager 1</category>
+      <category>Voyager Program</category>
+      <pubDate>Wed, 18 Nov 2026 17:50:26 +0000</pubDate>
+    </item>    <item>
+      <title>What Is the Moon Base?</title>
+      <link>https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/</link>
+      <description>
+        <![CDATA[This article is for students. NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base is humanity’s first lunar outpost. It will be a place where astronauts live, work, and explore. ______________________________________________________________________ Words to Know outpost: a station or base located in [&#8230;]]]>
+      </description>
+      <source:markdown>This article is for students. NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base is humanity’s first lunar outpost. It will be a place where astronauts live, work, and explore. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Words to Know outpost: a station or base located in \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1066187</guid>
+      <category>For Kids and Students</category>
+      <category>Explore</category>
+      <category>Grades 5 - 8</category>
+      <category>Learning Resources</category>
+      <pubDate>Wed, 18 Nov 2026 17:36:03 +0000</pubDate>
+    </item>    <item>
+      <title>Thank You for Doing NASA Science!</title>
+      <link>https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/</link>
+      <description>
+        <![CDATA[It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! You and NASA’s other volunteers have enabled an incredible banquet of discoveries—by taking data, analyzing data, writing code, writing papers, and even inventing your own science projects. Whether you’re an expert participant or someone who’s just started your science journey, […]]]>
+      </description>
+      <source:markdown>It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! You and NASA’s other volunteers have enabled an incredible banquet of discoveries—by taking data, analyzing data, writing code, writing papers, and even inventing your own science projects. Whether you’re an expert participant or someone who’s just started your science journey, \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/</guid>
+      <category>Citizen Science</category>
+      <pubDate>Wed, 18 Nov 2026 17:32:52 +0000</pubDate>
+    </item>    <item>
+      <title>A RISC-V Phone: The Librem 5 v2 For the Win</title>
+      <link>https://puri.sm/posts/a-risc-v-phone-the-librem-5-v2/</link>
+      <description>
+        <![CDATA[<p>For many people, a smartphone feels like an extra part of the body: it has a touchscreen, a camera, and internet access, while its operating system is controlled by one of a few big tech firms. That setup is convenient, but it also gives those firms power over the phone’s software, apps, updates, and hardware. Owners often have little say in those choices. Purism is making a RISC-V phone as an alternative.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/a-risc-v-phone-the-librem-5-v2/">A RISC-V Phone: The Librem 5 v2 For the Win</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>For many people, a smartphone feels like an extra part of the body: it has a touchscreen, a camera, and internet access, while its operating system is controlled by one of a few big tech firms. That setup is convenient, but it also gives those firms power over the phone’s software, apps, updates, and hardware. Owners often have little say in those choices. Purism is making a RISC-V phone as an alternative.
+
+The post [A RISC-V Phone: The Librem 5 v2 For the Win](https://puri.sm/posts/a-risc-v-phone-the-librem-5-v2/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+      <guid>cid://https://puri.sm/?p=87151</guid>
+      <category>Librem 5 v2</category>
+      <category>Privacy</category>
+      <category>PureOS</category>
+      <category>secure computing</category>
+      <category>smartphone</category>
+      <pubDate>Wed, 18 Nov 2026 17:00:31 +0000</pubDate>
+    </item>    <item>
+      <title>See Stunning Images of the Universe Captured by Europe&#39;s Euclid Space Telescope, Which Is Building the Biggest 3D Map of the Cosmos</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-stunning-images-of-the-universe-captured-by-europes-euclid-space-telescope-which-is-buildling-the-biggest-3d-map-of-the-cosmos-180989884/</link>
+      <description>
+        <![CDATA[The 1.7 million gigabytes of data include more than 900 million galaxies, more than 60 million potential quasars and about 15,000 candidates of an elusive cosmic phenomenon that can help scientists understand dark matter and dark energy]]>
+      </description>
+      <source:markdown>The 1.7 million gigabytes of data include more than 900 million galaxies, more than 60 million potential quasars and about 15,000 candidates of an elusive cosmic phenomenon that can help scientists understand dark matter and dark energy</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/CSAcxXhGivz0KCRPzS0nSwcNz0U=/420x240/filters:focal(1920x1097:1921x1098)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8c/37/8c37c0ba-a6ab-43b1-ae6b-199a9adf616f/4-euclid-ews-dr1-northpr-m81ngc3077-r3-equ-16k9k-4k.jpg" length="2724291" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/see-stunning-images-of-the-universe-captured-by-europes-euclid-space-telescope-which-is-buildling-the-biggest-3d-map-of-the-cosmos-180989884/</guid>
+      <pubDate>Wed, 18 Nov 2026 16:32:47 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Data Clinches First-of-Its-Kind Stellar Merger</title>
+      <link>https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/</link>
+      <description>
+        <![CDATA[Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao. Their NASA-funded discovery was then bolstered by quick-turn observations from NASA’s James Webb […]]]>
+      </description>
+      <source:markdown>Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao. Their NASA-funded discovery was then bolstered by quick-turn observations from NASA’s James Webb \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/</guid>
+      <category>Astrophysics</category>
+      <category>Astrophysics Division</category>
+      <category>Binary Stars</category>
+      <category>Galaxies</category>
+      <category>Goddard Space Flight Center</category>
+      <category>James Webb Space Telescope (JWST)</category>
+      <category>Science &#38; Research</category>
+      <category>Sensing the Universe &#38; Multimessenger Astronomy</category>
+      <category>Stars</category>
+      <category>The Universe</category>
+      <pubDate>Wed, 18 Nov 2026 16:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>How M.C. Escher’s Art Creates Bizarre Mathematical Worlds</title>
+      <link>https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/</link>
+      <description>
+        <![CDATA[The artist had no formal math education, yet as a new exhibition shows, the insights revealed in his artwork became an enduring inspiration to mathematicians.            <p>The post <a href="https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/" target="_blank">How M.C. Escher’s Art Creates Bizarre Mathematical Worlds</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>The artist had no formal math education, yet as a new exhibition shows, the insights revealed in his artwork became an enduring inspiration to mathematicians.
+
+The post [How M.C. Escher’s Art Creates Bizarre Mathematical Worlds](https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <guid>cid://https://www.quantamagazine.org/?p=168911</guid>
+      <category>Mathematics</category>
+      <pubDate>Wed, 18 Nov 2026 15:51:40 +0000</pubDate>
+    </item>    <item>
+      <title>Chihuahuas Seem to Carry a Tiny Bit of Coyote DNA—but That&#39;s Probably Not Why They Have Fearless Personalities</title>
+      <link>https://www.smithsonianmag.com/smart-news/chihuahuas-seem-to-carry-a-tiny-bit-of-coyote-dna-but-thats-probably-not-why-they-have-fearless-personalities-180989886/</link>
+      <description>
+        <![CDATA[New research suggests that coyote DNA makes up about 0.1 percent of the Chihuahua genome, likely the result of interbreeding between coyotes and the domesticated dog's ancestors long ago]]>
+      </description>
+      <source:markdown>New research suggests that coyote DNA makes up about 0.1 percent of the Chihuahua genome, likely the result of interbreeding between coyotes and the domesticated dog&#39;s ancestors long ago</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/P7fKNvcWISm5BOlPasfSMisOGSA=/420x240/filters:focal(2736x1824:2737x1825)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f7/10/f7100427-9e10-4c58-9f52-143bcffb6946/pexels-delot-33471285.jpg" length="2385235" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/chihuahuas-seem-to-carry-a-tiny-bit-of-coyote-dna-but-thats-probably-not-why-they-have-fearless-personalities-180989886/</guid>
+      <pubDate>Wed, 18 Nov 2026 15:00:00 +0000</pubDate>
+    </item>    <item>
       <title>NVIDIA RTX Spark Compact Desktops Out Now</title>
       <link>https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/</link>
       <description>
@@ -53,12 +302,12 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <guid>cid://d45ca6a9-2a9b-4364-9269-649b1b515894</guid>
       <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
     </item>    <item>
-      <title>APOD: 2026 November 18 – An M-class Solar Flare</title>
+      <title>APOD: 2026 November 18 – A Medium-Sized Solar Flare</title>
       <link>https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/</link>
       <description>
-        <![CDATA[APOD Science APOD APOD: 2026 November 18 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Medium-Sized [&#8230;]]]>
+        <![CDATA[APOD Science APOD APOD: 2026 November 18 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Medium-Sized [&#8230;]]]>
       </description>
-      <source:markdown>APOD Science APOD APOD: 2026 November 18 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Medium-Sized \[…\]</source:markdown>
+      <source:markdown>APOD Science APOD APOD: 2026 November 18 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Medium-Sized \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/</guid>
       <category>APOD</category>
       <pubDate>Wed, 18 Nov 2026 05:05:00 +0000</pubDate>
@@ -279,9 +528,9 @@ The post [Thundermail Q4 2026 recap: new features, your feedback, and what’s n
       <title>How bird poop and manta rays sustain a pristine coral reef</title>
       <link>https://www.npr.org/2026/11/17/nx-s1-5988269/coral-reefs-pacific-island-conservation</link>
       <description>
-        <![CDATA[Coral reefs <a href="https://apps.npr.org/troubled-waters/"target="_blank"   >are at risk around the world</a>. So how do they stay so healthy on the remote Pacific islands of Palmyra Atoll? The answer might be in bird poop, manta rays and tree saws. NPR’s Lauren Sommers recently visited the islands and takes Short Wave on a tour of its conservation secrets and lessons for the rest of the world.<br/><br/><em>Interested in more science in the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+        <![CDATA[Coral reefs <a href="https://apps.npr.org/troubled-waters/"target="_blank"   >are at risk around the world</a>. So how do they stay so healthy on the remote Pacific islands of Palmyra Atoll? The answer might be in bird poop, manta rays and tree saws. NPR’s Lauren Sommer recently visited the islands and takes Short Wave on a tour of its conservation secrets and lessons for the rest of the world.<br/><br/><em>Interested in more science in the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
       </description>
-      <source:markdown>Coral reefs [are at risk around the world](https://apps.npr.org/troubled-waters/). So how do they stay so healthy on the remote Pacific islands of Palmyra Atoll? The answer might be in bird poop, manta rays and tree saws. NPR’s Lauren Sommers recently visited the islands and takes Short Wave on a tour of its conservation secrets and lessons for the rest of the world.
+      <source:markdown>Coral reefs [are at risk around the world](https://apps.npr.org/troubled-waters/). So how do they stay so healthy on the remote Pacific islands of Palmyra Atoll? The answer might be in bird poop, manta rays and tree saws. NPR’s Lauren Sommer recently visited the islands and takes Short Wave on a tour of its conservation secrets and lessons for the rest of the world.
 
 _Interested in more science in the news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
 
@@ -3404,229 +3653,6 @@ The post [How Do You Take a Picture of a Black Hole?](https://www.quantamagazine
       <guid>cid://https://www.osnews.com/?p=146248</guid>
       <category>OS News</category>
       <pubDate>Thu, 29 Oct 2026 00:09:48 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Welcomes Vietnam as Newest Artemis Accords Signatory</title>
-      <link>https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/</link>
-      <description>
-        <![CDATA[The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.&#160;&#160; “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded remarks [&#8230;]]]>
-      </description>
-      <source:markdown>The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.   “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded remarks \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1060178</guid>
-      <category>Office of International and Interagency Relations (OIIR)</category>
-      <category>Artemis Accords</category>
-      <pubDate>Wed, 28 Oct 2026 21:50:01 +0000</pubDate>
-    </item>    <item>
-      <title>Dolores Huerta, Farmworker Rights Activist Who Coined &#39;Sí Se Puede,&#39; Dies at 96</title>
-      <link>https://www.smithsonianmag.com/smart-news/dolores-huerta-farmworker-rights-activist-who-coined-si-se-puede-dies-at-96-180989776/</link>
-      <description>
-        <![CDATA[A pioneering labor organizer who co-founded the United Farm Workers union, Huerta spent a lifetime fighting for migrant laborers' rights, advocating for women and supporting marginalized communities]]>
-      </description>
-      <source:markdown>A pioneering labor organizer who co-founded the United Farm Workers union, Huerta spent a lifetime fighting for migrant laborers&#39; rights, advocating for women and supporting marginalized communities</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/f-TbXaCP7K9tOR8KZH1yRJAmFaQ=/420x240/filters:focal(512x346:513x347)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/27/ef/27efd48d-2a58-4fb6-83fb-c7c61e0bccc0/gettyimages-2278796762.jpg" length="118740" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/dolores-huerta-farmworker-rights-activist-who-coined-si-se-puede-dies-at-96-180989776/</guid>
-      <pubDate>Wed, 28 Oct 2026 21:03:46 +0000</pubDate>
-    </item>    <item>
-      <title>See 18 Captivating Images From the European Wildlife Photographer of the Year Contest</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-18-captivating-images-from-the-european-wildlife-photographer-of-the-year-contest-180989769/</link>
-      <description>
-        <![CDATA[From tranquil landscapes to a thunderous flock of seabirds, the recognized photos reveal stunning scenes of often-hidden aspects of the natural world]]>
-      </description>
-      <source:markdown>From tranquil landscapes to a thunderous flock of seabirds, the recognized photos reveal stunning scenes of often-hidden aspects of the natural world</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/_zDqn-x8JJbKb1g5VlN8zjY2qbs=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d4/6a/d46ac8b3-8c12-4448-9a26-17151e21b2f2/k2_10_marc_siegle_kleine_mitbewohner.jpg" length="709712" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/see-18-captivating-images-from-the-european-wildlife-photographer-of-the-year-contest-180989769/</guid>
-      <pubDate>Wed, 28 Oct 2026 19:46:25 +0000</pubDate>
-    </item>    <item>
-      <title>Artemis III SLS Core Stage Joins Boosters at Kennedy</title>
-      <link>https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/</link>
-      <description>
-        <![CDATA[NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida. &#160; Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind lifting beam designed [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida.   Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind lifting beam designed \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1060050</guid>
-      <category>Andre Douglas</category>
-      <category>Artemis</category>
-      <category>Artemis 3</category>
-      <category>Exploration Ground Systems</category>
-      <category>Frank Rubio</category>
-      <category>Kennedy Space Center</category>
-      <category>Randolph J. Bresnik</category>
-      <category>Space Launch System (SLS)</category>
-      <pubDate>Wed, 28 Oct 2026 18:59:44 +0000</pubDate>
-    </item>    <item>
-      <title>&#39;Lie Down and Look Up&#39; at England&#39;s Most Ornate Ceilings, From Sparkling Gold-Leaf Stars to Intricate Plaster Designs at Queen Victoria&#39;s Seaside Retreat</title>
-      <link>https://www.smithsonianmag.com/smart-news/lie-down-and-look-up-at-englands-most-ornate-ceilings-from-sparkling-gold-leaf-stars-to-intricate-plaster-designs-at-queen-victorias-seaside-retreat-180989770/</link>
-      <description>
-        <![CDATA[A new campaign encourages visitors to take in the lavish art above their heads at five historic sites across England. There are even cushions for maximum comfort while you gaze]]>
-      </description>
-      <source:markdown>A new campaign encourages visitors to take in the lavish art above their heads at five historic sites across England. There are even cushions for maximum comfort while you gaze</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jdBZZ_tLaNJpPgylxK49DoFyvqc=/420x240/filters:focal(540x303:541x304)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c1/3a/c13ac438-baee-4304-b584-7692eaf4f0a0/lie-down-and-look-up-1080x600.webp" length="194748" type="image/webp" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/lie-down-and-look-up-at-englands-most-ornate-ceilings-from-sparkling-gold-leaf-stars-to-intricate-plaster-designs-at-queen-victorias-seaside-retreat-180989770/</guid>
-      <pubDate>Wed, 28 Oct 2026 18:19:13 +0000</pubDate>
-    </item>    <item>
-      <title>NASA University Challenge Ignites Trajectory of Drone Entrepreneur</title>
-      <link>https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/</link>
-      <description>
-        <![CDATA[Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised that navigating the financial side of the work presented an even greater challenge. Although Gardner was used to leading fellow students [&#8230;]]]>
-      </description>
-      <source:markdown>Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised that navigating the financial side of the work presented an even greater challenge. Although Gardner was used to leading fellow students \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?p=1059815</guid>
-      <category>Aeronautics</category>
-      <category>Aeronautics Research Mission Directorate</category>
-      <category>Research and Technology Mission Directorate</category>
-      <category>Transformative Aeronautics Concepts Program</category>
-      <category>University Innovation</category>
-      <category>University Student Research Challenge</category>
-      <pubDate>Wed, 28 Oct 2026 18:00:28 +0000</pubDate>
-    </item>    <item>
-      <title>Did Women and Children Collaborate With Male Artisans to Create China&#39;s Terra-Cotta Army? Fingerprints Left on the 2,000-Year-Old Clay Warriors May Hold the Answer</title>
-      <link>https://www.smithsonianmag.com/smart-news/did-women-and-children-collaborate-with-male-artisans-to-create-chinas-terra-cotta-army-fingerprints-left-on-the-2000-year-old-clay-warriors-may-hold-the-answer-180989767/</link>
-      <description>
-        <![CDATA[A new study found that adult women and juveniles under the age of 15 accounted for 67 percent of the fingerprints analyzed. The research challenges long-held assumptions about the age and gender of the workers who sculpted Qin Shi Huang's soldiers]]>
-      </description>
-      <source:markdown>A new study found that adult women and juveniles under the age of 15 accounted for 67 percent of the fingerprints analyzed. The research challenges long-held assumptions about the age and gender of the workers who sculpted Qin Shi Huang&#39;s soldiers</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/lSFvt8609hZ105fa_n8o1WBk0wg=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5f/cf/5fcfa568-cd6d-46af-9d83-08a6925a7062/terra-cotta-army.png" length="2246474" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/did-women-and-children-collaborate-with-male-artisans-to-create-chinas-terra-cotta-army-fingerprints-left-on-the-2000-year-old-clay-warriors-may-hold-the-answer-180989767/</guid>
-      <pubDate>Wed, 28 Oct 2026 17:03:08 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Selects 19 New Citizen Science Proposals in 2026</title>
-      <link>https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/</link>
-      <description>
-        <![CDATA[So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 project announced that their project volunteers have now discovered most of the known brown dwarfs, celestial objects that are similar to planets. The Zooniverse platform, […]]]>
-      </description>
-      <source:markdown>So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 project announced that their project volunteers have now discovered most of the known brown dwarfs, celestial objects that are similar to planets. The Zooniverse platform, \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/</guid>
-      <pubDate>Wed, 28 Oct 2026 16:25:29 +0000</pubDate>
-    </item>    <item>
-      <title>How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material</title>
-      <link>https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/</link>
-      <description>
-        <![CDATA[By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a strong, flexible fiber.            <p>The post <a href="https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/" target="_blank">How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a strong, flexible fiber.
-
-The post [How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material](https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <guid>cid://https://www.quantamagazine.org/?p=168359</guid>
-      <category>Biology</category>
-      <pubDate>Wed, 28 Oct 2026 16:04:18 +0000</pubDate>
-    </item>    <item>
-      <title>Webb Sees Turbulent Star Nursery</title>
-      <link>https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/</link>
-      <description>
-        <![CDATA[In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way galaxy. This region has a lower metallicity [&#8230;]]]>
-      </description>
-      <source:markdown>In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way galaxy. This region has a lower metallicity \[…\]</source:markdown>
-      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1059736</guid>
-      <pubDate>Wed, 28 Oct 2026 15:33:10 +0000</pubDate>
-    </item>    <item>
-      <title>Some Monkeys Seem to Become Germophobic After Living Through a Disease Outbreak, Just Like Humans</title>
-      <link>https://www.smithsonianmag.com/smart-news/some-monkeys-seem-to-become-germaphobic-after-living-through-a-disease-outbreak-just-like-humans-180989764/</link>
-      <description>
-        <![CDATA[Macaques that had gotten sick or seen others become ill were less likely to eat a tasty treat that looked like it was contaminated with poop than primates that didn't witness the outbreak—even though they didn't know how the infection spreads]]>
-      </description>
-      <source:markdown>Macaques that had gotten sick or seen others become ill were less likely to eat a tasty treat that looked like it was contaminated with poop than primates that didn&#39;t witness the outbreak—even though they didn&#39;t know how the infection spreads</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/V89ah4uLShQHtyaXgR-3jUspZ5U=/420x240/filters:focal(600x314:601x315)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/61/dd/61dd1a3d-f272-45d4-b9b6-4b993b58715a/dscf120111.jpeg" length="163695" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/some-monkeys-seem-to-become-germaphobic-after-living-through-a-disease-outbreak-just-like-humans-180989764/</guid>
-      <pubDate>Wed, 28 Oct 2026 15:18:44 +0000</pubDate>
-    </item>    <item>
-      <title>Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/</link>
-      <description>
-        <![CDATA[NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified [&#8230;]]]>
-      </description>
-      <source:markdown>NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified \[…\]</source:markdown>
-      <guid>cid://https://blogs.nvidia.com/?p=99523</guid>
-      <category>AI</category>
-      <category>Agentic AI</category>
-      <category>Artificial Intelligence</category>
-      <category>Gaming</category>
-      <category>GeForce</category>
-      <category>Local AI</category>
-      <category>NVIDIA RTX</category>
-      <category>Open Source</category>
-      <category>RTX Spark</category>
-      <pubDate>Wed, 28 Oct 2026 15:00:46 +0000</pubDate>
-    </item>    <item>
-      <title>Hundreds of Baby Whales Have Died in Argentina This Year—and Scientists Are Scrambling to Understand Why</title>
-      <link>https://www.smithsonianmag.com/smart-news/hundreds-of-baby-whales-have-died-in-argentina-this-year-and-scientists-are-scrambling-to-understand-why-180989762/</link>
-      <description>
-        <![CDATA[Their leading hypothesis is that the young cetaceans are dying from a bacterial infection, but experts are still trying to figure out why this year's mortality rates are so high. Adults have also been washing up dead, possibly because of a toxic algal bloom]]>
-      </description>
-      <source:markdown>Their leading hypothesis is that the young cetaceans are dying from a bacterial infection, but experts are still trying to figure out why this year&#39;s mortality rates are so high. Adults have also been washing up dead, possibly because of a toxic algal bloom</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/rVIXEIPQ_C4u1oj8c6h7jDcXjPk=/420x240/filters:focal(3456x2304:3457x2305)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/09/57/09573b62-dd30-46ce-a950-0cd7cfd4803c/argentina-whales.jpg" length="12470620" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/hundreds-of-baby-whales-have-died-in-argentina-this-year-and-scientists-are-scrambling-to-understand-why-180989762/</guid>
-      <pubDate>Wed, 28 Oct 2026 15:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>In NASA&#39;s Plan for Artemis 3, SpaceX and Blue Origin Will Compete to Have Their Landers Take Humans Back to the Moon&#39;s Surface</title>
-      <link>https://www.smithsonianmag.com/smart-news/in-nasas-plan-for-artemis-3-spacex-and-blue-origin-will-compete-to-have-their-landers-take-humans-back-to-the-moons-surface-180989761/</link>
-      <description>
-        <![CDATA[The 14-day mission, slated for mid-2027, will serve as a test to see which company's lunar lander performs better in low-Earth orbit. Both will practice docking, habitation and operational procedures essential for the return to the moon, planned for 2028]]>
-      </description>
-      <source:markdown>The 14-day mission, slated for mid-2027, will serve as a test to see which company&#39;s lunar lander performs better in low-Earth orbit. Both will practice docking, habitation and operational procedures essential for the return to the moon, planned for 2028</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/QK0LdKHCpDa5kGYnGnhDMVnIJz8=/420x240/filters:focal(1055x631:1056x632)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/08/7c/087c16ca-a66b-40bc-a101-e938deb70e8d/screenshot_2026-10-27_at_125704.png" length="4221710" type="image/png" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/in-nasas-plan-for-artemis-3-spacex-and-blue-origin-will-compete-to-have-their-landers-take-humans-back-to-the-moons-surface-180989761/</guid>
-      <pubDate>Wed, 28 Oct 2026 14:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Romans Made Color-Changing Glass With Ancient Nanotechnology. Scientists Just Discovered How to Replicate the 1,600-Year-Old Marvel</title>
-      <link>https://www.smithsonianmag.com/smart-news/romans-made-color-changing-glass-with-ancient-nanotechnology-scientists-just-discovered-how-to-replicate-the-1600-year-old-marvel-180989766/</link>
-      <description>
-        <![CDATA[Researchers were inspired by Lycurgus Cup, a chalice from the fourth century C.E. that appears opaque green under reflected light but wine red when lit directly. "To me, it’s magic," the lead researcher says]]>
-      </description>
-      <source:markdown>Researchers were inspired by Lycurgus Cup, a chalice from the fourth century C.E. that appears opaque green under reflected light but wine red when lit directly. &#34;To me, it’s magic,&#34; the lead researcher says</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/wKRIaJAv6DZluBhK7loPtvJpnR0=/420x240/filters:focal(376x213:377x214)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/04/2a/042ade9b-8c43-4c5e-a8de-2ad416f2b1d8/lyc_collage.jpg" length="38746" type="image/jpeg" />
-      <guid>cid://https://www.smithsonianmag.com/smart-news/romans-made-color-changing-glass-with-ancient-nanotechnology-scientists-just-discovered-how-to-replicate-the-1600-year-old-marvel-180989766/</guid>
-      <pubDate>Wed, 28 Oct 2026 12:30:00 +0000</pubDate>
-    </item>    <item>
-      <title>MAHA’s midterm report card</title>
-      <link>https://www.npr.org/2026/10/28/nx-s1-6018272/food-health-trump-wellness-maha-rfk-jr</link>
-      <description>
-        <![CDATA[It’s been just over two years since the rise of Make America Healthy Again, or MAHA. The movement united a coalition of moms, wellness influencers and voters across the political spectrum over concerns about chronic illness and childhood diseases. And when Robert F. Kennedy Jr. took over as Secretary of Health and Human Services, it seemed like MAHA would be front and center in Washington.<br/><br/>But as we approach the midterm elections, has the Trump administration made good on the MAHA agenda? On today’s episode, we dig into what’s changed, what hasn’t and what that means for your health.<br/><br/><em>Interested in more health science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>It’s been just over two years since the rise of Make America Healthy Again, or MAHA. The movement united a coalition of moms, wellness influencers and voters across the political spectrum over concerns about chronic illness and childhood diseases. And when Robert F. Kennedy Jr. took over as Secretary of Health and Human Services, it seemed like MAHA would be front and center in Washington.
-
-But as we approach the midterm elections, has the Trump administration made good on the MAHA agenda? On today’s episode, we dig into what’s changed, what hasn’t and what that means for your health.
-
-_Interested in more health science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/2bf6bac2-afdd-49fb-9fa0-9d8d47785793/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=2bf6bac2-afdd-49fb-9fa0-9d8d47785793&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-6018272&#38;p=510351&#38;d=788&#38;size=12608662" length="12608662" type="audio/mpeg" />
-      <guid>cid://17bd2e16-04e5-4dcb-a6c0-e50f3c3ea02a</guid>
-      <pubDate>Wed, 28 Oct 2026 07:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’</title>
-      <link>https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/</link>
-      <description>
-        <![CDATA[Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good candidate for […]]]>
-      </description>
-      <source:markdown>Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good candidate for \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/</guid>
-      <category>Blogs</category>
-      <pubDate>Wed, 28 Oct 2026 05:39:46 +0000</pubDate>
-    </item>    <item>
-      <title>APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/</link>
-      <description>
-        <![CDATA[APODScienceAPODAPOD: 2026 October 28 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this video please enable JavaScript, and consider upgrading to a web browser that supports [&#8230;]]]>
-      </description>
-      <source:markdown>APODScienceAPODAPOD: 2026 October 28 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this video please enable JavaScript, and consider upgrading to a web browser that supports \[…\]</source:markdown>
-      <guid>cid://https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/</guid>
-      <category>APOD</category>
-      <pubDate>Wed, 28 Oct 2026 04:05:00 +0000</pubDate>
-    </item>    <item>
-      <title>The Land of the Standing-Up Rocks</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/</link>
-      <description>
-        <![CDATA[A national monument since the 1920s, Chiricahua is America’s newest national park.]]>
-      </description>
-      <source:markdown>A national monument since the 1920s, Chiricahua is America’s newest national park.</source:markdown>
-      <guid>cid://https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/</guid>
-      <category>Earth Observatory</category>
-      <category>Landsat 9</category>
-      <category>Topography</category>
-      <pubDate>Wed, 28 Oct 2026 04:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
