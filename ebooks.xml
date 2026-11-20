@@ -4,10 +4,458 @@
   <channel>
     <title><![CDATA[ebooks.md]]></title>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>09 Nov 26 06:49 -0800</lastBuildDate>
+    <lastBuildDate>19 Nov 26 20:00 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The emancipation of women and its probable consequences by Adele Crepaz</title>
+      <link>https://www.gutenberg.org/ebooks/79996</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 15 Nov 2026 10:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>Sur un cargo by Jean-Richard Bloch</title>
+      <link>https://www.gutenberg.org/ebooks/79997</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+      <pubDate>Sun, 15 Nov 2026 10:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>Louis XIV by Louis Bertrand</title>
+      <link>https://www.gutenberg.org/ebooks/79999</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+      <pubDate>Sun, 15 Nov 2026 10:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>The birds of America, from drawings made in the United States and their territories : by Audubon</title>
+      <link>https://www.gutenberg.org/ebooks/80000</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 15 Nov 2026 10:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>&#34;Till death—&#34; by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/80003</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 15 Nov 2026 10:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>De l&#39;origine du langage by Ernest Renan</title>
+      <link>https://www.gutenberg.org/ebooks/79998</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+      <pubDate>Sun, 15 Nov 2026 10:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>A bird in the hand by Randall Garrett</title>
+      <link>https://www.gutenberg.org/ebooks/80001</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 15 Nov 2026 10:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>Qu&#39;est-ce qu&#39;une banque by Raphaël-Georges Lévy</title>
+      <link>https://www.gutenberg.org/ebooks/80002</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+      <pubDate>Sun, 15 Nov 2026 10:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>The works of Samuel Johnson, LL.D. in nine volumes, volume 09 : by Samuel Johnson</title>
+      <link>https://www.gutenberg.org/ebooks/80007</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sun, 15 Nov 2026 10:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>Die Todtenhand : by F. le Prince</title>
+      <link>https://www.gutenberg.org/ebooks/80004</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+      <pubDate>Sun, 15 Nov 2026 10:51:23 +0000</pubDate>
+    </item>    <item>
+      <title>Papeis Avulsos by Machado de Assis</title>
+      <link>https://www.gutenberg.org/ebooks/57001</link>
+      <description>
+        <![CDATA[Language: Portuguese]]>
+      </description>
+      <source:markdown>Language: Portuguese</source:markdown>
+      <pubDate>Sat, 14 Nov 2026 16:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Geoff the djinn by Steve Frazee</title>
+      <link>https://www.gutenberg.org/ebooks/79971</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 14 Nov 2026 16:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Mrs. Fitzherbert and George IV; vol. 1 of 2 by W. H.  Wilkins</title>
+      <link>https://www.gutenberg.org/ebooks/79993</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 14 Nov 2026 16:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Mrs. Fitzherbert and George IV; vol. 2 of 2 by W. H.  Wilkins</title>
+      <link>https://www.gutenberg.org/ebooks/79994</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 14 Nov 2026 16:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Documents scientifiques de la mission Tilho (1906-1909), Tome 2 by Mission Tilho</title>
+      <link>https://www.gutenberg.org/ebooks/79992</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+      <pubDate>Sat, 14 Nov 2026 16:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>The death of Ivan Ilyitch, and other stories by graf Leo Tolstoy</title>
+      <link>https://www.gutenberg.org/ebooks/79990</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 14 Nov 2026 16:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Hot countries by Alec Waugh</title>
+      <link>https://www.gutenberg.org/ebooks/79991</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 14 Nov 2026 16:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Parodieën by Cornelis Veth</title>
+      <link>https://www.gutenberg.org/ebooks/47442</link>
+      <description>
+        <![CDATA[Language: Dutch]]>
+      </description>
+      <source:markdown>Language: Dutch</source:markdown>
+      <pubDate>Sat, 14 Nov 2026 16:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Usury by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79989</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 14 Nov 2026 16:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Essentials of happiness : by Dr. F. F. Tanaka</title>
+      <link>https://www.gutenberg.org/ebooks/79995</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Sat, 14 Nov 2026 16:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Yellow hair by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79981</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 13 Nov 2026 10:51:19 +0000</pubDate>
+    </item>    <item>
+      <title>L&#39;étreinte du passé by Henri Ardel</title>
+      <link>https://www.gutenberg.org/ebooks/79986</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+      <pubDate>Fri, 13 Nov 2026 10:51:19 +0000</pubDate>
+    </item>    <item>
+      <title>With the Russians in Manchuria by Maurice Baring</title>
+      <link>https://www.gutenberg.org/ebooks/79985</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 13 Nov 2026 10:51:19 +0000</pubDate>
+    </item>    <item>
+      <title>Joug d&#39;amour by Brada</title>
+      <link>https://www.gutenberg.org/ebooks/79987</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+      <pubDate>Fri, 13 Nov 2026 10:51:19 +0000</pubDate>
+    </item>    <item>
+      <title>The haters by Joseph Samachson</title>
+      <link>https://www.gutenberg.org/ebooks/79982</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 13 Nov 2026 10:51:19 +0000</pubDate>
+    </item>    <item>
+      <title>Unclaimed by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79984</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 13 Nov 2026 10:51:19 +0000</pubDate>
+    </item>    <item>
+      <title>A gun for grandfather by F. M. Busby</title>
+      <link>https://www.gutenberg.org/ebooks/79983</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Fri, 13 Nov 2026 10:51:19 +0000</pubDate>
+    </item>    <item>
+      <title>Yvonne et Pijallet : by Léon Werth</title>
+      <link>https://www.gutenberg.org/ebooks/79988</link>
+      <description>
+        <![CDATA[Language: French]]>
+      </description>
+      <source:markdown>Language: French</source:markdown>
+      <pubDate>Fri, 13 Nov 2026 10:51:19 +0000</pubDate>
+    </item>    <item>
+      <title>Home and garden : by Gertrude Jekyll</title>
+      <link>https://www.gutenberg.org/ebooks/79967</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 12 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Arts and crafts in the Middle Ages : by Julia de Wolf Addison</title>
+      <link>https://www.gutenberg.org/ebooks/18212</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 12 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Glasshead by Stanley Mullen</title>
+      <link>https://www.gutenberg.org/ebooks/79975</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 12 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Inside the shell by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79969</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 12 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>This world is condemned by Ward Botsford</title>
+      <link>https://www.gutenberg.org/ebooks/79980</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 12 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>The poems of Ossian by James Macpherson</title>
+      <link>https://www.gutenberg.org/ebooks/79976</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 12 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>A gentleman from France : by Clarence Hawkes</title>
+      <link>https://www.gutenberg.org/ebooks/79979</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 12 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Historia da origem e do estabelecimento da Inquisição em Portugal : by Alexandre Herculano</title>
+      <link>https://www.gutenberg.org/ebooks/79973</link>
+      <description>
+        <![CDATA[Language: Portuguese]]>
+      </description>
+      <source:markdown>Language: Portuguese</source:markdown>
+      <pubDate>Thu, 12 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>The well-fed birds by Richard Rein Smith</title>
+      <link>https://www.gutenberg.org/ebooks/79977</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 12 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Scenes in the lives of Saint Philip, Saint Bartholomew, and Saint Thomas, in easy verse.</title>
+      <link>https://www.gutenberg.org/ebooks/79968</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 12 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>The Bible and Islam : by Henry Preserved Smith</title>
+      <link>https://www.gutenberg.org/ebooks/79978</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 12 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Estudios militares y politicos by José Ibáñez Marín</title>
+      <link>https://www.gutenberg.org/ebooks/79970</link>
+      <description>
+        <![CDATA[Language: Spanish]]>
+      </description>
+      <source:markdown>Language: Spanish</source:markdown>
+      <pubDate>Thu, 12 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Sir William : by David Stacton</title>
+      <link>https://www.gutenberg.org/ebooks/79974</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Thu, 12 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Die Springprozession und die Wallfahrt zum Grabe des heiligen Willibrord in Echternach by Krier</title>
+      <link>https://www.gutenberg.org/ebooks/79972</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+      <pubDate>Thu, 12 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>The hallway : by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79962</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 11 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Ein gefährlicher Ausflug : by Arthur Conan Doyle</title>
+      <link>https://www.gutenberg.org/ebooks/79966</link>
+      <description>
+        <![CDATA[Language: German]]>
+      </description>
+      <source:markdown>Language: German</source:markdown>
+      <pubDate>Wed, 11 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>The Wreck of the Titan by Morgan Robertson</title>
+      <link>https://www.gutenberg.org/ebooks/24880</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 11 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Mothers still by Helen R.  Hull</title>
+      <link>https://www.gutenberg.org/ebooks/79964</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 11 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Eugene Aram — Volume 04 by Baron Edward Bulwer Lytton Lytton</title>
+      <link>https://www.gutenberg.org/ebooks/7612</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 11 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>An English Grammar by William Malone Baskervill and James Witt Sewell</title>
+      <link>https://www.gutenberg.org/ebooks/14006</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 11 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>A Pennsylvania bison hunt :</title>
+      <link>https://www.gutenberg.org/ebooks/79963</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 11 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Blue law ballads : by Sinners Club</title>
+      <link>https://www.gutenberg.org/ebooks/79965</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Wed, 11 Nov 2026 10:51:21 +0000</pubDate>
+    </item>    <item>
+      <title>Stories from the Faerie Queene by Mary Macleod and Edmund Spenser</title>
+      <link>https://www.gutenberg.org/ebooks/79406</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 10 Nov 2026 10:51:20 +0000</pubDate>
+    </item>    <item>
+      <title>Utopia by Saint Thomas More</title>
+      <link>https://www.gutenberg.org/ebooks/2130</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 10 Nov 2026 10:51:20 +0000</pubDate>
+    </item>    <item>
+      <title>...Divided we fall by Raymond F. Jones</title>
+      <link>https://www.gutenberg.org/ebooks/79961</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 10 Nov 2026 10:51:20 +0000</pubDate>
+    </item>    <item>
+      <title>The girl in scarlet; or, the loves of Silvère and Miette. (La fortune des Rougon.) by Émile Zola</title>
+      <link>https://www.gutenberg.org/ebooks/79959</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 10 Nov 2026 10:51:20 +0000</pubDate>
+    </item>    <item>
+      <title>The Complete Story of the Galveston Horror</title>
+      <link>https://www.gutenberg.org/ebooks/34304</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 10 Nov 2026 10:51:20 +0000</pubDate>
+    </item>    <item>
+      <title>The mysterious Miss Morrisot by Valentine Williams</title>
+      <link>https://www.gutenberg.org/ebooks/79960</link>
+      <description>
+        <![CDATA[Language: English]]>
+      </description>
+      <source:markdown>Language: English</source:markdown>
+      <pubDate>Tue, 10 Nov 2026 10:51:20 +0000</pubDate>
+    </item>    <item>
       <title>Death in Venice by Thomas Mann</title>
       <link>https://www.gutenberg.org/ebooks/66073</link>
       <description>
@@ -1063,1022 +1511,6 @@
       </description>
       <source:markdown>Language: Chinese</source:markdown>
       <pubDate>Fri, 30 Oct 2026 09:51:19 +0000</pubDate>
-    </item>    <item>
-      <title>The darkness on Fifth Avenue by Murray Leinster</title>
-      <link>https://www.gutenberg.org/ebooks/79873</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 29 Oct 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>The single track by Isabel Ostrander</title>
-      <link>https://www.gutenberg.org/ebooks/79876</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 29 Oct 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>Overstuffed by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79874</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 29 Oct 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>Seven pillars of wisdom : by T. E.  Lawrence</title>
-      <link>https://www.gutenberg.org/ebooks/79877</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 29 Oct 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>Riders of the wind : by Elswyth Thane</title>
-      <link>https://www.gutenberg.org/ebooks/79875</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 29 Oct 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>Fencing foil class work illustrated by Ricardo Enrique Manrique</title>
-      <link>https://www.gutenberg.org/ebooks/79878</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 29 Oct 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>Source Book of London History, from the earliest times to 1800</title>
-      <link>https://www.gutenberg.org/ebooks/51175</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 28 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Daisy Ashford: Her Book by Angela Ashford and Daisy Ashford</title>
-      <link>https://www.gutenberg.org/ebooks/25658</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 28 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>An Unofficial Patriot by Helen H.  Gardener</title>
-      <link>https://www.gutenberg.org/ebooks/42328</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 28 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Gallegher and Other Stories by Richard Harding Davis</title>
-      <link>https://www.gutenberg.org/ebooks/5956</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 28 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Dr. Grenfell&#39;s Parish: The Deep Sea Fisherman by Norman Duncan</title>
-      <link>https://www.gutenberg.org/ebooks/39130</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 28 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Young Hunters in Porto Rico; or, The Search for a Lost Treasure by Edward Stratemeyer</title>
-      <link>https://www.gutenberg.org/ebooks/52217</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 28 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Davenport Dunn, a Man of Our Day. Volume 1 (of 2) by Charles Lever</title>
-      <link>https://www.gutenberg.org/ebooks/32341</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 28 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Davenport Dunn, a Man of Our Day. Volume 2 (of 2) by Charles Lever</title>
-      <link>https://www.gutenberg.org/ebooks/32342</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 28 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Index for the Project Gutenberg Series &#34;American Pioneers and Patriots&#34; by John S. C.  Abbott</title>
-      <link>https://www.gutenberg.org/ebooks/57588</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 28 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>American ideals, and other essays, social and political by Theodore Roosevelt</title>
-      <link>https://www.gutenberg.org/ebooks/71581</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 28 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Collected papers : by Sigmund Freud</title>
-      <link>https://www.gutenberg.org/ebooks/79872</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 28 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>The Queen of Hearts, and Sing a Song for Sixpence by Randolph Caldecott</title>
-      <link>https://www.gutenberg.org/ebooks/10634</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 28 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Ketchup: Methods of Manufacture; Microscopic Examination by A. W.  Bitting and K. G.  Bitting</title>
-      <link>https://www.gutenberg.org/ebooks/56703</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 28 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Carry On: Letters in War-Time by Coningsby Dawson</title>
-      <link>https://www.gutenberg.org/ebooks/14086</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 28 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>A Compilation of the Messages and Papers of the Presidents. Volume 2, part 2: John Quincy Adams</title>
-      <link>https://www.gutenberg.org/ebooks/10879</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 28 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Marriage inside out by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79869</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 28 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>The Sun people by Edmond Hamilton</title>
-      <link>https://www.gutenberg.org/ebooks/79868</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 28 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Abury, A Temple of the British Druids, With Some Others, Described by William Stukeley</title>
-      <link>https://www.gutenberg.org/ebooks/64626</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 28 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Während des Krieges in Deutsch-Ostafrika und Südafrika : by Georg Gürich</title>
-      <link>https://www.gutenberg.org/ebooks/79870</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-      <pubDate>Wed, 28 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Round the globe through Greater Britain</title>
-      <link>https://www.gutenberg.org/ebooks/79871</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 28 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Philosophiae Naturalis Principia Mathematica by Isaac Newton</title>
-      <link>https://www.gutenberg.org/ebooks/28233</link>
-      <description>
-        <![CDATA[Language: Latin]]>
-      </description>
-      <source:markdown>Language: Latin</source:markdown>
-      <pubDate>Tue, 27 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>A Child&#39;s Garden of Verses by Robert Louis Stevenson</title>
-      <link>https://www.gutenberg.org/ebooks/19722</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 27 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Good Health and How We Won It, With an Account of the New Hygiene by Sinclair and Williams</title>
-      <link>https://www.gutenberg.org/ebooks/66077</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 27 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>A selection from the verses of John B. Tabb, made by Alice Meynell by John B.  Tabb</title>
-      <link>https://www.gutenberg.org/ebooks/79865</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 27 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Miscellanea Curiosa, Vol. 1</title>
-      <link>https://www.gutenberg.org/ebooks/49791</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 27 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Northanger Abbey by Jane Austen</title>
-      <link>https://www.gutenberg.org/ebooks/121</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 27 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Persuasion by Jane Austen</title>
-      <link>https://www.gutenberg.org/ebooks/105</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 27 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>The Chronology of Ancient Kingdoms Amended by Isaac Newton</title>
-      <link>https://www.gutenberg.org/ebooks/15784</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 27 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Observations upon the Prophecies of Daniel, and the Apocalypse of St. John by Isaac Newton</title>
-      <link>https://www.gutenberg.org/ebooks/16878</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 27 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Opticks : by Isaac Newton</title>
-      <link>https://www.gutenberg.org/ebooks/33504</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 27 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Medical Jurisprudence, Forensic medicine and Toxicology. Vol. 1 by Becker and Witthaus</title>
-      <link>https://www.gutenberg.org/ebooks/49027</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 27 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>A Story Garden for Little Children by Maud Lindsay</title>
-      <link>https://www.gutenberg.org/ebooks/62748</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 27 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>The Red House Mystery by A. A.  Milne</title>
-      <link>https://www.gutenberg.org/ebooks/1872</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 27 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>The pneumatics of Hero of Alexandria by of Alexandria Hero</title>
-      <link>https://www.gutenberg.org/ebooks/77400</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 27 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>The double thirteen by R. McNair  Wilson</title>
-      <link>https://www.gutenberg.org/ebooks/79867</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 27 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Tales of Muscovy and the Ukraine by G. B. H.  Bishop</title>
-      <link>https://www.gutenberg.org/ebooks/79866</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 27 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>The Count of Monte Cristo by Alexandre Dumas and Auguste Maquet</title>
-      <link>https://www.gutenberg.org/ebooks/1184</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 26 Oct 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>Assyria : by A. H.  Sayce</title>
-      <link>https://www.gutenberg.org/ebooks/42033</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 26 Oct 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>Papeis Avulsos by Machado de Assis</title>
-      <link>https://www.gutenberg.org/ebooks/57001</link>
-      <description>
-        <![CDATA[Language: Portuguese]]>
-      </description>
-      <source:markdown>Language: Portuguese</source:markdown>
-      <pubDate>Mon, 26 Oct 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>Jérusalem by Pierre Loti</title>
-      <link>https://www.gutenberg.org/ebooks/33316</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-      <pubDate>Mon, 26 Oct 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>King Solomon&#39;s Goat by George Willard Bartlett</title>
-      <link>https://www.gutenberg.org/ebooks/50368</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 26 Oct 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>The Lake by George Moore</title>
-      <link>https://www.gutenberg.org/ebooks/11304</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 26 Oct 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>Memoirs of Charles Campbell by Charles Campbell</title>
-      <link>https://www.gutenberg.org/ebooks/79863</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 26 Oct 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>Edmund Dulac&#39;s Picture-Book for the French Red Cross by Edmund Dulac</title>
-      <link>https://www.gutenberg.org/ebooks/45907</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 26 Oct 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>The crew of the Dolphin by Hesba Stretton</title>
-      <link>https://www.gutenberg.org/ebooks/79861</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 26 Oct 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>Ferdinand de Soto : by Frederick A.  Ober</title>
-      <link>https://www.gutenberg.org/ebooks/79864</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 26 Oct 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>Famous composers and their works, Vol. 2</title>
-      <link>https://www.gutenberg.org/ebooks/57570</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 26 Oct 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>&#34;Blue for your eyes and brown for your hair&#34; by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79858</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 26 Oct 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>Less than a bird by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79860</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 26 Oct 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>The Corning Egg Farm book, by Corning himself by Edward Corning and Gardner Corning</title>
-      <link>https://www.gutenberg.org/ebooks/72042</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 26 Oct 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>An introduction to the history of history by James T. Shotwell</title>
-      <link>https://www.gutenberg.org/ebooks/79862</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 26 Oct 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>Het labyrint der wereld en het paradijs des harten by Johann Amos Comenius</title>
-      <link>https://www.gutenberg.org/ebooks/79859</link>
-      <description>
-        <![CDATA[Language: Dutch]]>
-      </description>
-      <source:markdown>Language: Dutch</source:markdown>
-      <pubDate>Mon, 26 Oct 2026 09:51:24 +0000</pubDate>
-    </item>    <item>
-      <title>The works of Plato (Vol. 2 of 6) : by Plato</title>
-      <link>https://www.gutenberg.org/ebooks/79398</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sun, 25 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Barry Lyndon by William Makepeace Thackeray</title>
-      <link>https://www.gutenberg.org/ebooks/4558</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sun, 25 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Wolves of the sea by Gaston Leroux</title>
-      <link>https://www.gutenberg.org/ebooks/79855</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sun, 25 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Asteroid 745: Mauritia by Donald A. Wollheim</title>
-      <link>https://www.gutenberg.org/ebooks/79852</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sun, 25 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Collected papers, Volume I by Sigmund Freud and Leopold Löwenfeld</title>
-      <link>https://www.gutenberg.org/ebooks/79856</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sun, 25 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Nothing but terror by Jesse F.  Bone</title>
-      <link>https://www.gutenberg.org/ebooks/79850</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sun, 25 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>How to see the Vatican by Douglas Brooke Wheelton Sladen</title>
-      <link>https://www.gutenberg.org/ebooks/79854</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sun, 25 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Faith killer by Winston K.  Marks</title>
-      <link>https://www.gutenberg.org/ebooks/79851</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sun, 25 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>The preparation by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79849</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sun, 25 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Double take by Ken Winney</title>
-      <link>https://www.gutenberg.org/ebooks/79857</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sun, 25 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Romance in science : by Bessie Irving Miller</title>
-      <link>https://www.gutenberg.org/ebooks/79853</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sun, 25 Oct 2026 09:51:20 +0000</pubDate>
-    </item>    <item>
-      <title>Dry-law debate : by Clarence Darrow and Wayne Bidwell Wheeler</title>
-      <link>https://www.gutenberg.org/ebooks/79848</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sat, 24 Oct 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>Frankenstein; or, The modern Prometheus by Mary Wollstonecraft Shelley</title>
-      <link>https://www.gutenberg.org/ebooks/42324</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sat, 24 Oct 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>John Splendid: The Tale of a Poor Gentleman, and the Little Wars of Lorn by Neil Munro</title>
-      <link>https://www.gutenberg.org/ebooks/22321</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sat, 24 Oct 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>You can&#39;t print that! : by George Seldes</title>
-      <link>https://www.gutenberg.org/ebooks/79845</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sat, 24 Oct 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>The written leaves : by Belle Belleville</title>
-      <link>https://www.gutenberg.org/ebooks/79846</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sat, 24 Oct 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>On shipboard by Anne A. Craig</title>
-      <link>https://www.gutenberg.org/ebooks/79847</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sat, 24 Oct 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>The return by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79844</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Sat, 24 Oct 2026 09:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>Im Bernsteinwald by Wilhelm Bölsche</title>
-      <link>https://www.gutenberg.org/ebooks/79837</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-      <pubDate>Fri, 23 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Effi Briest by Theodor Fontane</title>
-      <link>https://www.gutenberg.org/ebooks/5323</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-      <pubDate>Fri, 23 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Married in haste by Ann S.  Stephens</title>
-      <link>https://www.gutenberg.org/ebooks/79843</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Fri, 23 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Claude Monet : by Gustave Geffroy</title>
-      <link>https://www.gutenberg.org/ebooks/79839</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-      <pubDate>Fri, 23 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>The temple by H. P.  Lovecraft</title>
-      <link>https://www.gutenberg.org/ebooks/79842</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Fri, 23 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>The Hound of the Baskervilles by Arthur Conan Doyle</title>
-      <link>https://www.gutenberg.org/ebooks/2852</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Fri, 23 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>In the Ypres Salient :</title>
-      <link>https://www.gutenberg.org/ebooks/46256</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Fri, 23 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Young people abroad</title>
-      <link>https://www.gutenberg.org/ebooks/79840</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Fri, 23 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>The Congo : by Commission to Investigate the State Territories</title>
-      <link>https://www.gutenberg.org/ebooks/79841</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Fri, 23 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Textiles; a handbook for the student and the consumer : by A.M. Ellen Beers McGowan</title>
-      <link>https://www.gutenberg.org/ebooks/79838</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Fri, 23 Oct 2026 09:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>The Chemical History of a Candle by Michael Faraday</title>
-      <link>https://www.gutenberg.org/ebooks/14474</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 22 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>The bishop&#39;s emeralds by Houghton Townley</title>
-      <link>https://www.gutenberg.org/ebooks/79833</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 22 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Pendragon by Alfred Assollant</title>
-      <link>https://www.gutenberg.org/ebooks/79836</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-      <pubDate>Thu, 22 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Inhibition, symptom and anxiety by Sigmund Freud</title>
-      <link>https://www.gutenberg.org/ebooks/79835</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 22 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>The First Steps in Algebra by G. A.  Wentworth</title>
-      <link>https://www.gutenberg.org/ebooks/36670</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 22 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Experimental Researches in Electricity, Volume 1 by Michael Faraday</title>
-      <link>https://www.gutenberg.org/ebooks/14986</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 22 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>The city of the blind by Murray Leinster</title>
-      <link>https://www.gutenberg.org/ebooks/79834</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 22 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Voyages de Monsieur le chevalier Chardin en Perse et autres lieux de l&#39;Orient. by Sir John Chardin</title>
-      <link>https://www.gutenberg.org/ebooks/79711</link>
-      <description>
-        <![CDATA[Language: French]]>
-      </description>
-      <source:markdown>Language: French</source:markdown>
-      <pubDate>Wed, 21 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>The man who was two men by Ray Cummings</title>
-      <link>https://www.gutenberg.org/ebooks/79828</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 21 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>A History, of the War of 1812-15 Between the United States and Great Britain by Rossiter Johnson</title>
-      <link>https://www.gutenberg.org/ebooks/49393</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 21 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Ylpeys ja ennakkoluulo by Jane Austen</title>
-      <link>https://www.gutenberg.org/ebooks/45186</link>
-      <description>
-        <![CDATA[Language: Finnish]]>
-      </description>
-      <source:markdown>Language: Finnish</source:markdown>
-      <pubDate>Wed, 21 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>A deputy was king by G. B.  Stern</title>
-      <link>https://www.gutenberg.org/ebooks/79832</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 21 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Realmah by Sir Arthur Helps</title>
-      <link>https://www.gutenberg.org/ebooks/79831</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 21 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Emptiness : by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79829</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Wed, 21 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Prátaí Ṁíċíl Ṫaiḋg by Séamus Ó Dubhghaill</title>
-      <link>https://www.gutenberg.org/ebooks/79830</link>
-      <description>
-        <![CDATA[Language: Irish]]>
-      </description>
-      <source:markdown>Language: Irish</source:markdown>
-      <pubDate>Wed, 21 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>The idealists by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79825</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 20 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>The wanderer : by Alain-Fournier</title>
-      <link>https://www.gutenberg.org/ebooks/79827</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 20 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Amy in Acadia: A Story for Girls by Helen Leah Reed</title>
-      <link>https://www.gutenberg.org/ebooks/35985</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 20 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>The Skipper and the Skipped: Being the Shore Log of Cap&#39;n Aaron Sproul by Holman Day</title>
-      <link>https://www.gutenberg.org/ebooks/16631</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 20 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>A First Book in Algebra by Wallace C.  Boyden</title>
-      <link>https://www.gutenberg.org/ebooks/13309</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 20 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Hester: A Story of Contemporary Life, Volume 1 (of 3) by Mrs.  Oliphant</title>
-      <link>https://www.gutenberg.org/ebooks/48197</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 20 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Hester: A Story of Contemporary Life, Volume 2 (of 3) by Mrs.  Oliphant</title>
-      <link>https://www.gutenberg.org/ebooks/48198</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 20 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>Hester: A Story of Contemporary Life, Volume 3 (of 3) by Mrs.  Oliphant</title>
-      <link>https://www.gutenberg.org/ebooks/48199</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 20 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>A-gypsying by Anna Blake Mezquida</title>
-      <link>https://www.gutenberg.org/ebooks/79826</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Tue, 20 Oct 2026 09:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>White nights, and other stories by Fyodor Dostoyevsky</title>
-      <link>https://www.gutenberg.org/ebooks/36034</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 19 Oct 2026 09:51:25 +0000</pubDate>
-    </item>    <item>
-      <title>Blight by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79819</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 19 Oct 2026 09:51:25 +0000</pubDate>
-    </item>    <item>
-      <title>The playboy by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79818</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 19 Oct 2026 09:51:25 +0000</pubDate>
-    </item>    <item>
-      <title>The yellow danger : by M. P.  Shiel</title>
-      <link>https://www.gutenberg.org/ebooks/79820</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 19 Oct 2026 09:51:25 +0000</pubDate>
-    </item>    <item>
-      <title>Buried diamonds, Vol. 2 (of 3) by Sarah Tytler</title>
-      <link>https://www.gutenberg.org/ebooks/79822</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 19 Oct 2026 09:51:25 +0000</pubDate>
-    </item>    <item>
-      <title>Buried diamonds, Vol. 3 (of 3) by Sarah Tytler</title>
-      <link>https://www.gutenberg.org/ebooks/79823</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 19 Oct 2026 09:51:25 +0000</pubDate>
-    </item>    <item>
-      <title>The Lock and Key Library: the Most Interesting Stories of All Nations: French Novels</title>
-      <link>https://www.gutenberg.org/ebooks/2047</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 19 Oct 2026 09:51:25 +0000</pubDate>
-    </item>    <item>
-      <title>A voyage round the world : by comte Louis-Antoine de Bougainville</title>
-      <link>https://www.gutenberg.org/ebooks/73429</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 19 Oct 2026 09:51:25 +0000</pubDate>
-    </item>    <item>
-      <title>Περί Ψυχής by Aristotle</title>
-      <link>https://www.gutenberg.org/ebooks/27816</link>
-      <description>
-        <![CDATA[Language: Greek]]>
-      </description>
-      <source:markdown>Language: Greek</source:markdown>
-      <pubDate>Mon, 19 Oct 2026 09:51:25 +0000</pubDate>
-    </item>    <item>
-      <title>Sense and Sensibility by Jane Austen</title>
-      <link>https://www.gutenberg.org/ebooks/161</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 19 Oct 2026 09:51:25 +0000</pubDate>
-    </item>    <item>
-      <title>The Online World by Odd De Presno</title>
-      <link>https://www.gutenberg.org/ebooks/80</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 19 Oct 2026 09:51:25 +0000</pubDate>
-    </item>    <item>
-      <title>Charles Bradlaugh: a Record of His Life and Work, Volume 1 (of 2) by Bonner and Robertson</title>
-      <link>https://www.gutenberg.org/ebooks/45130</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 19 Oct 2026 09:51:25 +0000</pubDate>
-    </item>    <item>
-      <title>Charles Bradlaugh: a Record of His Life and Work, Volume 2 (of 2) by Bonner and Robertson</title>
-      <link>https://www.gutenberg.org/ebooks/45131</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 19 Oct 2026 09:51:25 +0000</pubDate>
-    </item>    <item>
-      <title>Lumen by Camille Flammarion</title>
-      <link>https://www.gutenberg.org/ebooks/43835</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 19 Oct 2026 09:51:25 +0000</pubDate>
-    </item>    <item>
-      <title>Many cities by Hilaire Belloc</title>
-      <link>https://www.gutenberg.org/ebooks/79824</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 19 Oct 2026 09:51:25 +0000</pubDate>
-    </item>    <item>
-      <title>Irland : by Ernst Schultze</title>
-      <link>https://www.gutenberg.org/ebooks/79821</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-      <pubDate>Mon, 19 Oct 2026 09:51:25 +0000</pubDate>
-    </item>    <item>
-      <title>Beyond the pleasure principle by Sigmund Freud</title>
-      <link>https://www.gutenberg.org/ebooks/76031</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Mon, 19 Oct 2026 09:51:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

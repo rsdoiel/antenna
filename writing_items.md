@@ -1,0 +1,55 @@
+---
+title: "Writing"
+pubDate: Tue, 17 Nov 2026 16:15:38 GMT
+aggregateOf: "writing.md"
+dateModified: Fri, 20 Nov 2026 04:00:10 GMT
+itemCount: 6
+generator: antenna/0.0.28
+---
+
+# Writing
+
+## [Envy (And Other Deadly Sins)](https://johnaugust.com/2026/envy-and-other-deadly-sins)
+
+via John August blog · 2026-11-17
+
+John and Craig confront the Seven Deadly Sins, particularly envy. How does envy work both as a driver of character action and a reality that writers face in their careers? We also answer some listener questions about unpaid labor, adapting material from a tweet or instagram post, and equating writing to time at the gym. \[…\]
+
+The post [Envy (And Other Deadly Sins)](https://johnaugust.com/2026/envy-and-other-deadly-sins) first appeared on [John August](https://johnaugust.com).
+
+## [Are Westlaw Headnotes Like Banana Costumes?](https://www.authorsalliance.org/2026/11/13/are-westlaw-headnotes-like-banana-costumes/)
+
+via Author's Union blog · 2026-11-13
+
+No decision has a stronger claim to being this year’s worst copyright decision than the Third Circuit’s precedential opinion in Thomson Reuters v. ROSS. Though the case ostensibly involves two legal research companies, the court’s ruling could broadly impact authors’ ability to use facts and ideas that first appeared in existing works.
+
+## [The Lost Art of the Bit Part](https://johnaugust.com/2026/the-lost-art-of-the-bit-part)
+
+via John August blog · 2026-11-10, updated 2026-11-17
+
+Whatever happened to bit parts — the roles in which a character shows up only for one memorable scene? John and Craig discuss why these roles seem to have vanished, particularly in live action, and make a case for bringing them back. They also cover listener questions, such as when to name your minor character, \[…\]
+
+The post [The Lost Art of the Bit Part](https://johnaugust.com/2026/the-lost-art-of-the-bit-part) first appeared on [John August](https://johnaugust.com).
+
+## [What It’s About? Moving Beyond Loglines](https://johnaugust.com/2026/what-its-about-moving-beyond-loglines)
+
+via John August blog · 2026-11-03, updated 2026-11-17
+
+How do you answer the question, “What is your project about?” Recorded live at the Austin Film Festival, John is joined by Scriptnotes all-stars Pamela Ribon and Phil Hay to talk about loglines, framing, and communicating the deeper message behind your project. They also discuss working outside of the traditional studio system, including ways to \[…\]
+
+The post [What It’s About? Moving Beyond Loglines](https://johnaugust.com/2026/what-its-about-moving-beyond-loglines) first appeared on [John August](https://johnaugust.com).
+
+## [Austin 2026 – Three Page Challenge](https://johnaugust.com/2026/austin-2026-three-page-challenge)
+
+via John August blog · 2026-10-30, updated 2026-11-17
+
+This year, like most years, we’re doing an installment of the Three Page Challenge at the Austin Film Festival. Here are the three scripts we’ll be discussing. Links to PDFs, so you can read along. It Gets Worse written by Terry Rietta Ship Happens written by Katy Flynn The Greykin written by Bobby Marino The \[…\]
+
+The post [Austin 2026 – Three Page Challenge](https://johnaugust.com/2026/austin-2026-three-page-challenge) first appeared on [John August](https://johnaugust.com).
+
+## [Authors Alliance files amicus brief in In re OpenAI Copyright Infringement Litigation](https://www.authorsalliance.org/2026/10/30/authors-alliance-files-amicus-brief-in-in-re-openai-copyright-infringement-litigation/)
+
+via Author's Union blog · 2026-10-30, updated 2026-11-13
+
+On October 29, Authors Alliance asked the court for leave to file an amicus brief in In re OpenAI, Inc. Copyright Infringement Litigation, the consolidated copyright lawsuits against OpenAI and Microsoft pending in federal court in New York. Our brief supports the defendants' motions for summary judgment, but focuses onone issue only: whether "market dilution" is a kind of harm that copyright law recognizes. We argue that it is not, and that treating it as one would end up hurting many of the authors the theory claims to protect.
+
