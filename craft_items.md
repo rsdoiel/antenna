@@ -1,18 +1,34 @@
 ---
 title: "Craft"
 description: "Craft is a list of hand oriented craft and technology\nDo we really need all those power tools?"
-pubDate: Wed, 18 Nov 2026 16:12:01 GMT
+pubDate: Thu, 19 Nov 2026 18:56:29 GMT
 aggregateOf: "craft.md"
-dateModified: Fri, 20 Nov 2026 04:00:00 GMT
-itemCount: 36
-generator: antenna/0.0.28
+dateModified: Fri, 20 Nov 2026 22:29:26 GMT
+itemCount: 38
+generator: antenna/0.1.0
 ---
 
 # Craft
 
+## [My Robot Apprentice](https://www.popularwoodworking.com/editors-blog/my-robot-apprentice/)
+
+via Popular Woodworking · 2026-11-19
+
+![](https://media.popularwoodworking.com/app/uploads/2026/11/19135607/maschinenmensch_in_a_screen_shot_from_the_metropolis_film-1024x771.jpg)Hopefully, the robots may hold us in high regard as the forefathers of robotic craftsmanship. I’m pretty good at writing woodworking how-to articles and books; actual teaching, not so much. I...
+
+[Source](https://www.popularwoodworking.com/editors-blog/my-robot-apprentice/)
+
+## [Teaching Live Edge (Part 4): Faceted Walnut and Finding the Right Stance](https://www.popularwoodworking.com/editors-blog/teaching-live-edge-part-4-faceted-walnut-and-finding-the-right-stance/)
+
+via Popular Woodworking · 2026-11-19
+
+![](https://media.popularwoodworking.com/app/uploads/2026/11/17091115/gemini_generated_patricks-table-768x1024.jpeg)Not every student who walks into a live-edge workshop is starting from scratch. Patrick arrived at Snow Farm already an experienced hobbyist woodworker, eager to push beyond basic joinery and...
+
+[Source](https://www.popularwoodworking.com/editors-blog/teaching-live-edge-part-4-faceted-walnut-and-finding-the-right-stance/)
+
 ## [Lantern of Candlelight](https://www.popularwoodworking.com/projects/lantern-of-candlelight/)
 
-via Popular Woodworking · 2026-11-18
+via Popular Woodworking · 2026-11-18, updated 2026-11-19
 
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/17120730/aw173_lantern_1_opener-copy-1024x768.jpg)Six pieces of wood, a free weekend and a bit of ingenuity, lights your way in the night. During the civil War, soldiers didn’t have flashlights to light their paths...
 
@@ -26,7 +42,7 @@ The story behind “The Joiner & Cabinet Maker” is what keeps me digging throu
 
 ## [Woodpeckers In-Dexable Thin Rip Guide](https://www.popularwoodworking.com/toolreviews/woodpeckers-in-dexable-thin-rip-guide/)
 
-via Popular Woodworking · 2026-11-18
+via Popular Woodworking · 2026-11-18, updated 2026-11-19
 
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/18094725/newtools-2-copy-1024x768.jpg)Tool: In-Dexable Thin Rip Guide Shop Now Manufacturer: Woodpeckers MSRP: $59.99 Sometimes, a simple jig can turn a headache of a task into a straightforward one. Ripping the thin strips for the...
 
@@ -34,7 +50,7 @@ via Popular Woodworking · 2026-11-18
 
 ## [Laptop Riser](https://www.popularwoodworking.com/projects/laptop-riser/)
 
-via Popular Woodworking · 2026-11-17, updated 2026-11-18
+via Popular Woodworking · 2026-11-17, updated 2026-11-19
 
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/17105359/photo-1_img_9927_main-1024x768.jpg)Build a clean, modern stand that lifts your laptop—and your workflow. If you’re like me, your “laptop” doesn’t spend much time on your lap. Mine lived on my desk, tethered...
 
@@ -42,7 +58,7 @@ via Popular Woodworking · 2026-11-17, updated 2026-11-18
 
 ## [Double-Duty Edge Guide](https://www.popularwoodworking.com/tricks/double-duty-edge-guide/)
 
-via Popular Woodworking · 2026-11-17, updated 2026-11-18
+via Popular Woodworking · 2026-11-17, updated 2026-11-19
 
 ![](https://media.popularwoodworking.com/app/uploads/2020/10/aw_14512_008-1024x683.jpg)Instead of measuring for my circular saw’s offset each time I need to make a cut, I use a modified edge guide. I screwed two 3/4″ x 3/4″ x 12″...
 
@@ -50,7 +66,7 @@ via Popular Woodworking · 2026-11-17, updated 2026-11-18
 
 ## [ShopNotes Podcast Episode 292 — Church Shoe, Shop Shoe, Mowing Shoe](https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-292-church-shoe-shop-shoe-mowing-shoe/)
 
-via Popular Woodworking · 2026-11-16, updated 2026-11-18
+via Popular Woodworking · 2026-11-16, updated 2026-11-19
 
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/16120234/screenshot-2026-11-16-at-11.02.10am-1024x1024.png)Head to the Woodsmith website for more info about the projects they talk about in this episode. Find all of the ShopNotes podcast episodes here.
 
@@ -58,7 +74,7 @@ via Popular Woodworking · 2026-11-16, updated 2026-11-18
 
 ## [The Splinter Report: November 13th](https://www.popularwoodworking.com/editors-blog/the-splinter-report-november-13th/)
 
-via Popular Woodworking · 2026-11-13, updated 2026-11-18
+via Popular Woodworking · 2026-11-13, updated 2026-11-19
 
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/13143111/splinter-report-11-13-1024x768.jpg)Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re looking at some bling, footwear, and tables....
 
@@ -66,7 +82,7 @@ via Popular Woodworking · 2026-11-13, updated 2026-11-18
 
 ## [Teaching Live Edge (Part 3): Mother-Son Collaboration and Practical Joinery](https://www.popularwoodworking.com/editors-blog/teaching-live-edge-part-3-mother-son-collaboration-and-practical-joinery/)
 
-via Popular Woodworking · 2026-11-12, updated 2026-11-18
+via Popular Woodworking · 2026-11-12, updated 2026-11-19
 
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/11095937/img_20260807_110403_hdr-771x1024.jpeg)When a craft school invites me to teach a woodworking class, the inevitable question always comes up: What skill level is this intended for? Beginners, intermediate, advanced, or somewhere in...
 
@@ -74,7 +90,7 @@ via Popular Woodworking · 2026-11-12, updated 2026-11-18
 
 ## [Nordic Birdhouse Ornament](https://www.popularwoodworking.com/projects/nordic-birdhouse-ornament/)
 
-via Popular Woodworking · 2026-11-11, updated 2026-11-18
+via Popular Woodworking · 2026-11-11, updated 2026-11-19
 
 ![](https://media.popularwoodworking.com/app/uploads/2022/10/11123813/holiday_ornaments-lead-copy2-1-1024x767.jpg)The holidays are busy for most everyone, but there’s always enough time to knock out a project like this on your scroll saw. I sped up the process even more...
 

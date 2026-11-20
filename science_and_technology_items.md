@@ -1,59 +1,197 @@
 ---
 title: "STEM"
-pubDate: Thu, 19 Nov 2026 14:00:12 GMT
+pubDate: Fri, 20 Nov 2026 13:10:00 GMT
 aggregateOf: "science_and_technology.md"
-dateModified: Fri, 20 Nov 2026 04:00:10 GMT
-itemCount: 283
-generator: antenna/0.0.28
+dateModified: Fri, 20 Nov 2026 22:29:37 GMT
+itemCount: 304
+generator: antenna/0.1.0
 ---
 
 # STEM
 
+## [Teeth Discovered in Two Chinese Caves Are Rewriting the Story of Homo Erectus, an Ancient Human Ancestor That May Have Been More Capable Than We Thought](https://www.smithsonianmag.com/smart-news/teeth-discovered-in-two-chinese-caves-are-rewriting-the-story-of-homo-erectus-an-ancient-human-ancestor-that-may-have-been-more-capable-than-we-thought-180989913/)
+
+via Smithsonian Magazine · 2026-11-20
+
+One new study suggests that the species persisted in mainland Asia for 216,000 years longer than previously thought. Another says Homo erectus was capable of living in a tropical rainforest, a discovery that turns a common extinction theory "on its head," according to one researcher
+
+## [Georgia O'Keeffe Is Famous for Painting Flowers and Deserts. Why Have We Forgotten Her Obsession With American Architecture?](https://www.smithsonianmag.com/smart-news/georgia-okeeffe-is-famous-for-painting-flowers-and-deserts-why-have-we-forgotten-her-obsession-with-american-architecture-180989911/)
+
+via Smithsonian Magazine · 2026-11-20
+
+Featuring nearly 40 artworks, a new exhibition at the Detroit Institute of Arts spotlights the artist's mesmerizing portrayals of the built environment, from rural farmhouses to city skyscrapers
+
+## [The history behind the x86 CPU: from 4004 to 486](https://www.osnews.com/story/146445/the-history-behind-the-x86-cpu-from-4004-to-486/)
+
+via OS News · 2026-11-20
+
+Why is x86 little-endian? Why are the registers called AX, BX, CX, and DX? Why do DOS programmers write addresses like A000:0000, and why does a modern PC still wake up pretending to be a chip from 1978? The answers are not in the datasheets. They are in the story of how each chip was born. ↫ Gustavo Pezzi The x86 is like an archaeological dig site that’s been dug in the 1800, before modern standards of dig sites were established to preserve context.
+
+## [FreeBSD GUS: RCU’s cool cousin](https://www.osnews.com/story/146443/freebsd-gus-rcus-cool-cousin/)
+
+via OS News · 2026-11-20
+
+FreeBSD has a pretty neat safe memory reclamation scheme (something akin to RCU), that’s also been adopted by XNU that hasn’t really been well-documented outside of code comments, and I thought it would’ve been interesting to write about it. ↫ Loïc Grégoire Some light reading for the weekend.
+
+## [This gas station drug acts like opioids. It’s getting harder to buy](https://www.npr.org/2026/11/20/nx-s1-6045648/kratom-opioid-addiction-7-oh)
+
+via NPR Short Wave · 2026-11-20
+
+Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at [plus.npr.org](http://plus.npr.org/).
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)
+
+## [APOD: 2026 November 20 – V-G-R](https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/)
+
+via NASA breaking news · 2026-11-20
+
+APOD Science APOD APOD: 2026 November… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. V-G-R Explanation: On November 17, \[…\]
+
+## [The Stormy Southwest Pacific](https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/)
+
+via NASA breaking news · 2026-11-20
+
+Tropical Cyclone Xavier launched the basin’s storm season with a bang.
+
+## [Harvard Returns Two Skulls Likely Belonging to Enslaved Individuals, More Than 150 Years After They Were Taken From Brazil for Eugenics Studies](https://www.smithsonianmag.com/smart-news/harvard-returns-two-skulls-likely-belonging-to-enslaved-individuals-more-than-150-years-after-they-were-taken-from-brazil-for-eugenics-studies-180989910/)
+
+via Smithsonian Magazine · 2026-11-19, updated 2026-11-20
+
+The remains were welcomed back in solemn ceremonies in Rio de Janeiro and Salvador after years of pressure from researchers, community groups and the Brazilian government. One skull likely belonged to an individual who fought and died in an 1835 slave revolt
+
+## [See the Rare Baby Rhinoceros Born at England's Chester Zoo, an Adorable Boost for Its Vulnerable Species](https://www.smithsonianmag.com/smart-news/see-the-rare-baby-rhinoceros-born-in-englands-chester-zoo-an-adorable-addition-to-its-species-numbers-180989902/)
+
+via Smithsonian Magazine · 2026-11-19, updated 2026-11-20
+
+The calf, born October 11, is in good health and exploring a secluded paddock with its mother, out of view of the public
+
+## [The NIH Has Decided to Move Its Last Group of Retired Research Chimpanzees to an Animal Sanctuary Next Year](https://www.smithsonianmag.com/smart-news/the-nih-has-decided-to-move-its-last-group-of-retired-research-chimpanzees-to-an-animal-sanctuary-next-year-180989907/)
+
+via Smithsonian Magazine · 2026-11-19, updated 2026-11-20
+
+The agency had previously determined that the animals were too old or ill for the journey. But a recent transfer involving another federally supported research facility pushed the National Institutes of Health to revisit the issue
+
+## [NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs](https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/)
+
+via NVidia blog · 2026-11-19, updated 2026-11-20
+
+NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NVL72 systems, as well as adding customer availability to \[…\]
+
+## [Challenge: Public Input on Life and the World in 2075](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/)
+
+via NASA breaking news · 2026-11-19, updated 2026-11-20
+
+NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Award: $20,000 in \[…\]
+
+## [Have Archaeologists Finally Pieced Together the 'Parthenon Puzzle,' One of Ancient Greece's Greatest Mysteries?](https://www.smithsonianmag.com/smart-news/have-archaeologists-finally-pieced-together-the-parthenon-puzzle-one-of-ancient-greece-greatest-mysteries-180989903/)
+
+via Smithsonian Magazine · 2026-11-19, updated 2026-11-20
+
+Centuries ago, the Parthenon's east pediment was reduced to rubble. German researchers now believe they have recreated the 39-figure scene depicting the birth of Athena with the help of Roman sarcophagi and 3D printers
+
+## [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/)
+
+via NVidia blog · 2026-11-19, updated 2026-11-20
+
+Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through \[…\]
+
+## [Price Is Not the Entire Point: How Purism is Building a Different Digital Future](https://puri.sm/posts/price-is-not-the-entire-point-how-purism-is-building-a-different-digital-future/)
+
+via Purism News · 2026-11-19, updated 2026-11-20
+
+A phone has a price. Digital freedom has a value. If we judge a revolutionary phone only by its price tag, we miss the work behind it.
+
+The post [Price Is Not the Entire Point: How Purism is Building a Different Digital Future](https://puri.sm/posts/price-is-not-the-entire-point-how-purism-is-building-a-different-digital-future/) appeared first on [Purism](https://puri.sm/).
+
+## [This Self-Charging Toothbrush Has Bristles That Generate Electricity to Help Kill Bacteria That Cause Cavities and Gum Disease](https://www.smithsonianmag.com/smart-news/this-self-charging-toothbrush-has-bristles-that-generate-electricity-to-help-kill-bacteria-that-cause-cavities-and-gum-disease-180989895/)
+
+via Smithsonian Magazine · 2026-11-19, updated 2026-11-20
+
+In a short clinical trial, participants who used the experimental toothbrush reported less plaque, gum inflammation and bleeding than those who used traditional nylon-bristled brushes. However, more research is required to assess the tool's safety and efficacy
+
+## [NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars](https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/)
+
+via NASA breaking news · 2026-11-19, updated 2026-11-20
+
+Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.
+
+## [Lake Pelku](https://www.nasa.gov/image-article/lake-pelku/)
+
+via NASA breaking news · 2026-11-19, updated 2026-11-20
+
+An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real \[…\]
+
+## [This Philosopher Was One of the First People to Donate His Body to Science. Nearly 200 Years Later, Researchers Are Still Learning From It](https://www.smithsonianmag.com/smart-news/he-was-one-of-the-first-people-to-donate-his-body-to-science-nearly-200-years-later-researchers-are-still-learning-from-it-180989901/)
+
+via Smithsonian Magazine · 2026-11-19, updated 2026-11-20
+
+Jeremy Bentham, the founder of utilitarianism, had his corpse publicly dissected and turned into an "auto-icon," a lifelike display featuring his skeleton dressed in one of his suits
+
+## [The North Atlantic Right Whale Population Has Shrunk, Raising Concerns About the Future of the Critically Endangered Species](https://www.smithsonianmag.com/smart-news/the-north-atlantic-right-whale-population-has-shrunk-raising-concerns-about-the-future-of-the-critically-endangered-species-180989896/)
+
+via Smithsonian Magazine · 2026-11-19, updated 2026-11-20
+
+The massive marine mammals are dying from ship strikes, fishing gear entanglements and other causes, which is affecting the species' ability to grow its numbers. The animals were hunted to the brink of extinction around 100 years ago
+
+## [NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions](https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/)
+
+via NASA breaking news · 2026-11-19, updated 2026-11-20
+
+NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be used in flight, the hot \[…\]
+
+## [NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth](https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/)
+
+via NASA breaking news · 2026-11-19, updated 2026-11-20
+
+NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion miles (25.9 billion kilometers). The spacecraft achieved the milestone at 2:16 a.m. PST (5:16 a.m. EST) Nov. 18. Voyager team \[…\]
+
 ## [Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/)
 
-via NVidia blog · 2026-11-19, updated 2026-11-18
+via NVidia blog · 2026-11-19, updated 2026-11-20
 
 GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big gaming plans, smaller price tag.  Keep the holiday savings going: Check out more NVIDIA holiday deals for gamers, \[…\]
 
 ## [APOD: 2026 November 19 – The Horsehead and Flame Nebulas](https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/)
 
-via NASA breaking news · 2026-11-19
+via NASA breaking news · 2026-11-19, updated 2026-11-20
 
-APOD Science APOD APOD: 2026 November 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The \[…\]
+APODScienceAPODAPOD: 2026 November 19 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The Horsehead and Flame Nebulas Explanation: Today’s image could have been a painting. But what \[…\]
 
 ## [El Niño Rains Paint the Atacama](https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/)
 
-via NASA breaking news · 2026-11-19
+via NASA breaking news · 2026-11-19, updated 2026-11-20
 
 Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.
 
 ## [NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch](https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/)
 
-via NASA breaking news · 2026-11-18, updated 2026-11-19
+via NASA breaking news · 2026-11-18, updated 2026-11-20
 
 NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus \[…\]
 
 ## [Windows Server 2028 enters public preview with hardened Server Core by default](https://www.osnews.com/story/146433/windows-server-2028-enters-public-preview-with-hardened-server-core-by-default/)
 
-via OS News · 2026-11-18
+via OS News · 2026-11-18, updated 2026-11-20
 
 Microsoft has announced the public preview of Window Server 2028, and of course, the announcement is a useless jumble of buzzwords and slop, so I’m not going to spend any time decoding it. However, there is one major change coming in Server 2028 that everyone working with this platform really ought to be aware of – a massive hardening of Server Core that will definitely break things that used to work fine on Server 2025. It even got its own detailed blog post that’s a lot more interesting than the actual public preview announcement. Up to and including Windows Server 2025, a stock installation was insecure, unhardened by default, with the expectation and norm being that administrators applied their own hardening scripts and settings post-installation. With Server 2028, that’s changing, and Server Core will now be secured and hardened out of the box, with administrators having to explicitly relax any settings their workloads might require. Starting with Windows Server Insider Preview build 29706, Server Core installs hardened. Hundreds of security settings are on from first boot. They’re aligned with the industry benchmarks you’re already measured against, such as CIS and DISA STIG. The secure configuration is the starting state, not a project you run after setup. That closes the window where a newly deployed server sits exposed while it waits to be hardened.  ↫ Christina Curlette Things like identity and authentication, cryptography, privilege and admin access, remote access, and more, are all locked down and use only the most up-to-date features, cyphers, best practices, and so on. I’m no system administrator, but it seems kind of wild to me that this hasn’t always been the norm. I’m glad they’re at least moving to it now, starting with Insider Preview build 29706
 
 ## [A Modern Forensic Investigation Reveals the Cause of Death of a 2,000-Year-Old Body Found in a Bog in Northern Ireland](https://www.smithsonianmag.com/smart-news/a-modern-forensic-investigation-reveals-the-cause-of-death-of-a-2000-year-old-body-found-in-an-bog-in-northern-ireland-180989898/)
 
-via Smithsonian Magazine · 2026-11-18
+via Smithsonian Magazine · 2026-11-18, updated 2026-11-20
 
 Archaeologists teamed up with a coroner to determine that the "Ballymacombs More Woman" was just 15 to 22 years old when she was beheaded in what seems to be an Iron Age ritual sacrifice
 
 ## [A Gene Variant Inherited From Neanderthals Might Affect Modern Humans' Brain Size and Provide Protection Against Schizophrenia](https://www.smithsonianmag.com/smart-news/a-gene-variant-inherited-from-neanderthals-might-affect-modern-humans-brain-size-and-provide-protection-against-schizophrenia-180989893/)
 
-via Smithsonian Magazine · 2026-11-18
+via Smithsonian Magazine · 2026-11-18, updated 2026-11-20
 
 About 20 percent of people alive today with European ancestry carry at least one copy of the variant, according to a new study. It's associated with a smaller occipital lobe, a region that processes visual information, and up to a nearly 10 percent lower risk of schizophrenia
 
 ## [Microsoft is finally upgrading Windows 11’s default PowerShell to version 7.x](https://www.osnews.com/story/146431/microsoft-is-finally-upgrading-windows-11s-default-powershell-to-version-7-x/)
 
-via OS News · 2026-11-18
+via OS News · 2026-11-18, updated 2026-11-20
 
 In true Microsoft fashion, the version of PowerShell that ships with every Windows installation is not the latest version of PowerShell. Even if you fully update your Windows 11 installation, including all of its applications, you’ll still be stuck on an old version of PowerShell. While a fully updated Windows 11 installation has version 5.1, the most recent version is actually PowerShell 7.7. What makes matters worse is that PowerShell 5.1 hasn’t seen any significant development in ten years, only receiving security updates, with all development work focusing on PowerShell 7 for years now. Well, all of this is finally about to change, as the next version of Windows 11 – whatever that may be, Microsoft won’t say – will ship with PowerShell 7.x instead of 5.1. PowerShell 7 is coming to Windows. Beginning with the next release of Windows, PowerShell 7 will be included as the upgrade for Windows PowerShell 5.1. The Windows team has published the details in KB5137172. Here is what this means for you, your scripts, your automation, and where our work stands. ↫ Jason Helmick at Microsoft’s Dev Blog Microsoft also explains why it’s taken this long. The problem is that a lot of scripts, services, and mor rely on PowerShell 5.1, and PowerShell 7’s backwards compatibility wasn’t up to Microsoft’s strict standards on this front for years. Apparently, PowerShell 7.7 is now at a point where Microsoft feels comfortable moving everyone over to it by default. It seems that the only remaining issues stem from the fact that PowerShell 7 is delivered as an MSIX package as opposed to an MSI installer, and this brings some problems with it, which Microsoft is tracking on GitHub. Of course, you can already install and switch to PowerShell 7.x today if you want to, without losing access to PowerShell 5.1, as the two shell versions can live alongside each other.
 
@@ -65,21 +203,21 @@ Holidays are often a fun break during a busy year – a long weekend here and th
 
 ## [Medieval Readers Saw Floods, Plagues and Comets as Omens of Doom—So They Created a Mysterious Manuscript of Apocalyptic Artworks to Peruse at Will](https://www.smithsonianmag.com/smart-news/medieval-readers-saw-floods-plagues-and-comets-as-omens-of-doom-so-they-created-a-mysterious-manuscript-of-apocalyptic-artworks-to-peruse-at-will-180989891/)
 
-via Smithsonian Magazine · 2026-11-18
+via Smithsonian Magazine · 2026-11-18, updated 2026-11-20
 
 "The Book of Miracles," a 16th-century manuscript likely created in Augsburg, is heading to auction. It features 167 paintings of extreme weather events and strange celestial phenomena
 
 ## [Hours Before It Was Expected to Sell for Up to $3.5 Million, This Frida Kahlo Painting Was Whisked From the Auction Block](https://www.smithsonianmag.com/smart-news/hours-before-it-was-expected-to-sell-for-up-to-3-million-this-frida-kahlo-painting-was-whisked-from-the-auction-block-180989890/)
 
-via Smithsonian Magazine · 2026-11-18
+via Smithsonian Magazine · 2026-11-18, updated 2026-11-20
 
 The 1952 painting, "Congreso de los pueblos por la paz," allegedly disappeared from Kahlo's house-museum in Mexico City under suspicious circumstances. Heritage groups argue that it rightfully belongs to the Mexican public
 
-## [A Child Tossed a Hat, and a Ceiling Fan Sent It Flying Into a Hippo's Zoo Enclosure, Where the Animal Ate It. Here's How the Care Team Is Responding](https://www.smithsonianmag.com/smart-news/a-child-tossed-a-hat-and-a-ceiling-fan-sent-it-flying-into-a-hippos-zoo-enclosure-where-the-animal-ate-it-heres-how-the-care-team-is-responding-180989894/)
+## [Beloved Hippo Fiona Dies After Swallowing a Child's Hat Accidentally Tossed Into Her Zoo Enclosure](https://www.smithsonianmag.com/smart-news/a-child-tossed-a-hat-and-a-ceiling-fan-sent-it-flying-into-a-hippos-zoo-enclosure-where-the-animal-ate-it-heres-how-the-care-team-is-responding-180989894/)
 
-via Smithsonian Magazine · 2026-11-18
+via Smithsonian Magazine · 2026-11-18, updated 2026-11-20
 
-The Cincinnati Zoo’s beloved hippo Fiona is under constant medical surveillance, but her carers are “cautiously optimistic” that she will pass the object on her own and recover
+Animal care teams were initially optimistic that the Cincinnati Zoo’s Internet-famous hippo could pass the object naturally and recover, but the situation ultimately turned into a “medical emergency”
 
 ## [NASA Announces Mid-Power Electric Rocket Challenge for US Companies](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/)
 
@@ -107,7 +245,7 @@ It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Scienc
 
 ## [A RISC-V Phone: The Librem 5 v2 For the Win](https://puri.sm/posts/a-risc-v-phone-the-librem-5-v2/)
 
-via Purism News · 2026-11-18, updated 2026-11-19
+via Purism News · 2026-11-18, updated 2026-11-20
 
 For many people, a smartphone feels like an extra part of the body: it has a touchscreen, a camera, and internet access, while its operating system is controlled by one of a few big tech firms. That setup is convenient, but it also gives those firms power over the phone’s software, apps, updates, and hardware. Owners often have little say in those choices. Purism is making a RISC-V phone as an alternative.
 
@@ -115,7 +253,7 @@ The post [A RISC-V Phone: The Librem 5 v2 For the Win](https://puri.sm/posts/a-r
 
 ## [See Stunning Images of the Universe Captured by Europe's Euclid Space Telescope, Which Is Building the Biggest 3D Map of the Cosmos](https://www.smithsonianmag.com/smart-news/see-stunning-images-of-the-universe-captured-by-europes-euclid-space-telescope-which-is-buildling-the-biggest-3d-map-of-the-cosmos-180989884/)
 
-via Smithsonian Magazine · 2026-11-18
+via Smithsonian Magazine · 2026-11-18, updated 2026-11-20
 
 The 1.7 million gigabytes of data include more than 900 million galaxies, more than 60 million potential quasars and about 15,000 candidates of an elusive cosmic phenomenon that can help scientists understand dark matter and dark energy
 
@@ -127,7 +265,7 @@ Researchers recently identified a first of its kind: A star slightly less massiv
 
 ## [How M.C. Escher’s Art Creates Bizarre Mathematical Worlds](https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/)
 
-via Quanta Magazine · 2026-11-18
+via Quanta Magazine · 2026-11-18, updated 2026-11-20
 
 The artist had no formal math education, yet as a new exhibition shows, the insights revealed in his artwork became an enduring inspiration to mathematicians.
 
@@ -135,25 +273,25 @@ The post [How M.C. Escher’s Art Creates Bizarre Mathematical Worlds](https://w
 
 ## [Chihuahuas Seem to Carry a Tiny Bit of Coyote DNA—but That's Probably Not Why They Have Fearless Personalities](https://www.smithsonianmag.com/smart-news/chihuahuas-seem-to-carry-a-tiny-bit-of-coyote-dna-but-thats-probably-not-why-they-have-fearless-personalities-180989886/)
 
-via Smithsonian Magazine · 2026-11-18
+via Smithsonian Magazine · 2026-11-18, updated 2026-11-20
 
 New research suggests that coyote DNA makes up about 0.1 percent of the Chihuahua genome, likely the result of interbreeding between coyotes and the domesticated dog's ancestors long ago
 
 ## [NVIDIA RTX Spark Compact Desktops Out Now](https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/)
 
-via NVidia blog · 2026-11-18
+via NVidia blog · 2026-11-18, updated 2026-11-20
 
 New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development \[…\]
 
 ## [From a Small Island in Denmark, This Man Lived Through the Transition From Hunter-Gathering to Farming 6,000 Years Ago](https://www.smithsonianmag.com/smart-news/from-a-small-island-in-denmark-this-man-lived-through-the-transition-from-hunter-gathering-to-farming-6000-years-ago-180989889/)
 
-via Smithsonian Magazine · 2026-11-18
+via Smithsonian Magazine · 2026-11-18, updated 2026-11-20
 
 A new analysis of the Rødhals Man suggests he witnessed the Neolithic Revolution in his lifetime, growing up eating mostly foraged seafood before shifting to more land-based, likely farmed, foods as an adult
 
 ## [How a viral video gave a huge boost to new gene therapy](https://www.npr.org/2026/11/18/nx-s1-6034426/sanfilippo-syndrome-gene-therapy)
 
-via NPR Short Wave · 2026-11-18
+via NPR Short Wave · 2026-11-18, updated 2026-11-20
 
 Sanfilippo syndrome is a rare and degenerative disease that can be fatal by the time someone reaches their teens. So the O’Neill family knew they didn’t have much time after learning their 4-year old daughter, Eliza, had it. At the time no treatment existed, and the world of drug development had its eyes on more common illnesses. So the family took an all hands on deck, unusual approach to directly raise money and boost medical research. NPR pharmaceutical correspondent Sydney Lupkin shares what happened next, and what she learned from the O’Neills story about the [promises](https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi) and [challenges](https://www.npr.org/2026/02/24/nx-s1-5723768/gene-therapy-access) of drug development.
 
@@ -191,13 +329,13 @@ On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-break
 
 ## [This Tiny, Unassuming Fungus Is a 'Dark Magic Mushroom'—the First Found to Contain Both Psychedelic Compounds and Deadly Toxins](https://www.smithsonianmag.com/smart-news/this-tiny-unassuming-fungus-is-a-dark-magic-mushroom-the-first-found-to-contain-both-psychedelic-compounds-and-deadly-toxins-180989885/)
 
-via Smithsonian Magazine · 2026-11-17, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-17, updated 2026-11-20
 
 Researchers collected the mushroom from a moss-covered palm trunk in the central Florida wetland. Its relatives are known to produce amatoxins, but the fungus surprisingly turned blue when handled, a telltale sign that the organism makes psilocybin
 
 ## [How Did Ancient Egypt's Sacred Cats Live? More Than 100 Unwrapped Mummies Reveal Poor Living Conditions, Infections and Violence Before Death](https://www.smithsonianmag.com/smart-news/how-did-ancient-egypts-sacred-cats-live-more-than-100-unwrapped-mummies-reveal-poor-living-conditions-infections-and-violence-before-death-180989888/)
 
-via Smithsonian Magazine · 2026-11-17, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-17, updated 2026-11-20
 
 Osteological and chemical tests on 131 museum specimens reveal that domestic cats and wild-caught jungle cats later destined for mummification suffered high rates of disease and physical trauma
 
@@ -229,7 +367,7 @@ Editor’s note: NASA and SpaceX are standing down from the Nov. 18 Dragon undoc
 
 ## [For Almost 600 Years, This Enigmatic Jan van Eyck Painting Has Entranced Viewers. Could It Actually Be a Self-Portrait in Disguise?](https://www.smithsonianmag.com/smart-news/for-almost-600-years-this-enigmatic-jan-van-eyck-painting-has-entraced-viewers-could-it-actually-be-a-self-portrait-in-disguise-180989883/)
 
-via Smithsonian Magazine · 2026-11-17, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-17, updated 2026-11-20
 
 The new theory about the "Arnolfini Portrait" comes as London's National Gallery brings together all 10 of the artist's known portraits for the first time ever
 
@@ -253,31 +391,31 @@ Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory,
 
 ## [SpaceX Catches the Upper Stage of Its Starship for the First Time, Making the Company One Step Closer to a Reusable Rocket](https://www.smithsonianmag.com/smart-news/spacex-catches-the-upper-stage-of-its-starship-for-the-first-time-making-the-company-one-step-closer-to-a-reusable-rocket-180989877/)
 
-via Smithsonian Magazine · 2026-11-17, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-17, updated 2026-11-20
 
 After circling the Earth 14 times, the upper portion of Starship descended to the planet's surface and was caught by a giant pair of robotic, chopstick-like arms. However, the company failed to snatch the lower stage, which it had previously demonstrated
 
 ## [The U.S. Has Lost Its Measles Elimination Status, Which It's Held for 26 Years. Cases Have Now Surged to the Highest Levels in Decades](https://www.smithsonianmag.com/smart-news/the-us-has-lost-its-measles-elimination-status-which-its-held-for-26-years-cases-have-now-surged-to-the-highest-levels-in-decades-180989878/)
 
-via Smithsonian Magazine · 2026-11-17, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-17, updated 2026-11-20
 
 So far this year, the Centers for Disease Control and Prevention has confirmed more than 5,400 measles cases—the highest annual total since 1991—and 43 outbreaks. Dropping vaccination rates are likely to blame
 
 ## [Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents](https://blogs.nvidia.com/blog/ian-buck-sc26/)
 
-via NVidia blog · 2026-11-17, updated 2026-11-18
+via NVidia blog · 2026-11-17, updated 2026-11-20
 
 NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance \[…\]
 
 ## [Ancient Humans May Have Hunted Hippos With Poisoned Spear Tips on the Arabian Peninsula 125,000 Years Ago](https://www.smithsonianmag.com/smart-news/ancient-humans-may-have-hunted-hippos-with-poisoned-spear-tips-on-the-arabian-peninsula-125000-years-ago-180989880/)
 
-via Smithsonian Magazine · 2026-11-17, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-17, updated 2026-11-20
 
 A new study suggests people hunted and processed game near a large, lush freshwater lake in what is now southern Saudi Arabia, challenging the assumption that humans just passed through the region
 
 ## [How bird poop and manta rays sustain a pristine coral reef](https://www.npr.org/2026/11/17/nx-s1-5988269/coral-reefs-pacific-island-conservation)
 
-via NPR Short Wave · 2026-11-17, updated 2026-11-18
+via NPR Short Wave · 2026-11-17, updated 2026-11-20
 
 Coral reefs [are at risk around the world](https://apps.npr.org/troubled-waters/). So how do they stay so healthy on the remote Pacific islands of Palmyra Atoll? The answer might be in bird poop, manta rays and tree saws. NPR’s Lauren Sommer recently visited the islands and takes Short Wave on a tour of its conservation secrets and lessons for the rest of the world.
 
@@ -303,9 +441,9 @@ For many astronauts, the spectacular sight of lightning stands out when looking 
 
 ## [Purism Launches Librem 5 v2 , A RISC-V Phone to Empower People](https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/)
 
-via Purism News · 2026-11-17, updated 2026-11-19
+via Purism News · 2026-11-17, updated 2026-11-20
 
-[Purism](https://puri.sm/), an independent U.S. technology company dedicated to protecting users’ privacy, security, and online freedom, today announced the launch of its second smartphone crowdfunding campaign, the [Librem 5 v2](https://puri.sm/librem-5-v2-crowdfunding-campaign/).
+Purism, an independent U.S. technology company dedicated to protecting users’ privacy, security, and online freedom, today announced the launch of its second smartphone crowdfunding campaign, the Librem 5 v2.
 
 The post [Purism Launches Librem 5 v2 , A RISC-V Phone to Empower People](https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/) appeared first on [Purism](https://puri.sm/).
 
@@ -317,7 +455,7 @@ Written by Candice Bedford, Research Scientist at Purdue University Date: Nov. 1
 
 ## [NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab](https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-18
+via NVidia blog · 2026-11-16, updated 2026-11-20
 
 At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming \[…\]
 
@@ -329,13 +467,13 @@ Description This collage shows 49 drill holes captured by NASA’s Curiosity Mar
 
 ## [The Bloomsbury Group's Vanessa Bell and Duncan Grant Tangled Their Art and Lives Together for Decades. A Final Sketch of Bell on Her Deathbed Just Resurfaced After 60 Years](https://www.smithsonianmag.com/smart-news/the-bloomsbury-groups-vanessa-bell-and-duncan-grant-tangled-their-art-and-lives-together-for-decades-a-final-sketch-of-bell-on-her-deathbed-just-resurfaced-after-60-years-180989874/)
 
-via Smithsonian Magazine · 2026-11-16, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-16, updated 2026-11-20
 
 The two artists had a thoroughly complicated relationship—and a daughter—but never ceased to paint and draw each other. The new discovery points to an artistic bond that continued through health and sickness
 
 ## [Finally, a truly premium Linux laptop: Star Labs’ StarFighter Ultra](https://www.osnews.com/story/146343/finally-a-truly-premium-linux-laptop-star-labs-starfighter-ultra/)
 
-via OS News · 2026-11-16, updated 2026-11-18
+via OS News · 2026-11-16, updated 2026-11-20
 
 Many popular Linux laptops are not designed from the ground-up for Linux. Often, they are machines designed and assembled by companies like Clevo, with parts and options picked by the Linux OEM to optimise them for Linux to make sure the hardware is optimally compatible. While there’s nothing wrong with this approach – there are countless great Linux laptops available that are made this way – there’s also something to be said for starting with a blank slate, and designing, developing, building, and assembling a Linux laptop entirely from scratch. One such laptop is Star Labs’ brand new StarFighter, which I’ve been using and testing over the last little while since it was launched. The StarFighter is an entirely custom powerhouse of a laptop, designed exclusively for Linux, both inside and out. Let’s talk about what it’s like to use the StarFighter, and if it’s worth considering when looking for a new laptop. The hardware The Starfighter comes in three flavours: Standard, Ultra, and AMD. I opted for the Ultra model, which comes with an Intel Core Ultra 9 285H, an Intel Arc 140T integrated GPU, 64GB of LPDDR5X RAM, and a 16″ 3840×2400 120Hz matte display. The standard model steps these specs down to an Intel Core Ultra 5 125H, 32GB of LPDDR5X RAM, and a 16″ 2560×1600 165Hz display, while the AMD model maintains the specifications of the Ultra, but with an AMD Ryzen 7 8845HS processor paired with a Radeon 780M integrated GPU. All three models share the same Intel AX210 Wi-Fi 6E chip, soldered RAM, and port configuration: 2 USB-C ports (Thunderbolt 4 on the Intel models), 3 USB-A ports, an HDMI 2.0 port, a microSD reader, a combined audio jack, and two PCIe Gen 4 NVMe slots on the motherboard. All three models run coreboot firmware, and come with a hardware kill switch for the wireless radios. Another really interesting security and privacy feature is how the Starfighter handles its webcam. Instead of being integrated into the display bezel, the webcam is a separate module that snaps onto the display lid magnetically, connecting through a few pogo pins (which form a USB 2.0 port, which I’m sure intrepid hardware hackers could do fun stuff with). When not in use, the webcam module is stored in its own little metal tray that slides out of the side of the laptop, securing itself in place magnetically. Neat. The webcam quality itself is decidedly average. I personally don’t ever use a webcam, but if you do, don’t expect miracles. It does its job, no more, no less. The StarFighter has a custom chassis made out of magnesium, with the only plastic part of the casing being the display inner hinge cover where I assume the antennas are integrated. It’s an incredibly sturdy device, with very little flex in the display cover, and zero flex in the keyboard deck. Thanks to the properties of magnesium, it’s quite lightweight at a mere 1.6kg. The bottom cover is easily removable, but the two screws in the middle of that cover are ever so slightly longer than all the other screws – ask me how I know. Star Labs opted for an understated, unobtrusive design. There’s no weird flourishes, no garish RGB lighting, no childish font on the keyboard – it’s all business, and I really like that. The dark finish feels incredibly nice, and despite the colour doesn’t seem to catch too many fingerprints. The speaker grills next to the keyboard look nice too, as does the keyboard itself – I especially appreciate that the the various modifier and non-character keys use text labels instead of symbols. Of course, since this is a Linux laptop, the super key is properly labelled. No Windows logo here, but no silly penguin either. The keyboard is backlit, of course, with several light levels, with a keyboard backlight timeout adjustable in coreboot. Using it The feel of the keyboard could use some work, however, at least for me. In particular, the key stability feels a bit off to me, meaning that unless you strike a key right in the middle, it might not register properly, as the keys wobble more than I would expect. A workaround, of sorts, is to strike the keys a bit harder than you normally would, but I’ve found this to be more difficult to adapt to than I initially expected. That being said, if you already have a more solid strike, it’s possible you won’t notice anything wrong with the keyboard at all. The trackpad, though, is basically perfect. Star Labs pulled out all the stops here, and went for a large haptic trackpad that feels absolutely incredible. I greatly prefer haptic trackpads, and have been puzzled for years now why Linux laptop OEMs continue to opt for wobbly diving board-style trackpads instead. It has a glass surface which hits the perfect middle-ground between smooth and textured, and it never seems to pick up any smudges or grease. Several of the parameters of the haptic trackpad can be configured in coreboot and supposedly from within Linux itself, but I haven’t figured that part out yet as the patches for it were only accepted very recently. It is the perfect trackpad. Zero complaints. Every single click, every single gesture, every single swoosh feels perfect. I don’t like being this ecstatic about something – there’s usually flaws in everything – but it’s really just that good. While testing the StarFighter, I used some other laptops with the old diving board design, and they’re all ruined for me now. I’m usually a fan of smaller laptops, with 14″ being my upper bound. However, laptops have gotten so light, and bezels so thin, that the 16″ of today is the 14″ of several years ago – not exactly, but you get my point. I definitely had to get used to this larger laptop, but now that I have acclimatised, having 3840×2400 pixels spread out across a 16″ canvas is honestly kind of amazing. I
 
@@ -347,19 +485,19 @@ For the 16th consecutive year, NASA has received an unmodified, or “clean,” 
 
 ## [These Adorable Hatchlings Are From the U.S. West Coast's First Known Natural Sea Turtle Nests. Now, They've Returned to the Wild](https://www.smithsonianmag.com/smart-news/these-adorable-hatchlings-are-from-the-us-west-coasts-first-known-natural-sea-turtle-nests-now-theyve-returned-to-the-wild-180989876/)
 
-via Smithsonian Magazine · 2026-11-16, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-16, updated 2026-11-20
 
 Two nests were spotted in September, and authorities moved the eggs to an aquarium to protect them from an incoming tropical storm. Over the weekend, dozens of hatchlings emerged and have now been released on the same beaches where they were found
 
 ## [How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future](https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-18
+via NVidia blog · 2026-11-16, updated 2026-11-20
 
 Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the \[…\]
 
 ## [A French Court Annuls the $1.6 Million Sale of This Camille Pissarro Painting, Allegedly Looted During World War II](https://www.smithsonianmag.com/smart-news/a-french-court-annuls-the-sale-of-this-camille-pissarro-painting-allegedly-looted-during-world-war-ii-180989875/)
 
-via Smithsonian Magazine · 2026-11-16, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-16, updated 2026-11-20
 
 Seven descendants of Jewish banker Salomon Flavian challenged a 2024 auction sale brokered without their knowledge, prompting a court to demand the painting's restitution and the revelation of the anonymous buyer's identity
 
@@ -377,43 +515,43 @@ U.S. Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX
 
 ## [More Than a Billion Years' Worth of Rock Layers Are Missing From Earth's Geologic Record. Scientists Say They May Finally Know Why](https://www.smithsonianmag.com/smart-news/more-than-a-billion-years-worth-of-rock-layers-are-missing-from-earths-geologic-record-scientists-say-they-may-finally-know-why-180989870/)
 
-via Smithsonian Magazine · 2026-11-16, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-16, updated 2026-11-20
 
 Computer simulations suggest that movements in Earth's viscous mantle layer lifted certain chunks of the planet's surface, allowing ice sheets to scrape away the rock
 
 ## [Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics](https://blogs.nvidia.com/blog/lambda-photonics/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-18
+via NVidia blog · 2026-11-16, updated 2026-11-20
 
 To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs, delivering \[…\]
 
 ## [NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing](https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-18
+via NVidia blog · 2026-11-16, updated 2026-11-20
 
 Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum processors.  Many of these centers use Slurm to run scientific supercomputing workloads, so expanding its support for quantum processors builds on familiar workflows \[…\]
 
 ## [NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance](https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-18
+via NVidia blog · 2026-11-16, updated 2026-11-20
 
 In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference.  NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic \[…\]
 
 ## [NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery](https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-18
+via NVidia blog · 2026-11-16, updated 2026-11-20
 
 With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are helping scientists analyze larger datasets and model more complex systems. The new libraries give AI agents the tools to help researchers make discoveries \[…\]
 
 ## [CUDA at 20: How the Platform Transformed Scientific Computing](https://blogs.nvidia.com/blog/20-years-cuda/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-18
+via NVidia blog · 2026-11-16, updated 2026-11-20
 
 This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI.  CUDA’s 20th anniversary presents an occasion to reflect across computing eras, from the people who wrote the very first CUDA programs to the AI developers \[…\]
 
 ## [NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics](https://blogs.nvidia.com/blog/rubin-hpc/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-18
+via NVidia blog · 2026-11-16, updated 2026-11-20
 
 Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows.  As agents help scientists and engineers explore more candidate materials, molecules and designs, they rely on simulations to test those ideas and guide their next \[…\]
 
@@ -425,7 +563,7 @@ The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy�
 
 ## [What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.](https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/)
 
-via Quanta Magazine · 2026-11-16, updated 2026-11-18
+via Quanta Magazine · 2026-11-16, updated 2026-11-20
 
 An era-defining galaxy survey has released its final results. They don’t quite fit the leading theory of cosmology.
 
@@ -433,19 +571,19 @@ The post [What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Mis
 
 ## [Europe's Hera Spacecraft Has Begun Its Close-Up Investigation of the Asteroid System NASA Intentionally Hit in 2022](https://www.smithsonianmag.com/smart-news/europes-hera-spacecraft-has-begun-its-close-up-investigation-of-the-asteroid-system-nasa-intentionally-hit-in-2022-180989871/)
 
-via Smithsonian Magazine · 2026-11-16, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-16, updated 2026-11-20
 
 The European Space Agency's mission will provide valuable data about the aftermath of the planned collision, which can inform planetary defense measures and reveal insights about asteroids
 
 ## [These London Apartments Look Straight Out of the Stone Age. Could They Be the Future of Sustainable Architecture?](https://www.smithsonianmag.com/smart-news/these-london-apartments-look-straight-from-the-stone-age-could-they-be-the-future-of-sustianable-architecture-180989873/)
 
-via Smithsonian Magazine · 2026-11-16, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-16, updated 2026-11-20
 
 A new residential complex with a load-bearing exoskeleton made from 1,000 tons of raw stone is offering an alternative to carbon-intensive steel and concrete structures. Its designers think that the monumental stone buildings of the past are coming back into fashion
 
 ## [Are your body clocks off? Meet ‘circadian depression’](https://www.npr.org/2026/11/16/nx-s1-6035777/depression-daylight-sleep-circadian-rhythm)
 
-via NPR Short Wave · 2026-11-16, updated 2026-11-18
+via NPR Short Wave · 2026-11-16, updated 2026-11-20
 
 What if depression is sometimes linked to your body’s internal sense of time? That’s what researchers from the University of Sydney’s Brain and Mind Centre wanted to know. In a new study, they surveyed patients with depression whose symptoms may reflect problems with their circadian rhythms – like their sleep schedule, how tired they feel in the morning and whether they’re a night owl. They found that about 1 in 4 qualified for what might be termed a circadian subtype of depression. And while there’s still a lot of research to be done, this could open up new pathways for mental health treatment. NPR health correspondent [Will Stone](https://www.npr.org/people/919093243/will-stone) walks us through the study and its implications.
 
@@ -475,43 +613,43 @@ Ice near the summit of the Indonesian mountain peak has shrunk to scattered patc
 
 ## [AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities](https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-18
+via NVidia blog · 2026-11-16, updated 2026-11-20
 
 Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai \[…\]
 
 ## [KDE will now load XWayland on demand](https://www.osnews.com/story/146401/kde-will-now-load-xwayland-on-demand/)
 
-via OS News · 2026-11-15, updated 2026-11-18
+via OS News · 2026-11-15, updated 2026-11-20
 
 When running KDE, the X11 compatibility layer for Wayland, XWayland, always runs, even if there isn’t anything on the system still requiring the legacy X server to work. In the next step towards a Wayland-only world, the KDE people have reached a major milestone: XWayland now only runs when actually needed. This week a significant technical milestone was achieved: the XWayland compatibility layer is now loaded only when needed. Previously it had always been running even when no apps were using it, and fixing this required porting various system services away from legacy X11 code paths. This work was done by Vlad Zahorodnii, David Edmundson, and David Redondo, and will ship in Plasma 6.9. ↫ Nate Graham This frees up some system resources, which is always a welcome improvement. I do wonder how this might impact the load times of legacy X applications, but I have a feeling it’s close to immeasurable.
 
 ## [Redox gets Go, GIMP, and more](https://www.osnews.com/story/146399/redox-gets-go-gimp-and-more/)
 
-via OS News · 2026-11-15, updated 2026-11-18
+via OS News · 2026-11-15, updated 2026-11-20
 
 I love and admire the Redox project, but their insistence on fudging the publication dates of their monthly progress reports really bothers me, for some reason. No, I’m not 16 days late – the report covering October was published only yesterday evening, and not on 31 October as the website claims. None of this matters to anyone but weird people such as myself, but I still want to get it off my chest. Don’t bother any Redox people about this. Anyway, the big news for the month of October is the port of the official Go programming language compiler, allowing for cross-compilation and self-hosted compilation using relibc. Another major port also made its way to Redox in October: GIMP now runs on Redox, using the Orbital backend of the GTK port. The work to make Redox compatible with Cloud Hypervisor is also complete, with more information in its own dedicated article. Video playback in WebKitGTK3 has been fixed as well, and even YouTube works now which is quite neat. There’s a ton more in this report, like an updated Servo port, NUMA support has been tested on real hardware for the first time and seems to work, work on rootless package installation has begun, and much more.
 
 ## [Disk encryption on NetBSD: achieving secrecy](https://www.osnews.com/story/146397/disk-encryption-on-netbsd-achieving-secrecy/)
 
-via OS News · 2026-11-15, updated 2026-11-18
+via OS News · 2026-11-15, updated 2026-11-20
 
 NetBSD developer Nia Alarie has written a guide on how to set up a NetBSD system with disk encryption that’s quite useful for those of us who deeply care about such a level of security. On top of that, the guide is also interesting if you just want to learn a bit more about how NetBSD works. The guide is written for sparc64, but should work on more mainstream architectures just as well. A guide written by a NetBSD developer is obviously going to employ some exotic or weird hardware. As is tradition.
 
 ## [Creating a self-booting ZIP archive](https://www.osnews.com/story/146395/creating-a-self-booting-zip-archive/)
 
-via OS News · 2026-11-15, updated 2026-11-18
+via OS News · 2026-11-15, updated 2026-11-20
 
 Linux initramfs supports unpacking CPIO, a stupid, simple, standardized format. In the discussion on whether to support TAR instead, much emphasize has been put on the fact that CPIO is standardized and less fragmented. Luckily, Linux (the kernel) includes its own tool to produce the specific variant of the standard that it happens to implement. The standard CPIO tool is possibly the most cursed archiver under the SUN. In the old DOS/WinDOS world, ZIP was probably the most widespread and well-known archive format, being displaced to some extent by the rise of RAR during the 2000s. Because of the design of the format, ZIP lends itself to all kinds of polyglot trickery. Way back when, self extracting ZIP archives where a thing, EXE/ZIP polyglots that can be run and unpack themselves, which is useful if you don’t have an archiver installed. I don’t think I need to explain where I am going with this. ↫ David Oberhollenzer This is lovingly cursed.
 
 ## [MenuetOS keeps steadily improving](https://www.osnews.com/story/146384/menuetos-keeps-steadily-improving/)
 
-via OS News · 2026-11-13, updated 2026-11-18
+via OS News · 2026-11-13, updated 2026-11-20
 
 MenuetOS, the operating system written in x86-64 assembly, has seen a few new releases since we last looked at it, delivering some welcome improvements. Secure network connections are now faster, there’s a TrueType font demo, and, of course, the usual bugfixes and smaller improvements. The game Wizord EXL100 has been ported, and a few drivers have been improved as well. You can get the latest releases from the downloads page.
 
 ## [Two Centuries After This Bronze Leg Emerged From a Scottish Bog, Archaeologists Believe It May Have Belonged to a Towering Statue of a Roman Emperor on Horseback](https://www.smithsonianmag.com/smart-news/two-centuries-after-this-bronze-leg-emerged-from-a-scottish-bog-archaeologists-believe-it-may-have-once-belonged-to-a-towering-statue-of-a-roman-emperor-on-horseback-180989872/)
 
-via Smithsonian Magazine · 2026-11-13, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-13, updated 2026-11-20
 
 Long thought to have been looted from northern England by Scottish tribes, the larger-than-life leg may have actually been displayed in Roman Scotland, before it was carefully dismantled and buried by retreating forces
 
@@ -523,13 +661,13 @@ Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is tr
 
 ## [Thawing Permafrost May Have Created a New Type of Landslide, Which Could Become More Common as the World Warms](https://www.smithsonianmag.com/smart-news/thawing-permafrost-may-have-created-a-new-type-of-landslide-which-could-become-more-common-as-the-world-warms-180989863/)
 
-via Smithsonian Magazine · 2026-11-13, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-13, updated 2026-11-20
 
 Scientists call the events permafrost detachment slides. Instead of thawing from the top down, these landslides seem to originate from a weakened base
 
 ## [Archaeologists in England Discovered 8,000 Roman-Era Frog Bones in a Single Ditch. They Just Solved the Mystery of How the Amphibians Ended Up There](https://www.smithsonianmag.com/smart-news/archaeologists-in-england-discovered-8000-roman-era-frog-bones-in-a-single-ditch-they-just-solved-the-mystery-how-the-amphibians-ended-up-there-180989868/)
 
-via Smithsonian Magazine · 2026-11-13, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-13, updated 2026-11-20
 
 New research suggests that medium-sized birds of prey such as short-eared owls feasted on the frogs during a "short, intensive predation event" some 1,700 years ago
 
@@ -541,31 +679,31 @@ Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth 
 
 ## [This Four-Person NASA Crew Spent Over a Year on 'Mars.' Here's What They Did for 378 Days in a Simulated Martian Habitat](https://www.smithsonianmag.com/smart-news/this-four-person-nasa-crew-spent-over-a-year-on-mars-heres-what-they-did-for-378-days-in-a-simulated-martian-habitat-180989862/)
 
-via Smithsonian Magazine · 2026-11-13, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-13, updated 2026-11-20
 
 An intense selection process and long preparation helped set the crew up for cohabitation in a 3D-printed replication of the Red Planet's environment in Houston. There, they practiced Marswalks, disrupted communications with people on Earth and food cultivation
 
 ## [German Renaissance Master Albrecht Altdorfer Pioneered Landscape Painting. A Work Previously Unknown to Scholars Just Emerged After 70 Years in a Private Collection](https://www.smithsonianmag.com/smart-news/german-renaissance-master-albrecht-altdorfer-pioneered-landscape-painting-a-work-previously-unknown-to-scholars-just-emerged-after-70-years-in-a-private-collection-180989861/)
 
-via Smithsonian Magazine · 2026-11-13, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-13, updated 2026-11-20
 
 Painted around 1520, the newly identified painting is one of only three pure landscapes painted in oil by the artist. It depicts a lush forest scene with castle ruins and a rainbow emerging from stormy skies
 
 ## [More Than 3,000 Tarantulas Were Found Hidden in Socks During a Major Wildlife Trafficking Bust at an Airport in Lima, Peru](https://www.smithsonianmag.com/smart-news/more-than-3000-tarantulas-were-found-hidden-in-socks-during-a-major-wildlife-trafficking-bust-at-an-airport-in-lima-peru-180989854/)
 
-via Smithsonian Magazine · 2026-11-13, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-13, updated 2026-11-20
 
 According to Peruvian officials, the three European travelers—including one who's been identified as a "renowned tarantula researcher"—could have made around $1.68 million from the creepy-crawly loot
 
 ## [AI Is Helping Care Teams Get Patients the Right Care, Sooner](https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/)
 
-via NVidia blog · 2026-11-13, updated 2026-11-18
+via NVidia blog · 2026-11-13, updated 2026-11-20
 
 From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI \[…\]
 
 ## [AI could help hospitals diagnose PTSD in real time](https://www.npr.org/2026/11/13/nx-s1-6031981/ai-ptsd-trauma-prediction-er)
 
-via NPR Short Wave · 2026-11-13, updated 2026-11-18
+via NPR Short Wave · 2026-11-13, updated 2026-11-20
 
 Every year, millions of people in the United States develop PTSD from a traumatic event—like a car crash, an assault or freak accident. A lot of those people end up in the ER answering the same question: “What brought you to the emergency department today?” Now, a research team in New York has an AI model that can use patients’ answers and demographics to spit out one number that tells medical staff how likely a patient is to develop PTSD a month later _._
 
@@ -593,19 +731,19 @@ After decades of decline, this ecologically significant type of forest is making
 
 ## [ReactOS makes strides in SMP, 64bit, and more](https://www.osnews.com/story/146373/reactos-makes-strides-in-smp-64bit-and-more/)
 
-via OS News · 2026-11-13, updated 2026-11-18
+via OS News · 2026-11-13, updated 2026-11-20
 
 The ReactOS project organised two hackfests this year, and the work done during those in-person sessions, combined with the ongoing regular progress, has led to some pretty significant breakthroughs and progress. More NT6+ syscalls have been added, ReactOS supports floppy disks now, NTFS support has been vastly improved, and much more. There’s also a new USB3/4 stack, which is now merged and offers basic support for these versions of USB. One of the biggest additions is a new kernel shim engine which gives ReactOS the ability to work around buggy drivers and implement quirks, moreso than even Windows itself can. For instance, thanks to this new shim, XP-era NVIDIA drivers can run on NT6 ReactOS. The ongoing efforts to implement SMP are yielding results too: ReactOS can now run with SMP for days on end while doing tasks in the background, which is quite promising. The team is showing off Steam and the game Among Us running on ReactOS, which is definitely impressive.
 
 ## [Polo: a new Wayland compositor for MATE](https://www.osnews.com/story/146370/polo-a-new-wayland-compisitor-for-mate/)
 
-via OS News · 2026-11-13, updated 2026-11-18
+via OS News · 2026-11-13, updated 2026-11-20
 
 MATE is probably the last X11-only holdout among the major desktop environments, but that’s about to change if Kerem Söke has anything to say about it. Polo is a port of Marco’s behavior and window management policies to Wayland, built on libweston and written in Vala and C. It’s a window manager, compositor, and session authority for the MATE Wayland desktop. It takes over, step by step, what Marco, mate-session-manager and the compositor-facing parts of mate-settings-daemon do on X11. ↫ Polo’s GitHub page Söke is looking for testers with this very first Polo 1.0.0 release – cute name, too – which is available on its GitHub page.
 
 ## [IBM to offer access to a dual-processor quantum system in 2027](https://www.osnews.com/story/146368/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/)
 
-via OS News · 2026-11-13, updated 2026-11-18
+via OS News · 2026-11-13, updated 2026-11-20
 
 Ars Technica published a short write-up about changes to IBM’s quantum computing plans. The changes greatly expand the scope of its next-generation Nighthawk general-use processors by adding a version with over 500 programmable qubits. At the same time, it’s stepping back a bit on its plan to link multiple Nighthawk processors together, dropping the intended number of linked systems from nine to two. The total number of qubits planned for next year will remain the same; how the company is getting there, however, will be different. Meanwhile, the company is touting the performance boost achieved via a major change that was made in the generation of Nighthawk processors released in September: hardware-based qubit resets. ↫ John Timmer at Ars Technica I’m convinced quantum computing will eventually have a big impact in the areas its characteristics are presumed to be well-suited for. Also, it just looks and sounds incredibly cool, even if as the technology currently stands it’s not particularly useful yet.
 
@@ -617,13 +755,13 @@ For Katie Spicer, embracing opportunity and challenge has led to giant leaps dur
 
 ## [Florida Is Facing Its Worst Dengue Outbreak in Decades, With at Least 524 Locally Acquired Cases. Here's What to Know](https://www.smithsonianmag.com/smart-news/florida-is-facing-its-worst-dengue-outbreak-in-decades-with-at-least-524-locally-acquired-cases-heres-what-to-know-180989865/)
 
-via Smithsonian Magazine · 2026-11-12, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-12, updated 2026-11-20
 
 Most dengue infections cause mild flu-like symptoms or no symptoms at all. But at least one person has died from this year’s outbreak in Florida, where health experts worry the disease will become more common in the future
 
 ## [Can Network Science Transform Health and Nutrition?](https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/)
 
-via Quanta Magazine · 2026-11-12, updated 2026-11-18
+via Quanta Magazine · 2026-11-12, updated 2026-11-20
 
 Albert-László Barabási explains how the same organizing principles shape everything from the internet to the cell, and how mapping the networks inside our bodies could change how we treat disease and think about food.
 
@@ -637,13 +775,13 @@ The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a fligh
 
 ## [Designed to Be Unsinkable, the World's Fastest Ocean Liner Finally Hits the Ocean Floor. The 53,330-Ton S.S. 'United States' Is Now the World's Largest Artificial Reef](https://www.smithsonianmag.com/smart-news/designed-to-be-unsinkable-the-worlds-fastest-ocean-liner-finally-hits-the-ocean-floor-the-53330-ton-ss-united-states-is-now-the-worlds-largest-artificial-reef-180989866/)
 
-via Smithsonian Magazine · 2026-11-12, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-12, updated 2026-11-20
 
 The 1,000-foot ship, longer than the "Titanic," once carried celebrities and politicians across the Atlantic in midcentury style. Now, after decades of uncertainty and rust, it's taking on a second life as an underwater refuge for marine creatures and curious divers
 
 ## [This Mysterious Combination Lock Sank in a 1583 Shipwreck. When Engineers Cracked the Code, It Clicked Open for the First Time in More Than 400 Years](https://www.smithsonianmag.com/smart-news/this-mysterious-combination-lock-sank-in-a-1583-shipwreck-when-engineers-cracked-the-code-it-clicked-open-for-the-first-time-in-more-than-400-years-180989864/)
 
-via Smithsonian Magazine · 2026-11-12, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-12, updated 2026-11-20
 
 A metal detectorist recovered the brass artifact from the wreck of the "Ann Francis," a merchant vessel that sank off southern Wales. Researchers used micro-CT scans to identify the four-letter combination
 
@@ -655,19 +793,19 @@ The NASA Ames Science Directorate recognizes the outstanding contributions of (p
 
 ## [Global Fossil Fuel Emissions Are Expected to Drop This Year, Partly Because of the Conflicts in Iran and Ukraine](https://www.smithsonianmag.com/smart-news/global-fossil-fuel-emissions-are-expected-to-drop-this-year-partly-because-of-the-conflicts-iran-ukraine-180989855/)
 
-via Smithsonian Magazine · 2026-11-12, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-12, updated 2026-11-20
 
 The small decrease seems to stem partially from the closure of the Strait of Hormuz, a major global chokepoint for oil transportation. Scientists say that the decline will not last without the accelerated deployment of renewable energies
 
 ## [Astronomers Found a Mysterious Object Orbiting Far Beyond Pluto. It Could Be a New Dwarf Planet Hidden in Our Solar System](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
 
-via Smithsonian Magazine · 2026-11-12, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-12, updated 2026-11-20
 
 The dwarf planet candidate, called ED138, appeared in telescope images and takes roughly 280 years to orbit the sun. Astronomers need to determine its size to properly classify it
 
 ## [A New Era for the Dawn of Life](https://www.quantamagazine.org/a-new-era-for-the-dawn-of-life-20261112/)
 
-via Quanta Magazine · 2026-11-12, updated 2026-11-18
+via Quanta Magazine · 2026-11-12, updated 2026-11-20
 
 Creative, interdisciplinary, and bold, the study of the origins of life has entered a new age. Welcome to Quanta Magazine’s special series on the origins of life.
 
@@ -675,13 +813,13 @@ The post [A New Era for the Dawn of Life](https://www.quantamagazine.org/a-new-e
 
 ## [What Seeded Life on Earth? New Research Challenges the Longstanding Theory That Comets Brought the Ingredients to Our Planet](https://www.smithsonianmag.com/smart-news/what-seeded-life-on-earth-new-research-challenges-the-longstanding-theory-that-comets-brought-the-ingredients-to-our-planet-180989852/)
 
-via Smithsonian Magazine · 2026-11-12, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-12, updated 2026-11-20
 
 Computer simulations suggest comets carrying a key precursor to many of life's building blocks would have rarely—if ever—successfully reached Earth's surface. And even if they did, only specific landing conditions would have allowed the precursor molecule to drive biologically relevant reactions
 
 ## [The Evolving Story of How Chemistry Became Biology](https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/)
 
-via Quanta Magazine · 2026-11-12, updated 2026-11-18
+via Quanta Magazine · 2026-11-12, updated 2026-11-20
 
 After decades of bickering about which molecules came first, a new generation of scientists is rethinking what life was, is, and could be.
 
@@ -689,7 +827,7 @@ The post [The Evolving Story of How Chemistry Became Biology](https://www.quanta
 
 ## [A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/)
 
-via NVidia blog · 2026-11-12, updated 2026-11-18
+via NVidia blog · 2026-11-12, updated 2026-11-20
 
 Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon’s Dogma 2: Dark Arisen brings new tales \[…\]
 
@@ -707,7 +845,7 @@ As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photogr
 
 ## [I’m not descending into madness because mount and unmount icons make no sense](https://www.osnews.com/story/146312/im-not-descending-into-madness-because-mount-and-unmount-icons-make-no-sense/)
 
-via OS News · 2026-11-12, updated 2026-11-18
+via OS News · 2026-11-12, updated 2026-11-20
 
 There are many problems in this world – some big, some small, some so minute nobody ought to put them to paper at all. The problem I’m going to highlight here is even smaller than that. This literally – the actual literally – does not matter and absolutely nobody should care about it, let alone put any work into changing it or addressing it some other way. I want to talk about the iconography GNOME’s Disks utility uses to symbolise “mount” and “unmount”. No, I’m not descending into madness. GNOME’s Disks utility uses the “play” symbol on the mount button, and the “stop” symbol on the unmount button. Inexplicably, considering the state of the world in general and the rapidly deteriorating quality of software specifically, this bothers me. Out in the real world, built on decades of consistent use, these symbols have gained clearly defined meanings, and mounting and unmounting disks definitely isn’t one of them. In fact, the meaning of these symbols isn’t mere convention; they’re defined in a variety of international standards for symbols for use in software and on equipment, such as ISO/IEC 18035 (which you need to buy to read; my copy fell of a truck): ISO/IEC 18035:2002 defines a consistent set of icons and related functions that are represented by multimedia applications on a computer screen and that users interact with to control such applications. It describes controls applying to such functions as: Play, Pause, Stop, Rewind, Scan forward, Scan backward, Replay backward, Loop, Go to beginning, Go to previous, Go to next, Go to end, Set volume and Mute. ↫ ISO/IEC 18035:2003 They’re also part of ISO 7000/IEC 60417, a much larger, more encompassing standard that also contains things like the various symbols used on laundry machines, tumble dryers, in cars, and so on. The symbols themselves are much older than the standards, of course, with many of them dating back to the 1960s and possibly even 1950s. The point remains, though: the play and stop symbols have clearly defined meanings, and I don’t think they are at all a good fit for mount and unmount. The function of the “play” symbol according to ISO/IEC 18035: To enable the user to start the presentation of dynamic media, except where the task requires automatic playing of that media. ↫ ISO/IEC 18035:2003 And of the “stop” symbol: To enable the user to stop the presentation of dynamic media. ↫ ISO/IEC 18035:2003 Neither of these descriptions match what mounting and unmounting mean or do. Mounting a drive or partition doesn’t present any media at all; it merely makes the drive or partition in question accessible. Unmounting also doesn’t eject anything; it merely makes the drive or partition inaccessible. I would argue that play and pause act upon contents of a drive or volume, and not upon the drive or volume itself. As it stands right now, you “play” a drive” to “play” a video stored on said drive. Madness. I already know what you’re thinking, and yes, I agree that the Disks utility is a tool aimed at more advanced use cases and users, and most normal, average users will never even know it exists, let alone open it at all. Very few people get to see these symbols, and those that do already know full well what mounting and unmounting mean, reducing the importance of said symbols considerably. But now it’s time for the big surprise, the twist in the story that turns this entire thing on its head. Files, GNOME’s file manager, uses an entirely different symbol for unmounting! Instead of the “stop” symbol, Files uses the “eject” symbol. You may think this is a more accurate visual representation of what unmounting means, but I strongly disagree. Let’s turn to ISO/IEC 18035:2003 once again: To enable the user to eject the current physical media from the appropriate drive. ↫ ISO/IEC 18035:2003 Unmounting doesn’t eject anything! If you unmount a USB stick, the stick doesn’t get fired out of the USB port. If you unmount a volume, it doesn’t get removed from the SSD. Hell, if you unmount a CD-ROM, it doesn’t even eject it! Ejecting a CD-ROM – opening the drive’s tray or spitting the CD-ROM out of a slot-loader – is an entirely different act! Are we really “ejecting” a CD-ROM twice? Are we “mounting” a CD-ROM when we merely close the tray? No! Madness! The real underlying problem here is, of course, that mounting and unmounting are deeply weird and confusing concepts, bordering on the esoteric, that simply do not have physical equivalents to fall back on. Using symbols and iconography designed in the 1960s explicitly for playing music or stopping a video or ejecting a cassette tape are not a good fit for something as difficult to explain to most people as mounting and unmounting. It’s like putting an eject symbol on a car’s door handle or a play symbol on a soap dispenser. Should GNOME developers waste any time or resources to address this? No, of course not, that would be stupid. Nobody should care about this but me. I should suffer in silence, every time I need to mount or unmount something, forced to look for an eject or stop symbol in whatever user interface I happen to be using. Every time, I should die a little inside. Please, don’t be like me and waste precious resources thinking about this. I’m not descending into madness. I just want mount and unmount symbols that make sense. I’m not descending into madness.
 
@@ -731,13 +869,13 @@ Written by William Farrand, Senior Research Scientist, Space Science Institute E
 
 ## [Haiku gets multifinger touchpad taps](https://www.osnews.com/story/146350/haiku-gets-multifinger-touchpad-taps/)
 
-via OS News · 2026-11-11, updated 2026-11-18
+via OS News · 2026-11-11, updated 2026-11-20
 
 We’re almost halfway through November, but we hadn’t seen Haiku’s monthly activity report for October yet. It’s here now, and there’s quite a few good things in here, like support for two and three-finger tap gestures on touchpads for right and middle-click, a new driver that adds Universal Flash Storage support, and even some build fixes for Haiku’s SPARC port as well as some fixes on the RISC-V side. Of course, that’s just a selection, as there’s the usual long list of smaller changes, bugfixes, and improvements as well.
 
 ## [Microsoft releases .NET 11](https://www.osnews.com/story/146348/microsoft-releases-net-11/)
 
-via OS News · 2026-11-11, updated 2026-11-18
+via OS News · 2026-11-11, updated 2026-11-20
 
 Today, we’re excited to announce the release of .NET 11! This year’s release makes building modern applications faster, more productive, and has improvements across C# 15, ASP.NET Core, .NET MAUI, and Windows development. With hundreds of runtime optimizations, more responsive SDK tooling, and less overhead in everyday commands, you can spend less time waiting and more time creating. Build richer web and cross-platform applications, take advantage of new C# language features, and explore AI-powered development with improved tools and agentic capabilities. ↫ .NET Team I’m not going to pretend to care about .NET, but I know many of you have to care on a professional level, because .NET is remarkably popular in places where the spotlights don’t often shine.
 
@@ -757,13 +895,13 @@ An interesting question, and a detailed technical rundown of how to make this ha
 
 ## [A Rare Surviving Letter From Martha Washington Sheds Light on Her Young Daughter's Struggle With Epilepsy](https://www.smithsonianmag.com/smart-news/a-rare-surviving-letter-from-martha-washington-sheds-light-on-her-young-daughters-struggle-with-epilepsy-180989858/)
 
-via Smithsonian Magazine · 2026-11-11, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-11, updated 2026-11-20
 
 Recently obtained by the Library of Congress, the 1760 letter offers positive news about the health of four-year-old Martha Parke Custis, known as Patsy, the stepdaughter of George Washington
 
 ## [Can scientists reverse your age?](https://www.npr.org/2026/11/11/nx-s1-5971828/age-reverse-longevity-disease-eye)
 
-via NPR Short Wave · 2026-11-11, updated 2026-11-18
+via NPR Short Wave · 2026-11-11, updated 2026-11-20
 
 Reversing aging may sound like science fiction, but scientists have already found a way to do it—at least, theoretically. Based on a 2012 Nobel-prize winning discovery, researchers are testing whether they can revert diseased cells in the eye back to young and healthy ones. They gave people a drug this year. If it works, it’ll open the door to curing and possibly preventing other age-related diseases. And that led producer [Berly McCoy](https://www.npr.org/people/985775371/berly-mccoy) to wonder: Could all this research eventually extend our human lifespans?
 
@@ -791,19 +929,19 @@ Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New
 
 ## [AI Helps Recyclers Turn Mixed Waste Into Reusable Material](https://blogs.nvidia.com/blog/ai-recycling-startups/)
 
-via NVidia blog · 2026-11-11, updated 2026-11-18
+via NVidia blog · 2026-11-11, updated 2026-11-20
 
 Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.
 
 ## [The Handwritten Final Draft of Martin Luther King Jr.'s 'I Have a Dream' Speech Was Considered Lost. It Turned Out to Be Sitting in a Desk Drawer for Decades](https://www.smithsonianmag.com/smart-news/the-handwritten-final-draft-of-martin-luther-king-jrs-i-have-a-dream-speech-was-considered-lost-it-turned-out-to-be-sitting-in-a-desk-drawer-for-decades-180989856/)
 
-via Smithsonian Magazine · 2026-11-10, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-10, updated 2026-11-20
 
 Across seven yellow notepad pages, King is seen wrestling with word choice and revising his remarks the night before the March on Washington. The manuscript will head to auction in January and is expected to pull in more than $10 million
 
 ## [Octopuses Are the Ultimate Escape Artists. Now Scientists Know How the Creatures Contort Themselves to Squeeze Through Tiny Holes](https://www.smithsonianmag.com/smart-news/octopuses-are-the-ultimate-escape-artists-now-scientists-know-how-the-creatures-contort-themselves-to-squeeze-through-tiny-holes-180989846/)
 
-via Smithsonian Magazine · 2026-11-10, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-10, updated 2026-11-20
 
 A new study reveals the step-by-step process some octopuses use to cram themselves into tight openings. The findings could inspire new designs for soft robots used during search-and-rescue missions
 
@@ -821,7 +959,7 @@ NASA will welcome home the Expedition 74 crew during a public event at Space Cen
 
 ## [Dismantled to Survive the Nazi Blitz, Coventry Cathedral's Stained Glass Is 'a Medieval Jigsaw Puzzle.' Its 12,000 Fragments Are Now Digitized for Public View](https://www.smithsonianmag.com/smart-news/dismantled-to-survive-the-nazi-blitz-coventry-cathedrals-stained-glass-is-a-medieval-jigsaw-puzzle-its-12000-fragments-have-been-digitized-for-the-public-180989853/)
 
-via Smithsonian Magazine · 2026-11-10, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-10, updated 2026-11-20
 
 First shattered during the Reformation, the 15th-century stained glass is rife with religious imagery, comical animal scenes and even portraits of the original donors who funded its construction
 
@@ -833,13 +971,13 @@ The LISA (Laser Interferometer Space Antenna) observatory, now in development, w
 
 ## [NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure](https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/)
 
-via NVidia blog · 2026-11-10, updated 2026-11-18
+via NVidia blog · 2026-11-10, updated 2026-11-20
 
 Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA \[…\]
 
 ## [This Adorable, Orphaned Baby Walrus Was Rescued by Two Researchers in Alaska. Now, He's Found a New Home in Florida](https://www.smithsonianmag.com/smart-news/this-adorable-orphaned-baby-walrus-was-rescued-by-two-researchers-in-alaska-now-hes-found-a-new-home-in-florida-180989847/)
 
-via Smithsonian Magazine · 2026-11-10, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-10, updated 2026-11-20
 
 The scientists were conducting fieldwork on a remote beach in northwestern Alaska when they spotted the roughly 5-month-old calf. The little one, named Annautaq, will not be able to return to the wild because he requires constant human care and will become too habituated to people
 
@@ -867,19 +1005,19 @@ The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arran
 
 ## [Voyager 1 Is the Farthest Human-Made Object in the Universe—and the Spacecraft Is About to Reach One Light-Day From Earth](https://www.smithsonianmag.com/smart-news/voyager-1-is-the-farthest-human-made-object-in-the-universe-and-the-spacecraft-is-about-to-reach-one-light-day-from-earth-180989845/)
 
-via Smithsonian Magazine · 2026-11-10, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-10, updated 2026-11-20
 
 The probe and its twin, Voyager 2, have been hurtling through space for almost 50 years, stretching humanity's reach into interstellar space. The upcoming milestone is a testament to scientific endeavor and ingenuity
 
 ## [The Maya Loved Using Mercury-Rich Red Paint to Decorate Pottery, Temple Walls and Even Burials. They May Have Accidentally Poisoned Their Own Water and Food Supply in the Process](https://www.smithsonianmag.com/smart-news/the-maya-loved-to-use-mercury-rich-red-paint-to-decorate-pottery-temple-walls-and-even-burials-they-may-have-accidentally-poisoned-their-own-water-and-food-supply-in-the-process-180989851/)
 
-via Smithsonian Magazine · 2026-11-10, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-10, updated 2026-11-20
 
 Testing of ancient sediment from two lakes in Mexico's Yucatán Peninsula has revealed "crazy" high concentrations of mercury, as one researcher puts it, confirming findings from other regions of the Mesoamerican civilization
 
 ## [How this year's record El Niño could hit your wallet](https://www.npr.org/2026/11/10/nx-s1-6011189/super-el-nino-2026-fish-market)
 
-via NPR Short Wave · 2026-11-10, updated 2026-11-18
+via NPR Short Wave · 2026-11-10, updated 2026-11-20
 
 Peru’s anchovy industry, the largest single-species fishery in the world, is being rocked by the ongoing El Niño . It’s not the first time the fishery has been impacted by the natural weather phenomenon — El Niño gets its name from Peruvian fishermen. And it’s a stark reminder of the reverberating economic consequences of El Niño events, which can cost the global economy [trillions of dollars](https://www.science.org/doi/10.1126/science.adf2983).
 
@@ -929,7 +1067,7 @@ Written by Tasha Coelho, Mastcam-Z Student Collaborator at Arizona State Univers
 
 ## [While Cleaning Out Her Aunt's Manhattan Apartment, a Woman Found a Long-Lost Georgia O'Keeffe Painting Buried Beneath Fur Coats in the Closet](https://www.smithsonianmag.com/smart-news/while-cleaning-out-her-aunts-manhattan-apartment-a-woman-found-a-long-lost-georgia-okeeffe-painting-buried-beneath-fur-coats-in-the-closet-180989848/)
 
-via Smithsonian Magazine · 2026-11-09, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-09, updated 2026-11-20
 
 Painted in 1930, "Near Abiquiu, New Mexico I" sat in the closet for 40 years, with only a single photograph, by O'Keeffe’s husband, Alfred Stieglitz, attesting to its existence. It could fetch upwards of $3 million at auction this month
 
@@ -947,7 +1085,7 @@ Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is tr
 
 ## [Neolithic Cannibalism Wasn't an Act of Desperation. Almost 1,000 Skeletal Fragments From Caves in Southern Spain Show How Eating Human Flesh Was a Continual Practice](https://www.smithsonianmag.com/smart-news/neolithic-cannibalism-wasnt-an-act-of-desperation-almost-1000-skeletal-fragments-from-caves-in-southern-spain-show-how-eating-human-flesh-was-a-continual-practice-180989849/)
 
-via Smithsonian Magazine · 2026-11-09, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-09, updated 2026-11-20
 
 More than five decades after hordes of prehistoric bones were unearthed from three caves in Granada, new forensic techniques show how communities continued to consume their dead across distinct cultural eras
 
@@ -965,13 +1103,13 @@ Read this release in English here.El domingo 8 de noviembre de 2026, la NASA anu
 
 ## [The Great Pacific Garbage Patch Has Accumulated So Many Microplastics They Might Be Changing the Color of the Ocean](https://www.smithsonianmag.com/smart-news/the-great-pacific-garbage-patch-has-accumulated-so-many-microplastics-they-might-be-changing-the-color-of-the-ocean-180989828/)
 
-via Smithsonian Magazine · 2026-11-09, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-09, updated 2026-11-20
 
 Satellite data suggests water in and around the huge area filled with human-made debris has become more blue-green over the past two decades. Computer simulations suggest microplastics are to blame, but researchers need samples to confirm their hypothesis
 
 ## [Humans May Have Been Getting High on Weed 2,800 Years Ago. Cannabis Seeds and Hair With Traces of THC Were Found in an Ancient Tomb](https://www.smithsonianmag.com/smart-news/humans-may-have-been-getting-high-on-weed-2800-years-ago-cannabis-seeds-and-hair-with-traces-of-thc-were-found-in-an-ancient-tomb-180989829/)
 
-via Smithsonian Magazine · 2026-11-09, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-09, updated 2026-11-20
 
 A tomb discovered in Siberia and associated with Scythians—a nomadic, horse-riding people that once roamed the Eurasian steppe—might provide the earliest direct evidence of cannabis use
 
@@ -985,7 +1123,7 @@ The post [Did Life Begin in an RNA World?](https://www.quantamagazine.org/did-li
 
 ## [Even Replacing Some of Your Dietary Dairy With Plant-Based Alternatives Can Lead to Nutrient Deficiencies, Study Suggests](https://www.smithsonianmag.com/smart-news/even-replacing-some-of-your-dietary-dairy-with-plant-based-alternatives-can-lead-to-nutrient-deficiencies-study-suggests-180989825/)
 
-via Smithsonian Magazine · 2026-11-09, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-09, updated 2026-11-20
 
 More people are swapping animal products with vegan milks, yogurts and cheeses, so scientists wanted to investigate the potential public health effects. Their findings hint that consumers should look for items with extra nutrients added, called fortified foods
 
@@ -1021,7 +1159,7 @@ Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Start
 
 ## [An ‘Ozempic baby boom’? The GLP-1 pregnancy plot twist](https://www.npr.org/2026/11/09/nx-s1-6023369/glp1-ozempic-babies-pregnancy)
 
-via NPR Short Wave · 2026-11-09, updated 2026-11-18
+via NPR Short Wave · 2026-11-09, updated 2026-11-20
 
 The explosion of GLP-1 drugs has created a gray zone for pregnancy. That recently prompted the American College of Obstetricians and Gynecologists to issue [its first ever guidance](https://www.acog.org/clinical/guidance/practice-advisory/2026/10/use-of-glucagon-like-peptide-1-receptor-agonists-in-pregnancy-and-lactation/) on the topic. In a twist, the drugs may boost fertility for some, leading to more pregnancies – a phenomenon known on social media as “Ozempic babies”. But doctors caution against using the drugs during pregnancy itself. In fact, the more we looked into this story, the more twists and nuances we found. So, we brought Dr. [Amy Valent](https://www.ohsu.edu/providers/amy-valent-do) of Oregon Health and Science University onto the show to break down the latest on what’s known about how these drugs affect fertility and pregnancy.
 
@@ -1119,31 +1257,31 @@ APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submission
 
 ## [Where Did Stonehenge's Mysterious, Six-Ton Altar Stone Really Come From? Geologists Rule Out the Scottish Hypothesis as the Search Deepens](https://www.smithsonianmag.com/smart-news/where-did-stonehenges-mysterious-six-ton-altar-stone-really-come-from-geologists-rule-out-the-scottish-hypothesis-as-search-deepens-180989833/)
 
-via Smithsonian Magazine · 2026-11-06, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-06, updated 2026-11-20
 
 A comprehensive investigation of the sandstone megalith’s "geological fingerprint" suggests it did not originate in northeast Scotland, as a surprising study concluded in 2024, sending scientists back into the field to track down the enigmatic slab's origins
 
 ## [Stolen During the Nazi Occupation of Orléans, France, This Painting Was Rediscovered After 86 Years With Help From Wild West-Inspired 'Wanted' Posters](https://www.smithsonianmag.com/smart-news/stolen-during-the-nazi-occupation-of-orleans-france-this-painting-was-rediscovered-after-86-years-with-help-from-wild-west-inspired-wanted-posters-180989839/)
 
-via Smithsonian Magazine · 2026-11-06, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-06, updated 2026-11-20
 
 The Musée des Beaux-Arts d'Orléans is on a mission to retrieve hundreds of missing artworks from its collections. It recently tracked down a 17th-century painting by Dutch artist Willem Cornelisz Duyster right before it went to auction in Switzerland
 
 ## [This Wooden Wardrobe in Pompeii Remained Sealed for Nearly 2,000 Years. Archaeologists Just Opened It for the First Time](https://www.smithsonianmag.com/smart-news/this-wooden-wardrobe-in-pompeii-remained-sealed-for-nearly-2000-years-archaeologists-just-opened-it-for-the-first-time-180989831/)
 
-via Smithsonian Magazine · 2026-11-06, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-06, updated 2026-11-20
 
 The ancient cabinet held a pair of tweezers, a perfume bottle, an incense burner and ceramic vessels. But the most impressive find was a necklace sporting at least 24 amulets shaped like deities, plants and body parts
 
 ## [For Centuries, Cave Visitors Walked Right by 280 Ice Age Engravings. The Newly Discovered Rock Art Is Rewriting Catalonia's Prehistory](https://www.smithsonianmag.com/smart-news/for-centuries-visitors-walked-right-by-280-ice-age-engravings-in-a-catalan-cave-the-newly-discovered-rock-art-is-rewriting-catalonias-prehistory-180989827/)
 
-via Smithsonian Magazine · 2026-11-06, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-06, updated 2026-11-20
 
 Prior to the discovery, rock art in northeastern Spain was "very scarce," one archaeologist says. The drawings show dozens of animals, as well as more abstract shapes, which are distinct from other Paleolithic styles
 
 ## [Strange Gas in Mars' Atmosphere Hints the Red Planet Is Still Volcanically Active—and Points to Places to Search for Alien Life](https://www.smithsonianmag.com/smart-news/strange-gas-in-mars-atmosphere-hints-the-red-planet-is-still-volcanically-active-and-points-to-places-to-search-for-alien-life-180989817/)
 
-via Smithsonian Magazine · 2026-11-06, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-06, updated 2026-11-20
 
 Cracks along a giant Martian volcano, possibly above a magma chamber, might be spewing magmatic gases into the atmosphere, according to a new study. The fissures might host environments akin to Earth's hydrothermal vents, where life on our planet may have emerged
 
@@ -1167,7 +1305,7 @@ A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and
 
 ## [These Moths Use Their Genitals to Fend Off Bats—but Not in the Way You Think. They Emit Ultrasound to Scramble the Predators' Sonar](https://www.smithsonianmag.com/smart-news/these-moths-use-their-genitals-to-fend-off-bats-but-not-in-the-way-you-think-they-emit-ultrasound-to-scramble-the-predators-sonar-180989819/)
 
-via Smithsonian Magazine · 2026-11-06, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-06, updated 2026-11-20
 
 New research suggests male hawkmoths have three distinct anti-bat, ultrasound-producing systems. These may have evolved independently up to seven times between 5 million and 30 million years ago
 
@@ -1181,13 +1319,13 @@ The post [A Strange Quantum Theorem Has Killed Einstein’s Reality](https://www
 
 ## [The Arctic Polar Vortex Is Collapsing Earlier in the Season Than Ever Documented—but We Don't Know How It'll Affect Global Weather](https://www.smithsonianmag.com/smart-news/the-arctic-polar-vortex-is-collapsing-earlier-in-the-season-than-ever-documented-but-we-dont-know-how-itll-affect-global-weather-180989818/)
 
-via Smithsonian Magazine · 2026-11-06, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-06, updated 2026-11-20
 
 A previous polar vortex disruption contributed to the Great Texas Freeze in 2021. This time, the ongoing "super" El Niño might offset some of the collapse's influence
 
 ## [Michelangelo Used These Custom, Multi-Headed Brushes While Painting 'The Last Judgment' to Replicate His Intricate Sculpting Techniques](https://www.smithsonianmag.com/smart-news/michelangelo-used-these-custom-multi-headed-brushes-while-painting-the-last-judgment-to-replicate-his-intricate-sculpting-techniques-180989816/)
 
-via Smithsonian Magazine · 2026-11-06, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-06, updated 2026-11-20
 
 While restoring the Sistine Chapel, researchers discovered wavy groupings of brushstrokes which indicated that the artist used the special brushes to create a distinct crosshatching pattern
 
@@ -1205,13 +1343,13 @@ The San Juan River has carved deep, improbably curvy meanders into the desert la
 
 ## [A Nazi Submarine Torpedoed a Merchant Ship Just Off the Coast of Maine in 1944. Divers Have Finally Located the Wreckage, 400 Feet Below the Surface](https://www.smithsonianmag.com/smart-news/a-nazi-submarine-torpedoed-a-merchant-ship-just-off-the-coast-of-maine-in-1944-divers-have-finally-located-the-wreckage-400-feet-below-the-surface-180989822/)
 
-via Smithsonian Magazine · 2026-11-05, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-05, updated 2026-11-20
 
 The SS "Cornwallis" was traveling between Barbados and Canada when it was sunk by a German U-boat that had delivered Nazi spies to American soil just days earlier
 
 ## [Was the British King Who Urged the Romans to Invade Actually a Queen? One Archaeologist Thinks So](https://www.smithsonianmag.com/smart-news/was-the-british-king-who-urged-the-roman-invasion-of-britain-actually-a-queen-one-archaeologist-thinks-so-180989821/)
 
-via Smithsonian Magazine · 2026-11-05, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-05, updated 2026-11-20
 
 Linguistic clues and ancient coins could suggest that Verica—a ruler who fled Britain and convinced Roman Emperor Claudius to launch an invasion across the English Channel—has been misgendered for centuries
 
@@ -1223,21 +1361,15 @@ AI agents do more than generate answers. They search for information, query data
 
 ## [China Announces a Plan to Put Astronauts on the Moon by 2030, Revealing Details of Four Upcoming Missions](https://www.smithsonianmag.com/smart-news/china-announces-a-plan-to-put-astronauts-on-the-moon-by-2030-revealing-details-of-four-upcoming-missions-180989810/)
 
-via Smithsonian Magazine · 2026-11-05, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-05, updated 2026-11-20
 
 The country intends to launch three uncrewed test missions followed by a human lunar landing within the next few years. NASA hopes to send humans to the moon in 2028, though some experts have expressed doubt about that timeline
 
 ## [This Bull and Male Donkey Have a Surprisingly Sexual Relationship, Providing Insights Into Interspecies and Same-Sex Bonds](https://www.smithsonianmag.com/smart-news/this-bull-and-male-donkey-have-a-surprisingly-sexual-relationship-revealing-insights-into-interspecies-and-same-sex-bonds-180989803/)
 
-via Smithsonian Magazine · 2026-11-05, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-05, updated 2026-11-20
 
 The ungulates, dubbed Achille and Patroclo, chose each other repeatedly and showed affection before and after each rendezvous. Same-sex sexual encounters are common among animals of the same species, but less so between different ones
-
-## [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/)
-
-via NVidia blog · 2026-11-05, updated 2026-11-15
-
-Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through \[…\]
 
 ## [The Ubuntu 26.04 Rust sudo is not compatible with standard sudo](https://www.osnews.com/story/146309/the-ubuntu-26-04-rust-sudo-is-not-compatible-with-standard-sudo/)
 
@@ -1253,7 +1385,7 @@ The second desktop environment release I’ve got for you today is LXQt 2.5.0. T
 
 ## [This Ancient 'Hell Chicken' Might Be the First Known Fruit-Loving Dinosaur, Revealing a Whole New Cretaceous Lifestyle](https://www.smithsonianmag.com/smart-news/this-ancient-hell-chicken-might-be-the-first-known-fruit-loving-dinosaur-revealing-a-whole-new-cretaceous-lifestyle-180989801/)
 
-via Smithsonian Magazine · 2026-11-05, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-05, updated 2026-11-20
 
 Infernogallus jamesi had beak and mouth adaptations that hint it could mash soft foods, like today's frugivorous birds. The dinosaur probably munched on fruits resembling modern-day cherries and peaches, and may have helped spread seeds via its poop
 
@@ -1289,7 +1421,7 @@ Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Dela
 
 ## [Archaeologists Found a 3,300-Year-Old Sword at the Bottom of a Volcanic Lake in Italy—and It's Still Sharp](https://www.smithsonianmag.com/smart-news/archaeologists-found-a-3300-year-old-sword-at-the-bottom-of-a-volcanic-lake-in-italy-and-its-still-sharp-180989813/)
 
-via Smithsonian Magazine · 2026-11-05, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-05, updated 2026-11-20
 
 The remarkably well-preserved 13th century B.C.E. weapon was found submerged in Lake Mezzano, once home to a Bronze Age village on stilts
 
@@ -1307,7 +1439,7 @@ This Hubble image features the sparkling collection of stars named Messier 30 (M
 
 ## [Predicting elections is getting harder. What did the midterms teach us?](https://www.npr.org/2026/11/05/nx-s1-6026649/us-midterm-election-poll-results)
 
-via NPR Short Wave · 2026-11-05, updated 2026-11-18
+via NPR Short Wave · 2026-11-05, updated 2026-11-20
 
 Famously, polls got the 2016 election wrong. And they’d been off for multiple elections since. So, Monday night, political scientist Jack Rametta nervously refreshed his [Senate forecasting model](https://jackrametta.com/senate-forecast/) for the final time. Would it be right this time? Or would it yet again cast doubt on whether modeling, statistics and forecasting can still help us understand what motivates people to vote? Now that the results are in, so is Jack – to tell us how he did, and what his and other researchers’ predictions tell us about the evolving science of polling and forecasting.
 
@@ -1351,7 +1483,7 @@ Another interesting post from Raymond Chen, this time about the difficulty of de
 
 ## [It's Not Just You: Some Fast-Flying Birds Also Get Jet Lag](https://www.smithsonianmag.com/smart-news/its-not-just-you-some-fast-flying-birds-also-get-jet-lag-180989811/)
 
-via Smithsonian Magazine · 2026-11-04, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-04, updated 2026-11-20
 
 A new study finds that Manx shearwaters fly so fast that their internal clocks get out of sync with local time. These jet lag-like time shifts confuse their sun-based compasses, causing them to become a bit disoriented and fly slightly off course
 
@@ -1363,7 +1495,7 @@ What if you want to change the time in your car’s infotainment system, but it�
 
 ## [Actually, You Can Go Back to Constantinople. A Landmark Exhibition Reconstructs the Imperial City With 1,600 Years of Treasures From Byzantine and Ottoman Times](https://www.smithsonianmag.com/smart-news/actually-you-can-go-back-to-constantinople-a-landmark-exhibition-reconstructs-the-imperial-city-with-1600-years-of-treasures-from-byzantine-and-ottoman-times-180989812/)
 
-via Smithsonian Magazine · 2026-11-04, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-04, updated 2026-11-20
 
 "Constantinople to Istanbul: One City, Two Empires" at London's Victoria and Albert Museum tracks the storied city's evolution from a 4th-century capital to a bustling 19th-century metropolis—hippodromes, bathhouses and all
 
@@ -1375,13 +1507,13 @@ In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency lead
 
 ## [Faded Over Millennia, the Intricately Carved Sandstone Walls of This Ancient Egyptian Shrine Will See Color Once Again](https://www.smithsonianmag.com/smart-news/faded-over-millennia-the-intricately-carved-sandstone-walls-of-this-ancient-egyptian-shrine-will-see-color-once-again-180989808/)
 
-via Smithsonian Magazine · 2026-11-04, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-04, updated 2026-11-20
 
 Digital projections at Oxford's Ashmolean Museum will restore the sight of Egyptian blue, the world’s oldest synthetic pigment, and other colors that once adorned the 2,700-year-old Shrine of Taharqa
 
 ## [New York Had Its First Measles Death in 30 Years. Here's What to Know](https://www.smithsonianmag.com/smart-news/new-york-had-its-first-measles-death-in-30-years-heres-what-to-know-180989809/)
 
-via Smithsonian Magazine · 2026-11-04, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-04, updated 2026-11-20
 
 Cases are still surging across the country amidst dropping vaccination rates
 
@@ -1419,19 +1551,19 @@ The post [New Research Tests Whether AI Models Know Their Own Thoughts](https://
 
 ## [Scientists Say They've Found Preserved Dinosaur Blood in a 115-Million-Year-Old Fossil, but Not Everyone Is Convinced](https://www.smithsonianmag.com/smart-news/scientists-say-theyve-found-preserved-dinosaur-blood-in-a-115-millino-year-old-fossil-but-not-everyone-is-convinced-180989802/)
 
-via Smithsonian Magazine · 2026-11-04, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-04, updated 2026-11-20
 
 Soft tissues like blood generally break down relatively quickly after death. Environmental factors can also produce red blood cell look-alikes, so many outside researchers are cautious about the new study's claims
 
 ## [Forensic Analysis of Frozen Inca Mummies Reveals That Sacrificed Children Were Plied With Coca Leaves, Corn Beer and Ayahuasca Compounds Before Death](https://www.smithsonianmag.com/smart-news/forensic-analysis-of-frozen-inca-mummies-reveals-that-sacrificed-children-were-plied-with-coca-leaves-corn-beer-and-ayahuasca-compounds-before-death-180989805/)
 
-via Smithsonian Magazine · 2026-11-04, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-04, updated 2026-11-20
 
 Five centuries after children were sacrificed on volcanic peaks in the Andes, chemical clues preserved in their hair and fingernails show how the empire used intoxicating blends to soothe the children during their final months
 
 ## [AI is changing mathematics -- but not how you think](https://www.npr.org/2026/11/04/nx-s1-6010471/ai-math-navier-stokes-mathematicians-openai)
 
-via NPR Short Wave · 2026-11-04, updated 2026-11-18
+via NPR Short Wave · 2026-11-04, updated 2026-11-20
 
 Math has created some of humanity's oldest intellectual challenges. And AI is completely changing the game. This year AI solved one of math’s most difficult problems. Since then, OpenAI published hundreds of new math results. So is this the end for the people who’ve dedicated their careers to pushing forward math? We get into it with NPR science correspondent Geoff Brumfel, who weighs the risks and rewards of AI’s math takeover.
 
@@ -1457,31 +1589,31 @@ With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights
 
 ## [See the World's Tallest Day of the Dead Skeleton, Made From Steel, Fiberglass, Papier-Mâché and 70,000 Marigolds](https://www.smithsonianmag.com/smart-news/see-the-world-tallest-day-of-the-dead-skeleton-made-from-steel-fiberglass-papier-mache-and-70000-marigolds-180989806/)
 
-via Smithsonian Magazine · 2026-11-03, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-03, updated 2026-11-20
 
 Standing a little more than 109 feet tall—roughly the height of an 11-story building—the colorful "La Catrina" figure in Mexico City broke the previous record of 92 feet set in Puerto Vallarta, Mexico, in 2023
 
 ## [Archaeologists in Scotland Discovered the Skeleton of a Roman-Era Man Who Was Decapitated Nearly 2,000 Years Ago. Now, You Can See What He Might Have Looked Like During His Lifetime](https://www.smithsonianmag.com/smart-news/archaeologists-in-scotland-discovered-the-skeleton-of-a-roman-era-man-who-was-decapitated-nearly-2000-years-ago-now-you-can-see-what-he-might-have-looked-like-during-his-lifetime-180989804/)
 
-via Smithsonian Magazine · 2026-11-03, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-03, updated 2026-11-20
 
 A digital facial reconstruction of the man, whose head was severed after his death, will soon go on view in Edinburgh. It depicts an individual in his early 50s, with graying hair and brown eyes
 
 ## [See a Stunning Simulation of the Early Universe, Which Will Help Astronomers Shed Light on the Cosmic Dark Ages](https://www.smithsonianmag.com/smart-news/see-a-stunning-simulation-of-the-early-universe-which-will-help-astronomers-shed-light-on-the-cosmic-dark-ages-180989791/)
 
-via Smithsonian Magazine · 2026-11-03, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-03, updated 2026-11-20
 
 The model, created by researchers at the Center for Astrophysics, Harvard & Smithsonian, and other institutions, captures how the first stars and black holes gradually illuminated the universe after millions of years of darkness
 
 ## [Hawaii and Easter Island Are 4,400 Miles Apart. But the Same Group of 'Ultravoyagers' Settled Both Centuries Ago, Genetic Study Suggests](https://www.smithsonianmag.com/smart-news/native-hawaiians-descend-from-a-group-of-ultravoyagers-who-sailed-about-4400-miles-from-easter-island-genetic-study-suggests-180989793/)
 
-via Smithsonian Magazine · 2026-11-03, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-03, updated 2026-11-20
 
 Researchers studied DNA from more than 1,000 modern-day Polynesians and found that Native Hawaiians and Easter Islanders were most closely related. The findings help trace the epic settlement of the Polynesian islands while also revealing genetic vulnerabilities among their communities
 
 ## [A 'Poor Man’s Rembrandt' for a Few Hundred Bucks? At Amsterdam's Rembrandt House Museum, a Pop-Up Tattoo Studio Is Inking 17th-Century Masterpieces on Human Canvases](https://www.smithsonianmag.com/smart-news/a-poor-Mans-rembrandt-for-a-few-hundred-bucks-at-amsterdams-rembrandt-museum-a-pop-up-tattoo-studio-is-inking-17th-century-masterpieces-on-human-canvases-180989800/)
 
-via Smithsonian Magazine · 2026-11-03, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-03, updated 2026-11-20
 
 Visitors can choose from dozens of designs pulled from Rembrandt's works, including lions, windmills and even his self-portraits. One participant was selected for a full-back tattoo of "The Descent from the Cross"
 
@@ -1499,7 +1631,7 @@ Demand for advanced chips is rising. The processes to build them are getting mor
 
 ## [After Observing the Sky for 22 Years, a Beloved NASA Space Telescope Is Expected to Meet a Fiery Death This Week](https://www.smithsonianmag.com/smart-news/after-observing-the-sky-for-22-years-a-beloved-nasa-space-telescope-is-expected-to-meet-a-fiery-death-this-week-180989796/)
 
-via Smithsonian Magazine · 2026-11-03, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-03, updated 2026-11-20
 
 The Neil Gehrels Swift Observatory launched in 2004 and detected thousands of astrophysical phenomena, leading to some huge discoveries. Earlier this year, experts attempted a first-of-its-kind rescue mission to save the falling telescope, but it failed
 
@@ -1517,13 +1649,13 @@ Students across the country will have the opportunity to connect directly with t
 
 ## [From Hunting Hounds to Modernist Muses, Dachshunds Have Done It All. See the World's First Art Exhibition Dedicated Exclusively to the Sausage Dog](https://www.smithsonianmag.com/smart-news/from-hunting-hounds-to-modernist-muses-dachshunds-have-done-it-all-see-the-worlds-first-art-exhibition-dedicated-exclusively-to-the-sausage-dog-180989797/)
 
-via Smithsonian Magazine · 2026-11-03, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-03, updated 2026-11-20
 
 A new exhibition in Germany traces how the low-slung breed captured the imaginations of artistic heavyweights like Pablo Picasso, Andy Warhol and David Hockney. The museum even lets well-behaved pups tour the galleries
 
 ## [OpenAI whistleblowers on the fight over AI safety \| Machine Gods](https://www.npr.org/2026/11/03/nx-s1-6023241/machinegods-ai-openai-podcast)
 
-via NPR Short Wave · 2026-11-03, updated 2026-11-18
+via NPR Short Wave · 2026-11-03, updated 2026-11-20
 
 Check out NPR’s newest podcast, Machine Gods. It’s the official podcast of the singularity, meaning — the hypothetical future when machines will outpace our own intelligence…and our control. Whether you think that future is coming or not, hosts Kevin Roose and Casey Newton are here to help you understand the people trying to build it… and how their technology works.
 
@@ -1557,13 +1689,13 @@ Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoo
 
 ## [Engineers Delicately Removed the Masts From This Bomb-Laden World War II Shipwreck in the River Thames. But 1,500 Tons of Explosives Are Still in Place](https://www.smithsonianmag.com/smart-news/engineers-delicately-removed-the-masts-from-this-bomb-laden-world-war-2-shipwreck-in-the-river-thames-but-1500-tons-of-explosives-are-still-in-place-180989798/)
 
-via Smithsonian Magazine · 2026-11-02, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-02, updated 2026-11-20
 
 The operation marks a major milestone in efforts to address the risks posed by the sunken American military cargo ship, which still contains a massive cache of unexploded munitions
 
 ## [Scientists Feared This Cute but Venomous Primate Had Gone Extinct Nearly 100 Years Ago. It Was Hiding in Plain Sight All Along](https://www.smithsonianmag.com/smart-news/for-nearly-100-years-scientists-feared-this-cute-but-venomous-primate-had-gone-extinct-it-was-hiding-in-plain-sight-all-along-180989795/)
 
-via Smithsonian Magazine · 2026-11-02, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-02, updated 2026-11-20
 
 The Bangka slow loris is still close to extinction, but new research suggests it continues to survive on a tropical Indonesian island. Conservationists are calling for stronger habitat protections and a breeding program, among other measures
 
@@ -1581,7 +1713,7 @@ For more information, contact Joel W. Sills, Langley Research Center, joel.w.sil
 
 ## [Do Spiders Dream? These Arachnids Twitch, Curl Their Legs and Move Their Eyes When Asleep, Hinting at a Complex Brain State](https://www.smithsonianmag.com/smart-news/do-spiders-dream-these-arachnids-twitch-curl-their-legs-and-move-their-eyes-when-asleep-hinting-at-a-complex-brain-state-180989789/)
 
-via Smithsonian Magazine · 2026-11-02, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-02, updated 2026-11-20
 
 A species of jumping spider appears to enter a deep sleep phase that resembles rapid eye movement (REM) in humans, the stage in which we typically dream
 
@@ -1599,7 +1731,7 @@ A little while ago, we talked about 9front’s Good Enough File System being por
 
 ## [As Most of England Relaxed Its Stance on Witchcraft, One Hardline City Bucked the Trend. It Even Went After 'Service Magicians,' Who Used Magic to Investigate Petty Crimes](https://www.smithsonianmag.com/smart-news/as-most-of-england-relaxed-its-stance-on-witchcraft-one-hardline-city-bucked-the-trend-it-even-went-after-service-magicians-who-used-magic-to-investigate-petty-crimes-180989794/)
 
-via Smithsonian Magazine · 2026-11-02, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-02, updated 2026-11-20
 
 New historical research shows how the city of Exeter hunted down accused witches while the rest of the country relented. Its prosecution of benign local sleuths shows how far the authorities were willing to go
 
@@ -1643,19 +1775,19 @@ NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxyg
 
 ## [After Sitting in a London Museum Since 1924, This Dinosaur Fossil Was Named a New Predatory Species—an 'Unconquered Female Warrior'](https://www.smithsonianmag.com/smart-news/after-sitting-in-a-london-museum-since-1924-this-dinosaur-fossil-was-named-a-new-predatory-species-an-unconquered-female-warrior-180989683/)
 
-via Smithsonian Magazine · 2026-11-02, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-02, updated 2026-11-20
 
 Invictibellatrix amberina was a long-clawed, tiger-size dinosaur that lived around 120 million years ago. It's helping scientists piece together the global spread of megaraptors, which later became apex predators
 
 ## [Melting Ice in the Italian Dolomites Exposes Hundreds of World War I Munitions, Vestiges of the Vertiginous 'White War'](https://www.smithsonianmag.com/smart-news/melting-ice-in-the-italian-dolomites-exposes-hundreds-of-world-war-i-munitions-vestiges-of-the-vertiginous-winter-war-180989787/)
 
-via Smithsonian Magazine · 2026-11-02, updated 2026-11-18
+via Smithsonian Magazine · 2026-11-02, updated 2026-11-20
 
 Following low snowfall and record-breaking summer heat, the Italian Army is hunting for unexploded shells and bombs. "When they re-emerge, they are very, very dangerous," one expert warns
 
 ## [Could virtual reality speed up learning?](https://www.npr.org/2026/11/02/nx-s1-6023397/body-learning-virtual-reality-vr)
 
-via NPR Short Wave · 2026-11-02, updated 2026-11-18
+via NPR Short Wave · 2026-11-02, updated 2026-11-20
 
 Does swinging a lightsaber help us learn? New research from Florida Atlantic University and Brown University found that movement dramatically helps with certain kinds of complex learning. The research was published in the journal [Science Advances](https://www.science.org/doi/10.1126/sciadv.aed4003).
 
@@ -1717,13 +1849,13 @@ APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submission
 
 ## [Crafted From Bone, This 2,800-Year-Old Flute Unearthed in Troy May Have Been Played Around the Time That Homer Composed 'The Iliad' and 'The Odyssey'](https://www.smithsonianmag.com/smart-news/crafted-from-bone-this-2800-year-old-flute-unearthed-in-troy-may-have-been-played-around-the-time-that-homer-composed-the-iliad-and-the-odyssey-180989792/)
 
-via Smithsonian Magazine · 2026-10-30, updated 2026-11-18
+via Smithsonian Magazine · 2026-10-30, updated 2026-11-20
 
 After more than 150 years of excavations, the object is the first musical instrument ever discovered in the ruins of the ancient city, which is located in modern-day Turkey
 
 ## [A Dog Left a Paw Print on This Mud Brick 4,000 Years Ago. Archaeologists Discovered It in the Rubble of a Bronze Age House](https://www.smithsonianmag.com/smart-news/a-dog-left-a-paw-print-on-this-mud-brick-4000-years-ago-archaeologists-discovered-it-in-the-rubble-of-a-bronze-age-house-180989785/)
 
-via Smithsonian Magazine · 2026-10-30, updated 2026-11-18
+via Smithsonian Magazine · 2026-10-30, updated 2026-11-20
 
 The brick was found at Tavsanli Hoyuk, an archaeological site in western Turkey. Humans and dogs in this region have had a close relationship for thousands of years
 
@@ -1735,25 +1867,25 @@ America’s newest aerospace expo and air show – MAX POWER – is fast approac
 
 ## [Madagascar's Giant Bats Seem to Be Shrinking. After Measuring 121 Specimens, Scientists Suggest Hunting by Humans Is to Blame](https://www.smithsonianmag.com/smart-news/madagascars-giant-bats-seem-to-be-shrinking-after-measuring-121-specimens-scientists-suggest-hunting-by-humans-is-to-blame-180989782/)
 
-via Smithsonian Magazine · 2026-10-30, updated 2026-11-18
+via Smithsonian Magazine · 2026-10-30, updated 2026-11-20
 
 In a new study, researchers looked at museum specimens of the island’s flying foxes, spanning 150 years of history. They found a significant decline in size—right when commercial hunting ramped up
 
 ## [This Rosy Stone Spotted in the Sahara Turned Out to Be a 4.1-Billion-Year-Old Meteorite From Mars, One of the Oldest Ever Found](https://www.smithsonianmag.com/smart-news/this-rosy-stone-spotted-in-the-sahara-turned-out-to-be-a-4-1-billion-year-old-meteorite-from-mars-one-of-the-oldest-ever-found-180989786/)
 
-via Smithsonian Magazine · 2026-10-30, updated 2026-11-18
+via Smithsonian Magazine · 2026-10-30, updated 2026-11-20
 
 Martian samples this old are extremely rare and offer clues about the Red Planet's youth. This meteorite further hints that our celestial neighbor was once a watery world, suggesting it could've had the conditions to host life
 
 ## [Manga Are Black, White and Read All Over. Treasures of the Globally Popular Japanese Comic Book Medium Are on View in New York](https://www.smithsonianmag.com/smart-news/manga-are-black-white-and-read-all-over-treasures-of-the-globally-popular-japanese-comic-book-medium-are-on-view-in-new-york-180989788/)
 
-via Smithsonian Magazine · 2026-10-30, updated 2026-11-18
+via Smithsonian Magazine · 2026-10-30, updated 2026-11-20
 
 The Brooklyn Museum's "Art of Manga" exhibition highlights the "mangaka," or creators, who have shaped the medium. Hundreds of original illustrations are making a rare trip to the United States
 
 ## [Where Is England's Oldest Pub? An Archaeologist Drilled Into 600-Year-Old Timbers to Answer the Contentious Question](https://www.smithsonianmag.com/smart-news/where-is-englands-oldest-pub-an-archaeologist-drilled-into-600-year-old-timbers-to-answer-the-contentious-question-180989783/)
 
-via Smithsonian Magazine · 2026-10-30, updated 2026-11-18
+via Smithsonian Magazine · 2026-10-30, updated 2026-11-20
 
 Tree-ring dating shows that a historic tavern in Somerset has been continually operating as an inn since the 1430s, when local monks built it to lodge wool merchants
 
@@ -1765,7 +1897,7 @@ Intricate structures within the Cat’s Head Nebula are illuminated in this mid-
 
 ## [Three in Four Former NFL Players Who Died From 2008 Through 2023 May Have Had CTE, a Brain Disease Caused by Repeated Head Injuries](https://www.smithsonianmag.com/smart-news/three-in-four-former-nfl-players-who-died-from-2008-through-2023-may-have-had-cte-a-brain-disease-caused-by-repeated-head-injuries-180989780/)
 
-via Smithsonian Magazine · 2026-10-30, updated 2026-11-18
+via Smithsonian Magazine · 2026-10-30, updated 2026-11-20
 
 The researchers also estimate that around one in four of the former football players had dementia, a common feature of late-stage CTE
 
@@ -1791,7 +1923,7 @@ NASA issued a Request for Information Oct. 29 to learn more about industry capab
 
 ## [Crows Can Make Decisions Based on Visual Information at Lightning Speed—Roughly Twice as Fast as Humans Can, Study Suggests](https://www.smithsonianmag.com/smart-news/crows-can-make-decisions-based-on-visual-information-at-lightning-speed-roughly-twice-as-fast-as-humans-can-study-suggests-180989779/)
 
-via Smithsonian Magazine · 2026-10-30, updated 2026-11-18
+via Smithsonian Magazine · 2026-10-30, updated 2026-11-20
 
 Even though the brain structures of birds and mammals are different, a new study suggests that crows and primates have similar decision-making nerve cell circuitry
 
@@ -1803,7 +1935,7 @@ Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking ad
 
 ## [Is your favorite crime show rooted in fake science?](https://www.npr.org/2026/10/30/nx-s1-6012302/police-court-true-crime-forensics-science)
 
-via NPR Short Wave · 2026-10-30, updated 2026-11-18
+via NPR Short Wave · 2026-10-30, updated 2026-11-20
 
 If you’ve ever seen a crime show, you probably know how the plot unfolds: A victim is found, an investigation ensues and police conduct a high-stakes search for the culprit. Detectives and crime lab techs collect hair, examine bullet casings and photograph bloodstains. But just _how_ reliable are these clues – and does science back them up? Well, today on the show, with the help of legal expert [Chris Fabricant](https://innocenceproject.org/speakers-bureau/m-chris-fabricant/), we’re diving into which of these forensic techniques are junk “science”, which we should be more cautious about – and why all of them haunt the legal system.
 

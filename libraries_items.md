@@ -1,13 +1,206 @@
 ---
 title: "GLAM"
-pubDate: Thu, 19 Nov 2026 14:26:27 GMT
+pubDate: Fri, 20 Nov 2026 10:30:24 GMT
 aggregateOf: "libraries.md"
-dateModified: Fri, 20 Nov 2026 04:00:01 GMT
-itemCount: 66
-generator: antenna/0.0.28
+dateModified: Fri, 20 Nov 2026 22:29:28 GMT
+itemCount: 69
+generator: antenna/0.1.0
 ---
 
 # GLAM
+
+## [AI Training is Copyright Infringement: What Publishers Need to Know about Thomson Reuters v ROSS Intelligence](https://scholarlykitchen.sspnet.org/2026/11/20/ai-training-is-copyright-infringement-what-publishers-need-to-know-about-thomson-reuters-v-ross-intelligence/)
+
+via Scholarly Kitchen · 2026-11-20, updated 2026-11-19
+
+\[T\]he Third Circuit’s opinion supports the position that the more the AI is marketed as solving research challenges, the less transformative it becomes with respect to STM content.
+
+The post [AI Training is Copyright Infringement: What Publishers Need to Know about Thomson Reuters v ROSS Intelligence](https://scholarlykitchen.sspnet.org/2026/11/20/ai-training-is-copyright-infringement-what-publishers-need-to-know-about-thomson-reuters-v-ross-intelligence/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).
+
+## [Good infrastructure is patient work: #Crossref2026 highlights](https://www.crossref.org/blog/good-infrastructure-is-patient-work-%23crossref2026-highlights/)
+
+via Crossref Blog · 2026-11-20
+
+Ed Pentz, our Executive Director, opened the 2026 Annual Meeting by introducing the theme: Good infrastructure is patient work. Crossref provides foundational infrastructure: an open, persistent scholarly record of metadata, relationships, and identifiers that thousands of tools and services build on. Maintaining that infrastructure and creating lasting value depends on sustained collective effort. True persistence requires active governance, long-term financial commitment, and organisational stewardship.
+
+Through the two separate sessions of the meeting, we shared updates on governance, improvements to our systems and services, long-term investment to enable a more robust Research Nexus, and our commitment to supporting the integrity of the scholarly record. We also heard from community members about how they’re using and building on Crossref metadata.
+
+Good infrastructure is an inclusive one – and this year, for the first time, we included simultaneous translation of the meeting into selected languages. The recordings are available in [English-session 1](https://youtu.be/Jy_uFqT6NeM?si=N7T2qbH5bUTOdajI), [English-session 2](https://youtu.be/BB3ufOQbhkI?si=rbzYZJA_qH2i4tnu), [Indonesian](https://youtu.be/BrZ8uZmpAYw) (first session only), [Português-session 1](https://youtu.be/Z5146ptVDcs), [Português-session 2](https://www.crossref.org/crossref-annual-meeting/#:~:text=into%3A%20Espa%C3%B1ol%20and-,Portugu%C3%AAs,-.%20Captions%20in%20Indonesian), and [Español-session 1](https://youtu.be/KEFJZf0D0OA), [Español-session 2](https://youtu.be/imv_barp-co). All assets, including slides are [available on Zenodo](https://doi.org/10.13003/078377qplhnh).
+
+In this blog we summarise the highlights across both calls, not in a chronological order of the agenda, but grouping updates in response to some key questions about the patient work behind keeping good infrastructure running.
+
+### Table of contents
+
+[Who is in the Crossref community today?](#who-is-in-the-crossref-community-today)
+
+[Who makes the decisions?](#who-makes-the-decisions)
+
+[What do we owe each other?](#what-do-we-owe-each-other)
+
+[What does it take to keep the infrastructure working for the community?](#what-does-it-take-to-keep-the-infrastructure-working-for-the-community)
+
+[What did we build and improve this year?](#what-did-we-build-and-improve-this-year)
+
+[What does it cost to keep the infrastructure running?](#what-does-it-cost-to-keep-the-infrastructure-running)
+
+### Who is in the Crossref community today?
+
+Crossref has been around for almost 27 years now and we have built up an amazing community and play a critical role in the scholarly research and communications ecosystem.
+
+Collin Knopp-Schwyn, Membership Specialist, shared an overview of our steadily growing and changing membership. By October 2026, we counted over 26,500 members in 171 countries. 2,774 new members joined us in the 10 months of this year alone. Those new members tend to be small organisations, often based in Asia, mostly registering their metadata with us using OJS. Those are diverse research-producing and publishing organisations, including universities, museums, hospitals, banks, and more.
+
+Sponsors play a pivotal role in this growth: they support organisations that would otherwise struggle to become Crossref members due to financial, technical, or language barriers. We’re also seeing continued growth of members in countries included in the [Global Equitable Membership (GEM) program](https://www.crossref.org/gem/). Collin proceeded to thank our [50 dedicated Ambassadors](https://www.crossref.org/community/our-ambassadors) who help members participate in Crossref more fully.
+
+The growth of members directly relates to the gradual growth of the Research Nexus with more complete and inclusive information about the research enterprise.
+
+![Two charts showing growth in Crossref membership from 2000 to 2015 and database records from 2003 to 2026.](https://www.crossref.org/images/blog/2026/membership-growth-and-metadata-record-growth.jpeg)
+
+Our community encompasses many people and organisations, who are not Crossref members but who use the metadata contributed by our members. Thousands of systems reuse it, resulting in over 2 billion calls to our API and almost 3 billion resolutions of Crossref DOIs per month.
+
+![Infographic showing Crossref’s scale: 26,443 members across 171 countries, 187 million DOI records, 2.1 billion citation relationships, and billions of monthly API queries and DOI resolutions.](https://www.crossref.org/images/blog/2026/scale-of-crossref.jpeg)
+
+The meeting was enriched with their voices in the Community Highlights presentations. We hosted 11 flash-talks from speakers representing our global community, who shared their experiences and tools related to Crossref metadata. From sharing their journey with Crossref to enhance their metadata practices to building tools that give the community more and easier ways to register records with us, the presenters have demonstrated how good infrastructure depends on shared responsibility and participation.
+
+You are invited to view and comment on the speakers’ posters on our Community Forum:
+
+- [Murielle Serlet (Centre Mersenne, CNRS)](https://community.crossref.org/t/the-centre-mersenne-15-years-with-crossref/16630)
+- [Melissa Harrison (EMBL-EBI)](https://community.crossref.org/t/from-registration-to-findable-enriching-embl-ebi-metadata-for-an-open-discovery-ecosystem/16623)
+- [Martin Fenner (Front Matter)](https://community.crossref.org/t/crossref-dois-in-inveniordm/16625)
+- [Pascal-Nicolas Becker (4Science)](https://community.crossref.org/t/register-dois-with-crossref-and-dspace-10/16621)
+- [Aadi Varma (Nexus Score)](https://community.crossref.org/t/missing-metadata-prevents-ai-systems-from-citing-articles/16622)
+- [Luca Foppiano (ScienciaLAB)](https://community.crossref.org/t/biblio-glutton-fast-local-reference-matching-on-crossref-data/16628)
+- [Travis Rich (Knowledge Futures)](https://community.crossref.org/t/exploring-high-volume-high-granularity-doi-management/16631)
+- [Sam Andrews (PJIP)](https://community.crossref.org/t/using-article-level-data-to-enhance-journal-level-data/16624)
+- [Nadia Boutaleb (Hassan II University of Casablanca, NBSEH)](https://community.crossref.org/t/better-metadata-better-visability/16627)
+- [Giovanna Lima (DORA)](https://community.crossref.org/t/connecting-research-assessment-and-scholarly-communication/16629)
+
+### Who makes the decisions?
+
+You do. Specifically, our Board of Directors is made up by member representatives elected by our members. Every member has one vote, whatever its size. Every year we open elections and invite our members to nominate themselves for available board seats.
+
+We publish our governing documents, board minutes, and (as of this year) summaries of key discussions held at the board meetings to help members engage with the governance process.
+
+![Infographic showing Crossref’s governance: 26,500+ member organizations across 171 countries, one vote per member, and a 16-seat board equally representing smaller and larger members.](https://www.crossref.org/images/blog/2026/how-crossref-is-governed.jpeg)
+
+Seven of our 16 board seats were up for election this year. 55 applications from 29 countries came forward this year, and the [Nominating Committee](https://www.crossref.org/committees/nominating/) reviewed all expressions of interest before building a slate. The Nominating Committee is composed of five people: three of whom are sitting board members, and none come from an organization with a candidate standing that year.
+
+Ballots closed at 12:00 UTC on 22 October, between our two sessions. We had the pleasure of [announcing the newly elected board](https://youtu.be/BB3ufOQbhkI?si=A-AxQSti8LQcmRv1&t=3278) at our second session of the day.
+
+**Elected in the smaller-member tier:**
+
+- Bernard Bizimana (HEC Montréal)
+- Cheol-Heui Yun (Korean Council of Science Editors)
+- Marin Dacos (OpenEdition)
+- Pinar Dündar (Scientific and Technological Research Council of Turkey)
+- Mochammad Tanzil Multazam (Universitas Muhammadiyah Sidoarjo)
+- Vincas Grigas (Vilnius University Press)
+
+**Elected in the larger-member tier:**
+
+- James Phillpotts (Oxford University Press)
+
+All seven terms begin on 1 January 2027.
+
+We’re establishing a second legal entity in Belgium, an AISBL, alongside our US organisation. Approved by the board, this will give Crossref a presence in two jurisdictions, strengthening our long-term resilience. We’ll share more once it’s formally established. Membership, fees, and your relationship with Crossref remain unchanged.
+
+We also publish how we measure up. We adopted the [Principles of Open Scholarly Infrastructure (POSI)](https://openscholarlyinfrastructure.org/) in 2020. Thirty organizations have now adopted POSI. Nobody has met every principle, and a self-assessment says how far you’ve got. Ours is due this December.
+
+### What do we owe each other?
+
+The growing Research Nexus is a result of a mutual and sustained commitment of our members to each other and to others in the community, which in a basic form is expressed in [our membership terms](https://www.crossref.org/membership/terms/) that set the rules of engagement with Crossref through honest and responsible contributions to the emergent commons of the open scholarly record.
+
+We provide infrastructure for our members to register DOIs and rich metadata and to share those openly. We do not assess the quality of our members’ content or how they conduct research. However, as concerns about integrity in research conduct and communications are growing, what the community asks us about now goes beyond metadata: disputed journal titles, paper mills, hijacked journals, authorship for sale. Members increasingly ask what Crossref can do when another member isn’t acting responsibly. So we drafted a set of [Member Practices](https://doi.org/10.64000/1y3ve-3pw05) with a working group of research integrity specialists and scholarly sleuths, alongside DOAJ, COPE, ISSN and United2Act, and consulted on them until 9 October. Led by Director of Membership, Amanda Bartell, and Community Engagement Manager, Madhura Amdekar, the consultation asked whether the practices felt reasonable and achievable, and whether anything was missing. Most members supported them; some wanted clarification.
+
+As a result, we updated the wording to offer greater clarity, and we have been slimming the list down since the first draft: from 17 wider practices we went down to nine, which describe practices that we are prepared to revoke membership for. Checklists, how-to documents, and translations will follow. The amended draft goes to the Crossref board in November.
+
+In this place, it’s important to note that even the most responsible members may have cause for concerns about their records when faced with growing systematic deception targeting the scholarly ecosystem. Technical capacity to address the current challenges can be a barrier to maintaining a trustworthy record, and so we’re looking to leverage our experience of partnering with others in the industry on making tools for research integrity accessible to our members (thinking about Similarity Check here). We’re currently running pilots of established tools supporting research integrity with small groups of members, and we’re [conducting a survey](https://doi.org/10.64000/k29ww-8qc86), in partnership with STM, about research integrity challenges our members face. These will help us determine if there are initiatives in this area that we can arrange in support of our membership.
+
+### What does it take to keep the infrastructure working for the community?
+
+Dominika Tkaczyk, Director of Technology, explained how patient work on our technology allows us to lay foundations for future possibilities. Some work of fundamental importance might be invisible on the outside but is essential to keep the infrastructure working. If we move with speed, we may compromise on quality and introduce technical debt. And this can accumulate over time, leaving parts of the system in a fragile state. In 2024, we worked on [migrating our database from Oracle to Postgres](https://doi.org/10.64000/wd6rx-vpq73), improving scalability, reducing operational burden, strengthening disaster recovery, and better aligning with the Principles of Open Scholarly Infrastructure. Our move to the cloud in 2024-2025 also reduced operational burden and made disaster recovery easier – those changes should have been unnoticeable for the users of our system, but were necessary to make it more robust and resilient.
+
+Since then, we’ve built an internal analytical environment – a data lake, which increased our ability ito analyse the metadata with ease that surpasses what’s achievable through the use of our API. Instead of embedded filters and facets, the data lake enables running scripts that analyse the entire database. This offers a foundation for versatile reports and dashboards. An early example of a resulting report is our [State of the Research Nexus](https://www.crossref.org/documentation/research-nexus/) spreadsheet, where we track the progress towards our vision.
+
+Finally, we’re rebuilding and adding functionality to automated metadata matching, to continue offering systematic enrichment to member-submitted metadata, making it richer and more useful to the scholarly community at large. The first example of the new service is the [“funder matching”](https://doi.org/10.64000/rg83r-2ft15) we relaunched in September, which now adds funder’s ROR IDs if they are missing in the newly registered records (where the funder name is available).
+
+“We will invest [USD 4.9 million of our surplus funds over three years into rebuilding our system](https://doi.org/10.64000/enn8e-31771) to build a stronger foundation for the future. In expanding our existing infrastructure, we are preparing for metadata matching that would otherwise be out of reach,” said Dominika. This investment was made possible thanks to accumulated surpluses in our revenue that go beyond meeting our POSI commitment to holding a year’s worth of reserve funds (which we achieved in 2023).
+
+Three years is a long commitment, and we don’t yet know how far it will take us. As Helena Cousijn, Director of Programs and Services, put it, ”We expect to get a lot done, and we expect to need patience.”
+
+### What did we build and improve this year?
+
+Most of this year’s work was aimed at making it easier to be a member: to join, to register metadata, and retreive metadata. It sits under our strategic agenda, which has four goals:
+
+Our [strategic agenda](https://www.crossref.org/strategy/) encompasses four goals:
+
+- Contribute to an environment where the community identifies and co-creates solutions for broad benefit.
+- A sustainable source of complete, open, and global scholarly metadata and relationships.
+- Manage Crossref openly and sustainably, modernising and making transparent all operations so that we are accountable to the communities that govern us.
+- Foster a strong team—because reliable infrastructure needs committed people who contribute to and realise the vision, and thrive doing it.
+
+Helena took a whistle-stop tour of progress made across our programs towards these goals. Developments to improve experience and ability to contribute for our members have dominated this year – from streamlining the prefix allocation process, through improvements in helpers tools and investment in integrations. We’ve seen services transform – from Data citations API endpoint replacing Event Data, to a facilitated transition from Co-access to Multiple resolution. Many new developments have been demonstrated by the teams in more detail.
+
+Lena Stoll, Program Manager for Co-Creation and Community Trends, demonstrated improvements to Metadata Manager, including new record types and the ability to update previously registered records without re-entering metadata. Expanding Metadata Manager’s functionality is central to making the contribution of rich metadata easier for our members. It’s already available for registering grants, journal articles, books and chapters, and post-publication updates, with more record types expected soon.
+
+Lena also provided an early preview of the new Metadata Search experience, expected early in 2027, with improved filtering, the ability to add records to ORCID profiles, citation copying, and improved mobile access.
+
+![Slide showing Crossref Metadata Search at search.crossref.org, which requires no API knowledge. Faceted search was deactivated in 2022 due to performance issues.](https://www.crossref.org/images/blog/2026/new-metadata-search-experience.jpg)
+
+Paul Davis, Product Manager, shared upcoming changes to Resolution Reports. The new version is expected in the first quarter of 2027, possibly earlier. It arrives as a link rather than a large email, should reach you earlier in the month, and keeps the same content, so anything you already build on it still works.
+
+We also relaunched our [Service Providers program](https://www.crossref.org/community/service-providers/) this year, providing a framework for collaboration with hosting and publishing platforms that offer a Crossref integration, which our members can use to register their metadata. The program invites such platforms to apply for accreditation at a basic or advanced tier.
+
+### What does it cost to keep the infrastructure running?
+
+Lucy Ofiesh, Chief Operating Officer, reported our financial position. Adjacent to rebuilding the Crossref system and as part of [resourcing Crossref for future sustainability](https://doi.org/10.64000/nvft4-n6x02), we’re also reducing future surpluses by lowering most content registration fees and removing back-year fees from 1 January 2027. These changes follow the recently introduced new annual membership fee tier of USD 200 for organisations with revenue under USD 1,000, and expansion of the [Global Equitable Membership program](https://www.crossref.org/gem).
+
+These decisions form part of our approach to long-term financial sustainability, balancing investment in our infrastructure with the cost of participating in it.
+
+![Table comparing Crossref record registration fees before and after January 1, 2027, showing reduced fees for most record types, an increase for standards, and free back-year registrations.](https://www.crossref.org/images/blog/2026/record-registration-fees-starting-01012027.png)
+
+### What does the scholarly record include now?
+
+### Metadata developments
+
+Patricia Feeney, Head of Metadata, gave the community a picture of what the record holds today. It’s 187 million records in total. The majority of those are journal articles (almost 68%), followed by books and chapters (just over 15%), and all record types are growing – perhaps the most dynamic changes we’re seeing in grants and preprints. Most of our metadata is optional and we require very little, so what’s in the records reflects what members have chosen to send us.
+
+![Slide showing Crossref metadata coverage across 187 million records, including references (82 million), abstracts (45 million), ORCID IDs (22 million), funder IDs, affiliations, and retractions.](https://www.crossref.org/images/blog/2026/what-metadata.png)
+
+Patricia talked about metadata developments we’ve seen in the past couple of years, including the addition of the Grant DOI field in schema 5.4 earlier this year, and a number of changes introduced with schema 5.5 last July. The latest schema includes the CRediT taxonomy for contributions, enables greater transparency of medical trials across different record types, introduces blogs and posters as subtypes of the ‘posted content’ category, and more.
+
+We’re now working on schema version 6.0, which will allow members to better reflect the diversity of contributors and the information associated with research. The biggest changes to expect are more inclusive metadata for names – introducing mononyms, more complex names, additional contributor identifiers, and organizational authors. It will also introduce statements covering acknowledgments, funding, data availability, ethics, and AI use, alongside more detailed publisher information.
+
+### Metadata enrichment
+
+Metadata continues to change after deposit. As Jason Portenoy, Data Scientist, explained, 80% of works deposited between 2013 and 2021 have been updated at least once. We differentiate five layers of possible enrichments that may result in such changes. At the first two of those layers, members act in their role as stewards and make changes – they may add and update information, maintain links, and help keep DOIs resolving thanks to new information or technical ability to do so, or act in response to community feedback.
+
+![Slide showing how Crossref members update records, with 80% of works deposited from 2013–2021 updated at least once, plus charts of commonly added and updated metadata fields.](https://www.crossref.org/images/blog/2026/metadata-keep-records-alive.jpeg)
+
+One way in which we’re strengthening the scholarly record is by making more meaningful connections between research objects. At #Crossref2026, Program Manager for Contributing to the Research Nexus, Martyn Rittman, demonstrated how [metadata matching](https://www.crossref.org/community/special-programs/metadata-matching/) helps “reduce ambiguities around what is connected and eliminate the guesswork.” We consider this automated process of metadata matching to be a third layer of enrichment.
+
+[Funder matching](https://doi.org/10.64000/rg83r-2ft15) is now making around 15,000 matches each week, and work is underway on grant matching, connecting grant award numbers to the DOIs registered by funders, while our long-standing reference matching process contributed half of the 2 billion citation links present in our metadata corpus.
+
+![Slide showing how Crossref members update records, with 80% of works deposited from 2013–2021 updated at least once, plus charts of commonly added and updated metadata fields.](https://www.crossref.org/images/blog/2026/building-and-rebuilding-matching.png)
+
+Finally, we also enrich metadata with an external dataset. This year we made the data coming from RetractionWatch available in our REST API. In case of any changes to metadata records, we insist on clear provenance information that allows the community to scrutinise the changes and decide whether to trust the added information.
+
+These developments contribute to our vision of the [Research Nexus](https://doi.org/10.3233/ISU-220170).
+
+### In summary
+
+Thank you to everyone who joined us, to our community speakers, and to our interpreters, who made it possible for more people to take part in the meeting in a language they felt comfortable with.
+
+This year we focused on the core value we strive to deliver for and with our community: good infrastructure.
+
+Good infrastructure is patient work: interconnected, long-term, and producing something of real and lasting value, made possible through sustained collective effort. You are part of that.
+
+The conversation continues with #Crossref2026 and on our [community forum](https://community.crossref.org), where the community highlights presentations are posted, and you can reach the speakers directly.
+
+## [Before the Paper Goes](https://metaarchivist.substack.com/p/before-the-paper-goes)
+
+via The Meta Archivist blog · 2026-11-19, updated 2026-11-20
+
+NARA’s new authority spares agencies from rescanning qualifying legacy records, but it can leave them holding the paper for years.
 
 ## [WOOC 2027: Call for Participation, Contributions and Sponsorships](https://opencitations.hypotheses.org/4377)
 
@@ -25,7 +218,7 @@ The post [Dr. Carla Hayden: “The Future of Libraries is About More Than Books�
 
 ## [Guest Post — Building a Taxonomy of Bots](https://scholarlykitchen.sspnet.org/2026/11/19/guest-post-building-a-taxonomy-of-bots/)
 
-via Scholarly Kitchen · 2026-11-19, updated 2026-11-18
+via Scholarly Kitchen · 2026-11-19
 
 To tame the bots hitting scholarly platforms, we must first name them. Today’s post proposes a bot taxonomy to support the community’s need to measure robotic traffic.
 
@@ -105,7 +298,7 @@ We welcome comments, suggestions, and challenges to this report and our practice
 
 ## [The Return of the Hit Count in academic AI search? Not Quite.](https://aarontay.substack.com/p/the-return-of-the-hit-count-in-academic)
 
-via Aaron Tay's Musings about Librarianship · 2026-11-18, updated 2026-11-19
+via Aaron Tay's Musings about Librarianship · 2026-11-18, updated 2026-11-20
 
 Why hits shown in hybrid AI search such as JSTOR Dynamic Search or Consensus should not be treated the same as a traditional database Boolean hit count.
 
@@ -119,7 +312,7 @@ The post [From Framework to Action](https://sr.ithaka.org/blog/from-framework-to
 
 ## [Guest Post — African Knowledge Production in the Global North: The African Journals Initiative](https://scholarlykitchen.sspnet.org/2026/11/18/guest-post-african-knowledge-production-in-the-global-north-the-african-journals-initiative/)
 
-via Scholarly Kitchen · 2026-11-18
+via Scholarly Kitchen · 2026-11-18, updated 2026-11-19
 
 Today's guest post shares personal experiences with scholarly publishing in Africa from a recent graduate in publishing studies.
 
@@ -139,7 +332,7 @@ Check out all of the Future Knowledge episodes at [https://archive.org/details/f
 
 ## [The Seal and the Machine](https://metaarchivist.substack.com/p/the-seal-and-the-machine)
 
-via The Meta Archivist blog · 2026-11-17, updated 2026-11-19
+via The Meta Archivist blog · 2026-11-17, updated 2026-11-20
 
 From the seals of Prussian archives to the uncertain afterlife of digital trust
 
@@ -161,7 +354,7 @@ The post [AI is Reshaping the Role of Academic Librarians; Elsevier Releases Lib
 
 ## [Just-in-Time Synthesis: A New Approach to an Old Genre](https://scholarlykitchen.sspnet.org/2026/11/17/just-in-time-synthesis/)
 
-via Scholarly Kitchen · 2026-11-17, updated 2026-11-18
+via Scholarly Kitchen · 2026-11-17, updated 2026-11-19
 
 A commissioned review article and a just-in-time generated overview answer the same reader need; what differs is how each is made and whether a reader can tell enough about it to trust it.​​​​
 
@@ -169,9 +362,9 @@ The post [Just-in-Time Synthesis: A New Approach to an Old Genre](https://schola
 
 ## [ARL Daily Intelligence (November 16–19)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-november-16-19/)
 
-via Association of Research Libraries News · 2026-11-16, updated 2026-11-18
+via Association of Research Libraries News · 2026-11-16, updated 2026-11-19
 
-Last Updated on November 18, 2026, 3:44 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+Last Updated on November 19, 2026, 3:07 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (November 16–19)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-november-16-19/) appeared first on [Association of Research Libraries](https://www.arl.org).
 
@@ -185,7 +378,7 @@ The post [Report: “New Kickstarter Campaign Rethinks E-Book Ownership and Digi
 
 ## [Guest Post — Beyond the Download: What Counts as Scholarly Content Use in the Age of AI?](https://scholarlykitchen.sspnet.org/2026/11/16/guest-post-beyond-the-download-what-counts-as-scholarly-content-use-in-the-age-of-ai/)
 
-via Scholarly Kitchen · 2026-11-16, updated 2026-11-18
+via Scholarly Kitchen · 2026-11-16, updated 2026-11-19
 
 New usage metrics are needed to represent AI assistants intermediating researchers and content. What should count, and what can those numbers tell us about the value of research?
 
@@ -201,7 +394,7 @@ Today I am announcing [defter](https://crates.io/crates/defter), a new Zotero sy
 
 ## [Appraising Permanence, Sustaining the Promise](https://metaarchivist.substack.com/p/appraising-permanence-sustaining)
 
-via The Meta Archivist blog · 2026-11-15, updated 2026-11-19
+via The Meta Archivist blog · 2026-11-15, updated 2026-11-20
 
 What NARA’s appraisal process reveals about the distance between deciding that federal records should survive and ensuring that they can.
 
@@ -245,7 +438,7 @@ The post [Schools, Health & Libraries Broadband (SHLB) Coalition Files Reply Com
 
 ## [The Anatomy of “Harm”: An Interview with IFRRO CEO Anita Huss-Ekerhult on AI and Copyright](https://scholarlykitchen.sspnet.org/2026/11/13/the-anatomy-of-harm-an-interview-with-ifrro-ceo-anita-huss-ekerhult-on-ai-and-copyright/)
 
-via Scholarly Kitchen · 2026-11-13, updated 2026-11-18
+via Scholarly Kitchen · 2026-11-13, updated 2026-11-19
 
 Across different creative sectors, existing studies point to measurable and, in some cases, already quantified economic and commercial harm. At the same time, a market for AI licensing is already an established and growing commercial reality and this is continually undermined by unauthorized use.
 
@@ -277,13 +470,13 @@ The post [Transfer Explorer Comes to Ohio](https://sr.ithaka.org/blog/transfer-e
 
 ## [Who Will Keep the Archive?](https://metaarchivist.substack.com/p/who-will-keep-the-archive)
 
-via The Meta Archivist blog · 2026-11-12, updated 2026-11-19
+via The Meta Archivist blog · 2026-11-12, updated 2026-11-20
 
 From Copenhagen to the DPC's workforce research, a question about the human infrastructure of preservation.
 
 ## [Digital Humanities Research Infrastructures: An Interview with Barbara McGillivray](https://scholarlykitchen.sspnet.org/2026/11/12/digital-humanities-research-infrastructures-an-interview-with-barbara-mcgillivray/)
 
-via Scholarly Kitchen · 2026-11-12, updated 2026-11-18
+via Scholarly Kitchen · 2026-11-12, updated 2026-11-19
 
 An interview with Barbara McGillivray about the Journal of Open Humanities Data, which “features peer reviewed publications describing humanities data or techniques with high potential for reuse.”
 
@@ -307,7 +500,7 @@ The post [Supporting Veterans as Adult Learners](https://sr.ithaka.org/blog/supp
 
 ## [Guest Post — The Hidden Work of Integrating Scholarly Publishing](https://scholarlykitchen.sspnet.org/2026/11/11/guest-post-the-hidden-work-of-integrating-scholarly-publishing/)
 
-via Scholarly Kitchen · 2026-11-11, updated 2026-11-18
+via Scholarly Kitchen · 2026-11-11, updated 2026-11-19
 
 As scholarly publishing becomes increasingly interconnected, are we paying enough attention to its operational sustainability?
 
@@ -315,7 +508,7 @@ The post [Guest Post — The Hidden Work of Integrating Scholarly Publishing](ht
 
 ## [Who Decides What the AI Sees?​](https://aarontay.substack.com/p/who-decides-what-the-ai-sees)
 
-via Aaron Tay's Musings about Librarianship · 2026-11-11, updated 2026-11-19
+via Aaron Tay's Musings about Librarianship · 2026-11-11, updated 2026-11-20
 
 The Third Discovery War: From Federated Search and Central Indexes to MCP and Agentic AI​
 
@@ -345,7 +538,7 @@ The post [2027 Public Domain Film Contest: The Internet Archive is Looking For C
 
 ## [Libraries, Publishers, and the Users We Both Serve](https://scholarlykitchen.sspnet.org/2026/11/10/ai-and-the-users-we-serve/)
 
-via Scholarly Kitchen · 2026-11-10, updated 2026-11-18
+via Scholarly Kitchen · 2026-11-10, updated 2026-11-19
 
 Libraries and publishers can claim agency in the AI age by once again investigating and deeply understanding how our users work.
 
@@ -361,7 +554,7 @@ The post [Report: The Free Library of Philadelphia’s Online Catalog Was Taken 
 
 ## [ARL Daily Intelligence (November 9–12)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-november-9-12/)
 
-via Association of Research Libraries News · 2026-11-09, updated 2026-11-18
+via Association of Research Libraries News · 2026-11-09, updated 2026-11-19
 
 Last Updated on November 12, 2026, 3:08 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
@@ -391,7 +584,7 @@ CORE has become a not-for-profit legal entity dedicated to CORE’s mission. We 
 
 ## [Guest Post — We Have Enough Declarations. Now What? A Critique from Inside Diamond OA](https://scholarlykitchen.sspnet.org/2026/11/09/guest-post-we-have-enough-declarations-now-what-a-critique-from-inside-diamond-oa/)
 
-via Scholarly Kitchen · 2026-11-09, updated 2026-11-18
+via Scholarly Kitchen · 2026-11-09, updated 2026-11-19
 
 The Diamond OA community has built a declaration machine that runs in parallel with the under-resourced publishing machine it claims to serve, and the gap between them grows wider with every new communiqué.
 
@@ -399,7 +592,7 @@ The post [Guest Post — We Have Enough Declarations. Now What? A Critique from 
 
 ## [The Context We Carry Forward](https://metaarchivist.substack.com/p/the-context-we-carry-forward)
 
-via The Meta Archivist blog · 2026-11-08, updated 2026-11-19
+via The Meta Archivist blog · 2026-11-08, updated 2026-11-20
 
 Remembering Stephen Clarke, one year on, and the unfinished possibilities of epidata
 
@@ -413,7 +606,7 @@ The post [New Journal Article: Large Language Model Developments](https://www.in
 
 ## [Ask the Technology Providers: Our Charleston Conversation](https://scholarlykitchen.sspnet.org/2026/11/06/ask-the-technology-providers-our-charleston-conversation/)
 
-via Scholarly Kitchen · 2026-11-06, updated 2026-11-18
+via Scholarly Kitchen · 2026-11-06, updated 2026-11-19
 
 Did you miss us at Charleston this week? Never fear, here are some highlights from our TSK panel discussion with three of our esteemed guest bloggers.
 
@@ -421,7 +614,7 @@ The post [Ask the Technology Providers: Our Charleston Conversation](https://sch
 
 ## [On the Road with RADS: Building One Front Door for Data Management and Sharing Support at the University of Nebraska–Lincoln](https://www.arl.org/blog/on-the-road-with-rads-building-one-front-door-for-data-management-and-sharing-support-at-the-university-of-nebraska-lincoln/)
 
-via Association of Research Libraries News · 2026-11-05, updated 2026-11-18
+via Association of Research Libraries News · 2026-11-05, updated 2026-11-19
 
 Last Updated on November 5, 2026, 2:05 pm ET Leslie Delserone is research data services and science librarian, University of Nebraska–Lincoln. Alicia Hofelich Mohr, PhD, is data management research associate,...
 
@@ -443,7 +636,7 @@ The post [CBC Report: University Libraries are Being Swarmed by AI Bots, Putting
 
 ## [Guest Post — What AI Can’t Learn About Peer Review… Because Nobody Can Explain It](https://scholarlykitchen.sspnet.org/2026/11/05/guest-post-what-ai-cant-learn-about-peer-review-because-nobody-can-explain-it/)
 
-via Scholarly Kitchen · 2026-11-05, updated 2026-11-18
+via Scholarly Kitchen · 2026-11-05, updated 2026-11-19
 
 What might be lost if we automate a task without first fully understanding the expertise behind it?
 
@@ -463,7 +656,7 @@ On 27 October, the Bodleian Libraries hosted a community workshop at the Univers
 
 ## [From AI Adoption to AI Practice: Building Governed AI in Scholarly Publishing](https://scholarlykitchen.sspnet.org/2026/11/04/from-ai-adoption-to-ai-practice-building-governed-ai-in-scholarly-publishing/)
 
-via Scholarly Kitchen · 2026-11-04, updated 2026-11-18
+via Scholarly Kitchen · 2026-11-04, updated 2026-11-19
 
 How can a publisher make AI useful across the organization while keeping control of confidential information, editorial decisions, and accountability?
 
@@ -497,7 +690,7 @@ The post [Company News: Cambridge University Press, Johns Hopkins University Pre
 
 ## [The Context Behind the Answer](https://metaarchivist.substack.com/p/the-context-behind-the-answer)
 
-via The Meta Archivist blog · 2026-11-03, updated 2026-11-19
+via The Meta Archivist blog · 2026-11-03, updated 2026-11-20
 
 Reference, Description, and the Provenance of AI-Generated Knowledge
 
@@ -517,7 +710,7 @@ The post [Company News: Oxford University Press Launches MCP Pilot; Partners Inc
 
 ## [Guest Post — What Accessibility at Scale Actually Requires of Academic Publishers](https://scholarlykitchen.sspnet.org/2026/11/03/what-accessibility-at-scale-actually-requires-of-academic-publishers/)
 
-via Scholarly Kitchen · 2026-11-03, updated 2026-11-18
+via Scholarly Kitchen · 2026-11-03, updated 2026-11-19
 
 How can publishers move past the regulatory overview for accessibility compliance and into the production reality after sitting on decades of archived content, posts, and data.
 
@@ -533,7 +726,7 @@ The post [Rethinking Readers’ Advisory For Today’s Reading Reality (New Issu
 
 ## [The AI Transparency Trap](https://scholarlykitchen.sspnet.org/2026/11/02/the-ai-transparency-trap/)
 
-via Scholarly Kitchen · 2026-11-02, updated 2026-11-18
+via Scholarly Kitchen · 2026-11-02, updated 2026-11-19
 
 The absence of AI doesn’t guarantee trustworthy research. And neither does disclosing AI use.
 
@@ -541,7 +734,7 @@ The post [The AI Transparency Trap](https://scholarlykitchen.sspnet.org/2026/11/
 
 ## [October 2026](https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/october-2026/)
 
-via Association of Research Libraries News · 2026-10-30, updated 2026-11-18
+via Association of Research Libraries News · 2026-10-30, updated 2026-11-19
 
 Last Updated on October 30, 2026, 3:36 pm ET ARL Public Policy Briefing (October 2026) This month, ARL joined an amicus brief by the Consumer Technology Association (CTA) in support...
 
@@ -549,7 +742,7 @@ The post [October 2026](https://www.arl.org/our-priorities/advocacy-public-polic
 
 ## [Library Copyright Alliance Urges Court to Preserve Fair Use](https://www.arl.org/blog/library-copyright-alliance-urges-court-to-preserve-fair-use/)
 
-via Association of Research Libraries News · 2026-10-30, updated 2026-11-18
+via Association of Research Libraries News · 2026-10-30, updated 2026-11-19
 
 Last Updated on October 30, 2026, 3:54 pm ET The Association of Research Libraries (ARL) and American Library Association (ALA)—together, the Library Copyright Alliance (LCA)—joined an amicus brief in favor...
 

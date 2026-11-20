@@ -1,14 +1,118 @@
 ---
 title: "SoCal North"
 description: "News and posts related to the greater North Los Angeles and adjacent counties.\n"
-pubDate: Thu, 19 Nov 2026 13:00:00 GMT
+pubDate: Fri, 20 Nov 2026 13:00:00 GMT
 aggregateOf: "socal_north.md"
-dateModified: Fri, 20 Nov 2026 04:00:10 GMT
-itemCount: 283
-generator: antenna/0.0.28
+dateModified: Fri, 20 Nov 2026 22:29:37 GMT
+itemCount: 300
+generator: antenna/0.1.0
 ---
 
 # SoCal North
+
+## [Suspects charged in brazen train heist ring that netted $22 million in cargo from major retailers](https://laist.com/news/criminal-justice/suspects-charged-in-brazen-train-heist-ring-that-netted-22-million-in-cargo-from-major-retailers)
+
+via The LAist · 2026-11-20
+
+More than a dozen people were charged Thursday with allegedly orchestrating a massive train heist operation to steal over $22 million in cargo.
+
+## [Why students might lose access to financial aid because of ‘low-quality’ online courses](https://laist.com/news/education/students-might-lose-access-to-financial-aid-because-of-low-quality-online-courses)
+
+via The LAist · 2026-11-20
+
+After a report on the heavy course loads of some part-time faculty, the community college chancellor is reviewing whether online professors are providing a quality education.
+
+## [Jose Ugarte gains slightly in tight race to represent South LA’s CD-9](https://laist.com/news/politics/jose-ugarte-gains-slightly-election-south-la-cd-9)
+
+via The LAist · 2026-11-20
+
+The new councilmember for Council District 9 will come down to a narrow number of ballots.
+
+## [California attorney general subpoenas Nvidia over chips, former CEO’s affair](https://laist.com/news/criminal-justice/california-attorney-general-subpoenas-nvidia-over-chips-former-ceos-affair)
+
+via The LAist · 2026-11-20
+
+California Attorney General Rob Bonta has issued an investigative subpoena to Nvidia related to former CEO Jensen Huang’s affair with a suspected Chinese spy.
+
+## [LA, OC counted ballots faster this year. Will it last?](https://laist.com/news/politics/voter-guides/2026-election-la-county-vote-counting-rate-voter-turnout)
+
+via The LAist · 2026-11-20
+
+The state gave $29 million to county registrars to speed up ballot-counting this year. Did it work?
+
+## [ICE Watch: Remembering the Summer ICE Took the Parents of Two San Diego Teens](https://lataco.com/ice-watch-san-diego-parents-taken)
+
+via L. A. Taco · 2026-11-20
+
+"I hope every family stays together, and I hope none of this happens to you guys how this happened to me,” said Kevin Robles, a U.S. Citizen who was 17 years old at the time.
+
+The post [ICE Watch: Remembering the Summer ICE Took the Parents of Two San Diego Teens](https://lataco.com/ice-watch-san-diego-parents-taken) appeared first on [L.A. TACO](https://lataco.com).
+
+## [Go Metro to the LA Auto Show and the best fall events in Los Angeles: November 20-22](https://thesource.metro.net/go-metro-to-the-la-auto-show-and-the-best-fall-events-in-los-angeles-november-20-22/)
+
+via The Source MTA blog · 2026-11-20
+
+![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/2G3A3068-copy-scaled.jpg?fit=1200%2C800&ssl=1)The LA Auto Show rolls into the Convention Center, USC hosts Maryland at the Coliseum, and women’s college hoops makes its Intuit Dome debut. The Lakers and Chargers are home too, and Long Beach keeps its monthly party going on The Promenade. Skip the parking hunt and let Metro drive. Here’s what’s happening. All Weekend \[…\]
+
+## [To bird or not to bird, that's the question this Thanksgiving](https://laist.com/news/food/to-bird-or-not-to-bird-thats-the-question-this-thanksgiving)
+
+via The LAist · 2026-11-19
+
+Thinking of going turkey-free this Thanksgiving? You’re not alone.
+
+## [City Hall’s First Floor Gallery Welcomes “CalArts Showcase”](https://santaclarita.gov/blog/2026/11/19/city-halls-first-floor-gallery-welcomes-calarts-showcase/)
+
+via City of Santa Clarita · 2026-11-19
+
+The City of Santa Clarita is pleased to present “CalArts Showcase,” on display in the First Floor Gallery at City Hall (23920 Valencia Boulevard) now through February 10, 2027. This juried exhibition celebrates the creativity and talents of current students and alumni of California Institute of the Arts (CalArts). Featuring a diverse collection of artworks \[…\]
+
+The post [City Hall’s First Floor Gallery Welcomes “CalArts Showcase”](https://santaclarita.gov/blog/2026/11/19/city-halls-first-floor-gallery-welcomes-calarts-showcase/) appeared first on [City of Santa Clarita](https://santaclarita.gov).
+
+## [Where can you find the best baguettes in Los Angeles?](https://laist.com/news/food/where-can-you-find-the-best-baguettes-in-los-angeles)
+
+via The LAist · 2026-11-19
+
+As you plan your holiday meals, a fresh baguette may be a perfect fit. But which bakeries should you head to?
+
+## [LBUSD says it can’t find anything wrong with classrooms where dozens of kids got sick](https://laist.com/news/education/long-beach-unified-school-district-environmental-testing-classrooms)
+
+via The LAist · 2026-11-19
+
+Long Beach Unified says it conducted two rounds of environmental testing and found nothing concerning in a Monroe Elementary School building.
+
+## [Prop 4 fails, ending latest effort to allow taxpayer funding of California political campaigns](https://laist.com/news/politics/prop-4-fails-ending-latest-effort-to-allow-taxpayer-funding-of-california-political-campaigns)
+
+via The LAist · 2026-11-19
+
+California’s ban against public funding for most state and local candidates running for office will remain in place now that the defeat of Proposition 4 is official.
+
+## [These Rare Blue Corn Tamales Sell Out Every Saturday in Sherman Oaks](https://lataco.com/true-blue-corn-tamales)
+
+via L. A. Taco · 2026-11-19, updated 2026-11-20
+
+Afro-Mexicana tamal vendor Jasmine Ledesma's newest side hustle brings her generational recipes to a Rite Aid parking lot. Demand is so high that even scammers are targeting their sales.
+
+The post [These Rare Blue Corn Tamales Sell Out Every Saturday in Sherman Oaks](https://lataco.com/true-blue-corn-tamales) appeared first on [L.A. TACO](https://lataco.com).
+
+## [Federal Disaster Loans Now Available for Businesses Impacted by Old Town Newhall Fire](https://santaclarita.gov/blog/2026/11/19/federal-disaster-loans-now-available-for-businesses-impacted-by-old-town-newhall-fire/)
+
+via City of Santa Clarita · 2026-11-19
+
+Small Business Administration to Provide In-Person Application Assistance Beginning November 18 The City of Santa Clarita is announcing that the U.S. Small Business Administration (SBA) has issued a disaster declaration in response to the devastating August 24, 2026, fire in Old Town Newhall. The declaration makes low-interest Economic Injury Disaster Loans (EIDL) available to eligible \[…\]
+
+The post [Federal Disaster Loans Now Available for Businesses Impacted by Old Town Newhall Fire](https://santaclarita.gov/blog/2026/11/19/federal-disaster-loans-now-available-for-businesses-impacted-by-old-town-newhall-fire/) appeared first on [City of Santa Clarita](https://santaclarita.gov).
+
+## [California told schools to make sure kids see a dentist. Then the state didn’t follow up](https://laist.com/news/education/california-told-schools-make-sure-kids-see-dentist-state-didnt-follow-up)
+
+via The LAist · 2026-11-19
+
+California schools are supposed to make sure young students see a dentist. Many don’t, a state audit found.
+
+## [Reps. Whitesides, Moran, and Beyer Launch First Congressional Caucus Focused on AI Safety and Innovation](https://whitesides.house.gov/2026/11/19/reps-whitesides-moran-and-beyer-launch-first-congressional-caucus-focused-on-ai-safety-and-innovation/)
+
+via Congressman George Whitesides, district 27 · 2026-11-19
+
+Bipartisan congressional caucus will champion AI safety legislation, address emerging security threats, and help Congress respond more quickly to AI safety incidents WASHINGTON, D.C. – Today, Reps. George Whitesides (D-CA), Nathaniel Moran (R-TX), and Don Beyer (D-VA), announced the launch of the House AI Safety and Innovation Caucus, the first congressional caucus focused specifically on \[…\]
 
 ## [Port workers strike looks more likely this weekend, shippers say](https://laist.com/news/transportation/port-workers-strike-looks-more-likely-this-weekend-shippers-say)
 
@@ -148,7 +252,7 @@ One of LA’s oldest restaurants reopens with a new menu, new owners and the sam
 
 ## [You’re Invited to the 11th Annual Union Station Tree Lighting](https://thesource.metro.net/youre-invited-to-the-11th-annual-union-station-tree-lighting/)
 
-via The Source MTA blog · 2026-11-18
+via The Source MTA blog · 2026-11-18, updated 2026-11-20
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/image-1.png?fit=936%2C624&ssl=1)The 11th Annual Tree Lighting Ceremony will take place on Thursday, November 19, from 6 p.m. to 8 p.m. in Union Station’s historic Ticket Concourse, kicking off the holiday season.   Hosted by Charles Phoenix, the event will feature live musical performances from Mariachi Ausente and Lizzy & the Triggermen presented by Metro Art. Santa and \[…\]
 
@@ -160,7 +264,7 @@ After federal agents blocked the ambulance entrance and detained two protesters,
 
 ## [The New York Times Got L.A.’s True Eastside Wrong and Why It Definitely Matters](https://lataco.com/eastside-los-angeles)
 
-via L. A. Taco · 2026-11-18, updated 2026-11-19
+via L. A. Taco · 2026-11-18, updated 2026-11-20
 
 The Eastside is almost a state of consciousness; a place that shows how deeply you know Los Angeles.
 
@@ -172,9 +276,15 @@ via The LAist · 2026-11-18, updated 2026-11-19
 
 The mayor-elect said she’d remove the police chief during the race, but didn’t commit to a timeline.
 
+## [Over the 101 Freeway, animals can roam safely thanks to world’s largest wildlife crossing](https://laist.com/news/transportation/over-a-freeway-near-los-angeles-animals-can-roam-safely-thanks-to-worlds-largest-wildlife-crossing)
+
+via The LAist · 2026-11-18
+
+The bridge stretches 1,250 feet (380 meters) in two sections over the roadways to give animals a safe path.
+
 ## [Investigations Newsletter: Will Nithya Raman Fire LAPD Chief Jim McDonnell?](https://lataco.com/will-nithya-raman-fire-jim-mcdonnell)
 
-via L. A. Taco · 2026-11-18, updated 2026-11-19
+via L. A. Taco · 2026-11-18, updated 2026-11-20
 
 We asked.
 
@@ -220,7 +330,7 @@ A federal judge has signed off on a step-by-step handoff. Here’s a breakdown o
 
 ## [The Coolest 11 Places In L.A. With Free Wi-Fi to Work From When You Need to Get Out of the House](https://lataco.com/cafes-bars-remote-work-wfh)
 
-via L. A. Taco · 2026-11-18, updated 2026-11-19
+via L. A. Taco · 2026-11-18, updated 2026-11-20
 
 Only in L.A. can you work away from home with complimentary cannabis pre-rolls, hot tubs, beach views, and even a spa.
 
@@ -232,11 +342,11 @@ via The LAist · 2026-11-18
 
 City staff wants nearly $700,000 to grow capacity during the summer of 2028.
 
-## [Cold storm moving into Southern California will bring rain, snow and hazards](https://laist.com/news/climate-environment/cold-storm-november-southern-california)
+## [Southern California gets drenched by cold November storm](https://laist.com/news/climate-environment/cold-storm-november-southern-california)
 
-via The LAist · 2026-11-18
+via The LAist · 2026-11-18, updated 2026-11-20
 
-Heavy rain is in the forecast this week, along with the possibility of coastal flooding.
+Heavy rain caused flooding across L.A. County on Thursday. Evacuation warnings have been lifted.
 
 ## [DMV suspends Waymos from California freeways, citing ‘imminent’ public safety hazards](https://laist.com/news/transportation/dmv-suspends-waymos-from-california-freeways-citing-imminent-public-safety-hazards)
 
@@ -282,7 +392,7 @@ Leonard Redway, Inglewood City Council District 1 candidate, must stay 100 yards
 
 ## [Vandenberg hosts 2026 Fall Job Fair](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649605/vandenberg-hosts-2026-fall-job-fair/)
 
-via Vandenberg Base News · 2026-11-17, updated 2026-11-19
+via Vandenberg Base News · 2026-11-17, updated 2026-11-20
 
 Attendees explore career opportunities during the Fall Job Fair at the Pacific Coast Center at Vandenberg Space Force Base, California, Nov. 16, 2026.
 
@@ -320,7 +430,7 @@ Neighbors say nearly 400 new homes would also increase fire danger and eliminate
 
 ## [Free Drive-Thru Sandbag Distribution at Central Park](https://santaclarita.gov/blog/2026/11/16/free-drive-thru-sandbag-distribution-at-central-park/)
 
-via City of Santa Clarita · 2026-11-16
+via City of Santa Clarita · 2026-11-16, updated 2026-11-19
 
 The City of Santa Clarita, in partnership with the Los Angeles County Fire Department, invites the community to prepare for the upcoming rainy season with a FREE Drive-Thru Sandbag Distribution on Sunday, November 22, from 12:00 to 3:00 p.m., at Central Park (27150 Bouquet Canyon Road). With El Niño conditions continuing to develop and the \[…\]
 
@@ -328,7 +438,7 @@ The post [Free Drive-Thru Sandbag Distribution at Central Park](https://santacla
 
 ## [Our 28 Favorite Tacos Al Pastor, Adobada, and Árabes in Los Angeles](https://lataco.com/best-al-pastor-la)
 
-via L. A. Taco · 2026-11-16, updated 2026-11-19
+via L. A. Taco · 2026-11-16, updated 2026-11-20
 
 Whether they use lamb, octopus, pork, beef, or mushrooms, these are our favorite places to get what might be L.A.'s official taco.
 
@@ -348,7 +458,7 @@ The U.S. Supreme Court denied the Trump administration’s appeal of lower court
 
 ## [Sentinel Stage Processing Facility Ribbon Cutting Ceremony at Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649455/sentinel-stage-processing-facility-ribbon-cutting-ceremony-at-vandenberg-space/)
 
-via Vandenberg Base News · 2026-11-16, updated 2026-11-19
+via Vandenberg Base News · 2026-11-16, updated 2026-11-20
 
 The recently completed facility will serve as a hub for processing and testing components for the next-generation Sentinel weapon system ribbon cutting ceremony held at Vandenberg Space Force Base, California, Nov. 5, 2026.
 
@@ -356,7 +466,7 @@ The recently completed facility will serve as a hub for processing and testing c
 
 ## [Light Up Main Street Know Before You Go!](https://santaclarita.gov/blog/2026/11/16/light-up-main-street-know-before-you-go/)
 
-via City of Santa Clarita · 2026-11-16
+via City of Santa Clarita · 2026-11-16, updated 2026-11-19
 
 From Road Closures and Parking to Festivities and Fun! The holiday season officially begins in Santa Clarita as Old Town Newhall transforms into a sparkling winter wonderland for Light Up Main Street, presented by DrinkPAK, on Saturday, November 21, from 4:00 to 8:00 p.m. rain or shine! The official tree lighting will take place at \[…\]
 
@@ -364,7 +474,7 @@ The post [Light Up Main Street Know Before You Go!](https://santaclarita.gov/blo
 
 ## [Gather Around the Table for Santa Clarita’s Thanksgiving Community Dinners!](https://santaclarita.gov/blog/2026/11/16/gather-around-the-table-for-santa-claritas-thanksgiving-community-dinners/)
 
-via City of Santa Clarita · 2026-11-16
+via City of Santa Clarita · 2026-11-16, updated 2026-11-19
 
 Enjoy a Free Thanksgiving Meal with Family, Friends and Neighbors Gather around the table, Santa Clarita! Celebrate the spirit of Thanksgiving with an evening of gratitude, connection and community at the City’s annual Thanksgiving Community Dinners. The free events will take place at the Newhall Community Center on Monday, November 23, and the Canyon Country \[…\]
 
@@ -372,13 +482,13 @@ The post [Gather Around the Table for Santa Clarita’s Thanksgiving Community D
 
 ## [Draft Environmental Document now available for I-405 Sepulveda Pass ExpressLanes project](https://thesource.metro.net/draft-environmental-document-now-available-for-i-405-sepulveda-pass-expresslanes-project/)
 
-via The Source MTA blog · 2026-11-16, updated 2026-11-18
+via The Source MTA blog · 2026-11-16, updated 2026-11-20
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/Sepulveda-ExpressLanes-edited.jpg?fit=1082%2C1131&ssl=1)Weary of gridlock and soul-sucking traffic on the 405 through the Sepulveda Pass? We’re studying ways to move people more efficiently on the 405 as part of our I-405 Sepulveda Pass ExpressLanes Project. The slides below show the project options under study – Alternatives 1, 2, 3 and 5 (Alt 4 has been eliminated from \[…\]
 
 ## [In the Age of A.I. Slop, a Montebello Metalhead Still Proudly Draws Albums and Flyers By Hand](https://lataco.com/black-metal-punk-album-art)
 
-via L. A. Taco · 2026-11-16, updated 2026-11-19
+via L. A. Taco · 2026-11-16, updated 2026-11-20
 
 “I need to paint and draw my best to compete against this A.I. shit,” Guillermo Millán says. "There’s some people who use A.I. to write music, and it’s just wack."
 
@@ -410,7 +520,7 @@ The L.A. City Council has a few options for filling the open seat.
 
 ## [Sunday Taquitos #37: Super Shredder](https://lataco.com/sunday-taquitos-37-super-shredder)
 
-via L. A. Taco · 2026-11-15, updated 2026-11-19
+via L. A. Taco · 2026-11-15, updated 2026-11-20
 
 Sunday Taquitos! Art by Pulitzer Prize Finalist Ivan Ehlers.
 
@@ -440,7 +550,7 @@ The post [Stalled Offensive Drives, Rain, Flat Defense, Plague Birmingham in 36-
 
 ## [UNARMED MINUTEMAN III ICBM TEST LAUNCH SCHEDULED AT VANDENBERG SPACE FORCE BASE](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4648574/unarmed-minuteman-iii-icbm-test-launch-scheduled-at-vandenberg-space-force-base/)
 
-via Vandenberg Base News · 2026-11-14, updated 2026-11-19
+via Vandenberg Base News · 2026-11-14, updated 2026-11-20
 
 An operational test launch of an Air Force Global Strike Command unarmed Minuteman III intercontinental ballistic missile is scheduled between 11:01 p.m. Pacific Time, Nov. 17, and 5:01 a.m. Pacific Time, Nov.18, from the northern portion of the installation.
 
@@ -458,7 +568,7 @@ Some 200 Olive Ridley Sea Turtle eggs were laid on Seal Beach and Huntington Bea
 
 ## [Muscoy’s Stacked Street Food Scene Is Proof that the Inland Empire Deserves More Love](https://lataco.com/muscoy-ie-food-guide)
 
-via L. A. Taco · 2026-11-14, updated 2026-11-19
+via L. A. Taco · 2026-11-14, updated 2026-11-20
 
 Nestled between the 210 and 215 freeways, one of the I.E.’s smallest unincorporated towns serves up big taste and big portions in equal measure.
 
@@ -466,7 +576,7 @@ The post [Muscoy’s Stacked Street Food Scene Is Proof that the Inland Empire D
 
 ## [Community Meeting on Proposed Courthouse](https://santaclarita.gov/blog/2026/11/14/community-meeting-on-proposed-courthouse/)
 
-via City of Santa Clarita · 2026-11-14, updated 2026-11-16
+via City of Santa Clarita · 2026-11-14, updated 2026-11-19
 
 By City Manager Ken Striplin For 40 years, the City of Santa Clarita has worked diligently to uphold and maintain the exceptional quality of life that residents, businesses and our entire community have come to appreciate. Every decision made by the City Council is approached with careful consideration, transparency and a commitment to listening to \[…\]
 
@@ -528,7 +638,7 @@ Council District 13 declined a donation of automated license plate readers and i
 
 ## [Try Mexico City’s El Tigre Silencioso Before One of Mexico’s Best Chefs Opens His Arts District Restaurant Next Week](https://lataco.com/hussong-tigre-silencioso-seco-saade)
 
-via L. A. Taco · 2026-11-13, updated 2026-11-19
+via L. A. Taco · 2026-11-13, updated 2026-11-20
 
 El Tigre chef and owner David Hussong is preparing to debut his own Baja seafood concept in the Arts District next week. But you can try his chiles gueros tacos before everyone else.
 
@@ -606,7 +716,7 @@ As online classes proliferate, community college professors have found a hack �
 
 ## [Go Metro to Camp Flog Gnaw and the best fall events in Los Angeles: November 13-15](https://thesource.metro.net/go-metro-to-camp-flog-gnaw-and-the-best-fall-events-in-los-angeles-november-13-15/)
 
-via The Source MTA blog · 2026-11-12, updated 2026-11-18
+via The Source MTA blog · 2026-11-12, updated 2026-11-20
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/799308283_1630785628403621_4173385629581106395_n.jpg?fit=1200%2C800&ssl=1)Space Shuttle Endeavour gets its permanent home, Tyler, the Creator throws his carnival at Dodger Stadium and Pasadena closes its streets to cars for CicLAvia. It’s a big weekend, and Metro can get you to all of it without a parking headache. Here’s what’s happening. All Weekend Camp Flog Gnaw takes over the Dodger Stadium \[…\]
 
@@ -672,7 +782,7 @@ In a 2023 campaign speech, Trump pledged to reclaim universities from what he ca
 
 ## [Thank You, Santa Clarita](https://santaclarita.gov/blog/2026/11/12/thank-you-santa-clarita/)
 
-via City of Santa Clarita · 2026-11-12, updated 2026-11-16
+via City of Santa Clarita · 2026-11-12, updated 2026-11-19
 
 By Councilwoman Marsha McLean Long before I ever sat on the Santa Clarita City Council, I learned something important about this community: when residents care about an issue, they show up, speak out and work together to make a difference. I know because I was one of them. Before I was elected to the City \[…\]
 
@@ -828,7 +938,7 @@ The century-old diner brings back its pancakes and coleslaw, plus new dishes lik
 
 ## [Solvang holds 2026 Veterans Day observance with support of Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4646630/solvang-holds-2026-veterans-day-observance-with-support-of-vandenberg-space-for/)
 
-via Vandenberg Base News · 2026-11-11, updated 2026-11-19
+via Vandenberg Base News · 2026-11-11, updated 2026-11-20
 
 U.S. Space Force Chief Master Sgt. Shannan Sanchez, Space Launch Delta 30 command senior enlisted leader, delivered the keynote address during a Veterans Day ceremony at the Solvang Veterans Memorial Hall in Solvang, California, Nov. 11, 2026.
 
@@ -922,7 +1032,7 @@ Those in Little Bangladesh say they are often ignored, but Raman spent time list
 
 ## [Not Just Child’s Play: Space Force Technicians Assist Children’s Museum with Restoration Project](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4646428/not-just-childs-play-space-force-technicians-assist-childrens-museum-with-resto/)
 
-via Vandenberg Base News · 2026-11-10, updated 2026-11-19
+via Vandenberg Base News · 2026-11-10, updated 2026-11-20
 
 After painstaking restoration, a museum’s interactive recycling display recently whirred back to life thanks to the technicians of the 30th Operations Support Squadron’s Training Device Design and Engineering Center at Vandenberg Space Force Base.
 
@@ -996,7 +1106,7 @@ The new executive post will take the place of the county’s appointed CEO and i
 
 ## [Community Development Block Grant Funding Available](https://santaclarita.gov/blog/2026/11/09/community-development-block-grant-funding-available/)
 
-via City of Santa Clarita · 2026-11-10, updated 2026-11-16
+via City of Santa Clarita · 2026-11-10, updated 2026-11-19
 
 Santa Clarita Non-Profits Invited to Apply for 2027-28 Funding Cycle The City of Santa Clarita is pleased to announce the release of the 2027-2028 Notice of Funding Availability (NOFA) and has scheduled informational meetings for organizations interested in applying for 2027-28 Community Development Block Grant (CDBG) funding. The City invites non-profit organizations that serve low- \[…\]
 
@@ -1040,7 +1150,7 @@ Massie said the secretary’s actions amount to “high crimes and misdemeanors�
 
 ## [New Metro Art “Through the Eyes of Artists” poster celebrates Tujunga](https://thesource.metro.net/new-metro-art-through-the-eyes-of-artists-poster-celebrates-tujunga/)
 
-via The Source MTA blog · 2026-11-09, updated 2026-11-18
+via The Source MTA blog · 2026-11-09, updated 2026-11-20
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/26-0384_obp_tujunga_tte_28x11_viewing-1-scaled.jpeg?fit=1200%2C471&ssl=1)Metro Art has released the latest onboard neighborhood poster in the popular Through the Eyes of Artists series, celebrating the foothills neighborhood of Tujunga, and it can now be enjoyed across Metro buses and trains. For over 20 years, the series has showcased the cities and neighborhoods that Metro serves from the unique perspective of \[…\]
 
@@ -1162,7 +1272,7 @@ School enrollment was already expected to plunge by 2 million kids by 2030.
 
 ## [Piece by piece: Celebrating progress on the proposed E Line extension](https://thesource.metro.net/piece-by-piece-celebrating-progress-on-the-proposed-e-line-extension/)
 
-via The Source MTA blog · 2026-11-06, updated 2026-11-18
+via The Source MTA blog · 2026-11-06, updated 2026-11-20
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/eastside-map-1.png?fit=958%2C497&ssl=1)Residents, community partners and local leaders came together Friday morning in East LA to celebrate the years of collaboration behind the proposed E Line extension from East Los Angeles to Montebello and, eventually, Whittier. The giant puzzle in the video above represents that shared effort to help advance the project toward construction. Known as the \[…\]
 
@@ -1236,7 +1346,7 @@ Republican Sonja Shaw conceded the race for California Superintendent of Public 
 
 ## [Go Metro to Corita Day Festival and the best fall events in Los Angeles: November 6-8](https://thesource.metro.net/go-metro-to-corita-day-festival-and-the-best-fall-events-in-los-angeles-november-6-8/)
 
-via The Source MTA blog · 2026-11-06, updated 2026-11-18
+via The Source MTA blog · 2026-11-06, updated 2026-11-20
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/DJI_20260830170121_0008_D-scaled.jpg?fit=1200%2C800&ssl=1)November opens with a mix of art, music and sports across Los Angeles. Corita Day Festival fills the SCI-Arc campus in Little Tokyo with art-making and live music, Self Help Graphics celebrates its 53rd Día de los Muertos in Boyle Heights, and the Lakers, Kings, Chargers, and Clippers are all home. Metro can get you \[…\]
 
@@ -1788,7 +1898,7 @@ California Faculty Association members have until Nov. 19 to authorize a strike.
 
 ## [Metro Books gives riders free reads on trains and buses](https://thesource.metro.net/metro-books-gives-riders-free-reads-on-trains-and-buses/)
 
-via The Source MTA blog · 2026-11-01, updated 2026-11-18
+via The Source MTA blog · 2026-11-01, updated 2026-11-20
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/10/MB_ComicBook_SM14-scaled.jpg?fit=1200%2C900&ssl=1)Want to swap your phone for a good book on your next ride? A new nonprofit, Metro Books, is making it easy. Founded in January by Flinder Boyd, Metro Books hands out free books to riders at stations and on buses and trains. The goal is to get people to look up from their screens \[…\]
 
@@ -1902,7 +2012,7 @@ The 9th Circuit Court of Appeals on Friday rejected the Justice Department’s r
 
 ## [Reps. Whitesides, Gallagher, Salinas, Fong Introduce Bipartisan Legislation to Ban Betting on Wildfires on Prediction Markets](https://whitesides.house.gov/2026/10/30/reps-whitesides-gallagher-salinas-fong-introduce-bipartisan-legislation-to-ban-betting-on-wildfires-on-prediction-markets/)
 
-via Congressman George Whitesides, district 27 · 2026-10-30
+via Congressman George Whitesides, district 27 · 2026-10-30, updated 2026-11-19
 
 WASHINGTON D.C. – Today, Reps. George Whitesides (D-CA), James Gallagher (R-CA) Andrea Salinas (D-OR), and Vince Fong (R-CA) introduced the No Bets on Wildfires Act, a bill making it illegal to place bets related to wildfires on prediction markets.  Over $1 million fire-related bets were wagered on Polymarket during the devastating wildfires that swept through Los Angeles in early 2025. Users on the platform \[…\]
 
@@ -1920,7 +2030,7 @@ Thousands of California college students have been affected by a breach of the B
 
 ## [Go Metro to the Chargers and Rams this season – here’s your easy guide to taking our SoFi Stadium Express](https://thesource.metro.net/go-metro-to-the-chargers-and-rams-this-season-heres-your-easy-guide-to-taking-our-sofi-stadium-express/)
 
-via The Source MTA blog · 2026-10-30, updated 2026-11-18
+via The Source MTA blog · 2026-10-30, updated 2026-11-20
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/09/GettyImages-2188242917.jpg?fit=1200%2C800&ssl=1)The Super Bowl is coming to SoFi Stadium on Sunday, Feb. 14 — the perfect Valentine’s Day gift to our region. The Rams are already the betting favorites to represent the NFC and we predict they’ll be playing their stadium mates, the Chargers. The Rams and Chargers already have playoff pedigrees. Both teams possess top \[…\]
 

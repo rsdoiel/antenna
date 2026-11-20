@@ -2,9 +2,9 @@
 title: "ebooks.md"
 pubDate: Sun, 15 Nov 2026 10:51:23 GMT
 aggregateOf: "ebooks.md"
-dateModified: Fri, 20 Nov 2026 04:00:10 GMT
+dateModified: Fri, 20 Nov 2026 22:29:37 GMT
 itemCount: 188
-generator: antenna/0.0.28
+generator: antenna/0.1.0
 ---
 
 # ebooks.md

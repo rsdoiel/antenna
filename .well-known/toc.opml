@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+	<head>
+		<title>rsdoiel.github.io/antenna</title>
+		<dateModified>Fri, 20 Nov 2026 22:29:38 GMT</dateModified>
+	</head>
+	<body>
+		<outline text="Pages">
+			<outline text="Implementation" url="https://rsdoiel.github.io/antenna/README.md"></outline>
+			<outline text="Getting Things Done" url="https://rsdoiel.github.io/antenna/TODO.md"></outline>
+			<outline text="antenna" url="https://rsdoiel.github.io/antenna/about.md"></outline>
+			<outline text="Weather" url="https://rsdoiel.github.io/antenna/forecasts.md"></outline>
+			<outline text="An Antenna" url="https://rsdoiel.github.io/antenna/index.md"></outline>
+			<outline text="Search page" url="https://rsdoiel.github.io/antenna/search.md"></outline>
+		</outline>
+		<outline text="Collections">
+			<outline text="Columns" url="https://rsdoiel.github.io/antenna/columns_items.md"></outline>
+			<outline text="Craft" url="https://rsdoiel.github.io/antenna/craft_items.md"></outline>
+			<outline text="Healthy Eats" url="https://rsdoiel.github.io/antenna/food_items.md"></outline>
+			<outline text="Urban Farm" url="https://rsdoiel.github.io/antenna/home_items.md"></outline>
+			<outline text="Student Paper" url="https://rsdoiel.github.io/antenna/journalism_items.md"></outline>
+			<outline text="GLAM" url="https://rsdoiel.github.io/antenna/libraries_items.md"></outline>
+			<outline text="North America" url="https://rsdoiel.github.io/antenna/north_america_items.md"></outline>
+			<outline text="Pacific" url="https://rsdoiel.github.io/antenna/pacific_items.md"></outline>
+			<outline text="Retro" url="https://rsdoiel.github.io/antenna/retro_computing_items.md"></outline>
+			<outline text="STEM" url="https://rsdoiel.github.io/antenna/science_and_technology_items.md"></outline>
+			<outline text="Small Papers" url="https://rsdoiel.github.io/antenna/small_papers_items.md"></outline>
+			<outline text="SoCal North" url="https://rsdoiel.github.io/antenna/socal_north_items.md"></outline>
+			<outline text="Writing" url="https://rsdoiel.github.io/antenna/writing_items.md"></outline>
+			<outline text="ebooks.md" url="https://rsdoiel.github.io/antenna/ebooks_items.md"></outline>
+		</outline>
+	</body>
+</opml>

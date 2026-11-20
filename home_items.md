@@ -1,13 +1,215 @@
 ---
 title: "Urban Farm"
-pubDate: Thu, 19 Nov 2026 01:02:52 GMT
+pubDate: Fri, 20 Nov 2026 03:00:35 GMT
 aggregateOf: "home.md"
-dateModified: Fri, 20 Nov 2026 04:00:00 GMT
-itemCount: 349
-generator: antenna/0.0.28
+dateModified: Fri, 20 Nov 2026 22:29:26 GMT
+itemCount: 370
+generator: antenna/0.1.0
 ---
 
 # Urban Farm
+
+## [From Empanadas to a Noodle Stir Fry, Here’s How to Make Your Thanksgiving Leftovers More Exciting](https://sunset.com/food-wine/holidays-occasions/thanksgiving-leftover-recipes)
+
+via Sunset Magazine - Living in the West · 2026-11-20
+
+It's just not Thanksgiving without leftovers. Try these recipes for some great ways to reinvent Thanksgiving leftovers.
+
+## [What Those Strange Worms Crawling Out of California Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-california-bathroom-drains-actually-are/)
+
+via Yard Life blog · 2026-11-20
+
+California homeowners sometimes discover something unusual while cleaning a bathroom: tiny, threadlike creatures moving around a shower drain, clinging to ...
+
+[Read more](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-california-bathroom-drains-actually-are/#more-69761 "What Those Strange Worms Crawling Out of California Bathroom Drains Actually Are")
+
+The post [What Those Strange Worms Crawling Out of California Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-california-bathroom-drains-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Strange Worms Crawling Out of Arizona Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-arizona-bathroom-drains-actually-are/)
+
+via Yard Life blog · 2026-11-20
+
+Arizona homeowners may not associate household pest problems with bathroom plumbing, especially in a state known for its dry climate. ...
+
+[Read more](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-arizona-bathroom-drains-actually-are/#more-69754 "What Those Strange Worms Crawling Out of Arizona Bathroom Drains Actually Are")
+
+The post [What Those Strange Worms Crawling Out of Arizona Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-arizona-bathroom-drains-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Strange Worms Crawling Out of Florida Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-florida-bathroom-drains-actually-are/)
+
+via Yard Life blog · 2026-11-20
+
+Florida bathrooms deal with a combination of conditions that can make small household pests surprisingly persistent. Warm temperatures, frequent showers, ...
+
+[Read more](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-florida-bathroom-drains-actually-are/#more-69747 "What Those Strange Worms Crawling Out of Florida Bathroom Drains Actually Are")
+
+The post [What Those Strange Worms Crawling Out of Florida Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-florida-bathroom-drains-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Strange Worms Crawling Out of Texas Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-texas-bathroom-drains-actually-are/)
+
+via Yard Life blog · 2026-11-20
+
+Texas homeowners are accustomed to finding insects in unexpected places, especially during the long stretches of warm weather that characterize ...
+
+[Read more](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-texas-bathroom-drains-actually-are/#more-69741 "What Those Strange Worms Crawling Out of Texas Bathroom Drains Actually Are")
+
+The post [What Those Strange Worms Crawling Out of Texas Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-texas-bathroom-drains-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Strange Worms Crawling Out of Georgia Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-georgia-bathroom-drains-actually-are/)
+
+via Yard Life blog · 2026-11-20
+
+A bathroom can have a plumbing problem without showing the usual signs of one. The sink may drain normally, the ...
+
+[Read more](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-georgia-bathroom-drains-actually-are/#more-69735 "What Those Strange Worms Crawling Out of Georgia Bathroom Drains Actually Are")
+
+The post [What Those Strange Worms Crawling Out of Georgia Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-georgia-bathroom-drains-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Strange Worms Crawling Out of Pennsylvania Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-pennsylvania-bathroom-drains-actually-are/)
+
+via Yard Life blog · 2026-11-20
+
+Pennsylvania homes experience plenty of changes throughout the year, but one household mystery can appear regardless of the season. Small, ...
+
+[Read more](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-pennsylvania-bathroom-drains-actually-are/#more-69728 "What Those Strange Worms Crawling Out of Pennsylvania Bathroom Drains Actually Are")
+
+The post [What Those Strange Worms Crawling Out of Pennsylvania Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-pennsylvania-bathroom-drains-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Strange Worms Crawling Out of North Carolina Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-north-carolina-bathroom-drains-actually-are/)
+
+via Yard Life blog · 2026-11-20
+
+Bathroom plumbing usually gives homeowners few reasons to look closely at what happens beneath the drain cover. Water disappears, the ...
+
+[Read more](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-north-carolina-bathroom-drains-actually-are/#more-69721 "What Those Strange Worms Crawling Out of North Carolina Bathroom Drains Actually Are")
+
+The post [What Those Strange Worms Crawling Out of North Carolina Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-north-carolina-bathroom-drains-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Strange Worms Crawling Out of Virginia Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-virginia-bathroom-drains-actually-are/)
+
+via Yard Life blog · 2026-11-20
+
+The bathroom drain is one of the few places in a home where water, organic debris, and microorganisms meet every ...
+
+[Read more](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-virginia-bathroom-drains-actually-are/#more-69714 "What Those Strange Worms Crawling Out of Virginia Bathroom Drains Actually Are")
+
+The post [What Those Strange Worms Crawling Out of Virginia Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-virginia-bathroom-drains-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Strange Worms Crawling Out of New York Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-new-york-bathroom-drains-actually-are/)
+
+via Yard Life blog · 2026-11-20
+
+Not every unusual creature found in a New York bathroom has entered from outdoors. Sometimes, the first sign of an ...
+
+[Read more](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-new-york-bathroom-drains-actually-are/#more-69707 "What Those Strange Worms Crawling Out of New York Bathroom Drains Actually Are")
+
+The post [What Those Strange Worms Crawling Out of New York Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-new-york-bathroom-drains-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Strange Worms Crawling Out of Ohio Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-ohio-bathroom-drains-actually-are/)
+
+via Yard Life blog · 2026-11-20
+
+The first sign of a drain fly problem in an Ohio bathroom may not be a flying insect at all. ...
+
+[Read more](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-ohio-bathroom-drains-actually-are/#more-69699 "What Those Strange Worms Crawling Out of Ohio Bathroom Drains Actually Are")
+
+The post [What Those Strange Worms Crawling Out of Ohio Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-ohio-bathroom-drains-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What To Do About Woody Stems on Your Christmas Cactus](https://gardenerspath.com/plants/succulents/woody-christmas-cactus/)
+
+via The Gardener's Path · 2026-11-19
+
+Tropical Christmas cactus is a relatively easy houseplant to grow. Native to the rainforests of South America, it thrives with indirect sunlight in organically-rich, well-draining potting medium. The fleshy stems are green and segmented, but sometimes they turn brown and become woody. Read on to learn what this means.
+
+The post [What To Do About Woody Stems on Your Christmas Cactus](https://gardenerspath.com/plants/succulents/woody-christmas-cactus/) appeared first on [Gardener's Path](https://gardenerspath.com).
+
+## [You Can Actually Repair a House in GTA6—But How Realistic Is It?](https://www.familyhandyman.com/article/gta6-home-improvement-jobs/)
+
+via Family Handyman Blog · 2026-11-19
+
+GTA6 let's you take a break from a life of crime to make some much-needed home repairs on Jason and Lucia's house.
+
+The post [You Can Actually Repair a House in GTA6—But How Realistic Is It?](https://www.familyhandyman.com/article/gta6-home-improvement-jobs/) appeared first on [Family Handyman](https://www.familyhandyman.com).
+
+## [If You See a Taco Bell With THIS On It, Here’s What It Means](https://www.familyhandyman.com/article/taco-bell-open-metal-frame/)
+
+via Family Handyman Blog · 2026-11-19
+
+The open metal frame on some new Taco Bell buildings looks unfinished, but it's intentional. Here's how it fits into the Kitchen X design.
+
+The post [If You See a Taco Bell With THIS On It, Here’s What It Means](https://www.familyhandyman.com/article/taco-bell-open-metal-frame/) appeared first on [Family Handyman](https://www.familyhandyman.com).
+
+## [What Actually Happens When Semi-Trucks Stop at Weigh Stations?](https://www.familyhandyman.com/article/what-actually-happens-when-semi-trucks-stop-at-weigh-stations/)
+
+via Family Handyman Blog · 2026-11-19
+
+Truck weigh stations check more than weight. Learn how the process works, what inspectors look for, and why some trucks drive past.
+
+The post [What Actually Happens When Semi-Trucks Stop at Weigh Stations?](https://www.familyhandyman.com/article/what-actually-happens-when-semi-trucks-stop-at-weigh-stations/) appeared first on [Family Handyman](https://www.familyhandyman.com).
+
+## [The Safest Way to Shovel Snow, According to Experts](https://www.familyhandyman.com/article/shovel-snow-safely/)
+
+via Family Handyman Blog · 2026-11-19
+
+Avoid injury with these expert-backed snow shoveling safety tips.
+
+The post [The Safest Way to Shovel Snow, According to Experts](https://www.familyhandyman.com/article/shovel-snow-safely/) appeared first on [Family Handyman](https://www.familyhandyman.com).
+
+## [7 Surfaces You Should Never Use Ice Melt On](https://www.familyhandyman.com/article/surfaces-melting-salt/)
+
+via Family Handyman Blog · 2026-11-19
+
+Avoid damaging salt-sensitive outdoor surfaces with these expert-backed suggestions.
+
+The post [7 Surfaces You Should Never Use Ice Melt On](https://www.familyhandyman.com/article/surfaces-melting-salt/) appeared first on [Family Handyman](https://www.familyhandyman.com).
+
+## [Experts Say These Simple Home Changes Can Make Your Space Less Gloomy in the Winter](https://sunset.com/home-garden/design/make-home-less-gloomy-in-winter)
+
+via Sunset Magazine - Living in the West · 2026-11-19, updated 2026-11-20
+
+From brighter bulbs to better evening routines, sleep experts share simple ways to make your home feel cozier during winter time.
+
+## [Chefs Share Their Genius Ingredient Substitution Hacks That Will Save Your Thanksgiving Meal](https://sunset.com/food-wine/ingredient-substitutions)
+
+via Sunset Magazine - Living in the West · 2026-11-19, updated 2026-11-20
+
+A common Thanksgiving mishap is running out of a basic pantry ingredient. Chefs share some ingredient substitutions that will save your meal.
+
+## [It’s Time to Give That Tired Retaining Wall a Fall Upgrade](https://sunset.com/home-garden/landscaping/fall-upgrade-for-retaining-walls)
+
+via Sunset Magazine - Living in the West · 2026-11-19, updated 2026-11-20
+
+Retaining walls may be built to hold things up, but they don’t have to look like an afterthought. Here’s how to make yours feel more at home in the garden this fall.
+
+## [These Thanksgiving Dishes Are Often an Afterthought—and That’s a Big Mistake](https://sunset.com/food-wine/underrated-thanksgiving-dishes)
+
+via Sunset Magazine - Living in the West · 2026-11-19, updated 2026-11-20
+
+On Thanksgiving Day, the emphasis is always on the turkey, but chefs say not to forget about these overlooked dishes.
+
+## [Homepage 2025](https://sunset.com/)
+
+via Sunset Magazine - Living in the West · 2026-11-19, updated 2026-11-20
+
+Outdoor Adventure, Road Trips, Travel Tips, WildLands The West Shore Is Lake Tahoe’s Best-Kept Secret—Save This Itinerary for Your Next Visit Old Tahoe lives on at the West Shore. [Read More](https://sunset.com/)
+
+## [Professional Chefs Say This Is How You’re Overcomplicating Thanksgiving](https://sunset.com/food-wine/how-people-complicate-thanksgiving)
+
+via Sunset Magazine - Living in the West · 2026-11-19, updated 2026-11-20
+
+We asked professional chefs for the things that people overcomplicate on Thanksgiving so you can avoid them and host with ease this year.
+
+## [Chefs Swear by These Thanksgiving Shortcuts from Trader Joe’s](https://sunset.com/food-wine/trader-joes-thanksgiving-shortcuts)
+
+via Sunset Magazine - Living in the West · 2026-11-19, updated 2026-11-20
+
+Don't feel like you need to make everything from scratch. Chefs share their favorite Thanksgiving shortcuts.
+
+## [6 Fall Design Trends Experts Are Obsessing Over](https://sunset.com/home-garden/design/fall-design-trends-2026)
+
+via Sunset Magazine - Living in the West · 2026-11-19, updated 2026-11-20
+
+With cooler months approaching, designers are sharing their favorite fall design trends this year to refresh your space.
 
 ## [What Those Tiny Worms Crawling Around Michigan Bathroom Drains Actually Are](https://ownyardlife.com/what-those-tiny-worms-crawling-around-michigan-bathroom-drains-actually-are/)
 
@@ -111,7 +313,7 @@ The post [What Those Tiny Worms Crawling Around Louisiana Bathroom Drains Actual
 
 ## [How to Acclimate Plants for Winter Indoors](https://gardenerspath.com/plants/houseplants/acclimate-plants-indoors/)
 
-via The Gardener's Path · 2026-11-18
+via The Gardener's Path · 2026-11-18, updated 2026-11-19
 
 If you take some of your houseplants outside to spend the summer months on the patio or in the garden, you'll need to plan ahead before you bring them back indoors. As the temperatures drop, follow these top tips for acclimating your plants to the indoor environment to ensure a smooth transition. Read more now.
 
@@ -125,11 +327,11 @@ Diagonal parking spaces can make parking easier, but there's a trade-off. Learn 
 
 The post [The Reason Some Parking Lots Have Angled Spaces Instead of Straight Ones](https://www.familyhandyman.com/article/parking-lots-angled-spaces/) appeared first on [Family Handyman](https://www.familyhandyman.com).
 
-## [These Thanksgiving Dishes Are Often an Afterthought—and That’s a Big Mistake](https://sunset.com/food-wine/underrated-thanksgiving-dishes)
+## [Professional Chefs Share Their Biggest Thanksgiving Pet Peeves](https://sunset.com/food-wine/chefs-thanksgiving-pet-peeves)
 
-via Sunset Magazine - Living in the West · 2026-11-18, updated 2026-11-19
+via Sunset Magazine - Living in the West · 2026-11-18, updated 2026-11-20
 
-On Thanksgiving Day, the emphasis is always on the turkey, but chefs say not to forget about these overlooked dishes.
+It’s no surprise that professional chefs have strong opinions about Thanksgiving. They shared their biggest pet peeves to avoid.
 
 ## [Farm to School – How California Connects Farms and Schools](https://californiagrown.org/blog/what-is-farm-to-school-california/)
 
@@ -157,57 +359,33 @@ The post [Spork Food Hub Links California Farms to Big Buyers](https://californi
 
 ## [These Advent Calendars Make the Countdown to Christmas Even Better](https://sunset.com/lifestyle/shopping/best-advent-calendars)
 
-via Sunset Magazine - Living in the West · 2026-11-18, updated 2026-11-19
+via Sunset Magazine - Living in the West · 2026-11-18, updated 2026-11-20
 
 From morning coffee to evening pampering, these advent calendars calendars will bring a little holiday fun.
 
 ## [The West Shore Is Lake Tahoe’s Best-Kept Secret—Save This Itinerary for Your Next Visit](https://sunset.com/travel/outdoor-adventure/west-shore-lake-tahoe-things-to-do)
 
-via Sunset Magazine - Living in the West · 2026-11-18, updated 2026-11-19
+via Sunset Magazine - Living in the West · 2026-11-18, updated 2026-11-20
 
 The West Shore has always offered a different pace in Lake Tahoe. Here's where to stay, drink, eat, and visit in Lake Tahoe's West Shore.
 
 ## [This Is the Secret to a Successful Thanksgiving Gathering](https://sunset.com/food-wine/how-to-simplify-thanksgiving)
 
-via Sunset Magazine - Living in the West · 2026-11-18, updated 2026-11-19
+via Sunset Magazine - Living in the West · 2026-11-18, updated 2026-11-20
 
 The key to hosting a successful Thanskgiving is keeping things simple. Professional chefs share how to simplify Thanksgiving.
 
 ## [25 Last-Minute Thanksgiving Prep Tips from Professional Chefs](https://sunset.com/food-wine/last-minute-thanksgiving-tips)
 
-via Sunset Magazine - Living in the West · 2026-11-18, updated 2026-11-19
+via Sunset Magazine - Living in the West · 2026-11-18, updated 2026-11-20
 
 Don't stress while prepping and cooking your Thanksgiving meal. Professional chefs share their best last-minute Thanksgiving tips.
 
-## [Professional Chefs Say This Is How You’re Overcomplicating Thanksgiving](https://sunset.com/food-wine/how-people-complicate-thanksgiving)
-
-via Sunset Magazine - Living in the West · 2026-11-18, updated 2026-11-19
-
-We asked professional chefs for the things that people overcomplicate on Thanksgiving so you can avoid them and host with ease this year.
-
-## [Chefs Swear by These Thanksgiving Shortcuts from Trader Joe’s](https://sunset.com/food-wine/trader-joes-thanksgiving-shortcuts)
-
-via Sunset Magazine - Living in the West · 2026-11-18, updated 2026-11-19
-
-Don't feel like you need to make everything from scratch. Chefs share their favorite Thanksgiving shortcuts.
-
 ## [I Survived Survival School, and Here’s What I Learned to Take with Me on a Hike](https://sunset.com/travel/hiking-survival-kit)
 
-via Sunset Magazine - Living in the West · 2026-11-18, updated 2026-11-19
+via Sunset Magazine - Living in the West · 2026-11-18, updated 2026-11-20
 
 Even if you're just going on a short hike, you need to be prepared for an emergency. Here's what to pack in your hiking survival kit.
-
-## [Chefs Share Their Genius Ingredient Substitution Hacks That Will Save Your Thanksgiving Meal](https://sunset.com/food-wine/ingredient-substitutions)
-
-via Sunset Magazine - Living in the West · 2026-11-18, updated 2026-11-19
-
-A common Thanksgiving mishap is running out of a basic pantry ingredient. Chefs share some ingredient substitutions that will save your meal.
-
-## [Homepage 2025](https://sunset.com/)
-
-via Sunset Magazine - Living in the West · 2026-11-18, updated 2026-11-19
-
-Home Tours, Decorating & Design How This Living Room ADU Became Los Angeles’ Hottest Cafe What was supposed to be a gathering space for friends and family quickly became a third space for community. [Read More](https://sunset.com/)
 
 ## [10 Porcupine Secrets Most New Hampshire Residents Never Knew](https://ownyardlife.com/10-porcupine-secrets-most-new-hampshire-residents-never-knew/)
 
@@ -319,7 +497,7 @@ The post [18 Kitchen Hacks Our Readers Swear By](https://www.familyhandyman.com/
 
 ## [Why Is My Christmas Cactus Turning Yellow?](https://gardenerspath.com/plants/succulents/christmas-cactus-yellow/)
 
-via The Gardener's Path · 2026-11-17, updated 2026-11-18
+via The Gardener's Path · 2026-11-17, updated 2026-11-19
 
 Tropical Christmas cactus is a rainforest epiphyte with beautiful blooms that has become a popular houseplant. It thrives in indirect sunlight, and organically-rich, well-draining potting medium. It has green segmented stems that sometimes turn yellow. Read on to find out why this happens and what you can do about it.
 
@@ -335,31 +513,31 @@ The post [What It Really Means When Your Mayor Awards Someone the “Key to the 
 
 ## [These Are the Only Thanksgiving Travel Tips You Need This Year](https://sunset.com/travel/thanksgiving-travel-tips)
 
-via Sunset Magazine - Living in the West · 2026-11-17, updated 2026-11-19
+via Sunset Magazine - Living in the West · 2026-11-17, updated 2026-11-20
 
 These are the tried-and-true holiday season travel tips from a seasoned traveler that'll make the Thanksgiving season seamless.
 
 ## [Let Someone Else Cook: Where to Get Thanksgiving Dinner in the West](https://sunset.com/food-wine/restaurants/west-coast-restaurants-thanksgiving-2026)
 
-via Sunset Magazine - Living in the West · 2026-11-17, updated 2026-11-19
+via Sunset Magazine - Living in the West · 2026-11-17, updated 2026-11-20
 
 Spend less time cooking and more time celebrating this Thanksgiving. These restaurants in the western U.S. are serving Thanksgiving dinner.
 
 ## [The A-Frame Getaways You Can Book Right Now](https://sunset.com/travel/road-trips/a-frame-vacation-rentals)
 
-via Sunset Magazine - Living in the West · 2026-11-17, updated 2026-11-19
+via Sunset Magazine - Living in the West · 2026-11-17, updated 2026-11-20
 
 The steep roofline, wall of windows, and snow practicality make A-frames the best mountain getaway. Book these A-frame vacation rentals now.
 
 ## [A Landscape Tour of the New Wallis Annenberg Wildlife Crossing](https://sunset.com/home-garden/landscaping/wallis-annenberg-wildlife-crossing-landscaping)
 
-via Sunset Magazine - Living in the West · 2026-11-17, updated 2026-11-19
+via Sunset Magazine - Living in the West · 2026-11-17, updated 2026-11-20
 
 The Wallis Annenberg Wildlife Crossing will be more than just a walkway for animals, it's a living bridge reconnecting wildlife habitats.
 
 ## [This Is What Chefs Would Never Serve at Thanksgiving](https://sunset.com/food-wine/what-chefs-would-never-serve-at-thanksgiving)
 
-via Sunset Magazine - Living in the West · 2026-11-17, updated 2026-11-19
+via Sunset Magazine - Living in the West · 2026-11-17, updated 2026-11-20
 
 We asked professional chefs what they would never serve at Thanksgiving. They did not hold back and their answers might surprise you.
 
@@ -667,7 +845,7 @@ Beaches get all the love, but lakes are a great option, especially if you have a
 
 ## [7 Tips for Planting Hellebore Seeds](https://gardenerspath.com/plants/flowers/hellebore-seed-planting-tips/)
 
-via The Gardener's Path · 2026-11-15, updated 2026-11-18
+via The Gardener's Path · 2026-11-15, updated 2026-11-19
 
 Are you longing for color in the late winter garden, when most plants are still dormant? Hardy flowering hellebores fit the bill. Easy to sow, they reward with an abundance of sweetly nodding blossoms in an array of colors. Chase the winter blues away with these 7 tips for planting hellebore seeds. Read more now.
 
@@ -777,7 +955,7 @@ The post [What Leaves Bloody Feathers Across Georgia Backyards](https://ownyardl
 
 ## [How to Protect Rosemary Plants in Winter](https://gardenerspath.com/plants/herbs/protect-winter-rosemary/)
 
-via The Gardener's Path · 2026-11-14, updated 2026-11-18
+via The Gardener's Path · 2026-11-14, updated 2026-11-19
 
 If you’re growing rosemary in your garden, you might be wondering if it can survive the winter outside. Depending on your growing zone, there are a number of measures you can take to help your plants through the colder months, including mulching and potting-up. Learn how to protect your rosemary plants this winter.
 
@@ -905,7 +1083,7 @@ The post [10 Black Widow Spider Secrets Most Arizona Residents Never Knew](https
 
 ## [How to Prepare Your Trees For Winter](https://gardenerspath.com/plants/landscape-trees/prep-trees-winter/)
 
-via The Gardener's Path · 2026-11-13, updated 2026-11-18
+via The Gardener's Path · 2026-11-13, updated 2026-11-19
 
 Freezing temperatures, harsh winds, and heavy snow can all take a toll on trees, leaving them with cracked bark, browned foliage, and broken limbs. The good news is that a little preparation in the fall can go a long way toward keeping them healthy until spring. Learn how to prepare your trees for winter in this guide.
 
@@ -1071,7 +1249,7 @@ The post [A Colorful Legacy: How Babe Farms Changed the Way We Eat Vegetables](h
 
 ## [Learn How to Grow and Care for Cedar Trees](https://gardenerspath.com/plants/landscape-trees/grow-cedars/)
 
-via The Gardener's Path · 2026-11-12, updated 2026-11-18
+via The Gardener's Path · 2026-11-12, updated 2026-11-19
 
 Cedar trees (Cedrus spp.) add beautiful texture and shape to the garden. As evergreen conifers, they hold that appeal year-round, so it’s easy to see why they’re so popular as a focal point in the landscape. Learn how to grow and care for these majestic conifers in this comprehensive guide. Read more now.
 
@@ -1259,7 +1437,7 @@ The post [From Grove to Bottle: The Art of Olive Oil at Kiler Ridge](https://cal
 
 ## [17 of the Best Flowering Houseplants for Low Light](https://gardenerspath.com/plants/houseplants/low-light-flowering-houseplants/)
 
-via The Gardener's Path · 2026-11-11, updated 2026-11-18
+via The Gardener's Path · 2026-11-11, updated 2026-11-19
 
 Are you looking for a flowering houseplant for a low-light spot in your home? It can be hard to find plants that flower indoors, let alone in low light conditions. In this guide, we introduce 17 excellent options for low-light flowering houseplants from colorful African violets to succulent kalanchoe plants. Read more.
 
@@ -1435,7 +1613,7 @@ From slow-simmered dinners to showstopping holiday feasts, ZLINE's enameled cast
 
 ## [How to Keep Rats Out of Your Garden](https://gardenerspath.com/how-to/disease-and-pests/control-rats/)
 
-via The Gardener's Path · 2026-11-10, updated 2026-11-18
+via The Gardener's Path · 2026-11-10, updated 2026-11-19
 
 Nobody wants rats around, whether it's in the home or garden. They eat your crops, get into places you don't want them, and spread disease. Once you see a rat, it's likely that there are dozens more that you can't see, which means it's definitely time to act before an infestation gets worse. This guide explains how.
 
@@ -1707,7 +1885,7 @@ Decorating for the holidays? Let me introduce to you Scandinavian-Cowboy design,
 
 ## [How to Grow Medusa’s Head Euphorbia](https://gardenerspath.com/plants/succulents/grow-medusas-head-euphorbia/)
 
-via The Gardener's Path · 2026-11-08, updated 2026-11-18
+via The Gardener's Path · 2026-11-08, updated 2026-11-19
 
 Medusa’s head is a medusoid euphorbia, a distinctive type of succulent with a rounded central core ringed by a fringe of long, snake-like branches. Hardy in Zones 9 to 12, it grows well in the landscape but also makes an eye-catching houseplant. Learn how to grow and care for Medusa’s head in this guide. Read more now.
 

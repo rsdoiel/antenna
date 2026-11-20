@@ -1,17 +1,141 @@
 ---
 title: "Healthy Eats"
-pubDate: Thu, 19 Nov 2026 13:57:24 GMT
+pubDate: Fri, 20 Nov 2026 14:26:22 GMT
 aggregateOf: "food.md"
-dateModified: Fri, 20 Nov 2026 04:00:00 GMT
-itemCount: 297
-generator: antenna/0.0.28
+dateModified: Fri, 20 Nov 2026 22:29:26 GMT
+itemCount: 312
+generator: antenna/0.1.0
 ---
 
 # Healthy Eats
 
+## [Weekly Coffee News: Rocket Showroom in Geneva + New Labor Abuse Case](https://dailycoffeenews.com/2026/11/20/weekly-coffee-news-rocket-showroom-in-geneva-new-labor-abuse-case/)
+
+via Daily Coffee News · 2026-11-20
+
+![Rocket Espresso](https://dailycoffeenews.com/wp-content/uploads/2026/11/Rocket-Espresso-620x414.jpg)
+
+Rocket Introduces Modular Retail Concept With Chronic Coffee in Geneva Italian espresso machine maker Rocket Espresso has introduced a new retail concept inside Chronic Coffee Roasters at Rue Argand 2...
+
+## [New Product: Bellwether’s Updated Shop Roaster Gets Rebuilt On The Inside and Out](https://freshcup.com/new-product-bellwethers-updated-shop-roaster-gets-rebuilt-on-the-inside-and-out/)
+
+via The Fresh Cup · 2026-11-20, updated 2026-11-18
+
+Roasting coffee usually means vents, permits, and construction. Bellwether’s updated Shop Roaster model only needs a standard outlet.
+
+The post [New Product: Bellwether’s Updated Shop Roaster Gets Rebuilt On The Inside and Out](https://freshcup.com/new-product-bellwethers-updated-shop-roaster-gets-rebuilt-on-the-inside-and-out/) appeared first on [Fresh Cup](https://freshcup.com).
+
+## [Sticky Miso Chicken and More Recipes We Made This Week](https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-november-2026)
+
+via Bon Appetet · 2026-11-20
+
+Like a make-ahead lentil salad and apple snacking cake.
+
+## [Sheet-Pan Cider Vinegar Chicken](https://www.bonappetit.com/recipe/sheet-pan-cider-vinegar-chicken)
+
+via Bon Appetet · 2026-11-20
+
+A one-pan dinner for cozy fall evenings in.
+
+## [The Most-Saved Recipes on Bon Appétit This Week](https://www.bonappetit.com/gallery/most-saved-recipes-november-2026)
+
+via Bon Appetet · 2026-11-20
+
+Like green lentil soup and pumpkin overnight oats.
+
+## [10 Holiday Groceries Our Editors Are Stocking Up on This Year](https://www.tasteofhome.com/collection/best-holiday-groceries-2026/)
+
+via Taste of Home · 2026-11-19
+
+From the perfect cracker for a cheese board to the best puff pastry for holiday baking, these are the grocery store finds our editors can't get enough of this holiday season.
+
+The post [10 Holiday Groceries Our Editors Are Stocking Up on This Year](https://www.tasteofhome.com/collection/best-holiday-groceries-2026/) appeared first on [Taste of Home](https://www.tasteofhome.com).
+
+## [BA's Best Lasagna](https://www.bonappetit.com/recipe/ba-best-lasagna)
+
+via Bon Appetet · 2026-11-19, updated 2026-11-20
+
+Layers of ragù and béchamel are all that’s right in this world.
+
+## [9 Best Coffee Subscriptions, Reviewed & Reordered (2026)](https://www.bonappetit.com/story/best-coffee-subscriptions)
+
+via Bon Appetet · 2026-11-19, updated 2026-11-20
+
+Never run out of beans again.
+
+## [What Is Hybrid Bakeware? Here’s What Home Bakers Need to Know](https://www.tasteofhome.com/article/what-is-hybrid-bakeware/)
+
+via Taste of Home · 2026-11-19
+
+The right baking pan can be the difference between a cake that releases cleanly and one that falls apart. Here's why hybrid bakeware is catching our attention.
+
+The post [What Is Hybrid Bakeware? Here’s What Home Bakers Need to Know](https://www.tasteofhome.com/article/what-is-hybrid-bakeware/) appeared first on [Taste of Home](https://www.tasteofhome.com).
+
+## [Which Thanksgiving Foods Belong in the Same Bite?](https://www.tasteofhome.com/article/thanksgiving-food-combinations/)
+
+via Taste of Home · 2026-11-19
+
+Some Thanksgiving food combinations are obvious. Others might earn you some questioning looks at the dinner table.
+
+The post [Which Thanksgiving Foods Belong in the Same Bite?](https://www.tasteofhome.com/article/thanksgiving-food-combinations/) appeared first on [Taste of Home](https://www.tasteofhome.com).
+
+## [Bad Bunny, Great Coffee: Brewing On Tour With The International Superstar](https://sprudge.com/bad-bunny-great-coffee-brewing-on-tour-with-the-international-superstar-1250962.html)
+
+via The Sprudge · 2026-11-19
+
+**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Abner Roldan of Café Comunión on serving coffee at the Bad Bunny world tour.**
+
+## [Is Pink Turkey Safe to Eat?](https://www.tasteofhome.com/article/is-pink-turkey-safe-to-eat/)
+
+via Taste of Home · 2026-11-19
+
+Pink turkey doesn't necessarily mean your Thanksgiving feast is ruined. Here's how to know if your bird is safe to eat so you can stay calm and turkey on.
+
+The post [Is Pink Turkey Safe to Eat?](https://www.tasteofhome.com/article/is-pink-turkey-safe-to-eat/) appeared first on [Taste of Home](https://www.tasteofhome.com).
+
+## [11 Leftover Turkey Sandwiches to Look Forward To](https://www.bonappetit.com/gallery/leftover-turkey-sandwiches)
+
+via Bon Appetet · 2026-11-19, updated 2026-11-20
+
+Objectively, the best part of a holiday roast is the overstuffed sandwich the next day.
+
+## [HexClad Bakeware Review: This Set Is So Sturdy and Nonstick, I’m Ditching Parchment Paper](https://www.tasteofhome.com/article/hexclad-bakeware-review/)
+
+via Taste of Home · 2026-11-19
+
+As an avid baker, I've been waiting for such a sturdy set.
+
+The post [HexClad Bakeware Review: This Set Is So Sturdy and Nonstick, I’m Ditching Parchment Paper](https://www.tasteofhome.com/article/hexclad-bakeware-review/) appeared first on [Taste of Home](https://www.tasteofhome.com).
+
+## [The Padrón Pepper Planting Guide](https://pepperscale.com/padron-pepper-planting/)
+
+via Pepper Scale · 2026-11-19
+
+When to start Padrón pepper seeds, when to plant them out, and when to pick them for blistering, with a zip code planner built on NOAA frost data.
+
+## [How to Make Whipped Cream Perfectly, Every Time](https://www.bonappetit.com/story/how-to-make-whipped-cream)
+
+via Bon Appetet · 2026-11-19, updated 2026-11-20
+
+Soft peaks, stiff peaks, sweetened or not—and three ways to get there.
+
+## [The Tucson Restaurant Turning Cactus Into Fine Dining](https://www.bonappetit.com/story/tucson-restaurant-ursa-desert-foraging-tasting-menu)
+
+via Bon Appetet · 2026-11-19, updated 2026-11-20
+
+At Ursa in Tucson, the Sonoran Desert is the pantry and inspiration for inventive meals full of foraged plants
+
+## [Brazil’s Record Coffee Harvest Comes with Quality and Stock Concerns](https://dailycoffeenews.com/2026/11/19/brazils-record-coffee-harvest-comes-with-quality-and-stock-concerns/)
+
+via Daily Coffee News · 2026-11-19, updated 2026-11-20
+
+![Brazil Coffee Market report](https://dailycoffeenews.com/wp-content/uploads/2026/11/Brazil-Coffee-Market-report-620x400.png)
+
+Brazil’s completed 2026/27 coffee harvest is now estimated at a record-high 72.5 million 60-kilogram bags, up 15.1% from the previous market year, although heavy rains reduced arabica quality, according to...
+
 ## [Three Questions with “The Little Bean That Grew to Brew” Author and Artist Wendra Lynne](https://dailycoffeenews.com/2026/11/19/three-questions-with-the-little-bean-that-grew-to-brew-author-and-artist-wendra-lynne/)
 
-via Daily Coffee News · 2026-11-19
+via Daily Coffee News · 2026-11-19, updated 2026-11-20
 
 ![The Little Bean That Grew to Brew Wendra](https://dailycoffeenews.com/wp-content/uploads/2026/11/The-Little-Bean-That-Grew-to-Brew-Wendra-1-620x438.jpeg)
 
@@ -37,13 +161,13 @@ The post [Yangnyeom Sauce (Korean Fried Chicken Sauce)](https://www.chilipepperm
 
 ## [It’s Coffee Advent Calendar Season For 2026—Have You Ordered Yet?](https://sprudge.com/its-coffee-advent-calendar-season-for-2026-have-you-ordered-yet-1633963.html)
 
-via The Sprudge · 2026-11-19, updated 2026-11-18
+via The Sprudge · 2026-11-19
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A list of some of the best coffee advent calendars for 2026.**
 
 ## [Maple-Sausage Breakfast Casserole](https://www.bonappetit.com/recipe/maple-sausage-breakfast-casserole)
 
-via Bon Appetet · 2026-11-19
+via Bon Appetet · 2026-11-19, updated 2026-11-20
 
 Eggy, cheesy, and just a smidge sweet, this will become your new brunch go-to.
 
@@ -83,7 +207,7 @@ It takes just 25 minutes to make chicken broccoli Alfredo by combining veggies a
 
 ## [How We Brought a Taste of Maine to Bon Appétit LIVE](https://www.bonappetit.com/story/bon-appetit-live-2026-visit-maine-recap)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-19
+via Bon Appetet · 2026-11-18, updated 2026-11-20
 
 From shucking oysters and making creamy lobster dip to baking wild blueberry cornmeal shortcakes, here’s how Visit Maine brought New England flavor to the event.
 
@@ -97,7 +221,7 @@ The post [This Is the Best Way to Use Leftover Canned Pumpkin](https://www.taste
 
 ## [The Best Frozen Lasagna, According to Our Taste Test](https://www.bonappetit.com/story/the-best-frozen-lasagna-taste-test)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-19
+via Bon Appetet · 2026-11-18, updated 2026-11-20
 
 We tried nine store-bought lasagnas from Rao’s, Stouffer’s, Trader Joe’s, and more. These are the ones we’d stock in our freezers.
 
@@ -111,19 +235,13 @@ The post [The Secret to Better Gravy Is Already In Your Pantry](https://www.tast
 
 ## [The Best Air Fryers For Faster, Crispier Cooking (2026)](https://www.bonappetit.com/story/best-air-fryers-reviewed)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-19
+via Bon Appetet · 2026-11-18, updated 2026-11-20
 
 Here’s what our editors recommend for crunchy fries, crispy chicken skin, blistered veggies, and more.
 
-## [Bad Bunny, Great Coffee: Brewing On Tour With The International Superstar](https://sprudge.com/bad-bunny-great-coffee-brewing-on-tour-with-the-international-superstar-1250962.html)
-
-via The Sprudge · 2026-11-18
-
-**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Abner Roldan of Café Comunión on serving coffee at the Bad Bunny world tour.**
-
 ## [31 Thanksgiving Dinner Alternatives to Turkey](https://www.bonappetit.com/gallery/alternative-thanksgiving-dinner)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-19
+via Bon Appetet · 2026-11-18, updated 2026-11-20
 
 Like pork inasal, stuffing-crusted fish, or a beautiful cabbage galette.
 
@@ -135,19 +253,19 @@ It will be a miracle if this colorful, festive and irresistibly sweet Hanukkah b
 
 ## [Red-Wine-Braised Short Ribs](https://www.bonappetit.com/recipe/red-wine-braised-short-ribs)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-19
+via Bon Appetet · 2026-11-18, updated 2026-11-20
 
 Tender, fall-off-the-bone beef ribs make any meal a special occasion.
 
 ## [Rotterdam’s A Matter of Concrete Just Released Their Own Hi-Fi Speaker](https://sprudge.com/rotterdams-a-matter-of-concrete-just-released-their-own-hi-fi-speaker-1626371.html)
 
-via The Sprudge · 2026-11-18
+via The Sprudge · 2026-11-18, updated 2026-11-19
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. The AMOC-FFF-01 is limited to an initial run of just 10.**
 
 ## [FDA Revokes Some Methylene Chloride Use, But Decaf Decision Still Pending](https://dailycoffeenews.com/2026/11/18/fda-revokes-some-methylene-chloride-use-but-decaf-decision-still-pending/)
 
-via Daily Coffee News · 2026-11-18, updated 2026-11-19
+via Daily Coffee News · 2026-11-18, updated 2026-11-20
 
 ![decaf coffee](https://dailycoffeenews.com/wp-content/uploads/2026/11/decaf-coffee-620x414.jpg)
 
@@ -155,7 +273,7 @@ The U.S. Food and Drug Administration (FDA) is revoking several authorizations f
 
 ## [Fair Trade USA Raising Minimum Coffee Prices to New Fairtrade Levels](https://dailycoffeenews.com/2026/11/18/fair-trade-usa-raising-minimum-coffee-prices-to-new-fairtrade-levels/)
 
-via Daily Coffee News · 2026-11-18, updated 2026-11-19
+via Daily Coffee News · 2026-11-18, updated 2026-11-20
 
 ![green coffee](https://dailycoffeenews.com/wp-content/uploads/2026/11/green-coffee-620x446.jpg)
 
@@ -171,7 +289,7 @@ The post [The Smile Test Will Tell You if Your Hospitality Training Works](https
 
 ## [Roasting Partner Launches an Operating System for Roasters](https://dailycoffeenews.com/2026/11/18/roasting-partner-launches-an-operating-system-for-roasters/)
 
-via Daily Coffee News · 2026-11-18, updated 2026-11-19
+via Daily Coffee News · 2026-11-18, updated 2026-11-20
 
 ![Roasting Partner 4](https://dailycoffeenews.com/wp-content/uploads/2026/11/Roasting-Partner-4-620x426.jpeg)
 
@@ -179,25 +297,25 @@ A new software platform called Roasting Partner opened to outside coffee roastin
 
 ## [Caramelized Cabbage Pasta](https://www.bonappetit.com/recipe/caramelized-cabbage-pasta)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-19
+via Bon Appetet · 2026-11-18, updated 2026-11-20
 
 The easiest way to cram an entire head of cabbage into dinner.
 
 ## [Hating Turkey Doesn’t Make You Cool](https://www.bonappetit.com/story/in-defense-of-turkey)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-19
+via Bon Appetet · 2026-11-18, updated 2026-11-20
 
 It’s called Turkey Day for a reason. Because it’s actually really good.
 
 ## [Best Cutting Boards for Slicing, Dicing, and Chopping (2026)](https://www.bonappetit.com/story/best-cutting-boards)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-19
+via Bon Appetet · 2026-11-17, updated 2026-11-20
 
 Wood, rubber, or plastic—we’ve got a recommendation for every home cook. Plus, tips for cleaning and caring for your board.
 
 ## [31 Cranberry Recipes for Thanksgiving and Beyond](https://www.bonappetit.com/gallery/cranberry-recipes)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-19
+via Bon Appetet · 2026-11-17, updated 2026-11-20
 
 Like cranberry-mustard chicken and an electric pink meringue pie.
 
@@ -211,49 +329,49 @@ The post [Is Cottage Cheese Good for You?](https://www.tasteofhome.com/article/i
 
 ## [Behind the Scenes of the Inaugural Bon Appétit LIVE](https://www.bonappetit.com/story/bon-appetit-live-2026-recap)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-19
+via Bon Appetet · 2026-11-17, updated 2026-11-20
 
 Top chefs, Test Kitchen editors, and passionate home cooks gathered for an unforgettable day of hands-on pie and lobster classes, tastings, and panels.
 
 ## [The World’s Chili Capitals: The Best Cities For Spicy Food](https://pepperscale.com/worlds-best-cities-for-spicy-food/)
 
-via Pepper Scale · 2026-11-17
+via Pepper Scale · 2026-11-17, updated 2026-11-19
 
 The best cities in the world for spicy food, from Chengdu to Nabeul to Espelette, sorted by local peppers, protected names, history, heritage listings and festivals.
 
 ## [Maple-Glazed Carrots](https://www.bonappetit.com/recipe/classic-roasted-carrots)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-19
+via Bon Appetet · 2026-11-17, updated 2026-11-20
 
 With their sweet-hot kick from maple syrup and red chile flakes, these oven-roasted carrots will have everyone asking for more.
 
 ## [The Best Cast-Iron Skillets for a Lifetime of Cooking (2026)](https://www.bonappetit.com/story/best-cast-iron-skillet)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-19
+via Bon Appetet · 2026-11-17, updated 2026-11-20
 
 Dependable, reliable, and virtually indestructible.
 
 ## [Listen to BA Bake Club's Podcast on Salt Bread](https://www.bonappetit.com/story/listen-to-ba-bake-clubs-podcast-on-salt-bread)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-19
+via Bon Appetet · 2026-11-17, updated 2026-11-20
 
 A viral sensation poses a fresh challenge for the Club as deputy food editor Hana Asbrink shares her salty, flaky, buttery recipe for the famous rolls.
 
 ## [BA's Best Pecan Pie](https://www.bonappetit.com/recipe/bas-best-pecan-pie)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-19
+via Bon Appetet · 2026-11-17, updated 2026-11-20
 
 No booze, no chocolate, no hard-to-find ingredients—just classic pecan pie.
 
 ## [Turning Coffee Grounds Into Biodiesel And Other Eco-Alternatives](https://sprudge.com/turning-coffee-grounds-into-biodiesel-and-other-eco-alternatives-1625139.html)
 
-via The Sprudge · 2026-11-17, updated 2026-11-18
+via The Sprudge · 2026-11-17, updated 2026-11-19
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A new process allows for the extraction of oils for biodiesel while keeping the remaining structure in tact.**
 
 ## [Study Says Genes May Determine Coffee’s Link to Parkinson’s Risk](https://dailycoffeenews.com/2026/11/17/study-says-genes-may-determine-coffees-link-to-parkinsons-risk/)
 
-via Daily Coffee News · 2026-11-17, updated 2026-11-19
+via Daily Coffee News · 2026-11-17, updated 2026-11-20
 
 ![drinking coffee](https://dailycoffeenews.com/wp-content/uploads/2026/10/drinking-coffee-620x419.jpg)
 
@@ -261,25 +379,25 @@ While drinking coffee has been occasionally associated with reduced risk of Park
 
 ## [How to Blind-Bake Pie Crust—and When You Need To](https://www.bonappetit.com/story/how-to-blind-bake-pie-crust)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-19
+via Bon Appetet · 2026-11-17, updated 2026-11-20
 
 It’s time to erase “soggy bottom” from your vocabulary.
 
 ## [Naomi Hand Scrub Gets Rid of Garlic Smells and Softens Your Skin](https://www.bonappetit.com/story/naomi-hand-scrub-review)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-19
+via Bon Appetet · 2026-11-17, updated 2026-11-20
 
 It feels like a little luxury (but is half the price of Aesop).
 
 ## [The Sprudge Guide To Coffee In Riga, Latvia](https://sprudge.com/the-sprudge-guide-to-coffee-in-riga-latvia-1465293.html)
 
-via The Sprudge · 2026-11-17, updated 2026-11-18
+via The Sprudge · 2026-11-17, updated 2026-11-19
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Where to drink coffee in Riga, Latvia.**
 
 ## [Design Details: A Pavilion Renewed at Hygge Cafe in Jakarta, Indonesia](https://dailycoffeenews.com/2026/11/17/design-details-a-pavilion-renewed-at-hygge-cafe-in-jakarta-indonesia/)
 
-via Daily Coffee News · 2026-11-17, updated 2026-11-19
+via Daily Coffee News · 2026-11-17, updated 2026-11-20
 
 ![Hygge Cafe BSD Indonesia 6](https://dailycoffeenews.com/wp-content/uploads/2026/09/Hygge-Cafe-BSD-Indonesia-6-620x414.jpg)
 
@@ -287,7 +405,7 @@ Welcome to Design Details, an ongoing editorial feature in Daily Coffee News foc
 
 ## [Founder Eileen Rinaldi Comes Full Circle at Ritual Coffee’s New San Francisco Cafe](https://dailycoffeenews.com/2026/11/17/founder-eileen-rinaldi-comes-full-circle-at-ritual-coffees-new-san-francisco-cafe/)
 
-via Daily Coffee News · 2026-11-17, updated 2026-11-19
+via Daily Coffee News · 2026-11-17, updated 2026-11-20
 
 ![Ritual Coffee California pourover](https://dailycoffeenews.com/wp-content/uploads/2026/11/Ritual-Coffee-California-pourover-620x413.jpg)
 
@@ -295,7 +413,7 @@ San Francisco-based roaster-retailer Ritual Coffee opened a new cafe in the city
 
 ## [America’s Chili Capitals: The Best US Cities For Spicy Food](https://pepperscale.com/best-us-cities-for-spicy-food/)
 
-via Pepper Scale · 2026-11-17
+via Pepper Scale · 2026-11-17, updated 2026-11-19
 
 The best US cities for spicy food, sorted by the things we could check: a local pepper, how far back the tradition goes, official recognition, festivals and search data.
 
@@ -333,13 +451,13 @@ The post [The Best Subscription Boxes for Women: Sure to Wow the Women in Your L
 
 ## [BioPouches Expands Flexible Coffee Packaging Solutions As Brands Shift Toward Smaller Production Runs](https://sprudge.com/biopouches-expands-flexible-coffee-packaging-solutions-as-brands-shift-toward-smaller-production-runs-1625594.html)
 
-via The Sprudge · 2026-11-16, updated 2026-11-18
+via The Sprudge · 2026-11-16, updated 2026-11-19
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. BioPouches offers smaller order sizes for coffee packaging.**
 
 ## [The Best Drip Coffee Makers, Test Kitchen Vetted & Editor Approved (2026)](https://www.bonappetit.com/story/best-drip-coffee-makers)
 
-via Bon Appetet · 2026-11-16, updated 2026-11-19
+via Bon Appetet · 2026-11-16, updated 2026-11-20
 
 Coffee doesn’t need to be hard to be delicious.
 
@@ -357,7 +475,7 @@ We started with a [peanut butter blossom cookie recipe](https://www.tasteofhome.
 
 ## [Send Us Your Holiday Coffees For A Festive Podcast Cupping!](https://sprudge.com/send-us-your-holiday-coffees-for-a-festive-podcast-cupping-1605731.html)
 
-via The Sprudge · 2026-11-16, updated 2026-11-18
+via The Sprudge · 2026-11-16, updated 2026-11-19
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Friends, Romans, countrymen, lend me your blends.**
 
@@ -401,13 +519,13 @@ The post [Santa, We’ve Been Good: The New Stanley x FARM Rio Holiday Collectio
 
 ## [Cherry Love Makes Its US Debut With Archetype, A Limited-Edition Honduras Blind Cupping Box](https://sprudge.com/cherry-love-makes-its-us-debut-with-archetype-a-limited-edition-honduras-blind-cupping-box-1602430.html)
 
-via The Sprudge · 2026-11-16, updated 2026-11-18
+via The Sprudge · 2026-11-16, updated 2026-11-19
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Just 150 boxes will be available for $65, including shipping.**
 
 ## [Forced Labor Import Bans Are Reaching the Coffee Sector. Are Companies Ready?](https://dailycoffeenews.com/2026/11/16/forced-labor-import-bans-are-reaching-the-coffee-sector-are-companies-ready/)
 
-via Daily Coffee News · 2026-11-16, updated 2026-11-19
+via Daily Coffee News · 2026-11-16, updated 2026-11-20
 
 ![picked coffee drying fermentation](https://dailycoffeenews.com/wp-content/uploads/2026/11/picked-coffee-drying-fermentation-620x414.jpg)
 
@@ -423,7 +541,7 @@ Continually rising like its velvety, golden-brown namesake, Tennessee-based Crem
 
 ## [Drinking Coffee May Actually Change Your Gut Physiology](https://sprudge.com/drinking-coffee-may-actually-change-your-gut-physiology-1601728.html)
 
-via The Sprudge · 2026-11-16, updated 2026-11-18
+via The Sprudge · 2026-11-16, updated 2026-11-19
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. More research about coffee's impact on your gut.**
 
@@ -437,13 +555,13 @@ The post [Coffee News Club: November 16th](https://freshcup.com/coffee-news-club
 
 ## [Herby Sheet-Pan Meatballs With Feta](https://www.bonappetit.com/recipe/herby-sheet-pan-meatballs-feta)
 
-via Bon Appetet · 2026-11-16, updated 2026-11-19
+via Bon Appetet · 2026-11-16, updated 2026-11-20
 
 Oven-baked, mess-free, and topped with so much cheese.
 
 ## [What Are Thanksgiving Sides That Don't Need to Go in the Oven?](https://www.bonappetit.com/story/dear-bon-appetit-november-16-no-oven-thanksgiving-sides)
 
-via Bon Appetet · 2026-11-16, updated 2026-11-19
+via Bon Appetet · 2026-11-16, updated 2026-11-20
 
 Air fryer brussels sprouts, adult mac and cheese, steamed sweet potatoes, and more handpicked recipes.
 
@@ -469,13 +587,13 @@ via Isebel Eats · 2026-11-16
 
 ## [Your Coffee Is The Prettiest Coffee Of All The Coffee](https://sprudge.com/your-coffee-is-the-prettiest-coffee-of-all-the-coffee-1605714.html)
 
-via The Sprudge · 2026-11-15, updated 2026-11-18
+via The Sprudge · 2026-11-15, updated 2026-11-19
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster's Village.**
 
 ## [5 Cozy Meals Our Editors Make With Boxed Stuffing](https://www.bonappetit.com/story/cozy-meals-our-editors-make-with-boxed-stuffing)
 
-via Bon Appetet · 2026-11-15, updated 2026-11-19
+via Bon Appetet · 2026-11-15, updated 2026-11-20
 
 Like one-pan schmaltzy chicken and weeknight pasta with savory crumbs.
 
@@ -493,7 +611,7 @@ The post [Thanksgiving Appetizer Recipes](https://www.closetcooking.com/thanksgi
 
 ## [What a 43-Year-Old Server and Drag Queen Eats on $63K CAD in Toronto, Ontario](https://www.bonappetit.com/story/food-diary-server-toronto-ontario)
 
-via Bon Appetet · 2026-11-14, updated 2026-11-19
+via Bon Appetet · 2026-11-14, updated 2026-11-20
 
 Daily Americanos can't help with a stubborn cold, but take-out sushi and a Little Caesars Chicago Deep Dish Meat Treat pizza are good for the soul.
 
@@ -613,21 +731,9 @@ Forest Coffee’s Reforest program pays Colombian producers in Caldas a premium 
 
 The post [Seeds of Change in Colombia’s Caldas Department](https://freshcup.com/seeds-of-change-in-colombias-caldas-department/) appeared first on [Fresh Cup](https://freshcup.com).
 
-## [Bob's Chicken Salad and More Recipes We Made This Week](https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-november-2026)
-
-via Bon Appetet · 2026-11-13, updated 2026-11-19
-
-Like pumpkin black bean enchiladas and gluten-free banana muffins.
-
-## [The Most-Saved Recipes on Bon Appétit This Week](https://www.bonappetit.com/gallery/most-saved-recipes-november-2026)
-
-via Bon Appetet · 2026-11-13, updated 2026-11-19
-
-Like BA’s Best green bean casserole and black-bean-stuffed poblanos.
-
 ## [The Fresno Pepper Planting Guide](https://pepperscale.com/fresno-pepper-planting/)
 
-via Pepper Scale · 2026-11-13, updated 2026-11-17
+via Pepper Scale · 2026-11-13, updated 2026-11-19
 
 How to grow Fresno peppers: when to start the seeds, when to plant out, spacing, containers, water and feeding, and when to pick, with a zip code planner and a U.S. season map.
 
@@ -755,7 +861,7 @@ The post [Korean Braised Potatoes (Gamja Jorim)](https://www.closetcooking.com/k
 
 ## [The Trinidad Moruga Scorpion Planting Guide](https://pepperscale.com/trinidad-moruga-scorpion-planting/)
 
-via Pepper Scale · 2026-11-12, updated 2026-11-17
+via Pepper Scale · 2026-11-12, updated 2026-11-19
 
 When to start Trinidad Moruga Scorpion seeds, how to get them to sprout, when to plant out, and how to water, feed, pollinate and pick this slow super-hot, with a zip code planner.
 
@@ -1099,7 +1205,7 @@ The post [Chicken and Wild Rice Casserole](https://www.closetcooking.com/chicken
 
 ## [The Chinese 5-Color Pepper Planting Guide](https://pepperscale.com/chinese-5-color-pepper-planting/)
 
-via Pepper Scale · 2026-11-08, updated 2026-11-17
+via Pepper Scale · 2026-11-08, updated 2026-11-19
 
 When to start Chinese 5-color pepper seeds, when to plant them out, how to water, feed and pick them, and how to grow one in a pot, with a zip code planner.
 
@@ -1135,7 +1241,7 @@ The post [Thanksgiving Breakfast Recipes](https://www.closetcooking.com/thanksgi
 
 ## [The Red Savina Habanero Planting Guide](https://pepperscale.com/red-savina-habanero-planting/)
 
-via Pepper Scale · 2026-11-07, updated 2026-11-17
+via Pepper Scale · 2026-11-07, updated 2026-11-19
 
 When to start Red Savina habanero seeds, when to plant them out, how to water, feed and pick them, and how to grow one in a pot, with a zip code planner.
 
@@ -1411,7 +1517,7 @@ The post [The 10 Best Aldi Finds of November Include the Cutest Stocking Stuffer
 
 ## [The Bulgarian Carrot Pepper Planting Guide](https://pepperscale.com/bulgarian-carrot-pepper-planting/)
 
-via Pepper Scale · 2026-11-05, updated 2026-11-17
+via Pepper Scale · 2026-11-05, updated 2026-11-19
 
 When to start Bulgarian carrot pepper seeds, when to plant them out, how to water, feed and pick them, and whether they'll ripen where you live, with a zip code planner.
 
@@ -1851,7 +1957,7 @@ via The Sprudge · 2026-11-01, updated 2026-11-06
 
 ## [The Fatalii Pepper Planting Guide](https://pepperscale.com/fatalii-pepper-planting/)
 
-via Pepper Scale · 2026-11-01, updated 2026-11-17
+via Pepper Scale · 2026-11-01, updated 2026-11-19
 
 When to start fatalii pepper seeds, when to plant them out, how to grow them in a pot, and whether they'll ripen where you live, with a zip code planner built on NOAA frost data.
 
@@ -1913,7 +2019,7 @@ Like creamy fondue beans, stuffing-crusted fish, and more cozy meals for chilly 
 
 ## [The Hinkelhatz Pepper Planting Guide](https://pepperscale.com/hinkelhatz-pepper-planting/)
 
-via Pepper Scale · 2026-10-31, updated 2026-11-17
+via Pepper Scale · 2026-10-31, updated 2026-11-19
 
 When to start Hinkelhatz pepper seeds, when to plant them out, how to grow them in a pot and bring them in for the winter, and whether they'll ripen where you live.
 

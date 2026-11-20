@@ -1,17 +1,41 @@
 ---
 title: "Retro"
-pubDate: Wed, 18 Nov 2026 17:34:35 GMT
+pubDate: Fri, 20 Nov 2026 14:00:29 GMT
 aggregateOf: "retro_computing.md"
-dateModified: Fri, 20 Nov 2026 04:00:10 GMT
-itemCount: 49
-generator: antenna/0.0.28
+dateModified: Fri, 20 Nov 2026 22:29:36 GMT
+itemCount: 53
+generator: antenna/0.1.0
 ---
 
 # Retro
 
+## [PTASM, a modern bug fixed crossplatform version of TASM32 for 6502](http://retro.hansotten.nl/ptasm-a-modern-bug-fixed-crossplatform-version-of-tasm32-for-6502/)
+
+via Hans Otten's Retro blog · 2026-11-20
+
+I have been using TASM32 for a very long time. A simple DOS based assembler, called from Notepad++ as a simple IDE setup. Convenient for small 6502 projects, let it create Intel Hex, load in the Simulator, test and debug. Papertape format needed a further step, with the Convert8bitHex programs (CLI or GUI now) It \[…\]
+
+## [b.log 2026/11/19 - I am SO done with this shit. \[NSFW\]](https://heyrick.eu/blog/entry/20261119)
+
+via Richard Murray's blog · 2026-11-19
+
+I am SO done with this shit. \[NSFW\]
+
+## [MOS TECH 9 DIGIT BASIC FOR KIM V1.1 or KB-9](http://retro.hansotten.nl/mos-tech-9-digit-basic-for-kim-or-kb-9/)
+
+via Hans Otten's Retro blog · 2026-11-19, updated 2026-11-20
+
+This is my story about a first and a second version of KB-9 or, as it is officially called, MOS Technology 6502, 9 DIGIT BASIC by MICROSOFT, Copyright 1977 MOS TECH 9 DIGIT BASIC FOR KIM COPYRIGHT 1977 BY MICROSOFT, 1977 Inside the binary you can find the version number: V1.1. In 1978 I bought \[…\]
+
+## [System76 Announces the New Thelio Prime Desktop](http://www.linux-magazine.com/Online/News/System76-Announces-the-New-Thelio-Prime-Desktop)
+
+via Linux Magazine · 2026-11-19, updated 2026-11-20
+
+The makers of the Thelio desktop line and Pop!\_OS have released a powerful small form factor PC.
+
 ## [A Must See KDE Documentary](http://www.linux-magazine.com/Online/News/A-Must-See-KDE-Documentary)
 
-via Linux Magazine · 2026-11-18, updated 2026-11-19
+via Linux Magazine · 2026-11-18, updated 2026-11-20
 
 It doesn't matter what desktop environment you prefer, this KDE documentary should top your list of things to watch.
 
@@ -29,19 +53,19 @@ Rougols's November talk (appropriately enough for 42 people) was a double bill f
 
 ## [b.log 2026/11/16 - TeaBASIC v0.02](https://heyrick.eu/blog/entry/20261116)
 
-via Richard Murray's blog · 2026-11-16
+via Richard Murray's blog · 2026-11-16, updated 2026-11-19
 
 TeaBASIC v0.02
 
 ## [VIDEO PLUS card](http://retro.hansotten.nl/video-plus-card/)
 
-via Hans Otten's Retro blog · 2026-11-16
+via Hans Otten's Retro blog · 2026-11-16, updated 2026-11-20
 
 I acquired a VIDEO PLUS card. A video card for AIM 65 KIM or SYM-1. This is one of the cards produced by The Computerist (of MICRO journal fame!) in the PLUS range. A convenient moment to upgrade the pages on the The Computerist. Standard layout, all scans corrected and newly build to PDF’s.Also the \[…\]
 
 ## [b.log 2026/11/15 - TeaBASIC and NTCs, The Frenchest thing ever, Storage prices, Interlude, I bought a sewing machine!](https://heyrick.eu/blog/entry/20261115)
 
-via Richard Murray's blog · 2026-11-15, updated 2026-11-16
+via Richard Murray's blog · 2026-11-15, updated 2026-11-19
 
 TeaBASIC and NTCs, The Frenchest thing ever, Storage prices, Interlude, I bought a sewing machine!
 
@@ -59,13 +83,13 @@ The RISC OS London Show took place only a few weeks ago, and the big news that c
 
 ## [b.log 2026/11/13 - AI can be useful.](https://heyrick.eu/blog/entry/20261113)
 
-via Richard Murray's blog · 2026-11-13, updated 2026-11-16
+via Richard Murray's blog · 2026-11-13, updated 2026-11-19
 
 AI can be useful.
 
 ## [This Week on The Analog Antiquarian](https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/)
 
-via Digital Antiquarian · 2026-11-13, updated 2026-11-16
+via Digital Antiquarian · 2026-11-13, updated 2026-11-20
 
 Opus 7: Titus Andronicus
 
@@ -77,13 +101,13 @@ The November 2026 Rougol meeting is on Monday.
 
 ## [b.log 2026/11/12 - Jitters.](https://heyrick.eu/blog/entry/20261112)
 
-via Richard Murray's blog · 2026-11-12, updated 2026-11-16
+via Richard Murray's blog · 2026-11-12, updated 2026-11-19
 
 Jitters.
 
 ## [New KORA Linux Distro to Harness the Power of Local AI](http://www.linux-magazine.com/Online/News/New-KORA-Linux-Distro-to-Harness-the-Power-of-Local-AI)
 
-via Linux Magazine · 2026-11-12, updated 2026-11-19
+via Linux Magazine · 2026-11-12, updated 2026-11-20
 
 The development team behind CyanogenMod, Android, and Playtron unveils KORA, a Linux distribution built specifically for AI nerds.
 
@@ -95,13 +119,13 @@ If you are Bristol based and free tonight, Chris Hall is the featured speaker at
 
 ## [Chessmate for the KIM-1](http://retro.hansotten.nl/chessmate-for-the-kim-1/)
 
-via Hans Otten's Retro blog · 2026-11-12, updated 2026-11-16
+via Hans Otten's Retro blog · 2026-11-12, updated 2026-11-20
 
 Since I have a well documented source of the Chessmate ROMs and made a VT100 version of Microchess I made a VT100 version of the VT100. You can download source and papertape version here. ; The Chessmate engine from CHESSMATE.ASM (reconstructed source of ; the 4K ROM, Hans Otten) with the opening book of OPENBOOK.ASM \[…\]
 
 ## [Chessmate ROM reverse engineered](http://retro.hansotten.nl/chessmate-rom-reverse-engineered/)
 
-via Hans Otten's Retro blog · 2026-11-12, updated 2026-11-16
+via Hans Otten's Retro blog · 2026-11-12, updated 2026-11-20
 
 With the aid of the source of Microchess and some detective work, started several years ago, I now have a more thorough commnted source of the Chessmate ROMs. You can download here the source of the main ROM and the openings in the 6530-024 RRIOT ROM. ; ; CHESSMATE.ASM – Commodore Chessmate main ROM ($F000-$FFFF) \[…\]
 
@@ -113,13 +137,13 @@ If you were inspired by the recent London Show (or looking to catch-up on what y
 
 ## [Epic Games Targets Linux for New Launcher](http://www.linux-magazine.com/Online/News/Epic-Games-Targets-Linux-for-New-Launcher)
 
-via Linux Magazine · 2026-11-11, updated 2026-11-19
+via Linux Magazine · 2026-11-11, updated 2026-11-20
 
 The Epic Games new launcher is still in preview, but it looks to land on several Linux distributions.
 
 ## [b.log 2026/11/11 - Stupid, What is this?, gcd.bas fails on actual BASIC, TeaBASIC progresses.](https://heyrick.eu/blog/entry/20261111)
 
-via Richard Murray's blog · 2026-11-11, updated 2026-11-16
+via Richard Murray's blog · 2026-11-11, updated 2026-11-19
 
 Stupid, What is this?, gcd.bas fails on actual BASIC, TeaBASIC progresses.
 
@@ -137,19 +161,19 @@ JWasm is a MASM-compatible assembler that runs under DOS and other operating sys
 
 ## [Microchess for VT100](http://retro.hansotten.nl/microchess-for-vt100/)
 
-via Hans Otten's Retro blog · 2026-11-11, updated 2026-11-16
+via Hans Otten's Retro blog · 2026-11-11, updated 2026-11-20
 
 Microchess for the KIM-1 was one of the first commercial computer games. Sold as listing and later on on cassette. The program runs on a standard KIM-1, using the hex keyboard and seven segment displays. Peter Jennings did a great job! I (Hans Otten) have added a VT100 compatible display routine to the original. A \[…\]
 
 ## [Cubit microprocessor card](http://retro.hansotten.nl/cubit-microprocessor-card/)
 
-via Hans Otten's Retro blog · 2026-11-10, updated 2026-11-16
+via Hans Otten's Retro blog · 2026-11-10, updated 2026-11-20
 
 Control Universal started as a company selling Rockwell microcomputer products (AIM65). Later on they focussed on Acorn (BBC computer). On this page information on some Cubit products, the EPROM programmer and the Cubit microprocessor module for AIM 65. Cubit microprocessor card manual Thanks to Dick Blok for the scans! See also:A demo of the new \[…\]
 
 ## [The classic console corner's CRT changeover](https://oldvcr.blogspot.com/2026/11/the-classic-console-corners-crt.html)
 
-via Old Ventage Computing Research · 2026-11-10, updated 2026-11-19
+via Old Ventage Computing Research · 2026-11-10, updated 2026-11-20
 
 In the corner of the rear Floodgap lab sits a pile of classic game consoles. It used to look like this:
 
@@ -368,7 +392,7 @@ How a childhood memory, a forgotten online service, and two years of reverse eng
 
 ## [b.log 2026/11/08 - Dreary, Initial Public Offering.](https://heyrick.eu/blog/entry/20261108)
 
-via Richard Murray's blog · 2026-11-08, updated 2026-11-16
+via Richard Murray's blog · 2026-11-08, updated 2026-11-19
 
 Dreary, Initial Public Offering.
 
@@ -392,19 +416,19 @@ Here are some of the things that I spotted which happened in the RISC OS Open so
 
 ## [b.log 2026/11/07 - Linguine, TeaBASIC, Texas, One last tweak.](https://heyrick.eu/blog/entry/20261107)
 
-via Richard Murray's blog · 2026-11-07, updated 2026-11-16
+via Richard Murray's blog · 2026-11-07, updated 2026-11-19
 
 Linguine, TeaBASIC, Texas, One last tweak.
 
 ## [Deus Ex](https://www.filfre.net/2026/11/deus-ex/)
 
-via Digital Antiquarian · 2026-11-06, updated 2026-11-16
+via Digital Antiquarian · 2026-11-06, updated 2026-11-20
 
 This article tells part of the story of Warren Spector. A slight shift of focus, and the future could still turn out like Deus Ex after all… — Deus Ex lead writer Sheldon Pacotti, speaking in 2014 The reviews that greeted Ion Storm’s Deus Ex upon its release in June of 2000 ranged along a continuum \[…\]
 
 ## [Fedora 45 Now Available](http://www.linux-magazine.com/Online/News/Fedora-45-Now-Available)
 
-via Linux Magazine · 2026-11-05, updated 2026-11-19
+via Linux Magazine · 2026-11-05, updated 2026-11-20
 
 The latest iteration of Fedora has arrived with Gnome 51 and KDE Plasma 6.8.
 
@@ -416,19 +440,19 @@ WROCC's November speaker was Chris Hughes looking at package managers for RISC O
 
 ## [b.log 2026/11/04 - Close, but no cigar, BabyBASIC.](https://heyrick.eu/blog/entry/20261104)
 
-via Richard Murray's blog · 2026-11-04, updated 2026-11-16
+via Richard Murray's blog · 2026-11-04, updated 2026-11-19
 
 Close, but no cigar, BabyBASIC.
 
 ## [Linux 7.4 is "Much Healthier" Thanks to AI](http://www.linux-magazine.com/Online/News/Linux-7.4-is-Much-Healthier-Thanks-to-AI)
 
-via Linux Magazine · 2026-11-03, updated 2026-11-19
+via Linux Magazine · 2026-11-03, updated 2026-11-20
 
 At nearly 42 million lines, Linux 7.4 is the largest merge in the kernel’s history.
 
 ## [MCS Alpha 1 and Beta 8](http://retro.hansotten.nl/mcs-alpha-1-and-beta-8/)
 
-via Hans Otten's Retro blog · 2026-11-03, updated 2026-11-16
+via Hans Otten's Retro blog · 2026-11-03, updated 2026-11-20
 
 I acquired (again) a MCS Alpha 1. The KIM-1 alike 6502 development system in a case, ready to run. With the processor card on top. First time I had one was in 1979, for a review in the magazine Radio Bulletin. Second time around 2000, sold as part of the big cleanup. And now the \[…\]
 
@@ -446,7 +470,7 @@ The November 2026 WROCC talk is on Wednesday 4th November and starts at 7.45pm o
 
 ## [b.log 2026/11/01 - Gets me to the Church on time (Church on time), TinyBASIC.](https://heyrick.eu/blog/entry/20261101)
 
-via Richard Murray's blog · 2026-11-01, updated 2026-11-16
+via Richard Murray's blog · 2026-11-01, updated 2026-11-19
 
 Gets me to the Church on time (Church on time), TinyBASIC.
 
@@ -458,7 +482,7 @@ October has passed, and November is here – so what’s happening in the world 
 
 ## [b.log 2026/10/31 - Work today, Everything must have AI, Ghosts, Pumpkin.](https://heyrick.eu/blog/entry/20261031)
 
-via Richard Murray's blog · 2026-10-31, updated 2026-11-16
+via Richard Murray's blog · 2026-10-31, updated 2026-11-19
 
 Work today, Everything must have AI, Ghosts, Pumpkin.
 
@@ -470,7 +494,7 @@ Here are some of the things that I spotted which happened in the RISC OS Open so
 
 ## [Working Exploit for a Linux Kernel Flaw Made Public](http://www.linux-magazine.com/Online/News/Working-Exploit-for-a-Linux-Kernel-Flaw-Made-Public)
 
-via Linux Magazine · 2026-10-30, updated 2026-11-19
+via Linux Magazine · 2026-10-30, updated 2026-11-20
 
 Even before a bug received its CVE identifier or an upstream fix, the local privilege escalation vulnerability exploit found its way into the wild.
 
@@ -482,7 +506,7 @@ Time Out London (Elizabethan Edition)
 
 ## [r/opensource Bans AI-Assisted and AI-Related Projects](http://www.linux-magazine.com/Online/News/r-opensource-Bans-AI-Assisted-and-AI-Related-Projects)
 
-via Linux Magazine · 2026-10-30, updated 2026-11-19
+via Linux Magazine · 2026-10-30, updated 2026-11-20
 
 The de facto subreddit for all things open source has not only banned AI-related projects but also users who "don't speak English."
 

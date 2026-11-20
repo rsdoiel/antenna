@@ -1,17 +1,57 @@
 ---
 title: "Small Papers"
-pubDate: Thu, 19 Nov 2026 14:00:00 GMT
+pubDate: Fri, 20 Nov 2026 03:21:59 GMT
 aggregateOf: "small_papers.md"
-dateModified: Fri, 20 Nov 2026 04:00:10 GMT
-itemCount: 85
-generator: antenna/0.0.28
+dateModified: Fri, 20 Nov 2026 22:29:37 GMT
+itemCount: 89
+generator: antenna/0.1.0
 ---
 
 # Small Papers
 
+## [Body camera footage shows how police responded when ICE called for help in North Long Beach](https://lbpost.com/news/immigration/ice-police-help-broke-arm-north-long-beach)
+
+via Long Beach Post · 2026-11-20
+
+![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/19193029/oct-17ice-nlb-screenshot-2026-11-19-at-55553-pm-899592-vupgpl5y-893747-ovhjlq9u-2048x820-236608-xi7bg9bb-074942-zonrhvgz-995975-8b3c6ytm-291132-5wIENUXr-1024x410.jpg)
+
+The footage gives a new, close-up look at a viral incident where ICE agents are accused of breaking a U.S. citizens arm before neighbors surrounded them.
+
+The post [Body camera footage shows how police responded when ICE called for help in North Long Beach](https://lbpost.com/news/immigration/ice-police-help-broke-arm-north-long-beach) appeared first on [Long Beach Post News](https://lbpost.com/news).
+
+## [Police look for hit-and-run driver who rear-ended E-bike on PCH](https://lbpost.com/news/crime/police-look-for-hit-and-run-driver-who-rear-ended-e-bike-on-pch)
+
+via Long Beach Post · 2026-11-19, updated 2026-11-20
+
+![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/19125729/screenshot-2026-11-19-at-125654-pm-035148-mhbl9u5s-070382-T0ayGNZE.png)
+
+After striking the bike from behind, the driver briefly stopped, then drove around the injured cyclist and fled westbound on PCH, police said.
+
+The post [Police look for hit-and-run driver who rear-ended E-bike on PCH](https://lbpost.com/news/crime/police-look-for-hit-and-run-driver-who-rear-ended-e-bike-on-pch) appeared first on [Long Beach Post News](https://lbpost.com/news).
+
+## [LA County Sheriff Robert Luna estimates Olympics security will cost nearly $3B](https://lbpost.com/news/cost-of-olympic-security-taxpayers-sheriff)
+
+via Long Beach Post · 2026-11-19, updated 2026-11-20
+
+![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/19105359/robert-luna-scprbrightspotcdn-525418-dsbql9em-081811-Zdyit70S-1024x683.webp)
+
+The federal government has allocated $1 billion so far for policing the Games. L.A. officials worry that additional costs could fall on the city.
+
+The post [LA County Sheriff Robert Luna estimates Olympics security will cost nearly $3B](https://lbpost.com/news/cost-of-olympic-security-taxpayers-sheriff) appeared first on [Long Beach Post News](https://lbpost.com/news).
+
+## [Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases](https://lbpost.com/news/state/ai-kill-switch-openai-anthropic-california-governor)
+
+via Long Beach Post · 2026-11-19, updated 2026-11-20
+
+![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/19100541/092926-openai-ap-cm-923495-ytmefk6n-418847-QcfdlSyy-1024x683.webp)
+
+California’s governor unveiled sweeping recommendations from a panel of experts on how to make AI systems safer.
+
+The post [Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases](https://lbpost.com/news/state/ai-kill-switch-openai-anthropic-california-governor) appeared first on [Long Beach Post News](https://lbpost.com/news).
+
 ## [LBUSD says it can’t find anything wrong with classrooms where dozens of kids got sick](https://lbpost.com/news/education/mysterious-sickness-long-beach-unified-monroe)
 
-via Long Beach Post · 2026-11-19
+via Long Beach Post · 2026-11-19, updated 2026-11-20
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/10/16134801/monroe-exterior-078354-2cyudrco-637460-HDmfwaCf-1024x679.jpg)
 
@@ -113,19 +153,19 @@ This week was a difficult one that gave many pause.   After all, the passing of
 
 The post [Carrying the Si Se Puede Spirit: Thousands Pay Respect to Dolores Huerta](https://sanfernandosun.com/2026/11/18/carrying-the-si-se-puede-spirit-thousands-pay-respect-to-dolores-huerta/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
 
-## [Port workers strike looks more likely this weekend, shippers say](https://lbpost.com/news/business/trade-transportation/port-strike-when-negotiations-more-likely)
+## [Ports of Long Beach, LA brace for strike that could paralyze most cargo movement](https://lbpost.com/news/business/trade-transportation/port-strike-when-negotiations-more-likely)
 
-via Long Beach Post · 2026-11-18, updated 2026-11-19
+via Long Beach Post · 2026-11-18, updated 2026-11-20
 
-![](https://img.lbpost.com/wp-content/uploads/2020/10/14120900/0929-Helicopter-478.jpg)
+![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/02151158/02nov26-think-bridge-027-851988-pgcuzihn-640572-QMHdBBLZ-1024x584.jpg)
 
-If the strike happens, thousands of longshore workers, clerks and foremen “are expected to honor its picket line, severely disrupting cargo movement at the nation’s largest port complex."
+Economic losses from a strike could grow exponentially with each day it lasts because vessels could not be offloaded and containers could not be cleared from terminals, according to a leading maritime economist.
 
-The post [Port workers strike looks more likely this weekend, shippers say](https://lbpost.com/news/business/trade-transportation/port-strike-when-negotiations-more-likely) appeared first on [Long Beach Post News](https://lbpost.com/news).
+The post [Ports of Long Beach, LA brace for strike that could paralyze most cargo movement](https://lbpost.com/news/business/trade-transportation/port-strike-when-negotiations-more-likely) appeared first on [Long Beach Post News](https://lbpost.com/news).
 
 ## [Rep. Garcia targets Trump family and top officials in early steps toward promised investigations](https://lbpost.com/news/politics/rep-garcia-targets-trump-family-and-top-officials-in-early-steps-toward-promised-investigations)
 
-via Long Beach Post · 2026-11-18, updated 2026-11-19
+via Long Beach Post · 2026-11-18, updated 2026-11-20
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/04135119/04nov26-garcia-299-671099-qvjnptgj-169527-zrPImbCU-1024x747.jpg)
 
@@ -143,7 +183,7 @@ The post [HOROSCOPE](https://sanfernandosun.com/2026/11/17/horoscope-290/) appea
 
 ## [Gunmen fired 70 rounds at victim in gas-station slaying, LBPD says. Eight suspects arrested](https://lbpost.com/news/crime/gunmen-fired-70-rounds-at-victim-in-gas-station-slaying-lbpd-says-eight-suspects-arrested)
 
-via Long Beach Post · 2026-11-18, updated 2026-11-19
+via Long Beach Post · 2026-11-18, updated 2026-11-20
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg)
 
@@ -153,7 +193,7 @@ The post [Gunmen fired 70 rounds at victim in gas-station slaying, LBPD says. Ei
 
 ## [We answer reader questions about Long Beach’s new speed cameras](https://lbpost.com/news/traffic-safety/speed-cameras/speed-camera-reader-questions-faq-long-beach)
 
-via Long Beach Post · 2026-11-17, updated 2026-11-19
+via Long Beach Post · 2026-11-17, updated 2026-11-20
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/10/07122127/07oct26-speed-662-270000-n2dlfubl-609833-5WtLEaNL-1024x585.jpg)
 
@@ -163,7 +203,7 @@ The post [We answer reader questions about Long Beach’s new speed cameras](htt
 
 ## [California bans Waymo autonomous vehicles from state freeways, saying they pose an ‘imminent hazard’](https://lbpost.com/news/business/trade-transportation/california-bans-waymo-autonomous-vehicles-from-state-freeways-saying-they-pose-an-imminent-hazard)
 
-via Long Beach Post · 2026-11-17, updated 2026-11-19
+via Long Beach Post · 2026-11-17, updated 2026-11-20
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/17133224/ap26321709926324-488717-rxxsmlwk-771070-ICIFM8Sd-1024x683.jpg)
 
