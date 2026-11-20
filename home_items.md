@@ -1,8 +1,9 @@
 ---
 title: "Urban Farm"
+description: "Home, garden and urban farm blogs and news."
 pubDate: Fri, 20 Nov 2026 03:00:35 GMT
 aggregateOf: "home.md"
-dateModified: Fri, 20 Nov 2026 22:29:26 GMT
+dateModified: Fri, 20 Nov 2026 22:33:16 GMT
 itemCount: 370
 generator: antenna/0.1.0
 ---

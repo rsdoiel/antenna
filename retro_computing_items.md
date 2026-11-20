@@ -1,8 +1,9 @@
 ---
 title: "Retro"
+description: "Computer history and vintage systems."
 pubDate: Fri, 20 Nov 2026 14:00:29 GMT
 aggregateOf: "retro_computing.md"
-dateModified: Fri, 20 Nov 2026 22:29:36 GMT
+dateModified: Fri, 20 Nov 2026 22:33:23 GMT
 itemCount: 53
 generator: antenna/0.1.0
 ---

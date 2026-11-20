@@ -25,6 +25,7 @@ collections:
       dbName: craft.db
     - title: Healthy Eats
       link: food.xml
+      description: Healthy eats and good eats, with recipes, cooking and food news.
       file: food.md
       generator: other_reading.yaml
       filters:
@@ -33,6 +34,7 @@ collections:
       dbName: food.db
     - title: Urban Farm
       link: home.xml
+      description: Home, garden and urban farm blogs and news.
       file: home.md
       generator: other_reading.yaml
       filters:
@@ -41,6 +43,7 @@ collections:
       dbName: home.db
     - title: Student Paper
       link: journalism.xml
+      description: Student journalism and the fourth estate.
       file: journalism.md
       generator: other_reading.yaml
       filters:
@@ -49,6 +52,7 @@ collections:
       dbName: journalism.db
     - title: GLAM
       link: libraries.xml
+      description: Libraries, archives and museums.
       file: libraries.md
       generator: front_page.yaml
       filters:
@@ -57,6 +61,7 @@ collections:
       dbName: libraries.db
     - title: North America
       link: north_america.xml
+      description: News from across North America.
       file: north_america.md
       generator: front_page.yaml
       filters:
@@ -67,6 +72,7 @@ collections:
       dbName: north_america.db
     - title: Pacific
       link: pacific.xml
+      description: News from Micronesia and the Pacific Rim.
       file: pacific.md
       generator: front_page.yaml
       filters:
@@ -77,6 +83,7 @@ collections:
       dbName: pacific.db
     - title: Retro
       link: retro_computing.xml
+      description: Computer history and vintage systems.
       file: retro_computing.md
       generator: other_reading.yaml
       filters:
@@ -85,6 +92,7 @@ collections:
       dbName: retro_computing.db
     - title: STEM
       link: science_and_technology.xml
+      description: Science and technology news and blogs.
       file: science_and_technology.md
       generator: other_reading.yaml
       filters:
@@ -93,6 +101,7 @@ collections:
       dbName: science_and_technology.db
     - title: Small Papers
       link: small_papers.xml
+      description: Small regional papers, blogs and news.
       file: small_papers.md
       generator: other_reading.yaml
       filters:
@@ -111,6 +120,7 @@ collections:
       dbName: socal_north.db
     - title: Writing
       link: writing.xml
+      description: Writing and writing tools.
       file: writing.md
       generator: other_reading.yaml
       filters:
@@ -127,6 +137,7 @@ collections:
       dbName: pages.db
     - title: ebooks.md
       link: ebooks.xml
+      description: New eBook releases.
       file: ebooks.md
       generator: home_page.yaml
       filters:

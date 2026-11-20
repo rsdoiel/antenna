@@ -1,8 +1,9 @@
 ---
 title: "Writing"
+description: "Writing and writing tools."
 pubDate: Tue, 17 Nov 2026 16:15:38 GMT
 aggregateOf: "writing.md"
-dateModified: Fri, 20 Nov 2026 22:29:37 GMT
+dateModified: Fri, 20 Nov 2026 22:33:24 GMT
 itemCount: 6
 generator: antenna/0.1.0
 ---

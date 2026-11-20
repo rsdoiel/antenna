@@ -3,8 +3,9 @@
   <atom:link href="https://rsdoiel.github.io/antenna/writing.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title><![CDATA[Writing]]></title>
+    <description><![CDATA[Writing and writing tools.]]></description>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>20 Nov 26 14:29 -0800</lastBuildDate>
+    <lastBuildDate>20 Nov 26 14:33 -0800</lastBuildDate>
     <generator>antenna/0.1.0</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>

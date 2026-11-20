@@ -1,8 +1,9 @@
 ---
 title: "GLAM"
+description: "Libraries, archives and museums."
 pubDate: Fri, 20 Nov 2026 10:30:24 GMT
 aggregateOf: "libraries.md"
-dateModified: Fri, 20 Nov 2026 22:29:28 GMT
+dateModified: Fri, 20 Nov 2026 22:33:16 GMT
 itemCount: 69
 generator: antenna/0.1.0
 ---

@@ -1,8 +1,9 @@
 ---
 title: "Small Papers"
+description: "Small regional papers, blogs and news."
 pubDate: Fri, 20 Nov 2026 03:21:59 GMT
 aggregateOf: "small_papers.md"
-dateModified: Fri, 20 Nov 2026 22:29:37 GMT
+dateModified: Fri, 20 Nov 2026 22:33:23 GMT
 itemCount: 89
 generator: antenna/0.1.0
 ---

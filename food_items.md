@@ -1,8 +1,9 @@
 ---
 title: "Healthy Eats"
+description: "Healthy eats and good eats, with recipes, cooking and food news."
 pubDate: Fri, 20 Nov 2026 14:26:22 GMT
 aggregateOf: "food.md"
-dateModified: Fri, 20 Nov 2026 22:29:26 GMT
+dateModified: Fri, 20 Nov 2026 22:33:15 GMT
 itemCount: 312
 generator: antenna/0.1.0
 ---

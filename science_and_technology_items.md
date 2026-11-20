@@ -1,8 +1,9 @@
 ---
 title: "STEM"
+description: "Science and technology news and blogs."
 pubDate: Fri, 20 Nov 2026 13:10:00 GMT
 aggregateOf: "science_and_technology.md"
-dateModified: Fri, 20 Nov 2026 22:29:37 GMT
+dateModified: Fri, 20 Nov 2026 22:33:23 GMT
 itemCount: 304
 generator: antenna/0.1.0
 ---

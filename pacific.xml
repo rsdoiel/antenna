@@ -3,8 +3,9 @@
   <atom:link href="https://rsdoiel.github.io/antenna/pacific.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title><![CDATA[Pacific]]></title>
+    <description><![CDATA[News from Micronesia and the Pacific Rim.]]></description>
     <link>https://rsdoiel.github.io/antenna/pacific.xml</link>
-    <lastBuildDate>20 Nov 26 14:29 -0800</lastBuildDate>
+    <lastBuildDate>20 Nov 26 14:33 -0800</lastBuildDate>
     <generator>antenna/0.1.0</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>

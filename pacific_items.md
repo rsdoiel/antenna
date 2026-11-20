@@ -1,8 +1,9 @@
 ---
 title: "Pacific"
+description: "News from Micronesia and the Pacific Rim."
 pubDate: Fri, 20 Nov 2026 14:27:03 GMT
 aggregateOf: "pacific.md"
-dateModified: Fri, 20 Nov 2026 22:29:34 GMT
+dateModified: Fri, 20 Nov 2026 22:33:21 GMT
 itemCount: 7034
 generator: antenna/0.1.0
 ---

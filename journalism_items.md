@@ -1,8 +1,9 @@
 ---
 title: "Student Paper"
+description: "Student journalism and the fourth estate."
 pubDate: Fri, 20 Nov 2026 14:00:46 GMT
 aggregateOf: "journalism.md"
-dateModified: Fri, 20 Nov 2026 22:29:27 GMT
+dateModified: Fri, 20 Nov 2026 22:33:16 GMT
 itemCount: 487
 generator: antenna/0.1.0
 ---

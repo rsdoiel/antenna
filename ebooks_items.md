@@ -1,8 +1,9 @@
 ---
 title: "ebooks.md"
+description: "New eBook releases."
 pubDate: Sun, 15 Nov 2026 10:51:23 GMT
 aggregateOf: "ebooks.md"
-dateModified: Fri, 20 Nov 2026 22:29:37 GMT
+dateModified: Fri, 20 Nov 2026 22:33:24 GMT
 itemCount: 188
 generator: antenna/0.1.0
 ---
