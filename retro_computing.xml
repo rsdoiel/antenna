@@ -4,10 +4,49 @@
   <channel>
     <title><![CDATA[Retro]]></title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>19 Nov 26 06:46 -0800</lastBuildDate>
+    <lastBuildDate>20 Nov 26 06:46 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>PTASM, a modern bug fixed crossplatform version of TASM32 for 6502</title>
+      <link>http://retro.hansotten.nl/ptasm-a-modern-bug-fixed-crossplatform-version-of-tasm32-for-6502/</link>
+      <description>
+        <![CDATA[I have been using TASM32 for a very long time. A simple DOS based assembler, called from Notepad++ as a simple IDE setup. Convenient for small 6502 projects, let it create Intel Hex, load in the Simulator, test and debug. Papertape format needed a further step, with the Convert8bitHex programs (CLI or GUI now) It [&#8230;]]]>
+      </description>
+      <source:markdown>I have been using TASM32 for a very long time. A simple DOS based assembler, called from Notepad++ as a simple IDE setup. Convenient for small 6502 projects, let it create Intel Hex, load in the Simulator, test and debug. Papertape format needed a further step, with the Convert8bitHex programs (CLI or GUI now) It \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=22875</guid>
+      <category>6502</category>
+      <pubDate>Fri, 20 Nov 2026 14:00:29 +0000</pubDate>
+    </item>    <item>
+      <title>b.log 2026/11/19 - I am SO done with this shit. [NSFW]</title>
+      <link>https://heyrick.eu/blog/entry/20261119</link>
+      <description>
+        <![CDATA[I am SO done with this shit. [NSFW]]]>
+      </description>
+      <source:markdown>I am SO done with this shit. \[NSFW\]</source:markdown>
+      <guid>cid://https://heyrick.eu/blog/entry/20261119</guid>
+      <pubDate>Thu, 19 Nov 2026 19:13:57 +0000</pubDate>
+    </item>    <item>
+      <title>MOS TECH 9 DIGIT BASIC FOR KIM V1.1 or KB-9</title>
+      <link>http://retro.hansotten.nl/mos-tech-9-digit-basic-for-kim-or-kb-9/</link>
+      <description>
+        <![CDATA[This is my story about a first and a second version of KB-9 or, as it is officially called, MOS Technology 6502, 9 DIGIT BASIC by MICROSOFT, Copyright 1977 MOS TECH 9 DIGIT BASIC FOR KIM COPYRIGHT 1977 BY MICROSOFT, 1977 Inside the binary you can find the version number: V1.1. In 1978 I bought [&#8230;]]]>
+      </description>
+      <source:markdown>This is my story about a first and a second version of KB-9 or, as it is officially called, MOS Technology 6502, 9 DIGIT BASIC by MICROSOFT, Copyright 1977 MOS TECH 9 DIGIT BASIC FOR KIM COPYRIGHT 1977 BY MICROSOFT, 1977 Inside the binary you can find the version number: V1.1. In 1978 I bought \[…\]</source:markdown>
+      <guid>cid://http://retro.hansotten.nl/?p=22854</guid>
+      <category>6502</category>
+      <pubDate>Thu, 19 Nov 2026 17:24:14 +0000</pubDate>
+    </item>    <item>
+      <title>System76 Announces the New Thelio Prime Desktop</title>
+      <link>http://www.linux-magazine.com/Online/News/System76-Announces-the-New-Thelio-Prime-Desktop</link>
+      <description>
+        <![CDATA[<p>The makers of the Thelio desktop line and Pop!_OS have released a powerful small form factor PC.</p>]]>
+      </description>
+      <source:markdown>The makers of the Thelio desktop line and Pop!\_OS have released a powerful small form factor PC.</source:markdown>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://3e0e395e7ae7e6c85cc6bc0bb839b74b</guid>
+      <pubDate>Thu, 19 Nov 2026 16:31:31 +0000</pubDate>
+    </item>    <item>
       <title>A Must See KDE Documentary</title>
       <link>http://www.linux-magazine.com/Online/News/A-Must-See-KDE-Documentary</link>
       <description>
@@ -928,15 +967,6 @@ In the end, with the new TV all set up, the 1980s can live again in my rear offi
       <guid>cid://https://www.c64os.com/post?p=138</guid>
       <category>Programming Theory</category>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>b.log 2026/10/29 - Enough is enough.</title>
-      <link>https://heyrick.eu/blog/entry/20261029</link>
-      <description>
-        <![CDATA[Enough is enough.]]>
-      </description>
-      <source:markdown>Enough is enough.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20261029</guid>
-      <pubDate>Thu, 29 Oct 2026 19:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
