@@ -12,8 +12,7 @@ title: An Antenna
 | ---------------------------------                 | -------------------------------------------------------------- | ---------- |
 | [SoCal North](socal_north.html)                   | Northern end of Southern California                            | [RSS](socal_north.xml), [OPML](socal_north.opml) |
 | [North America](north_america.html)               | North America                                                  | [RSS](north_america.xml), [OPML](north_america.opml) |
-| [Pacific](pacific.html)                           | Micronesia, Hawaii and the Pacific                             | [RSS](pacific.xml), [OPML](pacific.opml) |
-| [Planet](planet.html)                             | Planet News                                                    | [RSS](planet.xml), [OPML](planet.opml) |
+| [Pacific Rim](pacific.html)                           | Micronesia and the Pacific Rim                             | [RSS](pacific.xml), [OPML](pacific.opml) |
 | [Columns](columns.html)                           | Snapshots from around the web                                  | [RSS](columns.xml), [OPML](columns.opml) |
 | [Libraries](libraries.html)                       | Libraries, Archives and Museums                                | [RSS](libraries.xml), [OPML](libraries.opml) |
 | [Weather Forecasts](forecasts.html)               | [NOAA's](https://weather.gov) links, selected forecast pages   | |

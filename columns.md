@@ -438,3 +438,5 @@ description: Blogs, columns and snapshots from around the web.
 - [Apryl Lundsten blog](https://www.apryllundstenportfolio.com/blog?format=rss)
 - [Machine Gods, NPR](https://feeds.npr.org/g-s1-143588/podcast.xml)
 
+- [Nokia Bell Labs blog](https://www.nokia.com/blog/)
+

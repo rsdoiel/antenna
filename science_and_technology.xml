@@ -4,10 +4,288 @@
   <channel>
     <title><![CDATA[STEM]]></title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>19 Nov 26 20:00 -0800</lastBuildDate>
+    <lastBuildDate>20 Nov 26 06:45 -0800</lastBuildDate>
     <generator>antenna/0.0.28</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Teeth Discovered in Two Chinese Caves Are Rewriting the Story of Homo Erectus, an Ancient Human Ancestor That May Have Been More Capable Than We Thought</title>
+      <link>https://www.smithsonianmag.com/smart-news/teeth-discovered-in-two-chinese-caves-are-rewriting-the-story-of-homo-erectus-an-ancient-human-ancestor-that-may-have-been-more-capable-than-we-thought-180989913/</link>
+      <description>
+        <![CDATA[One new study suggests that the species persisted in mainland Asia for 216,000 years longer than previously thought. Another says Homo erectus was capable of living in a tropical rainforest, a discovery that turns a common extinction theory "on its head," according to one researcher]]>
+      </description>
+      <source:markdown>One new study suggests that the species persisted in mainland Asia for 216,000 years longer than previously thought. Another says Homo erectus was capable of living in a tropical rainforest, a discovery that turns a common extinction theory &#34;on its head,&#34; according to one researcher</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/50R6dZlfhE9gLxXSjGF-9TKF6fE=/420x240/filters:focal(2592x1728:2593x1729)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/09/e4/09e4beed-edb1-4b6d-87ae-97771d6e8d21/img9-excavating_in_baxian.jpg" length="8198564" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/teeth-discovered-in-two-chinese-caves-are-rewriting-the-story-of-homo-erectus-an-ancient-human-ancestor-that-may-have-been-more-capable-than-we-thought-180989913/</guid>
+      <pubDate>Fri, 20 Nov 2026 13:10:00 +0000</pubDate>
+    </item>    <item>
+      <title>Georgia O&#39;Keeffe Is Famous for Painting Flowers and Deserts. Why Have We Forgotten Her Obsession With American Architecture?</title>
+      <link>https://www.smithsonianmag.com/smart-news/georgia-okeeffe-is-famous-for-painting-flowers-and-deserts-why-have-we-forgotten-her-obsession-with-american-architecture-180989911/</link>
+      <description>
+        <![CDATA[Featuring nearly 40 artworks, a new exhibition at the Detroit Institute of Arts spotlights the artist's mesmerizing portrayals of the built environment, from rural farmhouses to city skyscrapers]]>
+      </description>
+      <source:markdown>Featuring nearly 40 artworks, a new exhibition at the Detroit Institute of Arts spotlights the artist&#39;s mesmerizing portrayals of the built environment, from rural farmhouses to city skyscrapers</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/S5Jxmelf8CJ9-FKTXr-PS2kUkjc=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/82/4d/824d8de7-37a5-442b-bffe-668027a7007c/okeeffe.jpg" length="393296" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/georgia-okeeffe-is-famous-for-painting-flowers-and-deserts-why-have-we-forgotten-her-obsession-with-american-architecture-180989911/</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>The history behind the x86 CPU: from 4004 to 486</title>
+      <link>https://www.osnews.com/story/146445/the-history-behind-the-x86-cpu-from-4004-to-486/</link>
+      <description>
+        <![CDATA[Why is x86 little-endian? Why are the registers called AX, BX, CX, and DX? Why do DOS programmers write addresses like A000:0000, and why does a modern PC still wake up pretending to be a chip from 1978? The answers are not in the datasheets. They are in the story of how each chip was born. ↫ Gustavo Pezzi The x86 is like an archaeological dig site that&#8217;s been dug in the 1800, before modern standards of dig sites were established to preserve context.]]>
+      </description>
+      <source:markdown>Why is x86 little-endian? Why are the registers called AX, BX, CX, and DX? Why do DOS programmers write addresses like A000:0000, and why does a modern PC still wake up pretending to be a chip from 1978? The answers are not in the datasheets. They are in the story of how each chip was born. ↫ Gustavo Pezzi The x86 is like an archaeological dig site that’s been dug in the 1800, before modern standards of dig sites were established to preserve context.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146445</guid>
+      <category>Intel</category>
+      <pubDate>Fri, 20 Nov 2026 10:20:32 +0000</pubDate>
+    </item>    <item>
+      <title>FreeBSD GUS: RCU’s cool cousin</title>
+      <link>https://www.osnews.com/story/146443/freebsd-gus-rcus-cool-cousin/</link>
+      <description>
+        <![CDATA[FreeBSD has a pretty neat safe memory reclamation scheme (something akin to RCU), that&#8217;s also been adopted by XNU that hasn&#8217;t really been well-documented outside of code comments, and I thought it would&#8217;ve been interesting to write about it. ↫ Loïc Grégoire Some light reading for the weekend.]]>
+      </description>
+      <source:markdown>FreeBSD has a pretty neat safe memory reclamation scheme (something akin to RCU), that’s also been adopted by XNU that hasn’t really been well-documented outside of code comments, and I thought it would’ve been interesting to write about it. ↫ Loïc Grégoire Some light reading for the weekend.</source:markdown>
+      <guid>cid://https://www.osnews.com/?p=146443</guid>
+      <category>FreeBSD</category>
+      <pubDate>Fri, 20 Nov 2026 10:09:17 +0000</pubDate>
+    </item>    <item>
+      <title>This gas station drug acts like opioids. It’s getting harder to buy</title>
+      <link>https://www.npr.org/2026/11/20/nx-s1-6045648/kratom-opioid-addiction-7-oh</link>
+      <description>
+        <![CDATA[Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at <a href="http://plus.npr.org/"target="_blank"   >plus.npr.org</a>.<br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at [plus.npr.org](http://plus.npr.org/).
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/0ed0c538-f450-4a92-9098-3795550ed618/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=0ed0c538-f450-4a92-9098-3795550ed618&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-6045648&#38;p=510351&#38;d=854&#38;size=13669817" length="13669817" type="audio/mpeg" />
+      <guid>cid://418e65da-a190-4639-8188-62907ff41159</guid>
+      <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>APOD: 2026 November 20 – V-G-R</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 November… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. V-G-R Explanation: On November 17, [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 November… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. V-G-R Explanation: On November 17, \[…\]</source:markdown>
+      <guid>cid://https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/</guid>
+      <category>APOD</category>
+      <pubDate>Fri, 20 Nov 2026 05:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>The Stormy Southwest Pacific</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/</link>
+      <description>
+        <![CDATA[Tropical Cyclone Xavier launched the basin’s storm season with a bang.]]>
+      </description>
+      <source:markdown>Tropical Cyclone Xavier launched the basin’s storm season with a bang.</source:markdown>
+      <guid>cid://https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/</guid>
+      <category>Earth Observatory</category>
+      <category>Extreme Weather Events</category>
+      <category>Moderate Resolution Imaging Spectroradiometer (MODIS)</category>
+      <pubDate>Fri, 20 Nov 2026 05:01:00 +0000</pubDate>
+    </item>    <item>
+      <title>Harvard Returns Two Skulls Likely Belonging to Enslaved Individuals, More Than 150 Years After They Were Taken From Brazil for Eugenics Studies</title>
+      <link>https://www.smithsonianmag.com/smart-news/harvard-returns-two-skulls-likely-belonging-to-enslaved-individuals-more-than-150-years-after-they-were-taken-from-brazil-for-eugenics-studies-180989910/</link>
+      <description>
+        <![CDATA[The remains were welcomed back in solemn ceremonies in Rio de Janeiro and Salvador after years of pressure from researchers, community groups and the Brazilian government. One skull likely belonged to an individual who fought and died in an 1835 slave revolt]]>
+      </description>
+      <source:markdown>The remains were welcomed back in solemn ceremonies in Rio de Janeiro and Salvador after years of pressure from researchers, community groups and the Brazilian government. One skull likely belonged to an individual who fought and died in an 1835 slave revolt</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/g-NTiKFWOHBhFV37griPnxFCX_Y=/420x240/filters:focal(1024x653:1025x654)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/80/a7/80a7c7df-798a-48fb-9ee5-9e5f44bd5bfc/55650088600_2cccc3bf53_k.jpg" length="538878" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/harvard-returns-two-skulls-likely-belonging-to-enslaved-individuals-more-than-150-years-after-they-were-taken-from-brazil-for-eugenics-studies-180989910/</guid>
+      <pubDate>Thu, 19 Nov 2026 21:22:56 +0000</pubDate>
+    </item>    <item>
+      <title>See the Rare Baby Rhinoceros Born at England&#39;s Chester Zoo, an Adorable Boost for Its Vulnerable Species</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-the-rare-baby-rhinoceros-born-in-englands-chester-zoo-an-adorable-addition-to-its-species-numbers-180989902/</link>
+      <description>
+        <![CDATA[The calf, born October 11, is in good health and exploring a secluded paddock with its mother, out of view of the public]]>
+      </description>
+      <source:markdown>The calf, born October 11, is in good health and exploring a secluded paddock with its mother, out of view of the public</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/54UpjHsl6deLW3s7uDKpYPALl9I=/420x240/filters:focal(2250x1500:2251x1501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7d/e2/7de290c2-869b-4a3e-bd45-d286188b2263/amazing_moment_of_rare_rhino_birth_caught_on_cctv_at_chester_zoo_14.jpg" length="5345026" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/see-the-rare-baby-rhinoceros-born-in-englands-chester-zoo-an-adorable-addition-to-its-species-numbers-180989902/</guid>
+      <pubDate>Thu, 19 Nov 2026 21:18:05 +0000</pubDate>
+    </item>    <item>
+      <title>The NIH Has Decided to Move Its Last Group of Retired Research Chimpanzees to an Animal Sanctuary Next Year</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-nih-has-decided-to-move-its-last-group-of-retired-research-chimpanzees-to-an-animal-sanctuary-next-year-180989907/</link>
+      <description>
+        <![CDATA[The agency had previously determined that the animals were too old or ill for the journey. But a recent transfer involving another federally supported research facility pushed the National Institutes of Health to revisit the issue]]>
+      </description>
+      <source:markdown>The agency had previously determined that the animals were too old or ill for the journey. But a recent transfer involving another federally supported research facility pushed the National Institutes of Health to revisit the issue</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/BuJjMHfALzxZ2yaw6BZcvHTeXfU=/420x240/filters:focal(800x533:801x534)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ab/44/ab441cc1-24d5-4944-988f-5f27a595ff56/tj-and-nichole-3-2024-08-29-1600x1064.jpg" length="1511521" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/the-nih-has-decided-to-move-its-last-group-of-retired-research-chimpanzees-to-an-animal-sanctuary-next-year-180989907/</guid>
+      <pubDate>Thu, 19 Nov 2026 20:35:25 +0000</pubDate>
+    </item>    <item>
+      <title>NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs</title>
+      <link>https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/</link>
+      <description>
+        <![CDATA[NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NVL72 systems, as well as adding customer availability to [&#8230;]]]>
+      </description>
+      <source:markdown>NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NVL72 systems, as well as adding customer availability to \[…\]</source:markdown>
+      <guid>cid://https://blogs.nvidia.com/?p=100047</guid>
+      <category>AI Infrastructure</category>
+      <category>Cloud</category>
+      <category>Hardware</category>
+      <category>Software</category>
+      <category>Cosmos</category>
+      <category>Inference</category>
+      <category>Jetson</category>
+      <category>Nemotron</category>
+      <category>NVIDIA Blackwell</category>
+      <pubDate>Thu, 19 Nov 2026 20:00:15 +0000</pubDate>
+    </item>    <item>
+      <title>Challenge: Public Input on Life and the World in 2075</title>
+      <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/</link>
+      <description>
+        <![CDATA[NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Award: $20,000 in [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Award: $20,000 in \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?p=1066750</guid>
+      <category>Center of Excellence for Collaborative Innovation (CoECI)</category>
+      <category>CoECI News</category>
+      <category>Get Involved</category>
+      <category>Opportunities to Contribute to NASA Missions &#38; Get Involved</category>
+      <category>Prizes, Challenges, &#38; Crowdsourcing News</category>
+      <category>Prizes, Challenges, and Crowdsourcing Program</category>
+      <pubDate>Thu, 19 Nov 2026 19:34:20 +0000</pubDate>
+    </item>    <item>
+      <title>Have Archaeologists Finally Pieced Together the &#39;Parthenon Puzzle,&#39; One of Ancient Greece&#39;s Greatest Mysteries?</title>
+      <link>https://www.smithsonianmag.com/smart-news/have-archaeologists-finally-pieced-together-the-parthenon-puzzle-one-of-ancient-greece-greatest-mysteries-180989903/</link>
+      <description>
+        <![CDATA[Centuries ago, the Parthenon's east pediment was reduced to rubble. German researchers now believe they have recreated the 39-figure scene depicting the birth of Athena with the help of Roman sarcophagi and 3D printers]]>
+      </description>
+      <source:markdown>Centuries ago, the Parthenon&#39;s east pediment was reduced to rubble. German researchers now believe they have recreated the 39-figure scene depicting the birth of Athena with the help of Roman sarcophagi and 3D printers</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/tiVLgsBxPTtlvMOhzpl1DHn56T0=/420x240/filters:focal(1750x867:1751x868)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/22/af/22afdeb0-21f6-4f47-b4bd-ff9cd12a99dd/lh_presse_rekonstruktion_der_figuren_im_ostgiebel_des_parthenon-detail.jpg" length="477993" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/have-archaeologists-finally-pieced-together-the-parthenon-puzzle-one-of-ancient-greece-greatest-mysteries-180989903/</guid>
+      <pubDate>Thu, 19 Nov 2026 19:06:45 +0000</pubDate>
+    </item>    <item>
+      <title>Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents</title>
+      <link>https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/</link>
+      <description>
+        <![CDATA[Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&#8230;]]]>
+      </description>
+      <source:markdown>Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through \[…\]</source:markdown>
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Humanoid-Warehouse.mp4" length="9339145" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/zero-to-alpamayo-under-10MB.mp4" length="9692557" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/0_00-0_004-hubble_rivermark_Real_Sim_no_loop.mp4" length="6517882" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Infra-scale-demo-20260914_144614-Meeting-Recording.mp4" length="6815937" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/scurve_rl_vs_astra_side_by_side.mp4" length="6145836" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/relay-video-v14-1080p.mp4" length="9557112" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Turbine-Lab-RTX-and-What-If-under-10MB-1.mp4" length="9387027" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/kitchen_final_blog_with_music.mp4" length="9974240" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Robot_Hand_Video_Omniverse.mp4" length="7901725" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/Robotic_Dissasembly_Omniverse.mp4" length="8670789" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/Nyhamna_footage_take5_30s.mp4" length="8295167" type="video/mp4" />
+      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/microducks-icu-pathtraced-16x9-1920x1080-1.mp4" length="9510200" type="video/mp4" />
+      <guid>cid://https://blogs.nvidia.com/?p=98677</guid>
+      <category>Robotics</category>
+      <category>Agentic AI</category>
+      <category>Into the Omniverse</category>
+      <category>NVIDIA Isaac Sim</category>
+      <category>Omniverse</category>
+      <category>OpenUSD</category>
+      <category>Physical AI</category>
+      <category>Simulation</category>
+      <pubDate>Thu, 19 Nov 2026 17:00:35 +0000</pubDate>
+    </item>    <item>
+      <title>Price Is Not the Entire Point:  How Purism is Building a Different Digital Future</title>
+      <link>https://puri.sm/posts/price-is-not-the-entire-point-how-purism-is-building-a-different-digital-future/</link>
+      <description>
+        <![CDATA[<p>A phone has a price. Digital freedom has a value. If we judge a revolutionary phone only by its price tag, we miss the work behind it.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/price-is-not-the-entire-point-how-purism-is-building-a-different-digital-future/">Price Is Not the Entire Point:  How Purism is Building a Different Digital Future</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>A phone has a price. Digital freedom has a value. If we judge a revolutionary phone only by its price tag, we miss the work behind it.
+
+The post [Price Is Not the Entire Point: How Purism is Building a Different Digital Future](https://puri.sm/posts/price-is-not-the-entire-point-how-purism-is-building-a-different-digital-future/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+      <guid>cid://https://puri.sm/?p=87402</guid>
+      <category>Civil Liberties</category>
+      <category>Librem 5 v2</category>
+      <category>Privacy</category>
+      <category>Consumer Privacy</category>
+      <category>Consumer Protection</category>
+      <category>PureOS</category>
+      <category>Software freedom</category>
+      <pubDate>Thu, 19 Nov 2026 17:00:17 +0000</pubDate>
+    </item>    <item>
+      <title>This Self-Charging Toothbrush Has Bristles That Generate Electricity to Help Kill Bacteria That Cause Cavities and Gum Disease</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-self-charging-toothbrush-has-bristles-that-generate-electricity-to-help-kill-bacteria-that-cause-cavities-and-gum-disease-180989895/</link>
+      <description>
+        <![CDATA[In a short clinical trial, participants who used the experimental toothbrush reported less plaque, gum inflammation and bleeding than those who used traditional nylon-bristled brushes. However, more research is required to assess the tool's safety and efficacy]]>
+      </description>
+      <source:markdown>In a short clinical trial, participants who used the experimental toothbrush reported less plaque, gum inflammation and bleeding than those who used traditional nylon-bristled brushes. However, more research is required to assess the tool&#39;s safety and efficacy</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/oI1XrN2KTt8f2dTISlg8tifJ7gE=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f9/a1/f9a11940-60dd-40fe-968e-836a027ea612/smithsonian_feature_images_32.png" length="1887304" type="image/png" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/this-self-charging-toothbrush-has-bristles-that-generate-electricity-to-help-kill-bacteria-that-cause-cavities-and-gum-disease-180989895/</guid>
+      <pubDate>Thu, 19 Nov 2026 16:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars</title>
+      <link>https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/</link>
+      <description>
+        <![CDATA[Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.]]>
+      </description>
+      <source:markdown>Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.</source:markdown>
+      <guid>cid://https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/</guid>
+      <category>Fermi Gamma-Ray Space Telescope</category>
+      <category>Open Science</category>
+      <category>Pulsars</category>
+      <pubDate>Thu, 19 Nov 2026 15:33:55 +0000</pubDate>
+    </item>    <item>
+      <title>Lake Pelku</title>
+      <link>https://www.nasa.gov/image-article/lake-pelku/</link>
+      <description>
+        <![CDATA[An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real [&#8230;]]]>
+      </description>
+      <source:markdown>An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1066488</guid>
+      <category>International Space Station (ISS)</category>
+      <pubDate>Thu, 19 Nov 2026 15:32:39 +0000</pubDate>
+    </item>    <item>
+      <title>This Philosopher Was One of the First People to Donate His Body to Science. Nearly 200 Years Later, Researchers Are Still Learning From It</title>
+      <link>https://www.smithsonianmag.com/smart-news/he-was-one-of-the-first-people-to-donate-his-body-to-science-nearly-200-years-later-researchers-are-still-learning-from-it-180989901/</link>
+      <description>
+        <![CDATA[Jeremy Bentham, the founder of utilitarianism, had his corpse publicly dissected and turned into an "auto-icon," a lifelike display featuring his skeleton dressed in one of his suits]]>
+      </description>
+      <source:markdown>Jeremy Bentham, the founder of utilitarianism, had his corpse publicly dissected and turned into an &#34;auto-icon,&#34; a lifelike display featuring his skeleton dressed in one of his suits</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/0KMLtfLbsEayuTp5EvCB-dMXkEQ=/420x240/filters:focal(1343x819:1344x820)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/60/1c/601c48e3-09b6-429c-aebf-de184abcdae7/image001_4.jpg" length="1062357" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/he-was-one-of-the-first-people-to-donate-his-body-to-science-nearly-200-years-later-researchers-are-still-learning-from-it-180989901/</guid>
+      <pubDate>Thu, 19 Nov 2026 15:31:07 +0000</pubDate>
+    </item>    <item>
+      <title>The North Atlantic Right Whale Population Has Shrunk, Raising Concerns About the Future of the Critically Endangered Species</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-north-atlantic-right-whale-population-has-shrunk-raising-concerns-about-the-future-of-the-critically-endangered-species-180989896/</link>
+      <description>
+        <![CDATA[The massive marine mammals are dying from ship strikes, fishing gear entanglements and other causes, which is affecting the species' ability to grow its numbers. The animals were hunted to the brink of extinction around 100 years ago]]>
+      </description>
+      <source:markdown>The massive marine mammals are dying from ship strikes, fishing gear entanglements and other causes, which is affecting the species&#39; ability to grow its numbers. The animals were hunted to the brink of extinction around 100 years ago</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/HvUIkcAxa0EP4GyLdQ8_WWPT2ew=/420x240/filters:focal(1280x829:1281x830)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/47/4b478197-659f-40a0-bc6f-52c709ef0886/neaq-right-whale-scaled.jpg" length="575804" type="image/jpeg" />
+      <guid>cid://https://www.smithsonianmag.com/smart-news/the-north-atlantic-right-whale-population-has-shrunk-raising-concerns-about-the-future-of-the-critically-endangered-species-180989896/</guid>
+      <pubDate>Thu, 19 Nov 2026 15:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions</title>
+      <link>https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/</link>
+      <description>
+        <![CDATA[NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be used in flight, the hot [&#8230;]]]>
+      </description>
+      <source:markdown>NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be used in flight, the hot \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=1066618</guid>
+      <category>Marshall Space Flight Center</category>
+      <category>RS-25</category>
+      <category>Space Launch System (SLS)</category>
+      <category>Stennis Space Center</category>
+      <pubDate>Thu, 19 Nov 2026 14:44:39 +0000</pubDate>
+    </item>    <item>
+      <title>NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth</title>
+      <link>https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/</link>
+      <description>
+        <![CDATA[NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion miles (25.9 billion kilometers). The spacecraft achieved the milestone at 2:16 a.m. PST (5:16 a.m. EST) Nov. 18. Voyager team [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion miles (25.9 billion kilometers). The spacecraft achieved the milestone at 2:16 a.m. PST (5:16 a.m. EST) Nov. 18. Voyager team \[…\]</source:markdown>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=1066602</guid>
+      <category>Voyager 1</category>
+      <category>Heliophysics</category>
+      <category>Heliophysics Division</category>
+      <category>Jet Propulsion Laboratory</category>
+      <category>Science Mission Directorate</category>
+      <category>The Solar System</category>
+      <category>The Sun</category>
+      <pubDate>Thu, 19 Nov 2026 14:31:15 +0000</pubDate>
+    </item>    <item>
       <title>Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/</link>
       <description>
@@ -23,9 +301,9 @@
       <title>APOD: 2026 November 19 – The Horsehead and Flame Nebulas</title>
       <link>https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/</link>
       <description>
-        <![CDATA[APOD Science APOD APOD: 2026 November 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The [&#8230;]]]>
+        <![CDATA[APODScienceAPODAPOD: 2026 November 19 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The Horsehead and Flame Nebulas Explanation: Today’s image could have been a painting. But what [&#8230;]]]>
       </description>
-      <source:markdown>APOD Science APOD APOD: 2026 November 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The \[…\]</source:markdown>
+      <source:markdown>APODScienceAPODAPOD: 2026 November 19 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The Horsehead and Flame Nebulas Explanation: Today’s image could have been a painting. But what \[…\]</source:markdown>
       <guid>cid://https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/</guid>
       <category>APOD</category>
       <pubDate>Thu, 19 Nov 2026 05:05:00 +0000</pubDate>
@@ -130,12 +408,12 @@
       <guid>cid://https://www.smithsonianmag.com/smart-news/hours-before-it-was-expected-to-sell-for-up-to-3-million-this-frida-kahlo-painting-was-whisked-from-the-auction-block-180989890/</guid>
       <pubDate>Wed, 18 Nov 2026 18:30:48 +0000</pubDate>
     </item>    <item>
-      <title>A Child Tossed a Hat, and a Ceiling Fan Sent It Flying Into a Hippo&#39;s Zoo Enclosure, Where the Animal Ate It. Here&#39;s How the Care Team Is Responding</title>
+      <title>Beloved Hippo Fiona Dies After Swallowing a Child&#39;s Hat Accidentally Tossed Into Her Zoo Enclosure</title>
       <link>https://www.smithsonianmag.com/smart-news/a-child-tossed-a-hat-and-a-ceiling-fan-sent-it-flying-into-a-hippos-zoo-enclosure-where-the-animal-ate-it-heres-how-the-care-team-is-responding-180989894/</link>
       <description>
-        <![CDATA[The Cincinnati Zoo’s beloved hippo Fiona is under constant medical surveillance, but her carers are “cautiously optimistic” that she will pass the object on her own and recover]]>
+        <![CDATA[Animal care teams were initially optimistic that the Cincinnati Zoo’s Internet-famous hippo could pass the object naturally and recover, but the situation ultimately turned into a “medical emergency”]]>
       </description>
-      <source:markdown>The Cincinnati Zoo’s beloved hippo Fiona is under constant medical surveillance, but her carers are “cautiously optimistic” that she will pass the object on her own and recover</source:markdown>
+      <source:markdown>Animal care teams were initially optimistic that the Cincinnati Zoo’s Internet-famous hippo could pass the object naturally and recover, but the situation ultimately turned into a “medical emergency”</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/gz673zeNTjPedC2DMH9x2bUCt_I=/420x240/filters:focal(295x334:296x335)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/27/22/2722bf19-e3d7-4c68-b687-ed20dcd4ca3d/smithmag-hippo.jpg" length="1089964" type="image/jpeg" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/a-child-tossed-a-hat-and-a-ceiling-fan-sent-it-flying-into-a-hippos-zoo-enclosure-where-the-animal-ate-it-heres-how-the-care-team-is-responding-180989894/</guid>
       <pubDate>Wed, 18 Nov 2026 18:21:00 +0000</pubDate>
@@ -566,10 +844,10 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <title>Purism Launches Librem 5 v2 , A RISC-V Phone to Empower People</title>
       <link>https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/</link>
       <description>
-        <![CDATA[<p><a href="https://puri.sm/">Purism</a>, an independent U.S. technology company dedicated to protecting users’ privacy, security, and online freedom, today announced the launch of its second smartphone crowdfunding campaign, the <a href="https://puri.sm/librem-5-v2-crowdfunding-campaign/">Librem 5 v2</a>.</p>
+        <![CDATA[<p>Purism, an independent U.S. technology company dedicated to protecting users’ privacy, security, and online freedom, today announced the launch of its second smartphone crowdfunding campaign, the Librem 5 v2.</p>
         <p>The post <a rel="nofollow" href="https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/">Purism Launches Librem 5 v2 , A RISC-V Phone to Empower People</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
       </description>
-      <source:markdown>[Purism](https://puri.sm/), an independent U.S. technology company dedicated to protecting users’ privacy, security, and online freedom, today announced the launch of its second smartphone crowdfunding campaign, the [Librem 5 v2](https://puri.sm/librem-5-v2-crowdfunding-campaign/).
+      <source:markdown>Purism, an independent U.S. technology company dedicated to protecting users’ privacy, security, and online freedom, today announced the launch of its second smartphone crowdfunding campaign, the Librem 5 v2.
 
 The post [Purism Launches Librem 5 v2 , A RISC-V Phone to Empower People](https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/) appeared first on [Purism](https://puri.sm/).</source:markdown>
       <guid>cid://https://puri.sm/?p=86252</guid>
@@ -2301,33 +2579,6 @@ The post [A Strange Quantum Theorem Has Killed Einstein’s Reality](https://www
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/_E89q7eIsIbAP6I9oBblu1ecBU4=/420x240/filters:focal(751x415:752x416)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ab/3c/ab3c924d-1d61-4178-90a1-3775fa014c56/an-unusual-sexual-bond.jpg" length="487184" type="image/jpeg" />
       <guid>cid://https://www.smithsonianmag.com/smart-news/this-bull-and-male-donkey-have-a-surprisingly-sexual-relationship-revealing-insights-into-interspecies-and-same-sex-bonds-180989803/</guid>
       <pubDate>Thu, 05 Nov 2026 18:47:54 +0000</pubDate>
-    </item>    <item>
-      <title>Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents</title>
-      <link>https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/</link>
-      <description>
-        <![CDATA[Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&#8230;]]]>
-      </description>
-      <source:markdown>Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through \[…\]</source:markdown>
-      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Humanoid-Warehouse.mp4" length="9339145" type="video/mp4" />
-      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/zero-to-alpamayo-under-10MB.mp4" length="9692557" type="video/mp4" />
-      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/0_00-0_004-hubble_rivermark_Real_Sim_no_loop.mp4" length="6517882" type="video/mp4" />
-      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Infra-scale-demo-20260914_144614-Meeting-Recording.mp4" length="6815937" type="video/mp4" />
-      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/scurve_rl_vs_astra_side_by_side.mp4" length="6145836" type="video/mp4" />
-      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/relay-video-v14-1080p.mp4" length="9557112" type="video/mp4" />
-      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Turbine-Lab-RTX-and-What-If-under-10MB-1.mp4" length="9387027" type="video/mp4" />
-      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/kitchen_final_blog_with_music.mp4" length="9974240" type="video/mp4" />
-      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Robot_Hand_Video_Omniverse.mp4" length="7901725" type="video/mp4" />
-      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/Robotic_Dissasembly_Omniverse.mp4" length="8670789" type="video/mp4" />
-      <guid>cid://https://blogs.nvidia.com/?p=98677</guid>
-      <category>Robotics</category>
-      <category>Agentic AI</category>
-      <category>Into the Omniverse</category>
-      <category>NVIDIA Isaac Sim</category>
-      <category>Omniverse</category>
-      <category>OpenUSD</category>
-      <category>Physical AI</category>
-      <category>Simulation</category>
-      <pubDate>Thu, 05 Nov 2026 17:00:35 +0000</pubDate>
     </item>    <item>
       <title>The Ubuntu 26.04 Rust sudo is not compatible with standard sudo</title>
       <link>https://www.osnews.com/story/146309/the-ubuntu-26-04-rust-sudo-is-not-compatible-with-standard-sudo/</link>
