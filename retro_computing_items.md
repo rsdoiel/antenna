@@ -1,14 +1,26 @@
 ---
 title: "Retro"
 description: "Computer history and vintage systems."
-pubDate: Fri, 20 Nov 2026 14:00:29 GMT
+pubDate: Fri, 20 Nov 2026 19:41:42 GMT
 aggregateOf: "retro_computing.md"
-dateModified: Fri, 20 Nov 2026 22:33:23 GMT
-itemCount: 53
-generator: antenna/0.1.0
+dateModified: Sat, 21 Nov 2026 14:47:07 GMT
+itemCount: 50
+generator: antenna/0.1.1
 ---
 
 # Retro
+
+## [b.log 2026/11/20 - A bigger better Arduino.](https://heyrick.eu/blog/entry/20261120)
+
+via Richard Murray's blog · 2026-11-20
+
+A bigger better Arduino.
+
+## [Diablo II](https://www.filfre.net/2026/11/diablo-ii/)
+
+via Digital Antiquarian · 2026-11-20, updated 2026-11-21
+
+This article tells part of the story of the Diablo series.  \[Diablo II\] is a progression with a character where you go and defeat enemies and get rewarded. There’s overriding goals as well as lots of sub-goals. There’s many things to do, yet it’s very simple. It’s very straightforward. There’s no, “What am I supposed \[…\]
 
 ## [PTASM, a modern bug fixed crossplatform version of TASM32 for 6502](http://retro.hansotten.nl/ptasm-a-modern-bug-fixed-crossplatform-version-of-tasm32-for-6502/)
 
@@ -18,7 +30,7 @@ I have been using TASM32 for a very long time. A simple DOS based assembler, cal
 
 ## [b.log 2026/11/19 - I am SO done with this shit. \[NSFW\]](https://heyrick.eu/blog/entry/20261119)
 
-via Richard Murray's blog · 2026-11-19
+via Richard Murray's blog · 2026-11-19, updated 2026-11-20
 
 I am SO done with this shit. \[NSFW\]
 
@@ -30,13 +42,13 @@ This is my story about a first and a second version of KB-9 or, as it is officia
 
 ## [System76 Announces the New Thelio Prime Desktop](http://www.linux-magazine.com/Online/News/System76-Announces-the-New-Thelio-Prime-Desktop)
 
-via Linux Magazine · 2026-11-19, updated 2026-11-20
+via Linux Magazine · 2026-11-19, updated 2026-11-21
 
 The makers of the Thelio desktop line and Pop!\_OS have released a powerful small form factor PC.
 
 ## [A Must See KDE Documentary](http://www.linux-magazine.com/Online/News/A-Must-See-KDE-Documentary)
 
-via Linux Magazine · 2026-11-18, updated 2026-11-20
+via Linux Magazine · 2026-11-18, updated 2026-11-21
 
 It doesn't matter what desktop environment you prefer, this KDE documentary should top your list of things to watch.
 
@@ -54,7 +66,7 @@ Rougols's November talk (appropriately enough for 42 people) was a double bill f
 
 ## [b.log 2026/11/16 - TeaBASIC v0.02](https://heyrick.eu/blog/entry/20261116)
 
-via Richard Murray's blog · 2026-11-16, updated 2026-11-19
+via Richard Murray's blog · 2026-11-16, updated 2026-11-20
 
 TeaBASIC v0.02
 
@@ -66,7 +78,7 @@ I acquired a VIDEO PLUS card. A video card for AIM 65 KIM or SYM-1. This is one 
 
 ## [b.log 2026/11/15 - TeaBASIC and NTCs, The Frenchest thing ever, Storage prices, Interlude, I bought a sewing machine!](https://heyrick.eu/blog/entry/20261115)
 
-via Richard Murray's blog · 2026-11-15, updated 2026-11-19
+via Richard Murray's blog · 2026-11-15, updated 2026-11-20
 
 TeaBASIC and NTCs, The Frenchest thing ever, Storage prices, Interlude, I bought a sewing machine!
 
@@ -84,13 +96,13 @@ The RISC OS London Show took place only a few weeks ago, and the big news that c
 
 ## [b.log 2026/11/13 - AI can be useful.](https://heyrick.eu/blog/entry/20261113)
 
-via Richard Murray's blog · 2026-11-13, updated 2026-11-19
+via Richard Murray's blog · 2026-11-13, updated 2026-11-20
 
 AI can be useful.
 
 ## [This Week on The Analog Antiquarian](https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/)
 
-via Digital Antiquarian · 2026-11-13, updated 2026-11-20
+via Digital Antiquarian · 2026-11-13, updated 2026-11-21
 
 Opus 7: Titus Andronicus
 
@@ -102,13 +114,13 @@ The November 2026 Rougol meeting is on Monday.
 
 ## [b.log 2026/11/12 - Jitters.](https://heyrick.eu/blog/entry/20261112)
 
-via Richard Murray's blog · 2026-11-12, updated 2026-11-19
+via Richard Murray's blog · 2026-11-12, updated 2026-11-20
 
 Jitters.
 
 ## [New KORA Linux Distro to Harness the Power of Local AI](http://www.linux-magazine.com/Online/News/New-KORA-Linux-Distro-to-Harness-the-Power-of-Local-AI)
 
-via Linux Magazine · 2026-11-12, updated 2026-11-20
+via Linux Magazine · 2026-11-12, updated 2026-11-21
 
 The development team behind CyanogenMod, Android, and Playtron unveils KORA, a Linux distribution built specifically for AI nerds.
 
@@ -138,13 +150,13 @@ If you were inspired by the recent London Show (or looking to catch-up on what y
 
 ## [Epic Games Targets Linux for New Launcher](http://www.linux-magazine.com/Online/News/Epic-Games-Targets-Linux-for-New-Launcher)
 
-via Linux Magazine · 2026-11-11, updated 2026-11-20
+via Linux Magazine · 2026-11-11, updated 2026-11-21
 
 The Epic Games new launcher is still in preview, but it looks to land on several Linux distributions.
 
 ## [b.log 2026/11/11 - Stupid, What is this?, gcd.bas fails on actual BASIC, TeaBASIC progresses.](https://heyrick.eu/blog/entry/20261111)
 
-via Richard Murray's blog · 2026-11-11, updated 2026-11-19
+via Richard Murray's blog · 2026-11-11, updated 2026-11-20
 
 Stupid, What is this?, gcd.bas fails on actual BASIC, TeaBASIC progresses.
 
@@ -174,7 +186,7 @@ Control Universal started as a company selling Rockwell microcomputer products (
 
 ## [The classic console corner's CRT changeover](https://oldvcr.blogspot.com/2026/11/the-classic-console-corners-crt.html)
 
-via Old Ventage Computing Research · 2026-11-10, updated 2026-11-20
+via Old Ventage Computing Research · 2026-11-10
 
 In the corner of the rear Floodgap lab sits a pile of classic game consoles. It used to look like this:
 
@@ -393,7 +405,7 @@ How a childhood memory, a forgotten online service, and two years of reverse eng
 
 ## [b.log 2026/11/08 - Dreary, Initial Public Offering.](https://heyrick.eu/blog/entry/20261108)
 
-via Richard Murray's blog · 2026-11-08, updated 2026-11-19
+via Richard Murray's blog · 2026-11-08, updated 2026-11-20
 
 Dreary, Initial Public Offering.
 
@@ -417,19 +429,19 @@ Here are some of the things that I spotted which happened in the RISC OS Open so
 
 ## [b.log 2026/11/07 - Linguine, TeaBASIC, Texas, One last tweak.](https://heyrick.eu/blog/entry/20261107)
 
-via Richard Murray's blog · 2026-11-07, updated 2026-11-19
+via Richard Murray's blog · 2026-11-07, updated 2026-11-20
 
 Linguine, TeaBASIC, Texas, One last tweak.
 
 ## [Deus Ex](https://www.filfre.net/2026/11/deus-ex/)
 
-via Digital Antiquarian · 2026-11-06, updated 2026-11-20
+via Digital Antiquarian · 2026-11-06, updated 2026-11-21
 
 This article tells part of the story of Warren Spector. A slight shift of focus, and the future could still turn out like Deus Ex after all… — Deus Ex lead writer Sheldon Pacotti, speaking in 2014 The reviews that greeted Ion Storm’s Deus Ex upon its release in June of 2000 ranged along a continuum \[…\]
 
 ## [Fedora 45 Now Available](http://www.linux-magazine.com/Online/News/Fedora-45-Now-Available)
 
-via Linux Magazine · 2026-11-05, updated 2026-11-20
+via Linux Magazine · 2026-11-05, updated 2026-11-21
 
 The latest iteration of Fedora has arrived with Gnome 51 and KDE Plasma 6.8.
 
@@ -441,13 +453,13 @@ WROCC's November speaker was Chris Hughes looking at package managers for RISC O
 
 ## [b.log 2026/11/04 - Close, but no cigar, BabyBASIC.](https://heyrick.eu/blog/entry/20261104)
 
-via Richard Murray's blog · 2026-11-04, updated 2026-11-19
+via Richard Murray's blog · 2026-11-04, updated 2026-11-20
 
 Close, but no cigar, BabyBASIC.
 
 ## [Linux 7.4 is "Much Healthier" Thanks to AI](http://www.linux-magazine.com/Online/News/Linux-7.4-is-Much-Healthier-Thanks-to-AI)
 
-via Linux Magazine · 2026-11-03, updated 2026-11-20
+via Linux Magazine · 2026-11-03, updated 2026-11-21
 
 At nearly 42 million lines, Linux 7.4 is the largest merge in the kernel’s history.
 
@@ -471,7 +483,7 @@ The November 2026 WROCC talk is on Wednesday 4th November and starts at 7.45pm o
 
 ## [b.log 2026/11/01 - Gets me to the Church on time (Church on time), TinyBASIC.](https://heyrick.eu/blog/entry/20261101)
 
-via Richard Murray's blog · 2026-11-01, updated 2026-11-19
+via Richard Murray's blog · 2026-11-01, updated 2026-11-20
 
 Gets me to the Church on time (Church on time), TinyBASIC.
 
@@ -483,7 +495,7 @@ October has passed, and November is here – so what’s happening in the world 
 
 ## [b.log 2026/10/31 - Work today, Everything must have AI, Ghosts, Pumpkin.](https://heyrick.eu/blog/entry/20261031)
 
-via Richard Murray's blog · 2026-10-31, updated 2026-11-19
+via Richard Murray's blog · 2026-10-31, updated 2026-11-20
 
 Work today, Everything must have AI, Ghosts, Pumpkin.
 
@@ -492,34 +504,4 @@ Work today, Everything must have AI, Ghosts, Pumpkin.
 via Icon Bar, RISC OS News · 2026-10-31, updated 2026-10-30
 
 Here are some of the things that I spotted which happened in the RISC OS Open source world this week...
-
-## [Working Exploit for a Linux Kernel Flaw Made Public](http://www.linux-magazine.com/Online/News/Working-Exploit-for-a-Linux-Kernel-Flaw-Made-Public)
-
-via Linux Magazine · 2026-10-30, updated 2026-11-20
-
-Even before a bug received its CVE identifier or an upstream fix, the local privilege escalation vulnerability exploit found its way into the wild.
-
-## [This Week on The Analog Antiquarian](https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/)
-
-via Digital Antiquarian · 2026-10-30, updated 2026-11-09
-
-Time Out London (Elizabethan Edition)
-
-## [r/opensource Bans AI-Assisted and AI-Related Projects](http://www.linux-magazine.com/Online/News/r-opensource-Bans-AI-Assisted-and-AI-Related-Projects)
-
-via Linux Magazine · 2026-10-30, updated 2026-11-20
-
-The de facto subreddit for all things open source has not only banned AI-related projects but also users who "don't speak English."
-
-## [October 2026 News Summary](http://www.iconbar.com/comments/rss/news2389.html)
-
-via Icon Bar, RISC OS News · 2026-10-30
-
-Some things we noticed this month. What did you see?
-
-## [Digital Audio Architecture](https://www.c64os.com/post/digitalaudioarchitecture)
-
-via C64 OS Blog · 2026-10-30
-
-![](https://s3.amazonaws.com/com.c64os.resources/weblog/digitalaudioarchitecture/icon-dgi.jpg) I love digital audio. I always have. From the first time I heard that clip of "everybody was kung fu fighting" on my C64, I was enthralled. Before that I had no idea that computers were able to produce music and audio that sounded so real. That was a long time ago. Today, the idea that computers play and edit digital audio is so obvious and omnipresent that young people, like my kids, can scarcely imagine how audio could be produced without using a computer. iPhones, iPads, iPods, AirPods, laptops, desktops, Alexa, it's digital devices all the way down. But back in the 80s when most music was on either vinyl record or magnetic tape, there was something truly magical hearing your Commodore 64 produce sampled digital music. And I know the Amiga did it better, and early Macs did digital audio too, but I personally had very little exposure to those machines. My brief history with digital audio Most people probably don't know this, but I am still listed in CSDb as a current member of Digita. . .
 

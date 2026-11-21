@@ -1,14 +1,104 @@
 ---
 title: "STEM"
 description: "Science and technology news and blogs."
-pubDate: Fri, 20 Nov 2026 13:10:00 GMT
+pubDate: Sat, 21 Nov 2026 05:05:00 GMT
 aggregateOf: "science_and_technology.md"
-dateModified: Fri, 20 Nov 2026 22:33:23 GMT
-itemCount: 304
-generator: antenna/0.1.0
+dateModified: Sat, 21 Nov 2026 14:46:22 GMT
+itemCount: 303
+generator: antenna/0.1.1
 ---
 
 # STEM
+
+## [APOD: 2026 November 21 – Voyager’s Neptune](https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/)
+
+via NASA breaking news · 2026-11-21
+
+APOD Science APOD APOD: 2026 November 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Voyager’s Neptune Explanation: \[…\]
+
+## [Purism Differentiator Series, Part 20: Releasing Source Code to the Public](https://puri.sm/posts/purism-differentiator-series-part-20-releasing-source-code-to-the-public/)
+
+via Purism News · 2026-11-20, updated 2026-11-21
+
+When we use a computer, we trust software to make decisions on our behalf. It stores our work, carries our messages, and helps run the services we depend on.
+
+The post [Purism Differentiator Series, Part 20: Releasing Source Code to the Public](https://puri.sm/posts/purism-differentiator-series-part-20-releasing-source-code-to-the-public/) appeared first on [Purism](https://puri.sm/).
+
+## [Curiosity Spots Drifting Twilight Clouds](https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/)
+
+via NASA breaking news · 2026-11-20, updated 2026-11-21
+
+Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds, which appear for only a short time each fall over Gale Crater, which it has been exploring for more than \[…\]
+
+## [One of Hilma af Klint's Amazingly Rare Abstract Paintings Sold for a Record $12.7 Million at Auction. But Should It Have Been on Sale at All?](https://www.smithsonianmag.com/smart-news/one-of-hilma-al-klint-amazingly-rare-abstract-painting-sold-for-a-record-12-million-at-auctionbut-should-it-have-been-on-sale-at-all-180989922/)
+
+via Smithsonian Magazine · 2026-11-20
+
+After "Ser III No. 5," painted in 1920, sold for nearly 16 times its pre-sale estimate, critics charged that af Klint wanted to keep her "holy body of work" together in a temple, not spread across private collections
+
+## [New NASA Seed Funding Primes Small Businesses for Innovation](https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/)
+
+via NASA breaking news · 2026-11-20, updated 2026-11-21
+
+Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U.S. space economy. NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 innovative projects, for a total investment of up to $171 million in seed \[…\]
+
+## [A Roman Cup and Hundreds of Other Treasures Unearthed in This 2,000-Year-Old Tomb Reveal the Rich Exchange Network of an Ancient Asian Empire](https://www.smithsonianmag.com/smart-news/a-roman-cup-and-hundreds-other-treasures-unearthed-in-this-2000-year-old-tomb-reveal-the-rich-exchange-network-of-an-ancient-asian-empire-180989920/)
+
+via Smithsonian Magazine · 2026-11-20
+
+The Xiongnu people dominated Central Asia for some 300 years. Now, a grave discovered in Mongolia has revealed the pastoral culture’s links to the Roman Empire, Han China and the Lelang Commandery
+
+## [Rembrandt's 'Night Watch' Is Teeming With Life. Researchers Reveal a Hidden World of Microbes All Over the Masterpiece](https://www.smithsonianmag.com/smart-news/rembrandt-night-watch-is-teeming-with-life-researchers-reveal-a-hidden-world-of-microbes-all-over-the-masterpiece-180989917/)
+
+via Smithsonian Magazine · 2026-11-20
+
+Samples swabbed from the 17th-century painting reveal myriad microorganisms, including one perplexing bacterium that was first discovered at a Japanese sugar refinery in 2013
+
+## [For the First Time, Astronomers Witnessed a Giant Star Gobble Up Its Smaller Stellar Companion](https://www.smithsonianmag.com/smart-news/for-the-first-time-astronomers-witnessed-a-giant-star-gobble-up-its-smaller-stellar-companion-180989905/)
+
+via Smithsonian Magazine · 2026-11-20
+
+The merger caused an eruption in late 2025, which researchers rushed to document using several ground- and space-based telescopes. With older data and the help of computer simulations, the team reconstructed the entire astrophysical process
+
+## [An Isolated Group of Amazonian Hunter-Gatherers Made a Rare Request for Help From Outsiders, Raising Concerns About Forest Degradation](https://www.smithsonianmag.com/smart-news/an-isolated-group-of-amazonian-hunter-gatherers-made-a-rare-request-for-help-from-outsiders-raising-concerns-about-forest-degradation-180989909/)
+
+via Smithsonian Magazine · 2026-11-20
+
+Around 20 members of the Indigenous Awá tribe emerged from the rainforest and received food from neighboring villagers. The group has not made contact with the outside world in decades, so experts say deforestation may have left these individuals with no other option
+
+## [NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center](https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/)
+
+via NASA breaking news · 2026-11-20, updated 2026-11-21
+
+Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18.   Presenting the awards were Christine Powell, NASA Stennis center director, and Jeremy Parsons, the agency’s Artemis program manager responsible for management and oversight of NASA’s initiative to return \[…\]
+
+## [NASA’s Curiosity Mars Rover Collects Samples](https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/)
+
+via NASA breaking news · 2026-11-20, updated 2026-11-21
+
+This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. Learn more \[…\]
+
+## [Librem 5 v2 Campaign Builds Early Momentum at 100 Orders](https://puri.sm/posts/librem-5-v2-campaign-builds-early-momentum-at-100-orders/)
+
+via Purism News · 2026-11-20, updated 2026-11-21
+
+A new smartphone campaign has reached a memorable early milestone. Following its public launch on November 17, Purism’s Librem 5 v2 crowdfunding campaign has the first 100 of its 2,500-order goal. That early progress signals interest in a different vision for mobile technology: one built around user control, open software, and digital independence.
+
+The post [Librem 5 v2 Campaign Builds Early Momentum at 100 Orders](https://puri.sm/posts/librem-5-v2-campaign-builds-early-momentum-at-100-orders/) appeared first on [Purism](https://puri.sm/).
+
+## [Nine-Pound Eagles Seem to Be Hunting 60-Pound Baboons in Africa—Hinting the Predators May Have Gone After Our Ancestors, Too](https://www.smithsonianmag.com/smart-news/nine-pound-eagles-seem-to-be-hunting-60-pound-baboons-in-africa-hinting-the-predators-may-have-gone-after-our-ancestors-too-180989906/)
+
+via Smithsonian Magazine · 2026-11-20
+
+In northeastern Chad, researchers found evidence of Verreaux's eagles attacking full-grown olive baboons weighing as much as a small human. The findings suggest early hominins had to watch out for ambushes from the sky, which may have shaped their evolution
+
+## [Network Researchers Nail Down Theory of ‘Perfect Resilience’](https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/)
+
+via Quanta Magazine · 2026-11-20, updated 2026-11-21
+
+When links in a communication network go down, messages can get routed in a loop. Computer scientists now know that four simple network structures are to blame.
+
+The post [Network Researchers Nail Down Theory of ‘Perfect Resilience’](https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)
 
 ## [Teeth Discovered in Two Chinese Caves Are Rewriting the Story of Homo Erectus, an Ancient Human Ancestor That May Have Been More Capable Than We Thought](https://www.smithsonianmag.com/smart-news/teeth-discovered-in-two-chinese-caves-are-rewriting-the-story-of-homo-erectus-an-ancient-human-ancestor-that-may-have-been-more-capable-than-we-thought-180989913/)
 
@@ -36,7 +126,7 @@ FreeBSD has a pretty neat safe memory reclamation scheme (something akin to RCU)
 
 ## [This gas station drug acts like opioids. It’s getting harder to buy](https://www.npr.org/2026/11/20/nx-s1-6045648/kratom-opioid-addiction-7-oh)
 
-via NPR Short Wave · 2026-11-20
+via NPR Short Wave · 2026-11-20, updated 2026-11-21
 
 Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at [plus.npr.org](http://plus.npr.org/).
 
@@ -46,15 +136,23 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 
 ## [APOD: 2026 November 20 – V-G-R](https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/)
 
-via NASA breaking news · 2026-11-20
+via NASA breaking news · 2026-11-20, updated 2026-11-21
 
-APOD Science APOD APOD: 2026 November… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. V-G-R Explanation: On November 17, \[…\]
+APODScienceAPODAPOD: 2026 November…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. V-G-R Explanation: On November 17, fans of interstellar spaceflight around planet Earth were invited to shine a message into \[…\]
 
 ## [The Stormy Southwest Pacific](https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/)
 
-via NASA breaking news · 2026-11-20
+via NASA breaking news · 2026-11-20, updated 2026-11-21
 
 Tropical Cyclone Xavier launched the basin’s storm season with a bang.
+
+## [Purism Differentiator Series, Part 19: PureOS Store](https://puri.sm/posts/purism-differentiator-series-part-19-pureos-store/)
+
+via Purism News · 2026-11-19, updated 2026-11-21
+
+A useful app store should make it easy to find and install software. It should also help people understand what they are choosing.
+
+The post [Purism Differentiator Series, Part 19: PureOS Store](https://puri.sm/posts/purism-differentiator-series-part-19-pureos-store/) appeared first on [Purism](https://puri.sm/).
 
 ## [Harvard Returns Two Skulls Likely Belonging to Enslaved Individuals, More Than 150 Years After They Were Taken From Brazil for Eugenics Studies](https://www.smithsonianmag.com/smart-news/harvard-returns-two-skulls-likely-belonging-to-enslaved-individuals-more-than-150-years-after-they-were-taken-from-brazil-for-eugenics-studies-180989910/)
 
@@ -82,7 +180,7 @@ NVIDIA and Microsoft are extending their full-stack collaboration to help organi
 
 ## [Challenge: Public Input on Life and the World in 2075](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/)
 
-via NASA breaking news · 2026-11-19, updated 2026-11-20
+via NASA breaking news · 2026-11-19, updated 2026-11-21
 
 NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Award: $20,000 in \[…\]
 
@@ -100,7 +198,7 @@ Turning a simulation idea into a working application means assembling assets, co
 
 ## [Price Is Not the Entire Point: How Purism is Building a Different Digital Future](https://puri.sm/posts/price-is-not-the-entire-point-how-purism-is-building-a-different-digital-future/)
 
-via Purism News · 2026-11-19, updated 2026-11-20
+via Purism News · 2026-11-19, updated 2026-11-21
 
 A phone has a price. Digital freedom has a value. If we judge a revolutionary phone only by its price tag, we miss the work behind it.
 
@@ -114,13 +212,13 @@ In a short clinical trial, participants who used the experimental toothbrush rep
 
 ## [NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars](https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/)
 
-via NASA breaking news · 2026-11-19, updated 2026-11-20
+via NASA breaking news · 2026-11-19, updated 2026-11-21
 
 Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.
 
 ## [Lake Pelku](https://www.nasa.gov/image-article/lake-pelku/)
 
-via NASA breaking news · 2026-11-19, updated 2026-11-20
+via NASA breaking news · 2026-11-19, updated 2026-11-21
 
 An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real \[…\]
 
@@ -165,6 +263,14 @@ APODScienceAPODAPOD: 2026 November 19 – The…Today’s APODArchiveSubmissions
 via NASA breaking news · 2026-11-19, updated 2026-11-20
 
 Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.
+
+## [Purism Differentiator Series, Part 18: Funding the App Gap](https://puri.sm/posts/purism-differentiator-series-part-18-funding-the-app-gap/)
+
+via Purism News · 2026-11-18, updated 2026-11-21
+
+A phone can respect your freedom and still need more apps. That is the app gap.
+
+The post [Purism Differentiator Series, Part 18: Funding the App Gap](https://puri.sm/posts/purism-differentiator-series-part-18-funding-the-app-gap/) appeared first on [Purism](https://puri.sm/).
 
 ## [NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch](https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/)
 
@@ -246,7 +352,7 @@ It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Scienc
 
 ## [A RISC-V Phone: The Librem 5 v2 For the Win](https://puri.sm/posts/a-risc-v-phone-the-librem-5-v2/)
 
-via Purism News · 2026-11-18, updated 2026-11-20
+via Purism News · 2026-11-18, updated 2026-11-21
 
 For many people, a smartphone feels like an extra part of the body: it has a touchscreen, a camera, and internet access, while its operating system is controlled by one of a few big tech firms. That setup is convenient, but it also gives those firms power over the phone’s software, apps, updates, and hardware. Owners often have little say in those choices. Purism is making a RISC-V phone as an alternative.
 
@@ -266,7 +372,7 @@ Researchers recently identified a first of its kind: A star slightly less massiv
 
 ## [How M.C. Escher’s Art Creates Bizarre Mathematical Worlds](https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/)
 
-via Quanta Magazine · 2026-11-18, updated 2026-11-20
+via Quanta Magazine · 2026-11-18, updated 2026-11-21
 
 The artist had no formal math education, yet as a new exhibition shows, the insights revealed in his artwork became an enduring inspiration to mathematicians.
 
@@ -292,7 +398,7 @@ A new analysis of the Rødhals Man suggests he witnessed the Neolithic Revolutio
 
 ## [How a viral video gave a huge boost to new gene therapy](https://www.npr.org/2026/11/18/nx-s1-6034426/sanfilippo-syndrome-gene-therapy)
 
-via NPR Short Wave · 2026-11-18, updated 2026-11-20
+via NPR Short Wave · 2026-11-18, updated 2026-11-21
 
 Sanfilippo syndrome is a rare and degenerative disease that can be fatal by the time someone reaches their teens. So the O’Neill family knew they didn’t have much time after learning their 4-year old daughter, Eliza, had it. At the time no treatment existed, and the world of drug development had its eyes on more common illnesses. So the family took an all hands on deck, unusual approach to directly raise money and boost medical research. NPR pharmaceutical correspondent Sydney Lupkin shares what happened next, and what she learned from the O’Neills story about the [promises](https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi) and [challenges](https://www.npr.org/2026/02/24/nx-s1-5723768/gene-therapy-access) of drug development.
 
@@ -315,6 +421,14 @@ APOD Science APOD APOD: 2026 November 18 – A… Today’s APOD Archive Submiss
 via NASA breaking news · 2026-11-18
 
 A widespread, early-season snowstorm blanketed California’s mountains in white in mid-November 2026.
+
+## [Purism Differentiator Series, Part 17: Ecosystem](https://puri.sm/posts/purism-differentiator-series-part-17-ecosystem/)
+
+via Purism News · 2026-11-17, updated 2026-11-21
+
+When people hear the word “ecosystem,” they often think of convenience. A phone, a computer, an app store, and a cloud account can work together...
+
+The post [Purism Differentiator Series, Part 17: Ecosystem](https://puri.sm/posts/purism-differentiator-series-part-17-ecosystem/) appeared first on [Purism](https://puri.sm/).
 
 ## [NASA Launches Nuclear Power Systems Student Contest](https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/)
 
@@ -416,7 +530,7 @@ A new study suggests people hunted and processed game near a large, lush freshwa
 
 ## [How bird poop and manta rays sustain a pristine coral reef](https://www.npr.org/2026/11/17/nx-s1-5988269/coral-reefs-pacific-island-conservation)
 
-via NPR Short Wave · 2026-11-17, updated 2026-11-20
+via NPR Short Wave · 2026-11-17, updated 2026-11-21
 
 Coral reefs [are at risk around the world](https://apps.npr.org/troubled-waters/). So how do they stay so healthy on the remote Pacific islands of Palmyra Atoll? The answer might be in bird poop, manta rays and tree saws. NPR’s Lauren Sommer recently visited the islands and takes Short Wave on a tour of its conservation secrets and lessons for the rest of the world.
 
@@ -442,7 +556,7 @@ For many astronauts, the spectacular sight of lightning stands out when looking 
 
 ## [Purism Launches Librem 5 v2 , A RISC-V Phone to Empower People](https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/)
 
-via Purism News · 2026-11-17, updated 2026-11-20
+via Purism News · 2026-11-17, updated 2026-11-21
 
 Purism, an independent U.S. technology company dedicated to protecting users’ privacy, security, and online freedom, today announced the launch of its second smartphone crowdfunding campaign, the Librem 5 v2.
 
@@ -459,6 +573,14 @@ Written by Candice Bedford, Research Scientist at Purdue University Date: Nov. 1
 via NVidia blog · 2026-11-16, updated 2026-11-20
 
 At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming \[…\]
+
+## [Purism Differentiator Series, Part 16: Decentralization](https://puri.sm/posts/purism-differentiator-series-part-16-decentralization/)
+
+via Purism News · 2026-11-16, updated 2026-11-21
+
+The internet was built to connect people across networks. But much of our digital life now runs through a small number of companies...
+
+The post [Purism Differentiator Series, Part 16: Decentralization](https://puri.sm/posts/purism-differentiator-series-part-16-decentralization/) appeared first on [Purism](https://puri.sm/).
 
 ## [A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover](https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/)
 
@@ -564,7 +686,7 @@ The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy�
 
 ## [What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.](https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/)
 
-via Quanta Magazine · 2026-11-16, updated 2026-11-20
+via Quanta Magazine · 2026-11-16, updated 2026-11-21
 
 An era-defining galaxy survey has released its final results. They don’t quite fit the leading theory of cosmology.
 
@@ -584,7 +706,7 @@ A new residential complex with a load-bearing exoskeleton made from 1,000 tons o
 
 ## [Are your body clocks off? Meet ‘circadian depression’](https://www.npr.org/2026/11/16/nx-s1-6035777/depression-daylight-sleep-circadian-rhythm)
 
-via NPR Short Wave · 2026-11-16, updated 2026-11-20
+via NPR Short Wave · 2026-11-16, updated 2026-11-21
 
 What if depression is sometimes linked to your body’s internal sense of time? That’s what researchers from the University of Sydney’s Brain and Mind Centre wanted to know. In a new study, they surveyed patients with depression whose symptoms may reflect problems with their circadian rhythms – like their sleep schedule, how tired they feel in the morning and whether they’re a night owl. They found that about 1 in 4 qualified for what might be termed a circadian subtype of depression. And while there’s still a lot of research to be done, this could open up new pathways for mental health treatment. NPR health correspondent [Will Stone](https://www.npr.org/people/919093243/will-stone) walks us through the study and its implications.
 
@@ -636,6 +758,14 @@ via OS News · 2026-11-15, updated 2026-11-20
 
 NetBSD developer Nia Alarie has written a guide on how to set up a NetBSD system with disk encryption that’s quite useful for those of us who deeply care about such a level of security. On top of that, the guide is also interesting if you just want to learn a bit more about how NetBSD works. The guide is written for sparc64, but should work on more mainstream architectures just as well. A guide written by a NetBSD developer is obviously going to employ some exotic or weird hardware. As is tradition.
 
+## [Purism Differentiator Series, Part 15: Individual Control](https://puri.sm/posts/purism-differentiator-series-part-15-individual-control/)
+
+via Purism News · 2026-11-15, updated 2026-11-21
+
+Technology should work for people. Yet many devices give their owners little say over the software, the services, or the data involved in everyday use.
+
+The post [Purism Differentiator Series, Part 15: Individual Control](https://puri.sm/posts/purism-differentiator-series-part-15-individual-control/) appeared first on [Purism](https://puri.sm/).
+
 ## [Creating a self-booting ZIP archive](https://www.osnews.com/story/146395/creating-a-self-booting-zip-archive/)
 
 via OS News · 2026-11-15, updated 2026-11-20
@@ -652,7 +782,7 @@ MenuetOS, the operating system written in x86-64 assembly, has seen a few new re
 
 via Smithsonian Magazine · 2026-11-13, updated 2026-11-20
 
-Long thought to have been looted from northern England by Scottish tribes, the larger-than-life leg may have actually been displayed in Roman Scotland, before it was carefully dismantled and buried by retreating forces
+Long thought to have been looted from northern England by Scottish tribes, the larger-than-life leg may have actually been displayed in Roman Scotland before it was carefully dismantled and buried by retreating forces
 
 ## [Outbursts from a Massive Star](https://www.nasa.gov/image-article/outbursts-from-a-massive-star/)
 
@@ -704,7 +834,7 @@ From pediatric research to smart hospitals, AI is helping care teams spend less 
 
 ## [AI could help hospitals diagnose PTSD in real time](https://www.npr.org/2026/11/13/nx-s1-6031981/ai-ptsd-trauma-prediction-er)
 
-via NPR Short Wave · 2026-11-13, updated 2026-11-20
+via NPR Short Wave · 2026-11-13, updated 2026-11-21
 
 Every year, millions of people in the United States develop PTSD from a traumatic event—like a car crash, an assault or freak accident. A lot of those people end up in the ER answering the same question: “What brought you to the emergency department today?” Now, a research team in New York has an AI model that can use patients’ answers and demographics to spit out one number that tells medical staff how likely a patient is to develop PTSD a month later _._
 
@@ -762,7 +892,7 @@ Most dengue infections cause mild flu-like symptoms or no symptoms at all. But a
 
 ## [Can Network Science Transform Health and Nutrition?](https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/)
 
-via Quanta Magazine · 2026-11-12, updated 2026-11-20
+via Quanta Magazine · 2026-11-12, updated 2026-11-21
 
 Albert-László Barabási explains how the same organizing principles shape everything from the internet to the cell, and how mapping the networks inside our bodies could change how we treat disease and think about food.
 
@@ -806,7 +936,7 @@ The dwarf planet candidate, called ED138, appeared in telescope images and takes
 
 ## [A New Era for the Dawn of Life](https://www.quantamagazine.org/a-new-era-for-the-dawn-of-life-20261112/)
 
-via Quanta Magazine · 2026-11-12, updated 2026-11-20
+via Quanta Magazine · 2026-11-12, updated 2026-11-21
 
 Creative, interdisciplinary, and bold, the study of the origins of life has entered a new age. Welcome to Quanta Magazine’s special series on the origins of life.
 
@@ -902,7 +1032,7 @@ Recently obtained by the Library of Congress, the 1760 letter offers positive ne
 
 ## [Can scientists reverse your age?](https://www.npr.org/2026/11/11/nx-s1-5971828/age-reverse-longevity-disease-eye)
 
-via NPR Short Wave · 2026-11-11, updated 2026-11-20
+via NPR Short Wave · 2026-11-11, updated 2026-11-21
 
 Reversing aging may sound like science fiction, but scientists have already found a way to do it—at least, theoretically. Based on a 2012 Nobel-prize winning discovery, researchers are testing whether they can revert diseased cells in the eye back to young and healthy ones. They gave people a drug this year. If it works, it’ll open the door to curing and possibly preventing other age-related diseases. And that led producer [Berly McCoy](https://www.npr.org/people/985775371/berly-mccoy) to wonder: Could all this research eventually extend our human lifespans?
 
@@ -1018,7 +1148,7 @@ Testing of ancient sediment from two lakes in Mexico's Yucatán Peninsula has re
 
 ## [How this year's record El Niño could hit your wallet](https://www.npr.org/2026/11/10/nx-s1-6011189/super-el-nino-2026-fish-market)
 
-via NPR Short Wave · 2026-11-10, updated 2026-11-20
+via NPR Short Wave · 2026-11-10, updated 2026-11-21
 
 Peru’s anchovy industry, the largest single-species fishery in the world, is being rocked by the ongoing El Niño . It’s not the first time the fishery has been impacted by the natural weather phenomenon — El Niño gets its name from Peruvian fishermen. And it’s a stark reminder of the reverberating economic consequences of El Niño events, which can cost the global economy [trillions of dollars](https://www.science.org/doi/10.1126/science.adf2983).
 
@@ -1160,7 +1290,7 @@ Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Start
 
 ## [An ‘Ozempic baby boom’? The GLP-1 pregnancy plot twist](https://www.npr.org/2026/11/09/nx-s1-6023369/glp1-ozempic-babies-pregnancy)
 
-via NPR Short Wave · 2026-11-09, updated 2026-11-20
+via NPR Short Wave · 2026-11-09, updated 2026-11-21
 
 The explosion of GLP-1 drugs has created a gray zone for pregnancy. That recently prompted the American College of Obstetricians and Gynecologists to issue [its first ever guidance](https://www.acog.org/clinical/guidance/practice-advisory/2026/10/use-of-glucagon-like-peptide-1-receptor-agonists-in-pregnancy-and-lactation/) on the topic. In a twist, the drugs may boost fertility for some, leading to more pregnancies – a phenomenon known on social media as “Ozempic babies”. But doctors caution against using the drugs during pregnancy itself. In fact, the more we looked into this story, the more twists and nuances we found. So, we brought Dr. [Amy Valent](https://www.ohsu.edu/providers/amy-valent-do) of Oregon Health and Science University onto the show to break down the latest on what’s known about how these drugs affect fertility and pregnancy.
 
@@ -1440,7 +1570,7 @@ This Hubble image features the sparkling collection of stars named Messier 30 (M
 
 ## [Predicting elections is getting harder. What did the midterms teach us?](https://www.npr.org/2026/11/05/nx-s1-6026649/us-midterm-election-poll-results)
 
-via NPR Short Wave · 2026-11-05, updated 2026-11-20
+via NPR Short Wave · 2026-11-05, updated 2026-11-21
 
 Famously, polls got the 2016 election wrong. And they’d been off for multiple elections since. So, Monday night, political scientist Jack Rametta nervously refreshed his [Senate forecasting model](https://jackrametta.com/senate-forecast/) for the final time. Would it be right this time? Or would it yet again cast doubt on whether modeling, statistics and forecasting can still help us understand what motivates people to vote? Now that the results are in, so is Jack – to tell us how he did, and what his and other researchers’ predictions tell us about the evolving science of polling and forecasting.
 
@@ -1564,7 +1694,7 @@ Five centuries after children were sacrificed on volcanic peaks in the Andes, ch
 
 ## [AI is changing mathematics -- but not how you think](https://www.npr.org/2026/11/04/nx-s1-6010471/ai-math-navier-stokes-mathematicians-openai)
 
-via NPR Short Wave · 2026-11-04, updated 2026-11-20
+via NPR Short Wave · 2026-11-04, updated 2026-11-21
 
 Math has created some of humanity's oldest intellectual challenges. And AI is completely changing the game. This year AI solved one of math’s most difficult problems. Since then, OpenAI published hundreds of new math results. So is this the end for the people who’ve dedicated their careers to pushing forward math? We get into it with NPR science correspondent Geoff Brumfel, who weighs the risks and rewards of AI’s math takeover.
 
@@ -1656,7 +1786,7 @@ A new exhibition in Germany traces how the low-slung breed captured the imaginat
 
 ## [OpenAI whistleblowers on the fight over AI safety \| Machine Gods](https://www.npr.org/2026/11/03/nx-s1-6023241/machinegods-ai-openai-podcast)
 
-via NPR Short Wave · 2026-11-03, updated 2026-11-20
+via NPR Short Wave · 2026-11-03, updated 2026-11-21
 
 Check out NPR’s newest podcast, Machine Gods. It’s the official podcast of the singularity, meaning — the hypothetical future when machines will outpace our own intelligence…and our control. Whether you think that future is coming or not, hosts Kevin Roose and Casey Newton are here to help you understand the people trying to build it… and how their technology works.
 
@@ -1788,7 +1918,7 @@ Following low snowfall and record-breaking summer heat, the Italian Army is hunt
 
 ## [Could virtual reality speed up learning?](https://www.npr.org/2026/11/02/nx-s1-6023397/body-learning-virtual-reality-vr)
 
-via NPR Short Wave · 2026-11-02, updated 2026-11-20
+via NPR Short Wave · 2026-11-02, updated 2026-11-21
 
 Does swinging a lightsaber help us learn? New research from Florida Atlantic University and Brown University found that movement dramatically helps with certain kinds of complex learning. The research was published in the journal [Science Advances](https://www.science.org/doi/10.1126/sciadv.aed4003).
 
@@ -1847,134 +1977,4 @@ From curl 8.12 through 8.16, config files could slice variable values and includ
 via NASA breaking news · 2026-10-31, updated 2026-11-02
 
 APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a \[…\]
-
-## [Crafted From Bone, This 2,800-Year-Old Flute Unearthed in Troy May Have Been Played Around the Time That Homer Composed 'The Iliad' and 'The Odyssey'](https://www.smithsonianmag.com/smart-news/crafted-from-bone-this-2800-year-old-flute-unearthed-in-troy-may-have-been-played-around-the-time-that-homer-composed-the-iliad-and-the-odyssey-180989792/)
-
-via Smithsonian Magazine · 2026-10-30, updated 2026-11-20
-
-After more than 150 years of excavations, the object is the first musical instrument ever discovered in the ruins of the ancient city, which is located in modern-day Turkey
-
-## [A Dog Left a Paw Print on This Mud Brick 4,000 Years Ago. Archaeologists Discovered It in the Rubble of a Bronze Age House](https://www.smithsonianmag.com/smart-news/a-dog-left-a-paw-print-on-this-mud-brick-4000-years-ago-archaeologists-discovered-it-in-the-rubble-of-a-bronze-age-house-180989785/)
-
-via Smithsonian Magazine · 2026-10-30, updated 2026-11-20
-
-The brick was found at Tavsanli Hoyuk, an archaeological site in western Turkey. Humans and dogs in this region have had a close relationship for thousands of years
-
-## [NASA Releases MAX POWER Key Events for Media, Participants](https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/)
-
-via NASA breaking news · 2026-10-30, updated 2026-11-02
-
-America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external collaborators \[…\]
-
-## [Madagascar's Giant Bats Seem to Be Shrinking. After Measuring 121 Specimens, Scientists Suggest Hunting by Humans Is to Blame](https://www.smithsonianmag.com/smart-news/madagascars-giant-bats-seem-to-be-shrinking-after-measuring-121-specimens-scientists-suggest-hunting-by-humans-is-to-blame-180989782/)
-
-via Smithsonian Magazine · 2026-10-30, updated 2026-11-20
-
-In a new study, researchers looked at museum specimens of the island’s flying foxes, spanning 150 years of history. They found a significant decline in size—right when commercial hunting ramped up
-
-## [This Rosy Stone Spotted in the Sahara Turned Out to Be a 4.1-Billion-Year-Old Meteorite From Mars, One of the Oldest Ever Found](https://www.smithsonianmag.com/smart-news/this-rosy-stone-spotted-in-the-sahara-turned-out-to-be-a-4-1-billion-year-old-meteorite-from-mars-one-of-the-oldest-ever-found-180989786/)
-
-via Smithsonian Magazine · 2026-10-30, updated 2026-11-20
-
-Martian samples this old are extremely rare and offer clues about the Red Planet's youth. This meteorite further hints that our celestial neighbor was once a watery world, suggesting it could've had the conditions to host life
-
-## [Manga Are Black, White and Read All Over. Treasures of the Globally Popular Japanese Comic Book Medium Are on View in New York](https://www.smithsonianmag.com/smart-news/manga-are-black-white-and-read-all-over-treasures-of-the-globally-popular-japanese-comic-book-medium-are-on-view-in-new-york-180989788/)
-
-via Smithsonian Magazine · 2026-10-30, updated 2026-11-20
-
-The Brooklyn Museum's "Art of Manga" exhibition highlights the "mangaka," or creators, who have shaped the medium. Hundreds of original illustrations are making a rare trip to the United States
-
-## [Where Is England's Oldest Pub? An Archaeologist Drilled Into 600-Year-Old Timbers to Answer the Contentious Question](https://www.smithsonianmag.com/smart-news/where-is-englands-oldest-pub-an-archaeologist-drilled-into-600-year-old-timbers-to-answer-the-contentious-question-180989783/)
-
-via Smithsonian Magazine · 2026-10-30, updated 2026-11-20
-
-Tree-ring dating shows that a historic tavern in Somerset has been continually operating as an inn since the 1430s, when local monks built it to lodge wool merchants
-
-## [NASA’s James Webb Space Telescope Captures Eerie Cat’s Head](https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/)
-
-via NASA breaking news · 2026-10-30, updated 2026-11-02
-
-Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback \[…\]
-
-## [Three in Four Former NFL Players Who Died From 2008 Through 2023 May Have Had CTE, a Brain Disease Caused by Repeated Head Injuries](https://www.smithsonianmag.com/smart-news/three-in-four-former-nfl-players-who-died-from-2008-through-2023-may-have-had-cte-a-brain-disease-caused-by-repeated-head-injuries-180989780/)
-
-via Smithsonian Magazine · 2026-10-30, updated 2026-11-20
-
-The researchers also estimate that around one in four of the former football players had dementia, a common feature of late-stage CTE
-
-## [Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/)
-
-via NVidia blog · 2026-10-30, updated 2026-11-11
-
-While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents \[…\]
-
-## [A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy](https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/)
-
-via Quanta Magazine · 2026-10-30, updated 2026-11-09
-
-For decades, astronomers treated the interstellar medium as a static backdrop to the goings-on of the universe. Now, a wave of 3D mapping is bringing the interstellar medium’s dynamic nature into focus.
-
-The post [A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy](https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)
-
-## [NASA Explores Potential Commercial Servicing for Hubble Telescope](https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/)
-
-via NASA breaking news · 2026-10-30, updated 2026-11-02
-
-NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.
-
-## [Crows Can Make Decisions Based on Visual Information at Lightning Speed—Roughly Twice as Fast as Humans Can, Study Suggests](https://www.smithsonianmag.com/smart-news/crows-can-make-decisions-based-on-visual-information-at-lightning-speed-roughly-twice-as-fast-as-humans-can-study-suggests-180989779/)
-
-via Smithsonian Magazine · 2026-10-30, updated 2026-11-20
-
-Even though the brain structures of birds and mammals are different, a new study suggests that crows and primates have similar decision-making nerve cell circuitry
-
-## [November’s Night Sky Notes: Light-Day Away](https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/)
-
-via NASA breaking news · 2026-10-30, updated 2026-11-02
-
-Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. \[…\]
-
-## [Is your favorite crime show rooted in fake science?](https://www.npr.org/2026/10/30/nx-s1-6012302/police-court-true-crime-forensics-science)
-
-via NPR Short Wave · 2026-10-30, updated 2026-11-20
-
-If you’ve ever seen a crime show, you probably know how the plot unfolds: A victim is found, an investigation ensues and police conduct a high-stakes search for the culprit. Detectives and crime lab techs collect hair, examine bullet casings and photograph bloodstains. But just _how_ reliable are these clues – and does science back them up? Well, today on the show, with the help of legal expert [Chris Fabricant](https://innocenceproject.org/speakers-bureau/m-chris-fabricant/), we’re diving into which of these forensic techniques are junk “science”, which we should be more cautious about – and why all of them haunt the legal system.
-
-_Interested in more crime and pop science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)
-
-## [APOD: 2026 October 30 – Haunting the Cepheus Flare](https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/)
-
-via NASA breaking news · 2026-10-30, updated 2026-11-02
-
-APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Haunting the Cepheus \[…\]
-
-## [Vega Island Frozen in Fright](https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/)
-
-via NASA breaking news · 2026-10-30, updated 2026-11-02
-
-The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.
-
-## [AlpineBSD combines NetBSD with Alpine’s apk package manager](https://www.osnews.com/story/146267/alpinebsd-combines-netbsd-with-alpines-apk-package-manager/)
-
-via OS News · 2026-10-30, updated 2026-11-07
-
-AlpineBSD is an operating system based on the NetBSD kernel with a userspace inspired by Alpine Linux and the objective of making it possible to use as little AI-generated software as possible. There is no LLM output included in the base system or main package repository (AlpineBSD AI policy). ↫ AlpineBSD’s website AlpineBSD uses the NetBSD kernel, libc, and essential tools, and combines them with Alpine’s apk-tools package manager, busybox, and generlaly preferring GNU tools over their BSD equivalents. It uses the s6 init system, but the project intends to add OpenRC as an alternative. The project is in its very early stages, so don’t expect things like an installer; you’re on your own, basically.
-
-## [“My favourite PowerMac is a Nintendo Wii”](https://www.osnews.com/story/146265/my-favourite-powermac-is-a-nintendo-wii/)
-
-via OS News · 2026-10-30, updated 2026-11-05
-
-The Nintendo Wii (and its related consoles) were already made to run the PowerPC version of Windows NT as well as Mac OS X, but now we can add another milestone to the list: classic Mac OS. So today I reached a nice milestone in one of my projects: my work porting classic Mac OS to PowerPC systems with what I affectionately call ArtX chipsets (Nintendo GameCube, Wii, eventually Wii U; the GameCube’s Flipper integrated chipset was very much designed by ArtX as it was effectively finished when ATI acquired the company, and the Wii’s Vegas (and its later revision Bollywood) and Wii U’s Latte are effectively straight successors) reached the desktop for the first time, most likely the first time since the CHRP clone era that someone outside of Apple brought up classic Mac OS on a new system to the desktop. Despite still being nowhere near ready for a public release, I want to talk about the challenges I faced with this project so far. ↫ Rairii at Virtuallyfun Various versions of Mac OS boot to the desktop, including Mac OS 9.2.2, the last ever version, but there’s still a ton or work to be done before this is ready for release. Still, with Rairii amazing track record of porting all kinds of things to various PowerPC machines, including getting the PowerPC version of Windows NT to run on various PowerPC Macs, I have little doubt they’ll manager to get this to a releasable state. I absolutely love this kind of work.
-
-## [Map Showing Potential Origins of Martian Meteorite Teghaza 001](https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/)
-
-via NASA breaking news · 2026-10-30, updated 2026-11-01
-
-Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorite originated, Teghaza 001 includes clues that link it to highlands in the southern hemisphere of \[…\]
 

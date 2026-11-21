@@ -3,9 +3,9 @@ title: "Columns"
 description: "Blogs, columns and snapshots from around the web."
 pubDate: Sat, 01 Jun 2030 13:00:00 GMT
 aggregateOf: "columns.md"
-dateModified: Fri, 20 Nov 2026 22:29:25 GMT
-itemCount: 1246
-generator: antenna/0.1.0
+dateModified: Sat, 21 Nov 2026 14:45:18 GMT
+itemCount: 1229
+generator: antenna/0.1.1
 ---
 
 # Columns
@@ -24,15 +24,493 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
 
+## [TBR Emergency Alert](https://www.borowitzreport.com/p/tbr-emergency-alert)
+
+via Borowitz Report · 2026-11-21
+
+Remain calm.
+
+## [Wryday](https://doc.searls.com/2026/11/21/wryday-2/)
+
+via Doc Searls (at Harvard), New Old Blog · 2026-11-21
+
+It (not she) is right "Working as intended." Best line: "a superhuman obfuscating sophistry machine." Let them eat bits For anyone (such as I) who hates restaurant menus you can only see with a QR code.
+
+## [Probabilistic data structures in Go, part 2](https://antonz.org/probabilistic-data-structures-2/)
+
+via Anton Zhiyanov blog · 2026-11-21
+
+Binary fuse filter, UltraLogLog, Log-linear histogram, and MinHash.
+
+## [The Powerful and the Pitiful](https://paulkrugman.substack.com/p/the-powerful-and-the-pitiful)
+
+via Paul Krugman · 2026-11-21
+
+Scenes from a Potemkin Yalta
+
+## [Lit Hub Weekly: November 16 – 20, 2026](https://lithub.com/lit-hub-weekly-november-16-20-2026/)
+
+via LitHub · 2026-11-21, updated 2026-11-20
+
+It’s the moment you’ve all been waiting for: Meet this year’s National Book Award finalists. \| Lit Hub “Fear of the defiling power of Roman fantasy ran so deep that the entrance to the room was, at one point, bricked
+
+## [Trump is turning us all into conspiracy nuts](https://www.publicnotice.co/p/trump-conspiracy-theories)
+
+via Public Notice blog · 2026-11-21
+
+And the damage will be long-lasting.
+
+## [See you later, Amsterdam!](https://adactio.com/notes/22842)
+
+via Jeremy Keith Blog · 2026-11-21
+
+![See you later, Amsterdam!](https://adactio.com/images/uploaded/22842/small.jpg)
+
+See you later, Amsterdam!
+
+## [Grand Theft Autocrat \| The Coffee Klatch for Saturday, November 21, 2026](https://robertreich.substack.com/p/the-bursting-of-the-ai-bubble-and)
+
+via Robert Reich's blog · 2026-11-21
+
+With Heather Lofthouse and yours truly, Robert Reich
+
+## [November 20, 2026](https://heathercoxrichardson.substack.com/p/november-20-2026)
+
+via Heather Cox Richardson blog · 2026-11-21
+
+On November 19—yesterday—the United States president, Donald J. Trump, met with Chinese president Xi Jinping and Russia’s president Vladimir Putin in Shenzhen, China, on the sidelines of the summit of economic leaders from the Asia-Pacific Economic Cooperation (APEC) forum.
+
+## [@Robert's feed at BlueSky](https://bsky.app/profile/rsdoiel.bsky.social/post/3n2sbre2kvs22)
+
+via Robert's feed at BlueSky · 2026-11-21
+
+I am enjoying @scripting.com's BonBon, https://github.com/scripting/bonBon/releases. The Markdown Web is cool. I mostly use a Raspberry Pi so I built cmarkbrowser, rsdoiel.github.io/cmarkbrowser/, for the terminal. BonBon sites bring joy back to web surfing.
+
+## [Weeknotes: Nov. 14-20, 2026](https://tracydurnell.com/2026/11/20/weeknotes-nov-14-20-2026/)
+
+via Tracy Durnell Blog · 2026-11-21
+
+Win of the week: 1.5 hours business development — probably the most valuable hour and a half of my whole year 🙌 developed new positioning for my consulting work Looking forward to: I came up with a Thanksgiving activity for me and my husband I’m actually excited for!\* Gonna have fancy snack dinner, make popcorn \[…\]
+
+## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117651755577209843)
+
+via Miguel de Icaza Mastondon feed · 2026-11-21
+
+RE: [https://mastodon.social/@prozak/117651718067597888](https://mastodon.social/@prozak/117651718067597888)
+
+We have broken through the barrier of sound! User #7!
+
+## [Some examples of search output from FeedNewsArchive.com](https://andysylvester.com/2026/11/20/some-examples-of-search-output-from-feednewsarchive-com/)
+
+via Andy Sylvester's River of News · 2026-11-21
+
+Earlier this year, I created my first application with Claude Code – a RSS feed archiver with a search interface. The interface is available at https://feednewsarchive.com/ . Since May 2026, the archiver has been collected feed items from the New York Times, a number of other newspapers, and several network news sites. With six months \[…\]
+
+## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117651697858245247)
+
+via Miguel de Icaza Mastondon feed · 2026-11-21
+
+RE: [https://icosahedron.website/@nifta/117651691023830809](https://icosahedron.website/@nifta/117651691023830809)
+
+User #6 found in the wild!
+
+## [Open Season at Our Kitchen Table](https://danismart.substack.com/p/open-season-at-our-kitchen-table)
+
+via Dani Smart Blog · 2026-11-21
+
+Eighteen months after the Big Beautiful Bill passed, the impacts saved for after the midterms are about to arrive.
+
+## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117651457563438695)
+
+via Miguel de Icaza Mastondon feed · 2026-11-20, updated 2026-11-21
+
+RE: [https://procursus.social/@hayden/117651420483822249](https://procursus.social/@hayden/117651420483822249)
+
+WE HAVE USER #5!
+
+## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117651414102364719)
+
+via Miguel de Icaza Mastondon feed · 2026-11-20, updated 2026-11-21
+
+RE: [https://mastodon.social/@hooliews/117651285092211208](https://mastodon.social/@hooliews/117651285092211208)
+
+OMG! User #4, at this speed I will have even more users than Anthropic!
+
+## [What Maintaining SwiftTerm Taught Me About AI Contributions](https://tirania.org/blog/archive/2026/Nov-20.html)
+
+via Miguel de Icaza's blog · 2026-11-20
+
+If you maintain an open-source project right now, your pull request queue probably looks very different than it did two years ago.
+
+I maintain [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm), an open-source terminal emulator library that is now seven years old. Today, I estimate that about 80% of the pull requests I receive involve AI in some capacity. Looking back, though, this didn't happen all at once—it came in distinct waves.
+
+Disclosure: as a Mexican national that routinely writes tedious and typo-ridden English blog posts, I had Antigravity fix my writing and repeated tedious and repetitive points (as my wife often points out).
+
+### Wave One: Vibe-Coded Band-Aids and Fork Experiments
+
+Before people even started opening AI-assisted pull requests on my repository, I would browse the GitHub network graph just to see what forks were popping up and what problems users were struggling with. Early on, what I found was a lot of "vibe coding"—folks patching around issues in ways that were fundamentally wrong, slapping surface-level band-aids over deeper terminal state bugs. I would fix or implement the feature, despite the fact that the user had not submitted the fix - for the sake of helping all my users.
+
+In one fork I stumbled across, someone had clearly unleashed an autonomous agent to try to fix _all_ of my open issues in rapid fire. Luckily, they never actually submitted those PRs—they were likely just experimenting—and it was only my nosy self browsing the network graph that spotted it. Still, looking through those commits confirmed the early reality: the fixes weren't worth merging. They solved surface symptoms without understanding the system.
+
+### The Rise of the Promptsplainer
+
+Alongside those early waves came a new open-source archetype—one that many communities had to deal with: the Promptsplainer.
+
+Some folks are really eager to particiapte in improving a project and LLMs have opened new doors, but they lack some basic etiquette.
+
+A Promptsplainer is someone who asks an LLM a question, gets back a confident-sounding explanation or a sprawling patch, and suddenly believes they can override decades of hard-won domain expertise. They don't actually understand the underlying quirks, race conditions, or protocol edge cases of the codebase they are touching. When a veteran maintainer points out a flaw, the Promptsplainer doesn't go investigate the code; they just copy-paste the maintainer's review comments straight back into their chat session and paste whatever the bot spits out next.
+
+You don't need a massive daily flood of Promptsplainers to feel the damage. Even the occasional encounter can fill a maintainer with rage - and with good reason.
+
+### Wave Two: "Send a Patch" Finally Became Real
+
+Here is what has changed dramatically over the last year. We went from AI fixes being flat-out wrong or lazy band-aids to pretty much landing in the right ballpark.
+
+To appreciate why this matters so much to me, you have to remember what maintaining an open-source library looked like just a few years ago. Back then, I would get a steady stream of bug reports—and if I had the spare time, the patience, the kids went to sleep early, and my Netflix queue was empty, I might actually sit down and fix the bug.
+
+For decades, open-source communities had a semi-joking, semi-exasperated stock response whenever a user asked, "Why doesn't it...?". We told them, **"Patches welcome,"** or **"Send a PR."** Most of the time, we knew they wouldn't, because diving into a complex codebase from scratch was too steep a climb. The perfect storm between unpaid volunteer work, uneducated takes and exasperation.
+
+Like many others, I have witnessed the change from getting bug reports to getting detailed pull requests. And I am personally grateful for this.
+
+My philosophy on incoming contributions comes down to a simple reality: **every PR represents a real pain point caught in the wild.** It means a real user ran into a problem in their day-to-day work, reported or tracked down the issue, found a working solution, and felt the pain acutely enough that they took the time to package it up and upstream it.
+
+As a maintainer, that is an infinitely better signal than my own laundry list of wish-list items sitting in the issue tracker. Even if the implementation needs additional work, someone just handed me proof of a real-world problem along with a concrete starting point to fix it.
+
+### Multi-Agent Code Review on My Side of the Table
+
+The catch is that many coding models and agents still have a bad habit of _just doing the fix_—taking the shortest path to make a test pass without stepping back to look at the whole library. And not every contributor has learned how to tune their agents for deep engineering review, or has access to the best models for it.
+
+The first pass of AI-generated code often needs work, and that is okay. Just as we spent years developing the discipline to master our programming languages, debuggers, and in some cases, write m4 macros, we now need to develop the muscle for using AI tools effectively—learning how to steer them, verify their assumptions, and audit their output.
+
+For me, building that muscle meant putting AI on _my_ side of the table to bridge the gap. Before I even bother reading a contributor's patch line-by-line, I religiously run `/code-review` in Claude and `/review` in ChatGPT \[1\].
+
+These review passes routinely catch far more than narrow syntax nits—they surface genuine architectural flaws, subtle API breakage, rare side effects, and terminal conformance problems that would take me hours to trace manually \[2\].
+
+Armed with that feedback, I can point contributors toward concrete architectural fixes—or, if someone disappears after opening a PR for a critical bug, I can clean up their branch and land it myself.
+
+Some maintainers lament that reviewing these PRs feels like talking to someone who just copies and pastes feedback into a remote LLM. But we are still communicating with a human being on the other end. That gives us a real opportunity not just to coach contributors on how to use these tools responsibly, but to model and adopt better engineering practices across our industry. Given that the economics of top-tier reasoning models aren't ideal for everyone doing casual open-source work, I’m happy to foot that bill on my end for the sake of keeping my library healthy.
+
+### The Friction of One-Size-Fits-All Rules
+
+This brings me to why I’ve been watching the broader debate around AI policies in large projects like Gnome and Godot with a lot of sympathy—and a bit of concern.
+
+At Godot's massive scale, protecting volunteer reviewers from unvetted submissions and the occasional Promptsplainer is a completely understandable instinct. Nobody wants their Netflix time eaten up by drive-by code the author didn't bother to understand.
+
+The challenge is that drawing hard lines around _how_ code was written inevitably creates friction for experienced contributors who are already doing the architectural heavy lifting. Recently, I tried to upstream a small, production-tested bug fix to Godot as a trial balloon—one of roughly 60 to 80 improvements my team has built and tested in our own tree. Because I disclosed my AI workflow honestly, it ran afoul of their strict guidelines and was rejected.
+
+When a policy polices provenance rather than quality, two unintended things happen:
+
+1. **It penalizes transparency:** Honest contributors who disclose their tools get blocked, while others are quietly nudged to keep quiet and pretend they typed every character by hand.
+2. **Good fixes stay locked in private forks:** Rather than wrestling with policy friction, teams like mine simply keep useful patches in our own internal trees. Because AI has made maintaining forks trivial, it doesn't slow us down—it just means the broader community misses out on fixes that could have helped everyone.
+
+### Accountability Over Provenance
+
+The Promptsplainer is a real headache, and open-source projects are right to push back against uncomprehending, drive-by contributions.
+
+But the antidote isn't banning the tools—it's requiring **human accountability** paired with better review tooling on the maintainer's side. At the end of the day, as the maintainer of a library, it is my role to make the editorial decisions about what goes in—and the people who depend on my library trust me to make those calls. Whether a patch started in an LLM prompt or was typed out by hand doesn't change that responsibility. If a contributor understands the problem, has tested the fix, and can engage thoughtfully in review as a human being, the models they used in their editor shouldn't disqualify their work.
+
+Of course, scaling that kind of review culture when a handful of core maintainers are already stretched thin is a structural challenge all its own.
+
+\[1\] With Claude I use Opus 5.5 alongside `/review` in **GPT 6.2** with **Sol-xhigh**. In Claude, `/code-review` actually launches multiple distinct agents in parallel, each focused on different goals and common engineering mistakes. Looking forward to Antigravity to get this.
+
+\[2\] In fact these reviews are so thorough, that I use `/code-review` on my own changes before shipping. In a seven-year-old codebase, it is impossible to keep every historical invariant in your head at once, and those agents regularly catch edge-case scenarios I had completely forgotten about.
+
+## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117651255329612684)
+
+via Miguel de Icaza Mastondon feed · 2026-11-20, updated 2026-11-21
+
+RE: [https://mastodon.social/@yzakius/117650956487034549](https://mastodon.social/@yzakius/117650956487034549)
+
+User #3! Hoping I can retain him for more than a day.
+
+## [Purism Differentiator Series, Part 20: Releasing Source Code to the Public](https://puri.sm/posts/purism-differentiator-series-part-20-releasing-source-code-to-the-public/)
+
+via Purism News and Events · 2026-11-20, updated 2026-11-21
+
+When we use a computer, we trust software to make decisions on our behalf. It stores our work, carries our messages, and helps run the services we depend on.
+
+The post [Purism Differentiator Series, Part 20: Releasing Source Code to the Public](https://puri.sm/posts/purism-differentiator-series-part-20-releasing-source-code-to-the-public/) appeared first on [Purism](https://puri.sm/).
+
+## [The Bubble is Bursting](https://robertreich.substack.com/p/the-bubble-is-bursting)
+
+via Robert Reich's blog · 2026-11-20, updated 2026-11-21
+
+Friends,
+
+## [Dealing with Deadlines](https://elijahpotter.dev/articles/dealing_with_deadlines)
+
+via Elijah Potter Blog · 2026-11-20, updated 2026-11-21
+
+### Dealing with Deadlines
+
+Harper will soon be do­ing more work on your de­vice than it ever has be­fore.
+We are prepar­ing to re­lease a se­ries of fan­tas­tic gram­mar check­ing mod­els ( [trans­form­ers](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer), in fact) that will sig­nif­i­cantly en­hance the kinds of things Harper can do for you.
+These mod­els are go­ing to be quite help­ful for every kind of writer, but they come with two ma­jor down­sides:
+They take time to run, and they con­sume up a lot of com­pute re­sources.
+
+We want to be mind­ful of our user’s com­put­ers, so we want to run these mod­els _only_ when nec­es­sary and we want the process to avoid in­ter­rupt­ing the user’s ﬂow.
+To that end, I am slightly mod­i­fy­ing how our var­i­ous rules check your text.
+
+In ad­di­tion to our de­sire to avoid wast­ing CPU cy­cles, there’s an­other prob­lem.
+We aim to of­fer the _best_ cor­rec­tions pos­si­ble in the time be­tween each key­stroke.
+This al­lows au­thors to min­i­mize the time be­tween when they write text and when they may re­view our sug­ges­tions.
+Af­ter all, Harper’s ul­ti­mate goal is to bring edit­ing time and en­ergy to 0.
+To achieve that, we need to be able to do as much analy­sis as pos­si­ble in the time be­tween when the user writes a pas­sage and when they are ready to re­view it.
+
+### Before The Deadline
+
+To al­low Harper to do the most work pos­si­ble in the time be­tween when a user ﬁn­ished typ­ing and when they’re ready for re­view, I am in­tro­duc­ing a new idea into Harper’s core gram­mar checker: the **dead­line**.
+Here’s how it works.
+
+Harper checks a va­ri­ety of in­di­vid­ual gram­mat­i­cal and styl­is­tic rules.
+Each one of these rules is pretty self con­tained.
+You can imag­ine them to be in­di­vid­ual lit­tle pro­grams.
+Every time Harper“checks” a doc­u­ment for er­rors (or for ways to im­prove it), each one of these pro­grams is run.
+
+To set up a dead­line, Harper will keep track of the through­put (in char­ac­ters per sec­ond) of every gram­mar pro­gram we run and there­fore every gram­mat­i­cal rule we check.
+When­ever we check a user’s doc­u­ment, Harper will keep track of ex­actly how much CPU time each rule con­sumes, then di­vide it by the doc­u­ment length.
+If we do this many times with a va­ri­ety of doc­u­ments, we can get a rough es­ti­mate of how long on av­er­age it takes a given rule to process and of­fer sug­ges­tions to im­prove or gram­mar check a sin­gle char­ac­ter
+
+I call this process cal­i­bra­tion.
+An ini­tial cal­i­bra­tion process will need to run when Harper ﬁrst starts up.
+That will hap­pen quickly in the back­ground, so the user will not even no­ticed it hap­pened.
+Af­ter that, the through­put es­ti­mates will con­tinue to get more ac­cu­rate as the user uses Harper.
+
+Once Harper has been cal­i­brated, we can as­sign dead­lines to spe­ciﬁc rules based on when the user might ex­pect them to be avail­able.
+Some things are most use­ful while the user is ac­tively typ­ing.
+
+For in­stance, I of­ten al­ready know if I have made a typo _be­fore_ I even ﬁn­ish typ­ing a word.
+When that hap­pens, I ex­pect the spell checker to al­ready be avail­able to ﬁx my prob­lem.
+With a quick tap of `Ctrl+e` I can ﬁx it with­out even read­ing what the spell checker thinks the word is.
+I trust it im­plic­itly to be both fast and cor­rect.
+Rules like this will be given a very fast dead­line, un­der 16 mil­lisec­onds.
+
+Other types of sug­ges­tions, like full sen­tence or para­graph rewrites, are not as time sen­si­tive.
+I do not need to read through a sug­ges­tion to rewrite a sen­tence un­til _af­ter_ I am ac­tu­ally ﬁn­ished writ­ing the sen­tence.
+Rules like these which need more time to process any­way will be given longer dead­lines mea­sured in sec­onds.
+
+### Evolution
+
+These dead­lines are only a frame­work to com­mu­ni­cate to Harper’s core how long an op­er­a­tion is _al­lowed_ to take.
+Fine tun­ing the speciﬁcs of what the dead­lines should be is an­other, big­ger prob­lem.
+
+I can imag­ine a fu­ture where we train a small neural net­work to in­fer these dead­lines from past key­strokes, but we are not quite there yet.
+To start, we will use very coarse es­ti­ma­tions of what a“good” dead­line looks like for var­i­ous sit­u­a­tions.
+If the course dead­lines turn out to work well enough, great! If not, we can al­ways it­er­ate un­til we at­tain per­fec­tion.
+
+Of course, if any read­ers have any in­put on what a good dead­line looks like, let me know!
+
+## [457: ‘A Whoopsie Treason’, With Christina Warren](https://daringfireball.net/thetalkshow/2026/11/20/ep-457)
+
+via The Talkshow with John Grubber · 2026-11-20
+
+Christina Warren returns for a jam-packed show: Jensen Huang-gate at Nvidia, the HomeView, the new iPad Mini, more on the iPhone Duo, and Robert "R-Patz" Pattinson taking the role of James Bond.
+
+## [Friday Squid Blogging: The Largest Squid Ever Filmed](https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html)
+
+via Bruce Schneier blog · 2026-11-20
+
+This [is the story](https://www.worldatlas.com/oceans/the-largest-squid-ever-filmed.html) of the largest squid ever filmed, in December 2006 near Japan’s Ogasawara Islands.
+
+As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.
+
+[Blog moderation policy.](https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html)
+
+## [New Theme: Calm](https://netnewswire.blog/2026/11/20/new-theme-calm.html)
+
+via NetNewsWire · 2026-11-20, updated 2019-08-31
+
+New NetNewsWire Theme [Calm](https://raisul.xyz/projects/calm) is for “for long articles you want to enjoy, not rush. Everything you need, nothing you don’t.”
+
+It even includes a map, which I think is a first for NetNewsWire themes and is a pretty cool idea.
+
+> In structured articles, the headings become destinations you can jump to. Simpler essays get five quiet depth markers instead.
+
+Here’s the [announcement on the forum](https://discourse.netnewswire.com/t/new-theme-calm/509) if you want to chat or ask questions about it.
+
+## [WTF was that Trump press conference?](https://www.publicnotice.co/p/wtf-was-that-trump-press-conference)
+
+via Public Notice blog · 2026-11-20, updated 2026-11-21
+
+Paul and I try to make sense of the insanity.
+
+## [Peltola wins Alaska. Jeffries nominated Speaker, Van Hollen gains. Trump meets with Putin and Xi.](https://thinkbigpicture.substack.com/p/november-20-weekly-news-roundup)
+
+via Think Big Picture · 2026-11-20, updated 2026-11-21
+
+Mary Peltola Declared The Winner in Alaska Senate Race
+
+## [Preparing for Investigations](https://heathercoxrichardson.substack.com/p/preparing-for-investigations)
+
+via Heather Cox Richardson blog · 2026-11-20, updated 2026-11-21
+
+To read this letter, click here:
+
+## [Switching to Canadian Social Media](https://smist08.wordpress.com/2026/11/20/switching-to-canadian-social-media/)
+
+via Stephen Smith's blog · 2026-11-20
+
+Introduction USA based social media has become a weaponized political tool to promote the MAGA agenda and the agenda of the oligarchs. Social media offers a lot of useful contact between friends and relatives along with providing useful community information. However, this is all being spoiled by a barrage of political propaganda along with a \[…\]
+
+## [Fluorescent Thanksgiving](https://www.aiweirdness.com/fluorescent-thanksgiving/)
+
+via AI Weirdness Blog · 2026-11-20
+
+I looked at a bunch of Thanksgiving foods under UV light and they basically all glow. Don't worry, it's fine!
+
+## [Introducing RouteScout](https://a.wholelottanothing.org/introducing-routescout/)
+
+via Matt Haughey blog · 2026-11-20
+
+Big news: This month I became a mailman! But I don't get to wear all the cool clothes because I'm working at a rural office (you can wear whatever you want on rural routes) and I'm in a part-time role helping full-time
+
+## [Black Friday 2026](https://mjtsai.com/blog/2026/11/20/black-friday-2026/)
+
+via Michael Tsai · 2026-11-20, updated 2026-11-21
+
+Apps: DropDMG: Mac disk images and archives EagleFiler: everything bucket, notes, and e-mail archiver SpamSieve: Mac e-mail spam filtering Path Finder: powerful Mac file manager (code: 25YEARS) Picmal: image/video/audio/PDF converter Cozy: journal that syncs using your cloud storage Beatcast: iPhone heart rate monitor DockMagic: Mac widget Dock Clam Sync: syncs multicam footage by sound and \[…\]
+
+## [What the Internet Isn’t, and How to Get Privacy There](https://doc.searls.com/2026/11/20/what-the-internet-isnt-and-how-to-get-privacy-there/)
+
+via Doc Searls (at Harvard), New Old Blog · 2026-11-20, updated 2026-11-21
+
+Data Minimization is Imperative for the Age of AI Agents is a new essay in Tech Policy Press by Bruce Schneier and Brett Frischman that makes a bunch of important points. I agree with all of them, except for the opening line: “Surveillance is the business model of the internet.” This is a one-liner that \[…\]
+
+## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117650202330204888)
+
+via Miguel de Icaza Mastondon feed · 2026-11-20, updated 2026-11-21
+
+What Maintaining SwiftTerm Taught Me About AI Contributions:
+
+[https://tirania.org/blog/archive/2026/Nov-20.html](https://tirania.org/blog/archive/2026/Nov-20.html)
+
+## [Notable links: November 20, 2026](https://werd.io/notable-links-november-20-2026/)
+
+via Werd IO · 2026-11-20
+
+We need new communities, new cultures, and new tools.
+
+## [Klara y el sol: buenos días a la vida, buenos días señor sol](https://www.palomitademaiz.net/resenas-klara-y-el-sol/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-klara-y-el-sol)
+
+via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-11-20
+
+Dirección: Taika Waititi. Guion: Taika Waititi, Dahvi Waller, Kazuo Ishiguro. Elenco: Jenna Ortega, Amy Adams, Mia Tharia, Aran Murphy, Natasha Lyonne, Steve Buscemi, Rachel House, Jesse Griffin. Países: Estados Unidos, Reino Unido, Nueva Zelanda. Duración: 116 minutos. Más información de la película: https://www.imdb.com/title/tt14371256/ Klara (Jenna Ortega) comienza todos sus días saludando al sol y pidiéndole \[…\]
+
+La entrada [Klara y el sol: buenos días a la vida, buenos días señor sol](https://www.palomitademaiz.net/resenas-klara-y-el-sol/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).
+
+## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117649787883150437)
+
+via Miguel de Icaza Mastondon feed · 2026-11-20, updated 2026-11-21
+
+The last time I updated my blog software was in 2022, and I can not even figure out which Makefile target or Mono runtime I used to deploy things.
+
+This is a bit of a mess.
+
+## [To unlock your team, reset your culture.](https://werd.io/to-unlock-your-team-reset-your-culture/)
+
+via Werd IO · 2026-11-20
+
+"I believe there are a lot of excellent individuals working in flawed cultures." Here's a path to resetting them and finding your way to high performance.
+
+## [@DAIR blog](https://bsky.app/profile/dairinstitute.bsky.social/post/3n2qxo6fddw2u)
+
+via DAIR blog · 2026-11-20
+
+👀 Get a sneak-peek at the new Data Workers United site! 👀
+We're launching it a few days early.
+
+Visit to learn how we're organizing data workers across the globe for solidarity and collective action: https://dataworkersunited.org
+
+@superrrnetwork.bsky.social
+@dataworkersinquiry.bsky.social
+
+## [Humanwashing and Pursuit](https://thebrowser.com/free/humanwashing-and-pursuit/)
+
+via The Browser · 2026-11-20, updated 2026-11-21
+
+Writing of lasting value
+
+## [While We Had A Very Good Week Greater MAGA And The Trump Regime Had A Very Bad One](https://www.hopiumchronicles.com/p/while-we-had-a-very-good-week-greater)
+
+via Hopium Chronicles blog · 2026-11-20, updated 2026-11-21
+
+215pm ET - Eric Croft, the Alaska Democratic Party Chair, joins us to review their big, big wins this week - Senate and Governor!
+
+## [The Shenzhen Summit Supplants Yalta](https://www.noemamag.com/the-shenzhen-summit-supplants-yalta)
+
+via W. Kamau Bell blog · 2026-11-20
+
+The post [The Shenzhen Summit Supplants Yalta](https://www.noemamag.com/the-shenzhen-summit-supplants-yalta) appeared first on [NOEMA](https://www.noemamag.com).
+
+## [@IIIF Mastodon feed](https://glammr.us/@IIIF/117649524494744808)
+
+via IIIF Mastodon feed · 2026-11-20
+
+Registration for Practical AI Tools for Working with IIIF Images is now open for all!
+
+Join us on Dec. 2 to get started augmenting [#IIIF](https://glammr.us/tags/IIIF) manifets with AI outputs to increase access and support reuse. [https://www.eventbrite.com/e/practical-ai-tools-for-working-with-iiif-images-tickets-2004304369323](https://www.eventbrite.com/e/practical-ai-tools-for-working-with-iiif-images-tickets-2004304369323)
+
+## [Librem 5 v2 Campaign Builds Early Momentum at 100 Orders](https://puri.sm/posts/librem-5-v2-campaign-builds-early-momentum-at-100-orders/)
+
+via Purism News and Events · 2026-11-20, updated 2026-11-21
+
+A new smartphone campaign has reached a memorable early milestone. Following its public launch on November 17, Purism’s Librem 5 v2 crowdfunding campaign has the first 100 of its 2,500-order goal. That early progress signals interest in a different vision for mobile technology: one built around user control, open software, and digital independence.
+
+The post [Librem 5 v2 Campaign Builds Early Momentum at 100 Orders](https://puri.sm/posts/librem-5-v2-campaign-builds-early-momentum-at-100-orders/) appeared first on [Purism](https://puri.sm/).
+
+## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117649394256761179)
+
+via Pleiades STOA at hcommons.socal · 2026-11-20
+
+Export Updates 2026-11-20:
+
+Pleiades gazetteer of ancient places
+
+26 updated places. 22 updated linked data sidebars. Inbound PATHs Atlas links are stale because their download was not available at runtime. The QA dashboard has been updated at [https://atlantides.org/qa-dashboard/](https://atlantides.org/qa-dashboard/)
+
+1\. Downloads: [https://pleiades.stoa.org/downloads](https://pleiades.stoa.org/downloads)
+
+2\. pleiades.datasets: [https://github.com/isawnyu/pleiades.datasets](https://github.com/isawnyu/pleiades.datasets):
+
+"main" branch:
+
+f753d8eb - updated json
+
+no change: rdf/ttl
+
+92de03e4 - updated gis package
+
+42d1a237 - updated data quality
+
+9ae004d0 - updated bibliography
+
+0e6ac5c0 - updated indexes
+
+36be7e8f - updated sidebar
+
+3\. pleiades-geojson: [https://github.com/ryanfb/pleiades-geojson](https://github.com/ryanfb/pleiades-geojson):
+
+638e245a - updated geojson and names index
+
+4\. pleiades\_wikidata: [https://github.com/isawnyu/pleiades\_wikidata/](https://github.com/isawnyu/pleiades_wikidata/):
+
+02cc50fe - updated pleiades wikidata
+
+## [What powered Democratic gains with Latinos in 2026?](https://www.gelliottmorris.com/p/2026-11-20-latino-voters-turned-first)
+
+via Strength in Numbere · 2026-11-20, updated 2026-11-21
+
+Pundits held up the 2020-2024 swing among Latino voters as proof of a racial realignment in American politics. This year, Latinos swung back more than any group but young voters, erasing those gains.
+
 ## [The Biggest Midterm Win that No One Is Talking About](https://plus.briantylercohen.com/p/the-biggest-midterm-win-that-no-one)
 
-via Brian Taylor Cohen blog · 2026-11-20
+via Brian Taylor Cohen blog · 2026-11-20, updated 2026-11-21
 
 Something happened in Montana that may change politics forever.
 
 ## [Breaking: Anthropic stock is crashing, and AI stocks have lost over 50% in 5 months.](https://garymarcus.substack.com/p/breaking-anthropic-stock-is-crashing)
 
-via Gary Marcus blog · 2026-11-20
+via Gary Marcus blog · 2026-11-20, updated 2026-11-21
 
 Anthropic, which dropped steadily after its opening yesterday, is set to drop nearly 10% more at the opening bell.
 
@@ -56,7 +534,7 @@ via Dave Winer's Scripting News · 2026-11-20
 
 ## [UPDATE: Zacharia under investigation](https://popular.info/p/update-zacharia-under-investigation)
 
-via Popular Information (Judd Legum) · 2026-11-20
+via Popular Information (Judd Legum) · 2026-11-20, updated 2026-11-21
 
 The State Bar of California has opened a formal investigation into former White House press secretary Katie Zacharia, according to confidential correspondence obtained by Popular Information.
 
@@ -88,7 +566,7 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 
 ## [Why Are Tech Lords Rallying Around a Man Who Sold Out America?](https://paulkrugman.substack.com/p/why-are-tech-lords-rallying-around)
 
-via Paul Krugman · 2026-11-20
+via Paul Krugman · 2026-11-20, updated 2026-11-21
 
 The Jensen Huang story keeps getting worse
 
@@ -100,7 +578,7 @@ How do this year’s National Book Award finalists fight writer’s block? By re
 
 ## [Sex, lies, and export controls](https://www.publicnotice.co/p/trump-huang-export-controls-nvidia)
 
-via Public Notice blog · 2026-11-20
+via Public Notice blog · 2026-11-20, updated 2026-11-21
 
 Trump’s personalist regime made Huang-gate possible.
 
@@ -108,7 +586,7 @@ Trump’s personalist regime made Huang-gate possible.
 
 via Law and Political Economy Blog · 2026-11-20
 
-Pamela Foohey on why so many Black churches are turning to chapter 11 bankruptcy, and Sandeep Dhaliwal on why W.E.B. Du Bois belongs in the canon of American legal thought. Plus, job openings at the Center for Law and the Economy, Vanessa Williamson on the Cybertruck of tax policy, Luke Norris on the anti-authoritarian roots of class action, Amna Akbar on the midterms, John Newman and Hal Singer on DoorDash's Acquisition of Instacart, Noah Rosinplotz on five ways to tax the rich, Isabella Webber on the politics of essential goods, Alberto Toscano on the plasticity of fascism, and Beau Baumann with a convincing defense of the Supreme Court.
+Pamela Foohey on why so many Black churches are turning to chapter 11 bankruptcy, and Sandeep Dhaliwal on why W.E.B. Du Bois belongs in the canon of American legal thought. Plus, job openings at the Center for Law and the Economy, Vanessa Williamson on the Cybertruck of tax policy, Luke Norris on the anti-authoritarian roots of class action, Amna Akbar on the midterms, John Newman and Hal Singer on DoorDash's Acquisition of Instacart, Noa Rosinplotz on five ways to tax the rich, Isabella Webber on the politics of essential goods, Alberto Toscano on the plasticity of fascism, and Beau Baumann with a convincing defense of the Supreme Court.
 
 ## [Pluralistic: Lisa Hanawalt's "I Can't Stop Thinking About Horses and Sex" (20 Nov 2026)](https://pluralistic.net/2026/11/20/intrusive-horse-thoughts/)
 
@@ -118,7 +596,7 @@ Today's links Lisa Hanawalt's "I Can't Stop Thinking About Horses and Sex": A me
 
 ## [Democrats: Drain Trump’s Swamp!](https://robertreich.substack.com/p/the-underlying-objective-public-morality)
 
-via Robert Reich's blog · 2026-11-20
+via Robert Reich's blog · 2026-11-20, updated 2026-11-21
 
 They must reverse the public squalor at the heart of the Trump regime
 
@@ -170,6 +648,12 @@ via LitHub · 2026-11-20
 
 The members of the firing squad have been selected, the rifles are ready to be loaded, as soon as the day dawns and the grave is dug, it will be my turn to act. Or not act. My brothers, all
 
+## [Dragoncatcher: The human voice](https://www.robinsloan.com/lab/human-voice/)
+
+via Robin Sloan Blog · 2026-11-20
+
+Sparkles on the screen. [Read here.](https://www.robinsloan.com/lab/human-voice/)
+
 ## [Ask an engineer – exclusive advice from the brains behind Raspberry Pi](https://www.raspberrypi.com/news/ask-an-engineer-exclusive-advice-from-the-brains-behind-raspberry-pi/)
 
 via Raspberry Pi News (.com) · 2026-11-20
@@ -186,7 +670,7 @@ AI isn't going to end civilization, but that claim is a great way to make it see
 
 ## [November 19, 2026](https://heathercoxrichardson.substack.com/p/november-19-2026)
 
-via Heather Cox Richardson blog · 2026-11-20
+via Heather Cox Richardson blog · 2026-11-20, updated 2026-11-21
 
 Democrats who will soon be at the head of congressional committees are indicating to members of the administration that they will soon be answering questions about their actions during the past two years.
 
@@ -200,19 +684,19 @@ I like the new Docker whale. He’s chunky.
 
 ## [Politics Chat, November 19, 2026](https://heathercoxrichardson.substack.com/p/politics-chat-november-19-2026-54e)
 
-via Heather Cox Richardson blog · 2026-11-20
+via Heather Cox Richardson blog · 2026-11-20, updated 2026-11-21
 
 Watch today’s live recording here.
 
 ## [I Am Not Now, Nor Was I Ever, MAGA](https://www.borowitzreport.com/p/i-am-not-now-nor-was-i-ever-maga)
 
-via Borowitz Report · 2026-11-20
+via Borowitz Report · 2026-11-20, updated 2026-11-21
 
 A letter from Elon Musk
 
 ## [Politics Chat, November 19, 2026](https://heathercoxrichardson.substack.com/p/politics-chat-november-19-2026)
 
-via Heather Cox Richardson blog · 2026-11-20
+via Heather Cox Richardson blog · 2026-11-20, updated 2026-11-21
 
 Listen on Apple Podcasts
 
@@ -222,6 +706,12 @@ via John Naughton's online diary · 2026-11-20, updated 2026-11-19
 
 Three Little Dogs Are We Quote of the Day “I hate posterity – it’s so fond of having the last word.” Saki (H.H. Munro) Musical alternative to the morning’s radio news Georg Philipp Telemann (1681 – 1767) \| Concerto in … [Continue reading →](https://memex.naughtons.org/friday-20-november-2026/42976/)
 
+## [Scrapheap America](https://dansinker.com/posts/2026-11-20-scrapheap/)
+
+via Dan Sinker · 2026-11-20
+
+I was in bed with the flu as America fell apart.
+
 ## [The unanxious sender: How to stop worrying and love unsubscribes](https://buttondown.com/blog/dealing-with-feedback)
 
 via Buttondown Blog · 2026-11-20
@@ -230,7 +720,7 @@ No one can seem to agree whether you should 'toughen up' or turn the notificatio
 
 ## [Fri, Nov 20, 1pm ET - Founding Members Gather To Keep Celebrating This Historic Election!](https://www.hopiumchronicles.com/p/fri-nov-20-1pm-et-founding-members)
 
-via Hopium Chronicles blog · 2026-11-19, updated 2026-11-20
+via Hopium Chronicles blog · 2026-11-19, updated 2026-11-21
 
 Alaska Dem Chair Eric Croft joins us live tomorrow at 215pm ET to review their big, big wins this week!
 
@@ -242,9 +732,17 @@ I couldn’t be prouder of all the candidates who stepped up this cycle to tell 
 
 ## [With Friends Like These…](https://steady.substack.com/p/with-friends-like-these)
 
-via Dan Rather's Steady · 2026-11-19, updated 2026-11-20
+via Dan Rather's Steady · 2026-11-19, updated 2026-11-21
 
 Trump cozies up while America goes dark
+
+## [Purism Differentiator Series, Part 19: PureOS Store](https://puri.sm/posts/purism-differentiator-series-part-19-pureos-store/)
+
+via Purism News and Events · 2026-11-19, updated 2026-11-21
+
+A useful app store should make it easy to find and install software. It should also help people understand what they are choosing.
+
+The post [Purism Differentiator Series, Part 19: PureOS Store](https://puri.sm/posts/purism-differentiator-series-part-19-pureos-store/) appeared first on [Purism](https://puri.sm/).
 
 ## [A Latino Nonprofit Campaigns for Ocean Conservation](https://www.clf.org/blog/a-latino-nonprofit-campaigns-for-ocean-conservation/)
 
@@ -256,13 +754,13 @@ The post [A Latino Nonprofit Campaigns for Ocean Conservation](https://www.clf.o
 
 ## [House Democrats’ Sweeping Anti-Corruption Agenda](https://thinkbigpicture.substack.com/p/robert-garcia-oversight-trump-corruption)
 
-via Think Big Picture · 2026-11-19, updated 2026-11-20
+via Think Big Picture · 2026-11-19, updated 2026-11-21
 
 Rep. Robert Garcia understands the mandate voters gave Democrats two weeks ago. He intends to start on day one.
 
 ## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117645456161505333)
 
-via Miguel de Icaza Mastondon feed · 2026-11-19
+via Miguel de Icaza Mastondon feed · 2026-11-19, updated 2026-11-21
 
 I thought I’d write a blog post, but now I feel like I should first upgrade my 23-year-old, C#-based, 992-line blog engine based on stolen CSS.
 
@@ -276,61 +774,61 @@ McCormack was the perfect guy for an essential job, and he leaves big shoes to f
 
 ## [Seriously? with Guy Kawasaki, Anne P. Mitchell and Mitch Jackson](https://guykawasaki.substack.com/p/seriously-with-guy-kawasaki-anne)
 
-via Guy Kawasaki blog · 2026-11-19, updated 2026-11-20
+via Guy Kawasaki blog · 2026-11-19, updated 2026-11-21
 
 A recording from Guy Kawasaki and Mitch Jackson's live video
 
 ## [The “Smorgasbord Theory” of the 2026 midterms](https://www.gelliottmorris.com/p/2026-11-19-the-smorgasbord-theory-of-the-2026)
 
-via Strength in Numbere · 2026-11-19, updated 2026-11-20
+via Strength in Numbere · 2026-11-19, updated 2026-11-21
 
 The Democrats didn’t win an electoral “tsunami” because of affordability alone. Backlash to Trump/Republicans on deportations, corruption and democracy fueled their win too
 
 ## [The Anthropic Bubble](https://robertreich.substack.com/p/the-anthropic-bubble)
 
-via Robert Reich's blog · 2026-11-19, updated 2026-11-20
+via Robert Reich's blog · 2026-11-19, updated 2026-11-21
 
 Friends,
 
 ## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117645192497089185)
 
-via Miguel de Icaza Mastondon feed · 2026-11-19
+via Miguel de Icaza Mastondon feed · 2026-11-19, updated 2026-11-21
 
 "You are taking advice from the deadweight loss of society"
 
 ## [They Did It! - Chair Devin Remiker On How The Wisconsin Dems Finally Got Their Trifecta Back](https://www.hopiumchronicles.com/p/they-did-it-chair-devin-remiker-on)
 
-via Hopium Chronicles blog · 2026-11-19, updated 2026-11-20
+via Hopium Chronicles blog · 2026-11-19, updated 2026-11-21
 
 Enjoy this latest post-election recap from battleground state party Chairs....
 
 ## [Anthropic IPO](https://mjtsai.com/blog/2026/11/19/anthropic-ipo/)
 
-via Michael Tsai · 2026-11-19
+via Michael Tsai · 2026-11-19, updated 2026-11-21
 
 Anthropic (Hacker News): The shares are expected to begin trading on the Nasdaq Global Select Market on November 19, 2026 under the symbol “ANT.” The offering is expected to close on November 20, 2026, subject to the satisfaction of customary closing conditions. Reuters (Hacker News): Anthropic notched a valuation of about $2 trillion in its \[…\]
 
 ## [PHP: Mixed-Case URL Schemes Can Expose Data](https://mjtsai.com/blog/2026/11/19/php-mixed-case-url-schemes-can-expose-data/)
 
-via Michael Tsai · 2026-11-19
+via Michael Tsai · 2026-11-19, updated 2026-11-21
 
 PHP (Mattias Geniar): PHP’s HTTP and FTP stream wrappers can send data without encryption when an HTTPS or FTPS URL has an uppercase S in its scheme, for example HTTPS://, httpS:// or FTPS://. Applications using file\_get\_contents(), fopen() or other stream functions may therefore expose passwords, authentication tokens, request bodies or transferred files to an attacker \[…\]
 
 ## [Lemon Squeezy Shutting Down](https://mjtsai.com/blog/2026/11/19/lemon-squeezy-shutting-down/)
 
-via Michael Tsai · 2026-11-19
+via Michael Tsai · 2026-11-19, updated 2026-11-21
 
 JR Farr (Hacker News): As of today, we’ve closed new store sign-ups, and Lemon Squeezy will stop processing payments on March 31, 2027. \[…\] When we joined Stripe, we set out to take everything we learned building Lemon Squeezy, and build it directly on Stripe’s infrastructure. That became Managed Payments, Stripe’s merchant of record solution. \[…\]
 
 ## [homeOS 27.2.1](https://mjtsai.com/blog/2026/11/19/homeos-27-2-1/)
 
-via Michael Tsai · 2026-11-19
+via Michael Tsai · 2026-11-19, updated 2026-11-21
 
 Juli Clover (release notes, no security): Apple today released new 27.2.1 software for the HomeView, marking the first post-release software update for the device. Bugs fixed: Setting up a Shared Album on the Photos face may prevent the device from downloading support for Siri, causing Siri to be unavailablePairing with an iPhone or iPad running \[…\]
 
 ## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117645040469379968)
 
-via Miguel de Icaza Mastondon feed · 2026-11-19
+via Miguel de Icaza Mastondon feed · 2026-11-19, updated 2026-11-21
 
 Xogot now support AppClips to share your creations with friends and run them with the full Godot Engine, and to help you get your creative juices flowing, we added a complete git client.
 
@@ -338,13 +836,13 @@ Details: [https://blog.xogot.com/xogot-update-first-class-git-and-native-app-cli
 
 ## [Breaking: It doesn’t look Anthropic’s IPO is going to save the tech industry](https://garymarcus.substack.com/p/breaking-it-doesnt-look-anthropics)
 
-via Gary Marcus blog · 2026-11-19, updated 2026-11-20
+via Gary Marcus blog · 2026-11-19, updated 2026-11-21
 
 Another rough day on Wall Street
 
 ## [The Gettysburg Address](https://heathercoxrichardson.substack.com/p/the-gettysburg-address)
 
-via Heather Cox Richardson blog · 2026-11-19, updated 2026-11-20
+via Heather Cox Richardson blog · 2026-11-19, updated 2026-11-21
 
 To read this letter, click here:
 
@@ -374,13 +872,13 @@ As another media-industry stalwart shuts down, it remains essential for media ou
 
 ## [First thoughts on BonBon Markdown Browser](https://andysylvester.com/2026/11/19/first-thoughts-on-bonbon-markdown-browser/)
 
-via Andy Sylvester's River of News · 2026-11-19
+via Andy Sylvester's River of News · 2026-11-19, updated 2026-11-21
 
 Overview This week, Dave Winer announced the release of the initial app version of the Bonbon Markdown browser. This application focuses on display of files written in the Markdown format. Other formats may be added in the future, but for now Markdown files are the main format that can be displayed (entering a URL for \[…\]
 
 ## [Price Is Not the Entire Point: How Purism is Building a Different Digital Future](https://puri.sm/posts/price-is-not-the-entire-point-how-purism-is-building-a-different-digital-future/)
 
-via Purism News and Events · 2026-11-19, updated 2026-11-20
+via Purism News and Events · 2026-11-19, updated 2026-11-21
 
 A phone has a price. Digital freedom has a value. If we judge a revolutionary phone only by its price tag, we miss the work behind it.
 
@@ -388,23 +886,29 @@ The post [Price Is Not the Entire Point: How Purism is Building a Different Digi
 
 ## [Scott MacFarlane \| American Conversations](https://heathercoxrichardson.substack.com/p/scott-macfarlane-american-conversations-1d8)
 
-via Heather Cox Richardson blog · 2026-11-19, updated 2026-11-20
+via Heather Cox Richardson blog · 2026-11-19, updated 2026-11-21
 
 A newsletter about the history behind today's politics.
 
 ## [Inside the White House, the Mueller Investigation, and the Fight for Accountability with Ty Cobb](https://guykawasaki.substack.com/p/inside-the-white-house-the-mueller)
 
-via Guy Kawasaki blog · 2026-11-19, updated 2026-11-20
+via Guy Kawasaki blog · 2026-11-19, updated 2026-11-21
 
 Ty Cobb shares an insider’s view of the White House, the Mueller investigation, the rule of law, and the fight to protect American democracy.
 
 ## [La libertad doble (BIFF 12): paradojas y paradigmas de la libertad](https://www.palomitademaiz.net/resenas-la-libertad-doble-biff-12/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-la-libertad-doble-biff-12)
 
-via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-11-19, updated 2026-11-17
+via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-11-19, updated 2026-11-20
 
 Sección: Masters.  Dirección: Lisandro Alonso. Guion: Lisandro Alonso. Elenco: Misael Saavedra & Catalina Saavedra. Países: Argentina, Chile, Luxemburgo, Alemania, Reino Unido. Más información de la película https://www.imdb.com/title/tt33037660/  En la filosofía Marxista, la libertad carga un doble sentido ya que, bajo la lógica del libre mercado, el trabajador es libre de vender su fuerza y su \[…\]
 
 La entrada [La libertad doble (BIFF 12): paradojas y paradigmas de la libertad](https://www.palomitademaiz.net/resenas-la-libertad-doble-biff-12/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).
+
+## [Escher and Bureaucrats](https://thebrowser.com/free/escher-and-bureaucrats/)
+
+via The Browser · 2026-11-19, updated 2026-11-21
+
+Writing of lasting value
 
 ## [Show Me The Money](https://blog.dshr.org/2026/11/show-me-money.html)
 
@@ -419,8 +923,8 @@ Michael B. Kelley's [_'Yikes': CoreWeave stock tanks on bond yield woes, CEO bla
 
 Toby Nangle's [_The AI megatrade’s mounting portfolio concentration risk problem_](https://www.ft.com/content/2f4d39dd-dee8-4620-996d-3fe978b7522b) is a fascinating discussion of the looming conflict between:
 
-- the plans of the AI industry (hyperscalers, neoclouds like coreWeave, and AI labs) to _borrow_ gigantic suums in the bond market to fund their data center buildout
-- and the constraints of the institutions such as pension funds that _lend_ gigantic sums in the boind markets,
+- the plans of the AI industry (hyperscalers, neoclouds like coreWeave, and AI labs) to _borrow_ gigantic sums in the bond market to fund their data center buildout
+- and the constraints of the institutions such as pension funds that _lend_ gigantic sums in the bond markets,
 
 One of these constraints is widely known. Institutions such as pension funds will only lend to borrowers whose debt is rated "investment grade". And one problem for the AI industry is that the neoclouds are not, and the AI labs will apparently not be investment grade. The hyperscalers "special purpose vehicles" (SPVs) that get debt off their balance sheets are a ploy that isn't convincing either the rating agencies or bond market investors. Oracle's "investment grade" debt is trading as junk.
 
@@ -442,7 +946,7 @@ Nangle tries to estimate the demand for debt [_just from the hyperscalers_](http
 >
 > All this means that while $2-3tn sounds like quite a lot of money, it’s not a mad amount of debt for the market to absorb over the next few years. Not even close.
 
-But it turns out that even an investment grade compnay may not be able to get their hands on [all the money in the world](https://www.ft.com/content/2f4d39dd-dee8-4620-996d-3fe978b7522b)":
+But it turns out that even an investment grade company may not be able to get their hands on [all the money in the world](https://www.ft.com/content/2f4d39dd-dee8-4620-996d-3fe978b7522b)":
 
 > But $2tn from a handful of individual companies operating out of a single sector? That’s a different matter.
 
@@ -509,19 +1013,13 @@ One result of Jensen's exit is new restrictions on [sales to China](https://www.
 
 > Analysts at Jefferies estimate that the new restrictions put between $44bn and $62bn of Nvidia’s 2027 chip sales at risk, equivalent to 11 per cent and 16 per cent of its 2027 data centre revenue at the consensus level. The forecast includes approximately [600,000 Nvidia chips reported to be stranded in Hong Kong](https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/) without import licences, worth about $18bn, which China could now plausibly return to sender in retaliation. Such a reduction in GPU sales would imply a gigawatt or two off ex-China global data centre capacity, all else equal.
 
-All this makes it hard to undestand the [credit teams exuberance](https://www.ft.com/content/115eeb4e-4d7c-468b-968d-0bbb74a229b1):
+All this makes it hard to understand the [credit teams exuberance](https://www.ft.com/content/115eeb4e-4d7c-468b-968d-0bbb74a229b1):
 
 > The bank’s credit team had previously forecast $300bn in global AI project finance supply. It now splits the estimate into $225bn for “shells” (meaning warehouses, not necessarily plugged in) and another $320bn for “compute” (meaning chips, not necessarily plugged in).
 
 That's a total of $545B, 20% more than the $435B available from the investment grade market under a 5% cap on sector exposure.
 
 So where is all the money to come from?
-
-## [Escher and Bureaucrats](https://thebrowser.com/free/escher-and-bureaucrats/)
-
-via The Browser · 2026-11-19
-
-Writing of lasting value
 
 ## [A Newsletter of Humorous Writing #470](https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-470/)
 
@@ -537,7 +1035,7 @@ Hello and welcome to **A Newsletter of Humorous Writing**, a roundup of the week
 
 ### What We Enjoyed This Week
 
-[**Dear Age-Gap Expert**](https://www.newyorker.com/humor/shouts-murmurs/dear-age-gap-expert?utm_source=humorouswriting&utm_medium=email&utm_campaign=a-newsletter-of-humorous-writing-470) **by** [**Claire Pelligrino**](https://www.instagram.com/pellegrino_claire/?utm_source=humorouswriting&utm_medium=email&utm_campaign=a-newsletter-of-humorous-writing-470) _(The New Yorker)_ This one starts from a very heightened place right out of the gate, and manages to keep heightening in a nice clear way until the end. We also appreciate that there’s no explanation or justification given for how the “Decembers” (to put it mildly) in all these relationships have lived so long. You don’t need it! It would only slow things down.
+[**Dear Age-Gap Expert**](https://www.newyorker.com/humor/shouts-murmurs/dear-age-gap-expert?utm_source=humorouswriting&utm_medium=email&utm_campaign=a-newsletter-of-humorous-writing-470) **by** [**Claire Pellegrino**](https://www.instagram.com/pellegrino_claire/?utm_source=humorouswriting&utm_medium=email&utm_campaign=a-newsletter-of-humorous-writing-470) _(The New Yorker)_ This one starts from a very heightened place right out of the gate, and manages to keep heightening in a nice clear way until the end. We also appreciate that there’s no explanation or justification given for how the “Decembers” (to put it mildly) in all these relationships have lived so long. You don’t need it! It would only slow things down.
 
 [**Scenes Cut from Godzilla Minus Zero That Were Inspired by the Director’s Cats**](https://www.mcsweeneys.net/articles/scenes-cut-from-godzilla-minus-zero-that-were-inspired-by-the-directors-cats?utm_source=humorouswriting&utm_medium=email&utm_campaign=a-newsletter-of-humorous-writing-470) **by** [**Amanda Lehr**](https://bsky.app/profile/amandalehr.bsky.social?utm_source=humorouswriting&utm_medium=email&utm_campaign=a-newsletter-of-humorous-writing-470) _(McSweeney’s)_ Amanda creates some terrifically funny images here—it’s tough to pick just one to highlight as a favorite, but "Godzilla stands with one foot on the beach and one foot in the water while making direct eye contact” is up there. We also really enjoyed the recurring “IN THE GODDAMN MORNING” gag.
 
@@ -601,7 +1099,7 @@ This week [McSweeney’s warning](https://www.mcsweeneys.net/articles/a-heads-up
 
 ## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117643890815221009)
 
-via Miguel de Icaza Mastondon feed · 2026-11-19
+via Miguel de Icaza Mastondon feed · 2026-11-19, updated 2026-11-21
 
 This is an AppClip, in theory it should launch without having Xogot: [https://share.xogot.com/s/70a3a7ca-22ef-4f5b-a914-04a1cdc12535](https://share.xogot.com/s/70a3a7ca-22ef-4f5b-a914-04a1cdc12535)
 
@@ -685,19 +1183,19 @@ via DAve Bushell blog · 2026-11-19
 
 ## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117643608458995796)
 
-via Miguel de Icaza Mastondon feed · 2026-11-19
+via Miguel de Icaza Mastondon feed · 2026-11-19, updated 2026-11-21
 
 TIL the etymology of "Feedback" is "Nourishment from Behind" and I think this is beautiful.
 
 ## [2026 Is Turning Out To Be One Of The Most Consequential Elections In Our History](https://www.hopiumchronicles.com/p/2026-is-turning-out-to-be-one-of)
 
-via Hopium Chronicles blog · 2026-11-19, updated 2026-11-20
+via Hopium Chronicles blog · 2026-11-19, updated 2026-11-21
 
 Today, 145pm ET - Democratic Party of Wisconsin Chair Devin Remiker joins us live for the next in our series of post-election reports from the 2026 battlegrounds
 
 ## [What Happens When We Try to Know Everything?](https://kyla.substack.com/p/what-happens-when-we-try-to-know)
 
-via Kyla Scanlon Blog · 2026-11-19, updated 2026-11-20
+via Kyla Scanlon Blog · 2026-11-19, updated 2026-11-21
 
 The Anthropic IPO, Jensen Huang, everything breaking, what happens when nobody explains anything, and GTA VI
 
@@ -745,19 +1243,19 @@ The post [Mechatronics engineering as a form of artistic expression](https://www
 
 ## [The End Of Extraction](https://www.noemamag.com/the-end-of-extraction)
 
-via W. Kamau Bell blog · 2026-11-19
+via W. Kamau Bell blog · 2026-11-19, updated 2026-11-20
 
 The post [The End Of Extraction](https://www.noemamag.com/the-end-of-extraction) appeared first on [NOEMA](https://www.noemamag.com).
 
 ## [Poll: No clear leader in 2028 Democratic primary; Rubio leads Vance for GOP nod](https://www.gelliottmorris.com/p/2026-11-19-strength-in-numbers-verasight-poll-2028-primaries-two-ways)
 
-via Strength in Numbere · 2026-11-19, updated 2026-11-20
+via Strength in Numbere · 2026-11-19, updated 2026-11-21
 
 Democratic voters say they want someone young, authentic, and strong on the economy
 
 ## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117643135861193962)
 
-via Miguel de Icaza Mastondon feed · 2026-11-19
+via Miguel de Icaza Mastondon feed · 2026-11-19, updated 2026-11-21
 
 Meanwhile in Boston: [https://www.thebostoncalendar.com/events/citgo-sign-relighting-celebration-in-kenmore-square-boston?utm\_source=bside.beehiiv.com&utm\_medium=newsletter&utm\_campaign=give-massholes-a-honk-this-week&\_bhlid=e81b9cb1b79281167fd0cf51d712994d9794dc09](https://www.thebostoncalendar.com/events/citgo-sign-relighting-celebration-in-kenmore-square-boston?utm_source=bside.beehiiv.com&utm_medium=newsletter&utm_campaign=give-massholes-a-honk-this-week&_bhlid=e81b9cb1b79281167fd0cf51d712994d9794dc09)
 
@@ -775,13 +1273,13 @@ The first day in the lifetime of [BonBon](https://demo.bonbonweb.org/?url=https%
 
 ## [Pentagon awards $5.8 million no-bid contract to MAGA education consultant](https://popular.info/p/pentagon-awards-57-million-no-bid)
 
-via Popular Information (Judd Legum) · 2026-11-19, updated 2026-11-20
+via Popular Information (Judd Legum) · 2026-11-19, updated 2026-11-21
 
 Jordan Adams, whose previous work has been described as "amateurish," will be paid to implement an anti-woke audit of military school curriculum
 
 ## [A Bridge, I Mean Post, Too Far](https://paulkrugman.substack.com/p/a-bridge-i-mean-post-too-far)
 
-via Paul Krugman · 2026-11-19, updated 2026-11-20
+via Paul Krugman · 2026-11-19, updated 2026-11-21
 
 Just some odds and ends today
 
@@ -793,13 +1291,13 @@ Michelle Tea reflects on marriage, polyamory, and the politics of Gay Shame. \| 
 
 ## [The National Popular Vote Plan, explained](https://www.publicnotice.co/p/national-popular-vote-plan-explained)
 
-via Public Notice blog · 2026-11-19, updated 2026-11-20
+via Public Notice blog · 2026-11-19, updated 2026-11-21
 
 Getting rid of the Electoral College is no longer a pipe dream. But is it a good idea?
 
 ## [China Names Howard Lutnick Employee of the Month](https://www.borowitzreport.com/p/china-names-howard-lutnick-employee)
 
-via Borowitz Report · 2026-11-19, updated 2026-11-20
+via Borowitz Report · 2026-11-19, updated 2026-11-21
 
 “I hope this silences my critics,” a beaming Lutnick said as he accepted the plaque from President Xi. “Scott Bessent can bite me.”
 
@@ -821,7 +1319,7 @@ Notes of my talk at the German Science Society about the current state of AI and
 
 ## [The Authoritarian Economy](https://robertreich.substack.com/p/the-authoritarian-economy)
 
-via Robert Reich's blog · 2026-11-19, updated 2026-11-20
+via Robert Reich's blog · 2026-11-19, updated 2026-11-21
 
 Is Jensen Huang too big to fail?
 
@@ -891,13 +1389,13 @@ When I got back, the distinguished professor was almost in giggles on the tape. 
 
 ## [November 18, 2026](https://heathercoxrichardson.substack.com/p/november-18-2026)
 
-via Heather Cox Richardson blog · 2026-11-19, updated 2026-11-20
+via Heather Cox Richardson blog · 2026-11-19, updated 2026-11-21
 
 For three hot days, from July 1 to July 3, 1863, more than 150,000 soldiers from the armies of the United States of America and the Confederate States of America slashed at each other in the hills and through the fields around Gettysburg, Pennsylvania.
 
 ## [Listened to Black Holes & Revelations](https://tracydurnell.com/2026/11/18/listened-to-black-holes-revelations/)
 
-via Tracy Durnell Blog · 2026-11-19
+via Tracy Durnell Blog · 2026-11-19, updated 2026-11-21
 
 I strongly associate Muse with college, and these days only listen to one song at a time when they come on in a playlist. But ‘Take a Bow’ came on my music player’s AutoDJ and I was like, huh. I listened to the whole album –actually, it rocks! Reminder to myself that it’s good to \[…\]
 
@@ -915,7 +1413,7 @@ Indie tools that raised VC are shutting in droves. We need different, smaller-sc
 
 ## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117640268166138719)
 
-via Miguel de Icaza Mastondon feed · 2026-11-19
+via Miguel de Icaza Mastondon feed · 2026-11-19, updated 2026-11-21
 
 SwiftTerm benchmark updates, compared to Ghostty.
 
@@ -935,6 +1433,14 @@ via WebKit blog · 2026-11-18, updated 2026-11-19
 
 As of iOS, iPadOS, visionOS, and macOS 27, there is now a WebKit API to enable Global Privacy Control (GPC), an emerging web standard.
 
+## [Purism Differentiator Series, Part 18: Funding the App Gap](https://puri.sm/posts/purism-differentiator-series-part-18-funding-the-app-gap/)
+
+via Purism News and Events · 2026-11-18, updated 2026-11-21
+
+A phone can respect your freedom and still need more apps. That is the app gap.
+
+The post [Purism Differentiator Series, Part 18: Funding the App Gap](https://puri.sm/posts/purism-differentiator-series-part-18-funding-the-app-gap/) appeared first on [Purism](https://puri.sm/).
+
 ## [Release Notes for Safari Technology Preview 257](https://webkit.org/blog/18652/release-notes-for-safari-technology-preview-257/)
 
 via WebKit blog · 2026-11-18, updated 2026-11-19
@@ -951,7 +1457,7 @@ Wednesday night session in Amsterdam
 
 ## [We’re Getting Beat](https://dbarkhuff.substack.com/p/were-getting-beat)
 
-via Daniel Barkhuff, Substack · 2026-11-18, updated 2026-11-20
+via Daniel Barkhuff, Substack · 2026-11-18, updated 2026-11-21
 
 And it’s Trump’s fault
 
@@ -975,31 +1481,31 @@ I did publish this test post, but I was not supposed to. Very tired, long comple
 
 ## [Is Anthropic’s IPO a bad bet, both for investors and society?](https://garymarcus.substack.com/p/is-anthropics-ipo-a-bad-bet-both)
 
-via Gary Marcus blog · 2026-11-18, updated 2026-11-20
+via Gary Marcus blog · 2026-11-18, updated 2026-11-21
 
 What the bull case leaves out
 
 ## [Last Call - Tonight, 7pm ET - Our Weekly Hopium Paid Subscriber Get Together](https://www.hopiumchronicles.com/p/last-call-tonight-7pm-et-our-weekly-805)
 
-via Hopium Chronicles blog · 2026-11-18, updated 2026-11-20
+via Hopium Chronicles blog · 2026-11-18, updated 2026-11-21
 
 Welcome new subscribers!
 
 ## [Let’s Get to Work](https://heathercoxrichardson.substack.com/p/lets-get-to-work)
 
-via Heather Cox Richardson blog · 2026-11-18, updated 2026-11-20
+via Heather Cox Richardson blog · 2026-11-18, updated 2026-11-21
 
 To read this letter, click here:
 
 ## [EU Trader Status PSA](https://mjtsai.com/blog/2026/11/18/eu-trader-status-psa/)
 
-via Michael Tsai · 2026-11-18, updated 2026-11-19
+via Michael Tsai · 2026-11-18, updated 2026-11-21
 
 Ivan Mir: Do NOT update your “EU trader” info on the App Store. It goes into “In Review” status, and your apps get outright REMOVED from all EU storefronts. According to the forums, the review can easily take up to two months, and support does not help. I screwed myself without knowing. This has also \[…\]
 
 ## [Apple and Other Outages](https://mjtsai.com/blog/2026/11/18/apple-and-other-outages/)
 
-via Michael Tsai · 2026-11-18, updated 2026-11-19
+via Michael Tsai · 2026-11-18, updated 2026-11-21
 
 Juli Clover (Hacker News, John Gruber): Apple has largely resolved outages affecting iCloud accounts, retail stores, and more, the company said in a statement to Bloomberg. Apple said the outages were due to an unspecified “internal update” and were not caused by a cyberattack. The company is working to get remaining systems online “as soon \[…\]
 
@@ -1011,7 +1517,7 @@ CEOs typically stay as close as they can to the 50-yard line in the middle of th
 
 ## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117639150386724776)
 
-via Miguel de Icaza Mastondon feed · 2026-11-18, updated 2026-11-19
+via Miguel de Icaza Mastondon feed · 2026-11-18, updated 2026-11-21
 
 RE: [https://hachyderm.io/@pvzig/117639130353491709](https://hachyderm.io/@pvzig/117639130353491709)
 
@@ -1019,7 +1525,7 @@ Ok another worthwhile exception had been discovered in the wild:
 
 ## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117639147263500292)
 
-via Miguel de Icaza Mastondon feed · 2026-11-18, updated 2026-11-19
+via Miguel de Icaza Mastondon feed · 2026-11-18, updated 2026-11-21
 
 Public service announcement.
 
@@ -1027,7 +1533,7 @@ In Arabic you can write Brosk like this: بروسك
 
 ## [“It Is A Story Of Hope And Optimism” - Garrett Graff Dropped By To Talk About His Timely New Book, “America In 25 Revolutions”](https://www.hopiumchronicles.com/p/it-is-a-story-of-hope-and-optimism)
 
-via Hopium Chronicles blog · 2026-11-18, updated 2026-11-20
+via Hopium Chronicles blog · 2026-11-18, updated 2026-11-21
 
 “I think one of our big challenges as a country going forward is that this next decade needs to be sort of a combination of a third Reconstruction and a second New Deal” - Garrett M. Graff
 
@@ -1039,7 +1545,7 @@ I joined Mikah, Lex and Scott on Clockwise to talk about this week's outages, on
 
 ## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117639088420409851)
 
-via Miguel de Icaza Mastondon feed · 2026-11-18, updated 2026-11-19
+via Miguel de Icaza Mastondon feed · 2026-11-18, updated 2026-11-21
 
 I will make an exception for lexa.pro
 
@@ -1143,7 +1649,7 @@ Reply via:
 
 ## [This Week In The Big Picture](https://thinkbigpicture.substack.com/p/week-big-picture-november-18)
 
-via Think Big Picture · 2026-11-18, updated 2026-11-20
+via Think Big Picture · 2026-11-18, updated 2026-11-21
 
 In the wake of Democrats’ historic election victories, how aggressively should the new majority pursue investigations into the crimes of the Trump administration and its congressional and corporate enablers?
 
@@ -1161,19 +1667,19 @@ The work begins. [Read here.](https://www.robinsloan.com/lab/end-of-the-beginnin
 
 ## [What China’s Gene-Editing Deaths Reveal About Its Biotech Industry](https://www.noemamag.com/what-chinas-gene-editing-deaths-reveal-about-its-biotech-industry)
 
-via W. Kamau Bell blog · 2026-11-18, updated 2026-11-19
+via W. Kamau Bell blog · 2026-11-18, updated 2026-11-20
 
 The post [What China’s Gene-Editing Deaths Reveal About Its Biotech Industry](https://www.noemamag.com/what-chinas-gene-editing-deaths-reveal-about-its-biotech-industry) appeared first on [NOEMA](https://www.noemamag.com).
 
 ## [Poll: Trump hits a new low; Americans split on impeachment, favor bills to reduce costs and corruption](https://www.gelliottmorris.com/p/2026-11-18-november-strength-in-numbers-verasight-poll-release)
 
-via Strength in Numbere · 2026-11-18, updated 2026-11-20
+via Strength in Numbere · 2026-11-18, updated 2026-11-21
 
 Just 31% of adults approve of the president in our first poll since Democrats' historic midterm victory. Americans want the new majorities to lower prices and conduct oversight hearings
 
 ## [A RISC-V Phone: The Librem 5 v2 For the Win](https://puri.sm/posts/a-risc-v-phone-the-librem-5-v2/)
 
-via Purism News and Events · 2026-11-18, updated 2026-11-20
+via Purism News and Events · 2026-11-18, updated 2026-11-21
 
 For many people, a smartphone feels like an extra part of the body: it has a touchscreen, a camera, and internet access, while its operating system is controlled by one of a few big tech firms. That setup is convenient, but it also gives those firms power over the phone’s software, apps, updates, and hardware. Owners often have little say in those choices. Purism is making a RISC-V phone as an alternative.
 
@@ -1181,13 +1687,13 @@ The post [A RISC-V Phone: The Librem 5 v2 For the Win](https://puri.sm/posts/a-r
 
 ## [Schumer or Van Hollen?](https://robertreich.substack.com/p/schumer-or-van-hollen)
 
-via Robert Reich's blog · 2026-11-18, updated 2026-11-20
+via Robert Reich's blog · 2026-11-18, updated 2026-11-21
 
 The Senate Democrats’ vote on December 1 will signal where Democrats want to take America
 
 ## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117638447139678321)
 
-via Miguel de Icaza Mastondon feed · 2026-11-18, updated 2026-11-19
+via Miguel de Icaza Mastondon feed · 2026-11-18, updated 2026-11-21
 
 RE: [https://mastodon.social/@jcurioso/117638168590335491](https://mastodon.social/@jcurioso/117638168590335491)
 
@@ -1195,13 +1701,13 @@ I would get so many of these
 
 ## [Be Nice to Your Interns](https://guykawasaki.substack.com/p/be-nice-to-your-interns)
 
-via Guy Kawasaki blog · 2026-11-18, updated 2026-11-20
+via Guy Kawasaki blog · 2026-11-18, updated 2026-11-21
 
 In 1984, I gave a summer job to an undergraduate from USC (the first and last time I helped anyone from USC, because of my Stanford and UCLA pedigree).
 
 ## [Black Doves (segunda temporada): un mejor regreso con más acción y absurdidades](https://www.palomitademaiz.net/resenas-black-doves-segunda-temporada/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-black-doves-segunda-temporada)
 
-via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-11-18, updated 2026-11-17
+via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-11-18, updated 2026-11-20
 
 Showrunner: Joe Barton. Elenco: Keira Knightley, Ben Whishaw, Sarah Lancashire, Andrew Buchan, Ambika Mod, Sam Riley, Kathryn Hunter, Babou Ceesay, Gabrielle Creevy, Neve Cambell, Sylvia Hoeks. Duración: 6 episodios de 60 minutos cada uno. País: Reino Unido. Más información la serie: https://www.imdb.com/title/tt27995113/ La primera temporada de Black Doves llegó en diciembre de 2024 como un \[…\]
 
@@ -1209,7 +1715,7 @@ La entrada [Black Doves (segunda temporada): un mejor regreso con más acción y
 
 ## [Kitchens and Batteries](https://thebrowser.com/free/kitchens-and-batteries/)
 
-via The Browser · 2026-11-18, updated 2026-11-19
+via The Browser · 2026-11-18, updated 2026-11-21
 
 Writing of lasting value
 
@@ -1227,7 +1733,7 @@ via Dave Winer's Scripting News · 2026-11-18, updated 2026-11-20
 
 ## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117638136482063624)
 
-via Miguel de Icaza Mastondon feed · 2026-11-18, updated 2026-11-19
+via Miguel de Icaza Mastondon feed · 2026-11-18, updated 2026-11-21
 
 Nothing conveys unprofessional as having a .pro domain.
 
@@ -1247,7 +1753,7 @@ I wanted to register [markdown.land](https://markdown.land/), but the site that'
 
 ## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117637985299398461)
 
-via Pleiades STOA at hcommons.socal · 2026-11-18
+via Pleiades STOA at hcommons.socal · 2026-11-18, updated 2026-11-20
 
 Export Updates 2026-11-18:
 
@@ -1305,7 +1811,7 @@ No one is well served by listening to pedants, but I think I’ve found an excep
 
 ## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117637878762826505)
 
-via Miguel de Icaza Mastondon feed · 2026-11-18, updated 2026-11-19
+via Miguel de Icaza Mastondon feed · 2026-11-18, updated 2026-11-21
 
 My friend Dragos is making a game to learn new languages, and I love it:
 
@@ -1313,7 +1819,7 @@ My friend Dragos is making a game to learn new languages, and I love it:
 
 ## [Training Your Replacement: How Schwinn built Giant](https://www.worseonpurpose.com/p/where-are-bikes-made)
 
-via Worse on Purpose · 2026-11-18, updated 2026-11-20
+via Worse on Purpose · 2026-11-18, updated 2026-11-21
 
 Today, a few factories, mostly Taiwanese-owned, build bikes for nearly every brand.
 
@@ -1336,7 +1842,7 @@ I'm really excited to see people using this, especially developers. Remember our
 
 ## [Peltola Wins, The Opposition Now Controls The Knesset, Utah Turns Blue, The Kerch Bridge Falls, Hakeem Ascends, Robert Garcia Steps Up Big Time - It’s A New And Better Day People!](https://www.hopiumchronicles.com/p/peltola-wins-bibi-loses-the-knesset)
 
-via Hopium Chronicles blog · 2026-11-18, updated 2026-11-20
+via Hopium Chronicles blog · 2026-11-18, updated 2026-11-21
 
 I’ll be live with the Contrarians at 915am ET this morning \| Paid subscribers gather tonight at 7pm ET
 
@@ -1404,13 +1910,13 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 
 ## [Don’t ICEwash or Griftwash the Midterms](https://paulkrugman.substack.com/p/dont-icewash-or-griftwash-the-midterms)
 
-via Paul Krugman · 2026-11-18, updated 2026-11-20
+via Paul Krugman · 2026-11-18, updated 2026-11-21
 
 Yes, cruelty and corruption matter to American voters
 
 ## [The private equity takeover of American hospitals](https://popular.info/p/the-private-equity-takeover-of-american)
 
-via Popular Information (Judd Legum) · 2026-11-18, updated 2026-11-20
+via Popular Information (Judd Legum) · 2026-11-18, updated 2026-11-21
 
 Nearly one in eight private hospitals in the United States are now owned by private equity firms.
 
@@ -1428,13 +1934,13 @@ For years, the LibreOffice project has maintained a YouTube channel, which now h
 
 ## [Antiquated Eighty-year-old System Suffers Total Outage](https://www.borowitzreport.com/p/antiquated-eighty-year-old-system)
 
-via Borowitz Report · 2026-11-18, updated 2026-11-20
+via Borowitz Report · 2026-11-18, updated 2026-11-21
 
 The system went into sleep mode and was unresponsive for hours, sources said.
 
 ## [White House prepares to give Congress the finger](https://www.publicnotice.co/p/trump-oversight)
 
-via Public Notice blog · 2026-11-18, updated 2026-11-20
+via Public Notice blog · 2026-11-18, updated 2026-11-21
 
 The law is not on their side.
 
@@ -1482,7 +1988,7 @@ OSS Scanner is a service by Anthropic to scan critical open-source repositories 
 
 ## [Office Hours: Who Should Be the Next Senate Majority Leader?](https://robertreich.substack.com/p/office-hours-who-should-be-the-next)
 
-via Robert Reich's blog · 2026-11-18, updated 2026-11-20
+via Robert Reich's blog · 2026-11-18, updated 2026-11-21
 
 Chuck Schumer or Chris Van Hollen?
 
@@ -1542,7 +2048,7 @@ I joined Leo, Mikah and Andy on MacBreak Weekly to talk about HomeView, a second
 
 ## [November 17, 2026](https://heathercoxrichardson.substack.com/p/november-17-2026)
 
-via Heather Cox Richardson blog · 2026-11-18, updated 2026-11-20
+via Heather Cox Richardson blog · 2026-11-18, updated 2026-11-21
 
 Yesterday, just as the airline industry began to recover from the ground stop of the weekend, United Airlines announced it was undergoing an outage.
 
@@ -1560,7 +2066,7 @@ I don’t want to be alarmist, but this is a time to be alarmed because even if 
 
 ## [Where am I talking to?](https://doc.searls.com/2026/11/17/where-am-i-talking-to/)
 
-via Doc Searls (at Harvard), New Old Blog · 2026-11-18
+via Doc Searls (at Harvard), New Old Blog · 2026-11-18, updated 2026-11-21
 
 Blogging isn’t as social as it was in the years before social media got huge, so comments are few, giving me very little sense of engagement. But it is nice to know the readership (or visitorship, which may not be the same thing) is out there. The numbers above are up from what I reported \[…\]
 
@@ -1588,7 +2094,7 @@ But remember to leave the door open for those who follow. Not locked-in, locked-
 
 ## [Politics Chat, November 17, 2026](https://heathercoxrichardson.substack.com/p/politics-chat-november-17-2026-5af)
 
-via Heather Cox Richardson blog · 2026-11-18, updated 2026-11-20
+via Heather Cox Richardson blog · 2026-11-18, updated 2026-11-21
 
 Watch today’s live recording here.
 
@@ -1602,7 +2108,7 @@ Mystery solved: this explains why I had bad vibes every time I talked to someone
 
 ## [The complex grief of genAI](https://tracydurnell.com/2026/11/17/the-complex-grief-of-genai/)
 
-via Tracy Durnell Blog · 2026-11-18, updated 2026-11-19
+via Tracy Durnell Blog · 2026-11-18, updated 2026-11-21
 
 existential identity collapse as an artist in 2026 by small cypress “I quit art… The alternative was to continue making work and training models for free while people who never wanted to put in the hours profit from what I do. I could compete with the people stealing from me or I could quit. “I \[…\]
 
@@ -1616,25 +2122,25 @@ New tecolot is out with new settings, search, osc 7501, tabs (heavily Rex inspir
 
 ## [Scandal](https://heathercoxrichardson.substack.com/p/scandal)
 
-via Heather Cox Richardson blog · 2026-11-18, updated 2026-11-20
+via Heather Cox Richardson blog · 2026-11-18, updated 2026-11-21
 
 To read this letter, click here:
 
 ## [Politics Chat, November 17, 2026](https://heathercoxrichardson.substack.com/p/politics-chat-november-17-2026)
 
-via Heather Cox Richardson blog · 2026-11-18, updated 2026-11-20
+via Heather Cox Richardson blog · 2026-11-18, updated 2026-11-21
 
 Watch today’s live recording here.
 
 ## [Thoughts on “A New Political Order” episode of Open Source podcast](https://andysylvester.com/2026/11/17/thoughts-on-a-new-political-order-episode-of-open-source-podcast/)
 
-via Andy Sylvester's River of News · 2026-11-18, updated 2026-11-19
+via Andy Sylvester's River of News · 2026-11-18, updated 2026-11-21
 
 In the aftermath of the 2026 US general election, there have been many podcast episodes analyzing the election results and projecting what might be coming in US politics. Christopher Lydon’s Open Source podcast jumps in with “A New Political Order“, which features historian Gary Gerstle, emeritus professor at Cambridge University, and author of “The Rise \[…\]
 
 ## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117634594688127075)
 
-via Pleiades STOA at hcommons.socal · 2026-11-18
+via Pleiades STOA at hcommons.socal · 2026-11-18, updated 2026-11-20
 
 The Pleiades gazetteer now has an experimental data quality dashboard online at [https://atlantides.org/qa-dashboard/](https://atlantides.org/qa-dashboard/)
 
@@ -1678,19 +2184,27 @@ In association with curl’s 30 year anniversary, I made another gource video vi
 
 ## [What’s REALLY going on with the economy?](https://robertreich.substack.com/p/whats-really-going-on-with-the-economy)
 
-via Robert Reich's blog · 2026-11-17, updated 2026-11-20
+via Robert Reich's blog · 2026-11-17, updated 2026-11-21
 
 I answer your burning questions
 
+## [Purism Differentiator Series, Part 17: Ecosystem](https://puri.sm/posts/purism-differentiator-series-part-17-ecosystem/)
+
+via Purism News and Events · 2026-11-17, updated 2026-11-21
+
+When people hear the word “ecosystem,” they often think of convenience. A phone, a computer, an app store, and a cloud account can work together...
+
+The post [Purism Differentiator Series, Part 17: Ecosystem](https://puri.sm/posts/purism-differentiator-series-part-17-ecosystem/) appeared first on [Purism](https://puri.sm/).
+
 ## [My Convo with Christiane Amanpour on the Jensen Huang/Trump Lovefest and the Fallout from the Russell Brand Case](https://tinabrown.substack.com/p/my-convo-with-christiane-amanpour)
 
-via Tina Brown · 2026-11-17, updated 2026-11-20
+via Tina Brown · 2026-11-17, updated 2026-11-21
 
 What happens when the hubris of the Trump White House collides with the bottomless wealth of Silicon Valley?
 
 ## [What the Heck Just Happened? with Joanne Freeman and Heather Cox Richardson](https://heathercoxrichardson.substack.com/p/what-the-heck-just-happened-with-549)
 
-via Heather Cox Richardson blog · 2026-11-17, updated 2026-11-20
+via Heather Cox Richardson blog · 2026-11-17, updated 2026-11-21
 
 Joanne and Heather talk history and politics.
 
@@ -1704,7 +2218,7 @@ Learn more about their stories and apply to become an Obama Leader today: obama.
 
 ## [Newsletter: After the Blue Wave, What Needs to be Done?](https://stevenhassan.substack.com/p/newsletter-after-the-blue-wave-what)
 
-via Dr. Steven Hassan, Free the Mind · 2026-11-17, updated 2026-11-20
+via Dr. Steven Hassan, Free the Mind · 2026-11-17, updated 2026-11-21
 
 The Midterms sent our government a message, but now what?
 
@@ -1718,37 +2232,37 @@ I am not the only one that thinks that Godot anti-AI policies have turned toxic.
 
 ## [Full Disk Access in macOS 27.3](https://mjtsai.com/blog/2026/11/17/full-disk-access-in-macos-27-3/)
 
-via Michael Tsai · 2026-11-17, updated 2026-11-19
+via Michael Tsai · 2026-11-17, updated 2026-11-21
 
 Apple (Hacker News, MacRumors, 9To5Mac, MacStories): In macOS 27.3 beta 2 today, we’re introducing increased transparency and more granular options for two of the APIs: Device Control and Data Access, and Full Disk Access. Before granting an app such extraordinary access, users should understand that it puts all of the data on their Mac at \[…\]
 
 ## [System & App Protection Override](https://mjtsai.com/blog/2026/11/17/system-app-protection-override/)
 
-via Michael Tsai · 2026-11-17, updated 2026-11-19
+via Michael Tsai · 2026-11-17, updated 2026-11-21
 
 Apple (Hacker News, MacRumors, 9To5Mac, MacStories): In macOS 27.3 beta 2 today, we’re introducing increased transparency and more granular options\[…\] \[…\] A split of Device Control and Data Access into two settings: (1) System & App Protection Override, and (2) Accessibility A single method for granting permissions by selecting the requesting app from a list \[…\]
 
 ## [audioOS 27.2.1](https://mjtsai.com/blog/2026/11/17/audioos-27-2-1/)
 
-via Michael Tsai · 2026-11-17, updated 2026-11-19
+via Michael Tsai · 2026-11-17, updated 2026-11-21
 
 Joe Rossignol (release notes): Apple today released HomePod software version 27.2.1, but it does not enable Siri AI on the HomePod mini 2. Apple’s website continues to say the feature is “coming in a future software update,” but it has not provided a timeframe. Due to the HomePod mini 2 having only 2GB of RAM, \[…\]
 
 ## [tvOS 27.2.1](https://mjtsai.com/blog/2026/11/17/tvos-27-2-1/)
 
-via Michael Tsai · 2026-11-17, updated 2026-11-19
+via Michael Tsai · 2026-11-17, updated 2026-11-21
 
 Juli Clover (release notes, security): tvOS 27.2.1 brings Siri AI support to the 2nd- and 3rd-generation Apple TV 4K models, but it is available for all Apple TV 4K models that support tvOS 27. Steven Aquino: Visually, I love the high-contrast, white-on-black design for Siri AI and its results; text is easy to read and \[…\]
 
 ## [Chips, spies and a lame duck](https://thinkbigpicture.substack.com/p/chips-spies-and-a-lame-duck)
 
-via Think Big Picture · 2026-11-17, updated 2026-11-20
+via Think Big Picture · 2026-11-17, updated 2026-11-21
 
 China observer Kaiser Kuo explains how Beijing sees it all
 
 ## [It Is A New And Better Day In Georgia And Throughout The South - A Powerful New Conversation With Charlie Bailey, The Chair Of The Georgia Democrats](https://www.hopiumchronicles.com/p/it-is-a-new-and-better-day-in-georgia)
 
-via Hopium Chronicles blog · 2026-11-17, updated 2026-11-20
+via Hopium Chronicles blog · 2026-11-17, updated 2026-11-21
 
 The more time we’ve had to understand this historic election the more transformational it looks
 
@@ -1768,7 +2282,7 @@ OH “I am not a reverse centaur, I am a human facilitator”
 
 ## [Join us live tonight](https://robertreich.substack.com/p/join-us-live-tonight-08a)
 
-via Robert Reich's blog · 2026-11-17, updated 2026-11-20
+via Robert Reich's blog · 2026-11-17, updated 2026-11-21
 
 A watchalong of “The Work in Progress” film
 
@@ -1794,7 +2308,7 @@ The post [Enterprise Deployment of Governed Agents on Windows](https://blogs.win
 
 ## [Can the Blue Wave Check Silicon Valley’s Political Power?](https://stevenhassan.substack.com/p/can-the-blue-wave-check-silicon-valleys)
 
-via Dr. Steven Hassan, Free the Mind · 2026-11-17, updated 2026-11-20
+via Dr. Steven Hassan, Free the Mind · 2026-11-17, updated 2026-11-21
 
 Revisiting The Cult of Trump, and the growing influence of Silicon Valley's political elite
 
@@ -1806,7 +2320,7 @@ Podcast: [How Claude Code allowed me to think big](https://shownotes.scripting.c
 
 ## [Atrápelo quien pueda: una fórmula sin chispas](https://www.palomitademaiz.net/resenas-atrapelo-quien-pueda/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-atrapelo-quien-pueda)
 
-via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-11-17
+via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-11-17, updated 2026-11-20
 
 Dirección: Alfonso Pineda Ulloa. Guion: José Javier Reguilón, María José Gastón. Elenco: Jaime Camil, Natalia Téllez, Isabella Arroyo, Verónica Langer, Ricardo Polanco, Carolina Gaitán, Tato Alexander. País: México. Más información de la película: https://www.imdb.com/title/tt38553257 Si el cine de horror explora las ansiedades y temores presentes en nuestra sociedad, las comedias románticas reflejan los deseos, ideales \[…\]
 
@@ -1814,13 +2328,13 @@ La entrada [Atrápelo quien pueda: una fórmula sin chispas](https://www.palomit
 
 ## [Mind and Inequality](https://thebrowser.com/free/mind-and-inequality/)
 
-via The Browser · 2026-11-17, updated 2026-11-19
+via The Browser · 2026-11-17, updated 2026-11-21
 
 Writing of lasting value
 
 ## [Where Is The Secretary Of Homeland Security? Newsom Visits Ukraine, This Election Was About A Lot More Than Costs](https://www.hopiumchronicles.com/p/where-is-the-secretary-of-homeland)
 
-via Hopium Chronicles blog · 2026-11-17, updated 2026-11-20
+via Hopium Chronicles blog · 2026-11-17, updated 2026-11-21
 
 Today, 115pm ET - Georgia Dem Party Chair Charlie Bailey joins us to review their incredible wins all across the state
 
@@ -1876,7 +2390,7 @@ My [Time Pi](https://github.com/geerlingguy/time-pi) is connected to an outside 
 
 ## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117632322677098107)
 
-via Pleiades STOA at hcommons.socal · 2026-11-17, updated 2026-11-18
+via Pleiades STOA at hcommons.socal · 2026-11-17, updated 2026-11-20
 
 Export Updates 2026-11-17:
 
@@ -1914,7 +2428,7 @@ ed4448db - updated geojson and names index
 
 ## [Wake up! America’s infrastructure is melting. And AI appears to be partly responsible.](https://garymarcus.substack.com/p/wake-up-americas-infrastructure-is)
 
-via Gary Marcus blog · 2026-11-17, updated 2026-11-20
+via Gary Marcus blog · 2026-11-17, updated 2026-11-21
 
 Hundreds of companies have been hit. Shit is getting very real.
 
@@ -1956,7 +2470,7 @@ Good morning sports fans!
 
 ## [Ruesday](https://doc.searls.com/2026/11/17/ruesday/)
 
-via Doc Searls (at Harvard), New Old Blog · 2026-11-17, updated 2026-11-18
+via Doc Searls (at Harvard), New Old Blog · 2026-11-17, updated 2026-11-21
 
 What happens when the fan hits the shit. KTLA5: Massive geyser of rotting trash prompts emergency health order in L.A. County. They were drilling a hole through the waste when they hit a “pressurized pocket,” and this happened. The geyser stopped later. The concerns will not. Wanna fix high prices? Start with Amazon. In Amazon \[…\]
 
@@ -1998,7 +2512,7 @@ via Bruce Schneier blog · 2026-11-17
 
 ## [Hegseth Haiku Contest: The Final Two!](https://www.borowitzreport.com/p/hegseth-haiku-contest-the-final-two)
 
-via Borowitz Report · 2026-11-17, updated 2026-11-20
+via Borowitz Report · 2026-11-17, updated 2026-11-21
 
 A double shot of poetry.
 
@@ -2010,19 +2524,19 @@ After six rounds of voting, we’ve got a winner. Choppering in to claim their p
 
 ## [Hey, Hey, RFK, How Many Kids Did You Kill Today?](https://dbarkhuff.substack.com/p/hey-hey-rfk-how-many-kids-did-you)
 
-via Daniel Barkhuff, Substack · 2026-11-17, updated 2026-11-20
+via Daniel Barkhuff, Substack · 2026-11-17, updated 2026-11-21
 
 My best friend from medical school went on to serve in the Army prior to becoming an infectious disease physician.
 
 ## [The Trump Administration Has DOGEd the IRS, Too](https://paulkrugman.substack.com/p/the-trump-administration-has-doged)
 
-via Paul Krugman · 2026-11-17, updated 2026-11-20
+via Paul Krugman · 2026-11-17, updated 2026-11-21
 
 Fixing it can help pay for Democrats’ agenda
 
 ## [What the U.S. attorney threatening Democratic senators said when he thought only Republicans were listening](https://popular.info/p/what-the-us-attorney-threatening)
 
-via Popular Information (Judd Legum) · 2026-11-17, updated 2026-11-20
+via Popular Information (Judd Legum) · 2026-11-17, updated 2026-11-21
 
 In previously unreported comments, U.S. attorney Aaron Reitz pledged to use investigations to punish the left, even when the law precluded him from filing suit.
 
@@ -2034,13 +2548,13 @@ The votes are tallied and the fight is won! The Best Literary TV Adaptation of A
 
 ## [How Trump lost the young dudes](https://www.publicnotice.co/p/trump-young-men-voters-2026)
 
-via Public Notice blog · 2026-11-17, updated 2026-11-20
+via Public Notice blog · 2026-11-17, updated 2026-11-21
 
 Did he ever really have them in the first place?
 
 ## [ICE may have cost Republicans more votes than inflation did in 2026](https://www.gelliottmorris.com/p/2026-11-17-republicans-midterms-2026-decline-issues)
 
-via Strength in Numbere · 2026-11-17, updated 2026-11-20
+via Strength in Numbere · 2026-11-17, updated 2026-11-21
 
 Hardly anyone left Trump over prices alone. Interviews with 20.000 voters show what else drove the blue wave
 
@@ -2096,7 +2610,7 @@ Somewhere between the green bean casserole and the second glass of wine, an uncl
 
 ## [The Buck Stops Nowhere](https://robertreich.substack.com/p/the-buck-stops-nowhere)
 
-via Robert Reich's blog · 2026-11-17, updated 2026-11-20
+via Robert Reich's blog · 2026-11-17, updated 2026-11-21
 
 America’s transportation, communications, and technological infrastructure may be breaking down, and no one in the Trump regime is taking responsibility for fixing it
 
@@ -2173,25 +2687,25 @@ Note that 2.5% salt is more than the typical recommendation of 1–2% salt that 
 
 ## [November 16, 2026](https://heathercoxrichardson.substack.com/p/november-16-2026)
 
-via Heather Cox Richardson blog · 2026-11-17, updated 2026-11-20
+via Heather Cox Richardson blog · 2026-11-17, updated 2026-11-21
 
 The extraordinary Nvidia scandal encapsulates the nation’s economic and political system in 2026.
 
 ## [Prestige and taste](https://tracydurnell.com/2026/11/16/prestige-and-taste/)
 
-via Tracy Durnell Blog · 2026-11-17, updated 2026-11-19
+via Tracy Durnell Blog · 2026-11-17, updated 2026-11-21
 
 New Media is Insider Media by Anu (Working Theorys) “PRESTIGE IS PERCEIVED TASTE LEGITIMACY. Prestige is earned through taste discipline and operates on a curve: past the taste optimum, more is bad. It becomes tryhard, tacky, or tasteslop. Prestige emerges when a group believes someone consistently demonstrates superior judgment. “Prestige earns in-group status, but it \[…\]
 
 ## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117628884327259168)
 
-via Pleiades STOA at hcommons.socal · 2026-11-17, updated 2026-11-18
+via Pleiades STOA at hcommons.socal · 2026-11-17, updated 2026-11-20
 
 The Pleiades website is back in operation.
 
 ## [Purism Launches Librem 5 v2 , A RISC-V Phone to Empower People](https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/)
 
-via Purism News and Events · 2026-11-17, updated 2026-11-20
+via Purism News and Events · 2026-11-17, updated 2026-11-21
 
 Purism, an independent U.S. technology company dedicated to protecting users’ privacy, security, and online freedom, today announced the launch of its second smartphone crowdfunding campaign, the Librem 5 v2.
 
@@ -2205,7 +2719,7 @@ For a long time we have received repeated requests for, or questions about, a cu
 
 ## [Building tools for curation](https://andysylvester.com/2026/11/16/building-tools-for-curation/)
 
-via Andy Sylvester's River of News · 2026-11-16, updated 2026-11-19
+via Andy Sylvester's River of News · 2026-11-16, updated 2026-11-21
 
 After much thought, I have decided to focus my next efforts in software development on the topic of curation. I have written on this topic before, outlining some tools I have used to curate collections of links. I have decided to work on expanding my links zettelkasten built on a Hugo web site, using tags \[…\]
 
@@ -2217,27 +2731,35 @@ Safari on visionOS 27.3 comes with an important update: a limited feature previe
 
 ## [The Path To 260 - The DCCC’s Julie Merz On The Strategies That Drove Our Historic Wins](https://www.hopiumchronicles.com/p/the-path-to-260-the-dcccs-julie-merz)
 
-via Hopium Chronicles blog · 2026-11-16, updated 2026-11-20
+via Hopium Chronicles blog · 2026-11-16, updated 2026-11-21
 
 Julie just oversaw one of the most successful electoral operations in the modern era of American politics. Excited to introduce you to this history making superstar!
 
 ## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117628754429743048)
 
-via Pleiades STOA at hcommons.socal · 2026-11-16, updated 2026-11-18
+via Pleiades STOA at hcommons.socal · 2026-11-16, updated 2026-11-20
 
 The Pleiades website is currently unresponsive. We are investigating.
 
 ## [Standing By His Man](https://steady.substack.com/p/standing-by-his-man)
 
-via Dan Rather's Steady · 2026-11-16, updated 2026-11-20
+via Dan Rather's Steady · 2026-11-16, updated 2026-11-21
 
 Trump’s cozy and lucrative relationship with the disgraced Nvidia CEO
 
 ## [America Is About to Lose Its Measles-Free Status. It Didn’t Have to Happen.](https://danismart.substack.com/p/america-is-about-to-lose-its-measles)
 
-via Dani Smart Blog · 2026-11-16, updated 2026-11-20
+via Dani Smart Blog · 2026-11-16, updated 2026-11-21
 
 Thirty years ago, I gambled with “just” chicken pox. Today, our public health system is gambling with measles.
+
+## [Purism Differentiator Series, Part 16: Decentralization](https://puri.sm/posts/purism-differentiator-series-part-16-decentralization/)
+
+via Purism News and Events · 2026-11-16, updated 2026-11-21
+
+The internet was built to connect people across networks. But much of our digital life now runs through a small number of companies...
+
+The post [Purism Differentiator Series, Part 16: Decentralization](https://puri.sm/posts/purism-differentiator-series-part-16-decentralization/) appeared first on [Purism](https://puri.sm/).
 
 ## [@Robert's feed at BlueSky](https://bsky.app/profile/rsdoiel.bsky.social/post/3n2hkmfqzuk2p)
 
@@ -2247,13 +2769,13 @@ This post resonated with me. https://rachsmith.com/my-job-has-changed
 
 ## [“Wealth and Poverty” Class 9: The shameful legacy of systemic racism and inequality](https://robertreich.substack.com/p/wealth-and-poverty-class-9-the-shameful)
 
-via Robert Reich's blog · 2026-11-16, updated 2026-11-20
+via Robert Reich's blog · 2026-11-16, updated 2026-11-21
 
 And what can be done about it
 
 ## [Ground Stop](https://heathercoxrichardson.substack.com/p/ground-stop)
 
-via Heather Cox Richardson blog · 2026-11-16, updated 2026-11-20
+via Heather Cox Richardson blog · 2026-11-16, updated 2026-11-21
 
 To read this letter, click here:
 
@@ -2265,31 +2787,31 @@ Now that I've gotten used to the Markdown web, I find sites that make it impossi
 
 ## [Microsoft Outage](https://mjtsai.com/blog/2026/11/16/microsoft-outage/)
 
-via Michael Tsai · 2026-11-16, updated 2026-11-19
+via Michael Tsai · 2026-11-16, updated 2026-11-21
 
 Microsoft (Hacker News): We’re investigating reports of users experiencing issues accessing Exchange Online mailboxes through multiple connection methods in the Americas. More details can be found in the Microsoft 365 admin center under EX1550543. Microsoft (via Bob Burrough): We’re opening all available pathways to restore service, as our actions taken thus far have not provided \[…\]
 
 ## [HomeView Reviews](https://mjtsai.com/blog/2026/11/16/homeview-reviews/)
 
-via Michael Tsai · 2026-11-16, updated 2026-11-19
+via Michael Tsai · 2026-11-16, updated 2026-11-21
 
 John Voorhees: Apple HomeView reviews are out and it looks like a winner, especially for people already using other Apple products. Let’s look at what folks are saying. Jason Snell: I’ve wanted a product like the Apple HomeView for years now. After spending a lot of time with various personal assistant “smart speakers” in my \[…\]
 
 ## [Safari on HomeView](https://mjtsai.com/blog/2026/11/16/safari-on-homeview/)
 
-via Michael Tsai · 2026-11-16, updated 2026-11-19
+via Michael Tsai · 2026-11-16, updated 2026-11-21
 
 Jen Simmons: With the new cooking experience, Safari recognizes when users are on a webpage with a recipe, and offers a streamlined view of step-by-step instructions. Safari creates this view from recipe data in the schema.org recipe type in JSON-LD. \[…\] HomeView also provides rich experiences playing audio and video. To ensure great experiences with \[…\]
 
 ## [Is there a case for impeaching Trump over Jensengate?](https://garymarcus.substack.com/p/is-there-a-case-for-impeaching-trump)
 
-via Gary Marcus blog · 2026-11-16, updated 2026-11-20
+via Gary Marcus blog · 2026-11-16, updated 2026-11-21
 
 We need to know more, but there’s definitely enough smoke now to warrant an investigation
 
 ## [Over the Hill is utterly fantastic](https://a.wholelottanothing.org/over-the-hill-is-utterly-fantastic/)
 
-via Matt Haughey blog · 2026-11-16, updated 2026-11-19
+via Matt Haughey blog · 2026-11-16, updated 2026-11-20
 
 Earlier this year, I caught a teaser trailer for a new game I was keenly interested in called [_Over the Hill_](https://store.steampowered.com/app/2929250/over_the_hill/?ref=a.wholelottanothing.org). It had a cool aesthetic while the gameplay looked remarkably relaxing and fun.
 
@@ -2297,7 +2819,7 @@ When it released last month on Steam, I immediately looked for it in the PlaySta
 
 ## [My Sketchbook](https://kevinkelly.substack.com/p/my-sketchbook)
 
-via Kevin Kelly, Substack · 2026-11-16, updated 2026-11-20
+via Kevin Kelly, Substack · 2026-11-16, updated 2026-11-21
 
 I try to make art every day.
 
@@ -2311,7 +2833,7 @@ The post [Save Our Rivers by Ending Combined Sewer Overflows](https://www.clf.or
 
 ## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117627575104069582)
 
-via Pleiades STOA at hcommons.socal · 2026-11-16, updated 2026-11-18
+via Pleiades STOA at hcommons.socal · 2026-11-16, updated 2026-11-20
 
 Last Week in the [#PleiadesGazetteer](https://hcommons.social/tags/PleiadesGazetteer) (9-16 November 2026): over the course of the past week, the Pleiades editorial college published 7 new and 239 updated place resources, reflecting the work of Amari Pavati, Anika Campbell, Brady Kiesling, Chiara Palladino, Chris de Lisle, Damian Noah Dimitrov, Darcy Krasne, Eleftheria Konstantinidou, Eric Poehler, Greta Hawes, Jeffrey Becker, Maria Del Rocio Da Riva Muñoz, R. Scott Smith, Sebastian Heath, Tom Elliott, and Victor Russo.
 
@@ -2335,7 +2857,7 @@ Monday afternoon house session
 
 ## [NVIDIA Built Something Useful. Now About That Word “Ontology.”](https://semanticallyspeaking.substack.com/p/nvidia-built-something-useful-now)
 
-via J. Bittner's Substack · 2026-11-16, updated 2026-11-20
+via J. Bittner's Substack · 2026-11-16, updated 2026-11-21
 
 Faster queries, harder questions, and the bill that arrives later
 
@@ -2354,19 +2876,19 @@ https://twitch.tv/dair\_institute
 
 ## [Game over, man?](https://garymarcus.substack.com/p/game-over-man)
 
-via Gary Marcus blog · 2026-11-16, updated 2026-11-20
+via Gary Marcus blog · 2026-11-16, updated 2026-11-21
 
 Looks like the bubble has finally popped
 
 ## [Andrew and Tristan Tate and the “Manosphere” Cult of Money and Control](https://stevenhassan.substack.com/p/andrew-and-tristan-tate-and-the-manosphere)
 
-via Dr. Steven Hassan, Free the Mind · 2026-11-16, updated 2026-11-20
+via Dr. Steven Hassan, Free the Mind · 2026-11-16, updated 2026-11-21
 
 with Nathan Pope
 
 ## [Remote EngFlow caching meets an old G4](https://blogsystem5.substack.com/p/engflow-cache-and-carry)
 
-via BZ Blog · 2026-11-16, updated 2026-11-20
+via BZ Blog · 2026-11-16, updated 2026-11-21
 
 During BazelCon 2026 in early October, the fine folks at EngFlow gave me a very cool piece of swag: a Cache & Carry box or, in other words, a portable remote cache for Bazel builds.
 
@@ -2394,7 +2916,7 @@ Also realizing that the system I'm running is still in early days. There could b
 
 ## [Wild Horse Nine: cuando la conciencia llega demasiado tarde](https://www.palomitademaiz.net/resenas-wild-horse-nine/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-wild-horse-nine)
 
-via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-11-16, updated 2026-11-17
+via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-11-16, updated 2026-11-20
 
 Dirección: Martin McDonagh. Guion: Martin McDonagh. Países: Chile, Reino Unido, Estados Unidos. Elenco: John Malkovich, Sam Rockwell, Steve Buscemi, Mariana di Girolamo, Ailin Salas, Parker Posey, Tom Waits. Más información de la película: https://www.imdb.com/title/tt15799564/ Dime amigo en qué lugar del mundo te hallarás, tomando un café junto a Platón… yo sé bien que tú estarás \[…\]
 
@@ -2402,19 +2924,19 @@ La entrada [Wild Horse Nine: cuando la conciencia llega demasiado tarde](https:/
 
 ## [Trees and Egg](https://thebrowser.com/free/trees-and-egg/)
 
-via The Browser · 2026-11-16, updated 2026-11-19
+via The Browser · 2026-11-16, updated 2026-11-21
 
 Writing of lasting value
 
 ## [As We Legislate And Make Things Better For The American People, We Must Also Find A Higher Gear In How We Challenge Trump And His Corrupt Regime](https://www.hopiumchronicles.com/p/as-we-legislate-and-make-things-better)
 
-via Hopium Chronicles blog · 2026-11-16, updated 2026-11-20
+via Hopium Chronicles blog · 2026-11-16, updated 2026-11-21
 
 “America is supposed to stand for freedom and against tyrants. The President seems to have forgotten that. The American people have not” - Senator Maggie Hassan
 
 ## [Mongleans](https://doc.searls.com/2026/11/16/mongleans/)
 
-via Doc Searls (at Harvard), New Old Blog · 2026-11-16, updated 2026-11-18
+via Doc Searls (at Harvard), New Old Blog · 2026-11-16, updated 2026-11-21
 
 Finds Vids. MTV in a new universe. Biggest discovery so far has been the above. Loving Steve Cutts. Airspace Visualizer. Both are from here. By Llew Roberts. Maybe we should talk In Why intention matters more than attention, Claudine Cheever, CMO of Pinterest, wrote, “The intention economy is here.” Since I wrote a book by that \[…\]
 
@@ -2494,7 +3016,7 @@ Good night my sweet prince
 
 ## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117626270280378510)
 
-via Pleiades STOA at hcommons.socal · 2026-11-16, updated 2026-11-18
+via Pleiades STOA at hcommons.socal · 2026-11-16, updated 2026-11-20
 
 Export Updates 2026-11-16:
 
@@ -2550,7 +3072,7 @@ This is a good illustration why “just don’t click on links” is bad advice.
 
 ## [Online sportsbooks bet $136 million on state politics during 2026 midterms](https://popular.info/p/online-sportsbooks-bet-136-million)
 
-via Popular Information (Judd Legum) · 2026-11-16, updated 2026-11-20
+via Popular Information (Judd Legum) · 2026-11-16, updated 2026-11-21
 
 A Popular Information investigation reveals the full scope of the industry’s massive influence operation for the first time
 
@@ -2562,19 +3084,19 @@ It’s the moment you’ve all been waiting for: Meet this year’s National Boo
 
 ## [Republican Ideology Ruined Your Weekend](https://paulkrugman.substack.com/p/republican-ideology-ruined-your-weekend)
 
-via Paul Krugman · 2026-11-16, updated 2026-11-20
+via Paul Krugman · 2026-11-16, updated 2026-11-21
 
 Decades of underinvestment, then two years of DOGE vandalism and destruction, grounded American air travel
 
 ## [Trump and Jensen Huang are bonded by toxic masculinity](https://www.publicnotice.co/p/trump-jensen-huang)
 
-via Public Notice blog · 2026-11-16, updated 2026-11-20
+via Public Notice blog · 2026-11-16, updated 2026-11-21
 
 Trump identifies with and instinctively supports philandering men.
 
 ## [Remorseful Biden Admits He Installed Faulty Router](https://www.borowitzreport.com/p/remorseful-biden-admits-he-installed)
 
-via Borowitz Report · 2026-11-16, updated 2026-11-20
+via Borowitz Report · 2026-11-16, updated 2026-11-21
 
 Biden said that, although he considered himself skilled at working on cars, “it turns out that routers are a whole different ballgame.”
 
@@ -2622,7 +3144,7 @@ The post [Turn your Raspberry Pi into a classic games machine](https://www.raspb
 
 ## [Lawyer Up, Elon](https://robertreich.substack.com/p/the-muskrat-strikes-again)
 
-via Robert Reich's blog · 2026-11-16, updated 2026-11-20
+via Robert Reich's blog · 2026-11-16, updated 2026-11-21
 
 You’re about to be exposed
 
@@ -2696,13 +3218,13 @@ This year, LibreOffice was once again a mentoring organization in the Google Sum
 
 ## [November 15, 2026](https://heathercoxrichardson.substack.com/p/november-15-2026)
 
-via Heather Cox Richardson blog · 2026-11-16, updated 2026-11-20
+via Heather Cox Richardson blog · 2026-11-16, updated 2026-11-21
 
 Trump sat out the airline grounding of Friday and the snarl it left behind, leading observers to note that he has not been seen in public since last Wednesday.
 
 ## [These Are Not Serious People.](https://fallows.substack.com/p/these-are-not-serious-people)
 
-via James Fallows, Substack · 2026-11-16, updated 2026-11-20
+via James Fallows, Substack · 2026-11-16, updated 2026-11-21
 
 What we’ve learned since the groundstop about those in charge.
 
@@ -2714,7 +3236,7 @@ Xmas comes to London Seen in Covent Garden the other day. Quote of the Day “Th
 
 ## [Showing up](https://andysylvester.com/2026/11/15/showing-up/)
 
-via Andy Sylvester's River of News · 2026-11-16, updated 2026-11-19
+via Andy Sylvester's River of News · 2026-11-16, updated 2026-11-21
 
 I sing in a Catholic church choir. In the Catholic liturgy, most of the year is considered the season of “Ordinary Time” as opposed to “Lent” or “Advent”. The music selected for each Sunday supports the bible readings for that Sunday, but Ordinary Time is not driven by any particular theme. Sometimes, the music we \[…\]
 
@@ -2980,7 +3502,7 @@ I want to say a big thank you to my mentors, Shivam Gupta and Tarun Prabhu. They
 
 ## [Jensen Huang Has Left the Building](https://tinabrown.substack.com/p/jensen-huang-has-left-the-building)
 
-via Tina Brown · 2026-11-15, updated 2026-11-20
+via Tina Brown · 2026-11-15, updated 2026-11-21
 
 What in God’s name was Trump thinking when, after being briefed twice, including by his own secretary of state, Marco Rubio, he never bothered to tell the Elvis of the tech world, Jensen Huang, that his frisky Chinese playmate, Alice Huang, the executive of a Singapore-based tech company, was very likely a microchip Mata Hari, downloading their pillow talk to China’s Ministry of State Security?
 
@@ -2992,7 +3514,7 @@ Codes of conduct have a loophole: adopt an anti-AI policy, and every rule agains
 
 ## [Wed, Nov 18th, 7pm ET - Our Weekly Paid Subscriber Get Together](https://www.hopiumchronicles.com/p/wed-nov-18th-7pm-et-our-weekly-paid)
 
-via Hopium Chronicles blog · 2026-11-15, updated 2026-11-20
+via Hopium Chronicles blog · 2026-11-15, updated 2026-11-21
 
 Welcome new subscribers!
 
@@ -3010,6 +3532,14 @@ via Rosemary Orchard \| · 2026-11-15
 
 The plan for a DIY Toniebox and Yoto alternative with Home Assistant - an ESP32-C3, an RC522 card reader, the speaker that's already in his room, and cards he can read himself.
 
+## [Purism Differentiator Series, Part 15: Individual Control](https://puri.sm/posts/purism-differentiator-series-part-15-individual-control/)
+
+via Purism News and Events · 2026-11-15, updated 2026-11-21
+
+Technology should work for people. Yet many devices give their owners little say over the software, the services, or the data involved in everyday use.
+
+The post [Purism Differentiator Series, Part 15: Individual Control](https://puri.sm/posts/purism-differentiator-series-part-15-individual-control/) appeared first on [Purism](https://puri.sm/).
+
 ## [@Dave Winer's Scripting News](http://scripting.com/2026/11/15.html#a223846)
 
 via Dave Winer's Scripting News · 2026-11-15, updated 2026-11-20
@@ -3024,7 +3554,7 @@ via Dave Winer's Scripting News · 2026-11-15, updated 2026-11-20
 
 ## [Sunday caption contest: Sinking Feeling](https://robertreich.substack.com/p/sunday-caption-contest-sinking-feeling)
 
-via Robert Reich's blog · 2026-11-15, updated 2026-11-20
+via Robert Reich's blog · 2026-11-15, updated 2026-11-21
 
 And last week’s winner
 
@@ -3036,13 +3566,13 @@ It’s about ethics in gamedev gatekeeping.
 
 ## [Reenchanting the world by seeing it truly](https://tracydurnell.com/2026/11/15/reenchanting-the-world-by-seeing-it-truly/)
 
-via Tracy Durnell Blog · 2026-11-15, updated 2026-11-19
+via Tracy Durnell Blog · 2026-11-15, updated 2026-11-21
 
 Against Disliteracy by Mandy Brown (A Working Library) — 2026 “Poet and typographer Robert Bringhurst proposes that reading ‘simply means paying attention to what’s in front of you and trying to make sense of it.’ This is what he terms a ‘non-material’ definition of reading, a reading that encompasses both books and texts but also \[…\]
 
 ## [Kash Patel Furious That Ground Stop Prevented Him From Using FBI Jet for Date Night](https://www.borowitzreport.com/p/kash-patel-furious-that-ground-stop)
 
-via Borowitz Report · 2026-11-15, updated 2026-11-20
+via Borowitz Report · 2026-11-15, updated 2026-11-21
 
 “Sean Duffy has a lot of explaining to do,” a visibly livid Patel told reporters.
 
@@ -3054,13 +3584,13 @@ Godzilla minus zero was a masterpiece.
 
 ## [Why it matters that 2026 wasn't all turnout](https://www.gelliottmorris.com/p/2026-11-15-sunday-roundup)
 
-via Strength in Numbere · 2026-11-15, updated 2026-11-20
+via Strength in Numbere · 2026-11-15, updated 2026-11-21
 
 On several issues, Democrats held their biggest leads since 2007. The party should be careful not to take the wrong lesson from 2026
 
 ## [Our Wins Of The Week](https://thinkbigpicture.substack.com/p/week-progressive-wins-november-15)
 
-via Think Big Picture · 2026-11-15, updated 2026-11-20
+via Think Big Picture · 2026-11-15, updated 2026-11-21
 
 Last week may have been Election Day, but this week the wins just kept on coming.
 
@@ -3170,7 +3700,7 @@ Simply get a jar of their lemon curd, some shortbread cookies or graham crackers
 
 ## [Sungleans](https://doc.searls.com/2026/11/15/sungleans/)
 
-via Doc Searls (at Harvard), New Old Blog · 2026-11-15, updated 2026-11-18
+via Doc Searls (at Harvard), New Old Blog · 2026-11-15, updated 2026-11-21
 
 And we do need the serious kind In today’s New York Times, Jim Fallows (a pilot as well as a journalist) addresses the question Is Air Travel Getting Less Safe? His piece is long, detailed, and less than fully reassuring. One pull-quote: What does all of this add up to? By every statistical measure, U.S. air travel remains phenomenally safe. \[…\]
 
@@ -3188,7 +3718,7 @@ This is an RSS-only post, thank you for subscribing :) My RSS-only posts have a 
 
 ## [Peltola Is On The Cusp Of Victory, Lutnick Is A Crook, Revisiting “Get To 55,” And It Turned Out To Be Fire Horse Election After All!!!!](https://www.hopiumchronicles.com/p/peltola-is-on-the-cusp-of-victory)
 
-via Hopium Chronicles blog · 2026-11-15, updated 2026-11-20
+via Hopium Chronicles blog · 2026-11-15, updated 2026-11-21
 
 Monday, 415pm ET - historian Garrett Graff joins us to discuss his uplifting new book, America in 25 Revolutions
 
@@ -3322,31 +3852,31 @@ So we'll be back to double-digit megabytes RAM and megaHertz class CPUs, if we'r
 
 ## [R-E-S-P-E-C-T](https://steady.substack.com/p/r-e-s-p-e-c-t)
 
-via Dan Rather's Steady · 2026-11-15, updated 2026-11-20
+via Dan Rather's Steady · 2026-11-15, updated 2026-11-21
 
 A Reason To Smile
 
 ## [Guest Newsletter: Five Books - History and Sci Fi](https://thebrowser.com/free/guest-newsletter-five-books-history-and-sci-fi/)
 
-via The Browser · 2026-11-15, updated 2026-11-19
+via The Browser · 2026-11-15, updated 2026-11-21
 
 Five Books features in-depth author interviews recommending five books on a theme
 
 ## [Voodoo Economics, MAGA Style](https://paulkrugman.substack.com/p/voodoo-economics-maga-style)
 
-via Paul Krugman · 2026-11-15, updated 2026-11-20
+via Paul Krugman · 2026-11-15, updated 2026-11-21
 
 The latest attack of the usual zombies
 
 ## [Sunday thought: Our Work Has Just Begun](https://robertreich.substack.com/p/sunday-thought-our-work-has-just)
 
-via Robert Reich's blog · 2026-11-15, updated 2026-11-20
+via Robert Reich's blog · 2026-11-15, updated 2026-11-21
 
 Friends,
 
 ## [Radio Rituals](https://tracydurnell.com/2026/11/14/radio-rituals/)
 
-via Tracy Durnell Blog · 2026-11-15, updated 2026-11-19
+via Tracy Durnell Blog · 2026-11-15, updated 2026-11-21
 
 Something reminded me of the song Alice’s Restaurant Massacree today, so I listened to it for probably the first time since 2008, the last time I did Thanksgiving with my parents.\* We used to listen to it at my grandparents’ house every Thanksgiving because it played at noon on KFOG, the family’s favorite radio station. \[…\]
 
@@ -3613,13 +4143,13 @@ Verified software for the agentic era checks whether third-party tools and libra
 
 ## [November 14, 2026](https://heathercoxrichardson.substack.com/p/november-14-2026)
 
-via Heather Cox Richardson blog · 2026-11-15, updated 2026-11-20
+via Heather Cox Richardson blog · 2026-11-15, updated 2026-11-21
 
 I just got home after what feels like a very long last few months, and I am very glad to be here.
 
 ## [Investigations](https://heathercoxrichardson.substack.com/p/investigations)
 
-via Heather Cox Richardson blog · 2026-11-15, updated 2026-11-20
+via Heather Cox Richardson blog · 2026-11-15, updated 2026-11-21
 
 To read this letter, click here:
 
@@ -3752,13 +4282,13 @@ Having an ops mindset is fundamentally different from a development or project m
 
 ## [Women and Soliloquy](https://thebrowser.com/free/women-and-soliloquy/)
 
-via The Browser · 2026-11-14, updated 2026-11-19
+via The Browser · 2026-11-14, updated 2026-11-21
 
 Today, enjoy our audio and video picks
 
 ## [How In The World Can We Put Up With Two More Years Of This Sh-t?](https://www.hopiumchronicles.com/p/how-in-the-world-can-we-put-up-with)
 
-via Hopium Chronicles blog · 2026-11-14, updated 2026-11-20
+via Hopium Chronicles blog · 2026-11-14, updated 2026-11-21
 
 Our Congressional leaders should be talking with our soon to be 30 governors about how we can start truly taking the keys away from this rotten, failed, and wildly unpopular regime......
 
@@ -3772,13 +4302,13 @@ Today’s hero is [https://jeffquast.com](https://jeffquast.com) for his work in
 
 ## [Heckuva Job, Trumpy](https://www.borowitzreport.com/p/heckuva-job-trumpy)
 
-via Borowitz Report · 2026-11-14, updated 2026-11-20
+via Borowitz Report · 2026-11-14, updated 2026-11-21
 
 TBR Weekend Read
 
 ## [Memento Mori](https://dbarkhuff.substack.com/p/memento-mori)
 
-via Daniel Barkhuff, Substack · 2026-11-14, updated 2026-11-20
+via Daniel Barkhuff, Substack · 2026-11-14, updated 2026-11-21
 
 There are going to be some wet snowflakes in Vermont today.
 
@@ -3790,19 +4320,19 @@ Think you saw every great debut novel in 2026? Think again. Maris Kreizman recom
 
 ## [bubbel trubbel](https://paulkrugman.substack.com/p/bubbel-trubbel)
 
-via Paul Krugman · 2026-11-14, updated 2026-11-20
+via Paul Krugman · 2026-11-14, updated 2026-11-21
 
 Will AI crash? How bad will it be if so
 
 ## [The other big flip Democrats pulled off in Texas](https://www.publicnotice.co/p/nathan-johnson-texas)
 
-via Public Notice blog · 2026-11-14, updated 2026-11-20
+via Public Notice blog · 2026-11-14, updated 2026-11-21
 
 Nathan Johnson’s win is almost as big as Talarico’s and Hinojosa’s.
 
 ## [The Mississippi Miracle \| The Coffee Klatch for Saturday, November 14, 2026](https://robertreich.substack.com/p/what-a-difference-a-wave-makes-the)
 
-via Robert Reich's blog · 2026-11-14, updated 2026-11-20
+via Robert Reich's blog · 2026-11-14, updated 2026-11-21
 
 With Heather Lofthouse and yours truly, Robert Reich
 
@@ -3980,13 +4510,13 @@ tracker](https://github.com/blue-core-lod/bibframe-json/issues/).
 
 ## [Weeknotes: Nov. 9-13, 2026](https://tracydurnell.com/2026/11/13/weeknotes-nov-9-13-2026/)
 
-via Tracy Durnell Blog · 2026-11-14, updated 2026-11-19
+via Tracy Durnell Blog · 2026-11-14, updated 2026-11-21
 
 Win of the week: getting new glasses, I chose frames from a company that’s out of business so they gave me $150 off since they can’t give me a warranty on them 🤑 Looking forward to: I’ve been on a streak of not-for-me books, but fingers crossed for I Hope This Email Finds You in Hell which \[…\]
 
 ## [Live with Guy Kawasaki](https://guykawasaki.substack.com/p/live-with-guy-kawasaki)
 
-via Guy Kawasaki blog · 2026-11-14, updated 2026-11-20
+via Guy Kawasaki blog · 2026-11-14, updated 2026-11-21
 
 A recording from Guy Kawasaki's live video
 
@@ -3998,13 +4528,13 @@ Listen on Apple Podcasts
 
 ## [A wander at Tilden Botanic Garden (photos)](https://tracydurnell.com/2026/11/13/tilden-botanic-garden/)
 
-via Tracy Durnell Blog · 2026-11-14, updated 2026-11-19
+via Tracy Durnell Blog · 2026-11-14, updated 2026-11-21
 
 When I was in the Bay Area last week, my sister suggested we check out Tilden Regional Parks Botanic Garden in the East Bay. It’s all native California plants, organized into ecological regions 😀 It’s a 10-acre botanical garden with many trails, and well-signed. So many kinds of manzanitas!\* (And the most darling little heuchera \[…\]
 
 ## [What could possibly go wrong? Nationwide FAA Ground Stop edition](https://garymarcus.substack.com/p/what-could-possibly-go-wrong-nationwide)
 
-via Gary Marcus blog · 2026-11-14, updated 2026-11-20
+via Gary Marcus blog · 2026-11-14, updated 2026-11-21
 
 A sign of things to come?
 
@@ -4063,7 +4593,7 @@ These days I often use an HDMI monitor with a 1920×1080 resolution and practica
 
 ## [Trump Proposes Self as New Nvidia CEO, Citing Vast Experience with Infidelity](https://www.borowitzreport.com/p/trump-proposes-self-as-new-nvidia)
 
-via Borowitz Report · 2026-11-13, updated 2026-11-20
+via Borowitz Report · 2026-11-13, updated 2026-11-21
 
 Trump said he was “not impressed” by Jensen Huang’s philandering credentials.
 
@@ -4081,7 +4611,7 @@ New tools and a clear approach to leadership. Let's build.
 
 ## [Basic principles](https://robertreich.substack.com/p/accountability)
 
-via Robert Reich's blog · 2026-11-13, updated 2026-11-20
+via Robert Reich's blog · 2026-11-13, updated 2026-11-21
 
 As Democrats think through their upcoming control of Congress, they (and we) should keep these in mind
 
@@ -4109,7 +4639,7 @@ There's a recursive effect of the election on the voters. We didn't know there w
 
 ## [How Democrats Are Innovating And Raising Their Game On Social Media - A Discussion With The DNC’s Matt Rein](https://www.hopiumchronicles.com/p/how-democrats-are-innovating-and)
 
-via Hopium Chronicles blog · 2026-11-13, updated 2026-11-20
+via Hopium Chronicles blog · 2026-11-13, updated 2026-11-21
 
 Matt is the Influencer and Creative Partnerships Director at the DNC
 
@@ -4172,7 +4702,7 @@ I really wish my city did something like this. https://youtu.be/cyLaGMMlpmA?si=6
 
 ## [When Muslims Win, Democracy Wins](https://guykawasaki.substack.com/p/breaking-barriers-strengthening-democracy)
 
-via Guy Kawasaki blog · 2026-11-13, updated 2026-11-20
+via Guy Kawasaki blog · 2026-11-13, updated 2026-11-21
 
 How Muslim Americans Are Defying Islamophobia and Strengthening Democracy for Everyone
 
@@ -4190,13 +4720,13 @@ It’s not every day our browser begins a life on a whole new platform.
 
 ## [Irn Bru. Made in Scotland with lasers.](https://www.aiweirdness.com/irn-bru-made-in-scotland-with-lasers/)
 
-via AI Weirdness Blog · 2026-11-13, updated 2026-11-19
+via AI Weirdness Blog · 2026-11-13, updated 2026-11-20
 
 Pretty sure they used lasers to make this bottle of Irn Bru I bought, and I think that's extremely cool.
 
 ## [Scott Colom wins Mississippi Senate seat. Nvidia CEO resigns amid Chinese spy affair. Schumer challenged for Majority Leader.](https://thinkbigpicture.substack.com/p/november-13-weekly-news-roundup)
 
-via Think Big Picture · 2026-11-13, updated 2026-11-20
+via Think Big Picture · 2026-11-13, updated 2026-11-21
 
 Scott Colom Declared Winner in Mississippi Senate Race
 
@@ -4224,7 +4754,7 @@ In my long quest of "borrowing" better design from somewhere else, today, I rest
 
 ## [MAGA goes all in with a losing hand](https://www.publicnotice.co/p/maga-goes-all-in-with-a-losing-hand)
 
-via Public Notice blog · 2026-11-13, updated 2026-11-20
+via Public Notice blog · 2026-11-13, updated 2026-11-21
 
 Plus, the Nvidia scandal metastasizes.
 
@@ -4236,25 +4766,25 @@ Today's links I told you so: Microsoft is too big to live. Hey look at this: Del
 
 ## [Apple Creator Studio .keyx and AI Features](https://mjtsai.com/blog/2026/11/13/apple-creator-studio-keyx-and-ai-features/)
 
-via Michael Tsai · 2026-11-13, updated 2026-11-19
+via Michael Tsai · 2026-11-13, updated 2026-11-21
 
 Apple (TidBITS, MacRumors): Apple today introduced transformative updates to Apple Creator Studio, the powerful collection of creative apps designed to put studio-grade tools into the hands of modern creators across Mac, iPad, and iPhone. Final Cut Pro for Mac now includes built-in MotionVFX — an expansive collection of visual effects, plug-ins, transitions, templates, and motion \[…\]
 
 ## [DNS Resolution Failures in macOS 26 and 27](https://mjtsai.com/blog/2026/11/13/dns-resolution-failures-in-macos-26-and-27/)
 
-via Michael Tsai · 2026-11-13, updated 2026-11-19
+via Michael Tsai · 2026-11-13, updated 2026-11-21
 
 Wade Tregaskis: Sporadically (once every week or two) on macOS 26, domain name resolution will just abruptly stop working. But, it gets worse. I recently updated to macOS 27.2, and now the problem occurs multiple times an hour. That is, name resolution fails if done through Apple’s libraries – through dig or nslookup it continues \[…\]
 
 ## [ReadKit 4.0](https://mjtsai.com/blog/2026/11/13/readkit-4-0/)
 
-via Michael Tsai · 2026-11-13, updated 2026-11-19
+via Michael Tsai · 2026-11-13, updated 2026-11-21
 
 Balazs Varkonyi: A new iCloud-backed RSS service that syncs feed subscriptions, folders, smart folders, and article read and starred statuses. RSS feeds remain the primary source for articles, so ReadKit does not upload RSS article content to iCloud. Instead, it syncs article read and starred statuses, improving sync speed and reducing network traffic. \[…\] A \[…\]
 
 ## [ReadAll 1.0](https://mjtsai.com/blog/2026/11/13/readall-1-0/)
 
-via Michael Tsai · 2026-11-13, updated 2026-11-19
+via Michael Tsai · 2026-11-13, updated 2026-11-21
 
 Loshadki: ReadAll 1.0 is on the App Store for iPhone, iPad and Mac. It is a feed reader: RSS, Atom and JSON Feed, with your subscriptions, folders and what you’ve read synced through iCloud. It is free, with no ads, no account and no tracking. \[…\] Enter a website’s address and ReadAll finds its feeds. \[…\]
 
@@ -4274,13 +4804,13 @@ Don't forget to register to join us on December 4! sbrew.link/oUSX1cwA
 
 ## [Building Canadian Digital Sovereignty](https://smist08.wordpress.com/2026/11/13/building-canadian-digital-sovereignty/)
 
-via Stephen Smith's blog · 2026-11-13
+via Stephen Smith's blog · 2026-11-13, updated 2026-11-20
 
 Introduction Elon Musk’s StarLink has been cutting off service to Ukraine again to help Trump and Putin pressure Zelensky into surrendering. Microsoft e-mail services have been down for two days with services being restored in the US before internationally. These are huge warnings to Canada that we cannot rely on US based hi-tech platforms. These \[…\]
 
 ## [The great Generative AI unraveling](https://garymarcus.substack.com/p/the-great-generative-ai-unraveling)
 
-via Gary Marcus blog · 2026-11-13, updated 2026-11-20
+via Gary Marcus blog · 2026-11-13, updated 2026-11-21
 
 Things are starting to fall apart
 
@@ -4298,7 +4828,7 @@ BTW if you open that [Markdown file](https://dave.writersweb.org/scripting/2026/
 
 ## [Serbia’s Experiment: Combining Democracy & Meritocracy](https://www.noemamag.com/serbias-experiment-combining-democracy-meritocracy)
 
-via W. Kamau Bell blog · 2026-11-13, updated 2026-11-19
+via W. Kamau Bell blog · 2026-11-13, updated 2026-11-20
 
 The post [Serbia’s Experiment: Combining Democracy & Meritocracy](https://www.noemamag.com/serbias-experiment-combining-democracy-meritocracy) appeared first on [NOEMA](https://www.noemamag.com).
 
@@ -4550,7 +5080,7 @@ I like to think I’ve just hit the point in my life where I don’t want to spe
 
 ## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117610022531900542)
 
-via Pleiades STOA at hcommons.socal · 2026-11-13, updated 2026-11-18
+via Pleiades STOA at hcommons.socal · 2026-11-13, updated 2026-11-20
 
 Export Updates 2026-11-13:
 
@@ -4588,7 +5118,7 @@ e1fb006f - updated sidebar
 
 ## [Phones and Service](https://thebrowser.com/free/phones-and-service/)
 
-via The Browser · 2026-11-13, updated 2026-11-19
+via The Browser · 2026-11-13, updated 2026-11-21
 
 Writing of lasting value
 
@@ -4626,25 +5156,25 @@ People ask who was the biggest loser in the election and I say it's Citizens Uni
 
 ## [Another Bad Inflation Report, Trump Hits New Polling Low, Leader Jeffries Makes His Pitch For Speaker](https://www.hopiumchronicles.com/p/another-bad-inflation-report-trump)
 
-via Hopium Chronicles blog · 2026-11-13, updated 2026-11-20
+via Hopium Chronicles blog · 2026-11-13, updated 2026-11-21
 
 Noon ET Today - Matt Rein, a senior DNC communications strategist, joins to talk about the innovation we’ve seen in political communications this cycle
 
 ## [Probabilistic data structures in Go](https://antonz.org/probabilistic-data-structures/)
 
-via Anton Zhiyanov blog · 2026-11-13
+via Anton Zhiyanov blog · 2026-11-13, updated 2026-11-21
 
 Bloom filter, count-min sketch, HyperLogLog, t-digest, and top-k sketch.
 
 ## [The bad news — and good news — about how the polls did in 2026](https://www.gelliottmorris.com/p/2026-11-13-polls-missed-turnout)
 
-via Strength in Numbere · 2026-11-13, updated 2026-11-20
+via Strength in Numbere · 2026-11-13, updated 2026-11-21
 
 Polls didn't suffer from the source of error that rocked the industry in 2016 and 2020. But they understated Democrats for reasons that are not possible to fix
 
 ## [How crypto and AI lost the midterms, and why they say they didn’t](https://www.citationneeded.news/crypto-ai-lost-the-midterms/)
 
-via Citation Needed News · 2026-11-13, updated 2026-11-20
+via Citation Needed News · 2026-11-13, updated 2026-11-21
 
 Crypto and AI super PACs went undefeated in races they were always going to win. In competitive ones, most of their money backed losers.
 
@@ -4706,7 +5236,7 @@ I started writing about this in 2021 and in my 2022 book, _A Hacker’s Mind_. B
 
 ## [You Chose Jim Jordan’s Stupidest Quote](https://www.borowitzreport.com/p/you-chose-jim-jordans-stupidest-quote)
 
-via Borowitz Report · 2026-11-13, updated 2026-11-20
+via Borowitz Report · 2026-11-13, updated 2026-11-21
 
 The votes are in.
 
@@ -4730,13 +5260,13 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 
 ## [Elon Still Loves Vladimir](https://paulkrugman.substack.com/p/elon-still-loves-vladimir)
 
-via Paul Krugman · 2026-11-13, updated 2026-11-20
+via Paul Krugman · 2026-11-13, updated 2026-11-21
 
 The betrayal of Ukraine continues
 
 ## [PopInfo Weekly: Miller, MAHA, and Mississippi](https://popular.info/p/popinfo-weekly-miller-maha-and-mississippi)
 
-via Popular Information (Judd Legum) · 2026-11-13, updated 2026-11-20
+via Popular Information (Judd Legum) · 2026-11-13, updated 2026-11-21
 
 Last week, President Trump named Stephen Miller as his new White House chief of staff.
 
@@ -4748,7 +5278,7 @@ What being a Bills fan can teach you about writing (even when they lose). \| Lit
 
 ## [In conversation with Tim Snyder](https://www.publicnotice.co/p/tim-snyder-interview-2026)
 
-via Public Notice blog · 2026-11-13, updated 2026-11-20
+via Public Notice blog · 2026-11-13, updated 2026-11-21
 
 “It’s important to think not about what he’s going to do to us, but what we’re going to do to him.”
 
@@ -4776,7 +5306,7 @@ Well, well, well, if it isn’t the semifinals, the thing I mix up with the quar
 
 ## [Why Democrats Will Work Together This Time](https://robertreich.substack.com/p/the-two-things-that-will-keep-democrats)
 
-via Robert Reich's blog · 2026-11-13, updated 2026-11-20
+via Robert Reich's blog · 2026-11-13, updated 2026-11-21
 
 The normally factious party will unite
 
@@ -4889,13 +5419,13 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 
 ## [Bird Scary Tower!](https://margaretatwood.substack.com/p/bird-scary-tower)
 
-via Margaret Atwood's substack · 2026-11-13, updated 2026-11-20
+via Margaret Atwood's substack · 2026-11-13, updated 2026-11-21
 
 This is an emergency! Please sign!
 
 ## [The Art of Chinese Seduction](https://guykawasaki.substack.com/p/the-art-of-chinese-seduction)
 
-via Guy Kawasaki blog · 2026-11-13, updated 2026-11-20
+via Guy Kawasaki blog · 2026-11-13, updated 2026-11-21
 
 From Ancient China to the AI Age: How the Beauty Stratagem Uses Sex, Secrets, and Seduction to Compromise Powerful Men
 
@@ -4921,7 +5451,7 @@ Sacre Bleu! A scene in the Royal Academy’s Painting the French Riviera exhibit
 
 ## [You’ve gotta see this](https://robertreich.substack.com/p/youve-gotta-see-this)
 
-via Robert Reich's blog · 2026-11-13, updated 2026-11-20
+via Robert Reich's blog · 2026-11-13, updated 2026-11-21
 
 Please sign up and put on your calendar: Live online watchalong of our new film “The Work in Progress” on Nov 17 at 5:00 pm PT / 8:00 pm ET
 
@@ -4945,55 +5475,55 @@ Candidates for the 2026 US-RSE Steering Committee election are listed below. Bec
 
 ## [Fri, Nov 13th, 1pm ET - Our Most Fridays Get Together, Kicking All Sorts Of GOP Ass Edition](https://www.hopiumchronicles.com/p/fri-nov-13th-1pm-et-our-most-fridays)
 
-via Hopium Chronicles blog · 2026-11-12, updated 2026-11-20
+via Hopium Chronicles blog · 2026-11-12, updated 2026-11-21
 
 Friends,
 
 ## [Enabling updates for WordPress sites](https://andysylvester.com/2026/11/12/enabling-updates-for-wordpress-sites/)
 
-via Andy Sylvester's River of News · 2026-11-12, updated 2026-11-19
+via Andy Sylvester's River of News · 2026-11-12, updated 2026-11-21
 
 Earlier this year, I migrated my WordPress websites from Bluehost to Opalstack. The Bluehost model was “managed hosting”, and I was able to create new sites through a Bluehost dashboard with “one click”. The Opalstack model had a dashboard setup for WordPress, but it was a little more complicated, and some of it was overwritten \[…\]
 
 ## [Democrats Understand The Assignment](https://thinkbigpicture.substack.com/p/democrats-affordability-agenda-economic-populism)
 
-via Think Big Picture · 2026-11-12, updated 2026-11-20
+via Think Big Picture · 2026-11-12, updated 2026-11-21
 
 Since the election, Democrats have laid out an ambitious affordability agenda. But what can they actually get done?
 
 ## [The Day Old Dixie Died](https://steady.substack.com/p/the-day-old-dixie-died)
 
-via Dan Rather's Steady · 2026-11-12, updated 2026-11-20
+via Dan Rather's Steady · 2026-11-12, updated 2026-11-21
 
 Historic change in Mississippi
 
 ## [Chair Rita Hart Dropped By To Talk About Our Remarkable Wins In Iowa This Year](https://www.hopiumchronicles.com/p/chair-rita-hart-dropped-by-talk-about)
 
-via Hopium Chronicles blog · 2026-11-12, updated 2026-11-20
+via Hopium Chronicles blog · 2026-11-12, updated 2026-11-21
 
 The revival of the Democratic Party in the Midwest is one of the big stories of the historic 2026 election
 
 ## [It’s now time to make the Electoral College irrelevant. Here’s how.](https://robertreich.substack.com/p/how-we-now-make-the-electoral-college)
 
-via Robert Reich's blog · 2026-11-12, updated 2026-11-20
+via Robert Reich's blog · 2026-11-12, updated 2026-11-21
 
 We can put the National Popular Vote Interstate Compact into effect
 
 ## [FiveStack: Top 5 Breaking News — November 12](https://guykawasaki.substack.com/p/fivestack-top-5-breaking-news-november)
 
-via Guy Kawasaki blog · 2026-11-12, updated 2026-11-20
+via Guy Kawasaki blog · 2026-11-12, updated 2026-11-21
 
 A recording from Guy Kawasaki, Zev Shalev, and Anne P. Mitchell’s live video.
 
 ## [SERIOUSLY? A new weekly series.](https://guykawasaki.substack.com/p/seriously-a-new-weekly-series)
 
-via Guy Kawasaki blog · 2026-11-12, updated 2026-11-20
+via Guy Kawasaki blog · 2026-11-12, updated 2026-11-21
 
 A recording from Guy Kawasaki's live video
 
 ## [Tim Peters, RIP](https://mjtsai.com/blog/2026/11/12/tim-peters-rip/)
 
-via Michael Tsai · 2026-11-12, updated 2026-11-19
+via Michael Tsai · 2026-11-12, updated 2026-11-21
 
 Guido van Rossum (Hacker News): I am immensely sad to announce that Tim Peters has died earlier this year on July 15. It’s hard to overestimate Tim’s influence on Python. He’s probably best known for writing the Zen of Python (PEP 20), but to me he was a mentor and language co-designer long before that. \[…\]
 
@@ -5005,19 +5535,19 @@ Today's links Uber's labor crash: Replacing serfs with robots just doesn't penci
 
 ## [How the polls underestimated the Democrats](https://www.gelliottmorris.com/p/2026-11-12-how-the-polls-underestimated-the)
 
-via Strength in Numbere · 2026-11-12, updated 2026-11-20
+via Strength in Numbere · 2026-11-12, updated 2026-11-21
 
 Many pollsters—though not all—made wrong assumptions about who was likely to vote.
 
 ## [Fixing the web, again](https://andysylvester.com/2026/11/12/fixing-the-web-again/)
 
-via Andy Sylvester's River of News · 2026-11-12, updated 2026-11-19
+via Andy Sylvester's River of News · 2026-11-12, updated 2026-11-21
 
 Last year, I wrote about my efforts to get a link in a podcast feed fixed for an old podcast. It took some effort, but someone was able to correct the error in the feed. This year, I noticed a broken link in a site at the University of Texas at Austin about the alma \[…\]
 
 ## [Dussel. La filosofía es un don para un mundo sin sentido: retrato, homenaje y llamado a construir alternativas](https://www.palomitademaiz.net/resenas-dussel-la-filosofia-es-un-don-para-un-mundo-sin-sentido/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-dussel-la-filosofia-es-un-don-para-un-mundo-sin-sentido)
 
-via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-11-12, updated 2026-11-17
+via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-11-12, updated 2026-11-20
 
 Dirección: Cecilia Fiel. Guion: Cecilia Fiel. Participación de: Enrique Dussel, Alicia Hopkins, Katya Colmenares, Gabriel Herrera Salazar, Jorge Alberto López Reyes, Mario Ruiz Sotelo, Omar García Corona. País: Argentina. Más información de la película: https://www.imdb.com/title/tt44125661/ Conforme nos aplasta y devora esta etapa tardía del neoliberalismo, hace falta tanto la capacidad de asombro y maravilla ante \[…\]
 
@@ -5051,19 +5581,19 @@ Early Xmas for all of those who celebrate!
 
 ## [Rethinking Disability, Resilience, and Independence](https://guykawasaki.substack.com/p/rethinking-disability-resilience)
 
-via Guy Kawasaki blog · 2026-11-12, updated 2026-11-20
+via Guy Kawasaki blog · 2026-11-12, updated 2026-11-21
 
 Spencer West has climbed Mount Kilimanjaro without legs, built a career as a speaker and disability advocate, and written a new book, Breaking Free, but his most useful lesson may be much more ordinary: sometimes the way forward starts by disrupting the pattern you’re in.
 
 ## [A Generation Revolts](https://www.noemamag.com/a-generation-revolts)
 
-via W. Kamau Bell blog · 2026-11-12, updated 2026-11-19
+via W. Kamau Bell blog · 2026-11-12, updated 2026-11-20
 
 The post [A Generation Revolts](https://www.noemamag.com/a-generation-revolts) appeared first on [NOEMA](https://www.noemamag.com).
 
 ## [Tenzing: el hombre al que la historia ha dejado en la sombra](https://www.palomitademaiz.net/resenas-tenzing/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-tenzing)
 
-via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-11-12, updated 2026-11-17
+via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-11-12, updated 2026-11-20
 
 Director: Jennifer Peedom. Guion: Luke Davies y Jennifer Peedom, basado en el libro Tenzing: Hero of Everest escrito por Ed Douglas.   Elenco: Genden Phuntsok, Tom Hiddleston, Willem Dafoe, Samdrup Dorje Lama, Johnny Flynn, Lhakpa Tsamchoe, Jampa Kalsang Tamang, Elizabeth Blackmore, Caitríona Balfe Países: Reino Unido, Australia, Estados Unidos. Más información de la película: https://www.imdb.com/title/tt6262770/ \[…\]
 
@@ -5071,7 +5601,7 @@ La entrada [Tenzing: el hombre al que la historia ha dejado en la sombra](https:
 
 ## [Booker and China](https://thebrowser.com/free/booker-and-china/)
 
-via The Browser · 2026-11-12, updated 2026-11-19
+via The Browser · 2026-11-12, updated 2026-11-21
 
 Writing of lasting value
 
@@ -5236,13 +5766,13 @@ via Dave Winer's Scripting News · 2026-11-12, updated 2026-11-20
 
 ## [Democrats Have Far More Power Today, MAGA Far, Far Less - A New Presentation On The Historic 2026 Election](https://www.hopiumchronicles.com/p/democrats-have-far-more-power-today)
 
-via Hopium Chronicles blog · 2026-11-12, updated 2026-11-20
+via Hopium Chronicles blog · 2026-11-12, updated 2026-11-21
 
 MS Senate and NC-3 have been called for Dems \| 2pm ET Today - Iowa Dem Chair Rita Hart reports in from a new, bluer Iowa
 
 ## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117604109364674850)
 
-via Pleiades STOA at hcommons.socal · 2026-11-12, updated 2026-11-18
+via Pleiades STOA at hcommons.socal · 2026-11-12, updated 2026-11-20
 
 Export Updates 2026-11-12:
 
@@ -5302,19 +5832,19 @@ The better path, imho, which I chose, is to accept your good fortune, but never 
 
 ## [Jensen Huang resigns.](https://garymarcus.substack.com/p/jensen-huang-resigns)
 
-via Gary Marcus blog · 2026-11-12, updated 2026-11-20
+via Gary Marcus blog · 2026-11-12, updated 2026-11-21
 
 The future of Nvidia and the AI industry is uncertain
 
 ## [Is Air Travel Getting Less Safe?](https://fallows.substack.com/p/is-air-travel-getting-less-safe)
 
-via James Fallows, Substack · 2026-11-12, updated 2026-11-20
+via James Fallows, Substack · 2026-11-12, updated 2026-11-21
 
 My article in the New York Times Magazine.
 
 ## [Paul Krugman and Heather Cox Richardson in Conversation \| CUNY Graduate Center](https://paulkrugman.substack.com/p/paul-krugman-and-heather-cox-richardson)
 
-via Paul Krugman · 2026-11-12, updated 2026-11-20
+via Paul Krugman · 2026-11-12, updated 2026-11-21
 
 A recording from Paul Krugman's live video
 
@@ -5326,7 +5856,7 @@ All users should upgrade, as 26.2 reaches end of life on 30 November Berlin, 12 
 
 ## [Breaking: Eli Lilly CEO becomes latest to push back on Dario Amodei’s ludicrous, Elizabeth Holmes-like medical claims](https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest)
 
-via Gary Marcus blog · 2026-11-12, updated 2026-11-20
+via Gary Marcus blog · 2026-11-12, updated 2026-11-21
 
 Where is Nathan Fielder when you need him?
 
@@ -5346,7 +5876,7 @@ It’s day four. Yesterday’s voting knocked out a few shows I was convinced wo
 
 ## [It Won’t End Well for Stephen Miller](https://www.borowitzreport.com/p/it-wont-end-well-for-stephen-miller)
 
-via Borowitz Report · 2026-11-12, updated 2026-11-20
+via Borowitz Report · 2026-11-12, updated 2026-11-21
 
 The Andy Borowitz Show
 
@@ -5360,13 +5890,13 @@ The post [Raspberry Pi gift ideas for nerds](https://www.raspberrypi.com/news/ra
 
 ## [Climates of Treason](https://paulkrugman.substack.com/p/climates-of-treason)
 
-via Paul Krugman · 2026-11-12, updated 2026-11-20
+via Paul Krugman · 2026-11-12, updated 2026-11-21
 
 Why MAGA is making America weak again
 
 ## [Fossil fuels get guarantees. Renewables get promises.](https://popular.info/p/fossil-fuels-get-guarantees-renewables)
 
-via Popular Information (Judd Legum) · 2026-11-12, updated 2026-11-20
+via Popular Information (Judd Legum) · 2026-11-12, updated 2026-11-21
 
 Inside the permitting bill that is dominating the lame duck Congress
 
@@ -5378,7 +5908,7 @@ What’s kept us interested in The Sun Also Rises after a century, despite “so
 
 ## [The future of the Supreme Court suddenly looks a lot brighter](https://www.publicnotice.co/p/2026-blue-wave-supreme-court)
 
-via Public Notice blog · 2026-11-12, updated 2026-11-20
+via Public Notice blog · 2026-11-12, updated 2026-11-21
 
 The blue wave washed away the GOP’s hopes.
 
@@ -5400,7 +5930,7 @@ Newsrooms are optimizing their way through an existential threat. Changing that 
 
 ## [The Affordability and Anti-Corruption Agenda](https://robertreich.substack.com/p/its-power-stupid)
 
-via Robert Reich's blog · 2026-11-12, updated 2026-11-20
+via Robert Reich's blog · 2026-11-12, updated 2026-11-21
 
 My advice for progressives heading to Congress
 
@@ -5454,7 +5984,7 @@ Here are this week’s Independent Press Top 40 Bestsellers for fiction, based o
 
 ## [UK by Numbers: a new website to understand the country’s biggest issues](https://hannahritchie.substack.com/p/uk-by-numbers-launch)
 
-via Hannah Richie at Substack · 2026-11-12, updated 2026-11-20
+via Hannah Richie at Substack · 2026-11-12, updated 2026-11-21
 
 Explore national and local data on public spending, taxation, health, poverty, crime, and more.
 
@@ -5478,19 +6008,19 @@ Animals can play many roles in our lives, both directly and indirectly, and our 
 
 ## [Hensday](https://doc.searls.com/2026/11/11/hensday/)
 
-via Doc Searls (at Harvard), New Old Blog · 2026-11-12, updated 2026-11-18
+via Doc Searls (at Harvard), New Old Blog · 2026-11-12, updated 2026-11-21
 
 Lotta unforking to do Got the above at 9:45 pm Eastern. The NPR Website didn’t mention it. Next I checked, at 9:48, it did. Big wheel keep on… whoa look out… This wasn’t good. But everyone got rescued. Impressive. This won’t take, but it’s right Two thoughts: IQ should mean Information Quotient. That’s what Big \[…\]
 
 ## [Diagnosis denial](https://tracydurnell.com/2026/11/11/diagnosis-denial/)
 
-via Tracy Durnell Blog · 2026-11-12, updated 2026-11-19
+via Tracy Durnell Blog · 2026-11-12, updated 2026-11-21
 
 I’ve been encountering some unexpected resistance to taking my new migraine medication. It’s most effective when taken as early as possible in the migraine’s progression — so it’s counterproductive to put off taking it. I started developing a migraine on my birthday, but refused to believe it. Surely not, I thought… and waited to take \[…\]
 
 ## [“Neither Peace Nor Strength” - Congressional Dems Forcefully Condemn Witkoff, Kushner, And Trump’s Ongoing Appeasement Of Putin](https://www.hopiumchronicles.com/p/neither-peace-nor-strength-congressional)
 
-via Hopium Chronicles blog · 2026-11-12, updated 2026-11-20
+via Hopium Chronicles blog · 2026-11-12, updated 2026-11-21
 
 Smith, Meeks, and Reed Condemn Kushner and Witkoff Efforts to Undermine Ukraine and NATO
 
@@ -5506,7 +6036,7 @@ How petty and short sighted. Especially since america.gov habla Espanol
 
 ## [King of No Pain](https://doc.searls.com/2026/11/11/king-of-no-pain/)
 
-via Doc Searls (at Harvard), New Old Blog · 2026-11-12, updated 2026-11-18
+via Doc Searls (at Harvard), New Old Blog · 2026-11-12, updated 2026-11-21
 
 Note to squeamish readers: If you’re grossed out by medical stuff, you might want to skip this one. Yesterday morning, my oral surgeon installed an implant post on which, a few months hence, my #2 molar (top right, forward of the wisdom tooth) will be restored. Half a century after it got a gold crown, \[…\]
 
@@ -5518,7 +6048,7 @@ Actually
 
 ## [Poppies](https://margaretatwood.substack.com/p/poppies)
 
-via Margaret Atwood's substack · 2026-11-12, updated 2026-11-20
+via Margaret Atwood's substack · 2026-11-12, updated 2026-11-21
 
 Remembrance Day, Nov. 11
 
@@ -5796,7 +6326,7 @@ Oh, and the rainbow flecks: I painted them myself in Procreate on the iPad, and 
 
 ## [Jensen is reportedly about to get fired](https://garymarcus.substack.com/p/jensen-is-reportedly-about-to-get)
 
-via Gary Marcus blog · 2026-11-11, updated 2026-11-20
+via Gary Marcus blog · 2026-11-11, updated 2026-11-21
 
 Things may get really really crazy really fast
 
@@ -5820,25 +6350,25 @@ Folks, I have a crush on “anti-fascist economics” by Isabella Weber.
 
 ## [Reprise on WordLand](https://andysylvester.com/2026/11/11/reprise-on-wordland/)
 
-via Andy Sylvester's River of News · 2026-11-11, updated 2026-11-19
+via Andy Sylvester's River of News · 2026-11-11, updated 2026-11-21
 
 While cleaning up some email, I saw a “note to self” about Dave Winer’s demo of his WordLand application for WordPress. This demo occurred in October 2025 at WordCamp Canada. I reviewed my postings and did not see a link to this event, so wanted to make a post to capture this: WordLand is still \[…\]
 
 ## [@Andy Sylvester's River of News](https://andysylvester.com/2026/11/11/4726/)
 
-via Andy Sylvester's River of News · 2026-11-11, updated 2026-11-19
+via Andy Sylvester's River of News · 2026-11-11, updated 2026-11-21
 
 Doomsday Pack: 90 days of food, water and basics for a small apartment (site list supplies and provides Amazon links for purchase (via ReaderJohn on micro.blog)). Interesting!
 
 ## [@Andy Sylvester's River of News](https://andysylvester.com/2026/11/11/4722/)
 
-via Andy Sylvester's River of News · 2026-11-11, updated 2026-11-19
+via Andy Sylvester's River of News · 2026-11-11, updated 2026-11-21
 
 Mississippi Free Press: Liveblog of the Mississippi 2026 US Senate race – fascinating coverage of county updates and background articles.
 
 ## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117599823624109731)
 
-via Pleiades STOA at hcommons.socal · 2026-11-11, updated 2026-11-18
+via Pleiades STOA at hcommons.socal · 2026-11-11, updated 2026-11-20
 
 Export Updates 2026-11-11:
 
@@ -5882,19 +6412,19 @@ You’re last week’s single biggest winner
 
 ## [Apple Closing Community Support Forum](https://mjtsai.com/blog/2026/11/11/apple-closing-community-support-forum/)
 
-via Michael Tsai · 2026-11-11, updated 2026-11-19
+via Michael Tsai · 2026-11-11, updated 2026-11-21
 
 Apple (Hacker News): The Apple Support Community will permanently close on November 20, 2026. Starting today, the site will no longer accept new posts and is available in a read-only state. It’s not totally clear, but I take this to mean that they’re deleting all the data on November 20. Joe Rossignol: Apple informed MacRumors \[…\]
 
 ## [Siri AI Open to “All” Developers](https://mjtsai.com/blog/2026/11/11/siri-ai-open-to-all-developers/)
 
-via Michael Tsai · 2026-11-11, updated 2026-11-19
+via Michael Tsai · 2026-11-11, updated 2026-11-21
 
 Apple (MacRumors): Starting today with the iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3 betas, a new Developer Preview enables any developer to integrate their app with Siri AI, giving businesses and developers new ways to reach and serve their customers. \[…\] Today’s preview allows any app to bring its content and actions directly \[…\]
 
 ## [Siri AI Adds Languages](https://mjtsai.com/blog/2026/11/11/siri-ai-adds-languages/)
 
-via Michael Tsai · 2026-11-11, updated 2026-11-19
+via Michael Tsai · 2026-11-11, updated 2026-11-21
 
 Apple: With the 27.2 software updates released today, Siri AI — an entirely new version of Siri that is profoundly more capable, conversational, and personal — is expanding to more people around the world, with availability now in the French, Japanese, Korean, Portuguese, and Spanish languages. \[…\] Language support for Siri AI will continue to \[…\]
 
@@ -5914,7 +6444,7 @@ To read this letter, click here:
 
 ## [Faustino Alanís y el freestyle cinematográfico](https://www.palomitademaiz.net/faustino-alanis-y-el-freestyle-cinematografico/?utm_source=rss&utm_medium=rss&utm_campaign=faustino-alanis-y-el-freestyle-cinematografico)
 
-via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-11-11, updated 2026-11-17
+via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-11-11, updated 2026-11-20
 
 Recién graduado del Centro de Capacitación Cinematográfica y con varios cortometrajes bajo el brazo, Faustino Alanís debutó su primera película, Los días de Poncho, en el Festival Internacional de Cine de Morelia 2026. La historia, enfocada en un joven rapero que comienza a trabajar vendiendo gas con su papá, es una coming of age con \[…\]
 
@@ -5928,13 +6458,13 @@ I gave a talk at AI DevCon New York about why security take-off is the new norma
 
 ## [GOP Shoots Itself in the Foot In First Post-Election Test](https://plus.briantylercohen.com/p/gop-shoots-itself-in-the-foot-in)
 
-via Brian Taylor Cohen blog · 2026-11-11, updated 2026-11-20
+via Brian Taylor Cohen blog · 2026-11-11, updated 2026-11-21
 
 Republicans learned exactly nothing from the most brutal midterm election defeat in decades as they opt to protect Pete Hegseth.
 
 ## [This Week In The Big Picture](https://thinkbigpicture.substack.com/p/week-big-picture-november-11)
 
-via Think Big Picture · 2026-11-11, updated 2026-11-20
+via Think Big Picture · 2026-11-11, updated 2026-11-21
 
 It’s been just over a week since Democrats’ historic midterm rout, and already many Democrats are signaling how they intend to deliver on the mandate voters handed them last Tuesday.
 
@@ -5972,13 +6502,13 @@ Hopium paid subscribers gather tonight at 7pm ET \| We have a launched a new rec
 
 ## [Guy the Yardman](https://guykawasaki.substack.com/p/guy-the-yardman)
 
-via Guy Kawasaki blog · 2026-11-11, updated 2026-11-20
+via Guy Kawasaki blog · 2026-11-11, updated 2026-11-21
 
 In 1994 I was living in San Francisco with my wife and baby boy.
 
 ## [Crystal Lake: el origen de una pesadilla](https://www.palomitademaiz.net/resenas-crystal-lake/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-crystal-lake)
 
-via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-11-11, updated 2026-11-17
+via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-11-11, updated 2026-11-20
 
 Creador: Brad Caleb Kane. Dirección: Logan George, Celine Held, Michael Lennox, Quyen Tran. Guion: Brad Kane, Evan Endicott, Josh Stoddard, Karl Taro Greenfeld, Laura Marks. Basada en el guion original de Friday the 13th, de Victor Miller. Elenco: Linda Cardellini, William Catlett, Gwendolyn Sundstrom, Cameron Scoggins, Devin Kessler, Nick Cordileone, Danielle Kotch. Duración: 8 episodios. \[…\]
 
@@ -5986,7 +6516,7 @@ La entrada [Crystal Lake: el origen de una pesadilla](https://www.palomitademaiz
 
 ## [Concerts and Levers](https://thebrowser.com/free/concerts-and-levers/)
 
-via The Browser · 2026-11-11, updated 2026-11-19
+via The Browser · 2026-11-11, updated 2026-11-21
 
 Writing of lasting value
 
@@ -6022,7 +6552,7 @@ As a former commander-in-chief, I’ve had the honor of meeting with our nation�
 
 ## [@IIIF Mastodon feed](https://glammr.us/@IIIF/117598485424977653)
 
-via IIIF Mastodon feed · 2026-11-11
+via IIIF Mastodon feed · 2026-11-11, updated 2026-11-20
 
 RE: [https://glammr.us/@IIIF/117564364852030243](https://glammr.us/@IIIF/117564364852030243)
 
@@ -6032,7 +6562,7 @@ No registration required, just drop in using the Zoom link on our Community Cale
 
 ## [DID SUPERMAN LACK THE BALLS TO BE A ZIONIST?](https://jacobsonh.substack.com/p/did-superman-lack-the-balls-to-be)
 
-via Howard Jacobson blog · 2026-11-11, updated 2026-11-20
+via Howard Jacobson blog · 2026-11-11, updated 2026-11-21
 
 Question: ‘What do Kryptonite - the mineral found only on the planet Krypton where Superman was born - and Zionism - the movement to return dispersed Jews to their ancient homeland - have in common?
 
@@ -6048,7 +6578,7 @@ Register on Zoom: bit.ly/4sNfI3m
 
 ## [Black Friday PSA](https://www.worseonpurpose.com/p/black-friday-psa)
 
-via Worse on Purpose · 2026-11-11, updated 2026-11-20
+via Worse on Purpose · 2026-11-11, updated 2026-11-21
 
 A holiday built on gratitude for what you already have now serves as the impetus for buying more. How consumerism swallowed Thanksgiving, and five traps to avoid if you do choose to shop.
 
@@ -6100,7 +6630,7 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 
 ## [Live Event with Heather Cox Richardson](https://paulkrugman.substack.com/p/live-event-with-heather-cox-richardson)
 
-via Paul Krugman · 2026-11-11, updated 2026-11-20
+via Paul Krugman · 2026-11-11, updated 2026-11-21
 
 Tonight at 6:30
 
@@ -6112,19 +6642,19 @@ Zachary Fletcher interviews former New York Times romance columnist Olivia Waite
 
 ## [On Veteran’s Day](https://dbarkhuff.substack.com/p/on-veterans-day)
 
-via Daniel Barkhuff, Substack · 2026-11-11, updated 2026-11-20
+via Daniel Barkhuff, Substack · 2026-11-11, updated 2026-11-21
 
 There are, depending on how you look at it, two effective ways in which people can be convinced to do hard things, and they both rely on incentivizing the task.
 
 ## [Memo to MAGA: Todd Blanche is not your lawyer](https://www.publicnotice.co/p/todd-blanche-trump-lawyer)
 
-via Public Notice blog · 2026-11-11, updated 2026-11-20
+via Public Notice blog · 2026-11-11, updated 2026-11-21
 
 And Stan Woodward is not here to help.
 
 ## [Trump wasn't on the ballot, but Trumpism was](https://www.gelliottmorris.com/p/2026-11-11-how-democrats-won)
 
-via Strength in Numbere · 2026-11-11, updated 2026-11-20
+via Strength in Numbere · 2026-11-11, updated 2026-11-21
 
 Trump's unpopularity — in every issue — probably added about 5 points to the usual midterm wave and turned it into a tsunami
 
@@ -6248,13 +6778,13 @@ Listen on Apple Podcasts
 
 ## [Watched You Can See Everything](https://tracydurnell.com/2026/11/10/watched-you-can-see-everything/)
 
-via Tracy Durnell Blog · 2026-11-11, updated 2026-11-19
+via Tracy Durnell Blog · 2026-11-11, updated 2026-11-21
 
 Super interesting examination of truth-telling. Spoilers below the cut in the sense I’m discussing what I think the movie is saying and how it constructs its narrative. . . . . . The evidence about her guilt or innocence — whether she lied about the machines not working — is presented inconclusively, even as Nathan \[…\]
 
 ## [Musk (2026) film](https://a.wholelottanothing.org/musk-2026-film/)
 
-via Matt Haughey blog · 2026-11-11, updated 2026-11-19
+via Matt Haughey blog · 2026-11-11, updated 2026-11-20
 
 Recently I sat down to watch the new _Musk_ documentary, which is streaming on Amazon Video. It's a bummer this didn't come out on digital platforms until _after_ the midterm elections, because it paints a better, more realistic picture of Elon Musk.
 
@@ -6262,7 +6792,7 @@ Here's the
 
 ## [Help Me Choose The Stupidest Jim Jordan Quote](https://www.borowitzreport.com/p/help-me-choose-the-stupidest-jim)
 
-via Borowitz Report · 2026-11-11, updated 2026-11-20
+via Borowitz Report · 2026-11-11, updated 2026-11-21
 
 It’s harder than you might think.
 
@@ -6330,13 +6860,13 @@ Google's web is falling apart in front of us. It's objecting to sites that suppo
 
 ## [Newsletter: Beyond the Blue Tsunami](https://stevenhassan.substack.com/p/newsletter-beyond-the-blue-tsunami)
 
-via Dr. Steven Hassan, Free the Mind · 2026-11-10, updated 2026-11-20
+via Dr. Steven Hassan, Free the Mind · 2026-11-10, updated 2026-11-21
 
 How do we turn this moment of hope into lasting change?
 
 ## [Rule By the Ghoul](https://thinkbigpicture.substack.com/p/trump-miller-chief-of-staff)
 
-via Think Big Picture · 2026-11-10, updated 2026-11-20
+via Think Big Picture · 2026-11-10, updated 2026-11-21
 
 Trump lost bigly. In response, he elevated one of his most hated aides, Stephen Miller, to the top White House job…
 
@@ -6458,7 +6988,7 @@ Reply via:
 
 ## [When AIs Become Unruly Swarms](https://www.noemamag.com/when-ais-become-unruly-swarms)
 
-via W. Kamau Bell blog · 2026-11-10, updated 2026-11-19
+via W. Kamau Bell blog · 2026-11-10, updated 2026-11-20
 
 The post [When AIs Become Unruly Swarms](https://www.noemamag.com/when-ais-become-unruly-swarms) appeared first on [NOEMA](https://www.noemamag.com).
 
@@ -6470,7 +7000,7 @@ Today's links The EU should go big and hard over border IT failure: Sometimes yo
 
 ## [Los días de Poncho (FICM 2026): rimas y versos para madurar](https://www.palomitademaiz.net/resenas-los-dias-de-poncho/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-los-dias-de-poncho)
 
-via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-11-10, updated 2026-11-17
+via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-11-10, updated 2026-11-20
 
 Dirección: Faustino Alanís. Guion: Faustino Alanís. Elenco: Axel Shuarma, Asur Zagada, Rocío Guzmán, Adrián Vázquez, Haxah, Axel Red Alert. País: México. Más información de la película: https://www.imdb.com/title/tt44125661/ La música nos salva durante la adolescencia, y es a través de su ritmo y energía que muchas personas encuentran su manera de expresarse. Centrada en un adolescente \[…\]
 
@@ -6478,37 +7008,37 @@ La entrada [Los días de Poncho (FICM 2026): rimas y versos para madurar](https:
 
 ## [BBEdit 16.1](https://mjtsai.com/blog/2026/11/10/bbedit-16-1/)
 
-via Michael Tsai · 2026-11-10, updated 2026-11-19
+via Michael Tsai · 2026-11-10, updated 2026-11-21
 
 Bare Bones Software: Introducing “Language Playgrounds”, a new interface for creating language modules to add support for languages which are not included from the factory. With this comes a new language module architecture: Declarative Language Modules (DLMs), which supersede the original codeless language modules (CLMs) and provide a much richer language support experience. There are \[…\]
 
 ## [macOS 27.2.1](https://mjtsai.com/blog/2026/11/10/macos-27-2-1/)
 
-via Michael Tsai · 2026-11-10, updated 2026-11-19
+via Michael Tsai · 2026-11-10, updated 2026-11-21
 
 Juli Clover (release notes, security, no enterprise, no developer, full installer, IPSW): macOS Golden Gate includes bug fixes and security updates, according to Apple’s release notes. The update likely includes a fix to prevent command-line tools from accepting eMudhra’s compromised web certificates. See also: Mr. Macintosh. Previously: eMudhra Intermediate CA Compromise macOS 27.2 macOS 27 \[…\]
 
 ## [macOS 26.7.3 and macOS 15.8.3](https://mjtsai.com/blog/2026/11/10/macos-26-7-3-and-macos-15-8-3/)
 
-via Michael Tsai · 2026-11-10, updated 2026-11-19
+via Michael Tsai · 2026-11-10, updated 2026-11-21
 
 macOS 26.7.3 (security, no enterprise, no developer, full installer): This update provides bug fixes and security updates for your Mac. macOS 15.8.3 (security, no enterprise, no developer, full installer): This update provides bug fixes and security updates for your Mac. See also: Howard Oakley. Previously: eMudhra Intermediate CA Compromise macOS 26.7.2 and macOS 15.8.2
 
 ## [iOS 27.2.1 and iPadOS 27.2.1](https://mjtsai.com/blog/2026/11/10/ios-27-2-1-and-ipados-27-2-1/)
 
-via Michael Tsai · 2026-11-10, updated 2026-11-19
+via Michael Tsai · 2026-11-10, updated 2026-11-21
 
 Juli Clover (iOS/iPadOS release notes, security, no iOS/iPadOS enterprise, no developer): iOS 27.2.1 includes addresses bugs and patches security vulnerabilities according to Apple’s release notes for the update. Adam Engst: Apple has published updates to the current versions of iOS, iPadOS, macOS, watchOS, and visionOS, plus several older versions, to address security vulnerabilities focusing on \[…\]
 
 ## [watchOS 27.2.1](https://mjtsai.com/blog/2026/11/10/watchos-27-2-1/)
 
-via Michael Tsai · 2026-11-10, updated 2026-11-19
+via Michael Tsai · 2026-11-10, updated 2026-11-21
 
 Juli Clover (release notes, security, no developer): According to Apple’s release notes, the watchOS update includes security fixes\[…\] Previously: watchOS 27.2
 
 ## [visionOS 27.2.1](https://mjtsai.com/blog/2026/11/10/visionos-27-2-1/)
 
-via Michael Tsai · 2026-11-10, updated 2026-11-19
+via Michael Tsai · 2026-11-10, updated 2026-11-21
 
 Juli Clover (release notes, security, no enterprise, no developer): \[The\] visionOS 27.2.1 update includes security updates and bug fixes. Previously: visionOS 27.2
 
@@ -6520,7 +7050,7 @@ Next frontier in AI? Communicate with eyes. So Claude would know I haven't finis
 
 ## [Strip and Quantum](https://thebrowser.com/free/strip-and-quantum/)
 
-via The Browser · 2026-11-10, updated 2026-11-19
+via The Browser · 2026-11-10, updated 2026-11-21
 
 Writing of lasting value
 
@@ -6540,7 +7070,7 @@ Stuart Stevens drops by to talk about this historic election at 11am ET - join u
 
 ## [Just say no to Anthropic’s IPO](https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo)
 
-via Gary Marcus blog · 2026-11-10, updated 2026-11-20
+via Gary Marcus blog · 2026-11-10, updated 2026-11-21
 
 I am not an investment advisor, and you must make your own investment decisions, but this is why I personally would not touch their IPO.
 
@@ -6590,7 +7120,7 @@ via Miguel de Icaza Mastondon feed · 2026-11-10, updated 2026-11-16
 
 ## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117592487602279766)
 
-via Pleiades STOA at hcommons.socal · 2026-11-10, updated 2026-11-18
+via Pleiades STOA at hcommons.socal · 2026-11-10, updated 2026-11-20
 
 Export Updates 2026-11-10:
 
@@ -6654,25 +7184,25 @@ Slashdot [thread](https://it.slashdot.org/story/26/11/05/2140208/openssh-flaw-le
 
 ## [The Cyberpunking of America (Fixed)](https://paulkrugman.substack.com/p/the-cyberpunking-of-america-fixed)
 
-via Paul Krugman · 2026-11-10, updated 2026-11-20
+via Paul Krugman · 2026-11-10, updated 2026-11-21
 
 How the tech broligarchs tried to inflict their dystopian dreams on the rest of us
 
 ## [The Cyberpunking of America](https://paulkrugman.substack.com/p/the-cyberpunking-of-america)
 
-via Paul Krugman · 2026-11-10, updated 2026-11-20
+via Paul Krugman · 2026-11-10, updated 2026-11-21
 
 How the tech broligarchs tried to inflict their dystopian dreams on the rest of us
 
 ## [The MAGA civil war](https://popular.info/p/the-maga-civil-war)
 
-via Popular Information (Judd Legum) · 2026-11-10, updated 2026-11-20
+via Popular Information (Judd Legum) · 2026-11-10, updated 2026-11-21
 
 A recently departed Trump aide is accusing the White House of systemic corruption.
 
 ## [MAGA’s other big lie](https://www.publicnotice.co/p/maga-was-never-popular)
 
-via Public Notice blog · 2026-11-10, updated 2026-11-20
+via Public Notice blog · 2026-11-10, updated 2026-11-21
 
 Despite what Trump says, his movement was never that popular.
 
@@ -6684,7 +7214,7 @@ Eve Sneider on the genius of Janet Malcolm, who “was running circles around ev
 
 ## [Boebert Demands Votes be Recounted Manually: ‘I Favor a Hand Job’](https://www.borowitzreport.com/p/boebert-demands-votes-be-recounted)
 
-via Borowitz Report · 2026-11-10, updated 2026-11-20
+via Borowitz Report · 2026-11-10, updated 2026-11-21
 
 “This recount should not be conducted in secrecy,” Boebert said. “What is needed is a hand job, with plenty of people around to watch.”
 
@@ -6891,7 +7421,7 @@ Let’s take a night of rest.
 
 ## [Game of BIKE 2026: transition edition](https://a.wholelottanothing.org/game-of-bike-2026-transition-edition/)
 
-via Matt Haughey blog · 2026-11-10, updated 2026-11-19
+via Matt Haughey blog · 2026-11-10, updated 2026-11-20
 
 Back in my BMX days, a thing my friends would do once every few weeks when we were bored of practicing was to play a game of BIKE. It's basically the game of HORSE you play with a basketball, but on a trick bike. Set a trick, have
 
@@ -6909,13 +7439,13 @@ Same thing has been happening in tech for decades. Technology gets captured by a
 
 ## [The Republicans’ Biggest Backfire of the Midterms](https://plus.briantylercohen.com/p/the-republicans-biggest-backfire)
 
-via Brian Taylor Cohen blog · 2026-11-10, updated 2026-11-20
+via Brian Taylor Cohen blog · 2026-11-10, updated 2026-11-21
 
 Republicans’ shameless gerrymandering spree backfired spectacularly, with especially egregious consequences in a few key states.
 
 ## [Spies, Lies, and the Trump Slump](https://tinabrown.substack.com/p/spies-lies-and-the-trump-slump)
 
-via Tina Brown · 2026-11-10, updated 2026-11-20
+via Tina Brown · 2026-11-10, updated 2026-11-21
 
 I was mesmerized by Trump’s 60 Minutes performance last night.
 
@@ -6927,7 +7457,7 @@ Happy Birthday, Go!
 
 ## [New Kids On The Block](https://steady.substack.com/p/new-kids-on-the-block)
 
-via Dan Rather's Steady · 2026-11-09, updated 2026-11-20
+via Dan Rather's Steady · 2026-11-09, updated 2026-11-21
 
 Congress’ new class is young and eager to get started
 
@@ -6941,7 +7471,7 @@ Nowadays, people send me pull requests for their problems, which beats wasting m
 
 ## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117588953881676759)
 
-via Pleiades STOA at hcommons.socal · 2026-11-09, updated 2026-11-18
+via Pleiades STOA at hcommons.socal · 2026-11-09, updated 2026-11-20
 
 New on the blog: MANTO user survey
 
@@ -6991,25 +7521,25 @@ The post [Self-sufficient mobile weather station](https://www.raspberrypi.com/ne
 
 ## [Shorter Convergence Period](https://mjtsai.com/blog/2026/11/09/shorter-convergence-period/)
 
-via Michael Tsai · 2026-11-09, updated 2026-11-19
+via Michael Tsai · 2026-11-09, updated 2026-11-21
 
 Mark Gurman (tweet, 9To5Mac, MacRumors): Behind the scenes, though, Ternus has delivered a different message, knowing full well that Apple remains far behind rivals. In recent weeks, Ternus held a closed-door meeting with Craig Federighi, who became Apple’s AI czar following last year’s dismissal of its former AI leader. Desiring more and frustrated by what \[…\]
 
 ## [Nudification Guidelines and Terminating Developer Accounts](https://mjtsai.com/blog/2026/11/09/nudification-guidelines-and-terminating-developer-accounts/)
 
-via Michael Tsai · 2026-11-09, updated 2026-11-19
+via Michael Tsai · 2026-11-09, updated 2026-11-21
 
 Matt Burgess: A WIRED investigation found the app is part of a network of more than 400 connected domains and apps that, like Viefur, often claim to be everyday services—such as language tuition or AI workout coaches. When accessed under certain conditions, however, apps in the network stealthily load a web interface allowing the generation \[…\]
 
 ## [Developer Accounts Removed](https://mjtsai.com/blog/2026/11/09/developer-accounts-removed/)
 
-via Michael Tsai · 2026-11-09, updated 2026-11-19
+via Michael Tsai · 2026-11-09, updated 2026-11-21
 
 Viktor Seraleev (Hacker News): On August 21, 2023, Apple removed our Reely application during the update review. Along with the removal, we received a notification citing a violation of section 3.2(f) of the Apple Developer Program License Agreement\[…\] \[…\] Again, this reason does not specify which particular application the claim pertains to. What are we \[…\]
 
 ## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117588357534185475)
 
-via Pleiades STOA at hcommons.socal · 2026-11-09, updated 2026-11-18
+via Pleiades STOA at hcommons.socal · 2026-11-09, updated 2026-11-20
 
 Last Two Weeks in the [#PleiadesGazetteer](https://hcommons.social/tags/PleiadesGazetteer) (26 October - 9 November 2026): over the course of the last two weeks, the Pleiades editorial college published 17 new and 410 updated place resources, reflecting the work of Jeffrey Becker, Anika Campbell, Ilaria Cristofaro, Damian Noah Dimitrov, Tom Elliott, Maxime Guénette, Greta Hawes, Sebastian Heath, Brady Kiesling, Eleftheria Konstantinidou, Chris de Lisle, Gabriel Mckee, Eric Poehler, Joe Scholten and R. Scott Smith.
 
@@ -7025,13 +7555,13 @@ Over the last two weeks the Pleiades editorial college published 17 new and 410 
 
 ## [The rest of 2026 at Strength In Numbers](https://www.gelliottmorris.com/p/the-rest-of-2026-at-strength-in-numbers)
 
-via Strength in Numbere · 2026-11-09, updated 2026-11-20
+via Strength in Numbere · 2026-11-09, updated 2026-11-21
 
 An update on planned post-election analysis and polling on congressional priorities
 
 ## [New Units of Knowledge](https://kevinkelly.substack.com/p/new-units-of-knowledge)
 
-via Kevin Kelly, Substack · 2026-11-09, updated 2026-11-20
+via Kevin Kelly, Substack · 2026-11-09, updated 2026-11-21
 
 We each have a magic genie that will do whatever we ask of it.
 
@@ -7051,7 +7581,7 @@ To read this letter, click here:
 
 ## [Fable 5.2 and Jagged AGI](https://www.oneusefulthing.org/p/fable-52-and-jagged-agi)
 
-via One Useful Thing · 2026-11-09, updated 2026-11-20
+via One Useful Thing · 2026-11-09, updated 2026-11-21
 
 General, often expert, and sometimes jagged
 
@@ -7095,7 +7625,7 @@ Josh Bernoff: The midterm election winners were the best communicators – Democ
 
 ## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117587709721376782)
 
-via Pleiades STOA at hcommons.socal · 2026-11-09, updated 2026-11-18
+via Pleiades STOA at hcommons.socal · 2026-11-09, updated 2026-11-20
 
 Export Updates 2026-11-09:
 
@@ -7278,7 +7808,7 @@ via Dave Winer's Scripting News · 2026-11-09, updated 2026-11-19
 
 ## [Misguided: Where Misinformation Starts, How It Spreads, and What to Do About It with Matthew Facciani PhD](https://stevenhassan.substack.com/p/misguided-where-misinformation-starts)
 
-via Dr. Steven Hassan, Free the Mind · 2026-11-09, updated 2026-11-20
+via Dr. Steven Hassan, Free the Mind · 2026-11-09, updated 2026-11-21
 
 Why belonging shapes belief—and how to help people think for themselves
 
@@ -7292,7 +7822,7 @@ La entrada [Conversación con Dalia Reyes: los documentales tienen que respirar]
 
 ## [Chairs and London](https://thebrowser.com/free/chairs-and-london/)
 
-via The Browser · 2026-11-09, updated 2026-11-19
+via The Browser · 2026-11-09, updated 2026-11-21
 
 Writing of lasting value
 
@@ -7364,7 +7894,7 @@ The sound on my TV is a fraction of a second faster than the picture. Just enoug
 
 ## [Jensen is cooked](https://garymarcus.substack.com/p/jensen-is-cooked)
 
-via Gary Marcus blog · 2026-11-09, updated 2026-11-20
+via Gary Marcus blog · 2026-11-09, updated 2026-11-21
 
 Not by the affair itself but by the receipts he left. There’s no moving past this.
 
@@ -7378,13 +7908,13 @@ AI security can be divided into three broad topics. It’s important for researc
 
 ## [Stephen Miller Doesn’t Want You to Read This](https://www.borowitzreport.com/p/america-meet-your-new-white-house)
 
-via Borowitz Report · 2026-11-09, updated 2026-11-20
+via Borowitz Report · 2026-11-09, updated 2026-11-21
 
 The following is 100% factual (because I couldn’t make it up).
 
 ## [Major media outlets sanitize Stephen Miller’s white nationalist ideas](https://popular.info/p/major-media-outlets-sanitize-stephen)
 
-via Popular Information (Judd Legum) · 2026-11-09, updated 2026-11-20
+via Popular Information (Judd Legum) · 2026-11-09, updated 2026-11-21
 
 Miller has a long history of promoting some of the core tenets of white nationalism. Media outlets, with few exceptions, chose not to describe his views in plain terms.
 
@@ -7396,13 +7926,13 @@ What’s the best literary TV adaptation of all time? Vote in the first round of
 
 ## [The Texas Miracle](https://paulkrugman.substack.com/p/the-texas-miracle)
 
-via Paul Krugman · 2026-11-09, updated 2026-11-20
+via Paul Krugman · 2026-11-09, updated 2026-11-21
 
 Democracy’s biggest win in a night of big wins
 
 ## [Democrats \*already\* have started winning](https://www.publicnotice.co/p/democratic-wins-midterms)
 
-via Public Notice blog · 2026-11-09, updated 2026-11-20
+via Public Notice blog · 2026-11-09, updated 2026-11-21
 
 Elections have (immediate) consequences.
 
@@ -8293,7 +8823,7 @@ Joanne and Heather talk history and politics.
 
 ## [The Huang Affair: What did they know and when did they know it?](https://garymarcus.substack.com/p/the-huang-affair-what-did-they-know)
 
-via Gary Marcus blog · 2026-11-09, updated 2026-11-20
+via Gary Marcus blog · 2026-11-09, updated 2026-11-21
 
 None of this was on my bingo card
 
@@ -8317,7 +8847,7 @@ Join the conversation on the OFFICIAL discord server: [https://discord.com/invit
 
 ## [Ask me anything! Special appearance by Mitch Jackson. Guy Kawasaki](https://guykawasaki.substack.com/p/ask-me-anything-special-appearance)
 
-via Guy Kawasaki blog · 2026-11-09, updated 2026-11-20
+via Guy Kawasaki blog · 2026-11-09, updated 2026-11-21
 
 A recording from Guy Kawasaki's live video
 
@@ -8335,7 +8865,7 @@ The Dogpatch neighborhood in San Francisco is on the east side of the city, alon
 
 ## [The Passings of a Rockefeller, and a Houston.](https://fallows.substack.com/p/the-passings-of-a-rockefeller-and)
 
-via James Fallows, Substack · 2026-11-08, updated 2026-11-20
+via James Fallows, Substack · 2026-11-08, updated 2026-11-21
 
 Right now we can use examples of people living lives of service. Here are two.
 
@@ -8443,7 +8973,7 @@ via Miguel de Icaza Mastondon feed · 2026-11-08, updated 2026-11-15
 
 ## [Our Wins Of The Week](https://thinkbigpicture.substack.com/p/week-progressive-wins-november-8)
 
-via Think Big Picture · 2026-11-08, updated 2026-11-20
+via Think Big Picture · 2026-11-08, updated 2026-11-21
 
 All year, we have documented as a blue wave of support for Democrats gradually grew.
 
@@ -8503,13 +9033,13 @@ So many people these days seem to have different beliefs about what makes them a
 
 ## [Nothing But Blue Skies](https://steady.substack.com/p/nothing-but-blue-skies)
 
-via Dan Rather's Steady · 2026-11-08, updated 2026-11-20
+via Dan Rather's Steady · 2026-11-08, updated 2026-11-21
 
 A Reason To Smile
 
 ## [After the Bubble Bursts](https://paulkrugman.substack.com/p/after-the-bubble-bursts)
 
-via Paul Krugman · 2026-11-08, updated 2026-11-20
+via Paul Krugman · 2026-11-08, updated 2026-11-21
 
 What past recessions can tell us about the AI hangover
 
@@ -8943,13 +9473,13 @@ To read this letter, click here:
 
 ## [Multipolarity, neutrality and peace](https://branko2f7.substack.com/p/multipolarity-neutrality-and-peace)
 
-via Branco Milanovic, Global Inequality and More 3.0 · 2026-11-07, updated 2026-11-20
+via Branco Milanovic, Global Inequality and More 3.0 · 2026-11-07, updated 2026-11-21
 
 Why the world peace depends on small counties’ not taking sides?
 
 ## [The Morning After on Bourbon Street](https://danismart.substack.com/p/the-morning-after-on-bourbon-street)
 
-via Dani Smart Blog · 2026-11-07, updated 2026-11-20
+via Dani Smart Blog · 2026-11-07, updated 2026-11-21
 
 A party we weren’t invited to, a morning swept clean, and the fragile hope floating over the French Quarter after the 2026 midterms.
 
@@ -8997,7 +9527,7 @@ What the big tech companies don't get is that independent developers can come up
 
 ## [Slow inefficient (non-derogatory) guestbook](https://kwon.nyc/notes/slow-inefficient-non-derogatory-guestbook/)
 
-via Rachel Kwon blog · 2026-11-07, updated 2026-11-19
+via Rachel Kwon blog · 2026-11-07, updated 2026-11-20
 
 I made a [guestbook](https://kwon.nyc/guestbook), like we used to have in the old days, except this one has a physical component. It’s pretty inefficient and impractical, and I love it. My soul has been yearning to decouple the  from  and to rediscover the joy of making things that are not really necessary but just fun. And, connected to the internet but with an IRL component. I got an old thermal receipt printer years ago (2019, according to the purchase confirmation email) that I was going to use for an Arduino project with the intention of doing something clever with it, but never did, until I felt a random spark of intrinsic motivation amongst the sea of external demands on my time and attention. Story of my life.
 
@@ -9062,7 +9592,7 @@ Other resources that were helpful in my journey:
 
 ## [Computer History](https://doc.searls.com/2026/11/07/computer-history/)
 
-via Doc Searls (at Harvard), New Old Blog · 2026-11-07, updated 2026-11-18
+via Doc Searls (at Harvard), New Old Blog · 2026-11-07, updated 2026-11-21
 
 I invested (not just spent) this last week at the Computer History Museum here in Silicon Valley, enjoying a series of unconferences, each building toward, and on, the wacky, vast, sometimes scary, but mostly promising capabilities of AI—especially of the personal kind. I’ll have more to say about those when my links can go to \[…\]
 
@@ -9092,7 +9622,7 @@ In 2026 we delivered a mighty blow to MAGA. Over these next two years we need to
 
 ## [Unattended reboots with encrypted disks](https://blogsystem5.substack.com/p/zkeys-intro)
 
-via BZ Blog · 2026-11-07, updated 2026-11-20
+via BZ Blog · 2026-11-07, updated 2026-11-21
 
 An introduction to ZKeys: a new service that stores encryption keys off-site and automatically locks access to them if the client machines go offline for a long period of time.
 
@@ -9113,13 +9643,13 @@ Today's links JS Tan and Clarissa Redwine's "Against Tech Oligarchy": Inventing 
 
 ## [After the Bluenami](https://www.borowitzreport.com/p/what-comes-next)
 
-via Borowitz Report · 2026-11-07, updated 2026-11-20
+via Borowitz Report · 2026-11-07, updated 2026-11-21
 
 TBR Weekend Read
 
 ## [Talking to Martin Wolf About the Midterms](https://paulkrugman.substack.com/p/talking-to-martin-wolf-about-the)
 
-via Paul Krugman · 2026-11-07, updated 2026-11-20
+via Paul Krugman · 2026-11-07, updated 2026-11-21
 
 A conversation with the legendary Financial Times writer
 
@@ -9131,9 +9661,102 @@ How J.R.R. Tolkien’s Catholicism impacted his writing: “Tolkien, it is fair 
 
 ## [Quick reflections on Tuesday](https://www.publicnotice.co/p/midterm-reflections-2026)
 
-via Public Notice blog · 2026-11-07, updated 2026-11-20
+via Public Notice blog · 2026-11-07, updated 2026-11-21
 
 If feels good, doesn’t it?
+
+## [Release 2026.11.07 - Improved dark mode clarity and Android Auto perspective/UI improvements](https://www.comaps.app/news/2026-11-07/Release-2026.11.07-release-notes/)
+
+via Co-Maps Blog · 2026-11-07
+
+**Available on**: [App Store](https://apps.apple.com/app/comaps/id6747180809) \| [F-Droid](https://f-droid.org/packages/app.comaps.fdroid/) \| [Flathub](https://flathub.org/en/apps/app.comaps.comaps) \| [Codeberg](https://codeberg.org/comaps/comaps/releases/tag/v2026.11.07-16). _Available soon on Google Play_.
+
+### Highlights
+
+Some of the highlights of this release are:
+
+- Improve dark mode clarity with more legible text and roads - by @eatham
+- Android Auto: Improve Android Auto UI, fix accidental routing touches - by @kvanrooyen
+- Android: Show POI branch names - by @eisa01
+- Android: Add route preview mode during route planning (tap a route step to zoom to it) - by @LMBishop
+- CarPlay: Overhaul turn guidance system to fix many bugs - by @eisa01
+- Split Tanzania, Vietnam, Malaysia, China Guangdong into smaller maps - by vng and Emilevillette via OM and @pastk
+- Routing engine optimisations - by @marko and @W-Floyd
+- New POIs and styles: Music Venue, Cafeteria, Game Shop, Swimming Pool, Customer Parking, Club, Research Institute, Storage Rental - by @matheusgomesms, @scarcekoi, @Parakeet3850, @patepelo
+
+### Full release notes
+
+These release notes are also [available on Codeberg](https://codeberg.org/comaps/comaps/releases/tag/v2026.11.07-16).
+
+**General/Map:**
+
+- OpenStreetMap data as of November 5 (make sure to update for all changes to have effect)
+- Improve dark mode contrast: more legible text and roads by @eatham
+- Add Hazardous Areas by @ldcuof
+- Distinguish Vegetarian "options" vs "only" by @osmuser63783
+- Stop saying "go straight" when crossing large roads by @esposm03
+- Split Tanzania, Vietnam, Malaysia, China Guangdong into smaller maps by vng and Emilevillette via OM and @pastk
+- Show second-hand information on place page by @dmlls
+- “?reviews” search keyword, which finds places that have reviews by @mmakowski
+- New POIs and styles:
+  - Music Venue by @matheusgomesms
+  - Cafeteria by @scarcekoi
+  - Game Shop by @Parakeet3850
+  - Swimming Pool Shop by @Parakeet3850
+  - Customer Parking by @matheusgomesms
+  - Club by @patepelo
+  - Research Institute by @matheusgomesms
+  - Storage Rental icon by @scarcekoi
+- Fix label color for mountain rescue stations by @RamblingBanjo
+- More outdoor\_seating values are recognized by @osmuser63783
+- Fix cafeterias being tagged as plain fast food by @pastk
+- Improve long route calculation time by @W-Floyd
+- Routing engine optimizations by @marko
+
+**Android:**
+
+- Add route preview mode during route planning (tap a route step to zoom to it) by @LMBishop
+- Show POI branch names by @eisa01
+- Star rating fix: ratings no longer always show 5 stars on older Android versions by @mmakowski
+- Make review text selectable by @mmakowski
+- Disable checkbox on the first screen when location is not available by @kvanrooyen
+
+**Android Auto:**
+
+- Improve car/phone switching by @libf-de
+- Improve Android Auto UI, fix accidental routing touches by @kvanrooyen
+- Fix label size increasing to 400% by @kvanrooyen
+
+**CarPlay:**
+
+- CarPlay turn guidance rewrite: Solves several bugs, e.g., instructions being lagged, next turn showing wrong direction, next turn only working with TTS on by @eisa01
+- Fix arrow position when starting navigation from dashboard and moving to main view by @eisa01
+- Fix category search started on phone continuing in background on CarPlay by @eisa01
+- Handle cars that limit list displays in CarPlay when driving, show notice that lists are limited by @eisa01
+- Solve long-standing crash in CarPlay search results and move to non-deprecated list methods by @eisa01
+- Fix invisible settings icons on iOS 27 in CarPlay by @eisa01
+- Remove stairs routing option on CarPlay by @eisa01
+
+**iOS:**
+
+- Prevent negative map scale when zooming too fast with a trackpad by @eisa01
+
+**Qt / desktop:**
+
+- Fix errors on map updates on macOS by @esposm03
+- Fix crash on search due to missing categories\_brands.txt by @eisa01
+
+### Translations
+
+Thank you to everyone who translated CoMaps since the October release!
+
+Release notes and store descriptions:
+
+Bovi887, Cooper\_Wire, desoter, dmlls, gedankenstuecke, Growebis, IanGandol, justbispo, mmakowski, pastk, shuuji3
+
+App translations on Codeberg Translate (Weblate):
+
+alexgabi, artnay, Bemoz, Benitardem, Bovi887, Burak Onder, codebergian42, Codimp, Coehill, Diabolo68, dmlls, dobridabar, ERYpTION, Fjuro, gaaelgarciia, GalaxyShard, gallegonovato, gideone, Ginsway, Growebis, impromptux, Ivana47, JanezPavelZebovec, javnik, jimkats, jmontane, joandg, Jonatan Nyberg, laspun, ldmpub, Linus\_W\_Frische, LiveTracks, Mannivu, map-per, matheusgomesms, mattanelkaim, maxihuenu, Mickael81, muralito, nebras, osmuser63783, patepelo, phama, Porrumentzio, Priit Jõerüüt, scarcekoi, shuuji3, snchart, SPLATPLAYS, Stephan-P, sunsand, Supaplextw, thesupertechie, Undecided, WEB0, Weicat, ygorigor, 玄枵
 
 ## [What We Must Do Now \| The Coffee Klatch for Saturday, November 7, 2026](https://robertreich.substack.com/p/what-we-must-do-now-the-coffee-klatch)
 
@@ -9258,7 +9881,7 @@ Not good news
 
 ## [On Firing Petey](https://dbarkhuff.substack.com/p/on-firing-petey)
 
-via Daniel Barkhuff, Substack · 2026-11-07, updated 2026-11-20
+via Daniel Barkhuff, Substack · 2026-11-07, updated 2026-11-21
 
 Donald Trump loves to fire people.
 
@@ -9276,19 +9899,19 @@ Experimental iCloud Passwords support, a Feeds sidebar and fixes for feeds, exte
 
 ## [Safari’s Autofill Feature May Be Distorting Time](https://mjtsai.com/blog/2026/11/06/safaris-autofill-feature-may-be-distorting-time/)
 
-via Michael Tsai · 2026-11-06, updated 2026-11-19
+via Michael Tsai · 2026-11-06, updated 2026-11-21
 
 Thomas Claburn: The autofill feature of Apple’s Safari browser appears to be suffering from a date handling error that occasionally leads it to supply an incorrect credit card expiration date when filling out forms. The supposed issue has been a sore spot for Apple customers dating back at least to 2017, when the author of \[…\]
 
 ## [Goodbye, Salon](https://mjtsai.com/blog/2026/11/06/goodbye-salon/)
 
-via Michael Tsai · 2026-11-06, updated 2026-11-19
+via Michael Tsai · 2026-11-06, updated 2026-11-21
 
 Salon (via John Gruber, Hacker News): The business realities of independent digital journalism have changed profoundly over the years. After careful consideration, we have reached the difficult decision that our publishing model is no longer sustainable. We know this news will be deeply disappointing to many of you, and we share that sadness. Thirty-one years \[…\]
 
 ## [Castro Sold Yet Again](https://mjtsai.com/blog/2026/11/06/castro-sold-yet-again/)
 
-via Michael Tsai · 2026-11-06, updated 2026-11-19
+via Michael Tsai · 2026-11-06, updated 2026-11-21
 
 Dustin Bluck: I’ve decided to sell the app to Maple Media. Maple Media is a mobile media and technology company that owns and runs category-leading entertainment, productivity and podcasting apps, including Player FM. Previously: Indie Podcast Apps Not Growing Castro’s Customer Support Lessons Castro Sold Again Castro May Be Dying Castro Sold to Tiny Update \[…\]
 
@@ -9328,19 +9951,19 @@ Overall, the Democratic Party had overwhelming success across the nation, taking
 
 ## [Donald the (Very) Lame Duck](https://www.publicnotice.co/p/donald-the-very-lame-duck)
 
-via Public Notice blog · 2026-11-06, updated 2026-11-20
+via Public Notice blog · 2026-11-06, updated 2026-11-21
 
 We take a victory lap over bluenami and unpack what it means.
 
 ## [We're Not Talking Enough About Democrats' State Legislative Victories](https://thinkbigpicture.substack.com/p/2026-blue-wave-state-legislatures)
 
-via Think Big Picture · 2026-11-06, updated 2026-11-20
+via Think Big Picture · 2026-11-06, updated 2026-11-21
 
 The blue tsunami wiped out a crucial advantage Republicans have held for decades
 
 ## [The National Popular Vote Interstate Compact’s Time Has Come](https://plus.briantylercohen.com/p/the-national-popular-vote-interstate)
 
-via Brian Taylor Cohen blog · 2026-11-06, updated 2026-11-20
+via Brian Taylor Cohen blog · 2026-11-06, updated 2026-11-21
 
 Moments like this don’t come around often. Democrats must not miss it.
 
@@ -9372,7 +9995,7 @@ Our friends at n+1 are back with their annual pre-yuletide gift. Bookmatch, the
 
 ## [Democrats Should Not Revert To The Status Quo Ante](https://www.noemamag.com/democrats-should-not-revert-to-the-status-quo-ante)
 
-via W. Kamau Bell blog · 2026-11-06, updated 2026-11-19
+via W. Kamau Bell blog · 2026-11-06, updated 2026-11-20
 
 The post [Democrats Should Not Revert To The Status Quo Ante](https://www.noemamag.com/democrats-should-not-revert-to-the-status-quo-ante) appeared first on [NOEMA](https://www.noemamag.com).
 
@@ -9396,19 +10019,19 @@ Open-weight models are transforming AI-powered coding, offering greater flexibil
 
 ## [Keep Those Elbows Up](https://smist08.wordpress.com/2026/11/06/keep-those-elbows-up/)
 
-via Stephen Smith's blog · 2026-11-06, updated 2026-11-13
+via Stephen Smith's blog · 2026-11-06, updated 2026-11-20
 
 Introduction The US mid-term elections have finally happened, and the US didn’t degenerate into a civil war. The democrats now control both the Senate and the House of Representatives. However, they don’t have enough seats in the Senate to override presidential vetoes. I think the results of the mid-term elections contain a lot of good \[…\]
 
 ## [Laser Light Cannon - a review](https://www.aiweirdness.com/laser-light-cannon-a-review/)
 
-via AI Weirdness Blog · 2026-11-06, updated 2026-11-19
+via AI Weirdness Blog · 2026-11-06, updated 2026-11-20
 
 A laser scientist reviews the laser light cannon from the Steven Universe cartoon, including its highly unusual beam shape.
 
 ## [Land and San Marino](https://thebrowser.com/free/land-and-san-marino/)
 
-via The Browser · 2026-11-06, updated 2026-11-19
+via The Browser · 2026-11-06, updated 2026-11-21
 
 Writing of lasting value
 
@@ -9626,7 +10249,7 @@ via Dave Winer's Scripting News · 2026-11-06, updated 2026-11-15
 
 ## [Introduction to Maryam Vaezi](https://www.digitalrhetoriccollaborative.org/2026/11/06/introduction-to-maryam-vaezi/)
 
-via Digital Humanities Quarterly News · 2026-11-06, updated 2026-11-11
+via Digital Humanities Quarterly News · 2026-11-06, updated 2026-11-20
 
 Long before I knew what digital rhetoric meant, I was writing poems on our family computer. As a teenager, I spent hours on that PC listening to music, watching movies, exploring the internet, and, most of all, writing. I wrote poems, stories, and journal entries and saved them in folders instead of keeping them on \[...\]
 
@@ -9694,13 +10317,13 @@ via Dave Winer's Scripting News · 2026-11-06, updated 2026-11-17
 
 ## [PopInfo Weekly: Crickets, cash, and conflicts](https://popular.info/p/popinfo-weekly-crickets-cash-and)
 
-via Popular Information (Judd Legum) · 2026-11-06, updated 2026-11-20
+via Popular Information (Judd Legum) · 2026-11-06, updated 2026-11-21
 
 Last week, Democrats on the House Judiciary Committee released a report about President Trump’s alleged relationship with Jeffrey Epstein.
 
 ## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117569913673102819)
 
-via Pleiades STOA at hcommons.socal · 2026-11-06, updated 2026-11-18
+via Pleiades STOA at hcommons.socal · 2026-11-06, updated 2026-11-20
 
 Export Updates 2026-11-06:
 
@@ -9746,7 +10369,7 @@ Leaving VMware means leaving vSAN, so choosing a vSAN alternative means replacin
 
 ## [The markets dropped $2.5 trillion yesterday. What happens next?](https://garymarcus.substack.com/p/the-markets-dropped-25-trillion-yesterday)
 
-via Gary Marcus blog · 2026-11-06, updated 2026-11-20
+via Gary Marcus blog · 2026-11-06, updated 2026-11-21
 
 5 predictions
 
@@ -9772,13 +10395,13 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 
 ## [America’s Backlash Against Oligarchy](https://paulkrugman.substack.com/p/americas-backlash-against-oligarchy)
 
-via Paul Krugman · 2026-11-06, updated 2026-11-20
+via Paul Krugman · 2026-11-06, updated 2026-11-21
 
 Why the megabillionaires lost big Tuesday
 
 ## [Turnout among Black voters surged in the Deep South](https://www.gelliottmorris.com/p/2026-11-10-black-turnout-south)
 
-via Strength in Numbere · 2026-11-06, updated 2026-11-20
+via Strength in Numbere · 2026-11-06, updated 2026-11-21
 
 Black voters made up a larger share of the electorate than in 2024, helping to (maybe) flip Mississippi's Senate seat
 
@@ -9790,7 +10413,7 @@ Katherine Kelaidis on Sergey Davydov and why stories of ordinary life are essent
 
 ## [The midterms’ most deserving losers](https://www.publicnotice.co/p/2026-midterms-biggest-losers)
 
-via Public Notice blog · 2026-11-06, updated 2026-11-20
+via Public Notice blog · 2026-11-06, updated 2026-11-21
 
 Call them the Comeuppance Caucus.
 
@@ -9972,7 +10595,7 @@ Public Knowledge and Creative Commons have laid out a compelling case for what m
 
 ## [Big Beautiful Blow-out](https://tinabrown.substack.com/p/big-beautiful-blow-out)
 
-via Tina Brown · 2026-11-06, updated 2026-11-20
+via Tina Brown · 2026-11-06, updated 2026-11-21
 
 Is our long national nightmare over?
 
@@ -10002,19 +10625,19 @@ Texas Democratic Party Chair Kendall Scudder join us live tomorrow at 1230pm ET 
 
 ## [Unable to Export Mac Passwords](https://mjtsai.com/blog/2026/11/05/unable-to-export-mac-passwords/)
 
-via Michael Tsai · 2026-11-05, updated 2026-11-19
+via Michael Tsai · 2026-11-05, updated 2026-11-21
 
 I create periodic CSV password backups on the Macs that I manage. After the recent 1Password story, I was feeling good that at least I shouldn’t have to worry about the Passwords app not launching. But it turns out that, today, Apple’s app didn’t work, either. After telling it to export everything (except the passkeys, \[…\]
 
 ## [Switch to Safari](https://mjtsai.com/blog/2026/11/05/switch-to-safari/)
 
-via Michael Tsai · 2026-11-05, updated 2026-11-19
+via Michael Tsai · 2026-11-05, updated 2026-11-21
 
 Chance Miller (Hacker News): Apple is kicking off a new campaign today to promote Safari’s benefits over Chrome. With a new “Switch to Safari” page on its website and a pair of new YouTube videos, Apple wants everyone to know Safari is “a more powerful and private browser than Chrome.” Apple (Hacker News): Safari offers up to 5 \[…\]
 
 ## [Quarantined Safari .webloc Files](https://mjtsai.com/blog/2026/11/05/quarantined-webloc-files/)
 
-via Michael Tsai · 2026-11-05, updated 2026-11-19
+via Michael Tsai · 2026-11-05, updated 2026-11-21
 
 Jeff Johnson (Reddit): Opening a webloc file, for example by double-clicking in Finder, now triggers a Gatekeeper alert in the latest versions of macOS Golden Gate and Tahoe, 27.2 and 26.7.2 respectively, though oddly not in macOS Sequoia 15.8.2. \[…\] I could not find anything relevant in the macOS 27.2 security release notes, but the \[…\]
 
@@ -10026,7 +10649,7 @@ Why do they have repos that are handling [thousands](https://github.blog/enginee
 
 ## [The Election Aftermath with Anne P. Mitchell, Mitch Jackson, and Guy Kawasaki](https://guykawasaki.substack.com/p/the-election-aftermath-with-anne)
 
-via Guy Kawasaki blog · 2026-11-05, updated 2026-11-20
+via Guy Kawasaki blog · 2026-11-05, updated 2026-11-21
 
 A recording from Guy Kawasaki's live video
 
@@ -10074,13 +10697,13 @@ It’s been a few years since I first released SimBuddy, my favorite tool for po
 
 ## [Why Feeling Loved Starts With Asking, Listening, and Sharing](https://guykawasaki.substack.com/p/why-feeling-loved-starts-with-asking)
 
-via Guy Kawasaki blog · 2026-11-05, updated 2026-11-20
+via Guy Kawasaki blog · 2026-11-05, updated 2026-11-21
 
 What does it take to actually feel loved?
 
 ## [Introduction to Meg Palmer](https://www.digitalrhetoriccollaborative.org/2026/11/05/introduction-to-meg-palmer/)
 
-via Digital Humanities Quarterly News · 2026-11-05, updated 2026-11-11
+via Digital Humanities Quarterly News · 2026-11-05, updated 2026-11-20
 
 Hi friends. My name is Meg Palmer, and long before I was an “academic” with a capital A, I was a musician.
 
@@ -10094,7 +10717,7 @@ Friends,
 
 ## [Breaking: Mayhem in the market 🫧](https://garymarcus.substack.com/p/breaking-mayhem-in-the-market)
 
-via Gary Marcus blog · 2026-11-05, updated 2026-11-20
+via Gary Marcus blog · 2026-11-05, updated 2026-11-21
 
 The Generative AI bubble may finally have popped.
 
@@ -10133,7 +10756,7 @@ La entrada [Campeón gabacho: el superhéroe latino que Jonás Cuarón siempre q
 
 ## [Dilettantes and Vienna](https://thebrowser.com/free/dilettantes-and-vienna/)
 
-via The Browser · 2026-11-05, updated 2026-11-19
+via The Browser · 2026-11-05, updated 2026-11-21
 
 Writing of lasting value
 
@@ -10197,7 +10820,7 @@ One thing to know about Claude -- it will never welcome you when you start a ses
 
 ## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117564651064343551)
 
-via Pleiades STOA at hcommons.socal · 2026-11-05, updated 2026-11-18
+via Pleiades STOA at hcommons.socal · 2026-11-05, updated 2026-11-20
 
 Export Updates 2026-11-05:
 
@@ -10302,7 +10925,7 @@ Caltech's email privacy notice is [here](https://www.caltech.edu/privacy-notice
 
 ## [The Curious About Everything Newsletter #67](https://jodiettenberg.substack.com/p/sixty-seven)
 
-via Curious about everything blog · 2026-11-05, updated 2026-11-20
+via Curious about everything blog · 2026-11-05, updated 2026-11-21
 
 The many interesting things I read in September 2026
 
@@ -10316,13 +10939,13 @@ Video Version \| Audio Version Stop me if you’ve heard this story before. On A
 
 ## [How Aristotle Anticipated The AI Era](https://www.noemamag.com/building-the-new-equilibrium-economy)
 
-via W. Kamau Bell blog · 2026-11-05, updated 2026-11-19
+via W. Kamau Bell blog · 2026-11-05, updated 2026-11-20
 
 The post [How Aristotle Anticipated The AI Era](https://www.noemamag.com/building-the-new-equilibrium-economy) appeared first on [NOEMA](https://www.noemamag.com).
 
 ## [@IIIF Mastodon feed](https://glammr.us/@IIIF/117564364852030243)
 
-via IIIF Mastodon feed · 2026-11-05, updated 2026-11-11
+via IIIF Mastodon feed · 2026-11-05, updated 2026-11-20
 
 📆 Save the date for our next community call, on November 11 at 12PM ET / 5:00PM UTC.
 
@@ -10332,7 +10955,7 @@ Zoom info on the [#IIIF](https://glammr.us/tags/IIIF) Community Calendar: iiif.i
 
 ## [The Big Question After Election Day](https://plus.briantylercohen.com/p/the-big-question-after-election-day)
 
-via Brian Taylor Cohen blog · 2026-11-05, updated 2026-11-20
+via Brian Taylor Cohen blog · 2026-11-05, updated 2026-11-21
 
 Voters sent a clear message with the blue tsunami on Election Day: we want change. Now.
 
@@ -10362,13 +10985,13 @@ Starting this Monday November 3rd the Rogue Scholar science blog archive stopped
 
 ## [Desperate JD Vance Rebrands Himself by Converting to Islam](https://www.borowitzreport.com/p/desperate-jd-vance-rebrands-himself)
 
-via Borowitz Report · 2026-11-05, updated 2026-11-20
+via Borowitz Report · 2026-11-05, updated 2026-11-21
 
 Plus: The Republicans’ Project 2028 Revealed
 
 ## [How to investigate Jared Kushner](https://popular.info/p/how-to-investigate-jared-kushner)
 
-via Popular Information (Judd Legum) · 2026-11-05, updated 2026-11-20
+via Popular Information (Judd Legum) · 2026-11-05, updated 2026-11-21
 
 The president’s son-in-law has painted himself into a corner.
 
@@ -10380,13 +11003,13 @@ Ed Simon explores the symbol of Guy Fawkes and V for Vendetta‘s anti-authorita
 
 ## [What Democrats Can Do](https://paulkrugman.substack.com/p/what-democrats-can-do)
 
-via Paul Krugman · 2026-11-05, updated 2026-11-20
+via Paul Krugman · 2026-11-05, updated 2026-11-21
 
 Yes, Trump has veto power. Force him to use it.
 
 ## [The only thing Democrats have to fear is fear itself](https://www.publicnotice.co/p/democratic-midterm-victory)
 
-via Public Notice blog · 2026-11-05, updated 2026-11-20
+via Public Notice blog · 2026-11-05, updated 2026-11-21
 
 They were confident this year, for a change. That’s how they have to approach everything.
 
@@ -10524,7 +11147,7 @@ Our session lineup just dropped! 🔥 The countdown to our 5-year celebration be
 
 ## [Stunner](https://steady.substack.com/p/stunner)
 
-via Dan Rather's Steady · 2026-11-04, updated 2026-11-20
+via Dan Rather's Steady · 2026-11-04, updated 2026-11-21
 
 Trump leads GOP off a cliff, claims no responsibility
 
@@ -10550,37 +11173,37 @@ Hopium paid subscribers gather this evening at 7pm ET
 
 ## [Safari 27.3: Adaptive Dark Mode](https://mjtsai.com/blog/2026/11/04/safari-27-3-adaptive-dark-mode/)
 
-via Michael Tsai · 2026-11-04, updated 2026-11-19
+via Michael Tsai · 2026-11-04, updated 2026-11-21
 
 Simon Fraser et al. (Hacker News): When enabled by a user, Safari adapts light websites and presents them as dark. \[…\] At the core of Adaptive Dark Mode is the transformation of color. Sometimes colors are simply decorative, while other times they have semantic meaning. Adaptive Dark Mode determines when to invert colors so elements \[…\]
 
 ## [Safari 27.3: Vertical Tabs](https://mjtsai.com/blog/2026/11/04/safari-27-3-vertical-tabs/)
 
-via Michael Tsai · 2026-11-04, updated 2026-11-19
+via Michael Tsai · 2026-11-04, updated 2026-11-21
 
 Jason Snell (MacRumors): In recent years, numerous browsers have experimented with re-orienting the traditional top-of-the-page tab bar into a vertical stack, and now Safari is joining the parade. (It makes sense, when you think about it, because most of our screens are much wider than they are tall, putting vertical space at a premium. Vertical \[…\]
 
 ## [Binance Heist](https://mjtsai.com/blog/2026/11/04/binance-heist/)
 
-via Michael Tsai · 2026-11-04, updated 2026-11-19
+via Michael Tsai · 2026-11-04, updated 2026-11-21
 
 Rafael Nam: The massive $6.3 billion cyber heist suffered by crypto exchange Binance last week may have taken place in only about twenty minutes — but the attacks were months in the making. That’s according an initial assessment released by Binance on Tuesday about how it suffered the world’s biggest-ever cyber heist by hackers the \[…\]
 
 ## [mSecure Breach](https://mjtsai.com/blog/2026/11/04/msecure-breach/)
 
-via Michael Tsai · 2026-11-04, updated 2026-11-19
+via Michael Tsai · 2026-11-04, updated 2026-11-21
 
 Carly Page (Reddit): Password manager mSecure has warned customers to change their passwords, reset two-factor authentication, and potentially remove their passkeys after detecting suspicious activity, but it has not explained what happened or whether anyone’s secrets were exposed. \[…\] For anyone with hundreds of passwords stored in mSecure, that’s potentially hours of work. And without \[…\]
 
 ## [The GOP Wipe-out: My Post-Election Convo with The Mooch and Christiane Amanpour](https://tinabrown.substack.com/p/the-gop-wipe-out-my-post-election)
 
-via Tina Brown · 2026-11-04, updated 2026-11-20
+via Tina Brown · 2026-11-04, updated 2026-11-21
 
 The Dems are dancing today: seven Senate seats flipped like pancakes, 29 House seats gained, a margin of victory in the popular vote not seen since the 1976 post-Watergate election.
 
 ## [This Week In The Big Picture](https://thinkbigpicture.substack.com/p/week-big-picture-november-4)
 
-via Think Big Picture · 2026-11-04, updated 2026-11-20
+via Think Big Picture · 2026-11-04, updated 2026-11-21
 
 What a huge, historic result for Democrats last night!
 
@@ -10631,7 +11254,7 @@ La entrada [Godzilla Minus Zero: alta tensión](https://www.palomitademaiz.net/r
 
 ## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117559282062033367)
 
-via Pleiades STOA at hcommons.socal · 2026-11-04, updated 2026-11-18
+via Pleiades STOA at hcommons.socal · 2026-11-04, updated 2026-11-20
 
 Export Updates 2026-11-04:
 
@@ -10675,13 +11298,13 @@ I want to find all the recent podcast interviews that Jamie Raskin has done. Is 
 
 ## [The Gracious Mindset](https://guykawasaki.substack.com/p/the-gracious-mindset)
 
-via Guy Kawasaki blog · 2026-11-04, updated 2026-11-20
+via Guy Kawasaki blog · 2026-11-04, updated 2026-11-21
 
 Carol Dweck, mother of the growth mindset and Stanford psychology professor, and I happened to use the same limousine service to get to San Francisco International Airport.
 
 ## [Dinosaurs and Bernie](https://thebrowser.com/free/dinosaurs-and-bernie/)
 
-via The Browser · 2026-11-04, updated 2026-11-19
+via The Browser · 2026-11-04, updated 2026-11-21
 
 Writing of lasting value
 
@@ -10716,13 +11339,13 @@ CNN: Hakeem Jeffries, on track to make House speaker history, sees ‘mandate fo
 
 ## [Made In America, Mostly: How to spot fake heritage](https://www.worseonpurpose.com/p/heritage-brands-made-in-usa)
 
-via Worse on Purpose · 2026-11-04, updated 2026-11-20
+via Worse on Purpose · 2026-11-04, updated 2026-11-21
 
 The homepage sells American heritage. The product page says “Imported.” How to easily spot fake heritage, and where to find goods still made in the USA.
 
 ## [Crypto and AI’s $250 million election goes sideways](https://www.citationneeded.news/2026-election-results/)
 
-via Citation Needed News · 2026-11-04, updated 2026-11-20
+via Citation Needed News · 2026-11-04, updated 2026-11-21
 
 The industries’ biggest bets lost almost across the board.
 
@@ -10748,7 +11371,7 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 
 ## [Mike Johnson Begs God to Rapture Him Immediately](https://www.borowitzreport.com/p/mike-johnson-begs-god-to-rapture-66d)
 
-via Borowitz Report · 2026-11-04, updated 2026-11-20
+via Borowitz Report · 2026-11-04, updated 2026-11-21
 
 “I don’t want to be in the minority,” he prayed, choking back tears. “I’m a Republican. We hate minorities.”
 
@@ -10770,13 +11393,13 @@ Congratulations, USA
 
 ## [It Wasn’t (Just) the Economy, Stupid](https://paulkrugman.substack.com/p/it-wasnt-just-the-economy-stupid)
 
-via Paul Krugman · 2026-11-04, updated 2026-11-20
+via Paul Krugman · 2026-11-04, updated 2026-11-21
 
 2024 was a blip. This was America.
 
 ## [“Pretend I’m on the ballot”](https://popular.info/p/pretend-im-on-the-ballot)
 
-via Popular Information (Judd Legum) · 2026-11-04, updated 2026-11-20
+via Popular Information (Judd Legum) · 2026-11-04, updated 2026-11-21
 
 In advance of the 2026 midterms, President Trump told voters to “pretend I’m on the ballot because in a way, I am on the ballot.” Many voters listened, and delivered a stinging repudiation of Trump and his hand-picked candidates across the country.
 
@@ -10798,13 +11421,13 @@ Well, that was America yesterday. But _perhaps_, just perhaps, not today?
 
 ## [On Trump, the Midterms, and Appeal](https://dbarkhuff.substack.com/p/on-trump-the-midterms-and-appeal)
 
-via Daniel Barkhuff, Substack · 2026-11-04, updated 2026-11-20
+via Daniel Barkhuff, Substack · 2026-11-04, updated 2026-11-21
 
 Last night Donald Trump got his ass beat like a rented mule after asking his base at his ever-shrinking rallies to pretend he was on the ballot.
 
 ## [“If we nominate Trump, we will get destroyed ... and we will deserve it”](https://www.publicnotice.co/p/blue-tsunami)
 
-via Public Notice blog · 2026-11-04, updated 2026-11-20
+via Public Notice blog · 2026-11-04, updated 2026-11-21
 
 Lindsey’s prophecy finally comes to pass.
 
@@ -10900,7 +11523,7 @@ The post [Product compliance, demystified: how Raspberry Pi helps you get to mar
 
 ## [Democrats win U.S. House, Senate in biggest incumbent-party defeat since Watergate](https://www.gelliottmorris.com/p/democrats-win-us-house-senate-in)
 
-via Strength in Numbere · 2026-11-04, updated 2026-11-20
+via Strength in Numbere · 2026-11-04, updated 2026-11-21
 
 The Strength In Numbers/Verasight poll was tied for first in predicting the Democratic House blowout
 
@@ -11163,7 +11786,7 @@ Most VMware alternative evaluations focus on Day 1 migration and Day 2 operation
 
 ## [Breaking News From TBR Decision Desk](https://www.borowitzreport.com/p/breaking-news-from-tbr-decision-desk)
 
-via Borowitz Report · 2026-11-04, updated 2026-11-20
+via Borowitz Report · 2026-11-04, updated 2026-11-21
 
 Exclusive Midterms Coverage
 
@@ -11243,13 +11866,13 @@ Friends,
 
 ## [Newsletter: Reclaiming Hope from Doomsday Prophecies](https://stevenhassan.substack.com/p/newsletter-reclaiming-hope-from-doomsday)
 
-via Dr. Steven Hassan, Free the Mind · 2026-11-03, updated 2026-11-20
+via Dr. Steven Hassan, Free the Mind · 2026-11-03, updated 2026-11-21
 
 Taking back our right to plan for the future
 
 ## [What I’m Watching for As the First Returns Come In](https://thinkbigpicture.substack.com/p/blue-wave-midterm-elections)
 
-via Think Big Picture · 2026-11-03, updated 2026-11-20
+via Think Big Picture · 2026-11-03, updated 2026-11-21
 
 A modest wave, a solid one, or a blue tsunami? There will be signs throughout the night about the size of the blue wave.
 
@@ -11267,13 +11890,13 @@ Tuesday session
 
 ## [Final Election Day UPDATE](https://plus.briantylercohen.com/p/final-election-day-update)
 
-via Brian Taylor Cohen blog · 2026-11-03, updated 2026-11-20
+via Brian Taylor Cohen blog · 2026-11-03, updated 2026-11-21
 
 This is the day we’ve waited for.
 
 ## [Live on Election Day with Ro Khanna, Elise Hu, & Guy Kawasaki](https://guykawasaki.substack.com/p/live-on-election-day-with-ro-khanna)
 
-via Guy Kawasaki blog · 2026-11-03, updated 2026-11-20
+via Guy Kawasaki blog · 2026-11-03, updated 2026-11-21
 
 A recording from Guy Kawasaki's live video
 
@@ -11291,7 +11914,7 @@ While updating Kotoba from a hospital bed, I encountered a problem while present
 
 ## [My Election Day Debrief with Christiane Amanpour: The Midterms and Trump Disillusionment Syndrome](https://tinabrown.substack.com/p/election-day-debrief-with-christiane)
 
-via Tina Brown · 2026-11-03, updated 2026-11-20
+via Tina Brown · 2026-11-03, updated 2026-11-21
 
 With American voters casting ballots today in the momentous midterms, Christiane and I unpacked the possibility of a another democracy-undermining Trump tantrum if the election does not go his way, the MAGA mood, and what happens next in Iran with Trump and Netanyahu still calling the shots.
 
@@ -11313,25 +11936,25 @@ We’re excited to announce Adaptive Dark Mode in Safari 27.3 beta.
 
 ## [Apple’s Q4 2026 Results](https://mjtsai.com/blog/2026/11/03/apples-q4-2026-results/)
 
-via Michael Tsai · 2026-11-03, updated 2026-11-19
+via Michael Tsai · 2026-11-03, updated 2026-11-21
 
 Joe Rossignol: John Ternus will participate in his first Apple earnings call as the company’s CEO today Apple (transcript, Hacker News): The Company posted quarterly revenue of $114.5 billion, up 12 percent year over year. Company gross margin was 47.9 percent, including a favorable impact of approximately 1 percentage point from tariff refunds. \[…\] “Our \[…\]
 
 ## [Microsoft Workforce Buyouts Amid Record Revenue](https://mjtsai.com/blog/2026/11/03/microsoft-workforce-buyouts-amid-record-revenue/)
 
-via Michael Tsai · 2026-11-03, updated 2026-11-19
+via Michael Tsai · 2026-11-03, updated 2026-11-21
 
 Satya Nadella: Fiscal year 2026 was another record year for the company. Revenue was $331.8 billion, up 18 percent year-over-year. Microsoft Cloud revenue was $214.4 billion, up 27 percent year-over-year. Azure grew 41 percent year-over-year and surpassed $100 billion for the first time, while Microsoft 365 Copilot reached over 30 million paid seats. And operating \[…\]
 
 ## [Amazon Changing AI Strategy](https://mjtsai.com/blog/2026/11/03/amazon-changing-ai-strategy/)
 
-via Michael Tsai · 2026-11-03, updated 2026-11-19
+via Michael Tsai · 2026-11-03, updated 2026-11-21
 
 Eugene Kim: Amazon is overhauling its AI strategy, winding down many in-house models, reorganizing teams, and focusing engineers on a new strategy to compete at the frontier, according to people familiar with the matter. The changes follow layoffs in Amazon’s Artificial General Intelligence, or AGI, organization last week and the shutdown of AGI Lab, a \[…\]
 
 ## [Lost Access to 1Password Mac Apps](https://mjtsai.com/blog/2026/11/03/lost-access-to-1password-mac-apps/)
 
-via Michael Tsai · 2026-11-03, updated 2026-11-19
+via Michael Tsai · 2026-11-03, updated 2026-11-21
 
 Charles C Counselman III: About 15 seconds after it was launched, it would quit because, it said, I had done nothing for 60 minutes. After this had happened several times, consistently, l went to 1Password’s Support website. I read all the info and advice there, but I found nothing relevant, so I e-mailed support@1password.com. I \[…\]
 
@@ -11343,7 +11966,7 @@ I have a new ebook
 
 ## [In Praise Of Japan’s Failure To Keep Up](https://www.noemamag.com/in-praise-of-japans-failure-to-keep-up)
 
-via W. Kamau Bell blog · 2026-11-03, updated 2026-11-19
+via W. Kamau Bell blog · 2026-11-03, updated 2026-11-20
 
 The post [In Praise Of Japan’s Failure To Keep Up](https://www.noemamag.com/in-praise-of-japans-failure-to-keep-up) appeared first on [NOEMA](https://www.noemamag.com).
 
@@ -11369,13 +11992,13 @@ La entrada [La bola negra (MONFIC 26): las vidas que Lorca no pudo escribir](htt
 
 ## [Midterm Countdown, Zero Days to Go.](https://fallows.substack.com/p/midterm-countdown-zero-days-to-go)
 
-via James Fallows, Substack · 2026-11-03, updated 2026-11-20
+via James Fallows, Substack · 2026-11-03, updated 2026-11-21
 
 What we’ve achieved already: Becoming citizens again.
 
 ## [Introduction to Macy Reeves](https://www.digitalrhetoriccollaborative.org/2026/11/03/introduction-to-macy-reeves/)
 
-via Digital Humanities Quarterly News · 2026-11-03, updated 2026-11-11
+via Digital Humanities Quarterly News · 2026-11-03, updated 2026-11-20
 
 Hi y’all! It’s so great to join the Digital Rhetoric Collaborative this year as a graduate fellow. I’m coming to this fellowship from the Composition, Rhetoric, and English Studies (CRES) program at the University of Alabama. I’m a third-year PhD student who focuses on digital literacies of online discourse groups and writing program administration.  Technology \[...\]
 
@@ -11383,7 +12006,7 @@ Hi y’all! It’s so great to join the Digital Rhetoric Collaborative this year
 
 ## [Keep the rascals rotating](https://news.lettersofnote.com/p/keep-the-rascals-rotating)
 
-via Letters of Note · 2026-11-03, updated 2026-11-20
+via Letters of Note · 2026-11-03, updated 2026-11-21
 
 Letters of Vote
 
@@ -11397,9 +12020,15 @@ Find your polling location at IWillVote.com.
 
 Reach out to your family and friends to make sure they vote today, too.
 
+## [Self-Making and Lens](https://thebrowser.com/free/self-making-and-lens/)
+
+via The Browser · 2026-11-03, updated 2026-11-19
+
+Writing of lasting value
+
 ## [Pensions (Updated)](https://blog.dshr.org/2026/11/pensions.html)
 
-via David Rosenthal's blog · 2026-11-03, updated 2026-11-20
+via David Rosenthal's blog · 2026-11-03, updated 2026-11-04
 
 In [_Eating The Seed Corn_](https://blog.dshr.org/2026/09/eatingthe-seed-corn.html) I wrote about AI's destruction of entry-level jobs. But Karen Weise's [_Microsoft Offers Buyouts to 60,000 Employees as It Spends on A.I._](https://www.nytimes.com/2026/10/26/technology/microsoft-buyouts-ai-spending.html) reports on a different impact (my emphasis):
 
@@ -11514,21 +12143,15 @@ _The Economist_ argues that the channel for the effect on wages is the [quit rat
 
 If this reduction in wages is a persistent problem, it will also effect the flow of pension money into the stock market.
 
-## [Self-Making and Lens](https://thebrowser.com/free/self-making-and-lens/)
-
-via The Browser · 2026-11-03, updated 2026-11-19
-
-Writing of lasting value
-
 ## [TBR Election Day Cartoon Special!](https://www.borowitzreport.com/p/tbr-election-day-cartoonpalooza)
 
-via Borowitz Report · 2026-11-03, updated 2026-11-20
+via Borowitz Report · 2026-11-03, updated 2026-11-21
 
 As you await the results, uncork the Cabernet, pop those edibles, and enjoy these Election Day cartoons from TBR’s roster of superstar cartoonists!
 
 ## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117553221390558898)
 
-via Pleiades STOA at hcommons.socal · 2026-11-03, updated 2026-11-18
+via Pleiades STOA at hcommons.socal · 2026-11-03, updated 2026-11-20
 
 Export Updates 2026-11-03:
 
@@ -11566,7 +12189,7 @@ a2a38a38 - updated sidebar
 
 ## [A crypto and AI money guide to election night](https://www.citationneeded.news/2026-election-guide/)
 
-via Citation Needed News · 2026-11-03, updated 2026-11-20
+via Citation Needed News · 2026-11-03, updated 2026-11-21
 
 Where crypto and AI super PACs are spending, what their ads won’t talk about, and which races could embarrass them.
 
@@ -11628,7 +12251,7 @@ writers either, and we avoid both by construction.
 
 ## [Episode 331: Election Day! Time to End This Madness](https://www.michaelmoore.com/p/episode-331-election-day-time-to)
 
-via Michael Moore's blog · 2026-11-03, updated 2026-11-20
+via Michael Moore's blog · 2026-11-03, updated 2026-11-21
 
 On the crazy that happened in Michigan this weekend... and why you \*have\* to vote in this historic election
 
@@ -11706,13 +12329,13 @@ In both a 2021 [essay](https://www.belfercenter.org/publication/coming-ai-hacker
 
 ## [$1.4 billion in dark money](https://popular.info/p/14-billion-in-dark-money)
 
-via Popular Information (Judd Legum) · 2026-11-03, updated 2026-11-20
+via Popular Information (Judd Legum) · 2026-11-03, updated 2026-11-21
 
 Who was the top donor to the 2026 midterms? We do not know for sure.
 
 ## [TIME OFF](https://jacobsonh.substack.com/p/time-off)
 
-via Howard Jacobson blog · 2026-11-03, updated 2026-11-20
+via Howard Jacobson blog · 2026-11-03, updated 2026-11-21
 
 Aside from the eating and drinking at all hours, I’ve never been good at holidays.
 
@@ -11730,19 +12353,19 @@ Can we still save America’s soul?
 
 ## [James O’Keefe’s Minnesota stunt backfires spectacularly](https://www.publicnotice.co/p/james-okeefe-minnesota-charges)
 
-via Public Notice blog · 2026-11-03, updated 2026-11-20
+via Public Notice blog · 2026-11-03, updated 2026-11-21
 
 The fraud came from inside the house.
 
 ## [FINAL forecast: a blue wave, or a blue tsunami?](https://www.gelliottmorris.com/p/2026-11-03-election-day-preview)
 
-via Strength in Numbere · 2026-11-03, updated 2026-11-20
+via Strength in Numbere · 2026-11-03, updated 2026-11-21
 
 Democrats lead the final polls and the early vote. Here's what to watch on Tuesday to see who’s winning before everyone else
 
 ## [2026 ELECTION DAY LIVE BLOG](https://www.gelliottmorris.com/p/2026-11-03-election-day-live-blog)
 
-via Strength in Numbere · 2026-11-03, updated 2026-11-20
+via Strength in Numbere · 2026-11-03, updated 2026-11-21
 
 What to follow on Election Day and how to watch results come in, Strength In Numbers style
 
@@ -11754,7 +12377,7 @@ How should we think about the law in relation to the social? How do we understan
 
 ## [Today](https://dbarkhuff.substack.com/p/today)
 
-via Daniel Barkhuff, Substack · 2026-11-03, updated 2026-11-20
+via Daniel Barkhuff, Substack · 2026-11-03, updated 2026-11-21
 
 I don’t vote by mail, the only exception to that being a ballot from Iraq in mid October, 2004.
 
@@ -11991,13 +12614,13 @@ Tomorrow is Election Day.
 
 ## [The International Energy Agency needs to make its data open; maybe someone can fund it](https://hannahritchie.substack.com/p/iea-open-data)
 
-via Hannah Richie at Substack · 2026-11-03, updated 2026-11-20
+via Hannah Richie at Substack · 2026-11-03, updated 2026-11-21
 
 How a mostly publicly-funded organisation still puts most of its data behind paywalls.
 
 ## [An 11th Hour Midterm Nightmare for Trump and Republicans](https://plus.briantylercohen.com/p/an-11th-hour-midterm-nightmare-for)
 
-via Brian Taylor Cohen blog · 2026-11-03, updated 2026-11-20
+via Brian Taylor Cohen blog · 2026-11-03, updated 2026-11-21
 
 The final NYT/Siena poll suggests that a blue wave is heading for our shores.
 
@@ -12015,7 +12638,7 @@ Is your bus really late, or does it just feel like it? Inside Singapore’s bus 
 
 ## [Big Numbers, Hopes & Fears](https://steady.substack.com/p/big-numbers-hopes-and-fears)
 
-via Dan Rather's Steady · 2026-11-02, updated 2026-11-20
+via Dan Rather's Steady · 2026-11-02, updated 2026-11-21
 
 The big election’s hour of decision
 
@@ -12039,7 +12662,7 @@ It’s interesting that the Atlantis version of Dave Winer’s Frontier applicat
 
 ## [Ask Guy Anything!](https://guykawasaki.substack.com/p/ask-guy-anything)
 
-via Guy Kawasaki blog · 2026-11-02, updated 2026-11-20
+via Guy Kawasaki blog · 2026-11-02, updated 2026-11-21
 
 A recording from Guy Kawasaki's live video
 
@@ -12059,7 +12682,7 @@ La entrada [BIFF 2026: cobertura especial, episodio final](https://www.palomitad
 
 ## [Democrats Urge Haley Stevens to Endorse Republicans in Every Other State](https://www.borowitzreport.com/p/democrats-urge-haley-stevens-to-endorse)
 
-via Borowitz Report · 2026-11-02, updated 2026-11-20
+via Borowitz Report · 2026-11-02, updated 2026-11-21
 
 TBR Midterms Exclusive
 
@@ -12071,25 +12694,25 @@ To read this letter, click here:
 
 ## [Golden Gate Does Not Actually Support CoreStorage](https://mjtsai.com/blog/2026/11/02/golden-gate-does-not-actually-support-corestorage/)
 
-via Michael Tsai · 2026-11-02, updated 2026-11-19
+via Michael Tsai · 2026-11-02, updated 2026-11-21
 
 Wade Tregaskis: macOS 15 Sequoia had a hard time with CoreStorage and HFS+ volumes, since it deprecated both technologies and callously crippled some important tools for working with them, but nonetheless it mostly still worked. \[…\] Not only does Golden Gate just not support CoreStorage or HFS+ volumes, out of the box you can’t do \[…\]
 
 ## [Missing Logger Symbol on macOS 15](https://mjtsai.com/blog/2026/11/02/missing-logger-symbol-on-macos-15/)
 
-via Michael Tsai · 2026-11-02, updated 2026-11-19
+via Michael Tsai · 2026-11-02, updated 2026-11-21
 
 Jeongki Park: The SDK marks Logger.isEnabled(type:) as available since macOS 11, but macOS 15.6.1’s libswiftos doesn’t have it. \[…\] For four days \[my app\] quit at launch on macOS 15, and I didn’t know. \[…\] OSLog has its own isEnabled(type:), which goes to the C function os\_log\_type\_enabled, there since macOS 10.12. So I keep an \[…\]
 
 ## [Anthropic S-1](https://mjtsai.com/blog/2026/11/02/anthropic-s-1/)
 
-via Michael Tsai · 2026-11-02, updated 2026-11-19
+via Michael Tsai · 2026-11-02, updated 2026-11-21
 
 Carly Page (SEC, Hacker News): Anthropic has filed for an IPO that could rank among Wall Street’s biggest ever, revealing an $80.7 billion half-year loss, a startlingly complex governance structure, and warnings that its AI models could blackmail humans, resist shutdown, or create “existential risks” to society. \[…\] The Claude maker reported $16.3 billion in \[…\]
 
 ## [Ed Zitron’s AI Predictions](https://mjtsai.com/blog/2026/11/02/ed-zitrons-ai-predictions/)
 
-via Michael Tsai · 2026-11-02, updated 2026-11-19
+via Michael Tsai · 2026-11-02, updated 2026-11-21
 
 Tommy Craggs: In his day job, Ed Zitron runs a boutique public relations firm called EZPR. This might surprise anyone who has come to know Zitron through his podcast or his social media or the newsletter in which he writes two-fisted stuff like “Sam Altman is full of shit” and “Mark Zuckerberg is a putrid \[…\]
 
@@ -12174,7 +12797,7 @@ profile in comparison to Cherry, MT3, KAT and KAM.
 
 ## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117547772571675424)
 
-via Pleiades STOA at hcommons.socal · 2026-11-02, updated 2026-11-18
+via Pleiades STOA at hcommons.socal · 2026-11-02, updated 2026-11-20
 
 Export Updates 2026-11-02:
 
@@ -12212,7 +12835,7 @@ bef89849 - updated pleiades wikidata
 
 ## [Introduction to Gideon Kwawukumey](https://www.digitalrhetoriccollaborative.org/2026/11/02/introduction-to-gideon-kwawukumey/)
 
-via Digital Humanities Quarterly News · 2026-11-02, updated 2026-11-11
+via Digital Humanities Quarterly News · 2026-11-02, updated 2026-11-20
 
 My interest in multimodal communication and digital technologies grew out of my experiences navigating complex multilingual and multimodal environments in Ghana. Growing up, I shuttle between multiple languages, digital and multimodal modes to communicate with people in different social and cultural contexts. From an early age, I was surrounded by different ways of telling stories, \[...\]
 
@@ -12226,7 +12849,7 @@ Welcome new subscribers! \| Good luck tomorrow everyone!
 
 ## [The Nerd Reich: Silicon Valley Fascism and the War on Democracy with Gil Durán](https://stevenhassan.substack.com/p/the-nerd-reich-silicon-valley-fascism)
 
-via Dr. Steven Hassan, Free the Mind · 2026-11-02, updated 2026-11-20
+via Dr. Steven Hassan, Free the Mind · 2026-11-02, updated 2026-11-21
 
 Peter Thiel and the Cult of Tech Billionaires.
 
@@ -12238,7 +12861,7 @@ Writing of lasting value
 
 ## [@IIIF Mastodon feed](https://glammr.us/@IIIF/117547669266577700)
 
-via IIIF Mastodon feed · 2026-11-02, updated 2026-11-11
+via IIIF Mastodon feed · 2026-11-02, updated 2026-11-20
 
 RE: [https://glammr.us/@IIIF/117196411799302430](https://glammr.us/@IIIF/117196411799302430)
 
@@ -12307,7 +12930,7 @@ This is the danger of working with Claude Code. It works faster than I can keep 
 
 ## [Early vote data shows turnout among Latinos, young people surging](https://www.gelliottmorris.com/p/2026-11-02-new-voters-younger-more-diverse-than-2022)
 
-via Strength in Numbere · 2026-11-02, updated 2026-11-20
+via Strength in Numbere · 2026-11-02, updated 2026-11-21
 
 New voters are younger, more Latino and much less Republican than new voters in 2022
 
@@ -12323,7 +12946,7 @@ Yes. It is a new world out there.
 
 ## [The media blackout of the new rape allegation against Trump](https://popular.info/p/the-media-blackout-of-the-new-rape)
 
-via Popular Information (Judd Legum) · 2026-11-02, updated 2026-11-20
+via Popular Information (Judd Legum) · 2026-11-02, updated 2026-11-21
 
 On October 26, the Democratic members of the House Judiciary Committee released a report that contains a new, detailed allegation of rape against President Trump.
 
@@ -12727,7 +13350,7 @@ Original, useful, respectful. [Read here.](https://www.robinsloan.com/lab/ipod-h
 
 ## [Early voting data suggests blue wave, Dems could exceed 2018 turnout advantage](https://www.gelliottmorris.com/p/2026-11-01-gop-early-vote-dropoff)
 
-via Strength in Numbere · 2026-11-01, updated 2026-11-20
+via Strength in Numbere · 2026-11-01, updated 2026-11-21
 
 Final early voting records from Texas, Georgia, and now North Carolina show Democrats benefiting from an “engagement gap” that exceeds the party’s advantage in 2018
 
@@ -12741,7 +13364,7 @@ Sunday session
 
 ## [Our Wins Of The Week](https://thinkbigpicture.substack.com/p/week-progressive-wins-november-1)
 
-via Think Big Picture · 2026-11-01, updated 2026-11-20
+via Think Big Picture · 2026-11-01, updated 2026-11-21
 
 This week, Democrats continued to surge in the polls ahead of Tuesday’s midterm elections!
 
@@ -12755,7 +13378,7 @@ The lack of punctuation on this bit of pub signage is sending exactly the wrong 
 
 ## [Introduction to John Paul Dela Rosa](https://www.digitalrhetoriccollaborative.org/2026/11/01/introduction-to-john-paul-dela-rosa/)
 
-via Digital Humanities Quarterly News · 2026-11-01, updated 2026-11-11
+via Digital Humanities Quarterly News · 2026-11-01, updated 2026-11-20
 
 Hi! Mabuhay! My name is John Paul, but feel free to call me JP. I am truly excited to start this professional journey with the fellows and mentors at the Gayle Morris Sweetland Digital Rhetoric Collaborative (DRC).  For my introduction, I decided to draw inspiration from my work with short-form videos on social media platforms \[...\]
 
@@ -12799,7 +13422,7 @@ via Dave Winer's Scripting News · 2026-11-01, updated 2026-11-12
 
 ## [“People Get Ready”](https://steady.substack.com/p/people-get-ready)
 
-via Dan Rather's Steady · 2026-11-01, updated 2026-11-20
+via Dan Rather's Steady · 2026-11-01, updated 2026-11-21
 
 A Reason To Smile
 
@@ -13737,7 +14360,7 @@ More:
 
 ## [Report from the Vatican](https://garymarcus.substack.com/p/report-from-the-vatican)
 
-via Gary Marcus blog · 2026-10-31, updated 2026-11-20
+via Gary Marcus blog · 2026-10-31, updated 2026-11-21
 
 Yesterday I had the singular honor of meeting His Holiness, Pope Leo XIV
 
@@ -13769,13 +14392,13 @@ Hannah Fry has a nice 2-minute summary of why it's a bad idea, in case anybody i
 
 ## [2028 Won’t Be the 2020 Ideas Primary Again](https://newsletter.mikekonczal.com/p/2028-wont-be-the-2020-ideas-primary)
 
-via Mike Konczal · 2026-10-31, updated 2026-11-20
+via Mike Konczal · 2026-10-31, updated 2026-11-21
 
 The immediate demands, incentives, governing lessons, and economic constraints shaping Democrats’ next policy agenda.
 
 ## [On Guns](https://dbarkhuff.substack.com/p/on-guns)
 
-via Daniel Barkhuff, Substack · 2026-10-31, updated 2026-11-20
+via Daniel Barkhuff, Substack · 2026-10-31, updated 2026-11-21
 
 I only have one gun left in my home: a Beretta semi-automatic 20-gauge shotgun.
 
@@ -13858,7 +14481,7 @@ Wildan Mubarok ported the official Go programming language compiler after months
 
 ## [This Month in CoMaps: October 2026](https://www.comaps.app/news/2026-10-31/this-month-in-comaps-october-2026/)
 
-via Co-Maps Blog · 2026-10-31
+via Co-Maps Blog · 2026-10-31, updated 2026-11-07
 
 Welcome to the second edition of _This Month in CoMaps_! This edition features some new work on the dark map style, the implementation of the long-requested saved track navigation, the adoption of a new CoMaps constitution, and more. The next version of CoMaps is expected to be released in the coming week.
 
@@ -13916,624 +14539,4 @@ Lastly, a few days ago [Maciek (@mmakowski)](https://codeberg.org/mmakowski) wro
 Thank you for reading this edition of _This Month in CoMaps_! Consider [subscribing to our RSS feed](https://www.comaps.app/rss.xml) to stay updated with our latest news.
 
 If you enjoy using CoMaps, also consider [donating](https://www.comaps.app/donate/) or [getting involved with the community](https://www.comaps.app/community/).
-
-## [Mirroring your socials](https://a.wholelottanothing.org/mirroring-your-socials/)
-
-via Matt Haughey blog · 2026-10-30, updated 2026-11-19
-
-Ever since I left Twitter, back in 2022 when the world's saddest loser bought it, I've had a fraught relationship with social media. I was pissed that I put so much time and effort into something one jerk could buy outright one day and ruin instantly,
-
-## [★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max](https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max)
-
-via Daring Fireball · 2026-10-30
-
-I find it useful to organize all of the configuration options into tables on a single page, and I figured it might be useful to share this now, before I finish writing my full thoughts on the redesigned hardware and displays for the PROLED XDR models.
-
-## [Blacklight candy](https://www.aiweirdness.com/blacklight-candy/)
-
-via AI Weirdness Blog · 2026-10-30, updated 2026-11-19
-
-I got ahold of some Sour Patch Glow Up Ghosts to see how good they are at glowing under UV light.
-
-## [Bonus: Jolly Ranchers + LASERS](https://www.aiweirdness.com/bonus-jolly-ranchers-lasers/)
-
-via AI Weirdness Blog · 2026-10-30, updated 2026-11-19
-
-In which I shoot a variety of lasers at Jolly Rancher candies and see if any of them light up.
-
-## [What We Are Seeing In The Early Vote With Four Days To Go - A New Hopium Presentation With Tom Bonier](https://www.hopiumchronicles.com/p/what-we-are-seeing-in-the-early-vote)
-
-via Hopium Chronicles blog · 2026-10-30, updated 2026-11-05
-
-The bottom line - it’s encouraging!
-
-## [TBR Halloween Cartoon!](https://www.borowitzreport.com/p/tbr-halloween-cartoon)
-
-via Borowitz Report · 2026-10-30, updated 2026-11-18
-
-From New Yorker legend Tom Toro, a spooktacular zombie cartoon to get you in the Halloween spirit.
-
-## [Friday Squid Blogging: Bigfin Squid Off California Coast](https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html)
-
-via Bruce Schneier blog · 2026-10-30
-
-Neat [video](https://www.smithsonianmag.com/smart-news/watch-an-elusive-and-ethereal-bigfin-squid-float-above-the-seafloor-off-central-california-180989491/):
-
-> The sighting, announced September 2, marks the first time anyone has spotted a live bigfin squid, which belongs to the _Magnapinna_ genus, in the northeastern Pacific Ocean.
-
-As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.
-
-[Blog moderation policy.](https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html)
-
-## [@Dave Winer's Scripting News](http://scripting.com/2026/10/30.html#a202937)
-
-via Dave Winer's Scripting News · 2026-10-30
-
-I've been watching short videos about training dogs, and really opening my eyes, and it helps when working with Claude. Always try to be positive, until there is behaviour you have to correct and then yank the leash, and when they do the right thing reward them with a treat (or whatever passes as a treat).
-
-## [Hermes Is Actually Good](https://elijahpotter.dev/articles/hermes_is_actually_good)
-
-via Elijah Potter Blog · 2026-10-30, updated 2026-11-20
-
-### Hermes Is Actually Good?
-
-For a long time now, I have been skep­ti­cal of tools like Hermes and OpenClaw.
-There are some good rea­sons for that, and some dumb rea­sons.
-
-In January of this year, my news­feed was ﬂooded with dis­cus­sion of OpenClaw.
-It was the ﬁrst pub­licly avail­able model har­ness that claimed to be truly au­tonomous.
-Open­Claw could be in­stalled on a com­puter, and that com­puter would then be able to per­form ac­tions en­tirely au­tonomously, both within the con­ﬁnes of the afore­men­tioned com­puter, but also on­line.
-
-The news cy­cle ate this up and peo­ple started in­stalling OpenClaw en-mass.
-There were ob­vi­ously overblown re­ports of peo­ple ob­serv­ing their OpenClaw in­stances ex­hibit“social” be­hav­ior by send­ing mes­sages to each other on pub­lic fo­rums.
-I imag­ine most found OpenClaw to be only mar­gin­ally help­ful at that time.
-
-At the time, I chose not to try OpenClaw.
-It sim­ply looked like slop.
-It was not pol­ished, and every­one I knew who tried it ran into con­stant prob­lems.
-Open­Claw sim­ply was not re­li­able soft­ware.
-
-Fast for­ward a few months, and we hear about ChatGPT dots.
-They are a very sim­i­lar idea, ex­cept they run en­tirely on OpenAI’s hard­ware.
-If you have a ChatGPT Pro sub­scrip­tion, all you need to do is pop open `chatgpt.com` and click on“Your dot” in the top left.
-That’s ex­actly what I did, and boy was I im­pressed!
-
-It was able to run QA test­ing over a much larger sur­face area than I ever could, and it was able to draft ﬁxes proac­tively.
-By the way, many thanks to [Lance Willet](https://lance.blog/) for teach­ing me some of the se­crets to great soft­ware qual­ity (and how to use an agent to achieve it).
-
-But alas, the dot was not enough.
-While it could do _some_ use­ful work in the back­ground, it could not do every­thing I knew it should be able to do.
-The sys­tem was locked down, and OpenAI does not give you any room to tin­ker,
-
-For ex­am­ple, I wanted to have my dot try out the Harper Chrome Extension on some sites to see if it works prop­erly.
-When I asked it to do so, it fell ﬂat on its face.
-The agent was not al­lowed to in­stall Chrome Extensions on its browser.
-
-That is when I de­cided to try out [Hermes](https://hermes-agent.nousresearch.com/).
-
-Similar to OpenClaw, Hermes is a piece of soft­ware that al­lows peo­ple to de­ploy it to their own hard­ware.
-_Unlike_ OpenClaw, it seems to be built by se­ri­ous en­gi­neers who care deeply about the qual­ity of their work.
-And, un­like dots, Hermes gives you free rein to cus­tomize
-
-So, I gave it a try.
-And it was a de­light!
-
-Hermes was re­li­able, its doc­u­men­ta­tion con­sis­tently de­scrip­tive, and I found my­self get­ting real work done with its help.
-It’s ob­vi­ously de­signed for en­gi­neers — not any­one non­tech­ni­cal — but that’s ﬁne!
-I en­joy us­ing Hermes and I think for most en­gi­neers its worth a shot.
-
-### Miscellaneous Tips
-
-I do not have much more to add to my en­dorse­ment of Hermes.
-So in­stead, I of­fer to you a mis­cel­la­neous set of tips for us­ing it.
-Note that I am in no way an ex­pert on this sub­ject, and I ex­pect you will ﬁnd my ad­vice quite shal­low.
-Here it is, nonethe­less.
-
-### Do Not Personify It.
-
-One of the big­ger prob­lems with fully au­tonomous agents like Hermes is that peo­ple tend to per­son­ify them.
-The prob­lem is: They are not peo­ple.
-We can de­bate all day long whether they are truly in­tel­li­gent, but I think we can agree they are not peo­ple.
-They can­not rem­i­nisce about their child­hood and they can­not pick up your tab at the bar.
-Agents are a tool to be used to ex­tend your will.
-
-As such, I in­clude this in the sys­tem prompt of every LLM I in­ter­act with.
-
-```hljs plaintext
-Use ASD-STE100 Simplified Technical English for all responses.
-Do not add complexity where it is unnecessary to complete the task.
-
-Do not use personal pronouns like "I", "you", or "my". Remain objective.
-
-```
-
-### Bias Yourself Towards Clear and Extensive Upfront Instructions, Even If They Are Discursive
-
-Hermes is most help­ful when it is given space to work for a long time un­in­ter­rupted.
-If you ﬁnd your­self need­ing to steer it of­ten (and thus dis­tract­ing you from more pro­duc­tive work), you are not giv­ing it enough in­for­ma­tion up­front.
-It is bet­ter to give an un­clear, ram­bly in­struc­tion than to pro­vide a to-the-point in­struc­tion with­out enough in­for­ma­tion.
-
-### Do Not Use It for Everything
-
-Hermes may seem like a great tool to be used for every­thing, but it is most def­i­nitely not.
-
-Speciﬁc tasks are bet­ter suited for cer­tain ap­pli­ca­tions.
-For ex­am­ple: Hermes can code, but I do not us­ing it for most of my pro­gram­ming.
-For that, I con­tinue to use my cus­tom Pi setup.
-It of­fers faster it­er­a­tion times and it is more de­ter­min­is­tic.
-It ﬁts my work­ﬂow bet­ter.
-
-### Any More Tips
-
-If you have any more tips for us­ing Hermes (or any sim­i­lar agent), I’d love to hear them!
-Like most peo­ple in this fast-mov­ing land­scape, [I con­sider my­self a novice](https://automattic.com/creed/never-stop-learning/).
-Feel free to leave a com­ment or [DM me on X](https://x.com/theleastsirius).
-
-## [Free and Fair Elections](https://heathercoxrichardson.substack.com/p/free-and-fair-elections)
-
-via Heather Cox Richardson blog · 2026-10-30, updated 2026-11-06
-
-To read this letter, click here:
-
-## [Actuaciones favoritas del cine de terror – edición Palomita de maíz](https://www.palomitademaiz.net/actuaciones-favoritas-del-cine-de-terror-edicion-palomita-de-maiz/?utm_source=rss&utm_medium=rss&utm_campaign=actuaciones-favoritas-del-cine-de-terror-edicion-palomita-de-maiz)
-
-via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-10-30, updated 2026-11-10
-
-El cine de terror tiene una capacidad extraordinaria para llevarnos al límite: nos puede hacer apartar la mirada, contener la respiración o permanecer inmóviles frente a una pantalla, atrapados entre el deseo de saber qué ocurrirá y el impulso de no querer verlo. El miedo suele llevarse el crédito; las actuaciones que lo hacen posible, \[…\]
-
-La entrada [Actuaciones favoritas del cine de terror – edición Palomita de maíz](https://www.palomitademaiz.net/actuaciones-favoritas-del-cine-de-terror-edicion-palomita-de-maiz/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).
-
-## [@Dave Winer's Scripting News](http://scripting.com/2026/10/30.html#a195437)
-
-via Dave Winer's Scripting News · 2026-10-30
-
-Highly recommend the [interview](https://podcasts.apple.com/us/podcast/heather-cox-richardson-on-why-the-republican-party-no/id1498802610?i=1000798669132) between Scott Galloway and Heather Cox Richardson. Quite a combination of minds. Don't skip to the end but don't miss it, they explain how blogging allowed them to route around the gatekeepers. That's the point. But imho you have to leave the door open to those who are inspired by you, and Substack isn't the best place for them. Please keep your ears open to new less tech industry ways of getting your ideas out. The bigco's haven't just screwed up the political system, they've also screwed up the web. The web needs all our help as does democracy, and the two imho are closely related.
-
-## [White House ups election interference. Global election results. Trump v. Obama on the trail.](https://thinkbigpicture.substack.com/p/october-30-weekly-news-roundup)
-
-via Think Big Picture · 2026-10-30, updated 2026-11-20
-
-Trump Administration Escalates Election Interference Schemes
-
-## [The Doomsday Cult Playbook](https://stevenhassan.substack.com/p/the-doomsday-cult-playbook)
-
-via Dr. Steven Hassan, Free the Mind · 2026-10-30, updated 2026-11-20
-
-From Armageddon cults to AI prophecies, how can we reshape our future?
-
-## [Xcode 27.2](https://mjtsai.com/blog/2026/10/30/xcode-27-2/)
-
-via Michael Tsai · 2026-10-30, updated 2026-11-19
-
-Apple (xip, downloads, Xcode Releases): Xcode 27.2 includes Swift 6.4 and SDKs for iOS 27.2, iPadOS 27.2, tvOS 27.2, watchOS 27.2, macOS 27.2, and visionOS 27.2. Xcode 27.2 supports on-device debugging in iOS 17 and later, tvOS 17 and later, watchOS 10 and later, and visionOS. Xcode 27.2 requires a Mac running macOS Tahoe 26.6 \[…\]
-
-## [South Korea Fines Apple Over App Store](https://mjtsai.com/blog/2026/10/30/south-korea-fines-apple-over-app-store/)
-
-via Michael Tsai · 2026-10-30, updated 2026-11-19
-
-Marcus Mendes: South Korea’s Korea Media and Communications Commission (KMCC) announced today a series of fines and corrective orders against Apple and Google over violations of the country’s Telecommunications Business Act. Specifically for Apple, the KMCC imposed a fine of 20.81 billion won (approximately $15.5 million) and ordered the company to revise its App Store \[…\]
-
-## [Taiwan: 26% App Store Fee](https://mjtsai.com/blog/2026/10/30/taiwan-26-app-store-fee/)
-
-via Michael Tsai · 2026-10-30, updated 2026-11-19
-
-Apple: Apple is making changes to the Taiwan storefront of the App Store, following discussions with the Taiwan Fair Trade Commission. As of October 31, 2026, the commission rate for standard Apple In-App Purchase and paid app transactions will be 26% on the Taiwan storefront of the App Store on iOS and iPadOS. Juli Clover \[…\]
-
-## [Australia: App Marketplaces, External Payments, No Fees/Audit](https://mjtsai.com/blog/2026/10/30/australia-app-marketplaces-external-payments-no-fees-audit/)
-
-via Michael Tsai · 2026-10-30, updated 2026-11-19
-
-Hartley Charlton (Hacker News): Australia’s Federal Court today ordered Apple to allow competing app stores, direct app downloads, and alternative payment services for Australian users from March 1, 2027. \[…\] Apple must let users find, download, install, and update apps through competing marketplaces and websites without charging for access or obstructing their use. Developers must \[…\]
-
-## [Russia Wants User Data From Apple](https://mjtsai.com/blog/2026/10/30/russia-wants-user-data-from-apple/)
-
-via Michael Tsai · 2026-10-30, updated 2026-11-19
-
-Hartley Charlton (Hacker News): Apple faces Russian data retention and disclosure requirements after being added to the country's state surveillance registry, Bloomberg reports. \[…\] Those obligations cover correspondence and messages containing audio or video. Companies must also keep information identifying users and recording the transmission of their communications within Russia for three years. I guess \[…\]
-
-## [iPhone Duo Crackgate](https://mjtsai.com/blog/2026/10/30/iphone-duo-crackgate/)
-
-via Michael Tsai · 2026-10-30, updated 2026-11-19
-
-Juli Clover (forum): Some iPhone Duos are already experiencing hinge issues that cause display cracks, based on photos shared on Reddit and the MacRumors forums. Almost all of the display faults are right along the hinge, and most result in a line of bright pixels across one side of the screen. Juli Clover (iFixit, Hacker \[…\]
-
-## [Reintroduction to Funmilola Fadairo](https://www.digitalrhetoriccollaborative.org/2026/10/30/reintroduction-to-funmilola-fadairo/)
-
-via Digital Humanities Quarterly News · 2026-10-30, updated 2026-11-11
-
-My initial experience with computers began when my Dad bought our first family desktop, which we used to play Zuma games. When the adults complained that my siblings and I were getting addicted to games, we either switched to Marvis Bacon, as it was popular for teaching kids how to type quickly, or we found \[...\]
-
-[Source](https://www.digitalrhetoriccollaborative.org/2026/10/30/reintroduction-to-funmilola-fadairo/)
-
-## [The blue wave rolls in. But how big is it?](https://www.publicnotice.co/p/the-blue-wave-rolls-in-but-how-big)
-
-via Public Notice blog · 2026-10-30, updated 2026-11-18
-
-Paul and I set the table for next Tuesday.
-
-## [@DAIR blog](https://bsky.app/profile/dairinstitute.bsky.social/post/3mz4dxqic3k2u)
-
-via DAIR blog · 2026-10-30
-
-DAIR's @adiod.bsky.social reminds us that true African AI sovereignty isn't about African governments negotiating with tech companies—it's about whether data workers "have the power to determine the terms of their participation."
-
-https://guzangs.com/african-ai-sovereignty-creative-work-terms/
-
-## [Reducing Reliance on Tech Oligarchs](https://smist08.wordpress.com/2026/10/30/reducing-reliance-on-tech-oligarchs/)
-
-via Stephen Smith's blog · 2026-10-30, updated 2026-11-13
-
-Introduction Due to Trump and his threats against Canada, many people are boycotting US products and companies. Next week are the US midterm elections with some hope of things changing, but the Oligarch’s propaganda networks are going full bore trying to hold on to all the power. I think regardless of any political changes next \[…\]
-
-## [One by one the lights go out](https://news.lettersofnote.com/p/one-by-one-the-lights-go-out)
-
-via Letters of Note · 2026-10-30, updated 2026-11-20
-
-A deeply moving letter of note
-
-## [Why is serial fiction having a moment?](https://lithub.com/why-is-serial-fiction-having-a-moment/)
-
-via LitHub · 2026-10-30
-
-In 1836, Charles Dickens hooked the good people of England on a story about a traveling men’s group. Published over two years in 19 installments, The Pickwick Papers launched a craze for serialized fiction. The trend found traction across the pond. Later
-
-## [It’s always North Korea](https://www.citationneeded.news/its-always-north-korea/)
-
-via Citation Needed News · 2026-10-30, updated 2026-11-20
-
-Answering your questions about who was behind the Binance hack, how they launder the money, and where it goes
-
-## [Weekly Links, 10/30/2026](https://kk.org/thetechnium/weekly-links-10-30-2026/)
-
-via Kevin Kelly, The Technium · 2026-10-30, updated 2026-11-16
-
-We now have a genuine world model in Google’s Genie4. Real time generation, volumetric, 3D navigation, language prompts. Awesome! Genie 4: A new generation of world simulation
-
-## [The Sediment Of Culture Shapes Political Order](https://www.noemamag.com/the-sediment-of-culture-shapes-political-order)
-
-via W. Kamau Bell blog · 2026-10-30, updated 2026-11-19
-
-The post [The Sediment Of Culture Shapes Political Order](https://www.noemamag.com/the-sediment-of-culture-shapes-political-order) appeared first on [NOEMA](https://www.noemamag.com).
-
-## [Low-engagement voters are swinging hard toward Democrats](https://www.gelliottmorris.com/p/2026-10-30-low-propensity-voters)
-
-via Strength in Numbere · 2026-10-30, updated 2026-11-20
-
-Low-engagement voters handed Trump the 2024 election. Now they support Democrats for Congress
-
-## [Hopium Ad And Video Roundup - Brown (Ohio), Turek (Iowa), Pappas (New Hampshire), Cognetti (PA-8), Brooks (PA-7), Garcia (TX-35), Lacore (SC-1), Michigan Senate (SMP)](https://www.hopiumchronicles.com/p/hopium-ad-and-video-roundup-brown-125)
-
-via Hopium Chronicles blog · 2026-10-30, updated 2026-11-05
-
-315pm ET - Simon and Tom Bonier get together to talk the early vote, latest polling 4 days out - join us!
-
-## [@Dave Winer's Scripting News](http://scripting.com/2026/10/30.html#a160234)
-
-via Dave Winer's Scripting News · 2026-10-30
-
-New [header graphic](https://imgs.scripting.com/2026/10/30/smallPiecespng.png) for scripting.com. Did this one with ChatGPT, asked it to make a [Burma-Shave](https://en.wikipedia.org/wiki/Burma-Shave) sign sequence and gave it a few examples, and now it knows how to do another one of these for me in the future. I've been using it that way to come up with desktop icons for my apps.
-
-## [Wildwood: el bosque salvaje – la animación como vehículo para explorar las emociones](https://www.palomitademaiz.net/resenas-wildwood-el-bosque-salvaje/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-wildwood-el-bosque-salvaje)
-
-via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-10-30, updated 2026-11-10
-
-Dirección: Travis Knight. Guion: Chris Butler, Colin Meloy, Carson Ellis. Elenco vocal original: Peyton Elizabeth Lee, Jacob Tremblay, Carey Mulligan, Mahershala Ali, Angela Bassett, Jake Johnson. Elenco vocal en español: Macarena García, Natalia Téllez, Javier Ibarreche, Emilio Treviño. Países: Estados Unidos, Canadá, Reino Unido. Más de la película: https://www.imdb.com/title/tt2056785/ Hablar de LAIKA Studios es hablar \[…\]
-
-La entrada [Wildwood: el bosque salvaje – la animación como vehículo para explorar las emociones](https://www.palomitademaiz.net/resenas-wildwood-el-bosque-salvaje/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).
-
-## [Road Trip and Dementia](https://thebrowser.com/free/road-trip-and-dementia/)
-
-via The Browser · 2026-10-30, updated 2026-11-16
-
-Writing of lasting value
-
-## [The Rising Cost of Trump’s Economy, With a Quick Dive into ECI Healthcare](https://newsletter.mikekonczal.com/p/the-rising-cost-of-trumps-economy)
-
-via Mike Konczal · 2026-10-30, updated 2026-11-20
-
-Employers are paying 6.4 percent more for health insurance than a year ago, but only 3.1 percent more in wages, according to the new Employment Cost Index.
-
-## [Notable links: October 30, 2026](https://werd.io/notable-links-october-30-2026/)
-
-via Werd IO · 2026-10-30, updated 2026-11-20
-
-AI is building detailed profiles about us. We're embracing it anyway.
-
-## [Andreas Malm has been barred from entering the UK over his solidarity with Palestine.](https://lithub.com/andreas-malm-has-been-barred-from-entering-the-uk-over-his-solidarity-with-palestine/)
-
-via LitHub · 2026-10-30
-
-Author Andreas Malm has been denied entry to the United Kingdom on the grounds that his “presence in the UK is not considered to be conducive to the public good,” according to The Guardian and Al Jazeera. Malm was traveling
-
-## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117530589428464301)
-
-via Miguel de Icaza Mastondon feed · 2026-10-30, updated 2026-11-12
-
-Thoroughly researched Israel hate campaign:
-
-[https://thegreatreplacement.dysinfluence.com/](https://thegreatreplacement.dysinfluence.com/)
-
-## [Bloatware in Aftermarket Auto Parts](https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html)
-
-via Bruce Schneier blog · 2026-10-30
-
-This [story](https://www.thedrive.com/news/cheap-aftermarket-head-units-are-loaded-with-spyware-by-the-way) is interesting:
-
-> One Civic owner purchased a cheap aftermarket head unit off Amazon, and decided to have Claude work its magic on it, like it would a smart TV. What was reportedly discovered isn’t surprising, but is worth knowing about.
->
-> Among the pre-installed bloatware—­or spyware, if you’re being less charitable­—was a voice assistant equipped with WebView, an Android system component that lets apps display content off the web. This apparently always used about a third of processing power, even while idle, which isn’t great. There were also Baidu location services, a call recorder (!), a DAB radio client that is pretty much useless in the U.S., and Adobe Acrobat, presumably so your passenger can entertain themselves with PDFs on the go...
-
-## [@Dave Winer's Scripting News](http://scripting.com/2026/10/30.html#a151404)
-
-via Dave Winer's Scripting News · 2026-10-30
-
-[Braintrust query](https://github.com/scripting/Scripting-News/issues/365): Does Google define the web?
-
-## [Four Days Out A Desperate And Rattled Trump Is Cancelling Rallies, Throwing DOJ At The Elections, And Getting His Ass Kicked All Across The Country](https://www.hopiumchronicles.com/p/four-days-out-a-desperate-and-weakened)
-
-via Hopium Chronicles blog · 2026-10-30, updated 2026-11-05
-
-315pm Today - Tom Bonier is dropping by for a deep dive into what we are seeing in the early vote - join us!
-
-## [@Dave Winer's Scripting News](http://scripting.com/2026/10/30.html#a141423)
-
-via Dave Winer's Scripting News · 2026-10-30
-
-![](https://imgs.scripting.com/2026/10/30/fuckemBucky.png)Yesterday I [called](http://scripting.com/2026/10/29/143258.html) the Knicks championship the "greatest sports win in a long time," but I have to say the fans of the [Milwaukee Brewers](https://www.theguardian.com/sport/2026/oct/29/milwaukee-brewers-world-series-title-mlb-salary-cap) would have cause to object. They had an incredible [season](https://en.wikipedia.org/wiki/2026_Milwaukee_Brewers_season) in MLB, were written off by the pundits much the same way they wrote off last season's Knicks. They even won the World Series in the same [Knicks in 5](https://daytona.scripting.com/search?q=%22knicks%20in%205%22) way the Knicks did it, with a sweep of the much-hated Dodgers, with their better pedigree along the way. So to my [Wiscowtown](https://en.wikipedia.org/wiki/Wisconsin) friends, who are holding their parade today, congrats on your first championship in 53 years like the Knicks, or more accurately their first championship _ever._
-
-## [@Dave Winer's Scripting News](http://scripting.com/2026/10/30.html#a140614)
-
-via Dave Winer's Scripting News · 2026-10-30
-
-Yesteday I sent a snapshot of the scripting.com bucket from AWS to Claude and asked it to analyze it, what's in it, what's taking up all the space, and got back an excellent report. Overnight I thought of another question, summarized in this prompt. "this is fascinating. i wonder if we could reconstruct my blog from before may 2017 from the source materials in this folder? i am converting to markdown in the bonbon project and i think we'll find a lot of the scripting.com content here, and i believe much of it will be convertible. also, over the years i tried blogging experiments on different domains, but i imagine there are links here to those sites. maybe if we did a research project here we could make one site out of this writing, and give it a markdown treatment so bonbon can do the presentation?" Now one thing to know is that Claude never says it can't do something, but the plan I got was inspiring. Now I have more to think about and will connect the two projects so they can compare notes, although the scripting.com project already checked out bonbon, it's amazing how quickly it can absorb a whole codebase and all the planning that went into it.
-
-## [Rejoice, leap seconds are dead!](https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/)
-
-via Jeff Geerling blog · 2026-10-30, updated 2026-11-17
-
-There will never be a leap second again. At least not for UTC.
-
-![CGPM Resolution 5](https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/cgpm-resolution-5.jpg)
-
-[At the CGPM](https://www.bipm.org/en/cgpm-2026/resolution-5), they decided the last leap second we'll ever see for UTC, or Coordinated Universal Time, happened back at the [end of 2016](https://kb.meinbergglobal.com/kb/time_sync/leap_seconds/leap_second_announcement_2016).
-
-Of _course_ they made that decision while I was out on vacation, so I'm just getting this video up now:
-
-But what's the CGPM, why does this matter, and why am I excited about it?
-
-## [We’ve blown past mere “transphobia”](https://www.publicnotice.co/p/trump-republican-transphobia)
-
-via Public Notice blog · 2026-10-30, updated 2026-11-17
-
-Republicans are peddling genocidal hate.
-
-## [PopInfo Weekly: Mailers, Marshall, and Mongolia](https://popular.info/p/popinfo-weekly-mailers-marshall-and)
-
-via Popular Information (Judd Legum) · 2026-10-30, updated 2026-11-20
-
-Voters in Wisconsin received mailers calling Democratic gubernatorial nominee David Crowley “A COP’S BEST FRIEND” and saying that he “Backs the Blue.
-
-## [OpenAI’s Latest Discoveries Spark a Backlash + Help! My Kid Hates AI](https://www.npr.org/2026/10/30/nx-s1-6022556/openais-latest-discoveries-spark-a-backlash-help-my-kid-hates-ai)
-
-via Machine Gods, NPR · 2026-10-30, updated 2026-11-20
-
-OpenAI has angered scientists (again) after its AI cracked three of the hardest problems in math, computer science, and physics. But researchers are pushing back on how the company is sharing the results, from proofs that are hard to verify to OpenAI handpicking who reviews them first. We break down what OpenAI is claiming, how its release process is changing, and what’s left for human scientists if AI keeps solving problems that stumped experts for decades.
-
-Then, in the first installment of Humans in the Loop, our new listener mailbag, we answer your questions: What do you tell a teenager who thinks AI is evil when your job requires you to use it? How do you shut down a rogue AI agent swarm? And is it ever OK to secretly change your partner’s ChatGPT settings?
-
-For a transcript of this episode, select the episode on [npr.org/machinegods](https://www.npr.org/podcasts/g-s1-143588/machine-gods).
-
-You can watch this full episode on [YouTube](https://www.youtube.com/@machinegodspod), [Spotify](https://open.spotify.com/show/5kxu4uluMq6jUuoNPGyZMu) or [Apple](https://podcasts.apple.com/us/podcast/machine-gods/id6812430636). And if you’ve got a question you want us to answer, you can drop us a comment on any of those platforms or email us at hey@machinegods.fm
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)
-
-## [Weekly Roundup: Oct. 30](https://lpeproject.org/blog/weekly-roundup-oct-30/)
-
-via Law and Political Economy Blog · 2026-10-30, updated 2026-11-17
-
-Ganesh Sitaraman on public utility regulation and AI, Zohra Ahmed and Brishen Rogers on the latest developments of the ALPE, and a roundtable on the right to stay and private law. Plus, Sharon Block, Ben Sachs, and Laura Weinrib on the legality of the Harvard Grad Students Union strike, Elettra Bietti on two legal avenues for reducing tech's addictive design, Susannah Glickman and Aaron Benanav with a special issue on AI and Labor, Trevor Jackson on Arjun Jayadev and J.W. Mason _Against Money_, The Movement Law Lab on getting involved to protect the midterms, and Alyssa Battistoni on the latest episode of the Dig.
-
-## [Trumpflation and Travel](https://paulkrugman.substack.com/p/trumpflation-and-travel)
-
-via Paul Krugman · 2026-10-30, updated 2026-11-14
-
-One chart to end your week
-
-## [Lit Hub Daily: October 30, 2026](https://lithub.com/lit-hub-daily-october-30-2026/)
-
-via LitHub · 2026-10-30
-
-How AI is dragging us towards a future that rips the body out of body horror. \| Lit Hub Technology October’s best book covers aren’t spooky, but it’s scary how much we love them. \| Lit Hub Design Liz DiGregorio
-
-## [@Pleiades STOA at hcommons.socal](https://hcommons.social/@pleiades_gazetteer/117529111301133195)
-
-via Pleiades STOA at hcommons.socal · 2026-10-30, updated 2026-11-18
-
-Export Updates 2026-10-30:
-
-Pleiades gazetteer of ancient places
-
-27 updated places. 11 updated linked data sidebars.
-
-1\. Downloads: [https://pleiades.stoa.org/downloads](https://pleiades.stoa.org/downloads)
-
-2\. pleiades.datasets: [https://github.com/isawnyu/pleiades.datasets](https://github.com/isawnyu/pleiades.datasets):
-
-"main" branch:
-
-88d4267d - updated json
-
-no change: rdf/ttl
-
-717869a7 - updated gis package
-
-c7ae482c - updated data quality
-
-69bb5011 - updated bibliography
-
-6fa5cb62 - updated indexes
-
-c0534ffa - updated sidebar
-
-3\. pleiades-geojson: [https://github.com/ryanfb/pleiades-geojson](https://github.com/ryanfb/pleiades-geojson):
-
-d71a5c4f - updated geojson and names index
-
-4\. pleiades\_wikidata: [https://github.com/isawnyu/pleiades\_wikidata/](https://github.com/isawnyu/pleiades_wikidata/):
-
-d83634d2 - updated pleiades wikidata
-
-## [OuijaCNC](https://www.raspberrypi.com/news/ouijacnc/)
-
-via Raspberry Pi News (.com) · 2026-10-30, updated 2026-11-20
-
-Spooky season is officially upon us. Check out this self-playing Ouija board built by one of our colleagues.
-
-The post [OuijaCNC](https://www.raspberrypi.com/news/ouijacnc/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).
-
-## [If Salvador Dalí Died in 1989, Then Why Can He Still Take a Selfie With You?](https://lithub.com/if-salvador-dali-died-in-1989-then-why-can-he-still-take-a-selfie-with-you/)
-
-via LitHub · 2026-10-30
-
-When you walk into the Salvador Dalí Museum in St. Petersburg, Florida, Dalí himself will greet you. He appears on a life-sized screen, mustache waxed, and talks about his life and his work. He tells anecdotes. He answers questions in
-
-## [An Interrogation of Reality: On the Legacy of Blade Runner](https://lithub.com/an-interrogation-of-reality-on-the-legacy-of-blade-runner/)
-
-via LitHub · 2026-10-30
-
-There are films that you seem to live inside. Ninety minutes and change of what transpires on the screen singes your mind’s eye and once it happens, it stays. When the lights switch on and the credits roll, you are
-
-## [No One Really Drives Away from Anything in Horror Films](https://lithub.com/no-one-really-drives-away-from-anything-in-horror-films/)
-
-via LitHub · 2026-10-30
-
-I. Taking to the Open Road Afoot and light-hearted I take to the open road, Healthy, free, the world before me, The long brown path before me leading wherever I choose. These words of Walt Whitman’s—from his poem “Song of
-
-## [Artificial Intelligence is a Horror Story](https://lithub.com/artificial-intelligence-is-a-horror-story/)
-
-via LitHub · 2026-10-30
-
-Imagine your body—flesh and blood, muscle and bone—cast aside as mere refuse, and your brain “immersed in a liquid of the nature of cerebro-spinal fluid” inside a cylinder. Thus goes the dark prophecy of Irish physicist John Desmond Bernal nearly
-
-## [The 10 Best Book Covers of October](https://lithub.com/the-10-best-book-covers-of-october-5/)
-
-via LitHub · 2026-10-30
-
-Another month of books, another month of book covers. What my favorites from October lack in spookiness, they make up for in clever color stories, delicious textures, and a little bit of cheek. Here are my picks for the best
-
-## [Something Wicked This Way Comes: 10 Poems to Read This Halloween](https://lithub.com/something-wicked-this-way-comes-10-poems-to-read-this-halloween/)
-
-via LitHub · 2026-10-30
-
-Most poetry-lovers know classic horror poems by writers like Edgar Allan Poe, Emily Dickinson and Percy Bysshe Shelley. But there are also many eerie poems written by poets who aren’t known specifically for their gothic or horror writing. Some of
-
-## [The Literary Film & TV You Need to Stream in November](https://lithub.com/the-literary-film-tv-you-need-to-stream-in-november-4/)
-
-via LitHub · 2026-10-30
-
-Every month, all the major streaming services add a host of newly acquired (or just plain new) shows, movies, and documentaries into their ever-rotating libraries. So what’s a dedicated reader to watch? Well, whatever you want, of course, but the
-
-## [How Is Writing Like Nursing?](https://lithub.com/how-is-writing-like-nursing/)
-
-via LitHub · 2026-10-30
-
-This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. My writing career began unexpectedly, with a terrible and surprising patient death. I had been a nurse for only a few months, and nothing in school had prepared me for
-
-## [From Shakespeare to Tigers, 17 books out in paperback this November.](https://lithub.com/from-shakespeare-to-tigers-17-books-out-in-paperback-this-november/)
-
-via LitHub · 2026-10-30
-
-It’s November, and this year that means a madcap month: America’s existential midterms; a potentially even more charged Thanksgiving than usual depending on what happens in said midterms; international elections; international conflicts that seem to have no end; weather transitions
-
-## [Friday 30 October, 2026](https://memex.naughtons.org/friday-30-october-2026/42899/)
-
-via John Naughton's online diary · 2026-10-30, updated 2026-11-19
-
-The last rose… … of Autumn. The only one on a large bush the other day. Quote of the Day ”I believe there is such a thing as real, historical truth. I am no post-modernist. I live in Cambridge, Massachusetts. … [Continue reading →](https://memex.naughtons.org/friday-30-october-2026/42899/)
-
-## [How California’s Billionaires Are Proving that Billionaire Wealth Endangers Democracy](https://robertreich.substack.com/p/how-californias-billionaires-are)
-
-via Robert Reich's blog · 2026-10-30, updated 2026-11-08
-
-Why Californians should vote for Proposition 40 and against 41 and 42. And why I’m disappointed with Gavin Newsom.
-
-## [October 29, 2026](https://heathercoxrichardson.substack.com/p/october-29-2026)
-
-via Heather Cox Richardson blog · 2026-10-30, updated 2026-11-06
-
-Flávio Bolsonaro’s escape from Brazil to Miami turns out to have been arranged, in part, by White House officials including Trump advisor Jason Miller, who arranged for a charter jet to take the Bolsonaros from Argentina to Florida.
-
-## [Chasing the last of the Fall color](https://a.wholelottanothing.org/chasing-the-last-of-the-fall-color/)
-
-via Matt Haughey blog · 2026-10-30, updated 2026-11-19
-
-I drove around Portland today looking for the last of the Fall color and wasn't disappointed. Here are a few shots from the Portland Japanese Garden.
-
-![](https://storage.ghost.io/c/91/15/9115e440-4672-4090-9706-8335a7b154ee/content/images/2026/10/IMG_9743.JPG)
-
-![](https://storage.ghost.io/c/91/15/9115e440-4672-4090-9706-8335a7b154ee/content/images/2026/10/IMG_9747.JPG)
-
-![](https://storage.ghost.io/c/91/15/9115e440-4672-4090-9706-8335a7b154ee/content/images/2026/10/IMG_9751.JPG)
-
-![](https://storage.ghost.io/c/91/15/9115e440-4672-4090-9706-8335a7b154ee/content/images/2026/10/IMG_9788.JPG)
-
-![](https://storage.ghost.io/c/91/15/9115e440-4672-4090-9706-8335a7b154ee/content/images/2026/10/IMG_9784.JPG)
-
-![](https://storage.ghost.io/c/91/15/9115e440-4672-4090-9706-8335a7b154ee/content/images/2026/10/IMG_9788-1.JPG)
-
-![](https://storage.ghost.io/c/91/15/9115e440-4672-4090-9706-8335a7b154ee/content/images/2026/10/IMG_9791.JPG)
-
-![](https://storage.ghost.io/c/91/15/9115e440-4672-4090-9706-8335a7b154ee/content/images/2026/10/IMG_9794.JPG)
-
-Then it was a quick jaunt after lunch over to Multnomah Falls
-
-![](https://storage.ghost.io/c/91/15/9115e440-4672-4090-9706-8335a7b154ee/content/images/2026/10/IMG_9816.JPG)
-
-![](https://storage.ghost.io/c/91/15/9115e440-4672-4090-9706-8335a7b154ee/content/images/2026/10/IMG_9821.JPG)
-
-![](https://storage.ghost.io/c/91/15/9115e440-4672-4090-9706-8335a7b154ee/content/images/2026/10/IMG_9859.JPG)
-
-![](https://storage.ghost.io/c/91/15/9115e440-4672-4090-9706-8335a7b154ee/content/images/2026/10/IMG_9806-1.JPG)
-
-![](https://storage.ghost.io/c/91/15/9115e440-4672-4090-9706-8335a7b154ee/content/images/2026/10/IMG_9876-1.JPG)
-
-![](https://storage.ghost.io/c/91/15/9115e440-4672-4090-9706-8335a7b154ee/content/images/2026/10/IMG_9882-1.JPG)
-
-The old Columbia River Gorge road between Multnomah Falls and
-
-## [Proton is AI-pilled and calls caution "loser thinking".](https://werd.io/proton-is-ai-pilled-and-calls-caution-loser-thinking/)
-
-via Werd IO · 2026-10-30, updated 2026-11-19
-
-Proton should be a careful steward of its users' privacy. Based on this account, it isn't. Journalists should think twice before using it.
-
-## [Politics Chat, October 29, 2026](https://heathercoxrichardson.substack.com/p/politics-chat-october-29-2026-567)
-
-via Heather Cox Richardson blog · 2026-10-30, updated 2026-11-05
-
-Watch today’s live recording here.
-
-## [Politics Chat, October 29, 2026](https://heathercoxrichardson.substack.com/p/politics-chat-october-29-2026)
-
-via Heather Cox Richardson blog · 2026-10-30, updated 2026-11-05
-
-Listen on Apple Podcasts
-
-## [@Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza/117526962352078487)
-
-via Miguel de Icaza Mastondon feed · 2026-10-30, updated 2026-11-11
-
-## [Foundational Texts: There Are Four Lights](https://dansinker.com/posts/2026-10-30-tng/)
-
-via Dan Sinker · 2026-10-30
-
-The sixth installment in my Foundational Texts series looks at Star Trek: The Next Generation, puzzles, and not lying to kids.
-
-## [Every email is three emails in a trench coat](https://buttondown.com/blog/plain-text-email)
-
-via Buttondown Blog · 2026-10-30
-
-You don’t read half of the emails you send. But you should to see what’s hiding inside.
 

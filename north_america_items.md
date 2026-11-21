@@ -1,14 +1,222 @@
 ---
 title: "North America"
 description: "News from across North America."
-pubDate: Fri, 20 Nov 2026 14:00:00 GMT
+pubDate: Sat, 21 Nov 2026 10:39:05 GMT
 aggregateOf: "north_america.md"
-dateModified: Fri, 20 Nov 2026 22:33:17 GMT
-itemCount: 1460
-generator: antenna/0.1.0
+dateModified: Sat, 21 Nov 2026 14:32:19 GMT
+itemCount: 1385
+generator: antenna/0.1.1
 ---
 
 # North America
+
+## [Rounds, Thune split on bill that speeds up project permitting process](https://www.sdstandardnow.com/home/rounds-thune-split-on-permitting-reform-bill-that-trump-supports)
+
+via South Dakota Standard · 2026-11-21, updated 2026-11-20
+
+Our newly re-elected U.S. Sen. Mike Rounds just showed some willingness to buck his party by voting against a major permitting reform bill. It’s called the [Bipartisan American Affordability and Jobs Act of 2026](https://www.energy.senate.gov/press/dem/heinrich-lee-capito-and-whitehouse-introduce-bipartisan-american-affordability-and-jobs-act-of-2026/) (BAAJA) and it's about 500 pages long. You can read a 2-page summation [here](https://www.energy.senate.gov/press/dem/heinrich-lee-capito-and-whitehouse-introduce-bipartisan-american-affordability-and-jobs-act-of-2026/).
+
+Basically, BAAJA streamlines the permitting process for energy projects. [Time savings](https://www.energypolicy.columbia.edu/how-the-senate-permitting-reform-bill-could-impact-energy-project-timelines/) are significant. Depending on the project, years of permitting could be reduced to just months if BAAJA passes.
+
+Anybody familiar with governmental red tape understands the appeal of a law like this. In fact, the bill just passed the senate 62-33. Sen. Thune voted aye.
+
+Rounds explained his nay by [claiming](https://www.sdpb.org/politics/2026-11-20/rounds-votes-no-thune-votes-yes-as-senate-passes-permitting-reform-bill) that the bill infringes on state and local rights and gives developers a built-in advantage by transferring contested cases to federal regulators if they haven’t been settled locally after 12 months.
+
+Thune [supports the bill](https://www.youtube.com/watch?v=dDy2Rw3D3l8) because it eliminates bureaucratic delays, spurs the economy and creates jobs.
+
+I haven’t seen environmental issues being addressed by either senator.
+
+Reflexively – and as it turned out, incorrectly – I thought environmental interests would be uniformly opposed to legislation that speeded up energy-related projects. Turns out, there’s some ambivalence among environmentalists when it comes to this bill. An AI overview concludes that “environmental groups are divided over the [Bipartisan American Affordability and Jobs Act](https://www.energy.senate.gov/wp-content/uploads/2026/09/FACT-SHEET-Bipartisan-American-Affordability-and-Jobs-Act3.pdf) (BAAJA), with many major organizations opposing the bill while some clean energy and climate advocates support it.”
+
+As to opponents:
+
+- The [National Resources Defense Council](https://www.nrdc.org/media/nrdc-assessment-baaja-2026-permitting-transmission-bill) says the bill weakens environmental safeguards and public participation.
+
+- [The Climate Justice Alliance](https://climatejusticealliance.org/100ej-groups-letter-opposing-baaja/) says it expands fossil fuel infrastructure and harms frontline communities
+
+
+As to supportive environmental groups:
+
+- The [Citizens Climate Lobby](https://yaleclimateconnections.org/2026/11/baaja-whos-in-favor-and-whos-opposed/) says permitting bottlenecks slow down environmentally friendly projects.
+
+- The [Solar Energy and Industries Association](https://seia.org/media/18668/baaja-industry-letter-11-9-2026.pdf/) says it will put downward pressure on energy prices, and deploy more affordable, reliable solar and storage for American families and businesses.
+
+
+As to me, what do I know? Only this:
+
+Those generalized arguments, pro and con, are plenty relevant, of course, but nowadays the compelling question is how this legislation will affect the development of data centers. Much as I appreciate Thune’s economic development approach, I lean toward Rounds’s local control argument. I don’t like that after a year, disputes over energy development, including data centers, will automatically move from local to federal regulation if BAAJA passes the House of Representatives.
+
+The prospect of a vote in the current House [seems iffy](https://heatmap.news/politics/baaja-house), but we’ll find out soon enough. My hope is that it will stall and get an intra-party test in the next Democratically-weighted congress, which is a fresh representation of how the voting public leans on a matter as significant as this one.
+
+_John Tsitrian is a businessman and writer from the Black Hills. He was a weekly columnist for the Rapid City Journal for 20 years. His articles and commentary have also appeared in The Los Angeles Times, The Denver Post and The Omaha World-Herald. Tsitrian served in the Marines for three years (1966-69), including a 13-month tour of duty as a radioman in Vietnam. Republish with permission._
+
+_Graphic: public domain,_ [_wikimedia commons_](https://commons.wikimedia.org/wiki/File:Data_center_infrastructure_in_the_United_States.jpg)
+
+**_The South Dakota Standard is offered freely and is supported by our readers. We have no political or commercial sponsorship. If you'd like to help us continue our mission to advance independent political and social commentary, you can do so by clicking on the "Donate" button that's on the sidebar to your right._**
+
+## [Just how much have energy costs raised core inflation?](https://www.marketplace.org/episode/2026/11/20/just-how-much-have-energy-costs-raised-core-inflation)
+
+via Market Place · 2026-11-20
+
+Economists use “core” inflation to describe price changes minus food and energy (which can be up one week and down the next). But for the past six months, energy prices have been stubbornly high, as the White House drags out its war in Iran. That sustained inflation is having a trickle-down impact. In this episode, why core inflation can’t escape fuel costs. Plus: Retailers cater to picky consumers, and the stock market tumbles after a historic IPO.
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
+
+_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._
+
+_Read the stories in today’s episode:_
+
+- [Who wants more oil?](https://www.marketplace.org/story/2026/11/20/trump-xi-and-putin-meet-in-china-plus-anthropics-ipo)
+- [Core inflation measures can't escape high energy prices](https://www.marketplace.org/story/2026/11/20/core-inflation-measures-cant-escape-high-energy-prices)
+- [Salmon may soon be off the menu as fisheries struggle to meet demand](https://www.marketplace.org/story/2026/11/20/salmon-supply-flounders-as-fisheries-struggle-to-meet-demand)
+
+## [Agriculture Secretary’s religious emails to staff likely violate First Amendment, judge rules](https://federalnewsnetwork.com/litigation/2026/11/agriculture-secretarys-religious-emails-to-staff-likely-violate-first-amendment-judge-rules/)
+
+via Federal News Network · 2026-11-20
+
+A federal judge granted a preliminary injunction and ordered Brooke Rollins to “recognize certain boundaries” when communicating her religious views to staff.
+
+## [BYD offers a first look at its new flagship people mover](https://electrek.co/2026/11/20/byd-first-look-new-flagship-people-mover/)
+
+via Electrek Feed · 2026-11-20
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Flagship-Ocean-MPV-first-look.jpeg?quality=82&strip=all&w=1400)
+
+[BYD](https://electrek.co/guides/byd/) is preparing to launch a new flagship MPV soon after previewing the large people mover for the first time.
+
+ [more…](https://electrek.co/2026/11/20/byd-first-look-new-flagship-people-mover/#more-494981)
+
+## [Despite repeated requests, Congress still lacks a full cost picture for VA’s EHR program](https://federalnewsnetwork.com/veterans-affairs/2026/11/despite-repeated-requests-congress-still-lacks-a-full-cost-picture-for-vas-ehr-program/)
+
+via Federal News Network · 2026-11-20
+
+Congress says it’s still waiting on a full lifetime cost for the VA’s EHR program, as concerns over cost and veteran safety persist.
+
+## [This 500 kWh energy storage system runs on retired EV batteries](https://electrek.co/2026/11/20/this-500-kwh-energy-storage-system-runs-on-retired-ev-batteries/)
+
+via Electrek Feed · 2026-11-20
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Nova.jpg?quality=82&strip=all&w=1600)
+
+A retired EV battery can still have years of use left in it when it’s taken off the road. Moment Energy’s new Nova battery storage system puts those packs to work on commercial sites. And when a pack wears out, it can be swapped without pulling out the whole system.
+
+ [more…](https://electrek.co/2026/11/20/this-500-kwh-energy-storage-system-runs-on-retired-ev-batteries/#more-494982)
+
+## [The agency best known for fighting illegal drugs also makes decisions about some legal ones](https://federalnewsnetwork.com/agency-oversight/2026/11/the-agency-best-known-for-fighting-illegal-drugs-also-decides-how-much-of-some-legal-drugs-can-be-made/)
+
+via Federal News Network · 2026-11-20
+
+"This is really a tool for thinking about, how do we make sure that patients who need it do get it, and patients who don't need it don't," said Marta Wosińska.
+
+## [Kia, Lucid, and Volkswagen are slashing EV prices by $10,000+ for Black Friday](https://electrek.co/2026/11/20/kia-lucid-vw-slash-ev-prices-by-10000-black-friday/)
+
+via Electrek Feed · 2026-11-20
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/EV-deals-10000-Black-Friday.jpeg?quality=82&strip=all&w=1400)
+
+Forget waiting in line for a discounted TV or other gadget you probably don’t need. If you’ve been looking to go electric, Black Friday may be the time to do it. Several brands, including [Kia](https://electrek.co/guides/kia/), Lucid, and Volkswagen, are offering $10,000 or more off select EVs right now.
+
+ [more…](https://electrek.co/2026/11/20/kia-lucid-vw-slash-ev-prices-by-10000-black-friday/#more-494881)
+
+## [Podcast: Tesla’s ‘personal’ Cybercab, Ford’s LFP for Fathom, Aptera delivers, and more](https://electrek.co/2026/11/20/podcast-teslas-personal-cybercab-fords-lfp-for-fathom-aptera-delivers-and-more/)
+
+via Electrek Feed · 2026-11-20
+
+![](https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&strip=all&w=1600)
+
+In the [Electrek Podcast](https://electrek.co/guides/electrek-podcast/), we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll discuss Tesla launching the ‘personal’ Cybercab, Ford’s LFP for Fathom, Aptera delivering, and more.
+
+ [more…](https://electrek.co/2026/11/20/podcast-teslas-personal-cybercab-fords-lfp-for-fathom-aptera-delivers-and-more/#more-494897)
+
+## [Pentagon CIO to replace Cairncross as top WH cyber official](https://federalnewsnetwork.com/cybersecurity/2026/11/pentagon-cio-to-replace-cairncross-as-top-wh-cyber-official/)
+
+via Federal News Network · 2026-11-20
+
+The White House has turned to Kirsten Davies, who is currently the Pentagon’s chief information officer, to serve as acting national cyber director.
+
+## [Anker S5000 5kWh power station back at $2,375 exclusive low ($1,225 off), Segway Max G3 Plus e-scooter new $1,000 low, more](https://electrek.co/2026/11/20/anker-s5000-5kwh-power-station-segway-max-g3-plus-e-scooter-more/)
+
+via Electrek Feed · 2026-11-20
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Anker-SOLIX-Anker-eufy-Segway-GDs-FI.jpg?quality=82&strip=all&w=1600)
+
+If you weren’t aware, [Amazon’s full Black Friday event](https://link.amazon/B0f7Vc1JD) is in motion, and deals are flying from across countless brands, with Anker and Segway being our two headliners today. First up, the expanded Anker SOLIX Black Friday Sale has dropped the [new S5000 5,024Wh Power Station back to an exclusive $2,375 low](https://9to5toys.com/2026/11/20/anker-expanded-solix-black-friday-sale-5kwh-s5000-power-station/) with increased savings. There’s also the increased Anker eufy security savings, too, like the 16GB or 1TB [eufyCam S4 Solar Security 4-Cam Kits at lows from $950](https://9to5toys.com/2026/11/20/anker-eufy-security-black-friday-s4-solar-4-cam-kit-more/), among many other options. Segway has also dropped its [Max G3 Plus Electric Scooter to a new $1,000 low](https://9to5toys.com/2026/11/20/segway-max-g3-plus-electric-scooter-black-friday/), while the [Navimow i215 LiDAR Robot Mower is at a $1,329 low](https://9to5toys.com/2026/11/20/segway-navimow-i215-lidar-robot-mower-black-friday-more/), with more waiting below. Of course, this is nowhere near all the amazing deals right now, which you can find all [collected together in our Black Friday Green Deals hub here](https://electrek.co/2026/11/20/black-friday-2026-green-deals-hub-e-bikes-evs-power-stations-tools-appliances-and-more/) for the remainder of the month.
+
+Head below for other New Green Deals we’ve found today and, of course, [_Electrek_’s best EV buying](https://electrek.co/best-electric-vehicle-prices/) and [leasing deals](https://electrek.co/best-electric-vehicle-leases/). Also, check out the new [_Electrek_ Tesla Shop for the best deals on Tesla accessories](https://electrek.co/shop/).
+
+ [more…](https://electrek.co/2026/11/20/anker-s5000-5kwh-power-station-segway-max-g3-plus-e-scooter-more/#more-494884)
+
+## [GAO finds 3 agencies violated Antideficiency Act in fiscal 2025, 2026](https://federalnewsnetwork.com/federal-newscast/2026/11/gao-finds-3-agencies-violated-antideficiency-act-in-fiscal-2025-2026/)
+
+via Federal News Network · 2026-11-20
+
+GAO found the departments of Justice and Housing and Urban Development and NASA ran afoul of the law when they spent funding appropriated in the CR.
+
+## [How stations are using ‘Crime and Punishment’ to spark local conversations](https://current.org/2026/11/how-stations-are-using-crime-and-punishment-to-spark-local-conversations/?utm_source=rss&utm_medium=rss&utm_campaign=how-stations-are-using-crime-and-punishment-to-spark-local-conversations)
+
+via Current, News for Public Media Orgs · 2026-11-20
+
+“We hope to give our viewers an opportunity for a different kind of conversation and maybe even some progress on issues that are difficult," says director Lynn Novick.
+
+The post [How stations are using ‘Crime and Punishment’ to spark local conversations](https://current.org/2026/11/how-stations-are-using-crime-and-punishment-to-spark-local-conversations/) appeared first on [Current](https://current.org).
+
+## [Renault undercuts BYD with a new EV that costs less than $20,000](https://electrek.co/2026/11/20/renault-undercuts-byd-new-ev-costs-less-than-20000/)
+
+via Electrek Feed · 2026-11-20
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Renault-Twingo-E-Tech-price.jpeg?quality=82&strip=all&w=1400)
+
+The new [Renault](https://electrek.co/guides/renault/) Twingo E-Tech is among the most affordable vehicles, electric or gas-powered, starting at just £14,745 in the UK, or under $20,000.
+
+ [more…](https://electrek.co/2026/11/20/renault-undercuts-byd-new-ev-costs-less-than-20000/#more-494838)
+
+## [Building better artificial intelligence requires people willing to do meticulous work at scale](https://federalnewsnetwork.com/workforce/2026/11/building-better-artificial-intelligence-requires-people-willing-to-do-meticulous-work-at-scale/)
+
+via Federal News Network · 2026-11-20
+
+"Don't make it a pilot program or a special program. These folks are already part of your workforce," said Peter Kant.
+
+## [What the Deutsche Bank leak reveals](https://www.marketplace.org/episode/2026/11/20/what-the-deutsche-bank-leak-reveals)
+
+via Market Place Morning Report · 2026-11-20
+
+A new flood of leaked documents is putting fresh scrutiny on banking behemoth Deutsche Bank. The documents include more than 15 million internal emails and files, covering the early 2010s through 2021. A group of more than 200 journalists from around the globe has been analyzing the leaked information, revealing questionable practices, deals with Russian oligarchs, and more. Today, we hear from one of those reporters. But first, what did we get out of President Donald Trump's Asia summit?
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe to our daily or weekly newsletter](https://www.marketplace.org/newsletters)_ _._
+
+_Marketplace Morning Report is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._
+
+Stories in this podcast:
+
+- [What you need to know about the Deutsche Bank leak](https://www.marketplace.org/story/2026/11/20/what-you-need-to-know-about-the-deutsche-bank-leak)
+
+## [Tesla FSD approved in Italy, the first big EU market to say yes](https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/)
+
+via Electrek Feed · 2026-11-20
+
+![](https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&strip=all&w=1600)
+
+Italy’s transport ministry has granted provisional approval to Tesla Assisted Driving, the name Tesla now uses for “Full Self-Driving (Supervised)” in Europe. Italy becomes the 12th European country to allow the system, and the first of the EU’s big markets.
+
+It also didn’t wait for Brussels. The EU committee that decides on bloc-wide recognition isn’t expected to vote until December at the earliest.
+
+ [more…](https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/#more-494832)
+
+## [Volkswagen’s new ID. Polo GTI Clubsport is the electric hot hatch we want, but can’t have](https://electrek.co/2026/11/20/vws-new-id-polo-gti-clubsport-ev-hot-hatch/)
+
+via Electrek Feed · 2026-11-20
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-ID-Polo-GTI-Clubsport-hot-hatch.jpeg?quality=82&strip=all&w=1400)
+
+[Volkswagen](https://electrek.co/guides/volkswagen/) revealed the ID. Polo GTI Clubsport Concept, an electric pocket rocket with a massive rear wing and 362 horsepower.
+
+ [more…](https://electrek.co/2026/11/20/vws-new-id-polo-gti-clubsport-ev-hot-hatch/#more-494785)
+
+## [Model Ordinance: Funding for Local Circular Food Systems](https://ilsr.org/article/composting-for-community/model-ordinance-funding-for-local-food-systems)
+
+via Institute of Local Self-Reliance · 2026-11-20
+
+A tool local governments can use to establish funding to propel local, closed-loop food systems that recover food scraps.
 
 ## [Can ducks save a 115-year-old rice farm? This Sacramento Valley family’s future depends on it](https://www.sacbee.com/news/business/article317963771.html)
 
@@ -90,6 +298,11 @@ _Every story has an economic angle. Want some in your inbox?_ _[Subscribe to our
 
 _Marketplace Morning Report is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._
 
+Read the stories from this episode:
+
+- [Why would the Fed consider a half-percentage-point hike in December?](https://www.marketplace.org/story/2026/11/20/would-the-fed-consider-a-halfpercentagepoint-hike-in-december)
+- [High fuel prices hamper JetBlue's path back to profitability](https://www.marketplace.org/story/2026/11/20/why-jetblue-is-struggling-to-turn-a-profit)
+
 ## [Reaching Out: Sayre Quevedo and his Twin Brother Search for their Biological Father](https://www.latinousa.org/2026/11/20/reaching-out-sayre-quevedo-and-his-twin-brother-search-for-their-biological-father/)
 
 via Latino USA · 2026-11-20
@@ -110,7 +323,7 @@ It’s time for the biggest shopping event of the year! With [Amazon’s full Bl
 
 ## [Just how vulnerable are we to cyberattacks?](https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks)
 
-via NPR Economic · 2026-11-20
+via NPR Economic · 2026-11-20, updated 2026-11-21
 
 In a week of outages, we're thinking about the rising threat of AI-powered cyberattacks. But sometimes, it's not the most sophisticated attack that's concerning, but the easy targets buried in old software.
 
@@ -126,7 +339,7 @@ NHL may not be a household name, but its all-new, all-electric NTE240E ultra-cla
 
 ## [Trump’s “friend” Xi is lagging on his promise to buy U.S. grain](https://www.sdstandardnow.com/home/trumps-chinese-friend-xi-is-lagging-on-his-commitment-to-buy-american-farm-goods)
 
-via South Dakota Standard · 2026-11-20, updated 2026-11-19
+via South Dakota Standard · 2026-11-20
 
 Given the way President Trump was [fawning](https://www.thedailybeast.com/suck-up-trump-fawns-over-friend-at-dictator-lovefest) all over Chinese President Xi Jinping during their meeting last week in Shenzen, China, you’d think the two pals were having a friendly, upfront and cordial get-together. After the meeting, Trump even went so far as to describe their relationship as [“very special,”](https://www.profarmer.com/news/first-thing-today/first-thing-today-trump-asks-xi-do-some-more-our-farmers) which might have warmed a lot of people’s hearts … unless you’re among the people who are depending on China to live up to its [agreements](https://www.farmprogress.com/farm-policy/china-s-17-billion-crop-pledge-falters-ahead-of-trump-xi-summit) on purchasing American farm products.
 
@@ -527,7 +740,7 @@ Some Sacramento-area gauges topped 2 inches, while Sierra winds reached 89 mph. 
 
 ## [Cities Are Investing in Clean Energy Despite Federal Rollbacks](https://ilsr.org/article/energy-democracy/cities-are-investing-in-clean-energy-despite-federal-rollbacks)
 
-via Institute of Local Self-Reliance · 2026-11-19
+via Institute of Local Self-Reliance · 2026-11-19, updated 2026-11-20
 
 Local leaders discuss how city governments can promote access to affordable clean energy even amid federal funding cuts.
 
@@ -704,7 +917,7 @@ And if you’re as interested in domains as we are, you can [browse all the new 
 
 ## [The disconnect among South Dakota voters confuses me](https://www.sdstandardnow.com/home/south-dakota-voters-confuse-me)
 
-via South Dakota Standard · 2026-11-19
+via South Dakota Standard · 2026-11-19, updated 2026-11-20
 
 Over the past several years South Dakota voters have created public policy that lifts people up and reinforces the state motto, “Under God, the people rule.”
 
@@ -905,7 +1118,7 @@ Online case information portals at Sacramento Superior Court and 19 other Califo
 
 ## [Ground Stops and Cleanup Rounds – Episode 34 of Unbuffered](https://ilsr.org/article/community-broadband-networks/ground-stops-and-cleanup-rounds-episode-34-of-unbuffered)
 
-via Institute of Local Self-Reliance · 2026-11-18, updated 2026-11-19
+via Institute of Local Self-Reliance · 2026-11-18, updated 2026-11-20
 
 Chris and Sean Gonsalves unpack the FAA ground stop, the fight over FCC commissioners, and why Congress should send remaining BEAD funds to the states.
 
@@ -1221,7 +1434,7 @@ The 25-year-old now faces an armed robbery charge, according to police.
 
 ## [A Midwest Main Street Saves With Geothermal — Episode 284 of Local Energy Rules](https://ilsr.org/article/energy-democracy/west-union-iowa-geothermal-network-ler284)
 
-via Institute of Local Self-Reliance · 2026-11-18, updated 2026-11-19
+via Institute of Local Self-Reliance · 2026-11-18, updated 2026-11-20
 
 How West Union, Iowa, built a community geothermal network that heats and cools its downtown for less.
 
@@ -1447,7 +1660,7 @@ More on this:
 
 ## [The trouble with one-and-done financial solutions like loan consolidations](https://www.sdstandardnow.com/home/the-trouble-with-one-and-done-financial-solutions)
 
-via South Dakota Standard · 2026-11-18, updated 2026-11-19
+via South Dakota Standard · 2026-11-18, updated 2026-11-20
 
 Sometime the solution to a money problem seems to be a “one and done” fix. Maybe you’re having trouble paying bills and are accumulating debt. Then you receive an unexpected tax refund, get a raise, or refinance your mortgage, so everything should be better. Each of those can help, but none of them by itself changes the underlying patterns that caused the problem.
 
@@ -2072,13 +2285,13 @@ Eight California prisons are placing their highest security general population p
 
 ## [Can Google win the AI race without killing its cash cow?](https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow)
 
-via NPR Economic · 2026-11-17, updated 2026-11-20
+via NPR Economic · 2026-11-17, updated 2026-11-21
 
 In late October, Google had the worst stock day in its history as a public company. _The Planet Money_ newsletter asks: has Google been caught in "the innovator's dilemma"?
 
 ## [Farmers look to new Congress to fix damage caused by Trump](https://www.sdstandardnow.com/home/new-congress-has-to-repair-damage-caused-by-trumps-indifference-to-farmers)
 
-via South Dakota Standard · 2026-11-17, updated 2026-11-19
+via South Dakota Standard · 2026-11-17, updated 2026-11-20
 
 Does Trump actually care about farmers? They've been [financially stressed](https://www.theguardian.com/commentisfree/2026/oct/26/donald-trump-policy-disaster-rural-america) ever since Donald Trump took office nearly two years ago. Though farmers have had a [terrible time](https://www.fb.org/intel/markets/persistent-losses-leave-farmers-needing-economic-support) financially, the president seems indifferent. He doesn’t understand the nature of the crises his policies have caused. He sends farmers [bail-out money](https://en.wikipedia.org/wiki/Trump_administration_farmer_bailouts) then figures that everything is peachy-keen.
 
@@ -2132,7 +2345,7 @@ The girl was abducted along with her father, a Haitian police officer who remain
 
 ## [She went to college to become a social worker. Now she's joined the skilled trades](https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs)
 
-via NPR Economic · 2026-11-17, updated 2026-11-20
+via NPR Economic · 2026-11-17, updated 2026-11-21
 
 While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates.
 
@@ -2728,9 +2941,9 @@ via Federal News Network · 2026-11-16, updated 2026-11-17
 
 Homeland Security Secretary Markwayne Mullin said Friday there’s no indication the communications issues that caused the ground stop are linked to the system.
 
-## [Flying blind: How the EPA let a key chemical-detection program unravel](https://floodlightnews.org/aspect-plane-epa-chemical-emergencies/)
+## [Flying blind: Inside the decline of the EPA’s chemical-detection plane](https://floodlightnews.org/aspect-plane-epa-chemical-emergencies/)
 
-via Floodlight · 2026-11-16, updated 2026-11-19
+via Floodlight · 2026-11-16, updated 2026-11-20
 
 As toxic emergencies rise, an EPA plane used to identify dangerous chemicals in the air can no longer do its job.
 
@@ -2752,7 +2965,7 @@ _More on this:_
 
 ## [Roman emperor Julius Caesar used AI to write The Gallic Wars](https://www.sdstandardnow.com/home/roman-emperor-julius-caesar-used-ai-to-write-the-gallic-wars)
 
-via South Dakota Standard · 2026-11-16, updated 2026-11-19
+via South Dakota Standard · 2026-11-16, updated 2026-11-20
 
 I previously wrote an [opinion piece](https://www.tsln.com/news/ganje-beware-the-manipulators-of-truth-by-those-in-power/) on the risks of reliance on AI.
 
@@ -2972,7 +3185,7 @@ I’ve been [waiting years](https://electrek.co/2022/06/23/electric-bike-usb-c-b
 
 ## [South Dakota’s GOP Sen. Thune will have a much different job next year.](https://www.sdstandardnow.com/home/south-dakota-republican-senator-john-thune-will-have-a-much-different-job-next-year)
 
-via South Dakota Standard · 2026-11-14, updated 2026-11-19
+via South Dakota Standard · 2026-11-14, updated 2026-11-20
 
 For the past two years our GOP Sen. John Thune has been senate majority leader. He has consistently bowed to the wishes of President Trump, never offering a discouraging word.
 
@@ -3398,7 +3611,7 @@ Judge won’t seal the case, but they can request filings be kept closed.
 
 ## [Does Europe regret its bet on U.S. defense?](https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense)
 
-via NPR Economic · 2026-11-13, updated 2026-11-20
+via NPR Economic · 2026-11-13, updated 2026-11-21
 
 Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs.
 
@@ -3603,7 +3816,7 @@ Some California public unions accuse state agencies of not providing employee co
 
 ## [Bucking the national trend, S.D. Democrats continue to flounder](https://www.sdstandardnow.com/home/bucking-the-national-trend-south-dakota-democrats-continue-to-flounder)
 
-via South Dakota Standard · 2026-11-13, updated 2026-11-19
+via South Dakota Standard · 2026-11-13, updated 2026-11-20
 
 While Democrats swept the Midterm elections nationally, with a "tsunami" that reached Texas, Kansas, South Carolina and possibly Mississippi, in South Dakota the [Republicans scored yet another sweep](https://electionresults.sd.gov/), winning all the statewide races by somewhere between 58% (Heather Baxter for Secretary of State) and 64% (Marty Jackley for Congress) of the total vote.
 
@@ -3846,7 +4059,7 @@ The agency said it is using $250,000 of unused U.S. Department of Agriculture gr
 
 ## [Next B4DE: Digital Equity After the Election and What Communities Can Do Now](https://ilsr.org/article/community-broadband-networks/next-b4de-digital-equity-after-the-election-and-what-communities-can-do-now)
 
-via Institute of Local Self-Reliance · 2026-11-12, updated 2026-11-19
+via Institute of Local Self-Reliance · 2026-11-12, updated 2026-11-20
 
 The final Building for Digital Equity livestream of 2026, on December 8 at 3 pm ET, asks who pays for digital inclusion now as returning federal funds are still unsettled.
 
@@ -3928,7 +4141,7 @@ via Sacramento Bee · 2026-11-12, updated 2026-11-13
 
 ## ['Punch in the gut': Homes sales fall to their lowest in 16 years](https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years)
 
-via NPR Economic · 2026-11-12, updated 2026-11-20
+via NPR Economic · 2026-11-12, updated 2026-11-21
 
 Existing homes sales in October declined 8.8% from a year earlier, according to the National Association of Realtors.
 
@@ -4192,7 +4405,7 @@ Pamela Wisniewski, at the International Computer Science Institute, says kids ne
 
 ## [New Democratic congress should be progressive, not retributive](https://www.sdstandardnow.com/home/which-democratic-congress-will-emerge)
 
-via South Dakota Standard · 2026-11-12, updated 2026-11-19
+via South Dakota Standard · 2026-11-12, updated 2026-11-20
 
 The November 3 election gave the Democratic Party in Congress a strong majority in both houses. As a result, they have the ability to pass anything they want. That majority came about because large numbers of independents and moderate republicans were upset and disappointed in the actions of president Trump. The war, the economy, the deficits and the excesses of ICE were major factors in the defection resulting in those “swing” voters voting for democrats in the election. They voted against those items and simply want them to end and expect Democrats to do that.
 
@@ -4431,7 +4644,7 @@ VA.gov’s new look adds plain-language search and password-less login as the ag
 
 ## [Why is gasoline suddenly under $4 a gallon?](https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon)
 
-via NPR Economic · 2026-11-11, updated 2026-11-20
+via NPR Economic · 2026-11-11, updated 2026-11-21
 
 The average price of a gallon of gasoline dipped below $4 this week for the first time in months. Does that mean more relief is coming for drivers?
 
@@ -4475,9 +4688,9 @@ The alleged street-side assault on the Danish tourist occurred after midnight Oc
 
 ## [Maryland – Expanding Tax Credits for Urban Agriculture](https://ilsr.org/article/composting-for-community/maryland-expanding-tax-credits-for-urban-agriculture)
 
-via Institute of Local Self-Reliance · 2026-11-11, updated 2026-11-19
+via Institute of Local Self-Reliance · 2026-11-11, updated 2026-11-20
 
-In May 2026, Maryland passed the Urban Agricultural Property Tax Credit Act (HB 359), which amended Section 9-253 of the Property Article of the Annotated Code of Maryland. The legislation expands tax credits to urban farmers by removing property size restrictions and broadening the definition of "urban agriculture" to include indoor and outdoor activities such \[…\]
+In May 2026, Maryland passed the Urban Agricultural Property Tax Credit, which expands tax credits to urban farmers and broadening the definition of "urban agriculture".
 
 ## [Parent accused of punching football coach, grabbing assistant’s throat at NC school](https://www.sacbee.com/news/nation-world/national/article318034456.html)
 
@@ -4533,9 +4746,9 @@ The comedian relocated to the Sunshine State with his family in 2024.
 
 ## [Florida – Exemptions for Composting Operations](https://ilsr.org/article/composting-for-community/florida-exemptions-for-composting-operations)
 
-via Institute of Local Self-Reliance · 2026-11-11, updated 2026-11-19
+via Institute of Local Self-Reliance · 2026-11-11, updated 2026-11-20
 
-Florida adopted Administrative Code 62-709.305, which exempts backyard composting, small-sized composting, and certain on-farm composting from the Florida Department of Environmental Protection’s (FDEP) permit and registration requirements.
+Florida adopted Administrative Code 62-709.305, which exempts backyard composting, small-sized composting, and certain on-farm composting from the state's permit and registration requirements.
 
 ## [Tesla extends Cybertruck production to late summer 2027 amid fan backlash](https://electrek.co/2026/11/11/tesla-extends-cybertruck-production-summer-2027-fan-backlash/)
 
@@ -4609,7 +4822,7 @@ From Venezuelan oil talks to a Havana neuroscience conference — and a jet deal
 
 ## [The Most Unbuffered Network – Episode 33 of Unbuffered](https://ilsr.org/article/community-broadband-networks/the-most-unbuffered-network-episode-33-of-unbuffered)
 
-via Institute of Local Self-Reliance · 2026-11-11, updated 2026-11-19
+via Institute of Local Self-Reliance · 2026-11-11, updated 2026-11-20
 
 Loveland’s Pulse Fiber network just launched 20-gig service! Chris and Brieana Reed-Harmel discuss the upgrade, competition, public safety, and what community-owned fiber makes possible.
 
@@ -4820,7 +5033,7 @@ More on this:
 
 ## [‘Hell sucks.’ A veteran reflects on life and death at the DMZ, 1967](https://www.sdstandardnow.com/home/hell-sucks-a-vets-day-reflection-on-life-and-death-at-the-dmz-1967)
 
-via South Dakota Standard · 2026-11-11, updated 2026-11-19
+via South Dakota Standard · 2026-11-11, updated 2026-11-20
 
 _Author’s note: This year is the 60th anniversary of my deployment to South Vietnam, a milestone I commemorate by rerunning this piece, which I posted a couple of years ago – John Tsitrian_
 
@@ -5360,7 +5573,7 @@ Roughly 200,000 service members leave the U.S. military each year. For many, the
 
 ## [Gas prices dip below $4 but inflation remains stubbornly high](https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices)
 
-via NPR Economic · 2026-11-10, updated 2026-11-20
+via NPR Economic · 2026-11-10, updated 2026-11-21
 
 Gasoline prices fell below $4 a gallon Tuesday for the first time in three months — but the overall cost of living remains stubbornly high.
 
@@ -5469,7 +5682,7 @@ Here’s what police say happened.
 
 ## [Why did California's billionaire tax fail to surf the blue wave?](https://www.npr.org/sections/planet-money/2026/11/10/g-s1-152755/why-did-californias-billionaire-tax-fail-to-surf-the-blue-wave)
 
-via NPR Economic · 2026-11-10, updated 2026-11-20
+via NPR Economic · 2026-11-10, updated 2026-11-21
 
 Two economists debate what California's vote on Prop 40 means for the wealth tax movement.
 
@@ -5507,7 +5720,7 @@ The recent bankruptcy filing comes as Robinson faces a pending lawsuit.
 
 ## [INFLATION REPORT](https://www.npr.org/2026/11/10/nx-s1-6034517/inflation-report)
 
-via NPR Economic · 2026-11-10, updated 2026-11-20
+via NPR Economic · 2026-11-10, updated 2026-11-21
 
 Gasoline prices are falling, but the overall cost of living remains stubbornly high. The Labor Department reports on October inflation Tuesday morning.
 
@@ -5529,7 +5742,7 @@ Honda has been getting increasingly serious about electric motorcycles, but if y
 
 ## [Last week's midterm elections were a requiem for MAGA](https://www.sdstandardnow.com/home/johns-piece-on-the-end-of-maga)
 
-via South Dakota Standard · 2026-11-10, updated 2026-11-19
+via South Dakota Standard · 2026-11-10, updated 2026-11-20
 
 I was road-tripping through Minnesota last weekend and couldn’t resist taking the pic above from my car. Sorry about the resolution, but the posting of a worn out Trump sign on a dilapidated building was too rich with symbolism to bypass.
 
@@ -5782,7 +5995,7 @@ Despite the recent decline, California drivers are still paying the highest aver
 
 ## [“Job’s Not Finished”](https://ilsr.org/articles/jobs-not-finished/)
 
-via Institute of Local Self-Reliance · 2026-11-09, updated 2026-11-19
+via Institute of Local Self-Reliance · 2026-11-09, updated 2026-11-20
 
 A message from ILSR's co-directors on turning election outcomes into enduring change.
 
@@ -6054,7 +6267,7 @@ via Sacramento Bee · 2026-11-09, updated 2026-11-10
 
 ## [October was warmest on record. Will Dems address climate change?](https://www.sdstandardnow.com/home/oznorhdrz8taoazsxuch0tnh529ps8)
 
-via South Dakota Standard · 2026-11-09, updated 2026-11-19
+via South Dakota Standard · 2026-11-09, updated 2026-11-20
 
 This year’s October was the [warmest on record](https://abcnews.com/International/october-warmest-record-globally-el-nino-intensifies-report/story?id=137911248). Maybe more sobering is the news that it was the third consecutive month to exceed the warming threshold set by the [2016 Paris Climate Agreement](https://abcnews.com/International/paris-climate-agreement/story?id=43301507), which was ratified by 194 countries, including the United States.
 
@@ -6177,7 +6390,7 @@ _More on this:_
 
 ## [Economist discusses taxing the ultra wealthy and their impact on the economy](https://www.npr.org/2026/11/09/nx-s1-6032701/economist-discusses-taxing-the-ultra-wealthy-and-their-impact-on-the-economy)
 
-via NPR Economic · 2026-11-09, updated 2026-11-20
+via NPR Economic · 2026-11-09, updated 2026-11-21
 
 NPR's Steve Inskeep speaks with economist and wealth tax expert Gabriel Zucman about millionaire and billionaire taxes and their impact on the economy.
 
@@ -6435,7 +6648,7 @@ Honda makes just about everything with a motor, from lawnmowers and generators t
 
 ## [Did voters disregard politics and feel they just couldn’t stand Trump ?](https://www.sdstandardnow.com/home/did-voters-disregard-politics-and-feel-they-couldnt-stand-trump-anymore)
 
-via South Dakota Standard · 2026-11-07, updated 2026-11-19
+via South Dakota Standard · 2026-11-07, updated 2026-11-20
 
 Hee’s a quick take on the election.
 
@@ -6941,7 +7154,7 @@ A detective posed as a customer. The woman who showed up said she was being forc
 
 ## [Teaching financial advisors the depth behind tools and recipes](https://www.sdstandardnow.com/home/teaching-financial-advisors-the-depth-behind-tools-and-recipes)
 
-via South Dakota Standard · 2026-11-06, updated 2026-11-19
+via South Dakota Standard · 2026-11-06, updated 2026-11-20
 
 When you cook, do you follow a recipe precisely or adapt it as you go? My wife uses the second approach. She will make something extraordinary, and when I ask if she wrote down what she did, she has no idea. She tasted, adjusted, and added a little of this or that. I am the opposite. Give me a recipe, and I’m fine; just don’t ask me to be creative.
 
@@ -7666,7 +7879,7 @@ The company, which seeks to connect Lake Tahoe’s shores using electric hydrofo
 
 ## [Post-Midterm Power Moves: The People vs. The Utilities](https://ilsr.org/article/energy-democracy/post-midterm-power-moves-the-people-vs-the-utilities)
 
-via Institute of Local Self-Reliance · 2026-11-05, updated 2026-11-19
+via Institute of Local Self-Reliance · 2026-11-05, updated 2026-11-20
 
 We analyzed how the 2026 midterm elections affected the balance of power between utilities and communities.
 
@@ -7921,7 +8134,7 @@ There are electric bikes, there are electric motorcycles, and then there are mac
 
 ## [WATCH: We exposed a secret AI power plant emitting staggering amounts of pollution](https://floodlightnews.org/vineland-data-center-pollution-documentary/)
 
-via Floodlight · 2026-11-05, updated 2026-11-19
+via Floodlight · 2026-11-05, updated 2026-11-20
 
 A new mini-documentary about the DataOne facility in Vineland, NJ, shows how a thermal drone uncovered an unpermitted power plant.
 
@@ -7939,7 +8152,7 @@ But the nonprofit Common Sense Media evaluated the tool and found it poses "unac
 
 ## [Farmers need help. Let’s see if a Dem-led congress can provide it](https://www.sdstandardnow.com/home/farmers-need-help-trump-has-been-a-flop-lets-see-if-a-dem-led-congress-can-provide-it)
 
-via South Dakota Standard · 2026-11-05, updated 2026-11-19
+via South Dakota Standard · 2026-11-05, updated 2026-11-20
 
 Though grain and soybean prices have come up a bit in recent months, the [American Farm Bureau](https://www.fb.org/news-release/farmer-losses-projected-to-deepen) thinks that farmers will continue to see tough times. Prices for their crops just aren’t  keeping up with input costs, principally fertilizer and diesel fuel.
 
@@ -8576,7 +8789,7 @@ After a [historic election defeat](https://www.motherjones.com/politics/2026/11/
 
 ## [Song sung blue? No. Last night was the Hallelujah Chorus sung blue](https://www.sdstandardnow.com/home/a-song-sung-blue-nope-this-was-the-hallelujah-chorus-sung-blue)
 
-via South Dakota Standard · 2026-11-04, updated 2026-11-19
+via South Dakota Standard · 2026-11-04, updated 2026-11-20
 
 Last night’s rebuke of Donald Trump should be a long-needed slap in the GOP’s collective face. His party has needed to come out of its Trump-induced stupor for a long time.
 
@@ -9525,7 +9738,7 @@ Yamaha is expanding its electric two-wheeler lineup with a much more capable mac
 
 ## [How Dick Nixon tried to kill South Dakota Senator Karl Mundt](https://www.sdstandardnow.com/home/how-dick-nixon-tried-to-kill-south-dakota-senator-karl-mundt)
 
-via South Dakota Standard · 2026-11-03, updated 2026-11-19
+via South Dakota Standard · 2026-11-03, updated 2026-11-20
 
 _Author’s note: The difference between a memoir and an autobiography is that a memoir tells the story as best the author can remember it.  An autobiography has to be fact-checked.  This falls into the category of mini-memoir._
 
@@ -10144,7 +10357,7 @@ Read the stories in this episode:
 
 ## [My wish list if there is a blue wave in tomorrow’s election](https://www.sdstandardnow.com/home/my-wish-list-if-theres-a-blue-wave)
 
-via South Dakota Standard · 2026-11-02, updated 2026-11-19
+via South Dakota Standard · 2026-11-02, updated 2026-11-20
 
 If the Democrats take Congress tomorrow, fixing Trump’s mess should be the first item on the legislative agenda.
 
@@ -10366,7 +10579,7 @@ A tight race, a party switch and a cease-and-desist are shaping the showdown ove
 
 ## [We have a winner in the Iran war, and the winner is …](https://www.sdstandardnow.com/home/we-have-a-winner-in-the-iran-war-and-the-winner-is)
 
-via South Dakota Standard · 2026-10-31, updated 2026-11-19
+via South Dakota Standard · 2026-10-31, updated 2026-11-20
 
 … the oil industry and its shareholders. Glancing across yesterday’s earning reports on the financial sites, the first headline I encountered in [The Wall Street Journal](https://www.wsj.com/business/energy-oil/exxonmobil-xom-chevron-cvx-3q-earnings-report-2026-stock-1d890682) announced “American Oil Giants See Profits Soar as Wars Crimp Energy Supplies.” The sub-head? “ExxonMobil and Chevron post blockbuster earnings for third quarter as world turns to U.S. refineries for fuel.”
 
@@ -10417,711 +10630,4 @@ Residents are fighting back against plans for a project that would span thousand
 via Sacramento Bee · 2026-10-31
 
 Should Californians have to show identification to vote? Proposition 39 asks this question ahead of the 2026 midterm elections
-
-## [California, SEIU Local 1000 state workers don’t reach deal in Friday’s mediation](https://www.sacbee.com/news/politics-government/the-state-worker/article317827579.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-State and union officials are scheduled to meet again on Friday, Nov. 20.
-
-## [Sacramento news roundup: Newsom names building after Dolores Huerta, Sikh Parade and more](https://www.sacbee.com/news/local/article317855872.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-A labor icon's legacy, a parade expecting hundreds of thousands and turkey trot deadlines creeping up — here's what shaped the Sacramento region Friday.
-
-## [12 Sacramento Bee election ‘fact checks’ on Flock cameras, school issues & more](https://www.sacbee.com/news/politics-government/election/article317855429.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-From a $185 million arena deal to clashes over homelessness, housing and school policies, see where candidates in key races stand.
-
-## [‘Dangerous:’ CISA official criticizes company’s decision to release PHP bug early](https://federalnewsnetwork.com/cybersecurity/2026/10/dangerous-cisa-official-criticizes-companys-decision-to-release-php-bug-early/)
-
-via Federal News Network · 2026-10-30, updated 2026-11-03
-
-Security firm Chainguard broke an embargo on a critical vulnerability. A CISA official says that's "dangerous" as AI creates more chaos for cyber defenders.
-
-## [Air Force kicks off effort to provide free Wi-Fi to Airmen in dorms](https://federalnewsnetwork.com/air-force/2026/10/air-force-kicks-off-effort-to-provide-free-wi-fi-to-airmen-in-dorms/)
-
-via Federal News Network · 2026-10-30, updated 2026-11-03
-
-The service has rolled out free, high-speed Wi-Fi to its Airmen living in dormitories at 28 initial locations.
-
-## [Ballots, charges and anger: Timeline of the Trump-California noncitizen voting fight](https://www.sacbee.com/news/politics-government/election/article317853328.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-The Trump administration’s clash with California over 20,000 alleged noncitizen voters has been fast-paced. A look at key events.
-
-## [Man who called a Trump rally ‘a cult’ on Fox News says he’s ‘a bully to the bullies’](https://www.sacbee.com/news/nation-world/national/article317856545.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-In an interview, Tom Hoyle explains why he went to a Trump rally to “rabble rouse.”
-
-## [Spooked investors sink Big Tech stocks](https://www.marketplace.org/episode/2026/10/30/spooked-investors-sink-big-tech-stocks)
-
-via Market Place · 2026-10-30
-
-Big Tech firms saw major stock market slides this week. Alphabet, Microsoft, Meta, Amazon, and Intel all dropped, following less-than-stellar earnings reports. Cracks are showing in the tech biz, and they aren’t all related to AI. Is this the beginning of an AI bubble burst? We’ll explain. Plus: How companies decide whether to offer buyouts or do traditional layoffs, what it’s like to go back to school in your 40s, and where new affordable EVs are available (hint: outside the U.S.)
-
-_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
-
-_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._
-
-_Read the stories in today’s episode:_
-
-- [Don't let this economy give you a fright](https://www.marketplace.org/story/2026/10/30/prices-are-up-savings-are-down-and-interest-rates-hold-steady)
-- [Inside Big Tech companies' big slump this week](https://www.marketplace.org/story/2026/10/30/inside-big-tech-companies-big-slump-this-week)
-- [She loved bartending. Then she decided to head back to school](https://www.marketplace.org/story/2026/10/30/she-loved-bartending-then-she-decided-to-head-back-to-school)
-- [Why companies offer buyouts versus layoffs](https://www.marketplace.org/story/2026/10/30/what-are-the-advantages-to-buyouts-versus-layoffs)
-- [To test drive affordable EVs, he took a trip to CDMX](https://www.marketplace.org/story/2026/10/30/to-test-drive-affordable-evs-he-took-a-trip-to-cdmx)
-
-## [Federal Movers & Shakers \| October 30, 2026](https://federalnewsnetwork.com/leadership-connect/2026/10/federal-movers-shakers-october-30/)
-
-via Federal News Network · 2026-10-30, updated 2026-11-03
-
-Tracking leadership changes across the federal government
-
-## [Falling response rates push Census Bureau to test new ways of collecting data](https://federalnewsnetwork.com/open-datatransparency/2026/10/falling-response-rates-push-census-bureau-to-test-new-ways-of-collecting-data/)
-
-via Federal News Network · 2026-10-30, updated 2026-11-03
-
-The bureau says automated reporting could cut the burden on respondents and deliver more timely statistics to agencies.
-
-## [As the acquisition world turns: 4 plot twists in the latest storyline](https://federalnewsnetwork.com/reporters-notebook/2026/10/as-the-acquisition-world-turns-4-plot-twists-in-the-latest-storyline/)
-
-via Federal News Network · 2026-10-30, updated 2026-11-03
-
-NIH and DHS close down long-time services, while NASA and the Navy are getting new characters ready for their debuts.
-
-## [IRS facing new lawsuit over return-to-office policy](https://federalnewsnetwork.com/unions/2026/10/irs-facing-new-lawsuit-over-return-to-office-policy/)
-
-via Federal News Network · 2026-10-30
-
-The National Treasury Employees Union contends that the IRS’s refusal to comply with an order to reinstate telework violates the Administrative Procedure Act.
-
-## [Judgment day for California’s billionaire tax looms. Prop. 40 explained, fast](https://www.sacbee.com/news/politics-government/election/article317852764.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-The nation’s eyes are on the hotly debated “billionaire tax” ballot question. Here’s a quick guide, with links to other Sacramento Bee reporting.
-
-## [Federal appeals court again rejects Trump bid to set aside 20,000 California ballots](https://www.sacbee.com/news/politics-government/capitol-alert/article317854813.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-A divided panel questioned the accuracy of the list of suspected noncitizen voters, warning that its use could disenfranchise eligible Californians days before the election.
-
-## [Not so fast: Study on rapid airport route through Natomas paused by Sacramento RT](https://www.sacbee.com/news/local/transportation/article317840092.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-The study was initially set to begin spring 2027. It must be completed within the next three years, an RT spokesperson said.
-
-## [Free kid’s meals, BOGO deals, and special spooky treats for Halloween in Sacramento](https://www.sacbee.com/food-drink/article317806216.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-Both local shops and chains are offering free and discounted treats for Halloween.
-
-## [California early voting is up 1 million over 2022. Who’s casting ballots?](https://www.sacbee.com/news/politics-government/capitol-alert/article317851008.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-Turnout could hit 61% in California, up from 50% in 2022. Late voters could help shape several close races.
-
-## [Sacramento-area turkey trot slots are filling up fast, so register soon](https://www.sacbee.com/entertainment/article317852657.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-Many Thanksgiving fun runs and turkey trots will also see registration fee hikes over the next few days.
-
-## [How to create a sensory-friendly garden at home with calming plants, soothing sounds and natural textures](https://www.sacbee.com/entertainment/living/article317854042.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-From fragrant jasmine to lamb's ear and rain chains, here's how to turn a backyard into a five-senses retreat that pollinators love, too.
-
-## [Remains in Natomas field may be missing blind man, could take ‘days to months’ to ID](https://www.sacbee.com/news/local/article317853022.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-Sacramento police were called just before 8:45 a.m. Monday for the reported find in a field in the area of East Commerce Way and Tanzanite Avenue
-
-## [Thousands expected at Yuba City Sikh Parade. Here’s what to know about safety, traffic](https://www.sacbee.com/news/local/article317854025.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-Yuba City officials shared traffic and safety plans ahead of Sunday’s Sikh Parade, with festivities scheduled to begin Friday and continue through the weekend.
-
-## [What to know about ballot issues as you vote in California’s Nov 3. election](https://www.sacbee.com/news/politics-government/election/article317838986.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-California voters face a crowded November ballot packed with questions on taxes, special elections and environmental rules.
-
-## [Woman who sued at 16 to desegregate University of South Carolina dies at 83](https://www.sacbee.com/news/nation-world/national/article317854975.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-A civil rights center director at the university said Henrie Monteith Treadwell’s courage changed the school, the state and the lives of countless people who followed her path.
-
-## [BYD reveals a flashy new feature on its upcoming luxury EV](https://electrek.co/2026/10/30/byd-reveals-flashy-new-feature-upcoming-luxury-ev/)
-
-via Electrek Feed · 2026-10-30, updated 2026-11-13
-
-![](https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-luxury-EV-suicide-doors.jpeg?quality=82&strip=all&w=1400)
-
-[BYD](https://electrek.co/guides/byd/) is moving upmarket with its new flagship EV, featuring suicide doors, a gemstone grille, and possibly solid-state batteries.
-
- [more…](https://electrek.co/2026/10/30/byd-reveals-flashy-new-feature-upcoming-luxury-ev/#more-490366)
-
-## [NC State police got tip about date rape drug use in hazing at an unnamed fraternity](https://www.sacbee.com/news/nation-world/national/article317854588.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-NC State’s Sigma Nu fraternity house in Raleigh was searched Friday as part of a criminal hazing investigation.
-
-## [Data, analytics helping CMS stop fraud before it starts](https://federalnewsnetwork.com/federal-insights/2026/10/data-analytics-helping-cms-stop-fraud-before-it-starts/)
-
-via Federal News Network · 2026-10-30
-
-CMS, GDIT and CLEAR officials say new artificial intelligence tools are driving decisions earlier in the process of whether to pay beneficiaries and providers.
-
-## [The Holiday Boundaries That Can Save Your Sanity This Season](https://www.sacbee.com/entertainment/living/article317847501.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-Learn how to handle difficult family conversations, say no without guilt and protect your time, money and peace of mind this holiday season.
-
-## [Gov. Gavin Newsom renames new state building after labor advocate Dolores Huerta](https://www.sacbee.com/news/politics-government/capitol-alert/article317851547.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-“Dolores Huerta’s legacy is inseparable from the story of California’s labor movement.”
-
-## [Mississippi man who read to kids at mom’s daycare faces child pornography charges in 2 states](https://www.sacbee.com/news/nation-world/national/article317854114.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-Homeland Security Investigations agents have identified some alleged victims in Mississippi and are asking for tips to identify others.
-
-## [Who Actually Draws Your Hairline at a Turkish Hair Transplant Clinic?](https://www.sacbee.com/contributor-content/article317853773.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-Before any graft is placed in a hair transplant, a line is drawn across the forehead. That line helps determine where the new hair begins and how natural the result may look. Although it may be drawn in minutes, its placement can have lasting effects once the transplant is performed.
-
-## [California hiker killed in ‘traumatic’ fall on Mount Whitney identified](https://www.sacbee.com/news/california/article317853182.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-Rescuers braved “snow and hazardous weather conditions” to recover the hiker’s body.
-
-## [8 new possible E. coli cases linked to suspected outbreak at SLO County farm](https://www.sacbee.com/news/california/article317853029.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-The cases are currently under investigation and have not been confirmed by laboratory testing, the Public Health Department said.
-
-## [Podcast: Rivian earnings, Waymo partners with Toyota, Ford bets on V2H for Fathom, and more](https://electrek.co/2026/10/30/podcast-rivian-earnings-waymo-partners-with-toyota-ford-bets-on-v2h-for-fathom-and-more/)
-
-via Electrek Feed · 2026-10-30, updated 2026-11-13
-
-![](https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&strip=all&w=1600)
-
-In the [Electrek Podcast](https://electrek.co/guides/electrek-podcast/), we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll discuss Rivian’s earnings, Waymo partnering with Toyota, Ford betting on V2H for the Fathom electric pickup truck, and more.
-
- [more…](https://electrek.co/2026/10/30/podcast-rivian-earnings-waymo-partners-with-toyota-ford-bets-on-v2h-for-fathom-and-more/#more-490368)
-
-## [The 2027 Purchasing Power Squeeze: Why FERS retirees are losing the math game](https://federalnewsnetwork.com/federal-insights/2026/10/the-2027-purchasing-power-squeeze-why-fers-retirees-are-losing-the-math-game/)
-
-via Federal News Network · 2026-10-30
-
-Within a few weeks, the federal community was hit with a trifecta of financial news that threatens to squeeze your purchasing power like never before.
-
-## [Union challenges Trump administration threat of ‘prison time’ for CA election workers](https://www.sacbee.com/news/politics-government/capitol-alert/article317851508.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-A lawsuit seeks to stop the Trump administration from threatening election workers with prosecution for processing ballots cast by suspected noncitizens.
-
-## [The Holidays Feel Different After Loss—How to Keep Traditions Alive](https://www.sacbee.com/entertainment/living/article317834906.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-When families grieve differently, finding comfort in holiday traditions can help ease the season.
-
-## [The Tiny Gold Beads People Are Pressing Into Their Ears and What Experts Say About Them](https://www.sacbee.com/entertainment/living/article317851738.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-11-15
-
-Ear seeding is a 3000 year old TCM practice that uses tiny beads to stimulate pressure points. Here is what experts say.
-
-## [King tides flood NC’s coastal roads, signaling dangers of sea level rise](https://www.sacbee.com/news/nation-world/national/article317851190.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-North Carolina’s coast was awash with floodwaters this week from a king tide, a cyclical weather event during which high tides reach abnormally high levels.
-
-## [OPM reminds federal employees about rights to report misconduct](https://federalnewsnetwork.com/federal-newscast/2026/10/opm-reminds-federal-employees-about-rights-to-report-misconduct/)
-
-via Federal News Network · 2026-10-30
-
-OPM is telling agencies to communicate these protections to employees and promptly address any instances of retaliation that arise.
-
-## [Tesla drops car referral rewards, now pays owners in FSD for referrals](https://electrek.co/2026/10/30/tesla-referral-program-fsd-car-rewards-dropped/)
-
-via Electrek Feed · 2026-10-30, updated 2026-11-13
-
-![](https://electrek.co/wp-content/uploads/sites/3/2019/03/Screen-Shot-2019-03-21-at-5.04.33-PM.jpg?quality=82&strip=all&w=1600)
-
-Tesla has launched a new referral program in the US that pays owners in Full Self-Driving (Supervised) instead of rewarding car sales. A referred owner gets one free month of FSD, and the referrer gets a free month or a $99 Tesla Credit if that person starts paying.
-
-At the same time, Tesla’s Refer and Earn terms no longer list any vehicle as a qualifying purchase for buyer or referrer rewards. Buy a Tesla with a friend’s code today and neither of you gets anything.
-
- [more…](https://electrek.co/2026/10/30/tesla-referral-program-fsd-car-rewards-dropped/#more-490352)
-
-## [Bluetti 288Wh Elite 30 Mini power station exclusive pre-order deals, Aventon Abound SR + LR cargo e-bikes first savings, more](https://electrek.co/2026/10/30/bluetti-288wh-elite-30-mini-power-station-aventon-abound-sr-lr-cargo-e-bikes-more/)
-
-via Electrek Feed · 2026-10-30, updated 2026-11-12
-
-![](https://electrek.co/wp-content/uploads/sites/3/2026/10/Bluetti-Aventon-Greenworks-Anker-eufy-GDs-FI.jpg?quality=82&strip=all&w=1600)
-
-We’ve got two big first-time deals leading our end-of-the-week Green Deals edition, starting with Bluetti’s pre-order launch of the [Elite 30 Mini 288Wh Portable Power Station and bundles starting from an exclusive $237](https://9to5toys.com/2026/10/29/bluetti-288wh-elite-30-mini-power-station-exclusive-pre-order-launch/). Right behind that is [Aventon’s Early Bird Black Friday Access deals](https://9to5toys.com/2026/10/29/aventon-early-black-friday-abound-sr-lr-smart-cargo-e-bikes/), which have provided the first savings on its [Abound SR and Abound LR Cargo e-bikes starting from $1,899](https://9to5toys.com/2026/10/29/aventon-early-black-friday-abound-sr-lr-smart-cargo-e-bikes/), and others from $1,799. From there, we have an off-season deal for a new low on [Greenworks’ 40V 10-inch Cordless Tiller/Cultivator kit](https://9to5toys.com/2026/10/30/greenworks-40v-10-inch-cordless-tiller-cultivator-kit/), savings on Anker’s SoloCam S340 Solar Security Camera, some Birdfy smart bird house deals, and more. There’s also the hangover deals from across this week at the bottom of the page, like yesterday’s [EcoFlow flash sale lineup](https://9to5toys.com/2026/10/29/ecoflows-halloween-flash-sale-delta-3-ultra-3072wh-power-station/) that ends tonight, [Segway’s Mileage Club member deals](https://9to5toys.com/2026/10/28/segway-mileage-club-member-sale-f3-electric-scooter/), and more.
-
-Head below for other New Green Deals we’ve found today and, of course, [_Electrek_’s best EV buying](https://electrek.co/best-electric-vehicle-prices/) and [leasing deals](https://electrek.co/best-electric-vehicle-leases/). Also, check out the new [_Electrek_ Tesla Shop for the best deals on Tesla accessories](https://electrek.co/shop/).
-
- [more…](https://electrek.co/2026/10/30/bluetti-288wh-elite-30-mini-power-station-aventon-abound-sr-lr-cargo-e-bikes-more/#more-490318)
-
-## [Sacramento Kings and Aspen Vodka partnership puts custom cocktail on order during games](https://www.sacbee.com/food-drink/article317789538.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-Feel the buzz at Sacramento Kings games with this custom cocktail available to order inside Golden 1 Center.
-
-## [Teen killed in Florida trooper chase. Deaths are up nearly 5x since policy change](https://www.sacbee.com/news/nation-world/national/article317852238.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-Almost one-third of those killed in Florida Highway Patrol pursuits were innocent parties not involved in the alleged crimes, a Miami Herald investigation found.
-
-## [Millions of coffee makers recalled for ‘serious’ burn risks. What to know in CA](https://www.sacbee.com/news/california/article317851180.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-Nearly 50 consumers have reported injuries, federal officials say.
-
-## [Toyota reveals five new lifted Woodland concepts, including the bZ electric SUV](https://electrek.co/2026/10/30/toyota-reveals-five-new-lifted-woodland-concepts-including-an-ev/)
-
-via Electrek Feed · 2026-10-30, updated 2026-11-12
-
-![](https://electrek.co/wp-content/uploads/sites/3/2026/10/Toyota-Woodland-bZ-Concept.jpeg?quality=82&strip=all&w=1400)
-
-[Toyota](https://electrek.co/guides/toyota/) introduced a new family of lifted, “adventure-ready” Woodland concepts based on the RAV4, Grand Highlander, Sienna, Crown Signia, and bZ electric SUV.
-
- [more…](https://electrek.co/2026/10/30/toyota-reveals-five-new-lifted-woodland-concepts-including-an-ev/#more-490347)
-
-## [Sacramento councilmember ‘appalled’ by apparent ICE arrest in Pocket neighborhood](https://www.sacbee.com/news/local/article317849192.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-“No one should be subjected to such treatment,” Councilmember Rick Jennings said after a reported ICE arrest, amid an increase in ICE activity across the captial.
-
-## [More accurate MRI measurements can lead to better diagnoses and fewer unnecessary procedures](https://federalnewsnetwork.com/technology-main/2026/10/more-accurate-mri-measurements-can-lead-to-better-diagnoses-and-fewer-unnecessary-procedures/)
-
-via Federal News Network · 2026-10-30
-
-"Some of these systems are very mobile, so you can push them around on a cart. So we can think about different applications for MRI," said Kathryn Keenan.
-
-## [Fort Bragg contractor posted classified military photos on social media, feds say](https://www.sacbee.com/news/nation-world/national/article317851973.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-The Department of Justice says the contractor allegedly posted national defense information by misusing his Top Secret clearance
-
-## [Every cyber threat can’t be a top priority](https://federalnewsnetwork.com/cybersecurity/2026/10/every-cyber-threat-cant-be-a-top-priority/)
-
-via Federal News Network · 2026-10-30
-
-"When it comes to cyber operations, we want to use modeling and simulation to help our cyber operators cut through the Fog of Cyberwar," said Greg Touhill.
-
-## [Mississippi man serving 7 years for forgery gets 15 more for kidnapping ex-girlfriend](https://www.sacbee.com/news/nation-world/national/article317851696.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-According to the victim’s account to police, he choked her and punched her in the face and mouth, dislocating a front tooth.
-
-## [Sacramento ranked among best in US for Halloween. Here’s where it ranked and why](https://www.sacbee.com/entertainment/article317806756.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-Weather, safety, trick-or-treating spots, and more were assessed by the personal finance site WalletHub.
-
-## [Ex-mayor admits stealing about $390K from California church where she did the books](https://www.sacbee.com/news/nation-world/national/article317850164.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-She was a signer on the church’s bank account, and for a time she was the only person with access to its digital financial records, prosecutors said.
-
-## [Here are the 55 police calls a California city won’t respond to due to budget struggles](https://www.sacbee.com/news/local/article317836675.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-The city of Live Oak’s new contract with the Sutter County Sheriff’s Office takes effect at the start of December.
-
-## [Chiefs-Bills game on Thanksgiving night will include a special halftime concert](https://www.sacbee.com/entertainment/article317850836.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-Fans at that Chiefs-Bills game also will receive a special giveaway, Buffalo announced Friday.
-
-## [Markets have rewarded retirement investors for several years, which can make risk hard to judge](https://federalnewsnetwork.com/tsp/2026/10/markets-have-rewarded-retirement-investors-for-several-years-which-can-make-risk-hard-to-judge/)
-
-via Federal News Network · 2026-10-30
-
-"What we see is the purchasing power of the G fund and the F fund decline over time," said Arthur Stein.
-
-## [Hyundai launches the new IONIQ 6 in the UK with up to 422 miles of range, starting at $45K](https://electrek.co/2026/10/30/hyundai-launches-new-ioniq-6-uk-with-422-miles-range/)
-
-via Electrek Feed · 2026-10-30, updated 2026-11-12
-
-![](https://electrek.co/wp-content/uploads/sites/3/2026/10/Hyundai-new-IONIQ-6-price-UK.jpeg?quality=82&strip=all&w=1400)
-
-The new [Hyundai IONIQ 6](https://electrek.co/guides/hyundai-ioniq-6/) is now on sale in the UK with an impressive range of up to 422 miles, starting at about $45,000.
-
- [more…](https://electrek.co/2026/10/30/hyundai-launches-new-ioniq-6-uk-with-422-miles-range/#more-490313)
-
-## [KET CEO Shae Hopkins dies at 69](https://current.org/2026/10/ket-ceo-shae-hopkins-dies-at-69/?utm_source=rss&utm_medium=rss&utm_campaign=ket-ceo-shae-hopkins-dies-at-69)
-
-via Current, News for Public Media Orgs · 2026-10-30, updated 2026-11-06
-
-“Hopkins was admired and beloved by her coworkers, board members, volunteers, and colleagues throughout the public broadcasting system,” KET said in a news release.
-
-The post [KET CEO Shae Hopkins dies at 69](https://current.org/2026/10/ket-ceo-shae-hopkins-dies-at-69/) appeared first on [Current](https://current.org).
-
-## [After canceling rally, Trump reschedules Kansas visit amid close Senate race](https://www.sacbee.com/news/nation-world/national/article317849447.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-The rescheduled trip would mark Trump’s second visit to the state this month as Republicans try to rally support for U.S. Sen. Roger Marshall.
-
-## [Kentucky officer lost his arm in traffic-stop altercation. It’s a federal case now, and trial begins Nov. 16](https://www.sacbee.com/news/nation-world/national/article317849844.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-The suspect has prior guilty pleas for assaulting a police officer and fleeing police, according to court records.
-
-## [7 teens opened fire on 4 homes in retaliation, police say. A 4-year-old North Carolina boy was killed](https://www.sacbee.com/news/nation-world/national/article317849695.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-Seven teens are now charged with murder, police say.
-
-## [Pedestrian killed in south Sacramento hit-and-run after being struck by 2 vehicles](https://www.sacbee.com/news/local/crime/article317849538.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-The pedestrian was struck just after 12:30 a.m. on Florin Road and 55th Street, according to the California Highway Patrol.
-
-## [Volkswagen hits pause on the Golf EV as it faces an ‘urgent need for action’](https://electrek.co/2026/10/30/volkswagen-pauses-golf-ev-faces-urgent-need-for-action/)
-
-via Electrek Feed · 2026-10-30, updated 2026-11-12
-
-![](https://electrek.co/wp-content/uploads/sites/3/2024/03/Volkswagen-electric-ID-GTI-2.jpeg?quality=82&strip=all&w=1400)
-
-[Volkswagen](https://electrek.co/guides/volkswagen/) has put the electric Golf on hold for now as it faces growing pressure to cut costs.
-
- [more…](https://electrek.co/2026/10/30/volkswagen-pauses-golf-ev-faces-urgent-need-for-action/#more-490303)
-
-## [Haunting the Big Easy](https://www.marketplace.org/episode/2026/10/30/haunting-the-big-easy)
-
-via Market Place Morning Report · 2026-10-30
-
-Halloween is almost here, meaning plenty of people are on the hunt for a scare. And there is, in fact, an entire sector of the economy that revolves around providing spooks, frights, and horrors. For the latest installment of our ["What's That Like?"](https://www.marketplace.org/whats-that-like) series, we hear from Kalila Smith, owner of Haunted History Tours in New Orleans, Louisiana. Listen ... if you dare. But first, we examine what it costs to employ someone these days.
-
-_Every story has an economic angle. Want some in your inbox?_ _[Subscribe to our daily or weekly newsletter](https://www.marketplace.org/newsletters)_ _._
-
-_Marketplace Morning Report is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._
-
-Stories from this podcast:
-
-- [This measure of labor costs can signal when inflation's on the way](https://www.marketplace.org/story/2026/10/30/the-cost-of-employing-a-worker-rose-8-in-q3-whats-that-mean-for-inflation)
-- [Tales from a ghost tour company in the Big Easy](https://www.marketplace.org/story/2026/10/30/the-halloween-economy-a-new-orleans-ghost-tour-company)
-
-## [How to Use ChatGPT's Try On Button to Preview Outfits on Your Body Before Buying](https://www.sacbee.com/entertainment/living/article317833320.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-ChatGPT's new try on button allows users to preview outfits on their body before making a purchase decision.
-
-## [Waymo picks Toyota bZ4X as its next robotaxi, starting in Japan in 2027](https://electrek.co/2026/10/30/waymo-toyota-bz4x-robotaxi-japan-2027/)
-
-via Electrek Feed · 2026-10-30, updated 2026-11-12
-
-![](https://electrek.co/wp-content/uploads/sites/3/2026/10/Waymo-Toyota-Bz4x.webp?w=1600)
-
-Waymo is adding the Toyota bZ4X to its robotaxi lineup. Toyota will build a custom version of the electric SUV with the Waymo Driver integrated right on the line in Japan, and a test fleet will start operating there in 2027.
-
-It’s the first actual vehicle to come out of the partnership the two companies signed last year. And it gives Waymo a Japanese-built car for its Tokyo launch, with the UK and other markets to follow.
-
- [more…](https://electrek.co/2026/10/30/waymo-toyota-bz4x-robotaxi-japan-2027/#more-490301)
-
-## [Carolyn Bailey Lewis, ground-breaking station leader and educator, dies at 78](https://current.org/2026/10/carolyn-bailey-lewis-ground-breaking-station-leader-and-educator-dies-at-78/?utm_source=rss&utm_medium=rss&utm_campaign=carolyn-bailey-lewis-ground-breaking-station-leader-and-educator-dies-at-78)
-
-via Current, News for Public Media Orgs · 2026-10-30, updated 2026-11-06
-
-“She brought an unwavering passion for public media, along with a wealth of knowledge and experience,” said Steve Skidmore, interim GM at WOUB in Athens, Ohio.
-
-The post [Carolyn Bailey Lewis, ground-breaking station leader and educator, dies at 78](https://current.org/2026/10/carolyn-bailey-lewis-ground-breaking-station-leader-and-educator-dies-at-78/) appeared first on [Current](https://current.org).
-
-## [California trick-or-treaters may see Halloween showers. Here’s when and where](https://www.sacbee.com/news/weather-news/article317839114.html)
-
-via Sacramento Bee · 2026-10-30
-
-Scattered showers are expected to fall during prime trick-or-treating hours in places across the state. Here’s what to expect.
-
-## [Cockroaches and rodent droppings were found at this Land Park seafood restaurant](https://www.sacbee.com/food-drink/restaurants/article317833037.html)
-
-via Sacramento Bee · 2026-10-30
-
-Sacramento County Health Inspectors gave red placards to three eateries and then cited 15 others for health food violations.
-
-## [Folsom’s water treatment tanks leaked for months. City approves $918K to replace them](https://www.sacbee.com/news/local/article317837879.html)
-
-via Sacramento Bee · 2026-10-30
-
-The tanks exceeded their 15-year lifespan. Could Folsom have acted sooner?
-
-## [Dine with the dearly departed at these Sacramento Día de los Muertos dinners](https://www.sacbee.com/food-drink/restaurants/article317806602.html)
-
-via Sacramento Bee · 2026-10-30
-
-From cocktail mixers to prix-fixe dinners, Sacramento has multiple options to celebrate and commemorate Día de los Muertos
-
-## [Wheel-e Podcast: New Amflow, Trek e-bikes, ALSO runs out of charge, more](https://electrek.co/2026/10/30/wheel-e-podcast-new-amflow-trek-e-bikes-also-runs-out-of-charge-more/)
-
-via Electrek Feed · 2026-10-30, updated 2026-11-12
-
-![](https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&strip=all&w=1600)
-
-This week on _Electrek_’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes new e-bikes from Amflow and Trek, a new motor from Bosch, an interesting look at what a low charge does to an ALSO TM-B e-bike, a new electric motorcycle with gears, Jasion’s not pokey eMinibike, LiveWire in potential trouble, and more.
-
- [more…](https://electrek.co/2026/10/30/wheel-e-podcast-new-amflow-trek-e-bikes-also-runs-out-of-charge-more/#more-490270)
-
-## [Jasion Poki review: The Electric Minibike that packs heavy-duty fun](https://electrek.co/2026/10/30/jasion-poki-review-the-electric-minibike-that-packs-heavy-duty-fun/)
-
-via Electrek Feed · 2026-10-30, updated 2026-11-12
-
-![](https://electrek.co/wp-content/uploads/sites/3/2026/10/image_a598cf.png?w=964)
-
-In our transportation reporting, we rarely come across something as fun as today’s review of the [Jasion Poki.](https://jasionbike.sjv.io/n4xNg9)
-
-The Poki is a severely overpowered electric minibike that looks like it came from yesteryear. If the power isn’t enough, it also packs some cool tricks, and we’re not (just) talking about wheelies this time.
-
-[more…](https://electrek.co/2026/10/30/jasion-poki-review-the-electric-minibike-that-packs-heavy-duty-fun/#more-489874)
-
-## [Paramilitary Forces, Concentration Camps, and the Midterms: Timothy Snyder on Fighting Fascism](https://www.latinousa.org/2026/10/30/paramilitary-forces-concentration-camps-and-the-midterms-timothy-snyder-on-fighting-fascism/)
-
-via Latino USA · 2026-10-30, updated 2026-11-20
-
-We are days away from what many consider a very consequential US midterm election in terms of whether the country...
-
-The post [Paramilitary Forces, Concentration Camps, and the Midterms: Timothy Snyder on Fighting Fascism](https://www.latinousa.org/2026/10/30/paramilitary-forces-concentration-camps-and-the-midterms-timothy-snyder-on-fighting-fascism/) appeared first on [Latino USA](https://www.latinousa.org).
-
-## [Dolores Huerta: Labor Rights Leader, Dancing Queen and Humble Diva](https://www.latinousa.org/2026/10/30/dolores-huerta-labor-rights-leader-dancing-queen-and-humble-diva/)
-
-via Latino USA · 2026-10-30, updated 2026-11-20
-
-Dolores Huerta has died at age 96. She was a powerful leader who shaped the labor rights movement and stayed...
-
-The post [Dolores Huerta: Labor Rights Leader, Dancing Queen and Humble Diva](https://www.latinousa.org/2026/10/30/dolores-huerta-labor-rights-leader-dancing-queen-and-humble-diva/) appeared first on [Latino USA](https://www.latinousa.org).
-
-## [As diesel prices spike, some in California agriculture urge Newsom to follow Trump](https://www.sacbee.com/news/california/article317787738.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-California farmers, ranchers and their advocates are debating the value of red-dyed diesel as they seek state relief for surging fuel costs.
-
-## [Jane Kim’s insurance plan is ‘bold.’ Experts weigh in on if it could work](https://www.sacbee.com/news/politics-government/capitol-alert/article317773608.html)
-
-via Sacramento Bee · 2026-10-30
-
-Jane Kim is running to shake up the status quo as it relates to wildfire risk.
-
-## [It’s tarantula season in California. Here’s what to do if you spot a huge spider](https://www.sacbee.com/news/california/article317799005.html)
-
-via Sacramento Bee · 2026-10-30
-
-The giant hairy arachnids emerge from their burrows in the fall and are on the hunt for mates.
-
-## [The link between immigration raids and the housing shortage](https://www.marketplace.org/episode/2026/10/30/the-link-between-immigration-raids-and-the-housing-shortage)
-
-via Market Place Morning Report · 2026-10-30
-
-Homebuilders constructed 19,000 fewer homes in 2024 because of the lack of skilled labor, according to a construction industry estimate from last year. A big factor in the labor shortage is the federal government's immigration crackdown, which has led to the arrest of many construction workers, often at job sites. This morning, we hear from some families and businesses impacted. Also: weighing jobs and tax revenue versus pollution concerns near proposed data centers.
-
-_Every story has an economic angle. Want some in your inbox?_ _[Subscribe to our daily or weekly newsletter](https://www.marketplace.org/newsletters)_ _._
-
-_Marketplace Morning Report is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._
-
-Read the stories from this episode:
-
-- [Deportations are disrupting Texas construction jobs and family finances](https://www.marketplace.org/story/2026/10/29/ice-targets-texas-construction-workers-homebuilders)
-- [Wary of data center health impacts, some rural Alabamians are fighting back](https://www.marketplace.org/story/2026/10/29/rural-alabama-braces-for-impact-of-new-data-center)
-
-## [5 jail officers charged with arranging fight between 2 inmates in North Carolina](https://www.sacbee.com/news/nation-world/national/article317844151.html)
-
-via Sacramento Bee · 2026-10-30
-
-Here’s what we know so far about the allegations.
-
-## [2 men took juveniles target shooting, then shot at them, Washington court documents say](https://www.sacbee.com/news/nation-world/national/article317844095.html)
-
-via Sacramento Bee · 2026-10-30
-
-One juvenile grew nervous on the way to a target-shooting spot, court docs say. Two men now face attempted murder charges.
-
-## [Experts to lawmakers: Limits on utility liability may ‘seriously threaten’ CA insurance](https://www.sacbee.com/news/politics-government/capitol-alert/article317836355.html)
-
-via Sacramento Bee · 2026-10-30, updated 2026-10-31
-
-“We’re in a very shaky, shaky place right now.”
-
-## [California police department fired 6 officers and suspended 52 this year, auditor’s report shows](https://www.sacbee.com/news/california/article317844288.html)
-
-via Sacramento Bee · 2026-10-30
-
-The report also covers a fatal police shooting of a dog on New Year’s Day.
-
-## [More coastal flooding is coming to California. Here are 3 more king tide dates](https://www.sacbee.com/news/nation-world/national/article317844224.html)
-
-via Sacramento Bee · 2026-10-30
-
-Coastal flood warnings are up from San Diego to the Bay Area. Here’s why California’s highest tides of the year are running higher than expected.
-
-## [The two most interesting risks to Anthropic](https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic)
-
-via NPR Economic · 2026-10-30, updated 2026-11-05
-
-Anthropic gave a 94-page list of risk factors in its S-1 this week. Two of them stood out.
-
-## [Why artificial intelligence can’t replace your financial planner](https://www.sdstandardnow.com/home/why-artificial-intelligence-cant-replace-your-financial-planner)
-
-via South Dakota Standard · 2026-10-30, updated 2026-11-19
-
-What is a financial planner worth when anyone can get a plan from ChatGPT? A student asked this question during a recent video call with the Wealth Management Society at Brigham Young University–Idaho. Here is my answer.
-
-AI can already read financial documents, run a tax analysis, and estimate how long retirement savings may last. It is getting good at supplying answers that can help build a sound technical plan. I expect more people to arrive at a planner’s office having done much of that work themselves, so the conversation can start at a higher level.
-
-Yet the logical answers AI gives are of limited value in making money decisions, which are seldom made on logic alone. Stanford marketing professor Baba Shiv has suggested that [90 to 95 percent of our decisions are shaped by emotion](https://us.list-manage.com/iiD817U_0PS?e=f6092c9c7b&c2id=bb5d24e9334e337e2f8dc8f2d6061031) without our being aware of it. If money decisions were logical, nobody would overspend, everyone would live within a budget, and every worker would be saving for retirement.
-
-People who are stuck on a money decision usually do not need another answer. They need someone to listen long enough for them to reach their own answer. In my early years as a financial planner, I was the advice and answer man. I couldn’t see why anyone would turn down my logical and correct advice. I learned, painfully, to shut up until it was time to give advice, and then to ask permission first.
-
-For example, a client in my financial therapy practice came in for a recent session stuck on a decision between three options I will call A, B, and C. Almost immediately, I thought B was the answer. Instead of saying so, I got curious and asked questions, and we spent the whole hour looking at what each option meant to her. At the end she said, “I think the answer is B for me.”
-
-I could have given her that answer right away, which is what a chatbot might have done. In my experience, though, people are far more likely to act on an answer they reach themselves than on one someone hands them.
-
-My intent is not to discourage anyone from using AI with their money. I use it to manage my calendar and email and to analyze my financial documents, and I’m often amazed at what it finds.
-
-Here are my suggestions for using AI with your finances:
-
-- If you are researching a financial decision, use AI as a research tool. I do this before medical appointments. I arrive better informed, and my doctor and I can have a more useful conversation. However, I am not naive enough to act on what AI tells me without first consulting a medical professional.
-
-- If you are about to make a large or hard-to-reverse decision, such as rolling over a 401(k) or deciding how much you can safely spend in retirement, have a professional look at your situation first. AI offers [confident, specific answers that carry no accountability](https://us.list-manage.com/23fEBrwY6P9?e=f6092c9c7b&c2id=bb5d24e9334e337e2f8dc8f2d6061031), and it can be right most of the time and still be wrong on a detail that is costly to miss.
-
-- If you already know what you should do and are not doing it, an AI answer is unlikely to help. Look for a planner or financial therapist who listens and asks questions first, and who asks permission before giving advice.
-
-
-AI is an evolving tool, not a magic source of instant answers. I strongly recommend that you let AI help do the research. Then bring that research to a professional advisor who will help you find solutions and strategies that are the best fit for you.
-
-_Rick Kahler, CFP®, CFT™, is a pioneer in financial therapy and a 2026 inductee into the Financial Therapy Hall of Fame. He is the founder of The Financial Therapy Podcast and Kahler Financial Group, and co-author of “Coupleship Inc.” and “The Financial Wisdom of Ebenezer Scrooge._
-
-_The information provided is for educational purposes only and should not be construed as investment advice. The views expressed are subject to change based on market or economic conditions. Past performance is not indicative of future results. Any reference to potential benefits is illustrative and may not apply to your individual circumstances. You should consult with your financial adviser before making any investment decisions. KFG, LLC is an SEC-registered Investment Adviser._
-
-_Photo: public domain,_ [_wikimedia commons_](https://commons.wikimedia.org/wiki/File:Dall-e_3_(jan_%2724)_artificial_intelligence_icon.png)
-
-**_The South Dakota Standard is offered freely and is supported by our readers. We have no political or commercial sponsorship. If you'd like to help us continue our mission to advance independent political and social commentary, you can do so by clicking on the "Donate" button that's on the sidebar to your right._**
-
-## [Political pressure could complicate Anthropic's IPO](https://www.marketplace.org/episode/2026/10/30/political-pressure-could-complicate-anthropics-ipo)
-
-via Market Place Tech Report · 2026-10-30
-
-Anthropic formally filed to go public this week and about a third of its paperwork is dedicated to potential risks — including political ones. We'll get into it on today's “Tech Bytes: Week in Review.”
-
-Plus, it’s a big week for big tech earnings: Microsoft pleased investors with a more restrained approach to AI spending, but still announced it’s offering buyouts to 60,000 employees. Meanwhile, Google’s parent company Alphabet took a plunge on Wall Street.
-
-Here to help us unpack this week’s tech news is Maria Curi, tech policy reporter at Axios.
-
-_Check out_ _[our YouTube page](https://www.youtube.com/playlist?list=PLyqnPeyY0m3VT2P16OF-oyD5GYGUEYGQr)_ _to watch more episodes of “Tech Bytes.”_
-
-_More on this:_
-
-[Anthropic warns investors of AI’s ‘existential risk to humanity’ in IPO prospectus, reports say](https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html) — from CNBC
-
-[Microsoft is offering buyouts to around 60,000 employees. Read the memo](https://www.businessinsider.com/microsoft-is-offering-buyouts-read-the-memo-2026-10) — from Business Insider
-
-[Meta eyes record $97.5 billion equity raise to fund AI expansion](https://www.reuters.com/legal/transactional/meta-launches-35-billion-stock-offering-fund-ai-expansion-2026-10-26/) — from Reuters
-
-[Scoop: FTC demands Anthropic execs testify in probe](https://www.axios.com/2026/10/26/ftc-ai-safety-probe-anthropic-openai) — from Axios
-
-## [Harley-Davidson’s electric motorcycle brand LiveWire warns it may not survive](https://electrek.co/2026/10/30/harley-davidsons-electric-motorcycle-brand-livewire-warns-it-may-not-survive/)
-
-via Electrek Feed · 2026-10-30, updated 2026-11-12
-
-![](https://electrek.co/wp-content/uploads/sites/3/2024/08/livewire-header-image.jpg?quality=82&strip=all&w=1600)
-
-Harley-Davidson-born electric motorcycle maker [LiveWire](https://livewire.com) has issued a troubling warning about its financial future, announcing that it has substantial doubt about its ability to continue operating as a going concern. The news sent LiveWire’s stock plunging more than 40% on Thursday morning as the company withdrew its full-year financial guidance.
-
- [more…](https://electrek.co/2026/10/30/harley-davidsons-electric-motorcycle-brand-livewire-warns-it-may-not-survive/#more-490254)
-
-## [Someone ran Rivian’s pedal-by-wire e-bike out of battery and things got weird](https://electrek.co/2026/10/29/someone-ran-rivians-pedal-by-wire-e-bike-out-of-battery-and-things-got-weird/)
-
-via Electrek Feed · 2026-10-30, updated 2026-11-12
-
-![](https://electrek.co/wp-content/uploads/sites/3/2026/10/also-ebike-low-battery-head.jpg?quality=82&strip=all&w=1600)
-
-The ALSO TM-B is one of the most technologically interesting new e-bikes to hit the road in years, largely because it does away with one of the most fundamental parts of a bicycle: the mechanical connection between the pedals and rear wheel. With only copper wires connecting the pedals to the rear wheel, the TM-B is one of the most revolutionary new e-bikes in years.
-
-But that raises an obvious question. What happens when the battery dies?
-
- [more…](https://electrek.co/2026/10/29/someone-ran-rivians-pedal-by-wire-e-bike-out-of-battery-and-things-got-weird/#more-490217)
-
-## [Man convicted of rape, kidnapping in 2024 attack at Sutter’s Fort in Sacramento](https://www.sacbee.com/news/local/crime/article317842578.html)
-
-via Sacramento Bee · 2026-10-30
-
-The defendant kidnapped the victim and drove her to Sutter’s Fort in Sacramento, prosecutors said.
-
-## [CHP issues endangered missing advisory for Vallejo woman, 36, in Sacramento region](https://www.sacbee.com/news/local/article317842599.html)
-
-via Sacramento Bee · 2026-10-30
-
-Serena Walling, 36, was last seen in Vallejo nearly two weeks ago. The CHP issued an endangered missing advisory across five Northern California counties.
-
-## [Bird flu detected in two Sacramento County backyard flocks, health officials say](https://www.sacbee.com/news/local/article317841791.html)
-
-via Sacramento Bee · 2026-10-30
-
-Highly pathogenic avian influenza was confirmed in two different backyard poultry flocks earlier this month, Sacramento County health officials said.
-
-## [Billionaires flood $50M in past week to try to sink Prop. 40, California’s wealth tax](https://www.sacbee.com/news/politics-government/capitol-alert/article317789377.html)
-
-via Sacramento Bee · 2026-10-30
-
-“The billionaires are going to win this battle, but this war is just starting.”
-
-## [Matsui is ‘definitely concerned’ about Vang, analysts say. Could she lose the seat?](https://www.sacbee.com/news/politics-government/capitol-alert/article317841392.html)
-
-via Sacramento Bee · 2026-10-30
-
-“I don’t know if they understood the seriousness of what was happening around the country,” said one political strategist.
-
-## [US Justice Department subpoenaed LA election officials last week. More may follow](https://www.sacbee.com/news/politics-government/capitol-alert/article317840425.html)
-
-via Sacramento Bee · 2026-10-30
-
-Two LA County employees summoned to a grand jury the morning after the midterm election. Bloomberg Law reported more subpoenas are coming.
 

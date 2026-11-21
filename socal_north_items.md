@@ -1,14 +1,102 @@
 ---
 title: "SoCal North"
 description: "News and posts related to the greater North Los Angeles and adjacent counties.\n"
-pubDate: Fri, 20 Nov 2026 13:00:00 GMT
+pubDate: Sat, 21 Nov 2026 06:26:55 GMT
 aggregateOf: "socal_north.md"
-dateModified: Fri, 20 Nov 2026 22:29:37 GMT
-itemCount: 300
-generator: antenna/0.1.0
+dateModified: Sat, 21 Nov 2026 14:31:14 GMT
+itemCount: 298
+generator: antenna/0.1.1
 ---
 
 # SoCal North
+
+## [ICE Agents Smash Car Windows, Pepper Spray Community Patroller in Santa Clarita](https://lataco.com/ice-smash-windows-pepper-spray-santa-clarita)
+
+via L. A. Taco · 2026-11-21
+
+Community patrollers at a sheriff's station offered a ride to a man leaving the station. Video shared with L.A. TACO shows that ICE agents surrounded their vehicle and threatened various people at the parking lot.
+
+The post [ICE Agents Smash Car Windows, Pepper Spray Community Patroller in Santa Clarita](https://lataco.com/ice-smash-windows-pepper-spray-santa-clarita) appeared first on [L.A. TACO](https://lataco.com).
+
+## [In coastal Orange County, a flood of anxiety ahead of November king tides](https://laist.com/news/climate-environment/orange-county-coastal-flooding-king-tides)
+
+via The LAist · 2026-11-21
+
+The sea level is expected to reach close to 9 feet above average, likely flooding low-lying areas around Huntington Harbour in Orange County.
+
+## [Even Orange County couldn’t escape the ‘bluenami’ this election season](https://laist.com/news/politics/voter-guides/2026-election-california-general-orange-county-bluenami-results)
+
+via The LAist · 2026-11-21
+
+Even Republican incumbents in the state legislature weren’t safe.
+
+## [Two proposed charter changes would roll back LA mayor's power](https://laist.com/news/politics/two-proposed-charter-changes-would-roll-back-la-mayors-power)
+
+via The LAist · 2026-11-21
+
+The changes would allow the Los Angeles City Council to override executive directives and remove general managers with a two-thirds vote.
+
+## [After mistrial, jury convicts man of starting the deadly 2025 Palisades Fire](https://laist.com/news/criminal-justice/after-mistrial-jury-convicts-man-of-starting-the-deadly-2025-palisades-fire)
+
+via The LAist · 2026-11-20
+
+His first federal case earlier this year ended in a mistrial.
+
+## [LA County study weighs keeping, shrinking or closing Whiteman Airport](https://laist.com/news/transportation/whiteman-airport-study-closure-la-county)
+
+via The LAist · 2026-11-20
+
+The study did not recommend a specific approach, but said safety improvements are needed now and that operating the airport the way it has been is losing money.
+
+## [CSU faculty could soon go on strike](https://laist.com/news/education/csu-faculty-could-soon-go-on-strike)
+
+via The LAist · 2026-11-20, updated 2026-11-21
+
+Around 97% of California Faculty Association members vote to authorize a strike.
+
+## [LA used to have 14 toilets on sidewalks across the city, now it's down to four. What happened?](https://laist.com/news/politics/la-used-to-have-14-toilets-on-sidewalks-across-the-city-now-its-down-to-four-what-happened)
+
+via The LAist · 2026-11-20
+
+City Councilmember Ysabel Jurado and Mayor-elect Nithya Raman have introduced a motion calling on the city to fix the problem.
+
+## [Our Nine Favorite Punk Movie Moments Filmed in L.A., Ranked](https://lataco.com/punk-movie-scenes-filmed-in-la)
+
+via L. A. Taco · 2026-11-20, updated 2026-11-21
+
+Spoilers ahead! From South L.A. to the Valley, from Downtown to the Westside, here's our guide to the locations of nine punk movie moments filmed in L.A.
+
+The post [Our Nine Favorite Punk Movie Moments Filmed in L.A., Ranked](https://lataco.com/punk-movie-scenes-filmed-in-la) appeared first on [L.A. TACO](https://lataco.com).
+
+## [California budget analyst warns stock market crash poses risk of ballooning deficit](https://laist.com/news/politics/california-budget-analyst-warns-stock-market-crash-poses-risk-of-ballooning-deficit)
+
+via The LAist · 2026-11-20
+
+The state faces a projected $2 billion shortfall next year, but if the Nvidia slide signals a broader economic downturn to come, the effects would be far greater.
+
+## [Experts Urge Travelers to Get a Flu Shot Before Thanksgiving](https://sanfernandosun.com/2026/11/20/experts-urge-travelers-to-get-a-flu-shot-before-thanksgiving/)
+
+via San Fernando Sun · 2026-11-20
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/500_jonathan-weiner-md-cedars-sinai.jpg?fit=285%2C400&ssl=1)
+
+By Marni Usheroff Cedars-Sinai With flu activity increasing early this year in the U.S., particularly in the West and South, physicians are urging holiday travelers to get vaccinated before their \[…\]
+
+The post [Experts Urge Travelers to Get a Flu Shot Before Thanksgiving](https://sanfernandosun.com/2026/11/20/experts-urge-travelers-to-get-a-flu-shot-before-thanksgiving/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Experience An Ethiopian Coffee Ceremony On Pico and a Sexy Space For Ghanaian-Japanese Fusion On Sunset](https://lataco.com/ethiopian-coffee-ceremony)
+
+via L. A. Taco · 2026-11-20, updated 2026-11-21
+
+The beans are pan-roasted in the kitchen and brewed in a traditional clay jebena before being served to you and your friends.
+
+The post [Experience An Ethiopian Coffee Ceremony On Pico and a Sexy Space For Ghanaian-Japanese Fusion On Sunset](https://lataco.com/ethiopian-coffee-ceremony) appeared first on [L.A. TACO](https://lataco.com).
+
+## [A quake with a 4.2 magnitude struck near Commerce, rattling LA overnight](https://laist.com/news/climate-environment/earthquake-commerce-4-2)
+
+via The LAist · 2026-11-20
+
+We have the details on the shaking you just felt
 
 ## [Suspects charged in brazen train heist ring that netted $22 million in cargo from major retailers](https://laist.com/news/criminal-justice/suspects-charged-in-brazen-train-heist-ring-that-netted-22-million-in-cargo-from-major-retailers)
 
@@ -42,7 +130,7 @@ The state gave $29 million to county registrars to speed up ballot-counting this
 
 ## [ICE Watch: Remembering the Summer ICE Took the Parents of Two San Diego Teens](https://lataco.com/ice-watch-san-diego-parents-taken)
 
-via L. A. Taco · 2026-11-20
+via L. A. Taco · 2026-11-20, updated 2026-11-21
 
 "I hope every family stays together, and I hope none of this happens to you guys how this happened to me,” said Kevin Robles, a U.S. Citizen who was 17 years old at the time.
 
@@ -50,7 +138,7 @@ The post [ICE Watch: Remembering the Summer ICE Took the Parents of Two San Dieg
 
 ## [Go Metro to the LA Auto Show and the best fall events in Los Angeles: November 20-22](https://thesource.metro.net/go-metro-to-the-la-auto-show-and-the-best-fall-events-in-los-angeles-november-20-22/)
 
-via The Source MTA blog · 2026-11-20
+via The Source MTA blog · 2026-11-20, updated 2026-11-21
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/2G3A3068-copy-scaled.jpg?fit=1200%2C800&ssl=1)The LA Auto Show rolls into the Convention Center, USC hosts Maryland at the Coliseum, and women’s college hoops makes its Intuit Dome debut. The Lakers and Chargers are home too, and Long Beach keeps its monthly party going on The Promenade. Skip the parking hunt and let Metro drive. Here’s what’s happening. All Weekend \[…\]
 
@@ -88,7 +176,7 @@ California’s ban against public funding for most state and local candidates ru
 
 ## [These Rare Blue Corn Tamales Sell Out Every Saturday in Sherman Oaks](https://lataco.com/true-blue-corn-tamales)
 
-via L. A. Taco · 2026-11-19, updated 2026-11-20
+via L. A. Taco · 2026-11-19, updated 2026-11-21
 
 Afro-Mexicana tamal vendor Jasmine Ledesma's newest side hustle brings her generational recipes to a Rite Aid parking lot. Demand is so high that even scammers are targeting their sales.
 
@@ -140,7 +228,7 @@ Students were injured, doxxed, suspended and some tried for misdemeanors for the
 
 ## [Llevando el espíritu de “Si Se Puede”: Miles rinden homenaje a Dolores Huerta](https://sanfernandosun.com/2026/11/18/llevando-el-espiritu-de-si-se-puede-miles-rinden-homenaje-a-dolores-huerta/)
 
-via San Fernando Sun · 2026-11-19
+via San Fernando Sun · 2026-11-19, updated 2026-11-20
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/AP26320811633908-1.jpg?fit=1024%2C683&ssl=1)
 
@@ -150,7 +238,7 @@ The post [Llevando el espíritu de “Si Se Puede”: Miles rinden homenaje a Do
 
 ## [Demanda impugna el plan de Newsom para conmutar las 548 sentencias de muerte en California](https://sanfernandosun.com/2026/11/18/demanda-impugna-el-plan-de-newsom-para-conmutar-las-548-sentencias-de-muerte-en-california/)
 
-via San Fernando Sun · 2026-11-19
+via San Fernando Sun · 2026-11-19, updated 2026-11-20
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/6099018590715768017_107ca394-a589-4eff-a760-08895cdb8f3e-e1795064149101.png?fit=1024%2C981&ssl=1)
 
@@ -160,7 +248,7 @@ The post [Demanda impugna el plan de Newsom para conmutar las 548 sentencias de 
 
 ## [Horóscopo](https://sanfernandosun.com/2026/11/18/horoscopo-294/)
 
-via San Fernando Sun · 2026-11-19
+via San Fernando Sun · 2026-11-19, updated 2026-11-20
 
 ARIES (21 de mar – 19 de abr) Puedes querer estar en todas partes al mismo tiempo cuando lleguen las invitaciones sociales, Aries. Pero esta semana tendrás que elegir tus \[…\]
 
@@ -168,7 +256,7 @@ The post [Horóscopo](https://sanfernandosun.com/2026/11/18/horoscopo-294/) appe
 
 ## [EVENTOS Locales – Semana de 19 de noviembre, 2026](https://sanfernandosun.com/2026/11/18/eventos-locales-semana-de-19-de-noviembre-2026/)
 
-via San Fernando Sun · 2026-11-19
+via San Fernando Sun · 2026-11-19, updated 2026-11-20
 
 Viernes, 20 de noviembre Nuestra Tercera Campaña de Pavos de Acción de Gracias Llega a Todos los Vecindarios del Distrito 6 Ignite the Light of Hope 13501 Osborne St. Lakeview \[…\]
 
@@ -176,7 +264,7 @@ The post [EVENTOS Locales – Semana de  19 de noviembre, 2026](https://sanfern
 
 ## [Quinto año de campaña de MADD para iluminar puntos de referencia en honor a víctimas y sobrevivientes](https://sanfernandosun.com/2026/11/18/quinto-ano-de-campana-de-madd-para-iluminar-puntos-de-referencia-en-honor-a-victimas-y-sobrevivientes/)
 
-via San Fernando Sun · 2026-11-19
+via San Fernando Sun · 2026-11-19, updated 2026-11-20
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Dodger-Stadium-5.jpg?fit=1024%2C767&ssl=1)
 
@@ -186,7 +274,7 @@ The post [Quinto año de campaña de MADD para iluminar puntos de referencia en 
 
 ## [Conductor acusado en choque fatal de Metro en NoHo que mató a tres vendedoras ambulantes](https://sanfernandosun.com/2026/11/18/conductor-acusado-en-choque-fatal-de-metro-en-noho-que-mato-a-tres-vendedoras-ambulantes/)
 
-via San Fernando Sun · 2026-11-19
+via San Fernando Sun · 2026-11-19, updated 2026-11-20
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/NoHo-Crash-01-e1795063505384.jpeg?fit=1024%2C768&ssl=1)
 
@@ -196,7 +284,7 @@ The post [Conductor acusado en choque fatal de Metro en NoHo que mató a tres ve
 
 ## [Vuelve el Festival de Baile de Calle de Valley con talleres de reconocidos artistas](https://sanfernandosun.com/2026/11/18/vuelve-el-festival-de-baile-de-calle-de-valley-con-talleres-de-reconocidos-artistas/)
 
-via San Fernando Sun · 2026-11-19
+via San Fernando Sun · 2026-11-19, updated 2026-11-20
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/%40BY.AUSTINLUC-11-scaled.jpg?fit=768%2C1024&ssl=1)
 
@@ -206,7 +294,7 @@ The post [Vuelve el Festival de Baile de Calle de Valley con talleres de reconoc
 
 ## [El Consejo Municipal de Los Angeles Considera Ellección Especial para Cubrir Vacante Dejada por La Alcaldes Electa Raman](https://sanfernandosun.com/2026/11/18/el-consejo-municipal-de-los-angeles-considera-elleccion-especial-para-cubrir-vacante-dejada-por-la-alcaldes-electa-raman/)
 
-via San Fernando Sun · 2026-11-19
+via San Fernando Sun · 2026-11-19, updated 2026-11-20
 
 LOS ÁNGELES (CNS) — La concejal Monica Rodriguez presentó el martes, 17 de noviembre, una moción que, de ser aprobada, iniciaría los pasos para convocar una elección especial para cubrir \[…\]
 
@@ -214,7 +302,7 @@ The post [El Consejo Municipal de Los Angeles Considera Ellección Especial para
 
 ## [La Coalición Whiteman respalda el primer escenario del estudio del condado de L.A. para preservar y mejorar el aeropuerto](https://sanfernandosun.com/2026/11/18/la-coalicion-whiteman-respalda-el-primer-escenario-del-estudio-del-condado-de-l-a-para-preservar-y-mejorar-el-aeropuerto/)
 
-via San Fernando Sun · 2026-11-19
+via San Fernando Sun · 2026-11-19, updated 2026-11-20
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/05/whiteman.jpg?fit=1024%2C768&ssl=1)
 
@@ -252,7 +340,7 @@ One of LA’s oldest restaurants reopens with a new menu, new owners and the sam
 
 ## [You’re Invited to the 11th Annual Union Station Tree Lighting](https://thesource.metro.net/youre-invited-to-the-11th-annual-union-station-tree-lighting/)
 
-via The Source MTA blog · 2026-11-18, updated 2026-11-20
+via The Source MTA blog · 2026-11-18, updated 2026-11-21
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/image-1.png?fit=936%2C624&ssl=1)The 11th Annual Tree Lighting Ceremony will take place on Thursday, November 19, from 6 p.m. to 8 p.m. in Union Station’s historic Ticket Concourse, kicking off the holiday season.   Hosted by Charles Phoenix, the event will feature live musical performances from Mariachi Ausente and Lizzy & the Triggermen presented by Metro Art. Santa and \[…\]
 
@@ -264,7 +352,7 @@ After federal agents blocked the ambulance entrance and detained two protesters,
 
 ## [The New York Times Got L.A.’s True Eastside Wrong and Why It Definitely Matters](https://lataco.com/eastside-los-angeles)
 
-via L. A. Taco · 2026-11-18, updated 2026-11-20
+via L. A. Taco · 2026-11-18, updated 2026-11-21
 
 The Eastside is almost a state of consciousness; a place that shows how deeply you know Los Angeles.
 
@@ -284,7 +372,7 @@ The bridge stretches 1,250 feet (380 meters) in two sections over the roadways t
 
 ## [Investigations Newsletter: Will Nithya Raman Fire LAPD Chief Jim McDonnell?](https://lataco.com/will-nithya-raman-fire-jim-mcdonnell)
 
-via L. A. Taco · 2026-11-18, updated 2026-11-20
+via L. A. Taco · 2026-11-18, updated 2026-11-21
 
 We asked.
 
@@ -330,7 +418,7 @@ A federal judge has signed off on a step-by-step handoff. Here’s a breakdown o
 
 ## [The Coolest 11 Places In L.A. With Free Wi-Fi to Work From When You Need to Get Out of the House](https://lataco.com/cafes-bars-remote-work-wfh)
 
-via L. A. Taco · 2026-11-18, updated 2026-11-20
+via L. A. Taco · 2026-11-18, updated 2026-11-21
 
 Only in L.A. can you work away from home with complimentary cannabis pre-rolls, hot tubs, beach views, and even a spa.
 
@@ -392,7 +480,7 @@ Leonard Redway, Inglewood City Council District 1 candidate, must stay 100 yards
 
 ## [Vandenberg hosts 2026 Fall Job Fair](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649605/vandenberg-hosts-2026-fall-job-fair/)
 
-via Vandenberg Base News · 2026-11-17, updated 2026-11-20
+via Vandenberg Base News · 2026-11-17, updated 2026-11-21
 
 Attendees explore career opportunities during the Fall Job Fair at the Pacific Coast Center at Vandenberg Space Force Base, California, Nov. 16, 2026.
 
@@ -438,7 +526,7 @@ The post [Free Drive-Thru Sandbag Distribution at Central Park](https://santacla
 
 ## [Our 28 Favorite Tacos Al Pastor, Adobada, and Árabes in Los Angeles](https://lataco.com/best-al-pastor-la)
 
-via L. A. Taco · 2026-11-16, updated 2026-11-20
+via L. A. Taco · 2026-11-16, updated 2026-11-21
 
 Whether they use lamb, octopus, pork, beef, or mushrooms, these are our favorite places to get what might be L.A.'s official taco.
 
@@ -458,7 +546,7 @@ The U.S. Supreme Court denied the Trump administration’s appeal of lower court
 
 ## [Sentinel Stage Processing Facility Ribbon Cutting Ceremony at Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649455/sentinel-stage-processing-facility-ribbon-cutting-ceremony-at-vandenberg-space/)
 
-via Vandenberg Base News · 2026-11-16, updated 2026-11-20
+via Vandenberg Base News · 2026-11-16, updated 2026-11-21
 
 The recently completed facility will serve as a hub for processing and testing components for the next-generation Sentinel weapon system ribbon cutting ceremony held at Vandenberg Space Force Base, California, Nov. 5, 2026.
 
@@ -482,13 +570,13 @@ The post [Gather Around the Table for Santa Clarita’s Thanksgiving Community D
 
 ## [Draft Environmental Document now available for I-405 Sepulveda Pass ExpressLanes project](https://thesource.metro.net/draft-environmental-document-now-available-for-i-405-sepulveda-pass-expresslanes-project/)
 
-via The Source MTA blog · 2026-11-16, updated 2026-11-20
+via The Source MTA blog · 2026-11-16, updated 2026-11-21
 
-![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/Sepulveda-ExpressLanes-edited.jpg?fit=1082%2C1131&ssl=1)Weary of gridlock and soul-sucking traffic on the 405 through the Sepulveda Pass? We’re studying ways to move people more efficiently on the 405 as part of our I-405 Sepulveda Pass ExpressLanes Project. The slides below show the project options under study – Alternatives 1, 2, 3 and 5 (Alt 4 has been eliminated from \[…\]
+![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/Sepulveda-ExpressLanes-edited.jpg?fit=1082%2C1131&ssl=1)Update: the public comment period has been extended and is through Feb. 2, 2027. Weary of gridlock and soul-sucking traffic on the 405 through the Sepulveda Pass? We’re studying ways to move people more efficiently on the 405 as part of our I-405 Sepulveda Pass ExpressLanes Project. The slides below show the project options under \[…\]
 
 ## [In the Age of A.I. Slop, a Montebello Metalhead Still Proudly Draws Albums and Flyers By Hand](https://lataco.com/black-metal-punk-album-art)
 
-via L. A. Taco · 2026-11-16, updated 2026-11-20
+via L. A. Taco · 2026-11-16, updated 2026-11-21
 
 “I need to paint and draw my best to compete against this A.I. shit,” Guillermo Millán says. "There’s some people who use A.I. to write music, and it’s just wack."
 
@@ -550,7 +638,7 @@ The post [Stalled Offensive Drives, Rain, Flat Defense, Plague Birmingham in 36-
 
 ## [UNARMED MINUTEMAN III ICBM TEST LAUNCH SCHEDULED AT VANDENBERG SPACE FORCE BASE](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4648574/unarmed-minuteman-iii-icbm-test-launch-scheduled-at-vandenberg-space-force-base/)
 
-via Vandenberg Base News · 2026-11-14, updated 2026-11-20
+via Vandenberg Base News · 2026-11-14, updated 2026-11-21
 
 An operational test launch of an Air Force Global Strike Command unarmed Minuteman III intercontinental ballistic missile is scheduled between 11:01 p.m. Pacific Time, Nov. 17, and 5:01 a.m. Pacific Time, Nov.18, from the northern portion of the installation.
 
@@ -716,7 +804,7 @@ As online classes proliferate, community college professors have found a hack �
 
 ## [Go Metro to Camp Flog Gnaw and the best fall events in Los Angeles: November 13-15](https://thesource.metro.net/go-metro-to-camp-flog-gnaw-and-the-best-fall-events-in-los-angeles-november-13-15/)
 
-via The Source MTA blog · 2026-11-12, updated 2026-11-20
+via The Source MTA blog · 2026-11-12, updated 2026-11-21
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/799308283_1630785628403621_4173385629581106395_n.jpg?fit=1200%2C800&ssl=1)Space Shuttle Endeavour gets its permanent home, Tyler, the Creator throws his carnival at Dodger Stadium and Pasadena closes its streets to cars for CicLAvia. It’s a big weekend, and Metro can get you to all of it without a parking headache. Here’s what’s happening. All Weekend Camp Flog Gnaw takes over the Dodger Stadium \[…\]
 
@@ -814,13 +902,13 @@ The mayor-elect has pledged to cut the number of tents and encampments in half b
 
 ## [Books for young readers from preschool to high school](https://laist.com/news/los-angeles-activities/2026-kids-book-gift-guide-southern-california-authors-illustrators)
 
-via The LAist · 2026-11-12, updated 2026-11-18
+via The LAist · 2026-11-12, updated 2026-11-21
 
 Our 2026 favorites for young readers include picture books, graphic novels and young adult titles.
 
 ## [Purrfect picks for pets and those who love them](https://laist.com/news/los-angeles-activities/gift-guide-2026-pets-cats-dogs)
 
-via The LAist · 2026-11-12, updated 2026-11-13
+via The LAist · 2026-11-12, updated 2026-11-21
 
 How do you convey gratitude for warm snuggles, boundless enthusiasm, undying loyalty, surreptitious side-eye and unconditional love? We’ve got a few ideas …
 
@@ -938,7 +1026,7 @@ The century-old diner brings back its pancakes and coleslaw, plus new dishes lik
 
 ## [Solvang holds 2026 Veterans Day observance with support of Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4646630/solvang-holds-2026-veterans-day-observance-with-support-of-vandenberg-space-for/)
 
-via Vandenberg Base News · 2026-11-11, updated 2026-11-20
+via Vandenberg Base News · 2026-11-11, updated 2026-11-21
 
 U.S. Space Force Chief Master Sgt. Shannan Sanchez, Space Launch Delta 30 command senior enlisted leader, delivered the keynote address during a Veterans Day ceremony at the Solvang Veterans Memorial Hall in Solvang, California, Nov. 11, 2026.
 
@@ -1032,7 +1120,7 @@ Those in Little Bangladesh say they are often ignored, but Raman spent time list
 
 ## [Not Just Child’s Play: Space Force Technicians Assist Children’s Museum with Restoration Project](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4646428/not-just-childs-play-space-force-technicians-assist-childrens-museum-with-resto/)
 
-via Vandenberg Base News · 2026-11-10, updated 2026-11-20
+via Vandenberg Base News · 2026-11-10, updated 2026-11-21
 
 After painstaking restoration, a museum’s interactive recycling display recently whirred back to life thanks to the technicians of the 30th Operations Support Squadron’s Training Device Design and Engineering Center at Vandenberg Space Force Base.
 
@@ -1150,7 +1238,7 @@ Massie said the secretary’s actions amount to “high crimes and misdemeanors�
 
 ## [New Metro Art “Through the Eyes of Artists” poster celebrates Tujunga](https://thesource.metro.net/new-metro-art-through-the-eyes-of-artists-poster-celebrates-tujunga/)
 
-via The Source MTA blog · 2026-11-09, updated 2026-11-20
+via The Source MTA blog · 2026-11-09, updated 2026-11-21
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/26-0384_obp_tujunga_tte_28x11_viewing-1-scaled.jpeg?fit=1200%2C471&ssl=1)Metro Art has released the latest onboard neighborhood poster in the popular Through the Eyes of Artists series, celebrating the foothills neighborhood of Tujunga, and it can now be enjoyed across Metro buses and trains. For over 20 years, the series has showcased the cities and neighborhoods that Metro serves from the unique perspective of \[…\]
 
@@ -1272,7 +1360,7 @@ School enrollment was already expected to plunge by 2 million kids by 2030.
 
 ## [Piece by piece: Celebrating progress on the proposed E Line extension](https://thesource.metro.net/piece-by-piece-celebrating-progress-on-the-proposed-e-line-extension/)
 
-via The Source MTA blog · 2026-11-06, updated 2026-11-20
+via The Source MTA blog · 2026-11-06, updated 2026-11-21
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/eastside-map-1.png?fit=958%2C497&ssl=1)Residents, community partners and local leaders came together Friday morning in East LA to celebrate the years of collaboration behind the proposed E Line extension from East Los Angeles to Montebello and, eventually, Whittier. The giant puzzle in the video above represents that shared effort to help advance the project toward construction. Known as the \[…\]
 
@@ -1346,7 +1434,7 @@ Republican Sonja Shaw conceded the race for California Superintendent of Public 
 
 ## [Go Metro to Corita Day Festival and the best fall events in Los Angeles: November 6-8](https://thesource.metro.net/go-metro-to-corita-day-festival-and-the-best-fall-events-in-los-angeles-november-6-8/)
 
-via The Source MTA blog · 2026-11-06, updated 2026-11-20
+via The Source MTA blog · 2026-11-06, updated 2026-11-21
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/DJI_20260830170121_0008_D-scaled.jpg?fit=1200%2C800&ssl=1)November opens with a mix of art, music and sports across Los Angeles. Corita Day Festival fills the SCI-Arc campus in Little Tokyo with art-making and live music, Self Help Graphics celebrates its 53rd Día de los Muertos in Boyle Heights, and the Lakers, Kings, Chargers, and Clippers are all home. Metro can get you \[…\]
 
@@ -1898,7 +1986,7 @@ California Faculty Association members have until Nov. 19 to authorize a strike.
 
 ## [Metro Books gives riders free reads on trains and buses](https://thesource.metro.net/metro-books-gives-riders-free-reads-on-trains-and-buses/)
 
-via The Source MTA blog · 2026-11-01, updated 2026-11-20
+via The Source MTA blog · 2026-11-01, updated 2026-11-21
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/10/MB_ComicBook_SM14-scaled.jpg?fit=1200%2C900&ssl=1)Want to swap your phone for a good book on your next ride? A new nonprofit, Metro Books, is making it easy. Founded in January by Flinder Boyd, Metro Books hands out free books to riders at stations and on buses and trains. The goal is to get people to look up from their screens \[…\]
 
@@ -1971,101 +2059,4 @@ Bring photos, fliers and ticket stubs shows to the college on Thursday Nov. 5.
 via The LAist · 2026-10-31
 
 Labor leader Dolores Huerta died Wednesday at 96. Her legacy and the rise of the farmworker movement are the subject of a musical on tour in Los Angeles through mid-November.
-
-## [LA coastal flooding breaks record set in 1983 — with more almost certainly ahead](https://laist.com/news/climate-environment/la-coastal-flooding-breaks-record-set-in-1983)
-
-via The LAist · 2026-10-30
-
-High tides later in the year could mean even more flooding conditions for coastal residents and infrastructure that have already been inundated.
-
-## [Judge orders 3 taxpayer-funded Trump administration ads to be pulled from TV and social media](https://laist.com/news/politics/judge-orders-3-taxpayer-funded-trump-administration-ads-to-be-pulled-from-tv-social-media)
-
-via The LAist · 2026-10-30
-
-The federal government must pull three taxpayer-funded Trump administration ads that appear to have been made for political or propaganda purposes.
-
-## [Trump's VA killed a home loan program. Thousands of veterans are paying the price](https://laist.com/news/politics/trumps-va-killed-home-loan-program-thousands-of-veterans-paying-the-price)
-
-via The LAist · 2026-10-30
-
-An NPR investigation finds that more than 15,000 military veterans were put into much higher-cost home loans after the Trump administration cut a key program.
-
-## [Santa Clarita Transit Expands Service to Vista Canyon Transit Center](https://santaclarita.gov/blog/2026/10/30/santa-clarita-transit-expands-service-to-vista-canyon-transit-center/)
-
-via City of Santa Clarita · 2026-10-30, updated 2026-11-05
-
-New Route 5 and 6 Schedules Bring More Convenient Connections and Improved Service Santa Clarita Transit is making it easier for people to get where they need to go! Beginning Saturday, November 7, Santa Clarita Transit will implement an updated local bus schedule featuring significant improvements to Routes 5 and 6, including service to the \[…\]
-
-The post [Santa Clarita Transit Expands Service to Vista Canyon Transit Center](https://santaclarita.gov/blog/2026/10/30/santa-clarita-transit-expands-service-to-vista-canyon-transit-center/) appeared first on [City of Santa Clarita](https://santaclarita.gov).
-
-## [Has the Trump administration doomed Newsom’s water plan?](https://laist.com/news/politics/has-the-trump-administration-doomed-newsom-water-plan)
-
-via The LAist · 2026-10-30
-
-California water regulators have approved a new plan overhauling how farms and cities take water from the Sacramento-San Joaquin Delta and rivers that feed it.
-
-## [Appeals court rejects Justice Department request for California to set aside disputed ballots](https://laist.com/news/politics/appeals-court-rejects-justice-department-request-california-disputed-ballots)
-
-via The LAist · 2026-10-30
-
-The 9th Circuit Court of Appeals on Friday rejected the Justice Department’s request for California to set aside disputed ballots received in the midterm election.
-
-## [Reps. Whitesides, Gallagher, Salinas, Fong Introduce Bipartisan Legislation to Ban Betting on Wildfires on Prediction Markets](https://whitesides.house.gov/2026/10/30/reps-whitesides-gallagher-salinas-fong-introduce-bipartisan-legislation-to-ban-betting-on-wildfires-on-prediction-markets/)
-
-via Congressman George Whitesides, district 27 · 2026-10-30, updated 2026-11-19
-
-WASHINGTON D.C. – Today, Reps. George Whitesides (D-CA), James Gallagher (R-CA) Andrea Salinas (D-OR), and Vince Fong (R-CA) introduced the No Bets on Wildfires Act, a bill making it illegal to place bets related to wildfires on prediction markets.  Over $1 million fire-related bets were wagered on Polymarket during the devastating wildfires that swept through Los Angeles in early 2025. Users on the platform \[…\]
-
-## [Weddings, funerals, karaoke, drag: Pasadena’s last gay bar says goodbye after 45 years](https://laist.com/news/los-angeles-activities/pasadena-last-gay-bar-boulevard-closing)
-
-via The LAist · 2026-10-30, updated 2026-11-04
-
-The Boulevard paid witness to the city’s LGBTQ+ history. Now its owner is retiring. Here’s how to celebrate its legacy on Oct. 31.
-
-## [Bank breach delays financial aid, forces California college students to choose between books or food](https://laist.com/news/education/bank-breach-delays-financial-aid-college-students)
-
-via The LAist · 2026-10-30, updated 2026-11-03
-
-Thousands of California college students have been affected by a breach of the BankMobile app used by roughly 60 community college districts.
-
-## [Go Metro to the Chargers and Rams this season – here’s your easy guide to taking our SoFi Stadium Express](https://thesource.metro.net/go-metro-to-the-chargers-and-rams-this-season-heres-your-easy-guide-to-taking-our-sofi-stadium-express/)
-
-via The Source MTA blog · 2026-10-30, updated 2026-11-20
-
-![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/09/GettyImages-2188242917.jpg?fit=1200%2C800&ssl=1)The Super Bowl is coming to SoFi Stadium on Sunday, Feb. 14 — the perfect Valentine’s Day gift to our region. The Rams are already the betting favorites to represent the NFC and we predict they’ll be playing their stadium mates, the Chargers. The Rams and Chargers already have playoff pedigrees. Both teams possess top \[…\]
-
-## [A Stunning Iranian Bakery From a Former Spago and Lucques Pastry Chef](https://lataco.com/iranian-bakery-wilshire-kouzeh)
-
-via L. A. Taco · 2026-10-30, updated 2026-11-04
-
-On the savory side, this shop offers a signature seeded, hot stone-baked barbari, a cumin-tinged wheel of latir bread, shaggy with sesame seeds and dill; and a barley-and-wheat-blended circle of sistani bread, spiced with coriander, cumin, fennel, and turmeric, and speckled with nigella and sesame seeds.
-
-The post [A Stunning Iranian Bakery From a Former Spago and Lucques Pastry Chef](https://lataco.com/iranian-bakery-wilshire-kouzeh) appeared first on [L.A. TACO](https://lataco.com).
-
-## [Feature: Remembering Patrick Stewart](https://laist.com/news/arts-and-entertainment/feature-remembering-patrick-stewart)
-
-via The LAist · 2026-10-30
-
-Today on FilmWeek, we revisit Larry Mantle’s 2023 conversation with Patrick Stewart in memory of the late actor who died at the age of 86 this week.
-
-## [Chumash Museum Series Features Artist Raymond Ventura Sr.](https://www.noozhawk.com/chumash-museum-series-features-artist-raymond-ventura-sr/)
-
-via Chumash News · 2026-10-30, updated 2026-11-12
-
-The Santa Ynez Chumash Museum and Cultural Center will host the next
-installment of its free Second Thursday at the Museum lecture series, 5-8
-p.m. Thursday, Nov. 12, featuring multidisciplinary Chumash artist Raymond
-Ventura Sr.
-
-## [At MacArthur Park, aid workers face an endless cycle of overdoses — and a system that can’t keep up](https://laist.com/news/health/macarthur-park-la-service-workers-fentanyl-housing-trust)
-
-via The LAist · 2026-10-30, updated 2026-11-09
-
-Service workers reversing overdoses and connecting people to housing say recent drug enforcement is undoing years of trust.
-
-## [LA approves initial $5 million to help Boyle Heights residents, businesses recover from Lineage fire](https://laist.com/la-approves-initial-5-million-to-help-boyle-heights-residents-businesses-recover-from-lineage-fire)
-
-via The LAist · 2026-10-30
-
-The approved funding is part of a larger $10.5 million proposal by Councilmember Ysabel Jurado aimed at recovery and street cleaning.
 

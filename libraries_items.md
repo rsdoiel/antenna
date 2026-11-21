@@ -1,18 +1,32 @@
 ---
 title: "GLAM"
 description: "Libraries, archives and museums."
-pubDate: Fri, 20 Nov 2026 10:30:24 GMT
+pubDate: Fri, 20 Nov 2026 16:47:51 GMT
 aggregateOf: "libraries.md"
-dateModified: Fri, 20 Nov 2026 22:33:16 GMT
-itemCount: 69
-generator: antenna/0.1.0
+dateModified: Sat, 21 Nov 2026 14:48:45 GMT
+itemCount: 66
+generator: antenna/0.1.1
 ---
 
 # GLAM
 
+## [Shaping digital horizons together: IOI at UbuntuNet CONNECT 2026 in Malawi](https://investinopen.org/blog/shaping-digital-horizons-together-ioi-at-ubuntunet-connect-2026-in-malawi/)
+
+via Invest In Open · 2026-11-20
+
+A recap of IOI's participation at UbuntuNet CONNECT 2026 in Lilongwe, Malawi
+
+## [Fall 2026](https://www.arl.org/our-priorities/diversity-equity-inclusion/arl-groundwork/fall-2026-2/)
+
+via Association of Research Libraries News · 2026-11-20
+
+Last Updated on November 20, 2026, 11:07 am ET ARL Groundwork (Fall 2026) Groundwork is a new, semiannual publication designed to uplift the people, partnerships, and practices across ARL member...
+
+The post [Fall 2026](https://www.arl.org/our-priorities/diversity-equity-inclusion/arl-groundwork/fall-2026-2/) appeared first on [Association of Research Libraries](https://www.arl.org).
+
 ## [AI Training is Copyright Infringement: What Publishers Need to Know about Thomson Reuters v ROSS Intelligence](https://scholarlykitchen.sspnet.org/2026/11/20/ai-training-is-copyright-infringement-what-publishers-need-to-know-about-thomson-reuters-v-ross-intelligence/)
 
-via Scholarly Kitchen · 2026-11-20, updated 2026-11-19
+via Scholarly Kitchen · 2026-11-20
 
 \[T\]he Third Circuit’s opinion supports the position that the more the AI is marketed as solving research challenges, the less transformative it becomes with respect to STM content.
 
@@ -199,7 +213,7 @@ The conversation continues with #Crossref2026 and on our [community forum](https
 
 ## [Before the Paper Goes](https://metaarchivist.substack.com/p/before-the-paper-goes)
 
-via The Meta Archivist blog · 2026-11-19, updated 2026-11-20
+via The Meta Archivist blog · 2026-11-19, updated 2026-11-21
 
 NARA’s new authority spares agencies from rescanning qualifying legacy records, but it can leave them holding the paper for years.
 
@@ -219,7 +233,7 @@ The post [Dr. Carla Hayden: “The Future of Libraries is About More Than Books�
 
 ## [Guest Post — Building a Taxonomy of Bots](https://scholarlykitchen.sspnet.org/2026/11/19/guest-post-building-a-taxonomy-of-bots/)
 
-via Scholarly Kitchen · 2026-11-19
+via Scholarly Kitchen · 2026-11-19, updated 2026-11-20
 
 To tame the bots hitting scholarly platforms, we must first name them. Today’s post proposes a bot taxonomy to support the community’s need to measure robotic traffic.
 
@@ -299,7 +313,7 @@ We welcome comments, suggestions, and challenges to this report and our practice
 
 ## [The Return of the Hit Count in academic AI search? Not Quite.](https://aarontay.substack.com/p/the-return-of-the-hit-count-in-academic)
 
-via Aaron Tay's Musings about Librarianship · 2026-11-18, updated 2026-11-20
+via Aaron Tay's Musings about Librarianship · 2026-11-18, updated 2026-11-21
 
 Why hits shown in hybrid AI search such as JSTOR Dynamic Search or Consensus should not be treated the same as a traditional database Boolean hit count.
 
@@ -313,7 +327,7 @@ The post [From Framework to Action](https://sr.ithaka.org/blog/from-framework-to
 
 ## [Guest Post — African Knowledge Production in the Global North: The African Journals Initiative](https://scholarlykitchen.sspnet.org/2026/11/18/guest-post-african-knowledge-production-in-the-global-north-the-african-journals-initiative/)
 
-via Scholarly Kitchen · 2026-11-18, updated 2026-11-19
+via Scholarly Kitchen · 2026-11-18, updated 2026-11-20
 
 Today's guest post shares personal experiences with scholarly publishing in Africa from a recent graduate in publishing studies.
 
@@ -333,7 +347,7 @@ Check out all of the Future Knowledge episodes at [https://archive.org/details/f
 
 ## [The Seal and the Machine](https://metaarchivist.substack.com/p/the-seal-and-the-machine)
 
-via The Meta Archivist blog · 2026-11-17, updated 2026-11-20
+via The Meta Archivist blog · 2026-11-17, updated 2026-11-21
 
 From the seals of Prussian archives to the uncertain afterlife of digital trust
 
@@ -355,7 +369,7 @@ The post [AI is Reshaping the Role of Academic Librarians; Elsevier Releases Lib
 
 ## [Just-in-Time Synthesis: A New Approach to an Old Genre](https://scholarlykitchen.sspnet.org/2026/11/17/just-in-time-synthesis/)
 
-via Scholarly Kitchen · 2026-11-17, updated 2026-11-19
+via Scholarly Kitchen · 2026-11-17, updated 2026-11-20
 
 A commissioned review article and a just-in-time generated overview answer the same reader need; what differs is how each is made and whether a reader can tell enough about it to trust it.​​​​
 
@@ -363,9 +377,9 @@ The post [Just-in-Time Synthesis: A New Approach to an Old Genre](https://schola
 
 ## [ARL Daily Intelligence (November 16–19)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-november-16-19/)
 
-via Association of Research Libraries News · 2026-11-16, updated 2026-11-19
+via Association of Research Libraries News · 2026-11-16, updated 2026-11-20
 
-Last Updated on November 19, 2026, 3:07 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+Last Updated on November 20, 2026, 2:59 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (November 16–19)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-november-16-19/) appeared first on [Association of Research Libraries](https://www.arl.org).
 
@@ -379,7 +393,7 @@ The post [Report: “New Kickstarter Campaign Rethinks E-Book Ownership and Digi
 
 ## [Guest Post — Beyond the Download: What Counts as Scholarly Content Use in the Age of AI?](https://scholarlykitchen.sspnet.org/2026/11/16/guest-post-beyond-the-download-what-counts-as-scholarly-content-use-in-the-age-of-ai/)
 
-via Scholarly Kitchen · 2026-11-16, updated 2026-11-19
+via Scholarly Kitchen · 2026-11-16, updated 2026-11-20
 
 New usage metrics are needed to represent AI assistants intermediating researchers and content. What should count, and what can those numbers tell us about the value of research?
 
@@ -395,7 +409,7 @@ Today I am announcing [defter](https://crates.io/crates/defter), a new Zotero sy
 
 ## [Appraising Permanence, Sustaining the Promise](https://metaarchivist.substack.com/p/appraising-permanence-sustaining)
 
-via The Meta Archivist blog · 2026-11-15, updated 2026-11-20
+via The Meta Archivist blog · 2026-11-15, updated 2026-11-21
 
 What NARA’s appraisal process reveals about the distance between deciding that federal records should survive and ensuring that they can.
 
@@ -439,7 +453,7 @@ The post [Schools, Health & Libraries Broadband (SHLB) Coalition Files Reply Com
 
 ## [The Anatomy of “Harm”: An Interview with IFRRO CEO Anita Huss-Ekerhult on AI and Copyright](https://scholarlykitchen.sspnet.org/2026/11/13/the-anatomy-of-harm-an-interview-with-ifrro-ceo-anita-huss-ekerhult-on-ai-and-copyright/)
 
-via Scholarly Kitchen · 2026-11-13, updated 2026-11-19
+via Scholarly Kitchen · 2026-11-13, updated 2026-11-20
 
 Across different creative sectors, existing studies point to measurable and, in some cases, already quantified economic and commercial harm. At the same time, a market for AI licensing is already an established and growing commercial reality and this is continually undermined by unauthorized use.
 
@@ -471,13 +485,13 @@ The post [Transfer Explorer Comes to Ohio](https://sr.ithaka.org/blog/transfer-e
 
 ## [Who Will Keep the Archive?](https://metaarchivist.substack.com/p/who-will-keep-the-archive)
 
-via The Meta Archivist blog · 2026-11-12, updated 2026-11-20
+via The Meta Archivist blog · 2026-11-12, updated 2026-11-21
 
 From Copenhagen to the DPC's workforce research, a question about the human infrastructure of preservation.
 
 ## [Digital Humanities Research Infrastructures: An Interview with Barbara McGillivray](https://scholarlykitchen.sspnet.org/2026/11/12/digital-humanities-research-infrastructures-an-interview-with-barbara-mcgillivray/)
 
-via Scholarly Kitchen · 2026-11-12, updated 2026-11-19
+via Scholarly Kitchen · 2026-11-12, updated 2026-11-20
 
 An interview with Barbara McGillivray about the Journal of Open Humanities Data, which “features peer reviewed publications describing humanities data or techniques with high potential for reuse.”
 
@@ -501,7 +515,7 @@ The post [Supporting Veterans as Adult Learners](https://sr.ithaka.org/blog/supp
 
 ## [Guest Post — The Hidden Work of Integrating Scholarly Publishing](https://scholarlykitchen.sspnet.org/2026/11/11/guest-post-the-hidden-work-of-integrating-scholarly-publishing/)
 
-via Scholarly Kitchen · 2026-11-11, updated 2026-11-19
+via Scholarly Kitchen · 2026-11-11, updated 2026-11-20
 
 As scholarly publishing becomes increasingly interconnected, are we paying enough attention to its operational sustainability?
 
@@ -509,7 +523,7 @@ The post [Guest Post — The Hidden Work of Integrating Scholarly Publishing](ht
 
 ## [Who Decides What the AI Sees?​](https://aarontay.substack.com/p/who-decides-what-the-ai-sees)
 
-via Aaron Tay's Musings about Librarianship · 2026-11-11, updated 2026-11-20
+via Aaron Tay's Musings about Librarianship · 2026-11-11, updated 2026-11-21
 
 The Third Discovery War: From Federated Search and Central Indexes to MCP and Agentic AI​
 
@@ -539,7 +553,7 @@ The post [2027 Public Domain Film Contest: The Internet Archive is Looking For C
 
 ## [Libraries, Publishers, and the Users We Both Serve](https://scholarlykitchen.sspnet.org/2026/11/10/ai-and-the-users-we-serve/)
 
-via Scholarly Kitchen · 2026-11-10, updated 2026-11-19
+via Scholarly Kitchen · 2026-11-10, updated 2026-11-20
 
 Libraries and publishers can claim agency in the AI age by once again investigating and deeply understanding how our users work.
 
@@ -555,7 +569,7 @@ The post [Report: The Free Library of Philadelphia’s Online Catalog Was Taken 
 
 ## [ARL Daily Intelligence (November 9–12)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-november-9-12/)
 
-via Association of Research Libraries News · 2026-11-09, updated 2026-11-19
+via Association of Research Libraries News · 2026-11-09, updated 2026-11-20
 
 Last Updated on November 12, 2026, 3:08 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
@@ -585,7 +599,7 @@ CORE has become a not-for-profit legal entity dedicated to CORE’s mission. We 
 
 ## [Guest Post — We Have Enough Declarations. Now What? A Critique from Inside Diamond OA](https://scholarlykitchen.sspnet.org/2026/11/09/guest-post-we-have-enough-declarations-now-what-a-critique-from-inside-diamond-oa/)
 
-via Scholarly Kitchen · 2026-11-09, updated 2026-11-19
+via Scholarly Kitchen · 2026-11-09, updated 2026-11-20
 
 The Diamond OA community has built a declaration machine that runs in parallel with the under-resourced publishing machine it claims to serve, and the gap between them grows wider with every new communiqué.
 
@@ -593,7 +607,7 @@ The post [Guest Post — We Have Enough Declarations. Now What? A Critique from 
 
 ## [The Context We Carry Forward](https://metaarchivist.substack.com/p/the-context-we-carry-forward)
 
-via The Meta Archivist blog · 2026-11-08, updated 2026-11-20
+via The Meta Archivist blog · 2026-11-08, updated 2026-11-21
 
 Remembering Stephen Clarke, one year on, and the unfinished possibilities of epidata
 
@@ -607,7 +621,7 @@ The post [New Journal Article: Large Language Model Developments](https://www.in
 
 ## [Ask the Technology Providers: Our Charleston Conversation](https://scholarlykitchen.sspnet.org/2026/11/06/ask-the-technology-providers-our-charleston-conversation/)
 
-via Scholarly Kitchen · 2026-11-06, updated 2026-11-19
+via Scholarly Kitchen · 2026-11-06, updated 2026-11-20
 
 Did you miss us at Charleston this week? Never fear, here are some highlights from our TSK panel discussion with three of our esteemed guest bloggers.
 
@@ -615,7 +629,7 @@ The post [Ask the Technology Providers: Our Charleston Conversation](https://sch
 
 ## [On the Road with RADS: Building One Front Door for Data Management and Sharing Support at the University of Nebraska–Lincoln](https://www.arl.org/blog/on-the-road-with-rads-building-one-front-door-for-data-management-and-sharing-support-at-the-university-of-nebraska-lincoln/)
 
-via Association of Research Libraries News · 2026-11-05, updated 2026-11-19
+via Association of Research Libraries News · 2026-11-05, updated 2026-11-20
 
 Last Updated on November 5, 2026, 2:05 pm ET Leslie Delserone is research data services and science librarian, University of Nebraska–Lincoln. Alicia Hofelich Mohr, PhD, is data management research associate,...
 
@@ -637,7 +651,7 @@ The post [CBC Report: University Libraries are Being Swarmed by AI Bots, Putting
 
 ## [Guest Post — What AI Can’t Learn About Peer Review… Because Nobody Can Explain It](https://scholarlykitchen.sspnet.org/2026/11/05/guest-post-what-ai-cant-learn-about-peer-review-because-nobody-can-explain-it/)
 
-via Scholarly Kitchen · 2026-11-05, updated 2026-11-19
+via Scholarly Kitchen · 2026-11-05, updated 2026-11-20
 
 What might be lost if we automate a task without first fully understanding the expertise behind it?
 
@@ -657,7 +671,7 @@ On 27 October, the Bodleian Libraries hosted a community workshop at the Univers
 
 ## [From AI Adoption to AI Practice: Building Governed AI in Scholarly Publishing](https://scholarlykitchen.sspnet.org/2026/11/04/from-ai-adoption-to-ai-practice-building-governed-ai-in-scholarly-publishing/)
 
-via Scholarly Kitchen · 2026-11-04, updated 2026-11-19
+via Scholarly Kitchen · 2026-11-04, updated 2026-11-20
 
 How can a publisher make AI useful across the organization while keeping control of confidential information, editorial decisions, and accountability?
 
@@ -691,7 +705,7 @@ The post [Company News: Cambridge University Press, Johns Hopkins University Pre
 
 ## [The Context Behind the Answer](https://metaarchivist.substack.com/p/the-context-behind-the-answer)
 
-via The Meta Archivist blog · 2026-11-03, updated 2026-11-20
+via The Meta Archivist blog · 2026-11-03, updated 2026-11-21
 
 Reference, Description, and the Provenance of AI-Generated Knowledge
 
@@ -711,7 +725,7 @@ The post [Company News: Oxford University Press Launches MCP Pilot; Partners Inc
 
 ## [Guest Post — What Accessibility at Scale Actually Requires of Academic Publishers](https://scholarlykitchen.sspnet.org/2026/11/03/what-accessibility-at-scale-actually-requires-of-academic-publishers/)
 
-via Scholarly Kitchen · 2026-11-03, updated 2026-11-19
+via Scholarly Kitchen · 2026-11-03, updated 2026-11-20
 
 How can publishers move past the regulatory overview for accessibility compliance and into the production reality after sitting on decades of archived content, posts, and data.
 
@@ -727,47 +741,9 @@ The post [Rethinking Readers’ Advisory For Today’s Reading Reality (New Issu
 
 ## [The AI Transparency Trap](https://scholarlykitchen.sspnet.org/2026/11/02/the-ai-transparency-trap/)
 
-via Scholarly Kitchen · 2026-11-02, updated 2026-11-19
+via Scholarly Kitchen · 2026-11-02, updated 2026-11-20
 
 The absence of AI doesn’t guarantee trustworthy research. And neither does disclosing AI use.
 
 The post [The AI Transparency Trap](https://scholarlykitchen.sspnet.org/2026/11/02/the-ai-transparency-trap/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).
-
-## [October 2026](https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/october-2026/)
-
-via Association of Research Libraries News · 2026-10-30, updated 2026-11-19
-
-Last Updated on October 30, 2026, 3:36 pm ET ARL Public Policy Briefing (October 2026) This month, ARL joined an amicus brief by the Consumer Technology Association (CTA) in support...
-
-The post [October 2026](https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/october-2026/) appeared first on [Association of Research Libraries](https://www.arl.org).
-
-## [Library Copyright Alliance Urges Court to Preserve Fair Use](https://www.arl.org/blog/library-copyright-alliance-urges-court-to-preserve-fair-use/)
-
-via Association of Research Libraries News · 2026-10-30, updated 2026-11-19
-
-Last Updated on October 30, 2026, 3:54 pm ET The Association of Research Libraries (ARL) and American Library Association (ALA)—together, the Library Copyright Alliance (LCA)—joined an amicus brief in favor...
-
-The post [Library Copyright Alliance Urges Court to Preserve Fair Use](https://www.arl.org/blog/library-copyright-alliance-urges-court-to-preserve-fair-use/) appeared first on [Association of Research Libraries](https://www.arl.org).
-
-## [Climate Day: A poem on constraint and creativity](https://investinopen.org/blog/climate-day-a-poem-on-constraint-and-creativity/)
-
-via Invest In Open · 2026-10-30, updated 2026-11-19
-
-What if constraint is not the enemy of creativity, but instead can serve as a potent energy source?
-
-## [Guest Post — Freed from Thinking: Protecting Scholarly Publishing from the Slow Erosion of Human Judgment](https://scholarlykitchen.sspnet.org/2026/10/30/guest-post-freed-from-thinking-protecting-scholarly-publishing-from-the-slow-erosion-of-human-judgment/)
-
-via Scholarly Kitchen · 2026-10-30, updated 2026-11-18
-
-Today's guest blogger argues that if we want scholarly publishing to be worth anything in a generation, we must acknowledge the risks we run by relying on intelligent automation.
-
-The post [Guest Post — Freed from Thinking: Protecting Scholarly Publishing from the Slow Erosion of Human Judgment](https://scholarlykitchen.sspnet.org/2026/10/30/guest-post-freed-from-thinking-protecting-scholarly-publishing-from-the-slow-erosion-of-human-judgment/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).
-
-## [Why Archivists Matter: Everything You Need to Know About Their Role in Digital Preservation](https://libnova.com/importance-of-archivists-digital-preservation/)
-
-via Libnova · 2026-10-30
-
-Every digital file holds part of a story. If nobody records who created it, when and why, that story fades even when the file itself survives. Keeping that context alive is the daily work of the archivist, and it is the reason this profession deserves attention on World Digital Preservation Day, celebrated on November. Key \[…\]
-
-The post [Why Archivists Matter: Everything You Need to Know About Their Role in Digital Preservation](https://libnova.com/importance-of-archivists-digital-preservation/) appeared first on [LIBNOVA](https://libnova.com).
 

@@ -1,20 +1,234 @@
 ---
 title: "Urban Farm"
 description: "Home, garden and urban farm blogs and news."
-pubDate: Fri, 20 Nov 2026 03:00:35 GMT
+pubDate: Sat, 21 Nov 2026 01:17:00 GMT
 aggregateOf: "home.md"
-dateModified: Fri, 20 Nov 2026 22:33:16 GMT
-itemCount: 370
-generator: antenna/0.1.0
+dateModified: Sat, 21 Nov 2026 14:47:26 GMT
+itemCount: 373
+generator: antenna/0.1.1
 ---
 
 # Urban Farm
 
+## [What Those Creepy Larvae Crawling Around Idaho Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-idaho-bathroom-drains-actually-are/)
+
+via Yard Life blog · 2026-11-21
+
+Finding tiny, wormlike creatures crawling across a bathroom floor is an unpleasant surprise, especially when they appear beside a sink ...
+
+[Read more](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-idaho-bathroom-drains-actually-are/#more-69831 "What Those Creepy Larvae Crawling Around Idaho Bathroom Drains Actually Are")
+
+The post [What Those Creepy Larvae Crawling Around Idaho Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-idaho-bathroom-drains-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Creepy Larvae Crawling Around Nevada Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-nevada-bathroom-drains-actually-are/)
+
+via Yard Life blog · 2026-11-21
+
+Nevada is known for its dry air, long stretches of sunshine, and landscapes where water can seem surprisingly scarce. That ...
+
+[Read more](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-nevada-bathroom-drains-actually-are/#more-69825 "What Those Creepy Larvae Crawling Around Nevada Bathroom Drains Actually Are")
+
+The post [What Those Creepy Larvae Crawling Around Nevada Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-nevada-bathroom-drains-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Creepy Larvae Crawling Around Oregon Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-oregon-bathroom-drains-actually-are/)
+
+via Yard Life blog · 2026-11-21
+
+In Oregon, a bathroom can become a place where small household problems remain unnoticed for surprisingly long periods. During stretches ...
+
+[Read more](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-oregon-bathroom-drains-actually-are/#more-69818 "What Those Creepy Larvae Crawling Around Oregon Bathroom Drains Actually Are")
+
+The post [What Those Creepy Larvae Crawling Around Oregon Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-oregon-bathroom-drains-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Creepy Larvae Crawling Around Washington Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-washington-bathroom-drains-actually-are/)
+
+via Yard Life blog · 2026-11-21
+
+Washington homeowners may notice something unusual near a bathroom drain after several days of rainy weather. Tiny, dark creatures begin ...
+
+[Read more](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-washington-bathroom-drains-actually-are/#more-69811 "What Those Creepy Larvae Crawling Around Washington Bathroom Drains Actually Are")
+
+The post [What Those Creepy Larvae Crawling Around Washington Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-washington-bathroom-drains-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Creepy Larvae Crawling Around New Mexico Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-new-mexico-bathroom-drains-actually-are/)
+
+via Yard Life blog · 2026-11-21
+
+New Mexico homes often deal with a different set of household conditions than properties in humid parts of the country. ...
+
+[Read more](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-new-mexico-bathroom-drains-actually-are/#more-69804 "What Those Creepy Larvae Crawling Around New Mexico Bathroom Drains Actually Are")
+
+The post [What Those Creepy Larvae Crawling Around New Mexico Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-new-mexico-bathroom-drains-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Creepy Larvae Crawling Around Minnesota Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-minnesota-bathroom-drains-actually-are/)
+
+via Yard Life blog · 2026-11-21
+
+The first sign of an unusual bathroom insect problem in a Minnesota home may have nothing to do with a ...
+
+[Read more](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-minnesota-bathroom-drains-actually-are/#more-69797 "What Those Creepy Larvae Crawling Around Minnesota Bathroom Drains Actually Are")
+
+The post [What Those Creepy Larvae Crawling Around Minnesota Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-minnesota-bathroom-drains-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Creepy Larvae Crawling Around Wisconsin Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-wisconsin-bathroom-drains-actually-are/)
+
+via Yard Life blog · 2026-11-21
+
+Wisconsin homeowners are familiar with the seasonal changes that affect their houses. Windows stay closed during long stretches of winter, ...
+
+[Read more](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-wisconsin-bathroom-drains-actually-are/#more-69790 "What Those Creepy Larvae Crawling Around Wisconsin Bathroom Drains Actually Are")
+
+The post [What Those Creepy Larvae Crawling Around Wisconsin Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-wisconsin-bathroom-drains-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Creepy Larvae Crawling Around West Virginia Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-west-virginia-bathroom-drains-actually-are/)
+
+via Yard Life blog · 2026-11-21
+
+A bathroom can look perfectly ordinary until something unusual appears near the plumbing. In some West Virginia homes, residents notice ...
+
+[Read more](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-west-virginia-bathroom-drains-actually-are/#more-69783 "What Those Creepy Larvae Crawling Around West Virginia Bathroom Drains Actually Are")
+
+The post [What Those Creepy Larvae Crawling Around West Virginia Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-west-virginia-bathroom-drains-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Creepy Larvae Crawling Around South Carolina Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-south-carolina-bathroom-drains-actually-are/)
+
+via Yard Life blog · 2026-11-21
+
+Bathroom drains are easy to overlook when everything appears to be working normally. Water disappears, sinks remain usable, and showers ...
+
+[Read more](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-south-carolina-bathroom-drains-actually-are/#more-69776 "What Those Creepy Larvae Crawling Around South Carolina Bathroom Drains Actually Are")
+
+The post [What Those Creepy Larvae Crawling Around South Carolina Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-south-carolina-bathroom-drains-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Creepy Larvae Crawling Around Colorado Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-colorado-bathroom-drains-actually-are/)
+
+via Yard Life blog · 2026-11-21
+
+Colorado homeowners may expect to find insects around outdoor lights, basement windows, or garden beds, but discovering tiny larvae crawling ...
+
+[Read more](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-colorado-bathroom-drains-actually-are/#more-69769 "What Those Creepy Larvae Crawling Around Colorado Bathroom Drains Actually Are")
+
+The post [What Those Creepy Larvae Crawling Around Colorado Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-colorado-bathroom-drains-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [Jonathan Scott’s Trick for Making a Fake Christmas Tree Look Real Is Brilliant](https://www.familyhandyman.com/article/jonathan-scott-christmas-decor-hacks/)
+
+via Family Handyman Blog · 2026-11-20
+
+Learn Jonathan Scott's Christmas decor hacks for a fuller-looking tree, fresh holiday displays, and decorations that are easier to store.
+
+The post [Jonathan Scott’s Trick for Making a Fake Christmas Tree Look Real Is Brilliant](https://www.familyhandyman.com/article/jonathan-scott-christmas-decor-hacks/) appeared first on [Family Handyman](https://www.familyhandyman.com).
+
+## [Congratulations to the Winners of the 2026 Sunset International Spirits Competition](https://sunset.com/food-wine/wine-pairings/sunset-international-spirits-competition-2026-winners)
+
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+
+The winners of the 2026 Sunset International Spirits Competition represent the remarkable range and creativity of today’s spirits industry.
+
+## [Professional Chefs Share Their Biggest Thanksgiving Pet Peeves](https://sunset.com/food-wine/chefs-thanksgiving-pet-peeves)
+
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+
+It’s no surprise that professional chefs have strong opinions about Thanksgiving. They shared their biggest pet peeves to avoid.
+
+## [Desirable qualities in a mango tree for Southern California (and how to get them)](https://gregalder.com/yardposts/desirable-qualities-in-a-mango-tree-for-southern-california/)
+
+via Greg Alder's blog, Yard Post · 2026-11-20
+
+Around ten years ago, my friend Brad started planting mangos, some from seed, some as purchased seedlings, some as purchased grafted trees, some from California and some from Florida. In the span of a couple years, he’d covered about a half acre with around 55 mango trees. Variety names included Early Gold, Honey Kiss, Winters, \[…\]
+
+The post [Desirable qualities in a mango tree for Southern California (and how to get them)](https://gregalder.com/yardposts/desirable-qualities-in-a-mango-tree-for-southern-california/) appeared first on [Greg Alder's Yard Posts: Southern California food gardening](https://gregalder.com/yardposts).
+
 ## [From Empanadas to a Noodle Stir Fry, Here’s How to Make Your Thanksgiving Leftovers More Exciting](https://sunset.com/food-wine/holidays-occasions/thanksgiving-leftover-recipes)
 
-via Sunset Magazine - Living in the West · 2026-11-20
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
 
 It's just not Thanksgiving without leftovers. Try these recipes for some great ways to reinvent Thanksgiving leftovers.
+
+## [Home Tours](https://sunset.com/home-garden/home-tours)
+
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+
+Take a peek at our favorite homes around the West, from modern cabins to mid-century ranch houses
+
+## [Home & Garden](https://sunset.com/home-garden)
+
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+
+Great home and garden design ideas, from decorating and DIY projects to landscaping and edible gardening tips from Sunset magazine.
+
+## [Wine & Drinks](https://sunset.com/food-wine/wine-pairings)
+
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+
+Pair wine like a pro with our wine guide. Find the best wine for every meal, including burgers, pizza, steak, and more
+
+## [Restaurants](https://sunset.com/food-wine/restaurants)
+
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+
+… [Read More](https://sunset.com/food-wine/restaurants)
+
+## [Recipes](https://sunset.com/food-wine/kitchen-assistant)
+
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+
+Search Sunset's collection of great recipes for every occasion. From quick weekday meals to indulgent holiday menus, we share the best in Western cooking.
+
+## [16 Extra-Special Holiday Appetizers That Will Impress Your Holiday Guests](https://sunset.com/food-wine/entertaining/christmas-appetizers)
+
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+
+Holiday gatherings are special by definition. So pull out all the stops and let guests know they’re in for a treat by starting the party with these extravagant appetizers
+
+## [From a Crab Feast to a Festive Meal for Two, These Holiday Menu Ideas Work for Any Type of Gathering](https://sunset.com/food-wine/holidays-occasions/christmas-holiday-menu-recipes)
+
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+
+Plan the perfect menu for your Christmas party. Get great menu ideas for classic holiday dinners, finger-food parties, and an easy holiday buffet.
+
+## [25 Delectable Holiday Desserts You’ll Love Making (and Eating)](https://sunset.com/food-wine/holidays-occasions/holiday-dessert-recipes)
+
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+
+These festive favorites and elegant show-stoppers create holiday cheer with every bite. Take a look at our most popular holiday dessert recipes.
+
+## [Food and Drink](https://sunset.com/food-wine)
+
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+
+Delicious recipes, food and wine pairings, and more ways to savor the West.
+
+## [Chefs Share Their Genius Ingredient Substitution Hacks That Will Save Your Thanksgiving Meal](https://sunset.com/food-wine/ingredient-substitutions)
+
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+
+A common Thanksgiving mishap is running out of a basic pantry ingredient. Chefs share some ingredient substitutions that will save your meal.
+
+## [Homepage 2025](https://sunset.com/)
+
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+
+Road Trips, Hotels, Outdoor Adventure The A-Frame Getaways You Can Book Right Now Sunset has been chronicling the rise of the A-frame since the style first took hold in the West. Nearly 70 years… [Read More](https://sunset.com/)
+
+## [The Best Wines to Pair with Your Holiday Meals](https://sunset.com/food-wine/wine-pairings/holiday-grilling)
+
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+
+The next shipment of Sunset Wine Club bottles matches beautifully with the dishes mentioned in our Holiday Issue.
+
+## [These Thanksgiving Dishes Are Often an Afterthought—and That’s a Big Mistake](https://sunset.com/food-wine/underrated-thanksgiving-dishes)
+
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+
+On Thanksgiving Day, the emphasis is always on the turkey, but chefs say not to forget about these overlooked dishes.
+
+## [What Is Xerophytic Garden Design?](https://gardenerspath.com/plants/succulents/xerophytic-garden-design/)
+
+via The Gardener's Path · 2026-11-20
+
+Nowadays, we’re all concerned about natural resources and the environment – and rightly so! But there are steps that we can take to reduce our environmental impact, like landscaping with plant species that need less water to thrive. Learn how to plan a xerophytic garden and choose the best plants for your needs.
+
+The post [What Is Xerophytic Garden Design?](https://gardenerspath.com/plants/succulents/xerophytic-garden-design/) appeared first on [Gardener's Path](https://gardenerspath.com).
 
 ## [What Those Strange Worms Crawling Out of California Bathroom Drains Actually Are](https://ownyardlife.com/what-those-strange-worms-crawling-out-of-california-bathroom-drains-actually-are/)
 
@@ -118,7 +332,7 @@ The post [What Those Strange Worms Crawling Out of Ohio Bathroom Drains Actually
 
 ## [What To Do About Woody Stems on Your Christmas Cactus](https://gardenerspath.com/plants/succulents/woody-christmas-cactus/)
 
-via The Gardener's Path · 2026-11-19
+via The Gardener's Path · 2026-11-19, updated 2026-11-20
 
 Tropical Christmas cactus is a relatively easy houseplant to grow. Native to the rainforests of South America, it thrives with indirect sunlight in organically-rich, well-draining potting medium. The fleshy stems are green and segmented, but sometimes they turn brown and become woody. Read on to learn what this means.
 
@@ -126,7 +340,7 @@ The post [What To Do About Woody Stems on Your Christmas Cactus](https://gardene
 
 ## [You Can Actually Repair a House in GTA6—But How Realistic Is It?](https://www.familyhandyman.com/article/gta6-home-improvement-jobs/)
 
-via Family Handyman Blog · 2026-11-19
+via Family Handyman Blog · 2026-11-19, updated 2026-11-20
 
 GTA6 let's you take a break from a life of crime to make some much-needed home repairs on Jason and Lucia's house.
 
@@ -134,11 +348,19 @@ The post [You Can Actually Repair a House in GTA6—But How Realistic Is It?](ht
 
 ## [If You See a Taco Bell With THIS On It, Here’s What It Means](https://www.familyhandyman.com/article/taco-bell-open-metal-frame/)
 
-via Family Handyman Blog · 2026-11-19
+via Family Handyman Blog · 2026-11-19, updated 2026-11-20
 
 The open metal frame on some new Taco Bell buildings looks unfinished, but it's intentional. Here's how it fits into the Kitchen X design.
 
 The post [If You See a Taco Bell With THIS On It, Here’s What It Means](https://www.familyhandyman.com/article/taco-bell-open-metal-frame/) appeared first on [Family Handyman](https://www.familyhandyman.com).
+
+## [What Actually Happens When Semi-Trucks Stop at Weigh Stations?](https://www.familyhandyman.com/article/truck-stop-weigh-stations/)
+
+via Family Handyman Blog · 2026-11-19, updated 2026-11-20
+
+Truck weigh stations check more than weight. Learn how the process works, what inspectors look for, and why some trucks drive past.
+
+The post [What Actually Happens When Semi-Trucks Stop at Weigh Stations?](https://www.familyhandyman.com/article/truck-stop-weigh-stations/) appeared first on [Family Handyman](https://www.familyhandyman.com).
 
 ## [What Actually Happens When Semi-Trucks Stop at Weigh Stations?](https://www.familyhandyman.com/article/what-actually-happens-when-semi-trucks-stop-at-weigh-stations/)
 
@@ -150,7 +372,7 @@ The post [What Actually Happens When Semi-Trucks Stop at Weigh Stations?](https:
 
 ## [The Safest Way to Shovel Snow, According to Experts](https://www.familyhandyman.com/article/shovel-snow-safely/)
 
-via Family Handyman Blog · 2026-11-19
+via Family Handyman Blog · 2026-11-19, updated 2026-11-20
 
 Avoid injury with these expert-backed snow shoveling safety tips.
 
@@ -158,7 +380,7 @@ The post [The Safest Way to Shovel Snow, According to Experts](https://www.famil
 
 ## [7 Surfaces You Should Never Use Ice Melt On](https://www.familyhandyman.com/article/surfaces-melting-salt/)
 
-via Family Handyman Blog · 2026-11-19
+via Family Handyman Blog · 2026-11-19, updated 2026-11-20
 
 Avoid damaging salt-sensitive outdoor surfaces with these expert-backed suggestions.
 
@@ -166,43 +388,25 @@ The post [7 Surfaces You Should Never Use Ice Melt On](https://www.familyhandyma
 
 ## [Experts Say These Simple Home Changes Can Make Your Space Less Gloomy in the Winter](https://sunset.com/home-garden/design/make-home-less-gloomy-in-winter)
 
-via Sunset Magazine - Living in the West · 2026-11-19, updated 2026-11-20
+via Sunset Magazine - Living in the West · 2026-11-19, updated 2026-11-21
 
 From brighter bulbs to better evening routines, sleep experts share simple ways to make your home feel cozier during winter time.
 
-## [Chefs Share Their Genius Ingredient Substitution Hacks That Will Save Your Thanksgiving Meal](https://sunset.com/food-wine/ingredient-substitutions)
-
-via Sunset Magazine - Living in the West · 2026-11-19, updated 2026-11-20
-
-A common Thanksgiving mishap is running out of a basic pantry ingredient. Chefs share some ingredient substitutions that will save your meal.
-
 ## [It’s Time to Give That Tired Retaining Wall a Fall Upgrade](https://sunset.com/home-garden/landscaping/fall-upgrade-for-retaining-walls)
 
-via Sunset Magazine - Living in the West · 2026-11-19, updated 2026-11-20
+via Sunset Magazine - Living in the West · 2026-11-19, updated 2026-11-21
 
 Retaining walls may be built to hold things up, but they don’t have to look like an afterthought. Here’s how to make yours feel more at home in the garden this fall.
 
-## [These Thanksgiving Dishes Are Often an Afterthought—and That’s a Big Mistake](https://sunset.com/food-wine/underrated-thanksgiving-dishes)
-
-via Sunset Magazine - Living in the West · 2026-11-19, updated 2026-11-20
-
-On Thanksgiving Day, the emphasis is always on the turkey, but chefs say not to forget about these overlooked dishes.
-
-## [Homepage 2025](https://sunset.com/)
-
-via Sunset Magazine - Living in the West · 2026-11-19, updated 2026-11-20
-
-Outdoor Adventure, Road Trips, Travel Tips, WildLands The West Shore Is Lake Tahoe’s Best-Kept Secret—Save This Itinerary for Your Next Visit Old Tahoe lives on at the West Shore. [Read More](https://sunset.com/)
-
 ## [Professional Chefs Say This Is How You’re Overcomplicating Thanksgiving](https://sunset.com/food-wine/how-people-complicate-thanksgiving)
 
-via Sunset Magazine - Living in the West · 2026-11-19, updated 2026-11-20
+via Sunset Magazine - Living in the West · 2026-11-19, updated 2026-11-21
 
 We asked professional chefs for the things that people overcomplicate on Thanksgiving so you can avoid them and host with ease this year.
 
 ## [Chefs Swear by These Thanksgiving Shortcuts from Trader Joe’s](https://sunset.com/food-wine/trader-joes-thanksgiving-shortcuts)
 
-via Sunset Magazine - Living in the West · 2026-11-19, updated 2026-11-20
+via Sunset Magazine - Living in the West · 2026-11-19, updated 2026-11-21
 
 Don't feel like you need to make everything from scratch. Chefs share their favorite Thanksgiving shortcuts.
 
@@ -314,7 +518,7 @@ The post [What Those Tiny Worms Crawling Around Louisiana Bathroom Drains Actual
 
 ## [How to Acclimate Plants for Winter Indoors](https://gardenerspath.com/plants/houseplants/acclimate-plants-indoors/)
 
-via The Gardener's Path · 2026-11-18, updated 2026-11-19
+via The Gardener's Path · 2026-11-18, updated 2026-11-20
 
 If you take some of your houseplants outside to spend the summer months on the patio or in the garden, you'll need to plan ahead before you bring them back indoors. As the temperatures drop, follow these top tips for acclimating your plants to the indoor environment to ensure a smooth transition. Read more now.
 
@@ -322,17 +526,11 @@ The post [How to Acclimate Plants for Winter Indoors](https://gardenerspath.com/
 
 ## [The Reason Some Parking Lots Have Angled Spaces Instead of Straight Ones](https://www.familyhandyman.com/article/parking-lots-angled-spaces/)
 
-via Family Handyman Blog · 2026-11-18, updated 2026-11-19
+via Family Handyman Blog · 2026-11-18, updated 2026-11-20
 
 Diagonal parking spaces can make parking easier, but there's a trade-off. Learn why lots use them and how they affect traffic flow and safety.
 
 The post [The Reason Some Parking Lots Have Angled Spaces Instead of Straight Ones](https://www.familyhandyman.com/article/parking-lots-angled-spaces/) appeared first on [Family Handyman](https://www.familyhandyman.com).
-
-## [Professional Chefs Share Their Biggest Thanksgiving Pet Peeves](https://sunset.com/food-wine/chefs-thanksgiving-pet-peeves)
-
-via Sunset Magazine - Living in the West · 2026-11-18, updated 2026-11-20
-
-It’s no surprise that professional chefs have strong opinions about Thanksgiving. They shared their biggest pet peeves to avoid.
 
 ## [Farm to School – How California Connects Farms and Schools](https://californiagrown.org/blog/what-is-farm-to-school-california/)
 
@@ -490,7 +688,7 @@ The post [10 Fisher Secrets Most Maine Residents Never Knew](https://ownyardlife
 
 ## [18 Kitchen Hacks Our Readers Swear By](https://www.familyhandyman.com/list/kitchen-hacks-from-homeowners/)
 
-via Family Handyman Blog · 2026-11-17, updated 2026-11-19
+via Family Handyman Blog · 2026-11-17, updated 2026-11-20
 
 Readers share smart solutions for everyday problems in the heart of your home.
 
@@ -498,7 +696,7 @@ The post [18 Kitchen Hacks Our Readers Swear By](https://www.familyhandyman.com/
 
 ## [Why Is My Christmas Cactus Turning Yellow?](https://gardenerspath.com/plants/succulents/christmas-cactus-yellow/)
 
-via The Gardener's Path · 2026-11-17, updated 2026-11-19
+via The Gardener's Path · 2026-11-17, updated 2026-11-20
 
 Tropical Christmas cactus is a rainforest epiphyte with beautiful blooms that has become a popular houseplant. It thrives in indirect sunlight, and organically-rich, well-draining potting medium. It has green segmented stems that sometimes turn yellow. Read on to find out why this happens and what you can do about it.
 
@@ -506,7 +704,7 @@ The post [Why Is My Christmas Cactus Turning Yellow?](https://gardenerspath.com/
 
 ## [What It Really Means When Your Mayor Awards Someone the “Key to the City”](https://www.familyhandyman.com/article/key-to-the-city/)
 
-via Family Handyman Blog · 2026-11-17, updated 2026-11-19
+via Family Handyman Blog · 2026-11-17, updated 2026-11-20
 
 What does a key to the city actually do? Learn how the tradition began, who receives the honor, and whether the key opens anything.
 
@@ -544,7 +742,7 @@ We asked professional chefs what they would never serve at Thanksgiving. They di
 
 ## [Electrical Tape Color Meanings: What Each Color Tells Electricians](https://www.familyhandyman.com/article/electrical-tape-color-meaning/)
 
-via Family Handyman Blog · 2026-11-17, updated 2026-11-19
+via Family Handyman Blog · 2026-11-17, updated 2026-11-20
 
 From black and red to white and green, learn what electrical tape colors mean, how electricians use them, and when colors can mislead.
 
@@ -690,7 +888,7 @@ The post [10 Black Widow Secrets Most Texas Residents Never Discover](https://ow
 
 ## [How to Shovel the Trickiest Surfaces the Right Way, From Pavers to Your Roof](https://www.familyhandyman.com/list/how-to-shovel-the-trickiest-surfaces-the-right-way-from-pavers-to-your-roof/)
 
-via Family Handyman Blog · 2026-11-16, updated 2026-11-19
+via Family Handyman Blog · 2026-11-16, updated 2026-11-20
 
 From lawns to sealed concrete, you might be surprised at how much damage a snow shovel can do.
 
@@ -708,12 +906,6 @@ via Sunset Magazine - Living in the West · 2026-11-16, updated 2026-11-18
 
 Whether you call it stuffing or dressing, you want this classic side dish on your Thanksgiving table. Take a look at these delicious stuffing recipes.
 
-## [The Best Wines to Pair with Your Holiday Meals](https://sunset.com/food-wine/wine-pairings/holiday-grilling)
-
-via Sunset Magazine - Living in the West · 2026-11-16, updated 2026-11-18
-
-The next shipment of Sunset Wine Club bottles matches beautifully with the dishes mentioned in our Holiday Issue.
-
 ## [Double Gold Winners of the 2026 Sunset International Spirits Competition](https://sunset.com/food-wine/wine-pairings/sunset-international-spirits-competition-2026-double-gold-winners)
 
 via Sunset Magazine - Living in the West · 2026-11-16, updated 2026-11-18
@@ -725,12 +917,6 @@ The Double Gold winners of the 2026 Sunset INternational Spirits Competition inc
 via Sunset Magazine - Living in the West · 2026-11-16, updated 2026-11-18
 
 Congratulations to the Gold honorees of the 2026 Sunset International Spirits Competition, decided by a panel of expert judges.
-
-## [Congratulations to the Winners of the 2026 Sunset International Spirits Competition](https://sunset.com/food-wine/wine-pairings/sunset-international-spirits-competition-2026-winners)
-
-via Sunset Magazine - Living in the West · 2026-11-16, updated 2026-11-18
-
-The winners of the 2026 Sunset International Spirits Competition represent the remarkable range and creativity of today’s spirits industry.
 
 ## [10 Black Widow Secrets Most Washington Residents Never Discover](https://ownyardlife.com/10-black-widow-secrets-most-washington-residents-never-discover/)
 
@@ -846,7 +1032,7 @@ Beaches get all the love, but lakes are a great option, especially if you have a
 
 ## [7 Tips for Planting Hellebore Seeds](https://gardenerspath.com/plants/flowers/hellebore-seed-planting-tips/)
 
-via The Gardener's Path · 2026-11-15, updated 2026-11-19
+via The Gardener's Path · 2026-11-15, updated 2026-11-20
 
 Are you longing for color in the late winter garden, when most plants are still dormant? Hardy flowering hellebores fit the bill. Easy to sow, they reward with an abundance of sweetly nodding blossoms in an array of colors. Chase the winter blues away with these 7 tips for planting hellebore seeds. Read more now.
 
@@ -956,7 +1142,7 @@ The post [What Leaves Bloody Feathers Across Georgia Backyards](https://ownyardl
 
 ## [How to Protect Rosemary Plants in Winter](https://gardenerspath.com/plants/herbs/protect-winter-rosemary/)
 
-via The Gardener's Path · 2026-11-14, updated 2026-11-19
+via The Gardener's Path · 2026-11-14, updated 2026-11-20
 
 If you’re growing rosemary in your garden, you might be wondering if it can survive the winter outside. Depending on your growing zone, there are a number of measures you can take to help your plants through the colder months, including mulching and potting-up. Learn how to protect your rosemary plants this winter.
 
@@ -964,7 +1150,7 @@ The post [How to Protect Rosemary Plants in Winter](https://gardenerspath.com/pl
 
 ## [Two failures and two successes in my garden today](https://gregalder.com/yardposts/two-failures-and-two-successes-in-my-garden-today/)
 
-via Greg Alder's blog, Yard Post · 2026-11-14
+via Greg Alder's blog, Yard Post · 2026-11-14, updated 2026-11-20
 
 Failure one: Sowing old onion seed In late October, I sowed about 150 onion seeds. Only eight germinated. I suspected that I might get reduced germination because the seeds were from last year. I knew that onion seeds didn’t have long viability, but I thought I would get at least half of them to sprout, \[…\]
 
@@ -1084,7 +1270,7 @@ The post [10 Black Widow Spider Secrets Most Arizona Residents Never Knew](https
 
 ## [How to Prepare Your Trees For Winter](https://gardenerspath.com/plants/landscape-trees/prep-trees-winter/)
 
-via The Gardener's Path · 2026-11-13, updated 2026-11-19
+via The Gardener's Path · 2026-11-13, updated 2026-11-20
 
 Freezing temperatures, harsh winds, and heavy snow can all take a toll on trees, leaving them with cracked bark, browned foliage, and broken limbs. The good news is that a little preparation in the fall can go a long way toward keeping them healthy until spring. Learn how to prepare your trees for winter in this guide.
 
@@ -1092,7 +1278,7 @@ The post [How to Prepare Your Trees For Winter](https://gardenerspath.com/plants
 
 ## [Before or After the Snow? Here’s the Right Time to Salt Your Driveway This Winter](https://www.familyhandyman.com/article/when-to-ice-your-driveway/)
 
-via Family Handyman Blog · 2026-11-13, updated 2026-11-19
+via Family Handyman Blog · 2026-11-13, updated 2026-11-20
 
 Salt your driveway like a pro this winter with these expert-backed tips.
 
@@ -1106,7 +1292,7 @@ Veterans Day on November 11 means free national parks entry, just in time for fa
 
 ## [Recurring Plumbing Problems? The SANYIPACE S830ASMKT Sewer Camera Can Help](https://www.familyhandyman.com/article/sanyipace-s830asmkt-sewer-camera/)
 
-via Family Handyman Blog · 2026-11-13, updated 2026-11-19
+via Family Handyman Blog · 2026-11-13, updated 2026-11-20
 
 Take a closer look at this professional-grade sewer camera designed to make pipe inspections easier and more efficient.
 
@@ -1234,7 +1420,7 @@ The post [Enjoy Old-Fashioned Farm Fun at Sunflower Pumpkin Patch](https://calif
 
 ## [The Different Police Sirens You Hear Aren’t Totally Random — Here’s What They Mean](https://www.familyhandyman.com/article/police-siren-sounds/)
 
-via Family Handyman Blog · 2026-11-12, updated 2026-11-19
+via Family Handyman Blog · 2026-11-12, updated 2026-11-20
 
 Police cars use wails, yelps, and other siren tones to alert drivers. Learn what the sounds mean, when officers use them, and how to respond.
 
@@ -1250,7 +1436,7 @@ The post [A Colorful Legacy: How Babe Farms Changed the Way We Eat Vegetables](h
 
 ## [Learn How to Grow and Care for Cedar Trees](https://gardenerspath.com/plants/landscape-trees/grow-cedars/)
 
-via The Gardener's Path · 2026-11-12, updated 2026-11-19
+via The Gardener's Path · 2026-11-12, updated 2026-11-20
 
 Cedar trees (Cedrus spp.) add beautiful texture and shape to the garden. As evergreen conifers, they hold that appeal year-round, so it’s easy to see why they’re so popular as a focal point in the landscape. Learn how to grow and care for these majestic conifers in this comprehensive guide. Read more now.
 
@@ -1258,7 +1444,7 @@ The post [Learn How to Grow and Care for Cedar Trees](https://gardenerspath.com/
 
 ## [Can You Really Turn Your Riding Lawnmower Into a Snow Plow?](https://www.familyhandyman.com/article/riding-lawnmower-snow-plow/)
 
-via Family Handyman Blog · 2026-11-12, updated 2026-11-19
+via Family Handyman Blog · 2026-11-12, updated 2026-11-20
 
 Your riding lawnmower can do double duty this winter by adding a snow plow. Here’s what you need to know before adding a plow to your riding mower.
 
@@ -1266,7 +1452,7 @@ The post [Can You Really Turn Your Riding Lawnmower Into a Snow Plow?](https://w
 
 ## [Yard Eyesores That Ruin Your Curb Appeal](https://www.familyhandyman.com/article/eyesores-in-yards/)
 
-via Family Handyman Blog · 2026-11-12, updated 2026-11-19
+via Family Handyman Blog · 2026-11-12, updated 2026-11-20
 
 Realtors weigh in on these common yard eyesores that can hurt curb appeal and make a home look less than its best.
 
@@ -1274,7 +1460,7 @@ The post [Yard Eyesores That Ruin Your Curb Appeal](https://www.familyhandyman.c
 
 ## [What Should You Do With Pumpkins After Halloween?](https://www.familyhandyman.com/article/pumpkins-after-halloween/)
 
-via Family Handyman Blog · 2026-11-12, updated 2026-11-19
+via Family Handyman Blog · 2026-11-12, updated 2026-11-20
 
 Should you compost pumpkins after Halloween, toss them in the trash or leave them out for wildlife? Experts explain the options.
 
@@ -1438,7 +1624,7 @@ The post [From Grove to Bottle: The Art of Olive Oil at Kiler Ridge](https://cal
 
 ## [17 of the Best Flowering Houseplants for Low Light](https://gardenerspath.com/plants/houseplants/low-light-flowering-houseplants/)
 
-via The Gardener's Path · 2026-11-11, updated 2026-11-19
+via The Gardener's Path · 2026-11-11, updated 2026-11-20
 
 Are you looking for a flowering houseplant for a low-light spot in your home? It can be hard to find plants that flower indoors, let alone in low light conditions. In this guide, we introduce 17 excellent options for low-light flowering houseplants from colorful African violets to succulent kalanchoe plants. Read more.
 
@@ -1594,7 +1780,7 @@ The post [10 Water Moccasin Secrets Most Georgia Residents Never Knew](https://o
 
 ## [Elon Musk Is Pulling the Plug on Cybertrucks to Focus on Something New](https://www.familyhandyman.com/article/cybertruck-production-cybercab/)
 
-via Family Handyman Blog · 2026-11-10, updated 2026-11-19
+via Family Handyman Blog · 2026-11-10, updated 2026-11-20
 
 Elon Musk says Tesla will wind down Cybertruck production to focus on Cybercab. Here's what the decision means for owners and future buyers.
 
@@ -1614,7 +1800,7 @@ From slow-simmered dinners to showstopping holiday feasts, ZLINE's enameled cast
 
 ## [How to Keep Rats Out of Your Garden](https://gardenerspath.com/how-to/disease-and-pests/control-rats/)
 
-via The Gardener's Path · 2026-11-10, updated 2026-11-19
+via The Gardener's Path · 2026-11-10, updated 2026-11-20
 
 Nobody wants rats around, whether it's in the home or garden. They eat your crops, get into places you don't want them, and spread disease. Once you see a rat, it's likely that there are dozens more that you can't see, which means it's definitely time to act before an infestation gets worse. This guide explains how.
 
@@ -1736,7 +1922,7 @@ The post [10 Water Moccasin Secrets Most Alabama Residents Never Knew](https://o
 
 ## [What Those Little Holes in Your Plug Prongs Are Actually For](https://www.familyhandyman.com/article/holes-electrical-plug-prongs/)
 
-via Family Handyman Blog · 2026-11-09, updated 2026-11-19
+via Family Handyman Blog · 2026-11-09, updated 2026-11-20
 
 The holes in electrical plug prongs once helped keep plugs in outlets. Find out what they're used for now and whether they're required.
 
@@ -2014,7 +2200,7 @@ The Malibu home's western style scene-stealer is a tile backsplash in the kitche
 
 ## [Reading avocado leaves](https://gregalder.com/yardposts/reading-avocado-leaves/)
 
-via Greg Alder's blog, Yard Post · 2026-11-07, updated 2026-11-14
+via Greg Alder's blog, Yard Post · 2026-11-07, updated 2026-11-20
 
 It was my first avocado tree’s first winter when a couple leaves started getting yellow veins. Oh no, what disease is this? I thought. I took a picture and sent it to a seasoned avocado grower. He wrote back, “This is leaf senescence. The leaf is just dying naturally.” With this post, I hope to \[…\]
 
@@ -2062,7 +2248,7 @@ The post [10 Strange Porcupine Behaviors That Michigan Residents Rarely Notice](
 
 ## [Supporting The Yard Posts](https://gregalder.com/yardposts/supporting-the-yard-posts/)
 
-via Greg Alder's blog, Yard Post · 2026-11-07, updated 2026-11-14
+via Greg Alder's blog, Yard Post · 2026-11-07, updated 2026-11-20
 
 My goal with The Yard Posts is to help others grow food at home, with a focus on vegetables and fruits — especially avocados — in Southern California. How do I do this? I write short articles – “posts” – each Friday, and I augment each post with photos and sometimes video, as well as \[…\]
 
@@ -2138,7 +2324,7 @@ The post [Why Is My Christmas Cactus Turning Purple?](https://gardenerspath.com/
 
 ## [8 Reasons a Contractor Might Give You an Outrageously High Estimate](https://www.familyhandyman.com/list/why-contractor-gave-high-quote/)
 
-via Family Handyman Blog · 2026-11-06, updated 2026-11-19
+via Family Handyman Blog · 2026-11-06, updated 2026-11-20
 
 If you just got a quote for a home repair that made your eyes water, there's probably a reason it's so high. A team of contractors weighs in with possible explanations.
 
@@ -2146,19 +2332,19 @@ The post [8 Reasons a Contractor Might Give You an Outrageously High Estimate](h
 
 ## [I Thought Multi-Tools Were a Gimmick — Then I Took One on a Camping Trip](https://www.familyhandyman.com/article/leatherman-wave-plus-multi-tool/)
 
-via Family Handyman Blog · 2026-11-06, updated 2026-11-19
+via Family Handyman Blog · 2026-11-06, updated 2026-11-20
 
 If, like me, you think multi-tools are gimmicky gadgets, you might change your mind once you discover how handy they are when your toolbox isn’t within reach.
 
 The post [I Thought Multi-Tools Were a Gimmick — Then I Took One on a Camping Trip](https://www.familyhandyman.com/article/leatherman-wave-plus-multi-tool/) appeared first on [Family Handyman](https://www.familyhandyman.com).
 
-## [Our Favorite Home Deals Before Black Friday Even Starts (New Deals Just Added!)](https://www.familyhandyman.com/list/black-friday-2026/)
+## [Our Favorite Home Deals Before Black Friday Even Starts (More Deals Just Added!)](https://www.familyhandyman.com/list/black-friday-2026/)
 
-via Family Handyman Blog · 2026-11-06, updated 2026-11-19
+via Family Handyman Blog · 2026-11-06, updated 2026-11-20
 
 Score big savings on tools, furniture and home essentials before Black Friday officially starts.
 
-The post [Our Favorite Home Deals Before Black Friday Even Starts (New Deals Just Added!)](https://www.familyhandyman.com/list/black-friday-2026/) appeared first on [Family Handyman](https://www.familyhandyman.com).
+The post [Our Favorite Home Deals Before Black Friday Even Starts (More Deals Just Added!)](https://www.familyhandyman.com/list/black-friday-2026/) appeared first on [Family Handyman](https://www.familyhandyman.com).
 
 ## [9 Little-Known Secrets of Colorado Jerusalem Crickets](https://ownyardlife.com/9-little-known-secrets-of-colorado-jerusalem-crickets/)
 
@@ -2276,7 +2462,7 @@ The post [Why Do I See Hair-Like Roots on My Christmas Cactus?](https://gardener
 
 ## [Your Level Might Be the Wrong Size, and It Could Be Throwing Off Your Work](https://www.familyhandyman.com/article/level-size-accurate-leveling/)
 
-via Family Handyman Blog · 2026-11-05, updated 2026-11-19
+via Family Handyman Blog · 2026-11-05, updated 2026-11-20
 
 Find out what size level works best for shelves, cabinets, and framing, plus how much contact it needs and when overhang is okay.
 
@@ -2284,7 +2470,7 @@ The post [Your Level Might Be the Wrong Size, and It Could Be Throwing Off Your 
 
 ## [Tool Trials: Putting Ridgid’s Cordless Crown Stapler To the Test](https://www.familyhandyman.com/article/tool-trials-crown-stapler/)
 
-via Family Handyman Blog · 2026-11-05, updated 2026-11-19
+via Family Handyman Blog · 2026-11-05, updated 2026-11-20
 
 Is a cordless stapler a real upgrade, or just a nice-to-have? I put one to the test to find out.
 
@@ -2398,7 +2584,7 @@ The post [10 Remarkable Facts About Wolves That Many Minnesota Residents Have Ne
 
 ## [Winter Storm Watch vs. Winter Storm Warning: What’s the Difference?](https://www.familyhandyman.com/article/winter-storm-watch-warning/)
 
-via Family Handyman Blog · 2026-11-04, updated 2026-11-19
+via Family Handyman Blog · 2026-11-04, updated 2026-11-20
 
 Learn the difference between a winter storm watch and winter storm warning, when each alert is issued, and how homeowners should prepare.
 
@@ -2406,7 +2592,7 @@ The post [Winter Storm Watch vs. Winter Storm Warning: What’s the Difference?]
 
 ## [That Hole in Your Ruler Isn’t Random – Here’s What It’s Actually For](https://www.familyhandyman.com/article/rulers-with-holes/)
 
-via Family Handyman Blog · 2026-11-04, updated 2026-11-19
+via Family Handyman Blog · 2026-11-04, updated 2026-11-20
 
 Why do some rulers have a hole? Learn why manufacturers include it, how it helps with storage, and where the design began.
 
@@ -2564,7 +2750,7 @@ The post [9 Little-Known Secrets About Florida Panthers That May Surprise Florid
 
 ## [The Best Holiday Decorations Across the U.S., and How to Steal the Look](https://www.familyhandyman.com/list/best-holiday-decorations/)
 
-via Family Handyman Blog · 2026-11-03, updated 2026-11-19
+via Family Handyman Blog · 2026-11-03, updated 2026-11-20
 
 These homes are full of ideas you can borrow for your own yard.
 
@@ -2572,7 +2758,7 @@ The post [The Best Holiday Decorations Across the U.S., and How to Steal the Loo
 
 ## [If You See Cyan Lights on a Car, Here’s What They Mean](https://www.familyhandyman.com/article/cyan-lights-self-driving-cars/)
 
-via Family Handyman Blog · 2026-11-03, updated 2026-11-19
+via Family Handyman Blog · 2026-11-03, updated 2026-11-20
 
 Cyan lights on cars may become more common in the U.S. Learn what the blue-green lights mean and why federal regulators are proposing new rules.
 
@@ -2594,7 +2780,7 @@ The post [How to Plant and Grow Datura (Jimsonweed)](https://gardenerspath.com/p
 
 ## [What the Heck Happened To Regular Gear Shifts?](https://www.familyhandyman.com/article/regular-gear-shifts/)
 
-via Family Handyman Blog · 2026-11-03, updated 2026-11-19
+via Family Handyman Blog · 2026-11-03, updated 2026-11-20
 
 Why ate regular gear shifts being replaced by increasingly impractical buttons and screens? Here's the deal.
 
@@ -2605,12 +2791,6 @@ The post [What the Heck Happened To Regular Gear Shifts?](https://www.familyhand
 via Sunset Magazine - Living in the West · 2026-11-03, updated 2026-11-06
 
 After a dry year for snow in the West, the potential for a good ski season is a welcomed one for many resorts.
-
-## [Food and Drink](https://sunset.com/food-wine)
-
-via Sunset Magazine - Living in the West · 2026-11-03, updated 2026-11-06
-
-Delicious recipes, food and wine pairings, and more ways to savor the West.
 
 ## [Did You Know the West Coast Invented These Iconic Foods?](https://sunset.com/food-wine/iconic-foods-invented-in-west-coast)
 
@@ -2726,7 +2906,7 @@ The post [10 Little-Known Facts About Coyotes That May Surprise New York Residen
 
 ## [How To Spot a Flood-Damaged Car Before You Buy It](https://www.familyhandyman.com/article/was-car-flooded/)
 
-via Family Handyman Blog · 2026-11-02, updated 2026-11-19
+via Family Handyman Blog · 2026-11-02, updated 2026-11-20
 
 Learn the subtle signs to look for to avoid buying a flooded car.
 
@@ -2982,7 +3162,7 @@ The post [How to Force Amaryllis Bulbs to Bloom Indoors](https://gardenerspath.c
 
 ## [Teaching your kids to grow food](https://gregalder.com/yardposts/teaching-your-kids-to-grow-food/)
 
-via Greg Alder's blog, Yard Post · 2026-10-31, updated 2026-11-14
+via Greg Alder's blog, Yard Post · 2026-10-31, updated 2026-11-20
 
 I’ve made a lot of mistakes in my attempts to teach my kids to grow food over the last dozen years, and it is through these mistakes that I’ve learned nine ways to do it better. They might not work for you, your kids, or your context. But in case they do: 1. Let them \[…\]
 
@@ -3067,160 +3247,4 @@ Pennsylvania gardens can look surprisingly colorful long after summer flowers be
 [Read more](https://ownyardlife.com/8-best-fall-flowers-that-keep-pennsylvania-gardens-beautiful-through-november/#more-68265 "8 Best Fall Flowers That Keep Pennsylvania Gardens Beautiful Through November")
 
 The post [8 Best Fall Flowers That Keep Pennsylvania Gardens Beautiful Through November](https://ownyardlife.com/8-best-fall-flowers-that-keep-pennsylvania-gardens-beautiful-through-november/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [How to Care for Milkweed Plants in Winter](https://gardenerspath.com/plants/flowers/milkweed-winter-care/)
-
-via The Gardener's Path · 2026-10-30, updated 2026-11-10
-
-Milkweed is wonderful for attracting monarch butterflies and other pollinators to the garden, and with minimal winter care, this attractive perennial herb will reemerge from its impressive root system year after year. Ready to learn how to winterize your milkweed plants for a bounty of blooms next season? Read more.
-
-The post [How to Care for Milkweed Plants in Winter](https://gardenerspath.com/plants/flowers/milkweed-winter-care/) appeared first on [Gardener's Path](https://gardenerspath.com).
-
-## [What Is “Heart Attack Snow,” and Why Is It So Dangerous?](https://www.familyhandyman.com/article/heart-attack-snow/)
-
-via Family Handyman Blog · 2026-10-30, updated 2026-11-19
-
-Heart attack snow is heavy, wet snow that can strain the heart during shoveling. Learn what makes it dangerous and how to clear it safely.
-
-The post [What Is “Heart Attack Snow,” and Why Is It So Dangerous?](https://www.familyhandyman.com/article/heart-attack-snow/) appeared first on [Family Handyman](https://www.familyhandyman.com).
-
-## [These Budget-Friendly Host Gifts Are Perfect for Holiday Parties](https://sunset.com/lifestyle/shopping/budget-friendly-host-gifts)
-
-via Sunset Magazine - Living in the West · 2026-10-30, updated 2026-11-04
-
-Because arriving empty-handed still feels a little weird, these thoughtful host gifts under $30 are just enough to say thanks.
-
-## [Your Ultimate Fall Garden To-Do List to Prep for Winter](https://sunset.com/home-garden/garden-basics/fall-garden-to-do-list-prep-for-winter)
-
-via Sunset Magazine - Living in the West · 2026-10-30, updated 2026-11-04
-
-Master these fall gardening tasks in November and December and reap big payoffs in your winter garden all the way into the new year.
-
-## [Here’s How to Have an Aesthetically Inspired Trip to Mexico City, According to a Local Interior Designer](https://sunset.com/travel/insider-guides/mexico-city-things-to-do)
-
-via Sunset Magazine - Living in the West · 2026-10-30, updated 2026-11-04
-
-Here's what to do in Mexico City, a creative hub in Latin America that local interior designer Pamela Lastiri knows well.
-
-## [Plant a Pumpkin Spice Latte-Inspired Garden That Looks Good Enough to Drink](https://sunset.com/home-garden/plants/pumpkin-spice-latte-inspired-garden)
-
-via Sunset Magazine - Living in the West · 2026-10-30, updated 2026-11-04
-
-Plant a Pumpkin Spice Latte-inspired garden that looks good enough to drink. These cozy-looking plants provide instant hygge to your garden.
-
-## [Follow This Fall Garden Cleanup Guide, Then Chill All Winter Long](https://sunset.com/home-garden/garden-basics/fall-garden-cleanup-guide)
-
-via Sunset Magazine - Living in the West · 2026-10-30, updated 2026-11-04
-
-Fall kicks off the cozy time, but it's also time to button things up. Follow this fall garden cleanup guide, then you + your garden can chill!
-
-## [12 Must-Do Tasks for Your Fall Garden](https://sunset.com/home-garden/garden-basics/fall-garden-to-do-list)
-
-via Sunset Magazine - Living in the West · 2026-10-30, updated 2026-11-04
-
-Think beyond leaf piles and cleanup. Experts share their fall gardening tips to set your garden up for success.
-
-## [5 Ways to Create a Wildlife-Friendly Garden with Fall Plantings](https://sunset.com/home-garden/garden-basics/how-to-create-wildlife-friendly-garden)
-
-via Sunset Magazine - Living in the West · 2026-10-30, updated 2026-11-04
-
-Want to attract more birds, wildlife, and pollinators to your garden? These are the things to do this fall for a wildlife-friendly garden.
-
-## [4 Types of Wrens in Raleigh, NC (With Pictures and Identification)](https://ownyardlife.com/4-types-of-wrens-in-raleigh-nc-with-pictures-and-identification/)
-
-via Yard Life blog · 2026-10-30, updated 2026-10-31
-
-A quick burst of bubbling notes from a thick shrub can reveal a small bird that is easy to overlook ...
-
-[Read more](https://ownyardlife.com/4-types-of-wrens-in-raleigh-nc-with-pictures-and-identification/#more-68258 "4 Types of Wrens in Raleigh, NC (With Pictures and Identification)")
-
-The post [4 Types of Wrens in Raleigh, NC (With Pictures and Identification)](https://ownyardlife.com/4-types-of-wrens-in-raleigh-nc-with-pictures-and-identification/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [4 Types of Doves You Can Spot Around Charlotte, North Carolina (With Pictures)](https://ownyardlife.com/4-types-of-doves-you-can-spot-around-charlotte-north-carolina-with-pictures/)
-
-via Yard Life blog · 2026-10-30, updated 2026-10-31
-
-The soft cooing sound coming from a backyard tree is familiar to many homeowners around Charlotte, but the bird making ...
-
-[Read more](https://ownyardlife.com/4-types-of-doves-you-can-spot-around-charlotte-north-carolina-with-pictures/#more-68253 "4 Types of Doves You Can Spot Around Charlotte, North Carolina (With Pictures)")
-
-The post [4 Types of Doves You Can Spot Around Charlotte, North Carolina (With Pictures)](https://ownyardlife.com/4-types-of-doves-you-can-spot-around-charlotte-north-carolina-with-pictures/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [5 Cardinal Family Birds You Can Spot Around Philadelphia, Pennsylvania](https://ownyardlife.com/5-cardinal-family-birds-you-can-spot-around-philadelphia-pennsylvania/)
-
-via Yard Life blog · 2026-10-30
-
-The bright red Northern Cardinal is one of the easiest birds to recognize around Philadelphia, but it is not the ...
-
-[Read more](https://ownyardlife.com/5-cardinal-family-birds-you-can-spot-around-philadelphia-pennsylvania/#more-68247 "5 Cardinal Family Birds You Can Spot Around Philadelphia, Pennsylvania")
-
-The post [5 Cardinal Family Birds You Can Spot Around Philadelphia, Pennsylvania](https://ownyardlife.com/5-cardinal-family-birds-you-can-spot-around-philadelphia-pennsylvania/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [5 Woodpeckers You Might See in Houston Backyards and How to Identify Them](https://ownyardlife.com/5-woodpeckers-you-might-see-in-houston-backyards-and-how-to-identify-them/)
-
-via Yard Life blog · 2026-10-30
-
-Houston backyards can attract more woodpeckers than many homeowners realize. A bird tapping against a tree trunk, climbing headfirst along ...
-
-[Read more](https://ownyardlife.com/5-woodpeckers-you-might-see-in-houston-backyards-and-how-to-identify-them/#more-68242 "5 Woodpeckers You Might See in Houston Backyards and How to Identify Them")
-
-The post [5 Woodpeckers You Might See in Houston Backyards and How to Identify Them](https://ownyardlife.com/5-woodpeckers-you-might-see-in-houston-backyards-and-how-to-identify-them/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [What Washington Homeowners Should Know About Stink Bugs Gathering Outside](https://ownyardlife.com/what-washington-homeowners-should-know-about-stink-bugs-gathering-outside/)
-
-via Yard Life blog · 2026-10-30
-
-Something unusual can happen around Washington homes when summer begins giving way to autumn. Small, shield-shaped insects start appearing along ...
-
-[Read more](https://ownyardlife.com/what-washington-homeowners-should-know-about-stink-bugs-gathering-outside/#more-68235 "What Washington Homeowners Should Know About Stink Bugs Gathering Outside")
-
-The post [What Washington Homeowners Should Know About Stink Bugs Gathering Outside](https://ownyardlife.com/what-washington-homeowners-should-know-about-stink-bugs-gathering-outside/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [What Oregon Homeowners Should Know About Stink Bugs Gathering Outside](https://ownyardlife.com/what-oregon-homeowners-should-know-about-stink-bugs-gathering-outside/)
-
-via Yard Life blog · 2026-10-30
-
-Finding stink bugs clustered around the exterior of a house can be especially noticeable in Oregon when the weather begins ...
-
-[Read more](https://ownyardlife.com/what-oregon-homeowners-should-know-about-stink-bugs-gathering-outside/#more-68228 "What Oregon Homeowners Should Know About Stink Bugs Gathering Outside")
-
-The post [What Oregon Homeowners Should Know About Stink Bugs Gathering Outside](https://ownyardlife.com/what-oregon-homeowners-should-know-about-stink-bugs-gathering-outside/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [What Iowa Homeowners Should Know About Stink Bugs Gathering Outside](https://ownyardlife.com/what-iowa-homeowners-should-know-about-stink-bugs-gathering-outside/)
-
-via Yard Life blog · 2026-10-30
-
-Late-season afternoons in Iowa sometimes bring an unusual sight to residential properties: dozens of shield-shaped insects crawling across exterior walls, ...
-
-[Read more](https://ownyardlife.com/what-iowa-homeowners-should-know-about-stink-bugs-gathering-outside/#more-68221 "What Iowa Homeowners Should Know About Stink Bugs Gathering Outside")
-
-The post [What Iowa Homeowners Should Know About Stink Bugs Gathering Outside](https://ownyardlife.com/what-iowa-homeowners-should-know-about-stink-bugs-gathering-outside/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [What Indiana Homeowners Should Know About Stink Bugs Gathering Outside](https://ownyardlife.com/what-indiana-homeowners-should-know-about-stink-bugs-gathering-outside/)
-
-via Yard Life blog · 2026-10-30
-
-Clusters of brown, shield-shaped insects appearing around windows, garage doors, and exterior walls can become a familiar sight for Indiana ...
-
-[Read more](https://ownyardlife.com/what-indiana-homeowners-should-know-about-stink-bugs-gathering-outside/#more-68214 "What Indiana Homeowners Should Know About Stink Bugs Gathering Outside")
-
-The post [What Indiana Homeowners Should Know About Stink Bugs Gathering Outside](https://ownyardlife.com/what-indiana-homeowners-should-know-about-stink-bugs-gathering-outside/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [What Minnesota Homeowners Should Know About Stink Bugs Gathering Outside](https://ownyardlife.com/what-minnesota-homeowners-should-know-about-stink-bugs-gathering-outside/)
-
-via Yard Life blog · 2026-10-30
-
-Large numbers of shield-shaped insects gathering on sunny exterior walls can be an unexpected sight for Minnesota homeowners during autumn. ...
-
-[Read more](https://ownyardlife.com/what-minnesota-homeowners-should-know-about-stink-bugs-gathering-outside/#more-68207 "What Minnesota Homeowners Should Know About Stink Bugs Gathering Outside")
-
-The post [What Minnesota Homeowners Should Know About Stink Bugs Gathering Outside](https://ownyardlife.com/what-minnesota-homeowners-should-know-about-stink-bugs-gathering-outside/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [How to Prepare Coreopsis Flowers for Winter](https://gardenerspath.com/plants/flowers/prepare-coreopsis-winter/)
-
-via The Gardener's Path · 2026-10-30, updated 2026-11-09
-
-Bright coreopsis flowers provide a sweet, cheerful sight during the summer months, and now they've died back. These perennial wildflowers will go dormant through the winter months and return in the spring. But how do you prepare your coreopsis for winter? Learn all about winter care and preparation in this guide.
-
-The post [How to Prepare Coreopsis Flowers for Winter](https://gardenerspath.com/plants/flowers/prepare-coreopsis-winter/) appeared first on [Gardener's Path](https://gardenerspath.com).
 

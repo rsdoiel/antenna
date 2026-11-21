@@ -3,9 +3,9 @@ title: "ebooks.md"
 description: "New eBook releases."
 pubDate: Sun, 15 Nov 2026 10:51:23 GMT
 aggregateOf: "ebooks.md"
-dateModified: Fri, 20 Nov 2026 22:33:24 GMT
-itemCount: 188
-generator: antenna/0.1.0
+dateModified: Sat, 21 Nov 2026 14:48:50 GMT
+itemCount: 183
+generator: antenna/0.1.1
 ---
 
 # ebooks.md
@@ -1107,34 +1107,4 @@ Language: Dutch
 via Project Gutenberg (New Books) · 2026-10-31
 
 Language: English
-
-## [Herland by Charlotte Perkins Gilman](https://www.gutenberg.org/ebooks/32)
-
-via Project Gutenberg (New Books) · 2026-10-30
-
-Language: English
-
-## [The Imitation of Christ by à Kempis Thomas](https://www.gutenberg.org/ebooks/1653)
-
-via Project Gutenberg (New Books) · 2026-10-30
-
-Language: English
-
-## [In a matter of nuisances by Raymond S. Spears](https://www.gutenberg.org/ebooks/79880)
-
-via Project Gutenberg (New Books) · 2026-10-30
-
-Language: English
-
-## [Dirt cheap by Carl Clausen](https://www.gutenberg.org/ebooks/79879)
-
-via Project Gutenberg (New Books) · 2026-10-30
-
-Language: English
-
-## [西遊記 by Cheng'en Wu](https://www.gutenberg.org/ebooks/23962)
-
-via Project Gutenberg (New Books) · 2026-10-30
-
-Language: Chinese
 

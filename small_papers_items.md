@@ -1,14 +1,44 @@
 ---
 title: "Small Papers"
 description: "Small regional papers, blogs and news."
-pubDate: Fri, 20 Nov 2026 03:21:59 GMT
+pubDate: Fri, 20 Nov 2026 22:05:21 GMT
 aggregateOf: "small_papers.md"
-dateModified: Fri, 20 Nov 2026 22:33:23 GMT
-itemCount: 89
-generator: antenna/0.1.0
+dateModified: Sat, 21 Nov 2026 14:48:55 GMT
+itemCount: 88
+generator: antenna/0.1.1
 ---
 
 # Small Papers
+
+## [Thieves stole hundreds of thousands of Nikes, Crocs and tools in train heists, prosecutors say](https://lbpost.com/news/crime/thieves-stole-hundreds-of-thousands-of-nikes-crocs-and-tools-in-train-heists-prosecutors-say)
+
+via Long Beach Post · 2026-11-20
+
+![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/20134059/screenshot-2026-11-20-at-14016-pm-237506-curjrhva-185763-5rBw4Jmp.png)
+
+An indictment alleged that the group would disable the trains at a planned location by cutting the brake lines, then offload the goods onto rental trucks.
+
+The post [Thieves stole hundreds of thousands of Nikes, Crocs and tools in train heists, prosecutors say](https://lbpost.com/news/crime/thieves-stole-hundreds-of-thousands-of-nikes-crocs-and-tools-in-train-heists-prosecutors-say) appeared first on [Long Beach Post News](https://lbpost.com/news).
+
+## [Experts Urge Travelers to Get a Flu Shot Before Thanksgiving](https://sanfernandosun.com/2026/11/20/experts-urge-travelers-to-get-a-flu-shot-before-thanksgiving/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-20
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/500_jonathan-weiner-md-cedars-sinai.jpg?fit=285%2C400&ssl=1)
+
+By Marni Usheroff Cedars-Sinai With flu activity increasing early this year in the U.S., particularly in the West and South, physicians are urging holiday travelers to get vaccinated before their \[…\]
+
+The post [Experts Urge Travelers to Get a Flu Shot Before Thanksgiving](https://sanfernandosun.com/2026/11/20/experts-urge-travelers-to-get-a-flu-shot-before-thanksgiving/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [They voted to replace César Chavez’s name on their school and chose a symbol of rebirth](https://lbpost.com/news/education/cesar-chavez-new-name-school-monarca)
+
+via Long Beach Post · 2026-11-20
+
+![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/20082847/6-15-26-walls-7-929829-wnhgbadk-241618-6bsdcqmh-055214-gpcynryk-504484-mKrkArjS-1024x485.jpg)
+
+The disgraced labor leader was replaced with a name that evokes resilience and strength and tells a story of movement across borders and language.
+
+The post [They voted to replace César Chavez’s name on their school and chose a symbol of rebirth](https://lbpost.com/news/education/cesar-chavez-new-name-school-monarca) appeared first on [Long Beach Post News](https://lbpost.com/news).
 
 ## [Body camera footage shows how police responded when ICE called for help in North Long Beach](https://lbpost.com/news/immigration/ice-police-help-broke-arm-north-long-beach)
 
@@ -62,7 +92,7 @@ The post [LBUSD says it can’t find anything wrong with classrooms where dozens
 
 ## [Llevando el espíritu de “Si Se Puede”: Miles rinden homenaje a Dolores Huerta](https://sanfernandosun.com/2026/11/18/llevando-el-espiritu-de-si-se-puede-miles-rinden-homenaje-a-dolores-huerta/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-20
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/AP26320811633908-1.jpg?fit=1024%2C683&ssl=1)
 
@@ -72,7 +102,7 @@ The post [Llevando el espíritu de “Si Se Puede”: Miles rinden homenaje a Do
 
 ## [Demanda impugna el plan de Newsom para conmutar las 548 sentencias de muerte en California](https://sanfernandosun.com/2026/11/18/demanda-impugna-el-plan-de-newsom-para-conmutar-las-548-sentencias-de-muerte-en-california/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-20
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/6099018590715768017_107ca394-a589-4eff-a760-08895cdb8f3e-e1795064149101.png?fit=1024%2C981&ssl=1)
 
@@ -82,7 +112,7 @@ The post [Demanda impugna el plan de Newsom para conmutar las 548 sentencias de 
 
 ## [Horóscopo](https://sanfernandosun.com/2026/11/18/horoscopo-294/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-20
 
 ARIES (21 de mar – 19 de abr) Puedes querer estar en todas partes al mismo tiempo cuando lleguen las invitaciones sociales, Aries. Pero esta semana tendrás que elegir tus \[…\]
 
@@ -90,7 +120,7 @@ The post [Horóscopo](https://sanfernandosun.com/2026/11/18/horoscopo-294/) appe
 
 ## [EVENTOS Locales – Semana de 19 de noviembre, 2026](https://sanfernandosun.com/2026/11/18/eventos-locales-semana-de-19-de-noviembre-2026/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-20
 
 Viernes, 20 de noviembre Nuestra Tercera Campaña de Pavos de Acción de Gracias Llega a Todos los Vecindarios del Distrito 6 Ignite the Light of Hope 13501 Osborne St. Lakeview \[…\]
 
@@ -98,7 +128,7 @@ The post [EVENTOS Locales – Semana de  19 de noviembre, 2026](https://sanfern
 
 ## [Quinto año de campaña de MADD para iluminar puntos de referencia en honor a víctimas y sobrevivientes](https://sanfernandosun.com/2026/11/18/quinto-ano-de-campana-de-madd-para-iluminar-puntos-de-referencia-en-honor-a-victimas-y-sobrevivientes/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-20
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Dodger-Stadium-5.jpg?fit=1024%2C767&ssl=1)
 
@@ -108,7 +138,7 @@ The post [Quinto año de campaña de MADD para iluminar puntos de referencia en 
 
 ## [Conductor acusado en choque fatal de Metro en NoHo que mató a tres vendedoras ambulantes](https://sanfernandosun.com/2026/11/18/conductor-acusado-en-choque-fatal-de-metro-en-noho-que-mato-a-tres-vendedoras-ambulantes/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-20
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/NoHo-Crash-01-e1795063505384.jpeg?fit=1024%2C768&ssl=1)
 
@@ -118,7 +148,7 @@ The post [Conductor acusado en choque fatal de Metro en NoHo que mató a tres ve
 
 ## [Vuelve el Festival de Baile de Calle de Valley con talleres de reconocidos artistas](https://sanfernandosun.com/2026/11/18/vuelve-el-festival-de-baile-de-calle-de-valley-con-talleres-de-reconocidos-artistas/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-20
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/%40BY.AUSTINLUC-11-scaled.jpg?fit=768%2C1024&ssl=1)
 
@@ -128,7 +158,7 @@ The post [Vuelve el Festival de Baile de Calle de Valley con talleres de reconoc
 
 ## [El Consejo Municipal de Los Angeles Considera Ellección Especial para Cubrir Vacante Dejada por La Alcaldes Electa Raman](https://sanfernandosun.com/2026/11/18/el-consejo-municipal-de-los-angeles-considera-elleccion-especial-para-cubrir-vacante-dejada-por-la-alcaldes-electa-raman/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-20
 
 LOS ÁNGELES (CNS) — La concejal Monica Rodriguez presentó el martes, 17 de noviembre, una moción que, de ser aprobada, iniciaría los pasos para convocar una elección especial para cubrir \[…\]
 
@@ -136,7 +166,7 @@ The post [El Consejo Municipal de Los Angeles Considera Ellección Especial para
 
 ## [La Coalición Whiteman respalda el primer escenario del estudio del condado de L.A. para preservar y mejorar el aeropuerto](https://sanfernandosun.com/2026/11/18/la-coalicion-whiteman-respalda-el-primer-escenario-del-estudio-del-condado-de-l-a-para-preservar-y-mejorar-el-aeropuerto/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-20
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/05/whiteman.jpg?fit=1024%2C768&ssl=1)
 
@@ -839,44 +869,4 @@ via Long Beach Post · 2026-10-31, updated 2026-11-04
 The spill happened around 6:30 p.m. near Livingston Drive and Second Street, according to a statement from the city’s Health Department.
 
 The post [29,000 gallons of sewage spill in Belmont Shore, forcing city to close coastal waters](https://lbpost.com/news/health/sewage-spill-belmont-shore-second-street) appeared first on [Long Beach Post News](https://lbpost.com/news).
-
-## [Be sure to incorporate an umbrella into your costume. SoCal to get Halloween rain](https://lbpost.com/news/be-sure-to-incorporate-an-umbrella-into-your-costume-socal-to-get-halloween-rain)
-
-via Long Beach Post · 2026-10-30, updated 2026-11-04
-
-![](https://img.lbpost.com/wp-content/uploads/2019/01/10141724/0115-Mayor-456-21.jpg)
-
-Forecasters say there’s both a chance the region could get more rain than expected, or very little. Either way, they say Halloween weekend will be wet.
-
-The post [Be sure to incorporate an umbrella into your costume. SoCal to get Halloween rain](https://lbpost.com/news/be-sure-to-incorporate-an-umbrella-into-your-costume-socal-to-get-halloween-rain) appeared first on [Long Beach Post News](https://lbpost.com/news).
-
-## [DOJ subpoenas California election officials, despite judge’s order to stop threatening them](https://lbpost.com/news/politics/elections/doj-subpoenas-california-election-officials-despite-judges-order-to-stop-threatening-them)
-
-via Long Beach Post · 2026-10-30, updated 2026-11-03
-
-![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/10/30081120/060722-sac-county-voter-registrar-mg-cm-19-625903-5z4ip9tj-051530-FjMscsWk-1024x682.webp)
-
-At least four elections workers in California have received federal criminal grand jury subpoenas over the past week.
-
-The post [DOJ subpoenas California election officials, despite judge’s order to stop threatening them](https://lbpost.com/news/politics/elections/doj-subpoenas-california-election-officials-despite-judges-order-to-stop-threatening-them) appeared first on [Long Beach Post News](https://lbpost.com/news).
-
-## [Long Beach plans to borrow $246 million to pay for infrastructure projects across the city](https://lbpost.com/news/city/borrow-246-million-infrastructure-belmont-pool)
-
-via Long Beach Post · 2026-10-30, updated 2026-11-03
-
-![](https://img.lbpost.com/wp-content/uploads/sites/2/2024/08/02125052/01aug24-budget-2749-259252-jzewuxja-293117-rqfC8XQV-1024x683.jpg)
-
-Huge projects like the Belmont Pool and $50 million in convention center upgrades are waiting for funding. City officials say they want to borrow now to get them — and many smaller projects — done.
-
-The post [Long Beach plans to borrow $246 million to pay for infrastructure projects across the city](https://lbpost.com/news/city/borrow-246-million-infrastructure-belmont-pool) appeared first on [Long Beach Post News](https://lbpost.com/news).
-
-## [Long Beach will pay $400,000 to man who fell on cracked roadway outside cruise terminal](https://lbpost.com/news/cruise-terminal-lawsuit-pothole-cracked-roadway-carnival)
-
-via Long Beach Post · 2026-10-30, updated 2026-10-31
-
-![](https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/14134038/cruise-0219-1320x610-886082-3hx2kt3r-131630-q3vfYXi4-1024x473.jpg)
-
-Data shows the city has had to pay out larger settlements and verdicts for pothole-related lawsuits in recent years.
-
-The post [Long Beach will pay $400,000 to man who fell on cracked roadway outside cruise terminal](https://lbpost.com/news/cruise-terminal-lawsuit-pothole-cracked-roadway-carnival) appeared first on [Long Beach Post News](https://lbpost.com/news).
 

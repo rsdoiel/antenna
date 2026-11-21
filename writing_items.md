@@ -1,14 +1,26 @@
 ---
 title: "Writing"
 description: "Writing and writing tools."
-pubDate: Tue, 17 Nov 2026 16:15:38 GMT
+pubDate: Fri, 20 Nov 2026 19:13:49 GMT
 aggregateOf: "writing.md"
-dateModified: Fri, 20 Nov 2026 22:33:24 GMT
+dateModified: Sat, 21 Nov 2026 14:49:34 GMT
 itemCount: 6
-generator: antenna/0.1.0
+generator: antenna/0.1.1
 ---
 
 # Writing
+
+## [Are changes coming to Section 121?](https://www.authorsalliance.org/2026/11/20/are-changes-coming-to-section-121/)
+
+via Author's Union blog · 2026-11-20
+
+Clarifying copyright law to explicitly permit remediation and cross-border lending of copyrighted works is necessary and important. But remediation is a workaround for a publishing system that wasn't built with accessibility in mind. What if U.S. law could compel the production of works in accessible formats from the start?
+
+## [The Big Amici Party in the OpenAI Copyright Infringement Litigation](https://www.authorsalliance.org/2026/11/20/the-big-amici-party-in-the-openai-copyright-infringement-litigation/)
+
+via Author's Union blog · 2026-11-20
+
+Recently, we filed an amicus brief in In re OpenAI Copyright Infringement Litigation, explaining why “market dilution,” a novel theory \[…\]
 
 ## [Envy (And Other Deadly Sins)](https://johnaugust.com/2026/envy-and-other-deadly-sins)
 
@@ -20,7 +32,7 @@ The post [Envy (And Other Deadly Sins)](https://johnaugust.com/2026/envy-and-oth
 
 ## [Are Westlaw Headnotes Like Banana Costumes?](https://www.authorsalliance.org/2026/11/13/are-westlaw-headnotes-like-banana-costumes/)
 
-via Author's Union blog · 2026-11-13
+via Author's Union blog · 2026-11-13, updated 2026-11-20
 
 No decision has a stronger claim to being this year’s worst copyright decision than the Third Circuit’s precedential opinion in Thomson Reuters v. ROSS. Though the case ostensibly involves two legal research companies, the court’s ruling could broadly impact authors’ ability to use facts and ideas that first appeared in existing works.
 
@@ -39,18 +51,4 @@ via John August blog · 2026-11-03, updated 2026-11-17
 How do you answer the question, “What is your project about?” Recorded live at the Austin Film Festival, John is joined by Scriptnotes all-stars Pamela Ribon and Phil Hay to talk about loglines, framing, and communicating the deeper message behind your project. They also discuss working outside of the traditional studio system, including ways to \[…\]
 
 The post [What It’s About? Moving Beyond Loglines](https://johnaugust.com/2026/what-its-about-moving-beyond-loglines) first appeared on [John August](https://johnaugust.com).
-
-## [Austin 2026 – Three Page Challenge](https://johnaugust.com/2026/austin-2026-three-page-challenge)
-
-via John August blog · 2026-10-30, updated 2026-11-17
-
-This year, like most years, we’re doing an installment of the Three Page Challenge at the Austin Film Festival. Here are the three scripts we’ll be discussing. Links to PDFs, so you can read along. It Gets Worse written by Terry Rietta Ship Happens written by Katy Flynn The Greykin written by Bobby Marino The \[…\]
-
-The post [Austin 2026 – Three Page Challenge](https://johnaugust.com/2026/austin-2026-three-page-challenge) first appeared on [John August](https://johnaugust.com).
-
-## [Authors Alliance files amicus brief in In re OpenAI Copyright Infringement Litigation](https://www.authorsalliance.org/2026/10/30/authors-alliance-files-amicus-brief-in-in-re-openai-copyright-infringement-litigation/)
-
-via Author's Union blog · 2026-10-30, updated 2026-11-13
-
-On October 29, Authors Alliance asked the court for leave to file an amicus brief in In re OpenAI, Inc. Copyright Infringement Litigation, the consolidated copyright lawsuits against OpenAI and Microsoft pending in federal court in New York. Our brief supports the defendants' motions for summary judgment, but focuses onone issue only: whether "market dilution" is a kind of harm that copyright law recognizes. We argue that it is not, and that treating it as one would end up hurting many of the authors the theory claims to protect.
 

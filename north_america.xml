@@ -5,10 +5,405 @@
     <title><![CDATA[North America]]></title>
     <description><![CDATA[News from across North America.]]></description>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>20 Nov 26 14:33 -0800</lastBuildDate>
-    <generator>antenna/0.1.0</generator>
+    <lastBuildDate>21 Nov 26 06:32 -0800</lastBuildDate>
+    <generator>antenna/0.1.1</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Rounds, Thune split on bill that speeds up project permitting process</title>
+      <link>https://www.sdstandardnow.com/home/rounds-thune-split-on-permitting-reform-bill-that-trump-supports</link>
+      <description>
+        <![CDATA[<p class="">Our newly re-elected U.S. Sen. Mike Rounds just showed some willingness to buck his party by voting against a major permitting reform bill. It’s called the <a href="https://www.energy.senate.gov/press/dem/heinrich-lee-capito-and-whitehouse-introduce-bipartisan-american-affordability-and-jobs-act-of-2026/"><span>Bipartisan American Affordability and Jobs Act of 2026</span></a> (BAAJA) and it's about 500 pages long. You can read a 2-page summation <a href="https://www.energy.senate.gov/press/dem/heinrich-lee-capito-and-whitehouse-introduce-bipartisan-american-affordability-and-jobs-act-of-2026/"><span>here</span></a>.&nbsp;</p><p class="">Basically, BAAJA streamlines the permitting process for energy projects. <a href="https://www.energypolicy.columbia.edu/how-the-senate-permitting-reform-bill-could-impact-energy-project-timelines/"><span>Time savings</span></a> are significant. Depending on the project, years of permitting could be reduced to just months if BAAJA passes.</p><p class="">Anybody familiar with governmental red tape understands the appeal of a law like this. In fact, the bill just passed the senate 62-33. Sen. Thune voted aye.&nbsp;</p><p class="">Rounds explained his nay by <a href="https://www.sdpb.org/politics/2026-11-20/rounds-votes-no-thune-votes-yes-as-senate-passes-permitting-reform-bill"><span>claiming</span></a> that the bill infringes on state and local rights and gives developers a built-in advantage by transferring contested cases to federal regulators if they haven’t been settled locally after 12 months.&nbsp;</p><p class="">Thune <a href="https://www.youtube.com/watch?v=dDy2Rw3D3l8"><span>supports the bill</span></a> because it eliminates bureaucratic delays, spurs the economy and creates jobs.</p><p class="">I haven’t seen environmental issues being addressed by either senator.&nbsp;</p><p class="">Reflexively – and as it turned out, incorrectly – I thought environmental interests would be uniformly opposed to legislation that speeded up energy-related projects. Turns out, there’s some ambivalence among environmentalists when it comes to this bill. An AI overview concludes that “environmental groups are divided over the<a href="https://www.energy.senate.gov/wp-content/uploads/2026/09/FACT-SHEET-Bipartisan-American-Affordability-and-Jobs-Act3.pdf"> <span>Bipartisan American Affordability and Jobs Act</span></a> (BAAJA), with many major organizations opposing the bill while some clean energy and climate advocates support it.”</p><p class="">As to opponents:</p><ul data-rte-list="default"><li><p class="">The <a href="https://www.nrdc.org/media/nrdc-assessment-baaja-2026-permitting-transmission-bill"><span>National Resources Defense Council</span></a> says the bill weakens environmental safeguards and public participation.</p></li><li><p class=""><a href="https://climatejusticealliance.org/100ej-groups-letter-opposing-baaja/"><span>The Climate Justice Alliance</span></a> says it expands fossil fuel infrastructure and harms frontline communities</p></li></ul><p class="">As to supportive environmental groups:</p><ul data-rte-list="default"><li><p class="">The <a href="https://yaleclimateconnections.org/2026/11/baaja-whos-in-favor-and-whos-opposed/"><span>Citizens Climate Lobby</span></a> says permitting bottlenecks slow down environmentally friendly projects.</p></li><li><p class="">The <a href="https://seia.org/media/18668/baaja-industry-letter-11-9-2026.pdf/"><span>Solar Energy and Industries Association</span></a> says it will put downward pressure on energy prices, and deploy more affordable, reliable solar and storage for American families and businesses.&nbsp;</p></li></ul><p class="">As to me, what do I know? Only this:</p><p class="">Those generalized arguments, pro and con, are plenty relevant, of course, but nowadays the compelling question is how this legislation will affect the development of data centers. Much as I appreciate Thune’s economic development approach, I lean toward Rounds’s local control argument. I don’t like that after a year, disputes over energy development, including data centers, will automatically move from local to federal regulation if BAAJA passes the House of Representatives.</p><p class="">The prospect of a vote in the current House <a href="https://heatmap.news/politics/baaja-house"><span>seems iffy</span></a>, but we’ll find out soon enough. My hope is that it will stall and get an intra-party test in the next Democratically-weighted congress, which is a fresh representation of how the voting public leans on a matter as significant as this one.</p><p class=""><em>John Tsitrian is a businessman and writer from the Black Hills. He was a weekly columnist for the Rapid City Journal for 20 years. His articles and commentary have also appeared in The Los Angeles Times, The Denver Post and The Omaha World-Herald. Tsitrian served in the Marines for three years (1966-69), including a 13-month tour of duty as a radioman in Vietnam. Republish with permission.</em>&nbsp;</p><p class=""><em>Graphic: public domain, </em><a href="https://commons.wikimedia.org/wiki/File:Data_center_infrastructure_in_the_United_States.jpg"><span><em>wikimedia commons</em></span></a></p><p class=""><strong><em>The South Dakota Standard is offered freely and is supported by our readers. We have no political or commercial sponsorship. If you'd like to help us continue our mission to advance independent political and social commentary, you can do so by clicking on the "Donate" button that's on the sidebar to your right.</em></strong><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em></p><p class=""><br></p>]]>
+      </description>
+      <source:markdown>Our newly re-elected U.S. Sen. Mike Rounds just showed some willingness to buck his party by voting against a major permitting reform bill. It’s called the [Bipartisan American Affordability and Jobs Act of 2026](https://www.energy.senate.gov/press/dem/heinrich-lee-capito-and-whitehouse-introduce-bipartisan-american-affordability-and-jobs-act-of-2026/) (BAAJA) and it&#39;s about 500 pages long. You can read a 2-page summation [here](https://www.energy.senate.gov/press/dem/heinrich-lee-capito-and-whitehouse-introduce-bipartisan-american-affordability-and-jobs-act-of-2026/).
+
+Basically, BAAJA streamlines the permitting process for energy projects. [Time savings](https://www.energypolicy.columbia.edu/how-the-senate-permitting-reform-bill-could-impact-energy-project-timelines/) are significant. Depending on the project, years of permitting could be reduced to just months if BAAJA passes.
+
+Anybody familiar with governmental red tape understands the appeal of a law like this. In fact, the bill just passed the senate 62-33. Sen. Thune voted aye.
+
+Rounds explained his nay by [claiming](https://www.sdpb.org/politics/2026-11-20/rounds-votes-no-thune-votes-yes-as-senate-passes-permitting-reform-bill) that the bill infringes on state and local rights and gives developers a built-in advantage by transferring contested cases to federal regulators if they haven’t been settled locally after 12 months.
+
+Thune [supports the bill](https://www.youtube.com/watch?v=dDy2Rw3D3l8) because it eliminates bureaucratic delays, spurs the economy and creates jobs.
+
+I haven’t seen environmental issues being addressed by either senator.
+
+Reflexively – and as it turned out, incorrectly – I thought environmental interests would be uniformly opposed to legislation that speeded up energy-related projects. Turns out, there’s some ambivalence among environmentalists when it comes to this bill. An AI overview concludes that “environmental groups are divided over the [Bipartisan American Affordability and Jobs Act](https://www.energy.senate.gov/wp-content/uploads/2026/09/FACT-SHEET-Bipartisan-American-Affordability-and-Jobs-Act3.pdf) (BAAJA), with many major organizations opposing the bill while some clean energy and climate advocates support it.”
+
+As to opponents:
+
+- The [National Resources Defense Council](https://www.nrdc.org/media/nrdc-assessment-baaja-2026-permitting-transmission-bill) says the bill weakens environmental safeguards and public participation.
+
+- [The Climate Justice Alliance](https://climatejusticealliance.org/100ej-groups-letter-opposing-baaja/) says it expands fossil fuel infrastructure and harms frontline communities
+
+
+As to supportive environmental groups:
+
+- The [Citizens Climate Lobby](https://yaleclimateconnections.org/2026/11/baaja-whos-in-favor-and-whos-opposed/) says permitting bottlenecks slow down environmentally friendly projects.
+
+- The [Solar Energy and Industries Association](https://seia.org/media/18668/baaja-industry-letter-11-9-2026.pdf/) says it will put downward pressure on energy prices, and deploy more affordable, reliable solar and storage for American families and businesses.
+
+
+As to me, what do I know? Only this:
+
+Those generalized arguments, pro and con, are plenty relevant, of course, but nowadays the compelling question is how this legislation will affect the development of data centers. Much as I appreciate Thune’s economic development approach, I lean toward Rounds’s local control argument. I don’t like that after a year, disputes over energy development, including data centers, will automatically move from local to federal regulation if BAAJA passes the House of Representatives.
+
+The prospect of a vote in the current House [seems iffy](https://heatmap.news/politics/baaja-house), but we’ll find out soon enough. My hope is that it will stall and get an intra-party test in the next Democratically-weighted congress, which is a fresh representation of how the voting public leans on a matter as significant as this one.
+
+_John Tsitrian is a businessman and writer from the Black Hills. He was a weekly columnist for the Rapid City Journal for 20 years. His articles and commentary have also appeared in The Los Angeles Times, The Denver Post and The Omaha World-Herald. Tsitrian served in the Marines for three years (1966-69), including a 13-month tour of duty as a radioman in Vietnam. Republish with permission._
+
+_Graphic: public domain,_ [_wikimedia commons_](https://commons.wikimedia.org/wiki/File:Data_center_infrastructure_in_the_United_States.jpg)
+
+**_The South Dakota Standard is offered freely and is supported by our readers. We have no political or commercial sponsorship. If you&#39;d like to help us continue our mission to advance independent political and social commentary, you can do so by clicking on the &#34;Donate&#34; button that&#39;s on the sidebar to your right._**</source:markdown>
+      <guid>cid://5dcb39e8d00cd20932d24a25:5dcb3ba223a88b2b3c1f18b2:6b00d1cf438e795303ce17c5</guid>
+      <pubDate>Sat, 21 Nov 2026 10:39:05 +0000</pubDate>
+    </item>    <item>
+      <title>Just how much have energy costs raised core inflation?</title>
+      <link>https://www.marketplace.org/episode/2026/11/20/just-how-much-have-energy-costs-raised-core-inflation</link>
+      <description>
+        <![CDATA[<p>Economists use “core” inflation to describe price changes minus food and energy (which can be up one week and down the next). But for the past six months, energy prices have been stubbornly high, as the White House drags out its war in Iran. That sustained inflation is having a trickle-down impact. In this episode, why core inflation can’t escape fuel costs. Plus: Retailers cater to picky consumers, and the stock market tumbles after a historic IPO.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p><br/><p><em>Read the stories in today’s episode:</em></p><br/><ul><li><a href="https://www.marketplace.org/story/2026/11/20/trump-xi-and-putin-meet-in-china-plus-anthropics-ipo" class="default">Who wants more oil?</a></li><li><a href="https://www.marketplace.org/story/2026/11/20/core-inflation-measures-cant-escape-high-energy-prices" class="default">Core inflation measures can't escape high energy prices</a></li><li><a href="https://www.marketplace.org/story/2026/11/20/salmon-supply-flounders-as-fisheries-struggle-to-meet-demand" class="default">Salmon may soon be off the menu as fisheries struggle to meet demand</a></li></ul>]]>
+      </description>
+      <source:markdown>Economists use “core” inflation to describe price changes minus food and energy (which can be up one week and down the next). But for the past six months, energy prices have been stubbornly high, as the White House drags out its war in Iran. That sustained inflation is having a trickle-down impact. In this episode, why core inflation can’t escape fuel costs. Plus: Retailers cater to picky consumers, and the stock market tumbles after a historic IPO.
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
+
+_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._
+
+_Read the stories in today’s episode:_
+
+- [Who wants more oil?](https://www.marketplace.org/story/2026/11/20/trump-xi-and-putin-meet-in-china-plus-anthropics-ipo)
+- [Core inflation measures can&#39;t escape high energy prices](https://www.marketplace.org/story/2026/11/20/core-inflation-measures-cant-escape-high-energy-prices)
+- [Salmon may soon be off the menu as fisheries struggle to meet demand](https://www.marketplace.org/story/2026/11/20/salmon-supply-flounders-as-fisheries-struggle-to-meet-demand)</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/VnCzW2iO9G8z4eDWfXCd/play.publicradio.org/podcast/o/marketplace/pm/2026/11/20/pm_20261120_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&#38;awEpisodeId=01M7X7BN6EN7K2KHJWD28N3TY7" length="12336665" type="audio/mpeg" />
+      <guid>cid://01M7X7BN6EN7K2KHJWD28N3TY7</guid>
+      <pubDate>Fri, 20 Nov 2026 23:15:00 +0000</pubDate>
+    </item>    <item>
+      <title>Agriculture Secretary’s religious emails to staff likely violate First Amendment, judge rules</title>
+      <link>https://federalnewsnetwork.com/litigation/2026/11/agriculture-secretarys-religious-emails-to-staff-likely-violate-first-amendment-judge-rules/</link>
+      <description>
+        <![CDATA[A federal judge granted a preliminary injunction and ordered Brooke Rollins to “recognize certain boundaries” when communicating her religious views to staff.]]>
+      </description>
+      <source:markdown>A federal judge granted a preliminary injunction and ordered Brooke Rollins to “recognize certain boundaries” when communicating her religious views to staff.</source:markdown>
+      <guid>cid://https://federalnewsnetwork.com/?p=6127739</guid>
+      <category>All News</category>
+      <category>Litigation</category>
+      <category>Management</category>
+      <category>Workforce</category>
+      <category>Workforce Rights/Governance</category>
+      <category>Ashley Miller</category>
+      <category>Brooke Rollins</category>
+      <category>Department of Agriculture</category>
+      <category>National Federation of Federal Employees</category>
+      <category>Office of Personnel Management</category>
+      <category>Randy Erwin</category>
+      <category>Trina Thompson</category>
+      <pubDate>Fri, 20 Nov 2026 22:53:24 +0000</pubDate>
+    </item>    <item>
+      <title>BYD offers a first look at its new flagship people mover</title>
+      <link>https://electrek.co/2026/11/20/byd-first-look-new-flagship-people-mover/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Flagship-Ocean-MPV-first-look.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p class="wp-block-paragraph"><a href="https://electrek.co/guides/byd/">BYD</a> is preparing to launch a new flagship MPV soon after previewing the large people mover for the first time.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="494981" href="https://electrek.co/2026/11/20/byd-first-look-new-flagship-people-mover/#more-494981" class="more-link">more…</a>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Flagship-Ocean-MPV-first-look.jpeg?quality=82&#38;strip=all&#38;w=1400)
+
+[BYD](https://electrek.co/guides/byd/) is preparing to launch a new flagship MPV soon after previewing the large people mover for the first time.
+
+ [more…](https://electrek.co/2026/11/20/byd-first-look-new-flagship-people-mover/#more-494981)</source:markdown>
+      <guid>cid://https://electrek.co/?p=494981</guid>
+      <category>News</category>
+      <pubDate>Fri, 20 Nov 2026 21:42:44 +0000</pubDate>
+    </item>    <item>
+      <title>Despite repeated requests, Congress still lacks a full cost picture for VA’s EHR program</title>
+      <link>https://federalnewsnetwork.com/veterans-affairs/2026/11/despite-repeated-requests-congress-still-lacks-a-full-cost-picture-for-vas-ehr-program/</link>
+      <description>
+        <![CDATA[Congress says it’s still waiting on a full lifetime cost for the VA’s EHR program, as concerns over cost and veteran safety persist.]]>
+      </description>
+      <source:markdown>Congress says it’s still waiting on a full lifetime cost for the VA’s EHR program, as concerns over cost and veteran safety persist.</source:markdown>
+      <guid>cid://https://federalnewsnetwork.com/?p=6127494</guid>
+      <category>All News</category>
+      <category>Congress</category>
+      <category>Contracting</category>
+      <category>Contracts/Awards</category>
+      <category>IT Modernization</category>
+      <category>Technology</category>
+      <category>Veterans Affairs</category>
+      <category>Carol Harris</category>
+      <category>Electronic Health Record</category>
+      <category>GAO</category>
+      <category>Government Accountability Office</category>
+      <category>Jerry Moran</category>
+      <category>Maggie Goodlander</category>
+      <category>Mark Takano</category>
+      <category>Maxine Dexter</category>
+      <category>Mike Sicilia</category>
+      <category>Neil Evans</category>
+      <category>Oracle</category>
+      <category>Seema Verma</category>
+      <pubDate>Fri, 20 Nov 2026 21:22:13 +0000</pubDate>
+    </item>    <item>
+      <title>This 500 kWh energy storage system runs on retired EV batteries</title>
+      <link>https://electrek.co/2026/11/20/this-500-kwh-energy-storage-system-runs-on-retired-ev-batteries/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2026/11/Nova.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p class="wp-block-paragraph" id="h-">A retired EV battery can still have years of use left in it when it’s taken off the road. Moment Energy’s new Nova battery storage system puts those packs to work on commercial sites. And when a pack wears out, it can be swapped without pulling out the whole system.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,british-columbia,canada,energy-storage,ev-batteries" data-layer-viewtype="unknown" data-post-id="494982" href="https://electrek.co/2026/11/20/this-500-kwh-energy-storage-system-runs-on-retired-ev-batteries/#more-494982" class="more-link">more…</a>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Nova.jpg?quality=82&#38;strip=all&#38;w=1600)
+
+A retired EV battery can still have years of use left in it when it’s taken off the road. Moment Energy’s new Nova battery storage system puts those packs to work on commercial sites. And when a pack wears out, it can be swapped without pulling out the whole system.
+
+ [more…](https://electrek.co/2026/11/20/this-500-kwh-energy-storage-system-runs-on-retired-ev-batteries/#more-494982)</source:markdown>
+      <guid>cid://https://electrek.co/?p=494982</guid>
+      <category>News</category>
+      <pubDate>Fri, 20 Nov 2026 21:08:29 +0000</pubDate>
+    </item>    <item>
+      <title>The agency best known for fighting illegal drugs also makes decisions about some legal ones</title>
+      <link>https://federalnewsnetwork.com/agency-oversight/2026/11/the-agency-best-known-for-fighting-illegal-drugs-also-decides-how-much-of-some-legal-drugs-can-be-made/</link>
+      <description>
+        <![CDATA["This is really a tool for thinking about, how do we make sure that patients who need it do get it, and patients who don't need it don't," said Marta Wosińska.]]>
+      </description>
+      <source:markdown>&#34;This is really a tool for thinking about, how do we make sure that patients who need it do get it, and patients who don&#39;t need it don&#39;t,&#34; said Marta Wosińska.</source:markdown>
+      <guid>cid://https://federalnewsnetwork.com/?p=6127583</guid>
+      <category>Agency Oversight</category>
+      <category>All News</category>
+      <category>Management</category>
+      <category>Reorganization</category>
+      <category>Terry Gerton</category>
+      <category>The Federal Drive</category>
+      <category>Marta E. Wosińska</category>
+      <category>The Brookings Institution</category>
+      <pubDate>Fri, 20 Nov 2026 20:22:11 +0000</pubDate>
+    </item>    <item>
+      <title>Kia, Lucid, and Volkswagen are slashing EV prices by $10,000+ for Black Friday</title>
+      <link>https://electrek.co/2026/11/20/kia-lucid-vw-slash-ev-prices-by-10000-black-friday/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2026/11/EV-deals-10000-Black-Friday.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p class="wp-block-paragraph">Forget waiting in line for a discounted TV or other gadget you probably don’t need. If you’ve been looking to go electric, Black Friday may be the time to do it. Several brands, including <a href="https://electrek.co/guides/kia/">Kia</a>, Lucid, and Volkswagen, are offering $10,000 or more off select EVs right now.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="kia,lucid-motors,volkswagen" data-layer-viewtype="unknown" data-post-id="494881" href="https://electrek.co/2026/11/20/kia-lucid-vw-slash-ev-prices-by-10000-black-friday/#more-494881" class="more-link">more…</a>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2026/11/EV-deals-10000-Black-Friday.jpeg?quality=82&#38;strip=all&#38;w=1400)
+
+Forget waiting in line for a discounted TV or other gadget you probably don’t need. If you’ve been looking to go electric, Black Friday may be the time to do it. Several brands, including [Kia](https://electrek.co/guides/kia/), Lucid, and Volkswagen, are offering $10,000 or more off select EVs right now.
+
+ [more…](https://electrek.co/2026/11/20/kia-lucid-vw-slash-ev-prices-by-10000-black-friday/#more-494881)</source:markdown>
+      <guid>cid://https://electrek.co/?p=494881</guid>
+      <category>News</category>
+      <pubDate>Fri, 20 Nov 2026 19:59:48 +0000</pubDate>
+    </item>    <item>
+      <title>Podcast: Tesla’s ‘personal’ Cybercab, Ford’s LFP for Fathom, Aptera delivers, and more</title>
+      <link>https://electrek.co/2026/11/20/podcast-teslas-personal-cybercab-fords-lfp-for-fathom-aptera-delivers-and-more/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p class="wp-block-paragraph">In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll discuss Tesla launching the ‘personal’ Cybercab, Ford’s LFP for Fathom, Aptera delivering, and more.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="494897" href="https://electrek.co/2026/11/20/podcast-teslas-personal-cybercab-fords-lfp-for-fathom-aptera-delivers-and-more/#more-494897" class="more-link">more…</a>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#38;strip=all&#38;w=1600)
+
+In the [Electrek Podcast](https://electrek.co/guides/electrek-podcast/), we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll discuss Tesla launching the ‘personal’ Cybercab, Ford’s LFP for Fathom, Aptera delivering, and more.
+
+ [more…](https://electrek.co/2026/11/20/podcast-teslas-personal-cybercab-fords-lfp-for-fathom-aptera-delivers-and-more/#more-494897)</source:markdown>
+      <guid>cid://https://electrek.co/?p=494897</guid>
+      <category>News</category>
+      <pubDate>Fri, 20 Nov 2026 19:56:11 +0000</pubDate>
+    </item>    <item>
+      <title>Pentagon CIO to replace Cairncross as top WH cyber official</title>
+      <link>https://federalnewsnetwork.com/cybersecurity/2026/11/pentagon-cio-to-replace-cairncross-as-top-wh-cyber-official/</link>
+      <description>
+        <![CDATA[The White House has turned to Kirsten Davies, who is currently the Pentagon’s chief information officer, to serve as acting national cyber director.]]>
+      </description>
+      <source:markdown>The White House has turned to Kirsten Davies, who is currently the Pentagon’s chief information officer, to serve as acting national cyber director.</source:markdown>
+      <guid>cid://https://federalnewsnetwork.com/?p=6127424</guid>
+      <category>All News</category>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Management</category>
+      <category>People</category>
+      <category>Technology</category>
+      <category>Workforce</category>
+      <category>Eric Crusius</category>
+      <category>Kirsten Davies</category>
+      <category>National Cyber Director</category>
+      <category>Sean Cairncross</category>
+      <pubDate>Fri, 20 Nov 2026 19:18:43 +0000</pubDate>
+    </item>    <item>
+      <title>Anker S5000 5kWh power station back at $2,375 exclusive low ($1,225 off), Segway Max G3 Plus e-scooter new $1,000 low, more</title>
+      <link>https://electrek.co/2026/11/20/anker-s5000-5kwh-power-station-segway-max-g3-plus-e-scooter-more/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2026/11/Anker-SOLIX-Anker-eufy-Segway-GDs-FI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p class="wp-block-paragraph">If you weren’t aware, <a href="https://link.amazon/B0f7Vc1JD">Amazon’s full Black Friday event</a> is in motion, and deals are flying from across countless brands, with Anker and Segway being our two headliners today. First up, the expanded Anker SOLIX Black Friday Sale has dropped the <a href="https://9to5toys.com/2026/11/20/anker-expanded-solix-black-friday-sale-5kwh-s5000-power-station/">new S5000 5,024Wh Power Station back to an exclusive $2,375 low</a> with increased savings. There’s also the increased Anker eufy security savings, too, like the 16GB or 1TB <a href="https://9to5toys.com/2026/11/20/anker-eufy-security-black-friday-s4-solar-4-cam-kit-more/">eufyCam S4 Solar Security 4-Cam Kits at lows from $950</a>, among many other options. Segway has also dropped its <a href="https://9to5toys.com/2026/11/20/segway-max-g3-plus-electric-scooter-black-friday/">Max G3 Plus Electric Scooter to a new $1,000 low</a>, while the <a href="https://9to5toys.com/2026/11/20/segway-navimow-i215-lidar-robot-mower-black-friday-more/">Navimow i215 LiDAR Robot Mower is at a $1,329 low</a>, with more waiting below. Of course, this is nowhere near all the amazing deals right now, which you can find all <a href="https://electrek.co/2026/11/20/black-friday-2026-green-deals-hub-e-bikes-evs-power-stations-tools-appliances-and-more/">collected together in our Black Friday Green Deals hub here</a> for the remainder of the month. </p>
+        
+        
+        
+        <p class="wp-block-paragraph">Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="494884" href="https://electrek.co/2026/11/20/anker-s5000-5kwh-power-station-segway-max-g3-plus-e-scooter-more/#more-494884" class="more-link">more…</a>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Anker-SOLIX-Anker-eufy-Segway-GDs-FI.jpg?quality=82&#38;strip=all&#38;w=1600)
+
+If you weren’t aware, [Amazon’s full Black Friday event](https://link.amazon/B0f7Vc1JD) is in motion, and deals are flying from across countless brands, with Anker and Segway being our two headliners today. First up, the expanded Anker SOLIX Black Friday Sale has dropped the [new S5000 5,024Wh Power Station back to an exclusive $2,375 low](https://9to5toys.com/2026/11/20/anker-expanded-solix-black-friday-sale-5kwh-s5000-power-station/) with increased savings. There’s also the increased Anker eufy security savings, too, like the 16GB or 1TB [eufyCam S4 Solar Security 4-Cam Kits at lows from $950](https://9to5toys.com/2026/11/20/anker-eufy-security-black-friday-s4-solar-4-cam-kit-more/), among many other options. Segway has also dropped its [Max G3 Plus Electric Scooter to a new $1,000 low](https://9to5toys.com/2026/11/20/segway-max-g3-plus-electric-scooter-black-friday/), while the [Navimow i215 LiDAR Robot Mower is at a $1,329 low](https://9to5toys.com/2026/11/20/segway-navimow-i215-lidar-robot-mower-black-friday-more/), with more waiting below. Of course, this is nowhere near all the amazing deals right now, which you can find all [collected together in our Black Friday Green Deals hub here](https://electrek.co/2026/11/20/black-friday-2026-green-deals-hub-e-bikes-evs-power-stations-tools-appliances-and-more/) for the remainder of the month.
+
+Head below for other New Green Deals we’ve found today and, of course, [_Electrek_’s best EV buying](https://electrek.co/best-electric-vehicle-prices/) and [leasing deals](https://electrek.co/best-electric-vehicle-leases/). Also, check out the new [_Electrek_ Tesla Shop for the best deals on Tesla accessories](https://electrek.co/shop/).
+
+ [more…](https://electrek.co/2026/11/20/anker-s5000-5kwh-power-station-segway-max-g3-plus-e-scooter-more/#more-494884)</source:markdown>
+      <guid>cid://https://electrek.co/?p=494884</guid>
+      <category>News</category>
+      <pubDate>Fri, 20 Nov 2026 19:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>GAO finds 3 agencies violated Antideficiency Act in fiscal 2025, 2026</title>
+      <link>https://federalnewsnetwork.com/federal-newscast/2026/11/gao-finds-3-agencies-violated-antideficiency-act-in-fiscal-2025-2026/</link>
+      <description>
+        <![CDATA[GAO found the departments of Justice and Housing and Urban Development and NASA ran afoul of the law when they spent funding appropriated in the CR.]]>
+      </description>
+      <source:markdown>GAO found the departments of Justice and Housing and Urban Development and NASA ran afoul of the law when they spent funding appropriated in the CR.</source:markdown>
+      <guid>cid://https://federalnewsnetwork.com/?p=6127341</guid>
+      <category>Agency Oversight</category>
+      <category>All News</category>
+      <category>Budget</category>
+      <category>Federal Newscast</category>
+      <category>Management</category>
+      <category>Terry Gerton</category>
+      <category>The Federal Drive</category>
+      <category>antideficiency act</category>
+      <category>continuing resolution</category>
+      <category>Department of Housing and Urban Development</category>
+      <category>Government Accountability Office</category>
+      <category>Justice Department</category>
+      <category>NASA</category>
+      <pubDate>Fri, 20 Nov 2026 18:56:47 +0000</pubDate>
+    </item>    <item>
+      <title>How stations are using ‘Crime and Punishment’ to spark local conversations</title>
+      <link>https://current.org/2026/11/how-stations-are-using-crime-and-punishment-to-spark-local-conversations/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=how-stations-are-using-crime-and-punishment-to-spark-local-conversations</link>
+      <description>
+        <![CDATA[<p>“We hope to give our viewers an opportunity for a different kind of conversation and maybe even some progress on issues that are difficult," says director Lynn Novick.</p>
+        <p>The post <a href="https://current.org/2026/11/how-stations-are-using-crime-and-punishment-to-spark-local-conversations/">How stations are using ‘Crime and Punishment’ to spark local conversations</a> appeared first on <a href="https://current.org">Current</a>.</p>]]>
+      </description>
+      <source:markdown>“We hope to give our viewers an opportunity for a different kind of conversation and maybe even some progress on issues that are difficult,&#34; says director Lynn Novick.
+
+The post [How stations are using ‘Crime and Punishment’ to spark local conversations](https://current.org/2026/11/how-stations-are-using-crime-and-punishment-to-spark-local-conversations/) appeared first on [Current](https://current.org).</source:markdown>
+      <guid>cid://https://current.org/?p=8011334</guid>
+      <category>Programs/Content</category>
+      <pubDate>Fri, 20 Nov 2026 18:30:00 +0000</pubDate>
+    </item>    <item>
+      <title>Renault undercuts BYD with a new EV that costs less than $20,000</title>
+      <link>https://electrek.co/2026/11/20/renault-undercuts-byd-new-ev-costs-less-than-20000/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2026/11/Renault-Twingo-E-Tech-price.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p class="wp-block-paragraph">The new <a href="https://electrek.co/guides/renault/">Renault</a> Twingo E-Tech is among the most affordable vehicles, electric or gas-powered, starting at just £14,745 in the UK, or under $20,000.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="renault" data-layer-viewtype="unknown" data-post-id="494838" href="https://electrek.co/2026/11/20/renault-undercuts-byd-new-ev-costs-less-than-20000/#more-494838" class="more-link">more…</a>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Renault-Twingo-E-Tech-price.jpeg?quality=82&#38;strip=all&#38;w=1400)
+
+The new [Renault](https://electrek.co/guides/renault/) Twingo E-Tech is among the most affordable vehicles, electric or gas-powered, starting at just £14,745 in the UK, or under $20,000.
+
+ [more…](https://electrek.co/2026/11/20/renault-undercuts-byd-new-ev-costs-less-than-20000/#more-494838)</source:markdown>
+      <guid>cid://https://electrek.co/?p=494838</guid>
+      <category>News</category>
+      <pubDate>Fri, 20 Nov 2026 17:38:44 +0000</pubDate>
+    </item>    <item>
+      <title>Building better artificial intelligence requires people willing to do meticulous work at scale</title>
+      <link>https://federalnewsnetwork.com/workforce/2026/11/building-better-artificial-intelligence-requires-people-willing-to-do-meticulous-work-at-scale/</link>
+      <description>
+        <![CDATA["Don't make it a pilot program or a special program. These folks are already part of your workforce," said Peter Kant.]]>
+      </description>
+      <source:markdown>&#34;Don&#39;t make it a pilot program or a special program. These folks are already part of your workforce,&#34; said Peter Kant.</source:markdown>
+      <guid>cid://https://federalnewsnetwork.com/?p=6127349</guid>
+      <category>All News</category>
+      <category>Artificial Intelligence</category>
+      <category>Management</category>
+      <category>Technology</category>
+      <category>Terry Gerton</category>
+      <category>The Federal Drive</category>
+      <category>Workforce</category>
+      <category>Enabled Intelligence</category>
+      <category>Peter Kant</category>
+      <pubDate>Fri, 20 Nov 2026 16:57:39 +0000</pubDate>
+    </item>    <item>
+      <title>What the Deutsche Bank leak reveals</title>
+      <link>https://www.marketplace.org/episode/2026/11/20/what-the-deutsche-bank-leak-reveals</link>
+      <description>
+        <![CDATA[<p>A new flood of leaked documents is putting fresh scrutiny on banking behemoth Deutsche Bank. The documents include more than 15 million internal emails and files, covering the early 2010s through 2021. A group of more than 200 journalists from around the globe has been analyzing the leaked information, revealing questionable practices, deals with Russian oligarchs, and more. Today, we hear from one of those reporters. But first, what did we get out of President Donald Trump's Asia summit?</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe to our daily or weekly newsletter</a></em><em>.</em></p><br/><p><em>Marketplace Morning Report is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p><br/><p>Stories in this podcast:</p><br/><ul><li><a href="https://www.marketplace.org/story/2026/11/20/what-you-need-to-know-about-the-deutsche-bank-leak" class="default">What you need to know about the Deutsche Bank leak</a></li></ul>]]>
+      </description>
+      <source:markdown>A new flood of leaked documents is putting fresh scrutiny on banking behemoth Deutsche Bank. The documents include more than 15 million internal emails and files, covering the early 2010s through 2021. A group of more than 200 journalists from around the globe has been analyzing the leaked information, revealing questionable practices, deals with Russian oligarchs, and more. Today, we hear from one of those reporters. But first, what did we get out of President Donald Trump&#39;s Asia summit?
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe to our daily or weekly newsletter](https://www.marketplace.org/newsletters)_ _._
+
+_Marketplace Morning Report is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._
+
+Stories in this podcast:
+
+- [What you need to know about the Deutsche Bank leak](https://www.marketplace.org/story/2026/11/20/what-you-need-to-know-about-the-deutsche-bank-leak)</source:markdown>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/VnCzW2iO9G8z4eDWfXCd/play.publicradio.org/podcast/o/marketplace/morning_report/2026/11/20/mmr_20261120_MMR_-_Podcast_2_64.mp3?awCollectionId=mkp-MMR&#38;awEpisodeId=01M7WT87T59Q10QNCSG06A6C30" length="3239860" type="audio/mpeg" />
+      <guid>cid://01M7WT87T59Q10QNCSG06A6C30</guid>
+      <pubDate>Fri, 20 Nov 2026 16:02:00 +0000</pubDate>
+    </item>    <item>
+      <title>Tesla FSD approved in Italy, the first big EU market to say yes</title>
+      <link>https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p class="wp-block-paragraph">Italy’s transport ministry has granted provisional approval to Tesla Assisted Driving, the name Tesla now uses for “Full Self-Driving (Supervised)” in Europe. Italy becomes the 12th European country to allow the system, and the first of the EU’s big markets.</p>
+        
+        
+        
+        <p class="wp-block-paragraph">It also didn’t wait for Brussels. The EU committee that decides on bloc-wide recognition isn’t expected to vote until December at the earliest.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-autopilot" data-layer-viewtype="unknown" data-post-id="494832" href="https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/#more-494832" class="more-link">more…</a>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#38;strip=all&#38;w=1600)
+
+Italy’s transport ministry has granted provisional approval to Tesla Assisted Driving, the name Tesla now uses for “Full Self-Driving (Supervised)” in Europe. Italy becomes the 12th European country to allow the system, and the first of the EU’s big markets.
+
+It also didn’t wait for Brussels. The EU committee that decides on bloc-wide recognition isn’t expected to vote until December at the earliest.
+
+ [more…](https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/#more-494832)</source:markdown>
+      <guid>cid://https://electrek.co/?p=494832</guid>
+      <category>News</category>
+      <category>eu</category>
+      <category>europe</category>
+      <category>italy</category>
+      <category>Tesla</category>
+      <category>Tesla Autopilot</category>
+      <category>Tesla Full Self-Driving</category>
+      <pubDate>Fri, 20 Nov 2026 15:50:46 +0000</pubDate>
+    </item>    <item>
+      <title>Volkswagen’s new ID. Polo GTI Clubsport is the electric hot hatch we want, but can’t have</title>
+      <link>https://electrek.co/2026/11/20/vws-new-id-polo-gti-clubsport-ev-hot-hatch/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-ID-Polo-GTI-Clubsport-hot-hatch.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p class="wp-block-paragraph"><a href="https://electrek.co/guides/volkswagen/">Volkswagen</a> revealed the ID. Polo GTI Clubsport Concept, an electric pocket rocket with a massive rear wing and 362 horsepower.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,vw" data-layer-viewtype="unknown" data-post-id="494785" href="https://electrek.co/2026/11/20/vws-new-id-polo-gti-clubsport-ev-hot-hatch/#more-494785" class="more-link">more…</a>]]>
+      </description>
+      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-ID-Polo-GTI-Clubsport-hot-hatch.jpeg?quality=82&#38;strip=all&#38;w=1400)
+
+[Volkswagen](https://electrek.co/guides/volkswagen/) revealed the ID. Polo GTI Clubsport Concept, an electric pocket rocket with a massive rear wing and 362 horsepower.
+
+ [more…](https://electrek.co/2026/11/20/vws-new-id-polo-gti-clubsport-ev-hot-hatch/#more-494785)</source:markdown>
+      <guid>cid://https://electrek.co/?p=494785</guid>
+      <category>News</category>
+      <pubDate>Fri, 20 Nov 2026 15:29:31 +0000</pubDate>
+    </item>    <item>
+      <title>Model Ordinance: Funding for Local Circular Food Systems</title>
+      <link>https://ilsr.org/article/composting-for-community/model-ordinance-funding-for-local-food-systems</link>
+      <description>
+        <![CDATA[A tool local governments can use to establish funding to propel local, closed-loop food systems that recover food scraps.]]>
+      </description>
+      <source:markdown>A tool local governments can use to establish funding to propel local, closed-loop food systems that recover food scraps.</source:markdown>
+      <guid>cid://https://ilsr.org/?post_type=article&#38;p=34467</guid>
+      <pubDate>Fri, 20 Nov 2026 14:50:20 +0000</pubDate>
+    </item>    <item>
       <title>Can ducks save a 115-year-old rice farm? This Sacramento Valley family’s future depends on it</title>
       <link>https://www.sacbee.com/news/business/article317963771.html</link>
       <description>
@@ -185,13 +580,18 @@ The post [Reaching Out: Connor Wants to Meet Your Father, You’re Not Sure What
       <title>Why JetBlue is in the red</title>
       <link>https://www.marketplace.org/episode/2026/11/20/why-jetblue-is-in-the-red</link>
       <description>
-        <![CDATA[<p>Last week’s nationwide FAA ground stoppage hit JetBlue particularly hard. No other airline canceled a higher percentage of its flights than JetBlue, according to The Wall Street Journal. The company was already under pressure from investors worried about its heavy debt load and its struggles to turn a profit. What is the path forward for JetBlue? But first, when it comes to Federal Reserve rate hikes, size really does matter.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe to our daily or weekly newsletter</a></em><em>.</em></p><br/><p><em>Marketplace Morning Report is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
+        <![CDATA[<p>Last week’s nationwide FAA ground stoppage hit JetBlue particularly hard. No other airline canceled a higher percentage of its flights than JetBlue, according to The Wall Street Journal. The company was already under pressure from investors worried about its heavy debt load and its struggles to turn a profit. What is the path forward for JetBlue? But first, when it comes to Federal Reserve rate hikes, size really does matter.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe to our daily or weekly newsletter</a></em><em>.</em></p><br/><p><em>Marketplace Morning Report is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p><br/><p>Read the stories from this episode:</p><br/><ul><li><a href="https://www.marketplace.org/story/2026/11/20/would-the-fed-consider-a-halfpercentagepoint-hike-in-december" class="default">Why would the Fed consider a half-percentage-point hike in December?</a></li><li><a href="https://www.marketplace.org/story/2026/11/20/why-jetblue-is-struggling-to-turn-a-profit">High fuel prices hamper JetBlue's path back to profitability</a></li></ul>]]>
       </description>
       <source:markdown>Last week’s nationwide FAA ground stoppage hit JetBlue particularly hard. No other airline canceled a higher percentage of its flights than JetBlue, according to The Wall Street Journal. The company was already under pressure from investors worried about its heavy debt load and its struggles to turn a profit. What is the path forward for JetBlue? But first, when it comes to Federal Reserve rate hikes, size really does matter.
 
 _Every story has an economic angle. Want some in your inbox?_ _[Subscribe to our daily or weekly newsletter](https://www.marketplace.org/newsletters)_ _._
 
-_Marketplace Morning Report is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._</source:markdown>
+_Marketplace Morning Report is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._
+
+Read the stories from this episode:
+
+- [Why would the Fed consider a half-percentage-point hike in December?](https://www.marketplace.org/story/2026/11/20/would-the-fed-consider-a-halfpercentagepoint-hike-in-december)
+- [High fuel prices hamper JetBlue&#39;s path back to profitability](https://www.marketplace.org/story/2026/11/20/why-jetblue-is-struggling-to-turn-a-profit)</source:markdown>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/VnCzW2iO9G8z4eDWfXCd/play.publicradio.org/podcast/o/marketplace/morning_report/2026/11/20/mmr_20261120_MMR_-_Podcast_1_64.mp3?awCollectionId=mkp-MMR&#38;awEpisodeId=01M7WFXW9ZG2R3EJ4KCD3W3X3Y" length="3162537" type="audio/mpeg" />
       <guid>cid://01M7WFXW9ZG2R3EJ4KCD3W3X3Y</guid>
       <pubDate>Fri, 20 Nov 2026 12:47:00 +0000</pubDate>
@@ -6133,7 +6533,7 @@ _Marketplace Morning Report is more than a radio show. Check out our original re
       <category>FAA</category>
       <pubDate>Mon, 16 Nov 2026 12:46:34 +0000</pubDate>
     </item>    <item>
-      <title>Flying blind: How the EPA let a key chemical-detection program unravel</title>
+      <title>Flying blind: Inside the decline of the EPA’s chemical-detection plane</title>
       <link>https://floodlightnews.org/aspect-plane-epa-chemical-emergencies/</link>
       <description>
         <![CDATA[As toxic emergencies rise, an EPA plane used to identify dangerous chemicals in the air can no longer do its job.]]>
@@ -10002,9 +10402,9 @@ The post [PBS North Carolina will acquire PBS Charlotte, combine operations](htt
       <title>Maryland – Expanding Tax Credits for Urban Agriculture</title>
       <link>https://ilsr.org/article/composting-for-community/maryland-expanding-tax-credits-for-urban-agriculture</link>
       <description>
-        <![CDATA[In May 2026, Maryland passed the Urban Agricultural Property Tax Credit Act (HB 359), which amended Section 9-253 of the Property Article of the Annotated Code of Maryland. The legislation expands tax credits to urban farmers by removing property size restrictions and broadening the definition of "urban agriculture" to include indoor and outdoor activities such [&#8230;]]]>
+        <![CDATA[In May 2026, Maryland passed the Urban Agricultural Property Tax Credit, which expands tax credits to urban farmers and broadening the definition of "urban agriculture".]]>
       </description>
-      <source:markdown>In May 2026, Maryland passed the Urban Agricultural Property Tax Credit Act (HB 359), which amended Section 9-253 of the Property Article of the Annotated Code of Maryland. The legislation expands tax credits to urban farmers by removing property size restrictions and broadening the definition of &#34;urban agriculture&#34; to include indoor and outdoor activities such \[…\]</source:markdown>
+      <source:markdown>In May 2026, Maryland passed the Urban Agricultural Property Tax Credit, which expands tax credits to urban farmers and broadening the definition of &#34;urban agriculture&#34;.</source:markdown>
       <guid>cid://https://ilsr.org/?post_type=article&#38;p=34399</guid>
       <pubDate>Wed, 11 Nov 2026 19:29:35 +0000</pubDate>
     </item>    <item>
@@ -10126,9 +10526,9 @@ Head below for other New Green Deals we’ve found today and, of course, [_Elec
       <title>Florida – Exemptions for Composting Operations</title>
       <link>https://ilsr.org/article/composting-for-community/florida-exemptions-for-composting-operations</link>
       <description>
-        <![CDATA[Florida adopted Administrative Code 62-709.305, which exempts backyard composting, small-sized composting, and certain on-farm composting from the Florida Department of Environmental Protection’s (FDEP) permit and registration requirements.]]>
+        <![CDATA[Florida adopted Administrative Code 62-709.305, which exempts backyard composting, small-sized composting, and certain on-farm composting from the state's permit and registration requirements.]]>
       </description>
-      <source:markdown>Florida adopted Administrative Code 62-709.305, which exempts backyard composting, small-sized composting, and certain on-farm composting from the Florida Department of Environmental Protection’s (FDEP) permit and registration requirements.</source:markdown>
+      <source:markdown>Florida adopted Administrative Code 62-709.305, which exempts backyard composting, small-sized composting, and certain on-farm composting from the state&#39;s permit and registration requirements.</source:markdown>
       <guid>cid://https://ilsr.org/?post_type=article&#38;p=34392</guid>
       <pubDate>Wed, 11 Nov 2026 18:42:00 +0000</pubDate>
     </item>    <item>
@@ -23204,1608 +23604,6 @@ _Photo: John Tsitrian, gassing up in Rapid City_
       <category>ballot</category>
       <category>voters</category>
       <pubDate>Sat, 31 Oct 2026 00:32:37 +0000</pubDate>
-    </item>    <item>
-      <title>California, SEIU Local 1000 state workers don’t reach deal in Friday’s mediation</title>
-      <link>https://www.sacbee.com/news/politics-government/the-state-worker/article317827579.html</link>
-      <description>
-        <![CDATA[State and union officials are scheduled to meet again on Friday, Nov. 20.]]>
-      </description>
-      <source:markdown>State and union officials are scheduled to meet again on Friday, Nov. 20.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/98x0i4/picture317722335/alternates/FREE_1140/4865_HA_261021_SEIUstrike.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/politics-government/the-state-worker/article317827579.html</guid>
-      <category>SEIU Local 1000</category>
-      <category>California state workers</category>
-      <category>mediation</category>
-      <category>strike</category>
-      <category>telework</category>
-      <pubDate>Fri, 30 Oct 2026 23:52:31 +0000</pubDate>
-    </item>    <item>
-      <title>Sacramento news roundup: Newsom names building after Dolores Huerta, Sikh Parade and more</title>
-      <link>https://www.sacbee.com/news/local/article317855872.html</link>
-      <description>
-        <![CDATA[A labor icon's legacy, a parade expecting hundreds of thousands and turkey trot deadlines creeping up — here's what shaped the Sacramento region Friday.]]>
-      </description>
-      <source:markdown>A labor icon&#39;s legacy, a parade expecting hundreds of thousands and turkey trot deadlines creeping up — here&#39;s what shaped the Sacramento region Friday.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/ij7zx5/picture317853516/alternates/FREE_1140/SAC_11512_DoloresHuerta_HA_220826.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/local/article317855872.html</guid>
-      <category>Dolores Huerta</category>
-      <category>Gavin Newsom</category>
-      <category>Yuba City Sikh Parade</category>
-      <category>turkey trot</category>
-      <category>Run to Feed the Hungry</category>
-      <pubDate>Fri, 30 Oct 2026 23:30:00 +0000</pubDate>
-    </item>    <item>
-      <title>12 Sacramento Bee election ‘fact checks’ on Flock cameras, school issues &#38; more</title>
-      <link>https://www.sacbee.com/news/politics-government/election/article317855429.html</link>
-      <description>
-        <![CDATA[From a $185 million arena deal to clashes over homelessness, housing and school policies, see where candidates in key races stand.]]>
-      </description>
-      <source:markdown>From a $185 million arena deal to clashes over homelessness, housing and school policies, see where candidates in key races stand.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/6efz21/picture315680922/alternates/FREE_1140/1795_NSL_260507_SCUSD_FCMAT.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/politics-government/election/article317855429.html</guid>
-      <category>Sacramento 2026 election</category>
-      <category>fact check</category>
-      <category>local elections</category>
-      <category>Sacramento County supervisors</category>
-      <category>Folsom City Council</category>
-      <category>Rocklin school board</category>
-      <category>Elk Grove Unified</category>
-      <pubDate>Fri, 30 Oct 2026 23:25:00 +0000</pubDate>
-    </item>    <item>
-      <title>‘Dangerous:’ CISA official criticizes company’s decision to release PHP bug early</title>
-      <link>https://federalnewsnetwork.com/cybersecurity/2026/10/dangerous-cisa-official-criticizes-companys-decision-to-release-php-bug-early/</link>
-      <description>
-        <![CDATA[Security firm Chainguard broke an embargo on a critical vulnerability. A CISA official says that's "dangerous" as AI creates more chaos for cyber defenders.]]>
-      </description>
-      <source:markdown>Security firm Chainguard broke an embargo on a critical vulnerability. A CISA official says that&#39;s &#34;dangerous&#34; as AI creates more chaos for cyber defenders.</source:markdown>
-      <guid>cid://https://federalnewsnetwork.com/?p=6097269</guid>
-      <category>All News</category>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Technology</category>
-      <category>ArmorCode</category>
-      <category>Chainguard</category>
-      <category>Cybersecurity and Infrastructure Security Agency</category>
-      <category>Dan Lorenc</category>
-      <category>Dataminr</category>
-      <category>Jay Gazlay</category>
-      <category>Joe Slowik</category>
-      <category>known exploited vulnerabilities</category>
-      <category>PHP</category>
-      <category>Ramy Rahman</category>
-      <pubDate>Fri, 30 Oct 2026 22:57:43 +0000</pubDate>
-    </item>    <item>
-      <title>Air Force kicks off effort to provide free Wi-Fi to Airmen in dorms</title>
-      <link>https://federalnewsnetwork.com/air-force/2026/10/air-force-kicks-off-effort-to-provide-free-wi-fi-to-airmen-in-dorms/</link>
-      <description>
-        <![CDATA[The service has rolled out free, high-speed Wi-Fi to its Airmen living in dormitories at 28 initial locations.]]>
-      </description>
-      <source:markdown>The service has rolled out free, high-speed Wi-Fi to its Airmen living in dormitories at 28 initial locations.</source:markdown>
-      <guid>cid://https://federalnewsnetwork.com/?p=6097243</guid>
-      <category>Air Force</category>
-      <category>All News</category>
-      <category>Army</category>
-      <category>Defense</category>
-      <category>Defense News</category>
-      <category>IT Modernization</category>
-      <category>Navy</category>
-      <category>Technology</category>
-      <category>Workforce</category>
-      <category>Air Education and Training Command</category>
-      <category>military quality of life</category>
-      <pubDate>Fri, 30 Oct 2026 22:39:03 +0000</pubDate>
-    </item>    <item>
-      <title>Ballots, charges and anger: Timeline of the Trump-California noncitizen voting fight</title>
-      <link>https://www.sacbee.com/news/politics-government/election/article317853328.html</link>
-      <description>
-        <![CDATA[The Trump administration’s clash with California over 20,000 alleged noncitizen voters has been fast-paced. A look at key events.]]>
-      </description>
-      <source:markdown>The Trump administration’s clash with California over 20,000 alleged noncitizen voters has been fast-paced. A look at key events.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/9otv4l/picture317690967/alternates/FREE_1140/2296629616-GI.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/politics-government/election/article317853328.html</guid>
-      <category>California election</category>
-      <category>Trump DOJ lawsuit</category>
-      <category>noncitizen voters</category>
-      <category>2026 midterms</category>
-      <category>Gavin Newsom</category>
-      <category>Shirley Weber</category>
-      <category>voter fraud charges</category>
-      <category>Judge David Carter</category>
-      <pubDate>Fri, 30 Oct 2026 22:36:38 +0000</pubDate>
-    </item>    <item>
-      <title>Man who called a Trump rally ‘a cult’ on Fox News says he’s ‘a bully to the bullies’</title>
-      <link>https://www.sacbee.com/news/nation-world/national/article317856545.html</link>
-      <description>
-        <![CDATA[In an interview, Tom Hoyle explains why he went to a Trump rally to “rabble rouse.”]]>
-      </description>
-      <source:markdown>In an interview, Tom Hoyle explains why he went to a Trump rally to “rabble rouse.”</source:markdown>
-      <enclosure url="https://www.heraldonline.com/public/latest-news/td2ov/picture317856255/alternates/FREE_1140/IMG_5115.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/nation-world/national/article317856545.html</guid>
-      <category>Tom Hoyle</category>
-      <category>Rock Hill</category>
-      <category>MAGA rally</category>
-      <category>Jonestown</category>
-      <category>Charlotte</category>
-      <pubDate>Fri, 30 Oct 2026 22:35:57 +0000</pubDate>
-    </item>    <item>
-      <title>Spooked investors sink Big Tech stocks</title>
-      <link>https://www.marketplace.org/episode/2026/10/30/spooked-investors-sink-big-tech-stocks</link>
-      <description>
-        <![CDATA[<p>Big Tech firms saw major stock market slides this week. Alphabet, Microsoft, Meta, Amazon, and Intel all dropped, following less-than-stellar earnings reports. Cracks are showing in the tech biz, and they aren’t all related to AI. Is this the beginning of an AI bubble burst? We’ll explain. Plus: How companies decide whether to offer buyouts or do traditional layoffs, what it’s like to go back to school in your 40s, and where new affordable EVs are available (hint: outside the U.S.)</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p><br/><p><em>Read the stories in today’s episode:</em></p><br/><ul><li><a href="https://www.marketplace.org/story/2026/10/30/prices-are-up-savings-are-down-and-interest-rates-hold-steady" class="default">Don't let this economy give you a fright</a></li><li><a href="https://www.marketplace.org/story/2026/10/30/inside-big-tech-companies-big-slump-this-week" class="default">Inside Big Tech companies' big slump this week</a></li><li><a href="https://www.marketplace.org/story/2026/10/30/she-loved-bartending-then-she-decided-to-head-back-to-school" class="default">She loved bartending. Then she decided to head back to school</a></li><li><a href="https://www.marketplace.org/story/2026/10/30/what-are-the-advantages-to-buyouts-versus-layoffs" class="default">Why companies offer buyouts versus layoffs</a></li><li><a href="https://www.marketplace.org/story/2026/10/30/to-test-drive-affordable-evs-he-took-a-trip-to-cdmx" class="default">To test drive affordable EVs, he took a trip to CDMX</a></li></ul>]]>
-      </description>
-      <source:markdown>Big Tech firms saw major stock market slides this week. Alphabet, Microsoft, Meta, Amazon, and Intel all dropped, following less-than-stellar earnings reports. Cracks are showing in the tech biz, and they aren’t all related to AI. Is this the beginning of an AI bubble burst? We’ll explain. Plus: How companies decide whether to offer buyouts or do traditional layoffs, what it’s like to go back to school in your 40s, and where new affordable EVs are available (hint: outside the U.S.)
-
-_Every story has an economic angle. Want some in your inbox?_ _[Subscribe](https://www.marketplace.org/newsletters)_ _to our daily or weekly newsletter._
-
-_Marketplace is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._
-
-_Read the stories in today’s episode:_
-
-- [Don&#39;t let this economy give you a fright](https://www.marketplace.org/story/2026/10/30/prices-are-up-savings-are-down-and-interest-rates-hold-steady)
-- [Inside Big Tech companies&#39; big slump this week](https://www.marketplace.org/story/2026/10/30/inside-big-tech-companies-big-slump-this-week)
-- [She loved bartending. Then she decided to head back to school](https://www.marketplace.org/story/2026/10/30/she-loved-bartending-then-she-decided-to-head-back-to-school)
-- [Why companies offer buyouts versus layoffs](https://www.marketplace.org/story/2026/10/30/what-are-the-advantages-to-buyouts-versus-layoffs)
-- [To test drive affordable EVs, he took a trip to CDMX](https://www.marketplace.org/story/2026/10/30/to-test-drive-affordable-evs-he-took-a-trip-to-cdmx)</source:markdown>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/VnCzW2iO9G8z4eDWfXCd/play.publicradio.org/podcast/o/marketplace/pm/2026/10/30/pm_20261030_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&#38;awEpisodeId=01M66YPWFMWZEDMMYRG8XKJKJY" length="12256809" type="audio/mpeg" />
-      <guid>cid://01M66YPWFMWZEDMMYRG8XKJKJY</guid>
-      <pubDate>Fri, 30 Oct 2026 22:35:00 +0000</pubDate>
-    </item>    <item>
-      <title>Federal Movers &#38; Shakers | October 30, 2026</title>
-      <link>https://federalnewsnetwork.com/leadership-connect/2026/10/federal-movers-shakers-october-30/</link>
-      <description>
-        <![CDATA[Tracking leadership changes across the federal government]]>
-      </description>
-      <source:markdown>Tracking leadership changes across the federal government</source:markdown>
-      <guid>cid://https://federalnewsnetwork.com/?p=6097289</guid>
-      <category>All News</category>
-      <category>Leadership Connect</category>
-      <category>People</category>
-      <category>Workforce</category>
-      <category>Movers and Shakers</category>
-      <pubDate>Fri, 30 Oct 2026 22:27:15 +0000</pubDate>
-    </item>    <item>
-      <title>Falling response rates push Census Bureau to test new ways of collecting data</title>
-      <link>https://federalnewsnetwork.com/open-datatransparency/2026/10/falling-response-rates-push-census-bureau-to-test-new-ways-of-collecting-data/</link>
-      <description>
-        <![CDATA[The bureau says automated reporting could cut the burden on respondents and deliver more timely statistics to agencies.]]>
-      </description>
-      <source:markdown>The bureau says automated reporting could cut the burden on respondents and deliver more timely statistics to agencies.</source:markdown>
-      <guid>cid://https://federalnewsnetwork.com/?p=6097210</guid>
-      <category>All News</category>
-      <category>Big Data</category>
-      <category>Open Data/Transparency</category>
-      <category>Technology</category>
-      <category>automation</category>
-      <category>Census Bureau</category>
-      <category>data collection</category>
-      <category>data integration</category>
-      <pubDate>Fri, 30 Oct 2026 22:23:40 +0000</pubDate>
-    </item>    <item>
-      <title>As the acquisition world turns: 4 plot twists in the latest storyline</title>
-      <link>https://federalnewsnetwork.com/reporters-notebook/2026/10/as-the-acquisition-world-turns-4-plot-twists-in-the-latest-storyline/</link>
-      <description>
-        <![CDATA[NIH and DHS close down long-time services, while NASA and the Navy are getting new characters ready for their debuts.]]>
-      </description>
-      <source:markdown>NIH and DHS close down long-time services, while NASA and the Navy are getting new characters ready for their debuts.</source:markdown>
-      <guid>cid://https://federalnewsnetwork.com/?p=6097176</guid>
-      <category>Acquisition</category>
-      <category>Acquisition Policy</category>
-      <category>All News</category>
-      <category>Cloud Computing</category>
-      <category>Contracting</category>
-      <category>Contracts/Awards</category>
-      <category>Defense</category>
-      <category>Defense Industry</category>
-      <category>Defense News</category>
-      <category>IT Modernization</category>
-      <category>Navy</category>
-      <category>Reporter&#39;s Notebook</category>
-      <category>Shared Services</category>
-      <category>Technology</category>
-      <category>acquisition forecast</category>
-      <category>contract consolidation</category>
-      <category>Department of Homeland Security</category>
-      <category>General Services Administration</category>
-      <category>governmentwide acquisition contracts</category>
-      <category>NASA</category>
-      <category>NASA SEWP VI</category>
-      <category>Navy Enterprise Network</category>
-      <category>NGEN</category>
-      <category>NITAAC</category>
-      <category>NMCI</category>
-      <category>Ricky Clark</category>
-      <pubDate>Fri, 30 Oct 2026 22:14:59 +0000</pubDate>
-    </item>    <item>
-      <title>IRS facing new lawsuit over return-to-office policy</title>
-      <link>https://federalnewsnetwork.com/unions/2026/10/irs-facing-new-lawsuit-over-return-to-office-policy/</link>
-      <description>
-        <![CDATA[The National Treasury Employees Union contends that the IRS’s refusal to comply with an order to reinstate telework violates the Administrative Procedure Act.]]>
-      </description>
-      <source:markdown>The National Treasury Employees Union contends that the IRS’s refusal to comply with an order to reinstate telework violates the Administrative Procedure Act.</source:markdown>
-      <guid>cid://https://federalnewsnetwork.com/?p=6097156</guid>
-      <category>All News</category>
-      <category>Litigation</category>
-      <category>Unions</category>
-      <category>Workforce</category>
-      <category>Administrative Procedure Act</category>
-      <category>collective bargaining</category>
-      <category>collective bargaining agreement</category>
-      <category>Department of Health and Human Services</category>
-      <category>Doreen Greenwald</category>
-      <category>Federal Labor Relations Authority</category>
-      <category>Federal remote work</category>
-      <category>federal telework</category>
-      <category>IRS</category>
-      <category>National Treasury Employees Union</category>
-      <category>Rehabilitation Act</category>
-      <category>return to office</category>
-      <pubDate>Fri, 30 Oct 2026 22:08:05 +0000</pubDate>
-    </item>    <item>
-      <title>Judgment day for California’s billionaire tax looms. Prop. 40 explained, fast</title>
-      <link>https://www.sacbee.com/news/politics-government/election/article317852764.html</link>
-      <description>
-        <![CDATA[The nation’s eyes are on the hotly debated “billionaire tax” ballot question. Here’s a quick guide, with links to other Sacramento Bee reporting.]]>
-      </description>
-      <source:markdown>The nation’s eyes are on the hotly debated “billionaire tax” ballot question. Here’s a quick guide, with links to other Sacramento Bee reporting.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/l9jips/picture317049115/alternates/FREE_1140/SAC_0112_RCB_20260828_Prop40.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/politics-government/election/article317852764.html</guid>
-      <category>Proposition 40</category>
-      <category>California billionaire tax</category>
-      <category>wealth tax</category>
-      <category>Sergey Brin</category>
-      <category>SEIU-UHW</category>
-      <category>Gavin Newsom</category>
-      <category>Emmanuel Saez</category>
-      <category>midterm election</category>
-      <pubDate>Fri, 30 Oct 2026 21:47:19 +0000</pubDate>
-    </item>    <item>
-      <title>Federal appeals court again rejects Trump bid to set aside 20,000 California ballots</title>
-      <link>https://www.sacbee.com/news/politics-government/capitol-alert/article317854813.html</link>
-      <description>
-        <![CDATA[A divided panel questioned the accuracy of the list of suspected noncitizen voters, warning that its use could disenfranchise eligible Californians days before the election.]]>
-      </description>
-      <source:markdown>A divided panel questioned the accuracy of the list of suspected noncitizen voters, warning that its use could disenfranchise eligible Californians days before the election.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/s7wzuc/picture317802354/alternates/FREE_1140/US-NEWS-CALIF-DOJ-BALLOTS-LA.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/politics-government/capitol-alert/article317854813.html</guid>
-      <category>9th Circuit</category>
-      <category>California ballots</category>
-      <category>voter disenfranchisement</category>
-      <category>DOJ lawsuit</category>
-      <category>Gavin Newsom</category>
-      <pubDate>Fri, 30 Oct 2026 21:45:50 +0000</pubDate>
-    </item>    <item>
-      <title>Not so fast: Study on rapid airport route through Natomas paused by Sacramento RT</title>
-      <link>https://www.sacbee.com/news/local/transportation/article317840092.html</link>
-      <description>
-        <![CDATA[The study was initially set to begin spring 2027. It must be completed within the next three years, an RT spokesperson said.]]>
-      </description>
-      <source:markdown>The study was initially set to begin spring 2027. It must be completed within the next three years, an RT spokesperson said.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/opinion/letters-to-the-editor/fsu3nc/picture79375562/alternates/FREE_1140/IMG_RCB_20120615_LIGHTRA_2_1_1V6JU2F5_L179750126" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/local/transportation/article317840092.html</guid>
-      <category>Caltrans</category>
-      <category>I-5 managed lanes project</category>
-      <category>bus rapid transit</category>
-      <category>SMF light rail</category>
-      <pubDate>Fri, 30 Oct 2026 21:42:30 +0000</pubDate>
-    </item>    <item>
-      <title>Free kid’s meals, BOGO deals, and special spooky treats for Halloween in Sacramento</title>
-      <link>https://www.sacbee.com/food-drink/article317806216.html</link>
-      <description>
-        <![CDATA[Both local shops and chains are offering free and discounted treats for Halloween.]]>
-      </description>
-      <source:markdown>Both local shops and chains are offering free and discounted treats for Halloween.</source:markdown>
-      <enclosure url="https://www.mcclatchy-wires.com/public/incoming/2wyb2t/picture317803536/alternates/FREE_1140/a7cc5889-4934-430b-8c5d-5e8cbdf21426" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/food-drink/article317806216.html</guid>
-      <category>Halloween deals Sacramento</category>
-      <category>free kid&#39;s meals</category>
-      <category>BOGO offers</category>
-      <category>costume freebies</category>
-      <pubDate>Fri, 30 Oct 2026 21:14:30 +0000</pubDate>
-    </item>    <item>
-      <title>California early voting is up 1 million over 2022. Who’s casting ballots?</title>
-      <link>https://www.sacbee.com/news/politics-government/capitol-alert/article317851008.html</link>
-      <description>
-        <![CDATA[Turnout could hit 61% in California, up from 50% in 2022. Late voters could help shape several close races.]]>
-      </description>
-      <source:markdown>Turnout could hit 61% in California, up from 50% in 2022. Late voters could help shape several close races.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/vd54uq/picture312702204/alternates/FREE_1140/SAC_142_252810_JV_Recorder_Rocklin.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/politics-government/capitol-alert/article317851008.html</guid>
-      <category>California early voting</category>
-      <category>turnout increase</category>
-      <category>midterm turnout</category>
-      <category>Inland Empire voting</category>
-      <category>Latino voter surge</category>
-      <pubDate>Fri, 30 Oct 2026 21:07:44 +0000</pubDate>
-    </item>    <item>
-      <title>Sacramento-area turkey trot slots are filling up fast, so register soon</title>
-      <link>https://www.sacbee.com/entertainment/article317852657.html</link>
-      <description>
-        <![CDATA[Many Thanksgiving fun runs and turkey trots will also see registration fee hikes over the next few days.]]>
-      </description>
-      <source:markdown>Many Thanksgiving fun runs and turkey trots will also see registration fee hikes over the next few days.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/lff0ze/picture313194044/alternates/FREE_1140/1641_20251127_HR_RunForHungry.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/entertainment/article317852657.html</guid>
-      <category>Sacramento turkey trot</category>
-      <category>Thanksgiving fun run</category>
-      <category>Davis CA turkey trot</category>
-      <category>register turkey trot</category>
-      <category>race registration</category>
-      <pubDate>Fri, 30 Oct 2026 21:03:04 +0000</pubDate>
-    </item>    <item>
-      <title>How to create a sensory-friendly garden at home with calming plants, soothing sounds and natural textures</title>
-      <link>https://www.sacbee.com/entertainment/living/article317854042.html</link>
-      <description>
-        <![CDATA[From fragrant jasmine to lamb's ear and rain chains, here's how to turn a backyard into a five-senses retreat that pollinators love, too.]]>
-      </description>
-      <source:markdown>From fragrant jasmine to lamb&#39;s ear and rain chains, here&#39;s how to turn a backyard into a five-senses retreat that pollinators love, too.</source:markdown>
-      <enclosure url="https://www.kansascity.com/public/latest-news/syapoh/picture317854927/alternates/FREE_1140/GettyImages-501799765.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/entertainment/living/article317854042.html</guid>
-      <category>sensory garden</category>
-      <category>calming plants</category>
-      <category>backyard retreat</category>
-      <category>pollinator friendly</category>
-      <category>tactile plants</category>
-      <pubDate>Fri, 30 Oct 2026 21:00:13 +0000</pubDate>
-    </item>    <item>
-      <title>Remains in Natomas field may be missing blind man, could take ‘days to months’ to ID</title>
-      <link>https://www.sacbee.com/news/local/article317853022.html</link>
-      <description>
-        <![CDATA[Sacramento police were called just before 8:45 a.m. Monday for the reported find in a field in the area of East Commerce Way and Tanzanite Avenue]]>
-      </description>
-      <source:markdown>Sacramento police were called just before 8:45 a.m. Monday for the reported find in a field in the area of East Commerce Way and Tanzanite Avenue</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/45si43/picture311513878/alternates/FREE_1140/Lovett-Moore.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/local/article317853022.html</guid>
-      <category>Natomas remains</category>
-      <category>Lovett Moore</category>
-      <category>Sacramento coroner</category>
-      <category>East Commerce Way</category>
-      <pubDate>Fri, 30 Oct 2026 20:52:16 +0000</pubDate>
-    </item>    <item>
-      <title>Thousands expected at Yuba City Sikh Parade. Here’s what to know about safety, traffic</title>
-      <link>https://www.sacbee.com/news/local/article317854025.html</link>
-      <description>
-        <![CDATA[Yuba City officials shared traffic and safety plans ahead of Sunday’s Sikh Parade, with festivities scheduled to begin Friday and continue through the weekend.]]>
-      </description>
-      <source:markdown>Yuba City officials shared traffic and safety plans ahead of Sunday’s Sikh Parade, with festivities scheduled to begin Friday and continue through the weekend.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/3jch6w/picture312750532/alternates/FREE_1140/7271_20251102_HR_SikhParade.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/local/article317854025.html</guid>
-      <category>Sikh Parade Yuba City</category>
-      <category>Sutter County Nagar Kirtan</category>
-      <category>Yuba City events</category>
-      <category>parade safety tips</category>
-      <category>Northern California Sikh event</category>
-      <pubDate>Fri, 30 Oct 2026 20:48:42 +0000</pubDate>
-    </item>    <item>
-      <title>What to know about ballot issues as you vote in California’s Nov 3. election</title>
-      <link>https://www.sacbee.com/news/politics-government/election/article317838986.html</link>
-      <description>
-        <![CDATA[<p>California voters face a crowded November ballot packed with questions on taxes, special elections and environmental rules.</p>]]>
-      </description>
-      <source:markdown>California voters face a crowded November ballot packed with questions on taxes, special elections and environmental rules.</source:markdown>
-      <enclosure url="https://www.mcclatchy-wires.com/public/incoming/j659ea/picture317853979/alternates/FREE_1140/063b5381-72aa-41da-a82d-606ca36b73f6" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/politics-government/election/article317838986.html</guid>
-      <category>California election measures</category>
-      <category>Proposition 39 voter ID</category>
-      <category>CEQA reforms Prop. 45</category>
-      <category>housing bond $11.25B</category>
-      <category>billionaire wealth tax</category>
-      <pubDate>Fri, 30 Oct 2026 20:44:53 +0000</pubDate>
-    </item>    <item>
-      <title>Woman who sued at 16 to desegregate University of South Carolina dies at 83</title>
-      <link>https://www.sacbee.com/news/nation-world/national/article317854975.html</link>
-      <description>
-        <![CDATA[A civil rights center director at the university said Henrie Monteith Treadwell’s courage changed the school, the state and the lives of countless people who followed her path.]]>
-      </description>
-      <source:markdown>A civil rights center director at the university said Henrie Monteith Treadwell’s courage changed the school, the state and the lives of countless people who followed her path.</source:markdown>
-      <enclosure url="https://www.thestate.com/public/latest-news/naytgc/picture317851946/alternates/FREE_1140/Henrie.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/nation-world/national/article317854975.html</guid>
-      <category>Henrie Moneteith Treadwell</category>
-      <pubDate>Fri, 30 Oct 2026 20:31:52 +0000</pubDate>
-    </item>    <item>
-      <title>BYD reveals a flashy new feature on its upcoming luxury EV</title>
-      <link>https://electrek.co/2026/10/30/byd-reveals-flashy-new-feature-upcoming-luxury-ev/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-luxury-EV-suicide-doors.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p class="wp-block-paragraph"><a href="https://electrek.co/guides/byd/">BYD</a> is moving upmarket with its new flagship EV, featuring suicide doors, a gemstone grille, and possibly solid-state batteries.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="490366" href="https://electrek.co/2026/10/30/byd-reveals-flashy-new-feature-upcoming-luxury-ev/#more-490366" class="more-link">more…</a>]]>
-      </description>
-      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-luxury-EV-suicide-doors.jpeg?quality=82&#38;strip=all&#38;w=1400)
-
-[BYD](https://electrek.co/guides/byd/) is moving upmarket with its new flagship EV, featuring suicide doors, a gemstone grille, and possibly solid-state batteries.
-
- [more…](https://electrek.co/2026/10/30/byd-reveals-flashy-new-feature-upcoming-luxury-ev/#more-490366)</source:markdown>
-      <guid>cid://https://electrek.co/?p=490366</guid>
-      <category>News</category>
-      <pubDate>Fri, 30 Oct 2026 20:19:39 +0000</pubDate>
-    </item>    <item>
-      <title>NC State police got tip about date rape drug use in hazing at an unnamed fraternity</title>
-      <link>https://www.sacbee.com/news/nation-world/national/article317854588.html</link>
-      <description>
-        <![CDATA[NC State’s Sigma Nu fraternity house in Raleigh was searched Friday as part of a criminal hazing investigation.]]>
-      </description>
-      <source:markdown>NC State’s Sigma Nu fraternity house in Raleigh was searched Friday as part of a criminal hazing investigation.</source:markdown>
-      <enclosure url="https://www.newsobserver.com/public/latest-news/q9ey2z/picture317853185/alternates/FREE_1140/SIGMANUNCSU-NE-103026-RTW.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/nation-world/national/article317854588.html</guid>
-      <category>NC State</category>
-      <category>Sigma Nu</category>
-      <category>hazing investigation</category>
-      <category>Raleigh</category>
-      <category>fraternity search</category>
-      <pubDate>Fri, 30 Oct 2026 20:14:31 +0000</pubDate>
-    </item>    <item>
-      <title>Data, analytics helping CMS stop fraud before it starts</title>
-      <link>https://federalnewsnetwork.com/federal-insights/2026/10/data-analytics-helping-cms-stop-fraud-before-it-starts/</link>
-      <description>
-        <![CDATA[CMS, GDIT and CLEAR officials say new artificial intelligence tools are driving decisions earlier in the process of whether to pay beneficiaries and providers.]]>
-      </description>
-      <source:markdown>CMS, GDIT and CLEAR officials say new artificial intelligence tools are driving decisions earlier in the process of whether to pay beneficiaries and providers.</source:markdown>
-      <guid>cid://https://federalnewsnetwork.com/?p=6086951</guid>
-      <category>All News</category>
-      <category>Artificial Intelligence</category>
-      <category>Big Data</category>
-      <category>Federal Insights</category>
-      <category>Technology</category>
-      <category>Centers for Medicare and Medicaid Services</category>
-      <category>CLEAR</category>
-      <category>Dave Merrill</category>
-      <category>David Bardan</category>
-      <category>fraud and abuse</category>
-      <category>GDIT</category>
-      <category>identity and access management</category>
-      <category>Kim Brandt</category>
-      <pubDate>Fri, 30 Oct 2026 20:10:48 +0000</pubDate>
-    </item>    <item>
-      <title>The Holiday Boundaries That Can Save Your Sanity This Season</title>
-      <link>https://www.sacbee.com/entertainment/living/article317847501.html</link>
-      <description>
-        <![CDATA[Learn how to handle difficult family conversations, say no without guilt and protect your time, money and peace of mind this holiday season.]]>
-      </description>
-      <source:markdown>Learn how to handle difficult family conversations, say no without guilt and protect your time, money and peace of mind this holiday season.</source:markdown>
-      <enclosure url="https://www.bnd.com/public/latest-news/un1iwe/picture317853633/alternates/FREE_1140/GettyImages-2280869181.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/entertainment/living/article317847501.html</guid>
-      <category>holidays</category>
-      <category>boundaries</category>
-      <category>mental health</category>
-      <pubDate>Fri, 30 Oct 2026 20:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Gov. Gavin Newsom renames new state building after labor advocate Dolores Huerta</title>
-      <link>https://www.sacbee.com/news/politics-government/capitol-alert/article317851547.html</link>
-      <description>
-        <![CDATA[“Dolores Huerta’s legacy is inseparable from the story of California’s labor movement.”]]>
-      </description>
-      <source:markdown>“Dolores Huerta’s legacy is inseparable from the story of California’s labor movement.”</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/ij7zx5/picture317853516/alternates/FREE_1140/SAC_11512_DoloresHuerta_HA_220826.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/politics-government/capitol-alert/article317851547.html</guid>
-      <category>Dolores Huerta</category>
-      <category>California labor movement</category>
-      <category>state building renaming</category>
-      <category>Bakersfield</category>
-      <pubDate>Fri, 30 Oct 2026 19:59:10 +0000</pubDate>
-    </item>    <item>
-      <title>Mississippi man who read to kids at mom’s daycare faces child pornography charges in 2 states</title>
-      <link>https://www.sacbee.com/news/nation-world/national/article317854114.html</link>
-      <description>
-        <![CDATA[Homeland Security Investigations agents have identified some alleged victims in Mississippi and are asking for tips to identify others.]]>
-      </description>
-      <source:markdown>Homeland Security Investigations agents have identified some alleged victims in Mississippi and are asking for tips to identify others.</source:markdown>
-      <enclosure url="https://www.sunherald.com/public/latest-news/7q16iq/picture317851392/alternates/FREE_1140/Jesse%20James%20Ladner" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/nation-world/national/article317854114.html</guid>
-      <category>Pass Christian child pornography</category>
-      <category>federal indictment</category>
-      <category>Harrison County</category>
-      <category>Boston</category>
-      <category>A Place to Grow daycare</category>
-      <pubDate>Fri, 30 Oct 2026 19:55:33 +0000</pubDate>
-    </item>    <item>
-      <title>Who Actually Draws Your Hairline at a Turkish Hair Transplant Clinic?</title>
-      <link>https://www.sacbee.com/contributor-content/article317853773.html</link>
-      <description>
-        <![CDATA[<p>Before any graft is placed in a hair transplant, a line is drawn across the forehead. That line helps determine where the new hair begins and how natural the result may look. Although it may be drawn in minutes, its placement can have lasting effects once the transplant is performed.</p>]]>
-      </description>
-      <source:markdown>Before any graft is placed in a hair transplant, a line is drawn across the forehead. That line helps determine where the new hair begins and how natural the result may look. Although it may be drawn in minutes, its placement can have lasting effects once the transplant is performed.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/contributor-content/7qwguq/picture317853782/alternates/FREE_1140/Who%20Actually%20Draws%20Your%20Hairline%20at%20a%20Turkish%20Hair%20Transplant%20Clinic.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/contributor-content/article317853773.html</guid>
-      <category>hair transplant Turkey</category>
-      <category>hairline design</category>
-      <category>Vera Clinic</category>
-      <category>hair transplant doctor</category>
-      <category>Istanbul</category>
-      <pubDate>Fri, 30 Oct 2026 19:40:56 +0000</pubDate>
-    </item>    <item>
-      <title>California hiker killed in ‘traumatic’ fall on Mount Whitney identified</title>
-      <link>https://www.sacbee.com/news/california/article317853182.html</link>
-      <description>
-        <![CDATA[Rescuers braved “snow and hazardous weather conditions” to recover the hiker’s body.]]>
-      </description>
-      <source:markdown>Rescuers braved “snow and hazardous weather conditions” to recover the hiker’s body.</source:markdown>
-      <enclosure url="https://www.fresnobee.com/public/news/california/g0tnqm/picture314488839/alternates/FREE_1140/inyo%20mt%20whitney.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/california/article317853182.html</guid>
-      <category>california hiker death</category>
-      <category>hike mount whitney</category>
-      <category>mount whitney fall</category>
-      <category>iceberg lake</category>
-      <pubDate>Fri, 30 Oct 2026 19:34:12 +0000</pubDate>
-    </item>    <item>
-      <title>8 new possible E. coli cases linked to suspected outbreak at SLO County farm</title>
-      <link>https://www.sacbee.com/news/california/article317853029.html</link>
-      <description>
-        <![CDATA[The cases are currently under investigation and have not been confirmed by laboratory testing, the Public Health Department said.]]>
-      </description>
-      <source:markdown>The cases are currently under investigation and have not been confirmed by laboratory testing, the Public Health Department said.</source:markdown>
-      <enclosure url="https://www.sanluisobispo.com/public/latest-news/z62sh7/picture280146444/alternates/FREE_1140/Brookshire%20Farms_Lede6" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/california/article317853029.html</guid>
-      <category>E. coli outbreak</category>
-      <category>Brookshire Farms</category>
-      <category>SLO County</category>
-      <category>pumpkin patch</category>
-      <category>Shiga toxin</category>
-      <pubDate>Fri, 30 Oct 2026 19:32:09 +0000</pubDate>
-    </item>    <item>
-      <title>Podcast: Rivian earnings, Waymo partners with Toyota, Ford bets on V2H for Fathom, and more</title>
-      <link>https://electrek.co/2026/10/30/podcast-rivian-earnings-waymo-partners-with-toyota-ford-bets-on-v2h-for-fathom-and-more/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p class="wp-block-paragraph">In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll discuss Rivian’s earnings, Waymo partnering with Toyota, Ford betting on V2H for the Fathom electric pickup truck, and more.</p>
-        
-        
-        
-        <figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2026/10/Electrek_461.mp3"></audio></figure>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="490368" href="https://electrek.co/2026/10/30/podcast-rivian-earnings-waymo-partners-with-toyota-ford-bets-on-v2h-for-fathom-and-more/#more-490368" class="more-link">more…</a>]]>
-      </description>
-      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#38;strip=all&#38;w=1600)
-
-In the [Electrek Podcast](https://electrek.co/guides/electrek-podcast/), we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll discuss Rivian’s earnings, Waymo partnering with Toyota, Ford betting on V2H for the Fathom electric pickup truck, and more.
-
- [more…](https://electrek.co/2026/10/30/podcast-rivian-earnings-waymo-partners-with-toyota-ford-bets-on-v2h-for-fathom-and-more/#more-490368)</source:markdown>
-      <guid>cid://https://electrek.co/?p=490368</guid>
-      <category>News</category>
-      <pubDate>Fri, 30 Oct 2026 19:30:35 +0000</pubDate>
-    </item>    <item>
-      <title>The 2027 Purchasing Power Squeeze: Why FERS retirees are losing the math game</title>
-      <link>https://federalnewsnetwork.com/federal-insights/2026/10/the-2027-purchasing-power-squeeze-why-fers-retirees-are-losing-the-math-game/</link>
-      <description>
-        <![CDATA[Within a few weeks, the federal community was hit with a trifecta of financial news that threatens to squeeze your purchasing power like never before.]]>
-      </description>
-      <source:markdown>Within a few weeks, the federal community was hit with a trifecta of financial news that threatens to squeeze your purchasing power like never before.</source:markdown>
-      <guid>cid://https://federalnewsnetwork.com/?p=6097040</guid>
-      <category>All News</category>
-      <category>National Gold Group</category>
-      <pubDate>Fri, 30 Oct 2026 19:18:54 +0000</pubDate>
-    </item>    <item>
-      <title>Union challenges Trump administration threat of ‘prison time’ for CA election workers</title>
-      <link>https://www.sacbee.com/news/politics-government/capitol-alert/article317851508.html</link>
-      <description>
-        <![CDATA[A lawsuit seeks to stop the Trump administration from threatening election workers with prosecution for processing ballots cast by suspected noncitizens.]]>
-      </description>
-      <source:markdown>A lawsuit seeks to stop the Trump administration from threatening election workers with prosecution for processing ballots cast by suspected noncitizens.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/oagt42/picture317212478/alternates/FREE_1140/SAC_062_260206_JV_Polling.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/politics-government/capitol-alert/article317851508.html</guid>
-      <category>Trump administration</category>
-      <category>election workers</category>
-      <category>DOJ probe</category>
-      <category>noncitizen voter list</category>
-      <category>California</category>
-      <pubDate>Fri, 30 Oct 2026 19:17:15 +0000</pubDate>
-    </item>    <item>
-      <title>The Holidays Feel Different After Loss—How to Keep Traditions Alive</title>
-      <link>https://www.sacbee.com/entertainment/living/article317834906.html</link>
-      <description>
-        <![CDATA[When families grieve differently, finding comfort in holiday traditions can help ease the season.]]>
-      </description>
-      <source:markdown>When families grieve differently, finding comfort in holiday traditions can help ease the season.</source:markdown>
-      <enclosure url="https://www.bnd.com/public/latest-news/wubzgh/picture317853465/alternates/FREE_1140/GettyImages-2253973512.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/entertainment/living/article317834906.html</guid>
-      <category>holidays</category>
-      <category>holiday grief</category>
-      <category>traditions</category>
-      <pubDate>Fri, 30 Oct 2026 19:09:46 +0000</pubDate>
-    </item>    <item>
-      <title>The Tiny Gold Beads People Are Pressing Into Their Ears and What Experts Say About Them</title>
-      <link>https://www.sacbee.com/entertainment/living/article317851738.html</link>
-      <description>
-        <![CDATA[Ear seeding is a 3000 year old TCM practice that uses tiny beads to stimulate pressure points. Here is what experts say.]]>
-      </description>
-      <source:markdown>Ear seeding is a 3000 year old TCM practice that uses tiny beads to stimulate pressure points. Here is what experts say.</source:markdown>
-      <enclosure url="https://www.miamiherald.com/public/latest-news/pvcz8s/picture317852086/alternates/FREE_1140/GettyImages-1364146716.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/entertainment/living/article317851738.html</guid>
-      <category>ear seeding</category>
-      <category>acupuncture</category>
-      <category>needle-free tcm practice</category>
-      <category>chinese acupuncture</category>
-      <pubDate>Fri, 30 Oct 2026 19:05:28 +0000</pubDate>
-    </item>    <item>
-      <title>King tides flood NC’s coastal roads, signaling dangers of sea level rise</title>
-      <link>https://www.sacbee.com/news/nation-world/national/article317851190.html</link>
-      <description>
-        <![CDATA[North Carolina’s coast was awash with floodwaters this week from a king tide, a cyclical weather event during which high tides reach abnormally high levels.]]>
-      </description>
-      <source:markdown>North Carolina’s coast was awash with floodwaters this week from a king tide, a cyclical weather event during which high tides reach abnormally high levels.</source:markdown>
-      <enclosure url="https://www.newsobserver.com/public/latest-news/982vmw/picture317746225/alternates/FREE_1140/857393026_1697973909035468_3363930078942760999_n.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/nation-world/national/article317851190.html</guid>
-      <category>king tides</category>
-      <category>North Carolina coastal flooding</category>
-      <category>Outer Banks flooding</category>
-      <category>sea level rise</category>
-      <pubDate>Fri, 30 Oct 2026 18:28:55 +0000</pubDate>
-    </item>    <item>
-      <title>OPM reminds federal employees about rights to report misconduct</title>
-      <link>https://federalnewsnetwork.com/federal-newscast/2026/10/opm-reminds-federal-employees-about-rights-to-report-misconduct/</link>
-      <description>
-        <![CDATA[OPM is telling agencies to communicate these protections to employees and promptly address any instances of retaliation that arise.]]>
-      </description>
-      <source:markdown>OPM is telling agencies to communicate these protections to employees and promptly address any instances of retaliation that arise.</source:markdown>
-      <guid>cid://https://federalnewsnetwork.com/?p=6096584</guid>
-      <category>All News</category>
-      <category>Federal Newscast</category>
-      <category>Terry Gerton</category>
-      <category>The Federal Drive</category>
-      <category>Workforce</category>
-      <category>Workforce Rights/Governance</category>
-      <category>Equal Employment Opportunity Commission</category>
-      <category>Officer of Personnel Management</category>
-      <pubDate>Fri, 30 Oct 2026 18:26:00 +0000</pubDate>
-    </item>    <item>
-      <title>Tesla drops car referral rewards, now pays owners in FSD for referrals</title>
-      <link>https://electrek.co/2026/10/30/tesla-referral-program-fsd-car-rewards-dropped/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2019/03/Screen-Shot-2019-03-21-at-5.04.33-PM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p class="wp-block-paragraph">Tesla has launched a new referral program in the US that pays owners in Full Self-Driving (Supervised) instead of rewarding car sales. A referred owner gets one free month of FSD, and the referrer gets a free month or a $99 Tesla Credit if that person starts paying.</p>
-        
-        
-        
-        <p class="wp-block-paragraph">At the same time, Tesla’s Refer and Earn terms no longer list any vehicle as a qualifying purchase for buyer or referrer rewards. Buy a Tesla with a friend’s code today and neither of you gets anything.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="490352" href="https://electrek.co/2026/10/30/tesla-referral-program-fsd-car-rewards-dropped/#more-490352" class="more-link">more…</a>]]>
-      </description>
-      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2019/03/Screen-Shot-2019-03-21-at-5.04.33-PM.jpg?quality=82&#38;strip=all&#38;w=1600)
-
-Tesla has launched a new referral program in the US that pays owners in Full Self-Driving (Supervised) instead of rewarding car sales. A referred owner gets one free month of FSD, and the referrer gets a free month or a $99 Tesla Credit if that person starts paying.
-
-At the same time, Tesla’s Refer and Earn terms no longer list any vehicle as a qualifying purchase for buyer or referrer rewards. Buy a Tesla with a friend’s code today and neither of you gets anything.
-
- [more…](https://electrek.co/2026/10/30/tesla-referral-program-fsd-car-rewards-dropped/#more-490352)</source:markdown>
-      <guid>cid://https://electrek.co/?p=490352</guid>
-      <category>News</category>
-      <category>elon musk</category>
-      <category>Full Self-Driving</category>
-      <category>Tesla</category>
-      <pubDate>Fri, 30 Oct 2026 18:02:35 +0000</pubDate>
-    </item>    <item>
-      <title>Bluetti 288Wh Elite 30 Mini power station exclusive pre-order deals, Aventon Abound SR + LR cargo e-bikes first savings, more</title>
-      <link>https://electrek.co/2026/10/30/bluetti-288wh-elite-30-mini-power-station-aventon-abound-sr-lr-cargo-e-bikes-more/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2026/10/Bluetti-Aventon-Greenworks-Anker-eufy-GDs-FI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p class="wp-block-paragraph">We’ve got two big first-time deals leading our end-of-the-week Green Deals edition, starting with Bluetti’s pre-order launch of the <a href="https://9to5toys.com/2026/10/29/bluetti-288wh-elite-30-mini-power-station-exclusive-pre-order-launch/">Elite 30 Mini 288Wh Portable Power Station and bundles starting from an exclusive $237</a>. Right behind that is <a href="https://9to5toys.com/2026/10/29/aventon-early-black-friday-abound-sr-lr-smart-cargo-e-bikes/">Aventon’s Early Bird Black Friday Access deals</a>, which have provided the first savings on its <a href="https://9to5toys.com/2026/10/29/aventon-early-black-friday-abound-sr-lr-smart-cargo-e-bikes/">Abound SR and Abound LR Cargo e-bikes starting from $1,899</a>, and others from $1,799. From there, we have an off-season deal for a new low on <a href="https://9to5toys.com/2026/10/30/greenworks-40v-10-inch-cordless-tiller-cultivator-kit/">Greenworks’ 40V 10-inch Cordless Tiller/Cultivator kit</a>, savings on Anker’s SoloCam S340 Solar Security Camera, some Birdfy smart bird house deals, and more. There’s also the hangover deals from across this week at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2026/10/29/ecoflows-halloween-flash-sale-delta-3-ultra-3072wh-power-station/">EcoFlow flash sale lineup</a> that ends tonight, <a href="https://9to5toys.com/2026/10/28/segway-mileage-club-member-sale-f3-electric-scooter/">Segway’s Mileage Club member deals</a>, and more. </p>
-        
-        
-        
-        <p class="wp-block-paragraph">Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="490318" href="https://electrek.co/2026/10/30/bluetti-288wh-elite-30-mini-power-station-aventon-abound-sr-lr-cargo-e-bikes-more/#more-490318" class="more-link">more…</a>]]>
-      </description>
-      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2026/10/Bluetti-Aventon-Greenworks-Anker-eufy-GDs-FI.jpg?quality=82&#38;strip=all&#38;w=1600)
-
-We’ve got two big first-time deals leading our end-of-the-week Green Deals edition, starting with Bluetti’s pre-order launch of the [Elite 30 Mini 288Wh Portable Power Station and bundles starting from an exclusive $237](https://9to5toys.com/2026/10/29/bluetti-288wh-elite-30-mini-power-station-exclusive-pre-order-launch/). Right behind that is [Aventon’s Early Bird Black Friday Access deals](https://9to5toys.com/2026/10/29/aventon-early-black-friday-abound-sr-lr-smart-cargo-e-bikes/), which have provided the first savings on its [Abound SR and Abound LR Cargo e-bikes starting from $1,899](https://9to5toys.com/2026/10/29/aventon-early-black-friday-abound-sr-lr-smart-cargo-e-bikes/), and others from $1,799. From there, we have an off-season deal for a new low on [Greenworks’ 40V 10-inch Cordless Tiller/Cultivator kit](https://9to5toys.com/2026/10/30/greenworks-40v-10-inch-cordless-tiller-cultivator-kit/), savings on Anker’s SoloCam S340 Solar Security Camera, some Birdfy smart bird house deals, and more. There’s also the hangover deals from across this week at the bottom of the page, like yesterday’s [EcoFlow flash sale lineup](https://9to5toys.com/2026/10/29/ecoflows-halloween-flash-sale-delta-3-ultra-3072wh-power-station/) that ends tonight, [Segway’s Mileage Club member deals](https://9to5toys.com/2026/10/28/segway-mileage-club-member-sale-f3-electric-scooter/), and more.
-
-Head below for other New Green Deals we’ve found today and, of course, [_Electrek_’s best EV buying](https://electrek.co/best-electric-vehicle-prices/) and [leasing deals](https://electrek.co/best-electric-vehicle-leases/). Also, check out the new [_Electrek_ Tesla Shop for the best deals on Tesla accessories](https://electrek.co/shop/).
-
- [more…](https://electrek.co/2026/10/30/bluetti-288wh-elite-30-mini-power-station-aventon-abound-sr-lr-cargo-e-bikes-more/#more-490318)</source:markdown>
-      <guid>cid://https://electrek.co/?p=490318</guid>
-      <category>News</category>
-      <pubDate>Fri, 30 Oct 2026 18:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Sacramento Kings and Aspen Vodka partnership puts custom cocktail on order during games</title>
-      <link>https://www.sacbee.com/food-drink/article317789538.html</link>
-      <description>
-        <![CDATA[Feel the buzz at Sacramento Kings games with this custom cocktail available to order inside Golden 1 Center.]]>
-      </description>
-      <source:markdown>Feel the buzz at Sacramento Kings games with this custom cocktail available to order inside Golden 1 Center.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/gwujbq/picture317840861/alternates/FREE_1140/AspenVodka_Espresso%20Martini_Landscape.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/food-drink/article317789538.html</guid>
-      <category>Sacramento Kings espresso martini</category>
-      <category>Golden 1 Center cocktail</category>
-      <category>Aspen Vodka partnership</category>
-      <category>game day drinks</category>
-      <pubDate>Fri, 30 Oct 2026 18:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Teen killed in Florida trooper chase. Deaths are up nearly 5x since policy change</title>
-      <link>https://www.sacbee.com/news/nation-world/national/article317852238.html</link>
-      <description>
-        <![CDATA[Almost one-third of those killed in Florida Highway Patrol pursuits were innocent parties not involved in the alleged crimes, a Miami Herald investigation found.]]>
-      </description>
-      <source:markdown>Almost one-third of those killed in Florida Highway Patrol pursuits were innocent parties not involved in the alleged crimes, a Miami Herald investigation found.</source:markdown>
-      <enclosure url="https://www.miamiherald.com/public/latest-news/xvri6c/picture317518557/alternates/FREE_1140/Neutral%20Minimalist%20Photo%20Collage%20Wraparound%20Mug.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/nation-world/national/article317852238.html</guid>
-      <category>Florida Highway Patrol</category>
-      <category>FHP</category>
-      <category>pursuit policy</category>
-      <category>chase</category>
-      <category>PIT maneuver</category>
-      <category>Pasco County</category>
-      <category>fatalities</category>
-      <category>deaths</category>
-      <pubDate>Fri, 30 Oct 2026 17:59:18 +0000</pubDate>
-    </item>    <item>
-      <title>Millions of coffee makers recalled for ‘serious’ burn risks. What to know in CA</title>
-      <link>https://www.sacbee.com/news/california/article317851180.html</link>
-      <description>
-        <![CDATA[Nearly 50 consumers have reported injuries, federal officials say.]]>
-      </description>
-      <source:markdown>Nearly 50 consumers have reported injuries, federal officials say.</source:markdown>
-      <enclosure url="https://www.mcclatchy-wires.com/public/incoming/6locbm/picture295514639/alternates/FREE_1140/b88f4f74-f874-4fb3-9b23-a8b694fd1f48" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/california/article317851180.html</guid>
-      <category>bodum recall</category>
-      <category>coffee maker recall</category>
-      <category>burn risk</category>
-      <category>french press coffee</category>
-      <category>california product recalls</category>
-      <pubDate>Fri, 30 Oct 2026 17:55:29 +0000</pubDate>
-    </item>    <item>
-      <title>Toyota reveals five new lifted Woodland concepts, including the bZ electric SUV</title>
-      <link>https://electrek.co/2026/10/30/toyota-reveals-five-new-lifted-woodland-concepts-including-an-ev/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2026/10/Toyota-Woodland-bZ-Concept.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p class="wp-block-paragraph"><a href="https://electrek.co/guides/toyota/">Toyota</a> introduced a new family of lifted, “adventure-ready” Woodland concepts based on the RAV4, Grand Highlander, Sienna, Crown Signia, and bZ electric SUV.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="toyota,toyota-bz4x" data-layer-viewtype="unknown" data-post-id="490347" href="https://electrek.co/2026/10/30/toyota-reveals-five-new-lifted-woodland-concepts-including-an-ev/#more-490347" class="more-link">more…</a>]]>
-      </description>
-      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2026/10/Toyota-Woodland-bZ-Concept.jpeg?quality=82&#38;strip=all&#38;w=1400)
-
-[Toyota](https://electrek.co/guides/toyota/) introduced a new family of lifted, “adventure-ready” Woodland concepts based on the RAV4, Grand Highlander, Sienna, Crown Signia, and bZ electric SUV.
-
- [more…](https://electrek.co/2026/10/30/toyota-reveals-five-new-lifted-woodland-concepts-including-an-ev/#more-490347)</source:markdown>
-      <guid>cid://https://electrek.co/?p=490347</guid>
-      <category>News</category>
-      <pubDate>Fri, 30 Oct 2026 17:49:36 +0000</pubDate>
-    </item>    <item>
-      <title>Sacramento councilmember ‘appalled’ by apparent ICE arrest in Pocket neighborhood</title>
-      <link>https://www.sacbee.com/news/local/article317849192.html</link>
-      <description>
-        <![CDATA[“No one should be subjected to such treatment,” Councilmember Rick Jennings said after a reported ICE arrest, amid an increase in ICE activity across the captial.]]>
-      </description>
-      <source:markdown>“No one should be subjected to such treatment,” Councilmember Rick Jennings said after a reported ICE arrest, amid an increase in ICE activity across the captial.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/6qs4to/picture317724086/alternates/FREE_1140/SAC_0409_RCB_20261020_ICEProtest.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/local/article317849192.html</guid>
-      <category>Sacramento ICE arrest</category>
-      <category>Greenhaven-Pocket</category>
-      <category>Rick Jennings</category>
-      <category>immigrant rights</category>
-      <category>NorCal Resist</category>
-      <pubDate>Fri, 30 Oct 2026 17:45:00 +0000</pubDate>
-    </item>    <item>
-      <title>More accurate MRI measurements can lead to better diagnoses and fewer unnecessary procedures</title>
-      <link>https://federalnewsnetwork.com/technology-main/2026/10/more-accurate-mri-measurements-can-lead-to-better-diagnoses-and-fewer-unnecessary-procedures/</link>
-      <description>
-        <![CDATA["Some of these systems are very mobile, so you can push them around on a cart. So we can think about different applications for MRI," said Kathryn Keenan.]]>
-      </description>
-      <source:markdown>&#34;Some of these systems are very mobile, so you can push them around on a cart. So we can think about different applications for MRI,&#34; said Kathryn Keenan.</source:markdown>
-      <guid>cid://https://federalnewsnetwork.com/?p=6096904</guid>
-      <category>All News</category>
-      <category>People</category>
-      <category>Technology</category>
-      <category>Terry Gerton</category>
-      <category>The Federal Drive</category>
-      <category>Workforce</category>
-      <category>Arthur S. Flemming Award</category>
-      <category>Kathryn Keenan</category>
-      <pubDate>Fri, 30 Oct 2026 17:43:54 +0000</pubDate>
-    </item>    <item>
-      <title>Fort Bragg contractor posted classified military photos on social media, feds say</title>
-      <link>https://www.sacbee.com/news/nation-world/national/article317851973.html</link>
-      <description>
-        <![CDATA[The Department of Justice says the contractor allegedly posted national defense information by misusing his Top Secret clearance]]>
-      </description>
-      <source:markdown>The Department of Justice says the contractor allegedly posted national defense information by misusing his Top Secret clearance</source:markdown>
-      <enclosure url="https://www.newsobserver.com/public/latest-news/ejaj5f/picture315085340/alternates/FREE_1140/Fort%20Bragg%20sign.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/nation-world/national/article317851973.html</guid>
-      <category>Fort Bragg contractor leak</category>
-      <category>Top Secret clearance abuse</category>
-      <category>James Thomas Ashbacher</category>
-      <category>national defense information</category>
-      <category>Spring Lake</category>
-      <pubDate>Fri, 30 Oct 2026 17:40:07 +0000</pubDate>
-    </item>    <item>
-      <title>Every cyber threat can’t be a top priority</title>
-      <link>https://federalnewsnetwork.com/cybersecurity/2026/10/every-cyber-threat-cant-be-a-top-priority/</link>
-      <description>
-        <![CDATA["When it comes to cyber operations, we want to use modeling and simulation to help our cyber operators cut through the Fog of Cyberwar," said Greg Touhill.]]>
-      </description>
-      <source:markdown>&#34;When it comes to cyber operations, we want to use modeling and simulation to help our cyber operators cut through the Fog of Cyberwar,&#34; said Greg Touhill.</source:markdown>
-      <guid>cid://https://federalnewsnetwork.com/?p=6096888</guid>
-      <category>All News</category>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Technology</category>
-      <category>Terry Gerton</category>
-      <category>The Federal Drive</category>
-      <category>Carnegie Mellon University Software Engineering Institute</category>
-      <category>Greg Touhill</category>
-      <pubDate>Fri, 30 Oct 2026 17:22:29 +0000</pubDate>
-    </item>    <item>
-      <title>Mississippi man serving 7 years for forgery gets 15 more for kidnapping ex-girlfriend</title>
-      <link>https://www.sacbee.com/news/nation-world/national/article317851696.html</link>
-      <description>
-        <![CDATA[According to the victim’s account to police, he choked her and punched her in the face and mouth, dislocating a front tooth.]]>
-      </description>
-      <source:markdown>According to the victim’s account to police, he choked her and punched her in the face and mouth, dislocating a front tooth.</source:markdown>
-      <enclosure url="https://www.sunherald.com/public/latest-news/xh0cuv/picture317752351/alternates/FREE_1140/Kenyon%20Demonel%20Ducksworth" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/nation-world/national/article317851696.html</guid>
-      <category>Gulfport crime</category>
-      <category>Kenyon Ducksworth</category>
-      <category>kidnapping sentence</category>
-      <category>Jones Park assault</category>
-      <category>Mississippi crime</category>
-      <category>W. Crosby Parker</category>
-      <category>Judge Lisa Dodson</category>
-      <category>aggravated assault</category>
-      <pubDate>Fri, 30 Oct 2026 17:21:07 +0000</pubDate>
-    </item>    <item>
-      <title>Sacramento ranked among best in US for Halloween. Here’s where it ranked and why</title>
-      <link>https://www.sacbee.com/entertainment/article317806756.html</link>
-      <description>
-        <![CDATA[Weather, safety, trick-or-treating spots, and more were assessed by the personal finance site WalletHub.]]>
-      </description>
-      <source:markdown>Weather, safety, trick-or-treating spots, and more were assessed by the personal finance site WalletHub.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/jlpdda/picture312701186/alternates/FREE_1140/SAC_0088_PK_20251027_HALLOWEEN.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/entertainment/article317806756.html</guid>
-      <category>Sacramento Halloween</category>
-      <category>WalletHub ranking</category>
-      <category>trick-or-treat spots</category>
-      <category>Halloween weather</category>
-      <category>costume stores</category>
-      <pubDate>Fri, 30 Oct 2026 17:15:00 +0000</pubDate>
-    </item>    <item>
-      <title>Ex-mayor admits stealing about $390K from California church where she did the books</title>
-      <link>https://www.sacbee.com/news/nation-world/national/article317850164.html</link>
-      <description>
-        <![CDATA[She was a signer on the church’s bank account, and for a time she was the only person with access to its digital financial records, prosecutors said.]]>
-      </description>
-      <source:markdown>She was a signer on the church’s bank account, and for a time she was the only person with access to its digital financial records, prosecutors said.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/mzrave/picture312403793/alternates/FREE_1140/img-25-10-06-116F8.jpg" length="0" type="image/png" />
-      <guid>cid://https://www.sacbee.com/news/nation-world/national/article317850164.html</guid>
-      <category>South Lake Tahoe embezzlement</category>
-      <category>Tamara Wallace guilty plea</category>
-      <category>church wire fraud</category>
-      <category>Lake Tahoe Community Presbyterian Church</category>
-      <category>embezzlement sentencing</category>
-      <pubDate>Fri, 30 Oct 2026 17:11:52 +0000</pubDate>
-    </item>    <item>
-      <title>Here are the 55 police calls a California city won’t respond to due to budget struggles</title>
-      <link>https://www.sacbee.com/news/local/article317836675.html</link>
-      <description>
-        <![CDATA[The city of Live Oak’s new contract with the Sutter County Sheriff’s Office takes effect at the start of December.]]>
-      </description>
-      <source:markdown>The city of Live Oak’s new contract with the Sutter County Sheriff’s Office takes effect at the start of December.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/cvfuxy/picture317805410/alternates/FREE_1140/img-26-10-27-ADCFF.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/local/article317836675.html</guid>
-      <category>Live Oak police cuts</category>
-      <category>Sutter County sheriff</category>
-      <category>deputy staffing</category>
-      <category>55 calls not responded</category>
-      <pubDate>Fri, 30 Oct 2026 17:07:03 +0000</pubDate>
-    </item>    <item>
-      <title>Chiefs-Bills game on Thanksgiving night will include a special halftime concert</title>
-      <link>https://www.sacbee.com/entertainment/article317850836.html</link>
-      <description>
-        <![CDATA[Fans at that Chiefs-Bills game also will receive a special giveaway, Buffalo announced Friday.]]>
-      </description>
-      <source:markdown>Fans at that Chiefs-Bills game also will receive a special giveaway, Buffalo announced Friday.</source:markdown>
-      <enclosure url="https://www.kansascity.com/public/latest-news/8hj17p/picture311819876/alternates/FREE_1140/The%20Goo%20Goo%20Dolls%20Starlight%208-22" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/entertainment/article317850836.html</guid>
-      <category>Goo Goo Dolls halftime</category>
-      <category>Bills vs Chiefs</category>
-      <category>Highmark Stadium concert</category>
-      <category>PixMob bracelets</category>
-      <category>Buffalo halftime show</category>
-      <pubDate>Fri, 30 Oct 2026 16:57:40 +0000</pubDate>
-    </item>    <item>
-      <title>Markets have rewarded retirement investors for several years, which can make risk hard to judge</title>
-      <link>https://federalnewsnetwork.com/tsp/2026/10/markets-have-rewarded-retirement-investors-for-several-years-which-can-make-risk-hard-to-judge/</link>
-      <description>
-        <![CDATA["What we see is the purchasing power of the G fund and the F fund decline over time," said Arthur Stein.]]>
-      </description>
-      <source:markdown>&#34;What we see is the purchasing power of the G fund and the F fund decline over time,&#34; said Arthur Stein.</source:markdown>
-      <guid>cid://https://federalnewsnetwork.com/?p=6096828</guid>
-      <category>All News</category>
-      <category>Pay</category>
-      <category>Pay &#38; Benefits</category>
-      <category>Retirement</category>
-      <category>Terry Gerton</category>
-      <category>The Federal Drive</category>
-      <category>TSP</category>
-      <category>Allworth Financial</category>
-      <category>Arthur Stein</category>
-      <pubDate>Fri, 30 Oct 2026 16:56:40 +0000</pubDate>
-    </item>    <item>
-      <title>Hyundai launches the new IONIQ 6 in the UK with up to 422 miles of range, starting at $45K</title>
-      <link>https://electrek.co/2026/10/30/hyundai-launches-new-ioniq-6-uk-with-422-miles-range/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2026/10/Hyundai-new-IONIQ-6-price-UK.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p class="wp-block-paragraph">The new <a href="https://electrek.co/guides/hyundai-ioniq-6/">Hyundai IONIQ 6</a> is now on sale in the UK with an impressive range of up to 422 miles, starting at about $45,000.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-6" data-layer-viewtype="unknown" data-post-id="490313" href="https://electrek.co/2026/10/30/hyundai-launches-new-ioniq-6-uk-with-422-miles-range/#more-490313" class="more-link">more…</a>]]>
-      </description>
-      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2026/10/Hyundai-new-IONIQ-6-price-UK.jpeg?quality=82&#38;strip=all&#38;w=1400)
-
-The new [Hyundai IONIQ 6](https://electrek.co/guides/hyundai-ioniq-6/) is now on sale in the UK with an impressive range of up to 422 miles, starting at about $45,000.
-
- [more…](https://electrek.co/2026/10/30/hyundai-launches-new-ioniq-6-uk-with-422-miles-range/#more-490313)</source:markdown>
-      <guid>cid://https://electrek.co/?p=490313</guid>
-      <category>News</category>
-      <pubDate>Fri, 30 Oct 2026 16:36:26 +0000</pubDate>
-    </item>    <item>
-      <title>KET CEO Shae Hopkins dies at 69</title>
-      <link>https://current.org/2026/10/ket-ceo-shae-hopkins-dies-at-69/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=ket-ceo-shae-hopkins-dies-at-69</link>
-      <description>
-        <![CDATA[<p>“Hopkins was admired and beloved by her coworkers, board members, volunteers, and colleagues throughout the public broadcasting system,” KET said in a news release.</p>
-        <p>The post <a href="https://current.org/2026/10/ket-ceo-shae-hopkins-dies-at-69/">KET CEO Shae Hopkins dies at 69</a> appeared first on <a href="https://current.org">Current</a>.</p>]]>
-      </description>
-      <source:markdown>“Hopkins was admired and beloved by her coworkers, board members, volunteers, and colleagues throughout the public broadcasting system,” KET said in a news release.
-
-The post [KET CEO Shae Hopkins dies at 69](https://current.org/2026/10/ket-ceo-shae-hopkins-dies-at-69/) appeared first on [Current](https://current.org).</source:markdown>
-      <guid>cid://https://current.org/?p=8011025</guid>
-      <category>People</category>
-      <category>Obituaries</category>
-      <pubDate>Fri, 30 Oct 2026 16:12:31 +0000</pubDate>
-    </item>    <item>
-      <title>After canceling rally, Trump reschedules Kansas visit amid close Senate race</title>
-      <link>https://www.sacbee.com/news/nation-world/national/article317849447.html</link>
-      <description>
-        <![CDATA[The rescheduled trip would mark Trump’s second visit to the state this month as Republicans try to rally support for U.S. Sen. Roger Marshall.]]>
-      </description>
-      <source:markdown>The rescheduled trip would mark Trump’s second visit to the state this month as Republicans try to rally support for U.S. Sen. Roger Marshall.</source:markdown>
-      <enclosure url="https://www.kansascity.com/public/latest-news/2i114x/picture317692452/alternates/FREE_1140/KCM_NZ9_2104.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/nation-world/national/article317849447.html</guid>
-      <category>Trump Kansas visit</category>
-      <category>Roger Marshall</category>
-      <category>Salina rally canceled</category>
-      <category>Kansas Senate race</category>
-      <category>Adam Hamilton</category>
-      <pubDate>Fri, 30 Oct 2026 15:52:09 +0000</pubDate>
-    </item>    <item>
-      <title>Kentucky officer lost his arm in traffic-stop altercation. It’s a federal case now, and trial begins Nov. 16</title>
-      <link>https://www.sacbee.com/news/nation-world/national/article317849844.html</link>
-      <description>
-        <![CDATA[The suspect has prior guilty pleas for assaulting a police officer and fleeing police, according to court records.]]>
-      </description>
-      <source:markdown>The suspect has prior guilty pleas for assaulting a police officer and fleeing police, according to court records.</source:markdown>
-      <enclosure url="https://www.kentucky.com/public/latest-news/9og27t/picture315418955/alternates/FREE_1140/Kevin%20Van%20Wert" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/nation-world/national/article317849844.html</guid>
-      <category>naqeeb mufallah</category>
-      <category>kevin van wert</category>
-      <category>lexington police</category>
-      <category>federal trial</category>
-      <pubDate>Fri, 30 Oct 2026 15:43:51 +0000</pubDate>
-    </item>    <item>
-      <title>7 teens opened fire on 4 homes in retaliation, police say. A 4-year-old North Carolina boy was killed</title>
-      <link>https://www.sacbee.com/news/nation-world/national/article317849695.html</link>
-      <description>
-        <![CDATA[Seven teens are now charged with murder, police say.]]>
-      </description>
-      <source:markdown>Seven teens are now charged with murder, police say.</source:markdown>
-      <enclosure url="https://www.charlotteobserver.com/public/latest-news/y72pna/picture317437508/alternates/FREE_1140/flax%20facebookk%20photo.png" length="0" type="image/png" />
-      <guid>cid://https://www.sacbee.com/news/nation-world/national/article317849695.html</guid>
-      <category>Caleb flax</category>
-      <category>suspects identified</category>
-      <category>charlotte police</category>
-      <category>teen gun violence</category>
-      <pubDate>Fri, 30 Oct 2026 15:29:56 +0000</pubDate>
-    </item>    <item>
-      <title>Pedestrian killed in south Sacramento hit-and-run after being struck by 2 vehicles</title>
-      <link>https://www.sacbee.com/news/local/crime/article317849538.html</link>
-      <description>
-        <![CDATA[The pedestrian was struck just after 12:30 a.m. on Florin Road and 55th Street, according to the California Highway Patrol.]]>
-      </description>
-      <source:markdown>The pedestrian was struck just after 12:30 a.m. on Florin Road and 55th Street, according to the California Highway Patrol.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/site-services/archives/jbm3l1/picture230578744/alternates/FREE_1140/SAC%20pedestrian%20train%20fatality%20vehicle%20vs%20person%20chyron%20still%20frame" length="0" type="image/png" />
-      <guid>cid://https://www.sacbee.com/news/local/crime/article317849538.html</guid>
-      <category>south Sacramento hit-and-run</category>
-      <category>Florin Road fatality</category>
-      <category>pedestrian struck</category>
-      <category>CHP investigation</category>
-      <category>55th Street</category>
-      <pubDate>Fri, 30 Oct 2026 15:16:32 +0000</pubDate>
-    </item>    <item>
-      <title>Volkswagen hits pause on the Golf EV as it faces an ‘urgent need for action’</title>
-      <link>https://electrek.co/2026/10/30/volkswagen-pauses-golf-ev-faces-urgent-need-for-action/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/Volkswagen-electric-ID-GTI-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p class="wp-block-paragraph"><a href="https://electrek.co/guides/volkswagen/">Volkswagen</a> has put the electric Golf on hold for now as it faces growing pressure to cut costs.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,vw" data-layer-viewtype="unknown" data-post-id="490303" href="https://electrek.co/2026/10/30/volkswagen-pauses-golf-ev-faces-urgent-need-for-action/#more-490303" class="more-link">more…</a>]]>
-      </description>
-      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2024/03/Volkswagen-electric-ID-GTI-2.jpeg?quality=82&#38;strip=all&#38;w=1400)
-
-[Volkswagen](https://electrek.co/guides/volkswagen/) has put the electric Golf on hold for now as it faces growing pressure to cut costs.
-
- [more…](https://electrek.co/2026/10/30/volkswagen-pauses-golf-ev-faces-urgent-need-for-action/#more-490303)</source:markdown>
-      <guid>cid://https://electrek.co/?p=490303</guid>
-      <category>News</category>
-      <pubDate>Fri, 30 Oct 2026 14:29:23 +0000</pubDate>
-    </item>    <item>
-      <title>Haunting the Big Easy</title>
-      <link>https://www.marketplace.org/episode/2026/10/30/haunting-the-big-easy</link>
-      <description>
-        <![CDATA[<p>Halloween is almost here, meaning plenty of people are on the hunt for a scare. And there is, in fact, an entire sector of the economy that revolves around providing spooks, frights, and horrors. For the latest installment of our <a href="https://www.marketplace.org/whats-that-like" class="default">"What's That Like?"</a> series, we hear from Kalila Smith, owner of Haunted History Tours in New Orleans, Louisiana. Listen ... if you dare. But first, we examine what it costs to employ someone these days.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe to our daily or weekly newsletter</a></em><em>.</em></p><br/><p><em>Marketplace Morning Report is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p><br/><p>Stories from this podcast:</p><br/><ul><li><a href="https://www.marketplace.org/story/2026/10/30/the-cost-of-employing-a-worker-rose-8-in-q3-whats-that-mean-for-inflation" class="default">This measure of labor costs can signal when inflation's on the way</a></li><li><a href="https://www.marketplace.org/story/2026/10/30/the-halloween-economy-a-new-orleans-ghost-tour-company" class="default">Tales from a ghost tour company in the Big Easy</a></li></ul>]]>
-      </description>
-      <source:markdown>Halloween is almost here, meaning plenty of people are on the hunt for a scare. And there is, in fact, an entire sector of the economy that revolves around providing spooks, frights, and horrors. For the latest installment of our [&#34;What&#39;s That Like?&#34;](https://www.marketplace.org/whats-that-like) series, we hear from Kalila Smith, owner of Haunted History Tours in New Orleans, Louisiana. Listen ... if you dare. But first, we examine what it costs to employ someone these days.
-
-_Every story has an economic angle. Want some in your inbox?_ _[Subscribe to our daily or weekly newsletter](https://www.marketplace.org/newsletters)_ _._
-
-_Marketplace Morning Report is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._
-
-Stories from this podcast:
-
-- [This measure of labor costs can signal when inflation&#39;s on the way](https://www.marketplace.org/story/2026/10/30/the-cost-of-employing-a-worker-rose-8-in-q3-whats-that-mean-for-inflation)
-- [Tales from a ghost tour company in the Big Easy](https://www.marketplace.org/story/2026/10/30/the-halloween-economy-a-new-orleans-ghost-tour-company)</source:markdown>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/VnCzW2iO9G8z4eDWfXCd/play.publicradio.org/podcast/o/marketplace/morning_report/2026/10/30/mmr_20261030_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&#38;awEpisodeId=01M66J4VZRAFD74SBSF4A83WEM" length="3107366" type="audio/mpeg" />
-      <guid>cid://01M66J4VZRAFD74SBSF4A83WEM</guid>
-      <pubDate>Fri, 30 Oct 2026 14:22:00 +0000</pubDate>
-    </item>    <item>
-      <title>How to Use ChatGPT&#39;s Try On Button to Preview Outfits on Your Body Before Buying</title>
-      <link>https://www.sacbee.com/entertainment/living/article317833320.html</link>
-      <description>
-        <![CDATA[ChatGPT's new try on button allows users to preview outfits on their body before making a purchase decision.]]>
-      </description>
-      <source:markdown>ChatGPT&#39;s new try on button allows users to preview outfits on their body before making a purchase decision.</source:markdown>
-      <enclosure url="https://www.coralspringsflnews.com/public/latest-news/fkt9ov/picture317838166/alternates/FREE_1140/GettyImages-1465218715.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/entertainment/living/article317833320.html</guid>
-      <category>virtual try-on</category>
-      <category>women&#39;s apparel retail</category>
-      <category>apparel retail news</category>
-      <pubDate>Fri, 30 Oct 2026 13:34:43 +0000</pubDate>
-    </item>    <item>
-      <title>Waymo picks Toyota bZ4X as its next robotaxi, starting in Japan in 2027</title>
-      <link>https://electrek.co/2026/10/30/waymo-toyota-bz4x-robotaxi-japan-2027/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2026/10/Waymo-Toyota-Bz4x.webp?w=1600" /></div><p class="wp-block-paragraph">Waymo is adding the Toyota bZ4X to its robotaxi lineup. Toyota will build a custom version of the electric SUV with the Waymo Driver integrated right on the line in Japan, and a test fleet will start operating there in 2027.</p>
-        
-        
-        
-        <p class="wp-block-paragraph">It’s the first actual vehicle to come out of the partnership the two companies signed last year. And it gives Waymo a Japanese-built car for its Tokyo launch, with the UK and other markets to follow.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="autonomous-driving,robotaxi,toyota,toyota-bz4x,waymo" data-layer-viewtype="unknown" data-post-id="490301" href="https://electrek.co/2026/10/30/waymo-toyota-bz4x-robotaxi-japan-2027/#more-490301" class="more-link">more…</a>]]>
-      </description>
-      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2026/10/Waymo-Toyota-Bz4x.webp?w=1600)
-
-Waymo is adding the Toyota bZ4X to its robotaxi lineup. Toyota will build a custom version of the electric SUV with the Waymo Driver integrated right on the line in Japan, and a test fleet will start operating there in 2027.
-
-It’s the first actual vehicle to come out of the partnership the two companies signed last year. And it gives Waymo a Japanese-built car for its Tokyo launch, with the UK and other markets to follow.
-
- [more…](https://electrek.co/2026/10/30/waymo-toyota-bz4x-robotaxi-japan-2027/#more-490301)</source:markdown>
-      <guid>cid://https://electrek.co/?p=490301</guid>
-      <category>News</category>
-      <category>japan</category>
-      <category>robotaxi</category>
-      <category>Self-driving</category>
-      <category>toyota</category>
-      <category>Waymo</category>
-      <pubDate>Fri, 30 Oct 2026 13:22:30 +0000</pubDate>
-    </item>    <item>
-      <title>Carolyn Bailey Lewis, ground-breaking station leader and educator, dies at 78</title>
-      <link>https://current.org/2026/10/carolyn-bailey-lewis-ground-breaking-station-leader-and-educator-dies-at-78/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=carolyn-bailey-lewis-ground-breaking-station-leader-and-educator-dies-at-78</link>
-      <description>
-        <![CDATA[<p>“She brought an unwavering passion for public media, along with a wealth of knowledge and experience,” said Steve Skidmore, interim GM at WOUB in Athens, Ohio.</p>
-        <p>The post <a href="https://current.org/2026/10/carolyn-bailey-lewis-ground-breaking-station-leader-and-educator-dies-at-78/">Carolyn Bailey Lewis, ground-breaking station leader and educator, dies at 78</a> appeared first on <a href="https://current.org">Current</a>.</p>]]>
-      </description>
-      <source:markdown>“She brought an unwavering passion for public media, along with a wealth of knowledge and experience,” said Steve Skidmore, interim GM at WOUB in Athens, Ohio.
-
-The post [Carolyn Bailey Lewis, ground-breaking station leader and educator, dies at 78](https://current.org/2026/10/carolyn-bailey-lewis-ground-breaking-station-leader-and-educator-dies-at-78/) appeared first on [Current](https://current.org).</source:markdown>
-      <guid>cid://https://current.org/?p=8011002</guid>
-      <category>People</category>
-      <category>Obituaries</category>
-      <pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>California trick-or-treaters may see Halloween showers. Here’s when and where</title>
-      <link>https://www.sacbee.com/news/weather-news/article317839114.html</link>
-      <description>
-        <![CDATA[Scattered showers are expected to fall during prime trick-or-treating hours in places across the state. Here’s what to expect.]]>
-      </description>
-      <source:markdown>Scattered showers are expected to fall during prime trick-or-treating hours in places across the state. Here’s what to expect.</source:markdown>
-      <enclosure url="https://www.mercedsunstar.com/public/latest-news/nbseuf/picture267793197/alternates/FREE_1140/MER_AKMercedHalloweenHouse4" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/weather-news/article317839114.html</guid>
-      <category>Sacramento forecast</category>
-      <category>Halloween rain forecast</category>
-      <category>Sacramento weather</category>
-      <category>trick-or-treating</category>
-      <category>Fresno</category>
-      <category>Merced</category>
-      <category>showers</category>
-      <category>Central Valley</category>
-      <category>Sierra snow advisory</category>
-      <pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Cockroaches and rodent droppings were found at this Land Park seafood restaurant</title>
-      <link>https://www.sacbee.com/food-drink/restaurants/article317833037.html</link>
-      <description>
-        <![CDATA[Sacramento County Health Inspectors gave red placards to three eateries and then cited 15 others for health food violations.]]>
-      </description>
-      <source:markdown>Sacramento County Health Inspectors gave red placards to three eateries and then cited 15 others for health food violations.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/site-services/archives/22ed9q/picture237422799/alternates/FREE_1140/Restaurant%20inspection%20closure%20health%20safety%20still%20chyron%20frame" length="0" type="image/png" />
-      <guid>cid://https://www.sacbee.com/food-drink/restaurants/article317833037.html</guid>
-      <category>Sacramento County health inspections</category>
-      <category>restaurant red placard</category>
-      <category>Arden Arcade rodent droppings</category>
-      <category>Land Park German cockroaches</category>
-      <category>food safety violations</category>
-      <pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Folsom’s water treatment tanks leaked for months. City approves $918K to replace them</title>
-      <link>https://www.sacbee.com/news/local/article317837879.html</link>
-      <description>
-        <![CDATA[The tanks exceeded their 15-year lifespan. Could Folsom have acted sooner?]]>
-      </description>
-      <source:markdown>The tanks exceeded their 15-year lifespan. Could Folsom have acted sooner?</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/z8e5mp/picture317840906/alternates/FREE_1140/img-26-10-29-9C2A3.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/local/article317837879.html</guid>
-      <category>Folsom tank leak</category>
-      <category>sodium hypochlorite leak</category>
-      <category>Folsom City Council</category>
-      <category>caustic soda system</category>
-      <pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Dine with the dearly departed at these Sacramento Día de los Muertos dinners</title>
-      <link>https://www.sacbee.com/food-drink/restaurants/article317806602.html</link>
-      <description>
-        <![CDATA[From cocktail mixers to prix-fixe dinners, Sacramento has multiple options to celebrate and commemorate Día de los Muertos]]>
-      </description>
-      <source:markdown>From cocktail mixers to prix-fixe dinners, Sacramento has multiple options to celebrate and commemorate Día de los Muertos</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/c6u7wx/picture317819593/alternates/FREE_1140/Mimosa-House-Dia-de-los-Muertos.png" length="0" type="image/png" />
-      <guid>cid://https://www.sacbee.com/food-drink/restaurants/article317806602.html</guid>
-      <category>Día de los Muertos Sacramento</category>
-      <category>Sacramento Día de los Muertos dinners</category>
-      <category>Mimosa House Granite Bay</category>
-      <category>Zocalo Cena de las Animas</category>
-      <category>Casa Lola mariachi</category>
-      <pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Wheel-e Podcast: New Amflow, Trek e-bikes, ALSO runs out of charge, more</title>
-      <link>https://electrek.co/2026/10/30/wheel-e-podcast-new-amflow-trek-e-bikes-also-runs-out-of-charge-more/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p class="wp-block-paragraph">This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes new e-bikes from Amflow and Trek, a new motor from Bosch, an interesting look at what a low charge does to an ALSO TM-B e-bike, a new electric motorcycle with gears, Jasion’s not pokey eMinibike, LiveWire in potential trouble, and more.</p>
-        
-        
-        
-        <figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2026/10/Wheele_128.mp3"></audio></figure>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="490270" href="https://electrek.co/2026/10/30/wheel-e-podcast-new-amflow-trek-e-bikes-also-runs-out-of-charge-more/#more-490270" class="more-link">more…</a>]]>
-      </description>
-      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#38;strip=all&#38;w=1600)
-
-This week on _Electrek_’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes new e-bikes from Amflow and Trek, a new motor from Bosch, an interesting look at what a low charge does to an ALSO TM-B e-bike, a new electric motorcycle with gears, Jasion’s not pokey eMinibike, LiveWire in potential trouble, and more.
-
- [more…](https://electrek.co/2026/10/30/wheel-e-podcast-new-amflow-trek-e-bikes-also-runs-out-of-charge-more/#more-490270)</source:markdown>
-      <guid>cid://https://electrek.co/?p=490270</guid>
-      <category>News</category>
-      <pubDate>Fri, 30 Oct 2026 12:51:48 +0000</pubDate>
-    </item>    <item>
-      <title>Jasion Poki review: The Electric Minibike that packs heavy-duty fun</title>
-      <link>https://electrek.co/2026/10/30/jasion-poki-review-the-electric-minibike-that-packs-heavy-duty-fun/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2026/10/image_a598cf.png?w=964" /></div><p class="wp-block-paragraph">In our transportation reporting, we rarely come across something as fun as today’s review of the <a href="https://jasionbike.sjv.io/n4xNg9">Jasion Poki.</a></p>
-        
-        
-        
-        <p class="wp-block-paragraph">The Poki is a severely overpowered electric minibike that looks like it came from yesteryear. If the power isn’t enough, it also packs some cool tricks, and we’re not (just) talking about wheelies this time. </p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="489874" href="https://electrek.co/2026/10/30/jasion-poki-review-the-electric-minibike-that-packs-heavy-duty-fun/#more-489874" class="more-link">more…</a>]]>
-      </description>
-      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2026/10/image_a598cf.png?w=964)
-
-In our transportation reporting, we rarely come across something as fun as today’s review of the [Jasion Poki.](https://jasionbike.sjv.io/n4xNg9)
-
-The Poki is a severely overpowered electric minibike that looks like it came from yesteryear. If the power isn’t enough, it also packs some cool tricks, and we’re not (just) talking about wheelies this time.
-
-[more…](https://electrek.co/2026/10/30/jasion-poki-review-the-electric-minibike-that-packs-heavy-duty-fun/#more-489874)</source:markdown>
-      <guid>cid://https://electrek.co/?p=489874</guid>
-      <category>News</category>
-      <pubDate>Fri, 30 Oct 2026 12:42:10 +0000</pubDate>
-    </item>    <item>
-      <title>Paramilitary Forces, Concentration Camps, and the Midterms: Timothy Snyder on Fighting Fascism</title>
-      <link>https://www.latinousa.org/2026/10/30/paramilitary-forces-concentration-camps-and-the-midterms-timothy-snyder-on-fighting-fascism/</link>
-      <description>
-        <![CDATA[<p>We are days away from what many consider a very consequential US midterm election in terms of whether the country...</p>
-        <p>The post <a href="https://www.latinousa.org/2026/10/30/paramilitary-forces-concentration-camps-and-the-midterms-timothy-snyder-on-fighting-fascism/">Paramilitary Forces, Concentration Camps, and the Midterms: Timothy Snyder on Fighting Fascism</a> appeared first on <a href="https://www.latinousa.org">Latino USA</a>.</p>]]>
-      </description>
-      <source:markdown>We are days away from what many consider a very consequential US midterm election in terms of whether the country...
-
-The post [Paramilitary Forces, Concentration Camps, and the Midterms: Timothy Snyder on Fighting Fascism](https://www.latinousa.org/2026/10/30/paramilitary-forces-concentration-camps-and-the-midterms-timothy-snyder-on-fighting-fascism/) appeared first on [Latino USA](https://www.latinousa.org).</source:markdown>
-      <guid>cid://https://www.latinousa.org/?p=54197</guid>
-      <category>Democracy</category>
-      <category>Election 2026</category>
-      <category>Immigration</category>
-      <category>Podcasts</category>
-      <category>Politics</category>
-      <category>Voting</category>
-      <category>Women&#39;s Issues</category>
-      <category>Election polls</category>
-      <category>elections</category>
-      <category>fight fascism</category>
-      <category>Midterms</category>
-      <category>voting</category>
-      <category>Voting Rights</category>
-      <pubDate>Fri, 30 Oct 2026 12:39:29 +0000</pubDate>
-    </item>    <item>
-      <title>Dolores Huerta: Labor Rights Leader, Dancing Queen and Humble Diva</title>
-      <link>https://www.latinousa.org/2026/10/30/dolores-huerta-labor-rights-leader-dancing-queen-and-humble-diva/</link>
-      <description>
-        <![CDATA[<p>Dolores Huerta has died at age 96. She was a powerful leader who shaped the labor rights movement and stayed...</p>
-        <p>The post <a href="https://www.latinousa.org/2026/10/30/dolores-huerta-labor-rights-leader-dancing-queen-and-humble-diva/">Dolores Huerta: Labor Rights Leader, Dancing Queen and Humble Diva</a> appeared first on <a href="https://www.latinousa.org">Latino USA</a>.</p>]]>
-      </description>
-      <source:markdown>Dolores Huerta has died at age 96. She was a powerful leader who shaped the labor rights movement and stayed...
-
-The post [Dolores Huerta: Labor Rights Leader, Dancing Queen and Humble Diva](https://www.latinousa.org/2026/10/30/dolores-huerta-labor-rights-leader-dancing-queen-and-humble-diva/) appeared first on [Latino USA](https://www.latinousa.org).</source:markdown>
-      <guid>cid://https://www.latinousa.org/?p=54193</guid>
-      <category>Democracy</category>
-      <category>Podcasts</category>
-      <category>Politics</category>
-      <category>Portrait Of</category>
-      <category>Profiles</category>
-      <category>Women&#39;s Issues</category>
-      <category>activists</category>
-      <category>Dolores Huerta</category>
-      <category>Huerta documentary</category>
-      <category>Latino icons</category>
-      <category>Sí se puede!</category>
-      <category>United Farm Workers history</category>
-      <pubDate>Fri, 30 Oct 2026 12:29:09 +0000</pubDate>
-    </item>    <item>
-      <title>As diesel prices spike, some in California agriculture urge Newsom to follow Trump</title>
-      <link>https://www.sacbee.com/news/california/article317787738.html</link>
-      <description>
-        <![CDATA[California farmers, ranchers and their advocates are debating the value of red-dyed diesel as they seek state relief for surging fuel costs.]]>
-      </description>
-      <source:markdown>California farmers, ranchers and their advocates are debating the value of red-dyed diesel as they seek state relief for surging fuel costs.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/9k2xvv/picture317463321/alternates/FREE_1140/SAC_0183_RCB_20260929_CharleyMathews.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/california/article317787738.html</guid>
-      <category>dyed diesel</category>
-      <category>California agriculture</category>
-      <category>diesel relief</category>
-      <category>Gavin Newsom</category>
-      <category>fuel taxes</category>
-      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Jane Kim’s insurance plan is ‘bold.’ Experts weigh in on if it could work</title>
-      <link>https://www.sacbee.com/news/politics-government/capitol-alert/article317773608.html</link>
-      <description>
-        <![CDATA[Jane Kim is running to shake up the status quo as it relates to wildfire risk.]]>
-      </description>
-      <source:markdown>Jane Kim is running to shake up the status quo as it relates to wildfire risk.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/3ptjvv/picture317059198/alternates/FREE_1140/CampFire_HA_181108_0020.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/politics-government/capitol-alert/article317773608.html</guid>
-      <category>California election</category>
-      <category>insurance commissioner candidates</category>
-      <category>Jane Kim</category>
-      <category>California wildfire insurance</category>
-      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>It’s tarantula season in California. Here’s what to do if you spot a huge spider</title>
-      <link>https://www.sacbee.com/news/california/article317799005.html</link>
-      <description>
-        <![CDATA[The giant hairy arachnids emerge from their burrows in the fall and are on the hunt for mates.]]>
-      </description>
-      <source:markdown>The giant hairy arachnids emerge from their burrows in the fall and are on the hunt for mates.</source:markdown>
-      <enclosure url="https://www.myrtlebeachonline.com/public/latest-news/kddbom/picture292792149/alternates/FREE_1140/MYB_0919littlespider02" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/california/article317799005.html</guid>
-      <category>california tarantulas</category>
-      <category>tarantula mating season</category>
-      <category>tarantula safety</category>
-      <category>spider bite treatment</category>
-      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>The link between immigration raids and the housing shortage</title>
-      <link>https://www.marketplace.org/episode/2026/10/30/the-link-between-immigration-raids-and-the-housing-shortage</link>
-      <description>
-        <![CDATA[<p>Homebuilders constructed 19,000 fewer homes in 2024 because of the lack of skilled labor, according to a construction industry estimate from last year. A big factor in the labor shortage is the federal government's immigration crackdown, which has led to the arrest of many construction workers, often at job sites. This morning, we hear from some families and businesses impacted. Also: weighing jobs and tax revenue versus pollution concerns near proposed data centers.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe to our daily or weekly newsletter</a></em><em>.</em></p><br/><p><em>Marketplace Morning Report is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p><br/><p>Read the stories from this episode: </p><br/><ul><li><a href="https://www.marketplace.org/story/2026/10/29/ice-targets-texas-construction-workers-homebuilders" class="default">Deportations are disrupting Texas construction jobs and family finances</a></li><li><a href="https://www.marketplace.org/story/2026/10/29/rural-alabama-braces-for-impact-of-new-data-center" class="default">Wary of data center health impacts, some rural Alabamians are fighting back</a></li></ul>]]>
-      </description>
-      <source:markdown>Homebuilders constructed 19,000 fewer homes in 2024 because of the lack of skilled labor, according to a construction industry estimate from last year. A big factor in the labor shortage is the federal government&#39;s immigration crackdown, which has led to the arrest of many construction workers, often at job sites. This morning, we hear from some families and businesses impacted. Also: weighing jobs and tax revenue versus pollution concerns near proposed data centers.
-
-_Every story has an economic angle. Want some in your inbox?_ _[Subscribe to our daily or weekly newsletter](https://www.marketplace.org/newsletters)_ _._
-
-_Marketplace Morning Report is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._
-
-Read the stories from this episode:
-
-- [Deportations are disrupting Texas construction jobs and family finances](https://www.marketplace.org/story/2026/10/29/ice-targets-texas-construction-workers-homebuilders)
-- [Wary of data center health impacts, some rural Alabamians are fighting back](https://www.marketplace.org/story/2026/10/29/rural-alabama-braces-for-impact-of-new-data-center)</source:markdown>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/VnCzW2iO9G8z4eDWfXCd/play.publicradio.org/podcast/o/marketplace/morning_report/2026/10/30/mmr_20261030_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&#38;awEpisodeId=01M66ABASWHMMBSGGQ73N9PY67" length="3130353" type="audio/mpeg" />
-      <guid>cid://01M66ABASWHMMBSGGQ73N9PY67</guid>
-      <pubDate>Fri, 30 Oct 2026 11:50:00 +0000</pubDate>
-    </item>    <item>
-      <title>5 jail officers charged with arranging fight between 2 inmates in North Carolina</title>
-      <link>https://www.sacbee.com/news/nation-world/national/article317844151.html</link>
-      <description>
-        <![CDATA[Here’s what we know so far about the allegations.]]>
-      </description>
-      <source:markdown>Here’s what we know so far about the allegations.</source:markdown>
-      <enclosure url="https://www.newsobserver.com/public/latest-news/g35zho/picture317836699/alternates/FREE_1140/vance.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/nation-world/national/article317844151.html</guid>
-      <category>vance county detention center</category>
-      <category>vance county jail</category>
-      <category>vance county detention officers</category>
-      <category>vance county inmate fight</category>
-      <pubDate>Fri, 30 Oct 2026 11:46:00 +0000</pubDate>
-    </item>    <item>
-      <title>2 men took juveniles target shooting, then shot at them, Washington court documents say</title>
-      <link>https://www.sacbee.com/news/nation-world/national/article317844095.html</link>
-      <description>
-        <![CDATA[One juvenile grew nervous on the way to a target-shooting spot, court docs say. Two men now face attempted murder charges.]]>
-      </description>
-      <source:markdown>One juvenile grew nervous on the way to a target-shooting spot, court docs say. Two men now face attempted murder charges.</source:markdown>
-      <enclosure url="https://www.tri-cityherald.com/public/latest-news/cpp60n/picture317837728/alternates/FREE_1140/Grappler.png" length="0" type="image/png" />
-      <guid>cid://https://www.sacbee.com/news/nation-world/national/article317844095.html</guid>
-      <category>Benton County shooting</category>
-      <category>attempted murder arrests</category>
-      <category>Yakima County arrest</category>
-      <category>Tri-Cities grappler</category>
-      <category>juvenile victims</category>
-      <pubDate>Fri, 30 Oct 2026 11:33:00 +0000</pubDate>
-    </item>    <item>
-      <title>Experts to lawmakers: Limits on utility liability may ‘seriously threaten’ CA insurance</title>
-      <link>https://www.sacbee.com/news/politics-government/capitol-alert/article317836355.html</link>
-      <description>
-        <![CDATA[“We’re in a very shaky, shaky place right now.”]]>
-      </description>
-      <source:markdown>“We’re in a very shaky, shaky place right now.”</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/nrh912/picture314241577/alternates/FREE_1140/EATON-FIRE-004.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/politics-government/capitol-alert/article317836355.html</guid>
-      <category>California wildfire liability</category>
-      <category>subrogation</category>
-      <category>homeowner insurance market</category>
-      <category>utility-caused fires</category>
-      <category>insurance commissioner</category>
-      <pubDate>Fri, 30 Oct 2026 11:30:00 +0000</pubDate>
-    </item>    <item>
-      <title>California police department fired 6 officers and suspended 52 this year, auditor’s report shows</title>
-      <link>https://www.sacbee.com/news/california/article317844288.html</link>
-      <description>
-        <![CDATA[The report also covers a fatal police shooting of a dog on New Year’s Day.]]>
-      </description>
-      <source:markdown>The report also covers a fatal police shooting of a dog on New Year’s Day.</source:markdown>
-      <enclosure url="https://www.fresnobee.com/public/latest-news/g51vm7/picture317822865/alternates/FREE_1140/Pitbull%20biting%20OIS_fitted.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/california/article317844288.html</guid>
-      <category>Fresno police misconduct</category>
-      <category>officer-involved shootings</category>
-      <category>pit bull shooting</category>
-      <category>independent auditor report</category>
-      <category>police terminations</category>
-      <pubDate>Fri, 30 Oct 2026 11:14:00 +0000</pubDate>
-    </item>    <item>
-      <title>More coastal flooding is coming to California. Here are 3 more king tide dates</title>
-      <link>https://www.sacbee.com/news/nation-world/national/article317844224.html</link>
-      <description>
-        <![CDATA[Coastal flood warnings are up from San Diego to the Bay Area. Here’s why California’s highest tides of the year are running higher than expected.]]>
-      </description>
-      <source:markdown>Coastal flood warnings are up from San Diego to the Bay Area. Here’s why California’s highest tides of the year are running higher than expected.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/2fe261/picture317804896/alternates/FREE_1140/2301513076-GI.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/nation-world/national/article317844224.html</guid>
-      <category>California king tides</category>
-      <category>kelvin waves</category>
-      <category>coastal flooding</category>
-      <category>El Niño</category>
-      <pubDate>Fri, 30 Oct 2026 11:09:00 +0000</pubDate>
-    </item>    <item>
-      <title>The two most interesting risks to Anthropic</title>
-      <link>https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic</link>
-      <description>
-        <![CDATA[Anthropic gave a 94-page list of risk factors in its S-1 this week. Two of them stood out.]]>
-      </description>
-      <source:markdown>Anthropic gave a 94-page list of risk factors in its S-1 this week. Two of them stood out.</source:markdown>
-      <guid>cid://https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic</guid>
-      <pubDate>Fri, 30 Oct 2026 11:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Why artificial intelligence can’t replace your  financial planner</title>
-      <link>https://www.sdstandardnow.com/home/why-artificial-intelligence-cant-replace-your-financial-planner</link>
-      <description>
-        <![CDATA[<p class="">What is a financial planner worth when anyone can get a plan from ChatGPT? A student asked this question during a recent video call with the Wealth Management Society at Brigham Young University–Idaho. Here is my answer.<br><br>AI can already read financial documents, run a tax analysis, and estimate how long retirement savings may last. It is getting good at supplying answers that can help build a sound technical plan. I expect more people to arrive at a planner’s office having done much of that work themselves, so the conversation can start at a higher level.<br><br>Yet the logical answers AI gives are of limited value in making money decisions, which are seldom made on logic alone. Stanford marketing professor Baba Shiv has suggested that <a href="https://us.list-manage.com/iiD817U_0PS?e=f6092c9c7b&amp;c2id=bb5d24e9334e337e2f8dc8f2d6061031" target="_blank"><span>90 to 95 percent of our decisions are shaped by emotion</span></a> without our being aware of it. If money decisions were logical, nobody would overspend, everyone would live within a budget, and every worker would be saving for retirement.<br><br>People who are stuck on a money decision usually do not need another answer. They need someone to listen long enough for them to reach their own answer. In my early years as a financial planner, I was the advice and answer man. I couldn’t see why anyone would turn down my logical and correct advice. I learned, painfully, to shut up until it was time to give advice, and then to ask permission first.<br><br>For example, a client in my financial therapy practice came in for a recent session stuck on a decision between three options I will call A, B, and C. Almost immediately, I thought B was the answer. Instead of saying so, I got curious and asked questions, and we spent the whole hour looking at what each option meant to her. At the end she said, “I think the answer is B for me.”<br><br>I could have given her that answer right away, which is what a chatbot might have done. In my experience, though, people are far more likely to act on an answer they reach themselves than on one someone hands them.<br><br>My intent is not to discourage anyone from using AI with their money. I use it to manage my calendar and email and to analyze my financial documents, and I’m often amazed at what it finds.<br><br>Here are my suggestions for using AI with your finances:</p><ul data-rte-list="default"><li><p class="">If you are researching a financial decision, use AI as a research tool. I do this before medical appointments. I arrive better informed, and my doctor and I can have a more useful conversation. However, I am not naive enough to act on what AI tells me without first consulting a medical professional.</p></li><li><p class="">If you are about to make a large or hard-to-reverse decision, such as rolling over a 401(k) or deciding how much you can safely spend in retirement, have a professional look at your situation first. AI offers <a href="https://us.list-manage.com/23fEBrwY6P9?e=f6092c9c7b&amp;c2id=bb5d24e9334e337e2f8dc8f2d6061031" target="_blank"><span>confident, specific answers that carry no accountability</span></a>, and it can be right most of the time and still be wrong on a detail that is costly to miss.</p></li><li><p class="">If you already know what you should do and are not doing it, an AI answer is unlikely to help. Look for a planner or financial therapist who listens and asks questions first, and who asks permission before giving advice.</p></li></ul><p class="">AI is an evolving tool, not a magic source of instant answers. I strongly recommend that you let AI help do the research. Then bring that research to a professional advisor who will help you find solutions and strategies that are the best fit for you.</p><p class=""><em>Rick&nbsp;Kahler, CFP®, CFT™, is a pioneer in financial therapy and a 2026 inductee into the Financial Therapy Hall of Fame. He is the founder of The Financial Therapy Podcast and Kahler Financial Group, and co-author of “Coupleship Inc.” and “The Financial Wisdom of Ebenezer Scrooge.</em><br><br><em>The information provided is for educational purposes only and should not be construed as investment advice. The views expressed are subject to change based on market or economic conditions. Past performance is not indicative of future results. Any reference to potential benefits is illustrative and may not apply to your individual circumstances. You should consult with your financial adviser before making any investment decisions. KFG, LLC is an SEC-registered Investment Adviser.&nbsp;</em></p><p class=""><em>Photo: public domain, </em><a href="https://commons.wikimedia.org/wiki/File:Dall-e_3_(jan_%2724)_artificial_intelligence_icon.png"><em>wikimedia commons</em></a></p><p class=""><strong><em>The South Dakota Standard is offered freely and is supported by our readers. We have no political or commercial sponsorship. If you'd like to help us continue our mission to advance independent political and social commentary, you can do so by clicking on the "Donate" button that's on the sidebar to your right.</em></strong><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em></p><p data-rte-preserve-empty="true" class=""></p><p class=""><br></p>]]>
-      </description>
-      <source:markdown>What is a financial planner worth when anyone can get a plan from ChatGPT? A student asked this question during a recent video call with the Wealth Management Society at Brigham Young University–Idaho. Here is my answer.
-
-AI can already read financial documents, run a tax analysis, and estimate how long retirement savings may last. It is getting good at supplying answers that can help build a sound technical plan. I expect more people to arrive at a planner’s office having done much of that work themselves, so the conversation can start at a higher level.
-
-Yet the logical answers AI gives are of limited value in making money decisions, which are seldom made on logic alone. Stanford marketing professor Baba Shiv has suggested that [90 to 95 percent of our decisions are shaped by emotion](https://us.list-manage.com/iiD817U_0PS?e=f6092c9c7b&#38;c2id=bb5d24e9334e337e2f8dc8f2d6061031) without our being aware of it. If money decisions were logical, nobody would overspend, everyone would live within a budget, and every worker would be saving for retirement.
-
-People who are stuck on a money decision usually do not need another answer. They need someone to listen long enough for them to reach their own answer. In my early years as a financial planner, I was the advice and answer man. I couldn’t see why anyone would turn down my logical and correct advice. I learned, painfully, to shut up until it was time to give advice, and then to ask permission first.
-
-For example, a client in my financial therapy practice came in for a recent session stuck on a decision between three options I will call A, B, and C. Almost immediately, I thought B was the answer. Instead of saying so, I got curious and asked questions, and we spent the whole hour looking at what each option meant to her. At the end she said, “I think the answer is B for me.”
-
-I could have given her that answer right away, which is what a chatbot might have done. In my experience, though, people are far more likely to act on an answer they reach themselves than on one someone hands them.
-
-My intent is not to discourage anyone from using AI with their money. I use it to manage my calendar and email and to analyze my financial documents, and I’m often amazed at what it finds.
-
-Here are my suggestions for using AI with your finances:
-
-- If you are researching a financial decision, use AI as a research tool. I do this before medical appointments. I arrive better informed, and my doctor and I can have a more useful conversation. However, I am not naive enough to act on what AI tells me without first consulting a medical professional.
-
-- If you are about to make a large or hard-to-reverse decision, such as rolling over a 401(k) or deciding how much you can safely spend in retirement, have a professional look at your situation first. AI offers [confident, specific answers that carry no accountability](https://us.list-manage.com/23fEBrwY6P9?e=f6092c9c7b&#38;c2id=bb5d24e9334e337e2f8dc8f2d6061031), and it can be right most of the time and still be wrong on a detail that is costly to miss.
-
-- If you already know what you should do and are not doing it, an AI answer is unlikely to help. Look for a planner or financial therapist who listens and asks questions first, and who asks permission before giving advice.
-
-
-AI is an evolving tool, not a magic source of instant answers. I strongly recommend that you let AI help do the research. Then bring that research to a professional advisor who will help you find solutions and strategies that are the best fit for you.
-
-_Rick Kahler, CFP®, CFT™, is a pioneer in financial therapy and a 2026 inductee into the Financial Therapy Hall of Fame. He is the founder of The Financial Therapy Podcast and Kahler Financial Group, and co-author of “Coupleship Inc.” and “The Financial Wisdom of Ebenezer Scrooge._
-
-_The information provided is for educational purposes only and should not be construed as investment advice. The views expressed are subject to change based on market or economic conditions. Past performance is not indicative of future results. Any reference to potential benefits is illustrative and may not apply to your individual circumstances. You should consult with your financial adviser before making any investment decisions. KFG, LLC is an SEC-registered Investment Adviser._
-
-_Photo: public domain,_ [_wikimedia commons_](https://commons.wikimedia.org/wiki/File:Dall-e_3_(jan_%2724)_artificial_intelligence_icon.png)
-
-**_The South Dakota Standard is offered freely and is supported by our readers. We have no political or commercial sponsorship. If you&#39;d like to help us continue our mission to advance independent political and social commentary, you can do so by clicking on the &#34;Donate&#34; button that&#39;s on the sidebar to your right._**</source:markdown>
-      <guid>cid://5dcb39e8d00cd20932d24a25:5dcb3ba223a88b2b3c1f18b2:6ae376484fcf607d1513d073</guid>
-      <pubDate>Fri, 30 Oct 2026 10:50:07 +0000</pubDate>
-    </item>    <item>
-      <title>Political pressure could complicate Anthropic&#39;s IPO</title>
-      <link>https://www.marketplace.org/episode/2026/10/30/political-pressure-could-complicate-anthropics-ipo</link>
-      <description>
-        <![CDATA[<p>Anthropic formally filed to go public this week and about a third of its paperwork is dedicated to potential risks — including political ones. We'll get into it on today's “Tech Bytes: Week in Review.” </p><br/><p>Plus, it’s a big week for big tech earnings: Microsoft pleased investors with a more restrained approach to AI spending, but still announced it’s offering buyouts to 60,000 employees. Meanwhile, Google’s parent company Alphabet took a plunge on Wall Street.</p><br/><p>Here to help us unpack this week’s tech news is Maria Curi, tech policy reporter at Axios.</p><br/><p><em>Check out </em><em><a href="https://www.youtube.com/playlist?list=PLyqnPeyY0m3VT2P16OF-oyD5GYGUEYGQr" class="default">our YouTube page</a></em><em> to watch more episodes of “Tech Bytes.”</em></p><br/><p><em>More on this:</em></p><br/><p><a href="https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html" class="default">Anthropic warns investors of AI’s ‘existential risk to humanity’ in IPO prospectus, reports say</a> — from CNBC</p><br/><p><a href="https://www.businessinsider.com/microsoft-is-offering-buyouts-read-the-memo-2026-10" class="Hyperlink SCXW125525230 BCX8">Microsoft is offering buyouts to around 60,000 employees. Read the memo</a> — from Business Insider </p><br/><p><a href="https://www.reuters.com/legal/transactional/meta-launches-35-billion-stock-offering-fund-ai-expansion-2026-10-26/" class="Hyperlink SCXW125525230 BCX8">Meta eyes record $97.5 billion equity raise to fund AI expansion</a> — from Reuters </p><br/><p><a href="https://www.axios.com/2026/10/26/ftc-ai-safety-probe-anthropic-openai" class="Hyperlink SCXW91551206 BCX8">Scoop: FTC demands Anthropic execs testify in probe</a> — from Axios </p>]]>
-      </description>
-      <source:markdown>Anthropic formally filed to go public this week and about a third of its paperwork is dedicated to potential risks — including political ones. We&#39;ll get into it on today&#39;s “Tech Bytes: Week in Review.”
-
-Plus, it’s a big week for big tech earnings: Microsoft pleased investors with a more restrained approach to AI spending, but still announced it’s offering buyouts to 60,000 employees. Meanwhile, Google’s parent company Alphabet took a plunge on Wall Street.
-
-Here to help us unpack this week’s tech news is Maria Curi, tech policy reporter at Axios.
-
-_Check out_ _[our YouTube page](https://www.youtube.com/playlist?list=PLyqnPeyY0m3VT2P16OF-oyD5GYGUEYGQr)_ _to watch more episodes of “Tech Bytes.”_
-
-_More on this:_
-
-[Anthropic warns investors of AI’s ‘existential risk to humanity’ in IPO prospectus, reports say](https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html) — from CNBC
-
-[Microsoft is offering buyouts to around 60,000 employees. Read the memo](https://www.businessinsider.com/microsoft-is-offering-buyouts-read-the-memo-2026-10) — from Business Insider
-
-[Meta eyes record $97.5 billion equity raise to fund AI expansion](https://www.reuters.com/legal/transactional/meta-launches-35-billion-stock-offering-fund-ai-expansion-2026-10-26/) — from Reuters
-
-[Scoop: FTC demands Anthropic execs testify in probe](https://www.axios.com/2026/10/26/ftc-ai-safety-probe-anthropic-openai) — from Axios</source:markdown>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/VnCzW2iO9G8z4eDWfXCd/play.publicradio.org/podcast/o/marketplace/tech_report/2026/10/30/tech_20261030_1030_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&#38;awEpisodeId=01M64NV5YD330PDSER5SFZ6DVR" length="12729802" type="audio/mpeg" />
-      <guid>cid://01M64NV5YD330PDSER5SFZ6DVR</guid>
-      <pubDate>Fri, 30 Oct 2026 10:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Harley-Davidson’s electric motorcycle brand LiveWire warns it may not survive</title>
-      <link>https://electrek.co/2026/10/30/harley-davidsons-electric-motorcycle-brand-livewire-warns-it-may-not-survive/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/livewire-header-image.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p class="wp-block-paragraph">Harley-Davidson-born electric motorcycle maker <a href="https://livewire.com">LiveWire</a> has issued a troubling warning about its financial future, announcing that it has substantial doubt about its ability to continue operating as a going concern. The news sent LiveWire’s stock plunging more than 40% on Thursday morning as the company withdrew its full-year financial guidance.</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle,livewire" data-layer-viewtype="unknown" data-post-id="490254" href="https://electrek.co/2026/10/30/harley-davidsons-electric-motorcycle-brand-livewire-warns-it-may-not-survive/#more-490254" class="more-link">more…</a>]]>
-      </description>
-      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2024/08/livewire-header-image.jpg?quality=82&#38;strip=all&#38;w=1600)
-
-Harley-Davidson-born electric motorcycle maker [LiveWire](https://livewire.com) has issued a troubling warning about its financial future, announcing that it has substantial doubt about its ability to continue operating as a going concern. The news sent LiveWire’s stock plunging more than 40% on Thursday morning as the company withdrew its full-year financial guidance.
-
- [more…](https://electrek.co/2026/10/30/harley-davidsons-electric-motorcycle-brand-livewire-warns-it-may-not-survive/#more-490254)</source:markdown>
-      <guid>cid://https://electrek.co/?p=490254</guid>
-      <category>News</category>
-      <pubDate>Fri, 30 Oct 2026 08:10:00 +0000</pubDate>
-    </item>    <item>
-      <title>Someone ran Rivian’s pedal-by-wire e-bike out of battery and things got weird</title>
-      <link>https://electrek.co/2026/10/29/someone-ran-rivians-pedal-by-wire-e-bike-out-of-battery-and-things-got-weird/</link>
-      <description>
-        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2026/10/also-ebike-low-battery-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p class="wp-block-paragraph">The ALSO TM-B is one of the most technologically interesting new e-bikes to hit the road in years, largely because it does away with one of the most fundamental parts of a bicycle: the mechanical connection between the pedals and rear wheel. With only copper wires connecting the pedals to the rear wheel, the TM-B is one of the most revolutionary new e-bikes in years.</p>
-        
-        
-        
-        <p class="wp-block-paragraph">But that raises an obvious question. What happens when the battery dies?</p>
-        
-        
-        
-         <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="490217" href="https://electrek.co/2026/10/29/someone-ran-rivians-pedal-by-wire-e-bike-out-of-battery-and-things-got-weird/#more-490217" class="more-link">more…</a>]]>
-      </description>
-      <source:markdown>![](https://electrek.co/wp-content/uploads/sites/3/2026/10/also-ebike-low-battery-head.jpg?quality=82&#38;strip=all&#38;w=1600)
-
-The ALSO TM-B is one of the most technologically interesting new e-bikes to hit the road in years, largely because it does away with one of the most fundamental parts of a bicycle: the mechanical connection between the pedals and rear wheel. With only copper wires connecting the pedals to the rear wheel, the TM-B is one of the most revolutionary new e-bikes in years.
-
-But that raises an obvious question. What happens when the battery dies?
-
- [more…](https://electrek.co/2026/10/29/someone-ran-rivians-pedal-by-wire-e-bike-out-of-battery-and-things-got-weird/#more-490217)</source:markdown>
-      <guid>cid://https://electrek.co/?p=490217</guid>
-      <category>News</category>
-      <pubDate>Fri, 30 Oct 2026 06:51:21 +0000</pubDate>
-    </item>    <item>
-      <title>Man convicted of rape, kidnapping in 2024 attack at Sutter’s Fort in Sacramento</title>
-      <link>https://www.sacbee.com/news/local/crime/article317842578.html</link>
-      <description>
-        <![CDATA[The defendant kidnapped the victim and drove her to Sutter’s Fort in Sacramento, prosecutors said.]]>
-      </description>
-      <source:markdown>The defendant kidnapped the victim and drove her to Sutter’s Fort in Sacramento, prosecutors said.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/site-services/archives/dgjuwv/picture268894592/alternates/FREE_1140/in%20the%20courts%20gavel%20chyron%20still%20grab%20frame%20placeholder" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/local/crime/article317842578.html</guid>
-      <category>Sacramento rape conviction</category>
-      <category>K Street assault</category>
-      <category>Sutter&#39;s Fort attack</category>
-      <category>kidnapping conviction</category>
-      <category>2024 Sacramento crime</category>
-      <pubDate>Fri, 30 Oct 2026 01:41:13 +0000</pubDate>
-    </item>    <item>
-      <title>CHP issues endangered missing advisory for Vallejo woman, 36, in Sacramento region</title>
-      <link>https://www.sacbee.com/news/local/article317842599.html</link>
-      <description>
-        <![CDATA[Serena Walling, 36, was last seen in Vallejo nearly two weeks ago. The CHP issued an endangered missing advisory across five Northern California counties.]]>
-      </description>
-      <source:markdown>Serena Walling, 36, was last seen in Vallejo nearly two weeks ago. The CHP issued an endangered missing advisory across five Northern California counties.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/frrrwf/picture317842632/alternates/FREE_1140/img-26-10-29-42C43.jpg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/local/article317842599.html</guid>
-      <category>Serena Walling</category>
-      <category>Vallejo missing person</category>
-      <category>endangered missing advisory</category>
-      <category>California Highway Patrol</category>
-      <category>Sacramento region</category>
-      <pubDate>Fri, 30 Oct 2026 01:30:05 +0000</pubDate>
-    </item>    <item>
-      <title>Bird flu detected in two Sacramento County backyard flocks, health officials say</title>
-      <link>https://www.sacbee.com/news/local/article317841791.html</link>
-      <description>
-        <![CDATA[Highly pathogenic avian influenza was confirmed in two different backyard poultry flocks earlier this month, Sacramento County health officials said.]]>
-      </description>
-      <source:markdown>Highly pathogenic avian influenza was confirmed in two different backyard poultry flocks earlier this month, Sacramento County health officials said.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/uqmutz/picture317842109/alternates/FREE_1140/2200511639-GI.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/local/article317841791.html</guid>
-      <category>bird flu</category>
-      <category>Sacramento County</category>
-      <category>backyard poultry</category>
-      <category>avian influenza</category>
-      <category>poultry biosecurity</category>
-      <pubDate>Fri, 30 Oct 2026 00:46:26 +0000</pubDate>
-    </item>    <item>
-      <title>Billionaires flood $50M in past week to try to sink Prop. 40, California’s wealth tax</title>
-      <link>https://www.sacbee.com/news/politics-government/capitol-alert/article317789377.html</link>
-      <description>
-        <![CDATA[“The billionaires are going to win this battle, but this war is just starting.”]]>
-      </description>
-      <source:markdown>“The billionaires are going to win this battle, but this war is just starting.”</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/d7ltyn/picture317135301/alternates/FREE_1140/SAC_0053_RCB_20260828_Prop40.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/politics-government/capitol-alert/article317789377.html</guid>
-      <category>Prop. 40</category>
-      <category>wealth tax</category>
-      <category>Building a Better California</category>
-      <category>California ballot measure</category>
-      <category>billionaire spending</category>
-      <pubDate>Fri, 30 Oct 2026 00:29:43 +0000</pubDate>
-    </item>    <item>
-      <title>Matsui is ‘definitely concerned’ about Vang, analysts say. Could she lose the seat?</title>
-      <link>https://www.sacbee.com/news/politics-government/capitol-alert/article317841392.html</link>
-      <description>
-        <![CDATA[“I don’t know if they understood the seriousness of what was happening around the country,” said one political strategist.]]>
-      </description>
-      <source:markdown>“I don’t know if they understood the seriousness of what was happening around the country,” said one political strategist.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/tymjml/picture317841815/alternates/FREE_1140/SAC_684_262708_JV_Matsui-Vang_Forum.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/politics-government/capitol-alert/article317841392.html</guid>
-      <category>Doris Matsui</category>
-      <category>Mai Vang</category>
-      <category>Sacramento 7th District</category>
-      <category>congressional race</category>
-      <category>generational change</category>
-      <pubDate>Fri, 30 Oct 2026 00:25:10 +0000</pubDate>
-    </item>    <item>
-      <title>US Justice Department subpoenaed LA election officials last week. More may follow</title>
-      <link>https://www.sacbee.com/news/politics-government/capitol-alert/article317840425.html</link>
-      <description>
-        <![CDATA[Two LA County employees summoned to a grand jury the morning after the midterm election. Bloomberg Law reported more subpoenas are coming.]]>
-      </description>
-      <source:markdown>Two LA County employees summoned to a grand jury the morning after the midterm election. Bloomberg Law reported more subpoenas are coming.</source:markdown>
-      <enclosure url="https://www.sacbee.com/public/latest-news/rkkw7p/picture317841558/alternates/FREE_1140/2254848259-GI.JPG" length="0" type="image/jpeg" />
-      <guid>cid://https://www.sacbee.com/news/politics-government/capitol-alert/article317840425.html</guid>
-      <category>federal election probes</category>
-      <category>ballot reviews</category>
-      <category>Judge David Carter</category>
-      <category>Los Angeles County</category>
-      <category>midterm elections</category>
-      <pubDate>Fri, 30 Oct 2026 00:03:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
