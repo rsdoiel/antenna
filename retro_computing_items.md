@@ -1,24 +1,36 @@
 ---
 title: "Retro"
 description: "Computer history and vintage systems."
-pubDate: Fri, 20 Nov 2026 19:41:42 GMT
+pubDate: Sat, 21 Nov 2026 19:14:34 GMT
 aggregateOf: "retro_computing.md"
-dateModified: Sat, 21 Nov 2026 14:47:07 GMT
+dateModified: Sun, 22 Nov 2026 14:48:37 GMT
 itemCount: 50
 generator: antenna/0.1.1
 ---
 
 # Retro
 
+## [mTCP NetCD](https://sourceforge.net/p/freedos/news/2026/11/mtcp-netcd/)
+
+via FreeDOS News · 2026-11-21
+
+NetCD is a DOS device driver that simulates a CD-ROM or a DVD-ROM. This makes it possible to install software from CD-ROM on a machine that doesn't have a CD-ROM, by using the network. Mike Brutman writes: "Although I think the code is solid, I'd like to get some more varied testing on it. I've packaged up a test release - the details and download links can be found at [NetCD website](http://www.brutman.com/mTCP/NetCD)." Please have a look and test if you can. Mike will incorporate feedback and figure out the next steps.
+
+## [b.log 2026/11/21 - Not working, TeaBASIC v0.03, A Time War doesn't make sense.](https://heyrick.eu/blog/entry/20261121)
+
+via Richard Murray's blog · 2026-11-21
+
+Not working, TeaBASIC v0.03, A Time War doesn't make sense.
+
 ## [b.log 2026/11/20 - A bigger better Arduino.](https://heyrick.eu/blog/entry/20261120)
 
-via Richard Murray's blog · 2026-11-20
+via Richard Murray's blog · 2026-11-20, updated 2026-11-21
 
 A bigger better Arduino.
 
 ## [Diablo II](https://www.filfre.net/2026/11/diablo-ii/)
 
-via Digital Antiquarian · 2026-11-20, updated 2026-11-21
+via Digital Antiquarian · 2026-11-20, updated 2026-11-22
 
 This article tells part of the story of the Diablo series.  \[Diablo II\] is a progression with a character where you go and defeat enemies and get rewarded. There’s overriding goals as well as lots of sub-goals. There’s many things to do, yet it’s very simple. It’s very straightforward. There’s no, “What am I supposed \[…\]
 
@@ -30,7 +42,7 @@ I have been using TASM32 for a very long time. A simple DOS based assembler, cal
 
 ## [b.log 2026/11/19 - I am SO done with this shit. \[NSFW\]](https://heyrick.eu/blog/entry/20261119)
 
-via Richard Murray's blog · 2026-11-19, updated 2026-11-20
+via Richard Murray's blog · 2026-11-19, updated 2026-11-21
 
 I am SO done with this shit. \[NSFW\]
 
@@ -42,13 +54,13 @@ This is my story about a first and a second version of KB-9 or, as it is officia
 
 ## [System76 Announces the New Thelio Prime Desktop](http://www.linux-magazine.com/Online/News/System76-Announces-the-New-Thelio-Prime-Desktop)
 
-via Linux Magazine · 2026-11-19, updated 2026-11-21
+via Linux Magazine · 2026-11-19, updated 2026-11-22
 
 The makers of the Thelio desktop line and Pop!\_OS have released a powerful small form factor PC.
 
 ## [A Must See KDE Documentary](http://www.linux-magazine.com/Online/News/A-Must-See-KDE-Documentary)
 
-via Linux Magazine · 2026-11-18, updated 2026-11-21
+via Linux Magazine · 2026-11-18, updated 2026-11-22
 
 It doesn't matter what desktop environment you prefer, this KDE documentary should top your list of things to watch.
 
@@ -66,7 +78,7 @@ Rougols's November talk (appropriately enough for 42 people) was a double bill f
 
 ## [b.log 2026/11/16 - TeaBASIC v0.02](https://heyrick.eu/blog/entry/20261116)
 
-via Richard Murray's blog · 2026-11-16, updated 2026-11-20
+via Richard Murray's blog · 2026-11-16, updated 2026-11-21
 
 TeaBASIC v0.02
 
@@ -78,7 +90,7 @@ I acquired a VIDEO PLUS card. A video card for AIM 65 KIM or SYM-1. This is one 
 
 ## [b.log 2026/11/15 - TeaBASIC and NTCs, The Frenchest thing ever, Storage prices, Interlude, I bought a sewing machine!](https://heyrick.eu/blog/entry/20261115)
 
-via Richard Murray's blog · 2026-11-15, updated 2026-11-20
+via Richard Murray's blog · 2026-11-15, updated 2026-11-21
 
 TeaBASIC and NTCs, The Frenchest thing ever, Storage prices, Interlude, I bought a sewing machine!
 
@@ -96,13 +108,13 @@ The RISC OS London Show took place only a few weeks ago, and the big news that c
 
 ## [b.log 2026/11/13 - AI can be useful.](https://heyrick.eu/blog/entry/20261113)
 
-via Richard Murray's blog · 2026-11-13, updated 2026-11-20
+via Richard Murray's blog · 2026-11-13, updated 2026-11-21
 
 AI can be useful.
 
 ## [This Week on The Analog Antiquarian](https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/)
 
-via Digital Antiquarian · 2026-11-13, updated 2026-11-21
+via Digital Antiquarian · 2026-11-13, updated 2026-11-22
 
 Opus 7: Titus Andronicus
 
@@ -114,13 +126,13 @@ The November 2026 Rougol meeting is on Monday.
 
 ## [b.log 2026/11/12 - Jitters.](https://heyrick.eu/blog/entry/20261112)
 
-via Richard Murray's blog · 2026-11-12, updated 2026-11-20
+via Richard Murray's blog · 2026-11-12, updated 2026-11-21
 
 Jitters.
 
 ## [New KORA Linux Distro to Harness the Power of Local AI](http://www.linux-magazine.com/Online/News/New-KORA-Linux-Distro-to-Harness-the-Power-of-Local-AI)
 
-via Linux Magazine · 2026-11-12, updated 2026-11-21
+via Linux Magazine · 2026-11-12, updated 2026-11-22
 
 The development team behind CyanogenMod, Android, and Playtron unveils KORA, a Linux distribution built specifically for AI nerds.
 
@@ -150,25 +162,25 @@ If you were inspired by the recent London Show (or looking to catch-up on what y
 
 ## [Epic Games Targets Linux for New Launcher](http://www.linux-magazine.com/Online/News/Epic-Games-Targets-Linux-for-New-Launcher)
 
-via Linux Magazine · 2026-11-11, updated 2026-11-21
+via Linux Magazine · 2026-11-11, updated 2026-11-22
 
 The Epic Games new launcher is still in preview, but it looks to land on several Linux distributions.
 
 ## [b.log 2026/11/11 - Stupid, What is this?, gcd.bas fails on actual BASIC, TeaBASIC progresses.](https://heyrick.eu/blog/entry/20261111)
 
-via Richard Murray's blog · 2026-11-11, updated 2026-11-20
+via Richard Murray's blog · 2026-11-11, updated 2026-11-21
 
 Stupid, What is this?, gcd.bas fails on actual BASIC, TeaBASIC progresses.
 
 ## [Jemm v5.87](https://sourceforge.net/p/freedos/news/2026/11/jemm-v587/)
 
-via FreeDOS News · 2026-11-11
+via FreeDOS News · 2026-11-11, updated 2026-11-21
 
 Jemm is an "Expanded Memory Manager" (EMM), based on the source of FreeDOS EMM386. Jemm is split into two versions: Jemm386 is the standard version which also needs an external extended memory manager like HIMEM to be loaded, and JemmEx is the extended version that already has an extended memory manager in it. Japheth recently released a new version of Jemm with several fixes, such as + fixed regression in v5.86: exceptions in PL0 were displayed incorrectly + AHCICD: driver now supports long reads in "raw mode" + Int 15h, ah=87h: returns error 02 instead of 80h if limit out of range. See the [Jemm 5.87 release](https://github.com/Baron-von-Riedesel/Jemm/releases/tag/v5.87) page for the full list of changes, and to download the latest version. We've also mirrored this version in the FreeDOS Files Archive at Ibiblio, under [/dos/emm386/jemm](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/dos/emm386/jemm/5.87/)
 
 ## [JWasm 2.21](https://sourceforge.net/p/freedos/news/2026/11/jwasm-221/)
 
-via FreeDOS News · 2026-11-11
+via FreeDOS News · 2026-11-11, updated 2026-11-21
 
 JWasm is a MASM-compatible assembler that runs under DOS and other operating systems. Japheth has released a new version of JWasm with a bunch of fixes and changes, including: + macro arguments: curly braces now handled Masm-compatible + operator MOD returned wrong results for negative operands + model TINY, predefined symbol `@code`: changed from `_TEXT` to `DGROUP` \+ fixed GPF in jwasm: assembling MOV instruction with destination of type prototype, but without pointer type definition. Check out the full change log and download the latest version on the [JWasm 2.21 release](https://github.com/Baron-von-Riedesel/JWasm/releases/tag/v2.21) page. We've also mirrored this version in the FreeDOS Files Archive at Ibiblio, under [/devel/asm/jwasm](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/devel/asm/jwasm/2.21/)
 
@@ -405,7 +417,7 @@ How a childhood memory, a forgotten online service, and two years of reverse eng
 
 ## [b.log 2026/11/08 - Dreary, Initial Public Offering.](https://heyrick.eu/blog/entry/20261108)
 
-via Richard Murray's blog · 2026-11-08, updated 2026-11-20
+via Richard Murray's blog · 2026-11-08, updated 2026-11-21
 
 Dreary, Initial Public Offering.
 
@@ -429,19 +441,19 @@ Here are some of the things that I spotted which happened in the RISC OS Open so
 
 ## [b.log 2026/11/07 - Linguine, TeaBASIC, Texas, One last tweak.](https://heyrick.eu/blog/entry/20261107)
 
-via Richard Murray's blog · 2026-11-07, updated 2026-11-20
+via Richard Murray's blog · 2026-11-07, updated 2026-11-21
 
 Linguine, TeaBASIC, Texas, One last tweak.
 
 ## [Deus Ex](https://www.filfre.net/2026/11/deus-ex/)
 
-via Digital Antiquarian · 2026-11-06, updated 2026-11-21
+via Digital Antiquarian · 2026-11-06, updated 2026-11-22
 
 This article tells part of the story of Warren Spector. A slight shift of focus, and the future could still turn out like Deus Ex after all… — Deus Ex lead writer Sheldon Pacotti, speaking in 2014 The reviews that greeted Ion Storm’s Deus Ex upon its release in June of 2000 ranged along a continuum \[…\]
 
 ## [Fedora 45 Now Available](http://www.linux-magazine.com/Online/News/Fedora-45-Now-Available)
 
-via Linux Magazine · 2026-11-05, updated 2026-11-21
+via Linux Magazine · 2026-11-05, updated 2026-11-22
 
 The latest iteration of Fedora has arrived with Gnome 51 and KDE Plasma 6.8.
 
@@ -453,13 +465,13 @@ WROCC's November speaker was Chris Hughes looking at package managers for RISC O
 
 ## [b.log 2026/11/04 - Close, but no cigar, BabyBASIC.](https://heyrick.eu/blog/entry/20261104)
 
-via Richard Murray's blog · 2026-11-04, updated 2026-11-20
+via Richard Murray's blog · 2026-11-04, updated 2026-11-21
 
 Close, but no cigar, BabyBASIC.
 
 ## [Linux 7.4 is "Much Healthier" Thanks to AI](http://www.linux-magazine.com/Online/News/Linux-7.4-is-Much-Healthier-Thanks-to-AI)
 
-via Linux Magazine · 2026-11-03, updated 2026-11-21
+via Linux Magazine · 2026-11-03, updated 2026-11-22
 
 At nearly 42 million lines, Linux 7.4 is the largest merge in the kernel’s history.
 
@@ -483,7 +495,7 @@ The November 2026 WROCC talk is on Wednesday 4th November and starts at 7.45pm o
 
 ## [b.log 2026/11/01 - Gets me to the Church on time (Church on time), TinyBASIC.](https://heyrick.eu/blog/entry/20261101)
 
-via Richard Murray's blog · 2026-11-01, updated 2026-11-20
+via Richard Murray's blog · 2026-11-01, updated 2026-11-21
 
 Gets me to the Church on time (Church on time), TinyBASIC.
 
@@ -492,16 +504,4 @@ Gets me to the Church on time (Church on time), TinyBASIC.
 via RiscOS Story · 2026-11-01, updated 2026-11-14
 
 October has passed, and November is here – so what’s happening in the world of RISC OS meetings and events this month? Wakefield RISC OS Computer Club (WROCC) meeting – 4th November, 7:45pm WROCC usually meets up online, using Zoom, on the first Wednesday of each month, and the next meeting will feature the group’s own Chris Hughes taking a look at the two main centralised software distribution systems on RISC OS – the use of PackMan (and the RISC OS packaging system), and PlingStore (aka !Store). Bristol RISC OS…
-
-## [b.log 2026/10/31 - Work today, Everything must have AI, Ghosts, Pumpkin.](https://heyrick.eu/blog/entry/20261031)
-
-via Richard Murray's blog · 2026-10-31, updated 2026-11-20
-
-Work today, Everything must have AI, Ghosts, Pumpkin.
-
-## [RISC OS Open source developments weekly update (31st October 2026)](http://www.iconbar.com/comments/rss/news2419.html)
-
-via Icon Bar, RISC OS News · 2026-10-31, updated 2026-10-30
-
-Here are some of the things that I spotted which happened in the RISC OS Open source world this week...
 

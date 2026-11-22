@@ -5,7 +5,7 @@
     <title><![CDATA[Columns]]></title>
     <description><![CDATA[Blogs, columns and snapshots from around the web.]]></description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>21 Nov 26 06:45 -0800</lastBuildDate>
+    <lastBuildDate>22 Nov 26 06:46 -0800</lastBuildDate>
     <generator>antenna/0.1.1</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -36,6 +36,780 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Something About Him</title>
+      <link>https://dbarkhuff.substack.com/p/something-about-him</link>
+      <description>
+        <![CDATA[Trump has always been a racist]]>
+      </description>
+      <source:markdown>Trump has always been a racist</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!XcVG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77805645-399e-4d07-adc7-df3bba2da22b_1140x778.png" length="0" type="image/jpeg" />
+      <guid>cid://https://dbarkhuff.substack.com/p/something-about-him</guid>
+      <pubDate>Sun, 22 Nov 2026 13:14:15 +0000</pubDate>
+    </item>    <item>
+      <title>“Kind and Generous”</title>
+      <link>https://steady.substack.com/p/kind-and-generous-376</link>
+      <description>
+        <![CDATA[A Reason To Smile]]>
+      </description>
+      <source:markdown>A Reason To Smile</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!li3j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f857803-0cd2-483c-bd1c-3519ca86e439_5760x3840.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/kind-and-generous-376</guid>
+      <pubDate>Sun, 22 Nov 2026 13:03:58 +0000</pubDate>
+    </item>    <item>
+      <title>A New Agenda for Healthcare Reform, Part I</title>
+      <link>https://paulkrugman.substack.com/p/a-new-agenda-for-healthcare-reform</link>
+      <description>
+        <![CDATA[The Policy and Politics of A New Democratic Consensus on Healthcare]]>
+      </description>
+      <source:markdown>The Policy and Politics of A New Democratic Consensus on Healthcare</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!yL3c!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ca3f383-c7ca-4880-acd0-08fb78defbbe_2506x1414.png" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/a-new-agenda-for-healthcare-reform</guid>
+      <pubDate>Sun, 22 Nov 2026 11:44:37 +0000</pubDate>
+    </item>    <item>
+      <title>This theory explains why so many 2024 Trump voters defected in 2026</title>
+      <link>https://www.gelliottmorris.com/p/2026-11-22-sunday-roundup</link>
+      <description>
+        <![CDATA[Plus, our initial look at the 2028 presidential primaries (yes, it&#8217;s early). Your weekly political data roundup for November 22, 2026.]]>
+      </description>
+      <source:markdown>Plus, our initial look at the 2028 presidential primaries (yes, it’s early). Your weekly political data roundup for November 22, 2026.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!zuHk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8256332-5262-4beb-9e1a-41a30b8b05b2_2250x1650.png" length="0" type="image/jpeg" />
+      <guid>cid://https://www.gelliottmorris.com/p/2026-11-22-sunday-roundup</guid>
+      <pubDate>Sun, 22 Nov 2026 11:26:02 +0000</pubDate>
+    </item>    <item>
+      <title>Sunday thought: Defund the Oligarchs</title>
+      <link>https://robertreich.substack.com/p/sunday-thought-defund-the-oligarchs</link>
+      <description>
+        <![CDATA[Friends,]]>
+      </description>
+      <source:markdown>Friends,</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!50zn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1a61218-6cd7-4a74-b674-fc2759bc7eea_1042x663.png" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-thought-defund-the-oligarchs</guid>
+      <pubDate>Sun, 22 Nov 2026 09:02:48 +0000</pubDate>
+    </item>    <item>
+      <title>Writers I used to read</title>
+      <link>https://tracydurnell.com/2026/11/21/writers-i-used-to-read/</link>
+      <description>
+        <![CDATA[Sometimes when I encounter a writer I used to read regularly but don&#8217;t anymore, it seems like I&#8217;ve advanced in my thinking while they&#8217;re stuck in the same place. I don&#8217;t recall that being my conscious reason for quitting reading someone &#8212; usually I unfollow because I notice myself skipping their posts in my reader [&#8230;]]]>
+      </description>
+      <source:markdown>Sometimes when I encounter a writer I used to read regularly but don’t anymore, it seems like I’ve advanced in my thinking while they’re stuck in the same place. I don’t recall that being my conscious reason for quitting reading someone — usually I unfollow because I notice myself skipping their posts in my reader \[…\]</source:markdown>
+      <guid>cid://https://tracydurnell.com/?p=43789</guid>
+      <category>Learning</category>
+      <category>Reflection</category>
+      <category>Relationships</category>
+      <category>blogging</category>
+      <category>challenge</category>
+      <category>change</category>
+      <category>influence</category>
+      <category>intake</category>
+      <category>personal growth</category>
+      <category>reading</category>
+      <category>taste</category>
+      <category>thinking</category>
+      <pubDate>Sun, 22 Nov 2026 07:58:13 +0000</pubDate>
+    </item>    <item>
+      <title>Capitalism resurrected</title>
+      <link>https://tracydurnell.com/2026/11/21/capitalism-resurrected/</link>
+      <description>
+        <![CDATA[Making it easy to not think by Gerry McGovern Making it easy to not think &#8220;The big bucks are in devouring our environment. There is a direct relationship between the amount of energy, water, and materials that are devoured and wasted, and the amount of fast cash that can be made. AI is a perfect [&#8230;]]]>
+      </description>
+      <source:markdown>Making it easy to not think by Gerry McGovern Making it easy to not think “The big bucks are in devouring our environment. There is a direct relationship between the amount of energy, water, and materials that are devoured and wasted, and the amount of fast cash that can be made. AI is a perfect \[…\]</source:markdown>
+      <guid>cid://https://tracydurnell.com/?p=43709</guid>
+      <category>Environment</category>
+      <category>Society</category>
+      <category>Technology</category>
+      <category>AI</category>
+      <category>capitalism</category>
+      <category>consumption</category>
+      <category>exploitation</category>
+      <category>externalities</category>
+      <category>free market</category>
+      <category>natural resources</category>
+      <category>sustainability</category>
+      <pubDate>Sun, 22 Nov 2026 05:43:44 +0000</pubDate>
+    </item>    <item>
+      <title>Give Thanks for Joyce Vance!</title>
+      <link>https://www.borowitzreport.com/p/give-thanks-for-joyce-vance</link>
+      <description>
+        <![CDATA[The Andy Borowitz Show]]>
+      </description>
+      <source:markdown>The Andy Borowitz Show</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/225850648/fa4a9e7cce404af1fa612c24978b8ab1.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://www.borowitzreport.com/p/give-thanks-for-joyce-vance</guid>
+      <pubDate>Sun, 22 Nov 2026 05:01:39 +0000</pubDate>
+    </item>    <item>
+      <title>November 21, 2026</title>
+      <link>https://heathercoxrichardson.substack.com/p/november-21-2026</link>
+      <description>
+        <![CDATA[&#8220;It all began so beautifully,&#8221; Lady Bird remembered.]]>
+      </description>
+      <source:markdown>“It all began so beautifully,” Lady Bird remembered.</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!yKDv!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b47f775-3df7-41dd-8bc9-a64cdd72d948_600x600.png" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/november-21-2026</guid>
+      <pubDate>Sun, 22 Nov 2026 05:00:06 +0000</pubDate>
+    </item>    <item>
+      <title>Bookmarks - skills, design, llm, web-archives</title>
+      <link>https://inkdroid.org/2026/11/22/bookmarks/</link>
+      <description>
+        <![CDATA[These are some things I’ve wandered across on the web this week.
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://www.altaplana.be/en/start"> Alta
+        Plana </a>
+        </h2>
+        <section class="p-summary">
+        Welcome to Altaplana, the impossible and infinite encyclopedia of the
+        world of The Obscure Cities, originally named Les Cités Obscures and its
+        authors François Schuiten and Benoît Peeters.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/cities/">cities</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/encyclopedia/">encyclopedia</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/fantasy/">fantasy</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/wiki/">wiki</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://wiki.xxiivv.com/site/now#20X"> 20X
+        </a>
+        </h2>
+        <section class="p-summary">
+        But what I’m thinking about is the most interesting kind of degrowth,
+        the kind you don’t notice happening at all. You aren’t necessarily
+        pursuing an ideology, you’re just making your little corner of the world
+        nicer, and along the way adjusting things in near imperceptible ways. A
+        tidy desk, a pleasant interface, a comfortable tool, a few years later
+        you end up somewhere that indicentally looks like degrowth.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/degrowth/">degrowth</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/design/">design</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/permacomputing/">permacomputing</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://blog.fsck.com/2026/11/17/toolsmith/">
+        The Toolsmith </a>
+        </h2>
+        <section class="p-summary">
+        <p>
+        … a couple weeks back, I sat down and specced out the first version of
+        toolsmith, a plugin for your favorite coding agent.
+        </p>
+        It teaches your primary session that instead of building incidental
+        tools itself, it should hand that work off to a toolsmith subagent. You
+        can think of that subagent as something like a digital version of James
+        Bond’s Q. It’s responsible for building, maintaining, and cataloging all
+        of the weird, bespoke tools that help your agent get its work done.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/programming/">programming</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/skills/">skills</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://programming.weru.org/EastVillageRadio/show/276122/Free-Folk-Lowlife">
+        Free Folk Lowlife </a>
+        </h2>
+        <section class="p-summary">
+        Matt “MV” Valentine here broadcasting from the COMniverse &amp; beaming
+        it to you from a log cabin deep in the vermont forest. Dial up love in
+        all forms of sonic architecture and genreless free folk along with deep
+        nugs from the child of microtones terran library of exploratory music.
+        gonna dive in the tubs get wet -&gt; you are here…
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/folk/">folk</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/radio/">radio</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://blog.commoncrawl.org/blog/measuring-what-the-crawler-sees">
+        Measuring what the crawler sees </a>
+        </h2>
+        <section class="p-summary">
+        <p>
+        Every web crawl is a sample. Common Crawl collects billions of pages a
+        month, a focused academic crawl collects a hundred million URLs. Both
+        are samples of something larger - everything the crawler’s configuration
+        could reach but did not sample. The crawl size is known exactly. The
+        size of that reachable web is not, and neither is the share of it held
+        by a crawl.
+        </p>
+        One approach comes from ecology; catch, mark, release and catch again:
+        the overlap between two samples estimates the population. The early
+        ecologist assumed that nothing enters or leaves the population between
+        the two catches (Petersen 1896, Lincoln 1930). But our crawl policy
+        does. And unlike estimating the size of the Web through the overlap of
+        search query results (Lawrence and Giles 1998) a large scale crawler
+        does not have a parallel crawl to which to compare. So the two samples
+        come in sequence, and the web keeps changing between them. Pages the
+        first sample missed and pages that no longer exist both show up as “not
+        seen again”, and a naïve overlap mixes them.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/commoncrawl/">commoncrawl</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/crawling/">crawling</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/web-archives/">web-archives</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html">
+        Old, Polluting Jet Engines Are Being Scavenged to Power Data Centers
+        </a>
+        </h2>
+        <section class="p-summary">
+        Last year FTAI Aviation, a New York-based jet-engine leasing and repair
+        company, launched a division that converts retired engines from Boeing
+        737 and Airbus A320 aircraft to power data centers. In July, an FTAI
+        joint venture signed a $1.5 billion agreement to supply converted
+        turbines to a data-center developer.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/airplanes/">airplanes</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/data-centers/">data-centers</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/energy/">energy</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/environment/">environment</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/pollution/">pollution</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://plantbasedrdblog.com/2025/10/spinach-artichoke-white-bean-soup/">
+        Spinach Artichoke White Bean Soup </a>
+        </h2>
+        <section class="p-summary">
+        A cozy cream spinach artichoke white bean soup that is packed with
+        nutrition, but feels like you are enjoying your favorite savory dip in
+        soup form.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/recipes/">recipes</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/soups/">soups</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://nathanschneider.info/2026/11/from-ai-rabbit-holes-to-a-warm-den-co-building-the-inference-cooperative/">
+        From AI rabbit holes to a warm den: co-building the Inference
+        Cooperative </a>
+        </h2>
+        <section class="p-summary">
+        The usual story is that AI is all about a race between the US and China,
+        with Europe somewhere in between, and resources stolen from across the
+        Global South. Our story is quite different. We use the locks on capital
+        and mission from US nonprofit law; the green energy and privacy
+        protections of Swiss servers and EU inference providers; and Chinese
+        open-weights models. I hope that someday we will offer models that
+        specialize in less-resourced languages and use-cases, and that serve the
+        needs of people farthest from the centers of power.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/ai/">ai</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/coop/">coop</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/">
+        Here’s how anyone can easily use private, open weight models </a>
+        </h2>
+        <section class="p-summary">
+        <p>
+        The nice thing about using something like Claude is that there’s no
+        learning curve: You sign up, install the software, and just start using
+        it. You don’t have to know what a model is, or understand inference,
+        harnesses, or anything else. You just tell Claude what you want it to
+        do. (And, of course, send a copy of whatever private data you’re working
+        with to Anthropic, and pay them money – both things that would be nice
+        to avoid.)
+        </p>
+        So, in an effort to help people switch to open weight models as easily
+        as possible, this blog post shows you how to use Maple AI just as
+        easily, with no learning curve required. There are lots of other ways of
+        doing similar things. I like software like OpenCode and Pi, and there
+        are other good providers too. Everything, including what models are
+        available, changes constantly.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/localfirst/">localfirst</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖
+        <a class="h-name" href="https://blog.sciop.net/2026-11-15/sciop-stories-wdpd26">
+        SciopStories for WDPD2026 </a>
+        </h2>
+        <section class="p-summary">
+        <p>
+        To celebrate World Digital Preservation Day 2026, we shared twelve
+        datasets on SciOp + a story for each on Mastodon / the Fediverse over
+        the course of November 5th.
+        </p>
+        <p>
+        World Digital Preservation Day is an event organized by the Digital
+        Preservation Coalition held on the first Thursday of every November.
+        This year the theme was “Save our Stories (SOS): Our Digital Heritage in
+        Danger” and you can read a number of posts from the wider DPC community
+        on their blog. I personally especially enjoyed Andy Jackson’s post
+        “Saving Our Stories From The Biggest Risks”, as he touches on many
+        things we are concerned with as well.
+        </p>
+        Here we have compiled all twelve datasets and their accompanying stories
+        in one place, after - all in all they showcase the breadth of what we
+        and our community have accomplished since early 2025.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/gov/">gov</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/preservation/">preservation</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/web-archives/">web-archives</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://openspec.dev/"> openspec </a>
+        </h2>
+        <section class="p-summary">
+        <p>
+        OpenSpec is a lightweight and configurable framework for creating and
+        managing software specifications.
+        </p>
+        <p>
+        With OpenSpec, you capture what you want to build in a spec and keep
+        your team and coding agents aligned as the work evolves. We help you
+        refine the requirements, validate that they describe the right thing,
+        and verify that the implementation matches.
+        </p>
+        In essence, OpenSpec helps you build the right thing and build it right.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/design/">design</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/llm/">llm</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/skills/">skills</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://github.com/patch-gg/pixelfx"> pixelfx
+        </a>
+        </h2>
+        <section class="p-summary">
+        <p>
+        244 pixel art effects and animations, every one a small piece of code.
+        Fire, explosions, magic, weather, UI, pickups, critters and more. Play
+        them live, recolor and mirror them, drop them into a browser game, or
+        export sprite sheets for any engine. Plus a Claude Code skill that makes
+        new ones the way a picky pixel artist would: draft, render, look,
+        refine.
+        </p>
+        Every effect that involves a character is acted out: he winds up, lets
+        go, freezes on contact and recovers, and a target takes the hit. Twelve
+        whole moves chain the effects into attacks from wind-up to recovery.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/animation/">animation</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/design/">design</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/skills/">skills</a>
+        </p>
+        </article>
+        <article class="bookmark h-entry">
+        <h2>
+        🔖 <a class="h-name" href="https://kajisho5.github.io/ffmpeg-skill/">
+        ffmpeg-skill </a>
+        </h2>
+        <section class="p-summary">
+        ffmpeg-skill is an Agent Skill for Claude Code, Cursor, Codex and any
+        agent that reads SKILL.md. It teaches the agent a fixed workflow (probe
+        → edit losslessly where possible → check → verify) and ships 42 tools
+        that do the actual work with ffmpeg / ffprobe: cut, join, silence
+        removal, fit to duration and aspect, captions and karaoke, overlays and
+        motion graphics, HDR → SDR and LUTs, audio clean-up and typed dynamics,
+        sync with drift correction, multicam, loudness, delivery checks,
+        whole-edit project rendering, batch folders. Every tool is also callable
+        as an MCP tool (tools/list advertises a core 12 by default to keep
+        client context small, with FFMPEG_SKILL_MCP_FULL=1 listing all 42; every
+        tool is reachable by name through tools/call either way), and the whole
+        set is described by a machine-readable contract.
+        </section>
+        <p class="tags">
+        <a rel="tag" class="tag label label-default p-category" href="/tag/ffmpeg/">ffmpeg</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/skills/">skills</a>
+        <a rel="tag" class="tag label label-default p-category" href="/tag/video/">video</a>
+        </p>
+        </article>]]>
+      </description>
+      <source:markdown>These are some things I’ve wandered across on the web this week.
+
+## 🔖 [Alta\ Plana](https://www.altaplana.be/en/start)
+
+Welcome to Altaplana, the impossible and infinite encyclopedia of the
+world of The Obscure Cities, originally named Les Cités Obscures and its
+authors François Schuiten and Benoît Peeters.
+
+[cities](/tag/cities/) [encyclopedia](/tag/encyclopedia/) [fantasy](/tag/fantasy/) [wiki](/tag/wiki/)
+
+## 🔖 [20X](https://wiki.xxiivv.com/site/now\#20X)
+
+But what I’m thinking about is the most interesting kind of degrowth,
+the kind you don’t notice happening at all. You aren’t necessarily
+pursuing an ideology, you’re just making your little corner of the world
+nicer, and along the way adjusting things in near imperceptible ways. A
+tidy desk, a pleasant interface, a comfortable tool, a few years later
+you end up somewhere that indicentally looks like degrowth.
+
+[degrowth](/tag/degrowth/) [design](/tag/design/) [permacomputing](/tag/permacomputing/)
+
+## 🔖 [The Toolsmith](https://blog.fsck.com/2026/11/17/toolsmith/)
+
+… a couple weeks back, I sat down and specced out the first version of
+toolsmith, a plugin for your favorite coding agent.
+
+It teaches your primary session that instead of building incidental
+tools itself, it should hand that work off to a toolsmith subagent. You
+can think of that subagent as something like a digital version of James
+Bond’s Q. It’s responsible for building, maintaining, and cataloging all
+of the weird, bespoke tools that help your agent get its work done.
+
+[llm](/tag/llm/) [programming](/tag/programming/) [skills](/tag/skills/)
+
+## 🔖 [Free Folk Lowlife](https://programming.weru.org/EastVillageRadio/show/276122/Free-Folk-Lowlife)
+
+Matt “MV” Valentine here broadcasting from the COMniverse &#38; beaming
+it to you from a log cabin deep in the vermont forest. Dial up love in
+all forms of sonic architecture and genreless free folk along with deep
+nugs from the child of microtones terran library of exploratory music.
+gonna dive in the tubs get wet -&#62; you are here…
+
+[folk](/tag/folk/) [radio](/tag/radio/)
+
+## 🔖 [Measuring what the crawler sees](https://blog.commoncrawl.org/blog/measuring-what-the-crawler-sees)
+
+Every web crawl is a sample. Common Crawl collects billions of pages a
+month, a focused academic crawl collects a hundred million URLs. Both
+are samples of something larger - everything the crawler’s configuration
+could reach but did not sample. The crawl size is known exactly. The
+size of that reachable web is not, and neither is the share of it held
+by a crawl.
+
+One approach comes from ecology; catch, mark, release and catch again:
+the overlap between two samples estimates the population. The early
+ecologist assumed that nothing enters or leaves the population between
+the two catches (Petersen 1896, Lincoln 1930). But our crawl policy
+does. And unlike estimating the size of the Web through the overlap of
+search query results (Lawrence and Giles 1998) a large scale crawler
+does not have a parallel crawl to which to compare. So the two samples
+come in sequence, and the web keeps changing between them. Pages the
+first sample missed and pages that no longer exist both show up as “not
+seen again”, and a naïve overlap mixes them.
+
+[commoncrawl](/tag/commoncrawl/) [crawling](/tag/crawling/) [web-archives](/tag/web-archives/)
+
+## 🔖 [Old, Polluting Jet Engines Are Being Scavenged to Power Data Centers](https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html)
+
+Last year FTAI Aviation, a New York-based jet-engine leasing and repair
+company, launched a division that converts retired engines from Boeing
+737 and Airbus A320 aircraft to power data centers. In July, an FTAI
+joint venture signed a $1.5 billion agreement to supply converted
+turbines to a data-center developer.
+
+[airplanes](/tag/airplanes/) [data-centers](/tag/data-centers/) [energy](/tag/energy/) [environment](/tag/environment/) [pollution](/tag/pollution/)
+
+## 🔖 [Spinach Artichoke White Bean Soup](https://plantbasedrdblog.com/2025/10/spinach-artichoke-white-bean-soup/)
+
+A cozy cream spinach artichoke white bean soup that is packed with
+nutrition, but feels like you are enjoying your favorite savory dip in
+soup form.
+
+[recipes](/tag/recipes/) [soups](/tag/soups/)
+
+## 🔖 [From AI rabbit holes to a warm den: co-building the Inference\ Cooperative](https://nathanschneider.info/2026/11/from-ai-rabbit-holes-to-a-warm-den-co-building-the-inference-cooperative/)
+
+The usual story is that AI is all about a race between the US and China,
+with Europe somewhere in between, and resources stolen from across the
+Global South. Our story is quite different. We use the locks on capital
+and mission from US nonprofit law; the green energy and privacy
+protections of Swiss servers and EU inference providers; and Chinese
+open-weights models. I hope that someday we will offer models that
+specialize in less-resourced languages and use-cases, and that serve the
+needs of people farthest from the centers of power.
+
+[ai](/tag/ai/) [coop](/tag/coop/)
+
+## 🔖 [Here’s how anyone can easily use private, open weight models](https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/)
+
+The nice thing about using something like Claude is that there’s no
+learning curve: You sign up, install the software, and just start using
+it. You don’t have to know what a model is, or understand inference,
+harnesses, or anything else. You just tell Claude what you want it to
+do. (And, of course, send a copy of whatever private data you’re working
+with to Anthropic, and pay them money – both things that would be nice
+to avoid.)
+
+So, in an effort to help people switch to open weight models as easily
+as possible, this blog post shows you how to use Maple AI just as
+easily, with no learning curve required. There are lots of other ways of
+doing similar things. I like software like OpenCode and Pi, and there
+are other good providers too. Everything, including what models are
+available, changes constantly.
+
+[llm](/tag/llm/) [localfirst](/tag/localfirst/)
+
+## 🔖 [SciopStories for WDPD2026](https://blog.sciop.net/2026-11-15/sciop-stories-wdpd26)
+
+To celebrate World Digital Preservation Day 2026, we shared twelve
+datasets on SciOp + a story for each on Mastodon / the Fediverse over
+the course of November 5th.
+
+World Digital Preservation Day is an event organized by the Digital
+Preservation Coalition held on the first Thursday of every November.
+This year the theme was “Save our Stories (SOS): Our Digital Heritage in
+Danger” and you can read a number of posts from the wider DPC community
+on their blog. I personally especially enjoyed Andy Jackson’s post
+“Saving Our Stories From The Biggest Risks”, as he touches on many
+things we are concerned with as well.
+
+Here we have compiled all twelve datasets and their accompanying stories
+in one place, after - all in all they showcase the breadth of what we
+and our community have accomplished since early 2025.
+
+[gov](/tag/gov/) [preservation](/tag/preservation/) [web-archives](/tag/web-archives/)
+
+## 🔖 [openspec](https://openspec.dev/)
+
+OpenSpec is a lightweight and configurable framework for creating and
+managing software specifications.
+
+With OpenSpec, you capture what you want to build in a spec and keep
+your team and coding agents aligned as the work evolves. We help you
+refine the requirements, validate that they describe the right thing,
+and verify that the implementation matches.
+
+In essence, OpenSpec helps you build the right thing and build it right.
+
+[design](/tag/design/) [llm](/tag/llm/) [skills](/tag/skills/)
+
+## 🔖 [pixelfx](https://github.com/patch-gg/pixelfx)
+
+244 pixel art effects and animations, every one a small piece of code.
+Fire, explosions, magic, weather, UI, pickups, critters and more. Play
+them live, recolor and mirror them, drop them into a browser game, or
+export sprite sheets for any engine. Plus a Claude Code skill that makes
+new ones the way a picky pixel artist would: draft, render, look,
+refine.
+
+Every effect that involves a character is acted out: he winds up, lets
+go, freezes on contact and recovers, and a target takes the hit. Twelve
+whole moves chain the effects into attacks from wind-up to recovery.
+
+[animation](/tag/animation/) [design](/tag/design/) [skills](/tag/skills/)
+
+## 🔖 [ffmpeg-skill](https://kajisho5.github.io/ffmpeg-skill/)
+
+ffmpeg-skill is an Agent Skill for Claude Code, Cursor, Codex and any
+agent that reads SKILL.md. It teaches the agent a fixed workflow (probe
+→ edit losslessly where possible → check → verify) and ships 42 tools
+that do the actual work with ffmpeg / ffprobe: cut, join, silence
+removal, fit to duration and aspect, captions and karaoke, overlays and
+motion graphics, HDR → SDR and LUTs, audio clean-up and typed dynamics,
+sync with drift correction, multicam, loudness, delivery checks,
+whole-edit project rendering, batch folders. Every tool is also callable
+as an MCP tool (tools/list advertises a core 12 by default to keep
+client context small, with FFMPEG\_SKILL\_MCP\_FULL=1 listing all 42; every
+tool is reachable by name through tools/call either way), and the whole
+set is described by a machine-readable contract.
+
+[ffmpeg](/tag/ffmpeg/) [skills](/tag/skills/) [video](/tag/video/)</source:markdown>
+      <guid>cid://https://inkdroid.org/2026/11/22/bookmarks/</guid>
+      <category>ai</category>
+      <category>airplanes</category>
+      <category>animation</category>
+      <category>bookmarks</category>
+      <category>cities</category>
+      <category>commoncrawl</category>
+      <category>coop</category>
+      <category>crawling</category>
+      <category>data-centers</category>
+      <category>degrowth</category>
+      <category>design</category>
+      <category>encyclopedia</category>
+      <category>energy</category>
+      <category>environment</category>
+      <category>fantasy</category>
+      <category>ffmpeg</category>
+      <category>folk</category>
+      <category>gov</category>
+      <category>llm</category>
+      <category>localfirst</category>
+      <category>permacomputing</category>
+      <category>pollution</category>
+      <category>preservation</category>
+      <category>programming</category>
+      <category>radio</category>
+      <category>recipes</category>
+      <category>skills</category>
+      <category>soups</category>
+      <category>video</category>
+      <category>web-archives</category>
+      <category>wiki</category>
+      <pubDate>Sun, 22 Nov 2026 05:00:00 +0000</pubDate>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/117658230333462371</link>
+      <description>
+        <![CDATA[<p class="quote-inline">RE: <a href="https://mastodon.social/@FossilzedCarlos/117658187283870809" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@FossilzedCarl</span><span class="invisible">os/117658187283870809</span></a></p><p>User #8!</p>]]>
+      </description>
+      <source:markdown>RE: [https://mastodon.social/@FossilzedCarlos/117658187283870809](https://mastodon.social/@FossilzedCarlos/117658187283870809)
+
+User #8!</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/117658230333462371</guid>
+      <pubDate>Sun, 22 Nov 2026 04:35:18 +0000</pubDate>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3n2upcehqyc2c</link>
+      <description>
+        <![CDATA[Just got BonBon browser built and running on Rasberry Pi 500+. Very slick. Looking forward to some more surfing of the Markdown Web. 😎
+        
+        https://github.com/scripting/bonBon]]>
+      </description>
+      <source:markdown>Just got BonBon browser built and running on Rasberry Pi 500+. Very slick. Looking forward to some more surfing of the Markdown Web. 😎
+
+https://github.com/scripting/bonBon</source:markdown>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3n2upcehqyc2c</guid>
+      <pubDate>Sun, 22 Nov 2026 03:45:00 +0000</pubDate>
+    </item>    <item>
+      <title>A Bizarre Meeting</title>
+      <link>https://heathercoxrichardson.substack.com/p/a-bizarre-meeting</link>
+      <description>
+        <![CDATA[To read this letter, click here:]]>
+      </description>
+      <source:markdown>To read this letter, click here:</source:markdown>
+      <enclosure url="https://api.substack.com/feed/podcast/225991186/c26b73826224c0053141a090a1088952.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/a-bizarre-meeting</guid>
+      <pubDate>Sun, 22 Nov 2026 01:42:28 +0000</pubDate>
+    </item>    <item>
+      <title>Illiterate Programming</title>
+      <link>https://deadsimpletech.com/blog/illiterate-programming</link>
+      <description>
+        <![CDATA[In short: programmers don't read, and this vexes me sorely. The immediate irritation is simply that I feel quite lonely: in being fairly literate and writing about it, I quite often find myself labelled as suspect or as "not a real tech person": that kind of problem, you know? More problematically,  I genuinely find it hard to build a rapport with your average non-reading programmer. And I am not bad at communicating: if I was, quite frankly, this blog would not be a thing, nor would it be half as well-read as it is. No, there's something about the non-reading programmer that, for want of a better word, makes it difficult to communicate with them: try as I might, my best attempts mostly bounce off them entirely.]]>
+      </description>
+      <source:markdown>In short: programmers don&#39;t read, and this vexes me sorely. The immediate irritation is simply that I feel quite lonely: in being fairly literate and writing about it, I quite often find myself labelled as suspect or as &#34;not a real tech person&#34;: that kind of problem, you know? More problematically, I genuinely find it hard to build a rapport with your average non-reading programmer. And I am not bad at communicating: if I was, quite frankly, this blog would not be a thing, nor would it be half as well-read as it is. No, there&#39;s something about the non-reading programmer that, for want of a better word, makes it difficult to communicate with them: try as I might, my best attempts mostly bounce off them entirely.</source:markdown>
+      <guid>cid://https://deadsimpletech.com/blog/illiterate-programming</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Still counting votes in Oregon</title>
+      <link>https://andysylvester.com/2026/11/21/still-counting-votes-in-oregon/</link>
+      <description>
+        <![CDATA[Oregon is a &#8220;vote-by-mail&#8221; state, so getting to final election counts can take a while. First, mail ballots can arrive up to one week after Election Day and still be counted if the postmark is by Election Day. Second, there is a group of ballots which are set aside for issues (missing signature, signature does [&#8230;]]]>
+      </description>
+      <source:markdown>Oregon is a “vote-by-mail” state, so getting to final election counts can take a while. First, mail ballots can arrive up to one week after Election Day and still be counted if the postmark is by Election Day. Second, there is a group of ballots which are set aside for issues (missing signature, signature does \[…\]</source:markdown>
+      <guid>cid://https://andysylvester.com/?p=4796</guid>
+      <category>Elections</category>
+      <category>Micro.Blog</category>
+      <category>Politics</category>
+      <pubDate>Sat, 21 Nov 2026 21:46:19 +0000</pubDate>
+    </item>    <item>
+      <title>New Markdown sites</title>
+      <link>http://scripting.com/2026/11/21/213240.html?title=newMarkdownSites</link>
+      <description>
+        <![CDATA[<p>New and notable Markdown sites.</p>
+        <ul>
+        <li><a href="https://evdemon.org/blog/">John Evdemon's blog</a>, as <a href="https://demo.bonbonweb.org/?url=https%3A%2F%2Fevdemon.org%2Fblog%2F">viewed</a> in BonBon. Runs on Known, with a small script that serves each post as Markdown.</li>
+        <li><a href="https://josephfieber.com/">Joseph Fieber's site</a>, as <a href="https://demo.bonbonweb.org/?url=https%3A%2F%2Fjosephfieber.com%2F">viewed</a> in BonBon. Converted from WordPress. Written in Obsidian, served by Grav.</li>
+        <li><a href="https://rsdoiel.github.io/index.md">R. S. Doiel's blog</a>, as <a href="https://demo.bonbonweb.org/?url=https%3A%2F%2Frsdoiel.github.io%2Findex.md">viewed</a> in BonBon. Built with his own antennaApp, hosted on GitHub Pages.</li>
+        </ul>
+        <p>We learned about these sites in the <a href="https://github.com/scripting/bonBon/issues">Issues section</a> of the BonBon repo. If you do something nice with Markdown sites, send us a link, and be sure to use the <a href="https://demo.bonbonweb.org/">demo app</a> to test your sites. </p>]]>
+      </description>
+      <source:markdown>New and notable Markdown sites.
+
+*   [John Evdemon&#39;s blog](https://evdemon.org/blog/), as [viewed](https://demo.bonbonweb.org/?url=https%3A%2F%2Fevdemon.org%2Fblog%2F) in BonBon. Runs on Known, with a small script that serves each post as Markdown.
+*   [Joseph Fieber&#39;s site](https://josephfieber.com/), as [viewed](https://demo.bonbonweb.org/?url=https%3A%2F%2Fjosephfieber.com%2F) in BonBon. Converted from WordPress. Written in Obsidian, served by Grav.
+*   [R. S. Doiel&#39;s blog](https://rsdoiel.github.io/index.md), as [viewed](https://demo.bonbonweb.org/?url=https%3A%2F%2Frsdoiel.github.io%2Findex.md) in BonBon. Built with his own antennaApp, hosted on GitHub Pages.
+
+We learned about these sites in the [Issues section](https://github.com/scripting/bonBon/issues) of the BonBon repo. If you do something nice with Markdown sites, send us a link, and be sure to use the [demo app](https://demo.bonbonweb.org/) to test your sites.</source:markdown>
+      <guid>cid://http://scripting.com/2026/11/21/213240.html</guid>
+      <pubDate>Sat, 21 Nov 2026 21:32:40 +0000</pubDate>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/117656329305758151</link>
+      <description>
+        <![CDATA[<p>A common disconnect in AI discussions are the perceptions based on early descriptions on how GPT worked (&quot;autocomplete&quot;) and have not been exposed to the trick that makes modern models so effective - but also that this is highly proprietary data (I mentioned this on a longer thread yesterday).</p><p>This piece is a good introduction to the subject:</p><p><a href="https://openathena.ai/blog/there-is-no-posttraining-data-commons/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">openathena.ai/blog/there-is-no</span><span class="invisible">-posttraining-data-commons/</span></a></p>]]>
+      </description>
+      <source:markdown>A common disconnect in AI discussions are the perceptions based on early descriptions on how GPT worked (&#34;autocomplete&#34;) and have not been exposed to the trick that makes modern models so effective - but also that this is highly proprietary data (I mentioned this on a longer thread yesterday).
+
+This piece is a good introduction to the subject:
+
+[https://openathena.ai/blog/there-is-no-posttraining-data-commons/](https://openathena.ai/blog/there-is-no-posttraining-data-commons/)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/117656329305758151</guid>
+      <pubDate>Sat, 21 Nov 2026 20:31:50 +0000</pubDate>
+    </item>    <item>
+      <title>★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2</title>
+      <link>https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273</link>
+      <description>
+        <![CDATA[Apple’s new Full Disk Access and other privacy controls in MacOS 27.3 are good, with the exception of the ever-present menu bar indicator for apps that control other apps.]]>
+      </description>
+      <source:markdown>Apple’s new Full Disk Access and other privacy controls in MacOS 27.3 are good, with the exception of the ever-present menu bar indicator for apps that control other apps.</source:markdown>
+      <guid>cid://tag:daringfireball.net,2026://1.43759</guid>
+      <pubDate>Sat, 21 Nov 2026 20:09:57 +0000</pubDate>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/117655647934579235</link>
+      <description>
+        <![CDATA[<p>How do we as a society absorb labor shocks?</p><p>James Galbraith expands on the work of Pavlina Tcherneva:</p><p><a href="https://www.ineteconomics.org/perspectives/blog/what-can-the-last-great-crash-say-about-the-next-one-oil-ai-and-the-perils-of-technological-revolution" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">ineteconomics.org/perspectives</span><span class="invisible">/blog/what-can-the-last-great-crash-say-about-the-next-one-oil-ai-and-the-perils-of-technological-revolution</span></a></p><p><a href="https://pavlina-tcherneva.net/the-case-for-a-job-guarantee/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">pavlina-tcherneva.net/the-case</span><span class="invisible">-for-a-job-guarantee/</span></a></p>]]>
+      </description>
+      <source:markdown>How do we as a society absorb labor shocks?
+
+James Galbraith expands on the work of Pavlina Tcherneva:
+
+[https://www.ineteconomics.org/perspectives/blog/what-can-the-last-great-crash-say-about-the-next-one-oil-ai-and-the-perils-of-technological-revolution](https://www.ineteconomics.org/perspectives/blog/what-can-the-last-great-crash-say-about-the-next-one-oil-ai-and-the-perils-of-technological-revolution)
+
+[https://pavlina-tcherneva.net/the-case-for-a-job-guarantee/](https://pavlina-tcherneva.net/the-case-for-a-job-guarantee/)</source:markdown>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/117655647934579235</guid>
+      <pubDate>Sat, 21 Nov 2026 17:38:33 +0000</pubDate>
+    </item>    <item>
+      <title>Encouraging Nuggets From Polls This Week, Trump’s Unraveling May Be Accelerating</title>
+      <link>https://www.hopiumchronicles.com/p/encouraging-nuggets-from-polls-this</link>
+      <description>
+        <![CDATA[Happy Saturday all!]]>
+      </description>
+      <source:markdown>Happy Saturday all!</source:markdown>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!d72R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43f142de-5f05-490e-a17d-3e83a711c2bb_1080x1350.webp" length="0" type="image/jpeg" />
+      <guid>cid://https://www.hopiumchronicles.com/p/encouraging-nuggets-from-polls-this</guid>
+      <pubDate>Sat, 21 Nov 2026 16:06:04 +0000</pubDate>
+    </item>    <item>
+      <title>Plants and Snow</title>
+      <link>https://thebrowser.com/free/plants-and-snow/</link>
+      <description>
+        <![CDATA[Today, enjoy our audio and video picks]]>
+      </description>
+      <source:markdown>Today, enjoy our audio and video picks</source:markdown>
+      <guid>cid://6b00e84016b93c000146efa5</guid>
+      <pubDate>Sat, 21 Nov 2026 16:00:00 +0000</pubDate>
+    </item>    <item>
+      <link>http://scripting.com/2026/11/21.html#a154524</link>
+      <description>
+        <![CDATA[For developers, a <a href="https://github.com/scripting/bonBon/blob/main/demos/brentbloginmarkdown/readme.md">snapshot</a> of the Brent's site, ported to Markdown.]]>
+      </description>
+      <source:markdown>For developers, a [snapshot](https://github.com/scripting/bonBon/blob/main/demos/brentbloginmarkdown/readme.md) of the Brent&#39;s site, ported to Markdown.</source:markdown>
+      <guid>cid://http://scripting.com/2026/11/21.html#a154524</guid>
+      <pubDate>Sat, 21 Nov 2026 15:45:24 +0000</pubDate>
+    </item>    <item>
+      <link>http://scripting.com/2026/11/21.html#a153347</link>
+      <description>
+        <![CDATA[Introducing <a href="https://brent.writersweb.org/">brent.writersweb.org</a>, as <a href="https://demo.bonbonweb.org/?url=https%3A%2F%2Fbrent.writersweb.org%2F">viewed</a> in BonBon.]]>
+      </description>
+      <source:markdown>Introducing [brent.writersweb.org](https://brent.writersweb.org/), as [viewed](https://demo.bonbonweb.org/?url=https%3A%2F%2Fbrent.writersweb.org%2F) in BonBon.</source:markdown>
+      <guid>cid://http://scripting.com/2026/11/21.html#a153347</guid>
+      <pubDate>Sat, 21 Nov 2026 15:33:47 +0000</pubDate>
     </item>    <item>
       <title>TBR Emergency Alert</title>
       <link>https://www.borowitzreport.com/p/tbr-emergency-alert</link>
@@ -127,6 +901,56 @@ See you later, Amsterdam!</source:markdown>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!yKDv!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b47f775-3df7-41dd-8bc9-a64cdd72d948_600x600.png" length="0" type="image/jpeg" />
       <guid>cid://https://heathercoxrichardson.substack.com/p/november-20-2026</guid>
       <pubDate>Sat, 21 Nov 2026 06:59:51 +0000</pubDate>
+    </item>    <item>
+      <title>Photobooth</title>
+      <link>https://inkdroid.org/2026/11/21/photobooth/</link>
+      <description>
+        <![CDATA[<figure>
+        <a href="https://www.flickr.com/photos/inkdroid/55665625893/">
+        <img class="img-fluid" src="https://live.staticflickr.com/65535/55665625893_7687e32830_c.jpg">
+        </a>
+        <figcaption>
+        Photobooth
+        </figcaption>
+        </figure>
+        <p>
+        Kesa and I took got some photos taken in the Howard Theater photobooth.
+        </p>]]>
+      </description>
+      <source:markdown>[![](https://live.staticflickr.com/65535/55665625893_7687e32830_c.jpg)](https://www.flickr.com/photos/inkdroid/55665625893/)
+Photobooth
+
+Kesa and I took got some photos taken in the Howard Theater photobooth.</source:markdown>
+      <guid>cid://https://inkdroid.org/2026/11/21/photobooth/</guid>
+      <category>photographs</category>
+      <category>flickr</category>
+      <pubDate>Sat, 21 Nov 2026 05:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Dark blue</title>
+      <link>https://inkdroid.org/2026/11/21/dark-blue/</link>
+      <description>
+        <![CDATA[<figure>
+        <a href="https://www.flickr.com/photos/inkdroid/55665634108/">
+        <img class="img-fluid" src="https://live.staticflickr.com/31337/55665634108_faf3e63338_c.jpg">
+        </a>
+        <figcaption>
+        Dark blue
+        </figcaption>
+        </figure>
+        <p>
+        Caroline performing Dark Blue at the Howard Theater. It was startling
+        how they played effectively in the audience, facing each other.
+        </p>]]>
+      </description>
+      <source:markdown>[![](https://live.staticflickr.com/31337/55665634108_faf3e63338_c.jpg)](https://www.flickr.com/photos/inkdroid/55665634108/)
+Dark blue
+
+Caroline performing Dark Blue at the Howard Theater. It was startling
+how they played effectively in the audience, facing each other.</source:markdown>
+      <guid>cid://https://inkdroid.org/2026/11/21/dark-blue/</guid>
+      <category>photographs</category>
+      <category>flickr</category>
+      <pubDate>Sat, 21 Nov 2026 05:00:00 +0000</pubDate>
     </item>    <item>
       <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3n2sbre2kvs22</link>
       <description>
@@ -354,7 +1178,7 @@ The post [Purism Differentiator Series, Part 20: Releasing Source Code to the Pu
       <category>Differentiator Series</category>
       <pubDate>Fri, 20 Nov 2026 22:45:57 +0000</pubDate>
     </item>    <item>
-      <title>The Bubble is Bursting</title>
+      <title>The Bubble Is Bursting</title>
       <link>https://robertreich.substack.com/p/the-bubble-is-bursting</link>
       <description>
         <![CDATA[Friends,]]>
@@ -1219,6 +2043,34 @@ The post [Ask an engineer – exclusive advice from the brains behind Raspberry 
       <enclosure url="https://substackcdn.com/image/fetch/$s_!yKDv!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b47f775-3df7-41dd-8bc9-a64cdd72d948_600x600.png" length="0" type="image/jpeg" />
       <guid>cid://https://heathercoxrichardson.substack.com/p/november-19-2026</guid>
       <pubDate>Fri, 20 Nov 2026 05:43:51 +0000</pubDate>
+    </item>    <item>
+      <title>Disassembly</title>
+      <link>https://inkdroid.org/2026/11/20/disassembly/</link>
+      <description>
+        <![CDATA[<figure>
+        <a href="https://www.flickr.com/photos/inkdroid/55665697179/">
+        <img class="img-fluid" src="https://live.staticflickr.com/65535/55665697179_56d739a131_c.jpg">
+        </a>
+        <figcaption>
+        Disassembly
+        </figcaption>
+        </figure>
+        <p>
+        Caroline packing up their equipment after their performance at the
+        Howard Theater. They chose to play in a circle on the floor, with the
+        audience around them, rather than up on the stage.
+        </p>]]>
+      </description>
+      <source:markdown>[![](https://live.staticflickr.com/65535/55665697179_56d739a131_c.jpg)](https://www.flickr.com/photos/inkdroid/55665697179/)
+Disassembly
+
+Caroline packing up their equipment after their performance at the
+Howard Theater. They chose to play in a circle on the floor, with the
+audience around them, rather than up on the stage.</source:markdown>
+      <guid>cid://https://inkdroid.org/2026/11/20/disassembly/</guid>
+      <category>photographs</category>
+      <category>flickr</category>
+      <pubDate>Fri, 20 Nov 2026 05:00:00 +0000</pubDate>
     </item>    <item>
       <link>https://rachsmith.com/2026-11-20-04-56</link>
       <description>
@@ -31712,868 +32564,6 @@ convulsive, tech-driven change.
       <category>web-archives</category>
       <category>work</category>
       <pubDate>Sun, 01 Nov 2026 04:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>2026-10-30 Sysadmin day</title>
-      <link>https://alexschroeder.ch/view/2026-10-30-sysadmin</link>
-      <description>
-        <![CDATA[<h1 id="2026-10-30-sysadmin-day">2026-10-30 Sysadmin day</h1>
-        
-        <blockquote>
-        <p>My wife is looking at graphs of our electricity use and our warm water use, and I&rsquo;m looking at the Munin graphs of our server.</p>
-        </blockquote>
-        
-        <p>Is there something I could learn from looking at my <a href="https://korero.org/munin/paraelectrobombus/paraelectrobombus/index.html">public Munin graphs</a>, even without an incident, perhaps over longer time periods? Let&rsquo;s see.</p>
-        
-        <p>I&rsquo;m counting Apache connections because at one point I was trying to understand whether my server was being overwhelmed by many connections and if I needed to fiddle with the many configuration options of the web server.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-1.png" alt="Apache connections over one month. Two weeks ago the number seems to have stabilized at 10 or less." /></p>
-        
-        <p>I&rsquo;m counting the hits on the garbage server because the idea is that bots get lured into the maze of pages generated by the garbage server so it&rsquo;s a proxy for detected bots that fall for it. A high number of hits should not be a problem as it answers requests without disk access so it should be fast.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-2.png" alt="The hits on the garbage server appear to be stable at about 1 hit/second for the last three weeks." /></p>
-        
-        <p>I&rsquo;m also counting requests per status code because I&rsquo;m interested in my server&rsquo;s health and the quality of my links. What I generally look for is whether I get a lot of server errors (500+), a lot of missing pages (404), a lot of redirects (301–303) a lot of local cache hits (304), etc.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-3.png" alt="Hits per seconds, per HTTP status code. The high number of 301 responses (&ldquo;moved permanently&rdquo;) is a sign, I think, of bots that keep accessing old URLs that are being redirected and never updating their data. In other words, these days they are suspected AI scrapers." /></p>
-        
-        <p>I&rsquo;m also counting hits per domain to see if there are any spikes for a particular domain only. Domains I fear for are the GoToSocial subdomain, the git subdomain, and so on. Everything seems calm, at the moment.</p>
-        
-        <p>I also host three search engines and I&rsquo;m just realizing that one of them has seen spikes nearly twice as high as the maximum hits on Emacs Wiki. That is a bit disconcerting. What happened?</p>
-        
-        <p>I&rsquo;m assuming the spikes for the GoToSocial server happen when it comes back online after some downtime as the servers it is connected to start working on the queues. And the spikes on the git server happen when somebody checks out a project.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-4.png" alt="All the various domains served, with hits per second." /></p>
-        
-        <p>I run an open video-conferencing server called Galène. I want to keep an eye on it in case somebody is starting to use it a lot. At the moment it looks as if it&rsquo;s just me and my friends.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-5.png" alt="Last wee had a handful of spikes with up to four people connected. This is fine." /></p>
-        
-        <p>I run an IRC server networked with the IRC servers of two friends. I want to keep an eye on the number of users and channels. I wouldn&rsquo;t want the server to end up being a control server for malware.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-6.png" alt="The number of channels and users remained stable. Temporary drops reflect on the quality of our network, if anything." /></p>
-        
-        <p>Now we&rsquo;re moving on to resources. Disks first. I think the main fear is running out of disk space because logs are out of control. This is where the systemd journal shines. If log files are written to disk, <code>logrotate</code> needs to know about them. So installing a piece of software that is missed by <code>logrotate</code> is a problem. As long as you stay within the software of your distribution, and as long as any additional software you install uses systemd, you should be fine.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-7.png" alt="The graph is pretty stable, showing logs growing over each day and getting truncated again. And a huge jump two weeks ago, probably the backup of the GoToSocial database file (10G)." /></p>
-        
-        <p>I guess these days people don&rsquo;t think about inode usage all that much any more. Back when servers carried all of USENET and every news article was a file, it was possible for a system to run out of inodes. It&rsquo;s basically a limit on the number of files that can exist on a system. Still, I track them. Just to be sure.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-8.png" alt="The number of inodes is at less than 8%. Nothing to worry about." /></p>
-        
-        <p>If the number of inodes keeps hovering around 8%, then the exact number of inodes doesn&rsquo;t matter that much.
-        This seems like a graph that I could remove.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-27.png" alt="The number of inodes used remains stable, too. There were two strange, temporary drops two weeks ago and I have no idea why this could have happened." /></p>
-        
-        <p>Another strange graph is the one with the number of open files. Linux has a limit on the number of open files at any given point in time so I guess it&rsquo;s important to see whether we&rsquo;re close? <code>lsof | wc -l</code> shows nearly 20,000 right now. Then again, <code>sysctl fs.file-max</code> says 9223372036854775807 … so I guess this graph is also one I could remove.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-26.png" alt="The number of open files is stable at about 3000. I don&rsquo;t understand how that relates to the 20,000 I mentioned above." /></p>
-        
-        <p>This machine runs a mail server. Of course it does. But it&rsquo;s local only. The daily mail you see is probably the net news server status. I guess I&rsquo;m most afraid of some situation sending a gazillion mails and me not noticing it.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-9.png" alt="A small spike once per day, that&rsquo;s it, for almost all days." /></p>
-        
-        <p>The mail queue is important if mails cannot be sent. But if nobody is sending mail on this system, the queue should be empty, and it is.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-9.png" alt="Unsurprisingly, the mail queue itself is empty, too." /></p>
-        
-        <p>The number of users is a measure in the same vein. It&rsquo;s useless on a single user machine. On a shared machine, this graph would make sense. I guess I&rsquo;m waiting for a second user to show up that I don&rsquo;t recognize. I&rsquo;ll know that the machine has been hacked, then. 😬</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-25.png" alt="Most of the time nobody is logged in. Sometimes one person is logged in (me). Sometimes more, all of them being me." /></p>
-        
-        <p>Measuring the resources spent by Munin to produce the graphs is a kind of insurance against writing a plugin that hurts. I guess we&rsquo;re doing fine?</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-10.png" alt="Munin processing time stays at about 18 seconds per month, with a tiny day cycle. I&rsquo;m assuming when the current log file is short in the morning, some plugins finish faster than at the end of the day when the logs are long." /></p>
-        
-        <p>The firewall throughput measures the amount of data that is actually sent, via all ports. This could be interesting to detect exfiltration or bots repeatedly downloading huge files. That would have to stop, of course.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-11.png" alt="Firewall throughput shows a small number of spikes last week. I did not investigate. Whatever it was, it&rsquo;s now over." /></p>
-        
-        <p>I&rsquo;m not quite sure what to do with net stats. I guess some sort of denial of service might show up here? I have no idea.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-13.png" alt="The net stats seem to be stable even if I don&rsquo;t know what it means to me. The failed and reset TCP connections are very low. So I guess we&rsquo;re fine." /></p>
-        
-        <p>We&rsquo;re getting to one of the important graphs regarding the bots, I think. Ever since the server got an upgrade, and perhaps ever since I installed the botcheck defence, average system load has been under control. What hasn&rsquo;t been under control is the number of autonomous systems that I&rsquo;m banning. For more about this, see my <a href="https://transjovian.org/view/fighting-bots/index">Butlerian Jihad</a> page.</p>
-        
-        <p>Note: Each autonomous system manages multiple IP address ranges and each IP address range contains many IP addresses. Each autonomous system belongs to an organisation involved in managing Internet traffic. Sometimes an organisation is an Internet service provider (ISP), either for residential or commercial subscribers. Sometimes an organisation belongs to an even bigger company (who else but Amazon, Meta, Google, Microsoft and all the other tech giants). In any case, banning an autonomous system can hit many innocent people: an autonomous system that serves both users of virtual private networks (VPNs) and bots; big companies hosting both individuals and bots; and so on. The solution is forced upon me, however, since the bots are trying to evade blocks by using a gazillion IP addresses. Blocking them individually results in huge firewall sets and it&rsquo;s inefficient because they don&rsquo;t get reused all that often.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-12.png" alt="Four weeks ago, over 8000 IP address ranges were blocked, now it&rsquo;s less than 3000 IP address ranges." /></p>
-        
-        <p>Back when the scraper bots overwhelmed the server on a regular basis, the problem the load average going up to 80 on a system with two virtual cores. Now I have four virtual cores and load stays far below that.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-24.png" alt="The load average is under control, safely below 1." /></p>
-        
-        <p>I&rsquo;m not sure what the fork rate means for me. When heavy processes fork, other resources spike immediately. So I guess we&rsquo;re doing OK.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-15.png" alt="Fork rate is pretty constant at 4/second." /></p>
-        
-        <p>If the fork rate is pretty much constant, the number of processes should also be pretty much constant. And that&rsquo;s what I find, so I&rsquo;m happy.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-20.png" alt="Apparently four weeks ago there were a number of zombie processes that were hanging around. I&rsquo;m happy they are gone, now. Everything else seems to be constant, so good." /></p>
-        
-        <p>I&rsquo;m never quite sure about threads. Are they even used these days? &ldquo;Workers&rdquo; are not necessarily threads.
-        If I&rsquo;m counting processes, I should also keep an eye on threads. Hence this graph.
-        Since there are no weird spikes, I guess we&rsquo;re doing OK.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-18.png" alt="A stable number of threads that goes up and down over the course of each day. I have no idea why three and four weeks ago the number seemed to be higher." /></p>
-        
-        <p>There used to be a time when my web apps based on the Mojolicious framework would spawn more workers as load went up.
-        I guess now that load is under control, that rarely happens any more.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-17.png" alt="A list of processes, but almost all of them show just a single process being counted. Surprisingly, the max number of processes for Emacs Wiki was more than 12." /></p>
-        
-        <p>Another measure of resource use is compute.
-        In other words, CPU usage.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-21.png" alt="CPU usage is extremely low these days. The numbers can go up to 400% because I have four (virtual) cores available." /></p>
-        
-        <p>I also try to identify the processes that use the most resources. I&rsquo;m looking for spikes.
-        Most of the time it&rsquo;s GoToSocial that&rsquo;s using the most CPU. That seems fine.
-        Apache is acting as the reverse proxy for all web services.
-        Fail2ban is managing the firewall.
-        Everything seems fine.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-14.png" alt="A huge list of processes with GoToSocial showing daily spikes." /></p>
-        
-        <p>And yet another resource is, of course, memory. Specially with RAM prices being what they are!
-        In my case, I think my machine is doing pretty well.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-22.png" alt="The memory usage shows about half a gigabyte of eight unused and nearly four gigabytes used for caching. This system is far too powerful for my use." /></p>
-        
-        <p>The graph for memory use is used to find applications that seem to have memory leaks.
-        Sadly, once you&rsquo;ve identified the application, it&rsquo;s not entirely clear how to fix those memory leaks.
-        Right now, I don&rsquo;t see any suspicious candidate, though. I do get the impression that some applications don&rsquo;t want to relinquish the memory that they have, like Traveller. Do I still have circular data structures resulting in memory leaks?</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-16.png" alt="A log list of processes, with GoToSocial clearly dominating memory use, and surprisingly, The Lounge on second place." /></p>
-        
-        <p>Above, I used percentage of memory for processes to see. And here&rsquo;s the RSS. Measuring memory consumption under Linux is hard.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-19.png" alt="Another long list of processes. A least the memory use here does not contradict the MEM graph above." /></p>
-        
-        <p>And yet! And yet. Everything looks great but at the same time the logs still show the out of memory (OOM) killer striking every now and then. These instances should all get investigated. I am slacking.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-23.png" alt="Multiple instances of the out of memory killer striking." /></p>
-        
-        <p>Back in the old days, computers never had enough memories and so unused memory was swapped to disk. As this system is doing so well, that isn&rsquo;t necessary. So I guess what I&rsquo;d expect to see is that if memory starts running out, swap in and swap out should pick up. If the numbers are close to zero, that&rsquo;s good.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-28.png" alt="Swap shows some activity but I don&rsquo;t know what it means." /></p>
-        
-        <p>We&rsquo;re going to end the tour with the most useless of graphs: uptime. When I was young, long uptime was a sign of stability. Your system kept running for months and years. So much better than Windows! These days, I think a long uptime means that you&rsquo;re not upgrading the kernel when security issues come calling and that&rsquo;s bad.</p>
-        
-        <p><img loading="lazy" src="2026-10-30-sysadmin-29.png" alt="The graph shows that I rebooted the machine twice in the last four weeks. I&rsquo;m guessing this means I missed a few security updates!" /></p>
-        
-        <p>And that&rsquo;s it! System administration when nothing is happening. Let&rsquo;s hope it stays that way.</p>
-        
-        <p><a class="tag" href="/search/?q=%23Administration">#Administration</a></p>
-        
-        <p><strong>2026-10-31</strong>. Sean Connor wrote in to tell me about SYN flooding from Brazil and how to block it (<a href="https://boston.conman.org/2026/01/28.2">I still don&rsquo;t understand this SYN attack, but now I can block it easily</a>) and how it was a Brazilian tech firm (<a href="https://boston.conman.org/2026/05/04.1">For now, one last time with the Brazilian SYN attacks</a>).
-        He said one should never expect too many connections in SYN state. When I just checked, I had 15. Now I have 6. So the list is small.</p>
-        
-        <pre><code>netstat -an|grep SYN
-        </code></pre>
-        
-        <p>I don&rsquo;t think I want to install <a href="https://github.com/spc476/mod_limitipconn/tree/main">mod_limitipconn</a> which limit the maximum number of simultaneous connections per IP address.</p>
-        
-        <p>And he also mentioned a strange HTTP header rewrite he does (<a href="https://boston.conman.org/2025/09/26.2">Oh, it&rsquo;s a bug on my side that prevents full conditional requests</a>) to allow feed readers to do conditional requests (the ones where an unchanged resource doesn&rsquo;t get downloaded but a 304 is returned).</p>]]>
-      </description>
-      <source:markdown># 2026-10-30 Sysadmin day
-
-&#62; My wife is looking at graphs of our electricity use and our warm water use, and I’m looking at the Munin graphs of our server.
-
-Is there something I could learn from looking at my [public Munin graphs](https://korero.org/munin/paraelectrobombus/paraelectrobombus/index.html), even without an incident, perhaps over longer time periods? Let’s see.
-
-I’m counting Apache connections because at one point I was trying to understand whether my server was being overwhelmed by many connections and if I needed to fiddle with the many configuration options of the web server.
-
-![Apache connections over one month. Two weeks ago the number seems to have stabilized at 10 or less.](2026-10-30-sysadmin-1.png)
-
-I’m counting the hits on the garbage server because the idea is that bots get lured into the maze of pages generated by the garbage server so it’s a proxy for detected bots that fall for it. A high number of hits should not be a problem as it answers requests without disk access so it should be fast.
-
-![The hits on the garbage server appear to be stable at about 1 hit/second for the last three weeks.](2026-10-30-sysadmin-2.png)
-
-I’m also counting requests per status code because I’m interested in my server’s health and the quality of my links. What I generally look for is whether I get a lot of server errors (500+), a lot of missing pages (404), a lot of redirects (301–303) a lot of local cache hits (304), etc.
-
-![Hits per seconds, per HTTP status code. The high number of 301 responses (“moved permanently”) is a sign, I think, of bots that keep accessing old URLs that are being redirected and never updating their data. In other words, these days they are suspected AI scrapers.](2026-10-30-sysadmin-3.png)
-
-I’m also counting hits per domain to see if there are any spikes for a particular domain only. Domains I fear for are the GoToSocial subdomain, the git subdomain, and so on. Everything seems calm, at the moment.
-
-I also host three search engines and I’m just realizing that one of them has seen spikes nearly twice as high as the maximum hits on Emacs Wiki. That is a bit disconcerting. What happened?
-
-I’m assuming the spikes for the GoToSocial server happen when it comes back online after some downtime as the servers it is connected to start working on the queues. And the spikes on the git server happen when somebody checks out a project.
-
-![All the various domains served, with hits per second.](2026-10-30-sysadmin-4.png)
-
-I run an open video-conferencing server called Galène. I want to keep an eye on it in case somebody is starting to use it a lot. At the moment it looks as if it’s just me and my friends.
-
-![Last wee had a handful of spikes with up to four people connected. This is fine.](2026-10-30-sysadmin-5.png)
-
-I run an IRC server networked with the IRC servers of two friends. I want to keep an eye on the number of users and channels. I wouldn’t want the server to end up being a control server for malware.
-
-![The number of channels and users remained stable. Temporary drops reflect on the quality of our network, if anything.](2026-10-30-sysadmin-6.png)
-
-Now we’re moving on to resources. Disks first. I think the main fear is running out of disk space because logs are out of control. This is where the systemd journal shines. If log files are written to disk, `logrotate` needs to know about them. So installing a piece of software that is missed by `logrotate` is a problem. As long as you stay within the software of your distribution, and as long as any additional software you install uses systemd, you should be fine.
-
-![The graph is pretty stable, showing logs growing over each day and getting truncated again. And a huge jump two weeks ago, probably the backup of the GoToSocial database file (10G).](2026-10-30-sysadmin-7.png)
-
-I guess these days people don’t think about inode usage all that much any more. Back when servers carried all of USENET and every news article was a file, it was possible for a system to run out of inodes. It’s basically a limit on the number of files that can exist on a system. Still, I track them. Just to be sure.
-
-![The number of inodes is at less than 8%. Nothing to worry about.](2026-10-30-sysadmin-8.png)
-
-If the number of inodes keeps hovering around 8%, then the exact number of inodes doesn’t matter that much.
-This seems like a graph that I could remove.
-
-![The number of inodes used remains stable, too. There were two strange, temporary drops two weeks ago and I have no idea why this could have happened.](2026-10-30-sysadmin-27.png)
-
-Another strange graph is the one with the number of open files. Linux has a limit on the number of open files at any given point in time so I guess it’s important to see whether we’re close? `lsof | wc -l` shows nearly 20,000 right now. Then again, `sysctl fs.file-max` says 9223372036854775807 … so I guess this graph is also one I could remove.
-
-![The number of open files is stable at about 3000. I don’t understand how that relates to the 20,000 I mentioned above.](2026-10-30-sysadmin-26.png)
-
-This machine runs a mail server. Of course it does. But it’s local only. The daily mail you see is probably the net news server status. I guess I’m most afraid of some situation sending a gazillion mails and me not noticing it.
-
-![A small spike once per day, that’s it, for almost all days.](2026-10-30-sysadmin-9.png)
-
-The mail queue is important if mails cannot be sent. But if nobody is sending mail on this system, the queue should be empty, and it is.
-
-![Unsurprisingly, the mail queue itself is empty, too.](2026-10-30-sysadmin-9.png)
-
-The number of users is a measure in the same vein. It’s useless on a single user machine. On a shared machine, this graph would make sense. I guess I’m waiting for a second user to show up that I don’t recognize. I’ll know that the machine has been hacked, then. 😬
-
-![Most of the time nobody is logged in. Sometimes one person is logged in (me). Sometimes more, all of them being me.](2026-10-30-sysadmin-25.png)
-
-Measuring the resources spent by Munin to produce the graphs is a kind of insurance against writing a plugin that hurts. I guess we’re doing fine?
-
-![Munin processing time stays at about 18 seconds per month, with a tiny day cycle. I’m assuming when the current log file is short in the morning, some plugins finish faster than at the end of the day when the logs are long.](2026-10-30-sysadmin-10.png)
-
-The firewall throughput measures the amount of data that is actually sent, via all ports. This could be interesting to detect exfiltration or bots repeatedly downloading huge files. That would have to stop, of course.
-
-![Firewall throughput shows a small number of spikes last week. I did not investigate. Whatever it was, it’s now over.](2026-10-30-sysadmin-11.png)
-
-I’m not quite sure what to do with net stats. I guess some sort of denial of service might show up here? I have no idea.
-
-![The net stats seem to be stable even if I don’t know what it means to me. The failed and reset TCP connections are very low. So I guess we’re fine.](2026-10-30-sysadmin-13.png)
-
-We’re getting to one of the important graphs regarding the bots, I think. Ever since the server got an upgrade, and perhaps ever since I installed the botcheck defence, average system load has been under control. What hasn’t been under control is the number of autonomous systems that I’m banning. For more about this, see my [Butlerian Jihad](https://transjovian.org/view/fighting-bots/index) page.
-
-Note: Each autonomous system manages multiple IP address ranges and each IP address range contains many IP addresses. Each autonomous system belongs to an organisation involved in managing Internet traffic. Sometimes an organisation is an Internet service provider (ISP), either for residential or commercial subscribers. Sometimes an organisation belongs to an even bigger company (who else but Amazon, Meta, Google, Microsoft and all the other tech giants). In any case, banning an autonomous system can hit many innocent people: an autonomous system that serves both users of virtual private networks (VPNs) and bots; big companies hosting both individuals and bots; and so on. The solution is forced upon me, however, since the bots are trying to evade blocks by using a gazillion IP addresses. Blocking them individually results in huge firewall sets and it’s inefficient because they don’t get reused all that often.
-
-![Four weeks ago, over 8000 IP address ranges were blocked, now it’s less than 3000 IP address ranges.](2026-10-30-sysadmin-12.png)
-
-Back when the scraper bots overwhelmed the server on a regular basis, the problem the load average going up to 80 on a system with two virtual cores. Now I have four virtual cores and load stays far below that.
-
-![The load average is under control, safely below 1.](2026-10-30-sysadmin-24.png)
-
-I’m not sure what the fork rate means for me. When heavy processes fork, other resources spike immediately. So I guess we’re doing OK.
-
-![Fork rate is pretty constant at 4/second.](2026-10-30-sysadmin-15.png)
-
-If the fork rate is pretty much constant, the number of processes should also be pretty much constant. And that’s what I find, so I’m happy.
-
-![Apparently four weeks ago there were a number of zombie processes that were hanging around. I’m happy they are gone, now. Everything else seems to be constant, so good.](2026-10-30-sysadmin-20.png)
-
-I’m never quite sure about threads. Are they even used these days? “Workers” are not necessarily threads.
-If I’m counting processes, I should also keep an eye on threads. Hence this graph.
-Since there are no weird spikes, I guess we’re doing OK.
-
-![A stable number of threads that goes up and down over the course of each day. I have no idea why three and four weeks ago the number seemed to be higher.](2026-10-30-sysadmin-18.png)
-
-There used to be a time when my web apps based on the Mojolicious framework would spawn more workers as load went up.
-I guess now that load is under control, that rarely happens any more.
-
-![A list of processes, but almost all of them show just a single process being counted. Surprisingly, the max number of processes for Emacs Wiki was more than 12.](2026-10-30-sysadmin-17.png)
-
-Another measure of resource use is compute.
-In other words, CPU usage.
-
-![CPU usage is extremely low these days. The numbers can go up to 400% because I have four (virtual) cores available.](2026-10-30-sysadmin-21.png)
-
-I also try to identify the processes that use the most resources. I’m looking for spikes.
-Most of the time it’s GoToSocial that’s using the most CPU. That seems fine.
-Apache is acting as the reverse proxy for all web services.
-Fail2ban is managing the firewall.
-Everything seems fine.
-
-![A huge list of processes with GoToSocial showing daily spikes.](2026-10-30-sysadmin-14.png)
-
-And yet another resource is, of course, memory. Specially with RAM prices being what they are!
-In my case, I think my machine is doing pretty well.
-
-![The memory usage shows about half a gigabyte of eight unused and nearly four gigabytes used for caching. This system is far too powerful for my use.](2026-10-30-sysadmin-22.png)
-
-The graph for memory use is used to find applications that seem to have memory leaks.
-Sadly, once you’ve identified the application, it’s not entirely clear how to fix those memory leaks.
-Right now, I don’t see any suspicious candidate, though. I do get the impression that some applications don’t want to relinquish the memory that they have, like Traveller. Do I still have circular data structures resulting in memory leaks?
-
-![A log list of processes, with GoToSocial clearly dominating memory use, and surprisingly, The Lounge on second place.](2026-10-30-sysadmin-16.png)
-
-Above, I used percentage of memory for processes to see. And here’s the RSS. Measuring memory consumption under Linux is hard.
-
-![Another long list of processes. A least the memory use here does not contradict the MEM graph above.](2026-10-30-sysadmin-19.png)
-
-And yet! And yet. Everything looks great but at the same time the logs still show the out of memory (OOM) killer striking every now and then. These instances should all get investigated. I am slacking.
-
-![Multiple instances of the out of memory killer striking.](2026-10-30-sysadmin-23.png)
-
-Back in the old days, computers never had enough memories and so unused memory was swapped to disk. As this system is doing so well, that isn’t necessary. So I guess what I’d expect to see is that if memory starts running out, swap in and swap out should pick up. If the numbers are close to zero, that’s good.
-
-![Swap shows some activity but I don’t know what it means.](2026-10-30-sysadmin-28.png)
-
-We’re going to end the tour with the most useless of graphs: uptime. When I was young, long uptime was a sign of stability. Your system kept running for months and years. So much better than Windows! These days, I think a long uptime means that you’re not upgrading the kernel when security issues come calling and that’s bad.
-
-![The graph shows that I rebooted the machine twice in the last four weeks. I’m guessing this means I missed a few security updates!](2026-10-30-sysadmin-29.png)
-
-And that’s it! System administration when nothing is happening. Let’s hope it stays that way.
-
-[#Administration](/search/?q=%23Administration)
-
-**2026-10-31**. Sean Connor wrote in to tell me about SYN flooding from Brazil and how to block it ( [I still don’t understand this SYN attack, but now I can block it easily](https://boston.conman.org/2026/01/28.2)) and how it was a Brazilian tech firm ( [For now, one last time with the Brazilian SYN attacks](https://boston.conman.org/2026/05/04.1)).
-He said one should never expect too many connections in SYN state. When I just checked, I had 15. Now I have 6. So the list is small.
-
-```
-netstat -an|grep SYN
-
-```
-
-I don’t think I want to install [mod\_limitipconn](https://github.com/spc476/mod_limitipconn/tree/main) which limit the maximum number of simultaneous connections per IP address.
-
-And he also mentioned a strange HTTP header rewrite he does ( [Oh, it’s a bug on my side that prevents full conditional requests](https://boston.conman.org/2025/09/26.2)) to allow feed readers to do conditional requests (the ones where an unchanged resource doesn’t get downloaded but a 304 is returned).</source:markdown>
-      <guid>cid://https://alexschroeder.ch/view/2026-10-30-sysadmin</guid>
-      <category>Administration</category>
-      <pubDate>Sat, 31 Oct 2026 22:35:33 +0000</pubDate>
-    </item>    <item>
-      <title>Not Moving the Needle, Anywhere</title>
-      <link>https://heathercoxrichardson.substack.com/p/not-moving-the-needle-anywhere</link>
-      <description>
-        <![CDATA[To read this letter, click here:]]>
-      </description>
-      <source:markdown>To read this letter, click here:</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/222967735/ae870c91e2bff44a66c8d9fa518e8938.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/not-moving-the-needle-anywhere</guid>
-      <pubDate>Sat, 31 Oct 2026 22:08:41 +0000</pubDate>
-    </item>    <item>
-      <title>My podcast with John Philpin</title>
-      <link>https://andysylvester.com/2026/10/31/my-podcast-with-john-philpin/</link>
-      <description>
-        <![CDATA[I recently recorded a podcast with my friend John Philpin, where we talked about our projects on the IndieWeb and the current state of AI &#8211; give it a listen!]]>
-      </description>
-      <source:markdown>I recently recorded a podcast with my friend John Philpin, where we talked about our projects on the IndieWeb and the current state of AI – give it a listen!</source:markdown>
-      <guid>cid://https://andysylvester.com/?p=4652</guid>
-      <category>Micro.Blog</category>
-      <category>Podcasting</category>
-      <pubDate>Sat, 31 Oct 2026 21:27:20 +0000</pubDate>
-    </item>    <item>
-      <link>https://andysylvester.com/2026/10/31/4648/</link>
-      <description>
-        <![CDATA[modeorg.org: a human guide to Org mode (via Emacs News) &#8211; a 30 day guide to learning the Org Mode feature within Emacs &#8211; I will give this a try to see how it compares to my site Org Mode for Beginners.]]>
-      </description>
-      <source:markdown>modeorg.org: a human guide to Org mode (via Emacs News) – a 30 day guide to learning the Org Mode feature within Emacs – I will give this a try to see how it compares to my site Org Mode for Beginners.</source:markdown>
-      <guid>cid://https://andysylvester.com/?p=4648</guid>
-      <category>Emacs</category>
-      <category>Micro.Blog</category>
-      <category>Org-mode</category>
-      <pubDate>Sat, 31 Oct 2026 21:22:09 +0000</pubDate>
-    </item>    <item>
-      <title>Halloween Monopoly</title>
-      <link>https://robertreich.substack.com/p/halloween-monopoly</link>
-      <description>
-        <![CDATA[Friends,]]>
-      </description>
-      <source:markdown>Friends,</source:markdown>
-      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/txptgvBe4_U" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/halloween-monopoly</guid>
-      <pubDate>Sat, 31 Oct 2026 21:01:11 +0000</pubDate>
-    </item>    <item>
-      <title>RIP Bill Nordhaus</title>
-      <link>https://paulkrugman.substack.com/p/rip-bill-nordhaus</link>
-      <description>
-        <![CDATA[A giant of economics and my first great mentor]]>
-      </description>
-      <source:markdown>A giant of economics and my first great mentor</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!3gnN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4d14bf8-0bd6-4b4e-b57d-5a36c3a9d67d_1260x840.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/rip-bill-nordhaus</guid>
-      <pubDate>Sat, 31 Oct 2026 18:52:18 +0000</pubDate>
-    </item>    <item>
-      <link>https://bsky.app/profile/barackobama.bsky.social/post/3mz6pt2ux5c2e</link>
-      <description>
-        <![CDATA[Don’t boo, vote! 
-        
-        There’s nothing scarier than not voting. Enjoy Halloween, but make sure you have a plan to vote on November 3rd.]]>
-      </description>
-      <source:markdown>Don’t boo, vote!
-
-There’s nothing scarier than not voting. Enjoy Halloween, but make sure you have a plan to vote on November 3rd.</source:markdown>
-      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3mz6pt2ux5c2e</guid>
-      <pubDate>Sat, 31 Oct 2026 16:31:00 +0000</pubDate>
-    </item>    <item>
-      <title>Paperweights and Cosmonauts</title>
-      <link>https://thebrowser.com/free/paperweights-and-cosmonauts/</link>
-      <description>
-        <![CDATA[Today, enjoy our audio and video picks]]>
-      </description>
-      <source:markdown>Today, enjoy our audio and video picks</source:markdown>
-      <guid>cid://6ae5b8f151c5300001f08f93</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Blessing of the Animals</title>
-      <link>https://www.thesunmagazine.org/articles/611-blessing-of-the-animals</link>
-      <description>
-        <![CDATA[“Far be it from me,” Thom said, downing his tequila, “to tell you what you can and cannot do. You want to marry a monk? Fine. You want to divorce him later? That’s OK too. You have the right.”]]>
-      </description>
-      <source:markdown>“Far be it from me,” Thom said, downing his tequila, “to tell you what you can and cannot do. You want to marry a monk? Fine. You want to divorce him later? That’s OK too. You have the right.”</source:markdown>
-      <enclosure url="https://www.thesunmagazine.org/ext/resources/2026/11_611/611-18-harley-preview.webp?t=1792626115" length="1439838" type="image/jpeg" />
-      <guid>cid://http://www.thesunmagazine.org/articles/29090</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Rare Species</title>
-      <link>https://www.thesunmagazine.org/articles/611-rare-species</link>
-      <description>
-        <![CDATA[I walked back to my sister’s room and stood in the doorway and listened to her breathe. Maybe some of those seahorse facts weren’t even true.]]>
-      </description>
-      <source:markdown>I walked back to my sister’s room and stood in the doorway and listened to her breathe. Maybe some of those seahorse facts weren’t even true.</source:markdown>
-      <enclosure url="https://www.thesunmagazine.org/ext/resources/2026/11_611/611-44-soto-preview.webp?t=1792626115" length="1415338" type="image/jpeg" />
-      <guid>cid://http://www.thesunmagazine.org/articles/29089</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Too Much</title>
-      <link>https://www.thesunmagazine.org/articles/611-too-much</link>
-      <description>
-        <![CDATA[Stuff for one apartment, food for one stomach, milk for one baby]]>
-      </description>
-      <source:markdown>Stuff for one apartment, food for one stomach, milk for one baby</source:markdown>
-      <enclosure url="https://www.thesunmagazine.org/ext/resources/2026/11_611/611-32-woolf-preview.webp?t=1792626115" length="1155728" type="image/jpeg" />
-      <guid>cid://http://www.thesunmagazine.org/articles/29087</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>The Love of Men</title>
-      <link>https://www.thesunmagazine.org/articles/611-the-love-of-men</link>
-      <description>
-        <![CDATA[I sleep with Oliver because, after my mum’s death, I feel like I’m wandering about naked in the middle of a market while fully clothed people haggle and shout in a language I don’t speak; I feel like I’ve had an umbrella over my head all my life, and suddenly that umbrella has been yanked away.]]>
-      </description>
-      <source:markdown>I sleep with Oliver because, after my mum’s death, I feel like I’m wandering about naked in the middle of a market while fully clothed people haggle and shout in a language I don’t speak; I feel like I’ve had an umbrella over my head all my life, and suddenly that umbrella has been yanked away.</source:markdown>
-      <enclosure url="https://www.thesunmagazine.org/ext/resources/2026/11_611/611-40-esene-preview.webp?t=1792626115" length="1274214" type="image/jpeg" />
-      <guid>cid://http://www.thesunmagazine.org/articles/29085</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>The Many Deaths of George Armstrong Custer</title>
-      <link>https://www.thesunmagazine.org/articles/611-the-many-deaths-of-george-armstrong-custer</link>
-      <description>
-        <![CDATA[In popular tradition General Custer was the last to die, though there is no way to know the final sequence of events. He reportedly had been shot twice: once in the left temple and once just below the heart.]]>
-      </description>
-      <source:markdown>In popular tradition General Custer was the last to die, though there is no way to know the final sequence of events. He reportedly had been shot twice: once in the left temple and once just below the heart.</source:markdown>
-      <enclosure url="https://www.thesunmagazine.org/ext/resources/2026/11_611/611-14-hood-preview.webp?t=1793115951" length="317310" type="image/jpeg" />
-      <guid>cid://http://www.thesunmagazine.org/articles/29084</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Purple and Yellow and Green and Red</title>
-      <link>https://www.thesunmagazine.org/articles/611-purple-and-yellow-and-green-and-red</link>
-      <description>
-        <![CDATA[I picture her. That slight eighteen-year-old. Standing at dawn by the side of the highway. Thinking anything, anything would be better than staying in the house behind her.]]>
-      </description>
-      <source:markdown>I picture her. That slight eighteen-year-old. Standing at dawn by the side of the highway. Thinking anything, anything would be better than staying in the house behind her.</source:markdown>
-      <enclosure url="https://www.thesunmagazine.org/ext/resources/2026/11_611/611-30-hendrickson-preview.webp?t=1792626114" length="895819" type="image/jpeg" />
-      <guid>cid://http://www.thesunmagazine.org/articles/29083</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Red Light, Green Light</title>
-      <link>https://www.thesunmagazine.org/articles/611-red-light-green-light</link>
-      <description>
-        <![CDATA[“Consent issues,” I called it instead, as if what had happened to my body were a chasm I could bridge with language.]]>
-      </description>
-      <source:markdown>“Consent issues,” I called it instead, as if what had happened to my body were a chasm I could bridge with language.</source:markdown>
-      <enclosure url="https://www.thesunmagazine.org/ext/resources/2026/11_611/611-26-butcher-preview.webp?t=1792626113" length="855017" type="image/jpeg" />
-      <guid>cid://http://www.thesunmagazine.org/articles/29082</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Here at the Summer’s End</title>
-      <link>https://www.thesunmagazine.org/articles/611-here-at-the-summers-end</link>
-      <description>
-        <![CDATA[When we heard the call of the river, / you would crouch yourself low, / let the water creep up your pant legs, / your hands searching the bed for stones]]>
-      </description>
-      <source:markdown>When we heard the call of the river, / you would crouch yourself low, / let the water creep up your pant legs, / your hands searching the bed for stones</source:markdown>
-      <guid>cid://http://www.thesunmagazine.org/articles/29081</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Mourning Wear</title>
-      <link>https://www.thesunmagazine.org/articles/611-mourning-wear</link>
-      <description>
-        <![CDATA[You knew from afar / someone had experienced loss, / bowed your head low for the hook-knifed / room in their heart]]>
-      </description>
-      <source:markdown>You knew from afar / someone had experienced loss, / bowed your head low for the hook-knifed / room in their heart</source:markdown>
-      <guid>cid://http://www.thesunmagazine.org/articles/29080</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Inheritance I</title>
-      <link>https://www.thesunmagazine.org/articles/611-inheritance-i</link>
-      <description>
-        <![CDATA[Midnight, / I got around to kicking the empty moving boxes / all over the apartment, and crying, and loathing / God with all his twisted families.]]>
-      </description>
-      <source:markdown>Midnight, / I got around to kicking the empty moving boxes / all over the apartment, and crying, and loathing / God with all his twisted families.</source:markdown>
-      <guid>cid://http://www.thesunmagazine.org/articles/29079</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Sunbeams</title>
-      <link>https://www.thesunmagazine.org/articles/611-sunbeams</link>
-      <description>
-        <![CDATA[I have always thought of all creatures—all organisms, really—as relations. Whether wandering alone in deep wilderness or just leaning against a tree growing beside an urban sidewalk, I have had no difficulty feeling, as if in dreamtime, the roots of our relatedness—ecologically, yes, but also with an overlay of the sacred, the holy. Lyanda Lynn Haupt]]>
-      </description>
-      <source:markdown>I have always thought of all creatures—all organisms, really—as relations. Whether wandering alone in deep wilderness or just leaning against a tree growing beside an urban sidewalk, I have had no difficulty feeling, as if in dreamtime, the roots of our relatedness—ecologically, yes, but also with an overlay of the sacred, the holy. Lyanda Lynn Haupt</source:markdown>
-      <enclosure url="https://www.thesunmagazine.org/ext/resources/2026/11_611/611-49-roy-preview.webp?t=1792626115" length="1241832" type="image/jpeg" />
-      <guid>cid://http://www.thesunmagazine.org/articles/29078</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>A Thousand Words</title>
-      <link>https://www.thesunmagazine.org/articles/611-a-thousand-words</link>
-      <description>
-        <![CDATA[A Thousand Words features photography so rich with narrative that it tells a story all on its own.]]>
-      </description>
-      <source:markdown>A Thousand Words features photography so rich with narrative that it tells a story all on its own.</source:markdown>
-      <enclosure url="https://www.thesunmagazine.org/ext/resources/2026/11_611/611-24-cartwright-preview.webp?t=1792626114" length="1202003" type="image/jpeg" />
-      <guid>cid://http://www.thesunmagazine.org/articles/29077</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Correspondence</title>
-      <link>https://www.thesunmagazine.org/articles/611-correspondence</link>
-      <description>
-        <![CDATA[As I read Debra Gwartney’s essay “Believe Me” [August 2026], I found myself saddened, horrified, and enraged all at once. I gasped as she described what that teenage boy did to her when she was just a child of seven in her flower-girl dress. She writes, “Tell me, please, that there’s still time and opportunity to inhabit the tone of authority and self-possession I hear from other women.” Although I didn’t always possess those traits either, I strive to be one of those vocal women that Gwartney admires. A.A.Otis, Oregon]]>
-      </description>
-      <source:markdown>As I read Debra Gwartney’s essay “Believe Me” \[August 2026\], I found myself saddened, horrified, and enraged all at once. I gasped as she described what that teenage boy did to her when she was just a child of seven in her flower-girl dress. She writes, “Tell me, please, that there’s still time and opportunity to inhabit the tone of authority and self-possession I hear from other women.” Although I didn’t always possess those traits either, I strive to be one of those vocal women that Gwartney admires. A.A.Otis, Oregon</source:markdown>
-      <guid>cid://http://www.thesunmagazine.org/articles/29075</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Contributors</title>
-      <link>https://www.thesunmagazine.org/articles/611-contributors</link>
-      <description>
-        <![CDATA[Sarah Blodgett lives in the wilds of northwestern Connecticut. The fox kit on this month’s cover was one of seven born under a brush pile in her neighbor’s garden. After getting permission to set up a blind, she was able to hide and photograph the little ones while sipping her morning coffee. More]]>
-      </description>
-      <source:markdown>Sarah Blodgett lives in the wilds of northwestern Connecticut. The fox kit on this month’s cover was one of seven born under a brush pile in her neighbor’s garden. After getting permission to set up a blind, she was able to hide and photograph the little ones while sipping her morning coffee. More</source:markdown>
-      <enclosure url="https://www.thesunmagazine.org/ext/resources/Website/Archive/Sections/Contributors/611-cover-blodgett-preview.webp?t=1792626278" length="511799" type="image/png" />
-      <guid>cid://http://www.thesunmagazine.org/articles/29074</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/117536349573617839</link>
-      <description>
-        <![CDATA[<p>More:</p>]]>
-      </description>
-      <source:markdown>More:</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/117536349573617839</guid>
-      <pubDate>Sat, 31 Oct 2026 15:59:25 +0000</pubDate>
-    </item>    <item>
-      <title>Report from the Vatican</title>
-      <link>https://garymarcus.substack.com/p/report-from-the-vatican</link>
-      <description>
-        <![CDATA[Yesterday I had the singular honor of meeting His Holiness, Pope Leo XIV]]>
-      </description>
-      <source:markdown>Yesterday I had the singular honor of meeting His Holiness, Pope Leo XIV</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!EXqt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3dc06322-70f4-4764-ab20-ab2af2b7881f_1606x1044.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://garymarcus.substack.com/p/report-from-the-vatican</guid>
-      <pubDate>Sat, 31 Oct 2026 15:17:33 +0000</pubDate>
-    </item>    <item>
-      <title>Pluralistic: Formalities (31 Oct 2026)</title>
-      <link>https://pluralistic.net/2026/10/31/burn-berne/</link>
-      <description>
-        <![CDATA[Today's links Formalities: When it comes to AI, the Copyright Office is restoring copyright to its proper status, as something you have to work to get. Hey look at this: Delights to delectate. Object permanence: GWB x martial law; Li'l Sparky; Dueling Starbuckses; Microsoft buys Skype (does fuckery); Bieber v SOPA; SOPA is the worst; Snowden x rule of law; "Laserwriter II"; Russia v DST; Class war funnies; Minnesota's miracle; Icelandic women v sexism; Image analogies; Aussie DMCA ratfucked; "Authorised Domain"; Sales tax is regressive; Prince Charles's secret veto; Wells Fargo blackballed workers for refusing to crime; Poe read by Vincent Price and Basil Rathbone; Put it back!; The internet was made for privacy. Upcoming appearances: Kilkenny, Courtenay, Vancouver, Folkestone, Oxford, Sheffield, Virtual, Oxford, Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Formalities (permalink) It's not often that I find myself on the same side as the US Copyright Office. In fact, I think this is the first time in 25 years that I've found myself cheering on the office's official actions as good for art and good for free expression, taking the side of creative workers over our bosses. The source of our miraculous accord: the US Copyright Office's position on AI. The CO has taken the (entirely correct) position that copyright law exists to incentivize human acts of creative expression, which means that only works of human authorship are eligible for copyright. This isn't a controversial position within legal circles. But for media executives, this is shocking; absurd, even. This gap between the industrial and the legal understanding of copyright comes from a fundamental difference over the evocatively named legal doctrine of "sweat of the brow." "Sweat of the brow" is fundamental to a correct legal understanding of copyright. Copyright rewards and protects creativity but it does not protect hard work. You can labor for ten years over a phone book listing the numbers of every person in a town and (as a collection of uncopyrightable facts) it will receive no protection at all. Zero. Zilch. Anyone can copy and sell that phone book: https://en.wikipedia.org/wiki/Feist_Publications,_Inc._v._Rural_Telephone_Service_Co. Copyright law doesn't care if you slaved over that collection of facts, if you missed sleep and your kids' little league games to realize your grand vision. Copyright law doesn't care if you plowed every cent into it, remortgaging your home and cashing in your (already resentful) kids' college funds. But: if you dash off a haiku in ten seconds while sitting on the toilet, shove it into your pocket and forget about it, and then your (still resentful) kids discover that crumpled haiku after your (highly suspicious) death, your kids will be able to claim a full 70 years' worth of copyright over that forgotten triviality (the term of copyright for works of human authorship is life plus 70 years). This is the uncontroversial and universally accepted legal understanding of copyright: all the copyright in the world for creative acts, no copyright at all for mere acts of labor. The "sweat of the brow" has nothing to do with a work's eligibility for copyright. But no media boss believes this. For media bosses, copyright is a pseudo-property† right, designed and operated to protect their bottom line. The point of copyright isn't to incentivize creativity, but rather investment. † Or not-so-pseudo There's obviously a relationship between creative acts and acts of investment, but it's possible to create without investment (see: your haiku) and it's possible to invest without creativity (see: your phone book). And once again, the creativity that copyright protects is human creativity. This is a lesson that David Slater learned the hard way. Slater is a professional wildlife photographer and amateur monkey-trainer who combined his interests by teaching Celebes crested macaque monkeys to take selfies. But when Slater published a monkey's selfie others copied and distributed the image without his permission, on the (entirely legally correct) basis that monkeys are not humans, and that means that works created by monkeys don't get a copyright. This was also the Copyright Office's position, and the position of the Ninth Circuit Court of Appeals: https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute This is the basis for the US Copyright Office's repeated decision to refuse to extend copyright to AI-generated works. An algorithm is even less human than a monkey, so if you can't get copyright over a monkey selfie, you definitely can't copyright your chatbot's slop. The US Copyright Office has successfully defended this position in multiple courts, triumphing over plaintiffs who were so persistent that they even got the Supreme Court to weigh in on the issue (the Supremes decided the case didn't warrant their attention): https://pluralistic.net/2026/03/03/its-a-trap-2/#inheres-at-the-moment-of-fixation AI slop isn't copyrightable, but there can be copyrightable elements in an AI-generated image. The most obvious element is the prompt. So long as your prompt contains some quantum of creativity (e.g. "Make me a beautiful flower whose loveliness is reminiscent of a newborn baby", but not "make me a beautiful flower"), that prompt is copyrightable. That means you can use copyright to challenge others' rights to present the same prompt to a chatbot. But while the prompt can be copyrighted, the image it gives rise to isn't. So you can spend a month iteratively refining your prompt, consuming all your town's water along with 200,000 gallons of diesel and that prompt will be yours for your life plus 70 years, but the image it generates is in the public domain, and anyone can copy it, sell it or give it away. There are other ways that copyright can find its way into AI-generated material. You can make creative edits to it: if you output a slop novel and rewrite various sentences (providing those rewrites involve some creativity and not just mechanical corrections or word substitutions), then the edited sentences become copyrighted works, even though all the rest of the text remains uncopyrightable. You can also get a "thin" copyright through selection. If you get your chatbot to output many images based on your prompt and choose your favorite, your selection can confer a tiny bit of copyright over that creative act of selection, but it will be harder to defend than even the other (attenuated and highly specific) forms of copyright. Now, perhaps you've spotted an administrative problem lurking in this turn of events. How can someone else know what part of a work is AI-generated (and thus in the public domain) and which parts are human-edited/contributed (and thus copyrighted)? Just as importantly, how can you prove which parts of your work are not AI-generated and thus eligible for copyright protection. This gets especially gnarly when you're dealing with complex media. In an animation, an AI might do the rigging and movement for a human-created sprite. The sprite is copyrightable, but its movements aren't. That would mean that I could remap your sprite's movements onto a different sprite without infringing your copyright. Or say the sprite and its movements are human created (and thus copyrighted), but the backgrounds are procedurally generated? I could take those backgrounds and put new animations overtop of them. The simplest, most reliable way to ensure the works you invest in are fully and entirely eligible for copyright is to just use humans for the whole project. Declare a "no-AI policy," and hire human artists to produce the works you hope to sell. Monitor their activity to ensure they're not using AI. Keep good records. Now, as much as I like the idea that we've arrived at a copyright law that insists that a company can only get exclusive rights to its products by paying human artists to make them from end-to-end, I don't think that's likely to be the way it shakes out, but that doesn't mean that this is a wash for artists. The reality is that copyright claims are always "fact-intensive inquiries" that are expensive to litigate and difficult to adjudicate. It's completely normal for copyright lawsuits to turn on documentary evidence gleaned from fragmentary records. This is simply intrinsic to copyright, because copyright is a doctrine that requires judges to assess whether things are "creative" and "original" as though these were freestanding categories that everyone could agree upon. Of course, the rules of copyright can make this harder or easier. One way in which the rules make deciding copyright cases much, much harder is copyright's broad prohibition on "formalities" ("formalities" is how copyright wonks refer to "red tape" or "paperwork"). For nearly all of American history, copyright ran on a key formality: deposit, registration and notice. To secure a copyright for a new work, an artist (or their employer) had to send a copy of that work to the Library of Congress (deposit), along with paperwork detailing the claim of authorship (who made this, what parts of it did they make) (registration) and they had to display a copyright notice that told you who held the copyright to every work that was registered (notice). Both the filing and the notice required careful attention and precision, and screwing either one up could result in your losing your copyright. It's an open secret among copyright scholars that Walt Disney screwed this up with the first Mickey cartoons, meaning they've been in the public domain since their release: https://web.archive.org/web/20080725055415/http:/homepages.law.asu.edu/~dkarjala/opposingcopyrightextension/publicdomain/HedenkampFreeMickeyMouseVaSp&#038;E(2003).htm This system of copyright formalities meant that you could always tell whether a work was copyrighted, you could always find out who claimed the copyright over it, and which parts of the work were claimed under copyright and under what basis. What's more, formalities created the Library of Congress, since the LoC acted as America's "copyright deposit" library, holding deposit copies of every work that had ever been issued a US copyright. The US system of formalities was descended from the English system, in which the Stationers' Guild used a copyright registry to establish who had the rights to which books. But there were competing copyright systems, notably the "continental" system that was codified through the Berne Convention, a copyright treaty drafted by Victor Hugo (yes, that Victor Hugo). Among other things, the Berne Convention abolished formalities. Much of the world adopted Berne, but the US held out until 1976. With the 1976 Copyright Act, Congress brought the US into compliance with Berne, abolishing formalities in the USA. As a compromise, the 1976 Act requires US authors to register their copyrights in order to obtain "statutory damages" (up to $150,000 per work). That's a pretty good incentive, but even with that incentive, the vast majority &#8211; far in excess of 99.999999999999999999999999999999999999999% &#8211; of all copyrighted works are not registered with the Copyright Office. They are born copyrighted from the moment they are "fixed in a tangible medium" until 70 years after their authors die. But without registration, you can't know when that copyright clock started ticking because you have no way to verify who the author of the work is. This not only makes it incredibly difficult to establish the copyright status of nearly every copyrighted work, but it also means that in nearly every case, you can't readily determine who you should approach if you want to pay them for a copyright license. Abolishing formalities has created a universe of orphan works: everything from napkin doodles to kindergartners' finger paintings to message board posts. Within that universe is a kind of gaseous cloud that, if condensed, would come out to an infinitesimal planetoid, representing the entirety of commercial works whose authors give a damn about their copyright status. It's a bad, bad system. This system doesn't do away with the need to keep careful records: like I said, copyright disputes usually require the close examination of documentary evidence. What formality abolition accomplished was the destruction of the regular system of record-keeping: rather than having a standard, universally agreed-upon way to determine the status and resolve disputes about a copyrighted work, now we have the scattershot, incoherent system that makes copyright disputes far more likely (because no one knows who to approach for copyright licenses) and far more difficult to resolve (because there's no registry of copyrighted works). Which brings me back to the question of AI and copyright. If a firm uses some AI in its work, it's going to need to document that very carefully. Firms that don't keep very close track of the elements of their products that come from AI will have a far harder time defending their commercial interests. Basically, we're about to recreate formalities, but managed by the private sector. To the extent that companies use AI in their work, they are going to have to track every pixel and every word and every note that is output by an AI system, and which parts were added or edited by humans after creation. That means that companies that want to protect their commercial interests aren't just going to get more protection based on how much work they get humans to do; they're also going to have to treat copyright's government-enforceable monopoly over expressive speech with the gravitas it deserves: not something you get automatically, but something you have to do real administrative work for. Hey look at this (permalink) Adam Conover: Big Divorce Energy https://www.youtube.com/watch?v=CVB-SUX7zgk Voting machines left unattended, as usual https://blog.citp.princeton.edu/2026/10/27/voting-machines-left-unattended-as-usual/ In China, the AI bubble has already burst https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/ No one loves you more than Exxon https://www.youtube.com/watch?v=yJyQXGynwsgz "The Bottle Imps" — new short fiction by Rudy Rucker and Bruce Sterling https://boingboing.net/2026/10/30/the-bottle-imps-rudy-rucker-bruce-sterling.html Object permanence (permalink) #25yrsago Slushpiles v anthrax https://memex.craphound.com/2001/10/29/some-publishers-have-instituted-new/ #25yrsago Image analogies https://mrl.cs.nyu.edu/projects/image-analogies/ #25yrsago Cleaning the Fucking Kitchen for Dummies https://web.archive.org/web/20011007082222/https://www.fridgemagnet.org.uk/kitchen.html #20yrsago Last minute changes snuck into Aussie DMCA https://web.archive.org/web/20061104133320/https://www.eff.org/deeplinks/archives/004975.php #20yrsago Creative Commons 3.0 license drafts published https://creativecommons.org/2006/10/30/version30revisedlicensedrafts/ #20yrsago Bush legalizes martial law https://politics.slashdot.org/story/06/10/28/1934208/bush-signs-bill-enabling-martial-law #20yrsago No blogging allowed at “consumer generated media” conference https://web.archive.org/web/20061108055635/http://gregverdino.typepad.com/greg_verdinos_blog/2006/10/social_media_fi.html #20yrsago Li'l Sparky: miniature 9V electric chair https://www.flickr.com/photos/84221353@N00/281833134/in/pool-make/ #20yrsago New Starbucks stores to open across the street from each other https://www.spokesman.com/stories/2006/oct/29/starbucks-buzzes-along-with-expansion/ #15yrsago HOWTO defend yourself against tear-gas https://web.archive.org/web/20111030230740/http://www.stumbleupon.com/su/5Fe8Ye/motherjones.com/mojo/2011/10/ows-flier-defending-against-tear-gas #15yrsago How to make a computer that doesn’t lock out GNU/Linux https://web.archive.org/web/20120113141447/https://www.linuxfoundation.org/sites/main/files/lf_uefi_secure_boot_open_platforms.pdf #15yrsago Microsoft buys Skype, attacks reverse engineer with bogus takedown notices and florid language https://www.phoronix.com/news/MTAwNzI #15yrsago Justin Bieber: senator who sponsored anti-streaming bill should be “locked up — put away in cuffs” https://arstechnica.com/tech-policy/2011/10/justin-bieber-streaming-bill-author-should-be-locked-up/ #15yrsago SOPA in depth: the worst-ever copyright proposal in US legislative history? https://www.eff.org/deeplinks/2011/10/sopa-hollywood-finally-gets-chance-break-internet #15yrsago Fresh German police-malware uncovered; everything the police said in defense to date revealed as lies https://www.ccc.de/en/updates/2011/analysiert-aktueller-staatstrojaner #15yrsago Russia dumps daylight savings https://www.bbc.com/news/world-europe-15512177 #15yrsago Class War funnies: 1935 Daily Worker comics https://philnel.com/2011/02/02/hoff_teeth/ #15yrsago Christian groups: we will bodily protect Occupy London from St Paul’s https://www.theguardian.com/uk/2011/oct/29/christians-defend-occupy-london-protest #15yrsago Dean of St Paul’s resigns over plan to evict OccupyLondon https://www.theguardian.com/uk/2011/oct/31/dean-st-pauls-resigns-occupy #15yrsago The future of the living room: Authorised Domain https://dn711102.ca.archive.org/0/items/Cory_Doctorow_Podcast_215/Cory_Doctorow_Podcast_215_Authorised_Domain.mp3 #15yrsago Sales tax is still regressive, gravity still sucks, and George Osborne is still a delusional ideologue https://www.bbc.com/news/business-15519727 #15yrsago Prince Charles exercises a secret veto over a wide swath of UK legislation https://www.theguardian.com/uk/2011/oct/30/prince-charles-offered-veto-legislation #15yrsago London cops recording movements &#38; association with mobile tracking device: “blanket &#38; indiscriminate” https://www.theguardian.com/uk/2011/oct/30/metropolitan-police-mobile-phone-surveillance #10yrsago The Shadow Brokers dump more intel from the NSA’s elite Equation Group https://medium.com/@shadowbrokerss/message-5-trick-or-treat-e43f946f93e6#.x2c36nsfq #10yrsago Wells Fargo blackballed employees who refused to commit fraud, forcing them out of the industry forever https://www.npr.org/sections/money/2016/10/28/499805238/episode-732-bad-form-wells-fargo #10yrsago Listen: free recordings of Edgar Allen Poe stories, read by Vincent Price and Basil Rathbone https://open.spotify.com/album/6xDmRcD6sgsGbDvBRpyH5H?play=true&#038;utm_source=open.spotify.com&#038;utm_medium=open #10yrsago How Minnesota’s governor performed an economic miracle by raising tax on the rich and increasing minimum wage https://www.huffpost.com/entry/mark-dayton-minnesota-economy_b_6737786 #10yrsago Icelandic women walk off the job 14% early to protest 14% pay-gap https://www.teenvogue.com/story/women-iceland-protest-gender-wage-gap #10yrsago Snowden to journalists: your best defense is legal limits on spying, not cryptography https://medium.com/global-editors-network/e-snowden-against-surveillance-journalists-engagement-more-efficient-than-encryption-dbfbacdf9463#.jd6u431fo #10yrsago After North Carolina Republicans banned cities selling internet, a town decided to give it away instead https://arstechnica.com/information-technology/2016/10/city-isp-makes-broadband-free-because-state-law-prohibits-selling-access/ #5yrsago LaserWriter II https://pluralistic.net/2021/10/29/norwegian-potato-flour-enchiladas/#r2r #5yrsago Now, Put It Back! https://pluralistic.net/2021/10/31/now-put-it-back/ #1yrago The internet was made for privacy https://pluralistic.net/2025/10/31/losing-the-crypto-wars/#surveillance-monopolism #1yrago When AI prophecy fails https://pluralistic.net/2025/10/29/worker-frightening-machines/#robots-stole-your-jerb-kinda Upcoming appearances (permalink) Kilkenny (Kilkenomics), Nov 6-8 https://kilkenomics.com/ Courtenay: Enshittification (Sid Williams Theatre Society), Nov 10 https://www.sidwilliamstheatre.com/events/cory-doctorow-talks-enshittification/ Vancouver: BC Policy Solutions Gala, Nov 12 https://bcpolicy.ca/gala/ Folkestone Writers Festival, Nov 16 https://www.creativefolkestone.org.uk/whats-on/cory-doctorow-the-internet-is-broken-now-what/ Oxford: Ministry of the Future, Nov 23 https://ministryforthefuture.co.uk/events.html Sheffield: Reverse Centaur at Juno Books, Nov 25 https://www.outsavvy.com/event/40274/cory-doctorow-in-conversation Virtual: Enshittification, AI, and the Future of Technology (UBC Master of Educational Technology), Nov 28 https://met.ubc.ca/2026/09/met-speaker-series-cory-doctorow-enshittification-ai-and-the-future-of-technology/ Oxford: Bennett Oxford Symposium on Open Code in Science, Dec 9 https://www.bennett.ox.ac.uk/events/2026-bennett-institute-symposium/ Montreal: World Science Fiction Convention, Sep 2-6 https://montreal2027.ca/en Recent appearances (permalink) Clint Eastwood (No Gods No Mayors) https://www.patreon.com/NoGodsNoMayors/posts/clint-eastwood-173008088 Life After AI (Brain Bar) https://www.youtube.com/watch?v=IPPa43-n0vI Terms of Service with Clare Duffy (CNN) https://www.cnn.com/audio/podcasts/terms-of-service-with-clare-duffy/episodes/458ce968-af5d-11f0-b539-13ed2afe25f8 AI, Work, and Power (Software Engineering Daily) AI, Work, and Power https://softwareengineeringdaily.com/podcasts/cory-doctorow-on-ai-work-and-power/ AI, Corporate Power, and the Fight for Worker Control (Plutopia) https://plutopia.io/cory-doctorow-ai-corporate-power-and-the-fight-for-worker-control/ Latest books (permalink) "The Reverse-Centaur's Guide to AI," a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/ "Canny Valley": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce "Enshittification: Why Everything Suddenly Got Worse and What to Do About It," Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ "Picks and Shovels": a sequel to "Red Team Blues," about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). "The Bezzle": a sequel to "Red Team Blues," about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). "The Lost Cause:" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). "The Internet Con": A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). "Red Team Blues": "A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before." Tor Books http://redteamblues.com. "Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) "The Post-American Internet," a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 "Unauthorized Bread": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 "Enshittification, Why Everything Suddenly Got Worse and What to Do About It" (the graphic novel), Firstsecond, 2027 "The Memex Method," Farrar, Straus, Giroux, 2027 Colophon (permalink) Today's top sources: Currently writing: “Once Is Enemy Action,” a science fiction novel about the origins of modern technofascism. Today's words: 504 (31359 total). "The Post-American Internet," a sequel to "Enshittification," about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor. A Little Brother short story about DIY insulin PLANNING This work &#8211; excluding any serialized fiction &#8211; is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic "When life gives you SARS, you make sarsaparilla" -Joey "Accordion Guy" DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies ("BOGUS AGREEMENTS") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X]]>
-      </description>
-      <source:markdown>Today&#39;s links Formalities: When it comes to AI, the Copyright Office is restoring copyright to its proper status, as something you have to work to get. Hey look at this: Delights to delectate. Object permanence: GWB x martial law; Li&#39;l Sparky; Dueling Starbuckses; Microsoft buys Skype (does fuckery); Bieber v SOPA; SOPA is the worst; Snowden x rule of law; &#34;Laserwriter II&#34;; Russia v DST; Class war funnies; Minnesota&#39;s miracle; Icelandic women v sexism; Image analogies; Aussie DMCA ratfucked; &#34;Authorised Domain&#34;; Sales tax is regressive; Prince Charles&#39;s secret veto; Wells Fargo blackballed workers for refusing to crime; Poe read by Vincent Price and Basil Rathbone; Put it back!; The internet was made for privacy. Upcoming appearances: Kilkenny, Courtenay, Vancouver, Folkestone, Oxford, Sheffield, Virtual, Oxford, Montreal. Recent appearances: Where I&#39;ve been. Latest books: You keep readin&#39; em, I&#39;ll keep writin&#39; &#39;em. Upcoming books: Like I said, I&#39;ll keep writin&#39; &#39;em. Colophon: All the rest. Formalities (permalink) It&#39;s not often that I find myself on the same side as the US Copyright Office. In fact, I think this is the first time in 25 years that I&#39;ve found myself cheering on the office&#39;s official actions as good for art and good for free expression, taking the side of creative workers over our bosses. The source of our miraculous accord: the US Copyright Office&#39;s position on AI. The CO has taken the (entirely correct) position that copyright law exists to incentivize human acts of creative expression, which means that only works of human authorship are eligible for copyright. This isn&#39;t a controversial position within legal circles. But for media executives, this is shocking; absurd, even. This gap between the industrial and the legal understanding of copyright comes from a fundamental difference over the evocatively named legal doctrine of &#34;sweat of the brow.&#34; &#34;Sweat of the brow&#34; is fundamental to a correct legal understanding of copyright. Copyright rewards and protects creativity but it does not protect hard work. You can labor for ten years over a phone book listing the numbers of every person in a town and (as a collection of uncopyrightable facts) it will receive no protection at all. Zero. Zilch. Anyone can copy and sell that phone book: https://en.wikipedia.org/wiki/Feist\_Publications,\_Inc.\_v.\_Rural\_Telephone\_Service\_Co. Copyright law doesn&#39;t care if you slaved over that collection of facts, if you missed sleep and your kids&#39; little league games to realize your grand vision. Copyright law doesn&#39;t care if you plowed every cent into it, remortgaging your home and cashing in your (already resentful) kids&#39; college funds. But: if you dash off a haiku in ten seconds while sitting on the toilet, shove it into your pocket and forget about it, and then your (still resentful) kids discover that crumpled haiku after your (highly suspicious) death, your kids will be able to claim a full 70 years&#39; worth of copyright over that forgotten triviality (the term of copyright for works of human authorship is life plus 70 years). This is the uncontroversial and universally accepted legal understanding of copyright: all the copyright in the world for creative acts, no copyright at all for mere acts of labor. The &#34;sweat of the brow&#34; has nothing to do with a work&#39;s eligibility for copyright. But no media boss believes this. For media bosses, copyright is a pseudo-property† right, designed and operated to protect their bottom line. The point of copyright isn&#39;t to incentivize creativity, but rather investment. † Or not-so-pseudo There&#39;s obviously a relationship between creative acts and acts of investment, but it&#39;s possible to create without investment (see: your haiku) and it&#39;s possible to invest without creativity (see: your phone book). And once again, the creativity that copyright protects is human creativity. This is a lesson that David Slater learned the hard way. Slater is a professional wildlife photographer and amateur monkey-trainer who combined his interests by teaching Celebes crested macaque monkeys to take selfies. But when Slater published a monkey&#39;s selfie others copied and distributed the image without his permission, on the (entirely legally correct) basis that monkeys are not humans, and that means that works created by monkeys don&#39;t get a copyright. This was also the Copyright Office&#39;s position, and the position of the Ninth Circuit Court of Appeals: https://en.wikipedia.org/wiki/Monkey\_selfie\_copyright\_dispute This is the basis for the US Copyright Office&#39;s repeated decision to refuse to extend copyright to AI-generated works. An algorithm is even less human than a monkey, so if you can&#39;t get copyright over a monkey selfie, you definitely can&#39;t copyright your chatbot&#39;s slop. The US Copyright Office has successfully defended this position in multiple courts, triumphing over plaintiffs who were so persistent that they even got the Supreme Court to weigh in on the issue (the Supremes decided the case didn&#39;t warrant their attention): https://pluralistic.net/2026/03/03/its-a-trap-2/#inheres-at-the-moment-of-fixation AI slop isn&#39;t copyrightable, but there can be copyrightable elements in an AI-generated image. The most obvious element is the prompt. So long as your prompt contains some quantum of creativity (e.g. &#34;Make me a beautiful flower whose loveliness is reminiscent of a newborn baby&#34;, but not &#34;make me a beautiful flower&#34;), that prompt is copyrightable. That means you can use copyright to challenge others&#39; rights to present the same prompt to a chatbot. But while the prompt can be copyrighted, the image it gives rise to isn&#39;t. So you can spend a month iteratively refining your prompt, consuming all your town&#39;s water along with 200,000 gallons of diesel and that prompt will be yours for your life plus 70 years, but the image it generates is in the public domain, and anyone can copy it, sell it or give it away. There are other ways that copyright can find its way into AI-generated material. You can make creative edits to it: if you output a slop novel and rewrite various sentences (providing those rewrites involve some creativity and not just mechanical corrections or word substitutions), then the edited sentences become copyrighted works, even though all the rest of the text remains uncopyrightable. You can also get a &#34;thin&#34; copyright through selection. If you get your chatbot to output many images based on your prompt and choose your favorite, your selection can confer a tiny bit of copyright over that creative act of selection, but it will be harder to defend than even the other (attenuated and highly specific) forms of copyright. Now, perhaps you&#39;ve spotted an administrative problem lurking in this turn of events. How can someone else know what part of a work is AI-generated (and thus in the public domain) and which parts are human-edited/contributed (and thus copyrighted)? Just as importantly, how can you prove which parts of your work are not AI-generated and thus eligible for copyright protection. This gets especially gnarly when you&#39;re dealing with complex media. In an animation, an AI might do the rigging and movement for a human-created sprite. The sprite is copyrightable, but its movements aren&#39;t. That would mean that I could remap your sprite&#39;s movements onto a different sprite without infringing your copyright. Or say the sprite and its movements are human created (and thus copyrighted), but the backgrounds are procedurally generated? I could take those backgrounds and put new animations overtop of them. The simplest, most reliable way to ensure the works you invest in are fully and entirely eligible for copyright is to just use humans for the whole project. Declare a &#34;no-AI policy,&#34; and hire human artists to produce the works you hope to sell. Monitor their activity to ensure they&#39;re not using AI. Keep good records. Now, as much as I like the idea that we&#39;ve arrived at a copyright law that insists that a company can only get exclusive rights to its products by paying human artists to make them from end-to-end, I don&#39;t think that&#39;s likely to be the way it shakes out, but that doesn&#39;t mean that this is a wash for artists. The reality is that copyright claims are always &#34;fact-intensive inquiries&#34; that are expensive to litigate and difficult to adjudicate. It&#39;s completely normal for copyright lawsuits to turn on documentary evidence gleaned from fragmentary records. This is simply intrinsic to copyright, because copyright is a doctrine that requires judges to assess whether things are &#34;creative&#34; and &#34;original&#34; as though these were freestanding categories that everyone could agree upon. Of course, the rules of copyright can make this harder or easier. One way in which the rules make deciding copyright cases much, much harder is copyright&#39;s broad prohibition on &#34;formalities&#34; (&#34;formalities&#34; is how copyright wonks refer to &#34;red tape&#34; or &#34;paperwork&#34;). For nearly all of American history, copyright ran on a key formality: deposit, registration and notice. To secure a copyright for a new work, an artist (or their employer) had to send a copy of that work to the Library of Congress (deposit), along with paperwork detailing the claim of authorship (who made this, what parts of it did they make) (registration) and they had to display a copyright notice that told you who held the copyright to every work that was registered (notice). Both the filing and the notice required careful attention and precision, and screwing either one up could result in your losing your copyright. It&#39;s an open secret among copyright scholars that Walt Disney screwed this up with the first Mickey cartoons, meaning they&#39;ve been in the public domain since their release: https://web.archive.org/web/20080725055415/http:/homepages.law.asu.edu/~dkarjala/opposingcopyrightextension/publicdomain/HedenkampFreeMickeyMouseVaSp&#38;E(2003).htm This system of copyright formalities meant that you could always tell whether a work was copyrighted, you could always find out who claimed the copyright over it, and which parts of the work were claimed under copyright and under what basis. What&#39;s more, formalities created the Library of Congress, since the LoC acted as America&#39;s &#34;copyright deposit&#34; library, holding deposit copies of every work that had ever been issued a US copyright. The US system of formalities was descended from the English system, in which the Stationers&#39; Guild used a copyright registry to establish who had the rights to which books. But there were competing copyright systems, notably the &#34;continental&#34; system that was codified through the Berne Convention, a copyright treaty drafted by Victor Hugo (yes, that Victor Hugo). Among other things, the Berne Convention abolished formalities. Much of the world adopted Berne, but the US held out until 1976. With the 1976 Copyright Act, Congress brought the US into compliance with Berne, abolishing formalities in the USA. As a compromise, the 1976 Act requires US authors to register their copyrights in order to obtain &#34;statutory damages&#34; (up to $150,000 per work). That&#39;s a pretty good incentive, but even with that incentive, the vast majority – far in excess of 99.999999999999999999999999999999999999999% – of all copyrighted works are not registered with the Copyright Office. They are born copyrighted from the moment they are &#34;fixed in a tangible medium&#34; until 70 years after their authors die. But without registration, you can&#39;t know when that copyright clock started ticking because you have no way to verify who the author of the work is. This not only makes it incredibly difficult to establish the copyright status of nearly every copyrighted work, but it also means that in nearly every case, you can&#39;t readily determine who you should approach if you want to pay them for a copyright license. Abolishing formalities has created a universe of orphan works: everything from napkin doodles to kindergartners&#39; finger paintings to message board posts. Within that universe is a kind of gaseous cloud that, if condensed, would come out to an infinitesimal planetoid, representing the entirety of commercial works whose authors give a damn about their copyright status. It&#39;s a bad, bad system. This system doesn&#39;t do away with the need to keep careful records: like I said, copyright disputes usually require the close examination of documentary evidence. What formality abolition accomplished was the destruction of the regular system of record-keeping: rather than having a standard, universally agreed-upon way to determine the status and resolve disputes about a copyrighted work, now we have the scattershot, incoherent system that makes copyright disputes far more likely (because no one knows who to approach for copyright licenses) and far more difficult to resolve (because there&#39;s no registry of copyrighted works). Which brings me back to the question of AI and copyright. If a firm uses some AI in its work, it&#39;s going to need to document that very carefully. Firms that don&#39;t keep very close track of the elements of their products that come from AI will have a far harder time defending their commercial interests. Basically, we&#39;re about to recreate formalities, but managed by the private sector. To the extent that companies use AI in their work, they are going to have to track every pixel and every word and every note that is output by an AI system, and which parts were added or edited by humans after creation. That means that companies that want to protect their commercial interests aren&#39;t just going to get more protection based on how much work they get humans to do; they&#39;re also going to have to treat copyright&#39;s government-enforceable monopoly over expressive speech with the gravitas it deserves: not something you get automatically, but something you have to do real administrative work for. Hey look at this (permalink) Adam Conover: Big Divorce Energy https://www.youtube.com/watch?v=CVB-SUX7zgk Voting machines left unattended, as usual https://blog.citp.princeton.edu/2026/10/27/voting-machines-left-unattended-as-usual/ In China, the AI bubble has already burst https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/ No one loves you more than Exxon https://www.youtube.com/watch?v=yJyQXGynwsgz &#34;The Bottle Imps&#34; — new short fiction by Rudy Rucker and Bruce Sterling https://boingboing.net/2026/10/30/the-bottle-imps-rudy-rucker-bruce-sterling.html Object permanence (permalink) #25yrsago Slushpiles v anthrax https://memex.craphound.com/2001/10/29/some-publishers-have-instituted-new/ #25yrsago Image analogies https://mrl.cs.nyu.edu/projects/image-analogies/ #25yrsago Cleaning the Fucking Kitchen for Dummies https://web.archive.org/web/20011007082222/https://www.fridgemagnet.org.uk/kitchen.html #20yrsago Last minute changes snuck into Aussie DMCA https://web.archive.org/web/20061104133320/https://www.eff.org/deeplinks/archives/004975.php #20yrsago Creative Commons 3.0 license drafts published https://creativecommons.org/2006/10/30/version30revisedlicensedrafts/ #20yrsago Bush legalizes martial law https://politics.slashdot.org/story/06/10/28/1934208/bush-signs-bill-enabling-martial-law #20yrsago No blogging allowed at “consumer generated media” conference https://web.archive.org/web/20061108055635/http://gregverdino.typepad.com/greg\_verdinos\_blog/2006/10/social\_media\_fi.html #20yrsago Li&#39;l Sparky: miniature 9V electric chair https://www.flickr.com/photos/84221353@N00/281833134/in/pool-make/ #20yrsago New Starbucks stores to open across the street from each other https://www.spokesman.com/stories/2006/oct/29/starbucks-buzzes-along-with-expansion/ #15yrsago HOWTO defend yourself against tear-gas https://web.archive.org/web/20111030230740/http://www.stumbleupon.com/su/5Fe8Ye/motherjones.com/mojo/2011/10/ows-flier-defending-against-tear-gas #15yrsago How to make a computer that doesn’t lock out GNU/Linux https://web.archive.org/web/20120113141447/https://www.linuxfoundation.org/sites/main/files/lf\_uefi\_secure\_boot\_open\_platforms.pdf #15yrsago Microsoft buys Skype, attacks reverse engineer with bogus takedown notices and florid language https://www.phoronix.com/news/MTAwNzI #15yrsago Justin Bieber: senator who sponsored anti-streaming bill should be “locked up — put away in cuffs” https://arstechnica.com/tech-policy/2011/10/justin-bieber-streaming-bill-author-should-be-locked-up/ #15yrsago SOPA in depth: the worst-ever copyright proposal in US legislative history? https://www.eff.org/deeplinks/2011/10/sopa-hollywood-finally-gets-chance-break-internet #15yrsago Fresh German police-malware uncovered; everything the police said in defense to date revealed as lies https://www.ccc.de/en/updates/2011/analysiert-aktueller-staatstrojaner #15yrsago Russia dumps daylight savings https://www.bbc.com/news/world-europe-15512177 #15yrsago Class War funnies: 1935 Daily Worker comics https://philnel.com/2011/02/02/hoff\_teeth/ #15yrsago Christian groups: we will bodily protect Occupy London from St Paul’s https://www.theguardian.com/uk/2011/oct/29/christians-defend-occupy-london-protest #15yrsago Dean of St Paul’s resigns over plan to evict OccupyLondon https://www.theguardian.com/uk/2011/oct/31/dean-st-pauls-resigns-occupy #15yrsago The future of the living room: Authorised Domain https://dn711102.ca.archive.org/0/items/Cory\_Doctorow\_Podcast\_215/Cory\_Doctorow\_Podcast\_215\_Authorised\_Domain.mp3 #15yrsago Sales tax is still regressive, gravity still sucks, and George Osborne is still a delusional ideologue https://www.bbc.com/news/business-15519727 #15yrsago Prince Charles exercises a secret veto over a wide swath of UK legislation https://www.theguardian.com/uk/2011/oct/30/prince-charles-offered-veto-legislation #15yrsago London cops recording movements &#38; association with mobile tracking device: “blanket &#38; indiscriminate” https://www.theguardian.com/uk/2011/oct/30/metropolitan-police-mobile-phone-surveillance #10yrsago The Shadow Brokers dump more intel from the NSA’s elite Equation Group https://medium.com/@shadowbrokerss/message-5-trick-or-treat-e43f946f93e6#.x2c36nsfq #10yrsago Wells Fargo blackballed employees who refused to commit fraud, forcing them out of the industry forever https://www.npr.org/sections/money/2016/10/28/499805238/episode-732-bad-form-wells-fargo #10yrsago Listen: free recordings of Edgar Allen Poe stories, read by Vincent Price and Basil Rathbone https://open.spotify.com/album/6xDmRcD6sgsGbDvBRpyH5H?play=true&#38;utm\_source=open.spotify.com&#38;utm\_medium=open #10yrsago How Minnesota’s governor performed an economic miracle by raising tax on the rich and increasing minimum wage https://www.huffpost.com/entry/mark-dayton-minnesota-economy\_b\_6737786 #10yrsago Icelandic women walk off the job 14% early to protest 14% pay-gap https://www.teenvogue.com/story/women-iceland-protest-gender-wage-gap #10yrsago Snowden to journalists: your best defense is legal limits on spying, not cryptography https://medium.com/global-editors-network/e-snowden-against-surveillance-journalists-engagement-more-efficient-than-encryption-dbfbacdf9463#.jd6u431fo #10yrsago After North Carolina Republicans banned cities selling internet, a town decided to give it away instead https://arstechnica.com/information-technology/2016/10/city-isp-makes-broadband-free-because-state-law-prohibits-selling-access/ #5yrsago LaserWriter II https://pluralistic.net/2021/10/29/norwegian-potato-flour-enchiladas/#r2r #5yrsago Now, Put It Back! https://pluralistic.net/2021/10/31/now-put-it-back/ #1yrago The internet was made for privacy https://pluralistic.net/2025/10/31/losing-the-crypto-wars/#surveillance-monopolism #1yrago When AI prophecy fails https://pluralistic.net/2025/10/29/worker-frightening-machines/#robots-stole-your-jerb-kinda Upcoming appearances (permalink) Kilkenny (Kilkenomics), Nov 6-8 https://kilkenomics.com/ Courtenay: Enshittification (Sid Williams Theatre Society), Nov 10 https://www.sidwilliamstheatre.com/events/cory-doctorow-talks-enshittification/ Vancouver: BC Policy Solutions Gala, Nov 12 https://bcpolicy.ca/gala/ Folkestone Writers Festival, Nov 16 https://www.creativefolkestone.org.uk/whats-on/cory-doctorow-the-internet-is-broken-now-what/ Oxford: Ministry of the Future, Nov 23 https://ministryforthefuture.co.uk/events.html Sheffield: Reverse Centaur at Juno Books, Nov 25 https://www.outsavvy.com/event/40274/cory-doctorow-in-conversation Virtual: Enshittification, AI, and the Future of Technology (UBC Master of Educational Technology), Nov 28 https://met.ubc.ca/2026/09/met-speaker-series-cory-doctorow-enshittification-ai-and-the-future-of-technology/ Oxford: Bennett Oxford Symposium on Open Code in Science, Dec 9 https://www.bennett.ox.ac.uk/events/2026-bennett-institute-symposium/ Montreal: World Science Fiction Convention, Sep 2-6 https://montreal2027.ca/en Recent appearances (permalink) Clint Eastwood (No Gods No Mayors) https://www.patreon.com/NoGodsNoMayors/posts/clint-eastwood-173008088 Life After AI (Brain Bar) https://www.youtube.com/watch?v=IPPa43-n0vI Terms of Service with Clare Duffy (CNN) https://www.cnn.com/audio/podcasts/terms-of-service-with-clare-duffy/episodes/458ce968-af5d-11f0-b539-13ed2afe25f8 AI, Work, and Power (Software Engineering Daily) AI, Work, and Power https://softwareengineeringdaily.com/podcasts/cory-doctorow-on-ai-work-and-power/ AI, Corporate Power, and the Fight for Worker Control (Plutopia) https://plutopia.io/cory-doctorow-ai-corporate-power-and-the-fight-for-worker-control/ Latest books (permalink) &#34;The Reverse-Centaur&#39;s Guide to AI,&#34; a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/ &#34;Canny Valley&#34;: A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce &#34;Enshittification: Why Everything Suddenly Got Worse and What to Do About It,&#34; Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ &#34;Picks and Shovels&#34;: a sequel to &#34;Red Team Blues,&#34; about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). &#34;The Bezzle&#34;: a sequel to &#34;Red Team Blues,&#34; about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). &#34;The Lost Cause:&#34; a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). &#34;The Internet Con&#34;: A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). &#34;Red Team Blues&#34;: &#34;A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.&#34; Tor Books http://redteamblues.com. &#34;Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin&#34;, on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) &#34;The Post-American Internet,&#34; a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 &#34;Unauthorized Bread&#34;: a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 &#34;Enshittification, Why Everything Suddenly Got Worse and What to Do About It&#34; (the graphic novel), Firstsecond, 2027 &#34;The Memex Method,&#34; Farrar, Straus, Giroux, 2027 Colophon (permalink) Today&#39;s top sources: Currently writing: “Once Is Enemy Action,” a science fiction novel about the origins of modern technofascism. Today&#39;s words: 504 (31359 total). &#34;The Post-American Internet,&#34; a sequel to &#34;Enshittification,&#34; about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor. A Little Brother short story about DIY insulin PLANNING This work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic &#34;When life gives you SARS, you make sarsaparilla&#34; -Joey &#34;Accordion Guy&#34; DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (&#34;BOGUS AGREEMENTS&#34;) that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X</source:markdown>
-      <enclosure url="https://dn711102.ca.archive.org/0/items/Cory_Doctorow_Podcast_215/Cory_Doctorow_Podcast_215_Authorised_Domain.mp3" length="15154176" type="audio/mpeg" />
-      <guid>cid://https://pluralistic.net/?p=13455</guid>
-      <category>Uncategorized</category>
-      <category>ai</category>
-      <category>co</category>
-      <category>copyfight</category>
-      <category>copyright</category>
-      <category>copyright office</category>
-      <category>monkey selfie</category>
-      <category>us copyright office</category>
-      <category>usco</category>
-      <pubDate>Sat, 31 Oct 2026 15:15:59 +0000</pubDate>
-    </item>    <item>
-      <title>3 Days To Go - Trump/DOJ Keep Getting Thwarted, Olivia Rodrigo Hearts Amy Acton, Early Vote Turnout Is Huge, Need To Keep Working Hard!!!!!!!!!!!!!!!!</title>
-      <link>https://www.hopiumchronicles.com/p/3-days-to-go-trumpdoj-keep-getting</link>
-      <description>
-        <![CDATA[Watch now (16 secs) | Monday, 315pm ET - Tom Bonier returns for a last live look at the early vote]]>
-      </description>
-      <source:markdown>Watch now (16 secs) \| Monday, 315pm ET - Tom Bonier returns for a last live look at the early vote</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/222917217/e28db9acc1508f1769e21b8133504a95.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://www.hopiumchronicles.com/p/3-days-to-go-trumpdoj-keep-getting</guid>
-      <pubDate>Sat, 31 Oct 2026 14:55:40 +0000</pubDate>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/117535941313656486</link>
-      <description>
-        <![CDATA[<p>Meanwhile in Mexico City:</p>]]>
-      </description>
-      <source:markdown>Meanwhile in Mexico City:</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/117535941313656486</guid>
-      <pubDate>Sat, 31 Oct 2026 14:15:35 +0000</pubDate>
-    </item>    <item>
-      <title>Daft Savings Time</title>
-      <link>https://statusq.org/archives/2026/10/31/13705/</link>
-      <description>
-        <![CDATA[<p data-block-key="amofm">I've probably complained on here before about the ridiculous anachronism that is 'Daylight Savings Time'. (Actually, <i>anachronism</i> is rather a good word for it!) For heaven's sake, if you happen to be an employer, or a school, or even if you have a personal exercise regime that you'd like to operate at different times in the winter, just change your timetable and don't bother the rest of us with it!</p><p data-block-key="3f0tj">Hannah Fry has a nice 2-minute summary of why it's a bad idea, in case anybody is still in doubt. (These people are rare, but they do apparently still exist...)</p><p data-block-key="fc7mh"></p><div style="padding-bottom: 176.99115044247787%;" class="responsive-object">
-            <iframe width="113" height="200" src="https://www.youtube.com/embed/Ob6TqiEKlDQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Daylight saving is a waste of time"></iframe>
-        </div>
-        <p data-block-key="apgb8"></p>]]>
-      </description>
-      <source:markdown>I&#39;ve probably complained on here before about the ridiculous anachronism that is &#39;Daylight Savings Time&#39;. (Actually, _anachronism_ is rather a good word for it!) For heaven&#39;s sake, if you happen to be an employer, or a school, or even if you have a personal exercise regime that you&#39;d like to operate at different times in the winter, just change your timetable and don&#39;t bother the rest of us with it!
-
-Hannah Fry has a nice 2-minute summary of why it&#39;s a bad idea, in case anybody is still in doubt. (These people are rare, but they do apparently still exist...)</source:markdown>
-      <guid>cid://https://statusq.org/archives/2026/10/31/13705/</guid>
-      <pubDate>Sat, 31 Oct 2026 13:24:00 +0000</pubDate>
-    </item>    <item>
-      <title>2028 Won’t Be the 2020 Ideas Primary Again</title>
-      <link>https://newsletter.mikekonczal.com/p/2028-wont-be-the-2020-ideas-primary</link>
-      <description>
-        <![CDATA[The immediate demands, incentives, governing lessons, and economic constraints shaping Democrats&#8217; next policy agenda.]]>
-      </description>
-      <source:markdown>The immediate demands, incentives, governing lessons, and economic constraints shaping Democrats’ next policy agenda.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!Oim7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc48320c-98aa-4939-b7a1-0d17b952898e_2165x1182.png" length="0" type="image/jpeg" />
-      <guid>cid://https://newsletter.mikekonczal.com/p/2028-wont-be-the-2020-ideas-primary</guid>
-      <pubDate>Sat, 31 Oct 2026 13:20:03 +0000</pubDate>
-    </item>    <item>
-      <title>On Guns</title>
-      <link>https://dbarkhuff.substack.com/p/on-guns</link>
-      <description>
-        <![CDATA[I only have one gun left in my home: a Beretta semi-automatic 20-gauge shotgun.]]>
-      </description>
-      <source:markdown>I only have one gun left in my home: a Beretta semi-automatic 20-gauge shotgun.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!aQgF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43a2e00f-2074-45e6-a832-6c203a634fd2_1174x670.png" length="0" type="image/jpeg" />
-      <guid>cid://https://dbarkhuff.substack.com/p/on-guns</guid>
-      <pubDate>Sat, 31 Oct 2026 10:50:07 +0000</pubDate>
-    </item>    <item>
-      <title>Azeem Azhar on the Explosion of Hacking and Other AI Issues</title>
-      <link>https://paulkrugman.substack.com/p/azeem-azhar-on-the-explosion-of-hacking</link>
-      <description>
-        <![CDATA[The threats just keep coming]]>
-      </description>
-      <source:markdown>The threats just keep coming</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/222847425/61fad35a58ed325865683018f3c06339.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/azeem-azhar-on-the-explosion-of-hacking</guid>
-      <pubDate>Sat, 31 Oct 2026 10:30:56 +0000</pubDate>
-    </item>    <item>
-      <title>Lit Hub Weekly: October 26 – 30, 2026</title>
-      <link>https://lithub.com/lit-hub-weekly-october-26-30-2026/</link>
-      <description>
-        <![CDATA[From Psycho to Christine, a highway is something “altogether different when they appear in the horror genre: there they expose themselves as highways to hell.” &#124; Lit Hub Film Fake news, far-right propaganda, exaggerated crowd sizes, a squabbling left. Sound]]>
-      </description>
-      <source:markdown>From Psycho to Christine, a highway is something “altogether different when they appear in the horror genre: there they expose themselves as highways to hell.” \| Lit Hub Film Fake news, far-right propaganda, exaggerated crowd sizes, a squabbling left. Sound</source:markdown>
-      <guid>cid://https://lithub.com/?p=279149</guid>
-      <category>Lit Hub Daily</category>
-      <pubDate>Sat, 31 Oct 2026 10:30:06 +0000</pubDate>
-    </item>    <item>
-      <title>Move fast, break things</title>
-      <link>https://www.publicnotice.co/p/hegseth-eisenhower-globe</link>
-      <description>
-        <![CDATA[The failures of Trump 2.0, encapsulated in a broken globe.]]>
-      </description>
-      <source:markdown>The failures of Trump 2.0, encapsulated in a broken globe.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!Jqq1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b795397-35d3-4dcf-be64-1af31e2f2a4c_3556x2370.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://www.publicnotice.co/p/hegseth-eisenhower-globe</guid>
-      <pubDate>Sat, 31 Oct 2026 10:17:32 +0000</pubDate>
-    </item>    <item>
-      <title>Trump Hits Bottom | The Coffee Klatch for Saturday, October 31, 2026</title>
-      <link>https://robertreich.substack.com/p/trump-hits-bottom-the-coffee-klatch</link>
-      <description>
-        <![CDATA[With Heather Lofthouse and yours truly, Robert Reich]]>
-      </description>
-      <source:markdown>With Heather Lofthouse and yours truly, Robert Reich</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/222853014/fe4b9e75e36d6c22719a5314b7243719.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://robertreich.substack.com/p/trump-hits-bottom-the-coffee-klatch</guid>
-      <pubDate>Sat, 31 Oct 2026 08:02:55 +0000</pubDate>
-    </item>    <item>
-      <title>Weeknotes: Oct. 24-30, 2026</title>
-      <link>https://tracydurnell.com/2026/10/30/weeknotes-oct-24-30-2026/</link>
-      <description>
-        <![CDATA[Win of the week: compared health plans and completed Open Enrollment &#8212; astonishingly our health care plan is only going up $5 per month 😯 Looking forward to: upcoming trip to see my family! Stuff I did: 0.75 hours consulting 8.75 hours outline voted and dropped off my ballot! (If you&#8217;re in the greater Seattle area, [&#8230;]]]>
-      </description>
-      <source:markdown>Win of the week: compared health plans and completed Open Enrollment — astonishingly our health care plan is only going up $5 per month 😯 Looking forward to: upcoming trip to see my family! Stuff I did: 0.75 hours consulting 8.75 hours outline voted and dropped off my ballot! (If you’re in the greater Seattle area, \[…\]</source:markdown>
-      <guid>cid://https://tracydurnell.com/?p=42707</guid>
-      <category>Weeknotes</category>
-      <category>personal</category>
-      <pubDate>Sat, 31 Oct 2026 05:42:55 +0000</pubDate>
-    </item>    <item>
-      <title>October 30, 2026</title>
-      <link>https://heathercoxrichardson.substack.com/p/october-30-2026</link>
-      <description>
-        <![CDATA[Not much from me tonight, but I do want to call out the political signs reading &#8220;Stop Fraud: Vote Republican&#8221; I saw today as I left Maine.]]>
-      </description>
-      <source:markdown>Not much from me tonight, but I do want to call out the political signs reading “Stop Fraud: Vote Republican” I saw today as I left Maine.</source:markdown>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!yKDv!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b47f775-3df7-41dd-8bc9-a64cdd72d948_600x600.png" length="0" type="image/jpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/october-30-2026</guid>
-      <pubDate>Sat, 31 Oct 2026 05:25:14 +0000</pubDate>
-    </item>    <item>
-      <title>In Conversation with Anand Giridharadas</title>
-      <link>https://robertreich.substack.com/p/in-conversation-with-anand-giridharadas</link>
-      <description>
-        <![CDATA[Author, journalist, public philosopher]]>
-      </description>
-      <source:markdown>Author, journalist, public philosopher</source:markdown>
-      <enclosure url="https://api.substack.com/feed/podcast/222220936/56b5c52f93a6689244aa7cad4e2d66b9.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://robertreich.substack.com/p/in-conversation-with-anand-giridharadas</guid>
-      <pubDate>Sat, 31 Oct 2026 02:23:24 +0000</pubDate>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/117533068261957526</link>
-      <description>
-        <![CDATA[<p>Using modern Swift, so in the last couple of months, unsafe Swift code and unsafe pointer code was removed.   The one area that hurts: I cant use is Array.span as it requires a new OS.</p>]]>
-      </description>
-      <source:markdown>Using modern Swift, so in the last couple of months, unsafe Swift code and unsafe pointer code was removed. The one area that hurts: I cant use is Array.span as it requires a new OS.</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/117533068261957526</guid>
-      <pubDate>Sat, 31 Oct 2026 02:04:56 +0000</pubDate>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/117533059623653570</link>
-      <description>
-        <![CDATA[<p>The last batch of retain/releases in the core parsing loop of SwiftTerm is gone, and now SwiftTerm is on the vtbench on average only 3% slower than Ghostty 1.4</p><p>Get it while it is hot!</p><p><a href="https://github.com/migueldeicaza/SwiftTerm" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/migueldeicaza/Swift</span><span class="invisible">Term</span></a></p>]]>
-      </description>
-      <source:markdown>The last batch of retain/releases in the core parsing loop of SwiftTerm is gone, and now SwiftTerm is on the vtbench on average only 3% slower than Ghostty 1.4
-
-Get it while it is hot!
-
-[https://github.com/migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm)</source:markdown>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/117533059623653570</guid>
-      <pubDate>Sat, 31 Oct 2026 02:02:44 +0000</pubDate>
-    </item>    <item>
-      <title>This Month in Redox - October 2026</title>
-      <link>https://www.redox-os.org/news/this-month-261031/</link>
-      <description>
-        <![CDATA[<p>Redox OS is a complete Unix-like general-purpose microkernel-based operating system
-        written in Rust. October was a very exciting month for Redox! Here&rsquo;s all the latest news.</p>
-        <h2 id="donate-to-redox">Donate to Redox</h2>
-        <p>If you would like to support Redox, please consider donating or buying some merch!</p>
-        <ul>
-        <li><a href="https://www.redox-os.org/donate/">Donate</a></li>
-        <li><a href="https://www.patreon.com/redox_os">Patreon</a></li>
-        <li><a href="https://redox-os.creator-spring.com/">Merch</a></li>
-        </ul>
-        <h2 id="golang-on-redox">Golang On Redox!</h2>
-        <p>Wildan Mubarok ported the official Go programming language compiler after months of porting iterations. It supports both cross-compilation and self-hosted compilation of Go programs.</p>]]>
-      </description>
-      <source:markdown>Redox OS is a complete Unix-like general-purpose microkernel-based operating system
-written in Rust. October was a very exciting month for Redox! Here’s all the latest news.
-
-## Donate to Redox
-
-If you would like to support Redox, please consider donating or buying some merch!
-
-- [Donate](https://www.redox-os.org/donate/)
-- [Patreon](https://www.patreon.com/redox_os)
-- [Merch](https://redox-os.creator-spring.com/)
-
-## Golang On Redox!
-
-Wildan Mubarok ported the official Go programming language compiler after months of porting iterations. It supports both cross-compilation and self-hosted compilation of Go programs.</source:markdown>
-      <guid>cid://https://www.redox-os.org/news/this-month-261031/</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>This Month in CoMaps: October 2026</title>
-      <link>https://www.comaps.app/news/2026-10-31/this-month-in-comaps-october-2026/</link>
-      <description>
-        <![CDATA[<p>Welcome to the second edition of <em>This Month in CoMaps</em>! This edition features some new work on the dark map style, the implementation of the long-requested saved track navigation, the adoption of a new CoMaps constitution, and more. The next version of CoMaps is expected to be released in the coming week.</p>
-        <h2 id="features">Features</h2>
-        <p>Users of the dark map style have long complained that it can be difficult to use. Both <a rel="noopener external" target="_blank" href="https://codeberg.org/eatham">Ethan (@eatham)</a> and <a rel="noopener external" target="_blank" href="https://codeberg.org/eisa01">@eisa01</a> have been independently working on improvements to this, with changes from the former ending up in the <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/comaps/issues/5544">most recent test build</a> and primed for the next release. This, however, is an iterative process - feedback is appreciated!</p>
-        <figure class=" ">
-        <img src="02-dark-mode.png">
-        <figcaption>Before and after shown side-by-side</figcaption>
-        </figure>
-        <p>For those who like to step through their route before navigating, <a rel="noopener external" target="_blank" href="https://codeberg.org/LMBishop">Leonardo (@LMBishop)</a> has been working on a new route preview mode for Android. To access it, you can open the Preview function after the app has calculated a route and tap on an instruction. Doing this will zoom in on the manouvre and allow you to cycle through the other turns on the map.</p>
-        <figure class="small ">
-        <video controls   >
-            <source src="03-route-preview.webm">
-        </video>
-        <figcaption>Stepping through a route</figcaption>
-        </figure>
-        <p><a rel="noopener external" target="_blank" href="https://codeberg.org/mmarca-tech">Manuel (@mmarca-tech)</a> has been working on the <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/comaps/issues/251">long requested feature</a> to be able to navigate along a saved track. This feature works by matching the the saved tracks to existing route geometry to be able to use with existing CoMaps navigation. This means you could build a route using a third-party router, or using CoMaps desktop, and use CoMaps on your mobile device for turn-by-turn directions! This feature is currently targeted for the December release.</p>
-        <p>Finally, both Android Auto and CarPlay have seen some love from <a rel="noopener external" target="_blank" href="https://codeberg.org/kvanrooyen">Keagan (@kvanrooyen)</a> and <a rel="noopener external" target="_blank" href="https://codeberg.org/eisa01">@eisa01</a> respectively, with the former now featuring a new speed widget and perspective improvements, and the latter undergoing a significant turn guidance rewrite to fix incorrect next turn directions.</p>
-        <figure class=" ">
-        <video controls   >
-            <source src="04-aa-free-drive.webm">
-        </video>
-        <figcaption>The speed widget appearing in free drive mode</figcaption>
-        </figure>
-        <h2 id="governance">Governance</h2>
-        <p>Following a vote from the original eight founders of CoMaps, the community has moved to officially adopt a <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/Governance/pulls/175">new constitution</a>. This means CoMaps is now in a "transition period" as community members continue discussions with the Software Freedom Conservancy to establish CoMaps as a project under their umbrella. The original eight founders will continue to serve a similar backstop role until this transition is completed.</p>
-        <p>There now also exists a formal membership structure under the new constitution, for which initial seeding has begun amongst existing contributors. Once this has completed, membership applications for new community members are expected to open soon after.</p>
-        <p>You can read the <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/Governance/src/branch/main/CONSTITUTION.md">full text of the consitution here</a>.</p>
-        <h2 id="community-news">Community news</h2>
-        <p>This month, CoMaps was presented at two separate conferences by our contributors <a rel="noopener external" target="_blank" href="https://codeberg.org/gedankenstuecke">Bastian (@gedankenstuecke)</a> and <a rel="noopener external" target="_blank" href="https://codeberg.org/dmlls">Diego (@dmlls)</a>, who both also presented State of the Map <a rel="noopener external" target="_blank" href="https://www.comaps.app/news/2026-09-14/comaps-at-state-of-the-map-2026/">earlier this year</a>. Bastian showcased the app at State of the Map Latam in Mexico City, and Diego did the same at Akademy-es in Madrid. You can read more about the events of SotM Latam in Bastian's <a rel="noopener external" target="_blank" href="https://amerika21.de/2026/11/291980/lateinamerika-kollaborative-kartografie">article on amerika21</a> (available in German).</p>
-        <figure>
-        <div class="mastodon-embed-container">
-        <blockquote class="mastodon-embed" data-embed-url="https://floss.social/@kde_espana/117495784559359349/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://floss.social/@kde_espana/117495784559359349" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M63 45.3v-20c0-4.1-1-7.3-3.2-9.7-2.1-2.4-5-3.7-8.5-3.7-4.1 0-7.2 1.6-9.3 4.7l-2 3.3-2-3.3c-2-3.1-5.1-4.7-9.2-4.7-3.5 0-6.4 1.3-8.6 3.7-2.1 2.4-3.1 5.6-3.1 9.7v20h8V25.9c0-4.1 1.7-6.2 5.2-6.2 3.8 0 5.8 2.5 5.8 7.4V37.7H44V27.1c0-4.9 1.9-7.4 5.8-7.4 3.5 0 5.2 2.1 5.2 6.2V45.3h8ZM74.7 16.6c.6 6 .1 15.7.1 17.3 0 .5-.1 4.8-.1 5.3-.7 11.5-8 16-15.6 17.5-.1 0-.2 0-.3 0-4.9 1-10 1.2-14.9 1.4-1.2 0-2.4 0-3.6 0-4.8 0-9.7-.6-14.4-1.7-.1 0-.1 0-.1 0s-.1 0-.1 0 0 .1 0 .1 0 0 0 0c.1 1.6.4 3.1 1 4.5.6 1.7 2.9 5.7 11.4 5.7 5 0 9.9-.6 14.8-1.7 0 0 0 0 0 0 .1 0 .1 0 .1 0 0 .1 0 .1 0 .1.1 0 .1 0 .1.1v5.6s0 .1-.1.1c0 0 0 0 0 .1-1.6 1.1-3.7 1.7-5.6 2.3-.8.3-1.6.5-2.4.7-7.5 1.7-15.4 1.3-22.7-1.2-6.8-2.4-13.8-8.2-15.5-15.2-.9-3.8-1.6-7.6-1.9-11.5-.6-5.8-.6-11.7-.8-17.5C3.9 24.5 4 20 4.9 16 6.7 7.9 14.1 2.2 22.3 1c1.4-.2 4.1-1 16.5-1h.1C51.4 0 56.7.8 58.1 1c8.4 1.2 15.5 7.5 16.6 15.6Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @kde_espana@floss.social</div> <div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://floss.social/" async src="https://floss.social/embed.js"></script>
-        </div>
-        <figcaption>KDE España post the behind the scenes of the CoMaps talk at Akademy-es</figcaption>
-        </figure>
-        <p>Lastly, a few days ago <a rel="noopener external" target="_blank" href="https://codeberg.org/mmakowski">Maciek (@mmakowski)</a> wrote about Mangrove reviews integration in their blog post <a rel="noopener external" target="_blank" href="https://www.comaps.app/news/2026-10-27/place-reviews/"><em>Place Reviews in CoMaps</em></a>. It details how the reviews work, some fun statistics, and future plans for the feature. If you haven't seen it, it is well worth a read!</p>
-        <h2 id="new-contributors">New contributors</h2>
-        <!-- tst note: Name and pronouns are sourced from each user's profile. If they haven't listed their pronouns, I just use they/them. If the user has their name set in Zulip but not in Codeberg, I use their name out of an abundance of caution. -->
-        <ul>
-        <li><a rel="noopener external" target="_blank" href="https://codeberg.org/jayaddison">James Addison (@jayaddison)</a> made his first contribution in <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/comaps/pulls/5337">#5337</a></li>
-        <li><a rel="noopener external" target="_blank" href="https://codeberg.org/esposm03">@esposm03</a> made their first contribution in <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/comaps/pulls/5340">#5340</a></li>
-        <li><a rel="noopener external" target="_blank" href="https://codeberg.org/W-Floyd">William Floyd (@W-Floyd)</a> made their first contribution in <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/comaps/pulls/5352">#5352</a></li>
-        <li><a rel="noopener external" target="_blank" href="https://codeberg.org/osmuser63783">@osmuser63783</a> made their first contribution in <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/comaps/pulls/5406">#5406</a></li>
-        <li><a rel="noopener external" target="_blank" href="https://codeberg.org/codebergian42">@codebergian42</a> made their first contribution in <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/comaps/pulls/5420">#5420</a></li>
-        <li><a rel="noopener external" target="_blank" href="https://codeberg.org/Parakeet3850">@Parakeet3850</a> made their first contribution in <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/comaps/pulls/5424">#5424</a></li>
-        <li><a rel="noopener external" target="_blank" href="https://codeberg.org/libf-de">@libf-de</a> made their first contribution in <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/comaps/pulls/5456">#5456</a></li>
-        <li><a rel="noopener external" target="_blank" href="https://codeberg.org/cbosdo">Cédric Bosdonnat (@cbosdo)</a> made their first contribution in <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/comaps/pulls/5458">#5458</a></li>
-        <li><a rel="noopener external" target="_blank" href="https://codeberg.org/RamblingBanjo">@RamblingBanjo</a> made their first contribution in <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/comaps/pulls/5459">#5459</a></li>
-        <li><a rel="noopener external" target="_blank" href="https://codeberg.org/scarcekoi">@scarcekoi</a> made their first contribution in <a rel="noopener external" target="_blank" href="https://codeberg.org/comaps/comaps/pulls/5503">#5503</a></li>
-        </ul>
-        <hr />
-        <p>Thank you for reading this edition of <em>This Month in CoMaps</em>! Consider <a rel="noopener external" target="_blank" href="https://www.comaps.app/rss.xml">subscribing to our RSS feed</a> to stay updated with our latest news.</p>
-        <p>If you enjoy using CoMaps, also consider <a rel="noopener external" target="_blank" href="https://www.comaps.app/donate/">donating</a> or <a rel="noopener external" target="_blank" href="https://www.comaps.app/community/">getting involved with the community</a>.</p>]]>
-      </description>
-      <source:markdown>Welcome to the second edition of _This Month in CoMaps_! This edition features some new work on the dark map style, the implementation of the long-requested saved track navigation, the adoption of a new CoMaps constitution, and more. The next version of CoMaps is expected to be released in the coming week.
-
-## Features
-
-Users of the dark map style have long complained that it can be difficult to use. Both [Ethan (@eatham)](https://codeberg.org/eatham) and [@eisa01](https://codeberg.org/eisa01) have been independently working on improvements to this, with changes from the former ending up in the [most recent test build](https://codeberg.org/comaps/comaps/issues/5544) and primed for the next release. This, however, is an iterative process - feedback is appreciated!
-
-![](02-dark-mode.png)Before and after shown side-by-side
-
-For those who like to step through their route before navigating, [Leonardo (@LMBishop)](https://codeberg.org/LMBishop) has been working on a new route preview mode for Android. To access it, you can open the Preview function after the app has calculated a route and tap on an instruction. Doing this will zoom in on the manouvre and allow you to cycle through the other turns on the map.
-
-Stepping through a route
-
-[Manuel (@mmarca-tech)](https://codeberg.org/mmarca-tech) has been working on the [long requested feature](https://codeberg.org/comaps/comaps/issues/251) to be able to navigate along a saved track. This feature works by matching the the saved tracks to existing route geometry to be able to use with existing CoMaps navigation. This means you could build a route using a third-party router, or using CoMaps desktop, and use CoMaps on your mobile device for turn-by-turn directions! This feature is currently targeted for the December release.
-
-Finally, both Android Auto and CarPlay have seen some love from [Keagan (@kvanrooyen)](https://codeberg.org/kvanrooyen) and [@eisa01](https://codeberg.org/eisa01) respectively, with the former now featuring a new speed widget and perspective improvements, and the latter undergoing a significant turn guidance rewrite to fix incorrect next turn directions.
-
-The speed widget appearing in free drive mode
-
-## Governance
-
-Following a vote from the original eight founders of CoMaps, the community has moved to officially adopt a [new constitution](https://codeberg.org/comaps/Governance/pulls/175). This means CoMaps is now in a &#34;transition period&#34; as community members continue discussions with the Software Freedom Conservancy to establish CoMaps as a project under their umbrella. The original eight founders will continue to serve a similar backstop role until this transition is completed.
-
-There now also exists a formal membership structure under the new constitution, for which initial seeding has begun amongst existing contributors. Once this has completed, membership applications for new community members are expected to open soon after.
-
-You can read the [full text of the consitution here](https://codeberg.org/comaps/Governance/src/branch/main/CONSTITUTION.md).
-
-## Community news
-
-This month, CoMaps was presented at two separate conferences by our contributors [Bastian (@gedankenstuecke)](https://codeberg.org/gedankenstuecke) and [Diego (@dmlls)](https://codeberg.org/dmlls), who both also presented State of the Map [earlier this year](https://www.comaps.app/news/2026-09-14/comaps-at-state-of-the-map-2026/). Bastian showcased the app at State of the Map Latam in Mexico City, and Diego did the same at Akademy-es in Madrid. You can read more about the events of SotM Latam in Bastian&#39;s [article on amerika21](https://amerika21.de/2026/11/291980/lateinamerika-kollaborative-kartografie) (available in German).
-
-&#62; [Post by @kde\_espana@floss.social\
-&#62; \
-&#62; View on Mastodon](https://floss.social/@kde_espana/117495784559359349)
-
-KDE España post the behind the scenes of the CoMaps talk at Akademy-es
-
-Lastly, a few days ago [Maciek (@mmakowski)](https://codeberg.org/mmakowski) wrote about Mangrove reviews integration in their blog post [_Place Reviews in CoMaps_](https://www.comaps.app/news/2026-10-27/place-reviews/). It details how the reviews work, some fun statistics, and future plans for the feature. If you haven&#39;t seen it, it is well worth a read!
-
-## New contributors
-
-- [James Addison (@jayaddison)](https://codeberg.org/jayaddison) made his first contribution in [#5337](https://codeberg.org/comaps/comaps/pulls/5337)
-- [@esposm03](https://codeberg.org/esposm03) made their first contribution in [#5340](https://codeberg.org/comaps/comaps/pulls/5340)
-- [William Floyd (@W-Floyd)](https://codeberg.org/W-Floyd) made their first contribution in [#5352](https://codeberg.org/comaps/comaps/pulls/5352)
-- [@osmuser63783](https://codeberg.org/osmuser63783) made their first contribution in [#5406](https://codeberg.org/comaps/comaps/pulls/5406)
-- [@codebergian42](https://codeberg.org/codebergian42) made their first contribution in [#5420](https://codeberg.org/comaps/comaps/pulls/5420)
-- [@Parakeet3850](https://codeberg.org/Parakeet3850) made their first contribution in [#5424](https://codeberg.org/comaps/comaps/pulls/5424)
-- [@libf-de](https://codeberg.org/libf-de) made their first contribution in [#5456](https://codeberg.org/comaps/comaps/pulls/5456)
-- [Cédric Bosdonnat (@cbosdo)](https://codeberg.org/cbosdo) made their first contribution in [#5458](https://codeberg.org/comaps/comaps/pulls/5458)
-- [@RamblingBanjo](https://codeberg.org/RamblingBanjo) made their first contribution in [#5459](https://codeberg.org/comaps/comaps/pulls/5459)
-- [@scarcekoi](https://codeberg.org/scarcekoi) made their first contribution in [#5503](https://codeberg.org/comaps/comaps/pulls/5503)
-
-* * *
-
-Thank you for reading this edition of _This Month in CoMaps_! Consider [subscribing to our RSS feed](https://www.comaps.app/rss.xml) to stay updated with our latest news.
-
-If you enjoy using CoMaps, also consider [donating](https://www.comaps.app/donate/) or [getting involved with the community](https://www.comaps.app/community/).</source:markdown>
-      <guid>cid://https://www.comaps.app/news/2026-10-31/this-month-in-comaps-october-2026/</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,24 +1,36 @@
 ---
 title: "STEM"
 description: "Science and technology news and blogs."
-pubDate: Sat, 21 Nov 2026 05:05:00 GMT
+pubDate: Sun, 22 Nov 2026 05:05:00 GMT
 aggregateOf: "science_and_technology.md"
-dateModified: Sat, 21 Nov 2026 14:46:22 GMT
-itemCount: 303
+dateModified: Sun, 22 Nov 2026 14:47:09 GMT
+itemCount: 301
 generator: antenna/0.1.1
 ---
 
 # STEM
 
+## [APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno](https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/)
+
+via NASA breaking news · 2026-11-22
+
+APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Swirls and Colors \[…\]
+
+## [Dual boot NetBSD 11.1 and Debian 13 on a ThinkPad T14 G1](https://www.osnews.com/story/146447/dual-boot-netbsd-11-1-and-debian-13-on-a-thinkpad-t14-g1/)
+
+via OS News · 2026-11-21
+
+Sometimes, all you need is a well-written guide on dual-booting NetBSD and Linux. After gaining some confidence from installing NetBSD on my Raspberry Pi, I started wondering, what if I installed it on my daily-driver ThinkPad and set it up to dual-boot? I could use NetBSD for whatever I felt like and fall back to Linux whenever I needed to. ↫ neongod So that’s exactly what you’re getting.
+
 ## [APOD: 2026 November 21 – Voyager’s Neptune](https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/)
 
-via NASA breaking news · 2026-11-21
+via NASA breaking news · 2026-11-21, updated 2026-11-22
 
 APOD Science APOD APOD: 2026 November 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Voyager’s Neptune Explanation: \[…\]
 
 ## [Purism Differentiator Series, Part 20: Releasing Source Code to the Public](https://puri.sm/posts/purism-differentiator-series-part-20-releasing-source-code-to-the-public/)
 
-via Purism News · 2026-11-20, updated 2026-11-21
+via Purism News · 2026-11-20, updated 2026-11-22
 
 When we use a computer, we trust software to make decisions on our behalf. It stores our work, carries our messages, and helps run the services we depend on.
 
@@ -26,7 +38,7 @@ The post [Purism Differentiator Series, Part 20: Releasing Source Code to the Pu
 
 ## [Curiosity Spots Drifting Twilight Clouds](https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/)
 
-via NASA breaking news · 2026-11-20, updated 2026-11-21
+via NASA breaking news · 2026-11-20, updated 2026-11-22
 
 Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds, which appear for only a short time each fall over Gale Crater, which it has been exploring for more than \[…\]
 
@@ -38,7 +50,7 @@ After "Ser III No. 5," painted in 1920, sold for nearly 16 times its pre-sale es
 
 ## [New NASA Seed Funding Primes Small Businesses for Innovation](https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/)
 
-via NASA breaking news · 2026-11-20, updated 2026-11-21
+via NASA breaking news · 2026-11-20, updated 2026-11-22
 
 Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U.S. space economy. NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 innovative projects, for a total investment of up to $171 million in seed \[…\]
 
@@ -68,19 +80,19 @@ Around 20 members of the Indigenous Awá tribe emerged from the rainforest and r
 
 ## [NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center](https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/)
 
-via NASA breaking news · 2026-11-20, updated 2026-11-21
+via NASA breaking news · 2026-11-20, updated 2026-11-22
 
 Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18.   Presenting the awards were Christine Powell, NASA Stennis center director, and Jeremy Parsons, the agency’s Artemis program manager responsible for management and oversight of NASA’s initiative to return \[…\]
 
 ## [NASA’s Curiosity Mars Rover Collects Samples](https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/)
 
-via NASA breaking news · 2026-11-20, updated 2026-11-21
+via NASA breaking news · 2026-11-20, updated 2026-11-22
 
 This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. Learn more \[…\]
 
 ## [Librem 5 v2 Campaign Builds Early Momentum at 100 Orders](https://puri.sm/posts/librem-5-v2-campaign-builds-early-momentum-at-100-orders/)
 
-via Purism News · 2026-11-20, updated 2026-11-21
+via Purism News · 2026-11-20, updated 2026-11-22
 
 A new smartphone campaign has reached a memorable early milestone. Following its public launch on November 17, Purism’s Librem 5 v2 crowdfunding campaign has the first 100 of its 2,500-order goal. That early progress signals interest in a different vision for mobile technology: one built around user control, open software, and digital independence.
 
@@ -114,13 +126,13 @@ Featuring nearly 40 artworks, a new exhibition at the Detroit Institute of Arts 
 
 ## [The history behind the x86 CPU: from 4004 to 486](https://www.osnews.com/story/146445/the-history-behind-the-x86-cpu-from-4004-to-486/)
 
-via OS News · 2026-11-20
+via OS News · 2026-11-20, updated 2026-11-21
 
 Why is x86 little-endian? Why are the registers called AX, BX, CX, and DX? Why do DOS programmers write addresses like A000:0000, and why does a modern PC still wake up pretending to be a chip from 1978? The answers are not in the datasheets. They are in the story of how each chip was born. ↫ Gustavo Pezzi The x86 is like an archaeological dig site that’s been dug in the 1800, before modern standards of dig sites were established to preserve context.
 
 ## [FreeBSD GUS: RCU’s cool cousin](https://www.osnews.com/story/146443/freebsd-gus-rcus-cool-cousin/)
 
-via OS News · 2026-11-20
+via OS News · 2026-11-20, updated 2026-11-21
 
 FreeBSD has a pretty neat safe memory reclamation scheme (something akin to RCU), that’s also been adopted by XNU that hasn’t really been well-documented outside of code comments, and I thought it would’ve been interesting to write about it. ↫ Loïc Grégoire Some light reading for the weekend.
 
@@ -136,19 +148,19 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 
 ## [APOD: 2026 November 20 – V-G-R](https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/)
 
-via NASA breaking news · 2026-11-20, updated 2026-11-21
+via NASA breaking news · 2026-11-20, updated 2026-11-22
 
 APODScienceAPODAPOD: 2026 November…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. V-G-R Explanation: On November 17, fans of interstellar spaceflight around planet Earth were invited to shine a message into \[…\]
 
 ## [The Stormy Southwest Pacific](https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/)
 
-via NASA breaking news · 2026-11-20, updated 2026-11-21
+via NASA breaking news · 2026-11-20, updated 2026-11-22
 
 Tropical Cyclone Xavier launched the basin’s storm season with a bang.
 
 ## [Purism Differentiator Series, Part 19: PureOS Store](https://puri.sm/posts/purism-differentiator-series-part-19-pureos-store/)
 
-via Purism News · 2026-11-19, updated 2026-11-21
+via Purism News · 2026-11-19, updated 2026-11-22
 
 A useful app store should make it easy to find and install software. It should also help people understand what they are choosing.
 
@@ -180,7 +192,7 @@ NVIDIA and Microsoft are extending their full-stack collaboration to help organi
 
 ## [Challenge: Public Input on Life and the World in 2075](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/)
 
-via NASA breaking news · 2026-11-19, updated 2026-11-21
+via NASA breaking news · 2026-11-19, updated 2026-11-22
 
 NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Award: $20,000 in \[…\]
 
@@ -198,7 +210,7 @@ Turning a simulation idea into a working application means assembling assets, co
 
 ## [Price Is Not the Entire Point: How Purism is Building a Different Digital Future](https://puri.sm/posts/price-is-not-the-entire-point-how-purism-is-building-a-different-digital-future/)
 
-via Purism News · 2026-11-19, updated 2026-11-21
+via Purism News · 2026-11-19, updated 2026-11-22
 
 A phone has a price. Digital freedom has a value. If we judge a revolutionary phone only by its price tag, we miss the work behind it.
 
@@ -212,7 +224,7 @@ In a short clinical trial, participants who used the experimental toothbrush rep
 
 ## [NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars](https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/)
 
-via NASA breaking news · 2026-11-19, updated 2026-11-21
+via NASA breaking news · 2026-11-19, updated 2026-11-22
 
 Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.
 
@@ -266,7 +278,7 @@ Winter precipitation helped wake dormant seeds in northern Chile, carpeting the 
 
 ## [Purism Differentiator Series, Part 18: Funding the App Gap](https://puri.sm/posts/purism-differentiator-series-part-18-funding-the-app-gap/)
 
-via Purism News · 2026-11-18, updated 2026-11-21
+via Purism News · 2026-11-18, updated 2026-11-22
 
 A phone can respect your freedom and still need more apps. That is the app gap.
 
@@ -280,7 +292,7 @@ NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST,
 
 ## [Windows Server 2028 enters public preview with hardened Server Core by default](https://www.osnews.com/story/146433/windows-server-2028-enters-public-preview-with-hardened-server-core-by-default/)
 
-via OS News · 2026-11-18, updated 2026-11-20
+via OS News · 2026-11-18, updated 2026-11-21
 
 Microsoft has announced the public preview of Window Server 2028, and of course, the announcement is a useless jumble of buzzwords and slop, so I’m not going to spend any time decoding it. However, there is one major change coming in Server 2028 that everyone working with this platform really ought to be aware of – a massive hardening of Server Core that will definitely break things that used to work fine on Server 2025. It even got its own detailed blog post that’s a lot more interesting than the actual public preview announcement. Up to and including Windows Server 2025, a stock installation was insecure, unhardened by default, with the expectation and norm being that administrators applied their own hardening scripts and settings post-installation. With Server 2028, that’s changing, and Server Core will now be secured and hardened out of the box, with administrators having to explicitly relax any settings their workloads might require. Starting with Windows Server Insider Preview build 29706, Server Core installs hardened. Hundreds of security settings are on from first boot. They’re aligned with the industry benchmarks you’re already measured against, such as CIS and DISA STIG. The secure configuration is the starting state, not a project you run after setup. That closes the window where a newly deployed server sits exposed while it waits to be hardened.  ↫ Christina Curlette Things like identity and authentication, cryptography, privilege and admin access, remote access, and more, are all locked down and use only the most up-to-date features, cyphers, best practices, and so on. I’m no system administrator, but it seems kind of wild to me that this hasn’t always been the norm. I’m glad they’re at least moving to it now, starting with Insider Preview build 29706
 
@@ -298,7 +310,7 @@ About 20 percent of people alive today with European ancestry carry at least one
 
 ## [Microsoft is finally upgrading Windows 11’s default PowerShell to version 7.x](https://www.osnews.com/story/146431/microsoft-is-finally-upgrading-windows-11s-default-powershell-to-version-7-x/)
 
-via OS News · 2026-11-18, updated 2026-11-20
+via OS News · 2026-11-18, updated 2026-11-21
 
 In true Microsoft fashion, the version of PowerShell that ships with every Windows installation is not the latest version of PowerShell. Even if you fully update your Windows 11 installation, including all of its applications, you’ll still be stuck on an old version of PowerShell. While a fully updated Windows 11 installation has version 5.1, the most recent version is actually PowerShell 7.7. What makes matters worse is that PowerShell 5.1 hasn’t seen any significant development in ten years, only receiving security updates, with all development work focusing on PowerShell 7 for years now. Well, all of this is finally about to change, as the next version of Windows 11 – whatever that may be, Microsoft won’t say – will ship with PowerShell 7.x instead of 5.1. PowerShell 7 is coming to Windows. Beginning with the next release of Windows, PowerShell 7 will be included as the upgrade for Windows PowerShell 5.1. The Windows team has published the details in KB5137172. Here is what this means for you, your scripts, your automation, and where our work stands. ↫ Jason Helmick at Microsoft’s Dev Blog Microsoft also explains why it’s taken this long. The problem is that a lot of scripts, services, and mor rely on PowerShell 5.1, and PowerShell 7’s backwards compatibility wasn’t up to Microsoft’s strict standards on this front for years. Apparently, PowerShell 7.7 is now at a point where Microsoft feels comfortable moving everyone over to it by default. It seems that the only remaining issues stem from the fact that PowerShell 7 is delivered as an MSIX package as opposed to an MSI installer, and this brings some problems with it, which Microsoft is tracking on GitHub. Of course, you can already install and switch to PowerShell 7.x today if you want to, without losing access to PowerShell 5.1, as the two shell versions can live alongside each other.
 
@@ -352,7 +364,7 @@ It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Scienc
 
 ## [A RISC-V Phone: The Librem 5 v2 For the Win](https://puri.sm/posts/a-risc-v-phone-the-librem-5-v2/)
 
-via Purism News · 2026-11-18, updated 2026-11-21
+via Purism News · 2026-11-18, updated 2026-11-22
 
 For many people, a smartphone feels like an extra part of the body: it has a touchscreen, a camera, and internet access, while its operating system is controlled by one of a few big tech firms. That setup is convenient, but it also gives those firms power over the phone’s software, apps, updates, and hardware. Owners often have little say in those choices. Purism is making a RISC-V phone as an alternative.
 
@@ -424,7 +436,7 @@ A widespread, early-season snowstorm blanketed California’s mountains in white
 
 ## [Purism Differentiator Series, Part 17: Ecosystem](https://puri.sm/posts/purism-differentiator-series-part-17-ecosystem/)
 
-via Purism News · 2026-11-17, updated 2026-11-21
+via Purism News · 2026-11-17, updated 2026-11-22
 
 When people hear the word “ecosystem,” they often think of convenience. A phone, a computer, an app store, and a cloud account can work together...
 
@@ -556,7 +568,7 @@ For many astronauts, the spectacular sight of lightning stands out when looking 
 
 ## [Purism Launches Librem 5 v2 , A RISC-V Phone to Empower People](https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/)
 
-via Purism News · 2026-11-17, updated 2026-11-21
+via Purism News · 2026-11-17, updated 2026-11-22
 
 Purism, an independent U.S. technology company dedicated to protecting users’ privacy, security, and online freedom, today announced the launch of its second smartphone crowdfunding campaign, the Librem 5 v2.
 
@@ -576,7 +588,7 @@ At SC26, an annual supercomputing conference taking place this week in Chicago, 
 
 ## [Purism Differentiator Series, Part 16: Decentralization](https://puri.sm/posts/purism-differentiator-series-part-16-decentralization/)
 
-via Purism News · 2026-11-16, updated 2026-11-21
+via Purism News · 2026-11-16, updated 2026-11-22
 
 The internet was built to connect people across networks. But much of our digital life now runs through a small number of companies...
 
@@ -596,7 +608,7 @@ The two artists had a thoroughly complicated relationship—and a daughter—but
 
 ## [Finally, a truly premium Linux laptop: Star Labs’ StarFighter Ultra](https://www.osnews.com/story/146343/finally-a-truly-premium-linux-laptop-star-labs-starfighter-ultra/)
 
-via OS News · 2026-11-16, updated 2026-11-20
+via OS News · 2026-11-16, updated 2026-11-21
 
 Many popular Linux laptops are not designed from the ground-up for Linux. Often, they are machines designed and assembled by companies like Clevo, with parts and options picked by the Linux OEM to optimise them for Linux to make sure the hardware is optimally compatible. While there’s nothing wrong with this approach – there are countless great Linux laptops available that are made this way – there’s also something to be said for starting with a blank slate, and designing, developing, building, and assembling a Linux laptop entirely from scratch. One such laptop is Star Labs’ brand new StarFighter, which I’ve been using and testing over the last little while since it was launched. The StarFighter is an entirely custom powerhouse of a laptop, designed exclusively for Linux, both inside and out. Let’s talk about what it’s like to use the StarFighter, and if it’s worth considering when looking for a new laptop. The hardware The Starfighter comes in three flavours: Standard, Ultra, and AMD. I opted for the Ultra model, which comes with an Intel Core Ultra 9 285H, an Intel Arc 140T integrated GPU, 64GB of LPDDR5X RAM, and a 16″ 3840×2400 120Hz matte display. The standard model steps these specs down to an Intel Core Ultra 5 125H, 32GB of LPDDR5X RAM, and a 16″ 2560×1600 165Hz display, while the AMD model maintains the specifications of the Ultra, but with an AMD Ryzen 7 8845HS processor paired with a Radeon 780M integrated GPU. All three models share the same Intel AX210 Wi-Fi 6E chip, soldered RAM, and port configuration: 2 USB-C ports (Thunderbolt 4 on the Intel models), 3 USB-A ports, an HDMI 2.0 port, a microSD reader, a combined audio jack, and two PCIe Gen 4 NVMe slots on the motherboard. All three models run coreboot firmware, and come with a hardware kill switch for the wireless radios. Another really interesting security and privacy feature is how the Starfighter handles its webcam. Instead of being integrated into the display bezel, the webcam is a separate module that snaps onto the display lid magnetically, connecting through a few pogo pins (which form a USB 2.0 port, which I’m sure intrepid hardware hackers could do fun stuff with). When not in use, the webcam module is stored in its own little metal tray that slides out of the side of the laptop, securing itself in place magnetically. Neat. The webcam quality itself is decidedly average. I personally don’t ever use a webcam, but if you do, don’t expect miracles. It does its job, no more, no less. The StarFighter has a custom chassis made out of magnesium, with the only plastic part of the casing being the display inner hinge cover where I assume the antennas are integrated. It’s an incredibly sturdy device, with very little flex in the display cover, and zero flex in the keyboard deck. Thanks to the properties of magnesium, it’s quite lightweight at a mere 1.6kg. The bottom cover is easily removable, but the two screws in the middle of that cover are ever so slightly longer than all the other screws – ask me how I know. Star Labs opted for an understated, unobtrusive design. There’s no weird flourishes, no garish RGB lighting, no childish font on the keyboard – it’s all business, and I really like that. The dark finish feels incredibly nice, and despite the colour doesn’t seem to catch too many fingerprints. The speaker grills next to the keyboard look nice too, as does the keyboard itself – I especially appreciate that the the various modifier and non-character keys use text labels instead of symbols. Of course, since this is a Linux laptop, the super key is properly labelled. No Windows logo here, but no silly penguin either. The keyboard is backlit, of course, with several light levels, with a keyboard backlight timeout adjustable in coreboot. Using it The feel of the keyboard could use some work, however, at least for me. In particular, the key stability feels a bit off to me, meaning that unless you strike a key right in the middle, it might not register properly, as the keys wobble more than I would expect. A workaround, of sorts, is to strike the keys a bit harder than you normally would, but I’ve found this to be more difficult to adapt to than I initially expected. That being said, if you already have a more solid strike, it’s possible you won’t notice anything wrong with the keyboard at all. The trackpad, though, is basically perfect. Star Labs pulled out all the stops here, and went for a large haptic trackpad that feels absolutely incredible. I greatly prefer haptic trackpads, and have been puzzled for years now why Linux laptop OEMs continue to opt for wobbly diving board-style trackpads instead. It has a glass surface which hits the perfect middle-ground between smooth and textured, and it never seems to pick up any smudges or grease. Several of the parameters of the haptic trackpad can be configured in coreboot and supposedly from within Linux itself, but I haven’t figured that part out yet as the patches for it were only accepted very recently. It is the perfect trackpad. Zero complaints. Every single click, every single gesture, every single swoosh feels perfect. I don’t like being this ecstatic about something – there’s usually flaws in everything – but it’s really just that good. While testing the StarFighter, I used some other laptops with the old diving board design, and they’re all ruined for me now. I’m usually a fan of smaller laptops, with 14″ being my upper bound. However, laptops have gotten so light, and bezels so thin, that the 16″ of today is the 14″ of several years ago – not exactly, but you get my point. I definitely had to get used to this larger laptop, but now that I have acclimatised, having 3840×2400 pixels spread out across a 16″ canvas is honestly kind of amazing. I
 
@@ -742,25 +754,25 @@ Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bri
 
 ## [KDE will now load XWayland on demand](https://www.osnews.com/story/146401/kde-will-now-load-xwayland-on-demand/)
 
-via OS News · 2026-11-15, updated 2026-11-20
+via OS News · 2026-11-15, updated 2026-11-21
 
 When running KDE, the X11 compatibility layer for Wayland, XWayland, always runs, even if there isn’t anything on the system still requiring the legacy X server to work. In the next step towards a Wayland-only world, the KDE people have reached a major milestone: XWayland now only runs when actually needed. This week a significant technical milestone was achieved: the XWayland compatibility layer is now loaded only when needed. Previously it had always been running even when no apps were using it, and fixing this required porting various system services away from legacy X11 code paths. This work was done by Vlad Zahorodnii, David Edmundson, and David Redondo, and will ship in Plasma 6.9. ↫ Nate Graham This frees up some system resources, which is always a welcome improvement. I do wonder how this might impact the load times of legacy X applications, but I have a feeling it’s close to immeasurable.
 
 ## [Redox gets Go, GIMP, and more](https://www.osnews.com/story/146399/redox-gets-go-gimp-and-more/)
 
-via OS News · 2026-11-15, updated 2026-11-20
+via OS News · 2026-11-15, updated 2026-11-21
 
 I love and admire the Redox project, but their insistence on fudging the publication dates of their monthly progress reports really bothers me, for some reason. No, I’m not 16 days late – the report covering October was published only yesterday evening, and not on 31 October as the website claims. None of this matters to anyone but weird people such as myself, but I still want to get it off my chest. Don’t bother any Redox people about this. Anyway, the big news for the month of October is the port of the official Go programming language compiler, allowing for cross-compilation and self-hosted compilation using relibc. Another major port also made its way to Redox in October: GIMP now runs on Redox, using the Orbital backend of the GTK port. The work to make Redox compatible with Cloud Hypervisor is also complete, with more information in its own dedicated article. Video playback in WebKitGTK3 has been fixed as well, and even YouTube works now which is quite neat. There’s a ton more in this report, like an updated Servo port, NUMA support has been tested on real hardware for the first time and seems to work, work on rootless package installation has begun, and much more.
 
 ## [Disk encryption on NetBSD: achieving secrecy](https://www.osnews.com/story/146397/disk-encryption-on-netbsd-achieving-secrecy/)
 
-via OS News · 2026-11-15, updated 2026-11-20
+via OS News · 2026-11-15, updated 2026-11-21
 
 NetBSD developer Nia Alarie has written a guide on how to set up a NetBSD system with disk encryption that’s quite useful for those of us who deeply care about such a level of security. On top of that, the guide is also interesting if you just want to learn a bit more about how NetBSD works. The guide is written for sparc64, but should work on more mainstream architectures just as well. A guide written by a NetBSD developer is obviously going to employ some exotic or weird hardware. As is tradition.
 
 ## [Purism Differentiator Series, Part 15: Individual Control](https://puri.sm/posts/purism-differentiator-series-part-15-individual-control/)
 
-via Purism News · 2026-11-15, updated 2026-11-21
+via Purism News · 2026-11-15, updated 2026-11-22
 
 Technology should work for people. Yet many devices give their owners little say over the software, the services, or the data involved in everyday use.
 
@@ -768,13 +780,13 @@ The post [Purism Differentiator Series, Part 15: Individual Control](https://pur
 
 ## [Creating a self-booting ZIP archive](https://www.osnews.com/story/146395/creating-a-self-booting-zip-archive/)
 
-via OS News · 2026-11-15, updated 2026-11-20
+via OS News · 2026-11-15, updated 2026-11-21
 
 Linux initramfs supports unpacking CPIO, a stupid, simple, standardized format. In the discussion on whether to support TAR instead, much emphasize has been put on the fact that CPIO is standardized and less fragmented. Luckily, Linux (the kernel) includes its own tool to produce the specific variant of the standard that it happens to implement. The standard CPIO tool is possibly the most cursed archiver under the SUN. In the old DOS/WinDOS world, ZIP was probably the most widespread and well-known archive format, being displaced to some extent by the rise of RAR during the 2000s. Because of the design of the format, ZIP lends itself to all kinds of polyglot trickery. Way back when, self extracting ZIP archives where a thing, EXE/ZIP polyglots that can be run and unpack themselves, which is useful if you don’t have an archiver installed. I don’t think I need to explain where I am going with this. ↫ David Oberhollenzer This is lovingly cursed.
 
 ## [MenuetOS keeps steadily improving](https://www.osnews.com/story/146384/menuetos-keeps-steadily-improving/)
 
-via OS News · 2026-11-13, updated 2026-11-20
+via OS News · 2026-11-13, updated 2026-11-21
 
 MenuetOS, the operating system written in x86-64 assembly, has seen a few new releases since we last looked at it, delivering some welcome improvements. Secure network connections are now faster, there’s a TrueType font demo, and, of course, the usual bugfixes and smaller improvements. The game Wizord EXL100 has been ported, and a few drivers have been improved as well. You can get the latest releases from the downloads page.
 
@@ -862,19 +874,19 @@ After decades of decline, this ecologically significant type of forest is making
 
 ## [ReactOS makes strides in SMP, 64bit, and more](https://www.osnews.com/story/146373/reactos-makes-strides-in-smp-64bit-and-more/)
 
-via OS News · 2026-11-13, updated 2026-11-20
+via OS News · 2026-11-13, updated 2026-11-21
 
 The ReactOS project organised two hackfests this year, and the work done during those in-person sessions, combined with the ongoing regular progress, has led to some pretty significant breakthroughs and progress. More NT6+ syscalls have been added, ReactOS supports floppy disks now, NTFS support has been vastly improved, and much more. There’s also a new USB3/4 stack, which is now merged and offers basic support for these versions of USB. One of the biggest additions is a new kernel shim engine which gives ReactOS the ability to work around buggy drivers and implement quirks, moreso than even Windows itself can. For instance, thanks to this new shim, XP-era NVIDIA drivers can run on NT6 ReactOS. The ongoing efforts to implement SMP are yielding results too: ReactOS can now run with SMP for days on end while doing tasks in the background, which is quite promising. The team is showing off Steam and the game Among Us running on ReactOS, which is definitely impressive.
 
 ## [Polo: a new Wayland compositor for MATE](https://www.osnews.com/story/146370/polo-a-new-wayland-compisitor-for-mate/)
 
-via OS News · 2026-11-13, updated 2026-11-20
+via OS News · 2026-11-13, updated 2026-11-21
 
 MATE is probably the last X11-only holdout among the major desktop environments, but that’s about to change if Kerem Söke has anything to say about it. Polo is a port of Marco’s behavior and window management policies to Wayland, built on libweston and written in Vala and C. It’s a window manager, compositor, and session authority for the MATE Wayland desktop. It takes over, step by step, what Marco, mate-session-manager and the compositor-facing parts of mate-settings-daemon do on X11. ↫ Polo’s GitHub page Söke is looking for testers with this very first Polo 1.0.0 release – cute name, too – which is available on its GitHub page.
 
 ## [IBM to offer access to a dual-processor quantum system in 2027](https://www.osnews.com/story/146368/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/)
 
-via OS News · 2026-11-13, updated 2026-11-20
+via OS News · 2026-11-13, updated 2026-11-21
 
 Ars Technica published a short write-up about changes to IBM’s quantum computing plans. The changes greatly expand the scope of its next-generation Nighthawk general-use processors by adding a version with over 500 programmable qubits. At the same time, it’s stepping back a bit on its plan to link multiple Nighthawk processors together, dropping the intended number of linked systems from nine to two. The total number of qubits planned for next year will remain the same; how the company is getting there, however, will be different. Meanwhile, the company is touting the performance boost achieved via a major change that was made in the generation of Nighthawk processors released in September: hardware-based qubit resets. ↫ John Timmer at Ars Technica I’m convinced quantum computing will eventually have a big impact in the areas its characteristics are presumed to be well-suited for. Also, it just looks and sounds incredibly cool, even if as the technology currently stands it’s not particularly useful yet.
 
@@ -976,7 +988,7 @@ As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photogr
 
 ## [I’m not descending into madness because mount and unmount icons make no sense](https://www.osnews.com/story/146312/im-not-descending-into-madness-because-mount-and-unmount-icons-make-no-sense/)
 
-via OS News · 2026-11-12, updated 2026-11-20
+via OS News · 2026-11-12, updated 2026-11-21
 
 There are many problems in this world – some big, some small, some so minute nobody ought to put them to paper at all. The problem I’m going to highlight here is even smaller than that. This literally – the actual literally – does not matter and absolutely nobody should care about it, let alone put any work into changing it or addressing it some other way. I want to talk about the iconography GNOME’s Disks utility uses to symbolise “mount” and “unmount”. No, I’m not descending into madness. GNOME’s Disks utility uses the “play” symbol on the mount button, and the “stop” symbol on the unmount button. Inexplicably, considering the state of the world in general and the rapidly deteriorating quality of software specifically, this bothers me. Out in the real world, built on decades of consistent use, these symbols have gained clearly defined meanings, and mounting and unmounting disks definitely isn’t one of them. In fact, the meaning of these symbols isn’t mere convention; they’re defined in a variety of international standards for symbols for use in software and on equipment, such as ISO/IEC 18035 (which you need to buy to read; my copy fell of a truck): ISO/IEC 18035:2002 defines a consistent set of icons and related functions that are represented by multimedia applications on a computer screen and that users interact with to control such applications. It describes controls applying to such functions as: Play, Pause, Stop, Rewind, Scan forward, Scan backward, Replay backward, Loop, Go to beginning, Go to previous, Go to next, Go to end, Set volume and Mute. ↫ ISO/IEC 18035:2003 They’re also part of ISO 7000/IEC 60417, a much larger, more encompassing standard that also contains things like the various symbols used on laundry machines, tumble dryers, in cars, and so on. The symbols themselves are much older than the standards, of course, with many of them dating back to the 1960s and possibly even 1950s. The point remains, though: the play and stop symbols have clearly defined meanings, and I don’t think they are at all a good fit for mount and unmount. The function of the “play” symbol according to ISO/IEC 18035: To enable the user to start the presentation of dynamic media, except where the task requires automatic playing of that media. ↫ ISO/IEC 18035:2003 And of the “stop” symbol: To enable the user to stop the presentation of dynamic media. ↫ ISO/IEC 18035:2003 Neither of these descriptions match what mounting and unmounting mean or do. Mounting a drive or partition doesn’t present any media at all; it merely makes the drive or partition in question accessible. Unmounting also doesn’t eject anything; it merely makes the drive or partition inaccessible. I would argue that play and pause act upon contents of a drive or volume, and not upon the drive or volume itself. As it stands right now, you “play” a drive” to “play” a video stored on said drive. Madness. I already know what you’re thinking, and yes, I agree that the Disks utility is a tool aimed at more advanced use cases and users, and most normal, average users will never even know it exists, let alone open it at all. Very few people get to see these symbols, and those that do already know full well what mounting and unmounting mean, reducing the importance of said symbols considerably. But now it’s time for the big surprise, the twist in the story that turns this entire thing on its head. Files, GNOME’s file manager, uses an entirely different symbol for unmounting! Instead of the “stop” symbol, Files uses the “eject” symbol. You may think this is a more accurate visual representation of what unmounting means, but I strongly disagree. Let’s turn to ISO/IEC 18035:2003 once again: To enable the user to eject the current physical media from the appropriate drive. ↫ ISO/IEC 18035:2003 Unmounting doesn’t eject anything! If you unmount a USB stick, the stick doesn’t get fired out of the USB port. If you unmount a volume, it doesn’t get removed from the SSD. Hell, if you unmount a CD-ROM, it doesn’t even eject it! Ejecting a CD-ROM – opening the drive’s tray or spitting the CD-ROM out of a slot-loader – is an entirely different act! Are we really “ejecting” a CD-ROM twice? Are we “mounting” a CD-ROM when we merely close the tray? No! Madness! The real underlying problem here is, of course, that mounting and unmounting are deeply weird and confusing concepts, bordering on the esoteric, that simply do not have physical equivalents to fall back on. Using symbols and iconography designed in the 1960s explicitly for playing music or stopping a video or ejecting a cassette tape are not a good fit for something as difficult to explain to most people as mounting and unmounting. It’s like putting an eject symbol on a car’s door handle or a play symbol on a soap dispenser. Should GNOME developers waste any time or resources to address this? No, of course not, that would be stupid. Nobody should care about this but me. I should suffer in silence, every time I need to mount or unmount something, forced to look for an eject or stop symbol in whatever user interface I happen to be using. Every time, I should die a little inside. Please, don’t be like me and waste precious resources thinking about this. I’m not descending into madness. I just want mount and unmount symbols that make sense. I’m not descending into madness.
 
@@ -1000,7 +1012,7 @@ Written by William Farrand, Senior Research Scientist, Space Science Institute E
 
 ## [Haiku gets multifinger touchpad taps](https://www.osnews.com/story/146350/haiku-gets-multifinger-touchpad-taps/)
 
-via OS News · 2026-11-11, updated 2026-11-20
+via OS News · 2026-11-11, updated 2026-11-21
 
 We’re almost halfway through November, but we hadn’t seen Haiku’s monthly activity report for October yet. It’s here now, and there’s quite a few good things in here, like support for two and three-finger tap gestures on touchpads for right and middle-click, a new driver that adds Universal Flash Storage support, and even some build fixes for Haiku’s SPARC port as well as some fixes on the RISC-V side. Of course, that’s just a selection, as there’s the usual long list of smaller changes, bugfixes, and improvements as well.
 
@@ -1953,28 +1965,4 @@ Forgejo is removing OpenID Authentication 2.0 support in 2027.
 via NASA breaking news · 2026-11-01, updated 2026-11-02
 
 APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the \[…\]
-
-## [Sculpt OS 26.10 releases](https://www.osnews.com/story/146275/sculpt-os-26-10-releases/)
-
-via OS News · 2026-10-31, updated 2026-11-09
-
-Sculpt OS 26.10 brings quite a few new features, like scalable cursors, support for UK keyboards, better webcam support, and more, but the real meat of this release is much tastier. First, Sculpt 26.10 is the first version based on Genode’s custom microkernel instead of relying on a 3rd-party kernel. This kernel – designed from the ground up for the needs of Genode and Sculpt OS in particular – is not only more “micro” than any other of the microkernels supported by Genode, it also solves long-standing deficiencies concerning CPU scheduling and kernel-memory management. Sculpt OS finally stands on Genode’s own footing! Finally, Sculpt OS 26.10 pays tribute to this year’s overall theme of “building bridges” by featuring our software development kit (Goa SDK) running directly on Sculpt OS without virtualization. This entails a wealth of tooling including GCC, Binutils, Git, Sequoia, Expect, Curl, man, Make, and CMake having landed on Genode. Although still young and not time-tested yet, it shows what’s possible today and allows us developers to gradually shift more and more development routine into this self-hosted environment, stressing the general-purpose qualities of Genode and motivating further optimizations. ↫ Sculpt OS release 26.10 announcement This new release also completes the transition from XML to Genode’s own HID language for configuration, moves from VirtualBox 6 to 7, and upgrades a whole slew of its Linux-based drivers
-
-## [How long do you need to hold down the power button to turn off a PC?](https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/)
-
-via OS News · 2026-10-31, updated 2026-11-09
-
-Raymond Chen published another story from the Windows development trenches, this time about what happens when you hold down the power button. If you hold a PC’s power button for 12 seconds, it will turn off at the hardware level without notifying the operating system. This is a safety feature so that you can turn of the computer even if the operating system’s “Shut down” command isn’t working. After eight seconds of the power button being held down, the Windows kernel realizes that the user is trying to do a force-power-off of the system, and it quickly takes a kernel dump that can be uploaded to the Windows Error Reporting service the next time you turn the system on. ↫ Raymond Chen I’m a bit confused by these numbers, because I have never seen a PC take this long to power off when holding down the power button; usually it takes only a few seconds to do so, meaning Windows would never generate said kernel dump. I tried reading through the various ATX specification documents to find more information on this, but then I remembered I’m not an electrical engineer so I have no idea what I’m looking at. The baseline is that ATX always provides standby power to the motherboard, and pressing the power button shorts the power button pin to ground, telling the PSU to power on fully. Pressing the power button if the computer is running tells the operating system to initiate a shutdown (although you can change this behaviour), but if you hold the button down for a certain number of seconds, it forces a power-off. So far, so good; basic information. It seems that the length of time you need to hold down the power button to force a power-off is dependent on the motherboard in question, handled by a microcontroller or some other IC. Virtually every source I can find says this timing is set to about 4-5 seconds, which is quite a bit shorter than the number of seconds given by Chen. Perhaps motherboard manufacturers consider the 12 seconds to be too long, and just do their own thing, regardless what the ATX specification suggests? What further complicates matters is that Chen details how the kernel dumps created after pressing the power button for 8 seconds do, in fact, get sent to Microsoft once the computer turns on again. In fact, he is one of the people who gets to see these dumps and respond to them, so obviously they are indeed rolling in. Does this mean there’s a huge number of computers out there that require you to hold down the power button for 12 seconds to force a shutdown that nobody’s ever seen? These emergency kernel dumps are internally classified as “long power button hold” (LPBH) failures. One of the pieces of information recorded in these emergency kernel dumps is whether the screen consists entirely of black pixels. Those failures are sub-classified as “black screen LPBH”, and they go to a special virtual team for analysis. (I happen to be a member of this black screen LPBH team.) ↫ Raymond Chen What’s going on here? Obviously, I’m not going to doubt Chen, so there must be something here I don’t quite understand or that I’m missing. The ATX specification might suggest 12 seconds, but could Windows perhaps adapt its kernel dump behaviour – dumping much sooner than 8 seconds – based on the motherboard it’s running on, maybe through information provided by the chipset drivers? I would love it if someone more knowledgeable than me can help us unravel this small mystery.
-
-## [How curl was accidentally Turing-complete for nine months](https://www.osnews.com/story/146271/how-curl-was-accidentally-turing-complete-for-nine-months/)
-
-via OS News · 2026-10-31, updated 2026-11-07
-
-From curl 8.12 through 8.16, config files could slice variable values and include other config files without an explicit depth cap. Together, these features let curl simulate any two-counter Minsky program. Under the usual idealization of unbounded strings and resources, this construction was Turing-complete. Curl 8.17.0 added a five-level include cap that breaks this reduction. ↫ Nicolas Seriot Neat.
-
-## [APOD: 2026 October 31 – Night on a Spooky Planet](https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/)
-
-via NASA breaking news · 2026-10-31, updated 2026-11-02
-
-APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a \[…\]
 

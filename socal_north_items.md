@@ -1,20 +1,50 @@
 ---
 title: "SoCal North"
 description: "News and posts related to the greater North Los Angeles and adjacent counties.\n"
-pubDate: Sat, 21 Nov 2026 06:26:55 GMT
+pubDate: Sat, 21 Nov 2026 18:51:31 GMT
 aggregateOf: "socal_north.md"
-dateModified: Sat, 21 Nov 2026 14:31:14 GMT
-itemCount: 298
+dateModified: Sun, 22 Nov 2026 14:31:52 GMT
+itemCount: 300
 generator: antenna/0.1.1
 ---
 
 # SoCal North
 
+## [Thousands of mixed-status California families to lose housing under Trump HUD rule](https://laist.com/news/housing-homelessness/thousands-of-mixed-status-california-families-to-lose-housing-under-trump-hud-rule)
+
+via The LAist · 2026-11-21
+
+A new rule barring mixed immigration status families from federally funded housing will hit California harder than any other state.
+
+## [Inglewood City Council rejects effort to audit billboard revenue](https://laist.com/news/gloria-grays-effort-to-audit-inglewoods-billboard-revenue-dies-in-city-council)
+
+via The LAist · 2026-11-21, updated 2026-11-22
+
+Councilmember Gloria Gray first floated the audit proposal in October when the Inglewood City Council launched a separate stadium tax audit.
+
+## [Born after the Eaton Fire, Backyard Party opens a permanent music venue for teens in Pasadena](https://laist.com/news/los-angeles-activities/backyard-party-pasadena-permanent-home-2026)
+
+via The LAist · 2026-11-21
+
+The all-ages, alcohol-free space is committed to keeping ticket prices low and making sure the young bands are paid.
+
+## [An Arcadia restorer is reviving Bob Hope’s nativity set — and looking for its missing angel](https://laist.com/news/los-angeles-activities/bob-hope-nativity-restoration)
+
+via The LAist · 2026-11-21
+
+After spending decades outdoors, the 17 figures had dry rot, faded paint and a moldy donkey. They return to downtown L.A. in December.
+
+## [Grammy-winning musician Silvana Estrada to program Latin music at the LA Phil](https://laist.com/news/arts-and-entertainment/grammy-winning-musician-silvana-estrada-to-program-latin-music-at-the-la-phil)
+
+via The LAist · 2026-11-21
+
+Estrada will be the newly created creative chair for Latin music.
+
 ## [ICE Agents Smash Car Windows, Pepper Spray Community Patroller in Santa Clarita](https://lataco.com/ice-smash-windows-pepper-spray-santa-clarita)
 
-via L. A. Taco · 2026-11-21
+via L. A. Taco · 2026-11-21, updated 2026-11-22
 
-Community patrollers at a sheriff's station offered a ride to a man leaving the station. Video shared with L.A. TACO shows that ICE agents surrounded their vehicle and threatened various people at the parking lot.
+Community patrollers at a sheriff's station offered a ride to a man leaving the station. Video shared with L.A. TACO shows that ICE agents surrounded their vehicle, then threatened and sprayed various people at the parking lot.
 
 The post [ICE Agents Smash Car Windows, Pepper Spray Community Patroller in Santa Clarita](https://lataco.com/ice-smash-windows-pepper-spray-santa-clarita) appeared first on [L.A. TACO](https://lataco.com).
 
@@ -62,11 +92,17 @@ City Councilmember Ysabel Jurado and Mayor-elect Nithya Raman have introduced a 
 
 ## [Our Nine Favorite Punk Movie Moments Filmed in L.A., Ranked](https://lataco.com/punk-movie-scenes-filmed-in-la)
 
-via L. A. Taco · 2026-11-20, updated 2026-11-21
+via L. A. Taco · 2026-11-20, updated 2026-11-22
 
 Spoilers ahead! From South L.A. to the Valley, from Downtown to the Westside, here's our guide to the locations of nine punk movie moments filmed in L.A.
 
 The post [Our Nine Favorite Punk Movie Moments Filmed in L.A., Ranked](https://lataco.com/punk-movie-scenes-filmed-in-la) appeared first on [L.A. TACO](https://lataco.com).
+
+## [LA has designated Nov. 22 as Kimchi Day. An entire festival is celebrating the dish this weekend](https://laist.com/news/los-angeles-activities/kimchi-festival-2026-arboretum-la-county)
+
+via The LAist · 2026-11-20, updated 2026-11-21
+
+The L.A. County Arboretum hosts its first-ever Kimchi Festival to celebrate California Kimchi Day.
 
 ## [California budget analyst warns stock market crash poses risk of ballooning deficit](https://laist.com/news/politics/california-budget-analyst-warns-stock-market-crash-poses-risk-of-ballooning-deficit)
 
@@ -86,7 +122,7 @@ The post [Experts Urge Travelers to Get a Flu Shot Before Thanksgiving](https://
 
 ## [Experience An Ethiopian Coffee Ceremony On Pico and a Sexy Space For Ghanaian-Japanese Fusion On Sunset](https://lataco.com/ethiopian-coffee-ceremony)
 
-via L. A. Taco · 2026-11-20, updated 2026-11-21
+via L. A. Taco · 2026-11-20, updated 2026-11-22
 
 The beans are pan-roasted in the kitchen and brewed in a traditional clay jebena before being served to you and your friends.
 
@@ -130,7 +166,7 @@ The state gave $29 million to county registrars to speed up ballot-counting this
 
 ## [ICE Watch: Remembering the Summer ICE Took the Parents of Two San Diego Teens](https://lataco.com/ice-watch-san-diego-parents-taken)
 
-via L. A. Taco · 2026-11-20, updated 2026-11-21
+via L. A. Taco · 2026-11-20, updated 2026-11-22
 
 "I hope every family stays together, and I hope none of this happens to you guys how this happened to me,” said Kevin Robles, a U.S. Citizen who was 17 years old at the time.
 
@@ -176,7 +212,7 @@ California’s ban against public funding for most state and local candidates ru
 
 ## [These Rare Blue Corn Tamales Sell Out Every Saturday in Sherman Oaks](https://lataco.com/true-blue-corn-tamales)
 
-via L. A. Taco · 2026-11-19, updated 2026-11-21
+via L. A. Taco · 2026-11-19, updated 2026-11-22
 
 Afro-Mexicana tamal vendor Jasmine Ledesma's newest side hustle brings her generational recipes to a Rite Aid parking lot. Demand is so high that even scammers are targeting their sales.
 
@@ -352,7 +388,7 @@ After federal agents blocked the ambulance entrance and detained two protesters,
 
 ## [The New York Times Got L.A.’s True Eastside Wrong and Why It Definitely Matters](https://lataco.com/eastside-los-angeles)
 
-via L. A. Taco · 2026-11-18, updated 2026-11-21
+via L. A. Taco · 2026-11-18, updated 2026-11-22
 
 The Eastside is almost a state of consciousness; a place that shows how deeply you know Los Angeles.
 
@@ -372,7 +408,7 @@ The bridge stretches 1,250 feet (380 meters) in two sections over the roadways t
 
 ## [Investigations Newsletter: Will Nithya Raman Fire LAPD Chief Jim McDonnell?](https://lataco.com/will-nithya-raman-fire-jim-mcdonnell)
 
-via L. A. Taco · 2026-11-18, updated 2026-11-21
+via L. A. Taco · 2026-11-18, updated 2026-11-22
 
 We asked.
 
@@ -418,7 +454,7 @@ A federal judge has signed off on a step-by-step handoff. Here’s a breakdown o
 
 ## [The Coolest 11 Places In L.A. With Free Wi-Fi to Work From When You Need to Get Out of the House](https://lataco.com/cafes-bars-remote-work-wfh)
 
-via L. A. Taco · 2026-11-18, updated 2026-11-21
+via L. A. Taco · 2026-11-18, updated 2026-11-22
 
 Only in L.A. can you work away from home with complimentary cannabis pre-rolls, hot tubs, beach views, and even a spa.
 
@@ -480,7 +516,7 @@ Leonard Redway, Inglewood City Council District 1 candidate, must stay 100 yards
 
 ## [Vandenberg hosts 2026 Fall Job Fair](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649605/vandenberg-hosts-2026-fall-job-fair/)
 
-via Vandenberg Base News · 2026-11-17, updated 2026-11-21
+via Vandenberg Base News · 2026-11-17, updated 2026-11-22
 
 Attendees explore career opportunities during the Fall Job Fair at the Pacific Coast Center at Vandenberg Space Force Base, California, Nov. 16, 2026.
 
@@ -526,7 +562,7 @@ The post [Free Drive-Thru Sandbag Distribution at Central Park](https://santacla
 
 ## [Our 28 Favorite Tacos Al Pastor, Adobada, and Árabes in Los Angeles](https://lataco.com/best-al-pastor-la)
 
-via L. A. Taco · 2026-11-16, updated 2026-11-21
+via L. A. Taco · 2026-11-16, updated 2026-11-22
 
 Whether they use lamb, octopus, pork, beef, or mushrooms, these are our favorite places to get what might be L.A.'s official taco.
 
@@ -546,7 +582,7 @@ The U.S. Supreme Court denied the Trump administration’s appeal of lower court
 
 ## [Sentinel Stage Processing Facility Ribbon Cutting Ceremony at Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649455/sentinel-stage-processing-facility-ribbon-cutting-ceremony-at-vandenberg-space/)
 
-via Vandenberg Base News · 2026-11-16, updated 2026-11-21
+via Vandenberg Base News · 2026-11-16, updated 2026-11-22
 
 The recently completed facility will serve as a hub for processing and testing components for the next-generation Sentinel weapon system ribbon cutting ceremony held at Vandenberg Space Force Base, California, Nov. 5, 2026.
 
@@ -576,7 +612,7 @@ via The Source MTA blog · 2026-11-16, updated 2026-11-21
 
 ## [In the Age of A.I. Slop, a Montebello Metalhead Still Proudly Draws Albums and Flyers By Hand](https://lataco.com/black-metal-punk-album-art)
 
-via L. A. Taco · 2026-11-16, updated 2026-11-21
+via L. A. Taco · 2026-11-16, updated 2026-11-22
 
 “I need to paint and draw my best to compete against this A.I. shit,” Guillermo Millán says. "There’s some people who use A.I. to write music, and it’s just wack."
 
@@ -638,7 +674,7 @@ The post [Stalled Offensive Drives, Rain, Flat Defense, Plague Birmingham in 36-
 
 ## [UNARMED MINUTEMAN III ICBM TEST LAUNCH SCHEDULED AT VANDENBERG SPACE FORCE BASE](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4648574/unarmed-minuteman-iii-icbm-test-launch-scheduled-at-vandenberg-space-force-base/)
 
-via Vandenberg Base News · 2026-11-14, updated 2026-11-21
+via Vandenberg Base News · 2026-11-14, updated 2026-11-22
 
 An operational test launch of an Air Force Global Strike Command unarmed Minuteman III intercontinental ballistic missile is scheduled between 11:01 p.m. Pacific Time, Nov. 17, and 5:01 a.m. Pacific Time, Nov.18, from the northern portion of the installation.
 
@@ -900,6 +936,12 @@ via The LAist · 2026-11-12
 
 The mayor-elect has pledged to cut the number of tents and encampments in half by the summer of 2028.
 
+## [10 food-related gifts that exude LA this holiday season](https://laist.com/news/los-angeles-activities/gift-guide-2026-10-food-related-gifts-that-exude-la-this-holiday-season)
+
+via The LAist · 2026-11-12, updated 2026-11-21
+
+Got a food obsessive in your life? Gab Chabrán hand-picked 10 gifts that celebrate our dynamic food scene.
+
 ## [Books for young readers from preschool to high school](https://laist.com/news/los-angeles-activities/2026-kids-book-gift-guide-southern-california-authors-illustrators)
 
 via The LAist · 2026-11-12, updated 2026-11-21
@@ -912,11 +954,17 @@ via The LAist · 2026-11-12, updated 2026-11-21
 
 How do you convey gratitude for warm snuggles, boundless enthusiasm, undying loyalty, surreptitious side-eye and unconditional love? We’ve got a few ideas …
 
-## [10 food-related gifts that exude LA this holiday season](https://laist.com/news/los-angeles-activities/gift-guide-2026-10-food-related-gifts-that-exude-la-this-holiday-season)
+## [Smart picks for those anticipating a wet and rainy El Niño](https://laist.com/news/los-angeles-activities/gift-guide-2026-smart-picks-wet-rainy-weather-el-nino)
 
-via The LAist · 2026-11-12
+via The LAist · 2026-11-12, updated 2026-11-21
 
-Got a food obsessive in your life? Gab Chabrán hand-picked 10 gifts that celebrate our dynamic food scene.
+Winter is coming — and this year, it's bringing an uninvited guest. The El Niño climate pattern could bring rain, rain and more rain to SoCal this season.
+
+## [Explore LA — mementos, accessories and an app inspired by SoCal](https://laist.com/news/los-angeles-activities/gift-guide-2026-explore-la-mementos-accessories-apps)
+
+via The LAist · 2026-11-12, updated 2026-11-21
+
+Cool gift ideas based on our Explore LA stories.
 
 ## [Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same](https://www.rand.org/news/press/2026/11/higher-income-parents-more-likely-to-use-ai-encourage.html)
 
@@ -1026,7 +1074,7 @@ The century-old diner brings back its pancakes and coleslaw, plus new dishes lik
 
 ## [Solvang holds 2026 Veterans Day observance with support of Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4646630/solvang-holds-2026-veterans-day-observance-with-support-of-vandenberg-space-for/)
 
-via Vandenberg Base News · 2026-11-11, updated 2026-11-21
+via Vandenberg Base News · 2026-11-11, updated 2026-11-22
 
 U.S. Space Force Chief Master Sgt. Shannan Sanchez, Space Launch Delta 30 command senior enlisted leader, delivered the keynote address during a Veterans Day ceremony at the Solvang Veterans Memorial Hall in Solvang, California, Nov. 11, 2026.
 
@@ -1120,7 +1168,7 @@ Those in Little Bangladesh say they are often ignored, but Raman spent time list
 
 ## [Not Just Child’s Play: Space Force Technicians Assist Children’s Museum with Restoration Project](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4646428/not-just-childs-play-space-force-technicians-assist-childrens-museum-with-resto/)
 
-via Vandenberg Base News · 2026-11-10, updated 2026-11-21
+via Vandenberg Base News · 2026-11-10, updated 2026-11-22
 
 After painstaking restoration, a museum’s interactive recycling display recently whirred back to life thanks to the technicians of the 30th Operations Support Squadron’s Training Device Design and Engineering Center at Vandenberg Space Force Base.
 
@@ -2019,44 +2067,4 @@ via San Fernando Sun · 2026-11-01, updated 2026-11-03
 By Matthew Robinson NORTH HOLLYWOOD –The Verdugo Hills Dons (VHS) are one of those teams in the Los Angeles City Section that one doesn’t hear much about. And that’s because \[…\]
 
 The post [Jered Smith Leads Verdugo Hills to 39-3 Conquest of Grant](https://sanfernandosun.com/2026/10/31/jered-smith-leads-verdugo-hills-to-39-3-conquest-of-grant/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [Long Beach coastal waters remain closed after 29,000-gallon sewage spill](https://laist.com/news/climate-environment/29-000-gallons-of-sewage-spill-in-belmont-shore-forcing-city-to-close-coastal-waters)
-
-via The LAist · 2026-10-31, updated 2026-11-02
-
-Health officials say 29,000 gallons of sewage spilled out of a mainline pipe in Belmont Shore on Friday evening.
-
-## [Long Beach coastal waters remain closed after 29,000-gallon sewage spill](https://laist.com/news/29-000-gallons-of-sewage-spill-in-belmont-shore-forcing-city-to-close-coastal-waters)
-
-via The LAist · 2026-10-31, updated 2026-11-01
-
-Health officials say 29,000 gallons of sewage spilled out of a mainline pipe in Belmont Shore on Friday evening.
-
-## [Have You Cast Your Ballot Yet?](https://santaclarita.gov/blog/2026/10/31/have-you-cast-your-ballot-yet/)
-
-via City of Santa Clarita · 2026-10-31, updated 2026-11-10
-
-City Manager Ken Striplin Election Day is almost here, and if you haven’t voted, there’s still time to make your voice heard. The November 3 General Election is right around the corner, and Los Angeles County makes it easy to cast your ballot in a way that works best for you. Every registered voter in \[…\]
-
-The post [Have You Cast Your Ballot Yet?](https://santaclarita.gov/blog/2026/10/31/have-you-cast-your-ballot-yet/) appeared first on [City of Santa Clarita](https://santaclarita.gov).
-
-## [Vanguards of Language: Obi Kaufmann, Saul Williams, and the Power of Poetry](https://lataco.com/vanguards-of-language-kaufmann-williams-poetry)
-
-via L. A. Taco · 2026-10-31, updated 2026-11-04
-
-New books by Kaufmann and Williams are valuable manifestos that urge us to create a new world by transforming how we live and what we create.
-
-The post [Vanguards of Language: Obi Kaufmann, Saul Williams, and the Power of Poetry](https://lataco.com/vanguards-of-language-kaufmann-williams-poetry) appeared first on [L.A. TACO](https://lataco.com).
-
-## [Cal State LA wants memorabilia from your gig-going days for its underground music archive](https://laist.com/news/los-angeles-activities/cal-state-los-angeles-underground-music-archive)
-
-via The LAist · 2026-10-31
-
-Bring photos, fliers and ticket stubs shows to the college on Thursday Nov. 5.
-
-## [Dolores Huerta’s legacy lives on in LA stage musical](https://laist.com/news/los-angeles-activities/dolores-huerta-play-los-angeles-si-se-puede-center-theater-group-november-2026)
-
-via The LAist · 2026-10-31
-
-Labor leader Dolores Huerta died Wednesday at 96. Her legacy and the rise of the farmworker movement are the subject of a musical on tour in Los Angeles through mid-November.
 

@@ -1,14 +1,30 @@
 ---
 title: "Healthy Eats"
 description: "Healthy eats and good eats, with recipes, cooking and food news."
-pubDate: Sat, 21 Nov 2026 14:42:00 GMT
+pubDate: Sun, 22 Nov 2026 13:00:13 GMT
 aggregateOf: "food.md"
-dateModified: Sat, 21 Nov 2026 14:47:44 GMT
-itemCount: 305
+dateModified: Sun, 22 Nov 2026 14:49:23 GMT
+itemCount: 303
 generator: antenna/0.1.1
 ---
 
 # Healthy Eats
+
+## [A Cornucopia Of Coffee To Be Thankful For](https://sprudge.com/a-cornucopia-of-coffee-to-be-thankful-for-1654212.html)
+
+via The Sprudge · 2026-11-22, updated 2026-11-20
+
+**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster's Village.**
+
+## [Aji de Gallina (Creamy Peruvian Chicken Stew)](https://www.chilipeppermadness.com/recipes/aji-de-gallina/)
+
+via Chili Pepper Madness · 2026-11-21
+
+[![Aji de Gallina (Peruvian Chicken Stew) served in a bowl over rice, garnished with sliced hard boiled egg, sliced boiled potatoes, black olives, and parsley](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Aji-de-Gallina-Recipe2-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/aji-de-gallina/ "Aji de Gallina (Creamy Peruvian Chicken Stew)")
+
+Aji de gallina is Peru's creamy chicken stew: shredded chicken in a golden aji amarillo sauce with walnuts and parmesan. Mild, rich, and great made ahead.
+
+The post [Aji de Gallina (Creamy Peruvian Chicken Stew)](https://www.chilipeppermadness.com/recipes/aji-de-gallina/) appeared first on [Chili Pepper Madness](https://www.chilipeppermadness.com).
 
 ## [Brown Butter Pumpkin Chocolate Chip Cookies](https://www.tasteofhome.com/recipes/brown-butter-pumpkin-chocolate-chip-cookies/)
 
@@ -30,7 +46,7 @@ The post [Thanksgiving Main Course Recipes](https://www.closetcooking.com/thanks
 
 ## [I Tested 6 Popular Store-Bought Pumpkin Pies to Find the Best One for Thanksgiving Dinner](https://www.tasteofhome.com/collection/store-bought-pumpkin-pie-ranking/)
 
-via Taste of Home · 2026-11-20, updated 2026-11-21
+via Taste of Home · 2026-11-20
 
 Sometimes, all there's time for on Thanksgiving is buying a store-bought pumpkin pie. I tested six to find out which one tasted the most homemade.
 
@@ -38,13 +54,13 @@ The post [I Tested 6 Popular Store-Bought Pumpkin Pies to Find the Best One for 
 
 ## [Extra-Fluffy Cinnamon Rolls](https://www.bonappetit.com/recipe/cinnamon-rolls-cream-cheese-frosting)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-21
+via Bon Appetet · 2026-11-20, updated 2026-11-22
 
 Come for the fluff; stay for the brown-butter-and-cinnamon-sugar filling.
 
 ## [This Is What Was on the Menu at the First Thanksgiving in 1621](https://www.tasteofhome.com/article/first-thanksgiving-menu/)
 
-via Taste of Home · 2026-11-20, updated 2026-11-21
+via Taste of Home · 2026-11-20
 
 Somehow, turkey has spent the last four centuries getting all the glory.
 
@@ -52,7 +68,7 @@ The post [This Is What Was on the Menu at the First Thanksgiving in 1621](https:
 
 ## [This Egg Wash Secret Makes the Prettiest Pie Crusts Every Time](https://www.tasteofhome.com/article/salt-in-egg-wash/)
 
-via Taste of Home · 2026-11-20, updated 2026-11-21
+via Taste of Home · 2026-11-20
 
 The secret to a beautifully golden Thanksgiving pie might be the simplest ingredient in your kitchen.
 
@@ -66,13 +82,13 @@ via The Sprudge · 2026-11-20
 
 ## [37 Thanksgiving Cocktails and Drinks for Every Guest](https://www.bonappetit.com/gallery/cocktails/slideshow/thanksgiving-cocktails)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-21
+via Bon Appetet · 2026-11-20, updated 2026-11-22
 
 Big-batch punches, low-alcohol spritzes, and nightcaps worth staying up for.
 
 ## [The Secret to the Creamiest Mac and Cheese Comes in a Can](https://www.tasteofhome.com/article/evaporated-milk-mac-and-cheese/)
 
-via Taste of Home · 2026-11-20, updated 2026-11-21
+via Taste of Home · 2026-11-20
 
 Making a truly excellent bowl of mac and cheese shouldn't take an entire afternoon. Here's the one ingredient I rely on to get the creamiest cheese sauce every time.
 
@@ -86,13 +102,13 @@ via The Sprudge · 2026-11-20
 
 ## [The Maldon Salt Scandal, Explained](https://www.bonappetit.com/story/the-maldon-salt-scandal)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-21
+via Bon Appetet · 2026-11-20, updated 2026-11-22
 
 Plus, a new study on GLP-1s for kids, the case for cocktail brutalism, and more.
 
 ## [Julia Child’s Controversial Thanksgiving Turkey Method Isn’t As Crazy As It Sounds](https://www.tasteofhome.com/article/julia-child-thanksgiving-turkey/)
 
-via Taste of Home · 2026-11-20, updated 2026-11-21
+via Taste of Home · 2026-11-20
 
 Julia Child's solution to a common turkey dilemma was equal parts culinary brilliance and holiday theater.
 
@@ -100,19 +116,19 @@ The post [Julia Child’s Controversial Thanksgiving Turkey Method Isn’t As Cr
 
 ## [Mexican Hot Chocolate Mousse Pie](https://www.tasteofhome.com/recipes/mexican-hot-chocolate-mousse-pie/)
 
-via Taste of Home · 2026-11-20, updated 2026-11-21
+via Taste of Home · 2026-11-20
 
 We took the [chocolate mousse pie recipe](https://www.tasteofhome.com/recipes/chocolate-truffle-pie/ "") submitted by Keri Schofield Lawson of Brea, California, and added cinnamon and cayenne to make a no-bake, Mexican hot chocolate–inspired mousse pie. It's simple, rich and decadent with a spicy twist. Good luck stopping at just one slice! —Taste of Home Test Kitchen
 
 ## [Butter Mochi Cake With Maple-Miso Pecans](https://www.bonappetit.com/recipe/miso-and-maple-pecan-butter-mochi-cake)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-21
+via Bon Appetet · 2026-11-20, updated 2026-11-22
 
 Two beloved desserts combine in one delightfully chewy cake.
 
 ## [Dirty Spaghetti](https://www.tasteofhome.com/recipes/dirty-spaghetti/)
 
-via Taste of Home · 2026-11-20, updated 2026-11-21
+via Taste of Home · 2026-11-20
 
 Dirty rice has met its noodle match with our Louisiana-style dirty spaghetti.
 
@@ -134,25 +150,25 @@ The post [New Product: Bellwether’s Updated Shop Roaster Gets Rebuilt On The I
 
 ## [Sticky Miso Chicken and More Recipes We Made This Week](https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-november-2026)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-21
+via Bon Appetet · 2026-11-20, updated 2026-11-22
 
 Like a make-ahead lentil salad and apple snacking cake.
 
 ## [Sheet-Pan Cider Vinegar Chicken](https://www.bonappetit.com/recipe/sheet-pan-cider-vinegar-chicken)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-21
+via Bon Appetet · 2026-11-20, updated 2026-11-22
 
 A one-pan dinner for cozy fall evenings in.
 
 ## [The Most-Saved Recipes on Bon Appétit This Week](https://www.bonappetit.com/gallery/most-saved-recipes-november-2026)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-21
+via Bon Appetet · 2026-11-20, updated 2026-11-22
 
 Like green lentil soup and pumpkin overnight oats.
 
 ## [10 Holiday Groceries Our Editors Are Stocking Up on This Year](https://www.tasteofhome.com/collection/best-holiday-groceries-2026/)
 
-via Taste of Home · 2026-11-19, updated 2026-11-21
+via Taste of Home · 2026-11-19, updated 2026-11-20
 
 From the perfect cracker for a cheese board to the best puff pastry for holiday baking, these are the grocery store finds our editors can't get enough of this holiday season.
 
@@ -160,19 +176,19 @@ The post [10 Holiday Groceries Our Editors Are Stocking Up on This Year](https:/
 
 ## [BA's Best Lasagna](https://www.bonappetit.com/recipe/ba-best-lasagna)
 
-via Bon Appetet · 2026-11-19, updated 2026-11-21
+via Bon Appetet · 2026-11-19, updated 2026-11-22
 
 Layers of ragù and béchamel are all that’s right in this world.
 
 ## [9 Best Coffee Subscriptions, Reviewed & Reordered (2026)](https://www.bonappetit.com/story/best-coffee-subscriptions)
 
-via Bon Appetet · 2026-11-19, updated 2026-11-21
+via Bon Appetet · 2026-11-19, updated 2026-11-22
 
 Never run out of beans again.
 
 ## [What Is Hybrid Bakeware? Here’s What Home Bakers Need to Know](https://www.tasteofhome.com/article/what-is-hybrid-bakeware/)
 
-via Taste of Home · 2026-11-19, updated 2026-11-21
+via Taste of Home · 2026-11-19, updated 2026-11-20
 
 The right baking pan can be the difference between a cake that releases cleanly and one that falls apart. Here's why hybrid bakeware is catching our attention.
 
@@ -180,7 +196,7 @@ The post [What Is Hybrid Bakeware? Here’s What Home Bakers Need to Know](https
 
 ## [Which Thanksgiving Foods Belong in the Same Bite?](https://www.tasteofhome.com/article/thanksgiving-food-combinations/)
 
-via Taste of Home · 2026-11-19, updated 2026-11-21
+via Taste of Home · 2026-11-19, updated 2026-11-20
 
 Some Thanksgiving food combinations are obvious. Others might earn you some questioning looks at the dinner table.
 
@@ -194,7 +210,7 @@ via The Sprudge · 2026-11-19, updated 2026-11-20
 
 ## [Is Pink Turkey Safe to Eat?](https://www.tasteofhome.com/article/is-pink-turkey-safe-to-eat/)
 
-via Taste of Home · 2026-11-19, updated 2026-11-21
+via Taste of Home · 2026-11-19, updated 2026-11-20
 
 Pink turkey doesn't necessarily mean your Thanksgiving feast is ruined. Here's how to know if your bird is safe to eat so you can stay calm and turkey on.
 
@@ -202,13 +218,13 @@ The post [Is Pink Turkey Safe to Eat?](https://www.tasteofhome.com/article/is-pi
 
 ## [11 Leftover Turkey Sandwiches to Look Forward To](https://www.bonappetit.com/gallery/leftover-turkey-sandwiches)
 
-via Bon Appetet · 2026-11-19, updated 2026-11-21
+via Bon Appetet · 2026-11-19, updated 2026-11-22
 
 Objectively, the best part of a holiday roast is the overstuffed sandwich the next day.
 
 ## [HexClad Bakeware Review: This Set Is So Sturdy and Nonstick, I’m Ditching Parchment Paper](https://www.tasteofhome.com/article/hexclad-bakeware-review/)
 
-via Taste of Home · 2026-11-19, updated 2026-11-21
+via Taste of Home · 2026-11-19, updated 2026-11-20
 
 As an avid baker, I've been waiting for such a sturdy set.
 
@@ -222,13 +238,13 @@ When to start Padrón pepper seeds, when to plant them out, and when to pick the
 
 ## [How to Make Whipped Cream Perfectly, Every Time](https://www.bonappetit.com/story/how-to-make-whipped-cream)
 
-via Bon Appetet · 2026-11-19, updated 2026-11-21
+via Bon Appetet · 2026-11-19, updated 2026-11-22
 
 Soft peaks, stiff peaks, sweetened or not—and three ways to get there.
 
 ## [The Tucson Restaurant Turning Cactus Into Fine Dining](https://www.bonappetit.com/story/tucson-restaurant-ursa-desert-foraging-tasting-menu)
 
-via Bon Appetet · 2026-11-19, updated 2026-11-21
+via Bon Appetet · 2026-11-19, updated 2026-11-22
 
 At Ursa in Tucson, the Sonoran Desert is the pantry and inspiration for inventive meals full of foraged plants
 
@@ -258,7 +274,7 @@ The post [Arabica Market Falls to Its Lowest Since June](https://freshcup.com/ar
 
 ## [Yangnyeom Sauce (Korean Fried Chicken Sauce)](https://www.chilipeppermadness.com/recipes/yangnyeom-sauce/)
 
-via Chili Pepper Madness · 2026-11-19
+via Chili Pepper Madness · 2026-11-19, updated 2026-11-21
 
 [![A spoonful of dark and spicy Homemade Yangnyeom Sauce (Korean Fried Chicken Sauce) being scooped from a serving bowl](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Yangnyeom-Sauce-Recipe2b-Korean-Fried-Chicken-Sauce-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/yangnyeom-sauce/ "Yangnyeom Sauce (Korean Fried Chicken Sauce)")
 
@@ -274,13 +290,13 @@ via The Sprudge · 2026-11-19, updated 2026-11-20
 
 ## [Maple-Sausage Breakfast Casserole](https://www.bonappetit.com/recipe/maple-sausage-breakfast-casserole)
 
-via Bon Appetet · 2026-11-19, updated 2026-11-21
+via Bon Appetet · 2026-11-19, updated 2026-11-22
 
 Eggy, cheesy, and just a smidge sweet, this will become your new brunch go-to.
 
 ## [TASTE OF HOME 2026 VIRTUAL COOKIE EXCHANGE PROMOTION (# 353) Terms and Conditions (“Terms”)](https://www.tasteofhome.com/taste-of-home-2026-virtual-cookie-exchange-promotion-353-terms-and-conditions-terms/)
 
-via Taste of Home · 2026-11-19, updated 2026-11-21
+via Taste of Home · 2026-11-19, updated 2026-11-20
 
 NO PURCHASE OR PAYMENT OF ANY KIND IS NECESSARY TO BE ELIGIBLE. TASTE OF HOME 2026 Virtual Cookie Exchange Promotion
 
@@ -300,7 +316,7 @@ The post [Crispy Parmesan Roast Sweet Potatoes](https://www.closetcooking.com/cr
 
 ## [Taste of Home Christmas Cookies Sweepstakes (#655) Official Rules](https://www.tasteofhome.com/taste-of-home-christmas-cookies-sweepstakes-655-official-rules/)
 
-via Taste of Home · 2026-11-19, updated 2026-11-21
+via Taste of Home · 2026-11-19, updated 2026-11-20
 
 NO PURCHASE OR PAYMENT OF ANY KIND IS NECESSARY TO ENTER OR WIN. PURCHASE WILL NOT IMPROVE AN ENTRY’S CHANCE
 
@@ -308,19 +324,19 @@ The post [Taste of Home Christmas Cookies Sweepstakes (#655) Official Rules](htt
 
 ## [Chicken Broccoli Alfredo](https://www.tasteofhome.com/recipes/chicken-broccoli-alfredo-recipe/)
 
-via Taste of Home · 2026-11-18, updated 2026-11-21
+via Taste of Home · 2026-11-18, updated 2026-11-20
 
 It takes just 25 minutes to make chicken broccoli Alfredo by combining veggies and meat in a creamy garlic and Parmesan sauce.
 
 ## [How We Brought a Taste of Maine to Bon Appétit LIVE](https://www.bonappetit.com/story/bon-appetit-live-2026-visit-maine-recap)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-21
+via Bon Appetet · 2026-11-18, updated 2026-11-22
 
 From shucking oysters and making creamy lobster dip to baking wild blueberry cornmeal shortcakes, here’s how Visit Maine brought New England flavor to the event.
 
 ## [This Is the Best Way to Use Leftover Canned Pumpkin](https://www.tasteofhome.com/article/what-to-make-with-leftover-canned-pumpkin/)
 
-via Taste of Home · 2026-11-18, updated 2026-11-21
+via Taste of Home · 2026-11-18, updated 2026-11-20
 
 Leftover canned pumpkin? No problem. Half a can of pumpkin isn't enough for another pie, but you can definitely put it to use in other fall recipes.
 
@@ -328,13 +344,13 @@ The post [This Is the Best Way to Use Leftover Canned Pumpkin](https://www.taste
 
 ## [The Best Frozen Lasagna, According to Our Taste Test](https://www.bonappetit.com/story/the-best-frozen-lasagna-taste-test)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-21
+via Bon Appetet · 2026-11-18, updated 2026-11-22
 
 We tried nine store-bought lasagnas from Rao’s, Stouffer’s, Trader Joe’s, and more. These are the ones we’d stock in our freezers.
 
 ## [The Secret to Better Gravy Is Already In Your Pantry](https://www.tasteofhome.com/article/soy-sauce-in-gravy/)
 
-via Taste of Home · 2026-11-18, updated 2026-11-21
+via Taste of Home · 2026-11-18, updated 2026-11-20
 
 It only takes a splash to give homemade gravy the rich, savory flavor you're after.
 
@@ -342,25 +358,25 @@ The post [The Secret to Better Gravy Is Already In Your Pantry](https://www.tast
 
 ## [The Best Air Fryers For Faster, Crispier Cooking (2026)](https://www.bonappetit.com/story/best-air-fryers-reviewed)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-21
+via Bon Appetet · 2026-11-18, updated 2026-11-22
 
 Here’s what our editors recommend for crunchy fries, crispy chicken skin, blistered veggies, and more.
 
 ## [31 Thanksgiving Dinner Alternatives to Turkey](https://www.bonappetit.com/gallery/alternative-thanksgiving-dinner)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-21
+via Bon Appetet · 2026-11-18, updated 2026-11-22
 
 Like pork inasal, stuffing-crusted fish, or a beautiful cabbage galette.
 
 ## [Hanukkah Bark](https://www.tasteofhome.com/recipes/hanukkah-bark/)
 
-via Taste of Home · 2026-11-18, updated 2026-11-21
+via Taste of Home · 2026-11-18, updated 2026-11-20
 
 It will be a miracle if this colorful, festive and irresistibly sweet Hanukkah bark lasts for eight days and eight nights.
 
 ## [Red-Wine-Braised Short Ribs](https://www.bonappetit.com/recipe/red-wine-braised-short-ribs)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-21
+via Bon Appetet · 2026-11-18, updated 2026-11-22
 
 Tender, fall-off-the-bone beef ribs make any meal a special occasion.
 
@@ -404,31 +420,31 @@ A new software platform called Roasting Partner opened to outside coffee roastin
 
 ## [Caramelized Cabbage Pasta](https://www.bonappetit.com/recipe/caramelized-cabbage-pasta)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-21
+via Bon Appetet · 2026-11-18, updated 2026-11-22
 
 The easiest way to cram an entire head of cabbage into dinner.
 
 ## [Hating Turkey Doesn’t Make You Cool](https://www.bonappetit.com/story/in-defense-of-turkey)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-21
+via Bon Appetet · 2026-11-18, updated 2026-11-22
 
 It’s called Turkey Day for a reason. Because it’s actually really good.
 
 ## [Best Cutting Boards for Slicing, Dicing, and Chopping (2026)](https://www.bonappetit.com/story/best-cutting-boards)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-21
+via Bon Appetet · 2026-11-17, updated 2026-11-22
 
 Wood, rubber, or plastic—we’ve got a recommendation for every home cook. Plus, tips for cleaning and caring for your board.
 
 ## [31 Cranberry Recipes for Thanksgiving and Beyond](https://www.bonappetit.com/gallery/cranberry-recipes)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-21
+via Bon Appetet · 2026-11-17, updated 2026-11-22
 
 Like cranberry-mustard chicken and an electric pink meringue pie.
 
 ## [Is Cottage Cheese Good for You?](https://www.tasteofhome.com/article/is-cottage-cheese-good-for-you/)
 
-via Taste of Home · 2026-11-17, updated 2026-11-21
+via Taste of Home · 2026-11-17, updated 2026-11-20
 
 Is cottage cheese healthy? And what type should you buy? Here's the scoop on the health benefits of cottage cheese and how to cook with it.
 
@@ -436,7 +452,7 @@ The post [Is Cottage Cheese Good for You?](https://www.tasteofhome.com/article/i
 
 ## [Behind the Scenes of the Inaugural Bon Appétit LIVE](https://www.bonappetit.com/story/bon-appetit-live-2026-recap)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-21
+via Bon Appetet · 2026-11-17, updated 2026-11-22
 
 Top chefs, Test Kitchen editors, and passionate home cooks gathered for an unforgettable day of hands-on pie and lobster classes, tastings, and panels.
 
@@ -448,25 +464,25 @@ The best cities in the world for spicy food, from Chengdu to Nabeul to Espelette
 
 ## [Maple-Glazed Carrots](https://www.bonappetit.com/recipe/classic-roasted-carrots)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-21
+via Bon Appetet · 2026-11-17, updated 2026-11-22
 
 With their sweet-hot kick from maple syrup and red chile flakes, these oven-roasted carrots will have everyone asking for more.
 
 ## [The Best Cast-Iron Skillets for a Lifetime of Cooking (2026)](https://www.bonappetit.com/story/best-cast-iron-skillet)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-21
+via Bon Appetet · 2026-11-17, updated 2026-11-22
 
 Dependable, reliable, and virtually indestructible.
 
 ## [Listen to BA Bake Club's Podcast on Salt Bread](https://www.bonappetit.com/story/listen-to-ba-bake-clubs-podcast-on-salt-bread)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-21
+via Bon Appetet · 2026-11-17, updated 2026-11-22
 
 A viral sensation poses a fresh challenge for the Club as deputy food editor Hana Asbrink shares her salty, flaky, buttery recipe for the famous rolls.
 
 ## [BA's Best Pecan Pie](https://www.bonappetit.com/recipe/bas-best-pecan-pie)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-21
+via Bon Appetet · 2026-11-17, updated 2026-11-22
 
 No booze, no chocolate, no hard-to-find ingredients—just classic pecan pie.
 
@@ -486,13 +502,13 @@ While drinking coffee has been occasionally associated with reduced risk of Park
 
 ## [How to Blind-Bake Pie Crust—and When You Need To](https://www.bonappetit.com/story/how-to-blind-bake-pie-crust)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-21
+via Bon Appetet · 2026-11-17, updated 2026-11-22
 
 It’s time to erase “soggy bottom” from your vocabulary.
 
 ## [Naomi Hand Scrub Gets Rid of Garlic Smells and Softens Your Skin](https://www.bonappetit.com/story/naomi-hand-scrub-review)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-21
+via Bon Appetet · 2026-11-17, updated 2026-11-22
 
 It feels like a little luxury (but is half the price of Aesop).
 
@@ -534,7 +550,7 @@ The post [New Product: The Hojicha Tea Latte Blend From Two Leaves and a Bud is 
 
 ## [Why Did My Pumpkin Pie Crack and How Can I Fix It?](https://www.tasteofhome.com/article/prevent-and-fix-cracked-pumpkin-pie/)
 
-via Taste of Home · 2026-11-16, updated 2026-11-21
+via Taste of Home · 2026-11-16, updated 2026-11-20
 
 Here's how to avert dessert disaster before it strikes—with tips for hiding it just in case.
 
@@ -542,7 +558,7 @@ The post [Why Did My Pumpkin Pie Crack and How Can I Fix It?](https://www.tasteo
 
 ## [Ina Garten Just Revealed Her Thanksgiving Menu, and the Sides Are Stealing the Show](https://www.tasteofhome.com/article/ina-garten-thanksgiving-2026/)
 
-via Taste of Home · 2026-11-16, updated 2026-11-21
+via Taste of Home · 2026-11-16, updated 2026-11-20
 
 Even Ina isn't making everything from scratch this year. Her newly revealed side dishes include some surprisingly simple shortcuts.
 
@@ -550,7 +566,7 @@ The post [Ina Garten Just Revealed Her Thanksgiving Menu, and the Sides Are Stea
 
 ## [The Best Subscription Boxes for Women: Sure to Wow the Women in Your Life](https://www.tasteofhome.com/collection/best-subscription-boxes-for-women/)
 
-via Taste of Home · 2026-11-16, updated 2026-11-21
+via Taste of Home · 2026-11-16, updated 2026-11-20
 
 We've tested dozens of subscription services over the years, and these are our favorite subscription boxes for women.
 
@@ -564,7 +580,7 @@ via The Sprudge · 2026-11-16, updated 2026-11-20
 
 ## [The Best Drip Coffee Makers, Test Kitchen Vetted & Editor Approved (2026)](https://www.bonappetit.com/story/best-drip-coffee-makers)
 
-via Bon Appetet · 2026-11-16, updated 2026-11-21
+via Bon Appetet · 2026-11-16, updated 2026-11-22
 
 Coffee doesn’t need to be hard to be delicious.
 
@@ -576,7 +592,7 @@ Staring down a fridge full of leftover Thanksgiving turkey? Make this simple lem
 
 ## [Gelt Peanut Butter Blossoms](https://www.tasteofhome.com/recipes/gelt-peanut-butter-blossoms/)
 
-via Taste of Home · 2026-11-16, updated 2026-11-21
+via Taste of Home · 2026-11-16, updated 2026-11-20
 
 We started with a [peanut butter blossom cookie recipe](https://www.tasteofhome.com/recipes/peanut-butter-blossom-cookies/) from Tammie Merrill of Wake Forest, North Carolina, and turned it into a Hanukkah treat! These gelt peanut butter blossoms, made with chocolate coins, are perfect for the holiday. For an even more festive version, roll the peanut butter cookie dough in blue and white sprinkles before baking. —Taste of Home Test Kitchen
 
@@ -588,13 +604,13 @@ via The Sprudge · 2026-11-16, updated 2026-11-20
 
 ## [Cranberry Crackle Salad](https://www.tasteofhome.com/recipes/christmas-crackle-salad/)
 
-via Taste of Home · 2026-11-16, updated 2026-11-21
+via Taste of Home · 2026-11-16, updated 2026-11-20
 
 Cranberry crackle salad combines crunchy and creamy textures with sweet and tangy flavors. It's a retro-style dessert with a hearty dose of seasonal cheer.
 
 ## [The Caraway Black Friday Sale Is Here—And It’s the Perfect Time to Upgrade Your Cookware](https://www.tasteofhome.com/article/caraway-black-friday-sale/)
 
-via Taste of Home · 2026-11-16, updated 2026-11-21
+via Taste of Home · 2026-11-16, updated 2026-11-20
 
 Good tidings we bring to you and your kitchen! This year, you'll save up to 25% sitewide during the Caraway Black Friday sale.
 
@@ -602,7 +618,7 @@ The post [The Caraway Black Friday Sale Is Here—And It’s the Perfect Time to
 
 ## [The Balsam Hill Black Friday Sale Is the Perfect Time to Buy a Realistic Christmas Tree](https://www.tasteofhome.com/article/balsam-hill-black-friday-sale/)
 
-via Taste of Home · 2026-11-16, updated 2026-11-21
+via Taste of Home · 2026-11-16, updated 2026-11-20
 
 Save big on some of Balsam Hill's most lifelike artificial Christmas trees during their 2026 Black Friday sale.
 
@@ -610,7 +626,7 @@ The post [The Balsam Hill Black Friday Sale Is the Perfect Time to Buy a Realist
 
 ## [The Lenox Spice Garden Is Back After Nearly 35 Years—Here’s How to Get a Set](https://www.tasteofhome.com/article/lenox-spice-garden/)
 
-via Taste of Home · 2026-11-16, updated 2026-11-21
+via Taste of Home · 2026-11-16, updated 2026-11-20
 
 Love the Lenox Spice Village? Get ready for another dose of nostalgia. Lenox has re-released its 1992 Spice Garden, a 24-piece collection of charming porcelain spice jars.
 
@@ -618,7 +634,7 @@ The post [The Lenox Spice Garden Is Back After Nearly 35 Years—Here’s How to
 
 ## [Santa, We’ve Been Good: The New Stanley x FARM Rio Holiday Collection Is on Our Wish List](https://www.tasteofhome.com/article/stanley-farm-rio-holiday/)
 
-via Taste of Home · 2026-11-16, updated 2026-11-21
+via Taste of Home · 2026-11-16, updated 2026-11-20
 
 The Stanley x FARM Rio holiday collection features 14 new arrivals, vibrant tropical prints and giftable accessories worth adding to your wish list.
 
@@ -730,7 +746,7 @@ via The Sprudge · 2026-11-14, updated 2026-11-17
 
 ## [I Tried to Get a McDonald’s Pokemon Happy Meal, and It Wasn’t Total Chaos](https://www.tasteofhome.com/article/mcdonalds-pokemon-happy-meal/)
 
-via Taste of Home · 2026-11-14, updated 2026-11-21
+via Taste of Home · 2026-11-14, updated 2026-11-20
 
 Despite the rumors I had heard about long lines and purchase limits, the new Pokemon Happy Meal was easier to get (and more adorable) than I thought.
 
@@ -738,7 +754,7 @@ The post [I Tried to Get a McDonald’s Pokemon Happy Meal, and It Wasn’t Tota
 
 ## [The Exiled Thanksgiving Dishes You Forgot Were Once on the Table](https://www.tasteofhome.com/article/exiled-thanksgiving-dishes/)
 
-via Taste of Home · 2026-11-13, updated 2026-11-19
+via Taste of Home · 2026-11-13, updated 2026-11-20
 
 There was a time when Thanksgiving dinner involved gelatin—and lots of it.
 
@@ -934,7 +950,7 @@ Kansas City, Missouri-based specialty coffee group FairWave Specialty Coffee Col
 
 ## [Baked Sweet Potatoes (Perfect Every Time + Spicy Toppings)](https://www.chilipeppermadness.com/recipes/baked-sweet-potatoes/)
 
-via Chili Pepper Madness · 2026-11-12, updated 2026-11-19
+via Chili Pepper Madness · 2026-11-12, updated 2026-11-21
 
 [![A creamy hot sweet potato slit open, releasing steam](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Baked-Sweet-Potatoes-Recipe1b-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/baked-sweet-potatoes/ "Baked Sweet Potatoes (Perfect Every Time + Spicy Toppings)")
 
@@ -1020,7 +1036,7 @@ The post [Walmart and Sam’s Club Just Dropped a Can’t-Miss Holiday Membershi
 
 ## [Cajun Turkey (Juicy, Injected & Oven-Roasted)](https://www.chilipeppermadness.com/recipes/cajun-turkey/)
 
-via Chili Pepper Madness · 2026-11-11, updated 2026-11-19
+via Chili Pepper Madness · 2026-11-11, updated 2026-11-21
 
 [![A roasted Cajun turkey on a serving platter, injected and rubbed with Cajun-spiced butter, ready to be carved](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Cajun-Turkey-Recipe1b-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/cajun-turkey/ "Cajun Turkey (Juicy, Injected & Oven-Roasted)")
 
@@ -1268,7 +1284,7 @@ The post [The Porte + Hall Holiday Collection Is Here—And It’s the Most Prac
 
 ## [Brabant Potatoes (New Orleans Garlic Butter Potatoes)](https://www.chilipeppermadness.com/recipes/brabant-potatoes/)
 
-via Chili Pepper Madness · 2026-11-09, updated 2026-11-19
+via Chili Pepper Madness · 2026-11-09, updated 2026-11-21
 
 [![New Orleans Brabant Potatoes served in a bowl, garnished with fresh parsley](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Brabant-Potatoes-Recipe-BOWL3-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/brabant-potatoes/ "Brabant Potatoes (New Orleans Garlic Butter Potatoes)")
 
@@ -1478,7 +1494,7 @@ The post [Announcing the Winners of Our Pie-Palooza Recipe Contest](https://www.
 
 ## [Creamy Jalapeño Popper Mac and Cheese](https://www.chilipeppermadness.com/recipes/creamy-jalapeno-popper-mac-and-cheese/)
 
-via Chili Pepper Madness · 2026-11-06, updated 2026-11-19
+via Chili Pepper Madness · 2026-11-06, updated 2026-11-21
 
 [![Indulge in a bowl of Jalapeno Popper Mac and Cheese, featuring creamy macaroni and cheese generously topped with sliced jalapeños, chopped bacon, and fresh green onions. A spoon rests inside the bowl, while a dark cloth is partially visible in the background.](https://www.chilipeppermadness.com/wp-content/uploads/2026/09/Jalapeno-Popper-Mac-and-Cheese-Recipe-BOWL2-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/creamy-jalapeno-popper-mac-and-cheese/ "Creamy Jalapeño Popper Mac and Cheese")
 
@@ -1870,7 +1886,7 @@ Mamdani and Hochul put their alliance on display at the Queens Night Market ahea
 
 ## [Carne Picada Recipe (Tex-Mex Steak Picado)](https://www.chilipeppermadness.com/recipes/carne-picada/)
 
-via Chili Pepper Madness · 2026-11-02, updated 2026-11-19
+via Chili Pepper Madness · 2026-11-02, updated 2026-11-21
 
 [![A bowl of thick and meaty carne picada served with tortillas, onions, and cilantro](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Carne-Picada-Recipe-Steak-Picado1-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/carne-picada/ "Carne Picada Recipe (Tex-Mex Steak Picado)")
 
@@ -1892,7 +1908,7 @@ Crisp on top, custardy underneath, and generous with the butter, this holiday ic
 
 ## [Broccoli Cheddar Soup (Thick, Creamy & Easy)](https://www.chilipeppermadness.com/recipes/broccoli-cheddar-soup/)
 
-via Chili Pepper Madness · 2026-11-02, updated 2026-11-19
+via Chili Pepper Madness · 2026-11-02, updated 2026-11-21
 
 [![A spoonful being take from a bowl filled with Broccoli Cheddar Soup, loaded with cheese and broccoli](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Broccoli-Cheddar-Soup-Recipe-SPOON-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/broccoli-cheddar-soup/ "Broccoli Cheddar Soup (Thick, Creamy & Easy)")
 
@@ -1948,7 +1964,7 @@ via The Sprudge · 2026-11-02, updated 2026-11-06
 
 ## [Ajiaco (Colombian Chicken and Potato Soup)](https://www.chilipeppermadness.com/recipes/ajiaco/)
 
-via Chili Pepper Madness · 2026-11-02, updated 2026-11-19
+via Chili Pepper Madness · 2026-11-02, updated 2026-11-21
 
 [![A bowl filled with chunky and creamy Ajiaco (Colombian Chicken and Potato Soup)](https://www.chilipeppermadness.com/wp-content/uploads/2026/10/Ajiaco-Recipe-BOWL2-Colombian-Chicken-and-Potato-Soup-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/ajiaco/ "Ajiaco (Colombian Chicken and Potato Soup)")
 
@@ -2123,28 +2139,4 @@ The post [‘Potluck with a Spin’ Recipe Contest Announcement](https://www.tas
 via Bon Appetet · 2026-11-01, updated 2026-11-04
 
 Like creamy fondue beans, stuffing-crusted fish, and more cozy meals for chilly nights.
-
-## [The Hinkelhatz Pepper Planting Guide](https://pepperscale.com/hinkelhatz-pepper-planting/)
-
-via Pepper Scale · 2026-10-31, updated 2026-11-19
-
-When to start Hinkelhatz pepper seeds, when to plant them out, how to grow them in a pot and bring them in for the winter, and whether they'll ripen where you live.
-
-## [The Goat Pepper Planting Guide](https://pepperscale.com/goat-pepper-planting/)
-
-via Pepper Scale · 2026-10-31, updated 2026-11-17
-
-When to start goat pepper seeds, when to plant them out, and whether they'll ripen where you live, with a zip code planner built on NOAA frost data.
-
-## [Coffee Gear That’s Scary Good](https://sprudge.com/coffee-gear-thats-scary-good-1535418.html)
-
-via The Sprudge · 2026-10-31, updated 2026-11-05
-
-**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. This week's selection of gear is...**
-
-## [You Can Order Bon Appétit-Tested and Approved Meals From HelloFresh](https://www.bonappetit.com/story/bon-appetit-picks-hellofresh)
-
-via Bon Appetet · 2026-10-31, updated 2026-11-04
-
-We've tried dozens of recipes from the popular meal delivery service—and now you can add our favorites to your weekly menu.
 

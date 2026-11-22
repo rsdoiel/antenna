@@ -1,14 +1,146 @@
 ---
 title: "Urban Farm"
 description: "Home, garden and urban farm blogs and news."
-pubDate: Sat, 21 Nov 2026 01:17:00 GMT
+pubDate: Sun, 22 Nov 2026 01:17:13 GMT
 aggregateOf: "home.md"
-dateModified: Sat, 21 Nov 2026 14:47:26 GMT
-itemCount: 373
+dateModified: Sun, 22 Nov 2026 14:49:07 GMT
+itemCount: 368
 generator: antenna/0.1.1
 ---
 
 # Urban Farm
+
+## [What Those Tiny Worms Hiding in California Pantry Shelves Actually Are](https://ownyardlife.com/what-those-tiny-worms-hiding-in-california-pantry-shelves-actually-are/)
+
+via Yard Life blog · 2026-11-22
+
+Finding a tiny, pale worm crawling across a kitchen shelf can be an unpleasant surprise, especially when the surrounding area ...
+
+[Read more](https://ownyardlife.com/what-those-tiny-worms-hiding-in-california-pantry-shelves-actually-are/#more-69902 "What Those Tiny Worms Hiding in California Pantry Shelves Actually Are")
+
+The post [What Those Tiny Worms Hiding in California Pantry Shelves Actually Are](https://ownyardlife.com/what-those-tiny-worms-hiding-in-california-pantry-shelves-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Happens When Bobcats and Domestic Cats Meet in Florida](https://ownyardlife.com/what-happens-when-bobcats-and-domestic-cats-meet-in-florida/)
+
+via Yard Life blog · 2026-11-22
+
+A house cat sitting on a backyard fence may look completely comfortable watching the activity below, but the scene can ...
+
+[Read more](https://ownyardlife.com/what-happens-when-bobcats-and-domestic-cats-meet-in-florida/#more-69895 "What Happens When Bobcats and Domestic Cats Meet in Florida")
+
+The post [What Happens When Bobcats and Domestic Cats Meet in Florida](https://ownyardlife.com/what-happens-when-bobcats-and-domestic-cats-meet-in-florida/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Leopard-Looking Cats Showing Up Around Arizona Homes Actually Are](https://ownyardlife.com/what-those-leopard-looking-cats-showing-up-around-arizona-homes-actually-are/)
+
+via Yard Life blog · 2026-11-22
+
+Arizona residents who spot a spotted cat moving along a backyard wall, crossing a patio, or slipping between desert landscaping ...
+
+[Read more](https://ownyardlife.com/what-those-leopard-looking-cats-showing-up-around-arizona-homes-actually-are/#more-69888 "What Those Leopard-Looking Cats Showing Up Around Arizona Homes Actually Are")
+
+The post [What Those Leopard-Looking Cats Showing Up Around Arizona Homes Actually Are](https://ownyardlife.com/what-those-leopard-looking-cats-showing-up-around-arizona-homes-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Happens When Wild Wolves Breed With Domestic Dogs in Minnesota](https://ownyardlife.com/what-happens-when-wild-wolves-breed-with-domestic-dogs-in-minnesota/)
+
+via Yard Life blog · 2026-11-22
+
+A large, gray canid moving along the edge of a northern Minnesota woodlot can leave a homeowner wondering what they ...
+
+[Read more](https://ownyardlife.com/what-happens-when-wild-wolves-breed-with-domestic-dogs-in-minnesota/#more-69881 "What Happens When Wild Wolves Breed With Domestic Dogs in Minnesota")
+
+The post [What Happens When Wild Wolves Breed With Domestic Dogs in Minnesota](https://ownyardlife.com/what-happens-when-wild-wolves-breed-with-domestic-dogs-in-minnesota/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Happens When Coyotes and Domestic Dogs Breed in Texas](https://ownyardlife.com/what-happens-when-coyotes-and-domestic-dogs-breed-in-texas/)
+
+via Yard Life blog · 2026-11-22
+
+A coyote moving along a fence line outside a Texas neighborhood may look remarkably similar to a lean, medium-sized dog. ...
+
+[Read more](https://ownyardlife.com/what-happens-when-coyotes-and-domestic-dogs-breed-in-texas/#more-69874 "What Happens When Coyotes and Domestic Dogs Breed in Texas")
+
+The post [What Happens When Coyotes and Domestic Dogs Breed in Texas](https://ownyardlife.com/what-happens-when-coyotes-and-domestic-dogs-breed-in-texas/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [The Best Cold Hardy Rosemary Varieties](https://gardenerspath.com/plants/herbs/cold-hardy-rosemary/)
+
+via The Gardener's Path · 2026-11-22
+
+Do you live in Zones 5 to 7 and would like to overwinter rosemary? This pungent, warm-weather herb from the Mediterranean is commonly used to season savory dishes and provides interest in the garden. Learn about the different cold-hardy varieties that can withstand brutally cold weather. Read more now.
+
+The post [The Best Cold Hardy Rosemary Varieties](https://gardenerspath.com/plants/herbs/cold-hardy-rosemary/) appeared first on [Gardener's Path](https://gardenerspath.com).
+
+## [7 Things You Must Do Before a Big Move, According to an Organizing Expert](https://sunset.com/home-garden/what-to-do-before-move)
+
+via Sunset Magazine - Living in the West · 2026-11-21, updated 2026-11-22
+
+Preparation before a big move is key. An organizing expert shares the tasks you need to do before you move out.
+
+## [A Central Oregon Home Was Designed to Connect to the Land, Water, and Sky](https://sunset.com/home-garden/home-tours/central-oregon-riverfront-home)
+
+via Sunset Magazine - Living in the West · 2026-11-21, updated 2026-11-22
+
+Set along a downtown stretch of river rapids in central Oregon, this 6,500-square-foot new build is equal parts urban and wild.
+
+## [This Mill Valley Home Was Designed Around the Owners’ Art Collection](https://sunset.com/home-garden/home-tours/colorful-mill-valley-house)
+
+via Sunset Magazine - Living in the West · 2026-11-21, updated 2026-11-22
+
+The homeowners of this 1948 Mill Valley house collect black and white photography, which was heavily incorporated into the renovation.
+
+## [A Retired Couple Had a Dream of Waterfront Living—Tour Their Stunning Biophilic-Inspired Home](https://sunset.com/home-garden/home-tours/anacortes-biophilic-house)
+
+via Sunset Magazine - Living in the West · 2026-11-21, updated 2026-11-22
+
+A newly retired couple finally fulfilled their dream of living by the water; see how they designed their Anacortes, Washington home.
+
+## [What Those Creepy White Maggots in Tennessee Homes Actually Are](https://ownyardlife.com/what-those-creepy-white-maggots-in-tennessee-homes-actually-are/)
+
+via Yard Life blog · 2026-11-21, updated 2026-11-22
+
+It can be an unsettling discovery in a Tennessee home: a handful of tiny, pale creatures moving across the laundry ...
+
+[Read more](https://ownyardlife.com/what-those-creepy-white-maggots-in-tennessee-homes-actually-are/#more-69867 "What Those Creepy White Maggots in Tennessee Homes Actually Are")
+
+The post [What Those Creepy White Maggots in Tennessee Homes Actually Are](https://ownyardlife.com/what-those-creepy-white-maggots-in-tennessee-homes-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Creepy White Maggots in Kentucky Homes Actually Are](https://ownyardlife.com/what-those-creepy-white-maggots-in-kentucky-homes-actually-are/)
+
+via Yard Life blog · 2026-11-21, updated 2026-11-22
+
+In Kentucky, a homeowner might notice something unusual while sweeping a back porch, opening a basement door, or moving a ...
+
+[Read more](https://ownyardlife.com/what-those-creepy-white-maggots-in-kentucky-homes-actually-are/#more-69860 "What Those Creepy White Maggots in Kentucky Homes Actually Are")
+
+The post [What Those Creepy White Maggots in Kentucky Homes Actually Are](https://ownyardlife.com/what-those-creepy-white-maggots-in-kentucky-homes-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Creepy White Maggots in Michigan Homes Actually Are](https://ownyardlife.com/what-those-creepy-white-maggots-in-michigan-homes-actually-are/)
+
+via Yard Life blog · 2026-11-21, updated 2026-11-22
+
+Finding a trail of pale, wriggling larvae near a basement wall or beneath a kitchen cabinet can make an ordinary ...
+
+[Read more](https://ownyardlife.com/what-those-creepy-white-maggots-in-michigan-homes-actually-are/#more-69853 "What Those Creepy White Maggots in Michigan Homes Actually Are")
+
+The post [What Those Creepy White Maggots in Michigan Homes Actually Are](https://ownyardlife.com/what-those-creepy-white-maggots-in-michigan-homes-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Creepy White Maggots in Illinois Homes Actually Are](https://ownyardlife.com/what-those-creepy-white-maggots-in-illinois-homes-actually-are/)
+
+via Yard Life blog · 2026-11-21, updated 2026-11-22
+
+The first sign may be a handful of pale, wriggling creatures beneath a basement window. A few days later, more ...
+
+[Read more](https://ownyardlife.com/what-those-creepy-white-maggots-in-illinois-homes-actually-are/#more-69846 "What Those Creepy White Maggots in Illinois Homes Actually Are")
+
+The post [What Those Creepy White Maggots in Illinois Homes Actually Are](https://ownyardlife.com/what-those-creepy-white-maggots-in-illinois-homes-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Those Creepy White Maggots in Indiana Homes Actually Are](https://ownyardlife.com/what-those-creepy-white-maggots-in-indiana-homes-actually-are/)
+
+via Yard Life blog · 2026-11-21, updated 2026-11-22
+
+Finding small white worms crawling across a kitchen floor, gathering near a pantry wall, or wriggling beside a doorway can ...
+
+[Read more](https://ownyardlife.com/what-those-creepy-white-maggots-in-indiana-homes-actually-are/#more-69837 "What Those Creepy White Maggots in Indiana Homes Actually Are")
+
+The post [What Those Creepy White Maggots in Indiana Homes Actually Are](https://ownyardlife.com/what-those-creepy-white-maggots-in-indiana-homes-actually-are/) appeared first on [Own Yard Life](https://ownyardlife.com).
 
 ## [What Those Creepy Larvae Crawling Around Idaho Bathroom Drains Actually Are](https://ownyardlife.com/what-those-creepy-larvae-crawling-around-idaho-bathroom-drains-actually-are/)
 
@@ -120,111 +252,111 @@ The post [Jonathan Scott’s Trick for Making a Fake Christmas Tree Look Real Is
 
 ## [Congratulations to the Winners of the 2026 Sunset International Spirits Competition](https://sunset.com/food-wine/wine-pairings/sunset-international-spirits-competition-2026-winners)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
 
 The winners of the 2026 Sunset International Spirits Competition represent the remarkable range and creativity of today’s spirits industry.
 
 ## [Professional Chefs Share Their Biggest Thanksgiving Pet Peeves](https://sunset.com/food-wine/chefs-thanksgiving-pet-peeves)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
 
 It’s no surprise that professional chefs have strong opinions about Thanksgiving. They shared their biggest pet peeves to avoid.
 
 ## [Desirable qualities in a mango tree for Southern California (and how to get them)](https://gregalder.com/yardposts/desirable-qualities-in-a-mango-tree-for-southern-california/)
 
-via Greg Alder's blog, Yard Post · 2026-11-20
+via Greg Alder's blog, Yard Post · 2026-11-20, updated 2026-11-22
 
-Around ten years ago, my friend Brad started planting mangos, some from seed, some as purchased seedlings, some as purchased grafted trees, some from California and some from Florida. In the span of a couple years, he’d covered about a half acre with around 55 mango trees. Variety names included Early Gold, Honey Kiss, Winters, \[…\]
+Around ten years ago, my friend Brad started planting mangos, some from seed, some as purchased seedlings, some as purchased grafted trees, some from California and some from Florida. In the span of a couple years, he’d covered about a half acre of his San Diego County property with around 55 mango trees. Variety names \[…\]
 
 The post [Desirable qualities in a mango tree for Southern California (and how to get them)](https://gregalder.com/yardposts/desirable-qualities-in-a-mango-tree-for-southern-california/) appeared first on [Greg Alder's Yard Posts: Southern California food gardening](https://gregalder.com/yardposts).
 
 ## [From Empanadas to a Noodle Stir Fry, Here’s How to Make Your Thanksgiving Leftovers More Exciting](https://sunset.com/food-wine/holidays-occasions/thanksgiving-leftover-recipes)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
 
 It's just not Thanksgiving without leftovers. Try these recipes for some great ways to reinvent Thanksgiving leftovers.
 
 ## [Home Tours](https://sunset.com/home-garden/home-tours)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
 
 Take a peek at our favorite homes around the West, from modern cabins to mid-century ranch houses
 
 ## [Home & Garden](https://sunset.com/home-garden)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
 
 Great home and garden design ideas, from decorating and DIY projects to landscaping and edible gardening tips from Sunset magazine.
 
 ## [Wine & Drinks](https://sunset.com/food-wine/wine-pairings)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
 
 Pair wine like a pro with our wine guide. Find the best wine for every meal, including burgers, pizza, steak, and more
 
 ## [Restaurants](https://sunset.com/food-wine/restaurants)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
 
 … [Read More](https://sunset.com/food-wine/restaurants)
 
 ## [Recipes](https://sunset.com/food-wine/kitchen-assistant)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
 
 Search Sunset's collection of great recipes for every occasion. From quick weekday meals to indulgent holiday menus, we share the best in Western cooking.
 
 ## [16 Extra-Special Holiday Appetizers That Will Impress Your Holiday Guests](https://sunset.com/food-wine/entertaining/christmas-appetizers)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
 
 Holiday gatherings are special by definition. So pull out all the stops and let guests know they’re in for a treat by starting the party with these extravagant appetizers
 
 ## [From a Crab Feast to a Festive Meal for Two, These Holiday Menu Ideas Work for Any Type of Gathering](https://sunset.com/food-wine/holidays-occasions/christmas-holiday-menu-recipes)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
 
 Plan the perfect menu for your Christmas party. Get great menu ideas for classic holiday dinners, finger-food parties, and an easy holiday buffet.
 
 ## [25 Delectable Holiday Desserts You’ll Love Making (and Eating)](https://sunset.com/food-wine/holidays-occasions/holiday-dessert-recipes)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
 
 These festive favorites and elegant show-stoppers create holiday cheer with every bite. Take a look at our most popular holiday dessert recipes.
 
 ## [Food and Drink](https://sunset.com/food-wine)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
 
 Delicious recipes, food and wine pairings, and more ways to savor the West.
 
 ## [Chefs Share Their Genius Ingredient Substitution Hacks That Will Save Your Thanksgiving Meal](https://sunset.com/food-wine/ingredient-substitutions)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
 
 A common Thanksgiving mishap is running out of a basic pantry ingredient. Chefs share some ingredient substitutions that will save your meal.
 
 ## [Homepage 2025](https://sunset.com/)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
 
 Road Trips, Hotels, Outdoor Adventure The A-Frame Getaways You Can Book Right Now Sunset has been chronicling the rise of the A-frame since the style first took hold in the West. Nearly 70 years… [Read More](https://sunset.com/)
 
 ## [The Best Wines to Pair with Your Holiday Meals](https://sunset.com/food-wine/wine-pairings/holiday-grilling)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
 
 The next shipment of Sunset Wine Club bottles matches beautifully with the dishes mentioned in our Holiday Issue.
 
 ## [These Thanksgiving Dishes Are Often an Afterthought—and That’s a Big Mistake](https://sunset.com/food-wine/underrated-thanksgiving-dishes)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-21
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
 
 On Thanksgiving Day, the emphasis is always on the turkey, but chefs say not to forget about these overlooked dishes.
 
 ## [What Is Xerophytic Garden Design?](https://gardenerspath.com/plants/succulents/xerophytic-garden-design/)
 
-via The Gardener's Path · 2026-11-20
+via The Gardener's Path · 2026-11-20, updated 2026-11-22
 
 Nowadays, we’re all concerned about natural resources and the environment – and rightly so! But there are steps that we can take to reduce our environmental impact, like landscaping with plant species that need less water to thrive. Learn how to plan a xerophytic garden and choose the best plants for your needs.
 
@@ -332,7 +464,7 @@ The post [What Those Strange Worms Crawling Out of Ohio Bathroom Drains Actually
 
 ## [What To Do About Woody Stems on Your Christmas Cactus](https://gardenerspath.com/plants/succulents/woody-christmas-cactus/)
 
-via The Gardener's Path · 2026-11-19, updated 2026-11-20
+via The Gardener's Path · 2026-11-19, updated 2026-11-22
 
 Tropical Christmas cactus is a relatively easy houseplant to grow. Native to the rainforests of South America, it thrives with indirect sunlight in organically-rich, well-draining potting medium. The fleshy stems are green and segmented, but sometimes they turn brown and become woody. Read on to learn what this means.
 
@@ -518,7 +650,7 @@ The post [What Those Tiny Worms Crawling Around Louisiana Bathroom Drains Actual
 
 ## [How to Acclimate Plants for Winter Indoors](https://gardenerspath.com/plants/houseplants/acclimate-plants-indoors/)
 
-via The Gardener's Path · 2026-11-18, updated 2026-11-20
+via The Gardener's Path · 2026-11-18, updated 2026-11-22
 
 If you take some of your houseplants outside to spend the summer months on the patio or in the garden, you'll need to plan ahead before you bring them back indoors. As the temperatures drop, follow these top tips for acclimating your plants to the indoor environment to ensure a smooth transition. Read more now.
 
@@ -534,7 +666,7 @@ The post [The Reason Some Parking Lots Have Angled Spaces Instead of Straight On
 
 ## [Farm to School – How California Connects Farms and Schools](https://californiagrown.org/blog/what-is-farm-to-school-california/)
 
-via California Grown · 2026-11-18
+via California Grown · 2026-11-18, updated 2026-11-21
 
 From taste tests to school gardens, here’s how Farm to School puts California-grown food on lunch trays and gives California farmers a market they can count on. Farm to School puts California-grown food on school lunch trays and sparks curiosity about where it’s grown. In practice, that can mean a California-grown persimmon in the cafeteria, \[…\]
 
@@ -542,7 +674,7 @@ The post [Farm to School – How California Connects Farms and Schools](https://
 
 ## [What Is California Grown? What the CA GROWN Logo Means](https://californiagrown.org/blog/what-is-california-grown/)
 
-via California Grown · 2026-11-18
+via California Grown · 2026-11-18, updated 2026-11-21
 
 For 25 years, the blue-and-gold CA GROWN license plate has connected shoppers with California agriculture. But what is California Grown? Here’s what the logo means, what grows in the Golden State, and how to find California-grown products year-round. California Grown turns 25 this year, but you’ve likely seen the logo longer than you’ve known what \[…\]
 
@@ -550,7 +682,7 @@ The post [What Is California Grown? What the CA GROWN Logo Means](https://califo
 
 ## [Spork Food Hub Links California Farms to Big Buyers](https://californiagrown.org/blog/spork-food-hub/)
 
-via California Grown · 2026-11-18
+via California Grown · 2026-11-18, updated 2026-11-21
 
 Meet Spork Food Hub, the farmer-owned Davis food hub that pools produce from California family farms so schools, hospitals, and other large kitchens can buy local. Spork Food Hub helps small California farms sell to customers far bigger than any one of them could serve alone. The farmer-owned food hub in Davis gathers produce from \[…\]
 
@@ -696,7 +828,7 @@ The post [18 Kitchen Hacks Our Readers Swear By](https://www.familyhandyman.com/
 
 ## [Why Is My Christmas Cactus Turning Yellow?](https://gardenerspath.com/plants/succulents/christmas-cactus-yellow/)
 
-via The Gardener's Path · 2026-11-17, updated 2026-11-20
+via The Gardener's Path · 2026-11-17, updated 2026-11-22
 
 Tropical Christmas cactus is a rainforest epiphyte with beautiful blooms that has become a popular houseplant. It thrives in indirect sunlight, and organically-rich, well-draining potting medium. It has green segmented stems that sometimes turn yellow. Read on to find out why this happens and what you can do about it.
 
@@ -750,7 +882,7 @@ The post [Electrical Tape Color Meanings: What Each Color Tells Electricians](ht
 
 ## [The Best Sweet Potato Recipes You’ll Ever Make](https://californiagrown.org/blog/sweet-potato-recipes/)
 
-via California Grown · 2026-11-17, updated 2026-11-18
+via California Grown · 2026-11-17, updated 2026-11-21
 
 Sweet potatoes are perfectly capable of becoming dinner, dessert, fries, or even a cake you would proudly serve to company. California farmers plant roughly 22,000 acres of them every year, and only a small percantge of that crop is destined to be mini marshmallow-topped casserole for the holidays. What follows are insanely delicious sweet potato \[…\]
 
@@ -1032,7 +1164,7 @@ Beaches get all the love, but lakes are a great option, especially if you have a
 
 ## [7 Tips for Planting Hellebore Seeds](https://gardenerspath.com/plants/flowers/hellebore-seed-planting-tips/)
 
-via The Gardener's Path · 2026-11-15, updated 2026-11-20
+via The Gardener's Path · 2026-11-15, updated 2026-11-22
 
 Are you longing for color in the late winter garden, when most plants are still dormant? Hardy flowering hellebores fit the bill. Easy to sow, they reward with an abundance of sweetly nodding blossoms in an array of colors. Chase the winter blues away with these 7 tips for planting hellebore seeds. Read more now.
 
@@ -1142,7 +1274,7 @@ The post [What Leaves Bloody Feathers Across Georgia Backyards](https://ownyardl
 
 ## [How to Protect Rosemary Plants in Winter](https://gardenerspath.com/plants/herbs/protect-winter-rosemary/)
 
-via The Gardener's Path · 2026-11-14, updated 2026-11-20
+via The Gardener's Path · 2026-11-14, updated 2026-11-22
 
 If you’re growing rosemary in your garden, you might be wondering if it can survive the winter outside. Depending on your growing zone, there are a number of measures you can take to help your plants through the colder months, including mulching and potting-up. Learn how to protect your rosemary plants this winter.
 
@@ -1150,7 +1282,7 @@ The post [How to Protect Rosemary Plants in Winter](https://gardenerspath.com/pl
 
 ## [Two failures and two successes in my garden today](https://gregalder.com/yardposts/two-failures-and-two-successes-in-my-garden-today/)
 
-via Greg Alder's blog, Yard Post · 2026-11-14, updated 2026-11-20
+via Greg Alder's blog, Yard Post · 2026-11-14, updated 2026-11-22
 
 Failure one: Sowing old onion seed In late October, I sowed about 150 onion seeds. Only eight germinated. I suspected that I might get reduced germination because the seeds were from last year. I knew that onion seeds didn’t have long viability, but I thought I would get at least half of them to sprout, \[…\]
 
@@ -1270,7 +1402,7 @@ The post [10 Black Widow Spider Secrets Most Arizona Residents Never Knew](https
 
 ## [How to Prepare Your Trees For Winter](https://gardenerspath.com/plants/landscape-trees/prep-trees-winter/)
 
-via The Gardener's Path · 2026-11-13, updated 2026-11-20
+via The Gardener's Path · 2026-11-13, updated 2026-11-22
 
 Freezing temperatures, harsh winds, and heavy snow can all take a toll on trees, leaving them with cracked bark, browned foliage, and broken limbs. The good news is that a little preparation in the fall can go a long way toward keeping them healthy until spring. Learn how to prepare your trees for winter in this guide.
 
@@ -1412,7 +1544,7 @@ The post [10 Hidden Water Moccasin Facts That Reveal Their Secret Lives in Virgi
 
 ## [Enjoy Old-Fashioned Farm Fun at Sunflower Pumpkin Patch](https://californiagrown.org/blog/sunflower-pumpkin-patch/)
 
-via California Grown · 2026-11-12, updated 2026-11-18
+via California Grown · 2026-11-12, updated 2026-11-21
 
 During the month of October, Sunflower Pumpkin Patch at Cornerstone Farm is Siskiyou County’s hottest ticket. Over 1000 school aged children visit the adorable pumpkin patch for some farm fun, finding the most gorgeous – or ghoulish – gourd, navigating the hay maze, and having some good, old-fashioned fun.  Kirsten Olson, the owner of the \[…\]
 
@@ -1428,7 +1560,7 @@ The post [The Different Police Sirens You Hear Aren’t Totally Random — Here�
 
 ## [A Colorful Legacy: How Babe Farms Changed the Way We Eat Vegetables](https://californiagrown.org/blog/a-colorful-legacy-how-babe-farms-changed-the-way-we-eat-vegetables/)
 
-via California Grown · 2026-11-12, updated 2026-11-18
+via California Grown · 2026-11-12, updated 2026-11-21
 
 From colorful baby beets to specialty lettuces and radishes, the Babe Farms has spent four decades cultivating creativity, innovation, and a love of California Grown produce in the Santa Maria Valley. At Babe Farms, vegetables aren’t just something you eat. They’re a canvas for creativity. From jewel-toned beets and colorful radishes to delicate baby lettuces, \[…\]
 
@@ -1436,7 +1568,7 @@ The post [A Colorful Legacy: How Babe Farms Changed the Way We Eat Vegetables](h
 
 ## [Learn How to Grow and Care for Cedar Trees](https://gardenerspath.com/plants/landscape-trees/grow-cedars/)
 
-via The Gardener's Path · 2026-11-12, updated 2026-11-20
+via The Gardener's Path · 2026-11-12, updated 2026-11-22
 
 Cedar trees (Cedrus spp.) add beautiful texture and shape to the garden. As evergreen conifers, they hold that appeal year-round, so it’s easy to see why they’re so popular as a focal point in the landscape. Learn how to grow and care for these majestic conifers in this comprehensive guide. Read more now.
 
@@ -1592,7 +1724,7 @@ The post [10 Water Moccasin Secrets Most Tennessee Residents Never Knew](https:/
 
 ## [Rooted in Tradition: How Janell Dusi Is Carrying a Century of Zinfandel Into the Future](https://californiagrown.org/blog/rooted-in-tradition-how-janell-dusi-is-carrying-a-century-of-zinfandel-into-the-future/)
 
-via California Grown · 2026-11-11, updated 2026-11-18
+via California Grown · 2026-11-11, updated 2026-11-21
 
 From vines planted in 1925 to wines crafted for today’s tables, fourth-generation Paso Robles winegrower Janell Dusi is honoring her family’s agricultural legacy, one bottle at a time. For Janell Dusi, Zinfandel goes far beyond just being a grape variety. It’s a family heirloom, an agricultural legacy of connection to the land, and a living \[…\]
 
@@ -1600,7 +1732,7 @@ The post [Rooted in Tradition: How Janell Dusi Is Carrying a Century of Zinfande
 
 ## [From Dirt to Dinner Table: Growing a Legacy at Alta Colina Vineyard & Winery](https://californiagrown.org/blog/from-dirt-to-dinner-table-growing-a-legacy-at-alta-colina-vineyard-winery/)
 
-via California Grown · 2026-11-11, updated 2026-11-18
+via California Grown · 2026-11-11, updated 2026-11-21
 
 In Paso Robles wine country, second-generation winegrower Maggie Tillman is cultivating more than exceptional wines. She’s helping carry on a family legacy rooted in sustainable agriculture, community, and a deep connection to the land. Tractors and tasting rooms. Dirt and dinner tables. For Maggie Tillman, the magic of California wine lies somewhere in between. As \[…\]
 
@@ -1608,7 +1740,7 @@ The post [From Dirt to Dinner Table: Growing a Legacy at Alta Colina Vineyard & 
 
 ## [A Wine of Her Own: How Riley Roddick Is Redefining the Rules at Hubba Wines](https://californiagrown.org/blog/a-wine-of-her-own-how-riley-roddick-is-redefining-the-rules-at-hubba-wines/)
 
-via California Grown · 2026-11-11, updated 2026-11-18
+via California Grown · 2026-11-11, updated 2026-11-21
 
 Inspired by European winemaking traditions and fueled by California creativity, Riley Roddick is crafting distinctive wines that celebrate organic agriculture, experimentation, and the collaborative spirit of Paso Robles. Riley Roddick wasn’t supposed to become a winemaker. At least, that’s not what she had in mind when she took a job pouring wine at a local \[…\]
 
@@ -1616,7 +1748,7 @@ The post [A Wine of Her Own: How Riley Roddick Is Redefining the Rules at Hubba 
 
 ## [From Grove to Bottle: The Art of Olive Oil at Kiler Ridge](https://californiagrown.org/blog/from-grove-to-bottle-the-art-of-olive-oil-at-kiler-ridge/)
 
-via California Grown · 2026-11-11, updated 2026-11-18
+via California Grown · 2026-11-11, updated 2026-11-21
 
 Kiler Ridge Olive Farm in Paso Robles is turning California Grown olives into exceptional extra virgin olive oil while helping a growing community of local producers to cultivate their own success. Making a great bottle of olive oil takes more than a few olives and a little pressure. It takes years of patience, meticulous timing, \[…\]
 
@@ -1624,7 +1756,7 @@ The post [From Grove to Bottle: The Art of Olive Oil at Kiler Ridge](https://cal
 
 ## [17 of the Best Flowering Houseplants for Low Light](https://gardenerspath.com/plants/houseplants/low-light-flowering-houseplants/)
 
-via The Gardener's Path · 2026-11-11, updated 2026-11-20
+via The Gardener's Path · 2026-11-11, updated 2026-11-22
 
 Are you looking for a flowering houseplant for a low-light spot in your home? It can be hard to find plants that flower indoors, let alone in low light conditions. In this guide, we introduce 17 excellent options for low-light flowering houseplants from colorful African violets to succulent kalanchoe plants. Read more.
 
@@ -2200,7 +2332,7 @@ The Malibu home's western style scene-stealer is a tile backsplash in the kitche
 
 ## [Reading avocado leaves](https://gregalder.com/yardposts/reading-avocado-leaves/)
 
-via Greg Alder's blog, Yard Post · 2026-11-07, updated 2026-11-20
+via Greg Alder's blog, Yard Post · 2026-11-07, updated 2026-11-22
 
 It was my first avocado tree’s first winter when a couple leaves started getting yellow veins. Oh no, what disease is this? I thought. I took a picture and sent it to a seasoned avocado grower. He wrote back, “This is leaf senescence. The leaf is just dying naturally.” With this post, I hope to \[…\]
 
@@ -2248,7 +2380,7 @@ The post [10 Strange Porcupine Behaviors That Michigan Residents Rarely Notice](
 
 ## [Supporting The Yard Posts](https://gregalder.com/yardposts/supporting-the-yard-posts/)
 
-via Greg Alder's blog, Yard Post · 2026-11-07, updated 2026-11-20
+via Greg Alder's blog, Yard Post · 2026-11-07, updated 2026-11-22
 
 My goal with The Yard Posts is to help others grow food at home, with a focus on vegetables and fruits — especially avocados — in Southern California. How do I do this? I write short articles – “posts” – each Friday, and I augment each post with photos and sometimes video, as well as \[…\]
 
@@ -3051,200 +3183,4 @@ Make meal-planning easy this November with our recipe recommendations for your T
 via Sunset Magazine - Living in the West · 2026-11-01, updated 2026-11-04
 
 Meet the people behind the Southwest's Michelin Bib Gourmands, and find out the best dishes to order there on your next visit.
-
-## [10 Secrets of Great Horned Owls That Many Florida Residents Have Never Heard](https://ownyardlife.com/10-secrets-of-great-horned-owls-that-many-florida-residents-have-never-heard/)
-
-via Yard Life blog · 2026-10-31
-
-Great horned owls are among the most recognizable birds of prey in Florida, but many residents have never noticed how ...
-
-[Read more](https://ownyardlife.com/10-secrets-of-great-horned-owls-that-many-florida-residents-have-never-heard/#more-68414 "10 Secrets of Great Horned Owls That Many Florida Residents Have Never Heard")
-
-The post [10 Secrets of Great Horned Owls That Many Florida Residents Have Never Heard](https://ownyardlife.com/10-secrets-of-great-horned-owls-that-many-florida-residents-have-never-heard/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [8 Little-Known Things About Skunks That Surprise Illinois Residents](https://ownyardlife.com/8-little-known-things-about-skunks-that-surprise-illinois-residents/)
-
-via Yard Life blog · 2026-10-31
-
-In Illinois, skunks can appear in places where people least expect to find them. One may shuffle across a driveway ...
-
-[Read more](https://ownyardlife.com/8-little-known-things-about-skunks-that-surprise-illinois-residents/#more-68407 "8 Little-Known Things About Skunks That Surprise Illinois Residents")
-
-The post [8 Little-Known Things About Skunks That Surprise Illinois Residents](https://ownyardlife.com/8-little-known-things-about-skunks-that-surprise-illinois-residents/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [What Texas Homeowners Rarely Notice About Rabbits Living in Their Yards](https://ownyardlife.com/what-texas-homeowners-rarely-notice-about-rabbits-living-in-their-yards/)
-
-via Yard Life blog · 2026-10-31
-
-Rabbits are such familiar visitors in Texas yards that many homeowners barely notice them anymore. One may appear beneath a ...
-
-[Read more](https://ownyardlife.com/what-texas-homeowners-rarely-notice-about-rabbits-living-in-their-yards/#more-68400 "What Texas Homeowners Rarely Notice About Rabbits Living in Their Yards")
-
-The post [What Texas Homeowners Rarely Notice About Rabbits Living in Their Yards](https://ownyardlife.com/what-texas-homeowners-rarely-notice-about-rabbits-living-in-their-yards/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [7 Things Georgia Residents Often Misunderstand About Opossums](https://ownyardlife.com/7-things-georgia-residents-often-misunderstand-about-opossums/)
-
-via Yard Life blog · 2026-10-31
-
-In Georgia, opossums are among the wild animals most likely to appear where people least expect them. One might shuffle ...
-
-[Read more](https://ownyardlife.com/7-things-georgia-residents-often-misunderstand-about-opossums/#more-68393 "7 Things Georgia Residents Often Misunderstand About Opossums")
-
-The post [7 Things Georgia Residents Often Misunderstand About Opossums](https://ownyardlife.com/7-things-georgia-residents-often-misunderstand-about-opossums/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [Why Black Bears in Virginia Behave Differently Than Many People Expect](https://ownyardlife.com/why-black-bears-in-virginia-behave-differently-than-many-people-expect/)
-
-via Yard Life blog · 2026-10-31
-
-Black bears are often imagined as animals that avoid people, disappear deep into the mountains, and become active only when ...
-
-[Read more](https://ownyardlife.com/why-black-bears-in-virginia-behave-differently-than-many-people-expect/#more-68386 "Why Black Bears in Virginia Behave Differently Than Many People Expect")
-
-The post [Why Black Bears in Virginia Behave Differently Than Many People Expect](https://ownyardlife.com/why-black-bears-in-virginia-behave-differently-than-many-people-expect/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [What Most New Jersey Residents Don’t Realize About Coyotes Living Nearby](https://ownyardlife.com/what-most-new-jersey-residents-dont-realize-about-coyotes-living-nearby/)
-
-via Yard Life blog · 2026-10-31
-
-The sound of a coyote calling from a wooded area can be surprisingly unsettling when it happens just beyond a ...
-
-[Read more](https://ownyardlife.com/what-most-new-jersey-residents-dont-realize-about-coyotes-living-nearby/#more-68379 "What Most New Jersey Residents Don’t Realize About Coyotes Living Nearby")
-
-The post [What Most New Jersey Residents Don’t Realize About Coyotes Living Nearby](https://ownyardlife.com/what-most-new-jersey-residents-dont-realize-about-coyotes-living-nearby/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [10 Surprising Facts About Raccoons Most North Carolina Homeowners Don’t Know](https://ownyardlife.com/10-surprising-facts-about-raccoons-most-north-carolina-homeowners-dont-know/)
-
-via Yard Life blog · 2026-10-31
-
-Few animals are as familiar around North Carolina homes as raccoons, yet these masked nighttime visitors have a way of ...
-
-[Read more](https://ownyardlife.com/10-surprising-facts-about-raccoons-most-north-carolina-homeowners-dont-know/#more-68372 "10 Surprising Facts About Raccoons Most North Carolina Homeowners Don’t Know")
-
-The post [10 Surprising Facts About Raccoons Most North Carolina Homeowners Don’t Know](https://ownyardlife.com/10-surprising-facts-about-raccoons-most-north-carolina-homeowners-dont-know/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [9 Strange Things White-Tailed Deer Do That Most Michigan Residents Never Notice](https://ownyardlife.com/9-strange-things-white-tailed-deer-do-that-most-michigan-residents-never-notice/)
-
-via Yard Life blog · 2026-10-31
-
-A white-tailed deer standing quietly at the edge of a Michigan backyard may look as though it is doing absolutely ...
-
-[Read more](https://ownyardlife.com/9-strange-things-white-tailed-deer-do-that-most-michigan-residents-never-notice/#more-68365 "9 Strange Things White-Tailed Deer Do That Most Michigan Residents Never Notice")
-
-The post [9 Strange Things White-Tailed Deer Do That Most Michigan Residents Never Notice](https://ownyardlife.com/9-strange-things-white-tailed-deer-do-that-most-michigan-residents-never-notice/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [8 Little-Known Facts About Red Foxes That May Surprise Pennsylvania Residents](https://ownyardlife.com/8-little-known-facts-about-red-foxes-that-may-surprise-pennsylvania-residents/)
-
-via Yard Life blog · 2026-10-31
-
-A red fox slipping along the edge of a Pennsylvania backyard can be easy to mistake for an ordinary neighborhood ...
-
-[Read more](https://ownyardlife.com/8-little-known-facts-about-red-foxes-that-may-surprise-pennsylvania-residents/#more-68358 "8 Little-Known Facts About Red Foxes That May Surprise Pennsylvania Residents")
-
-The post [8 Little-Known Facts About Red Foxes That May Surprise Pennsylvania Residents](https://ownyardlife.com/8-little-known-facts-about-red-foxes-that-may-surprise-pennsylvania-residents/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [10 Things Most Ohio Residents Never Knew About Bobcats](https://ownyardlife.com/10-things-most-ohio-residents-never-knew-about-bobcats/)
-
-via Yard Life blog · 2026-10-31
-
-Ohio has a wild cat that can live surprisingly close to farms, wooded backyards, and quiet country roads without most ...
-
-[Read more](https://ownyardlife.com/10-things-most-ohio-residents-never-knew-about-bobcats/#more-68352 "10 Things Most Ohio Residents Never Knew About Bobcats")
-
-The post [10 Things Most Ohio Residents Never Knew About Bobcats](https://ownyardlife.com/10-things-most-ohio-residents-never-knew-about-bobcats/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [How to Force Amaryllis Bulbs to Bloom Indoors](https://gardenerspath.com/plants/flowers/force-amaryllis/)
-
-via The Gardener's Path · 2026-10-31, updated 2026-11-12
-
-Large tropical flowers on tall, sturdy stems, bold and beautiful amaryllis brightens our winter decor with a long flowering time. These long-lived perennials are easily cultivated and can be saved for years of continuous enjoyment. Learn all the necessary steps to force amaryllis indoors in this guide. Read more now.
-
-The post [How to Force Amaryllis Bulbs to Bloom Indoors](https://gardenerspath.com/plants/flowers/force-amaryllis/) appeared first on [Gardener's Path](https://gardenerspath.com).
-
-## [Teaching your kids to grow food](https://gregalder.com/yardposts/teaching-your-kids-to-grow-food/)
-
-via Greg Alder's blog, Yard Post · 2026-10-31, updated 2026-11-20
-
-I’ve made a lot of mistakes in my attempts to teach my kids to grow food over the last dozen years, and it is through these mistakes that I’ve learned nine ways to do it better. They might not work for you, your kids, or your context. But in case they do: 1. Let them \[…\]
-
-The post [Teaching your kids to grow food](https://gregalder.com/yardposts/teaching-your-kids-to-grow-food/) appeared first on [Greg Alder's Yard Posts: Southern California food gardening](https://gregalder.com/yardposts).
-
-## [8 Gorgeous Native Flowers That Brighten North Carolina Gardens in Late Fall](https://ownyardlife.com/8-gorgeous-native-flowers-that-brighten-north-carolina-gardens-in-late-fall/)
-
-via Yard Life blog · 2026-10-31
-
-By the time November arrives in North Carolina, many familiar garden flowers have begun to fade. Summer annuals look tired, ...
-
-[Read more](https://ownyardlife.com/8-gorgeous-native-flowers-that-brighten-north-carolina-gardens-in-late-fall/#more-68337 "8 Gorgeous Native Flowers That Brighten North Carolina Gardens in Late Fall")
-
-The post [8 Gorgeous Native Flowers That Brighten North Carolina Gardens in Late Fall](https://ownyardlife.com/8-gorgeous-native-flowers-that-brighten-north-carolina-gardens-in-late-fall/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [Why Hellebores Are Becoming a Favorite Flower for Virginia Winter Gardens](https://ownyardlife.com/why-hellebores-are-becoming-a-favorite-flower-for-virginia-winter-gardens/)
-
-via Yard Life blog · 2026-10-31
-
-When much of a Virginia garden looks quiet and empty in January, a few flowers may already be opening beneath ...
-
-[Read more](https://ownyardlife.com/why-hellebores-are-becoming-a-favorite-flower-for-virginia-winter-gardens/#more-68330 "Why Hellebores Are Becoming a Favorite Flower for Virginia Winter Gardens")
-
-The post [Why Hellebores Are Becoming a Favorite Flower for Virginia Winter Gardens](https://ownyardlife.com/why-hellebores-are-becoming-a-favorite-flower-for-virginia-winter-gardens/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [What Makes Pentas One of the Most Beautiful Flowers for Florida Butterfly Gardens?](https://ownyardlife.com/what-makes-pentas-one-of-the-most-beautiful-flowers-for-florida-butterfly-gardens/)
-
-via Yard Life blog · 2026-10-31
-
-On a warm Florida morning, a cluster of small, star-shaped flowers can become one of the busiest places in the ...
-
-[Read more](https://ownyardlife.com/what-makes-pentas-one-of-the-most-beautiful-flowers-for-florida-butterfly-gardens/#more-68322 "What Makes Pentas One of the Most Beautiful Flowers for Florida Butterfly Gardens?")
-
-The post [What Makes Pentas One of the Most Beautiful Flowers for Florida Butterfly Gardens?](https://ownyardlife.com/what-makes-pentas-one-of-the-most-beautiful-flowers-for-florida-butterfly-gardens/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [What Happens If You Prune Hydrangeas at the Wrong Time in Fall in New Jersey?](https://ownyardlife.com/what-happens-if-you-prune-hydrangeas-at-the-wrong-time-in-fall-in-new-jersey/)
-
-via Yard Life blog · 2026-10-31
-
-As autumn settles across New Jersey, hydrangeas often become one of the most noticeable plants in the garden. Their large ...
-
-[Read more](https://ownyardlife.com/what-happens-if-you-prune-hydrangeas-at-the-wrong-time-in-fall-in-new-jersey/#more-68314 "What Happens If You Prune Hydrangeas at the Wrong Time in Fall in New Jersey?")
-
-The post [What Happens If You Prune Hydrangeas at the Wrong Time in Fall in New Jersey?](https://ownyardlife.com/what-happens-if-you-prune-hydrangeas-at-the-wrong-time-in-fall-in-new-jersey/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [How to Keep Chrysanthemums Beautiful in Ohio Gardens as Temperatures Drop](https://ownyardlife.com/how-to-keep-chrysanthemums-beautiful-in-ohio-gardens-as-temperatures-drop/)
-
-via Yard Life blog · 2026-10-31
-
-Chrysanthemums bring some of the richest colors of the year into Ohio gardens just as many summer flowers begin to ...
-
-[Read more](https://ownyardlife.com/how-to-keep-chrysanthemums-beautiful-in-ohio-gardens-as-temperatures-drop/#more-68307 "How to Keep Chrysanthemums Beautiful in Ohio Gardens as Temperatures Drop")
-
-The post [How to Keep Chrysanthemums Beautiful in Ohio Gardens as Temperatures Drop](https://ownyardlife.com/how-to-keep-chrysanthemums-beautiful-in-ohio-gardens-as-temperatures-drop/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [9 Beautiful Flowers That Thrive in Texas Gardens During Fall](https://ownyardlife.com/9-beautiful-flowers-that-thrive-in-texas-gardens-during-fall/)
-
-via Yard Life blog · 2026-10-31
-
-Texas gardens can remain full of color long after the intense summer heat begins to fade. September and October bring ...
-
-[Read more](https://ownyardlife.com/9-beautiful-flowers-that-thrive-in-texas-gardens-during-fall/#more-68294 "9 Beautiful Flowers That Thrive in Texas Gardens During Fall")
-
-The post [9 Beautiful Flowers That Thrive in Texas Gardens During Fall](https://ownyardlife.com/9-beautiful-flowers-that-thrive-in-texas-gardens-during-fall/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [7 Stunning Flowers to Plant in Georgia Before Winter Arrives](https://ownyardlife.com/7-stunning-flowers-to-plant-in-georgia-before-winter-arrives/)
-
-via Yard Life blog · 2026-10-31
-
-Georgia gardens do not have to lose their color when summer ends. Even as warm-season flowers begin to fade and ...
-
-[Read more](https://ownyardlife.com/7-stunning-flowers-to-plant-in-georgia-before-winter-arrives/#more-68281 "7 Stunning Flowers to Plant in Georgia Before Winter Arrives")
-
-The post [7 Stunning Flowers to Plant in Georgia Before Winter Arrives](https://ownyardlife.com/7-stunning-flowers-to-plant-in-georgia-before-winter-arrives/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [8 Best Fall Flowers That Keep Pennsylvania Gardens Beautiful Through November](https://ownyardlife.com/8-best-fall-flowers-that-keep-pennsylvania-gardens-beautiful-through-november/)
-
-via Yard Life blog · 2026-10-31
-
-Pennsylvania gardens can look surprisingly colorful long after summer flowers begin to fade. By October, many familiar perennials have finished ...
-
-[Read more](https://ownyardlife.com/8-best-fall-flowers-that-keep-pennsylvania-gardens-beautiful-through-november/#more-68265 "8 Best Fall Flowers That Keep Pennsylvania Gardens Beautiful Through November")
-
-The post [8 Best Fall Flowers That Keep Pennsylvania Gardens Beautiful Through November](https://ownyardlife.com/8-best-fall-flowers-that-keep-pennsylvania-gardens-beautiful-through-november/) appeared first on [Own Yard Life](https://ownyardlife.com).
 

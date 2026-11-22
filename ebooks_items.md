@@ -3,8 +3,8 @@ title: "ebooks.md"
 description: "New eBook releases."
 pubDate: Sun, 15 Nov 2026 10:51:23 GMT
 aggregateOf: "ebooks.md"
-dateModified: Sat, 21 Nov 2026 14:48:50 GMT
-itemCount: 183
+dateModified: Sun, 22 Nov 2026 14:50:46 GMT
+itemCount: 177
 generator: antenna/0.1.1
 ---
 
@@ -1069,42 +1069,6 @@ Language: Dutch
 ## [Lying Lips by William Le Queux](https://www.gutenberg.org/ebooks/79888)
 
 via Project Gutenberg (New Books) · 2026-11-01
-
-Language: English
-
-## [Lady Bell, volume 3 (of 3) : by Sarah Tytler](https://www.gutenberg.org/ebooks/79883)
-
-via Project Gutenberg (New Books) · 2026-10-31
-
-Language: English
-
-## [The Castle of Otranto by Horace Walpole](https://www.gutenberg.org/ebooks/696)
-
-via Project Gutenberg (New Books) · 2026-10-31
-
-Language: English
-
-## [Coxswain of the Eight by Ralph Henry Barbour](https://www.gutenberg.org/ebooks/79884)
-
-via Project Gutenberg (New Books) · 2026-10-31
-
-Language: English
-
-## [The Vampyre; a Tale by John William Polidori](https://www.gutenberg.org/ebooks/6087)
-
-via Project Gutenberg (New Books) · 2026-10-31
-
-Language: English
-
-## [Beschrijvinge van het machtigh koninckrijcke Japan : by François Caron](https://www.gutenberg.org/ebooks/79881)
-
-via Project Gutenberg (New Books) · 2026-10-31
-
-Language: Dutch
-
-## [Gallipoli memories by Compton Mackenzie](https://www.gutenberg.org/ebooks/79882)
-
-via Project Gutenberg (New Books) · 2026-10-31
 
 Language: English
 

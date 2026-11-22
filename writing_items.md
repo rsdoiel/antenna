@@ -1,14 +1,20 @@
 ---
 title: "Writing"
 description: "Writing and writing tools."
-pubDate: Fri, 20 Nov 2026 19:13:49 GMT
+pubDate: Sat, 21 Nov 2026 19:58:29 GMT
 aggregateOf: "writing.md"
-dateModified: Sat, 21 Nov 2026 14:49:34 GMT
-itemCount: 6
+dateModified: Sun, 22 Nov 2026 14:51:23 GMT
+itemCount: 7
 generator: antenna/0.1.1
 ---
 
 # Writing
+
+## [Hide games with a game filter](https://ifdb.org/news?item=170)
+
+via IF Database News · 2026-11-21
+
+You can now set a game filter on your [profile](/editprofile) to hide games you don't want to see, using IFDB's [search prefixes](/search). For example, **-tag:horror language:en** hides games tagged "horror" and shows only games in English. While you're logged in, the filter applies to the home page, the "New on IFDB" lists, and search results, and each of those pages links to the same results without it.
 
 ## [Are changes coming to Section 121?](https://www.authorsalliance.org/2026/11/20/are-changes-coming-to-section-121/)
 

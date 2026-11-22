@@ -1,14 +1,22 @@
 ---
 title: "GLAM"
 description: "Libraries, archives and museums."
-pubDate: Fri, 20 Nov 2026 16:47:51 GMT
+pubDate: Sat, 21 Nov 2026 17:48:12 GMT
 aggregateOf: "libraries.md"
-dateModified: Sat, 21 Nov 2026 14:48:45 GMT
-itemCount: 66
+dateModified: Sun, 22 Nov 2026 14:50:42 GMT
+itemCount: 67
 generator: antenna/0.1.1
 ---
 
 # GLAM
+
+## [Research Tools: University of Richmond Distant Viewing Lab Releases DataReel, a New AI Tool for Film Research](https://www.infodocket.com/2026/11/21/research-tools-university-of-richmond-distant-viewing-lab-releases-datareel-a-new-ai-tool-for-film-research/)
+
+via Library Jounral · 2026-11-21
+
+From the University of Richmond: University of Richmond’s Distant Viewing Lab has released DataReel, a new open access, AI-powered tool that helps researchers analyze films. DataReel uses AI models to automatically capture data from over 2,000 films, presenting it in an interactive, visual format. It measures descriptions of scenes, the characters onscreen, shot length, framing \[…\]
+
+The post [Research Tools: University of Richmond Distant Viewing Lab Releases DataReel, a New AI Tool for Film Research](https://www.infodocket.com/2026/11/21/research-tools-university-of-richmond-distant-viewing-lab-releases-datareel-a-new-ai-tool-for-film-research/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).
 
 ## [Shaping digital horizons together: IOI at UbuntuNet CONNECT 2026 in Malawi](https://investinopen.org/blog/shaping-digital-horizons-together-ioi-at-ubuntunet-connect-2026-in-malawi/)
 
@@ -213,7 +221,7 @@ The conversation continues with #Crossref2026 and on our [community forum](https
 
 ## [Before the Paper Goes](https://metaarchivist.substack.com/p/before-the-paper-goes)
 
-via The Meta Archivist blog · 2026-11-19, updated 2026-11-21
+via The Meta Archivist blog · 2026-11-19, updated 2026-11-22
 
 NARA’s new authority spares agencies from rescanning qualifying legacy records, but it can leave them holding the paper for years.
 
@@ -225,7 +233,7 @@ Workshop on Open Citations and Open Scholarly Metadata 2027 (WOOC 2027) 27–28 
 
 ## [Dr. Carla Hayden: “The Future of Libraries is About More Than Books”](https://www.infodocket.com/2026/11/19/dr-carla-hayden-the-future-of-libraries-is-about-more-than-books/)
 
-via Library Jounral · 2026-11-19
+via Library Jounral · 2026-11-19, updated 2026-11-21
 
 From a New Op/Ed by Dr. Carla Hayden on Time Magazine/Time.com: Historically, libraries have served as a crucial part of the cultural and civic infrastructure of the nation, responding to local needs and bringing the world to people of all ages. However, in many places today, libraries and library workers are under attack. These attacks \[…\]
 
@@ -313,7 +321,7 @@ We welcome comments, suggestions, and challenges to this report and our practice
 
 ## [The Return of the Hit Count in academic AI search? Not Quite.](https://aarontay.substack.com/p/the-return-of-the-hit-count-in-academic)
 
-via Aaron Tay's Musings about Librarianship · 2026-11-18, updated 2026-11-21
+via Aaron Tay's Musings about Librarianship · 2026-11-18, updated 2026-11-22
 
 Why hits shown in hybrid AI search such as JSTOR Dynamic Search or Consensus should not be treated the same as a traditional database Boolean hit count.
 
@@ -347,7 +355,7 @@ Check out all of the Future Knowledge episodes at [https://archive.org/details/f
 
 ## [The Seal and the Machine](https://metaarchivist.substack.com/p/the-seal-and-the-machine)
 
-via The Meta Archivist blog · 2026-11-17, updated 2026-11-21
+via The Meta Archivist blog · 2026-11-17, updated 2026-11-22
 
 From the seals of Prussian archives to the uncertain afterlife of digital trust
 
@@ -361,7 +369,7 @@ The post [How a Town’s Forgotten History Helped Protect Its Drinking Water](ht
 
 ## [AI is Reshaping the Role of Academic Librarians; Elsevier Releases Librarian of the Future Report](https://www.infodocket.com/2026/11/17/ai-is-reshaping-the-role-of-academic-librarians-elsevier-releases-librarian-of-the-future-report/)
 
-via Library Jounral · 2026-11-17, updated 2026-11-19
+via Library Jounral · 2026-11-17, updated 2026-11-21
 
 From an Elsevier News Release: Today, Elsevier shares findings from its global Librarian of the Future research, revealing how artificial intelligence (AI) and changing research needs are reshaping the role of academic librarians. Drawing on insights from 1,100 academic librarians across 88 countries, alongside interviews with researchers and academic leaders, the report reveals a profession \[…\]
 
@@ -385,7 +393,7 @@ The post [ARL Daily Intelligence (November 16–19)](https://www.arl.org/daily-i
 
 ## [Report: “New Kickstarter Campaign Rethinks E-Book Ownership and Digital Lending”](https://www.infodocket.com/2026/11/16/report-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/)
 
-via Library Jounral · 2026-11-16, updated 2026-11-19
+via Library Jounral · 2026-11-16, updated 2026-11-21
 
 From TechCrunch: Here’s a big promise: A new Kickstarter campaign aims to usher in the “return of the human internet.” That’s the tagline of a crowdfunding campaign for The Phoenix Project, an initiative from the online culture and commentary magazine Flaming Hydra. If you back The Phoenix Project, you’re supporting three things — a one-off \[…\]
 
@@ -409,13 +417,13 @@ Today I am announcing [defter](https://crates.io/crates/defter), a new Zotero sy
 
 ## [Appraising Permanence, Sustaining the Promise](https://metaarchivist.substack.com/p/appraising-permanence-sustaining)
 
-via The Meta Archivist blog · 2026-11-15, updated 2026-11-21
+via The Meta Archivist blog · 2026-11-15, updated 2026-11-22
 
 What NARA’s appraisal process reveals about the distance between deciding that federal records should survive and ensuring that they can.
 
 ## [Report From Utah: Voters Just Ousted The Republican Representative Behind The State’s Sweeping School Book Ban Law](https://www.infodocket.com/2026/11/15/report-from-utah-voters-just-ousted-the-republican-representative-behind-the-states-sweeping-school-book-ban-law/)
 
-via Library Jounral · 2026-11-15, updated 2026-11-19
+via Library Jounral · 2026-11-15, updated 2026-11-21
 
 From The Salt Lake Tribune: The Republican representative behind Utah’s statewide school book ban law was ousted last week. Rep. Ken Ivory, R-West Jordan, lost his race against Democrat Drew Howells, who secured 58.11% of the vote as of Friday morning. Ivory received about 41.89%. He acknowledged the defeat in a recent Facebook post. Two \[…\]
 
@@ -423,7 +431,7 @@ The post [Report From Utah: Voters Just Ousted The Republican Representative Beh
 
 ## [Johns Hopkins University: Sheridan Libraries Launches New Digital Collections Site](https://www.infodocket.com/2026/11/14/johns-hopkins-university-sheridan-libraries-launches-new-digital-collections-site/)
 
-via Library Jounral · 2026-11-14, updated 2026-11-19
+via Library Jounral · 2026-11-14, updated 2026-11-21
 
 From JHSL: Now available at the click of a mouse: rare maps of Maryland dating as far back as the sixteenth century, the oral history of the Hopkins surgeon who implanted the first automatic defibrillator, records associated with Chinese indentured laborers in Cuba from 1855 to 1895, and much more. Johns Hopkins Sheridan Libraries is \[…\]
 
@@ -445,7 +453,7 @@ The post [Not About the Library](https://sr.ithaka.org/blog/not-about-the-librar
 
 ## [Schools, Health & Libraries Broadband (SHLB) Coalition Files Reply Comments Highlighting Overwhelming Support for E-Rate in FCC Record](https://www.infodocket.com/2026/11/13/schools-health-libraries-broadband-shlb-coalition-files-reply-comments-highlighting-overwhelming-support-for-e-rate-in-fcc-record/)
 
-via Library Jounral · 2026-11-13, updated 2026-11-19
+via Library Jounral · 2026-11-13, updated 2026-11-21
 
 Here’s the Full Text of a SHLB Statement Releases Today: The Schools, Health & Libraries Broadband (SHLB) Coalition filed reply comments with the Federal Communications Commission (FCC) in its review of the E-Rate program, pointing to the overwhelming support for E-Rate in the public record. SHLB’s filing notes that thousands of stakeholders submitted comments in \[…\]
 
@@ -485,7 +493,7 @@ The post [Transfer Explorer Comes to Ohio](https://sr.ithaka.org/blog/transfer-e
 
 ## [Who Will Keep the Archive?](https://metaarchivist.substack.com/p/who-will-keep-the-archive)
 
-via The Meta Archivist blog · 2026-11-12, updated 2026-11-21
+via The Meta Archivist blog · 2026-11-12, updated 2026-11-22
 
 From Copenhagen to the DPC's workforce research, a question about the human infrastructure of preservation.
 
@@ -499,7 +507,7 @@ The post [Digital Humanities Research Infrastructures: An Interview with Barbara
 
 ## [University Presses Unite as AI and Financial Pressures Threaten Scholarly Publishing (Launch of University Press Charter)](https://www.infodocket.com/2026/11/11/university-presses-unite-as-ai-and-financial-pressures-threaten-scholarly-publishing-launch-of-university-press-charter/)
 
-via Library Jounral · 2026-11-12, updated 2026-11-19
+via Library Jounral · 2026-11-12, updated 2026-11-21
 
 From a Joint Statement (Full Text): The University Press Charter unites university presses for the first time behind a commitment to shape a better future for scholarly publishing, at a time when trust, quality and public value-for-money are under threat. Launched during University Press Week (9-13 November), the Charter has been founded by seven university \[…\]
 
@@ -523,7 +531,7 @@ The post [Guest Post — The Hidden Work of Integrating Scholarly Publishing](ht
 
 ## [Who Decides What the AI Sees?​](https://aarontay.substack.com/p/who-decides-what-the-ai-sees)
 
-via Aaron Tay's Musings about Librarianship · 2026-11-11, updated 2026-11-21
+via Aaron Tay's Musings about Librarianship · 2026-11-11, updated 2026-11-22
 
 The Third Discovery War: From Federated Search and Central Indexes to MCP and Agentic AI​
 
@@ -537,7 +545,7 @@ The post [Keystone Comeback Launches, Helping Adult Learners Return to College A
 
 ## [2026 AI100 Report Released: (AI Goes Mainstream: The Scaling Era and the Rise of Generative AI; New From Stanford )](https://www.infodocket.com/2026/11/10/2026-ai100-report-released-ai-goes-mainstream-the-scaling-era-and-the-rise-of-generative-ai-new-from-stanford/)
 
-via Library Jounral · 2026-11-10, updated 2026-11-19
+via Library Jounral · 2026-11-10, updated 2026-11-21
 
 From a Stanford University Human-Centered Artificial Intelligence (HAI) Post/Summary: The One Hundred Year Study on Artificial Intelligence, known as AI100, released its third report, painting a striking picture of a technology transforming nearly every corner of human society faster than anyone anticipated. Launched in 2014 with an endowment from Eric and Mary Horvitz, AI100 is \[…\]
 
@@ -561,7 +569,7 @@ The post [Libraries, Publishers, and the Users We Both Serve](https://scholarlyk
 
 ## [Report: The Free Library of Philadelphia’s Online Catalog Was Taken Down For Security. A New One is Coming This Week](https://www.infodocket.com/2026/11/09/report-the-free-library-of-philadelphias-online-catalog-was-taken-down-for-security-a-new-one-is-coming-this-week/)
 
-via Library Jounral · 2026-11-09, updated 2026-11-19
+via Library Jounral · 2026-11-09, updated 2026-11-21
 
 From The Philadelphia Inquirer: Library staff removed the catalog on Oct. 23 as a precaution after vulnerabilities were found in an open-source programming language, PHP, which is used on roughly 70% of websites across the world. \[Clip\] The Free Library did not see signs of any security breaches on its own servers, but decided to \[…\]
 
@@ -607,7 +615,7 @@ The post [Guest Post — We Have Enough Declarations. Now What? A Critique from 
 
 ## [The Context We Carry Forward](https://metaarchivist.substack.com/p/the-context-we-carry-forward)
 
-via The Meta Archivist blog · 2026-11-08, updated 2026-11-21
+via The Meta Archivist blog · 2026-11-08, updated 2026-11-22
 
 Remembering Stephen Clarke, one year on, and the unfinished possibilities of epidata
 
@@ -705,7 +713,7 @@ The post [Company News: Cambridge University Press, Johns Hopkins University Pre
 
 ## [The Context Behind the Answer](https://metaarchivist.substack.com/p/the-context-behind-the-answer)
 
-via The Meta Archivist blog · 2026-11-03, updated 2026-11-21
+via The Meta Archivist blog · 2026-11-03, updated 2026-11-22
 
 Reference, Description, and the Provenance of AI-Generated Knowledge
 

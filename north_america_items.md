@@ -1,18 +1,180 @@
 ---
 title: "North America"
 description: "News from across North America."
-pubDate: Sat, 21 Nov 2026 10:39:05 GMT
+pubDate: Sun, 22 Nov 2026 14:22:49 GMT
 aggregateOf: "north_america.md"
-dateModified: Sat, 21 Nov 2026 14:32:19 GMT
-itemCount: 1385
+dateModified: Sun, 22 Nov 2026 14:32:21 GMT
+itemCount: 1387
 generator: antenna/0.1.1
 ---
 
 # North America
 
+## [Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery](https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery/)
+
+via Electrek Feed · 2026-11-22
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/08/gary_dark.png?w=1600)
+
+For decades, Briggs & Stratton has helped keep the lights on after the storm with its gas-powered generators. Now, the company is bringing that legacy to the electric age with a new 16 kWh backup battery designed to scale with your growing energy needs.
+
+ [more…](https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery/#more-495327)
+
+## [From equipment to ferries to locomotives, Illinois ports are getting a ZEV makeover](https://electrek.co/2026/11/22/from-equipment-to-ferries-to-locomotives-illinois-ports-are-getting-a-zev-makeover/)
+
+via Electrek Feed · 2026-11-22
+
+![](https://electrek.co/wp-content/uploads/sites/3/2024/07/big-forklift.jpg?quality=82&strip=all&w=1600)
+
+The Illinois Clean Ports Program is putting $104 million behind efforts to help clean up its working waterfronts, funds earmarked for heavy-duty electric equipment assets that includes forklifts, giant reach stackers, switcher locomotives, and the charging equipment needed to support them. There’s even a passenger ferry!
+
+ [more…](https://electrek.co/2026/11/22/from-equipment-to-ferries-to-locomotives-illinois-ports-are-getting-a-zev-makeover/#more-495286)
+
+## [E-quipment highlight: Tadano rolls out 35-ton V320RC electric crane](https://electrek.co/2026/11/22/e-quipment-highlight-tadano-rolls-out-35-ton-v320rc-electric-crane/)
+
+via Electrek Feed · 2026-11-22
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/img_tadano_V320RC_jobsite-6.jpg?quality=82&strip=all&w=1600)
+
+Developed by Japanese material handling giant Tadano, the 35-ton V320RC wheeled electric pick & carry crane has spent the last few months proving itself at NMG Italia’s job sites, where it’s been handling heavy loads in tight industrial spaces and improving efficiency by 50%. And now, you can buy one.
+
+ [more…](https://electrek.co/2026/11/22/e-quipment-highlight-tadano-rolls-out-35-ton-v320rc-electric-crane/#more-495244)
+
+## [He expected a small-business loan. He got a 7-year nightmare](https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance)
+
+via NPR Economic · 2026-11-22
+
+America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.
+
+## [Rumor: Hyundai is getting ready to roll out an all-new, all-electric work truck](https://electrek.co/2026/11/21/rumor-hyundai-is-getting-ready-to-roll-out-an-all-new-all-electric-work-truck/)
+
+via Electrek Feed · 2026-11-22
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/porter_pickup.jpg?quality=82&strip=all&w=1365)
+
+The last time Hyundai announced a new work truck was 22 years ago, and the Hyundai Porter has proven itself as a dependable workhorse throughout Korea and Southeast Asia – but only the pyramids and [the Chevy Express](https://electrek.co/2025/05/20/did-a-gm-patent-reveal-plans-for-an-all-new-electric-chevy-express-van/) can last forever. Hyundai is reportedly getting ready to pull the wraps off an all-new Porter pickup. This time, **it’s electric**.
+
+ [more…](https://electrek.co/2026/11/21/rumor-hyundai-is-getting-ready-to-roll-out-an-all-new-all-electric-work-truck/#more-495197)
+
+## [Xiaomi’s 1,548 hp electric supercar is going global, starting in the UAE](https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/)
+
+via Electrek Feed · 2026-11-22
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/XIAOMI_MAIN.jpg?quality=82&strip=all&w=1600)
+
+As a red wave of Chinese-built electric vehicles breaks over Europe and Canada, Xiaomi is selling its electric cars outside of China for the first time ever – and its starting its push for global growth with the UAE in 2027.
+
+ [more…](https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/#more-495165)
+
+## [Here are 7 great reasons rural drivers SHOULD embrace EVs in 2027](https://electrek.co/2026/11/21/here-are-6-great-reasons-rural-drivers-should-embrace-evs-in-2026/)
+
+via Electrek Feed · 2026-11-21, updated 2026-11-22
+
+![](https://electrek.co/wp-content/uploads/sites/3/2025/10/2024-chevrolet-silverado-ev-work-truck-towing-a-tractor.jpg?quality=82&strip=all&w=1600)
+
+America’s heartland is full of rural communities that are miles away from its major cities, both geographically and culturally – but that doesn’t mean these more sparsely populated regions can’t reap the benefits of electrification. In fact, EVs offer rural drivers even _more_ benefits than they do to city-dwellers!
+
+ [more…](https://electrek.co/2026/11/21/here-are-6-great-reasons-rural-drivers-should-embrace-evs-in-2026/#more-439884)
+
+## [What's next after a brutal stock plunge we might have seen coming](https://www.npr.org/2026/11/21/nx-s1-6049146/whats-next-after-a-brutal-stock-plunge-we-might-have-seen-coming)
+
+via NPR Economic · 2026-11-21, updated 2026-11-22
+
+Stocks tanked this week as investors grew wary of tech investments that have seen years of growth. NPR's Rob Schmitz speaks with Katie Martin of the Financial Times about the global ripple effects.
+
+## [Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes](https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/)
+
+via Electrek Feed · 2026-11-21, updated 2026-11-22
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-FSD-v15-update.jpeg?quality=82&strip=all&w=1600)
+
+Tesla has started rolling out “Full Self-Driving” v15, and its list of improvements reads like a list of FSD’s biggest current weaknesses: sign detection, potholes, and speed handling in school zones.
+
+Tesla also claims “25x better handling of safety critical cases” and is adding a new live visualization that looks seriously impressive. If the driving improvements are as real as the visuals, this is a big update.
+
+ [more…](https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/#more-495146)
+
+## [How much does charging an EV really cost? This Redditor says $7 per month](https://electrek.co/2026/11/21/how-much-does-charging-an-ev-really-cost-this-redditor-says-7-per-month/)
+
+via Electrek Feed · 2026-11-21, updated 2026-11-22
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/hyundai-ioniq-5-7dollars.jpg?quality=82&strip=all&w=1600)
+
+One of the most common questions asked by first-time EV buyers is about the cost of electricity. Whether they plan to charge at home or find charging in the wild, everyone wants to know what to expect when it comes time to top off their batteries. One EV owner did the math after two months of EV ownership and came up with a surprising number: **$7 a month.**
+
+ [more…](https://electrek.co/2026/11/21/how-much-does-charging-an-ev-really-cost-this-redditor-says-7-per-month/#more-495109)
+
+## [Tesla Cybertruck’s already impressive turning radius gets even tighter](https://electrek.co/2026/11/21/tesla-cybertruck-tighter-turning-radius-update/)
+
+via Electrek Feed · 2026-11-21, updated 2026-11-22
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Cybertruck-imroves-its-already-impressive-turning-radius.png?w=1600)
+
+Tesla is rolling out an update that makes the Cybertruck turn even tighter, improving on what was already one of the best turning radiuses you can get in a full-size pickup.
+
+But there’s a catch. It only works on 2027 model year Cybertrucks, and Tesla plans to stop building the truck by the end of next summer.
+
+ [more…](https://electrek.co/2026/11/21/tesla-cybertruck-tighter-turning-radius-update/#more-495135)
+
+## [Toyota just built a tiny folding electric bike to fit in your trunk](https://electrek.co/2026/11/21/toyota-just-built-a-tiny-folding-electric-bike-to-fit-in-your-trunk/)
+
+via Electrek Feed · 2026-11-21, updated 2026-11-22
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/toyotabke-1.jpg?quality=82&strip=all&w=1600)
+
+Toyota is getting into electric bikes. Well, sort of.
+
+The Japanese automotive giant has unveiled the BKE Concept, a tiny folding electric two-wheeler designed to serve as a compact companion vehicle for short trips, outdoor adventures, and last-mile transportation.
+
+ [more…](https://electrek.co/2026/11/21/toyota-just-built-a-tiny-folding-electric-bike-to-fit-in-your-trunk/#more-495108)
+
+## [E-quipment highlight: Mantsinen 200 material handler has tank treads](https://electrek.co/2026/11/21/e-quipment-highlight-mantsinen-200-material-handler-has-tank-treads/)
+
+via Electrek Feed · 2026-11-21, updated 2026-11-22
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/mantsinen_200_MAIN.jpg?quality=82&strip=all&w=1600)
+
+Are you a port or rail terminal operator looking for a new electric material handler that can move serious cargo without sacrificing maneuverability? Do you wish it had tank treads? If that’s you, the Mantsinen 200 might be just the thing.
+
+ [more…](https://electrek.co/2026/11/21/e-quipment-highlight-mantsinen-200-material-handler-has-tank-treads/#more-495068)
+
+## [I ride e-bikes for a living. This is the real gear I actually use](https://electrek.co/2026/11/21/i-ride-e-bikes-for-a-living-this-is-the-real-gear-i-actually-use/)
+
+via Electrek Feed · 2026-11-21, updated 2026-11-22
+
+![](https://electrek.co/wp-content/uploads/sites/3/2025/11/priority-current-plus-Micah-Toll-header.jpg?quality=82&strip=all&w=1600)
+
+I’m in the somewhat unusual position of basically riding electric bicycles for a living. I’ve been working with e-bikes for nearly two decades, professionally covering the e-bike industry for most of that time, testing hundreds of different models and traveling around the world to ride new e-bikes in some pretty incredible places. Yeah, it’s a tough job – but someone’s got to suffer it.
+
+ [more…](https://electrek.co/2026/11/21/i-ride-e-bikes-for-a-living-this-is-the-real-gear-i-actually-use/#more-493081)
+
+## [Electric cars are finally mainstream in GTA 6, and Vice City is full of them](https://electrek.co/2026/11/21/gta-6-electric-vehicles-mainstream-vice-city/)
+
+via Electrek Feed · 2026-11-21, updated 2026-11-22
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/GTA6-electric-cars.jpeg?quality=82&strip=all&w=1600)
+
+Electric vehicles have finally gone mainstream in Grand Theft Auto. In GTA 6, EVs are just part of everyday traffic in Vice City, from Tesla and Porsche lookalikes to a parody of Electrify America’s charging network.
+
+It’s a big change for a series that spent over a decade treating EVs as a Tesla joke. After a few days of playing, I’d say Rockstar nailed the vibe.
+
+ [more…](https://electrek.co/2026/11/21/gta-6-electric-vehicles-mainstream-vice-city/#more-495057)
+
+## [Elon Musk freezes at awkward Tesla Argentina launch: ‘I don’t know what to say’](https://electrek.co/2026/11/21/elon-musk-tesla-argentina-launch-awkward-video-milei/)
+
+via Electrek Feed · 2026-11-21, updated 2026-11-22
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Elon-Musk-awkward-Tesla-Argentina-launch.jpeg?quality=82&strip=all&w=1600)
+
+Tesla officially launched in Argentina on Friday with President Javier Milei on stage in Buenos Aires, and Elon Musk joined by video from his plane to welcome the brand’s newest market. It didn’t go well.
+
+Musk got through one line about Tesla before stalling out: “Sorry, I don’t really know what I want to say.” The call ended about two minutes in, without any real pitch for the Model 3 or Model Y that Tesla had just put on sale.
+
+ [more…](https://electrek.co/2026/11/21/elon-musk-tesla-argentina-launch-awkward-video-milei/#more-495051)
+
 ## [Rounds, Thune split on bill that speeds up project permitting process](https://www.sdstandardnow.com/home/rounds-thune-split-on-permitting-reform-bill-that-trump-supports)
 
-via South Dakota Standard · 2026-11-21, updated 2026-11-20
+via South Dakota Standard · 2026-11-21, updated 2026-11-22
 
 Our newly re-elected U.S. Sen. Mike Rounds just showed some willingness to buck his party by voting against a major permitting reform bill. It’s called the [Bipartisan American Affordability and Jobs Act of 2026](https://www.energy.senate.gov/press/dem/heinrich-lee-capito-and-whitehouse-introduce-bipartisan-american-affordability-and-jobs-act-of-2026/) (BAAJA) and it's about 500 pages long. You can read a 2-page summation [here](https://www.energy.senate.gov/press/dem/heinrich-lee-capito-and-whitehouse-introduce-bipartisan-american-affordability-and-jobs-act-of-2026/).
 
@@ -78,7 +240,7 @@ A federal judge granted a preliminary injunction and ordered Brooke Rollins to �
 
 ## [BYD offers a first look at its new flagship people mover](https://electrek.co/2026/11/20/byd-first-look-new-flagship-people-mover/)
 
-via Electrek Feed · 2026-11-20
+via Electrek Feed · 2026-11-20, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Flagship-Ocean-MPV-first-look.jpeg?quality=82&strip=all&w=1400)
 
@@ -94,7 +256,7 @@ Congress says it’s still waiting on a full lifetime cost for the VA’s EHR pr
 
 ## [This 500 kWh energy storage system runs on retired EV batteries](https://electrek.co/2026/11/20/this-500-kwh-energy-storage-system-runs-on-retired-ev-batteries/)
 
-via Electrek Feed · 2026-11-20
+via Electrek Feed · 2026-11-20, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Nova.jpg?quality=82&strip=all&w=1600)
 
@@ -110,7 +272,7 @@ via Federal News Network · 2026-11-20
 
 ## [Kia, Lucid, and Volkswagen are slashing EV prices by $10,000+ for Black Friday](https://electrek.co/2026/11/20/kia-lucid-vw-slash-ev-prices-by-10000-black-friday/)
 
-via Electrek Feed · 2026-11-20
+via Electrek Feed · 2026-11-20, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/EV-deals-10000-Black-Friday.jpeg?quality=82&strip=all&w=1400)
 
@@ -120,7 +282,7 @@ Forget waiting in line for a discounted TV or other gadget you probably don’t 
 
 ## [Podcast: Tesla’s ‘personal’ Cybercab, Ford’s LFP for Fathom, Aptera delivers, and more](https://electrek.co/2026/11/20/podcast-teslas-personal-cybercab-fords-lfp-for-fathom-aptera-delivers-and-more/)
 
-via Electrek Feed · 2026-11-20
+via Electrek Feed · 2026-11-20, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&strip=all&w=1600)
 
@@ -136,7 +298,7 @@ The White House has turned to Kirsten Davies, who is currently the Pentagon’s 
 
 ## [Anker S5000 5kWh power station back at $2,375 exclusive low ($1,225 off), Segway Max G3 Plus e-scooter new $1,000 low, more](https://electrek.co/2026/11/20/anker-s5000-5kwh-power-station-segway-max-g3-plus-e-scooter-more/)
 
-via Electrek Feed · 2026-11-20
+via Electrek Feed · 2026-11-20, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Anker-SOLIX-Anker-eufy-Segway-GDs-FI.jpg?quality=82&strip=all&w=1600)
 
@@ -162,7 +324,7 @@ The post [How stations are using ‘Crime and Punishment’ to spark local conve
 
 ## [Renault undercuts BYD with a new EV that costs less than $20,000](https://electrek.co/2026/11/20/renault-undercuts-byd-new-ev-costs-less-than-20000/)
 
-via Electrek Feed · 2026-11-20
+via Electrek Feed · 2026-11-20, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Renault-Twingo-E-Tech-price.jpeg?quality=82&strip=all&w=1400)
 
@@ -192,7 +354,7 @@ Stories in this podcast:
 
 ## [Tesla FSD approved in Italy, the first big EU market to say yes](https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/)
 
-via Electrek Feed · 2026-11-20
+via Electrek Feed · 2026-11-20, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&strip=all&w=1600)
 
@@ -204,7 +366,7 @@ It also didn’t wait for Brussels. The EU committee that decides on bloc-wide r
 
 ## [Volkswagen’s new ID. Polo GTI Clubsport is the electric hot hatch we want, but can’t have](https://electrek.co/2026/11/20/vws-new-id-polo-gti-clubsport-ev-hot-hatch/)
 
-via Electrek Feed · 2026-11-20
+via Electrek Feed · 2026-11-20, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-ID-Polo-GTI-Clubsport-hot-hatch.jpeg?quality=82&strip=all&w=1400)
 
@@ -313,7 +475,7 @@ The post [Reaching Out: Sayre Quevedo and his Twin Brother Search for their Biol
 
 ## [Black Friday 2026 Green Deals Hub: e-bikes, EVs, power stations, tools, appliances, and more](https://electrek.co/2026/11/20/black-friday-2026-green-deals-hub-e-bikes-evs-power-stations-tools-appliances-and-more/)
 
-via Electrek Feed · 2026-11-20
+via Electrek Feed · 2026-11-20, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/9to5Toys-Black-Friday-electrek-2025.webp?w=1500)
 
@@ -323,13 +485,13 @@ It’s time for the biggest shopping event of the year! With [Amazon’s full Bl
 
 ## [Just how vulnerable are we to cyberattacks?](https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks)
 
-via NPR Economic · 2026-11-20, updated 2026-11-21
+via NPR Economic · 2026-11-20, updated 2026-11-22
 
 In a week of outages, we're thinking about the rising threat of AI-powered cyberattacks. But sometimes, it's not the most sophisticated attack that's concerning, but the easy targets buried in old software.
 
 ## [Double guns: ultra-class haul truck packs dual-gun MCS charging, 4 MWh battery](https://electrek.co/2026/11/20/double-guns-ultra-class-haul-truck-packs-dual-gun-mcs-charging-4-mwh-battery/)
 
-via Electrek Feed · 2026-11-20
+via Electrek Feed · 2026-11-20, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/NHL_double-guns.png?w=1600)
 
@@ -339,7 +501,7 @@ NHL may not be a household name, but its all-new, all-electric NTE240E ultra-cla
 
 ## [Trump’s “friend” Xi is lagging on his promise to buy U.S. grain](https://www.sdstandardnow.com/home/trumps-chinese-friend-xi-is-lagging-on-his-commitment-to-buy-american-farm-goods)
 
-via South Dakota Standard · 2026-11-20
+via South Dakota Standard · 2026-11-20, updated 2026-11-22
 
 Given the way President Trump was [fawning](https://www.thedailybeast.com/suck-up-trump-fawns-over-friend-at-dictator-lovefest) all over Chinese President Xi Jinping during their meeting last week in Shenzen, China, you’d think the two pals were having a friendly, upfront and cordial get-together. After the meeting, Trump even went so far as to describe their relationship as [“very special,”](https://www.profarmer.com/news/first-thing-today/first-thing-today-trump-asks-xi-do-some-more-our-farmers) which might have warmed a lot of people’s hearts … unless you’re among the people who are depending on China to live up to its [agreements](https://www.farmprogress.com/farm-policy/china-s-17-billion-crop-pledge-falters-ahead-of-trump-xi-summit) on purchasing American farm products.
 
@@ -387,7 +549,7 @@ This is the second time the two will meet after the union held California’s la
 
 ## [GM’s V2G pilot wants to pay California drivers for power from parked EVs](https://electrek.co/2026/11/19/gms-v2g-pilot-wants-to-pay-california-drivers-for-power-from-parked-evs/)
 
-via Electrek Feed · 2026-11-20
+via Electrek Feed · 2026-11-20, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/GM-hp-v2hsolutions.jpg?quality=82&strip=all&w=1200)
 
@@ -397,7 +559,7 @@ via Electrek Feed · 2026-11-20
 
 ## [NSSL keeps growing its electric terminal truck fleet, with no plans to stop](https://electrek.co/2026/11/19/nssl-keeps-growing-its-electric-terminal-truck-fleet-with-no-plans-to-stop/)
 
-via Electrek Feed · 2026-11-20
+via Electrek Feed · 2026-11-20, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/NSSL-OEV-Truck_cropped.jpg?quality=82&strip=all&w=1600)
 
@@ -486,7 +648,7 @@ Thousands of STEM faculty signed a letter citing widening math gaps as a reason 
 
 ## [Alpitronic’s new SC plant to build 400 kW and 1 MW fast chargers](https://electrek.co/2026/11/19/alpitronics-new-sc-plant-to-build-400-kw-and-1-mw-fast-chargers/)
 
-via Electrek Feed · 2026-11-19, updated 2026-11-20
+via Electrek Feed · 2026-11-19, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/3560-Stateview-Boulevard_2.jpg?quality=82&strip=all&w=1600)
 
@@ -508,7 +670,7 @@ Court documents allege he skipped paying for items 16 times in two months. The p
 
 ## [BYD’s new Han EV spotted without camo, showing off its sleek fastback design](https://electrek.co/2026/11/19/byds-new-han-ev-spotted-without-camo-showing-off-fastback-design/)
 
-via Electrek Feed · 2026-11-19, updated 2026-11-20
+via Electrek Feed · 2026-11-19, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Han-EV-Sportback.jpeg?quality=82&strip=all&w=1400)
 
@@ -572,7 +734,7 @@ Police say the boy was taken to a children’s hospital in stable condition, and
 
 ## [Kia’s cheapest EV is coming next year, and it could cost under $25,000](https://electrek.co/2026/11/19/kias-cheapest-ev-coming-2027-under-25k/)
 
-via Electrek Feed · 2026-11-19, updated 2026-11-20
+via Electrek Feed · 2026-11-19, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-cheapest-EV-EV1.jpeg?quality=82&strip=all&w=1400)
 
@@ -626,7 +788,7 @@ Democrats Eric Jones and Mai Vang both ran campaigns centered on generational an
 
 ## [EcoFlow Black Friday Sale + flash deals drop DELTA 3800 Gen4 to $1,614 low, Segway Xyber Air e-bike $1,800 low in sale, more](https://electrek.co/2026/11/19/ecoflow-black-friday-sale-delta-3800-gen4-segway-xyber-air-e-bike-more/)
 
-via Electrek Feed · 2026-11-19, updated 2026-11-20
+via Electrek Feed · 2026-11-19, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/EcoFlow-BF-flash-Segway-Velotric-GDs-FI.jpg?quality=82&strip=all&w=1600)
 
@@ -686,7 +848,7 @@ The devices, which track things like heart rate and movement, quicken medical re
 
 ## [Hyundai claims 2027’s ‘Best EV Brand’ title as the IONIQ 5 and IONIQ 9 impress](https://electrek.co/2026/11/19/hyundai-2027-best-ev-brand-ioniq-5-ioniq-9/)
 
-via Electrek Feed · 2026-11-19, updated 2026-11-20
+via Electrek Feed · 2026-11-19, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Hyundai-Best-EV-Brand-2027.jpeg?quality=82&strip=all&w=1400)
 
@@ -722,7 +884,7 @@ Investigators say the women collected his pension and Social Security for years 
 
 ## [BYD’s folding steering wheel isn’t a concept — it’s in a $49K SUV now](https://electrek.co/2026/11/19/byd-folding-steering-wheel-tai-9-production/)
 
-via Electrek Feed · 2026-11-19, updated 2026-11-20
+via Electrek Feed · 2026-11-19, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/byd-tai-9-folding-steering-wheel.jpg?quality=82&strip=all&w=1600)
 
@@ -758,7 +920,7 @@ The White House has pulled the nomination of Dr. Heidi Overton to lead the Food 
 
 ## [The Volkswagen ID. Buzz Beach is an electric van built for camping, but it’s not cheap](https://electrek.co/2026/11/19/vw-reveals-id-buzz-beach-ev-camper-van-not-cheap/)
 
-via Electrek Feed · 2026-11-19, updated 2026-11-20
+via Electrek Feed · 2026-11-19, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-ID-Buzz-Beach-camper-van.jpeg?quality=82&strip=all&w=1400)
 
@@ -800,7 +962,7 @@ Award-winning meteorologist Sean Macaday covers the weather for McClatchy Media 
 
 ## [Aptera (SEV) completes its first customer solar EV — for its top crowdfunder](https://electrek.co/2026/11/19/aptera-sev-first-solar-ev-customer-delivery-investor/)
 
-via Electrek Feed · 2026-11-19, updated 2026-11-20
+via Electrek Feed · 2026-11-19, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Aptera-first-delivery.jpg?quality=82&strip=all&w=1280)
 
@@ -826,7 +988,7 @@ From emergency alerts and 311 reporting to flood insurance gaps, here's how to p
 
 ## [Elon Musk announces another Tesla vehicle no one asked for](https://electrek.co/2026/11/19/musk-tesla-model-y-no-steering-wheel-7-seat/)
 
-via Electrek Feed · 2026-11-19, updated 2026-11-20
+via Electrek Feed · 2026-11-19, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-with-no-steering-wheel.jpg?quality=82&strip=all&w=1600)
 
@@ -883,7 +1045,7 @@ With updates to the FEHB program and new requirements for certain retirees, it�
 
 ## [Porsche’s newest electric car is a tiny 50 mph replica of a legendary racer](https://electrek.co/2026/11/19/porsches-newest-electric-car-is-a-tiny-50-mph-replica-of-a-legendary-racer/)
 
-via Electrek Feed · 2026-11-19, updated 2026-11-20
+via Electrek Feed · 2026-11-19, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/porsche-hedley-studios.jpg?quality=82&strip=all&w=1600)
 
@@ -917,7 +1079,7 @@ And if you’re as interested in domains as we are, you can [browse all the new 
 
 ## [The disconnect among South Dakota voters confuses me](https://www.sdstandardnow.com/home/south-dakota-voters-confuse-me)
 
-via South Dakota Standard · 2026-11-19, updated 2026-11-20
+via South Dakota Standard · 2026-11-19, updated 2026-11-22
 
 Over the past several years South Dakota voters have created public policy that lifts people up and reinforces the state motto, “Under God, the people rule.”
 
@@ -1005,7 +1167,7 @@ Two men with Wildlands Network drive through Alligator River National Wildlife R
 
 ## [Official 2026 Amazon Black Friday sale now live! Millions of deals: Apple, Google, TVs, home, more](https://9to5toys.com/2026/11/19/amazon-2026-black-friday-sale-now-live/)
 
-via Electrek Feed · 2026-11-19, updated 2026-11-20
+via Electrek Feed · 2026-11-19, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Amazon-Black-Friday-Week-Now-live-2026.jpg?quality=82&strip=all&w=1600)
 
@@ -1015,7 +1177,7 @@ The [official Amazon Black Friday sale is now live](https://link.amazon/B0bg0ErU
 
 ## [The world’s biggest oil shock could give EVs and solar a boost](https://electrek.co/2026/11/18/the-worlds-biggest-oil-shock-could-give-evs-and-solar-a-boost/)
 
-via Electrek Feed · 2026-11-19, updated 2026-11-20
+via Electrek Feed · 2026-11-19, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-EV7-electric-SUV.jpeg?quality=82&strip=all&w=1400)
 
@@ -1037,7 +1199,7 @@ The crash happened Nov. 11 in Nevada County and involved a minivan, California H
 
 ## [Tesla crashes make headlines, Lidar makes sense, IONNA makes it easy](https://electrek.co/2026/11/18/tesla-crashes-make-headlines-lidar-makes-sense-ionna-makes-it-easy/)
 
-via Electrek Feed · 2026-11-19, updated 2026-11-20
+via Electrek Feed · 2026-11-19, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/do-not-do-this_1.png?w=1600)
 
@@ -1166,7 +1328,7 @@ The National Association for the Employment of People Who Are Blind called remov
 
 ## [US battery storage just topped 200 GWh – here’s where it is](https://electrek.co/2026/11/18/us-battery-storage-just-topped-200-gwh-heres-where-it-is/)
 
-via Electrek Feed · 2026-11-18, updated 2026-11-20
+via Electrek Feed · 2026-11-18, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/06/Green-River-Energy-Center-Utah.jpg?quality=82&strip=all&w=1600)
 
@@ -1194,7 +1356,7 @@ Miami federal jury found Haitian-American pastor guilty on all counts in federal
 
 ## [Toyota expands C-HR EV recall to 19,000 globally](https://electrek.co/2026/11/18/toyota-expands-c-hr-ev-recall-to-19000-globally/)
 
-via Electrek Feed · 2026-11-18, updated 2026-11-20
+via Electrek Feed · 2026-11-18, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-C-HR-EV-recall-global.jpeg?quality=82&strip=all&w=1400)
 
@@ -1252,7 +1414,7 @@ He’s asking a judge if he can keep his Seattle police pension while on a count
 
 ## [BYD spotted testing another boxy midsize SUV](https://electrek.co/2026/11/18/byd-spotted-testing-another-boxy-midsize-suv/)
 
-via Electrek Feed · 2026-11-18, updated 2026-11-20
+via Electrek Feed · 2026-11-18, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Ti-6-boxy-SUV.jpeg?quality=82&strip=all&w=1400)
 
@@ -1304,7 +1466,7 @@ The unions said the Trump administration's proposal to give service members a 5%
 
 ## [IONNA enables Plug & Charge for Tesla, opens 22 bay site in Westminster, CA](https://electrek.co/2026/11/18/ionna-enables-plug-charge-for-tesla-opens-22-bay-site-in-westminster-ca/)
 
-via Electrek Feed · 2026-11-18, updated 2026-11-20
+via Electrek Feed · 2026-11-18, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/P1240182.jpg?quality=82&strip=all&w=1332)
 
@@ -1328,7 +1490,7 @@ A parole board unanimously denied her release in 2024. She can reapply every two
 
 ## [ENGWE Eagle e-dirt bike new $799 low + M20 3.0 e-bike $647 off, Anker eufy Wall Light Cam S4 new lows from $150, more](https://electrek.co/2026/11/18/engwe-eagle-electric-dirt-bike-m20-3-0-e-bike-anker-eufy-wall-light-cam-s4-more/)
 
-via Electrek Feed · 2026-11-18, updated 2026-11-20
+via Electrek Feed · 2026-11-18, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/ENGWE-Anker-eufy-Greenworks-Bluetti-GDs-FI.jpg?quality=82&strip=all&w=1600)
 
@@ -1366,7 +1528,7 @@ The annual estimate by the Legislative Analyst’s Office is a key marker in the
 
 ## [Kia went from this one quirky EV 40 years ago to an entire electric lineup](https://electrek.co/2026/11/18/kia-one-quirky-ev-40-years-ago-to-entire-ev-lineup/)
 
-via Electrek Feed · 2026-11-18, updated 2026-11-20
+via Electrek Feed · 2026-11-18, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-first-EV-Besta.jpeg?quality=82&strip=all&w=1400)
 
@@ -1376,7 +1538,7 @@ The Kia Besta EV hit the roads in 1986 as the brand’s first fully electric veh
 
 ## [Tesla toughens FSD driver monitoring in Europe while loosening it in the US](https://electrek.co/2026/11/18/tesla-fsd-driver-monitoring-europe-stricter-than-us/)
 
-via Electrek Feed · 2026-11-18, updated 2026-11-20
+via Electrek Feed · 2026-11-18, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2021/04/Tesla-Driver-monitoring-e1617877138806.jpg?quality=82&strip=all&w=1600)
 
@@ -1418,7 +1580,7 @@ More than 11,000 PG&E and SMUD customers were without power across the Sacrament
 
 ## [Rivian’s ALSO pauses high-tech e-bike deliveries over ‘software issues’ that we saw coming](https://electrek.co/2026/11/18/rivians-also-pauses-high-tech-e-bike-deliveries-over-software-issues-that-we-saw-coming/)
 
-via Electrek Feed · 2026-11-18, updated 2026-11-20
+via Electrek Feed · 2026-11-18, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/10/also-e-bike-rivian-tm-b-header.jpg?quality=82&strip=all&w=1600)
 
@@ -1440,7 +1602,7 @@ How West Union, Iowa, built a community geothermal network that heats and cools 
 
 ## [West Coast Customs turns a Tesla Model 3 into a 1955 Chevy Bel Air](https://electrek.co/2026/11/18/west-coast-customs-tesla-model-3-1955-chevy-bel-air-ev/)
 
-via Electrek Feed · 2026-11-18, updated 2026-11-20
+via Electrek Feed · 2026-11-18, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Belair-Tesla-Model-3-mod.jpg?quality=82&strip=all&w=1280)
 
@@ -1458,7 +1620,7 @@ Weather forced a search and rescue helicopter to turn back, so volunteers pushed
 
 ## [Ford’s first LFP batteries are en route, and the $30,000 Fathom EV pickup will get them first](https://electrek.co/2026/11/18/fords-first-lfp-batteries-en-route-30k-fathom-ev-pickup/)
 
-via Electrek Feed · 2026-11-18, updated 2026-11-20
+via Electrek Feed · 2026-11-18, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/09/Ford-Fathom-EV-closer-look.jpeg?quality=82&strip=all&w=1400)
 
@@ -1507,7 +1669,7 @@ The council approved the five-year Axon contract over objections about surveilla
 
 ## [Amflow launches its first city e-bikes, packing huge torque and serious smart tech](https://electrek.co/2026/11/18/amflow-launches-its-first-city-e-bikes-packing-huge-torque-and-serious-smart-tech/)
 
-via Electrek Feed · 2026-11-18, updated 2026-11-20
+via Electrek Feed · 2026-11-18, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/avinox-ue-carbon-e-bike-header.jpg?quality=82&strip=all&w=1600)
 
@@ -1519,7 +1681,7 @@ And while these might look like fairly conventional step-through city bikes at f
 
 ## [Tesla’s Semi Megacharger network hits 7 sites, far short of 37 goal](https://electrek.co/2026/11/18/tesla-semi-megacharger-network-mesquite-texas/)
 
-via Electrek Feed · 2026-11-18, updated 2026-11-20
+via Electrek Feed · 2026-11-18, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Megacharger-texas.jpeg?quality=82&strip=all&w=1600)
 
@@ -1531,7 +1693,7 @@ That’s progress. But with six weeks left in 2026, it’s less than a fifth of 
 
 ## [Volvo EWR150 Electric wheeled excavator gets to work in Luxembourg](https://electrek.co/2026/11/18/volvo-ewr150-electric-wheeled-excavator-gets-to-work-in-luxembourg/)
 
-via Electrek Feed · 2026-11-18, updated 2026-11-20
+via Electrek Feed · 2026-11-18, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/volvo_ewr150_Electric.jpg?quality=82&strip=all&w=1600)
 
@@ -1553,7 +1715,7 @@ The expansion would bring lights and night games to the high school football fie
 
 ## [BYD’s luxury SUV pulled a nearly 400,000-pound jumbo jet on just two wheels \[Video\]](https://electrek.co/2026/11/18/byds-luxury-suv-pulls-400000-lb-jumbo-jet-on-two-wheels-video/)
 
-via Electrek Feed · 2026-11-18, updated 2026-11-20
+via Electrek Feed · 2026-11-18, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-SUV-jumbo-jet-two-wheels.jpeg?quality=82&strip=all&w=1400)
 
@@ -1622,7 +1784,7 @@ Stories from this episode:
 
 ## [Current classics: Lord mayor of London’s limo latest to go electric](https://electrek.co/2026/11/18/current-classics-lord-mayor-of-londons-limo-latest-to-go-electric/)
 
-via Electrek Feed · 2026-11-18, updated 2026-11-20
+via Electrek Feed · 2026-11-18, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/001-Electrogenic-London-City-Rolls-Royce-EV.jpg?quality=82&strip=all&w=1600)
 
@@ -1660,7 +1822,7 @@ More on this:
 
 ## [The trouble with one-and-done financial solutions like loan consolidations](https://www.sdstandardnow.com/home/the-trouble-with-one-and-done-financial-solutions)
 
-via South Dakota Standard · 2026-11-18, updated 2026-11-20
+via South Dakota Standard · 2026-11-18, updated 2026-11-22
 
 Sometime the solution to a money problem seems to be a “one and done” fix. Maybe you’re having trouble paying bills and are accumulating debt. Then you receive an unexpected tax refund, get a raise, or refinance your mortgage, so everything should be better. Each of those can help, but none of them by itself changes the underlying patterns that caused the problem.
 
@@ -1700,7 +1862,7 @@ A restoration specialist guessed wool, since the fibers had survived a fire. But
 
 ## [Elderly Florida man leads police on wild 16 mph e-bike chase. Thank goodness they caught him](https://electrek.co/2026/11/17/elderly-florida-man-leads-police-on-wild-16-mph-e-bike-chase-thank-goodness-they-caught-him/)
 
-via Electrek Feed · 2026-11-18, updated 2026-11-20
+via Electrek Feed · 2026-11-18, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/coptruckvolusiasheriff.jpg?quality=82&strip=all&w=1600)
 
@@ -1740,7 +1902,7 @@ Lawyers are sparring over Gov. Gavin Newsom’s plan to commute more than 500 de
 
 ## [E-quipment highlight: 110 hp Greenworks OPTIMUS electric UTV \[video\]](https://electrek.co/2026/11/17/e-quipment-highlight-110-hp-greenworks-optimus-electric-utv-video/)
 
-via Electrek Feed · 2026-11-18, updated 2026-11-20
+via Electrek Feed · 2026-11-18, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/greenworks_UTV.jpg?quality=82&strip=all&w=1600)
 
@@ -1846,7 +2008,7 @@ An internal network the NSA uses to communicate classified information has gone 
 
 ## [Solarcycle, PedalPoint Recycling merge to feed a $7.4B US metals refinery](https://electrek.co/2026/11/17/solarcycle-pedalpoint-recycling-merge-to-feed-a-7-4b-us-metals-refinery/)
 
-via Electrek Feed · 2026-11-17, updated 2026-11-20
+via Electrek Feed · 2026-11-17, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/6af78a9c378bf7a00bd7f7c8_jupiter-announcement.jpg?quality=82&strip=all&w=1600)
 
@@ -1868,7 +2030,7 @@ via Sacramento Bee · 2026-11-17, updated 2026-11-18
 
 ## [Iceland’s first wind farm comes with a water-saving bonus](https://electrek.co/2026/11/17/iceland-first-wind-farm-gives-its-hydropower-a-winter-boost/)
 
-via Electrek Feed · 2026-11-17, updated 2026-11-20
+via Electrek Feed · 2026-11-17, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Vadolduver-construction-2026.jpg?quality=82&strip=all&w=1600)
 
@@ -1878,7 +2040,7 @@ Iceland’s first utility-scale wind farm comes with a useful perk: When the win
 
 ## [Hyundai reveals new 7-seat Neira electric SUV](https://electrek.co/2026/11/17/hyundai-reveals-new-7-seat-neira-electric-suv/)
 
-via Electrek Feed · 2026-11-17, updated 2026-11-20
+via Electrek Feed · 2026-11-17, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Hyundai-Neira-electric-SUV.jpeg?quality=82&strip=all&w=720)
 
@@ -1908,7 +2070,7 @@ The post [Tony Ganzer, former public media journalist, dies at 42](https://curre
 
 ## [Waymo halts highway operation nationwide after CA DMV pause](https://electrek.co/2026/11/17/waymo-halts-highway-operation-nationwide-after-ca-dmv-pause/)
 
-via Electrek Feed · 2026-11-17, updated 2026-11-20
+via Electrek Feed · 2026-11-17, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2025/11/Waymo-cities-freeway.jpg?quality=82&strip=all&w=1400)
 
@@ -1918,7 +2080,7 @@ Waymo has pulled its vehicles from highways nationwide after the California Depa
 
 ## [Scout Motors starts validation builds at $2B SC plant, deliveries in 2028](https://electrek.co/2026/11/17/scout-motors-validation-builds-south-carolina-deliveries-2028/)
 
-via Electrek Feed · 2026-11-17, updated 2026-11-20
+via Electrek Feed · 2026-11-17, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/scout-motors-blythewood-production-center-aerial.jpg?quality=82&strip=all&w=1600)
 
@@ -1936,7 +2098,7 @@ California regulators barred Waymo from operating driverless vehicles on freeway
 
 ## [Toyota adds $1,000 off and 0% APR to its bigger, more powerful electric SUV](https://electrek.co/2026/11/17/toyota-adds-1000-off-0-apr-to-bigger-electric-suv/)
 
-via Electrek Feed · 2026-11-17, updated 2026-11-20
+via Electrek Feed · 2026-11-17, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-bZ-Woodland-offers.jpeg?quality=82&strip=all&w=1400)
 
@@ -1988,7 +2150,7 @@ via Federal News Network · 2026-11-17, updated 2026-11-18
 
 ## [Juiced Scrambler Mini launched as a cooler (and safer) e-bike option for teens and parents](https://electrek.co/2026/11/17/juiced-scrambler-mini-launched-as-a-cooler-and-safer-e-bike-option-for-teens-and-parents/)
 
-via Electrek Feed · 2026-11-17, updated 2026-11-20
+via Electrek Feed · 2026-11-17, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/juiced-scrambler-mini-header-1.jpg?quality=82&strip=all&w=1600)
 
@@ -2000,7 +2162,7 @@ The newly launched [Juiced Scrambler Mini](https://juicedebikes.sjv.io/en7gEQ) l
 
 ## [EcoFlow flash sale offers 5,018Wh TITAN Classic + 4x rigid solar panels $1,588 off, Hiboy EVs up to 45% off from $300, more](https://electrek.co/2026/11/17/ecoflow-5018wh-titan-classic-hiboy-evs-more/)
 
-via Electrek Feed · 2026-11-17, updated 2026-11-20
+via Electrek Feed · 2026-11-17, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/EcoFlow-Hiboy-Worx-Aiper-GDs-FI.jpg?quality=82&strip=all&w=1600)
 
@@ -2026,7 +2188,7 @@ The post [Comings and goings: NPR announces board election results, PMI hires CT
 
 ## [BMW’s first US-built EV promises 456 miles of range and ultra-fast charging](https://electrek.co/2026/11/17/bmws-first-us-built-ev-delivers-435-miles-range-fast-charging/)
 
-via Electrek Feed · 2026-11-17, updated 2026-11-20
+via Electrek Feed · 2026-11-17, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-iX5-first-US-EV-1.jpeg?quality=82&strip=all&w=1400)
 
@@ -2090,7 +2252,7 @@ The updates come on the heels of the panel’s successful push to expand governm
 
 ## [11-term rep who mocked a kid’s letter about EVs currently losing her seat (Upd.)](https://electrek.co/2026/11/17/this-boomer-rep-mocked-a-child-about-the-4-trillion-debt-she-saddled-him-with/)
 
-via Electrek Feed · 2026-11-17, updated 2026-11-20
+via Electrek Feed · 2026-11-17, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/05/20200211-OSEC-LSC-0188_49523463572-e1778741712185.jpg?quality=82&strip=all&w=1600)
 
@@ -2108,7 +2270,7 @@ Carson Crawford has made $10,000 in a night and built a six-figure OnlyFans busi
 
 ## [Tesla unveils 7.4 MW Powercore to take on ex-exec Baglino’s Heron Link](https://electrek.co/2026/11/17/tesla-powercore-solid-state-transformer-heron-link/)
 
-via Electrek Feed · 2026-11-17, updated 2026-11-20
+via Electrek Feed · 2026-11-17, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Powercore.jpeg?quality=82&strip=all&w=1600)
 
@@ -2120,7 +2282,7 @@ It’s made in America and scheduled to start operating in 2027. That’s the sa
 
 ## [GM just made it way easier for EV drivers to charge at Electrify America stations](https://electrek.co/2026/11/17/gm-easier-ev-drivers-charge-electrify-america/)
 
-via Electrek Feed · 2026-11-17, updated 2026-11-20
+via Electrek Feed · 2026-11-17, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/GM-EV-Charging-Electrify-America.jpeg?quality=82&strip=all&w=1400)
 
@@ -2168,7 +2330,7 @@ The state senate seat vacated by Lt. Gov.-elect Bryan Ávila has been vacant for
 
 ## [Volkswagen is cooking up a ‘spicy’ new electric hot hatch](https://electrek.co/2026/11/17/volkswagen-cooking-up-spicy-new-electric-hot-hatch/)
 
-via Electrek Feed · 2026-11-17, updated 2026-11-20
+via Electrek Feed · 2026-11-17, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-spicy-electric-hot-hatch-image.jpeg?quality=82&strip=all&w=1400)
 
@@ -2202,7 +2364,7 @@ Hagrid, the Hogwarts Express and Hedwig — and about 7,000 ice blocks.
 
 ## [Tesla needs wireless charging fast, or its $30,000 Cybercab can’t charge at home](https://electrek.co/2026/11/17/tesla-cybercab-home-charging-wireless-problem/)
 
-via Electrek Feed · 2026-11-17, updated 2026-11-20
+via Electrek Feed · 2026-11-17, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2024/10/Tesla-wireless-charging-rate.jpg?quality=82&strip=all&w=1600)
 
@@ -2285,13 +2447,13 @@ Eight California prisons are placing their highest security general population p
 
 ## [Can Google win the AI race without killing its cash cow?](https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow)
 
-via NPR Economic · 2026-11-17, updated 2026-11-21
+via NPR Economic · 2026-11-17, updated 2026-11-22
 
 In late October, Google had the worst stock day in its history as a public company. _The Planet Money_ newsletter asks: has Google been caught in "the innovator's dilemma"?
 
 ## [Farmers look to new Congress to fix damage caused by Trump](https://www.sdstandardnow.com/home/new-congress-has-to-repair-damage-caused-by-trumps-indifference-to-farmers)
 
-via South Dakota Standard · 2026-11-17, updated 2026-11-20
+via South Dakota Standard · 2026-11-17, updated 2026-11-22
 
 Does Trump actually care about farmers? They've been [financially stressed](https://www.theguardian.com/commentisfree/2026/oct/26/donald-trump-policy-disaster-rural-america) ever since Donald Trump took office nearly two years ago. Though farmers have had a [terrible time](https://www.fb.org/intel/markets/persistent-losses-leave-farmers-needing-economic-support) financially, the president seems indifferent. He doesn’t understand the nature of the crises his policies have caused. He sends farmers [bail-out money](https://en.wikipedia.org/wiki/Trump_administration_farmer_bailouts) then figures that everything is peachy-keen.
 
@@ -2345,7 +2507,7 @@ The girl was abducted along with her father, a Haitian police officer who remain
 
 ## [She went to college to become a social worker. Now she's joined the skilled trades](https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs)
 
-via NPR Economic · 2026-11-17, updated 2026-11-21
+via NPR Economic · 2026-11-17, updated 2026-11-22
 
 While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates.
 
@@ -2387,7 +2549,7 @@ The companies are challenging the law, which limits personalized feeds for users
 
 ## [REO returns to challenge Slate and Fathom in a cheap truck showdown](https://electrek.co/2026/11/16/reo-returns-to-challenge-slate-and-fathom-in-a-cheap-truck-showdown/)
 
-via Electrek Feed · 2026-11-17, updated 2026-11-20
+via Electrek Feed · 2026-11-17, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2025/04/Slack-EV-driving.jpg?quality=82&strip=all&w=1400)
 
@@ -2529,7 +2691,7 @@ City officials say the fee reflects quality that can stand up to the weather. Cr
 
 ## [Adding wind cuts solar + battery storage power costs nearly 20%](https://electrek.co/2026/11/16/adding-wind-cuts-solar-battery-storage-power-costs-nearly-20-percent/)
 
-via Electrek Feed · 2026-11-16, updated 2026-11-20
+via Electrek Feed · 2026-11-16, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/03/vattenfall-hybrid-germany.jpg?quality=82&strip=all&w=1200)
 
@@ -2539,7 +2701,7 @@ Solar and battery storage can do a lot of the heavy lifting in a renewable elect
 
 ## [Tesla Cybercab has crashed 8 times, and the data shows a speed problem](https://electrek.co/2026/11/16/tesla-cybercab-crashes-speed-problem/)
 
-via Electrek Feed · 2026-11-16, updated 2026-11-20
+via Electrek Feed · 2026-11-16, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&strip=all&w=1600)
 
@@ -2575,7 +2737,7 @@ Victims’ families and prosecutors say Gov. Gavin Newsom failed to provide requ
 
 ## [Ausom Black Friday sale has the right scooter for the right job, at the right price](https://electrek.co/2026/11/16/ausom-black-friday-sale-right-scooter-right-job-at-right-price/)
 
-via Electrek Feed · 2026-11-16, updated 2026-11-20
+via Electrek Feed · 2026-11-16, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/ausom-s-off-roa.jpg?quality=82&strip=all&w=1600)
 
@@ -2615,7 +2777,7 @@ The funding will pay for one police officer focused on retail theft, two public 
 
 ## [Volkswagen’s cheapest EV already has buyers waiting nearly 2 years](https://electrek.co/2026/11/16/volkswagens-cheapest-ev-buyers-waiting-nearly-2-years/)
 
-via Electrek Feed · 2026-11-16, updated 2026-11-20
+via Electrek Feed · 2026-11-16, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-cheapest-EV-orders.jpeg?quality=82&strip=all&w=1400)
 
@@ -2637,7 +2799,7 @@ via Federal News Network · 2026-11-16, updated 2026-11-17
 
 ## [Motorcycles are notoriously dangerous. Could electric motorcycles actually change that?](https://electrek.co/2026/11/16/motorcycles-are-notoriously-dangerous-could-electric-motorcycles-actually-change-that/)
 
-via Electrek Feed · 2026-11-16, updated 2026-11-20
+via Electrek Feed · 2026-11-16, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2024/01/ryvid-anthem-motorcycle-header.jpg?quality=82&strip=all&w=1600)
 
@@ -2691,7 +2853,7 @@ The proposed ordinance would also impose regulations on hosting platforms to hel
 
 ## [Anker SOLIX S5000 power station $2,380 exclusive savings, Navee ST3 Pro e-scooter $552 low, Lectric e-bike accessory sale, more](https://electrek.co/2026/11/16/anker-solix-s5000-power-station-navee-st3-pro-e-scooter-lectric-e-bike-accessory-sale-more/)
 
-via Electrek Feed · 2026-11-16, updated 2026-11-20
+via Electrek Feed · 2026-11-16, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Anker-SOLIX-Navee-Lectric-Worx-Greenworks-GDs-FI.jpg?quality=82&strip=all&w=1600)
 
@@ -2717,7 +2879,7 @@ The post [Tennessee stations will receive about $5.7M from FEMA’s Next Generat
 
 ## [Tesla Model X on Autopilot/FSD hit a pole and flipped, killing passenger](https://electrek.co/2026/11/16/tesla-autopilot-fsd-model-x-pole-rollover-naples/)
 
-via Electrek Feed · 2026-11-16, updated 2026-11-20
+via Electrek Feed · 2026-11-16, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Model-X-autopilotfsd-crash-naples.jpeg?quality=82&strip=all&w=1600)
 
@@ -2729,7 +2891,7 @@ Tesla flagged this crash itself, through its telematics, and says it has the car
 
 ## [BYD is bringing its $10,000 ‘Great’ Seagull overseas, but it won’t replace the Dolphin Surf](https://electrek.co/2026/11/16/byd-bringing-10000-great-seagull-ev-overseas/)
 
-via Electrek Feed · 2026-11-16, updated 2026-11-20
+via Electrek Feed · 2026-11-16, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Great-Seagull-Europe.jpeg?quality=82&strip=all&w=1400)
 
@@ -2757,7 +2919,7 @@ The City Council will hear a proposed ordinance to curb the use of the horse-pow
 
 ## [Tesla confirms €3B Cybercab factory at Giga Berlin for up to 1M a year](https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million/)
 
-via Electrek Feed · 2026-11-16, updated 2026-11-20
+via Electrek Feed · 2026-11-16, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2023/08/Tesla-Gigafactory-Berlin-Aug-2023.jpg?quality=82&strip=all&w=1600)
 
@@ -2775,7 +2937,7 @@ Will this “loaded” mansion set the record for most expensive home sold on Be
 
 ## [Trump again orders broken coal plant to stay open, even after court said it’s illegal](https://electrek.co/2026/11/16/trump-again-orders-broken-coal-plant-to-stay-open-even-after-court-said-its-illegal/)
 
-via Electrek Feed · 2026-11-16, updated 2026-11-20
+via Electrek Feed · 2026-11-16, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2021/08/Johnsonville-TN-coal-plant-demolition.jpg?quality=82&strip=all&w=1200)
 
@@ -2803,7 +2965,7 @@ A procession through downtown will honor the late labor and civil rights leader 
 
 ## [Hyundai IONIQ 5 caught with a new high-tech interior and big display screen](https://electrek.co/2026/11/16/hyundai-ioniq-5-caught-new-high-tech-interior-big-display/)
 
-via Electrek Feed · 2026-11-16, updated 2026-11-20
+via Electrek Feed · 2026-11-16, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/10/Hyundai-IONIQ-7.jpeg?quality=82&strip=all&w=1400)
 
@@ -2829,7 +2991,7 @@ _Marketplace Morning Report is more than a radio show. Check out our original re
 
 ## [Tesla on Autopilot/FSD was going 74 mph before fiery crash that killed 3](https://electrek.co/2026/11/16/tesla-autopilot-fsd-fiery-crash-el-dorado-hills/)
 
-via Electrek Feed · 2026-11-16, updated 2026-11-20
+via Electrek Feed · 2026-11-16, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&strip=all&w=1600)
 
@@ -2867,7 +3029,7 @@ A protest over one detention ended with another arrest on Sunday. Here’s what 
 
 ## [Tesla on Autopilot/FSD hit an overturned truck at 71 mph, killing 3](https://electrek.co/2026/11/16/tesla-autopilot-fsd-overturned-truck-naples-i75/)
 
-via Electrek Feed · 2026-11-16, updated 2026-11-20
+via Electrek Feed · 2026-11-16, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-autopilot-fsd-crash-naples-florida.jpeg?quality=82&strip=all&w=1600)
 
@@ -2879,7 +3041,7 @@ Police and local media covered the May 31 crash as a truck wreck in the dark, an
 
 ## [Volkswagen prices its new ID. Cross for the UK, but the $35,000 version comes later](https://electrek.co/2026/11/16/volkswagen-prices-new-id-cross-35000-version-comes-later-uk/)
 
-via Electrek Feed · 2026-11-16, updated 2026-11-20
+via Electrek Feed · 2026-11-16, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-ID-Cross-prices-UK.jpeg?quality=82&strip=all&w=1400)
 
@@ -2965,7 +3127,7 @@ _More on this:_
 
 ## [Roman emperor Julius Caesar used AI to write The Gallic Wars](https://www.sdstandardnow.com/home/roman-emperor-julius-caesar-used-ai-to-write-the-gallic-wars)
 
-via South Dakota Standard · 2026-11-16, updated 2026-11-20
+via South Dakota Standard · 2026-11-16, updated 2026-11-22
 
 I previously wrote an [opinion piece](https://www.tsln.com/news/ganje-beware-the-manipulators-of-truth-by-those-in-power/) on the risks of reliance on AI.
 
@@ -3009,7 +3171,7 @@ Southwest Airlines was the most affected at Sacramento International Airport as 
 
 ## [Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?](https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/)
 
-via Electrek Feed · 2026-11-15, updated 2026-11-20
+via Electrek Feed · 2026-11-15, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/02/MKBHD-Tesla-Cybercan-Elon-Musk.jpg?quality=82&strip=all&w=1600)
 
@@ -3023,7 +3185,7 @@ Surely Tesla isn’t down enough to deliver a half-baked product just to “prov
 
 ## [Mowing milestone: Greenzie surpasses 255,000 autonomous miles mowed](https://electrek.co/2026/11/15/mowing-milestone-greenzie-surpasses-255000-autonomous-miles-mowed/)
 
-via Electrek Feed · 2026-11-15, updated 2026-11-20
+via Electrek Feed · 2026-11-15, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/vanquish-autonomous-banner-copy.jpg?quality=82&strip=all&w=1600)
 
@@ -3033,7 +3195,7 @@ Autonomous lawncare specialists Greenzie passed a major milestone with their sel
 
 ## [High altitude, bitter cold, zero drivers: autonomous trucks take on Tibetan mine](https://electrek.co/2026/11/15/high-altitude-bitter-cold-zero-drivers-autonomous-trucks-take-on-tibetan-mine/)
 
-via Electrek Feed · 2026-11-15, updated 2026-11-20
+via Electrek Feed · 2026-11-15, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/SANY_EACON_MAIN.jpg?quality=82&strip=all&w=1600)
 
@@ -3049,7 +3211,7 @@ Experts say California can learn from “Mississippi Miracle” — a dramatic i
 
 ## [China’s electric airliner era starts with a 19-seat plane and 400 km of range](https://electrek.co/2026/11/15/china-comac-ce-25a-electric-plane-crewed-flight/)
 
-via Electrek Feed · 2026-11-15, updated 2026-11-20
+via Electrek Feed · 2026-11-15, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/CE-25A-Comac-electric-plane-flying.jpeg?quality=82&strip=all&w=1600)
 
@@ -3091,7 +3253,7 @@ One person was taken to a hospital Friday night, Sacramento police say.
 
 ## [$20K Nissan NX7 PHEV goes on sale with nearly 200 miles of electric range](https://electrek.co/2026/11/14/20k-nissan-nx7-phev-goes-on-sale-with-nearly-200-miles-of-electric-range/)
 
-via Electrek Feed · 2026-11-14, updated 2026-11-20
+via Electrek Feed · 2026-11-14, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/nissan_nx7.jpg?quality=82&strip=all&w=1600)
 
@@ -3131,7 +3293,7 @@ Many travelers camped out Friday night at Sacramento International Airport and o
 
 ## [Check your ego at the door: Stellantis’ new electric dolly turns ANY car into a tow rig](https://electrek.co/2026/11/14/check-your-ego-at-the-door-stellantis-new-electric-dolly-turns-any-car-into-a-tow-rig/)
 
-via Electrek Feed · 2026-11-14, updated 2026-11-20
+via Electrek Feed · 2026-11-14, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/500e_HAUL_MONSTER.jpeg?quality=82&strip=all&w=1600)
 
@@ -3141,7 +3303,7 @@ We all know the type: grizzled stubble, wraparound PitVipers, [a MAGA hat quietl
 
 ## [Huawei set to challenge Tesla Powerwall with new, 20 kW home battery](https://electrek.co/2026/11/14/huawei-set-to-challenge-tesla-powerwall-with-new-20-kw-home-battery/)
 
-via Electrek Feed · 2026-11-14, updated 2026-11-20
+via Electrek Feed · 2026-11-14, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/huawei_home-battery.jpg?quality=82&strip=all&w=1600)
 
@@ -3163,7 +3325,7 @@ Her mom says doctors told her they had only seen it in textbooks.
 
 ## [Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move](https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/)
 
-via Electrek Feed · 2026-11-14, updated 2026-11-20
+via Electrek Feed · 2026-11-14, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&strip=all&w=1600)
 
@@ -3175,7 +3337,7 @@ And Tesla wants consumers to sign it while still refusing to give unsupervised s
 
 ## [I finally got a USB-C charging e-bike, and it costs 75% less than Rivian’s bike](https://electrek.co/2026/11/14/i-finally-got-a-usb-c-charging-e-bike-and-it-costs-75-less-than-rivians-bike/)
 
-via Electrek Feed · 2026-11-14, updated 2026-11-20
+via Electrek Feed · 2026-11-14, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/05/engwe-zip-foldig-bike-head.jpg?quality=82&strip=all&w=1600)
 
@@ -3185,7 +3347,7 @@ I’ve been [waiting years](https://electrek.co/2022/06/23/electric-bike-usb-c-b
 
 ## [South Dakota’s GOP Sen. Thune will have a much different job next year.](https://www.sdstandardnow.com/home/south-dakota-republican-senator-john-thune-will-have-a-much-different-job-next-year)
 
-via South Dakota Standard · 2026-11-14, updated 2026-11-20
+via South Dakota Standard · 2026-11-14, updated 2026-11-22
 
 For the past two years our GOP Sen. John Thune has been senate majority leader. He has consistently bowed to the wishes of President Trump, never offering a discouraging word.
 
@@ -3229,7 +3391,7 @@ At a news briefing, Sean Duffy, secretary of transportation, said the ground sto
 
 ## [Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones](https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/)
 
-via Electrek Feed · 2026-11-14, updated 2026-11-20
+via Electrek Feed · 2026-11-14, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Cybercab-orders.jpeg?quality=82&strip=all&w=1600)
 
@@ -3277,7 +3439,7 @@ Joshua Masias was arrested Wednesday at the Moss building after being pepper-spr
 
 ## [Rinnai’s new heat pump water heaters get smarter – and easier to install](https://electrek.co/2026/11/13/rinnai-new-heat-pump-water-heaters-get-smarter-and-easier-to-install/)
 
-via Electrek Feed · 2026-11-14, updated 2026-11-20
+via Electrek Feed · 2026-11-14, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/3583_Rinnai_REHP_Storage_0000.jpg?quality=82&strip=all&w=1600)
 
@@ -3389,7 +3551,7 @@ A new bill would prohibit federal funding toward implementing the Office of Pers
 
 ## [Volkswagen may have just hinted at the name of its next affordable EV](https://electrek.co/2026/11/13/volkswagen-trademark-name-next-affordable-ev/)
 
-via Electrek Feed · 2026-11-13, updated 2026-11-20
+via Electrek Feed · 2026-11-13, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-E20000-EV.jpeg?quality=82&strip=all&w=1400)
 
@@ -3423,7 +3585,7 @@ The Police Department shared images of the person of interest believed to have b
 
 ## [BYD’s new flagship Tang SUV starts at about $34,000 with two enormous screens](https://electrek.co/2026/11/13/byd-opens-tang-ev-orders-two-enormous-screens-for-34000/)
 
-via Electrek Feed · 2026-11-13, updated 2026-11-20
+via Electrek Feed · 2026-11-13, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-Tang-EV.jpeg?quality=82&strip=all&w=1400)
 
@@ -3441,7 +3603,7 @@ The post [PBS North Carolina CEO David Crabtree to retire](https://current.org/2
 
 ## [Podcast: Tesla trims are falling like flies, Hyundai 2027 lineup, and BYD’s Rolls-Royce](https://electrek.co/2026/11/13/podcast-tesla-trims-are-falling-like-flies-hyundai-2027-lineup-and-byds-rolls-royce/)
 
-via Electrek Feed · 2026-11-13, updated 2026-11-20
+via Electrek Feed · 2026-11-13, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&strip=all&w=1600)
 
@@ -3511,7 +3673,7 @@ U.S. Attorney’s prosecutors allege Abel Vargas Barrera, 52, of Lodi, sold 15 p
 
 ## [Volkswagen is delaying another EV based on the SSP](https://electrek.co/2026/11/13/volkswagen-delaying-another-ev-ssp/)
 
-via Electrek Feed · 2026-11-13, updated 2026-11-20
+via Electrek Feed · 2026-11-13, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-delaying-Audi-A4-EV.jpeg?quality=82&strip=all&w=1400)
 
@@ -3521,7 +3683,7 @@ After delaying development of the long-awaited electric Golf, [Volkswagen](https
 
 ## [Velotric Discover M mid-drive multi-terrain e-bike new $2,399 low + expanded Aventon sale, EcoFlow power station flash sale, more](https://electrek.co/2026/11/13/velotric-discover-m-mid-drive-multi-terrain-e-bike-aventon-ecoflow-power-station/)
 
-via Electrek Feed · 2026-11-13, updated 2026-11-20
+via Electrek Feed · 2026-11-13, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Velotric-EcoFlow-Anker-eufy-Aventon-GDs-FI.jpg?quality=82&strip=all&w=1600)
 
@@ -3565,7 +3727,7 @@ Agencies have until Dec. 31 to distribute their 2026 employee survey.
 
 ## [Tesla stops selling every Cybertruck except the $109,990 Cyberbeast](https://electrek.co/2026/11/13/tesla-only-sells-cybertruck-cyberbeast-109990/)
 
-via Electrek Feed · 2026-11-13, updated 2026-11-20
+via Electrek Feed · 2026-11-13, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/image_7594a0.jpg?quality=82&strip=all&w=1600)
 
@@ -3583,7 +3745,7 @@ via Federal News Network · 2026-11-13, updated 2026-11-16
 
 ## [Hyundai is overhauling the Kona, and it looks like it may still be offered as an EV after all](https://electrek.co/2026/11/13/hyundai-overhauling-kona-ev/)
 
-via Electrek Feed · 2026-11-13, updated 2026-11-20
+via Electrek Feed · 2026-11-13, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/07/Hyundai-new-Kona-leaks.jpeg?quality=82&strip=all&w=1400)
 
@@ -3611,7 +3773,7 @@ Judge won’t seal the case, but they can request filings be kept closed.
 
 ## [Does Europe regret its bet on U.S. defense?](https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense)
 
-via NPR Economic · 2026-11-13, updated 2026-11-21
+via NPR Economic · 2026-11-13, updated 2026-11-22
 
 Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs.
 
@@ -3633,7 +3795,7 @@ He has been sentenced.
 
 ## [Here are the coolest e-motorcycles and gear we saw at EICMA 2026](https://electrek.co/2026/11/13/here-are-the-coolest-e-motorcycles-and-gear-we-saw-at-eicma-2026/)
 
-via Electrek Feed · 2026-11-13, updated 2026-11-20
+via Electrek Feed · 2026-11-13, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Livewire-customized-s4-eicma-2026-1.jpg?quality=82&strip=all&w=1600)
 
@@ -3645,7 +3807,7 @@ Below is a list of the best things I saw while walking around the show this year
 
 ## [Meta to deploy 25 electric semi trucks across I-10 corridor, but has nothing to ship](https://electrek.co/2026/11/13/meta-to-deploy-25-electric-semi-trucks-across-i-10-corridor-but-has-nothing-to-ship/)
 
-via Electrek Feed · 2026-11-13, updated 2026-11-20
+via Electrek Feed · 2026-11-13, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/nevoya_MAIN.jpg?quality=82&strip=all&w=1600)
 
@@ -3655,7 +3817,7 @@ Electric truck operator Nevoya is expanding its deal with Meta with the fresh de
 
 ## [Tesla kills $41,990 Model Y AWD: all-wheel drive now costs $8,000 more](https://electrek.co/2026/11/13/tesla-kills-41990-model-y-awd-configurator/)
 
-via Electrek Feed · 2026-11-13, updated 2026-11-20
+via Electrek Feed · 2026-11-13, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/01/Tesla-Model-Y-Standard.png?w=1600)
 
@@ -3691,7 +3853,7 @@ Alvin Prasad died in December, weeks after being attacked outside a nightclub, i
 
 ## [Zonveer ZX3 review: one of the best-value electric dirt bikes for beginners](https://electrek.co/2026/11/13/zonveer-zx3-review-1299-electric-dirt-bike-beginners/)
 
-via Electrek Feed · 2026-11-13, updated 2026-11-20
+via Electrek Feed · 2026-11-13, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Zonveer-ZX3-1.jpeg?quality=82&strip=all&w=1600)
 
@@ -3741,7 +3903,7 @@ Estrenos sobre identidad, migración y 20 cortometrajes en competencia
 
 ## [Wheel-E Podcast: Juiced Scrambler Core, battery passports, Engwe M20, more](https://electrek.co/2026/11/13/wheel-e-podcast-juiced-scrambler-core-battery-passports-engwe-m20-more/)
 
-via Electrek Feed · 2026-11-13, updated 2026-11-20
+via Electrek Feed · 2026-11-13, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&strip=all&w=1600)
 
@@ -3751,7 +3913,7 @@ This week on _Electrek_’s Wheel-E podcast, we discuss the most popular news 
 
 ## [Review: Engwe’s M20 3.0 is a 60V Super73 killer at a fraction of the price](https://electrek.co/2026/11/13/review-engwes-m20-3-0-is-a-60v-super73-killer-at-a-fraction-of-the-price/)
 
-via Electrek Feed · 2026-11-13, updated 2026-11-20
+via Electrek Feed · 2026-11-13, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/image_118833.png?w=1442)
 
@@ -3816,7 +3978,7 @@ Some California public unions accuse state agencies of not providing employee co
 
 ## [Bucking the national trend, S.D. Democrats continue to flounder](https://www.sdstandardnow.com/home/bucking-the-national-trend-south-dakota-democrats-continue-to-flounder)
 
-via South Dakota Standard · 2026-11-13, updated 2026-11-20
+via South Dakota Standard · 2026-11-13, updated 2026-11-22
 
 While Democrats swept the Midterm elections nationally, with a "tsunami" that reached Texas, Kansas, South Carolina and possibly Mississippi, in South Dakota the [Republicans scored yet another sweep](https://electionresults.sd.gov/), winning all the statewide races by somewhere between 58% (Heather Baxter for Secretary of State) and 64% (Marty Jackley for Congress) of the total vote.
 
@@ -3951,7 +4113,7 @@ _Read the stories in today’s episode:_
 
 ## [sonnen’s new smart breakers help your home battery last longer](https://electrek.co/2026/11/12/sonnens-new-smart-breakers-help-your-home-battery-last-longer/)
 
-via Electrek Feed · 2026-11-12, updated 2026-11-20
+via Electrek Feed · 2026-11-12, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/sonnen-batteries-smart-breakers.jpg?quality=82&strip=all&w=1600)
 
@@ -4003,7 +4165,7 @@ Washington man accused of burning his parents’ home told detectives a flag was
 
 ## [BYD wins round one in Defender-copycat battle as JLR is told to destroy documents](https://electrek.co/2026/11/12/byd-wins-round-one-defender-copycat-battle-jlr-told-to-destroy-documents/)
 
-via Electrek Feed · 2026-11-12, updated 2026-11-20
+via Electrek Feed · 2026-11-12, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-JLR-Defender-copycat.jpeg?quality=82&strip=all&w=1400)
 
@@ -4013,7 +4175,7 @@ via Electrek Feed · 2026-11-12, updated 2026-11-20
 
 ## [Lunar’s new home DC fast charger puts your EV battery to work](https://electrek.co/2026/11/12/lunars-new-home-dc-fast-charger-puts-your-ev-battery-to-work/)
 
-via Electrek Feed · 2026-11-12, updated 2026-11-20
+via Electrek Feed · 2026-11-12, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Lunar-Energy-home-fast-charger.jpg?quality=82&strip=all&w=1600)
 
@@ -4041,7 +4203,7 @@ Newly released DOJ files show how the disgraced financier quietly moved between 
 
 ## [SpaceX could announce $1.5 trillion Tesla merger in December: report](https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/)
 
-via Electrek Feed · 2026-11-12, updated 2026-11-20
+via Electrek Feed · 2026-11-12, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/01/Elon-Musk-self-dealing-Tesla-Spa.jpg?quality=82&strip=all&w=1600)
 
@@ -4089,7 +4251,7 @@ Decision Desk HQ and The Associated Press both called the Kansas governor race i
 
 ## [Kia is giving the EV5 an update, and leaked images show what’s next](https://electrek.co/2026/11/12/kia-giving-ev5-update-leaked-images/)
 
-via Electrek Feed · 2026-11-12, updated 2026-11-20
+via Electrek Feed · 2026-11-12, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-EV5-update-image.jpeg?quality=82&strip=all&w=1400)
 
@@ -4123,7 +4285,7 @@ via Federal News Network · 2026-11-12
 
 ## [Ride1Up VORSA e-bikes at Black Friday lows, EGO Power+ cordless snow blowers $220 off, Bluetti + EcoFlow power stations, more](https://electrek.co/2026/11/12/ride1up-vorsa-e-bikes-ego-power-cordless-snow-blowers-bluetti-ecoflow-power-stations-more/)
 
-via Electrek Feed · 2026-11-12, updated 2026-11-20
+via Electrek Feed · 2026-11-12, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Ride1Up-EGO-EcoFlow-Bluetti-Heybike.jpg?quality=82&strip=all&w=1600)
 
@@ -4141,7 +4303,7 @@ via Sacramento Bee · 2026-11-12, updated 2026-11-13
 
 ## ['Punch in the gut': Homes sales fall to their lowest in 16 years](https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years)
 
-via NPR Economic · 2026-11-12, updated 2026-11-21
+via NPR Economic · 2026-11-12, updated 2026-11-22
 
 Existing homes sales in October declined 8.8% from a year earlier, according to the National Association of Realtors.
 
@@ -4173,7 +4335,7 @@ The exhibition opens on Nov. 12 and will be on display through mid-December. Her
 
 ## [BYD’s new 5-seat luxury SUV brings big screens, big range, and starts at about $40,000](https://electrek.co/2026/11/12/byds-new-luxury-suv-brings-big-screens-big-range-starts-at-40000/)
 
-via Electrek Feed · 2026-11-12, updated 2026-11-20
+via Electrek Feed · 2026-11-12, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Denza-N8-EV-price.jpeg?quality=82&strip=all&w=1400)
 
@@ -4251,7 +4413,7 @@ The post [Molly Webster becomes co-host of ‘Radiolab’](https://current.org/2
 
 ## [Volkswagen’s new electric SUV is taking over where the ID.4 left off](https://electrek.co/2026/11/12/volkswagens-new-electric-suv-taking-over-where-id-4-left-off/)
 
-via Electrek Feed · 2026-11-12, updated 2026-11-20
+via Electrek Feed · 2026-11-12, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-ID-Tiguan-ID.4.jpeg?quality=82&strip=all&w=1400)
 
@@ -4288,7 +4450,7 @@ A cool detail of Chiefs tight end Travis Kelce’s wedding to Taylor Swift came 
 
 ## [Police charge another Tesla driver caught asleep in rush hour as cases pile up](https://electrek.co/2026/11/12/tesla-driver-asleep-ottawa-opp-careless-driving-fsd/)
 
-via Electrek Feed · 2026-11-12, updated 2026-11-20
+via Electrek Feed · 2026-11-12, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-FSD-asleep.jpeg?quality=82&strip=all&w=1600)
 
@@ -4336,7 +4498,7 @@ While the two sides exchanged more barbs over data centers, measure’s opponent
 
 ## [Latest Canadian budget packs funding for 55,000 new EV chargers](https://electrek.co/2026/11/12/latest-canadian-budget-packs-funding-for-55000-new-ev-chargers/)
 
-via Electrek Feed · 2026-11-12, updated 2026-11-20
+via Electrek Feed · 2026-11-12, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/bchydro_main.jpg?quality=82&strip=all&w=1600)
 
@@ -4373,7 +4535,7 @@ The 11-month-old baby was found after being buried in a dog crate for about 24 h
 
 ## [Honda’s $2,000 electric moped is a winner. So why can’t Americans buy it?](https://electrek.co/2026/11/12/hondas-2000-electric-moped-is-a-winner-so-why-cant-americans-buy-it/)
 
-via Electrek Feed · 2026-11-12, updated 2026-11-20
+via Electrek Feed · 2026-11-12, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/01/honda-uc3-head.jpg?quality=82&strip=all&w=1600)
 
@@ -4405,7 +4567,7 @@ Pamela Wisniewski, at the International Computer Science Institute, says kids ne
 
 ## [New Democratic congress should be progressive, not retributive](https://www.sdstandardnow.com/home/which-democratic-congress-will-emerge)
 
-via South Dakota Standard · 2026-11-12, updated 2026-11-20
+via South Dakota Standard · 2026-11-12, updated 2026-11-22
 
 The November 3 election gave the Democratic Party in Congress a strong majority in both houses. As a result, they have the ability to pass anything they want. That majority came about because large numbers of independents and moderate republicans were upset and disappointed in the actions of president Trump. The war, the economy, the deficits and the excesses of ICE were major factors in the defection resulting in those “swing” voters voting for democrats in the election. They voted against those items and simply want them to end and expect Democrats to do that.
 
@@ -4481,7 +4643,7 @@ Joshua Masias, a Sacramento resident, was detained and later hospitalized Wednes
 
 ## [Europe’s electric car sales jump 49% as global EV sales grow](https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/)
 
-via Electrek Feed · 2026-11-12, updated 2026-11-20
+via Electrek Feed · 2026-11-12, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-new-Seal-07-EV.jpeg?quality=82&strip=all&w=1600)
 
@@ -4570,7 +4732,7 @@ The 36-year-old officer, who was arrested Oct. 11, has been on suspension from t
 
 ## [BYD shows what its new ‘Cloud Carriage’ intelligent body control system can really do](https://electrek.co/2026/11/11/byd-shows-new-cloud-carriage-body-control-system-video/)
 
-via Electrek Feed · 2026-11-11, updated 2026-11-20
+via Electrek Feed · 2026-11-11, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Cloud-Carriage-body-system.jpeg?quality=82&strip=all&w=1400)
 
@@ -4610,7 +4772,7 @@ The approval included several changes to the development plan, including a restr
 
 ## [Kia just made history at Germany’s most prestigious auto awards](https://electrek.co/2026/11/11/kia-made-history-germanys-most-prestigious-auto-awards/)
 
-via Electrek Feed · 2026-11-11, updated 2026-11-20
+via Electrek Feed · 2026-11-11, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/04/Kia-new-EV-SUV-EV5.jpeg?quality=82&strip=all&w=1400)
 
@@ -4644,7 +4806,7 @@ VA.gov’s new look adds plain-language search and password-less login as the ag
 
 ## [Why is gasoline suddenly under $4 a gallon?](https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon)
 
-via NPR Economic · 2026-11-11, updated 2026-11-21
+via NPR Economic · 2026-11-11, updated 2026-11-22
 
 The average price of a gallon of gasoline dipped below $4 this week for the first time in months. Does that mean more relief is coming for drivers?
 
@@ -4706,7 +4868,7 @@ Dates for Aftershock’s 15th edition in Sacramento were released Tuesday. Now f
 
 ## [Segway MUXI cargo e-bike $200 off in expanded Black Friday sale + Navimow robot deals, Anker eufy S340 4-cam kit $580, more](https://electrek.co/2026/11/11/segway-muxi-cargo-e-bike-black-friday-navimow-robot-anker-eufy-s340-4-cam-kit/)
 
-via Electrek Feed · 2026-11-11, updated 2026-11-20
+via Electrek Feed · 2026-11-11, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Segway-MUXI-Navimow-Anker-eufy-Aventon-GDs-FI.jpg?quality=82&strip=all&w=1600)
 
@@ -4724,7 +4886,7 @@ The region saw a number of business open in October, some evoking childhood memo
 
 ## [BYD’s full-size luxury SUV has a wheel problem, and it’s fixing it for free](https://electrek.co/2026/11/11/byds-flagship-suv-wheel-problem-fixing-for-free/)
 
-via Electrek Feed · 2026-11-11, updated 2026-11-20
+via Electrek Feed · 2026-11-11, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-flagship-SUV-wheel.jpeg?quality=82&strip=all&w=1400)
 
@@ -4752,7 +4914,7 @@ Florida adopted Administrative Code 62-709.305, which exempts backyard compostin
 
 ## [Tesla extends Cybertruck production to late summer 2027 amid fan backlash](https://electrek.co/2026/11/11/tesla-extends-cybertruck-production-summer-2027-fan-backlash/)
 
-via Electrek Feed · 2026-11-11, updated 2026-11-20
+via Electrek Feed · 2026-11-11, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/10/Cybertruck_34-e1793032990825.jpg?quality=82&strip=all&w=1600)
 
@@ -4770,7 +4932,7 @@ A smoke alarm brought police to the Sigma Nu fraternity house at NC State. What 
 
 ## [Tesla confirms rare new delivery of 50 Semi electric trucks in Chicago](https://electrek.co/2026/11/11/tesla-semi-delivery-50-trucks-chicago-hmd/)
 
-via Electrek Feed · 2026-11-11, updated 2026-11-20
+via Electrek Feed · 2026-11-11, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Semi-deliveries-Chicago.jpeg?quality=82&strip=all&w=1600)
 
@@ -4794,7 +4956,7 @@ The top House Democrat says decriminalization is “on top of everybody’s mind
 
 ## [Hyundai is shaking up its 2027 electric vehicle lineup: Here’s what’s changing](https://electrek.co/2026/11/11/hyundai-shaking-up-2027-ev-lineup-whats-changing/)
 
-via Electrek Feed · 2026-11-11, updated 2026-11-20
+via Electrek Feed · 2026-11-11, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Hyundai-2027-EV-lineup.jpeg?quality=82&strip=all&w=1400)
 
@@ -4854,7 +5016,7 @@ Galleries, glass studios and ceramics workshops are helping this city bounce bac
 
 ## [Toyota and Subaru hit the ‘sweet spot’ with affordable electric SUVs](https://electrek.co/2026/11/11/toyota-subaru-hit-sweet-spot-affordable-electric-suvs/)
 
-via Electrek Feed · 2026-11-11, updated 2026-11-20
+via Electrek Feed · 2026-11-11, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-Subaru-affordable-EVs.jpeg?quality=82&strip=all&w=1400)
 
@@ -4882,7 +5044,7 @@ UC Davis’s new roadkill report also estimates 780 mountain lions die on highwa
 
 ## [Porsche CEO takes a shot at Tesla’s ‘flying’ Roadster stunt show](https://electrek.co/2026/11/11/porsche-ceo-tesla-flying-roadster-stunt/)
 
-via Electrek Feed · 2026-11-11, updated 2026-11-20
+via Electrek Feed · 2026-11-11, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/porsche-tesla-roadster-mission-s.jpg?quality=82&strip=all&w=1600)
 
@@ -4900,7 +5062,7 @@ Tony Escue, a U.S. Army veteran who lives in Orangevale went through a more than
 
 ## [Genesis reveals GV90 prices start at $100K+ in Korea, but it will cost more for coach doors](https://electrek.co/2026/11/11/genesis-reveals-gv90-prices-start-at-100k-korea-cost-more-for-coach-doors/)
 
-via Electrek Feed · 2026-11-11, updated 2026-11-20
+via Electrek Feed · 2026-11-11, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/08/Genesis-GV90-luxury-SUV.jpeg?quality=82&strip=all&w=1400)
 
@@ -4910,7 +5072,7 @@ via Electrek Feed · 2026-11-11, updated 2026-11-20
 
 ## [QuantumScape unveils Osprey all-solid-state cell: 1,000 cycles at 1 atm](https://electrek.co/2026/11/11/quantumscape-osprey-all-solid-state-sulfide-battery/)
 
-via Electrek Feed · 2026-11-11, updated 2026-11-20
+via Electrek Feed · 2026-11-11, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/quantumscape-osprey-qse-vs-osprey-architecture.png?w=1299)
 
@@ -5009,7 +5171,7 @@ Entire sections of I-5 will get new concrete.
 
 ## [It’s that time again – Honda needs to roll out an electric Super Cub](https://electrek.co/2026/11/11/its-that-time-again-honda-needs-to-roll-out-an-electric-super-cub/)
 
-via Electrek Feed · 2026-11-11, updated 2026-11-20
+via Electrek Feed · 2026-11-11, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/02/honda-super-cub-header.jpg?quality=82&strip=all&w=1600)
 
@@ -5033,7 +5195,7 @@ More on this:
 
 ## [‘Hell sucks.’ A veteran reflects on life and death at the DMZ, 1967](https://www.sdstandardnow.com/home/hell-sucks-a-vets-day-reflection-on-life-and-death-at-the-dmz-1967)
 
-via South Dakota Standard · 2026-11-11, updated 2026-11-20
+via South Dakota Standard · 2026-11-11, updated 2026-11-22
 
 _Author’s note: This year is the 60th anniversary of my deployment to South Vietnam, a milestone I commemorate by rerunning this piece, which I posted a couple of years ago – John Tsitrian_
 
@@ -5103,7 +5265,7 @@ The Democratic challenger had declared victory on Friday.
 
 ## [Tesla tuner Unplugged offers to take over Cybertruck production](https://electrek.co/2026/11/10/unplugged-performance-offers-take-over-tesla-cybertruck-production/)
 
-via Electrek Feed · 2026-11-11, updated 2026-11-20
+via Electrek Feed · 2026-11-11, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2024/06/Tesla-Cybertruck-police-vehicle-unplugged-performance-1-e1717773548814.jpeg?quality=82&strip=all&w=1600)
 
@@ -5199,7 +5361,7 @@ The team will connect unhoused people to services and respond to community conce
 
 ## [Kia launches two new PV5 electric van variants in the UK](https://electrek.co/2026/11/10/kia-launches-two-new-pv5-electric-van-variants-uk/)
 
-via Electrek Feed · 2026-11-10, updated 2026-11-20
+via Electrek Feed · 2026-11-10, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-new-PV5-variants-Cargo.jpeg?quality=82&strip=all&w=1400)
 
@@ -5269,7 +5431,7 @@ Millions kept flowing through the tiny, long-dormant bank even after Epstein's d
 
 ## [Lucid CEO admits it ‘did not even know where cars were’ and lost orders](https://electrek.co/2026/11/10/lucid-ceo-did-not-know-where-cars-were-lost-orders/)
 
-via Electrek Feed · 2026-11-10, updated 2026-11-20
+via Electrek Feed · 2026-11-10, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/06/IMG_E3923-e1782161892390.jpeg?quality=82&strip=all&w=1400)
 
@@ -5281,7 +5443,7 @@ That’s a rough admission from a company sitting on thousands of unsold vehicle
 
 ## [Tesla Cybertruck had its best month in over a year. It’s still going away](https://electrek.co/2026/11/10/tesla-cybertruck-had-its-best-month-in-over-a-year-its-still-going-away/)
 
-via Electrek Feed · 2026-11-10, updated 2026-11-20
+via Electrek Feed · 2026-11-10, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/10/Cybertruck_34-e1793032990825.jpg?quality=82&strip=all&w=1600)
 
@@ -5291,7 +5453,7 @@ New EV prices edged up in October, but buyers still paid less than they did a ye
 
 ## [Watch BYD’s robotic charging arm plug itself in and charge EVs in 5 minutes \[Video\]](https://electrek.co/2026/11/10/byds-robot-charger-plugs-itself-in-charges-evs-5-mins-video/)
 
-via Electrek Feed · 2026-11-10, updated 2026-11-20
+via Electrek Feed · 2026-11-10, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-robotic-EV-charging-arm.jpeg?quality=82&strip=all&w=1400)
 
@@ -5343,7 +5505,7 @@ Davinder Singh, 28, and Amandeep Singh, 33, face attempted murder and other char
 
 ## [BYD and Geely approached FIA about a 12th F1 team, says Ben Sulayem](https://electrek.co/2026/11/10/byd-geely-fia-talks-12th-f1-team/)
 
-via Electrek Feed · 2026-11-10, updated 2026-11-20
+via Electrek Feed · 2026-11-10, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Yangwang-U9-Xtreme-side.jpeg?quality=82&strip=all&w=1400)
 
@@ -5373,7 +5535,7 @@ The U.S. Coast Guard has called off a search for the woman, who vanished Sunday 
 
 ## [Anker SOLIX early Black Friday Sale cuts 54% off power stations from $530, Velotric Fold 1 Plus e-bike new $1,199 low, more](https://electrek.co/2026/11/10/anker-solix-early-black-friday-power-stations-velotric-fold-1-plus-e-bike-more/)
 
-via Electrek Feed · 2026-11-10, updated 2026-11-20
+via Electrek Feed · 2026-11-10, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Anker-SOLIX-Velotric-Segway-Greenworks-GDs-FI.jpg?quality=82&strip=all&w=1600)
 
@@ -5403,7 +5565,7 @@ SEIU-UHW’s own workers say they’re being punished for striking, accusations 
 
 ## [The new BMW i3 just proved how efficient an EV can be after a nearly 3,700-mile road trip](https://electrek.co/2026/11/10/bmw-i3-efficiency-record-3700-mile-trip/)
 
-via Electrek Feed · 2026-11-10, updated 2026-11-20
+via Electrek Feed · 2026-11-10, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-i3-record-EV-road-trip.jpeg?quality=82&strip=all&w=1400)
 
@@ -5419,7 +5581,7 @@ via Sacramento Bee · 2026-11-10, updated 2026-11-11
 
 ## [Garmin and Waze just teamed up on a clever new way to keep cyclists safer](https://electrek.co/2026/11/10/garmin-and-waze-just-teamed-up-on-a-clever-new-way-to-keep-cyclists-safer/)
 
-via Electrek Feed · 2026-11-10, updated 2026-11-20
+via Electrek Feed · 2026-11-10, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/garminsmartwatchsafety-1.jpg?quality=82&strip=all&w=1600)
 
@@ -5443,7 +5605,7 @@ The post [Public media partners extend ‘American Creed’ beyond the screen](h
 
 ## [Juiced unveils another lower-cost moto-styled electric bike: Scrambler Core](https://electrek.co/2026/11/10/juiced-unveils-another-lower-cost-moto-styled-electric-bike-scrambler-core/)
 
-via Electrek Feed · 2026-11-10, updated 2026-11-20
+via Electrek Feed · 2026-11-10, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/juiced-scrambler-core-teens-e-bikes-teenagers-header-1.jpg?quality=82&strip=all&w=1600)
 
@@ -5505,7 +5667,7 @@ The raid took place at [BYD’s](https://electrek.co/guides/byd/) offices in the
 
 ## [The coolest ride in town is England’s first electric ice cream truck](https://electrek.co/2026/11/10/the-coolest-ride-in-town-is-englands-first-electric-ice-cream-truck/)
 
-via Electrek Feed · 2026-11-10, updated 2026-11-20
+via Electrek Feed · 2026-11-10, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/WhitbyMorrison-electric-ice-cream-van-01-front-three-quarter-web.jpg?quality=82&strip=all&w=1500)
 
@@ -5523,7 +5685,7 @@ The post [Comings and goings: NHPR hires growth leader, WNET appoints VP …](ht
 
 ## [Tesla’s China sales crash 66% to lowest level in over four years](https://electrek.co/2026/11/10/tesla-china-sales-crash-october-2026-lowest-four-years/)
 
-via Electrek Feed · 2026-11-10, updated 2026-11-20
+via Electrek Feed · 2026-11-10, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-China-sales.jpg?quality=82&strip=all&w=1600)
 
@@ -5549,7 +5711,7 @@ Stories from this podcast:
 
 ## [Unit1 FARO and NEON review: I just found my new favorite e-bike helmets](https://electrek.co/2026/11/10/unit1-faro-and-neon-review-i-just-found-my-new-favorite-e-bike-helmets/)
 
-via Electrek Feed · 2026-11-10, updated 2026-11-20
+via Electrek Feed · 2026-11-10, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/unit1-helmet-head-1.jpg?quality=82&strip=all&w=1600)
 
@@ -5573,13 +5735,13 @@ Roughly 200,000 service members leave the U.S. military each year. For many, the
 
 ## [Gas prices dip below $4 but inflation remains stubbornly high](https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices)
 
-via NPR Economic · 2026-11-10, updated 2026-11-21
+via NPR Economic · 2026-11-10, updated 2026-11-22
 
 Gasoline prices fell below $4 a gallon Tuesday for the first time in three months — but the overall cost of living remains stubbornly high.
 
 ## [Lucid says service wait times fell 20% after 40% jump in service staff](https://electrek.co/2026/11/10/lucid-service-wait-times-drop-20-percent-staffing/)
 
-via Electrek Feed · 2026-11-10, updated 2026-11-20
+via Electrek Feed · 2026-11-10, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/lucid-mission-viejo-studio-service-center.jpg?quality=82&strip=all&w=1600)
 
@@ -5591,7 +5753,7 @@ The automaker is also adding Studio and Service Centers in Southern California, 
 
 ## [Polestar unveils Formula 2030 concept, previewing the next Polestar 2](https://electrek.co/2026/11/10/polestar-formula-2030-concept-unveiled-next-polestar-2/)
 
-via Electrek Feed · 2026-11-10, updated 2026-11-20
+via Electrek Feed · 2026-11-10, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/polestar-formula-2030-concept-front.jpg?quality=82&strip=all&w=1600)
 
@@ -5660,7 +5822,7 @@ Two strangers spotted the 2-year-old on a hot August day. Now her parents are su
 
 ## [CAT puts century-old train tech to work in its biggest underground machine yet](https://electrek.co/2026/11/10/cat-puts-century-old-train-tech-to-work-in-its-biggest-underground-machine-yet/)
 
-via Electrek Feed · 2026-11-10, updated 2026-11-20
+via Electrek Feed · 2026-11-10, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/cat_r3200_diesel-electric.png?w=1600)
 
@@ -5682,7 +5844,7 @@ Here’s what police say happened.
 
 ## [Why did California's billionaire tax fail to surf the blue wave?](https://www.npr.org/sections/planet-money/2026/11/10/g-s1-152755/why-did-californias-billionaire-tax-fail-to-surf-the-blue-wave)
 
-via NPR Economic · 2026-11-10, updated 2026-11-21
+via NPR Economic · 2026-11-10, updated 2026-11-22
 
 Two economists debate what California's vote on Prop 40 means for the wealth tax movement.
 
@@ -5732,7 +5894,7 @@ Gasoline prices are falling, but the overall cost of living remains stubbornly h
 
 ## [Honda shows off its next electric motorcycle, and it’s wilder than you thought](https://electrek.co/2026/11/10/honda-shows-off-its-next-electric-motorcycle-and-its-wilder-than-you-thought/)
 
-via Electrek Feed · 2026-11-10, updated 2026-11-20
+via Electrek Feed · 2026-11-10, updated 2026-11-22
 
 ![](https://electrek.co/wp-content/uploads/sites/3/2026/11/honda-ev-outlier-head-motorcycle-1.jpg?quality=82&strip=all&w=1600)
 
@@ -5742,7 +5904,7 @@ Honda has been getting increasingly serious about electric motorcycles, but if y
 
 ## [Last week's midterm elections were a requiem for MAGA](https://www.sdstandardnow.com/home/johns-piece-on-the-end-of-maga)
 
-via South Dakota Standard · 2026-11-10, updated 2026-11-20
+via South Dakota Standard · 2026-11-10, updated 2026-11-22
 
 I was road-tripping through Minnesota last weekend and couldn’t resist taking the pic above from my car. Sorry about the resolution, but the posting of a worn out Trump sign on a dilapidated building was too rich with symbolism to bypass.
 
@@ -6267,7 +6429,7 @@ via Sacramento Bee · 2026-11-09, updated 2026-11-10
 
 ## [October was warmest on record. Will Dems address climate change?](https://www.sdstandardnow.com/home/oznorhdrz8taoazsxuch0tnh529ps8)
 
-via South Dakota Standard · 2026-11-09, updated 2026-11-20
+via South Dakota Standard · 2026-11-09, updated 2026-11-22
 
 This year’s October was the [warmest on record](https://abcnews.com/International/october-warmest-record-globally-el-nino-intensifies-report/story?id=137911248). Maybe more sobering is the news that it was the third consecutive month to exceed the warming threshold set by the [2016 Paris Climate Agreement](https://abcnews.com/International/paris-climate-agreement/story?id=43301507), which was ratified by 194 countries, including the United States.
 
@@ -6648,7 +6810,7 @@ Honda makes just about everything with a motor, from lawnmowers and generators t
 
 ## [Did voters disregard politics and feel they just couldn’t stand Trump ?](https://www.sdstandardnow.com/home/did-voters-disregard-politics-and-feel-they-couldnt-stand-trump-anymore)
 
-via South Dakota Standard · 2026-11-07, updated 2026-11-20
+via South Dakota Standard · 2026-11-07, updated 2026-11-22
 
 Hee’s a quick take on the election.
 
@@ -7154,7 +7316,7 @@ A detective posed as a customer. The woman who showed up said she was being forc
 
 ## [Teaching financial advisors the depth behind tools and recipes](https://www.sdstandardnow.com/home/teaching-financial-advisors-the-depth-behind-tools-and-recipes)
 
-via South Dakota Standard · 2026-11-06, updated 2026-11-20
+via South Dakota Standard · 2026-11-06, updated 2026-11-22
 
 When you cook, do you follow a recipe precisely or adapt it as you go? My wife uses the second approach. She will make something extraordinary, and when I ask if she wrote down what she did, she has no idea. She tasted, adjusted, and added a little of this or that. I am the opposite. Give me a recipe, and I’m fine; just don’t ask me to be creative.
 
@@ -8152,7 +8314,7 @@ But the nonprofit Common Sense Media evaluated the tool and found it poses "unac
 
 ## [Farmers need help. Let’s see if a Dem-led congress can provide it](https://www.sdstandardnow.com/home/farmers-need-help-trump-has-been-a-flop-lets-see-if-a-dem-led-congress-can-provide-it)
 
-via South Dakota Standard · 2026-11-05, updated 2026-11-20
+via South Dakota Standard · 2026-11-05, updated 2026-11-22
 
 Though grain and soybean prices have come up a bit in recent months, the [American Farm Bureau](https://www.fb.org/news-release/farmer-losses-projected-to-deepen) thinks that farmers will continue to see tough times. Prices for their crops just aren’t  keeping up with input costs, principally fertilizer and diesel fuel.
 
@@ -8789,7 +8951,7 @@ After a [historic election defeat](https://www.motherjones.com/politics/2026/11/
 
 ## [Song sung blue? No. Last night was the Hallelujah Chorus sung blue](https://www.sdstandardnow.com/home/a-song-sung-blue-nope-this-was-the-hallelujah-chorus-sung-blue)
 
-via South Dakota Standard · 2026-11-04, updated 2026-11-20
+via South Dakota Standard · 2026-11-04, updated 2026-11-22
 
 Last night’s rebuke of Donald Trump should be a long-needed slap in the GOP’s collective face. His party has needed to come out of its Trump-induced stupor for a long time.
 
@@ -9738,7 +9900,7 @@ Yamaha is expanding its electric two-wheeler lineup with a much more capable mac
 
 ## [How Dick Nixon tried to kill South Dakota Senator Karl Mundt](https://www.sdstandardnow.com/home/how-dick-nixon-tried-to-kill-south-dakota-senator-karl-mundt)
 
-via South Dakota Standard · 2026-11-03, updated 2026-11-20
+via South Dakota Standard · 2026-11-03, updated 2026-11-22
 
 _Author’s note: The difference between a memoir and an autobiography is that a memoir tells the story as best the author can remember it.  An autobiography has to be fact-checked.  This falls into the category of mini-memoir._
 
@@ -10357,7 +10519,7 @@ Read the stories in this episode:
 
 ## [My wish list if there is a blue wave in tomorrow’s election](https://www.sdstandardnow.com/home/my-wish-list-if-theres-a-blue-wave)
 
-via South Dakota Standard · 2026-11-02, updated 2026-11-20
+via South Dakota Standard · 2026-11-02, updated 2026-11-22
 
 If the Democrats take Congress tomorrow, fixing Trump’s mess should be the first item on the legislative agenda.
 
@@ -10522,112 +10684,4 @@ via Electrek Feed · 2026-11-01, updated 2026-11-13
 Honda has spent decades building one of the most dominant positions in the global motorcycle industry, selling millions of gasoline-powered two-wheelers each year. But in markets where electric motorcycles and scooters are becoming increasingly accessible, that dominance is starting to face a serious challenge.
 
  [more…](https://electrek.co/2026/11/01/honda-has-dominated-motorcycles-for-decades-electric-bikes-are-changing-that/#more-490406)
-
-## [I-80 eastbound closed near Nevada state line due to big rig crash, CHP says](https://www.sacbee.com/news/local/article317867107.html)
-
-via Sacramento Bee · 2026-10-31, updated 2026-11-01
-
-The Highway Patrol posted earlier in the day that roadways are, “wet and slick.”
-
-## [Sacramento auto museum planning a multimillion-dollar renovation. What to expect](https://www.sacbee.com/news/local/article317789151.html)
-
-via Sacramento Bee · 2026-10-31, updated 2026-11-01
-
-The California Automobile Museum, just south of Old Sacramento, plans to break ground on an update in the spring of 2027.
-
-## [Mixed economic forecast weighs heavy ahead of midterms](https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms)
-
-via NPR Economic · 2026-10-31, updated 2026-11-05
-
-There was a mixed Halloween bag of economic news this week. GDP growth is up, but so are prices. For now at least, interest rates are staying the same. What does that mean for the midterm elections?
-
-## [Fire ‘extensively damages’ two Sacramento County businesses, Metro Fire says](https://www.sacbee.com/news/local/article317864765.html)
-
-via Sacramento Bee · 2026-10-31, updated 2026-11-01
-
-The cause of the fire on Hillsdale Boulevard in Foothill Farms is under investigation.
-
-## [1 arrested after man injured in midtown Sacramento shooting, police say](https://www.sacbee.com/news/local/crime/article317864164.html)
-
-via Sacramento Bee · 2026-10-31, updated 2026-11-01
-
-Update: The suspect has been booked in the Sacramento County Main Jail.
-
-## [Update: Police identify Fairfield Spirit Halloween shooting victim as pregnant woman](https://www.sacbee.com/news/local/crime/article317863897.html)
-
-via Sacramento Bee · 2026-10-31, updated 2026-11-01
-
-Three victims remained in critical condition after Friday’s shooting. Police said the attack appeared targeted and the gunman remained at large.
-
-## [Mike Thompson fights newcomer Eric Jones to retain California 4th District seat](https://www.sacbee.com/news/politics-government/election/article317855188.html)
-
-via Sacramento Bee · 2026-10-31, updated 2026-11-01
-
-Two Democrats, a $15 million self-funded challenger and a nearly half-new electorate are reshaping a Northern California House race heading into its final stretch.
-
-## [Debate over ‘sprawl’ divides California YIMBYs on permitting reform ballot measure](https://www.sacbee.com/news/politics-government/capitol-alert/article317823837.html)
-
-via Sacramento Bee · 2026-10-31
-
-The split over where Prop. 45 would drive home-building has played a role in the lack of support from some of the state’s more prominent YIMBY groups.
-
-## [Kevin Kiley, Richard Pan battle for California’s 6th District. Where the race stands](https://www.sacbee.com/news/politics-government/election/article317855176.html)
-
-via Sacramento Bee · 2026-10-31
-
-A tight race, a party switch and a cease-and-desist are shaping the showdown over the redrawn 6th Congressional District.
-
-## [We have a winner in the Iran war, and the winner is …](https://www.sdstandardnow.com/home/we-have-a-winner-in-the-iran-war-and-the-winner-is)
-
-via South Dakota Standard · 2026-10-31, updated 2026-11-20
-
-… the oil industry and its shareholders. Glancing across yesterday’s earning reports on the financial sites, the first headline I encountered in [The Wall Street Journal](https://www.wsj.com/business/energy-oil/exxonmobil-xom-chevron-cvx-3q-earnings-report-2026-stock-1d890682) announced “American Oil Giants See Profits Soar as Wars Crimp Energy Supplies.” The sub-head? “ExxonMobil and Chevron post blockbuster earnings for third quarter as world turns to U.S. refineries for fuel.”
-
-ExxonMobil’s profits doubled compared to the same period last year. Chevron’s were up 185%. Meantime, we consumers are gagging at our local gas pumps, [paying](https://www.cnn.com/2026/10/30/business/big-oil-profits-trump-gas-prices) an average of $4.12/gallon, about a buck over what we were paying a year ago.
-
-This is what Donald Trump has wrought.
-
-Though he has [since claimed](https://www.cnn.com/2026/10/02/politics/fact-check-trump-iran-timeline) that he was misinterpreted, Trump at the onset of the war said that it would be over in a matter of weeks. Since then [the timeline has shifted](https://politifact.com/article/2026/mar/30/trump-hegseth-iran-war-timeline/). The last I heard, he said the [war will end “soon](https://www.cbsnews.com/us-iran-tensions/),” a comfortably meaningless word when it comes to specificty. That and his claims of being misunderstood only amplify his [incoherence](https://www.theguardian.com/culture/2026/oct/08/seth-meyers-jimmy-kimmel-trump-iran-camp-david) on the subject.
-
-That Trump [recently said](https://“We’re in the golden age of America. So our nation is doing better now than ever before,”) “we’re in the golden age of America … our nation is doing better now than ever before” only amplifies his detachment from reality.
-
-Meanwhile, as the back and forth on what-Trump-said vs. what-Trump-meant goes on, the practical effect of Trump’s invasion of Iran has been to make oil producers much, much richer and helpless oil consumers all the poorer.
-
-As to the president trying to do something about high fuel costs, Trump has come up way short. His feeble efforts to ease diesel fuel prices by engineering a deal that would let Russia increase diesel fuel exports were a [fantasy](https://www.sdstandardnow.com/home/trumps-deal-on-russian-diesel-fuel-isnt-likely-to-lower-fuel-prices-for-farmers) ( [Foreign Policy](https://foreignpolicy.com/2026/10/30/trump-russia-diesel-deal-putin-prices-midterms-iran-war/) calls the deal a “hail Mary”) from the get-go. Not only have diesel prices not gone down, they’ve actually [risen by 7 cents/gallon](https://www.yahoo.com/news/us/articles/trump-putin-diesel-deal-not-094000834.html) since the deal was announced.
-
-On the gasoline front, Trump’s only utterances about potentially lower prices are that gas will get cheaper once the [Iran war ends](https://www.facebook.com/kbtxmedia/posts/trump-has-told-reporters-and-supporters-that-gas-prices-will-fall-once-the-war-w/1543566817800122/). That stands to reason, but the price-dropping process will be slow-going once the Strait of Hormuz opens."If and when that happens, it will be a very long, multi-month to multi-year process for things to fully normalize,"  says a GasBuddy petroleum expert [quoted on CBS](https://www.cbsnews.com/news/iran-war-gas-prices-oil/?utm_source=chatgpt.com).
-
-The economically painful results of Trump’s hapless venture into the Persian Gulf will linger for a long time. The [Center for Strategic and International Studies](https://www.csis.org/analysis/postwar-threat-gulf-energy-infrastructure) sees localized conflicts, many of them stirred up during Trump’s incursion into the area, as a “postwar threat to Gulf energy infrastructure.”
-
-Unclear as Trump’s objectives in this war have been, his [options](https://www.rand.org/pubs/commentary/2026/10/americas-least-bad-option-in-iran.html) seem even more muddled, which is a natural follow-up to the [discordant](https://www.theatlantic.com/newsletters/2026/08/trump-foreign-policy-incoherence-iran/688312/) statements and [erratic](https://www.scmp.com/news/world/middle-east/article/3347579/trumps-erratic-strategy-iran-raises-questions-about-us-war-preparation) strategies that got us into this mess in the first place.
-
-_John Tsitrian is a businessman and writer from the Black Hills. He was a weekly columnist for the Rapid City Journal for 20 years. His articles and comm,entary have also appeared in The Los Angeles Times, The Denver Post and The Omaha World-Herald. Tsitrian served in the Marines for three years (1966-69), including a 13-month tour of duty as a radioman in Vietnam. Republish with permission._
-
-_Photo: John Tsitrian, gassing up in Rapid City_
-
-**_The South Dakota Standard is offered freely and is supported by our readers. We have no political or commercial sponsorship. If you'd like to help us continue our mission to advance independent political and social commentary, you can do so by clicking on the "Donate" button that's on the sidebar to your right._**
-
-## [Why prosecutor ended the case against NC teen accused of taking abortion pills in third trimester](https://www.sacbee.com/news/nation-world/national/article317856030.html)
-
-via Sacramento Bee · 2026-10-31
-
-A Durham teen and her boyfriend were charged this summer after their baby was born at 31 weeks and found in a toilet by paramedics.
-
-## [85 Bigfoot reports in one Washington county. What are people seeing in the woods?](https://www.sacbee.com/news/nation-world/national/article317855318.html)
-
-via Sacramento Bee · 2026-10-31
-
-The county near Mount Rainier has more reported Bigfoot encounters than anywhere in Washington, a Bigfoot research group says.
-
-## [Plans for a data center threaten scenic wilderness and dark skies in West Virginia](https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies)
-
-via NPR Economic · 2026-10-31, updated 2026-11-05
-
-Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark sky sites.
-
-## [There’s a voter ID measure on California’s midterm ballot. What to know about Prop. 39](https://www.sacbee.com/news/politics-government/election/article317856630.html)
-
-via Sacramento Bee · 2026-10-31
-
-Should Californians have to show identification to vote? Proposition 39 asks this question ahead of the 2026 midterm elections
 

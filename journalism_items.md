@@ -1,18 +1,89 @@
 ---
 title: "Student Paper"
 description: "Student journalism and the fourth estate."
-pubDate: Sat, 21 Nov 2026 04:25:44 GMT
+pubDate: Sun, 22 Nov 2026 08:16:26 GMT
 aggregateOf: "journalism.md"
-dateModified: Sat, 21 Nov 2026 14:49:11 GMT
-itemCount: 473
+dateModified: Sun, 22 Nov 2026 14:51:00 GMT
+itemCount: 474
 generator: antenna/0.1.1
 ---
 
 # Student Paper
 
+## [UCLA Dining’s To-Go Lunch program fits students’ schedules, one swipe at a time](https://dailybruin.com/2026/11/22/ucla-dinings-to-go-lunch-program-fits-students-schedules-one-swipe-at-a-time/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-22
+
+UCLA has received Niche’s No. 1 college dining ranking for the past eight years. Now, it’s giving students the option to take that food to go.
+
+## [UCLA women’s soccer shuts out Quinnipiac 4-0, moves on to NCAA tournament round 2](https://dailybruin.com/2026/11/21/ucla-womens-soccer-shuts-out-quinnipiac-4-0-moves-on-to-ncaa-tournament-round-2/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-22
+
+_The post was updated Nov. 22 at 1:18 a.m._
+Despite the weather favoring a Connecticut-based Bobcat squad, the Bruins were able to capture a win – with long sleeves under their jerseys.
+No.
+
+## [Dizon’s Disposition: UCLA football is rolling. Why is the Rose Bowl half empty heading into the USC game?](https://dailybruin.com/2026/11/21/dizons-disposition-ucla-football-is-rolling-why-is-the-rose-bowl-half-empty-heading-into-the-usc-game/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-22
+
+There seemed to be a real chance that the Bruins’ game against the Huskies on Nov. 22, 2025, would be their last at the Rose Bowl.
+
+## [UCLA football falls to Michigan 18-16 in triple overtime, ending undefeated run](https://dailybruin.com/2026/11/21/ucla-football-falls-to-18-16-michigan-in-triple-overtime-ending-undefeated-run/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-22
+
+_This post was updated Nov. 21 at 6:11 p.m._
+ANN ARBOR — With UCLA down seven with fewer than 15 seconds left in regulation, a direct snap to fifth-year running back Anthony Woods ended with a trick float pass to fifth-year tight end Brayden Loftin, forcing overtime.
+
+## [UCLA men’s water polo defeats Cal, advances to MPSF championship](https://dailybruin.com/2026/11/21/ucla-mens-water-polo-defeats-cal-advances-to-mpsf-championship/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-22
+
+Throughout the entire regular season, the Bruins succumbed to just two opponents.
+And, heading into Saturday’s match, those same two opponents now stood in their path toward capturing the conference title.
+
+## [UC signs deal with OpenAI to expand AI access, lower costs](https://dailybruin.com/2026/11/21/uc-signs-deal-with-openai-to-expand-ai-access-lower-costs/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-21, updated 2026-11-22
+
+The UC announced Thursday that it signed a systemwide agreement with OpenAI to expand access to artificial intelligence tools and lower costs for the University’s campuses.
+The agreement – which will cost the UC $1.2 million annually, according to the Los Angeles Times, and last from Dec.
+
+## [‘Purpose’ at the Geffen Playhouse weighs faith and legacy in a funny, moving family drama](https://dailybruin.com/2026/11/21/theater-review-purpose-at-the-geffen-playhouse-weighs-faith-and-legacy-in-a-funny-moving-family-drama/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-21, updated 2026-11-22
+
+Warning: Spoilers ahead.
+The Geffen Playhouse’s latest production delivers a triumph of intentional reflection.
+“Purpose” hit the Westwood mainstage Nov. 11 and is set to run until Dec.
+
+## [Women’s volleyball exits Big Ten Tournament after second-round loss to Indiana](https://dailybruin.com/2026/11/21/womens-volleyball-exits-big-ten-tournament-after-second-round-loss-to-indiana/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-21, updated 2026-11-22
+
+_This post was updated Nov. 21 at 4:22 p.m._
+Familiar foes, familiar outcome.
+Even with the return of junior libero Lola Schumacher – who has missed the past 12 games with a leg injury – No.
+
+## [UCLA men’s soccer faces Omaha, hopes to advance in NCAA tournament](https://dailybruin.com/2026/11/21/ucla-mens-soccer-faces-omaha-hopes-to-advance-in-ncaa-tournament/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-21, updated 2026-11-22
+
+Rain soaked the Bruins’ NCAA tournament hopes last season.
+Despite the team entering the first round fresh off securing the Big Ten tournament championship, a loss in penalties at Wallis Annenberg Stadium washed away its hopes for a national title.
+
+## [UCPD detains UCLA student suspected of pulling fire alarms, involvement in vandalism](https://dailybruin.com/2026/11/21/ucpd-detains-ucla-student-suspected-of-pulling-fire-alarms-involvement-in-vandalism/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-21, updated 2026-11-22
+
+UCPD detained a UCLA student after he allegedly pulled multiple fire alarms on the Hill on Saturday morning.
+Police and the Los Angeles Fire Department responded to multiple activated fire alarms at Hedrick Hall, Centennial Hall and Rieber Terrace – as well as two activated blue-light phones – said Jeffrey Chobanian, the captain of UCPD’s operations bureau, in an emailed statement.
+
 ## [UCLA football looks to punch ticket to Big Ten title game against Michigan](https://dailybruin.com/2026/11/20/ucla-football-looks-to-punch-ticket-to-big-ten-title-game-against-michigan/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-21
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-21, updated 2026-11-22
 
 _This story was updated Nov. 20 at 11:16 p.m._
 A blue-and-gold powerhouse enters a late-season game ranked in the top four nationally and could clinch a conference title berth after a year of dominating teams on both sides of the ball – in an extra gritty fashion.
@@ -27,14 +98,14 @@ The post [USC vs Baylor — as it happened](https://dailytrojan.com/2026/11/20/u
 
 ## [A new tournament, an old foe: UCLA women’s volleyball to face off against Indiana](https://dailybruin.com/2026/11/20/a-new-tournament-an-old-foe-ucla-womens-volleyball-to-face-off-against-indiana/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-21
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-21, updated 2026-11-22
 
 For the first time in conference history, the Big Ten will crown a women’s volleyball tournament champion.
 And the Bruins will have to settle an old score to keep their championship hopes alive.
 
 ## [UCLA men’s water polo wallops Austin College 34-4, advances to MPSF semifinal](https://dailybruin.com/2026/11/20/ucla-mens-water-polo-wallops-austin-college-34-4-advances-to-mpsf-semifinal/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-21
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-21, updated 2026-11-22
 
 Kangaroos are unable to walk backward.
 And the Austin College Kangaroos were unable to compete with the Bruins.
@@ -42,16 +113,22 @@ No. 3 seed UCLA men’s water polo (20-3, 3-3 MPSF West) jumped past No.
 
 ## [Regents hear report on outcomes of UC’s sexual violence and harassment policy](https://dailybruin.com/2026/11/20/regents-hear-report-on-outcomes-of-ucs-sexual-violence-and-harassment-policy/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-21
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-21, updated 2026-11-22
 
 About 70% of 2025-26 systemwide requests for investigations into alleged violations of the UC’s sexual violence and harassment policy resulted in sanctions, a University official said at the UC Board of Regents meeting Tuesday.
 
 ## [Regents present annual state funding request, seeking billions for new projects](https://dailybruin.com/2026/11/20/regents-present-annual-state-funding-request-seeking-billions-for-new-projects/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-21
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-21, updated 2026-11-22
 
 _This post was updated Nov. 20 at 10:30 p.m._
 The UC Board of Regents presented its proposed 2027-28 state budget Wednesday, requesting an increase of $335.5 million in ongoing state support.
+
+## [Una mirada desde adentro: el legado de Vera Jackson llega al mundo digital](https://sundial.csun.edu/226003/espanol/una-mirada-desde-adentro-el-legado-de-vera-jackson-llega-al-mundo-digital/)
+
+via The Sundail (CSUN Student Newspaper) · 2026-11-21
+
+La historia de la comunidad afroamericana de Los Ángeles durante las décadas de 1940 y 1950 quedó plasmada en las fotografías de Vera Jackson. Esta pionera del fotoperiodismo documentó la...
 
 ## [Voting experience at CSUN vote center during the 2026 election](https://sundial.csun.edu/225998/elections/voting-experience-at-csun-vote-center-during-the-2026-election/)
 
@@ -61,14 +138,14 @@ On Election Day, many people were heading straight to the voting polls. As it go
 
 ## [Ready, set, melody: Readymade takes the stage at Fowler](https://dailybruin.com/2026/11/20/ready-set-melody-readymade-takes-the-stage-at-fowler/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-21
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-21, updated 2026-11-22
 
 A student-led performance warmed up the Fowler Museum’s amphitheater on a chilly night.
 Readymade, a Korean-American student music group at UCLA, hosted its Fall 2026 Concert on Wednesday as part of Fowler Out Loud’s evening concert series, which invites UCLA students to perform at the museum.
 
 ## [Scouting Report: UCLA football vs. Michigan](https://dailybruin.com/2026/11/20/scouting-report-ucla-football-vs-michigan/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-20, updated 2026-11-21
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-20, updated 2026-11-22
 
 No. 4 UCLA football (10-0, 7-0 Big Ten) will play its final regular-season road game Saturday afternoon against Michigan (5-5, 2-5). A victory would clinch the Bruins’ spot in the Big Ten championship game – a program first since joining the conference in 2024.
 
@@ -94,14 +171,14 @@ As finals week approaches, stress and anxiety begin to build among students at C
 
 ## [No. 5 seed UCLA women’s soccer faces Quinnipiac in NCAA tournament opener](https://dailybruin.com/2026/11/20/no-5-seed-ucla-womens-soccer-faces-quinnipiac-in-ncaa-tournament-opener/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-20, updated 2026-11-21
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-20, updated 2026-11-22
 
 “This team is different.”
 Junior forward Sammy Sanchez’s assertion about the current iteration of the Bruins was concise and clear. Following her team’s upset to Wisconsin in the first round of the Big Ten tournament, Sanchez said despite the loss, the next level of postseason would be different from years past – which have ended with first- and second-round exits.
 
 ## [Students attend Sexual Violence Prevention Forum hosted by USAC](https://dailybruin.com/2026/11/20/students-attend-sexual-violence-prevention-forum-hosted-by-usac/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-20, updated 2026-11-21
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-20, updated 2026-11-22
 
 Students proposed solutions to prevent sexual violence on campus and support survivors at a Monday forum.
 About 100 people attended the Sexual Violence Prevention Forum, held in the Bruin Viewpoint Room and hosted by the Undergraduate Students Association Council’s Internal Vice President, General Representative 2 and Student Wellness Commission offices.
@@ -162,7 +239,7 @@ The post [Christian Pierce is doing it all in his senior season](https://dailytr
 
 ## [Daily Bruin Print Issue – Nov. 20, 2026](https://dailybruin.com/2026/11/20/daily-bruin-print-issue-nov-20-2026/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-20, updated 2026-11-21
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-20, updated 2026-11-22
 
 The Daily Bruin publishes print issues every Monday, Wednesday and Friday during the school year. You can view the online version of The Bruin here.
 
@@ -3272,67 +3349,4 @@ via The Daily Bruin (UCLA Student Newspaper) · 2026-11-01, updated 2026-11-02
 
 _This post was updated Oct. 31 at 5:32 p.m._
 Luke Duncan’s Halloween costume left the Wolf Pack terrified in his return to the Rose Bowl on Saturday.
-
-## [Sinclairity: UCLA women’s basketball could have a future star in freshman Somto Okafor](https://dailybruin.com/2026/10/31/sinclairity-ucla-womens-basketball-could-have-a-future-star-in-freshman-somto-okafor/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-10-31, updated 2026-11-02
-
-How do you build a team from the ground up?
-That’s the question coach Cori Close will have to figure out this season, as No. 11 UCLA women’s basketball’s top six scorers graduated after last season.
-
-## [USC vs Ohio State — as it happened](https://dailytrojan.com/2026/10/31/usc-vs-ohio-state-as-it-happened/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-10-31, updated 2026-11-11
-
-Caleb Olguin and Dillon Zamperin report live from Los Angeles Memorial Coliseum.
-
-The post [USC vs Ohio State — as it happened](https://dailytrojan.com/2026/10/31/usc-vs-ohio-state-as-it-happened/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [Gallery: Looking for a Halloween treat? Westwood Village’s first Pup-o-Ween has plenty for its pups](https://dailybruin.com/2026/10/31/gallery-looking-for-a-halloween-treat-westwood-villages-first-pup-o-ween-has-plenty-for-its-pups/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-10-31, updated 2026-11-01
-
-Broxton Plaza went to the dogs on Saturday – and they came dressed for the occasion.
-Some arrived as pumpkins, others as superheroes. They descended on the event strolling in packs, sitting in strollers and perching on their owner’s shoulder.
-
-## [Dominic Fike’s ‘How to Quit Smoking’ delivers groovy sounds but little growth](https://dailybruin.com/2026/10/30/dominic-fikes-how-to-quit-smoking-delivers-groovy-sounds-but-little-growth/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-10-31, updated 2026-11-01
-
-Dominic Fike knows how to flirt with a good melody. Committing to it is another matter.
-Written and recorded largely in hotels, tour buses and dressing rooms, Fike’s third studio album “How to Quit Smoking” follows a musician in constant motion.
-
-## [Scouting Report: UCLA football vs. Nevada](https://dailybruin.com/2026/10/30/scouting-report-ucla-football-vs-nevada/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-10-31, updated 2026-11-01
-
-No. 7 UCLA football (7-0, 5-0 Big Ten) takes a break from conference competition when it takes on Nevada (3-4, 2-2 Mountain West) Saturday afternoon at the Rose Bowl.
-
-## [Editorial Cartoon: “Hypocrisy”](https://dailybruin.com/2026/10/30/editorial-cartoon-hypocrisy/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-10-31, updated 2026-11-01
-
-## [Proposition 39 could introduce new voter ID requirements for Californians](https://dailybruin.com/2026/10/30/proposition-39-could-introduce-new-voter-id-requirements-for-californians/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-10-31, updated 2026-11-01
-
-_This post was updated Oct. 30 at 8:35 p.m.._
-This November, California voters will decide on a ballot proposition that would enforce new voter identification requirements.
-
-## [No. 7 UCLA football looks to keep winning streak running ahead of Nevada Halloween game](https://dailybruin.com/2026/10/30/no-7-ucla-football-looks-to-keep-winning-streak-running-ahead-of-nevada-halloween-game/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-10-31, updated 2026-11-01
-
-A pack of wolves howling beneath a full moon would be enough to send a chill down the spine of even the bravest trick-or-treater this Halloween weekend.
-
-## [Prop 1 seeks to fund affordable housing, raises fiscal concerns for Californians](https://dailybruin.com/2026/10/30/prop-1-seeks-to-fund-affordable-housing-raises-fiscal-concerns-for-californians/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-10-31, updated 2026-11-01
-
-A $11.25 billion bond on the November ballot aims to fund the construction of affordable housing, including for veterans and UC students.
-The measure, if passed, would provide subsidies for up to 40,000 new affordable homes, according to the Legislative Analyst’s Office.
-
-## [Just Pretend](https://dailybruin.com/2026/10/30/just-pretend/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-10-31, updated 2026-11-01
 

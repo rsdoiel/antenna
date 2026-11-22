@@ -1,18 +1,28 @@
 ---
 title: "Small Papers"
 description: "Small regional papers, blogs and news."
-pubDate: Fri, 20 Nov 2026 22:05:21 GMT
+pubDate: Sun, 22 Nov 2026 00:41:59 GMT
 aggregateOf: "small_papers.md"
-dateModified: Sat, 21 Nov 2026 14:48:55 GMT
+dateModified: Sun, 22 Nov 2026 14:50:51 GMT
 itemCount: 88
 generator: antenna/0.1.1
 ---
 
 # Small Papers
 
+## [Ahead of extreme Thanksgiving tides, Naples fortifies its aging seawall with thousands of sandbags](https://lbpost.com/news/el-nino/thanksgiving-king-tides-naples-sandbages-flooding)
+
+via Long Beach Post · 2026-11-22
+
+![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/21140706/21nov26-sandbag-7941-476257-mciab0of-154106-8TTvEbIB-1024x651.jpg)
+
+Neighbors rallied on Saturday, hoping to protect their homes from this year's supercharged tides. The worst are expected right around the holidays.
+
+The post [Ahead of extreme Thanksgiving tides, Naples fortifies its aging seawall with thousands of sandbags](https://lbpost.com/news/el-nino/thanksgiving-king-tides-naples-sandbages-flooding) appeared first on [Long Beach Post News](https://lbpost.com/news).
+
 ## [Thieves stole hundreds of thousands of Nikes, Crocs and tools in train heists, prosecutors say](https://lbpost.com/news/crime/thieves-stole-hundreds-of-thousands-of-nikes-crocs-and-tools-in-train-heists-prosecutors-say)
 
-via Long Beach Post · 2026-11-20
+via Long Beach Post · 2026-11-20, updated 2026-11-22
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/20134059/screenshot-2026-11-20-at-14016-pm-237506-curjrhva-185763-5rBw4Jmp.png)
 
@@ -32,7 +42,7 @@ The post [Experts Urge Travelers to Get a Flu Shot Before Thanksgiving](https://
 
 ## [They voted to replace César Chavez’s name on their school and chose a symbol of rebirth](https://lbpost.com/news/education/cesar-chavez-new-name-school-monarca)
 
-via Long Beach Post · 2026-11-20
+via Long Beach Post · 2026-11-20, updated 2026-11-22
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/20082847/6-15-26-walls-7-929829-wnhgbadk-241618-6bsdcqmh-055214-gpcynryk-504484-mKrkArjS-1024x485.jpg)
 
@@ -42,7 +52,7 @@ The post [They voted to replace César Chavez’s name on their school and chose
 
 ## [Body camera footage shows how police responded when ICE called for help in North Long Beach](https://lbpost.com/news/immigration/ice-police-help-broke-arm-north-long-beach)
 
-via Long Beach Post · 2026-11-20
+via Long Beach Post · 2026-11-20, updated 2026-11-22
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/19193029/oct-17ice-nlb-screenshot-2026-11-19-at-55553-pm-899592-vupgpl5y-893747-ovhjlq9u-2048x820-236608-xi7bg9bb-074942-zonrhvgz-995975-8b3c6ytm-291132-5wIENUXr-1024x410.jpg)
 
@@ -52,7 +62,7 @@ The post [Body camera footage shows how police responded when ICE called for hel
 
 ## [Police look for hit-and-run driver who rear-ended E-bike on PCH](https://lbpost.com/news/crime/police-look-for-hit-and-run-driver-who-rear-ended-e-bike-on-pch)
 
-via Long Beach Post · 2026-11-19, updated 2026-11-20
+via Long Beach Post · 2026-11-19, updated 2026-11-22
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/19125729/screenshot-2026-11-19-at-125654-pm-035148-mhbl9u5s-070382-T0ayGNZE.png)
 
@@ -62,7 +72,7 @@ The post [Police look for hit-and-run driver who rear-ended E-bike on PCH](https
 
 ## [LA County Sheriff Robert Luna estimates Olympics security will cost nearly $3B](https://lbpost.com/news/cost-of-olympic-security-taxpayers-sheriff)
 
-via Long Beach Post · 2026-11-19, updated 2026-11-20
+via Long Beach Post · 2026-11-19, updated 2026-11-22
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/19105359/robert-luna-scprbrightspotcdn-525418-dsbql9em-081811-Zdyit70S-1024x683.webp)
 
@@ -72,7 +82,7 @@ The post [LA County Sheriff Robert Luna estimates Olympics security will cost ne
 
 ## [Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases](https://lbpost.com/news/state/ai-kill-switch-openai-anthropic-california-governor)
 
-via Long Beach Post · 2026-11-19, updated 2026-11-20
+via Long Beach Post · 2026-11-19, updated 2026-11-22
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/19100541/092926-openai-ap-cm-923495-ytmefk6n-418847-QcfdlSyy-1024x683.webp)
 
@@ -82,7 +92,7 @@ The post [Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic rel
 
 ## [LBUSD says it can’t find anything wrong with classrooms where dozens of kids got sick](https://lbpost.com/news/education/mysterious-sickness-long-beach-unified-monroe)
 
-via Long Beach Post · 2026-11-19, updated 2026-11-20
+via Long Beach Post · 2026-11-19, updated 2026-11-22
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/10/16134801/monroe-exterior-078354-2cyudrco-637460-HDmfwaCf-1024x679.jpg)
 
@@ -186,7 +196,7 @@ The post [Carrying the Si Se Puede Spirit: Thousands Pay Respect to Dolores Huer
 
 ## [Ports of Long Beach, LA brace for strike that could paralyze most cargo movement](https://lbpost.com/news/business/trade-transportation/port-strike-when-negotiations-more-likely)
 
-via Long Beach Post · 2026-11-18, updated 2026-11-20
+via Long Beach Post · 2026-11-18, updated 2026-11-22
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/02151158/02nov26-think-bridge-027-851988-pgcuzihn-640572-QMHdBBLZ-1024x584.jpg)
 
@@ -196,7 +206,7 @@ The post [Ports of Long Beach, LA brace for strike that could paralyze most carg
 
 ## [Rep. Garcia targets Trump family and top officials in early steps toward promised investigations](https://lbpost.com/news/politics/rep-garcia-targets-trump-family-and-top-officials-in-early-steps-toward-promised-investigations)
 
-via Long Beach Post · 2026-11-18, updated 2026-11-20
+via Long Beach Post · 2026-11-18, updated 2026-11-22
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/04135119/04nov26-garcia-299-671099-qvjnptgj-169527-zrPImbCU-1024x747.jpg)
 
@@ -859,14 +869,4 @@ via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-01, upda
 By Matthew Robinson NORTH HOLLYWOOD –The Verdugo Hills Dons (VHS) are one of those teams in the Los Angeles City Section that one doesn’t hear much about. And that’s because \[…\]
 
 The post [Jered Smith Leads Verdugo Hills to 39-3 Conquest of Grant](https://sanfernandosun.com/2026/10/31/jered-smith-leads-verdugo-hills-to-39-3-conquest-of-grant/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [29,000 gallons of sewage spill in Belmont Shore, forcing city to close coastal waters](https://lbpost.com/news/health/sewage-spill-belmont-shore-second-street)
-
-via Long Beach Post · 2026-10-31, updated 2026-11-04
-
-![](https://img.lbpost.com/wp-content/uploads/2019/04/10120649/0122-Tide-11.jpg)
-
-The spill happened around 6:30 p.m. near Livingston Drive and Second Street, according to a statement from the city’s Health Department.
-
-The post [29,000 gallons of sewage spill in Belmont Shore, forcing city to close coastal waters](https://lbpost.com/news/health/sewage-spill-belmont-shore-second-street) appeared first on [Long Beach Post News](https://lbpost.com/news).
 
