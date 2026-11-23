@@ -1,14 +1,50 @@
 ---
 title: "Healthy Eats"
 description: "Healthy eats and good eats, with recipes, cooking and food news."
-pubDate: Sun, 22 Nov 2026 13:00:13 GMT
+pubDate: Mon, 23 Nov 2026 14:45:25 GMT
 aggregateOf: "food.md"
-dateModified: Sun, 22 Nov 2026 14:49:23 GMT
-itemCount: 303
+dateModified: Mon, 23 Nov 2026 14:48:14 GMT
+itemCount: 297
 generator: antenna/0.1.1
 ---
 
 # Healthy Eats
+
+## [White Bean Soup](https://www.chilipeppermadness.com/recipes/white-bean-soup/)
+
+via Chili Pepper Madness · 2026-11-23
+
+[![A large bowl filled with creamy Tuscan style White Bean Soup, garnished with chili flakes](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/White-Bean-Soup-Recipe-BOWL1-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/white-bean-soup/ "White Bean Soup")
+
+This white bean soup is a hearty Tuscan-style bowl of creamy cannellini beans, kale, garlic and rosemary, simmered in a savory broth and finished with lemon and Parmesan. Make it mild, or kick it up with Calabrian chilies.
+
+The post [White Bean Soup](https://www.chilipeppermadness.com/recipes/white-bean-soup/) appeared first on [Chili Pepper Madness](https://www.chilipeppermadness.com).
+
+## [Coffee News Club: November 23rd](https://freshcup.com/coffee-news-club-november-23rd/)
+
+via The Fresh Cup · 2026-11-23
+
+This year’s hottest coffee brewer is plastic-free. Plus, Fair Trade USA raises minimum prices, and the Starbucks Workers United boycott truck is on tour.
+
+The post [Coffee News Club: November 23rd](https://freshcup.com/coffee-news-club-november-23rd/) appeared first on [Fresh Cup](https://freshcup.com).
+
+## [Jalapeno and Cheddar Cornbread](https://www.closetcooking.com/jalapeno-and-cheddar-cornbread/)
+
+via Closet Cooking · 2026-11-23, updated 2026-11-22
+
+![](https://www.closetcooking.com/wp-content/uploads/2026/11/Jalapeno-and-Cheddar-Cornbread-1200-4784.jpg)
+
+A moist and tender cornbread with cheddar cheese and jalapenos! Cornbread is a great addition to a lot of meals and this cornbread is filled with spicy jalapenos and plenty of cheddar cheese. This is a pretty simple cornbread recipe with the notable differences being the use of creamed corn, which helps keep it nice...
+
+[Read On →](https://www.closetcooking.com/jalapeno-and-cheddar-cornbread/)
+
+The post [Jalapeno and Cheddar Cornbread](https://www.closetcooking.com/jalapeno-and-cheddar-cornbread/) appeared first on [Closet Cooking](https://www.closetcooking.com).
+
+## [Bon Appétit Pick: HelloFresh Garlicky Shrimp Couscous Bowl](https://www.bonappetit.com/story/hellofresh-garlicky-shrimp-couscous-bowl)
+
+via Bon Appetet · 2026-11-23
+
+A cheffy detail helps pack a simple dish with flavor.
 
 ## [A Cornucopia Of Coffee To Be Thankful For](https://sprudge.com/a-cornucopia-of-coffee-to-be-thankful-for-1654212.html)
 
@@ -16,9 +52,21 @@ via The Sprudge · 2026-11-22, updated 2026-11-20
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster's Village.**
 
+## [Thanksgiving Side Dish Recipes](https://www.closetcooking.com/thanksgiving-side-dishes/)
+
+via Closet Cooking · 2026-11-22
+
+![](https://www.closetcooking.com/wp-content/uploads/2026/11/Thanksgiving-Side-Dish-Recipes.jpg)
+
+The best Thanksgiving side dish recipes! A collection of essential and easy to make side dish recipes including the traditional stuffing or dressing, green bean casserole, sweet potato casserole and plenty of tasty new ideas to make your Thanksgiving unforgettable! Although the turkey is the star of the Thanksgiving meal, I find that I spend...
+
+[Read On →](https://www.closetcooking.com/thanksgiving-side-dishes/)
+
+The post [Thanksgiving Side Dish Recipes](https://www.closetcooking.com/thanksgiving-side-dishes/) appeared first on [Closet Cooking](https://www.closetcooking.com).
+
 ## [Aji de Gallina (Creamy Peruvian Chicken Stew)](https://www.chilipeppermadness.com/recipes/aji-de-gallina/)
 
-via Chili Pepper Madness · 2026-11-21
+via Chili Pepper Madness · 2026-11-21, updated 2026-11-23
 
 [![Aji de Gallina (Peruvian Chicken Stew) served in a bowl over rice, garnished with sliced hard boiled egg, sliced boiled potatoes, black olives, and parsley](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Aji-de-Gallina-Recipe2-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/aji-de-gallina/ "Aji de Gallina (Creamy Peruvian Chicken Stew)")
 
@@ -34,7 +82,7 @@ These fall-forward cookies are flavored with brown butter, pumpkin, cinnamon and
 
 ## [Thanksgiving Main Course Recipes](https://www.closetcooking.com/thanksgiving-mains-turkey/)
 
-via Closet Cooking · 2026-11-21
+via Closet Cooking · 2026-11-21, updated 2026-11-22
 
 ![](https://www.closetcooking.com/wp-content/uploads/2026/11/Thanksgiving-Main-Course-Recipes.jpg)
 
@@ -54,7 +102,7 @@ The post [I Tested 6 Popular Store-Bought Pumpkin Pies to Find the Best One for 
 
 ## [Extra-Fluffy Cinnamon Rolls](https://www.bonappetit.com/recipe/cinnamon-rolls-cream-cheese-frosting)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-22
+via Bon Appetet · 2026-11-20, updated 2026-11-23
 
 Come for the fluff; stay for the brown-butter-and-cinnamon-sugar filling.
 
@@ -82,7 +130,7 @@ via The Sprudge · 2026-11-20
 
 ## [37 Thanksgiving Cocktails and Drinks for Every Guest](https://www.bonappetit.com/gallery/cocktails/slideshow/thanksgiving-cocktails)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-22
+via Bon Appetet · 2026-11-20, updated 2026-11-23
 
 Big-batch punches, low-alcohol spritzes, and nightcaps worth staying up for.
 
@@ -102,7 +150,7 @@ via The Sprudge · 2026-11-20
 
 ## [The Maldon Salt Scandal, Explained](https://www.bonappetit.com/story/the-maldon-salt-scandal)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-22
+via Bon Appetet · 2026-11-20, updated 2026-11-23
 
 Plus, a new study on GLP-1s for kids, the case for cocktail brutalism, and more.
 
@@ -122,7 +170,7 @@ We took the [chocolate mousse pie recipe](https://www.tasteofhome.com/recipes/ch
 
 ## [Butter Mochi Cake With Maple-Miso Pecans](https://www.bonappetit.com/recipe/miso-and-maple-pecan-butter-mochi-cake)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-22
+via Bon Appetet · 2026-11-20, updated 2026-11-23
 
 Two beloved desserts combine in one delightfully chewy cake.
 
@@ -142,7 +190,7 @@ Rocket Introduces Modular Retail Concept With Chronic Coffee in Geneva Italian e
 
 ## [New Product: Bellwether’s Updated Shop Roaster Gets Rebuilt On The Inside and Out](https://freshcup.com/new-product-bellwethers-updated-shop-roaster-gets-rebuilt-on-the-inside-and-out/)
 
-via The Fresh Cup · 2026-11-20, updated 2026-11-18
+via The Fresh Cup · 2026-11-20, updated 2026-11-23
 
 Roasting coffee usually means vents, permits, and construction. Bellwether’s updated Shop Roaster model only needs a standard outlet.
 
@@ -150,19 +198,19 @@ The post [New Product: Bellwether’s Updated Shop Roaster Gets Rebuilt On The I
 
 ## [Sticky Miso Chicken and More Recipes We Made This Week](https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-november-2026)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-22
+via Bon Appetet · 2026-11-20, updated 2026-11-23
 
 Like a make-ahead lentil salad and apple snacking cake.
 
 ## [Sheet-Pan Cider Vinegar Chicken](https://www.bonappetit.com/recipe/sheet-pan-cider-vinegar-chicken)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-22
+via Bon Appetet · 2026-11-20, updated 2026-11-23
 
 A one-pan dinner for cozy fall evenings in.
 
 ## [The Most-Saved Recipes on Bon Appétit This Week](https://www.bonappetit.com/gallery/most-saved-recipes-november-2026)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-22
+via Bon Appetet · 2026-11-20, updated 2026-11-23
 
 Like green lentil soup and pumpkin overnight oats.
 
@@ -176,13 +224,13 @@ The post [10 Holiday Groceries Our Editors Are Stocking Up on This Year](https:/
 
 ## [BA's Best Lasagna](https://www.bonappetit.com/recipe/ba-best-lasagna)
 
-via Bon Appetet · 2026-11-19, updated 2026-11-22
+via Bon Appetet · 2026-11-19, updated 2026-11-23
 
 Layers of ragù and béchamel are all that’s right in this world.
 
 ## [9 Best Coffee Subscriptions, Reviewed & Reordered (2026)](https://www.bonappetit.com/story/best-coffee-subscriptions)
 
-via Bon Appetet · 2026-11-19, updated 2026-11-22
+via Bon Appetet · 2026-11-19, updated 2026-11-23
 
 Never run out of beans again.
 
@@ -218,7 +266,7 @@ The post [Is Pink Turkey Safe to Eat?](https://www.tasteofhome.com/article/is-pi
 
 ## [11 Leftover Turkey Sandwiches to Look Forward To](https://www.bonappetit.com/gallery/leftover-turkey-sandwiches)
 
-via Bon Appetet · 2026-11-19, updated 2026-11-22
+via Bon Appetet · 2026-11-19, updated 2026-11-23
 
 Objectively, the best part of a holiday roast is the overstuffed sandwich the next day.
 
@@ -238,13 +286,13 @@ When to start Padrón pepper seeds, when to plant them out, and when to pick the
 
 ## [How to Make Whipped Cream Perfectly, Every Time](https://www.bonappetit.com/story/how-to-make-whipped-cream)
 
-via Bon Appetet · 2026-11-19, updated 2026-11-22
+via Bon Appetet · 2026-11-19, updated 2026-11-23
 
 Soft peaks, stiff peaks, sweetened or not—and three ways to get there.
 
 ## [The Tucson Restaurant Turning Cactus Into Fine Dining](https://www.bonappetit.com/story/tucson-restaurant-ursa-desert-foraging-tasting-menu)
 
-via Bon Appetet · 2026-11-19, updated 2026-11-22
+via Bon Appetet · 2026-11-19, updated 2026-11-23
 
 At Ursa in Tucson, the Sonoran Desert is the pantry and inspiration for inventive meals full of foraged plants
 
@@ -266,7 +314,7 @@ Author and illustrator Wendra Lynne has released her second picture book, “The
 
 ## [Arabica Market Falls to Its Lowest Since June](https://freshcup.com/arabica-market-falls-to-its-lowest-since-june/)
 
-via The Fresh Cup · 2026-11-19, updated 2026-11-18
+via The Fresh Cup · 2026-11-19, updated 2026-11-23
 
 An election in Brazil, a weakened real against the dollar, and a strong harvest have pushed prices downward.
 
@@ -274,7 +322,7 @@ The post [Arabica Market Falls to Its Lowest Since June](https://freshcup.com/ar
 
 ## [Yangnyeom Sauce (Korean Fried Chicken Sauce)](https://www.chilipeppermadness.com/recipes/yangnyeom-sauce/)
 
-via Chili Pepper Madness · 2026-11-19, updated 2026-11-21
+via Chili Pepper Madness · 2026-11-19, updated 2026-11-23
 
 [![A spoonful of dark and spicy Homemade Yangnyeom Sauce (Korean Fried Chicken Sauce) being scooped from a serving bowl](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Yangnyeom-Sauce-Recipe2b-Korean-Fried-Chicken-Sauce-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/yangnyeom-sauce/ "Yangnyeom Sauce (Korean Fried Chicken Sauce)")
 
@@ -290,7 +338,7 @@ via The Sprudge · 2026-11-19, updated 2026-11-20
 
 ## [Maple-Sausage Breakfast Casserole](https://www.bonappetit.com/recipe/maple-sausage-breakfast-casserole)
 
-via Bon Appetet · 2026-11-19, updated 2026-11-22
+via Bon Appetet · 2026-11-19, updated 2026-11-23
 
 Eggy, cheesy, and just a smidge sweet, this will become your new brunch go-to.
 
@@ -304,7 +352,7 @@ The post [TASTE OF HOME 2026 VIRTUAL COOKIE EXCHANGE PROMOTION (# 353) Terms and
 
 ## [Crispy Parmesan Roast Sweet Potatoes](https://www.closetcooking.com/crispy-parmesan-roast-sweet-potatoes/)
 
-via Closet Cooking · 2026-11-19, updated 2026-11-21
+via Closet Cooking · 2026-11-19, updated 2026-11-22
 
 ![](https://www.closetcooking.com/wp-content/uploads/2026/11/Crispy-Parmesan-Roast-Sweet-Potatoes-1200-5789.jpg)
 
@@ -330,7 +378,7 @@ It takes just 25 minutes to make chicken broccoli Alfredo by combining veggies a
 
 ## [How We Brought a Taste of Maine to Bon Appétit LIVE](https://www.bonappetit.com/story/bon-appetit-live-2026-visit-maine-recap)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-22
+via Bon Appetet · 2026-11-18, updated 2026-11-23
 
 From shucking oysters and making creamy lobster dip to baking wild blueberry cornmeal shortcakes, here’s how Visit Maine brought New England flavor to the event.
 
@@ -344,7 +392,7 @@ The post [This Is the Best Way to Use Leftover Canned Pumpkin](https://www.taste
 
 ## [The Best Frozen Lasagna, According to Our Taste Test](https://www.bonappetit.com/story/the-best-frozen-lasagna-taste-test)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-22
+via Bon Appetet · 2026-11-18, updated 2026-11-23
 
 We tried nine store-bought lasagnas from Rao’s, Stouffer’s, Trader Joe’s, and more. These are the ones we’d stock in our freezers.
 
@@ -358,13 +406,13 @@ The post [The Secret to Better Gravy Is Already In Your Pantry](https://www.tast
 
 ## [The Best Air Fryers For Faster, Crispier Cooking (2026)](https://www.bonappetit.com/story/best-air-fryers-reviewed)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-22
+via Bon Appetet · 2026-11-18, updated 2026-11-23
 
 Here’s what our editors recommend for crunchy fries, crispy chicken skin, blistered veggies, and more.
 
 ## [31 Thanksgiving Dinner Alternatives to Turkey](https://www.bonappetit.com/gallery/alternative-thanksgiving-dinner)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-22
+via Bon Appetet · 2026-11-18, updated 2026-11-23
 
 Like pork inasal, stuffing-crusted fish, or a beautiful cabbage galette.
 
@@ -376,7 +424,7 @@ It will be a miracle if this colorful, festive and irresistibly sweet Hanukkah b
 
 ## [Red-Wine-Braised Short Ribs](https://www.bonappetit.com/recipe/red-wine-braised-short-ribs)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-22
+via Bon Appetet · 2026-11-18, updated 2026-11-23
 
 Tender, fall-off-the-bone beef ribs make any meal a special occasion.
 
@@ -404,7 +452,7 @@ Fair Trade USA is raising its minimum price for washed arabica coffee from $1.40
 
 ## [The Smile Test Will Tell You if Your Hospitality Training Works](https://freshcup.com/the-smile-test-will-tell-you-if-your-hospitality-training-works/)
 
-via The Fresh Cup · 2026-11-18
+via The Fresh Cup · 2026-11-18, updated 2026-11-23
 
 You can’t easily measure hospitality, but you can watch for it. The smile test shows you how quickly your guests warm up, and whether your training is working.
 
@@ -420,25 +468,25 @@ A new software platform called Roasting Partner opened to outside coffee roastin
 
 ## [Caramelized Cabbage Pasta](https://www.bonappetit.com/recipe/caramelized-cabbage-pasta)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-22
+via Bon Appetet · 2026-11-18, updated 2026-11-23
 
 The easiest way to cram an entire head of cabbage into dinner.
 
 ## [Hating Turkey Doesn’t Make You Cool](https://www.bonappetit.com/story/in-defense-of-turkey)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-22
+via Bon Appetet · 2026-11-18, updated 2026-11-23
 
 It’s called Turkey Day for a reason. Because it’s actually really good.
 
 ## [Best Cutting Boards for Slicing, Dicing, and Chopping (2026)](https://www.bonappetit.com/story/best-cutting-boards)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-22
+via Bon Appetet · 2026-11-17, updated 2026-11-23
 
 Wood, rubber, or plastic—we’ve got a recommendation for every home cook. Plus, tips for cleaning and caring for your board.
 
 ## [31 Cranberry Recipes for Thanksgiving and Beyond](https://www.bonappetit.com/gallery/cranberry-recipes)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-22
+via Bon Appetet · 2026-11-17, updated 2026-11-23
 
 Like cranberry-mustard chicken and an electric pink meringue pie.
 
@@ -452,7 +500,7 @@ The post [Is Cottage Cheese Good for You?](https://www.tasteofhome.com/article/i
 
 ## [Behind the Scenes of the Inaugural Bon Appétit LIVE](https://www.bonappetit.com/story/bon-appetit-live-2026-recap)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-22
+via Bon Appetet · 2026-11-17, updated 2026-11-23
 
 Top chefs, Test Kitchen editors, and passionate home cooks gathered for an unforgettable day of hands-on pie and lobster classes, tastings, and panels.
 
@@ -464,25 +512,25 @@ The best cities in the world for spicy food, from Chengdu to Nabeul to Espelette
 
 ## [Maple-Glazed Carrots](https://www.bonappetit.com/recipe/classic-roasted-carrots)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-22
+via Bon Appetet · 2026-11-17, updated 2026-11-23
 
 With their sweet-hot kick from maple syrup and red chile flakes, these oven-roasted carrots will have everyone asking for more.
 
 ## [The Best Cast-Iron Skillets for a Lifetime of Cooking (2026)](https://www.bonappetit.com/story/best-cast-iron-skillet)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-22
+via Bon Appetet · 2026-11-17, updated 2026-11-23
 
 Dependable, reliable, and virtually indestructible.
 
 ## [Listen to BA Bake Club's Podcast on Salt Bread](https://www.bonappetit.com/story/listen-to-ba-bake-clubs-podcast-on-salt-bread)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-22
+via Bon Appetet · 2026-11-17, updated 2026-11-23
 
 A viral sensation poses a fresh challenge for the Club as deputy food editor Hana Asbrink shares her salty, flaky, buttery recipe for the famous rolls.
 
 ## [BA's Best Pecan Pie](https://www.bonappetit.com/recipe/bas-best-pecan-pie)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-22
+via Bon Appetet · 2026-11-17, updated 2026-11-23
 
 No booze, no chocolate, no hard-to-find ingredients—just classic pecan pie.
 
@@ -502,13 +550,13 @@ While drinking coffee has been occasionally associated with reduced risk of Park
 
 ## [How to Blind-Bake Pie Crust—and When You Need To](https://www.bonappetit.com/story/how-to-blind-bake-pie-crust)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-22
+via Bon Appetet · 2026-11-17, updated 2026-11-23
 
 It’s time to erase “soggy bottom” from your vocabulary.
 
 ## [Naomi Hand Scrub Gets Rid of Garlic Smells and Softens Your Skin](https://www.bonappetit.com/story/naomi-hand-scrub-review)
 
-via Bon Appetet · 2026-11-17, updated 2026-11-22
+via Bon Appetet · 2026-11-17, updated 2026-11-23
 
 It feels like a little luxury (but is half the price of Aesop).
 
@@ -542,7 +590,7 @@ The best US cities for spicy food, sorted by the things we could check: a local 
 
 ## [New Product: The Hojicha Tea Latte Blend From Two Leaves and a Bud is Like Matcha, But Roasted](https://freshcup.com/new-product-the-hojicha-tea-latte-blend-from-two-leaves-and-a-bud-is-like-matcha-but-roasted/)
 
-via The Fresh Cup · 2026-11-17, updated 2026-11-18
+via The Fresh Cup · 2026-11-17, updated 2026-11-23
 
 Hojicha is gaining ground on U.S. menus. Two Leaves and a Bud’s new Hojicha Tea Latte Blend removes the guesswork of adding it to the menu, hot or iced.
 
@@ -670,7 +718,7 @@ via The Sprudge · 2026-11-16, updated 2026-11-19
 
 ## [Coffee News Club: November 16th](https://freshcup.com/coffee-news-club-november-16th/)
 
-via The Fresh Cup · 2026-11-16, updated 2026-11-18
+via The Fresh Cup · 2026-11-16, updated 2026-11-23
 
 Scientists create a filter to remove caffeine during brewing. Plus, arabica prices are falling, and Blueprint Coffee is returning tariff refunds to customers.
 
@@ -690,7 +738,7 @@ Air fryer brussels sprouts, adult mac and cheese, steamed sweet potatoes, and mo
 
 ## [Turkey Stuffing Meatballs and Gravy](https://www.closetcooking.com/turkey-stuffing-meatballs-and-gravy/)
 
-via Closet Cooking · 2026-11-16, updated 2026-11-21
+via Closet Cooking · 2026-11-16, updated 2026-11-22
 
 ![](https://www.closetcooking.com/wp-content/uploads/2026/11/Turkey-Stuffing-Meatballs-and-Gravy-1200-6062.jpg)
 
@@ -722,7 +770,7 @@ Like one-pan schmaltzy chicken and weeknight pasta with savory crumbs.
 
 ## [Thanksgiving Appetizer Recipes](https://www.closetcooking.com/thanksgiving-appetizers/)
 
-via Closet Cooking · 2026-11-15, updated 2026-11-21
+via Closet Cooking · 2026-11-15, updated 2026-11-22
 
 ![](https://www.closetcooking.com/wp-content/uploads/2026/11/Thanksgiving-Appetizer-Recipes.jpg)
 
@@ -848,7 +896,7 @@ via The Sprudge · 2026-11-13, updated 2026-11-17
 
 ## [Seeds of Change in Colombia’s Caldas Department](https://freshcup.com/seeds-of-change-in-colombias-caldas-department/)
 
-via The Fresh Cup · 2026-11-13, updated 2026-11-18
+via The Fresh Cup · 2026-11-13, updated 2026-11-23
 
 Forest Coffee’s Reforest program pays Colombian producers in Caldas a premium and supplies native tree seedlings while connecting them with specialty buyers.
 
@@ -934,7 +982,7 @@ Fiber and protein and carbs—oh my!
 
 ## [New Study Explains Why We Learn to Love Bitter Coffee](https://freshcup.com/new-study-explains-why-we-learn-to-love-bitter-coffee/)
 
-via The Fresh Cup · 2026-11-12, updated 2026-11-18
+via The Fresh Cup · 2026-11-12, updated 2026-11-23
 
 Researchers say a “slow” dopamine circuit connecting the gut and brain teaches us to link coffee’s bitter flavor with caffeine’s positive effects.
 
@@ -950,7 +998,7 @@ Kansas City, Missouri-based specialty coffee group FairWave Specialty Coffee Col
 
 ## [Baked Sweet Potatoes (Perfect Every Time + Spicy Toppings)](https://www.chilipeppermadness.com/recipes/baked-sweet-potatoes/)
 
-via Chili Pepper Madness · 2026-11-12, updated 2026-11-21
+via Chili Pepper Madness · 2026-11-12, updated 2026-11-23
 
 [![A creamy hot sweet potato slit open, releasing steam](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Baked-Sweet-Potatoes-Recipe1b-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/baked-sweet-potatoes/ "Baked Sweet Potatoes (Perfect Every Time + Spicy Toppings)")
 
@@ -972,7 +1020,7 @@ We’ve got cheesy brussels sprouts, gravy-braised turkey, and a stunning cranbe
 
 ## [Korean Braised Potatoes (Gamja Jorim)](https://www.closetcooking.com/korean-braised-potatoes-gamja-jorim/)
 
-via Closet Cooking · 2026-11-12, updated 2026-11-21
+via Closet Cooking · 2026-11-12, updated 2026-11-22
 
 ![](https://www.closetcooking.com/wp-content/uploads/2026/11/Korean-Braised-Potatoes-Gamja-Jorim-1200-0906.jpg)
 
@@ -1036,7 +1084,7 @@ The post [Walmart and Sam’s Club Just Dropped a Can’t-Miss Holiday Membershi
 
 ## [Cajun Turkey (Juicy, Injected & Oven-Roasted)](https://www.chilipeppermadness.com/recipes/cajun-turkey/)
 
-via Chili Pepper Madness · 2026-11-11, updated 2026-11-21
+via Chili Pepper Madness · 2026-11-11, updated 2026-11-23
 
 [![A roasted Cajun turkey on a serving platter, injected and rubbed with Cajun-spiced butter, ready to be carved](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Cajun-Turkey-Recipe1b-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/cajun-turkey/ "Cajun Turkey (Juicy, Injected & Oven-Roasted)")
 
@@ -1070,7 +1118,7 @@ Down mountains, from port to port, through cities and countless hands, coffee pa
 
 ## [Specialty Robusta and Mastering Seasonal Launches w/ Gabriel Shohet of Black Sheep Coffee](https://freshcup.com/specialty-robusta-and-mastering-seasonal-launches-w-gabriel-shohet-of-black-sheep-coffee/)
 
-via The Fresh Cup · 2026-11-11, updated 2026-11-18
+via The Fresh Cup · 2026-11-11, updated 2026-11-23
 
 Black Sheep Coffee’s co-founder on believing in robusta, launching seasonal drinks with conviction, and why opening-day influencer hype is a waste of money.
 
@@ -1078,7 +1126,7 @@ The post [Specialty Robusta and Mastering Seasonal Launches w/ Gabriel Shohet of
 
 ## [Smart Cafe Operators Know How to Borrow Ideas from Competitors](https://freshcup.com/smart-cafe-operators-know-how-to-borrow-ideas-from-competitors/)
 
-via The Fresh Cup · 2026-11-11, updated 2026-11-18
+via The Fresh Cup · 2026-11-11, updated 2026-11-23
 
 The coffee industry is a swirl of people inspiring each other. Here's how to borrow and iterate on great ideas without lazily copying them.
 
@@ -1284,7 +1332,7 @@ The post [The Porte + Hall Holiday Collection Is Here—And It’s the Most Prac
 
 ## [Brabant Potatoes (New Orleans Garlic Butter Potatoes)](https://www.chilipeppermadness.com/recipes/brabant-potatoes/)
 
-via Chili Pepper Madness · 2026-11-09, updated 2026-11-21
+via Chili Pepper Madness · 2026-11-09, updated 2026-11-23
 
 [![New Orleans Brabant Potatoes served in a bowl, garnished with fresh parsley](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Brabant-Potatoes-Recipe-BOWL3-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/brabant-potatoes/ "Brabant Potatoes (New Orleans Garlic Butter Potatoes)")
 
@@ -1316,7 +1364,7 @@ A bagna cauda-inspired pasta for the brave.
 
 ## [Chicken and Wild Rice Casserole](https://www.closetcooking.com/chicken-and-wild-rice-casserole/)
 
-via Closet Cooking · 2026-11-09, updated 2026-11-21
+via Closet Cooking · 2026-11-09, updated 2026-11-22
 
 ![](https://www.closetcooking.com/wp-content/uploads/2026/11/Chicken-and-Wild-Rice-Casserole-1200-0636.jpg)
 
@@ -1352,7 +1400,7 @@ Save this three-ingredient marinade for nights when you just can’t.
 
 ## [Thanksgiving Breakfast Recipes](https://www.closetcooking.com/thanksgiving-breakfast-recipes/)
 
-via Closet Cooking · 2026-11-08, updated 2026-11-21
+via Closet Cooking · 2026-11-08, updated 2026-11-22
 
 ![](https://www.closetcooking.com/wp-content/uploads/2026/11/Thanksgiving-Breakfast-Recipes.jpg)
 
@@ -1494,7 +1542,7 @@ The post [Announcing the Winners of Our Pie-Palooza Recipe Contest](https://www.
 
 ## [Creamy Jalapeño Popper Mac and Cheese](https://www.chilipeppermadness.com/recipes/creamy-jalapeno-popper-mac-and-cheese/)
 
-via Chili Pepper Madness · 2026-11-06, updated 2026-11-21
+via Chili Pepper Madness · 2026-11-06, updated 2026-11-23
 
 [![Indulge in a bowl of Jalapeno Popper Mac and Cheese, featuring creamy macaroni and cheese generously topped with sliced jalapeños, chopped bacon, and fresh green onions. A spoon rests inside the bowl, while a dark cloth is partially visible in the background.](https://www.chilipeppermadness.com/wp-content/uploads/2026/09/Jalapeno-Popper-Mac-and-Cheese-Recipe-BOWL2-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/creamy-jalapeno-popper-mac-and-cheese/ "Creamy Jalapeño Popper Mac and Cheese")
 
@@ -1608,7 +1656,7 @@ The iconic dip becomes a cheesy stuffing for these crispy skinned potatoes.
 
 ## [Pumpkin Ragu Bianco (Orange Bolognese Sauce)](https://www.closetcooking.com/pumpkin-ragu-bianco-orange-bolognese-sauce/)
 
-via Closet Cooking · 2026-11-05, updated 2026-11-21
+via Closet Cooking · 2026-11-05, updated 2026-11-22
 
 ![](https://www.closetcooking.com/wp-content/uploads/2026/11/Pumpkin-Ragu-Bianco-Orange-Bolognese-Sauce-1200-5736.jpg)
 
@@ -1886,7 +1934,7 @@ Mamdani and Hochul put their alliance on display at the Queens Night Market ahea
 
 ## [Carne Picada Recipe (Tex-Mex Steak Picado)](https://www.chilipeppermadness.com/recipes/carne-picada/)
 
-via Chili Pepper Madness · 2026-11-02, updated 2026-11-21
+via Chili Pepper Madness · 2026-11-02, updated 2026-11-23
 
 [![A bowl of thick and meaty carne picada served with tortillas, onions, and cilantro](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Carne-Picada-Recipe-Steak-Picado1-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/carne-picada/ "Carne Picada Recipe (Tex-Mex Steak Picado)")
 
@@ -1908,7 +1956,7 @@ Crisp on top, custardy underneath, and generous with the butter, this holiday ic
 
 ## [Broccoli Cheddar Soup (Thick, Creamy & Easy)](https://www.chilipeppermadness.com/recipes/broccoli-cheddar-soup/)
 
-via Chili Pepper Madness · 2026-11-02, updated 2026-11-21
+via Chili Pepper Madness · 2026-11-02, updated 2026-11-23
 
 [![A spoonful being take from a bowl filled with Broccoli Cheddar Soup, loaded with cheese and broccoli](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Broccoli-Cheddar-Soup-Recipe-SPOON-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/broccoli-cheddar-soup/ "Broccoli Cheddar Soup (Thick, Creamy & Easy)")
 
@@ -1964,7 +2012,7 @@ via The Sprudge · 2026-11-02, updated 2026-11-06
 
 ## [Ajiaco (Colombian Chicken and Potato Soup)](https://www.chilipeppermadness.com/recipes/ajiaco/)
 
-via Chili Pepper Madness · 2026-11-02, updated 2026-11-21
+via Chili Pepper Madness · 2026-11-02, updated 2026-11-23
 
 [![A bowl filled with chunky and creamy Ajiaco (Colombian Chicken and Potato Soup)](https://www.chilipeppermadness.com/wp-content/uploads/2026/10/Ajiaco-Recipe-BOWL2-Colombian-Chicken-and-Potato-Soup-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/ajiaco/ "Ajiaco (Colombian Chicken and Potato Soup)")
 
@@ -2065,78 +2113,4 @@ The post [Buffalo Chicken and White Bean Chili](https://www.closetcooking.com/bu
 via Taste of Home · 2026-11-02, updated 2026-11-09
 
 This egg-free brownie batter bark is quick and easy, and tastes just like brownie batter straight from the bowl.
-
-## [Azalea Cocktail](https://www.tasteofhome.com/recipes/azalea-cocktail/)
-
-via Taste of Home · 2026-11-01, updated 2026-11-07
-
-The Azalea cocktail is the signature bright pink, lemonade-and-vodka drink of the Masters Tournament, delivering spring and summer party refreshment.
-
-## [What Coffee Pairs Well With Leftover Halloween Candy?](https://sprudge.com/what-coffee-pairs-well-with-leftover-halloween-candy-1535407.html)
-
-via The Sprudge · 2026-11-01, updated 2026-11-06
-
-**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster's Village.**
-
-## [The Fatalii Pepper Planting Guide](https://pepperscale.com/fatalii-pepper-planting/)
-
-via Pepper Scale · 2026-11-01, updated 2026-11-19
-
-When to start fatalii pepper seeds, when to plant them out, how to grow them in a pot, and whether they'll ripen where you live, with a zip code planner built on NOAA frost data.
-
-## [November’s Bake Club Is a Triple Feature of Holiday Pies](https://www.bonappetit.com/story/bake-club)
-
-via Bon Appetet · 2026-11-01, updated 2026-11-05
-
-Shilpa and Jesse are here to make Thanksgiving dessert as easy as, well, you know.
-
-## [Salted Coffee Custard Pie](https://www.bonappetit.com/recipe/salted-coffee-custard-pie-recipe)
-
-via Bon Appetet · 2026-11-01, updated 2026-11-05
-
-Like a fine cappuccino, but make it pie. The big bonus here is the buttery oatmeal cookie crust—which requires zero pie weights during prebake.
-
-## [Bourbon Caramel Apple Pie](https://www.bonappetit.com/recipe/bourbon-caramel-apple-pie)
-
-via Bon Appetet · 2026-11-01, updated 2026-11-05
-
-Nothing beats a classic apple pie—well, maybe a bourbon caramel apple pie.
-
-## [Cranberry Meringue Pie](https://www.bonappetit.com/recipe/cranberry-meringue-pie)
-
-via Bon Appetet · 2026-11-01, updated 2026-11-04
-
-A tangy exclamation point to the holiday meal.
-
-## [A Diwali Menu That’s Full of Joy (and Sticky Chicken Wings)](https://www.bonappetit.com/story/rachel-gurjar-diwali-menu)
-
-via Bon Appetet · 2026-11-01, updated 2026-11-04
-
-Cookbook author Rachel Gurjar’s festive spread includes a sweet potato chaat and brûléed rice pudding.
-
-## [Slow Cooker Recipes](https://www.closetcooking.com/slow-cooker-recipes/)
-
-via Closet Cooking · 2026-11-01, updated 2026-11-21
-
-![](https://www.closetcooking.com/wp-content/uploads/2018/01/50-Slow-Cooker-Recipes.jpg)
-
-Who doesn?t love a slow cooker? I mean what’s not to love? You throw the ingredients in one in the morning and you have a meal waiting for you when you get home from work. In addition to cooking meals it’s great for keeping things warm, say at potluck?s, or dips at a party or...
-
-[Read On →](https://www.closetcooking.com/slow-cooker-recipes/)
-
-The post [Slow Cooker Recipes](https://www.closetcooking.com/slow-cooker-recipes/) appeared first on [Closet Cooking](https://www.closetcooking.com).
-
-## [‘Potluck with a Spin’ Recipe Contest Announcement](https://www.tasteofhome.com/article/potluck-with-a-spin-recipe-contest/)
-
-via Taste of Home · 2026-11-01, updated 2026-11-07
-
-We're ready to party! Share your potluck recipe that breaks the status quo between November 1 and January 31, 2027, for the chance to win $500!
-
-The post [‘Potluck with a Spin’ Recipe Contest Announcement](https://www.tasteofhome.com/article/potluck-with-a-spin-recipe-contest/) appeared first on [Taste of Home](https://www.tasteofhome.com).
-
-## [21 Easy Weeknight Dinners for November](https://www.bonappetit.com/gallery/easy-weeknight-dinner-recipes)
-
-via Bon Appetet · 2026-11-01, updated 2026-11-04
-
-Like creamy fondue beans, stuffing-crusted fish, and more cozy meals for chilly nights.
 

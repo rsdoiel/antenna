@@ -1,14 +1,22 @@
 ---
 title: "Craft"
 description: "Craft is a list of hand oriented craft and technology\nDo we really need all those power tools?"
-pubDate: Fri, 20 Nov 2026 19:43:10 GMT
+pubDate: Mon, 23 Nov 2026 14:34:03 GMT
 aggregateOf: "craft.md"
-dateModified: Sat, 21 Nov 2026 14:49:20 GMT
-itemCount: 38
+dateModified: Mon, 23 Nov 2026 14:49:51 GMT
+itemCount: 37
 generator: antenna/0.1.1
 ---
 
 # Craft
+
+## [ShopNotes Podcast Episode 293 — Personality: ACTIVATED](https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-293-personality-activated/)
+
+via Popular Woodworking · 2026-11-23
+
+![](https://media.popularwoodworking.com/app/uploads/2026/11/23093202/screenshot-2026-11-23-at-8.22.17am-1024x1024.png)What’s the secret to finding great vintage woodworking tools at antique stores? In ShopNotes Podcast Episode 293, Phil Huber, Logan Wittmer, and John Doyle talk about hunting for old hand...
+
+[Source](https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-293-personality-activated/)
 
 ## [Holiday Shipping Deadlines](https://blog.lostartpress.com/2026/11/20/holiday-shipping-deadlines/)
 
@@ -18,7 +26,7 @@ We have plenty to choose from when it comes to picking out a woodworking tool or
 
 ## [2026 Holiday Gift Guide for Woodworkers](https://www.popularwoodworking.com/article/2026-holiday-gift-guide-for-woodworkers/)
 
-via Popular Woodworking · 2026-11-20
+via Popular Woodworking · 2026-11-20, updated 2026-11-23
 
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/20130138/red-green-and-cream-vintage-classic-christmas-party-poster-1400-x-1120-px-1-1024x819.jpg)Welcome to the 2026 edition of the Popular Woodworking gift guide! Every year we round up a list of our favorite tools and accessories for woodworkers to help make shopping...
 
@@ -26,7 +34,7 @@ via Popular Woodworking · 2026-11-20
 
 ## [The Splinter Report: November 20th](https://www.popularwoodworking.com/editors-blog/the-splinter-report-november-20th/)
 
-via Popular Woodworking · 2026-11-20
+via Popular Woodworking · 2026-11-20, updated 2026-11-23
 
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/20135759/splinter-report-11-20-1024x768.jpg)Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re looking at lots of tool news, a...
 
@@ -34,7 +42,7 @@ via Popular Woodworking · 2026-11-20
 
 ## [My Robot Apprentice](https://www.popularwoodworking.com/editors-blog/my-robot-apprentice/)
 
-via Popular Woodworking · 2026-11-19, updated 2026-11-20
+via Popular Woodworking · 2026-11-19, updated 2026-11-23
 
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/19135607/maschinenmensch_in_a_screen_shot_from_the_metropolis_film-1024x771.jpg)Hopefully, the robots may hold us in high regard as the forefathers of robotic craftsmanship. I’m pretty good at writing woodworking how-to articles and books; actual teaching, not so much. I...
 
@@ -42,7 +50,7 @@ via Popular Woodworking · 2026-11-19, updated 2026-11-20
 
 ## [Teaching Live Edge (Part 4): Faceted Walnut and Finding the Right Stance](https://www.popularwoodworking.com/editors-blog/teaching-live-edge-part-4-faceted-walnut-and-finding-the-right-stance/)
 
-via Popular Woodworking · 2026-11-19, updated 2026-11-20
+via Popular Woodworking · 2026-11-19, updated 2026-11-23
 
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/17091115/gemini_generated_patricks-table-768x1024.jpeg)Not every student who walks into a live-edge workshop is starting from scratch. Patrick arrived at Snow Farm already an experienced hobbyist woodworker, eager to push beyond basic joinery and...
 
@@ -50,7 +58,7 @@ via Popular Woodworking · 2026-11-19, updated 2026-11-20
 
 ## [Lantern of Candlelight](https://www.popularwoodworking.com/projects/lantern-of-candlelight/)
 
-via Popular Woodworking · 2026-11-18, updated 2026-11-20
+via Popular Woodworking · 2026-11-18, updated 2026-11-23
 
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/17120730/aw173_lantern_1_opener-copy-1024x768.jpg)Six pieces of wood, a free weekend and a bit of ingenuity, lights your way in the night. During the civil War, soldiers didn’t have flashlights to light their paths...
 
@@ -64,7 +72,7 @@ The story behind “The Joiner & Cabinet Maker” is what keeps me digging throu
 
 ## [Woodpeckers In-Dexable Thin Rip Guide](https://www.popularwoodworking.com/toolreviews/woodpeckers-in-dexable-thin-rip-guide/)
 
-via Popular Woodworking · 2026-11-18, updated 2026-11-20
+via Popular Woodworking · 2026-11-18, updated 2026-11-23
 
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/18094725/newtools-2-copy-1024x768.jpg)Tool: In-Dexable Thin Rip Guide Shop Now Manufacturer: Woodpeckers MSRP: $59.99 Sometimes, a simple jig can turn a headache of a task into a straightforward one. Ripping the thin strips for the...
 
@@ -72,7 +80,7 @@ via Popular Woodworking · 2026-11-18, updated 2026-11-20
 
 ## [Laptop Riser](https://www.popularwoodworking.com/projects/laptop-riser/)
 
-via Popular Woodworking · 2026-11-17, updated 2026-11-20
+via Popular Woodworking · 2026-11-17, updated 2026-11-23
 
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/17105359/photo-1_img_9927_main-1024x768.jpg)Build a clean, modern stand that lifts your laptop—and your workflow. If you’re like me, your “laptop” doesn’t spend much time on your lap. Mine lived on my desk, tethered...
 
@@ -80,7 +88,7 @@ via Popular Woodworking · 2026-11-17, updated 2026-11-20
 
 ## [Double-Duty Edge Guide](https://www.popularwoodworking.com/tricks/double-duty-edge-guide/)
 
-via Popular Woodworking · 2026-11-17, updated 2026-11-20
+via Popular Woodworking · 2026-11-17, updated 2026-11-23
 
 ![](https://media.popularwoodworking.com/app/uploads/2020/10/aw_14512_008-1024x683.jpg)Instead of measuring for my circular saw’s offset each time I need to make a cut, I use a modified edge guide. I screwed two 3/4″ x 3/4″ x 12″...
 
@@ -88,7 +96,7 @@ via Popular Woodworking · 2026-11-17, updated 2026-11-20
 
 ## [ShopNotes Podcast Episode 292 — Church Shoe, Shop Shoe, Mowing Shoe](https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-292-church-shoe-shop-shoe-mowing-shoe/)
 
-via Popular Woodworking · 2026-11-16, updated 2026-11-20
+via Popular Woodworking · 2026-11-16, updated 2026-11-23
 
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/16120234/screenshot-2026-11-16-at-11.02.10am-1024x1024.png)Head to the Woodsmith website for more info about the projects they talk about in this episode. Find all of the ShopNotes podcast episodes here.
 
@@ -283,18 +291,4 @@ via Popular Woodworking · 2026-11-02, updated 2026-11-05
 ![](https://media.popularwoodworking.com/app/uploads/2026/10/30125752/screenshot-2026-10-30-at-11.56.36am-1024x1024.png)What’s the best inexpensive tool in your woodworking shop? And what’s one tool you splurged on that was worth every penny? In Episode 290 of the ShopNotes Podcast, Phil Huber,...
 
 [Source](https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-290-we-have-to-have-turbulence/)
-
-## [Online Extras December 2026 #292](https://www.popularwoodworking.com/online-extras/online-extras-december-2026-292/)
-
-via Popular Woodworking · 2026-11-01, updated 2026-11-04
-
-![](https://media.popularwoodworking.com/app/uploads/2026/11/02105610/c1_2604_cover_option4-1-1024x768.jpg)Here are the online extras for the December 2026 issue of Popular Woodworking Magazine. Interested in having the magazine delivered directly to your mailbox (physical or email) six times a...
-
-[Source](https://www.popularwoodworking.com/online-extras/online-extras-december-2026-292/)
-
-## [Free Shipping All November](https://blog.lostartpress.com/2026/11/01/free-shipping-all-november/)
-
-via Lost Arg Press blog · 2026-11-01, updated 2026-11-20
-
-We know our books costs good money (we think they are worth it). But we’ve held prices at current levels for more than four years now. And today we are offering free shipping on all domestic orders for the month of November. There is no code to copy. No special link or back-door access. Just...
 

@@ -1,18 +1,34 @@
 ---
 title: "GLAM"
 description: "Libraries, archives and museums."
-pubDate: Sat, 21 Nov 2026 17:48:12 GMT
+pubDate: Mon, 23 Nov 2026 10:30:49 GMT
 aggregateOf: "libraries.md"
-dateModified: Sun, 22 Nov 2026 14:50:42 GMT
-itemCount: 67
+dateModified: Mon, 23 Nov 2026 14:49:14 GMT
+itemCount: 69
 generator: antenna/0.1.1
 ---
 
 # GLAM
 
+## [Be Thankful for What You’ve Got](https://scholarlykitchen.sspnet.org/2026/11/23/be-thankful-for-what-youve-got/)
+
+via Scholarly Kitchen · 2026-11-23, updated 2026-11-22
+
+We are out of office for the US holiday, and to make up for it, we offer a fantastic cover of a classic soul song.
+
+The post [Be Thankful for What You’ve Got](https://scholarlykitchen.sspnet.org/2026/11/23/be-thankful-for-what-youve-got/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).
+
+## [Now Available Online: Proceedings of the Association for Library and Information Science Education (ALISE) Annual Conference, 2026](https://www.infodocket.com/2026/11/22/proceedings-of-the-association-for-library-and-information-science-education-alise-annual-conference-2026-now-available-online/)
+
+via Library Jounral · 2026-11-22
+
+The Proceedings of the ALISE Annual Conference, 2026 are now available online. Juried Papers (41) A Survey of North American Librarians’ Perceptions of and Experience with Artificial IntelligenceWilhelm Peekhaus (University of Wisconsin-Milwaukee)PDF Dwelling in the Threshold: Productive Liminality in the Design of Inquiry in Libraries and ArchivesDr. Laurie Bonnici (University of Alabama); Rebekah Cowell (University \[…\]
+
+The post [Now Available Online: Proceedings of the Association for Library and Information Science Education (ALISE) Annual Conference, 2026](https://www.infodocket.com/2026/11/22/proceedings-of-the-association-for-library-and-information-science-education-alise-annual-conference-2026-now-available-online/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).
+
 ## [Research Tools: University of Richmond Distant Viewing Lab Releases DataReel, a New AI Tool for Film Research](https://www.infodocket.com/2026/11/21/research-tools-university-of-richmond-distant-viewing-lab-releases-datareel-a-new-ai-tool-for-film-research/)
 
-via Library Jounral · 2026-11-21
+via Library Jounral · 2026-11-21, updated 2026-11-22
 
 From the University of Richmond: University of Richmond’s Distant Viewing Lab has released DataReel, a new open access, AI-powered tool that helps researchers analyze films. DataReel uses AI models to automatically capture data from over 2,000 films, presenting it in an interactive, visual format. It measures descriptions of scenes, the characters onscreen, shot length, framing \[…\]
 
@@ -20,7 +36,7 @@ The post [Research Tools: University of Richmond Distant Viewing Lab Releases Da
 
 ## [Shaping digital horizons together: IOI at UbuntuNet CONNECT 2026 in Malawi](https://investinopen.org/blog/shaping-digital-horizons-together-ioi-at-ubuntunet-connect-2026-in-malawi/)
 
-via Invest In Open · 2026-11-20
+via Invest In Open · 2026-11-20, updated 2026-11-23
 
 A recap of IOI's participation at UbuntuNet CONNECT 2026 in Lilongwe, Malawi
 
@@ -34,7 +50,7 @@ The post [Fall 2026](https://www.arl.org/our-priorities/diversity-equity-inclusi
 
 ## [AI Training is Copyright Infringement: What Publishers Need to Know about Thomson Reuters v ROSS Intelligence](https://scholarlykitchen.sspnet.org/2026/11/20/ai-training-is-copyright-infringement-what-publishers-need-to-know-about-thomson-reuters-v-ross-intelligence/)
 
-via Scholarly Kitchen · 2026-11-20
+via Scholarly Kitchen · 2026-11-20, updated 2026-11-22
 
 \[T\]he Third Circuit’s opinion supports the position that the more the AI is marketed as solving research challenges, the less transformative it becomes with respect to STM content.
 
@@ -221,7 +237,7 @@ The conversation continues with #Crossref2026 and on our [community forum](https
 
 ## [Before the Paper Goes](https://metaarchivist.substack.com/p/before-the-paper-goes)
 
-via The Meta Archivist blog · 2026-11-19, updated 2026-11-22
+via The Meta Archivist blog · 2026-11-19, updated 2026-11-23
 
 NARA’s new authority spares agencies from rescanning qualifying legacy records, but it can leave them holding the paper for years.
 
@@ -233,7 +249,7 @@ Workshop on Open Citations and Open Scholarly Metadata 2027 (WOOC 2027) 27–28 
 
 ## [Dr. Carla Hayden: “The Future of Libraries is About More Than Books”](https://www.infodocket.com/2026/11/19/dr-carla-hayden-the-future-of-libraries-is-about-more-than-books/)
 
-via Library Jounral · 2026-11-19, updated 2026-11-21
+via Library Jounral · 2026-11-19, updated 2026-11-22
 
 From a New Op/Ed by Dr. Carla Hayden on Time Magazine/Time.com: Historically, libraries have served as a crucial part of the cultural and civic infrastructure of the nation, responding to local needs and bringing the world to people of all ages. However, in many places today, libraries and library workers are under attack. These attacks \[…\]
 
@@ -241,7 +257,7 @@ The post [Dr. Carla Hayden: “The Future of Libraries is About More Than Books�
 
 ## [Guest Post — Building a Taxonomy of Bots](https://scholarlykitchen.sspnet.org/2026/11/19/guest-post-building-a-taxonomy-of-bots/)
 
-via Scholarly Kitchen · 2026-11-19, updated 2026-11-20
+via Scholarly Kitchen · 2026-11-19, updated 2026-11-22
 
 To tame the bots hitting scholarly platforms, we must first name them. Today’s post proposes a bot taxonomy to support the community’s need to measure robotic traffic.
 
@@ -321,7 +337,7 @@ We welcome comments, suggestions, and challenges to this report and our practice
 
 ## [The Return of the Hit Count in academic AI search? Not Quite.](https://aarontay.substack.com/p/the-return-of-the-hit-count-in-academic)
 
-via Aaron Tay's Musings about Librarianship · 2026-11-18, updated 2026-11-22
+via Aaron Tay's Musings about Librarianship · 2026-11-18, updated 2026-11-23
 
 Why hits shown in hybrid AI search such as JSTOR Dynamic Search or Consensus should not be treated the same as a traditional database Boolean hit count.
 
@@ -335,7 +351,7 @@ The post [From Framework to Action](https://sr.ithaka.org/blog/from-framework-to
 
 ## [Guest Post — African Knowledge Production in the Global North: The African Journals Initiative](https://scholarlykitchen.sspnet.org/2026/11/18/guest-post-african-knowledge-production-in-the-global-north-the-african-journals-initiative/)
 
-via Scholarly Kitchen · 2026-11-18, updated 2026-11-20
+via Scholarly Kitchen · 2026-11-18, updated 2026-11-22
 
 Today's guest post shares personal experiences with scholarly publishing in Africa from a recent graduate in publishing studies.
 
@@ -355,7 +371,7 @@ Check out all of the Future Knowledge episodes at [https://archive.org/details/f
 
 ## [The Seal and the Machine](https://metaarchivist.substack.com/p/the-seal-and-the-machine)
 
-via The Meta Archivist blog · 2026-11-17, updated 2026-11-22
+via The Meta Archivist blog · 2026-11-17, updated 2026-11-23
 
 From the seals of Prussian archives to the uncertain afterlife of digital trust
 
@@ -369,7 +385,7 @@ The post [How a Town’s Forgotten History Helped Protect Its Drinking Water](ht
 
 ## [AI is Reshaping the Role of Academic Librarians; Elsevier Releases Librarian of the Future Report](https://www.infodocket.com/2026/11/17/ai-is-reshaping-the-role-of-academic-librarians-elsevier-releases-librarian-of-the-future-report/)
 
-via Library Jounral · 2026-11-17, updated 2026-11-21
+via Library Jounral · 2026-11-17, updated 2026-11-22
 
 From an Elsevier News Release: Today, Elsevier shares findings from its global Librarian of the Future research, revealing how artificial intelligence (AI) and changing research needs are reshaping the role of academic librarians. Drawing on insights from 1,100 academic librarians across 88 countries, alongside interviews with researchers and academic leaders, the report reveals a profession \[…\]
 
@@ -377,7 +393,7 @@ The post [AI is Reshaping the Role of Academic Librarians; Elsevier Releases Lib
 
 ## [Just-in-Time Synthesis: A New Approach to an Old Genre](https://scholarlykitchen.sspnet.org/2026/11/17/just-in-time-synthesis/)
 
-via Scholarly Kitchen · 2026-11-17, updated 2026-11-20
+via Scholarly Kitchen · 2026-11-17, updated 2026-11-22
 
 A commissioned review article and a just-in-time generated overview answer the same reader need; what differs is how each is made and whether a reader can tell enough about it to trust it.​​​​
 
@@ -393,7 +409,7 @@ The post [ARL Daily Intelligence (November 16–19)](https://www.arl.org/daily-i
 
 ## [Report: “New Kickstarter Campaign Rethinks E-Book Ownership and Digital Lending”](https://www.infodocket.com/2026/11/16/report-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/)
 
-via Library Jounral · 2026-11-16, updated 2026-11-21
+via Library Jounral · 2026-11-16, updated 2026-11-22
 
 From TechCrunch: Here’s a big promise: A new Kickstarter campaign aims to usher in the “return of the human internet.” That’s the tagline of a crowdfunding campaign for The Phoenix Project, an initiative from the online culture and commentary magazine Flaming Hydra. If you back The Phoenix Project, you’re supporting three things — a one-off \[…\]
 
@@ -401,7 +417,7 @@ The post [Report: “New Kickstarter Campaign Rethinks E-Book Ownership and Digi
 
 ## [Guest Post — Beyond the Download: What Counts as Scholarly Content Use in the Age of AI?](https://scholarlykitchen.sspnet.org/2026/11/16/guest-post-beyond-the-download-what-counts-as-scholarly-content-use-in-the-age-of-ai/)
 
-via Scholarly Kitchen · 2026-11-16, updated 2026-11-20
+via Scholarly Kitchen · 2026-11-16, updated 2026-11-22
 
 New usage metrics are needed to represent AI assistants intermediating researchers and content. What should count, and what can those numbers tell us about the value of research?
 
@@ -409,7 +425,7 @@ The post [Guest Post — Beyond the Download: What Counts as Scholarly Content U
 
 ## [Defter helps manage your Zotero references](https://blog.front-matter.de/posts/defter-helps-manage-your-zotero-references/)
 
-via Front Matter Blog · 2026-11-16, updated 2026-11-19
+via Front Matter Blog · 2026-11-16, updated 2026-11-23
 
 Today I am announcing [defter](https://crates.io/crates/defter), a new Zotero sync and file storage server that complements [Zotero Storage](https://www.zotero.org/storage) with a hosted Zotero library using SQLite and S3-compatible object storage.
 
@@ -417,13 +433,13 @@ Today I am announcing [defter](https://crates.io/crates/defter), a new Zotero sy
 
 ## [Appraising Permanence, Sustaining the Promise](https://metaarchivist.substack.com/p/appraising-permanence-sustaining)
 
-via The Meta Archivist blog · 2026-11-15, updated 2026-11-22
+via The Meta Archivist blog · 2026-11-15, updated 2026-11-23
 
 What NARA’s appraisal process reveals about the distance between deciding that federal records should survive and ensuring that they can.
 
 ## [Report From Utah: Voters Just Ousted The Republican Representative Behind The State’s Sweeping School Book Ban Law](https://www.infodocket.com/2026/11/15/report-from-utah-voters-just-ousted-the-republican-representative-behind-the-states-sweeping-school-book-ban-law/)
 
-via Library Jounral · 2026-11-15, updated 2026-11-21
+via Library Jounral · 2026-11-15, updated 2026-11-22
 
 From The Salt Lake Tribune: The Republican representative behind Utah’s statewide school book ban law was ousted last week. Rep. Ken Ivory, R-West Jordan, lost his race against Democrat Drew Howells, who secured 58.11% of the vote as of Friday morning. Ivory received about 41.89%. He acknowledged the defeat in a recent Facebook post. Two \[…\]
 
@@ -431,7 +447,7 @@ The post [Report From Utah: Voters Just Ousted The Republican Representative Beh
 
 ## [Johns Hopkins University: Sheridan Libraries Launches New Digital Collections Site](https://www.infodocket.com/2026/11/14/johns-hopkins-university-sheridan-libraries-launches-new-digital-collections-site/)
 
-via Library Jounral · 2026-11-14, updated 2026-11-21
+via Library Jounral · 2026-11-14, updated 2026-11-22
 
 From JHSL: Now available at the click of a mouse: rare maps of Maryland dating as far back as the sixteenth century, the oral history of the Hopkins surgeon who implanted the first automatic defibrillator, records associated with Chinese indentured laborers in Cuba from 1855 to 1895, and much more. Johns Hopkins Sheridan Libraries is \[…\]
 
@@ -453,7 +469,7 @@ The post [Not About the Library](https://sr.ithaka.org/blog/not-about-the-librar
 
 ## [Schools, Health & Libraries Broadband (SHLB) Coalition Files Reply Comments Highlighting Overwhelming Support for E-Rate in FCC Record](https://www.infodocket.com/2026/11/13/schools-health-libraries-broadband-shlb-coalition-files-reply-comments-highlighting-overwhelming-support-for-e-rate-in-fcc-record/)
 
-via Library Jounral · 2026-11-13, updated 2026-11-21
+via Library Jounral · 2026-11-13, updated 2026-11-22
 
 Here’s the Full Text of a SHLB Statement Releases Today: The Schools, Health & Libraries Broadband (SHLB) Coalition filed reply comments with the Federal Communications Commission (FCC) in its review of the E-Rate program, pointing to the overwhelming support for E-Rate in the public record. SHLB’s filing notes that thousands of stakeholders submitted comments in \[…\]
 
@@ -461,7 +477,7 @@ The post [Schools, Health & Libraries Broadband (SHLB) Coalition Files Reply Com
 
 ## [The Anatomy of “Harm”: An Interview with IFRRO CEO Anita Huss-Ekerhult on AI and Copyright](https://scholarlykitchen.sspnet.org/2026/11/13/the-anatomy-of-harm-an-interview-with-ifrro-ceo-anita-huss-ekerhult-on-ai-and-copyright/)
 
-via Scholarly Kitchen · 2026-11-13, updated 2026-11-20
+via Scholarly Kitchen · 2026-11-13, updated 2026-11-22
 
 Across different creative sectors, existing studies point to measurable and, in some cases, already quantified economic and commercial harm. At the same time, a market for AI licensing is already an established and growing commercial reality and this is continually undermined by unauthorized use.
 
@@ -493,13 +509,13 @@ The post [Transfer Explorer Comes to Ohio](https://sr.ithaka.org/blog/transfer-e
 
 ## [Who Will Keep the Archive?](https://metaarchivist.substack.com/p/who-will-keep-the-archive)
 
-via The Meta Archivist blog · 2026-11-12, updated 2026-11-22
+via The Meta Archivist blog · 2026-11-12, updated 2026-11-23
 
 From Copenhagen to the DPC's workforce research, a question about the human infrastructure of preservation.
 
 ## [Digital Humanities Research Infrastructures: An Interview with Barbara McGillivray](https://scholarlykitchen.sspnet.org/2026/11/12/digital-humanities-research-infrastructures-an-interview-with-barbara-mcgillivray/)
 
-via Scholarly Kitchen · 2026-11-12, updated 2026-11-20
+via Scholarly Kitchen · 2026-11-12, updated 2026-11-22
 
 An interview with Barbara McGillivray about the Journal of Open Humanities Data, which “features peer reviewed publications describing humanities data or techniques with high potential for reuse.”
 
@@ -507,7 +523,7 @@ The post [Digital Humanities Research Infrastructures: An Interview with Barbara
 
 ## [University Presses Unite as AI and Financial Pressures Threaten Scholarly Publishing (Launch of University Press Charter)](https://www.infodocket.com/2026/11/11/university-presses-unite-as-ai-and-financial-pressures-threaten-scholarly-publishing-launch-of-university-press-charter/)
 
-via Library Jounral · 2026-11-12, updated 2026-11-21
+via Library Jounral · 2026-11-12, updated 2026-11-22
 
 From a Joint Statement (Full Text): The University Press Charter unites university presses for the first time behind a commitment to shape a better future for scholarly publishing, at a time when trust, quality and public value-for-money are under threat. Launched during University Press Week (9-13 November), the Charter has been founded by seven university \[…\]
 
@@ -523,7 +539,7 @@ The post [Supporting Veterans as Adult Learners](https://sr.ithaka.org/blog/supp
 
 ## [Guest Post — The Hidden Work of Integrating Scholarly Publishing](https://scholarlykitchen.sspnet.org/2026/11/11/guest-post-the-hidden-work-of-integrating-scholarly-publishing/)
 
-via Scholarly Kitchen · 2026-11-11, updated 2026-11-20
+via Scholarly Kitchen · 2026-11-11, updated 2026-11-22
 
 As scholarly publishing becomes increasingly interconnected, are we paying enough attention to its operational sustainability?
 
@@ -531,7 +547,7 @@ The post [Guest Post — The Hidden Work of Integrating Scholarly Publishing](ht
 
 ## [Who Decides What the AI Sees?​](https://aarontay.substack.com/p/who-decides-what-the-ai-sees)
 
-via Aaron Tay's Musings about Librarianship · 2026-11-11, updated 2026-11-22
+via Aaron Tay's Musings about Librarianship · 2026-11-11, updated 2026-11-23
 
 The Third Discovery War: From Federated Search and Central Indexes to MCP and Agentic AI​
 
@@ -545,7 +561,7 @@ The post [Keystone Comeback Launches, Helping Adult Learners Return to College A
 
 ## [2026 AI100 Report Released: (AI Goes Mainstream: The Scaling Era and the Rise of Generative AI; New From Stanford )](https://www.infodocket.com/2026/11/10/2026-ai100-report-released-ai-goes-mainstream-the-scaling-era-and-the-rise-of-generative-ai-new-from-stanford/)
 
-via Library Jounral · 2026-11-10, updated 2026-11-21
+via Library Jounral · 2026-11-10, updated 2026-11-22
 
 From a Stanford University Human-Centered Artificial Intelligence (HAI) Post/Summary: The One Hundred Year Study on Artificial Intelligence, known as AI100, released its third report, painting a striking picture of a technology transforming nearly every corner of human society faster than anyone anticipated. Launched in 2014 with an endowment from Eric and Mary Horvitz, AI100 is \[…\]
 
@@ -561,7 +577,7 @@ The post [2027 Public Domain Film Contest: The Internet Archive is Looking For C
 
 ## [Libraries, Publishers, and the Users We Both Serve](https://scholarlykitchen.sspnet.org/2026/11/10/ai-and-the-users-we-serve/)
 
-via Scholarly Kitchen · 2026-11-10, updated 2026-11-20
+via Scholarly Kitchen · 2026-11-10, updated 2026-11-22
 
 Libraries and publishers can claim agency in the AI age by once again investigating and deeply understanding how our users work.
 
@@ -607,7 +623,7 @@ CORE has become a not-for-profit legal entity dedicated to CORE’s mission. We 
 
 ## [Guest Post — We Have Enough Declarations. Now What? A Critique from Inside Diamond OA](https://scholarlykitchen.sspnet.org/2026/11/09/guest-post-we-have-enough-declarations-now-what-a-critique-from-inside-diamond-oa/)
 
-via Scholarly Kitchen · 2026-11-09, updated 2026-11-20
+via Scholarly Kitchen · 2026-11-09, updated 2026-11-22
 
 The Diamond OA community has built a declaration machine that runs in parallel with the under-resourced publishing machine it claims to serve, and the gap between them grows wider with every new communiqué.
 
@@ -615,7 +631,7 @@ The post [Guest Post — We Have Enough Declarations. Now What? A Critique from 
 
 ## [The Context We Carry Forward](https://metaarchivist.substack.com/p/the-context-we-carry-forward)
 
-via The Meta Archivist blog · 2026-11-08, updated 2026-11-22
+via The Meta Archivist blog · 2026-11-08, updated 2026-11-23
 
 Remembering Stephen Clarke, one year on, and the unfinished possibilities of epidata
 
@@ -629,7 +645,7 @@ The post [New Journal Article: Large Language Model Developments](https://www.in
 
 ## [Ask the Technology Providers: Our Charleston Conversation](https://scholarlykitchen.sspnet.org/2026/11/06/ask-the-technology-providers-our-charleston-conversation/)
 
-via Scholarly Kitchen · 2026-11-06, updated 2026-11-20
+via Scholarly Kitchen · 2026-11-06, updated 2026-11-22
 
 Did you miss us at Charleston this week? Never fear, here are some highlights from our TSK panel discussion with three of our esteemed guest bloggers.
 
@@ -645,7 +661,7 @@ The post [On the Road with RADS: Building One Front Door for Data Management and
 
 ## [Rogue Scholar no longer registers concept DOIs for each post](https://blog.front-matter.de/posts/rogue-scholar-no-longer-registers-concept-dois-for-each-post/)
 
-via Front Matter Blog · 2026-11-05, updated 2026-11-19
+via Front Matter Blog · 2026-11-05, updated 2026-11-23
 
 Starting this Monday November 3rd the Rogue Scholar science blog archive stopped registering concept DOIs for new blog posts, i.e. two DOIs for each post.
 
@@ -659,7 +675,7 @@ The post [CBC Report: University Libraries are Being Swarmed by AI Bots, Putting
 
 ## [Guest Post — What AI Can’t Learn About Peer Review… Because Nobody Can Explain It](https://scholarlykitchen.sspnet.org/2026/11/05/guest-post-what-ai-cant-learn-about-peer-review-because-nobody-can-explain-it/)
 
-via Scholarly Kitchen · 2026-11-05, updated 2026-11-20
+via Scholarly Kitchen · 2026-11-05, updated 2026-11-22
 
 What might be lost if we automate a task without first fully understanding the expertise behind it?
 
@@ -679,7 +695,7 @@ On 27 October, the Bodleian Libraries hosted a community workshop at the Univers
 
 ## [From AI Adoption to AI Practice: Building Governed AI in Scholarly Publishing](https://scholarlykitchen.sspnet.org/2026/11/04/from-ai-adoption-to-ai-practice-building-governed-ai-in-scholarly-publishing/)
 
-via Scholarly Kitchen · 2026-11-04, updated 2026-11-20
+via Scholarly Kitchen · 2026-11-04, updated 2026-11-22
 
 How can a publisher make AI useful across the organization while keeping control of confidential information, editorial decisions, and accountability?
 
@@ -713,7 +729,7 @@ The post [Company News: Cambridge University Press, Johns Hopkins University Pre
 
 ## [The Context Behind the Answer](https://metaarchivist.substack.com/p/the-context-behind-the-answer)
 
-via The Meta Archivist blog · 2026-11-03, updated 2026-11-22
+via The Meta Archivist blog · 2026-11-03, updated 2026-11-23
 
 Reference, Description, and the Provenance of AI-Generated Knowledge
 
@@ -733,7 +749,7 @@ The post [Company News: Oxford University Press Launches MCP Pilot; Partners Inc
 
 ## [Guest Post — What Accessibility at Scale Actually Requires of Academic Publishers](https://scholarlykitchen.sspnet.org/2026/11/03/what-accessibility-at-scale-actually-requires-of-academic-publishers/)
 
-via Scholarly Kitchen · 2026-11-03, updated 2026-11-20
+via Scholarly Kitchen · 2026-11-03, updated 2026-11-22
 
 How can publishers move past the regulatory overview for accessibility compliance and into the production reality after sitting on decades of archived content, posts, and data.
 

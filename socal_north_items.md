@@ -1,14 +1,26 @@
 ---
 title: "SoCal North"
 description: "News and posts related to the greater North Los Angeles and adjacent counties.\n"
-pubDate: Sat, 21 Nov 2026 18:51:31 GMT
+pubDate: Mon, 23 Nov 2026 13:00:00 GMT
 aggregateOf: "socal_north.md"
-dateModified: Sun, 22 Nov 2026 14:31:52 GMT
-itemCount: 300
+dateModified: Mon, 23 Nov 2026 14:30:23 GMT
+itemCount: 297
 generator: antenna/0.1.1
 ---
 
 # SoCal North
+
+## [The 2026 election is (mostly) over. What do you want LAist to track?](https://laist.com/news/politics/voter-guides/the-2026-election-is-mostly-over-what-do-you-want-laist-to-track)
+
+via The LAist · 2026-11-23
+
+Here’s how you can help hold our elected officials accountable.
+
+## [What Metro is studying for a potential rail maintenance facility in Sherman Oaks](https://thesource.metro.net/what-metro-is-studying-for-a-potential-rail-maintenance-facility-in-sherman-oaks/)
+
+via The Source MTA blog · 2026-11-23
+
+![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/24-1299_Alternative5_mod_IOS-scaled-1.jpg?fit=1124%2C1200&ssl=1)If you’ve been on your socials or following the news this week, you’ve probably heard that Metro is looking at a site that partly includes the parking lots by Westfield Fashion Square mall in Sherman Oaks as a possible location for a rail maintenance facility. Many of you have told us clearly that you oppose \[…\]
 
 ## [Thousands of mixed-status California families to lose housing under Trump HUD rule](https://laist.com/news/housing-homelessness/thousands-of-mixed-status-california-families-to-lose-housing-under-trump-hud-rule)
 
@@ -22,17 +34,17 @@ via The LAist · 2026-11-21, updated 2026-11-22
 
 Councilmember Gloria Gray first floated the audit proposal in October when the Inglewood City Council launched a separate stadium tax audit.
 
+## [An Arcadia restorer is reviving Bob Hope’s nativity set. Here's where to see it](https://laist.com/news/los-angeles-activities/bob-hope-nativity-restoration)
+
+via The LAist · 2026-11-21, updated 2026-11-22
+
+After spending decades outdoors, the 17 figures had dry rot, faded paint and a moldy donkey. They return to downtown L.A. in December.
+
 ## [Born after the Eaton Fire, Backyard Party opens a permanent music venue for teens in Pasadena](https://laist.com/news/los-angeles-activities/backyard-party-pasadena-permanent-home-2026)
 
 via The LAist · 2026-11-21
 
 The all-ages, alcohol-free space is committed to keeping ticket prices low and making sure the young bands are paid.
-
-## [An Arcadia restorer is reviving Bob Hope’s nativity set — and looking for its missing angel](https://laist.com/news/los-angeles-activities/bob-hope-nativity-restoration)
-
-via The LAist · 2026-11-21
-
-After spending decades outdoors, the 17 figures had dry rot, faded paint and a moldy donkey. They return to downtown L.A. in December.
 
 ## [Grammy-winning musician Silvana Estrada to program Latin music at the LA Phil](https://laist.com/news/arts-and-entertainment/grammy-winning-musician-silvana-estrada-to-program-latin-music-at-the-la-phil)
 
@@ -174,7 +186,7 @@ The post [ICE Watch: Remembering the Summer ICE Took the Parents of Two San Dieg
 
 ## [Go Metro to the LA Auto Show and the best fall events in Los Angeles: November 20-22](https://thesource.metro.net/go-metro-to-the-la-auto-show-and-the-best-fall-events-in-los-angeles-november-20-22/)
 
-via The Source MTA blog · 2026-11-20, updated 2026-11-21
+via The Source MTA blog · 2026-11-20, updated 2026-11-23
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/2G3A3068-copy-scaled.jpg?fit=1200%2C800&ssl=1)The LA Auto Show rolls into the Convention Center, USC hosts Maryland at the Coliseum, and women’s college hoops makes its Intuit Dome debut. The Lakers and Chargers are home too, and Long Beach keeps its monthly party going on The Promenade. Skip the parking hunt and let Metro drive. Here’s what’s happening. All Weekend \[…\]
 
@@ -376,7 +388,7 @@ One of LA’s oldest restaurants reopens with a new menu, new owners and the sam
 
 ## [You’re Invited to the 11th Annual Union Station Tree Lighting](https://thesource.metro.net/youre-invited-to-the-11th-annual-union-station-tree-lighting/)
 
-via The Source MTA blog · 2026-11-18, updated 2026-11-21
+via The Source MTA blog · 2026-11-18, updated 2026-11-23
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/image-1.png?fit=936%2C624&ssl=1)The 11th Annual Tree Lighting Ceremony will take place on Thursday, November 19, from 6 p.m. to 8 p.m. in Union Station’s historic Ticket Concourse, kicking off the holiday season.   Hosted by Charles Phoenix, the event will feature live musical performances from Mariachi Ausente and Lizzy & the Triggermen presented by Metro Art. Santa and \[…\]
 
@@ -516,7 +528,7 @@ Leonard Redway, Inglewood City Council District 1 candidate, must stay 100 yards
 
 ## [Vandenberg hosts 2026 Fall Job Fair](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649605/vandenberg-hosts-2026-fall-job-fair/)
 
-via Vandenberg Base News · 2026-11-17, updated 2026-11-22
+via Vandenberg Base News · 2026-11-17, updated 2026-11-23
 
 Attendees explore career opportunities during the Fall Job Fair at the Pacific Coast Center at Vandenberg Space Force Base, California, Nov. 16, 2026.
 
@@ -582,7 +594,7 @@ The U.S. Supreme Court denied the Trump administration’s appeal of lower court
 
 ## [Sentinel Stage Processing Facility Ribbon Cutting Ceremony at Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649455/sentinel-stage-processing-facility-ribbon-cutting-ceremony-at-vandenberg-space/)
 
-via Vandenberg Base News · 2026-11-16, updated 2026-11-22
+via Vandenberg Base News · 2026-11-16, updated 2026-11-23
 
 The recently completed facility will serve as a hub for processing and testing components for the next-generation Sentinel weapon system ribbon cutting ceremony held at Vandenberg Space Force Base, California, Nov. 5, 2026.
 
@@ -606,7 +618,7 @@ The post [Gather Around the Table for Santa Clarita’s Thanksgiving Community D
 
 ## [Draft Environmental Document now available for I-405 Sepulveda Pass ExpressLanes project](https://thesource.metro.net/draft-environmental-document-now-available-for-i-405-sepulveda-pass-expresslanes-project/)
 
-via The Source MTA blog · 2026-11-16, updated 2026-11-21
+via The Source MTA blog · 2026-11-16, updated 2026-11-23
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/Sepulveda-ExpressLanes-edited.jpg?fit=1082%2C1131&ssl=1)Update: the public comment period has been extended and is through Feb. 2, 2027. Weary of gridlock and soul-sucking traffic on the 405 through the Sepulveda Pass? We’re studying ways to move people more efficiently on the 405 as part of our I-405 Sepulveda Pass ExpressLanes Project. The slides below show the project options under \[…\]
 
@@ -674,7 +686,7 @@ The post [Stalled Offensive Drives, Rain, Flat Defense, Plague Birmingham in 36-
 
 ## [UNARMED MINUTEMAN III ICBM TEST LAUNCH SCHEDULED AT VANDENBERG SPACE FORCE BASE](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4648574/unarmed-minuteman-iii-icbm-test-launch-scheduled-at-vandenberg-space-force-base/)
 
-via Vandenberg Base News · 2026-11-14, updated 2026-11-22
+via Vandenberg Base News · 2026-11-14, updated 2026-11-23
 
 An operational test launch of an Air Force Global Strike Command unarmed Minuteman III intercontinental ballistic missile is scheduled between 11:01 p.m. Pacific Time, Nov. 17, and 5:01 a.m. Pacific Time, Nov.18, from the northern portion of the installation.
 
@@ -840,7 +852,7 @@ As online classes proliferate, community college professors have found a hack �
 
 ## [Go Metro to Camp Flog Gnaw and the best fall events in Los Angeles: November 13-15](https://thesource.metro.net/go-metro-to-camp-flog-gnaw-and-the-best-fall-events-in-los-angeles-november-13-15/)
 
-via The Source MTA blog · 2026-11-12, updated 2026-11-21
+via The Source MTA blog · 2026-11-12, updated 2026-11-23
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/799308283_1630785628403621_4173385629581106395_n.jpg?fit=1200%2C800&ssl=1)Space Shuttle Endeavour gets its permanent home, Tyler, the Creator throws his carnival at Dodger Stadium and Pasadena closes its streets to cars for CicLAvia. It’s a big weekend, and Metro can get you to all of it without a parking headache. Here’s what’s happening. All Weekend Camp Flog Gnaw takes over the Dodger Stadium \[…\]
 
@@ -1074,7 +1086,7 @@ The century-old diner brings back its pancakes and coleslaw, plus new dishes lik
 
 ## [Solvang holds 2026 Veterans Day observance with support of Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4646630/solvang-holds-2026-veterans-day-observance-with-support-of-vandenberg-space-for/)
 
-via Vandenberg Base News · 2026-11-11, updated 2026-11-22
+via Vandenberg Base News · 2026-11-11, updated 2026-11-23
 
 U.S. Space Force Chief Master Sgt. Shannan Sanchez, Space Launch Delta 30 command senior enlisted leader, delivered the keynote address during a Veterans Day ceremony at the Solvang Veterans Memorial Hall in Solvang, California, Nov. 11, 2026.
 
@@ -1168,7 +1180,7 @@ Those in Little Bangladesh say they are often ignored, but Raman spent time list
 
 ## [Not Just Child’s Play: Space Force Technicians Assist Children’s Museum with Restoration Project](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4646428/not-just-childs-play-space-force-technicians-assist-childrens-museum-with-resto/)
 
-via Vandenberg Base News · 2026-11-10, updated 2026-11-22
+via Vandenberg Base News · 2026-11-10, updated 2026-11-23
 
 After painstaking restoration, a museum’s interactive recycling display recently whirred back to life thanks to the technicians of the 30th Operations Support Squadron’s Training Device Design and Engineering Center at Vandenberg Space Force Base.
 
@@ -1286,7 +1298,7 @@ Massie said the secretary’s actions amount to “high crimes and misdemeanors�
 
 ## [New Metro Art “Through the Eyes of Artists” poster celebrates Tujunga](https://thesource.metro.net/new-metro-art-through-the-eyes-of-artists-poster-celebrates-tujunga/)
 
-via The Source MTA blog · 2026-11-09, updated 2026-11-21
+via The Source MTA blog · 2026-11-09, updated 2026-11-23
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/26-0384_obp_tujunga_tte_28x11_viewing-1-scaled.jpeg?fit=1200%2C471&ssl=1)Metro Art has released the latest onboard neighborhood poster in the popular Through the Eyes of Artists series, celebrating the foothills neighborhood of Tujunga, and it can now be enjoyed across Metro buses and trains. For over 20 years, the series has showcased the cities and neighborhoods that Metro serves from the unique perspective of \[…\]
 
@@ -1408,7 +1420,7 @@ School enrollment was already expected to plunge by 2 million kids by 2030.
 
 ## [Piece by piece: Celebrating progress on the proposed E Line extension](https://thesource.metro.net/piece-by-piece-celebrating-progress-on-the-proposed-e-line-extension/)
 
-via The Source MTA blog · 2026-11-06, updated 2026-11-21
+via The Source MTA blog · 2026-11-06, updated 2026-11-23
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/eastside-map-1.png?fit=958%2C497&ssl=1)Residents, community partners and local leaders came together Friday morning in East LA to celebrate the years of collaboration behind the proposed E Line extension from East Los Angeles to Montebello and, eventually, Whittier. The giant puzzle in the video above represents that shared effort to help advance the project toward construction. Known as the \[…\]
 
@@ -1482,7 +1494,7 @@ Republican Sonja Shaw conceded the race for California Superintendent of Public 
 
 ## [Go Metro to Corita Day Festival and the best fall events in Los Angeles: November 6-8](https://thesource.metro.net/go-metro-to-corita-day-festival-and-the-best-fall-events-in-los-angeles-november-6-8/)
 
-via The Source MTA blog · 2026-11-06, updated 2026-11-21
+via The Source MTA blog · 2026-11-06, updated 2026-11-23
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/DJI_20260830170121_0008_D-scaled.jpg?fit=1200%2C800&ssl=1)November opens with a mix of art, music and sports across Los Angeles. Corita Day Festival fills the SCI-Arc campus in Little Tokyo with art-making and live music, Self Help Graphics celebrates its 53rd Día de los Muertos in Boyle Heights, and the Lakers, Kings, Chargers, and Clippers are all home. Metro can get you \[…\]
 
@@ -2031,40 +2043,4 @@ Councilmember Heather Hutt’s office says the city plans to add 65 public trash
 via The LAist · 2026-11-02, updated 2026-11-03
 
 California Faculty Association members have until Nov. 19 to authorize a strike.
-
-## [Metro Books gives riders free reads on trains and buses](https://thesource.metro.net/metro-books-gives-riders-free-reads-on-trains-and-buses/)
-
-via The Source MTA blog · 2026-11-01, updated 2026-11-21
-
-![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/10/MB_ComicBook_SM14-scaled.jpg?fit=1200%2C900&ssl=1)Want to swap your phone for a good book on your next ride? A new nonprofit, Metro Books, is making it easy. Founded in January by Flinder Boyd, Metro Books hands out free books to riders at stations and on buses and trains. The goal is to get people to look up from their screens \[…\]
-
-## [Sunday Taquitos #36: The End Is Near](https://lataco.com/sunday-taquitos-36-the-end-is-near)
-
-via L. A. Taco · 2026-11-01, updated 2026-11-04
-
-Sunday Taquitos! Art by Pulitzer Prize Finalist Ivan Ehlers.
-
-The post [Sunday Taquitos #36: The End Is Near](https://lataco.com/sunday-taquitos-36-the-end-is-near) appeared first on [L.A. TACO](https://lataco.com).
-
-## [Over 40% of names on DOJ list of alleged noncitizens are not on Calif. voter rolls, UCLA finds](https://laist.com/news/politics/over-40-of-names-on-doj-list-of-alleged-noncitizens-are-not-on-calif-voter-rolls-ucla-finds)
-
-via The LAist · 2026-11-01
-
-The contention was made in a filing by two data analysts at the University of California, Los Angeles.
-
-## [At this North Hollywood bar, karaoke is a competitive sport](https://laist.com/news/los-angeles-activities/los-angeles-karaoke-league-north-hollywood)
-
-via The LAist · 2026-11-01, updated 2026-11-09
-
-Weekly themed showdowns give singers a chance to get creative and find community, something actors navigating Hollywood’s slowdown say they crave.
-
-## [Jered Smith Leads Verdugo Hills to 39-3 Conquest of Grant](https://sanfernandosun.com/2026/10/31/jered-smith-leads-verdugo-hills-to-39-3-conquest-of-grant/)
-
-via San Fernando Sun · 2026-11-01, updated 2026-11-03
-
-![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/10/From-right-Verdugo-Hills-defensive-backs-Caleb-Munroy-3-and-Max-Bionsin-13-as-well-as-linebacker-Jaxon-Martin-12-combine-to-tackle-a-Grant-running-back-in-the-first-quarter.png?fit=1024%2C548&ssl=1)
-
-By Matthew Robinson NORTH HOLLYWOOD –The Verdugo Hills Dons (VHS) are one of those teams in the Los Angeles City Section that one doesn’t hear much about. And that’s because \[…\]
-
-The post [Jered Smith Leads Verdugo Hills to 39-3 Conquest of Grant](https://sanfernandosun.com/2026/10/31/jered-smith-leads-verdugo-hills-to-39-3-conquest-of-grant/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
 

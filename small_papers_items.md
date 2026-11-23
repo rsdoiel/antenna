@@ -3,8 +3,8 @@ title: "Small Papers"
 description: "Small regional papers, blogs and news."
 pubDate: Sun, 22 Nov 2026 00:41:59 GMT
 aggregateOf: "small_papers.md"
-dateModified: Sun, 22 Nov 2026 14:50:51 GMT
-itemCount: 88
+dateModified: Mon, 23 Nov 2026 14:49:24 GMT
+itemCount: 87
 generator: antenna/0.1.1
 ---
 
@@ -859,14 +859,4 @@ via Long Beach Post · 2026-11-02, updated 2026-11-04
 “My worst fear just came true,” said the mother of one disabled student in his class.
 
 The post [Special ed teacher was allowed back in class despite ongoing child abuse investigation](https://lbpost.com/news/education/teacher-returned-to-class-ongoing-child-abuse-investigation) appeared first on [Long Beach Post News](https://lbpost.com/news).
-
-## [Jered Smith Leads Verdugo Hills to 39-3 Conquest of Grant](https://sanfernandosun.com/2026/10/31/jered-smith-leads-verdugo-hills-to-39-3-conquest-of-grant/)
-
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-01, updated 2026-11-03
-
-![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/10/From-right-Verdugo-Hills-defensive-backs-Caleb-Munroy-3-and-Max-Bionsin-13-as-well-as-linebacker-Jaxon-Martin-12-combine-to-tackle-a-Grant-running-back-in-the-first-quarter.png?fit=1024%2C548&ssl=1)
-
-By Matthew Robinson NORTH HOLLYWOOD –The Verdugo Hills Dons (VHS) are one of those teams in the Los Angeles City Section that one doesn’t hear much about. And that’s because \[…\]
-
-The post [Jered Smith Leads Verdugo Hills to 39-3 Conquest of Grant](https://sanfernandosun.com/2026/10/31/jered-smith-leads-verdugo-hills-to-39-3-conquest-of-grant/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
 

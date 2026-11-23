@@ -1,14 +1,20 @@
 ---
 title: "Retro"
 description: "Computer history and vintage systems."
-pubDate: Sat, 21 Nov 2026 19:14:34 GMT
+pubDate: Sun, 22 Nov 2026 20:00:05 GMT
 aggregateOf: "retro_computing.md"
-dateModified: Sun, 22 Nov 2026 14:48:37 GMT
-itemCount: 50
+dateModified: Mon, 23 Nov 2026 14:47:38 GMT
+itemCount: 49
 generator: antenna/0.1.1
 ---
 
 # Retro
+
+## [b.log 2026/11/22 - Windy and rainy, Tea v0.04.](https://heyrick.eu/blog/entry/20261122)
+
+via Richard Murray's blog · 2026-11-22
+
+Windy and rainy, Tea v0.04.
 
 ## [mTCP NetCD](https://sourceforge.net/p/freedos/news/2026/11/mtcp-netcd/)
 
@@ -18,13 +24,13 @@ NetCD is a DOS device driver that simulates a CD-ROM or a DVD-ROM. This makes it
 
 ## [b.log 2026/11/21 - Not working, TeaBASIC v0.03, A Time War doesn't make sense.](https://heyrick.eu/blog/entry/20261121)
 
-via Richard Murray's blog · 2026-11-21
+via Richard Murray's blog · 2026-11-21, updated 2026-11-22
 
 Not working, TeaBASIC v0.03, A Time War doesn't make sense.
 
 ## [b.log 2026/11/20 - A bigger better Arduino.](https://heyrick.eu/blog/entry/20261120)
 
-via Richard Murray's blog · 2026-11-20, updated 2026-11-21
+via Richard Murray's blog · 2026-11-20, updated 2026-11-22
 
 A bigger better Arduino.
 
@@ -42,7 +48,7 @@ I have been using TASM32 for a very long time. A simple DOS based assembler, cal
 
 ## [b.log 2026/11/19 - I am SO done with this shit. \[NSFW\]](https://heyrick.eu/blog/entry/20261119)
 
-via Richard Murray's blog · 2026-11-19, updated 2026-11-21
+via Richard Murray's blog · 2026-11-19, updated 2026-11-22
 
 I am SO done with this shit. \[NSFW\]
 
@@ -54,13 +60,13 @@ This is my story about a first and a second version of KB-9 or, as it is officia
 
 ## [System76 Announces the New Thelio Prime Desktop](http://www.linux-magazine.com/Online/News/System76-Announces-the-New-Thelio-Prime-Desktop)
 
-via Linux Magazine · 2026-11-19, updated 2026-11-22
+via Linux Magazine · 2026-11-19, updated 2026-11-23
 
 The makers of the Thelio desktop line and Pop!\_OS have released a powerful small form factor PC.
 
 ## [A Must See KDE Documentary](http://www.linux-magazine.com/Online/News/A-Must-See-KDE-Documentary)
 
-via Linux Magazine · 2026-11-18, updated 2026-11-22
+via Linux Magazine · 2026-11-18, updated 2026-11-23
 
 It doesn't matter what desktop environment you prefer, this KDE documentary should top your list of things to watch.
 
@@ -78,7 +84,7 @@ Rougols's November talk (appropriately enough for 42 people) was a double bill f
 
 ## [b.log 2026/11/16 - TeaBASIC v0.02](https://heyrick.eu/blog/entry/20261116)
 
-via Richard Murray's blog · 2026-11-16, updated 2026-11-21
+via Richard Murray's blog · 2026-11-16, updated 2026-11-22
 
 TeaBASIC v0.02
 
@@ -90,7 +96,7 @@ I acquired a VIDEO PLUS card. A video card for AIM 65 KIM or SYM-1. This is one 
 
 ## [b.log 2026/11/15 - TeaBASIC and NTCs, The Frenchest thing ever, Storage prices, Interlude, I bought a sewing machine!](https://heyrick.eu/blog/entry/20261115)
 
-via Richard Murray's blog · 2026-11-15, updated 2026-11-21
+via Richard Murray's blog · 2026-11-15, updated 2026-11-22
 
 TeaBASIC and NTCs, The Frenchest thing ever, Storage prices, Interlude, I bought a sewing machine!
 
@@ -108,7 +114,7 @@ The RISC OS London Show took place only a few weeks ago, and the big news that c
 
 ## [b.log 2026/11/13 - AI can be useful.](https://heyrick.eu/blog/entry/20261113)
 
-via Richard Murray's blog · 2026-11-13, updated 2026-11-21
+via Richard Murray's blog · 2026-11-13, updated 2026-11-22
 
 AI can be useful.
 
@@ -126,13 +132,13 @@ The November 2026 Rougol meeting is on Monday.
 
 ## [b.log 2026/11/12 - Jitters.](https://heyrick.eu/blog/entry/20261112)
 
-via Richard Murray's blog · 2026-11-12, updated 2026-11-21
+via Richard Murray's blog · 2026-11-12, updated 2026-11-22
 
 Jitters.
 
 ## [New KORA Linux Distro to Harness the Power of Local AI](http://www.linux-magazine.com/Online/News/New-KORA-Linux-Distro-to-Harness-the-Power-of-Local-AI)
 
-via Linux Magazine · 2026-11-12, updated 2026-11-22
+via Linux Magazine · 2026-11-12, updated 2026-11-23
 
 The development team behind CyanogenMod, Android, and Playtron unveils KORA, a Linux distribution built specifically for AI nerds.
 
@@ -162,13 +168,13 @@ If you were inspired by the recent London Show (or looking to catch-up on what y
 
 ## [Epic Games Targets Linux for New Launcher](http://www.linux-magazine.com/Online/News/Epic-Games-Targets-Linux-for-New-Launcher)
 
-via Linux Magazine · 2026-11-11, updated 2026-11-22
+via Linux Magazine · 2026-11-11, updated 2026-11-23
 
 The Epic Games new launcher is still in preview, but it looks to land on several Linux distributions.
 
 ## [b.log 2026/11/11 - Stupid, What is this?, gcd.bas fails on actual BASIC, TeaBASIC progresses.](https://heyrick.eu/blog/entry/20261111)
 
-via Richard Murray's blog · 2026-11-11, updated 2026-11-21
+via Richard Murray's blog · 2026-11-11, updated 2026-11-22
 
 Stupid, What is this?, gcd.bas fails on actual BASIC, TeaBASIC progresses.
 
@@ -417,7 +423,7 @@ How a childhood memory, a forgotten online service, and two years of reverse eng
 
 ## [b.log 2026/11/08 - Dreary, Initial Public Offering.](https://heyrick.eu/blog/entry/20261108)
 
-via Richard Murray's blog · 2026-11-08, updated 2026-11-21
+via Richard Murray's blog · 2026-11-08, updated 2026-11-22
 
 Dreary, Initial Public Offering.
 
@@ -441,7 +447,7 @@ Here are some of the things that I spotted which happened in the RISC OS Open so
 
 ## [b.log 2026/11/07 - Linguine, TeaBASIC, Texas, One last tweak.](https://heyrick.eu/blog/entry/20261107)
 
-via Richard Murray's blog · 2026-11-07, updated 2026-11-21
+via Richard Murray's blog · 2026-11-07, updated 2026-11-22
 
 Linguine, TeaBASIC, Texas, One last tweak.
 
@@ -453,7 +459,7 @@ This article tells part of the story of Warren Spector. A slight shift of focus,
 
 ## [Fedora 45 Now Available](http://www.linux-magazine.com/Online/News/Fedora-45-Now-Available)
 
-via Linux Magazine · 2026-11-05, updated 2026-11-22
+via Linux Magazine · 2026-11-05, updated 2026-11-23
 
 The latest iteration of Fedora has arrived with Gnome 51 and KDE Plasma 6.8.
 
@@ -465,13 +471,13 @@ WROCC's November speaker was Chris Hughes looking at package managers for RISC O
 
 ## [b.log 2026/11/04 - Close, but no cigar, BabyBASIC.](https://heyrick.eu/blog/entry/20261104)
 
-via Richard Murray's blog · 2026-11-04, updated 2026-11-21
+via Richard Murray's blog · 2026-11-04, updated 2026-11-22
 
 Close, but no cigar, BabyBASIC.
 
 ## [Linux 7.4 is "Much Healthier" Thanks to AI](http://www.linux-magazine.com/Online/News/Linux-7.4-is-Much-Healthier-Thanks-to-AI)
 
-via Linux Magazine · 2026-11-03, updated 2026-11-22
+via Linux Magazine · 2026-11-03, updated 2026-11-23
 
 At nearly 42 million lines, Linux 7.4 is the largest merge in the kernel’s history.
 
@@ -492,16 +498,4 @@ The Autumn 2026 edition of Drag'n'Drop magazine was released at the recent Londo
 via Icon Bar, RISC OS News · 2026-11-02
 
 The November 2026 WROCC talk is on Wednesday 4th November and starts at 7.45pm on Zoom. This month Chris Hughes is going to be looking at packaging.
-
-## [b.log 2026/11/01 - Gets me to the Church on time (Church on time), TinyBASIC.](https://heyrick.eu/blog/entry/20261101)
-
-via Richard Murray's blog · 2026-11-01, updated 2026-11-21
-
-Gets me to the Church on time (Church on time), TinyBASIC.
-
-## [Meetings and events in November 2026](https://www.riscository.com/2026/meetings-and-events-november-2026/)
-
-via RiscOS Story · 2026-11-01, updated 2026-11-14
-
-October has passed, and November is here – so what’s happening in the world of RISC OS meetings and events this month? Wakefield RISC OS Computer Club (WROCC) meeting – 4th November, 7:45pm WROCC usually meets up online, using Zoom, on the first Wednesday of each month, and the next meeting will feature the group’s own Chris Hughes taking a look at the two main centralised software distribution systems on RISC OS – the use of PackMan (and the RISC OS packaging system), and PlingStore (aka !Store). Bristol RISC OS…
 

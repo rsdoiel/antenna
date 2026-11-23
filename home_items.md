@@ -1,14 +1,122 @@
 ---
 title: "Urban Farm"
 description: "Home, garden and urban farm blogs and news."
-pubDate: Sun, 22 Nov 2026 01:17:13 GMT
+pubDate: Mon, 23 Nov 2026 01:33:04 GMT
 aggregateOf: "home.md"
-dateModified: Sun, 22 Nov 2026 14:49:07 GMT
-itemCount: 368
+dateModified: Mon, 23 Nov 2026 14:47:59 GMT
+itemCount: 369
 generator: antenna/0.1.1
 ---
 
 # Urban Farm
+
+## [Why Georgia Homeowners Disagree About Killing Black Widow Spiders](https://ownyardlife.com/why-georgia-homeowners-disagree-about-killing-black-widow-spiders/)
+
+via Yard Life blog · 2026-11-23
+
+Few backyard discoveries create as much disagreement among Georgia homeowners as a black widow spider. For some people, finding one ...
+
+[Read more](https://ownyardlife.com/why-georgia-homeowners-disagree-about-killing-black-widow-spiders/#more-69971 "Why Georgia Homeowners Disagree About Killing Black Widow Spiders")
+
+The post [Why Georgia Homeowners Disagree About Killing Black Widow Spiders](https://ownyardlife.com/why-georgia-homeowners-disagree-about-killing-black-widow-spiders/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Most Illinois Homeowners Don’t Know About Ant Colonies in Winter](https://ownyardlife.com/what-most-illinois-homeowners-dont-know-about-ant-colonies-in-winter/)
+
+via Yard Life blog · 2026-11-23
+
+When temperatures drop across Illinois, ants seem to disappear almost overnight. The trails that once crossed kitchen counters, sidewalks, garden ...
+
+[Read more](https://ownyardlife.com/what-most-illinois-homeowners-dont-know-about-ant-colonies-in-winter/#more-69965 "What Most Illinois Homeowners Don’t Know About Ant Colonies in Winter")
+
+The post [What Most Illinois Homeowners Don’t Know About Ant Colonies in Winter](https://ownyardlife.com/what-most-illinois-homeowners-dont-know-about-ant-colonies-in-winter/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Most North Carolina Residents Don’t Know About Cluster Flies in Winter](https://ownyardlife.com/what-most-north-carolina-residents-dont-know-about-cluster-flies-in-winter/)
+
+via Yard Life blog · 2026-11-23
+
+A few slow-moving flies crawling across a sunny window can seem strangely out of place during a North Carolina winter. ...
+
+[Read more](https://ownyardlife.com/what-most-north-carolina-residents-dont-know-about-cluster-flies-in-winter/#more-69958 "What Most North Carolina Residents Don’t Know About Cluster Flies in Winter")
+
+The post [What Most North Carolina Residents Don’t Know About Cluster Flies in Winter](https://ownyardlife.com/what-most-north-carolina-residents-dont-know-about-cluster-flies-in-winter/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Most Wisconsin Residents Don’t Know About Spiders Surviving Winter](https://ownyardlife.com/what-most-wisconsin-residents-dont-know-about-spiders-surviving-winter/)
+
+via Yard Life blog · 2026-11-23
+
+When winter settles over Wisconsin, the familiar spider webs that once stretched between porch railings, garden plants, fence posts, and ...
+
+[Read more](https://ownyardlife.com/what-most-wisconsin-residents-dont-know-about-spiders-surviving-winter/#more-69951 "What Most Wisconsin Residents Don’t Know About Spiders Surviving Winter")
+
+The post [What Most Wisconsin Residents Don’t Know About Spiders Surviving Winter](https://ownyardlife.com/what-most-wisconsin-residents-dont-know-about-spiders-surviving-winter/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [Mosquitoes in Tennessee Winters: What Most People Don’t Realize](https://ownyardlife.com/mosquitoes-in-tennessee-winters-what-most-people-dont-realize/)
+
+via Yard Life blog · 2026-11-23
+
+A mosquito hovering near a bathroom sink in January can seem like an insect that has missed the change of ...
+
+[Read more](https://ownyardlife.com/mosquitoes-in-tennessee-winters-what-most-people-dont-realize/#more-69944 "Mosquitoes in Tennessee Winters: What Most People Don’t Realize")
+
+The post [Mosquitoes in Tennessee Winters: What Most People Don’t Realize](https://ownyardlife.com/mosquitoes-in-tennessee-winters-what-most-people-dont-realize/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [Asian Lady Beetles in New York: What Happens When Winter Arrives](https://ownyardlife.com/asian-lady-beetles-in-new-york-what-happens-when-winter-arrives/)
+
+via Yard Life blog · 2026-11-23
+
+A bright orange beetle crawling across a bedroom window in December may look like an ordinary ladybug, but its appearance ...
+
+[Read more](https://ownyardlife.com/asian-lady-beetles-in-new-york-what-happens-when-winter-arrives/#more-69937 "Asian Lady Beetles in New York: What Happens When Winter Arrives")
+
+The post [Asian Lady Beetles in New York: What Happens When Winter Arrives](https://ownyardlife.com/asian-lady-beetles-in-new-york-what-happens-when-winter-arrives/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [Overwintering Wasps in Virginia: What Most Homeowners Don’t Know](https://ownyardlife.com/overwintering-wasps-in-virginia-what-most-homeowners-dont-know/)
+
+via Yard Life blog · 2026-11-23
+
+A wasp crawling slowly across a bedroom window in January can be an unsettling sight. The doors have stayed closed, ...
+
+[Read more](https://ownyardlife.com/overwintering-wasps-in-virginia-what-most-homeowners-dont-know/#more-69930 "Overwintering Wasps in Virginia: What Most Homeowners Don’t Know")
+
+The post [Overwintering Wasps in Virginia: What Most Homeowners Don’t Know](https://ownyardlife.com/overwintering-wasps-in-virginia-what-most-homeowners-dont-know/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Most Pennsylvania Homeowners Don’t Know About Boxelder Bugs in Winter](https://ownyardlife.com/what-most-pennsylvania-homeowners-dont-know-about-boxelder-bugs-in-winter/)
+
+via Yard Life blog · 2026-11-23
+
+A cluster of black insects with bright red markings can suddenly appear around a Pennsylvania window in the middle of ...
+
+[Read more](https://ownyardlife.com/what-most-pennsylvania-homeowners-dont-know-about-boxelder-bugs-in-winter/#more-69923 "What Most Pennsylvania Homeowners Don’t Know About Boxelder Bugs in Winter")
+
+The post [What Most Pennsylvania Homeowners Don’t Know About Boxelder Bugs in Winter](https://ownyardlife.com/what-most-pennsylvania-homeowners-dont-know-about-boxelder-bugs-in-winter/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Most Ohio Residents Don’t Know About Cluster Flies in Winter](https://ownyardlife.com/what-most-ohio-residents-dont-know-about-cluster-flies-in-winter/)
+
+via Yard Life blog · 2026-11-23
+
+A gray fly crawling across an upstairs window can seem out of place in an Ohio home during the middle ...
+
+[Read more](https://ownyardlife.com/what-most-ohio-residents-dont-know-about-cluster-flies-in-winter/#more-69916 "What Most Ohio Residents Don’t Know About Cluster Flies in Winter")
+
+The post [What Most Ohio Residents Don’t Know About Cluster Flies in Winter](https://ownyardlife.com/what-most-ohio-residents-dont-know-about-cluster-flies-in-winter/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Most Michigan Homeowners Don’t Know About Stink Bugs in Winter](https://ownyardlife.com/what-most-michigan-homeowners-dont-know-about-stink-bugs-in-winter/)
+
+via Yard Life blog · 2026-11-23
+
+By late November, many Michigan yards have taken on a very different appearance. Most deciduous trees have dropped their leaves, ...
+
+[Read more](https://ownyardlife.com/what-most-michigan-homeowners-dont-know-about-stink-bugs-in-winter/#more-69909 "What Most Michigan Homeowners Don’t Know About Stink Bugs in Winter")
+
+The post [What Most Michigan Homeowners Don’t Know About Stink Bugs in Winter](https://ownyardlife.com/what-most-michigan-homeowners-dont-know-about-stink-bugs-in-winter/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [How to Grow Butterfly Pea (Blue Tea Flower)](https://gardenerspath.com/plants/flowers/grow-butterfly-pea/)
+
+via The Gardener's Path · 2026-11-22
+
+Butterfly peas have bright, bold blue flowers and can be used as fodder. They also give back to the garden by fixing nitrogen in the soil. The blossoms are edible and they even change color from vibrant blue to brilliant purple when you put them in water and add lemon juice. Learn how to grow butterfly pea in this guide.
+
+The post [How to Grow Butterfly Pea (Blue Tea Flower)](https://gardenerspath.com/plants/flowers/grow-butterfly-pea/) appeared first on [Gardener's Path](https://gardenerspath.com).
 
 ## [What Those Tiny Worms Hiding in California Pantry Shelves Actually Are](https://ownyardlife.com/what-those-tiny-worms-hiding-in-california-pantry-shelves-actually-are/)
 
@@ -70,25 +178,25 @@ The post [The Best Cold Hardy Rosemary Varieties](https://gardenerspath.com/plan
 
 ## [7 Things You Must Do Before a Big Move, According to an Organizing Expert](https://sunset.com/home-garden/what-to-do-before-move)
 
-via Sunset Magazine - Living in the West · 2026-11-21, updated 2026-11-22
+via Sunset Magazine - Living in the West · 2026-11-21, updated 2026-11-23
 
 Preparation before a big move is key. An organizing expert shares the tasks you need to do before you move out.
 
 ## [A Central Oregon Home Was Designed to Connect to the Land, Water, and Sky](https://sunset.com/home-garden/home-tours/central-oregon-riverfront-home)
 
-via Sunset Magazine - Living in the West · 2026-11-21, updated 2026-11-22
+via Sunset Magazine - Living in the West · 2026-11-21, updated 2026-11-23
 
 Set along a downtown stretch of river rapids in central Oregon, this 6,500-square-foot new build is equal parts urban and wild.
 
 ## [This Mill Valley Home Was Designed Around the Owners’ Art Collection](https://sunset.com/home-garden/home-tours/colorful-mill-valley-house)
 
-via Sunset Magazine - Living in the West · 2026-11-21, updated 2026-11-22
+via Sunset Magazine - Living in the West · 2026-11-21, updated 2026-11-23
 
 The homeowners of this 1948 Mill Valley house collect black and white photography, which was heavily incorporated into the renovation.
 
 ## [A Retired Couple Had a Dream of Waterfront Living—Tour Their Stunning Biophilic-Inspired Home](https://sunset.com/home-garden/home-tours/anacortes-biophilic-house)
 
-via Sunset Magazine - Living in the West · 2026-11-21, updated 2026-11-22
+via Sunset Magazine - Living in the West · 2026-11-21, updated 2026-11-23
 
 A newly retired couple finally fulfilled their dream of living by the water; see how they designed their Anacortes, Washington home.
 
@@ -252,13 +360,13 @@ The post [Jonathan Scott’s Trick for Making a Fake Christmas Tree Look Real Is
 
 ## [Congratulations to the Winners of the 2026 Sunset International Spirits Competition](https://sunset.com/food-wine/wine-pairings/sunset-international-spirits-competition-2026-winners)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-23
 
 The winners of the 2026 Sunset International Spirits Competition represent the remarkable range and creativity of today’s spirits industry.
 
 ## [Professional Chefs Share Their Biggest Thanksgiving Pet Peeves](https://sunset.com/food-wine/chefs-thanksgiving-pet-peeves)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-23
 
 It’s no surprise that professional chefs have strong opinions about Thanksgiving. They shared their biggest pet peeves to avoid.
 
@@ -272,85 +380,85 @@ The post [Desirable qualities in a mango tree for Southern California (and how t
 
 ## [From Empanadas to a Noodle Stir Fry, Here’s How to Make Your Thanksgiving Leftovers More Exciting](https://sunset.com/food-wine/holidays-occasions/thanksgiving-leftover-recipes)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-23
 
 It's just not Thanksgiving without leftovers. Try these recipes for some great ways to reinvent Thanksgiving leftovers.
 
 ## [Home Tours](https://sunset.com/home-garden/home-tours)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-23
 
 Take a peek at our favorite homes around the West, from modern cabins to mid-century ranch houses
 
 ## [Home & Garden](https://sunset.com/home-garden)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-23
 
 Great home and garden design ideas, from decorating and DIY projects to landscaping and edible gardening tips from Sunset magazine.
 
 ## [Wine & Drinks](https://sunset.com/food-wine/wine-pairings)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-23
 
 Pair wine like a pro with our wine guide. Find the best wine for every meal, including burgers, pizza, steak, and more
 
 ## [Restaurants](https://sunset.com/food-wine/restaurants)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-23
 
 … [Read More](https://sunset.com/food-wine/restaurants)
 
 ## [Recipes](https://sunset.com/food-wine/kitchen-assistant)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-23
 
 Search Sunset's collection of great recipes for every occasion. From quick weekday meals to indulgent holiday menus, we share the best in Western cooking.
 
 ## [16 Extra-Special Holiday Appetizers That Will Impress Your Holiday Guests](https://sunset.com/food-wine/entertaining/christmas-appetizers)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-23
 
 Holiday gatherings are special by definition. So pull out all the stops and let guests know they’re in for a treat by starting the party with these extravagant appetizers
 
 ## [From a Crab Feast to a Festive Meal for Two, These Holiday Menu Ideas Work for Any Type of Gathering](https://sunset.com/food-wine/holidays-occasions/christmas-holiday-menu-recipes)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-23
 
 Plan the perfect menu for your Christmas party. Get great menu ideas for classic holiday dinners, finger-food parties, and an easy holiday buffet.
 
 ## [25 Delectable Holiday Desserts You’ll Love Making (and Eating)](https://sunset.com/food-wine/holidays-occasions/holiday-dessert-recipes)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-23
 
 These festive favorites and elegant show-stoppers create holiday cheer with every bite. Take a look at our most popular holiday dessert recipes.
 
 ## [Food and Drink](https://sunset.com/food-wine)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-23
 
 Delicious recipes, food and wine pairings, and more ways to savor the West.
 
 ## [Chefs Share Their Genius Ingredient Substitution Hacks That Will Save Your Thanksgiving Meal](https://sunset.com/food-wine/ingredient-substitutions)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-23
 
 A common Thanksgiving mishap is running out of a basic pantry ingredient. Chefs share some ingredient substitutions that will save your meal.
 
 ## [Homepage 2025](https://sunset.com/)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-23
 
 Road Trips, Hotels, Outdoor Adventure The A-Frame Getaways You Can Book Right Now Sunset has been chronicling the rise of the A-frame since the style first took hold in the West. Nearly 70 years… [Read More](https://sunset.com/)
 
 ## [The Best Wines to Pair with Your Holiday Meals](https://sunset.com/food-wine/wine-pairings/holiday-grilling)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-23
 
 The next shipment of Sunset Wine Club bottles matches beautifully with the dishes mentioned in our Holiday Issue.
 
 ## [These Thanksgiving Dishes Are Often an Afterthought—and That’s a Big Mistake](https://sunset.com/food-wine/underrated-thanksgiving-dishes)
 
-via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-22
+via Sunset Magazine - Living in the West · 2026-11-20, updated 2026-11-23
 
 On Thanksgiving Day, the emphasis is always on the turkey, but chefs say not to forget about these overlooked dishes.
 
@@ -3101,86 +3209,4 @@ Oregon’s quiet rivers can suddenly come alive when something moves beneath the
 [Read more](https://ownyardlife.com/10-fascinating-facts-about-river-otters-that-many-oregon-residents-dont-know/#more-68457 "10 Fascinating Facts About River Otters That Many Oregon Residents Don’t Know")
 
 The post [10 Fascinating Facts About River Otters That Many Oregon Residents Don’t Know](https://ownyardlife.com/10-fascinating-facts-about-river-otters-that-many-oregon-residents-dont-know/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [7 Things Most South Carolina Residents Don’t Realize About Armadillos](https://ownyardlife.com/7-things-most-south-carolina-residents-dont-realize-about-armadillos/)
-
-via Yard Life blog · 2026-11-01, updated 2026-11-02
-
-Armadillos have become an increasingly familiar sight in parts of South Carolina, particularly in areas where wooded land, open lawns, ...
-
-[Read more](https://ownyardlife.com/7-things-most-south-carolina-residents-dont-realize-about-armadillos/#more-68450 "7 Things Most South Carolina Residents Don’t Realize About Armadillos")
-
-The post [7 Things Most South Carolina Residents Don’t Realize About Armadillos](https://ownyardlife.com/7-things-most-south-carolina-residents-dont-realize-about-armadillos/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [9 Secrets About Beavers That Most Wisconsin Residents Have Never Discovered](https://ownyardlife.com/9-secrets-about-beavers-that-most-wisconsin-residents-have-never-discovered/)
-
-via Yard Life blog · 2026-11-01, updated 2026-11-02
-
-Wisconsin is home to countless lakes, rivers, streams, and wetlands, making it one of the most suitable places in the ...
-
-[Read more](https://ownyardlife.com/9-secrets-about-beavers-that-most-wisconsin-residents-have-never-discovered/#more-68442 "9 Secrets About Beavers That Most Wisconsin Residents Have Never Discovered")
-
-The post [9 Secrets About Beavers That Most Wisconsin Residents Have Never Discovered](https://ownyardlife.com/9-secrets-about-beavers-that-most-wisconsin-residents-have-never-discovered/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [10 Strange Behaviors of Javelinas That Many Arizona Homeowners Have Never Noticed](https://ownyardlife.com/10-strange-behaviors-of-javelinas-that-many-arizona-homeowners-have-never-noticed/)
-
-via Yard Life blog · 2026-11-01, updated 2026-11-02
-
-Arizona homeowners who live near desert washes, rocky slopes, or patches of natural vegetation may occasionally find a group of ...
-
-[Read more](https://ownyardlife.com/10-strange-behaviors-of-javelinas-that-many-arizona-homeowners-have-never-noticed/#more-68435 "10 Strange Behaviors of Javelinas That Many Arizona Homeowners Have Never Noticed")
-
-The post [10 Strange Behaviors of Javelinas That Many Arizona Homeowners Have Never Noticed](https://ownyardlife.com/10-strange-behaviors-of-javelinas-that-many-arizona-homeowners-have-never-noticed/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [8 Little-Known Things About Wild Turkeys That Surprise Tennessee Residents](https://ownyardlife.com/8-little-known-things-about-wild-turkeys-that-surprise-tennessee-residents/)
-
-via Yard Life blog · 2026-11-01, updated 2026-11-02
-
-Wild turkeys are a familiar sight across Tennessee. They wander through open fields, cross quiet country roads, forage beneath hardwood ...
-
-[Read more](https://ownyardlife.com/8-little-known-things-about-wild-turkeys-that-surprise-tennessee-residents/#more-68428 "8 Little-Known Things About Wild Turkeys That Surprise Tennessee Residents")
-
-The post [8 Little-Known Things About Wild Turkeys That Surprise Tennessee Residents](https://ownyardlife.com/8-little-known-things-about-wild-turkeys-that-surprise-tennessee-residents/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [10 Surprising Facts About Mountain Lions Most Colorado Residents Don’t Know](https://ownyardlife.com/10-surprising-facts-about-mountain-lions-most-colorado-residents-dont-know/)
-
-via Yard Life blog · 2026-11-01, updated 2026-11-02
-
-In Colorado, a quiet walk along a wooded trail can sometimes reveal signs of a much larger animal than anything ...
-
-[Read more](https://ownyardlife.com/10-surprising-facts-about-mountain-lions-most-colorado-residents-dont-know/#more-68421 "10 Surprising Facts About Mountain Lions Most Colorado Residents Don’t Know")
-
-The post [10 Surprising Facts About Mountain Lions Most Colorado Residents Don’t Know](https://ownyardlife.com/10-surprising-facts-about-mountain-lions-most-colorado-residents-dont-know/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [Can Crocus Grow in the Cold and Snow?](https://gardenerspath.com/plants/flowers/crocus-cold-snow/)
-
-via The Gardener's Path · 2026-11-01, updated 2026-11-12
-
-Crocuses are known for dotting lawns and gardens with vibrant hues of purple, pink, and yellow just when winter seemed it would never end. They’re also famously hardy. But can they survive the most frigid winter temperatures? What if they bloom just before a cold snap or blizzard? Can they grow in snow? Find out now.
-
-The post [Can Crocus Grow in the Cold and Snow?](https://gardenerspath.com/plants/flowers/crocus-cold-snow/) appeared first on [Gardener's Path](https://gardenerspath.com).
-
-## [Here’s How to Plan the Perfect Weekend on Whidbey Island](https://sunset.com/travel/insider-guides/whidbey-island-washington-things-to-do)
-
-via Sunset Magazine - Living in the West · 2026-11-01, updated 2026-11-05
-
-Embrace the seafaring lifestyle in this charming island in the Pacific Northwest, Whidbey Island. Here's what to see, eat, and do.
-
-## [Tucked Beneath a Glacier-Covered Volcano, This Secret Corner of the Cascades Is Worth the Drive](https://sunset.com/travel/insider-guides/where-to-go-mt-baker-snoqualmie-national-forest)
-
-via Sunset Magazine - Living in the West · 2026-11-01, updated 2026-11-05
-
-Here's where to go when visiting the area surrounding the stunning Mt. Baker-Snoqualmie National Forest in the Cascades.
-
-## [The Best Recipes to Cook This November, from Thanksgiving Dishes to Weeknight Meals](https://sunset.com/food-wine/kitchen-assistant/november-recipes-2026)
-
-via Sunset Magazine - Living in the West · 2026-11-01, updated 2026-11-04
-
-Make meal-planning easy this November with our recipe recommendations for your Thanksgiving meal, weeknight dinners, and more.
-
-## [6 Michelin-Recognized Restaurants to Build Your Next Southwest Trip Around](https://sunset.com/food-wine/restaurants/michelin-southwest-bib-gourmands-restaurants-2026)
-
-via Sunset Magazine - Living in the West · 2026-11-01, updated 2026-11-04
-
-Meet the people behind the Southwest's Michelin Bib Gourmands, and find out the best dishes to order there on your next visit.
 

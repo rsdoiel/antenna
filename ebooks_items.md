@@ -3,8 +3,8 @@ title: "ebooks.md"
 description: "New eBook releases."
 pubDate: Sun, 15 Nov 2026 10:51:23 GMT
 aggregateOf: "ebooks.md"
-dateModified: Sun, 22 Nov 2026 14:50:46 GMT
-itemCount: 177
+dateModified: Mon, 23 Nov 2026 14:49:18 GMT
+itemCount: 165
 generator: antenna/0.1.1
 ---
 
@@ -999,76 +999,4 @@ Language: English
 via Project Gutenberg (New Books) · 2026-11-02
 
 Language: Finnish
-
-## [The art of being ruled by Wyndham Lewis](https://www.gutenberg.org/ebooks/79890)
-
-via Project Gutenberg (New Books) · 2026-11-01
-
-Language: English
-
-## [Birds and Bees, Sharp Eyes, and Other Papers by John Burroughs](https://www.gutenberg.org/ebooks/3163)
-
-via Project Gutenberg (New Books) · 2026-11-01
-
-Language: English
-
-## [The Century illustrated monthly magazine : by Various](https://www.gutenberg.org/ebooks/79889)
-
-via Project Gutenberg (New Books) · 2026-11-01
-
-Language: English
-
-## [Famous Men of the Middle Ages by John H. Haaren and Addison B. Poland](https://www.gutenberg.org/ebooks/3725)
-
-via Project Gutenberg (New Books) · 2026-11-01
-
-Language: English
-
-## [Moon-calf : by Floyd Dell](https://www.gutenberg.org/ebooks/79887)
-
-via Project Gutenberg (New Books) · 2026-11-01
-
-Language: English
-
-## [The House of the Wolfings by William Morris](https://www.gutenberg.org/ebooks/2885)
-
-via Project Gutenberg (New Books) · 2026-11-01
-
-Language: English
-
-## [Mr. Honey's Large Business Dictionary (English-German) by Winfried Honig](https://www.gutenberg.org/ebooks/3221)
-
-via Project Gutenberg (New Books) · 2026-11-01
-
-Language: English
-
-## [The Bontoc Igorot by Albert Ernest Jenks](https://www.gutenberg.org/ebooks/3308)
-
-via Project Gutenberg (New Books) · 2026-11-01
-
-Language: English
-
-## [Jeanne of the Marshes by E. Phillips Oppenheim](https://www.gutenberg.org/ebooks/4233)
-
-via Project Gutenberg (New Books) · 2026-11-01
-
-Language: English
-
-## [A vision of Venus by Otis Adelbert Kline](https://www.gutenberg.org/ebooks/79886)
-
-via Project Gutenberg (New Books) · 2026-11-01
-
-Language: English
-
-## [Lord Lister No. 0354: Montague en Capuletti by Blankensee and Hageman and Matull](https://www.gutenberg.org/ebooks/79885)
-
-via Project Gutenberg (New Books) · 2026-11-01
-
-Language: Dutch
-
-## [Lying Lips by William Le Queux](https://www.gutenberg.org/ebooks/79888)
-
-via Project Gutenberg (New Books) · 2026-11-01
-
-Language: English
 
