@@ -5,7 +5,7 @@
     <title><![CDATA[Columns]]></title>
     <description><![CDATA[Blogs, columns and snapshots from around the web.]]></description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>23 Nov 26 22:47 -0800</lastBuildDate>
+    <lastBuildDate>23 Nov 26 23:40 -0800</lastBuildDate>
     <generator>antenna/0.2.0</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -36,6 +36,49 @@ Slides can be added in a few ways:
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.</source:markdown>
       <guid isPermaLink="false">cid://https://notes.peter-baumgartner.net/event/example/</guid>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Ladybird is freakin’ awesome!</title>
+      <link>https://dbushell.com/2026/11/24/ladybird-is-freakin-awesome/</link>
+      <description>
+        <![CDATA[I have to hand it to Andreas Kling’s chatbot, it really got the vibes just right with the Ladybird web browser. I honestly didn’t think a chatbot was capable of slopping out a renderer of this quality. I was wrong to discriminate against chatbots. […]]]>
+      </description>
+      <source:markdown>I have to hand it to Andreas Kling’s chatbot, it really got the vibes just right with the Ladybird web browser. I honestly didn’t think a chatbot was capable of slopping out a renderer of this quality. I was wrong to discriminate against chatbots. \[…\]</source:markdown>
+      <guid isPermaLink="false">cid://https://dbushell.com/2026/11/24/ladybird-is-freakin-awesome/</guid>
+      <pubDate>Tue, 24 Nov 2026 10:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>15 ways readers can support the indie web</title>
+      <link>https://tracydurnell.com/2026/11/23/15-ways-readers-support-indie-web/</link>
+      <description>
+        <![CDATA[I believe readers are an integral part of the indie web: reading, commenting on, sharing, and supporting independently published websites is what makes the indie web work as a system. Publishing online is offering a gift &#8212; and gifts are intended to be received. Without readers, a blog becomes more like an open diary than [&#8230;]]]>
+      </description>
+      <source:markdown>I believe readers are an integral part of the indie web: reading, commenting on, sharing, and supporting independently published websites is what makes the indie web work as a system. Publishing online is offering a gift — and gifts are intended to be received. Without readers, a blog becomes more like an open diary than \[…\]</source:markdown>
+      <dc:creator>Tracy Durnell</dc:creator>
+      <guid isPermaLink="false">cid://https://tracydurnell.com/?p=42551</guid>
+      <category>Future Building</category>
+      <category>Relationships</category>
+      <category>The Internet</category>
+      <category>algorithm</category>
+      <category>anti corporate</category>
+      <category>community</category>
+      <category>connection</category>
+      <category>corporate web</category>
+      <category>ecosystem</category>
+      <category>Fediverse</category>
+      <category>hypertext</category>
+      <category>indie web</category>
+      <category>search</category>
+      <category>social media</category>
+      <category>support</category>
+      <pubDate>Tue, 24 Nov 2026 05:27:38 +0000</pubDate>
+    </item>    <item>
+      <title>Lenovo x61s today</title>
+      <link>http://jirka.1-2-8.net/20261124-0341_Lenovo_x61s_today</link>
+      <description>
+        <![CDATA[This summer I have decided (with no actual reason) to buy a new battery for my old x61s.  It runs old OS (an Ubuntu version so  old so I cannot upgrade it at all) and is slow and underpowered by today's standards.]]>
+      </description>
+      <source:markdown>This summer I have decided (with no actual reason) to buy a new battery for my old x61s. It runs old OS (an Ubuntu version so old so I cannot upgrade it at all) and is slow and underpowered by today&#39;s standards.</source:markdown>
+      <guid isPermaLink="false">cid://db4b1099828cd6b86349e31551160be7</guid>
+      <pubDate>Tue, 24 Nov 2026 02:41:00 +0000</pubDate>
     </item>    <item>
       <link>http://scripting.com/2026/11/23.html#a012412</link>
       <description>
@@ -11337,12 +11380,12 @@ So we&#39;ll be back to double-digit megabytes RAM and megaHertz class CPUs, if 
 
 ![comment count unavailable](https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&#38;ditemid=100119) comments</source:markdown>
       <guid isPermaLink="false">cid://https://liam-on-linux.dreamwidth.org/100119.html</guid>
+      <category>geopolitics</category>
+      <category>tech</category>
       <category>tcpip</category>
       <category>climate change</category>
-      <category>tech</category>
-      <category>networking</category>
       <category>llms</category>
-      <category>geopolitics</category>
+      <category>networking</category>
       <pubDate>Sun, 15 Nov 2026 13:50:10 +0000</pubDate>
     </item>    <item>
       <title>R-E-S-P-E-C-T</title>
@@ -12165,10 +12208,10 @@ Well that&#39;s no fun.
 ![comment count unavailable](https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&#38;ditemid=99912) comments</source:markdown>
       <guid isPermaLink="false">cid://https://liam-on-linux.dreamwidth.org/99912.html</guid>
       <category>truenas</category>
-      <category>nas</category>
-      <category>hp microserver</category>
-      <category>freebsd</category>
       <category>freecore</category>
+      <category>nas</category>
+      <category>freebsd</category>
+      <category>hp microserver</category>
       <pubDate>Sat, 14 Nov 2026 20:26:10 +0000</pubDate>
     </item>    <item>
       <title>2026-11-14 Taxes must go up</title>

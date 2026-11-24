@@ -1,14 +1,35 @@
 ---
 title: "Student Paper"
 description: "Student journalism and the fourth estate."
-pubDate: Tue, 24 Nov 2026 03:16:13 GMT
+pubDate: Tue, 24 Nov 2026 07:38:29 GMT
 aggregateOf: "journalism.md"
-dateModified: Tue, 24 Nov 2026 06:47:30 GMT
-itemCount: 505
+dateModified: Tue, 24 Nov 2026 07:45:40 GMT
+itemCount: 508
 generator: antenna/0.2.0
 ---
 
 # Student Paper
+
+## [Dress to impress this winter with throwback styles and trendy new pieces](https://dailybruin.com/2026/11/23/dress-to-impress-this-winter-with-throwback-styles-and-trendy-new-pieces/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24
+
+The holiday season is a time for renewal: new traditions, new resolutions and, for many fashion enthusiasts, a new wardrobe.
+As the curtains close on the muted neutrals of fall, winter will offer a chance to reimagine familiar staples and experiment with new trends.
+
+## [They can see everything: UCLA club hosts Elizabeth Holmes, Nathan Fielder lookalike competition](https://dailybruin.com/2026/11/23/they-can-see-everything-ucla-club-hosts-elizabeth-holmes-nathan-fielder-lookalike-competition/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24
+
+Nathan Fielder spent nearly three hours in A24’s “You Can See Everything” trying to determine whether Elizabeth Holmes was putting on a performance.
+On Thursday, UCLA students put on a performance of their own in Dodd Hall by transforming into them both.
+
+## [Winner Takes All: The reel rivalry: Film’s fiercest foes face off on the big screen](https://dailybruin.com/2026/11/23/winner-takes-all-the-reel-rivalry-films-fiercest-foes-face-off-on-the-big-screen/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24
+
+Few things bring out a person’s competitive side quite like a rivalry.
+Whether it’s UCLA and the University of Southern California fighting for the Victory Bell or two fictional foes battling on the big screen, the stakes are rarely just about winning.
 
 ## [Immigration raids, rising costs shape Latino political attitudes](https://dailybruin.com/2026/11/23/immigration-raids-rising-costs-shape-latino-political-attitudes/)
 

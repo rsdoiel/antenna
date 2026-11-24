@@ -1,20 +1,62 @@
 ---
 title: "STEM"
 description: "Science and technology news and blogs."
-pubDate: Mon, 23 Nov 2026 21:39:51 GMT
+pubDate: Tue, 24 Nov 2026 05:13:51 GMT
 aggregateOf: "science_and_technology.md"
-dateModified: Tue, 24 Nov 2026 06:47:35 GMT
-itemCount: 302
+dateModified: Tue, 24 Nov 2026 07:42:12 GMT
+itemCount: 354
 generator: antenna/0.2.0
 ---
 
 # STEM
+
+## [Orgs that leak data ‘prioritize corporate interests over customers’ says Have I Been Pwned’s Troy Hunt](https://www.theregister.com/security/2026/11/24/orgs-that-leak-data-prioritize-corporate-interests-over-customers-says-have-i-been-pwneds-troy-hunt/5311802)
+
+via The Register (UK I.T. News) · 2026-11-24
+
+Leakers move through denial, bargaining, delay, legal threats, then claiming Hunt is the real villain
+
+## [APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group](https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/)
+
+via NASA breaking news · 2026-11-24
+
+APOD Science APOD APOD: 2026 November 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Galaxies Battle in \[…\]
+
+## [Eruption Extends Iwo Jima’s Beach](https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/)
+
+via NASA breaking news · 2026-11-24
+
+A volcanic eruption just off the southeast shore of the Pacific island has reshaped the coast, but it’s unclear how long the new land will survive.
+
+## [Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse](https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795)
+
+via The Register (UK I.T. News) · 2026-11-24
+
+‘Shirudo’ project promises to whip up compensating controls in a hurry
+
+## [Anthropic says Claude solved an age-old math problem, but the written proof is 250,000 pages of slop](https://www.theregister.com/ai-and-ml/2026/11/24/anthropic-says-claude-solved-an-age-old-math-problem-but-the-written-proof-is-250000-pages-of-slop/5311775)
+
+via The Register (UK I.T. News) · 2026-11-24
+
+If the AI can't explain what it's proven, are we actually any closer to understanding?
+
+## [Inception - possibly a ShinyHunters reboot - claims seven victims in a week](https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+Whatever they call themselves these days: be on the lookout for voice phishing attempts
 
 ## [Peggy Guggenheim's First Art Gallery Lasted Just 18 Months. But Its 21 Exhibitions Showed a Multitude of Modern Art Masterpieces](https://www.smithsonianmag.com/smart-news/peggy-guggenheims-first-art-gallery-lasted-just-18-months-but-its-21-exhibitions-showed-a-multitude-of-modern-art-masterpieces-180989930/)
 
 via Smithsonian Magazine · 2026-11-23
 
 A new exhibition at the Royal Academy of the Arts in London revisits Guggenheim Jeune, the short-lived art gallery where the American socialite introduced a skeptical British public to surrealism and abstraction
+
+## [Amazon scoops up AI accelerator tech to keep chips busy at all times](https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+Not the whole startup - just its tech and the brains behind it
 
 ## [NASA Awards Contract for NOAA’s Near Earth Orbit Network Program](https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/)
 
@@ -34,11 +76,23 @@ via Smithsonian Magazine · 2026-11-23
 
 A new analysis of 486 portraits suggests that the ideal waist-to-hip ratio increased between 1650 and 1950
 
+## [Bluetooth brakes are broken as researchers find anyone can control them](https://www.theregister.com/security/2026/11/23/bluetooth-brakes-are-broken-as-researchers-find-anyone-can-control-them/5311748)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+Security fixes are available for two Elecbrakes models, but an older controller remains vulnerable and unpatched
+
 ## [Inside Bolivia's Newly Restored 'Sistine Chapel of the Andes,' Centuries-Old Murals Tell Biblical Stories With Andean Imagery](https://www.smithsonianmag.com/smart-news/inside-bolivia-newly-restored-sistine-chapel-of-the-andes-centuries-old-murals-tell-biblical-stories-with-andean-imagery-180989925/)
 
 via Smithsonian Magazine · 2026-11-23
 
 Located nearly 13,000 feet above sea level on Bolivia’s high plateau, the Santiago de Curahuara de Carangas church depicts guinea pigs at the Last Supper and magi riding llamas
+
+## [Critical Cisco remote code execution bug under attack](https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+CISA, F6 sound the alarm after PoC exploit made public
 
 ## [Studying Cancer Cells in Microgravity](https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/)
 
@@ -52,6 +106,12 @@ via NASA breaking news · 2026-11-23, updated 2026-11-24
 
 NASA is seeking industry partners to develop and test the first nuclear reactor designed to provide electricity on the Moon, a major step toward establishing a sustained human presence on the lunar surface.  Lunar Reactor-1 (LR-1) will be a small fission power system that will generate 20 kilowatts of electricity, enough to power approximately 16 \[…\]
 
+## [Bulgaria evicts cyber snoops who lurked inside government networks for 5 years](https://www.theregister.com/security/2026/11/23/bulgaria-evicts-cyber-snoops-who-lurked-inside-government-networks-for-5-years/5311629)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+Minister says intruders downloaded more than 130 GB of data as political churn left security neglected
+
 ## [Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season](https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/)
 
 via NVidia blog · 2026-11-23
@@ -63,6 +123,12 @@ The elves don’t have to be the only ones busy in the workshop this holiday sea
 via Smithsonian Magazine · 2026-11-23
 
 After a year on the Viagra-like drug, participants who weren't taking other dementia medications displayed less cognitive decline than those taking a placebo. But the effect disappeared when examining all individuals who took the experimental pill
+
+## [Microsoft mega outage: Report reveals testing gaps and emails that never arrived](https://www.theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+July bug overwhelmed newer servers, prompting promises of stronger safeguards and faster recovery
 
 ## [NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space](https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/)
 
@@ -84,6 +150,12 @@ Genetic information is sturdy, but its physical structure is sensitive. Natural 
 
 The post [The Incredible, Elegant DNA Repair System Makes Gene Editing Work](https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)
 
+## [British retailer Next downplays data breach at tech supplier](https://www.theregister.com/cyber-crime/2026/11/23/british-retailer-next-downplays-data-breach-at-tech-supplier/5311684)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+Retailer insists customer details are safe and the data accessed is 'benign,' but won't say exactly what hackers got their hands on
+
 ## [NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution](https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/)
 
 via NASA breaking news · 2026-11-23, updated 2026-11-24
@@ -102,11 +174,71 @@ via OS News · 2026-11-23
 
 For certain reasons, I’m in a mood to highlight as many more alternative ways to do the computers things than just the boring Windows/Linux+x86 thing. In the process of scouring Alibaba for a cheap Versal devkit, I unexpectedly came into possession of a Zhihe Computing A210 RISC-V SoC. It’s a cool board: there’s a ridiculous amount of IO exposed by the baseboard, not to mention 8 cores clocked at 1.9 GHz is nothing to sniff at for a RISC-V CPU. I’m not sure I could recommend buying any RISC-V SoC currently, but all these distros that are starting to support RISC-V need to run tests somewhere that isn’t Spike/QEMU. I decided to make this board into a NixOS build server so I could learn more about the state of RISC-V support in NixOS and to get some practice in Linux bringup. ↫ George Huebner I will not create a NixOS category.
 
+## [Nvidia board puts Jensen Huang back as boss](https://www.theregister.com/systems/2026/11/23/nvidia-board-puts-jensen-huang-back-as-boss/5311674)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+BoomerHuang CEO returns
+
+## [Everything going down at once wasn't evidence of a conspiracy – but the truth may be scarier](https://www.theregister.com/off-prem/2026/11/23/everything-going-down-at-once-wasnt-evidence-of-a-conspiracy-but-the-truth-may-be-scarier/5311458)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+Rogue AI or nation-state hackers would be preferable to the amount of technical debt the past week of wobbling services laid bare
+
+## [Trump says he won't allow US companies to build datacenters abroad](https://www.theregister.com/off-prem/2026/11/23/trump-says-he-wont-allow-us-companies-to-build-datacenters-abroad/5311640)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+President threatens 'tremendous tax' on overseas builds, but analysts question how restrictions would work
+
 ## [Once Called Home by Lockkeepers and Park Rangers, This 200-Year-Old House Along the Historic Chesapeake and Ohio Canal Is Now Opening Its Doors to Overnight Guests](https://www.smithsonianmag.com/smart-news/once-called-home-by-lockkeepers-and-park-rangers-this-200-year-old-house-along-the-historic-chesapeake-and-ohio-canal-is-now-opening-its-doors-to-overnight-guests-180989924/)
 
 via Smithsonian Magazine · 2026-11-23
 
 From the 1830s to the 1920s, Lockhouse 8 provided living quarters for the generations of lockkeepers who helped keep boats moving along canal, a critical route from the Atlantic Ocean to the American interior
+
+## [New Outlook's attachment issues sent users into the arms of its predecessor](https://www.theregister.com/saas/2026/11/23/new-outlooks-attachment-issues-sent-users-into-the-arms-of-its-predecessor/5311576)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+Microsoft recommended Classic or the web client while two rounds of fixes restored normal service
+
+## [Norway links energy firm cyberattacks to critical Azure API Management flaw](https://www.theregister.com/security/2026/11/23/norway-links-energy-firm-cyberattacks-to-critical-azure-api-management-flaw/5311598)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+Microsoft says mitigation is in place, but admins must investigate possible compromise and rotate secrets
+
+## [Cleverbridge admits attackers stole customers' credit card and CVV numbers. Yep, you read that right](https://www.theregister.com/cyber-crime/2026/11/23/cleverbridge-admits-attackers-stole-customers-credit-card-and-cvv-numbers-yep-you-read-that-right/5311573)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+Payments platform hasn't disclosed how the data was captured or the scale of the breach
+
+## [Capita CEO leaves following pensions contract disaster](https://www.theregister.com/public-sector/2026/11/23/capita-ceo-leaves-following-pensions-contract-disaster/5311585)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+Shares plunge around 70% as outsourcer cuts profit expectations and plans £190M cash call
+
+## [Old-school Linux desktops find fresh routes to Wayland](https://www.theregister.com/os-platforms/2026/11/23/old-school-linux-desktops-find-fresh-routes-to-wayland/5311349)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+Xfce lines up 4.22 for 2027, while MATE gains an Ubuntu-based distro and a compositor of its own
+
+## [Airbus may be leaving Microsoft Office, but for its 36,000 defense staff, Office isn't leaving them](https://www.theregister.com/applications/2026/11/23/airbus-may-be-leaving-microsoft-office-but-for-its-36000-defense-staff-office-isnt-leaving-them/5311325)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+Planemaker's 2-to-3-year plan to ditch Redmond's suite stops short of the 22% who can't go near the cloud
+
+## [When Microsoft, Apple, and the FAA can't keep it up, it's a system of a down](https://www.theregister.com/columnists/2026/11/23/when-microsoft-apple-and-the-faa-cant-keep-it-up-its-a-system-of-a-down/5311363)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+Outage after outage after outage is a syndrome that needs radical treatment
 
 ## [Your favorite apple is a cloned ovary – and other apple facts](https://www.npr.org/2026/11/23/nx-s1-6050315/apple-orchard-harvest-ovary-clone)
 
@@ -120,6 +252,18 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 
 [NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)
 
+## [Software issues have even reached Mercury as BepiColombo probe arrives in uncertain state](https://www.theregister.com/science/2026/11/23/software-issues-have-even-reached-mercury-as-bepicolombo-probe-arrives-in-uncertain-state/5311554)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+Spacecraft enters orbit after epic journey but something shortened a burn
+
+## [Techie turned his too-easy job interview into a trap](https://www.theregister.com/personal-tech/2026/11/23/techie-turned-his-too-easy-job-interview-into-a-trap/5311213)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+With the flick of a switch, he smoked out competent PC maintenance skills
+
 ## [APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251](https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/)
 
 via NASA breaking news · 2026-11-23, updated 2026-11-24
@@ -131,6 +275,18 @@ APOD Science APOD APOD: 2026 November 23 – The… Today’s APOD Archive Submi
 via NASA breaking news · 2026-11-23, updated 2026-11-24
 
 A next-generation geodetic instrument developed by NASA, part of a network that helps measure satellites’ orbits and the planet’s shape, has debuted in Svalbard, Norway.
+
+## [Google claims last week’s critical VMware bug was under attack in September](https://www.theregister.com/virtualization/2026/11/23/google-claims-last-weeks-critical-vmware-bug-was-under-attack-in-september/5311547)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+China-linked ARMORY CASTLE knew about it weeks before it unleashed five custom malware tools targeting vCenter
+
+## [$1 of GPT-5.1 tokens finds new ways around China’s Great Firewall](https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532)
+
+via The Register (UK I.T. News) · 2026-11-23
+
+PLUS: Lenovo's infra group finally makes big profit; Indonesia’s glaciers are gone; Australian bank releases its AI bug-finder; and more!
 
 ## [An ordinary evening on the Brooklyn Bridge](https://publicai.substack.com/p/an-ordinary-evening-on-the-brooklyn)
 
@@ -144,6 +300,24 @@ via NASA breaking news · 2026-11-22, updated 2026-11-24
 
 For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26 years. Today, Johnson teams are preparing crews and \[…\]
 
+## [As cars go digital, US consumers pay an extra $12 billion a year for repairs](https://www.theregister.com/personal-tech/2026/11/22/as-cars-go-digital-us-consumers-pay-an-extra-12-billion-a-year-for-repairs/5311412)
+
+via The Register (UK I.T. News) · 2026-11-22
+
+Today's vehicles need software tools to make repairs, and the subscriptions inflate insurance fees
+
+## [Passive 'ghost' radar can detect airborne threats without revealing its own position](https://www.theregister.com/offbeat/2026/11/22/passive-ghost-radar-can-detect-airborne-threats-without-revealing-its-own-position/5311023)
+
+via The Register (UK I.T. News) · 2026-11-22
+
+Kit piggybacks off TV and mobile signals and can be neatly stuffed into an SUV
+
+## [Come for the science, stay for the big iron: Supercomputer admin on why he loves the job](https://www.theregister.com/hpc/2026/11/22/come-for-the-science-stay-for-the-big-iron-supercomputer-admin-on-why-he-loves-the-job/5311247)
+
+via The Register (UK I.T. News) · 2026-11-22
+
+From the dotcom bubble to 200,00 cores of raw power
+
 ## [APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno](https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/)
 
 via NASA breaking news · 2026-11-22, updated 2026-11-24
@@ -156,11 +330,41 @@ via OS News · 2026-11-21, updated 2026-11-23
 
 Sometimes, all you need is a well-written guide on dual-booting NetBSD and Linux. After gaining some confidence from installing NetBSD on my Raspberry Pi, I started wondering, what if I installed it on my daily-driver ThinkPad and set it up to dual-boot? I could use NetBSD for whatever I felt like and fall back to Linux whenever I needed to. ↫ neongod So that’s exactly what you’re getting.
 
+## [AWS got hit by an outage too. Here's why you didn't hear about it](https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511)
+
+via The Register (UK I.T. News) · 2026-11-21
+
+If a service falls in the forest and nobody hears it...
+
+## [ChatGPT shrunk down to run on a Super Nintendo](https://www.theregister.com/offbeat/2026/11/21/chatgpt-shrunk-down-to-run-on-a-super-nintendo/5311418)
+
+via The Register (UK I.T. News) · 2026-11-21
+
+Just don't expect complex, coherent, or always correct answers
+
+## [NASA Mars rover and orbiter suffer glitches](https://www.theregister.com/science/2026/11/21/nasa-mars-rover-and-orbiter-suffer-glitches/5311360)
+
+via The Register (UK I.T. News) · 2026-11-21
+
+It isn't only systems on Earth suffering technical problems
+
 ## [APOD: 2026 November 21 – Voyager’s Neptune](https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/)
 
 via NASA breaking news · 2026-11-21, updated 2026-11-24
 
 APODScienceAPODAPOD: 2026 November 21 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Voyager’s Neptune Explanation: Cruising through the outer solar system, the Voyager 2 spacecraft made its closest approach \[…\]
+
+## [Amazon's split personality: AWS embraces bot commerce while main site enforces bans](https://www.theregister.com/ai-and-ml/2026/11/20/amazons-split-personality-aws-embraces-bot-commerce-while-main-site-enforces-bans/5311493)
+
+via The Register (UK I.T. News) · 2026-11-20
+
+Bot-based buying is here or not, depending on where you stand in the Amazon empire
+
+## [PHP 8.6: Things are gonna get a lot more strict around here](https://www.theregister.com/devops/2026/11/20/php-86-things-are-gonna-get-a-lot-more-strict-around-here/5311486)
+
+via The Register (UK I.T. News) · 2026-11-20
+
+Like a parent disciplining a misbehaving child, PHP’s annual update clamps down on loose default behaviors to curb malicious hacker horseplay.
 
 ## [Purism Differentiator Series, Part 20: Releasing Source Code to the Public](https://puri.sm/posts/purism-differentiator-series-part-20-releasing-source-code-to-the-public/)
 
@@ -176,6 +380,12 @@ via NASA breaking news · 2026-11-20, updated 2026-11-23
 
 Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds, which appear for only a short time each fall over Gale Crater, which it has been exploring for more than \[…\]
 
+## [Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers](https://www.theregister.com/cyber-crime/2026/11/20/visa-mastercard-theft-included-info-useful-for-phishing-but-not-draining-bank-accounts-say-researchers/5311478)
+
+via The Register (UK I.T. News) · 2026-11-20
+
+No financial details, but plenty of other clues
+
 ## [One of Hilma af Klint's Amazingly Rare Abstract Paintings Sold for a Record $12.7 Million at Auction. But Should It Have Been on Sale at All?](https://www.smithsonianmag.com/smart-news/one-of-hilma-al-klint-amazingly-rare-abstract-painting-sold-for-a-record-12-million-at-auctionbut-should-it-have-been-on-sale-at-all-180989922/)
 
 via Smithsonian Magazine · 2026-11-20, updated 2026-11-23
@@ -187,6 +397,12 @@ After "Ser III No. 5," painted in 1920, sold for nearly 16 times its pre-sale es
 via NASA breaking news · 2026-11-20, updated 2026-11-23
 
 Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U.S. space economy. NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 innovative projects, for a total investment of up to $171 million in seed \[…\]
+
+## [Signal slams door on prying AI agents to protect privacy](https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466)
+
+via The Register (UK I.T. News) · 2026-11-20
+
+Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls
 
 ## [A Roman Cup and Hundreds of Other Treasures Unearthed in This 2,000-Year-Old Tomb Reveal the Rich Exchange Network of an Ancient Asian Empire](https://www.smithsonianmag.com/smart-news/a-roman-cup-and-hundreds-other-treasures-unearthed-in-this-2000-year-old-tomb-reveal-the-rich-exchange-network-of-an-ancient-asian-empire-180989920/)
 
@@ -206,17 +422,41 @@ via Smithsonian Magazine · 2026-11-20, updated 2026-11-23
 
 The merger caused an eruption in late 2025, which researchers rushed to document using several ground- and space-based telescopes. With older data and the help of computer simulations, the team reconstructed the entire astrophysical process
 
+## [Nvidia’s journey to forge the one CPU SKU to rule them all](https://www.theregister.com/systems/2026/11/20/nvidias-journey-to-forge-the-one-cpu-sku-to-rule-them-all/5311438)
+
+via The Register (UK I.T. News) · 2026-11-20
+
+A deeper look at Vera
+
+## [China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server](https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382)
+
+via The Register (UK I.T. News) · 2026-11-20
+
+'Agents kept adapting for nearly a full day without human direction,' Amazon CISO said
+
 ## [An Isolated Group of Amazonian Hunter-Gatherers Made a Rare Request for Help From Outsiders, Raising Concerns About Forest Degradation](https://www.smithsonianmag.com/smart-news/an-isolated-group-of-amazonian-hunter-gatherers-made-a-rare-request-for-help-from-outsiders-raising-concerns-about-forest-degradation-180989909/)
 
 via Smithsonian Magazine · 2026-11-20, updated 2026-11-23
 
 Around 20 members of the Indigenous Awá tribe emerged from the rainforest and received food from neighboring villagers. The group has not made contact with the outside world in decades, so experts say deforestation may have left these individuals with no other option
 
+## [Dutch data watchdog highlights safety issues with AI glasses](https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345)
+
+via The Register (UK I.T. News) · 2026-11-20
+
+Devices found to misinterpret medication instructions and other scenarios impacting human safety
+
 ## [NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center](https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/)
 
 via NASA breaking news · 2026-11-20, updated 2026-11-23
 
 Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18.   Presenting the awards were Christine Powell, NASA Stennis center director, and Jeremy Parsons, the agency’s Artemis program manager responsible for management and oversight of NASA’s initiative to return \[…\]
+
+## [AI boom threatens circuit board crunch to rival pandemic-era chip shortage](https://www.theregister.com/systems/2026/11/20/ai-boom-threatens-circuit-board-crunch-to-rival-pandemic-era-chip-shortage/5311335)
+
+via The Register (UK I.T. News) · 2026-11-20
+
+Trade body warns automotive, medical, and defense orders are being crowded out, with relief unlikely before mid-2028
 
 ## [NASA’s Curiosity Mars Rover Collects Samples](https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/)
 
@@ -232,6 +472,12 @@ A new smartphone campaign has reached a memorable early milestone. Following its
 
 The post [Librem 5 v2 Campaign Builds Early Momentum at 100 Orders](https://puri.sm/posts/librem-5-v2-campaign-builds-early-momentum-at-100-orders/) appeared first on [Purism](https://puri.sm/).
 
+## ['Critical' 1970s-era Fujitsu UK police system could remain unsupported for three years](https://www.theregister.com/public-sector/2026/11/20/critical-1970s-era-fujitsu-uk-police-system-could-remain-unsupported-for-three-years/5311322)
+
+via The Register (UK I.T. News) · 2026-11-20
+
+Home Office needs more time with the PNC, which began life more than 50 years ago
+
 ## [Nine-Pound Eagles Seem to Be Hunting 60-Pound Baboons in Africa—Hinting the Predators May Have Gone After Our Ancestors, Too](https://www.smithsonianmag.com/smart-news/nine-pound-eagles-seem-to-be-hunting-60-pound-baboons-in-africa-hinting-the-predators-may-have-gone-after-our-ancestors-too-180989906/)
 
 via Smithsonian Magazine · 2026-11-20, updated 2026-11-23
@@ -246,17 +492,47 @@ When links in a communication network go down, messages can get routed in a loop
 
 The post [Network Researchers Nail Down Theory of ‘Perfect Resilience’](https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)
 
+## [Microsoft's last non-security preview of 2026 packs a punch](https://www.theregister.com/os-platforms/2026/11/20/microsofts-last-non-security-preview-of-2026-packs-a-punch/5311300)
+
+via The Register (UK I.T. News) · 2026-11-20
+
+Windows Search gets a makeover, while Hello lights up dim rooms
+
+## [Microsoft suggests Registry hack to work around hotpatch woes](https://www.theregister.com/os-platforms/2026/11/20/microsoft-suggests-registry-hack-to-work-around-hotpatch-woes/5311279)
+
+via The Register (UK I.T. News) · 2026-11-20
+
+App problems in Windows after default hotpatching? Who could have foreseen that?
+
 ## [Teeth Discovered in Two Chinese Caves Are Rewriting the Story of Homo Erectus, an Ancient Human Ancestor That May Have Been More Capable Than We Thought](https://www.smithsonianmag.com/smart-news/teeth-discovered-in-two-chinese-caves-are-rewriting-the-story-of-homo-erectus-an-ancient-human-ancestor-that-may-have-been-more-capable-than-we-thought-180989913/)
 
 via Smithsonian Magazine · 2026-11-20, updated 2026-11-23
 
 One new study suggests that the species persisted in mainland Asia for 216,000 years longer than previously thought. Another says Homo erectus was capable of living in a tropical rainforest, a discovery that turns a common extinction theory "on its head," according to one researcher
 
+## [AI could open wallets where ERP upgrade pitches can't, says PwC](https://www.theregister.com/ai-and-ml/2026/11/20/ai-could-open-wallets-where-erp-upgrade-pitches-cant-says-pwc/5311221)
+
+via The Register (UK I.T. News) · 2026-11-20
+
+Consultancy argues a 'clean core' makes agents easier to deploy – but Kingfisher is taking a different route
+
+## [Spy court blasts UK secrecy, forces government to admit Apple ‘backdoor’ demand](https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292)
+
+via The Register (UK I.T. News) · 2026-11-20
+
+Notice's existence can be acknowledged without harming national security, but its precise demands remain under wraps
+
 ## [Georgia O'Keeffe Is Famous for Painting Flowers and Deserts. Why Have We Forgotten Her Obsession With American Architecture?](https://www.smithsonianmag.com/smart-news/georgia-okeeffe-is-famous-for-painting-flowers-and-deserts-why-have-we-forgotten-her-obsession-with-american-architecture-180989911/)
 
 via Smithsonian Magazine · 2026-11-20, updated 2026-11-23
 
 Featuring nearly 40 artworks, a new exhibition at the Detroit Institute of Arts spotlights the artist's mesmerizing portrayals of the built environment, from rural farmhouses to city skyscrapers
+
+## [Windows 11 passkey bug cries failure after successful sign-in](https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263)
+
+via The Register (UK I.T. News) · 2026-11-20
+
+Optional update fixes misleading Android error for versions 25H2 and 26H2
 
 ## [The history behind the x86 CPU: from 4004 to 486](https://www.osnews.com/story/146445/the-history-behind-the-x86-cpu-from-4004-to-486/)
 
@@ -270,6 +546,12 @@ via OS News · 2026-11-20, updated 2026-11-23
 
 FreeBSD has a pretty neat safe memory reclamation scheme (something akin to RCU), that’s also been adopted by XNU that hasn’t really been well-documented outside of code comments, and I thought it would’ve been interesting to write about it. ↫ Loïc Grégoire Some light reading for the weekend.
 
+## [Ubuntu Core Desktop targets 28.04 debut, with default status in its sights](https://www.theregister.com/os-platforms/2026/11/20/ubuntu-core-desktop-targets-2804-debut-with-default-status-in-its-sights/5310837)
+
+via The Register (UK I.T. News) · 2026-11-20
+
+Canonical's stretch goal is to make the immutable OS standard in 30.04 – without retiring the traditional distro
+
 ## [This gas station drug acts like opioids. It’s getting harder to buy](https://www.npr.org/2026/11/20/nx-s1-6045648/kratom-opioid-addiction-7-oh)
 
 via NPR Short Wave · 2026-11-20, updated 2026-11-23
@@ -279,6 +561,12 @@ Support public media with NPR+ and enjoy perks for over 25 podcasts like this on
 See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
 
 [NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)
+
+## [Support tech fixed malware by charging client less for their services](https://www.theregister.com/personal-tech/2026/11/20/support-tech-fixed-malware-by-charging-client-less-for-their-services/5310959)
+
+via The Register (UK I.T. News) · 2026-11-20
+
+‘I gave up at least $6,000 and I’d do it again’
 
 ## [APOD: 2026 November 20 – V-G-R](https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/)
 
@@ -291,6 +579,30 @@ APODScienceAPODAPOD: 2026 November…Today’s APODArchiveSubmissionsIndexSearch
 via NASA breaking news · 2026-11-20, updated 2026-11-22
 
 Tropical Cyclone Xavier launched the basin’s storm season with a bang.
+
+## [Big Tech's compliance with EU market rules is performative, consumer group says](https://www.theregister.com/legal/2026/11/20/big-techs-compliance-with-eu-market-rules-is-performative-consumer-group-says/5311066)
+
+via The Register (UK I.T. News) · 2026-11-20
+
+BEUC urges Brussels to impose tougher penalties over alleged barriers to switching services and controlling personal data
+
+## [US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies](https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200)
+
+via The Register (UK I.T. News) · 2026-11-20
+
+Not many of the deals went through, but Chinese clouds no longer care about importing GPUs
+
+## [Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else](https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193)
+
+via The Register (UK I.T. News) · 2026-11-20
+
+Critical Virtzilla bugs allow authentication bypass, as a nested virtualization issue got Digital Ocean ducking
+
+## [Germ Network infects Android, but in a good way](https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186)
+
+via The Register (UK I.T. News) · 2026-11-20
+
+Bluesky's preferred encrypted messaging app allows multiple identities without tying you to a phone number
 
 ## [Purism Differentiator Series, Part 19: PureOS Store](https://puri.sm/posts/purism-differentiator-series-part-19-pureos-store/)
 

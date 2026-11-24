@@ -1,14 +1,22 @@
 ---
 title: "Craft"
 description: "Craft is a list of hand oriented craft and technology\nDo we really need all those power tools?"
-pubDate: Mon, 23 Nov 2026 14:34:03 GMT
+pubDate: Mon, 23 Nov 2026 16:00:41 GMT
 aggregateOf: "craft.md"
-dateModified: Tue, 24 Nov 2026 06:47:30 GMT
-itemCount: 34
+dateModified: Tue, 24 Nov 2026 07:45:49 GMT
+itemCount: 35
 generator: antenna/0.2.0
 ---
 
 # Craft
+
+## [Turned Christmas Tree](https://www.popularwoodworking.com/projects/turned-christmas-tree/)
+
+via Popular Woodworking · 2026-11-23
+
+![](https://media.popularwoodworking.com/app/uploads/2020/12/23095158/aw_16317_-013-1024x768.jpg)Create controlled, curled shavings with a modified skew chisel. These trees come all the way from the Erzgebirge (’erts-gә-bir-gә). Actually, I made them in Wisconsin, but the unique curl-turning technique...
+
+[Source](https://www.popularwoodworking.com/projects/turned-christmas-tree/)
 
 ## [ShopNotes Podcast Episode 293 — Personality: ACTIVATED](https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-293-personality-activated/)
 

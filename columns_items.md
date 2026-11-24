@@ -3,8 +3,8 @@ title: "Columns"
 description: "Blogs, columns and snapshots from around the web."
 pubDate: Sat, 01 Jun 2030 13:00:00 GMT
 aggregateOf: "columns.md"
-dateModified: Tue, 24 Nov 2026 06:47:29 GMT
-itemCount: 1238
+dateModified: Tue, 24 Nov 2026 07:40:55 GMT
+itemCount: 1241
 generator: antenna/0.2.0
 ---
 
@@ -23,6 +23,24 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+
+## [Ladybird is freakin’ awesome!](https://dbushell.com/2026/11/24/ladybird-is-freakin-awesome/)
+
+via DAve Bushell blog · 2026-11-24
+
+I have to hand it to Andreas Kling’s chatbot, it really got the vibes just right with the Ladybird web browser. I honestly didn’t think a chatbot was capable of slopping out a renderer of this quality. I was wrong to discriminate against chatbots. \[…\]
+
+## [15 ways readers can support the indie web](https://tracydurnell.com/2026/11/23/15-ways-readers-support-indie-web/)
+
+via Tracy Durnell Blog · 2026-11-24
+
+I believe readers are an integral part of the indie web: reading, commenting on, sharing, and supporting independently published websites is what makes the indie web work as a system. Publishing online is offering a gift — and gifts are intended to be received. Without readers, a blog becomes more like an open diary than \[…\]
+
+## [Lenovo x61s today](http://jirka.1-2-8.net/20261124-0341_Lenovo_x61s_today)
+
+via Jirka's blog · 2026-11-24
+
+This summer I have decided (with no actual reason) to buy a new battery for my old x61s. It runs old OS (an Ubuntu version so old so I cannot upgrade it at all) and is slow and underpowered by today's standards.
 
 ---
 
@@ -583,7 +601,7 @@ To read this letter, click here:
 
 ## [The magical certainty of “information”](https://tracydurnell.com/2026/11/22/the-magical-certainty-of-information/)
 
-via Tracy Durnell Blog · 2026-11-23
+via Tracy Durnell Blog · 2026-11-23, updated 2026-11-24
 
 Towards a Philosophy of Photography (pdf) by Vilém Flusser — 1983 “The function of technical images is to liberate their receivers by magic from the necessity of thinking conceptually… Texts were invented in the second millennium BC in order to take the magic out of images…; the photograph, the first technical image, was invented in \[…\]
 
@@ -1038,13 +1056,13 @@ Friends,
 
 ## [Writers I used to read](https://tracydurnell.com/2026/11/21/writers-i-used-to-read/)
 
-via Tracy Durnell Blog · 2026-11-22, updated 2026-11-23
+via Tracy Durnell Blog · 2026-11-22, updated 2026-11-24
 
 Sometimes when I encounter a writer I used to read regularly but don’t anymore, it seems like I’ve advanced in my thinking while they’re stuck in the same place. I don’t recall that being my conscious reason for quitting reading someone — usually I unfollow because I notice myself skipping their posts in my reader \[…\]
 
 ## [Capitalism resurrected](https://tracydurnell.com/2026/11/21/capitalism-resurrected/)
 
-via Tracy Durnell Blog · 2026-11-22, updated 2026-11-23
+via Tracy Durnell Blog · 2026-11-22, updated 2026-11-24
 
 Making it easy to not think by Gerry McGovern Making it easy to not think “The big bucks are in devouring our environment. There is a direct relationship between the amount of energy, water, and materials that are devoured and wasted, and the amount of fast cash that can be made. AI is a perfect \[…\]
 
@@ -1483,7 +1501,7 @@ I am enjoying @scripting.com's BonBon, https://github.com/scripting/bonBon/relea
 
 ## [Weeknotes: Nov. 14-20, 2026](https://tracydurnell.com/2026/11/20/weeknotes-nov-14-20-2026/)
 
-via Tracy Durnell Blog · 2026-11-21, updated 2026-11-23
+via Tracy Durnell Blog · 2026-11-21, updated 2026-11-24
 
 Win of the week: 1.5 hours business development — probably the most valuable hour and a half of my whole year 🙌 developed new positioning for my consulting work Looking forward to: I came up with a Thanksgiving activity for me and my husband I’m actually excited for!\* Gonna have fancy snack dinner, make popcorn \[…\]
 
@@ -2671,7 +2689,7 @@ Podcast: [Make the United States the United States again](https://shownotes.scri
 
 ## [Where we’re going, we don’t need chatbots](https://dbushell.com/2026/11/19/we-dont-need-chatbots/)
 
-via DAve Bushell blog · 2026-11-19
+via DAve Bushell blog · 2026-11-19, updated 2026-11-24
 
 “You’ve been working hard, why not take a weekend vacation!” Your chatbot says, after a 72 hour unattended session. It says that New York is nice this time of year. You ask it to book the cheapest flights. Half the airlines respond with a 429 code because your residential IP is part of five botnets. \[…\]
 
@@ -2899,7 +2917,7 @@ For three hot days, from July 1 to July 3, 1863, more than 150,000 soldiers from
 
 ## [Listened to Black Holes & Revelations](https://tracydurnell.com/2026/11/18/listened-to-black-holes-revelations/)
 
-via Tracy Durnell Blog · 2026-11-19, updated 2026-11-23
+via Tracy Durnell Blog · 2026-11-19, updated 2026-11-24
 
 I strongly associate Muse with college, and these days only listen to one song at a time when they come on in a playlist. But ‘Take a Bow’ came on my music player’s AutoDJ and I was like, huh. I listened to the whole album –actually, it rocks! Reminder to myself that it’s good to \[…\]
 
@@ -3644,7 +3662,7 @@ Mystery solved: this explains why I had bad vibes every time I talked to someone
 
 ## [The complex grief of genAI](https://tracydurnell.com/2026/11/17/the-complex-grief-of-genai/)
 
-via Tracy Durnell Blog · 2026-11-18, updated 2026-11-23
+via Tracy Durnell Blog · 2026-11-18, updated 2026-11-24
 
 existential identity collapse as an artist in 2026 by small cypress “I quit art… The alternative was to continue making work and training models for free while people who never wanted to put in the hours profit from what I do. I could compete with the people stealing from me or I could quit. “I \[…\]
 
@@ -4269,7 +4287,7 @@ The extraordinary Nvidia scandal encapsulates the nation’s economic and politi
 
 ## [Prestige and taste](https://tracydurnell.com/2026/11/16/prestige-and-taste/)
 
-via Tracy Durnell Blog · 2026-11-17, updated 2026-11-23
+via Tracy Durnell Blog · 2026-11-17, updated 2026-11-24
 
 New Media is Insider Media by Anu (Working Theorys) “PRESTIGE IS PERCEIVED TASTE LEGITIMACY. Prestige is earned through taste discipline and operates on a curve: past the taste optimum, more is bad. It becomes tryhard, tacky, or tasteslop. Prestige emerges when a group believes someone consistently demonstrates superior judgment. “Prestige earns in-group status, but it \[…\]
 
@@ -4594,7 +4612,7 @@ Magical!
 
 ## [Visited links are purple](https://dbushell.com/2026/11/16/visited-links/)
 
-via DAve Bushell blog · 2026-11-16, updated 2026-11-19
+via DAve Bushell blog · 2026-11-16, updated 2026-11-24
 
 A few weeks ago Kev Quirk asked: Do you use :visited on links? — and I said to myself: No! I don’t use visited links… but why don’t I use visited links? TL;DR: I’ve gone and styled visited links, and they’re purple. Blue and purple I did a cursory five minutes of research and found Wikipedia still \[…\]
 
@@ -5172,7 +5190,7 @@ It’s about ethics in gamedev gatekeeping.
 
 ## [Reenchanting the world by seeing it truly](https://tracydurnell.com/2026/11/15/reenchanting-the-world-by-seeing-it-truly/)
 
-via Tracy Durnell Blog · 2026-11-15, updated 2026-11-23
+via Tracy Durnell Blog · 2026-11-15, updated 2026-11-24
 
 Against Disliteracy by Mandy Brown (A Working Library) — 2026 “Poet and typographer Robert Bringhurst proposes that reading ‘simply means paying attention to what’s in front of you and trying to make sense of it.’ This is what he terms a ‘non-material’ definition of reading, a reading that encompasses both books and texts but also \[…\]
 
@@ -5322,7 +5340,7 @@ Me studying the Liquid Glass updates to Apple's Creative Suite:
 
 ## [RSS Club #010: Chatbots](https://dbushell.com/2026/11/15/RSS010/)
 
-via DAve Bushell blog · 2026-11-15, updated 2026-11-19
+via DAve Bushell blog · 2026-11-15, updated 2026-11-24
 
 This is an RSS-only post, thank you for subscribing :) My RSS-only posts have a permalink for those who prefer reading from my website. That link is hidden and unindexed. URLs can be linked to but in the spirit of “RSS Club” I’d prefer if my RSS-only posts were only linked to from other RSS-only \[…\]
 
@@ -5488,7 +5506,7 @@ Friends,
 
 ## [Radio Rituals](https://tracydurnell.com/2026/11/14/radio-rituals/)
 
-via Tracy Durnell Blog · 2026-11-15, updated 2026-11-23
+via Tracy Durnell Blog · 2026-11-15, updated 2026-11-24
 
 Something reminded me of the song Alice’s Restaurant Massacree today, so I listened to it for probably the first time since 2008, the last time I did Thanksgiving with my parents.\* We used to listen to it at my grandparents’ house every Thanksgiving because it played at noon on KFOG, the family’s favorite radio station. \[…\]
 
@@ -9584,7 +9602,7 @@ Tue, 11am ET - Stuart Stevens joins us for our next “What’s Next” discussi
 
 ## [I was wrong about dark mode](https://dbushell.com/2026/11/09/dark-mode/)
 
-via DAve Bushell blog · 2026-11-09, updated 2026-11-19
+via DAve Bushell blog · 2026-11-09, updated 2026-11-24
 
 Apple invented dark mode again! They’re calling the new feature Adaptive Dark Mode™. I’m learning that other browsers already had a similar feature. I assumed people relied on add-ons like Dark Reader (and millions do). Regardless, pushing what is effectively an accessibility option to the forefront \[…\]
 
@@ -14051,7 +14069,7 @@ Where crypto and AI super PACs are spending, what their ads won’t talk about, 
 
 ## [Death comes for XSLT](https://dbushell.com/2026/11/03/xslt-rip/)
 
-via DAve Bushell blog · 2026-11-03, updated 2026-11-19
+via DAve Bushell blog · 2026-11-03, updated 2026-11-24
 
 Last halloween, Google decided to kill XSLT. That was not a unilateral decision mind you, Google said “jump” and other browser vendors said “how high?” In response, I published my Intent to Deprecate and Remove Google Chrome. A performative declaration of course, I don’t install spyware. \[…\]
 

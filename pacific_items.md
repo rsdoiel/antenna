@@ -1,10 +1,10 @@
 ---
 title: "Pacific"
 description: "News from Hawaiʻi, Micronesia, Oceania and the Pacific Rim."
-pubDate: Tue, 24 Nov 2026 04:57:02 GMT
+pubDate: Tue, 24 Nov 2026 07:22:03 GMT
 aggregateOf: "pacific.md"
-dateModified: Tue, 24 Nov 2026 06:47:32 GMT
-itemCount: 4373
+dateModified: Tue, 24 Nov 2026 07:27:30 GMT
+itemCount: 4448
 generator: antenna/0.2.0
 ---
 
@@ -86,7 +86,7 @@ Jeonbuk National University (JBNU) ranked 12th among Korean universities in the 
 
 via Korea Times · 2026-11-24
 
-The government plans to extend the ban on retesting people caught cheating on national technical qualification exams from three years to 10 years and to raise the maximum prison sentence to five years, more than double the current limit, as fears of cheating with artificial intelligence (AI) mount across Korea’s testing system. The Ministry of Employment and Labor announced the measures Tuesday, amid growing suspicions over unusually high scores on national licensing exams and concerns about increasingly sophisticated cheating methods involving smart glasses, miniature cameras and modified calculators. To restore public trust in exam results, the ministry will also make the scores of the top two candidates public, along with average scores and score distributions by subject. The government has already begun tightening exam supervision, introducing stricter electronic device checks, additional proctors and Bluetooth-detection applications. The measures were first applied to the security instructor licensing exam Saturday, when six violations were detected among 11,554 candidates. Authori
+The government plans to extend the ban on retesting people caught cheating on national technical qualification exams from three years to 10 years and to raise the maximum prison sentence to five years, more than double the current limit, as fears of cheating with artificial intelligence (AI) mount across Korea’s testing system. The Ministry of Employment and Labor announced the measures Tuesday, amid growing suspicions over unusually high scores on national licensing exams and concerns about increasingly sophisticated cheating methods involving smart glasses, miniature cameras and modified calculators. To restore public trust in exam results, the ministry will also make the scores of the top two candidates public, along with average scores and score distributions by subject. The move comes amid growing concerns that traditional exam supervision, which relies heavily on visual checks by proctors, can no longer keep pace with increasingly sophisticated cheating methods. The first case of cheating using smart glasses in a national qualification exam was detected in May, while miniature ca
 
 ## [Paradise showcases Korean cuisine at La Liste 2027](https://www.koreatimes.co.kr/business/companies/20261124/paradise-showcases-korean-cuisine-at-la-liste-2027?utm_source=rss)
 
@@ -98,7 +98,7 @@ Paradise participated as an official partner in La Liste Paris 2027 on Monday (l
 
 via Korea Times · 2026-11-24
 
-Justice Minister nominee Lee Yong-cheol pledged Tuesday to complete reforms of the criminal justice system following the recent sweeping overhaul of the prosecution service. Lee made the remarks during his parliamentary confirmation hearing after the country launched a newly scaled-down prosecution service last month, stripping prosecutors of their investigative powers. "By making sure the new criminal justice system is stably established, I will do my best to make sure there are no gaps in the protection of the public," he said. Lee added he would ensure that prosecutors focus on fairly exercising their indictment powers and protecting human rights so that there are no shortcomings in the crime response. Last month's reform took place amid criticism that some prosecutors abused their investigative powers and pursued politically motivated investigations. President Lee Jae Myung tapped Lee, then head of the defense procurement agency, as the new justice minister on Nov. 6 after former Justice Minister Jung Sung-ho left office in August. By law, all Cabinet nominees are required to undergo p
+Justice Minister nominee Lee Yong-cheol pledged Tuesday to complete reforms of the criminal justice system following the recent sweeping overhaul of the prosecution service. Lee made the remarks during his parliamentary confirmation hearing after the country launched a newly scaled-down prosecution service last month, stripping prosecutors of their investigative powers. "By making sure the new criminal justice system is stably established, I will do my best to make sure there are no gaps in the protection of the public," he said. Lee added he would ensure that prosecutors focus on fairly exercising their indictment powers and protecting human rights so that there are no shortcomings in the crime response. Last month's reform took place amid criticism that some prosecutors abused their investigative powers and pursued politically motivated investigations. During the hearing, the nominee avoided offering a direct response to questions about whether he planned to instruct prosecutors to drop indictments against President Lee Jae Myung. "I have no intentions of rashly exercising my authority t
 
 ## [ASEAN+3 nations to discuss regional financial cooperation](https://www.koreatimes.co.kr/foreignaffairs/20261124/asean3-nations-to-discuss-regional-financial-cooperation?utm_source=rss)
 
@@ -268,6 +268,414 @@ via Korea Times · 2026-11-24
 
 There may be no real person behind the voice singing the song, but the music itself remains. A song created using artificial intelligence (AI) has reached the top of Korea's largest music streaming platform. As AI-generated music wins over listeners and climbs to No. 1 on the charts, it is once again drawing attention to broader debates about the future of the music industry. “The Adult I Dreamed Of” by MEOMURU reached No. 1 on Melon's Top 100 chart on the afternoon of Nov. 13. It was the first AI-generated track to top the chart and maintained its position for more than a week, as of the afternoon of Nov. 20. Released in June, the song began gaining traction on music charts after spreading through social media as background music for short-form videos. Its success attracted even greater attention because it topped a chart featuring other recent hits, including A2O LITE's “Neon,” RESCENE's “With” and ILLIT's “You're Under Arrest.” MEOMURU is an AI music project created by Glorywave, a production team consisting of composers and producers Lee Yong-seok, also known as Mart
 
+## [Traditional Korean paper gains recognition as tool for preserving world heritage](https://www.koreatimes.co.kr/lifestyle/koreanheritage/20261124/traditional-korean-paper-gains-recognition-as-tool-for-preserving-world-heritage?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Hanji, the traditional Korean paper, is gaining attention as researchers document its potential for restoring some of the world's most treasured cultural artifacts. The National Research Institute of Cultural Heritage said Tuesday it had published a reference book titled “Our Paper, Hanji: A Reference Guide to Lightweight Hanji,” documenting the physical properties and characteristics of hanji used in cultural heritage conservation and restoration. The publication defines lightweight hanji as paper weighing less than 15 grams per square meter and includes samples produced by six artisans recognized as holders of national or provincial intangible cultural heritage. The book combines actual paper samples with scientific assessments, allowing researchers and restoration specialists to compare how production techniques and working conditions influence the material's characteristics. Hanji has long served as a material for preserving and restoring cultural heritage, with its qualities shaped by generations of papermaking expertise and craftsmanship. Its international applications have also
+
+## [PM vows to thoroughly investigate suspected cheating in past state-run exams](https://www.koreatimes.co.kr/southkorea/education/20261124/pm-vows-to-thoroughly-investigate-suspected-cheating-in-past-state-run-exams?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Prime Minister Han Seong-sook said Tuesday the government will look thoroughly into suspected cheating cases in past state-run exams and take every possible measure against offenders. Han made the remark at the start of a meeting of the government's task force on ensuring exam fairness, instructing ministries in charge of respective exams to look into whether cheating using artificial intelligence (AI) and other high-tech means had occurred in past exams. "We should closely examine problems raised in the press, reports of suspected cheating and unusual score patterns, and take all possible measures, including stripping licenses and criminal punishment, if cheating is actually confirmed," Han said. Exam cheating has been one of the hottest topics in Korea in recent weeks, following the confession earlier this month by the top scorer of this year's certified tax accountant exam that he cheated with the help of AI and that he also used the same method on a certified public accountant exam. The revelations sparked massive concerns that AI-assisted cheating could be more widespread than previ
+
+## [Korea's foreign ministry expresses regret to Russia over warplanes' KADIZ entry](https://www.koreatimes.co.kr/southkorea/defense/20261124/koreas-foreign-ministry-expresses-regret-to-russia-over-warplanes-kadiz-entry?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+The foreign ministry said Tuesday it has conveyed its regret to Russia over the entry of Russian military aircraft into the country's air defense zone and called for measures to prevent a recurrence. About five Russian military aircraft entered the Korea Air Defense Identification Zone (KADIZ) over the East Sea earlier in the day and approached the edge of Korea's territorial airspace near Ulleung Island, according to the Joint Chiefs of Staff (JCS). "We conveyed our regret to Russia through diplomatic channels and called for measures to prevent a recurrence," the ministry said in a press release. The ministry sent the message to the Russian Embassy in Seoul but stopped short of summoning the Russian ambassador, diplomatic sources said. The defense ministry called in Nikolai Marchenko, a military attache from the Russian Embassy in Seoul, to lodge a formal complaint over the incident. The JCS issued an alert for residents of the eastern island as the aircraft appeared close to entering Korean airspace. The Air Force also scrambled fighter jets in response, though no violation of the count
+
+## [\[FORUM\] Trust built on transparency, predictability key to achieving 'Korea premium'](https://www.koreatimes.co.kr/economy/20261124/forum-trust-built-on-transparency-predictability-key-to-achieving-korea-premium?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Korea's capital market needs more transparency, predictability and access to gain more trust from foreign investors and attract them, in a broader goal to narrow the longstanding discount on Korean stocks and build a “Korea premium,” experts said. Domestic and overseas financial experts, investors and business leaders discussed tasks to achieve that goal at the 2026 Korea Times Forum Tuesday. Under the theme “Capital market advancement: Giant leap toward era of Korea premium,” the forum examined measures to curb unfair trading, delist struggling companies and expand English-language disclosures. It also explored how companies can increase shareholder value by raising dividends, canceling treasury shares and strengthening the role of their boards. In a rare joint appearance, the forum brought together the chairs of all five major Korean financial groups — KB, Shinhan, Hana, Woori and NH NongHyup. In his welcome remarks, Korea Times Vice Chairman Seung Ji-soo said KOSPI’s recent drop below 5,000 after surpassing 9,000 in June “has reminded us that market confidence can be fra
+
+## [Musinsa wins Shanghai regional headquarters status, expands China ambitions](https://www.koreatimes.co.kr/business/companies/20261124/musinsa-wins-shanghai-regional-headquarters-status-expands-china-ambitions?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Korean fashion platform Musinsa has secured official recognition as a multinational corporation regional headquarters in Shanghai, gaining access to expanded government support as it deepens its investment in China and seeks to bring more domestic fashion brands to the market. Musinsa China received the certification at a Nov. 18 ceremony hosted by the Shanghai municipal government, the company said Tuesday. The designation recognizes Musinsa's continued investment and business expansion in China, where it has been building retail infrastructure and distribution channels to help Korean fashion labels reach local consumers. Shanghai's regional headquarters certification program is designed to attract international investment and improve the business environment for foreign companies, with recipients selected through an assessment of their business scale and operational capabilities. Under the designation, Musinsa China will be eligible for policy support in areas including financial management, import and export customs procedures, talent recruitment and intellectual property protection. M
+
+## [KT, Army Training and Doctrine Command partner on next-gen battlefield system](https://www.koreatimes.co.kr/business/companies/20261124/kt-army-training-and-doctrine-command-partner-on-next-gen-battlefield-system?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+KT has signed an agreement with the Army Training and Doctrine Command to jointly develop the military branch's next-generation combat operations system, the telecom operator said Tuesday. The memorandum of understanding was signed at KT's Gwanghwamun Building West in central Seoul. Senior officials from both sides attended. The system, known as KCCS-Army, is designed around the Army's operating environment and mission needs. Command and control systems link commanders with units in the field so they can share battlefield information and direct operations. Under the agreement, KT will share and advise on advanced technologies such as artificial intelligence (AI), cloud computing and 5G. The two sides will jointly identify research and development tasks, including combat experiments. KT will also help identify key technologies and new weapons systems for the future Army. Both sides will look for ways to apply private-sector technology in the Army's operating environment. KT plans to draw on its experience building communications and data infrastructure for the military, including the Defe
+
+## [1,000 graduating design students to showcase works at DDP](https://www.koreatimes.co.kr/lifestyle/people-events/20261124/1000-graduating-design-students-to-showcase-works-at-ddp?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+About 1,000 graduating design students from across the country will showcase their senior projects to industry leaders and working designers at Dongdaemun Design Plaza (DDP) in central Seoul next week. The Seoul Metropolitan Government and the Seoul Design Foundation, which runs the plaza, will hold the 2026 DDP Next Design exhibition from Dec. 1-5. The show brings together 1,000 graduation works from 64 departments at 50 universities, a larger lineup than last year's. The foundation said the event pairs graduation exhibitions with presentations to companies and career mentoring. It is part of the city's strategy to nurture young designers. On Dec. 3, 10 students chosen through a screening will present their work and vision to design company leaders at a "design busking" session. Under the theme "Whose tomorrow does my design change?" they will explain the problem they found and how they tried to solve it through design. The audience will vote on several awards, including a Next Designer prize, and winners will receive perks. About 150 design company leaders attending the session will th
+
+## [City libraries open warm winter spaces to encourage household energy savings](https://www.koreatimes.co.kr/southkorea/others/20261124/city-libraries-open-warm-winter-spaces-to-encourage-household-energy-savings?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Seoul is inviting residents to turn down their home heating and head to nearby libraries this winter, pairing an energy-saving campaign with hundreds of reading and cultural programs across the city. The Seoul Metropolitan Government said Tuesday that 214 libraries, including Seoul Metropolitan Library, will participate in its Off & Library campaign from Dec. 1 through Feb. 28, 2027. The initiative, titled Libraries Are Hot, encourages residents to switch off their heating temporarily and spend time reading or enjoying cultural activities in warm public spaces, reducing household energy consumption during the coldest months. Now in its fourth year, Seoul Metropolitan Library's seasonal climate campaign has featured separate summer and winter editions, promoting libraries as places to escape extreme temperatures while encouraging everyday energy conservation. Under the slogan “Heating OFF for the Earth, GO to the Library,” participating institutions will offer 961 reading and cultural programs, including winter movie screenings, year-end performances and exhibitions featuring curated
+
+## [Bae Yong-joon, Park Soo-jin return to Korea after four years in Hawaii](https://www.koreatimes.co.kr/entertainment/20261124/bae-yong-joon-park-soo-jin-return-to-korea-after-four-years-in-hawaii?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Actor Bae Yong-joon, one of the original stars of the Korean wave, and his wife, actor Park Soo-jin, have reportedly returned to Korea with their two children after spending approximately four years in Hawaii. Local media outlet OSEN reported Tuesday that the celebrity couple returned to Korea earlier this year and have since settled in Seoul. Bae and Park, who have largely stepped away from the entertainment industry, married in 2015 and have a son and a daughter. The family reportedly moved to Hawaii in 2022. According to the report, the couple decided to return to Korea after discussing the matter with their children, with Park reportedly particularly keen to move back. The family is reportedly living in an apartment in southern Seoul's Seocho District, while both children attend an international school in Korea. The couple made headlines in June when they were spotted vacationing in Singapore with another celebrity couple, actors Park Shin-hye and Choi Tae-joon. Bae particularly drew attention for his long, gray hair, a departure from the image many fans remember from his acting days.
+
+## [2 foundational chronicles of ancient Korea to go on joint display for 1st time](https://www.koreatimes.co.kr/lifestyle/koreanheritage/20261124/2-foundational-chronicles-of-ancient-korea-to-go-on-joint-display-for-1st-time?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Two foundational chronicles of Korea’s ancient kingdoms will go on joint display in the country for the first time, offering visitors a rare look at how the history of Baekje and other early states was recorded and preserved. The Seoul Metropolitan Government said Tuesday that Hansung Baekje Museum will open a special exhibition, “Samguk Sagi and Samguk Yusa: Recording Baekje,” on Friday, running through Feb. 21. The exhibition marks the reopening of the museum's permanent galleries and brings together the two landmark historical works, “Samguk Sagi” and “Samguk Yusa,” alongside restored woodblocks and historical editions. A major highlight is the complete Oksan Seowon edition of “Samguk Sagi,” a National Treasure comprising nine volumes and 50 books printed around 1573. Oksan Seowon, a Confucian academy in Gyeongju, North Gyeongsang Province, is lending the entire collection to highlight the historical value of documentary heritage and the importance of its preservation. Compiled in 1145 under the direction of Kim Bu-sik during the Goryeo Kingdom, “Samguk Sagi” is t
+
+## [\[FORUM\] Experts call for changes in corporate behavior to tackle 'Korea discount'](https://www.koreatimes.co.kr/economy/20261124/forum-experts-call-for-changes-in-corporate-behavior-to-tackle-korea-discount?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Korea's corporate governance reforms must translate into tangible changes in corporate decision-making in order for the country to overcome its longstanding market discount, experts said Tuesday. The remarks came during the 2026 Korea Times Forum, where participants discussed ways to strengthen the country's capital market and improve its global competitiveness. During a session titled "Capital market reform to eliminate Korea discount," panelists examined structural weaknesses holding back the market and measures to attract more long-term investment. The discussion was moderated by Kim Woo-chan, chairman of the Kosdaq Market Committee and a professor at Korea University, and brought together Shin Wang-kun, an expert member of the National Pension Fund Management Committee; Yoon Chang-yong, head of research at Shinhan Securities; and Sachin Bhambani, executive vice president of Standard Chartered Bank Korea. Shin identified conflicts of interest between controlling shareholders and ordinary shareholders as a fundamental weakness in Korea's corporate governance structure. "Many listed comp
+
+## [HD Hyundai's Global R&D Center earns national building safety certification](https://www.koreatimes.co.kr/business/companies/20261124/hd-hyundais-global-rd-center-earns-national-building-safety-certification?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+HD Hyundai’s Global R&D Center has earned a national safety certification for its facility management, the shipbuilding and heavy industry conglomerate said Tuesday. The company received the Space Safety Certification from the Korea Safety Certification Institute on Monday at a ceremony at the center. The center is located in Pangyo, Seongnam, Gyeonggi Province, a technology hub south of Seoul often called Korea's Silicon Valley. The certification is the country's only voluntary safety evaluation program for companies. The institute runs it under the supervision of the National Fire Agency. The program assesses a building's safety comprehensively, from design and construction to operation and maintenance, and certifies facilities that meet its standards. Certification is valid for three years. During that period, the facility does not have to undergo one of the two comprehensive fire safety inspections normally required each year. The center earned the certification this month after about nine months of document reviews, on-site evaluations and improvement measures that began in Februa
+
+## [Lawmaker referred to prosecutors over alleged corruption, bribery](https://www.koreatimes.co.kr/southkorea/politics/20261124/lawmaker-referred-to-prosecutors-over-alleged-corruption-bribery?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Police on Tuesday referred independent lawmaker Kim Byung-kee to prosecutors over various corruption allegations, such as taking bribes. Kim, formerly of the ruling Democratic Party of Korea (DPK), faces allegations of accepting tens of millions of won in exchange for legislative favors for cryptocurrency exchange Bithumb and a transport system company. He is also suspected of overlooking allegations that a former DPK lawmaker took 100 million won ($74,400) in bribes ahead of the 2022 local elections, and accepting a hotel voucher from Korean Air, among other allegations. The Seoul Metropolitan Police Agency's public crimes unit sent the cases to the prosecution, recommending multiple charges, including acceptance of bribes and obstruction of business. Kim quit the DPK in January after stepping down as the party's floor leader the previous month over the mounting allegations.
+
+## [Hyundai, Kia's Europe sales fall 1.7% in October amid Chinese competition](https://www.koreatimes.co.kr/business/companies/20261124/hyundai-kias-europe-sales-fall-17-in-october-amid-chinese-competition?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Combined vehicle sales by Korea's Hyundai Motor and its affiliate Kia in Europe fell 1.7 percent in October from a year earlier amid stiff competition from Chinese automakers, industry data showed Tuesday. Hyundai and Kia sold a combined 80,005 vehicles in Europe last month, down from 81,358 a year earlier, according to data from the European Automobile Manufacturers' Association (ACEA). "Hyundai recently discontinued production of the i10, a mass-market model, in Europe to make way for the Ioniq 3. However, the new model has yet to gain traction among local customers," a company spokesperson said. In addition, gains made by Chinese carmakers in Europe weighed on the monthly results, he said. Hyundai Motor's sales fell 18.8 percent on-year to 33,245 units, while Kia's rose 15.7 percent to 46,760 units. In Europe, where emissions regulations are becoming increasingly stringent, the two automakers are focusing on expanding sales of eco-friendly vehicles, including Hyundai's Tucson gasoline hybrid and plug-in hybrid variants, and the all-electric Kona, as well as Kia's all-electric EV3 and N
+
+## [State honors revoked for 8 military officers behind state violence cases](https://www.koreatimes.co.kr/southkorea/defense/20261124/state-honors-revoked-for-8-military-officers-behind-state-violence-cases?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+The defense ministry said Tuesday it has revoked state honors and medals awarded to eight military officials behind state violence cases, including one involving forced conscription of university students who resisted former President Chun Doo-hwan's authoritarian rule in the 1980s. The Cabinet passed a motion Tuesday to annul 10 state honors conferred on eight military officers over their "unconstitutional" acts, according to the ministry. The move comes as the government has sought to strip those accused of state violence of their commendations as part of efforts to preserve constitutional value and set the prestige of state honors straight. Among them is late Gen. Park Jun-byung, who led a cover-up scheme by forcibly drafting university students in the early 1980s in an attempt to suppress student activists who resisted Chun's dictatorship. Park, who served as commander of the Defense Security Command at that time, received the Tongil medal of the Order of National Security Merit, the highest in the five ranks, over his role in the forced draft scheme in 1984. Chun seized power through
+
+## [\[PHOTOS\] 2026 Korea Times Forum](https://www.koreatimes.co.kr/economy/20261124/photos-2026-korea-times-forum?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Participants to the 2026 Korea Times Forum, “Capital market advancement: Giant leap toward era of Korea premium,” applaud during a VIP session at the Korea Chamber of Commerce and Industry, central Seoul, Tuesday. Dignitaries include, from left in the first row, IBK Securities President Choi Kwang-jin; Deutsche Bank Seoul branch Manager Park Hyun-nam; Mirae Asset Securities CEO and Vice Chairman Kim Mi-seob; Korean-German Chamber of Commerce and Industry President and CEO Marie Antonia von Schönburg; Woori Financial Group Chairman Yim Jong-yong; KB Financial Group Chairman Lee Jae-keun; The Korea Times Vice Chairman Seung Ji-soo; Hana Financial Group Chairman Ham Young-joo; Shinhan Financial Group Chairman Jin Ok-dong; NH NongHyup Financial Group Chairman Lee Chan-woo; British Chamber of Commerce in Korea CEO Lucinda Walker; General Insurance Association of Korea Chairman Lee Byung-rhae; and MBK Vice Chairman Kim Kwang-il. Korea Times photo by Shim Hyun-chul
+
+## [Seoul shares rebound over 6% on Huang's return](https://www.koreatimes.co.kr/economy/others/20261124/seoul-shares-rebound-over-6-on-huangs-return?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Korean shares rebounded over 6 percent Tuesday, recovering from a two-day rout, as chipmakers rallied amid a global wave of optimism sparked by Jensen Huang's return to lead Nvidia. The Korean won was trading higher against the U.S. dollar. The benchmark Korea Composite Stock Price Index (KOSPI) added 297.49 points, or 6.32 percent, to end at 5,006.03 after reaching as high as 5,065.74. As the rally gathered momentum, the Korea Exchange activated a buy-side sidecar at 9:06 a.m., suspending buy orders in program trading for KOSPI-listed shares for five minutes. The measure is triggered when KOSPI 200 futures rise at least 5 percent and remain at that level for one minute or longer. Overnight, technology stocks on Wall Street surged after Nvidia's board decided to reinstate Huang, triggering a relief rally in battered artificial intelligence (AI) stocks. The Dow Jones Industrial Average jumped 3.01 percent, while the tech-heavy Nasdaq composite surged 6.51 percent.
+
+## [EU unveils 22nd Russia sanctions package as war nears sixth year](https://www.koreatimes.co.kr/world/20261124/eu-unveils-22nd-russia-sanctions-package-as-war-nears-sixth-year?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+European Commission President Ursula von der Leyen unveiled the 27-member bloc's proposed 22nd package of Russia-related sanctions as the Kremlin's war against Ukraine nears its grim fifth anniversary. The package includes bans on 60 Russian banks that will be removed from the SWIFT system and punitive measures to crack down on crypto and payment networks. Third countries that aid Russia in evading sanctions will also be targeted. An energy services ban will be expanded, denying European companies from helping Russia with its energy infrastructure, especially its refineries, which Ukraine has been attacking. The ban will also cover electricity services. More than 70 tankers of Russia's shadow fleet will be added to its blacklist. The package includes a proposed ban on Russian ex-combatants visiting Europe. In a written statement unveiling the package Monday, von der Leyen said this move is in response to the escalation in so-called non-conventional kinetic activities conducted by Russian operatives in Europe. "They cannot be allowed to wander freely across our countries," she said. The fo
+
+## [Seoul to overhaul public restrooms across 8 major tourist zones](https://www.koreatimes.co.kr/southkorea/others/20261124/seoul-to-overhaul-public-restrooms-across-8-major-tourist-zones?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Seoul will add more public restrooms, renovate aging facilities and tighten hygiene standards across eight major tourist districts and 10 traditional markets to make navigating the city easier for foreign visitors. The Seoul Metropolitan Government said Tuesday the initiative will focus on helping travelers locate clean, accessible facilities nearby. The eight designated tourist districts are Itaewon; Myeong-dong, Namdaemun, Bukchang-dong, Da-dong and Mugyo-dong; Dongdaemun Fashion Town; Jongno and Cheonggye; Jamsil; Gangnam MICE; Hongdae Culture and Arts; and Goto and Sebitseom. As part of the initiative, the city will expand multilingual restroom information through QR codes installed on street facilities, digital information boards and bus and taxi stops. Visitors will be able to scan codes to view maps showing nearby public restrooms, building on English-language restroom information introduced on Visit Seoul, the city's official tourism platform, in early November. The city also plans to increase the number of publicly accessible restrooms from 148 to 200 by 2027, encouraging partici
+
+## [Banks to issue stablecoins; digital asset platform operators' stake capped at 20%: regulator](https://www.koreatimes.co.kr/business/banking-finance/20261124/banks-to-issue-stablecoins-digital-asset-platform-operators-stake-capped-at-20-regulator?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Banks will be allowed to issue stablecoins, and platform operators of digital assets must hold their stake at below 20 percent, the financial regulator said Tuesday. Also, digital asset platform operators as well as digital asset brokering and management firms are subject to regulations applied to financial institutions, according to the proposal for the comprehensive enactment regulating digital assets such crytpo currencies. According to the government proposal, a consortium, more than half owned by a bank are able to issue stable coins, and fintech firms are allowed to join the consortium as well. Stablecoins are cryptocurrencies pegged to another asset, typically the U.S. dollar, to maintain a stable value, and their adoption has been growing globally. The Bank of Korea has been cautious over stablecoins as they can be used as a channel for bypassing foreign exchange and capital regulations, and could undermine the effectiveness of monetary policy. The central bank has insisted that banks become the main issuers of stablecoins, or if stablecoins are issued through bank-led consortia,
+
+## [Justice minister nominee sidesteps question on dropping charges against president](https://www.koreatimes.co.kr/southkorea/politics/20261124/justice-minister-nominee-sidesteps-question-on-dropping-charges-against-president?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Justice minister nominee Lee Yong-chul did not make clear whether he would direct prosecutors to drop charges against President Lee Jae Myung during his confirmation hearing Tuesday, as lawmakers questioned him about his role concerning a special counsel tasked with investigating how the pending criminal cases against the president were brought. Under a law that took effect Thursday, the special counsel and relevant prosecutors will examine whether prosecutors abused their authority in bringing the charges forward before the president was elected in June 2025. The inquiry will cover the prosecution’s handling of 12 cases, including six involving allegations against the president stemming from his 2010-2018 tenure as Seongnam mayor and Gyeonggi Province governor from 2018 to 2021. If appointed, the nominee could direct the special counsel on how to handle the pending cases in light of the special prosecutors’ findings. Opposition lawmakers questioned whether his long-standing ties to the president could undermine his ability to make a fair and objective decision. The nominee and the pr
+
+## [Handsome street food vendor who resembles Cha Eun-woo reveals surprising backstory](https://www.koreatimes.co.kr/lifestyle/people-events/20261124/handsome-street-food-vendor-who-resembles-cha-eun-woo-reveals-surprising-backstory?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Outside a convenience store in Gwangmyeong, Gyeonggi Province, customers flock to an unassuming street food stall without even a sign. Some wait up to two hours to get their hands on bungeoppang, a popular Korean fish-shaped pastry filled with sweet red bean paste. Behind the griddle is Lee Jae-jin, a young man whose resemblance to singer and actor Cha Eun-woo has earned him the nicknames "Gwangmyeong's Cha Eun-woo" and "Bung Eun-woo," a playful combination of bungeoppang and the celebrity's name, on social media. Monday's episode of SBS' "Master of Living" introduced the story of Lee, who has been making and selling the pastries for two years. While his good looks initially attracted attention on social media, the quality of his pastries has also helped spread the word. Lee cooks the batter until it turns golden brown and crispy, generously filling each pastry with sweet red bean paste from head to tail. He learned how to make bungeoppang at a renowned shop near Hyochang Park, widely regarded as one of Seoul's three best bungeoppang vendors. The program also revealed an unexpected detail
+
+## [\[FORUM\] Korea needs stronger shareholder powers, Kosdaq chair says](https://www.koreatimes.co.kr/business/banking-finance/20261124/forum-korea-needs-stronger-shareholder-powers-kosdaq-chair-says?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Korea should give shareholders binding votes on executive compensation policies and lower barriers to shareholder proposals and lawsuits to help achieve a “Korea premium,” Kosdaq Market Committee Chairman Kim Woo-chan said Tuesday. Delivering a keynote speech at the 2026 Korea Times Forum, titled “Capital market advancement: Giant leap toward era of Korea premium,” Kim called for stronger shareholder powers to help translate recent governance reforms and market gains into lasting improvements in the nation’s capital market. Kim, who is also a professor at Korea University Business School, said his remarks reflected his personal views, not those of the Korea Exchange. Kim outlined priorities for further reform: executive compensation, shareholder proposals, derivative lawsuits, shareholder meetings and collaborative investor engagement. “Still in Korea, shareholders have less control,” he said, addressing executive compensation. Kim called for shareholders to receive a binding vote on compensation policies before they are implemented, followed by a nonbinding vote on actual p
+
+## [Seoul Metro labor, management hold final talks ahead of planned strike](https://www.koreatimes.co.kr/southkorea/society/20261124/seoul-metro-labor-management-hold-final-talks-ahead-of-planned-strike?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Labor and management at Seoul Metro, which operates subway Lines 1-8 and part of Line 9, began final negotiations Tuesday, a day before unionized workers threatened to launch a general strike. If the negotiations fail, the company's three labor unions plan to launch an indefinite general strike starting with the first trains Wednesday, potentially disrupting the morning commute. Seoul Metro's three labor unions are demanding a 3.5 percent wage increase, the scrapping of planned workforce reductions and additional hiring. Seoul Metro and Union 1 began their fourth round of collective bargaining and wage negotiations at 10 a.m., but the talks were quickly adjourned without an agreement. Union 1 is also demanding that the company scrap a plan to eliminate 2,212 jobs and hire an additional 1,313 on-site safety workers this year to address staffing shortages. Other demands include state funding for public services and a requirement that all field operations be carried out by two-person teams. Seoul Metro also held its separate negotiations with Union 3 and Union 2 at 11 a.m. and 1:30 p.m., res
+
+## [\[FORUM\] Korea emerges as regional leader in corporate governance reform: ACGA chief](https://www.koreatimes.co.kr/economy/20261124/forum-korea-emerges-as-regional-leader-in-corporate-governance-reform-acga-chief?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Korea has staged one of the most decisive turnarounds and become a regional leader in corporate governance, said Amar Gill, secretary general of the Asian Corporate Governance Association (ACGA), Tuesday. "It has moved in a remarkably short period from a market long characterized by stalled reform and structural discounts to one where policymakers have delivered a coherent sequence of changes that better protect minority shareholders," Gill said during his keynote speech at the 2026 Korea Times Forum at the Korea Chamber of Commerce and Industry in Seoul. Korea ranked fifth in this year's edition of ACGA's CG Watch, which evaluates Asia's corporate governance (CG) landscape. Korea moved up three places from 2023 and nine places from 2018. The only other market to have seen a similarly significant improvement in its ranking, according to Gill, is Japan, which climbed from seventh in 2018 to second this year. "Japan and Korea are providing leadership in the region on value-up type of program," Gill said. CG Watch evaluates 12 Asia-Pacific markets across seven categories: government and pub
+
+## [Senior North Korean official visits Chinese Embassy, touts progress in bilateral ties](https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261124/senior-north-korean-official-visits-chinese-embassy-touts-progress-in-bilateral-ties?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+A senior North Korean official has held talks with China's top envoy to Pyongyang and reiterated her country's commitment to cementing relations with Beijing, the Chinese Embassy in the North said Tuesday. Ryu Un-hae, vice minister at the Ministry of External Economic Relations, met Chinese Ambassador Wang Yajun at the embassy in Pyongyang on Monday, taking stock of progress in bilateral ties following the summits between North Korean leader Kim Jong-un and Chinese President Xi Jinping in September 2025 and again in June, according to the embassy. Ryu said that under the "strategic" guidance of the two countries' leaders, bilateral relations have entered a "new phase," while pointing to "positive progress" in bilateral cooperation in various fields, according to the embassy. "North Korea's Ministry of External Economic Relations is willing to strengthen exchanges and cooperation with relevant departments, such as the Chinese Embassy and China's Ministry of Commerce, to contribute greatly to pushing for the development of North Korea-China relations," Ryu was quoted as saying. Wang pointe
+
+## [Infertility leave of absence to go into effect next month](https://www.koreatimes.co.kr/southkorea/law-crime/20261124/infertility-leave-of-absence-to-go-into-effect-next-month?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Civil servants undergoing fertility treatment will be entitled to one year of infertility leave of absence, extendable by up to an additional year, officials said Tuesday, a move partly aimed at tackling the country's ultralow birth rates. The change was made possible as revisions to the decrees on the appointment of public officials and local public officials were approved at a Cabinet meeting, the Ministry of Personnel Management and the Ministry of the Interior and Safety said. The revisions will go into effect Dec. 3. So far, those undergoing fertility treatment have used sick leave instead. Under the revised decrees, those receiving assisted reproductive technology or equivalent infertility treatment are entitled to up to one year of infertility leave, which can be extended by up to another year in unavoidable cases. Applications for the leave should be approved in principle, officials said. "We will build a child rearing-friendly public service environment where having and raising children does not become a burden," said Park Sung-hee, director general of the Personnel Innovation B
+
+## [Riot Games to fund conservation of rare Goryeo Buddhist painting held in US](https://www.koreatimes.co.kr/business/companies/20261124/riot-games-to-fund-conservation-of-rare-goryeo-buddhist-painting-held-in-us?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Riot Games, the U.S. developer behind global hit games, including League of Legends and Valorant, will fund the conservation of a rare 14th-century Korean Buddhist painting held by the Asian Art Museum in San Francisco, the company said Tuesday. The painting, "The Buddha Amitabha with the Eight Great Bodhisattvas," dates from the Goryeo Kingdom, which ruled the Korean Peninsula from 918 to 1392. Amitabha, the Buddha who presides over the Pure Land paradise, sits cross-legged on a high pedestal. Below him stand eight bodhisattvas, enlightened beings who help others reach salvation, four on each side. Only about 10 paintings of this type survive worldwide, including works at the National Museum of Korea and a temple in Japan. The San Francisco painting was collected by Avery Brundage, a former president of the International Olympic Committee, who donated it to the museum in 1972. The painting has been brought to Korea for the work, which is expected to take about two years. When it is finished in 2028, the painting will go on public display in exhibitions in Korea and abroad. The project i
+
+## [Korea Tourism Organization donates 10,000 coal briquettes to Wonju households](https://www.koreatimes.co.kr/southkorea/society/20261124/korea-tourism-organization-donates-10000-coal-briquettes-to-wonju-households?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+The Korea Tourism Organization (KTO) has donated 10,000 coal briquettes to help low-income households in Wonju, Gangwon Province, stay warm this winter, the state-run agency said. The organization gave the briquettes Monday to the Bapsang Community Briquette Bank, a charity that supplies heating fuel to households in need. About 30 employees from the organization and its subsidiary, KTO Partners, delivered briquettes by hand the same day to homes in the city's Wonin-dong neighborhood. Coal briquettes, known in Korean as "yeontan," are cylindrical blocks of compressed coal with holes running through them. Gas and oil heating have largely replaced them, but they remain an important source of heat for many elderly and low-income households in older neighborhoods because they are cheap. Volunteers often carry them by hand to homes along narrow alleys and steep hillsides that delivery trucks cannot reach. The 10,000 briquettes, including those delivered Monday, will be handed out gradually to local residents through the charity, the organization said. The program aims to ease heating costs fo
+
+## [Seoul exports outdoor library model to El Salvador, Indonesia](https://www.koreatimes.co.kr/lifestyle/travel-food/20261124/seoul-exports-outdoor-library-model-to-el-salvador-indonesia?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Seoul has launched pilot versions of its popular outdoor library in El Salvador and Indonesia, exporting one of its signature civic programs overseas, the Seoul Metropolitan Government said Tuesday. The newest branch opened Saturday, spanning 1,500 square meters at Bustanussalatin Park in Banda Aceh, Indonesia. It follows an 1,800-square-meter space launched Oct. 31 at Cuscatlan Park in San Salvador, the capital of El Salvador. Both locations will operate pilot programs on weekends for eight weeks through the end of the year. The Seoul Outdoor Library was launched in 2022. It turns public spaces such as Seoul Plaza, Gwanghwamun Square and Cheonggye Stream into open-air reading areas with bookshelves, beanbag sofas and cultural programs. It has drawn more than 10 million visitors. The overseas sites are part of the Seoul ODA Challenge. This official development assistance program shares the city's policies with foreign cities to help them tackle urban problems. This year it covers three projects in four cities. Seoul gave both cities mobile bookshelves, beanbag sofas and books, and helped
+
+## [Discover Seoul Pass tops 400,000 sales in 1st decade](https://www.koreatimes.co.kr/lifestyle/travel-food/20261124/discover-seoul-pass-tops-400000-sales-in-1st-decade?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Sales of Seoul’s flagship tourist pass for foreign visitors have topped 400,000 cards over its first decade, the Seoul Tourism Organization said Tuesday. The agency announced the milestone at an anniversary event at the Pullman Ambassador Seoul Eastpole hotel celebrating 10 years of the Discover Seoul Pass. Roughly 110 representatives from 60 partner attractions, sales agents and pickup centers attended the gathering. The pass is sold only to foreign tourists. It combines free admission and discounts at major attractions in one physical or mobile pass. It comes in several formats, including time-based passes and a Pick 3 option that lets holders choose three attractions. According to the organization, the pass has been used more than 1.55 million times. More than 19 billion won (about $13 million) has been paid out to tourism businesses. A total of 219 attractions currently take part. The organization also shared an analysis of foreign visitors' travel routes and usage patterns with its partners so they can use it for marketing and on-site operations. The data comes from visits logged
+
+## [North Korean vessel to be returned soon on humanitarian grounds: Seoul](https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261124/north-korean-vessel-to-be-returned-soon-on-humanitarian-grounds-seoul?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+A North Korean fishing boat found near Ulleung Island in the East Sea earlier this month will be sent back to the North soon, Seoul's unification ministry said Tuesday, as most of those aboard the vessel are believed to want to return home. The ministry is "taking necessary steps, in consultation with relevant agencies, to send it back to the North on humanitarian grounds," a ministry official told reporters. The boat was found adrift Nov. 3 in international waters north of the southeastern island. Seven North Koreans were aboard. One of them is believed to have expressed a wish to stay in the South, with the request said to have been granted. Authorities have finished questioning the crew. The timing of the return will depend on the weather. Once a date is set, Seoul will contact the North through the United Nations Command, since the two sides have no working communication channel. Such vessels are generally repatriated by letting them sail back from the waters where they were rescued. North Korean boats and crews rescued in the East Sea in March and the Yellow Sea in May were all returne
+
+## [Supreme Court confirms Japanese company should compensate late forced labor victim](https://www.koreatimes.co.kr/southkorea/law-crime/20261124/supreme-court-confirms-japanese-company-should-compensate-late-forced-labor-victim?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+The Supreme Court has confirmed a court ruling that ordered Mitsubishi Heavy Industries to pay compensation to a late Korean victim of Japan's wartime forced labor, legal sources said Tuesday. The late Kim Han-soo, who was conscripted into forced labor at a Mitsubishi shipyard in Nagasaki in 1944, had filed the suit against the Japanese company in 2019, seeking 100 million won ($75,000) in damages. Kim, who died in October last year, was one of many Koreans mobilized for forced labor during Japan's colonial rule of the Korean Peninsula from 1910-45. The Supreme Court upheld the appellate court ruling that ordered the company to pay 100 million won in compensation to Kim, which marked a reversal of a lower ruling that the statute of limitations had already passed. In overturning that ruling, the appeals court had deemed that the base year for calculating the statute of limitations should be 2018, when the top court confirmed the right of forced labor victims to seek compensation for damages.
+
+## [\[FORUM\] Envoys, finance experts weigh Korea's path to stronger capital market](https://www.koreatimes.co.kr/business/banking-finance/20261124/forum-envoys-finance-experts-weigh-koreas-path-to-stronger-capital-market?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Ambassadors and financial experts gathered at The Korea Times' forum Tuesday to discuss how Korea can strengthen its capital market and improve its global competitiveness as the country seeks to move beyond the long-standing “Korea discount” and build what policymakers increasingly describe as a “Korea premium.” Titled "Capital market advancement: Giant leap toward era of Korea premium," the event, held at the Korea Chamber of Commerce and Industry in central Seoul, explored key priorities for strengthening the country's capital market, reviewing its achievements while examining policy measures and corporate efforts to improve market accessibility and corporate governance. Tunisian Ambassador to Korea Kais Darragi said the forum came at a timely moment as major developments reshape global financial markets, presenting both opportunities and risks for Korea. "There is a lot of promise in the Korean stock market in terms of expansion and its potential to become a global financial platform, especially with the semiconductor and automobile sectors," he said. Though the artificial int
+
+## [Seven years after Goo Hara's death, law bearing her name takes effect](https://www.koreatimes.co.kr/southkorea/law-crime/20261124/seven-years-after-goo-haras-death-law-bearing-her-name-takes-effect?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Seven years have passed since the death of Goo Hara, a member of K-pop girl group Kara. Her legacy continues to resonate beyond the entertainment industry, with a law bearing her name taking effect this year and bringing meaningful change to Korean society. Goo was found dead at her home in Cheongdam-dong, Gangnam District, Seoul, on Nov. 24, 2019. She was 28. Police found no evidence of foul play, citing a handwritten note found at the scene, among other evidence, and decided not to conduct an autopsy. Following her death, a family dispute over her inheritance sparked a nationwide debate. Her older brother, Goo Ho-in, argued that it was unfair for their biological mother, who had been absent during most of her childhood, to inherit her estate. Under the Civil Act at the time, however, it was difficult to restrict a parent's inheritance rights solely on the grounds of failing to fulfill parental duties. Recognizing her father's contribution to raising Goo, the court divided her estate, allocating 60 percent to her father's side and 40 percent to her biological mother. The decision inten
+
+## [Middle schooler identified as suspect behind fake bomb threat at department store](https://www.koreatimes.co.kr/southkorea/society/20261124/middle-schooler-identified-as-suspect-behind-fake-bomb-threat-at-department-store?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+A middle school student has been identified as the suspect behind a fax message claiming an explosive was planted at a store of Shinsegae, a major department store chain, sources said Tuesday. The message was sent to police Sunday evening, prompting a search of all 13 Shinsegae branches across the nation, as the note had not specified a branch. No explosives were found. The case was assigned to Seoul's Guro Police Station, but the third-year middle school student was tracked down at his home in Ulsan, some 310 kilometers southeast of Seoul, on Monday through collaboration with the local police, according to the sources. The student reportedly admitted to sending the message. Police determined no explosives had actually been planted. Similar incidents have occurred in the past. In August 2025, an online post claimed an explosive was planted at Shinsegae's main branch in Seoul's Myeongdong district, forcing the evacuation of some 4,000 customers and staff members. The suspect in that case turned out to be a first-year middle school student living on the southern island of Jeju.
+
+## [Nvidia's comeback bet: Why Jensen Huang's return calmed markets, for now](https://www.koreatimes.co.kr/world/20261124/nvidias-comeback-bet-why-jensen-huangs-return-calmed-markets-for-now?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+NEW YORK — Jensen Huang has returned. The next few weeks could determine whether Nvidia’s decision to reinstate him as CEO was the prudent one that cheering employees, shareholders and President Donald Trump made it out to be — or a big mistake. Huang’s supporters argued that he was indispensable, not only to the company but to the entire AI industry, at the moment a major engine of the economy. Trump even suggested Huang's return should be celebrated by the “people of the United States — and, indeed, the World!” But he carries some baggage Nvidia still has to deal with. Huang likely violated the company's code of conduct. He acknowledged having an affair with a woman suspected of being a Chinese spy. And national security issues aside, Huang’s unusual management style, which included striking deals with a mere handshake, would have doomed many other CEOs. It’s not a given that Huang's second go-round will survive congressional investigations, lawsuits and a probe by a law firm hired by his own board. But investors pushed Nvidia shares up 31.5 percent on Monday and Nvid
+
+## [Jensen Huang saga exposes Korea's Nvidia dependence](https://www.koreatimes.co.kr/business/companies/20261124/jensen-huang-saga-exposes-koreas-nvidia-dependence?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Shares of Korea’s major tech firms roared back Tuesday after Nvidia CEO Jensen Huang returned to the top post, with the market’s sharp reversal demonstrating how Nvidia’s fortunes have become a powerful force shaping valuations of Korean corporate heavyweights. Samsung Electronics and SK hynix opened sharply higher on the benchmark KOSPI, gaining 8.85 percent and 11.71 percent, respectively, as Huang’s return to the helm fueled a rally in major chip stocks on the Nasdaq overnight. Hyundai Motor and Naver, which also maintain close ties with Nvidia, joined the rebound after recent losses. On the Nasdaq the previous day, Nvidia shares surged 31.5 percent following Huang’s return, while other artificial intelligence (AI) and semiconductor stocks also rallied. Micron rose 19 percent and Oracle gained 12.3 percent. Huang resigned on Nov. 12 after admitting to an extramarital affair, amid allegations that one of his partners was linked to Chinese intelligence. Nvidia’s board reinstated him just 11 days later, saying its review found no national security risk. The episode triggered
+
+## [Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia's CEO](https://www.koreatimes.co.kr/world/20261124/asian-stocks-rally-after-wall-street-rebound-as-jensen-huang-returns-as-nvidias-ceo?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+HONG KONG — Asian stocks advanced after a rally on Wall Street as Jensen Huang returned as Nvidia’s CEO, while U.S. futures edged higher and oil prices fell. Taiwan’s Taiex led gains in Asian markets, climbing more than 9 percent, driven by gains of nearly 10 percent for chip-related stocks Taiwan Semiconductor Manufacturing Corp. and Mediatek. The Kospi in Seoul advanced 6.5 percent to 5,014.41 as Samsung Electronics rose 7.5 percent and SK Hynix gained 8.6 percent. Japan’s benchmark Nikkei 225 rose 3.9 percent to 58,654.40. Computer chip equipment maker Tokyo Electron climbed 10.5 percent and testing equipment maker Advantest surged 14.1 percent. “We are seeing a reaction to the rally in US tech stocks overnight on the announcement that Jensen Huang is returning to NVIDIA as the CEO,” said Neil Newman, managing director and head of strategy at Astris Advisory Japan. “It is obviously a big surprise and a knock-on effect will be through Asia,” Newman said. In Hong Kong, the Hang Seng edged 0.2 percent higher to 22,432.45, while the Shanghai Composite index was up 0.7 percen
+
+## ['He was really giving it his all': BTS' V impresses at reserve forces training](https://www.koreatimes.co.kr/entertainment/20261124/he-was-really-giving-it-his-all-bts-v-impresses-at-reserve-forces-training?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+BTS member V is drawing attention for his dedication to military reserve forces training, with fellow reservists claiming that the K-pop star outperformed others in mock combat and was the first to be dismissed. Accounts of encounters with V at a reserve forces training camp have recently circulated online, highlighting his enthusiasm and military skills even after completing his mandatory military service. On Nov. 12, V shared several photos from his daily life on Instagram, writing, “This is pretty much how I've been living.” Among them were photos of himself attending reserve forces training in military uniform. Fans were particularly drawn to a badge on his uniform identifying him as a “special-class warrior,” a distinction awarded to Korean soldiers who meet demanding standards in physical fitness and military proficiency. Following his Instagram post, several social media users shared accounts of training alongside the singer. “While other reservists were taking it easy and looking at their phones, V was really giving it his all,” one user said, claiming that the singer
+
+## [SME exports account for 23.9% of Korea's shipments in January-October](https://www.koreatimes.co.kr/economy/others/20261124/sme-exports-account-for-239-of-koreas-shipments-in-january-october?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Exports by small and midsized enterprises (SMEs) accounted for nearly 24 percent of Korea's total outbound shipments in the first 10 months of the year as the country's exports surpassed $1 trillion for the first time, customs data showed Tuesday. Korean SMEs exported $222.3 billion worth of goods in the January-October period, accounting for 23.9 percent of the country's total exports of $930.2 billion, according to data from the Korea Customs Service. The figure represents a 35.1 percent increase from $164.5 billion recorded in the same period of 2011, when the country first achieved $500 billion in annual exports. After nearly 15 years, Korea's annual exports surpassed the $1 trillion mark Thursday, making it the fourth country in the world to achieve the milestone after the United States, Germany and China. The number of exporting SMEs rose 22.2 percent to 96,286 in the January-October period of 2026 compared with the same period 15 years earlier. Nearly 300 SMEs exported $100 million or more worth of goods during the 10-month period, the customs data showed.
+
+## [Air Force deploys early warning, forecast system for space weather observation](https://www.koreatimes.co.kr/southkorea/defense/20261124/air-force-deploys-early-warning-forecast-system-for-space-weather-observation?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+The Air Force said Tuesday it has deployed an early warning and forecast system to better observe changes in "space weather" in a bid to help enhance stable military operations in space. Space weather refers to changes in the space environment caused by solar activities, such as flares near sunspots. The Air Force held an event to mark the deployment of the early warning and forecast system for space weather in Gyeryong, some 145 kilometers south of Seoul, attended by some 60 personnel, according to the armed service. The Air Force has sought to develop systems to observe and analyze any changes in space weather in advance to better prepare the military for potential disruptions in its operations. For instance, an explosion near the sunspots may interfere with the ionosphere in the Earth's upper atmosphere, thereby disrupting aviation radio communications or causing errors in navigation systems. The newly deployed systems are designed to prevent such disruptions by informing the military of such changes in a timely manner ahead of military operations. Earlier this month, the Air Force depl
+
+## [POSCO International secures 1st US shale gas assets in $550 mil. deal](https://www.koreatimes.co.kr/business/companies/20261124/posco-international-secures-1st-us-shale-gas-assets-in-550-mil-deal?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+POSCO International has completed its $550 million acquisition of a shale gas field in Pennsylvania, marking the company's entry into U.S. natural gas production and its first overseas energy asset acquisition since POSCO Group announced its Triple Core growth strategy in July. The group's trading and energy subsidiary said Tuesday that it had acquired all of U.S. energy company Chord Energy's stake in the Appalachian shale gas assets in Pennsylvania. The acquisition comes about two months after the companies signed a definitive agreement on Sept. 14. The company held a ceremony marking the completion of the acquisition Monday (local time) in Houston, Texas, with POSCO Group Chairman Chang In-hwa, POSCO International CEO Lee Kye-in, Chord Energy CEO Michael Lou and other senior executives from both companies in attendance. “The acquisition marks a milestone in securing overseas energy resources under the group's Triple Core strategy and an important step in expanding its energy business in North America,” Chang said. “We expect to further strengthen profitability by creating synerg
+
+## [Ex-OpenAI engineer vibecoded better bugs to record meetings – court filing](https://www.rappler.com/technology/openai-engineer-abdulrahman-alfozan-vibecode-recording-devices-filing/)
+
+via Rappler · 2026-11-24
+
+Federal prosecutors are seeking to prevent ex-OpenAI engineer Abdulrahman Alfozan from being released prior to his trial on a charge of illegally intercepting conversations
+
+## [Parent of Tokyo crematoria firm sparks concerns with partial Chinese ownership](https://www.japantimes.co.jp/news/2026/11/24/japan/tokyo-crematoria-hakuzen/)
+
+via Japan Times · 2026-11-24
+
+A private company whose parent has 35% of its stock held by Chinese firms runs six of the nine crematoria in Tokyo's 23 wards.
+
+## [Beef mince sold at Auckland supermarket recalled over possible metal pieces](https://www.rnz.co.nz/news/health/2764984/beef-mince-sold-at-auckland-supermarket-recalled-over-possible-metal-pieces)
+
+via RNZ National News · 2026-11-24
+
+The affected products were sold only at Pak'nSave Highland Park
+
+## [Who is Angel Ignacio, new Maharlika Investment president and CEO?](https://www.rappler.com/people/who-is-angel-ignacio-new-maharlika-investment-president-ceo/)
+
+via Rappler · 2026-11-24
+
+The former finance undersecretary takes the reins of a young sovereign wealth fund with billions still sleeping in the coffers and much left to prove
+
+## [Influencers targeted by offshore casinos to illegally advertise](https://www.rnz.co.nz/news/business/2764295/influencers-targeted-by-offshore-casinos-to-illegally-advertise)
+
+via RNZ National News · 2026-11-24
+
+A social media creator says overseas online casinos are offering him thousands of dollars to advertise their platforms.
+
+## [Traditional dance brings energy to quake-hit city in Kumamoto Prefecture](https://www.japantimes.co.jp/news/2026/11/24/japan/traditional-dance-kumamoto-event/)
+
+via Japan Times · 2026-11-24
+
+Visitors enjoyed traditional dance performances by a huge doll and lion dolls during an event held at Yatsushiro Shrine in place of a parade.
+
+## [Marcos appoints Lacanilao as DOTr usec, Noreen San Luis as LTO chief](https://www.rappler.com/philippines/markus-lacanilao-dotr-undersecretary-noreen-san-luis-lto-chief-appoinment/)
+
+via Rappler · 2026-11-24
+
+The appointment of Noreen San Luis and Markus Lacanilao comes after Vince Dizon’s return as transportation secretary
+
+## [BARMM has a new parliament, but the guns remain](https://www.rappler.com/philippines/mindanao/barmm-new-parliament-guns-still-remain/)
+
+via Rappler · 2026-11-24
+
+The peace process in the Mindanao region remains unfinished, with thousands of MILF combatants and weapons still awaiting full decommissioning
+
+## [RMA expert questions Fonterra's application to dump 22m litres of milk](https://www.rnz.co.nz/news/environment/2764606/rma-expert-questions-fonterra-s-application-to-dump-22m-litres-of-milk)
+
+via RNZ National News · 2026-11-24
+
+A resource management practitioner said there were already provisions in the RMA that allowed for emergency milk dumping.
+
+## [Taiwan shares close up 8.99%](https://focustaiwan.tw/business/202611240011)
+
+via CNA · 2026-11-24
+
+Taipei, Nov. 24 (CNA) Taiwan shares ended up 3,310.46 points, or 8.99 percent, at 40,122.35 Tuesday on turnover of NT$419.41 billion (US$12.77 billion).
+
+## [MOFA to court new U.S. lawmakers after midterms gut pro-Taiwan caucuses](https://focustaiwan.tw/politics/202611240010)
+
+via CNA · 2026-11-24
+
+Taipei, Nov. 24 (CNA) The Ministry of Foreign Affairs (MOFA) said Tuesday it would seek support from newly elected U.S. lawmakers after 12 of the Senate Taiwan Caucus's 38 members and 63 of the Congressional Taiwan Caucus's 220 members lost their seats in this month's midterms.
+
+## [Communicable Disease Report: Week 46](https://yapstate.gov.fm/post/communicable-disease-report-week-46)
+
+via Yap State Government News · 2026-11-24
+
+Monday, November 24, 2026 /// DYCA PIO Yap FM - The Department of Health Services, Epinet, released the latest Communicable Disease Report for the week of November 09, 2026 to November, 2026, Epi Week 46. During Epi Week 46, a total of 601 patient encounters were recorded across reporting sites. The Diarrheal Disease Alert was retriggered this week after two weeks of below-threshold Activity. Following two weeks of below-threshold activity, the diarrheal disease alert was retriggered this...
+
+## [U.S. blacklists Megaspeed after Nvidia spy scandal](https://www.japantimes.co.jp/business/2026/11/24/tech/us-blacklist-megaspeed-nvidia/)
+
+via Japan Times · 2026-11-24
+
+In a filing Monday, the Commerce Department moved to add the company established by Chinese spy suspect Alice Huang to its so-called entity list.
+
+## [Vehicle importer wound back odometers by almost 50 million kms](https://www.rnz.co.nz/news/crime-and-justice/2764520/vehicle-importer-wound-back-odometers-by-almost-50-million-kms)
+
+via RNZ National News · 2026-11-24
+
+The importer has been jailed for more than two years, with Customs estimating the profit was close to $5.6 million.
+
+## [Malaysia eyes other countries for Rohingya after Turkey says no](https://www.japantimes.co.jp/news/2026/11/24/asia-pacific/politics/malaysia-rohingya-turkey/)
+
+via Japan Times · 2026-11-24
+
+Malaysia will continue looking for other countries, including OIC members, willing to take them, the prime minister added.
+
+## [JD Vance’s ties to prized Venezuelan oil contract under investigation by U.S. Senate panel](https://www.japantimes.co.jp/news/2026/11/24/world/politics/jd-vance-venezuela-oil-us-senate/)
+
+via Japan Times · 2026-11-24
+
+U.S. Sen. Maggie Hassan has suggested that the vice president may have used his position to help a donor secure the lucrative Venezuelan oil contract.
+
+## [Ulithi Falalop Community Supports Campus Cleanup at Outer Islands High School](https://yapstate.gov.fm/post/ulithi-falalop-community-supports-campus-cleanup-at-outer-islands-high-school)
+
+via Yap State Government News · 2026-11-24
+
+Monday, November 24, 2026 /// DYCA PIO Yap FM - The Ulithi Falalop Community Action Program (UFCAP) highlighted its community-led efforts on November 20 to support a major campus cleanup at Outer Islands High School (OIHS), demonstrating the importance of community participation in maintaining a clean and welcoming school environment. The cleanup brought together members of the Falalop community, particularly women and youth, who worked to clear overgrown areas around the campus and help...
+
+## [Sushiro Taiwan hikes prices by an average of 19.7%](https://focustaiwan.tw/business/202611240009)
+
+via CNA · 2026-11-24
+
+Taipei, Nov. 24 (CNA) Sushiro Taiwan (台灣壽司郎), a conveyor-belt sushi chain, on Tuesday introduced average price rises of 19.7 percent, citing rising raw material and shipping costs for the increases.
+
+## [ACT MP calls for law changes after woman forced to travel overseas for assisted dying](https://www.rnz.co.nz/news/health/2764338/act-mp-calls-for-law-changes-after-woman-forced-to-travel-overseas-for-assisted-dying)
+
+via RNZ National News · 2026-11-24
+
+The MP says people should not be forced to leave the country in order to die with dignity.
+
+## [PUBLIC NOTICE: FSMTCC SCHEDULED ROAD CUTTING](https://yapstate.gov.fm/post/public-notice-fsmtcc-scheduled-road-cutting)
+
+via Yap State Government News · 2026-11-24
+
+This is to inform all motorists of a scheduled road cutting on the road in Gargey, Tomil. The area of the road cutting is at the top of the hill before the entrance to Abul. This road cutting will take place on Saturday, November 28, 2026, at 8:30 am and will go on until the work is completed. These road cuttings are part of the fiber build-up work currently taking place throughout the island. Roads will be cut in two halves, meaning that one half of the road will remain open for...
+
+## [Newspapers delayed as Allied Media hit by cyber attack](https://www.rnz.co.nz/news/media-technology/2762284/newspapers-delayed-as-allied-media-hit-by-cyber-attack)
+
+via RNZ National News · 2026-11-24
+
+Allied Media says its teams are working to restore access so they can produce tomorrow’s Otago Daily Times.
+
+## [PUBLIC NOTICE: GAGIL WALKATHON & HEALTH SCREENINGPresented by WCHC and Gagil LHC](https://yapstate.gov.fm/post/public-notice-gagil-walkathon-health-screeningpresented-by-wchc-and-gagil-lhc)
+
+via Yap State Government News · 2026-11-24
+
+When: November 28, 2026 Where: Yap Sports Complex Time: 6:00 AM to 9:00 AM Start your day with healthy activity and free health screening services! Community Walkathon Basic Health Screening Health Awareness Information Family-Friendly Event w/ Incentives COMPLIMENTARY RIDES AVAILABLE By reservation, to and from Yap Sports Complex Pickup and drop-off sites: Gachpar Bus Stop • Makiy Bus Stop • ABC Store
+
+## [U.S. policy on Taiwan unchanged despite Xinhua's Trump claim: MOFA](https://focustaiwan.tw/politics/202611240008)
+
+via CNA · 2026-11-24
+
+Taipei, Nov. 24 (CNA) The United States has reaffirmed to Taiwan that its policy toward the country remains unchanged, a senior Taiwanese diplomat said Tuesday, following a Chinese state media report quoting U.S. President Donald Trump as saying that Washington "does not support Taiwan independence."
+
+## [Seino Holdings works with rivals for better, cleaner transportation](https://www.japantimes.co.jp/esg-consortium/2026/11/24/seino-holdings-works-with-rivals-for-better-cleaner-transportation/)
+
+via Japan Times · 2026-11-24
+
+In Japan’s logistics industry, companies have maintained independent delivery networks, with trucks from multiple companies operating in the same areas. In addition, due to smaller shipments and underused return trips, the “loading efficiency” of freight vehicles has remained at around 40% of what they could carry for the past 15 years or so. This is not only inefficient, but also hinders efforts to reduce carbon dioxide emissions in the industry.
+
+## [Police hunt two people after dangerous driving across Hutt Valley](https://www.rnz.co.nz/news/crime-and-justice/2764341/police-hunt-two-people-after-dangerous-driving-across-hutt-valley)
+
+via RNZ National News · 2026-11-24
+
+Police are trying to find two people after a dangerous driving incident and pursuit in Lower Hutt.
+
 ## [Two arrested over alleged poaching in Māhia](https://www.rnz.co.nz/news/regional/2764313/two-arrested-over-alleged-poaching-in-mahia)
 
 via RNZ National News · 2026-11-24
@@ -279,12 +687,6 @@ Two men were arrested in Māhia after police found a cut chain on a gate leading
 via RNZ National News · 2026-11-24
 
 Mayor Nick Smith says a code of conduct complaint was laid against him in July.
-
-## [Influencers targeted by offshore casinos to illegally advertise](https://www.rnz.co.nz/news/business/2764295/influencers-targeted-by-offshore-casinos-to-illegally-advertise)
-
-via RNZ National News · 2026-11-24
-
-A social media creator says overseas online casinos are offering him thousands of dollars to advertise their platforms.
 
 ## [More Queenstown speed limits not legally enforceable, council documents show](https://www.rnz.co.nz/news/regional/2764270/more-queenstown-speed-limits-not-legally-enforceable-council-documents-show)
 
@@ -346,6 +748,18 @@ via Japan Times · 2026-11-24
 
 Some people had speculated that China may have deliberately made it difficult for the prime minister to disembark.
 
+## [Runway 5/23 reopened after Talofa Airways aircraft removed](https://www.talanei.com/2026/11/23/runway-5-23-reopened-after-talofa-airways-aircraft-removed/)
+
+via Talanei · 2026-11-24
+
+The 10,000 ft Pago Pago International Airport Runway 5/23 is now reopened after Airport Operations, Aircraft Rescue and Fire Fighting (ARFF) and Talofa Airways personnel were able to successfully remove the Talofa Airways Twin Commander 690B aircraft
+
+## [Sumatrans fear ‘nobody cares’ one year after floods](https://www.japantimes.co.jp/news/2026/11/24/asia-pacific/sumatrans-year-floods/)
+
+via Japan Times · 2026-11-24
+
+Thousands of residents of Indonesia's Sumatra island were largely left to fend for themselves even as they brace for the next flood season.
+
 ## [Indonesia charges ex-police chief with treason aimed at undermining president, official says](https://www.japantimes.co.jp/news/2026/11/24/asia-pacific/crime-legal/indonesia-ex-police-chief-treason/)
 
 via Japan Times · 2026-11-24
@@ -387,12 +801,6 @@ Firefighters found about 100 litres of nitric acid mixed with an unknown acid in
 via RNZ National News · 2026-11-24
 
 A Māori researcher is looking at how cultural practices like kapa haka could help support Māori health, as Aotearoa marks Diabetes Action Month this November.
-
-## [Newspapers delayed as Allied Media hit by cyber attack](https://www.rnz.co.nz/news/media-technology/2762284/newspapers-delayed-as-allied-media-hit-by-cyber-attack)
-
-via RNZ National News · 2026-11-24
-
-Allied Media says its teams are working to restore access so they can produce tomorrow’s Otago Daily Times.
 
 ## [Chubu Electric faces tough road ahead following data scandal](https://www.japantimes.co.jp/business/2026/11/24/companies/chubu-electric-regain-trust/)
 
@@ -550,7 +958,7 @@ Guam has secured nearly US$10.3 million in federal funding for 16 projects aimed
 
 ## [21 Days of Activism - Day 5](https://yapstate.gov.fm/post/21-days-of-activism-day-5)
 
-via Yap State Government News · 2026-11-23
+via Yap State Government News · 2026-11-23, updated 2026-11-24
 
 DAY 5 – NOVEMBER 24 \| SAFE HOMES, SAFE COMMUNITIES. Every home should be a place of love, respect, and safety, never violence or fear. THEME: UNITE TO END VIOLENCE AGAINST WOMEN AND CHILDREN. SPEAK UP. TAKE ACTION. PROTECT EVERYONE. EVERY DAY!
 
@@ -648,6 +1056,12 @@ via RNZ National News · 2026-11-23
 
 The data shows just a total of 117 more full-time nurses had been hired for the year.
 
+## [Talofa Airways Flight 502 lands safely without landing gears](https://www.talanei.com/2026/11/23/talofa-airways-flight-502-lands-safely-without-landing-gears/)
+
+via Talanei · 2026-11-23, updated 2026-11-24
+
+The landing gear of a Talofa Airways aircraft failed as it was landing at Pago Pago international Airport around 9:20 this morning, Director of Port Administration Barney Sene confirmed the incident and said that all 6 passengers
+
 ## [Christmas food parcels stretched as City Mission faces unprecedented demand](https://www.rnz.co.nz/news/community/2757293/christmas-food-parcels-stretched-as-city-mission-faces-unprecedented-demand)
 
 via RNZ National News · 2026-11-23
@@ -674,6 +1088,18 @@ via RNZ National News · 2026-11-23
 
 A Wellington man was surprised to find that when he attempted to cancel his subscription for an antivirus programme, he was offered a discount of about 50 percent.
 
+## [Department of Commerce opens Malae o So’otaga Amphitheater](https://www.talanei.com/2026/11/23/department-of-commerce-opens-malae-o-sootaga-amphitheater/)
+
+via Talanei · 2026-11-23, updated 2026-11-24
+
+The American Samoa Department of Commerce opened the Malae O So’otaga Amphitheater at Lions Park on Friday evening, unveiling the park’s first traditional outdoor amphitheater. The project was funded through a Community Development Block Grant from the
+
+## [Gusty winds & possible rain as Xavier moves away](https://www.talanei.com/2026/11/23/gusty-winds-possible-rain-as-xavier-moves-away/)
+
+via Talanei · 2026-11-23, updated 2026-11-24
+
+What was once Tropical Storm  Xavier is now just a low pressure system bringing gusty winds and possible rain. American Samoa is currently in a D1 – or moderate drought classification – with last month being the
+
 ## [Manusina opens door to eligible Samoan women rugby players for 2027](https://www.rnz.co.nz/news/pacific/2756676/manusina-opens-door-to-eligible-samoan-women-rugby-players-for-2027)
 
 via RNZ National News · 2026-11-23
@@ -687,6 +1113,12 @@ via University of Hawaiʻi News · 2026-11-23, updated 2026-11-24
 International orchestras are bringing UH Mānoa composer Donald Reid Womack’s music to stages across South Korea and Europe.
 
 The post [UH composer’s music spans continents](https://www.hawaii.edu/news/2026/11/23/composers-music-continents/) first appeared on [University of Hawaiʻi System News](https://www.hawaii.edu/news).
+
+## [Lawsuit claims MMA acknowledged gaps in data before seabed lease](https://www.talanei.com/2026/11/23/lawsuit-claims-mma-acknowledged-gaps-in-data-before-seabed-lease/)
+
+via Talanei · 2026-11-23, updated 2026-11-24
+
+A lawsuit filed one day before the first U.S. seabed mining auction of last Thursday says the Marine Minerals Administration  admitted in its own review that it lacks baseline data on parts of the waters it was
 
 ## [Collapsed COP31 talks better than 'sham' deal ignoring fossil fuels, Chlöe Swarbrick says](https://www.rnz.co.nz/news/political/2756483/collapsed-cop31-talks-better-than-sham-deal-ignoring-fossil-fuels-chloe-swarbrick-says)
 
@@ -705,6 +1137,12 @@ Thanks to decades of imports, the niche Japanese car scene is thriving in New Ze
 via Pacific Center for Island Security · 2026-11-23, updated 2026-11-24
 
 A daily collection of news affecting the Asia-Pacific region
+
+## [Samoa Supreme Court rules against Fono Faavae appointments](https://www.talanei.com/2026/11/23/samoa-supreme-court-rules-against-fono-faavae-appointments/)
+
+via Talanei · 2026-11-23, updated 2026-11-24
+
+The Samoa Supreme Court has ruled that the appointment of chairpersons for Fono Fa’avae or District Development Councils were unlawful and unconstitutional and has told cabinet to reconsider their decision. The District Development Councils manage and control
 
 ## [Social service cuts set the stage for violent incidents in Avondale, community leader says](https://www.rnz.co.nz/news/community/2756239/social-service-cuts-set-the-stage-for-violent-incidents-in-avondale-community-leader-says)
 
@@ -726,7 +1164,7 @@ Oamaru joiner Brian Greer paid levies for 43 years.
 
 ## [Green Overseas Programme looks to improve climate finance and resilience for Pacific territories](https://www.rnz.co.nz/news/pacific/2753797/green-overseas-programme-looks-to-improve-climate-finance-and-resilience-for-pacific-territories)
 
-via RNZ National News · 2026-11-23
+via RNZ Pacific News · 2026-11-23
 
 The Green Overseas Programme has highlighted ways to improve climate finance and resilience for overseas territories in the Pacific.
 
@@ -1416,7 +1854,7 @@ via Rappler · 2026-11-23, updated 2026-11-24
 
 ## [No deal: Pacific islands get no relief as COP31 ends in deadlock](https://www.pacificislandtimes.com/post/no-deal-pacific-islands-get-no-relief-as-cop31-ends-in-deadlock)
 
-via Pacific Island Times · 2026-11-23
+via Pacific Island Times · 2026-11-23, updated 2026-11-24
 
 Pacific island leaders expressed disappointment at the collapse of the COP31 climate talks, which ended Sunday without reaching a pact due to the negotiators' failure to surmount rifts over fossil fuels.
 
@@ -1572,7 +2010,7 @@ The post [Russia starts towing ship hit by drones in Baltic, Finland says](https
 
 ## [Black Friday declared GovGuam holiday](https://www.pacificislandtimes.com/post/black-friday-declared-govguam-holiday)
 
-via Pacific Island Times · 2026-11-23
+via Pacific Island Times · 2026-11-23, updated 2026-11-24
 
 Gov. Lou Leon Guerrero today declared Friday—the day after Thanksgiving—a government of Guam holiday.
 
@@ -1758,13 +2196,13 @@ Small groups of otters are now being seen regularly in parts of the Malaysian me
 
 ## [NWS: Fire danger reaches record level on Guam as dry season deepens](https://www.pacificislandtimes.com/post/nws-fire-danger-reaches-record-level-on-guam-as-dry-season-deepens)
 
-via Pacific Island Times · 2026-11-23
+via Pacific Island Times · 2026-11-23, updated 2026-11-24
 
 Trade-wind surges are expected across much of Micronesia this week, bringing stronger winds, elevated seas and rough marine conditions as the dry season becomes established, according to the National Weather Service Guam. By Bryan Manabat The National Weather Service is warning residents across Guam and the Northern Mariana Islands to prepare for worsening drought conditions and rising fire danger as the region continues its transition into the dry season under a strong El Niño. In its weekly...
 
 ## [Guam legislature's incoming speaker vows to push for fiscal discipline](https://www.pacificislandtimes.com/post/guam-legislature-s-incoming-speaker-vows-to-push-for-fiscal-discipline)
 
-via Pacific Island Times · 2026-11-23
+via Pacific Island Times · 2026-11-23, updated 2026-11-24
 
 By Pacific Island Times News Staff Sen. Chris Duenas, who has been selected as the speaker of the incoming 39th Guam Legislature, vows to advocate for fiscal discipline as the territorial government gears up for a transition in January, with Republicans as the ruling party. Duenas, currently the chair of the finance committee, said the new Republican leadership will push for responsible budgeting and full implementation of performance-based budgeting, "ensuring that government expenditures...
 
@@ -1956,7 +2394,7 @@ Tonga Football men's national team technical director Kilifi Uele believes the t
 
 ## [Of course, it's always a matter of funds](https://www.pacificislandtimes.com/post/of-course-it-s-always-a-matter-of-funds)
 
-via Pacific Island Times · 2026-11-23
+via Pacific Island Times · 2026-11-23, updated 2026-11-24
 
 When I was growing up, there were a few words that, spoken out loud, meant things were about to get serious. One of them was dåkkun. A grown-up could say it from the other room and you knew you’d better get your story straight – or else, toka, you're going to get it.
 
@@ -1986,7 +2424,7 @@ via RNZ National News · 2026-11-22
 
 ## [Tropical storm warning canceled, wind advisory in effect](https://www.talanei.com/2026/11/22/tropical-storm-warning-canceled-wind-advisory-in-effect/)
 
-via Talanei · 2026-11-22, updated 2026-11-23
+via Talanei · 2026-11-22, updated 2026-11-24
 
 From the National Weather Service-Pago Pago: Tropical Storm Warning for Manu’a & Rose Atoll is now cancelled. Tropical Storm Watch for Tutuila & Aunu’u also cancelled. A WIND ADVISORY (SE winds 25-35 mph with higher gusts) is
 
@@ -2022,7 +2460,7 @@ New Zealand has just 80 dermatologists when it needs about 300 to meet internati
 
 ## [Military training plan in Marianas poses harm to whales, dolphins](https://www.pacificislandtimes.com/post/military-training-plan-in-marianas-poses-harm-to-whales-dolphins)
 
-via Pacific Island Times · 2026-11-22, updated 2026-11-23
+via Pacific Island Times · 2026-11-22, updated 2026-11-24
 
 By Jayvee Vallejera A new federal proposal could clear the way for seven more years of intensive military sonar, underwater detonations and vessel traffic across vast stretches of the Pacific Ocean, putting marine mammals in the Marianas at risk of injury or behavioral changes. The U.S. Department of the Navy, encompassing the U.S. Navy and U.S. Marine Corps and acting on behalf of the U.S. Coast Guard, U.S. Army and U.S. Air Force, has asked the National Marine Fisheries Service to authorize...
 
@@ -2076,7 +2514,7 @@ Police say Zeal Rakei was last seen on the evening of 19 November and there are 
 
 ## [Challenges for the next Guam governor](https://www.pacificislandtimes.com/post/challenges-for-the-next-guam-governor)
 
-via Pacific Island Times · 2026-11-22, updated 2026-11-23
+via Pacific Island Times · 2026-11-22, updated 2026-11-24
 
 Gov. Lou Leon Guerrero claims her successor will have it easy.
 
@@ -2610,7 +3048,7 @@ New Taipei, Nov. 22 (CNA) Eighteen people were stung by Asian hornets, with two 
 
 ## [The song she left behind](https://www.pacificislandtimes.com/post/the-song-she-left-behind)
 
-via Pacific Island Times · 2026-11-22, updated 2026-11-23
+via Pacific Island Times · 2026-11-22, updated 2026-11-24
 
 Bridgman, MI--My experience has been that for a friendship to exist, two people must intentionally invest time and meaningful communication, which will then result in an unspoken or spoken agreement to such a friendship.
 
@@ -2622,7 +3060,7 @@ Clark Freeport, the Philippines, Nov. 22 (CNA) Two Taiwanese business organizati
 
 ## [Julia Birn explores the limits of expression in ‘Chewing on Static’](https://www.pacificislandtimes.com/post/julia-birn-explores-the-limits-of-expression-in-chewing-on-static)
 
-via Pacific Island Times · 2026-11-22, updated 2026-11-23
+via Pacific Island Times · 2026-11-22, updated 2026-11-24
 
 Julia Birn By Ron Rocky Coloma How do you give shape to a feeling that cannot easily be explained? For Julia Birn, the answer lies in fragments, abstract forms and carefully selected colors. Her first solo exhibition, "Chewing on Static," at the Guam Museum brings together six years of artistic development in a collection of works that explores the difficulty of communicating deeply personal experiences. Rather than relying on recognizable images or straightforward narratives, Birn uses...
 
@@ -2634,7 +3072,7 @@ Armed with a new name and fresh off an Asian Games silver-medal breakthrough, Gi
 
 ## [The Pacific's first passwords were stories, skills and tradition](https://www.pacificislandtimes.com/post/the-pacific-s-first-passwords-were-stories-skills-and-tradition)
 
-via Pacific Island Times · 2026-11-22, updated 2026-11-23
+via Pacific Island Times · 2026-11-22, updated 2026-11-24
 
 Long before PINs, passwords and two-factor authentication, Pacific Islanders developed their own ways to protect land, resources and valuable knowledge.
 
@@ -2724,7 +3162,7 @@ Five years after Northland farmer Dave Davan died from downing a glass of poison
 
 ## [CNMI tourism eyes Philippine market](https://www.pacificislandtimes.com/post/cnmi-tourism-eyes-philippine-market)
 
-via Pacific Island Times · 2026-11-22, updated 2026-11-23
+via Pacific Island Times · 2026-11-22, updated 2026-11-24
 
 Saipan—For many decades, the Philippines has been the source of manpower for the Northern Mariana Islands. This time, the CNMI is seeking to tap this market, drawing on the resumption of Philippine Airlines' nonstop Manila-Saipan service to diversify its tourism base.
 
@@ -2760,7 +3198,7 @@ WASHINGTON, D.C., United States — November 22, 2026 — His Excellency Wesley 
 
 ## [Manu’a and Rose Atoll under Tropical Storm Warning](https://www.talanei.com/2026/11/21/manua-and-rose-atoll-under-tropical-storm-warning/)
 
-via Talanei · 2026-11-22, updated 2026-11-23
+via Talanei · 2026-11-22, updated 2026-11-24
 
 Tropical Storm Xavier is making its way to the territory. As of 2 p.m. Saturday, the National Weather Service’s mapping had Xavier moving towards American Samoa at about 8 miles per hour. Winds inside the system are
 
@@ -2796,13 +3234,13 @@ Before departing for Japan, the princess visited the Merlion, a landmark symboli
 
 ## [Absentee ballots leave CNMI's top races unresolved](https://www.pacificislandtimes.com/post/absentee-ballots-leave-cnmi-s-top-races-unresolved)
 
-via Pacific Island Times · 2026-11-22, updated 2026-11-23
+via Pacific Island Times · 2026-11-22, updated 2026-11-24
 
 Saipan-The 2026 CNMI runoff election delivered another dramatic twist Saturday, but not a final outcome.
 
 ## ['Finance delayed is finance denied': Pacific leaders push for climate pledges](https://www.pacificislandtimes.com/post/finance-delayed-is-finance-denied-pacific-leaders-push-for-climate-pledges)
 
-via Pacific Island Times · 2026-11-22, updated 2026-11-23
+via Pacific Island Times · 2026-11-22, updated 2026-11-24
 
 The Pacific Resilience Facility launched its international capitalization campaign at COP31 in Antalya, Türkiye, calling for increased international investment to strengthen climate and disaster resilience across the Blue Pacific.
 
@@ -3507,6 +3945,18 @@ via University of Hawaiʻi News · 2026-11-20, updated 2026-11-24
 Kal found his passion at UHMānoa.
 
 The post [A voice that refused to be silent: the legacy of Kal Warrington Silvert](https://www.hawaii.edu/news/2026/11/20/legacy-of-kal-warrington-silvert/) first appeared on [University of Hawaiʻi System News](https://www.hawaii.edu/news).
+
+## [Release of remaining tax refunds a top priority for Acting Treasurer Ledoux](https://www.talanei.com/2026/11/20/release-of-remaining-tax-refunds-a-top-priority-for-acting-treasurer-ledoux/)
+
+via Talanei · 2026-11-20, updated 2026-11-24
+
+ASG’s newly appointed Acting Treasurer, Taalolo Frederick Ledoux, has made it one of his top priorities the release of remaining tax refunds for this year. Ledoux, a guest on KHJ’s Morning Show on Friday said the Tax
+
+## [Dept of Agriculture’s Annual Thanksgiving Farm Fair set for Nov 25](https://www.talanei.com/2026/11/20/dept-of-agricultures-annual-thanksgiving-farm-fair-set-for-nov-25/)
+
+via Talanei · 2026-11-20, updated 2026-11-24
+
+The Department of Agriculture’s Annual Thanksgiving Farm Fair will be a one day event this year. Its set for Wednesday, November 25 and will be held at the DWYA Tafuna from 8am to 5pm. Director of Agriculture
 
 ## [Tokyo is being reshaped by a historic real estate boom](https://www.japantimes.co.jp/business/2026/11/21/tokyo-real-estate-boom/)
 
@@ -4595,7 +5045,7 @@ Some 93% of respondents have described Japan-China relations as poor or somewhat
 
 ## [Guam secures more than $11 million in federal grants for 16 projects](https://www.pacificislandtimes.com/post/guam-secures-10-million-in-federal-grants-for-16-projects)
 
-via Pacific Island Times · 2026-11-20, updated 2026-11-23
+via Pacific Island Times · 2026-11-20, updated 2026-11-24
 
 Guam has received more than $10 million in federal grants across 16 projects spanning capital improvements, public safety, healthcare, agriculture, energy, and government operations.
 
@@ -4715,7 +5165,7 @@ Apple's App Store has been dominated by artificial intelligence agents, with Mus
 
 ## [While we choose our leaders, Washington is setting the rules](https://www.pacificislandtimes.com/post/while-we-choose-our-leaders-washington-is-setting-the-rules)
 
-via Pacific Island Times · 2026-11-20, updated 2026-11-23
+via Pacific Island Times · 2026-11-20, updated 2026-11-24
 
 During the November 2026 elections, our communities debated leadership, electricity costs, employment, and the Commonwealth’s future. Families wanted to know who could improve their daily lives and whether campaign promises would translate into meaningful results.
 
@@ -4865,7 +5315,7 @@ The post [Drugs no longer needed as Fiji court exhibits under new narcotics law]
 
 ## [Volleyball Matchups Continue at Yap Sports Complex](https://yapstate.gov.fm/post/volleyball-matchups-continue-at-yap-sports-complex)
 
-via Yap State Government News · 2026-11-20, updated 2026-11-23
+via Yap State Government News · 2026-11-20, updated 2026-11-24
 
 Friday, November 20, 2026 /// DYCA PIO Yap FM - Volleyball competition continued at the Yap Sports Complex on November 17 and 18, 2026, with teams representing COM-FSM, MACHBAB, FMI, and Yap High School (YHS) competing in the girls’ and boys’ divisions. In the girls’ division on November 17, COM faced MACHBAB in a three-set matchup. COM took the opening set, 25–14, before MACHBAB responded with a 25–16 second-set win. COM secured the match with a 15–5 win in the deciding third set. In the...
 
@@ -4879,7 +5329,7 @@ The post [At COP 31, IOM Calls for Greater Investment in Disaster Readiness Acro
 
 ## [FSM Graduate Marciarose Matnan Earns Bachelor of Dental Surgery from Fiji National University](https://yapstate.gov.fm/post/fsm-graduate-marciarose-matnan-earns-bachelor-of-dental-surgery-from-fiji-national-university)
 
-via Yap State Government News · 2026-11-20, updated 2026-11-23
+via Yap State Government News · 2026-11-20, updated 2026-11-24
 
 Friday, November 20, 2026 /// DYCA PIO Yap FM - After five years of dedication, hard work, and commitment to her education, Marciarose Matnan has successfully graduated from Fiji National University (FNU) with a Bachelor of Dental Surgery, fulfilling her dream of becoming a dental professional and preparing to give back to her home community in the Federated States of Micronesia (FSM). Marciarose's journey began five years ago when she left home to pursue her ambition of becoming a dentist....
 
@@ -4987,7 +5437,7 @@ TC Reporter Lance Sana reflects on International Men’s Day and intergeneration
 
 ## [Phantom pay hikes: Guam senators seek to decipher governor's unfunded teacher salary plan](https://www.pacificislandtimes.com/post/immediate-pay-raises-for-guam-teachers-unlikely)
 
-via Pacific Island Times · 2026-11-20, updated 2026-11-23
+via Pacific Island Times · 2026-11-20, updated 2026-11-24
 
 Despite Gov. Lou Leon-Guerrero's approval of an Educator Pay Plan for Guam’s public school teachers, these employees are unlikely to see an immediate salary bump before the holidays.
 
@@ -5089,7 +5539,7 @@ While it was the biggest advance since December, the result was a tad weaker tha
 
 ## [PUBLIC NOTICE: UPCOMING FUEL PRICE INCREASES AND POTENTIAL ELECTRICITY TARIFF IMPACT](https://yapstate.gov.fm/post/public-notice-upcoming-fuel-price-increases-and-potential-electricity-tariff-impact)
 
-via Yap State Government News · 2026-11-20, updated 2026-11-23
+via Yap State Government News · 2026-11-20, updated 2026-11-24
 
 The Yap State Public Service Corporation (YSPSC) has notified the State Government of upcoming diesel fuel price increases beginning November 19, 2026, with additional adjustments scheduled for January and March 2027. These increases are projected to affect electricity rates on Yap Island Proper beginning February 2027. YSPSC is requesting financial assistance from the State Government to help offset the increased fuel costs and reduce the impact on electricity customers. For more details,...
 
@@ -5145,7 +5595,7 @@ Low observer coverage on longline fleets and exemptions to at-sea transfer bans 
 
 ## [DAY 1 – NOVEMBER 20 \| UNIVERSAL CHILDREN’S DAY](https://yapstate.gov.fm/post/day-1-november-20-universal-children-s-day)
 
-via Yap State Government News · 2026-11-20, updated 2026-11-23
+via Yap State Government News · 2026-11-20, updated 2026-11-24
 
 Every child deserves love, protection, dignity, and a safe childhood free from violence. Protecting children is everyone's responsibility. THEME: UNITE TO END VIOLENCE AGAINST WOMEN AND CHILDREN. SPEAK UP. TAKE ACTION. PROTECT EVERYONE. EVERY DAY! " This message is brought to you by the Division of Civic Affairs at DYCA "
 
@@ -5207,7 +5657,7 @@ Prime Minister Mark Brown says the declaration gives response teams statutory au
 
 ## [US awards first seabed lease; A. Samoa governor changes course, welcomes 'new era of exploration'](https://www.pacificislandtimes.com/post/us-issues-first-lease-of-seabed-offshore-american-samoa)
 
-via Pacific Island Times · 2026-11-19, updated 2026-11-23
+via Pacific Island Times · 2026-11-19, updated 2026-11-24
 
 Mike Olsen, MMA director, delivers opening remarks before the action begins Nov. 19, 2026. Screenshot By Mar-Vic Cagurangan The U.S. government today awarded two lease areas covering 31.5 million acres of waters near American Samoa to Wetstone U.S. Ventures, the only bidder that offered to explore the target seabed during a livestreamed auction held in California. The first-ever deep-sea mining auction generated $6 million for a 20-year lease term and a structured royalty schedule that starts...
 
@@ -5591,13 +6041,13 @@ by Tobi Alfier Autumn now, and they tread the clumsy light of the fog-struck sho
 
 ## [1.5°C dismissed as a 'dream' at COP31; For Naoero, it's a matter of survival](https://www.pacificislandtimes.com/post/1-5-c-dismissed-as-a-dream-at-cop31-for-naoero-it-s-a-matter-of-survival)
 
-via Pacific Island Times · 2026-11-19, updated 2026-11-23
+via Pacific Island Times · 2026-11-19, updated 2026-11-24
 
 “Today marks our first COP under our traditional name, Naoero,” said Reagan Moses, Naoero's secretary for Climate Change and National Resilience.
 
 ## [PNG matching ambition with climate action](https://www.pacificislandtimes.com/post/png-matching-ambition-with-climate-action)
 
-via Pacific Island Times · 2026-11-19, updated 2026-11-23
+via Pacific Island Times · 2026-11-19, updated 2026-11-24
 
 As negotiators and officials gather in Antalya, Türkiye, in the last week of COP31, the impacts of climate change on communities across Papua New Guinea are being felt in a very real way.
 
@@ -6235,7 +6685,7 @@ The post [Unleashing Yasta power](https://marshallislandsjournal.com/unleashing-
 
 ## [Small island, big ideas: Niue bags Earthshot Prize for innovative ocean protection program](https://www.pacificislandtimes.com/post/small-island-big-ideas-niue-bags-prestigious-earthshot-prize)
 
-via Pacific Island Times · 2026-11-19, updated 2026-11-23
+via Pacific Island Times · 2026-11-19, updated 2026-11-24
 
 While Pacific islands may be at the frontline of climate and environmental threats, they are the vanguard of the solutions, according to a university official.
 
@@ -6695,13 +7145,13 @@ Saipan—For the first time in Commonwealth history, voters are deciding both th
 
 ## [YSPSC Seeks State Government Assistance Following Upcoming Fuel Price Increases](https://yapstate.gov.fm/post/yspsc-seeks-state-government-assistance-following-upcoming-fuel-price-increases)
 
-via Yap State Government News · 2026-11-19, updated 2026-11-23
+via Yap State Government News · 2026-11-19, updated 2026-11-24
 
 Thursday, November 19, 2026 /// DYCA PIO Yap FM - The Yap State Public Service Corporation (YSPSC) is seeking financial assistance from the Yap State Government to help offset upcoming diesel fuel price increases and minimize their impact on electricity customers across Yap Island Proper. In a letter dated November 17, 2026, addressed to Governor Francis Itimai, YSPSC General Manager Victor Nabeyan reported that Vital FSM Petroleum Corporation will implement three fuel price increases after...
 
 ## [DHS Provides Free Cholesterol and Health Screenings to the Public](https://yapstate.gov.fm/post/dhs-provides-free-cholesterol-and-health-screenings-to-the-public)
 
-via Yap State Government News · 2026-11-19, updated 2026-11-23
+via Yap State Government News · 2026-11-19, updated 2026-11-24
 
 Thursday, November 19, 2026 /// DYCA PIO Yap FM - The Department of Health Services (DHS) conducted a free cholesterol and health screening program beginning Monday, November 16, 2026, at the DHS Hospital, encouraging members of the public to take proactive steps toward maintaining their health. The screening services were offered from 5:30 a.m. to 7:30 a.m. and included cholesterol testing, diabetes screening, kidney function testing, and height and weight measurements to assess...
 
@@ -7885,7 +8335,7 @@ Taipei, Nov. 18 (CNA) Taiwan's President Lai Ching-te (賴清德) on Wednesday u
 
 ## [Container Vessel Kota Ratu Delivers 26 Containers of Essential Goods to Yap](https://yapstate.gov.fm/post/container-vessel-kota-ratu-delivers-26-containers-of-essential-goods-to-yap)
 
-via Yap State Government News · 2026-11-18, updated 2026-11-23
+via Yap State Government News · 2026-11-18, updated 2026-11-24
 
 Wednesday, November 18, 2026 /// DYCA PIO Yap FM - The arrival of container vessel Kota Ratu in Yap earlier today brought 26 containers of essential goods and supplies from Guam, providing additional shipments of food, household necessities, and other merchandise to support the local economy. The vessel's shipment included a variety of goods sourced from several countries across the region and beyond. These included three containers of Japonica rice from Vietnam, two containers of drinking...
 
@@ -7897,7 +8347,7 @@ via Rappler · 2026-11-18
 
 ## [Ganir Bridge Replacement Project Advances Through Preparatory Works Amid Schedule Delays](https://yapstate.gov.fm/post/ganir-bridge-replacement-project-advances-through-preparatory-works-amid-schedule-delays)
 
-via Yap State Government News · 2026-11-18, updated 2026-11-23
+via Yap State Government News · 2026-11-18, updated 2026-11-24
 
 Wednesday, November 18, 2026 /// DYCA PIO Yap FM - The Ganir Bridge Replacement Project continues to progress through key construction preparation activities, with geotechnical investigations underway and coordination ongoing for the temporary relocation of Vital's fuel pipeline before major foundation works can begin. According to the latest project update dated November 12, 2026, submitted by SMEC Senior Resident Engineer Mr. Ichael Paice, the project has completed demolition of the former...
 
@@ -14208,7 +14658,7 @@ The prefecture will cull about 40,000 egg-laying chickens at a farm in Asahi.
 
 ## [Yap Community Comes Together for Veterans Day Walk and Clean-Up](https://yapstate.gov.fm/post/yap-community-comes-together-for-veterans-day-walk-and-clean-up)
 
-via Yap State Government News · 2026-11-13, updated 2026-11-23
+via Yap State Government News · 2026-11-13, updated 2026-11-24
 
 Friday, November 13, 2026 /// DYCA PIO Yap FM - On Wednesday, November 11, in recognition of Veterans Day, the Office of the Attorney General and YOUth 4 Youth-Yap shared their experiences from a community walk and clean-up held in honour of the men and women who have served in the US military. The Office of the Attorney General, together with the Division of Public Safety, joined active and former servicemen and women for a community clean-up along Colonia towards the hospital and YSL....
 
@@ -14220,7 +14670,7 @@ Nvidia's advanced chips are widely used to develop AI models, making the company
 
 ## [Mapping Yap’s Coral Reefs to Support Conservation and Protection](https://yapstate.gov.fm/post/mapping-yap-s-coral-reefs-to-support-conservation-and-protection)
 
-via Yap State Government News · 2026-11-13, updated 2026-11-23
+via Yap State Government News · 2026-11-13, updated 2026-11-24
 
 Friday, November 13, 2026 /// DYCA PIO Yap FM - OneReef WorldWide Stewardship shared a post yesterday highlighting the ongoing work of Arizona State University’s Global Airborne Observatory (GAO) team, who are mapping coral reef health across Yap in the Federated States of Micronesia this week. Using advanced imaging technology, the team is creating detailed digital maps of the coral reefs, much like an MRI scan, to assess their health and condition. The information gathered will help the Yap...
 
@@ -15800,7 +16250,7 @@ Prices for goods traded between Japanese firms climbed 0.7% month on month in Oc
 
 ## [Yap Varsity Volleyball Games Kick Off November 9; COM Defeats YHS in Opening Match](https://yapstate.gov.fm/post/yap-varsity-volleyball-games-kick-off-november-9-com-defeats-yhs-in-opening-match)
 
-via Yap State Government News · 2026-11-12, updated 2026-11-23
+via Yap State Government News · 2026-11-12, updated 2026-11-24
 
 Thursday, November 12, 2026 /// DYCA PIO Yap FM - The 2026 Yap Varsity Volleyball Games officially kicked off on Monday, November 9, following a postponement announced by the Yap Sports Council Office. The games were originally scheduled to begin on November 3, 2026. In the opening varsity matchup, COM faced Y.H.S. in an exciting contest, with COM emerging as the winner according to the final tally on the score sheet, 3 sets to 2. The recorded set scores on the score sheet include 21–25 in...
 
@@ -15812,7 +16262,7 @@ The review was ordered following its handling of a former employee, who was susp
 
 ## [Yapese Women Leading Mangrove and Clam Farm Restoration](https://yapstate.gov.fm/post/yapese-women-leading-mangrove-and-clam-farm-restoration)
 
-via Yap State Government News · 2026-11-12, updated 2026-11-23
+via Yap State Government News · 2026-11-12, updated 2026-11-24
 
 Thursday, November 12, 2026 /// DYCA PIO Yap FM - Yesterday, November 11, The Nature Conservancy in the Pacific shared an inspiring story from the village of Tamil in Yap State, Federated States of Micronesia, highlighting the incredible work of local women leading efforts to restore mangrove forests and revitalize traditional mud clam farms. During a recent visit, TNC staff Berna Gorong (Capacity Building Manager, Micronesia & Polynesia) and Nik Karr (Kiwa Initiative Women’s Work Project...
 
@@ -19074,7 +19524,7 @@ The surplus highlight Beijing's growing reliance on overseas demand to support a
 
 ## [Yap Veterans Association Invites all to Honor Veterans Through Clean-Up and Luncheon This Veterans Day](https://yapstate.gov.fm/post/yap-veterans-association-invites-all-to-honor-veterans-through-clean-up-and-luncheon-this-veterans-d)
 
-via Yap State Government News · 2026-11-10, updated 2026-11-23
+via Yap State Government News · 2026-11-10, updated 2026-11-24
 
 Tuesday, November 10, 2026 /// DYCA PIO Yap FM - Tomorrow, Wednesday, November 11, 2026 is Veterans Day Celebration and Community Clean-Up. The US Veterans of Yap Association invites the community to join its Veterans Day activities on Wednesday, November 11, 2026. The day will begin with Reveille at 7:00 AM at the iBoom location in town, followed by a community clean-up around Colonia. Volunteers are welcome and encouraged to bring friends. At 2:00 PM, everyone is invited to a late Veterans...
 
@@ -19086,7 +19536,7 @@ The consideration comes amid a widening political rift between the vice presiden
 
 ## [Yap’s Coral Reefs to Undergo Aerial Mapping Survey This Week](https://yapstate.gov.fm/post/yap-s-coral-reefs-to-undergo-aerial-mapping-survey-this-week)
 
-via Yap State Government News · 2026-11-10, updated 2026-11-23
+via Yap State Government News · 2026-11-10, updated 2026-11-24
 
 Tuesday, November 10, 2026 /// DYCA PIO Yap FM - Today, November 10, 2026 is the Aerial Mapping Survey to Begin Across Yap’s Coral Reefs. The Yap Department of Resources and Development, through its Marine Resources Management Division, announces an aerial mapping survey of Yap’s coral reefs from November 10 to 13, 2026. The Global Airborne Observatory research aircraft will conduct flights daily from 6:00 AM to 2:00 PM, using advanced technology to map coral reefs, monitor marine habitats,...
 

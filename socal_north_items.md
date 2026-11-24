@@ -1,14 +1,22 @@
 ---
 title: "SoCal North"
 description: "News and posts related to the greater North Los Angeles and adjacent counties.\n"
-pubDate: Tue, 24 Nov 2026 02:42:20 GMT
+pubDate: Tue, 24 Nov 2026 05:11:24 GMT
 aggregateOf: "socal_north.md"
-dateModified: Tue, 24 Nov 2026 06:47:35 GMT
-itemCount: 302
+dateModified: Tue, 24 Nov 2026 07:19:57 GMT
+itemCount: 303
 generator: antenna/0.2.0
 ---
 
 # SoCal North
+
+## [HOROSCOPE](https://sanfernandosun.com/2026/11/23/horoscope-291/)
+
+via San Fernando Sun · 2026-11-24
+
+ARIES (March 21-April 19) This is a good weekend for kicking back and relaxing, Aries. If you feel like hosting, open your home to some guests for even more fun. \[…\]
+
+The post [HOROSCOPE](https://sanfernandosun.com/2026/11/23/horoscope-291/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
 
 ## [Trump targets Newsom and Democrats in Justice Department speech focused on violent crime](https://laist.com/news/criminal-justice/trump-targets-newsom-and-democrats-in-justice-department-speech-focused-on-violent-crime)
 
@@ -92,7 +100,7 @@ California community colleges and the UC system are both discussing expanding th
 
 ## [LA’s Vegan Community Seeks Thanksgiving Alternatives](https://sanfernandosun.com/2026/11/23/las-vegan-community-seeks-thanksgiving-alternatives-2/)
 
-via San Fernando Sun · 2026-11-23
+via San Fernando Sun · 2026-11-23, updated 2026-11-24
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/11/CA-Sun-turkey-hug-kid-EDIT-scaled.jpg?fit=768%2C1024&ssl=1)
 
@@ -228,7 +236,7 @@ The state faces a projected $2 billion shortfall next year, but if the Nvidia sl
 
 ## [Experts Urge Travelers to Get a Flu Shot Before Thanksgiving](https://sanfernandosun.com/2026/11/20/experts-urge-travelers-to-get-a-flu-shot-before-thanksgiving/)
 
-via San Fernando Sun · 2026-11-20, updated 2026-11-23
+via San Fernando Sun · 2026-11-20, updated 2026-11-24
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/500_jonathan-weiner-md-cedars-sinai.jpg?fit=285%2C400&ssl=1)
 
@@ -380,7 +388,7 @@ Students were injured, doxxed, suspended and some tried for misdemeanors for the
 
 ## [Llevando el espíritu de “Si Se Puede”: Miles rinden homenaje a Dolores Huerta](https://sanfernandosun.com/2026/11/18/llevando-el-espiritu-de-si-se-puede-miles-rinden-homenaje-a-dolores-huerta/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-23
+via San Fernando Sun · 2026-11-19, updated 2026-11-24
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/AP26320811633908-1.jpg?fit=1024%2C683&ssl=1)
 
@@ -390,7 +398,7 @@ The post [Llevando el espíritu de “Si Se Puede”: Miles rinden homenaje a Do
 
 ## [Demanda impugna el plan de Newsom para conmutar las 548 sentencias de muerte en California](https://sanfernandosun.com/2026/11/18/demanda-impugna-el-plan-de-newsom-para-conmutar-las-548-sentencias-de-muerte-en-california/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-23
+via San Fernando Sun · 2026-11-19, updated 2026-11-24
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/6099018590715768017_107ca394-a589-4eff-a760-08895cdb8f3e-e1795064149101.png?fit=1024%2C981&ssl=1)
 
@@ -400,7 +408,7 @@ The post [Demanda impugna el plan de Newsom para conmutar las 548 sentencias de 
 
 ## [Horóscopo](https://sanfernandosun.com/2026/11/18/horoscopo-294/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-23
+via San Fernando Sun · 2026-11-19, updated 2026-11-24
 
 ARIES (21 de mar – 19 de abr) Puedes querer estar en todas partes al mismo tiempo cuando lleguen las invitaciones sociales, Aries. Pero esta semana tendrás que elegir tus \[…\]
 
@@ -408,7 +416,7 @@ The post [Horóscopo](https://sanfernandosun.com/2026/11/18/horoscopo-294/) appe
 
 ## [EVENTOS Locales – Semana de 19 de noviembre, 2026](https://sanfernandosun.com/2026/11/18/eventos-locales-semana-de-19-de-noviembre-2026/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-23
+via San Fernando Sun · 2026-11-19, updated 2026-11-24
 
 Viernes, 20 de noviembre Nuestra Tercera Campaña de Pavos de Acción de Gracias Llega a Todos los Vecindarios del Distrito 6 Ignite the Light of Hope 13501 Osborne St. Lakeview \[…\]
 
@@ -416,7 +424,7 @@ The post [EVENTOS Locales – Semana de  19 de noviembre, 2026](https://sanfern
 
 ## [Quinto año de campaña de MADD para iluminar puntos de referencia en honor a víctimas y sobrevivientes](https://sanfernandosun.com/2026/11/18/quinto-ano-de-campana-de-madd-para-iluminar-puntos-de-referencia-en-honor-a-victimas-y-sobrevivientes/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-23
+via San Fernando Sun · 2026-11-19, updated 2026-11-24
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Dodger-Stadium-5.jpg?fit=1024%2C767&ssl=1)
 
@@ -426,7 +434,7 @@ The post [Quinto año de campaña de MADD para iluminar puntos de referencia en 
 
 ## [Conductor acusado en choque fatal de Metro en NoHo que mató a tres vendedoras ambulantes](https://sanfernandosun.com/2026/11/18/conductor-acusado-en-choque-fatal-de-metro-en-noho-que-mato-a-tres-vendedoras-ambulantes/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-23
+via San Fernando Sun · 2026-11-19, updated 2026-11-24
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/NoHo-Crash-01-e1795063505384.jpeg?fit=1024%2C768&ssl=1)
 
@@ -436,7 +444,7 @@ The post [Conductor acusado en choque fatal de Metro en NoHo que mató a tres ve
 
 ## [Vuelve el Festival de Baile de Calle de Valley con talleres de reconocidos artistas](https://sanfernandosun.com/2026/11/18/vuelve-el-festival-de-baile-de-calle-de-valley-con-talleres-de-reconocidos-artistas/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-23
+via San Fernando Sun · 2026-11-19, updated 2026-11-24
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/%40BY.AUSTINLUC-11-scaled.jpg?fit=768%2C1024&ssl=1)
 

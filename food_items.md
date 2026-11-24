@@ -3,8 +3,8 @@ title: "Healthy Eats"
 description: "Healthy eats and good eats, with recipes, cooking and food news."
 pubDate: Tue, 24 Nov 2026 02:13:23 GMT
 aggregateOf: "food.md"
-dateModified: Tue, 24 Nov 2026 06:47:30 GMT
-itemCount: 282
+dateModified: Tue, 24 Nov 2026 07:44:06 GMT
+itemCount: 283
 generator: antenna/0.2.0
 ---
 
@@ -15,6 +15,12 @@ generator: antenna/0.2.0
 via Bon Appetet · 2026-11-24
 
 Take advantage of early Black Friday sale pricing to get a great deal on a new Vertuo or OriginalLine machine.
+
+## [The Biquinho Pepper Planting Guide](https://pepperscale.com/biquinho-pepper-planting/)
+
+via Pepper Scale · 2026-11-23
+
+How to grow biquinho peppers: when to plant where you live, starting seeds, spacing, containers, watering, when to pick these little Brazilian peppers, and common problems.
 
 ## [Accademia Del Caffè Espresso & Toddy Present “Hot VS Cold Conversations With Toddy”](https://sprudge.com/accademia-del-caffe-espresso-toddy-present-hot-vs-cold-conversations-with-toddy-1674671.html)
 
@@ -384,7 +390,7 @@ The post [HexClad Bakeware Review: This Set Is So Sturdy and Nonstick, I’m Dit
 
 ## [The Padrón Pepper Planting Guide](https://pepperscale.com/padron-pepper-planting/)
 
-via Pepper Scale · 2026-11-19
+via Pepper Scale · 2026-11-19, updated 2026-11-23
 
 When to start Padrón pepper seeds, when to plant them out, and when to pick them for blistering, with a zip code planner built on NOAA frost data.
 
@@ -610,7 +616,7 @@ Top chefs, Test Kitchen editors, and passionate home cooks gathered for an unfor
 
 ## [The World’s Chili Capitals: The Best Cities For Spicy Food](https://pepperscale.com/worlds-best-cities-for-spicy-food/)
 
-via Pepper Scale · 2026-11-17, updated 2026-11-19
+via Pepper Scale · 2026-11-17, updated 2026-11-23
 
 The best cities in the world for spicy food, from Chengdu to Nabeul to Espelette, sorted by local peppers, protected names, history, heritage listings and festivals.
 
@@ -688,7 +694,7 @@ San Francisco-based roaster-retailer Ritual Coffee opened a new cafe in the city
 
 ## [America’s Chili Capitals: The Best US Cities For Spicy Food](https://pepperscale.com/best-us-cities-for-spicy-food/)
 
-via Pepper Scale · 2026-11-17, updated 2026-11-19
+via Pepper Scale · 2026-11-17, updated 2026-11-23
 
 The best US cities for spicy food, sorted by the things we could check: a local pepper, how far back the tradition goes, official recognition, festivals and search data.
 
@@ -1008,7 +1014,7 @@ The post [Seeds of Change in Colombia’s Caldas Department](https://freshcup.co
 
 ## [The Fresno Pepper Planting Guide](https://pepperscale.com/fresno-pepper-planting/)
 
-via Pepper Scale · 2026-11-13, updated 2026-11-19
+via Pepper Scale · 2026-11-13, updated 2026-11-23
 
 How to grow Fresno peppers: when to start the seeds, when to plant out, spacing, containers, water and feeding, and when to pick, with a zip code planner and a U.S. season map.
 
@@ -1136,7 +1142,7 @@ The post [Korean Braised Potatoes (Gamja Jorim)](https://www.closetcooking.com/k
 
 ## [The Trinidad Moruga Scorpion Planting Guide](https://pepperscale.com/trinidad-moruga-scorpion-planting/)
 
-via Pepper Scale · 2026-11-12, updated 2026-11-19
+via Pepper Scale · 2026-11-12, updated 2026-11-23
 
 When to start Trinidad Moruga Scorpion seeds, how to get them to sprout, when to plant out, and how to water, feed, pollinate and pick this slow super-hot, with a zip code planner.
 
@@ -1480,7 +1486,7 @@ The post [Chicken and Wild Rice Casserole](https://www.closetcooking.com/chicken
 
 ## [The Chinese 5-Color Pepper Planting Guide](https://pepperscale.com/chinese-5-color-pepper-planting/)
 
-via Pepper Scale · 2026-11-08, updated 2026-11-19
+via Pepper Scale · 2026-11-08, updated 2026-11-23
 
 When to start Chinese 5-color pepper seeds, when to plant them out, how to water, feed and pick them, and how to grow one in a pot, with a zip code planner.
 
@@ -1516,7 +1522,7 @@ The post [Thanksgiving Breakfast Recipes](https://www.closetcooking.com/thanksgi
 
 ## [The Red Savina Habanero Planting Guide](https://pepperscale.com/red-savina-habanero-planting/)
 
-via Pepper Scale · 2026-11-07, updated 2026-11-19
+via Pepper Scale · 2026-11-07, updated 2026-11-23
 
 When to start Red Savina habanero seeds, when to plant them out, how to water, feed and pick them, and how to grow one in a pot, with a zip code planner.
 
@@ -1792,7 +1798,7 @@ The post [The 10 Best Aldi Finds of November Include the Cutest Stocking Stuffer
 
 ## [The Bulgarian Carrot Pepper Planting Guide](https://pepperscale.com/bulgarian-carrot-pepper-planting/)
 
-via Pepper Scale · 2026-11-05, updated 2026-11-19
+via Pepper Scale · 2026-11-05, updated 2026-11-23
 
 When to start Bulgarian carrot pepper seeds, when to plant them out, how to water, feed and pick them, and whether they'll ripen where you live, with a zip code planner.
 

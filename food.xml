@@ -5,7 +5,7 @@
     <title><![CDATA[Healthy Eats]]></title>
     <description><![CDATA[Healthy eats and good eats, with recipes, cooking and food news.]]></description>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>23 Nov 26 22:47 -0800</lastBuildDate>
+    <lastBuildDate>23 Nov 26 23:44 -0800</lastBuildDate>
     <generator>antenna/0.2.0</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -19,6 +19,18 @@
       <guid isPermaLink="false">cid://655d2763c12be0e1129eee9f</guid>
       <category>Shopping</category>
       <pubDate>Tue, 24 Nov 2026 02:13:23 +0000</pubDate>
+    </item>    <item>
+      <title>The Biquinho Pepper Planting Guide</title>
+      <link>https://pepperscale.com/biquinho-pepper-planting/</link>
+      <description>
+        <![CDATA[How to grow biquinho peppers: when to plant where you live, starting seeds, spacing, containers, watering, when to pick these little Brazilian peppers, and common problems.]]>
+      </description>
+      <source:markdown>How to grow biquinho peppers: when to plant where you live, starting seeds, spacing, containers, watering, when to pick these little Brazilian peppers, and common problems.</source:markdown>
+      <dc:creator>Matt Bray</dc:creator>
+      <guid isPermaLink="false">cid://https://pepperscale.com/?p=106447</guid>
+      <category>Fun &#38; Learning</category>
+      <category>Growing Peppers</category>
+      <pubDate>Mon, 23 Nov 2026 23:59:18 +0000</pubDate>
     </item>    <item>
       <title>Accademia Del Caffè Espresso &#38; Toddy Present “Hot VS Cold Conversations With Toddy”</title>
       <link>https://sprudge.com/accademia-del-caffe-espresso-toddy-present-hot-vs-cold-conversations-with-toddy-1674671.html</link>
