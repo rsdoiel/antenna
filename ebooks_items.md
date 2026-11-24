@@ -1,14 +1,14 @@
 ---
-title: "ebooks.md"
+title: "eBooks"
 description: "New eBook releases."
 pubDate: Fri, 20 Nov 2026 17:17:24 GMT
 aggregateOf: "ebooks.md"
-dateModified: Tue, 24 Nov 2026 06:47:35 GMT
+dateModified: Tue, 24 Nov 2026 07:13:42 GMT
 itemCount: 154
 generator: antenna/0.2.0
 ---
 
-# ebooks.md
+# eBooks
 
 ## [Confessions of Zeno](https://standardebooks.org/ebooks/italo-svevo/confessions-of-zeno/beryl-de-zoete)
 

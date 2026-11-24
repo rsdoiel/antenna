@@ -146,7 +146,7 @@ collections:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: pages.db
-    - title: ebooks.md
+    - title: eBooks
       link: ebooks.xml
       description: New eBook releases.
       file: ebooks.md
