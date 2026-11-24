@@ -22,6 +22,16 @@ function build_site() {
   		antenna page "${MD_FILE}" "${HTML_FILE}"
   		if [ -d .git ]; then git add "${HTML_FILE}"; fi
 	done
+
+	# The sitemap lists the site's pages, posts and each collection's
+	# _items.html page, so it runs after generate and page. -clean removes
+	# sitemap_N.xml files an earlier run left behind.
+	echo "Generating sitemap"
+	if antenna sitemap -clean; then
+		if [ -d .git ]; then git add sitemap_*.xml; fi
+	else
+		echo "Failed to generate the sitemap"
+	fi
 	echo "Done $(date)"
 }
 
