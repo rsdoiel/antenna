@@ -12,7 +12,7 @@ authors:
 
 
 repository_code: https://github.com/rsdoiel/antenna
-version: 0.1.1
+version: 0.1.2
 license_url: https://www.gnu.org/licenses/agpl-3.0.txt
 
 programming_language:
@@ -28,15 +28,15 @@ keywords:
   - website
   - static
 
-date_released: 2026-05-23
+date_released: 2026-11-23
 ---
 
 About this software
 ===================
 
-## antenna 0.1.1
+## antenna 0.1.2
 
-Now curated with antennaApp v0.0.24
+Now curated with antennaApp v0.2.0
 
 ## Authors
 

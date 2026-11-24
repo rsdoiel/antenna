@@ -14,9 +14,9 @@ authors:
     email: rsdoiel@gmail.com
 
 
-repository-code: "git+https://github.com/rsdoiel/antenna"
-version: 0.1.1
-date-released: 2026-05-23
+repository-code: "https://github.com/rsdoiel/antenna"
+version: 0.1.2
+date-released: 2026-11-23
 
 license-url: "https://www.gnu.org/licenses/agpl-3.0.txt"
 keywords:
