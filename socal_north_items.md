@@ -1,14 +1,26 @@
 ---
 title: "SoCal North"
 description: "News and posts related to the greater North Los Angeles and adjacent counties.\n"
-pubDate: Tue, 24 Nov 2026 05:11:24 GMT
+pubDate: Tue, 24 Nov 2026 13:00:00 GMT
 aggregateOf: "socal_north.md"
-dateModified: Tue, 24 Nov 2026 07:19:57 GMT
-itemCount: 303
+dateModified: Tue, 24 Nov 2026 14:30:43 GMT
+itemCount: 306
 generator: antenna/0.2.0
 ---
 
 # SoCal North
+
+## [Judge sanctions outgoing LA city attorney, orders forensic search of her devices](https://laist.com/news/criminal-justice/la-city-attorney-hydee-feldstein-soto-sanctions-device-search)
+
+via The LAist · 2026-11-24
+
+A fired prosecutor has sued, saying Hydee Feldstein Soto punished her for speaking up against wrongdoing. A judge recently found the city's top lawyer dodged a court order.
+
+## [This neon green barge is part of how California is cutting port pollution. Will Congress interfere?](https://laist.com/news/climate-environment/la-long-beach-port-pollution-capture-at-berth-clean-ship-waiver-congress)
+
+via The LAist · 2026-11-24
+
+Stax Engineering boats can suck nitrogen oxide directly out of ships' smokestacks, a key piece of the puzzle for reducing smog generated at the ports of L.A. and Long Beach.
 
 ## [HOROSCOPE](https://sanfernandosun.com/2026/11/23/horoscope-291/)
 
@@ -712,6 +724,12 @@ The recently completed facility will serve as a hub for processing and testing c
 
 ![Three people hold scissors](https://media.defense.gov/2026/Nov/16/2004027688/300/300/0/261105-X-DY416-1031.JPG)
 
+## [Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge](https://laist.com/news/climate-environment/study-estimates-magnitude-of-us-data-center-pollution-as-climate-talks-unveil-clean-ai-pledge)
+
+via The LAist · 2026-11-16
+
+The 400 largest data centers in the United States put more heat-trapping gas in the air in one year than the entire nation of Denmark.
+
 ## [Light Up Main Street Know Before You Go!](https://santaclarita.gov/blog/2026/11/16/light-up-main-street-know-before-you-go/)
 
 via City of Santa Clarita · 2026-11-16, updated 2026-11-19
@@ -748,17 +766,17 @@ via The LAist · 2026-11-16
 
 The nominations for the 69th annual Grammy Awards were announced on Monday, and women artists across genres rule the major categories.
 
+## [What Eaton Fire survivors need to know as Edison payout and lawsuit deadlines approach](https://laist.com/news/climate-environment/eaton-fire-survivors-edison-payout-and-lawsuit-deadlines)
+
+via The LAist · 2026-11-16, updated 2026-11-23
+
+Here's what more than two dozen survivors told LAist about their offers and how they're thinking about the SoCal Edison Wildfire Recovery Compensation Program.
+
 ## [For years, LA County has been plagued by hospice fraud. Here's how typical hospice schemes work](https://laist.com/news/criminal-justice/for-years-la-county-has-been-plagued-by-hospice-fraud-heres-how-typical-hospice-schemes-work)
 
 via The LAist · 2026-11-16
 
 Prosecutors and advocates say recruiters for fraudulent hospice companies offer older people cash, gift cards or free supplies to entice them to share Medicare ID numbers.
-
-## [What Eaton Fire survivors need to know as Edison payout and lawsuit deadlines approach](https://laist.com/news/climate-environment/eaton-fire-survivors-edison-payout-and-lawsuit-deadlines)
-
-via The LAist · 2026-11-16
-
-Here's what more than two dozen survivors told LAist about their offers and how they're thinking about the SoCal Edison Wildfire Recovery Compensation Program.
 
 ## [What happens to Nithya Raman's LA City Council seat once she's sworn in as mayor?](https://laist.com/news/politics/what-happens-to-nithya-raman-la-city-council-seat-once-sworn-in-as-mayor)
 

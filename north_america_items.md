@@ -1,14 +1,74 @@
 ---
 title: "North America"
 description: "News from across North America."
-pubDate: Tue, 24 Nov 2026 06:38:11 GMT
+pubDate: Tue, 24 Nov 2026 13:40:00 GMT
 aggregateOf: "north_america.md"
-dateModified: Tue, 24 Nov 2026 07:23:12 GMT
-itemCount: 1351
+dateModified: Tue, 24 Nov 2026 14:31:21 GMT
+itemCount: 1355
 generator: antenna/0.2.0
 ---
 
 # North America
+
+## [Do you have flood insurance?](https://www.marketplace.org/episode/2026/11/24/do-you-have-flood-insurance)
+
+via Market Place Morning Report · 2026-11-24
+
+As the climate changes, flooding is becoming more frequent and intense around the country. But while 90% of natural disasters in the U.S. involve flooding, just 6% of homeowners have flood insurance. Plus, accommodations for pregnant workers could be in jeopardy, and Erik Gordon, a business professor at the University of Michigan's Ross School of Business, shares his thoughts on Jensen Huang’s outsized role in our economy.
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe to our daily or weekly newsletter](https://www.marketplace.org/newsletters)_ _._
+
+_Marketplace Morning Report is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._
+
+## [What should it cost to insure a home in wildfire country?](https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country)
+
+via NPR Economic · 2026-11-24
+
+Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent in their insurance bills. Should they be getting a bigger break?
+
+## [What happens if AI becomes its own successor?](https://www.marketplace.org/episode/2026/11/24/what-happens-if-ai-becomes-its-own-successor)
+
+via Market Place Tech Report · 2026-11-24
+
+A new report from [from the AI safety non-profit METR](https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/#our-conclusions-on-risk) has a lot of AI insiders warning about something called recursive self-improvement or RSI — where AI sort of builds itself, leading to a rapid explosion in capabilities.
+
+Rachel Steratore, a senior researcher at RAND, says now is the time to prepare.
+
+### More on this
+
+[I Spent a Year Talking to Anthropic Employees. Here’s What They Believe](https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html) — from The New York Times
+
+[Anthropic warns that it’s very close to RSI capability, aka self-building AI](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/) — from TechCrunch
+
+[Recursive Self-Improvement and Automated AI Research and Development](https://www.rand.org/pubs/perspectives/PEA5068-1.html) — from RAND
+
+## [Money and food, the two things in life that we cannot quit](https://www.sdstandardnow.com/home/money-and-food-the-two-things-we-cannot-quit)
+
+via South Dakota Standard · 2026-11-24, updated 2026-11-23
+
+Someone recovering from an addiction to alcohol or drugs can stop drinking or using. But none of us get to stop eating or spending. Whatever difficult relationships we may have with food or money, we need to recover and make behavioral changes while still using them every day.
+
+More than 20 years ago, a colleague and I developed one of the earliest financial therapy workshops. At one meal, we asked participants to practice conscious eating. First, we smelled our food for a full minute. For the next ten minutes, we ate in silence, setting our forks down between each bite. Whenever I did this, I usually felt full and finished with half the food still on my plate. Eating this slowly shows how much we consume without noticing.
+
+My rough estimate is that about 20 percent of problems with either money or food are cognitive: you do not know something, someone tells you, and you fix it. For example, at 35, my waistline started growing even though my eating habits had not changed. Then I learned about metabolism. I stopped pouring cream on my cereal and started losing weight.
+
+The other 80-some percent of money or food problems are not changed by information, because they are not about the money or the food.
+
+The two problems often show up together. A 2009 study by Eva Münster and colleagues at the University of Mainz, titled “ [Over-indebtedness as a marker of socioeconomic status and its association with obesity](https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-9-286),” surveyed 949 people in debt counseling in two German states. It found that 25.1 percent were obese, compared with 11.3 percent of the general population. This was after accounting for age, sex, education, income, depression, and smoking.
+
+That study looked at people at one point in time, so it could not say which problem came first. Economists Matthias Keese and Hendrik Schmitz later [followed German households from 1999 to 2009](https://doi.org/10.1111/roiw.12002) and found that debt went on to worsen physical and mental health, but not weight. I suspect that more often, rather than one problem causing the other, the two share a deeper root.
+
+A recent guest on my podcast has built her practice on that overlap. [Jaelyn Vickery](https://www.jaevic.com/), a Certified Financial Therapist with a master’s degree in social work, specializes in serving clients who struggle with both food and money.
+
+She describes what she calls disordered consumption, a cycle with three parts. Compulsion is the urge, often driven by unrecognized stress, loneliness, or boredom. Consumption is the behavior, such as overspending or overeating. Control is the response that follows: guilt, shame, secrecy, and attempts to regain control through restriction or self-criticism. In her view, the control phase keeps the cycle running, because it never meets the need that started the urge.
+
+Ted Klontz, who helped me build those first workshops, used to say that whatever the compulsion, the path leads to the same living room, which is the trauma underneath. One of our workshops had  eight participants, all there for help with money issues. By the end of the week, six of them had traced their money behavior back to sexual abuse.
+
+If either food or money has been a struggle for you, I suggest starting with the compulsion/urge part of the pattern rather than trying yet another diet or budget. This can begin with a simple strategy. When you find yourself reaching for an unneeded snack or opening a shopping app, pause. Wait ten minutes and write down what you are feeling. This can give you an entry point for exploring what lies beneath the urge. You also may find some useful insights at Vickery’s [Finance, Fitness & Finesse](https://www.financefitnessfinesse.com/) podcast.
+
+_Rick Kahler, CFP®, CFT™, is a pioneer in financial therapy and a 2026 inductee into the Financial Therapy Hall of Fame. He is the founder of The Financial Therapy Podcast and Kahler Financial Group, and co-author of “Coupleship Inc.” and “The Financial Wisdom of Ebenezer Scrooge._
+
+_The information provided is for educational purposes only and should not be construed as investment advice. The views expressed are subject to change based on market or economic conditions. Past performance is not indicative of future results. Any reference to potential benefits is illustrative and may not apply to your individual circumstances. You should consult with your financial adviser before making any investment decisions. KFG, LLC is an SEC-registered Investment Adviser._
 
 ## [The e-bike industry has a horsepower problem](https://electrek.co/2026/11/23/the-e-bike-industry-has-a-horsepower-problem/)
 
@@ -3459,7 +3519,7 @@ Homeland Security Secretary Markwayne Mullin said Friday there’s no indication
 
 ## [Flying blind: Inside the decline of the EPA’s chemical-detection plane](https://floodlightnews.org/aspect-plane-epa-chemical-emergencies/)
 
-via Floodlight · 2026-11-16, updated 2026-11-23
+via Floodlight · 2026-11-16, updated 2026-11-24
 
 As toxic emergencies rise, an EPA plane used to identify dangerous chemicals in the air can no longer do its job.
 
@@ -8650,7 +8710,7 @@ There are electric bikes, there are electric motorcycles, and then there are mac
 
 ## [WATCH: We exposed a secret AI power plant emitting staggering amounts of pollution](https://floodlightnews.org/vineland-data-center-pollution-documentary/)
 
-via Floodlight · 2026-11-05, updated 2026-11-23
+via Floodlight · 2026-11-05, updated 2026-11-24
 
 A new mini-documentary about the DataOne facility in Vineland, NJ, shows how a thermal drone uncovered an unpermitted power plant.
 

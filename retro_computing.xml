@@ -5,10 +5,21 @@
     <title><![CDATA[Retro]]></title>
     <description><![CDATA[Computer history and vintage systems.]]></description>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>23 Nov 26 22:47 -0800</lastBuildDate>
+    <lastBuildDate>24 Nov 26 06:46 -0800</lastBuildDate>
     <generator>antenna/0.2.0</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Site Reader</title>
+      <link>https://www.c64os.com/post/sitereader</link>
+      <description>
+        <![CDATA[<img src='https://s3.amazonaws.com/com.c64os.resources/weblog/sitereader/icon-sitereader.jpg'> The web is a tough nut to crack for a Commodore 64. Back in the late 90s Maurice Randall from Click Here Software1 worked on a native C64 web browser called "The Wave." It required a SuperCPU with SuperRAM, so exactly how native to the C64 it really was can be disputed. But it was certainly an ambitious undertaking. Despite having the 20MHz 65816 SuperCPU to work with, plus up to 16MB of SuperRAM, it is my contention that this was always a fool's errand. The SuperCPU, in one fell swoop, made a C64 run 20X faster than the original, and gave the CPU (more or less) direct access to 256 times the amount of RAM in a stock C64. This is an impressive leap in relative terms. Rarely does any computing platform—in one step or one year—increase in raw computational power by such an extraordinary factor. But PC and Mac computers were continually doubling in power period-over-period, and the web was correspondingly undergoing a tremendous increase in complexity. As fraught as this is, let's try. . .]]>
+      </description>
+      <source:markdown>![](https://s3.amazonaws.com/com.c64os.resources/weblog/sitereader/icon-sitereader.jpg) The web is a tough nut to crack for a Commodore 64. Back in the late 90s Maurice Randall from Click Here Software1 worked on a native C64 web browser called &#34;The Wave.&#34; It required a SuperCPU with SuperRAM, so exactly how native to the C64 it really was can be disputed. But it was certainly an ambitious undertaking. Despite having the 20MHz 65816 SuperCPU to work with, plus up to 16MB of SuperRAM, it is my contention that this was always a fool&#39;s errand. The SuperCPU, in one fell swoop, made a C64 run 20X faster than the original, and gave the CPU (more or less) direct access to 256 times the amount of RAM in a stock C64. This is an impressive leap in relative terms. Rarely does any computing platform—in one step or one year—increase in raw computational power by such an extraordinary factor. But PC and Mac computers were continually doubling in power period-over-period, and the web was correspondingly undergoing a tremendous increase in complexity. As fraught as this is, let&#39;s try. . .</source:markdown>
+      <author>gregorynacu@me.com (Gregory Nacu)</author>
+      <guid isPermaLink="false">cid://https://www.c64os.com/post?p=139</guid>
+      <category>Software</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>    <item>
       <title>b.log 2026/11/22 - Windy and rainy, Tea v0.04.</title>
       <link>https://heyrick.eu/blog/entry/20261122</link>
       <description>

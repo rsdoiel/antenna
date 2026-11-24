@@ -1,14 +1,20 @@
 ---
 title: "Retro"
 description: "Computer history and vintage systems."
-pubDate: Sun, 22 Nov 2026 20:00:05 GMT
+pubDate: Tue, 24 Nov 2026 00:00:00 GMT
 aggregateOf: "retro_computing.md"
-dateModified: Tue, 24 Nov 2026 06:47:35 GMT
-itemCount: 50
+dateModified: Tue, 24 Nov 2026 14:46:07 GMT
+itemCount: 51
 generator: antenna/0.2.0
 ---
 
 # Retro
+
+## [Site Reader](https://www.c64os.com/post/sitereader)
+
+via C64 OS Blog · 2026-11-24
+
+![](https://s3.amazonaws.com/com.c64os.resources/weblog/sitereader/icon-sitereader.jpg) The web is a tough nut to crack for a Commodore 64. Back in the late 90s Maurice Randall from Click Here Software1 worked on a native C64 web browser called "The Wave." It required a SuperCPU with SuperRAM, so exactly how native to the C64 it really was can be disputed. But it was certainly an ambitious undertaking. Despite having the 20MHz 65816 SuperCPU to work with, plus up to 16MB of SuperRAM, it is my contention that this was always a fool's errand. The SuperCPU, in one fell swoop, made a C64 run 20X faster than the original, and gave the CPU (more or less) direct access to 256 times the amount of RAM in a stock C64. This is an impressive leap in relative terms. Rarely does any computing platform—in one step or one year—increase in raw computational power by such an extraordinary factor. But PC and Mac computers were continually doubling in power period-over-period, and the web was correspondingly undergoing a tremendous increase in complexity. As fraught as this is, let's try. . .
 
 ## [b.log 2026/11/22 - Windy and rainy, Tea v0.04.](https://heyrick.eu/blog/entry/20261122)
 

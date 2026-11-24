@@ -1,14 +1,21 @@
 ---
 title: "Student Paper"
 description: "Student journalism and the fourth estate."
-pubDate: Tue, 24 Nov 2026 07:38:29 GMT
+pubDate: Tue, 24 Nov 2026 08:28:09 GMT
 aggregateOf: "journalism.md"
-dateModified: Tue, 24 Nov 2026 07:45:40 GMT
-itemCount: 508
+dateModified: Tue, 24 Nov 2026 14:48:25 GMT
+itemCount: 509
 generator: antenna/0.2.0
 ---
 
 # Student Paper
+
+## [UCLA women’s basketball looks to continue season-high records against St. John’s](https://dailybruin.com/2026/11/24/ucla-womens-basketball-looks-to-continue-season-high-records-against-st-johns/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24
+
+Remaining undefeated is easier when your roster is playing up to its potential.
+This season, the Bruins have continued to set new ceilings for what their potential is and how high their win streak can reach.
 
 ## [Dress to impress this winter with throwback styles and trendy new pieces](https://dailybruin.com/2026/11/23/dress-to-impress-this-winter-with-throwback-styles-and-trendy-new-pieces/)
 

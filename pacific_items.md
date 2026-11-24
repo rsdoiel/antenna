@@ -1,10 +1,10 @@
 ---
 title: "Pacific"
 description: "News from Hawaiʻi, Micronesia, Oceania and the Pacific Rim."
-pubDate: Tue, 24 Nov 2026 07:22:03 GMT
+pubDate: Tue, 24 Nov 2026 14:27:03 GMT
 aggregateOf: "pacific.md"
-dateModified: Tue, 24 Nov 2026 07:27:30 GMT
-itemCount: 4448
+dateModified: Tue, 24 Nov 2026 14:32:33 GMT
+itemCount: 4530
 generator: antenna/0.2.0
 ---
 
@@ -117,12 +117,6 @@ A statue of a girl symbolizing the victims of Japan's wartime sexual slavery, eu
 via Korea Times · 2026-11-24
 
 President Lee Jae Myung instructed the government Tuesday to come up with effective ways to root out illegal acts disguised as religious activity, apparently referring to controversy over a religious sect's alleged collusion with members of the ruling party. Lee gave the instruction during a Cabinet meeting at Cheong Wa Dae without elaborating on the illegal acts. The ruling Democratic Party of Korea has been mired in internal strife after leader Kim Min-seok recently withdrew his accusations that followers of the Shincheonji Church of Jesus, a nonmainstream religious sect, had attempted to sway the party's leadership race in August in favor of his then rival. "I spoke to you a long time ago about the dissolution process for religious cults engaging in crimes or illegal acts disguised as religious activity," the president said. "I think it is time to realistically consider effective measures against this." Lee asked the culture ministry, as the ministry in charge, to report to him on what measures it has considered so far, as well as the current situation with the issue and its future pl
-
-## [POSCO International acquires US gas field for $550 mil.](https://www.koreatimes.co.kr/business/companies/20261124/posco-international-acquires-us-gas-field-for-550-mil?utm_source=rss)
-
-via Korea Times · 2026-11-24
-
-POSCO International, the trading arm of POSCO Holdings, said Tuesday it has completed the acquisition of a U.S. shale gas field for $550 million as part of its growth strategy. The shale gas asset, owned by Chord Energy and located in Pennsylvania's Appalachian region, holds reserves equivalent to 1 million tons of liquefied natural gas (LNG), the company said in a press release. "This acquisition marks a significant milestone in the company's energy business in the United States, in line with POSCO Group's Triple Core growth strategy," POSCO Group Chairman Chang In-hwa said. "It will help enhance profitability by generating synergies with the group's LNG value chain, spanning production to sales." The company expects the shale gas asset to generate an average annual operating profit of 100 billion won ($74 million) through 2040 as it expands production. Under its Triple Core strategy, POSCO Group has been expanding its overseas energy resource investments, while also investing in a steel plant being built in the United States by Hyundai Motor Group and lithium resources in Argentina and
 
 ## [US blacklists Megaspeed cloud company linked to Nvidia scandal](https://www.koreatimes.co.kr/world/20261124/us-blacklists-megaspeed-cloud-company-linked-to-nvidia-scandal?utm_source=rss)
 
@@ -280,12 +274,6 @@ via Korea Times · 2026-11-24
 
 Prime Minister Han Seong-sook said Tuesday the government will look thoroughly into suspected cheating cases in past state-run exams and take every possible measure against offenders. Han made the remark at the start of a meeting of the government's task force on ensuring exam fairness, instructing ministries in charge of respective exams to look into whether cheating using artificial intelligence (AI) and other high-tech means had occurred in past exams. "We should closely examine problems raised in the press, reports of suspected cheating and unusual score patterns, and take all possible measures, including stripping licenses and criminal punishment, if cheating is actually confirmed," Han said. Exam cheating has been one of the hottest topics in Korea in recent weeks, following the confession earlier this month by the top scorer of this year's certified tax accountant exam that he cheated with the help of AI and that he also used the same method on a certified public accountant exam. The revelations sparked massive concerns that AI-assisted cheating could be more widespread than previ
 
-## [Korea's foreign ministry expresses regret to Russia over warplanes' KADIZ entry](https://www.koreatimes.co.kr/southkorea/defense/20261124/koreas-foreign-ministry-expresses-regret-to-russia-over-warplanes-kadiz-entry?utm_source=rss)
-
-via Korea Times · 2026-11-24
-
-The foreign ministry said Tuesday it has conveyed its regret to Russia over the entry of Russian military aircraft into the country's air defense zone and called for measures to prevent a recurrence. About five Russian military aircraft entered the Korea Air Defense Identification Zone (KADIZ) over the East Sea earlier in the day and approached the edge of Korea's territorial airspace near Ulleung Island, according to the Joint Chiefs of Staff (JCS). "We conveyed our regret to Russia through diplomatic channels and called for measures to prevent a recurrence," the ministry said in a press release. The ministry sent the message to the Russian Embassy in Seoul but stopped short of summoning the Russian ambassador, diplomatic sources said. The defense ministry called in Nikolai Marchenko, a military attache from the Russian Embassy in Seoul, to lodge a formal complaint over the incident. The JCS issued an alert for residents of the eastern island as the aircraft appeared close to entering Korean airspace. The Air Force also scrambled fighter jets in response, though no violation of the count
-
 ## [\[FORUM\] Trust built on transparency, predictability key to achieving 'Korea premium'](https://www.koreatimes.co.kr/economy/20261124/forum-trust-built-on-transparency-predictability-key-to-achieving-korea-premium?utm_source=rss)
 
 via Korea Times · 2026-11-24
@@ -322,7 +310,7 @@ via Korea Times · 2026-11-24
 
 Actor Bae Yong-joon, one of the original stars of the Korean wave, and his wife, actor Park Soo-jin, have reportedly returned to Korea with their two children after spending approximately four years in Hawaii. Local media outlet OSEN reported Tuesday that the celebrity couple returned to Korea earlier this year and have since settled in Seoul. Bae and Park, who have largely stepped away from the entertainment industry, married in 2015 and have a son and a daughter. The family reportedly moved to Hawaii in 2022. According to the report, the couple decided to return to Korea after discussing the matter with their children, with Park reportedly particularly keen to move back. The family is reportedly living in an apartment in southern Seoul's Seocho District, while both children attend an international school in Korea. The couple made headlines in June when they were spotted vacationing in Singapore with another celebrity couple, actors Park Shin-hye and Choi Tae-joon. Bae particularly drew attention for his long, gray hair, a departure from the image many fans remember from his acting days.
 
-## [2 foundational chronicles of ancient Korea to go on joint display for 1st time](https://www.koreatimes.co.kr/lifestyle/koreanheritage/20261124/2-foundational-chronicles-of-ancient-korea-to-go-on-joint-display-for-1st-time?utm_source=rss)
+## [2 chronicles of Korea's Three Kingdoms to go on joint display for 1st time](https://www.koreatimes.co.kr/lifestyle/koreanheritage/20261124/2-foundational-chronicles-of-ancient-korea-to-go-on-joint-display-for-1st-time?utm_source=rss)
 
 via Korea Times · 2026-11-24
 
@@ -362,13 +350,13 @@ The defense ministry said Tuesday it has revoked state honors and medals awarded
 
 via Korea Times · 2026-11-24
 
-Participants to the 2026 Korea Times Forum, “Capital market advancement: Giant leap toward era of Korea premium,” applaud during a VIP session at the Korea Chamber of Commerce and Industry, central Seoul, Tuesday. Dignitaries include, from left in the first row, IBK Securities President Choi Kwang-jin; Deutsche Bank Seoul branch Manager Park Hyun-nam; Mirae Asset Securities CEO and Vice Chairman Kim Mi-seob; Korean-German Chamber of Commerce and Industry President and CEO Marie Antonia von Schönburg; Woori Financial Group Chairman Yim Jong-yong; KB Financial Group Chairman Lee Jae-keun; The Korea Times Vice Chairman Seung Ji-soo; Hana Financial Group Chairman Ham Young-joo; Shinhan Financial Group Chairman Jin Ok-dong; NH NongHyup Financial Group Chairman Lee Chan-woo; British Chamber of Commerce in Korea CEO Lucinda Walker; General Insurance Association of Korea Chairman Lee Byung-rhae; and MBK Vice Chairman Kim Kwang-il. Korea Times photo by Shim Hyun-chul
+Participants of the 2026 Korea Times Forum, “Capital market advancement: Giant leap toward era of Korea premium,” applaud during a VIP session at the Korea Chamber of Commerce and Industry in central Seoul, Tuesday. Dignitaries include, from left in the first row, IBK Securities President Choi Kwang-jin, Deutsche Bank Seoul branch Manager Park Hyun-nam, Mirae Asset Securities CEO and Vice Chairman Kim Mi-seob, Korean-German Chamber of Commerce and Industry President and CEO Marie Antonia von Schönburg, Woori Financial Group Chairman Yim Jong-yong, KB Financial Group Chairman Lee Jae-keun, Korea Times Vice Chairman Seung Ji-soo, Hana Financial Group Chairman Ham Young-joo, Shinhan Financial Group Chairman Jin Ok-dong, NH NongHyup Financial Group Chairman Lee Chan-woo, British Chamber of Commerce in Korea CEO Lucinda Walker, General Insurance Association of Korea Chairman Lee Byung-rhae and MBK Vice Chairman Kim Kwang-il. Korea Times photo by Shim Hyun-chul
 
 ## [Seoul shares rebound over 6% on Huang's return](https://www.koreatimes.co.kr/economy/others/20261124/seoul-shares-rebound-over-6-on-huangs-return?utm_source=rss)
 
 via Korea Times · 2026-11-24
 
-Korean shares rebounded over 6 percent Tuesday, recovering from a two-day rout, as chipmakers rallied amid a global wave of optimism sparked by Jensen Huang's return to lead Nvidia. The Korean won was trading higher against the U.S. dollar. The benchmark Korea Composite Stock Price Index (KOSPI) added 297.49 points, or 6.32 percent, to end at 5,006.03 after reaching as high as 5,065.74. As the rally gathered momentum, the Korea Exchange activated a buy-side sidecar at 9:06 a.m., suspending buy orders in program trading for KOSPI-listed shares for five minutes. The measure is triggered when KOSPI 200 futures rise at least 5 percent and remain at that level for one minute or longer. Overnight, technology stocks on Wall Street surged after Nvidia's board decided to reinstate Huang, triggering a relief rally in battered artificial intelligence (AI) stocks. The Dow Jones Industrial Average jumped 3.01 percent, while the tech-heavy Nasdaq composite surged 6.51 percent.
+Korean shares rebounded over 6 percent Tuesday, recovering from a two-day rout, as chipmakers rallied amid a global wave of optimism sparked by Jensen Huang's return to lead Nvidia. The Korean won was trading higher against the U.S. dollar. The benchmark Korea Composite Stock Price Index (KOSPI) added 297.49 points, or 6.32 percent, to end at 5,006.03 after reaching as high as 5,065.74. The KOSPI reclaimed the psychologically important 5,000-point mark for the first time in three sessions. As the rally gathered momentum, the Korea Exchange activated a buy-side sidecar at 9:06 a.m., suspending buy orders in program trading for KOSPI-listed shares for five minutes. It marked the first activation of a buy-side sidecar on the KOSPI since Nov. 10. The measure is triggered when KOSPI 200 futures rise at least 5 percent and remain at that level for one minute or longer. Overnight, technology stocks on Wall Street surged after Nvidia's board decided to reinstate Huang, triggering a relief rally in battered artificial intelligence (AI) stocks. The Dow Jones Industrial Average jumped 3.01 percent, w
 
 ## [EU unveils 22nd Russia sanctions package as war nears sixth year](https://www.koreatimes.co.kr/world/20261124/eu-unveils-22nd-russia-sanctions-package-as-war-nears-sixth-year?utm_source=rss)
 
@@ -382,7 +370,7 @@ via Korea Times · 2026-11-24
 
 Seoul will add more public restrooms, renovate aging facilities and tighten hygiene standards across eight major tourist districts and 10 traditional markets to make navigating the city easier for foreign visitors. The Seoul Metropolitan Government said Tuesday the initiative will focus on helping travelers locate clean, accessible facilities nearby. The eight designated tourist districts are Itaewon; Myeong-dong, Namdaemun, Bukchang-dong, Da-dong and Mugyo-dong; Dongdaemun Fashion Town; Jongno and Cheonggye; Jamsil; Gangnam MICE; Hongdae Culture and Arts; and Goto and Sebitseom. As part of the initiative, the city will expand multilingual restroom information through QR codes installed on street facilities, digital information boards and bus and taxi stops. Visitors will be able to scan codes to view maps showing nearby public restrooms, building on English-language restroom information introduced on Visit Seoul, the city's official tourism platform, in early November. The city also plans to increase the number of publicly accessible restrooms from 148 to 200 by 2027, encouraging partici
 
-## [Banks to issue stablecoins; digital asset platform operators' stake capped at 20%: regulator](https://www.koreatimes.co.kr/business/banking-finance/20261124/banks-to-issue-stablecoins-digital-asset-platform-operators-stake-capped-at-20-regulator?utm_source=rss)
+## [Banks to issue stablecoins, digital asset platform operators' stake capped at 20%: regulator](https://www.koreatimes.co.kr/business/banking-finance/20261124/banks-to-issue-stablecoins-digital-asset-platform-operators-stake-capped-at-20-regulator?utm_source=rss)
 
 via Korea Times · 2026-11-24
 
@@ -405,12 +393,6 @@ Outside a convenience store in Gwangmyeong, Gyeonggi Province, customers flock t
 via Korea Times · 2026-11-24
 
 Korea should give shareholders binding votes on executive compensation policies and lower barriers to shareholder proposals and lawsuits to help achieve a “Korea premium,” Kosdaq Market Committee Chairman Kim Woo-chan said Tuesday. Delivering a keynote speech at the 2026 Korea Times Forum, titled “Capital market advancement: Giant leap toward era of Korea premium,” Kim called for stronger shareholder powers to help translate recent governance reforms and market gains into lasting improvements in the nation’s capital market. Kim, who is also a professor at Korea University Business School, said his remarks reflected his personal views, not those of the Korea Exchange. Kim outlined priorities for further reform: executive compensation, shareholder proposals, derivative lawsuits, shareholder meetings and collaborative investor engagement. “Still in Korea, shareholders have less control,” he said, addressing executive compensation. Kim called for shareholders to receive a binding vote on compensation policies before they are implemented, followed by a nonbinding vote on actual p
-
-## [Seoul Metro labor, management hold final talks ahead of planned strike](https://www.koreatimes.co.kr/southkorea/society/20261124/seoul-metro-labor-management-hold-final-talks-ahead-of-planned-strike?utm_source=rss)
-
-via Korea Times · 2026-11-24
-
-Labor and management at Seoul Metro, which operates subway Lines 1-8 and part of Line 9, began final negotiations Tuesday, a day before unionized workers threatened to launch a general strike. If the negotiations fail, the company's three labor unions plan to launch an indefinite general strike starting with the first trains Wednesday, potentially disrupting the morning commute. Seoul Metro's three labor unions are demanding a 3.5 percent wage increase, the scrapping of planned workforce reductions and additional hiring. Seoul Metro and Union 1 began their fourth round of collective bargaining and wage negotiations at 10 a.m., but the talks were quickly adjourned without an agreement. Union 1 is also demanding that the company scrap a plan to eliminate 2,212 jobs and hire an additional 1,313 on-site safety workers this year to address staffing shortages. Other demands include state funding for public services and a requirement that all field operations be carried out by two-person teams. Seoul Metro also held its separate negotiations with Union 3 and Union 2 at 11 a.m. and 1:30 p.m., res
 
 ## [\[FORUM\] Korea emerges as regional leader in corporate governance reform: ACGA chief](https://www.koreatimes.co.kr/economy/20261124/forum-korea-emerges-as-regional-leader-in-corporate-governance-reform-acga-chief?utm_source=rss)
 
@@ -520,17 +502,607 @@ via Korea Times · 2026-11-24
 
 The Air Force said Tuesday it has deployed an early warning and forecast system to better observe changes in "space weather" in a bid to help enhance stable military operations in space. Space weather refers to changes in the space environment caused by solar activities, such as flares near sunspots. The Air Force held an event to mark the deployment of the early warning and forecast system for space weather in Gyeryong, some 145 kilometers south of Seoul, attended by some 60 personnel, according to the armed service. The Air Force has sought to develop systems to observe and analyze any changes in space weather in advance to better prepare the military for potential disruptions in its operations. For instance, an explosion near the sunspots may interfere with the ionosphere in the Earth's upper atmosphere, thereby disrupting aviation radio communications or causing errors in navigation systems. The newly deployed systems are designed to prevent such disruptions by informing the military of such changes in a timely manner ahead of military operations. Earlier this month, the Air Force depl
 
+## [China investigates Politburo member Chen Jining, Xinhua says](https://www.koreatimes.co.kr/world/20261124/china-investigates-politburo-member-chen-jining-xinhua-says?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+BEIJING — Shanghai's party chief Chen Jining, a member of China's elite Politburo, is under investigation, China's state-run Xinhua news agency said on Tuesday, marking the fourth member of the top leadership body to be probed since 2025. Chen is being investigated for "suspected severe violations of discipline and laws," Xinhua said. The phrase is a common euphemism for corruption. Before the unexpected announcement of the Chen probe, three Politburo members from the 24-member body formed in 2022 — He Weidong, Zhang Youxia and Ma Xingrui — had already been purged. The investigation of Chen marks a further escalation in President Xi Jinping's widening anti-graft campaign, which has thinned the party's senior leadership ranks and depleted the military's top command. Chen, 62, had an unusual rise through China's official ranks. An environmental scientist by training, he earned a doctorate from Imperial College London and rose through China's elite Tsinghua University to become its president. He entered government as China's environmental protection minister before becoming mayor of Be
+
+## [No. of ministries, gov't agencies set to relocate to Sejong reduced to 31](https://www.koreatimes.co.kr/southkorea/politics/20261124/no-of-ministries-govt-agencies-set-to-relocate-to-sejong-reduced-to-31?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+The number of government agencies set to be relocated to the central administrative city of Sejong by 2031 will be reduced to 31, set to affect 5,460 public servants, the interior ministry said Tuesday. The change of plan was included in a notice released by the ministry. Originally, the government had planned to send a total of 44 ministries and agencies to Sejong, about 110 kilometers south of Seoul, starting next year. Of the 31 subject to the relocation, 22 agencies, including the media watchdog Korea Media and Communications Commission, will move their offices to leased-private buildings by next year. Nine agencies that require special facilities, such as the Board of Audit and Inspection and the National Police Agency, will relocate to a newly constructed building by 2031, the ministry added. The estimated cost for the relocation was about 1.65 trillion won ($1.2 billion), according to the notice. Among the 13 agencies excluded from the plan this time were the foreign ministry, the unification ministry and the defense ministry, as they require amendments to existing laws in order to
+
+## [Nvidia board's Huang reversal raises doubts about independence, critics say](https://www.koreatimes.co.kr/world/20261124/nvidia-boards-huang-reversal-raises-doubts-about-independence-critics-say?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+BOSTON/NEW YORK — Nvidia's board undermined its claims of independence by reinstating CEO Jensen Huang before investigations into his conduct concluded, investors and corporate governance experts said on Monday. The decision is striking because the board effectively vouched for Huang's candor and fitness to lead the company before its own investigation was complete, raising doubts about whether directors had sufficient information to make an independent judgment, these people said. Nvidia said on Monday that after talks with senior U.S. officials, its board "is confident that Mr. Huang’s reinstatement poses no national security risk." Huang resigned on Nov. 12 after reports of extramarital affairs, including one involving a suspected Chinese spy. The abrupt U-turn, just days after the board vowed to look elsewhere for a successor, has also drawn U.S. President Donald Trump and his administration into Nvidia's corporate governance. Nvidia shares closed 31.5 percent higher on Monday even as it was becoming clear that the chipmaker's board acted under pressure from Trump and others, and
+
+## [Nat'l Assembly speaker discusses bilateral ties with Japanese PM](https://www.koreatimes.co.kr/foreignaffairs/others/20261124/natl-assembly-speaker-discusses-bilateral-ties-with-japanese-pm?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+National Assembly Speaker Cho Jeong-sik met with Japanese Prime Minister Sanae Takaichi during a visit to Tokyo on Tuesday to discuss ways to expand bilateral cooperation and called for Tokyo's support in reviving a long-stalled parliamentary dialogue forum. It marked the first time that a Korean parliamentary speaker has held talks with a Japanese prime minister since December 2023 when then Speaker Kim Jin-pyo met with then Prime Minister Fumio Kishida in Tokyo. "Thanks to the leadership of the Korean and Japanese leaders, the two countries are enjoying their friendliest relations ever," Cho said, noting that "shuttle diplomacy" between their countries' leaders has been restored. Cho requested Takaichi's support for resuming the "Future Dialogue between the Parliaments of Korea and Japan," a parliamentary dialogue forum last held in 2018. He also expressed hope for greater economic cooperation in advanced industries, supply chains and energy, and asked Takaichi to help ensure Korean companies can operate without difficulties in Japan. In response, Takaichi said the two countries are val
+
+## [Korea, Brazil launch dialogue to boost defense industry ties](https://www.koreatimes.co.kr/southkorea/defense/20261124/korea-brazil-launch-dialogue-to-boost-defense-industry-ties?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Korea and Brazil have held their inaugural dialogue on defense industry cooperation, Seoul's state arms agency said Tuesday, as Seoul looks to expand arms exports into Latin America. The first meeting of the joint defense industry committee took place in Brazil on Monday (local time), led by officials of Korea's Defense Acquisition Program Administration (DAPA) and Brazil's defense ministry, DAPA said in a release. The committee's launch came as a follow-up step after the two countries agreed to bolster defense industry ties at a summit between President Lee Jae Myung and Brazilian President Luiz Inacio Lula da Silva in Seoul in February. Korea views Brazil as a strategic partner in its push to diversify arms exports to the Central and South American regions. Seoul plans to purchase three Brazilian-made Embraer C-390 Millennium tactical airlifters for its Air Force to boost its troop transport and aerial refueling capabilities under the second phase of its large transport aircraft acquisition program. It marks Seoul's first major military procurement from a South American defense firm. The
+
+## ['The Glory' stars Lim Ji-yeon, Lee Do-hyun break up after nearly 4 years of dating](https://www.koreatimes.co.kr/entertainment/20261124/the-glory-stars-lim-ji-yeon-lee-do-hyun-break-up-after-nearly-4-years-of-dating?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Actors Lim Ji-yeon and Lee Do-hyun, who became a real-life couple after appearing in Netflix's global hit series "The Glory," have broken up after three years and seven months of publicly dating. An official from Lee's agency, YH Entertainment, confirmed the breakup to Xportsnews on Tuesday. "It is true that the two recently broke up. They have decided to remain good colleagues and continue to support each other," the official said. Lim and Lee met through "The Glory," the Netflix revenge thriller that became a global sensation, and developed a romantic relationship. They went public with their relationship in April 2023. Lee enlisted for his mandatory military service shortly after the couple confirmed their relationship, with Lim waiting for him during his time in the military. The couple appeared to be going strong as recently as July, when an eyewitness account of the two on a golf date circulated online. A post on an online community described the actors visiting a golf course together, with the writer saying, "They looked very sweet together." Despite having maintained their relations
+
+## [Jensen Huang returns to Nvidia, vows to be 'a better CEO'](https://www.koreatimes.co.kr/world/20261124/jensen-huang-returns-to-nvidia-vows-to-be-a-better-ceo?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Jensen Huang made a triumphant return to Nvidia's Santa Clara, California, headquarters on Monday, less than two weeks after he resigned as CEO following revelations of extramarital affairs, including one with an alleged spy for China. "I'd be a better CEO the second time around," the 63-year-old, clad in his trademark black leather jacket, told cheering employees who packed an atrium and crowded the balconies above. US President Donald Trump — instrumental in Huang's comeback — heaped praise and fellow tech icon Elon Musk hailed his return. Nvidia shares surged 31.5 percent, propelling a broader Wall Street rally. Huang's swift reinstatement at the helm of the chipmaker he co-founded more than three decades ago is the story of a stunning comeback, one that underscores his sway over Washington, markets, the AI industry and geopolitics. "Jensen is bigger than Elvis for tech investors," said Eric Schiffer, chairman of Los Angeles-based private equity firm Patriarch Organization. A linchpin of the AI boom, Huang's role extends beyond that of Nvidia's CEO. Cultivating relationships with l
+
+## [\[FORUM\] Chairs of 5 major financial groups make rare joint appearance](https://www.koreatimes.co.kr/economy/20261124/forum-chairs-of-5-major-financial-groups-make-rare-joint-appearance?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+The heads of Korea’s five major financial groups made a rare joint appearance Tuesday at the 2026 Korea Times Forum. They were Lee Jae-keun of KB Financial Group, Jin Ok-dong of Shinhan Financial Group, Ham Young-joo of Hana Financial Group, Yim Jong-yong of Woori Financial Group and Lee Chan-woo of NH NongHyup Financial Group. At a VIP reception before the official opening of the forum, the five chairs met with ambassadors, financial experts, investors and business leaders from Korea and abroad, as well as Korea Times Chairman Seung Myung-ho, Vice Chairman Seung Ji-soo and President-Publisher Oh Young-jin. Under the theme “Capital market advancement: Giant leap toward era of Korea premium,” the forum focused on market reforms and ways to increase shareholder returns to address the longstanding undervaluation of Korean stocks. KB Chairman Lee attended the forum a day after his inauguration ceremony. The former Kookmin Bank president was officially elected at an extraordinary shareholders’ meeting last Friday, with 97.69 percent of the shares represented at the meeting voting in
+
+## [Lee's new security team faces strains with US, tensions with North Korea](https://www.koreatimes.co.kr/southkorea/politics/20261124/lees-new-security-team-faces-strains-with-us-tensions-with-north-korea?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+President Lee Jae Myung has appointed a new foreign policy and security team as Seoul tries to get stalled negotiations with Washington on nuclear-powered submarines back on track, while managing the risk of an accidental clash along the increasingly fortified border with North Korea. On Monday, Lee nominated Lim Woong-soon, currently deputy national security adviser, as foreign minister; former presidential secretary for political affairs Hong Ihk-pyo as unification minister; and former Justice Minister Kang Kum-sil as director of the National Intelligence Service. National Security Adviser Wi Sung-lac remains in his post. The appointments come amid friction with Washington over intelligence sharing. The presidential office said the government would continue to strengthen the U.S. alliance and pursue peace on the Korean Peninsula. Submarine talks stalled South Korea and the U.S. held their first meeting in June on Seoul’s plan to acquire nuclear-powered submarines and its bid for broader authority to use nuclear material. Neither side has announced a date for a follow-up meeting. South
+
+## [SKT's AI Care senior aid app wins trade ministry honor at Michelin Star Awards](https://www.koreatimes.co.kr/business/companies/20261124/skts-ai-care-senior-aid-app-wins-trade-ministry-honor-at-michelin-star-awards?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+SK Telecom’s AI Care program, an artificial intelligence (AI)-powered elderly care service, has won the Minister of Trade, Industry and Energy Award as one of 10 honorees at the 2026 Michelin Star Awards, the mobile carrier said Tuesday. The awards combine corporate social responsibility initiatives with the format of the Michelin Guide, allowing members of the public to participate in identifying outstanding social contribution programs. Organized by the Federation of Korean Industries and supported by the Ministry of Trade, Industry and Energy and the Ministry of Health and Welfare, the awards were held for the first time this year. AI Care advanced from an initial pool of 113 programs to 20 finalists following an expert review, securing a place among the final 10 through public voting, held from Oct. 26 to Nov. 8, and a committee evaluation. Launched in April 2019, the service uses AI speakers and phone calls to support older adults living alone and middle-aged people experiencing social isolation. Its features include regular welfare check-ins, medication reminders, companionship co
+
+## [MBC's beloved book show to return after 25 years](https://www.koreatimes.co.kr/lifestyle/books/20261124/mbcs-beloved-book-show-to-return-after-25-years?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+A beloved television show in Korea that helped turn reading into a nationwide pursuit is returning after 25 years, hoping to reconnect with young audiences in an age of artificial intelligence (AI) and digital distraction. MBC’s “Let’s Read Books Returns,” a three-part revival show of its 2001 hit reading campaign reality show, premieres Wednesday at 9 p.m. Original host Kim Yong-man will join comedian Seo Kyung-seok and education YouTuber Mimiminu. Produced in cooperation with the Gyeonggi Provincial Office of Education, the reboot will visit elementary, middle and high schools to explore students’ reading habits and concerns. The hosts will introduce selected books and lead quizzes involving students and teachers, according to MBC. The original show aired between 2001 and 2003, with hosts meeting readers around the country. During the two years, the program introduced 25 books which became bestsellers. The show also helped in launching the Miracle Library project in 2003, bringing a children’s library to Suncheon, South Jeolla Province. The show’s popularity drew viewershi
+
+## [\[FORUM\] AI rout puts Korea's corporate value-up drive back in spotlight](https://www.koreatimes.co.kr/economy/20261124/forum-ai-rout-puts-koreas-corporate-value-up-drive-back-in-spotlight?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Korea's stock market rally earlier this year, buoyed by the artificial intelligence (AI) supercycle, initially drew investors' eyes to the broader market’s growth potential. But as the market enters a correction, stakeholders are looking more closely at companies outside the AI boom to assess whether they can generate sustainable returns and close the country's longstanding valuation gap. "The AI curtain has been lifted. Now, the low-PBR \[price-to-book ratio\] companies are much more visible and shareholders are starting to increase their voices," said Kim Seo-ha, managing director and partner at consulting firm BCG Korea. Companies outside the AI and semiconductor sectors are consequently facing greater scrutiny over their valuations, with pressure from shareholders and the government to improve corporate value likely to intensify. "The market should reward companies that make genuine efforts \[to improve their corporate value\] and therefore can highlight the rest of the market, instead of just riding the AI cycle," said Peter S. Kim, global investment strategist of KB Financial Group.
+
+## [Korean won climbs against US dollar on foreign inflows](https://www.koreatimes.co.kr/economy/others/20261124/korean-won-climbs-against-us-dollar-on-foreign-inflows?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+The Korean won strengthened against the U.S. dollar Tuesday, as foreign investors turned net buyers of local stocks. The won was quoted at 1,342.4 won per dollar at 3:30 p.m., up 3.5 won from the close of the previous stock trading session. At one point in morning trading, the won rose to a high of 1,348.7 per dollar, but pared some gains. The won's rise came after the Korea Composite Stock Price Index (KOSPI) jumped, following strong gains on Wall Street after the reinstatement of Jensen Huang as chief executive of Nvidia. Foreign investors purchased a net 725 billion won ($543 million) worth of local shares during the latest regular stock trading session, with the KOSPI surging 6.32 percent to close at 5,006.03.
+
+## [Korea to focus on easing economic polarization in 2027 policy plan](https://www.koreatimes.co.kr/economy/policy/20261124/korea-to-focus-on-easing-economic-polarization-in-2027-policy-plan?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+The finance ministry said Tuesday it plans to place greater emphasis on easing economic polarization in next year's economic policy while fostering new growth drivers to sustain economic momentum. The Ministry of Finance and Economy reported key outlines of its 2027 economic policy plan to President Lee Jae Myung at a Cabinet meeting. The 2027 economic policy plan is scheduled to be announced next month, with a focus on realizing "growth for all" by ensuring that every citizen can equally enjoy the opportunities and benefits of economic growth. The ministry said the Korean economy has shown strong signs of growth, driven by exports and investment amid a global semiconductor upcycle. The government announced its 3 percent growth outlook in July, while other major institutions have since revised up their forecasts to around 3.5-3.9 percent However, the benefits of growth have yet to spread to the broader economy, as some people face mounting pressure from higher consumer prices, rising interest rates and declining youth employment. The government forecasts that the upward trend in exports an
+
+## [Rival parties clash over Korea-US alliance following reshuffle of top security officials](https://www.koreatimes.co.kr/southkorea/politics/20261124/rival-parties-clash-over-korea-us-alliance-following-reshuffle-of-top-security-officials?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Lawmakers of rival parties clashed Tuesday over the state of Korea's alliance with the United States, with the main opposition People Power Party (PPP) arguing that bilateral ties have deteriorated under the current administration. PPP Rep. Kim Dai-sik, the party's ranking member of the parliamentary foreign affairs and unification committee, said during a televised policy debate that the alliance has been experiencing "unprecedented strains" since the Lee Jae Myung administration took office. Kim's remarks came a day after President Lee carried out a sweeping reshuffle of the Cabinet, replacing both the foreign and unification ministers, as well as the chief of the National Intelligence Service. "This is an admission that the Korea-U.S. ties are not being managed well and that (Korea) is facing diplomatic challenges," Kim argued. He also claimed Seoul had not been briefed on the outcome of an unprecedented trilateral summit among the leaders of the U.S., China and Russia on the sidelines of last week's Asia-Pacific Economic Cooperation (APEC) summit, calling it a "significant rift" in t
+
+## [Final talks between Seoul Metro labor, management in deadlock ahead of planned strike](https://www.koreatimes.co.kr/southkorea/society/20261124/final-talks-between-seoul-metro-labor-management-in-deadlock-ahead-of-planned-strike?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Labor and management at Seoul Metro, which operates subway Lines 1-8 and part of Line 9, remained at odds in their final negotiations Tuesday, a day before unionized workers threatened to launch a strike. If the negotiations fail, the company's three labor unions plan to launch an indefinite general strike starting with the first trains Wednesday, potentially disrupting the morning commute. Seoul Metro's three labor unions are demanding a 3.5 percent wage increase, the scrapping of planned workforce reductions and additional hiring. Seoul Metro and Union 1 began their fourth round of collective bargaining and wage negotiations at 10 a.m., but the talks were quickly adjourned without an agreement. Union 1 is also demanding that the company scrap a plan to eliminate 2,212 jobs and hire an additional 1,313 on-site safety workers this year to address staffing shortages. Other demands include state funding for public services and a requirement that all field operations be carried out by two-person teams. Seoul Metro also held separate negotiations with Union 3 at 11 a.m. and Union 2 at 1:30 p.
+
+## [POSCO Group secures 1st US shale gas assets in $550 mil. deal](https://www.koreatimes.co.kr/business/companies/20261124/posco-group-secures-1st-us-shale-gas-assets-in-550-mil-deal?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+POSCO International has completed its $550 million acquisition of a shale gas field in Pennsylvania, marking the company's entry into U.S. natural gas production and its first overseas energy asset acquisition since POSCO Group announced its Triple Core growth strategy in July. The group's trading and energy subsidiary said Tuesday that it had acquired all of U.S. energy company Chord Energy's stake in the Appalachian shale gas assets in Pennsylvania. The acquisition comes about two months after the companies signed a definitive agreement on Sept. 14. The company held a ceremony marking the completion of the acquisition Monday (local time) in Houston, Texas, with POSCO Group Chairman Chang In-hwa, POSCO International CEO Lee Kye-in, Chord Energy CEO Michael Lou and other senior executives from both companies in attendance. “The acquisition marks a milestone in securing overseas energy resources under the group's Triple Core strategy and an important step in expanding its energy business in North America,” Chang said. “We expect to further strengthen profitability by creating synerg
+
+## [RESULTS: Agricultural and Biosystems Engineers Licensure Examination](https://www.rappler.com/bulletin-board/examination-results/agricultural-biosystems-engineers-licensure-november-2026/)
+
+via Rappler · 2026-11-24
+
+PRESS RELEASE: The Professional Regulation Commission announces that 2,377 out of 3,440 passed the November 2026 Customs Brokers Licensure Examination
+
+## [LIST: Winners, 2026 Palanca Awards](https://www.rappler.com/people/artists/list-winners-palanca-awards-2026/)
+
+via Rappler · 2026-11-24
+
+Playwright Dustin Celestino is inducted into the Palanca Hall of Fame
+
+## [Expanded voucher program to help sustain private schools — COCOPEA](https://www.rappler.com/philippines/expanded-voucher-program-sustain-private-schools-cocopea/)
+
+via Rappler · 2026-11-24
+
+‘We really need to sustain our existence.... And this RA 12327 is a good start,’ says COCOPEA chairperson Irineo Alvaro Jr., as private schools also feel the effects of a sluggish economy
+
+## [Nearly 19.6 million eligible to vote in Taiwan's local elections](https://focustaiwan.tw/politics/202611240024)
+
+via CNA · 2026-11-24
+
+Taipei, Nov. 24 (CNA) Nearly 19.6 million people are eligible to vote in Taiwan's "nine-in-one" local elections on Saturday, while more than 20 million can cast ballots in a national referendum, the Central Election Commission (CEC) said on Tuesday.
+
+## [Playwright, filmmaker Dustin Celestino inducted into Palanca Hall of Fame](https://www.rappler.com/people/newsmakers/dustin-celestino-palanca-awards-hall-of-fame-2026/)
+
+via Rappler · 2026-11-24
+
+Dustin Celestino enters the Palanca Awards’ prestigious roster after winning first prize in the full-length play category five times
+
+## [Japan conducts first Ebola response drill amid outbreak in Congo](https://www.japantimes.co.jp/news/2026/11/24/japan/japan-first-ebola-response-drill/)
+
+via Japan Times · 2026-11-24
+
+The government has held an annual infectious disease response drill since 2023, and this year's drill was the first to address the lethal disease.
+
+## [Rappler Talk: UN Special Envoy Jean Todt on making roads safer](https://www.rappler.com/philippines/rappler-talk/un-special-envoy-jean-todt-making-roads-safer/)
+
+via Rappler · 2026-11-24
+
+In this Rappler Talk episode, multimedia reporter Patrick Cruz sits down with former Ferrari CEO and UN Special Envoy for Road Safety Jean Todt to discuss the urgent global road safety crisis.
+
+## [Solar power helps grow food and restore coastlines in Samatau village](https://talamua.com/?p=63205)
+
+via Talamua · 2026-11-24
+
+“A first-of-its-kind community nursery uses solar-powered irrigation to raise seedlings for family gardens, schools, and coastal restoration” Apia, SAMOA – 24 November 2026 – The sun that helps seedlings grow in Samatau now powers the pump that waters them. The village today opened a solar-powered community nursery that puts renewable energy to work for local \[…\]
+
+The post [Solar power helps grow food and restore coastlines in Samatau village](https://talamua.com/?p=63205) appeared first on [Talamua Online](https://talamua.com).
+
+## [Here’s what to expect at the opening of Rodrigo Duterte’s ICC trial](https://www.rappler.com/philippines/expectations-opening-rodrigo-duterte-international-criminal-court-trial/)
+
+via Rappler · 2026-11-24
+
+More than 500 victims of extrajudicial killings in Duterte's drug war are authorized to participate in the trial through their team of legal representatives
+
+## [Taiwan employers demand migrant labor reforms, minister's resignation](https://focustaiwan.tw/society/202611240023)
+
+via CNA · 2026-11-24
+
+Taipei, Nov. 24 (CNA) A group representing migrant worker employers rallied outside the Executive Yuan in Taipei on Tuesday, demanding reforms to Taiwan's migrant labor policies and calling for Labor Minister Hung Sun-han (洪申翰) to resign.
+
+## [SMOGA celebrates 70 years with new projects for St Marys College](https://talamua.com/?p=63196)
+
+via Talamua · 2026-11-24
+
+By Jeannie Penehuro/ Apia, SAMOA – 23 November 2026 – Saint Mary’s Old Girls Association (SMOGA) began its weeklong 70th-anniversary programme on Monday with a parade down Beach Road and a devotional service in front of the Government Building. The celebration marks a milestone for SMOGA that has been in the forefront of assisting the \[…\]
+
+The post [SMOGA celebrates 70 years with new projects for St Marys College](https://talamua.com/?p=63196) appeared first on [Talamua Online](https://talamua.com).
+
+## [The Green Report: Worst COP ever? What went down at 2026 UN climate talks](https://www.rappler.com/environment/the-green-report-what-went-down-2026-un-climate-talks/)
+
+via Rappler · 2026-11-24
+
+Catch this episode on Wednesday, November 25, at 5 pm
+
+## [Samoa joins six new countries in global effort to protect Coral Reefs at COP31](https://talamua.com/?p=63189)
+
+via Talamua · 2026-11-24
+
+Apia, SAMOA – 24 November 2026 – COP31 may have ended in Turkey without a final agreement, exposing deep divisions over fossil fuels and climate finance. But while global negotiations have stalled, some countries including Samoa are making it clear that they are not willing to wait for consensus to take action. Samoa joined Colombia, \[…\]
+
+The post [Samoa joins six new countries in global effort to protect Coral Reefs at COP31](https://talamua.com/?p=63189) appeared first on [Talamua Online](https://talamua.com).
+
+## [Liza Marcos in the House: Bojie Dy accompanies First Lady in Batasan visit](https://www.rappler.com/newsbreak/inside-track/liza-marcos-visits-house-representatives-speaker-bojie-dy/)
+
+via Rappler · 2026-11-24
+
+The visit, related to Children's Month, comes amid rumors that Speaker Bojie Dy is being strongly considered to be a replacement for Vice President Duterte, should the impeachment court remove her from office
+
+## [Industrial production up 32nd straight month on strong AI demand](https://focustaiwan.tw/business/202611240022)
+
+via CNA · 2026-11-24
+
+Taipei, Nov. 24 (CNA) Taiwan's industrial production continued to receive a boost from robust global demand for artificial intelligence (AI) applications, rising almost 30 percent from a year earlier in October, marking the 32nd consecutive month of year-on-year growth, the Ministry of Economic Affairs (MOEA) said Tuesday.
+
+## [Senate passes 2027 OP budget in two minutes](https://www.rappler.com/philippines/senate-passes-2027-office-president-budget-two-minutes/)
+
+via Rappler · 2026-11-24
+
+The new recommended appropriation for the Office of the President is P10.83 billion
+
+## [Who was left in the dark on Trump’s ‘magnificent’ PH-US deal?](https://www.rappler.com/newsbreak/inside-track/trump-philippines-us-trade-deal-dfa/)
+
+via Rappler · 2026-11-24
+
+Senator Erwin Tulfo, sponsor of the DFA budget, says the agency was 'taken aback' by Trump's pronouncements
+
+## [Japan to amend law regarding the investigation of self-driving car accidents](https://www.japantimes.co.jp/news/2026/11/24/japan/japan-law-self-driving-amend/)
+
+via Japan Times · 2026-11-24
+
+The move comes as the country's first driverless taxi services are planned to be launched in 2027.
+
+## [Japan proposes bus conversion for part of loss-making train line](https://www.japantimes.co.jp/news/2026/11/24/japan/loss-making-train-line/)
+
+via Japan Times · 2026-11-24
+
+The draft outline estimated that bus services would cut operating costs by around ¥530 million annually.
+
+## [Hawaii nonprofits pressed to meet growing demand](https://www.hawaiitribune-herald.com/2026/11/24/hawaii-news/hawaii-nonprofits-pressed-to-meet-growing-demand/)
+
+via Hawaii Tribune Harold · 2026-11-24
+
+Hawaii’s nonprofit sector is facing growing demand for services while many organizations struggle with restricted funding, limited cash reserves and difficulty hiring and retaining workers, according to a new report from the Hawaii Alliance of Nonprofit Organizations.
+
+The post [Hawaii nonprofits pressed to meet growing demand](https://www.hawaiitribune-herald.com/2026/11/24/hawaii-news/hawaii-nonprofits-pressed-to-meet-growing-demand/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [Kaʻu teacher performs experiments on zero-gravity parabolic flight in France](https://www.hawaiitribune-herald.com/2026/11/24/hawaii-news/ka%ca%bbu-teacher-performs-experiments-on-zero-gravity-parabolic-flight-in-france/)
+
+via Hawaii Tribune Harold · 2026-11-24
+
+A Ka‘u teacher on Friday conducted scientific research experiments in zero-gravity aboard AirZeroG, an Airbus A310 parabolic aircraft, in Bordeaux, France, as part of the Space for Teachers Embedded Teacher Program.
+
+The post [Kaʻu teacher performs experiments on zero-gravity parabolic flight in France](https://www.hawaiitribune-herald.com/2026/11/24/hawaii-news/ka%ca%bbu-teacher-performs-experiments-on-zero-gravity-parabolic-flight-in-france/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [Feedback sought regarding proposed changes to DLNR’s coastal regulations](https://www.hawaiitribune-herald.com/2026/11/24/hawaii-news/feedback-sought-regarding-proposed-changes-to-dlnrs-coastal-regulations/)
+
+via Hawaii Tribune Harold · 2026-11-24
+
+The Department of Land and Natural Resources for the first time in a decade is proposing changes to its administrative rules for the state conservation district, which encompass about 2 million acres of land across the islands and approximately three miles out to sea from the shoreline.
+
+The post [Feedback sought regarding proposed changes to DLNR’s coastal regulations](https://www.hawaiitribune-herald.com/2026/11/24/hawaii-news/feedback-sought-regarding-proposed-changes-to-dlnrs-coastal-regulations/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [Jensen Huang returns to Nvidia after President Trump intervenes](https://www.hawaiitribune-herald.com/2026/11/24/nation-world-news/jensen-huang-returns-to-nvidia-after-president-trump-intervenes/)
+
+via Hawaii Tribune Harold · 2026-11-24
+
+Nvidia said Monday that Jensen Huang was returning to the chipmaking giant he led to the top of the artificial intelligence boom, following a campaign led by President Donald Trump that urged the company’s board of directors to bring him back.
+
+The post [Jensen Huang returns to Nvidia after President Trump intervenes](https://www.hawaiitribune-herald.com/2026/11/24/nation-world-news/jensen-huang-returns-to-nvidia-after-president-trump-intervenes/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [Taiwan extends border controls on DR Congo over Ebola outbreak](https://focustaiwan.tw/society/202611240021)
+
+via CNA · 2026-11-24
+
+Taipei, Nov. 24 (CNA) Taiwan's Centers for Disease Control (CDC) said on Tuesday it will extend temporary border control measures targeting the Democratic Republic of the Congo (DR Congo) for another 90 days, until Feb. 26, 2027, amid an ongoing Ebola outbreak.
+
+## [Mercury is a mystery. An international mission aims to solve it.](https://www.hawaiitribune-herald.com/2026/11/24/nation-world-news/mercury-is-a-mystery-an-international-mission-aims-to-solve-it/)
+
+via Hawaii Tribune Harold · 2026-11-24
+
+It’s not easy to visit Mercury, the closest planet to the sun. Any spacecraft flying toward our star is pulled along at extreme speeds by gravity. That makes it difficult to slow down enough to circle the little world. Orbiting Mercury requires more energy than flying all the way out to Pluto.
+
+The post [Mercury is a mystery. An international mission aims to solve it.](https://www.hawaiitribune-herald.com/2026/11/24/nation-world-news/mercury-is-a-mystery-an-international-mission-aims-to-solve-it/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [Aviation groups urge at least $30 billion boost for FAA modernization](https://www.hawaiitribune-herald.com/2026/11/24/nation-world-news/aviation-groups-urge-at-least-30-billion-boost-for-faa-modernization/)
+
+via Hawaii Tribune Harold · 2026-11-24
+
+WASHINGTON — A coalition of more than 60 aviation groups called on Congress to quickly provide at least $30 billion for air traffic control modernization after a November 13 nationwide ground stop blamed on a single router resulted in more than 18,000 canceled flights and disrupted more than 1 million passengers.
+
+The post [Aviation groups urge at least $30 billion boost for FAA modernization](https://www.hawaiitribune-herald.com/2026/11/24/nation-world-news/aviation-groups-urge-at-least-30-billion-boost-for-faa-modernization/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [Virginia, Oregon sue Musk’s SpaceX over Grok AI’s creation of child sexual abuse images](https://www.hawaiitribune-herald.com/2026/11/24/nation-world-news/virginia-oregon-sue-musks-spacex-over-grok-ais-creation-of-child-sexual-abuse-images/)
+
+via Hawaii Tribune Harold · 2026-11-24
+
+Virginia and Oregon sued Elon Musk’s SpaceX Super Intelligence Corp on Monday, alleging the company profited from a feature in its AI model Grok that produces child sexual abuse material and other nonconsensual sexual images from photographs while failing to put safeguards in place to stop it.
+
+The post [Virginia, Oregon sue Musk’s SpaceX over Grok AI’s creation of child sexual abuse images](https://www.hawaiitribune-herald.com/2026/11/24/nation-world-news/virginia-oregon-sue-musks-spacex-over-grok-ais-creation-of-child-sexual-abuse-images/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [In Iowa, chaos and confusion over planned ammunition explosion](https://www.hawaiitribune-herald.com/2026/11/24/nation-world-news/in-iowa-chaos-and-confusion-over-planned-ammunition-explosion/)
+
+via Hawaii Tribune Harold · 2026-11-24
+
+MIDDLETOWN, Iowa — First, the Army planned to detonate a stockpile of dangerously unstable explosives at an Iowa facility Friday, giving much of the public just a few days’ notice. After an uproar and a court challenge, officials pushed the controlled blast to Monday, then to Tuesday and again to Wednesday, the day before Thanksgiving.
+
+The post [In Iowa, chaos and confusion over planned ammunition explosion](https://www.hawaiitribune-herald.com/2026/11/24/nation-world-news/in-iowa-chaos-and-confusion-over-planned-ammunition-explosion/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [After decades, Texas Democrats have political capital. This is how they plan to spend it](https://www.hawaiitribune-herald.com/2026/11/24/nation-world-news/after-decades-texas-democrats-have-political-capital-this-is-how-they-plan-to-spend-it/)
+
+via Hawaii Tribune Harold · 2026-11-24
+
+For Democrats, winning Texas took three decades. Now they want to move fast on their campaign promises, and are daring Republicans to stand in their way.
+
+The post [After decades, Texas Democrats have political capital. This is how they plan to spend it](https://www.hawaiitribune-herald.com/2026/11/24/nation-world-news/after-decades-texas-democrats-have-political-capital-this-is-how-they-plan-to-spend-it/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [News in brief for November 24](https://www.hawaiitribune-herald.com/2026/11/24/nation-world-news/news-in-brief-for-november-24-2/)
+
+via Hawaii Tribune Harold · 2026-11-24
+
+NIH will move final group of retired research chimps to sanctuary
+
+The post [News in brief for November 24](https://www.hawaiitribune-herald.com/2026/11/24/nation-world-news/news-in-brief-for-november-24-2/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [As tides near record levels in California, a storm threatens to make things worse](https://www.hawaiitribune-herald.com/2026/11/24/nation-world-news/as-tides-near-record-levels-in-california-a-storm-threatens-to-make-things-worse/)
+
+via Hawaii Tribune Harold · 2026-11-24
+
+A sprawling storm system is expected to bring strong winds, heavy rain and large waves to the West Coast this week. Meteorologists and emergency officials were bracing for the possibility that the storm could coincide with exceptionally high tides that were already forecast to lead to flooding during a busy period of holiday travel.
+
+The post [As tides near record levels in California, a storm threatens to make things worse](https://www.hawaiitribune-herald.com/2026/11/24/nation-world-news/as-tides-near-record-levels-in-california-a-storm-threatens-to-make-things-worse/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [Ukraine sinks Russian warship in Libya as conflict spreads beyond Europe](https://www.hawaiitribune-herald.com/2026/11/24/nation-world-news/ukraine-sinks-russian-warship-in-libya-as-conflict-spreads-beyond-europe/)
+
+via Hawaii Tribune Harold · 2026-11-24
+
+Ukraine sank a Russian naval corvette in a Libyan port using maritime drones on Sunday, the day after a drone strike on a Russian military-linked cargo ship in the Gulf of Finland, President Volodymyr Zelenskyy said.
+
+The post [Ukraine sinks Russian warship in Libya as conflict spreads beyond Europe](https://www.hawaiitribune-herald.com/2026/11/24/nation-world-news/ukraine-sinks-russian-warship-in-libya-as-conflict-spreads-beyond-europe/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [US discussing military training for Syrian forces](https://www.hawaiitribune-herald.com/2026/11/24/nation-world-news/us-discussing-military-training-for-syrian-forces/)
+
+via Hawaii Tribune Harold · 2026-11-24
+
+DAMASCUS — The U.S. is discussing plans to train Syrian soldiers in demining, five people familiar with the proposal said, in what would be the first U.S. training mission with the Syrian military since former rebel fighters took power in Damascus in 2024.
+
+The post [US discussing military training for Syrian forces](https://www.hawaiitribune-herald.com/2026/11/24/nation-world-news/us-discussing-military-training-for-syrian-forces/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [These no-knead dinner rolls will win Thanksgiving](https://www.hawaiitribune-herald.com/2026/11/24/features/these-no-knead-dinner-rolls-will-win-thanksgiving/)
+
+via Hawaii Tribune Harold · 2026-11-24
+
+There’s really only one thing you need to bake for Thanksgiving to win the holiday: homemade yeast rolls. Slide them into the oven as everything else is being set on the table, and they’ll be hot and ready right when it’s time to eat. Their buttery scent will mingle with all the other aromas to form a dancing cartoon cloud of good smells, and everyone will marvel: You made bread from scratch!
+
+The post [These no-knead dinner rolls will win Thanksgiving](https://www.hawaiitribune-herald.com/2026/11/24/features/these-no-knead-dinner-rolls-will-win-thanksgiving/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [Let’s Talk Food: Thanksgiving is this Thursday](https://www.hawaiitribune-herald.com/2026/11/24/features/lets-talk-food-thanksgiving-is-this-thursday-4/)
+
+via Hawaii Tribune Harold · 2026-11-24
+
+Thanksgiving is my favorite holiday! I love roast turkey, with all its fixings! Yes, it is a high carbohydrate meal, with the stuffing, usually made with bread, mashed potatoes, rolls, sweet potatoes, gravy and ending with pumpkin pie, but it is once a year and worth it!
+
+The post [Let’s Talk Food: Thanksgiving is this Thursday](https://www.hawaiitribune-herald.com/2026/11/24/features/lets-talk-food-thanksgiving-is-this-thursday-4/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [Rengulbai Antonio Ngirturong takes seat on national Council of Chiefs](https://islandtimes.org/rengulbai-antonio-ngirturong-takes-seat-on-national-council-of-chiefs/)
+
+via Island Times · 2026-11-24
+
+![](https://i0.wp.com/islandtimes.org/wp-content/uploads/2026/11/Rengulbai-Antonio-Ngirturong-Aimeliik-High-Chief-scaled.jpg?fit=1024%2C978&ssl=1)
+
+By: L.N. Reklai KOROR, Palau — Aimeliik’s high chief, Rengulbai Antonio Ngirturong, officially took his seat on the national Council of Chiefs on Nov. 20, filling a position that had long remained vacant. The national Council of Chiefs welcomed Ngirturong as a member following a Nov. 17 letter to the Ngarkeai, Aimeliik’s traditional council of \[…\]
+
+The post [Rengulbai Antonio Ngirturong takes seat on national Council of Chiefs](https://islandtimes.org/rengulbai-antonio-ngirturong-takes-seat-on-national-council-of-chiefs/) appeared first on [Island Times News](https://islandtimes.org).
+
+## [Palau votes against four UN resolutions on Palestine](https://islandtimes.org/palau-votes-against-four-un-resolutions-on-palestine/)
+
+via Island Times · 2026-11-24
+
+By: Eoghan Olkeriil Ngirudelsang KOROR, Palau (Nov. 23, 2026) – Palau voted against four United Nations resolutions about Palestine during a meeting of the UN General Assembly’s Fourth Committee held last week Wednesday, November 18, in New York. While Palau’s official position to the international community regarding the humanitarian crisis in the Gaza Strip has \[…\]
+
+The post [Palau votes against four UN resolutions on Palestine](https://islandtimes.org/palau-votes-against-four-un-resolutions-on-palestine/) appeared first on [Island Times News](https://islandtimes.org).
+
+## [Court sentences former off-duty officer to jail over Koror Jail assault](https://islandtimes.org/court-sentences-former-off-duty-officer-to-jail-over-koror-jail-assault/)
+
+via Island Times · 2026-11-24
+
+By: L.N. Reklai KOROR, Palau (Nov. 23, 2026) — Former off-duty police officer Marsei Orrukem has been sentenced to five days in jail after pleading guilty to assaulting an inmate inside the Koror Jail facility in November 2025. The Palau Supreme Court found Orrukem guilty of third-degree assault in a judgment entered Nov. 20, 2026, \[…\]
+
+The post [Court sentences former off-duty officer to jail over Koror Jail assault](https://islandtimes.org/court-sentences-former-off-duty-officer-to-jail-over-koror-jail-assault/) appeared first on [Island Times News](https://islandtimes.org).
+
+## [Ocean protection needs fossil-fuel transition, Palau minister says](https://islandtimes.org/ocean-protection-needs-fossil-fuel-transition-palau-minister-says/)
+
+via Island Times · 2026-11-24
+
+![](https://i0.wp.com/islandtimes.org/wp-content/uploads/2026/11/Ocean-Protection-Needs.jpg?fit=1024%2C805&ssl=1)
+
+By Elilai Rengiil ANTALYA, Turkiye – Pacific ocean protection efforts must be matched by a transition away from fossil fuels, Palau Environment Minister Steven Victor said at COP31, warning that the region cannot stop global warming impacts. Speaking at the Unlocking Blue Pacific Prosperity (UBPP) side event at the Australia Pavilion on November 17, Victor \[…\]
+
+The post [Ocean protection needs fossil-fuel transition, Palau minister says](https://islandtimes.org/ocean-protection-needs-fossil-fuel-transition-palau-minister-says/) appeared first on [Island Times News](https://islandtimes.org).
+
+## [Palau prices fall 1.1% as food and transport costs ease](https://islandtimes.org/palau-prices-fall-1-1-as-food-and-transport-costs-ease/)
+
+via Island Times · 2026-11-24
+
+By: L.N. Reklai KOROR, Palau (Nov. 23, 2026) – Consumer prices in Palau fell 1.1% in the third quarter of 2026 as food and transport costs eased. Even with the drop, households paid 1.8% more for a typical mix of goods and services than they did a year earlier. Overall prices were flat in the \[…\]
+
+The post [Palau prices fall 1.1% as food and transport costs ease](https://islandtimes.org/palau-prices-fall-1-1-as-food-and-transport-costs-ease/) appeared first on [Island Times News](https://islandtimes.org).
+
+## [Palau observes 16 Days of Activism Against Gender-Based Violence](https://islandtimes.org/palau-observes-16-days-of-activism-against-gender-based-violence/)
+
+via Island Times · 2026-11-24
+
+![](https://i0.wp.com/islandtimes.org/wp-content/uploads/2026/11/20261117_103412-scaled.jpg?fit=1024%2C840&ssl=1)
+
+By: Laurel Marewibuel KOROR, Palau (Nov. 23, 2026) — President Surangel S. Whipps Jr. has proclaimed Nov. 25 through Dec. 10 as the 16 Days of Activism Against Gender-Based Violence in Palau, calling on government, communities, organizations and individuals to work together to prevent and eliminate violence. Presidential Proclamation No. 26-442 aligns Palau with an \[…\]
+
+The post [Palau observes 16 Days of Activism Against Gender-Based Violence](https://islandtimes.org/palau-observes-16-days-of-activism-against-gender-based-violence/) appeared first on [Island Times News](https://islandtimes.org).
+
+## [MAC chief warns of tougher China pressure under Xi's 4th term](https://focustaiwan.tw/politics/202611240020)
+
+via CNA · 2026-11-24
+
+Taipei, Nov. 24 (CNA) Chinese leader Xi Jinping's (習近平) expected fourth term could bring a more aggressive approach toward Taiwan, intensifying disputes over cross-strait jurisdiction, Taiwan's Mainland Affairs Council (MAC) head Chiu Chui-cheng (邱垂正) said Tuesday.
+
+## [Palau Targets Faster Internet and Expanded 5G Coverage Through Major PNCC Projects](https://islandtimes.org/palau-targets-faster-internet-and-expanded-5g-coverage-through-major-pncc-projects/)
+
+via Island Times · 2026-11-24
+
+![](https://i0.wp.com/islandtimes.org/wp-content/uploads/2026/11/LeftBrad-Bloom-PNCC-Digital-Transformation-Project-Manager_-Olkeriil-Kazuo-PNCC-Public-Relations-Officer.jpg?fit=1024%2C770&ssl=1)
+
+KOROR, Palau (Nov. 23, 2026) — A $34.9 million grant from the U.S. Department of Agriculture is funding a nationwide effort to bring faster, more reliable internet to Palau, as the Palau National Communications Corporation (PNCC) advances two major infrastructure projects to modernize the country’s communications network. During recent presidential state visits to Kayangel and \[…\]
+
+The post [Palau Targets Faster Internet and Expanded 5G Coverage Through Major PNCC Projects](https://islandtimes.org/palau-targets-faster-internet-and-expanded-5g-coverage-through-major-pncc-projects/) appeared first on [Island Times News](https://islandtimes.org).
+
+## [Palau tourism on pace for nearly 84,000 arrivals in 2026 as China, Japan drive gains](https://islandtimes.org/palau-tourism-on-pace-for-nearly-84000-arrivals-in-2026-as-china-japan-drive-gains/)
+
+via Island Times · 2026-11-24
+
+![Sandy beach with light blue green ocean](https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/10/palau-beach-175138_1920.jpg?fit=1024%2C678&ssl=1)
+
+By: L.N. Reklai KOROR, Palau (Nov. 23, 2026) – Palau welcomed 21% more visitors in the first 10 months of 2026 than during the same period last year, as gains from China and Japan kept the tourism recovery on track despite an October slowdown. The Palau Visitors Authority counted 69,533 arrivals through October, up from \[…\]
+
+The post [Palau tourism on pace for nearly 84,000 arrivals in 2026 as China, Japan drive gains](https://islandtimes.org/palau-tourism-on-pace-for-nearly-84000-arrivals-in-2026-as-china-japan-drive-gains/) appeared first on [Island Times News](https://islandtimes.org).
+
+## [Taiex posts record single-day point gain on Huang's return to Nvidia](https://focustaiwan.tw/business/202611240019)
+
+via CNA · 2026-11-24
+
+Taipei, Nov. 24 (CNA) Shares in Taiwan posted their largest single-day point gain on record Tuesday, surging over 3,300 points as large-cap technology stocks attracted strong buying following Jensen Huang's (黃仁勳) return as Nvidia Corp. CEO, dealers said.
+
+## [Beauty and the Beast Challenge draws 72 cyclists for third annual event](https://islandtimes.org/beauty-and-the-beast-challenge-draws-72-cyclists-for-third-annual-event/)
+
+via Island Times · 2026-11-24
+
+![](https://i0.wp.com/islandtimes.org/wp-content/uploads/2026/11/image6-2.jpeg?fit=576%2C1024&ssl=1)
+
+By: Summer Kennard KOROR, Palau (Nov. 23, 2026) – The Belau Triathlon Federation’s third annual Beauty and the Beast Challenge brought together 72 participants on November 22, with cyclists from Palau and several countries taking part in the event. Participants came from Taiwan, the Philippines, Guam, the United States, Germany, Saipan and Japan, alongside local \[…\]
+
+The post [Beauty and the Beast Challenge draws 72 cyclists for third annual event](https://islandtimes.org/beauty-and-the-beast-challenge-draws-72-cyclists-for-third-annual-event/) appeared first on [Island Times News](https://islandtimes.org).
+
+## [Kindergarten director sentenced to 9 years in NT$4 million fraud case](https://focustaiwan.tw/society/202611240018)
+
+via CNA · 2026-11-24
+
+Taipei, Nov. 24 (CNA) An award-winning kindergarten director in Changhua County who defrauded parents, colleagues and the government of over NT$4 million (US$121,599) has been sentenced to nine years in prison.
+
+## [Interior Providing Over $50 Million in Funding to Insular Areas](https://islandtimes.org/interior-providing-over-50-million-in-funding-to-insular-areas/)
+
+via Island Times · 2026-11-24
+
+Energy, healthcare, education and economic growth among priorities receiving awards  Washington–The U.S. Department of the Interior is providing more than $50  million in funding to support projects in the U.S. territories and the freely associated states. The funding will support many needs in the insular areas, including reliant, abundant and affordable energy; health and education; \[…\]
+
+The post [Interior Providing Over $50 Million in Funding to Insular Areas](https://islandtimes.org/interior-providing-over-50-million-in-funding-to-insular-areas/) appeared first on [Island Times News](https://islandtimes.org).
+
+## [“Financed for our stewardship”](https://islandtimes.org/financed-for-our-stewardship/)
+
+via Island Times · 2026-11-24
+
+ANTALYA, 23 NOVEMBER 2026 (SPREP)—Big Ocean States didn’t design the packaging that washes onto their reefs. They’re ready to lead the clean-up, if the world helps pay for it.   Every week, ships arrive in Fiji carrying everything from pasta to car parts. The packaging stays. And when the next cyclone tears through, much of it \[…\]
+
+The post [“Financed for our stewardship”](https://islandtimes.org/financed-for-our-stewardship/) appeared first on [Island Times News](https://islandtimes.org).
+
+## [Derelict cargo ship laden with iron ore at risk of sinking in Majuro lagoon](https://islandtimes.org/derelict-cargo-ship-laden-with-iron-ore-at-risk-of-sinking-in-majuro-lagoon/)
+
+via Island Times · 2026-11-24
+
+MAUJUR0, 23 NOVEMBER 2026 (MARSHALL ISLANDS JOURNAL/RNZ PACIFIC) — A deteriorating cargo vessel laden with iron ore stuck in Majuro’s lagoon for nearly one year could sink with little warning, a report for the government indicates.  Following a U.S Coast Guard (USCG) assessment of the MV Futun Creek cargo vessel recently, a summary of its \[…\]
+
+The post [Derelict cargo ship laden with iron ore at risk of sinking in Majuro lagoon](https://islandtimes.org/derelict-cargo-ship-laden-with-iron-ore-at-risk-of-sinking-in-majuro-lagoon/) appeared first on [Island Times News](https://islandtimes.org).
+
+## [Democrats clinch historic House majority, the largest since 1992](https://islandtimes.org/democrats-clinch-historic-house-majority-the-largest-since-1992/)
+
+via Island Times · 2026-11-24
+
+In short: (ABC-Australia) Democrats have won 258 seats in the US House of Representatives, their best result in decades. It sets up a divided government, with the Senate also in Democratic hands but a Republican president in the White House. What’s next? The Democrats are preparing a 100-day agenda to address the cost of living, \[…\]
+
+The post [Democrats clinch historic House majority, the largest since 1992](https://islandtimes.org/democrats-clinch-historic-house-majority-the-largest-since-1992/) appeared first on [Island Times News](https://islandtimes.org).
+
+## [Takaichi moves up ICC financial support in first meeting with court chief since U.S. sanctions](https://www.japantimes.co.jp/news/2026/11/24/japan/politics/japan-pm-takaichi-icc-akane/)
+
+via Japan Times · 2026-11-24
+
+The prime minister said Japan would make its contribution ahead of schedule in her first face-to-face meeting with the ICC president since January.
+
+## [New Youth Ocean Program set to strengthen Pacific negotiating capacity](https://islandtimes.org/new-youth-ocean-program-set-to-strengthen-pacific-negotiating-capacity/)
+
+via Island Times · 2026-11-24
+
+![](https://i0.wp.com/islandtimes.org/wp-content/uploads/2026/11/New-Youth-Ocean-Program.jpg?fit=1024%2C624&ssl=1)
+
+By Elilai Rengiil ANTALYA, Türkiye — The Youth Negotiators Academy (YNA) has launched an ocean-focused training program to prepare young delegates for international ocean discussions and help the Pacific, and other regions, delegations build negotiating capacity. Announced at the YNA and Palau hosted COP31 side-event on November 16, the launch of the Ocean Youth Negotiator \[…\]
+
+The post [New Youth Ocean Program set to strengthen Pacific negotiating capacity](https://islandtimes.org/new-youth-ocean-program-set-to-strengthen-pacific-negotiating-capacity/) appeared first on [Island Times News](https://islandtimes.org).
+
+## [Loss and damage in the Pacific: What money cannot restore](https://islandtimes.org/loss-and-damage-in-the-pacific-what-money-cannot-restore/)
+
+via Island Times · 2026-11-24
+
+![](https://i0.wp.com/islandtimes.org/wp-content/uploads/2026/11/Loss-and-Damage-in-the-Pacific.jpg?fit=1024%2C575&ssl=1)
+
+By Elilai Rengiil In parts of Solomon Islands, saltwater intrusion has made it impossible to grow the wild yam and taro once exchanged at weddings, according to a new Pacific climate report. In some communities, the custom has stopped. The loss illustrates non-economic loss and damage (NELD) in the Pacific: harm to health, culture, identity, \[…\]
+
+The post [Loss and damage in the Pacific: What money cannot restore](https://islandtimes.org/loss-and-damage-in-the-pacific-what-money-cannot-restore/) appeared first on [Island Times News](https://islandtimes.org).
+
+## [Japan’s Fujitsu woos demand for alternatives to U.S. and China chips](https://www.japantimes.co.jp/business/2026/11/24/companies/fujitsu-chips/)
+
+via Japan Times · 2026-11-24
+
+Demand for sovereign data security in areas including defense and the public sector is boosting interest from customers in Japan, the U.S. and Europe.
+
+## [COP31 ends without cover decision as Pacific rejects weak deal](https://islandtimes.org/cop31-ends-without-cover-decision-as-pacific-rejects-weak-deal/)
+
+via Island Times · 2026-11-24
+
+![](https://i0.wp.com/islandtimes.org/wp-content/uploads/2026/11/COP31-Emds-Without.jpg?fit=1024%2C532&ssl=1)
+
+By Elilai Rengiil ANTALYA, Turkiye — COP31, the longest COP in history, ended on Sunday evening without a cover decision after countries failed to reach consensus. Pacific nations refused to back a text that dropped their key priorities, including any commitment to phase out fossil fuels. More than 130 countries, including multiple Pacific countries, called \[…\]
+
+The post [COP31 ends without cover decision as Pacific rejects weak deal](https://islandtimes.org/cop31-ends-without-cover-decision-as-pacific-rejects-weak-deal/) appeared first on [Island Times News](https://islandtimes.org).
+
+## [U.S. dollar closes higher on Taipei forex market](https://focustaiwan.tw/business/202611240017)
+
+via CNA · 2026-11-24
+
+Taipei, Nov. 24 (CNA) The U.S. dollar rose against the Taiwan dollar Tuesday, gaining NT$0.044 to close at NT$32.939.
+
+## [Cook Islands weighs deep-sea mining risks](https://www.pacificislandtimes.com/post/cook-islands-weighs-deep-sea-mining-risks)
+
+via Pacific Island Times · 2026-11-24
+
+cookislands.travel By Ron Rocky Coloma The potential impact of deep-sea mining on tuna fisheries is emerging as a concern in the Cook Islands, where the prospect of generating revenue from seabed minerals has divided communities and raised questions about the long-term environmental and economic consequences for Pacific island nations. As the Cook Islands explores the possibility of developing a commercial seabed mining industry, environmental advocates say there is still insufficient...
+
+## [AI circular financing may face tighter U.S. scrutiny: Sources](https://focustaiwan.tw/business/202611240016)
+
+via CNA · 2026-11-24
+
+Taipei, Nov. 24 (CNA) Artificial intelligence (AI) circular financing arrangements promoted by Nvidia Corp. CEO Jensen Huang (黃仁勳) to accelerate AI development could face tighter scrutiny from U.S. regulators despite his return to the chipmaker's helm, sources in Taiwan's semiconductor industry said Tuesday.
+
+## [RMA expert questions Fonterra's application to dump 22m litres of milk](https://www.rnz.co.nz/news/environment/2764606/rma-expert-questions-fonterra-s-application-to-dump-22m-litres-of-milk)
+
+via RNZ National News · 2026-11-24
+
+A resource management practitioner said there were already provisions in the RMA that allowed for emergency milk dumping.
+
+## [Hai Kun submarine conducts fresh sea trials after month-long wait](https://focustaiwan.tw/politics/202611240015)
+
+via CNA · 2026-11-24
+
+Kaohsiung, Nov. 24 (CNA) Taiwan's first domestically built submarine, the Hai Kun (Narwhal), departed from the Port of Kaohsiung on Tuesday morning for its latest round of sea trials, including submerged tests, nearly a month after its previous trial.
+
+## [Over 20,000 sign petition for lowering student loan interest rates in Japan](https://www.japantimes.co.jp/news/2026/11/24/japan/japan-student-loan-petition/)
+
+via Japan Times · 2026-11-24
+
+Interest rates have soared from 0.268% in November 2021 to the current maxed-out rate of 3%, adding an unexpected burden on students.
+
+## [POSCO International acquires US gas field for $550 mil.](https://www.koreatimes.co.kr/business/companies/20261124/posco-international-acquires-us-gas-field-for-550-mil?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+POSCO International, the trading arm of POSCO Holdings, said Tuesday it has completed the acquisition of a U.S. shale gas field for $550 million as part of its growth strategy. The shale gas asset, owned by Chord Energy and located in Pennsylvania's Appalachian region, holds reserves equivalent to 1 million tons of liquefied natural gas (LNG), the company said in a press release. "This acquisition marks a significant milestone in the company's energy business in the United States, in line with POSCO Group's Triple Core growth strategy," POSCO Group Chairman Chang In-hwa said. "It will help enhance profitability by generating synergies with the group's LNG value chain, spanning production to sales." The company expects the shale gas asset to generate an average annual operating profit of 100 billion won ($74 million) through 2040 as it expands production. Under its Triple Core strategy, POSCO Group has been expanding its overseas energy resource investments, while also investing in a steel plant being built in the United States by Hyundai Motor Group and lithium resources in Argentina and
+
+## [Korea's foreign ministry expresses regret to Russia over warplanes' KADIZ entry](https://www.koreatimes.co.kr/southkorea/defense/20261124/koreas-foreign-ministry-expresses-regret-to-russia-over-warplanes-kadiz-entry?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+The foreign ministry said Tuesday it has conveyed its regret to Russia over the entry of Russian military aircraft into the country's air defense zone and called for measures to prevent a recurrence. About five Russian military aircraft entered the Korea Air Defense Identification Zone (KADIZ) over the East Sea earlier in the day and approached the edge of Korea's territorial airspace near Ulleung Island, according to the Joint Chiefs of Staff (JCS). "We conveyed our regret to Russia through diplomatic channels and called for measures to prevent a recurrence," the ministry said in a press release. The ministry sent the message to the Russian Embassy in Seoul but stopped short of summoning the Russian ambassador, diplomatic sources said. The defense ministry called in Nikolai Marchenko, a military attache from the Russian Embassy in Seoul, to lodge a formal complaint over the incident. The JCS issued an alert for residents of the eastern island as the aircraft appeared close to entering Korean airspace. The Air Force also scrambled fighter jets in response, though no violation of the count
+
+## [Seoul Metro labor, management hold final talks ahead of planned strike](https://www.koreatimes.co.kr/southkorea/society/20261124/seoul-metro-labor-management-hold-final-talks-ahead-of-planned-strike?utm_source=rss)
+
+via Korea Times · 2026-11-24
+
+Labor and management at Seoul Metro, which operates subway Lines 1-8 and part of Line 9, began final negotiations Tuesday, a day before unionized workers threatened to launch a general strike. If the negotiations fail, the company's three labor unions plan to launch an indefinite general strike starting with the first trains Wednesday, potentially disrupting the morning commute. Seoul Metro's three labor unions are demanding a 3.5 percent wage increase, the scrapping of planned workforce reductions and additional hiring. Seoul Metro and Union 1 began their fourth round of collective bargaining and wage negotiations at 10 a.m., but the talks were quickly adjourned without an agreement. Union 1 is also demanding that the company scrap a plan to eliminate 2,212 jobs and hire an additional 1,313 on-site safety workers this year to address staffing shortages. Other demands include state funding for public services and a requirement that all field operations be carried out by two-person teams. Seoul Metro also held its separate negotiations with Union 3 and Union 2 at 11 a.m. and 1:30 p.m., res
+
 ## [POSCO International secures 1st US shale gas assets in $550 mil. deal](https://www.koreatimes.co.kr/business/companies/20261124/posco-international-secures-1st-us-shale-gas-assets-in-550-mil-deal?utm_source=rss)
 
 via Korea Times · 2026-11-24
 
 POSCO International has completed its $550 million acquisition of a shale gas field in Pennsylvania, marking the company's entry into U.S. natural gas production and its first overseas energy asset acquisition since POSCO Group announced its Triple Core growth strategy in July. The group's trading and energy subsidiary said Tuesday that it had acquired all of U.S. energy company Chord Energy's stake in the Appalachian shale gas assets in Pennsylvania. The acquisition comes about two months after the companies signed a definitive agreement on Sept. 14. The company held a ceremony marking the completion of the acquisition Monday (local time) in Houston, Texas, with POSCO Group Chairman Chang In-hwa, POSCO International CEO Lee Kye-in, Chord Energy CEO Michael Lou and other senior executives from both companies in attendance. “The acquisition marks a milestone in securing overseas energy resources under the group's Triple Core strategy and an important step in expanding its energy business in North America,” Chang said. “We expect to further strengthen profitability by creating synerg
 
+## [Taoyuan airport's Terminal 3 set to open Dec. 25, 2027: Minister](https://focustaiwan.tw/society/202611240014)
+
+via CNA · 2026-11-24
+
+Taoyuan, Nov. 24 (CNA) Taiwan Taoyuan International Airport's Terminal 3 is expected to begin operations on Dec. 25, 2027, following a trial run in November that year, Transportation Minister Chen Shih-kai (陳世凱) said Tuesday.
+
 ## [Ex-OpenAI engineer vibecoded better bugs to record meetings – court filing](https://www.rappler.com/technology/openai-engineer-abdulrahman-alfozan-vibecode-recording-devices-filing/)
 
 via Rappler · 2026-11-24
 
 Federal prosecutors are seeking to prevent ex-OpenAI engineer Abdulrahman Alfozan from being released prior to his trial on a charge of illegally intercepting conversations
+
+## [Taiwanese estimate NT$16.14 million needed for retirement: White paper](https://focustaiwan.tw/society/202611240013)
+
+via CNA · 2026-11-24
+
+Taipei, Nov. 24 (CNA) People aged 40 to 64 in Taiwan estimated they would need NT$16.14 million (US$490,872) to finance their later years, up from NT$15.61 million in 2025, according to a survey released Tuesday by the DBS Foundation and CommonWealth Magazine.
 
 ## [Parent of Tokyo crematoria firm sparks concerns with partial Chinese ownership](https://www.japantimes.co.jp/news/2026/11/24/japan/tokyo-crematoria-hakuzen/)
 
@@ -542,7 +1114,7 @@ A private company whose parent has 35% of its stock held by Chinese firms runs s
 
 via RNZ National News · 2026-11-24
 
-The affected products were sold only at Pak'nSave Highland Park
+Food Safety deputy director-general Vincent Arbuckle says the small metal pieces could cause injury if consumed.
 
 ## [Who is Angel Ignacio, new Maharlika Investment president and CEO?](https://www.rappler.com/people/who-is-angel-ignacio-new-maharlika-investment-president-ceo/)
 
@@ -574,12 +1146,6 @@ via Rappler · 2026-11-24
 
 The peace process in the Mindanao region remains unfinished, with thousands of MILF combatants and weapons still awaiting full decommissioning
 
-## [RMA expert questions Fonterra's application to dump 22m litres of milk](https://www.rnz.co.nz/news/environment/2764606/rma-expert-questions-fonterra-s-application-to-dump-22m-litres-of-milk)
-
-via RNZ National News · 2026-11-24
-
-A resource management practitioner said there were already provisions in the RMA that allowed for emergency milk dumping.
-
 ## [Taiwan shares close up 8.99%](https://focustaiwan.tw/business/202611240011)
 
 via CNA · 2026-11-24
@@ -604,6 +1170,12 @@ via Japan Times · 2026-11-24
 
 In a filing Monday, the Commerce Department moved to add the company established by Chinese spy suspect Alice Huang to its so-called entity list.
 
+## [China slams ruling party candidate ahead of Taiwan’s mayoral and county votes](https://www.japantimes.co.jp/news/2026/11/24/asia-pacific/politics/taiwan-elections-china-beijing/)
+
+via Japan Times · 2026-11-24
+
+Beijing says the ruling Democratic Progressive Party's Taipei candidate is a playing up the China threat to trick people into voting for him.
+
 ## [Vehicle importer wound back odometers by almost 50 million kms](https://www.rnz.co.nz/news/crime-and-justice/2764520/vehicle-importer-wound-back-odometers-by-almost-50-million-kms)
 
 via RNZ National News · 2026-11-24
@@ -621,6 +1193,12 @@ Malaysia will continue looking for other countries, including OIC members, willi
 via Japan Times · 2026-11-24
 
 U.S. Sen. Maggie Hassan has suggested that the vice president may have used his position to help a donor secure the lucrative Venezuelan oil contract.
+
+## [Education minister under pressure to resign as opposition plans censure motion](https://www.japantimes.co.jp/news/2026/11/24/japan/politics/seki-censure-motion/)
+
+via Japan Times · 2026-11-24
+
+Six opposition lawmakers in the Upper House said they would submit the nonbinding motion over a fundraising scandal.
 
 ## [Ulithi Falalop Community Supports Campus Cleanup at Outer Islands High School](https://yapstate.gov.fm/post/ulithi-falalop-community-supports-campus-cleanup-at-outer-islands-high-school)
 
@@ -1914,7 +2492,7 @@ An expert says the Philippines' era of overpopulation is over
 
 ## [Unknown consequences fuel sea mining debate](https://www.hawaiitribune-herald.com/2026/11/23/hawaii-news/unknown-consequences-fuel-sea-mining-debate/)
 
-via Hawaii Tribune Harold · 2026-11-23
+via Hawaii Tribune Harold · 2026-11-23, updated 2026-11-24
 
 Environmental concerns over deep-sea mining mostly boil down to one issue: No one knows what goes on down there.
 
@@ -1922,7 +2500,7 @@ The post [Unknown consequences fuel sea mining debate](https://www.hawaiitribune
 
 ## [Pacific seafloor draws new scrutiny in race for critical minerals](https://www.hawaiitribune-herald.com/2026/11/23/hawaii-news/pacific-seafloor-draws-new-scrutiny-in-race-for-critical-minerals/)
 
-via Hawaii Tribune Harold · 2026-11-23
+via Hawaii Tribune Harold · 2026-11-23, updated 2026-11-24
 
 The Trump administration on Thursday sold the first offshore commercial mining leases in U.S. waters, opening parts of American Samoa’s seabed to mineral exploration despite a federal judge’s ruling that the approval process violated federal law.
 
@@ -1930,7 +2508,7 @@ The post [Pacific seafloor draws new scrutiny in race for critical minerals](htt
 
 ## [Democrats clinch 258 house seats, an election-year record this century](https://www.hawaiitribune-herald.com/2026/11/23/nation-world-news/democrats-clinch-258-house-seats-an-election-year-record-this-century/)
 
-via Hawaii Tribune Harold · 2026-11-23
+via Hawaii Tribune Harold · 2026-11-23, updated 2026-11-24
 
 Democrats on Sunday secured the largest House majority in a national election in three decades, capturing at least 258 seats in the chamber in a sweeping backlash to rising prices and President Donald Trump’s tumultuous second term.
 
@@ -1938,7 +2516,7 @@ The post [Democrats clinch 258 house seats, an election-year record this century
 
 ## [Obituaries for November 23](https://www.hawaiitribune-herald.com/2026/11/23/obituaries/obituaries-for-november-23-8/)
 
-via Hawaii Tribune Harold · 2026-11-23
+via Hawaii Tribune Harold · 2026-11-23, updated 2026-11-24
 
 Nettie M. Lindinha, 91, of Hilo died Oct. 29 at Life Care Center of Hilo. Born in Waikii, she was a retired inspectress for Hilo Hawaiian Hotel. Graveside Service at 10 a.m., Friday, Dec. 11, at Homelani Memorial Park. Survived by daughters, Stephanie (Bernard) Gomes of Hilo and Phyllis Lindinha of Hilo; 3 grandchildren, 3 great-grandchildren and 2 great-great-grandchildren; and sister, Eleanor Ako of Honolulu. Online condolences: www.homelanimemorialpark.com. Arrangements by Homelani Memorial Park.
 
@@ -1946,7 +2524,7 @@ The post [Obituaries for November 23](https://www.hawaiitribune-herald.com/2026/
 
 ## [News in brief for November 23](https://www.hawaiitribune-herald.com/2026/11/23/nation-world-news/news-in-brief-for-november-23/)
 
-via Hawaii Tribune Harold · 2026-11-23
+via Hawaii Tribune Harold · 2026-11-23, updated 2026-11-24
 
 St. Patrick’s Day parade canceled as Florida figures out DEI law
 
@@ -1954,7 +2532,7 @@ The post [News in brief for November 23](https://www.hawaiitribune-herald.com/20
 
 ## [Schumer led Democrats to big Senate win. Now, some say they need a new leader](https://www.hawaiitribune-herald.com/2026/11/23/nation-world-news/schumer-led-democrats-to-big-senate-win-now-some-say-they-need-a-new-leader/)
 
-via Hawaii Tribune Harold · 2026-11-23
+via Hawaii Tribune Harold · 2026-11-23, updated 2026-11-24
 
 WASHINGTON — Chuck Schumer led U.S. Senate Democrats through this month’s midterm elections that gave them a decisive 56-seat majority in the 100-seat chamber. Progressives responded with a collective “thank you, next,” arguing that Schumer should now make way for a successor.
 
@@ -1962,7 +2540,7 @@ The post [Schumer led Democrats to big Senate win. Now, some say they need a new
 
 ## [ICE officers arrest 2 passengers boarding a flight at Seattle airport](https://www.hawaiitribune-herald.com/2026/11/23/nation-world-news/ice-officers-arrest-2-passengers-boarding-a-flight-at-seattle-airport/)
 
-via Hawaii Tribune Harold · 2026-11-23
+via Hawaii Tribune Harold · 2026-11-23, updated 2026-11-24
 
 Federal immigration officers on Saturday arrested two passengers at Seattle-Tacoma International Airport as they were boarding a flight, prompting outrage from airport officials, who called the incident “distressing.”
 
@@ -1970,7 +2548,7 @@ The post [ICE officers arrest 2 passengers boarding a flight at Seattle airport]
 
 ## [Democrat unseats 11-term GOP house member in North Carolina](https://www.hawaiitribune-herald.com/2026/11/23/nation-world-news/democrat-unseats-11-term-gop-house-member-in-north-carolina/)
 
-via Hawaii Tribune Harold · 2026-11-23
+via Hawaii Tribune Harold · 2026-11-23, updated 2026-11-24
 
 Chuck Hubbard, a Democrat and a former newspaper reporter, unseated Rep. Virginia Foxx of North Carolina on Sunday, according to The Associated Press, ousting an 11-term Republican who leads one of the House’s most powerful committees.
 
@@ -1978,7 +2556,7 @@ The post [Democrat unseats 11-term GOP house member in North Carolina](https://w
 
 ## [COP31 climate talks collapse as EU and others reject deal](https://www.hawaiitribune-herald.com/2026/11/23/nation-world-news/cop31-climate-talks-collapse-as-eu-and-others-reject-deal/)
 
-via Hawaii Tribune Harold · 2026-11-23
+via Hawaii Tribune Harold · 2026-11-23, updated 2026-11-24
 
 ANTALYA, Turkey — UN climate talks ended in collapse on Sunday as the European Union and others rejected a final deal put forward by COP31 presidents Turkey and Australia, saying it was too weak to advance the fight against global warming.
 
@@ -1986,7 +2564,7 @@ The post [COP31 climate talks collapse as EU and others reject deal](https://www
 
 ## [Iowa detonation of lead will proceed under emergency powers, Army says, bypassing court order](https://www.hawaiitribune-herald.com/2026/11/23/nation-world-news/iowa-detonation-of-lead-will-proceed-under-emergency-powers-army-says-bypassing-court-order/)
 
-via Hawaii Tribune Harold · 2026-11-23
+via Hawaii Tribune Harold · 2026-11-23, updated 2026-11-24
 
 NEW YORK — The US Army will detonate 68 barrels of toxic lead azide in Iowa by Tuesday under emergency legal powers that allow it to bypass a court order blocking the controversial plan, the Trump administration told a court this weekend.
 
@@ -1994,7 +2572,7 @@ The post [Iowa detonation of lead will proceed under emergency powers, Army says
 
 ## [US probing alleged spy tied to ex-Nvidia CEO, spy chief says](https://www.hawaiitribune-herald.com/2026/11/23/nation-world-news/us-probing-alleged-spy-tied-to-ex-nvidia-ceo-spy-chief-says/)
 
-via Hawaii Tribune Harold · 2026-11-23
+via Hawaii Tribune Harold · 2026-11-23, updated 2026-11-24
 
 Director of National Intelligence Jay Clayton said Nvidia Corp. is a perpetual target for people trying to illegally obtain its high-end chips and the U.S. is investigating an alleged Chinese spy who had an affair with the company’s former chief executive.
 
@@ -2002,7 +2580,7 @@ The post [US probing alleged spy tied to ex-Nvidia CEO, spy chief says](https://
 
 ## [Russia starts towing ship hit by drones in Baltic, Finland says](https://www.hawaiitribune-herald.com/2026/11/23/nation-world-news/russia-starts-towing-ship-hit-by-drones-in-baltic-finland-says/)
 
-via Hawaii Tribune Harold · 2026-11-23
+via Hawaii Tribune Harold · 2026-11-23, updated 2026-11-24
 
 HELSINKI — A Russian rescue vessel on Sunday began towing a Russian-owned cargo ship that was struck by drones in the Baltic Sea out of Finnish waters after two days of firefighting, Finland’s coast guard said.
 
@@ -2472,7 +3050,7 @@ A Māori word named the world's most beautiful has been turned into a giant artw
 
 ## [NUS Ocean Acidification Research Shares Research Findings with Savaia Community](https://talamua.com/?p=63169)
 
-via Talamua · 2026-11-22
+via Talamua · 2026-11-22, updated 2026-11-24
 
 Apia, Samoa – 23 November 2026 – The National University of Samoa Ocean Acidification (OA) Research Team visited Savaia, Lefaga, on Friday, 20 November 2026, to share findings from its recently published research titled “Variability of Carbon Chemistry at the Marine Protected Area of Savaia Village, Upolu Island, Samoa.” The research was led by NUS \[…\]
 
@@ -2480,7 +3058,7 @@ The post [NUS Ocean Acidification Research Shares Research Findings with Savaia 
 
 ## [Christmas at Home Programme and Logo Officially Launched](https://talamua.com/?p=63156)
 
-via Talamua · 2026-11-22
+via Talamua · 2026-11-22, updated 2026-11-24
 
 By Jeannie Penehuro/ Apia, SAMOA – 20 November 2026 – The Christmas at Home programme which will run from 13 to 24 December and involve church congregations, 50 government ministries and young people was launched by the Prime Minister today. The Christmas at Home Festival is a partnership between the Government and the EFKS Vaitele-Uta \[…\]
 
@@ -2488,7 +3066,7 @@ The post [Christmas at Home Programme and Logo Officially Launched](https://tala
 
 ## [Head of State welcomes United Arab Emirates Ambassador to Samoa](https://talamua.com/?p=63160)
 
-via Talamua · 2026-11-22
+via Talamua · 2026-11-22, updated 2026-11-24
 
 Apia, SAMOA – 20 November 2026 – The Head of State, Afioga Tuimalealiifano Va’aletoa Sualauvi II, accepted His Excellency Dr. Fahad Obaid Al Taffag’s Letter of Credence, on 18 November, accrediting him as Ambassador Extraordinary and Plenipotentiary of the United Arab Emirates to Samoa, with residence in Canberra, Australia. Samoa and the United Arab Emirates \[…\]
 
@@ -5063,7 +5641,7 @@ PhilHealth has no program that automatically provides cash assistance to all its
 
 ## [Palau launches major water system upgrades to reduce leaks, improve supply](https://islandtimes.org/palau-launches-major-water-system-upgrades-to-reduce-leaks-improve-supply/)
 
-via Island Times · 2026-11-20
+via Island Times · 2026-11-20, updated 2026-11-24
 
 ![](https://i0.wp.com/islandtimes.org/wp-content/uploads/2026/11/1000033351-1-scaled.jpg?fit=1024%2C577&ssl=1)
 
@@ -5073,7 +5651,7 @@ The post [Palau launches major water system upgrades to reduce leaks, improve su
 
 ## [President Whipps hears Kayangel concerns on health care, utilities and public services](https://islandtimes.org/president-whipps-hears-kayangel-concerns-on-health-care-utilities-and-public-services/)
 
-via Island Times · 2026-11-20
+via Island Times · 2026-11-20, updated 2026-11-24
 
 ![](https://i0.wp.com/islandtimes.org/wp-content/uploads/2026/11/FB_IMG_1795098761557-1-scaled.jpg?fit=1024%2C683&ssl=1)
 
@@ -5095,7 +5673,7 @@ Transfer of the operations from the Japan Aerospace Exploration Agency will take
 
 ## [Ngchesar chiefs reject Kebou clan nominee for third time, fine clan ourrot](https://islandtimes.org/ngchesar-chiefs-reject-kebou-clan-nominee-for-third-time-fine-clan-ourrot/)
 
-via Island Times · 2026-11-20
+via Island Times · 2026-11-20, updated 2026-11-24
 
 By: L.N. Reklai NGCHESAR, Palau (Nov. 16, 2026) — The traditional council of chiefs of Ngchesar, known as NgaraOldiang, has rejected the Kebou clan’s nominee for Ngirakebou for the third time and fined the clan’s ourrot for resubmitting the same name, according to a clan member who requested anonymity. The Kebou clan, considered the highest-ranking \[…\]
 
@@ -5109,7 +5687,7 @@ via Japan Times · 2026-11-20, updated 2026-11-21
 
 ## [Chinese Inmate Dies After Jail Attack](https://islandtimes.org/chinese-inmate-dies-after-jail-attack/)
 
-via Island Times · 2026-11-20
+via Island Times · 2026-11-20, updated 2026-11-24
 
 By: L.N. Reklai KOROR, Palau  (Nov. 19, 2026) – A Chinese inmate who was found unresponsive with a head injury in his jail cell on Nov. 5 has died from his injuries, the Ministry of Justice confirmed. The deceased, identified as YangYong Liu, was serving a four-year portion of a 25-year prison sentence for two \[…\]
 
@@ -7363,7 +7941,7 @@ Gamers around the world tapped away for hours as the much-anticipated Grand Thef
 
 ## [Toa and Fetu Samoa Come Home to a Heroes Welcome](https://talamua.com/?p=63114)
 
-via Talamua · 2026-11-19, updated 2026-11-22
+via Talamua · 2026-11-19, updated 2026-11-24
 
 By Jeannie Penehuro/ Apia, SAMOA – 18 November 2026 – Toa Samoa and Fetu Samoa may have bowed out of the Rugby League World Cup semifinals, but did not diminish the heroes welcome the fans and Samoan people staged for the teams homecoming celebrations in the capital Apia, this morning. It could well be the \[…\]
 
@@ -7377,7 +7955,7 @@ via RNZ National News · 2026-11-19
 
 ## [Samoa Disappointed over Outcome of Agriculture & Food Security Negotiations](https://talamua.com/?p=63110)
 
-via Talamua · 2026-11-19, updated 2026-11-22
+via Talamua · 2026-11-19, updated 2026-11-24
 
 By Lagi Keresoma at COP31/ Antalya, Turkiye: 17 November 2026 – Samoa is one of the Pacific Small Islands Developing States that have voiced their disappointment over the outcome of the Sharm el-Sheikh Join Work and Agriculture & Food Security negotiations. Negotiations during COP31 in Turkiye started last week however, parties were unable to reach \[…\]
 
@@ -9091,7 +9669,7 @@ Public hearings and a poll would take place before a merger went ahead.
 
 ## [Samoa Challenge at COP31: Whose future are we willing to sacrifice by waiting?](https://talamua.com/?p=63080)
 
-via Talamua · 2026-11-17, updated 2026-11-22
+via Talamua · 2026-11-17, updated 2026-11-24
 
 By Lagi Keresoma\* “Let Antalya be remembered for action over delay, and responsibility over excuses.” – Samoa’s Deputy Prime Minister and Minister of Finance, Hon. Mulipola Anarosa Ale Molio’o. Antalya, Turkiye – 17 November 2026: No family, community or nation should have to accept the loss of their home, livelihood or way of life as \[…\]
 
@@ -10594,7 +11172,7 @@ Japan's bonds have rallied over the past month as yields attracted fund managers
 
 ## [SVSG receives prestigious UNESCO International Prize](https://talamua.com/?p=63065)
 
-via Talamua · 2026-11-17, updated 2026-11-22
+via Talamua · 2026-11-17, updated 2026-11-24
 
 Jeannie Penehuro/ Apia, SAMOA – 17 November 2026 – A proud milestone for Samoa as SVSG and President Siliniu Lina Chang was presented the UNESCO – Madanjeet Singh Prize Award for the Promotion of Tolerance and Non-Violence at UNESCO headquarters in Paris yesterday. In the award citation UNESCO said, “Today, we celebrate not just an \[…\]
 

@@ -5,11 +5,147 @@
     <title><![CDATA[STEM]]></title>
     <description><![CDATA[Science and technology news and blogs.]]></description>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>23 Nov 26 23:42 -0800</lastBuildDate>
+    <lastBuildDate>24 Nov 26 06:45 -0800</lastBuildDate>
     <generator>antenna/0.2.0</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Orgs that leak data ‘prioritize corporate interests over customers’ says Have I Been Pwned’s Troy Hunt</title>
+      <title>Claude Ship puts AI at the helm of pull request approvals</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/11/24/claude-ship-puts-ai-at-the-helm-of-pull-request-approvals/5311883</link>
+      <description>
+        <![CDATA[Tired of waiting for a meatbag to approve a change? Anthropic has an agent for that]]>
+      </description>
+      <source:markdown>Tired of waiting for a meatbag to approve a change? Anthropic has an agent for that</source:markdown>
+      <dc:creator>Richard Speed</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5254628&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311883</guid>
+      <category>ai and ml</category>
+      <pubDate>Tue, 24 Nov 2026 14:29:00 +0000</pubDate>
+    </item>    <item>
+      <title>FCC proposes &#39;tit-for-tat&#39; restrictions on foreign satellite operators</title>
+      <link>https://www.theregister.com/networks/2026/11/24/fcc-proposes-tit-for-tat-restrictions-on-foreign-satellite-operators/5311889</link>
+      <description>
+        <![CDATA[December vote would launch rulemaking to mirror barriers facing US providers abroad, with EU spectrum plans in the crosshairs]]>
+      </description>
+      <source:markdown>December vote would launch rulemaking to mirror barriers facing US providers abroad, with EU spectrum plans in the crosshairs</source:markdown>
+      <dc:creator>Dan Robinson</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=4094220&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311889</guid>
+      <category>networks</category>
+      <pubDate>Tue, 24 Nov 2026 13:45:00 +0000</pubDate>
+    </item>    <item>
+      <title>9/UX brings a classic Mac feel to 9front</title>
+      <link>https://www.theregister.com/software/2026/11/24/9/ux-brings-a-classic-mac-feel-to-9front/5311844</link>
+      <description>
+        <![CDATA[A spatial classic Finder in the style of A/UX]]>
+      </description>
+      <source:markdown>A spatial classic Finder in the style of A/UX</source:markdown>
+      <dc:creator>Liam Proven</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311874&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311844</guid>
+      <category>software</category>
+      <pubDate>Tue, 24 Nov 2026 13:06:00 +0000</pubDate>
+    </item>    <item>
+      <title>CrowdStrike splashes $44B on Zscaler, customers brace for the bill</title>
+      <link>https://www.theregister.com/security/2026/11/24/crowdstrike-splashes-44b-on-zscaler-customers-brace-for-the-bill/5311877</link>
+      <description>
+        <![CDATA[Record-breaking cybersecurity deal promises tighter integration, but sysadmins fear higher prices and vendor lock-in]]>
+      </description>
+      <source:markdown>Record-breaking cybersecurity deal promises tighter integration, but sysadmins fear higher prices and vendor lock-in</source:markdown>
+      <dc:creator>Carly Page</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=252462&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311877</guid>
+      <category>security</category>
+      <pubDate>Tue, 24 Nov 2026 12:22:17 +0000</pubDate>
+    </item>    <item>
+      <title>Almost 90 Years After Discovering a Ship Burial That Rewrote British History, Archaeologists Returned to Sutton Hoo. This Time, They Uncovered a Ghostly &#39;Sand Body&#39;</title>
+      <link>https://www.smithsonianmag.com/smart-news/almost-90-years-after-discovering-a-ship-burial-that-rewrote-british-history-archaeologists-returned-to-sutton-hoo-this-time-they-uncovered-a-ghostly-sand-body-180989932/</link>
+      <description>
+        <![CDATA[Researchers with the "Time Team" series also found grave goods, including beads, tweezers, a knife and a brooch as well as evidence that a second person might have been buried in the same grave]]>
+      </description>
+      <source:markdown>Researchers with the &#34;Time Team&#34; series also found grave goods, including beads, tweezers, a knife and a brooch as well as evidence that a second person might have been buried in the same grave</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/fVjgx628OiqmOX-Czr6RNJei-Js=/420x240/filters:focal(512x290:513x291)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a8/96/a896c997-4029-484b-8f3b-cc8773d34451/9zvebhiml7gewe85rrdy2x-1024-80png.webp" length="148852" type="image/webp" />
+      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/almost-90-years-after-discovering-a-ship-burial-that-rewrote-british-history-archaeologists-returned-to-sutton-hoo-this-time-they-uncovered-a-ghostly-sand-body-180989932/</guid>
+      <pubDate>Tue, 24 Nov 2026 12:15:00 +0000</pubDate>
+    </item>    <item>
+      <title>European Commission confirms personal data stolen in AI-assisted cyberattack</title>
+      <link>https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834</link>
+      <description>
+        <![CDATA[EU Academy names and email addresses exposed, with users warned via website notice rather than contacted directly]]>
+      </description>
+      <source:markdown>EU Academy names and email addresses exposed, with users warned via website notice rather than contacted directly</source:markdown>
+      <dc:creator>Carly Page</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311112&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311834</guid>
+      <category>cyber-crime</category>
+      <pubDate>Tue, 24 Nov 2026 11:32:41 +0000</pubDate>
+    </item>    <item>
+      <title>BepiColombo takes the long way around Mercury after software glitch</title>
+      <link>https://www.theregister.com/science/2026/11/24/bepicolombo-takes-the-long-way-around-mercury-after-software-glitch/5311825</link>
+      <description>
+        <![CDATA[Shortened burn leaves probe in a 75-hour orbit, but ESA says December separation remains on schedule]]>
+      </description>
+      <source:markdown>Shortened burn leaves probe in a 75-hour orbit, but ESA says December separation remains on schedule</source:markdown>
+      <dc:creator>Richard Speed</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=1685901&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311825</guid>
+      <category>science</category>
+      <pubDate>Tue, 24 Nov 2026 11:06:52 +0000</pubDate>
+    </item>    <item>
+      <title>InferNode gives Bell Labs&#39; Inferno OS a 64-bit second wind</title>
+      <link>https://www.theregister.com/os-platforms/2026/11/24/infernode-gives-bell-labs-inferno-os-a-64-bit-second-wind/5311704</link>
+      <description>
+        <![CDATA[Plan 9's successor finds a new role containing AI agents, though its developer says those features are optional]]>
+      </description>
+      <source:markdown>Plan 9&#39;s successor finds a new role containing AI agents, though its developer says those features are optional</source:markdown>
+      <dc:creator>Liam Proven</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311734&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311704</guid>
+      <category>os platforms</category>
+      <pubDate>Tue, 24 Nov 2026 10:09:00 +0000</pubDate>
+    </item>    <item>
+      <title>UK gov invests in defense startup making virtual training ground for AI</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/11/24/uk-gov-invests-in-defense-startup-making-virtual-training-ground-for-ai/5311707</link>
+      <description>
+        <![CDATA[Britain wants sovereign capability to test whether military AI will work before it gets deployed for real]]>
+      </description>
+      <source:markdown>Britain wants sovereign capability to test whether military AI will work before it gets deployed for real</source:markdown>
+      <dc:creator>Dan Robinson</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=260608&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311707</guid>
+      <category>ai and ml</category>
+      <pubDate>Tue, 24 Nov 2026 09:16:00 +0000</pubDate>
+    </item>    <item>
+      <title>Education software supplier&#39;s legacy login system left 355,000 school email addresses exposed</title>
+      <link>https://www.theregister.com/cyber-crime/2026/11/24/education-software-suppliers-legacy-login-system-left-355000-school-email-addresses-exposed/5311622</link>
+      <description>
+        <![CDATA[Have I Been Pwned puts a number on September's attack on Bromcom]]>
+      </description>
+      <source:markdown>Have I Been Pwned puts a number on September&#39;s attack on Bromcom</source:markdown>
+      <dc:creator>Carly Page</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5303385&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311622</guid>
+      <category>cyber-crime</category>
+      <pubDate>Tue, 24 Nov 2026 08:37:00 +0000</pubDate>
+    </item>    <item>
+      <title>Wild turkeys are in peril again — can researchers save them?</title>
+      <link>https://www.npr.org/2026/11/24/nx-s1-6042518/thanksgiving-american-wild-turkey-science</link>
+      <description>
+        <![CDATA[As a teen, <a href="https://wildturkeylab.com/about/"target="_blank"   >Mike Chamberlain</a> spent all his free time hunting turkeys. Now, his job is researching everything about them – the birds’ behavior, their genetics and more. And for the past decade, he’s focused on their concerning decline in the American southeast. Today on the show, Emily chats with Mike about what could be driving the loss of turkey territory – and what conservationists – including hunters – are doing about it. <br/><br/><em>Interested in more conservation science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>As a teen, [Mike Chamberlain](https://wildturkeylab.com/about/) spent all his free time hunting turkeys. Now, his job is researching everything about them – the birds’ behavior, their genetics and more. And for the past decade, he’s focused on their concerning decline in the American southeast. Today on the show, Emily chats with Mike about what could be driving the loss of turkey territory – and what conservationists – including hunters – are doing about it.
+
+_Interested in more conservation science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/61f84333-b405-483b-a331-15d1c2df8c7d/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=61f84333-b405-483b-a331-15d1c2df8c7d&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-6042518&#38;p=510351&#38;d=901&#38;size=14420472" length="14420472" type="audio/mpeg" />
+      <guid isPermaLink="false">cid://929f985c-ffb1-4d57-a026-ef6e375919e2</guid>
+      <pubDate>Tue, 24 Nov 2026 08:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Orgs that leak data &#39;prioritize corporate interests over customers&#39; says Have I Been Pwned’s Troy Hunt</title>
       <link>https://www.theregister.com/security/2026/11/24/orgs-that-leak-data-prioritize-corporate-interests-over-customers-says-have-i-been-pwneds-troy-hunt/5311802</link>
       <description>
         <![CDATA[Leakers move through denial, bargaining, delay, legal threats, then claiming Hunt is the real villain]]>
@@ -205,6 +341,23 @@
       <category>security</category>
       <pubDate>Mon, 23 Nov 2026 17:01:00 +0000</pubDate>
     </item>    <item>
+      <title>Why We Need a Revolutionary Phone Now: The Librem 5 v2</title>
+      <link>https://puri.sm/posts/why-we-need-a-revolutionary-phone-now-the-librem-5-v2/</link>
+      <description>
+        <![CDATA[<p>Recent mobile security flaws, Android’s update gaps, and new app-verification rules show why user control matters. Meet the Purism Librem 5 v2.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/why-we-need-a-revolutionary-phone-now-the-librem-5-v2/">Why We Need a Revolutionary Phone Now: The Librem 5 v2</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>Recent mobile security flaws, Android’s update gaps, and new app-verification rules show why user control matters. Meet the Purism Librem 5 v2.
+
+The post [Why We Need a Revolutionary Phone Now: The Librem 5 v2](https://puri.sm/posts/why-we-need-a-revolutionary-phone-now-the-librem-5-v2/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+      <dc:creator>Purism</dc:creator>
+      <guid isPermaLink="false">cid://https://puri.sm/?p=87366</guid>
+      <category>Librem 5 v2</category>
+      <category>Privacy</category>
+      <category>PureOS</category>
+      <category>Security</category>
+      <pubDate>Mon, 23 Nov 2026 17:00:48 +0000</pubDate>
+    </item>    <item>
       <title>Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season</title>
       <link>https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/</link>
       <description>
@@ -296,6 +449,16 @@ The post [The Incredible, Elegant DNA Repair System Makes Gene Editing Work](htt
       <category>cyber-crime</category>
       <pubDate>Mon, 23 Nov 2026 15:09:00 +0000</pubDate>
     </item>    <item>
+      <title>These Endangered Snakes Are Some of the Most Beautiful in North America. Here&#39;s How Conservationists Are Trying to Save Them</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-endangered-snakes-are-some-of-the-most-beautiful-in-north-america-heres-how-conservationists-are-trying-to-save-them-180989916/</link>
+      <description>
+        <![CDATA[Fewer than 2,000 San Francisco garter snakes are estimated to live in their native home of two California counties. So, experts are raising some babies at the San Francisco Zoo to give them a head start before releasing the creatures into the wild]]>
+      </description>
+      <source:markdown>Fewer than 2,000 San Francisco garter snakes are estimated to live in their native home of two California counties. So, experts are raising some babies at the San Francisco Zoo to give them a head start before releasing the creatures into the wild</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/R3cyVq9wz692uZUls8z7-Wyj-CA=/420x240/filters:focal(450x300:451x301)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/92/e8/92e84c39-4863-4021-b030-d99aaf9a45b4/zoo-born-san-francisco-garter-snake-edited.png" length="1289471" type="image/png" />
+      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/these-endangered-snakes-are-some-of-the-most-beautiful-in-north-america-heres-how-conservationists-are-trying-to-save-them-180989916/</guid>
+      <pubDate>Mon, 23 Nov 2026 15:00:00 +0000</pubDate>
+    </item>    <item>
       <title>NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution</title>
       <link>https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/</link>
       <description>
@@ -312,16 +475,6 @@ The post [The Incredible, Elegant DNA Repair System Makes Gene Editing Work](htt
       <category>Supernova Remnants</category>
       <category>Supernovae</category>
       <category>The Universe</category>
-      <pubDate>Mon, 23 Nov 2026 15:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>These Endangered Snakes Are Some of the Most Beautiful in North America. Here&#39;s How Conservationists Are Trying to Save Them</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-endangered-snakes-are-some-of-the-most-beautiful-in-north-america-heres-how-conservationists-are-trying-to-save-them-180989916/</link>
-      <description>
-        <![CDATA[Fewer than 2,000 San Francisco garter snakes are estimated to live in their native home of two California counties. So, experts are raising some babies at the San Francisco Zoo to give them a head start before releasing the creatures into the wild]]>
-      </description>
-      <source:markdown>Fewer than 2,000 San Francisco garter snakes are estimated to live in their native home of two California counties. So, experts are raising some babies at the San Francisco Zoo to give them a head start before releasing the creatures into the wild</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/R3cyVq9wz692uZUls8z7-Wyj-CA=/420x240/filters:focal(450x300:451x301)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/92/e8/92e84c39-4863-4021-b030-d99aaf9a45b4/zoo-born-san-francisco-garter-snake-edited.png" length="1289471" type="image/png" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/these-endangered-snakes-are-some-of-the-most-beautiful-in-north-america-heres-how-conservationists-are-trying-to-save-them-180989916/</guid>
       <pubDate>Mon, 23 Nov 2026 15:00:00 +0000</pubDate>
     </item>    <item>
       <title>NixOS bring-up on an Alibaba RISC-V board</title>

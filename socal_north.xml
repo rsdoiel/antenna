@@ -5,10 +5,28 @@
     <title><![CDATA[SoCal North]]></title>
     <description><![CDATA[News and posts related to the greater North Los Angeles and adjacent counties.]]></description>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>23 Nov 26 23:19 -0800</lastBuildDate>
+    <lastBuildDate>24 Nov 26 06:30 -0800</lastBuildDate>
     <generator>antenna/0.2.0</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Judge sanctions outgoing LA city attorney, orders forensic search of her devices</title>
+      <link>https://laist.com/news/criminal-justice/la-city-attorney-hydee-feldstein-soto-sanctions-device-search</link>
+      <description>
+        <![CDATA[A fired prosecutor has sued, saying Hydee Feldstein Soto punished her for speaking up against wrongdoing. A judge recently found the city's top lawyer dodged a court order.]]>
+      </description>
+      <source:markdown>A fired prosecutor has sued, saying Hydee Feldstein Soto punished her for speaking up against wrongdoing. A judge recently found the city&#39;s top lawyer dodged a court order.</source:markdown>
+      <guid isPermaLink="false">cid://urn:uuid:000001a2-0a79-dc1f-a9e6-7ff9346a0000</guid>
+      <pubDate>Tue, 24 Nov 2026 13:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>This neon green barge is part of how California is cutting port pollution. Will Congress interfere?</title>
+      <link>https://laist.com/news/climate-environment/la-long-beach-port-pollution-capture-at-berth-clean-ship-waiver-congress</link>
+      <description>
+        <![CDATA[Stax Engineering boats can suck nitrogen oxide directly out of ships' smokestacks, a key piece of the puzzle for reducing smog generated at the ports of L.A. and Long Beach.]]>
+      </description>
+      <source:markdown>Stax Engineering boats can suck nitrogen oxide directly out of ships&#39; smokestacks, a key piece of the puzzle for reducing smog generated at the ports of L.A. and Long Beach.</source:markdown>
+      <guid isPermaLink="false">cid://urn:uuid:000001a1-fade-d469-a5a3-feff50b00001</guid>
+      <pubDate>Tue, 24 Nov 2026 13:00:00 +0000</pubDate>
+    </item>    <item>
       <title>HOROSCOPE</title>
       <link>https://sanfernandosun.com/2026/11/23/horoscope-291/</link>
       <description>
@@ -1210,6 +1228,15 @@ The post [Our 28 Favorite Tacos Al Pastor, Adobada, and Árabes in Los Angeles](
       <category>News</category>
       <pubDate>Mon, 16 Nov 2026 21:51:00 +0000</pubDate>
     </item>    <item>
+      <title>Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge</title>
+      <link>https://laist.com/news/climate-environment/study-estimates-magnitude-of-us-data-center-pollution-as-climate-talks-unveil-clean-ai-pledge</link>
+      <description>
+        <![CDATA[The 400 largest data centers in the United States put more heat-trapping gas in the air in one year than the entire nation of Denmark.]]>
+      </description>
+      <source:markdown>The 400 largest data centers in the United States put more heat-trapping gas in the air in one year than the entire nation of Denmark.</source:markdown>
+      <guid isPermaLink="false">cid://urn:uuid:000001a1-e5e4-d29b-a3bd-ffef7b500001</guid>
+      <pubDate>Mon, 16 Nov 2026 21:00:00 +0000</pubDate>
+    </item>    <item>
       <title>Light Up Main Street Know Before You Go!</title>
       <link>https://santaclarita.gov/blog/2026/11/16/light-up-main-street-know-before-you-go/</link>
       <description>
@@ -1277,15 +1304,6 @@ The post [In the Age of A.I. Slop, a Montebello Metalhead Still Proudly Draws Al
       <guid isPermaLink="false">cid://urn:uuid:000001a1-e543-dc1f-a9e5-f5f39b440004</guid>
       <pubDate>Mon, 16 Nov 2026 18:00:00 +0000</pubDate>
     </item>    <item>
-      <title>For years, LA County has been plagued by hospice fraud. Here&#39;s how typical hospice schemes work</title>
-      <link>https://laist.com/news/criminal-justice/for-years-la-county-has-been-plagued-by-hospice-fraud-heres-how-typical-hospice-schemes-work</link>
-      <description>
-        <![CDATA[Prosecutors and advocates say recruiters for fraudulent hospice companies offer older people cash, gift cards or free supplies to entice them to share Medicare ID numbers.]]>
-      </description>
-      <source:markdown>Prosecutors and advocates say recruiters for fraudulent hospice companies offer older people cash, gift cards or free supplies to entice them to share Medicare ID numbers.</source:markdown>
-      <guid isPermaLink="false">cid://urn:uuid:000001a1-c681-d37e-afbd-dfcdc5860000</guid>
-      <pubDate>Mon, 16 Nov 2026 13:00:00 +0000</pubDate>
-    </item>    <item>
       <title>What Eaton Fire survivors need to know as Edison payout and lawsuit deadlines approach</title>
       <link>https://laist.com/news/climate-environment/eaton-fire-survivors-edison-payout-and-lawsuit-deadlines</link>
       <description>
@@ -1293,6 +1311,15 @@ The post [In the Age of A.I. Slop, a Montebello Metalhead Still Proudly Draws Al
       </description>
       <source:markdown>Here&#39;s what more than two dozen survivors told LAist about their offers and how they&#39;re thinking about the SoCal Edison Wildfire Recovery Compensation Program.</source:markdown>
       <guid isPermaLink="false">cid://urn:uuid:000001a1-d712-dbfb-a5af-d73b2d790005</guid>
+      <pubDate>Mon, 16 Nov 2026 13:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>For years, LA County has been plagued by hospice fraud. Here&#39;s how typical hospice schemes work</title>
+      <link>https://laist.com/news/criminal-justice/for-years-la-county-has-been-plagued-by-hospice-fraud-heres-how-typical-hospice-schemes-work</link>
+      <description>
+        <![CDATA[Prosecutors and advocates say recruiters for fraudulent hospice companies offer older people cash, gift cards or free supplies to entice them to share Medicare ID numbers.]]>
+      </description>
+      <source:markdown>Prosecutors and advocates say recruiters for fraudulent hospice companies offer older people cash, gift cards or free supplies to entice them to share Medicare ID numbers.</source:markdown>
+      <guid isPermaLink="false">cid://urn:uuid:000001a1-c681-d37e-afbd-dfcdc5860000</guid>
       <pubDate>Mon, 16 Nov 2026 13:00:00 +0000</pubDate>
     </item>    <item>
       <title>What happens to Nithya Raman&#39;s LA City Council seat once she&#39;s sworn in as mayor?</title>

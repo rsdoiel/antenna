@@ -1,14 +1,66 @@
 ---
 title: "Healthy Eats"
 description: "Healthy eats and good eats, with recipes, cooking and food news."
-pubDate: Tue, 24 Nov 2026 02:13:23 GMT
+pubDate: Tue, 24 Nov 2026 13:01:37 GMT
 aggregateOf: "food.md"
-dateModified: Tue, 24 Nov 2026 07:44:06 GMT
-itemCount: 283
+dateModified: Tue, 24 Nov 2026 14:46:56 GMT
+itemCount: 290
 generator: antenna/0.2.0
 ---
 
 # Healthy Eats
+
+## [The Prairie Fire Pepper Planting Guide](https://pepperscale.com/prairie-fire-pepper-planting/)
+
+via Pepper Scale · 2026-11-24
+
+How to grow Prairie Fire peppers: when to plant where you live, starting seeds, spacing, pots and windowsills, watering, when to pick these colorful little peppers, and common problems.
+
+## [Free Drinks and a Boycott Truck: Starbucks Workers Try a New Playbook](https://freshcup.com/free-drinks-and-a-boycott-truck-starbucks-workers-try-a-new-playbook/)
+
+via The Fresh Cup · 2026-11-24, updated 2026-11-23
+
+Instead of strikes alone, Starbucks Workers United is asking customers to boycott, touring a coffee truck, and rallying at more than 40 campuses.
+
+The post [Free Drinks and a Boycott Truck: Starbucks Workers Try a New Playbook](https://freshcup.com/free-drinks-and-a-boycott-truck-starbucks-workers-try-a-new-playbook/) appeared first on [Fresh Cup](https://freshcup.com).
+
+## [Children Of A Lesser Pod: Reddit Blows The Whistle On Alleged Nespresso Shrinkflation](https://sprudge.com/children-of-a-lesser-pod-reddit-blows-the-whistle-on-alleged-nespresso-shrinkflation-1640027.html)
+
+via The Sprudge · 2026-11-24, updated 2026-11-23
+
+**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Nespresso is maybe putting less coffee in their pods, and people are definitely mad.**
+
+## [USDA Cuts Colombia Coffee Export Forecast by 760,000 Bags](https://dailycoffeenews.com/2026/11/24/usda-cuts-colombia-coffee-export-forecast-by-760000-bags/)
+
+via Daily Coffee News · 2026-11-24
+
+![Colombia coffee market report 2026:27](https://dailycoffeenews.com/wp-content/uploads/2026/11/Colombia-coffee-market-report-202627-620x400.png)
+
+Colombia’s coffee production is forecast to increase by 5.9% to 13.4 million 60-kilogram bags in market year 2026/27, but the country’s export forecast has been cut by 760,000 bags from...
+
+## [Suqaar Digaag (Chicken and Vegetable Sauté)](https://www.bonappetit.com/recipe/suqaar-digaag-chicken-and-vegetable-saute)
+
+via Bon Appetet · 2026-11-24
+
+This chicken suqaar is cooked covered to keep the meat juicy and moist, and features xawaash and bright peppers.
+
+## [Excellent Boiled Potatoes](https://www.bonappetit.com/recipe/pride-and-prejudice-excellent-boiled-potatoes)
+
+via Bon Appetet · 2026-11-24
+
+Never in your life have you had such an exemplary vegetable.
+
+## [Thanksgiving Dessert Recipes](https://www.closetcooking.com/thanksgiving-desserts/)
+
+via Closet Cooking · 2026-11-24
+
+![](https://www.closetcooking.com/wp-content/uploads/2026/11/Thanksgiving-Dessert-Recipes.jpg)
+
+The best dessert recipes for an amazing Thanksgiving including pies, cakes, tarts, chocolate, pumpkin, apples, etc. The turkey may be the star of the show but it’s definitely the dessert that gets all the attention! I often like to go all out with the dessert and with falls harvest around there are plenty of options....
+
+[Read On →](https://www.closetcooking.com/thanksgiving-desserts/)
+
+The post [Thanksgiving Dessert Recipes](https://www.closetcooking.com/thanksgiving-desserts/) appeared first on [Closet Cooking](https://www.closetcooking.com).
 
 ## [Best Black Friday Nespresso Deals: Save 35-40% on Almost Everything (2026)](https://www.bonappetit.com/story/nespresso-black-friday)
 
@@ -18,7 +70,7 @@ Take advantage of early Black Friday sale pricing to get a great deal on a new V
 
 ## [The Biquinho Pepper Planting Guide](https://pepperscale.com/biquinho-pepper-planting/)
 
-via Pepper Scale · 2026-11-23
+via Pepper Scale · 2026-11-23, updated 2026-11-24
 
 How to grow biquinho peppers: when to plant where you live, starting seeds, spacing, containers, watering, when to pick these little Brazilian peppers, and common problems.
 
@@ -98,7 +150,7 @@ The chef and author gives us a behind-the-scenes peek at her first New York City
 
 ## [Meta-Analysis Links Coffee to Lower Odds of Depression](https://dailycoffeenews.com/2026/11/23/meta-analysis-links-coffee-to-lower-odds-of-depression/)
 
-via Daily Coffee News · 2026-11-23
+via Daily Coffee News · 2026-11-23, updated 2026-11-24
 
 ![Coffee-and-depression](https://dailycoffeenews.com/wp-content/uploads/2026/10/Coffee-and-depression-1-620x386.jpg)
 
@@ -106,7 +158,7 @@ Coffee stood out as one of the few beverage categories associated with lower odd
 
 ## [Investment Firms Acquiring Parent Company of Italy’s Evoca Group](https://dailycoffeenews.com/2026/11/23/investment-firms-acquiring-parent-company-of-italys-evoca-group/)
 
-via Daily Coffee News · 2026-11-23
+via Daily Coffee News · 2026-11-23, updated 2026-11-24
 
 ![Gaggia espresso machine](https://dailycoffeenews.com/wp-content/uploads/2026/11/Gaggia-espresso-machine-620x414.jpg)
 
@@ -124,7 +176,7 @@ The post [White Bean Soup](https://www.chilipeppermadness.com/recipes/white-bean
 
 ## [Design Details: The Organic Forms of X Coffee Tools by Pose Bureau](https://dailycoffeenews.com/2026/11/23/design-details-the-organic-forms-of-x-coffee-tools-by-pose-bureau/)
 
-via Daily Coffee News · 2026-11-23
+via Daily Coffee News · 2026-11-23, updated 2026-11-24
 
 ![Pose Bureau X Coffee Tools pourover stand](https://dailycoffeenews.com/wp-content/uploads/2026/11/Pose-Bureau-X-Coffee-Tools-pourover-stand-1-620x389.jpg)
 
@@ -140,7 +192,7 @@ The post [Coffee News Club: November 23rd](https://freshcup.com/coffee-news-club
 
 ## [Jalapeno and Cheddar Cornbread](https://www.closetcooking.com/jalapeno-and-cheddar-cornbread/)
 
-via Closet Cooking · 2026-11-23, updated 2026-11-22
+via Closet Cooking · 2026-11-23, updated 2026-11-24
 
 ![](https://www.closetcooking.com/wp-content/uploads/2026/11/Jalapeno-and-Cheddar-Cornbread-1200-4784.jpg)
 
@@ -164,7 +216,7 @@ via The Sprudge · 2026-11-22, updated 2026-11-23
 
 ## [Thanksgiving Side Dish Recipes](https://www.closetcooking.com/thanksgiving-side-dishes/)
 
-via Closet Cooking · 2026-11-22
+via Closet Cooking · 2026-11-22, updated 2026-11-24
 
 ![](https://www.closetcooking.com/wp-content/uploads/2026/11/Thanksgiving-Side-Dish-Recipes.jpg)
 
@@ -192,7 +244,7 @@ These fall-forward cookies are flavored with brown butter, pumpkin, cinnamon and
 
 ## [Thanksgiving Main Course Recipes](https://www.closetcooking.com/thanksgiving-mains-turkey/)
 
-via Closet Cooking · 2026-11-21, updated 2026-11-22
+via Closet Cooking · 2026-11-21, updated 2026-11-24
 
 ![](https://www.closetcooking.com/wp-content/uploads/2026/11/Thanksgiving-Main-Course-Recipes.jpg)
 
@@ -292,7 +344,7 @@ Dirty rice has met its noodle match with our Louisiana-style dirty spaghetti.
 
 ## [Weekly Coffee News: Rocket Showroom in Geneva + New Labor Abuse Case](https://dailycoffeenews.com/2026/11/20/weekly-coffee-news-rocket-showroom-in-geneva-new-labor-abuse-case/)
 
-via Daily Coffee News · 2026-11-20, updated 2026-11-23
+via Daily Coffee News · 2026-11-20, updated 2026-11-24
 
 ![Rocket Espresso](https://dailycoffeenews.com/wp-content/uploads/2026/11/Rocket-Espresso-620x414.jpg)
 
@@ -390,7 +442,7 @@ The post [HexClad Bakeware Review: This Set Is So Sturdy and Nonstick, I’m Dit
 
 ## [The Padrón Pepper Planting Guide](https://pepperscale.com/padron-pepper-planting/)
 
-via Pepper Scale · 2026-11-19, updated 2026-11-23
+via Pepper Scale · 2026-11-19, updated 2026-11-24
 
 When to start Padrón pepper seeds, when to plant them out, and when to pick them for blistering, with a zip code planner built on NOAA frost data.
 
@@ -408,7 +460,7 @@ At Ursa in Tucson, the Sonoran Desert is the pantry and inspiration for inventiv
 
 ## [Brazil’s Record Coffee Harvest Comes with Quality and Stock Concerns](https://dailycoffeenews.com/2026/11/19/brazils-record-coffee-harvest-comes-with-quality-and-stock-concerns/)
 
-via Daily Coffee News · 2026-11-19, updated 2026-11-23
+via Daily Coffee News · 2026-11-19, updated 2026-11-24
 
 ![Brazil Coffee Market report](https://dailycoffeenews.com/wp-content/uploads/2026/11/Brazil-Coffee-Market-report-620x400.png)
 
@@ -416,7 +468,7 @@ Brazil’s completed 2026/27 coffee harvest is now estimated at a record-high 72
 
 ## [Three Questions with “The Little Bean That Grew to Brew” Author and Artist Wendra Lynne](https://dailycoffeenews.com/2026/11/19/three-questions-with-the-little-bean-that-grew-to-brew-author-and-artist-wendra-lynne/)
 
-via Daily Coffee News · 2026-11-19, updated 2026-11-23
+via Daily Coffee News · 2026-11-19, updated 2026-11-24
 
 ![The Little Bean That Grew to Brew Wendra](https://dailycoffeenews.com/wp-content/uploads/2026/11/The-Little-Bean-That-Grew-to-Brew-Wendra-1-620x438.jpeg)
 
@@ -462,7 +514,7 @@ The post [TASTE OF HOME 2026 VIRTUAL COOKIE EXCHANGE PROMOTION (# 353) Terms and
 
 ## [Crispy Parmesan Roast Sweet Potatoes](https://www.closetcooking.com/crispy-parmesan-roast-sweet-potatoes/)
 
-via Closet Cooking · 2026-11-19, updated 2026-11-22
+via Closet Cooking · 2026-11-19, updated 2026-11-24
 
 ![](https://www.closetcooking.com/wp-content/uploads/2026/11/Crispy-Parmesan-Roast-Sweet-Potatoes-1200-5789.jpg)
 
@@ -546,7 +598,7 @@ via The Sprudge · 2026-11-18, updated 2026-11-23
 
 ## [FDA Revokes Some Methylene Chloride Use, But Decaf Decision Still Pending](https://dailycoffeenews.com/2026/11/18/fda-revokes-some-methylene-chloride-use-but-decaf-decision-still-pending/)
 
-via Daily Coffee News · 2026-11-18, updated 2026-11-23
+via Daily Coffee News · 2026-11-18, updated 2026-11-24
 
 ![decaf coffee](https://dailycoffeenews.com/wp-content/uploads/2026/11/decaf-coffee-620x414.jpg)
 
@@ -554,7 +606,7 @@ The U.S. Food and Drug Administration (FDA) is revoking several authorizations f
 
 ## [Fair Trade USA Raising Minimum Coffee Prices to New Fairtrade Levels](https://dailycoffeenews.com/2026/11/18/fair-trade-usa-raising-minimum-coffee-prices-to-new-fairtrade-levels/)
 
-via Daily Coffee News · 2026-11-18, updated 2026-11-23
+via Daily Coffee News · 2026-11-18, updated 2026-11-24
 
 ![green coffee](https://dailycoffeenews.com/wp-content/uploads/2026/11/green-coffee-620x446.jpg)
 
@@ -570,7 +622,7 @@ The post [The Smile Test Will Tell You if Your Hospitality Training Works](https
 
 ## [Roasting Partner Launches an Operating System for Roasters](https://dailycoffeenews.com/2026/11/18/roasting-partner-launches-an-operating-system-for-roasters/)
 
-via Daily Coffee News · 2026-11-18, updated 2026-11-23
+via Daily Coffee News · 2026-11-18, updated 2026-11-24
 
 ![Roasting Partner 4](https://dailycoffeenews.com/wp-content/uploads/2026/11/Roasting-Partner-4-620x426.jpeg)
 
@@ -616,7 +668,7 @@ Top chefs, Test Kitchen editors, and passionate home cooks gathered for an unfor
 
 ## [The World’s Chili Capitals: The Best Cities For Spicy Food](https://pepperscale.com/worlds-best-cities-for-spicy-food/)
 
-via Pepper Scale · 2026-11-17, updated 2026-11-23
+via Pepper Scale · 2026-11-17, updated 2026-11-24
 
 The best cities in the world for spicy food, from Chengdu to Nabeul to Espelette, sorted by local peppers, protected names, history, heritage listings and festivals.
 
@@ -694,7 +746,7 @@ San Francisco-based roaster-retailer Ritual Coffee opened a new cafe in the city
 
 ## [America’s Chili Capitals: The Best US Cities For Spicy Food](https://pepperscale.com/best-us-cities-for-spicy-food/)
 
-via Pepper Scale · 2026-11-17, updated 2026-11-23
+via Pepper Scale · 2026-11-17, updated 2026-11-24
 
 The best US cities for spicy food, sorted by the things we could check: a local pepper, how far back the tradition goes, official recognition, festivals and search data.
 
@@ -848,7 +900,7 @@ Air fryer brussels sprouts, adult mac and cheese, steamed sweet potatoes, and mo
 
 ## [Turkey Stuffing Meatballs and Gravy](https://www.closetcooking.com/turkey-stuffing-meatballs-and-gravy/)
 
-via Closet Cooking · 2026-11-16, updated 2026-11-22
+via Closet Cooking · 2026-11-16, updated 2026-11-24
 
 ![](https://www.closetcooking.com/wp-content/uploads/2026/11/Turkey-Stuffing-Meatballs-and-Gravy-1200-6062.jpg)
 
@@ -880,7 +932,7 @@ Like one-pan schmaltzy chicken and weeknight pasta with savory crumbs.
 
 ## [Thanksgiving Appetizer Recipes](https://www.closetcooking.com/thanksgiving-appetizers/)
 
-via Closet Cooking · 2026-11-15, updated 2026-11-22
+via Closet Cooking · 2026-11-15, updated 2026-11-24
 
 ![](https://www.closetcooking.com/wp-content/uploads/2026/11/Thanksgiving-Appetizer-Recipes.jpg)
 
@@ -1014,7 +1066,7 @@ The post [Seeds of Change in Colombia’s Caldas Department](https://freshcup.co
 
 ## [The Fresno Pepper Planting Guide](https://pepperscale.com/fresno-pepper-planting/)
 
-via Pepper Scale · 2026-11-13, updated 2026-11-23
+via Pepper Scale · 2026-11-13, updated 2026-11-24
 
 How to grow Fresno peppers: when to start the seeds, when to plant out, spacing, containers, water and feeding, and when to pick, with a zip code planner and a U.S. season map.
 
@@ -1130,7 +1182,7 @@ We’ve got cheesy brussels sprouts, gravy-braised turkey, and a stunning cranbe
 
 ## [Korean Braised Potatoes (Gamja Jorim)](https://www.closetcooking.com/korean-braised-potatoes-gamja-jorim/)
 
-via Closet Cooking · 2026-11-12, updated 2026-11-22
+via Closet Cooking · 2026-11-12, updated 2026-11-24
 
 ![](https://www.closetcooking.com/wp-content/uploads/2026/11/Korean-Braised-Potatoes-Gamja-Jorim-1200-0906.jpg)
 
@@ -1142,7 +1194,7 @@ The post [Korean Braised Potatoes (Gamja Jorim)](https://www.closetcooking.com/k
 
 ## [The Trinidad Moruga Scorpion Planting Guide](https://pepperscale.com/trinidad-moruga-scorpion-planting/)
 
-via Pepper Scale · 2026-11-12, updated 2026-11-23
+via Pepper Scale · 2026-11-12, updated 2026-11-24
 
 When to start Trinidad Moruga Scorpion seeds, how to get them to sprout, when to plant out, and how to water, feed, pollinate and pick this slow super-hot, with a zip code planner.
 
@@ -1474,7 +1526,7 @@ A bagna cauda-inspired pasta for the brave.
 
 ## [Chicken and Wild Rice Casserole](https://www.closetcooking.com/chicken-and-wild-rice-casserole/)
 
-via Closet Cooking · 2026-11-09, updated 2026-11-22
+via Closet Cooking · 2026-11-09, updated 2026-11-24
 
 ![](https://www.closetcooking.com/wp-content/uploads/2026/11/Chicken-and-Wild-Rice-Casserole-1200-0636.jpg)
 
@@ -1486,7 +1538,7 @@ The post [Chicken and Wild Rice Casserole](https://www.closetcooking.com/chicken
 
 ## [The Chinese 5-Color Pepper Planting Guide](https://pepperscale.com/chinese-5-color-pepper-planting/)
 
-via Pepper Scale · 2026-11-08, updated 2026-11-23
+via Pepper Scale · 2026-11-08, updated 2026-11-24
 
 When to start Chinese 5-color pepper seeds, when to plant them out, how to water, feed and pick them, and how to grow one in a pot, with a zip code planner.
 
@@ -1510,7 +1562,7 @@ Save this three-ingredient marinade for nights when you just can’t.
 
 ## [Thanksgiving Breakfast Recipes](https://www.closetcooking.com/thanksgiving-breakfast-recipes/)
 
-via Closet Cooking · 2026-11-08, updated 2026-11-22
+via Closet Cooking · 2026-11-08, updated 2026-11-24
 
 ![](https://www.closetcooking.com/wp-content/uploads/2026/11/Thanksgiving-Breakfast-Recipes.jpg)
 
@@ -1522,7 +1574,7 @@ The post [Thanksgiving Breakfast Recipes](https://www.closetcooking.com/thanksgi
 
 ## [The Red Savina Habanero Planting Guide](https://pepperscale.com/red-savina-habanero-planting/)
 
-via Pepper Scale · 2026-11-07, updated 2026-11-23
+via Pepper Scale · 2026-11-07, updated 2026-11-24
 
 When to start Red Savina habanero seeds, when to plant them out, how to water, feed and pick them, and how to grow one in a pot, with a zip code planner.
 
@@ -1798,7 +1850,7 @@ The post [The 10 Best Aldi Finds of November Include the Cutest Stocking Stuffer
 
 ## [The Bulgarian Carrot Pepper Planting Guide](https://pepperscale.com/bulgarian-carrot-pepper-planting/)
 
-via Pepper Scale · 2026-11-05, updated 2026-11-23
+via Pepper Scale · 2026-11-05, updated 2026-11-24
 
 When to start Bulgarian carrot pepper seeds, when to plant them out, how to water, feed and pick them, and whether they'll ripen where you live, with a zip code planner.
 

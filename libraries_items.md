@@ -1,14 +1,22 @@
 ---
 title: "GLAM"
 description: "Libraries, archives and museums."
-pubDate: Mon, 23 Nov 2026 20:20:52 GMT
+pubDate: Tue, 24 Nov 2026 14:00:00 GMT
 aggregateOf: "libraries.md"
-dateModified: Tue, 24 Nov 2026 06:47:30 GMT
-itemCount: 68
+dateModified: Tue, 24 Nov 2026 14:47:55 GMT
+itemCount: 69
 generator: antenna/0.2.0
 ---
 
 # GLAM
+
+## [How a Public Radio Project Turned the Public Domain Into a Creative Playground](https://blog.archive.org/2026/11/24/public-song-project/)
+
+via Internet Archive Blog · 2026-11-24, updated 2026-11-23
+
+Simon Close says The Public Song Project invites people to think of the public domain as a free archive. It’s a place where creative works from the past can be \[…\]
+
+The post [How a Public Radio Project Turned the Public Domain Into a Creative Playground](https://blog.archive.org/2026/11/24/public-song-project/) first appeared on [Internet Archive Blogs](https://blog.archive.org).
 
 ## [ARL Daily Intelligence (November 23–24)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-november-23-24/)
 
@@ -44,7 +52,7 @@ The post [Research Tools: University of Richmond Distant Viewing Lab Releases Da
 
 ## [Shaping digital horizons together: IOI at UbuntuNet CONNECT 2026 in Malawi](https://investinopen.org/blog/shaping-digital-horizons-together-ioi-at-ubuntunet-connect-2026-in-malawi/)
 
-via Invest In Open · 2026-11-20, updated 2026-11-23
+via Invest In Open · 2026-11-20, updated 2026-11-24
 
 A recap of IOI's participation at UbuntuNet CONNECT 2026 in Lilongwe, Malawi
 
@@ -385,7 +393,7 @@ From the seals of Prussian archives to the uncertain afterlife of digital trust
 
 ## [How a Town’s Forgotten History Helped Protect Its Drinking Water](https://blog.archive.org/2026/11/17/the-falmouth-story/)
 
-via Internet Archive Blog · 2026-11-17, updated 2026-11-16
+via Internet Archive Blog · 2026-11-17, updated 2026-11-23
 
 When word started to circulate in Falmouth, Massachusetts, that the town had proposed housing development near Long Pond, the town’s main water source, Eric Hryniewicz said he was confused. “It \[…\]
 
@@ -433,7 +441,7 @@ The post [Guest Post — Beyond the Download: What Counts as Scholarly Content U
 
 ## [Defter helps manage your Zotero references](https://blog.front-matter.de/posts/defter-helps-manage-your-zotero-references/)
 
-via Front Matter Blog · 2026-11-16, updated 2026-11-23
+via Front Matter Blog · 2026-11-16, updated 2026-11-24
 
 Today I am announcing [defter](https://crates.io/crates/defter), a new Zotero sync and file storage server that complements [Zotero Storage](https://www.zotero.org/storage) with a hosted Zotero library using SQLite and S3-compatible object storage.
 
@@ -493,7 +501,7 @@ The post [The Anatomy of “Harm”: An Interview with IFRRO CEO Anita Huss-Eker
 
 ## [Annual Celebration 2026: Internet Archive Staff and Friends Showcase Latest Developments](https://blog.archive.org/2026/11/12/annual-celebration-2026-internet-archive-staff-and-friends-showcase-latest-developments/)
 
-via Internet Archive Blog · 2026-11-12, updated 2026-11-16
+via Internet Archive Blog · 2026-11-12, updated 2026-11-23
 
 The theme for this year’s annual celebration was “Democracy’s Library: Tools for Participation”: putting a spotlight on the ways people can use Internet Archive’s tools to participate—from saving and contributing \[…\]
 
@@ -501,7 +509,7 @@ The post [Annual Celebration 2026: Internet Archive Staff and Friends Showcase L
 
 ## [Preserving 30 Years of Salon Journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/)
 
-via Internet Archive Blog · 2026-11-12, updated 2026-11-16
+via Internet Archive Blog · 2026-11-12, updated 2026-11-23
 
 When Salon launched in 1995, the web was still finding its voice. One of the first major publications born on the internet, Salon helped define a new kind of digital \[…\]
 
@@ -577,7 +585,7 @@ The post [2026 AI100 Report Released: (AI Goes Mainstream: The Scaling Era and t
 
 ## [2027 Public Domain Film Contest: The Internet Archive is Looking For Creative Short Films Made By You!](https://blog.archive.org/2026/11/10/2027-public-domain-film-contest/)
 
-via Internet Archive Blog · 2026-11-10, updated 2026-11-16
+via Internet Archive Blog · 2026-11-10, updated 2026-11-23
 
 We invite filmmakers, artists, and creatives of all skill levels and backgrounds to celebrate Public Domain Day, by creating and uploading a short film not exceeding 4 minutes to the \[…\]
 
@@ -669,7 +677,7 @@ The post [On the Road with RADS: Building One Front Door for Data Management and
 
 ## [Rogue Scholar no longer registers concept DOIs for each post](https://blog.front-matter.de/posts/rogue-scholar-no-longer-registers-concept-dois-for-each-post/)
 
-via Front Matter Blog · 2026-11-05, updated 2026-11-23
+via Front Matter Blog · 2026-11-05, updated 2026-11-24
 
 Starting this Monday November 3rd the Rogue Scholar science blog archive stopped registering concept DOIs for new blog posts, i.e. two DOIs for each post.
 

@@ -3,8 +3,8 @@ title: "Urban Farm"
 description: "Home, garden and urban farm blogs and news."
 pubDate: Mon, 23 Nov 2026 23:30:54 GMT
 aggregateOf: "home.md"
-dateModified: Tue, 24 Nov 2026 06:47:30 GMT
-itemCount: 387
+dateModified: Tue, 24 Nov 2026 14:46:41 GMT
+itemCount: 389
 generator: antenna/0.2.0
 ---
 
@@ -117,6 +117,18 @@ When winter settles across Indiana, stink bugs seem to disappear from gardens, t
 [Read more](https://ownyardlife.com/what-most-indiana-homeowners-dont-know-about-stink-bugs-in-winter/#more-69977 "What Most Indiana Homeowners Don’t Know About Stink Bugs in Winter")
 
 The post [What Most Indiana Homeowners Don’t Know About Stink Bugs in Winter](https://ownyardlife.com/what-most-indiana-homeowners-dont-know-about-stink-bugs-in-winter/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [How Kitchen Designer Caren Rideau Is Rebuilding After the Devastating 2025 Wildfires](https://sunset.com/food-wine/caren-rideau-kitchen-design-philosophy)
+
+via Sunset Magazine - Living in the West · 2026-11-23, updated 2026-11-24
+
+After losing her longtime Pacific Palisades showroom in the 2025 fires, kitchen designer, vintner, and author Caren Rideau opens a new chapter.
+
+## [How a Kitchen Designer Makes a Space Work](https://sunset.com/home-garden/design/caren-rideau-kitchen-design-tips)
+
+via Sunset Magazine - Living in the West · 2026-11-23, updated 2026-11-24
+
+Kitchen designer Caren Rideau writes about three kitchens and how she customized each one to the clients’ needs.
 
 ## [Book These Hotels for a Classic Hawaiian Vacation](https://sunset.com/travel/best-hawaii-hotels)
 
