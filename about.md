@@ -11,7 +11,7 @@ authors:
 
 
 
-repository_code: git+https://github.com/rsdoiel/antenna
+repository_code: https://github.com/rsdoiel/antenna
 version: 0.1.1
 license_url: https://www.gnu.org/licenses/agpl-3.0.txt
 
@@ -52,7 +52,7 @@ It is built using [antennaApp](https://github.com/rsdoiel/antennaApp), [SQLite3]
 and either Bash or PowerShell.
 
 - [License](https://www.gnu.org/licenses/agpl-3.0.txt)
-- [Code Repository](git+https://github.com/rsdoiel/antenna)
+- [Code Repository](https://github.com/rsdoiel/antenna)
   - [Issue Tracker](https://github.com/rsdoiel/antenna/issues)
 
 ## Programming languages
