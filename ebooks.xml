@@ -5,10 +5,76 @@
     <title><![CDATA[ebooks.md]]></title>
     <description><![CDATA[New eBook releases.]]></description>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>23 Nov 26 21:03 -0800</lastBuildDate>
-    <generator>antenna/0.1.2</generator>
+    <lastBuildDate>23 Nov 26 22:47 -0800</lastBuildDate>
+    <generator>antenna/0.2.0</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Confessions of Zeno</title>
+      <link>https://standardebooks.org/ebooks/italo-svevo/confessions-of-zeno/beryl-de-zoete</link>
+      <description>
+        <![CDATA[To quit smoking, a man writes his memoirs.]]>
+      </description>
+      <source:markdown>To quit smoking, a man writes his memoirs.</source:markdown>
+      <dc:creator>Italo Svevo</dc:creator>
+      <enclosure url="https://standardebooks.org/ebooks/italo-svevo/confessions-of-zeno/beryl-de-zoete/downloads/italo-svevo_confessions-of-zeno_beryl-de-zoete.epub?source=feed" length="875588" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/italo-svevo/confessions-of-zeno/beryl-de-zoete/downloads/italo-svevo_confessions-of-zeno_beryl-de-zoete_advanced.epub?source=feed" length="861369" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/italo-svevo/confessions-of-zeno/beryl-de-zoete/downloads/italo-svevo_confessions-of-zeno_beryl-de-zoete.kepub.epub?source=feed" length="802783" type="application/kepub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/italo-svevo/confessions-of-zeno/beryl-de-zoete/downloads/italo-svevo_confessions-of-zeno_beryl-de-zoete.azw3?source=feed" length="1062723" type="application/x-mobipocket-ebook" />
+      <enclosure url="https://standardebooks.org/ebooks/italo-svevo/confessions-of-zeno/beryl-de-zoete/text/single-page" length="1007716" type="application/xhtml+xml" />
+      <guid isPermaLink="false">cid://https://standardebooks.org/ebooks/italo-svevo/confessions-of-zeno/beryl-de-zoete</guid>
+      <category>Adultery--Fiction</category>
+      <category>Sisters--Fiction</category>
+      <category>Married people--Fiction</category>
+      <category>Courtship--Fiction</category>
+      <category>Businesspeople--Fiction</category>
+      <category>Triangles (Interpersonal relations)--Fiction</category>
+      <category>Man-woman relationships--Fiction</category>
+      <category>Italian fiction--Translations into English</category>
+      <category>Psychiatrists--Fiction</category>
+      <category>Sexual ethics--Fiction</category>
+      <category>Smoking--Fiction</category>
+      <category>Fiction</category>
+      <pubDate>Fri, 20 Nov 2026 17:17:24 +0000</pubDate>
+    </item>    <item>
+      <title>The Duke of York’s Steps</title>
+      <link>https://standardebooks.org/ebooks/henry-wade/the-duke-of-yorks-steps</link>
+      <description>
+        <![CDATA[After a wealthy banker’s sudden death is ruled to have been from natural causes, his daughter’s suspicions prompt a detective to take a second look at the case.]]>
+      </description>
+      <source:markdown>After a wealthy banker’s sudden death is ruled to have been from natural causes, his daughter’s suspicions prompt a detective to take a second look at the case.</source:markdown>
+      <dc:creator>Henry Wade</dc:creator>
+      <enclosure url="https://standardebooks.org/ebooks/henry-wade/the-duke-of-yorks-steps/downloads/henry-wade_the-duke-of-yorks-steps.epub?source=feed" length="851837" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/henry-wade/the-duke-of-yorks-steps/downloads/henry-wade_the-duke-of-yorks-steps_advanced.epub?source=feed" length="1720959" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/henry-wade/the-duke-of-yorks-steps/downloads/henry-wade_the-duke-of-yorks-steps.kepub.epub?source=feed" length="789056" type="application/kepub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/henry-wade/the-duke-of-yorks-steps/downloads/henry-wade_the-duke-of-yorks-steps.azw3?source=feed" length="922440" type="application/x-mobipocket-ebook" />
+      <enclosure url="https://standardebooks.org/ebooks/henry-wade/the-duke-of-yorks-steps/text/single-page" length="591889" type="application/xhtml+xml" />
+      <guid isPermaLink="false">cid://https://standardebooks.org/ebooks/henry-wade/the-duke-of-yorks-steps</guid>
+      <category>Detective and mystery stories</category>
+      <category>Police--Great Britain--Fiction</category>
+      <category>Mystery</category>
+      <pubDate>Wed, 18 Nov 2026 16:55:53 +0000</pubDate>
+    </item>    <item>
+      <title>A Fighting Man of Mars</title>
+      <link>https://standardebooks.org/ebooks/edgar-rice-burroughs/a-fighting-man-of-mars</link>
+      <description>
+        <![CDATA[A courageous warrior of Barsoom seeks to rescue the woman he loves from savage creatures and malevolent tyrants.]]>
+      </description>
+      <source:markdown>A courageous warrior of Barsoom seeks to rescue the woman he loves from savage creatures and malevolent tyrants.</source:markdown>
+      <dc:creator>Edgar Rice Burroughs</dc:creator>
+      <enclosure url="https://standardebooks.org/ebooks/edgar-rice-burroughs/a-fighting-man-of-mars/downloads/edgar-rice-burroughs_a-fighting-man-of-mars.epub?source=feed" length="776650" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/edgar-rice-burroughs/a-fighting-man-of-mars/downloads/edgar-rice-burroughs_a-fighting-man-of-mars_advanced.epub?source=feed" length="1186287" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/edgar-rice-burroughs/a-fighting-man-of-mars/downloads/edgar-rice-burroughs_a-fighting-man-of-mars.kepub.epub?source=feed" length="681272" type="application/kepub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/edgar-rice-burroughs/a-fighting-man-of-mars/downloads/edgar-rice-burroughs_a-fighting-man-of-mars.azw3?source=feed" length="839462" type="application/x-mobipocket-ebook" />
+      <enclosure url="https://standardebooks.org/ebooks/edgar-rice-burroughs/a-fighting-man-of-mars/text/single-page" length="590920" type="application/xhtml+xml" />
+      <guid isPermaLink="false">cid://https://standardebooks.org/ebooks/edgar-rice-burroughs/a-fighting-man-of-mars</guid>
+      <category>Science fiction</category>
+      <category>Mars (Planet)--Fiction</category>
+      <category>Life on other planets--Fiction</category>
+      <category>Adventure</category>
+      <category>Fantasy</category>
+      <category>Science Fiction</category>
+      <pubDate>Sun, 15 Nov 2026 17:49:50 +0000</pubDate>
+    </item>    <item>
       <title>The emancipation of women and its probable consequences by Adele Crepaz</title>
       <link>https://www.gutenberg.org/ebooks/79996</link>
       <description>
@@ -457,6 +523,67 @@
       <source:markdown>Language: English</source:markdown>
       <pubDate>Tue, 10 Nov 2026 10:51:20 +0000</pubDate>
     </item>    <item>
+      <title>Sir Nigel</title>
+      <link>https://standardebooks.org/ebooks/arthur-conan-doyle/sir-nigel</link>
+      <description>
+        <![CDATA[A young English squire seeks honor by doing knightly deeds in the Hundred Years’ War.]]>
+      </description>
+      <source:markdown>A young English squire seeks honor by doing knightly deeds in the Hundred Years’ War.</source:markdown>
+      <dc:creator>Arthur Conan Doyle</dc:creator>
+      <enclosure url="https://standardebooks.org/ebooks/arthur-conan-doyle/sir-nigel/downloads/arthur-conan-doyle_sir-nigel.epub?source=feed" length="871216" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/arthur-conan-doyle/sir-nigel/downloads/arthur-conan-doyle_sir-nigel_advanced.epub?source=feed" length="1361947" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/arthur-conan-doyle/sir-nigel/downloads/arthur-conan-doyle_sir-nigel.kepub.epub?source=feed" length="836593" type="application/kepub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/arthur-conan-doyle/sir-nigel/downloads/arthur-conan-doyle_sir-nigel.azw3?source=feed" length="1004772" type="application/x-mobipocket-ebook" />
+      <enclosure url="https://standardebooks.org/ebooks/arthur-conan-doyle/sir-nigel/text/single-page" length="823571" type="application/xhtml+xml" />
+      <guid isPermaLink="false">cid://https://standardebooks.org/ebooks/arthur-conan-doyle/sir-nigel</guid>
+      <category>Historical fiction</category>
+      <category>Hundred Years&#39; War, 1339-1453--Fiction</category>
+      <category>Knights and knighthood--Fiction</category>
+      <category>Great Britain--History--Edward III, 1327-1377--Fiction</category>
+      <category>Fiction</category>
+      <pubDate>Tue, 10 Nov 2026 04:14:54 +0000</pubDate>
+    </item>    <item>
+      <title>The Cave Girl</title>
+      <link>https://standardebooks.org/ebooks/edgar-rice-burroughs/the-cave-girl</link>
+      <description>
+        <![CDATA[An American castaway finds himself in an island inhabited by stone-age people.]]>
+      </description>
+      <source:markdown>An American castaway finds himself in an island inhabited by stone-age people.</source:markdown>
+      <dc:creator>Edgar Rice Burroughs</dc:creator>
+      <enclosure url="https://standardebooks.org/ebooks/edgar-rice-burroughs/the-cave-girl/downloads/edgar-rice-burroughs_the-cave-girl.epub?source=feed" length="561686" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/edgar-rice-burroughs/the-cave-girl/downloads/edgar-rice-burroughs_the-cave-girl_advanced.epub?source=feed" length="756419" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/edgar-rice-burroughs/the-cave-girl/downloads/edgar-rice-burroughs_the-cave-girl.kepub.epub?source=feed" length="495054" type="application/kepub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/edgar-rice-burroughs/the-cave-girl/downloads/edgar-rice-burroughs_the-cave-girl.azw3?source=feed" length="615133" type="application/x-mobipocket-ebook" />
+      <enclosure url="https://standardebooks.org/ebooks/edgar-rice-burroughs/the-cave-girl/text/single-page" length="496880" type="application/xhtml+xml" />
+      <guid isPermaLink="false">cid://https://standardebooks.org/ebooks/edgar-rice-burroughs/the-cave-girl</guid>
+      <category>Science fiction</category>
+      <category>Islands--Fiction</category>
+      <category>Survival--Fiction</category>
+      <category>Adventure stories</category>
+      <category>Oceania--Fiction</category>
+      <category>Cave dwellers--Fiction</category>
+      <category>Adventure</category>
+      <category>Fiction</category>
+      <pubDate>Tue, 10 Nov 2026 03:35:05 +0000</pubDate>
+    </item>    <item>
+      <title>With Edged Tools</title>
+      <link>https://standardebooks.org/ebooks/henry-seton-merriman/with-edged-tools</link>
+      <description>
+        <![CDATA[Two English gentlemen journey to West Africa, staking their lives for a chance at a fortune which will change their futures.]]>
+      </description>
+      <source:markdown>Two English gentlemen journey to West Africa, staking their lives for a chance at a fortune which will change their futures.</source:markdown>
+      <dc:creator>Henry Seton Merriman</dc:creator>
+      <enclosure url="https://standardebooks.org/ebooks/henry-seton-merriman/with-edged-tools/downloads/henry-seton-merriman_with-edged-tools.epub?source=feed" length="892208" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/henry-seton-merriman/with-edged-tools/downloads/henry-seton-merriman_with-edged-tools_advanced.epub?source=feed" length="1756258" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/henry-seton-merriman/with-edged-tools/downloads/henry-seton-merriman_with-edged-tools.kepub.epub?source=feed" length="835989" type="application/kepub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/henry-seton-merriman/with-edged-tools/downloads/henry-seton-merriman_with-edged-tools.azw3?source=feed" length="996356" type="application/x-mobipocket-ebook" />
+      <enclosure url="https://standardebooks.org/ebooks/henry-seton-merriman/with-edged-tools/text/single-page" length="743890" type="application/xhtml+xml" />
+      <guid isPermaLink="false">cid://https://standardebooks.org/ebooks/henry-seton-merriman/with-edged-tools</guid>
+      <category>London (England)--Fiction</category>
+      <category>Africa, West--Fiction</category>
+      <category>Fiction</category>
+      <pubDate>Tue, 10 Nov 2026 03:14:47 +0000</pubDate>
+    </item>    <item>
       <title>Death in Venice by Thomas Mann</title>
       <link>https://www.gutenberg.org/ebooks/66073</link>
       <description>
@@ -808,6 +935,25 @@
       </description>
       <source:markdown>Language: English</source:markdown>
       <pubDate>Sat, 07 Nov 2026 10:51:24 +0000</pubDate>
+    </item>    <item>
+      <title>The Gold Bag</title>
+      <link>https://standardebooks.org/ebooks/carolyn-wells/the-gold-bag</link>
+      <description>
+        <![CDATA[A detective investigates the death of a wealthy man found murdered in his own home.]]>
+      </description>
+      <source:markdown>A detective investigates the death of a wealthy man found murdered in his own home.</source:markdown>
+      <dc:creator>Carolyn Wells</dc:creator>
+      <enclosure url="https://standardebooks.org/ebooks/carolyn-wells/the-gold-bag/downloads/carolyn-wells_the-gold-bag.epub?source=feed" length="524233" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/carolyn-wells/the-gold-bag/downloads/carolyn-wells_the-gold-bag_advanced.epub?source=feed" length="658125" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/carolyn-wells/the-gold-bag/downloads/carolyn-wells_the-gold-bag.kepub.epub?source=feed" length="474798" type="application/kepub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/carolyn-wells/the-gold-bag/downloads/carolyn-wells_the-gold-bag.azw3?source=feed" length="594881" type="application/x-mobipocket-ebook" />
+      <enclosure url="https://standardebooks.org/ebooks/carolyn-wells/the-gold-bag/text/single-page" length="506171" type="application/xhtml+xml" />
+      <guid isPermaLink="false">cid://https://standardebooks.org/ebooks/carolyn-wells/the-gold-bag</guid>
+      <category>Detective and mystery stories</category>
+      <category>Stone, Fleming (Fictitious character)--Fiction</category>
+      <category>Fiction</category>
+      <category>Mystery</category>
+      <pubDate>Fri, 06 Nov 2026 20:18:35 +0000</pubDate>
     </item>    <item>
       <title>Entretiens / Interviews / Entrevistas by Marie Lebert</title>
       <link>https://www.gutenberg.org/ebooks/27035</link>

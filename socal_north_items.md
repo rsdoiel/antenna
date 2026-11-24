@@ -3,9 +3,9 @@ title: "SoCal North"
 description: "News and posts related to the greater North Los Angeles and adjacent counties.\n"
 pubDate: Tue, 24 Nov 2026 02:42:20 GMT
 aggregateOf: "socal_north.md"
-dateModified: Tue, 24 Nov 2026 04:56:44 GMT
+dateModified: Tue, 24 Nov 2026 06:47:35 GMT
 itemCount: 302
-generator: antenna/0.1.2
+generator: antenna/0.2.0
 ---
 
 # SoCal North

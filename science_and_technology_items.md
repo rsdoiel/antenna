@@ -1,14 +1,106 @@
 ---
 title: "STEM"
 description: "Science and technology news and blogs."
-pubDate: Mon, 23 Nov 2026 13:15:00 GMT
+pubDate: Mon, 23 Nov 2026 21:39:51 GMT
 aggregateOf: "science_and_technology.md"
-dateModified: Tue, 24 Nov 2026 05:05:48 GMT
-itemCount: 286
-generator: antenna/0.1.2
+dateModified: Tue, 24 Nov 2026 06:47:35 GMT
+itemCount: 302
+generator: antenna/0.2.0
 ---
 
 # STEM
+
+## [Peggy Guggenheim's First Art Gallery Lasted Just 18 Months. But Its 21 Exhibitions Showed a Multitude of Modern Art Masterpieces](https://www.smithsonianmag.com/smart-news/peggy-guggenheims-first-art-gallery-lasted-just-18-months-but-its-21-exhibitions-showed-a-multitude-of-modern-art-masterpieces-180989930/)
+
+via Smithsonian Magazine · 2026-11-23
+
+A new exhibition at the Royal Academy of the Arts in London revisits Guggenheim Jeune, the short-lived art gallery where the American socialite introduced a skeptical British public to surrealism and abstraction
+
+## [NASA Awards Contract for NOAA’s Near Earth Orbit Network Program](https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/)
+
+via NASA breaking news · 2026-11-23, updated 2026-11-24
+
+NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Applications (SMBA) instruments on NOAA’s Near Earth Orbit Network (NEON) satellites. The cost-plus-fixed-fee, firm-fixed-price, and time-and-materials hybrid contract has a value of $290.6 million. The period of performance runs from \[…\]
+
+## [Look Up This Week to See November's Full Beaver Moon—the First of Four Back-to-Back Supermoons Over the Coming Months](https://www.smithsonianmag.com/smart-news/look-up-this-week-to-see-novembers-full-beaver-moon-the-first-of-four-back-to-back-supermoons-over-the-coming-months-180989927/)
+
+via Smithsonian Magazine · 2026-11-23
+
+The next one will occur on Christmas Eve, which, according to a stricter supermoon definition, is a rare coincidence that hasn't happened since 1787
+
+## [What Can 300 Years of European Portraits Reveal About Evolving Beauty Standards?](https://www.smithsonianmag.com/smart-news/what-can-300-years-of-european-portraits-reveal-about-evolving-beauty-standards-180989931/)
+
+via Smithsonian Magazine · 2026-11-23
+
+A new analysis of 486 portraits suggests that the ideal waist-to-hip ratio increased between 1650 and 1950
+
+## [Inside Bolivia's Newly Restored 'Sistine Chapel of the Andes,' Centuries-Old Murals Tell Biblical Stories With Andean Imagery](https://www.smithsonianmag.com/smart-news/inside-bolivia-newly-restored-sistine-chapel-of-the-andes-centuries-old-murals-tell-biblical-stories-with-andean-imagery-180989925/)
+
+via Smithsonian Magazine · 2026-11-23
+
+Located nearly 13,000 feet above sea level on Bolivia’s high plateau, the Santiago de Curahuara de Carangas church depicts guinea pigs at the Last Supper and magi riding llamas
+
+## [Studying Cancer Cells in Microgravity](https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/)
+
+via NASA breaking news · 2026-11-23, updated 2026-11-24
+
+This Nov. 19, 2026, image shows gastric microtumors grown within an Encapsulates biochip. The Encapsulate-1 investigation studies patient-derived tumor samples aboard the International Space Station to better understand how cancer cells move and interact in microgravity. The results could help researchers develop further testing to predict a patient’s risk of metastasis and support more personalized \[…\]
+
+## [NASA Seeks Partners to Design First Nuclear Reactor for the Moon](https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/)
+
+via NASA breaking news · 2026-11-23, updated 2026-11-24
+
+NASA is seeking industry partners to develop and test the first nuclear reactor designed to provide electricity on the Moon, a major step toward establishing a sustained human presence on the lunar surface.  Lunar Reactor-1 (LR-1) will be a small fission power system that will generate 20 kilowatts of electricity, enough to power approximately 16 \[…\]
+
+## [Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season](https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/)
+
+via NVidia blog · 2026-11-23
+
+The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the next level. For some, that means diving into a new game. \[…\]
+
+## [Could an Erectile Dysfunction Pill Slow Alzheimer's Disease? Clinical Trial Results Show Promise for Certain Patients](https://www.smithsonianmag.com/smart-news/could-an-erectile-dysfunction-pill-slow-alzheimers-disease-clinical-trial-results-show-promise-for-certain-patients-180989919/)
+
+via Smithsonian Magazine · 2026-11-23
+
+After a year on the Viagra-like drug, participants who weren't taking other dementia medications displayed less cognitive decline than those taking a placebo. But the effect disappeared when examining all individuals who took the experimental pill
+
+## [NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space](https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/)
+
+via NASA breaking news · 2026-11-23, updated 2026-11-24
+
+NASA invites the world behind the scenes to witness the story of Europa Clipper’s journey from a far-off vision to a cutting-edge deep space exploration mission with the release of the agency’s newest documentary, “The Europa Concept.” The documentary will air on NASA+, the NASA app, and the agency’s website starting Monday, Nov. 23, and \[…\]
+
+## [Windows Server 2028 removes 32bit application support](https://www.osnews.com/story/146452/windows-server-2028-removes-32bit-application-support/)
+
+via OS News · 2026-11-23
+
+Windows Server 2028 is going to make more drastic changes than just hardening its core, it turns out. Microsoft has announced that it’s removing the app compatibility layer that allows 32-bit Windows apps to run on 64-bit installs of the OS with the next version of Windows Sever, officially labeled Windows Server 2028. For the first time, the OS will not ship by default with the WoW64 compatibility later that enabled 32-bit apps to run on 64-bit Windows. The last 32-bit version of Windows Server shipped in 2008, with all subsequent releases being 64-bit only. The WoW64 subsystem shipped on 64-bit Windows to allow 32-bit Windows apps to continue running on 64-bit versions of Windows. But now, with Windows Server 2028, that 32-bit compatibility layer will now be an optional component that you can install manually if needed. ↫ Zac Bowden at Windows Central You can still install the WoW64 layer if you wish to do so, but by default, it won’t be installed. Now, there’s no indication that this will spill over into the client versions of Windows 11 any time soon, but it wouldn’t be the first time that Windows Server ends up serving as a testbed for the future of client releases. Perhaps WoW64 becomes something you can optionally remove, but I honestly doubt Microsoft is ready yet to cut 32bit support from Windows 11 by default. Regardless, this is an interesting development and I would love to be able to cut the entirety of 32bit support from Windows 11.
+
+## [The Incredible, Elegant DNA Repair System Makes Gene Editing Work](https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/)
+
+via Quanta Magazine · 2026-11-23
+
+Genetic information is sturdy, but its physical structure is sensitive. Natural tools for repairing a cell’s thousands of daily injuries are fundamental to gene-editing technologies.
+
+The post [The Incredible, Elegant DNA Repair System Makes Gene Editing Work](https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)
+
+## [NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution](https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/)
+
+via NASA breaking news · 2026-11-23, updated 2026-11-24
+
+NASA’s James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and planets. This high-resolution, mid-infrared observation from Webb \[…\]
+
+## [These Endangered Snakes Are Some of the Most Beautiful in North America. Here's How Conservationists Are Trying to Save Them](https://www.smithsonianmag.com/smart-news/these-endangered-snakes-are-some-of-the-most-beautiful-in-north-america-heres-how-conservationists-are-trying-to-save-them-180989916/)
+
+via Smithsonian Magazine · 2026-11-23
+
+Fewer than 2,000 San Francisco garter snakes are estimated to live in their native home of two California counties. So, experts are raising some babies at the San Francisco Zoo to give them a head start before releasing the creatures into the wild
+
+## [NixOS bring-up on an Alibaba RISC-V board](https://www.osnews.com/story/146450/nixos-bring-up-on-an-alibaba-risc-v-board/)
+
+via OS News · 2026-11-23
+
+For certain reasons, I’m in a mood to highlight as many more alternative ways to do the computers things than just the boring Windows/Linux+x86 thing. In the process of scouring Alibaba for a cheap Versal devkit, I unexpectedly came into possession of a Zhihe Computing A210 RISC-V SoC. It’s a cool board: there’s a ridiculous amount of IO exposed by the baseboard, not to mention 8 cores clocked at 1.9 GHz is nothing to sniff at for a RISC-V CPU. I’m not sure I could recommend buying any RISC-V SoC currently, but all these distros that are starting to support RISC-V need to run tests somewhere that isn’t Spike/QEMU. I decided to make this board into a NixOS build server so I could learn more about the state of RISC-V support in NixOS and to get some practice in Linux bringup. ↫ George Huebner I will not create a NixOS category.
 
 ## [Once Called Home by Lockkeepers and Park Rangers, This 200-Year-Old House Along the Historic Chesapeake and Ohio Canal Is Now Opening Its Doors to Overnight Guests](https://www.smithsonianmag.com/smart-news/once-called-home-by-lockkeepers-and-park-rangers-this-200-year-old-house-along-the-historic-chesapeake-and-ohio-canal-is-now-opening-its-doors-to-overnight-guests-180989924/)
 
@@ -30,43 +122,43 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
 
 ## [APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251](https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/)
 
-via NASA breaking news · 2026-11-23
+via NASA breaking news · 2026-11-23, updated 2026-11-24
 
 APOD Science APOD APOD: 2026 November 23 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Emergence \[…\]
 
 ## [Laser Focus at the Top of the World](https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/)
 
-via NASA breaking news · 2026-11-23
+via NASA breaking news · 2026-11-23, updated 2026-11-24
 
 A next-generation geodetic instrument developed by NASA, part of a network that helps measure satellites’ orbits and the planet’s shape, has debuted in Svalbard, Norway.
 
 ## [An ordinary evening on the Brooklyn Bridge](https://publicai.substack.com/p/an-ordinary-evening-on-the-brooklyn)
 
-via Public AI blog · 2026-11-22, updated 2026-11-23
+via Public AI blog · 2026-11-22, updated 2026-11-24
 
 On Levent Alpöge and Claude's announced proof of the Riemann Hypothesis.
 
 ## [65 Years of Human Spaceflight at NASA Johnson](https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/)
 
-via NASA breaking news · 2026-11-22, updated 2026-11-23
+via NASA breaking news · 2026-11-22, updated 2026-11-24
 
 For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26 years. Today, Johnson teams are preparing crews and \[…\]
 
 ## [APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno](https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/)
 
-via NASA breaking news · 2026-11-22, updated 2026-11-23
+via NASA breaking news · 2026-11-22, updated 2026-11-24
 
 APODScienceAPODAPOD: 2026 November 22 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Swirls and Colors on Jupiter from Juno Explanation: What creates the colors in Jupiter’s clouds? No one \[…\]
 
 ## [Dual boot NetBSD 11.1 and Debian 13 on a ThinkPad T14 G1](https://www.osnews.com/story/146447/dual-boot-netbsd-11-1-and-debian-13-on-a-thinkpad-t14-g1/)
 
-via OS News · 2026-11-21
+via OS News · 2026-11-21, updated 2026-11-23
 
 Sometimes, all you need is a well-written guide on dual-booting NetBSD and Linux. After gaining some confidence from installing NetBSD on my Raspberry Pi, I started wondering, what if I installed it on my daily-driver ThinkPad and set it up to dual-boot? I could use NetBSD for whatever I felt like and fall back to Linux whenever I needed to. ↫ neongod So that’s exactly what you’re getting.
 
 ## [APOD: 2026 November 21 – Voyager’s Neptune](https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/)
 
-via NASA breaking news · 2026-11-21, updated 2026-11-23
+via NASA breaking news · 2026-11-21, updated 2026-11-24
 
 APODScienceAPODAPOD: 2026 November 21 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Voyager’s Neptune Explanation: Cruising through the outer solar system, the Voyager 2 spacecraft made its closest approach \[…\]
 
@@ -148,7 +240,7 @@ In northeastern Chad, researchers found evidence of Verreaux's eagles attacking 
 
 ## [Network Researchers Nail Down Theory of ‘Perfect Resilience’](https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/)
 
-via Quanta Magazine · 2026-11-20, updated 2026-11-21
+via Quanta Magazine · 2026-11-20, updated 2026-11-23
 
 When links in a communication network go down, messages can get routed in a loop. Computer scientists now know that four simple network structures are to blame.
 
@@ -168,13 +260,13 @@ Featuring nearly 40 artworks, a new exhibition at the Detroit Institute of Arts 
 
 ## [The history behind the x86 CPU: from 4004 to 486](https://www.osnews.com/story/146445/the-history-behind-the-x86-cpu-from-4004-to-486/)
 
-via OS News · 2026-11-20, updated 2026-11-21
+via OS News · 2026-11-20, updated 2026-11-23
 
 Why is x86 little-endian? Why are the registers called AX, BX, CX, and DX? Why do DOS programmers write addresses like A000:0000, and why does a modern PC still wake up pretending to be a chip from 1978? The answers are not in the datasheets. They are in the story of how each chip was born. ↫ Gustavo Pezzi The x86 is like an archaeological dig site that’s been dug in the 1800, before modern standards of dig sites were established to preserve context.
 
 ## [FreeBSD GUS: RCU’s cool cousin](https://www.osnews.com/story/146443/freebsd-gus-rcus-cool-cousin/)
 
-via OS News · 2026-11-20, updated 2026-11-21
+via OS News · 2026-11-20, updated 2026-11-23
 
 FreeBSD has a pretty neat safe memory reclamation scheme (something akin to RCU), that’s also been adopted by XNU that hasn’t really been well-documented outside of code comments, and I thought it would’ve been interesting to write about it. ↫ Loïc Grégoire Some light reading for the weekend.
 
@@ -228,7 +320,7 @@ The agency had previously determined that the animals were too old or ill for th
 
 ## [NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs](https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/)
 
-via NVidia blog · 2026-11-19, updated 2026-11-20
+via NVidia blog · 2026-11-19, updated 2026-11-23
 
 NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NVL72 systems, as well as adding customer availability to \[…\]
 
@@ -246,7 +338,7 @@ Centuries ago, the Parthenon's east pediment was reduced to rubble. German resea
 
 ## [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/)
 
-via NVidia blog · 2026-11-19, updated 2026-11-20
+via NVidia blog · 2026-11-19, updated 2026-11-23
 
 Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through \[…\]
 
@@ -302,7 +394,7 @@ NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached o
 
 ## [Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/)
 
-via NVidia blog · 2026-11-19, updated 2026-11-20
+via NVidia blog · 2026-11-19, updated 2026-11-23
 
 GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big gaming plans, smaller price tag.  Keep the holiday savings going: Check out more NVIDIA holiday deals for gamers, \[…\]
 
@@ -334,7 +426,7 @@ NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST,
 
 ## [Windows Server 2028 enters public preview with hardened Server Core by default](https://www.osnews.com/story/146433/windows-server-2028-enters-public-preview-with-hardened-server-core-by-default/)
 
-via OS News · 2026-11-18, updated 2026-11-21
+via OS News · 2026-11-18, updated 2026-11-23
 
 Microsoft has announced the public preview of Window Server 2028, and of course, the announcement is a useless jumble of buzzwords and slop, so I’m not going to spend any time decoding it. However, there is one major change coming in Server 2028 that everyone working with this platform really ought to be aware of – a massive hardening of Server Core that will definitely break things that used to work fine on Server 2025. It even got its own detailed blog post that’s a lot more interesting than the actual public preview announcement. Up to and including Windows Server 2025, a stock installation was insecure, unhardened by default, with the expectation and norm being that administrators applied their own hardening scripts and settings post-installation. With Server 2028, that’s changing, and Server Core will now be secured and hardened out of the box, with administrators having to explicitly relax any settings their workloads might require. Starting with Windows Server Insider Preview build 29706, Server Core installs hardened. Hundreds of security settings are on from first boot. They’re aligned with the industry benchmarks you’re already measured against, such as CIS and DISA STIG. The secure configuration is the starting state, not a project you run after setup. That closes the window where a newly deployed server sits exposed while it waits to be hardened.  ↫ Christina Curlette Things like identity and authentication, cryptography, privilege and admin access, remote access, and more, are all locked down and use only the most up-to-date features, cyphers, best practices, and so on. I’m no system administrator, but it seems kind of wild to me that this hasn’t always been the norm. I’m glad they’re at least moving to it now, starting with Insider Preview build 29706
 
@@ -352,7 +444,7 @@ About 20 percent of people alive today with European ancestry carry at least one
 
 ## [Microsoft is finally upgrading Windows 11’s default PowerShell to version 7.x](https://www.osnews.com/story/146431/microsoft-is-finally-upgrading-windows-11s-default-powershell-to-version-7-x/)
 
-via OS News · 2026-11-18, updated 2026-11-21
+via OS News · 2026-11-18, updated 2026-11-23
 
 In true Microsoft fashion, the version of PowerShell that ships with every Windows installation is not the latest version of PowerShell. Even if you fully update your Windows 11 installation, including all of its applications, you’ll still be stuck on an old version of PowerShell. While a fully updated Windows 11 installation has version 5.1, the most recent version is actually PowerShell 7.7. What makes matters worse is that PowerShell 5.1 hasn’t seen any significant development in ten years, only receiving security updates, with all development work focusing on PowerShell 7 for years now. Well, all of this is finally about to change, as the next version of Windows 11 – whatever that may be, Microsoft won’t say – will ship with PowerShell 7.x instead of 5.1. PowerShell 7 is coming to Windows. Beginning with the next release of Windows, PowerShell 7 will be included as the upgrade for Windows PowerShell 5.1. The Windows team has published the details in KB5137172. Here is what this means for you, your scripts, your automation, and where our work stands. ↫ Jason Helmick at Microsoft’s Dev Blog Microsoft also explains why it’s taken this long. The problem is that a lot of scripts, services, and mor rely on PowerShell 5.1, and PowerShell 7’s backwards compatibility wasn’t up to Microsoft’s strict standards on this front for years. Apparently, PowerShell 7.7 is now at a point where Microsoft feels comfortable moving everyone over to it by default. It seems that the only remaining issues stem from the fact that PowerShell 7 is delivered as an MSIX package as opposed to an MSI installer, and this brings some problems with it, which Microsoft is tracking on GitHub. Of course, you can already install and switch to PowerShell 7.x today if you want to, without losing access to PowerShell 5.1, as the two shell versions can live alongside each other.
 
@@ -426,7 +518,7 @@ Researchers recently identified a first of its kind: A star slightly less massiv
 
 ## [How M.C. Escher’s Art Creates Bizarre Mathematical Worlds](https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/)
 
-via Quanta Magazine · 2026-11-18, updated 2026-11-21
+via Quanta Magazine · 2026-11-18, updated 2026-11-23
 
 The artist had no formal math education, yet as a new exhibition shows, the insights revealed in his artwork became an enduring inspiration to mathematicians.
 
@@ -440,7 +532,7 @@ New research suggests that coyote DNA makes up about 0.1 percent of the Chihuahu
 
 ## [NVIDIA RTX Spark Compact Desktops Out Now](https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/)
 
-via NVidia blog · 2026-11-18, updated 2026-11-20
+via NVidia blog · 2026-11-18, updated 2026-11-23
 
 New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development \[…\]
 
@@ -495,6 +587,12 @@ NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The sci
 via NASA breaking news · 2026-11-17, updated 2026-11-18
 
 On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth science. This year, the hackathon drew 59% \[…\]
+
+## [Thelio Prime - A New Chapter](https://system76.com/blog/post/thelio-prime-a-new-chapter)
+
+via System 76 Blog · 2026-11-17
+
+System76, the leading Linux-first computing platform, introduces the new Thelio Prime Desktop.
 
 ## [This Tiny, Unassuming Fungus Is a 'Dark Magic Mushroom'—the First Found to Contain Both Psychedelic Compounds and Deadly Toxins](https://www.smithsonianmag.com/smart-news/this-tiny-unassuming-fungus-is-a-dark-magic-mushroom-the-first-found-to-contain-both-psychedelic-compounds-and-deadly-toxins-180989885/)
 
@@ -572,7 +670,7 @@ So far this year, the Centers for Disease Control and Prevention has confirmed m
 
 ## [Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents](https://blogs.nvidia.com/blog/ian-buck-sc26/)
 
-via NVidia blog · 2026-11-17, updated 2026-11-20
+via NVidia blog · 2026-11-17, updated 2026-11-23
 
 NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance \[…\]
 
@@ -624,7 +722,7 @@ Written by Candice Bedford, Research Scientist at Purdue University Date: Nov. 1
 
 ## [NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab](https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-20
+via NVidia blog · 2026-11-16, updated 2026-11-23
 
 At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming \[…\]
 
@@ -650,7 +748,7 @@ The two artists had a thoroughly complicated relationship—and a daughter—but
 
 ## [Finally, a truly premium Linux laptop: Star Labs’ StarFighter Ultra](https://www.osnews.com/story/146343/finally-a-truly-premium-linux-laptop-star-labs-starfighter-ultra/)
 
-via OS News · 2026-11-16, updated 2026-11-21
+via OS News · 2026-11-16, updated 2026-11-23
 
 Many popular Linux laptops are not designed from the ground-up for Linux. Often, they are machines designed and assembled by companies like Clevo, with parts and options picked by the Linux OEM to optimise them for Linux to make sure the hardware is optimally compatible. While there’s nothing wrong with this approach – there are countless great Linux laptops available that are made this way – there’s also something to be said for starting with a blank slate, and designing, developing, building, and assembling a Linux laptop entirely from scratch. One such laptop is Star Labs’ brand new StarFighter, which I’ve been using and testing over the last little while since it was launched. The StarFighter is an entirely custom powerhouse of a laptop, designed exclusively for Linux, both inside and out. Let’s talk about what it’s like to use the StarFighter, and if it’s worth considering when looking for a new laptop. The hardware The Starfighter comes in three flavours: Standard, Ultra, and AMD. I opted for the Ultra model, which comes with an Intel Core Ultra 9 285H, an Intel Arc 140T integrated GPU, 64GB of LPDDR5X RAM, and a 16″ 3840×2400 120Hz matte display. The standard model steps these specs down to an Intel Core Ultra 5 125H, 32GB of LPDDR5X RAM, and a 16″ 2560×1600 165Hz display, while the AMD model maintains the specifications of the Ultra, but with an AMD Ryzen 7 8845HS processor paired with a Radeon 780M integrated GPU. All three models share the same Intel AX210 Wi-Fi 6E chip, soldered RAM, and port configuration: 2 USB-C ports (Thunderbolt 4 on the Intel models), 3 USB-A ports, an HDMI 2.0 port, a microSD reader, a combined audio jack, and two PCIe Gen 4 NVMe slots on the motherboard. All three models run coreboot firmware, and come with a hardware kill switch for the wireless radios. Another really interesting security and privacy feature is how the Starfighter handles its webcam. Instead of being integrated into the display bezel, the webcam is a separate module that snaps onto the display lid magnetically, connecting through a few pogo pins (which form a USB 2.0 port, which I’m sure intrepid hardware hackers could do fun stuff with). When not in use, the webcam module is stored in its own little metal tray that slides out of the side of the laptop, securing itself in place magnetically. Neat. The webcam quality itself is decidedly average. I personally don’t ever use a webcam, but if you do, don’t expect miracles. It does its job, no more, no less. The StarFighter has a custom chassis made out of magnesium, with the only plastic part of the casing being the display inner hinge cover where I assume the antennas are integrated. It’s an incredibly sturdy device, with very little flex in the display cover, and zero flex in the keyboard deck. Thanks to the properties of magnesium, it’s quite lightweight at a mere 1.6kg. The bottom cover is easily removable, but the two screws in the middle of that cover are ever so slightly longer than all the other screws – ask me how I know. Star Labs opted for an understated, unobtrusive design. There’s no weird flourishes, no garish RGB lighting, no childish font on the keyboard – it’s all business, and I really like that. The dark finish feels incredibly nice, and despite the colour doesn’t seem to catch too many fingerprints. The speaker grills next to the keyboard look nice too, as does the keyboard itself – I especially appreciate that the the various modifier and non-character keys use text labels instead of symbols. Of course, since this is a Linux laptop, the super key is properly labelled. No Windows logo here, but no silly penguin either. The keyboard is backlit, of course, with several light levels, with a keyboard backlight timeout adjustable in coreboot. Using it The feel of the keyboard could use some work, however, at least for me. In particular, the key stability feels a bit off to me, meaning that unless you strike a key right in the middle, it might not register properly, as the keys wobble more than I would expect. A workaround, of sorts, is to strike the keys a bit harder than you normally would, but I’ve found this to be more difficult to adapt to than I initially expected. That being said, if you already have a more solid strike, it’s possible you won’t notice anything wrong with the keyboard at all. The trackpad, though, is basically perfect. Star Labs pulled out all the stops here, and went for a large haptic trackpad that feels absolutely incredible. I greatly prefer haptic trackpads, and have been puzzled for years now why Linux laptop OEMs continue to opt for wobbly diving board-style trackpads instead. It has a glass surface which hits the perfect middle-ground between smooth and textured, and it never seems to pick up any smudges or grease. Several of the parameters of the haptic trackpad can be configured in coreboot and supposedly from within Linux itself, but I haven’t figured that part out yet as the patches for it were only accepted very recently. It is the perfect trackpad. Zero complaints. Every single click, every single gesture, every single swoosh feels perfect. I don’t like being this ecstatic about something – there’s usually flaws in everything – but it’s really just that good. While testing the StarFighter, I used some other laptops with the old diving board design, and they’re all ruined for me now. I’m usually a fan of smaller laptops, with 14″ being my upper bound. However, laptops have gotten so light, and bezels so thin, that the 16″ of today is the 14″ of several years ago – not exactly, but you get my point. I definitely had to get used to this larger laptop, but now that I have acclimatised, having 3840×2400 pixels spread out across a 16″ canvas is honestly kind of amazing. I
 
@@ -668,7 +766,7 @@ Two nests were spotted in September, and authorities moved the eggs to an aquari
 
 ## [How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future](https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-20
+via NVidia blog · 2026-11-16, updated 2026-11-23
 
 Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the \[…\]
 
@@ -698,37 +796,37 @@ Computer simulations suggest that movements in Earth's viscous mantle layer lift
 
 ## [Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics](https://blogs.nvidia.com/blog/lambda-photonics/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-20
+via NVidia blog · 2026-11-16, updated 2026-11-23
 
 To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs, delivering \[…\]
 
 ## [NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing](https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-20
+via NVidia blog · 2026-11-16, updated 2026-11-23
 
 Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum processors.  Many of these centers use Slurm to run scientific supercomputing workloads, so expanding its support for quantum processors builds on familiar workflows \[…\]
 
 ## [NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance](https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-20
+via NVidia blog · 2026-11-16, updated 2026-11-23
 
 In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference.  NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic \[…\]
 
 ## [NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery](https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-20
+via NVidia blog · 2026-11-16, updated 2026-11-23
 
 With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are helping scientists analyze larger datasets and model more complex systems. The new libraries give AI agents the tools to help researchers make discoveries \[…\]
 
 ## [CUDA at 20: How the Platform Transformed Scientific Computing](https://blogs.nvidia.com/blog/20-years-cuda/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-20
+via NVidia blog · 2026-11-16, updated 2026-11-23
 
 This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI.  CUDA’s 20th anniversary presents an occasion to reflect across computing eras, from the people who wrote the very first CUDA programs to the AI developers \[…\]
 
 ## [NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics](https://blogs.nvidia.com/blog/rubin-hpc/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-20
+via NVidia blog · 2026-11-16, updated 2026-11-23
 
 Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows.  As agents help scientists and engineers explore more candidate materials, molecules and designs, they rely on simulations to test those ideas and guide their next \[…\]
 
@@ -740,7 +838,7 @@ The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy�
 
 ## [What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.](https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/)
 
-via Quanta Magazine · 2026-11-16, updated 2026-11-21
+via Quanta Magazine · 2026-11-16, updated 2026-11-23
 
 An era-defining galaxy survey has released its final results. They don’t quite fit the leading theory of cosmology.
 
@@ -790,25 +888,25 @@ Ice near the summit of the Indonesian mountain peak has shrunk to scattered patc
 
 ## [AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities](https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-20
+via NVidia blog · 2026-11-16, updated 2026-11-23
 
 Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai \[…\]
 
 ## [KDE will now load XWayland on demand](https://www.osnews.com/story/146401/kde-will-now-load-xwayland-on-demand/)
 
-via OS News · 2026-11-15, updated 2026-11-21
+via OS News · 2026-11-15, updated 2026-11-23
 
 When running KDE, the X11 compatibility layer for Wayland, XWayland, always runs, even if there isn’t anything on the system still requiring the legacy X server to work. In the next step towards a Wayland-only world, the KDE people have reached a major milestone: XWayland now only runs when actually needed. This week a significant technical milestone was achieved: the XWayland compatibility layer is now loaded only when needed. Previously it had always been running even when no apps were using it, and fixing this required porting various system services away from legacy X11 code paths. This work was done by Vlad Zahorodnii, David Edmundson, and David Redondo, and will ship in Plasma 6.9. ↫ Nate Graham This frees up some system resources, which is always a welcome improvement. I do wonder how this might impact the load times of legacy X applications, but I have a feeling it’s close to immeasurable.
 
 ## [Redox gets Go, GIMP, and more](https://www.osnews.com/story/146399/redox-gets-go-gimp-and-more/)
 
-via OS News · 2026-11-15, updated 2026-11-21
+via OS News · 2026-11-15, updated 2026-11-23
 
 I love and admire the Redox project, but their insistence on fudging the publication dates of their monthly progress reports really bothers me, for some reason. No, I’m not 16 days late – the report covering October was published only yesterday evening, and not on 31 October as the website claims. None of this matters to anyone but weird people such as myself, but I still want to get it off my chest. Don’t bother any Redox people about this. Anyway, the big news for the month of October is the port of the official Go programming language compiler, allowing for cross-compilation and self-hosted compilation using relibc. Another major port also made its way to Redox in October: GIMP now runs on Redox, using the Orbital backend of the GTK port. The work to make Redox compatible with Cloud Hypervisor is also complete, with more information in its own dedicated article. Video playback in WebKitGTK3 has been fixed as well, and even YouTube works now which is quite neat. There’s a ton more in this report, like an updated Servo port, NUMA support has been tested on real hardware for the first time and seems to work, work on rootless package installation has begun, and much more.
 
 ## [Disk encryption on NetBSD: achieving secrecy](https://www.osnews.com/story/146397/disk-encryption-on-netbsd-achieving-secrecy/)
 
-via OS News · 2026-11-15, updated 2026-11-21
+via OS News · 2026-11-15, updated 2026-11-23
 
 NetBSD developer Nia Alarie has written a guide on how to set up a NetBSD system with disk encryption that’s quite useful for those of us who deeply care about such a level of security. On top of that, the guide is also interesting if you just want to learn a bit more about how NetBSD works. The guide is written for sparc64, but should work on more mainstream architectures just as well. A guide written by a NetBSD developer is obviously going to employ some exotic or weird hardware. As is tradition.
 
@@ -822,13 +920,13 @@ The post [Purism Differentiator Series, Part 15: Individual Control](https://pur
 
 ## [Creating a self-booting ZIP archive](https://www.osnews.com/story/146395/creating-a-self-booting-zip-archive/)
 
-via OS News · 2026-11-15, updated 2026-11-21
+via OS News · 2026-11-15, updated 2026-11-23
 
 Linux initramfs supports unpacking CPIO, a stupid, simple, standardized format. In the discussion on whether to support TAR instead, much emphasize has been put on the fact that CPIO is standardized and less fragmented. Luckily, Linux (the kernel) includes its own tool to produce the specific variant of the standard that it happens to implement. The standard CPIO tool is possibly the most cursed archiver under the SUN. In the old DOS/WinDOS world, ZIP was probably the most widespread and well-known archive format, being displaced to some extent by the rise of RAR during the 2000s. Because of the design of the format, ZIP lends itself to all kinds of polyglot trickery. Way back when, self extracting ZIP archives where a thing, EXE/ZIP polyglots that can be run and unpack themselves, which is useful if you don’t have an archiver installed. I don’t think I need to explain where I am going with this. ↫ David Oberhollenzer This is lovingly cursed.
 
 ## [MenuetOS keeps steadily improving](https://www.osnews.com/story/146384/menuetos-keeps-steadily-improving/)
 
-via OS News · 2026-11-13, updated 2026-11-21
+via OS News · 2026-11-13, updated 2026-11-23
 
 MenuetOS, the operating system written in x86-64 assembly, has seen a few new releases since we last looked at it, delivering some welcome improvements. Secure network connections are now faster, there’s a TrueType font demo, and, of course, the usual bugfixes and smaller improvements. The game Wizord EXL100 has been ported, and a few drivers have been improved as well. You can get the latest releases from the downloads page.
 
@@ -882,7 +980,7 @@ According to Peruvian officials, the three European travelers—including one wh
 
 ## [AI Is Helping Care Teams Get Patients the Right Care, Sooner](https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/)
 
-via NVidia blog · 2026-11-13, updated 2026-11-20
+via NVidia blog · 2026-11-13, updated 2026-11-23
 
 From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI \[…\]
 
@@ -916,19 +1014,19 @@ After decades of decline, this ecologically significant type of forest is making
 
 ## [ReactOS makes strides in SMP, 64bit, and more](https://www.osnews.com/story/146373/reactos-makes-strides-in-smp-64bit-and-more/)
 
-via OS News · 2026-11-13, updated 2026-11-21
+via OS News · 2026-11-13, updated 2026-11-23
 
 The ReactOS project organised two hackfests this year, and the work done during those in-person sessions, combined with the ongoing regular progress, has led to some pretty significant breakthroughs and progress. More NT6+ syscalls have been added, ReactOS supports floppy disks now, NTFS support has been vastly improved, and much more. There’s also a new USB3/4 stack, which is now merged and offers basic support for these versions of USB. One of the biggest additions is a new kernel shim engine which gives ReactOS the ability to work around buggy drivers and implement quirks, moreso than even Windows itself can. For instance, thanks to this new shim, XP-era NVIDIA drivers can run on NT6 ReactOS. The ongoing efforts to implement SMP are yielding results too: ReactOS can now run with SMP for days on end while doing tasks in the background, which is quite promising. The team is showing off Steam and the game Among Us running on ReactOS, which is definitely impressive.
 
 ## [Polo: a new Wayland compositor for MATE](https://www.osnews.com/story/146370/polo-a-new-wayland-compisitor-for-mate/)
 
-via OS News · 2026-11-13, updated 2026-11-21
+via OS News · 2026-11-13, updated 2026-11-23
 
 MATE is probably the last X11-only holdout among the major desktop environments, but that’s about to change if Kerem Söke has anything to say about it. Polo is a port of Marco’s behavior and window management policies to Wayland, built on libweston and written in Vala and C. It’s a window manager, compositor, and session authority for the MATE Wayland desktop. It takes over, step by step, what Marco, mate-session-manager and the compositor-facing parts of mate-settings-daemon do on X11. ↫ Polo’s GitHub page Söke is looking for testers with this very first Polo 1.0.0 release – cute name, too – which is available on its GitHub page.
 
 ## [IBM to offer access to a dual-processor quantum system in 2027](https://www.osnews.com/story/146368/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/)
 
-via OS News · 2026-11-13, updated 2026-11-21
+via OS News · 2026-11-13, updated 2026-11-23
 
 Ars Technica published a short write-up about changes to IBM’s quantum computing plans. The changes greatly expand the scope of its next-generation Nighthawk general-use processors by adding a version with over 500 programmable qubits. At the same time, it’s stepping back a bit on its plan to link multiple Nighthawk processors together, dropping the intended number of linked systems from nine to two. The total number of qubits planned for next year will remain the same; how the company is getting there, however, will be different. Meanwhile, the company is touting the performance boost achieved via a major change that was made in the generation of Nighthawk processors released in September: hardware-based qubit resets. ↫ John Timmer at Ars Technica I’m convinced quantum computing will eventually have a big impact in the areas its characteristics are presumed to be well-suited for. Also, it just looks and sounds incredibly cool, even if as the technology currently stands it’s not particularly useful yet.
 
@@ -946,7 +1044,7 @@ Most dengue infections cause mild flu-like symptoms or no symptoms at all. But a
 
 ## [Can Network Science Transform Health and Nutrition?](https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/)
 
-via Quanta Magazine · 2026-11-12, updated 2026-11-21
+via Quanta Magazine · 2026-11-12, updated 2026-11-23
 
 Albert-László Barabási explains how the same organizing principles shape everything from the internet to the cell, and how mapping the networks inside our bodies could change how we treat disease and think about food.
 
@@ -1012,7 +1110,7 @@ The post [The Evolving Story of How Chemistry Became Biology](https://www.quanta
 
 ## [A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/)
 
-via NVidia blog · 2026-11-12, updated 2026-11-20
+via NVidia blog · 2026-11-12, updated 2026-11-23
 
 Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon’s Dogma 2: Dark Arisen brings new tales \[…\]
 
@@ -1114,7 +1212,7 @@ Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New
 
 ## [AI Helps Recyclers Turn Mixed Waste Into Reusable Material](https://blogs.nvidia.com/blog/ai-recycling-startups/)
 
-via NVidia blog · 2026-11-11, updated 2026-11-20
+via NVidia blog · 2026-11-11, updated 2026-11-23
 
 Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.
 

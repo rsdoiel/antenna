@@ -1,14 +1,71 @@
 ---
 title: "Student Paper"
 description: "Student journalism and the fourth estate."
-pubDate: Mon, 23 Nov 2026 08:30:47 GMT
+pubDate: Tue, 24 Nov 2026 03:16:13 GMT
 aggregateOf: "journalism.md"
-dateModified: Tue, 24 Nov 2026 05:05:52 GMT
-itemCount: 474
-generator: antenna/0.1.2
+dateModified: Tue, 24 Nov 2026 06:47:30 GMT
+itemCount: 505
+generator: antenna/0.2.0
 ---
 
 # Student Paper
+
+## [Immigration raids, rising costs shape Latino political attitudes](https://dailybruin.com/2026/11/23/immigration-raids-rising-costs-shape-latino-political-attitudes/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24
+
+Young Latino voters will shape political outcomes in the United States’ future, political experts said at a Tuesday event.
+The UCLA Luskin School of Public Affairs and the UCLA Latino Policy and Politics Institute hosted four panelists with backgrounds in academia, journalism and grassroots organizing at “The 2026 Midterms and What’s Next for Latino Political Power” event.
+
+## [The climate crisis is not gender-blind. California’s lawmakers shouldn’t be either.](https://dailybruin.com/2026/11/23/the-climate-crisis-is-not-gender-blind-californias-lawmakers-shouldnt-be-either/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24
+
+_This post was updated Nov. 23 at 7:13 p.m._
+Lab coat-donning scholars often dominate climate debates.
+But if recently elected Democrats – especially those in environmentally conscious California – want climate justice when Congress turns blue in January, they should rethink whose perspectives they prioritize when penning climate reform.
+
+## [UCLA women’s volleyball’s Marianna Singletary picked 10th overall in MLV draft](https://dailybruin.com/2026/11/23/ucla-womens-volleyballs-marianna-singletary-picked-10th-overall-in-mlv-draft/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24
+
+Marianna Singletary is going pro.
+The fifth-year middle blocker was selected 10th overall by the Omaha Supernovas in the Major League Volleyball draft Monday evening.
+She will become the fourth Bruin in the league, joining libero Zoe Jarvis, setter Marlie Monserez – who was on the UCLA beach team in 2022 and 2023 – and outside hitter Cheridyn Leverette, who was the first UCLA athlete to be drafted into the league last year.
+
+## [Los Matadores consiguen su primera victoria de la temporada contra la Universidad de Grace](https://sundial.csun.edu/226123/sports/los-matadores-consiguen-su-primera-victoria-de-la-temporada-contra-la-universidad-de-grace/)
+
+via The Sundail (CSUN Student Newspaper) · 2026-11-24
+
+Después de dos derrotas consecutivas, una contra la Universidad de Wichita y otra contra la Universidad Estatal de Kansas, el equipo masculino de baloncesto de la Universidad Estatal de California...
+
+## [USC soccer names LMU’s Chris Chamides as new head coach](https://dailytrojan.com/2026/11/23/usc-soccer-names-lmus-chris-chamides-as-new-head-coach/)
+
+via The Daily Trojan (USC Student Newspaper) · 2026-11-23
+
+Chamides brings over 20 years of collegiate experience, including a Division II title.
+
+The post [USC soccer names LMU’s Chris Chamides as new head coach](https://dailytrojan.com/2026/11/23/usc-soccer-names-lmus-chris-chamides-as-new-head-coach/) appeared first on [Daily Trojan](https://dailytrojan.com).
+
+## [Editorial Cartoon: “Sleepless Nights”](https://dailybruin.com/2026/11/23/editorial-cartoon-sleepless-nights/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23, updated 2026-11-24
+
+## [Editorial Cartoon: “Unfed and Fed Up”](https://dailybruin.com/2026/11/23/editorial-cartoon-unfed-and-fed-up/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23, updated 2026-11-24
+
+## [Newsletters, obits, and the world’s longest yard sale: How some local news sites saw their traffic spike](https://www.niemanlab.org/2026/11/newsletters-obits-and-the-worlds-longest-yard-sale-how-some-local-news-sites-saw-their-traffic-spike/)
+
+via Nieman Journalism Lab · 2026-11-23
+
+It’s time for our latest look at which newsrooms are having success increasing their web traffic. We bring you four of these each quarter, looking at four different market segments: local newspapers, nonprofit news outlets, public media stations, and for-profit local news sites. Rankings are based on estimates from Similarweb. Today’s edition looks at local...
+
+## [An open laptop, a crowded Orange Line train, and a tipster](https://www.niemanlab.org/2026/11/an-open-laptop-a-crowded-orange-line-train-and-a-tipster/)
+
+via Nieman Journalism Lab · 2026-11-23
+
+Is “seen on the Orange Line” the new “overheard on the Acela”? ProPublica reported on potential plans to overhaul the Smithsonian on Monday. Alec MacGillis and Andy Kroll wrote that the plans, if enacted, “would represent an unprecedented assertion of White House control over the Smithsonian, which is structured to be independent.” But how did...
 
 ## [Classifieds – November 23, 2026](https://dailytrojan.com/2026/11/23/classifieds-november-23-2026/)
 
@@ -20,7 +77,7 @@ The post [Classifieds – November 23, 2026](https://dailytrojan.com/2026/11/23/
 
 ## [Daily Bruin Print Issue – Nov. 23, 2026](https://dailybruin.com/2026/11/23/daily-bruin-print-issue-nov-23-2026/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23, updated 2026-11-24
 
 _The Daily Bruin publishes print issues every Monday, Wednesday and Friday during the school year. You can view the online version of The Bruin here._
 ﻿
@@ -163,51 +220,51 @@ The post [USC women’s basketball is going to win it all](https://dailytrojan.c
 
 ## [Scouting Report: UCLA football vs. USC](https://dailybruin.com/2026/11/22/scouting-report-ucla-football-vs-usc-6/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23, updated 2026-11-24
 
 No. 10 UCLA football (10-1, 7-1 Big Ten) has its final regular-season match Saturday afternoon against No. 15 USC (8-3, 5-3). After losing their first game of the season against Michigan on Nov.
 
 ## [Matadors erase 14-point deficit to remain undefeated at home](https://sundial.csun.edu/226072/sports/matadors-erase-14-point-deficit-to-remain-undefeated-at-home/)
 
-via The Sundail (CSUN Student Newspaper) · 2026-11-23
+via The Sundail (CSUN Student Newspaper) · 2026-11-23, updated 2026-11-24
 
 While down 14, the CSUN women’s basketball players rallied to beat the San Diego State Aztecs 70-66 on Thursday, Nov. 19, at Premier America Credit Union Arena. The win ended...
 
 ## [End Overdose: Informing CSUN students about prevention and resources](https://sundial.csun.edu/226067/news/end-overdose-informing-csun-students-about-prevention-and-resources/)
 
-via The Sundail (CSUN Student Newspaper) · 2026-11-23
+via The Sundail (CSUN Student Newspaper) · 2026-11-23, updated 2026-11-24
 
 End Overdose at CSUN is a student-run organization that informs students on what to do in the event of an opioid overdose. Members hand out naloxone and fentanyl strips to...
 
 ## [The historic path UCLA football has blazed to this year’s Battle for the Bell](https://dailybruin.com/2026/11/22/the-historic-path-ucla-football-has-blazed-to-this-years-battle-for-the-bell/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23, updated 2026-11-24
 
 _This post was updated Nov. 22 at 1:35 a.m._
 The 2026 season has been anything but mundane for No. 4 UCLA football. After achieving the program’s best single-season turnaround under coach Bob Chesney in his first year in Westwood, the Bruins have found themselves in postseason contention after going just 3-9 in 2025.
 
 ## [UCLA coaches unite under shared championship standard across sports](https://dailybruin.com/2026/11/22/ucla-coaches-unite-under-shared-championship-standard-across-sports/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23, updated 2026-11-24
 
 Standing outside Pauley Pavilion is a statue of 10-time NCAA championship-winning men’s basketball coach John Wooden, who has been memorialized in the storied history of UCLA Athletics.
 
 ## [Jacob’s Wake-Up Call: With fewer LA locals on the roster, UCLA’s rivalry with USC may not hit the same](https://dailybruin.com/2026/11/22/jacobs-wake-up-call-with-fewer-la-locals-on-the-roster-uclas-rivalry-with-usc-may-not-hit-the-same/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23, updated 2026-11-24
 
 The Battle for the Victory Bell has long meant a jostle over the right to claim they run Los Angeles.
 While LA will always wear gold, the question every late November is whether that fancy yellow is joined by blue or cardinal.
 
 ## [Daily Bruin and Daily Trojan discuss players to watch in the Battle for the Bell](https://dailybruin.com/2026/11/22/daily-bruin-and-daily-trojan-discuss-players-to-watch-in-the-battle-for-the-bell/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23, updated 2026-11-24
 
 No. 4 UCLA football (10-1, 7-1 Big Ten) closes out its regular season against No. 18 USC (8-3, 5-3) Saturday afternoon at the Rose Bowl. The Trojans have captured the last two iterations of the Battle for the Victory Bell.
 
 ## [Jacob’s Wake-Up Call: UCLA football’s quarterback crisis leaves Bruins’ playoff hopes at risk](https://dailybruin.com/2026/11/22/jacobs-wake-up-call-ucla-footballs-quarterback-crisis-leaves-bruins-playoff-hopes-at-risk/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23, updated 2026-11-24
 
 _This post was updated Nov. 22 at 9:54 p.m._
 A meatball sub.
@@ -216,14 +273,15 @@ Heck, even a mobile order from the Study at Hedrick.
 
 ## [A grrrl’s world: Kaia Lobato brings feminist edge to rock with Mad Hunny](https://dailybruin.com/2026/11/22/a-grrrls-world-kaia-lobato-brings-feminist-edge-to-rock-with-mad-hunny/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23, updated 2026-11-24
 
+_This post was updated Nov. 23 at 11:34 a.m._
 At a backyard show in Los Angeles, Kaia Lobato paused Mad Hunny’s cover of No Doubt’s “Just a Girl.”
 The singer asked the men in the crowd to move back and invited the women towards the front.
 
 ## [UCLA football fans are ready to beat USC ahead of rivalry game](https://dailybruin.com/2026/11/22/ucla-football-fans-are-ready-to-beat-usc-ahead-of-rivalry-game/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23, updated 2026-11-24
 
 _This post was updated Nov. 22 at 11:10 p.m._
 The countdown has begun.
@@ -231,21 +289,21 @@ The battle of Los Angeles approaches, and rivalry week is in full swing.
 
 ## [Steve Lacy and friends revisit heartbreak at ‘Oh yeah? Tour’ Hollywood Bowl homecoming](https://dailybruin.com/2026/11/22/steve-lacy-and-friends-revisit-heartbreak-at-oh-yeah-tour-hollywood-bowl-homecoming/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23, updated 2026-11-24
 
 Steve Lacy’s Hollywood Bowl homecoming felt like the end-credit sequence of a coming-of-age movie.
 Golden fireworks illuminated the stage as the Compton local closed out his two-and-a-half hour set with a reprise of “oh yeah?,” transforming the song from an introduction to a fitting finale.
 
 ## [Rivalry game predictions: UCLA football vs. USC](https://dailybruin.com/2026/11/22/rivalry-game-predictions-ucla-football-vs-usc/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23, updated 2026-11-24
 
 _This post was updated Nov. 22 at 8:26 p.m._
 No. 4 UCLA football (10-1, 7-1 Big Ten) closes out its 2026 season in its annual crosstown showdown against rival No.
 
 ## [UCLA men’s soccer pulls off last-minute second-round NCAA tournament win against Omaha](https://dailybruin.com/2026/11/22/ucla-mens-soccer-pulls-off-last-minute-ncaa-tournament-win-against-omaha/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23, updated 2026-11-24
 
 _This post was updated Nov. 22 at 7:34 p.m._
 Ninety minutes.
@@ -254,7 +312,7 @@ No. 4 seed UCLA men’s soccer (10-4-5, 4-3-3 Big Ten) came back to capture a 2-
 
 ## [Filip Jovic scores 17 in season debut as UCLA men’s basketball routs Delaware 85-48](https://dailybruin.com/2026/11/22/filip-jovic-scores-17-in-season-debut-as-ucla-mens-basketball-routs-delaware-85-48/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23, updated 2026-11-24
 
 Freshman guard/forward Nikola Kusturica opened the game decisively, dunking the ball and swinging off the rim as students behind him threw makeshift confetti into the air.
 
@@ -425,13 +483,13 @@ The UC Board of Regents presented its proposed 2027-28 state budget Wednesday, r
 
 ## [Una mirada desde adentro: el legado de Vera Jackson llega al mundo digital](https://sundial.csun.edu/226003/espanol/una-mirada-desde-adentro-el-legado-de-vera-jackson-llega-al-mundo-digital/)
 
-via The Sundail (CSUN Student Newspaper) · 2026-11-21, updated 2026-11-23
+via The Sundail (CSUN Student Newspaper) · 2026-11-21, updated 2026-11-24
 
 La historia de la comunidad afroamericana de Los Ángeles durante las décadas de 1940 y 1950 quedó plasmada en las fotografías de Vera Jackson. Esta pionera del fotoperiodismo documentó la...
 
 ## [Voting experience at CSUN vote center during the 2026 election](https://sundial.csun.edu/225998/elections/voting-experience-at-csun-vote-center-during-the-2026-election/)
 
-via The Sundail (CSUN Student Newspaper) · 2026-11-21, updated 2026-11-23
+via The Sundail (CSUN Student Newspaper) · 2026-11-21, updated 2026-11-24
 
 On Election Day, many people were heading straight to the voting polls. As it got closer and closer, people of all ages were taking it upon themselves to make a...
 
@@ -484,7 +542,7 @@ About 100 people attended the Sexual Violence Prevention Forum, held in the Brui
 
 ## [The Nieman Lab News-About-News Quiz, November 20, 2026](https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-20-2026/)
 
-via Nieman Journalism Lab · 2026-11-20
+via Nieman Journalism Lab · 2026-11-20, updated 2026-11-23
 
 It’s been yet another busy week. Recap it with the fourth edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are based on the week’s Nieman Lab stories or articles elsewhere that we’ve linked to in What We’re Reading....
 
@@ -712,7 +770,7 @@ The Kroc Center was filled with balloons, colored lights, dancing, and music fro
 
 ## [Election season lifted public radio sites. So did a Supreme Court scandal and license plate drama.](https://www.niemanlab.org/2026/11/election-season-lifted-public-radio-sites-so-did-a-supreme-court-scandal-and-license-plate-drama/)
 
-via Nieman Journalism Lab · 2026-11-19, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-19, updated 2026-11-23
 
 More than a year ago, NHPR reporter Todd Bookman started asking questions about “an irregular personnel maneuver” involving the chief justice of New Hampshire’s Supreme Court. Bookman’s reporting ultimately became “Exhibit A” in the ethics probe that led to the justice’s resignation in September. The bombshell resignation news was NHPR’s biggest story in September —...
 
@@ -725,7 +783,7 @@ A season after winning the national championship, the blue and gold seem to be r
 
 ## [Federal funding for public media is coming back, one way or another. But is it time for a deeper rethink?](https://www.niemanlab.org/2026/11/federal-funding-for-public-media-is-coming-back-one-way-or-another-but-is-it-time-for-a-deeper-rethink/)
 
-via Nieman Journalism Lab · 2026-11-19, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-19, updated 2026-11-23
 
 It was 318 days ago that the Corporation for Public Broadcasting — the primary funder of public media in the United States since 1967 — officially ceased to be, the victim of Republican budget cuts and years of attacks from Donald Trump. CPB is not “on pause” or “in hibernation” — it’s dead. As its...
 
@@ -795,7 +853,7 @@ The post [USC Kaufman senior wears many hats, from dancer to director](https://d
 
 ## [NEWSLETTER: What the Los Angeles Super Bowl Committee is bringing to the table](https://sundial.csun.edu/225922/opinions/newsletter-what-the-los-angeles-super-bowl-committee-is-bringing-to-the-table/)
 
-via The Sundail (CSUN Student Newspaper) · 2026-11-19, updated 2026-11-23
+via The Sundail (CSUN Student Newspaper) · 2026-11-19, updated 2026-11-24
 
 The 11th week of the NFL season will begin today, leaving only seven weeks left in the regular season. As we approach the post season, this poses one question: What...
 
@@ -853,9 +911,25 @@ For the Bruins, however, the conference tournament provides just that opportunit
 
 ## [The scholarship that starts at 16: inside Manchester United’s academy](https://sundial.csun.edu/225879/sundialbrandstudio/sundial-marketplace/the-scholarship-that-starts-at-16-inside-manchester-uniteds-academy/)
 
-via The Sundail (CSUN Student Newspaper) · 2026-11-18, updated 2026-11-23
+via The Sundail (CSUN Student Newspaper) · 2026-11-18, updated 2026-11-24
 
 Every summer, a new group of teenagers at Manchester United signs what the club calls a scholarship. It is not a college place. It is a bridge between youth soccer...
+
+## [New restaurant for meat lovers opens in Eagle Rock](https://www.theoccidentalnews.com/community/2026/11/18/new-restaurant-for-meat-lovers-opens-in-eagle-rock/2919512)
+
+via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-19
+
+Brothers Pablo and Luciano Alcorta opened Carnivorous at 1632 Colorado Blvd. June 6. The restaurant serves Argentinian-style dishes including burgers, protein bowls and choripán (an Argentinian sandwich), according to Luciano Alcorta. Nearly 20 years after opening their first restaurant Malbec, their new restaurant embodies the mission statement: “Pure fuel. No waste. In meat we trust.” \[…\]
+
+The post [New restaurant for meat lovers opens in Eagle Rock](https://www.theoccidentalnews.com/community/2026/11/18/new-restaurant-for-meat-lovers-opens-in-eagle-rock/2919512) appeared first on [The Occidental](https://www.theoccidentalnews.com).
+
+## [‘Hamlet’ explores timeless ‘questions of human existence’ Nov. 19 – 22](https://www.theoccidentalnews.com/culture/2026/11/18/hamlet-explores-timeless-questions-of-human-existence-nov-19-22/2919435)
+
+via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-19
+
+Set not in Middle Ages Europe, but 100 years from now in post-apocalyptic LA, Occidental’s theater & performance studies department aims to take Shakespeare’s “Hamlet” into a future without modern conveniences. Department chair and professor of theater Will Power is directing Occidental’s production of the Shakespearean classic in Keck Theater Nov. 19 to Nov. 22. According to \[…\]
+
+The post [‘Hamlet’ explores timeless ‘questions of human existence’ Nov. 19 – 22](https://www.theoccidentalnews.com/culture/2026/11/18/hamlet-explores-timeless-questions-of-human-existence-nov-19-22/2919435) appeared first on [The Occidental](https://www.theoccidentalnews.com).
 
 ## [UC American Federation of Teachers protests lecturer position reductions](https://dailybruin.com/2026/11/18/uc-american-federation-of-teachers-protests-lecturer-position-reductions/)
 
@@ -866,7 +940,7 @@ Members of the UC American Federation of Teachers – a union representing non-S
 
 ## [After gutting newsrooms, McClatchy plans to rebuild itself around AI](https://www.niemanlab.org/2026/11/after-gutting-newsrooms-mcclatchy-plans-to-rebuild-itself-around-ai/)
 
-via Nieman Journalism Lab · 2026-11-18, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-18, updated 2026-11-23
 
 Two months after McClatchy Media laid off more than 90 journalists nationwide, executives at the storied local newspaper chain offered a blunt assessment of its future. The award-winning local journalism that has long powered the 169-year-old company was no longer a viable business model, executives told McClatchy employees during a virtual town hall this month,...
 
@@ -875,6 +949,70 @@ Two months after McClatchy Media laid off more than 90 journalists nationwide, e
 via The Daily Bruin (UCLA Student Newspaper) · 2026-11-18, updated 2026-11-19
 
 A UCLA alumnus is suing the UC Board of Regents after UCPD allegedly disclosed her address and the results of a medical examination to the man she accused of sexually assaulting her as a student.
+
+## [Students and staff raise concerns over Fizz](https://www.theoccidentalnews.com/news/2026/11/18/students-and-staff-raise-concerns-over-fizz/2919441)
+
+via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-19
+
+A task force is being organized to address cyberbullying at Occidental after students raised concerns over harassment and offensive speech on the anonymous social media platform Fizz. Fizz is an app on which users post anonymously to forums dedicated to their schools. Servers exist at more than 800 colleges across the U.S., and every account \[…\]
+
+The post [Students and staff raise concerns over Fizz](https://www.theoccidentalnews.com/news/2026/11/18/students-and-staff-raise-concerns-over-fizz/2919441) appeared first on [The Occidental](https://www.theoccidentalnews.com).
+
+## [Lola Deli set to open Dec. 1 in the place of Bagel + Slice](https://www.theoccidentalnews.com/community/2026/11/18/lola-deli-set-to-open-dec-1-in-the-place-of-bagel-slice/2919513)
+
+via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-19
+
+Lola Deli will open Dec. 1 on the corner of York Boulevard and Armadale Avenue, where Bagel + Slice was located until its closing Oct. 31. According to the owner of the new shop, Orlando Rodriguez, a team of people at Occidental are working to transform the space and get ready to open in the \[…\]
+
+The post [Lola Deli set to open Dec. 1 in the place of Bagel + Slice](https://www.theoccidentalnews.com/community/2026/11/18/lola-deli-set-to-open-dec-1-in-the-place-of-bagel-slice/2919513) appeared first on [The Occidental](https://www.theoccidentalnews.com).
+
+## [New cafe opens in ghost kitchen, tenant raises concerns](https://www.theoccidentalnews.com/community/2026/11/18/new-cafe-opens-in-ghost-kitchen-tenant-raises-concerns/2919508)
+
+via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-19
+
+Benny’s Cafe opened Nov. 15 inside a location owned by Partake Collective, a ghost kitchen at 3716 Eagle Rock Blvd. Partake has two locations, the Glassell Park site and its original in Long Beach, according to the company’s website. Adam Carrillo, Partake’s CEO, said the company rents kitchens to new food businesses to lower the \[…\]
+
+The post [New cafe opens in ghost kitchen, tenant raises concerns](https://www.theoccidentalnews.com/community/2026/11/18/new-cafe-opens-in-ghost-kitchen-tenant-raises-concerns/2919508) appeared first on [The Occidental](https://www.theoccidentalnews.com).
+
+## [Eagle Rock pie contest brings neighbors together through baking](https://www.theoccidentalnews.com/community/2026/11/18/eagle-rock-pie-contest-brings-neighbors-together-through-baking/2919504)
+
+via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-19
+
+The Eagle Rock Pie Baking Contest at the Center for the Arts Eagle Rock  welcomed community members for an afternoon of pie tasting, friendly competition and neighborhood connection Nov. 14. The contest featured several categories, including savory, sweet, vegan, gluten-free, store-bought and baked by kids. Attendees also had the opportunity to participate in the people’s \[…\]
+
+The post [Eagle Rock pie contest brings neighbors together through baking](https://www.theoccidentalnews.com/community/2026/11/18/eagle-rock-pie-contest-brings-neighbors-together-through-baking/2919504) appeared first on [The Occidental](https://www.theoccidentalnews.com).
+
+## [Metro’s BRT project prompts discussions over tree removal](https://www.theoccidentalnews.com/community/2026/11/18/metros-brt-project-prompts-discussions-over-tree-removal/2919506)
+
+via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-19
+
+The LA County Metropolitan Transportation Authority (LA Metro) will oversee the removal of 14 trees on West Colorado Boulevard to further the plans of the North Hollywood to Pasadena Bus Rapid Transit (BRT) project. A meeting on this topic will be held by LA Metro Nov. 19 at Occidental in the Herrick Interfaith Center. According \[…\]
+
+The post [Metro’s BRT project prompts discussions over tree removal](https://www.theoccidentalnews.com/community/2026/11/18/metros-brt-project-prompts-discussions-over-tree-removal/2919506) appeared first on [The Occidental](https://www.theoccidentalnews.com).
+
+## [Gianmarco Soresi makes Tigers roar at ‘Laugh Your Class Off’](https://www.theoccidentalnews.com/culture/2026/11/18/gianmarco-soresi-makes-tigers-roar-at-laugh-your-class-off/2919437)
+
+via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-19
+
+Stand-up comedian Gianmarco Soresi has built a national following over the past few years with sets that range from family dysfunction to politics and post-grad job anxiety. Ahead of his debut Netflix special next month, the New York-based comic has been touring clubs and universities across the country. Soresi stopped at Occidental College Nov. 11, performing a show in Thorne Hall \[…\]
+
+The post [Gianmarco Soresi makes Tigers roar at ‘Laugh Your Class Off’](https://www.theoccidentalnews.com/culture/2026/11/18/gianmarco-soresi-makes-tigers-roar-at-laugh-your-class-off/2919437) appeared first on [The Occidental](https://www.theoccidentalnews.com).
+
+## [‘Self-coached’ Occidental dance team learns to ‘win on their own’](https://www.theoccidentalnews.com/sports/2026/11/18/self-coached-occidental-dance-team-learns-to-win-on-their-own/2919474)
+
+via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-19
+
+During the 2025–2026 season, at their first-ever competition, the Occidental dance team placed third at the United Spirit Association (USA) Collegiate Championships. The team competed in the 4 Year College Pom Div II/III Finals, which consisted of two days of competition Feb. 21–22 in Anaheim, CA. The team is hoping to expand their spring 2027 \[…\]
+
+The post [‘Self-coached’ Occidental dance team learns to ‘win on their own’](https://www.theoccidentalnews.com/sports/2026/11/18/self-coached-occidental-dance-team-learns-to-win-on-their-own/2919474) appeared first on [The Occidental](https://www.theoccidentalnews.com).
+
+## [Athletes of the week Taylor and Noble fueled by passion](https://www.theoccidentalnews.com/sports/2026/11/18/athletes-of-the-week-taylor-and-noble-fueled-by-passion/2919490)
+
+via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-19
+
+Kendall Taylor Volleyball setter Kendall Taylor (junior) has grown since debuting as one of eight first-year players, turning into a key presence for the team by bringing energy and experience to a changing roster. Taylor closed out the season by recording 10 assists and eight digs against Whittier Nov. 7, following a team-high 10 assists \[…\]
+
+The post [Athletes of the week Taylor and Noble fueled by passion](https://www.theoccidentalnews.com/sports/2026/11/18/athletes-of-the-week-taylor-and-noble-fueled-by-passion/2919490) appeared first on [The Occidental](https://www.theoccidentalnews.com).
 
 ## [Daily Bruin Print Issue – Nov. 18, 2026](https://dailybruin.com/2026/11/18/daily-bruin-print-issue-nov-18-2026/)
 
@@ -1083,7 +1221,7 @@ No. 25 UCLA women’s volleyball, which just broke into AVCA rankings on Nov. 15
 
 ## [“A healthy degree of vitality”: Medill takes a look at the Twin Cities’ local news ecosystem](https://www.niemanlab.org/2026/11/a-healthy-degree-of-vitality-medill-takes-a-look-at-the-twin-cities-local-news-ecosystem/)
 
-via Nieman Journalism Lab · 2026-11-17, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-17, updated 2026-11-23
 
 This year’s State of Local News Report from Medill was grim. But in the Twin Cities, Neal St. Anthony writes, a rich local news ecosystem offers a more hopeful picture. The metro area of more than 3 million people is home to The Minnesota Star Tribune, public radio powerhouse MPR, local TV stations, and multiple...
 
@@ -1093,9 +1231,81 @@ via The Daily Bruin (UCLA Student Newspaper) · 2026-11-17, updated 2026-11-18
 
 ## [Seals, construction, and midterms drive traffic gains at Massachusetts nonprofit news outlets](https://www.niemanlab.org/2026/11/seals-construction-and-midterms-drive-traffic-gains-at-massachusetts-nonprofit-news-outlets/)
 
-via Nieman Journalism Lab · 2026-11-17, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-17, updated 2026-11-23
 
 Is something in the water in Nieman Lab’s home state? In our latest quarterly ranking of nonprofit news outlets, eight Massachusetts nonprofit news outlets enjoyed significant jumps in traffic. Massachusetts is the state that appeared most frequently in this quarter’s data, followed by California (7), Michigan (4), and New York (4). Four of those Massachusetts...
+
+## [This Week in Tech History](https://tech.caltech.edu/this-week-in-tech-history-4)
+
+via California Tech (Caltech Student Newspaper) · 2026-11-17, updated 2026-11-18
+
+November 14, 1986 November 21, 1986 November 18, 1988 November 17, 1989
+
+## [Campus Updates from Housing & Dining](https://tech.caltech.edu/campus-updates-from-housing-and-dining)
+
+via California Tech (Caltech Student Newspaper) · 2026-11-17
+
+Hello everyone from Housing and Dining Services! There were some awesome things that took place on campus the past few weeks, including the inauguration of Caltech’s tenth president, Ray Jayawardhana, where Caltech Dining Services (CDS) was there to host the campus for a…
+
+## [The Guest](https://tech.caltech.edu/the-guest)
+
+via California Tech (Caltech Student Newspaper) · 2026-11-17
+
+\| The Guest \| L’ospite \| \| --- \| --- \| \| First the smells went: November fog off the Adige, bread at seven, grape must from the Valpolicella hills, I go back and breathe in as hard as I can. Nothing. \| Prima se ne sono andati gli odori: la nebbia di novembre sull’Adige, il pane…
+
+## [Untold Stories](https://tech.caltech.edu/untold-stories)
+
+via California Tech (Caltech Student Newspaper) · 2026-11-17
+
+How quiet shall words become, Lying dormant and wounded beyond. Lacking parsimony and their riddles be gone, Waiting to become stone under the sun. Lofty, pulling the tendril of the one, As the soil receives the tears of above. Here’s a daisy to mark our beings, Of hope and…
+
+## [Behind the Revised Grading Policies](https://tech.caltech.edu/behind-the-revised-grading-policies)
+
+via California Tech (Caltech Student Newspaper) · 2026-11-17
+
+In an email to students on August 21, Kevin Gilmartin, Vice President for Student Affairs, announced revised grading policies approved by the Faculty Board, including “Strengthening Assessments,” encouraging in-person assessments; “Improving Transparency,” internally publishing…
+
+## [Inside the Mathematical Tripos and More: Studying Abroad at Cambridge](https://tech.caltech.edu/inside-the-mathematical-tripos-and-more-studying-abroad-at-cambridge)
+
+via California Tech (Caltech Student Newspaper) · 2026-11-17
+
+Editor’s note: This article was submitted by the Fellowships and Study Abroad (FASA) Office and written by Enoch Guo ’27, who studied at Pembroke College, University of Cambridge, in Fall 2025. At the end of the article, additional information about study abroad is provided by…
+
+## [Inauguration of President Jayawardhana](https://tech.caltech.edu/inauguration-of-president-jayawardhana)
+
+via California Tech (Caltech Student Newspaper) · 2026-11-17
+
+On Thursday, October 29, Caltech celebrated the inauguration of Ray Jayawardhana as the Institute’s tenth president. The inauguration ceremony was held at Beckman Mall, followed by an all-campus reception on Olive Walk. The inauguration ceremony began with a procession of…
+
+## [Caltech Gathers for Election Night Watch Party](https://tech.caltech.edu/caltech-gathers-for-election-night-watch-party)
+
+via California Tech (Caltech Student Newspaper) · 2026-11-17
+
+On Tuesday, November 3, members of the Caltech community gathered at Avery Courtyard and Dining Hall to watch the initial results come in for federal, state, and local elections. The Election Night Watch Party ran from 7 to 10 p.m., turning Avery into a hub of conversation and…
+
+## [Professor Alvarez Breaks Down the 2026 Midterms](https://tech.caltech.edu/professor-alvarez-breaks-down-the-2026-midterms)
+
+via California Tech (Caltech Student Newspaper) · 2026-11-17
+
+Three days after the 2026 midterm elections, on Nov. 6, the Caltech Y hosted "The Midterms in Retrospective: A Post Election Lunch Discussion" with Michael Alvarez, Flintridge Foundation Professor of Political and Computational Social Science. He opened by calling the elections…
+
+## [Caltech Needs a Testing Center](https://tech.caltech.edu/caltech-needs-a-testing-center)
+
+via California Tech (Caltech Student Newspaper) · 2026-11-17
+
+Moving to Caltech for my PhD from a large, unprestigious state university was a big change. Campus can be traversed in a matter of minutes, no one is camping out for a good seat at the basketball game, and the total student population is smaller than that of my high school.…
+
+## [Response to Revised Course Policies](https://tech.caltech.edu/response-to-revised-course-policies)
+
+via California Tech (Caltech Student Newspaper) · 2026-11-17
+
+Editor’s Note: This opinion piece incorporates feedback from students who requested anonymity due to concerns about potential repercussions. The Issue with AI in Education Misuse of AI has become a major concern institutions are addressing (Caltech, MIT). However, some courses…
+
+## [Change Is Inevitable](https://tech.caltech.edu/change-is-inevitable)
+
+via California Tech (Caltech Student Newspaper) · 2026-11-17
+
+As I read Richard Gruner’s guest commentary, “Lost Caltech,” in the October 6 Tech, I experienced a myriad of emotions and thoughts. Sadly, something has indeed been lost at Caltech over the years. As an undergrad here myself in the early ’90s and as staff since 2004, I have…
 
 ## [‘The most important match’: UCLA women’s volleyball readies for crosstown showdown to close out regular season](https://dailybruin.com/2026/11/17/the-most-important-match-ucla-womens-volleyball-readies-for-crosstown-showdown-to-close-out-regular-season/)
 
@@ -1207,7 +1417,7 @@ via The Daily Bruin (UCLA Student Newspaper) · 2026-11-16, updated 2026-11-18
 
 ## [NPR makes fixing its app a key priority in its new strategic plan](https://www.niemanlab.org/2026/11/npr-makes-fixing-its-app-a-key-priority-in-its-new-strategic-plan/)
 
-via Nieman Journalism Lab · 2026-11-16, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-16, updated 2026-11-23
 
 Over the next two years, NPR will address a longstanding listener plea: improving its app. During a November 12 board of directors meeting, NPR CEO Katherine Maher said the organization will rebuild its digital offerings to be a “service-first, app-first destination” as part of NPR’s 2027-2029 strategic plan, Current reported on Thursday. One goal of...
 
@@ -1239,7 +1449,7 @@ The post [Men’s club hockey is working towards a championship](https://dailytr
 
 ## [Traffic is declining for local newspapers. Here are some things that helped small publishers make gains.](https://www.niemanlab.org/2026/11/traffic-is-declining-for-local-newspapers-here-are-some-things-that-helped-small-publishers-make-gains/)
 
-via Nieman Journalism Lab · 2026-11-16, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-16, updated 2026-11-23
 
 We’ve now been publishing roundups of local newspaper traffic for a full year, so we can compare this year’s traffic to last year’s. Almost across the board, local newspapers are seeing traffic decline as Google referrals drop. For July, August, and September, traffic to the most-visited sites is lower than at this time last year,...
 
@@ -1375,7 +1585,7 @@ The Undergraduate Students Association Council’s external vice president’s o
 
 ## [Matadors get their first win of the season in dominant fashion](https://sundial.csun.edu/225709/sports/matadors-get-their-first-win-of-the-season-in-dominant-fashion/)
 
-via The Sundail (CSUN Student Newspaper) · 2026-11-16, updated 2026-11-23
+via The Sundail (CSUN Student Newspaper) · 2026-11-16, updated 2026-11-24
 
 The CSUN Matadors (0-2) men’s basketball team held their season opener against the Grace University Talons (0-2). As both teams were looking to get their first win of the season,...
 
@@ -1409,7 +1619,7 @@ The Bruin Fringe Festival takes students from the periphery to the stage, spotli
 
 ## [College Football is set to have major changes with new billion-dollar playoff expansion](https://sundial.csun.edu/225678/sports/college-football-is-set-to-have-major-changes-with-new-billion-dollar-playoff-expansion/)
 
-via The Sundail (CSUN Student Newspaper) · 2026-11-16, updated 2026-11-23
+via The Sundail (CSUN Student Newspaper) · 2026-11-16, updated 2026-11-24
 
 On Monday, Nov. 9, the College Football Playoff Managing Committee announced that the College Football Playoff is being expanded to a 24-team bracket. According to the announcement, ESPN is set...
 
@@ -1469,7 +1679,7 @@ On Friday, flights were delayed across the country, and planes were prevented fr
 
 ## [FAA lifts nationwide ground stop after communications failure disrupts thousands of flights](https://sundial.csun.edu/225629/featured/faa-lifts-nationwide-ground-stop-after-communications-failure-disrupts-thousands-of-flights/)
 
-via The Sundail (CSUN Student Newspaper) · 2026-11-14, updated 2026-11-23
+via The Sundail (CSUN Student Newspaper) · 2026-11-14, updated 2026-11-24
 
 The Federal Aviation Administration (FAA) ended a ground stop across the country on Friday, Nov. 13, following a breakdown in air traffic control radio communications, grounding flights out of every...
 
@@ -1542,7 +1752,7 @@ No. 4 UCLA football (9-0, 6-0 Big Ten) enters the last quarter of the regular se
 
 ## [The Nieman Lab News-About-News Quiz, November 13, 2026](https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-13-2026/)
 
-via Nieman Journalism Lab · 2026-11-13, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-13, updated 2026-11-23
 
 It’s been another busy week. Recap it with the third edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are based on the week’s Nieman Lab stories or articles elsewhere that we’ve linked to in What We’re Reading. The...
 
@@ -1775,7 +1985,7 @@ via The Daily Bruin (UCLA Student Newspaper) · 2026-11-12, updated 2026-11-14
 
 ## [Indonesia’s new copyright bill would force Google and Meta to pay to aggregate news](https://www.niemanlab.org/2026/11/indonesias-new-copyright-bill-would-force-google-and-meta-to-pay-to-aggregate-news/)
 
-via Nieman Journalism Lab · 2026-11-12, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-12, updated 2026-11-23
 
 On Wednesday, Meta, TikTok, and Google testified in the Indonesian parliament in opposition to a new copyright bill. The proposed law would require digital platforms to pay news publishers in Indonesia for aggregating and previewing their content, according to a new report from Reuters. The bill does not distinguish between aggregation and republication. Tech platforms...
 
@@ -1803,7 +2013,7 @@ No.
 
 ## [With event costs up and funding down, journalism organizations cancel conferences and cut staff](https://www.niemanlab.org/2026/11/with-event-costs-up-and-funding-down-journalism-organizations-cancel-conferences-and-cut-staff/)
 
-via Nieman Journalism Lab · 2026-11-12, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-12, updated 2026-11-23
 
 When the pandemic forced conferences to go virtual, the question was whether people would come back in person post-Covid. For a while, they did. For a couple years after the pandemic, people were excited to be in person together again. U.S. journalism organizations saw their revenue climb, as sponsors and funders spent generously. At the...
 
@@ -1815,7 +2025,7 @@ Filmed and edited by Victoria Marchetti and Bao Linh Ngo Executive Producers: Ma
 
 ## [“A government that ‘gets it’”: Canada recommits to federal funding for news](https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/)
 
-via Nieman Journalism Lab · 2026-11-12, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-12, updated 2026-11-23
 
 A Canadian program to place local reporters in underserved communities has lived from renewal to renewal. Publishers who relied on the Local Journalism Initiative couldn’t be sure whether the money would be there again. That changed last week when Canada proposed a federal budget that would make the Local Journalism Initiative permanent. The 2026 budget...
 
@@ -1965,7 +2175,7 @@ In 2007’s “Back in Black” storyline, Peter dons a makeshift version of his
 
 ## [Some local news outlets are losing physical newsrooms](https://www.niemanlab.org/2026/11/some-local-news-outlets-are-losing-physical-newsrooms/)
 
-via Nieman Journalism Lab · 2026-11-10, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-10, updated 2026-11-23
 
 When the Covid-19 pandemic normalized remote work, a second trend caught on: shutting down physical newsrooms. A report from Northwestern University’s Local News Initiative, published Tuesday, looks at the cultural losses that news outlets face when their staff stops working together under one roof. Here’s LNI contributor and Columbia College Chicago journalism professor Jackie Spinner:...
 
@@ -1977,7 +2187,7 @@ GeekyAnts Co-founder Sanket Sahu discussed the development of AntFabric, an AI-n
 
 ## [AI is becoming an information gateway. Audiences still don’t want it making their news.](https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/)
 
-via Nieman Journalism Lab · 2026-11-10, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-10, updated 2026-11-23
 
 In my Nieman Lab prediction this time last year, I wrote that “in 2026, the use of AI as an information gateway will only rise further.” As it turns out, I was right. In new research that I published with my colleagues Rasmus Kleis Nielsen and Richard Fletcher, one of our many findings is that...
 
@@ -2128,7 +2338,7 @@ Sunday, Nov. 1 A CSUN officer arrested a suspect at University Park Apartment Bu
 
 ## [“It’s either this or death”: Canada renews the Local Journalism Initiative and extends journalism tax credit](https://www.niemanlab.org/2026/11/its-either-this-or-death-frankly-canada-renews-the-local-journalism-initiative-and-extends-journalism-tax-credit/)
 
-via Nieman Journalism Lab · 2026-11-09, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-09, updated 2026-11-23
 
 Canada’s proposed federal budget includes some good news for local journalism. The federal government is extending its journalism tax credit by $501 million, expanding eligibility to audio and audiovisual news organizations, and renewing the Local Journalism Initiative, which supports journalism in underserved communities. Sarah wrote about the Local Journalism Initiative in its early days. A...
 
@@ -2162,7 +2372,7 @@ When you have multiple criminal charges, they can easily become much more compli
 
 ## [Student journalists are reporting more local news for real audiences. Their professors are exhausted.](https://www.niemanlab.org/2026/11/student-journalists-are-reporting-more-local-news-for-real-audiences-their-professors-are-exhausted/)
 
-via Nieman Journalism Lab · 2026-11-09, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-09, updated 2026-11-23
 
 If there’s one big takeaway from the past two decades of local news struggle — the often perilous, occasionally brilliant transition from dominant newspapers to online media — perhaps it’s this: Passion alone isn’t enough. A newspaper newsroom filled with committed editors and brilliant reporters still stares into the same headwinds as its more middling peers....
 
@@ -2521,7 +2731,7 @@ For the first time, possibly ever, I think he actually got beat in that departme
 
 ## [The Nieman Lab News-About-News Quiz, November 6, 2026](https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-6-2026/)
 
-via Nieman Journalism Lab · 2026-11-06, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-06, updated 2026-11-23
 
 What a week! Recap it with the second edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are based on the week’s Nieman Lab stories or articles elsewhere that we’ve linked to in What We’re Reading. The quiz will...
 
@@ -2759,7 +2969,7 @@ UCPD recorded 757 unique entries in its Oct. 1-31 daily crime log.
 
 ## [Meta pulls down controversial terms of service](https://www.niemanlab.org/2026/11/meta-pulls-down-controversial-terms-of-service/)
 
-via Nieman Journalism Lab · 2026-11-05, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-05, updated 2026-11-23
 
 Meta has indefinitely delayed its proposed commercial terms of service, which would have permitted the company to scrape the websites of Meta Business account users. On Thursday, the company took down the preview link to the proposed terms and published an update to its Business Help Center that reads: “We recently shared that we were...
 
@@ -2772,13 +2982,13 @@ Filmed and edited by Victoria Marchetti Edited by Milo Misher Executive producer
 
 ## [With “Bimbo University,” Nikita Redkar leans into femininity to explain the news](https://www.niemanlab.org/2026/11/with-bimbo-university-nikita-redkar-leans-into-femininity-to-explain-the-news/)
 
-via Nieman Journalism Lab · 2026-11-05, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-05, updated 2026-11-23
 
 For Nikita Redkar, a big part of filming a video is putting together an outfit. In a July video about youth-led protests in India, the 33-year-old is walking around New York City explaining how movements grow when people with opposing views come together on the things they do agree on. She’s wearing a white tube...
 
 ## [The Onion’s new plan to market its print newspaper: sponsoring a bowl game](https://www.niemanlab.org/2026/11/the-onions-new-plan-to-market-its-print-newspaper-sponsoring-a-bowl-game/)
 
-via Nieman Journalism Lab · 2026-11-05, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-05, updated 2026-11-23
 
 College football already has an Orange Bowl, a Peach Bowl, and a Citrus Bowl, so on its face, there’s nothing outlandish about the concept of an Onion Bowl. But this matchup wouldn’t be titled to evoke some locale’s bumper crop, à la the Famous Idaho Potato Bowl. Instead it would market “America’s Finest News Source,”...
 
@@ -2955,13 +3165,13 @@ via The Daily Bruin (UCLA Student Newspaper) · 2026-11-04, updated 2026-11-05
 
 ## [Weird animals win on Instagram. Mongabay’s next-best choice? Its reporters.](https://www.niemanlab.org/2026/11/weird-animals-win-on-instagram-mongabays-next-best-choice-its-reporters/)
 
-via Nieman Journalism Lab · 2026-11-04, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-04, updated 2026-11-23
 
 Mongabay’s most successful videos are about weird animals. But not every video from the environmental newsroom can be about strange — or strangely cute — animals. Some have to be about shrimp farm pollution. Or a deforestation crisis brought on by cacao farming in Liberia. That’s where the challenge comes in, Mongabay video managing editor...
 
 ## [The New York Times stays on track to reach 15 million subscribers by the end of 2027](https://www.niemanlab.org/2026/11/the-new-york-times-stays-on-track-to-reach-15-million-subscribers-by-the-end-of-2027/)
 
-via Nieman Journalism Lab · 2026-11-04, updated 2026-11-20
+via Nieman Journalism Lab · 2026-11-04, updated 2026-11-23
 
 The New York Times added 420,000 new digital subscribers in the third quarter of 2026, keeping it on track to achieve its goal of hitting 15 million subscriptions by the end of 2027. The Times now has 13.76 million total subscribers, the company said in its earnings report released Wednesday. Almost all of those subscribers...
 

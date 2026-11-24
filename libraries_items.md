@@ -1,14 +1,22 @@
 ---
 title: "GLAM"
 description: "Libraries, archives and museums."
-pubDate: Mon, 23 Nov 2026 10:30:49 GMT
+pubDate: Mon, 23 Nov 2026 20:20:52 GMT
 aggregateOf: "libraries.md"
-dateModified: Tue, 24 Nov 2026 05:05:47 GMT
-itemCount: 67
-generator: antenna/0.1.2
+dateModified: Tue, 24 Nov 2026 06:47:30 GMT
+itemCount: 68
+generator: antenna/0.2.0
 ---
 
 # GLAM
+
+## [ARL Daily Intelligence (November 23–24)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-november-23-24/)
+
+via Association of Research Libraries News · 2026-11-23
+
+Last Updated on November 23, 2026, 3:34 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+
+The post [ARL Daily Intelligence (November 23–24)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-november-23-24/) appeared first on [Association of Research Libraries](https://www.arl.org).
 
 ## [Be Thankful for What You’ve Got](https://scholarlykitchen.sspnet.org/2026/11/23/be-thankful-for-what-youve-got/)
 
@@ -42,7 +50,7 @@ A recap of IOI's participation at UbuntuNet CONNECT 2026 in Lilongwe, Malawi
 
 ## [Fall 2026](https://www.arl.org/our-priorities/diversity-equity-inclusion/arl-groundwork/fall-2026-2/)
 
-via Association of Research Libraries News · 2026-11-20
+via Association of Research Libraries News · 2026-11-20, updated 2026-11-23
 
 Last Updated on November 20, 2026, 11:07 am ET ARL Groundwork (Fall 2026) Groundwork is a new, semiannual publication designed to uplift the people, partnerships, and practices across ARL member...
 
@@ -64,7 +72,7 @@ Ed Pentz, our Executive Director, opened the 2026 Annual Meeting by introducing 
 
 Through the two separate sessions of the meeting, we shared updates on governance, improvements to our systems and services, long-term investment to enable a more robust Research Nexus, and our commitment to supporting the integrity of the scholarly record. We also heard from community members about how they’re using and building on Crossref metadata.
 
-Good infrastructure is an inclusive one – and this year, for the first time, we included simultaneous translation of the meeting into selected languages. The recordings are available in [English-session 1](https://youtu.be/Jy_uFqT6NeM?si=N7T2qbH5bUTOdajI), [English-session 2](https://youtu.be/BB3ufOQbhkI?si=rbzYZJA_qH2i4tnu), [Indonesian](https://youtu.be/BrZ8uZmpAYw) (first session only), [Português-session 1](https://youtu.be/Z5146ptVDcs), [Português-session 2](https://www.crossref.org/crossref-annual-meeting/#:~:text=into%3A%20Espa%C3%B1ol%20and-,Portugu%C3%AAs,-.%20Captions%20in%20Indonesian), and [Español-session 1](https://youtu.be/KEFJZf0D0OA), [Español-session 2](https://youtu.be/imv_barp-co). All assets, including slides are [available on Zenodo](https://doi.org/10.13003/078377qplhnh).
+Good infrastructure is an inclusive one – and this year, for the first time, we included simultaneous translation of the meeting into selected languages. The recordings are available in [English-session 1](https://youtu.be/Jy_uFqT6NeM?si=N7T2qbH5bUTOdajI), [English-session 2](https://youtu.be/BB3ufOQbhkI?si=rbzYZJA_qH2i4tnu), [Indonesian](https://youtu.be/BrZ8uZmpAYw) (first session only), [Português-session 1](https://youtu.be/Z5146ptVDcs), [Português-session 2](https://youtu.be/s3RoKcqJRSM), [Español-session 1](https://youtu.be/KEFJZf0D0OA), and [Español-session 2](https://youtu.be/imv_barp-co). All assets, including slides, are [available on Zenodo](https://doi.org/10.13003/078377qplhnh).
 
 In this blog we summarise the highlights across both calls, not in a chronological order of the agenda, but grouping updates in response to some key questions about the patient work behind keeping good infrastructure running.
 
@@ -119,9 +127,9 @@ You do. Specifically, our Board of Directors is made up by member representative
 
 We publish our governing documents, board minutes, and (as of this year) summaries of key discussions held at the board meetings to help members engage with the governance process.
 
-![Infographic showing Crossref’s governance: 26,500+ member organizations across 171 countries, one vote per member, and a 16-seat board equally representing smaller and larger members.](https://www.crossref.org/images/blog/2026/how-crossref-is-governed.jpeg)
+![Infographic showing Crossref’s governance: 26,500+ member organisations across 171 countries, one vote per member, and a 16-seat board equally representing smaller and larger members.](https://www.crossref.org/images/blog/2026/how-crossref-is-governed.jpeg)
 
-Seven of our 16 board seats were up for election this year. 55 applications from 29 countries came forward this year, and the [Nominating Committee](https://www.crossref.org/committees/nominating/) reviewed all expressions of interest before building a slate. The Nominating Committee is composed of five people: three of whom are sitting board members, and none come from an organization with a candidate standing that year.
+Seven of our 16 board seats were up for election this year. 55 applications from 29 countries came forward, and the [Nominating Committee](https://www.crossref.org/committees/nominating/) reviewed all expressions of interest before building a slate. The Nominating Committee is composed of five people: three of whom are sitting board members, and none come from an organization with a candidate standing that year.
 
 Ballots closed at 12:00 UTC on 22 October, between our two sessions. We had the pleasure of [announcing the newly elected board](https://youtu.be/BB3ufOQbhkI?si=A-AxQSti8LQcmRv1&t=3278) at our second session of the day.
 
@@ -142,7 +150,7 @@ All seven terms begin on 1 January 2027.
 
 We’re establishing a second legal entity in Belgium, an AISBL, alongside our US organisation. Approved by the board, this will give Crossref a presence in two jurisdictions, strengthening our long-term resilience. We’ll share more once it’s formally established. Membership, fees, and your relationship with Crossref remain unchanged.
 
-We also publish how we measure up. We adopted the [Principles of Open Scholarly Infrastructure (POSI)](https://openscholarlyinfrastructure.org/) in 2020. Thirty organizations have now adopted POSI. Nobody has met every principle, and a self-assessment says how far you’ve got. Ours is due this December.
+We also publish how we measure up. We adopted the [Principles of Open Scholarly Infrastructure (POSI)](https://openscholarlyinfrastructure.org/) in 2020. Thirty organisations have now adopted POSI. Nobody has met every principle, and a self-assessment says how far you’ve got. Ours is due this December.
 
 ### What do we owe each other?
 
@@ -158,7 +166,7 @@ In this place, it’s important to note that even the most responsible members m
 
 Dominika Tkaczyk, Director of Technology, explained how patient work on our technology allows us to lay foundations for future possibilities. Some work of fundamental importance might be invisible on the outside but is essential to keep the infrastructure working. If we move with speed, we may compromise on quality and introduce technical debt. And this can accumulate over time, leaving parts of the system in a fragile state. In 2024, we worked on [migrating our database from Oracle to Postgres](https://doi.org/10.64000/wd6rx-vpq73), improving scalability, reducing operational burden, strengthening disaster recovery, and better aligning with the Principles of Open Scholarly Infrastructure. Our move to the cloud in 2024-2025 also reduced operational burden and made disaster recovery easier – those changes should have been unnoticeable for the users of our system, but were necessary to make it more robust and resilient.
 
-Since then, we’ve built an internal analytical environment – a data lake, which increased our ability ito analyse the metadata with ease that surpasses what’s achievable through the use of our API. Instead of embedded filters and facets, the data lake enables running scripts that analyse the entire database. This offers a foundation for versatile reports and dashboards. An early example of a resulting report is our [State of the Research Nexus](https://www.crossref.org/documentation/research-nexus/) spreadsheet, where we track the progress towards our vision.
+Since then, we’ve built an internal analytical environment – a data lake, which increased our ability to analyse the metadata with ease that surpasses what’s achievable through the use of our API. Instead of embedded filters and facets, the data lake enables running scripts that analyse the entire database. This offers a foundation for versatile reports and dashboards. An early example of a resulting report is our [State of the Research Nexus](https://www.crossref.org/documentation/research-nexus/) spreadsheet, where we track the progress towards our vision.
 
 Finally, we’re rebuilding and adding functionality to automated metadata matching, to continue offering systematic enrichment to member-submitted metadata, making it richer and more useful to the scholarly community at large. The first example of the new service is the [“funder matching”](https://doi.org/10.64000/rg83r-2ft15) we relaunched in September, which now adds funder’s ROR IDs if they are missing in the newly registered records (where the funder name is available).
 
@@ -168,9 +176,9 @@ Three years is a long commitment, and we don’t yet know how far it will take u
 
 ### What did we build and improve this year?
 
-Most of this year’s work was aimed at making it easier to be a member: to join, to register metadata, and retreive metadata. It sits under our strategic agenda, which has four goals:
+Most of this year’s work was aimed at making it easier to be a member: to join, to register metadata, and retrieve metadata. It sits under our strategic agenda, which has four goals:
 
-Our [strategic agenda](https://www.crossref.org/strategy/) encompasses four goals:
+Our [strategic agenda](https://www.crossref.org/strategy/):
 
 - Contribute to an environment where the community identifies and co-creates solutions for broad benefit.
 - A sustainable source of complete, open, and global scholarly metadata and relationships.
@@ -237,7 +245,7 @@ The conversation continues with #Crossref2026 and on our [community forum](https
 
 ## [Before the Paper Goes](https://metaarchivist.substack.com/p/before-the-paper-goes)
 
-via The Meta Archivist blog · 2026-11-19, updated 2026-11-23
+via The Meta Archivist blog · 2026-11-19, updated 2026-11-24
 
 NARA’s new authority spares agencies from rescanning qualifying legacy records, but it can leave them holding the paper for years.
 
@@ -337,7 +345,7 @@ We welcome comments, suggestions, and challenges to this report and our practice
 
 ## [The Return of the Hit Count in academic AI search? Not Quite.](https://aarontay.substack.com/p/the-return-of-the-hit-count-in-academic)
 
-via Aaron Tay's Musings about Librarianship · 2026-11-18, updated 2026-11-23
+via Aaron Tay's Musings about Librarianship · 2026-11-18, updated 2026-11-24
 
 Why hits shown in hybrid AI search such as JSTOR Dynamic Search or Consensus should not be treated the same as a traditional database Boolean hit count.
 
@@ -371,7 +379,7 @@ Check out all of the Future Knowledge episodes at [https://archive.org/details/f
 
 ## [The Seal and the Machine](https://metaarchivist.substack.com/p/the-seal-and-the-machine)
 
-via The Meta Archivist blog · 2026-11-17, updated 2026-11-23
+via The Meta Archivist blog · 2026-11-17, updated 2026-11-24
 
 From the seals of Prussian archives to the uncertain afterlife of digital trust
 
@@ -401,7 +409,7 @@ The post [Just-in-Time Synthesis: A New Approach to an Old Genre](https://schola
 
 ## [ARL Daily Intelligence (November 16–19)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-november-16-19/)
 
-via Association of Research Libraries News · 2026-11-16, updated 2026-11-20
+via Association of Research Libraries News · 2026-11-16, updated 2026-11-23
 
 Last Updated on November 20, 2026, 2:59 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
@@ -433,7 +441,7 @@ Today I am announcing [defter](https://crates.io/crates/defter), a new Zotero sy
 
 ## [Appraising Permanence, Sustaining the Promise](https://metaarchivist.substack.com/p/appraising-permanence-sustaining)
 
-via The Meta Archivist blog · 2026-11-15, updated 2026-11-23
+via The Meta Archivist blog · 2026-11-15, updated 2026-11-24
 
 What NARA’s appraisal process reveals about the distance between deciding that federal records should survive and ensuring that they can.
 
@@ -509,7 +517,7 @@ The post [Transfer Explorer Comes to Ohio](https://sr.ithaka.org/blog/transfer-e
 
 ## [Who Will Keep the Archive?](https://metaarchivist.substack.com/p/who-will-keep-the-archive)
 
-via The Meta Archivist blog · 2026-11-12, updated 2026-11-23
+via The Meta Archivist blog · 2026-11-12, updated 2026-11-24
 
 From Copenhagen to the DPC's workforce research, a question about the human infrastructure of preservation.
 
@@ -547,7 +555,7 @@ The post [Guest Post — The Hidden Work of Integrating Scholarly Publishing](ht
 
 ## [Who Decides What the AI Sees?​](https://aarontay.substack.com/p/who-decides-what-the-ai-sees)
 
-via Aaron Tay's Musings about Librarianship · 2026-11-11, updated 2026-11-23
+via Aaron Tay's Musings about Librarianship · 2026-11-11, updated 2026-11-24
 
 The Third Discovery War: From Federated Search and Central Indexes to MCP and Agentic AI​
 
@@ -593,7 +601,7 @@ The post [Report: The Free Library of Philadelphia’s Online Catalog Was Taken 
 
 ## [ARL Daily Intelligence (November 9–12)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-november-9-12/)
 
-via Association of Research Libraries News · 2026-11-09, updated 2026-11-20
+via Association of Research Libraries News · 2026-11-09, updated 2026-11-23
 
 Last Updated on November 12, 2026, 3:08 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
@@ -631,7 +639,7 @@ The post [Guest Post — We Have Enough Declarations. Now What? A Critique from 
 
 ## [The Context We Carry Forward](https://metaarchivist.substack.com/p/the-context-we-carry-forward)
 
-via The Meta Archivist blog · 2026-11-08, updated 2026-11-23
+via The Meta Archivist blog · 2026-11-08, updated 2026-11-24
 
 Remembering Stephen Clarke, one year on, and the unfinished possibilities of epidata
 
@@ -653,7 +661,7 @@ The post [Ask the Technology Providers: Our Charleston Conversation](https://sch
 
 ## [On the Road with RADS: Building One Front Door for Data Management and Sharing Support at the University of Nebraska–Lincoln](https://www.arl.org/blog/on-the-road-with-rads-building-one-front-door-for-data-management-and-sharing-support-at-the-university-of-nebraska-lincoln/)
 
-via Association of Research Libraries News · 2026-11-05, updated 2026-11-20
+via Association of Research Libraries News · 2026-11-05, updated 2026-11-23
 
 Last Updated on November 5, 2026, 2:05 pm ET Leslie Delserone is research data services and science librarian, University of Nebraska–Lincoln. Alicia Hofelich Mohr, PhD, is data management research associate,...
 
@@ -729,7 +737,7 @@ The post [Company News: Cambridge University Press, Johns Hopkins University Pre
 
 ## [The Context Behind the Answer](https://metaarchivist.substack.com/p/the-context-behind-the-answer)
 
-via The Meta Archivist blog · 2026-11-03, updated 2026-11-23
+via The Meta Archivist blog · 2026-11-03, updated 2026-11-24
 
 Reference, Description, and the Provenance of AI-Generated Knowledge
 

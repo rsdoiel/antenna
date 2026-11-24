@@ -1,14 +1,32 @@
 ---
 title: "ebooks.md"
 description: "New eBook releases."
-pubDate: Sun, 15 Nov 2026 10:51:23 GMT
+pubDate: Fri, 20 Nov 2026 17:17:24 GMT
 aggregateOf: "ebooks.md"
-dateModified: Tue, 24 Nov 2026 05:03:16 GMT
-itemCount: 147
-generator: antenna/0.1.2
+dateModified: Tue, 24 Nov 2026 06:47:35 GMT
+itemCount: 154
+generator: antenna/0.2.0
 ---
 
 # ebooks.md
+
+## [Confessions of Zeno](https://standardebooks.org/ebooks/italo-svevo/confessions-of-zeno/beryl-de-zoete)
+
+via Standard Books · 2026-11-20, updated 2026-11-24
+
+To quit smoking, a man writes his memoirs.
+
+## [The Duke of York’s Steps](https://standardebooks.org/ebooks/henry-wade/the-duke-of-yorks-steps)
+
+via Standard Books · 2026-11-18, updated 2026-11-19
+
+After a wealthy banker’s sudden death is ruled to have been from natural causes, his daughter’s suspicions prompt a detective to take a second look at the case.
+
+## [A Fighting Man of Mars](https://standardebooks.org/ebooks/edgar-rice-burroughs/a-fighting-man-of-mars)
+
+via Standard Books · 2026-11-15
+
+A courageous warrior of Barsoom seeks to rescue the woman he loves from savage creatures and malevolent tyrants.
 
 ## [The emancipation of women and its probable consequences by Adele Crepaz](https://www.gutenberg.org/ebooks/79996)
 
@@ -346,6 +364,24 @@ via Project Gutenberg (New Books) · 2026-11-10
 
 Language: English
 
+## [Sir Nigel](https://standardebooks.org/ebooks/arthur-conan-doyle/sir-nigel)
+
+via Standard Books · 2026-11-10, updated 2026-11-15
+
+A young English squire seeks honor by doing knightly deeds in the Hundred Years’ War.
+
+## [The Cave Girl](https://standardebooks.org/ebooks/edgar-rice-burroughs/the-cave-girl)
+
+via Standard Books · 2026-11-10, updated 2026-11-23
+
+An American castaway finds himself in an island inhabited by stone-age people.
+
+## [With Edged Tools](https://standardebooks.org/ebooks/henry-seton-merriman/with-edged-tools)
+
+via Standard Books · 2026-11-10, updated 2026-11-15
+
+Two English gentlemen journey to West Africa, staking their lives for a chance at a fortune which will change their futures.
+
 ## [Death in Venice by Thomas Mann](https://www.gutenberg.org/ebooks/66073)
 
 via Project Gutenberg (New Books) · 2026-11-09
@@ -609,6 +645,12 @@ Language: English
 via Project Gutenberg (New Books) · 2026-11-07
 
 Language: English
+
+## [The Gold Bag](https://standardebooks.org/ebooks/carolyn-wells/the-gold-bag)
+
+via Standard Books · 2026-11-06, updated 2026-11-15
+
+A detective investigates the death of a wealthy man found murdered in his own home.
 
 ## [Entretiens / Interviews / Entrevistas by Marie Lebert](https://www.gutenberg.org/ebooks/27035)
 

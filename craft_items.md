@@ -3,9 +3,9 @@ title: "Craft"
 description: "Craft is a list of hand oriented craft and technology\nDo we really need all those power tools?"
 pubDate: Mon, 23 Nov 2026 14:34:03 GMT
 aggregateOf: "craft.md"
-dateModified: Tue, 24 Nov 2026 05:05:53 GMT
+dateModified: Tue, 24 Nov 2026 06:47:30 GMT
 itemCount: 34
-generator: antenna/0.1.2
+generator: antenna/0.2.0
 ---
 
 # Craft

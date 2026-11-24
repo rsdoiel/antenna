@@ -3,9 +3,9 @@ title: "Retro"
 description: "Computer history and vintage systems."
 pubDate: Sun, 22 Nov 2026 20:00:05 GMT
 aggregateOf: "retro_computing.md"
-dateModified: Tue, 24 Nov 2026 05:05:49 GMT
-itemCount: 48
-generator: antenna/0.1.2
+dateModified: Tue, 24 Nov 2026 06:47:35 GMT
+itemCount: 50
+generator: antenna/0.2.0
 ---
 
 # Retro
@@ -15,6 +15,12 @@ generator: antenna/0.1.2
 via Richard Murray's blog · 2026-11-22
 
 Windy and rainy, Tea v0.04.
+
+## [Announcing the TIB 2026 Advent Calendar](http://www.iconbar.com/comments/rss/news2429.html)
+
+via Icon Bar, RISC OS News · 2026-11-22, updated 2026-11-05
+
+For the last few years, TIB has run an advent calender over the festive season. It's shown up lots of exciting things going on in the RISC OS world and even managed a few exclusive reveals...
 
 ## [mTCP NetCD](https://sourceforge.net/p/freedos/news/2026/11/mtcp-netcd/)
 
@@ -27,6 +33,12 @@ NetCD is a DOS device driver that simulates a CD-ROM or a DVD-ROM. This makes it
 via Richard Murray's blog · 2026-11-21, updated 2026-11-22
 
 Not working, TeaBASIC v0.03, A Time War doesn't make sense.
+
+## [RISC OS open source developments weekly update (21st November 2026)](http://www.iconbar.com/comments/rss/news2428.html)
+
+via Icon Bar, RISC OS News · 2026-11-21, updated 2026-11-05
+
+Here are some of the things that I spotted which happened in the RISC OS Open source world this week...
 
 ## [b.log 2026/11/20 - A bigger better Arduino.](https://heyrick.eu/blog/entry/20261120)
 
@@ -60,25 +72,25 @@ This is my story about a first and a second version of KB-9 or, as it is officia
 
 ## [System76 Announces the New Thelio Prime Desktop](http://www.linux-magazine.com/Online/News/System76-Announces-the-New-Thelio-Prime-Desktop)
 
-via Linux Magazine · 2026-11-19, updated 2026-11-23
+via Linux Magazine · 2026-11-19, updated 2026-11-24
 
 The makers of the Thelio desktop line and Pop!\_OS have released a powerful small form factor PC.
 
 ## [A Must See KDE Documentary](http://www.linux-magazine.com/Online/News/A-Must-See-KDE-Documentary)
 
-via Linux Magazine · 2026-11-18, updated 2026-11-23
+via Linux Magazine · 2026-11-18, updated 2026-11-24
 
 It doesn't matter what desktop environment you prefer, this KDE documentary should top your list of things to watch.
 
 ## [WROCC Newsletter Volume 43:03 reviewed](http://www.iconbar.com/comments/rss/news2425.html)
 
-via Icon Bar, RISC OS News · 2026-11-17, updated 2026-11-02
+via Icon Bar, RISC OS News · 2026-11-17, updated 2026-11-05
 
 WROCC subscribers should have received the November edition of WROCC's mini magazine.
 
 ## [ROUGOL November 2026 meeting - RISC OS 10](http://www.iconbar.com/comments/rss/news2426.html)
 
-via Icon Bar, RISC OS News · 2026-11-17, updated 2026-11-02
+via Icon Bar, RISC OS News · 2026-11-17, updated 2026-11-05
 
 Rougols's November talk (appropriately enough for 42 people) was a double bill from Andrew Rawnsley and Richard Brown doing a deep dive into RISC OS 10.
 
@@ -102,7 +114,7 @@ TeaBASIC and NTCs, The Frenchest thing ever, Storage prices, Interlude, I bought
 
 ## [RISC OS open source developments weekly update (14th November 2026)](http://www.iconbar.com/comments/rss/news2424.html)
 
-via Icon Bar, RISC OS News · 2026-11-15, updated 2026-11-02
+via Icon Bar, RISC OS News · 2026-11-15, updated 2026-11-05
 
 Here are some of the things that I spotted which happened in the RISC OS Open source world this week...
 
@@ -126,7 +138,7 @@ Opus 7: Titus Andronicus
 
 ## [Rougol November 2026 meeting on monday - RISC OS 10 deep dive](http://www.iconbar.com/comments/rss/news2416.html)
 
-via Icon Bar, RISC OS News · 2026-11-13, updated 2026-11-02
+via Icon Bar, RISC OS News · 2026-11-13, updated 2026-11-05
 
 The November 2026 Rougol meeting is on Monday.
 
@@ -138,13 +150,13 @@ Jitters.
 
 ## [New KORA Linux Distro to Harness the Power of Local AI](http://www.linux-magazine.com/Online/News/New-KORA-Linux-Distro-to-Harness-the-Power-of-Local-AI)
 
-via Linux Magazine · 2026-11-12, updated 2026-11-23
+via Linux Magazine · 2026-11-12, updated 2026-11-24
 
 The development team behind CyanogenMod, Android, and Playtron unveils KORA, a Linux distribution built specifically for AI nerds.
 
 ## [Chris Hall will be talking ARM 64 at tonights Bristol RISC OS User Group](http://www.iconbar.com/comments/rss/news2422.html)
 
-via Icon Bar, RISC OS News · 2026-11-12, updated 2026-11-02
+via Icon Bar, RISC OS News · 2026-11-12, updated 2026-11-05
 
 If you are Bristol based and free tonight, Chris Hall is the featured speaker at the Bristol RISC OS User Group November meeting.
 
@@ -162,13 +174,13 @@ With the aid of the source of Microchess and some detective work, started severa
 
 ## [Fireside developer chat on saturday night](http://www.iconbar.com/comments/rss/news2386.html)
 
-via Icon Bar, RISC OS News · 2026-11-12, updated 2026-11-02
+via Icon Bar, RISC OS News · 2026-11-12, updated 2026-11-05
 
 If you were inspired by the recent London Show (or looking to catch-up on what you missed), the next developer fireside chat is saturday night (14th November). It is aimed at anyone interested in a very informal event online aimed at RISC OS developers of all levels.
 
 ## [Epic Games Targets Linux for New Launcher](http://www.linux-magazine.com/Online/News/Epic-Games-Targets-Linux-for-New-Launcher)
 
-via Linux Magazine · 2026-11-11, updated 2026-11-23
+via Linux Magazine · 2026-11-11, updated 2026-11-24
 
 The Epic Games new launcher is still in preview, but it looks to land on several Linux distributions.
 
@@ -441,7 +453,7 @@ Back in September, RISCOSitory published the first article in a new series – a
 
 ## [RISC OS Open source developments weekly update (7th November 2026)](http://www.iconbar.com/comments/rss/news2421.html)
 
-via Icon Bar, RISC OS News · 2026-11-07, updated 2026-11-02
+via Icon Bar, RISC OS News · 2026-11-07, updated 2026-11-05
 
 Here are some of the things that I spotted which happened in the RISC OS Open source world this week...
 
@@ -459,13 +471,13 @@ This article tells part of the story of Warren Spector. A slight shift of focus,
 
 ## [Fedora 45 Now Available](http://www.linux-magazine.com/Online/News/Fedora-45-Now-Available)
 
-via Linux Magazine · 2026-11-05, updated 2026-11-23
+via Linux Magazine · 2026-11-05, updated 2026-11-24
 
 The latest iteration of Fedora has arrived with Gnome 51 and KDE Plasma 6.8.
 
 ## [WROCC November 2026 meeting - Package managers with Chris Hughes](http://www.iconbar.com/comments/rss/news2420.html)
 
-via Icon Bar, RISC OS News · 2026-11-05, updated 2026-11-02
+via Icon Bar, RISC OS News · 2026-11-05
 
 WROCC's November speaker was Chris Hughes looking at package managers for RISC OS.
 
@@ -477,7 +489,7 @@ Close, but no cigar, BabyBASIC.
 
 ## [Linux 7.4 is "Much Healthier" Thanks to AI](http://www.linux-magazine.com/Online/News/Linux-7.4-is-Much-Healthier-Thanks-to-AI)
 
-via Linux Magazine · 2026-11-03, updated 2026-11-23
+via Linux Magazine · 2026-11-03, updated 2026-11-24
 
 At nearly 42 million lines, Linux 7.4 is the largest merge in the kernel’s history.
 

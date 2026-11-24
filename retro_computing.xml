@@ -5,8 +5,8 @@
     <title><![CDATA[Retro]]></title>
     <description><![CDATA[Computer history and vintage systems.]]></description>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>23 Nov 26 21:05 -0800</lastBuildDate>
-    <generator>antenna/0.1.2</generator>
+    <lastBuildDate>23 Nov 26 22:47 -0800</lastBuildDate>
+    <generator>antenna/0.2.0</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>b.log 2026/11/22 - Windy and rainy, Tea v0.04.</title>
@@ -17,6 +17,15 @@
       <source:markdown>Windy and rainy, Tea v0.04.</source:markdown>
       <guid isPermaLink="false">cid://https://heyrick.eu/blog/entry/20261122</guid>
       <pubDate>Sun, 22 Nov 2026 20:00:05 +0000</pubDate>
+    </item>    <item>
+      <title>Announcing the TIB 2026 Advent Calendar</title>
+      <link>http://www.iconbar.com/comments/rss/news2429.html</link>
+      <description>
+        <![CDATA[For the last few years, TIB has run an advent calender over the festive season. It's shown up lots of exciting things going on in the RISC OS world and even managed a few exclusive reveals...]]>
+      </description>
+      <source:markdown>For the last few years, TIB has run an advent calender over the festive season. It&#39;s shown up lots of exciting things going on in the RISC OS world and even managed a few exclusive reveals...</source:markdown>
+      <guid isPermaLink="false">cid://http://www.iconbar.com/comments/rss/news2429.html</guid>
+      <pubDate>Sun, 22 Nov 2026 10:13:00 +0000</pubDate>
     </item>    <item>
       <title>mTCP NetCD</title>
       <link>https://sourceforge.net/p/freedos/news/2026/11/mtcp-netcd/</link>
@@ -36,6 +45,15 @@
       <source:markdown>Not working, TeaBASIC v0.03, A Time War doesn&#39;t make sense.</source:markdown>
       <guid isPermaLink="false">cid://https://heyrick.eu/blog/entry/20261121</guid>
       <pubDate>Sat, 21 Nov 2026 18:44:09 +0000</pubDate>
+    </item>    <item>
+      <title>RISC OS open source developments weekly update (21st November 2026)</title>
+      <link>http://www.iconbar.com/comments/rss/news2428.html</link>
+      <description>
+        <![CDATA[Here are some of the things that I spotted which happened in the RISC OS Open source world this week...]]>
+      </description>
+      <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
+      <guid isPermaLink="false">cid://http://www.iconbar.com/comments/rss/news2428.html</guid>
+      <pubDate>Sat, 21 Nov 2026 15:11:00 +0000</pubDate>
     </item>    <item>
       <title>b.log 2026/11/20 - A bigger better Arduino.</title>
       <link>https://heyrick.eu/blog/entry/20261120</link>

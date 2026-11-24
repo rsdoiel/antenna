@@ -3,9 +3,9 @@ title: "Pacific"
 description: "News from Hawaiʻi, Micronesia, Oceania and the Pacific Rim."
 pubDate: Tue, 24 Nov 2026 04:57:02 GMT
 aggregateOf: "pacific.md"
-dateModified: Tue, 24 Nov 2026 04:59:06 GMT
+dateModified: Tue, 24 Nov 2026 06:47:32 GMT
 itemCount: 4373
-generator: antenna/0.1.2
+generator: antenna/0.2.0
 ---
 
 # Pacific

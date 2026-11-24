@@ -3,9 +3,9 @@ title: "North America"
 description: "News from across North America."
 pubDate: Mon, 23 Nov 2026 23:50:42 GMT
 aggregateOf: "north_america.md"
-dateModified: Tue, 24 Nov 2026 04:57:31 GMT
+dateModified: Tue, 24 Nov 2026 06:47:31 GMT
 itemCount: 1350
-generator: antenna/0.1.2
+generator: antenna/0.2.0
 ---
 
 # North America

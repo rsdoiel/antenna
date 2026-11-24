@@ -2,7 +2,7 @@
 <opml version="2.0">
 	<head>
 		<title>rsdoiel.github.io/antenna</title>
-		<dateModified>Fri, 20 Nov 2026 22:29:38 GMT</dateModified>
+		<dateModified>Tue, 24 Nov 2026 06:47:36 GMT</dateModified>
 	</head>
 	<body>
 		<outline text="Pages">
@@ -11,7 +11,6 @@
 			<outline text="antenna" url="https://rsdoiel.github.io/antenna/about.md"></outline>
 			<outline text="Weather" url="https://rsdoiel.github.io/antenna/forecasts.md"></outline>
 			<outline text="An Antenna" url="https://rsdoiel.github.io/antenna/index.md"></outline>
-			<outline text="Search page" url="https://rsdoiel.github.io/antenna/search.md"></outline>
 		</outline>
 		<outline text="Collections">
 			<outline text="Columns" url="https://rsdoiel.github.io/antenna/columns_items.md"></outline>
@@ -22,6 +21,7 @@
 			<outline text="GLAM" url="https://rsdoiel.github.io/antenna/libraries_items.md"></outline>
 			<outline text="North America" url="https://rsdoiel.github.io/antenna/north_america_items.md"></outline>
 			<outline text="Pacific" url="https://rsdoiel.github.io/antenna/pacific_items.md"></outline>
+			<outline text="Planet" url="https://rsdoiel.github.io/antenna/planet_items.md"></outline>
 			<outline text="Retro" url="https://rsdoiel.github.io/antenna/retro_computing_items.md"></outline>
 			<outline text="STEM" url="https://rsdoiel.github.io/antenna/science_and_technology_items.md"></outline>
 			<outline text="Small Papers" url="https://rsdoiel.github.io/antenna/small_papers_items.md"></outline>

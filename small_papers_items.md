@@ -1,18 +1,46 @@
 ---
 title: "Small Papers"
 description: "Small regional papers, blogs and news."
-pubDate: Sun, 22 Nov 2026 00:41:59 GMT
+pubDate: Tue, 24 Nov 2026 05:11:24 GMT
 aggregateOf: "small_papers.md"
-dateModified: Tue, 24 Nov 2026 05:05:51 GMT
-itemCount: 83
-generator: antenna/0.1.2
+dateModified: Tue, 24 Nov 2026 06:47:35 GMT
+itemCount: 86
+generator: antenna/0.2.0
 ---
 
 # Small Papers
 
+## [HOROSCOPE](https://sanfernandosun.com/2026/11/23/horoscope-291/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-24
+
+ARIES (March 21-April 19) This is a good weekend for kicking back and relaxing, Aries. If you feel like hosting, open your home to some guests for even more fun. \[…\]
+
+The post [HOROSCOPE](https://sanfernandosun.com/2026/11/23/horoscope-291/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [California sues to block Trump rule denying aid to families with mixed immigration statuses](https://lbpost.com/news/public-housing-immigration-status-trump)
+
+via Long Beach Post · 2026-11-23
+
+![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/23134846/022326-for-sale-rent-lv-cm-06-693604-8n15vqi1-149082-M76AJNGv-1024x683.webp)
+
+About 7,000 California families stand to lose subsidized housing under a Trump administration policy denying HUD assistance to households with mixed immigration status.
+
+The post [California sues to block Trump rule denying aid to families with mixed immigration statuses](https://lbpost.com/news/public-housing-immigration-status-trump) appeared first on [Long Beach Post News](https://lbpost.com/news).
+
+## [LA’s Vegan Community Seeks Thanksgiving Alternatives](https://sanfernandosun.com/2026/11/23/las-vegan-community-seeks-thanksgiving-alternatives-2/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-23, updated 2026-11-24
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/11/CA-Sun-turkey-hug-kid-EDIT-scaled.jpg?fit=768%2C1024&ssl=1)
+
+By David Weiner City News Service LOS ANGELES (CNS) – Thanksgiving is the best day of the year for those who enjoy eating turkey, but for those who prefer the \[…\]
+
+The post [LA’s Vegan Community Seeks Thanksgiving Alternatives](https://sanfernandosun.com/2026/11/23/las-vegan-community-seeks-thanksgiving-alternatives-2/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
 ## [Ahead of extreme Thanksgiving tides, Naples fortifies its aging seawall with thousands of sandbags](https://lbpost.com/news/el-nino/thanksgiving-king-tides-naples-sandbages-flooding)
 
-via Long Beach Post · 2026-11-22
+via Long Beach Post · 2026-11-22, updated 2026-11-23
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/21140706/21nov26-sandbag-7941-476257-mciab0of-154106-8TTvEbIB-1024x651.jpg)
 
@@ -22,7 +50,7 @@ The post [Ahead of extreme Thanksgiving tides, Naples fortifies its aging seawal
 
 ## [Thieves stole hundreds of thousands of Nikes, Crocs and tools in train heists, prosecutors say](https://lbpost.com/news/crime/thieves-stole-hundreds-of-thousands-of-nikes-crocs-and-tools-in-train-heists-prosecutors-say)
 
-via Long Beach Post · 2026-11-20, updated 2026-11-22
+via Long Beach Post · 2026-11-20, updated 2026-11-23
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/20134059/screenshot-2026-11-20-at-14016-pm-237506-curjrhva-185763-5rBw4Jmp.png)
 
@@ -32,7 +60,7 @@ The post [Thieves stole hundreds of thousands of Nikes, Crocs and tools in train
 
 ## [Experts Urge Travelers to Get a Flu Shot Before Thanksgiving](https://sanfernandosun.com/2026/11/20/experts-urge-travelers-to-get-a-flu-shot-before-thanksgiving/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-20
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-20, updated 2026-11-24
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/500_jonathan-weiner-md-cedars-sinai.jpg?fit=285%2C400&ssl=1)
 
@@ -42,7 +70,7 @@ The post [Experts Urge Travelers to Get a Flu Shot Before Thanksgiving](https://
 
 ## [They voted to replace César Chavez’s name on their school and chose a symbol of rebirth](https://lbpost.com/news/education/cesar-chavez-new-name-school-monarca)
 
-via Long Beach Post · 2026-11-20, updated 2026-11-22
+via Long Beach Post · 2026-11-20, updated 2026-11-23
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/20082847/6-15-26-walls-7-929829-wnhgbadk-241618-6bsdcqmh-055214-gpcynryk-504484-mKrkArjS-1024x485.jpg)
 
@@ -52,7 +80,7 @@ The post [They voted to replace César Chavez’s name on their school and chose
 
 ## [Body camera footage shows how police responded when ICE called for help in North Long Beach](https://lbpost.com/news/immigration/ice-police-help-broke-arm-north-long-beach)
 
-via Long Beach Post · 2026-11-20, updated 2026-11-22
+via Long Beach Post · 2026-11-20, updated 2026-11-23
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/19193029/oct-17ice-nlb-screenshot-2026-11-19-at-55553-pm-899592-vupgpl5y-893747-ovhjlq9u-2048x820-236608-xi7bg9bb-074942-zonrhvgz-995975-8b3c6ytm-291132-5wIENUXr-1024x410.jpg)
 
@@ -62,7 +90,7 @@ The post [Body camera footage shows how police responded when ICE called for hel
 
 ## [Police look for hit-and-run driver who rear-ended E-bike on PCH](https://lbpost.com/news/crime/police-look-for-hit-and-run-driver-who-rear-ended-e-bike-on-pch)
 
-via Long Beach Post · 2026-11-19, updated 2026-11-22
+via Long Beach Post · 2026-11-19, updated 2026-11-23
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/19125729/screenshot-2026-11-19-at-125654-pm-035148-mhbl9u5s-070382-T0ayGNZE.png)
 
@@ -72,7 +100,7 @@ The post [Police look for hit-and-run driver who rear-ended E-bike on PCH](https
 
 ## [LA County Sheriff Robert Luna estimates Olympics security will cost nearly $3B](https://lbpost.com/news/cost-of-olympic-security-taxpayers-sheriff)
 
-via Long Beach Post · 2026-11-19, updated 2026-11-22
+via Long Beach Post · 2026-11-19, updated 2026-11-23
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/19105359/robert-luna-scprbrightspotcdn-525418-dsbql9em-081811-Zdyit70S-1024x683.webp)
 
@@ -82,7 +110,7 @@ The post [LA County Sheriff Robert Luna estimates Olympics security will cost ne
 
 ## [Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases](https://lbpost.com/news/state/ai-kill-switch-openai-anthropic-california-governor)
 
-via Long Beach Post · 2026-11-19, updated 2026-11-22
+via Long Beach Post · 2026-11-19, updated 2026-11-23
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/19100541/092926-openai-ap-cm-923495-ytmefk6n-418847-QcfdlSyy-1024x683.webp)
 
@@ -92,7 +120,7 @@ The post [Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic rel
 
 ## [LBUSD says it can’t find anything wrong with classrooms where dozens of kids got sick](https://lbpost.com/news/education/mysterious-sickness-long-beach-unified-monroe)
 
-via Long Beach Post · 2026-11-19, updated 2026-11-22
+via Long Beach Post · 2026-11-19, updated 2026-11-23
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/10/16134801/monroe-exterior-078354-2cyudrco-637460-HDmfwaCf-1024x679.jpg)
 
@@ -102,7 +130,7 @@ The post [LBUSD says it can’t find anything wrong with classrooms where dozens
 
 ## [Llevando el espíritu de “Si Se Puede”: Miles rinden homenaje a Dolores Huerta](https://sanfernandosun.com/2026/11/18/llevando-el-espiritu-de-si-se-puede-miles-rinden-homenaje-a-dolores-huerta/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-20
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-24
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/AP26320811633908-1.jpg?fit=1024%2C683&ssl=1)
 
@@ -112,7 +140,7 @@ The post [Llevando el espíritu de “Si Se Puede”: Miles rinden homenaje a Do
 
 ## [Demanda impugna el plan de Newsom para conmutar las 548 sentencias de muerte en California](https://sanfernandosun.com/2026/11/18/demanda-impugna-el-plan-de-newsom-para-conmutar-las-548-sentencias-de-muerte-en-california/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-20
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-24
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/6099018590715768017_107ca394-a589-4eff-a760-08895cdb8f3e-e1795064149101.png?fit=1024%2C981&ssl=1)
 
@@ -122,7 +150,7 @@ The post [Demanda impugna el plan de Newsom para conmutar las 548 sentencias de 
 
 ## [Horóscopo](https://sanfernandosun.com/2026/11/18/horoscopo-294/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-20
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-24
 
 ARIES (21 de mar – 19 de abr) Puedes querer estar en todas partes al mismo tiempo cuando lleguen las invitaciones sociales, Aries. Pero esta semana tendrás que elegir tus \[…\]
 
@@ -130,7 +158,7 @@ The post [Horóscopo](https://sanfernandosun.com/2026/11/18/horoscopo-294/) appe
 
 ## [EVENTOS Locales – Semana de 19 de noviembre, 2026](https://sanfernandosun.com/2026/11/18/eventos-locales-semana-de-19-de-noviembre-2026/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-20
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-24
 
 Viernes, 20 de noviembre Nuestra Tercera Campaña de Pavos de Acción de Gracias Llega a Todos los Vecindarios del Distrito 6 Ignite the Light of Hope 13501 Osborne St. Lakeview \[…\]
 
@@ -138,7 +166,7 @@ The post [EVENTOS Locales – Semana de  19 de noviembre, 2026](https://sanfern
 
 ## [Quinto año de campaña de MADD para iluminar puntos de referencia en honor a víctimas y sobrevivientes](https://sanfernandosun.com/2026/11/18/quinto-ano-de-campana-de-madd-para-iluminar-puntos-de-referencia-en-honor-a-victimas-y-sobrevivientes/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-20
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-24
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Dodger-Stadium-5.jpg?fit=1024%2C767&ssl=1)
 
@@ -148,7 +176,7 @@ The post [Quinto año de campaña de MADD para iluminar puntos de referencia en 
 
 ## [Conductor acusado en choque fatal de Metro en NoHo que mató a tres vendedoras ambulantes](https://sanfernandosun.com/2026/11/18/conductor-acusado-en-choque-fatal-de-metro-en-noho-que-mato-a-tres-vendedoras-ambulantes/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-20
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-24
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/NoHo-Crash-01-e1795063505384.jpeg?fit=1024%2C768&ssl=1)
 
@@ -158,7 +186,7 @@ The post [Conductor acusado en choque fatal de Metro en NoHo que mató a tres ve
 
 ## [Vuelve el Festival de Baile de Calle de Valley con talleres de reconocidos artistas](https://sanfernandosun.com/2026/11/18/vuelve-el-festival-de-baile-de-calle-de-valley-con-talleres-de-reconocidos-artistas/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-20
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-24
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/%40BY.AUSTINLUC-11-scaled.jpg?fit=768%2C1024&ssl=1)
 
@@ -196,7 +224,7 @@ The post [Carrying the Si Se Puede Spirit: Thousands Pay Respect to Dolores Huer
 
 ## [Ports of Long Beach, LA brace for strike that could paralyze most cargo movement](https://lbpost.com/news/business/trade-transportation/port-strike-when-negotiations-more-likely)
 
-via Long Beach Post · 2026-11-18, updated 2026-11-22
+via Long Beach Post · 2026-11-18, updated 2026-11-23
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/02151158/02nov26-think-bridge-027-851988-pgcuzihn-640572-QMHdBBLZ-1024x584.jpg)
 

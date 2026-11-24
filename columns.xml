@@ -5,8 +5,8 @@
     <title><![CDATA[Columns]]></title>
     <description><![CDATA[Blogs, columns and snapshots from around the web.]]></description>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>23 Nov 26 21:05 -0800</lastBuildDate>
-    <generator>antenna/0.1.2</generator>
+    <lastBuildDate>23 Nov 26 22:47 -0800</lastBuildDate>
+    <generator>antenna/0.2.0</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Example Talk</title>
@@ -45,6 +45,17 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <guid isPermaLink="false">cid://http://scripting.com/2026/11/23.html#a012412</guid>
       <pubDate>Tue, 24 Nov 2026 01:24:12 +0000</pubDate>
     </item>    <item>
+      <title>Boomer-Huang</title>
+      <link>https://tinabrown.substack.com/p/boomer-huang</link>
+      <description>
+        <![CDATA[What the actual fuck?]]>
+      </description>
+      <source:markdown>What the actual fuck?</source:markdown>
+      <dc:creator>Tina Brown</dc:creator>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!b-tM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f588804-30b2-43cc-82af-21f6376e36da_1334x778.png" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://tinabrown.substack.com/p/boomer-huang</guid>
+      <pubDate>Mon, 23 Nov 2026 23:59:34 +0000</pubDate>
+    </item>    <item>
       <title>Miller Time</title>
       <link>https://steady.substack.com/p/miller-time</link>
       <description>
@@ -55,6 +66,17 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <enclosure url="https://substackcdn.com/image/fetch/$s_!Vkhx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9aca7883-f1f4-4a9d-a534-c12d4c116b4e_5392x3592.jpeg" length="0" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://steady.substack.com/p/miller-time</guid>
       <pubDate>Mon, 23 Nov 2026 22:31:29 +0000</pubDate>
+    </item>    <item>
+      <title>“It’s My Life’s Calling To Serve My Neighbor” - Member-Elect Sarah Trone Garriott Checks In From Iowa</title>
+      <link>https://www.hopiumchronicles.com/p/its-my-lifes-calling-to-serve-my</link>
+      <description>
+        <![CDATA[Enjoy this second in a series of reports we&#8217;ll be getting from our intrepid candidates who flipped red seats and red states blue this year]]>
+      </description>
+      <source:markdown>Enjoy this second in a series of reports we’ll be getting from our intrepid candidates who flipped red seats and red states blue this year</source:markdown>
+      <dc:creator>Simon Rosenberg</dc:creator>
+      <enclosure url="https://api.substack.com/feed/podcast/226232438/4d43cd74025b1bab9944a20352d8de38.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">cid://https://www.hopiumchronicles.com/p/its-my-lifes-calling-to-serve-my</guid>
+      <pubDate>Mon, 23 Nov 2026 22:15:38 +0000</pubDate>
     </item>    <item>
       <title>Executive Privilege</title>
       <link>https://heathercoxrichardson.substack.com/p/executive-privilege</link>
@@ -89,6 +111,33 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
 Monday session</source:markdown>
       <guid isPermaLink="false">cid://https://adactio.com/notes/22843</guid>
       <pubDate>Mon, 23 Nov 2026 21:23:03 +0000</pubDate>
+    </item>    <item>
+      <title>La diplomática (temporada 4): los límites de coquetear con el poder</title>
+      <link>https://www.palomitademaiz.net/resenas-la-diplomatica-temporada-4/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-la-diplomatica-temporada-4</link>
+      <description>
+        <![CDATA[<p>Creadora: Debora Cahn. Elenco: Keri Russell, Rufus Sewell, Allison Janney, Bradley Whitford, Jodie Whittaker, Ali Ahn, Ato Essandoh. País: Estados Unidos. Duración: 8 capítulos de aproximadamente 50 minutos. Más información de la serie: https://www.imdb.com/title/tt17491088/ “La capacidad de ver nuestras propias decisiones como las ven los demás puede marcar la diferencia entre un acuerdo negociado y [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-la-diplomatica-temporada-4/">La diplomática (temporada 4): los límites de coquetear con el poder</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Creadora: Debora Cahn. Elenco: Keri Russell, Rufus Sewell, Allison Janney, Bradley Whitford, Jodie Whittaker, Ali Ahn, Ato Essandoh. País: Estados Unidos. Duración: 8 capítulos de aproximadamente 50 minutos. Más información de la serie: https://www.imdb.com/title/tt17491088/ “La capacidad de ver nuestras propias decisiones como las ven los demás puede marcar la diferencia entre un acuerdo negociado y \[…\]
+
+La entrada [La diplomática (temporada 4): los límites de coquetear con el poder](https://www.palomitademaiz.net/resenas-la-diplomatica-temporada-4/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <dc:creator>Valentina Starcovich</dc:creator>
+      <guid isPermaLink="false">cid://https://www.palomitademaiz.net/?p=27291</guid>
+      <category>Reseñas</category>
+      <category>TV</category>
+      <category>Ali Ahn</category>
+      <category>Allison Janney</category>
+      <category>Ato Essandoh</category>
+      <category>Bradley Whitford</category>
+      <category>Debora Cahn</category>
+      <category>Drama</category>
+      <category>Jodie Whittaker</category>
+      <category>Keri Russell</category>
+      <category>La diplomática</category>
+      <category>Netflix</category>
+      <category>Rufus Sewell</category>
+      <category>The Diplomat</category>
+      <pubDate>Mon, 23 Nov 2026 20:30:10 +0000</pubDate>
     </item>    <item>
       <title>NVIDIA Board Reinstates Jensen Huang</title>
       <link>https://mjtsai.com/blog/2026/11/23/nvidia-board-reinstates-jensen-huang/</link>
@@ -132,6 +181,59 @@ Monday session</source:markdown>
       <category>Superlist</category>
       <category>Wunderlist</category>
       <pubDate>Mon, 23 Nov 2026 19:56:06 +0000</pubDate>
+    </item>    <item>
+      <title>Stop BAAJA: A Trojan Horse for Dirty Energy and Weaker Environmental Protections</title>
+      <link>https://www.clf.org/blog/baaja-bill-explainer/</link>
+      <description>
+        <![CDATA[<p>The BAAJA bill threatens clean water, wildlife, and our communities. Together, we can stop this reckless bill from fast-tracking fossil fuel projects and weakening environmental protections. Here's what the legislation would change, why CLF opposes it, and what's next in Congress.</p>
+        <p>The post <a href="https://www.clf.org/blog/baaja-bill-explainer/">Stop BAAJA: A Trojan Horse for Dirty Energy and Weaker Environmental Protections</a> appeared first on <a href="https://www.clf.org">Conservation Law Foundation</a>.</p>]]>
+      </description>
+      <source:markdown>The BAAJA bill threatens clean water, wildlife, and our communities. Together, we can stop this reckless bill from fast-tracking fossil fuel projects and weakening environmental protections. Here&#39;s what the legislation would change, why CLF opposes it, and what&#39;s next in Congress.
+
+The post [Stop BAAJA: A Trojan Horse for Dirty Energy and Weaker Environmental Protections](https://www.clf.org/blog/baaja-bill-explainer/) appeared first on [Conservation Law Foundation](https://www.clf.org).</source:markdown>
+      <dc:creator>James Flynn</dc:creator>
+      <guid isPermaLink="false">cid://https://www.clf.org/?p=90662</guid>
+      <category>Uncategorized</category>
+      <pubDate>Mon, 23 Nov 2026 19:25:35 +0000</pubDate>
+    </item>    <item>
+      <title>Do readers really want books by committee?</title>
+      <link>https://lithub.com/do-readers-really-want-books-by-committee/</link>
+      <description>
+        <![CDATA[A new imprint from Harper Voyager is betting they do. As reported by Maia Snow in The Bookseller, Between Worlds is a new community-oriented imprint that “will publish fantasy, romantasy, dark academia, horror and dystopia as well as requests from]]>
+      </description>
+      <source:markdown>A new imprint from Harper Voyager is betting they do. As reported by Maia Snow in The Bookseller, Between Worlds is a new community-oriented imprint that “will publish fantasy, romantasy, dark academia, horror and dystopia as well as requests from</source:markdown>
+      <dc:creator>James Folta</dc:creator>
+      <guid isPermaLink="false">cid://https://lithub.com/?p=280511</guid>
+      <category>Book News</category>
+      <category>Bookstores and Libraries</category>
+      <category>News and Culture</category>
+      <category>The Hub</category>
+      <category>Art by Committee</category>
+      <category>Between Worlds</category>
+      <category>Bindery Books</category>
+      <category>Harper Voyager</category>
+      <pubDate>Mon, 23 Nov 2026 19:19:44 +0000</pubDate>
+    </item>    <item>
+      <title>Slop Style</title>
+      <link>https://kevinkelly.substack.com/p/slop-style</link>
+      <description>
+        <![CDATA[Slop is anything inferior produced by AI.]]>
+      </description>
+      <source:markdown>Slop is anything inferior produced by AI.</source:markdown>
+      <dc:creator>Kevin Kelly</dc:creator>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!vMFf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ae3d381-6b46-473b-87b3-60aa36b64eb1_4974x2726.jpeg" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://kevinkelly.substack.com/p/slop-style</guid>
+      <pubDate>Mon, 23 Nov 2026 19:00:17 +0000</pubDate>
+    </item>    <item>
+      <title>Slop Style</title>
+      <link>https://kk.org/thetechnium/slop-style/</link>
+      <description>
+        <![CDATA[Slop is anything inferior produced by AI. Today it is a derogatory insult, usually applied to content that is consumed in the same channel as human-made content. Slop is the AI-generated video seen on TikTok, Instagram, YouTube. Slop is the &#8230; <a href="https://kk.org/thetechnium/slop-style/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <source:markdown>Slop is anything inferior produced by AI. Today it is a derogatory insult, usually applied to content that is consumed in the same channel as human-made content. Slop is the AI-generated video seen on TikTok, Instagram, YouTube. Slop is the … [Continue reading →](https://kk.org/thetechnium/slop-style/)</source:markdown>
+      <dc:creator>Kevin Kelly</dc:creator>
+      <guid isPermaLink="false">cid://https://kk.org/thetechnium/?p=8280</guid>
+      <pubDate>Mon, 23 Nov 2026 19:00:00 +0000</pubDate>
     </item>    <item>
       <title>Am I A Design Engineer?</title>
       <link>https://blog.jim-nielsen.com/2026/am-i-a-design-engineer/</link>
@@ -231,6 +333,17 @@ Reply via:
       <guid isPermaLink="false">cid://https://garymarcus.substack.com/p/could-jensengate-take-down-the-president</guid>
       <pubDate>Mon, 23 Nov 2026 18:46:14 +0000</pubDate>
     </item>    <item>
+      <title>29 Questions for Elizabeth Holmes</title>
+      <link>https://hunterharris.substack.com/p/29-questions-for-elizabeth-holmes</link>
+      <description>
+        <![CDATA[Hung Up x Marina Hyde]]>
+      </description>
+      <source:markdown>Hung Up x Marina Hyde</source:markdown>
+      <dc:creator>Hunter Harris</dc:creator>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!0eSd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ab43a2a-c686-421c-81da-4da81e47fc29_800x500.jpeg" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://hunterharris.substack.com/p/29-questions-for-elizabeth-holmes</guid>
+      <pubDate>Mon, 23 Nov 2026 18:42:58 +0000</pubDate>
+    </item>    <item>
       <title>Seeking God in Science part 12: Quantum mechanics part 2: Math</title>
       <link>https://blog.rongarret.info/2026/11/seeking-god-in-science-part-12-quantum.html</link>
       <description>
@@ -240,6 +353,29 @@ Reply via:
       <author>noreply@blogger.com (Ron)</author>
       <guid isPermaLink="false">cid://tag:blogger.com,1999:blog-5592542.post-3423801779221474042</guid>
       <pubDate>Mon, 23 Nov 2026 18:38:26 +0000</pubDate>
+    </item>    <item>
+      <link>https://andysylvester.com/2026/11/23/4806/</link>
+      <description>
+        <![CDATA[I think it is good that Dave Winer is responding to comments on his BonBon browser, but if he does not link back to the discussion thread, none of the commenters are going to hear his response&#8230;.]]>
+      </description>
+      <source:markdown>I think it is good that Dave Winer is responding to comments on his BonBon browser, but if he does not link back to the discussion thread, none of the commenters are going to hear his response….</source:markdown>
+      <dc:creator>Andy</dc:creator>
+      <guid isPermaLink="false">cid://https://andysylvester.com/?p=4806</guid>
+      <category>BonBon</category>
+      <category>Micro.Blog</category>
+      <pubDate>Mon, 23 Nov 2026 18:35:52 +0000</pubDate>
+    </item>    <item>
+      <title>The majesty of silence in music</title>
+      <link>https://andysylvester.com/2026/11/23/the-majesty-of-silence-in-music/</link>
+      <description>
+        <![CDATA[Music includes silence in a number of ways. The most straightforward is the use of rests in a song or composition. Sometimes, rests form a pattern, or part of a pattern, to develop a theme or musical idea. When albums were published on vinyl, songs would end and be followed by a period of silence [&#8230;]]]>
+      </description>
+      <source:markdown>Music includes silence in a number of ways. The most straightforward is the use of rests in a song or composition. Sometimes, rests form a pattern, or part of a pattern, to develop a theme or musical idea. When albums were published on vinyl, songs would end and be followed by a period of silence \[…\]</source:markdown>
+      <dc:creator>Andy</dc:creator>
+      <guid isPermaLink="false">cid://https://andysylvester.com/?p=4803</guid>
+      <category>Micro.Blog</category>
+      <category>Music</category>
+      <pubDate>Mon, 23 Nov 2026 18:31:11 +0000</pubDate>
     </item>    <item>
       <title>Jensen Is Too Big To Fail</title>
       <link>https://robertreich.substack.com/p/jensen-is-too-big-to-fail</link>
@@ -251,6 +387,61 @@ Reply via:
       <enclosure url="https://substackcdn.com/image/fetch/$s_!Zg98!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2da23510-f8be-40d0-91d7-03011932f142_1440x1440.webp" length="0" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://robertreich.substack.com/p/jensen-is-too-big-to-fail</guid>
       <pubDate>Mon, 23 Nov 2026 18:07:56 +0000</pubDate>
+    </item>    <item>
+      <title>The War of the Data Currents</title>
+      <link>https://semanticallyspeaking.substack.com/p/the-war-of-the-data-currents</link>
+      <description>
+        <![CDATA[RDF is the AC. Your warehouse can stay right where it is.]]>
+      </description>
+      <source:markdown>RDF is the AC. Your warehouse can stay right where it is.</source:markdown>
+      <dc:creator>J Bittner</dc:creator>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!6JDK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1910617b-9245-4a16-95b4-7e055c85727b_6758x4496.jpeg" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://semanticallyspeaking.substack.com/p/the-war-of-the-data-currents</guid>
+      <pubDate>Mon, 23 Nov 2026 18:05:13 +0000</pubDate>
+    </item>    <item>
+      <title>“I CONVINCED THEM”: Trump Admits He Rigged Nvidia’s Boardroom, Then Stamped It National Security To Save His $62 Million in NVDIA Stock</title>
+      <link>https://deanblundell.substack.com/p/i-convinced-them-trump-admits-he</link>
+      <description>
+        <![CDATA[Trump just gave incoming Dem majority everything: He called CNBC, bragged he strong-armed Nvidia&#8217;s board, and handed Congress the confession it needed.]]>
+      </description>
+      <source:markdown>Trump just gave incoming Dem majority everything: He called CNBC, bragged he strong-armed Nvidia’s board, and handed Congress the confession it needed.</source:markdown>
+      <dc:creator>Dean Blundell</dc:creator>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/9cbfd6cc-a442-48e6-8679-c1cda963475c_1400x806.png" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://deanblundell.substack.com/p/i-convinced-them-trump-admits-he</guid>
+      <pubDate>Mon, 23 Nov 2026 17:57:56 +0000</pubDate>
+    </item>    <item>
+      <title>Camino a casa: una gran propuesta de cine inclusivo</title>
+      <link>https://www.palomitademaiz.net/resenas-camino-a-casa/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-camino-a-casa</link>
+      <description>
+        <![CDATA[<p>Dirección: Arturo Mendicuti. Guion: Arturo Mendicuti. Participación: Christian Arias, Marco Antonio Martínez, Jesús Rodríguez, Érika Bernal, Juan Carlos Saavedra. País: México. Estrenado en la 19° edición del Festival Zanate, Camino a casa plantea una perspectiva y narrativa única dentro del cine documental, centrada en las alegrías, retos y cuestionamientos de un grupo de actores con [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-camino-a-casa/">Camino a casa: una gran propuesta de cine inclusivo</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <source:markdown>Dirección: Arturo Mendicuti. Guion: Arturo Mendicuti. Participación: Christian Arias, Marco Antonio Martínez, Jesús Rodríguez, Érika Bernal, Juan Carlos Saavedra. País: México. Estrenado en la 19° edición del Festival Zanate, Camino a casa plantea una perspectiva y narrativa única dentro del cine documental, centrada en las alegrías, retos y cuestionamientos de un grupo de actores con \[…\]
+
+La entrada [Camino a casa: una gran propuesta de cine inclusivo](https://www.palomitademaiz.net/resenas-camino-a-casa/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).</source:markdown>
+      <dc:creator>Oralia Torres de la Peña</dc:creator>
+      <guid isPermaLink="false">cid://https://www.palomitademaiz.net/?p=27286</guid>
+      <category>Cine</category>
+      <category>Reseñas</category>
+      <category>Arturo Mendicuti</category>
+      <category>Camino a casa</category>
+      <category>Christian Arias</category>
+      <category>Érika Bernal</category>
+      <category>Jesús Rodríguez</category>
+      <category>Juan Carlos Saavedra</category>
+      <category>Marco Antonio Martínez</category>
+      <pubDate>Mon, 23 Nov 2026 17:30:33 +0000</pubDate>
+    </item>    <item>
+      <title>Dean’s LIVE With Jacob Kaarsbo: Russia Is Already Attacking NATO and Trump Is Calling the Guy Doing It “My Friend”</title>
+      <link>https://deanblundell.substack.com/p/deans-live-with-jacob-kaarsbo-russia</link>
+      <description>
+        <![CDATA[Jacob Kaarsbo on three Russian missiles in Poland, a murder plot in Denmark and a president who can&#8217;t speak to America.]]>
+      </description>
+      <source:markdown>Jacob Kaarsbo on three Russian missiles in Poland, a murder plot in Denmark and a president who can’t speak to America.</source:markdown>
+      <dc:creator>Dean Blundell</dc:creator>
+      <enclosure url="https://api.substack.com/feed/podcast/226063517/86dfb1874562170c984b2f4f2a51430f.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">cid://https://deanblundell.substack.com/p/deans-live-with-jacob-kaarsbo-russia</guid>
+      <pubDate>Mon, 23 Nov 2026 17:02:33 +0000</pubDate>
     </item>    <item>
       <title>Breaking: Jensen is back. And the market is way up. But things will never be the same.</title>
       <link>https://garymarcus.substack.com/p/breaking-jensen-is-back-and-the-market</link>
@@ -271,6 +462,54 @@ Reply via:
       <guid isPermaLink="false">cid://http://scripting.com/2026/11/23.html#a162704</guid>
       <pubDate>Mon, 23 Nov 2026 16:27:04 +0000</pubDate>
     </item>    <item>
+      <title>Thank you, Anne! And welcome, Derek!</title>
+      <link>https://www.digitalrhetoriccollaborative.org/2026/11/23/thank-you-anne-and-welcome-derek/</link>
+      <description>
+        <![CDATA[We are excited to share some news about leadership in The Digital Rhetoric Collaborative, as Anne Ruggles Gere steps down from her role as co-director. Anne recently retired from the University of Michigan and is now Gertrude Buck Collegiate Professor Emerita in the Marsal Family School of Education and Professor Emerita of English Language and [...]
+        <p><a href="https://www.digitalrhetoriccollaborative.org/2026/11/23/thank-you-anne-and-welcome-derek/" rel="nofollow">Source</a></p>]]>
+      </description>
+      <source:markdown>We are excited to share some news about leadership in The Digital Rhetoric Collaborative, as Anne Ruggles Gere steps down from her role as co-director. Anne recently retired from the University of Michigan and is now Gertrude Buck Collegiate Professor Emerita in the Marsal Family School of Education and Professor Emerita of English Language and \[...\]
+
+[Source](https://www.digitalrhetoriccollaborative.org/2026/11/23/thank-you-anne-and-welcome-derek/)</source:markdown>
+      <dc:creator>Naomi Silver</dc:creator>
+      <guid isPermaLink="false">cid://https://www.digitalrhetoriccollaborative.org/?p=23114</guid>
+      <category>Announcements</category>
+      <pubDate>Mon, 23 Nov 2026 16:19:08 +0000</pubDate>
+    </item>    <item>
+      <title>Elisabeth Marnik on Science, Trust, and Helping People Change Their Minds</title>
+      <link>https://stevenhassan.substack.com/p/elisabeth-marnik-on-science-trust</link>
+      <description>
+        <![CDATA[The Evidence Collective&#8217;s executive director grew up without vaccinations and with strict limits on what she could question.]]>
+      </description>
+      <source:markdown>The Evidence Collective’s executive director grew up without vaccinations and with strict limits on what she could question.</source:markdown>
+      <dc:creator>Dr. Steven Hassan</dc:creator>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!JwkW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0cd0495-db84-4534-ad05-4fe39f21fd03_1456x1048.png" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://stevenhassan.substack.com/p/elisabeth-marnik-on-science-trust</guid>
+      <pubDate>Mon, 23 Nov 2026 16:01:40 +0000</pubDate>
+    </item>    <item>
+      <title>Fifty Marathons, One Diagnosis, and the True Meaning of Gratitude</title>
+      <link>https://guykawasaki.substack.com/p/fifty-marathons-one-diagnosis-and</link>
+      <description>
+        <![CDATA[I am rerunning my interview with Andrea Lytle Peet because Thanksgiving is the right time to hear from someone who knows exactly what gratitude means.]]>
+      </description>
+      <source:markdown>I am rerunning my interview with Andrea Lytle Peet because Thanksgiving is the right time to hear from someone who knows exactly what gratitude means.</source:markdown>
+      <dc:creator>Guy Kawasaki</dc:creator>
+      <enclosure url="https://api.substack.com/feed/podcast/223182679/ae1541f37265a68515a4112c7e09febd.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">cid://https://guykawasaki.substack.com/p/fifty-marathons-one-diagnosis-and</guid>
+      <pubDate>Mon, 23 Nov 2026 16:00:07 +0000</pubDate>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/117666572839191681</link>
+      <description>
+        <![CDATA[<p>I love when I read a piece that gives me new frameworks to think with.</p><p>This was a delightful read, Tim O&#39;Reilly on &quot;What happened to Silicon Valley&quot;</p><p><a href="https://www.oreilly.com/radar/what-happened-to-silicon-valley/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">oreilly.com/radar/what-happene</span><span class="invisible">d-to-silicon-valley/</span></a></p>]]>
+      </description>
+      <source:markdown>I love when I read a piece that gives me new frameworks to think with.
+
+This was a delightful read, Tim O&#39;Reilly on &#34;What happened to Silicon Valley&#34;
+
+[https://www.oreilly.com/radar/what-happened-to-silicon-valley/](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)</source:markdown>
+      <guid isPermaLink="false">cid://https://mastodon.social/@Migueldeicaza/117666572839191681</guid>
+      <pubDate>Mon, 23 Nov 2026 15:56:54 +0000</pubDate>
+    </item>    <item>
       <link>http://scripting.com/2026/11/23.html#a154700</link>
       <description>
         <![CDATA[When <a href="https://en.wikipedia.org/wiki/Karl-Anthony_Towns">KAT</a> makes a great play at the Garden, the announcer could say his name like they used to say Carmelllllllooooo Anthonnnnnnny, only like this: Karrrrrllllll Anthonnnnnnny. Everyone would shriek then laugh and feel nostalgic, knowing KAT is the real thing and Melo was a star but not <i>the</i> star. And what would be really cool if the fans in the Garden would answer it with TOWNS!]]>
@@ -279,6 +518,16 @@ Reply via:
       <guid isPermaLink="false">cid://http://scripting.com/2026/11/23.html#a154700</guid>
       <pubDate>Mon, 23 Nov 2026 15:47:00 +0000</pubDate>
     </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/117666532109067643</link>
+      <description>
+        <![CDATA[<p class="quote-inline">RE: <a href="https://fosstodon.org/@davep/117666156839580992" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">fosstodon.org/@davep/117666156</span><span class="invisible">839580992</span></a></p><p>User 0x0A is here with a lovely screenshot!</p>]]>
+      </description>
+      <source:markdown>RE: [https://fosstodon.org/@davep/117666156839580992](https://fosstodon.org/@davep/117666156839580992)
+
+User 0x0A is here with a lovely screenshot!</source:markdown>
+      <guid isPermaLink="false">cid://https://mastodon.social/@Migueldeicaza/117666532109067643</guid>
+      <pubDate>Mon, 23 Nov 2026 15:46:33 +0000</pubDate>
+    </item>    <item>
       <link>http://scripting.com/2026/11/23.html#a152823</link>
       <description>
         <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2026/05/19/reallySimpleNet.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Next focus in bonbon-land is writing. We have a good start on reading with the <a href="https://demo.bonbonweb.org/">demo site</a> and the <a href="https://github.com/scripting/bonBon/blob/main/readme.md">full app</a> for Mac and Linux desktops. Initially writing is going to come from at least two places: 1. WordPress and 2. RSS.chat. But most important are the myriad possible ways people like to write. This is where having open formats and protocols will really pay off. Writing tools can depend on interop, they won't have to blaze their own trail so much. People creating brilliant writing tools like to focus on that, not a dozen different incompatible APIs and limits. How the hell do you get writing to fit into 500 chars on one network, 300 on another, 280 on yet another. And character limits are just the beginning.]]>
@@ -286,6 +535,63 @@ Reply via:
       <source:markdown>![](https://imgs.scripting.com/2026/05/19/reallySimpleNet.png)Next focus in bonbon-land is writing. We have a good start on reading with the [demo site](https://demo.bonbonweb.org/) and the [full app](https://github.com/scripting/bonBon/blob/main/readme.md) for Mac and Linux desktops. Initially writing is going to come from at least two places: 1. WordPress and 2. RSS.chat. But most important are the myriad possible ways people like to write. This is where having open formats and protocols will really pay off. Writing tools can depend on interop, they won&#39;t have to blaze their own trail so much. People creating brilliant writing tools like to focus on that, not a dozen different incompatible APIs and limits. How the hell do you get writing to fit into 500 chars on one network, 300 on another, 280 on yet another. And character limits are just the beginning.</source:markdown>
       <guid isPermaLink="false">cid://http://scripting.com/2026/11/23.html#a152823</guid>
       <pubDate>Mon, 23 Nov 2026 15:28:23 +0000</pubDate>
+    </item>    <item>
+      <title>The Monday Morning MIXER With Pete Dominick: NVIDIA Just Rehired the Man at the Centre of the Biggest National Security Scandal in U.S. History Jensen Huang Is Back, Trump Is Thrilled.</title>
+      <link>https://deanblundell.substack.com/p/the-monday-morning-mixer-with-pete</link>
+      <description>
+        <![CDATA[Pete Dominick and I on Huang&#8217;s return, Trump&#8217;s &#8220;friend&#8221; Putin, and the 2028 Democrats already circling.]]>
+      </description>
+      <source:markdown>Pete Dominick and I on Huang’s return, Trump’s “friend” Putin, and the 2028 Democrats already circling.</source:markdown>
+      <dc:creator>Dean Blundell</dc:creator>
+      <enclosure url="https://api.substack.com/feed/podcast/226052720/a7883bdcf198c6627ab8532487fd2c31.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">cid://https://deanblundell.substack.com/p/the-monday-morning-mixer-with-pete</guid>
+      <pubDate>Mon, 23 Nov 2026 15:27:24 +0000</pubDate>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/117666450329050786</link>
+      <description>
+        <![CDATA[<p class="quote-inline">RE: <a href="https://mastodon.social/@xogot/117666130741201972" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@xogot/1176661</span><span class="invisible">30741201972</span></a></p><p>Yak Shaving at its best: we were building a game for VisionPro when we took a small detour and ported Godot to iOS.</p><p>We are finally ready to shave that yak.</p><p>Xogot for Vision is out on Testflight today.</p>]]>
+      </description>
+      <source:markdown>RE: [https://mastodon.social/@xogot/117666130741201972](https://mastodon.social/@xogot/117666130741201972)
+
+Yak Shaving at its best: we were building a game for VisionPro when we took a small detour and ported Godot to iOS.
+
+We are finally ready to shave that yak.
+
+Xogot for Vision is out on Testflight today.</source:markdown>
+      <guid isPermaLink="false">cid://https://mastodon.social/@Migueldeicaza/117666450329050786</guid>
+      <pubDate>Mon, 23 Nov 2026 15:25:45 +0000</pubDate>
+    </item>    <item>
+      <title>THIS IS THE COVER-UP: Trump Just Bought Jensen Huang&#39;s Silence With a $4 Trillion Company - Huang Back as NVIDIA CEO.</title>
+      <link>https://deanblundell.substack.com/p/this-is-the-cover-up-trump-just-bought</link>
+      <description>
+        <![CDATA[Briefed twice. Warned nobody. Owns up to $62 million of the stock. Now he's handed Huang his company back 8 days before he testifies.]]>
+      </description>
+      <source:markdown>Briefed twice. Warned nobody. Owns up to $62 million of the stock. Now he&#39;s handed Huang his company back 8 days before he testifies.</source:markdown>
+      <dc:creator>Dean Blundell</dc:creator>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/a2a6207a-3a6c-4384-88dc-2a476ad16491_774x410.png" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://deanblundell.substack.com/p/this-is-the-cover-up-trump-just-bought</guid>
+      <pubDate>Mon, 23 Nov 2026 15:14:17 +0000</pubDate>
+    </item>    <item>
+      <link>https://hcommons.social/@pleiades_gazetteer/117666361597928165</link>
+      <description>
+        <![CDATA[<p>Last Week in the <a href="https://hcommons.social/tags/PleiadesGazetteer" class="mention hashtag" rel="tag">#<span>PleiadesGazetteer</span></a> (16-23 November 2026): over the course of the past week, the Pleiades editorial college published10 new and 396 updated place resources, reflecting the work of Jeffrey Becker, Anika Campbell, Damian Noah Dimitrov, Tom Elliott, Sebastian Heath, Brady Kiesling, Eleftheria Konstantinidou, Darcy Krasne, Chris de Lisle, Gabriel Mckee, Amari Pavati and Eric Poehler. </p><p>A list of all new and changed resources complete with titles, descriptions, bylines, change summaries and links to the actual gazetteer entries, as well as an overview map, may be read on the blog at <a href="https://pleiades.stoa.org/news/blog/last-week-in-pleiades-16-23-november-2026" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">pleiades.stoa.org/news/blog/la</span><span class="invisible">st-week-in-pleiades-16-23-november-2026</span></a></p><p><a href="https://hcommons.social/tags/ancientGeography" class="mention hashtag" rel="tag">#<span>ancientGeography</span></a> <a href="https://hcommons.social/tags/ancientHistory" class="mention hashtag" rel="tag">#<span>ancientHistory</span></a> <a href="https://hcommons.social/tags/archaeology" class="mention hashtag" rel="tag">#<span>archaeology</span></a> <a href="https://hcommons.social/tags/classics" class="mention hashtag" rel="tag">#<span>classics</span></a> <a href="https://hcommons.social/tags/DH" class="mention hashtag" rel="tag">#<span>DH</span></a> <a href="https://hcommons.social/tags/gazetteers" class="mention hashtag" rel="tag">#<span>gazetteers</span></a> <a href="https://hcommons.social/tags/HGIS" class="mention hashtag" rel="tag">#<span>HGIS</span></a> <a href="https://hcommons.social/tags/SpatialHumanities" class="mention hashtag" rel="tag">#<span>SpatialHumanities</span></a></p>]]>
+      </description>
+      <source:markdown>Last Week in the [#PleiadesGazetteer](https://hcommons.social/tags/PleiadesGazetteer) (16-23 November 2026): over the course of the past week, the Pleiades editorial college published10 new and 396 updated place resources, reflecting the work of Jeffrey Becker, Anika Campbell, Damian Noah Dimitrov, Tom Elliott, Sebastian Heath, Brady Kiesling, Eleftheria Konstantinidou, Darcy Krasne, Chris de Lisle, Gabriel Mckee, Amari Pavati and Eric Poehler.
+
+A list of all new and changed resources complete with titles, descriptions, bylines, change summaries and links to the actual gazetteer entries, as well as an overview map, may be read on the blog at [https://pleiades.stoa.org/news/blog/last-week-in-pleiades-16-23-november-2026](https://pleiades.stoa.org/news/blog/last-week-in-pleiades-16-23-november-2026)
+
+[#ancientGeography](https://hcommons.social/tags/ancientGeography) [#ancientHistory](https://hcommons.social/tags/ancientHistory) [#archaeology](https://hcommons.social/tags/archaeology) [#classics](https://hcommons.social/tags/classics) [#DH](https://hcommons.social/tags/DH) [#gazetteers](https://hcommons.social/tags/gazetteers) [#HGIS](https://hcommons.social/tags/HGIS) [#SpatialHumanities](https://hcommons.social/tags/SpatialHumanities)</source:markdown>
+      <guid isPermaLink="false">cid://https://hcommons.social/@pleiades_gazetteer/117666361597928165</guid>
+      <category>pleiadesgazetteer</category>
+      <category>ancientgeography</category>
+      <category>ancienthistory</category>
+      <category>archaeology</category>
+      <category>classics</category>
+      <category>dh</category>
+      <category>gazetteers</category>
+      <category>hgis</category>
+      <category>spatialhumanities</category>
+      <pubDate>Mon, 23 Nov 2026 15:03:11 +0000</pubDate>
     </item>    <item>
       <title>lobste.rs discussion re BonBon</title>
       <link>http://scripting.com/2026/11/23/150103.html?title=lobstersDiscussionReBonbon</link>
@@ -325,7 +631,7 @@ Reply via:
       <category>Technology</category>
       <pubDate>Mon, 23 Nov 2026 14:32:21 +0000</pubDate>
     </item>    <item>
-      <title>The DNC Announces It’s 2028 Presidential Primary Debate Plan, Early Thoughts On 2028 Expansion, It’s The Treason, Stupid</title>
+      <title>The DNC Announces Its 2028 Presidential Primary Debate Plan, Early Thoughts On 2028 Expansion, It’s The Treason, Stupid</title>
       <link>https://www.hopiumchronicles.com/p/the-dnc-announces-its-2028-presidential</link>
       <description>
         <![CDATA[Tue 115pm ET Live - The great Anderson Clayton joins us to recap another extraordinary election in North Carolina | No Founders or Paid Subscribers events this week]]>
@@ -408,6 +714,28 @@ Due to some challenges with my counting process, I am awarding Jefferson the use
       <guid isPermaLink="false">cid://https://mastodon.social/@Migueldeicaza/117666094660678243</guid>
       <pubDate>Mon, 23 Nov 2026 13:55:18 +0000</pubDate>
     </item>    <item>
+      <title>Meet “Trump’s Friend”: 762 Dead Kids, 20,651 Stolen Children, and a Rape Count the UN Can’t Finish</title>
+      <link>https://deanblundell.substack.com/p/meet-trumps-friend-762-dead-kids</link>
+      <description>
+        <![CDATA[Trump&#8217;s &#8220;Friend&#8221; murdered more Ukrainian children this weekend. A full accounting of what Donald Trump&#8217;s favourite war criminal and &#8220;Friend&#8221; has done to Ukraine, and what Trump has done for him.]]>
+      </description>
+      <source:markdown>Trump’s “Friend” murdered more Ukrainian children this weekend. A full accounting of what Donald Trump’s favourite war criminal and “Friend” has done to Ukraine, and what Trump has done for him.</source:markdown>
+      <dc:creator>Dean Blundell</dc:creator>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/55c151ae-8c11-44c8-af1e-0861fb11ecfe_794x450.png" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://deanblundell.substack.com/p/meet-trumps-friend-762-dead-kids</guid>
+      <pubDate>Mon, 23 Nov 2026 13:40:11 +0000</pubDate>
+    </item>    <item>
+      <title>The Daily Dean Newsletter - Monday, November 23, 2026: Panic in the Oval, Trump Cheers the Hackers, Hegseth Picks a Fight With Canada, the $25 Million Kickback and Elon’s $500M Faceplant</title>
+      <link>https://deanblundell.substack.com/p/the-daily-dean-newsletter-monday-ac5</link>
+      <description>
+        <![CDATA[Trump gags 100,000 companies &#183; FBI hacked again &#183; Hegseth&#8217;s fake Canada crackdown &#183; Lutnick&#8217;s $25M &#183; Elon&#8217;s $500M NAZI faceplant]]>
+      </description>
+      <source:markdown>Trump gags 100,000 companies · FBI hacked again · Hegseth’s fake Canada crackdown · Lutnick’s $25M · Elon’s $500M NAZI faceplant</source:markdown>
+      <dc:creator>Dean Blundell</dc:creator>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/d32615c2-8a5f-4a4f-8e74-5b3afcd2c995_800x462.png" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://deanblundell.substack.com/p/the-daily-dean-newsletter-monday-ac5</guid>
+      <pubDate>Mon, 23 Nov 2026 13:19:13 +0000</pubDate>
+    </item>    <item>
       <title>Pluralistic: The Debt Trap (23 Nov 2026)</title>
       <link>https://pluralistic.net/2026/11/23/grasshoppers-v-ants/</link>
       <description>
@@ -443,6 +771,17 @@ Due to some challenges with my counting process, I am awarding Jefferson the use
       <category>PEN American Center</category>
       <category>PEN Writes US</category>
       <pubDate>Mon, 23 Nov 2026 13:10:17 +0000</pubDate>
+    </item>    <item>
+      <title>“You’re a P****y”: Trump, Lutnick, $25 Million and the Nvidia Spy Scandal Nobody Stopped After Don Got A Taste</title>
+      <link>https://deanblundell.substack.com/p/youre-a-py-trump-lutnick-25-million</link>
+      <description>
+        <![CDATA[Trump got the intelligence twice, waved it off, and is now doing PR for the man at the centre of it who kicked back $25 million to America&#8217;s crime boss.]]>
+      </description>
+      <source:markdown>Trump got the intelligence twice, waved it off, and is now doing PR for the man at the centre of it who kicked back $25 million to America’s crime boss.</source:markdown>
+      <dc:creator>Dean Blundell</dc:creator>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/8b33f0b5-9698-4771-b2a5-97e85d11aa77_766x494.png" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://deanblundell.substack.com/p/youre-a-py-trump-lutnick-25-million</guid>
+      <pubDate>Mon, 23 Nov 2026 12:44:10 +0000</pubDate>
     </item>    <item>
       <title>Humans Have Rights. Machines Do Not.</title>
       <link>https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html</link>
@@ -681,6 +1020,24 @@ The post [Citizen science with Raspberry Pi](https://www.raspberrypi.com/news/ci
       <category>The Center for Fiction</category>
       <category>The Loneliness of Sonia and Sunny</category>
       <pubDate>Mon, 23 Nov 2026 08:10:04 +0000</pubDate>
+    </item>    <item>
+      <title>Pepper</title>
+      <link>https://lithub.com/pepper/</link>
+      <description>
+        <![CDATA[__________________________________ Excerpted from Pepper by Karl Stevens. Published by TOON Books/Astra Publishing House. Text copyright © Karl Stevens 2026. Illustrations copyright © Karl Stevens 2026. All rights reserved.]]>
+      </description>
+      <source:markdown>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Excerpted from Pepper by Karl Stevens. Published by TOON Books/Astra Publishing House. Text copyright © Karl Stevens 2026. Illustrations copyright © Karl Stevens 2026. All rights reserved.</source:markdown>
+      <dc:creator>Lit Hub Excerpts</dc:creator>
+      <guid isPermaLink="false">cid://https://lithub.com/?p=280010</guid>
+      <category>Daily Fiction</category>
+      <category>Excerpts</category>
+      <category>Fiction and Poetry</category>
+      <category>From the Novel</category>
+      <category>Novels</category>
+      <category>Karl Stevens</category>
+      <category>Pepper</category>
+      <category>TOON Books/Astra Publishing House</category>
+      <pubDate>Mon, 23 Nov 2026 08:00:40 +0000</pubDate>
     </item>    <item>
       <title>November 22, 2026</title>
       <link>https://heathercoxrichardson.substack.com/p/november-22-2026</link>
@@ -1189,6 +1546,17 @@ I am investigating, I need to gain Eric as a user.</source:markdown>
       <guid isPermaLink="false">cid://https://mastodon.social/@Migueldeicaza/117661085564745473</guid>
       <pubDate>Sun, 22 Nov 2026 16:41:25 +0000</pubDate>
     </item>    <item>
+      <title>THIS WEEK, TODAY: NATO Meets Monday, Canada Laughs at Pete, and the White House Is Hiding the Receipts</title>
+      <link>https://deanblundell.substack.com/p/this-week-today-nato-meets-monday</link>
+      <description>
+        <![CDATA[NATO meets Monday. Canada never got Pete&#8217;s memo. Trump signed an order to hide from Congress. Here&#8217;s what to watch for &#8220;This Week, Today.&#8221;]]>
+      </description>
+      <source:markdown>NATO meets Monday. Canada never got Pete’s memo. Trump signed an order to hide from Congress. Here’s what to watch for “This Week, Today.”</source:markdown>
+      <dc:creator>Dean Blundell</dc:creator>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/20da27f4-1d3e-4a02-8e28-af9c1f3b75d1_1054x626.png" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://deanblundell.substack.com/p/this-week-today-nato-meets-monday</guid>
+      <pubDate>Sun, 22 Nov 2026 16:25:20 +0000</pubDate>
+    </item>    <item>
       <link>http://scripting.com/2026/11/22.html#a162053</link>
       <description>
         <![CDATA[<a href="https://github.com/scripting/bonBon/issues/16">BonBon v0.6.56</a>. Lots of fixes and small features. Responding to user reports and requests.]]>
@@ -1204,6 +1572,28 @@ I am investigating, I need to gain Eric as a user.</source:markdown>
       <source:markdown>[Scott Hanson](https://github.com/scripting/bonBon/issues/1#issuecomment-7079011568) is working on connecting WordPress and BonBon. We&#39;re going to get a great connection. Getting a WordPress site onto the Markdown web should be a simple set of prefs.</source:markdown>
       <guid isPermaLink="false">cid://http://scripting.com/2026/11/22.html#a161855</guid>
       <pubDate>Sun, 22 Nov 2026 16:18:55 +0000</pubDate>
+    </item>    <item>
+      <title>PANIC IN THE OVAL: Trump Signs Friday Night Order Telling 100,000 Companies to Ask His Permission Before Answering Congress</title>
+      <link>https://deanblundell.substack.com/p/panic-in-the-oval-trump-signs-friday</link>
+      <description>
+        <![CDATA[The order is a contract threat dressed up as law, and the companies it targets are already calling their lawyers.]]>
+      </description>
+      <source:markdown>The order is a contract threat dressed up as law, and the companies it targets are already calling their lawyers.</source:markdown>
+      <dc:creator>Dean Blundell</dc:creator>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/8c8f1c7a-d797-4fb2-afe9-a5a016dd971c_810x448.png" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://deanblundell.substack.com/p/panic-in-the-oval-trump-signs-friday</guid>
+      <pubDate>Sun, 22 Nov 2026 16:13:04 +0000</pubDate>
+    </item>    <item>
+      <title>Wait Till Trump Sees This: Carney and a Fake Trump Impersonator Tore Trump Apart in Ottawa Last Night And It Was GLORIOUS</title>
+      <link>https://deanblundell.substack.com/p/wait-till-trump-sees-this-carney</link>
+      <description>
+        <![CDATA[The PM called Trump a decorator, a fake Trump called him crazy, and Canada&#8217;s TEMU Trump, Pierre Poilievre used his turn to obsess over Trudeau and Katy Perry&#8217;s sex life.]]>
+      </description>
+      <source:markdown>The PM called Trump a decorator, a fake Trump called him crazy, and Canada’s TEMU Trump, Pierre Poilievre used his turn to obsess over Trudeau and Katy Perry’s sex life.</source:markdown>
+      <dc:creator>Dean Blundell</dc:creator>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/a82a39dd-a30a-4de2-bc29-943d75747531_784x464.png" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://deanblundell.substack.com/p/wait-till-trump-sees-this-carney</guid>
+      <pubDate>Sun, 22 Nov 2026 15:52:07 +0000</pubDate>
     </item>    <item>
       <title>We Had A Very Big Year In Alaska - A New Discussion With Eric Croft, Chair Of The Alaska Democratic Party</title>
       <link>https://www.hopiumchronicles.com/p/we-had-a-very-big-year-in-alaska</link>
@@ -1885,6 +2275,17 @@ https://github.com/scripting/bonBon</source:markdown>
       <guid isPermaLink="false">cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3n2upcehqyc2c</guid>
       <pubDate>Sun, 22 Nov 2026 03:45:00 +0000</pubDate>
     </item>    <item>
+      <title>HUNG UP 2026 GIFT GUIDE</title>
+      <link>https://hunterharris.substack.com/p/gift-guide-chic-gifts-2026</link>
+      <description>
+        <![CDATA[&#127873;]]>
+      </description>
+      <source:markdown>🎁</source:markdown>
+      <dc:creator>Hunter Harris</dc:creator>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!xy71!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F030dae6d-e0b8-4774-b81b-eff3661b9d0b_800x500.jpeg" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://hunterharris.substack.com/p/gift-guide-chic-gifts-2026</guid>
+      <pubDate>Sun, 22 Nov 2026 02:48:55 +0000</pubDate>
+    </item>    <item>
       <title>A Bizarre Meeting</title>
       <link>https://heathercoxrichardson.substack.com/p/a-bizarre-meeting</link>
       <description>
@@ -1983,6 +2384,39 @@ This piece is a good introduction to the subject:
       <guid isPermaLink="false">cid://tag:daringfireball.net,2026://1.43759</guid>
       <pubDate>Sat, 21 Nov 2026 20:09:57 +0000</pubDate>
     </item>    <item>
+      <title>DEAD AIR LIVE With Steve Schmidt: Elon Is Panicking, Homeland Security Is Babbling and Trump Just Begged Putin and Xi for Immunity</title>
+      <link>https://deanblundell.substack.com/p/dead-air-live-with-steve-schmidt-e4e</link>
+      <description>
+        <![CDATA[Steve Schmidt and Ken Harbaugh on Musk&#8217;s $500M faceplant, 13 cyber breaches and Trump&#8217;s Shenzhen humiliation.]]>
+      </description>
+      <source:markdown>Steve Schmidt and Ken Harbaugh on Musk’s $500M faceplant, 13 cyber breaches and Trump’s Shenzhen humiliation.</source:markdown>
+      <dc:creator>Dean Blundell</dc:creator>
+      <enclosure url="https://api.substack.com/feed/podcast/225834376/fab86a3f693da88324363850d67398d0.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">cid://https://deanblundell.substack.com/p/dead-air-live-with-steve-schmidt-e4e</guid>
+      <pubDate>Sat, 21 Nov 2026 18:32:44 +0000</pubDate>
+    </item>    <item>
+      <title>The FBI Got Hacked (Again) and Trump Spent The Morning On Fox News Cheering for the Hackers</title>
+      <link>https://deanblundell.substack.com/p/the-fbi-got-hacked-again-and-trump</link>
+      <description>
+        <![CDATA[Second FBI breach in two months, a fired cyber czar, a dead NSA network, and the President hopes the thieves find voter fraud that helps exonerate him and all of his treason. I shit you not.]]>
+      </description>
+      <source:markdown>Second FBI breach in two months, a fired cyber czar, a dead NSA network, and the President hopes the thieves find voter fraud that helps exonerate him and all of his treason. I shit you not.</source:markdown>
+      <dc:creator>Dean Blundell</dc:creator>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/00a99b42-ddf4-4bd3-b135-3ed53cf08e6a_2564x1450.png" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://deanblundell.substack.com/p/the-fbi-got-hacked-again-and-trump</guid>
+      <pubDate>Sat, 21 Nov 2026 18:21:00 +0000</pubDate>
+    </item>    <item>
+      <title>SATURDAY SCOREBOARD, EPISODE THIRTEEN: Hackers Have Your Bank’s Data, Vance Vanished, Trump Surrendered To Russia And China, Farted, Then Threatened Canada. Again.</title>
+      <link>https://deanblundell.substack.com/p/saturday-scoreboard-episode-thirteen</link>
+      <description>
+        <![CDATA[Everything in America broke this week except the threats. Carney now runs the free world. Trump ran his mouth, surrendered, shit his pants, then blamed you for him, in his worst week yet, BY FAR.]]>
+      </description>
+      <source:markdown>Everything in America broke this week except the threats. Carney now runs the free world. Trump ran his mouth, surrendered, shit his pants, then blamed you for him, in his worst week yet, BY FAR.</source:markdown>
+      <dc:creator>Dean Blundell</dc:creator>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/76609e7e-bfbd-4eb2-a35d-d33d8cd24d13_1792x1008.jpeg" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://deanblundell.substack.com/p/saturday-scoreboard-episode-thirteen</guid>
+      <pubDate>Sat, 21 Nov 2026 17:41:56 +0000</pubDate>
+    </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/117655647934579235</link>
       <description>
         <![CDATA[<p>How do we as a society absorb labor shocks?</p><p>James Galbraith expands on the work of Pavlina Tcherneva:</p><p><a href="https://www.ineteconomics.org/perspectives/blog/what-can-the-last-great-crash-say-about-the-next-one-oil-ai-and-the-perils-of-technological-revolution" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">ineteconomics.org/perspectives</span><span class="invisible">/blog/what-can-the-last-great-crash-say-about-the-next-one-oil-ai-and-the-perils-of-technological-revolution</span></a></p><p><a href="https://pavlina-tcherneva.net/the-case-for-a-job-guarantee/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">pavlina-tcherneva.net/the-case</span><span class="invisible">-for-a-job-guarantee/</span></a></p>]]>
@@ -2017,6 +2451,17 @@ James Galbraith expands on the work of Pavlina Tcherneva:
       <dc:creator>Caroline Crampton</dc:creator>
       <guid isPermaLink="false">cid://6b00e84016b93c000146efa5</guid>
       <pubDate>Sat, 21 Nov 2026 16:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>BREAKING: Pete Hegseth Restricted Military Ties With Canada Because We Won’t Buy Their F-35’s And The Threat Is As “Useless As He Is.”</title>
+      <link>https://deanblundell.substack.com/p/breaking-pete-hegseth-restricted</link>
+      <description>
+        <![CDATA[The Pentagon&#8217;s secret Canada crackdown exempts NORAD, NATO and intelligence. So what exactly did Pete restrict?]]>
+      </description>
+      <source:markdown>The Pentagon’s secret Canada crackdown exempts NORAD, NATO and intelligence. So what exactly did Pete restrict?</source:markdown>
+      <dc:creator>Dean Blundell</dc:creator>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/db5be537-d418-4140-bb75-402369f9cbc1_1030x644.png" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://deanblundell.substack.com/p/breaking-pete-hegseth-restricted</guid>
+      <pubDate>Sat, 21 Nov 2026 15:49:31 +0000</pubDate>
     </item>    <item>
       <link>http://scripting.com/2026/11/21.html#a154524</link>
       <description>
@@ -2614,6 +3059,17 @@ Here’s the [announcement on the forum](https://discourse.netnewswire.com/t/new
       <guid isPermaLink="false">cid://https://thinkbigpicture.substack.com/p/november-20-weekly-news-roundup</guid>
       <pubDate>Fri, 20 Nov 2026 20:30:40 +0000</pubDate>
     </item>    <item>
+      <title>VIDEO: Trump Came Home From China, Praised Putin, Trashed America and Threatened Canada, Then Audibly Farted, in 90 Minutes of Slurping Chaos</title>
+      <link>https://deanblundell.substack.com/p/video-trump-came-home-from-china</link>
+      <description>
+        <![CDATA[He called China immaculate, American cities dirty, Putin a friend, and Canada the enemy then his shit his pants on live tv. Happy Friday.]]>
+      </description>
+      <source:markdown>He called China immaculate, American cities dirty, Putin a friend, and Canada the enemy then his shit his pants on live tv. Happy Friday.</source:markdown>
+      <dc:creator>Dean Blundell</dc:creator>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!4MZv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6af210e-2d14-48aa-9aac-d2d43351616e_898x548.png" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://deanblundell.substack.com/p/video-trump-came-home-from-china</guid>
+      <pubDate>Fri, 20 Nov 2026 20:13:21 +0000</pubDate>
+    </item>    <item>
       <title>Preparing for Investigations</title>
       <link>https://heathercoxrichardson.substack.com/p/preparing-for-investigations</link>
       <description>
@@ -2726,6 +3182,39 @@ Here’s the [announcement on the forum](https://discourse.netnewswire.com/t/new
       <guid isPermaLink="false">cid://6b0089d39ac51200016da200</guid>
       <category>Link roundups</category>
       <pubDate>Fri, 20 Nov 2026 18:16:29 +0000</pubDate>
+    </item>    <item>
+      <title>Dean’s LIVE with Scott Macfarlane: 42 Days Out - Law Firms Are Flipping, Nominees Are Choking and Trump’s DOJ Is Threatening Congress on Social Media</title>
+      <link>https://deanblundell.substack.com/p/deans-live-with-scott-macfarlane-442</link>
+      <description>
+        <![CDATA[Every Friday morning I get the best D.C. reporter in the business to tell me what&#8217;s actually happening in a city that has spent two years lying to everyone, and this week Scott MacFarlane showed up with fresh reporting, a Canadian road trip and a live fact-check of yours truly.]]>
+      </description>
+      <source:markdown>Every Friday morning I get the best D.C. reporter in the business to tell me what’s actually happening in a city that has spent two years lying to everyone, and this week Scott MacFarlane showed up with fresh reporting, a Canadian road trip and a live fact-check of yours truly.</source:markdown>
+      <dc:creator>Dean Blundell</dc:creator>
+      <enclosure url="https://api.substack.com/feed/podcast/225795524/ad6dbb2926fb8cdba04fb83d4ab6e3a4.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">cid://https://deanblundell.substack.com/p/deans-live-with-scott-macfarlane-442</guid>
+      <pubDate>Fri, 20 Nov 2026 18:15:29 +0000</pubDate>
+    </item>    <item>
+      <title>The Daily Dean Newsletter - Friday, November 20, 2026: Carney Runs the World, Putin Bombs Poland, Hackers Hit Your Bank, Raskin Comes Collecting, Trump Reduced America To A Punchline In China</title>
+      <link>https://deanblundell.substack.com/p/the-daily-dean-newsletter-friday-db6</link>
+      <description>
+        <![CDATA[Russia Bombs Poland &#183; Carney Leads the Free World &#183; Visa, Mastercard, Chase Leaked &#183; Trump&#8217;s Paper Shredders &#183; Shenzhen Humiliation]]>
+      </description>
+      <source:markdown>Russia Bombs Poland · Carney Leads the Free World · Visa, Mastercard, Chase Leaked · Trump’s Paper Shredders · Shenzhen Humiliation</source:markdown>
+      <dc:creator>Dean Blundell</dc:creator>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/75ec1a1f-e12c-4bd7-9310-5731d7584091_882x502.png" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://deanblundell.substack.com/p/the-daily-dean-newsletter-friday-db6</guid>
+      <pubDate>Fri, 20 Nov 2026 18:00:18 +0000</pubDate>
+    </item>    <item>
+      <title>BREAKING: Russia Bombed Poland Today. Three Cruise Missiles Landed Dangerously Close To Coalition Soldier Exercises. NATO Set To Respond. Here We Go.</title>
+      <link>https://deanblundell.substack.com/p/breaking-russia-bombed-poland-today</link>
+      <description>
+        <![CDATA[Russian Kh-101s hit Polish soil hours after Trump called Putin &#8220;my friend.&#8221; Europe is about to answer without him.]]>
+      </description>
+      <source:markdown>Russian Kh-101s hit Polish soil hours after Trump called Putin “my friend.” Europe is about to answer without him.</source:markdown>
+      <dc:creator>Dean Blundell</dc:creator>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!nblw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f18824f-2642-4103-bed9-471f6ae74ba2_1016x616.png" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://deanblundell.substack.com/p/breaking-russia-bombed-poland-today</guid>
+      <pubDate>Fri, 20 Nov 2026 17:28:41 +0000</pubDate>
     </item>    <item>
       <title>Klara y el sol: buenos días a la vida, buenos días señor sol</title>
       <link>https://www.palomitademaiz.net/resenas-klara-y-el-sol/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-klara-y-el-sol</link>
@@ -2854,6 +3343,17 @@ The post [Librem 5 v2 Campaign Builds Early Momentum at 100 Orders](https://puri
       <category>Crowdfunding</category>
       <pubDate>Fri, 20 Nov 2026 15:16:47 +0000</pubDate>
     </item>    <item>
+      <title>Hugged, Serenaded, Censored, Widely Mocked and Dismissed: Trump’s China Trip Was a Roast He Thought Was a Parade And Total Humiliation For The American People</title>
+      <link>https://deanblundell.substack.com/p/hugged-serenaded-censored-widely</link>
+      <description>
+        <![CDATA[Allies mocked him, diplomats shrugged him off and Putin got the photo of his life. Trump got a YMCA disco number and mocked to his face.]]>
+      </description>
+      <source:markdown>Allies mocked him, diplomats shrugged him off and Putin got the photo of his life. Trump got a YMCA disco number and mocked to his face.</source:markdown>
+      <dc:creator>Dean Blundell</dc:creator>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/fab736c9-f58f-4f5d-b298-edc3cf5f8a80_2694x1338.png" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://deanblundell.substack.com/p/hugged-serenaded-censored-widely</guid>
+      <pubDate>Fri, 20 Nov 2026 15:15:32 +0000</pubDate>
+    </item>    <item>
       <link>https://hcommons.social/@pleiades_gazetteer/117649394256761179</link>
       <description>
         <![CDATA[<p>Export Updates 2026-11-20:<br />Pleiades gazetteer of ancient places</p><p>26 updated places. 22 updated linked data sidebars. Inbound PATHs Atlas links are stale because their download was not available at runtime. The QA dashboard has been updated at <a href="https://atlantides.org/qa-dashboard/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">atlantides.org/qa-dashboard/</span><span class="invisible"></span></a></p><p>1. Downloads: <a href="https://pleiades.stoa.org/downloads" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">pleiades.stoa.org/downloads</span><span class="invisible"></span></a></p><p>2. pleiades.datasets: <a href="https://github.com/isawnyu/pleiades.datasets" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/isawnyu/pleiades.da</span><span class="invisible">tasets</span></a>:</p><p>&quot;main&quot; branch:</p><p>f753d8eb - updated json<br />no change: rdf/ttl<br />92de03e4 - updated gis package<br />42d1a237 - updated data quality<br />9ae004d0 - updated bibliography<br />0e6ac5c0 - updated indexes<br />36be7e8f - updated sidebar</p><p>3. pleiades-geojson: <a href="https://github.com/ryanfb/pleiades-geojson" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/ryanfb/pleiades-geo</span><span class="invisible">json</span></a>:</p><p>638e245a - updated geojson and names index</p><p>4. pleiades_wikidata: <a href="https://github.com/isawnyu/pleiades_wikidata/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/isawnyu/pleiades_wi</span><span class="invisible">kidata/</span></a>:</p><p>02cc50fe - updated pleiades wikidata</p>]]>
@@ -2934,6 +3434,17 @@ no change: rdf/ttl
       <source:markdown>New BonBon [release v0.6.55](https://github.com/scripting/bonBon/issues/11).</source:markdown>
       <guid isPermaLink="false">cid://http://scripting.com/2026/11/20.html#a140624</guid>
       <pubDate>Fri, 20 Nov 2026 14:06:24 +0000</pubDate>
+    </item>    <item>
+      <title>BREAKING: Trump’s Regime Is Shredding, Deleting and Threatening Its Way to January. Here’s the Full List of Who’s Getting Investigated.</title>
+      <link>https://deanblundell.substack.com/p/breaking-trumps-regime-is-shredding</link>
+      <description>
+        <![CDATA[Democrats get subpoenas in six weeks. The regime&#8217;s defence so far is a last-place Texas politician posting letters on X.]]>
+      </description>
+      <source:markdown>Democrats get subpoenas in six weeks. The regime’s defence so far is a last-place Texas politician posting letters on X.</source:markdown>
+      <dc:creator>Dean Blundell</dc:creator>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!EvVB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc64883e5-f85c-4fca-ac83-9b0bf7125734_764x1004.png" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://deanblundell.substack.com/p/breaking-trumps-regime-is-shredding</guid>
+      <pubDate>Fri, 20 Nov 2026 13:32:18 +0000</pubDate>
     </item>    <item>
       <link>http://scripting.com/2026/11/20.html#a130234</link>
       <description>
@@ -3400,6 +3911,17 @@ audience around them, rather than up on the stage.</source:markdown>
       <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/uWeo4pRzs6k" length="0" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://heathercoxrichardson.substack.com/p/politics-chat-november-19-2026</guid>
       <pubDate>Fri, 20 Nov 2026 01:42:12 +0000</pubDate>
+    </item>    <item>
+      <title>362: Walrus. Trickle Down. Death Row. Child protection.</title>
+      <link>https://substack.fixthenews.com/p/362-trickle-down-walrus-death-row</link>
+      <description>
+        <![CDATA[So much for the armchair analysts.]]>
+      </description>
+      <source:markdown>So much for the armchair analysts.</source:markdown>
+      <dc:creator>Fix The News</dc:creator>
+      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/05875694-2a9c-489f-bd52-9409e78b5f79_2000x1200.jpeg" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://substack.fixthenews.com/p/362-trickle-down-walrus-death-row</guid>
+      <pubDate>Fri, 20 Nov 2026 01:35:55 +0000</pubDate>
     </item>    <item>
       <title>Friday 20 November, 2026</title>
       <link>https://memex.naughtons.org/friday-20-november-2026/42976/</link>
@@ -7837,6 +8359,17 @@ Mystery solved: this explains why I had bad vibes every time I talked to someone
       <guid isPermaLink="false">cid://https://heathercoxrichardson.substack.com/p/politics-chat-november-17-2026</guid>
       <pubDate>Wed, 18 Nov 2026 01:44:29 +0000</pubDate>
     </item>    <item>
+      <title>Bond: Why It Was Robert Pattinson And Not Any Of Those Other Guys</title>
+      <link>https://hunterharris.substack.com/p/bond-why-it-was-robert-pattinson</link>
+      <description>
+        <![CDATA[And that settles it!]]>
+      </description>
+      <source:markdown>And that settles it!</source:markdown>
+      <dc:creator>Hunter Harris</dc:creator>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!-Y7X!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9c74828-54e9-40cf-8ee6-510514e84af3_800x500.jpeg" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://hunterharris.substack.com/p/bond-why-it-was-robert-pattinson</guid>
+      <pubDate>Wed, 18 Nov 2026 00:39:26 +0000</pubDate>
+    </item>    <item>
       <title>Thoughts on “A New Political Order” episode of Open Source podcast</title>
       <link>https://andysylvester.com/2026/11/17/thoughts-on-a-new-political-order-episode-of-open-source-podcast/</link>
       <description>
@@ -8065,6 +8598,16 @@ Learn more about their stories and apply to become an Obama Leader today: obama.
       <category>tvOS 27</category>
       <category>tvOS Release</category>
       <pubDate>Tue, 17 Nov 2026 21:53:53 +0000</pubDate>
+    </item>    <item>
+      <title>Thelio Prime - A New Chapter</title>
+      <link>https://system76.com/blog/post/thelio-prime-a-new-chapter</link>
+      <description>
+        <![CDATA[System76, the leading Linux-first computing platform, introduces the new Thelio Prime Desktop.]]>
+      </description>
+      <source:markdown>System76, the leading Linux-first computing platform, introduces the new Thelio Prime Desktop.</source:markdown>
+      <enclosure url="https://images.prismic.io/blog-system76/m8_2A_i1lTCIfZAe_thelio-prime-blog-image.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">cid://https://system76.com/blog/post/thelio-prime-a-new-chapter</guid>
+      <pubDate>Tue, 17 Nov 2026 21:25:02 +0000</pubDate>
     </item>    <item>
       <title>Chips, spies and a lame duck</title>
       <link>https://thinkbigpicture.substack.com/p/chips-spies-and-a-lame-duck</link>
@@ -13942,6 +14485,17 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <guid isPermaLink="false">cid://https://guykawasaki.substack.com/p/the-art-of-chinese-seduction</guid>
       <pubDate>Fri, 13 Nov 2026 01:53:48 +0000</pubDate>
     </item>    <item>
+      <title>361: The Motherload. Midterms. Mongolia. Manta.</title>
+      <link>https://substack.fixthenews.com/p/361-the-motherload-midterms-mongolia</link>
+      <description>
+        <![CDATA[Not bad for the end of democracy.]]>
+      </description>
+      <source:markdown>Not bad for the end of democracy.</source:markdown>
+      <dc:creator>Fix The News</dc:creator>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!PS-Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbdabb48d-204d-4e7c-aedf-6ff34ac5d245_3888x2592.jpeg" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://substack.fixthenews.com/p/361-the-motherload-midterms-mongolia</guid>
+      <pubDate>Fri, 13 Nov 2026 01:05:12 +0000</pubDate>
+    </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/117606410608327082</link>
       <description>
         <![CDATA[<p>I am making the food of my people: black beans.</p><p>I forgot the salt.  My grandmother would have never allowed this to happen.</p>]]>
@@ -13962,6 +14516,17 @@ I forgot the salt. My grandmother would have never allowed this to happen.</sour
       <enclosure url="https://api.substack.com/feed/podcast/224675449/080fad3948e9e524426ea0b6de27b903.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">cid://https://heathercoxrichardson.substack.com/p/veterans-day</guid>
       <pubDate>Fri, 13 Nov 2026 00:37:30 +0000</pubDate>
+    </item>    <item>
+      <title>Eight Years of the Horny Beto Tweet</title>
+      <link>https://hunterharris.substack.com/p/horny-beto-tweet-calves-cramp</link>
+      <description>
+        <![CDATA[You know the one.]]>
+      </description>
+      <source:markdown>You know the one.</source:markdown>
+      <dc:creator>Hunter Harris</dc:creator>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!hdpq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14c42b49-95de-4cb9-99a7-1c2a80b2408b_800x500.jpeg" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://hunterharris.substack.com/p/horny-beto-tweet-calves-cramp</guid>
+      <pubDate>Fri, 13 Nov 2026 00:19:27 +0000</pubDate>
     </item>    <item>
       <title>Friday 13 November, 2026</title>
       <link>https://memex.naughtons.org/friday-13-november-2026/42952/</link>
@@ -19776,6 +20341,15 @@ trying to protect the web commons. If voluntary documentation sits under
       <guid isPermaLink="false">cid://tag:blog.golang.org,2013:blog.golang.org/17years</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>    <item>
+      <title>Every event type, now in the events API</title>
+      <link>https://buttondown.com/blog/api-events-real-event-types</link>
+      <description>
+        <![CDATA[API version 2026-11-10 gives GET /v1/events the same event types as webhooks, with several at once and every event type listed.]]>
+      </description>
+      <source:markdown>API version 2026-11-10 gives GET /v1/events the same event types as webhooks, with several at once and every event type listed.</source:markdown>
+      <category>changelog</category>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>    <item>
       <title>New Kids On The Block</title>
       <link>https://steady.substack.com/p/new-kids-on-the-block</link>
       <description>
@@ -25526,6 +26100,16 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <guid isPermaLink="false">cid://https://www.publicnotice.co/p/2026-midterms-biggest-losers</guid>
       <pubDate>Fri, 06 Nov 2026 11:17:30 +0000</pubDate>
     </item>    <item>
+      <title>Beyond bandwidth: Network is the new compute</title>
+      <link>https://www.nokia.com/blog/beyond-bandwidth-network-is-the-new-compute/</link>
+      <description>
+        <![CDATA[See how high-performance Ethernet fabrics help you meet the communication and compute needs of distributed AI and HPC workloads.]]>
+      </description>
+      <source:markdown>See how high-performance Ethernet fabrics help you meet the communication and compute needs of distributed AI and HPC workloads.</source:markdown>
+      <dc:creator>Nokia</dc:creator>
+      <guid isPermaLink="false">cid://276414</guid>
+      <pubDate>Fri, 06 Nov 2026 11:11:15 +0000</pubDate>
+    </item>    <item>
       <title>Weekly Roundup: Nov. 6</title>
       <link>https://lpeproject.org/blog/weekly-roundup-nov-6/</link>
       <description>
@@ -26038,6 +26622,17 @@ This came out of [an exchange with Kuniaki Watanabe](https://twitter.com/k_u/sta
       <category>Safari</category>
       <category>URL</category>
       <pubDate>Thu, 05 Nov 2026 22:34:07 +0000</pubDate>
+    </item>    <item>
+      <title>360: Turn On The Lights. Desa’a. AI vs Hurricane. Coffee.</title>
+      <link>https://substack.fixthenews.com/p/360-turn-on-the-lights-desaa-ai-vs</link>
+      <description>
+        <![CDATA[Best drunk black from a ceramic cup, on a springtime Wednesday morning.]]>
+      </description>
+      <source:markdown>Best drunk black from a ceramic cup, on a springtime Wednesday morning.</source:markdown>
+      <dc:creator>Fix The News</dc:creator>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!vKN8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20d4c691-c941-4242-a18d-2e072fcd437a_1950x1019.png" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://substack.fixthenews.com/p/360-turn-on-the-lights-desaa-ai-vs</guid>
+      <pubDate>Thu, 05 Nov 2026 22:06:00 +0000</pubDate>
     </item>    <item>
       <link>http://scripting.com/2026/11/05.html#a215845</link>
       <description>
@@ -28384,6 +28979,16 @@ You can request a transcript by emailing [transcripts@crooked.com](mailto:transc
       <guid isPermaLink="false">cid://audioboom-01a1a94a-b26a-7bc8-8f0b-a652d7c83d58</guid>
       <pubDate>Thu, 05 Nov 2026 10:55:00 +0000</pubDate>
     </item>    <item>
+      <title>Nokia’s Impact in the Age of AI</title>
+      <link>https://www.nokia.com/blog/nokias-impact-in-the-age-of-ai/</link>
+      <description>
+        <![CDATA[Nokia’s People &amp;amp; Planet hub, shows how efficient networks and connectivity support climate and social impact.]]>
+      </description>
+      <source:markdown>Nokia’s People &#38;amp; Planet hub, shows how efficient networks and connectivity support climate and social impact.</source:markdown>
+      <dc:creator>Nokia</dc:creator>
+      <guid isPermaLink="false">cid://276407</guid>
+      <pubDate>Thu, 05 Nov 2026 10:11:31 +0000</pubDate>
+    </item>    <item>
       <title>Hanif Abdurraqib on the Lessons of June Jordan</title>
       <link>https://lithub.com/hanif-abdurraqib-on-the-lessons-of-june-jordan/</link>
       <description>
@@ -30092,6 +30697,17 @@ Fall colors (red)</source:markdown>
       <category>Micro.Blog</category>
       <category>Politics</category>
       <pubDate>Wed, 04 Nov 2026 01:14:41 +0000</pubDate>
+    </item>    <item>
+      <title>Sephora Sale Selects From a Girl Who Can Do Exactly One Makeup Look</title>
+      <link>https://hunterharris.substack.com/p/sephora-sale-selects-hunter-harris-skin</link>
+      <description>
+        <![CDATA[A list.]]>
+      </description>
+      <source:markdown>A list.</source:markdown>
+      <dc:creator>Hunter Harris</dc:creator>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!sg3_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa246e3a4-66e7-4f05-b39f-121c7150376d_800x500.jpeg" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://hunterharris.substack.com/p/sephora-sale-selects-hunter-harris-skin</guid>
+      <pubDate>Wed, 04 Nov 2026 00:49:30 +0000</pubDate>
     </item>    <item>
       <title>Wednesday 4 November, 2026</title>
       <link>https://memex.naughtons.org/wednesday-4-november-2026/42911/</link>
