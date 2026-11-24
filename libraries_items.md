@@ -3,9 +3,9 @@ title: "GLAM"
 description: "Libraries, archives and museums."
 pubDate: Mon, 23 Nov 2026 10:30:49 GMT
 aggregateOf: "libraries.md"
-dateModified: Mon, 23 Nov 2026 14:49:14 GMT
-itemCount: 69
-generator: antenna/0.1.1
+dateModified: Tue, 24 Nov 2026 05:05:47 GMT
+itemCount: 67
+generator: antenna/0.1.2
 ---
 
 # GLAM
@@ -754,20 +754,4 @@ via Scholarly Kitchen · 2026-11-03, updated 2026-11-22
 How can publishers move past the regulatory overview for accessibility compliance and into the production reality after sitting on decades of archived content, posts, and data.
 
 The post [Guest Post — What Accessibility at Scale Actually Requires of Academic Publishers](https://scholarlykitchen.sspnet.org/2026/11/03/what-accessibility-at-scale-actually-requires-of-academic-publishers/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).
-
-## [Rethinking Readers’ Advisory For Today’s Reading Reality (New Issue of Library Trends; Vol. 75, No. 2)](https://www.infodocket.com/2026/11/02/rethinking-readers-advisory-for-todays-reading-reality-new-issue-of-library-trends-vol-75-no-2/)
-
-via Library Jounral · 2026-11-02, updated 2026-11-12
-
-Library Trends, Volume 75, Number 2, November 2026 Edited by: Robin Bradford and Becky Spratford  Rethinking Readers’ Advisory for Today’s Reading Reality: An Introduction Robin Bradford; Becky Spratford (RA for All, Illinois) Stress Versus Libraries Avery Alexander (University of Maryland, College Park); Rebecca Reeves (University of Washington, MLIS 2025) Cultivating a Critical Disposition in Readers’ \[…\]
-
-The post [Rethinking Readers’ Advisory For Today’s Reading Reality (New Issue of Library Trends; Vol. 75, No. 2)](https://www.infodocket.com/2026/11/02/rethinking-readers-advisory-for-todays-reading-reality-new-issue-of-library-trends-vol-75-no-2/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).
-
-## [The AI Transparency Trap](https://scholarlykitchen.sspnet.org/2026/11/02/the-ai-transparency-trap/)
-
-via Scholarly Kitchen · 2026-11-02, updated 2026-11-20
-
-The absence of AI doesn’t guarantee trustworthy research. And neither does disclosing AI use.
-
-The post [The AI Transparency Trap](https://scholarlykitchen.sspnet.org/2026/11/02/the-ai-transparency-trap/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).
 

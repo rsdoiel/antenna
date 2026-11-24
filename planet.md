@@ -52,17 +52,7 @@ title: Planet News
 - [CBC, World News](https://www.cbc.ca/webfeed/rss/rss-world)
 - [CBC, Indigenious News](https://www.cbc.ca/webfeed/rss/rss-Indigenous)
 
-# New Zealand
+# Naval and Defense
 
-- [RNZ National News](https://www.rnz.co.nz/rss/national.xml)
-
-# Japan
-
-- [Japan Times](https://www.japantimes.co.jp/feed/)
-
-# Korean
-
-- [Korea Times](https://feed.koreatimes.co.kr/k/allnews.xml)
--  Korea Herald <https://www.koreaherald.com/rss/newsAll>
-- [Yonhap News](https://en.yna.co.kr/channel/index)
-
+- [US Navy Institute](https://news.usni.org/feed)
+- [Navel News](https://www.navalnews.com/feed/)

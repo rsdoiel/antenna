@@ -3,9 +3,9 @@ title: "Retro"
 description: "Computer history and vintage systems."
 pubDate: Sun, 22 Nov 2026 20:00:05 GMT
 aggregateOf: "retro_computing.md"
-dateModified: Mon, 23 Nov 2026 14:47:38 GMT
-itemCount: 49
-generator: antenna/0.1.1
+dateModified: Tue, 24 Nov 2026 05:05:49 GMT
+itemCount: 48
+generator: antenna/0.1.2
 ---
 
 # Retro
@@ -492,10 +492,4 @@ I acquired (again) a MCS Alpha 1. The KIM-1 alike 6502 development system in a c
 via Icon Bar, RISC OS News · 2026-11-03, updated 2026-11-02
 
 The Autumn 2026 edition of Drag'n'Drop magazine was released at the recent London Show. We are now into Volume 16!
-
-## [WROCC November 2026 talk on Wednesday with Chris Hughes](http://www.iconbar.com/comments/rss/news2415.html)
-
-via Icon Bar, RISC OS News · 2026-11-02
-
-The November 2026 WROCC talk is on Wednesday 4th November and starts at 7.45pm on Zoom. This month Chris Hughes is going to be looking at packaging.
 

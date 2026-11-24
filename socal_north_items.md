@@ -1,14 +1,118 @@
 ---
 title: "SoCal North"
 description: "News and posts related to the greater North Los Angeles and adjacent counties.\n"
-pubDate: Mon, 23 Nov 2026 13:00:00 GMT
+pubDate: Tue, 24 Nov 2026 02:42:20 GMT
 aggregateOf: "socal_north.md"
-dateModified: Mon, 23 Nov 2026 14:30:23 GMT
-itemCount: 297
-generator: antenna/0.1.1
+dateModified: Tue, 24 Nov 2026 04:56:44 GMT
+itemCount: 302
+generator: antenna/0.1.2
 ---
 
 # SoCal North
+
+## [Trump targets Newsom and Democrats in Justice Department speech focused on violent crime](https://laist.com/news/criminal-justice/trump-targets-newsom-and-democrats-in-justice-department-speech-focused-on-violent-crime)
+
+via The LAist · 2026-11-24
+
+President Donald Trump condemned California Gov. Gavin Newsom’s decision to commute hundreds of death sentences in the state.
+
+## [UCLA: QB Ty Dieffenbach has a chance to play vs USC in regular-season finale](https://laist.com/news/arts-and-entertainment/ucla-qb-ty-dieffenbach-has-a-chance-to-play-vs-usc-in-regular-season-finale)
+
+via The LAist · 2026-11-24
+
+UCLA is optimistic quarterback Ty Dieffenbach could play when the 10th-ranked Bruins host No. 15 Southern California.
+
+## [Legal fight over 20,000 California ballots ends as appeals court OKs DOJ dismissal](https://laist.com/news/politics/legal-fight-over-20-000-california-ballots-ends-as-appeals-court-oks-doj-dismissal)
+
+via The LAist · 2026-11-24
+
+A federal appeals court on Monday approved the Justice Department’s bid to dismiss its own lawsuit that sought to pause California from counting roughly 20,000 ballots.
+
+## [Gasoline prices may be inching down, but some have already canceled Thanksgiving travel plans](https://laist.com/news/los-angeles-activities/gasoline-prices-may-be-inching-down-but-some-have-already-canceled-thanksgiving-travel-plans)
+
+via The LAist · 2026-11-24
+
+Some are canceling trips, some are eating the higher costs.
+
+## [LA considers taxpayer-funded rent freeze for some senior and disabled tenants](https://laist.com/news/housing-homelessness/los-angeles-city-council-housing-rent-freeze-proposal-senior-elderly-disabled-tenants-landlords)
+
+via The LAist · 2026-11-24
+
+Some LA leaders want the city to copy a program that shields many senior and disabled New Yorkers from rent hikes.
+
+## [California and other states sue to block Trump housing rule that could split up immigrant families](https://laist.com/news/housing-homelessness/california-states-sue-block-trump-housing-rule-immigrant-families)
+
+via The LAist · 2026-11-24
+
+The new rule barring mixed status families from federal housing aid is set to go into effect next month. Here's how to tell whether it applies to your household.
+
+## [Heading to LAX for Thanksgiving? Here’s your quick guide to bypassing traffic](https://laist.com/news/transportation/los-angles-lax-thanksgiving-travel-traffic-tips-quick-guide)
+
+via The LAist · 2026-11-23
+
+Because the last thing you want to do for a holiday is sit in your car for way too long.
+
+## [Kratom Culture: The Messy Battle to Regulate a Smoke Shop Opioid](https://lataco.com/kratom-7-oh-drug-los-angeles)
+
+via L. A. Taco · 2026-11-23, updated 2026-11-24
+
+An L.A. TACO investigation shows that the two main combatants in the fight over the drug include influencers fighting chronic pain and right-wing politicians supporting "pure" kratom. Despite neither camp deploying much scientific research.
+
+The post [Kratom Culture: The Messy Battle to Regulate a Smoke Shop Opioid](https://lataco.com/kratom-7-oh-drug-los-angeles) appeared first on [L.A. TACO](https://lataco.com).
+
+## [UC gives students free access to ChatGPT. Faculty say OpenAI deal is ‘unwise’](https://laist.com/news/education/uc-gives-students-free-access-to-chatgpt-faculty-say-openai-deal-is-unwise)
+
+via The LAist · 2026-11-23
+
+The University of California is procuring full access to ChatGPT Edu for all students and faculty as part of a $1.2 million agreement with OpenAI, despite concerns.
+
+## [Democratic Rep. Jimmy Gomez resigns after Ethics panel finds evidence of sexual misconduct](https://laist.com/news/politics/ethics-probe-finds-democratic-rep-jimmy-gomez-made-unwelcome-sexual-advances-to-a-staffer)
+
+via The LAist · 2026-11-23, updated 2026-11-24
+
+The House Ethics Committee said in a report released Monday that there is “substantial evidence” that Democratic Rep. Jimmy Gomez of California engaged in sexual misconduct.
+
+## [Reps. Whitesides, Gottheimer Introduce Legislation To Defend Critical Infrastructure Against AI-Driven Cyberattacks](https://whitesides.house.gov/2026/11/23/reps-whitesides-gottheimer-introduce-legislation-to-defend-critical-infrastructure-against-ai-driven-cyberattacks/)
+
+via Congressman George Whitesides, district 27 · 2026-11-23
+
+Cyber Resilience for Critical Infrastructure Act would help utilities, hospitals, and water systems patch vulnerabilities faster and wall off systems that can’t be patched quickly WASHINGTON, D.C. – Today, Reps. George Whitesides (D-CA) and Josh Gottheimer (D-NJ) introduced the Cyber Resilience for Critical Infrastructure Act, legislation to help critical infrastructure operators fix security vulnerabilities faster, \[…\]
+
+## [Metro Board to consider Locally Preferred Alternative for LA River Path project](https://thesource.metro.net/metro-board-to-consider-locally-preferred-alternative-for-la-river-path-project/)
+
+via The Source MTA blog · 2026-11-23
+
+![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/Proposed-Top-of-Bank-Path-with-access-point.png?fit=936%2C648&ssl=1)Metro is recommending Modified Option 2 as the Locally Preferred Alternative (LPA) for the LA River Path Project that would close the eight-mile gap in the walking and bicycle trail between the Elysian Valley and Vernon. Here’s a map of the LPA: Staff are also recommending building two initial segments simultaneously. The northern segment would be \[…\]
+
+## [Why California’s universities are setting up their own AI data centers](https://laist.com/news/education/why-californias-universities-are-setting-up-their-own-ai-data-centers)
+
+via The LAist · 2026-11-23
+
+California community colleges and the UC system are both discussing expanding their AI alternatives to save money and avoid data security risks.
+
+## [LA’s Vegan Community Seeks Thanksgiving Alternatives](https://sanfernandosun.com/2026/11/23/las-vegan-community-seeks-thanksgiving-alternatives-2/)
+
+via San Fernando Sun · 2026-11-23
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/11/CA-Sun-turkey-hug-kid-EDIT-scaled.jpg?fit=768%2C1024&ssl=1)
+
+By David Weiner City News Service LOS ANGELES (CNS) – Thanksgiving is the best day of the year for those who enjoy eating turkey, but for those who prefer the \[…\]
+
+The post [LA’s Vegan Community Seeks Thanksgiving Alternatives](https://sanfernandosun.com/2026/11/23/las-vegan-community-seeks-thanksgiving-alternatives-2/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Let's talk turkey: Here's how Thanksgiving meal costs have changed this year](https://laist.com/news/lets-talk-turkey-heres-how-thanksgiving-meal-costs-have-changed-this-year)
+
+via The LAist · 2026-11-23
+
+Grocery costs have been on the rise, but food-price analysts say it's unclear if you'll spend more on the Thanksgiving meal this year.
+
+## [Investigations Newsletter: Should Railroad Companies Do More To Secure Their Trains?](https://lataco.com/22-million-train-robbery)
+
+via L. A. Taco · 2026-11-23, updated 2026-11-24
+
+A Union Pacific official declined to specify how many police officers the multi-billion dollar company has assigned to the Los Angeles area.
+
+The post [Investigations Newsletter: Should Railroad Companies Do More To Secure Their Trains?](https://lataco.com/22-million-train-robbery) appeared first on [L.A. TACO](https://lataco.com).
 
 ## [The 2026 election is (mostly) over. What do you want LAist to track?](https://laist.com/news/politics/voter-guides/the-2026-election-is-mostly-over-what-do-you-want-laist-to-track)
 
@@ -54,7 +158,7 @@ Estrada will be the newly created creative chair for Latin music.
 
 ## [ICE Agents Smash Car Windows, Pepper Spray Community Patroller in Santa Clarita](https://lataco.com/ice-smash-windows-pepper-spray-santa-clarita)
 
-via L. A. Taco · 2026-11-21, updated 2026-11-22
+via L. A. Taco · 2026-11-21, updated 2026-11-24
 
 Community patrollers at a sheriff's station offered a ride to a man leaving the station. Video shared with L.A. TACO shows that ICE agents surrounded their vehicle, then threatened and sprayed various people at the parking lot.
 
@@ -104,7 +208,7 @@ City Councilmember Ysabel Jurado and Mayor-elect Nithya Raman have introduced a 
 
 ## [Our Nine Favorite Punk Movie Moments Filmed in L.A., Ranked](https://lataco.com/punk-movie-scenes-filmed-in-la)
 
-via L. A. Taco · 2026-11-20, updated 2026-11-22
+via L. A. Taco · 2026-11-20, updated 2026-11-24
 
 Spoilers ahead! From South L.A. to the Valley, from Downtown to the Westside, here's our guide to the locations of nine punk movie moments filmed in L.A.
 
@@ -124,7 +228,7 @@ The state faces a projected $2 billion shortfall next year, but if the Nvidia sl
 
 ## [Experts Urge Travelers to Get a Flu Shot Before Thanksgiving](https://sanfernandosun.com/2026/11/20/experts-urge-travelers-to-get-a-flu-shot-before-thanksgiving/)
 
-via San Fernando Sun · 2026-11-20
+via San Fernando Sun · 2026-11-20, updated 2026-11-23
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/500_jonathan-weiner-md-cedars-sinai.jpg?fit=285%2C400&ssl=1)
 
@@ -134,7 +238,7 @@ The post [Experts Urge Travelers to Get a Flu Shot Before Thanksgiving](https://
 
 ## [Experience An Ethiopian Coffee Ceremony On Pico and a Sexy Space For Ghanaian-Japanese Fusion On Sunset](https://lataco.com/ethiopian-coffee-ceremony)
 
-via L. A. Taco · 2026-11-20, updated 2026-11-22
+via L. A. Taco · 2026-11-20, updated 2026-11-24
 
 The beans are pan-roasted in the kitchen and brewed in a traditional clay jebena before being served to you and your friends.
 
@@ -178,7 +282,7 @@ The state gave $29 million to county registrars to speed up ballot-counting this
 
 ## [ICE Watch: Remembering the Summer ICE Took the Parents of Two San Diego Teens](https://lataco.com/ice-watch-san-diego-parents-taken)
 
-via L. A. Taco · 2026-11-20, updated 2026-11-22
+via L. A. Taco · 2026-11-20, updated 2026-11-24
 
 "I hope every family stays together, and I hope none of this happens to you guys how this happened to me,” said Kevin Robles, a U.S. Citizen who was 17 years old at the time.
 
@@ -224,7 +328,7 @@ California’s ban against public funding for most state and local candidates ru
 
 ## [These Rare Blue Corn Tamales Sell Out Every Saturday in Sherman Oaks](https://lataco.com/true-blue-corn-tamales)
 
-via L. A. Taco · 2026-11-19, updated 2026-11-22
+via L. A. Taco · 2026-11-19, updated 2026-11-24
 
 Afro-Mexicana tamal vendor Jasmine Ledesma's newest side hustle brings her generational recipes to a Rite Aid parking lot. Demand is so high that even scammers are targeting their sales.
 
@@ -246,7 +350,7 @@ California schools are supposed to make sure young students see a dentist. Many 
 
 ## [Reps. Whitesides, Moran, and Beyer Launch First Congressional Caucus Focused on AI Safety and Innovation](https://whitesides.house.gov/2026/11/19/reps-whitesides-moran-and-beyer-launch-first-congressional-caucus-focused-on-ai-safety-and-innovation/)
 
-via Congressman George Whitesides, district 27 · 2026-11-19
+via Congressman George Whitesides, district 27 · 2026-11-19, updated 2026-11-23
 
 Bipartisan congressional caucus will champion AI safety legislation, address emerging security threats, and help Congress respond more quickly to AI safety incidents WASHINGTON, D.C. – Today, Reps. George Whitesides (D-CA), Nathaniel Moran (R-TX), and Don Beyer (D-VA), announced the launch of the House AI Safety and Innovation Caucus, the first congressional caucus focused specifically on \[…\]
 
@@ -276,7 +380,7 @@ Students were injured, doxxed, suspended and some tried for misdemeanors for the
 
 ## [Llevando el espíritu de “Si Se Puede”: Miles rinden homenaje a Dolores Huerta](https://sanfernandosun.com/2026/11/18/llevando-el-espiritu-de-si-se-puede-miles-rinden-homenaje-a-dolores-huerta/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-20
+via San Fernando Sun · 2026-11-19, updated 2026-11-23
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/AP26320811633908-1.jpg?fit=1024%2C683&ssl=1)
 
@@ -286,7 +390,7 @@ The post [Llevando el espíritu de “Si Se Puede”: Miles rinden homenaje a Do
 
 ## [Demanda impugna el plan de Newsom para conmutar las 548 sentencias de muerte en California](https://sanfernandosun.com/2026/11/18/demanda-impugna-el-plan-de-newsom-para-conmutar-las-548-sentencias-de-muerte-en-california/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-20
+via San Fernando Sun · 2026-11-19, updated 2026-11-23
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/6099018590715768017_107ca394-a589-4eff-a760-08895cdb8f3e-e1795064149101.png?fit=1024%2C981&ssl=1)
 
@@ -296,7 +400,7 @@ The post [Demanda impugna el plan de Newsom para conmutar las 548 sentencias de 
 
 ## [Horóscopo](https://sanfernandosun.com/2026/11/18/horoscopo-294/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-20
+via San Fernando Sun · 2026-11-19, updated 2026-11-23
 
 ARIES (21 de mar – 19 de abr) Puedes querer estar en todas partes al mismo tiempo cuando lleguen las invitaciones sociales, Aries. Pero esta semana tendrás que elegir tus \[…\]
 
@@ -304,7 +408,7 @@ The post [Horóscopo](https://sanfernandosun.com/2026/11/18/horoscopo-294/) appe
 
 ## [EVENTOS Locales – Semana de 19 de noviembre, 2026](https://sanfernandosun.com/2026/11/18/eventos-locales-semana-de-19-de-noviembre-2026/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-20
+via San Fernando Sun · 2026-11-19, updated 2026-11-23
 
 Viernes, 20 de noviembre Nuestra Tercera Campaña de Pavos de Acción de Gracias Llega a Todos los Vecindarios del Distrito 6 Ignite the Light of Hope 13501 Osborne St. Lakeview \[…\]
 
@@ -312,7 +416,7 @@ The post [EVENTOS Locales – Semana de  19 de noviembre, 2026](https://sanfern
 
 ## [Quinto año de campaña de MADD para iluminar puntos de referencia en honor a víctimas y sobrevivientes](https://sanfernandosun.com/2026/11/18/quinto-ano-de-campana-de-madd-para-iluminar-puntos-de-referencia-en-honor-a-victimas-y-sobrevivientes/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-20
+via San Fernando Sun · 2026-11-19, updated 2026-11-23
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Dodger-Stadium-5.jpg?fit=1024%2C767&ssl=1)
 
@@ -322,7 +426,7 @@ The post [Quinto año de campaña de MADD para iluminar puntos de referencia en 
 
 ## [Conductor acusado en choque fatal de Metro en NoHo que mató a tres vendedoras ambulantes](https://sanfernandosun.com/2026/11/18/conductor-acusado-en-choque-fatal-de-metro-en-noho-que-mato-a-tres-vendedoras-ambulantes/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-20
+via San Fernando Sun · 2026-11-19, updated 2026-11-23
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/NoHo-Crash-01-e1795063505384.jpeg?fit=1024%2C768&ssl=1)
 
@@ -332,7 +436,7 @@ The post [Conductor acusado en choque fatal de Metro en NoHo que mató a tres ve
 
 ## [Vuelve el Festival de Baile de Calle de Valley con talleres de reconocidos artistas](https://sanfernandosun.com/2026/11/18/vuelve-el-festival-de-baile-de-calle-de-valley-con-talleres-de-reconocidos-artistas/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-20
+via San Fernando Sun · 2026-11-19, updated 2026-11-23
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/%40BY.AUSTINLUC-11-scaled.jpg?fit=768%2C1024&ssl=1)
 
@@ -342,7 +446,7 @@ The post [Vuelve el Festival de Baile de Calle de Valley con talleres de reconoc
 
 ## [El Consejo Municipal de Los Angeles Considera Ellección Especial para Cubrir Vacante Dejada por La Alcaldes Electa Raman](https://sanfernandosun.com/2026/11/18/el-consejo-municipal-de-los-angeles-considera-elleccion-especial-para-cubrir-vacante-dejada-por-la-alcaldes-electa-raman/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-20
+via San Fernando Sun · 2026-11-19, updated 2026-11-23
 
 LOS ÁNGELES (CNS) — La concejal Monica Rodriguez presentó el martes, 17 de noviembre, una moción que, de ser aprobada, iniciaría los pasos para convocar una elección especial para cubrir \[…\]
 
@@ -400,7 +504,7 @@ After federal agents blocked the ambulance entrance and detained two protesters,
 
 ## [The New York Times Got L.A.’s True Eastside Wrong and Why It Definitely Matters](https://lataco.com/eastside-los-angeles)
 
-via L. A. Taco · 2026-11-18, updated 2026-11-22
+via L. A. Taco · 2026-11-18, updated 2026-11-24
 
 The Eastside is almost a state of consciousness; a place that shows how deeply you know Los Angeles.
 
@@ -420,7 +524,7 @@ The bridge stretches 1,250 feet (380 meters) in two sections over the roadways t
 
 ## [Investigations Newsletter: Will Nithya Raman Fire LAPD Chief Jim McDonnell?](https://lataco.com/will-nithya-raman-fire-jim-mcdonnell)
 
-via L. A. Taco · 2026-11-18, updated 2026-11-22
+via L. A. Taco · 2026-11-18, updated 2026-11-24
 
 We asked.
 
@@ -466,7 +570,7 @@ A federal judge has signed off on a step-by-step handoff. Here’s a breakdown o
 
 ## [The Coolest 11 Places In L.A. With Free Wi-Fi to Work From When You Need to Get Out of the House](https://lataco.com/cafes-bars-remote-work-wfh)
 
-via L. A. Taco · 2026-11-18, updated 2026-11-22
+via L. A. Taco · 2026-11-18, updated 2026-11-24
 
 Only in L.A. can you work away from home with complimentary cannabis pre-rolls, hot tubs, beach views, and even a spa.
 
@@ -528,7 +632,7 @@ Leonard Redway, Inglewood City Council District 1 candidate, must stay 100 yards
 
 ## [Vandenberg hosts 2026 Fall Job Fair](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649605/vandenberg-hosts-2026-fall-job-fair/)
 
-via Vandenberg Base News · 2026-11-17, updated 2026-11-23
+via Vandenberg Base News · 2026-11-17, updated 2026-11-24
 
 Attendees explore career opportunities during the Fall Job Fair at the Pacific Coast Center at Vandenberg Space Force Base, California, Nov. 16, 2026.
 
@@ -594,7 +698,7 @@ The U.S. Supreme Court denied the Trump administration’s appeal of lower court
 
 ## [Sentinel Stage Processing Facility Ribbon Cutting Ceremony at Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649455/sentinel-stage-processing-facility-ribbon-cutting-ceremony-at-vandenberg-space/)
 
-via Vandenberg Base News · 2026-11-16, updated 2026-11-23
+via Vandenberg Base News · 2026-11-16, updated 2026-11-24
 
 The recently completed facility will serve as a hub for processing and testing components for the next-generation Sentinel weapon system ribbon cutting ceremony held at Vandenberg Space Force Base, California, Nov. 5, 2026.
 
@@ -686,7 +790,7 @@ The post [Stalled Offensive Drives, Rain, Flat Defense, Plague Birmingham in 36-
 
 ## [UNARMED MINUTEMAN III ICBM TEST LAUNCH SCHEDULED AT VANDENBERG SPACE FORCE BASE](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4648574/unarmed-minuteman-iii-icbm-test-launch-scheduled-at-vandenberg-space-force-base/)
 
-via Vandenberg Base News · 2026-11-14, updated 2026-11-23
+via Vandenberg Base News · 2026-11-14, updated 2026-11-24
 
 An operational test launch of an Air Force Global Strike Command unarmed Minuteman III intercontinental ballistic missile is scheduled between 11:01 p.m. Pacific Time, Nov. 17, and 5:01 a.m. Pacific Time, Nov.18, from the northern portion of the installation.
 
@@ -1086,7 +1190,7 @@ The century-old diner brings back its pancakes and coleslaw, plus new dishes lik
 
 ## [Solvang holds 2026 Veterans Day observance with support of Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4646630/solvang-holds-2026-veterans-day-observance-with-support-of-vandenberg-space-for/)
 
-via Vandenberg Base News · 2026-11-11, updated 2026-11-23
+via Vandenberg Base News · 2026-11-11, updated 2026-11-24
 
 U.S. Space Force Chief Master Sgt. Shannan Sanchez, Space Launch Delta 30 command senior enlisted leader, delivered the keynote address during a Veterans Day ceremony at the Solvang Veterans Memorial Hall in Solvang, California, Nov. 11, 2026.
 
@@ -1180,7 +1284,7 @@ Those in Little Bangladesh say they are often ignored, but Raman spent time list
 
 ## [Not Just Child’s Play: Space Force Technicians Assist Children’s Museum with Restoration Project](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4646428/not-just-childs-play-space-force-technicians-assist-childrens-museum-with-resto/)
 
-via Vandenberg Base News · 2026-11-10, updated 2026-11-23
+via Vandenberg Base News · 2026-11-10, updated 2026-11-24
 
 After painstaking restoration, a museum’s interactive recycling display recently whirred back to life thanks to the technicians of the 30th Operations Support Squadron’s Training Device Design and Engineering Center at Vandenberg Space Force Base.
 
@@ -1967,80 +2071,4 @@ via City of Santa Clarita · 2026-11-03, updated 2026-11-12
 The City of Santa Clarita encourages residents to dispose of their unwanted household hazardous and electronic waste at the FREE Household Hazardous/E-Waste Collection Event on Saturday, November 21, from 9:00 a.m. to 3:00 p.m. at the College of the Canyons South Parking Lot (26455 Rockwell Canyon Road). The Household Hazardous/E-Waste Collection Event is a safe \[…\]
 
 The post [Free Drive-Thru Hazardous Waste/E-Waste Collection Event](https://santaclarita.gov/blog/2026/11/02/free-drive-thru-hazardous-waste-e-waste-collection-event/) appeared first on [City of Santa Clarita](https://santaclarita.gov).
-
-## [Investigations Newsletter: When Social Media Breaks the News of Your Friend’s Murder](https://lataco.com/investigations-newsletter-oct-31)
-
-via L. A. Taco · 2026-11-02, updated 2026-11-06
-
-Victories in this line of work are rare, and it often takes months, if not years, for a story to have an impact. This leaves a lot of time to wonder: What is the point?
-
-The post [Investigations Newsletter: When Social Media Breaks the News of Your Friend’s Murder](https://lataco.com/investigations-newsletter-oct-31) appeared first on [L.A. TACO](https://lataco.com).
-
-## [The Supreme Court rejects a DOJ push to separate California ballots](https://laist.com/news/politics/the-supreme-court-rejects-a-doj-push-to-separate-california-ballots)
-
-via The LAist · 2026-11-02, updated 2026-11-03
-
-The U.S. Supreme Court has denied a last-minute request from the Department of Justice to wade into its unprecedented feud with California over the state's voter rolls.
-
-## [Final Notice: Democrats Must Abolish ICE If They Win On Election Day](https://lataco.com/democrats-abolish-ice)
-
-via L. A. Taco · 2026-11-02, updated 2026-11-06
-
-ICE was created in 2003. It is not some sacred U.S. institution tied to the Founding Fathers. Congress created it. Congress funds it. And Congress can dismantle it.
-
-The post [Final Notice: Democrats Must Abolish ICE If They Win On Election Day](https://lataco.com/democrats-abolish-ice) appeared first on [L.A. TACO](https://lataco.com).
-
-## [SGV Organizers Step Up to Stop Data Centers By Running Against the Politicians Who Failed Them](https://lataco.com/sgv-data-center-candidates)
-
-via L. A. Taco · 2026-11-02, updated 2026-11-06
-
-A 20-year-old Occidental College student and a florist from Rowland Heights are part of a new crop of political challengers arising in the San Gabriel Valley and they are prepared to give data centers hell.
-
-The post [SGV Organizers Step Up to Stop Data Centers By Running Against the Politicians Who Failed Them](https://lataco.com/sgv-data-center-candidates) appeared first on [L.A. TACO](https://lataco.com).
-
-## [LA County turnout officially surpasses last midterm — with more than 500K ballots still to count](https://laist.com/news/politics/voter-guides/2026-midterm-voter-turnout-los-angeles-orange-county)
-
-via The LAist · 2026-11-02, updated 2026-11-06
-
-The number of unprocessed ballots isn't final. Turnout was also high in Orange County.
-
-## [Need more financial aid for college? This new law will make it easier to ask for it](https://laist.com/news/education/need-more-financial-aid-for-college-this-new-law-will-make-it-easier-to-ask-for-it)
-
-via The LAist · 2026-11-02, updated 2026-11-03
-
-California colleges will have to clearly show students how to request more financial aid if their awards don't cover the cost of attendance.
-
-## [Beware the ‘red mirage’ if California Republicans have an election night lead](https://laist.com/news/politics/red-mirage-california-republicans-election-night-lead)
-
-via The LAist · 2026-11-02
-
-Don’t be fooled by early election returns. It can take California weeks to tally votes, leading to ‘red mirages’ and ‘blue shifts.’
-
-## [Vote! Vote Vote!](https://sanfernandosun.com/2026/11/02/vote-vote-vote/)
-
-via San Fernando Sun · 2026-11-02, updated 2026-11-03
-
-![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/05/Vote-02-scaled-e1779330403933.jpg?fit=1024%2C805&ssl=1)
-
-Election Day is Tuesday, Nov. 3, and San Fernando Valley residents still have time to make their voices heard in the 2026 general election. Haven’t voted yet? Not sure where \[…\]
-
-The post [Vote! Vote Vote!](https://sanfernandosun.com/2026/11/02/vote-vote-vote/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [At the defense-tech company Anduril, executives are betting on both parties ahead of Election Day](https://laist.com/news/politics/anduril-executives-election-campaign-spending)
-
-via The LAist · 2026-11-02
-
-Palmer Luckey of Anduril Industries has donated over $350,000 to almost entirely GOP federal campaigns, according to FEC filings. The company’s CEO and COO backed Democrats.
-
-## [Koreatown tenants push for better trash collection, more street trash cans](https://laist.com/news/koreatown-tenants-push-for-better-trash-collection-more-street-trash-cans)
-
-via The LAist · 2026-11-02
-
-Councilmember Heather Hutt’s office says the city plans to add 65 public trash cans in the neighborhood.
-
-## [Why some CSU faculty are ready for a strike: 'The last contract sucked'](https://laist.com/news/education/california-state-university-csu-cfa-contract-strike-authorization-2026)
-
-via The LAist · 2026-11-02, updated 2026-11-03
-
-California Faculty Association members have until Nov. 19 to authorize a strike.
 

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <atom:link href="https://rsdoiel.github.io/antenna/retro_computing.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title><![CDATA[Retro]]></title>
     <description><![CDATA[Computer history and vintage systems.]]></description>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>23 Nov 26 06:47 -0800</lastBuildDate>
-    <generator>antenna/0.1.1</generator>
+    <lastBuildDate>23 Nov 26 21:05 -0800</lastBuildDate>
+    <generator>antenna/0.1.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>b.log 2026/11/22 - Windy and rainy, Tea v0.04.</title>
@@ -15,7 +15,7 @@
         <![CDATA[Windy and rainy, Tea v0.04.]]>
       </description>
       <source:markdown>Windy and rainy, Tea v0.04.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20261122</guid>
+      <guid isPermaLink="false">cid://https://heyrick.eu/blog/entry/20261122</guid>
       <pubDate>Sun, 22 Nov 2026 20:00:05 +0000</pubDate>
     </item>    <item>
       <title>mTCP NetCD</title>
@@ -24,7 +24,8 @@
         <![CDATA[<div class="markdown_content"><p>NetCD is a DOS device driver that simulates a CD-ROM or a DVD-ROM. This makes it possible to install software from CD-ROM on a machine that doesn't have a CD-ROM, by using the network. Mike Brutman writes: "Although I think the code is solid, I'd like to get some more varied testing on it.  I've packaged up a test release - the details and download links can be found at <a href="http://www.brutman.com/mTCP/NetCD" rel="nofollow">NetCD website</a>." Please have a look and test if you can.  Mike will incorporate feedback and figure out the next steps.</p></div>]]>
       </description>
       <source:markdown>NetCD is a DOS device driver that simulates a CD-ROM or a DVD-ROM. This makes it possible to install software from CD-ROM on a machine that doesn&#39;t have a CD-ROM, by using the network. Mike Brutman writes: &#34;Although I think the code is solid, I&#39;d like to get some more varied testing on it. I&#39;ve packaged up a test release - the details and download links can be found at [NetCD website](http://www.brutman.com/mTCP/NetCD).&#34; Please have a look and test if you can. Mike will incorporate feedback and figure out the next steps.</source:markdown>
-      <guid>cid://https://sourceforge.net6d68e6a9032b10132c878582dd5908fa4c1d0b2d</guid>
+      <dc:creator>Jim Hall</dc:creator>
+      <guid isPermaLink="false">cid://https://sourceforge.net6d68e6a9032b10132c878582dd5908fa4c1d0b2d</guid>
       <pubDate>Sat, 21 Nov 2026 19:14:34 +0000</pubDate>
     </item>    <item>
       <title>b.log 2026/11/21 - Not working, TeaBASIC v0.03, A Time War doesn&#39;t make sense.</title>
@@ -33,7 +34,7 @@
         <![CDATA[Not working, TeaBASIC v0.03, A Time War doesn't make sense.]]>
       </description>
       <source:markdown>Not working, TeaBASIC v0.03, A Time War doesn&#39;t make sense.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20261121</guid>
+      <guid isPermaLink="false">cid://https://heyrick.eu/blog/entry/20261121</guid>
       <pubDate>Sat, 21 Nov 2026 18:44:09 +0000</pubDate>
     </item>    <item>
       <title>b.log 2026/11/20 - A bigger better Arduino.</title>
@@ -42,7 +43,7 @@
         <![CDATA[A bigger better Arduino.]]>
       </description>
       <source:markdown>A bigger better Arduino.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20261120</guid>
+      <guid isPermaLink="false">cid://https://heyrick.eu/blog/entry/20261120</guid>
       <pubDate>Fri, 20 Nov 2026 19:41:42 +0000</pubDate>
     </item>    <item>
       <title>Diablo II</title>
@@ -51,7 +52,8 @@
         <![CDATA[This article tells part of the story of the Diablo series.  [Diablo II] is a progression with a character where you go and defeat enemies and get rewarded. There&#8217;s overriding goals as well as lots of sub-goals. There&#8217;s many things to do, yet it&#8217;s very simple. It&#8217;s very straightforward. There&#8217;s no, &#8220;What am I supposed [&#8230;]]]>
       </description>
       <source:markdown>This article tells part of the story of the Diablo series.  \[Diablo II\] is a progression with a character where you go and defeat enemies and get rewarded. There’s overriding goals as well as lots of sub-goals. There’s many things to do, yet it’s very simple. It’s very straightforward. There’s no, “What am I supposed \[…\]</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6990</guid>
+      <dc:creator>Jimmy Maher</dc:creator>
+      <guid isPermaLink="false">cid://https://www.filfre.net/?p=6990</guid>
       <category>Digital Antiquaria</category>
       <category>Interactive Fiction</category>
       <category>blizzard</category>
@@ -64,7 +66,8 @@
         <![CDATA[I have been using TASM32 for a very long time. A simple DOS based assembler, called from Notepad++ as a simple IDE setup. Convenient for small 6502 projects, let it create Intel Hex, load in the Simulator, test and debug. Papertape format needed a further step, with the Convert8bitHex programs (CLI or GUI now) It [&#8230;]]]>
       </description>
       <source:markdown>I have been using TASM32 for a very long time. A simple DOS based assembler, called from Notepad++ as a simple IDE setup. Convenient for small 6502 projects, let it create Intel Hex, load in the Simulator, test and debug. Papertape format needed a further step, with the Convert8bitHex programs (CLI or GUI now) It \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=22875</guid>
+      <dc:creator>hanso</dc:creator>
+      <guid isPermaLink="false">cid://http://retro.hansotten.nl/?p=22875</guid>
       <category>6502</category>
       <pubDate>Fri, 20 Nov 2026 14:00:29 +0000</pubDate>
     </item>    <item>
@@ -74,7 +77,7 @@
         <![CDATA[I am SO done with this shit. [NSFW]]]>
       </description>
       <source:markdown>I am SO done with this shit. \[NSFW\]</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20261119</guid>
+      <guid isPermaLink="false">cid://https://heyrick.eu/blog/entry/20261119</guid>
       <pubDate>Thu, 19 Nov 2026 19:13:57 +0000</pubDate>
     </item>    <item>
       <title>MOS TECH 9 DIGIT BASIC FOR KIM V1.1 or KB-9</title>
@@ -83,7 +86,8 @@
         <![CDATA[This is my story about a first and a second version of KB-9 or, as it is officially called, MOS Technology 6502, 9 DIGIT BASIC by MICROSOFT, Copyright 1977 MOS TECH 9 DIGIT BASIC FOR KIM COPYRIGHT 1977 BY MICROSOFT, 1977 Inside the binary you can find the version number: V1.1. In 1978 I bought [&#8230;]]]>
       </description>
       <source:markdown>This is my story about a first and a second version of KB-9 or, as it is officially called, MOS Technology 6502, 9 DIGIT BASIC by MICROSOFT, Copyright 1977 MOS TECH 9 DIGIT BASIC FOR KIM COPYRIGHT 1977 BY MICROSOFT, 1977 Inside the binary you can find the version number: V1.1. In 1978 I bought \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=22854</guid>
+      <dc:creator>hanso</dc:creator>
+      <guid isPermaLink="false">cid://http://retro.hansotten.nl/?p=22854</guid>
       <category>6502</category>
       <pubDate>Thu, 19 Nov 2026 17:24:14 +0000</pubDate>
     </item>    <item>
@@ -94,7 +98,7 @@
       </description>
       <source:markdown>The makers of the Thelio desktop line and Pop!\_OS have released a powerful small form factor PC.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://3e0e395e7ae7e6c85cc6bc0bb839b74b</guid>
+      <guid isPermaLink="false">cid://3e0e395e7ae7e6c85cc6bc0bb839b74b</guid>
       <pubDate>Thu, 19 Nov 2026 16:31:31 +0000</pubDate>
     </item>    <item>
       <title>A Must See KDE Documentary</title>
@@ -104,7 +108,7 @@
       </description>
       <source:markdown>It doesn&#39;t matter what desktop environment you prefer, this KDE documentary should top your list of things to watch.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://a4ea24d96cc7618f7edac7b7f6185c02</guid>
+      <guid isPermaLink="false">cid://a4ea24d96cc7618f7edac7b7f6185c02</guid>
       <pubDate>Wed, 18 Nov 2026 17:34:35 +0000</pubDate>
     </item>    <item>
       <title>WROCC Newsletter Volume 43:03 reviewed</title>
@@ -113,7 +117,7 @@
         <![CDATA[WROCC subscribers should have received the November edition of WROCC's mini magazine.]]>
       </description>
       <source:markdown>WROCC subscribers should have received the November edition of WROCC&#39;s mini magazine.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2425.html</guid>
+      <guid isPermaLink="false">cid://http://www.iconbar.com/comments/rss/news2425.html</guid>
       <pubDate>Tue, 17 Nov 2026 07:53:00 +0000</pubDate>
     </item>    <item>
       <title>ROUGOL November 2026 meeting - RISC OS 10</title>
@@ -122,7 +126,7 @@
         <![CDATA[Rougols's November talk (appropriately enough for 42 people) was a double bill from Andrew Rawnsley and Richard Brown doing a deep dive into RISC OS 10.]]>
       </description>
       <source:markdown>Rougols&#39;s November talk (appropriately enough for 42 people) was a double bill from Andrew Rawnsley and Richard Brown doing a deep dive into RISC OS 10.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2426.html</guid>
+      <guid isPermaLink="false">cid://http://www.iconbar.com/comments/rss/news2426.html</guid>
       <pubDate>Tue, 17 Nov 2026 06:45:00 +0000</pubDate>
     </item>    <item>
       <title>b.log 2026/11/16 - TeaBASIC v0.02</title>
@@ -131,7 +135,7 @@
         <![CDATA[TeaBASIC v0.02]]>
       </description>
       <source:markdown>TeaBASIC v0.02</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20261116</guid>
+      <guid isPermaLink="false">cid://https://heyrick.eu/blog/entry/20261116</guid>
       <pubDate>Mon, 16 Nov 2026 19:29:59 +0000</pubDate>
     </item>    <item>
       <title>VIDEO PLUS card</title>
@@ -140,7 +144,8 @@
         <![CDATA[I acquired a VIDEO PLUS card. A video card for AIM 65 KIM or SYM-1. This is one of the cards produced by The Computerist (of MICRO journal fame!) in the PLUS range. A convenient moment to upgrade the pages on the The Computerist. Standard layout, all scans corrected and newly build to PDF&#8217;s.Also the [&#8230;]]]>
       </description>
       <source:markdown>I acquired a VIDEO PLUS card. A video card for AIM 65 KIM or SYM-1. This is one of the cards produced by The Computerist (of MICRO journal fame!) in the PLUS range. A convenient moment to upgrade the pages on the The Computerist. Standard layout, all scans corrected and newly build to PDF’s.Also the \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=22839</guid>
+      <dc:creator>hanso</dc:creator>
+      <guid isPermaLink="false">cid://http://retro.hansotten.nl/?p=22839</guid>
       <category>6502</category>
       <category>aim65</category>
       <category>kim-1</category>
@@ -153,7 +158,7 @@
         <![CDATA[TeaBASIC and NTCs, The Frenchest thing ever, Storage prices, Interlude, I bought a sewing machine!]]>
       </description>
       <source:markdown>TeaBASIC and NTCs, The Frenchest thing ever, Storage prices, Interlude, I bought a sewing machine!</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20261115</guid>
+      <guid isPermaLink="false">cid://https://heyrick.eu/blog/entry/20261115</guid>
       <pubDate>Sun, 15 Nov 2026 19:51:58 +0000</pubDate>
     </item>    <item>
       <title>RISC OS open source developments weekly update (14th November 2026)</title>
@@ -162,7 +167,7 @@
         <![CDATA[Here are some of the things that I spotted which happened in the RISC OS Open source world this week...]]>
       </description>
       <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2424.html</guid>
+      <guid isPermaLink="false">cid://http://www.iconbar.com/comments/rss/news2424.html</guid>
       <pubDate>Sun, 15 Nov 2026 01:34:00 +0000</pubDate>
     </item>    <item>
       <title>A 64-bit RISC OS is coming – take a deep dive into it with ROUGOL</title>
@@ -171,7 +176,8 @@
         <![CDATA[The RISC OS London Show took place only a few weeks ago, and the big news that came from it was that not only had work been started on a 64-bit version of RISC OS, but that it was already at a point where it could be demonstrated. Indeed, it was the key subject of the talk given in the show theatre by Andrew Rawnsley on behalf of RISC OS Developments. Andrew&#8217;s demonstration in the theatre could only be fairly limited due to time constraints, as well as the status&#8230;]]>
       </description>
       <source:markdown>The RISC OS London Show took place only a few weeks ago, and the big news that came from it was that not only had work been started on a 64-bit version of RISC OS, but that it was already at a point where it could be demonstrated. Indeed, it was the key subject of the talk given in the show theatre by Andrew Rawnsley on behalf of RISC OS Developments. Andrew’s demonstration in the theatre could only be fairly limited due to time constraints, as well as the status…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=11143</guid>
+      <dc:creator>VinceH</dc:creator>
+      <guid isPermaLink="false">cid://https://www.riscository.com/?p=11143</guid>
       <category>User groups</category>
       <category>64-bit</category>
       <category>Meeting</category>
@@ -186,7 +192,7 @@
         <![CDATA[AI can be useful.]]>
       </description>
       <source:markdown>AI can be useful.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20261113</guid>
+      <guid isPermaLink="false">cid://https://heyrick.eu/blog/entry/20261113</guid>
       <pubDate>Fri, 13 Nov 2026 18:06:23 +0000</pubDate>
     </item>    <item>
       <title>This Week on The Analog Antiquarian</title>
@@ -195,7 +201,8 @@
         <![CDATA[Opus 7: Titus Andronicus]]>
       </description>
       <source:markdown>Opus 7: Titus Andronicus</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6991</guid>
+      <dc:creator>Jimmy Maher</dc:creator>
+      <guid isPermaLink="false">cid://https://www.filfre.net/?p=6991</guid>
       <category>Uncategorized</category>
       <pubDate>Fri, 13 Nov 2026 17:07:18 +0000</pubDate>
     </item>    <item>
@@ -205,7 +212,7 @@
         <![CDATA[The November 2026 Rougol meeting is on Monday.]]>
       </description>
       <source:markdown>The November 2026 Rougol meeting is on Monday.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2416.html</guid>
+      <guid isPermaLink="false">cid://http://www.iconbar.com/comments/rss/news2416.html</guid>
       <pubDate>Fri, 13 Nov 2026 06:18:00 +0000</pubDate>
     </item>    <item>
       <title>b.log 2026/11/12 - Jitters.</title>
@@ -214,7 +221,7 @@
         <![CDATA[Jitters.]]>
       </description>
       <source:markdown>Jitters.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20261112</guid>
+      <guid isPermaLink="false">cid://https://heyrick.eu/blog/entry/20261112</guid>
       <pubDate>Thu, 12 Nov 2026 18:51:35 +0000</pubDate>
     </item>    <item>
       <title>New KORA Linux Distro to Harness the Power of Local AI</title>
@@ -224,7 +231,7 @@
       </description>
       <source:markdown>The development team behind CyanogenMod, Android, and Playtron unveils KORA, a Linux distribution built specifically for AI nerds.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://850f25b1b391b96d6c6a7ef0481954b7</guid>
+      <guid isPermaLink="false">cid://850f25b1b391b96d6c6a7ef0481954b7</guid>
       <pubDate>Thu, 12 Nov 2026 17:47:22 +0000</pubDate>
     </item>    <item>
       <title>Chris Hall will be talking ARM 64 at tonights Bristol RISC OS User Group</title>
@@ -233,7 +240,7 @@
         <![CDATA[If you are Bristol based and free tonight, Chris Hall is the featured speaker at the Bristol RISC OS User Group November meeting.]]>
       </description>
       <source:markdown>If you are Bristol based and free tonight, Chris Hall is the featured speaker at the Bristol RISC OS User Group November meeting.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2422.html</guid>
+      <guid isPermaLink="false">cid://http://www.iconbar.com/comments/rss/news2422.html</guid>
       <pubDate>Thu, 12 Nov 2026 13:43:00 +0000</pubDate>
     </item>    <item>
       <title>Chessmate for the KIM-1</title>
@@ -242,7 +249,8 @@
         <![CDATA[Since I have a well documented source of the Chessmate ROMs and made a VT100 version of Microchess I made a VT100 version of the VT100. You can download source and papertape version here. ; The Chessmate engine from CHESSMATE.ASM (reconstructed source of ; the 4K ROM, Hans Otten) with the opening book of OPENBOOK.ASM [&#8230;]]]>
       </description>
       <source:markdown>Since I have a well documented source of the Chessmate ROMs and made a VT100 version of Microchess I made a VT100 version of the VT100. You can download source and papertape version here. ; The Chessmate engine from CHESSMATE.ASM (reconstructed source of ; the 4K ROM, Hans Otten) with the opening book of OPENBOOK.ASM \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=22729</guid>
+      <dc:creator>hanso</dc:creator>
+      <guid isPermaLink="false">cid://http://retro.hansotten.nl/?p=22729</guid>
       <category>6502</category>
       <pubDate>Thu, 12 Nov 2026 13:07:36 +0000</pubDate>
     </item>    <item>
@@ -252,7 +260,8 @@
         <![CDATA[With the aid of the source of Microchess and some detective work, started several years ago, I now have a more thorough commnted source of the Chessmate ROMs. You can download here the source of the main ROM and the openings in the 6530-024 RRIOT ROM. ; ; CHESSMATE.ASM &#8211; Commodore Chessmate main ROM ($F000-$FFFF) [&#8230;]]]>
       </description>
       <source:markdown>With the aid of the source of Microchess and some detective work, started several years ago, I now have a more thorough commnted source of the Chessmate ROMs. You can download here the source of the main ROM and the openings in the 6530-024 RRIOT ROM. ; ; CHESSMATE.ASM – Commodore Chessmate main ROM ($F000-$FFFF) \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=22730</guid>
+      <dc:creator>hanso</dc:creator>
+      <guid isPermaLink="false">cid://http://retro.hansotten.nl/?p=22730</guid>
       <category>6502</category>
       <pubDate>Thu, 12 Nov 2026 12:57:38 +0000</pubDate>
     </item>    <item>
@@ -262,7 +271,7 @@
         <![CDATA[If you were inspired by the recent London Show (or looking to catch-up on what you missed), the next developer fireside chat is saturday night (14th November). It is aimed at anyone interested in a very informal event online aimed at RISC OS developers of all levels.]]>
       </description>
       <source:markdown>If you were inspired by the recent London Show (or looking to catch-up on what you missed), the next developer fireside chat is saturday night (14th November). It is aimed at anyone interested in a very informal event online aimed at RISC OS developers of all levels.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2386.html</guid>
+      <guid isPermaLink="false">cid://http://www.iconbar.com/comments/rss/news2386.html</guid>
       <pubDate>Thu, 12 Nov 2026 05:46:00 +0000</pubDate>
     </item>    <item>
       <title>Epic Games Targets Linux for New Launcher</title>
@@ -272,7 +281,7 @@
       </description>
       <source:markdown>The Epic Games new launcher is still in preview, but it looks to land on several Linux distributions.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://f0437972b8782201d265c92a103d8ac7</guid>
+      <guid isPermaLink="false">cid://f0437972b8782201d265c92a103d8ac7</guid>
       <pubDate>Wed, 11 Nov 2026 22:28:14 +0000</pubDate>
     </item>    <item>
       <title>b.log 2026/11/11 - Stupid, What is this?, gcd.bas fails on actual BASIC, TeaBASIC progresses.</title>
@@ -281,7 +290,7 @@
         <![CDATA[Stupid, What is this?, gcd.bas fails on actual BASIC, TeaBASIC progresses.]]>
       </description>
       <source:markdown>Stupid, What is this?, gcd.bas fails on actual BASIC, TeaBASIC progresses.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20261111</guid>
+      <guid isPermaLink="false">cid://https://heyrick.eu/blog/entry/20261111</guid>
       <pubDate>Wed, 11 Nov 2026 19:15:15 +0000</pubDate>
     </item>    <item>
       <title>Jemm v5.87</title>
@@ -290,7 +299,8 @@
         <![CDATA[<div class="markdown_content"><p>Jemm is an "Expanded Memory Manager" (EMM), based on the source of FreeDOS EMM386. Jemm is split into two versions: Jemm386 is the standard version which also needs an external extended memory manager like HIMEM to be loaded, and JemmEx is the extended version that already has an extended memory manager in it. Japheth recently released a new version of Jemm with several fixes, such as + fixed regression in v5.86: exceptions in PL0 were displayed incorrectly + AHCICD: driver now supports long reads in "raw mode" + Int 15h, ah=87h: returns error 02 instead of 80h if limit out of range. See the <a href="https://github.com/Baron-von-Riedesel/Jemm/releases/tag/v5.87" rel="nofollow">Jemm 5.87 release</a> page for the full list of changes, and to download the latest version. We've also mirrored this version in the FreeDOS Files Archive at Ibiblio, under <a href="https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/dos/emm386/jemm/5.87/" rel="nofollow">/dos/emm386/jemm</a></p></div>]]>
       </description>
       <source:markdown>Jemm is an &#34;Expanded Memory Manager&#34; (EMM), based on the source of FreeDOS EMM386. Jemm is split into two versions: Jemm386 is the standard version which also needs an external extended memory manager like HIMEM to be loaded, and JemmEx is the extended version that already has an extended memory manager in it. Japheth recently released a new version of Jemm with several fixes, such as + fixed regression in v5.86: exceptions in PL0 were displayed incorrectly + AHCICD: driver now supports long reads in &#34;raw mode&#34; + Int 15h, ah=87h: returns error 02 instead of 80h if limit out of range. See the [Jemm 5.87 release](https://github.com/Baron-von-Riedesel/Jemm/releases/tag/v5.87) page for the full list of changes, and to download the latest version. We&#39;ve also mirrored this version in the FreeDOS Files Archive at Ibiblio, under [/dos/emm386/jemm](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/dos/emm386/jemm/5.87/)</source:markdown>
-      <guid>cid://https://sourceforge.net1ddba90805eaa056655f42083c788dc7a41b6298</guid>
+      <dc:creator>Jim Hall</dc:creator>
+      <guid isPermaLink="false">cid://https://sourceforge.net1ddba90805eaa056655f42083c788dc7a41b6298</guid>
       <pubDate>Wed, 11 Nov 2026 15:10:08 +0000</pubDate>
     </item>    <item>
       <title>JWasm 2.21</title>
@@ -299,7 +309,8 @@
         <![CDATA[<div class="markdown_content"><p>JWasm is a MASM-compatible assembler that runs under DOS and other operating systems. Japheth has released a new version of JWasm with a bunch of fixes and changes, including: + macro arguments: curly braces now handled Masm-compatible + operator MOD returned wrong results for negative operands + model TINY, predefined symbol <code>@code</code>: changed from <code>_TEXT</code> to <code>DGROUP</code> + fixed GPF in jwasm: assembling MOV instruction with destination of type prototype, but without pointer type definition. Check out the full change log and download the latest version on the <a href="https://github.com/Baron-von-Riedesel/JWasm/releases/tag/v2.21" rel="nofollow">JWasm 2.21 release</a> page. We've also mirrored this version in the FreeDOS Files Archive at Ibiblio, under <a href="https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/devel/asm/jwasm/2.21/" rel="nofollow">/devel/asm/jwasm</a></p></div>]]>
       </description>
       <source:markdown>JWasm is a MASM-compatible assembler that runs under DOS and other operating systems. Japheth has released a new version of JWasm with a bunch of fixes and changes, including: + macro arguments: curly braces now handled Masm-compatible + operator MOD returned wrong results for negative operands + model TINY, predefined symbol `@code`: changed from `_TEXT` to `DGROUP` \+ fixed GPF in jwasm: assembling MOV instruction with destination of type prototype, but without pointer type definition. Check out the full change log and download the latest version on the [JWasm 2.21 release](https://github.com/Baron-von-Riedesel/JWasm/releases/tag/v2.21) page. We&#39;ve also mirrored this version in the FreeDOS Files Archive at Ibiblio, under [/devel/asm/jwasm](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/devel/asm/jwasm/2.21/)</source:markdown>
-      <guid>cid://https://sourceforge.net96ba436e0a06da05b9e64b455c68bf8f89860fb4</guid>
+      <dc:creator>Jim Hall</dc:creator>
+      <guid isPermaLink="false">cid://https://sourceforge.net96ba436e0a06da05b9e64b455c68bf8f89860fb4</guid>
       <pubDate>Wed, 11 Nov 2026 15:04:46 +0000</pubDate>
     </item>    <item>
       <title>Microchess for VT100</title>
@@ -308,7 +319,8 @@
         <![CDATA[Microchess for the KIM-1 was one of the first commercial computer games. Sold as listing and later on on cassette. The program runs on a standard KIM-1, using the hex keyboard and seven segment displays. Peter Jennings did a great job! I (Hans Otten) have added a VT100 compatible display routine to the original. A [&#8230;]]]>
       </description>
       <source:markdown>Microchess for the KIM-1 was one of the first commercial computer games. Sold as listing and later on on cassette. The program runs on a standard KIM-1, using the hex keyboard and seven segment displays. Peter Jennings did a great job! I (Hans Otten) have added a VT100 compatible display routine to the original. A \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=22718</guid>
+      <dc:creator>hanso</dc:creator>
+      <guid isPermaLink="false">cid://http://retro.hansotten.nl/?p=22718</guid>
       <category>6502</category>
       <pubDate>Wed, 11 Nov 2026 14:36:52 +0000</pubDate>
     </item>    <item>
@@ -318,7 +330,8 @@
         <![CDATA[Control Universal started as a company selling Rockwell microcomputer products (AIM65). Later on they focussed on Acorn (BBC computer). On this page information on some Cubit products, the EPROM programmer and the Cubit microprocessor module for AIM 65. Cubit microprocessor card manual Thanks to Dick Blok for the scans! See also:A demo of the new [&#8230;]]]>
       </description>
       <source:markdown>Control Universal started as a company selling Rockwell microcomputer products (AIM65). Later on they focussed on Acorn (BBC computer). On this page information on some Cubit products, the EPROM programmer and the Cubit microprocessor module for AIM 65. Cubit microprocessor card manual Thanks to Dick Blok for the scans! See also:A demo of the new \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=22710</guid>
+      <dc:creator>hanso</dc:creator>
+      <guid isPermaLink="false">cid://http://retro.hansotten.nl/?p=22710</guid>
       <category>6502</category>
       <pubDate>Tue, 10 Nov 2026 11:07:41 +0000</pubDate>
     </item>    <item>
@@ -718,7 +731,7 @@ The old TV is out in the garage and as I have time I&#39;ll extract its circuit 
 
 In the end, with the new TV all set up, the 1980s can live again in my rear office. Or, as my wife likes to point out, they never actually _died_ there either.</source:markdown>
       <author>noreply@blogger.com (ClassicHasClass)</author>
-      <guid>cid://tag:blogger.com,1999:blog-8349470052336612452.post-3354157888185435532</guid>
+      <guid isPermaLink="false">cid://tag:blogger.com,1999:blog-8349470052336612452.post-3354157888185435532</guid>
       <category>2600</category>
       <category>astrocade</category>
       <category>atari</category>
@@ -735,8 +748,9 @@ In the end, with the new TV all set up, the 1980s can live again in my rear offi
         <![CDATA[I recently revived an open source Apple II Agent project I began in January: An Apple IIe with a custom client that allows AI to easily write software through a chat taking place on the machine itself, similar to Anthropic&#8217;s Claude Code. Through an Ethernet card, the client links to Anthropic&#8217;s Claude Opus AI model [&#8230;]]]>
       </description>
       <source:markdown>I recently revived an open source Apple II Agent project I began in January: An Apple IIe with a custom client that allows AI to easily write software through a chat taking place on the machine itself, similar to Anthropic’s Claude Code. Through an Ethernet card, the client links to Anthropic’s Claude Opus AI model \[…\]</source:markdown>
+      <dc:creator>Benj Edwards</dc:creator>
       <enclosure url="https://www.vintagecomputing.com/wp-content/uploads/2026/11/IMG_2664_web.mp4" length="47054453" type="video/mp4" />
-      <guid>cid://https://www.vintagecomputing.com/?p=3746</guid>
+      <guid isPermaLink="false">cid://https://www.vintagecomputing.com/?p=3746</guid>
       <category>BBS History</category>
       <category>Computer History</category>
       <category>Hacks &#38; Projects</category>
@@ -763,7 +777,8 @@ In the end, with the new TV all set up, the 1980s can live again in my rear offi
         <![CDATA[The next opportunity for people with an interest in RISC OS software development to gather around the fire for a chat about all things related to the subject is this coming Saturday &#8211; 14th November. Starting at around 7:30pm via the Zoom video conferencing system, these meetings are way for for anyone who develops software for RISC OS, and anyone with an interest in the topic, to talk to other like-minded people, enabling them to discuss what they&#8217;re up to, the problems and issues they&#8217;ve come up against, and how&#8230;]]>
       </description>
       <source:markdown>The next opportunity for people with an interest in RISC OS software development to gather around the fire for a chat about all things related to the subject is this coming Saturday – 14th November. Starting at around 7:30pm via the Zoom video conferencing system, these meetings are way for for anyone who develops software for RISC OS, and anyone with an interest in the topic, to talk to other like-minded people, enabling them to discuss what they’re up to, the problems and issues they’ve come up against, and how…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=11141</guid>
+      <dc:creator>VinceH</dc:creator>
+      <guid isPermaLink="false">cid://https://www.riscository.com/?p=11141</guid>
       <category>Programming</category>
       <category>Coding</category>
       <category>Developers</category>
@@ -776,7 +791,8 @@ In the end, with the new TV all set up, the 1980s can live again in my rear offi
         <![CDATA[How a childhood memory, a forgotten online service, and two years of reverse engineering led me to bring NAPLPS back to life. A before-and-after look at an image translated into NAPLPS format. [ Please welcome Joe Hammond, a graphic designer and amateur software developer who has spent the past couple of years reverse-engineering NAPLPS &#8212; [&#8230;]]]>
       </description>
       <source:markdown>How a childhood memory, a forgotten online service, and two years of reverse engineering led me to bring NAPLPS back to life. A before-and-after look at an image translated into NAPLPS format. \[ Please welcome Joe Hammond, a graphic designer and amateur software developer who has spent the past couple of years reverse-engineering NAPLPS — \[…\]</source:markdown>
-      <guid>cid://https://www.vintagecomputing.com/?p=3700</guid>
+      <dc:creator>Joe Hammond</dc:creator>
+      <guid isPermaLink="false">cid://https://www.vintagecomputing.com/?p=3700</guid>
       <category>Computer History</category>
       <category>Hacks &#38; Projects</category>
       <category>Internet History</category>
@@ -804,7 +820,7 @@ In the end, with the new TV all set up, the 1980s can live again in my rear offi
         <![CDATA[Dreary, Initial Public Offering.]]>
       </description>
       <source:markdown>Dreary, Initial Public Offering.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20261108</guid>
+      <guid isPermaLink="false">cid://https://heyrick.eu/blog/entry/20261108</guid>
       <pubDate>Sun, 08 Nov 2026 20:30:15 +0000</pubDate>
     </item>    <item>
       <title>Ghost Hunter now in !Store</title>
@@ -813,7 +829,8 @@ In the end, with the new TV all set up, the 1980s can live again in my rear offi
         <![CDATA[Unveiled at the recent London Show, the latest title from AMCOG Games &#8211; their 25th &#8211; is Ghost Hunter, and it is now available to purchase from !Store &#8211; and the version found there is 1.03, so anyone who purchased at the show is encouraged to upgrade, which they can do for free using the code they will have received at time of purchase. In the game, you control a fire spirit, summoned by the wizard Orzabal to clear his castle of the ghosts and ghouls that have manifested there&#8230;]]>
       </description>
       <source:markdown>Unveiled at the recent London Show, the latest title from AMCOG Games – their 25th – is Ghost Hunter, and it is now available to purchase from !Store – and the version found there is 1.03, so anyone who purchased at the show is encouraged to upgrade, which they can do for free using the code they will have received at time of purchase. In the game, you control a fire spirit, summoned by the wizard Orzabal to clear his castle of the ghosts and ghouls that have manifested there…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=11138</guid>
+      <dc:creator>VinceH</dc:creator>
+      <guid isPermaLink="false">cid://https://www.riscository.com/?p=11138</guid>
       <category>Software</category>
       <category>AMCOG</category>
       <category>Game</category>
@@ -826,7 +843,8 @@ In the end, with the new TV all set up, the 1980s can live again in my rear offi
         <![CDATA[Back in September, RISCOSitory published the first article in a new series &#8211; and now it is time to publish the second &#8211; it&#8217;s time for another round up of new videos that relate to RISC OS (or which may be of interest to its users) that have appeared on YouTube. In that first entry, I noted that it would be an occasional series, and &#8211; although this one is appearing only two months later &#8211; a likely frequency has been decided upon. You can expect to see each post&#8230;]]>
       </description>
       <source:markdown>Back in September, RISCOSitory published the first article in a new series – and now it is time to publish the second – it’s time for another round up of new videos that relate to RISC OS (or which may be of interest to its users) that have appeared on YouTube. In that first entry, I noted that it would be an occasional series, and – although this one is appearing only two months later – a likely frequency has been decided upon. You can expect to see each post…</source:markdown>
-      <guid>cid://https://www.riscository.com/?p=11134</guid>
+      <dc:creator>VinceH</dc:creator>
+      <guid isPermaLink="false">cid://https://www.riscository.com/?p=11134</guid>
       <category>Videos</category>
       <pubDate>Sun, 08 Nov 2026 18:29:22 +0000</pubDate>
     </item>    <item>
@@ -836,7 +854,7 @@ In the end, with the new TV all set up, the 1980s can live again in my rear offi
         <![CDATA[Here are some of the things that I spotted which happened in the RISC OS Open source world this week...]]>
       </description>
       <source:markdown>Here are some of the things that I spotted which happened in the RISC OS Open source world this week...</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2421.html</guid>
+      <guid isPermaLink="false">cid://http://www.iconbar.com/comments/rss/news2421.html</guid>
       <pubDate>Sat, 07 Nov 2026 16:56:00 +0000</pubDate>
     </item>    <item>
       <title>b.log 2026/11/07 - Linguine, TeaBASIC, Texas, One last tweak.</title>
@@ -845,7 +863,7 @@ In the end, with the new TV all set up, the 1980s can live again in my rear offi
         <![CDATA[Linguine, TeaBASIC, Texas, One last tweak.]]>
       </description>
       <source:markdown>Linguine, TeaBASIC, Texas, One last tweak.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20261107</guid>
+      <guid isPermaLink="false">cid://https://heyrick.eu/blog/entry/20261107</guid>
       <pubDate>Sat, 07 Nov 2026 16:25:48 +0000</pubDate>
     </item>    <item>
       <title>Deus Ex</title>
@@ -854,7 +872,8 @@ In the end, with the new TV all set up, the 1980s can live again in my rear offi
         <![CDATA[This article tells part of the story of Warren Spector. A slight shift of focus, and the future could still turn out like Deus Ex after all&#8230; &#8212; Deus Ex lead writer Sheldon Pacotti, speaking in 2014 The reviews that greeted Ion Storm&#8217;s Deus Ex upon its release in June of 2000 ranged along a continuum [&#8230;]]]>
       </description>
       <source:markdown>This article tells part of the story of Warren Spector. A slight shift of focus, and the future could still turn out like Deus Ex after all… — Deus Ex lead writer Sheldon Pacotti, speaking in 2014 The reviews that greeted Ion Storm’s Deus Ex upon its release in June of 2000 ranged along a continuum \[…\]</source:markdown>
-      <guid>cid://https://www.filfre.net/?p=6970</guid>
+      <dc:creator>Jimmy Maher</dc:creator>
+      <guid isPermaLink="false">cid://https://www.filfre.net/?p=6970</guid>
       <category>Digital Antiquaria</category>
       <category>Interactive Fiction</category>
       <category>deus ex</category>
@@ -871,7 +890,7 @@ In the end, with the new TV all set up, the 1980s can live again in my rear offi
       </description>
       <source:markdown>The latest iteration of Fedora has arrived with Gnome 51 and KDE Plasma 6.8.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://c58933e051458d8b2113f222e8cb6424</guid>
+      <guid isPermaLink="false">cid://c58933e051458d8b2113f222e8cb6424</guid>
       <pubDate>Thu, 05 Nov 2026 17:17:10 +0000</pubDate>
     </item>    <item>
       <title>WROCC November 2026 meeting - Package managers with Chris Hughes</title>
@@ -880,7 +899,7 @@ In the end, with the new TV all set up, the 1980s can live again in my rear offi
         <![CDATA[WROCC's November speaker was Chris Hughes looking at package managers for RISC OS.]]>
       </description>
       <source:markdown>WROCC&#39;s November speaker was Chris Hughes looking at package managers for RISC OS.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2420.html</guid>
+      <guid isPermaLink="false">cid://http://www.iconbar.com/comments/rss/news2420.html</guid>
       <pubDate>Thu, 05 Nov 2026 07:40:00 +0000</pubDate>
     </item>    <item>
       <title>b.log 2026/11/04 - Close, but no cigar, BabyBASIC.</title>
@@ -889,7 +908,7 @@ In the end, with the new TV all set up, the 1980s can live again in my rear offi
         <![CDATA[Close, but no cigar, BabyBASIC.]]>
       </description>
       <source:markdown>Close, but no cigar, BabyBASIC.</source:markdown>
-      <guid>cid://https://heyrick.eu/blog/entry/20261104</guid>
+      <guid isPermaLink="false">cid://https://heyrick.eu/blog/entry/20261104</guid>
       <pubDate>Wed, 04 Nov 2026 19:03:18 +0000</pubDate>
     </item>    <item>
       <title>Linux 7.4 is &#34;Much Healthier&#34; Thanks to AI</title>
@@ -899,7 +918,7 @@ In the end, with the new TV all set up, the 1980s can live again in my rear offi
       </description>
       <source:markdown>At nearly 42 million lines, Linux 7.4 is the largest merge in the kernel’s history.</source:markdown>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://344547397a8f4277c70e7f535e03f2f9</guid>
+      <guid isPermaLink="false">cid://344547397a8f4277c70e7f535e03f2f9</guid>
       <pubDate>Tue, 03 Nov 2026 22:43:30 +0000</pubDate>
     </item>    <item>
       <title>MCS Alpha 1 and Beta 8</title>
@@ -908,7 +927,8 @@ In the end, with the new TV all set up, the 1980s can live again in my rear offi
         <![CDATA[I acquired (again) a MCS Alpha 1. The KIM-1 alike 6502 development system in a case, ready to run. With the processor card on top. First time I had one was in 1979, for a review in the magazine Radio Bulletin. Second time around 2000, sold as part of the big cleanup. And now the [&#8230;]]]>
       </description>
       <source:markdown>I acquired (again) a MCS Alpha 1. The KIM-1 alike 6502 development system in a case, ready to run. With the processor card on top. First time I had one was in 1979, for a review in the magazine Radio Bulletin. Second time around 2000, sold as part of the big cleanup. And now the \[…\]</source:markdown>
-      <guid>cid://http://retro.hansotten.nl/?p=22690</guid>
+      <dc:creator>hanso</dc:creator>
+      <guid isPermaLink="false">cid://http://retro.hansotten.nl/?p=22690</guid>
       <category>6502</category>
       <pubDate>Tue, 03 Nov 2026 18:40:58 +0000</pubDate>
     </item>    <item>
@@ -918,17 +938,8 @@ In the end, with the new TV all set up, the 1980s can live again in my rear offi
         <![CDATA[The Autumn 2026 edition of Drag'n'Drop magazine was released at the recent London Show. We are now into Volume 16!]]>
       </description>
       <source:markdown>The Autumn 2026 edition of Drag&#39;n&#39;Drop magazine was released at the recent London Show. We are now into Volume 16!</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2418.html</guid>
+      <guid isPermaLink="false">cid://http://www.iconbar.com/comments/rss/news2418.html</guid>
       <pubDate>Tue, 03 Nov 2026 08:50:00 +0000</pubDate>
-    </item>    <item>
-      <title>WROCC November 2026 talk on Wednesday with Chris Hughes</title>
-      <link>http://www.iconbar.com/comments/rss/news2415.html</link>
-      <description>
-        <![CDATA[The November 2026 WROCC talk is on Wednesday 4th November and starts at 7.45pm on Zoom. This month Chris Hughes is going to be looking at packaging.]]>
-      </description>
-      <source:markdown>The November 2026 WROCC talk is on Wednesday 4th November and starts at 7.45pm on Zoom. This month Chris Hughes is going to be looking at packaging.</source:markdown>
-      <guid>cid://http://www.iconbar.com/comments/rss/news2415.html</guid>
-      <pubDate>Mon, 02 Nov 2026 06:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

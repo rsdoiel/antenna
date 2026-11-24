@@ -6,6 +6,7 @@ title: Getting Things Done
 
 ## Next
 
+- [ ] Split the pacific.md page into sources about the Pacific and Pacific RIM from the sources that cover the planet. Avoid duplicate feeds in the pacific.md and planet.md
 - [ ] With the support for the Markdown Web, I need to have the homepage for the antenna site to link to _items.md in the Markdown and _items.html for the HTML view of the aggregation.
 - [ ] Need to improve the README, should be more welcoming
 - [ ] Need to make sure the HTML I am generating is accessible to assistive tech

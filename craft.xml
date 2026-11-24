@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <atom:link href="https://rsdoiel.github.io/antenna/craft.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title><![CDATA[Craft]]></title>
     <description><![CDATA[Craft is a list of hand oriented craft and technology
 Do we really need all those power tools?]]></description>
     <link>https://rsdoiel.github.io/antenna/craft.xml</link>
-    <lastBuildDate>23 Nov 26 06:49 -0800</lastBuildDate>
-    <generator>antenna/0.1.1</generator>
+    <lastBuildDate>23 Nov 26 21:05 -0800</lastBuildDate>
+    <generator>antenna/0.1.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>ShopNotes Podcast Episode 293 — Personality: ACTIVATED</title>
@@ -19,7 +19,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/11/23093202/screenshot-2026-11-23-at-8.22.17am-1024x1024.png)What’s the secret to finding great vintage woodworking tools at antique stores? In ShopNotes Podcast Episode 293, Phil Huber, Logan Wittmer, and John Doyle talk about hunting for old hand...
 
 [Source](https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-293-personality-activated/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=699357</guid>
+      <dc:creator>Pop Wood Editors</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=699357</guid>
       <category>Shop Blog</category>
       <category>Podcast</category>
       <category>ShopNotes Podcast</category>
@@ -31,7 +32,8 @@ Do we really need all those power tools?]]></description>
         <![CDATA[We have plenty to choose from when it comes to picking out a woodworking tool or book for your loved ones this holiday season. To get it in time for Christmas, the last day to order online is December 15th.  We’re a small business with only two employees working full time in the fulfillment center...]]>
       </description>
       <source:markdown>We have plenty to choose from when it comes to picking out a woodworking tool or book for your loved ones this holiday season. To get it in time for Christmas, the last day to order online is December 15th.  We’re a small business with only two employees working full time in the fulfillment center...</source:markdown>
-      <guid>cid://https://blog.lostartpress.com/?p=70936</guid>
+      <dc:creator>Lost Art Press</dc:creator>
+      <guid isPermaLink="false">cid://https://blog.lostartpress.com/?p=70936</guid>
       <category>Uncategorized</category>
       <pubDate>Fri, 20 Nov 2026 19:43:10 +0000</pubDate>
     </item>    <item>
@@ -44,7 +46,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/11/20130138/red-green-and-cream-vintage-classic-christmas-party-poster-1400-x-1120-px-1-1024x819.jpg)Welcome to the 2026 edition of the Popular Woodworking gift guide! Every year we round up a list of our favorite tools and accessories for woodworkers to help make shopping...
 
 [Source](https://www.popularwoodworking.com/article/2026-holiday-gift-guide-for-woodworkers/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=698989</guid>
+      <dc:creator>Collin Knoff</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=698989</guid>
       <category>Featured Article</category>
       <category>Blue Ox</category>
       <category>Blue Spruce</category>
@@ -69,7 +72,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/11/20135759/splinter-report-11-20-1024x768.jpg)Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re looking at lots of tool news, a...
 
 [Source](https://www.popularwoodworking.com/editors-blog/the-splinter-report-november-20th/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=699303</guid>
+      <dc:creator>Collin Knoff</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=699303</guid>
       <category>Shop Blog</category>
       <category>Blue Spruce</category>
       <category>Hercules</category>
@@ -85,7 +89,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/11/19135607/maschinenmensch_in_a_screen_shot_from_the_metropolis_film-1024x771.jpg)Hopefully, the robots may hold us in high regard as the forefathers of robotic craftsmanship. I’m pretty good at writing woodworking how-to articles and books; actual teaching, not so much. I...
 
 [Source](https://www.popularwoodworking.com/editors-blog/my-robot-apprentice/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=699317</guid>
+      <dc:creator>A.J. Hamler</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=699317</guid>
       <category>Shop Blog</category>
       <pubDate>Thu, 19 Nov 2026 18:56:29 +0000</pubDate>
     </item>    <item>
@@ -98,8 +103,9 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/11/17091115/gemini_generated_patricks-table-768x1024.jpeg)Not every student who walks into a live-edge workshop is starting from scratch. Patrick arrived at Snow Farm already an experienced hobbyist woodworker, eager to push beyond basic joinery and...
 
 [Source](https://www.popularwoodworking.com/editors-blog/teaching-live-edge-part-4-faceted-walnut-and-finding-the-right-stance/)</source:markdown>
+      <dc:creator>Yoav Liberman</dc:creator>
       <enclosure url="https://media.popularwoodworking.com/app/uploads/2026/11/17091053/vid_20260808_113839.mp4" length="46163156" type="video/mp4" />
-      <guid>cid://https://www.popularwoodworking.com/?p=699208</guid>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=699208</guid>
       <category>Shop Blog</category>
       <category>Live Edge</category>
       <category>People and Places</category>
@@ -115,7 +121,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/11/17120730/aw173_lantern_1_opener-copy-1024x768.jpg)Six pieces of wood, a free weekend and a bit of ingenuity, lights your way in the night. During the civil War, soldiers didn’t have flashlights to light their paths...
 
 [Source](https://www.popularwoodworking.com/projects/lantern-of-candlelight/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=699280</guid>
+      <dc:creator>Chad Stanton</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=699280</guid>
       <category>Projects</category>
       <category>AW173</category>
       <category>Holiday Decoration</category>
@@ -129,7 +136,8 @@ Do we really need all those power tools?]]></description>
         <![CDATA[The story behind “The Joiner &#38; Cabinet Maker” is what keeps me digging through archives, bookstores and libraries for old books and manuscripts about woodworking. Despite all of our technology and vast resources, there are still important books out there that have been completely forgotten. And “The Joiner &#38; Cabinet Maker” was one of them....]]>
       </description>
       <source:markdown>The story behind “The Joiner &#38; Cabinet Maker” is what keeps me digging through archives, bookstores and libraries for old books and manuscripts about woodworking. Despite all of our technology and vast resources, there are still important books out there that have been completely forgotten. And “The Joiner &#38; Cabinet Maker” was one of them....</source:markdown>
-      <guid>cid://https://blog.lostartpress.com/?p=70905</guid>
+      <dc:creator>Lost Art Press</dc:creator>
+      <guid isPermaLink="false">cid://https://blog.lostartpress.com/?p=70905</guid>
       <category>The Joiner and Cabinet Maker</category>
       <pubDate>Wed, 18 Nov 2026 15:08:40 +0000</pubDate>
     </item>    <item>
@@ -142,7 +150,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/11/18094725/newtools-2-copy-1024x768.jpg)Tool: In-Dexable Thin Rip Guide Shop Now Manufacturer: Woodpeckers MSRP: $59.99 Sometimes, a simple jig can turn a headache of a task into a straightforward one. Ripping the thin strips for the...
 
 [Source](https://www.popularwoodworking.com/toolreviews/woodpeckers-in-dexable-thin-rip-guide/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=699300</guid>
+      <dc:creator>Pop Wood Editors</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=699300</guid>
       <category>Tool Reviews</category>
       <category>December 2026 #292</category>
       <category>Jigs and Fixtures</category>
@@ -159,7 +168,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/11/17105359/photo-1_img_9927_main-1024x768.jpg)Build a clean, modern stand that lifts your laptop—and your workflow. If you’re like me, your “laptop” doesn’t spend much time on your lap. Mine lived on my desk, tethered...
 
 [Source](https://www.popularwoodworking.com/projects/laptop-riser/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=699262</guid>
+      <dc:creator>Chad McClung</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=699262</guid>
       <category>Projects</category>
       <category>I Can Do That</category>
       <category>October 2026 #291</category>
@@ -178,7 +188,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2020/10/aw_14512_008-1024x683.jpg)Instead of measuring for my circular saw’s offset each time I need to make a cut, I use a modified edge guide. I screwed two 3/4″ x 3/4″ x 12″...
 
 [Source](https://www.popularwoodworking.com/tricks/double-duty-edge-guide/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=618872</guid>
+      <dc:creator>American Woodworker Editors</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=618872</guid>
       <category>Tricks of the Trade</category>
       <category>AW145</category>
       <category>Crosscut</category>
@@ -199,7 +210,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/11/16120234/screenshot-2026-11-16-at-11.02.10am-1024x1024.png)Head to the Woodsmith website for more info about the projects they talk about in this episode. Find all of the ShopNotes podcast episodes here.
 
 [Source](https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-292-church-shoe-shop-shoe-mowing-shoe/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=699203</guid>
+      <dc:creator>Pop Wood Editors</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=699203</guid>
       <category>Shop Blog</category>
       <category>Podcast</category>
       <category>ShopNotes Podcast</category>
@@ -214,7 +226,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/11/13143111/splinter-report-11-13-1024x768.jpg)Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re looking at some bling, footwear, and tables....
 
 [Source](https://www.popularwoodworking.com/editors-blog/the-splinter-report-november-13th/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=699124</guid>
+      <dc:creator>Collin Knoff</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=699124</guid>
       <category>Shop Blog</category>
       <category>Blue Spruce</category>
       <category>Georgia Boot</category>
@@ -232,8 +245,9 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/11/11095937/img_20260807_110403_hdr-771x1024.jpeg)When a craft school invites me to teach a woodworking class, the inevitable question always comes up: What skill level is this intended for? Beginners, intermediate, advanced, or somewhere in...
 
 [Source](https://www.popularwoodworking.com/editors-blog/teaching-live-edge-part-3-mother-son-collaboration-and-practical-joinery/)</source:markdown>
+      <dc:creator>Yoav Liberman</dc:creator>
       <enclosure url="https://media.popularwoodworking.com/app/uploads/2026/11/11101741/vid_20260809_115706.mp4" length="34856010" type="video/mp4" />
-      <guid>cid://https://www.popularwoodworking.com/?p=699146</guid>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=699146</guid>
       <category>Shop Blog</category>
       <category>Live Edge</category>
       <category>People and Places</category>
@@ -249,7 +263,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2022/10/11123813/holiday_ornaments-lead-copy2-1-1024x767.jpg)The holidays are busy for most everyone, but there’s always enough time to knock out a project like this on your scroll saw. I sped up the process even more...
 
 [Source](https://www.popularwoodworking.com/projects/nordic-birdhouse-ornament/)</source:markdown>
-      <guid>cid://https://popwood-lb-01-1847067580.us-east-1.elb.amazonaws.com/?p=677491</guid>
+      <dc:creator>Collin Knoff</dc:creator>
+      <guid isPermaLink="false">cid://https://popwood-lb-01-1847067580.us-east-1.elb.amazonaws.com/?p=677491</guid>
       <category>Projects</category>
       <category>December 2022 #268</category>
       <category>Holiday Decoration</category>
@@ -268,7 +283,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2020/07/pinnailerballgouge-6-1024x683.jpg)Tool: Ball Gouge Buy Now Manufacturer: Arbortech MSRP: $129 The Arbortech ball gouge is one of the most fun tools I’ve used in recent memory. It turns an angle grinder – a...
 
 [Source](https://www.popularwoodworking.com/toolreviews/tool-test-arbortech-ball-gouge/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=600437</guid>
+      <dc:creator>Andrew Zoellner</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=600437</guid>
       <category>Tool Reviews</category>
       <category>Arbortech</category>
       <category>Gouge</category>
@@ -286,7 +302,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2020/02/10152512/aw_16933_-012-1024x767.jpg)Make this classic hand tool in an afternoon for less than ten bucks! The modern router didn’t arrive on the scene fully evolved; it descended from a hand-powered tool called...
 
 [Source](https://www.popularwoodworking.com/projects/wooden-router-plane/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=577209</guid>
+      <dc:creator>Brad Holden</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=577209</guid>
       <category>Projects</category>
       <category>AW169</category>
       <category>Featured Article</category>
@@ -305,7 +322,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2020/11/awnov06_125_18_013-1024x667.jpg)Is the back of your chisel really flat? For accurate paring, it has to be as flat as flat can be, for at least 2 to 3“. Even though your...
 
 [Source](https://www.popularwoodworking.com/tricks/accurate-paring-requires-a-flat-back/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=699122</guid>
+      <dc:creator>Pop Wood Editors</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=699122</guid>
       <category>Tricks of the Trade</category>
       <category>October 2026 #291</category>
       <category>Sharpening</category>
@@ -320,7 +338,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/11/09120118/magspread-copy-1024x768.jpg)How history, habit, and retirement created the modern hobbyist.  I was recently doing some research for an article when I had the sudden realization that almost every major woodworking publication...
 
 [Source](https://www.popularwoodworking.com/editors-blog/the-dovetail-decade/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=699113</guid>
+      <dc:creator>Collin Knoff</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=699113</guid>
       <category>Shop Blog</category>
       <category>History</category>
       <category>October 2026 #291</category>
@@ -332,7 +351,8 @@ Do we really need all those power tools?]]></description>
         <![CDATA[The Lost Art Press bricks-and-mortar store will be closed this Friday (Nov. 13), because we have collective paraskevidekatriaphobia. Or because we are short-staffed due to vacations, out-of-town classed, teaching obligations and the like. One of those two. Apologies for the short notice. (But we are open 10 a.m.-2 p.m. today, Tuesday and Wednesday). And upcoming...]]>
       </description>
       <source:markdown>The Lost Art Press bricks-and-mortar store will be closed this Friday (Nov. 13), because we have collective paraskevidekatriaphobia. Or because we are short-staffed due to vacations, out-of-town classed, teaching obligations and the like. One of those two. Apologies for the short notice. (But we are open 10 a.m.-2 p.m. today, Tuesday and Wednesday). And upcoming...</source:markdown>
-      <guid>cid://https://blog.lostartpress.com/?p=70898</guid>
+      <dc:creator>fitz</dc:creator>
+      <guid isPermaLink="false">cid://https://blog.lostartpress.com/?p=70898</guid>
       <category>Uncategorized</category>
       <pubDate>Mon, 09 Nov 2026 16:15:18 +0000</pubDate>
     </item>    <item>
@@ -345,7 +365,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/11/09110247/screenshot-2026-11-09-at-10.00.55am-1024x1024.png)What’s the best Christmas gift you’ve ever made in your workshop? This week on the ShopNotes Podcast, Phil Huber, Logan Wittmer, and John Doyle share some of their favorite handmade...
 
 [Source](https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-291-i-mean-okay/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=699110</guid>
+      <dc:creator>Pop Wood Editors</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=699110</guid>
       <category>Shop Blog</category>
       <category>Podcast</category>
       <category>ShopNotes Podcast</category>
@@ -357,7 +378,8 @@ Do we really need all those power tools?]]></description>
         <![CDATA[If I could write 10 more books like “Ingenious Mechanicks,” I would be a happy guy. The book is exactly what I thought I would be doing as a writer and woodworker: That is the script for “Ingenious Mechanicks.” But there’s more. We flushed thousands of dollars away trying to translate a 1505 Germanic codex...]]>
       </description>
       <source:markdown>If I could write 10 more books like “Ingenious Mechanicks,” I would be a happy guy. The book is exactly what I thought I would be doing as a writer and woodworker: That is the script for “Ingenious Mechanicks.” But there’s more. We flushed thousands of dollars away trying to translate a 1505 Germanic codex...</source:markdown>
-      <guid>cid://https://blog.lostartpress.com/?p=70895</guid>
+      <dc:creator>Lost Art Press</dc:creator>
+      <guid isPermaLink="false">cid://https://blog.lostartpress.com/?p=70895</guid>
       <category>Ingenious Mechanicks</category>
       <pubDate>Mon, 09 Nov 2026 02:17:05 +0000</pubDate>
     </item>    <item>
@@ -367,7 +389,8 @@ Do we really need all those power tools?]]></description>
         <![CDATA[I grew up with campaign furniture. My grandparents collected it. And my dad was fond of building it. We had stacking campaign chests (and, weirdly, side tables) in our house in Arkansas. I didn’t think anything was odd about it. It was simple and rugged stuff. Nothing fancy. But when I started working at Popular...]]>
       </description>
       <source:markdown>I grew up with campaign furniture. My grandparents collected it. And my dad was fond of building it. We had stacking campaign chests (and, weirdly, side tables) in our house in Arkansas. I didn’t think anything was odd about it. It was simple and rugged stuff. Nothing fancy. But when I started working at Popular...</source:markdown>
-      <guid>cid://https://blog.lostartpress.com/?p=70892</guid>
+      <dc:creator>Lost Art Press</dc:creator>
+      <guid isPermaLink="false">cid://https://blog.lostartpress.com/?p=70892</guid>
       <category>Campaign Furniture</category>
       <pubDate>Mon, 09 Nov 2026 01:48:36 +0000</pubDate>
     </item>    <item>
@@ -377,7 +400,8 @@ Do we really need all those power tools?]]></description>
         <![CDATA[Special offer: We are reducing the price of &#8220;The Essential Woodworker&#8221; by Robert Wearing to $23 – that&#8217;s the price we charged in 2010 when we released our version of this important hand-tool book. This special offer lasts until Christmas Day. After that, the book will return to its normal price of $33 (still a...]]>
       </description>
       <source:markdown>Special offer: We are reducing the price of “The Essential Woodworker” by Robert Wearing to $23 – that’s the price we charged in 2010 when we released our version of this important hand-tool book. This special offer lasts until Christmas Day. After that, the book will return to its normal price of $33 (still a...</source:markdown>
-      <guid>cid://https://blog.lostartpress.com/?p=70882</guid>
+      <dc:creator>Lost Art Press</dc:creator>
+      <guid isPermaLink="false">cid://https://blog.lostartpress.com/?p=70882</guid>
       <category>Uncategorized</category>
       <pubDate>Fri, 06 Nov 2026 19:17:52 +0000</pubDate>
     </item>    <item>
@@ -390,7 +414,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/11/05140341/splinter-report-11-6-1024x768.jpg)Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re looking at big dreams and a burnt...
 
 [Source](https://www.popularwoodworking.com/editors-blog/the-splinter-report-november-6th/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=699096</guid>
+      <dc:creator>Collin Knoff</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=699096</guid>
       <category>Shop Blog</category>
       <category>Band Saw</category>
       <category>Table Saw</category>
@@ -406,7 +431,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/11/04121031/ajblog-1274-copy-1024x729.jpg)Wouldn’t it be great to tour the inside of a great piece of woodworking, like the joinery of a Maloof rocker or the interior of a Krenov cabinet? I’m talking literally...
 
 [Source](https://www.popularwoodworking.com/editors-blog/from-the-inside-out/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=699093</guid>
+      <dc:creator>A.J. Hamler</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=699093</guid>
       <category>Shop Blog</category>
       <category>Boat Building</category>
       <pubDate>Fri, 06 Nov 2026 13:08:58 +0000</pubDate>
@@ -420,9 +446,10 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/11/02164851/img_0880-1024x768.jpeg)Mornings at Snow Farm begin not with the roar of machinery, but in the dining hall. Immersive craft schools run on creativity, but they are fueled by calories, and the...
 
 [Source](https://www.popularwoodworking.com/editors-blog/teaching-live-edge-part-2-alternative-flattening-design-options-and-debs-build/)</source:markdown>
+      <dc:creator>Yoav Liberman</dc:creator>
       <enclosure url="https://media.popularwoodworking.com/app/uploads/2026/11/02163910/vid_20260808_081603.mp4" length="40677077" type="video/mp4" />
       <enclosure url="https://media.popularwoodworking.com/app/uploads/2026/11/02163904/vid_20260807_112424.mp4" length="11926088" type="video/mp4" />
-      <guid>cid://https://www.popularwoodworking.com/?p=698995</guid>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=698995</guid>
       <category>Shop Blog</category>
       <category>People and Places</category>
       <category>Woodworking School</category>
@@ -437,7 +464,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/10/14100136/tooley-copy-1024x768.jpg)Tool: 3 in 1 Marking Gauge Shop Now Manufacturer: Tooley Park Tools MSRP:£135.00 It’s rare to find a modern tool that captures the elegance and simplicity of those made decades ago,...
 
 [Source](https://www.popularwoodworking.com/toolreviews/tooley-park-marking-gauge-review/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=698696</guid>
+      <dc:creator>Logan Wittmer</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=698696</guid>
       <category>Tool Reviews</category>
       <category>Marking and Measuring</category>
       <category>Marking Gauge</category>
@@ -452,7 +480,8 @@ Do we really need all those power tools?]]></description>
         <![CDATA[With a trip to London planned, I decided to fly to the U.K. a few days early last month to visit Belfast in Northern Ireland to meet Heritage Carpenter Peter Sloan and Curator of History Fiona Byrne at the Ulster Folk Museum. They are working together to document and photograph all the many chairs and...]]>
       </description>
       <source:markdown>With a trip to London planned, I decided to fly to the U.K. a few days early last month to visit Belfast in Northern Ireland to meet Heritage Carpenter Peter Sloan and Curator of History Fiona Byrne at the Ulster Folk Museum. They are working together to document and photograph all the many chairs and...</source:markdown>
-      <guid>cid://https://blog.lostartpress.com/?p=70846</guid>
+      <dc:creator>fitz</dc:creator>
+      <guid isPermaLink="false">cid://https://blog.lostartpress.com/?p=70846</guid>
       <category>Uncategorized</category>
       <pubDate>Wed, 04 Nov 2026 17:36:17 +0000</pubDate>
     </item>    <item>
@@ -465,7 +494,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2020/01/03144705/beauty6a-1-1024x768.jpg)Build a traditional Japanese writing box (called a suzuribako) for your writing supplies or other treasures.
 
 [Source](https://www.popularwoodworking.com/projects/build-a-traditional-japanese-writers-box/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=571626</guid>
+      <dc:creator>Michael Crow</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=571626</guid>
       <category>Projects</category>
       <category>Box</category>
       <category>Boxes</category>
@@ -482,7 +512,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/11/04103643/apr01-varnishing-hang-up-copy-1010x1024.jpg)I always felt the need for a second pair of hands when it came to varnishing shelves or doors. A good solution is to hang them up. A series of...
 
 [Source](https://www.popularwoodworking.com/tricks/varnishing-hang-up/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=699090</guid>
+      <dc:creator>Pop Wood Editors</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=699090</guid>
       <category>Tricks of the Trade</category>
       <category>Finishing</category>
       <category>Finishing Tips</category>
@@ -498,7 +529,8 @@ Do we really need all those power tools?]]></description>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2020/01/02170156/0710-3-jj-opener-1024x768.jpg)This jig carries its share of work while increasing the usefulness of your table saw. I’ve never been a fan of any jig that requires a degree from the Massachusetts...
 
 [Source](https://www.popularwoodworking.com/projects/panel-cutting-sled/)</source:markdown>
-      <guid>cid://http://www.popularwoodworking.com/?p=49231</guid>
+      <dc:creator>Glen D. Huey</dc:creator>
+      <guid isPermaLink="false">cid://http://www.popularwoodworking.com/?p=49231</guid>
       <category>Projects</category>
       <category>Ingenious Jigs</category>
       <category>Jig Journal</category>
@@ -524,7 +556,7 @@ top in stock for many years, but at 28mm I considered it too thick and
 therefore too heavy to use. I finally plucked up the courage to re-saw it by
 hand……….</source:markdown>
       <author>noreply@blogger.com (Gary Nava, Luthier)</author>
-      <guid>cid://tag:blogger.com,1999:blog-32932962.post-5003391741044990570</guid>
+      <guid isPermaLink="false">cid://tag:blogger.com,1999:blog-32932962.post-5003391741044990570</guid>
       <category>Nava Bass Guitar
 Handmade bass</category>
       <category>Nava luthier</category>
@@ -539,7 +571,8 @@ Handmade bass</category>
       <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/10/14105840/barronguide-copy-1024x767.jpg)Tool: Magnetic Dovetail Saw Guide Shop Now Manufacturer: Veritas MSRP: $59.50 For years, one of my favorite tools was also one of the hardest to get. It was the magnetic dovetail...
 
 [Source](https://www.popularwoodworking.com/toolreviews/barron-saw-guide-review/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=698710</guid>
+      <dc:creator>Pop Wood Editors</dc:creator>
+      <guid isPermaLink="false">cid://https://www.popularwoodworking.com/?p=698710</guid>
       <category>Tool Reviews</category>
       <category>David Barron</category>
       <category>Dovetail Jig</category>
@@ -548,50 +581,6 @@ Handmade bass</category>
       <category>Tool Review</category>
       <category>Veritas</category>
       <pubDate>Tue, 03 Nov 2026 12:54:18 +0000</pubDate>
-    </item>    <item>
-      <title>Revised Edition of ‘Make Fresh Milk Paint’ – What’s New</title>
-      <link>https://blog.lostartpress.com/2026/11/02/revised-edition-of-make-fresh-milk-paint-whats-new/</link>
-      <description>
-        <![CDATA[The revised edition of “Make Fresh Milk Paint” is at the printer, and expected to ship at the end of November. It’s almost twice as long as the first edition, and features a new cover color so it’s easily distinguished from the first edition: a cheerful earthy orange (a fine color to mix from quark,...]]>
-      </description>
-      <source:markdown>The revised edition of “Make Fresh Milk Paint” is at the printer, and expected to ship at the end of November. It’s almost twice as long as the first edition, and features a new cover color so it’s easily distinguished from the first edition: a cheerful earthy orange (a fine color to mix from quark,...</source:markdown>
-      <guid>cid://https://blog.lostartpress.com/?p=70818</guid>
-      <category>Milk Paint</category>
-      <pubDate>Mon, 02 Nov 2026 16:59:28 +0000</pubDate>
-    </item>    <item>
-      <title>Spindle Ornaments</title>
-      <link>https://www.popularwoodworking.com/projects/at-the-lathe-spindle-ornaments/</link>
-      <description>
-        <![CDATA[<img width="1024" height="767" src="https://media.popularwoodworking.com/app/uploads/2020/01/26124144/pwxmasornaments-2-copy-1024x767.jpg" class="attachment-large size-large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://media.popularwoodworking.com/app/uploads/2020/01/26124144/pwxmasornaments-2-copy-1024x768.jpg 1024w, https://media.popularwoodworking.com/app/uploads/2020/01/26124144/pwxmasornaments-2-copy-300x225.jpg 300w, https://media.popularwoodworking.com/app/uploads/2020/01/26124144/pwxmasornaments-2-copy-768x575.jpg 768w, https://media.popularwoodworking.com/app/uploads/2020/01/26124144/pwxmasornaments-2-copy.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" itemprop="image" />A painted finish is easy to apply when using a lathe. In spring, a young man’s fancy may turn to thoughts of love, but in autumn, a woodturner’s fancy turns...
-        <p><a href="https://www.popularwoodworking.com/projects/at-the-lathe-spindle-ornaments/" rel="nofollow">Source</a></p>]]>
-      </description>
-      <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2020/01/26124144/pwxmasornaments-2-copy-1024x767.jpg)A painted finish is easy to apply when using a lathe. In spring, a young man’s fancy may turn to thoughts of love, but in autumn, a woodturner’s fancy turns...
-
-[Source](https://www.popularwoodworking.com/projects/at-the-lathe-spindle-ornaments/)</source:markdown>
-      <guid>cid://http://www.popularwoodworking.com/?p=93900</guid>
-      <category>Projects</category>
-      <category>December 2004</category>
-      <category>Holiday Decoration</category>
-      <category>Ornament</category>
-      <category>Turning</category>
-      <category>Turning Projects</category>
-      <category>Woodworking Gifts</category>
-      <pubDate>Mon, 02 Nov 2026 16:24:21 +0000</pubDate>
-    </item>    <item>
-      <title>ShopNotes Podcast Episode 290 — We Have To Have Turbulence</title>
-      <link>https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-290-we-have-to-have-turbulence/</link>
-      <description>
-        <![CDATA[<img width="1024" height="1024" src="https://media.popularwoodworking.com/app/uploads/2026/10/30125752/screenshot-2026-10-30-at-11.56.36am-1024x1024.png" class="attachment-large size-large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://media.popularwoodworking.com/app/uploads/2026/10/30125752/screenshot-2026-10-30-at-11.56.36am-1024x1024.png 1024w, https://media.popularwoodworking.com/app/uploads/2026/10/30125752/screenshot-2026-10-30-at-11.56.36am-150x150.png 150w, https://media.popularwoodworking.com/app/uploads/2026/10/30125752/screenshot-2026-10-30-at-11.56.36am-266x266.png 266w, https://media.popularwoodworking.com/app/uploads/2026/10/30125752/screenshot-2026-10-30-at-11.56.36am-300x300.png 300w" sizes="(max-width: 1024px) 100vw, 1024px" itemprop="image" />What&#8217;s the best inexpensive tool in your woodworking shop? And what&#8217;s one tool you splurged on that was worth every penny? In Episode 290 of the ShopNotes Podcast, Phil Huber,...
-        <p><a href="https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-290-we-have-to-have-turbulence/" rel="nofollow">Source</a></p>]]>
-      </description>
-      <source:markdown>![](https://media.popularwoodworking.com/app/uploads/2026/10/30125752/screenshot-2026-10-30-at-11.56.36am-1024x1024.png)What’s the best inexpensive tool in your woodworking shop? And what’s one tool you splurged on that was worth every penny? In Episode 290 of the ShopNotes Podcast, Phil Huber,...
-
-[Source](https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-290-we-have-to-have-turbulence/)</source:markdown>
-      <guid>cid://https://www.popularwoodworking.com/?p=698978</guid>
-      <category>Shop Blog</category>
-      <category>Podcast</category>
-      <category>ShopNotes Podcast</category>
-      <pubDate>Mon, 02 Nov 2026 12:55:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

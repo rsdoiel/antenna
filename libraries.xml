@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <atom:link href="https://rsdoiel.github.io/antenna/libraries.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title><![CDATA[GLAM]]></title>
     <description><![CDATA[Libraries, archives and museums.]]></description>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>23 Nov 26 06:49 -0800</lastBuildDate>
-    <generator>antenna/0.1.1</generator>
+    <lastBuildDate>23 Nov 26 21:05 -0800</lastBuildDate>
+    <generator>antenna/0.1.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Be Thankful for What You’ve Got</title>
@@ -18,7 +18,8 @@
       <source:markdown>We are out of office for the US holiday, and to make up for it, we offer a fantastic cover of a classic soul song.
 
 The post [Be Thankful for What You’ve Got](https://scholarlykitchen.sspnet.org/2026/11/23/be-thankful-for-what-youve-got/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63382</guid>
+      <dc:creator>David Crotty</dc:creator>
+      <guid isPermaLink="false">cid://https://scholarlykitchen.sspnet.org/?p=63382</guid>
       <category>Housekeeping</category>
       <category>Gone Fishing</category>
       <category>holiday</category>
@@ -40,7 +41,8 @@ The post [Be Thankful for What You’ve Got](https://scholarlykitchen.sspnet.org
       <source:markdown>The Proceedings of the ALISE Annual Conference, 2026 are now available online. Juried Papers (41) A Survey of North American Librarians’ Perceptions of and Experience with Artificial IntelligenceWilhelm Peekhaus (University of Wisconsin-Milwaukee)PDF Dwelling in the Threshold: Productive Liminality in the Design of Inquiry in Libraries and ArchivesDr. Laurie Bonnici (University of Alabama); Rebekah Cowell (University \[…\]
 
 The post [Now Available Online: Proceedings of the Association for Library and Information Science Education (ALISE) Annual Conference, 2026](https://www.infodocket.com/2026/11/22/proceedings-of-the-association-for-library-and-information-science-education-alise-annual-conference-2026-now-available-online/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=169238</guid>
+      <dc:creator>Gary Price</dc:creator>
+      <guid isPermaLink="false">cid://https://www.infodocket.com/?p=169238</guid>
       <category>Academic Libraries</category>
       <category>Archives and Special Collections</category>
       <category>Associations and Organizations</category>
@@ -65,7 +67,8 @@ The post [Now Available Online: Proceedings of the Association for Library and I
       <source:markdown>From the University of Richmond: University of Richmond’s Distant Viewing Lab has released DataReel, a new open access, AI-powered tool that helps researchers analyze films. DataReel uses AI models to automatically capture data from over 2,000 films, presenting it in an interactive, visual format. It measures descriptions of scenes, the characters onscreen, shot length, framing \[…\]
 
 The post [Research Tools: University of Richmond Distant Viewing Lab Releases DataReel, a New AI Tool for Film Research](https://www.infodocket.com/2026/11/21/research-tools-university-of-richmond-distant-viewing-lab-releases-datareel-a-new-ai-tool-for-film-research/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=169225</guid>
+      <dc:creator>Gary Price</dc:creator>
+      <guid isPermaLink="false">cid://https://www.infodocket.com/?p=169225</guid>
       <category>Data Files</category>
       <category>News</category>
       <category>Open Access</category>
@@ -77,7 +80,8 @@ The post [Research Tools: University of Richmond Distant Viewing Lab Releases Da
         <![CDATA[A recap of IOI&#39;s participation at UbuntuNet CONNECT 2026 in Lilongwe, Malawi]]>
       </description>
       <source:markdown>A recap of IOI&#39;s participation at UbuntuNet CONNECT 2026 in Lilongwe, Malawi</source:markdown>
-      <guid>cid://6b005b54697a0600011b25c1</guid>
+      <dc:creator>Katherine E Skinner</dc:creator>
+      <guid isPermaLink="false">cid://6b005b54697a0600011b25c1</guid>
       <category>Blog</category>
       <pubDate>Fri, 20 Nov 2026 16:47:51 +0000</pubDate>
     </item>    <item>
@@ -90,7 +94,8 @@ The post [Research Tools: University of Richmond Distant Viewing Lab Releases Da
       <source:markdown>Last Updated on November 20, 2026, 11:07 am ET ARL Groundwork (Fall 2026) Groundwork is a new, semiannual publication designed to uplift the people, partnerships, and practices across ARL member...
 
 The post [Fall 2026](https://www.arl.org/our-priorities/diversity-equity-inclusion/arl-groundwork/fall-2026-2/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=50603</guid>
+      <dc:creator>Linh Nguyen</dc:creator>
+      <guid isPermaLink="false">cid://https://www.arl.org/?p=50603</guid>
       <category>ARL Groundwork</category>
       <pubDate>Fri, 20 Nov 2026 16:06:09 +0000</pubDate>
     </item>    <item>
@@ -103,7 +108,8 @@ The post [Fall 2026](https://www.arl.org/our-priorities/diversity-equity-inclusi
       <source:markdown>\[T\]he Third Circuit’s opinion supports the position that the more the AI is marketed as solving research challenges, the less transformative it becomes with respect to STM content.
 
 The post [AI Training is Copyright Infringement: What Publishers Need to Know about Thomson Reuters v ROSS Intelligence](https://scholarlykitchen.sspnet.org/2026/11/20/ai-training-is-copyright-infringement-what-publishers-need-to-know-about-thomson-reuters-v-ross-intelligence/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63340</guid>
+      <dc:creator>Roy Kaufman</dc:creator>
+      <guid isPermaLink="false">cid://https://scholarlykitchen.sspnet.org/?p=63340</guid>
       <category>Artificial Intelligence</category>
       <category>Controversial Topics</category>
       <category>Copyright</category>
@@ -423,7 +429,8 @@ This year we focused on the core value we strive to deliver for and with our com
 Good infrastructure is patient work: interconnected, long-term, and producing something of real and lasting value, made possible through sustained collective effort. You are part of that.
 
 The conversation continues with #Crossref2026 and on our [community forum](https://community.crossref.org), where the community highlights presentations are posted, and you can reach the speakers directly.</source:markdown>
-      <guid>cid://https://www.crossref.org/blog/good-infrastructure-is-patient-work-%23crossref2026-highlights/</guid>
+      <dc:creator>Rosa Morais Clark</dc:creator>
+      <guid isPermaLink="false">cid://https://www.crossref.org/blog/good-infrastructure-is-patient-work-%23crossref2026-highlights/</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
     </item>    <item>
       <title>Before the Paper Goes</title>
@@ -432,8 +439,9 @@ The conversation continues with #Crossref2026 and on our [community forum](https
         <![CDATA[NARA&#8217;s new authority spares agencies from rescanning qualifying legacy records, but it can leave them holding the paper for years.]]>
       </description>
       <source:markdown>NARA’s new authority spares agencies from rescanning qualifying legacy records, but it can leave them holding the paper for years.</source:markdown>
+      <dc:creator>Andrew Potter</dc:creator>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!B55v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c8bd358-de67-4578-ab0e-9050b2bff284_1672x941.png" length="0" type="image/jpeg" />
-      <guid>cid://https://metaarchivist.substack.com/p/before-the-paper-goes</guid>
+      <guid isPermaLink="false">cid://https://metaarchivist.substack.com/p/before-the-paper-goes</guid>
       <pubDate>Thu, 19 Nov 2026 15:48:46 +0000</pubDate>
     </item>    <item>
       <title>WOOC 2027: Call for Participation, Contributions and Sponsorships</title>
@@ -442,7 +450,8 @@ The conversation continues with #Crossref2026 and on our [community forum](https
         <![CDATA[Workshop on Open Citations and Open Scholarly Metadata 2027 (WOOC 2027) 27–28 May 2027 &#124; University of Bologna, Bologna, Italy OpenCitations and the University of Bologna are pleased to announce the 6th Workshop on Open Citations and Open Scholarly Metadata (WOOC 2027), which will take place on 27–28 May 2027 in Bologna, Italy. This year&#8217;s workshop will focus on &#8220;Interoperability of Scholarly Infrastructures in a Federated Environment&#8221;, bringing together researchers, infrastructure providers, scholarly publishers, libraries, and other stakeholders interested in open scholarly metadata and &#8230; <a href="https://opencitations.hypotheses.org/4377" class="more-link">Continue reading <span class="screen-reader-text">WOOC 2027: Call for Participation, Contributions and Sponsorships</span></a>]]>
       </description>
       <source:markdown>Workshop on Open Citations and Open Scholarly Metadata 2027 (WOOC 2027) 27–28 May 2027 \| University of Bologna, Bologna, Italy OpenCitations and the University of Bologna are pleased to announce the 6th Workshop on Open Citations and Open Scholarly Metadata (WOOC 2027), which will take place on 27–28 May 2027 in Bologna, Italy. This year’s workshop will focus on “Interoperability of Scholarly Infrastructures in a Federated Environment”, bringing together researchers, infrastructure providers, scholarly publishers, libraries, and other stakeholders interested in open scholarly metadata and … [Continue reading WOOC 2027: Call for Participation, Contributions and Sponsorships](https://opencitations.hypotheses.org/4377)</source:markdown>
-      <guid>cid://https://opencitations.hypotheses.org/?p=4377</guid>
+      <dc:creator>Chiara Di Giambattista</dc:creator>
+      <guid isPermaLink="false">cid://https://opencitations.hypotheses.org/?p=4377</guid>
       <category>Open Citations</category>
       <category>Open Science</category>
       <category>OpenCitations</category>
@@ -468,7 +477,8 @@ The conversation continues with #Crossref2026 and on our [community forum](https
       <source:markdown>From a New Op/Ed by Dr. Carla Hayden on Time Magazine/Time.com: Historically, libraries have served as a crucial part of the cultural and civic infrastructure of the nation, responding to local needs and bringing the world to people of all ages. However, in many places today, libraries and library workers are under attack. These attacks \[…\]
 
 The post [Dr. Carla Hayden: “The Future of Libraries is About More Than Books”](https://www.infodocket.com/2026/11/19/dr-carla-hayden-the-future-of-libraries-is-about-more-than-books/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=169220</guid>
+      <dc:creator>Gary Price</dc:creator>
+      <guid isPermaLink="false">cid://https://www.infodocket.com/?p=169220</guid>
       <category>Libraries</category>
       <category>News</category>
       <pubDate>Thu, 19 Nov 2026 13:00:24 +0000</pubDate>
@@ -482,7 +492,8 @@ The post [Dr. Carla Hayden: “The Future of Libraries is About More Than Books�
       <source:markdown>To tame the bots hitting scholarly platforms, we must first name them. Today’s post proposes a bot taxonomy to support the community’s need to measure robotic traffic.
 
 The post [Guest Post — Building a Taxonomy of Bots](https://scholarlykitchen.sspnet.org/2026/11/19/guest-post-building-a-taxonomy-of-bots/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63347</guid>
+      <dc:creator>Michelle Urberg</dc:creator>
+      <guid isPermaLink="false">cid://https://scholarlykitchen.sspnet.org/?p=63347</guid>
       <category>Artificial Intelligence</category>
       <category>Discovery</category>
       <category>Infrastructure</category>
@@ -680,7 +691,8 @@ Considerations for carbon emissions (and the broader environmental and social im
 While the signs of the past couple of years suggest we’ve managed to keep our emissions in check, we’re still learning how to calculate and reduce our footprint, and we expect to continue to do so. We have found our manual data collection process to be error-prone and time-consuming, and it is difficult to figure out which factors to include in calculations. Therefore, for our 2026 report, we plan to work with an external partner.
 
 We welcome comments, suggestions, and challenges to this report and our practices that can help us improve and lower our emissions going forward.</source:markdown>
-      <guid>cid://https://www.crossref.org/blog/an-updated-look-at-crossrefs-carbon-footprint-the-2025-report/</guid>
+      <dc:creator>Ed Pentz</dc:creator>
+      <guid isPermaLink="false">cid://https://www.crossref.org/blog/an-updated-look-at-crossrefs-carbon-footprint-the-2025-report/</guid>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>    <item>
       <title>The Return of the Hit Count in academic AI search? Not Quite.</title>
@@ -689,8 +701,9 @@ We welcome comments, suggestions, and challenges to this report and our practice
         <![CDATA[Why hits shown in hybrid AI search such as JSTOR Dynamic Search or Consensus should not be treated the same as a traditional database Boolean hit count.]]>
       </description>
       <source:markdown>Why hits shown in hybrid AI search such as JSTOR Dynamic Search or Consensus should not be treated the same as a traditional database Boolean hit count.</source:markdown>
+      <dc:creator>Aaron Tay</dc:creator>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!WuAU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae55ead8-7623-489f-b79b-20f19b51e61c_1670x941.png" length="0" type="image/jpeg" />
-      <guid>cid://https://aarontay.substack.com/p/the-return-of-the-hit-count-in-academic</guid>
+      <guid isPermaLink="false">cid://https://aarontay.substack.com/p/the-return-of-the-hit-count-in-academic</guid>
       <pubDate>Wed, 18 Nov 2026 19:48:54 +0000</pubDate>
     </item>    <item>
       <title>From Framework to Action</title>
@@ -702,7 +715,7 @@ We welcome comments, suggestions, and challenges to this report and our practice
       <source:markdown>Today, we are releasing the Holistic Credit Mobility Playbook and Toolkit, a collection of practical resources designed to help states, systems, and institutions better serve today’s increasingly mobile learners. Developed in collaboration with Complete College America and with support from Ascendium Education Group, these resources build on three years of research and direct engagement with higher education systems and institutional consortia.
 
 The post [From Framework to Action](https://sr.ithaka.org/blog/from-framework-to-action/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=326896</guid>
+      <guid isPermaLink="false">cid://https://sr.ithaka.org/?p=326896</guid>
       <category>Credit mobility</category>
       <category>Credit transfer</category>
       <category>Holistic credit mobility</category>
@@ -719,7 +732,8 @@ The post [From Framework to Action](https://sr.ithaka.org/blog/from-framework-to
       <source:markdown>Today&#39;s guest post shares personal experiences with scholarly publishing in Africa from a recent graduate in publishing studies.
 
 The post [Guest Post — African Knowledge Production in the Global North: The African Journals Initiative](https://scholarlykitchen.sspnet.org/2026/11/18/guest-post-african-knowledge-production-in-the-global-north-the-african-journals-initiative/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63307</guid>
+      <dc:creator>Racheal Kizza, Stephanie Kitchen</dc:creator>
+      <guid isPermaLink="false">cid://https://scholarlykitchen.sspnet.org/?p=63307</guid>
       <category>Careers</category>
       <category>Diversity, Equity, Inclusion, and Accessibility</category>
       <category>Education</category>
@@ -748,8 +762,9 @@ In this discussion, copyright scholar **Blake Reid** of Colorado Law and **Kate 
 This conversation was recorded on 10/29/2026. Watch the full video recording at: [https://archive.org/details/the-future-of-the-library-of-congress](https://archive.org/details/the-future-of-the-library-of-congress)
 
 Check out all of the Future Knowledge episodes at [https://archive.org/details/future-knowledge](https://archive.org/details/future-knowledge)</source:markdown>
+      <dc:creator>Internet Archive &#38; Authors Alliance</dc:creator>
       <enclosure url="https://media.transistor.fm/96bc7ecf/f7fcae6e.mp3" length="45340290" type="audio/mpeg" />
-      <guid>cid://9e3bbac7-7eaa-4cd4-8fec-1a859a695c69</guid>
+      <guid isPermaLink="false">cid://9e3bbac7-7eaa-4cd4-8fec-1a859a695c69</guid>
       <category>Society</category>
       <category>Books</category>
       <category>Arts</category>
@@ -771,8 +786,9 @@ Check out all of the Future Knowledge episodes at [https://archive.org/details/f
         <![CDATA[From the seals of Prussian archives to the uncertain afterlife of digital trust]]>
       </description>
       <source:markdown>From the seals of Prussian archives to the uncertain afterlife of digital trust</source:markdown>
+      <dc:creator>Andrew Potter</dc:creator>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!tF6I!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35ddd633-99b7-49ea-bdde-e12b2ed83b5a_1672x941.png" length="0" type="image/jpeg" />
-      <guid>cid://https://metaarchivist.substack.com/p/the-seal-and-the-machine</guid>
+      <guid isPermaLink="false">cid://https://metaarchivist.substack.com/p/the-seal-and-the-machine</guid>
       <pubDate>Tue, 17 Nov 2026 16:00:03 +0000</pubDate>
     </item>    <item>
       <title>How a Town’s Forgotten History Helped Protect Its Drinking Water</title>
@@ -784,7 +800,8 @@ Check out all of the Future Knowledge episodes at [https://archive.org/details/f
       <source:markdown>When word started to circulate in Falmouth, Massachusetts, that the town had proposed housing development near Long Pond, the town’s main water source, Eric Hryniewicz said he was confused. “It \[…\]
 
 The post [How a Town’s Forgotten History Helped Protect Its Drinking Water](https://blog.archive.org/2026/11/17/the-falmouth-story/) first appeared on [Internet Archive Blogs](https://blog.archive.org).</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=31288</guid>
+      <dc:creator>Chris Freeland</dc:creator>
+      <guid isPermaLink="false">cid://https://blog.archive.org/?p=31288</guid>
       <category>Books Archive</category>
       <category>News</category>
       <category>hero</category>
@@ -800,7 +817,8 @@ The post [How a Town’s Forgotten History Helped Protect Its Drinking Water](ht
       <source:markdown>From an Elsevier News Release: Today, Elsevier shares findings from its global Librarian of the Future research, revealing how artificial intelligence (AI) and changing research needs are reshaping the role of academic librarians. Drawing on insights from 1,100 academic librarians across 88 countries, alongside interviews with researchers and academic leaders, the report reveals a profession \[…\]
 
 The post [AI is Reshaping the Role of Academic Librarians; Elsevier Releases Librarian of the Future Report](https://www.infodocket.com/2026/11/17/ai-is-reshaping-the-role-of-academic-librarians-elsevier-releases-librarian-of-the-future-report/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=169210</guid>
+      <dc:creator>Gary Price</dc:creator>
+      <guid isPermaLink="false">cid://https://www.infodocket.com/?p=169210</guid>
       <category>Academic Libraries</category>
       <category>Data Files</category>
       <category>Elsevier</category>
@@ -820,7 +838,8 @@ The post [AI is Reshaping the Role of Academic Librarians; Elsevier Releases Lib
       <source:markdown>A commissioned review article and a just-in-time generated overview answer the same reader need; what differs is how each is made and whether a reader can tell enough about it to trust it.​​​​
 
 The post [Just-in-Time Synthesis: A New Approach to an Old Genre](https://scholarlykitchen.sspnet.org/2026/11/17/just-in-time-synthesis/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63329</guid>
+      <dc:creator>Lisa Janicke Hinchliffe</dc:creator>
+      <guid isPermaLink="false">cid://https://scholarlykitchen.sspnet.org/?p=63329</guid>
       <category>Artificial Intelligence</category>
       <category>Authority</category>
       <category>Authors</category>
@@ -844,7 +863,8 @@ The post [Just-in-Time Synthesis: A New Approach to an Old Genre](https://schola
       <source:markdown>Last Updated on November 20, 2026, 2:59 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (November 16–19)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-november-16-19/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=50549</guid>
+      <dc:creator>Kaylyn Groves, ARL, and Gary Price, infoDOCKET</dc:creator>
+      <guid isPermaLink="false">cid://https://www.arl.org/?p=50549</guid>
       <category>ARL Daily Intelligence</category>
       <pubDate>Mon, 16 Nov 2026 22:26:59 +0000</pubDate>
     </item>    <item>
@@ -857,7 +877,8 @@ The post [ARL Daily Intelligence (November 16–19)](https://www.arl.org/daily-i
       <source:markdown>From TechCrunch: Here’s a big promise: A new Kickstarter campaign aims to usher in the “return of the human internet.” That’s the tagline of a crowdfunding campaign for The Phoenix Project, an initiative from the online culture and commentary magazine Flaming Hydra. If you back The Phoenix Project, you’re supporting three things — a one-off \[…\]
 
 The post [Report: “New Kickstarter Campaign Rethinks E-Book Ownership and Digital Lending”](https://www.infodocket.com/2026/11/16/report-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=169206</guid>
+      <dc:creator>Gary Price</dc:creator>
+      <guid isPermaLink="false">cid://https://www.infodocket.com/?p=169206</guid>
       <category>Libraries</category>
       <category>News</category>
       <pubDate>Mon, 16 Nov 2026 13:51:42 +0000</pubDate>
@@ -871,7 +892,8 @@ The post [Report: “New Kickstarter Campaign Rethinks E-Book Ownership and Digi
       <source:markdown>New usage metrics are needed to represent AI assistants intermediating researchers and content. What should count, and what can those numbers tell us about the value of research?
 
 The post [Guest Post — Beyond the Download: What Counts as Scholarly Content Use in the Age of AI?](https://scholarlykitchen.sspnet.org/2026/11/16/guest-post-beyond-the-download-what-counts-as-scholarly-content-use-in-the-age-of-ai/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63311</guid>
+      <dc:creator>Steve Smith, Josh Nicholson</dc:creator>
+      <guid isPermaLink="false">cid://https://scholarlykitchen.sspnet.org/?p=63311</guid>
       <category>Artificial Intelligence</category>
       <category>Authors</category>
       <category>Infrastructure</category>
@@ -896,7 +918,8 @@ The post [Guest Post — Beyond the Download: What Counts as Scholarly Content U
       <source:markdown>Today I am announcing [defter](https://crates.io/crates/defter), a new Zotero sync and file storage server that complements [Zotero Storage](https://www.zotero.org/storage) with a hosted Zotero library using SQLite and S3-compatible object storage.
 
 [Zotero](https://www.zotero.org/) is an open source reference manager that helps to _collect, organize, annotate, cite, and share research._ I have written about</source:markdown>
-      <guid>cid://6afa0d6bc593490001000aa9</guid>
+      <dc:creator>Martin Fenner</dc:creator>
+      <guid isPermaLink="false">cid://6afa0d6bc593490001000aa9</guid>
       <category>Commonmeta</category>
       <pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
     </item>    <item>
@@ -906,8 +929,9 @@ The post [Guest Post — Beyond the Download: What Counts as Scholarly Content U
         <![CDATA[What NARA&#8217;s appraisal process reveals about the distance between deciding that federal records should survive and ensuring that they can.]]>
       </description>
       <source:markdown>What NARA’s appraisal process reveals about the distance between deciding that federal records should survive and ensuring that they can.</source:markdown>
+      <dc:creator>Andrew Potter</dc:creator>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!bjxp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31e0df75-d462-43fa-84b8-12e59355af62_1672x941.png" length="0" type="image/jpeg" />
-      <guid>cid://https://metaarchivist.substack.com/p/appraising-permanence-sustaining</guid>
+      <guid isPermaLink="false">cid://https://metaarchivist.substack.com/p/appraising-permanence-sustaining</guid>
       <pubDate>Sun, 15 Nov 2026 19:19:45 +0000</pubDate>
     </item>    <item>
       <title>Report From Utah: Voters Just Ousted The Republican Representative Behind The State’s Sweeping School Book Ban Law</title>
@@ -919,7 +943,8 @@ The post [Guest Post — Beyond the Download: What Counts as Scholarly Content U
       <source:markdown>From The Salt Lake Tribune: The Republican representative behind Utah’s statewide school book ban law was ousted last week. Rep. Ken Ivory, R-West Jordan, lost his race against Democrat Drew Howells, who secured 58.11% of the vote as of Friday morning. Ivory received about 41.89%. He acknowledged the defeat in a recent Facebook post. Two \[…\]
 
 The post [Report From Utah: Voters Just Ousted The Republican Representative Behind The State’s Sweeping School Book Ban Law](https://www.infodocket.com/2026/11/15/report-from-utah-voters-just-ousted-the-republican-representative-behind-the-states-sweeping-school-book-ban-law/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=169201</guid>
+      <dc:creator>Gary Price</dc:creator>
+      <guid isPermaLink="false">cid://https://www.infodocket.com/?p=169201</guid>
       <category>News</category>
       <pubDate>Sun, 15 Nov 2026 15:38:36 +0000</pubDate>
     </item>    <item>
@@ -932,7 +957,8 @@ The post [Report From Utah: Voters Just Ousted The Republican Representative Beh
       <source:markdown>From JHSL: Now available at the click of a mouse: rare maps of Maryland dating as far back as the sixteenth century, the oral history of the Hopkins surgeon who implanted the first automatic defibrillator, records associated with Chinese indentured laborers in Cuba from 1855 to 1895, and much more. Johns Hopkins Sheridan Libraries is \[…\]
 
 The post [Johns Hopkins University: Sheridan Libraries Launches New Digital Collections Site](https://www.infodocket.com/2026/11/14/johns-hopkins-university-sheridan-libraries-launches-new-digital-collections-site/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=169196</guid>
+      <dc:creator>Gary Price</dc:creator>
+      <guid isPermaLink="false">cid://https://www.infodocket.com/?p=169196</guid>
       <category>Archives and Special Collections</category>
       <category>Digital Collections</category>
       <category>Digital Preservation</category>
@@ -949,7 +975,8 @@ The post [Johns Hopkins University: Sheridan Libraries Launches New Digital Coll
         <![CDATA[CORE took part in the fifth International Conference “Open Science and Innovations in Ukraine 2026” (#OSICU_2026), held online on 21 and 22 October as part of International Open Access Week. The conference was organised by the State Scientific and Technical Library of Ukraine, TIB (Leibniz Information Centre for Science and Technology and University Library), the &#8230; <a href="https://blog.core.ac.uk/2026/11/13/supporting-ukraines-open-repositories-core-at-osicu-2026/" class="more-link">Continue reading <span class="screen-reader-text">Supporting Ukraine’s open repositories: CORE at OSICU 2026</span></a>]]>
       </description>
       <source:markdown>CORE took part in the fifth International Conference “Open Science and Innovations in Ukraine 2026” (#OSICU\_2026), held online on 21 and 22 October as part of International Open Access Week. The conference was organised by the State Scientific and Technical Library of Ukraine, TIB (Leibniz Information Centre for Science and Technology and University Library), the … [Continue reading Supporting Ukraine’s open repositories: CORE at OSICU 2026](https://blog.core.ac.uk/2026/11/13/supporting-ukraines-open-repositories-core-at-osicu-2026/)</source:markdown>
-      <guid>cid://https://blog.core.ac.uk/?p=2078</guid>
+      <dc:creator>Mo Ramushu</dc:creator>
+      <guid isPermaLink="false">cid://https://blog.core.ac.uk/?p=2078</guid>
       <category>conferences</category>
       <category>CORE</category>
       <category>dashboard</category>
@@ -966,7 +993,7 @@ The post [Johns Hopkins University: Sheridan Libraries Launches New Digital Coll
       <source:markdown>Last month, I joined a plenary panel at PALCI&#39;s Leading with Impact Conference. Our session was built around a predicament many library leaders know intimately: leading within institutions whose priorities were set without them in the room. Budget pressure, turnover in senior leadership, policy shifts, artificial intelligence, accreditation scrutiny, and enrollment volatility are all recalibrating what campuses treat as urgent. The question is not whether libraries matter to that calculus. It is whether the people doing the calculating know it.
 
 The post [Not About the Library](https://sr.ithaka.org/blog/not-about-the-library/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=326869</guid>
+      <guid isPermaLink="false">cid://https://sr.ithaka.org/?p=326869</guid>
       <category>Libraries</category>
       <category>Academic libraries</category>
       <category>Library leadership</category>
@@ -983,7 +1010,8 @@ The post [Not About the Library](https://sr.ithaka.org/blog/not-about-the-librar
       <source:markdown>Here’s the Full Text of a SHLB Statement Releases Today: The Schools, Health &#38; Libraries Broadband (SHLB) Coalition filed reply comments with the Federal Communications Commission (FCC) in its review of the E-Rate program, pointing to the overwhelming support for E-Rate in the public record. SHLB’s filing notes that thousands of stakeholders submitted comments in \[…\]
 
 The post [Schools, Health &#38; Libraries Broadband (SHLB) Coalition Files Reply Comments Highlighting Overwhelming Support for E-Rate in FCC Record](https://www.infodocket.com/2026/11/13/schools-health-libraries-broadband-shlb-coalition-files-reply-comments-highlighting-overwhelming-support-for-e-rate-in-fcc-record/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=169188</guid>
+      <dc:creator>Gary Price</dc:creator>
+      <guid isPermaLink="false">cid://https://www.infodocket.com/?p=169188</guid>
       <category>Conference Presentations</category>
       <category>Funding</category>
       <category>Libraries</category>
@@ -1000,7 +1028,8 @@ The post [Schools, Health &#38; Libraries Broadband (SHLB) Coalition Files Reply
       <source:markdown>Across different creative sectors, existing studies point to measurable and, in some cases, already quantified economic and commercial harm. At the same time, a market for AI licensing is already an established and growing commercial reality and this is continually undermined by unauthorized use.
 
 The post [The Anatomy of “Harm”: An Interview with IFRRO CEO Anita Huss-Ekerhult on AI and Copyright](https://scholarlykitchen.sspnet.org/2026/11/13/the-anatomy-of-harm-an-interview-with-ifrro-ceo-anita-huss-ekerhult-on-ai-and-copyright/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63283</guid>
+      <dc:creator>Roy Kaufman</dc:creator>
+      <guid isPermaLink="false">cid://https://scholarlykitchen.sspnet.org/?p=63283</guid>
       <category>Artificial Intelligence</category>
       <category>Authors</category>
       <category>Business Models</category>
@@ -1027,7 +1056,8 @@ The post [The Anatomy of “Harm”: An Interview with IFRRO CEO Anita Huss-Eker
       <source:markdown>The theme for this year’s annual celebration was “Democracy’s Library: Tools for Participation”: putting a spotlight on the ways people can use Internet Archive’s tools to participate—from saving and contributing \[…\]
 
 The post [Annual Celebration 2026: Internet Archive Staff and Friends Showcase Latest Developments](https://blog.archive.org/2026/11/12/annual-celebration-2026-internet-archive-staff-and-friends-showcase-latest-developments/) first appeared on [Internet Archive Blogs](https://blog.archive.org).</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=31194</guid>
+      <dc:creator>mai ishikawa sutton</dc:creator>
+      <guid isPermaLink="false">cid://https://blog.archive.org/?p=31194</guid>
       <category>Event</category>
       <category>News</category>
       <category>Past Event</category>
@@ -1045,7 +1075,8 @@ The post [Annual Celebration 2026: Internet Archive Staff and Friends Showcase L
       <source:markdown>When Salon launched in 1995, the web was still finding its voice. One of the first major publications born on the internet, Salon helped define a new kind of digital \[…\]
 
 The post [Preserving 30 Years of Salon Journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/) first appeared on [Internet Archive Blogs](https://blog.archive.org).</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=31241</guid>
+      <dc:creator>Chris Freeland</dc:creator>
+      <guid isPermaLink="false">cid://https://blog.archive.org/?p=31241</guid>
       <category>Wayback Machine - Web Archive</category>
       <category>salon</category>
       <category>vanishing culture</category>
@@ -1060,7 +1091,7 @@ The post [Preserving 30 Years of Salon Journalism](https://blog.archive.org/2026
       <source:markdown>A nonprofit tool will give more than 400,000 Ohio students an authoritative, public view of how their prior learning will apply to a degree, so they can plan their educational journey and save time and money. More than one third of first-time college students transfer at least once during their academic journey. In fact, today’s \[…\]
 
 The post [Transfer Explorer Comes to Ohio](https://sr.ithaka.org/blog/transfer-explorer-comes-to-ohio/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=326861</guid>
+      <guid isPermaLink="false">cid://https://sr.ithaka.org/?p=326861</guid>
       <category>Credit mobility</category>
       <category>Credit transfer</category>
       <category>Transfer Explorer</category>
@@ -1073,8 +1104,9 @@ The post [Transfer Explorer Comes to Ohio](https://sr.ithaka.org/blog/transfer-e
         <![CDATA[From Copenhagen to the DPC's workforce research, a question about the human infrastructure of preservation.]]>
       </description>
       <source:markdown>From Copenhagen to the DPC&#39;s workforce research, a question about the human infrastructure of preservation.</source:markdown>
+      <dc:creator>Andrew Potter</dc:creator>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!90R4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4841d0e3-b2d2-4b37-84f5-288134f3f8cb_1536x1024.png" length="0" type="image/jpeg" />
-      <guid>cid://https://metaarchivist.substack.com/p/who-will-keep-the-archive</guid>
+      <guid isPermaLink="false">cid://https://metaarchivist.substack.com/p/who-will-keep-the-archive</guid>
       <pubDate>Thu, 12 Nov 2026 15:10:55 +0000</pubDate>
     </item>    <item>
       <title>Digital Humanities Research Infrastructures: An Interview with Barbara McGillivray</title>
@@ -1086,7 +1118,8 @@ The post [Transfer Explorer Comes to Ohio](https://sr.ithaka.org/blog/transfer-e
       <source:markdown>An interview with Barbara McGillivray about the Journal of Open Humanities Data, which “features peer reviewed publications describing humanities data or techniques with high potential for reuse.”
 
 The post [Digital Humanities Research Infrastructures: An Interview with Barbara McGillivray](https://scholarlykitchen.sspnet.org/2026/11/12/digital-humanities-research-infrastructures-an-interview-with-barbara-mcgillivray/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63255</guid>
+      <dc:creator>Karin Wulf</dc:creator>
+      <guid isPermaLink="false">cid://https://scholarlykitchen.sspnet.org/?p=63255</guid>
       <category>Data Publishing</category>
       <category>Infrastructure</category>
       <category>Preservation</category>
@@ -1110,7 +1143,8 @@ The post [Digital Humanities Research Infrastructures: An Interview with Barbara
       <source:markdown>From a Joint Statement (Full Text): The University Press Charter unites university presses for the first time behind a commitment to shape a better future for scholarly publishing, at a time when trust, quality and public value-for-money are under threat. Launched during University Press Week (9-13 November), the Charter has been founded by seven university \[…\]
 
 The post [University Presses Unite as AI and Financial Pressures Threaten Scholarly Publishing (Launch of University Press Charter)](https://www.infodocket.com/2026/11/11/university-presses-unite-as-ai-and-financial-pressures-threaten-scholarly-publishing-launch-of-university-press-charter/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=169181</guid>
+      <dc:creator>Gary Price</dc:creator>
+      <guid isPermaLink="false">cid://https://www.infodocket.com/?p=169181</guid>
       <category>Companies (Publishers/Vendors)</category>
       <category>Journal Articles</category>
       <category>Libraries</category>
@@ -1128,7 +1162,7 @@ The post [University Presses Unite as AI and Financial Pressures Threaten Schola
       <source:markdown>Millions of veterans entered military service with the hope of completing a college education, but have been unable to realize that goal. This disconnect is exacerbated by a range of challenges, including the fact that student veterans disproportionately attend institutions where they are less likely to graduate and, if they do graduate, are likely to see fewer economic benefits. Notably, many veterans receive the GI Bill, which helps pay for education. But it cannot ensure they choose a high-quality program that leads to a credential employers recognize or a career that meets their goals. Supporting veterans requires more than making education affordable.
 
 The post [Supporting Veterans as Adult Learners](https://sr.ithaka.org/blog/supporting-veterans-as-adult-learners/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=326844</guid>
+      <guid isPermaLink="false">cid://https://sr.ithaka.org/?p=326844</guid>
       <category>Access to higher education</category>
       <category>Student outcomes</category>
       <category>Adult learners</category>
@@ -1146,7 +1180,8 @@ The post [Supporting Veterans as Adult Learners](https://sr.ithaka.org/blog/supp
       <source:markdown>As scholarly publishing becomes increasingly interconnected, are we paying enough attention to its operational sustainability?
 
 The post [Guest Post — The Hidden Work of Integrating Scholarly Publishing](https://scholarlykitchen.sspnet.org/2026/11/11/guest-post-the-hidden-work-of-integrating-scholarly-publishing/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63260</guid>
+      <dc:creator>Christy Jarvis</dc:creator>
+      <guid isPermaLink="false">cid://https://scholarlykitchen.sspnet.org/?p=63260</guid>
       <category>Authors</category>
       <category>Design</category>
       <category>Infrastructure</category>
@@ -1169,8 +1204,9 @@ The post [Guest Post — The Hidden Work of Integrating Scholarly Publishing](ht
         <![CDATA[The Third Discovery War: From Federated Search and Central Indexes to MCP and Agentic AI&#8203;]]>
       </description>
       <source:markdown>The Third Discovery War: From Federated Search and Central Indexes to MCP and Agentic AI​</source:markdown>
+      <dc:creator>Aaron Tay</dc:creator>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!hkYd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff10c442c-c00f-4140-960c-1e3845870120_1121x618.png" length="0" type="image/jpeg" />
-      <guid>cid://https://aarontay.substack.com/p/who-decides-what-the-ai-sees</guid>
+      <guid isPermaLink="false">cid://https://aarontay.substack.com/p/who-decides-what-the-ai-sees</guid>
       <pubDate>Wed, 11 Nov 2026 10:11:11 +0000</pubDate>
     </item>    <item>
       <title>Keystone Comeback Launches, Helping Adult Learners Return to College Across Southwestern Pennsylvania</title>
@@ -1182,7 +1218,7 @@ The post [Guest Post — The Hidden Work of Integrating Scholarly Publishing](ht
       <source:markdown>Thousands of adults across Southwestern Pennsylvania leave college before earning a credential. While many learners want to return, they face financial challenges, competing work and family responsibilities, and difficulty navigating institutional processes. Some also carry an outstanding balance at a school they previously attended, creating another barrier. The Keystone Comeback, a newly launched regional collaboration, will provide such students with the support they need to return to college and finish what they started.
 
 The post [Keystone Comeback Launches, Helping Adult Learners Return to College Across Southwestern Pennsylvania](https://sr.ithaka.org/blog/keystone-comeback-launches-helping-adult-learners-return-to-college-across-southwestern-pennsylvania/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=326824</guid>
+      <guid isPermaLink="false">cid://https://sr.ithaka.org/?p=326824</guid>
       <category>Access to higher education</category>
       <category>Student outcomes</category>
       <category>Adult learners</category>
@@ -1200,7 +1236,8 @@ The post [Keystone Comeback Launches, Helping Adult Learners Return to College A
       <source:markdown>From a Stanford University Human-Centered Artificial Intelligence (HAI) Post/Summary: The One Hundred Year Study on Artificial Intelligence, known as AI100, released its third report, painting a striking picture of a technology transforming nearly every corner of human society faster than anyone anticipated. Launched in 2014 with an endowment from Eric and Mary Horvitz, AI100 is \[…\]
 
 The post [2026 AI100 Report Released: (AI Goes Mainstream: The Scaling Era and the Rise of Generative AI; New From Stanford )](https://www.infodocket.com/2026/11/10/2026-ai100-report-released-ai-goes-mainstream-the-scaling-era-and-the-rise-of-generative-ai-new-from-stanford/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=169174</guid>
+      <dc:creator>Gary Price</dc:creator>
+      <guid isPermaLink="false">cid://https://www.infodocket.com/?p=169174</guid>
       <category>Jobs</category>
       <category>News</category>
       <pubDate>Tue, 10 Nov 2026 17:18:32 +0000</pubDate>
@@ -1214,7 +1251,8 @@ The post [2026 AI100 Report Released: (AI Goes Mainstream: The Scaling Era and t
       <source:markdown>We invite filmmakers, artists, and creatives of all skill levels and backgrounds to celebrate Public Domain Day, by creating and uploading a short film not exceeding 4 minutes to the \[…\]
 
 The post [2027 Public Domain Film Contest: The Internet Archive is Looking For Creative Short Films Made By You!](https://blog.archive.org/2026/11/10/2027-public-domain-film-contest/) first appeared on [Internet Archive Blogs](https://blog.archive.org).</source:markdown>
-      <guid>cid://https://blog.archive.org/?p=31166</guid>
+      <dc:creator>Sterling Dudley</dc:creator>
+      <guid isPermaLink="false">cid://https://blog.archive.org/?p=31166</guid>
       <category>Announcements</category>
       <category>News</category>
       <category>public domain</category>
@@ -1230,7 +1268,8 @@ The post [2027 Public Domain Film Contest: The Internet Archive is Looking For C
       <source:markdown>Libraries and publishers can claim agency in the AI age by once again investigating and deeply understanding how our users work.
 
 The post [Libraries, Publishers, and the Users We Both Serve](https://scholarlykitchen.sspnet.org/2026/11/10/ai-and-the-users-we-serve/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63263</guid>
+      <dc:creator>Lisa Janicke Hinchliffe</dc:creator>
+      <guid isPermaLink="false">cid://https://scholarlykitchen.sspnet.org/?p=63263</guid>
       <category>Artificial Intelligence</category>
       <category>Controversial Topics</category>
       <category>Discovery</category>
@@ -1257,7 +1296,8 @@ The post [Libraries, Publishers, and the Users We Both Serve](https://scholarlyk
       <source:markdown>From The Philadelphia Inquirer: Library staff removed the catalog on Oct. 23 as a precaution after vulnerabilities were found in an open-source programming language, PHP, which is used on roughly 70% of websites across the world. \[Clip\] The Free Library did not see signs of any security breaches on its own servers, but decided to \[…\]
 
 The post [Report: The Free Library of Philadelphia’s Online Catalog Was Taken Down For Security. A New One is Coming This Week](https://www.infodocket.com/2026/11/09/report-the-free-library-of-philadelphias-online-catalog-was-taken-down-for-security-a-new-one-is-coming-this-week/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=169172</guid>
+      <dc:creator>Gary Price</dc:creator>
+      <guid isPermaLink="false">cid://https://www.infodocket.com/?p=169172</guid>
       <category>Libraries</category>
       <category>News</category>
       <category>Patrons and Users</category>
@@ -1272,7 +1312,8 @@ The post [Report: The Free Library of Philadelphia’s Online Catalog Was Taken 
       <source:markdown>Last Updated on November 12, 2026, 3:08 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (November 9–12)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-november-9-12/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=50478</guid>
+      <dc:creator>Kaylyn Groves, ARL, and Gary Price, infoDOCKET</dc:creator>
+      <guid isPermaLink="false">cid://https://www.arl.org/?p=50478</guid>
       <category>ARL Daily Intelligence</category>
       <pubDate>Mon, 09 Nov 2026 21:52:24 +0000</pubDate>
     </item>    <item>
@@ -1285,7 +1326,8 @@ The post [ARL Daily Intelligence (November 9–12)](https://www.arl.org/daily-in
       <source:markdown>From a Google Research Blog Post: Building products that reflect the world’s linguistic diversity takes far more than software engineering; it requires close collaboration with the communities we aim to serve, building in a way that’s deeply aligned and respectful of local communities, heritage, history, values and context. \[Clip\] But gathering this data is only \[…\]
 
 The post [Exploring the World’s Languages with Language Explorer (New Research Tool From Google Research)](https://www.infodocket.com/2026/11/09/exploring-the-worlds-languages-with-language-explorer-new-research-tool-from-google-research/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=169168</guid>
+      <dc:creator>Gary Price</dc:creator>
+      <guid isPermaLink="false">cid://https://www.infodocket.com/?p=169168</guid>
       <category>Associations and Organizations</category>
       <category>Data Files</category>
       <category>News</category>
@@ -1300,7 +1342,7 @@ The post [Exploring the World’s Languages with Language Explorer (New Research
       <source:markdown>Over the past few decades, postsecondary institutions have increasingly adopted comprehensive student success interventions designed to address academic, financial, and personal barriers to student persistence and completion. The City University of New York’s Accelerated Study in Academic Programs (CUNY ASAP) is a prominent student success model, replicated across several states, with a substantial body of evidence demonstrating positive outcomes on increasing retention, credit accumulation, graduation rates, and return on investment.
 
 The post [Lessons on Financing the Implementation and Expansion of Comprehensive Student Success Initiatives](https://sr.ithaka.org/blog/lessons-on-financing-the-implementation-and-expansion-of-comprehensive-student-success-initiatives/) appeared first on [Ithaka S+R](https://sr.ithaka.org).</source:markdown>
-      <guid>cid://https://sr.ithaka.org/?p=326819</guid>
+      <guid isPermaLink="false">cid://https://sr.ithaka.org/?p=326819</guid>
       <category>Student outcomes</category>
       <category>CUNY ASAP</category>
       <category>Student success</category>
@@ -1313,7 +1355,8 @@ The post [Lessons on Financing the Implementation and Expansion of Comprehensive
         <![CDATA[CORE has become a not-for-profit legal entity dedicated to CORE’s mission. We remain committed to the Principles of Open Scholarly Infrastructure (POSI 2.0) and to delivering on CORE’s Distinctive Characteristics. Starting from September 2026 as a spin-out from The Open University, CORE: COnnecting REpositories holds responsibility for the operation, development and long-term sustainability of the &#8230; <a href="https://blog.core.ac.uk/2026/11/09/core-becomes-a-legal-entity/" class="more-link">Continue reading <span class="screen-reader-text">CORE becomes a legal entity</span></a>]]>
       </description>
       <source:markdown>CORE has become a not-for-profit legal entity dedicated to CORE’s mission. We remain committed to the Principles of Open Scholarly Infrastructure (POSI 2.0) and to delivering on CORE’s Distinctive Characteristics. Starting from September 2026 as a spin-out from The Open University, CORE: COnnecting REpositories holds responsibility for the operation, development and long-term sustainability of the … [Continue reading CORE becomes a legal entity](https://blog.core.ac.uk/2026/11/09/core-becomes-a-legal-entity/)</source:markdown>
-      <guid>cid://https://blog.core.ac.uk/?p=2076</guid>
+      <dc:creator>Mo Ramushu</dc:creator>
+      <guid isPermaLink="false">cid://https://blog.core.ac.uk/?p=2076</guid>
       <category>CORE</category>
       <category>COREupdate</category>
       <category>core</category>
@@ -1329,7 +1372,8 @@ The post [Lessons on Financing the Implementation and Expansion of Comprehensive
       <source:markdown>The Diamond OA community has built a declaration machine that runs in parallel with the under-resourced publishing machine it claims to serve, and the gap between them grows wider with every new communiqué.
 
 The post [Guest Post — We Have Enough Declarations. Now What? A Critique from Inside Diamond OA](https://scholarlykitchen.sspnet.org/2026/11/09/guest-post-we-have-enough-declarations-now-what-a-critique-from-inside-diamond-oa/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63251</guid>
+      <dc:creator>Ramazan Turgut</dc:creator>
+      <guid isPermaLink="false">cid://https://scholarlykitchen.sspnet.org/?p=63251</guid>
       <category>Advocacy</category>
       <category>Business Models</category>
       <category>Infrastructure</category>
@@ -1352,8 +1396,9 @@ The post [Guest Post — We Have Enough Declarations. Now What? A Critique from 
         <![CDATA[Remembering Stephen Clarke, one year on, and the unfinished possibilities of epidata]]>
       </description>
       <source:markdown>Remembering Stephen Clarke, one year on, and the unfinished possibilities of epidata</source:markdown>
+      <dc:creator>Andrew Potter</dc:creator>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!WWhM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe042394c-46f7-4f18-a3c0-acfd5e7472da_1491x1055.png" length="0" type="image/jpeg" />
-      <guid>cid://https://metaarchivist.substack.com/p/the-context-we-carry-forward</guid>
+      <guid isPermaLink="false">cid://https://metaarchivist.substack.com/p/the-context-we-carry-forward</guid>
       <pubDate>Sun, 08 Nov 2026 21:46:14 +0000</pubDate>
     </item>    <item>
       <title>New Journal Article: Large Language Model Developments</title>
@@ -1365,7 +1410,8 @@ The post [Guest Post — We Have Enough Declarations. Now What? A Critique from 
       <source:markdown>The full text article linked below was recently published by Royal Society Open Science. Title Large Language Model Developments Authors Philip Treleaven University College London Edward Sharkey University College London Sara Craciun University College London Source Royal Society Open Science (2026) 13 (11): 252099 DOI: 10.1098/rsos.252099 Abstract Large language models (LLMs) are generative artificial intelligence \[…\]
 
 The post [New Journal Article: Large Language Model Developments](https://www.infodocket.com/2026/11/08/new-journal-article-large-language-model-developments/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=169163</guid>
+      <dc:creator>Gary Price</dc:creator>
+      <guid isPermaLink="false">cid://https://www.infodocket.com/?p=169163</guid>
       <category>Data Files</category>
       <category>Journal Articles</category>
       <category>News</category>
@@ -1381,7 +1427,8 @@ The post [New Journal Article: Large Language Model Developments](https://www.in
       <source:markdown>Did you miss us at Charleston this week? Never fear, here are some highlights from our TSK panel discussion with three of our esteemed guest bloggers.
 
 The post [Ask the Technology Providers: Our Charleston Conversation](https://scholarlykitchen.sspnet.org/2026/11/06/ask-the-technology-providers-our-charleston-conversation/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63233</guid>
+      <dc:creator>Lettie Y. Conrad</dc:creator>
+      <guid isPermaLink="false">cid://https://scholarlykitchen.sspnet.org/?p=63233</guid>
       <category>Discovery</category>
       <category>Experimentation</category>
       <category>Infrastructure</category>
@@ -1407,7 +1454,8 @@ The post [Ask the Technology Providers: Our Charleston Conversation](https://sch
       <source:markdown>Last Updated on November 5, 2026, 2:05 pm ET Leslie Delserone is research data services and science librarian, University of Nebraska–Lincoln. Alicia Hofelich Mohr, PhD, is data management research associate,...
 
 The post [On the Road with RADS: Building One Front Door for Data Management and Sharing Support at the University of Nebraska–Lincoln](https://www.arl.org/blog/on-the-road-with-rads-building-one-front-door-for-data-management-and-sharing-support-at-the-university-of-nebraska-lincoln/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <guid>cid://https://www.arl.org/?p=50449</guid>
+      <dc:creator>Leslie Delserone, Alicia Hofelich Mohr, Shawna Taylor, Marcel LaFlamme, and Cynthia Hudson Vitale</dc:creator>
+      <guid isPermaLink="false">cid://https://www.arl.org/?p=50449</guid>
       <category>Blog</category>
       <pubDate>Thu, 05 Nov 2026 19:05:33 +0000</pubDate>
     </item>    <item>
@@ -1417,7 +1465,8 @@ The post [On the Road with RADS: Building One Front Door for Data Management and
         <![CDATA[Starting this Monday November 3rd the Rogue Scholar science blog archive stopped registering concept DOIs for new blog posts, i.e. two DOIs for each post.]]>
       </description>
       <source:markdown>Starting this Monday November 3rd the Rogue Scholar science blog archive stopped registering concept DOIs for new blog posts, i.e. two DOIs for each post.</source:markdown>
-      <guid>cid://6aec83c7cd244800010e4263</guid>
+      <dc:creator>Martin Fenner</dc:creator>
+      <guid isPermaLink="false">cid://6aec83c7cd244800010e4263</guid>
       <category>InvenioRDM</category>
       <category>Rogue Scholar</category>
       <pubDate>Thu, 05 Nov 2026 14:09:05 +0000</pubDate>
@@ -1431,7 +1480,8 @@ The post [On the Road with RADS: Building One Front Door for Data Management and
       <source:markdown>From the CBC: University libraries say entire collections are being knocked offline by persistent streams of unruly bots trying to access their archives, which include academic, historical and government documents. “They’re just out there on the internet, just bombarding us with trying to grab up as much material as possible,” Jill Strykowski, cataloguing and government documents \[…\]
 
 The post [CBC Report: University Libraries are Being Swarmed by AI Bots, Putting Public Access at Risk](https://www.infodocket.com/2026/11/05/cbc-report-libraries-are-being-swarmed-by-ai-bots-putting-public-access-at-risk/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=169159</guid>
+      <dc:creator>Gary Price</dc:creator>
+      <guid isPermaLink="false">cid://https://www.infodocket.com/?p=169159</guid>
       <category>Archives and Special Collections</category>
       <category>Libraries</category>
       <category>News</category>
@@ -1447,7 +1497,8 @@ The post [CBC Report: University Libraries are Being Swarmed by AI Bots, Putting
       <source:markdown>What might be lost if we automate a task without first fully understanding the expertise behind it?
 
 The post [Guest Post — What AI Can’t Learn About Peer Review… Because Nobody Can Explain It](https://scholarlykitchen.sspnet.org/2026/11/05/guest-post-what-ai-cant-learn-about-peer-review-because-nobody-can-explain-it/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63230</guid>
+      <dc:creator>Victoria Corless</dc:creator>
+      <guid isPermaLink="false">cid://https://scholarlykitchen.sspnet.org/?p=63230</guid>
       <category>Artificial Intelligence</category>
       <category>Authority</category>
       <category>Authors</category>
@@ -1468,7 +1519,8 @@ The post [Guest Post — What AI Can’t Learn About Peer Review… Because Nobo
         <![CDATA[George Macgregor, Assistant Director – Digital Library, University of Glasgow A core objective of CORE FreshFinds is to make it easier for institutional repositories to capture newly published research and maintain a comprehensive record of their academics&#8217; research outputs.&#160;It also helps to ensure institutions are optimising research discovery while simultaneously mitigating deposit pressures that might &#8230; <a href="https://blog.core.ac.uk/2026/11/04/how-the-university-of-glasgow-uses-core-freshfinds-to-streamline-repository-workflows/" class="more-link">Continue reading <span class="screen-reader-text">How the University of Glasgow uses CORE FreshFinds to streamline repository workflows</span></a>]]>
       </description>
       <source:markdown>George Macgregor, Assistant Director – Digital Library, University of Glasgow A core objective of CORE FreshFinds is to make it easier for institutional repositories to capture newly published research and maintain a comprehensive record of their academics’ research outputs. It also helps to ensure institutions are optimising research discovery while simultaneously mitigating deposit pressures that might … [Continue reading How the University of Glasgow uses CORE FreshFinds to streamline repository workflows](https://blog.core.ac.uk/2026/11/04/how-the-university-of-glasgow-uses-core-freshfinds-to-streamline-repository-workflows/)</source:markdown>
-      <guid>cid://https://blog.core.ac.uk/?p=2073</guid>
+      <dc:creator>Mo Ramushu</dc:creator>
+      <guid isPermaLink="false">cid://https://blog.core.ac.uk/?p=2073</guid>
       <category>COREupdate</category>
       <category>dashboard</category>
       <category>FreshFinds</category>
@@ -1481,7 +1533,8 @@ The post [Guest Post — What AI Can’t Learn About Peer Review… Because Nobo
         <![CDATA[On 27 October, the Bodleian Libraries hosted a community workshop at the University of Oxford focused on CORE FreshFinds and the future development of shared repository infrastructure. Repository and library colleagues from across the UK joined the workshop both in person and online. We would like to thank Ruth Mallalieu, Jason Partridge and their colleagues &#8230; <a href="https://blog.core.ac.uk/2026/11/04/shaping-freshfinds-together-thank-you-to-everyone-at-the-oxford-community-workshop/" class="more-link">Continue reading <span class="screen-reader-text">Shaping FreshFinds together: thank you to everyone at the Oxford community workshop</span></a>]]>
       </description>
       <source:markdown>On 27 October, the Bodleian Libraries hosted a community workshop at the University of Oxford focused on CORE FreshFinds and the future development of shared repository infrastructure. Repository and library colleagues from across the UK joined the workshop both in person and online. We would like to thank Ruth Mallalieu, Jason Partridge and their colleagues … [Continue reading Shaping FreshFinds together: thank you to everyone at the Oxford community workshop](https://blog.core.ac.uk/2026/11/04/shaping-freshfinds-together-thank-you-to-everyone-at-the-oxford-community-workshop/)</source:markdown>
-      <guid>cid://https://blog.core.ac.uk/?p=2069</guid>
+      <dc:creator>Mo Ramushu</dc:creator>
+      <guid isPermaLink="false">cid://https://blog.core.ac.uk/?p=2069</guid>
       <category>Uncategorised</category>
       <category>Buckinghamshire New University</category>
       <category>Co-design</category>
@@ -1500,7 +1553,8 @@ The post [Guest Post — What AI Can’t Learn About Peer Review… Because Nobo
       <source:markdown>How can a publisher make AI useful across the organization while keeping control of confidential information, editorial decisions, and accountability?
 
 The post [From AI Adoption to AI Practice: Building Governed AI in Scholarly Publishing](https://scholarlykitchen.sspnet.org/2026/11/04/from-ai-adoption-to-ai-practice-building-governed-ai-in-scholarly-publishing/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63203</guid>
+      <dc:creator>Ashutosh Ghildiyal, Gregory Simmons</dc:creator>
+      <guid isPermaLink="false">cid://https://scholarlykitchen.sspnet.org/?p=63203</guid>
       <category>Artificial Intelligence</category>
       <category>Experimentation</category>
       <category>Innovation</category>
@@ -1528,8 +1582,9 @@ The post [From AI Adoption to AI Practice: Building Governed AI in Scholarly Pub
 This conversation was recorded on 9/29/2026. Watch the full video recording at: [https://archive.org/details/will-state-law-solve-the-library-e-book-crisis](https://archive.org/details/will-state-law-solve-the-library-e-book-crisis)
 
 Check out all of the Future Knowledge episodes at [https://archive.org/details/future-knowledge](https://archive.org/details/future-knowledge)</source:markdown>
+      <dc:creator>Internet Archive &#38; Authors Alliance</dc:creator>
       <enclosure url="https://media.transistor.fm/07435a2c/db9122df.mp3" length="44072762" type="audio/mpeg" />
-      <guid>cid://853163fd-c8d9-43ca-a46b-1372d2ab77b6</guid>
+      <guid isPermaLink="false">cid://853163fd-c8d9-43ca-a46b-1372d2ab77b6</guid>
       <category>Society</category>
       <category>Books</category>
       <category>Arts</category>
@@ -1554,7 +1609,8 @@ Check out all of the Future Knowledge episodes at [https://archive.org/details/f
       <source:markdown>From a BTAA Post: In partnership with ten Big Ten-affiliated university presses, the Big Ten Academic Alliance’s Center for Library Programs announces the expansion of the Big Ten Open Books project with the rolling publication of the next three 100-book collections: African- Asian- and Hispanic Americans, Health Disparities and Disability Culture, and Human Environmental Impact. \[…\]
 
 The post [Big Ten Open Books Project Launches Three New 100-Book Collections](https://www.infodocket.com/2026/11/03/big-ten-open-books-project-launches-three-new-collections/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=169148</guid>
+      <dc:creator>Gary Price</dc:creator>
+      <guid isPermaLink="false">cid://https://www.infodocket.com/?p=169148</guid>
       <category>Libraries</category>
       <category>News</category>
       <category>Open Access</category>
@@ -1572,7 +1628,8 @@ The post [Big Ten Open Books Project Launches Three New 100-Book Collections](ht
       <source:markdown>Here’s the Full Text of Today’s Joint Announcement: Cambridge University Press, Johns Hopkins University Press and Princeton University Press today announced they are Founding Publishers of Meridian, a new University Press community initiative convened by Cashmere, its initial operator and platform provider. Meridian is a mission-driven, market-informed Model Context Protocol (MCP) gateway for scholarly content, \[…\]
 
 The post [Company News: Cambridge University Press, Johns Hopkins University Press, Princeton University Press and Cashmere are Launching Meridian, an MCP Gateway to Scholarly Content](https://www.infodocket.com/2026/11/03/company-news-cambridge-university-press-johns-hopkins-university-press-princeton-university-press-and-cashmere-are-launching-meridian-an-mcp-gateway-to-content/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=169142</guid>
+      <dc:creator>Gary Price</dc:creator>
+      <guid isPermaLink="false">cid://https://www.infodocket.com/?p=169142</guid>
       <category>Companies (Publishers/Vendors)</category>
       <category>Libraries</category>
       <category>News</category>
@@ -1584,8 +1641,9 @@ The post [Company News: Cambridge University Press, Johns Hopkins University Pre
         <![CDATA[Reference, Description, and the Provenance of AI-Generated Knowledge]]>
       </description>
       <source:markdown>Reference, Description, and the Provenance of AI-Generated Knowledge</source:markdown>
+      <dc:creator>Andrew Potter</dc:creator>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!JiUZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70e48361-eab0-48d9-ab26-9524d38c737d_1536x1024.png" length="0" type="image/jpeg" />
-      <guid>cid://https://metaarchivist.substack.com/p/the-context-behind-the-answer</guid>
+      <guid isPermaLink="false">cid://https://metaarchivist.substack.com/p/the-context-behind-the-answer</guid>
       <pubDate>Tue, 03 Nov 2026 20:03:29 +0000</pubDate>
     </item>    <item>
       <title>Understanding the CORE Dashboard: Finding New Research with the FreshFinds Tab</title>
@@ -1594,7 +1652,8 @@ The post [Company News: Cambridge University Press, Johns Hopkins University Pre
         <![CDATA[CORE FreshFinds is now live in the CORE Dashboard and available to CORE Sustaining Members. It has been shaped with repository teams through our recent pilot, and we will keep developing it with your feedback. This post is part of our Understanding the CORE Dashboard series. It walks through the FreshFinds tab: what it shows, and how to &#8230; <a href="https://blog.core.ac.uk/2026/11/03/understanding-the-core-dashboard-finding-new-research-with-the-freshfinds-tab/" class="more-link">Continue reading <span class="screen-reader-text">Understanding the CORE Dashboard: Finding New Research with the FreshFinds Tab</span></a>]]>
       </description>
       <source:markdown>CORE FreshFinds is now live in the CORE Dashboard and available to CORE Sustaining Members. It has been shaped with repository teams through our recent pilot, and we will keep developing it with your feedback. This post is part of our Understanding the CORE Dashboard series. It walks through the FreshFinds tab: what it shows, and how to … [Continue reading Understanding the CORE Dashboard: Finding New Research with the FreshFinds Tab](https://blog.core.ac.uk/2026/11/03/understanding-the-core-dashboard-finding-new-research-with-the-freshfinds-tab/)</source:markdown>
-      <guid>cid://https://blog.core.ac.uk/?p=2056</guid>
+      <dc:creator>Mo Ramushu</dc:creator>
+      <guid isPermaLink="false">cid://https://blog.core.ac.uk/?p=2056</guid>
       <category>dashboard</category>
       <category>Uncategorised</category>
       <pubDate>Tue, 03 Nov 2026 14:33:31 +0000</pubDate>
@@ -1608,7 +1667,8 @@ The post [Company News: Cambridge University Press, Johns Hopkins University Pre
       <source:markdown>Here’s the Full Text of the Oxford University Press Announcement: Oxford University Press (OUP) is working with three universities to securely connect their ChatGPT Edu accounts to academic content from OUP. Running from October to December 2026, the pilot will enable students and researchers to access OUP’s trusted content directly within their AI-assisted research journeys. \[…\]
 
 The post [Company News: Oxford University Press Launches MCP Pilot; Partners Include Harvard Library, Wharton School, and University of Oxford](https://www.infodocket.com/2026/11/03/company-news-oxford-university-press-launches-mcp-pilot-partners-include-harvard-library-wharton-school-and-university-of-oxford/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=169134</guid>
+      <dc:creator>Gary Price</dc:creator>
+      <guid isPermaLink="false">cid://https://www.infodocket.com/?p=169134</guid>
       <category>Companies (Publishers/Vendors)</category>
       <category>Data Files</category>
       <category>Libraries</category>
@@ -1625,7 +1685,8 @@ The post [Company News: Oxford University Press Launches MCP Pilot; Partners Inc
       <source:markdown>How can publishers move past the regulatory overview for accessibility compliance and into the production reality after sitting on decades of archived content, posts, and data.
 
 The post [Guest Post — What Accessibility at Scale Actually Requires of Academic Publishers](https://scholarlykitchen.sspnet.org/2026/11/03/what-accessibility-at-scale-actually-requires-of-academic-publishers/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63215</guid>
+      <dc:creator>Balamuraly Kanthavelou</dc:creator>
+      <guid isPermaLink="false">cid://https://scholarlykitchen.sspnet.org/?p=63215</guid>
       <category>Diversity, Equity, Inclusion, and Accessibility</category>
       <category>Infrastructure</category>
       <category>Research</category>
@@ -1635,50 +1696,6 @@ The post [Guest Post — What Accessibility at Scale Actually Requires of Academ
       <category>content accessibility</category>
       <category>content remediation</category>
       <pubDate>Tue, 03 Nov 2026 10:30:57 +0000</pubDate>
-    </item>    <item>
-      <title>Rethinking Readers’ Advisory For Today’s Reading Reality (New Issue of Library Trends; Vol. 75, No. 2)</title>
-      <link>https://www.infodocket.com/2026/11/02/rethinking-readers-advisory-for-todays-reading-reality-new-issue-of-library-trends-vol-75-no-2/</link>
-      <description>
-        <![CDATA[<p>Library Trends, Volume 75, Number 2, November 2026 Edited by: Robin Bradford and Becky Spratford  Rethinking Readers’ Advisory for Today’s Reading Reality: An Introduction Robin Bradford; Becky Spratford (RA for All, Illinois) Stress Versus Libraries Avery Alexander (University of Maryland, College Park); Rebecca Reeves (University of Washington, MLIS 2025) Cultivating a Critical Disposition in Readers’ [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/11/02/rethinking-readers-advisory-for-todays-reading-reality-new-issue-of-library-trends-vol-75-no-2/">Rethinking Readers&#8217; Advisory For Today&#8217;s Reading Reality (New Issue of Library Trends; Vol. 75, No. 2)</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>Library Trends, Volume 75, Number 2, November 2026 Edited by: Robin Bradford and Becky Spratford  Rethinking Readers’ Advisory for Today’s Reading Reality: An Introduction Robin Bradford; Becky Spratford (RA for All, Illinois) Stress Versus Libraries Avery Alexander (University of Maryland, College Park); Rebecca Reeves (University of Washington, MLIS 2025) Cultivating a Critical Disposition in Readers’ \[…\]
-
-The post [Rethinking Readers’ Advisory For Today’s Reading Reality (New Issue of Library Trends; Vol. 75, No. 2)](https://www.infodocket.com/2026/11/02/rethinking-readers-advisory-for-todays-reading-reality-new-issue-of-library-trends-vol-75-no-2/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <guid>cid://https://www.infodocket.com/?p=169122</guid>
-      <category>Academic Libraries</category>
-      <category>Libraries</category>
-      <category>New Issue</category>
-      <category>News</category>
-      <category>Public Libraries</category>
-      <category>School Libraries</category>
-      <pubDate>Mon, 02 Nov 2026 11:22:48 +0000</pubDate>
-    </item>    <item>
-      <title>The AI Transparency Trap</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/11/02/the-ai-transparency-trap/</link>
-      <description>
-        <![CDATA[<p>The absence of AI doesn’t guarantee trustworthy research. And neither does disclosing AI use.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/11/02/the-ai-transparency-trap/">The AI Transparency Trap</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>The absence of AI doesn’t guarantee trustworthy research. And neither does disclosing AI use.
-
-The post [The AI Transparency Trap](https://scholarlykitchen.sspnet.org/2026/11/02/the-ai-transparency-trap/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=63199</guid>
-      <category>Artificial Intelligence</category>
-      <category>Peer Review</category>
-      <category>Research</category>
-      <category>Research Integrity</category>
-      <category>Technology</category>
-      <category>Tools</category>
-      <category>AI</category>
-      <category>AI disclosure</category>
-      <category>Artificial intelligence</category>
-      <category>disclosure</category>
-      <category>editorial review</category>
-      <category>integrity checks</category>
-      <category>research integrity</category>
-      <category>transparency</category>
-      <pubDate>Mon, 02 Nov 2026 10:30:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

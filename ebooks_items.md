@@ -3,9 +3,9 @@ title: "ebooks.md"
 description: "New eBook releases."
 pubDate: Sun, 15 Nov 2026 10:51:23 GMT
 aggregateOf: "ebooks.md"
-dateModified: Mon, 23 Nov 2026 14:49:18 GMT
-itemCount: 165
-generator: antenna/0.1.1
+dateModified: Tue, 24 Nov 2026 05:03:16 GMT
+itemCount: 147
+generator: antenna/0.1.2
 ---
 
 # ebooks.md
@@ -891,112 +891,4 @@ Language: English
 via Project Gutenberg (New Books) · 2026-11-03
 
 Language: English
-
-## [Diary of a Pedestrian in Cashmere and Thibet by W. H. Knight](https://www.gutenberg.org/ebooks/3639)
-
-via Project Gutenberg (New Books) · 2026-11-02
-
-Language: English
-
-## [Manners and Monuments of Prehistoric Peoples by marquis de Jean-François-Albert du Pouget Nadaillac](https://www.gutenberg.org/ebooks/3309)
-
-via Project Gutenberg (New Books) · 2026-11-02
-
-Language: English
-
-## [Collected papers, Volume III by Sigmund Freud](https://www.gutenberg.org/ebooks/79893)
-
-via Project Gutenberg (New Books) · 2026-11-02
-
-Language: English
-
-## [Fabre, Poet of Science by Georges Victor Legros](https://www.gutenberg.org/ebooks/3489)
-
-via Project Gutenberg (New Books) · 2026-11-02
-
-Language: English
-
-## [Summer storms by Helen R. Hull](https://www.gutenberg.org/ebooks/79894)
-
-via Project Gutenberg (New Books) · 2026-11-02
-
-Language: English
-
-## [Scenes in the life of Saint Paul : by Anonymous](https://www.gutenberg.org/ebooks/79891)
-
-via Project Gutenberg (New Books) · 2026-11-02
-
-Language: English
-
-## [The bracelet by Talbert Josselyn](https://www.gutenberg.org/ebooks/79892)
-
-via Project Gutenberg (New Books) · 2026-11-02
-
-Language: English
-
-## [Orlando Furioso by Lodovico Ariosto](https://www.gutenberg.org/ebooks/615)
-
-via Project Gutenberg (New Books) · 2026-11-02
-
-Language: English
-
-## [Thelma by Marie Corelli](https://www.gutenberg.org/ebooks/3823)
-
-via Project Gutenberg (New Books) · 2026-11-02
-
-Language: English
-
-## [Geographical studies by Carl Ritter](https://www.gutenberg.org/ebooks/79899)
-
-via Project Gutenberg (New Books) · 2026-11-02
-
-Language: English
-
-## [The monster-god of Mamurth by Edmond Hamilton](https://www.gutenberg.org/ebooks/79901)
-
-via Project Gutenberg (New Books) · 2026-11-02
-
-Language: English
-
-## [Love and Mr. Lewisham by H. G. Wells](https://www.gutenberg.org/ebooks/11640)
-
-via Project Gutenberg (New Books) · 2026-11-02
-
-Language: English
-
-## [Gateway to Yamara by E. Everett Evans](https://www.gutenberg.org/ebooks/79895)
-
-via Project Gutenberg (New Books) · 2026-11-02
-
-Language: English
-
-## [Syntipukki : by Johannes Agapetus Törngren](https://www.gutenberg.org/ebooks/79900)
-
-via Project Gutenberg (New Books) · 2026-11-02
-
-Language: Finnish
-
-## [Jumalten ja ihmisten suosikit : by Elsa Soini](https://www.gutenberg.org/ebooks/79898)
-
-via Project Gutenberg (New Books) · 2026-11-02
-
-Language: Finnish
-
-## [Mother by Maksim Gorky](https://www.gutenberg.org/ebooks/3783)
-
-via Project Gutenberg (New Books) · 2026-11-02
-
-Language: English
-
-## [The journey of Alvar Nuñez Cabeza de Vaca and his companions by Alvar Nuñez Cabeza de Vaca](https://www.gutenberg.org/ebooks/79896)
-
-via Project Gutenberg (New Books) · 2026-11-02
-
-Language: English
-
-## [Ahkeruus ja rehellisyys : by Chr. von Schmid](https://www.gutenberg.org/ebooks/79897)
-
-via Project Gutenberg (New Books) · 2026-11-02
-
-Language: Finnish
 

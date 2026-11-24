@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:source="https://source.scripting.com/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <atom:link href="https://rsdoiel.github.io/antenna/writing.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title><![CDATA[Writing]]></title>
     <description><![CDATA[Writing and writing tools.]]></description>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>22 Nov 26 06:51 -0800</lastBuildDate>
-    <generator>antenna/0.1.1</generator>
+    <lastBuildDate>23 Nov 26 21:05 -0800</lastBuildDate>
+    <generator>antenna/0.1.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Hide games with a game filter</title>
@@ -15,7 +15,7 @@
         <![CDATA[<p>You can now set a game filter on your <a href="/editprofile">profile</a> to hide games you don't want to see, using IFDB's <a href="/search">search prefixes</a>. For example, <b>-tag:horror language:en</b> hides games tagged "horror" and shows only games in English. While you're logged in, the filter applies to the home page, the "New on IFDB" lists, and search results, and each of those pages links to the same results without it.</p>]]>
       </description>
       <source:markdown>You can now set a game filter on your [profile](/editprofile) to hide games you don&#39;t want to see, using IFDB&#39;s [search prefixes](/search). For example, **-tag:horror language:en** hides games tagged &#34;horror&#34; and shows only games in English. While you&#39;re logged in, the filter applies to the home page, the &#34;New on IFDB&#34; lists, and search results, and each of those pages links to the same results without it.</source:markdown>
-      <guid>cid://https://ifdb.org/news?item=170</guid>
+      <guid isPermaLink="false">cid://https://ifdb.org/news?item=170</guid>
       <pubDate>Sat, 21 Nov 2026 19:58:29 +0000</pubDate>
     </item>    <item>
       <title>Are changes coming to Section 121?</title>
@@ -24,7 +24,8 @@
         <![CDATA[Clarifying copyright law to explicitly permit remediation and cross-border lending of copyrighted works is necessary and important. But remediation is a workaround for a publishing system that wasn't built with accessibility in mind. What if U.S. law could compel the production of works in accessible formats from the start?]]>
       </description>
       <source:markdown>Clarifying copyright law to explicitly permit remediation and cross-border lending of copyrighted works is necessary and important. But remediation is a workaround for a publishing system that wasn&#39;t built with accessibility in mind. What if U.S. law could compel the production of works in accessible formats from the start?</source:markdown>
-      <guid>cid://https://www.authorsalliance.org/?p=13187</guid>
+      <dc:creator>Authors Alliance</dc:creator>
+      <guid isPermaLink="false">cid://https://www.authorsalliance.org/?p=13187</guid>
       <category>Blog</category>
       <category>Copyright Act at 50</category>
       <category>Law and Policy</category>
@@ -48,7 +49,8 @@
         <![CDATA[Recently, we filed an amicus brief in In re OpenAI Copyright Infringement Litigation, explaining why “market dilution,” a novel theory [&#8230;]]]>
       </description>
       <source:markdown>Recently, we filed an amicus brief in In re OpenAI Copyright Infringement Litigation, explaining why “market dilution,” a novel theory \[…\]</source:markdown>
-      <guid>cid://https://www.authorsalliance.org/?p=13182</guid>
+      <dc:creator>Anna Kang</dc:creator>
+      <guid isPermaLink="false">cid://https://www.authorsalliance.org/?p=13182</guid>
       <category>Blog</category>
       <category>Artificial Intelligence</category>
       <category>Copyright</category>
@@ -65,7 +67,8 @@
       <source:markdown>John and Craig confront the Seven Deadly Sins, particularly envy. How does envy work both as a driver of character action and a reality that writers face in their careers? We also answer some listener questions about unpaid labor, adapting material from a tweet or instagram post, and equating writing to time at the gym. \[…\]
 
 The post [Envy (And Other Deadly Sins)](https://johnaugust.com/2026/envy-and-other-deadly-sins) first appeared on [John August](https://johnaugust.com).</source:markdown>
-      <guid>cid://https://johnaugust.com/?p=27307</guid>
+      <dc:creator>JA Producer</dc:creator>
+      <guid isPermaLink="false">cid://https://johnaugust.com/?p=27307</guid>
       <category>Scriptnotes</category>
       <pubDate>Tue, 17 Nov 2026 16:15:38 +0000</pubDate>
     </item>    <item>
@@ -75,7 +78,8 @@ The post [Envy (And Other Deadly Sins)](https://johnaugust.com/2026/envy-and-oth
         <![CDATA[No decision has a stronger claim to being this year’s worst copyright decision than the Third Circuit’s precedential opinion in Thomson Reuters v. ROSS. Though the case ostensibly involves two legal research companies, the court’s ruling could broadly impact authors’ ability to use facts and ideas that first appeared in existing works.]]>
       </description>
       <source:markdown>No decision has a stronger claim to being this year’s worst copyright decision than the Third Circuit’s precedential opinion in Thomson Reuters v. ROSS. Though the case ostensibly involves two legal research companies, the court’s ruling could broadly impact authors’ ability to use facts and ideas that first appeared in existing works.</source:markdown>
-      <guid>cid://https://www.authorsalliance.org/?p=13164</guid>
+      <dc:creator>Yuanxiao Xu</dc:creator>
+      <guid isPermaLink="false">cid://https://www.authorsalliance.org/?p=13164</guid>
       <category>Blog</category>
       <category>Cases</category>
       <category>Fair Use</category>
@@ -102,7 +106,8 @@ The post [Envy (And Other Deadly Sins)](https://johnaugust.com/2026/envy-and-oth
       <source:markdown>Whatever happened to bit parts — the roles in which a character shows up only for one memorable scene? John and Craig discuss why these roles seem to have vanished, particularly in live action, and make a case for bringing them back. They also cover listener questions, such as when to name your minor character, \[…\]
 
 The post [The Lost Art of the Bit Part](https://johnaugust.com/2026/the-lost-art-of-the-bit-part) first appeared on [John August](https://johnaugust.com).</source:markdown>
-      <guid>cid://https://johnaugust.com/?p=27297</guid>
+      <dc:creator>JA Producer</dc:creator>
+      <guid isPermaLink="false">cid://https://johnaugust.com/?p=27297</guid>
       <category>Scriptnotes</category>
       <pubDate>Tue, 10 Nov 2026 18:23:45 +0000</pubDate>
     </item>    <item>
@@ -115,7 +120,8 @@ The post [The Lost Art of the Bit Part](https://johnaugust.com/2026/the-lost-art
       <source:markdown>How do you answer the question, “What is your project about?” Recorded live at the Austin Film Festival, John is joined by Scriptnotes all-stars Pamela Ribon and Phil Hay to talk about loglines, framing, and communicating the deeper message behind your project. They also discuss working outside of the traditional studio system, including ways to \[…\]
 
 The post [What It’s About? Moving Beyond Loglines](https://johnaugust.com/2026/what-its-about-moving-beyond-loglines) first appeared on [John August](https://johnaugust.com).</source:markdown>
-      <guid>cid://https://johnaugust.com/?p=27291</guid>
+      <dc:creator>JA Producer</dc:creator>
+      <guid isPermaLink="false">cid://https://johnaugust.com/?p=27291</guid>
       <category>Scriptnotes</category>
       <pubDate>Tue, 03 Nov 2026 16:15:00 +0000</pubDate>
     </item>

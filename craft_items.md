@@ -3,9 +3,9 @@ title: "Craft"
 description: "Craft is a list of hand oriented craft and technology\nDo we really need all those power tools?"
 pubDate: Mon, 23 Nov 2026 14:34:03 GMT
 aggregateOf: "craft.md"
-dateModified: Mon, 23 Nov 2026 14:49:51 GMT
-itemCount: 37
-generator: antenna/0.1.1
+dateModified: Tue, 24 Nov 2026 05:05:53 GMT
+itemCount: 34
+generator: antenna/0.1.2
 ---
 
 # Craft
@@ -269,26 +269,4 @@ via Popular Woodworking · 2026-11-03, updated 2026-11-09
 ![](https://media.popularwoodworking.com/app/uploads/2026/10/14105840/barronguide-copy-1024x767.jpg)Tool: Magnetic Dovetail Saw Guide Shop Now Manufacturer: Veritas MSRP: $59.50 For years, one of my favorite tools was also one of the hardest to get. It was the magnetic dovetail...
 
 [Source](https://www.popularwoodworking.com/toolreviews/barron-saw-guide-review/)
-
-## [Revised Edition of ‘Make Fresh Milk Paint’ – What’s New](https://blog.lostartpress.com/2026/11/02/revised-edition-of-make-fresh-milk-paint-whats-new/)
-
-via Lost Arg Press blog · 2026-11-02, updated 2026-11-20
-
-The revised edition of “Make Fresh Milk Paint” is at the printer, and expected to ship at the end of November. It’s almost twice as long as the first edition, and features a new cover color so it’s easily distinguished from the first edition: a cheerful earthy orange (a fine color to mix from quark,...
-
-## [Spindle Ornaments](https://www.popularwoodworking.com/projects/at-the-lathe-spindle-ornaments/)
-
-via Popular Woodworking · 2026-11-02, updated 2026-11-05
-
-![](https://media.popularwoodworking.com/app/uploads/2020/01/26124144/pwxmasornaments-2-copy-1024x767.jpg)A painted finish is easy to apply when using a lathe. In spring, a young man’s fancy may turn to thoughts of love, but in autumn, a woodturner’s fancy turns...
-
-[Source](https://www.popularwoodworking.com/projects/at-the-lathe-spindle-ornaments/)
-
-## [ShopNotes Podcast Episode 290 — We Have To Have Turbulence](https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-290-we-have-to-have-turbulence/)
-
-via Popular Woodworking · 2026-11-02, updated 2026-11-05
-
-![](https://media.popularwoodworking.com/app/uploads/2026/10/30125752/screenshot-2026-10-30-at-11.56.36am-1024x1024.png)What’s the best inexpensive tool in your woodworking shop? And what’s one tool you splurged on that was worth every penny? In Episode 290 of the ShopNotes Podcast, Phil Huber,...
-
-[Source](https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-290-we-have-to-have-turbulence/)
 

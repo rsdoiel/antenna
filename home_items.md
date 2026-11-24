@@ -3,9 +3,9 @@ title: "Urban Farm"
 description: "Home, garden and urban farm blogs and news."
 pubDate: Mon, 23 Nov 2026 01:33:04 GMT
 aggregateOf: "home.md"
-dateModified: Mon, 23 Nov 2026 14:47:59 GMT
-itemCount: 369
-generator: antenna/0.1.1
+dateModified: Tue, 24 Nov 2026 05:05:50 GMT
+itemCount: 359
+generator: antenna/0.1.2
 ---
 
 # Urban Farm
@@ -3113,100 +3113,4 @@ Coyotes are becoming familiar sights in many parts of Arkansas, yet most people 
 [Read more](https://ownyardlife.com/12-little-known-facts-about-coyotes-that-may-surprise-arkansas-residents/#more-68518 "12 Little-Known Facts About Coyotes That May Surprise Arkansas Residents")
 
 The post [12 Little-Known Facts About Coyotes That May Surprise Arkansas Residents](https://ownyardlife.com/12-little-known-facts-about-coyotes-that-may-surprise-arkansas-residents/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [Why Red Foxes in Kentucky Are Far More Adaptable Than Many People Think](https://ownyardlife.com/why-red-foxes-in-kentucky-are-far-more-adaptable-than-many-people-think/)
-
-via Yard Life blog · 2026-11-02, updated 2026-11-03
-
-Red foxes can appear in some unexpected places across Kentucky. One might slip along the edge of a farm field ...
-
-[Read more](https://ownyardlife.com/why-red-foxes-in-kentucky-are-far-more-adaptable-than-many-people-think/#more-68512 "Why Red Foxes in Kentucky Are Far More Adaptable Than Many People Think")
-
-The post [Why Red Foxes in Kentucky Are Far More Adaptable Than Many People Think](https://ownyardlife.com/why-red-foxes-in-kentucky-are-far-more-adaptable-than-many-people-think/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [10 Fascinating Facts About Black Bears That Most Washington Residents Have Never Heard](https://ownyardlife.com/10-fascinating-facts-about-black-bears-that-most-washington-residents-have-never-heard/)
-
-via Yard Life blog · 2026-11-02, updated 2026-11-03
-
-Washington’s forests can seem quiet until a large black shape moves between the trees or appears briefly along a mountain ...
-
-[Read more](https://ownyardlife.com/10-fascinating-facts-about-black-bears-that-most-washington-residents-have-never-heard/#more-68505 "10 Fascinating Facts About Black Bears That Most Washington Residents Have Never Heard")
-
-The post [10 Fascinating Facts About Black Bears That Most Washington Residents Have Never Heard](https://ownyardlife.com/10-fascinating-facts-about-black-bears-that-most-washington-residents-have-never-heard/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [10 Little-Known Facts About Coyotes That May Surprise New York Residents](https://ownyardlife.com/10-little-known-facts-about-coyotes-that-may-surprise-new-york-residents/)
-
-via Yard Life blog · 2026-11-02, updated 2026-11-03
-
-Strange howls drifting across a New York neighborhood after sunset can sometimes reveal that wild animals are living much closer ...
-
-[Read more](https://ownyardlife.com/10-little-known-facts-about-coyotes-that-may-surprise-new-york-residents/#more-68498 "10 Little-Known Facts About Coyotes That May Surprise New York Residents")
-
-The post [10 Little-Known Facts About Coyotes That May Surprise New York Residents](https://ownyardlife.com/10-little-known-facts-about-coyotes-that-may-surprise-new-york-residents/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [How To Spot a Flood-Damaged Car Before You Buy It](https://www.familyhandyman.com/article/was-car-flooded/)
-
-via Family Handyman Blog · 2026-11-02, updated 2026-11-20
-
-Learn the subtle signs to look for to avoid buying a flooded car.
-
-The post [How To Spot a Flood-Damaged Car Before You Buy It](https://www.familyhandyman.com/article/was-car-flooded/) appeared first on [Family Handyman](https://www.familyhandyman.com).
-
-## [Yes, Different Curb Colors Have a Meaning — A Guide to Decoding Them](https://www.familyhandyman.com/list/curb-colors-meaning/)
-
-via Family Handyman Blog · 2026-11-02, updated 2026-11-19
-
-Learn what different curb colors mean for parking and loading in the U.S., and why drivers should check nearby signs before stopping.
-
-The post [Yes, Different Curb Colors Have a Meaning — A Guide to Decoding Them](https://www.familyhandyman.com/list/curb-colors-meaning/) appeared first on [Family Handyman](https://www.familyhandyman.com).
-
-## [7 Strange Things About Nine-Banded Armadillos That Alabama Homeowners Should Know](https://ownyardlife.com/7-strange-things-about-nine-banded-armadillos-that-alabama-homeowners-should-know/)
-
-via Yard Life blog · 2026-11-02
-
-Alabama homeowners sometimes discover unusual holes appearing overnight in their lawns, flower beds, or garden borders. The soil may be ...
-
-[Read more](https://ownyardlife.com/7-strange-things-about-nine-banded-armadillos-that-alabama-homeowners-should-know/#more-68488 "7 Strange Things About Nine-Banded Armadillos That Alabama Homeowners Should Know")
-
-The post [7 Strange Things About Nine-Banded Armadillos That Alabama Homeowners Should Know](https://ownyardlife.com/7-strange-things-about-nine-banded-armadillos-that-alabama-homeowners-should-know/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [10 Secrets of Great Blue Herons That Many Massachusetts Residents Have Never Heard](https://ownyardlife.com/10-secrets-of-great-blue-herons-that-many-massachusetts-residents-have-never-heard/)
-
-via Yard Life blog · 2026-11-02
-
-Great blue herons standing motionless beside Massachusetts ponds can easily blend into the surrounding scenery. Their long legs remain still ...
-
-[Read more](https://ownyardlife.com/10-secrets-of-great-blue-herons-that-many-massachusetts-residents-have-never-heard/#more-68481 "10 Secrets of Great Blue Herons That Many Massachusetts Residents Have Never Heard")
-
-The post [10 Secrets of Great Blue Herons That Many Massachusetts Residents Have Never Heard](https://ownyardlife.com/10-secrets-of-great-blue-herons-that-many-massachusetts-residents-have-never-heard/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [10 Little-Known Facts About Porcupines That May Surprise Minnesota Residents](https://ownyardlife.com/10-little-known-facts-about-porcupines-that-may-surprise-minnesota-residents/)
-
-via Yard Life blog · 2026-11-02
-
-Minnesota’s forests become especially interesting when signs of wildlife activity appear on tree trunks, fallen branches, and snowy ground. One ...
-
-[Read more](https://ownyardlife.com/10-little-known-facts-about-porcupines-that-may-surprise-minnesota-residents/#more-68474 "10 Little-Known Facts About Porcupines That May Surprise Minnesota Residents")
-
-The post [10 Little-Known Facts About Porcupines That May Surprise Minnesota Residents](https://ownyardlife.com/10-little-known-facts-about-porcupines-that-may-surprise-minnesota-residents/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [8 Surprising Things About Alligators That Most Louisiana Residents Misunderstand](https://ownyardlife.com/8-surprising-things-about-alligators-that-most-louisiana-residents-misunderstand/)
-
-via Yard Life blog · 2026-11-02
-
-Louisiana’s bayous, marshes, ponds, and slow-moving rivers are home to one of the state’s most recognizable wild animals. On warm ...
-
-[Read more](https://ownyardlife.com/8-surprising-things-about-alligators-that-most-louisiana-residents-misunderstand/#more-68465 "8 Surprising Things About Alligators That Most Louisiana Residents Misunderstand")
-
-The post [8 Surprising Things About Alligators That Most Louisiana Residents Misunderstand](https://ownyardlife.com/8-surprising-things-about-alligators-that-most-louisiana-residents-misunderstand/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [10 Fascinating Facts About River Otters That Many Oregon Residents Don’t Know](https://ownyardlife.com/10-fascinating-facts-about-river-otters-that-many-oregon-residents-dont-know/)
-
-via Yard Life blog · 2026-11-02
-
-Oregon’s quiet rivers can suddenly come alive when something moves beneath the surface. A dark head may appear briefly between ...
-
-[Read more](https://ownyardlife.com/10-fascinating-facts-about-river-otters-that-many-oregon-residents-dont-know/#more-68457 "10 Fascinating Facts About River Otters That Many Oregon Residents Don’t Know")
-
-The post [10 Fascinating Facts About River Otters That Many Oregon Residents Don’t Know](https://ownyardlife.com/10-fascinating-facts-about-river-otters-that-many-oregon-residents-dont-know/) appeared first on [Own Yard Life](https://ownyardlife.com).
 

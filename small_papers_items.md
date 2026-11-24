@@ -3,9 +3,9 @@ title: "Small Papers"
 description: "Small regional papers, blogs and news."
 pubDate: Sun, 22 Nov 2026 00:41:59 GMT
 aggregateOf: "small_papers.md"
-dateModified: Mon, 23 Nov 2026 14:49:24 GMT
-itemCount: 87
-generator: antenna/0.1.1
+dateModified: Tue, 24 Nov 2026 05:05:51 GMT
+itemCount: 83
+generator: antenna/0.1.2
 ---
 
 # Small Papers
@@ -819,44 +819,4 @@ via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-03
 On the eve of the midterm elections, Los Angeles Mayor Karen Bass and LA City Councilmember Nithya Raman actively campaigned across town, vying for the substantial number of undecided voters \[…\]
 
 The post [On Eve of Election, Bass and Raman Make Last Push for Mayor](https://sanfernandosun.com/2026/11/02/on-eve-of-election-bass-and-raman-make-last-push-for-mayor/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [Why some CSU faculty are ready for a strike: ‘The last contract sucked’](https://lbpost.com/news/education/csu-faculty-strike-vote-rally-cal-state-university)
-
-via Long Beach Post · 2026-11-02, updated 2026-11-04
-
-![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/02121014/csu-strike-scprbrightspotcdn-168713-sq7fxblq-800174-ntPTVbwJ-1024x683.webp)
-
-The union that represents 29,000 faculty members is asking its members to authorize a strike after negotiations with California State University reached an impasse.
-
-The post [Why some CSU faculty are ready for a strike: ‘The last contract sucked’](https://lbpost.com/news/education/csu-faculty-strike-vote-rally-cal-state-university) appeared first on [Long Beach Post News](https://lbpost.com/news).
-
-## [Over 40% of names on DOJ list of alleged noncitizens are not on Calif. voter rolls, analysis finds](https://lbpost.com/news/politics/elections/over-40-of-names-on-doj-list-of-alleged-noncitizens-are-not-on-calif-voter-rolls-analysis-finds)
-
-via Long Beach Post · 2026-11-02, updated 2026-11-04
-
-![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/02100615/ap26289789028890-479930-y6sr1au5-860959-QBuz8b7D-1024x683.jpg)
-
-It's the first outside analysis of a list that the Department of Justice has used to threaten prosecution of election officials.
-
-The post [Over 40% of names on DOJ list of alleged noncitizens are not on Calif. voter rolls, analysis finds](https://lbpost.com/news/politics/elections/over-40-of-names-on-doj-list-of-alleged-noncitizens-are-not-on-calif-voter-rolls-analysis-finds) appeared first on [Long Beach Post News](https://lbpost.com/news).
-
-## [Vote! Vote Vote!](https://sanfernandosun.com/2026/11/02/vote-vote-vote/)
-
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-02, updated 2026-11-03
-
-![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/05/Vote-02-scaled-e1779330403933.jpg?fit=1024%2C805&ssl=1)
-
-Election Day is Tuesday, Nov. 3, and San Fernando Valley residents still have time to make their voices heard in the 2026 general election. Haven’t voted yet? Not sure where \[…\]
-
-The post [Vote! Vote Vote!](https://sanfernandosun.com/2026/11/02/vote-vote-vote/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [Special ed teacher was allowed back in class despite ongoing child abuse investigation](https://lbpost.com/news/education/teacher-returned-to-class-ongoing-child-abuse-investigation)
-
-via Long Beach Post · 2026-11-02, updated 2026-11-04
-
-![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/09/17104832/thursday-sept-172026-cleveland-7-473443-69dnqwzy-055936-lnRKC2Up-1024x611.jpg)
-
-“My worst fear just came true,” said the mother of one disabled student in his class.
-
-The post [Special ed teacher was allowed back in class despite ongoing child abuse investigation](https://lbpost.com/news/education/teacher-returned-to-class-ongoing-child-abuse-investigation) appeared first on [Long Beach Post News](https://lbpost.com/news).
 
