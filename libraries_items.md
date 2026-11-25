@@ -3,9 +3,9 @@ title: "GLAM"
 description: "Libraries, archives and museums."
 pubDate: Wed, 25 Nov 2026 15:34:38 GMT
 aggregateOf: "libraries.md"
-dateModified: Wed, 25 Nov 2026 16:33:29 GMT
+dateModified: Wed, 25 Nov 2026 18:23:51 GMT
 itemCount: 67
-generator: antenna/0.2.0
+generator: antenna/0.2.1
 ---
 
 # GLAM
@@ -467,7 +467,7 @@ The post [Guest Post — Beyond the Download: What Counts as Scholarly Content U
 
 ## [Defter helps manage your Zotero references](https://blog.front-matter.de/posts/defter-helps-manage-your-zotero-references/)
 
-via Front Matter Blog · 2026-11-16, updated 2026-11-24
+via Front Matter Blog · 2026-11-16, updated 2026-11-25
 
 Today I am announcing [defter](https://crates.io/crates/defter), a new Zotero sync and file storage server that complements [Zotero Storage](https://www.zotero.org/storage) with a hosted Zotero library using SQLite and S3-compatible object storage.
 
@@ -703,7 +703,7 @@ The post [On the Road with RADS: Building One Front Door for Data Management and
 
 ## [Rogue Scholar no longer registers concept DOIs for each post](https://blog.front-matter.de/posts/rogue-scholar-no-longer-registers-concept-dois-for-each-post/)
 
-via Front Matter Blog · 2026-11-05, updated 2026-11-24
+via Front Matter Blog · 2026-11-05, updated 2026-11-25
 
 Starting this Monday November 3rd the Rogue Scholar science blog archive stopped registering concept DOIs for new blog posts, i.e. two DOIs for each post.
 

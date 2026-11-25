@@ -5,18 +5,281 @@
     <title><![CDATA[Planet]]></title>
     <description><![CDATA[News from Europe, the Americas and the rest of the world beyond the Pacific Rim.]]></description>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>25 Nov 26 08:20 -0800</lastBuildDate>
-    <generator>antenna/0.2.0</generator>
+    <lastBuildDate>25 Nov 26 10:08 -0800</lastBuildDate>
+    <generator>antenna/0.2.1</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Remember when NASA slammed a spacecraft into an asteroid? We now have close-up images of the aftermath</title>
+      <link>https://www.cbc.ca/news/science/esa-hera-mission-dimorphos-didymos-9.7435354?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/b87eb2f7-a0e8-4338-8ff1-7acb0f949288,1795619142080/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C114%2C1020%2C573%29%3B' alt='A large grey asteroid is seen with a smaller one nearby.' width='620' height='349' title='This Hera Asteroid Framing Camera image shows Dimorphos in orbit around Didymos, with the crater caused by the 2022 DART impact clearly visible. The impact appears to have flattened one side of Dimorphos, leaving a crater that seems as wide as the impacted face of the asteroid and some weird structures inside it, including an apparent cigar-shaped structure at its centre. The 151-m-diameter Dimorphos moonlet orbits around the 730-m-diameter Didymos main body at an average distance of about 1 km.'/><p>Four years after NASA slammed a spacecraft into an asteroid to see if it could successfully alter its orbit around a larger companion, the European Space Agency's Hera spacecraft has arrived to see just how well that went.</p>]]>
+      </description>
+      <source:markdown>![A large grey asteroid is seen with a smaller one nearby.](https://i.cbc.ca/ais/b87eb2f7-a0e8-4338-8ff1-7acb0f949288,1795619142080/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C114%2C1020%2C573%29%3B)
+
+Four years after NASA slammed a spacecraft into an asteroid to see if it could successfully alter its orbit around a larger companion, the European Space Agency&#39;s Hera spacecraft has arrived to see just how well that went.</source:markdown>
+      <dc:creator>Nicole Mortillaro</dc:creator>
+      <guid isPermaLink="false">cid://9.7435354</guid>
+      <category>News/Science</category>
+      <pubDate>Wed, 25 Nov 2026 18:05:33 +0000</pubDate>
+    </item>    <item>
+      <title>Poundland collapses putting 11,000 jobs at risk</title>
+      <link>https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&#38;at_campaign=rss</link>
+      <description>
+        <![CDATA[The discount chain has fallen into administration after its owners failed to find a buyer.]]>
+      </description>
+      <source:markdown>The discount chain has fallen into administration after its owners failed to find a buyer.</source:markdown>
+      <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/cm3vgdn037z4o#1</guid>
+      <pubDate>Wed, 25 Nov 2026 18:04:13 +0000</pubDate>
+    </item>    <item>
+      <title>Who makes up the board of the Health Service Executive?</title>
+      <link>https://www.rte.ie/news/ireland/2026/1125/1600663-explainer-hse-board/</link>
+      <description>
+        <![CDATA[The HSE Board is the senior decision making body which is accountable to the Minister for Health to oversee the HSE nationally, but who are its 11 members?]]>
+      </description>
+      <source:markdown>The HSE Board is the senior decision making body which is accountable to the Minister for Health to oversee the HSE nationally, but who are its 11 members?</source:markdown>
+      <guid isPermaLink="false">cid://https://www.rte.ie/news/ireland/2026/1125/1600663-explainer-hse-board/</guid>
+      <category>Ireland</category>
+      <pubDate>Wed, 25 Nov 2026 17:53:07 +0000</pubDate>
+    </item>    <item>
+      <title>Gordon Ramsay to host Top Gear as show revived after Flintoff crash</title>
+      <link>https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&#38;at_campaign=rss</link>
+      <description>
+        <![CDATA[Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.]]>
+      </description>
+      <source:markdown>Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.</source:markdown>
+      <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/cjr4gw100d52o#1</guid>
+      <pubDate>Wed, 25 Nov 2026 17:48:28 +0000</pubDate>
+    </item>    <item>
+      <title>US stocks fall further as fears over AI intensify</title>
+      <link>https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&#38;at_campaign=rss</link>
+      <description>
+        <![CDATA[All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.]]>
+      </description>
+      <source:markdown>All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.</source:markdown>
+      <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/cq0md8g14zryo#1</guid>
+      <pubDate>Wed, 25 Nov 2026 17:48:09 +0000</pubDate>
+    </item>    <item>
+      <title>Man, 19, appears in court over Co Donegal fatal collision</title>
+      <link>https://www.rte.ie/news/courts/2026/1125/1600671-letterkenny-fatal-collision/</link>
+      <description>
+        <![CDATA[A young man has appeared in court in connection with a road traffic collision in Co Donegal which left one man dead and his brother with life-changing injuries.]]>
+      </description>
+      <source:markdown>A young man has appeared in court in connection with a road traffic collision in Co Donegal which left one man dead and his brother with life-changing injuries.</source:markdown>
+      <guid isPermaLink="false">cid://https://www.rte.ie/news/courts/2026/1125/1600671-letterkenny-fatal-collision/</guid>
+      <category>Courts</category>
+      <pubDate>Wed, 25 Nov 2026 17:42:21 +0000</pubDate>
+    </item>    <item>
+      <title>Images of asteroid targeted to test Earth&#39;s defences reveal stadium-sized crater</title>
+      <link>https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&#38;at_campaign=rss</link>
+      <description>
+        <![CDATA[The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago]]>
+      </description>
+      <source:markdown>The asteroid&#39;s surface was transformed after a spacecraft was deliberately crashed into it four years ago</source:markdown>
+      <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/cw8dv112r5gmo#1</guid>
+      <pubDate>Wed, 25 Nov 2026 17:30:16 +0000</pubDate>
+    </item>    <item>
+      <title>Department Sec Gen to defend RTÉ €20m funding cut at PAC</title>
+      <link>https://www.rte.ie/news/ireland/2026/1125/1600660-rte-pac/</link>
+      <description>
+        <![CDATA[The Secretary General of the Department of Media will defend a move by Minister Patrick O'Donovan to withhold funding from RTÉ at tomorrow's Public Accounts Committee (PAC) meeting.]]>
+      </description>
+      <source:markdown>The Secretary General of the Department of Media will defend a move by Minister Patrick O&#39;Donovan to withhold funding from RTÉ at tomorrow&#39;s Public Accounts Committee (PAC) meeting.</source:markdown>
+      <guid isPermaLink="false">cid://https://www.rte.ie/news/ireland/2026/1125/1600660-rte-pac/</guid>
+      <category>Ireland</category>
+      <pubDate>Wed, 25 Nov 2026 17:17:47 +0000</pubDate>
+    </item>    <item>
+      <title>Marine Corps Trials Portable 5G Network for Deployments</title>
+      <link>https://news.usni.org/2026/11/25/marine-corps-trials-portable-5g-network-for-deployments</link>
+      <description>
+        <![CDATA[The Marine Corps is trialling a portable system that will provide units with a private 5G network enabling Marines to maintain communications while operating across dispersed locations.  The use of the Tactical High-Bandwidth, Low-Latency Minimum Viable Product, or Tactical HiBaLL MVP, is being explored by Program Manager Marine Air-Ground Task Force Command and Control (PM MAGTF C2), part of Portfolio Acquisition Executive Marine Corps (PAE MC), reads a PAE MC news release published on Friday. At the center of the capability are tactical networking nodes in a portable system that provide cellular network capabilities in environments where traditional infrastructure may]]>
+      </description>
+      <source:markdown>The Marine Corps is trialling a portable system that will provide units with a private 5G network enabling Marines to maintain communications while operating across dispersed locations.  The use of the Tactical High-Bandwidth, Low-Latency Minimum Viable Product, or Tactical HiBaLL MVP, is being explored by Program Manager Marine Air-Ground Task Force Command and Control (PM MAGTF C2), part of Portfolio Acquisition Executive Marine Corps (PAE MC), reads a PAE MC news release published on Friday. At the center of the capability are tactical networking nodes in a portable system that provide cellular network capabilities in environments where traditional infrastructure may</source:markdown>
+      <dc:creator>Dzirhan Mahadzir</dc:creator>
+      <guid isPermaLink="false">cid://https://news.usni.org/?p=126889</guid>
+      <category>News &#38; Analysis</category>
+      <category>U.S. Marine Corps</category>
+      <category>US Marine Corps</category>
+      <pubDate>Wed, 25 Nov 2026 17:03:15 +0000</pubDate>
+    </item>    <item>
+      <title>Gordon Ramsay revealed as new Top Gear host</title>
+      <link>https://www.rte.ie/entertainment/2026/1125/1600666-gordon-ramsay-revealed-as-new-top-gear-host/</link>
+      <description>
+        <![CDATA[Chef Gordon Ramsay will take over as the new lead host of Top Gear when it returns in 2028, the BBC has announced.]]>
+      </description>
+      <source:markdown>Chef Gordon Ramsay will take over as the new lead host of Top Gear when it returns in 2028, the BBC has announced.</source:markdown>
+      <guid isPermaLink="false">cid://https://www.rte.ie/entertainment/2026/1125/1600666-gordon-ramsay-revealed-as-new-top-gear-host/</guid>
+      <category>Television</category>
+      <pubDate>Wed, 25 Nov 2026 17:01:51 +0000</pubDate>
+    </item>    <item>
+      <title>Italian Navy’s First ‘Full’ PPA Giovanni delle Bande Nere Demonstrates BMD Capabilities</title>
+      <link>https://www.navalnews.com/naval-news/2026/11/italian-navy-bmd-ppa-bande-nere/</link>
+      <description>
+        <![CDATA[<p>In a major Italian Navy BMD milestone, the first ‘Full’ MPCS/PPA Giovanni delle Bande Nere intercepted a high-speed ballistic missile using Aster 30.</p>
+        <p>The post <a href="https://www.navalnews.com/naval-news/2026/11/italian-navy-bmd-ppa-bande-nere/">Italian Navy’s First ‘Full’ PPA Giovanni delle Bande Nere Demonstrates BMD Capabilities</a> appeared first on <a href="https://www.navalnews.com">Naval News</a>.</p>]]>
+      </description>
+      <source:markdown>In a major Italian Navy BMD milestone, the first ‘Full’ MPCS/PPA Giovanni delle Bande Nere intercepted a high-speed ballistic missile using Aster 30.
+
+The post [Italian Navy’s First ‘Full’ PPA Giovanni delle Bande Nere Demonstrates BMD Capabilities](https://www.navalnews.com/naval-news/2026/11/italian-navy-bmd-ppa-bande-nere/) appeared first on [Naval News](https://www.navalnews.com).</source:markdown>
+      <dc:creator>Luca Peruzzi</dc:creator>
+      <guid isPermaLink="false">cid://https://www.navalnews.com/?p=94079</guid>
+      <category>News</category>
+      <category>BMD</category>
+      <category>Italian Navy</category>
+      <category>PPA</category>
+      <pubDate>Wed, 25 Nov 2026 16:55:31 +0000</pubDate>
+    </item>    <item>
+      <title>3rd former Montreal police officer arrested and charged in connection with racism scandal</title>
+      <link>https://www.cbc.ca/news/canada/montreal/spvm-scandal-police-9.7435632?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/54884a17-af7a-4d57-8630-4580d698f388,1793374084968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C238%2C4566%2C2568%29%3B' alt='Police station 39 behind orange tape' width='620' height='349' title='Montreal police&apos;s investigation into Station 39 has unearthed more allegations of misconduct, including one in the context of a case of domestic violence.'/><p>A third former Montreal police officer has been charged in connection with the racism scandal at Station 39 in the Montréal-Nord borough. Last Saturday, two other former officers were arrested and charged.</p>]]>
+      </description>
+      <source:markdown>![Police station 39 behind orange tape](https://i.cbc.ca/ais/54884a17-af7a-4d57-8630-4580d698f388,1793374084968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C238%2C4566%2C2568%29%3B)
+
+A third former Montreal police officer has been charged in connection with the racism scandal at Station 39 in the Montréal-Nord borough. Last Saturday, two other former officers were arrested and charged.</source:markdown>
+      <dc:creator>Sidhartha Banerjee</dc:creator>
+      <guid isPermaLink="false">cid://9.7435632</guid>
+      <category>News/Canada/Montreal</category>
+      <pubDate>Wed, 25 Nov 2026 16:47:39 +0000</pubDate>
+    </item>    <item>
+      <title>Israeli judges question Netanyahu corruption charges</title>
+      <link>https://www.rte.ie/news/2026/1125/1600664-benjamin-netanyahu-court/</link>
+      <description>
+        <![CDATA[Judges in the long-running corruption trial of Israeli caretaker prime minister Benjamin Netanyahu handed his defence a major boost by recommending the prosecution drop one of the cases in which he is accused of bribery.]]>
+      </description>
+      <source:markdown>Judges in the long-running corruption trial of Israeli caretaker prime minister Benjamin Netanyahu handed his defence a major boost by recommending the prosecution drop one of the cases in which he is accused of bribery.</source:markdown>
+      <guid isPermaLink="false">cid://https://www.rte.ie/news/2026/1125/1600664-benjamin-netanyahu-court/</guid>
+      <category>Middle East</category>
+      <pubDate>Wed, 25 Nov 2026 16:46:41 +0000</pubDate>
+    </item>    <item>
       <title>Badenoch challenges Burnham over university fees for EU students</title>
       <link>https://www.bbc.co.uk/news/articles/cw4gn8lxj5r1o?at_medium=RSS&#38;at_campaign=rss</link>
       <description>
         <![CDATA[The PM says EU students paying the same as British students is the European position and "won't be put on the table".]]>
       </description>
       <source:markdown>The PM says EU students paying the same as British students is the European position and &#34;won&#39;t be put on the table&#34;.</source:markdown>
-      <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/cw4gn8lxj5r1o#1</guid>
-      <pubDate>Wed, 25 Nov 2026 16:17:34 +0000</pubDate>
+      <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/cw4gn8lxj5r1o#5</guid>
+      <pubDate>Wed, 25 Nov 2026 16:46:17 +0000</pubDate>
+    </item>    <item>
+      <title>Federal prosecutors stumble in case over Ontario nuclear plant&#39;s worst fish kill</title>
+      <link>https://www.cbc.ca/news/canada/bruce-power-fish-kill-court-mixup-9.7435313?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/0100aeab-7de0-4db3-9dbc-9ce8deb6e3ae,1795616559717/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C321%2C756%2C425%29%3B' alt='A person holds a gizzard shad in their hand above a fishing net.' width='620' height='349' title='A gizzard shad is held above a fishing net by a provincial conservation worker. The temperature-sensitive species is at the centre of a massive fish kill at Ontario&apos;s Bruce Nuclear generating station in 2025.'/><p>Crown prosecutors have withdrawn and re-laid charges over a massive fish kill in 2025 against Bruce Power, the private operator of Canada's largest nuclear plant, after initially filing the case in the wrong court.</p>]]>
+      </description>
+      <source:markdown>![A person holds a gizzard shad in their hand above a fishing net.](https://i.cbc.ca/ais/0100aeab-7de0-4db3-9dbc-9ce8deb6e3ae,1795616559717/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C321%2C756%2C425%29%3B)
+
+Crown prosecutors have withdrawn and re-laid charges over a massive fish kill in 2025 against Bruce Power, the private operator of Canada&#39;s largest nuclear plant, after initially filing the case in the wrong court.</source:markdown>
+      <dc:creator>Colin Butler</dc:creator>
+      <guid isPermaLink="false">cid://9.7435313</guid>
+      <category>News/Canada</category>
+      <pubDate>Wed, 25 Nov 2026 16:46:17 +0000</pubDate>
+    </item>    <item>
+      <title>EU offers UK fresh deal on &#39;Made in Europe&#39; scheme</title>
+      <link>https://www.bbc.co.uk/news/articles/c50md8x9gdgro?at_medium=RSS&#38;at_campaign=rss</link>
+      <description>
+        <![CDATA[The draft proposal could see the UK join the scheme without having to increase import taxes on Chinese cars.]]>
+      </description>
+      <source:markdown>The draft proposal could see the UK join the scheme without having to increase import taxes on Chinese cars.</source:markdown>
+      <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/c50md8x9gdgro#5</guid>
+      <pubDate>Wed, 25 Nov 2026 16:45:09 +0000</pubDate>
+    </item>    <item>
+      <title>Trump&#39;s accounts traded Nvidia shares 44 times this year, records show</title>
+      <link>https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&#38;at_campaign=rss</link>
+      <description>
+        <![CDATA[A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.]]>
+      </description>
+      <source:markdown>A review of the US president&#39;s financial disclosures shows Donald Trump&#39;s investment portfolios have regularly traded shares in the tech giant.</source:markdown>
+      <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/cq772vk664yvo#1</guid>
+      <pubDate>Wed, 25 Nov 2026 16:42:11 +0000</pubDate>
+    </item>    <item>
+      <title>Martha Firestone Ford, former Detroit Lions owner and member of auto giant family, dead at 101</title>
+      <link>https://www.cbc.ca/news/canada/windsor/martha-ford-nfl-obit-9.7435464?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/cd628847-2715-48c5-8470-456b40f0e5dc,1795624587903/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C305%2C5848%2C3289%29%3B' alt='Martha Firestone Ford' width='620' height='349' title='Tire heiress Martha Firestone Ford, who was in charge of the Detroit Lions from 2014 until 2020 before turning the NFL team over to her daughter, has died at 101 at her home in Grosse Pointe, Mich. Her husband was William Clay Ford Sr., auto magnate Henry Ford&apos;s grandson.'/><p>Martha Firestone Ford, the tire heiress who became a link between two of the automotive industry's most iconic families and later took over the NFL's Detroit Lions, has died at 101.</p>]]>
+      </description>
+      <source:markdown>![Martha Firestone Ford](https://i.cbc.ca/ais/cd628847-2715-48c5-8470-456b40f0e5dc,1795624587903/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C305%2C5848%2C3289%29%3B)
+
+Martha Firestone Ford, the tire heiress who became a link between two of the automotive industry&#39;s most iconic families and later took over the NFL&#39;s Detroit Lions, has died at 101.</source:markdown>
+      <dc:creator>Noah Trister, Larry Lage</dc:creator>
+      <guid isPermaLink="false">cid://9.7435464</guid>
+      <category>News/Canada/Windsor</category>
+      <pubDate>Wed, 25 Nov 2026 16:40:18 +0000</pubDate>
+    </item>    <item>
+      <title>Removal of Premarin highlights difficulty in accessing menopause treatment in Canada</title>
+      <link>https://www.cbc.ca/news/health/premarin-menopause-treatments-pulled-canada-9.7435137?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/731da03a-e3b2-43f1-bca7-17b3d90994cb,1795591566900/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C61%2C3000%2C1687%29%3B' alt='A woman with her back to the camera is walking her dog outside.' width='620' height='349' title='A woman walks her dog as mist rises from a water fountain  in Montreal, Saturday, Aug. 21, 2021.'/><p>Earlier this month, Pfizer Canada announced it was discontinuing its hormone replacement therapy Premarin in Canada, but not in the U.S., citing “business reasons” — this despite an uptick in demand for menopause treatment. Clinicians are worried about access for their patients and are calling on provinces to expand coverage of an alternative.</p>]]>
+      </description>
+      <source:markdown>![A woman with her back to the camera is walking her dog outside.](https://i.cbc.ca/ais/731da03a-e3b2-43f1-bca7-17b3d90994cb,1795591566900/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C61%2C3000%2C1687%29%3B)
+
+Earlier this month, Pfizer Canada announced it was discontinuing its hormone replacement therapy Premarin in Canada, but not in the U.S., citing “business reasons” — this despite an uptick in demand for menopause treatment. Clinicians are worried about access for their patients and are calling on provinces to expand coverage of an alternative.</source:markdown>
+      <dc:creator>Alexandra Mae Jones</dc:creator>
+      <guid isPermaLink="false">cid://9.7435137</guid>
+      <category>News/Health</category>
+      <pubDate>Wed, 25 Nov 2026 16:39:16 +0000</pubDate>
+    </item>    <item>
+      <title>Edmonton’s football resurgence continues as city is announced as 2028 Grey Cup host</title>
+      <link>https://www.cbc.ca/news/canada/edmonton/edmonton-elks-2028-grey-cup-host-9.7435566?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/48fe5f2f-7ad5-46c6-9ba3-9b29ba269bc3,1795622785022/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C281%2C3600%2C2025%29%3B' alt='A photo of a large football stadium. The colour scheme of the stadium is yellow and green.' width='620' height='349' title='A file photo of Commonwealth Stadium in Edmonton, on Tuesday, June 1, 2021.'/><p>The Edmonton Elks and the Canadian Football League announced that the 2028 Grey Cup will be held in Edmonton. The last time Commonwealth Stadium hosted a Grey Cup was in 2018, when the Calgary Stampeders beat the Ottawa Redblacks 27-16.</p>]]>
+      </description>
+      <source:markdown>![A photo of a large football stadium. The colour scheme of the stadium is yellow and green.](https://i.cbc.ca/ais/48fe5f2f-7ad5-46c6-9ba3-9b29ba269bc3,1795622785022/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C281%2C3600%2C2025%29%3B)
+
+The Edmonton Elks and the Canadian Football League announced that the 2028 Grey Cup will be held in Edmonton. The last time Commonwealth Stadium hosted a Grey Cup was in 2018, when the Calgary Stampeders beat the Ottawa Redblacks 27-16.</source:markdown>
+      <dc:creator>Cameron MacCuish</dc:creator>
+      <guid isPermaLink="false">cid://9.7435566</guid>
+      <category>News/Canada/Edmonton</category>
+      <pubDate>Wed, 25 Nov 2026 16:38:23 +0000</pubDate>
+    </item>    <item>
+      <title>She grew up in group homes. Now she’s piecing together her past</title>
+      <link>https://www.cbc.ca/news/canada/nova-scotia/youth-government-care-files-mental-health-nova-scotia-9.7432913?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/b5ff90b6-5d28-4497-833b-f3642e8d6199,1795548537039/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Marisa Wright' width='620' height='349' title='Marisa Wright spent her early teens in government care. Having fought for government, school and police records, she’s piecing together memories from the disclosure of documents that advocates say needs to come with better mental health support. This story is the latest in the Left Behind series produced by the CBC Atlantic investigative team.'/><p></p>]]>
+      </description>
+      <source:markdown>![Marisa Wright](https://i.cbc.ca/ais/b5ff90b6-5d28-4497-833b-f3642e8d6199,1795548537039/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B)</source:markdown>
+      <guid isPermaLink="false">cid://9.7435631</guid>
+      <category>News</category>
+      <pubDate>Wed, 25 Nov 2026 16:37:24 +0000</pubDate>
+    </item>    <item>
+      <title>Iran claims Israel trying to deceive US into another war</title>
+      <link>https://www.rte.ie/news/middle-east/2026/1125/1600662-iran-israel/</link>
+      <description>
+        <![CDATA[Iranian Foreign Minister Abbas Araghchi has said that Israel was trying to drag the United States into another war after an Israeli minister alleged Tehran is building chemical weapons.]]>
+      </description>
+      <source:markdown>Iranian Foreign Minister Abbas Araghchi has said that Israel was trying to drag the United States into another war after an Israeli minister alleged Tehran is building chemical weapons.</source:markdown>
+      <guid isPermaLink="false">cid://https://www.rte.ie/news/middle-east/2026/1125/1600662-iran-israel/</guid>
+      <category>Middle East</category>
+      <pubDate>Wed, 25 Nov 2026 16:36:12 +0000</pubDate>
+    </item>    <item>
+      <title>Why has Poundland collapsed and what happens next?</title>
+      <link>https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&#38;at_campaign=rss</link>
+      <description>
+        <![CDATA[The retail chain has collapsed just one year after being bought for £1 by an American firm.]]>
+      </description>
+      <source:markdown>The retail chain has collapsed just one year after being bought for £1 by an American firm.</source:markdown>
+      <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/videos/ckregn0gq2ydo#1</guid>
+      <pubDate>Wed, 25 Nov 2026 16:24:30 +0000</pubDate>
+    </item>    <item>
+      <title>Contamination fears after US army detonates explosives</title>
+      <link>https://www.rte.ie/news/us/2026/1125/1600659-toxic-explosives-iowa/</link>
+      <description>
+        <![CDATA[The US Army detonated a massive cache of toxic explosives stored in a tiny Iowa farming town, saying the materials were too unstable to move to a safer area and warning residents to shelter from the blast and a potential cloud of lead dust.]]>
+      </description>
+      <source:markdown>The US Army detonated a massive cache of toxic explosives stored in a tiny Iowa farming town, saying the materials were too unstable to move to a safer area and warning residents to shelter from the blast and a potential cloud of lead dust.</source:markdown>
+      <guid isPermaLink="false">cid://https://www.rte.ie/news/us/2026/1125/1600659-toxic-explosives-iowa/</guid>
+      <category>US</category>
+      <pubDate>Wed, 25 Nov 2026 16:22:54 +0000</pubDate>
+    </item>    <item>
+      <title>N.L. is pausing plans to bring in flavoured vape ban</title>
+      <link>https://www.cbc.ca/news/canada/newfoundland-labrador/nl-vape-amendment-postponing-9.7435548?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/1.1875881,1380720080000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B' alt='' width='620' height='349' title='Confederation Building.'/><p>The government of Newfoundland and Labrador says it's postponing plans to amend the Tobacco and Vapour Products Control Act.</p>]]>
+      </description>
+      <source:markdown>![](https://i.cbc.ca/ais/1.1875881,1380720080000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B)
+
+The government of Newfoundland and Labrador says it&#39;s postponing plans to amend the Tobacco and Vapour Products Control Act.</source:markdown>
+      <guid isPermaLink="false">cid://9.7435548</guid>
+      <category>News/Canada/Nfld. &#38; Labrador</category>
+      <pubDate>Wed, 25 Nov 2026 16:21:52 +0000</pubDate>
     </item>    <item>
       <title>COP31 and the courage to say no</title>
       <link>https://www.talkingclimate.ca/p/cop31-and-the-courage-to-say-no</link>
@@ -28,15 +291,6 @@
       <enclosure url="https://substackcdn.com/image/fetch/$s_!kq6o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1610ac2-82e6-4db2-971a-24fff0495ae1_2398x1332.jpeg" length="0" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://www.talkingclimate.ca/p/cop31-and-the-courage-to-say-no</guid>
       <pubDate>Wed, 25 Nov 2026 16:10:06 +0000</pubDate>
-    </item>    <item>
-      <title>US stocks fall further as fears over AI intensify</title>
-      <link>https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&#38;at_campaign=rss</link>
-      <description>
-        <![CDATA[All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.]]>
-      </description>
-      <source:markdown>All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.</source:markdown>
-      <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/cq0md8g14zryo#1</guid>
-      <pubDate>Wed, 25 Nov 2026 16:07:26 +0000</pubDate>
     </item>    <item>
       <title>Israeli strike kills 2 senior Hamas officials</title>
       <link>https://www.cbc.ca/news/world/gaza-hamas-israel-kills-two-hamas-officials-9.7435419?cmp=rss</link>
@@ -50,15 +304,6 @@ The second strike left four people dead, including two children. Witnesses say t
       <guid isPermaLink="false">cid://9.7435419</guid>
       <category>News/World</category>
       <pubDate>Wed, 25 Nov 2026 16:04:22 +0000</pubDate>
-    </item>    <item>
-      <title>Poundland collapses putting 11,000 jobs at risk</title>
-      <link>https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&#38;at_campaign=rss</link>
-      <description>
-        <![CDATA[The discount chain has collapsed into administration after its owners failed to find a buyer.]]>
-      </description>
-      <source:markdown>The discount chain has collapsed into administration after its owners failed to find a buyer.</source:markdown>
-      <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/cm3vgdn037z4o#1</guid>
-      <pubDate>Wed, 25 Nov 2026 16:03:07 +0000</pubDate>
     </item>    <item>
       <title>Bangladesh garment workers who supply H&#38;M, Walmart and Gap protest lowest pay hike in 40 years</title>
       <link>https://www.cbc.ca/news/world/bangladesh-garment-workers-protest-9.7435339?cmp=rss</link>
@@ -84,7 +329,18 @@ The lawyers for convicted murderer Christa Pike say the full extent of the injur
       <category>News/World</category>
       <pubDate>Wed, 25 Nov 2026 16:00:16 +0000</pubDate>
     </item>    <item>
-      <title>Wife drugged and raped by husband asked police if she was to blame</title>
+      <title>New ‘Green Lava’ trailer brings Giacomo Mattivi’s story to wider audience</title>
+      <link>https://www.vaticannews.va/en/vatican-city/news/2026-11/green-lava-trailer-launch-justin-beiber-everything-hallelujah.html</link>
+      <description>
+        <![CDATA[<p>The filmmakers behind "Green Lava" release an international trailer featuring Justin Bieber’s “Everything Hallelujah” to accompany the documentary about a young Italian poet and catechist who lives with Duchenne muscular dystrophy.</p><p><a href="https://www.vaticannews.va/en/vatican-city/news/2026-11/green-lava-trailer-launch-justin-beiber-everything-hallelujah.html">Read all</a></p><p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>The filmmakers behind &#34;Green Lava&#34; release an international trailer featuring Justin Bieber’s “Everything Hallelujah” to accompany the documentary about a young Italian poet and catechist who lives with Duchenne muscular dystrophy.
+
+[Read all](https://www.vaticannews.va/en/vatican-city/news/2026-11/green-lava-trailer-launch-justin-beiber-everything-hallelujah.html)</source:markdown>
+      <guid isPermaLink="false">cid://https://www.vaticannews.va/en/vatican-city/news/2026-11/green-lava-trailer-launch-justin-beiber-everything-hallelujah.html</guid>
+      <pubDate>Wed, 25 Nov 2026 15:58:00 +0000</pubDate>
+    </item>    <item>
+      <title>Wife drugged and raped by husband asked police if she was to blame, mass-sexual offence trial hears</title>
       <link>https://www.bbc.co.uk/news/articles/c38x0vd2yyx5o?at_medium=RSS&#38;at_campaign=rss</link>
       <description>
         <![CDATA[The woman told a court suggestions she was 'pretending to be asleep' were 'absolute rubbish'.]]>
@@ -159,12 +415,12 @@ Yemen&#39;s Iran-aligned Houthis said on Wednesday they had attacked Saudi Arabi
       <category>News/World</category>
       <pubDate>Wed, 25 Nov 2026 15:04:30 +0000</pubDate>
     </item>    <item>
-      <title>Time running out for Poundland as takeover hopes fade</title>
+      <title>Dealz owner Poundland enters administration</title>
       <link>https://www.rte.ie/news/business/2026/1125/1600647-time-running-out-for-poundland/</link>
       <description>
-        <![CDATA[The future of Dealz parent company Poundland is on a knife-edge amid intensifying talks to keep the discount retailer afloat ahead of a key deadline.]]>
+        <![CDATA[Dealz parent company Poundland has entered administration, its American owner has announced, putting around 11,000 jobs and 600 stores at risk.]]>
       </description>
-      <source:markdown>The future of Dealz parent company Poundland is on a knife-edge amid intensifying talks to keep the discount retailer afloat ahead of a key deadline.</source:markdown>
+      <source:markdown>Dealz parent company Poundland has entered administration, its American owner has announced, putting around 11,000 jobs and 600 stores at risk.</source:markdown>
       <guid isPermaLink="false">cid://https://www.rte.ie/news/business/2026/1125/1600647-time-running-out-for-poundland/</guid>
       <category>Business</category>
       <pubDate>Wed, 25 Nov 2026 15:04:14 +0000</pubDate>
@@ -180,19 +436,19 @@ Yemen&#39;s Iran-aligned Houthis said on Wednesday they had attacked Saudi Arabi
       <guid isPermaLink="false">cid://https://www.vaticannews.va/en/africa/news/2026-11/ghana-cardinal-peter-poreku-dery-features-on-new-ghc2-banknote.html</guid>
       <pubDate>Wed, 25 Nov 2026 15:02:00 +0000</pubDate>
     </item>    <item>
-      <title>AI rout drags Wall Street lower, S&#38;P 500 slumps 3%</title>
+      <title>AI rout drags Wall Street lower, S&#38;P 500 slumps 2.7%</title>
       <link>https://www.cbc.ca/news/business/stock-market-latest-9.7435326?cmp=rss</link>
       <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/bf27a3ba-21f3-4a9d-9bcc-99ee6eeeb6ab,1795617456855/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C428%2C8225%2C4626%29%3B' alt='Traders stare at screens at the New York Stock Exchange.' width='620' height='349' title='People work on the floor at the New York Stock Exchange in New York, Tuesday, Nov. 17, 2026. (AP Photo/Seth Wenig)'/><p>AI stocks are pulling Wall Street lower again amid ongoing worries that the sector is in a bubble.</p>]]>
+        <![CDATA[<img src='https://i.cbc.ca/ais/bf27a3ba-21f3-4a9d-9bcc-99ee6eeeb6ab,1795624990611/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C428%2C8225%2C4626%29%3B' alt='Traders stare at screens at the New York Stock Exchange.' width='620' height='349' title='People work on the floor at the New York Stock Exchange in New York, Tuesday, Nov. 17, 2026. (AP Photo/Seth Wenig)'/><p>AI stocks are pulling Wall Street lower again amid ongoing worries that the sector is in a bubble.</p>]]>
       </description>
-      <source:markdown>![Traders stare at screens at the New York Stock Exchange.](https://i.cbc.ca/ais/bf27a3ba-21f3-4a9d-9bcc-99ee6eeeb6ab,1795617456855/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C428%2C8225%2C4626%29%3B)
+      <source:markdown>![Traders stare at screens at the New York Stock Exchange.](https://i.cbc.ca/ais/bf27a3ba-21f3-4a9d-9bcc-99ee6eeeb6ab,1795624990611/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C428%2C8225%2C4626%29%3B)
 
 AI stocks are pulling Wall Street lower again amid ongoing worries that the sector is in a bubble.</source:markdown>
       <guid isPermaLink="false">cid://9.7435326</guid>
       <category>News/Business</category>
       <pubDate>Wed, 25 Nov 2026 15:00:22 +0000</pubDate>
     </item>    <item>
-      <title>Why the Iran war is being blamed for raising UK energy bills</title>
+      <title>How much has the Iran war put up your energy bills?</title>
       <link>https://www.bbc.co.uk/news/articles/cv1j6wk020p8o?at_medium=RSS&#38;at_campaign=rss</link>
       <description>
         <![CDATA[How a big drop in liquified natural gas supplies from the Middle East is putting up Briton's fuel bills.]]>
@@ -244,6 +500,18 @@ AI stocks are pulling Wall Street lower again amid ongoing worries that the sect
       <source:markdown>Raheem Sterling was sentenced to 12 months imprisonment, suspended for 18 months, on Wednesday.</source:markdown>
       <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o#1</guid>
       <pubDate>Wed, 25 Nov 2026 13:57:12 +0000</pubDate>
+    </item>    <item>
+      <title>Libyan army says 2 officers were killed in Ukraine&#39;s attack on Russian warship</title>
+      <link>https://www.cbc.ca/news/world/ukraine-russia-libya-attack-9.7435192?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/82061650-cee3-42e5-843e-fa579a9f3ef5,1795610106788/full/max/0/default.jpg?im=Crop%2Crect%3D%2866%2C0%2C1555%2C874%29%3B' alt='A video image shows a vessel with jet stream behind it nearing a structure.' width='620' height='349' title='A screen recording shows the moment of the attack on a Russian cargo ship, off the coast of Benghazi, Libya November 22, 2026, in this screengrab taken from a video.  MEDIA OFFICE OF THE EASTERN LIBYAN FORCES [LIBYAN NATIONAL ARMY]/Handout via REUTERS    THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY  VERIFICATION: - Reuters was able to confirm the identity of the ship as MV ANGARA from its superstructure, shape, colour and position of cranes which match archive imagery of container carrier MV ANGARA.  - The date and location of the MV ANGARA footage was verified from the handout footage from the Libyan National Army showing a timestamp and coordinates approximately 6km off the Benghazi coastline. - Ukrainian President Zelenskiy also said on Telegram that the Ukrainian military struck MV Angara near the coast of Libya on November 23.   REFILE - QUALITY REPEAT'/><p>Two Libyan naval officers died from wounds sustained in Ukraine's recent drone attack on a Russian warship docked at a port in eastern Libya, military authorities there said, vowing unspecified retaliation against Kyiv for the deaths.</p>]]>
+      </description>
+      <source:markdown>![A video image shows a vessel with jet stream behind it nearing a structure.](https://i.cbc.ca/ais/82061650-cee3-42e5-843e-fa579a9f3ef5,1795610106788/full/max/0/default.jpg?im=Crop%2Crect%3D%2866%2C0%2C1555%2C874%29%3B)
+
+Two Libyan naval officers died from wounds sustained in Ukraine&#39;s recent drone attack on a Russian warship docked at a port in eastern Libya, military authorities there said, vowing unspecified retaliation against Kyiv for the deaths.</source:markdown>
+      <guid isPermaLink="false">cid://9.7435192</guid>
+      <category>News/World</category>
+      <pubDate>Wed, 25 Nov 2026 13:49:04 +0000</pubDate>
     </item>    <item>
       <title>Man and daughter who dumped murdered woman in canal jailed</title>
       <link>https://www.bbc.co.uk/news/articles/cq3dg1r3ypvpo?at_medium=RSS&#38;at_campaign=rss</link>
@@ -414,9 +682,9 @@ Many coastal communities of B.C. are preparing with sandbags and clearing debris
       <title>Headlines for November 25, 2026</title>
       <link>http://www.democracynow.org/2026/11/25/headlines</link>
       <description>
-        <![CDATA[Army Publishes New Map Showing Lead Dust from Munitions Plant Detonation Could Spread to Missouri, Gaza Health Officials Warn of Spread of Meningitis as Israel Continues to Violate Ceasefire Deal, Yemen&#8217;s Houthis Strike Saudi Arabia&#8217;s Largest Refinery and Riyadh Skyscraper, World Food Programme Warns Wars in Ukraine and Mideast Are Jeopardizing Food Aid for Millions, Lawsuits Allege <span class="caps">ICE</span> Brutalized U.S. Citizens and Prisoners at For-Profit Jail, Kilmar Ábrego García Leaves U.S. for Spain, Ending 20-Month Legal Ordeal, Trump Says He Might Pardon Jensen Huang as Attorney General Calls Nvidia a &#8220;Good Corporate Citizen&#8221;, Indian PM Narendra Modi Has Weakened Democratic Institutions, Human Rights Watch Finds, Hollywood Stars Defend Iranian Director Jafar Panahi After Tehran Court Sentences Him in Absentia, Far-Right Parties Lead in Polls Ahead of Sunday&#8217;s Snap Election in Spain, Court Bars U.S. from Punishing People Who Liaise with International Criminal Court, Celebrities Call on Sen. Chris Van Hollen to Be Elected Democratic Leader Over Sen. Chuck Schumer]]>
+        <![CDATA[Army Publishes New Map Showing Lead Dust from Munitions Plant Detonation Could Spread to Missouri, Gaza Health Officials Warn of Spread of Meningitis as Israel Continues to Violate Ceasefire Deal, Yemen&#8217;s Houthis Strike Saudi Arabia&#8217;s Largest Refinery and Riyadh Skyscraper, World Food Programme Warns Wars in Ukraine and Mideast Are Jeopardizing Food Aid for Millions, Lawsuits Allege <span class="caps">ICE</span> Brutalized U.S. Citizens and Prisoners at For-Profit Jail, Kilmar Ábrego García Leaves U.S. for Spain, Ending 20-Month Legal Ordeal, Celebrities Call on Sen. Chris Van Hollen to Be Elected Democratic Leader Over Sen. Chuck Schumer, Trump Says He Might Pardon Jensen Huang as Attorney General Calls Nvidia a &#8220;Good Corporate Citizen&#8221;, Indian PM Narendra Modi Has Weakened Democratic Institutions, Human Rights Watch Finds, Hollywood Stars Defend Iranian Director Jafar Panahi After Tehran Court Sentences Him in Absentia, Far-Right Parties Lead in Polls Ahead of Sunday&#8217;s Snap Election in Spain, Court Bars U.S. from Punishing People Who Liaise with International Criminal Court]]>
       </description>
-      <source:markdown>Army Publishes New Map Showing Lead Dust from Munitions Plant Detonation Could Spread to Missouri, Gaza Health Officials Warn of Spread of Meningitis as Israel Continues to Violate Ceasefire Deal, Yemen’s Houthis Strike Saudi Arabia’s Largest Refinery and Riyadh Skyscraper, World Food Programme Warns Wars in Ukraine and Mideast Are Jeopardizing Food Aid for Millions, Lawsuits Allege ICE Brutalized U.S. Citizens and Prisoners at For-Profit Jail, Kilmar Ábrego García Leaves U.S. for Spain, Ending 20-Month Legal Ordeal, Trump Says He Might Pardon Jensen Huang as Attorney General Calls Nvidia a “Good Corporate Citizen”, Indian PM Narendra Modi Has Weakened Democratic Institutions, Human Rights Watch Finds, Hollywood Stars Defend Iranian Director Jafar Panahi After Tehran Court Sentences Him in Absentia, Far-Right Parties Lead in Polls Ahead of Sunday’s Snap Election in Spain, Court Bars U.S. from Punishing People Who Liaise with International Criminal Court, Celebrities Call on Sen. Chris Van Hollen to Be Elected Democratic Leader Over Sen. Chuck Schumer</source:markdown>
+      <source:markdown>Army Publishes New Map Showing Lead Dust from Munitions Plant Detonation Could Spread to Missouri, Gaza Health Officials Warn of Spread of Meningitis as Israel Continues to Violate Ceasefire Deal, Yemen’s Houthis Strike Saudi Arabia’s Largest Refinery and Riyadh Skyscraper, World Food Programme Warns Wars in Ukraine and Mideast Are Jeopardizing Food Aid for Millions, Lawsuits Allege ICE Brutalized U.S. Citizens and Prisoners at For-Profit Jail, Kilmar Ábrego García Leaves U.S. for Spain, Ending 20-Month Legal Ordeal, Celebrities Call on Sen. Chris Van Hollen to Be Elected Democratic Leader Over Sen. Chuck Schumer, Trump Says He Might Pardon Jensen Huang as Attorney General Calls Nvidia a “Good Corporate Citizen”, Indian PM Narendra Modi Has Weakened Democratic Institutions, Human Rights Watch Finds, Hollywood Stars Defend Iranian Director Jafar Panahi After Tehran Court Sentences Him in Absentia, Far-Right Parties Lead in Polls Ahead of Sunday’s Snap Election in Spain, Court Bars U.S. from Punishing People Who Liaise with International Criminal Court</source:markdown>
       <author>webdev@democracynow.org (Democracy Now!)</author>
       <guid isPermaLink="false">cid://tag:democracynow.org,2026-11-25:en/headline/f08aef</guid>
       <pubDate>Wed, 25 Nov 2026 13:00:00 +0000</pubDate>
@@ -431,14 +699,14 @@ Many coastal communities of B.C. are preparing with sandbags and clearing debris
       <category>Ireland</category>
       <pubDate>Wed, 25 Nov 2026 12:58:03 +0000</pubDate>
     </item>    <item>
-      <title>Kilmar Abrego Garcia, who faced U.S. deportation efforts and &#39;vindictive prosecution,&#39; arrives in Spain</title>
+      <title>Kilmar Ábrego García, who faced U.S. deportation efforts and &#39;vindictive prosecution,&#39; arrives in Spain</title>
       <link>https://www.cbc.ca/news/world/us-spain-abrego-garcia-9.7435157?cmp=rss</link>
       <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/ca04bee6-3c3e-41f6-ba8c-f995ceb80b89,1795611306487/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B' alt='A man wearing a baseball cap and glasses is seen in a crowd of people nearby an airport.' width='620' height='349' title='Kilmar Abrego Garcia, a Salvadoran national, arrives at Madrid&apos;s airport after leaving the United States, Wednesday, Nov. 25, 2026. (AP Photo/Francisco Seco)'/><p>Kilmar Abrego Garcia, the Salvadoran national who fought his mistaken deportation from the U.S., arrived in Spain on Wednesday after voluntarily leaving the United States, potentially ending a defining saga of the Trump administration's immigration crackdown.</p>]]>
+        <![CDATA[<img src='https://i.cbc.ca/ais/ca04bee6-3c3e-41f6-ba8c-f995ceb80b89,1795611306487/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B' alt='A man wearing a baseball cap and glasses is seen in a crowd of people nearby an airport.' width='620' height='349' title='Kilmar Abrego Garcia, a Salvadoran national, arrives at Madrid&apos;s airport after leaving the United States, Wednesday, Nov. 25, 2026. (AP Photo/Francisco Seco)'/><p>Kilmar Ábrego García, the Salvadoran national who fought his mistaken deportation from the U.S., arrived in Spain on Wednesday after voluntarily leaving the United States, potentially ending a defining saga of the Trump administration's immigration crackdown.</p>]]>
       </description>
       <source:markdown>![A man wearing a baseball cap and glasses is seen in a crowd of people nearby an airport.](https://i.cbc.ca/ais/ca04bee6-3c3e-41f6-ba8c-f995ceb80b89,1795611306487/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B)
 
-Kilmar Abrego Garcia, the Salvadoran national who fought his mistaken deportation from the U.S., arrived in Spain on Wednesday after voluntarily leaving the United States, potentially ending a defining saga of the Trump administration&#39;s immigration crackdown.</source:markdown>
+Kilmar Ábrego García, the Salvadoran national who fought his mistaken deportation from the U.S., arrived in Spain on Wednesday after voluntarily leaving the United States, potentially ending a defining saga of the Trump administration&#39;s immigration crackdown.</source:markdown>
       <guid isPermaLink="false">cid://9.7435157</guid>
       <category>News/World</category>
       <pubDate>Wed, 25 Nov 2026 12:56:42 +0000</pubDate>
@@ -471,28 +739,15 @@ Kilmar Abrego Garcia, the Salvadoran national who fought his mistaken deportatio
       <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/c820qnznkrn4o#2</guid>
       <pubDate>Wed, 25 Nov 2026 12:12:11 +0000</pubDate>
     </item>    <item>
-      <title>Horse Sport Ireland set to be liquidated, staff say</title>
+      <title>Horse Sport Ireland set to be liquidated tomorrow</title>
       <link>https://www.rte.ie/news/2026/1125/1600614-horse-sport-ireland/</link>
       <description>
-        <![CDATA[Staff members at Horse Sport Ireland (HSI) have said they understand the company is set to be liquidated, with all of their roles being made redundant.]]>
+        <![CDATA[The country's governing body for equestrian sport - Horse Sport Ireland (HSI) - will be liquidated tomorrow with the loss of around 40 jobs, RTÉ News understands.]]>
       </description>
-      <source:markdown>Staff members at Horse Sport Ireland (HSI) have said they understand the company is set to be liquidated, with all of their roles being made redundant.</source:markdown>
+      <source:markdown>The country&#39;s governing body for equestrian sport - Horse Sport Ireland (HSI) - will be liquidated tomorrow with the loss of around 40 jobs, RTÉ News understands.</source:markdown>
       <guid isPermaLink="false">cid://https://www.rte.ie/news/2026/1125/1600614-horse-sport-ireland/</guid>
       <category>Ireland</category>
       <pubDate>Wed, 25 Nov 2026 12:04:15 +0000</pubDate>
-    </item>    <item>
-      <title>‘Pretty low’: Calgary girls&#39; hockey team out $2K after tournament scam</title>
-      <link>https://www.cbc.ca/news/canada/calgary/calgary-hockey-girls-team-tournament-scam-9.7434326?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/67ff8515-eb26-4990-a6c7-7ba150a2a68f,1795546564965/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C660%2C3024%2C1701%29%3B' alt='A hockey coach draws on the ice, surrounded by young female players' width='620' height='349' title='Coach Dave Wilder says the team will add more checks and balances after falling victim to a tournament scam.'/><p>A Calgary U-11 girls' hockey team lost nearly $2,000 — and the opportunity to play a tournament they thought they were accepted to — after falling victim to a scam. Last month, Hockey Alberta issued a warning on social media that it’s seeing a growing number of spoofed emails requesting money for tournaments.</p>]]>
-      </description>
-      <source:markdown>![A hockey coach draws on the ice, surrounded by young female players](https://i.cbc.ca/ais/67ff8515-eb26-4990-a6c7-7ba150a2a68f,1795546564965/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C660%2C3024%2C1701%29%3B)
-
-A Calgary U-11 girls&#39; hockey team lost nearly $2,000 — and the opportunity to play a tournament they thought they were accepted to — after falling victim to a scam. Last month, Hockey Alberta issued a warning on social media that it’s seeing a growing number of spoofed emails requesting money for tournaments.</source:markdown>
-      <dc:creator>Jennifer Keiller</dc:creator>
-      <guid isPermaLink="false">cid://9.7434326</guid>
-      <category>News/Canada/Calgary</category>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
     </item>    <item>
       <title>Ending mandatory inquiries for in-custody deaths risks eroding trust in Alberta justice, experts warn</title>
       <link>https://www.cbc.ca/news/canada/edmonton/alta-fatality-review-9.7434435?cmp=rss</link>
@@ -507,6 +762,19 @@ Experts say the changes, intended to address a mounting backlog of pending fatal
       <category>News/Canada/Edmonton</category>
       <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
     </item>    <item>
+      <title>‘Pretty low’: Calgary girls&#39; hockey team out $2K after tournament scam</title>
+      <link>https://www.cbc.ca/news/canada/calgary/calgary-hockey-girls-team-tournament-scam-9.7434326?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/67ff8515-eb26-4990-a6c7-7ba150a2a68f,1795546564965/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C660%2C3024%2C1701%29%3B' alt='A hockey coach draws on the ice, surrounded by young female players' width='620' height='349' title='Coach Dave Wilder says the team will add more checks and balances after falling victim to a tournament scam.'/><p>A Calgary U-11 girls' hockey team lost nearly $2,000 — and the opportunity to play a tournament they thought they were accepted to — after falling victim to a scam. Last month, Hockey Alberta issued a warning on social media that it’s seeing a growing number of spoofed emails requesting money for tournaments.</p>]]>
+      </description>
+      <source:markdown>![A hockey coach draws on the ice, surrounded by young female players](https://i.cbc.ca/ais/67ff8515-eb26-4990-a6c7-7ba150a2a68f,1795546564965/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C660%2C3024%2C1701%29%3B)
+
+A Calgary U-11 girls&#39; hockey team lost nearly $2,000 — and the opportunity to play a tournament they thought they were accepted to — after falling victim to a scam. Last month, Hockey Alberta issued a warning on social media that it’s seeing a growing number of spoofed emails requesting money for tournaments.</source:markdown>
+      <dc:creator>Jennifer Keiller</dc:creator>
+      <guid isPermaLink="false">cid://9.7434326</guid>
+      <category>News/Canada/Calgary</category>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
       <title>Yemen war: Emergency aid chief calls for access to war-hit communities</title>
       <link>https://news.un.org/feed/view/en/story/2026/11/1168872</link>
       <description>
@@ -517,12 +785,42 @@ Experts say the changes, intended to address a mounting backlog of pending fatal
       <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168872</guid>
       <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
     </item>    <item>
-      <title>Four teenagers charged over M50 wrong-way collision</title>
+      <title>Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’</title>
+      <link>https://news.un.org/feed/view/en/story/2026/11/1168875</link>
+      <description>
+        <![CDATA[For women in Gaza who lost their husbands in the war, providing for a family no longer means just putting food on the table. Now it also means finding shelter, hauling water and keeping children in school – all from a tent.]]>
+      </description>
+      <source:markdown>For women in Gaza who lost their husbands in the war, providing for a family no longer means just putting food on the table. Now it also means finding shelter, hauling water and keeping children in school – all from a tent.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/25-11-2026_Ziad_Gaza_Widows_2.jpg/image560x340cropped.jpg" length="36207" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168875</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Gisèle Pelicot’s son: ‘Not being violent is the bare minimum’</title>
+      <link>https://news.un.org/feed/view/en/story/2026/11/1168876</link>
+      <description>
+        <![CDATA[Two years after the Mazan rape trial, David Pelicot has decided to put his name to the fight against sexual violence – and to confront what he calls the silence of men.]]>
+      </description>
+      <source:markdown>Two years after the Mazan rape trial, David Pelicot has decided to put his name to the fight against sexual violence – and to confront what he calls the silence of men.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/24-11-2026-UN-David-Pelicot.jpg/image560x340cropped.jpg" length="26349" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168876</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Somalia: Famine risk decreases in Baidoa – but millions still going hungry</title>
+      <link>https://news.un.org/feed/view/en/story/2026/11/1168874</link>
+      <description>
+        <![CDATA[Millions of people in Somalia still face severe food shortages and malnutrition despite the reduced risk of famine in Baidoa, global food security experts warned on Wednesday.&nbsp;]]>
+      </description>
+      <source:markdown>Millions of people in Somalia still face severe food shortages and malnutrition despite the reduced risk of famine in Baidoa, global food security experts warned on Wednesday.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/23-10-2026-IOM-Somalia-flooding-03.jpg/image560x340cropped.jpg" length="53443" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168874</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Four boys appear in court over M50 wrong-way collision</title>
       <link>https://www.rte.ie/news/2026/1125/1600612-dublin-m50-investigation/</link>
       <description>
-        <![CDATA[Four teenagers have been charged in relation to the investigation into a collision on the M50 after a car was driven the wrong way down an up ramp near the Firhouse junction.]]>
+        <![CDATA[Four teenage boys, aged 13 to 15, including two brothers, have been charged with travelling in a stolen car that was involved in a head-on collision after being driven the wrong way on the M50.]]>
       </description>
-      <source:markdown>Four teenagers have been charged in relation to the investigation into a collision on the M50 after a car was driven the wrong way down an up ramp near the Firhouse junction.</source:markdown>
+      <source:markdown>Four teenage boys, aged 13 to 15, including two brothers, have been charged with travelling in a stolen car that was involved in a head-on collision after being driven the wrong way on the M50.</source:markdown>
       <guid isPermaLink="false">cid://https://www.rte.ie/news/2026/1125/1600612-dublin-m50-investigation/</guid>
       <category>Dublin</category>
       <pubDate>Wed, 25 Nov 2026 11:59:41 +0000</pubDate>
@@ -580,26 +878,15 @@ Experts say the changes, intended to address a mounting backlog of pending fatal
       <title>1 man dead after being shot during confrontation with home invader, Toronto police say</title>
       <link>https://www.cbc.ca/news/canada/toronto/attempted-home-invasion-toronto-fatal-shooting-9.7435158?cmp=rss</link>
       <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/31c3aacc-a73c-4838-8d1b-1d5631838a3c,1795613369043/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B' alt='Police vehicles and tape outside a home.' width='620' height='349' title='A man is dead after he was shot during an attempted home invasion in Midtown Toronto in the early hours of Nov. 25, 2026, Toronto police said.'/><p>A man has died after a shooting during an attempted home invasion early Wednesday in Toronto, police say.</p>]]>
+        <![CDATA[<img src='https://i.cbc.ca/ais/31c3aacc-a73c-4838-8d1b-1d5631838a3c,1795613369043/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B' alt='Police vehicles and tape outside a home.' width='620' height='349' title='A man is dead after he was shot during an attempted home invasion in Midtown Toronto in the early hours of Nov. 25, 2026, Toronto police said.'/><p>A man has died after a shooting during an attempted home invasion early Wednesday in Toronto, police say. They said an unknown number of suspects 'forced their way' into a home and shot a resident during a confrontation.</p>]]>
       </description>
       <source:markdown>![Police vehicles and tape outside a home.](https://i.cbc.ca/ais/31c3aacc-a73c-4838-8d1b-1d5631838a3c,1795613369043/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B)
 
-A man has died after a shooting during an attempted home invasion early Wednesday in Toronto, police say.</source:markdown>
+A man has died after a shooting during an attempted home invasion early Wednesday in Toronto, police say. They said an unknown number of suspects &#39;forced their way&#39; into a home and shot a resident during a confrontation.</source:markdown>
+      <dc:creator>Arrthy Thayaparan</dc:creator>
       <guid isPermaLink="false">cid://9.7435158</guid>
       <category>News/Canada/Toronto</category>
       <pubDate>Wed, 25 Nov 2026 11:05:15 +0000</pubDate>
-    </item>    <item>
-      <title>Why did Trump back Jensen Huang&#39;s return?</title>
-      <link>https://www.cbc.ca/radio/frontburner/why-did-trump-back-jensen-huang-s-return-9.7434921?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/14025625-e0fa-460e-b426-640daca8db08,1795564453488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C3313%2C1863%29%3B' alt='Two men in suits shake hands and smile.' width='620' height='349' title='FILE PHOTO: Nvidia CEO Jensen Huang and U.S. President Donald Trump shake hands at an &apos;Investing in America&apos; event in Washington, D.C., U.S., April 30, 2025. REUTERS/Leah Millis/File Photo'/><p>Jensen Huang is back as the CEO of Nvidia, with the help of Trump, despite a flurry of ongoing investigations. Is he too big to fail?</p>]]>
-      </description>
-      <source:markdown>![Two men in suits shake hands and smile.](https://i.cbc.ca/ais/14025625-e0fa-460e-b426-640daca8db08,1795564453488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C3313%2C1863%29%3B)
-
-Jensen Huang is back as the CEO of Nvidia, with the help of Trump, despite a flurry of ongoing investigations. Is he too big to fail?</source:markdown>
-      <guid isPermaLink="false">cid://9.7434921</guid>
-      <category>Radio/Front Burner</category>
-      <pubDate>Wed, 25 Nov 2026 11:00:00 +0000</pubDate>
     </item>    <item>
       <title>After torturing victim over missing drugs, Saskatoon man played VLTs, stabbed a stranger</title>
       <link>https://www.cbc.ca/news/canada/saskatoon/dillon-singler-homicide-lee-perkins-manslaughter-stabbing-market-mall-9.7430064?cmp=rss</link>
@@ -614,14 +901,17 @@ Within hours of participating in a brutally violent homicide, Dillon Singler wen
       <category>News/Canada/Saskatoon</category>
       <pubDate>Wed, 25 Nov 2026 11:00:00 +0000</pubDate>
     </item>    <item>
-      <title>EU offers UK fresh deal on &#39;Made in Europe&#39; scheme</title>
-      <link>https://www.bbc.co.uk/news/articles/c50md8x9gdgro?at_medium=RSS&#38;at_campaign=rss</link>
+      <title>Why did Trump back Jensen Huang&#39;s return?</title>
+      <link>https://www.cbc.ca/radio/frontburner/why-did-trump-back-jensen-huang-s-return-9.7434921?cmp=rss</link>
       <description>
-        <![CDATA[The draft proposal could see the UK join the scheme without having to increase import taxes on Chinese cars.]]>
+        <![CDATA[<img src='https://i.cbc.ca/ais/14025625-e0fa-460e-b426-640daca8db08,1795564453488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C3313%2C1863%29%3B' alt='Two men in suits shake hands and smile.' width='620' height='349' title='FILE PHOTO: Nvidia CEO Jensen Huang and U.S. President Donald Trump shake hands at an &apos;Investing in America&apos; event in Washington, D.C., U.S., April 30, 2025. REUTERS/Leah Millis/File Photo'/><p>Jensen Huang is back as the CEO of Nvidia, with the help of Trump, despite a flurry of ongoing investigations. Is he too big to fail?</p>]]>
       </description>
-      <source:markdown>The draft proposal could see the UK join the scheme without having to increase import taxes on Chinese cars.</source:markdown>
-      <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/c50md8x9gdgro#5</guid>
-      <pubDate>Wed, 25 Nov 2026 10:59:22 +0000</pubDate>
+      <source:markdown>![Two men in suits shake hands and smile.](https://i.cbc.ca/ais/14025625-e0fa-460e-b426-640daca8db08,1795564453488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C3313%2C1863%29%3B)
+
+Jensen Huang is back as the CEO of Nvidia, with the help of Trump, despite a flurry of ongoing investigations. Is he too big to fail?</source:markdown>
+      <guid isPermaLink="false">cid://9.7434921</guid>
+      <category>Radio/Front Burner</category>
+      <pubDate>Wed, 25 Nov 2026 11:00:00 +0000</pubDate>
     </item>    <item>
       <title>2 men charged in break-in at country residence of Prince William, Princess of Wales</title>
       <link>https://www.cbc.ca/news/world/uk-breakin-royals-charges-9.7435154?cmp=rss</link>
@@ -653,7 +943,7 @@ It follows reports that the home of Prince William and Princess Catherine on the
         <![CDATA[Pakistan's Muhammad Zeeshan Ali has become the first foreign national to board China's Tiangong space station.]]>
       </description>
       <source:markdown>Pakistan&#39;s Muhammad Zeeshan Ali has become the first foreign national to board China&#39;s Tiangong space station.</source:markdown>
-      <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/videos/cj5y1p067kxno#1</guid>
+      <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/videos/cj5y1p067kxno#5</guid>
       <pubDate>Wed, 25 Nov 2026 10:26:50 +0000</pubDate>
     </item>    <item>
       <title>Pope Leo: We must not forget human face of climate crisis</title>
@@ -704,19 +994,6 @@ It follows reports that the home of Prince William and Princess Catherine on the
 A bungalow nestled on the outskirts of Springhill, N.S., was a pandemic purchase for a couple, but they were surprised to return this fall to find all buildings and irreplaceable mementoes on the property gone.</source:markdown>
       <dc:creator>Luke Ettinger</dc:creator>
       <guid isPermaLink="false">cid://9.7432921</guid>
-      <category>News/Canada/Nova Scotia</category>
-      <pubDate>Wed, 25 Nov 2026 10:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>She grew up in group homes. Now she’s piecing together her past</title>
-      <link>https://www.cbc.ca/news/canada/nova-scotia/youth-government-care-files-mental-health-nova-scotia-9.7432913?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/1b45c13c-de53-4237-8bbf-79041a267fd6,1795459246382/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='A woman looks straight into the camera while sitting at a kitchen table.' width='620' height='349' title='Marisa Wright, 37, accessed her personal records earlier this year. She was in provincial care from the age of 12 to 15.'/><p>Marisa Wright, 37, is trying to piece together her broken childhood through school, police and government records. Some agencies initially supplied only a limited amount of information in a few summary pages and others denied access completely.</p>]]>
-      </description>
-      <source:markdown>![A woman looks straight into the camera while sitting at a kitchen table.](https://i.cbc.ca/ais/1b45c13c-de53-4237-8bbf-79041a267fd6,1795459246382/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B)
-
-Marisa Wright, 37, is trying to piece together her broken childhood through school, police and government records. Some agencies initially supplied only a limited amount of information in a few summary pages and others denied access completely.</source:markdown>
-      <dc:creator>Angela MacIvor</dc:creator>
-      <guid isPermaLink="false">cid://9.7432913</guid>
       <category>News/Canada/Nova Scotia</category>
       <pubDate>Wed, 25 Nov 2026 10:00:00 +0000</pubDate>
     </item>    <item>
@@ -804,19 +1081,6 @@ The post [Poland Lays Keel for Third Miecznik Frigate, Signs CAMM-MR Missile Dea
       <category>Polish Navy</category>
       <pubDate>Wed, 25 Nov 2026 09:06:43 +0000</pubDate>
     </item>    <item>
-      <title>Can AI chatbots really help shoppers find the best deals?</title>
-      <link>https://www.cbc.ca/news/business/ai-shopping-assistant-black-friday-deals-9.7434424?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/ais/92cdbab2-4b80-4b0a-8111-36d7e58c12c8,1795547642442/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Phone screen showing a Garmin smartwatch selling for $350, down from $489.99.' width='620' height='349' title='As part of a daily alert set up by ChatGPT, Monique Welter found the smartwatch she was looking to buy for her husband — selling at a 30 per cent discount, for $350.'/><p>Canadians are increasingly turning to AI chatbots to help them shop, compare items, scope out discounts and, in some cases, even make purchases. But are shoppers really seeing the best deals for Black Friday?</p>]]>
-      </description>
-      <source:markdown>![Phone screen showing a Garmin smartwatch selling for $350, down from $489.99.](https://i.cbc.ca/ais/92cdbab2-4b80-4b0a-8111-36d7e58c12c8,1795547642442/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B)
-
-Canadians are increasingly turning to AI chatbots to help them shop, compare items, scope out discounts and, in some cases, even make purchases. But are shoppers really seeing the best deals for Black Friday?</source:markdown>
-      <dc:creator>Philippe de Montigny, Abby Hughes</dc:creator>
-      <guid isPermaLink="false">cid://9.7434424</guid>
-      <category>News/Business</category>
-      <pubDate>Wed, 25 Nov 2026 09:00:00 +0000</pubDate>
-    </item>    <item>
       <title>Suspected North Korean computer programmers did contract work for B.C. government</title>
       <link>https://www.cbc.ca/news/canada/suspected-north-korean-computer-programmers-british-columbia-government-9.7433830?cmp=rss</link>
       <description>
@@ -841,6 +1105,19 @@ From &#34;Super&#34; to &#34;Godzilla&#34; to &#34;Mega,&#34; the names for this
       <dc:creator>Eric Michael Johnson</dc:creator>
       <guid isPermaLink="false">cid://9.7433588</guid>
       <category>News/Climate</category>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Can AI chatbots really help shoppers find the best deals?</title>
+      <link>https://www.cbc.ca/news/business/ai-shopping-assistant-black-friday-deals-9.7434424?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/ais/92cdbab2-4b80-4b0a-8111-36d7e58c12c8,1795547642442/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Phone screen showing a Garmin smartwatch selling for $350, down from $489.99.' width='620' height='349' title='As part of a daily alert set up by ChatGPT, Monique Welter found the smartwatch she was looking to buy for her husband — selling at a 30 per cent discount, for $350.'/><p>Canadians are increasingly turning to AI chatbots to help them shop, compare items, scope out discounts and, in some cases, even make purchases. But are shoppers really seeing the best deals for Black Friday?</p>]]>
+      </description>
+      <source:markdown>![Phone screen showing a Garmin smartwatch selling for $350, down from $489.99.](https://i.cbc.ca/ais/92cdbab2-4b80-4b0a-8111-36d7e58c12c8,1795547642442/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B)
+
+Canadians are increasingly turning to AI chatbots to help them shop, compare items, scope out discounts and, in some cases, even make purchases. But are shoppers really seeing the best deals for Black Friday?</source:markdown>
+      <dc:creator>Philippe de Montigny, Abby Hughes</dc:creator>
+      <guid isPermaLink="false">cid://9.7434424</guid>
+      <category>News/Business</category>
       <pubDate>Wed, 25 Nov 2026 09:00:00 +0000</pubDate>
     </item>    <item>
       <title>Highest MP turnover rate in decades making for byelection bonanza this Parliament</title>
@@ -979,7 +1256,7 @@ The post [UK Awards HII £142 Million Contract for Royal Navy REMUS 620 UUVs](ht
         <![CDATA[Visitors and stallholders say the event did not match the promotional AI pictures.]]>
       </description>
       <source:markdown>Visitors and stallholders say the event did not match the promotional AI pictures.</source:markdown>
-      <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/cm0qjglj3ejlo#1</guid>
+      <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/cm0qjglj3ejlo#5</guid>
       <pubDate>Wed, 25 Nov 2026 06:02:07 +0000</pubDate>
     </item>    <item>
       <title>UK sent sex offender refugee to African country in undisclosed deal</title>
@@ -990,15 +1267,6 @@ The post [UK Awards HII £142 Million Contract for Royal Navy REMUS 620 UUVs](ht
       <source:markdown>The deal is said to be the first known case of the UK government forcibly resettling a refugee permanently overseas.</source:markdown>
       <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/c6z7407zrgwvo#5</guid>
       <pubDate>Wed, 25 Nov 2026 06:00:45 +0000</pubDate>
-    </item>    <item>
-      <title>Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth</title>
-      <link>https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&#38;at_campaign=rss</link>
-      <description>
-        <![CDATA[The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.]]>
-      </description>
-      <source:markdown>The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.</source:markdown>
-      <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/cw8dv112r5gmo#5</guid>
-      <pubDate>Wed, 25 Nov 2026 06:00:36 +0000</pubDate>
     </item>    <item>
       <title>Saw Doctors musical playing to full houses in Galway</title>
       <link>https://www.rte.ie/news/connacht/2026/1125/1600532-shamtown-galway/</link>
@@ -1088,7 +1356,7 @@ Jay Stewart tells The National about the moment he found a two-year-old toddler 
         <![CDATA[BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.]]>
       </description>
       <source:markdown>BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.</source:markdown>
-      <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/cw24e17v9e51o#1</guid>
+      <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/cw24e17v9e51o#3</guid>
       <pubDate>Wed, 25 Nov 2026 00:54:13 +0000</pubDate>
     </item>    <item>
       <title>Why tiny cars are taking off across Europe</title>
@@ -2296,6 +2564,17 @@ The post [Blacksword Barracuda: An Attack Submarine to Deliver Operational Super
       <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/videos/cm62p9y3y04qo#4</guid>
       <pubDate>Tue, 24 Nov 2026 09:09:41 +0000</pubDate>
     </item>    <item>
+      <title>Italy: Religious sister&#39;s musical talent helps unite people to God in prayer</title>
+      <link>https://www.vaticannews.va/en/church/news/2026-11/sisters-project-italy-music-liturgy-beauty-media-charism-service.html</link>
+      <description>
+        <![CDATA[<p>Through liturgical music, Sr. Maria Alžbeta Stračinová reveals how the beauty of music can lead to a deeper encounter with God. Her story reflects the quiet yet powerful impact of consecrated women around the world who serve, inspire, and enrich others, finding deep personal fulfillment in their vocation.</p><p><a href="https://www.vaticannews.va/en/church/news/2026-11/sisters-project-italy-music-liturgy-beauty-media-charism-service.html">Read all</a></p><p>&nbsp;</p>]]>
+      </description>
+      <source:markdown>Through liturgical music, Sr. Maria Alžbeta Stračinová reveals how the beauty of music can lead to a deeper encounter with God. Her story reflects the quiet yet powerful impact of consecrated women around the world who serve, inspire, and enrich others, finding deep personal fulfillment in their vocation.
+
+[Read all](https://www.vaticannews.va/en/church/news/2026-11/sisters-project-italy-music-liturgy-beauty-media-charism-service.html)</source:markdown>
+      <guid isPermaLink="false">cid://https://www.vaticannews.va/en/church/news/2026-11/sisters-project-italy-music-liturgy-beauty-media-charism-service.html</guid>
+      <pubDate>Tue, 24 Nov 2026 09:00:00 +0000</pubDate>
+    </item>    <item>
       <title>Why Trump&#39;s move to get Jensen Huang reinstated as Nvidia CEO won&#39;t end the questions</title>
       <link>https://www.cbc.ca/news/world/trump-jensen-huang-nvidia-china-9.7433543?cmp=rss</link>
       <description>
@@ -2307,17 +2586,6 @@ U.S. President Donald Trump&#39;s extraordinary intervention to get Jensen Huang
       <dc:creator>Mike Crawley</dc:creator>
       <guid isPermaLink="false">cid://9.7433543</guid>
       <category>News/World</category>
-      <pubDate>Tue, 24 Nov 2026 09:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Italy: Religious sister&#39;s musical talent helps unite people to God in prayer</title>
-      <link>https://www.vaticannews.va/en/church/news/2026-11/sisters-project-italy-music-liturgy-beauty-media-charism-service.html</link>
-      <description>
-        <![CDATA[<p>Through liturgical music, Sr. Maria Alžbeta Stračinová reveals how the beauty of music can lead to a deeper encounter with God. Her story reflects the quiet yet powerful impact of consecrated women around the world who serve, inspire, and enrich others, finding deep personal fulfillment in their vocation.</p><p><a href="https://www.vaticannews.va/en/church/news/2026-11/sisters-project-italy-music-liturgy-beauty-media-charism-service.html">Read all</a></p><p>&nbsp;</p>]]>
-      </description>
-      <source:markdown>Through liturgical music, Sr. Maria Alžbeta Stračinová reveals how the beauty of music can lead to a deeper encounter with God. Her story reflects the quiet yet powerful impact of consecrated women around the world who serve, inspire, and enrich others, finding deep personal fulfillment in their vocation.
-
-[Read all](https://www.vaticannews.va/en/church/news/2026-11/sisters-project-italy-music-liturgy-beauty-media-charism-service.html)</source:markdown>
-      <guid isPermaLink="false">cid://https://www.vaticannews.va/en/church/news/2026-11/sisters-project-italy-music-liturgy-beauty-media-charism-service.html</guid>
       <pubDate>Tue, 24 Nov 2026 09:00:00 +0000</pubDate>
     </item>    <item>
       <title>Montreal&#39;s &#39;unprecedented&#39; tax hike key to tackling &#39;infrastructure crisis,&#39; mayor says</title>
@@ -3795,16 +4063,6 @@ The two Americans convicted of murdering Quebec entrepreneur Daniel Langlois and
       <category>News/Canada/Montreal</category>
       <pubDate>Mon, 23 Nov 2026 12:18:19 +0000</pubDate>
     </item>    <item>
-      <title>UN chief urges talks on global AI safety framework, warns of historic shift in power</title>
-      <link>https://news.un.org/feed/view/en/story/2026/11/1168861</link>
-      <description>
-        <![CDATA[UN Secretary-General António Guterres on Monday called on Member States to begin discussions on a multilateral framework for managing the risks of artificial intelligence (AI), warning that the technology is driving “the biggest transfer of power in the history of humankind”.]]>
-      </description>
-      <source:markdown>UN Secretary-General António Guterres on Monday called on Member States to begin discussions on a multilateral framework for managing the risks of artificial intelligence (AI), warning that the technology is driving “the biggest transfer of power in the history of humankind”.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/23-11-2026-Barbados-Guterres-01.jpg/image560x340cropped.jpg" length="20934" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168861</guid>
-      <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
       <title>Libya: UN mission urges probe into Benghazi port attacks</title>
       <link>https://news.un.org/feed/view/en/story/2026/11/1168857</link>
       <description>
@@ -3843,6 +4101,16 @@ The two Americans convicted of murdering Quebec entrepreneur Daniel Langlois and
       <source:markdown>Heavy fighting near a hospital in Ituri province in the Democratic Republic of the Congo (DRC) has disrupted the vital work of Ebola responders and forced emergency teams to take cover for more than 24 hours.</source:markdown>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/23-10-2026-WHO-DRC-ebola.jpg/image560x340cropped.jpg" length="56166" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168858</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>UN chief urges talks on global AI safety framework, warns of historic shift in power</title>
+      <link>https://news.un.org/feed/view/en/story/2026/11/1168861</link>
+      <description>
+        <![CDATA[UN Secretary-General António Guterres on Monday called on Member States to begin discussions on a multilateral framework for managing the risks of artificial intelligence (AI), warning that the technology is driving “the biggest transfer of power in the history of humankind”.]]>
+      </description>
+      <source:markdown>UN Secretary-General António Guterres on Monday called on Member States to begin discussions on a multilateral framework for managing the risks of artificial intelligence (AI), warning that the technology is driving “the biggest transfer of power in the history of humankind”.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/23-11-2026-Barbados-Guterres-01.jpg/image560x340cropped.jpg" length="20934" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168861</guid>
       <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
     </item>    <item>
       <title>How will Mark Carney&#39;s appeal influence the Yorkton-Melville byelection?</title>
@@ -4671,16 +4939,6 @@ Prince George&#39;s Meryeta O&#39;Dine suffered fractured ankle in a devastating
       <category>Ulster</category>
       <pubDate>Sun, 22 Nov 2026 12:21:20 +0000</pubDate>
     </item>    <item>
-      <title>Guterres laments COP31 outcome, urges climate justice from Barbados</title>
-      <link>https://news.un.org/feed/view/en/story/2026/11/1168856</link>
-      <description>
-        <![CDATA[Secretary-General António Guterres on Sunday expressed deep disappointment over the collapse of COP31 climate negotiations, using a visit to Barbados to call for stronger action on fossil fuels, climate finance and support for vulnerable nations.]]>
-      </description>
-      <source:markdown>Secretary-General António Guterres on Sunday expressed deep disappointment over the collapse of COP31 climate negotiations, using a visit to Barbados to call for stronger action on fossil fuels, climate finance and support for vulnerable nations.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/22-11-2026_SG-Mottley-presser.jpg/image560x340cropped.jpg" length="32403" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168856</guid>
-      <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
       <title>‘I had a better life in Iran’: Afghan women forced home struggle to rebuild</title>
       <link>https://news.un.org/feed/view/en/story/2026/11/1168852</link>
       <description>
@@ -4699,6 +4957,16 @@ Prince George&#39;s Meryeta O&#39;Dine suffered fractured ankle in a devastating
       <source:markdown>COP31 ended on Sunday without a climate pact after negotiators failed to overcome divisions over fossil fuels, bringing two weeks of talks and two days of overtime to a close that UN Secretary-General António Guterres described as a “deeply disappointing” setback.</source:markdown>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/22-11-2026_COP31-Close1.jpg/image560x340cropped.jpg" length="33107" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168855</guid>
+      <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Guterres laments COP31 outcome, urges climate justice from Barbados</title>
+      <link>https://news.un.org/feed/view/en/story/2026/11/1168856</link>
+      <description>
+        <![CDATA[Secretary-General António Guterres on Sunday expressed deep disappointment over the collapse of COP31 climate negotiations, using a visit to Barbados to call for stronger action on fossil fuels, climate finance and support for vulnerable nations.]]>
+      </description>
+      <source:markdown>Secretary-General António Guterres on Sunday expressed deep disappointment over the collapse of COP31 climate negotiations, using a visit to Barbados to call for stronger action on fossil fuels, climate finance and support for vulnerable nations.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/22-11-2026_SG-Mottley-presser.jpg/image560x340cropped.jpg" length="32403" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168856</guid>
       <pubDate>Sun, 22 Nov 2026 12:00:00 +0000</pubDate>
     </item>    <item>
       <title>B.C. couple lose business in devastating fire, credit volunteer firefighters with saving their home</title>
@@ -6807,26 +7075,6 @@ Todd Doherty, the MP for Cariboo-Prince George-Omineca, questioned the federal g
       <guid isPermaLink="false">cid://https://www.vaticannews.va/en/vatican-city/news/2026-11/holy-land-pizzaballa-gugerotti-visit-interview.html</guid>
       <pubDate>Fri, 20 Nov 2026 12:05:00 +0000</pubDate>
     </item>    <item>
-      <title>Bridgetown AI summit to tackle safety as risks outpace capacity to respond</title>
-      <link>https://news.un.org/feed/view/en/story/2026/11/1168854</link>
-      <description>
-        <![CDATA[UN Secretary-General&nbsp;António Guterres is heading to Barbados to co-host a special summit on artificial intelligence (AI) safety on Monday, aimed at closing the gap between accelerating risks and many countries’ capacity to deal with the pace of development.]]>
-      </description>
-      <source:markdown>UN Secretary-General António Guterres is heading to Barbados to co-host a special summit on artificial intelligence (AI) safety on Monday, aimed at closing the gap between accelerating risks and many countries’ capacity to deal with the pace of development.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/18-07-2023-UN-Photo-Guterres.jpg/image560x340cropped.jpg" length="32716" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168854</guid>
-      <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers</title>
-      <link>https://news.un.org/feed/view/en/story/2026/11/1168849</link>
-      <description>
-        <![CDATA[Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.]]>
-      </description>
-      <source:markdown>Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_OCHA_Palestine_olive_grove.jpg/image560x340cropped.jpg" length="53184" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168849</guid>
-      <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
       <title>‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling</title>
       <link>https://news.un.org/feed/view/en/story/2026/11/1168853</link>
       <description>
@@ -6875,6 +7123,26 @@ Todd Doherty, the MP for Cariboo-Prince George-Omineca, questioned the federal g
       <source:markdown>A group of countries from Europe, Africa, Latin America and the Pacific has challenged the proposed COP31 agreement, demanding explicit action on fossil fuels and stronger climate finance. With the summit due to close on Friday, tensions are rising as activists warn the talks are headed for failure, and negotiators search for a deal that nearly 200 governments can accept.</source:markdown>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/55662349225_208649f008_k.jpg/image560x340cropped.jpg" length="19490" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168845</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Bridgetown AI summit to tackle safety as risks outpace capacity to respond</title>
+      <link>https://news.un.org/feed/view/en/story/2026/11/1168854</link>
+      <description>
+        <![CDATA[UN Secretary-General&nbsp;António Guterres is heading to Barbados to co-host a special summit on artificial intelligence (AI) safety on Monday, aimed at closing the gap between accelerating risks and many countries’ capacity to deal with the pace of development.]]>
+      </description>
+      <source:markdown>UN Secretary-General António Guterres is heading to Barbados to co-host a special summit on artificial intelligence (AI) safety on Monday, aimed at closing the gap between accelerating risks and many countries’ capacity to deal with the pace of development.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/18-07-2023-UN-Photo-Guterres.jpg/image560x340cropped.jpg" length="32716" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168854</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers</title>
+      <link>https://news.un.org/feed/view/en/story/2026/11/1168849</link>
+      <description>
+        <![CDATA[Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.]]>
+      </description>
+      <source:markdown>Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_OCHA_Palestine_olive_grove.jpg/image560x340cropped.jpg" length="53184" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168849</guid>
       <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
     </item>    <item>
       <title>Canadian military will keep firing howitzers to trigger B.C. avalanches, pausing plan to end program</title>
@@ -8437,16 +8705,6 @@ Viola Baker says she was in bed Wednesday morning when she heard a big bang, and
       <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/cw1md5m39n35o#4</guid>
       <pubDate>Thu, 19 Nov 2026 12:01:35 +0000</pubDate>
     </item>    <item>
-      <title>COP31: Ambition goes missing as fossil fuel language drops from draft deal</title>
-      <link>https://news.un.org/feed/view/en/story/2026/11/1168839</link>
-      <description>
-        <![CDATA[A cat named Ambition went missing again at COP31 on Thursday. While activists delivered the message with humour, it reflected a serious concern: explicit references to moving away from fossil fuels had disappeared from the latest draft climate agreement. On the eve of the summit's scheduled close, ministers and the Presidency were still trying to bridge sharp differences as civil society groups pressed for stronger action.]]>
-      </description>
-      <source:markdown>A cat named Ambition went missing again at COP31 on Thursday. While activists delivered the message with humour, it reflected a serious concern: explicit references to moving away from fossil fuels had disappeared from the latest draft climate agreement. On the eve of the summit&#39;s scheduled close, ministers and the Presidency were still trying to bridge sharp differences as civil society groups pressed for stronger action.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/19-11-2026_COP31.jpg/image560x340cropped.jpg" length="40485" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168839</guid>
-      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
       <title>Battle to control GPS and radio signals raises civilian safety concerns</title>
       <link>https://news.un.org/feed/view/en/story/2026/11/1168843</link>
       <description>
@@ -8465,6 +8723,16 @@ Viola Baker says she was in bed Wednesday morning when she heard a big bang, and
       <source:markdown>The UN is adding new accountability measures to better support children fathered by peacekeepers, the Under-Secretary-General for Management Strategy, Policy and Compliance, Catherine Pollard, announced Thursday.</source:markdown>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2017/02/26787/image560x340cropped.jpg" length="21843" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168842</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>COP31: Ambition goes missing as fossil fuel language drops from draft deal</title>
+      <link>https://news.un.org/feed/view/en/story/2026/11/1168839</link>
+      <description>
+        <![CDATA[A cat named Ambition went missing again at COP31 on Thursday. While activists delivered the message with humour, it reflected a serious concern: explicit references to moving away from fossil fuels had disappeared from the latest draft climate agreement. On the eve of the summit's scheduled close, ministers and the Presidency were still trying to bridge sharp differences as civil society groups pressed for stronger action.]]>
+      </description>
+      <source:markdown>A cat named Ambition went missing again at COP31 on Thursday. While activists delivered the message with humour, it reflected a serious concern: explicit references to moving away from fossil fuels had disappeared from the latest draft climate agreement. On the eve of the summit&#39;s scheduled close, ministers and the Presidency were still trying to bridge sharp differences as civil society groups pressed for stronger action.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/19-11-2026_COP31.jpg/image560x340cropped.jpg" length="40485" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168839</guid>
       <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
     </item>    <item>
       <title>‘Losing the battle’: AI hands predators new ways to target children</title>
@@ -12967,16 +13235,6 @@ The Trump administration on Monday issued a rule that will further restrict Chin
       <guid isPermaLink="false">cid://https://www.bbc.co.uk/news/articles/cry49plv8v3go#1</guid>
       <pubDate>Mon, 16 Nov 2026 12:20:49 +0000</pubDate>
     </item>    <item>
-      <title>COP31 enters decisive week as climate talks face political test and AI initiatives gather pace</title>
-      <link>https://news.un.org/feed/view/en/story/2026/11/1168812</link>
-      <description>
-        <![CDATA[New international initiatives on artificial intelligence and green industrialization showcased technology’s growing role in climate action, even as negotiators remained deadlocked on finance, fossil fuels and adaptation ahead of the final stretch of the UN talks.]]>
-      </description>
-      <source:markdown>New international initiatives on artificial intelligence and green industrialization showcased technology’s growing role in climate action, even as negotiators remained deadlocked on finance, fossil fuels and adaptation ahead of the final stretch of the UN talks.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/16-11-2026_COP-31_01.jpg/image560x340cropped.jpg" length="35532" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168812</guid>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
       <title>AI gets climate science right – until users push back</title>
       <link>https://news.un.org/feed/view/en/story/2026/11/1168817</link>
       <description>
@@ -12985,6 +13243,16 @@ The Trump administration on Monday issued a rule that will further restrict Chin
       <source:markdown>The best AI models answer most climate science questions correctly, but they often abandon established facts as soon as a user disagrees, according to a new report co-authored by the UN.</source:markdown>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/16-11-2026_COP-31_02.jpg/image560x340cropped.jpg" length="26282" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168817</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>COP31 enters decisive week as climate talks face political test and AI initiatives gather pace</title>
+      <link>https://news.un.org/feed/view/en/story/2026/11/1168812</link>
+      <description>
+        <![CDATA[New international initiatives on artificial intelligence and green industrialization showcased technology’s growing role in climate action, even as negotiators remained deadlocked on finance, fossil fuels and adaptation ahead of the final stretch of the UN talks.]]>
+      </description>
+      <source:markdown>New international initiatives on artificial intelligence and green industrialization showcased technology’s growing role in climate action, even as negotiators remained deadlocked on finance, fossil fuels and adaptation ahead of the final stretch of the UN talks.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/16-11-2026_COP-31_01.jpg/image560x340cropped.jpg" length="35532" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168812</guid>
       <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
     </item>    <item>
       <title>‘Peace begins in our hearts’: Children close Muscat forum with a message to the world</title>
@@ -16528,6 +16796,16 @@ Forest Lawn Bakery — a long-standing family business in Calgary — has closed
       <category>Ireland</category>
       <pubDate>Fri, 13 Nov 2026 12:03:04 +0000</pubDate>
     </item>    <item>
+      <title>COP31: New initiative targets AI and reliable climate change information</title>
+      <link>https://news.un.org/feed/view/en/story/2026/11/1168798</link>
+      <description>
+        <![CDATA[New guidance has been issued to ensure that people everywhere can obtain credible climate change information from artificial intelligence (AI) and understand how the technology impacts the environment.&nbsp;]]>
+      </description>
+      <source:markdown>New guidance has been issued to ensure that people everywhere can obtain credible climate change information from artificial intelligence (AI) and understand how the technology impacts the environment.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/13-11-26%20IA%20Information%20Integrity.jpg/image560x340cropped.jpg" length="24203" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168798</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
       <title>Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount</title>
       <link>https://news.un.org/feed/view/en/story/2026/11/1168804</link>
       <description>
@@ -16546,16 +16824,6 @@ Forest Lawn Bakery — a long-standing family business in Calgary — has closed
       <source:markdown>From emotional appeals for climate justice to high-stakes negotiations over billions of dollars, finance dominated discussions at COP31 on Friday. UN Secretary-General António Guterres warned that even tripling adaptation funding for vulnerable countries would meet less than a third of their needs, as pressure mounted on wealthy nations and major polluters to pay their fair share.</source:markdown>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/13-11-2026_COP-31-03.jpg/image560x340cropped.jpg" length="36391" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168802</guid>
-      <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>COP31: New initiative targets AI and reliable climate change information</title>
-      <link>https://news.un.org/feed/view/en/story/2026/11/1168798</link>
-      <description>
-        <![CDATA[New guidance has been issued to ensure that people everywhere can obtain credible climate change information from artificial intelligence (AI) and understand how the technology impacts the environment.&nbsp;]]>
-      </description>
-      <source:markdown>New guidance has been issued to ensure that people everywhere can obtain credible climate change information from artificial intelligence (AI) and understand how the technology impacts the environment.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/13-11-26%20IA%20Information%20Integrity.jpg/image560x340cropped.jpg" length="24203" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168798</guid>
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
     </item>    <item>
       <title>DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response</title>
@@ -19316,6 +19584,16 @@ The Republicans may have just lost control of the House of Representatives in re
       <category>News/World</category>
       <pubDate>Wed, 11 Nov 2026 12:01:02 +0000</pubDate>
     </item>    <item>
+      <title>From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected</title>
+      <link>https://news.un.org/feed/view/en/story/2026/11/1168787</link>
+      <description>
+        <![CDATA[Early warning systems are saving lives across the globe, but for millions of people the warning never arrives, UN Secretary-General António Guterres said on Wednesday, urging the world to protect every person on Earth by the end of 2027.]]>
+      </description>
+      <source:markdown>Early warning systems are saving lives across the globe, but for millions of people the warning never arrives, UN Secretary-General António Guterres said on Wednesday, urging the world to protect every person on Earth by the end of 2027.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/31-05-2023-UNDP-Cambodia-EWS.jpg/image560x340cropped.jpg" length="44330" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168787</guid>
+      <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
       <title>Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support</title>
       <link>https://news.un.org/feed/view/en/story/2026/11/1168788</link>
       <description>
@@ -19334,16 +19612,6 @@ The Republicans may have just lost control of the House of Representatives in re
       <source:markdown>UN chief António Guterres called for a new global climate justice agreement at COP31 on Wednesday, urging governments to tax fossil fuel companies to help countries bearing the brunt of a crisis they did little to cause. His appeal came as world leaders gathered in Antalya amid unresolved questions over climate finance and the future of fossil fuels.</source:markdown>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/11-11-2026_COP31.jpg/image560x340cropped.jpg" length="39266" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168783</guid>
-      <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected</title>
-      <link>https://news.un.org/feed/view/en/story/2026/11/1168787</link>
-      <description>
-        <![CDATA[Early warning systems are saving lives across the globe, but for millions of people the warning never arrives, UN Secretary-General António Guterres said on Wednesday, urging the world to protect every person on Earth by the end of 2027.]]>
-      </description>
-      <source:markdown>Early warning systems are saving lives across the globe, but for millions of people the warning never arrives, UN Secretary-General António Guterres said on Wednesday, urging the world to protect every person on Earth by the end of 2027.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/31-05-2023-UNDP-Cambodia-EWS.jpg/image560x340cropped.jpg" length="44330" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168787</guid>
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
     </item>    <item>
       <title>Lebanon: Devastation awaits returnees as UN peacekeepers prepare exit</title>
@@ -20944,16 +21212,6 @@ A CBC News copy editor turned into one half of an unexpected comedy duo in a vid
       <category>News/Canada/British Columbia</category>
       <pubDate>Tue, 10 Nov 2026 12:15:53 +0000</pubDate>
     </item>    <item>
-      <title>COP31: Energy transition takes centre stage as countries map path beyond fossil fuels</title>
-      <link>https://news.un.org/feed/view/en/story/2026/11/1168775</link>
-      <description>
-        <![CDATA[The global energy transition took centre stage on the second day of COP31, as countries explored how to move away from fossil fuels, accelerate clean energy and overcome financial and infrastructure barriers standing in the way.]]>
-      </description>
-      <source:markdown>The global energy transition took centre stage on the second day of COP31, as countries explored how to move away from fossil fuels, accelerate clean energy and overcome financial and infrastructure barriers standing in the way.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-Adobe-Stock-renewable-energy-01.jpg/image560x340cropped.jpg" length="36524" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168775</guid>
-      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
       <title>Climate crisis could push 141 million more women into extreme poverty</title>
       <link>https://news.un.org/feed/view/en/story/2026/11/1168770</link>
       <description>
@@ -20962,6 +21220,16 @@ A CBC News copy editor turned into one half of an unexpected comedy duo in a vid
       <source:markdown>More than one in three women and girls worldwide – roughly 1.5 billion – live in so-called “climate hotspots”, where high exposure to hazards such as cyclones and droughts combine with insecure jobs and deep gender inequality.</source:markdown>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/21-08-2026-UNICEF-South-Sudan-02.jpg/image560x340cropped.jpg" length="39353" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168770</guid>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>COP31: Energy transition takes centre stage as countries map path beyond fossil fuels</title>
+      <link>https://news.un.org/feed/view/en/story/2026/11/1168775</link>
+      <description>
+        <![CDATA[The global energy transition took centre stage on the second day of COP31, as countries explored how to move away from fossil fuels, accelerate clean energy and overcome financial and infrastructure barriers standing in the way.]]>
+      </description>
+      <source:markdown>The global energy transition took centre stage on the second day of COP31, as countries explored how to move away from fossil fuels, accelerate clean energy and overcome financial and infrastructure barriers standing in the way.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-Adobe-Stock-renewable-energy-01.jpg/image560x340cropped.jpg" length="36524" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168775</guid>
       <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
     </item>    <item>
       <title>World News in Brief: Ending cholera by 2030 ‘within reach’, Haiti displacement and hunger, US human rights review rescheduled</title>
@@ -29094,16 +29362,6 @@ A senior Democrat says his party will work to end U.S. President Donald Trump&#3
       <category>Ukraine</category>
       <pubDate>Wed, 04 Nov 2026 12:09:05 +0000</pubDate>
     </item>    <item>
-      <title>Fuel price shock: Why developing economies are paying the most at the pump</title>
-      <link>https://news.un.org/feed/view/en/story/2026/11/1168738</link>
-      <description>
-        <![CDATA[When war shut the Strait of Hormuz in February, oil prices soared everywhere. But the pain at the pump has been far from equal, and the world’s developing economies are paying the heaviest price, according to a&nbsp;new report from UNCTAD, the UN trade and development agency.]]>
-      </description>
-      <source:markdown>When war shut the Strait of Hormuz in February, oil prices soared everywhere. But the pain at the pump has been far from equal, and the world’s developing economies are paying the heaviest price, according to a new report from UNCTAD, the UN trade and development agency.</source:markdown>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/04-11-2026-Adobe-Stock-fuel-station.jpg/image560x340cropped.jpg" length="30801" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168738</guid>
-      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
-    </item>    <item>
       <title>Afghan children face narrowing path to education, UN agencies report</title>
       <link>https://news.un.org/feed/view/en/story/2026/11/1168732</link>
       <description>
@@ -29132,6 +29390,16 @@ A senior Democrat says his party will work to end U.S. President Donald Trump&#3
       <source:markdown>The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.</source:markdown>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNICEF-Bangladesh-02.jpg/image560x340cropped.jpg" length="40102" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168735</guid>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Fuel price shock: Why developing economies are paying the most at the pump</title>
+      <link>https://news.un.org/feed/view/en/story/2026/11/1168738</link>
+      <description>
+        <![CDATA[When war shut the Strait of Hormuz in February, oil prices soared everywhere. But the pain at the pump has been far from equal, and the world’s developing economies are paying the heaviest price, according to a&nbsp;new report from UNCTAD, the UN trade and development agency.]]>
+      </description>
+      <source:markdown>When war shut the Strait of Hormuz in February, oil prices soared everywhere. But the pain at the pump has been far from equal, and the world’s developing economies are paying the heaviest price, according to a new report from UNCTAD, the UN trade and development agency.</source:markdown>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/04-11-2026-Adobe-Stock-fuel-station.jpg/image560x340cropped.jpg" length="30801" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://news.un.org/en/story/2026/11/1168738</guid>
       <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
     </item>    <item>
       <title>UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara</title>

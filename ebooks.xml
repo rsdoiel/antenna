@@ -5,8 +5,8 @@
     <title><![CDATA[eBooks]]></title>
     <description><![CDATA[New eBook releases.]]></description>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>25 Nov 26 08:14 -0800</lastBuildDate>
-    <generator>antenna/0.2.0</generator>
+    <lastBuildDate>25 Nov 26 10:23 -0800</lastBuildDate>
+    <generator>antenna/0.2.1</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Confessions of Zeno</title>

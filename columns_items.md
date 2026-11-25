@@ -3,9 +3,9 @@ title: "Columns"
 description: "Blogs, columns and snapshots from around the web."
 pubDate: Sat, 01 Jun 2030 13:00:00 GMT
 aggregateOf: "columns.md"
-dateModified: Wed, 25 Nov 2026 16:30:04 GMT
-itemCount: 1285
-generator: antenna/0.2.0
+dateModified: Wed, 25 Nov 2026 18:20:25 GMT
+itemCount: 1293
+generator: antenna/0.2.1
 ---
 
 # Columns
@@ -23,6 +23,105 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+
+## [Have You Tried Using Your Agent?](https://blog.jim-nielsen.com/2026/have-you-tried-your-agent/)
+
+via Jim Nielsen blog · 2026-11-25
+
+In 2025, I wrote down [some thoughts on “AX”](https://blog.jim-nielsen.com/2025/thoughts-on-ax/). My fear was that AX would end up becoming the top priority for people building software. (I’m not _against_ AX, I would simply prefer a priority of constituencies where the human experience is top.)
+
+So where are we today?
+
+I feel like we’re building things that are increasingly accessible to robots while remaining inaccessible to people.
+
+And I’m nervous that the collective posture of technologists towards this trend is not, “We should make this more accessible to our fellow humans.” But rather, “Humans should use their agents to access our thing.”
+
+In other words: instead of making things for each other, we’re spending our time and attention making things for machines.
+
+“Is it accessible?” sometimes feels as though it colloquially means, “Can an AI agent access it?” And since the agent’s work is purportedly on our behalf, making something accessible to a machine counts as making it accessible to a human.
+
+I’m afraid of conversations by software makers increasingly going like this:
+
+“Are we ready to ship? Does it work for the AI?”
+
+“Yes — but you can’t really use it yourself.”
+
+“That’s ok, ship it. We can always fix that later — but also, who even does things themselves anymore? lol.”
+
+I’m nervous of my interactions with organizations increasingly being along the lines of, “Your thing isn’t working for me.” And their default response being, “Did you try using your AI agent?”
+
+We already built a world that increasingly sidelines people without smartphones. My parents struggle with everything from flying, to using grocery store coupons, to verifying their identity because they don’t have a smartphone.
+
+In another 10-20 years, will the same be true but with AI agents?
+
+The question, “Have you tried downloading our app?” will transform into, “Have you tried using your agent with ours?”
+
+* * *
+
+Reply via:
+[Email](mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2026/have-you-tried-your-agent/)
+· [Mastodon](https://mastodon.social/@jimniels) ·
+[Bluesky](https://bsky.app/profile/jim-nielsen.com)
+
+## [Dean's LIVE with Pete Dominick: Thanksgiving, Trump Crime Family Grift in Overdrive - Welcome to “The Humpday Mixer”](https://deanblundell.substack.com/p/deans-live-with-pete-dominick-thanksgiving)
+
+via Dean Blundell Substack · 2026-11-25
+
+The inaugural Hump Day Mixer with Pete Dominick: $15 billion for Don Jr., $300 million for a ballroom, and Eric gets wrecked.
+
+## [Pictures from performance.now() in Amsterdam, including me blabbing away on stage: https://perfnow.nl/2026/photos/](https://adactio.com/notes/22848)
+
+via Jeremy Keith Blog · 2026-11-25
+
+Pictures from performance.now() in Amsterdam, including me blabbing away on stage:
+
+[https://perfnow.nl/2026/photos/](https://perfnow.nl/2026/photos/)
+
+## [This Week In The Big Picture](https://thinkbigpicture.substack.com/p/week-big-picture-november-25)
+
+via Think Big Picture · 2026-11-25
+
+Now that the 2026 midterms are in the rearview mirror, the 2028 campaign cycle is almost upon us.
+
+## [My coworker](https://adactio.com/notes/22847)
+
+via Jeremy Keith Blog · 2026-11-25
+
+![My coworker](https://adactio.com/images/uploaded/22847/small.jpg)
+
+My coworker
+
+## [Keep calm and carry Raspberry Pi: the computer in my three-day kit](https://www.raspberrypi.com/news/keep-calm-and-carry-raspberry-pi-the-computer-in-my-three-day-kit/)
+
+via Raspberry Pi News (.com) · 2026-11-25
+
+This Raspberry Pi kit will come in handy if the broadband or power goes out at home.
+
+The post [Keep calm and carry Raspberry Pi: the computer in my three-day kit](https://www.raspberrypi.com/news/keep-calm-and-carry-raspberry-pi-the-computer-in-my-three-day-kit/) appeared first on [Raspberry Pi](https://www.raspberrypi.com).
+
+## [Amsterdammed](https://adactio.com/journal/22846)
+
+via Jeremy Keith Blog · 2026-11-25
+
+I was in Amsterdam last week, giving the closing talk at the [performance.now()](https://perfnow.nl/) conference.
+
+Fun fact: my favourite speaking slot is first thing, first day. I can get the talk done and then relax and enjoy the rest of the conference. So I wasn’t entirely relaxed for the duration of this particular event, but I did really enjoy the other talks.
+
+Except that by the time my talk slot rolled around, every bit of useful information in the talk had already been delivered by the other speakers. Honestly I could’ve just stood on stage and said “Listen to what Alex, Aleth, Scott, Tim, Tammy, and frankly everyone else said!”
+
+In a way it was gratifying that some of the same themes came up more than once. “Use progressive enhancement” could’ve been the motto of the event.
+
+In the end, I really enjoyed giving my talk. That’s because I was talking about [The Session](https://thesession.org/), something I don’t often get to do. And it was fairly straightforward to put the talk together because, over the years, I’ve [blogged about performance tweaks](https://adactio.com/journal/tags/performance,thesession) I’ve made to the site. Thank you, past me, for doing all that groundwork for present me.
+
+[Other people](https://bsky.app/profile/tkadlec.bsky.social/post/3n2qyx2jjes2u) [seemed to like](https://front-end.social/@stephaniewalter/117649787430450252) [the talk](https://www.linkedin.com/posts/perfnow-webperf-ugcPost-7529592103358816256-fNUL/) too, which is nice.
+
+I always enjoy visiting Amsterdam, especially when I get to stay at [the charming hotel](https://wordridden.com/notes/1108) that [ppk](https://quirksmode.org/) always uses.
+
+It was my first time being at [performance.now()](https://perfnow.nl/), even though I’ve been to ppk’s other conference, [CSS Day](https://cssday.nl/), many times.
+
+That meant that this was my first time being in Amsterdam in November. It was great! Far fewer tourists. And the wintery atmosphere felt magical.
+
+It helped that there was a dedicated boat service to take us from the hotel to the conference venue and back. That was a real highlight of the trip. It also helped that the travel to and from Amsterdam was on the Eurostar. Taking a train under the sea never gets old.
 
 ## [TheyDream: terapia familiar a través del cine animado](https://www.palomitademaiz.net/resenas-theydream/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-theydream)
 
@@ -185,6 +284,24 @@ Daniel Meissler is [tracking](https://newsletter.danielmiessler.com/p/whos-hacki
 via Borowitz Report · 2026-11-25
 
 Watch now (18 mins) \| In 2008, I almost died. (Spoiler: I didn’t)
+
+## [Jensen Huang Is Back + AI Solves the Riemann Hypothesis](https://www.npr.org/2026/11/25/nx-s1-6053205/jensen-huang-is-back-and-ai-solves-the-riemann-hypothesis)
+
+via Machine Gods, NPR · 2026-11-25
+
+On Monday morning we woke up to the shocking news that Jensen Huang is back at the helm of Nvidia, after the board of the company received some input from “senior levels” of the U.S. government. We get into what role President Trump and JD Vance played, how much of this is about the stock market, and why those celebrating his return might want to reconsider.
+
+Then, Levent Alpöge, a mathematician at Anthropic, says he and Claude proved the Riemann hypothesis, a problem that's stumped the math world since 1859. We explain how mathematicians are reacting, and ask how many other domains out there might be subject to this same kind of accelerating progress.
+
+And finally, we answer one listener’s question timed to Thanksgiving: What are three AI talking points you would have ready to share with your family?
+
+For a transcript of this episode, select the episode on [npr.org/machinegods](http://npr.org/machinegods).
+
+You can watch this full episode on [YouTube](https://www.youtube.com/@machinegodspod), [Spotify](https://open.spotify.com/show/5kxu4uluMq6jUuoNPGyZMu) or [Apple Podcasts](https://podcasts.apple.com/us/podcast/machine-gods/id6812430636). And if you’ve got a question you want us to answer, you can drop us a comment on any of those platforms or email us at [hey@machinegods.fm](mailto:hey@machinegods.fm).
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)
 
 ## [Jensen Huang Is Back + AI Solves the Reimann Hypothesis](https://www.npr.org/2026/11/25/nx-s1-6053205/jensen-huang-is-back-and-ai-solves-the-reimann-hypothesis)
 
@@ -965,15 +1082,15 @@ So we set out to improve it and rewrote it from the ground up. A few days ago we
 
 1. In the CoMaps app, after selecting a location, you can hit the share button.
 
-![Screenshot of CoMaps app with a red arrow and circle highlighting the share button](app-share-button.png)
+![Screenshot of CoMaps app with a red arrow and circle highlighting the share button](https://www.comaps.app/news/2026-11-23/new-comaps-web/app-share-button.png)
 
 2. This generates some text with the link that you can send to your friend.
 
-![Screenshot of CoMaps app with a red arrow and circle highlighting the share button](text-message.png)
+![Screenshot of CoMaps app with a red arrow and circle highlighting the share button](https://www.comaps.app/news/2026-11-23/new-comaps-web/text-message.png)
 
 3. When they open the link, they will see the location on the map and be able to open the location in their map app of choice (more options coming soon) or copy the coordinates.
 
-![Screenshot of CoMaps Web on mobile showing Victory Caffe on the map. There are two main buttons: 'Open In' and 'Copy As'](comaps.at.png)![Screenshot of CoMaps Web with Open In menu active. Lists CoMaps, Cartes.app, Google Maps, Apple Maps, OpenStreeMap](open-in.png)![Screenshot of CoMaps Web with Copy As menu active. Lists a variety of copyable coordinate options](copy-as.png)![CoMaps Web as viewed on desktop and with dark mode enabled. The location displayed is Victory Caffe](desktop-dark-mode.png)CoMaps Web as viewed on desktop and with dark mode enabled
+![Screenshot of CoMaps Web on mobile showing Victory Caffe on the map. There are two main buttons: 'Open In' and 'Copy As'](https://www.comaps.app/news/2026-11-23/new-comaps-web/comaps.at.png)![Screenshot of CoMaps Web with Open In menu active. Lists CoMaps, Cartes.app, Google Maps, Apple Maps, OpenStreeMap](https://www.comaps.app/news/2026-11-23/new-comaps-web/open-in.png)![Screenshot of CoMaps Web with Copy As menu active. Lists a variety of copyable coordinate options](https://www.comaps.app/news/2026-11-23/new-comaps-web/copy-as.png)![CoMaps Web as viewed on desktop and with dark mode enabled. The location displayed is Victory Caffe](https://www.comaps.app/news/2026-11-23/new-comaps-web/desktop-dark-mode.png)CoMaps Web as viewed on desktop and with dark mode enabled
 
 Now you and your friend can both head to the restaurant without worrying about coordinates or which map app you each use.
 FYI Victory Caffe is one of my favorite restaurants; here's the link: https://comaps.at/0jkXRrQtf5/Victory\_Caffe
@@ -1451,7 +1568,7 @@ The institutional power of police may seem like a permanent and natural feature 
 
 ## [Citizen science with Raspberry Pi](https://www.raspberrypi.com/news/citizen-science-with-raspberry-pi/)
 
-via Raspberry Pi News (.com) · 2026-11-23
+via Raspberry Pi News (.com) · 2026-11-23, updated 2026-11-25
 
 This Maker Monday, we look at ways environmentalists are using Raspberry Pi to understand the world around them.
 
@@ -2014,7 +2131,7 @@ Welcome to Altaplana, the impossible and infinite encyclopedia of the
 world of The Obscure Cities, originally named Les Cités Obscures and its
 authors François Schuiten and Benoît Peeters.
 
-[cities](/tag/cities/) [encyclopedia](/tag/encyclopedia/) [fantasy](/tag/fantasy/) [wiki](/tag/wiki/)
+[cities](https://inkdroid.org/tag/cities/) [encyclopedia](https://inkdroid.org/tag/encyclopedia/) [fantasy](https://inkdroid.org/tag/fantasy/) [wiki](https://inkdroid.org/tag/wiki/)
 
 ### 🔖 [20X](https://wiki.xxiivv.com/site/now\#20X)
 
@@ -2025,7 +2142,7 @@ nicer, and along the way adjusting things in near imperceptible ways. A
 tidy desk, a pleasant interface, a comfortable tool, a few years later
 you end up somewhere that indicentally looks like degrowth.
 
-[degrowth](/tag/degrowth/) [design](/tag/design/) [permacomputing](/tag/permacomputing/)
+[degrowth](https://inkdroid.org/tag/degrowth/) [design](https://inkdroid.org/tag/design/) [permacomputing](https://inkdroid.org/tag/permacomputing/)
 
 ### 🔖 [The Toolsmith](https://blog.fsck.com/2026/11/17/toolsmith/)
 
@@ -2038,7 +2155,7 @@ can think of that subagent as something like a digital version of James
 Bond’s Q. It’s responsible for building, maintaining, and cataloging all
 of the weird, bespoke tools that help your agent get its work done.
 
-[llm](/tag/llm/) [programming](/tag/programming/) [skills](/tag/skills/)
+[llm](https://inkdroid.org/tag/llm/) [programming](https://inkdroid.org/tag/programming/) [skills](https://inkdroid.org/tag/skills/)
 
 ### 🔖 [Free Folk Lowlife](https://programming.weru.org/EastVillageRadio/show/276122/Free-Folk-Lowlife)
 
@@ -2048,7 +2165,7 @@ all forms of sonic architecture and genreless free folk along with deep
 nugs from the child of microtones terran library of exploratory music.
 gonna dive in the tubs get wet -> you are here…
 
-[folk](/tag/folk/) [radio](/tag/radio/)
+[folk](https://inkdroid.org/tag/folk/) [radio](https://inkdroid.org/tag/radio/)
 
 ### 🔖 [Measuring what the crawler sees](https://blog.commoncrawl.org/blog/measuring-what-the-crawler-sees)
 
@@ -2070,7 +2187,7 @@ come in sequence, and the web keeps changing between them. Pages the
 first sample missed and pages that no longer exist both show up as “not
 seen again”, and a naïve overlap mixes them.
 
-[commoncrawl](/tag/commoncrawl/) [crawling](/tag/crawling/) [web-archives](/tag/web-archives/)
+[commoncrawl](https://inkdroid.org/tag/commoncrawl/) [crawling](https://inkdroid.org/tag/crawling/) [web-archives](https://inkdroid.org/tag/web-archives/)
 
 ### 🔖 [Old, Polluting Jet Engines Are Being Scavenged to Power Data Centers](https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html)
 
@@ -2080,7 +2197,7 @@ company, launched a division that converts retired engines from Boeing
 joint venture signed a $1.5 billion agreement to supply converted
 turbines to a data-center developer.
 
-[airplanes](/tag/airplanes/) [data-centers](/tag/data-centers/) [energy](/tag/energy/) [environment](/tag/environment/) [pollution](/tag/pollution/)
+[airplanes](https://inkdroid.org/tag/airplanes/) [data-centers](https://inkdroid.org/tag/data-centers/) [energy](https://inkdroid.org/tag/energy/) [environment](https://inkdroid.org/tag/environment/) [pollution](https://inkdroid.org/tag/pollution/)
 
 ### 🔖 [Spinach Artichoke White Bean Soup](https://plantbasedrdblog.com/2025/10/spinach-artichoke-white-bean-soup/)
 
@@ -2088,7 +2205,7 @@ A cozy cream spinach artichoke white bean soup that is packed with
 nutrition, but feels like you are enjoying your favorite savory dip in
 soup form.
 
-[recipes](/tag/recipes/) [soups](/tag/soups/)
+[recipes](https://inkdroid.org/tag/recipes/) [soups](https://inkdroid.org/tag/soups/)
 
 ### 🔖 [From AI rabbit holes to a warm den: co-building the Inference\ Cooperative](https://nathanschneider.info/2026/11/from-ai-rabbit-holes-to-a-warm-den-co-building-the-inference-cooperative/)
 
@@ -2101,7 +2218,7 @@ open-weights models. I hope that someday we will offer models that
 specialize in less-resourced languages and use-cases, and that serve the
 needs of people farthest from the centers of power.
 
-[ai](/tag/ai/) [coop](/tag/coop/)
+[ai](https://inkdroid.org/tag/ai/) [coop](https://inkdroid.org/tag/coop/)
 
 ### 🔖 [Here’s how anyone can easily use private, open weight models](https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/)
 
@@ -2120,7 +2237,7 @@ doing similar things. I like software like OpenCode and Pi, and there
 are other good providers too. Everything, including what models are
 available, changes constantly.
 
-[llm](/tag/llm/) [localfirst](/tag/localfirst/)
+[llm](https://inkdroid.org/tag/llm/) [localfirst](https://inkdroid.org/tag/localfirst/)
 
 ### 🔖 [SciopStories for WDPD2026](https://blog.sciop.net/2026-11-15/sciop-stories-wdpd26)
 
@@ -2140,7 +2257,7 @@ Here we have compiled all twelve datasets and their accompanying stories
 in one place, after - all in all they showcase the breadth of what we
 and our community have accomplished since early 2025.
 
-[gov](/tag/gov/) [preservation](/tag/preservation/) [web-archives](/tag/web-archives/)
+[gov](https://inkdroid.org/tag/gov/) [preservation](https://inkdroid.org/tag/preservation/) [web-archives](https://inkdroid.org/tag/web-archives/)
 
 ### 🔖 [openspec](https://openspec.dev/)
 
@@ -2154,7 +2271,7 @@ and verify that the implementation matches.
 
 In essence, OpenSpec helps you build the right thing and build it right.
 
-[design](/tag/design/) [llm](/tag/llm/) [skills](/tag/skills/)
+[design](https://inkdroid.org/tag/design/) [llm](https://inkdroid.org/tag/llm/) [skills](https://inkdroid.org/tag/skills/)
 
 ### 🔖 [pixelfx](https://github.com/patch-gg/pixelfx)
 
@@ -2169,7 +2286,7 @@ Every effect that involves a character is acted out: he winds up, lets
 go, freezes on contact and recovers, and a target takes the hit. Twelve
 whole moves chain the effects into attacks from wind-up to recovery.
 
-[animation](/tag/animation/) [design](/tag/design/) [skills](/tag/skills/)
+[animation](https://inkdroid.org/tag/animation/) [design](https://inkdroid.org/tag/design/) [skills](https://inkdroid.org/tag/skills/)
 
 ### 🔖 [ffmpeg-skill](https://kajisho5.github.io/ffmpeg-skill/)
 
@@ -2186,7 +2303,7 @@ client context small, with FFMPEG\_SKILL\_MCP\_FULL=1 listing all 42; every
 tool is reachable by name through tools/call either way), and the whole
 set is described by a machine-readable contract.
 
-[ffmpeg](/tag/ffmpeg/) [skills](/tag/skills/) [video](/tag/video/)
+[ffmpeg](https://inkdroid.org/tag/ffmpeg/) [skills](https://inkdroid.org/tag/skills/) [video](https://inkdroid.org/tag/video/)
 
 ---
 
@@ -3086,7 +3203,7 @@ Sparkles on the screen. [Read here.](https://www.robinsloan.com/lab/human-voice/
 
 ## [Ask an engineer – exclusive advice from the brains behind Raspberry Pi](https://www.raspberrypi.com/news/ask-an-engineer-exclusive-advice-from-the-brains-behind-raspberry-pi/)
 
-via Raspberry Pi News (.com) · 2026-11-20, updated 2026-11-23
+via Raspberry Pi News (.com) · 2026-11-20, updated 2026-11-25
 
 Meet a few of the Raspberry Pi engineers who create our devices and make sure they keep working for you.
 
@@ -3746,7 +3863,7 @@ Today's links How to forfeit one of copyright's best labor policies: Author bewa
 
 ## [Mechatronics engineering as a form of artistic expression](https://www.raspberrypi.com/news/mechatronics-engineering-as-a-form-of-artistic-expression/)
 
-via Raspberry Pi News (.com) · 2026-11-19, updated 2026-11-23
+via Raspberry Pi News (.com) · 2026-11-19, updated 2026-11-25
 
 "What started as me sharing my projects became a way to keep building and connect with people."
 
@@ -5110,13 +5227,13 @@ via Alex Schroeder's Blog · 2026-11-17
 
 ### 2026-11-17 AI Werke interessieren mich nicht
 
-Letzthin fragte mich jemand, ob die einen der AI-übersetzten Blog Artikel gelesen oder einen AI-gesprochenen Podcast Episoden gehört habe und ich habe verneint. Klar, kurz einen Artikel überflogen, in eine Episode kurz reingezappt. Aber ich bin leider aus sehr vielen Gründen AI Gegner. Zum Thema habe ich endlos Blog Artikel geschrieben – siehe [AI](AI) und [Butlers Jihad](Butlerian_Jihad) – und [Bookmarks](Artificial_Intelligence_Bookmarks) angelegt.
+Letzthin fragte mich jemand, ob die einen der AI-übersetzten Blog Artikel gelesen oder einen AI-gesprochenen Podcast Episoden gehört habe und ich habe verneint. Klar, kurz einen Artikel überflogen, in eine Episode kurz reingezappt. Aber ich bin leider aus sehr vielen Gründen AI Gegner. Zum Thema habe ich endlos Blog Artikel geschrieben – siehe [AI](https://alexschroeder.ch/view/AI) und [Butlers Jihad](https://alexschroeder.ch/view/Butlerian_Jihad) – und [Bookmarks](https://alexschroeder.ch/view/Artificial_Intelligence_Bookmarks) angelegt.
 
 Im aktuellen Kontext ist mir die Idee von _Provenance_ besonders wichtig, also der Herkunft von Kunstobjekten. Das kennst man vielleicht aus der Kunstgeschichte: Wenn ich als Museum ein Stück ausstelle, ist nicht nur wichtig, ob es ein gutes Kunstwerk ist, sondern auch woher es kommt, ob es rechtmässig erworben wurde, mit allen Komplikationen, siehe Raubkunst, Kolonialismus und so weiter. So erklärt sich, warum ich das AI generierte Werk nicht lesen oder hören muss, um entscheiden zu können, dass es mich nicht interessiert. Das menschliche Element am Kunstwerk ist das einzige Element, das mich interessiert.
 
 Will mir jemand ein Verzeichnis AI generierter Werke zum schmökern geben, bin ich sofort desinteressiert. Warum sollte ich maschinengenerierte Bücher lesen wollen? Da will mir ja gar niemand etwas sagen. Entsprechend will ich an so einem Verzeichnis nicht beteiligt sein.
 
-[#AI](/search/?q=%23AI) [#Butlerian Jihad](/search/?q=%23Butlerian_Jihad)
+[#AI](https://alexschroeder.ch/search/?q=%23AI) [#Butlerian Jihad](https://alexschroeder.ch/search/?q=%23Butlerian_Jihad)
 
 ## [Formal Verification of the Signal Protocol Using AI](https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html)
 
@@ -5297,9 +5414,9 @@ In order to make it:
 
 Note that 2.5% salt is more than the typical recommendation of 1–2% salt that I’ve seen elsewhere, but [@cthulku](https://zeroes.ca/@cthulku "@cthulku@zeroes.ca") suggested it, and the extra water, and I think it’s working. When you get to 5–10% salt then it starts to taste really salty; 2.5% salt is fine.
 
-![A one liter glass jar about half full of sauerkraut, with a lid. This is the cabbage in its own water. I added an extra cup of salt water in order to make sure that it got covered.](2026-11-16-sauerkraut-1.jpg)
+![A one liter glass jar about half full of sauerkraut, with a lid. This is the cabbage in its own water. I added an extra cup of salt water in order to make sure that it got covered.](https://alexschroeder.ch/view/2026-11-16-sauerkraut-1.jpg)
 
-[#Cooking](/search/?q=%23Cooking)
+[#Cooking](https://alexschroeder.ch/search/?q=%23Cooking)
 
 **2026-11-17**. Thinking about it some more I think that once the kraut is sauer, it can go into the fridge. After all, the fridge is already running so why not use it.
 
@@ -5576,7 +5693,7 @@ via Alex Schroeder's Blog · 2026-11-16
 
 ### 2026-11-13 Working on a code of conduct
 
-I was [looking for a short code of conduct](2026-11-02-code-of-conduct) and did not find any.
+I was [looking for a short code of conduct](https://alexschroeder.ch/view/2026-11-02-code-of-conduct) and did not find any.
 I’m thinking about the following, however.
 
 * * *
@@ -5618,11 +5735,11 @@ Activity](https://destructured.net/casa) (CASA):
 I’m a but unsure about the CASA principles. I need to think some more about that.
 An extra paragraph that talks about “a person’s agency” and “a person’s utility”, perhaps.
 
-[#Programming](/search/?q=%23Programming) [#Ethics](/search/?q=%23Ethics)
+[#Programming](https://alexschroeder.ch/search/?q=%23Programming) [#Ethics](https://alexschroeder.ch/search/?q=%23Ethics)
 
-**2026-11-14**. Made a local copy of [CASA](casa).
+**2026-11-14**. Made a local copy of [CASA](https://alexschroeder.ch/view/casa).
 
-**2026-11-16**. I’m using this [for Oddmu](oddmu/CONDUCT), now.
+**2026-11-16**. I’m using this [for Oddmu](https://alexschroeder.ch/view/oddmu/CONDUCT), now.
 
 ---
 
@@ -5774,7 +5891,7 @@ I know I should be grateful for having it so good for so long, but right now I'm
 
 ## [Turn your Raspberry Pi into a classic games machine](https://www.raspberrypi.com/news/turn-your-raspberry-pi-into-a-classic-games-machine/)
 
-via Raspberry Pi News (.com) · 2026-11-16, updated 2026-11-23
+via Raspberry Pi News (.com) · 2026-11-16, updated 2026-11-25
 
 Make use of Raspberry Pi's ability to run emulation software to replicate a wide range of classic consoles and computers.
 
@@ -6624,7 +6741,7 @@ allowing for active re-imagination of just futures. By refusing
 technological inevitablility we enable forms of resistance to emerge and
 alternative techno-futures to be considered.
 
-[computing](/tag/computing/) [permacomputing](/tag/permacomputing/) [politics](/tag/politics/)
+[computing](https://inkdroid.org/tag/computing/) [permacomputing](https://inkdroid.org/tag/permacomputing/) [politics](https://inkdroid.org/tag/politics/)
 
 ### 🔖 [Writing Uncanny Fiction: Writing Advice from Jeff VanderMeer](https://theepilogue.net/episodes/writing-uncanny-writing-advice-from-jeff-vandermeer/)
 
@@ -6633,7 +6750,7 @@ seriously), take a journey into the uncanny with award-winning author
 Jeff VanderMeer where we explore his multiple novel universes and
 discuss his fantastic writing craft book, Wonderbook.
 
-[interviews](/tag/interviews/) [scifi](/tag/scifi/) [writing](/tag/writing/)
+[interviews](https://inkdroid.org/tag/interviews/) [scifi](https://inkdroid.org/tag/scifi/) [writing](https://inkdroid.org/tag/writing/)
 
 ### 🔖 [shelf](https://github.com/dgahagan/shelf)
 
@@ -6642,13 +6759,13 @@ shelves (AI vision), auto-fetch metadata & covers, track lending,
 series, and reading. Offline bookstore mode (PWA). FastAPI + SQLite +
 HTMX, single Docker container.
 
-[books](/tag/books/) [catalogs](/tag/catalogs/) [python](/tag/python/)
+[books](https://inkdroid.org/tag/books/) [catalogs](https://inkdroid.org/tag/catalogs/) [python](https://inkdroid.org/tag/python/)
 
 ### 🔖 [CCBot: the\ great crawl](https://game.commoncrawl.org/)
 
 A game, about web archiving?
 
-[crawling](/tag/crawling/) [game](/tag/game/) [web-archives](/tag/web-archives/)
+[crawling](https://inkdroid.org/tag/crawling/) [game](https://inkdroid.org/tag/game/) [web-archives](https://inkdroid.org/tag/web-archives/)
 
 ### 🔖 [Novaya Gazeta’s Journalism Will Live On](https://www.cjr.org/analysis/novaya-gazeta-journalism-will-live-on-electronic-immortality-russia-independent-press-exile-ukraine-war-putin-samizdat.php)
 
@@ -6664,7 +6781,7 @@ print license was revoked. As Muratov told me, without this archive,
 Russia would have lost not only independent journalism but also core
 historical memory: “We would not know how dictatorships take shape.”
 
-[archives](/tag/archives/) [delete](/tag/delete/) [journalism](/tag/journalism/) [politics](/tag/politics/)
+[archives](https://inkdroid.org/tag/archives/) [delete](https://inkdroid.org/tag/delete/) [journalism](https://inkdroid.org/tag/journalism/) [politics](https://inkdroid.org/tag/politics/)
 
 ### 🔖 [1 in 8 billion](https://1in8b.life/en/)
 
@@ -6675,7 +6792,7 @@ life to its end, inside the real statistics of 172 countries and
 territories. A year passes in about a minute. It was first released on
 October 5, 2026, and its only official address is 1in8b.life.
 
-[education](/tag/education/) [health](/tag/health/) [life](/tag/life/) [vis](/tag/vis/)
+[education](https://inkdroid.org/tag/education/) [health](https://inkdroid.org/tag/health/) [life](https://inkdroid.org/tag/life/) [vis](https://inkdroid.org/tag/vis/)
 
 ### 🔖 [M&A: A Wikidata merge assistant app](https://github.com/connorshea/mergers-and-acquisitions)
 
@@ -6686,7 +6803,7 @@ hunt over a local mirror of Wikidata items (loaded from the weekly
 entity dump); logged-in users review them and merge or mark them as
 different, editing Wikidata directly.
 
-[javascript](/tag/javascript/) [tools](/tag/tools/) [wikidata](/tag/wikidata/)
+[javascript](https://inkdroid.org/tag/javascript/) [tools](https://inkdroid.org/tag/tools/) [wikidata](https://inkdroid.org/tag/wikidata/)
 
 ### 🔖 [Code Matters: Reflections on Rust in the LLM Age — Bryan Cantrill \| Rust\ NYC](https://youtube.com/watch?v=5D7QPOIZ7gY)
 
@@ -6705,7 +6822,7 @@ safety.
 For Rust developers, infrastructure engineers, and teams deciding how to
 use LLMs in software development.
 
-[llm](/tag/llm/) [programming](/tag/programming/) [rust](/tag/rust/)
+[llm](https://inkdroid.org/tag/llm/) [programming](https://inkdroid.org/tag/programming/) [rust](https://inkdroid.org/tag/rust/)
 
 ### 🔖 [State of AI Impact on Software Security and Cybersecurity 2026](https://www.linuxfoundation.org/research/ai-impact-on-cybersecurity-2026)
 
@@ -6722,7 +6839,7 @@ developers’ security skills. Yet, preparedness is possible: teams
 establishing dedicated AI security roles and formal policies report
 significantly higher readiness across emerging threats.
 
-[ai](/tag/ai/) [programming](/tag/programming/) [security](/tag/security/)
+[ai](https://inkdroid.org/tag/ai/) [programming](https://inkdroid.org/tag/programming/) [security](https://inkdroid.org/tag/security/)
 
 ### 🔖 [Simple Made Inevitable: The Economics of Language Choice in the LLM Era](https://felixbarbalet.com/simple-made-inevitable-the-economics-of-language-choice-in-the-llm-era/)
 
@@ -6739,7 +6856,7 @@ the agent away from its worst impulses - that’s the language with the
 higher compounding return. Even if the individual function quality is
 lower today.
 
-[design](/tag/design/) [llm](/tag/llm/) [programming](/tag/programming/)
+[design](https://inkdroid.org/tag/design/) [llm](https://inkdroid.org/tag/llm/) [programming](https://inkdroid.org/tag/programming/)
 
 ### 🔖 [Cancelling Async Rust](https://search.corrode.dev/videos/27563)
 
@@ -6748,7 +6865,7 @@ work is both its superpower and its greatest weakness. Learn about the
 good and bad of async cancellation, and practical ways to mitigate the
 downsides.
 
-[rust](/tag/rust/)
+[rust](https://inkdroid.org/tag/rust/)
 
 ### 🔖 [Unspoken Agreements, Circling Vultures, and Asahi Linux](https://eve.gd/2026/11/09/unspoken-agreements-circling-vultures-and-asahi-linux/)
 
@@ -6759,7 +6876,7 @@ works, we pose a future extinction event when the LLMs find that they
 suddenly can’t interpret a new environment because nobody has done the
 basic work that is necessary to make that possible.
 
-[ai](/tag/ai/) [opensource](/tag/opensource/)
+[ai](https://inkdroid.org/tag/ai/) [opensource](https://inkdroid.org/tag/opensource/)
 
 ### 🔖 [Rust Fuzz\ Book](https://rust-fuzz.github.io/book/)
 
@@ -6785,7 +6902,7 @@ jail, known as “The Workhouse.” The closure followed a multi-year
 campaign to shutter the facility, long known for hazardous conditions
 including rats, roaches, mold and extreme heat.
 
-[activism](/tag/activism/) [prisons](/tag/prisons/) [stl](/tag/stl/)
+[activism](https://inkdroid.org/tag/activism/) [prisons](https://inkdroid.org/tag/prisons/) [stl](https://inkdroid.org/tag/stl/)
 
 ## [Simulating the world to validate agent outputs](https://memo.mx/posts/simulating-the-world-to-validate-agent-outputs/)
 
@@ -6881,7 +6998,7 @@ Retro future history textbook:
 
 We need taxes to go up so that the phenomenon of the super rich and the accompanying oligarchy and the regulatory capture of our government is put to an end.
 
-[#Politics](/search/?q=%23Politics) [#Economy](/search/?q=%23Economy)
+[#Politics](https://alexschroeder.ch/search/?q=%23Politics) [#Economy](https://alexschroeder.ch/search/?q=%23Economy)
 
 ---
 
@@ -7093,12 +7210,12 @@ Works, and which with Instances, as well as what the related BIBFRAME
 vocabulary term is. It even displays related MARC information for
 catalogers who are familiar with those.
 
-![](/images/bluecore-editor.png)
+![](https://inkdroid.org/images/bluecore-editor.png)
 
 If you want you can see the resources visualized as a graph, where you
 click on each resource to see what it is. Which leads to the next point.
 
-![](/images/bluecore-editor-graph.png)
+![](https://inkdroid.org/images/bluecore-editor-graph.png)
 
 ### But still, Resources!
 
@@ -7117,7 +7234,7 @@ window to do that. For example when editing this audiobook version of
 War and Peace you click on Tolstoy’s name, and see information from the
 LC Name Authority File, Wikidata and Wikipedia (if those links exist):
 
-![](/images/bluecore-editor-context.png)
+![](https://inkdroid.org/images/bluecore-editor-context.png)
 
 One of the challenges here when editing one part of the description
 could impact other descriptions. The canonical example this is in
@@ -7130,7 +7247,7 @@ impact its other Instances. That’s why the bibframe-editor notifies you,
 and asks for your approval, when one of your edits could impact other
 descriptions.
 
-![](/images/bluecore-editor-warning.png)
+![](https://inkdroid.org/images/bluecore-editor-warning.png)
 
 I think this is why [Linked Data](https://en.wikipedia.org/wiki/Linked_data) is
 (still) a powerful concept for cataloging. RDF is really just a means to
@@ -7214,7 +7331,7 @@ On the MNT forum, somebody [was curious if anyone has been using the Pocket Refo
 Now, I use the regular MNT Pocket Reform with its keyboard, so I figure I might as well answer from my perspective.
 It’s the same ortholinear layout, it’s small, it has a tiny trackball.
 
-![A picture of my two hands on a Pocket Reform keyboard. The fingers are huge, the keyboard is tiny.](2024-09-29-pocket-status-1.jpg)
+![A picture of my two hands on a Pocket Reform keyboard. The fingers are huge, the keyboard is tiny.](https://alexschroeder.ch/view/2024-09-29-pocket-status-1.jpg)
 
 I can write fast enough for blogging and for coding.
 I write a few words and then I pause, thinking about what to write next.
@@ -7224,14 +7341,14 @@ I am prone to wrist pain when I’m working long hours and when I’m unhappy.
 The small keyboard appears not to cause my wrist pain to flare up.
 Then again, I’m on the record as saying that buying an ergonomic keyboard doesn’t help.
 What works is working less.
-I wrote this a few years ago: [2020-04-10 Watch your hands](2020-04-10_Watch_your_hands).
+I wrote this a few years ago: [2020-04-10 Watch your hands](https://alexschroeder.ch/view/2020-04-10_Watch_your_hands).
 So take my opinion regarding ergonomic or unergonomic keyboards with a grain of salt.
 
 I’ve been using the tiny keyboard for a while now, in the evening hours, in the living room, sitting on the floor.
 This probably means bad posture.
 My hips and my back hurt more than my fingers and my wrists, so I think the keyboard is fine.
 
-![An empty sofa, a small wooden table with the laptop, a cushion on a carpet to sit on. The laptop is connected to both the network and the charger with a cable each.](2026-09-27-pocket-reform-1.jpg)
+![An empty sofa, a small wooden table with the laptop, a cushion on a carpet to sit on. The laptop is connected to both the network and the charger with a cable each.](https://alexschroeder.ch/view/2026-09-27-pocket-reform-1.jpg)
 
 I bought the keyboard with Light Linear Switches (Kailh Choc Pro Red).
 I have no complaints.
@@ -7253,9 +7370,9 @@ It’s not essential.
 
 These days I often use an HDMI monitor with a 1920×1080 resolution and practically don’t use the laptop monitor. In these situations, the laptop monitor might hold a terminal running an IRC client, for example. Something to look at, rarely.
 
-![A black and white picture of a room with a cushion on the floor, a monitor on stool, a tiny laptop in front of it and a table full of synthesisers in the back. When I work with it, I put a second stool between me and the monitor for the laptop so that there’s about one arm length between me and the monitor.](2026-11-13-tiny-keyboard.jpg)
+![A black and white picture of a room with a cushion on the floor, a monitor on stool, a tiny laptop in front of it and a table full of synthesisers in the back. When I work with it, I put a second stool between me and the monitor for the laptop so that there’s about one arm length between me and the monitor.](https://alexschroeder.ch/view/2026-11-13-tiny-keyboard.jpg)
 
-[#Pocket](/search/?q=%23Pocket) [#Keyboard](/search/?q=%23Keyboard)
+[#Pocket](https://alexschroeder.ch/search/?q=%23Pocket) [#Keyboard](https://alexschroeder.ch/search/?q=%23Keyboard)
 
 ## [Trump Proposes Self as New Nvidia CEO, Citing Vast Experience with Infidelity](https://www.borowitzreport.com/p/trump-proposes-self-as-new-nvidia)
 
@@ -7348,7 +7465,7 @@ I am looking for a short code of conduct. I really want it to be short because I
 
 I guess this post is related to the problem of solving ethical problems using licenses.
 Or the impossibility thereof.
-See [2020-05-09 Ethics and licensing](2020-05-09_Ethics_and_licensing).
+See [2020-05-09 Ethics and licensing](https://alexschroeder.ch/view/2020-05-09_Ethics_and_licensing).
 
 For a while I felt that I might pick a few articles from the [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights). But then, that’s more like the bare minimum.
 
@@ -7360,7 +7477,7 @@ As far as software projects go, I like Strudel’s [post-AI humane policy](https
 
 I wonder what to do. Perhaps this struggle is part of the work. I just need to do it.
 
-[#Programming](/search/?q=%23Programming) [#Ethics](/search/?q=%23Ethics)
+[#Programming](https://alexschroeder.ch/search/?q=%23Programming) [#Ethics](https://alexschroeder.ch/search/?q=%23Ethics)
 
 **2026-11-03**. Dozens linked me to the [tilde.town code of conduct](https://tilde.town/wiki/conduct.html) which is in turn based on the [Citizens Code of Conduct](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md).
 
@@ -7628,7 +7745,7 @@ If my commits were all similarly formatted, I could also automate our entire [ch
 
 Of course, Conventional Commit and Semver itself aren’t perfect but it adds a degree of predictability about the impact of a change from the description alone. Abiding in the Conventional Commit format is a small micro-adjustment to my process, but it has potential to positively impact the entire project and I like those sorts of zero-dollar improvements.
 
-### Extending Conventional Commit beyond commits [Link to heading 'Extending Conventional Commit beyond commits'](\#extending-conventional-commit-beyond-commits)
+### Extending Conventional Commit beyond commits [Link to heading 'Extending Conventional Commit beyond commits'](https://daverupert.com/2026/11/conventional-commit-rules-everything-around-me/%5C#extending-conventional-commit-beyond-commits)
 
 One place you’ll also want to extend conventional commit to is **pull request titles**. Not technically a `git-commit` message, but if you squash and merge commits the PR title tends to become the commit message by default. Preferring or enforcing conventional commit in pull request titles helps preserve our pristine commit history.
 
@@ -7656,7 +7773,7 @@ It makes the issue a little more _actionable_ and that’s what you want. If eve
 
 I’m projecting here, but uniform data in your PRs and issue queues could also allow you to collect stats on which components or areas of your application are the most buggy and expensive to maintain. It can tell you who’s getting saddled with all the bugs or which issue filer is adding too much feature debt. And it can help your team quantify your recurring maintenance tasks that might be hiding because it gets rolled into other work. That might be valuable to an organization.
 
-### Unconventional usage of Conventional Commit [Link to heading 'Unconventional usage of Conventional Commit'](\#unconventional-usage-of-conventional-commit)
+### Unconventional usage of Conventional Commit [Link to heading 'Unconventional usage of Conventional Commit'](https://daverupert.com/2026/11/conventional-commit-rules-everything-around-me/%5C#unconventional-usage-of-conventional-commit)
 
 Now let’s extend beyond the practical. I’m finding the Conventional Commit format to be so useful, I’ve started rolling them out to a lot of different places (surprise, coworkers!).
 
@@ -7756,7 +7873,7 @@ for non-coding chats. Rename only once unless I ask otherwise.
 
 I’m not sure how it works in your preferred agent manager, but I assume you could write a skill or put it in your `AGENTS.md`, but I’d have a conversation with your coworkers first before codifying your obsessive-compulsions in the project repo.
 
-### Join me in my obsession [Link to heading 'Join me in my obsession'](\#join-me-in-my-obsession)
+### Join me in my obsession [Link to heading 'Join me in my obsession'](https://daverupert.com/2026/11/conventional-commit-rules-everything-around-me/%5C#join-me-in-my-obsession)
 
 You might have read all this and said, “This is a man who –in a world of chaos– is looking to over-manage a small thing like title text so that he can feel in control of his own life!” and to that I’d say…
 
@@ -8606,7 +8723,7 @@ The Andy Borowitz Show
 
 ## [Raspberry Pi gift ideas for nerds](https://www.raspberrypi.com/news/raspberry-pi-gift-ideas-for-nerds/)
 
-via Raspberry Pi News (.com) · 2026-11-12, updated 2026-11-23
+via Raspberry Pi News (.com) · 2026-11-12, updated 2026-11-25
 
 Here are some festive ideas if you're shopping around for something on the nerdier side.
 
@@ -9284,7 +9401,7 @@ And yes, the new project may not be a shiny as the old one. It’s new! Of cours
 
 You might be concerned about the definition of “terrible opinions”. Of course this is a value judgement. But it being a value judgement does not result in our inability to judge. If you ask, where does it stop? Will non-vegetarians be banned? I might counter with, where does it not stop? Is harassing people OK? _La ligne rouge existe._ There is a red line, somewhere. We might not agree on where to draw the line, exactly, and so perhaps we can collaborate in some contexts but not in others. And that is fine, too. I don’t think that the fact that an infinite number of terrible opinions exist results in an inability to cooperate on this or that project. All of us still get to act upon the conclusion we reached. People disagreeing with each other and acting upon this disagreement is all around us.
 
-[#Politics](/search/?q=%23Politics)
+[#Politics](https://alexschroeder.ch/search/?q=%23Politics)
 
 ---
 
@@ -9636,7 +9753,7 @@ Stuart dropped by earlier today to discuss this historic election. It’s a grea
 
 ## [Raspberry Pi e-book bundle: Cyberdecks, retro games, and more](https://www.raspberrypi.com/news/raspberry-pi-e-book-bundle-cyberdecks-retro-games-and-more/)
 
-via Raspberry Pi News (.com) · 2026-11-10, updated 2026-11-23
+via Raspberry Pi News (.com) · 2026-11-10, updated 2026-11-25
 
 Choose the price you pay for 15 e-books and support the Raspberry Pi Foundation in the process.
 
@@ -10335,7 +10452,7 @@ Stuart Stevens joins us tomorrow at 11am ET - will be a good one!
 
 ## [Self-sufficient mobile weather station](https://www.raspberrypi.com/news/self-sufficient-mobile-weather-station/)
 
-via Raspberry Pi News (.com) · 2026-11-09, updated 2026-11-23
+via Raspberry Pi News (.com) · 2026-11-09, updated 2026-11-25
 
 A weather research station powered by the weather itself.
 
@@ -10514,7 +10631,7 @@ posted [his message](https://lists.gnu.org/archive/html/emacs-devel/2026-10/msg0
 
 I think the question about the harms done goes to show that some people – including many of my coworkers, for example! – do not know about these harms. They are surrounded by AI enthusiast. The news they follow hails the AI bros, Sam Altman (Open AI), Elon Musk (Tesla, X, Space X, whatever is next), Dario Amodei (Anthropic), Jensen Huang (Nvidia), Satya Nadella (Microsoft), Sundar Pichai (Google), and so on. There’s some critical thinking involved, but people like Timnit Gebru (DAIR) or Emily M. Bender (University of Washington) and their many allies do not have the same media presence. Money makes all the difference. I mean, I should hardly be surprised. These people are often focused on running the business. They don’t read far and wide. Just last Thursday my project manager admitted to never having heard of the [eMudhra problem](https://emudhra.we-have-a-problem.com/).
 
-For me personally, it also validates my bookmark pages where I not only bookmark links but also try to pull a quote for context. Unfortunately, the ongoing Slopocalypse has me [bookmarking a lot links](Artificial_Intelligence_Bookmarks). And just now, as I was composing my mail, I still remembered having read something about all the ongoing lawsuits regarding generative AI and copyright that were all essentially unresolved. I had forgotten to bookmark that link. 😥
+For me personally, it also validates my bookmark pages where I not only bookmark links but also try to pull a quote for context. Unfortunately, the ongoing Slopocalypse has me [bookmarking a lot links](https://alexschroeder.ch/view/Artificial_Intelligence_Bookmarks). And just now, as I was composing my mail, I still remembered having read something about all the ongoing lawsuits regarding generative AI and copyright that were all essentially unresolved. I had forgotten to bookmark that link. 😥
 
 Anyway. I guess we’re not finished talking about this, not here, not any where.
 
@@ -10600,7 +10717,7 @@ Cheers
 
 Alex
 
-[#Emacs](/search/?q=%23Emacs)
+[#Emacs](https://alexschroeder.ch/search/?q=%23Emacs)
 
 **2026-11-09**. How did we end up in a discussion about [slavery and Emacs](https://lists.gnu.org/r/emacs-devel/2026-11/msg00128.html)? 😫
 
@@ -11869,7 +11986,7 @@ via Alex Schroeder's Blog · 2026-11-08
 
 ### 2026-11-08 Before Sunrise (1995)
 
-[A few days ago](2026-11-01-movies) we watched _Before Sunset_ and today we watched [Before Sunrise](https://en.wikipedia.org/wiki/Before_Sunrise) (1995). Richard Linklater is the director, Julie Delpy and Ethan Hawkes are the main characters. They meet in a train and spend the night in Vienna. And then they go their own ways, promising each other – at the last moment – to meet again, six months later. No exchange of addresses or phone numbers. Just a promise.
+[A few days ago](https://alexschroeder.ch/view/2026-11-01-movies) we watched _Before Sunset_ and today we watched [Before Sunrise](https://en.wikipedia.org/wiki/Before_Sunrise) (1995). Richard Linklater is the director, Julie Delpy and Ethan Hawkes are the main characters. They meet in a train and spend the night in Vienna. And then they go their own ways, promising each other – at the last moment – to meet again, six months later. No exchange of addresses or phone numbers. Just a promise.
 
 The movie is about two people in their early twenties and their conversations about love, life, how they try to connect to each other, their looks, their kisses, their laughs. I am in my early fifties and I recognised many of the cringe dialogues and opinions held in the movie. And I am sooo happy that I met my wife when we were teenagers and never had to risk our relationship in such a way.
 
@@ -11881,7 +11998,7 @@ I talked about the attraction between the two with my wife. How do we feel that 
 
 So many people these days seem to have different beliefs about what makes them attractive. But I like laughing and listening. ❤️
 
-[#Movies](/search/?q=%23Movies)
+[#Movies](https://alexschroeder.ch/search/?q=%23Movies)
 
 ## [Nothing But Blue Skies](https://steady.substack.com/p/nothing-but-blue-skies)
 
@@ -11930,13 +12047,13 @@ quest to reunite the Peoples of the Tower. Observe, listen, and decipher
 ancient languages in a fascinating universe inspired by the Myth of
 Babel.
 
-[games](/tag/games/) [language](/tag/language/)
+[games](https://inkdroid.org/tag/games/) [language](https://inkdroid.org/tag/language/)
 
 ### 🔖 [Railpass](https://train.samismith.com/)
 
 A random view out of a train window, from around the world.
 
-[art](/tag/art/) [trains](/tag/trains/) [vis](/tag/vis/)
+[art](https://inkdroid.org/tag/art/) [trains](https://inkdroid.org/tag/trains/) [vis](https://inkdroid.org/tag/vis/)
 
 ### 🔖 [What makes uv slow?](https://blog.schuetze.link/what-makes-uv-slow/)
 
@@ -11946,7 +12063,7 @@ is slow. Let’s talk about both.
 The paragraphs are in no particular order, except the first two
 (overview and benchmarks) and the last one (tooling).
 
-[performance](/tag/performance/) [python](/tag/python/) [rust](/tag/rust/) [tools](/tag/tools/)
+[performance](https://inkdroid.org/tag/performance/) [python](https://inkdroid.org/tag/python/) [rust](https://inkdroid.org/tag/rust/) [tools](https://inkdroid.org/tag/tools/)
 
 ### 🔖 [GreenPT -\ Decisions](https://docs.greenpt.ai/systemone)
 
@@ -11963,19 +12080,19 @@ The endpoint speaks the System One API from TypeSafe, so the official
 TypeSafe SDK works against GreenPT once it points at GreenPT’s host and
 model (see Use the TypeSafe SDK).
 
-[api](/tag/api/) [llm](/tag/llm/)
+[api](https://inkdroid.org/tag/api/) [llm](https://inkdroid.org/tag/llm/)
 
 ### 🔖 [Inference Cooperative — Monthly Meeting Summary](https://forum.inference.coop/d/f9NUwop1/monthly-meeting-november-6/28)
 
 Summary of the Nov 6, 2026 inference.coop meeting (the second ever).
 
-[coop](/tag/coop/) [llm](/tag/llm/)
+[coop](https://inkdroid.org/tag/coop/) [llm](https://inkdroid.org/tag/llm/)
 
 ### 🔖 [Coopertron 5000 report](https://dfd62a57b76bfc1d.share.prose.solo.ist/s/ouTlTKDpcGdTvoiI27NWvuDno9LgkZZu7SWTLFOOT3s)
 
 Survey results of people who have joined inference.coop
 
-[coop](/tag/coop/) [llm](/tag/llm/) [surveys](/tag/surveys/)
+[coop](https://inkdroid.org/tag/coop/) [llm](https://inkdroid.org/tag/llm/) [surveys](https://inkdroid.org/tag/surveys/)
 
 ### 🔖 [Faulty Towers, vibe sickness, and the vibe bobsled](https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/)
 
@@ -11986,7 +12103,7 @@ are going to review their work, you aren’t really taking advantage of
 their most powerful property, which is speed. But theory-building and
 review are also the programmer’s most important role.
 
-[llm](/tag/llm/) [programming](/tag/programming/)
+[llm](https://inkdroid.org/tag/llm/) [programming](https://inkdroid.org/tag/programming/)
 
 ### 🔖 [Harness design for long-running application development](https://www.anthropic.com/research/harness-design-long-running-apps)
 
@@ -11998,7 +12115,7 @@ themselves. On the other hand, the better the models get, the more space
 there is to develop harnesses that can achieve complex tasks beyond what
 the model can do at baseline.
 
-[ai](/tag/ai/) [llm](/tag/llm/) [programming](/tag/programming/)
+[ai](https://inkdroid.org/tag/ai/) [llm](https://inkdroid.org/tag/llm/) [programming](https://inkdroid.org/tag/programming/)
 
 ### 🔖 [The 7 harness concepts that give an AI agent memory, tools, context,\ safety, and a way to know when the job is actually done.](https://medium.com/ai-engineering-simplified/the-anatomy-of-an-ai-agent-harness-2bf7d9379fb4?sk=v2%2Ff3bb8552-a673-4020-972d-cee1ff768cf5)
 
@@ -12019,7 +12136,7 @@ The 7 parts of a agent harness:
 7. Checks
 
 
-[ai](/tag/ai/) [llm](/tag/llm/)
+[ai](https://inkdroid.org/tag/ai/) [llm](https://inkdroid.org/tag/llm/)
 
 ### 🔖 [The Best Victory Speech](https://robertreich.substack.com/p/the-best-victory-speech)
 
@@ -12029,7 +12146,7 @@ in my judgment, the best was from James Talarico, the new senator-elect
 from Texas. I’ve reproduced it below. I urge you to read it. I think
 it’s a harbinger of the future.
 
-[politics](/tag/politics/)
+[politics](https://inkdroid.org/tag/politics/)
 
 ### 🔖 [Reciprocal\ Reviews](https://reciprocal.reviews/)
 
@@ -12046,7 +12163,7 @@ cost with co-authors. Or, they can gift tokens to individuals or shared
 pools to strategically support newcomers, colleagues in crisis, or
 emerging topics.
 
-[publishing](/tag/publishing/) [research](/tag/research/)
+[publishing](https://inkdroid.org/tag/publishing/) [research](https://inkdroid.org/tag/research/)
 
 ### 🔖 [Why Applications Are Like Fish and Data is Like Wine](https://redmonk.com/jgovernor/why-applications-are-like-fish-and-data-is-like-wine/)
 
@@ -12060,7 +12177,7 @@ metaphor b0rked? Why do shops keep investing in mainframes? Because they
 are investing in data. Why do people keep buying apps? Because their old
 ones went off.
 
-[data](/tag/data/) [design](/tag/design/) [preservation](/tag/preservation/) [software](/tag/software/)
+[data](https://inkdroid.org/tag/data/) [design](https://inkdroid.org/tag/design/) [preservation](https://inkdroid.org/tag/preservation/) [software](https://inkdroid.org/tag/software/)
 
 ### 🔖 [Apocalypse Now and Then](https://www.equator.org/articles/arundhati-roy-artificial-intelligence)
 
@@ -12068,7 +12185,7 @@ I believe that disrupting and vitiating the fundamental relationship
 between humans and language will undermine all semblance of social
 coherence.
 
-[ai](/tag/ai/) [capitalism](/tag/capitalism/) [politics](/tag/politics/)
+[ai](https://inkdroid.org/tag/ai/) [capitalism](https://inkdroid.org/tag/capitalism/) [politics](https://inkdroid.org/tag/politics/)
 
 ### 🔖 [The\ Atlantic’s Audible Anthology](https://www.andrewbadr.com/ap/)
 
@@ -12077,7 +12194,7 @@ reading their own poems (An Audible Anthology) and classic poems by
 others (Soundings). These 415 recordings are preserved at the Internet
 Archive: An Audible Anthology, Soundings.
 
-[audio](/tag/audio/) [poetry](/tag/poetry/) [web-archives](/tag/web-archives/)
+[audio](https://inkdroid.org/tag/audio/) [poetry](https://inkdroid.org/tag/poetry/) [web-archives](https://inkdroid.org/tag/web-archives/)
 
 ### 🔖 [Workshop on\ Open Citations & Open Scholarly Metadata 2027](https://workshop-oc.github.io/)
 
@@ -12089,7 +12206,7 @@ OpenCitations and the University of Bologna.
 This year’s workshop will focus on: “Interoperability of Scholarly
 Infrastructures in a Federated Environment”
 
-[conference](/tag/conference/) [metadata](/tag/metadata/) [openaccess](/tag/openaccess/) [publishing](/tag/publishing/)
+[conference](https://inkdroid.org/tag/conference/) [metadata](https://inkdroid.org/tag/metadata/) [openaccess](https://inkdroid.org/tag/openaccess/) [publishing](https://inkdroid.org/tag/publishing/)
 
 ## [GSoC 2026 - Teach the Clang Static Analyzer to understand lifetime annotations](https://blog.llvm.org/posts/2026-08-24-gsoc-lifetime-annotations-csa/)
 
@@ -12421,7 +12538,7 @@ StepWhatPhysicalVirtualNotes1Visitor submits formxxThis was the last part I buil
 
 I store the Pi + printer in my studio, so the submissions are queued up and get printed only when I’m physically there, which is usually a couple times a week. There’s more detail on how it’s wired up in the [README](https://github.com/rjkwon/blog/tree/main/scripts/guestbook) in my repo.
 
-I’m now working on building a small custom plywood box to house the setup, which I’ve also never done before and honestly isn’t going very well. I’m coping badly. Literally – I [tried using a coping saw](coping.jpg) for the first time and I [just](https://www.youtube.com/watch?v=2IRcM9qwDwo) –
+I’m now working on building a small custom plywood box to house the setup, which I’ve also never done before and honestly isn’t going very well. I’m coping badly. Literally – I [tried using a coping saw](https://kwon.nyc/notes/slow-inefficient-non-derogatory-guestbook/coping.jpg) for the first time and I [just](https://www.youtube.com/watch?v=2IRcM9qwDwo) –
 
 Here are some other guestbooks by internet neighbors (if you have one you can email me the link and I’ll sign it and add it here):
 
@@ -13081,7 +13198,7 @@ What I like about this approach compared to the other ideas I had is:
 
 Want an end-to-end walkthrough of how it all works? Please, follow me…
 
-### Adopting stylesheets in your web components [Link to heading 'Adopting stylesheets in your web components'](\#adopting-stylesheets-in-your-web-components)
+### Adopting stylesheets in your web components [Link to heading 'Adopting stylesheets in your web components'](https://daverupert.com/2026/11/pseudo-pseudo-classes/%5C#adopting-stylesheets-in-your-web-components)
 
 In web components, we’d typically author our styles in a CSS tagged template literal:
 
@@ -13132,7 +13249,7 @@ class MyButton extends HTMLElement {
 
 The component will now render its styles without a `<link>` tag or inline `<style>` tag in the template. If we put two `MyButton` components on the page, they’ll share the same stylesheet in memory which is a pretty neat efficiency gain for style application. `adoptedStyleSheets` aren’t limited to web components, but they’re still pretty niche. But the web component ecosystem’s pattern of using `adoptedStyleSheets` for style application will come in handy later when we want to apply our new custom states.
 
-### Attach internals to unlock custom states [Link to heading 'Attach internals to unlock custom states'](\#attach-internals-to-unlock-custom-states)
+### Attach internals to unlock custom states [Link to heading 'Attach internals to unlock custom states'](https://daverupert.com/2026/11/pseudo-pseudo-classes/%5C#attach-internals-to-unlock-custom-states)
 
 Before we jump to the grand finale, there’s one _other_ unique-to-web-components feature we need to talk about first: `ElementInternals`. In a web component `class` you can call `attachInternals()` which allows you to dip into the element’s guts and mutate the innards of your spicy `div`. An example of this might be setting an ARIA role:
 
@@ -13190,7 +13307,7 @@ Now you can style your element when it’s scrolling using `:state(scrolling)` a
 
 Isn’t that cool? With great power comes great spider-mans, of course, but having your own custom pseudos is a thing you can do now with web components.
 
-### Mimic native pseudo-states using custom states [Link to heading 'Mimic native pseudo-states using custom states'](\#mimic-native-pseudo-states-using-custom-states)
+### Mimic native pseudo-states using custom states [Link to heading 'Mimic native pseudo-states using custom states'](https://daverupert.com/2026/11/pseudo-pseudo-classes/%5C#mimic-native-pseudo-states-using-custom-states)
 
 Now that we have a loose grasp on all the pieces we need to make our demo work, the next steps are:
 
@@ -13246,7 +13363,7 @@ And my demo makes a couple assumptions I know won’t scale:
 
 Next steps might be to make this a bit more robust and support [all the other platform pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/Pseudo-classes) like `:popover-open`, `:user-invalid`, or `:playing`. An agent could probably do this, not me though. I’m tired.
 
-### Shadow DOM isn’t _that_ bad, actually. [Link to heading 'Shadow DOM isn’t that bad, actually.'](\#shadow-dom-isnt-that-bad-actually)
+### Shadow DOM isn’t _that_ bad, actually. [Link to heading 'Shadow DOM isn’t that bad, actually.'](https://daverupert.com/2026/11/pseudo-pseudo-classes/%5C#shadow-dom-isnt-that-bad-actually)
 
 Shadow DOM often gets a bad rap even in web component circles. I fully understand the friction there. Everyone’s first test drive of Shadow DOM styling almost always ends up in flames, leading to a poor unboxing experience that’s hard to shake off.
 
@@ -13318,7 +13435,7 @@ Now I know this can be confusing. That's because it's tough to make a web browse
 
 ## [iroh comes to our RP2350 microcontroller](https://www.raspberrypi.com/news/iroh-comes-to-our-rp2350-microcontroller/)
 
-via Raspberry Pi News (.com) · 2026-11-06, updated 2026-11-23
+via Raspberry Pi News (.com) · 2026-11-06, updated 2026-11-25
 
 Clever software that allows your devices, apps, and cloud instances to form a secure and reliable mesh network.
 
@@ -13510,7 +13627,7 @@ It’s usually translated as “follow the rules, break the rules, transcend the
 
 The game industry right now feels like it’s well into the “break the rules” stage of Shuhari. People are recompiling games to run anywhere (even in your browser), and cease-and-desist letters are flying. When will the dominoes stop falling, and what will the landscape look like?
 
-That brings me back to something I wrote about a couple of months ago (though at the pace things are moving, it feels like a year ago): [Games at the press of a button: The Rip-O-Bot (1989)](/2026/08/02/games-at-the-press-of-a-button-the-rip-o-bot/).
+That brings me back to something I wrote about a couple of months ago (though at the pace things are moving, it feels like a year ago): [Games at the press of a button: The Rip-O-Bot (1989)](https://blog.gingerbeardman.com/2026/08/02/games-at-the-press-of-a-button-the-rip-o-bot/).
 
 In 1989, _Bubble Bobble_ designer Fukio Mitsuji imagined a machine that could generate copycat games at the press of a button. His answer was that, in the end, the game is the idea. If we’re in Shuhari’s “break” stage now, the question is what the new system will look like when things settle.
 
@@ -13528,7 +13645,7 @@ It seems increasingly likely as time goes on that the future of game making, and
 
 * * *
 
-This came out of [an exchange with Kuniaki Watanabe](https://twitter.com/k_u/status/2091857533275426822), creator of [MaBoShi](/tags/maboshi/).
+This came out of [an exchange with Kuniaki Watanabe](https://twitter.com/k_u/status/2091857533275426822), creator of [MaBoShi](https://blog.gingerbeardman.com/tags/maboshi/).
 
 ## [Science Friction: An Argument for More Sex in Sci-Fi](https://lithub.com/science-friction-an-argument-for-more-sex-in-sci-fi/)
 
@@ -14835,7 +14952,7 @@ Erika Mann drove through the night to meet the fifty-two most wanted men in the 
 
 ## [Product compliance, demystified: how Raspberry Pi helps you get to market](https://www.raspberrypi.com/news/product-compliance-demystified-how-raspberry-pi-helps-you-get-to-market/)
 
-via Raspberry Pi News (.com) · 2026-11-04, updated 2026-11-23
+via Raspberry Pi News (.com) · 2026-11-04, updated 2026-11-25
 
 How Raspberry Pi helps industrial customers bring fully compliant products to market faster.
 
@@ -14981,7 +15098,7 @@ quite nice during indexing because the [CDX\
 index can be used](https://indice.page/docs/reference/how-it-works/#how-indexing-reads-a-wacz) to only pull back indexable content, rather than
 needing to download the whole (possibly large) file.
 
-![](/images/indice-indexing.svg)
+![](https://inkdroid.org/images/indice-indexing.svg)
 
 I wanted [curators](https://indice.page/docs/guides/manage/#who-can-do-what)
 (the people importing content to _indice_) to be able to extract

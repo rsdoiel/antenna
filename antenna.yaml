@@ -2,6 +2,9 @@ port: 8010
 htdocs: .
 base_url: https://rsdoiel.github.io/antenna
 generator: home_page.yaml
+max_items_per_feed: 5000
+feed_limits:
+    https://feed.koreatimes.co.kr/k/allnews.xml: 500
 collections:
     - title: Columns
       link: columns.xml

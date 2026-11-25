@@ -1,14 +1,48 @@
 ---
 title: "North America"
 description: "News from across North America."
-pubDate: Wed, 25 Nov 2026 16:10:27 GMT
+pubDate: Wed, 25 Nov 2026 18:02:56 GMT
 aggregateOf: "north_america.md"
-dateModified: Wed, 25 Nov 2026 16:18:28 GMT
-itemCount: 1311
-generator: antenna/0.2.0
+dateModified: Wed, 25 Nov 2026 18:06:53 GMT
+itemCount: 1315
+generator: antenna/0.2.1
 ---
 
 # North America
+
+## [The Trump Administration Wants to Push More Hazardous Waste Response to States](https://www.washingtonsun.com/energy-environment/trump-epa-hazardous-waste-response-states)
+
+via Washington Sun · 2026-11-25
+
+The Environmental Protection Agency says it plans to identify “bolder reforms” for the hazardous waste permitting process.
+
+## [Medical advancement still hasn’t solved one of trauma care’s most persistent causes of preventable death](https://federalnewsnetwork.com/technology-main/2026/11/medical-advancement-still-hasnt-solved-one-of-trauma-cares-most-persistent-causes-of-preventable-death/)
+
+via Federal News Network · 2026-11-25
+
+"Uncontrol bleeding is actually the leading cause of preventable death after serious injury," said Dr. Vik Bebarta.
+
+## [The Suzuki Ignis is back, and this time it will be a low-cost EV sold globally \[Images\]](https://electrek.co/2026/11/25/suzuki-revives-ignis-low-cost-global-ev-images/)
+
+via Electrek Feed · 2026-11-25
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Suzuki-Ignis-EV.jpeg?quality=82&strip=all&w=1400)
+
+[Suzuki](https://electrek.co/guides/suzuki/) offered a first look at the all-new Ignis, its first compact EV designed specifically for global markets.
+
+ [more…](https://electrek.co/2026/11/25/suzuki-revives-ignis-low-cost-global-ev-images/#more-496069)
+
+## [Army calls detonation of bomb chemicals in Iowa a success after earlier fears of a toxic plume](https://federalnewsnetwork.com/army/2026/11/us-stockpile-of-unstable-and-dangerous-lead-azide-scheduled-for-detonation-in-iowa/)
+
+via Federal News Network · 2026-11-25
+
+The U.S. Army has intentionally blown up 5 tons of bomb-making chemicals at an ammunition plant in southeastern Iowa. Wednesday’s controlled detonation of lead azide at the Iowa Army Ammunition Plant came after environmentalists voiced concerns about possible health and environmental effects. Those in charge of the operation called it a success. U.S. Environmental Protection Agency air monitors were not reporting any lead in the air near the plant within 35 minutes after the detonation. Officials decided to blow up the stockpile because the degraded materials were at risk of exploding uncontrollably. President Donald Trump says early reports show that the plan exceeded expectations.
+
+## [FEMA looks to AI tools for fraud detection](https://federalnewsnetwork.com/federal-newscast/2026/11/fema-looks-to-ai-tools-for-fraud-detection/)
+
+via Federal News Network · 2026-11-25
+
+The agency’s Fraud Investigations and Inspections Division is interested in tools that use A-I, machine learning and predictive analytics.
 
 ## [‘Huge Success’: Trump Officials Say No Lead Detected After Army’s Detonation in Iowa](https://www.washingtonsun.com/energy-environment/trump-officials-no-lead-detected-armys-detonation-iowa)
 
@@ -33,12 +67,6 @@ Head below for other New Green Deals we’ve found today and, of course, [_Elec
 via Federal News Network · 2026-11-25
 
 The Defense Department continues to revamp its schools for military families to align with conservative education ideals. The Department of Defense Education Activity operates about 160 schools across 11 countries, educating children of service members. It has begun auditing curriculum and piloting what's called a "classical" physical education course at two U.S. campuses — in North Carolina and Virginia. The department awarded a $5.7 million contract to conservative-aligned American Education Solutions for a curriculum audit. A separate contract of around $100,000 was awarded to Iliad Athletics to start “classical” P.E., inspired by traditional Greek athletics. A Pentagon spokesperson says the agency regularly reviews its academic programs and makes improvements.
-
-## [Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents](https://federalnewsnetwork.com/army/2026/11/us-stockpile-of-unstable-and-dangerous-lead-azide-scheduled-for-detonation-in-iowa/)
-
-via Federal News Network · 2026-11-25
-
-The U.S. Army has intentionally blown up 5 tons of bomb-making chemicals at an ammunition plant in southeastern Iowa. Wednesday’s controlled detonation of lead azide at the Iowa Army Ammunition Plant came after environmentalists voiced concerns about possible health and environmental effects. Officials said the degraded materials were at risk of exploding uncontrollably as temperatures cool. Officials advised people nearby to be ready to evacuate to avoid toxic dust but also sought to assure them that barriers around the blast zone should limit much of the plume. U.S. Environmental Protection Agency air monitors were not reporting any lead in the air near the plant within 35 minutes after the detonation.
 
 ## [EU pushes back Tesla ‘Full Self-Driving’ vote meeting again, now set for December 15](https://electrek.co/2026/11/25/eu-delays-tesla-fsd-vote-december-15-tcmv/)
 

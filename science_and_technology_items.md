@@ -1,14 +1,56 @@
 ---
 title: "STEM"
 description: "Science and technology news and blogs."
-pubDate: Wed, 25 Nov 2026 16:21:04 GMT
+pubDate: Wed, 25 Nov 2026 18:02:00 GMT
 aggregateOf: "science_and_technology.md"
-dateModified: Wed, 25 Nov 2026 16:31:06 GMT
-itemCount: 396
-generator: antenna/0.2.0
+dateModified: Wed, 25 Nov 2026 18:21:22 GMT
+itemCount: 403
+generator: antenna/0.2.1
 ---
 
 # STEM
+
+## [Huawei and crew tout homegrown EDA tools to overcome China’s fab deficit](https://www.theregister.com/systems/2026/11/25/huawei-and-crew-tout-homegrown-eda-tools-to-overcome-chinas-fab-deficit/5312205)
+
+via The Register (UK I.T. News) · 2026-11-25
+
+Chip design software leans heavily into 3D packaging and multi-node assemblies
+
+## [Hera probe finds DART left a stadium-sized dent in asteroid Dimorphos](https://www.theregister.com/science/2026/11/25/hera-probe-finds-dart-left-a-stadium-sized-dent-in-asteroid-dimorphos/5312153)
+
+via The Register (UK I.T. News) · 2026-11-25
+
+Next step is to move in for a closer look at the carnage
+
+## [Microsoft's NTLM security changes trip up third-party logins](https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085)
+
+via The Register (UK I.T. News) · 2026-11-25
+
+It's not our fault if you've implemented it wrong
+
+## [HP sees premium-priced AI PCs as its meal ticket in a shrinking market](https://www.theregister.com/personal-tech/2026/11/25/hp-sees-premium-priced-ai-pcs-as-its-meal-ticket-in-a-shrinking-market/5312174)
+
+via The Register (UK I.T. News) · 2026-11-25
+
+PC shipments set to fall further thanks to the memory shortage, but high-margin models for AI at the edge keep profits up
+
+## [Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard](https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/)
+
+via NASA breaking news · 2026-11-25
+
+Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant dialogue we had after the space shuttle Challenger disaster,” \[…\]
+
+## [US Treasury financial crimes unit becomes latest fed breach victim](https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165)
+
+via The Register (UK I.T. News) · 2026-11-25
+
+FinCEN takes systems offline and extends filing deadlines while investigating 'unauthorized access'
+
+## [Astronomers Accidentally Find a Rare Triple-Star System That They Say Shouldn't Exist. It's Located Just 28 Light-Years From Earth](https://www.smithsonianmag.com/smart-news/astronomers-accidentally-find-a-rare-triple-star-system-that-they-say-shouldnt-exist-its-located-just-28-light-years-from-earth-180989936/)
+
+via Smithsonian Magazine · 2026-11-25
+
+The system, called Welopō'ai, includes a red dwarf and two white dwarfs. One of the white dwarfs—a dense stellar leftover—is extremely close to the reddish-orange star, and scientists say the progenitor star that died should have engulfed the red dwarf
 
 ## [Eye of the Sahara](https://www.nasa.gov/image-article/eye-of-the-sahara/)
 

@@ -5,8 +5,8 @@
     <title><![CDATA[Urban Farm]]></title>
     <description><![CDATA[Home, garden and urban farm blogs and news.]]></description>
     <link>https://rsdoiel.github.io/antenna/home.xml</link>
-    <lastBuildDate>25 Nov 26 08:32 -0800</lastBuildDate>
-    <generator>antenna/0.2.0</generator>
+    <lastBuildDate>25 Nov 26 10:22 -0800</lastBuildDate>
+    <generator>antenna/0.2.1</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>This DIY Coffee Station Can Be Built Using Only Scrap Wood</title>
@@ -45,6 +45,90 @@ The post [Has That Final Destination Truck Scene Ever Actually Happened in Real 
       <category>Trending</category>
       <category>Trends</category>
       <pubDate>Wed, 25 Nov 2026 16:06:03 +0000</pubDate>
+    </item>    <item>
+      <title>These Are the Best Black Friday and Cyber Monday Deals This Year</title>
+      <link>https://sunset.com/lifestyle/shopping/best-black-friday-cyber-monday-deals-2026</link>
+      <description>
+        <![CDATA[Our editors are sharing the best deals to shop this Black Friday and Cyber Monday in the categories of home, kitchen, travel, and wellness.]]>
+      </description>
+      <source:markdown>Our editors are sharing the best deals to shop this Black Friday and Cyber Monday in the categories of home, kitchen, travel, and wellness.</source:markdown>
+      <dc:creator>Sunset Staff</dc:creator>
+      <guid isPermaLink="false">cid://https://sunset.com/?p=240502</guid>
+      <category>Gifts &#38; Shopping</category>
+      <category>black friday</category>
+      <category>cyber monday</category>
+      <category>no-video</category>
+      <category>Sales</category>
+      <category>Shopping</category>
+      <category>Shopping Deals</category>
+      <category>shopping tips</category>
+      <pubDate>Wed, 25 Nov 2026 10:18:24 +0000</pubDate>
+    </item>    <item>
+      <title>These Hacks Will Save You Time on Thanksgiving Day</title>
+      <link>https://sunset.com/food-wine/time-saving-thanksgiving-tips</link>
+      <description>
+        <![CDATA[There never seems to be enough time when you’re hosting Thanksgiving, but if you plan you can manage your time wisely with these tips.]]>
+      </description>
+      <source:markdown>There never seems to be enough time when you’re hosting Thanksgiving, but if you plan you can manage your time wisely with these tips.</source:markdown>
+      <dc:creator>Sarah Yang</dc:creator>
+      <guid isPermaLink="false">cid://https://sunset.com/?p=181642</guid>
+      <category>Food &#38; Drink</category>
+      <category>no-video</category>
+      <category>thanksgiving dinner</category>
+      <category>thanksgiving meal</category>
+      <category>thanksgiving prep</category>
+      <category>Thanksgiving recipes</category>
+      <category>thanksgiving tips</category>
+      <pubDate>Wed, 25 Nov 2026 09:15:55 +0000</pubDate>
+    </item>    <item>
+      <title>15 Thanksgiving Pie Recipes That Aren’t All Pumpkin</title>
+      <link>https://sunset.com/food-wine/kitchen-assistant/thanksgiving-pie-recipes</link>
+      <description>
+        <![CDATA[We love a classic pumpkin pie, but there are other fall flavors to tuck into a crust for Thanksgiving. Try these Thanksgiving pie recipes.]]>
+      </description>
+      <source:markdown>We love a classic pumpkin pie, but there are other fall flavors to tuck into a crust for Thanksgiving. Try these Thanksgiving pie recipes.</source:markdown>
+      <dc:creator>Sunset Staff</dc:creator>
+      <guid isPermaLink="false">cid://https://sunset.com/?p=128957</guid>
+      <category>Recipes</category>
+      <category>Apple Pie</category>
+      <category>dessert</category>
+      <category>dessert recipes</category>
+      <category>holiday pies</category>
+      <category>no-video</category>
+      <category>pie</category>
+      <category>pie recipes</category>
+      <category>Pies</category>
+      <category>pumpkin</category>
+      <category>pumpkin pie</category>
+      <category>Thanksgiving</category>
+      <category>thanksgiving dessert</category>
+      <category>thanksgiving pie</category>
+      <pubDate>Wed, 25 Nov 2026 09:13:11 +0000</pubDate>
+    </item>    <item>
+      <title>These 10 Thanksgiving Hacks Will Save Your Holiday Feast</title>
+      <link>https://sunset.com/food-wine/holidays/thanksgiving-hacks</link>
+      <description>
+        <![CDATA[For every Thanksgiving crisis, we’ve got a delicious hack—each equally useful even when all is going according to plan.]]>
+      </description>
+      <source:markdown>For every Thanksgiving crisis, we’ve got a delicious hack—each equally useful even when all is going according to plan.</source:markdown>
+      <dc:creator>Margo True</dc:creator>
+      <guid isPermaLink="false">cid://https://sunset.com/?p=112174</guid>
+      <category>Holidays</category>
+      <category>Cooking Emergency</category>
+      <category>Newsletter - Best of the West</category>
+      <category>no-video</category>
+      <category>Thanksgiving</category>
+      <pubDate>Wed, 25 Nov 2026 08:57:03 +0000</pubDate>
+    </item>    <item>
+      <title>Homepage 2025</title>
+      <link>https://sunset.com/</link>
+      <description>
+        <![CDATA[Food &amp; Drink, Holidays These Thanksgiving Dishes Are Often an Afterthought—and That’s a Big Mistake Don&#8217;t overlook these foods.  Read more: These Thanksgiving Dishes Are Often an Afterthought—and That’s a Big&hellip; <a href="https://sunset.com/" class="read-more">Read More</a>]]>
+      </description>
+      <source:markdown>Food &#38; Drink, Holidays These Thanksgiving Dishes Are Often an Afterthought—and That’s a Big Mistake Don’t overlook these foods. Read more: These Thanksgiving Dishes Are Often an Afterthought—and That’s a Big… [Read More](https://sunset.com/)</source:markdown>
+      <guid isPermaLink="false">cid://https://sunset.com/</guid>
+      <category>homepage 2025</category>
+      <pubDate>Wed, 25 Nov 2026 08:35:30 +0000</pubDate>
     </item>    <item>
       <title>The Most Surprising Things Chefs Serve for Thanksgiving</title>
       <link>https://sunset.com/food-wine/surprising-thanksgiving-dishes</link>
@@ -435,24 +519,6 @@ The post [How to Overwinter Garden Geraniums](https://gardenerspath.com/plants/f
       <category>Winter</category>
       <pubDate>Tue, 24 Nov 2026 18:15:00 +0000</pubDate>
     </item>    <item>
-      <title>These Are the Best Black Friday and Cyber Monday Deals This Year</title>
-      <link>https://sunset.com/lifestyle/shopping/best-black-friday-cyber-monday-deals-2026</link>
-      <description>
-        <![CDATA[Our editors are sharing the best deals to shop this Black Friday and Cyber Monday in the categories of home, kitchen, travel, and wellness.]]>
-      </description>
-      <source:markdown>Our editors are sharing the best deals to shop this Black Friday and Cyber Monday in the categories of home, kitchen, travel, and wellness.</source:markdown>
-      <dc:creator>Sunset Staff</dc:creator>
-      <guid isPermaLink="false">cid://https://sunset.com/?p=240502</guid>
-      <category>Gifts &#38; Shopping</category>
-      <category>black friday</category>
-      <category>cyber monday</category>
-      <category>no-video</category>
-      <category>Sales</category>
-      <category>Shopping</category>
-      <category>Shopping Deals</category>
-      <category>shopping tips</category>
-      <pubDate>Tue, 24 Nov 2026 17:19:53 +0000</pubDate>
-    </item>    <item>
       <title>How This ADU’s Living Room Became Los Angeles’ Hottest Cafe</title>
       <link>https://sunset.com/home-garden/home-tours/granada-adu-los-angeles</link>
       <description>
@@ -516,16 +582,6 @@ The post [How to Overwinter Garden Geraniums](https://gardenerspath.com/plants/f
       <category>no-video</category>
       <category>The Woobles</category>
       <pubDate>Tue, 24 Nov 2026 10:13:41 +0000</pubDate>
-    </item>    <item>
-      <title>Homepage 2025</title>
-      <link>https://sunset.com/</link>
-      <description>
-        <![CDATA[Recipes, Holidays All the Thanksgiving Recipes You Need, from Turkey to Pie (and Beyond) We put all our recipes for turkeys, side dishes, pies, and more in one place—just for you.  Read&hellip; <a href="https://sunset.com/" class="read-more">Read More</a>]]>
-      </description>
-      <source:markdown>Recipes, Holidays All the Thanksgiving Recipes You Need, from Turkey to Pie (and Beyond) We put all our recipes for turkeys, side dishes, pies, and more in one place—just for you. Read… [Read More](https://sunset.com/)</source:markdown>
-      <guid isPermaLink="false">cid://https://sunset.com/</guid>
-      <category>homepage 2025</category>
-      <pubDate>Tue, 24 Nov 2026 09:59:39 +0000</pubDate>
     </item>    <item>
       <title>Host a California-Style Holiday Dinner</title>
       <link>https://plantingseedsblog.cdfa.ca.gov/index.php/2026/11/23/host-a-california-style-holiday-dinner/</link>
@@ -5434,30 +5490,6 @@ The post [10 Blue Jay Behaviors That Reveal Their Hidden Intelligence in West Vi
       <guid isPermaLink="false">cid://https://ownyardlife.com/?p=68959</guid>
       <category>Animals</category>
       <pubDate>Mon, 09 Nov 2026 00:27:50 +0000</pubDate>
-    </item>    <item>
-      <title>15 Thanksgiving Pie Recipes That Aren’t All Pumpkin</title>
-      <link>https://sunset.com/food-wine/kitchen-assistant/thanksgiving-pie-recipes</link>
-      <description>
-        <![CDATA[We love a classic pumpkin pie, but there are other fall flavors to tuck into a crust for Thanksgiving. Try these Thanksgiving pie recipes.]]>
-      </description>
-      <source:markdown>We love a classic pumpkin pie, but there are other fall flavors to tuck into a crust for Thanksgiving. Try these Thanksgiving pie recipes.</source:markdown>
-      <dc:creator>Sunset Staff</dc:creator>
-      <guid isPermaLink="false">cid://https://sunset.com/?p=128957</guid>
-      <category>Recipes</category>
-      <category>Apple Pie</category>
-      <category>dessert</category>
-      <category>dessert recipes</category>
-      <category>holiday pies</category>
-      <category>no-video</category>
-      <category>pie</category>
-      <category>pie recipes</category>
-      <category>Pies</category>
-      <category>pumpkin</category>
-      <category>pumpkin pie</category>
-      <category>Thanksgiving</category>
-      <category>thanksgiving dessert</category>
-      <category>thanksgiving pie</category>
-      <pubDate>Mon, 09 Nov 2026 00:25:14 +0000</pubDate>
     </item>    <item>
       <title>10 Wild Rabbit Secrets Most Illinois Residents Never Knew</title>
       <link>https://ownyardlife.com/10-wild-rabbit-secrets-most-illinois-residents-never-knew/</link>

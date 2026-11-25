@@ -5,10 +5,93 @@
     <title><![CDATA[STEM]]></title>
     <description><![CDATA[Science and technology news and blogs.]]></description>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>25 Nov 26 08:31 -0800</lastBuildDate>
-    <generator>antenna/0.2.0</generator>
+    <lastBuildDate>25 Nov 26 10:21 -0800</lastBuildDate>
+    <generator>antenna/0.2.1</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Huawei and crew tout homegrown EDA tools to overcome China’s fab deficit</title>
+      <link>https://www.theregister.com/systems/2026/11/25/huawei-and-crew-tout-homegrown-eda-tools-to-overcome-chinas-fab-deficit/5312205</link>
+      <description>
+        <![CDATA[Chip design software leans heavily into 3D packaging and multi-node assemblies]]>
+      </description>
+      <source:markdown>Chip design software leans heavily into 3D packaging and multi-node assemblies</source:markdown>
+      <dc:creator>Tobias Mann</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5312212&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312205</guid>
+      <category>systems</category>
+      <pubDate>Wed, 25 Nov 2026 18:02:00 +0000</pubDate>
+    </item>    <item>
+      <title>Hera probe finds DART left a stadium-sized dent in asteroid Dimorphos</title>
+      <link>https://www.theregister.com/science/2026/11/25/hera-probe-finds-dart-left-a-stadium-sized-dent-in-asteroid-dimorphos/5312153</link>
+      <description>
+        <![CDATA[Next step is to move in for a closer look at the carnage]]>
+      </description>
+      <source:markdown>Next step is to move in for a closer look at the carnage</source:markdown>
+      <dc:creator>Richard Speed</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5312159&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312153</guid>
+      <category>science</category>
+      <pubDate>Wed, 25 Nov 2026 17:30:00 +0000</pubDate>
+    </item>    <item>
+      <title>Microsoft&#39;s NTLM security changes trip up third-party logins</title>
+      <link>https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085</link>
+      <description>
+        <![CDATA[It's not our fault if you've implemented it wrong]]>
+      </description>
+      <source:markdown>It&#39;s not our fault if you&#39;ve implemented it wrong</source:markdown>
+      <dc:creator>Richard Speed</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5244798&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312085</guid>
+      <category>security</category>
+      <pubDate>Wed, 25 Nov 2026 17:01:00 +0000</pubDate>
+    </item>    <item>
+      <title>HP sees premium-priced AI PCs as its meal ticket in a shrinking market</title>
+      <link>https://www.theregister.com/personal-tech/2026/11/25/hp-sees-premium-priced-ai-pcs-as-its-meal-ticket-in-a-shrinking-market/5312174</link>
+      <description>
+        <![CDATA[PC shipments set to fall further thanks to the memory shortage, but high-margin models for AI at the edge keep profits up]]>
+      </description>
+      <source:markdown>PC shipments set to fall further thanks to the memory shortage, but high-margin models for AI at the edge keep profits up</source:markdown>
+      <dc:creator>Dan Robinson</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=228369&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312174</guid>
+      <category>personal tech</category>
+      <pubDate>Wed, 25 Nov 2026 17:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard</title>
+      <link>https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/</link>
+      <description>
+        <![CDATA[Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant dialogue we had after the space shuttle Challenger disaster,” [&#8230;]]]>
+      </description>
+      <source:markdown>Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant dialogue we had after the space shuttle Challenger disaster,” \[…\]</source:markdown>
+      <dc:creator>Rob Garner</dc:creator>
+      <guid isPermaLink="false">cid://https://www.nasa.gov/?p=1067811</guid>
+      <category>Goddard Space Flight Center</category>
+      <category>People of Goddard</category>
+      <category>People of NASA</category>
+      <pubDate>Wed, 25 Nov 2026 16:47:29 +0000</pubDate>
+    </item>    <item>
+      <title>US Treasury financial crimes unit becomes latest fed breach victim</title>
+      <link>https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165</link>
+      <description>
+        <![CDATA[FinCEN takes systems offline and extends filing deadlines while investigating 'unauthorized access']]>
+      </description>
+      <source:markdown>FinCEN takes systems offline and extends filing deadlines while investigating &#39;unauthorized access&#39;</source:markdown>
+      <dc:creator>Brandon Vigliarolo</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=232475&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312165</guid>
+      <category>security</category>
+      <pubDate>Wed, 25 Nov 2026 16:40:16 +0000</pubDate>
+    </item>    <item>
+      <title>Astronomers Accidentally Find a Rare Triple-Star System That They Say Shouldn&#39;t Exist. It&#39;s Located Just 28 Light-Years From Earth</title>
+      <link>https://www.smithsonianmag.com/smart-news/astronomers-accidentally-find-a-rare-triple-star-system-that-they-say-shouldnt-exist-its-located-just-28-light-years-from-earth-180989936/</link>
+      <description>
+        <![CDATA[The system, called Welopō'ai, includes a red dwarf and two white dwarfs. One of the white dwarfs—a dense stellar leftover—is extremely close to the reddish-orange star, and scientists say the progenitor star that died should have engulfed the red dwarf]]>
+      </description>
+      <source:markdown>The system, called Welopō&#39;ai, includes a red dwarf and two white dwarfs. One of the white dwarfs—a dense stellar leftover—is extremely close to the reddish-orange star, and scientists say the progenitor star that died should have engulfed the red dwarf</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/QhX_dBAvyYRzPa-VVPNcKDkAY38=/420x240/filters:focal(640x366:641x367)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1f/6e/1f6e62b2-7cca-40c8-aa13-77903f47d9a4/im4k-udem-system_welopoai_0.jpg" length="139175" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/astronomers-accidentally-find-a-rare-triple-star-system-that-they-say-shouldnt-exist-its-located-just-28-light-years-from-earth-180989936/</guid>
+      <pubDate>Wed, 25 Nov 2026 16:37:34 +0000</pubDate>
+    </item>    <item>
       <title>Eye of the Sahara</title>
       <link>https://www.nasa.gov/image-article/eye-of-the-sahara/</link>
       <description>
@@ -49,7 +132,14 @@
       </description>
       <source:markdown>These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.</source:markdown>
       <guid isPermaLink="false">cid://https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/</guid>
+      <category>Astrophysics</category>
+      <category>Astrophysics Division</category>
+      <category>Galaxies</category>
+      <category>Goddard Space Flight Center</category>
       <category>Hubble Space Telescope</category>
+      <category>Nancy Grace Roman Space Telescope</category>
+      <category>The Milky Way</category>
+      <category>The Universe</category>
       <pubDate>Wed, 25 Nov 2026 14:56:54 +0000</pubDate>
     </item>    <item>
       <title>Microsoft fixes Office dialog that had nothing to say and wouldn&#39;t go away</title>

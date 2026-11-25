@@ -5,8 +5,8 @@
     <title><![CDATA[Writing]]></title>
     <description><![CDATA[Writing and writing tools.]]></description>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>25 Nov 26 06:49 -0800</lastBuildDate>
-    <generator>antenna/0.2.0</generator>
+    <lastBuildDate>25 Nov 26 10:24 -0800</lastBuildDate>
+    <generator>antenna/0.2.1</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Nuclear Storytelling with Outrider Foundation</title>
@@ -26,9 +26,9 @@ The post [Nuclear Storytelling with Outrider Foundation](https://johnaugust.com/
       <title>Hide games with a game filter</title>
       <link>https://ifdb.org/news?item=170</link>
       <description>
-        <![CDATA[<p>You can now set a game filter on your <a href="/editprofile">profile</a> to hide games you don't want to see, using IFDB's <a href="/search">search prefixes</a>. For example, <b>-tag:horror language:en</b> hides games tagged "horror" and shows only games in English. While you're logged in, the filter applies to the home page, the "New on IFDB" lists, and search results, and each of those pages links to the same results without it.</p>]]>
+        <![CDATA[<p>You can now set a game filter on your <a href="https://ifdb.org/editprofile">profile</a> to hide games you don't want to see, using IFDB's <a href="https://ifdb.org/search">search prefixes</a>. For example, <b>-tag:horror language:en</b> hides games tagged "horror" and shows only games in English. While you're logged in, the filter applies to the home page, the "New on IFDB" lists, and search results, and each of those pages links to the same results without it.</p>]]>
       </description>
-      <source:markdown>You can now set a game filter on your [profile](/editprofile) to hide games you don&#39;t want to see, using IFDB&#39;s [search prefixes](/search). For example, **-tag:horror language:en** hides games tagged &#34;horror&#34; and shows only games in English. While you&#39;re logged in, the filter applies to the home page, the &#34;New on IFDB&#34; lists, and search results, and each of those pages links to the same results without it.</source:markdown>
+      <source:markdown>You can now set a game filter on your [profile](https://ifdb.org/editprofile) to hide games you don&#39;t want to see, using IFDB&#39;s [search prefixes](https://ifdb.org/search). For example, **-tag:horror language:en** hides games tagged &#34;horror&#34; and shows only games in English. While you&#39;re logged in, the filter applies to the home page, the &#34;New on IFDB&#34; lists, and search results, and each of those pages links to the same results without it.</source:markdown>
       <guid isPermaLink="false">cid://https://ifdb.org/news?item=170</guid>
       <pubDate>Sat, 21 Nov 2026 19:58:29 +0000</pubDate>
     </item>    <item>

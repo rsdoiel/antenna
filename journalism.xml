@@ -5,10 +5,23 @@
     <title><![CDATA[Student Paper]]></title>
     <description><![CDATA[Student journalism and the fourth estate.]]></description>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>25 Nov 26 06:48 -0800</lastBuildDate>
-    <generator>antenna/0.2.0</generator>
+    <lastBuildDate>25 Nov 26 10:24 -0800</lastBuildDate>
+    <generator>antenna/0.2.1</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Annual Beat ‘SC rally boosts Bruins’ spirits leading up to rivalry football game</title>
+      <link>https://dailybruin.com/2026/11/25/annual-beat-sc-rally-boosts-bruins-spirits-leading-up-to-rivalry-football-game/</link>
+      <description>
+        <![CDATA[More than 1,000 UCLA students, alumni and community members turned Wilson Plaza blue and gold at the Student Alumni Association&#8217;s annual Beat &#8216;SC Rally on Monday.]]>
+      </description>
+      <source:markdown>More than 1,000 UCLA students, alumni and community members turned Wilson Plaza blue and gold at the Student Alumni Association’s annual Beat ‘SC Rally on Monday.</source:markdown>
+      <dc:creator>Suresh Swaroop</dc:creator>
+      <guid isPermaLink="false">cid://https://dailybruin.com/?p=520989</guid>
+      <category>A Closer Look</category>
+      <category>Campus</category>
+      <category>News</category>
+      <pubDate>Wed, 25 Nov 2026 17:41:05 +0000</pubDate>
+    </item>    <item>
       <title>UCLA men’s basketball to open against Saint Mary’s at Rady Children’s Invitational</title>
       <link>https://dailybruin.com/2026/11/24/ucla-mens-basketball-to-open-against-saint-marys-at-rady-childrens-invitational/</link>
       <description>
@@ -19,6 +32,7 @@
       <guid isPermaLink="false">cid://https://dailybruin.com/?p=520976</guid>
       <category>Men&#39;s Basketball</category>
       <category>Sports</category>
+      <category>db-story-c2</category>
       <pubDate>Wed, 25 Nov 2026 06:29:24 +0000</pubDate>
     </item>    <item>
       <title>UCLA women’s tennis falters in NCAA singles, looks to 2027 for team comeback</title>
@@ -33,6 +47,7 @@ Junior Kate Fakih and senior Ahmani Guichard were eliminated in the first round 
       <guid isPermaLink="false">cid://https://dailybruin.com/?p=520966</guid>
       <category>Sports</category>
       <category>Women&#39;s Tennis</category>
+      <category>db-story-b</category>
       <pubDate>Wed, 25 Nov 2026 04:59:48 +0000</pubDate>
     </item>    <item>
       <title>Ezra Frech wins ‘Dancing with the Stars’ season 35</title>
@@ -74,6 +89,7 @@ UCLA men’s tennis concluded its fall season after junior Rudy Quan and fifth-y
       <guid isPermaLink="false">cid://https://dailybruin.com/?p=520960</guid>
       <category>Men&#39;s Tennis</category>
       <category>Sports</category>
+      <category>db-story-g</category>
       <pubDate>Wed, 25 Nov 2026 03:03:22 +0000</pubDate>
     </item>    <item>
       <title>What do students, faculty want Becerra to include in higher education plans?</title>
@@ -90,6 +106,7 @@ Becerra’s specific plan for higher education, however, has yet to be released.
       <category>Higher Education</category>
       <category>News</category>
       <category>UC</category>
+      <category>db-story-a</category>
       <pubDate>Wed, 25 Nov 2026 01:26:16 +0000</pubDate>
     </item>    <item>
       <title>No. 10 UCLA women’s basketball braves Red Storm, defeats St. John’s 69-56</title>
@@ -105,7 +122,7 @@ If the Bruins could have quit while ahead, they probably would have – right a
       <category>Sports</category>
       <category>Women&#39;s Basketball</category>
       <category>breaking</category>
-      <category>db-story-a</category>
+      <category>db-story-c1</category>
       <pubDate>Wed, 25 Nov 2026 00:23:46 +0000</pubDate>
     </item>    <item>
       <title>UCLA must prioritize students’ safety, help fund crosswalk at Gayley and Landfair</title>
@@ -120,6 +137,7 @@ This path for students walking from apartments to De Neve Holly is one of few co
       <guid isPermaLink="false">cid://https://dailybruin.com/?p=520942</guid>
       <category>Opinion</category>
       <category>Opinion Columns</category>
+      <category>db-story-d1</category>
       <category>db-story-op</category>
       <pubDate>Tue, 24 Nov 2026 19:51:48 +0000</pubDate>
     </item>    <item>
@@ -204,7 +222,7 @@ Nathan Fielder spent nearly three hours in A24’s “You Can See Everything” 
       <category>A Closer Look</category>
       <category>Campus</category>
       <category>News</category>
-      <category>db-story-a</category>
+      <category>db-story-f1</category>
       <pubDate>Tue, 24 Nov 2026 07:02:39 +0000</pubDate>
     </item>    <item>
       <title>Winner Takes All: The reel rivalry: Film’s fiercest foes face off on the big screen</title>
@@ -235,7 +253,7 @@ Young Latino voters will shape political outcomes in the United States’ future
       <guid isPermaLink="false">cid://https://dailybruin.com/?p=520908</guid>
       <category>National</category>
       <category>News</category>
-      <category>db-story-g</category>
+      <category>db-story-i</category>
       <pubDate>Tue, 24 Nov 2026 03:16:13 +0000</pubDate>
     </item>    <item>
       <title>The climate crisis is not gender-blind. California’s lawmakers shouldn’t be either.</title>
@@ -252,7 +270,7 @@ But if recently elected Democrats – especially those in environmentally consci
       <guid isPermaLink="false">cid://https://dailybruin.com/?p=520902</guid>
       <category>Opinion</category>
       <category>Opinion Columns</category>
-      <category>db-story-d1</category>
+      <category>db-story-h</category>
       <category>db-story-op</category>
       <pubDate>Tue, 24 Nov 2026 02:56:12 +0000</pubDate>
     </item>    <item>
@@ -271,7 +289,7 @@ She will become the fourth Bruin in the league, joining libero Zoe Jarvis, sette
       <category>Sports</category>
       <category>Women&#39;s Volleyball</category>
       <category>breaking</category>
-      <category>db-story-c1</category>
+      <category>db-story-f2</category>
       <pubDate>Tue, 24 Nov 2026 02:31:41 +0000</pubDate>
     </item>    <item>
       <title>Los Matadores consiguen su primera victoria de la temporada contra la Universidad de Grace</title>

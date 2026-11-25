@@ -1,14 +1,22 @@
 ---
 title: "Craft"
 description: "Craft is a list of hand oriented craft and technology\nDo we really need all those power tools?"
-pubDate: Wed, 25 Nov 2026 14:27:03 GMT
+pubDate: Wed, 25 Nov 2026 17:12:42 GMT
 aggregateOf: "craft.md"
-dateModified: Wed, 25 Nov 2026 14:48:56 GMT
-itemCount: 36
-generator: antenna/0.2.0
+dateModified: Wed, 25 Nov 2026 18:24:34 GMT
+itemCount: 37
+generator: antenna/0.2.1
 ---
 
 # Craft
+
+## [Giving Thanks at the Sawhorse: An 89th Birthday, a First Shaving, and the Rig That Started It All](https://www.popularwoodworking.com/editors-blog/giving-thanks-at-the-sawhorse-an-89th-birthday-a-first-shaving-and-the-rig-that-started-it-all/)
+
+via Popular Woodworking · 2026-11-25
+
+![](https://media.popularwoodworking.com/app/uploads/2026/11/23114115/img_20261123_141814_hdr-1024x771.jpeg)Every woodworker remembers the shop that shaped them, though for most of us, that first workspace looked nothing like the studios we dream about today. This Thanksgiving finds me in...
+
+[Source](https://www.popularwoodworking.com/editors-blog/giving-thanks-at-the-sawhorse-an-89th-birthday-a-first-shaving-and-the-rig-that-started-it-all/)
 
 ## [Nano Truer by Nano Hone Review](https://www.popularwoodworking.com/toolreviews/nano-truer-by-nano-hone-review/)
 

@@ -1,20 +1,42 @@
 ---
 title: "Healthy Eats"
 description: "Healthy eats and good eats, with recipes, cooking and food news."
-pubDate: Wed, 25 Nov 2026 16:23:40 GMT
+pubDate: Wed, 25 Nov 2026 17:37:50 GMT
 aggregateOf: "food.md"
-dateModified: Wed, 25 Nov 2026 16:32:25 GMT
-itemCount: 297
-generator: antenna/0.2.0
+dateModified: Wed, 25 Nov 2026 18:22:43 GMT
+itemCount: 301
+generator: antenna/0.2.1
 ---
 
 # Healthy Eats
+
+## [Burger King’s Peanuts Holiday Meal Includes Festive Snoopy Toys and Merch](https://www.tasteofhome.com/article/burger-king-peanuts-holiday-menu/)
+
+via Taste of Home · 2026-11-25
+
+Snoopy, Charlie Brown and Woodstock are taking over Burger King with a new holiday-themed menu and adorable collectibles.
+
+The post [Burger King’s Peanuts Holiday Meal Includes Festive Snoopy Toys and Merch](https://www.tasteofhome.com/article/burger-king-peanuts-holiday-menu/) appeared first on [Taste of Home](https://www.tasteofhome.com).
+
+## [Jif’s Surprising New Product at Costco Has Nothing to Do With Sandwiches](https://www.tasteofhome.com/article/jif-peanut-butter-ramen/)
+
+via Taste of Home · 2026-11-25
+
+Hold the jelly! The iconic peanut butter brand is taking a surprisingly savory direction with its latest product.
+
+The post [Jif’s Surprising New Product at Costco Has Nothing to Do With Sandwiches](https://www.tasteofhome.com/article/jif-peanut-butter-ramen/) appeared first on [Taste of Home](https://www.tasteofhome.com).
 
 ## [The Peruvian White Habanero Planting Guide](https://pepperscale.com/peruvian-white-habanero-planting/)
 
 via Pepper Scale · 2026-11-25
 
 How to grow Peruvian White habaneros: when to plant where you live, starting seeds, spacing, containers, watering, when to pick these creamy white habaneros, and common problems.
+
+## [Cottage Cheese Meatballs](https://www.tasteofhome.com/recipes/cottage-cheese-meatballs/)
+
+via Taste of Home · 2026-11-25
+
+No ricotta? Reach for a scoop of protein-rich cottage cheese. It's the secret to these tender, moist and protein-rich meatballs.
 
 ## [Nam Jim Jaew (Jaew Sauce)](https://www.chilipeppermadness.com/recipes/nam-jim-jaew/)
 
@@ -25,6 +47,14 @@ via Chili Pepper Madness · 2026-11-25
 Nam jim jaew is the Isan dipping sauce for grilled meats, made with fish sauce, lime, palm sugar, dried chilies and homemade toasted rice powder. Salty and sour first, heat third. Ready in 25 minutes.
 
 The post [Nam Jim Jaew (Jaew Sauce)](https://www.chilipeppermadness.com/recipes/nam-jim-jaew/) appeared first on [Chili Pepper Madness](https://www.chilipeppermadness.com).
+
+## [Indonesia Coffee Production Down 8.2% Due to Weather](https://dailycoffeenews.com/2026/11/25/indonesia-coffee-production-down-8-2-due-to-weather/)
+
+via Daily Coffee News · 2026-11-25
+
+![Indonesia coffee market](https://dailycoffeenews.com/wp-content/uploads/2026/11/Indonesia-coffee-market-620x400.png)
+
+Indonesia’s green coffee production is forecast to decline 8.2% to 11.35 million 60-kilogram bags in market year 2026/27, due primarily to weather events including flooding and extended dry spells, according...
 
 ## [I Tried Ina Garten’s Ranch Dressing, and It Changed My Mind About Ranch](https://www.tasteofhome.com/article/ina-garten-ranch-dressing/)
 

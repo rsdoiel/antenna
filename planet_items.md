@@ -1,14 +1,98 @@
 ---
 title: "Planet"
 description: "News from Europe, the Americas and the rest of the world beyond the Pacific Rim."
-pubDate: Wed, 25 Nov 2026 16:17:34 GMT
+pubDate: Wed, 25 Nov 2026 18:05:33 GMT
 aggregateOf: "planet.md"
-dateModified: Wed, 25 Nov 2026 16:20:13 GMT
-itemCount: 2667
-generator: antenna/0.2.0
+dateModified: Wed, 25 Nov 2026 18:08:44 GMT
+itemCount: 2691
+generator: antenna/0.2.1
 ---
 
 # Planet
+
+## [Remember when NASA slammed a spacecraft into an asteroid? We now have close-up images of the aftermath](https://www.cbc.ca/news/science/esa-hera-mission-dimorphos-didymos-9.7435354?cmp=rss)
+
+via CBC, World News · 2026-11-25
+
+![A large grey asteroid is seen with a smaller one nearby.](https://i.cbc.ca/ais/b87eb2f7-a0e8-4338-8ff1-7acb0f949288,1795619142080/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C114%2C1020%2C573%29%3B)
+
+Four years after NASA slammed a spacecraft into an asteroid to see if it could successfully alter its orbit around a larger companion, the European Space Agency's Hera spacecraft has arrived to see just how well that went.
+
+## [Poundland collapses putting 11,000 jobs at risk](https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-25
+
+The discount chain has fallen into administration after its owners failed to find a buyer.
+
+## [Who makes up the board of the Health Service Executive?](https://www.rte.ie/news/ireland/2026/1125/1600663-explainer-hse-board/)
+
+via RTÉ News · 2026-11-25
+
+The HSE Board is the senior decision making body which is accountable to the Minister for Health to oversee the HSE nationally, but who are its 11 members?
+
+## [Gordon Ramsay to host Top Gear as show revived after Flintoff crash](https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-25
+
+Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.
+
+## [US stocks fall further as fears over AI intensify](https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-25
+
+All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.
+
+## [Man, 19, appears in court over Co Donegal fatal collision](https://www.rte.ie/news/courts/2026/1125/1600671-letterkenny-fatal-collision/)
+
+via RTÉ News · 2026-11-25
+
+A young man has appeared in court in connection with a road traffic collision in Co Donegal which left one man dead and his brother with life-changing injuries.
+
+## [Images of asteroid targeted to test Earth's defences reveal stadium-sized crater](https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-25
+
+The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago
+
+## [Department Sec Gen to defend RTÉ €20m funding cut at PAC](https://www.rte.ie/news/ireland/2026/1125/1600660-rte-pac/)
+
+via RTÉ News · 2026-11-25
+
+The Secretary General of the Department of Media will defend a move by Minister Patrick O'Donovan to withhold funding from RTÉ at tomorrow's Public Accounts Committee (PAC) meeting.
+
+## [Marine Corps Trials Portable 5G Network for Deployments](https://news.usni.org/2026/11/25/marine-corps-trials-portable-5g-network-for-deployments)
+
+via US Navy Institute · 2026-11-25
+
+The Marine Corps is trialling a portable system that will provide units with a private 5G network enabling Marines to maintain communications while operating across dispersed locations.  The use of the Tactical High-Bandwidth, Low-Latency Minimum Viable Product, or Tactical HiBaLL MVP, is being explored by Program Manager Marine Air-Ground Task Force Command and Control (PM MAGTF C2), part of Portfolio Acquisition Executive Marine Corps (PAE MC), reads a PAE MC news release published on Friday. At the center of the capability are tactical networking nodes in a portable system that provide cellular network capabilities in environments where traditional infrastructure may
+
+## [Gordon Ramsay revealed as new Top Gear host](https://www.rte.ie/entertainment/2026/1125/1600666-gordon-ramsay-revealed-as-new-top-gear-host/)
+
+via RTÉ News · 2026-11-25
+
+Chef Gordon Ramsay will take over as the new lead host of Top Gear when it returns in 2028, the BBC has announced.
+
+## [Italian Navy’s First ‘Full’ PPA Giovanni delle Bande Nere Demonstrates BMD Capabilities](https://www.navalnews.com/naval-news/2026/11/italian-navy-bmd-ppa-bande-nere/)
+
+via Navel News · 2026-11-25
+
+In a major Italian Navy BMD milestone, the first ‘Full’ MPCS/PPA Giovanni delle Bande Nere intercepted a high-speed ballistic missile using Aster 30.
+
+The post [Italian Navy’s First ‘Full’ PPA Giovanni delle Bande Nere Demonstrates BMD Capabilities](https://www.navalnews.com/naval-news/2026/11/italian-navy-bmd-ppa-bande-nere/) appeared first on [Naval News](https://www.navalnews.com).
+
+## [3rd former Montreal police officer arrested and charged in connection with racism scandal](https://www.cbc.ca/news/canada/montreal/spvm-scandal-police-9.7435632?cmp=rss)
+
+via CBC, Top Stories · 2026-11-25
+
+![Police station 39 behind orange tape](https://i.cbc.ca/ais/54884a17-af7a-4d57-8630-4580d698f388,1793374084968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C238%2C4566%2C2568%29%3B)
+
+A third former Montreal police officer has been charged in connection with the racism scandal at Station 39 in the Montréal-Nord borough. Last Saturday, two other former officers were arrested and charged.
+
+## [Israeli judges question Netanyahu corruption charges](https://www.rte.ie/news/2026/1125/1600664-benjamin-netanyahu-court/)
+
+via RTÉ News · 2026-11-25
+
+Judges in the long-running corruption trial of Israeli caretaker prime minister Benjamin Netanyahu handed his defence a major boost by recommending the prosecution drop one of the cases in which he is accused of bribery.
 
 ## [Badenoch challenges Burnham over university fees for EU students](https://www.bbc.co.uk/news/articles/cw4gn8lxj5r1o?at_medium=RSS&at_campaign=rss)
 
@@ -16,17 +100,87 @@ via BBC, US & Canada · 2026-11-25
 
 The PM says EU students paying the same as British students is the European position and "won't be put on the table".
 
+## [Federal prosecutors stumble in case over Ontario nuclear plant's worst fish kill](https://www.cbc.ca/news/canada/bruce-power-fish-kill-court-mixup-9.7435313?cmp=rss)
+
+via CBC, Top Stories · 2026-11-25
+
+![A person holds a gizzard shad in their hand above a fishing net.](https://i.cbc.ca/ais/0100aeab-7de0-4db3-9dbc-9ce8deb6e3ae,1795616559717/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C321%2C756%2C425%29%3B)
+
+Crown prosecutors have withdrawn and re-laid charges over a massive fish kill in 2025 against Bruce Power, the private operator of Canada's largest nuclear plant, after initially filing the case in the wrong court.
+
+## [EU offers UK fresh deal on 'Made in Europe' scheme](https://www.bbc.co.uk/news/articles/c50md8x9gdgro?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-25
+
+The draft proposal could see the UK join the scheme without having to increase import taxes on Chinese cars.
+
+## [Trump's accounts traded Nvidia shares 44 times this year, records show](https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-25
+
+A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.
+
+## [Martha Firestone Ford, former Detroit Lions owner and member of auto giant family, dead at 101](https://www.cbc.ca/news/canada/windsor/martha-ford-nfl-obit-9.7435464?cmp=rss)
+
+via CBC, World News · 2026-11-25
+
+![Martha Firestone Ford](https://i.cbc.ca/ais/cd628847-2715-48c5-8470-456b40f0e5dc,1795624587903/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C305%2C5848%2C3289%29%3B)
+
+Martha Firestone Ford, the tire heiress who became a link between two of the automotive industry's most iconic families and later took over the NFL's Detroit Lions, has died at 101.
+
+## [Removal of Premarin highlights difficulty in accessing menopause treatment in Canada](https://www.cbc.ca/news/health/premarin-menopause-treatments-pulled-canada-9.7435137?cmp=rss)
+
+via CBC, Top Stories · 2026-11-25
+
+![A woman with her back to the camera is walking her dog outside.](https://i.cbc.ca/ais/731da03a-e3b2-43f1-bca7-17b3d90994cb,1795591566900/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C61%2C3000%2C1687%29%3B)
+
+Earlier this month, Pfizer Canada announced it was discontinuing its hormone replacement therapy Premarin in Canada, but not in the U.S., citing “business reasons” — this despite an uptick in demand for menopause treatment. Clinicians are worried about access for their patients and are calling on provinces to expand coverage of an alternative.
+
+## [Edmonton’s football resurgence continues as city is announced as 2028 Grey Cup host](https://www.cbc.ca/news/canada/edmonton/edmonton-elks-2028-grey-cup-host-9.7435566?cmp=rss)
+
+via CBC, Top Stories · 2026-11-25
+
+![A photo of a large football stadium. The colour scheme of the stadium is yellow and green.](https://i.cbc.ca/ais/48fe5f2f-7ad5-46c6-9ba3-9b29ba269bc3,1795622785022/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C281%2C3600%2C2025%29%3B)
+
+The Edmonton Elks and the Canadian Football League announced that the 2028 Grey Cup will be held in Edmonton. The last time Commonwealth Stadium hosted a Grey Cup was in 2018, when the Calgary Stampeders beat the Ottawa Redblacks 27-16.
+
+## [She grew up in group homes. Now she’s piecing together her past](https://www.cbc.ca/news/canada/nova-scotia/youth-government-care-files-mental-health-nova-scotia-9.7432913?cmp=rss)
+
+via CBC, Top Stories · 2026-11-25
+
+![Marisa Wright](https://i.cbc.ca/ais/b5ff90b6-5d28-4497-833b-f3642e8d6199,1795548537039/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B)
+
+## [Iran claims Israel trying to deceive US into another war](https://www.rte.ie/news/middle-east/2026/1125/1600662-iran-israel/)
+
+via RTÉ News · 2026-11-25
+
+Iranian Foreign Minister Abbas Araghchi has said that Israel was trying to drag the United States into another war after an Israeli minister alleged Tehran is building chemical weapons.
+
+## [Why has Poundland collapsed and what happens next?](https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-25
+
+The retail chain has collapsed just one year after being bought for £1 by an American firm.
+
+## [Contamination fears after US army detonates explosives](https://www.rte.ie/news/us/2026/1125/1600659-toxic-explosives-iowa/)
+
+via RTÉ News · 2026-11-25
+
+The US Army detonated a massive cache of toxic explosives stored in a tiny Iowa farming town, saying the materials were too unstable to move to a safer area and warning residents to shelter from the blast and a potential cloud of lead dust.
+
+## [N.L. is pausing plans to bring in flavoured vape ban](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-vape-amendment-postponing-9.7435548?cmp=rss)
+
+via CBC, Canada News · 2026-11-25
+
+![](https://i.cbc.ca/ais/1.1875881,1380720080000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B)
+
+The government of Newfoundland and Labrador says it's postponing plans to amend the Tobacco and Vapour Products Control Act.
+
 ## [COP31 and the courage to say no](https://www.talkingclimate.ca/p/cop31-and-the-courage-to-say-no)
 
 via Talking Climate · 2026-11-25
 
 Climate gets more screen time, COP31 ends without a deal, and how to find your climate role
-
-## [US stocks fall further as fears over AI intensify](https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-25
-
-All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.
 
 ## [Israeli strike kills 2 senior Hamas officials](https://www.cbc.ca/news/world/gaza-hamas-israel-kills-two-hamas-officials-9.7435419?cmp=rss)
 
@@ -35,12 +189,6 @@ via CBC, World News · 2026-11-25
 ![A young man in a white t-shirt and blue jeans leans on two other men outside an ambulance.](https://i.cbc.ca/ais/1.6996700,1697337617000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C36%2C594%2C334%29%3B)
 
 The second strike left four people dead, including two children. Witnesses say they were given no prior warning and the explosion happened in the middle of the night, while everyone was sleeping.
-
-## [Poundland collapses putting 11,000 jobs at risk](https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-25
-
-The discount chain has collapsed into administration after its owners failed to find a buyer.
 
 ## [Bangladesh garment workers who supply H&M, Walmart and Gap protest lowest pay hike in 40 years](https://www.cbc.ca/news/world/bangladesh-garment-workers-protest-9.7435339?cmp=rss)
 
@@ -58,7 +206,15 @@ via CBC, World News · 2026-11-25
 
 The lawyers for convicted murderer Christa Pike say the full extent of the injuries she suffered from her botched execution are still unknown and that she needs to be examined by medical experts, according to a report.
 
-## [Wife drugged and raped by husband asked police if she was to blame](https://www.bbc.co.uk/news/articles/c38x0vd2yyx5o?at_medium=RSS&at_campaign=rss)
+## [New ‘Green Lava’ trailer brings Giacomo Mattivi’s story to wider audience](https://www.vaticannews.va/en/vatican-city/news/2026-11/green-lava-trailer-launch-justin-beiber-everything-hallelujah.html)
+
+via Vatican News · 2026-11-25
+
+The filmmakers behind "Green Lava" release an international trailer featuring Justin Bieber’s “Everything Hallelujah” to accompany the documentary about a young Italian poet and catechist who lives with Duchenne muscular dystrophy.
+
+[Read all](https://www.vaticannews.va/en/vatican-city/news/2026-11/green-lava-trailer-launch-justin-beiber-everything-hallelujah.html)
+
+## [Wife drugged and raped by husband asked police if she was to blame, mass-sexual offence trial hears](https://www.bbc.co.uk/news/articles/c38x0vd2yyx5o?at_medium=RSS&at_campaign=rss)
 
 via BBC, US & Canada · 2026-11-25
 
@@ -66,7 +222,7 @@ The woman told a court suggestions she was 'pretending to be asleep' were 'absol
 
 ## [U.S. army blows up bomb chemicals in Iowa despite fears toxic plume could endanger residents](https://www.cbc.ca/news/world/us-army-detonation-lead-azide-iowa-9.7435246?cmp=rss)
 
-via CBC, Top Stories · 2026-11-25
+via CBC, World News · 2026-11-25
 
 ![Smoke billows over trees from afar.](https://i.cbc.ca/ais/40681863-5ba0-4c32-b449-1d0c63f29704,1795620479022/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C128%2C2457%2C1382%29%3B)
 
@@ -106,11 +262,11 @@ via CBC, World News · 2026-11-25
 
 Yemen's Iran-aligned Houthis said on Wednesday they had attacked Saudi Arabia's Ras Tanura oil refinery, the kingdom's largest, which is near a major export terminal for Saudi crude.
 
-## [Time running out for Poundland as takeover hopes fade](https://www.rte.ie/news/business/2026/1125/1600647-time-running-out-for-poundland/)
+## [Dealz owner Poundland enters administration](https://www.rte.ie/news/business/2026/1125/1600647-time-running-out-for-poundland/)
 
 via RTÉ News · 2026-11-25
 
-The future of Dealz parent company Poundland is on a knife-edge amid intensifying talks to keep the discount retailer afloat ahead of a key deadline.
+Dealz parent company Poundland has entered administration, its American owner has announced, putting around 11,000 jobs and 600 stores at risk.
 
 ## [Ghana: Cardinal Peter Poreku Dery features on new GH¢2 banknote](https://www.vaticannews.va/en/africa/news/2026-11/ghana-cardinal-peter-poreku-dery-features-on-new-ghc2-banknote.html)
 
@@ -120,15 +276,15 @@ The late Ghanaian Cardinal, Peter Poreku Dery, remembered for his contribution t
 
 [Read all](https://www.vaticannews.va/en/africa/news/2026-11/ghana-cardinal-peter-poreku-dery-features-on-new-ghc2-banknote.html)
 
-## [AI rout drags Wall Street lower, S&P 500 slumps 3%](https://www.cbc.ca/news/business/stock-market-latest-9.7435326?cmp=rss)
+## [AI rout drags Wall Street lower, S&P 500 slumps 2.7%](https://www.cbc.ca/news/business/stock-market-latest-9.7435326?cmp=rss)
 
 via CBC, Top Stories · 2026-11-25
 
-![Traders stare at screens at the New York Stock Exchange.](https://i.cbc.ca/ais/bf27a3ba-21f3-4a9d-9bcc-99ee6eeeb6ab,1795617456855/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C428%2C8225%2C4626%29%3B)
+![Traders stare at screens at the New York Stock Exchange.](https://i.cbc.ca/ais/bf27a3ba-21f3-4a9d-9bcc-99ee6eeeb6ab,1795624990611/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C428%2C8225%2C4626%29%3B)
 
 AI stocks are pulling Wall Street lower again amid ongoing worries that the sector is in a bubble.
 
-## [Why the Iran war is being blamed for raising UK energy bills](https://www.bbc.co.uk/news/articles/cv1j6wk020p8o?at_medium=RSS&at_campaign=rss)
+## [How much has the Iran war put up your energy bills?](https://www.bbc.co.uk/news/articles/cv1j6wk020p8o?at_medium=RSS&at_campaign=rss)
 
 via BBC, US & Canada · 2026-11-25
 
@@ -157,6 +313,14 @@ It comes after Kemi Badenoch called on the PM to apologise for allowing an "obsc
 via BBC, US & Canada · 2026-11-25
 
 Raheem Sterling was sentenced to 12 months imprisonment, suspended for 18 months, on Wednesday.
+
+## [Libyan army says 2 officers were killed in Ukraine's attack on Russian warship](https://www.cbc.ca/news/world/ukraine-russia-libya-attack-9.7435192?cmp=rss)
+
+via CBC, World News · 2026-11-25
+
+![A video image shows a vessel with jet stream behind it nearing a structure.](https://i.cbc.ca/ais/82061650-cee3-42e5-843e-fa579a9f3ef5,1795610106788/full/max/0/default.jpg?im=Crop%2Crect%3D%2866%2C0%2C1555%2C874%29%3B)
+
+Two Libyan naval officers died from wounds sustained in Ukraine's recent drone attack on a Russian warship docked at a port in eastern Libya, military authorities there said, vowing unspecified retaliation against Kyiv for the deaths.
 
 ## [Man and daughter who dumped murdered woman in canal jailed](https://www.bbc.co.uk/news/articles/cq3dg1r3ypvpo?at_medium=RSS&at_campaign=rss)
 
@@ -251,7 +415,7 @@ Cardiff council said the fight would be a "big deal" for the city, boosting its 
 
 ## [Rural Ontario residents slam proposed land-seizure powers for Alto high-speed rail project](https://www.cbc.ca/news/canada/ottawa/alto-rail-land-seizure-powers-reaction-9.7435114?cmp=rss)
 
-via CBC, Top Stories · 2026-11-25
+via CBC, Canada News · 2026-11-25
 
 ![Woman in yellow shirt.](https://i.cbc.ca/ais/47fd8752-d056-4117-b39b-f30d2ac438d2,1795608408144/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6000%2C3375%29%3B)
 
@@ -269,7 +433,7 @@ Many coastal communities of B.C. are preparing with sandbags and clearing debris
 
 via Democracy Now · 2026-11-25
 
-Army Publishes New Map Showing Lead Dust from Munitions Plant Detonation Could Spread to Missouri, Gaza Health Officials Warn of Spread of Meningitis as Israel Continues to Violate Ceasefire Deal, Yemen’s Houthis Strike Saudi Arabia’s Largest Refinery and Riyadh Skyscraper, World Food Programme Warns Wars in Ukraine and Mideast Are Jeopardizing Food Aid for Millions, Lawsuits Allege ICE Brutalized U.S. Citizens and Prisoners at For-Profit Jail, Kilmar Ábrego García Leaves U.S. for Spain, Ending 20-Month Legal Ordeal, Trump Says He Might Pardon Jensen Huang as Attorney General Calls Nvidia a “Good Corporate Citizen”, Indian PM Narendra Modi Has Weakened Democratic Institutions, Human Rights Watch Finds, Hollywood Stars Defend Iranian Director Jafar Panahi After Tehran Court Sentences Him in Absentia, Far-Right Parties Lead in Polls Ahead of Sunday’s Snap Election in Spain, Court Bars U.S. from Punishing People Who Liaise with International Criminal Court, Celebrities Call on Sen. Chris Van Hollen to Be Elected Democratic Leader Over Sen. Chuck Schumer
+Army Publishes New Map Showing Lead Dust from Munitions Plant Detonation Could Spread to Missouri, Gaza Health Officials Warn of Spread of Meningitis as Israel Continues to Violate Ceasefire Deal, Yemen’s Houthis Strike Saudi Arabia’s Largest Refinery and Riyadh Skyscraper, World Food Programme Warns Wars in Ukraine and Mideast Are Jeopardizing Food Aid for Millions, Lawsuits Allege ICE Brutalized U.S. Citizens and Prisoners at For-Profit Jail, Kilmar Ábrego García Leaves U.S. for Spain, Ending 20-Month Legal Ordeal, Celebrities Call on Sen. Chris Van Hollen to Be Elected Democratic Leader Over Sen. Chuck Schumer, Trump Says He Might Pardon Jensen Huang as Attorney General Calls Nvidia a “Good Corporate Citizen”, Indian PM Narendra Modi Has Weakened Democratic Institutions, Human Rights Watch Finds, Hollywood Stars Defend Iranian Director Jafar Panahi After Tehran Court Sentences Him in Absentia, Far-Right Parties Lead in Polls Ahead of Sunday’s Snap Election in Spain, Court Bars U.S. from Punishing People Who Liaise with International Criminal Court
 
 ## [Not ensuring Rooney followed lead vehicle 'mistake' - Cpt](https://www.rte.ie/news/ireland/2026/1125/1600622-sean-rooney-inquest/)
 
@@ -277,13 +441,13 @@ via RTÉ News · 2026-11-25
 
 Captain David Kelly has said not ensuring the vehicle driven by Private Seán Rooney was following the lead vehicle was "one of the greatest mistakes" of his life.
 
-## [Kilmar Abrego Garcia, who faced U.S. deportation efforts and 'vindictive prosecution,' arrives in Spain](https://www.cbc.ca/news/world/us-spain-abrego-garcia-9.7435157?cmp=rss)
+## [Kilmar Ábrego García, who faced U.S. deportation efforts and 'vindictive prosecution,' arrives in Spain](https://www.cbc.ca/news/world/us-spain-abrego-garcia-9.7435157?cmp=rss)
 
 via CBC, World News · 2026-11-25
 
 ![A man wearing a baseball cap and glasses is seen in a crowd of people nearby an airport.](https://i.cbc.ca/ais/ca04bee6-3c3e-41f6-ba8c-f995ceb80b89,1795611306487/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B)
 
-Kilmar Abrego Garcia, the Salvadoran national who fought his mistaken deportation from the U.S., arrived in Spain on Wednesday after voluntarily leaving the United States, potentially ending a defining saga of the Trump administration's immigration crackdown.
+Kilmar Ábrego García, the Salvadoran national who fought his mistaken deportation from the U.S., arrived in Spain on Wednesday after voluntarily leaving the United States, potentially ending a defining saga of the Trump administration's immigration crackdown.
 
 ## [Electronic ankle tag pilot to monitor up to 150 prisoners](https://www.rte.ie/news/ireland/2026/1125/1600617-electronic-monitoring-pilot/)
 
@@ -303,19 +467,11 @@ via BBC, US & Canada · 2026-11-25
 
 The BBC speaks to three people about steps they take to keep their energy bills under control.
 
-## [Horse Sport Ireland set to be liquidated, staff say](https://www.rte.ie/news/2026/1125/1600614-horse-sport-ireland/)
+## [Horse Sport Ireland set to be liquidated tomorrow](https://www.rte.ie/news/2026/1125/1600614-horse-sport-ireland/)
 
 via RTÉ News · 2026-11-25
 
-Staff members at Horse Sport Ireland (HSI) have said they understand the company is set to be liquidated, with all of their roles being made redundant.
-
-## [‘Pretty low’: Calgary girls' hockey team out $2K after tournament scam](https://www.cbc.ca/news/canada/calgary/calgary-hockey-girls-team-tournament-scam-9.7434326?cmp=rss)
-
-via CBC, Top Stories · 2026-11-25
-
-![A hockey coach draws on the ice, surrounded by young female players](https://i.cbc.ca/ais/67ff8515-eb26-4990-a6c7-7ba150a2a68f,1795546564965/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C660%2C3024%2C1701%29%3B)
-
-A Calgary U-11 girls' hockey team lost nearly $2,000 — and the opportunity to play a tournament they thought they were accepted to — after falling victim to a scam. Last month, Hockey Alberta issued a warning on social media that it’s seeing a growing number of spoofed emails requesting money for tournaments.
+The country's governing body for equestrian sport - Horse Sport Ireland (HSI) - will be liquidated tomorrow with the loss of around 40 jobs, RTÉ News understands.
 
 ## [Ending mandatory inquiries for in-custody deaths risks eroding trust in Alberta justice, experts warn](https://www.cbc.ca/news/canada/edmonton/alta-fatality-review-9.7434435?cmp=rss)
 
@@ -325,17 +481,43 @@ via CBC, Canada News · 2026-11-25
 
 Experts say the changes, intended to address a mounting backlog of pending fatality inquiries, would reduce the number of deaths subjected to public scrutiny and bring a previously independent review process under ministerial control.
 
+## [‘Pretty low’: Calgary girls' hockey team out $2K after tournament scam](https://www.cbc.ca/news/canada/calgary/calgary-hockey-girls-team-tournament-scam-9.7434326?cmp=rss)
+
+via CBC, Top Stories · 2026-11-25
+
+![A hockey coach draws on the ice, surrounded by young female players](https://i.cbc.ca/ais/67ff8515-eb26-4990-a6c7-7ba150a2a68f,1795546564965/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C660%2C3024%2C1701%29%3B)
+
+A Calgary U-11 girls' hockey team lost nearly $2,000 — and the opportunity to play a tournament they thought they were accepted to — after falling victim to a scam. Last month, Hockey Alberta issued a warning on social media that it’s seeing a growing number of spoofed emails requesting money for tournaments.
+
 ## [Yemen war: Emergency aid chief calls for access to war-hit communities](https://news.un.org/feed/view/en/story/2026/11/1168872)
 
 via United Nations, Top Stories · 2026-11-25
 
 The UN’s top aid official, Tom Fletcher, arrived in Yemen on Wednesday warning that the war there is preventing families from accessing the food and medicine they need to survive, particularly those in Taiz City.
 
-## [Four teenagers charged over M50 wrong-way collision](https://www.rte.ie/news/2026/1125/1600612-dublin-m50-investigation/)
+## [Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’](https://news.un.org/feed/view/en/story/2026/11/1168875)
+
+via United Nations, Top Stories · 2026-11-25
+
+For women in Gaza who lost their husbands in the war, providing for a family no longer means just putting food on the table. Now it also means finding shelter, hauling water and keeping children in school – all from a tent.
+
+## [Gisèle Pelicot’s son: ‘Not being violent is the bare minimum’](https://news.un.org/feed/view/en/story/2026/11/1168876)
+
+via United Nations, Top Stories · 2026-11-25
+
+Two years after the Mazan rape trial, David Pelicot has decided to put his name to the fight against sexual violence – and to confront what he calls the silence of men.
+
+## [Somalia: Famine risk decreases in Baidoa – but millions still going hungry](https://news.un.org/feed/view/en/story/2026/11/1168874)
+
+via United Nations, Top Stories · 2026-11-25
+
+Millions of people in Somalia still face severe food shortages and malnutrition despite the reduced risk of famine in Baidoa, global food security experts warned on Wednesday.
+
+## [Four boys appear in court over M50 wrong-way collision](https://www.rte.ie/news/2026/1125/1600612-dublin-m50-investigation/)
 
 via RTÉ News · 2026-11-25
 
-Four teenagers have been charged in relation to the investigation into a collision on the M50 after a car was driven the wrong way down an up ramp near the Firhouse junction.
+Four teenage boys, aged 13 to 15, including two brothers, have been charged with travelling in a stolen car that was involved in a head-on collision after being driven the wrong way on the M50.
 
 ## [Hundreds complain about I'm A Celebrity after Mariella Frostrup called AJ Odudu 'aggressive'](https://www.bbc.co.uk/news/articles/c6ly5v11q194o?at_medium=RSS&at_campaign=rss)
 
@@ -375,15 +557,7 @@ via CBC, Top Stories · 2026-11-25
 
 ![Police vehicles and tape outside a home.](https://i.cbc.ca/ais/31c3aacc-a73c-4838-8d1b-1d5631838a3c,1795613369043/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B)
 
-A man has died after a shooting during an attempted home invasion early Wednesday in Toronto, police say.
-
-## [Why did Trump back Jensen Huang's return?](https://www.cbc.ca/radio/frontburner/why-did-trump-back-jensen-huang-s-return-9.7434921?cmp=rss)
-
-via CBC, Top Stories · 2026-11-25
-
-![Two men in suits shake hands and smile.](https://i.cbc.ca/ais/14025625-e0fa-460e-b426-640daca8db08,1795564453488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C3313%2C1863%29%3B)
-
-Jensen Huang is back as the CEO of Nvidia, with the help of Trump, despite a flurry of ongoing investigations. Is he too big to fail?
+A man has died after a shooting during an attempted home invasion early Wednesday in Toronto, police say. They said an unknown number of suspects 'forced their way' into a home and shot a resident during a confrontation.
 
 ## [After torturing victim over missing drugs, Saskatoon man played VLTs, stabbed a stranger](https://www.cbc.ca/news/canada/saskatoon/dillon-singler-homicide-lee-perkins-manslaughter-stabbing-market-mall-9.7430064?cmp=rss)
 
@@ -393,11 +567,13 @@ via CBC, Top Stories · 2026-11-25
 
 Within hours of participating in a brutally violent homicide, Dillon Singler went out and played some VLTs at Market Mall in Saskatoon, where he randomly attacked and stabbed another man.
 
-## [EU offers UK fresh deal on 'Made in Europe' scheme](https://www.bbc.co.uk/news/articles/c50md8x9gdgro?at_medium=RSS&at_campaign=rss)
+## [Why did Trump back Jensen Huang's return?](https://www.cbc.ca/radio/frontburner/why-did-trump-back-jensen-huang-s-return-9.7434921?cmp=rss)
 
-via BBC, US & Canada · 2026-11-25
+via CBC, Top Stories · 2026-11-25
 
-The draft proposal could see the UK join the scheme without having to increase import taxes on Chinese cars.
+![Two men in suits shake hands and smile.](https://i.cbc.ca/ais/14025625-e0fa-460e-b426-640daca8db08,1795564453488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C3313%2C1863%29%3B)
+
+Jensen Huang is back as the CEO of Nvidia, with the help of Trump, despite a flurry of ongoing investigations. Is he too big to fail?
 
 ## [2 men charged in break-in at country residence of Prince William, Princess of Wales](https://www.cbc.ca/news/world/uk-breakin-royals-charges-9.7435154?cmp=rss)
 
@@ -454,14 +630,6 @@ via CBC, Top Stories · 2026-11-25
 
 A bungalow nestled on the outskirts of Springhill, N.S., was a pandemic purchase for a couple, but they were surprised to return this fall to find all buildings and irreplaceable mementoes on the property gone.
 
-## [She grew up in group homes. Now she’s piecing together her past](https://www.cbc.ca/news/canada/nova-scotia/youth-government-care-files-mental-health-nova-scotia-9.7432913?cmp=rss)
-
-via CBC, Top Stories · 2026-11-25
-
-![A woman looks straight into the camera while sitting at a kitchen table.](https://i.cbc.ca/ais/1b45c13c-de53-4237-8bbf-79041a267fd6,1795459246382/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B)
-
-Marisa Wright, 37, is trying to piece together her broken childhood through school, police and government records. Some agencies initially supplied only a limited amount of information in a few summary pages and others denied access completely.
-
 ## [What will the price cap changes mean for my bills?](https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss)
 
 via BBC, US & Canada · 2026-11-25
@@ -510,14 +678,6 @@ Poland laid the keel for its third Miecznik-class frigate, ORP Huragan, in Gdyni
 
 The post [Poland Lays Keel for Third Miecznik Frigate, Signs CAMM-MR Missile Deal with UK](https://www.navalnews.com/naval-news/2026/11/poland-lays-keel-third-miecznik-frigate-huragan/) appeared first on [Naval News](https://www.navalnews.com).
 
-## [Can AI chatbots really help shoppers find the best deals?](https://www.cbc.ca/news/business/ai-shopping-assistant-black-friday-deals-9.7434424?cmp=rss)
-
-via CBC, Top Stories · 2026-11-25
-
-![Phone screen showing a Garmin smartwatch selling for $350, down from $489.99.](https://i.cbc.ca/ais/92cdbab2-4b80-4b0a-8111-36d7e58c12c8,1795547642442/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B)
-
-Canadians are increasingly turning to AI chatbots to help them shop, compare items, scope out discounts and, in some cases, even make purchases. But are shoppers really seeing the best deals for Black Friday?
-
 ## [Suspected North Korean computer programmers did contract work for B.C. government](https://www.cbc.ca/news/canada/suspected-north-korean-computer-programmers-british-columbia-government-9.7433830?cmp=rss)
 
 via CBC, World News · 2026-11-25
@@ -533,6 +693,14 @@ via CBC, World News · 2026-11-25
 ![Large ocean waves crash against seaside homes along the California coast, sending white spray high into the air as turbulent surf pounds the shoreline.](https://i.cbc.ca/ais/c1e54206-adec-4bed-b5da-fc0aed37c522,1795485541787/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C296%2C4481%2C2520%29%3B)
 
 From "Super" to "Godzilla" to "Mega," the names for this year's powerful El Niño keep getting bigger. But scientists say there's no official upgrade. Here's what the dramatic labels mean, how exceptional this event really is and what Canadians can expect this winter.
+
+## [Can AI chatbots really help shoppers find the best deals?](https://www.cbc.ca/news/business/ai-shopping-assistant-black-friday-deals-9.7434424?cmp=rss)
+
+via CBC, Canada News · 2026-11-25
+
+![Phone screen showing a Garmin smartwatch selling for $350, down from $489.99.](https://i.cbc.ca/ais/92cdbab2-4b80-4b0a-8111-36d7e58c12c8,1795547642442/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B)
+
+Canadians are increasingly turning to AI chatbots to help them shop, compare items, scope out discounts and, in some cases, even make purchases. But are shoppers really seeing the best deals for Black Friday?
 
 ## [Highest MP turnover rate in decades making for byelection bonanza this Parliament](https://www.cbc.ca/news/politics/most-byelections-this-soon-after-general-election-9.7434875?cmp=rss)
 
@@ -621,12 +789,6 @@ Visitors and stallholders say the event did not match the promotional AI picture
 via BBC, US & Canada · 2026-11-25
 
 The deal is said to be the first known case of the UK government forcibly resettling a refugee permanently overseas.
-
-## [Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth](https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-25
-
-The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.
 
 ## [Saw Doctors musical playing to full houses in Galway](https://www.rte.ie/news/connacht/2026/1125/1600532-shamtown-galway/)
 
@@ -1417,14 +1579,6 @@ via BBC, US & Canada · 2026-11-24
 
 Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.
 
-## [Why Trump's move to get Jensen Huang reinstated as Nvidia CEO won't end the questions](https://www.cbc.ca/news/world/trump-jensen-huang-nvidia-china-9.7433543?cmp=rss)
-
-via CBC, World News · 2026-11-24, updated 2026-11-25
-
-![Two men in suits shake hands near a stand of microphones outdoors while other men look on.](https://i.cbc.ca/ais/f5894fac-5674-4d5a-afd6-3d5475c9ab81,1795487440947/full/max/0/default.jpg?im=Crop%2Crect%3D%281068%2C165%2C2511%2C1412%29%3B)
-
-U.S. President Donald Trump's extraordinary intervention to get Jensen Huang reinstated as Nvidia CEO does little to shut down many pressing questions about a scandal that has rocked both Washington and the stock markets.
-
 ## [Italy: Religious sister's musical talent helps unite people to God in prayer](https://www.vaticannews.va/en/church/news/2026-11/sisters-project-italy-music-liturgy-beauty-media-charism-service.html)
 
 via Vatican News · 2026-11-24, updated 2026-11-25
@@ -1432,6 +1586,14 @@ via Vatican News · 2026-11-24, updated 2026-11-25
 Through liturgical music, Sr. Maria Alžbeta Stračinová reveals how the beauty of music can lead to a deeper encounter with God. Her story reflects the quiet yet powerful impact of consecrated women around the world who serve, inspire, and enrich others, finding deep personal fulfillment in their vocation.
 
 [Read all](https://www.vaticannews.va/en/church/news/2026-11/sisters-project-italy-music-liturgy-beauty-media-charism-service.html)
+
+## [Why Trump's move to get Jensen Huang reinstated as Nvidia CEO won't end the questions](https://www.cbc.ca/news/world/trump-jensen-huang-nvidia-china-9.7433543?cmp=rss)
+
+via CBC, World News · 2026-11-24, updated 2026-11-25
+
+![Two men in suits shake hands near a stand of microphones outdoors while other men look on.](https://i.cbc.ca/ais/f5894fac-5674-4d5a-afd6-3d5475c9ab81,1795487440947/full/max/0/default.jpg?im=Crop%2Crect%3D%281068%2C165%2C2511%2C1412%29%3B)
+
+U.S. President Donald Trump's extraordinary intervention to get Jensen Huang reinstated as Nvidia CEO does little to shut down many pressing questions about a scandal that has rocked both Washington and the stock markets.
 
 ## [Montreal's 'unprecedented' tax hike key to tackling 'infrastructure crisis,' mayor says](https://www.cbc.ca/news/canada/montreal/montreal-municipal-budget-tabling-2027-9.7432894?cmp=rss)
 
@@ -2357,12 +2519,6 @@ via CBC, Canada News · 2026-11-23, updated 2026-11-24
 
 The two Americans convicted of murdering Quebec entrepreneur Daniel Langlois and his partner Dominique Marchand in Dominica in December 2023 were sentenced on Monday to life in prison without parole.
 
-## [UN chief urges talks on global AI safety framework, warns of historic shift in power](https://news.un.org/feed/view/en/story/2026/11/1168861)
-
-via United Nations, Economic Development · 2026-11-23, updated 2026-11-25
-
-UN Secretary-General António Guterres on Monday called on Member States to begin discussions on a multilateral framework for managing the risks of artificial intelligence (AI), warning that the technology is driving “the biggest transfer of power in the history of humankind”.
-
 ## [Libya: UN mission urges probe into Benghazi port attacks](https://news.un.org/feed/view/en/story/2026/11/1168857)
 
 via United Nations, Top Stories · 2026-11-23, updated 2026-11-25
@@ -2386,6 +2542,12 @@ As winter sets in, the Security Council held a high stakes meeting Monday to dis
 via United Nations, Top Stories · 2026-11-23, updated 2026-11-25
 
 Heavy fighting near a hospital in Ituri province in the Democratic Republic of the Congo (DRC) has disrupted the vital work of Ebola responders and forced emergency teams to take cover for more than 24 hours.
+
+## [UN chief urges talks on global AI safety framework, warns of historic shift in power](https://news.un.org/feed/view/en/story/2026/11/1168861)
+
+via United Nations, Economic Development · 2026-11-23, updated 2026-11-25
+
+UN Secretary-General António Guterres on Monday called on Member States to begin discussions on a multilateral framework for managing the risks of artificial intelligence (AI), warning that the technology is driving “the biggest transfer of power in the history of humankind”.
 
 ## [How will Mark Carney's appeal influence the Yorkton-Melville byelection?](https://www.cbc.ca/news/canada/saskatchewan/yorkton-melville-2026-byelection-9.7429846?cmp=rss)
 
@@ -2905,12 +3067,6 @@ via RTÉ News · 2026-11-22, updated 2026-11-24
 
 Chris Bryant has said he will not "make any apologies for cracking a few jokes" as he discussed combining "levity and seriousness" in his role as Northern Ireland Secretary.
 
-## [Guterres laments COP31 outcome, urges climate justice from Barbados](https://news.un.org/feed/view/en/story/2026/11/1168856)
-
-via United Nations, Economic Development · 2026-11-22, updated 2026-11-25
-
-Secretary-General António Guterres on Sunday expressed deep disappointment over the collapse of COP31 climate negotiations, using a visit to Barbados to call for stronger action on fossil fuels, climate finance and support for vulnerable nations.
-
 ## [‘I had a better life in Iran’: Afghan women forced home struggle to rebuild](https://news.un.org/feed/view/en/story/2026/11/1168852)
 
 via United Nations, Top Stories · 2026-11-22, updated 2026-11-25
@@ -2922,6 +3078,12 @@ For five years, Zahra cared for an elderly woman in Iran and earned enough to ge
 via United Nations, Climate Change · 2026-11-22, updated 2026-11-25
 
 COP31 ended on Sunday without a climate pact after negotiators failed to overcome divisions over fossil fuels, bringing two weeks of talks and two days of overtime to a close that UN Secretary-General António Guterres described as a “deeply disappointing” setback.
+
+## [Guterres laments COP31 outcome, urges climate justice from Barbados](https://news.un.org/feed/view/en/story/2026/11/1168856)
+
+via United Nations, Economic Development · 2026-11-22, updated 2026-11-25
+
+Secretary-General António Guterres on Sunday expressed deep disappointment over the collapse of COP31 climate negotiations, using a visit to Barbados to call for stronger action on fossil fuels, climate finance and support for vulnerable nations.
 
 ## [B.C. couple lose business in devastating fire, credit volunteer firefighters with saving their home](https://www.cbc.ca/news/canada/british-columbia/west-kootenay-fire-burton-family-saved-9.7426015?cmp=rss)
 
@@ -4219,18 +4381,6 @@ Cardinal Pierbattista Pizzaballa, Latin Patriarch of Jerusalem, highlights the i
 
 [Read all](https://www.vaticannews.va/en/vatican-city/news/2026-11/holy-land-pizzaballa-gugerotti-visit-interview.html)
 
-## [Bridgetown AI summit to tackle safety as risks outpace capacity to respond](https://news.un.org/feed/view/en/story/2026/11/1168854)
-
-via United Nations, Economic Development · 2026-11-20, updated 2026-11-25
-
-UN Secretary-General António Guterres is heading to Barbados to co-host a special summit on artificial intelligence (AI) safety on Monday, aimed at closing the gap between accelerating risks and many countries’ capacity to deal with the pace of development.
-
-## [West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers](https://news.un.org/feed/view/en/story/2026/11/1168849)
-
-via United Nations, Economic Development · 2026-11-20, updated 2026-11-25
-
-Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.
-
 ## [‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling](https://news.un.org/feed/view/en/story/2026/11/1168853)
 
 via United Nations, Top Stories · 2026-11-20, updated 2026-11-25
@@ -4260,6 +4410,18 @@ Aid and development agencies in Afghanistan warned on Friday of an escalating �
 via United Nations, Climate Change · 2026-11-20, updated 2026-11-25
 
 A group of countries from Europe, Africa, Latin America and the Pacific has challenged the proposed COP31 agreement, demanding explicit action on fossil fuels and stronger climate finance. With the summit due to close on Friday, tensions are rising as activists warn the talks are headed for failure, and negotiators search for a deal that nearly 200 governments can accept.
+
+## [Bridgetown AI summit to tackle safety as risks outpace capacity to respond](https://news.un.org/feed/view/en/story/2026/11/1168854)
+
+via United Nations, Economic Development · 2026-11-20, updated 2026-11-25
+
+UN Secretary-General António Guterres is heading to Barbados to co-host a special summit on artificial intelligence (AI) safety on Monday, aimed at closing the gap between accelerating risks and many countries’ capacity to deal with the pace of development.
+
+## [West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers](https://news.un.org/feed/view/en/story/2026/11/1168849)
+
+via United Nations, Economic Development · 2026-11-20, updated 2026-11-25
+
+Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.
 
 ## [Canadian military will keep firing howitzers to trigger B.C. avalanches, pausing plan to end program](https://www.cbc.ca/news/canada/british-columbia/glacier-national-park-avalanche-control-military-revelstoke-9.7428898?cmp=rss)
 
@@ -5211,12 +5373,6 @@ via BBC, US & Canada · 2026-11-19
 
 Langley won six awards, weeks after her hit Choosin' Texas broke a Billboard chart record in the US.
 
-## [COP31: Ambition goes missing as fossil fuel language drops from draft deal](https://news.un.org/feed/view/en/story/2026/11/1168839)
-
-via United Nations, Economic Development · 2026-11-19, updated 2026-11-25
-
-A cat named Ambition went missing again at COP31 on Thursday. While activists delivered the message with humour, it reflected a serious concern: explicit references to moving away from fossil fuels had disappeared from the latest draft climate agreement. On the eve of the summit's scheduled close, ministers and the Presidency were still trying to bridge sharp differences as civil society groups pressed for stronger action.
-
 ## [Battle to control GPS and radio signals raises civilian safety concerns](https://news.un.org/feed/view/en/story/2026/11/1168843)
 
 via United Nations, Top Stories · 2026-11-19, updated 2026-11-25
@@ -5228,6 +5384,12 @@ From aid convoys in conflict zones to passenger jets and cargo ships far out at 
 via United Nations, Top Stories · 2026-11-19, updated 2026-11-25
 
 The UN is adding new accountability measures to better support children fathered by peacekeepers, the Under-Secretary-General for Management Strategy, Policy and Compliance, Catherine Pollard, announced Thursday.
+
+## [COP31: Ambition goes missing as fossil fuel language drops from draft deal](https://news.un.org/feed/view/en/story/2026/11/1168839)
+
+via United Nations, Economic Development · 2026-11-19, updated 2026-11-25
+
+A cat named Ambition went missing again at COP31 on Thursday. While activists delivered the message with humour, it reflected a serious concern: explicit references to moving away from fossil fuels had disappeared from the latest draft climate agreement. On the eve of the summit's scheduled close, ministers and the Presidency were still trying to bridge sharp differences as civil society groups pressed for stronger action.
 
 ## [‘Losing the battle’: AI hands predators new ways to target children](https://news.un.org/feed/view/en/story/2026/11/1168841)
 
@@ -7970,17 +8132,17 @@ via BBC, US & Canada · 2026-11-16
 
 A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.
 
-## [COP31 enters decisive week as climate talks face political test and AI initiatives gather pace](https://news.un.org/feed/view/en/story/2026/11/1168812)
-
-via United Nations, Economic Development · 2026-11-16, updated 2026-11-25
-
-New international initiatives on artificial intelligence and green industrialization showcased technology’s growing role in climate action, even as negotiators remained deadlocked on finance, fossil fuels and adaptation ahead of the final stretch of the UN talks.
-
 ## [AI gets climate science right – until users push back](https://news.un.org/feed/view/en/story/2026/11/1168817)
 
 via United Nations, Climate Change · 2026-11-16, updated 2026-11-25
 
 The best AI models answer most climate science questions correctly, but they often abandon established facts as soon as a user disagrees, according to a new report co-authored by the UN.
+
+## [COP31 enters decisive week as climate talks face political test and AI initiatives gather pace](https://news.un.org/feed/view/en/story/2026/11/1168812)
+
+via United Nations, Economic Development · 2026-11-16, updated 2026-11-25
+
+New international initiatives on artificial intelligence and green industrialization showcased technology’s growing role in climate action, even as negotiators remained deadlocked on finance, fossil fuels and adaptation ahead of the final stretch of the UN talks.
 
 ## [‘Peace begins in our hearts’: Children close Muscat forum with a message to the world](https://news.un.org/feed/view/en/story/2026/11/1168820)
 
@@ -10188,6 +10350,12 @@ via RTÉ News · 2026-11-13, updated 2026-11-14
 
 Eleanor Donaldson, the wife of former DUP leader Jeffrey Donaldson, has been placed on the sex offenders list for five years.
 
+## [COP31: New initiative targets AI and reliable climate change information](https://news.un.org/feed/view/en/story/2026/11/1168798)
+
+via United Nations, Climate Change · 2026-11-13, updated 2026-11-25
+
+New guidance has been issued to ensure that people everywhere can obtain credible climate change information from artificial intelligence (AI) and understand how the technology impacts the environment.
+
 ## [Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount](https://news.un.org/feed/view/en/story/2026/11/1168804)
 
 via United Nations, Economic Development · 2026-11-13, updated 2026-11-25
@@ -10199,12 +10367,6 @@ Nearly nine months after Israeli and US strikes on Iran set off a regional war, 
 via United Nations, Economic Development · 2026-11-13, updated 2026-11-25
 
 From emotional appeals for climate justice to high-stakes negotiations over billions of dollars, finance dominated discussions at COP31 on Friday. UN Secretary-General António Guterres warned that even tripling adaptation funding for vulnerable countries would meet less than a third of their needs, as pressure mounted on wealthy nations and major polluters to pay their fair share.
-
-## [COP31: New initiative targets AI and reliable climate change information](https://news.un.org/feed/view/en/story/2026/11/1168798)
-
-via United Nations, Climate Change · 2026-11-13, updated 2026-11-25
-
-New guidance has been issued to ensure that people everywhere can obtain credible climate change information from artificial intelligence (AI) and understand how the technology impacts the environment.
 
 ## [DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response](https://news.un.org/feed/view/en/story/2026/11/1168797)
 
@@ -11892,6 +12054,12 @@ via CBC, World News · 2026-11-11, updated 2026-11-13
 
 The Republicans may have just lost control of the House of Representatives in resounding fashion, but they signalled Tuesday they may not be in a conciliatory mood with Democrats, picking combative Ohio Rep. Jim Jordan as their leader in the chamber.
 
+## [From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected](https://news.un.org/feed/view/en/story/2026/11/1168787)
+
+via United Nations, Climate Change · 2026-11-11, updated 2026-11-25
+
+Early warning systems are saving lives across the globe, but for millions of people the warning never arrives, UN Secretary-General António Guterres said on Wednesday, urging the world to protect every person on Earth by the end of 2027.
+
 ## [Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support](https://news.un.org/feed/view/en/story/2026/11/1168788)
 
 via United Nations, Economic Development · 2026-11-11, updated 2026-11-25
@@ -11903,12 +12071,6 @@ The UN’s Emergency Relief Coordinator, Tom Fletcher, expressed deep concern a
 via United Nations, Economic Development · 2026-11-11, updated 2026-11-25
 
 UN chief António Guterres called for a new global climate justice agreement at COP31 on Wednesday, urging governments to tax fossil fuel companies to help countries bearing the brunt of a crisis they did little to cause. His appeal came as world leaders gathered in Antalya amid unresolved questions over climate finance and the future of fossil fuels.
-
-## [From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected](https://news.un.org/feed/view/en/story/2026/11/1168787)
-
-via United Nations, Climate Change · 2026-11-11, updated 2026-11-25
-
-Early warning systems are saving lives across the globe, but for millions of people the warning never arrives, UN Secretary-General António Guterres said on Wednesday, urging the world to protect every person on Earth by the end of 2027.
 
 ## [Lebanon: Devastation awaits returnees as UN peacekeepers prepare exit](https://news.un.org/feed/view/en/story/2026/11/1168784)
 
@@ -12884,17 +13046,17 @@ via CBC, Top Stories · 2026-11-10, updated 2026-11-11
 
 A CBC News copy editor turned into one half of an unexpected comedy duo in a video posted to social media Tuesday. American comedian Josh Johnson brought Jon Azpiri to the stage to talk cats, disappearing islands and journalism.
 
-## [COP31: Energy transition takes centre stage as countries map path beyond fossil fuels](https://news.un.org/feed/view/en/story/2026/11/1168775)
-
-via United Nations, Economic Development · 2026-11-10, updated 2026-11-25
-
-The global energy transition took centre stage on the second day of COP31, as countries explored how to move away from fossil fuels, accelerate clean energy and overcome financial and infrastructure barriers standing in the way.
-
 ## [Climate crisis could push 141 million more women into extreme poverty](https://news.un.org/feed/view/en/story/2026/11/1168770)
 
 via United Nations, Climate Change · 2026-11-10, updated 2026-11-25
 
 More than one in three women and girls worldwide – roughly 1.5 billion – live in so-called “climate hotspots”, where high exposure to hazards such as cyclones and droughts combine with insecure jobs and deep gender inequality.
+
+## [COP31: Energy transition takes centre stage as countries map path beyond fossil fuels](https://news.un.org/feed/view/en/story/2026/11/1168775)
+
+via United Nations, Economic Development · 2026-11-10, updated 2026-11-25
+
+The global energy transition took centre stage on the second day of COP31, as countries explored how to move away from fossil fuels, accelerate clean energy and overcome financial and infrastructure barriers standing in the way.
 
 ## [World News in Brief: Ending cholera by 2030 ‘within reach’, Haiti displacement and hunger, US human rights review rescheduled](https://news.un.org/feed/view/en/story/2026/11/1168782)
 
@@ -17857,12 +18019,6 @@ via RTÉ News · 2026-11-04, updated 2026-11-05
 
 The death toll from a Russian bombing of an aid distribution point in Ukraine's southeastern Zaporizhzhia region on Monday has risen to 37, with dozens missing.
 
-## [Fuel price shock: Why developing economies are paying the most at the pump](https://news.un.org/feed/view/en/story/2026/11/1168738)
-
-via United Nations, Economic Development · 2026-11-04, updated 2026-11-25
-
-When war shut the Strait of Hormuz in February, oil prices soared everywhere. But the pain at the pump has been far from equal, and the world’s developing economies are paying the heaviest price, according to a new report from UNCTAD, the UN trade and development agency.
-
 ## [Afghan children face narrowing path to education, UN agencies report](https://news.un.org/feed/view/en/story/2026/11/1168732)
 
 via United Nations, Culture and Education · 2026-11-04, updated 2026-11-25
@@ -17880,6 +18036,12 @@ Although global warming is set to exceed 1.5°C, financing to help communities a
 via United Nations, Climate Change · 2026-11-04, updated 2026-11-25
 
 The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.
+
+## [Fuel price shock: Why developing economies are paying the most at the pump](https://news.un.org/feed/view/en/story/2026/11/1168738)
+
+via United Nations, Economic Development · 2026-11-04, updated 2026-11-25
+
+When war shut the Strait of Hormuz in February, oil prices soared everywhere. But the pain at the pump has been far from equal, and the world’s developing economies are paying the heaviest price, according to a new report from UNCTAD, the UN trade and development agency.
 
 ## [UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara](https://news.un.org/feed/view/en/story/2026/11/1168741)
 

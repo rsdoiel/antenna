@@ -1,14 +1,20 @@
 ---
 title: "Student Paper"
 description: "Student journalism and the fourth estate."
-pubDate: Wed, 25 Nov 2026 06:29:24 GMT
+pubDate: Wed, 25 Nov 2026 17:41:05 GMT
 aggregateOf: "journalism.md"
-dateModified: Wed, 25 Nov 2026 14:48:47 GMT
-itemCount: 491
-generator: antenna/0.2.0
+dateModified: Wed, 25 Nov 2026 18:24:24 GMT
+itemCount: 492
+generator: antenna/0.2.1
 ---
 
 # Student Paper
+
+## [Annual Beat ‘SC rally boosts Bruins’ spirits leading up to rivalry football game](https://dailybruin.com/2026/11/25/annual-beat-sc-rally-boosts-bruins-spirits-leading-up-to-rivalry-football-game/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25
+
+More than 1,000 UCLA students, alumni and community members turned Wilson Plaza blue and gold at the Student Alumni Association’s annual Beat ‘SC Rally on Monday.
 
 ## [UCLA men’s basketball to open against Saint Mary’s at Rady Children’s Invitational](https://dailybruin.com/2026/11/24/ucla-mens-basketball-to-open-against-saint-marys-at-rady-childrens-invitational/)
 
@@ -62,13 +68,13 @@ This path for students walking from apartments to De Neve Holly is one of few co
 
 ## [The Wall Street Journal joins a growing list of publishers disallowing bots by default](https://www.niemanlab.org/2026/11/the-wall-street-journal-joins-growing-list-of-publishers-disallowing-bots-by-default/)
 
-via Nieman Journalism Lab · 2026-11-24
+via Nieman Journalism Lab · 2026-11-24, updated 2026-11-25
 
 One of the world’s largest business publishers is shutting the door on unwelcome bots. In May, Dow Jones overhauled its bot strategy and now disallows all bots by default, the company told Nieman Lab. The new bot permissions apply to all of its free and paid consumer news sites, including The Wall Street Journal, Barron’s,...
 
 ## [Confident kids, cautious elders: What we get wrong (and right) about who really understands social media algorithms](https://www.niemanlab.org/2026/11/confident-kids-cautious-elders-what-we-get-wrong-and-right-about-who-really-understands-social-media-algorithms/)
 
-via Nieman Journalism Lab · 2026-11-24
+via Nieman Journalism Lab · 2026-11-24, updated 2026-11-25
 
 Ask a 19-year-old how TikTok decides what to show them, and you’ll likely get a fast, confident answer about watch time, likes, and how “the algorithm just gets me.” Ask their grandmother, and you’re more likely to get a shrug. The scene fits a story we’ve been telling for years: Young people are “digital natives”...
 
@@ -147,13 +153,13 @@ via The Daily Bruin (UCLA Student Newspaper) · 2026-11-23, updated 2026-11-25
 
 ## [Newsletters, obits, and the world’s longest yard sale: How some local news sites saw their traffic spike](https://www.niemanlab.org/2026/11/newsletters-obits-and-the-worlds-longest-yard-sale-how-some-local-news-sites-saw-their-traffic-spike/)
 
-via Nieman Journalism Lab · 2026-11-23, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-23, updated 2026-11-25
 
 It’s time for our latest look at which newsrooms are having success increasing their web traffic. We bring you four of these each quarter, looking at four different market segments: local newspapers, nonprofit news outlets, public media stations, and for-profit local news sites. Rankings are based on estimates from Similarweb. Today’s edition looks at local...
 
 ## [An open laptop, a crowded Orange Line train, and a tipster](https://www.niemanlab.org/2026/11/an-open-laptop-a-crowded-orange-line-train-and-a-tipster/)
 
-via Nieman Journalism Lab · 2026-11-23, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-23, updated 2026-11-25
 
 Is “seen on the Orange Line” the new “overheard on the Acela”? ProPublica reported on potential plans to overhaul the Smithsonian on Monday. Alec MacGillis and Andy Kroll wrote that the plans, if enacted, “would represent an unprecedented assertion of White House control over the Smithsonian, which is structured to be independent.” But how did...
 
@@ -632,7 +638,7 @@ About 100 people attended the Sexual Violence Prevention Forum, held in the Brui
 
 ## [The Nieman Lab News-About-News Quiz, November 20, 2026](https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-20-2026/)
 
-via Nieman Journalism Lab · 2026-11-20, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-20, updated 2026-11-25
 
 It’s been yet another busy week. Recap it with the fourth edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are based on the week’s Nieman Lab stories or articles elsewhere that we’ve linked to in What We’re Reading....
 
@@ -860,7 +866,7 @@ The Kroc Center was filled with balloons, colored lights, dancing, and music fro
 
 ## [Election season lifted public radio sites. So did a Supreme Court scandal and license plate drama.](https://www.niemanlab.org/2026/11/election-season-lifted-public-radio-sites-so-did-a-supreme-court-scandal-and-license-plate-drama/)
 
-via Nieman Journalism Lab · 2026-11-19, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-19, updated 2026-11-25
 
 More than a year ago, NHPR reporter Todd Bookman started asking questions about “an irregular personnel maneuver” involving the chief justice of New Hampshire’s Supreme Court. Bookman’s reporting ultimately became “Exhibit A” in the ethics probe that led to the justice’s resignation in September. The bombshell resignation news was NHPR’s biggest story in September —...
 
@@ -873,7 +879,7 @@ A season after winning the national championship, the blue and gold seem to be r
 
 ## [Federal funding for public media is coming back, one way or another. But is it time for a deeper rethink?](https://www.niemanlab.org/2026/11/federal-funding-for-public-media-is-coming-back-one-way-or-another-but-is-it-time-for-a-deeper-rethink/)
 
-via Nieman Journalism Lab · 2026-11-19, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-19, updated 2026-11-25
 
 It was 318 days ago that the Corporation for Public Broadcasting — the primary funder of public media in the United States since 1967 — officially ceased to be, the victim of Republican budget cuts and years of attacks from Donald Trump. CPB is not “on pause” or “in hibernation” — it’s dead. As its...
 
@@ -1030,7 +1036,7 @@ Members of the UC American Federation of Teachers – a union representing non-S
 
 ## [After gutting newsrooms, McClatchy plans to rebuild itself around AI](https://www.niemanlab.org/2026/11/after-gutting-newsrooms-mcclatchy-plans-to-rebuild-itself-around-ai/)
 
-via Nieman Journalism Lab · 2026-11-18, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-18, updated 2026-11-25
 
 Two months after McClatchy Media laid off more than 90 journalists nationwide, executives at the storied local newspaper chain offered a blunt assessment of its future. The award-winning local journalism that has long powered the 169-year-old company was no longer a viable business model, executives told McClatchy employees during a virtual town hall this month,...
 
@@ -1311,7 +1317,7 @@ No. 25 UCLA women’s volleyball, which just broke into AVCA rankings on Nov. 15
 
 ## [“A healthy degree of vitality”: Medill takes a look at the Twin Cities’ local news ecosystem](https://www.niemanlab.org/2026/11/a-healthy-degree-of-vitality-medill-takes-a-look-at-the-twin-cities-local-news-ecosystem/)
 
-via Nieman Journalism Lab · 2026-11-17, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-17, updated 2026-11-25
 
 This year’s State of Local News Report from Medill was grim. But in the Twin Cities, Neal St. Anthony writes, a rich local news ecosystem offers a more hopeful picture. The metro area of more than 3 million people is home to The Minnesota Star Tribune, public radio powerhouse MPR, local TV stations, and multiple...
 
@@ -1321,7 +1327,7 @@ via The Daily Bruin (UCLA Student Newspaper) · 2026-11-17, updated 2026-11-18
 
 ## [Seals, construction, and midterms drive traffic gains at Massachusetts nonprofit news outlets](https://www.niemanlab.org/2026/11/seals-construction-and-midterms-drive-traffic-gains-at-massachusetts-nonprofit-news-outlets/)
 
-via Nieman Journalism Lab · 2026-11-17, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-17, updated 2026-11-25
 
 Is something in the water in Nieman Lab’s home state? In our latest quarterly ranking of nonprofit news outlets, eight Massachusetts nonprofit news outlets enjoyed significant jumps in traffic. Massachusetts is the state that appeared most frequently in this quarter’s data, followed by California (7), Michigan (4), and New York (4). Four of those Massachusetts...
 
@@ -1507,7 +1513,7 @@ via The Daily Bruin (UCLA Student Newspaper) · 2026-11-16, updated 2026-11-18
 
 ## [NPR makes fixing its app a key priority in its new strategic plan](https://www.niemanlab.org/2026/11/npr-makes-fixing-its-app-a-key-priority-in-its-new-strategic-plan/)
 
-via Nieman Journalism Lab · 2026-11-16, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-16, updated 2026-11-25
 
 Over the next two years, NPR will address a longstanding listener plea: improving its app. During a November 12 board of directors meeting, NPR CEO Katherine Maher said the organization will rebuild its digital offerings to be a “service-first, app-first destination” as part of NPR’s 2027-2029 strategic plan, Current reported on Thursday. One goal of...
 
@@ -1539,7 +1545,7 @@ The post [Men’s club hockey is working towards a championship](https://dailytr
 
 ## [Traffic is declining for local newspapers. Here are some things that helped small publishers make gains.](https://www.niemanlab.org/2026/11/traffic-is-declining-for-local-newspapers-here-are-some-things-that-helped-small-publishers-make-gains/)
 
-via Nieman Journalism Lab · 2026-11-16, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-16, updated 2026-11-25
 
 We’ve now been publishing roundups of local newspaper traffic for a full year, so we can compare this year’s traffic to last year’s. Almost across the board, local newspapers are seeing traffic decline as Google referrals drop. For July, August, and September, traffic to the most-visited sites is lower than at this time last year,...
 
@@ -1842,7 +1848,7 @@ No. 4 UCLA football (9-0, 6-0 Big Ten) enters the last quarter of the regular se
 
 ## [The Nieman Lab News-About-News Quiz, November 13, 2026](https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-13-2026/)
 
-via Nieman Journalism Lab · 2026-11-13, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-13, updated 2026-11-25
 
 It’s been another busy week. Recap it with the third edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are based on the week’s Nieman Lab stories or articles elsewhere that we’ve linked to in What We’re Reading. The...
 
@@ -2075,7 +2081,7 @@ via The Daily Bruin (UCLA Student Newspaper) · 2026-11-12, updated 2026-11-14
 
 ## [Indonesia’s new copyright bill would force Google and Meta to pay to aggregate news](https://www.niemanlab.org/2026/11/indonesias-new-copyright-bill-would-force-google-and-meta-to-pay-to-aggregate-news/)
 
-via Nieman Journalism Lab · 2026-11-12, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-12, updated 2026-11-25
 
 On Wednesday, Meta, TikTok, and Google testified in the Indonesian parliament in opposition to a new copyright bill. The proposed law would require digital platforms to pay news publishers in Indonesia for aggregating and previewing their content, according to a new report from Reuters. The bill does not distinguish between aggregation and republication. Tech platforms...
 
@@ -2103,7 +2109,7 @@ No.
 
 ## [With event costs up and funding down, journalism organizations cancel conferences and cut staff](https://www.niemanlab.org/2026/11/with-event-costs-up-and-funding-down-journalism-organizations-cancel-conferences-and-cut-staff/)
 
-via Nieman Journalism Lab · 2026-11-12, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-12, updated 2026-11-25
 
 When the pandemic forced conferences to go virtual, the question was whether people would come back in person post-Covid. For a while, they did. For a couple years after the pandemic, people were excited to be in person together again. U.S. journalism organizations saw their revenue climb, as sponsors and funders spent generously. At the...
 
@@ -2115,7 +2121,7 @@ Filmed and edited by Victoria Marchetti and Bao Linh Ngo Executive Producers: Ma
 
 ## [“A government that ‘gets it’”: Canada recommits to federal funding for news](https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/)
 
-via Nieman Journalism Lab · 2026-11-12, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-12, updated 2026-11-25
 
 A Canadian program to place local reporters in underserved communities has lived from renewal to renewal. Publishers who relied on the Local Journalism Initiative couldn’t be sure whether the money would be there again. That changed last week when Canada proposed a federal budget that would make the Local Journalism Initiative permanent. The 2026 budget...
 
@@ -2265,7 +2271,7 @@ In 2007’s “Back in Black” storyline, Peter dons a makeshift version of his
 
 ## [Some local news outlets are losing physical newsrooms](https://www.niemanlab.org/2026/11/some-local-news-outlets-are-losing-physical-newsrooms/)
 
-via Nieman Journalism Lab · 2026-11-10, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-10, updated 2026-11-25
 
 When the Covid-19 pandemic normalized remote work, a second trend caught on: shutting down physical newsrooms. A report from Northwestern University’s Local News Initiative, published Tuesday, looks at the cultural losses that news outlets face when their staff stops working together under one roof. Here’s LNI contributor and Columbia College Chicago journalism professor Jackie Spinner:...
 
@@ -2277,7 +2283,7 @@ GeekyAnts Co-founder Sanket Sahu discussed the development of AntFabric, an AI-n
 
 ## [AI is becoming an information gateway. Audiences still don’t want it making their news.](https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/)
 
-via Nieman Journalism Lab · 2026-11-10, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-10, updated 2026-11-25
 
 In my Nieman Lab prediction this time last year, I wrote that “in 2026, the use of AI as an information gateway will only rise further.” As it turns out, I was right. In new research that I published with my colleagues Rasmus Kleis Nielsen and Richard Fletcher, one of our many findings is that...
 
@@ -2428,7 +2434,7 @@ Sunday, Nov. 1 A CSUN officer arrested a suspect at University Park Apartment Bu
 
 ## [“It’s either this or death”: Canada renews the Local Journalism Initiative and extends journalism tax credit](https://www.niemanlab.org/2026/11/its-either-this-or-death-frankly-canada-renews-the-local-journalism-initiative-and-extends-journalism-tax-credit/)
 
-via Nieman Journalism Lab · 2026-11-09, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-09, updated 2026-11-25
 
 Canada’s proposed federal budget includes some good news for local journalism. The federal government is extending its journalism tax credit by $501 million, expanding eligibility to audio and audiovisual news organizations, and renewing the Local Journalism Initiative, which supports journalism in underserved communities. Sarah wrote about the Local Journalism Initiative in its early days. A...
 
@@ -2462,7 +2468,7 @@ When you have multiple criminal charges, they can easily become much more compli
 
 ## [Student journalists are reporting more local news for real audiences. Their professors are exhausted.](https://www.niemanlab.org/2026/11/student-journalists-are-reporting-more-local-news-for-real-audiences-their-professors-are-exhausted/)
 
-via Nieman Journalism Lab · 2026-11-09, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-09, updated 2026-11-25
 
 If there’s one big takeaway from the past two decades of local news struggle — the often perilous, occasionally brilliant transition from dominant newspapers to online media — perhaps it’s this: Passion alone isn’t enough. A newspaper newsroom filled with committed editors and brilliant reporters still stares into the same headwinds as its more middling peers....
 
@@ -2821,7 +2827,7 @@ For the first time, possibly ever, I think he actually got beat in that departme
 
 ## [The Nieman Lab News-About-News Quiz, November 6, 2026](https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-6-2026/)
 
-via Nieman Journalism Lab · 2026-11-06, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-06, updated 2026-11-25
 
 What a week! Recap it with the second edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are based on the week’s Nieman Lab stories or articles elsewhere that we’ve linked to in What We’re Reading. The quiz will...
 
@@ -3059,7 +3065,7 @@ UCPD recorded 757 unique entries in its Oct. 1-31 daily crime log.
 
 ## [Meta pulls down controversial terms of service](https://www.niemanlab.org/2026/11/meta-pulls-down-controversial-terms-of-service/)
 
-via Nieman Journalism Lab · 2026-11-05, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-05, updated 2026-11-25
 
 Meta has indefinitely delayed its proposed commercial terms of service, which would have permitted the company to scrape the websites of Meta Business account users. On Thursday, the company took down the preview link to the proposed terms and published an update to its Business Help Center that reads: “We recently shared that we were...
 
@@ -3072,13 +3078,13 @@ Filmed and edited by Victoria Marchetti Edited by Milo Misher Executive producer
 
 ## [With “Bimbo University,” Nikita Redkar leans into femininity to explain the news](https://www.niemanlab.org/2026/11/with-bimbo-university-nikita-redkar-leans-into-femininity-to-explain-the-news/)
 
-via Nieman Journalism Lab · 2026-11-05, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-05, updated 2026-11-25
 
 For Nikita Redkar, a big part of filming a video is putting together an outfit. In a July video about youth-led protests in India, the 33-year-old is walking around New York City explaining how movements grow when people with opposing views come together on the things they do agree on. She’s wearing a white tube...
 
 ## [The Onion’s new plan to market its print newspaper: sponsoring a bowl game](https://www.niemanlab.org/2026/11/the-onions-new-plan-to-market-its-print-newspaper-sponsoring-a-bowl-game/)
 
-via Nieman Journalism Lab · 2026-11-05, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-05, updated 2026-11-25
 
 College football already has an Orange Bowl, a Peach Bowl, and a Citrus Bowl, so on its face, there’s nothing outlandish about the concept of an Onion Bowl. But this matchup wouldn’t be titled to evoke some locale’s bumper crop, à la the Famous Idaho Potato Bowl. Instead it would market “America’s Finest News Source,”...
 
@@ -3255,13 +3261,13 @@ via The Daily Bruin (UCLA Student Newspaper) · 2026-11-04, updated 2026-11-05
 
 ## [Weird animals win on Instagram. Mongabay’s next-best choice? Its reporters.](https://www.niemanlab.org/2026/11/weird-animals-win-on-instagram-mongabays-next-best-choice-its-reporters/)
 
-via Nieman Journalism Lab · 2026-11-04, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-04, updated 2026-11-25
 
 Mongabay’s most successful videos are about weird animals. But not every video from the environmental newsroom can be about strange — or strangely cute — animals. Some have to be about shrimp farm pollution. Or a deforestation crisis brought on by cacao farming in Liberia. That’s where the challenge comes in, Mongabay video managing editor...
 
 ## [The New York Times stays on track to reach 15 million subscribers by the end of 2027](https://www.niemanlab.org/2026/11/the-new-york-times-stays-on-track-to-reach-15-million-subscribers-by-the-end-of-2027/)
 
-via Nieman Journalism Lab · 2026-11-04, updated 2026-11-24
+via Nieman Journalism Lab · 2026-11-04, updated 2026-11-25
 
 The New York Times added 420,000 new digital subscribers in the third quarter of 2026, keeping it on track to achieve its goal of hitting 15 million subscriptions by the end of 2027. The Times now has 13.76 million total subscribers, the company said in its earnings report released Wednesday. Almost all of those subscribers...
 

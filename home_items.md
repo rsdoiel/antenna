@@ -3,9 +3,9 @@ title: "Urban Farm"
 description: "Home, garden and urban farm blogs and news."
 pubDate: Wed, 25 Nov 2026 16:15:04 GMT
 aggregateOf: "home.md"
-dateModified: Wed, 25 Nov 2026 16:32:14 GMT
-itemCount: 391
-generator: antenna/0.2.0
+dateModified: Wed, 25 Nov 2026 18:22:30 GMT
+itemCount: 393
+generator: antenna/0.2.1
 ---
 
 # Urban Farm
@@ -25,6 +25,36 @@ via Family Handyman Blog · 2026-11-25
 Here's what real-world crash data actually says about the likelihood of a Final Destination truck scene.
 
 The post [Has That Final Destination Truck Scene Ever Actually Happened in Real Life?](https://www.familyhandyman.com/article/has-that-final-destination-truck-scene-ever-actually-happened-in-real-life/) appeared first on [Family Handyman](https://www.familyhandyman.com).
+
+## [These Are the Best Black Friday and Cyber Monday Deals This Year](https://sunset.com/lifestyle/shopping/best-black-friday-cyber-monday-deals-2026)
+
+via Sunset Magazine - Living in the West · 2026-11-25
+
+Our editors are sharing the best deals to shop this Black Friday and Cyber Monday in the categories of home, kitchen, travel, and wellness.
+
+## [These Hacks Will Save You Time on Thanksgiving Day](https://sunset.com/food-wine/time-saving-thanksgiving-tips)
+
+via Sunset Magazine - Living in the West · 2026-11-25
+
+There never seems to be enough time when you’re hosting Thanksgiving, but if you plan you can manage your time wisely with these tips.
+
+## [15 Thanksgiving Pie Recipes That Aren’t All Pumpkin](https://sunset.com/food-wine/kitchen-assistant/thanksgiving-pie-recipes)
+
+via Sunset Magazine - Living in the West · 2026-11-25
+
+We love a classic pumpkin pie, but there are other fall flavors to tuck into a crust for Thanksgiving. Try these Thanksgiving pie recipes.
+
+## [These 10 Thanksgiving Hacks Will Save Your Holiday Feast](https://sunset.com/food-wine/holidays/thanksgiving-hacks)
+
+via Sunset Magazine - Living in the West · 2026-11-25
+
+For every Thanksgiving crisis, we’ve got a delicious hack—each equally useful even when all is going according to plan.
+
+## [Homepage 2025](https://sunset.com/)
+
+via Sunset Magazine - Living in the West · 2026-11-25
+
+Food & Drink, Holidays These Thanksgiving Dishes Are Often an Afterthought—and That’s a Big Mistake Don’t overlook these foods. Read more: These Thanksgiving Dishes Are Often an Afterthought—and That’s a Big… [Read More](https://sunset.com/)
 
 ## [The Most Surprising Things Chefs Serve for Thanksgiving](https://sunset.com/food-wine/surprising-thanksgiving-dishes)
 
@@ -200,12 +230,6 @@ Garden, or zonal geraniums are popular herbaceous perennials in Zones 10 and 11 
 
 The post [How to Overwinter Garden Geraniums](https://gardenerspath.com/plants/flowers/geranium-winter-care/) appeared first on [Gardener's Path](https://gardenerspath.com).
 
-## [These Are the Best Black Friday and Cyber Monday Deals This Year](https://sunset.com/lifestyle/shopping/best-black-friday-cyber-monday-deals-2026)
-
-via Sunset Magazine - Living in the West · 2026-11-24, updated 2026-11-25
-
-Our editors are sharing the best deals to shop this Black Friday and Cyber Monday in the categories of home, kitchen, travel, and wellness.
-
 ## [How This ADU’s Living Room Became Los Angeles’ Hottest Cafe](https://sunset.com/home-garden/home-tours/granada-adu-los-angeles)
 
 via Sunset Magazine - Living in the West · 2026-11-24, updated 2026-11-25
@@ -223,12 +247,6 @@ We asked chefs across the West which holiday staples aren't worth the hassle. Th
 via Sunset Magazine - Living in the West · 2026-11-24, updated 2026-11-25
 
 A writer learned how to crochet using The Woobles crochet kits in an effort to stay off her phone and keep her hands busy.
-
-## [Homepage 2025](https://sunset.com/)
-
-via Sunset Magazine - Living in the West · 2026-11-24, updated 2026-11-25
-
-Recipes, Holidays All the Thanksgiving Recipes You Need, from Turkey to Pie (and Beyond) We put all our recipes for turkeys, side dishes, pies, and more in one place—just for you. Read… [Read More](https://sunset.com/)
 
 ## [Host a California-Style Holiday Dinner](https://plantingseedsblog.cdfa.ca.gov/index.php/2026/11/23/host-a-california-style-holiday-dinner/)
 
@@ -2653,12 +2671,6 @@ West Virginia homeowners often recognize the blue jay before they see it, thanks
 [Read more](https://ownyardlife.com/10-blue-jay-behaviors-that-reveal-their-hidden-intelligence-in-west-virginia/#more-68959 "10 Blue Jay Behaviors That Reveal Their Hidden Intelligence in West Virginia")
 
 The post [10 Blue Jay Behaviors That Reveal Their Hidden Intelligence in West Virginia](https://ownyardlife.com/10-blue-jay-behaviors-that-reveal-their-hidden-intelligence-in-west-virginia/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [15 Thanksgiving Pie Recipes That Aren’t All Pumpkin](https://sunset.com/food-wine/kitchen-assistant/thanksgiving-pie-recipes)
-
-via Sunset Magazine - Living in the West · 2026-11-09, updated 2026-11-11
-
-We love a classic pumpkin pie, but there are other fall flavors to tuck into a crust for Thanksgiving. Try these Thanksgiving pie recipes.
 
 ## [10 Wild Rabbit Secrets Most Illinois Residents Never Knew](https://ownyardlife.com/10-wild-rabbit-secrets-most-illinois-residents-never-knew/)
 

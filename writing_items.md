@@ -3,9 +3,9 @@ title: "Writing"
 description: "Writing and writing tools."
 pubDate: Tue, 24 Nov 2026 16:15:31 GMT
 aggregateOf: "writing.md"
-dateModified: Wed, 25 Nov 2026 14:49:09 GMT
+dateModified: Wed, 25 Nov 2026 18:24:48 GMT
 itemCount: 7
-generator: antenna/0.2.0
+generator: antenna/0.2.1
 ---
 
 # Writing
@@ -22,7 +22,7 @@ The post [Nuclear Storytelling with Outrider Foundation](https://johnaugust.com/
 
 via IF Database News · 2026-11-21
 
-You can now set a game filter on your [profile](/editprofile) to hide games you don't want to see, using IFDB's [search prefixes](/search). For example, **-tag:horror language:en** hides games tagged "horror" and shows only games in English. While you're logged in, the filter applies to the home page, the "New on IFDB" lists, and search results, and each of those pages links to the same results without it.
+You can now set a game filter on your [profile](https://ifdb.org/editprofile) to hide games you don't want to see, using IFDB's [search prefixes](https://ifdb.org/search). For example, **-tag:horror language:en** hides games tagged "horror" and shows only games in English. While you're logged in, the filter applies to the home page, the "New on IFDB" lists, and search results, and each of those pages links to the same results without it.
 
 ## [Are changes coming to Section 121?](https://www.authorsalliance.org/2026/11/20/are-changes-coming-to-section-121/)
 

@@ -1,14 +1,110 @@
 ---
 title: "Small Papers"
 description: "Small regional papers, blogs and news."
-pubDate: Wed, 25 Nov 2026 16:33:31 GMT
+pubDate: Wed, 25 Nov 2026 16:57:05 GMT
 aggregateOf: "small_papers.md"
-dateModified: Wed, 25 Nov 2026 16:33:41 GMT
-itemCount: 100
-generator: antenna/0.2.0
+dateModified: Wed, 25 Nov 2026 18:24:03 GMT
+itemCount: 110
+generator: antenna/0.2.1
 ---
 
 # Small Papers
+
+## [Mujer de Chatsworth Abandonada como Bebé en Skid Row Agradece por Sus “Ángeles Guardianes” de la Vida Real](https://sanfernandosun.com/2026/11/25/mujer-de-chatsworth-abandonada-como-bebe-en-skid-row-agradece-por-sus-angeles-guardianes-de-la-vida-real/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Stephanie-003-1.jpeg?fit=1024%2C666&ssl=1)
+
+Hace unas semanas, Stephanie Orlando escribía parte de su historia para su hijo Oliver, de 11 años, algo que hace con regularidad: compartir momentos destacados y afirmaciones positivas. Al redactar \[…\]
+
+The post [Mujer de Chatsworth Abandonada como Bebé en Skid Row Agradece por Sus “Ángeles Guardianes” de la Vida Real](https://sanfernandosun.com/2026/11/25/mujer-de-chatsworth-abandonada-como-bebe-en-skid-row-agradece-por-sus-angeles-guardianes-de-la-vida-real/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Hope the Mission reabra el icónico Original Pantry Cafe](https://sanfernandosun.com/2026/11/25/hope-the-mission-reabra-el-iconico-original-pantry-cafe/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Copy-of-2E2A0290-scaled-e1795625605300.jpg?fit=1024%2C577&ssl=1)
+
+Cuando el Original Pantry Cafe cerró en marzo de 2025, después de 101 años en funcionamiento, los angelinos lamentaron la pérdida del querido restaurante, considerado una institución cultural. Sin embargo, \[…\]
+
+The post [Hope the Mission reabra el icónico Original Pantry Cafe](https://sanfernandosun.com/2026/11/25/hope-the-mission-reabra-el-iconico-original-pantry-cafe/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Kurt Cabrera-Miller Agradece a la Comunidad de Sylmar en Esta Acción de Gracias](https://sanfernandosun.com/2026/11/25/kurt-cabrera-miller-agradece-a-la-comunidad-de-sylmar-en-esta-accion-de-gracias/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Kurt-1-e1795625440740.jpg?fit=1024%2C825&ssl=1)
+
+En esta Acción de Gracias, Kurt Cabrera-Miller agradece muchas cosas, como a sus seres queridos y el poder vivir y trabajar en una comunidad que le encanta. Y como presidente \[…\]
+
+The post [Kurt Cabrera-Miller Agradece a la Comunidad de Sylmar en Esta Acción de Gracias](https://sanfernandosun.com/2026/11/25/kurt-cabrera-miller-agradece-a-la-comunidad-de-sylmar-en-esta-accion-de-gracias/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Horóscopo](https://sanfernandosun.com/2026/11/25/horoscopo-295/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+ARIES (21 de mar – 19 de abr) Este es un buen fin de semana para relajarte y desconectarte, Aries. Si te dan ganas de recibir gente, abre tu casa \[…\]
+
+The post [Horóscopo](https://sanfernandosun.com/2026/11/25/horoscopo-295/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [EVENTOS Locales – Semana de 26 de noviembre, 2026](https://sanfernandosun.com/2026/11/25/eventos-locales-semana-de-26-de-noviembre-2026/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+Lunes – Jueves de noviembre Ayuda con las Tareas en Student Zone Biblioteca de Pacoima 13605 Van Nuys Blvd. Pacoima 3 p.m. – 6 p.m. Student Zone es un recurso \[…\]
+
+The post [EVENTOS Locales – Semana de  26 de noviembre, 2026](https://sanfernandosun.com/2026/11/25/eventos-locales-semana-de-26-de-noviembre-2026/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Disfruta el Día de Acción de Gracias sin el “coma” de la comida: formas simples para saborear la festividad](https://sanfernandosun.com/2026/11/25/disfruta-el-dia-de-accion-de-gracias-sin-el-coma-de-la-comida-formas-simples-para-saborear-la-festividad/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Family-Eating-1-1.jpg?fit=1024%2C683&ssl=1)
+
+Ya llegó el Día de Acción de Gracias, lo que significa que las cocinas estarán llenas del aroma del pavo asado, el puré de papas cremoso y los pasteles que \[…\]
+
+The post [Disfruta el Día de Acción de Gracias sin el “coma” de la comida: formas simples para saborear la festividad](https://sanfernandosun.com/2026/11/25/disfruta-el-dia-de-accion-de-gracias-sin-el-coma-de-la-comida-formas-simples-para-saborear-la-festividad/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Dando gracias por los Latin Grammy, los estudiantes, la familia y los amigos](https://sanfernandosun.com/2026/11/25/dando-gracias-por-los-latin-grammy-los-estudiantes-la-familia-y-los-amigos/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Latin-Grammys-1.jpg?fit=1024%2C768&ssl=1)
+
+De cara a la temporada de fiestas, hay muchas bendiciones por las que Sergio “Checo” Alonso se siente agradecido, incluida una mención muy prestigiosa a sus talentos musicales: la oportunidad \[…\]
+
+The post [Dando gracias por los Latin Grammy, los estudiantes, la familia y los amigos](https://sanfernandosun.com/2026/11/25/dando-gracias-por-los-latin-grammy-los-estudiantes-la-familia-y-los-amigos/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Identifican a conductora de 20 años que murió al estrellarse contra un muro en Pacoima](https://sanfernandosun.com/2026/11/25/identifican-a-conductora-de-20-anos-que-murio-al-estrellarse-contra-un-muro-en-pacoima/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/IMG_1936-scaled-e1795624987673.png?fit=887%2C1024&ssl=1)
+
+PACOIMA (CNS) – Una mujer de 20 años que murió cuando el auto que conducía se estrelló contra un muro de contención en Pacoima fue identificada por autoridades del condado \[…\]
+
+The post [Identifican a conductora de 20 años que murió al estrellarse contra un muro en Pacoima](https://sanfernandosun.com/2026/11/25/identifican-a-conductora-de-20-anos-que-murio-al-estrellarse-contra-un-muro-en-pacoima/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Confrontación entre ICE y activistas en hospital de Burbank desata indignación](https://sanfernandosun.com/2026/11/25/confrontacion-entre-ice-y-activistas-en-hospital-de-burbank-desata-indignacion/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/HansonB_BurbankICE_112326-5-e1795624858942.jpg?fit=1024%2C683&ssl=1)
+
+BURBANK (CNS) – La policía de Burbank negó el martes 24 de noviembre que los agentes estuvieran colaborando con agentes federales de inmigración durante una confrontación del lunes por la \[…\]
+
+The post [Confrontación entre ICE y activistas en hospital de Burbank desata indignación](https://sanfernandosun.com/2026/11/25/confrontacion-entre-ice-y-activistas-en-hospital-de-burbank-desata-indignacion/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [De todos los ámbitos, llegaron para celebrar la vida de Dolores Huerta](https://sanfernandosun.com/2026/11/25/de-todos-los-ambitos-llegaron-para-celebrar-la-vida-de-dolores-huerta/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/914682087_1856397966130269_5589681833097328535_n-1-e1795624694540.jpg?fit=1024%2C599&ssl=1)
+
+Miles de personas llenaron el Dignity Health Arena en Bakersfield para un homenaje durante todo el día y la Celebration of Life (celebración de la vida) para Dolores Huerta el \[…\]
+
+The post [De todos los ámbitos, llegaron para celebrar la vida de Dolores Huerta](https://sanfernandosun.com/2026/11/25/de-todos-los-ambitos-llegaron-para-celebrar-la-vida-de-dolores-huerta/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
 
 ## [Nuevo rink de hielo abre en Reseda en asociación con los LA Kings](https://sanfernandosun.com/2026/11/25/nuevo-rink-de-hielo-abre-en-reseda-en-asociacion-con-los-la-kings/)
 
