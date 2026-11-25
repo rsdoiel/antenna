@@ -5,10 +5,25 @@
     <title><![CDATA[Retro]]></title>
     <description><![CDATA[Computer history and vintage systems.]]></description>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>24 Nov 26 06:46 -0800</lastBuildDate>
+    <lastBuildDate>25 Nov 26 06:46 -0800</lastBuildDate>
     <generator>antenna/0.2.0</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Blogger broke the lightbox</title>
+      <link>https://oldvcr.blogspot.com/2026/11/blogger-broke-lightbox.html</link>
+      <description>
+        <![CDATA[<i>[UPDATE: This has been <a href="https://support.google.com/blogger/thread/478947697/image-lightbox-not-working">reported to Google</a> and now appears to be fixed.]</i>
+        <p>
+        Some regular readers have alerted me to the fact that the Blogger lightbox for images isn't working. This is a photo-heavy blog, so that's a problem. Although I use a lightly modified basic theme, I did a test post with a current theme and it still didn't work, on Edge, Firefox, Safari and Chrome, so I don't think it's something I did. The offender appears to be, in the minified JS, a couple instances of things like <tt>var Zp={}.getUniqueId("photofactoryservice");</tt> which is of course nonsense because you can't get <s>blood</s> a function from a <s>turnip</s> empty object and I don't see an obvious proto that would provide it. I also looked at a few other blogs and they seem to be similarly affected, so I think this is global and the whole thing feels like a flubbed deploy that didn't get enough testing. In the meantime, you can right click on an image and open it in a new tab to see the larger version, or you can use the mobile view (append <tt>?m=1</tt> to the URL) which doesn't use the lightbox at all. Happy Thanksgiving, I guess.]]>
+      </description>
+      <source:markdown>_\[UPDATE: This has been [reported to Google](https://support.google.com/blogger/thread/478947697/image-lightbox-not-working) and now appears to be fixed.\]_
+
+Some regular readers have alerted me to the fact that the Blogger lightbox for images isn&#39;t working. This is a photo-heavy blog, so that&#39;s a problem. Although I use a lightly modified basic theme, I did a test post with a current theme and it still didn&#39;t work, on Edge, Firefox, Safari and Chrome, so I don&#39;t think it&#39;s something I did. The offender appears to be, in the minified JS, a couple instances of things like `var Zp={}.getUniqueId(&#34;photofactoryservice&#34;);` which is of course nonsense because you can&#39;t get blood a function from a turnip empty object and I don&#39;t see an obvious proto that would provide it. I also looked at a few other blogs and they seem to be similarly affected, so I think this is global and the whole thing feels like a flubbed deploy that didn&#39;t get enough testing. In the meantime, you can right click on an image and open it in a new tab to see the larger version, or you can use the mobile view (append `?m=1` to the URL) which doesn&#39;t use the lightbox at all. Happy Thanksgiving, I guess.</source:markdown>
+      <author>noreply@blogger.com (ClassicHasClass)</author>
+      <guid isPermaLink="false">cid://tag:blogger.com,1999:blog-8349470052336612452.post-5858668465922283623</guid>
+      <category>administrivia</category>
+      <pubDate>Tue, 24 Nov 2026 21:27:04 +0000</pubDate>
+    </item>    <item>
       <title>Site Reader</title>
       <link>https://www.c64os.com/post/sitereader</link>
       <description>
@@ -939,36 +954,6 @@ In the end, with the new TV all set up, the 1980s can live again in my rear offi
       <source:markdown>Close, but no cigar, BabyBASIC.</source:markdown>
       <guid isPermaLink="false">cid://https://heyrick.eu/blog/entry/20261104</guid>
       <pubDate>Wed, 04 Nov 2026 19:03:18 +0000</pubDate>
-    </item>    <item>
-      <title>Linux 7.4 is &#34;Much Healthier&#34; Thanks to AI</title>
-      <link>http://www.linux-magazine.com/Online/News/Linux-7.4-is-Much-Healthier-Thanks-to-AI</link>
-      <description>
-        <![CDATA[<p>At nearly 42 million lines, Linux 7.4 is the largest merge in the kernel’s history.</p>]]>
-      </description>
-      <source:markdown>At nearly 42 million lines, Linux 7.4 is the largest merge in the kernel’s history.</source:markdown>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid isPermaLink="false">cid://344547397a8f4277c70e7f535e03f2f9</guid>
-      <pubDate>Tue, 03 Nov 2026 22:43:30 +0000</pubDate>
-    </item>    <item>
-      <title>MCS Alpha 1 and Beta 8</title>
-      <link>http://retro.hansotten.nl/mcs-alpha-1-and-beta-8/</link>
-      <description>
-        <![CDATA[I acquired (again) a MCS Alpha 1. The KIM-1 alike 6502 development system in a case, ready to run. With the processor card on top. First time I had one was in 1979, for a review in the magazine Radio Bulletin. Second time around 2000, sold as part of the big cleanup. And now the [&#8230;]]]>
-      </description>
-      <source:markdown>I acquired (again) a MCS Alpha 1. The KIM-1 alike 6502 development system in a case, ready to run. With the processor card on top. First time I had one was in 1979, for a review in the magazine Radio Bulletin. Second time around 2000, sold as part of the big cleanup. And now the \[…\]</source:markdown>
-      <dc:creator>hanso</dc:creator>
-      <guid isPermaLink="false">cid://http://retro.hansotten.nl/?p=22690</guid>
-      <category>6502</category>
-      <pubDate>Tue, 03 Nov 2026 18:40:58 +0000</pubDate>
-    </item>    <item>
-      <title>Drag&#39;n&#39;Drop 16i1 edition reviewed</title>
-      <link>http://www.iconbar.com/comments/rss/news2418.html</link>
-      <description>
-        <![CDATA[The Autumn 2026 edition of Drag'n'Drop magazine was released at the recent London Show. We are now into Volume 16!]]>
-      </description>
-      <source:markdown>The Autumn 2026 edition of Drag&#39;n&#39;Drop magazine was released at the recent London Show. We are now into Volume 16!</source:markdown>
-      <guid isPermaLink="false">cid://http://www.iconbar.com/comments/rss/news2418.html</guid>
-      <pubDate>Tue, 03 Nov 2026 08:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

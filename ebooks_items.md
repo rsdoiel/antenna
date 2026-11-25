@@ -3,8 +3,8 @@ title: "ebooks.md"
 description: "New eBook releases."
 pubDate: Fri, 20 Nov 2026 17:17:24 GMT
 aggregateOf: "ebooks.md"
-dateModified: Tue, 24 Nov 2026 06:47:35 GMT
-itemCount: 154
+dateModified: Wed, 25 Nov 2026 14:48:24 GMT
+itemCount: 141
 generator: antenna/0.2.0
 ---
 
@@ -853,84 +853,6 @@ Language: English
 ## [The gates of pearl by David Mason](https://www.gutenberg.org/ebooks/79917)
 
 via Project Gutenberg (New Books) · 2026-11-04
-
-Language: English
-
-## [William Thornton and negro colonization by Gaillard Hunt](https://www.gutenberg.org/ebooks/79903)
-
-via Project Gutenberg (New Books) · 2026-11-03
-
-Language: English
-
-## [Tag by Robert Abernathy](https://www.gutenberg.org/ebooks/79902)
-
-via Project Gutenberg (New Books) · 2026-11-03
-
-Language: English
-
-## [Somebody outside by Helen R. Hull](https://www.gutenberg.org/ebooks/79905)
-
-via Project Gutenberg (New Books) · 2026-11-03
-
-Language: English
-
-## [Account closed by David Mason](https://www.gutenberg.org/ebooks/79904)
-
-via Project Gutenberg (New Books) · 2026-11-03
-
-Language: English
-
-## [The New Gulliver, and Other Stories by Barry Pain](https://www.gutenberg.org/ebooks/33542)
-
-via Project Gutenberg (New Books) · 2026-11-03
-
-Language: English
-
-## [By Allah who made tigers by Talbot Mundy](https://www.gutenberg.org/ebooks/79906)
-
-via Project Gutenberg (New Books) · 2026-11-03
-
-Language: English
-
-## [The Odyssey by Homer](https://www.gutenberg.org/ebooks/1727)
-
-via Project Gutenberg (New Books) · 2026-11-03
-
-Language: English
-
-## [The reports of the committees of the House of Representatives, made during the first session thirty-](https://www.gutenberg.org/ebooks/79912)
-
-via Project Gutenberg (New Books) · 2026-11-03
-
-Language: English
-
-## [Bannion's cave by Margaret St. Clair](https://www.gutenberg.org/ebooks/79911)
-
-via Project Gutenberg (New Books) · 2026-11-03
-
-Language: English
-
-## [The vengeance of Sa'ik by Otis Adelbert Kline](https://www.gutenberg.org/ebooks/79910)
-
-via Project Gutenberg (New Books) · 2026-11-03
-
-Language: English
-
-## [Books and reading : by Noah Porter](https://www.gutenberg.org/ebooks/79907)
-
-via Project Gutenberg (New Books) · 2026-11-03
-
-Language: English
-
-## [At the sign of the Blue Boar : by Emma Leslie](https://www.gutenberg.org/ebooks/79909)
-
-via Project Gutenberg (New Books) · 2026-11-03
-
-Language: English
-
-## [The sign of evil by R. McNair Wilson](https://www.gutenberg.org/ebooks/79908)
-
-via Project Gutenberg (New Books) · 2026-11-03
 
 Language: English
 

@@ -1,14 +1,142 @@
 ---
 title: "Healthy Eats"
 description: "Healthy eats and good eats, with recipes, cooking and food news."
-pubDate: Tue, 24 Nov 2026 13:01:37 GMT
+pubDate: Wed, 25 Nov 2026 14:14:10 GMT
 aggregateOf: "food.md"
-dateModified: Tue, 24 Nov 2026 14:46:56 GMT
-itemCount: 290
+dateModified: Wed, 25 Nov 2026 14:47:20 GMT
+itemCount: 294
 generator: antenna/0.2.0
 ---
 
 # Healthy Eats
+
+## [Seattle’s Barometer Coffee Sets Sail with Pressure-Free Local Delivery](https://dailycoffeenews.com/2026/11/25/seattles-barometer-coffee-sets-sail-with-pressure-free-local-delivery/)
+
+via Daily Coffee News · 2026-11-25
+
+![Barometer Delivery Boat](https://dailycoffeenews.com/wp-content/uploads/2026/11/Barometer-Delivery-Boat-1-620x422.jpg)
+
+By bike, van and even dinghy to boats along Seattle’s waterways, new Ballard roasting company Barometer Coffee is gauging customers’ thirst for affordable, high-quality coffee delivered to their doors.  Founder...
+
+## [Chicago Specialty Coffee Shop Closes Amid Alleged ICE Connection](https://dailycoffeenews.com/2026/11/25/chicago-specialty-coffee-shop-closes-amid-alleged-ice-connection/)
+
+via Daily Coffee News · 2026-11-25
+
+![Coffee shop](https://dailycoffeenews.com/wp-content/uploads/2026/11/Coffee-shop-620x371.jpg)
+
+Chicago specialty coffee roaster and cafe Tasa Coffee Roasters appears to have permanently closed following an employee walkout and boycott calls over allegations that the owner’s husband works for U.S....
+
+## [Giant Sheet-Pan Chocolate Almond Croissant](https://www.tasteofhome.com/recipes/giant-sheet-pan-chocolate-almond-croissant/)
+
+via Taste of Home · 2026-11-25
+
+Our giant sheet-pan chocolate almond croissant has a filling of frangipane and melted chocolate chips between two light, buttery sheets of puff pastry.
+
+## [Black Friday Coffee Deals To Boggle The Mind](https://sprudge.com/black-friday-coffee-deals-to-boggle-the-mind-1673287.html)
+
+via The Sprudge · 2026-11-25, updated 2026-11-24
+
+**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Dig into deep discounts on coffee and coffee gear.**
+
+## [From Cart to Counter: Using the Cart to Test Your Concept](https://freshcup.com/from-cart-to-counter-using-the-cart-to-test-your-concept/)
+
+via The Fresh Cup · 2026-11-25, updated 2026-11-24
+
+“Go big or go home” sounds bold, but it’s a risky way to open a shop. A cart can show you if your concept works before you bet on a permanent space.
+
+The post [From Cart to Counter: Using the Cart to Test Your Concept](https://freshcup.com/from-cart-to-counter-using-the-cart-to-test-your-concept/) appeared first on [Fresh Cup](https://freshcup.com).
+
+## [Kimchi Bolognese](https://www.bonappetit.com/recipe/kimchi-bolognese)
+
+via Bon Appetet · 2026-11-25
+
+Using kimchi and fish sauce results in the Bolognese you know and love, but with a deep, tangy twist.
+
+## [Egg Noodles Al Limone, Limone, Limone, Limone](https://www.bonappetit.com/recipe/egg-noodles-al-limone-limone-limone-limone)
+
+via Bon Appetet · 2026-11-25
+
+One pot, four hits of lemon: Juice (limone #1) and zest (limone #2) in the cooking water, then more juice (limone #3) and zest (limone #4) to ﬁnish.
+
+## [Is It Rude to Bring Your Own Food to Thanksgiving?](https://www.tasteofhome.com/article/bring-your-own-food-to-thanksgiving-etiquette/)
+
+via Taste of Home · 2026-11-25
+
+Before you show up with a casserole (or a bucket of KFC), here's what you need to know about Thanksgiving guest etiquette.
+
+The post [Is It Rude to Bring Your Own Food to Thanksgiving?](https://www.tasteofhome.com/article/bring-your-own-food-to-thanksgiving-etiquette/) appeared first on [Taste of Home](https://www.tasteofhome.com).
+
+## [This Clever Fork Trick Makes Slicing Cheese So Much Easier](https://www.tasteofhome.com/article/fork-trick-slicing-cheese/)
+
+via Taste of Home · 2026-11-24, updated 2026-11-25
+
+A little ingenuity with an ordinary piece of silverware makes for a beautiful holiday cheese board.
+
+The post [This Clever Fork Trick Makes Slicing Cheese So Much Easier](https://www.tasteofhome.com/article/fork-trick-slicing-cheese/) appeared first on [Taste of Home](https://www.tasteofhome.com).
+
+## [This Restaurant Chain Was Just Named America’s Favorite](https://www.tasteofhome.com/article/culvers-americas-favorite-restaurants-list/)
+
+via Taste of Home · 2026-11-24, updated 2026-11-25
+
+This beloved American fast-food chain is known for its ButterBurgers and frozen custard. Can you guess?
+
+The post [This Restaurant Chain Was Just Named America’s Favorite](https://www.tasteofhome.com/article/culvers-americas-favorite-restaurants-list/) appeared first on [Taste of Home](https://www.tasteofhome.com).
+
+## [We’ve Been Using Our Gravy Boats Wrong for Decades—Here’s How You’re Supposed to Use Them](https://www.tasteofhome.com/article/how-to-use-a-gravy-boat/)
+
+via Taste of Home · 2026-11-24, updated 2026-11-25
+
+That little spout on your gravy boat may not be what you think it is.
+
+The post [We’ve Been Using Our Gravy Boats Wrong for Decades—Here’s How You’re Supposed to Use Them](https://www.tasteofhome.com/article/how-to-use-a-gravy-boat/) appeared first on [Taste of Home](https://www.tasteofhome.com).
+
+## [Hanukkah Salad](https://www.bonappetit.com/recipe/hanukkah-salad)
+
+via Bon Appetet · 2026-11-24, updated 2026-11-25
+
+Bright, crunchy, and decked out with latke croutons.
+
+## [There’s an Actual Holiday for Eating Thanksgiving Leftovers Over the Kitchen Sink](https://www.tasteofhome.com/article/sinkie-day/)
+
+via Taste of Home · 2026-11-24, updated 2026-11-25
+
+A 1991 tuna salad snack started it all, and yes, there's a fan club.
+
+The post [There’s an Actual Holiday for Eating Thanksgiving Leftovers Over the Kitchen Sink](https://www.tasteofhome.com/article/sinkie-day/) appeared first on [Taste of Home](https://www.tasteofhome.com).
+
+## [Early Black Friday Cookware Deals on the Forever Pieces We All Want (2026)](https://www.bonappetit.com/story/black-friday-cookware-11-24-2026)
+
+via Bon Appetet · 2026-11-24, updated 2026-11-25
+
+Deep discounts on Staub, Hestan, All-Clad, Made In and more.
+
+## [S’mores Pumpkin Pie](https://www.tasteofhome.com/recipes/smores-pumpkin-pie/)
+
+via Taste of Home · 2026-11-24, updated 2026-11-25
+
+S'mores pumpkin pie is the ultimate holiday indulgence! It has a sweet chocolate crust, a pumpkin filling with a hint of maple-caramel flavor, and a mini-marshmallow topping. Does it taste more like s'mores or pumpkin pie? You decide! —Sarah Reid, Oshawa, Ontario
+
+## [Brigadeiro (Brazilian Chocolate Truffles)](https://www.tasteofhome.com/recipes/brigadeiro-brazilian-chocolate-truffles/)
+
+via Taste of Home · 2026-11-24, updated 2026-11-25
+
+Brigadeiros are like a cross between fudge and Tootsie Rolls in truffle form. They're easy to make at home, and even easier to pop in your mouth.
+
+## [Very Hot Coffee and Tea Linked to Higher Esophageal Cancer Risk](https://dailycoffeenews.com/2026/11/24/very-hot-coffee-and-tea-linked-to-higher-esophageal-cancer-risk/)
+
+via Daily Coffee News · 2026-11-24, updated 2026-11-25
+
+![very hot coffee](https://dailycoffeenews.com/wp-content/uploads/2026/10/very-hot-coffee-620x434.jpg)
+
+People who prefer their coffee or tea very hot may face more than three times the risk of a particular type of esophageal cancer compared to people who drink their...
+
+## [Design Details: Ripples of Time at Yeonheun Roasters in Seoul](https://dailycoffeenews.com/2026/11/24/design-details-ripples-of-time-at-yeonheun-roasters-in-seoul/)
+
+via Daily Coffee News · 2026-11-24, updated 2026-11-25
+
+![Yeonheun Roasters 1](https://dailycoffeenews.com/wp-content/uploads/2026/10/Yeonheun-Roasters-1-620x414.jpg)
+
+Welcome to Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a...
 
 ## [The Prairie Fire Pepper Planting Guide](https://pepperscale.com/prairie-fire-pepper-planting/)
 
@@ -18,7 +146,7 @@ How to grow Prairie Fire peppers: when to plant where you live, starting seeds, 
 
 ## [Free Drinks and a Boycott Truck: Starbucks Workers Try a New Playbook](https://freshcup.com/free-drinks-and-a-boycott-truck-starbucks-workers-try-a-new-playbook/)
 
-via The Fresh Cup · 2026-11-24, updated 2026-11-23
+via The Fresh Cup · 2026-11-24
 
 Instead of strikes alone, Starbucks Workers United is asking customers to boycott, touring a coffee truck, and rallying at more than 40 campuses.
 
@@ -26,13 +154,13 @@ The post [Free Drinks and a Boycott Truck: Starbucks Workers Try a New Playbook]
 
 ## [Children Of A Lesser Pod: Reddit Blows The Whistle On Alleged Nespresso Shrinkflation](https://sprudge.com/children-of-a-lesser-pod-reddit-blows-the-whistle-on-alleged-nespresso-shrinkflation-1640027.html)
 
-via The Sprudge · 2026-11-24, updated 2026-11-23
+via The Sprudge · 2026-11-24
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Nespresso is maybe putting less coffee in their pods, and people are definitely mad.**
 
 ## [USDA Cuts Colombia Coffee Export Forecast by 760,000 Bags](https://dailycoffeenews.com/2026/11/24/usda-cuts-colombia-coffee-export-forecast-by-760000-bags/)
 
-via Daily Coffee News · 2026-11-24
+via Daily Coffee News · 2026-11-24, updated 2026-11-25
 
 ![Colombia coffee market report 2026:27](https://dailycoffeenews.com/wp-content/uploads/2026/11/Colombia-coffee-market-report-202627-620x400.png)
 
@@ -40,13 +168,13 @@ Colombia’s coffee production is forecast to increase by 5.9% to 13.4 million 6
 
 ## [Suqaar Digaag (Chicken and Vegetable Sauté)](https://www.bonappetit.com/recipe/suqaar-digaag-chicken-and-vegetable-saute)
 
-via Bon Appetet · 2026-11-24
+via Bon Appetet · 2026-11-24, updated 2026-11-25
 
 This chicken suqaar is cooked covered to keep the meat juicy and moist, and features xawaash and bright peppers.
 
 ## [Excellent Boiled Potatoes](https://www.bonappetit.com/recipe/pride-and-prejudice-excellent-boiled-potatoes)
 
-via Bon Appetet · 2026-11-24
+via Bon Appetet · 2026-11-24, updated 2026-11-25
 
 Never in your life have you had such an exemplary vegetable.
 
@@ -62,9 +190,15 @@ The best dessert recipes for an amazing Thanksgiving including pies, cakes, tart
 
 The post [Thanksgiving Dessert Recipes](https://www.closetcooking.com/thanksgiving-desserts/) appeared first on [Closet Cooking](https://www.closetcooking.com).
 
+## [Brown Butter Pumpkin Chocolate Chip Cookies](https://www.tasteofhome.com/recipes/brown-butter-pumpkin-chocolate-chip-cookies/)
+
+via Taste of Home · 2026-11-24, updated 2026-11-25
+
+These fall-forward cookies are flavored with brown butter, pumpkin, cinnamon and chocolate chips. Instant vanilla pudding mix adds moisture. They're chewy yet thin! —Hannah Colby, Indianapolis, Indiana
+
 ## [Best Black Friday Nespresso Deals: Save 35-40% on Almost Everything (2026)](https://www.bonappetit.com/story/nespresso-black-friday)
 
-via Bon Appetet · 2026-11-24
+via Bon Appetet · 2026-11-24, updated 2026-11-25
 
 Take advantage of early Black Friday sale pricing to get a great deal on a new Vertuo or OriginalLine machine.
 
@@ -76,19 +210,19 @@ How to grow biquinho peppers: when to plant where you live, starting seeds, spac
 
 ## [Accademia Del Caffè Espresso & Toddy Present “Hot VS Cold Conversations With Toddy”](https://sprudge.com/accademia-del-caffe-espresso-toddy-present-hot-vs-cold-conversations-with-toddy-1674671.html)
 
-via The Sprudge · 2026-11-23
+via The Sprudge · 2026-11-23, updated 2026-11-24
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A joint research project explores how brewing parameters influence caffeine extraction in cold brew, challenging common assumptions through scientific experimentation.**
 
 ## [57 Food Gifts We’re Giving (and Secretly Hoping to Get) in 2026](https://www.bonappetit.com/story/best-food-gifts-2026)
 
-via Bon Appetet · 2026-11-23, updated 2026-11-24
+via Bon Appetet · 2026-11-23, updated 2026-11-25
 
 Whether you want to spend $40 or $400
 
 ## [This Is Why Your Mashed Potatoes Are Gluey (and How to Fix It)](https://www.tasteofhome.com/article/how-to-fix-gluey-mashed-potatoes/)
 
-via Taste of Home · 2026-11-23
+via Taste of Home · 2026-11-23, updated 2026-11-25
 
 Consider this your mashed potato primer, complete with tips on how to fix gluey mashed potatoes and how to prevent them from the start.
 
@@ -96,61 +230,61 @@ The post [This Is Why Your Mashed Potatoes Are Gluey (and How to Fix It)](https:
 
 ## [Sheet-Pan Chicken Caesar Salad](https://www.bonappetit.com/recipe/sheet-pan-chicken-caesar-salad)
 
-via Bon Appetet · 2026-11-23, updated 2026-11-24
+via Bon Appetet · 2026-11-23, updated 2026-11-25
 
 This is pretty clever, if we do say so ourselves—using roasted chicken thighs to create a Caesar salad, all in the same sheet pan.
 
 ## [Why Weed Is Now a Family Thanksgiving Tradition](https://www.bonappetit.com/story/thanksgiving-is-a-weed-holiday)
 
-via Bon Appetet · 2026-11-23, updated 2026-11-24
+via Bon Appetet · 2026-11-23, updated 2026-11-25
 
 Families who get high together…might actually be having more fun.
 
 ## [Lefty, A Left-Hand Spiral Of Stainless Steel That Reimagines Pour-Over Brewing, Makes Its Debut](https://sprudge.com/lefty-a-left-hand-spiral-of-stainless-steel-that-reimagines-pour-over-brewing-makes-its-debut-1674126.html)
 
-via The Sprudge · 2026-11-23
+via The Sprudge · 2026-11-23, updated 2026-11-24
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. The Lefty brewer is out now.**
 
 ## [The Best Nontoxic Utensils To Replace Black Plastic Spatulas (2026)](https://www.bonappetit.com/story/best-non-toxic-utensils)
 
-via Bon Appetet · 2026-11-23, updated 2026-11-24
+via Bon Appetet · 2026-11-23, updated 2026-11-25
 
 You probably don’t need more than five pieces—and you definitely don’t need plastic.
 
 ## [Holiday Gifts & Gesha Box Sets On The Coffee Sprudgecast](https://sprudge.com/holiday-gifts-gesha-box-sets-on-the-coffee-sprudgecast-1654057.html)
 
-via The Sprudge · 2026-11-23
+via The Sprudge · 2026-11-23, updated 2026-11-24
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. The Coffee Sprudgecast is out now.**
 
 ## [Here Are The Winners Of The Second 2027 US Barista Championship Qualifier](https://sprudge.com/here-are-the-winners-of-the-second-2027-us-barista-championship-qualifier-1647236.html)
 
-via The Sprudge · 2026-11-23
+via The Sprudge · 2026-11-23, updated 2026-11-24
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Congratulations to everyone moving on.**
 
 ## [Charred Cabbage With Yogurt and Hot Sauce](https://www.bonappetit.com/recipe/charred-cabbage-with-yogurt-and-hot-sauce)
 
-via Bon Appetet · 2026-11-23, updated 2026-11-24
+via Bon Appetet · 2026-11-23, updated 2026-11-25
 
 If you think cabbage is boring, this dish will absolutely change your mind. Charred aggressively, it takes on a smoky, almost meaty quality—it’s the main event.
 
 ## [50+ Early Black Friday Kitchen Deals (2026): More Than 40% OffOur Faves](https://www.bonappetit.com/story/black-friday-kitchen-deals-11-23-2026)
 
-via Bon Appetet · 2026-11-23, updated 2026-11-24
+via Bon Appetet · 2026-11-23, updated 2026-11-25
 
 $500 off luxury pizza ovens, 20% off Vitamix blenders, 40% off Made In cookware, and more.
 
 ## [In Alison Roman's World, Curation is King](https://www.bonappetit.com/story/in-alison-romans-first-bloom-brooklyn)
 
-via Bon Appetet · 2026-11-23, updated 2026-11-24
+via Bon Appetet · 2026-11-23, updated 2026-11-25
 
 The chef and author gives us a behind-the-scenes peek at her first New York City store.
 
 ## [Meta-Analysis Links Coffee to Lower Odds of Depression](https://dailycoffeenews.com/2026/11/23/meta-analysis-links-coffee-to-lower-odds-of-depression/)
 
-via Daily Coffee News · 2026-11-23, updated 2026-11-24
+via Daily Coffee News · 2026-11-23, updated 2026-11-25
 
 ![Coffee-and-depression](https://dailycoffeenews.com/wp-content/uploads/2026/10/Coffee-and-depression-1-620x386.jpg)
 
@@ -158,7 +292,7 @@ Coffee stood out as one of the few beverage categories associated with lower odd
 
 ## [Investment Firms Acquiring Parent Company of Italy’s Evoca Group](https://dailycoffeenews.com/2026/11/23/investment-firms-acquiring-parent-company-of-italys-evoca-group/)
 
-via Daily Coffee News · 2026-11-23, updated 2026-11-24
+via Daily Coffee News · 2026-11-23, updated 2026-11-25
 
 ![Gaggia espresso machine](https://dailycoffeenews.com/wp-content/uploads/2026/11/Gaggia-espresso-machine-620x414.jpg)
 
@@ -166,7 +300,7 @@ Global investment firms Carlyle and Park Square Capital are acquiring the parent
 
 ## [White Bean Soup](https://www.chilipeppermadness.com/recipes/white-bean-soup/)
 
-via Chili Pepper Madness · 2026-11-23
+via Chili Pepper Madness · 2026-11-23, updated 2026-11-24
 
 [![A large bowl filled with creamy Tuscan style White Bean Soup, garnished with chili flakes](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/White-Bean-Soup-Recipe-BOWL1-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/white-bean-soup/ "White Bean Soup")
 
@@ -176,7 +310,7 @@ The post [White Bean Soup](https://www.chilipeppermadness.com/recipes/white-bean
 
 ## [Design Details: The Organic Forms of X Coffee Tools by Pose Bureau](https://dailycoffeenews.com/2026/11/23/design-details-the-organic-forms-of-x-coffee-tools-by-pose-bureau/)
 
-via Daily Coffee News · 2026-11-23, updated 2026-11-24
+via Daily Coffee News · 2026-11-23, updated 2026-11-25
 
 ![Pose Bureau X Coffee Tools pourover stand](https://dailycoffeenews.com/wp-content/uploads/2026/11/Pose-Bureau-X-Coffee-Tools-pourover-stand-1-620x389.jpg)
 
@@ -184,7 +318,7 @@ Welcome to Design Details, an ongoing editorial feature in Daily Coffee News fo
 
 ## [Coffee News Club: November 23rd](https://freshcup.com/coffee-news-club-november-23rd/)
 
-via The Fresh Cup · 2026-11-23
+via The Fresh Cup · 2026-11-23, updated 2026-11-24
 
 This year’s hottest coffee brewer is plastic-free. Plus, Fair Trade USA raises minimum prices, and the Starbucks Workers United boycott truck is on tour.
 
@@ -204,13 +338,13 @@ The post [Jalapeno and Cheddar Cornbread](https://www.closetcooking.com/jalapeno
 
 ## [Bon Appétit Pick: HelloFresh Garlicky Shrimp Couscous Bowl](https://www.bonappetit.com/story/hellofresh-garlicky-shrimp-couscous-bowl)
 
-via Bon Appetet · 2026-11-23, updated 2026-11-24
+via Bon Appetet · 2026-11-23, updated 2026-11-25
 
 A cheffy detail helps pack a simple dish with flavor.
 
 ## [A Cornucopia Of Coffee To Be Thankful For](https://sprudge.com/a-cornucopia-of-coffee-to-be-thankful-for-1654212.html)
 
-via The Sprudge · 2026-11-22, updated 2026-11-23
+via The Sprudge · 2026-11-22, updated 2026-11-24
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster's Village.**
 
@@ -228,19 +362,13 @@ The post [Thanksgiving Side Dish Recipes](https://www.closetcooking.com/thanksgi
 
 ## [Aji de Gallina (Creamy Peruvian Chicken Stew)](https://www.chilipeppermadness.com/recipes/aji-de-gallina/)
 
-via Chili Pepper Madness · 2026-11-21, updated 2026-11-23
+via Chili Pepper Madness · 2026-11-21, updated 2026-11-24
 
 [![Aji de Gallina (Peruvian Chicken Stew) served in a bowl over rice, garnished with sliced hard boiled egg, sliced boiled potatoes, black olives, and parsley](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Aji-de-Gallina-Recipe2-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/aji-de-gallina/ "Aji de Gallina (Creamy Peruvian Chicken Stew)")
 
 Aji de gallina is Peru's creamy chicken stew: shredded chicken in a golden aji amarillo sauce with walnuts and parmesan. Mild, rich, and great made ahead.
 
 The post [Aji de Gallina (Creamy Peruvian Chicken Stew)](https://www.chilipeppermadness.com/recipes/aji-de-gallina/) appeared first on [Chili Pepper Madness](https://www.chilipeppermadness.com).
-
-## [Brown Butter Pumpkin Chocolate Chip Cookies](https://www.tasteofhome.com/recipes/brown-butter-pumpkin-chocolate-chip-cookies/)
-
-via Taste of Home · 2026-11-21
-
-These fall-forward cookies are flavored with brown butter, pumpkin, cinnamon and chocolate chips. Instant vanilla pudding mix adds moisture. They're chewy yet thin! —Hannah Colby, Indianapolis, Indiana
 
 ## [Thanksgiving Main Course Recipes](https://www.closetcooking.com/thanksgiving-mains-turkey/)
 
@@ -256,7 +384,7 @@ The post [Thanksgiving Main Course Recipes](https://www.closetcooking.com/thanks
 
 ## [I Tested 6 Popular Store-Bought Pumpkin Pies to Find the Best One for Thanksgiving Dinner](https://www.tasteofhome.com/collection/store-bought-pumpkin-pie-ranking/)
 
-via Taste of Home · 2026-11-20, updated 2026-11-23
+via Taste of Home · 2026-11-20, updated 2026-11-25
 
 Sometimes, all there's time for on Thanksgiving is buying a store-bought pumpkin pie. I tested six to find out which one tasted the most homemade.
 
@@ -264,13 +392,13 @@ The post [I Tested 6 Popular Store-Bought Pumpkin Pies to Find the Best One for 
 
 ## [Extra-Fluffy Cinnamon Rolls](https://www.bonappetit.com/recipe/cinnamon-rolls-cream-cheese-frosting)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-24
+via Bon Appetet · 2026-11-20, updated 2026-11-25
 
 Come for the fluff; stay for the brown-butter-and-cinnamon-sugar filling.
 
 ## [This Is What Was on the Menu at the First Thanksgiving in 1621](https://www.tasteofhome.com/article/first-thanksgiving-menu/)
 
-via Taste of Home · 2026-11-20, updated 2026-11-23
+via Taste of Home · 2026-11-20, updated 2026-11-25
 
 Somehow, turkey has spent the last four centuries getting all the glory.
 
@@ -278,7 +406,7 @@ The post [This Is What Was on the Menu at the First Thanksgiving in 1621](https:
 
 ## [This Egg Wash Secret Makes the Prettiest Pie Crusts Every Time](https://www.tasteofhome.com/article/salt-in-egg-wash/)
 
-via Taste of Home · 2026-11-20, updated 2026-11-23
+via Taste of Home · 2026-11-20, updated 2026-11-25
 
 The secret to a beautifully golden Thanksgiving pie might be the simplest ingredient in your kitchen.
 
@@ -286,19 +414,19 @@ The post [This Egg Wash Secret Makes the Prettiest Pie Crusts Every Time](https:
 
 ## [SourceOS Brings the Fractional Model To Green Coffee Sourcing](https://sprudge.com/sourceos-brings-the-fractional-model-to-green-coffee-sourcing-1654778.html)
 
-via The Sprudge · 2026-11-20, updated 2026-11-23
+via The Sprudge · 2026-11-20, updated 2026-11-24
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Like a fractional CFO, SourceOS gives roasters a senior green buyer without a full-time hire.**
 
 ## [37 Thanksgiving Cocktails and Drinks for Every Guest](https://www.bonappetit.com/gallery/cocktails/slideshow/thanksgiving-cocktails)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-24
+via Bon Appetet · 2026-11-20, updated 2026-11-25
 
 Big-batch punches, low-alcohol spritzes, and nightcaps worth staying up for.
 
 ## [The Secret to the Creamiest Mac and Cheese Comes in a Can](https://www.tasteofhome.com/article/evaporated-milk-mac-and-cheese/)
 
-via Taste of Home · 2026-11-20, updated 2026-11-23
+via Taste of Home · 2026-11-20, updated 2026-11-25
 
 Making a truly excellent bowl of mac and cheese shouldn't take an entire afternoon. Here's the one ingredient I rely on to get the creamiest cheese sauce every time.
 
@@ -306,19 +434,19 @@ The post [The Secret to the Creamiest Mac and Cheese Comes in a Can](https://www
 
 ## [Tea Huntress’ Bestseller Gets Its Own Brand: Sarah Scarborough Launches Stardust Teas](https://sprudge.com/tea-huntress-bestseller-gets-its-own-brand-sarah-scarborough-launches-stardust-teas-1654474.html)
 
-via The Sprudge · 2026-11-20, updated 2026-11-23
+via The Sprudge · 2026-11-20, updated 2026-11-24
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. 30-year tea industry veteran introduces instant ritual beverage line featuring cult-favorite Moon Milk and sister product Sun Chai to make daily wellness effortless.**
 
 ## [The Maldon Salt Scandal, Explained](https://www.bonappetit.com/story/the-maldon-salt-scandal)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-24
+via Bon Appetet · 2026-11-20, updated 2026-11-25
 
 Plus, a new study on GLP-1s for kids, the case for cocktail brutalism, and more.
 
 ## [Julia Child’s Controversial Thanksgiving Turkey Method Isn’t As Crazy As It Sounds](https://www.tasteofhome.com/article/julia-child-thanksgiving-turkey/)
 
-via Taste of Home · 2026-11-20, updated 2026-11-23
+via Taste of Home · 2026-11-20, updated 2026-11-25
 
 Julia Child's solution to a common turkey dilemma was equal parts culinary brilliance and holiday theater.
 
@@ -326,25 +454,25 @@ The post [Julia Child’s Controversial Thanksgiving Turkey Method Isn’t As Cr
 
 ## [Mexican Hot Chocolate Mousse Pie](https://www.tasteofhome.com/recipes/mexican-hot-chocolate-mousse-pie/)
 
-via Taste of Home · 2026-11-20, updated 2026-11-23
+via Taste of Home · 2026-11-20, updated 2026-11-25
 
 We took the [chocolate mousse pie recipe](https://www.tasteofhome.com/recipes/chocolate-truffle-pie/ "") submitted by Keri Schofield Lawson of Brea, California, and added cinnamon and cayenne to make a no-bake, Mexican hot chocolate–inspired mousse pie. It's simple, rich and decadent with a spicy twist. Good luck stopping at just one slice! —Taste of Home Test Kitchen
 
 ## [Butter Mochi Cake With Maple-Miso Pecans](https://www.bonappetit.com/recipe/miso-and-maple-pecan-butter-mochi-cake)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-24
+via Bon Appetet · 2026-11-20, updated 2026-11-25
 
 Two beloved desserts combine in one delightfully chewy cake.
 
 ## [Dirty Spaghetti](https://www.tasteofhome.com/recipes/dirty-spaghetti/)
 
-via Taste of Home · 2026-11-20, updated 2026-11-23
+via Taste of Home · 2026-11-20, updated 2026-11-25
 
 Dirty rice has met its noodle match with our Louisiana-style dirty spaghetti.
 
 ## [Weekly Coffee News: Rocket Showroom in Geneva + New Labor Abuse Case](https://dailycoffeenews.com/2026/11/20/weekly-coffee-news-rocket-showroom-in-geneva-new-labor-abuse-case/)
 
-via Daily Coffee News · 2026-11-20, updated 2026-11-24
+via Daily Coffee News · 2026-11-20, updated 2026-11-25
 
 ![Rocket Espresso](https://dailycoffeenews.com/wp-content/uploads/2026/11/Rocket-Espresso-620x414.jpg)
 
@@ -352,7 +480,7 @@ Rocket Introduces Modular Retail Concept With Chronic Coffee in Geneva Italian e
 
 ## [New Product: Bellwether’s Updated Shop Roaster Gets Rebuilt On The Inside and Out](https://freshcup.com/new-product-bellwethers-updated-shop-roaster-gets-rebuilt-on-the-inside-and-out/)
 
-via The Fresh Cup · 2026-11-20, updated 2026-11-23
+via The Fresh Cup · 2026-11-20, updated 2026-11-24
 
 Roasting coffee usually means vents, permits, and construction. Bellwether’s updated Shop Roaster model only needs a standard outlet.
 
@@ -360,25 +488,25 @@ The post [New Product: Bellwether’s Updated Shop Roaster Gets Rebuilt On The I
 
 ## [Sticky Miso Chicken and More Recipes We Made This Week](https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-november-2026)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-24
+via Bon Appetet · 2026-11-20, updated 2026-11-25
 
 Like a make-ahead lentil salad and apple snacking cake.
 
 ## [Sheet-Pan Cider Vinegar Chicken](https://www.bonappetit.com/recipe/sheet-pan-cider-vinegar-chicken)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-24
+via Bon Appetet · 2026-11-20, updated 2026-11-25
 
 A one-pan dinner for cozy fall evenings in.
 
 ## [The Most-Saved Recipes on Bon Appétit This Week](https://www.bonappetit.com/gallery/most-saved-recipes-november-2026)
 
-via Bon Appetet · 2026-11-20, updated 2026-11-24
+via Bon Appetet · 2026-11-20, updated 2026-11-25
 
 Like green lentil soup and pumpkin overnight oats.
 
 ## [10 Holiday Groceries Our Editors Are Stocking Up on This Year](https://www.tasteofhome.com/collection/best-holiday-groceries-2026/)
 
-via Taste of Home · 2026-11-19, updated 2026-11-23
+via Taste of Home · 2026-11-19, updated 2026-11-25
 
 From the perfect cracker for a cheese board to the best puff pastry for holiday baking, these are the grocery store finds our editors can't get enough of this holiday season.
 
@@ -386,19 +514,19 @@ The post [10 Holiday Groceries Our Editors Are Stocking Up on This Year](https:/
 
 ## [BA's Best Lasagna](https://www.bonappetit.com/recipe/ba-best-lasagna)
 
-via Bon Appetet · 2026-11-19, updated 2026-11-24
+via Bon Appetet · 2026-11-19, updated 2026-11-25
 
 Layers of ragù and béchamel are all that’s right in this world.
 
 ## [9 Best Coffee Subscriptions, Reviewed & Reordered (2026)](https://www.bonappetit.com/story/best-coffee-subscriptions)
 
-via Bon Appetet · 2026-11-19, updated 2026-11-24
+via Bon Appetet · 2026-11-19, updated 2026-11-25
 
 Never run out of beans again.
 
 ## [What Is Hybrid Bakeware? Here’s What Home Bakers Need to Know](https://www.tasteofhome.com/article/what-is-hybrid-bakeware/)
 
-via Taste of Home · 2026-11-19, updated 2026-11-23
+via Taste of Home · 2026-11-19, updated 2026-11-25
 
 The right baking pan can be the difference between a cake that releases cleanly and one that falls apart. Here's why hybrid bakeware is catching our attention.
 
@@ -406,7 +534,7 @@ The post [What Is Hybrid Bakeware? Here’s What Home Bakers Need to Know](https
 
 ## [Which Thanksgiving Foods Belong in the Same Bite?](https://www.tasteofhome.com/article/thanksgiving-food-combinations/)
 
-via Taste of Home · 2026-11-19, updated 2026-11-23
+via Taste of Home · 2026-11-19, updated 2026-11-25
 
 Some Thanksgiving food combinations are obvious. Others might earn you some questioning looks at the dinner table.
 
@@ -414,13 +542,13 @@ The post [Which Thanksgiving Foods Belong in the Same Bite?](https://www.tasteof
 
 ## [Bad Bunny, Great Coffee: Brewing On Tour With The International Superstar](https://sprudge.com/bad-bunny-great-coffee-brewing-on-tour-with-the-international-superstar-1250962.html)
 
-via The Sprudge · 2026-11-19, updated 2026-11-23
+via The Sprudge · 2026-11-19, updated 2026-11-24
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Abner Roldan of Café Comunión on serving coffee at the Bad Bunny world tour.**
 
 ## [Is Pink Turkey Safe to Eat?](https://www.tasteofhome.com/article/is-pink-turkey-safe-to-eat/)
 
-via Taste of Home · 2026-11-19, updated 2026-11-23
+via Taste of Home · 2026-11-19, updated 2026-11-25
 
 Pink turkey doesn't necessarily mean your Thanksgiving feast is ruined. Here's how to know if your bird is safe to eat so you can stay calm and turkey on.
 
@@ -428,13 +556,13 @@ The post [Is Pink Turkey Safe to Eat?](https://www.tasteofhome.com/article/is-pi
 
 ## [11 Leftover Turkey Sandwiches to Look Forward To](https://www.bonappetit.com/gallery/leftover-turkey-sandwiches)
 
-via Bon Appetet · 2026-11-19, updated 2026-11-24
+via Bon Appetet · 2026-11-19, updated 2026-11-25
 
 Objectively, the best part of a holiday roast is the overstuffed sandwich the next day.
 
 ## [HexClad Bakeware Review: This Set Is So Sturdy and Nonstick, I’m Ditching Parchment Paper](https://www.tasteofhome.com/article/hexclad-bakeware-review/)
 
-via Taste of Home · 2026-11-19, updated 2026-11-23
+via Taste of Home · 2026-11-19, updated 2026-11-25
 
 As an avid baker, I've been waiting for such a sturdy set.
 
@@ -448,19 +576,19 @@ When to start Padrón pepper seeds, when to plant them out, and when to pick the
 
 ## [How to Make Whipped Cream Perfectly, Every Time](https://www.bonappetit.com/story/how-to-make-whipped-cream)
 
-via Bon Appetet · 2026-11-19, updated 2026-11-24
+via Bon Appetet · 2026-11-19, updated 2026-11-25
 
 Soft peaks, stiff peaks, sweetened or not—and three ways to get there.
 
 ## [The Tucson Restaurant Turning Cactus Into Fine Dining](https://www.bonappetit.com/story/tucson-restaurant-ursa-desert-foraging-tasting-menu)
 
-via Bon Appetet · 2026-11-19, updated 2026-11-24
+via Bon Appetet · 2026-11-19, updated 2026-11-25
 
 At Ursa in Tucson, the Sonoran Desert is the pantry and inspiration for inventive meals full of foraged plants
 
 ## [Brazil’s Record Coffee Harvest Comes with Quality and Stock Concerns](https://dailycoffeenews.com/2026/11/19/brazils-record-coffee-harvest-comes-with-quality-and-stock-concerns/)
 
-via Daily Coffee News · 2026-11-19, updated 2026-11-24
+via Daily Coffee News · 2026-11-19, updated 2026-11-25
 
 ![Brazil Coffee Market report](https://dailycoffeenews.com/wp-content/uploads/2026/11/Brazil-Coffee-Market-report-620x400.png)
 
@@ -476,7 +604,7 @@ Author and illustrator Wendra Lynne has released her second picture book, “The
 
 ## [Arabica Market Falls to Its Lowest Since June](https://freshcup.com/arabica-market-falls-to-its-lowest-since-june/)
 
-via The Fresh Cup · 2026-11-19, updated 2026-11-23
+via The Fresh Cup · 2026-11-19, updated 2026-11-24
 
 An election in Brazil, a weakened real against the dollar, and a strong harvest have pushed prices downward.
 
@@ -484,7 +612,7 @@ The post [Arabica Market Falls to Its Lowest Since June](https://freshcup.com/ar
 
 ## [Yangnyeom Sauce (Korean Fried Chicken Sauce)](https://www.chilipeppermadness.com/recipes/yangnyeom-sauce/)
 
-via Chili Pepper Madness · 2026-11-19, updated 2026-11-23
+via Chili Pepper Madness · 2026-11-19, updated 2026-11-24
 
 [![A spoonful of dark and spicy Homemade Yangnyeom Sauce (Korean Fried Chicken Sauce) being scooped from a serving bowl](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Yangnyeom-Sauce-Recipe2b-Korean-Fried-Chicken-Sauce-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/yangnyeom-sauce/ "Yangnyeom Sauce (Korean Fried Chicken Sauce)")
 
@@ -500,13 +628,13 @@ via The Sprudge · 2026-11-19, updated 2026-11-23
 
 ## [Maple-Sausage Breakfast Casserole](https://www.bonappetit.com/recipe/maple-sausage-breakfast-casserole)
 
-via Bon Appetet · 2026-11-19, updated 2026-11-24
+via Bon Appetet · 2026-11-19, updated 2026-11-25
 
 Eggy, cheesy, and just a smidge sweet, this will become your new brunch go-to.
 
 ## [TASTE OF HOME 2026 VIRTUAL COOKIE EXCHANGE PROMOTION (# 353) Terms and Conditions (“Terms”)](https://www.tasteofhome.com/taste-of-home-2026-virtual-cookie-exchange-promotion-353-terms-and-conditions-terms/)
 
-via Taste of Home · 2026-11-19, updated 2026-11-23
+via Taste of Home · 2026-11-19, updated 2026-11-25
 
 NO PURCHASE OR PAYMENT OF ANY KIND IS NECESSARY TO BE ELIGIBLE. TASTE OF HOME 2026 Virtual Cookie Exchange Promotion
 
@@ -526,7 +654,7 @@ The post [Crispy Parmesan Roast Sweet Potatoes](https://www.closetcooking.com/cr
 
 ## [Taste of Home Christmas Cookies Sweepstakes (#655) Official Rules](https://www.tasteofhome.com/taste-of-home-christmas-cookies-sweepstakes-655-official-rules/)
 
-via Taste of Home · 2026-11-19, updated 2026-11-23
+via Taste of Home · 2026-11-19, updated 2026-11-25
 
 NO PURCHASE OR PAYMENT OF ANY KIND IS NECESSARY TO ENTER OR WIN. PURCHASE WILL NOT IMPROVE AN ENTRY’S CHANCE
 
@@ -534,19 +662,19 @@ The post [Taste of Home Christmas Cookies Sweepstakes (#655) Official Rules](htt
 
 ## [Chicken Broccoli Alfredo](https://www.tasteofhome.com/recipes/chicken-broccoli-alfredo-recipe/)
 
-via Taste of Home · 2026-11-18, updated 2026-11-23
+via Taste of Home · 2026-11-18, updated 2026-11-25
 
 It takes just 25 minutes to make chicken broccoli Alfredo by combining veggies and meat in a creamy garlic and Parmesan sauce.
 
 ## [How We Brought a Taste of Maine to Bon Appétit LIVE](https://www.bonappetit.com/story/bon-appetit-live-2026-visit-maine-recap)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-24
+via Bon Appetet · 2026-11-18, updated 2026-11-25
 
 From shucking oysters and making creamy lobster dip to baking wild blueberry cornmeal shortcakes, here’s how Visit Maine brought New England flavor to the event.
 
 ## [This Is the Best Way to Use Leftover Canned Pumpkin](https://www.tasteofhome.com/article/what-to-make-with-leftover-canned-pumpkin/)
 
-via Taste of Home · 2026-11-18, updated 2026-11-23
+via Taste of Home · 2026-11-18, updated 2026-11-25
 
 Leftover canned pumpkin? No problem. Half a can of pumpkin isn't enough for another pie, but you can definitely put it to use in other fall recipes.
 
@@ -554,13 +682,13 @@ The post [This Is the Best Way to Use Leftover Canned Pumpkin](https://www.taste
 
 ## [The Best Frozen Lasagna, According to Our Taste Test](https://www.bonappetit.com/story/the-best-frozen-lasagna-taste-test)
 
-via Bon Appetet · 2026-11-18, updated 2026-11-24
+via Bon Appetet · 2026-11-18, updated 2026-11-25
 
 We tried nine store-bought lasagnas from Rao’s, Stouffer’s, Trader Joe’s, and more. These are the ones we’d stock in our freezers.
 
 ## [The Secret to Better Gravy Is Already In Your Pantry](https://www.tasteofhome.com/article/soy-sauce-in-gravy/)
 
-via Taste of Home · 2026-11-18, updated 2026-11-23
+via Taste of Home · 2026-11-18, updated 2026-11-25
 
 It only takes a splash to give homemade gravy the rich, savory flavor you're after.
 
@@ -580,7 +708,7 @@ Like pork inasal, stuffing-crusted fish, or a beautiful cabbage galette.
 
 ## [Hanukkah Bark](https://www.tasteofhome.com/recipes/hanukkah-bark/)
 
-via Taste of Home · 2026-11-18, updated 2026-11-23
+via Taste of Home · 2026-11-18, updated 2026-11-25
 
 It will be a miracle if this colorful, festive and irresistibly sweet Hanukkah bark lasts for eight days and eight nights.
 
@@ -614,7 +742,7 @@ Fair Trade USA is raising its minimum price for washed arabica coffee from $1.40
 
 ## [The Smile Test Will Tell You if Your Hospitality Training Works](https://freshcup.com/the-smile-test-will-tell-you-if-your-hospitality-training-works/)
 
-via The Fresh Cup · 2026-11-18, updated 2026-11-23
+via The Fresh Cup · 2026-11-18, updated 2026-11-24
 
 You can’t easily measure hospitality, but you can watch for it. The smile test shows you how quickly your guests warm up, and whether your training is working.
 
@@ -654,7 +782,7 @@ Like cranberry-mustard chicken and an electric pink meringue pie.
 
 ## [Is Cottage Cheese Good for You?](https://www.tasteofhome.com/article/is-cottage-cheese-good-for-you/)
 
-via Taste of Home · 2026-11-17, updated 2026-11-23
+via Taste of Home · 2026-11-17, updated 2026-11-25
 
 Is cottage cheese healthy? And what type should you buy? Here's the scoop on the health benefits of cottage cheese and how to cook with it.
 
@@ -752,7 +880,7 @@ The best US cities for spicy food, sorted by the things we could check: a local 
 
 ## [New Product: The Hojicha Tea Latte Blend From Two Leaves and a Bud is Like Matcha, But Roasted](https://freshcup.com/new-product-the-hojicha-tea-latte-blend-from-two-leaves-and-a-bud-is-like-matcha-but-roasted/)
 
-via The Fresh Cup · 2026-11-17, updated 2026-11-23
+via The Fresh Cup · 2026-11-17, updated 2026-11-24
 
 Hojicha is gaining ground on U.S. menus. Two Leaves and a Bud’s new Hojicha Tea Latte Blend removes the guesswork of adding it to the menu, hot or iced.
 
@@ -760,7 +888,7 @@ The post [New Product: The Hojicha Tea Latte Blend From Two Leaves and a Bud is 
 
 ## [Why Did My Pumpkin Pie Crack and How Can I Fix It?](https://www.tasteofhome.com/article/prevent-and-fix-cracked-pumpkin-pie/)
 
-via Taste of Home · 2026-11-16, updated 2026-11-23
+via Taste of Home · 2026-11-16, updated 2026-11-25
 
 Here's how to avert dessert disaster before it strikes—with tips for hiding it just in case.
 
@@ -880,7 +1008,7 @@ via The Sprudge · 2026-11-16, updated 2026-11-19
 
 ## [Coffee News Club: November 16th](https://freshcup.com/coffee-news-club-november-16th/)
 
-via The Fresh Cup · 2026-11-16, updated 2026-11-23
+via The Fresh Cup · 2026-11-16, updated 2026-11-24
 
 Scientists create a filter to remove caffeine during brewing. Plus, arabica prices are falling, and Blueprint Coffee is returning tariff refunds to customers.
 
@@ -1058,7 +1186,7 @@ via The Sprudge · 2026-11-13, updated 2026-11-17
 
 ## [Seeds of Change in Colombia’s Caldas Department](https://freshcup.com/seeds-of-change-in-colombias-caldas-department/)
 
-via The Fresh Cup · 2026-11-13, updated 2026-11-23
+via The Fresh Cup · 2026-11-13, updated 2026-11-24
 
 Forest Coffee’s Reforest program pays Colombian producers in Caldas a premium and supplies native tree seedlings while connecting them with specialty buyers.
 
@@ -1144,7 +1272,7 @@ Fiber and protein and carbs—oh my!
 
 ## [New Study Explains Why We Learn to Love Bitter Coffee](https://freshcup.com/new-study-explains-why-we-learn-to-love-bitter-coffee/)
 
-via The Fresh Cup · 2026-11-12, updated 2026-11-23
+via The Fresh Cup · 2026-11-12, updated 2026-11-24
 
 Researchers say a “slow” dopamine circuit connecting the gut and brain teaches us to link coffee’s bitter flavor with caffeine’s positive effects.
 
@@ -1160,7 +1288,7 @@ Kansas City, Missouri-based specialty coffee group FairWave Specialty Coffee Col
 
 ## [Baked Sweet Potatoes (Perfect Every Time + Spicy Toppings)](https://www.chilipeppermadness.com/recipes/baked-sweet-potatoes/)
 
-via Chili Pepper Madness · 2026-11-12, updated 2026-11-23
+via Chili Pepper Madness · 2026-11-12, updated 2026-11-24
 
 [![A creamy hot sweet potato slit open, releasing steam](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Baked-Sweet-Potatoes-Recipe1b-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/baked-sweet-potatoes/ "Baked Sweet Potatoes (Perfect Every Time + Spicy Toppings)")
 
@@ -1246,7 +1374,7 @@ The post [Walmart and Sam’s Club Just Dropped a Can’t-Miss Holiday Membershi
 
 ## [Cajun Turkey (Juicy, Injected & Oven-Roasted)](https://www.chilipeppermadness.com/recipes/cajun-turkey/)
 
-via Chili Pepper Madness · 2026-11-11, updated 2026-11-23
+via Chili Pepper Madness · 2026-11-11, updated 2026-11-24
 
 [![A roasted Cajun turkey on a serving platter, injected and rubbed with Cajun-spiced butter, ready to be carved](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Cajun-Turkey-Recipe1b-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/cajun-turkey/ "Cajun Turkey (Juicy, Injected & Oven-Roasted)")
 
@@ -1494,7 +1622,7 @@ The post [The Porte + Hall Holiday Collection Is Here—And It’s the Most Prac
 
 ## [Brabant Potatoes (New Orleans Garlic Butter Potatoes)](https://www.chilipeppermadness.com/recipes/brabant-potatoes/)
 
-via Chili Pepper Madness · 2026-11-09, updated 2026-11-23
+via Chili Pepper Madness · 2026-11-09, updated 2026-11-24
 
 [![New Orleans Brabant Potatoes served in a bowl, garnished with fresh parsley](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Brabant-Potatoes-Recipe-BOWL3-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/brabant-potatoes/ "Brabant Potatoes (New Orleans Garlic Butter Potatoes)")
 
@@ -1704,7 +1832,7 @@ The post [Announcing the Winners of Our Pie-Palooza Recipe Contest](https://www.
 
 ## [Creamy Jalapeño Popper Mac and Cheese](https://www.chilipeppermadness.com/recipes/creamy-jalapeno-popper-mac-and-cheese/)
 
-via Chili Pepper Madness · 2026-11-06, updated 2026-11-23
+via Chili Pepper Madness · 2026-11-06, updated 2026-11-24
 
 [![Indulge in a bowl of Jalapeno Popper Mac and Cheese, featuring creamy macaroni and cheese generously topped with sliced jalapeños, chopped bacon, and fresh green onions. A spoon rests inside the bowl, while a dark cloth is partially visible in the background.](https://www.chilipeppermadness.com/wp-content/uploads/2026/09/Jalapeno-Popper-Mac-and-Cheese-Recipe-BOWL2-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/creamy-jalapeno-popper-mac-and-cheese/ "Creamy Jalapeño Popper Mac and Cheese")
 
@@ -1955,106 +2083,4 @@ via The Fresh Cup · 2026-11-04, updated 2026-11-11
 Serve your existing customers this holiday season, and they’ll bring you new ones.
 
 The post [What to Do About Holiday Gifting Season as a Coffee Brand](https://freshcup.com/what-to-do-about-holiday-gifting-season-as-a-coffee-brand/) appeared first on [Fresh Cup](https://freshcup.com).
-
-## [Dry-Brined Turkey With Tangy Honey Glaze](https://www.bonappetit.com/recipe/dry-rubbed-roast-turkey)
-
-via Bon Appetet · 2026-11-03, updated 2026-11-09
-
-Our never-fail turkey is excellent in every way that other turkeys often fall short. Period.
-
-## [What My Job Is Like as a Fact Checker at Bon Appétit](https://www.bonappetit.com/story/fact-checker-role-ryan-harrington)
-
-via Bon Appetet · 2026-11-03, updated 2026-11-09
-
-Research director Ryan Harrington will tell you whether a hot dog really is a sandwich.
-
-## [Keurig and Luckin Report Growth Amid Coffee Market Shifts](https://dailycoffeenews.com/2026/11/03/keurig-and-luckin-report-growth-amid-coffee-market-shifts/)
-
-via Daily Coffee News · 2026-11-03, updated 2026-11-06
-
-![coffee beans](https://dailycoffeenews.com/wp-content/uploads/2026/11/coffee-beans-620x414.jpg)
-
-Two of the world’s largest coffee companies, Keurig Dr Pepper and Luckin Coffee, reported quarterly financial results today, Nov. 3, revealing strong overall growth alongside noticeable challenges in key parts...
-
-## [Copycat Coopers Hawk Red Wine–Braised Short Ribs](https://www.tasteofhome.com/recipes/copycat-coopers-hawk-red-wine-braised-short-ribs/)
-
-via Taste of Home · 2026-11-03, updated 2026-11-12
-
-This copycat Cooper's Hawk red wine-braised short ribs recipe delivers fall-apart-tender short ribs bathed in a luxurious sauce. It's like dining out in your kitchen.
-
-## [Podium Coffee Club Launches The Podium Index, The First Leaderboard To Rank America’s Coffee Roasters By Competition Results Alone](https://sprudge.com/podium-coffee-club-launches-the-podium-index-the-first-leaderboard-to-rank-americas-coffee-roasters-by-competition-results-alone-1527933.html)
-
-via The Sprudge · 2026-11-03, updated 2026-11-06
-
-**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Podium Index aggregates blind-judged results from five major coffee competitions into a single, continuously updated ranking.**
-
-## [Made In Just Dropped the Sweetest Bakeware Set—And It’s Perfect for Holiday Gifting](https://www.tasteofhome.com/article/made-in-bakers-gift-set/)
-
-via Taste of Home · 2026-11-03, updated 2026-11-12
-
-In search of the perfect gift for your favorite baker? The Made In bakeware set has arrived just in time for the holidays.
-
-The post [Made In Just Dropped the Sweetest Bakeware Set—And It’s Perfect for Holiday Gifting](https://www.tasteofhome.com/article/made-in-bakers-gift-set/) appeared first on [Taste of Home](https://www.tasteofhome.com).
-
-## [Skirt Steak Tacos](https://www.isabeleats.com/skirt-steak-tacos/)
-
-via Isebel Eats · 2026-11-03, updated 2026-11-16
-
-[![Skirt steak tacos with a smoky red salsa, cilantro, and diced onions on a corn tortilla.](https://www.isabeleats.com/wp-content/uploads/2026/11/skirt-steak-tacos-small-8-400x600.jpg)](https://www.isabeleats.com/skirt-steak-tacos/)
-
- Skirt steak tacos made with a quick citrus and garlic marinade and a smoky red salsa. Grill the steak or…
-
-## [Design Details: The Performance of Pastry and Coffee at Moden Café in Athens](https://dailycoffeenews.com/2026/11/03/design-details-the-performance-of-pastry-and-coffee-at-moden-cafe-in-athens/)
-
-via Daily Coffee News · 2026-11-03, updated 2026-11-06
-
-![Moden Cafe Athens Greece 1](https://dailycoffeenews.com/wp-content/uploads/2026/09/Moden-Cafe-Athens-Greece-1-620x465.jpg)
-
-Welcome to Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a...
-
-## [Diedrich Caps Roaster Line Transition with New DR-140](https://dailycoffeenews.com/2026/11/03/diedrich-caps-roaster-line-transition-with-new-dr-140/)
-
-via Daily Coffee News · 2026-11-03, updated 2026-11-06
-
-![Diedrich DR-140 12](https://dailycoffeenews.com/wp-content/uploads/2026/10/Diedrich-DR-140-12-620x414.png)
-
-Idaho-based coffee roaster manufacturer Diedrich Roasters capped off the new generation of its roasting equipment in October with the launch of the DR-140, designed to handle green coffee batches from...
-
-## [Meet The Pivotte, A Cool New Hybrid Immersion Coffee Brewer](https://sprudge.com/meet-the-pivotte-a-cool-new-hybrid-immersion-coffee-brewer-1530432.html)
-
-via The Sprudge · 2026-11-03, updated 2026-11-06
-
-**This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A flat bottom hybrid immersion brewer is hitting the market.**
-
-## [Bodum Recalls 5.9 Million French Presses. The Fix Is a Plastic Spoon.](https://freshcup.com/bodum-recalls-5-9-million-french-presses-the-fix-is-a-plastic-spoon/)
-
-via The Fresh Cup · 2026-11-03, updated 2026-11-11
-
-If you’ve ever broken a Bodum carafe, you’re in good company. Bodum has received 70 breakage and 48 burn reports, and the recall spans 52 years of sales.
-
-The post [Bodum Recalls 5.9 Million French Presses. The Fix Is a Plastic Spoon.](https://freshcup.com/bodum-recalls-5-9-million-french-presses-the-fix-is-a-plastic-spoon/) appeared first on [Fresh Cup](https://freshcup.com).
-
-## [I Tried the New AirDoctor 1500 Tower—And It’s the Perfect Size for Eliminating Kitchen Odors](https://www.tasteofhome.com/article/airdoctor-1500-tower-review/)
-
-via Taste of Home · 2026-11-03, updated 2026-11-12
-
-Smell ya later, burnt popcorn.
-
-The post [I Tried the New AirDoctor 1500 Tower—And It’s the Perfect Size for Eliminating Kitchen Odors](https://www.tasteofhome.com/article/airdoctor-1500-tower-review/) appeared first on [Taste of Home](https://www.tasteofhome.com).
-
-## [This Olive Oil Discovery Set is a Surprisingly Thoughtful Gift for Foodies](https://www.tasteofhome.com/article/enzo-olive-oil-gift-set/)
-
-via Taste of Home · 2026-11-03, updated 2026-11-10
-
-This highly versatile olive oil gift set includes five distinct flavors meant to spark home cooks' imaginations.
-
-The post [This Olive Oil Discovery Set is a Surprisingly Thoughtful Gift for Foodies](https://www.tasteofhome.com/article/enzo-olive-oil-gift-set/) appeared first on [Taste of Home](https://www.tasteofhome.com).
-
-## [Ditch Your Fleet of Coffeemakers—The Chefman Coffee Station Pro Handles Everything](https://www.tasteofhome.com/article/chefman-coffee-station-pro/)
-
-via Taste of Home · 2026-11-03, updated 2026-11-10
-
-Can't decide between a drip coffee maker, Nespresso, Keurig or an espresso machine? The Chefman Coffee Station Pro does all four—and takes up very little room.
-
-The post [Ditch Your Fleet of Coffeemakers—The Chefman Coffee Station Pro Handles Everything](https://www.tasteofhome.com/article/chefman-coffee-station-pro/) appeared first on [Taste of Home](https://www.tasteofhome.com).
 

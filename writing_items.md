@@ -1,14 +1,22 @@
 ---
 title: "Writing"
 description: "Writing and writing tools."
-pubDate: Sat, 21 Nov 2026 19:58:29 GMT
+pubDate: Tue, 24 Nov 2026 16:15:31 GMT
 aggregateOf: "writing.md"
-dateModified: Tue, 24 Nov 2026 06:47:35 GMT
+dateModified: Wed, 25 Nov 2026 14:49:09 GMT
 itemCount: 7
 generator: antenna/0.2.0
 ---
 
 # Writing
+
+## [Nuclear Storytelling with Outrider Foundation](https://johnaugust.com/2026/nuclear-storytelling-with-outrider-foundation)
+
+via John August blog · 2026-11-24, updated 2026-11-25
+
+John is joined by national security strategist Laura Holgate and writer-director Nicholas Meyer (The Day After) for a candid discussion about nuclear disasters as depicted on screen. In a world where geopolitical tensions are very much a reality, how can we tell effective and honest stories about nuclear weapons? This episode was recorded live at \[…\]
+
+The post [Nuclear Storytelling with Outrider Foundation](https://johnaugust.com/2026/nuclear-storytelling-with-outrider-foundation) first appeared on [John August](https://johnaugust.com).
 
 ## [Hide games with a game filter](https://ifdb.org/news?item=170)
 
@@ -30,7 +38,7 @@ Recently, we filed an amicus brief in In re OpenAI Copyright Infringement Litiga
 
 ## [Envy (And Other Deadly Sins)](https://johnaugust.com/2026/envy-and-other-deadly-sins)
 
-via John August blog · 2026-11-17
+via John August blog · 2026-11-17, updated 2026-11-25
 
 John and Craig confront the Seven Deadly Sins, particularly envy. How does envy work both as a driver of character action and a reality that writers face in their careers? We also answer some listener questions about unpaid labor, adapting material from a tweet or instagram post, and equating writing to time at the gym. \[…\]
 
@@ -44,17 +52,9 @@ No decision has a stronger claim to being this year’s worst copyright decision
 
 ## [The Lost Art of the Bit Part](https://johnaugust.com/2026/the-lost-art-of-the-bit-part)
 
-via John August blog · 2026-11-10, updated 2026-11-17
+via John August blog · 2026-11-10, updated 2026-11-25
 
 Whatever happened to bit parts — the roles in which a character shows up only for one memorable scene? John and Craig discuss why these roles seem to have vanished, particularly in live action, and make a case for bringing them back. They also cover listener questions, such as when to name your minor character, \[…\]
 
 The post [The Lost Art of the Bit Part](https://johnaugust.com/2026/the-lost-art-of-the-bit-part) first appeared on [John August](https://johnaugust.com).
-
-## [What It’s About? Moving Beyond Loglines](https://johnaugust.com/2026/what-its-about-moving-beyond-loglines)
-
-via John August blog · 2026-11-03, updated 2026-11-17
-
-How do you answer the question, “What is your project about?” Recorded live at the Austin Film Festival, John is joined by Scriptnotes all-stars Pamela Ribon and Phil Hay to talk about loglines, framing, and communicating the deeper message behind your project. They also discuss working outside of the traditional studio system, including ways to \[…\]
-
-The post [What It’s About? Moving Beyond Loglines](https://johnaugust.com/2026/what-its-about-moving-beyond-loglines) first appeared on [John August](https://johnaugust.com).
 
