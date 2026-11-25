@@ -1,14 +1,36 @@
 ---
 title: "North America"
 description: "News from across North America."
-pubDate: Wed, 25 Nov 2026 18:02:56 GMT
+pubDate: Wed, 25 Nov 2026 18:31:28 GMT
 aggregateOf: "north_america.md"
-dateModified: Wed, 25 Nov 2026 18:06:53 GMT
-itemCount: 1315
+dateModified: Wed, 25 Nov 2026 18:32:41 GMT
+itemCount: 1318
 generator: antenna/0.2.1
 ---
 
 # North America
+
+## [Hyundai IONIQ 3 spotted on US roads: Is the affordable EV coming to the US? \[update\]](https://electrek.co/2026/11/25/hyundai-ioniq-3-spotted-us-affordable-ev-update/)
+
+via Electrek Feed · 2026-11-25
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Hyundai-IONIQ-3-spotted-US.jpeg?quality=82&strip=all&w=1400)
+
+[Hyundai’s](https://electrek.co/guides/hyundai/) new IONIQ 3 checks all the boxes as an affordable EV: it offers over 300 miles of range, a practical interior, and Hyundai’s new Pleos infotainment system. So, will Hyundai bring it to the US?
+
+ [more…](https://electrek.co/2026/11/25/hyundai-ioniq-3-spotted-us-affordable-ev-update/#more-495794)
+
+## [The future of a cleanup site can shape the cost of cleaning it up](https://federalnewsnetwork.com/facilities-construction/2026/11/the-future-of-a-cleanup-site-can-shape-the-cost-of-cleaning-it-up/)
+
+via Federal News Network · 2026-11-25
+
+"The requirements that we have established or seek to establish now influence how much all of us are going to ultimately pay later," said Nathan Anderson.
+
+## [The Pentagon may have found a cheaper way to see what’s moving through the Arctic](https://federalnewsnetwork.com/defense-main/2026/11/the-pentagon-may-have-found-a-cheaper-way-to-see-whats-moving-through-the-arctic/)
+
+via Federal News Network · 2026-11-25
+
+"The more technologies we have to be aware of what going on... the better we can defend our homelands," said Dr. Carolyn Stwertka.
 
 ## [The Trump Administration Wants to Push More Hazardous Waste Response to States](https://www.washingtonsun.com/energy-environment/trump-epa-hazardous-waste-response-states)
 

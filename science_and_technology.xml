@@ -5,7 +5,7 @@
     <title><![CDATA[STEM]]></title>
     <description><![CDATA[Science and technology news and blogs.]]></description>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>25 Nov 26 10:21 -0800</lastBuildDate>
+    <lastBuildDate>25 Nov 26 10:51 -0800</lastBuildDate>
     <generator>antenna/0.2.1</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -257,6 +257,18 @@ The post [Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter](ht
       <enclosure url="https://image.theregister.com/?imageId=5311858&#38;width=800" length="0" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://www.theregister.com/a/5311710</guid>
       <category>systems</category>
+      <pubDate>Wed, 25 Nov 2026 10:15:00 +0000</pubDate>
+    </item>    <item>
+      <title>The world&#39;s fastest computers have a problem: Keeping the work running</title>
+      <link>https://www.theregister.com/hpc/2026/11/25/the-worlds-fastest-computers-have-a-problem-keeping-the-work-running/5311710</link>
+      <description>
+        <![CDATA[I node what you did last summer: you went down when an HPC project was relying on you]]>
+      </description>
+      <source:markdown>I node what you did last summer: you went down when an HPC project was relying on you</source:markdown>
+      <dc:creator>Abhishek Jadhav</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311858&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311710</guid>
+      <category>hpc</category>
       <pubDate>Wed, 25 Nov 2026 10:15:00 +0000</pubDate>
     </item>    <item>
       <title>Government may apply TV license fee to streaming services to fund the BBC</title>

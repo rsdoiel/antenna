@@ -56,3 +56,9 @@ title: Planet News
 
 - [US Navy Institute](https://news.usni.org/feed)
 - [Navel News](https://www.navalnews.com/feed/)
+
+# Korea
+
+- [Korea Times](https://feed.koreatimes.co.kr/k/allnews.xml)
+- Korea Herald <https://www.koreaherald.com/rss/newsAll>
+- [Yonhap News](https://en.yna.co.kr/channel/index)

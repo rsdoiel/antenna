@@ -15,4 +15,5 @@ _*
 *-journal
 deno.*
 dist/*
+/*.bak-*
 merge-collections.bash

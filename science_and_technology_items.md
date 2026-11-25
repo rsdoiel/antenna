@@ -3,8 +3,8 @@ title: "STEM"
 description: "Science and technology news and blogs."
 pubDate: Wed, 25 Nov 2026 18:02:00 GMT
 aggregateOf: "science_and_technology.md"
-dateModified: Wed, 25 Nov 2026 18:21:22 GMT
-itemCount: 403
+dateModified: Wed, 25 Nov 2026 18:51:19 GMT
+itemCount: 404
 generator: antenna/0.2.1
 ---
 
@@ -133,6 +133,12 @@ via The Register (UK I.T. News) · 2026-11-25
 AutoPay login and vehicle records affected, alongside limited payment information and customer service emails
 
 ## [The world's fastest computers have a problem: Keeping the work running](https://www.theregister.com/systems/2026/11/25/the-worlds-fastest-computers-have-a-problem-keeping-the-work-running/5311710)
+
+via The Register (UK I.T. News) · 2026-11-25
+
+I node what you did last summer: you went down when an HPC project was relying on you
+
+## [The world's fastest computers have a problem: Keeping the work running](https://www.theregister.com/hpc/2026/11/25/the-worlds-fastest-computers-have-a-problem-keeping-the-work-running/5311710)
 
 via The Register (UK I.T. News) · 2026-11-25
 

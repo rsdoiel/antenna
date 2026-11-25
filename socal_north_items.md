@@ -1,14 +1,20 @@
 ---
 title: "SoCal North"
 description: "News and posts related to the greater North Los Angeles and adjacent counties.\n"
-pubDate: Wed, 25 Nov 2026 17:47:50 GMT
+pubDate: Wed, 25 Nov 2026 18:25:21 GMT
 aggregateOf: "socal_north.md"
-dateModified: Wed, 25 Nov 2026 18:06:15 GMT
-itemCount: 331
+dateModified: Wed, 25 Nov 2026 18:32:01 GMT
+itemCount: 332
 generator: antenna/0.2.1
 ---
 
 # SoCal North
+
+## [Holiday shopping scams are here. CA has tips on how to avoid them](https://laist.com/news/criminal-justice/holiday-shopping-scams-are-here-ca-has-tips-on-how-to-avoid-them)
+
+via The LAist · 2026-11-25
+
+If a deal for Black Friday or Cyber Monday sounds too good to be true, it probably is.
 
 ## [Applications Now Being Accepted for Several Santa Clarita Local Appointment Vacancies](https://santaclarita.gov/blog/2026/11/25/applications-now-being-accepted-for-several-santa-clarita-local-appointment-vacancies-3/)
 

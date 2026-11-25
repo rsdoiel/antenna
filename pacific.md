@@ -108,12 +108,6 @@ title: Pacific
 
 - [Japan Times](https://www.japantimes.co.jp/feed/)
 
-# Korea
-
-- [Korea Times](https://feed.koreatimes.co.kr/k/allnews.xml)
-- Korea Herald <https://www.koreaherald.com/rss/newsAll>
-- [Yonhap News](https://en.yna.co.kr/channel/index)
-
 # New Zealand
 
 - [RNZ Pacific News](https://www.rnz.co.nz/rss/pacific.xml)

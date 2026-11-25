@@ -1,14 +1,20 @@
 ---
 title: "Healthy Eats"
 description: "Healthy eats and good eats, with recipes, cooking and food news."
-pubDate: Wed, 25 Nov 2026 17:37:50 GMT
+pubDate: Wed, 25 Nov 2026 18:46:05 GMT
 aggregateOf: "food.md"
-dateModified: Wed, 25 Nov 2026 18:22:43 GMT
-itemCount: 301
+dateModified: Wed, 25 Nov 2026 18:52:33 GMT
+itemCount: 302
 generator: antenna/0.2.1
 ---
 
 # Healthy Eats
+
+## [Peppermint Mocha Pistachio Milk, Olive Wood Steak Knives, and More Things BA Editors Loved in November](https://www.bonappetit.com/story/november-editors-picks-2026)
+
+via Bon Appetet · 2026-11-25
+
+Like a sleek new wine fridge, a countertop water filter, and masala simmer sauce.
 
 ## [Burger King’s Peanuts Holiday Meal Includes Festive Snoopy Toys and Merch](https://www.tasteofhome.com/article/burger-king-peanuts-holiday-menu/)
 

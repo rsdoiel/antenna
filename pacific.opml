@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Pacific</title>
-        <dateCreated>23 Nov 26 20:59 -0800</dateCreated>
+        <dateCreated>25 Nov 26 10:33 -0800</dateCreated>
     </head>
     <body>
         <outline text="CDR Salamander" type="rss" xmlUrl="https://cdrsalamander.substack.com/feed" htmlUrl="https://cdrsalamander.substack.com,https://cdrsalamander.substack.com/feed" description="National security, maritime challenges, naval issues with a flavoring of other things I find interesting. " url="https://cdrsalamander.substack.com/feed"></outline>
@@ -21,7 +21,6 @@
         <outline text="Island Times" type="rss" xmlUrl="https://islandtimes.org/feed/" htmlUrl="https://islandtimes.org/,https://islandtimes.org/feed/" description="Your gateway to Palau News and Current Events" url="https://islandtimes.org/feed/"></outline>
         <outline text="Japan Times" type="rss" category="Newspaper" xmlUrl="https://www.japantimes.co.jp/feed/" htmlUrl="https://www.japantimes.co.jp/,https://www.japantimes.co.jp/feed/" description="News on Japan, Business News, Opinion, Sports, Entertainment and More" url="https://www.japantimes.co.jp/feed/"></outline>
         <outline text="Korea Herald" type="rss" xmlUrl="https://www.koreaherald.com/rss/newsAll" htmlUrl="https://www.koreaherald.com/"></outline>
-        <outline text="Korea Times" type="rss" xmlUrl="https://feed.koreatimes.co.kr/k/allnews.xml" htmlUrl="https://feed.koreatimes.co.kr/k/allnews.xml" description="Whole News"></outline>
         <outline text="KĀKOU: Hawaiʻi’s Town Hall" type="rss" xmlUrl="https://www.pbshawaii.org/programs/kakou-hawaiis-town-hall/feed/" htmlUrl="https://www.pbshawaii.org/programs/kakou-hawaiis-town-hall/,https://www.pbshawaii.org/programs/kakou-hawaiis-town-hall/feed/" description="Home is here." url="https://www.pbshawaii.org/programs/kakou-hawaiis-town-hall/feed/"></outline>
         <outline text="MERIP News, Marine Environment Ressearch Institute of Pohnpei" type="rss" xmlUrl="https://www.meripmicronesia.org/feed/" htmlUrl="https://www.meripmicronesia.org,https://www.meripmicronesia.org/feed/" description="MERIP supports Sustainable Marine Projects in Micronesia" url="https://www.meripmicronesia.org/feed/"></outline>
         <outline text="Marianas Variety" type="atom" xmlUrl="https://www.mvariety.com/search/?nsa=eeditionl=50&amp;t=article&amp;f=atom" htmlUrl="https://www.mvariety.com/search/?nsa=eeditionl=50&amp;t=article&amp;f=atom,https://www.mvariety.com/" url="https://www.mvariety.com/search/?nsa=eeditionl=50&amp;t=article&amp;f=atom"></outline>

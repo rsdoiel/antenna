@@ -3,7 +3,7 @@ title: "Columns"
 description: "Blogs, columns and snapshots from around the web."
 pubDate: Sat, 01 Jun 2030 13:00:00 GMT
 aggregateOf: "columns.md"
-dateModified: Wed, 25 Nov 2026 18:20:25 GMT
+dateModified: Wed, 25 Nov 2026 18:50:20 GMT
 itemCount: 1293
 generator: antenna/0.2.1
 ---
@@ -12502,7 +12502,7 @@ What the big tech companies don't get is that independent developers can come up
 
 ## [Slow inefficient (non-derogatory) guestbook](https://kwon.nyc/notes/slow-inefficient-non-derogatory-guestbook/)
 
-via Rachel Kwon blog · 2026-11-07, updated 2026-11-24
+via Rachel Kwon blog · 2026-11-07, updated 2026-11-25
 
 I made a [guestbook](https://kwon.nyc/guestbook), like we used to have in the old days, except this one has a physical component. It’s pretty inefficient and impractical, and I love it. My soul has been yearning to decouple the  from  and to rediscover the joy of making things that are not really necessary but just fun. And, connected to the internet but with an IRL component. I got an old thermal receipt printer years ago (2019, according to the purchase confirmation email) that I was going to use for an Arduino project with the intention of doing something clever with it, but never did, until I felt a random spark of intrinsic motivation amongst the sea of external demands on my time and attention. Story of my life.
 

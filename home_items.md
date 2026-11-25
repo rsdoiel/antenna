@@ -1,14 +1,22 @@
 ---
 title: "Urban Farm"
 description: "Home, garden and urban farm blogs and news."
-pubDate: Wed, 25 Nov 2026 16:15:04 GMT
+pubDate: Wed, 25 Nov 2026 18:23:43 GMT
 aggregateOf: "home.md"
-dateModified: Wed, 25 Nov 2026 18:22:30 GMT
-itemCount: 393
+dateModified: Wed, 25 Nov 2026 18:52:21 GMT
+itemCount: 394
 generator: antenna/0.2.1
 ---
 
 # Urban Farm
+
+## [Agencies Team Up at Mountain Mandarin Festival to Protect California Agriculture](https://plantingseedsblog.cdfa.ca.gov/index.php/2026/11/25/agencies-team-up-at-mountain-mandarin-festival-to-protect-california-agriculture/)
+
+via Calfifornia Dept. Aggriculture blog · 2026-11-25
+
+Visitors at the 2026 Mountain Mandarin Festival in Roseville had the opportunity to learn about invasive pests and diseases that threaten California’s agriculture, backyard gardens and livestock. Representatives from USDA APHIS, the Placer County Agricultural Commissioner’s Office, and the California … [Continue reading →](https://plantingseedsblog.cdfa.ca.gov/index.php/2026/11/25/agencies-team-up-at-mountain-mandarin-festival-to-protect-california-agriculture/)
+
+The post [Agencies Team Up at Mountain Mandarin Festival to Protect California Agriculture](https://plantingseedsblog.cdfa.ca.gov/index.php/2026/11/25/agencies-team-up-at-mountain-mandarin-festival-to-protect-california-agriculture/) appeared first on [CDFA's Planting Seeds Blog](https://plantingseedsblog.cdfa.ca.gov).
 
 ## [This DIY Coffee Station Can Be Built Using Only Scrap Wood](https://www.familyhandyman.com/project/coffee-station-scrap-build/)
 
@@ -250,7 +258,7 @@ A writer learned how to crochet using The Woobles crochet kits in an effort to s
 
 ## [Host a California-Style Holiday Dinner](https://plantingseedsblog.cdfa.ca.gov/index.php/2026/11/23/host-a-california-style-holiday-dinner/)
 
-via Calfifornia Dept. Aggriculture blog · 2026-11-23
+via Calfifornia Dept. Aggriculture blog · 2026-11-23, updated 2026-11-25
 
 Here in the Golden State, we grow over 400 specialty crops, so there’s always something delicious in season. When you incorporate California Grown produce and products into your holiday celebration, you’re not just choosing the safest, highest-quality ingredients available; you’re … [Continue reading →](https://plantingseedsblog.cdfa.ca.gov/index.php/2026/11/23/host-a-california-style-holiday-dinner/)
 
@@ -744,7 +752,7 @@ It’s no surprise that professional chefs have strong opinions about Thanksgivi
 
 ## [California at COP 31: Advancing Climate-Smart Agriculture Through Partnerships](https://plantingseedsblog.cdfa.ca.gov/index.php/2026/11/20/california-at-cop-31-advancing-climate-smart-agriculture-through-partnerships/)
 
-via Calfifornia Dept. Aggriculture blog · 2026-11-20, updated 2026-11-23
+via Calfifornia Dept. Aggriculture blog · 2026-11-20, updated 2026-11-25
 
 At COP 31 in Antalya, Türkiye, Secretary Ross highlighted California’s leadership in climate-smart agriculture and resilience building efforts while engaging with subnational and national partners from around the world to advance shared climate goals.   Sharing California’s Experience   Secretary Ross participated … [Continue reading →](https://plantingseedsblog.cdfa.ca.gov/index.php/2026/11/20/california-at-cop-31-advancing-climate-smart-agriculture-through-partnerships/)
 
@@ -1214,7 +1222,7 @@ The post [Spork Food Hub Links California Farms to Big Buyers](https://californi
 
 ## [CDFA-funded food hub in Riverside serves Spanish-speaking, small-scale farmers](https://plantingseedsblog.cdfa.ca.gov/index.php/2026/11/18/cdfa-funded-food-hub-in-riverside-serves-spanish-speaking-small-scale-farmers/)
 
-via Calfifornia Dept. Aggriculture blog · 2026-11-18, updated 2026-11-23
+via Calfifornia Dept. Aggriculture blog · 2026-11-18, updated 2026-11-25
 
 Raul & Family Farms recently held a grand opening event for its new food hub, Centro de Agricultura, in Riverside, funded through the CDFA Farm to Community Food Hubs Grant Program and federal funding. Centro de Agricultura features a new … [Continue reading →](https://plantingseedsblog.cdfa.ca.gov/index.php/2026/11/18/cdfa-funded-food-hub-in-riverside-serves-spanish-speaking-small-scale-farmers/)
 
@@ -2598,7 +2606,7 @@ Lifestyle ideas and inspiration for every life stage, from gift guides and gear 
 
 ## [CDFA kicks off annual State Employees Food Drive](https://plantingseedsblog.cdfa.ca.gov/index.php/2026/11/09/cdfa-kicks-off-annual-state-employees-food-drive/)
 
-via Calfifornia Dept. Aggriculture blog · 2026-11-09, updated 2026-11-23
+via Calfifornia Dept. Aggriculture blog · 2026-11-09, updated 2026-11-25
 
 The California Department of Food and Agriculture (CDFA) announces the State Employees Food Drive will take place November 9, 2026, through January 8, 2027. Every year, CDFA leads the State Employees Food Drive, raising food, funds and awareness regarding hunger … [Continue reading →](https://plantingseedsblog.cdfa.ca.gov/index.php/2026/11/09/cdfa-kicks-off-annual-state-employees-food-drive/)
 

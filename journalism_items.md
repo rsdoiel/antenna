@@ -1,14 +1,21 @@
 ---
 title: "Student Paper"
 description: "Student journalism and the fourth estate."
-pubDate: Wed, 25 Nov 2026 17:41:05 GMT
+pubDate: Wed, 25 Nov 2026 18:40:28 GMT
 aggregateOf: "journalism.md"
-dateModified: Wed, 25 Nov 2026 18:24:24 GMT
-itemCount: 492
+dateModified: Wed, 25 Nov 2026 18:54:09 GMT
+itemCount: 493
 generator: antenna/0.2.1
 ---
 
 # Student Paper
+
+## [Harmful or helpful? Here’s what UCLA professors have to say about generative AI](https://dailybruin.com/2026/11/25/harmful-or-helpful-heres-what-ucla-professors-have-to-say-about-generative-ai/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25
+
+Seventy-three percent of UCLA’s class of 2025 used generative AI in their academics, according to the university’s senior survey.
+The widespread proliferation of generative AI – which began after ChatGPT’s late 2022 launch – has forced universities to rethink their classroom and academic honesty policies.
 
 ## [Annual Beat ‘SC rally boosts Bruins’ spirits leading up to rivalry football game](https://dailybruin.com/2026/11/25/annual-beat-sc-rally-boosts-bruins-spirits-leading-up-to-rivalry-football-game/)
 
