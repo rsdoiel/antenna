@@ -3,8 +3,8 @@ title: "Columns"
 description: "Blogs, columns and snapshots from around the web."
 pubDate: Sat, 01 Jun 2030 13:00:00 GMT
 aggregateOf: "columns.md"
-dateModified: Wed, 25 Nov 2026 14:44:34 GMT
-itemCount: 1267
+dateModified: Wed, 25 Nov 2026 16:30:04 GMT
+itemCount: 1285
 generator: antenna/0.2.0
 ---
 
@@ -24,11 +24,119 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
 
+## [TheyDream: terapia familiar a través del cine animado](https://www.palomitademaiz.net/resenas-theydream/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-theydream)
+
+via Iván Paredes Reséndiz blog, Mexico's cinema · 2026-11-25, updated 2026-11-24
+
+Dirección: William Caballero. Guion: William D. Caballero, Erin Ploss-Campoamor, Elaine Del Valle, Brad Jones. Elenco: Migdalia Caballero, Guillermo Caballero, Isolina Aponte, Victor Muriel, William Caballero, Vic Rico. País: Estados Unidos. Más información de la película: https://www.imdb.com/title/tt39150095/ Algunos amortiguan su dolor a través del alcohol, las drogas o cualquier otra sustancia escapista; otros lo canalizan mediante \[…\]
+
+La entrada [TheyDream: terapia familiar a través del cine animado](https://www.palomitademaiz.net/resenas-theydream/) se publicó primero en [Palomita de maíz](https://www.palomitademaiz.net).
+
+## [Silicon and Beauty](https://thebrowser.com/free/silicon-and-beauty/)
+
+via The Browser · 2026-11-25
+
+Writing of lasting value
+
+## [The Big Splat](https://paulkrugman.substack.com/p/the-big-splat)
+
+via Paul Krugman · 2026-11-25
+
+Surprise! Elite impunity isn’t even good for the stock market
+
+## [The Daily Dean Newsletter - Wednesday, November 25, 2026: Trump = Benedict Arnold On Steroids, The CIA Got Hacked, The AI Bubble That Eats America Is Coming](https://deanblundell.substack.com/p/the-daily-dean-newsletter-wednesday-150)
+
+via Dean Blundell Substack · 2026-11-25
+
+Nvidia’s sellout · America’s spies got hacked · Blanche and Patel’s clown show NVIDIA presser · The AI bubble with no bailout
+
+## [Happy Thanksgiving America - Trump’s Response To Rising Inflation, A Terrible Election? More Tariffs, Even Higher Prices](https://www.hopiumchronicles.com/p/happy-thanksgiving-america-trumps)
+
+via Hopium Chronicles blog · 2026-11-25
+
+Dems should commit today to make their very first bills in the House and Senate ones that roll back Trump’s Imperial tariffs, immediately lowering prices for the American people
+
+## [Don’t be a Turkey This Thanksgiving](https://guykawasaki.substack.com/p/dont-be-a-turkey-this-thanksgiving)
+
+via Guy Kawasaki blog · 2026-11-25
+
+People say relationships matter, then schedule them around everything else.
+
+---
+
+via Pleiades STOA at hcommons.socal · 2026-11-25
+
+The Pleiades QA Dashboard has been updated at 2026-11-25 14:52 UTC: [https://atlantides.org/qa-dashboard/](https://atlantides.org/qa-dashboard/)
+
+[Continue reading](https://hcommons.social/@pleiades_gazetteer/117677669455495014)
+
+## [BREAKING: $15 Billion For Don Jr.’s Robot Factory - The Biggest Grift Of The Trump Era Is Happening Right Now](https://deanblundell.substack.com/p/breaking-15-billion-for-don-jrs-robot)
+
+via Dean Blundell Substack · 2026-11-25
+
+Six weeks before Democrats take Congress, the Trump family is backing a truck up to the Pentagon loading dock.
+
+---
+
+via Pleiades STOA at hcommons.socal · 2026-11-25
+
+Export Updates 2026-11-25:
+
+Pleiades gazetteer of ancient places
+
+28 updated places. 3 updated linked data sidebars.
+
+1\. Downloads: [https://pleiades.stoa.org/downloads](https://pleiades.stoa.org/downloads)
+
+2\. pleiades.datasets: [https://github.com/isawnyu/pleiades.datasets](https://github.com/isawnyu/pleiades.datasets):
+
+"main" branch:
+
+ad509ee4 - updated json
+
+no change: rdf/ttl
+
+70fcfdfb - updated gis package
+
+034f65fb - updated data quality
+
+eeb5c745 - updated bibliography
+
+dc1ad06b - updated indexes
+
+4d6830b0 - updated sidebar
+
+3\. pleiades-geojson: [https://github.com/ryanfb/pleiades-geojson](https://github.com/ryanfb/pleiades-geojson):
+
+8be73abc - updated geojson and names index
+
+4\. pleiades\_wikidata: [https://github.com/isawnyu/pleiades\_wikidata/](https://github.com/isawnyu/pleiades_wikidata/):
+
+dcf484ad - updated pleiades wikidata
+
+[Continue reading](https://hcommons.social/@pleiades_gazetteer/117677633308821981)
+
 ---
 
 via Dave Winer's Scripting News · 2026-11-25
 
-BTW, one of the reasons blogs were so important in the early years was that they gave people a way to announce their developments and interests about the web itself. "Watching them watch us watch them watching us, etc." That was a frequent motto here. And it worked. Note that Joseph used his blog to announce his feature. Spread the world, you will probably want to have a blog to work this way.
+In July we shipped a product called [RSS.chat](https://this.how/rsschat/). You can try it [here](https://demo.rss.chat/). It's a chat system that has highly developed support for outbound RSS. It's the obvious choice to bootstrap a chat-like web interface for the Markdown web. The two were designed to work with each other. If you want to set up your own RSS.chat server, for whatever reason, the [instructions](https://github.com/scripting/rss.chat/blob/main/server/docs/install.md) are available and have been tested.
+
+[Continue reading](http://scripting.com/2026/11/25.html#a144754)
+
+---
+
+via Dave Winer's Scripting News · 2026-11-25
+
+When I heard about Anthropic's new ability to distribute apps you write in Claude to other users. They are full featured desktop apps, much the way BonBon is. They come with identity and storage, but not the kind of storage we would need to provide a dead-simple Markdown editor for someone to quickly start publishing on the [Markdown web](https://github.com/scripting/markdownWeb). I tried explaining what we need, to [Felix Rieseberg](https://x.com/felixrieseberg/status/2125341947179290938), the Anthropic rep on Twitter, in the form of an [open letter](https://imgs.scripting.com/2026/11/25/openLetterToAnthropicFromClaude.png) from my Claude agent, who I had walked through on the idea. Their ability to share is between two people who are logged onto Claude. We need it to be possible for any document to have an address that can be accessed over the web, ie to be published. For now we're going to have to pursue different approaches, but the Anthropic approach was tantalizing.
+
+[Continue reading](http://scripting.com/2026/11/25.html#a142737)
+
+---
+
+via Dave Winer's Scripting News · 2026-11-25
+
+BTW, one of the reasons blogs were so important in the early years was that they gave people a way to announce their developments and interests about the web itself. "Watching them watch us watch them watching us, etc." That was a frequent motto here. And it worked. Note that Joseph used his blog to announce his feature. Spread the word, you will probably want to have a blog to work this way.
 
 [Continue reading](http://scripting.com/2026/11/25.html#a142535)
 
@@ -36,7 +144,7 @@ BTW, one of the reasons blogs were so important in the early years was that they
 
 via Dave Winer's Scripting News · 2026-11-25
 
-[Yesterday](http://scripting.com/2026/11/24.html#a184559) we published docs for how to add [stylesheets](https://github.com/scripting/bonBon/blob/main/docs/stylesheets.md) and custom [page handlers](https://github.com/scripting/bonBon/blob/main/docs/handlers.md) in BonBon. This morning, Joseph Fieber [published a stylesheet](https://josephfieber.com/blog/2026/11/25/a-dark-theme-for-bonbon) that makes BonBon work better in dark mode. This is a sign of of things working. The goal is to boot up a self-sufficient community of writers and developers who help each other build the kind of network they want. The web, in its first years, before it was taken over by big companies, used to work this way. We're determined to see it work that way again.
+[Yesterday](http://scripting.com/2026/11/24.html#a184559) we published docs for how to add [stylesheets](https://github.com/scripting/bonBon/blob/main/docs/stylesheets.md) and custom [page handlers](https://github.com/scripting/bonBon/blob/main/docs/handlers.md) in BonBon. This morning, Joseph Fieber [published a stylesheet](https://josephfieber.com/blog/2026/11/25/a-dark-theme-for-bonbon) that makes BonBon work better in dark mode. This is a sign of things working. The goal is to boot up a self-sufficient community of writers and developers who help each other build the kind of network they want. The web, in its first years, before it was taken over by big companies, used to work this way. We're determined to see it work that way again.
 
 [Continue reading](http://scripting.com/2026/11/25.html#a141441)
 
@@ -56,7 +164,7 @@ Nvidia funds its own customers. SpaceX borrows to buy Nvidia. It's 2008 with roc
 
 via Cory Doctorow · 2026-11-25
 
-Today's links New York vs auto-enshittification: A blueprint for states to fix Congress's mistake. Hey look at this: Delights to delectate. Object permanence: Homebrew DRM; HTML v regexp; Tesla-financial complex; Spain v Wall St landlords; "Cooking in Maximum Security." Upcoming appearances: Virtual, Oxford, Santa Barbara, Montreal, Sheffield. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. New York vs auto-enshittification (permalink) As of February 27, 2027, it will be illegal for companies in New York to charge car-owners a subscription fee or an upcharge for any software feature that runs on hardware already installed in their car. It's a bold – if imperfect – disenshittification gambit aimed at the extremely (and increasingly) enshittified automotive industry: https://wgna.com/car-bill-extra-fees/ In a state of nature, there'd be no reason to pass a law like this. Say BMW decided to sell you a car that charged you a monthly subscription for the "feature" that auto-dipped your high-beams when there was an oncoming car (a thing BMW actually does): https://www.autoevolution.com/news/netizens-up-in-arms-over-bmw-adaptive-headlight-subscription-237335.html In a state of nature, BMW's sleazy scam would conjure forth competitors who would offer mechanics and drivers a one-click way to unlock the feature forever. Drivers would curse BMW and pay a one-time fee to get permanent access to the feature, and that would be the end of the matter. Indeed, the fact that this third-party fix could exist at all might well convince BMW not to bother with the high-beam scam in the first place (and if it didn't, well, then tinkerers, hackers, and entrepreneurs would swiftly obviate it). But we don't live in a state of nature. We live in a world with a federal "anticircumvention" law: Section 1201 of the Digital Millennium Copyright Act (DMCA 1201), which imposes a 5-year sentence and a $500k fine for this kind of reverse engineering, even if it does not result in a copyright infringement. There's no copyright law that says you can't change the software in your car to activate your high-beams' automatic controller, but that doesn't matter, because activating the controller without BMW's permission requires a reverse-engineering step and that's a felony. Jay Freeman rightly calls this "felony contempt of business model" because it lets companies send you to literal prison for doing otherwise legal things, just because it makes them unhappy. What's more, copyright is a firmly federal matter: copyright law "pre-empts" the states, meaning that states can't pass laws that modify federal copyright policy. That means that states can't override DMCA 1201 by legalizing reverse-engineering for otherwise lawful purposes (such as independent repair, performing software upgrades, or allowing generic consumables and parts). Anticircumvention is an attractive nuisance: it invites manufacturers to dream up as many scams as they can think of and then bury them in their products, secure in the knowledge that it is a literal felony to thwart their commercial plans. It's especially bad for cars, where anticircumvention is used: to block third-party parts and independent repair; to prevent drivers from preventing manufacturers, lenders and dealerships from spying on their driving habits, car informatics, and locations; to enable lenders (and hackers who break into dealerships' computers) to immobilize your car without any notice, appeal or due process: https://pluralistic.net/2023/07/24/rent-to-pwn/#kitt-is-a-demon The New York State bill (S.9348A/A.10411A) partially addresses some of these unfair and deceptive practices: https://www.nysenate.gov/legislation/bills/2025/S9348/amendment/A Before I get into what this law does (and doesn't) do, I want to get into how it does anything at all. Remember: anticircumvention was shoehorned into copyright law, and copyright is a federal matter. Copyright enjoys pre-emption, a ban on states' modifying it. At first blush, it seems like the states shouldn't be able to do anything about the enshittification that anticircumvention law enables. But the Right to Repair movement came up with a clever hack around pre-emption. States can't override federal copyright law, but state legislatures can regulate goods and services that are sold within their states. That means that states can simply ban the sale of goods that use anticircumvention to rip off or spy on the people who live within state limits. This is the basis for several successful Right to Repair laws, starting in 2022 with Colorado's powered wheelchair repair law (HB22-1031, cosponsored by the very excellent Brianna Titone): https://pluralistic.net/2022/06/08/chair-ish/#r2r This law does not purport to limit which copyrights the private-equity-backed powered wheelchair duopoly can exercise. It just orders anyone selling powered wheelchairs in Colorado to take steps to enable independent repair such that these copyright issues (including anticircumvention) never arise. This became the template for a slew of state repair bills, including Oregon's electronics repair law, which was later copy/pasted into Washington state law: https://pirg.org/oregon/updates/governor-kotek-signs-the-right-to-repair-act-into-law/ A very similar law was passed in New York state, only to be gutted by Governor Kathy Hochul: https://www.techdirt.com/2024/02/07/nys-right-to-repair-law-was-neutered-by-lobbyists-and-governor-hochul-after-passage-now-some-lawmakers-are-trying-to-fix-it/ Hochul will shortly get a chance to redeem herself, when A8405, a law that re-inserts all the provisions she stripped out of the original repair law, comes to her desk: https://www.nysenate.gov/legislation/bills/2025/A8405 Perhaps Hochul will sign that law. After all, her press release about the new automotive bill sure makes it sound like she's anti-enshittification: My message to car companies is clear: this kind of deceptive business model isn’t going to fly in New York State. Keep your hands out of New Yorkers’ wallets. https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription But the specifics of this new NY automotive bill matter, and they're a decidedly mixed bag. Let's start with the penalty for noncompliance: a dealer, automotive manufacturer or lender who violates the new law faces a whopping $250 fine per violation. That means that if your dealer charges you $1,000 for a software upgrade and you later realize you've been ripped off, they'll only pay a penalty of $250. In this case, a dealer who manages to fleece one driver for every three who know their rights and can figure out how to enforce them will still come out ahead – and that's only if you can get the dealer to refund your $1000, which might involve going to small claims court. Then there's the carve-outs: this law does not cover subscription fees and software upsells for "navigation system updates, infotainment features, satellite radio, in-vehicle wi-fi, telematics services, roadside assistance, software-dependent driver assistance or driver automation features, or vehicle-connected services that rely on cellular or other data networks for continued operation." This is a huge loophole. Take that last clause, "services that rely on cellular or other data networks for continued operation." This clause allows manufacturers to bypass the entire statute, merely by redesigning their subscription and software upsells to "rely on cellular or other data networks for continued operation." For example, the BMW feature that automatically dips your high-beams could "require" a daily check for new versions and then the company can claim that the feature relies "on cellular or other data networks for continued operation." Sure, a judge might eventually find that "continued operation" doesn't mean a daily check for software updates, but only after the state AG or a class action lawyer forces the question, which could take years. Also: don't hold your breath waiting for the class action lawyer, because the car manufacturers can also make you click through a binding arbitration waiver when you first turn on your car and thus take away your right to join a class action: https://pluralistic.net/2025/10/27/shit-shack/#binding-arbitration Beyond this, there's the breadth of vague phrases like "driver automation features" (is automatically dipping your high-beams a "driver automation feature?" I could sure see a lawyer making that argument). Likewise "telematics" (a buzzword that might mean anything, nothing or everything). On the other hand, there are some interesting ambiguities in this bill that I quite like. For example: if you live in New Jersey, but you happen to be in New York on the day Tesla bills you for subscribing to your whole battery (some Tesla models only let you use half your battery's charge unless you pay a monthly fee). Does that mean Tesla violated the law by charging a fee for a subscription feature for a car that is in the state of New York? That would be a fun one to see! Like I said, this is only a partial fix for auto-enshittification. It won't stop your car from spying on you and ratting you out to your insurer: https://pluralistic.net/2024/03/12/market-failure/#car-wars It won't help you if the manufacturer goes bust and bricks your car: https://pluralistic.net/2024/10/10/software-based-car/#based It won't help you if Tesla hacks your odometer to sell a lie about the range you can expect from your charge: https://pluralistic.net/2023/07/28/edison-not-tesla/#demon-haunted-world This law would have had much more effect if it was better-drafted; on the other hand, maybe if it was drafted to capture a more meaningful slice of enshittificatory gambits, Hochul would have gutted it the way she did with the state's 2022 electronics repair bill. Above all, though, we must remember: the only reason this bill exists at all is that Congress created DMCA 1201, the "felony contempt of business-model" law that lets companies conjure new crimes out of thin air and send you to prison for making their shareholders sad. It's fantastic that the Repair Coalition came up with a loophole that lets states protect the American public from some of the worst effects of anticircumvention law, and it's cool that this tactic is being used to fight other kinds of enshittification. But none of this should be necessary at all, and the real fix is for Congress to repeal Section 1201 of the Digital Millennium Copyright Act. Hey look at this (permalink) The Influentials 2026 https://torontolife.com/deep-dives/the-50-most-influential-torontonians-of-2026/ Spotted on the D.C. Metro: Trump Staffer Accidentally Reveals Plan for Smithsonian Overhaul https://www.propublica.org/article/dc-metro-smithsonian-american-history-plan Toward a political revolution at the United Nations https://thomaspiketty.wordpress.com/2026/11/24/toward-a-political-revolution-at-the-united-nations/ Mater Catalogue https://materusa.com/pages/catalogues The ‘Slop Tank’ Pipeline: How The British Press Keeps Regurgitating This Lie About Foreign Workers https://bylinetimes.com/2026/11/25/the-slop-tank-pipeline-how-the-british-press-keeps-regurgitating-this-lie-about-foreign-workers/ Object permanence (permalink) #20yrsago Copyright Office creates 6 DMCA exemptions https://web.archive.org/web/20061125140940/http://www.eff.org/deeplinks/archives/005021.php #20yrsago PSP homebrewers develop DRM https://web.archive.org/web/20061211005619/https://pspupdates.qj.net/Protect-your-homebrew-applications-with-DAS/pg/49/aid/73867 #15yrsago Why you shouldn’t parse HTML with regexp stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454 #15yrsago European Court of Justice: spying with national copyright censorwalls is illegal https://torrentfreak.com/european-court-isps-cant-spy-on-pirating-customers-111124/ #15yrsago Canadian indigenous band declares state of emergency due to horrific conditions, government takes no notice https://www.huffpost.com/archive/ca/entry/what-if-they-declared-an-emergency-and-no-one-came\_b\_1104370#undefined #10yrsago Russian social media erupts as Putin apparat tries to suppress video of booing crowd https://www.bbc.co.uk/news/world-europe-15869047 #10yrsago Conservative Alberta politician changes sides over Trumpism, gets gendered death threats and slurs from the Tory base https://calgaryherald.com/news/politics/braid-jansen-stuns-legislature-by-reading-out-explicit-anti-female-slurs #5yrsago The Tesla-financial complex https://pluralistic.net/2021/11/24/no-puedo-pagar-no-pagara/#Rat #5yrsago Spaniards fight Wall Street landlords https://pluralistic.net/2021/11/24/no-puedo-pagar-no-pagara/#fuckin-aardvarks #1yrago Cooking in Maximum Security https://pluralistic.net/2025/11/24/moca-moka/#culinary-apollo-13 Upcoming appearances (permalink) Sheffield: Reverse Centaur at Juno Books, Nov 25 https://www.outsavvy.com/event/40274/cory-doctorow-in-conversation Virtual: Enshittification, AI, and the Future of Technology (UBC Master of Educational Technology), Nov 28 https://met.ubc.ca/2026/09/met-speaker-series-cory-doctorow-enshittification-ai-and-the-future-of-technology/ Oxford: Bennett Oxford Symposium on Open Code in Science, Dec 9 https://www.bennett.ox.ac.uk/events/2026-bennett-institute-symposium/ Santa Barbara: UCSB Reads, Apr 29 https://www.library.ucsb.edu/events-exhibitions/ucsb-reads-2027-presents-author-cory-doctorow Montreal: World Science Fiction Convention, Sep 2-6 https://montreal2027.ca/en Recent appearances (permalink) Beyond the robot apocalypse – who really wins in a world of AI? (ABC Conversations) https://www.abc.net.au/listen/programs/conversations/cory-doctorow-artificial-intelligence/107388236 How AI is Breaking the Internet (and Everything Else) (Blood in the Machine) https://www.youtube.com/watch?v=mXRaPjFRyT0 Clint Eastwood (No Gods No Mayors) https://www.patreon.com/NoGodsNoMayors/posts/clint-eastwood-173008088 Life After AI (Brain Bar) https://www.youtube.com/watch?v=IPPa43-n0vI Terms of Service with Clare Duffy (CNN) https://www.cnn.com/audio/podcasts/terms-of-service-with-clare-duffy/episodes/458ce968-af5d-11f0-b539-13ed2afe25f8 Latest books (permalink) "The Reverse-Centaur's Guide to AI," a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/ "Canny Valley": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce "Enshittification: Why Everything Suddenly Got Worse and What to Do About It," Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ "Picks and Shovels": a sequel to "Red Team Blues," about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). "The Bezzle": a sequel to "Red Team Blues," about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). "The Lost Cause:" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). "The Internet Con": A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). "Red Team Blues": "A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before." Tor Books http://redteamblues.com. "Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) "The Post-American Internet," a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 "Unauthorized Bread": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 "Enshittification, Why Everything Suddenly Got Worse and What to Do About It" (the graphic novel), Firstsecond, 2027 "The Memex Method," Farrar, Straus, Giroux, 2027 Colophon (permalink) Today's top sources: Currently writing: “Once Is Enemy Action,” a science fiction novel about the origins of modern technofascism. Today's words: 502 (39670 total). "The Post-American Internet," a sequel to "Enshittification," about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor. A Little Brother short story about DIY insulin PLANNING This work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic "When life gives you SARS, you make sarsaparilla" -Joey "Accordion Guy" DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies ("BOGUS AGREEMENTS") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X
+Today's links New York vs auto-enshittification: A blueprint for states to fix Congress's mistake. Hey look at this: Delights to delectate. Object permanence: Homebrew DRM; HTML v regexp; Tesla-financial complex; Spain v Wall St landlords; "Cooking in Maximum Security." Upcoming appearances: Virtual, Oxford, Santa Barbara, Montreal, Sheffield. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. New York vs auto-enshittification (permalink) As of February 27, 2027, it will be illegal for companies in New York to charge car-owners a subscription fee or an upcharge for any software feature that runs on hardware already installed in their car. It's a bold – if imperfect – disenshittification gambit aimed at the extremely (and increasingly) enshittified automotive industry: https://wgna.com/car-bill-extra-fees/ In a state of nature, there'd be no reason to pass a law like this. Say BMW decided to sell you a car that charged you a monthly subscription for the "feature" that auto-dipped your high-beams when there was an oncoming car (a thing BMW actually does): https://www.autoevolution.com/news/netizens-up-in-arms-over-bmw-adaptive-headlight-subscription-237335.html In a state of nature, BMW's sleazy scam would conjure forth competitors who would offer mechanics and drivers a one-click way to unlock the feature forever. Drivers would curse BMW and pay a one-time fee to get permanent access to the feature, and that would be the end of the matter. Indeed, the fact that this third-party fix could exist at all might well convince BMW not to bother with the high-beam scam in the first place (and if it didn't, well, then tinkerers, hackers, and entrepreneurs would swiftly obviate it). But we don't live in a state of nature. We live in a world with a federal "anticircumvention" law: Section 1201 of the Digital Millennium Copyright Act (DMCA 1201), which imposes a 5-year sentence and a $500k fine for this kind of reverse engineering, even if it does not result in a copyright infringement. There's no copyright law that says you can't change the software in your car to activate your high-beams' automatic controller, but that doesn't matter, because activating the controller without BMW's permission requires a reverse-engineering step and that's a felony. Jay Freeman rightly calls this "felony contempt of business model" because it lets companies send you to literal prison for doing otherwise legal things, just because it makes them unhappy. What's more, copyright is a firmly federal matter: copyright law "pre-empts" the states, meaning that states can't pass laws that modify federal copyright policy. That means that states can't override DMCA 1201 by legalizing reverse-engineering for otherwise lawful purposes (such as independent repair, performing software upgrades, or allowing generic consumables and parts). Anticircumvention is an attractive nuisance: it invites manufacturers to dream up as many scams as they can think of and then bury them in their products, secure in the knowledge that it is a literal felony to thwart their commercial plans. It's especially bad for cars, where anticircumvention is used: to block third-party parts and independent repair; to prevent drivers from preventing manufacturers, lenders and dealerships from spying on their driving habits, car informatics, and locations; to enable lenders (and hackers who break into dealerships' computers) to immobilize your car without any notice, appeal or due process: https://pluralistic.net/2023/07/24/rent-to-pwn/#kitt-is-a-demon The New York State bill (S.9348A/A.10411A) partially addresses some of these unfair and deceptive practices: https://www.nysenate.gov/legislation/bills/2025/S9348/amendment/A Before I get into what this law does (and doesn't) do, I want to get into how it does anything at all. Remember: anticircumvention was shoehorned into copyright law, and copyright is a federal matter. Copyright enjoys pre-emption, a ban on states' modifying it. At first blush, it seems like the states shouldn't be able to do anything about the enshittification that anticircumvention law enables. But the Right to Repair movement came up with a clever hack around pre-emption. States can't override federal copyright law, but state legislatures can regulate goods and services that are sold within their states. That means that states can simply ban the sale of goods that use anticircumvention to rip off or spy on the people who live within state limits. This is the basis for several successful Right to Repair laws, starting in 2022 with Colorado's powered wheelchair repair law (HB22-1031, cosponsored by the very excellent Brianna Titone): https://pluralistic.net/2022/06/08/chair-ish/#r2r This law does not purport to limit which copyrights the private-equity-backed powered wheelchair duopoly can exercise. It just orders anyone selling powered wheelchairs in Colorado to take steps to enable independent repair such that these copyright issues (including anticircumvention) never arise. This became the template for a slew of state repair bills, including Oregon's electronics repair law, which was later copy/pasted into Washington state law: https://pirg.org/oregon/updates/governor-kotek-signs-the-right-to-repair-act-into-law/ A very similar law was passed in New York state, only to be gutted by Governor Kathy Hochul: https://www.techdirt.com/2024/02/07/nys-right-to-repair-law-was-neutered-by-lobbyists-and-governor-hochul-after-passage-now-some-lawmakers-are-trying-to-fix-it/ Hochul will shortly get a chance to redeem herself, when A8405, a law that re-inserts all the provisions she stripped out of the original repair law, comes to her desk: https://www.nysenate.gov/legislation/bills/2025/A8405 Perhaps Hochul will sign that law. After all, her press release about the new automotive bill sure makes it sound like she's anti-enshittification: My message to car companies is clear: this kind of deceptive business model isn’t going to fly in New York State. Keep your hands out of New Yorkers’ wallets. https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription But the specifics of this new NY automotive bill matter, and they're a decidedly mixed bag. Let's start with the penalty for noncompliance: a dealer, automotive manufacturer or lender who violates the new law faces a whopping $250 fine per violation. That means that if your dealer charges you $1,000 for a software upgrade and you later realize you've been ripped off, they'll only pay a penalty of $250. In this case, a dealer who manages to fleece one driver for every three who know their rights and can figure out how to enforce them will still come out ahead – and that's only if you can get the dealer to refund your $1000, which might involve going to small claims court. Then there's the carve-outs: this law does not cover subscription fees and software upsells for "navigation system updates, infotainment features, satellite radio, in-vehicle wi-fi, telematics services, roadside assistance, software-dependent driver assistance or driver automation features, or vehicle-connected services that rely on cellular or other data networks for continued operation." This is a huge loophole. Take that last clause, "services that rely on cellular or other data networks for continued operation." This clause allows manufacturers to bypass the entire statute, merely by redesigning their subscription and software upsells to "rely on cellular or other data networks for continued operation." For example, the BMW feature that automatically dips your high-beams could "require" a daily check for new versions and then the company can claim that the feature relies "on cellular or other data networks for continued operation." Sure, a judge might eventually find that "continued operation" doesn't mean a daily check for software updates, but only after the state AG or a class action lawyer forces the question, which could take years. Also: don't hold your breath waiting for the class action lawyer, because the car manufacturers can also make you click through a binding arbitration waiver when you first turn on your car and thus take away your right to join a class action: https://pluralistic.net/2025/10/27/shit-shack/#binding-arbitration Beyond this, there's the breadth of vague phrases like "driver automation features" (is automatically dipping your high-beams a "driver automation feature?" I could sure see a lawyer making that argument). Likewise "telematics" (a buzzword that might mean anything, nothing or everything). On the other hand, there are some interesting ambiguities in this bill that I quite like. For example: if you live in New Jersey, but you happen to be in New York on the day Tesla bills you for subscribing to your whole battery (some Tesla models only let you use half your battery's charge unless you pay a monthly fee). Does that mean Tesla violated the law by charging a fee for a subscription feature for a car that is in the state of New York? That would be a fun one to see! Like I said, this is only a partial fix for auto-enshittification. It won't stop your car from spying on you and ratting you out to your insurer: https://pluralistic.net/2024/03/12/market-failure/#car-wars It won't help you if the manufacturer goes bust and bricks your car: https://pluralistic.net/2024/10/10/software-based-car/#based It won't help you if Tesla hacks your odometer to sell a lie about the range you can expect from your charge: https://pluralistic.net/2023/07/28/edison-not-tesla/#demon-haunted-world This law would have had much more effect if it was better-drafted; on the other hand, maybe if it was drafted to capture a more meaningful slice of enshittificatory gambits, Hochul would have gutted it the way she did with the state's 2022 electronics repair bill. Above all, though, we must remember: the only reason this bill exists at all is that Congress created DMCA 1201, the "felony contempt of business-model" law that lets companies conjure new crimes out of thin air and send you to prison for making their shareholders sad. It's fantastic that the Repair Coalition came up with a loophole that lets states protect the American public from some of the worst effects of anticircumvention law, and it's cool that this tactic is being used to fight other kinds of enshittification. But none of this should be necessary at all, and the real fix is for Congress to repeal Section 1201 of the Digital Millennium Copyright Act. Hey look at this (permalink) The Influentials 2026 https://torontolife.com/deep-dives/the-50-most-influential-torontonians-of-2026/ Spotted on the D.C. Metro: Trump Staffer Accidentally Reveals Plan for Smithsonian Overhaul https://www.propublica.org/article/dc-metro-smithsonian-american-history-plan Toward a political revolution at the United Nations https://thomaspiketty.wordpress.com/2026/11/24/toward-a-political-revolution-at-the-united-nations/ Mater Catalogue https://materusa.com/pages/catalogues The ‘Slop Tank’ Pipeline: How The British Press Keeps Regurgitating This Lie About Foreign Workers https://bylinetimes.com/2026/11/25/the-slop-tank-pipeline-how-the-british-press-keeps-regurgitating-this-lie-about-foreign-workers/ Object permanence (permalink) #20yrsago Copyright Office creates 6 DMCA exemptions https://web.archive.org/web/20061125140940/http://www.eff.org/deeplinks/archives/005021.php #20yrsago PSP homebrewers develop DRM https://web.archive.org/web/20061211005619/https://pspupdates.qj.net/Protect-your-homebrew-applications-with-DAS/pg/49/aid/73867 #15yrsago Why you shouldn’t parse HTML with regexp stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454 #15yrsago European Court of Justice: spying with national copyright censorwalls is illegal https://torrentfreak.com/european-court-isps-cant-spy-on-pirating-customers-111124/ #15yrsago Canadian indigenous band declares state of emergency due to horrific conditions, government takes no notice https://www.huffpost.com/archive/ca/entry/what-if-they-declared-an-emergency-and-no-one-came\_b\_1104370#undefined #10yrsago Russian social media erupts as Putin apparat tries to suppress video of booing crowd https://www.bbc.co.uk/news/world-europe-15869047 #10yrsago Conservative Alberta politician changes sides over Trumpism, gets gendered death threats and slurs from the Tory base https://calgaryherald.com/news/politics/braid-jansen-stuns-legislature-by-reading-out-explicit-anti-female-slurs #5yrsago The Tesla-financial complex https://pluralistic.net/2021/11/24/no-puedo-pagar-no-pagara/#Rat #5yrsago Spaniards fight Wall Street landlords https://pluralistic.net/2021/11/24/no-puedo-pagar-no-pagara/#fuckin-aardvarks #1yrago Cooking in Maximum Security https://pluralistic.net/2025/11/24/moca-moka/#culinary-apollo-13 Upcoming appearances (permalink) Sheffield: Reverse Centaur at Juno Books, Nov 25 https://www.outsavvy.com/event/40274/cory-doctorow-in-conversation Virtual: Enshittification, AI, and the Future of Technology (UBC Master of Educational Technology), Nov 28 https://met.ubc.ca/2026/09/met-speaker-series-cory-doctorow-enshittification-ai-and-the-future-of-technology/ Oxford: Bennett Oxford Symposium on Open Code in Science, Dec 8 https://www.bennett.ox.ac.uk/events/2026-bennett-institute-symposium/ Santa Barbara: UCSB Reads, Apr 29 https://www.library.ucsb.edu/events-exhibitions/ucsb-reads-2027-presents-author-cory-doctorow Montreal: World Science Fiction Convention, Sep 2-6 https://montreal2027.ca/en Recent appearances (permalink) Beyond the robot apocalypse – who really wins in a world of AI? (ABC Conversations) https://www.abc.net.au/listen/programs/conversations/cory-doctorow-artificial-intelligence/107388236 How AI is Breaking the Internet (and Everything Else) (Blood in the Machine) https://www.youtube.com/watch?v=mXRaPjFRyT0 Clint Eastwood (No Gods No Mayors) https://www.patreon.com/NoGodsNoMayors/posts/clint-eastwood-173008088 Life After AI (Brain Bar) https://www.youtube.com/watch?v=IPPa43-n0vI Terms of Service with Clare Duffy (CNN) https://www.cnn.com/audio/podcasts/terms-of-service-with-clare-duffy/episodes/458ce968-af5d-11f0-b539-13ed2afe25f8 Latest books (permalink) "The Reverse-Centaur's Guide to AI," a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/ "Canny Valley": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce "Enshittification: Why Everything Suddenly Got Worse and What to Do About It," Farrar, Straus, Giroux, October 7 2025 https://us.macmillan.com/books/9780374619329/enshittification/ "Picks and Shovels": a sequel to "Red Team Blues," about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 (https://us.macmillan.com/books/9781250865908/picksandshovels). "The Bezzle": a sequel to "Red Team Blues," about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (thebezzle.org). "The Lost Cause:" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). "The Internet Con": A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245). "Red Team Blues": "A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before." Tor Books http://redteamblues.com. "Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com Upcoming books (permalink) "The Post-American Internet," a geopolitical sequel of sorts to Enshittification, Farrar, Straus and Giroux, 2027 "Unauthorized Bread": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027 "Enshittification, Why Everything Suddenly Got Worse and What to Do About It" (the graphic novel), Firstsecond, 2027 "The Memex Method," Farrar, Straus, Giroux, 2027 Colophon (permalink) Today's top sources: Currently writing: “Once Is Enemy Action,” a science fiction novel about the origins of modern technofascism. Today's words: 502 (39670 total). "The Post-American Internet," a sequel to "Enshittification," about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor. A Little Brother short story about DIY insulin PLANNING This work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net. https://creativecommons.org/licenses/by/4.0/ Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution. How to get Pluralistic: Blog (no ads, tracking, or data-collection): Pluralistic.net Newsletter (no ads, tracking, or data-collection): https://pluralistic.net/plura-list Mastodon (no ads, tracking, or data-collection): https://mamot.fr/@pluralistic Bluesky (no ads, possible tracking and data-collection): https://bsky.app/profile/doctorow.pluralistic.net Medium (no ads, paywalled): https://doctorow.medium.com/ Tumblr (mass-scale, unrestricted, third-party surveillance and advertising): https://mostlysignssomeportents.tumblr.com/tagged/pluralistic "When life gives you SARS, you make sarsaparilla" -Joey "Accordion Guy" DeVilla READ CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies ("BOGUS AGREEMENTS") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer. ISSN: 3066-764X
 
 ---
 
@@ -204,6 +312,12 @@ via The Document Foundation Blog · 2026-11-25
 
 The Document Foundation is the independent, non-profit organisation that coordinates the LibreOffice project and community. Every year, it produces an Annual Report describing its finances and activities. We published many sections on this blog earlier in the year: Financials and Budget LibreOffice Downloads and Donations in 2025 LibreOffice releases, features,
 
+## [Dragoncatcher: Intellectual telescopes](https://www.robinsloan.com/lab/intellectual-telescopes/)
+
+via Robin Sloan Blog · 2026-11-25
+
+More analogies. [Read here.](https://www.robinsloan.com/lab/intellectual-telescopes/)
+
 ## [Politics Chat, November 24, 2026](https://heathercoxrichardson.substack.com/p/politics-chat-november-24-2026-856)
 
 via Heather Cox Richardson blog · 2026-11-25
@@ -290,19 +404,19 @@ The collaboration between two foreign operatives was remarkably transparent.
 
 ## [Anatomy of Apple’s Personal Knowledge Graph](https://mjtsai.com/blog/2026/11/24/anatomy-of-apples-personal-knowledge-graph/)
 
-via Michael Tsai · 2026-11-24
+via Michael Tsai · 2026-11-24, updated 2026-11-25
 
 Dario Pasquini and Michał Bazyli (Hacker News): Every Mac since macOS 13 ships a pair of daemons whose only purpose in life is to build a graph about who you are, whom you know, how those people are related to you and to each other, how you communicate with them, where you go, what you \[…\]
 
 ## [Exclave Exploitation and the Camera Indicator Lights](https://mjtsai.com/blog/2026/11/24/exclave-exploitation-and-the-camera-indicator-lights/)
 
-via Michael Tsai · 2026-11-24
+via Michael Tsai · 2026-11-24, updated 2026-11-25
 
 Stefan Esser (tweet): It started with a single bug in one Exclave service that gave us a foothold on older devices. From there, an AI agent, working in GLxRunner, our hypervisor research environment, kept finding more bugs, until we had code execution on the newest devices as well. We will show how these bugs were \[…\]
 
 ## [Secure Exclaves and Ambient Sensing](https://mjtsai.com/blog/2026/11/24/secure-exclaves-and-ambient-sensing/)
 
-via Michael Tsai · 2026-11-24
+via Michael Tsai · 2026-11-24, updated 2026-11-25
 
 Apple (MacRumors): We recently introduced HomeView, which can recognize up to six people to deliver a rich and personalized experience. This capability relies on ambient sensing: using the microphone and camera to understand the surrounding environment and recognize an enrolled user’s voice and face. We have always believed features like this must be designed from \[…\]
 
@@ -338,7 +452,7 @@ La entrada [Otilia Portillo Padua y las hijas del bosque: el antídoto contra la
 
 ## [Desktop Add-ons Spotlight: Identity Chooser Helps You Send From the Right Address](https://blog.thunderbird.net/2026/11/desktop-add-ons-spotlight-identity-chooser-helps-you-send-from-the-right-address/)
 
-via Thunderbird Pro blog · 2026-11-24
+via Thunderbird Pro blog · 2026-11-24, updated 2026-11-25
 
 This spotlight was created as a collaboration between the Thunderbird Team and the Thunderbird Council. Our new series is focused on something many Thunderbird users can’t do without: add-ons. Customizing your set up is a great way to boost your productivity and make managing your inboxes more manageable. So starting with this article, we’re going \[…\]
 
@@ -496,7 +610,7 @@ Hegseth went after Canadian readiness while Nvidia chips turned up in Chinese mi
 
 ---
 
-via Pleiades STOA at hcommons.socal · 2026-11-24
+via Pleiades STOA at hcommons.socal · 2026-11-24, updated 2026-11-25
 
 Pleiades QA Dashboard updated 2026-11-24 14:45 UTC : [https://atlantides.org/qa-dashboard/](https://atlantides.org/qa-dashboard/)
 
@@ -504,7 +618,7 @@ Pleiades QA Dashboard updated 2026-11-24 14:45 UTC : [https://atlantides.org/qa-
 
 ---
 
-via Pleiades STOA at hcommons.socal · 2026-11-24
+via Pleiades STOA at hcommons.socal · 2026-11-24, updated 2026-11-25
 
 Export Updates 2026-11-24:
 
@@ -644,6 +758,32 @@ caused a global shift in how we think about work and wealth. Find more episodes 
 
 History on YouTube, Apple, Spotify or wherever you get podcasts.
 
+## [New Chatham House Programme Director for Global Economy and Finance appointed](https://www.chathamhouse.org/2026/11/new-chatham-house-programme-director-global-economy-and-finance-appointed)
+
+via Chatham House News Releases · 2026-11-24
+
+New Chatham House Programme Director for Global Economy and Finance appointed News releaseeoboko.drupal24 November 2026
+
+David Lubin will begin his role in January 2027.
+
+![A man stares directly at the camera. He's seated and wears a light blue shirt. Behind him is a bookshelf, packed with books](https://www.chathamhouse.org/sites/default/files/styles/chat_social_twitter_1200_600/public/2026-11/2026-11-24-David-Lubin_0.jpg?itok=XfAzYFrA)
+
+David Lubin has been announced as the new Programme Director of the Global Economy and Finance programme at Chatham House.
+
+David will begin in his role on 4 January 2027.
+
+David joined Chatham House in 2024 as the Michael Klein Senior Research Fellow. He has decades of experience following emerging and developing economies’ interaction with international financial markets.
+
+Before joining Chatham House, David was managing director and head of emerging markets at Citi, where he was responsible for 30 economists across 15 locations globally. Prior to joining Citi, David spent many years as an economist at HSBC.
+
+David is the author of _Dance of the Trillions: Developing Countries and Global Finance_ (2018), which traces an arc from the 1970s when developing countries first gained access to international markets. It was selected by the _Financial Times_ as one of the best economics books of 2018.
+
+Director and CEO of Chatham House Bronwen Maddox said: ‘At a time of considerable uncertainty and change in the global economy, the work of the Global Economy and Finance programme remains central to every part of Chatham House’s strategy.
+
+‘David always brings a fresh and intellectually rigorous approach to the big questions on the global economy and will be building on the excellent record by outgoing programme director, Creon Butler.
+
+‘I am looking forward to working with David in his new role and to seeing the programme continue to develop under his leadership.’
+
 ## [Trump’s crony capitalism now threatens America.](https://robertreich.substack.com/p/trumps-crony-capitalism-threatens)
 
 via Robert Reich's blog · 2026-11-24, updated 2026-11-25
@@ -778,13 +918,13 @@ La entrada [La diplomática (temporada 4): los límites de coquetear con el pode
 
 ## [NVIDIA Board Reinstates Jensen Huang](https://mjtsai.com/blog/2026/11/23/nvidia-board-reinstates-jensen-huang/)
 
-via Michael Tsai · 2026-11-23, updated 2026-11-24
+via Michael Tsai · 2026-11-23, updated 2026-11-25
 
 NVIDIA (tweet, Hacker News, MacRumors, Techmeme): The Board of Directors voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which the Board was satisfied with respect to Mr. Huang’s candor and ability to lead NVIDIA. In the process of reaching its decision, the Board received input from \[…\]
 
 ## [Microsoft Retires “To Do” App](https://mjtsai.com/blog/2026/11/23/microsoft-retires-to-do-app/)
 
-via Michael Tsai · 2026-11-23, updated 2026-11-24
+via Michael Tsai · 2026-11-23, updated 2026-11-25
 
 Todd Bishop (MacRumors): Microsoft acquired the popular Wunderlist app in 2015, shut it down in 2020 and told its loyal users that Microsoft To Do would be their new home. Now it’s asking them to switch again. Microsoft plans to retire the To Do apps on June 30, 2027, moving personal task management for work \[…\]
 
@@ -1122,7 +1262,7 @@ Briefed twice. Warned nobody. Owns up to $62 million of the stock. Now he's hand
 
 ---
 
-via Pleiades STOA at hcommons.socal · 2026-11-23, updated 2026-11-24
+via Pleiades STOA at hcommons.socal · 2026-11-23, updated 2026-11-25
 
 Last Week in the [#PleiadesGazetteer](https://hcommons.social/tags/PleiadesGazetteer) (16-23 November 2026): over the course of the past week, the Pleiades editorial college published10 new and 396 updated place resources, reflecting the work of Jeffrey Becker, Anika Campbell, Damian Noah Dimitrov, Tom Elliott, Sebastian Heath, Brady Kiesling, Eleftheria Konstantinidou, Darcy Krasne, Chris de Lisle, Gabriel Mckee, Amari Pavati and Eric Poehler.
 
@@ -1165,7 +1305,7 @@ Tue 115pm ET Live - The great Anderson Clayton joins us to recap another extraor
 
 ---
 
-via Pleiades STOA at hcommons.socal · 2026-11-23, updated 2026-11-24
+via Pleiades STOA at hcommons.socal · 2026-11-23, updated 2026-11-25
 
 Pleiades Quality Assurance Dashboard has been updated: [https://atlantides.org/qa-dashboard/](https://atlantides.org/qa-dashboard/)
 
@@ -1173,7 +1313,7 @@ Pleiades Quality Assurance Dashboard has been updated: [https://atlantides.org/q
 
 ---
 
-via Pleiades STOA at hcommons.socal · 2026-11-23, updated 2026-11-24
+via Pleiades STOA at hcommons.socal · 2026-11-23, updated 2026-11-25
 
 python scripts/summarize.py
 
@@ -2128,11 +2268,36 @@ This piece is a good introduction to the subject:
 
 [Continue reading](https://mastodon.social/@Migueldeicaza/117656329305758151)
 
-## [★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2](https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273)
+## [A Week With the New Privacy Controls in MacOS 27.3 Beta 2](https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273)
 
 via Daring Fireball · 2026-11-21
 
-Apple’s new Full Disk Access and other privacy controls in MacOS 27.3 are good, with the exception of the ever-present menu bar indicator for apps that control other apps.
+On Monday, when the second betas of the v27.3 OSes came out, [I posted about Apple adding the new privacy controls](https://daringfireball.net/linked/2026/11/16/macos-27-full-disk-access) they had [promised a month prior](https://daringfireball.net/2026/10/apple_full_disk_access), in the wake of Meta’s Muse app [surprising some users](https://daringfireball.net/linked/2026/09/22/aten-muse) with what information it had access to (e.g., incoming iMessages) after being granted Full Disk Access — which authorization some users just clicked right through. I also posted a link to Apple’s [corresponding new support documents](https://daringfireball.net/linked/2026/11/16/apple-support-full-disk-access). My initial take on Monday:
+
+> I’m installing it now, but from what I’ve seen so far, these
+> changes not only alleviate my concerns that Apple might
+> over-tighten the screws, I actually think they add clarity and
+> give users _more_, not less, control over their Macs.
+
+After a week, I’m willing to call it: this overhaul of these settings and permissions is a win. I really like the way that, for apps asking for Full Disk Access, users can now grant access to a list of folders instead. That’s what I mean about these new settings giving users _more_ control.
+
+Are these new dialog boxes “scarier”? Yes, and the point is, they should be. You should be slightly jolted into attention when an app prompts for any of these permissions. The question is whether they are unnecessarily scary. I would say no, not at all. The descriptions are fair and accurate. Is it unnecessarily scary to show you thumbnails of your personal photos before permitting Full Disk Access that would grant an application unfettered access to your personal photos? No! It’s a bit of a jolt to see them, but that’s just reducing the abstraction. The words “full disk access” feel different than actually _seeing_ a snapshot of what full disk access entails.
+
+Might this discourage some Mac users from granting Full Disk Access to AI agent apps? Yes. And it should! Users who actually understand the stakes will not be dissuaded by these new permissions — when granting them is what they know they want to do. Additionally, I think these new dialog boxes represent very good UI design. [They look like a new modern take on MacOS “system chrome” design](https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/) — not skinny iPhone-sized alerts.
+
+My only gripe about the new stuff is the prominent menu bar indicator that now appears when one app is controlling another. You can’t turn it off (except via an undocumented hidden `defaults` setting), and it’s distracting on most Macs, and _extra_ distracting on the new MacBook Pros with PROLED displays because on those Macs, it appears in the Dynamic Island! [Chance Miller, on Threads](https://www.threads.com/@chancehmiller/post/Df0aHZQoIVJ) (with screenshots):
+
+> Most of the changes in macOS 27.3 are reasonable, but this Live
+> Activity thing for system access has got to go. It’s way too
+> aggressive.
+>
+> It takes over the Dynamic Island on the new MacBook Pro!
+
+As I write this article on a new MacBook Pro review unit, I have 8 of these indicators in my Dynamic Island: [Scroll Reverser](https://daringfireball.net/linked/2024/06/18/scroll-reverser), [Keyboard Maestro Engine](https://www.keyboardmaestro.com/main/), [HazeOver](https://daringfireball.net/2026/03/hazeover), [SteerMouse Manager](https://daringfireball.net/linked/2024/05/06/hackett-logitech-mouse-driver), [Moom](https://daringfireball.net/linked/2024/10/09/moom-4-app-store), [Chest](https://chest.boringbar.app/) (a promising new utility for managing menu bar icons), [System Events](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/HowMacScriptingWorks.html), and a new text snippet expansion utility I’m beta testing.
+
+Every one of these apps is running all of the time for me. This indicator being on, all the time, for every one of them isn’t helping me notice unusual activity. If anything, if Apple doesn’t rethink this idea, it’s going to make me _miss_ the indication if an app is taking advantage of access permissions in an unwanted or unexpected way.
+
+Zac Hall, Miller’s colleague at 9to5Mac, published an article on Tuesday [showing the command-line `defaults` incantation to disable this](https://9to5mac.com/2026/11/17/how-to-hide-the-new-macos-27-3-menu-bar-indicator/). That’s better than not being able to disable it at all, but I expect Apple to revisit this based on feedback. It seems like a well-intentioned feature that was designed by people who didn’t realize how many always-on utilities “control other apps”.
 
 ## [DEAD AIR LIVE With Steve Schmidt: Elon Is Panicking, Homeland Security Is Babbling and Trump Just Begged Putin and Xi for Immunity](https://deanblundell.substack.com/p/dead-air-live-with-steve-schmidt-e4e)
 
@@ -2585,7 +2750,7 @@ Big news: This month I became a mailman! But I don't get to wear all the cool cl
 
 ## [Black Friday 2026](https://mjtsai.com/blog/2026/11/20/black-friday-2026/)
 
-via Michael Tsai · 2026-11-20, updated 2026-11-24
+via Michael Tsai · 2026-11-20, updated 2026-11-25
 
 Apps: DropDMG: Mac disk images and archives EagleFiler: everything bucket, notes, and e-mail archiver SpamSieve: Mac e-mail spam filtering Path Finder: powerful Mac file manager (code: 25YEARS) Picmal: image/video/audio/PDF converter Cozy: journal that syncs using your cloud storage Beatcast: iPhone heart rate monitor DockMagic: Mac widget Dock Clam Sync: syncs multicam footage by sound and \[…\]
 
@@ -2711,7 +2876,7 @@ Allies mocked him, diplomats shrugged him off and Putin got the photo of his lif
 
 ---
 
-via Pleiades STOA at hcommons.socal · 2026-11-20, updated 2026-11-24
+via Pleiades STOA at hcommons.socal · 2026-11-20, updated 2026-11-25
 
 Export Updates 2026-11-20:
 
@@ -3054,11 +3219,57 @@ I will have to limit myself to 280-grapheme cluster sized lukewarm takes.
 
 [Continue reading](https://mastodon.social/@Migueldeicaza/117645456161505333)
 
-## [★ Jon McCormack Retires From Apple](https://daringfireball.net/2026/11/mccormack_retires_from_apple)
+## [Jon McCormack Retires From Apple](https://daringfireball.net/2026/11/mccormack_retires_from_apple)
 
-via Daring Fireball · 2026-11-19
+via Daring Fireball · 2026-11-19, updated 2026-11-21
 
-McCormack was the perfect guy for an essential job, and he leaves big shoes to fill.
+Mark Gurman, [reporting for Bloomberg today](https://www.bloomberg.com/news/articles/2026-11-19/apple-s-iphone-camera-and-photos-software-chief-jon-mccormack-leaves-company?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTEwOTM1MSwiZXhwIjoxNzk1NzE0MTUxLCJhcnRpY2xlSWQiOiJUT1IzMlJUOU5KTTUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.aeSQbn794aHs3B5ecmfYGppiDoPtcY_FXRHn7Hbe76Y) (gift link):
+
+> Jon McCormack retired at the end of October after more than eight
+> years at the company, according to people with knowledge of the
+> matter. He oversaw the Camera and Photos apps and the underlying
+> technology that determines how users capture, view and edit their
+> pictures and video.
+>
+> Apple hasn’t named a new vice president to take over McCormack’s
+> exact role. Instead, his former deputies are assuming his
+> responsibilities under another executive, said the people, who
+> asked not to be identified while discussing internal moves. An
+> Apple spokesperson declined to comment.
+>
+> His work included the redesigned selfie camera introduced with the
+> iPhone 17 lineup last year.
+
+I’ve met McCormack a few times. He frequently led media briefings for new iPhone camera features. He was always thoughtful, insightful, and fair. Like, sometimes his demonstrations would involve comparisons between photos of the same subjects and scenes captured on iPhones and ones captured with flagship Android phones. The photos were _all_ good. It was never “ _Here are some beautiful images captured on iPhones and some dogshit ones from a Samsung and OnePlus_”. The differences were often subtle. He’d even make the case for why someone might prefer the Android ones. But he could explain why Apple — and he personally — preferred the ones from the iPhone. Not just how the iPhone camera captures and processes images, but why. He also knew when to let the images speak for themselves.
+
+McCormack was deeply informed at a technical level. He reported directly to Craig Federighi and that level of engineering acumen showed. I can’t recall any question being too technical for him to have a ready answer. One of the best iPhone camera innovations in recent years is the redesigned [Center Stage selfie camera](https://support.apple.com/guide/iphone/take-a-selfie-iph1b88429a6/ios) introduced with the iPhone 17 (and Air) lineup last year. The square sensor is hardware, and McCormack was a software VP, but the feature exemplifies the way hardware and software are developed in tandem at Apple. McCormack was [the public face for that feature](https://www.businessworld.in/article/exclusive-jon-mccormack-on-how-apple-reinvented-the-selfie-for-the-iphone-17-575523) — and internally, pushed to make it happen. That square sensor is bigger, which means (a) it’s more expensive; and (b) it takes up more space internally. Both of those require winning hard-fought arguments inside Apple in order to ship. The bottom line is that it helps iPhone users take better photos of themselves — and [according to McCormack himself](https://www.instagram.com/helloapple/reel/Daiat9bNtiF/), over 1 billion selfies are taken with iPhones _every day_. The influence Apple’s Camera team has on the daily lives of _billions_ of people is significant; McCormack understood that.
+
+But what really struck me about McCormack, right from the start, is that he is clearly a serious photographer himself. That’s perhaps understating it. He recently published a book of his own nature and travel photography: _[Patterns: Art of the Natural World](https://jonmccormack.com/book/)_. He [discussed the book in an hour-long interview](https://www.linkedin.com/in/chenpamela/) with his Apple colleague Pamela Chen, whose [job title](https://www.linkedin.com/in/chenpamela/) is one of the coolest I’ve ever heard: Chief Aesthetics Scientist. (Chen, unsurprisingly, is also [a talented photographer](https://www.instagram.com/chenpamela/).)
+
+Gurman:
+
+> His departure comes at a time when Apple is navigating a
+> fundamental shift in photography. Competitors such as Alphabet
+> Inc.’s Google and Samsung Electronics Co. have increasingly
+> embraced generative AI features that allow users to make
+> substantial changes to images. That has blurred the distinction
+> between capturing a real moment and creating an artificial one.
+
+Two years ago [in his iPhone 16 Pro review](https://www.theverge.com/24247538/apple-iphone-16-pro-review), returning to his repeated theme of “What is a photo?”, Nilay Patel quoted, at length, the answer he got from McCormack. I, in turn, [quoted Patel quoting McCormack](https://daringfireball.net/linked/2024/09/23/nilay-patel-iphone-16-pro-review), and added:
+
+> McCormack’s response is genuinely thoughtful, and resonates deeply
+> with my own personal take. But it’s worth noting that Apple is the
+> _conservative_ company when it comes to generative AI and
+> photography — and yet they’re still shipping Clean Up. I’m not
+> complaining about Clean Up’s existence. I’ve already used it
+> personally. I’m just saying that even Apple’s stance involves
+> significant use of generative AI.
+
+This year, Apple added [“extend” and “reframe”](https://support.apple.com/guide/iphone/clean-up-extend-and-reframe-photos-xy0grrlxue5w/ios) alongside Clean Up. I don’t love either of those features simply because I don’t like how they change the meaning of “What is a photo?”, but I don’t _hate_ them either. We can’t put the generative AI genie back in the bottle. Apple, still, is the conservative company in the generative AI phone photography space.
+
+Jon McCormack had a knack for shepherding good new features _into_ the Camera app. But also, based on conversations I’ve had with multiple people who worked with him at Apple, McCormack was _great_ at keeping stupid ideas _out_ of the Camera app. Good new features that ship get more recognition than stupid new features that never ship — but the latter, I would argue, is the rarer and more important management skill. It’s far more important to keep stupid ideas out of any app than it is to add good new features. McCormack was the protector of the Camera app. Under his leadership, it remains focused on the craft and art of photography.
+
+Lastly, everyone I know who worked with him loves the guy. McCormack was the perfect guy for an essential job, and he leaves big shoes to fill.
 
 ## [Seriously? with Guy Kawasaki, Anne P. Mitchell and Mitch Jackson](https://guykawasaki.substack.com/p/seriously-with-guy-kawasaki-anne)
 
@@ -3094,25 +3305,25 @@ Enjoy this latest post-election recap from battleground state party Chairs....
 
 ## [Anthropic IPO](https://mjtsai.com/blog/2026/11/19/anthropic-ipo/)
 
-via Michael Tsai · 2026-11-19, updated 2026-11-24
+via Michael Tsai · 2026-11-19, updated 2026-11-25
 
 Anthropic (Hacker News): The shares are expected to begin trading on the Nasdaq Global Select Market on November 19, 2026 under the symbol “ANT.” The offering is expected to close on November 20, 2026, subject to the satisfaction of customary closing conditions. Reuters (Hacker News): Anthropic notched a valuation of about $2 trillion in its \[…\]
 
 ## [PHP: Mixed-Case URL Schemes Can Expose Data](https://mjtsai.com/blog/2026/11/19/php-mixed-case-url-schemes-can-expose-data/)
 
-via Michael Tsai · 2026-11-19, updated 2026-11-24
+via Michael Tsai · 2026-11-19, updated 2026-11-25
 
 PHP (Mattias Geniar): PHP’s HTTP and FTP stream wrappers can send data without encryption when an HTTPS or FTPS URL has an uppercase S in its scheme, for example HTTPS://, httpS:// or FTPS://. Applications using file\_get\_contents(), fopen() or other stream functions may therefore expose passwords, authentication tokens, request bodies or transferred files to an attacker \[…\]
 
 ## [Lemon Squeezy Shutting Down](https://mjtsai.com/blog/2026/11/19/lemon-squeezy-shutting-down/)
 
-via Michael Tsai · 2026-11-19, updated 2026-11-24
+via Michael Tsai · 2026-11-19, updated 2026-11-25
 
 JR Farr (Hacker News): As of today, we’ve closed new store sign-ups, and Lemon Squeezy will stop processing payments on March 31, 2027. \[…\] When we joined Stripe, we set out to take everything we learned building Lemon Squeezy, and build it directly on Stripe’s infrastructure. That became Managed Payments, Stripe’s merchant of record solution. \[…\]
 
 ## [homeOS 27.2.1](https://mjtsai.com/blog/2026/11/19/homeos-27-2-1/)
 
-via Michael Tsai · 2026-11-19, updated 2026-11-24
+via Michael Tsai · 2026-11-19, updated 2026-11-25
 
 Juli Clover (release notes, no security): Apple today released new 27.2.1 software for the HomeView, marking the first post-release software update for the device. Bugs fixed: Setting up a Shared Album on the Photos face may prevent the device from downloading support for Siri, causing Siri to be unavailablePairing with an iPhone or iPad running \[…\]
 
@@ -3811,21 +4022,50 @@ To read this letter, click here:
 
 ## [EU Trader Status PSA](https://mjtsai.com/blog/2026/11/18/eu-trader-status-psa/)
 
-via Michael Tsai · 2026-11-18, updated 2026-11-24
+via Michael Tsai · 2026-11-18, updated 2026-11-25
 
 Ivan Mir: Do NOT update your “EU trader” info on the App Store. It goes into “In Review” status, and your apps get outright REMOVED from all EU storefronts. According to the forums, the review can easily take up to two months, and support does not help. I screwed myself without knowing. This has also \[…\]
 
 ## [Apple and Other Outages](https://mjtsai.com/blog/2026/11/18/apple-and-other-outages/)
 
-via Michael Tsai · 2026-11-18, updated 2026-11-24
+via Michael Tsai · 2026-11-18, updated 2026-11-25
 
 Juli Clover (Hacker News, John Gruber): Apple has largely resolved outages affecting iCloud accounts, retail stores, and more, the company said in a statement to Bloomberg. Apple said the outages were due to an unspecified “internal update” and were not caused by a cyberattack. The company is working to get remaining systems online “as soon \[…\]
 
-## [★ The 50-Yard Line](https://daringfireball.net/2026/11/the_50-yard_line)
+## [The 50-Yard Line](https://daringfireball.net/2026/11/the_50-yard_line)
 
-via Daring Fireball · 2026-11-18, updated 2026-11-19
+via Daring Fireball · 2026-11-18, updated 2026-11-21
 
-CEOs typically stay as close as they can to the 50-yard line in the middle of the political playing field. That way, when an election puts the other party in power, they don’t have to move — they just need to turn around.
+Ever since the Huang/Nvidia scandal erupted, I’ve been thinking about a short post I wrote back in March, under the headline “ [Jensen Huang Doesn’t Smell Anything](https://daringfireball.net/linked/2026/03/31/jensen-huang)”:
+
+> Nvidia CEO Jensen Huang, during an on-stage interview at The Hill
+> & Valley Forum [last summer](https://www.youtube.com/watch?v=9WkGNe27r_Q), was asked “What do you see as America’s
+> unique advantages that other countries don’t have?”
+>
+> His answer, after taking a moment to think, “America’s unique
+> advantage that no country could possibly have is President Trump.”
+>
+> Huang, newly appointed to the [aforelinked](https://daringfireball.net/linked/2026/03/31/presidents-council-of-advisors-on-science-and-technology) President’s Council
+> of Advisors on Science and Technology, seemingly [doesn’t smell\
+> the growing stink](https://politicalwire.com/2026/03/30/can-trumps-approval-fall-even-further/).
+
+The stink was the historically low (and sinking) popularity to which Trump’s 2.0 presidency had sunk. Undeniable to anyone in touch with reality. Huang’s obsequious Trump-fellating answer to that question would have been eye-catching even when Trump first rolled back into office with an aggressive agenda and a surplus of political capital from a clear election victory — but it was, frankly, a startling thing to say at any point. It makes a lot more sense, though, [given what’s come to light in the last 10 days](https://daringfireball.net/linked/2026/11/18/huang-tweets).
+
+If you’re not paying close attention you might think Huang’s was the sort of answer any major tech CEO might have given. But it’s not. That was a really unusual thing for Huang to say, way out of line with how corporate leaders typically approach politics. The typical approach for large publicly held corporations is to avoid partisan politics. Advocate only for policies directly related to the company’s business, and otherwise stay out. The political winds change direction every few years. George Bush senior in 1988 was the last new president elected from the same party as the outgoing incumbent, and he only lasted one term. It makes no sense for a corporation that intends to continue thriving for more than the next few years to closely align itself with one party — unless they believe that party will remain in power for the foreseeable future, à la the FDR/Truman Democrats, who won five consecutive presidential elections from 1932 to 1948 (and seven out of nine until 1968).
+
+One metaphor I use for politics is a football field. Democrats on the left, Republicans on the right. CEOs typically stay as close as they can to the 50-yard line in the middle of the field. That way, when an election puts the other party in power, they don’t have to move — they just need to turn around. That’s how someone like Tim Cook could maintain good relations with the White House from Obama to Trump to Biden back to Trump again. He just stayed close to midfield and turned around after each election.
+
+Remaining as close as possible to political midfield under Trump required unseemly obsequious tribute, unprecedented in modern U.S. history. [Million-dollar tickets](https://daringfireball.net/linked/2025/01/03/allen-tim-cook-1m-trump-inauguration) to his inauguration. [That ridiculous gold trophy](https://daringfireball.net/2025/08/gold_frankincense_and_silicon). Embarrassing stuff. But that’s ultimately [a reflection of Trump’s avarice](https://daringfireball.net/linked/2025/01/04/consider-cook-as-a-tragic-figure), not the politics of Cook personally or Apple as a company. That was the price to stay on the 50-yard line. Cook has often repeated that his two personal heroes are [Martin Luther King Jr. and Bobby Kennedy](https://www.cultofmac.com/news/klan-mlk-bobby-kennedy-inspired-apple-ceo-tim-cook) (senior, to be clear). He keeps portraits of both of them [in his office](https://www.vanityfair.com/news/tim-cook-apple-vision-pro). He never swapped them out for portraits of, say, Ronald Reagan. Apple never changed its internal policies or language regarding racial and LGBT equality. The Apple homepage never stopped celebrating Martin Luther King Jr. Day — [even when it coincided with Trump’s second inauguration](https://daringfireball.net/linked/2025/01/20/apple-homepage-mlk).
+
+And yet Trump remains so enamored of Cook that he [floated his name](https://daringfireball.net/linked/2026/11/12/trump-weighs-in) to succeed Huang at Nvidia. [Tim Apple](https://www.usatoday.com/story/news/politics/2026/04/21/trump-praises-tim-cook-tim-apple/89717408007/) remains the apple of Trump’s eye. Yet Apple had nothing to change or apologize for when Biden came into office, nor will they again if, as now [seems likely](https://polymarket.com/event/which-party-wins-2028-us-presidential-election), Trump is succeeded in 2029 by a Democrat elected to clean up his kakistocratic kleptomaniacal mess. (Presumably Apple will gladly pony up at least [another $25 million](https://daringfireball.net/linked/2026/10/15/trump-ballroom-donor-list) to restore the East Wing after Trump’s [architecturally ungodly ballroom edifice](https://x.com/HillaryClinton/status/2121291689231032754) is torn down.) And Apple certainly won’t need lawyers to defend them from charges of corruption and/or breaches of national security. Nvidia, not so much.
+
+This is what we should want: business leaders who endeavor to stay out of partisan politics, not hopelessly enmesh themselves in it. Industry and politics cannot operate in isolation, but they should avoid intertwinement except where necessary. Great companies stand the test of time. That’s not feasible if you hitch your corporate wagon to one party or the other, no matter the political moment. We don’t think of Procter & Gamble, Coca-Cola, or Berkshire Hathaway as being Democratic or Republican companies. You cannot chart their fortunes over time based on which party was in power in any given decade. You may well have strong political opinions that are far from the 50-yard line, on one side or the other. I do. But you shouldn’t look for those opinions to be validated by industry executives, any more than you should look for business and product-design decisions to be made by elected government officials. True American values put country over party when it comes to business. And, as Calvin Coolidge aptly put it, “The chief business of the American people is business.”
+
+America does possess unique advantages that other countries don’t have. Personal liberties enshrined in our Bill of Rights. A vibrant, diverse, ever-changing melting pot of a citizenry. A strong tradition of the rule of law, placing no man above it. Competitive markets that allow new entrants to supplant entrenched incumbents. Any CEO worth their salt should have an answer to the question of America’s unique advantages that holds true no matter who, from which party, is currently president. And they should _believe_ it.
+
+What makes Huang’s answer so off-putting isn’t that it was so abjectly partisan — politically tone-deaf to the inevitability of Democrats coming back into power, and perversely obsequious to Trump personally — but that Donald Trump is the antithesis to the entire above list of things that actually give America unique advantages other countries don’t have. Trump and the MAGA movement are also decidedly American and uniquely so, but they represent what’s _worst_ about America.
+
+But I give Huang credit for honesty. Clearly, he believed what he said. Huang didn’t just stray from the 50-yard line — he broke for Trump’s end zone.
 
 ---
 
@@ -4083,7 +4323,7 @@ I wanted to register [markdown.land](https://markdown.land/), but the site that'
 
 ---
 
-via Pleiades STOA at hcommons.socal · 2026-11-18, updated 2026-11-24
+via Pleiades STOA at hcommons.socal · 2026-11-18, updated 2026-11-25
 
 Export Updates 2026-11-18:
 
@@ -4486,7 +4726,7 @@ In the aftermath of the 2026 US general election, there have been many podcast e
 
 ---
 
-via Pleiades STOA at hcommons.socal · 2026-11-18, updated 2026-11-24
+via Pleiades STOA at hcommons.socal · 2026-11-18, updated 2026-11-25
 
 The Pleiades gazetteer now has an experimental data quality dashboard online at [https://atlantides.org/qa-dashboard/](https://atlantides.org/qa-dashboard/)
 
@@ -4588,25 +4828,25 @@ I am not the only one that thinks that Godot anti-AI policies have turned toxic.
 
 ## [Full Disk Access in macOS 27.3](https://mjtsai.com/blog/2026/11/17/full-disk-access-in-macos-27-3/)
 
-via Michael Tsai · 2026-11-17, updated 2026-11-24
+via Michael Tsai · 2026-11-17, updated 2026-11-25
 
 Apple (Hacker News, MacRumors, 9To5Mac, MacStories): In macOS 27.3 beta 2 today, we’re introducing increased transparency and more granular options for two of the APIs: Device Control and Data Access, and Full Disk Access. Before granting an app such extraordinary access, users should understand that it puts all of the data on their Mac at \[…\]
 
 ## [System & App Protection Override](https://mjtsai.com/blog/2026/11/17/system-app-protection-override/)
 
-via Michael Tsai · 2026-11-17, updated 2026-11-24
+via Michael Tsai · 2026-11-17, updated 2026-11-25
 
 Apple (Hacker News, MacRumors, 9To5Mac, MacStories): In macOS 27.3 beta 2 today, we’re introducing increased transparency and more granular options\[…\] \[…\] A split of Device Control and Data Access into two settings: (1) System & App Protection Override, and (2) Accessibility A single method for granting permissions by selecting the requesting app from a list \[…\]
 
 ## [audioOS 27.2.1](https://mjtsai.com/blog/2026/11/17/audioos-27-2-1/)
 
-via Michael Tsai · 2026-11-17, updated 2026-11-24
+via Michael Tsai · 2026-11-17, updated 2026-11-25
 
 Joe Rossignol (release notes): Apple today released HomePod software version 27.2.1, but it does not enable Siri AI on the HomePod mini 2. Apple’s website continues to say the feature is “coming in a future software update,” but it has not provided a timeframe. Due to the HomePod mini 2 having only 2GB of RAM, \[…\]
 
 ## [tvOS 27.2.1](https://mjtsai.com/blog/2026/11/17/tvos-27-2-1/)
 
-via Michael Tsai · 2026-11-17, updated 2026-11-24
+via Michael Tsai · 2026-11-17, updated 2026-11-25
 
 Juli Clover (release notes, security): tvOS 27.2.1 brings Siri AI support to the 2nd- and 3rd-generation Apple TV 4K models, but it is available for all Apple TV 4K models that support tvOS 27. Steven Aquino: Visually, I love the high-contrast, white-on-black design for Siri AI and its results; text is easy to read and \[…\]
 
@@ -4630,7 +4870,7 @@ The more time we’ve had to understand this historic election the more transfor
 
 ## [Thundermail Q4 2026 recap: new features, your feedback, and what’s next](https://blog.thunderbird.net/2026/11/thundermail-q4-2026-recap-new-features-your-feedback-and-whats-next/)
 
-via Thunderbird Pro blog · 2026-11-17, updated 2026-11-24
+via Thunderbird Pro blog · 2026-11-17, updated 2026-11-25
 
 It has been quite a year. When we started welcoming our first Early Birds into Thundermail, we had a waitlist, a vision, and a lot of work ahead of us. Since then, thousands of you have joined, tested, filed ideas, and helped us shape what this service is becoming. The upcoming new year is a \[…\]
 
@@ -4758,7 +4998,7 @@ My [Time Pi](https://github.com/geerlingguy/time-pi) is connected to an outside 
 
 ---
 
-via Pleiades STOA at hcommons.socal · 2026-11-17, updated 2026-11-24
+via Pleiades STOA at hcommons.socal · 2026-11-17, updated 2026-11-25
 
 Export Updates 2026-11-17:
 
@@ -5077,7 +5317,7 @@ New Media is Insider Media by Anu (Working Theorys) “PRESTIGE IS PERCEIVED TAS
 
 ---
 
-via Pleiades STOA at hcommons.socal · 2026-11-17, updated 2026-11-24
+via Pleiades STOA at hcommons.socal · 2026-11-17, updated 2026-11-25
 
 The Pleiades website is back in operation.
 
@@ -5117,7 +5357,7 @@ Julie just oversaw one of the most successful electoral operations in the modern
 
 ---
 
-via Pleiades STOA at hcommons.socal · 2026-11-16, updated 2026-11-24
+via Pleiades STOA at hcommons.socal · 2026-11-16, updated 2026-11-25
 
 The Pleiades website is currently unresponsive. We are investigating.
 
@@ -5173,19 +5413,19 @@ Now that I've gotten used to the Markdown web, I find sites that make it impossi
 
 ## [Microsoft Outage](https://mjtsai.com/blog/2026/11/16/microsoft-outage/)
 
-via Michael Tsai · 2026-11-16, updated 2026-11-24
+via Michael Tsai · 2026-11-16, updated 2026-11-25
 
 Microsoft (Hacker News): We’re investigating reports of users experiencing issues accessing Exchange Online mailboxes through multiple connection methods in the Americas. More details can be found in the Microsoft 365 admin center under EX1550543. Microsoft (via Bob Burrough): We’re opening all available pathways to restore service, as our actions taken thus far have not provided \[…\]
 
 ## [HomeView Reviews](https://mjtsai.com/blog/2026/11/16/homeview-reviews/)
 
-via Michael Tsai · 2026-11-16, updated 2026-11-24
+via Michael Tsai · 2026-11-16, updated 2026-11-25
 
 John Voorhees: Apple HomeView reviews are out and it looks like a winner, especially for people already using other Apple products. Let’s look at what folks are saying. Jason Snell: I’ve wanted a product like the Apple HomeView for years now. After spending a lot of time with various personal assistant “smart speakers” in my \[…\]
 
 ## [Safari on HomeView](https://mjtsai.com/blog/2026/11/16/safari-on-homeview/)
 
-via Michael Tsai · 2026-11-16, updated 2026-11-24
+via Michael Tsai · 2026-11-16, updated 2026-11-25
 
 Jen Simmons: With the new cooking experience, Safari recognizes when users are on a webpage with a recipe, and offers a streamlined view of step-by-step instructions. Safari creates this view from recipe data in the schema.org recipe type in JSON-LD. \[…\] HomeView also provides rich experiences playing audio and video. To ensure great experiences with \[…\]
 
@@ -5219,7 +5459,7 @@ The post [Save Our Rivers by Ending Combined Sewer Overflows](https://www.clf.or
 
 ---
 
-via Pleiades STOA at hcommons.socal · 2026-11-16, updated 2026-11-24
+via Pleiades STOA at hcommons.socal · 2026-11-16, updated 2026-11-25
 
 Last Week in the [#PleiadesGazetteer](https://hcommons.social/tags/PleiadesGazetteer) (9-16 November 2026): over the course of the past week, the Pleiades editorial college published 7 new and 239 updated place resources, reflecting the work of Amari Pavati, Anika Campbell, Brady Kiesling, Chiara Palladino, Chris de Lisle, Damian Noah Dimitrov, Darcy Krasne, Eleftheria Konstantinidou, Eric Poehler, Greta Hawes, Jeffrey Becker, Maria Del Rocio Da Riva Muñoz, R. Scott Smith, Sebastian Heath, Tom Elliott, and Victor Russo.
 
@@ -5410,7 +5650,7 @@ Good night my sweet prince
 
 ---
 
-via Pleiades STOA at hcommons.socal · 2026-11-16, updated 2026-11-24
+via Pleiades STOA at hcommons.socal · 2026-11-16, updated 2026-11-25
 
 Export Updates 2026-11-16:
 
@@ -7204,25 +7444,25 @@ Today's links I told you so: Microsoft is too big to live. Hey look at this: Del
 
 ## [Apple Creator Studio .keyx and AI Features](https://mjtsai.com/blog/2026/11/13/apple-creator-studio-keyx-and-ai-features/)
 
-via Michael Tsai · 2026-11-13, updated 2026-11-24
+via Michael Tsai · 2026-11-13, updated 2026-11-25
 
 Apple (TidBITS, MacRumors): Apple today introduced transformative updates to Apple Creator Studio, the powerful collection of creative apps designed to put studio-grade tools into the hands of modern creators across Mac, iPad, and iPhone. Final Cut Pro for Mac now includes built-in MotionVFX — an expansive collection of visual effects, plug-ins, transitions, templates, and motion \[…\]
 
 ## [DNS Resolution Failures in macOS 26 and 27](https://mjtsai.com/blog/2026/11/13/dns-resolution-failures-in-macos-26-and-27/)
 
-via Michael Tsai · 2026-11-13, updated 2026-11-24
+via Michael Tsai · 2026-11-13, updated 2026-11-25
 
 Wade Tregaskis: Sporadically (once every week or two) on macOS 26, domain name resolution will just abruptly stop working. But, it gets worse. I recently updated to macOS 27.2, and now the problem occurs multiple times an hour. That is, name resolution fails if done through Apple’s libraries – through dig or nslookup it continues \[…\]
 
 ## [ReadKit 4.0](https://mjtsai.com/blog/2026/11/13/readkit-4-0/)
 
-via Michael Tsai · 2026-11-13, updated 2026-11-24
+via Michael Tsai · 2026-11-13, updated 2026-11-25
 
 Balazs Varkonyi: A new iCloud-backed RSS service that syncs feed subscriptions, folders, smart folders, and article read and starred statuses. RSS feeds remain the primary source for articles, so ReadKit does not upload RSS article content to iCloud. Instead, it syncs article read and starred statuses, improving sync speed and reducing network traffic. \[…\] A \[…\]
 
 ## [ReadAll 1.0](https://mjtsai.com/blog/2026/11/13/readall-1-0/)
 
-via Michael Tsai · 2026-11-13, updated 2026-11-24
+via Michael Tsai · 2026-11-13, updated 2026-11-25
 
 Loshadki: ReadAll 1.0 is on the App Store for iPhone, iPad and Mac. It is a feed reader: RSS, Atom and JSON Feed, with your subscriptions, folders and what you’ve read synced through iCloud. It is free, with no ads, no account and no tracking. \[…\] Enter a website’s address and ReadAll finds its feeds. \[…\]
 
@@ -7526,7 +7766,7 @@ I like to think I’ve just hit the point in my life where I don’t want to spe
 
 ---
 
-via Pleiades STOA at hcommons.socal · 2026-11-13, updated 2026-11-24
+via Pleiades STOA at hcommons.socal · 2026-11-13, updated 2026-11-25
 
 Export Updates 2026-11-13:
 
@@ -7993,7 +8233,7 @@ A recording from Guy Kawasaki's live video
 
 ## [Tim Peters, RIP](https://mjtsai.com/blog/2026/11/12/tim-peters-rip/)
 
-via Michael Tsai · 2026-11-12, updated 2026-11-24
+via Michael Tsai · 2026-11-12, updated 2026-11-25
 
 Guido van Rossum (Hacker News): I am immensely sad to announce that Tim Peters has died earlier this year on July 15. It’s hard to overestimate Tim’s influence on Python. He’s probably best known for writing the Zen of Python (PEP 20), but to me he was a mentor and language co-designer long before that. \[…\]
 
@@ -8252,7 +8492,7 @@ MS Senate and NC-3 have been called for Dems \| 2pm ET Today - Iowa Dem Chair Ri
 
 ---
 
-via Pleiades STOA at hcommons.socal · 2026-11-12, updated 2026-11-24
+via Pleiades STOA at hcommons.socal · 2026-11-12, updated 2026-11-25
 
 Export Updates 2026-11-12:
 
@@ -8862,7 +9102,7 @@ Mississippi Free Press: Liveblog of the Mississippi 2026 US Senate race – fasc
 
 ---
 
-via Pleiades STOA at hcommons.socal · 2026-11-11, updated 2026-11-24
+via Pleiades STOA at hcommons.socal · 2026-11-11, updated 2026-11-25
 
 Export Updates 2026-11-11:
 
@@ -8908,19 +9148,19 @@ You’re last week’s single biggest winner
 
 ## [Apple Closing Community Support Forum](https://mjtsai.com/blog/2026/11/11/apple-closing-community-support-forum/)
 
-via Michael Tsai · 2026-11-11, updated 2026-11-24
+via Michael Tsai · 2026-11-11, updated 2026-11-25
 
 Apple (Hacker News): The Apple Support Community will permanently close on November 20, 2026. Starting today, the site will no longer accept new posts and is available in a read-only state. It’s not totally clear, but I take this to mean that they’re deleting all the data on November 20. Joe Rossignol: Apple informed MacRumors \[…\]
 
 ## [Siri AI Open to “All” Developers](https://mjtsai.com/blog/2026/11/11/siri-ai-open-to-all-developers/)
 
-via Michael Tsai · 2026-11-11, updated 2026-11-24
+via Michael Tsai · 2026-11-11, updated 2026-11-25
 
 Apple (MacRumors): Starting today with the iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3 betas, a new Developer Preview enables any developer to integrate their app with Siri AI, giving businesses and developers new ways to reach and serve their customers. \[…\] Today’s preview allows any app to bring its content and actions directly \[…\]
 
 ## [Siri AI Adds Languages](https://mjtsai.com/blog/2026/11/11/siri-ai-adds-languages/)
 
-via Michael Tsai · 2026-11-11, updated 2026-11-24
+via Michael Tsai · 2026-11-11, updated 2026-11-25
 
 Apple: With the 27.2 software updates released today, Siri AI — an entirely new version of Siri that is profoundly more capable, conversational, and personal — is expanding to more people around the world, with availability now in the French, Japanese, Korean, Portuguese, and Spanish languages. \[…\] Language support for Siri AI will continue to \[…\]
 
@@ -9520,37 +9760,37 @@ La entrada [Los días de Poncho (FICM 2026): rimas y versos para madurar](https:
 
 ## [BBEdit 16.1](https://mjtsai.com/blog/2026/11/10/bbedit-16-1/)
 
-via Michael Tsai · 2026-11-10, updated 2026-11-24
+via Michael Tsai · 2026-11-10, updated 2026-11-25
 
 Bare Bones Software: Introducing “Language Playgrounds”, a new interface for creating language modules to add support for languages which are not included from the factory. With this comes a new language module architecture: Declarative Language Modules (DLMs), which supersede the original codeless language modules (CLMs) and provide a much richer language support experience. There are \[…\]
 
 ## [macOS 27.2.1](https://mjtsai.com/blog/2026/11/10/macos-27-2-1/)
 
-via Michael Tsai · 2026-11-10, updated 2026-11-24
+via Michael Tsai · 2026-11-10, updated 2026-11-25
 
 Juli Clover (release notes, security, no enterprise, no developer, full installer, IPSW): macOS Golden Gate includes bug fixes and security updates, according to Apple’s release notes. The update likely includes a fix to prevent command-line tools from accepting eMudhra’s compromised web certificates. See also: Mr. Macintosh. Previously: eMudhra Intermediate CA Compromise macOS 27.2 macOS 27 \[…\]
 
 ## [macOS 26.7.3 and macOS 15.8.3](https://mjtsai.com/blog/2026/11/10/macos-26-7-3-and-macos-15-8-3/)
 
-via Michael Tsai · 2026-11-10, updated 2026-11-24
+via Michael Tsai · 2026-11-10, updated 2026-11-25
 
 macOS 26.7.3 (security, no enterprise, no developer, full installer): This update provides bug fixes and security updates for your Mac. macOS 15.8.3 (security, no enterprise, no developer, full installer): This update provides bug fixes and security updates for your Mac. See also: Howard Oakley. Previously: eMudhra Intermediate CA Compromise macOS 26.7.2 and macOS 15.8.2
 
 ## [iOS 27.2.1 and iPadOS 27.2.1](https://mjtsai.com/blog/2026/11/10/ios-27-2-1-and-ipados-27-2-1/)
 
-via Michael Tsai · 2026-11-10, updated 2026-11-24
+via Michael Tsai · 2026-11-10, updated 2026-11-25
 
 Juli Clover (iOS/iPadOS release notes, security, no iOS/iPadOS enterprise, no developer): iOS 27.2.1 includes addresses bugs and patches security vulnerabilities according to Apple’s release notes for the update. Adam Engst: Apple has published updates to the current versions of iOS, iPadOS, macOS, watchOS, and visionOS, plus several older versions, to address security vulnerabilities focusing on \[…\]
 
 ## [watchOS 27.2.1](https://mjtsai.com/blog/2026/11/10/watchos-27-2-1/)
 
-via Michael Tsai · 2026-11-10, updated 2026-11-24
+via Michael Tsai · 2026-11-10, updated 2026-11-25
 
 Juli Clover (release notes, security, no developer): According to Apple’s release notes, the watchOS update includes security fixes\[…\] Previously: watchOS 27.2
 
 ## [visionOS 27.2.1](https://mjtsai.com/blog/2026/11/10/visionos-27-2-1/)
 
-via Michael Tsai · 2026-11-10, updated 2026-11-24
+via Michael Tsai · 2026-11-10, updated 2026-11-25
 
 Juli Clover (release notes, security, no enterprise, no developer): \[The\] visionOS 27.2.1 update includes security updates and bug fixes. Previously: visionOS 27.2
 
@@ -9562,6 +9802,52 @@ Next frontier in AI? Communicate with eyes. So Claude would know I haven't finis
 
 [Continue reading](http://scripting.com/2026/11/10.html#a163012)
 
+## [Chatham House Prize 2026 awarded to the women of Afghanistan](https://www.chathamhouse.org/2026/11/chatham-house-prize-2026-awarded-women-afghanistan)
+
+via Chatham House News Releases · 2026-11-10
+
+Chatham House Prize 2026 awarded to the women of AfghanistanNews releaseeoboko.drupal10 November 2026
+
+Chatham House recognized the women of Afghanistan for their courage and resilience in the face of systematic gender persecution by the Taliban
+
+![A group of women stand on the Chatham House stage ](https://www.chathamhouse.org/sites/default/files/styles/chat_social_twitter_1200_600/public/2026-11/2026_Nov9_ChathamHousePrizeSpeakers.jpg?itok=dUFmp4ve)
+
+The women of Afghanistan were awarded the Chatham House Prize 2026 at a ceremony on Monday 9 November.
+
+Chatham House recognized the women of Afghanistan for their courage and resilience in the face of systematic gender persecution by the Taliban, and for their determination to defend the rights and futures of women and girls.
+
+Speaking on a panel that brought together women from the Afghan diaspora, Zahra Joya, the founder and Editor-in-Chief of Rukhshana Media, said the prize ‘sends a powerful message that the world will not forget about us. They will listen to us. They will see our strength and power’.
+
+In a conversation with BBC Chief International Correspondent Lyse Doucet, who moderated the panel, former Chatham House Academy Associate Shaharzad Akbar said that for girls denied an education in Afghanistan the Chatham House Prize shows them ‘they are being remembered, that they are not forgotten’. That, she said, ‘gives them courage’.
+
+Dr Orzala Nemat, the founder and director of Development Research Group LTD, highlighted the voices of the women humanitarian aid workers with whom she collaborates, who asked that the audience help to ‘continue to raise our voices for girls’ education, continue to raise our voices for our right to work’.
+
+Fawzia Koofi, former Deputy Speaker of the Parliament of Afghanistan and President of the Board of Women for Afghanistan, said the Taliban practised double standards in prohibiting girls from accessing secondary and higher education. ‘They have modernized themselves for their own daughters, not for our girls. Their own daughters go to school, university, probably the best universities in the world, but our daughters are confined,’ she said.
+
+Assessing the international community’s engagement with Afghanistan, specifically the UK’s halt on issuing study visas to nationals from certain countries including Afghanistan, Dr Benafsha Yaqoobi, founder and director of The Rahyab Initiative, said the ‘world has failed us in fulfilling their responsibility towards Afghanistan’.
+
+![](https://www.chathamhouse.org/sites/default/files/styles/16_9_media_small/public/video_thumbnails/QPw4X5a4bwk.jpg?itok=0ryDr--L)
+
+The Chatham House Prize is awarded to the person, persons, or organization deemed to have made the most significant contribution to the improvement of international relations.
+
+In her opening remarks, Bronwen Maddox, Director and Chief Executive of Chatham House, said of the women of Afghanistan: ‘They have forced governments to ask what recognition of the Taliban would mean and on whose terms. They remind us that how a state treats women is not a domestic matter. It is a measure of whether that state can be trusted at all.’
+
+On behalf of the women of Afghanistan the award was accepted by Elaha Safdari, goalkeeper for the Afghanistan’s women’s national football team.
+
+The Prize was presented to her by Chatham House’s president, The Rt Hon Baroness May of Maidenhead, who praised the women of Afghanistan for continuing to speak out. ‘This award belongs to all of them, to every single one of them. But it is also a reminder, and we have heard this from our panel today, of our collective responsibility. We cannot allow the situation facing Afghan women and girls to fade from the international attention,’ she said.
+
+Elaha, who had to leave Afghanistan for the UK when the Taliban returned to power in 2021, thanked the UK government and the sports organisation Girl Power, for supporting her.
+
+She told the audience: ‘Becoming a refugee was never my dream. Leaving Afghanistan meant leaving behind my home, my friends, my teammates, my family.’  She added that football and the work of Girl Power enabled women to be visible. Elaha highlighted there is much work to be done to advance the rights of women in Afghanistan. ‘There are girls who simply want to go to school, play sport, and decide what their futures will look like,’ she said.
+
+The evening ended with a film that featured contributions from broadcaster Yalda Hakim, the UN’s Susan Ferguson and activist Onaba Payab. The interviews appeared alongside personal reflections from women living in Afghanistan whose words were read out by Dr Orzala Nemat, to ensure their safety.
+
+A women’s activist said: ‘The international community must recognize that support for Afghan women cannot be episodic or symbolic – it requires sustained engagement, listening to local voices, and holding leaders accountable, all parties.’ A teacher and education activist said of young girls in Afghanistan facing extreme obstacles to education: ‘I hope audiences remember not only their courage, but also the urgent need to ensure that every girl has the freedom, safety and opportunity to learn’.
+
+The Chatham House Prize 2026 is supported by Axel Hansing and the International Organization for Migration.
+
+_Watch the_ [_full video of the ceremony here,_](https://www.youtube.com/live/v-CXsJJGyik) _including the the panel of Afghan political and human rights activists in conversation with Lyse Doucet, Elaha Safdari’s acceptance speech on behalf of all Afghan women, Baroness May, Bronwen Maddox, and testimony from women inside Afghanistan read out by an expatriate Afghan journalist in order to preserve their safety._
+
 ## [Strip and Quantum](https://thebrowser.com/free/strip-and-quantum/)
 
 via The Browser · 2026-11-10, updated 2026-11-25
@@ -9570,7 +9856,7 @@ Writing of lasting value
 
 ## [From Research to Prototype: Testing the New Desktop Settings](https://blog.thunderbird.net/2026/11/from-research-to-prototype-testing-the-new-desktop-settings/)
 
-via Thunderbird Pro blog · 2026-11-10, updated 2026-11-24
+via Thunderbird Pro blog · 2026-11-10, updated 2026-11-25
 
 In the last update, the team shared ongoing work around removing technical jargon and adopting plain language so everyone can navigate settings with ease. Those initial content refinements have rolled out into Thunderbird already (v160). Following those copy updates, the team ran research to evaluate how settings information is structured. Below is a breakdown of \[…\]
 
@@ -9638,7 +9924,7 @@ via Miguel de Icaza Mastondon feed · 2026-11-10, updated 2026-11-16
 
 ---
 
-via Pleiades STOA at hcommons.socal · 2026-11-10, updated 2026-11-24
+via Pleiades STOA at hcommons.socal · 2026-11-10, updated 2026-11-25
 
 Export Updates 2026-11-10:
 
@@ -10005,7 +10291,7 @@ Nowadays, people send me pull requests for their problems, which beats wasting m
 
 ---
 
-via Pleiades STOA at hcommons.socal · 2026-11-09, updated 2026-11-24
+via Pleiades STOA at hcommons.socal · 2026-11-09, updated 2026-11-25
 
 New on the blog: MANTO user survey
 
@@ -10057,19 +10343,19 @@ The post [Self-sufficient mobile weather station](https://www.raspberrypi.com/ne
 
 ## [Shorter Convergence Period](https://mjtsai.com/blog/2026/11/09/shorter-convergence-period/)
 
-via Michael Tsai · 2026-11-09, updated 2026-11-24
+via Michael Tsai · 2026-11-09, updated 2026-11-25
 
 Mark Gurman (tweet, 9To5Mac, MacRumors): Behind the scenes, though, Ternus has delivered a different message, knowing full well that Apple remains far behind rivals. In recent weeks, Ternus held a closed-door meeting with Craig Federighi, who became Apple’s AI czar following last year’s dismissal of its former AI leader. Desiring more and frustrated by what \[…\]
 
 ## [Nudification Guidelines and Terminating Developer Accounts](https://mjtsai.com/blog/2026/11/09/nudification-guidelines-and-terminating-developer-accounts/)
 
-via Michael Tsai · 2026-11-09, updated 2026-11-24
+via Michael Tsai · 2026-11-09, updated 2026-11-25
 
 Matt Burgess: A WIRED investigation found the app is part of a network of more than 400 connected domains and apps that, like Viefur, often claim to be everyday services—such as language tuition or AI workout coaches. When accessed under certain conditions, however, apps in the network stealthily load a web interface allowing the generation \[…\]
 
 ## [Developer Accounts Removed](https://mjtsai.com/blog/2026/11/09/developer-accounts-removed/)
 
-via Michael Tsai · 2026-11-09, updated 2026-11-24
+via Michael Tsai · 2026-11-09, updated 2026-11-25
 
 Viktor Seraleev (Hacker News): On August 21, 2023, Apple removed our Reely application during the update review. Along with the removal, we received a notification citing a violation of section 3.2(f) of the Apple Developer Program License Agreement\[…\] \[…\] Again, this reason does not specify which particular application the claim pertains to. What are we \[…\]
 
@@ -12479,19 +12765,19 @@ Experimental iCloud Passwords support, a Feeds sidebar and fixes for feeds, exte
 
 ## [Safari’s Autofill Feature May Be Distorting Time](https://mjtsai.com/blog/2026/11/06/safaris-autofill-feature-may-be-distorting-time/)
 
-via Michael Tsai · 2026-11-06, updated 2026-11-24
+via Michael Tsai · 2026-11-06, updated 2026-11-25
 
 Thomas Claburn: The autofill feature of Apple’s Safari browser appears to be suffering from a date handling error that occasionally leads it to supply an incorrect credit card expiration date when filling out forms. The supposed issue has been a sore spot for Apple customers dating back at least to 2017, when the author of \[…\]
 
 ## [Goodbye, Salon](https://mjtsai.com/blog/2026/11/06/goodbye-salon/)
 
-via Michael Tsai · 2026-11-06, updated 2026-11-24
+via Michael Tsai · 2026-11-06, updated 2026-11-25
 
 Salon (via John Gruber, Hacker News): The business realities of independent digital journalism have changed profoundly over the years. After careful consideration, we have reached the difficult decision that our publishing model is no longer sustainable. We know this news will be deeply disappointing to many of you, and we share that sadness. Thirty-one years \[…\]
 
 ## [Castro Sold Yet Again](https://mjtsai.com/blog/2026/11/06/castro-sold-yet-again/)
 
-via Michael Tsai · 2026-11-06, updated 2026-11-24
+via Michael Tsai · 2026-11-06, updated 2026-11-25
 
 Dustin Bluck: I’ve decided to sell the app to Maple Media. Maple Media is a mobile media and technology company that owns and runs category-leading entertainment, productivity and podcasting apps, including Player FM. Previously: Indie Podcast Apps Not Growing Castro’s Customer Support Lessons Castro Sold Again Castro May Be Dying Castro Sold to Tiny Update \[…\]
 
@@ -12555,11 +12841,160 @@ via LitHub · 2026-11-06
 
 In a bizarre turn of events, on Wednesday November 4th, New York City’s Queens Public Library (QPL) system, which operates 66 branches, experienced an attack on its online networks by a hacker. The entire system is offline, and is being
 
-## [★ Touch and Glow](https://daringfireball.net/2026/11/touch_and_glow)
+## [Touch and Glow](https://daringfireball.net/2026/11/touch_and_glow)
 
-via Daring Fireball · 2026-11-06, updated 2026-11-08
+via Daring Fireball · 2026-11-06, updated 2026-11-21
 
-Apple’s “Pro and Tell” event in Los Angeles, the new MacBook Pros with PROLED XDR displays, and the state of the Macintosh platform.
+I’m not cut out for Los Angeles.
+
+It’s hard not to love the place, though. The weather is absurd. The people in LA, by and large, don’t believe in bad weather. It’s like a legend to them, like hearing about the Irish Potato Famine.
+
+Angelenos are friendly and good looking. The food is good and varied. But you really do need to drive everywhere. Trips from any one part of the city to another invariably require time not just in a car but on a freeway. What is oft-described as LA’s _sprawl_, I would describe as a layout and geographic scale that is more like that of a small, densely populated _nation_ than of a mere _city_. LA’s palpable vastness is incredible, in a wholly different sense than, say, Manhattan’s. I love to visit. I would never want to stay.
+
+The greater San Francisco Bay Area, I don’t feel that way about. The weather there, too, is certainly nicer than back east, but it’s not implausibly nice. San Francisco is a walkable city and can punish you with its weather at certain times of the year. I’m not at all religious but I was raised in a Catholic family, and one way that’s stuck with me is that I innately believe we deserve some stretches of bad weather. That it’s good for us to suffer to some extent, like physical exercise and toiling at our jobs. That’s a stupid thing to believe, I know, but I believe it. We all believe _some_ stupid things.
+
+Los Angeles is an unusual place for Apple to hold a media event. They hold two big annual events on campus at Apple Park in Cupertino each year: WWDC in June, and the iPhone (and friends) event in September. Back in the old days, they held their major keynotes in San Francisco. I liked the old events in San Francisco better, if only because I enjoyed staying a few days in vibrant, gritty San Francisco better than the somnolent, sterile South Bay. But I think the events were more interesting too. Not _better_ per se, but just more interesting. Less polished. More unique. Every inch of the Steve Jobs Theater was designed and crafted to host events like the annual iPhone introductions. It is an [architectural marvel](https://glass.photo/gruber/2GSAjFJVbA7VLnUtjY2TvJ). But its perfection is off-putting. It somehow doesn’t quite feel realistic, even when you’re right there.
+
+In its San Francisco events of yore, Apple experimented. The Macworld Expo and WWDC keynotes in Moscone North had an unavoidable sameness to them. But Apple held other events in other places in the 2010s, like the small [Yerba Buena Theater](https://ybca.org/venues/blue-shield-theater/) across the street from Moscone, and the cavernous [Bill Graham Civic Auditorium](https://billgrahamcivic.com/), which was built in 1915 and looks, feels, and smells like it. The room Apple used for its post-keynote hands-on area at Yerba Buena was always a little claustrophobic and very dark. [This photo I took after the introduction of the original iPad in 2010](https://www.flickr.com/photos/gruber/4309828383/in/photostream/) captures the feel of that room during those events.
+
+A few years later, they [held an event there in October 2013](https://daringfireball.net/2013/10/this_weeks_ipad_event) and solved — or at least improved — the problem by knocking a hole in the wall to allow in some sunlight and fresh air. Here’s a picture from the hands-on area at that event, showing [Tim Cook (Katie Cotton at his side, as ever) chatting with Ed Baig](https://www.flickr.com/photos/gruber/10461598164/in/photostream/) (then at USA Today, still on the beat today [at AARP](https://www.aarp.org/membership/members-edition/tech-guru/)). You can see the open air over Cook’s shoulder.
+
+After that event wound down, I grabbed lunch nearby, and then walked back through the plaza next to the theater. I don’t remember why. Best guess is that it was simply on the path back to my hotel. Apple already had a crew taking apart the entrance they’d added to the theater. Katie Cotton was outside, supervising. I stopped to chat. [This was around 2:20pm](https://www.flickr.com/photos/gruber/10461604065/in/photostream/), a little over four hours after the keynote and probably only 90 minutes after they’d politely escorted the last of us from the hands-on area inside. I didn’t write notes or record the chat, which would have been weird, but as best I recall, the conversation started with my saying something like “Man, you guys don’t waste any time, do you?” Cotton told me that while Apple loved the Yerba Buena venue, they were always bothered by the hands-on area being closed off and dark. I said that yes, it was previously a dank hellhole, and she laughed. She always seemed to genuinely enjoy my sarcasm. Apple, she explained, had inquired about options for opening that wall. Yerba Buena told them, sure, they could do whatever they wanted so long as they restored it after the event, but it would cost a small fortune. But to Apple the price was negligible, and they accepted the offer immediately and commenced planning how to do it.[1](#fn1-2026-11-06) Cotton liked how it turned out, and I told her I agreed. It made for a noticeably nicer space.
+
+My column about that October 2013 event [began thus](https://daringfireball.net/2013/10/this_weeks_ipad_event):
+
+> There is a certain sameness to almost every Apple event. A
+> pattern, a formula, a structure, a rhythm and pacing. Does this
+> make them boring? In some ways, certainly, insofar as the only
+> thing we don’t know is what they’re going to say, as opposed to
+> how they’re going to say it. (And even then, we often have a
+> pretty good idea what they’re going to announce, too.)
+
+And I went on to quote from — and then disagree with — then-NYT tech columnist [Nick Bilton’s griping](https://archive.nytimes.com/bits.blogs.nytimes.com/2013/10/23/the-repetition-of-apple-keynote-presentations-feel-boring/) that Apple’s keynotes lacked “wow” and had grown stale. (Bilton is now leading failson David Ellison’s [team of dipshit weasels](https://daringfireball.net/linked/2026/06/01/weasel-job-60-minutes) who are [sinking 60 Minutes](https://www.tvinsider.com/1300264/60-minutes-ratings-october-2026-cbs/), the crown jewel of CBS News.)
+
+Somehow, here we are 13 years later (alas, [not all of us](https://daringfireball.net/linked/2023/05/05/nyt-obit-katie-cotton)), and there are [still complaints](https://duckduckgo.com/?ia=web&origin=funnel_home_website&t=h_&q=apple+event+boring) about the repetitive sameness of Apple’s events. Yet Apple’s events these days don’t resemble that event from 2013 at all. Change comes slowly but it always comes.
+
+* * *
+
+I enjoyed last week’s “Pro and Tell” event more than any in recent memory. I enjoyed the venue — both the unique building and the city. I enjoyed the format. But most of all I loved the subject: the Mac.
+
+The building is [best known as CBS Columbia Square](https://www.laconservancy.org/learn/historic-places/cbs-columbia-square/), opened in 1937 as the West Coast headquarters for CBS. The color of the event was blue — matching the default wallpaper for the new MacBook Pros with PROLED XDR displays. Blue carpet covered the sidewalk leading into the entrance. After walking up the carpet, checking in outside, and donning my press lanyard, the magnetometer dinged me, and I was pulled aside and politely but brusquely asked to put my briefcase on the (carpeted) ground, and wait for a busy police dog to take a smell at it. I presume the dog was sniffing for weapons, not drugs, but either way my bag passed muster. Inside, just past the lobby, Apple had created a rather spacious theater, with a large screen and stage. There were blue padded bench seats along the outside walls, but the primary center area of the space was for standing. From the floor to the room’s high ceiling, the walls were blue.
+
+Behind the theater was a large area with coffee, water, and small breakfast treats. Invited guests — primarily tech journalists and social media creators — mingled and sipped. I checked my laptop bag, and carried only my notebook and phone for the morning. Apple PR reps were, as ever, present but never overpresent. Conversation touched upon the expected but as yet unknown touch-enabled MacBook Pros. Word spread that Steven Levy, the undisputed [dean](https://www.amazon.com/Insanely-Great-Macintosh-Computer-Everything/dp/0140291776) of the Apple press corps, had landed an exclusive first look for Wired. (Levy, ever the pro, and a delightful raconteur, confirmed only that, yes, he had the exclusive, but he offered not a word regarding its content before his agreed-upon embargo. His wry smile, though, betrayed that he was happy with what Apple was about to unveil.) Much of the pre-event chatter, however, was dominated by discussion about the iPhone Duo. A rather remarkable number of attendees had Duos in hand — many of them still in the midst of reviewing it, but others professed to having already gone all-in on it. To each their own; there’s no accounting for taste.
+
+Shortly before 10am, word spread that it was time to pack into the theater. I squeezed in close to the stage. Why not? Steve Jobs, I noted, never took the stage quite on time. He was seldom more than two or three minutes late, but he was always at least two or three minutes late. Rock stars don’t take the stage on time. Tim Cook, on the other hand, was never late. A minute early, sometimes; a minute late, never. You could set your watch to 10:00 by listening for his “Good morning!”
+
+John Ternus [took the stage](https://x.com/richontech/status/2115491666723483924) at 10:00.
+
+He spoke briefly. Just a few minutes recapping Apple’s week of announcements. The new OLED iPad Mini, the new M6 MacBook Pro, the updates to Creator Studio. He spoke naturally and comfortably, and seemingly extemporaneously. He looks like he smells like Apple Park. He’s a cool guy. And he knows that Tim Cook handed him a killer lineup of new products to introduce over his first two months as CEO. Every one of Apple’s major platforms is in a good-to-great place. His on-stage remarks culminated with the introduction of the truly _new_ MacBook Pros: “That’s why we’re here today — to mark another huge moment for MacBook Pro, and for the Mac itself.” When Ternus then announced, a moment later, “And yes, for the very first time, we are bringing touch to the Mac”, [the audience erupted in gasps and cheers](https://www.instagram.com/reels/DfDAWKKpgYw/) — a reminder that for as much as many of us know before Apple makes these announcements, a lot of the people in attendance do not even know who Mark Gurman is. A lot of the people in the room were genuinely shocked and surprised.
+
+Apple paid a lot of money to put a fantastically bright screen behind Ternus, and they used that screen to show [this two-minute “If you give a Mac an OLED” intro video](https://www.youtube.com/watch?v=hnZI5uUSdEo). The first mention of touchscreen support, in that video, comes a full third of the way in.
+
+Ternus teased the return of the glowing back-of-the-display Apple logo [in a tweet](https://x.com/johnternus/status/2115428480200671617) that morning. On stage he made it official: “The logo is back.” I love the way he phrased that. Not “the glowing logo is back”. Just “the logo is back” — like it might as well not have been there in the unilluminated years [since 2016](https://www.macrumors.com/2016/10/28/new-mbp-no-backlit-logo-or-power-extension-cable/). Fuck yeah.
+
+The show in the theater was short and sweet. We shuttled off to the hands-on area by 10:15, if not sooner. The format of the event — or “experience”, as Apple calls these — mirrored that of [the MacBook Neo experience in New York back in March](https://daringfireball.net/2026/03/599_not_a_piece_of_junk_macbook_neo). Brief welcoming remarks from Ternus, a crisp short video presented to a standing room of invited media guests, and then, boom, a scramble off to an expansive hands-on area. Apple didn’t stream Ternus’s live-on-stage remarks to the world back in March, and they chose not to again last week. They should. These aren’t live _keynote_ events, but they are live events. I’m glad I’ve gotten to see them in person, but I wish everyone could see them online. They are good. Good things should be shown. Apple is run by people. Seeing the company’s CEO live on stage is a rare glimpse behind the aluminum and glass facade.
+
+One is an anomaly. Two is a pattern. The Neo event (err, experience) back in March was like no other. This “Pro and Tell” MacBook Pro event was a _lot_ like the Neo one. The Neo one didn’t get a punny title though — [just a simple “You’re Invited” on the email invitation](https://daringfireball.net/misc/2026/11/neo-youre-invited.png) (although the decoration of the Apple logo hinted at the Neo’s signature citrus colorway). The Columbia Square building in Los Angeles is large, but it’s nowhere near as spacious as the empty warehouse in Chelsea where Apple held the Neo event. There seemingly were more invitees at last week’s event in LA too. In New York back in March, there was room to mingle. I snapped [this fun photo](https://zeppelin.flights/@jsnell/116439930139479351) of Jason Snell chatting with Phil Schiller, Greg Joswiak, and then-still-SVP-of-hardware John Ternus. Even setting aside Ternus’s subsequent promotion to CEO and levelling up in celebrity, that chat couldn’t have happened in the hands-on area of this event. There were too many people and too little space.
+
+In the scramble after leaving the theater area, Apple reps were gladly informing attendees that there were two separate hands-on areas, and that “the one in the back” might be less crowded. It wasn’t. Both areas were tightly packed. They were tight tube-like hallways, with black walls, good lighting, and Apple Store-like tables upon which were arrayed the new MacBook Pros. Silver and space black; 14- and 16-inch; nano-texture and glossy. Some of the tables featured Apple’s speed-bumped M6 MacBook Pros, the enclosures for which are nearly indistinguishable from the machines everyone really wanted to see — the PROLED XDR M5 Pro and M5 Max models. I saw several attendees poking and sliding their fingers on the screens of those M6 models, to no avail, until someone gently told them “These are just the _other_ new MacBook Pros.”
+
+Packed shoulder-to-shoulder in a confined space with low ceilings, jostling for hands-on time with the PROLED XDR models, the temperatures — both atmospheric and emotional — got uncomfortably warm. It also became clear that some of the attendees chose not to shower that morning. The scene brought to mind the [pungent imagery](https://daringfireball.net/misc/2026/11/snowpiercer.jpeg) of the “coach” cars in Bong Joon-ho’s _[Snowpiercer](https://www.nytimes.com/2014/06/15/movies/designing-the-train-sections-for-bong-joon-hos-snowpiercer.html?unlocked_article_code=1.NlE.9YgQ.GB11HtmgmBtm)_.
+
+[![Black-and-white photo of a crowded Apple hands-on event, with dozens of journalists and attendees gathered around tables trying out MacBooks, taking photos, and talking beneath bright overhead lights. The ceiling is low and walls dark.](https://daringfireball.net/misc/2026/11/pro-and-tell-hands-on-scrum.jpeg)](https://daringfireball.net/misc/2026/11/pro-and-tell-hands-on-scrum.jpeg)
+
+The Steve Jobs Theater, this [was](https://glass.photo/gruber/2QUtgADavw0AcPC1CvFkBO) [not](https://glass.photo/gruber/3sibXMY3L2nybl59WjAKVK).
+
+But that’s not a complaint. This was different and different is good. It was a unique event in a unique venue. That’s good for Apple and good for those of us with the fortune to be invited to attend these things. Events at Steve Jobs Theater are held the SJT way. Apple adjusts and tweaks them, but the space defines them. An altogether new venue, whose ground floor Apple seemingly built out from scratch for this event, requires thinking about everything. And Apple’s thoughts are revealing. What I took away from the hands-on at this event is that Apple wanted us to get close to these MacBooks. To really look at them and appreciate them. No, they’re not radically different. They’re subtly different. But subtly different in very significant ways. That’s not exciting but it’s correct. The old MacBook Pros (including the new M6 model) were, by far, the best professional laptops ever made. The new ones are just better.
+
+I like the hands-on scrums. There’s an energy to them you can use to gauge interest. When the products are genuinely exciting there’s a buzz that can’t be faked. People were fucking excited by these new MacBook Pros, and rightly so. These are the machines many of the people in attendance use themselves for their own work — _our_ own work — all day, every day. The new tandem OLED displays are quite literally brilliant. You can see the difference even when they’re not side-by-side with the old mini-LEDs. When they are side-by-side, the old displays look washed. The new ones look _wow_.
+
+And the “hands-on” aspect came into literal play two ways. First, yes, you can tap, swipe, and pinch the displays. Some people cared about that. A lot of others in the room, including yours truly, not so much. But even those of us who were ambivalent, at best, about touch coming to the Mac had reason to rejoice upon seeing Apple’s implementation: Apple added touchscreen support to MacOS the right way. Touch is decidedly secondary on MacOS. The density of the UI doesn’t change at all when you’re using a mouse pointer, and it only changes slightly to create larger tap targets when you touch the screen. This is the way. I would have bet that Apple would do it this way, but every bet is uncertain. And though the likelihood was low the stakes were high — a completely touch-first reimagining of the MacOS user interface would have been a devastating blow to an irreplaceable platform.
+
+Second, the weight reduction Apple was able to achieve with these machines is astonishing. The 14-inch models weigh a full half pound less. The 16-inch models weigh 0.7 pounds less. Almost three-quarters of a pound! I saw numerous attendees picking up the hands-on demo machines to compare them to the personal MacBook Pros they were lugging around the event in their backpacks. Eureka after eureka. These are massive reductions in weight without — claims Apple — _any_ decrease in sustained performance or battery life.
+
+* * *
+
+Next up, for some of us, were product briefings. I saw a disassembled PROLED XDR display panel. Five layers (I think?), each of them impossibly thin. A friend who was in another briefing group said the front panel cover glass shattered in the hands of one writer when it was passed around for examination. In my group — which might have been after that one — we didn’t get to touch anything.
+
+Putting OLED into a laptop doesn’t magically make it good. Apple had a side-by-side comparison with a Lenovo Yoga 9 Whatever with an OLED display. The colors on that display were slightly greenish when viewed head-on, and garishly green when viewed off-angle. The colors on Apple’s PROLED XDR look remarkably good from any angle. Most surprising to me was Windows 11’s [bizarrely clunky support for HDR](https://www.xda-developers.com/how-i-made-hdr-amazing-on-windows-11/) images. When you open an HDR image, it displays as SDR, then you wait like 5–10 seconds for the display to “warm up” and only then does it show it in HDR — and when it does, the colors look bad. Getting a brief taste of “modern” Windows feels like visiting Cuba or something.
+
+In the not-for-attribution Q&A after the briefing, I asked about the fact that the original glowing Apple logo in MacBooks — and PowerBooks — was a byproduct of the fact that the displays were backlit. There was a bright light sealed up inside the back of those display panels, and someone at Apple had the idea that if they just cut out the Apple logo on the back and fit it with translucent plastic, it would glow. Steve Jobs loved the idea and the rest is history. Every Mac laptop from 1999 through 2016 had a logo that glowed. Photos like [this one from 2007](https://macdailynews.com/2007/10/02/lecture_hall_photo_shows_widespread_mac_use/) are iconic.
+
+But OLED doesn’t use a backlight. Each pixel lights up on its own, which is how OLED’s blacks are so utterly black, and how light bleed is so drastically reduced. So if there’s no backlight, does that mean the new glowing logo has a light source of its own? Yes, was the answer. Apple engineered a custom light source just to enable the logo to glow once again, without adding any additional thickness to the lid. Someone else in my briefing group asked why Apple would bother doing that. “Because it’s awesome,” was the answer, which I’m quoting exactly and fully. That was the entire answer. Because it’s awesome.
+
+If you work in a dark environment where the glowing logo might prove a distraction, or if you’ve had your sense of fun surgically removed, you can [disable the light](https://daringfireball.net/linked/2026/11/06/apple-support-illuminated-apple-logo). The light-up logo was a particular source of joy for Apple executives and product managers, including the fact that they managed to keep it entirely secret. One difference between this new glowing logo and the old ones from 1999–2016 is that when the light is turned off on this one, it just looks like the highly polished Apple logos from MacBooks since 2016. It doesn’t look, at all, like a light that is turned off. Thus, Apple was able to keep it from leaking by not enabling the illumination in the builds of MacOS that were used by employees who were testing preproduction models inside the company.
+
+Pure awesomeness. Fun for the sake of fun on the back. The best laptop display in the industry — by a long shot — on the front. How utterly Mac-like.
+
+* * *
+
+In the late afternoon came the “Pro Workflow Showcase”, on the third and fourth floors of the building. (The second floor held a cafe and an outdoor terrace with a separate coffee bar. There was an entire other cafe downstairs on the first floor. The coffee, as usual, was pretty good, and the small plates tasty and fresh.) This showcase featured half a dozen demonstrations from creative professionals using the Mac in innovative ways to pursue their various crafts. Impressive demos from obviously talented artists, one and all.
+
+U.K. filmmaking brothers Will and Ed Reid ( [a.k.a. “The Reids”](https://thereids.studio/Info)) showed off their “4D Gaussian splatting” workflow, which allows them to capture immersive 3D scenes using a synchronized array of nine iPhones used as cameras. Portrait photographer [Jeremy Cowart](https://www.jeremycowart.com/), from Nashville, demonstrated his crazily customized studio workflow, which allows him to capture and process hundreds of still photos per minute, with the background behind the subject shifting with each frame. Record producer [Fab Dupont](https://www.fabulousfab.com/), who has worked with musicians ranging from Bad Bunny to David Crosby, mixed music live in Logic Pro. (Dupont was particularly fond of the touchscreen on the new MacBook Pros, which he repeatedly stated he expected to ignore.) From the fashion world, the wife and husband duo of designers Susan Fang and Orelio de Jonghe showed off an array of intricate 3D-printed clothing, gowns, and accessories. I [found a new pair of eyeglass frames](https://daringfireball.net/misc/2026/11/susan-fang-glasses-gruber.jpeg) that, I’m told, suit my face. (Photo credit: Austin Mann.) And then, most delightfully and surprisingly, there was a two-section demo area from Japanese experimental botanist and “haute couture” florist [Azuma Makoto](https://azumamakoto.com/en/). Azuma was the subject of _[Flower Punk](https://alisonklayman.com/flower-punk)_, a documentary short by Alison Klayman [for The New Yorker](https://www.newyorker.com/culture/the-new-yorker-documentary/azuma-makotos-provocative-botanical-sculptures-in-flower-punk) back in 2020 — which, now that I’ve seen his work up close in person, is high atop my to-watch list. Azuma uses the Mac in multiple ways. First, to design elaborate, beautiful botanical sculptures. Second, to design and engineer intricate contraptions and machines — research equipment — that allow him and his team to optimize and control the blooming of picked flowers. Third, to control that equipment in operation. The machines are as beautiful as the flowers. I commented on the mechanical switches. They beg to be flipped just to feel them click. After hearing my brief question translated into Japanese, Azuma’s partner Shiinoki Shunsuke answered at length, with great enthusiasm. They’re often asked, he said, why they design their custom equipment with analog controls, rather than control them entirely through software. They feel that the physical nature of the plants inside the machines demands physical controls to manipulate their environment. It’s like touching the flowers without touching them. A beautiful description of hauntingly beautiful works at the intersection of technology, biology, and art. It’s like Doc Brown from _Back to the Future_ meets Martha Stewart.
+
+[![An impossibly lush floral arrangement inside a refrigerator-sized glass-and-metal contraption. On the side is a control panel of mechanical switches, dials, and gauges.](https://daringfireball.net/misc/2026/11/azuma-makoto-1.jpeg)](https://daringfireball.net/misc/2026/11/azuma-makoto-1.jpeg)
+
+Oh, and there was one other demo station. It was from a small filmmaking outfit named [Industrial Light and Magic](https://www.ilm.com/), and the primary demo was helmed by John Knoll. Knoll [co-created an image editor](https://web.archive.org/web/20090213221853/http://www.storyphoto.com/multimedia/multimedia_photoshop.html) for the Mac in 1987 with his brother Thomas, and has pushed the cutting edge of VFX across five decades at ILM. Both [the image editor](https://blog.cocoia.com/2008/the-first-photoshop-icon/) and [the movies he’s worked on](https://www.themoviedb.org/person/1401796-john-knoll?language=en-US) have achieved a fair degree of renown and success. When I saw him, I was nearly dumbfounded. It was all I could do not to walk up to him and say what my mind was screaming: “You’re John Fucking Knoll.” John Fucking Knoll, doing demos on the fourth floor. Holy shit.
+
+Knoll brought with him an elaborate rig from ILM. A spaceship model from _Star Wars: Skeleton Crew_. A real physical model. Behind the ship was a very large LED screen — a smaller version of [the cavernous “Volume” 75-foot chamber](https://illumin.usc.edu/the-volume-how-the-mandalorian-revolutionized-filmmaking/) that ILM first used for _The Mandalorian_ in 2019. A miniature Volume for miniature models. In front of the ship was an iPhone camera with a large lens mounted on a track. In front of the track stood Knoll, controlling the whole apparatus from a MacBook Pro (with logo aglow, natch). Knoll built this motion-tracking camera control system in his garage and wrote the firmware himself. Of course. He’s John Fucking Knoll. And he showed us how they use this system to shoot a practical spaceship model flying through hyperspace that is being rendered, live, on the LED behind the model. It’s all just captured in camera. The secret is [genlock](https://support.apple.com/en-us/148292), which syncs the video rendered on the LED _in front_ of the camera with the video being captured _on_ the camera — synchronized precisely not merely to the millisecond but to the microsecond.
+
+There are two questions I can remember being obsessed with as a child, that started me on the path to what ultimately became my career. The first was, “How did they make _Star Wars_?”[2](#fn2-2026-11-06) Now here I was, seeing, just a little at least, exactly how they make _Star Wars_ today — in arm’s reach of an actual goddamn ILM spaceship miniature. And a big part of the answer of how they make it today is, “With the Mac.”
+
+* * *
+
+By my count Apple held four major events this year. Two of them were the inviolable tentpoles of the annual Apple calendar: WWDC in June, and the iPhone event in September — both held, as usual, at Apple Park. WWDC is the all-encompassing software event for all of Apple’s platforms. The iPhone event is the iPhone event, with Apple Watch as the opening act.
+
+Apple’s other two major events in 2026 were the no-event-title [Neo introduction in New York in March](https://daringfireball.net/2026/03/599_not_a_piece_of_junk_macbook_neo), and last week’s “Pro and Tell” introduction for the new MacBook Pros in Los Angeles — both of them big, expensive productions, both held in big, expensive cities far from Cupertino.
+
+Now consider Jason Snell’s Six Colors chart of [Apple’s quarterly revenue by product line](https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/) for the last five years, up through last week’s results for Q4 2026:
+
+[![Six Colors’s chart (in five colors) of Apple's revenue split for iPhone, Services, iPad, Wearables/Home, and Mac.](https://daringfireball.net/misc/2026/11/six-colors-apple-revenue-by-product.png)](https://daringfireball.net/misc/2026/11/six-colors-apple-revenue-by-product.png)
+
+The green sliver represents the Mac’s share. Snell’s original chart is interactive — you can hover over it and get the specific breakdown for each quarter. The Mac’s share is consistently in the range of 7 to 9 percent for Q2, Q3, and Q4 each year. The iPhone is consistently around 50 percent in those quarters. In Q1 — the October/November/December holiday quarter — the iPhone jumps to around 60 percent, and the Mac drops to 5 or 6 percent. Year after year.
+
+The Mac accounts for high single digits of Apple’s revenue. High single digits, yes, but single digits. Yet two out of Apple’s four major events this year were focused entirely on the Mac. If you’re a pissant grump, you could argue that both of those events were wasteful, self-indulgent preening on Apple’s part. That the first one, for the MacBook Neo, was simply to announce a MacBook that cost $500 less than the previous entry point model, the MacBook Air. And the second one, last week in Los Angeles, was simply to announce MacBook Pros that cost $400 more than the previous ones, just to add touchscreen support that PC laptops have offered at lower prices [for over a decade](https://www.crn.com/news/mobility/300073656/partners-microsoft-surface-pro-3-ads-wont-hurt-apple-macbook-air). All of this for a platform that doesn’t even account for 10 percent of the company’s revenue, with an operating system that ought to be put out to pasture.
+
+What a miserably wrongheaded, ignorant, joyless take that would be.
+
+These new MacBook Pros are worth showing off. What Mac users do and create on the platform is worth celebrating.
+
+When I began closely following Apple, the Macintosh _was_ Apple and Apple _was_ the Macintosh. That hasn’t been true since the iPhone began its [meteoric rise](https://daringfireball.net/linked/2026/01/14/the-explosive-immediate-early-growth-of-the-iphone). Financially, Apple today is the iPhone, Services, and “everything else”.
+
+But at the true center of Steve Jobs’s [metaphorical intersection of Technology and the Liberal Arts](https://www.youtube.com/watch?v=KlI1MR-qNt8), the Mac remains the heart and soul of everything Apple does, and responsible for so much of what users create with Apple’s products. We speak of people — both [inside](https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/) and outside the company — bleeding six colors. But the iPhone never had a six-color logo.
+
+Apple has continuously adapted the Mac for changing times, changing technology, and a changing world, yet — for four decades — has kept it true to its original core. The Mac today is very recognizably _the Mac_ to any user from any time in its illustrious history. Even touchscreen support, now, has been added the Macintosh way.
+
+In 2010 I wrote “ [The Future of the Mac in an iOS World](https://daringfireball.net/2010/12/future_of_the_mac_in_an_ios_world)”. That piece has held up pretty well:
+
+> Here’s the short version of the “Mac is doomed” scenario: iOS is
+> the future, Mac OS X is the past, and Apple, unlike most major
+> tech companies, is strongly inclined to abandon the past in the
+> name of the future.
+>
+> You can’t really argue with that, can you? But the premise that
+> the end is near for the Mac presupposes quite a bit about the
+> near-term future of iOS. \[...\]
+>
+> It’s the heaviness of the Mac that allows iOS to remain light.
+>
+> When I say that iOS has no baggage, that’s not because there is no
+> baggage. It’s because the Mac is there to carry it. Long term — say, ten years out — well, all good things must come to an end.
+> But in the short term, Mac OS X has an essential role in an iOS
+> world: serving as the platform for complex, resource-intensive
+> tasks. The funny thing is, the best slogan to describe the Mac’s
+> role is the same one it started with 25 years ago:
+>
+> The computer for the rest of us.
+
+I was only wrong then in fretting that the Mac might — perhaps — only have a decade or so yet ahead of it. Here we are now 16 years later and the Macintosh is more popular, more essential, more successful, and further ahead of its ostensible competition than ever in its 42-year history. Change comes slowly but it always comes.
+
+The logo not only glows again. It might glow forever.
+
+* * *
+
+1. I am reminded of the delightful story of how Microsoft wound up with the rights to “Start Me Up” for the Windows 95 launch. The Rolling Stones had theretofore never licensed a song for use in a commercial. Mick Jagger had always handled such inquiries not by saying “no”, but instead by quoting astronomically high prices. Microsoft asked about “Start Me Up”, Jagger gave them a no-way-they’ll-say-yes price ( [supposedly $12 million](https://archive.seattletimes.com/archive/19950818/2137069/rolling-stones-sell-microsoft-right-to-use-song-in-ads)) and Microsoft simply said, “ _Great, that’s a deal._”  [↩︎](#fnr1-2026-11-06 "Jump back to footnote 1 in the text.")
+
+2. The other was “How did they make [Pac-Man](https://archive.org/details/vimeo-64586136)?” [↩︎︎](#fnr2-2026-11-06 "Jump back to footnote 2 in the text.")
 
 ## [What Rhode Island’s Electric Bills Get Wrong About Heat Pumps](https://www.clf.org/blog/what-rhode-islands-electric-bills-get-wrong-about-heat-pumps/)
 
@@ -13229,19 +13664,19 @@ Texas Democratic Party Chair Kendall Scudder join us live tomorrow at 1230pm ET 
 
 ## [Unable to Export Mac Passwords](https://mjtsai.com/blog/2026/11/05/unable-to-export-mac-passwords/)
 
-via Michael Tsai · 2026-11-05, updated 2026-11-24
+via Michael Tsai · 2026-11-05, updated 2026-11-25
 
 I create periodic CSV password backups on the Macs that I manage. After the recent 1Password story, I was feeling good that at least I shouldn’t have to worry about the Passwords app not launching. But it turns out that, today, Apple’s app didn’t work, either. After telling it to export everything (except the passkeys, \[…\]
 
 ## [Switch to Safari](https://mjtsai.com/blog/2026/11/05/switch-to-safari/)
 
-via Michael Tsai · 2026-11-05, updated 2026-11-24
+via Michael Tsai · 2026-11-05, updated 2026-11-25
 
 Chance Miller (Hacker News): Apple is kicking off a new campaign today to promote Safari’s benefits over Chrome. With a new “Switch to Safari” page on its website and a pair of new YouTube videos, Apple wants everyone to know Safari is “a more powerful and private browser than Chrome.” Apple (Hacker News): Safari offers up to 5 \[…\]
 
 ## [Quarantined Safari .webloc Files](https://mjtsai.com/blog/2026/11/05/quarantined-webloc-files/)
 
-via Michael Tsai · 2026-11-05, updated 2026-11-24
+via Michael Tsai · 2026-11-05, updated 2026-11-25
 
 Jeff Johnson (Reddit): Opening a webloc file, for example by double-clicking in Finder, now triggers a Gatekeeper alert in the latest versions of macOS Golden Gate and Tahoe, 27.2 and 26.7.2 respectively, though oddly not in macOS Sequoia 15.8.2. \[…\] I could not find anything relevant in the macOS 27.2 security release notes, but the \[…\]
 
@@ -13334,6 +13769,63 @@ Friends,
 via Gary Marcus blog · 2026-11-05, updated 2026-11-24
 
 The Generative AI bubble may finally have popped.
+
+## [Consumer interest in Chinese-made solar panels and EVs markedly rises in Europe and Canada, says Chatham House survey](https://www.chathamhouse.org/2026/11/consumer-interest-chinese-made-solar-panels-and-evs-markedly-rises-europe-and-canada-says)
+
+via Chatham House News Releases · 2026-11-05
+
+Consumer interest in Chinese-made solar panels and EVs markedly rises in Europe and Canada, says Chatham House surveyNews releasejon.wallace5 November 2026
+
+The survey finds that growing concerns about the impact of China on domestic manufacturing bases is not denting the appeal of China’s clean tech products for many consumers – rather the opposite.
+
+![Workers install solar panels](https://www.chathamhouse.org/sites/default/files/styles/chat_social_twitter_1200_600/public/2026-11/2026-11-06-china-clean-tech-iStock-1394420148%20%281%29.jpg?itok=v1_aLEIE)
+
+A recent survey commissioned by Chatham House and conducted by GlobeScan, assessed global sentiment towards Chinese-made clean technologies, namely solar panels and electric vehicles, in 33 countries.
+
+Compared to the 2025 survey findings, the 2026 survey results found significant sentiment increases in several regions around the world, in just one year.
+
+The resulting energy shock from the US-Israel war on Iran and the effect on global chokepoints such as the Strait of Hormuz and the Red Sea may be contributing factors, alongside China’s steadily growing reputation as a supplier of high-quality, low-cost technology products.
+
+For instance, results demonstrated a significant increase of consumers’ likelihood to buy Chinese solar panels and Chinese electric vehicles in several European countries, just in the past year, even as the European Union coalesces around trade and industrial measures aiming to strengthen domestic manufacturing and reduce Chinese imports.
+
+In [Germany](https://www.chathamhouse.org/regions/europe/germany "Germany") for instance, a country famous for its auto industry, consumer likelihood to purchase a Chinese electric vehicle still increased by 13 percentage points from 2025-2026. This is against a backdrop of a historic German industry in crisis caused by plunging sales in China, on the one hand, and surging imports of low-cost vehicles from China, on the other.
+
+Chris Aylett, Senior Research Fellow, said:
+
+‘It is striking to see European consumers warming up to China’s clean tech offer, just as the continent’s political and industrial leaders reach consensus on the need to take robust trade measures. Europe will need to make sure it doesn’t choke off the uptake of clean tech, which is already combating inflation, improving air quality, and cutting emissions’.
+
+Elsewhere in Europe, purchase likelihood of Chinese EVs in the Netherlands increased by 9 points since 2025, and [the UK](https://www.chathamhouse.org/regions/europe/united-kingdom "United Kingdom") by 7 points. The same trend can be seen in how likely consumers are to purchase Chinese-made solar panels, with a 9-point percentage increase in the Netherlands, an 8-point increase in Germany and 6-point increases in the UK and [France](https://www.chathamhouse.org/regions/europe/france "France").
+
+In North America, [Canada](https://www.chathamhouse.org/regions/americas/canada "Canada") stood out for increased likelihood to purchase Chinese clean technologies, following a sharp decline in relations with the US. Canadian likelihood to buy Chinese-made electric vehicles increased by 12 points and the likelihood to buy Chinese-made solar panels rose by 8 points.
+
+This trend echoes in parts of the Asia-Pacific, with more consumers expressing interest in Chinese solar panels, including an 8-point increase in Australia and 6-point increases in India and Hong Kong.
+
+However, the trend does not echo everywhere on the globe. In the MENA region, Chinese EV purchase likelihood among Saudi Arabians has decreased by 7 points in the past year. The likelihood of Thai citizens to purchase Chinese solar panels also decreased by 7 points, although in both cases, the fall has been from relatively high levels.
+
+Another key finding of the survey is that, compared with a year ago, fewer consumers say solar or EVs (irrespective of origin) are out of their price range, suggesting a weakening of longstanding perceptions of clean technology as the preserve of the well-off.
+
+At COP31, co-hosts Turkey and Australia are promoting widespread electrification as a means of curtailing the greenhouse gas emissions responsible for climate change.
+
+[Chris Aylett](https://www.chathamhouse.org/about-us/our-people/chris-aylett "Chris Aylett"), Senior Research Fellow, said:
+
+‘Solar panels and electric vehicles are needed to electrify and decarbonize our economies. Our data shows that these key technologies are rapidly going mainstream. In almost every country we surveyed in 2026, fewer people reported cost as a barrier compared with a year earlier. At a time of widespread cost of living pressures, this is remarkable.’
+
+The results of the survey are available in full here:
+
+[The GlobeScan Chatham House CleanTech Report 2026](https://www.chathamhouse.org/sites/default/files/2026-11/2026-11-09-GlobeScan-Chatham-House-CleanTech-Report-2026.pdf "2026-11-09-GlobeScan-Chatham-House-CleanTech-Report-2026.pdf")
+
+(PDF, 2.9MB)
+
+
+To ask any questions or to speak to an expert on the results, please email [pressoffice@chathamhouse.org](mailto:pressoffice@chathamhouse.org).
+
+Notes:
+
+Representative online samples of approximately 1,000 adults in each of 33 countries (500 each in Hong Kong, Kenya, Nigeria, and Singapore, and 1,500 in China and USA) (n=32,106).
+
+Samples are representative of online population, weighted to reflect general population census data.
+
+Online surveying in July and August 2026
 
 ## [Newsboat 2.45.1 is out with security fixes](https://newsboat.org/releases/2.45.1/docs/newsboat.html)
 
@@ -13579,6 +14071,80 @@ via Brian Taylor Cohen blog · 2026-11-05, updated 2026-11-25
 
 Voters sent a clear message with the blue tsunami on Election Day: we want change. Now.
 
+## [Gifts now available celebrating 100 years of the Chatham House Rule in 2027](https://www.chathamhouse.org/2026/11/gifts-now-available-celebrating-100-years-chatham-house-rule-2027)
+
+via Chatham House News Releases · 2026-11-05
+
+Gifts now available celebrating 100 years of the Chatham House Rule in 2027 News releasejon.wallace5 November 2026
+
+Mugs, water bottles, tote bags and more are now available via our online shop, celebrating the timeless and trusted principle of the Chatham House Rule.
+
+![The Chatham House Rule mug](https://www.chathamhouse.org/sites/default/files/styles/chat_social_twitter_1200_600/public/2026-11/Mug.png?itok=03npHJc3)
+
+This week Chatham House opened [a new online shop](https://shop.chathamhouse.org/) offering a range of products celebrating the 100th anniversary of [the Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule "Chatham House Rule") – the timeless and trusted principle that helps encourage open discussion around the world. The Rule will be 100 years old in 2027.
+
+Zara Berry, Director, QEII Academy and Head of Individual Membership at Chatham House said:
+
+‘We are delighted to offer this new range of gifts celebrating the 100th anniversary of the Chatham House Rule in 2027. The Rule is used around the world to bring people together, break down barriers, generate ideas and agree solutions – so these gifts make the perfect present for anyone with an interest in international affairs.’
+
+### Gifts now available include:
+
+### [Chatham House Rule 100 Years Reusable Tote Bag](https://shop.chathamhouse.org/products/chatham-house-reusable-tote-bag)
+
+![The Chatham House Rule Tote Bag](https://www.chathamhouse.org/sites/default/files/styles/uncropped_tiny/public/2026-11/Bag.png?itok=TF1HzpAj)
+
+Carry the conversation wherever you go with this specially designed blue tote bag made from sturdy 10oz cotton canvas, featuring the wording of the Chatham House Rule in white on one side. Perfect for carrying books, shopping, work essentials or everyday belongings.
+
+Regular price £15.00 GBP
+
+Tax included.
+
+### [Chatham House Rule 100 Years Mug](https://shop.chathamhouse.org/products/chatham-house-rule-mug)
+
+![The Chatham House Rule mug](https://www.chathamhouse.org/sites/default/files/styles/uncropped_tiny/public/2026-11/Mug.png?itok=W2Q3B_xx)
+
+This elegant Ash-style mug features the wording of the Chatham House Rule on one side, with the Chatham House logo and the words Supporting the future of trusted dialogue on the other. An ideal addition to home or office.
+
+Regular price £12.00 GBP
+
+Tax included.
+
+### [Chatham House Rule 100 Years Tea Towel](https://shop.chathamhouse.org/products/tea-towel?pr_prod_strat=e5_desc&pr_rec_id=b1c832048&pr_rec_pid=16141968769355&pr_ref_pid=16141968736587&pr_seq=uniform)
+
+![The Chatham House Rule tea towel](https://www.chathamhouse.org/sites/default/files/styles/uncropped_tiny/public/2026-11/tea%20towel.png?itok=WaeZaxgU)
+
+This machine-washable and tumble dryer-safe tea towel features a design reproducing the wording of the Chatham House Rule, alongside the Chatham House logo and the words Supporting the future of trusted dialogue.
+
+Regular price £10.00 GBP
+
+Tax included.
+
+### [Chatham House Rule 100 Years Water Bottle](https://shop.chathamhouse.org/products/chatham-house-rule-bottle?pr_prod_strat=e5_desc&pr_rec_id=b1c832048&pr_rec_pid=16141968671051&pr_ref_pid=16141968736587&pr_seq=uniform)
+
+![The Chatham House Rule tea towel](https://www.chathamhouse.org/sites/default/files/styles/uncropped_tiny/public/2026-11/Bottle.png?itok=iE598cmK)
+
+Stay refreshed on the move with this reusable 500ml double-walled water bottle made from recycled stainless steel, featuring a white finish with distinctive artwork in Chatham House blue.
+
+Regular price £25.00 GBP
+
+Tax included.
+
+### [Chatham House Rule 100 Years Notebook and Pen Set](https://shop.chathamhouse.org/products/chatham-house-rule-notebook?pr_prod_strat=e5_desc&pr_rec_id=b1c832048&pr_rec_pid=16141968703819&pr_ref_pid=16141968736587&pr_seq=uniform)
+
+![The Chatham House Rule notebook and pen set](https://www.chathamhouse.org/sites/default/files/styles/uncropped_tiny/public/2026-11/Notebook.png?itok=OTkwX87b)
+
+The navy blue A5 notebook features an elegant silver-foil illustration of the historic Chatham House Rule plaque.
+
+Paired with an engraved pen, this practical set is ideal for meetings, conferences, study or everyday notetaking.
+
+Regular price £20.00 GBP
+
+Tax included.
+
+### You can also use the shop to give [the gift of Chatham House membership](https://www.chathamhouse.org/members-and-partners/gift-membership "Gift membership")
+
+Give someone the opportunity to explore the people, ideas and conversations shaping global affairs in 2027 with a Chatham House gift membership – offering exclusive member events, subscriptions to our publications and powerful unique networking opportunities.
+
 ---
 
 via Dave Winer's Scripting News · 2026-11-05, updated 2026-11-14
@@ -13654,6 +14220,44 @@ Order Alex's new book, [_The Steal: Four Right-Wing Hard-Liners, One Republican 
 **Hate listening to ads?** Become a Friends of the Pod subscriber for ad-free episodes of Pod Save America, Pod Save the World, Lovett or Leave It, Runaway Country, Offline with Jon Favreau, and more—plus exclusive content, including bonus episodes of Pod Save America. Subscribe now at [crooked.com/friends](http://crooked.com/friends), on Apple Podcasts, or through the Pod Save America YouTube channel.
 
 You can request a transcript by emailing [transcripts@crooked.com](mailto:transcripts@crooked.com). Include the podcast name, episode title, and air date. Please allow 48 hours for delivery.
+
+## [‘Very clear that China isn’t neutral’ in Ukraine war, says former Ukrainian Prime Minister Arseniy Yatsenyuk](https://www.chathamhouse.org/2026/11/very-clear-china-isnt-neutral-ukraine-war-says-former-ukrainian-prime-minister-arseniy)
+
+via Chatham House News Releases · 2026-11-05
+
+‘Very clear that China isn’t neutral’ in Ukraine war, says former Ukrainian Prime Minister Arseniy YatsenyukNews releasethilton.drupal5 November 2026
+
+Speaking at a public event at Chatham House, Yatsenyuk also suggested it was unrealistic that Ukraine could regain territory ‘right now’ and called for additional financial support.
+
+![Ukraine's former prime minister Arseniy Yatsenyuk](https://www.chathamhouse.org/sites/default/files/styles/chat_social_twitter_1200_600/public/2026-11/2026-11-05-ukraine-arseniy-yatsenyuk.png?itok=Aw0FnR58)
+
+Ukraine’s former prime minister Arseniy Yatsenyuk said that Chinese support for Russia was helping it to continue the Ukraine war as he discussed the war’s trajectory at Chatham House on Tuesday 3 November.
+
+Yatsenyuk said that while the Russian economy is in a ‘dire state’, Russia’s president Vladimir Putin still has ‘enough resources to prosecute the war.’ He said the reasons for this included higher oil prices due to the Iran war and Chinese support for Russia.
+
+Yatsenyuk said:
+
+‘I want to be very clear that China isn’t neutral. China actually supports this war, and China is an ally to Russia. Let’s call a spade a spade.
+
+I do understand that it’s around 1.5 billion of people, nukes, a huge global powerhouse. But the truth is that China is actually the closest strategic partner to the Russian Federation, and China provided the way to circumvent sanctions for Russia.’
+
+He also said: ‘There is no clear evidence that China provides weaponry to Russia, but there is no doubt that China provides dual-use materials to Russia.’
+
+Asked which side would break first in the conflict, he said that he believed Russia would ‘back down’ eventually if various developments took place, including Ukraine receiving more financial support from the European Union. He said Ukraine was facing a ‘huge budgetary gap’ of around €70 billion for the next year, with around €40 billion of this needed for ammunition.
+
+![](https://www.chathamhouse.org/sites/default/files/styles/16_9_media_small/public/video_thumbnails/VxofqAK4L5Q.jpg?itok=YDGcKOhS)
+
+Asked about whether Ukraine could recover territory from Russian forces, Yatsenyuk said: ‘I want to be very realistic. Whether we can regain territory right now: Not really.’
+
+But he said if the Ukrainian state is preserved, the war ends and various other conditions are met, including Ukraine getting ‘something similar to the Marshall Plan’, then ‘the time will come when Ukraine will regain its complete territorial independency.’
+
+He said he disagreed with the framing of the war as ‘Putin’s war against Ukraine’: ‘This is the war of the Russian people who support Putin against an independent and sovereign nation, which is Ukraine.’
+
+‘If Putin dies, another successor from KGB will take over the throne. That’s my calculus. And it means that we have to be strong enough to survive, strong enough to defend, strong enough to preserve our country,’ he said.
+
+Yatsenyuk, who was Ukraine’s prime minister from 2014 to 2016, is the founder of the Open Ukraine Foundation and chairman of the Kyiv Security Forum.
+
+Watch [the full event here.](https://www.chathamhouse.org/events/all/standard-event/russia-ukraine-war-who-will-break-first "Russia-Ukraine war: Who will break first?")
 
 ## [Nokia’s Impact in the Age of AI](https://www.nokia.com/blog/nokias-impact-in-the-age-of-ai/)
 
@@ -13807,25 +14411,25 @@ Hopium paid subscribers gather this evening at 7pm ET
 
 ## [Safari 27.3: Adaptive Dark Mode](https://mjtsai.com/blog/2026/11/04/safari-27-3-adaptive-dark-mode/)
 
-via Michael Tsai · 2026-11-04, updated 2026-11-24
+via Michael Tsai · 2026-11-04, updated 2026-11-25
 
 Simon Fraser et al. (Hacker News): When enabled by a user, Safari adapts light websites and presents them as dark. \[…\] At the core of Adaptive Dark Mode is the transformation of color. Sometimes colors are simply decorative, while other times they have semantic meaning. Adaptive Dark Mode determines when to invert colors so elements \[…\]
 
 ## [Safari 27.3: Vertical Tabs](https://mjtsai.com/blog/2026/11/04/safari-27-3-vertical-tabs/)
 
-via Michael Tsai · 2026-11-04, updated 2026-11-24
+via Michael Tsai · 2026-11-04, updated 2026-11-25
 
 Jason Snell (MacRumors): In recent years, numerous browsers have experimented with re-orienting the traditional top-of-the-page tab bar into a vertical stack, and now Safari is joining the parade. (It makes sense, when you think about it, because most of our screens are much wider than they are tall, putting vertical space at a premium. Vertical \[…\]
 
 ## [Binance Heist](https://mjtsai.com/blog/2026/11/04/binance-heist/)
 
-via Michael Tsai · 2026-11-04, updated 2026-11-24
+via Michael Tsai · 2026-11-04, updated 2026-11-25
 
 Rafael Nam: The massive $6.3 billion cyber heist suffered by crypto exchange Binance last week may have taken place in only about twenty minutes — but the attacks were months in the making. That’s according an initial assessment released by Binance on Tuesday about how it suffered the world’s biggest-ever cyber heist by hackers the \[…\]
 
 ## [mSecure Breach](https://mjtsai.com/blog/2026/11/04/msecure-breach/)
 
-via Michael Tsai · 2026-11-04, updated 2026-11-24
+via Michael Tsai · 2026-11-04, updated 2026-11-25
 
 Carly Page (Reddit): Password manager mSecure has warned customers to change their passwords, reset two-factor authentication, and potentially remove their passkeys after detecting suspicious activity, but it has not explained what happened or whether anyone’s secrets were exposed. \[…\] For anyone with hundreds of passwords stored in mSecure, that’s potentially hours of work. And without \[…\]
 
@@ -14144,6 +14748,84 @@ Paulette has to get two buses to work, the 61 into town, then a walk across Cath
 via The Document Foundation Blog · 2026-11-04, updated 2026-11-24
 
 Here’s our summary of updates, events and activities in the LibreOffice project in October – click the links to learn more… We announced LibreOffice 26.8.1, with around 40 bug fixes focused on compatibility with Microsoft Office files, along with more reliable text and CSV import across a range of character
+
+## [Midterm to long-term analysis of US election. What’s next?](https://www.chathamhouse.org/2026/11/midterm-long-term-analysis-us-election-whats-next)
+
+via Chatham House News Releases · 2026-11-04
+
+Midterm to long-term analysis of US election. What’s next?News releasesfarrell.drupa…4 November 2026
+
+As voting was under way, Chatham House analysts on Tuesday looked ahead to how the US midterm elections could reshape the US political system, and the next two years of President Donald Trump’s administration.
+
+![US midterm elections panel at Chatham House](https://www.chathamhouse.org/sites/default/files/styles/chat_social_twitter_1200_600/public/2026-11/IMG_9658.jpeg?itok=sGe56AHM)
+
+On US midterm election day Chatham House convened a panel of experts to discuss what they were seeing, and what lies ahead for US domestic and foreign policy.
+
+The in-person and online event – one of many convened by the Royal Institute of International Affairs – was part of its ongoing coverage of the US and its relationships with Europe, China and the rest of the world.
+
+You can watch the full discussion panel here: [US midterm elections 2026: What happens next?](https://www.youtube.com/live/AYz8fHp1zIk)
+
+Here are some key takeaways:
+
+### A foreign policy election
+
+[**Dr Andrew Payne**](https://www.chathamhouse.org/about-us/our-people/andrew-payne "Andrew Payne") **, Research Director of Chatham House’s Europe, Russia and the Americas Programmes, and author of** _**‘War on the Ballot: How the Election Cycle Shapes Presidential Decision-Making in War’.**_
+
+‘This is actually a foreign policy election, a foreign policy election of the likes that we haven’t really seen since 2006, when you had another very unpopular war in the Middle East that led to a significant backlash against George W. Bush,’ he said.
+
+‘The top issue is inflation and the cost of living. The Chicago Council \[on Global Affairs\] had a poll out that said that that was 37 per cent, by far and away the top issue.
+
+‘And on the surface that supports this conventional wisdom that voters know little and they care even less about international affairs. These are events which are geographically and metaphorically very distant from the daily lives of voters. So when they go to the polls, they think about things like the price of gas, like the price of groceries.
+
+‘To put it another way, James Carville, the political strategist, in 1992 famously said that elections in [the US](https://www.chathamhouse.org/regions/americas/united-states-america "United States of America") are about “the economy, stupid.”
+
+![](https://www.chathamhouse.org/sites/default/files/styles/16_9_media_small/public/video_thumbnails/uWR0TouA26c.jpg?itok=MKUWCDED)
+
+—
+
+Experts discuss the US midterms at Chatham House.
+
+‘So on the surface, I think that is that is all true, but the key exception, when voters really do start to sit up and pay attention to foreign policy, is when the costs of the administration’s foreign policy choices come to bite. And I think whether it’s tariffs, whether it’s the war in Iran, voters really are feeling the effects of some of the choices that this administration has made.
+
+‘A couple of data points: that same survey I mentioned says 86 per cent of Americans say that the war – the war in Iran that is – has increased the cost of living, 81 per cent say the same about tariffs. When YouGov asked survey respondents why gas prices were going up in their area, 41 per cent said the war in Iran was to blame. That was more than twice as many as the next most popular answer, which was President Trump.
+
+‘So I would make the case that it still is kind of “the economy, stupid”. But in this cycle, more than we have seen for 20 years, the economy really is a foreign policy issue in a very real sense.’
+
+### The lame duck era, and succession
+
+**Ludovic Hood, Senior Fellow with the Hudson Institute’s Center for Peace and Security in the Middle East and a former US foreign service officer for 20 years.**
+
+‘We’re very much going into lame duck era for Donald Trump. And that’s going to be painful for him. I’m sure you’ve all tracked him enough, and the kinds of things he’s sensitive to and about,’ he said.
+
+‘I think the likely results of this election will be a clear repudiation of how Trump has governed in the past two years versus his first term. In some ways some of his economic policies – for example investing in US companies – are more, if you will, Democratic than they are Republican.
+
+‘I think a lot of long-standing Republicans are a little bit uncomfortable or aghast at a lot of the policies of the last two years, notably tariffs and notably some of the quasi, I’ll say, the socialist investments that the Trump administration has made in US firms.
+
+‘I think a lot of American long-standing Republicans would like to see a return to more of a free markets economic freedom approach. And then there’s just the governing style. And we can talk about that for a long time. But I think there’s been a lot of drama. And I think a lot of people are fatigued.’
+
+He added:
+
+‘We throw the term civil war around, but in DC parlance, both parties are going to go through some intense soul searching and public arguing about about the direction.
+
+‘The end of the Trump era is largely the end of the MAGA era. Trump is the magic ingredient. JD Vance will try and pick up strands of the MAGA tent, but it’s going to be a fairly small sub-tent, if you will. He just doesn’t have the appeal. And he’s also been quite ideologically flexible over the years if you go back in time.
+
+‘He is the self-appointed standard bearer for some MAGA values. But don’t forget, Trump is in many ways, as I said, not only a realist when it comes to foreign policy and international affairs, but he’s more of a pragmatist, and he does go with his gut quite a lot. And he’s a bit of a contrarian, a disruptor. It’s very hard to pin an ideology on that.
+
+‘Vance is trying to sort of be a standard-bearer for an ideology that almost quite isn’t there, if you will… I personally don’t think that JD Vance will get the nod, and that someone else – Rubio, Cruz, or someone else – there’s a fairly long list of senators and governors who have publicly said they are interested, or have used the usual vague language to pretend they’re not when they clearly are.
+
+‘And I think you’ll see the Republican Party, for lack of a better term, become conservative again.’
+
+### Affordability
+
+[**Laurel Rapp**](https://www.chathamhouse.org/about-us/our-people/laurel-rapp "Laurel Rapp") **, Director of the US and North America Programme at Chatham House:**
+
+‘The polling over these past months has aligned very much with what Ludo is suggesting here. There is high levels of concern about cost of living, affordability. And that is across the Republican and Democratic voters. That is not a partisan issue. Questions about housing costs, access to health care, rising costs of food tied to inflation. So these are sort of across the partisan spectrum. That is a shared view.
+
+‘When you start to break it down on the right and the left, you’re seeing different priorities. On the left, you see greater access to health care as something that they would like candidates to pursue. Climate change, questions about the US role in the world as it relates to the Iran war, stopping the Iran war.
+
+‘When you look to the right and you’ll see a lot of Republican candidates in these final days reflecting some of these Republican voter attitudes focused on crime, on immigration, on social stability issues, and warnings. And that’s something we’ve seen the president also weave into his message a little bit. But to Ludo’s point, the president in these final days has not really hammered on these messages of affordability, has called that a hoax over the past couple of months.
+
+So when you pull voters across the political spectrum, they will say affordability is really important to me. And then when asked, ‘Who do you trust? Which party do you trust to help get the economy back on track?’ a majority will say that the Democratic Party is more trusted on this. So I think we’re seeing a lot of those headwinds surging to the Democrats in these final days.’
 
 ## [The Pioneering Journalist Who Met With Nazi War Criminals Ahead of Their Prosecution](https://lithub.com/the-pioneering-journalist-who-met-with-nazi-war-criminals-ahead-of-their-prosecution/)
 

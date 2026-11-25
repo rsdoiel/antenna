@@ -1,14 +1,102 @@
 ---
 title: "North America"
 description: "News from across North America."
-pubDate: Wed, 25 Nov 2026 12:52:00 GMT
+pubDate: Wed, 25 Nov 2026 16:10:27 GMT
 aggregateOf: "north_america.md"
-dateModified: Wed, 25 Nov 2026 14:31:00 GMT
-itemCount: 1302
+dateModified: Wed, 25 Nov 2026 16:18:28 GMT
+itemCount: 1311
 generator: antenna/0.2.0
 ---
 
 # North America
+
+## [‘Huge Success’: Trump Officials Say No Lead Detected After Army’s Detonation in Iowa](https://www.washingtonsun.com/energy-environment/trump-officials-no-lead-detected-armys-detonation-iowa)
+
+via Washington Sun · 2026-11-25
+
+“The lead levels are coming in so low it is equalling no detection,” EPA Administrator Lee Zeldin said.
+
+## [Mammotion LUBA Mini 2 AWD robot mower $1,599 low, EGO Multi-Head string trimmer $300 low + portable area light $199, more](https://electrek.co/2026/11/25/mammotion-luba-mini-2-awd-robot-mower-ego-multi-head-string-trimmer-portable-area-light-more/)
+
+via Electrek Feed · 2026-11-25
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Mammotion-EGO-Greenworks-GDs-FI.jpg?quality=82&strip=all&w=1600)
+
+The [Amazon Black Friday Sale](https://link.amazon/B0ih6Wqk5) is in full swing, and with it comes a large amount of tool deals, some of which are featured below, while the rest can all be found [within our Black Friday Green Deals hub](https://electrek.co/2026/11/23/black-friday-2026-green-deals-hub-e-bikes-evs-power-stations-tools-appliances-and-more/). There’s an autonomous upgrade in the [Mammotion 2026 LUBA Mini 2 AWD 1500H Robot Lawn Mower down at a new $1,599 low](https://9to5toys.com/2026/11/25/mammotion-luba-mini-2-awd-1500h-robot-lawn-mower/) – which is bundled with a cleaning stand – alongside its counterparts. We’ve also got [EGO’s Multi-Head 15-inch String Trimmer Combo Kit at a $300 low](https://9to5toys.com/2026/11/19/ego-56v-15-inch-multi-head-string-trimmer-combo-kit/) alongside other rounded up tools, as well as the brand’s [Portable Area Light at $119](https://9to5toys.com/2026/11/25/ego-foldable-portable-area-light/). There’s also [Greenworks’ 80V 10-inch Cordless Pole Saw](https://9to5toys.com/2026/11/09/greenworks-80v-10-inch-cordless-pole-saw/) at the best price in eight months, the [Worx Pegasus 2-in-1 Folding Workbench/Sawhorse at $100](https://9to5toys.com/2026/11/25/worx-pegasus-folding-workbench-sawhorse/), and more.
+
+Head below for other New Green Deals we’ve found today and, of course, [_Electrek_’s best EV buying](https://electrek.co/best-electric-vehicle-prices/) and [leasing deals](https://electrek.co/best-electric-vehicle-leases/). Also, check out the new [_Electrek_ Tesla Shop for the best deals on Tesla accessories](https://electrek.co/shop/).
+
+ [more…](https://electrek.co/2026/11/25/mammotion-luba-mini-2-awd-robot-mower-ego-multi-head-string-trimmer-portable-area-light-more/#more-496048)
+
+## [Pentagon hires conservative contractors to audit military base schools and pilot ‘classical’ PE](https://federalnewsnetwork.com/defense-news/2026/11/pentagon-hires-conservative-contractors-to-audit-military-base-schools-and-pilot-classical-pe/)
+
+via Federal News Network · 2026-11-25
+
+The Defense Department continues to revamp its schools for military families to align with conservative education ideals. The Department of Defense Education Activity operates about 160 schools across 11 countries, educating children of service members. It has begun auditing curriculum and piloting what's called a "classical" physical education course at two U.S. campuses — in North Carolina and Virginia. The department awarded a $5.7 million contract to conservative-aligned American Education Solutions for a curriculum audit. A separate contract of around $100,000 was awarded to Iliad Athletics to start “classical” P.E., inspired by traditional Greek athletics. A Pentagon spokesperson says the agency regularly reviews its academic programs and makes improvements.
+
+## [Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents](https://federalnewsnetwork.com/army/2026/11/us-stockpile-of-unstable-and-dangerous-lead-azide-scheduled-for-detonation-in-iowa/)
+
+via Federal News Network · 2026-11-25
+
+The U.S. Army has intentionally blown up 5 tons of bomb-making chemicals at an ammunition plant in southeastern Iowa. Wednesday’s controlled detonation of lead azide at the Iowa Army Ammunition Plant came after environmentalists voiced concerns about possible health and environmental effects. Officials said the degraded materials were at risk of exploding uncontrollably as temperatures cool. Officials advised people nearby to be ready to evacuate to avoid toxic dust but also sought to assure them that barriers around the blast zone should limit much of the plume. U.S. Environmental Protection Agency air monitors were not reporting any lead in the air near the plant within 35 minutes after the detonation.
+
+## [EU pushes back Tesla ‘Full Self-Driving’ vote meeting again, now set for December 15](https://electrek.co/2026/11/25/eu-delays-tesla-fsd-vote-december-15-tcmv/)
+
+via Electrek Feed · 2026-11-25
+
+![](https://electrek.co/wp-content/uploads/sites/3/2025/12/Tesla-Full-Self-Driving-.png?w=1600)
+
+The EU committee that could approve Tesla’s “Full Self-Driving,” now sold in Europe as Tesla Assisted Driving, across the whole bloc won’t meet on December 1 as planned. The meeting is now December 15.
+
+A European Commission spokesperson confirmed the new date to Reuters. The Technical Committee on Motor Vehicles (TCMV) has already discussed Tesla’s file at two meetings without putting it to a vote.
+
+ [more…](https://electrek.co/2026/11/25/eu-delays-tesla-fsd-vote-december-15-tcmv/#more-496018)
+
+## [Volkswagen’s new affordable electric SUV gets a sporty upgrade with GTI DNA](https://electrek.co/2026/11/25/vws-affordable-electric-suv-sporty-upgrade-gti-dna/)
+
+via Electrek Feed · 2026-11-25
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-ID-Cross-R-Line.jpeg?quality=82&strip=all&w=1400)
+
+[Volkswagen](https://electrek.co/guides/volkswagen/) gave its entry-level electric SUV a sporty makeover with GTI-inspired performance. The new ID. Cross R-Line tops the range with added power and style, but there’s more to it than meets the eye.
+
+ [more…](https://electrek.co/2026/11/25/vws-affordable-electric-suv-sporty-upgrade-gti-dna/#more-496003)
+
+## [A new round of Trump tariffs](https://www.marketplace.org/episode/2026/11/25/a-new-round-of-trump-tariffs)
+
+via Market Place Morning Report · 2026-11-25
+
+President Donald Trump is reportedly getting ready to announce more tariffs. The Trump administration is targeting China, the European Union, and more than a dozen other countries it says are flooding the U.S. with subsidized, cheap imports. We dig into why the administration is considering more tariffs — and why now. Also in this podcast: Interest rates haven't tamped down price increases, and a Portland newsletter writer tracks grocery prices for locals.
+
+_Every story has an economic angle. Want some in your inbox?_ _[Subscribe to our daily or weekly newsletter](https://www.marketplace.org/newsletters)_ _._
+
+_Marketplace Morning Report is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._
+
+Stories from this episode:
+
+- [Amid rising food costs, a free newsletter is helping a community find deals](https://www.marketplace.org/story/2026/11/25/free-portland-newsletter-tracks-rising-grocery-prices)
+
+## [NIO targets 10,000 battery swap stations and $52B in batteries by 2030](https://electrek.co/2026/11/25/nio-10000-battery-swap-stations-52-billion-batteries-2030/)
+
+via Electrek Feed · 2026-11-25
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/10/nio-record.jpg?quality=82&strip=all&w=1600)
+
+NIO says its energy arm, NIO Power, will operate more than 10,000 battery swap stations and manage over RMB 350 billion ($52 billion) worth of battery packs by 2030.
+
+That’s more than double the swap network NIO runs in China today. And it comes from a company that already missed its last big swap station target.
+
+ [more…](https://electrek.co/2026/11/25/nio-10000-battery-swap-stations-52-billion-batteries-2030/#more-496005)
+
+## [Black Friday 2026 Green Deals Hub: e-bikes, EVs, power stations, tools, appliances, and more](https://electrek.co/2026/11/25/black-friday-2026-green-deals-hub-e-bikes-evs-power-stations-tools-appliances-and-more/)
+
+via Electrek Feed · 2026-11-25
+
+![](https://electrek.co/wp-content/uploads/sites/3/2026/11/9to5Toys-Black-Friday-electrek-2025.webp?w=1500)
+
+It’s time for the biggest shopping event of the year! With [Amazon’s full Black Friday Sale](https://link.amazon/B00uqiMYf) in swing, so to are all [our favorite Green Deal](https://electrek.co/guides/green-deals/) brands. After weeks of early access savings, things have ticked up to their biggest deals of the season across EVs, power stations, tools, and plenty more. We’re seeing quite the extensive lineup of deals despite ongoing tariffs causing general prices to rise, with this being the opportune time to start crossing items off your Christmas list. We’ve collected all the best ongoing Green Deals into this one-stop shopping hub, and will continue to update it as we spot more chances to save – all the way through Cyber Monday. Head below to browse the lineup.
+
+ [more…](https://electrek.co/2026/11/25/black-friday-2026-green-deals-hub-e-bikes-evs-power-stations-tools-appliances-and-more/#more-494573)
 
 ## [Can Dollar Tree become a one-stop shop?](https://www.marketplace.org/episode/2026/11/25/can-dollar-tree-become-a-onestop-shop)
 
@@ -19,6 +107,12 @@ Dollar Tree reported strong quarterly earnings this week. On its earnings call, 
 _Every story has an economic angle. Want some in your inbox?_ _[Subscribe to our daily or weekly newsletter](https://www.marketplace.org/newsletters)_ _._
 
 _Marketplace Morning Report is more than a radio show. Check out our original reporting and financial literacy content at_ _[marketplace.org](https://www.marketplace.org/)_ _— and consider_ _[making an investment](https://www.marketplace.org/make-a-smart-investment)_ _in our future._
+
+Stories and videos from this episode:
+
+- [Dollar Tree tries to attract more customers with the promise of one-stop shopping](https://www.marketplace.org/story/2026/11/25/dollar-tree-tries-to-become-a-onestop-shop)
+- [Smart Money: Investing in Women at the WIN Summit — the Aspen Institute](https://www.youtube.com/watch?v=F9okPLEETBM)
+- [How companies are using tariff refunds](https://www.marketplace.org/story/2026/11/25/how-companies-are-using-tariff-refunds)
 
 ## [Registration Now Open: What the federal conference circuit reveals about government’s agenda](https://federalnewsnetwork.com/fed-thread/2026/11/registration-now-open-what-the-federal-conference-circuit-reveals-about-governments-agenda/)
 
@@ -534,7 +628,7 @@ GAO found ICE has spent more than $3 billion on facilities since 2025.
 
 ## [Arlene Engelhardt, WMNF producer who led Pacifica as executive director, dies at 87](https://current.org/2026/11/arlene-engelhardt-wmnf-producer-who-led-pacifica-as-executive-director-dies-at-87/?utm_source=rss&utm_medium=rss&utm_campaign=arlene-engelhardt-wmnf-producer-who-led-pacifica-as-executive-director-dies-at-87)
 
-via Current, News for Public Media Orgs · 2026-11-23
+via Current, News for Public Media Orgs · 2026-11-23, updated 2026-11-25
 
 Her attempts to cut spending at Pacifica’s five stations triggered protests and a labor dispute.
 
@@ -620,7 +714,7 @@ It’s time for the biggest shopping event of the year! With [Amazon’s full Bl
 
 ## [Bridge Fund commits $2 million, including grant expanding emergency alerts](https://current.org/2026/11/bridge-fund-commits-2-million-including-grant-expanding-emergency-alerts/?utm_source=rss&utm_medium=rss&utm_campaign=bridge-fund-commits-2-million-including-grant-expanding-emergency-alerts)
 
-via Current, News for Public Media Orgs · 2026-11-23
+via Current, News for Public Media Orgs · 2026-11-23, updated 2026-11-25
 
 FPREN will receive $1.2 million from the Public Media Bridge Fund to expand its public safety model.
 
@@ -665,7 +759,7 @@ via Electrek Feed · 2026-11-23, updated 2026-11-25
 
 ## [Comings and goings: WXXI VP to retire, former NYPR CEO takes new role …](https://current.org/2026/11/comings-and-goings-wxxi-vp-to-retire-former-nypr-ceo-takes-new-role/?utm_source=rss&utm_medium=rss&utm_campaign=comings-and-goings-wxxi-vp-to-retire-former-nypr-ceo-takes-new-role)
 
-via Current, News for Public Media Orgs · 2026-11-23
+via Current, News for Public Media Orgs · 2026-11-23, updated 2026-11-25
 
 Kathy Reed will retire as VP of development for WXXI.
 
@@ -1115,7 +1209,7 @@ GAO found the departments of Justice and Housing and Urban Development and NASA 
 
 ## [How stations are using ‘Crime and Punishment’ to spark local conversations](https://current.org/2026/11/how-stations-are-using-crime-and-punishment-to-spark-local-conversations/?utm_source=rss&utm_medium=rss&utm_campaign=how-stations-are-using-crime-and-punishment-to-spark-local-conversations)
 
-via Current, News for Public Media Orgs · 2026-11-20, updated 2026-11-23
+via Current, News for Public Media Orgs · 2026-11-20, updated 2026-11-25
 
 “We hope to give our viewers an opportunity for a different kind of conversation and maybe even some progress on issues that are difficult," says director Lynn Novick.
 
@@ -1205,7 +1299,7 @@ Can you tell the difference between an artisanal California olive oil and one ri
 
 ## [Adam Hargrove to lead Wisconsin’s Educational Communications Board](https://current.org/2026/11/adam-hargrove-to-lead-wisconsins-educational-communications-board/?utm_source=rss&utm_medium=rss&utm_campaign=adam-hargrove-to-lead-wisconsins-educational-communications-board)
 
-via Current, News for Public Media Orgs · 2026-11-20, updated 2026-11-23
+via Current, News for Public Media Orgs · 2026-11-20, updated 2026-11-25
 
 Hargrove is currently the board’s CTO.
 
@@ -1543,7 +1637,7 @@ Kia’s EV lineup covers just about every size and price point, but it believes 
 
 ## [Kevin Leonard appointed CEO of PBS North Carolina](https://current.org/2026/11/kevin-leonard-appointed-ceo-of-pbs-north-carolina/?utm_source=rss&utm_medium=rss&utm_campaign=kevin-leonard-appointed-ceo-of-pbs-north-carolina)
 
-via Current, News for Public Media Orgs · 2026-11-19, updated 2026-11-23
+via Current, News for Public Media Orgs · 2026-11-19, updated 2026-11-25
 
 Leonard is leaving his role as executive director of the North Carolina Association of County Commissioners.
 
@@ -1669,7 +1763,7 @@ The CHP reported flooding on Highway 99 between Highway 50 and Calvine Road, wit
 
 ## [Alabama Public Television governing board elects new leaders, previews agenda after tumultuous year](https://current.org/2026/11/alabama-public-television-governing-board-elects-new-leaders-previews-agenda-after-tumultuous-year/?utm_source=rss&utm_medium=rss&utm_campaign=alabama-public-television-governing-board-elects-new-leaders-previews-agenda-after-tumultuous-year)
 
-via Current, News for Public Media Orgs · 2026-11-19, updated 2026-11-23
+via Current, News for Public Media Orgs · 2026-11-19, updated 2026-11-25
 
 Newly elected board chair Logan Glass said he’s looking to “steady the ship.”
 
@@ -1773,7 +1867,7 @@ It’s a real milestone for a company that has pushed back its delivery dates si
 
 ## [Comings and goings: PBS appoints VPs, Fred Rogers Productions promotes execs …](https://current.org/2026/11/comings-and-goings-pbs-appoints-vps-fred-rogers-productions-promotes-execs/?utm_source=rss&utm_medium=rss&utm_campaign=comings-and-goings-pbs-appoints-vps-fred-rogers-productions-promotes-execs)
 
-via Current, News for Public Media Orgs · 2026-11-19, updated 2026-11-23
+via Current, News for Public Media Orgs · 2026-11-19, updated 2026-11-25
 
 Maribel Lopez, head of PBS Digital Studios, was promoted to VP of audience development.
 
@@ -2307,7 +2401,7 @@ via Sacramento Bee · 2026-11-18, updated 2026-11-19
 
 ## [Public Media Content Collective to join Greater Public](https://current.org/2026/11/public-media-content-collective-to-join-greater-public/?utm_source=rss&utm_medium=rss&utm_campaign=public-media-content-collective-to-join-greater-public)
 
-via Current, News for Public Media Orgs · 2026-11-18, updated 2026-11-23
+via Current, News for Public Media Orgs · 2026-11-18, updated 2026-11-25
 
 Greater Public CEO Joyce MacDonald said the change "means content, programming, and audience strategy can be shaped together.”
 
@@ -2524,7 +2618,7 @@ Most SUVs are lucky to tow a small trailer without breaking a sweat. [BYD’s](h
 
 ## [Dominic Nardella named director of WYSU](https://current.org/2026/11/dominic-nardella-named-director-of-wysu/?utm_source=rss&utm_medium=rss&utm_campaign=dominic-nardella-named-director-of-wysu)
 
-via Current, News for Public Media Orgs · 2026-11-18, updated 2026-11-23
+via Current, News for Public Media Orgs · 2026-11-18, updated 2026-11-25
 
 “I want people to turn on WYSU and feel, ‘This is Youngstown. This is my community,’” Nardella said.
 

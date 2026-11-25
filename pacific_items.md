@@ -1,14 +1,62 @@
 ---
 title: "Pacific"
 description: "News from Hawaiʻi, Micronesia, Oceania and the Pacific Rim."
-pubDate: Wed, 25 Nov 2026 14:27:02 GMT
+pubDate: Wed, 25 Nov 2026 16:17:03 GMT
 aggregateOf: "pacific.md"
-dateModified: Wed, 25 Nov 2026 14:32:16 GMT
-itemCount: 4531
+dateModified: Wed, 25 Nov 2026 16:19:32 GMT
+itemCount: 4540
 generator: antenna/0.2.0
 ---
 
 # Pacific
+
+## [US Army detonates toxic explosives in Iowa despite contamination fears](https://www.koreatimes.co.kr/world/20261126/us-army-detonates-toxic-explosives-in-iowa-despite-contamination-fears?utm_source=rss)
+
+via Korea Times · 2026-11-25
+
+WASHINGTON — The U.S. Army detonated a massive cache of toxic explosives stored in a tiny Iowa farming town on Wednesday, saying the materials were too unstable to move to a safer area and warning residents to shelter from the blast and a potential cloud of lead dust. Officials said the 68 drums of lead azide — the entire U.S. stockpile of the degraded material — were at risk of spontaneous explosion, requiring their destruction at the Iowa Army Ammunition Plant in Middletown, where they had been stored for more than 15 years. Measures were put in place to curb potential contamination from the destruction of the nearly five tons of explosive material, but the Army encouraged residents of Middletown, Iowa and other nearby areas to leave prior to the blast "out of an abundance of caution." Locals taped up windows to guard against flying glass and were urged to stay indoors to avoid possible toxic dust. The controled explosion sent debris flying into the air and a large cloud of smoke over a tree line, while a New York Times reporter said the blast could be heard some 10 miles (15 kil
+
+## [US proposes tariffs over excess production, retains 15% cap for Korea, Japan, EU](https://www.koreatimes.co.kr/world/20261126/us-proposes-tariffs-over-excess-production-retains-15-cap-for-korea-japan-eu?utm_source=rss)
+
+via Korea Times · 2026-11-25
+
+WASHINGTON — U.S. President Donald Trump on Wednesday fired a new tariff salvo on 14 major trading partners including China, Japan and the European Union, undeterred in his protectionist push by the losses his Republican Party suffered in U.S. midterm elections. His administration proposed new headline tariff rates of 20 percent to 40 percent, but said duties would be capped at lower levels agreed under trade deals that have already been concluded or remain under negotiation. Separately, the United States Trade Representative proposed a new 10 percent tariff on imports of Brazil's finished Embraer commercial aircraft, and to raise duties on imports of Brazilian sugar that exceed quotas as part of an effort to push Brasilia to rectify alleged unfair trade practices. The products were previously exempted from Trump's 25 percent tariffs on Brazilian goods that were imposed in July. A U.S. official said that despite negotiations, there were "substantial differences" over the allegations. Under the main "Section 301" probe into excess industrial capacity, China would face the highest capped
+
+## [From 6 days to 5: Busan subway cleaners finally find time for life beyond work](https://www.koreatimes.co.kr/southkorea/20261126/from-6-days-to-5-busan-subway-cleaners-finally-find-time-for-life-beyond-work?utm_source=rss)
+
+via Korea Times · 2026-11-25
+
+“Back then, there were no machines. You had to wring it out by hand. You step on this bar with your foot, grab the two strands of the mop and twist them tightly with your rubber-gloved hands.” Han Kyung-sun, 66, demonstrated how to wring out a mop, springing to her feet as she explained the evolution of cleaning equipment at Minam Station on Busan Metro Line 3 on Nov. 10. Wearing red rubber gloves, she gripped the mop strands and twisted them, sending dirty water dripping to the floor. Han is a 16-year veteran cleaner employed by Busan Transportation Operation & Service. She is currently responsible for the station's restrooms, escalators, platform screens and station office. When she first started cleaning, she had to wring out heavy, water-soaked mops with both hands. Later, a foot-operated mop wringer, nicknamed “squeezer,” made the work easier. This year, the introduction of wet vacuums further reduced her workload. Han, who used to carry buckets, mops and a wringer, now heads into the station with just a vacuum cleaner and a damp mop. Areas that previously required three or
+
+## [Mathmatician-turned-Buddhist monk leans into inner cultivation for AI era](https://www.koreatimes.co.kr/lifestyle/20261126/mathmatician-turned-buddhist-monk-leans-into-inner-cultivation-for-ai-era?utm_source=rss)
+
+via Korea Times · 2026-11-25
+
+“Inner cultivation to manage alienation and depression will become increasingly important in the age of artificial intelligence (AI). We need ‘metacognition’ — the ability to objectively observe our own mental state — to regulate and overcome our emotions.” Ven. Ilmuk, a 61-year-old Buddhist monk who has practiced meditation in Korea and abroad for 30 years and taught meditation, has published his first book in five years, "Buddha’s Breathing Meditation" (Bulkwang Publishing). Based on the early Buddhist scripture "Anapanasati Sutta" (Mindfulness of Breathing), the book offers a detailed guide to the principles and practice of breathing meditation. It covers everything from the basic steps of observing one’s breath to obstacles that hinder meditation and ways to overcome them, as well as the process of cultivating concentration and wisdom to end suffering. The book presents breathing meditation as a path that leads beyond mental tranquility to liberation. At a press conference held Nov. 24 in central Seoul's Insa-dong to mark the publication, Ilmuk emphasized the distinc
+
+## [Tourist's fatal fall in popular alpine area prompts safety warnings](https://www.rnz.co.nz/news/crime-and-justice/2775509/tourist-s-fatal-fall-in-popular-alpine-area-prompts-safety-warnings)
+
+via RNZ National News · 2026-11-25
+
+Maëlle Favregros, from France, died from blood loss after falling while crossing slippery, rocky terrain near the Brewster Glacier in Mount Aspiring National Park in February last year.
+
+## [Police director Rachael Bambery under scrutiny, investigation overseen by IPCA](https://www.rnz.co.nz/news/crime-and-justice/2775508/police-director-rachael-bambery-under-scrutiny-investigation-overseen-by-ipca)
+
+via RNZ National News · 2026-11-25
+
+It's been a year since Bambery was criticised in a scathing report by the police watchdog in relation to disgraced former Deputy Commissioner Jevon McSkimming.
+
+## [ACC’s ‘fully operational’ AI tool is finding claimants for staff to consider removing from its books](https://www.rnz.co.nz/news/science-and-technology/2775506/acc-s-fully-operational-ai-tool-is-finding-claimants-for-staff-to-consider-removing-from-its-books)
+
+via RNZ National News · 2026-11-25
+
+How an AI model creates "Auto Alerts" on ACC claimants to be checked on - and potentially suspended.
+
+## [Japanese judge dismissed over online casino gambling](https://www.japantimes.co.jp/news/2026/11/25/japan/judge-casino-gambling/)
+
+via Japan Times · 2026-11-25
+
+The impeachment court determined that Judge Akifumi Morimoto, 52, at Niigata Summary Court, "undermined public trust in the judiciary."
 
 ## [FM Cho asks Omani counterpart to keep backing Cheonghae unit](https://www.koreatimes.co.kr/foreignaffairs/20261125/fm-cho-asks-omani-counterpart-to-keep-backing-cheonghae-unit?utm_source=rss)
 
@@ -657,6 +705,12 @@ WASHINGTON — The U.S. State Department on Tuesday stressed the importance of c
 via Korea Times · 2026-11-25
 
 Click here for more articles by Kormedi.com. Reusing food left behind by customers poses serious hygiene risks and can spread diseases, including influenza and hepatitis. Food that other diners have stirred with their chopsticks may be contaminated with saliva. The risk is easy to understand if you think of the respiratory droplets that became a familiar concern during the COVID-19 pandemic. Restaurants caught doing this can face administrative sanctions, including business suspensions, as well as criminal penalties. Another restaurant has been caught reusing food left behind by customers. A district office in Seoul has begun administrative proceedings against a restaurant found to have violated the Food Sanitation Act. The restaurant reportedly put side dishes left uneaten by customers back into storage containers in the kitchen before serving them to other diners. Under the Food Sanitation Act, food service operators are prohibited from reusing, cooking or storing food left behind by customers. Violations can result in administrative sanctions and criminal penalties. Influenza is curre
+
+## [Trump’s offer on US energy \| The wRap](https://www.rappler.com/video/daily-wrap/november-25-2026/)
+
+via Rappler · 2026-11-25
+
+Today’s headlines: Donald Trump, Senate, Miss Universe
 
 ## [Construction begins on Guam's new public market for local produce](https://www.pacificislandtimes.com/post/construction-begins-on-guam-s-new-public-market-for-local-produce)
 
@@ -1467,7 +1521,7 @@ A search will continue this morning for a man who was swept off to sea yesterday
 
 ## ['Agents of the devil': Outrage in PNG after five women allegedly buried alive over sorcery claims](https://www.rnz.co.nz/news/pacific/2768470/agents-of-the-devil-outrage-in-png-after-five-women-allegedly-buried-alive-over-sorcery-claims)
 
-via RNZ National News · 2026-11-24
+via RNZ Pacific News · 2026-11-24
 
 Papua New Guinea's government has condemned the killing of five women accused of sorcery in a Southern Highlands village.
 

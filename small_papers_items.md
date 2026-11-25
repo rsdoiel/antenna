@@ -1,14 +1,114 @@
 ---
 title: "Small Papers"
 description: "Small regional papers, blogs and news."
-pubDate: Wed, 25 Nov 2026 01:38:19 GMT
+pubDate: Wed, 25 Nov 2026 16:33:31 GMT
 aggregateOf: "small_papers.md"
-dateModified: Wed, 25 Nov 2026 14:48:30 GMT
-itemCount: 90
+dateModified: Wed, 25 Nov 2026 16:33:41 GMT
+itemCount: 100
 generator: antenna/0.2.0
 ---
 
 # Small Papers
+
+## [Nuevo rink de hielo abre en Reseda en asociación con los LA Kings](https://sanfernandosun.com/2026/11/25/nuevo-rink-de-hielo-abre-en-reseda-en-asociacion-con-los-la-kings/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/888586344_1565344005402702_3404633796938087072_n-e1795624337242.jpg?fit=1024%2C528&ssl=1)
+
+Han pasado años en el camino, pero finalmente se inauguró un nuevo rink de hielo en Reseda en asociación con los Los Angeles Kings, brindando a los angelinos del Valle \[…\]
+
+The post [Nuevo rink de hielo abre en Reseda en asociación con los LA Kings](https://sanfernandosun.com/2026/11/25/nuevo-rink-de-hielo-abre-en-reseda-en-asociacion-con-los-la-kings/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Chatsworth Woman Abandoned as a Toddler on Skid Row is Thankful for Real-Life ‘Guardian Angels’](https://sanfernandosun.com/2026/11/25/chatsworth-woman-abandoned-as-a-toddler-on-skid-row-is-thankful-for-real-life-guardian-angels/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Stephanie-001.jpeg?fit=1024%2C750&ssl=1)
+
+A few weeks ago, Stephanie Orlando was writing part of her life story for her 11-year-old son Oliver, something she does regularly – sharing highlights and positive affirmations. As she \[…\]
+
+The post [Chatsworth Woman Abandoned as a Toddler on Skid Row is Thankful for Real-Life ‘Guardian Angels’](https://sanfernandosun.com/2026/11/25/chatsworth-woman-abandoned-as-a-toddler-on-skid-row-is-thankful-for-real-life-guardian-angels/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [New Ice Rink Opens in Reseda in Partnership with LA Kings](https://sanfernandosun.com/2026/11/25/new-ice-rink-opens-in-reseda-in-partnership-with-la-kings/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/885576991_1565346435402459_3016840695908914718_n-e1795623446228.jpg?fit=1024%2C683&ssl=1)
+
+It’s been years in the making, but a new ice rink was finally opened in Reseda in partnership with the Los Angeles Kings, providing Angelenos in the San Fernando Valley \[…\]
+
+The post [New Ice Rink Opens in Reseda in Partnership with LA Kings](https://sanfernandosun.com/2026/11/25/new-ice-rink-opens-in-reseda-in-partnership-with-la-kings/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Public Comment Period on Whiteman Airport Study Open Until February](https://sanfernandosun.com/2026/11/25/public-comment-period-on-whiteman-airport-study-open-until-february/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/02/View-recent-photos-e1707966402490.jpg?fit=576%2C1024&ssl=1)
+
+A full report by the Los Angeles County on Whiteman Airport was released Thursday, Nov. 19, and the public will have until early next year to provide their comments before \[…\]
+
+The post [Public Comment Period on Whiteman Airport Study Open Until February](https://sanfernandosun.com/2026/11/25/public-comment-period-on-whiteman-airport-study-open-until-february/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Hope the Mission Reopens the Iconic Original Pantry Cafe](https://sanfernandosun.com/2026/11/25/hope-the-mission-reopens-the-iconic-original-pantry-cafe/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Copy-of-IMG_4203-scaled-e1795622912637.jpg?fit=1024%2C683&ssl=1)
+
+When the Original Pantry Cafe closed in March 2025 after 101 years in business, Angelenos grieved the loss of the beloved diner that was considered a cultural institution. However, what \[…\]
+
+The post [Hope the Mission Reopens the Iconic Original Pantry Cafe](https://sanfernandosun.com/2026/11/25/hope-the-mission-reopens-the-iconic-original-pantry-cafe/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Enjoy Thanksgiving Without the Food Coma: Simple Ways to Savor the Holiday](https://sanfernandosun.com/2026/11/25/enjoy-thanksgiving-without-the-food-coma-simple-ways-to-savor-the-holiday/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Family-Eating-1.jpg?fit=1024%2C683&ssl=1)
+
+Thanksgiving is here, which means kitchens will be filled with the smell of roasted turkey, creamy mashed potatoes and pies that are almost impossible to resist. It’s a holiday centered \[…\]
+
+The post [Enjoy Thanksgiving Without the Food Coma: Simple Ways to Savor the Holiday](https://sanfernandosun.com/2026/11/25/enjoy-thanksgiving-without-the-food-coma-simple-ways-to-savor-the-holiday/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Screen-free Ways to Keep Kids Engaged Over Holiday Break](https://sanfernandosun.com/2026/11/25/screen-free-ways-to-keep-kids-engaged-over-holiday-break/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/N1809P22001C.jpg?fit=1024%2C683&ssl=1)
+
+The holiday season is a time to reunite with family and friends. Late December also is a time for students to relax and recharge over the holiday break, which typically \[…\]
+
+The post [Screen-free Ways to Keep Kids Engaged Over Holiday Break](https://sanfernandosun.com/2026/11/25/screen-free-ways-to-keep-kids-engaged-over-holiday-break/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [GR818ERS’ Flava of the Year International Street Dance Festival](https://sanfernandosun.com/2026/11/25/gr818ers-flava-of-the-year-international-street-dance-festival/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/920162130_18654225226018506_4047551326374150473_n-scaled-e1795622465301.jpg?fit=1024%2C879&ssl=1)
+
+The finals of the GR818ERS’ Flava of the Year International Street Dance Festival (FOTY) were held on Saturday, Nov. 21, in Van Nuys, where acclaimed talents busted their best moves \[…\]
+
+The post [GR818ERS’ Flava of the Year International Street Dance Festival](https://sanfernandosun.com/2026/11/25/gr818ers-flava-of-the-year-international-street-dance-festival/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Giving Thanks for the Latin Grammys, Students, Family and Friends](https://sanfernandosun.com/2026/11/25/giving-thanks-for-the-latin-grammys-students-family-and-friends/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Latin-Grammys.jpg?fit=1024%2C768&ssl=1)
+
+Going into the holiday season, there are many blessings Sergio “Checo” Alonso is thankful for, including a very prestigious nod to his musical talents: the opportunity to perform at this \[…\]
+
+The post [Giving Thanks for the Latin Grammys, Students, Family and Friends](https://sanfernandosun.com/2026/11/25/giving-thanks-for-the-latin-grammys-students-family-and-friends/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Kurt Cabrera-Miller is Grateful for the Community of Sylmar](https://sanfernandosun.com/2026/11/25/kurt-cabrera-miller-is-grateful-for-the-community-of-sylmar/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Kurt-e1795622147725.jpg?fit=1024%2C876&ssl=1)
+
+Kurt Cabrera-Miller appreciates living and working in a community he loves. As longtime president of the Sylmar Neighborhood Council, he is grateful for the community-wide strides that have been made. \[…\]
+
+The post [Kurt Cabrera-Miller is Grateful for the Community of Sylmar](https://sanfernandosun.com/2026/11/25/kurt-cabrera-miller-is-grateful-for-the-community-of-sylmar/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
 
 ## [Long Beach finishes $11 million dredging project to help protect the Peninsula, with plans for another soon](https://lbpost.com/news/peninsula-beach-dredging-finished-whats-next)
 

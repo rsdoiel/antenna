@@ -5,10 +5,65 @@
     <title><![CDATA[STEM]]></title>
     <description><![CDATA[Science and technology news and blogs.]]></description>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>25 Nov 26 06:45 -0800</lastBuildDate>
+    <lastBuildDate>25 Nov 26 08:31 -0800</lastBuildDate>
     <generator>antenna/0.2.0</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Eye of the Sahara</title>
+      <link>https://www.nasa.gov/image-article/eye-of-the-sahara/</link>
+      <description>
+        <![CDATA[The Richat Structure, also known as the &#8220;Eye of the Sahara,&#8221; is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks [&#8230;]]]>
+      </description>
+      <source:markdown>The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks \[…\]</source:markdown>
+      <dc:creator>HQ Web Team</dc:creator>
+      <guid isPermaLink="false">cid://https://www.nasa.gov/?post_type=image-article&#38;p=1067603</guid>
+      <category>Earth</category>
+      <pubDate>Wed, 25 Nov 2026 16:21:04 +0000</pubDate>
+    </item>    <item>
+      <title>Scientists Discover Signs of Explosive Volcanic Eruptions 20,000 Feet Underwater—the Deepest Ever Found—in the Mariana Trench</title>
+      <link>https://www.smithsonianmag.com/smart-news/scientists-discover-signs-of-explosive-volcanic-eruptions-20000-feet-underwater-the-deepest-ever-found-in-the-mariana-trench-180989937/</link>
+      <description>
+        <![CDATA[The discovery puzzles researchers because volcanic activity at that depth should produce a goopy, seeping flow due to the immense pressure. Nevertheless, they say they've found evidence of explosive volcanism, thanks to a remotely operated submersible]]>
+      </description>
+      <source:markdown>The discovery puzzles researchers because volcanic activity at that depth should produce a goopy, seeping flow due to the immense pressure. Nevertheless, they say they&#39;ve found evidence of explosive volcanism, thanks to a remotely operated submersible</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/EYol9JCPNqJYX90D8QqYaKM3LPI=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2b/5b/2b5b0856-d408-41d4-9d07-0b5ca381ef33/pyroclastic-flow-main.png" length="2869395" type="image/png" />
+      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/scientists-discover-signs-of-explosive-volcanic-eruptions-20000-feet-underwater-the-deepest-ever-found-in-the-mariana-trench-180989937/</guid>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>NASA&#39;s nuclear-powered Mars delivery service takes shape</title>
+      <link>https://www.theregister.com/science/2026/11/25/nasas-nuclear-powered-mars-delivery-service-takes-shape/5312147</link>
+      <description>
+        <![CDATA[SR-1 Freedom gets a shorter boom and larger antennas, with roughly two years to finish design, construction, and testing]]>
+      </description>
+      <source:markdown>SR-1 Freedom gets a shorter boom and larger antennas, with roughly two years to finish design, construction, and testing</source:markdown>
+      <dc:creator>Richard Speed</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=226873&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312147</guid>
+      <category>science</category>
+      <pubDate>Wed, 25 Nov 2026 15:30:00 +0000</pubDate>
+    </item>    <item>
+      <title>NASA’s Hubble Views Ocean of Stars in Groundwork for Roman</title>
+      <link>https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/</link>
+      <description>
+        <![CDATA[These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.]]>
+      </description>
+      <source:markdown>These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.</source:markdown>
+      <guid isPermaLink="false">cid://https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/</guid>
+      <category>Hubble Space Telescope</category>
+      <pubDate>Wed, 25 Nov 2026 14:56:54 +0000</pubDate>
+    </item>    <item>
+      <title>Microsoft fixes Office dialog that had nothing to say and wouldn&#39;t go away</title>
+      <link>https://www.theregister.com/software/2026/11/25/microsoft-fixes-office-dialog-that-had-nothing-to-say-and-wouldnt-go-away/5312057</link>
+      <description>
+        <![CDATA[Update resolves work-blocking popup, but affected users may need an administrator command prompt to install it]]>
+      </description>
+      <source:markdown>Update resolves work-blocking popup, but affected users may need an administrator command prompt to install it</source:markdown>
+      <dc:creator>Richard Speed</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5244266&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312057</guid>
+      <category>software</category>
+      <pubDate>Wed, 25 Nov 2026 14:45:00 +0000</pubDate>
+    </item>    <item>
       <title>JetBrains finds agents may cheat with open source</title>
       <link>https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999</link>
       <description>

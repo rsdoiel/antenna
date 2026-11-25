@@ -1,14 +1,22 @@
 ---
 title: "GLAM"
 description: "Libraries, archives and museums."
-pubDate: Wed, 25 Nov 2026 13:35:04 GMT
+pubDate: Wed, 25 Nov 2026 15:34:38 GMT
 aggregateOf: "libraries.md"
-dateModified: Wed, 25 Nov 2026 14:48:19 GMT
-itemCount: 66
+dateModified: Wed, 25 Nov 2026 16:33:29 GMT
+itemCount: 67
 generator: antenna/0.2.0
 ---
 
 # GLAM
+
+## [New Report From Open Knowledge Foundation and Wikimedia Foundation: “Safeguarding the Digital Future: Recognizing Open Knowledge Systems as Critical Digital Infrastructure”](https://www.infodocket.com/2026/11/25/new-report-from-open-knowledge-foundation-safeguarding-the-digital-future-recognizing-open-knowledge-systems-as-critical-digital-infrastructure/)
+
+via Library Jounral · 2026-11-25
+
+From the OKFN and Wikimedia Foundation: This resource was produced by the Open Knowledge Foundation (OKFN) and the Global Advocacy team from the Wikimedia Foundation (WMF) with the aim of influencing public policies around the globe. The policy report calls for governments to formally recognise, and protect eligible OKSs with CDI status.This resource was produced \[…\]
+
+The post [New Report From Open Knowledge Foundation and Wikimedia Foundation: “Safeguarding the Digital Future: Recognizing Open Knowledge Systems as Critical Digital Infrastructure”](https://www.infodocket.com/2026/11/25/new-report-from-open-knowledge-foundation-safeguarding-the-digital-future-recognizing-open-knowledge-systems-as-critical-digital-infrastructure/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).
 
 ## [CORE joins EOSC AIssistant to help build open, verifiable AI for research](https://blog.core.ac.uk/2026/11/25/core-joins-eosc-aissistant-to-help-build-open-verifiable-ai-for-research/)
 
@@ -54,7 +62,7 @@ The post [Be Thankful for What You’ve Got](https://scholarlykitchen.sspnet.org
 
 ## [Now Available Online: Proceedings of the Association for Library and Information Science Education (ALISE) Annual Conference, 2026](https://www.infodocket.com/2026/11/22/proceedings-of-the-association-for-library-and-information-science-education-alise-annual-conference-2026-now-available-online/)
 
-via Library Jounral · 2026-11-22
+via Library Jounral · 2026-11-22, updated 2026-11-25
 
 The Proceedings of the ALISE Annual Conference, 2026 are now available online. Juried Papers (41) A Survey of North American Librarians’ Perceptions of and Experience with Artificial IntelligenceWilhelm Peekhaus (University of Wisconsin-Milwaukee)PDF Dwelling in the Threshold: Productive Liminality in the Design of Inquiry in Libraries and ArchivesDr. Laurie Bonnici (University of Alabama); Rebekah Cowell (University \[…\]
 
@@ -62,7 +70,7 @@ The post [Now Available Online: Proceedings of the Association for Library and I
 
 ## [Research Tools: University of Richmond Distant Viewing Lab Releases DataReel, a New AI Tool for Film Research](https://www.infodocket.com/2026/11/21/research-tools-university-of-richmond-distant-viewing-lab-releases-datareel-a-new-ai-tool-for-film-research/)
 
-via Library Jounral · 2026-11-21, updated 2026-11-22
+via Library Jounral · 2026-11-21, updated 2026-11-25
 
 From the University of Richmond: University of Richmond’s Distant Viewing Lab has released DataReel, a new open access, AI-powered tool that helps researchers analyze films. DataReel uses AI models to automatically capture data from over 2,000 films, presenting it in an interactive, visual format. It measures descriptions of scenes, the characters onscreen, shot length, framing \[…\]
 
@@ -283,7 +291,7 @@ Workshop on Open Citations and Open Scholarly Metadata 2027 (WOOC 2027) 27–28 
 
 ## [Dr. Carla Hayden: “The Future of Libraries is About More Than Books”](https://www.infodocket.com/2026/11/19/dr-carla-hayden-the-future-of-libraries-is-about-more-than-books/)
 
-via Library Jounral · 2026-11-19, updated 2026-11-22
+via Library Jounral · 2026-11-19, updated 2026-11-25
 
 From a New Op/Ed by Dr. Carla Hayden on Time Magazine/Time.com: Historically, libraries have served as a crucial part of the cultural and civic infrastructure of the nation, responding to local needs and bringing the world to people of all ages. However, in many places today, libraries and library workers are under attack. These attacks \[…\]
 
@@ -419,7 +427,7 @@ The post [How a Town’s Forgotten History Helped Protect Its Drinking Water](ht
 
 ## [AI is Reshaping the Role of Academic Librarians; Elsevier Releases Librarian of the Future Report](https://www.infodocket.com/2026/11/17/ai-is-reshaping-the-role-of-academic-librarians-elsevier-releases-librarian-of-the-future-report/)
 
-via Library Jounral · 2026-11-17, updated 2026-11-22
+via Library Jounral · 2026-11-17, updated 2026-11-25
 
 From an Elsevier News Release: Today, Elsevier shares findings from its global Librarian of the Future research, revealing how artificial intelligence (AI) and changing research needs are reshaping the role of academic librarians. Drawing on insights from 1,100 academic librarians across 88 countries, alongside interviews with researchers and academic leaders, the report reveals a profession \[…\]
 
@@ -443,7 +451,7 @@ The post [ARL Daily Intelligence (November 16–19)](https://www.arl.org/daily-i
 
 ## [Report: “New Kickstarter Campaign Rethinks E-Book Ownership and Digital Lending”](https://www.infodocket.com/2026/11/16/report-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/)
 
-via Library Jounral · 2026-11-16, updated 2026-11-22
+via Library Jounral · 2026-11-16, updated 2026-11-25
 
 From TechCrunch: Here’s a big promise: A new Kickstarter campaign aims to usher in the “return of the human internet.” That’s the tagline of a crowdfunding campaign for The Phoenix Project, an initiative from the online culture and commentary magazine Flaming Hydra. If you back The Phoenix Project, you’re supporting three things — a one-off \[…\]
 
@@ -473,7 +481,7 @@ What NARA’s appraisal process reveals about the distance between deciding that
 
 ## [Report From Utah: Voters Just Ousted The Republican Representative Behind The State’s Sweeping School Book Ban Law](https://www.infodocket.com/2026/11/15/report-from-utah-voters-just-ousted-the-republican-representative-behind-the-states-sweeping-school-book-ban-law/)
 
-via Library Jounral · 2026-11-15, updated 2026-11-22
+via Library Jounral · 2026-11-15, updated 2026-11-25
 
 From The Salt Lake Tribune: The Republican representative behind Utah’s statewide school book ban law was ousted last week. Rep. Ken Ivory, R-West Jordan, lost his race against Democrat Drew Howells, who secured 58.11% of the vote as of Friday morning. Ivory received about 41.89%. He acknowledged the defeat in a recent Facebook post. Two \[…\]
 
@@ -481,7 +489,7 @@ The post [Report From Utah: Voters Just Ousted The Republican Representative Beh
 
 ## [Johns Hopkins University: Sheridan Libraries Launches New Digital Collections Site](https://www.infodocket.com/2026/11/14/johns-hopkins-university-sheridan-libraries-launches-new-digital-collections-site/)
 
-via Library Jounral · 2026-11-14, updated 2026-11-22
+via Library Jounral · 2026-11-14, updated 2026-11-25
 
 From JHSL: Now available at the click of a mouse: rare maps of Maryland dating as far back as the sixteenth century, the oral history of the Hopkins surgeon who implanted the first automatic defibrillator, records associated with Chinese indentured laborers in Cuba from 1855 to 1895, and much more. Johns Hopkins Sheridan Libraries is \[…\]
 
@@ -503,7 +511,7 @@ The post [Not About the Library](https://sr.ithaka.org/blog/not-about-the-librar
 
 ## [Schools, Health & Libraries Broadband (SHLB) Coalition Files Reply Comments Highlighting Overwhelming Support for E-Rate in FCC Record](https://www.infodocket.com/2026/11/13/schools-health-libraries-broadband-shlb-coalition-files-reply-comments-highlighting-overwhelming-support-for-e-rate-in-fcc-record/)
 
-via Library Jounral · 2026-11-13, updated 2026-11-22
+via Library Jounral · 2026-11-13, updated 2026-11-25
 
 Here’s the Full Text of a SHLB Statement Releases Today: The Schools, Health & Libraries Broadband (SHLB) Coalition filed reply comments with the Federal Communications Commission (FCC) in its review of the E-Rate program, pointing to the overwhelming support for E-Rate in the public record. SHLB’s filing notes that thousands of stakeholders submitted comments in \[…\]
 
@@ -557,7 +565,7 @@ The post [Digital Humanities Research Infrastructures: An Interview with Barbara
 
 ## [University Presses Unite as AI and Financial Pressures Threaten Scholarly Publishing (Launch of University Press Charter)](https://www.infodocket.com/2026/11/11/university-presses-unite-as-ai-and-financial-pressures-threaten-scholarly-publishing-launch-of-university-press-charter/)
 
-via Library Jounral · 2026-11-12, updated 2026-11-22
+via Library Jounral · 2026-11-12, updated 2026-11-25
 
 From a Joint Statement (Full Text): The University Press Charter unites university presses for the first time behind a commitment to shape a better future for scholarly publishing, at a time when trust, quality and public value-for-money are under threat. Launched during University Press Week (9-13 November), the Charter has been founded by seven university \[…\]
 

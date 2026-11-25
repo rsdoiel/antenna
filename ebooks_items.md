@@ -3,13 +3,8 @@ title: "eBooks"
 description: "New eBook releases."
 pubDate: Fri, 20 Nov 2026 17:17:24 GMT
 aggregateOf: "ebooks.md"
-<<<<<<< HEAD
-dateModified: Wed, 25 Nov 2026 14:48:24 GMT
+dateModified: Wed, 25 Nov 2026 16:14:57 GMT
 itemCount: 141
-=======
-dateModified: Tue, 24 Nov 2026 07:13:42 GMT
-itemCount: 154
->>>>>>> 2aa27f1fa329a54a7d89f65394edfc6bc2c85b3e
 generator: antenna/0.2.0
 ---
 

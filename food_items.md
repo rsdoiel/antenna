@@ -1,14 +1,38 @@
 ---
 title: "Healthy Eats"
 description: "Healthy eats and good eats, with recipes, cooking and food news."
-pubDate: Wed, 25 Nov 2026 14:14:10 GMT
+pubDate: Wed, 25 Nov 2026 16:23:40 GMT
 aggregateOf: "food.md"
-dateModified: Wed, 25 Nov 2026 14:47:20 GMT
-itemCount: 294
+dateModified: Wed, 25 Nov 2026 16:32:25 GMT
+itemCount: 297
 generator: antenna/0.2.0
 ---
 
 # Healthy Eats
+
+## [The Peruvian White Habanero Planting Guide](https://pepperscale.com/peruvian-white-habanero-planting/)
+
+via Pepper Scale · 2026-11-25
+
+How to grow Peruvian White habaneros: when to plant where you live, starting seeds, spacing, containers, watering, when to pick these creamy white habaneros, and common problems.
+
+## [Nam Jim Jaew (Jaew Sauce)](https://www.chilipeppermadness.com/recipes/nam-jim-jaew/)
+
+via Chili Pepper Madness · 2026-11-25
+
+[![A spoonful of Nam Jim Jaew (Thai Dipping Sauce) being served from the serving bowl](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Nam-Jim-Jaew-Recipe1-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/nam-jim-jaew/ "Nam Jim Jaew (Jaew Sauce)")
+
+Nam jim jaew is the Isan dipping sauce for grilled meats, made with fish sauce, lime, palm sugar, dried chilies and homemade toasted rice powder. Salty and sour first, heat third. Ready in 25 minutes.
+
+The post [Nam Jim Jaew (Jaew Sauce)](https://www.chilipeppermadness.com/recipes/nam-jim-jaew/) appeared first on [Chili Pepper Madness](https://www.chilipeppermadness.com).
+
+## [I Tried Ina Garten’s Ranch Dressing, and It Changed My Mind About Ranch](https://www.tasteofhome.com/article/ina-garten-ranch-dressing/)
+
+via Taste of Home · 2026-11-25
+
+I thought I knew exactly how I felt about ranch dressing. Then I made Ina's version.
+
+The post [I Tried Ina Garten’s Ranch Dressing, and It Changed My Mind About Ranch](https://www.tasteofhome.com/article/ina-garten-ranch-dressing/) appeared first on [Taste of Home](https://www.tasteofhome.com).
 
 ## [Seattle’s Barometer Coffee Sets Sail with Pressure-Free Local Delivery](https://dailycoffeenews.com/2026/11/25/seattles-barometer-coffee-sets-sail-with-pressure-free-local-delivery/)
 
@@ -34,7 +58,7 @@ Our giant sheet-pan chocolate almond croissant has a filling of frangipane and m
 
 ## [Black Friday Coffee Deals To Boggle The Mind](https://sprudge.com/black-friday-coffee-deals-to-boggle-the-mind-1673287.html)
 
-via The Sprudge · 2026-11-25, updated 2026-11-24
+via The Sprudge · 2026-11-25
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Dig into deep discounts on coffee and coffee gear.**
 
@@ -140,7 +164,7 @@ Welcome to Design Details, an ongoing editorial feature in Daily Coffee News foc
 
 ## [The Prairie Fire Pepper Planting Guide](https://pepperscale.com/prairie-fire-pepper-planting/)
 
-via Pepper Scale · 2026-11-24
+via Pepper Scale · 2026-11-24, updated 2026-11-25
 
 How to grow Prairie Fire peppers: when to plant where you live, starting seeds, spacing, pots and windowsills, watering, when to pick these colorful little peppers, and common problems.
 
@@ -154,7 +178,7 @@ The post [Free Drinks and a Boycott Truck: Starbucks Workers Try a New Playbook]
 
 ## [Children Of A Lesser Pod: Reddit Blows The Whistle On Alleged Nespresso Shrinkflation](https://sprudge.com/children-of-a-lesser-pod-reddit-blows-the-whistle-on-alleged-nespresso-shrinkflation-1640027.html)
 
-via The Sprudge · 2026-11-24
+via The Sprudge · 2026-11-24, updated 2026-11-25
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Nespresso is maybe putting less coffee in their pods, and people are definitely mad.**
 
@@ -204,13 +228,13 @@ Take advantage of early Black Friday sale pricing to get a great deal on a new V
 
 ## [The Biquinho Pepper Planting Guide](https://pepperscale.com/biquinho-pepper-planting/)
 
-via Pepper Scale · 2026-11-23, updated 2026-11-24
+via Pepper Scale · 2026-11-23, updated 2026-11-25
 
 How to grow biquinho peppers: when to plant where you live, starting seeds, spacing, containers, watering, when to pick these little Brazilian peppers, and common problems.
 
 ## [Accademia Del Caffè Espresso & Toddy Present “Hot VS Cold Conversations With Toddy”](https://sprudge.com/accademia-del-caffe-espresso-toddy-present-hot-vs-cold-conversations-with-toddy-1674671.html)
 
-via The Sprudge · 2026-11-23, updated 2026-11-24
+via The Sprudge · 2026-11-23, updated 2026-11-25
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A joint research project explores how brewing parameters influence caffeine extraction in cold brew, challenging common assumptions through scientific experimentation.**
 
@@ -242,7 +266,7 @@ Families who get high together…might actually be having more fun.
 
 ## [Lefty, A Left-Hand Spiral Of Stainless Steel That Reimagines Pour-Over Brewing, Makes Its Debut](https://sprudge.com/lefty-a-left-hand-spiral-of-stainless-steel-that-reimagines-pour-over-brewing-makes-its-debut-1674126.html)
 
-via The Sprudge · 2026-11-23, updated 2026-11-24
+via The Sprudge · 2026-11-23, updated 2026-11-25
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. The Lefty brewer is out now.**
 
@@ -254,13 +278,13 @@ You probably don’t need more than five pieces—and you definitely don’t nee
 
 ## [Holiday Gifts & Gesha Box Sets On The Coffee Sprudgecast](https://sprudge.com/holiday-gifts-gesha-box-sets-on-the-coffee-sprudgecast-1654057.html)
 
-via The Sprudge · 2026-11-23, updated 2026-11-24
+via The Sprudge · 2026-11-23, updated 2026-11-25
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. The Coffee Sprudgecast is out now.**
 
 ## [Here Are The Winners Of The Second 2027 US Barista Championship Qualifier](https://sprudge.com/here-are-the-winners-of-the-second-2027-us-barista-championship-qualifier-1647236.html)
 
-via The Sprudge · 2026-11-23, updated 2026-11-24
+via The Sprudge · 2026-11-23, updated 2026-11-25
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Congratulations to everyone moving on.**
 
@@ -300,7 +324,7 @@ Global investment firms Carlyle and Park Square Capital are acquiring the parent
 
 ## [White Bean Soup](https://www.chilipeppermadness.com/recipes/white-bean-soup/)
 
-via Chili Pepper Madness · 2026-11-23, updated 2026-11-24
+via Chili Pepper Madness · 2026-11-23, updated 2026-11-25
 
 [![A large bowl filled with creamy Tuscan style White Bean Soup, garnished with chili flakes](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/White-Bean-Soup-Recipe-BOWL1-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/white-bean-soup/ "White Bean Soup")
 
@@ -344,7 +368,7 @@ A cheffy detail helps pack a simple dish with flavor.
 
 ## [A Cornucopia Of Coffee To Be Thankful For](https://sprudge.com/a-cornucopia-of-coffee-to-be-thankful-for-1654212.html)
 
-via The Sprudge · 2026-11-22, updated 2026-11-24
+via The Sprudge · 2026-11-22, updated 2026-11-25
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster's Village.**
 
@@ -362,7 +386,7 @@ The post [Thanksgiving Side Dish Recipes](https://www.closetcooking.com/thanksgi
 
 ## [Aji de Gallina (Creamy Peruvian Chicken Stew)](https://www.chilipeppermadness.com/recipes/aji-de-gallina/)
 
-via Chili Pepper Madness · 2026-11-21, updated 2026-11-24
+via Chili Pepper Madness · 2026-11-21, updated 2026-11-25
 
 [![Aji de Gallina (Peruvian Chicken Stew) served in a bowl over rice, garnished with sliced hard boiled egg, sliced boiled potatoes, black olives, and parsley](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Aji-de-Gallina-Recipe2-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/aji-de-gallina/ "Aji de Gallina (Creamy Peruvian Chicken Stew)")
 
@@ -414,7 +438,7 @@ The post [This Egg Wash Secret Makes the Prettiest Pie Crusts Every Time](https:
 
 ## [SourceOS Brings the Fractional Model To Green Coffee Sourcing](https://sprudge.com/sourceos-brings-the-fractional-model-to-green-coffee-sourcing-1654778.html)
 
-via The Sprudge · 2026-11-20, updated 2026-11-24
+via The Sprudge · 2026-11-20, updated 2026-11-25
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Like a fractional CFO, SourceOS gives roasters a senior green buyer without a full-time hire.**
 
@@ -434,7 +458,7 @@ The post [The Secret to the Creamiest Mac and Cheese Comes in a Can](https://www
 
 ## [Tea Huntress’ Bestseller Gets Its Own Brand: Sarah Scarborough Launches Stardust Teas](https://sprudge.com/tea-huntress-bestseller-gets-its-own-brand-sarah-scarborough-launches-stardust-teas-1654474.html)
 
-via The Sprudge · 2026-11-20, updated 2026-11-24
+via The Sprudge · 2026-11-20, updated 2026-11-25
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. 30-year tea industry veteran introduces instant ritual beverage line featuring cult-favorite Moon Milk and sister product Sun Chai to make daily wellness effortless.**
 
@@ -542,7 +566,7 @@ The post [Which Thanksgiving Foods Belong in the Same Bite?](https://www.tasteof
 
 ## [Bad Bunny, Great Coffee: Brewing On Tour With The International Superstar](https://sprudge.com/bad-bunny-great-coffee-brewing-on-tour-with-the-international-superstar-1250962.html)
 
-via The Sprudge · 2026-11-19, updated 2026-11-24
+via The Sprudge · 2026-11-19, updated 2026-11-25
 
 **This article is from the coffee website [Sprudge](http://sprudge.com) at [http://sprudge.com](http://sprudge.com). This is the RSS feed version. Abner Roldan of Café Comunión on serving coffee at the Bad Bunny world tour.**
 
@@ -570,7 +594,7 @@ The post [HexClad Bakeware Review: This Set Is So Sturdy and Nonstick, I’m Dit
 
 ## [The Padrón Pepper Planting Guide](https://pepperscale.com/padron-pepper-planting/)
 
-via Pepper Scale · 2026-11-19, updated 2026-11-24
+via Pepper Scale · 2026-11-19, updated 2026-11-25
 
 When to start Padrón pepper seeds, when to plant them out, and when to pick them for blistering, with a zip code planner built on NOAA frost data.
 
@@ -612,7 +636,7 @@ The post [Arabica Market Falls to Its Lowest Since June](https://freshcup.com/ar
 
 ## [Yangnyeom Sauce (Korean Fried Chicken Sauce)](https://www.chilipeppermadness.com/recipes/yangnyeom-sauce/)
 
-via Chili Pepper Madness · 2026-11-19, updated 2026-11-24
+via Chili Pepper Madness · 2026-11-19, updated 2026-11-25
 
 [![A spoonful of dark and spicy Homemade Yangnyeom Sauce (Korean Fried Chicken Sauce) being scooped from a serving bowl](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Yangnyeom-Sauce-Recipe2b-Korean-Fried-Chicken-Sauce-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/yangnyeom-sauce/ "Yangnyeom Sauce (Korean Fried Chicken Sauce)")
 
@@ -796,7 +820,7 @@ Top chefs, Test Kitchen editors, and passionate home cooks gathered for an unfor
 
 ## [The World’s Chili Capitals: The Best Cities For Spicy Food](https://pepperscale.com/worlds-best-cities-for-spicy-food/)
 
-via Pepper Scale · 2026-11-17, updated 2026-11-24
+via Pepper Scale · 2026-11-17, updated 2026-11-25
 
 The best cities in the world for spicy food, from Chengdu to Nabeul to Espelette, sorted by local peppers, protected names, history, heritage listings and festivals.
 
@@ -874,7 +898,7 @@ San Francisco-based roaster-retailer Ritual Coffee opened a new cafe in the city
 
 ## [America’s Chili Capitals: The Best US Cities For Spicy Food](https://pepperscale.com/best-us-cities-for-spicy-food/)
 
-via Pepper Scale · 2026-11-17, updated 2026-11-24
+via Pepper Scale · 2026-11-17, updated 2026-11-25
 
 The best US cities for spicy food, sorted by the things we could check: a local pepper, how far back the tradition goes, official recognition, festivals and search data.
 
@@ -1194,7 +1218,7 @@ The post [Seeds of Change in Colombia’s Caldas Department](https://freshcup.co
 
 ## [The Fresno Pepper Planting Guide](https://pepperscale.com/fresno-pepper-planting/)
 
-via Pepper Scale · 2026-11-13, updated 2026-11-24
+via Pepper Scale · 2026-11-13, updated 2026-11-25
 
 How to grow Fresno peppers: when to start the seeds, when to plant out, spacing, containers, water and feeding, and when to pick, with a zip code planner and a U.S. season map.
 
@@ -1288,7 +1312,7 @@ Kansas City, Missouri-based specialty coffee group FairWave Specialty Coffee Col
 
 ## [Baked Sweet Potatoes (Perfect Every Time + Spicy Toppings)](https://www.chilipeppermadness.com/recipes/baked-sweet-potatoes/)
 
-via Chili Pepper Madness · 2026-11-12, updated 2026-11-24
+via Chili Pepper Madness · 2026-11-12, updated 2026-11-25
 
 [![A creamy hot sweet potato slit open, releasing steam](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Baked-Sweet-Potatoes-Recipe1b-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/baked-sweet-potatoes/ "Baked Sweet Potatoes (Perfect Every Time + Spicy Toppings)")
 
@@ -1322,7 +1346,7 @@ The post [Korean Braised Potatoes (Gamja Jorim)](https://www.closetcooking.com/k
 
 ## [The Trinidad Moruga Scorpion Planting Guide](https://pepperscale.com/trinidad-moruga-scorpion-planting/)
 
-via Pepper Scale · 2026-11-12, updated 2026-11-24
+via Pepper Scale · 2026-11-12, updated 2026-11-25
 
 When to start Trinidad Moruga Scorpion seeds, how to get them to sprout, when to plant out, and how to water, feed, pollinate and pick this slow super-hot, with a zip code planner.
 
@@ -1374,7 +1398,7 @@ The post [Walmart and Sam’s Club Just Dropped a Can’t-Miss Holiday Membershi
 
 ## [Cajun Turkey (Juicy, Injected & Oven-Roasted)](https://www.chilipeppermadness.com/recipes/cajun-turkey/)
 
-via Chili Pepper Madness · 2026-11-11, updated 2026-11-24
+via Chili Pepper Madness · 2026-11-11, updated 2026-11-25
 
 [![A roasted Cajun turkey on a serving platter, injected and rubbed with Cajun-spiced butter, ready to be carved](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Cajun-Turkey-Recipe1b-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/cajun-turkey/ "Cajun Turkey (Juicy, Injected & Oven-Roasted)")
 
@@ -1622,7 +1646,7 @@ The post [The Porte + Hall Holiday Collection Is Here—And It’s the Most Prac
 
 ## [Brabant Potatoes (New Orleans Garlic Butter Potatoes)](https://www.chilipeppermadness.com/recipes/brabant-potatoes/)
 
-via Chili Pepper Madness · 2026-11-09, updated 2026-11-24
+via Chili Pepper Madness · 2026-11-09, updated 2026-11-25
 
 [![New Orleans Brabant Potatoes served in a bowl, garnished with fresh parsley](https://www.chilipeppermadness.com/wp-content/uploads/2026/11/Brabant-Potatoes-Recipe-BOWL3-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/brabant-potatoes/ "Brabant Potatoes (New Orleans Garlic Butter Potatoes)")
 
@@ -1666,7 +1690,7 @@ The post [Chicken and Wild Rice Casserole](https://www.closetcooking.com/chicken
 
 ## [The Chinese 5-Color Pepper Planting Guide](https://pepperscale.com/chinese-5-color-pepper-planting/)
 
-via Pepper Scale · 2026-11-08, updated 2026-11-24
+via Pepper Scale · 2026-11-08, updated 2026-11-25
 
 When to start Chinese 5-color pepper seeds, when to plant them out, how to water, feed and pick them, and how to grow one in a pot, with a zip code planner.
 
@@ -1702,7 +1726,7 @@ The post [Thanksgiving Breakfast Recipes](https://www.closetcooking.com/thanksgi
 
 ## [The Red Savina Habanero Planting Guide](https://pepperscale.com/red-savina-habanero-planting/)
 
-via Pepper Scale · 2026-11-07, updated 2026-11-24
+via Pepper Scale · 2026-11-07, updated 2026-11-25
 
 When to start Red Savina habanero seeds, when to plant them out, how to water, feed and pick them, and how to grow one in a pot, with a zip code planner.
 
@@ -1832,7 +1856,7 @@ The post [Announcing the Winners of Our Pie-Palooza Recipe Contest](https://www.
 
 ## [Creamy Jalapeño Popper Mac and Cheese](https://www.chilipeppermadness.com/recipes/creamy-jalapeno-popper-mac-and-cheese/)
 
-via Chili Pepper Madness · 2026-11-06, updated 2026-11-24
+via Chili Pepper Madness · 2026-11-06, updated 2026-11-25
 
 [![Indulge in a bowl of Jalapeno Popper Mac and Cheese, featuring creamy macaroni and cheese generously topped with sliced jalapeños, chopped bacon, and fresh green onions. A spoon rests inside the bowl, while a dark cloth is partially visible in the background.](https://www.chilipeppermadness.com/wp-content/uploads/2026/09/Jalapeno-Popper-Mac-and-Cheese-Recipe-BOWL2-683x1024.jpg)](https://www.chilipeppermadness.com/recipes/creamy-jalapeno-popper-mac-and-cheese/ "Creamy Jalapeño Popper Mac and Cheese")
 

@@ -1,14 +1,44 @@
 ---
 title: "STEM"
 description: "Science and technology news and blogs."
-pubDate: Wed, 25 Nov 2026 14:07:00 GMT
+pubDate: Wed, 25 Nov 2026 16:21:04 GMT
 aggregateOf: "science_and_technology.md"
-dateModified: Wed, 25 Nov 2026 14:45:45 GMT
-itemCount: 391
+dateModified: Wed, 25 Nov 2026 16:31:06 GMT
+itemCount: 396
 generator: antenna/0.2.0
 ---
 
 # STEM
+
+## [Eye of the Sahara](https://www.nasa.gov/image-article/eye-of-the-sahara/)
+
+via NASA breaking news · 2026-11-25
+
+The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks \[…\]
+
+## [Scientists Discover Signs of Explosive Volcanic Eruptions 20,000 Feet Underwater—the Deepest Ever Found—in the Mariana Trench](https://www.smithsonianmag.com/smart-news/scientists-discover-signs-of-explosive-volcanic-eruptions-20000-feet-underwater-the-deepest-ever-found-in-the-mariana-trench-180989937/)
+
+via Smithsonian Magazine · 2026-11-25
+
+The discovery puzzles researchers because volcanic activity at that depth should produce a goopy, seeping flow due to the immense pressure. Nevertheless, they say they've found evidence of explosive volcanism, thanks to a remotely operated submersible
+
+## [NASA's nuclear-powered Mars delivery service takes shape](https://www.theregister.com/science/2026/11/25/nasas-nuclear-powered-mars-delivery-service-takes-shape/5312147)
+
+via The Register (UK I.T. News) · 2026-11-25
+
+SR-1 Freedom gets a shorter boom and larger antennas, with roughly two years to finish design, construction, and testing
+
+## [NASA’s Hubble Views Ocean of Stars in Groundwork for Roman](https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/)
+
+via NASA breaking news · 2026-11-25
+
+These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.
+
+## [Microsoft fixes Office dialog that had nothing to say and wouldn't go away](https://www.theregister.com/software/2026/11/25/microsoft-fixes-office-dialog-that-had-nothing-to-say-and-wouldnt-go-away/5312057)
+
+via The Register (UK I.T. News) · 2026-11-25
+
+Update resolves work-blocking popup, but affected users may need an administrator command prompt to install it
 
 ## [JetBrains finds agents may cheat with open source](https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999)
 
@@ -164,7 +194,7 @@ Nothing to see here…
 
 ## [Desktop Add-ons Spotlight: Identity Chooser Helps You Send From the Right Address](https://blog.thunderbird.net/2026/11/desktop-add-ons-spotlight-identity-chooser-helps-you-send-from-the-right-address/)
 
-via Thunderbird Pro · 2026-11-24
+via Thunderbird Pro · 2026-11-24, updated 2026-11-25
 
 This spotlight was created as a collaboration between the Thunderbird Team and the Thunderbird Council. Our new series is focused on something many Thunderbird users can’t do without: add-ons. Customizing your set up is a great way to boost your productivity and make managing your inboxes more manageable. So starting with this article, we’re going \[…\]
 
@@ -1272,7 +1302,7 @@ A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby s
 
 ## [Thundermail Q4 2026 recap: new features, your feedback, and what’s next](https://blog.thunderbird.net/2026/11/thundermail-q4-2026-recap-new-features-your-feedback-and-whats-next/)
 
-via Thunderbird Pro · 2026-11-17, updated 2026-11-24
+via Thunderbird Pro · 2026-11-17, updated 2026-11-25
 
 It has been quite a year. When we started welcoming our first Early Birds into Thundermail, we had a waitlist, a vision, and a lot of work ahead of us. Since then, thousands of you have joined, tested, filed ideas, and helped us shape what this service is becoming. The upcoming new year is a \[…\]
 
@@ -1918,7 +1948,7 @@ The scientists were conducting fieldwork on a remote beach in northwestern Alask
 
 ## [From Research to Prototype: Testing the New Desktop Settings](https://blog.thunderbird.net/2026/11/from-research-to-prototype-testing-the-new-desktop-settings/)
 
-via Thunderbird Pro · 2026-11-10, updated 2026-11-24
+via Thunderbird Pro · 2026-11-10, updated 2026-11-25
 
 In the last update, the team shared ongoing work around removing technical jargon and adopting plain language so everyone can navigate settings with ease. Those initial content refinements have rolled out into Thunderbird already (v160). Following those copy updates, the team ran research to evaluate how settings information is structured. Below is a breakdown of \[…\]
 

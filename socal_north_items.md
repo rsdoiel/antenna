@@ -1,14 +1,112 @@
 ---
 title: "SoCal North"
 description: "News and posts related to the greater North Los Angeles and adjacent counties.\n"
-pubDate: Wed, 25 Nov 2026 01:26:27 GMT
+pubDate: Wed, 25 Nov 2026 16:15:53 GMT
 aggregateOf: "socal_north.md"
-dateModified: Wed, 25 Nov 2026 14:30:22 GMT
-itemCount: 309
+dateModified: Wed, 25 Nov 2026 16:17:38 GMT
+itemCount: 319
 generator: antenna/0.2.0
 ---
 
 # SoCal North
+
+## [Public Comment Period on Whiteman Airport Study Open Until February](https://sanfernandosun.com/2026/11/25/public-comment-period-on-whiteman-airport-study-open-until-february/)
+
+via San Fernando Sun · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/02/View-recent-photos-e1707966402490.jpg?fit=576%2C1024&ssl=1)
+
+A full report by the Los Angeles County on Whiteman Airport was released Thursday, Nov. 19, and the public will have until early next year to provide their comments before \[…\]
+
+The post [Public Comment Period on Whiteman Airport Study Open Until February](https://sanfernandosun.com/2026/11/25/public-comment-period-on-whiteman-airport-study-open-until-february/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Hope the Mission Reopens the Iconic Original Pantry Cafe](https://sanfernandosun.com/2026/11/25/hope-the-mission-reopens-the-iconic-original-pantry-cafe/)
+
+via San Fernando Sun · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Copy-of-IMG_4203-scaled-e1795622912637.jpg?fit=1024%2C683&ssl=1)
+
+When the Original Pantry Cafe closed in March 2025 after 101 years in business, Angelenos grieved the loss of the beloved diner that was considered a cultural institution. However, what \[…\]
+
+The post [Hope the Mission Reopens the Iconic Original Pantry Cafe](https://sanfernandosun.com/2026/11/25/hope-the-mission-reopens-the-iconic-original-pantry-cafe/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Enjoy Thanksgiving Without the Food Coma: Simple Ways to Savor the Holiday](https://sanfernandosun.com/2026/11/25/enjoy-thanksgiving-without-the-food-coma-simple-ways-to-savor-the-holiday/)
+
+via San Fernando Sun · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Family-Eating-1.jpg?fit=1024%2C683&ssl=1)
+
+Thanksgiving is here, which means kitchens will be filled with the smell of roasted turkey, creamy mashed potatoes and pies that are almost impossible to resist. It’s a holiday centered \[…\]
+
+The post [Enjoy Thanksgiving Without the Food Coma: Simple Ways to Savor the Holiday](https://sanfernandosun.com/2026/11/25/enjoy-thanksgiving-without-the-food-coma-simple-ways-to-savor-the-holiday/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Screen-free Ways to Keep Kids Engaged Over Holiday Break](https://sanfernandosun.com/2026/11/25/screen-free-ways-to-keep-kids-engaged-over-holiday-break/)
+
+via San Fernando Sun · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/N1809P22001C.jpg?fit=1024%2C683&ssl=1)
+
+The holiday season is a time to reunite with family and friends. Late December also is a time for students to relax and recharge over the holiday break, which typically \[…\]
+
+The post [Screen-free Ways to Keep Kids Engaged Over Holiday Break](https://sanfernandosun.com/2026/11/25/screen-free-ways-to-keep-kids-engaged-over-holiday-break/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [GR818ERS’ Flava of the Year International Street Dance Festival](https://sanfernandosun.com/2026/11/25/gr818ers-flava-of-the-year-international-street-dance-festival/)
+
+via San Fernando Sun · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/920162130_18654225226018506_4047551326374150473_n-scaled-e1795622465301.jpg?fit=1024%2C879&ssl=1)
+
+The finals of the GR818ERS’ Flava of the Year International Street Dance Festival (FOTY) were held on Saturday, Nov. 21, in Van Nuys, where acclaimed talents busted their best moves \[…\]
+
+The post [GR818ERS’ Flava of the Year International Street Dance Festival](https://sanfernandosun.com/2026/11/25/gr818ers-flava-of-the-year-international-street-dance-festival/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Giving Thanks for the Latin Grammys, Students, Family and Friends](https://sanfernandosun.com/2026/11/25/giving-thanks-for-the-latin-grammys-students-family-and-friends/)
+
+via San Fernando Sun · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Latin-Grammys.jpg?fit=1024%2C768&ssl=1)
+
+Going into the holiday season, there are many blessings Sergio “Checo” Alonso is thankful for, including a very prestigious nod to his musical talents: the opportunity to perform at this \[…\]
+
+The post [Giving Thanks for the Latin Grammys, Students, Family and Friends](https://sanfernandosun.com/2026/11/25/giving-thanks-for-the-latin-grammys-students-family-and-friends/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Kurt Cabrera-Miller is Grateful for the Community of Sylmar](https://sanfernandosun.com/2026/11/25/kurt-cabrera-miller-is-grateful-for-the-community-of-sylmar/)
+
+via San Fernando Sun · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Kurt-e1795622147725.jpg?fit=1024%2C876&ssl=1)
+
+Kurt Cabrera-Miller appreciates living and working in a community he loves. As longtime president of the Sylmar Neighborhood Council, he is grateful for the community-wide strides that have been made. \[…\]
+
+The post [Kurt Cabrera-Miller is Grateful for the Community of Sylmar](https://sanfernandosun.com/2026/11/25/kurt-cabrera-miller-is-grateful-for-the-community-of-sylmar/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [The Gift of Connection: 5 Ways to Show Up for Older Loved Ones This Holiday Season](https://sanfernandosun.com/2026/11/25/the-gift-of-connection-5-ways-to-show-up-for-older-loved-ones-this-holiday-season/)
+
+via San Fernando Sun · 2026-11-25
+
+By Dr. Damanpreet Jamarai, Chief Medical Officer, UnitedHealthcare Medicare and Retirement of California The holidays have a way of bringing us back together. Between favorite traditions, shared meals and finding the \[…\]
+
+The post [The Gift of Connection: 5 Ways to Show Up for Older Loved Ones This Holiday Season](https://sanfernandosun.com/2026/11/25/the-gift-of-connection-5-ways-to-show-up-for-older-loved-ones-this-holiday-season/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [CSUN 41st Annual Powwow Brings SoCal American Indians Together](https://sanfernandosun.com/2026/11/25/csun-41st-annual-powwow-brings-socal-american-indians-together/)
+
+via San Fernando Sun · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20251130-dh-powow-40th-011-copy-1024x1024-1.jpg?fit=1024%2C1024&ssl=1)
+
+California State University, Northridge’s 41st annual Powwow returns to campus on Saturday, Nov. 28, in celebration of the American Indian communities of Los Angeles County and throughout Southern California. This \[…\]
+
+The post [CSUN 41st Annual Powwow Brings SoCal American Indians Together](https://sanfernandosun.com/2026/11/25/csun-41st-annual-powwow-brings-socal-american-indians-together/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [From Every Walk of Life, They Came to Celebrate the Life of Dolores Huerta](https://sanfernandosun.com/2026/11/25/from-every-walk-of-life-they-came-to-celebrate-the-life-of-dolores-huerta/)
+
+via San Fernando Sun · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/914682087_1856397966130269_5589681833097328535_n-e1795621736248.jpg?fit=1024%2C657&ssl=1)
+
+Thousands filled the Dignity Health Arena in Bakersfield for a day-long tribute and Celebration of Life for Dolores Huerta on Friday, Nov. 20.  The iconic civil rights leader co-founded the \[…\]
+
+The post [From Every Walk of Life, They Came to Celebrate the Life of Dolores Huerta](https://sanfernandosun.com/2026/11/25/from-every-walk-of-life-they-came-to-celebrate-the-life-of-dolores-huerta/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
 
 ## [City to Celebrate Ribbon Cutting of New SCVTV Studio](https://santaclarita.gov/blog/2026/11/24/city-to-celebrate-ribbon-cutting-of-new-scvtv-studio/)
 

@@ -1,14 +1,30 @@
 ---
 title: "Urban Farm"
 description: "Home, garden and urban farm blogs and news."
-pubDate: Wed, 25 Nov 2026 01:04:58 GMT
+pubDate: Wed, 25 Nov 2026 16:15:04 GMT
 aggregateOf: "home.md"
-dateModified: Wed, 25 Nov 2026 14:47:09 GMT
-itemCount: 389
+dateModified: Wed, 25 Nov 2026 16:32:14 GMT
+itemCount: 391
 generator: antenna/0.2.0
 ---
 
 # Urban Farm
+
+## [This DIY Coffee Station Can Be Built Using Only Scrap Wood](https://www.familyhandyman.com/project/coffee-station-scrap-build/)
+
+via Family Handyman Blog · 2026-11-25
+
+Clear the counter clutter and fuel your mornings with a scrap-wood coffee station that has a spot for everything.
+
+The post [This DIY Coffee Station Can Be Built Using Only Scrap Wood](https://www.familyhandyman.com/project/coffee-station-scrap-build/) appeared first on [Family Handyman](https://www.familyhandyman.com).
+
+## [Has That Final Destination Truck Scene Ever Actually Happened in Real Life?](https://www.familyhandyman.com/article/has-that-final-destination-truck-scene-ever-actually-happened-in-real-life/)
+
+via Family Handyman Blog · 2026-11-25
+
+Here's what real-world crash data actually says about the likelihood of a Final Destination truck scene.
+
+The post [Has That Final Destination Truck Scene Ever Actually Happened in Real Life?](https://www.familyhandyman.com/article/has-that-final-destination-truck-scene-ever-actually-happened-in-real-life/) appeared first on [Family Handyman](https://www.familyhandyman.com).
 
 ## [The Most Surprising Things Chefs Serve for Thanksgiving](https://sunset.com/food-wine/surprising-thanksgiving-dishes)
 
@@ -148,7 +164,7 @@ The post [What Most New York Homeowners Don’t Know About Stink Bugs in Winter]
 
 ## [Waymo Is Banned From California Freeways, For Now — Here’s Why](https://www.familyhandyman.com/article/california-bans-waymos-freeway/)
 
-via Family Handyman Blog · 2026-11-24
+via Family Handyman Blog · 2026-11-24, updated 2026-11-25
 
 California banned Waymo from freeways after a series of safety incidents. Here's why regulators stepped in and what it means for riders.
 
@@ -156,7 +172,7 @@ The post [Waymo Is Banned From California Freeways, For Now — Here’s Why](ht
 
 ## [This Christmas Chimney Decor Is Cute—But Is It Dangerous? Experts Weigh In](https://www.familyhandyman.com/article/christmas-chimney-hack-safe/)
 
-via Family Handyman Blog · 2026-11-24
+via Family Handyman Blog · 2026-11-24, updated 2026-11-25
 
 This DIY Santa chimney decoration looks festive, but cardboard, winter weather, and fireplace heat can create serious safety concerns.
 
@@ -170,7 +186,7 @@ Discover the best holiday light displays at botanical gardens, arboretums, and o
 
 ## [Is Heat Escaping Your House? A RISION Thermal Imaging Camera Can Help](https://www.familyhandyman.com/article/rision-thermal-imaging-camera/)
 
-via Family Handyman Blog · 2026-11-24
+via Family Handyman Blog · 2026-11-24, updated 2026-11-25
 
 Drafty windows, cold walls and rising heating bills? The RISION Magic Series helps you spot potential trouble areas before they become expensive problems.
 
@@ -690,7 +706,7 @@ The post [What Those Creepy Larvae Crawling Around Colorado Bathroom Drains Actu
 
 ## [Jonathan Scott’s Trick for Making a Fake Christmas Tree Look Real Is Brilliant](https://www.familyhandyman.com/article/jonathan-scott-christmas-decor-hacks/)
 
-via Family Handyman Blog · 2026-11-20, updated 2026-11-24
+via Family Handyman Blog · 2026-11-20, updated 2026-11-25
 
 Learn Jonathan Scott's Christmas decor hacks for a fuller-looking tree, fresh holiday displays, and decorations that are easier to store.
 
@@ -930,7 +946,7 @@ The post [Mounting a Comeback](https://www.cnps.org/flora-magazine/mount-lassen-
 
 ## [You Can Actually Repair a House in GTA6—But How Realistic Is It?](https://www.familyhandyman.com/article/gta6-home-improvement-jobs/)
 
-via Family Handyman Blog · 2026-11-19, updated 2026-11-24
+via Family Handyman Blog · 2026-11-19, updated 2026-11-25
 
 GTA6 let's you take a break from a life of crime to make some much-needed home repairs on Jason and Lucia's house.
 
@@ -938,7 +954,7 @@ The post [You Can Actually Repair a House in GTA6—But How Realistic Is It?](ht
 
 ## [If You See a Taco Bell With THIS On It, Here’s What It Means](https://www.familyhandyman.com/article/taco-bell-open-metal-frame/)
 
-via Family Handyman Blog · 2026-11-19, updated 2026-11-24
+via Family Handyman Blog · 2026-11-19, updated 2026-11-25
 
 The open metal frame on some new Taco Bell buildings looks unfinished, but it's intentional. Here's how it fits into the Kitchen X design.
 
@@ -954,7 +970,7 @@ The post [Natural Wonders](https://www.cnps.org/flora-magazine/sensitive-natural
 
 ## [What Actually Happens When Semi-Trucks Stop at Weigh Stations?](https://www.familyhandyman.com/article/truck-stop-weigh-stations/)
 
-via Family Handyman Blog · 2026-11-19, updated 2026-11-24
+via Family Handyman Blog · 2026-11-19, updated 2026-11-25
 
 Truck weigh stations check more than weight. Learn how the process works, what inspectors look for, and why some trucks drive past.
 
@@ -970,7 +986,7 @@ The post [What Actually Happens When Semi-Trucks Stop at Weigh Stations?](https:
 
 ## [The Safest Way to Shovel Snow, According to Experts](https://www.familyhandyman.com/article/shovel-snow-safely/)
 
-via Family Handyman Blog · 2026-11-19, updated 2026-11-24
+via Family Handyman Blog · 2026-11-19, updated 2026-11-25
 
 Avoid injury with these expert-backed snow shoveling safety tips.
 
@@ -978,7 +994,7 @@ The post [The Safest Way to Shovel Snow, According to Experts](https://www.famil
 
 ## [7 Surfaces You Should Never Use Ice Melt On](https://www.familyhandyman.com/article/surfaces-melting-salt/)
 
-via Family Handyman Blog · 2026-11-19, updated 2026-11-24
+via Family Handyman Blog · 2026-11-19, updated 2026-11-25
 
 Avoid damaging salt-sensitive outdoor surfaces with these expert-backed suggestions.
 
@@ -1140,7 +1156,7 @@ The post [How to Acclimate Plants for Winter Indoors](https://gardenerspath.com/
 
 ## [The Reason Some Parking Lots Have Angled Spaces Instead of Straight Ones](https://www.familyhandyman.com/article/parking-lots-angled-spaces/)
 
-via Family Handyman Blog · 2026-11-18, updated 2026-11-24
+via Family Handyman Blog · 2026-11-18, updated 2026-11-25
 
 Diagonal parking spaces can make parking easier, but there's a trade-off. Learn why lots use them and how they affect traffic flow and safety.
 
@@ -1312,7 +1328,7 @@ The post [10 Fisher Secrets Most Maine Residents Never Knew](https://ownyardlife
 
 ## [18 Kitchen Hacks Our Readers Swear By](https://www.familyhandyman.com/list/kitchen-hacks-from-homeowners/)
 
-via Family Handyman Blog · 2026-11-17, updated 2026-11-24
+via Family Handyman Blog · 2026-11-17, updated 2026-11-25
 
 Readers share smart solutions for everyday problems in the heart of your home.
 
@@ -1328,7 +1344,7 @@ The post [Why Is My Christmas Cactus Turning Yellow?](https://gardenerspath.com/
 
 ## [What It Really Means When Your Mayor Awards Someone the “Key to the City”](https://www.familyhandyman.com/article/key-to-the-city/)
 
-via Family Handyman Blog · 2026-11-17, updated 2026-11-24
+via Family Handyman Blog · 2026-11-17, updated 2026-11-25
 
 What does a key to the city actually do? Learn how the tradition began, who receives the honor, and whether the key opens anything.
 
@@ -1366,7 +1382,7 @@ We asked professional chefs what they would never serve at Thanksgiving. They di
 
 ## [Electrical Tape Color Meanings: What Each Color Tells Electricians](https://www.familyhandyman.com/article/electrical-tape-color-meaning/)
 
-via Family Handyman Blog · 2026-11-17, updated 2026-11-24
+via Family Handyman Blog · 2026-11-17, updated 2026-11-25
 
 From black and red to white and green, learn what electrical tape colors mean, how electricians use them, and when colors can mislead.
 
@@ -1512,7 +1528,7 @@ The post [10 Black Widow Secrets Most Texas Residents Never Discover](https://ow
 
 ## [How to Shovel the Trickiest Surfaces the Right Way, From Pavers to Your Roof](https://www.familyhandyman.com/list/how-to-shovel-the-trickiest-surfaces-the-right-way-from-pavers-to-your-roof/)
 
-via Family Handyman Blog · 2026-11-16, updated 2026-11-24
+via Family Handyman Blog · 2026-11-16, updated 2026-11-25
 
 From lawns to sealed concrete, you might be surprised at how much damage a snow shovel can do.
 
@@ -1890,7 +1906,7 @@ The post [How to Prepare Your Trees For Winter](https://gardenerspath.com/plants
 
 ## [Before or After the Snow? Here’s the Right Time to Salt Your Driveway This Winter](https://www.familyhandyman.com/article/when-to-ice-your-driveway/)
 
-via Family Handyman Blog · 2026-11-13, updated 2026-11-24
+via Family Handyman Blog · 2026-11-13, updated 2026-11-25
 
 Salt your driveway like a pro this winter with these expert-backed tips.
 
@@ -1904,7 +1920,7 @@ Veterans Day on November 11 means free national parks entry, just in time for fa
 
 ## [Recurring Plumbing Problems? The SANYIPACE S830ASMKT Sewer Camera Can Help](https://www.familyhandyman.com/article/sanyipace-s830asmkt-sewer-camera/)
 
-via Family Handyman Blog · 2026-11-13, updated 2026-11-24
+via Family Handyman Blog · 2026-11-13, updated 2026-11-25
 
 Take a closer look at this professional-grade sewer camera designed to make pipe inspections easier and more efficient.
 
@@ -2032,7 +2048,7 @@ The post [Enjoy Old-Fashioned Farm Fun at Sunflower Pumpkin Patch](https://calif
 
 ## [The Different Police Sirens You Hear Aren’t Totally Random — Here’s What They Mean](https://www.familyhandyman.com/article/police-siren-sounds/)
 
-via Family Handyman Blog · 2026-11-12, updated 2026-11-24
+via Family Handyman Blog · 2026-11-12, updated 2026-11-25
 
 Police cars use wails, yelps, and other siren tones to alert drivers. Learn what the sounds mean, when officers use them, and how to respond.
 
@@ -2072,7 +2088,7 @@ The post [Learn How to Grow and Care for Cedar Trees](https://gardenerspath.com/
 
 ## [Can You Really Turn Your Riding Lawnmower Into a Snow Plow?](https://www.familyhandyman.com/article/riding-lawnmower-snow-plow/)
 
-via Family Handyman Blog · 2026-11-12, updated 2026-11-24
+via Family Handyman Blog · 2026-11-12, updated 2026-11-25
 
 Your riding lawnmower can do double duty this winter by adding a snow plow. Here’s what you need to know before adding a plow to your riding mower.
 
@@ -2080,7 +2096,7 @@ The post [Can You Really Turn Your Riding Lawnmower Into a Snow Plow?](https://w
 
 ## [Yard Eyesores That Ruin Your Curb Appeal](https://www.familyhandyman.com/article/eyesores-in-yards/)
 
-via Family Handyman Blog · 2026-11-12, updated 2026-11-24
+via Family Handyman Blog · 2026-11-12, updated 2026-11-25
 
 Realtors weigh in on these common yard eyesores that can hurt curb appeal and make a home look less than its best.
 
@@ -2088,7 +2104,7 @@ The post [Yard Eyesores That Ruin Your Curb Appeal](https://www.familyhandyman.c
 
 ## [What Should You Do With Pumpkins After Halloween?](https://www.familyhandyman.com/article/pumpkins-after-halloween/)
 
-via Family Handyman Blog · 2026-11-12, updated 2026-11-24
+via Family Handyman Blog · 2026-11-12, updated 2026-11-25
 
 Should you compost pumpkins after Halloween, toss them in the trash or leave them out for wildlife? Experts explain the options.
 
@@ -2408,7 +2424,7 @@ The post [10 Water Moccasin Secrets Most Georgia Residents Never Knew](https://o
 
 ## [Elon Musk Is Pulling the Plug on Cybertrucks to Focus on Something New](https://www.familyhandyman.com/article/cybertruck-production-cybercab/)
 
-via Family Handyman Blog · 2026-11-10, updated 2026-11-24
+via Family Handyman Blog · 2026-11-10, updated 2026-11-25
 
 Elon Musk says Tesla will wind down Cybertruck production to focus on Cybercab. Here's what the decision means for owners and future buyers.
 
@@ -2550,7 +2566,7 @@ The post [10 Water Moccasin Secrets Most Alabama Residents Never Knew](https://o
 
 ## [What Those Little Holes in Your Plug Prongs Are Actually For](https://www.familyhandyman.com/article/holes-electrical-plug-prongs/)
 
-via Family Handyman Blog · 2026-11-09, updated 2026-11-24
+via Family Handyman Blog · 2026-11-09, updated 2026-11-25
 
 The holes in electrical plug prongs once helped keep plugs in outlets. Find out what they're used for now and whether they're required.
 
@@ -2960,7 +2976,7 @@ The post [Why Is My Christmas Cactus Turning Purple?](https://gardenerspath.com/
 
 ## [8 Reasons a Contractor Might Give You an Outrageously High Estimate](https://www.familyhandyman.com/list/why-contractor-gave-high-quote/)
 
-via Family Handyman Blog · 2026-11-06, updated 2026-11-24
+via Family Handyman Blog · 2026-11-06, updated 2026-11-25
 
 If you just got a quote for a home repair that made your eyes water, there's probably a reason it's so high. A team of contractors weighs in with possible explanations.
 
@@ -2968,7 +2984,7 @@ The post [8 Reasons a Contractor Might Give You an Outrageously High Estimate](h
 
 ## [I Thought Multi-Tools Were a Gimmick — Then I Took One on a Camping Trip](https://www.familyhandyman.com/article/leatherman-wave-plus-multi-tool/)
 
-via Family Handyman Blog · 2026-11-06, updated 2026-11-24
+via Family Handyman Blog · 2026-11-06, updated 2026-11-25
 
 If, like me, you think multi-tools are gimmicky gadgets, you might change your mind once you discover how handy they are when your toolbox isn’t within reach.
 
@@ -2976,7 +2992,7 @@ The post [I Thought Multi-Tools Were a Gimmick — Then I Took One on a Camping 
 
 ## [Our Favorite Home Deals Before Black Friday Even Starts (More Deals Just Added!)](https://www.familyhandyman.com/list/black-friday-2026/)
 
-via Family Handyman Blog · 2026-11-06, updated 2026-11-24
+via Family Handyman Blog · 2026-11-06, updated 2026-11-25
 
 Score big savings on tools, furniture and home essentials before Black Friday officially starts.
 
@@ -3098,7 +3114,7 @@ The post [Why Do I See Hair-Like Roots on My Christmas Cactus?](https://gardener
 
 ## [Your Level Might Be the Wrong Size, and It Could Be Throwing Off Your Work](https://www.familyhandyman.com/article/level-size-accurate-leveling/)
 
-via Family Handyman Blog · 2026-11-05, updated 2026-11-24
+via Family Handyman Blog · 2026-11-05, updated 2026-11-25
 
 Find out what size level works best for shelves, cabinets, and framing, plus how much contact it needs and when overhang is okay.
 
@@ -3106,7 +3122,7 @@ The post [Your Level Might Be the Wrong Size, and It Could Be Throwing Off Your 
 
 ## [Tool Trials: Putting Ridgid’s Cordless Crown Stapler To the Test](https://www.familyhandyman.com/article/tool-trials-crown-stapler/)
 
-via Family Handyman Blog · 2026-11-05, updated 2026-11-24
+via Family Handyman Blog · 2026-11-05, updated 2026-11-25
 
 Is a cordless stapler a real upgrade, or just a nice-to-have? I put one to the test to find out.
 
@@ -3220,7 +3236,7 @@ The post [10 Remarkable Facts About Wolves That Many Minnesota Residents Have Ne
 
 ## [Winter Storm Watch vs. Winter Storm Warning: What’s the Difference?](https://www.familyhandyman.com/article/winter-storm-watch-warning/)
 
-via Family Handyman Blog · 2026-11-04, updated 2026-11-24
+via Family Handyman Blog · 2026-11-04, updated 2026-11-25
 
 Learn the difference between a winter storm watch and winter storm warning, when each alert is issued, and how homeowners should prepare.
 

@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>23 Nov 26 23:41 -0800</dateCreated>
+        <dateCreated>25 Nov 26 08:30 -0800</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -62,6 +62,7 @@
         <outline text="Chaos Computer Club News" type="atom" xmlUrl="https://media.ccc.de/news.atom" htmlUrl="https://media.ccc.de/news.atom" url="https://media.ccc.de/news.atom"></outline>
         <outline text="Chaos Computer Club Updates" type="atom" xmlUrl="https://www.ccc.de/de/rss/updates.xml" htmlUrl="https://www.ccc.de,https://www.ccc.de/rss/updates.xml" url="https://www.ccc.de/rss/updates.xml"></outline>
         <outline text="Charlie Hardie blog" type="rss" xmlUrl="https://tech.chrishardie.com/feed/" htmlUrl="https://tech.chrishardie.com/,https://tech.chrishardie.com/feed/" description="WordPress and Laravel tips, code examples, hardware and software reviews, APIs and integrations, and more" url="https://tech.chrishardie.com/feed/"></outline>
+        <outline text="Chatham House News Releases" type="rss" xmlUrl="https://www.chathamhouse.org/path/news-releases.xml" htmlUrl="https://www.chathamhouse.org/"></outline>
         <outline text="Chris Heilmann&#39;s blog" type="rss" xmlUrl="https://christianheilmann.com/feed/" htmlUrl="https://christianheilmann.com,https://christianheilmann.com/feed/" description="For a better web with more professional jobs - can talk, will travel" url="https://christianheilmann.com/feed/"></outline>
         <outline text="Citation Needed News" type="rss" xmlUrl="https://www.citationneeded.news/rss/" htmlUrl="https://www.citationneeded.news/,https://www.citationneeded.news/rss/" description="A critical look at the cryptocurrency industry and the broader technology world." url="https://www.citationneeded.news/rss/"></outline>
         <outline text="Claire Berlinski, Substack (Cosmopolitan Globalist)" type="rss" xmlUrl="https://claireberlinski.substack.com/feed" htmlUrl="https://claireberlinski.substack.com,https://claireberlinski.substack.com/feed" description="Edited by essayist Claire Berlinski, this is Substack&#39;s top forum for the discussion of international news among readers and writers, around the world, who are concerned about the future of liberal democracy and the gathering storm of global war." url="https://claireberlinski.substack.com/feed"></outline>
@@ -87,7 +88,7 @@
         <outline text="Dani Smart Blog" type="rss" xmlUrl="https://danismart.substack.com/feed" htmlUrl="https://danismart.substack.com,https://danismart.substack.com/feed" description="Chewing the cud, so to speak, about my experience in this crazy world." url="https://danismart.substack.com/feed"></outline>
         <outline text="Daniel Barkhuff, Substack" type="rss" xmlUrl="https://dbarkhuff.substack.com/feed" htmlUrl="https://dbarkhuff.substack.com,https://dbarkhuff.substack.com/feed" description="Husband, Dad, Emergency Medicine physician, Veteran." url="https://dbarkhuff.substack.com/feed"></outline>
         <outline text="Daniel Stenberg Blog" type="rss" xmlUrl="https://daniel.haxx.se/blog/feed/" htmlUrl="https://daniel.haxx.se/blog,https://daniel.haxx.se/blog/feed/" description="curl, open source and networking" url="https://daniel.haxx.se/blog/feed/"></outline>
-        <outline text="Daring Fireball" type="atom" xmlUrl="https://daringfireball.net/feeds/main" htmlUrl="https://daringfireball.net/,https://daringfireball.net/feeds/main" description="By John Gruber" url="https://daringfireball.net/feeds/main"></outline>
+        <outline text="Daring Fireball" type="rss" xmlUrl="https://daringfireball.net/feeds/main" htmlUrl="https://daringfireball.net/" description="Mac and web curmudgeonry/nerdery. By John Gruber."></outline>
         <outline text="Dave Jarvis&#39; Blog" type="rss" xmlUrl="https://dave.autonoma.ca/dave/news/blog.rss" htmlUrl="https://dave.autonoma.ca,https://dave.autonoma.ca/dave/news/blog.rss" description="Practical software development" url="https://dave.autonoma.ca/dave/news/blog.rss"></outline>
         <outline text="Dave Karpf&#39;s blog" type="rss" xmlUrl="https://davekarpf.substack.com/feed" htmlUrl="https://davekarpf.substack.com,https://davekarpf.substack.com/feed" description="A newsletter that mixes insights from the history of the digital future (#WIREDarchive) with observations and rants about the state of politics today. Basically a blog for your inbox." url="https://davekarpf.substack.com/feed"></outline>
         <outline text="Dave Rupert blog" type="rss" xmlUrl="https://daverupert.com/atom.xml" htmlUrl="https://daverupert.com,https://daverupert.com/atom.xml" description="The personal blog of Dave Rupert, web developer and podcaster from Austin, TX." url="https://daverupert.com/atom.xml"></outline>
