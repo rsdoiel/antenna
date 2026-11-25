@@ -1,14 +1,28 @@
 ---
 title: "Retro"
 description: "Computer history and vintage systems."
-pubDate: Sun, 22 Nov 2026 20:00:05 GMT
+pubDate: Tue, 24 Nov 2026 21:27:04 GMT
 aggregateOf: "retro_computing.md"
-dateModified: Tue, 24 Nov 2026 06:47:35 GMT
-itemCount: 50
+dateModified: Wed, 25 Nov 2026 14:46:25 GMT
+itemCount: 49
 generator: antenna/0.2.0
 ---
 
 # Retro
+
+## [Blogger broke the lightbox](https://oldvcr.blogspot.com/2026/11/blogger-broke-lightbox.html)
+
+via Old Ventage Computing Research · 2026-11-24
+
+_\[UPDATE: This has been [reported to Google](https://support.google.com/blogger/thread/478947697/image-lightbox-not-working) and now appears to be fixed.\]_
+
+Some regular readers have alerted me to the fact that the Blogger lightbox for images isn't working. This is a photo-heavy blog, so that's a problem. Although I use a lightly modified basic theme, I did a test post with a current theme and it still didn't work, on Edge, Firefox, Safari and Chrome, so I don't think it's something I did. The offender appears to be, in the minified JS, a couple instances of things like `var Zp={}.getUniqueId("photofactoryservice");` which is of course nonsense because you can't get blood a function from a turnip empty object and I don't see an obvious proto that would provide it. I also looked at a few other blogs and they seem to be similarly affected, so I think this is global and the whole thing feels like a flubbed deploy that didn't get enough testing. In the meantime, you can right click on an image and open it in a new tab to see the larger version, or you can use the mobile view (append `?m=1` to the URL) which doesn't use the lightbox at all. Happy Thanksgiving, I guess.
+
+## [Site Reader](https://www.c64os.com/post/sitereader)
+
+via C64 OS Blog · 2026-11-24
+
+![](https://s3.amazonaws.com/com.c64os.resources/weblog/sitereader/icon-sitereader.jpg) The web is a tough nut to crack for a Commodore 64. Back in the late 90s Maurice Randall from Click Here Software1 worked on a native C64 web browser called "The Wave." It required a SuperCPU with SuperRAM, so exactly how native to the C64 it really was can be disputed. But it was certainly an ambitious undertaking. Despite having the 20MHz 65816 SuperCPU to work with, plus up to 16MB of SuperRAM, it is my contention that this was always a fool's errand. The SuperCPU, in one fell swoop, made a C64 run 20X faster than the original, and gave the CPU (more or less) direct access to 256 times the amount of RAM in a stock C64. This is an impressive leap in relative terms. Rarely does any computing platform—in one step or one year—increase in raw computational power by such an extraordinary factor. But PC and Mac computers were continually doubling in power period-over-period, and the web was correspondingly undergoing a tremendous increase in complexity. As fraught as this is, let's try. . .
 
 ## [b.log 2026/11/22 - Windy and rainy, Tea v0.04.](https://heyrick.eu/blog/entry/20261122)
 
@@ -72,13 +86,13 @@ This is my story about a first and a second version of KB-9 or, as it is officia
 
 ## [System76 Announces the New Thelio Prime Desktop](http://www.linux-magazine.com/Online/News/System76-Announces-the-New-Thelio-Prime-Desktop)
 
-via Linux Magazine · 2026-11-19, updated 2026-11-24
+via Linux Magazine · 2026-11-19, updated 2026-11-25
 
 The makers of the Thelio desktop line and Pop!\_OS have released a powerful small form factor PC.
 
 ## [A Must See KDE Documentary](http://www.linux-magazine.com/Online/News/A-Must-See-KDE-Documentary)
 
-via Linux Magazine · 2026-11-18, updated 2026-11-24
+via Linux Magazine · 2026-11-18, updated 2026-11-25
 
 It doesn't matter what desktop environment you prefer, this KDE documentary should top your list of things to watch.
 
@@ -150,7 +164,7 @@ Jitters.
 
 ## [New KORA Linux Distro to Harness the Power of Local AI](http://www.linux-magazine.com/Online/News/New-KORA-Linux-Distro-to-Harness-the-Power-of-Local-AI)
 
-via Linux Magazine · 2026-11-12, updated 2026-11-24
+via Linux Magazine · 2026-11-12, updated 2026-11-25
 
 The development team behind CyanogenMod, Android, and Playtron unveils KORA, a Linux distribution built specifically for AI nerds.
 
@@ -180,7 +194,7 @@ If you were inspired by the recent London Show (or looking to catch-up on what y
 
 ## [Epic Games Targets Linux for New Launcher](http://www.linux-magazine.com/Online/News/Epic-Games-Targets-Linux-for-New-Launcher)
 
-via Linux Magazine · 2026-11-11, updated 2026-11-24
+via Linux Magazine · 2026-11-11, updated 2026-11-25
 
 The Epic Games new launcher is still in preview, but it looks to land on several Linux distributions.
 
@@ -471,7 +485,7 @@ This article tells part of the story of Warren Spector. A slight shift of focus,
 
 ## [Fedora 45 Now Available](http://www.linux-magazine.com/Online/News/Fedora-45-Now-Available)
 
-via Linux Magazine · 2026-11-05, updated 2026-11-24
+via Linux Magazine · 2026-11-05, updated 2026-11-25
 
 The latest iteration of Fedora has arrived with Gnome 51 and KDE Plasma 6.8.
 
@@ -486,22 +500,4 @@ WROCC's November speaker was Chris Hughes looking at package managers for RISC O
 via Richard Murray's blog · 2026-11-04, updated 2026-11-22
 
 Close, but no cigar, BabyBASIC.
-
-## [Linux 7.4 is "Much Healthier" Thanks to AI](http://www.linux-magazine.com/Online/News/Linux-7.4-is-Much-Healthier-Thanks-to-AI)
-
-via Linux Magazine · 2026-11-03, updated 2026-11-24
-
-At nearly 42 million lines, Linux 7.4 is the largest merge in the kernel’s history.
-
-## [MCS Alpha 1 and Beta 8](http://retro.hansotten.nl/mcs-alpha-1-and-beta-8/)
-
-via Hans Otten's Retro blog · 2026-11-03, updated 2026-11-20
-
-I acquired (again) a MCS Alpha 1. The KIM-1 alike 6502 development system in a case, ready to run. With the processor card on top. First time I had one was in 1979, for a review in the magazine Radio Bulletin. Second time around 2000, sold as part of the big cleanup. And now the \[…\]
-
-## [Drag'n'Drop 16i1 edition reviewed](http://www.iconbar.com/comments/rss/news2418.html)
-
-via Icon Bar, RISC OS News · 2026-11-03, updated 2026-11-02
-
-The Autumn 2026 edition of Drag'n'Drop magazine was released at the recent London Show. We are now into Volume 16!
 

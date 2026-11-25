@@ -5,10 +5,763 @@
     <title><![CDATA[STEM]]></title>
     <description><![CDATA[Science and technology news and blogs.]]></description>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>23 Nov 26 22:47 -0800</lastBuildDate>
+    <lastBuildDate>25 Nov 26 08:31 -0800</lastBuildDate>
     <generator>antenna/0.2.0</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Eye of the Sahara</title>
+      <link>https://www.nasa.gov/image-article/eye-of-the-sahara/</link>
+      <description>
+        <![CDATA[The Richat Structure, also known as the &#8220;Eye of the Sahara,&#8221; is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks [&#8230;]]]>
+      </description>
+      <source:markdown>The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks \[…\]</source:markdown>
+      <dc:creator>HQ Web Team</dc:creator>
+      <guid isPermaLink="false">cid://https://www.nasa.gov/?post_type=image-article&#38;p=1067603</guid>
+      <category>Earth</category>
+      <pubDate>Wed, 25 Nov 2026 16:21:04 +0000</pubDate>
+    </item>    <item>
+      <title>Scientists Discover Signs of Explosive Volcanic Eruptions 20,000 Feet Underwater—the Deepest Ever Found—in the Mariana Trench</title>
+      <link>https://www.smithsonianmag.com/smart-news/scientists-discover-signs-of-explosive-volcanic-eruptions-20000-feet-underwater-the-deepest-ever-found-in-the-mariana-trench-180989937/</link>
+      <description>
+        <![CDATA[The discovery puzzles researchers because volcanic activity at that depth should produce a goopy, seeping flow due to the immense pressure. Nevertheless, they say they've found evidence of explosive volcanism, thanks to a remotely operated submersible]]>
+      </description>
+      <source:markdown>The discovery puzzles researchers because volcanic activity at that depth should produce a goopy, seeping flow due to the immense pressure. Nevertheless, they say they&#39;ve found evidence of explosive volcanism, thanks to a remotely operated submersible</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/EYol9JCPNqJYX90D8QqYaKM3LPI=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2b/5b/2b5b0856-d408-41d4-9d07-0b5ca381ef33/pyroclastic-flow-main.png" length="2869395" type="image/png" />
+      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/scientists-discover-signs-of-explosive-volcanic-eruptions-20000-feet-underwater-the-deepest-ever-found-in-the-mariana-trench-180989937/</guid>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>NASA&#39;s nuclear-powered Mars delivery service takes shape</title>
+      <link>https://www.theregister.com/science/2026/11/25/nasas-nuclear-powered-mars-delivery-service-takes-shape/5312147</link>
+      <description>
+        <![CDATA[SR-1 Freedom gets a shorter boom and larger antennas, with roughly two years to finish design, construction, and testing]]>
+      </description>
+      <source:markdown>SR-1 Freedom gets a shorter boom and larger antennas, with roughly two years to finish design, construction, and testing</source:markdown>
+      <dc:creator>Richard Speed</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=226873&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312147</guid>
+      <category>science</category>
+      <pubDate>Wed, 25 Nov 2026 15:30:00 +0000</pubDate>
+    </item>    <item>
+      <title>NASA’s Hubble Views Ocean of Stars in Groundwork for Roman</title>
+      <link>https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/</link>
+      <description>
+        <![CDATA[These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.]]>
+      </description>
+      <source:markdown>These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.</source:markdown>
+      <guid isPermaLink="false">cid://https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/</guid>
+      <category>Hubble Space Telescope</category>
+      <pubDate>Wed, 25 Nov 2026 14:56:54 +0000</pubDate>
+    </item>    <item>
+      <title>Microsoft fixes Office dialog that had nothing to say and wouldn&#39;t go away</title>
+      <link>https://www.theregister.com/software/2026/11/25/microsoft-fixes-office-dialog-that-had-nothing-to-say-and-wouldnt-go-away/5312057</link>
+      <description>
+        <![CDATA[Update resolves work-blocking popup, but affected users may need an administrator command prompt to install it]]>
+      </description>
+      <source:markdown>Update resolves work-blocking popup, but affected users may need an administrator command prompt to install it</source:markdown>
+      <dc:creator>Richard Speed</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5244266&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312057</guid>
+      <category>software</category>
+      <pubDate>Wed, 25 Nov 2026 14:45:00 +0000</pubDate>
+    </item>    <item>
+      <title>JetBrains finds agents may cheat with open source</title>
+      <link>https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999</link>
+      <description>
+        <![CDATA[AI coding agents caught peeking at GitHub answers, stumble when JetBrains hides the crib sheet]]>
+      </description>
+      <source:markdown>AI coding agents caught peeking at GitHub answers, stumble when JetBrains hides the crib sheet</source:markdown>
+      <dc:creator>Joab Jackson</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=1683207&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311999</guid>
+      <category>devops</category>
+      <pubDate>Wed, 25 Nov 2026 14:07:00 +0000</pubDate>
+    </item>    <item>
+      <title>Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter</title>
+      <link>https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/</link>
+      <description>
+        <![CDATA[Scientists are inventing new ways to search for the missing mass of the universe.            <p>The post <a href="https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/" target="_blank">Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <source:markdown>Scientists are inventing new ways to search for the missing mass of the universe.
+
+The post [Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter](https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
+      <dc:creator>Jay Bennett</dc:creator>
+      <guid isPermaLink="false">cid://https://www.quantamagazine.org/?p=169596</guid>
+      <category>Physics</category>
+      <pubDate>Wed, 25 Nov 2026 14:00:49 +0000</pubDate>
+    </item>    <item>
+      <title>Meet Earth&#39;s New &#39;Mini-Moon&#39; 2026 QQ8, a Six-Foot-Wide Asteroid That&#39;s Temporarily Circling Our Planet</title>
+      <link>https://www.smithsonianmag.com/smart-news/meet-earths-new-mini-moon-2026-qq8-a-six-foot-wide-asteroid-thats-temporarily-circling-our-planet-180989938/</link>
+      <description>
+        <![CDATA[An astronomer first spotted the object in August, but scientists needed several weeks to determine whether it was natural or human-made. Earth's gravity captured 2026 QQ8 in April, and the space rock will leave us in December or January]]>
+      </description>
+      <source:markdown>An astronomer first spotted the object in August, but scientists needed several weeks to determine whether it was natural or human-made. Earth&#39;s gravity captured 2026 QQ8 in April, and the space rock will leave us in December or January</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/8jEJ5_eaKmyIxRmKOHDxvwumZsY=/420x240/filters:focal(513x342:514x343)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a7/d5/a7d5befd-b0a5-4ccd-ad1b-207e488de380/asteroid.jpg" length="62757" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/meet-earths-new-mini-moon-2026-qq8-a-six-foot-wide-asteroid-thats-temporarily-circling-our-planet-180989938/</guid>
+      <pubDate>Wed, 25 Nov 2026 14:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Debian wakes up wearing Windows XP&#39;s actual skin</title>
+      <link>https://www.theregister.com/os-platforms/2026/11/25/debian-wakes-up-wearing-windows-xps-actual-skin/5312111</link>
+      <description>
+        <![CDATA[Win4Wine runs the genuine Explorer shell atop Linux]]>
+      </description>
+      <source:markdown>Win4Wine runs the genuine Explorer shell atop Linux</source:markdown>
+      <dc:creator>Liam Proven</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5312115&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312111</guid>
+      <category>os platforms</category>
+      <pubDate>Wed, 25 Nov 2026 13:23:32 +0000</pubDate>
+    </item>    <item>
+      <title>Indigenous Hunters Drove Bison Off This Tall Cliff for 3,000 Years. It&#39;s Only the Second Buffalo Jump Ever Discovered in Texas</title>
+      <link>https://www.smithsonianmag.com/smart-news/indigenous-hunters-drove-bison-off-a-cliff-for-3000-years-its-only-the-second-buffalo-jump-ever-discovered-in-texas-180989941/</link>
+      <description>
+        <![CDATA[Two science teachers were hiking when they stumbled on hundreds of ancient buffalo bones in Caprock Canyons State Park, which is today home to the Texas State Bison Herd]]>
+      </description>
+      <source:markdown>Two science teachers were hiking when they stumbled on hundreds of ancient buffalo bones in Caprock Canyons State Park, which is today home to the Texas State Bison Herd</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/S3nNm2LYUkrEPZO759Qo5RmHMMY=/420x240/filters:focal(586x402:587x403)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1f/f3/1ff35c0f-5799-4e52-bedc-995388f8df6e/8878605403_1c7691832a_o.jpg" length="532863" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/indigenous-hunters-drove-bison-off-a-cliff-for-3000-years-its-only-the-second-buffalo-jump-ever-discovered-in-texas-180989941/</guid>
+      <pubDate>Wed, 25 Nov 2026 13:10:00 +0000</pubDate>
+    </item>    <item>
+      <title>Microsoft 365 Backup stretches recovery window to ten years</title>
+      <link>https://www.theregister.com/saas/2026/11/25/microsoft-365-backup-stretches-recovery-window-to-ten-years/5312043</link>
+      <description>
+        <![CDATA[Sadly, no time travel back to 2016]]>
+      </description>
+      <source:markdown>Sadly, no time travel back to 2016</source:markdown>
+      <dc:creator>Richard Speed</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=232945&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312043</guid>
+      <category>saas</category>
+      <pubDate>Wed, 25 Nov 2026 12:35:00 +0000</pubDate>
+    </item>    <item>
+      <title>Amazon to flog motors in Britain, but Prime won&#39;t deliver</title>
+      <link>https://www.theregister.com/personal-tech/2026/11/25/amazon-to-flog-motors-in-britain-but-prime-wont-deliver/5312080</link>
+      <description>
+        <![CDATA[Hyundai leads 2027 rollout, with a showroom visit still required to finish the paperwork]]>
+      </description>
+      <source:markdown>Hyundai leads 2027 rollout, with a showroom visit still required to finish the paperwork</source:markdown>
+      <dc:creator>Dan Robinson</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=258277&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312080</guid>
+      <category>personal tech</category>
+      <pubDate>Wed, 25 Nov 2026 12:19:20 +0000</pubDate>
+    </item>    <item>
+      <title>Gatwick drop-off customers&#39; personal data exposed in supplier breach</title>
+      <link>https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060</link>
+      <description>
+        <![CDATA[AutoPay login and vehicle records affected, alongside limited payment information and customer service emails]]>
+      </description>
+      <source:markdown>AutoPay login and vehicle records affected, alongside limited payment information and customer service emails</source:markdown>
+      <dc:creator>Connor Jones</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=227789&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312060</guid>
+      <category>security</category>
+      <pubDate>Wed, 25 Nov 2026 11:16:18 +0000</pubDate>
+    </item>    <item>
+      <title>The world&#39;s fastest computers have a problem: Keeping the work running</title>
+      <link>https://www.theregister.com/systems/2026/11/25/the-worlds-fastest-computers-have-a-problem-keeping-the-work-running/5311710</link>
+      <description>
+        <![CDATA[I node what you did last summer: you went down when an HPC project was relying on you]]>
+      </description>
+      <source:markdown>I node what you did last summer: you went down when an HPC project was relying on you</source:markdown>
+      <dc:creator>Abhishek Jadhav</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311858&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311710</guid>
+      <category>systems</category>
+      <pubDate>Wed, 25 Nov 2026 10:15:00 +0000</pubDate>
+    </item>    <item>
+      <title>Government may apply TV license fee to streaming services to fund the BBC</title>
+      <link>https://www.theregister.com/offbeat/2026/11/25/government-may-apply-tv-license-fee-to-streaming-services-to-fund-the-bbc/5311928</link>
+      <description>
+        <![CDATA[Controversial move could save the BBC by bringing in more than a billion in extra funding each year]]>
+      </description>
+      <source:markdown>Controversial move could save the BBC by bringing in more than a billion in extra funding each year</source:markdown>
+      <dc:creator>Dan Robinson</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=261547&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311928</guid>
+      <category>offbeat</category>
+      <pubDate>Wed, 25 Nov 2026 09:30:00 +0000</pubDate>
+    </item>    <item>
+      <title>Want a better winter workout? Train your muscle clocks</title>
+      <link>https://www.npr.org/2026/11/25/nx-s1-6034942/winter-exercise-circadian-rhythm-arc</link>
+      <description>
+        <![CDATA[TikTok has another trend: the winter arc. It’s a self-improvement challenge where people try to be their best self in the 3 months leading up to New Year – often, through exercise. We at <em>Short Wave</em> wanted to know if the science really holds up: Is ramping up your exercise routine when your circadian rhythm may be struggling with less light really a good idea? So we called up NPR health correspondent, <a href="https://www.npr.org/people/919093243/will-stone"target="_blank"   >Will Stone</a>. He’s done a deep dive on what scientists do and don’t know about exercise and our circadian rhythms.<br/><br/><strong>To read more of Will’s reporting on creating a </strong><a href="https://www.npr.org/2026/01/31/nx-s1-5691822/strength-exercises-stronger-muscles"target="_blank"   ><strong>solid exercise routine</strong></a><strong>.</strong><br/><br/><strong>If you liked this episode, check out our episodes on </strong><a href="http://lnk.to/kU7oyq"target="_blank"   ><strong>“circadian depression”</strong></a><strong>, and the </strong><a href="http://lnk.to/e5X7DB"target="_blank"   ><strong>science of jet lag</strong></a><strong> and how to avoid it. </strong><br/><br/><em>Interested in more health science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>.</em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>TikTok has another trend: the winter arc. It’s a self-improvement challenge where people try to be their best self in the 3 months leading up to New Year – often, through exercise. We at _Short Wave_ wanted to know if the science really holds up: Is ramping up your exercise routine when your circadian rhythm may be struggling with less light really a good idea? So we called up NPR health correspondent, [Will Stone](https://www.npr.org/people/919093243/will-stone). He’s done a deep dive on what scientists do and don’t know about exercise and our circadian rhythms.
+
+**To read more of Will’s reporting on creating a** [**solid exercise routine**](https://www.npr.org/2026/01/31/nx-s1-5691822/strength-exercises-stronger-muscles) **.**
+
+**If you liked this episode, check out our episodes on** [**“circadian depression”**](http://lnk.to/kU7oyq) **, and the** [**science of jet lag**](http://lnk.to/e5X7DB) **and how to avoid it.**
+
+_Interested in more health science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/3350ed11-22b2-4401-8522-2fb82131112d/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=3350ed11-22b2-4401-8522-2fb82131112d&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-6034942&#38;p=510351&#38;d=801&#38;size=12824703" length="12824703" type="audio/mpeg" />
+      <guid isPermaLink="false">cid://60693d48-60fc-476b-be9b-187bb6f64741</guid>
+      <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Jury finds Huawei stole US tech, laundered money, and broke sanctions</title>
+      <link>https://www.theregister.com/legal/2026/11/25/jury-finds-huawei-stole-us-tech-laundered-money-and-broke-sanctions/5312024</link>
+      <description>
+        <![CDATA[Criminal masterminds claimed to work for ‘Weihua’ or to have source code from ‘oscic’ instead of Cisco]]>
+      </description>
+      <source:markdown>Criminal masterminds claimed to work for ‘Weihua’ or to have source code from ‘oscic’ instead of Cisco</source:markdown>
+      <dc:creator>Simon Sharwood</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5312029&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312024</guid>
+      <category>legal</category>
+      <pubDate>Wed, 25 Nov 2026 06:16:02 +0000</pubDate>
+    </item>    <item>
+      <title>This could mess with Thanksgiving, says VMware as it drops third critical patch bundle in a week</title>
+      <link>https://www.theregister.com/virtualization/2026/11/25/this-could-mess-with-thanksgiving-says-vmware-as-it-drops-third-critical-patch-bundle-in-a-week/5312017</link>
+      <description>
+        <![CDATA[Four more critical vulns, including another unauthorized access flaw in vCenter]]>
+      </description>
+      <source:markdown>Four more critical vulns, including another unauthorized access flaw in vCenter</source:markdown>
+      <dc:creator>Simon Sharwood</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=225492&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312017</guid>
+      <category>virtualization</category>
+      <pubDate>Wed, 25 Nov 2026 05:15:08 +0000</pubDate>
+    </item>    <item>
+      <title>APOD: 2026 November 25 – SPHEREx Seeing Through Dust</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this \[…\]</source:markdown>
+      <guid isPermaLink="false">cid://https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/</guid>
+      <category>APOD</category>
+      <pubDate>Wed, 25 Nov 2026 05:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>Georgia’s Pecan Belt</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/</link>
+      <description>
+        <![CDATA[Since an early-1900s planting boom, orchards along the Flint River in southwest Georgia have become a center of U.S. pecan production.]]>
+      </description>
+      <source:markdown>Since an early-1900s planting boom, orchards along the Flint River in southwest Georgia have become a center of U.S. pecan production.</source:markdown>
+      <guid isPermaLink="false">cid://https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/</guid>
+      <category>Earth Observatory</category>
+      <category>Land Cover</category>
+      <category>Land Use</category>
+      <category>Landsat 8 / LDCM (Landsat Data Continuity Mission)</category>
+      <pubDate>Wed, 25 Nov 2026 05:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Nutanix CEO announces gradual departure, intent to complete set of storage links</title>
+      <link>https://www.theregister.com/virtualization/2026/11/25/nutanix-ceo-announces-gradual-departure-intent-to-complete-set-of-storage-links/5312010</link>
+      <description>
+        <![CDATA[Rajiv Ramaswami will stay in the chair until new hire lands, then stick around as advisor]]>
+      </description>
+      <source:markdown>Rajiv Ramaswami will stay in the chair until new hire lands, then stick around as advisor</source:markdown>
+      <dc:creator>Simon Sharwood</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=226792&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312010</guid>
+      <category>virtualization</category>
+      <pubDate>Wed, 25 Nov 2026 03:13:13 +0000</pubDate>
+    </item>    <item>
+      <title>Dell and HPE both say they’ve become ‘different companies’</title>
+      <link>https://www.theregister.com/systems/2026/11/25/dell-and-hpe-both-say-theyve-become-different-companies/5312003</link>
+      <description>
+        <![CDATA[Still slinging hardware – now with added AI and attendant risks or opportunities]]>
+      </description>
+      <source:markdown>Still slinging hardware – now with added AI and attendant risks or opportunities</source:markdown>
+      <dc:creator>Simon Sharwood</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=262697&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312003</guid>
+      <category>systems</category>
+      <pubDate>Wed, 25 Nov 2026 01:17:30 +0000</pubDate>
+    </item>    <item>
+      <title>Pop!_OS 26.04 LTS Has Landed</title>
+      <link>https://system76.com/blog/post/pop_os-26-04-lts-has-landed</link>
+      <description>
+        <![CDATA[Pop!_OS 26.04 LTS is here after nearly a year of thoughtful feature development.]]>
+      </description>
+      <source:markdown>Pop!\_OS 26.04 LTS is here after nearly a year of thoughtful feature development.</source:markdown>
+      <enclosure url="https://images.prismic.io/blog-system76/yb0RwZlAwTylovtU_new-pop-26-04-launched.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">cid://https://system76.com/blog/post/pop_os-26-04-lts-has-landed</guid>
+      <pubDate>Tue, 24 Nov 2026 21:58:16 +0000</pubDate>
+    </item>    <item>
+      <title>NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema</title>
+      <link>https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/</link>
+      <description>
+        <![CDATA[NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing space even closer to home. “The National Aeronautics and Space Act of 1958 calls us to share our story of space exploration with the broadest possible [&#8230;]]]>
+      </description>
+      <source:markdown>NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing space even closer to home. “The National Aeronautics and Space Act of 1958 calls us to share our story of space exploration with the broadest possible \[…\]</source:markdown>
+      <dc:creator>Gerelle Q. Dodson</dc:creator>
+      <guid isPermaLink="false">cid://https://www.nasa.gov/?p=1067960</guid>
+      <category>NASA+</category>
+      <pubDate>Tue, 24 Nov 2026 21:14:36 +0000</pubDate>
+    </item>    <item>
+      <title>Teams Lock in Mission Architecture for NASA’s SR-1 Freedom</title>
+      <link>https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/</link>
+      <description>
+        <![CDATA[NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first time.&#160;&#160; Experts from across the agency, the U.S. Department of Energy (DOE), and industry met at NASA’s Glenn Research [&#8230;]]]>
+      </description>
+      <source:markdown>NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first time.   Experts from across the agency, the U.S. Department of Energy (DOE), and industry met at NASA’s Glenn Research \[…\]</source:markdown>
+      <dc:creator>Heather Baeslack</dc:creator>
+      <guid isPermaLink="false">cid://https://www.nasa.gov/?p=1067471</guid>
+      <category>General</category>
+      <category>Research and Technology Mission Directorate</category>
+      <category>Space Reactor-1 Freedom</category>
+      <category>Space Reactors Division</category>
+      <pubDate>Tue, 24 Nov 2026 21:04:32 +0000</pubDate>
+    </item>    <item>
+      <title>AI godfather Yann LeCun torches Anthropic CEO over AI gatekeeping</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/11/24/ai-godfather-yann-lecun-torches-anthropic-ceo-over-ai-gatekeeping/5311986</link>
+      <description>
+        <![CDATA[‘It’s like the Ottoman Empire banning the printing press for Arabic so they would keep in control of the dogma,’ he says]]>
+      </description>
+      <source:markdown>‘It’s like the Ottoman Empire banning the printing press for Arabic so they would keep in control of the dogma,’ he says</source:markdown>
+      <dc:creator>Tobias Mann</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5310808&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311986</guid>
+      <category>ai and ml</category>
+      <pubDate>Tue, 24 Nov 2026 20:57:08 +0000</pubDate>
+    </item>    <item>
+      <title>The First-Ever Children&#39;s Booker Prize Revealed Its Eight Shortlisted Finalists. Meet the Four Young Judges Deciding the Winner</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-first-ever-childrens-booker-prize-revealed-its-eight-shortlisted-finalists-meet-the-four-young-judges-deciding-the-winner-180989940/</link>
+      <description>
+        <![CDATA[Launched amid a historic low in youth reading enjoyment, the award will be decided by a joint panel of three adults and four young readers, who were selected from more than 4,000 applicants]]>
+      </description>
+      <source:markdown>Launched amid a historic low in youth reading enjoyment, the award will be decided by a joint panel of three adults and four young readers, who were selected from more than 4,000 applicants</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/-_FMpLNf7MqZ9RN9SHtopOQ1Y8o=/420x240/filters:focal(800x450:801x451)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/86/72/86728162-0ddc-43d7-9296-40fcc2c68992/image_1.png" length="658951" type="image/png" />
+      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/the-first-ever-childrens-booker-prize-revealed-its-eight-shortlisted-finalists-meet-the-four-young-judges-deciding-the-winner-180989940/</guid>
+      <pubDate>Tue, 24 Nov 2026 20:44:37 +0000</pubDate>
+    </item>    <item>
+      <title>&#39;We are not ShinyHunters,&#39; says criminal hacking crew that looks and acts just like ShinyHunters</title>
+      <link>https://www.theregister.com/security/2026/11/24/we-are-not-shinyhunters-says-criminal-hacking-crew-that-looks-and-acts-just-like-shinyhunters/5311978</link>
+      <description>
+        <![CDATA[Nothing to see here…]]>
+      </description>
+      <source:markdown>Nothing to see here…</source:markdown>
+      <dc:creator>Jessica Lyons</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=222661&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311978</guid>
+      <category>security</category>
+      <pubDate>Tue, 24 Nov 2026 20:15:36 +0000</pubDate>
+    </item>    <item>
+      <title>Desktop Add-ons Spotlight: Identity Chooser Helps You Send From the Right Address</title>
+      <link>https://blog.thunderbird.net/2026/11/desktop-add-ons-spotlight-identity-chooser-helps-you-send-from-the-right-address/</link>
+      <description>
+        <![CDATA[<p>This spotlight was created as a collaboration between the Thunderbird Team and the Thunderbird Council. Our new series is focused on something many Thunderbird users can’t do without: add-ons. Customizing your set up is a great way to boost your productivity and make managing your inboxes more manageable. So starting with this article, we’re going [&#8230;]</p>
+        <p>The post <a href="https://blog.thunderbird.net/2026/11/desktop-add-ons-spotlight-identity-chooser-helps-you-send-from-the-right-address/">Desktop Add-ons Spotlight: Identity Chooser Helps You Send From the Right Address</a> appeared first on <a href="https://blog.thunderbird.net">The Thunderbird Blog</a>.</p>]]>
+      </description>
+      <source:markdown>This spotlight was created as a collaboration between the Thunderbird Team and the Thunderbird Council. Our new series is focused on something many Thunderbird users can’t do without: add-ons. Customizing your set up is a great way to boost your productivity and make managing your inboxes more manageable. So starting with this article, we’re going \[…\]
+
+The post [Desktop Add-ons Spotlight: Identity Chooser Helps You Send From the Right Address](https://blog.thunderbird.net/2026/11/desktop-add-ons-spotlight-identity-chooser-helps-you-send-from-the-right-address/) appeared first on [The Thunderbird Blog](https://blog.thunderbird.net).</source:markdown>
+      <dc:creator>Brian Offredi</dc:creator>
+      <guid isPermaLink="false">cid://https://blog.thunderbird.net/?p=4757</guid>
+      <category>Thunderbird</category>
+      <category>Add-ons</category>
+      <category>Contributor Highlight</category>
+      <category>Desktop</category>
+      <pubDate>Tue, 24 Nov 2026 19:52:11 +0000</pubDate>
+    </item>    <item>
+      <title>Amateur Astronomer? Be a Kilonova Catcher!</title>
+      <link>https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/</link>
+      <description>
+        <![CDATA[Neutron stars are the ultra-dense, city-sized leftovers of dead stars. When they collide, they can release a brief flash of light called a kilonova. These immensely powerful events forge much of the universe’s gold, platinum and other heavy elements. Since a kilonova fades within days, astronomers have to find it fast, and no single observatory […]]]>
+      </description>
+      <source:markdown>Neutron stars are the ultra-dense, city-sized leftovers of dead stars. When they collide, they can release a brief flash of light called a kilonova. These immensely powerful events forge much of the universe’s gold, platinum and other heavy elements. Since a kilonova fades within days, astronomers have to find it fast, and no single observatory \[…\]</source:markdown>
+      <guid isPermaLink="false">cid://https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/</guid>
+      <category>Black Holes</category>
+      <category>Citizen Science</category>
+      <category>Neutron Stars</category>
+      <pubDate>Tue, 24 Nov 2026 19:19:52 +0000</pubDate>
+    </item>    <item>
+      <title>NASA’s Northrop Grumman CRS-25 Mission Overview</title>
+      <link>https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/</link>
+      <description>
+        <![CDATA[NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station. The mission will be the third flight of the company’s Cygnus XL, the larger, more cargo-capable version of the company’s solar-powered spacecraft. The Cygnus XL will launch aboard a [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station. The mission will be the third flight of the company’s Cygnus XL, the larger, more cargo-capable version of the company’s solar-powered spacecraft. The Cygnus XL will launch aboard a \[…\]</source:markdown>
+      <dc:creator>Joseph Zakrzewski</dc:creator>
+      <guid isPermaLink="false">cid://https://www.nasa.gov/?p=1067477</guid>
+      <category>International Space Station (ISS)</category>
+      <category>Commercial Resupply</category>
+      <category>Missions</category>
+      <category>Northrop Grumman Commercial Resupply</category>
+      <pubDate>Tue, 24 Nov 2026 19:09:16 +0000</pubDate>
+    </item>    <item>
+      <title>AGU Hyperwall Schedule</title>
+      <link>https://science.nasa.gov/earth/agu-hyperwall-schedule/</link>
+      <description>
+        <![CDATA[American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. TUESDAY, NOVEMBER 17 10:30 AMHigh Resolution Hydrology Simulations and Agentic Super Intelligence Interfaces for Mapping Water Availability and ExtremesSujay Kumar11:00 AMScale-Resolving CFD Methods for Predicting Aircraft “Edge of the Flight Envelope” PerformanceJared […]]]>
+      </description>
+      <source:markdown>American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. TUESDAY, NOVEMBER 17 10:30 AMHigh Resolution Hydrology Simulations and Agentic Super Intelligence Interfaces for Mapping Water Availability and ExtremesSujay Kumar11:00 AMScale-Resolving CFD Methods for Predicting Aircraft “Edge of the Flight Envelope” PerformanceJared \[…\]</source:markdown>
+      <guid isPermaLink="false">cid://https://science.nasa.gov/earth/agu-hyperwall-schedule/</guid>
+      <category>Earth</category>
+      <pubDate>Tue, 24 Nov 2026 18:55:42 +0000</pubDate>
+    </item>    <item>
+      <title>In the Heart of Harlem, a New Museum Tells the Overlooked Story of the Civil Rights Movement in the North</title>
+      <link>https://www.smithsonianmag.com/smart-news/in-the-heart-of-harlem-a-new-museum-tells-the-overlooked-story-of-civil-rights-movement-in-the-north-180989934/</link>
+      <description>
+        <![CDATA[The Urban Civil Rights Museum bills itself as the first museum to focus on the struggle for racial equality in the cities of the northern United States. It is also the first civil rights museum in New York City]]>
+      </description>
+      <source:markdown>The Urban Civil Rights Museum bills itself as the first museum to focus on the struggle for racial equality in the cities of the northern United States. It is also the first civil rights museum in New York City</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/itT-oqHXOMLZpMI55cdk3NeybHU=/420x240/filters:focal(1250x940:1251x941)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f6/ca/f6cac2cc-a67f-4da7-9329-65a717321340/ucrm_web-3.jpg" length="3092304" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/in-the-heart-of-harlem-a-new-museum-tells-the-overlooked-story-of-civil-rights-movement-in-the-north-180989934/</guid>
+      <pubDate>Tue, 24 Nov 2026 18:42:38 +0000</pubDate>
+    </item>    <item>
+      <title>Arm strongarms site that hosts ad-free documentation and it may disappear</title>
+      <link>https://www.theregister.com/systems/2026/11/24/arm-strongarms-site-that-hosts-ad-free-documentation-and-it-may-disappear/5311925</link>
+      <description>
+        <![CDATA[Easy-to-use, popular, not collecting data for us, or serving our ads? Down with you!]]>
+      </description>
+      <source:markdown>Easy-to-use, popular, not collecting data for us, or serving our ads? Down with you!</source:markdown>
+      <dc:creator>Brandon Vigliarolo</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5305665&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311925</guid>
+      <category>systems</category>
+      <pubDate>Tue, 24 Nov 2026 17:57:41 +0000</pubDate>
+    </item>    <item>
+      <title>An AI coding agent, a browser, and a Mac tool found a financial firm&#39;s access key in under 6 minutes</title>
+      <link>https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922</link>
+      <description>
+        <![CDATA[No sophisticated malware or attack framework required]]>
+      </description>
+      <source:markdown>No sophisticated malware or attack framework required</source:markdown>
+      <dc:creator>Jessica Lyons</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311939&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311922</guid>
+      <category>security</category>
+      <pubDate>Tue, 24 Nov 2026 17:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Microsoft refreshes Copilot app search for users without an AI subscription</title>
+      <link>https://www.theregister.com/personal-tech/2026/11/24/microsoft-refreshes-copilot-app-search-for-users-without-an-ai-subscription/5311895</link>
+      <description>
+        <![CDATA[Meanwhile, Google's homepage demo leaves a familiar button out of the picture]]>
+      </description>
+      <source:markdown>Meanwhile, Google&#39;s homepage demo leaves a familiar button out of the picture</source:markdown>
+      <dc:creator>Richard Speed</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=255047&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311895</guid>
+      <category>personal tech</category>
+      <pubDate>Tue, 24 Nov 2026 17:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Where Does Language Originate in the Brain? New Research Challenges Our 150-Year-Old Understanding</title>
+      <link>https://www.smithsonianmag.com/smart-news/where-does-language-originate-in-the-brain-new-research-challenges-our-150-year-old-understanding-180989929/</link>
+      <description>
+        <![CDATA[Researchers long thought that a region called Wernicke's area, located just above the left ear, solely played a role in comprehending language. Now, a study suggests that it's also important for producing speech—a finding that will change diagrams in biology textbooks]]>
+      </description>
+      <source:markdown>Researchers long thought that a region called Wernicke&#39;s area, located just above the left ear, solely played a role in comprehending language. Now, a study suggests that it&#39;s also important for producing speech—a finding that will change diagrams in biology textbooks</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/p6_SnHHv0QldIc3_3CJFDDPLrzA=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a4/51/a4514f1e-a9c9-4c48-b895-f07f312c291f/wernicke-main.png" length="931643" type="image/png" />
+      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/where-does-language-originate-in-the-brain-new-research-challenges-our-150-year-old-understanding-180989929/</guid>
+      <pubDate>Tue, 24 Nov 2026 16:57:58 +0000</pubDate>
+    </item>    <item>
+      <title>Webb Reveals New Details in Supernova Remnant</title>
+      <link>https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/</link>
+      <description>
+        <![CDATA[NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and [&#8230;]]]>
+      </description>
+      <source:markdown>NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and \[…\]</source:markdown>
+      <dc:creator>HQ Web Team</dc:creator>
+      <guid isPermaLink="false">cid://https://www.nasa.gov/?post_type=image-article&#38;p=1067540</guid>
+      <category>Supernova Remnants</category>
+      <pubDate>Tue, 24 Nov 2026 16:51:27 +0000</pubDate>
+    </item>    <item>
+      <title>All the Unsung Awesomeness Purism Has Brought to Market</title>
+      <link>https://puri.sm/posts/all-the-unsung-awesomeness-purism-has-brought-to-market/</link>
+      <description>
+        <![CDATA[<p>From a phone-sized Linux experience to hardware kill switches, Purism’s biggest contribution may be proving that a more user-controlled digital world can be built&#8212;and shared.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/all-the-unsung-awesomeness-purism-has-brought-to-market/">All the Unsung Awesomeness Purism Has Brought to Market</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>From a phone-sized Linux experience to hardware kill switches, Purism’s biggest contribution may be proving that a more user-controlled digital world can be built—and shared.
+
+The post [All the Unsung Awesomeness Purism Has Brought to Market](https://puri.sm/posts/all-the-unsung-awesomeness-purism-has-brought-to-market/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+      <dc:creator>Purism</dc:creator>
+      <guid isPermaLink="false">cid://https://puri.sm/?p=87441</guid>
+      <category>Librem 5 v2</category>
+      <category>Mobile Ecosystem</category>
+      <category>Privacy</category>
+      <category>PureOS</category>
+      <category>Consumer Privacy</category>
+      <category>Consumer Protection</category>
+      <category>FLOSS applications</category>
+      <category>GNOME</category>
+      <category>Hardware Kill Switches</category>
+      <category>librem 5</category>
+      <pubDate>Tue, 24 Nov 2026 16:00:02 +0000</pubDate>
+    </item>    <item>
+      <title>Biologists Discover a &#39;One-in-a-Million&#39; Bright Yellow Burbot Fish in New York&#39;s Oswego Harbor</title>
+      <link>https://www.smithsonianmag.com/smart-news/biologists-discovere-a-one-in-a-million-bright-yellow-burbot-fish-in-new-yorks-oswego-harbor-180989928/</link>
+      <description>
+        <![CDATA[The species normally has a mottled palette of olive green, earthy brown and golden yellow, but this one had a rare biological condition called xanthochromism, which allows yellow-orange pigment to dominate]]>
+      </description>
+      <source:markdown>The species normally has a mottled palette of olive green, earthy brown and golden yellow, but this one had a rare biological condition called xanthochromism, which allows yellow-orange pigment to dominate</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/zmj04qklumE82dY8z5hXxv2Lhko=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cc/0d/cc0dbbdb-6840-408d-81ed-08ee447275ea/burbot-main.png" length="1494936" type="image/png" />
+      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/biologists-discovere-a-one-in-a-million-bright-yellow-burbot-fish-in-new-yorks-oswego-harbor-180989928/</guid>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Microsoft brings serverless PostgreSQL into Fabric to bridge transactions and analytics</title>
+      <link>https://www.theregister.com/databases/2026/11/24/microsoft-brings-serverless-postgresql-into-fabric-to-bridge-transactions-and-analytics/5311841</link>
+      <description>
+        <![CDATA[HorizonDB preview follows rivals' moves, with analysts warning tighter integration could make an eventual exit harder]]>
+      </description>
+      <source:markdown>HorizonDB preview follows rivals&#39; moves, with analysts warning tighter integration could make an eventual exit harder</source:markdown>
+      <dc:creator>Lindsay Clark</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=254008&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311841</guid>
+      <category>databases</category>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes</title>
+      <link>https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/</link>
+      <description>
+        <![CDATA[Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where the car-sized rotorcraft is coming together for its mission to explore Saturn’s largest moon, Titan. First to check in: DragonCam, which consists of seven cameras designed to characterize Titan’s surface at multiple scales during […]]]>
+      </description>
+      <source:markdown>Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where the car-sized rotorcraft is coming together for its mission to explore Saturn’s largest moon, Titan. First to check in: DragonCam, which consists of seven cameras designed to characterize Titan’s surface at multiple scales during \[…\]</source:markdown>
+      <guid isPermaLink="false">cid://https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/</guid>
+      <pubDate>Tue, 24 Nov 2026 15:44:38 +0000</pubDate>
+    </item>    <item>
+      <title>US blacklists Megaspeed hours after Jensen Huang returns to Nvidia</title>
+      <link>https://www.theregister.com/systems/2026/11/24/us-blacklists-megaspeed-hours-after-jensen-huang-returns-to-nvidia/5311901</link>
+      <description>
+        <![CDATA[Chip boss gets his old job back, but Washington isn't done investigating one of his former flame's businesses]]>
+      </description>
+      <source:markdown>Chip boss gets his old job back, but Washington isn&#39;t done investigating one of his former flame&#39;s businesses</source:markdown>
+      <dc:creator>Carly Page</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5305665&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311901</guid>
+      <category>systems</category>
+      <pubDate>Tue, 24 Nov 2026 15:15:00 +0000</pubDate>
+    </item>    <item>
+      <title>Astronauts Living at NASA&#39;s Planned Future Lunar Base Might One Day Snack on Moon-Grown Potatoes</title>
+      <link>https://www.smithsonianmag.com/smart-news/astronauts-living-at-nasas-planned-future-lunar-base-might-one-day-snack-on-moon-grown-potatoes-180989918/</link>
+      <description>
+        <![CDATA[Researchers successfully grew spuds in simulated moon dirt supplemented with vermicompost, a nutrient-rich organic additive with worm poop. The taters are safe and nutritious—but we don't know what they taste like yet]]>
+      </description>
+      <source:markdown>Researchers successfully grew spuds in simulated moon dirt supplemented with vermicompost, a nutrient-rich organic additive with worm poop. The taters are safe and nutritious—but we don&#39;t know what they taste like yet</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/vinHFhLJMpyZJLIJg2RsMVQyIpA=/420x240/filters:focal(400x278:401x279)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/80/e9/80e9ca1a-2dac-487d-91f4-f5bb7f6b7d6c/55258362670_afecaa97a7_c.jpg" length="175659" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/astronauts-living-at-nasas-planned-future-lunar-base-might-one-day-snack-on-moon-grown-potatoes-180989918/</guid>
+      <pubDate>Tue, 24 Nov 2026 15:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Claude Ship puts AI at the helm of pull request approvals</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/11/24/claude-ship-puts-ai-at-the-helm-of-pull-request-approvals/5311883</link>
+      <description>
+        <![CDATA[Tired of waiting for a meatbag to approve a change? Anthropic has an agent for that]]>
+      </description>
+      <source:markdown>Tired of waiting for a meatbag to approve a change? Anthropic has an agent for that</source:markdown>
+      <dc:creator>Richard Speed</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5254628&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311883</guid>
+      <category>ai and ml</category>
+      <pubDate>Tue, 24 Nov 2026 14:29:00 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Hubble’s New View of NGC 4394 Raises the Bar</title>
+      <link>https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/</link>
+      <description>
+        <![CDATA[The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image]]>
+      </description>
+      <source:markdown>The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image</source:markdown>
+      <guid isPermaLink="false">cid://https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/</guid>
+      <category>Astrophysics</category>
+      <category>Astrophysics Division</category>
+      <category>Galaxies</category>
+      <category>Goddard Space Flight Center</category>
+      <category>Hubble Space Telescope</category>
+      <category>Spiral Galaxies</category>
+      <category>The Universe</category>
+      <pubDate>Tue, 24 Nov 2026 13:58:28 +0000</pubDate>
+    </item>    <item>
+      <title>FCC proposes &#39;tit-for-tat&#39; restrictions on foreign satellite operators</title>
+      <link>https://www.theregister.com/networks/2026/11/24/fcc-proposes-tit-for-tat-restrictions-on-foreign-satellite-operators/5311889</link>
+      <description>
+        <![CDATA[December vote would launch rulemaking to mirror barriers facing US providers abroad, with EU spectrum plans in the crosshairs]]>
+      </description>
+      <source:markdown>December vote would launch rulemaking to mirror barriers facing US providers abroad, with EU spectrum plans in the crosshairs</source:markdown>
+      <dc:creator>Dan Robinson</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=4094220&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311889</guid>
+      <category>networks</category>
+      <pubDate>Tue, 24 Nov 2026 13:45:00 +0000</pubDate>
+    </item>    <item>
+      <title>9/UX brings a classic Mac feel to 9front</title>
+      <link>https://www.theregister.com/software/2026/11/24/9/ux-brings-a-classic-mac-feel-to-9front/5311844</link>
+      <description>
+        <![CDATA[A spatial classic Finder in the style of A/UX]]>
+      </description>
+      <source:markdown>A spatial classic Finder in the style of A/UX</source:markdown>
+      <dc:creator>Liam Proven</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311874&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311844</guid>
+      <category>software</category>
+      <pubDate>Tue, 24 Nov 2026 13:06:00 +0000</pubDate>
+    </item>    <item>
+      <title>CrowdStrike splashes $44B on Zscaler, customers brace for the bill</title>
+      <link>https://www.theregister.com/security/2026/11/24/crowdstrike-splashes-44b-on-zscaler-customers-brace-for-the-bill/5311877</link>
+      <description>
+        <![CDATA[Record-breaking cybersecurity deal promises tighter integration, but sysadmins fear higher prices and vendor lock-in]]>
+      </description>
+      <source:markdown>Record-breaking cybersecurity deal promises tighter integration, but sysadmins fear higher prices and vendor lock-in</source:markdown>
+      <dc:creator>Carly Page</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=252462&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311877</guid>
+      <category>security</category>
+      <pubDate>Tue, 24 Nov 2026 12:22:17 +0000</pubDate>
+    </item>    <item>
+      <title>Almost 90 Years After Discovering a Ship Burial That Rewrote British History, Archaeologists Returned to Sutton Hoo. This Time, They Uncovered a Ghostly &#39;Sand Body&#39;</title>
+      <link>https://www.smithsonianmag.com/smart-news/almost-90-years-after-discovering-a-ship-burial-that-rewrote-british-history-archaeologists-returned-to-sutton-hoo-this-time-they-uncovered-a-ghostly-sand-body-180989932/</link>
+      <description>
+        <![CDATA[Researchers with the "Time Team" series also found grave goods, including beads, tweezers, a knife and a brooch as well as evidence that a second person might have been buried in the same grave]]>
+      </description>
+      <source:markdown>Researchers with the &#34;Time Team&#34; series also found grave goods, including beads, tweezers, a knife and a brooch as well as evidence that a second person might have been buried in the same grave</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/8FEn2aw52-NW2kt7EMOIYlOpAkA=/420x240/filters:focal(512x288:513x289)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a8/96/a896c997-4029-484b-8f3b-cc8773d34451/9zvebhiml7gewe85rrdy2x-1024-80png.webp" length="148852" type="image/webp" />
+      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/almost-90-years-after-discovering-a-ship-burial-that-rewrote-british-history-archaeologists-returned-to-sutton-hoo-this-time-they-uncovered-a-ghostly-sand-body-180989932/</guid>
+      <pubDate>Tue, 24 Nov 2026 12:15:00 +0000</pubDate>
+    </item>    <item>
+      <title>European Commission confirms personal data stolen in AI-assisted cyberattack</title>
+      <link>https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834</link>
+      <description>
+        <![CDATA[EU Academy names and email addresses exposed, with users warned via website notice rather than contacted directly]]>
+      </description>
+      <source:markdown>EU Academy names and email addresses exposed, with users warned via website notice rather than contacted directly</source:markdown>
+      <dc:creator>Carly Page</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311112&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311834</guid>
+      <category>cyber-crime</category>
+      <pubDate>Tue, 24 Nov 2026 11:32:41 +0000</pubDate>
+    </item>    <item>
+      <title>BepiColombo takes the long way around Mercury after software glitch</title>
+      <link>https://www.theregister.com/science/2026/11/24/bepicolombo-takes-the-long-way-around-mercury-after-software-glitch/5311825</link>
+      <description>
+        <![CDATA[Shortened burn leaves probe in a 75-hour orbit, but ESA says December separation remains on schedule]]>
+      </description>
+      <source:markdown>Shortened burn leaves probe in a 75-hour orbit, but ESA says December separation remains on schedule</source:markdown>
+      <dc:creator>Richard Speed</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=1685901&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311825</guid>
+      <category>science</category>
+      <pubDate>Tue, 24 Nov 2026 11:06:52 +0000</pubDate>
+    </item>    <item>
+      <title>InferNode gives Bell Labs&#39; Inferno OS a 64-bit second wind</title>
+      <link>https://www.theregister.com/os-platforms/2026/11/24/infernode-gives-bell-labs-inferno-os-a-64-bit-second-wind/5311704</link>
+      <description>
+        <![CDATA[Plan 9's successor finds a new role containing AI agents, though its developer says those features are optional]]>
+      </description>
+      <source:markdown>Plan 9&#39;s successor finds a new role containing AI agents, though its developer says those features are optional</source:markdown>
+      <dc:creator>Liam Proven</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311734&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311704</guid>
+      <category>os platforms</category>
+      <pubDate>Tue, 24 Nov 2026 10:09:00 +0000</pubDate>
+    </item>    <item>
+      <title>UK gov invests in defense startup making virtual training ground for AI</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/11/24/uk-gov-invests-in-defense-startup-making-virtual-training-ground-for-ai/5311707</link>
+      <description>
+        <![CDATA[Britain wants sovereign capability to test whether military AI will work before it gets deployed for real]]>
+      </description>
+      <source:markdown>Britain wants sovereign capability to test whether military AI will work before it gets deployed for real</source:markdown>
+      <dc:creator>Dan Robinson</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=260608&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311707</guid>
+      <category>ai and ml</category>
+      <pubDate>Tue, 24 Nov 2026 09:16:00 +0000</pubDate>
+    </item>    <item>
+      <title>Education software supplier&#39;s legacy login system left 355,000 school email addresses exposed</title>
+      <link>https://www.theregister.com/cyber-crime/2026/11/24/education-software-suppliers-legacy-login-system-left-355000-school-email-addresses-exposed/5311622</link>
+      <description>
+        <![CDATA[Have I Been Pwned puts a number on September's attack on Bromcom]]>
+      </description>
+      <source:markdown>Have I Been Pwned puts a number on September&#39;s attack on Bromcom</source:markdown>
+      <dc:creator>Carly Page</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5303385&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311622</guid>
+      <category>cyber-crime</category>
+      <pubDate>Tue, 24 Nov 2026 08:37:00 +0000</pubDate>
+    </item>    <item>
+      <title>Wild turkeys are in peril again — can researchers save them?</title>
+      <link>https://www.npr.org/2026/11/24/nx-s1-6042518/thanksgiving-american-wild-turkey-science</link>
+      <description>
+        <![CDATA[As a teen, <a href="https://wildturkeylab.com/about/"target="_blank"   >Mike Chamberlain</a> spent all his free time hunting turkeys. Now, his job is researching everything about them – the birds’ behavior, their genetics and more. And for the past decade, he’s focused on their concerning decline in the American southeast. Today on the show, Emily chats with Mike about what could be driving the loss of turkey territory – and what conservationists – including hunters – are doing about it. <br/><br/><em>Interested in more conservation science? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>As a teen, [Mike Chamberlain](https://wildturkeylab.com/about/) spent all his free time hunting turkeys. Now, his job is researching everything about them – the birds’ behavior, their genetics and more. And for the past decade, he’s focused on their concerning decline in the American southeast. Today on the show, Emily chats with Mike about what could be driving the loss of turkey territory – and what conservationists – including hunters – are doing about it.
+
+_Interested in more conservation science? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/61f84333-b405-483b-a331-15d1c2df8c7d/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=61f84333-b405-483b-a331-15d1c2df8c7d&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-6042518&#38;p=510351&#38;d=901&#38;size=14420472" length="14420472" type="audio/mpeg" />
+      <guid isPermaLink="false">cid://929f985c-ffb1-4d57-a026-ef6e375919e2</guid>
+      <pubDate>Tue, 24 Nov 2026 08:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Orgs that leak data &#39;prioritize corporate interests over customers&#39; says Have I Been Pwned’s Troy Hunt</title>
+      <link>https://www.theregister.com/security/2026/11/24/orgs-that-leak-data-prioritize-corporate-interests-over-customers-says-have-i-been-pwneds-troy-hunt/5311802</link>
+      <description>
+        <![CDATA[Leakers move through denial, bargaining, delay, legal threats, then claiming Hunt is the real villain]]>
+      </description>
+      <source:markdown>Leakers move through denial, bargaining, delay, legal threats, then claiming Hunt is the real villain</source:markdown>
+      <dc:creator>Simon Sharwood</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=259203&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311802</guid>
+      <category>security</category>
+      <pubDate>Tue, 24 Nov 2026 05:13:51 +0000</pubDate>
+    </item>    <item>
+      <title>APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 November 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Galaxies Battle in [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 November 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Galaxies Battle in \[…\]</source:markdown>
+      <guid isPermaLink="false">cid://https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/</guid>
+      <category>APOD</category>
+      <pubDate>Tue, 24 Nov 2026 05:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>Eruption Extends Iwo Jima’s Beach</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/</link>
+      <description>
+        <![CDATA[A volcanic eruption just off the southeast shore of the Pacific island has reshaped the coast, but it’s unclear how long the new land will survive.]]>
+      </description>
+      <source:markdown>A volcanic eruption just off the southeast shore of the Pacific island has reshaped the coast, but it’s unclear how long the new land will survive.</source:markdown>
+      <guid isPermaLink="false">cid://https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/</guid>
+      <category>Earth Observatory</category>
+      <category>Landsat 9</category>
+      <category>Topography</category>
+      <category>Volcanoes</category>
+      <pubDate>Tue, 24 Nov 2026 05:01:00 +0000</pubDate>
+    </item>    <item>
+      <title>Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse</title>
+      <link>https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795</link>
+      <description>
+        <![CDATA[‘Shirudo’ project promises to whip up compensating controls in a hurry]]>
+      </description>
+      <source:markdown>‘Shirudo’ project promises to whip up compensating controls in a hurry</source:markdown>
+      <dc:creator>Simon Sharwood</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=1682068&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311795</guid>
+      <category>security</category>
+      <pubDate>Tue, 24 Nov 2026 01:46:56 +0000</pubDate>
+    </item>    <item>
+      <title>Anthropic says Claude solved an age-old math problem, but the written proof is 250,000 pages of slop</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/11/24/anthropic-says-claude-solved-an-age-old-math-problem-but-the-written-proof-is-250000-pages-of-slop/5311775</link>
+      <description>
+        <![CDATA[If the AI can't explain what it's proven, are we actually any closer to understanding?]]>
+      </description>
+      <source:markdown>If the AI can&#39;t explain what it&#39;s proven, are we actually any closer to understanding?</source:markdown>
+      <dc:creator>Tobias Mann</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5264648&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311775</guid>
+      <category>ai and ml</category>
+      <pubDate>Tue, 24 Nov 2026 00:18:17 +0000</pubDate>
+    </item>    <item>
+      <title>Inception - possibly a ShinyHunters reboot - claims seven victims in a week</title>
+      <link>https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768</link>
+      <description>
+        <![CDATA[Whatever they call themselves these days: be on the lookout for voice phishing attempts]]>
+      </description>
+      <source:markdown>Whatever they call themselves these days: be on the lookout for voice phishing attempts</source:markdown>
+      <dc:creator>Jessica Lyons</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311772&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311768</guid>
+      <category>security</category>
+      <pubDate>Mon, 23 Nov 2026 21:52:23 +0000</pubDate>
+    </item>    <item>
       <title>Peggy Guggenheim&#39;s First Art Gallery Lasted Just 18 Months. But Its 21 Exhibitions Showed a Multitude of Modern Art Masterpieces</title>
       <link>https://www.smithsonianmag.com/smart-news/peggy-guggenheims-first-art-gallery-lasted-just-18-months-but-its-21-exhibitions-showed-a-multitude-of-modern-art-masterpieces-180989930/</link>
       <description>
@@ -18,6 +771,18 @@
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/91kpm61dVU-T1IphdKYetJ2B6_o=/420x240/filters:focal(2003x1526:2004x1527)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7e/d6/7ed68dc0-1f00-4645-b26b-31b0549eb54f/key_88.jpg" length="4499113" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/peggy-guggenheims-first-art-gallery-lasted-just-18-months-but-its-21-exhibitions-showed-a-multitude-of-modern-art-masterpieces-180989930/</guid>
       <pubDate>Mon, 23 Nov 2026 21:39:51 +0000</pubDate>
+    </item>    <item>
+      <title>Amazon scoops up AI accelerator tech to keep chips busy at all times</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754</link>
+      <description>
+        <![CDATA[Not the whole startup - just its tech and the brains behind it]]>
+      </description>
+      <source:markdown>Not the whole startup - just its tech and the brains behind it</source:markdown>
+      <dc:creator>Brandon Vigliarolo</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5222824&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311754</guid>
+      <category>ai and ml</category>
+      <pubDate>Mon, 23 Nov 2026 21:17:15 +0000</pubDate>
     </item>    <item>
       <title>NASA Awards Contract for NOAA’s Near Earth Orbit Network Program</title>
       <link>https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/</link>
@@ -52,6 +817,18 @@
       <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/what-can-300-years-of-european-portraits-reveal-about-evolving-beauty-standards-180989931/</guid>
       <pubDate>Mon, 23 Nov 2026 19:30:50 +0000</pubDate>
     </item>    <item>
+      <title>Bluetooth brakes are broken as researchers find anyone can control them</title>
+      <link>https://www.theregister.com/security/2026/11/23/bluetooth-brakes-are-broken-as-researchers-find-anyone-can-control-them/5311748</link>
+      <description>
+        <![CDATA[Security fixes are available for two Elecbrakes models, but an older controller remains vulnerable and unpatched]]>
+      </description>
+      <source:markdown>Security fixes are available for two Elecbrakes models, but an older controller remains vulnerable and unpatched</source:markdown>
+      <dc:creator>Brandon Vigliarolo</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=229180&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311748</guid>
+      <category>security</category>
+      <pubDate>Mon, 23 Nov 2026 19:29:59 +0000</pubDate>
+    </item>    <item>
       <title>Inside Bolivia&#39;s Newly Restored &#39;Sistine Chapel of the Andes,&#39; Centuries-Old Murals Tell Biblical Stories With Andean Imagery</title>
       <link>https://www.smithsonianmag.com/smart-news/inside-bolivia-newly-restored-sistine-chapel-of-the-andes-centuries-old-murals-tell-biblical-stories-with-andean-imagery-180989925/</link>
       <description>
@@ -61,6 +838,18 @@
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/w96MSzAmUB5_Ar7GjquhJwnH04c=/420x240/filters:focal(512x346:513x347)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a3/4d/a34d87ee-754a-4713-98e1-5b7a65b211d3/gettyimages-558033311.jpg" length="239327" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/inside-bolivia-newly-restored-sistine-chapel-of-the-andes-centuries-old-murals-tell-biblical-stories-with-andean-imagery-180989925/</guid>
       <pubDate>Mon, 23 Nov 2026 18:59:43 +0000</pubDate>
+    </item>    <item>
+      <title>Critical Cisco remote code execution bug under attack</title>
+      <link>https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722</link>
+      <description>
+        <![CDATA[CISA, F6 sound the alarm after PoC exploit made public]]>
+      </description>
+      <source:markdown>CISA, F6 sound the alarm after PoC exploit made public</source:markdown>
+      <dc:creator>Jessica Lyons</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5249134&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311722</guid>
+      <category>security</category>
+      <pubDate>Mon, 23 Nov 2026 17:56:56 +0000</pubDate>
     </item>    <item>
       <title>Studying Cancer Cells in Microgravity</title>
       <link>https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/</link>
@@ -85,6 +874,35 @@
       <category>Technology</category>
       <category>Technology for Living in Space</category>
       <pubDate>Mon, 23 Nov 2026 17:23:50 +0000</pubDate>
+    </item>    <item>
+      <title>Bulgaria evicts cyber snoops who lurked inside government networks for 5 years</title>
+      <link>https://www.theregister.com/security/2026/11/23/bulgaria-evicts-cyber-snoops-who-lurked-inside-government-networks-for-5-years/5311629</link>
+      <description>
+        <![CDATA[Minister says intruders downloaded more than 130 GB of data as political churn left security neglected]]>
+      </description>
+      <source:markdown>Minister says intruders downloaded more than 130 GB of data as political churn left security neglected</source:markdown>
+      <dc:creator>Connor Jones</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=256287&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311629</guid>
+      <category>security</category>
+      <pubDate>Mon, 23 Nov 2026 17:01:00 +0000</pubDate>
+    </item>    <item>
+      <title>Why We Need a Revolutionary Phone Now: The Librem 5 v2</title>
+      <link>https://puri.sm/posts/why-we-need-a-revolutionary-phone-now-the-librem-5-v2/</link>
+      <description>
+        <![CDATA[<p>Recent mobile security flaws, Android’s update gaps, and new app-verification rules show why user control matters. Meet the Purism Librem 5 v2.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/why-we-need-a-revolutionary-phone-now-the-librem-5-v2/">Why We Need a Revolutionary Phone Now: The Librem 5 v2</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>Recent mobile security flaws, Android’s update gaps, and new app-verification rules show why user control matters. Meet the Purism Librem 5 v2.
+
+The post [Why We Need a Revolutionary Phone Now: The Librem 5 v2](https://puri.sm/posts/why-we-need-a-revolutionary-phone-now-the-librem-5-v2/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+      <dc:creator>Purism</dc:creator>
+      <guid isPermaLink="false">cid://https://puri.sm/?p=87366</guid>
+      <category>Librem 5 v2</category>
+      <category>Privacy</category>
+      <category>PureOS</category>
+      <category>Security</category>
+      <pubDate>Mon, 23 Nov 2026 17:00:48 +0000</pubDate>
     </item>    <item>
       <title>Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season</title>
       <link>https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/</link>
@@ -116,6 +934,18 @@
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/kebyJwqqOwSZuHnSijwCdTV8JO8=/420x240/filters:focal(2480x1653:2481x1654)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cb/28/cb288c94-582f-4f70-92bd-e171a56d10d4/ed-pills.jpg" length="6355041" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/could-an-erectile-dysfunction-pill-slow-alzheimers-disease-clinical-trial-results-show-promise-for-certain-patients-180989919/</guid>
       <pubDate>Mon, 23 Nov 2026 16:26:54 +0000</pubDate>
+    </item>    <item>
+      <title>Microsoft mega outage: Report reveals testing gaps and emails that never arrived</title>
+      <link>https://www.theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656</link>
+      <description>
+        <![CDATA[July bug overwhelmed newer servers, prompting promises of stronger safeguards and faster recovery]]>
+      </description>
+      <source:markdown>July bug overwhelmed newer servers, prompting promises of stronger safeguards and faster recovery</source:markdown>
+      <dc:creator>Richard Speed</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5295388&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311656</guid>
+      <category>saas</category>
+      <pubDate>Mon, 23 Nov 2026 16:16:00 +0000</pubDate>
     </item>    <item>
       <title>NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space</title>
       <link>https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/</link>
@@ -153,6 +983,28 @@ The post [The Incredible, Elegant DNA Repair System Makes Gene Editing Work](htt
       <category>Biology</category>
       <pubDate>Mon, 23 Nov 2026 15:27:11 +0000</pubDate>
     </item>    <item>
+      <title>British retailer Next downplays data breach at tech supplier</title>
+      <link>https://www.theregister.com/cyber-crime/2026/11/23/british-retailer-next-downplays-data-breach-at-tech-supplier/5311684</link>
+      <description>
+        <![CDATA[Retailer insists customer details are safe and the data accessed is 'benign,' but won't say exactly what hackers got their hands on]]>
+      </description>
+      <source:markdown>Retailer insists customer details are safe and the data accessed is &#39;benign,&#39; but won&#39;t say exactly what hackers got their hands on</source:markdown>
+      <dc:creator>Carly Page</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311688&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311684</guid>
+      <category>cyber-crime</category>
+      <pubDate>Mon, 23 Nov 2026 15:09:00 +0000</pubDate>
+    </item>    <item>
+      <title>These Endangered Snakes Are Some of the Most Beautiful in North America. Here&#39;s How Conservationists Are Trying to Save Them</title>
+      <link>https://www.smithsonianmag.com/smart-news/these-endangered-snakes-are-some-of-the-most-beautiful-in-north-america-heres-how-conservationists-are-trying-to-save-them-180989916/</link>
+      <description>
+        <![CDATA[Fewer than 2,000 San Francisco garter snakes are estimated to live in their native home of two California counties. So, experts are raising some babies at the San Francisco Zoo to give them a head start before releasing the creatures into the wild]]>
+      </description>
+      <source:markdown>Fewer than 2,000 San Francisco garter snakes are estimated to live in their native home of two California counties. So, experts are raising some babies at the San Francisco Zoo to give them a head start before releasing the creatures into the wild</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/R3cyVq9wz692uZUls8z7-Wyj-CA=/420x240/filters:focal(450x300:451x301)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/92/e8/92e84c39-4863-4021-b030-d99aaf9a45b4/zoo-born-san-francisco-garter-snake-edited.png" length="1289471" type="image/png" />
+      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/these-endangered-snakes-are-some-of-the-most-beautiful-in-north-america-heres-how-conservationists-are-trying-to-save-them-180989916/</guid>
+      <pubDate>Mon, 23 Nov 2026 15:00:00 +0000</pubDate>
+    </item>    <item>
       <title>NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution</title>
       <link>https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/</link>
       <description>
@@ -171,16 +1023,6 @@ The post [The Incredible, Elegant DNA Repair System Makes Gene Editing Work](htt
       <category>The Universe</category>
       <pubDate>Mon, 23 Nov 2026 15:00:00 +0000</pubDate>
     </item>    <item>
-      <title>These Endangered Snakes Are Some of the Most Beautiful in North America. Here&#39;s How Conservationists Are Trying to Save Them</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-endangered-snakes-are-some-of-the-most-beautiful-in-north-america-heres-how-conservationists-are-trying-to-save-them-180989916/</link>
-      <description>
-        <![CDATA[Fewer than 2,000 San Francisco garter snakes are estimated to live in their native home of two California counties. So, experts are raising some babies at the San Francisco Zoo to give them a head start before releasing the creatures into the wild]]>
-      </description>
-      <source:markdown>Fewer than 2,000 San Francisco garter snakes are estimated to live in their native home of two California counties. So, experts are raising some babies at the San Francisco Zoo to give them a head start before releasing the creatures into the wild</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/R3cyVq9wz692uZUls8z7-Wyj-CA=/420x240/filters:focal(450x300:451x301)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/92/e8/92e84c39-4863-4021-b030-d99aaf9a45b4/zoo-born-san-francisco-garter-snake-edited.png" length="1289471" type="image/png" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/these-endangered-snakes-are-some-of-the-most-beautiful-in-north-america-heres-how-conservationists-are-trying-to-save-them-180989916/</guid>
-      <pubDate>Mon, 23 Nov 2026 15:00:00 +0000</pubDate>
-    </item>    <item>
       <title>NixOS bring-up on an Alibaba RISC-V board</title>
       <link>https://www.osnews.com/story/146450/nixos-bring-up-on-an-alibaba-risc-v-board/</link>
       <description>
@@ -192,6 +1034,42 @@ The post [The Incredible, Elegant DNA Repair System Makes Gene Editing Work](htt
       <category>Linux</category>
       <pubDate>Mon, 23 Nov 2026 14:51:46 +0000</pubDate>
     </item>    <item>
+      <title>Nvidia board puts Jensen Huang back as boss</title>
+      <link>https://www.theregister.com/systems/2026/11/23/nvidia-board-puts-jensen-huang-back-as-boss/5311674</link>
+      <description>
+        <![CDATA[BoomerHuang CEO returns]]>
+      </description>
+      <source:markdown>BoomerHuang CEO returns</source:markdown>
+      <dc:creator>Brandon Vigliarolo</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311670&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311674</guid>
+      <category>systems</category>
+      <pubDate>Mon, 23 Nov 2026 14:35:50 +0000</pubDate>
+    </item>    <item>
+      <title>Everything going down at once wasn&#39;t evidence of a conspiracy – but the truth may be scarier</title>
+      <link>https://www.theregister.com/off-prem/2026/11/23/everything-going-down-at-once-wasnt-evidence-of-a-conspiracy-but-the-truth-may-be-scarier/5311458</link>
+      <description>
+        <![CDATA[Rogue AI or nation-state hackers would be preferable to the amount of technical debt the past week of wobbling services laid bare]]>
+      </description>
+      <source:markdown>Rogue AI or nation-state hackers would be preferable to the amount of technical debt the past week of wobbling services laid bare</source:markdown>
+      <dc:creator>Brandon Vigliarolo</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5309241&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311458</guid>
+      <category>off-prem</category>
+      <pubDate>Mon, 23 Nov 2026 14:04:00 +0000</pubDate>
+    </item>    <item>
+      <title>Trump says he won&#39;t allow US companies to build datacenters abroad</title>
+      <link>https://www.theregister.com/off-prem/2026/11/23/trump-says-he-wont-allow-us-companies-to-build-datacenters-abroad/5311640</link>
+      <description>
+        <![CDATA[President threatens 'tremendous tax' on overseas builds, but analysts question how restrictions would work]]>
+      </description>
+      <source:markdown>President threatens &#39;tremendous tax&#39; on overseas builds, but analysts question how restrictions would work</source:markdown>
+      <dc:creator>Dan Robinson</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5223935&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311640</guid>
+      <category>off-prem</category>
+      <pubDate>Mon, 23 Nov 2026 13:40:00 +0000</pubDate>
+    </item>    <item>
       <title>Once Called Home by Lockkeepers and Park Rangers, This 200-Year-Old House Along the Historic Chesapeake and Ohio Canal Is Now Opening Its Doors to Overnight Guests</title>
       <link>https://www.smithsonianmag.com/smart-news/once-called-home-by-lockkeepers-and-park-rangers-this-200-year-old-house-along-the-historic-chesapeake-and-ohio-canal-is-now-opening-its-doors-to-overnight-guests-180989924/</link>
       <description>
@@ -201,6 +1079,90 @@ The post [The Incredible, Elegant DNA Repair System Makes Gene Editing Work](htt
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/lxuRMud_89OVg-aPjVSweRnCcVE=/420x240/filters:focal(2000x1505:2001x1506)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/90/d8/90d87ff1-2563-482f-b066-e2deb193d69f/unnamed_51.jpg" length="5070562" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/once-called-home-by-lockkeepers-and-park-rangers-this-200-year-old-house-along-the-historic-chesapeake-and-ohio-canal-is-now-opening-its-doors-to-overnight-guests-180989924/</guid>
       <pubDate>Mon, 23 Nov 2026 13:15:00 +0000</pubDate>
+    </item>    <item>
+      <title>New Outlook&#39;s attachment issues sent users into the arms of its predecessor</title>
+      <link>https://www.theregister.com/saas/2026/11/23/new-outlooks-attachment-issues-sent-users-into-the-arms-of-its-predecessor/5311576</link>
+      <description>
+        <![CDATA[Microsoft recommended Classic or the web client while two rounds of fixes restored normal service]]>
+      </description>
+      <source:markdown>Microsoft recommended Classic or the web client while two rounds of fixes restored normal service</source:markdown>
+      <dc:creator>Richard Speed</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5237731&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311576</guid>
+      <category>saas</category>
+      <pubDate>Mon, 23 Nov 2026 12:30:00 +0000</pubDate>
+    </item>    <item>
+      <title>Norway links energy firm cyberattacks to critical Azure API Management flaw</title>
+      <link>https://www.theregister.com/security/2026/11/23/norway-links-energy-firm-cyberattacks-to-critical-azure-api-management-flaw/5311598</link>
+      <description>
+        <![CDATA[Microsoft says mitigation is in place, but admins must investigate possible compromise and rotate secrets]]>
+      </description>
+      <source:markdown>Microsoft says mitigation is in place, but admins must investigate possible compromise and rotate secrets</source:markdown>
+      <dc:creator>Connor Jones</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=260104&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311598</guid>
+      <category>security</category>
+      <pubDate>Mon, 23 Nov 2026 12:29:00 +0000</pubDate>
+    </item>    <item>
+      <title>Cleverbridge admits attackers stole customers&#39; credit card and CVV numbers. Yep, you read that right</title>
+      <link>https://www.theregister.com/cyber-crime/2026/11/23/cleverbridge-admits-attackers-stole-customers-credit-card-and-cvv-numbers-yep-you-read-that-right/5311573</link>
+      <description>
+        <![CDATA[Payments platform hasn't disclosed how the data was captured or the scale of the breach]]>
+      </description>
+      <source:markdown>Payments platform hasn&#39;t disclosed how the data was captured or the scale of the breach</source:markdown>
+      <dc:creator>Carly Page</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=258553&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311573</guid>
+      <category>cyber-crime</category>
+      <pubDate>Mon, 23 Nov 2026 11:48:00 +0000</pubDate>
+    </item>    <item>
+      <title>Capita CEO leaves following pensions contract disaster</title>
+      <link>https://www.theregister.com/public-sector/2026/11/23/capita-ceo-leaves-following-pensions-contract-disaster/5311585</link>
+      <description>
+        <![CDATA[Shares plunge around 70% as outsourcer cuts profit expectations and plans £190M cash call]]>
+      </description>
+      <source:markdown>Shares plunge around 70% as outsourcer cuts profit expectations and plans £190M cash call</source:markdown>
+      <dc:creator>Lindsay Clark</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=226311&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311585</guid>
+      <category>public sector</category>
+      <pubDate>Mon, 23 Nov 2026 11:11:25 +0000</pubDate>
+    </item>    <item>
+      <title>Old-school Linux desktops find fresh routes to Wayland</title>
+      <link>https://www.theregister.com/os-platforms/2026/11/23/old-school-linux-desktops-find-fresh-routes-to-wayland/5311349</link>
+      <description>
+        <![CDATA[Xfce lines up 4.22 for 2027, while MATE gains an Ubuntu-based distro and a compositor of its own]]>
+      </description>
+      <source:markdown>Xfce lines up 4.22 for 2027, while MATE gains an Ubuntu-based distro and a compositor of its own</source:markdown>
+      <dc:creator>Liam Proven</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311355&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311349</guid>
+      <category>os platforms</category>
+      <pubDate>Mon, 23 Nov 2026 10:17:00 +0000</pubDate>
+    </item>    <item>
+      <title>Airbus may be leaving Microsoft Office, but for its 36,000 defense staff, Office isn&#39;t leaving them</title>
+      <link>https://www.theregister.com/applications/2026/11/23/airbus-may-be-leaving-microsoft-office-but-for-its-36000-defense-staff-office-isnt-leaving-them/5311325</link>
+      <description>
+        <![CDATA[Planemaker's 2-to-3-year plan to ditch Redmond's suite stops short of the 22% who can't go near the cloud]]>
+      </description>
+      <source:markdown>Planemaker&#39;s 2-to-3-year plan to ditch Redmond&#39;s suite stops short of the 22% who can&#39;t go near the cloud</source:markdown>
+      <dc:creator>Paul Kunert</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5273664&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311325</guid>
+      <category>applications</category>
+      <pubDate>Mon, 23 Nov 2026 09:32:00 +0000</pubDate>
+    </item>    <item>
+      <title>When Microsoft, Apple, and the FAA can&#39;t keep it up, it&#39;s a system of a down</title>
+      <link>https://www.theregister.com/columnists/2026/11/23/when-microsoft-apple-and-the-faa-cant-keep-it-up-its-a-system-of-a-down/5311363</link>
+      <description>
+        <![CDATA[Outage after outage after outage is a syndrome that needs radical treatment]]>
+      </description>
+      <source:markdown>Outage after outage after outage is a syndrome that needs radical treatment</source:markdown>
+      <dc:creator>Rupert Goodwins</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311379&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311363</guid>
+      <category>columnists</category>
+      <pubDate>Mon, 23 Nov 2026 08:42:00 +0000</pubDate>
     </item>    <item>
       <title>Your favorite apple is a cloned ovary – and other apple facts</title>
       <link>https://www.npr.org/2026/11/23/nx-s1-6050315/apple-orchard-harvest-ovary-clone</link>
@@ -217,6 +1179,30 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/799b2c97-989d-4a8d-916f-cf393258e6b1/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=799b2c97-989d-4a8d-916f-cf393258e6b1&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-6050315&#38;p=510351&#38;d=892&#38;size=14277529" length="14277529" type="audio/mpeg" />
       <guid isPermaLink="false">cid://1a53cf9b-907d-4fd7-baa7-7fff7ef5210d</guid>
       <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Software issues have even reached Mercury as BepiColombo probe arrives in uncertain state</title>
+      <link>https://www.theregister.com/science/2026/11/23/software-issues-have-even-reached-mercury-as-bepicolombo-probe-arrives-in-uncertain-state/5311554</link>
+      <description>
+        <![CDATA[Spacecraft enters orbit after epic journey but something shortened a burn]]>
+      </description>
+      <source:markdown>Spacecraft enters orbit after epic journey but something shortened a burn</source:markdown>
+      <dc:creator>Simon Sharwood</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311561&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311554</guid>
+      <category>science</category>
+      <pubDate>Mon, 23 Nov 2026 07:24:00 +0000</pubDate>
+    </item>    <item>
+      <title>Techie turned his too-easy job interview into a trap</title>
+      <link>https://www.theregister.com/personal-tech/2026/11/23/techie-turned-his-too-easy-job-interview-into-a-trap/5311213</link>
+      <description>
+        <![CDATA[With the flick of a switch, he smoked out competent PC maintenance skills]]>
+      </description>
+      <source:markdown>With the flick of a switch, he smoked out competent PC maintenance skills</source:markdown>
+      <dc:creator>Simon Sharwood</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311218&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311213</guid>
+      <category>personal tech</category>
+      <pubDate>Mon, 23 Nov 2026 06:35:00 +0000</pubDate>
     </item>    <item>
       <title>APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251</title>
       <link>https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/</link>
@@ -241,6 +1227,30 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <category>Remote Sensing Technology</category>
       <pubDate>Mon, 23 Nov 2026 05:01:00 +0000</pubDate>
     </item>    <item>
+      <title>Google claims last week’s critical VMware bug was under attack in September</title>
+      <link>https://www.theregister.com/virtualization/2026/11/23/google-claims-last-weeks-critical-vmware-bug-was-under-attack-in-september/5311547</link>
+      <description>
+        <![CDATA[China-linked ARMORY CASTLE knew about it weeks before it unleashed five custom malware tools targeting vCenter]]>
+      </description>
+      <source:markdown>China-linked ARMORY CASTLE knew about it weeks before it unleashed five custom malware tools targeting vCenter</source:markdown>
+      <dc:creator>Simon Sharwood</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=261387&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311547</guid>
+      <category>virtualization</category>
+      <pubDate>Mon, 23 Nov 2026 04:39:19 +0000</pubDate>
+    </item>    <item>
+      <title>$1 of GPT-5.1 tokens finds new ways around China’s Great Firewall</title>
+      <link>https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532</link>
+      <description>
+        <![CDATA[PLUS: Lenovo's infra group finally makes big profit; Indonesia’s glaciers are gone; Australian bank releases its AI bug-finder; and more!]]>
+      </description>
+      <source:markdown>PLUS: Lenovo&#39;s infra group finally makes big profit; Indonesia’s glaciers are gone; Australian bank releases its AI bug-finder; and more!</source:markdown>
+      <dc:creator>Simon Sharwood</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=246780&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311532</guid>
+      <category>security</category>
+      <pubDate>Mon, 23 Nov 2026 00:23:31 +0000</pubDate>
+    </item>    <item>
       <title>An ordinary evening on the Brooklyn Bridge</title>
       <link>https://publicai.substack.com/p/an-ordinary-evening-on-the-brooklyn</link>
       <description>
@@ -263,6 +1273,42 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <category>Johnson Space Center</category>
       <pubDate>Sun, 22 Nov 2026 19:13:25 +0000</pubDate>
     </item>    <item>
+      <title>As cars go digital, US consumers pay an extra $12 billion a year for repairs</title>
+      <link>https://www.theregister.com/personal-tech/2026/11/22/as-cars-go-digital-us-consumers-pay-an-extra-12-billion-a-year-for-repairs/5311412</link>
+      <description>
+        <![CDATA[Today's vehicles need software tools to make repairs, and the subscriptions inflate insurance fees]]>
+      </description>
+      <source:markdown>Today&#39;s vehicles need software tools to make repairs, and the subscriptions inflate insurance fees</source:markdown>
+      <dc:creator>Dan Robinson</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311508&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311412</guid>
+      <category>personal tech</category>
+      <pubDate>Sun, 22 Nov 2026 16:08:00 +0000</pubDate>
+    </item>    <item>
+      <title>Passive &#39;ghost&#39; radar can detect airborne threats without revealing its own position</title>
+      <link>https://www.theregister.com/offbeat/2026/11/22/passive-ghost-radar-can-detect-airborne-threats-without-revealing-its-own-position/5311023</link>
+      <description>
+        <![CDATA[Kit piggybacks off TV and mobile signals and can be neatly stuffed into an SUV]]>
+      </description>
+      <source:markdown>Kit piggybacks off TV and mobile signals and can be neatly stuffed into an SUV</source:markdown>
+      <dc:creator>Dan Robinson</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311030&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311023</guid>
+      <category>offbeat</category>
+      <pubDate>Sun, 22 Nov 2026 09:15:00 +0000</pubDate>
+    </item>    <item>
+      <title>Come for the science, stay for the big iron: Supercomputer admin on why he loves the job</title>
+      <link>https://www.theregister.com/hpc/2026/11/22/come-for-the-science-stay-for-the-big-iron-supercomputer-admin-on-why-he-loves-the-job/5311247</link>
+      <description>
+        <![CDATA[From the dotcom bubble to 200,00 cores of raw power]]>
+      </description>
+      <source:markdown>From the dotcom bubble to 200,00 cores of raw power</source:markdown>
+      <dc:creator>Joshua Gliddon</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311252&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311247</guid>
+      <category>hpc</category>
+      <pubDate>Sun, 22 Nov 2026 08:48:00 +0000</pubDate>
+    </item>    <item>
       <title>APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno</title>
       <link>https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/</link>
       <description>
@@ -284,6 +1330,42 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <category>NetBSD</category>
       <pubDate>Sat, 21 Nov 2026 23:52:41 +0000</pubDate>
     </item>    <item>
+      <title>AWS got hit by an outage too. Here&#39;s why you didn&#39;t hear about it</title>
+      <link>https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511</link>
+      <description>
+        <![CDATA[If a service falls in the forest and nobody hears it...]]>
+      </description>
+      <source:markdown>If a service falls in the forest and nobody hears it...</source:markdown>
+      <dc:creator>Corey Quinn</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311515&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311511</guid>
+      <category>columnists</category>
+      <pubDate>Sat, 21 Nov 2026 14:35:00 +0000</pubDate>
+    </item>    <item>
+      <title>ChatGPT shrunk down to run on a Super Nintendo</title>
+      <link>https://www.theregister.com/offbeat/2026/11/21/chatgpt-shrunk-down-to-run-on-a-super-nintendo/5311418</link>
+      <description>
+        <![CDATA[Just don't expect complex, coherent, or always correct answers]]>
+      </description>
+      <source:markdown>Just don&#39;t expect complex, coherent, or always correct answers</source:markdown>
+      <dc:creator>Brandon Vigliarolo</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311423&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311418</guid>
+      <category>offbeat</category>
+      <pubDate>Sat, 21 Nov 2026 11:46:00 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Mars rover and orbiter suffer glitches</title>
+      <link>https://www.theregister.com/science/2026/11/21/nasa-mars-rover-and-orbiter-suffer-glitches/5311360</link>
+      <description>
+        <![CDATA[It isn't only systems on Earth suffering technical problems]]>
+      </description>
+      <source:markdown>It isn&#39;t only systems on Earth suffering technical problems</source:markdown>
+      <dc:creator>Richard Speed</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=226873&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311360</guid>
+      <category>science</category>
+      <pubDate>Sat, 21 Nov 2026 07:47:00 +0000</pubDate>
+    </item>    <item>
       <title>APOD: 2026 November 21 – Voyager’s Neptune</title>
       <link>https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/</link>
       <description>
@@ -293,6 +1375,30 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <guid isPermaLink="false">cid://https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/</guid>
       <category>APOD</category>
       <pubDate>Sat, 21 Nov 2026 05:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>Amazon&#39;s split personality: AWS embraces bot commerce while main site enforces bans</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/11/20/amazons-split-personality-aws-embraces-bot-commerce-while-main-site-enforces-bans/5311493</link>
+      <description>
+        <![CDATA[Bot-based buying is here or not, depending on where you stand in the Amazon empire]]>
+      </description>
+      <source:markdown>Bot-based buying is here or not, depending on where you stand in the Amazon empire</source:markdown>
+      <dc:creator>Thomas Claburn</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311499&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311493</guid>
+      <category>ai and ml</category>
+      <pubDate>Fri, 20 Nov 2026 23:41:14 +0000</pubDate>
+    </item>    <item>
+      <title>PHP 8.6: Things are gonna get a lot more strict around here</title>
+      <link>https://www.theregister.com/devops/2026/11/20/php-86-things-are-gonna-get-a-lot-more-strict-around-here/5311486</link>
+      <description>
+        <![CDATA[Like a parent disciplining a misbehaving child, PHP’s annual update clamps down on loose default behaviors to curb malicious hacker horseplay.]]>
+      </description>
+      <source:markdown>Like a parent disciplining a misbehaving child, PHP’s annual update clamps down on loose default behaviors to curb malicious hacker horseplay.</source:markdown>
+      <dc:creator>Joab Jackson</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5247128&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311486</guid>
+      <category>devops</category>
+      <pubDate>Fri, 20 Nov 2026 23:28:47 +0000</pubDate>
     </item>    <item>
       <title>Purism Differentiator Series, Part 20: Releasing Source Code to the Public</title>
       <link>https://puri.sm/posts/purism-differentiator-series-part-20-releasing-source-code-to-the-public/</link>
@@ -320,6 +1426,18 @@ The post [Purism Differentiator Series, Part 20: Releasing Source Code to the Pu
       <category>Photojournal</category>
       <pubDate>Fri, 20 Nov 2026 22:27:05 +0000</pubDate>
     </item>    <item>
+      <title>Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers</title>
+      <link>https://www.theregister.com/cyber-crime/2026/11/20/visa-mastercard-theft-included-info-useful-for-phishing-but-not-draining-bank-accounts-say-researchers/5311478</link>
+      <description>
+        <![CDATA[No financial details, but plenty of other clues]]>
+      </description>
+      <source:markdown>No financial details, but plenty of other clues</source:markdown>
+      <dc:creator>Jessica Lyons</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311482&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311478</guid>
+      <category>cyber-crime</category>
+      <pubDate>Fri, 20 Nov 2026 21:27:56 +0000</pubDate>
+    </item>    <item>
       <title>One of Hilma af Klint&#39;s Amazingly Rare Abstract Paintings Sold for a Record $12.7 Million at Auction. But Should It Have Been on Sale at All?</title>
       <link>https://www.smithsonianmag.com/smart-news/one-of-hilma-al-klint-amazingly-rare-abstract-painting-sold-for-a-record-12-million-at-auctionbut-should-it-have-been-on-sale-at-all-180989922/</link>
       <description>
@@ -344,6 +1462,18 @@ The post [Purism Differentiator Series, Part 20: Releasing Source Code to the Pu
       <category>NASA Centers &#38; Facilities</category>
       <category>Space Technology Mission Directorate</category>
       <pubDate>Fri, 20 Nov 2026 20:46:14 +0000</pubDate>
+    </item>    <item>
+      <title>Signal slams door on prying AI agents to protect privacy</title>
+      <link>https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466</link>
+      <description>
+        <![CDATA[Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls]]>
+      </description>
+      <source:markdown>Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls</source:markdown>
+      <dc:creator>Thomas Claburn</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=227546&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311466</guid>
+      <category>security</category>
+      <pubDate>Fri, 20 Nov 2026 20:42:04 +0000</pubDate>
     </item>    <item>
       <title>A Roman Cup and Hundreds of Other Treasures Unearthed in This 2,000-Year-Old Tomb Reveal the Rich Exchange Network of an Ancient Asian Empire</title>
       <link>https://www.smithsonianmag.com/smart-news/a-roman-cup-and-hundreds-other-treasures-unearthed-in-this-2000-year-old-tomb-reveal-the-rich-exchange-network-of-an-ancient-asian-empire-180989920/</link>
@@ -375,6 +1505,30 @@ The post [Purism Differentiator Series, Part 20: Releasing Source Code to the Pu
       <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/for-the-first-time-astronomers-witnessed-a-giant-star-gobble-up-its-smaller-stellar-companion-180989905/</guid>
       <pubDate>Fri, 20 Nov 2026 19:21:50 +0000</pubDate>
     </item>    <item>
+      <title>Nvidia’s journey to forge the one CPU SKU to rule them all</title>
+      <link>https://www.theregister.com/systems/2026/11/20/nvidias-journey-to-forge-the-one-cpu-sku-to-rule-them-all/5311438</link>
+      <description>
+        <![CDATA[A deeper look at Vera]]>
+      </description>
+      <source:markdown>A deeper look at Vera</source:markdown>
+      <dc:creator>Tobias Mann</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5228929&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311438</guid>
+      <category>systems</category>
+      <pubDate>Fri, 20 Nov 2026 18:45:50 +0000</pubDate>
+    </item>    <item>
+      <title>China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server</title>
+      <link>https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382</link>
+      <description>
+        <![CDATA['Agents kept adapting for nearly a full day without human direction,' Amazon CISO said]]>
+      </description>
+      <source:markdown>&#39;Agents kept adapting for nearly a full day without human direction,&#39; Amazon CISO said</source:markdown>
+      <dc:creator>Jessica Lyons</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311400&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311382</guid>
+      <category>security</category>
+      <pubDate>Fri, 20 Nov 2026 17:30:00 +0000</pubDate>
+    </item>    <item>
       <title>An Isolated Group of Amazonian Hunter-Gatherers Made a Rare Request for Help From Outsiders, Raising Concerns About Forest Degradation</title>
       <link>https://www.smithsonianmag.com/smart-news/an-isolated-group-of-amazonian-hunter-gatherers-made-a-rare-request-for-help-from-outsiders-raising-concerns-about-forest-degradation-180989909/</link>
       <description>
@@ -384,6 +1538,18 @@ The post [Purism Differentiator Series, Part 20: Releasing Source Code to the Pu
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/fuidE1CEcxEADrC1YQhRldcFDxU=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cb/0b/cb0ba54b-8d6d-464a-b0a7-0f08a5a564b7/awa-main.png" length="1879935" type="image/png" />
       <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/an-isolated-group-of-amazonian-hunter-gatherers-made-a-rare-request-for-help-from-outsiders-raising-concerns-about-forest-degradation-180989909/</guid>
       <pubDate>Fri, 20 Nov 2026 17:08:26 +0000</pubDate>
+    </item>    <item>
+      <title>Dutch data watchdog highlights safety issues with AI glasses</title>
+      <link>https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345</link>
+      <description>
+        <![CDATA[Devices found to misinterpret medication instructions and other scenarios impacting human safety]]>
+      </description>
+      <source:markdown>Devices found to misinterpret medication instructions and other scenarios impacting human safety</source:markdown>
+      <dc:creator>Connor Jones</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5308699&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311345</guid>
+      <category>security</category>
+      <pubDate>Fri, 20 Nov 2026 16:44:00 +0000</pubDate>
     </item>    <item>
       <title>NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center</title>
       <link>https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/</link>
@@ -395,6 +1561,18 @@ The post [Purism Differentiator Series, Part 20: Releasing Source Code to the Pu
       <guid isPermaLink="false">cid://https://www.nasa.gov/?p=1066962</guid>
       <category>Stennis Space Center</category>
       <pubDate>Fri, 20 Nov 2026 16:27:46 +0000</pubDate>
+    </item>    <item>
+      <title>AI boom threatens circuit board crunch to rival pandemic-era chip shortage</title>
+      <link>https://www.theregister.com/systems/2026/11/20/ai-boom-threatens-circuit-board-crunch-to-rival-pandemic-era-chip-shortage/5311335</link>
+      <description>
+        <![CDATA[Trade body warns automotive, medical, and defense orders are being crowded out, with relief unlikely before mid-2028]]>
+      </description>
+      <source:markdown>Trade body warns automotive, medical, and defense orders are being crowded out, with relief unlikely before mid-2028</source:markdown>
+      <dc:creator>Dan Robinson</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=247172&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311335</guid>
+      <category>systems</category>
+      <pubDate>Fri, 20 Nov 2026 16:01:00 +0000</pubDate>
     </item>    <item>
       <title>NASA’s Curiosity Mars Rover Collects Samples</title>
       <link>https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/</link>
@@ -421,6 +1599,18 @@ The post [Librem 5 v2 Campaign Builds Early Momentum at 100 Orders](https://puri
       <category>Crowdfunding</category>
       <pubDate>Fri, 20 Nov 2026 15:16:47 +0000</pubDate>
     </item>    <item>
+      <title>&#39;Critical&#39; 1970s-era Fujitsu UK police system could remain unsupported for three years</title>
+      <link>https://www.theregister.com/public-sector/2026/11/20/critical-1970s-era-fujitsu-uk-police-system-could-remain-unsupported-for-three-years/5311322</link>
+      <description>
+        <![CDATA[Home Office needs more time with the PNC, which began life more than 50 years ago]]>
+      </description>
+      <source:markdown>Home Office needs more time with the PNC, which began life more than 50 years ago</source:markdown>
+      <dc:creator>Lindsay Clark</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311357&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311322</guid>
+      <category>public sector</category>
+      <pubDate>Fri, 20 Nov 2026 15:12:00 +0000</pubDate>
+    </item>    <item>
       <title>Nine-Pound Eagles Seem to Be Hunting 60-Pound Baboons in Africa—Hinting the Predators May Have Gone After Our Ancestors, Too</title>
       <link>https://www.smithsonianmag.com/smart-news/nine-pound-eagles-seem-to-be-hunting-60-pound-baboons-in-africa-hinting-the-predators-may-have-gone-after-our-ancestors-too-180989906/</link>
       <description>
@@ -444,6 +1634,30 @@ The post [Network Researchers Nail Down Theory of ‘Perfect Resilience’](http
       <category>Computer Science</category>
       <pubDate>Fri, 20 Nov 2026 14:50:41 +0000</pubDate>
     </item>    <item>
+      <title>Microsoft&#39;s last non-security preview of 2026 packs a punch</title>
+      <link>https://www.theregister.com/os-platforms/2026/11/20/microsofts-last-non-security-preview-of-2026-packs-a-punch/5311300</link>
+      <description>
+        <![CDATA[Windows Search gets a makeover, while Hello lights up dim rooms]]>
+      </description>
+      <source:markdown>Windows Search gets a makeover, while Hello lights up dim rooms</source:markdown>
+      <dc:creator>Richard Speed</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5238981&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311300</guid>
+      <category>os platforms</category>
+      <pubDate>Fri, 20 Nov 2026 14:28:00 +0000</pubDate>
+    </item>    <item>
+      <title>Microsoft suggests Registry hack to work around hotpatch woes</title>
+      <link>https://www.theregister.com/os-platforms/2026/11/20/microsoft-suggests-registry-hack-to-work-around-hotpatch-woes/5311279</link>
+      <description>
+        <![CDATA[App problems in Windows after default hotpatching? Who could have foreseen that?]]>
+      </description>
+      <source:markdown>App problems in Windows after default hotpatching? Who could have foreseen that?</source:markdown>
+      <dc:creator>Richard Speed</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311310&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311279</guid>
+      <category>os platforms</category>
+      <pubDate>Fri, 20 Nov 2026 13:39:00 +0000</pubDate>
+    </item>    <item>
       <title>Teeth Discovered in Two Chinese Caves Are Rewriting the Story of Homo Erectus, an Ancient Human Ancestor That May Have Been More Capable Than We Thought</title>
       <link>https://www.smithsonianmag.com/smart-news/teeth-discovered-in-two-chinese-caves-are-rewriting-the-story-of-homo-erectus-an-ancient-human-ancestor-that-may-have-been-more-capable-than-we-thought-180989913/</link>
       <description>
@@ -454,6 +1668,30 @@ The post [Network Researchers Nail Down Theory of ‘Perfect Resilience’](http
       <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/teeth-discovered-in-two-chinese-caves-are-rewriting-the-story-of-homo-erectus-an-ancient-human-ancestor-that-may-have-been-more-capable-than-we-thought-180989913/</guid>
       <pubDate>Fri, 20 Nov 2026 13:10:00 +0000</pubDate>
     </item>    <item>
+      <title>AI could open wallets where ERP upgrade pitches can&#39;t, says PwC</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/11/20/ai-could-open-wallets-where-erp-upgrade-pitches-cant-says-pwc/5311221</link>
+      <description>
+        <![CDATA[Consultancy argues a 'clean core' makes agents easier to deploy – but Kingfisher is taking a different route]]>
+      </description>
+      <source:markdown>Consultancy argues a &#39;clean core&#39; makes agents easier to deploy – but Kingfisher is taking a different route</source:markdown>
+      <dc:creator>Lindsay Clark</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311243&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311221</guid>
+      <category>ai and ml</category>
+      <pubDate>Fri, 20 Nov 2026 12:47:00 +0000</pubDate>
+    </item>    <item>
+      <title>Spy court blasts UK secrecy, forces government to admit Apple ‘backdoor’ demand</title>
+      <link>https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292</link>
+      <description>
+        <![CDATA[Notice's existence can be acknowledged without harming national security, but its precise demands remain under wraps]]>
+      </description>
+      <source:markdown>Notice&#39;s existence can be acknowledged without harming national security, but its precise demands remain under wraps</source:markdown>
+      <dc:creator>Connor Jones</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5220278&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311292</guid>
+      <category>security</category>
+      <pubDate>Fri, 20 Nov 2026 12:18:19 +0000</pubDate>
+    </item>    <item>
       <title>Georgia O&#39;Keeffe Is Famous for Painting Flowers and Deserts. Why Have We Forgotten Her Obsession With American Architecture?</title>
       <link>https://www.smithsonianmag.com/smart-news/georgia-okeeffe-is-famous-for-painting-flowers-and-deserts-why-have-we-forgotten-her-obsession-with-american-architecture-180989911/</link>
       <description>
@@ -463,6 +1701,18 @@ The post [Network Researchers Nail Down Theory of ‘Perfect Resilience’](http
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/S5Jxmelf8CJ9-FKTXr-PS2kUkjc=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/82/4d/824d8de7-37a5-442b-bffe-668027a7007c/okeeffe.jpg" length="393296" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/georgia-okeeffe-is-famous-for-painting-flowers-and-deserts-why-have-we-forgotten-her-obsession-with-american-architecture-180989911/</guid>
       <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Windows 11 passkey bug cries failure after successful sign-in</title>
+      <link>https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263</link>
+      <description>
+        <![CDATA[Optional update fixes misleading Android error for versions 25H2 and 26H2]]>
+      </description>
+      <source:markdown>Optional update fixes misleading Android error for versions 25H2 and 26H2</source:markdown>
+      <dc:creator>Richard Speed</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5289791&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311263</guid>
+      <category>security</category>
+      <pubDate>Fri, 20 Nov 2026 11:09:44 +0000</pubDate>
     </item>    <item>
       <title>The history behind the x86 CPU: from 4004 to 486</title>
       <link>https://www.osnews.com/story/146445/the-history-behind-the-x86-cpu-from-4004-to-486/</link>
@@ -486,6 +1736,18 @@ The post [Network Researchers Nail Down Theory of ‘Perfect Resilience’](http
       <category>FreeBSD</category>
       <pubDate>Fri, 20 Nov 2026 10:09:17 +0000</pubDate>
     </item>    <item>
+      <title>Ubuntu Core Desktop targets 28.04 debut, with default status in its sights</title>
+      <link>https://www.theregister.com/os-platforms/2026/11/20/ubuntu-core-desktop-targets-2804-debut-with-default-status-in-its-sights/5310837</link>
+      <description>
+        <![CDATA[Canonical's stretch goal is to make the immutable OS standard in 30.04 – without retiring the traditional distro]]>
+      </description>
+      <source:markdown>Canonical&#39;s stretch goal is to make the immutable OS standard in 30.04 – without retiring the traditional distro</source:markdown>
+      <dc:creator>Liam Proven</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5252431&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5310837</guid>
+      <category>os platforms</category>
+      <pubDate>Fri, 20 Nov 2026 09:29:00 +0000</pubDate>
+    </item>    <item>
       <title>This gas station drug acts like opioids. It’s getting harder to buy</title>
       <link>https://www.npr.org/2026/11/20/nx-s1-6045648/kratom-opioid-addiction-7-oh</link>
       <description>
@@ -499,6 +1761,18 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/0ed0c538-f450-4a92-9098-3795550ed618/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=0ed0c538-f450-4a92-9098-3795550ed618&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-6045648&#38;p=510351&#38;d=854&#38;size=13669817" length="13669817" type="audio/mpeg" />
       <guid isPermaLink="false">cid://418e65da-a190-4639-8188-62907ff41159</guid>
       <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Support tech fixed malware by charging client less for their services</title>
+      <link>https://www.theregister.com/personal-tech/2026/11/20/support-tech-fixed-malware-by-charging-client-less-for-their-services/5310959</link>
+      <description>
+        <![CDATA[‘I gave up at least $6,000 and I’d do it again’]]>
+      </description>
+      <source:markdown>‘I gave up at least $6,000 and I’d do it again’</source:markdown>
+      <dc:creator>Simon Sharwood</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=252539&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5310959</guid>
+      <category>personal tech</category>
+      <pubDate>Fri, 20 Nov 2026 06:29:00 +0000</pubDate>
     </item>    <item>
       <title>APOD: 2026 November 20 – V-G-R</title>
       <link>https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/</link>
@@ -521,6 +1795,54 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <category>Extreme Weather Events</category>
       <category>Moderate Resolution Imaging Spectroradiometer (MODIS)</category>
       <pubDate>Fri, 20 Nov 2026 05:01:00 +0000</pubDate>
+    </item>    <item>
+      <title>Big Tech&#39;s compliance with EU market rules is performative, consumer group says</title>
+      <link>https://www.theregister.com/legal/2026/11/20/big-techs-compliance-with-eu-market-rules-is-performative-consumer-group-says/5311066</link>
+      <description>
+        <![CDATA[BEUC urges Brussels to impose tougher penalties over alleged barriers to switching services and controlling personal data]]>
+      </description>
+      <source:markdown>BEUC urges Brussels to impose tougher penalties over alleged barriers to switching services and controlling personal data</source:markdown>
+      <dc:creator>Richard Speed</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311087&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311066</guid>
+      <category>legal</category>
+      <pubDate>Fri, 20 Nov 2026 04:30:00 +0000</pubDate>
+    </item>    <item>
+      <title>US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies</title>
+      <link>https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200</link>
+      <description>
+        <![CDATA[Not many of the deals went through, but Chinese clouds no longer care about importing GPUs]]>
+      </description>
+      <source:markdown>Not many of the deals went through, but Chinese clouds no longer care about importing GPUs</source:markdown>
+      <dc:creator>Simon Sharwood</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=236466&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311200</guid>
+      <category>legal</category>
+      <pubDate>Fri, 20 Nov 2026 04:04:56 +0000</pubDate>
+    </item>    <item>
+      <title>Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else</title>
+      <link>https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193</link>
+      <description>
+        <![CDATA[Critical Virtzilla bugs allow authentication bypass, as a nested virtualization issue got Digital Ocean ducking]]>
+      </description>
+      <source:markdown>Critical Virtzilla bugs allow authentication bypass, as a nested virtualization issue got Digital Ocean ducking</source:markdown>
+      <dc:creator>Simon Sharwood</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=262623&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311193</guid>
+      <category>security</category>
+      <pubDate>Fri, 20 Nov 2026 00:57:45 +0000</pubDate>
+    </item>    <item>
+      <title>Germ Network infects Android, but in a good way</title>
+      <link>https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186</link>
+      <description>
+        <![CDATA[Bluesky's preferred encrypted messaging app allows multiple identities without tying you to a phone number]]>
+      </description>
+      <source:markdown>Bluesky&#39;s preferred encrypted messaging app allows multiple identities without tying you to a phone number</source:markdown>
+      <dc:creator>Thomas Claburn</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311190&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311186</guid>
+      <category>security</category>
+      <pubDate>Fri, 20 Nov 2026 00:06:35 +0000</pubDate>
     </item>    <item>
       <title>Purism Differentiator Series, Part 19: PureOS Store</title>
       <link>https://puri.sm/posts/purism-differentiator-series-part-19-pureos-store/</link>
@@ -3301,9 +4623,9 @@ The post [A Strange Quantum Theorem Has Killed Einstein’s Reality](https://www
       <title>Archaeologists Found a 3,300-Year-Old Sword at the Bottom of a Volcanic Lake in Italy—and It&#39;s Still Sharp</title>
       <link>https://www.smithsonianmag.com/smart-news/archaeologists-found-a-3300-year-old-sword-at-the-bottom-of-a-volcanic-lake-in-italy-and-its-still-sharp-180989813/</link>
       <description>
-        <![CDATA[The remarkably well-preserved 13th century B.C.E. weapon was found submerged in Lake Mezzano, once home to a Bronze Age village on stilts]]>
+        <![CDATA[The remarkably well-preserved 13th-century B.C.E. weapon was found submerged in Lake Mezzano, once home to a Bronze Age village on stilts]]>
       </description>
-      <source:markdown>The remarkably well-preserved 13th century B.C.E. weapon was found submerged in Lake Mezzano, once home to a Bronze Age village on stilts</source:markdown>
+      <source:markdown>The remarkably well-preserved 13th-century B.C.E. weapon was found submerged in Lake Mezzano, once home to a Bronze Age village on stilts</source:markdown>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/bks3_8bl7OOpRDquKt18ndzlAjw=/420x240/filters:focal(384x218:385x219)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3b/d5/3bd5f8c9-a1af-4708-9899-03e607df68dc/spada_mezzano-3-768x432.jpg" length="26596" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/archaeologists-found-a-3300-year-old-sword-at-the-bottom-of-a-volcanic-lake-in-italy-and-its-still-sharp-180989813/</guid>
       <pubDate>Thu, 05 Nov 2026 15:08:53 +0000</pubDate>
@@ -3601,202 +4923,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <guid isPermaLink="false">cid://https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/</guid>
       <category>Earth Observatory</category>
       <pubDate>Wed, 04 Nov 2026 05:01:00 +0000</pubDate>
-    </item>    <item>
-      <title>See the World&#39;s Tallest Day of the Dead Skeleton, Made From Steel, Fiberglass, Papier-Mâché and 70,000 Marigolds</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-the-world-tallest-day-of-the-dead-skeleton-made-from-steel-fiberglass-papier-mache-and-70000-marigolds-180989806/</link>
-      <description>
-        <![CDATA[Standing a little more than 109 feet tall—roughly the height of an 11-story building—the colorful "La Catrina" figure in Mexico City broke the previous record of 92 feet set in Puerto Vallarta, Mexico, in 2023]]>
-      </description>
-      <source:markdown>Standing a little more than 109 feet tall—roughly the height of an 11-story building—the colorful &#34;La Catrina&#34; figure in Mexico City broke the previous record of 92 feet set in Puerto Vallarta, Mexico, in 2023</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/fC-2-309aYdbGUJ-lH9xd-8t2zI=/420x240/filters:focal(512x344:513x345)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/63/df/63df87d8-97b3-4dc2-aa08-1348bd8e7ad1/gettyimages-2302100290.jpg" length="229255" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/see-the-world-tallest-day-of-the-dead-skeleton-made-from-steel-fiberglass-papier-mache-and-70000-marigolds-180989806/</guid>
-      <pubDate>Tue, 03 Nov 2026 22:11:15 +0000</pubDate>
-    </item>    <item>
-      <title>Archaeologists in Scotland Discovered the Skeleton of a Roman-Era Man Who Was Decapitated Nearly 2,000 Years Ago. Now, You Can See What He Might Have Looked Like During His Lifetime</title>
-      <link>https://www.smithsonianmag.com/smart-news/archaeologists-in-scotland-discovered-the-skeleton-of-a-roman-era-man-who-was-decapitated-nearly-2000-years-ago-now-you-can-see-what-he-might-have-looked-like-during-his-lifetime-180989804/</link>
-      <description>
-        <![CDATA[A digital facial reconstruction of the man, whose head was severed after his death, will soon go on view in Edinburgh. It depicts an individual in his early 50s, with graying hair and brown eyes]]>
-      </description>
-      <source:markdown>A digital facial reconstruction of the man, whose head was severed after his death, will soon go on view in Edinburgh. It depicts an individual in his early 50s, with graying hair and brown eyes</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/J1dR6xwuvcEjhFzPYhXpd9sez8E=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7d/aa/7daa344c-23ca-49aa-aeda-c49eddeb7ad5/facial-reconstruction.png" length="610470" type="image/png" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/archaeologists-in-scotland-discovered-the-skeleton-of-a-roman-era-man-who-was-decapitated-nearly-2000-years-ago-now-you-can-see-what-he-might-have-looked-like-during-his-lifetime-180989804/</guid>
-      <pubDate>Tue, 03 Nov 2026 21:38:19 +0000</pubDate>
-    </item>    <item>
-      <title>See a Stunning Simulation of the Early Universe, Which Will Help Astronomers Shed Light on the Cosmic Dark Ages</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-a-stunning-simulation-of-the-early-universe-which-will-help-astronomers-shed-light-on-the-cosmic-dark-ages-180989791/</link>
-      <description>
-        <![CDATA[The model, created by researchers at the Center for Astrophysics, Harvard & Smithsonian, and other institutions, captures how the first stars and black holes gradually illuminated the universe after millions of years of darkness]]>
-      </description>
-      <source:markdown>The model, created by researchers at the Center for Astrophysics, Harvard &#38; Smithsonian, and other institutions, captures how the first stars and black holes gradually illuminated the universe after millions of years of darkness</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/j0v88-SrcjwZzCoYP_8lYDDVu5Y=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/36/4d/364d478e-5338-4b8c-9ccf-8479e197c6c3/lumina-main.png" length="1758217" type="image/png" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/see-a-stunning-simulation-of-the-early-universe-which-will-help-astronomers-shed-light-on-the-cosmic-dark-ages-180989791/</guid>
-      <pubDate>Tue, 03 Nov 2026 19:08:47 +0000</pubDate>
-    </item>    <item>
-      <title>Hawaii and Easter Island Are 4,400 Miles Apart. But the Same Group of &#39;Ultravoyagers&#39; Settled Both Centuries Ago, Genetic Study Suggests</title>
-      <link>https://www.smithsonianmag.com/smart-news/native-hawaiians-descend-from-a-group-of-ultravoyagers-who-sailed-about-4400-miles-from-easter-island-genetic-study-suggests-180989793/</link>
-      <description>
-        <![CDATA[Researchers studied DNA from more than 1,000 modern-day Polynesians and found that Native Hawaiians and Easter Islanders were most closely related. The findings help trace the epic settlement of the Polynesian islands while also revealing genetic vulnerabilities among their communities]]>
-      </description>
-      <source:markdown>Researchers studied DNA from more than 1,000 modern-day Polynesians and found that Native Hawaiians and Easter Islanders were most closely related. The findings help trace the epic settlement of the Polynesian islands while also revealing genetic vulnerabilities among their communities</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/vQRn_SaPp-Aw3UfPtbT0rgGtENo=/420x240/filters:focal(3957x2676:3958x2677)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8b/c7/8bc7b0cc-9a19-44b1-8b2c-d13fc5b6fe0f/native_hawaiians_performing_a_dance_with_a_musician_playing_a_-be87bc619dd544ba232a53289f1e8854.jpg" length="4489136" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/native-hawaiians-descend-from-a-group-of-ultravoyagers-who-sailed-about-4400-miles-from-easter-island-genetic-study-suggests-180989793/</guid>
-      <pubDate>Tue, 03 Nov 2026 18:56:36 +0000</pubDate>
-    </item>    <item>
-      <title>A &#39;Poor Man’s Rembrandt&#39; for a Few Hundred Bucks? At Amsterdam&#39;s Rembrandt House Museum, a Pop-Up Tattoo Studio Is Inking 17th-Century Masterpieces on Human Canvases</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-poor-Mans-rembrandt-for-a-few-hundred-bucks-at-amsterdams-rembrandt-museum-a-pop-up-tattoo-studio-is-inking-17th-century-masterpieces-on-human-canvases-180989800/</link>
-      <description>
-        <![CDATA[Visitors can choose from dozens of designs pulled from Rembrandt's works, including lions, windmills and even his self-portraits. One participant was selected for a  full-back tattoo of "The Descent from the Cross"]]>
-      </description>
-      <source:markdown>Visitors can choose from dozens of designs pulled from Rembrandt&#39;s works, including lions, windmills and even his self-portraits. One participant was selected for a full-back tattoo of &#34;The Descent from the Cross&#34;</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/s6gtYSZDVTJe5BWadggcb3pWFYQ=/420x240/filters:focal(983x655:984x656)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1c/da/1cdadbd7-95d9-49dc-aea3-ba2300b813fb/03_schiffmacher__veldhoen_foto_aad_hoogendoorn.jpg" length="1921819" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/a-poor-Mans-rembrandt-for-a-few-hundred-bucks-at-amsterdams-rembrandt-museum-a-pop-up-tattoo-studio-is-inking-17th-century-masterpieces-on-human-canvases-180989800/</guid>
-      <pubDate>Tue, 03 Nov 2026 18:11:10 +0000</pubDate>
-    </item>    <item>
-      <title>Astronaut and Earth</title>
-      <link>https://www.nasa.gov/image-article/astronaut-and-earth/</link>
-      <description>
-        <![CDATA[CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astronaut Anil Menon installed a new roll-out solar array on the space station and performed some get-ahead work [&#8230;]]]>
-      </description>
-      <source:markdown>CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astronaut Anil Menon installed a new roll-out solar array on the space station and performed some get-ahead work \[…\]</source:markdown>
-      <dc:creator>HQ Web Team</dc:creator>
-      <guid isPermaLink="false">cid://https://www.nasa.gov/?post_type=image-article&#38;p=1061295</guid>
-      <category>International Space Station (ISS)</category>
-      <pubDate>Tue, 03 Nov 2026 16:37:42 +0000</pubDate>
-    </item>    <item>
-      <title>AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It</title>
-      <link>https://blogs.nvidia.com/blog/ai-semiconductor-fabs/</link>
-      <description>
-        <![CDATA[Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor [&#8230;]]]>
-      </description>
-      <source:markdown>Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor \[…\]</source:markdown>
-      <dc:creator>Timothy Costa</dc:creator>
-      <guid isPermaLink="false">cid://https://blogs.nvidia.com/?p=99605</guid>
-      <category>AI</category>
-      <category>Agentic AI</category>
-      <category>Artificial Intelligence</category>
-      <category>CUDA</category>
-      <category>Digital Twin</category>
-      <category>Industrial and Manufacturing</category>
-      <category>NVIDIA NeMo</category>
-      <category>NVIDIA PhysicsNeMo</category>
-      <category>Omniverse</category>
-      <category>Physical AI</category>
-      <category>Simulation</category>
-      <pubDate>Tue, 03 Nov 2026 16:00:45 +0000</pubDate>
-    </item>    <item>
-      <title>After Observing the Sky for 22 Years, a Beloved NASA Space Telescope Is Expected to Meet a Fiery Death This Week</title>
-      <link>https://www.smithsonianmag.com/smart-news/after-observing-the-sky-for-22-years-a-beloved-nasa-space-telescope-is-expected-to-meet-a-fiery-death-this-week-180989796/</link>
-      <description>
-        <![CDATA[The Neil Gehrels Swift Observatory launched in 2004 and detected thousands of astrophysical phenomena, leading to some huge discoveries. Earlier this year, experts attempted a first-of-its-kind rescue mission to save the falling telescope, but it failed]]>
-      </description>
-      <source:markdown>The Neil Gehrels Swift Observatory launched in 2004 and detected thousands of astrophysical phenomena, leading to some huge discoveries. Earlier this year, experts attempted a first-of-its-kind rescue mission to save the falling telescope, but it failed</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/FZtUzjVCQSLfxPlCk2TPfej2LWw=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/30/c5/30c599b9-6c11-4af1-a8e5-44ec3fad6c92/swift-main.png" length="2134501" type="image/png" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/after-observing-the-sky-for-22-years-a-beloved-nasa-space-telescope-is-expected-to-meet-a-fiery-death-this-week-180989796/</guid>
-      <pubDate>Tue, 03 Nov 2026 15:46:18 +0000</pubDate>
-    </item>    <item>
-      <title>TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking</title>
-      <link>https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/</link>
-      <description>
-        <![CDATA[For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal cycling after vibration, with fractures occurring across the short axis due [&#8230;]]]>
-      </description>
-      <source:markdown>For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal cycling after vibration, with fractures occurring across the short axis due \[…\]</source:markdown>
-      <dc:creator>Meagan Chappell</dc:creator>
-      <guid isPermaLink="false">cid://https://www.nasa.gov/?p=1061425</guid>
-      <category>NASA Engineering and Safety Center</category>
-      <pubDate>Tue, 03 Nov 2026 15:35:14 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Astronaut, STEM Creator Connect with Students for STEM Day</title>
-      <link>https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/</link>
-      <description>
-        <![CDATA[Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, celebrates National STEM Day by bringing real‑world science, [&#8230;]]]>
-      </description>
-      <source:markdown>Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, celebrates National STEM Day by bringing real‑world science, \[…\]</source:markdown>
-      <dc:creator>Gerelle Q. Dodson</dc:creator>
-      <guid isPermaLink="false">cid://https://www.nasa.gov/?p=1061424</guid>
-      <category>Learning Resources</category>
-      <category>Humans in Space</category>
-      <category>In-flight Education Downlinks</category>
-      <pubDate>Tue, 03 Nov 2026 15:15:50 +0000</pubDate>
-    </item>    <item>
-      <title>From Hunting Hounds to Modernist Muses, Dachshunds Have Done It All. See the World&#39;s First Art Exhibition Dedicated Exclusively to the Sausage Dog</title>
-      <link>https://www.smithsonianmag.com/smart-news/from-hunting-hounds-to-modernist-muses-dachshunds-have-done-it-all-see-the-worlds-first-art-exhibition-dedicated-exclusively-to-the-sausage-dog-180989797/</link>
-      <description>
-        <![CDATA[A new exhibition in Germany traces how the low-slung breed captured the imaginations of artistic heavyweights like Pablo Picasso, Andy Warhol and David Hockney. The museum even lets well-behaved pups tour the galleries]]>
-      </description>
-      <source:markdown>A new exhibition in Germany traces how the low-slung breed captured the imaginations of artistic heavyweights like Pablo Picasso, Andy Warhol and David Hockney. The museum even lets well-behaved pups tour the galleries</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/50F4hrKYQ2JP_oNbUEZfBZHwvtE=/420x240/filters:focal(512x358:513x359)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/85/4c/854c7ce2-8484-42e0-b967-cf4b3833af5c/gettyimages-488083785.jpg" length="118165" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/from-hunting-hounds-to-modernist-muses-dachshunds-have-done-it-all-see-the-worlds-first-art-exhibition-dedicated-exclusively-to-the-sausage-dog-180989797/</guid>
-      <pubDate>Tue, 03 Nov 2026 14:31:41 +0000</pubDate>
-    </item>    <item>
-      <title>OpenAI whistleblowers on the fight over AI safety | Machine Gods</title>
-      <link>https://www.npr.org/2026/11/03/nx-s1-6023241/machinegods-ai-openai-podcast</link>
-      <description>
-        <![CDATA[Check out NPR’s newest podcast, Machine Gods. It’s the official podcast of the singularity, meaning — the hypothetical future when machines will outpace our own intelligence…and our control. Whether you think that future is coming or not, hosts Kevin Roose and Casey Newton are here to help you understand the people trying to build it… and how their technology works. <br/><br/>On this episode, listen to their exclusive interview with safety researchers who were fired by OpenAI. <br/><br/><em>Interested in more </em><em>technology and AI news?</em><em> Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br><em><br>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Check out NPR’s newest podcast, Machine Gods. It’s the official podcast of the singularity, meaning — the hypothetical future when machines will outpace our own intelligence…and our control. Whether you think that future is coming or not, hosts Kevin Roose and Casey Newton are here to help you understand the people trying to build it… and how their technology works.
-
-On this episode, listen to their exclusive interview with safety researchers who were fired by OpenAI.
-
-_Interested in more_ _technology and AI news?_ _Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/e6a3cb83-f129-4f9b-9427-4b5da3a023e7/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=e6a3cb83-f129-4f9b-9427-4b5da3a023e7&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-6023241&#38;p=510351&#38;d=1935&#38;size=30970444" length="30970444" type="audio/mpeg" />
-      <guid isPermaLink="false">cid://6a99e4b4-5bcb-4adb-8144-6e7d4f33d43a</guid>
-      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI</title>
-      <link>https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/</link>
-      <description>
-        <![CDATA[Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments [&#8230;]]]>
-      </description>
-      <source:markdown>Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments \[…\]</source:markdown>
-      <dc:creator>Esther Lee</dc:creator>
-      <guid isPermaLink="false">cid://https://blogs.nvidia.com/?p=99615</guid>
-      <category>AI</category>
-      <category>Agentic AI</category>
-      <category>AI Factory</category>
-      <category>Artificial Intelligence</category>
-      <category>Cosmos</category>
-      <category>Customer Stories</category>
-      <category>Digital Twin</category>
-      <category>Events</category>
-      <category>Metropolis</category>
-      <category>Nemotron</category>
-      <category>NVIDIA Blueprints</category>
-      <category>Omniverse</category>
-      <category>Open Source</category>
-      <category>Physical AI</category>
-      <category>Public Sector</category>
-      <category>Smart Spaces</category>
-      <category>Sovereign AI</category>
-      <pubDate>Tue, 03 Nov 2026 07:00:12 +0000</pubDate>
-    </item>    <item>
-      <title>APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet PanSTARRs and [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet PanSTARRs and \[…\]</source:markdown>
-      <guid isPermaLink="false">cid://https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/</guid>
-      <category>APOD</category>
-      <pubDate>Tue, 03 Nov 2026 05:05:00 +0000</pubDate>
-    </item>    <item>
-      <title>The Pacific’s Busy Storm Season</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/</link>
-      <description>
-        <![CDATA[Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.]]>
-      </description>
-      <source:markdown>Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.</source:markdown>
-      <guid isPermaLink="false">cid://https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/</guid>
-      <category>Deep Space Climate Observatory (DSCOVR)</category>
-      <category>Earth Observatory</category>
-      <category>Extreme Weather Events</category>
-      <category>Moderate Resolution Imaging Spectroradiometer (MODIS)</category>
-      <pubDate>Tue, 03 Nov 2026 05:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

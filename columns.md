@@ -16,7 +16,7 @@ description: Blogs, columns and snapshots from around the web.
 - [Julia Evans blog](https://jvns.ca/atom.xml)
 - [Liam on Linux](https://liam-on-linux.dreamwidth.org/data/rss)
 - [Liam Proven blog](https://lproven.dreamwidth.org/data/rss)
-- [Om Malik blog](https://om.co/feed/)
+- Om Malik blog, <https://om.co/feed/>, passed away, 2026
 - [Peter Sefton's Blog](https://ptsefton.com/feed/atom)
 - [Daniel Stenberg Blog](https://daniel.haxx.se/blog/feed/)
 - [Daring Fireball](https://daringfireball.net/feeds/main)
@@ -439,4 +439,5 @@ description: Blogs, columns and snapshots from around the web.
 - [Machine Gods, NPR](https://feeds.npr.org/g-s1-143588/podcast.xml)
 
 - [Nokia Bell Labs blog](https://www.nokia.com/blog/)
-
+- [Joseph Fieber blog](https://josephfieber.com/blog)
+- [Chatham House News Releases](https://www.chathamhouse.org/path/news-releases.xml)

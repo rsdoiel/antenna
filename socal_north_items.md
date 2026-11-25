@@ -1,14 +1,234 @@
 ---
 title: "SoCal North"
 description: "News and posts related to the greater North Los Angeles and adjacent counties.\n"
-pubDate: Tue, 24 Nov 2026 02:42:20 GMT
+pubDate: Wed, 25 Nov 2026 16:15:53 GMT
 aggregateOf: "socal_north.md"
-dateModified: Tue, 24 Nov 2026 06:47:35 GMT
-itemCount: 302
+dateModified: Wed, 25 Nov 2026 16:17:38 GMT
+itemCount: 319
 generator: antenna/0.2.0
 ---
 
 # SoCal North
+
+## [Public Comment Period on Whiteman Airport Study Open Until February](https://sanfernandosun.com/2026/11/25/public-comment-period-on-whiteman-airport-study-open-until-february/)
+
+via San Fernando Sun · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/02/View-recent-photos-e1707966402490.jpg?fit=576%2C1024&ssl=1)
+
+A full report by the Los Angeles County on Whiteman Airport was released Thursday, Nov. 19, and the public will have until early next year to provide their comments before \[…\]
+
+The post [Public Comment Period on Whiteman Airport Study Open Until February](https://sanfernandosun.com/2026/11/25/public-comment-period-on-whiteman-airport-study-open-until-february/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Hope the Mission Reopens the Iconic Original Pantry Cafe](https://sanfernandosun.com/2026/11/25/hope-the-mission-reopens-the-iconic-original-pantry-cafe/)
+
+via San Fernando Sun · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Copy-of-IMG_4203-scaled-e1795622912637.jpg?fit=1024%2C683&ssl=1)
+
+When the Original Pantry Cafe closed in March 2025 after 101 years in business, Angelenos grieved the loss of the beloved diner that was considered a cultural institution. However, what \[…\]
+
+The post [Hope the Mission Reopens the Iconic Original Pantry Cafe](https://sanfernandosun.com/2026/11/25/hope-the-mission-reopens-the-iconic-original-pantry-cafe/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Enjoy Thanksgiving Without the Food Coma: Simple Ways to Savor the Holiday](https://sanfernandosun.com/2026/11/25/enjoy-thanksgiving-without-the-food-coma-simple-ways-to-savor-the-holiday/)
+
+via San Fernando Sun · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Family-Eating-1.jpg?fit=1024%2C683&ssl=1)
+
+Thanksgiving is here, which means kitchens will be filled with the smell of roasted turkey, creamy mashed potatoes and pies that are almost impossible to resist. It’s a holiday centered \[…\]
+
+The post [Enjoy Thanksgiving Without the Food Coma: Simple Ways to Savor the Holiday](https://sanfernandosun.com/2026/11/25/enjoy-thanksgiving-without-the-food-coma-simple-ways-to-savor-the-holiday/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Screen-free Ways to Keep Kids Engaged Over Holiday Break](https://sanfernandosun.com/2026/11/25/screen-free-ways-to-keep-kids-engaged-over-holiday-break/)
+
+via San Fernando Sun · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/N1809P22001C.jpg?fit=1024%2C683&ssl=1)
+
+The holiday season is a time to reunite with family and friends. Late December also is a time for students to relax and recharge over the holiday break, which typically \[…\]
+
+The post [Screen-free Ways to Keep Kids Engaged Over Holiday Break](https://sanfernandosun.com/2026/11/25/screen-free-ways-to-keep-kids-engaged-over-holiday-break/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [GR818ERS’ Flava of the Year International Street Dance Festival](https://sanfernandosun.com/2026/11/25/gr818ers-flava-of-the-year-international-street-dance-festival/)
+
+via San Fernando Sun · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/920162130_18654225226018506_4047551326374150473_n-scaled-e1795622465301.jpg?fit=1024%2C879&ssl=1)
+
+The finals of the GR818ERS’ Flava of the Year International Street Dance Festival (FOTY) were held on Saturday, Nov. 21, in Van Nuys, where acclaimed talents busted their best moves \[…\]
+
+The post [GR818ERS’ Flava of the Year International Street Dance Festival](https://sanfernandosun.com/2026/11/25/gr818ers-flava-of-the-year-international-street-dance-festival/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Giving Thanks for the Latin Grammys, Students, Family and Friends](https://sanfernandosun.com/2026/11/25/giving-thanks-for-the-latin-grammys-students-family-and-friends/)
+
+via San Fernando Sun · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Latin-Grammys.jpg?fit=1024%2C768&ssl=1)
+
+Going into the holiday season, there are many blessings Sergio “Checo” Alonso is thankful for, including a very prestigious nod to his musical talents: the opportunity to perform at this \[…\]
+
+The post [Giving Thanks for the Latin Grammys, Students, Family and Friends](https://sanfernandosun.com/2026/11/25/giving-thanks-for-the-latin-grammys-students-family-and-friends/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Kurt Cabrera-Miller is Grateful for the Community of Sylmar](https://sanfernandosun.com/2026/11/25/kurt-cabrera-miller-is-grateful-for-the-community-of-sylmar/)
+
+via San Fernando Sun · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Kurt-e1795622147725.jpg?fit=1024%2C876&ssl=1)
+
+Kurt Cabrera-Miller appreciates living and working in a community he loves. As longtime president of the Sylmar Neighborhood Council, he is grateful for the community-wide strides that have been made. \[…\]
+
+The post [Kurt Cabrera-Miller is Grateful for the Community of Sylmar](https://sanfernandosun.com/2026/11/25/kurt-cabrera-miller-is-grateful-for-the-community-of-sylmar/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [The Gift of Connection: 5 Ways to Show Up for Older Loved Ones This Holiday Season](https://sanfernandosun.com/2026/11/25/the-gift-of-connection-5-ways-to-show-up-for-older-loved-ones-this-holiday-season/)
+
+via San Fernando Sun · 2026-11-25
+
+By Dr. Damanpreet Jamarai, Chief Medical Officer, UnitedHealthcare Medicare and Retirement of California The holidays have a way of bringing us back together. Between favorite traditions, shared meals and finding the \[…\]
+
+The post [The Gift of Connection: 5 Ways to Show Up for Older Loved Ones This Holiday Season](https://sanfernandosun.com/2026/11/25/the-gift-of-connection-5-ways-to-show-up-for-older-loved-ones-this-holiday-season/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [CSUN 41st Annual Powwow Brings SoCal American Indians Together](https://sanfernandosun.com/2026/11/25/csun-41st-annual-powwow-brings-socal-american-indians-together/)
+
+via San Fernando Sun · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20251130-dh-powow-40th-011-copy-1024x1024-1.jpg?fit=1024%2C1024&ssl=1)
+
+California State University, Northridge’s 41st annual Powwow returns to campus on Saturday, Nov. 28, in celebration of the American Indian communities of Los Angeles County and throughout Southern California. This \[…\]
+
+The post [CSUN 41st Annual Powwow Brings SoCal American Indians Together](https://sanfernandosun.com/2026/11/25/csun-41st-annual-powwow-brings-socal-american-indians-together/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [From Every Walk of Life, They Came to Celebrate the Life of Dolores Huerta](https://sanfernandosun.com/2026/11/25/from-every-walk-of-life-they-came-to-celebrate-the-life-of-dolores-huerta/)
+
+via San Fernando Sun · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/914682087_1856397966130269_5589681833097328535_n-e1795621736248.jpg?fit=1024%2C657&ssl=1)
+
+Thousands filled the Dignity Health Arena in Bakersfield for a day-long tribute and Celebration of Life for Dolores Huerta on Friday, Nov. 20.  The iconic civil rights leader co-founded the \[…\]
+
+The post [From Every Walk of Life, They Came to Celebrate the Life of Dolores Huerta](https://sanfernandosun.com/2026/11/25/from-every-walk-of-life-they-came-to-celebrate-the-life-of-dolores-huerta/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [City to Celebrate Ribbon Cutting of New SCVTV Studio](https://santaclarita.gov/blog/2026/11/24/city-to-celebrate-ribbon-cutting-of-new-scvtv-studio/)
+
+via City of Santa Clarita · 2026-11-25
+
+New 5,100-Square-Foot Facility Gives Santa Clarita Stories a Bigger Home The City of Santa Clarita will celebrate the ribbon cutting of SCVTV, the Santa Clarita Valley’s community and public access television station, new studio on Monday, November 30, at 11:00 a.m. at 26330 Citrus Street. Through programs such as Community Corner and Finding Art, SCVTV \[…\]
+
+The post [City to Celebrate Ribbon Cutting of New SCVTV Studio](https://santaclarita.gov/blog/2026/11/24/city-to-celebrate-ribbon-cutting-of-new-scvtv-studio/) appeared first on [City of Santa Clarita](https://santaclarita.gov).
+
+## [In Photos: San Fernando Defeats Rival Sylmar to Advance to Football Championship](https://sanfernandosun.com/2026/11/24/in-photos-san-fernando-defeats-rival-sylmar-to-advance-to-football-championship/)
+
+via San Fernando Sun · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/IMG_8291-scaled.jpeg?fit=683%2C1024&ssl=1)
+
+San Fernando will face Marquez High School in the CIF Los Angeles City Section Division II championship game Friday, Nov. 27, at 7 p.m. at Birmingham High School. Marquez advanced \[…\]
+
+The post [In Photos: San Fernando Defeats Rival Sylmar to Advance to Football Championship](https://sanfernandosun.com/2026/11/24/in-photos-san-fernando-defeats-rival-sylmar-to-advance-to-football-championship/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Takeaways from an Attempt to Identify Migrants Who Were Lost in the Atlantic](https://sanfernandosun.com/2026/11/24/takeaways-from-an-attempt-to-identify-migrants-who-were-lost-in-the-atlantic/)
+
+via San Fernando Sun · 2026-11-24, updated 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/AP26323563594267-scaled.jpg?fit=1024%2C683&ssl=1)
+
+By Renata Brito Associated Press TACHOTT, Mauritania (AP) ‚Äî Alexandre Deitos has a grim job: identifying the dead. A criminal forensic investigator with Brazil’s federal police, he has helped put names \[…\]
+
+The post [Takeaways from an Attempt to Identify Migrants Who Were Lost in the Atlantic](https://sanfernandosun.com/2026/11/24/takeaways-from-an-attempt-to-identify-migrants-who-were-lost-in-the-atlantic/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Over a Freeway Near Los Angeles, Animals Can Roam Safely Thanks to World’s Largest Wildlife Crossing](https://sanfernandosun.com/2026/11/24/over-a-freeway-near-los-angeles-animals-can-roam-safely-thanks-to-worlds-largest-wildlife-crossing/)
+
+via San Fernando Sun · 2026-11-24, updated 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/AP26315800585680.jpg?fit=1024%2C683&ssl=1)
+
+By Christopher Weber Associated Press AGOURA HILLS, Calif. (AP) — Touring the world’s largest wildlife crossing, Beth Pratt stepped carefully through freshly planted native vegetation and held up her hand for \[…\]
+
+The post [Over a Freeway Near Los Angeles, Animals Can Roam Safely Thanks to World’s Largest Wildlife Crossing](https://sanfernandosun.com/2026/11/24/over-a-freeway-near-los-angeles-animals-can-roam-safely-thanks-to-worlds-largest-wildlife-crossing/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Chief of Space Gen. Douglas Schiess Visits Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4659692/chief-of-space-gen-douglas-schiess-visits-vandenberg-space-force-base/)
+
+via Vandenberg Base News · 2026-11-24, updated 2026-11-25
+
+During his first visit to Vandenberg Space Force Base, Nov. 20, 2026, the CSO highlighted the critical role every Guardian plays in mission success, the need to build a combat-ready and resilient force, and the importance of delivering advanced space capabilities to the Joint Force.
+
+![Four people stand at a flight line and salute](https://media.defense.gov/2026/Nov/24/2004037943/300/300/0/261120-X-DW038-1032.JPG)
+
+## [LA28 names Phillips 66 its official fuel partner. Critics want the deal canceled](https://laist.com/news/climate-environment/la28-names-phillips-66-its-official-fuel-partner-critics-want-the-deal-canceled)
+
+via The LAist · 2026-11-24
+
+L.A. City Councilmember Katy Yaroslavsky called the corporate sponsorship deal “embarrassing.”
+
+## [Letter From the Editor: The State of Tacos In L.A. In 2026 and Why We Will Stop Ranking Our Guides](https://lataco.com/stop-ranking-guides-2026)
+
+via L. A. Taco · 2026-11-24
+
+A year in review is a hell of a lot more exciting if measured in tacos.
+
+The post [Letter From the Editor: The State of Tacos In L.A. In 2026 and Why We Will Stop Ranking Our Guides](https://lataco.com/stop-ranking-guides-2026) appeared first on [L.A. TACO](https://lataco.com).
+
+## [Here’s what’s next for businesses displaced by the Inglewood Transit Connector](https://laist.com/news/transportation/whats-next-for-businesses-displaced-by-inglewood-transit-connector)
+
+via The LAist · 2026-11-24
+
+Roughly half the businesses in the shopping center at the corner or Florence Avenue and Market Street are relocating nearby.
+
+## [The Legend of L.A.’s Labor-Inducing Salad, Explained](https://lataco.com/pregnancy-salad-studio-city)
+
+via L. A. Taco · 2026-11-24
+
+“We have about 5 to 10 pregnant women come in here a day," one server tells us.
+
+The post [The Legend of L.A.’s Labor-Inducing Salad, Explained](https://lataco.com/pregnancy-salad-studio-city) appeared first on [L.A. TACO](https://lataco.com).
+
+## [Trump administration rescinds mandatory pay hikes, benefits requirements for Head Start](https://laist.com/news/education/early-childhood-education-pre-k/trump-administration-rescinds-mandatory-pay-hikes-benefits-requirements-for-head-start)
+
+via The LAist · 2026-11-24
+
+The administration has rescinded a rule that required that Head Start staff be paid wages that cover the cost of living and gave them pay parity with public school teachers.
+
+## [Reps. Whitesides, Fong, Min Introduce Bill to Protect Federal Wildland Firefighters from Hazardous Smoke](https://whitesides.house.gov/2026/11/24/reps-whitesides-fong-min-introduce-bill-to-protect-federal-wildland-firefighters-from-hazardous-smoke/)
+
+via Congressman George Whitesides, district 27 · 2026-11-24
+
+WASHINGTON D.C. – Today, Reps. George Whitesides (D-CA), Vince Fong (R-CA), and Dave Min (D-CA) introduced the Healthy Lungs for Heroes Act to establish respiratory protection standards for federal wildland firefighters. Wildland firefighters are regularly exposed to hazardous smoke and airborne pollutants while protecting communities from wildfires, putting them at risk for serious long-term health \[…\]
+
+## [11th Annual Drumstick Dash Comes to NoHo on Thanksgiving Day](https://sanfernandosun.com/2026/11/24/11th-annual-drumstick-dash-comes-to-noho-on-thanksgiving-day/)
+
+via San Fernando Sun · 2026-11-24, updated 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/8c9cb005-4923-448d-9c72-83811ffa0793-bP8z3Q.jpg?fit=1024%2C576&ssl=1)
+
+The 11th Annual Drumstick Dash is coming to North Hollywood this Thanksgiving, with more than 8,000 runners and 250 volunteers expected to participate in the combined 5K and 10K event. \[…\]
+
+The post [11th Annual Drumstick Dash Comes to NoHo on Thanksgiving Day](https://sanfernandosun.com/2026/11/24/11th-annual-drumstick-dash-comes-to-noho-on-thanksgiving-day/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [What the blue wave could mean for California’s economy](https://laist.com/news/politics/what-the-blue-wave-could-mean-for-california-economy)
+
+via The LAist · 2026-11-24
+
+A Democrat-controlled Congress could force policy changes that affect the state’s agriculture, wine, tech and other industries.
+
+## [Judge sanctions outgoing LA city attorney, orders forensic search of her devices](https://laist.com/news/criminal-justice/la-city-attorney-hydee-feldstein-soto-sanctions-device-search)
+
+via The LAist · 2026-11-24, updated 2026-11-25
+
+A fired prosecutor has sued, saying Hydee Feldstein Soto punished her for speaking up against wrongdoing. A judge recently found the city's top lawyer dodged a court order.
+
+## [This neon green barge is part of how California is cutting port pollution. Will Congress interfere?](https://laist.com/news/climate-environment/la-long-beach-port-pollution-capture-at-berth-clean-ship-waiver-congress)
+
+via The LAist · 2026-11-24
+
+Stax Engineering boats can suck nitrogen oxide directly out of ships' smokestacks, a key piece of the puzzle for reducing smog generated at the ports of L.A. and Long Beach.
+
+## [HOROSCOPE](https://sanfernandosun.com/2026/11/23/horoscope-291/)
+
+via San Fernando Sun · 2026-11-24, updated 2026-11-25
+
+ARIES (March 21-April 19) This is a good weekend for kicking back and relaxing, Aries. If you feel like hosting, open your home to some guests for even more fun. \[…\]
+
+The post [HOROSCOPE](https://sanfernandosun.com/2026/11/23/horoscope-291/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
 
 ## [Trump targets Newsom and Democrats in Justice Department speech focused on violent crime](https://laist.com/news/criminal-justice/trump-targets-newsom-and-democrats-in-justice-department-speech-focused-on-violent-crime)
 
@@ -74,7 +294,7 @@ The House Ethics Committee said in a report released Monday that there is “sub
 
 ## [Reps. Whitesides, Gottheimer Introduce Legislation To Defend Critical Infrastructure Against AI-Driven Cyberattacks](https://whitesides.house.gov/2026/11/23/reps-whitesides-gottheimer-introduce-legislation-to-defend-critical-infrastructure-against-ai-driven-cyberattacks/)
 
-via Congressman George Whitesides, district 27 · 2026-11-23
+via Congressman George Whitesides, district 27 · 2026-11-23, updated 2026-11-24
 
 Cyber Resilience for Critical Infrastructure Act would help utilities, hospitals, and water systems patch vulnerabilities faster and wall off systems that can’t be patched quickly WASHINGTON, D.C. – Today, Reps. George Whitesides (D-CA) and Josh Gottheimer (D-NJ) introduced the Cyber Resilience for Critical Infrastructure Act, legislation to help critical infrastructure operators fix security vulnerabilities faster, \[…\]
 
@@ -92,7 +312,7 @@ California community colleges and the UC system are both discussing expanding th
 
 ## [LA’s Vegan Community Seeks Thanksgiving Alternatives](https://sanfernandosun.com/2026/11/23/las-vegan-community-seeks-thanksgiving-alternatives-2/)
 
-via San Fernando Sun · 2026-11-23
+via San Fernando Sun · 2026-11-23, updated 2026-11-25
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/11/CA-Sun-turkey-hug-kid-EDIT-scaled.jpg?fit=768%2C1024&ssl=1)
 
@@ -228,7 +448,7 @@ The state faces a projected $2 billion shortfall next year, but if the Nvidia sl
 
 ## [Experts Urge Travelers to Get a Flu Shot Before Thanksgiving](https://sanfernandosun.com/2026/11/20/experts-urge-travelers-to-get-a-flu-shot-before-thanksgiving/)
 
-via San Fernando Sun · 2026-11-20, updated 2026-11-23
+via San Fernando Sun · 2026-11-20, updated 2026-11-25
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/500_jonathan-weiner-md-cedars-sinai.jpg?fit=285%2C400&ssl=1)
 
@@ -302,7 +522,7 @@ Thinking of going turkey-free this Thanksgiving? You’re not alone.
 
 ## [City Hall’s First Floor Gallery Welcomes “CalArts Showcase”](https://santaclarita.gov/blog/2026/11/19/city-halls-first-floor-gallery-welcomes-calarts-showcase/)
 
-via City of Santa Clarita · 2026-11-19
+via City of Santa Clarita · 2026-11-19, updated 2026-11-25
 
 The City of Santa Clarita is pleased to present “CalArts Showcase,” on display in the First Floor Gallery at City Hall (23920 Valencia Boulevard) now through February 10, 2027. This juried exhibition celebrates the creativity and talents of current students and alumni of California Institute of the Arts (CalArts). Featuring a diverse collection of artworks \[…\]
 
@@ -336,7 +556,7 @@ The post [These Rare Blue Corn Tamales Sell Out Every Saturday in Sherman Oaks](
 
 ## [Federal Disaster Loans Now Available for Businesses Impacted by Old Town Newhall Fire](https://santaclarita.gov/blog/2026/11/19/federal-disaster-loans-now-available-for-businesses-impacted-by-old-town-newhall-fire/)
 
-via City of Santa Clarita · 2026-11-19
+via City of Santa Clarita · 2026-11-19, updated 2026-11-25
 
 Small Business Administration to Provide In-Person Application Assistance Beginning November 18 The City of Santa Clarita is announcing that the U.S. Small Business Administration (SBA) has issued a disaster declaration in response to the devastating August 24, 2026, fire in Old Town Newhall. The declaration makes low-interest Economic Injury Disaster Loans (EIDL) available to eligible \[…\]
 
@@ -350,7 +570,7 @@ California schools are supposed to make sure young students see a dentist. Many 
 
 ## [Reps. Whitesides, Moran, and Beyer Launch First Congressional Caucus Focused on AI Safety and Innovation](https://whitesides.house.gov/2026/11/19/reps-whitesides-moran-and-beyer-launch-first-congressional-caucus-focused-on-ai-safety-and-innovation/)
 
-via Congressman George Whitesides, district 27 · 2026-11-19, updated 2026-11-23
+via Congressman George Whitesides, district 27 · 2026-11-19, updated 2026-11-24
 
 Bipartisan congressional caucus will champion AI safety legislation, address emerging security threats, and help Congress respond more quickly to AI safety incidents WASHINGTON, D.C. – Today, Reps. George Whitesides (D-CA), Nathaniel Moran (R-TX), and Don Beyer (D-VA), announced the launch of the House AI Safety and Innovation Caucus, the first congressional caucus focused specifically on \[…\]
 
@@ -380,7 +600,7 @@ Students were injured, doxxed, suspended and some tried for misdemeanors for the
 
 ## [Llevando el espíritu de “Si Se Puede”: Miles rinden homenaje a Dolores Huerta](https://sanfernandosun.com/2026/11/18/llevando-el-espiritu-de-si-se-puede-miles-rinden-homenaje-a-dolores-huerta/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-23
+via San Fernando Sun · 2026-11-19, updated 2026-11-25
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/AP26320811633908-1.jpg?fit=1024%2C683&ssl=1)
 
@@ -390,7 +610,7 @@ The post [Llevando el espíritu de “Si Se Puede”: Miles rinden homenaje a Do
 
 ## [Demanda impugna el plan de Newsom para conmutar las 548 sentencias de muerte en California](https://sanfernandosun.com/2026/11/18/demanda-impugna-el-plan-de-newsom-para-conmutar-las-548-sentencias-de-muerte-en-california/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-23
+via San Fernando Sun · 2026-11-19, updated 2026-11-25
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/6099018590715768017_107ca394-a589-4eff-a760-08895cdb8f3e-e1795064149101.png?fit=1024%2C981&ssl=1)
 
@@ -400,7 +620,7 @@ The post [Demanda impugna el plan de Newsom para conmutar las 548 sentencias de 
 
 ## [Horóscopo](https://sanfernandosun.com/2026/11/18/horoscopo-294/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-23
+via San Fernando Sun · 2026-11-19, updated 2026-11-25
 
 ARIES (21 de mar – 19 de abr) Puedes querer estar en todas partes al mismo tiempo cuando lleguen las invitaciones sociales, Aries. Pero esta semana tendrás que elegir tus \[…\]
 
@@ -408,7 +628,7 @@ The post [Horóscopo](https://sanfernandosun.com/2026/11/18/horoscopo-294/) appe
 
 ## [EVENTOS Locales – Semana de 19 de noviembre, 2026](https://sanfernandosun.com/2026/11/18/eventos-locales-semana-de-19-de-noviembre-2026/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-23
+via San Fernando Sun · 2026-11-19, updated 2026-11-24
 
 Viernes, 20 de noviembre Nuestra Tercera Campaña de Pavos de Acción de Gracias Llega a Todos los Vecindarios del Distrito 6 Ignite the Light of Hope 13501 Osborne St. Lakeview \[…\]
 
@@ -416,7 +636,7 @@ The post [EVENTOS Locales – Semana de  19 de noviembre, 2026](https://sanfern
 
 ## [Quinto año de campaña de MADD para iluminar puntos de referencia en honor a víctimas y sobrevivientes](https://sanfernandosun.com/2026/11/18/quinto-ano-de-campana-de-madd-para-iluminar-puntos-de-referencia-en-honor-a-victimas-y-sobrevivientes/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-23
+via San Fernando Sun · 2026-11-19, updated 2026-11-24
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Dodger-Stadium-5.jpg?fit=1024%2C767&ssl=1)
 
@@ -426,7 +646,7 @@ The post [Quinto año de campaña de MADD para iluminar puntos de referencia en 
 
 ## [Conductor acusado en choque fatal de Metro en NoHo que mató a tres vendedoras ambulantes](https://sanfernandosun.com/2026/11/18/conductor-acusado-en-choque-fatal-de-metro-en-noho-que-mato-a-tres-vendedoras-ambulantes/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-23
+via San Fernando Sun · 2026-11-19, updated 2026-11-24
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/NoHo-Crash-01-e1795063505384.jpeg?fit=1024%2C768&ssl=1)
 
@@ -436,7 +656,7 @@ The post [Conductor acusado en choque fatal de Metro en NoHo que mató a tres ve
 
 ## [Vuelve el Festival de Baile de Calle de Valley con talleres de reconocidos artistas](https://sanfernandosun.com/2026/11/18/vuelve-el-festival-de-baile-de-calle-de-valley-con-talleres-de-reconocidos-artistas/)
 
-via San Fernando Sun · 2026-11-19, updated 2026-11-23
+via San Fernando Sun · 2026-11-19, updated 2026-11-24
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/%40BY.AUSTINLUC-11-scaled.jpg?fit=768%2C1024&ssl=1)
 
@@ -632,7 +852,7 @@ Leonard Redway, Inglewood City Council District 1 candidate, must stay 100 yards
 
 ## [Vandenberg hosts 2026 Fall Job Fair](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649605/vandenberg-hosts-2026-fall-job-fair/)
 
-via Vandenberg Base News · 2026-11-17, updated 2026-11-24
+via Vandenberg Base News · 2026-11-17, updated 2026-11-25
 
 Attendees explore career opportunities during the Fall Job Fair at the Pacific Coast Center at Vandenberg Space Force Base, California, Nov. 16, 2026.
 
@@ -670,7 +890,7 @@ Neighbors say nearly 400 new homes would also increase fire danger and eliminate
 
 ## [Free Drive-Thru Sandbag Distribution at Central Park](https://santaclarita.gov/blog/2026/11/16/free-drive-thru-sandbag-distribution-at-central-park/)
 
-via City of Santa Clarita · 2026-11-16, updated 2026-11-19
+via City of Santa Clarita · 2026-11-16, updated 2026-11-25
 
 The City of Santa Clarita, in partnership with the Los Angeles County Fire Department, invites the community to prepare for the upcoming rainy season with a FREE Drive-Thru Sandbag Distribution on Sunday, November 22, from 12:00 to 3:00 p.m., at Central Park (27150 Bouquet Canyon Road). With El Niño conditions continuing to develop and the \[…\]
 
@@ -698,15 +918,21 @@ The U.S. Supreme Court denied the Trump administration’s appeal of lower court
 
 ## [Sentinel Stage Processing Facility Ribbon Cutting Ceremony at Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649455/sentinel-stage-processing-facility-ribbon-cutting-ceremony-at-vandenberg-space/)
 
-via Vandenberg Base News · 2026-11-16, updated 2026-11-24
+via Vandenberg Base News · 2026-11-16, updated 2026-11-25
 
 The recently completed facility will serve as a hub for processing and testing components for the next-generation Sentinel weapon system ribbon cutting ceremony held at Vandenberg Space Force Base, California, Nov. 5, 2026.
 
 ![Three people hold scissors](https://media.defense.gov/2026/Nov/16/2004027688/300/300/0/261105-X-DY416-1031.JPG)
 
+## [Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge](https://laist.com/news/climate-environment/study-estimates-magnitude-of-us-data-center-pollution-as-climate-talks-unveil-clean-ai-pledge)
+
+via The LAist · 2026-11-16
+
+The 400 largest data centers in the United States put more heat-trapping gas in the air in one year than the entire nation of Denmark.
+
 ## [Light Up Main Street Know Before You Go!](https://santaclarita.gov/blog/2026/11/16/light-up-main-street-know-before-you-go/)
 
-via City of Santa Clarita · 2026-11-16, updated 2026-11-19
+via City of Santa Clarita · 2026-11-16, updated 2026-11-25
 
 From Road Closures and Parking to Festivities and Fun! The holiday season officially begins in Santa Clarita as Old Town Newhall transforms into a sparkling winter wonderland for Light Up Main Street, presented by DrinkPAK, on Saturday, November 21, from 4:00 to 8:00 p.m. rain or shine! The official tree lighting will take place at \[…\]
 
@@ -714,7 +940,7 @@ The post [Light Up Main Street Know Before You Go!](https://santaclarita.gov/blo
 
 ## [Gather Around the Table for Santa Clarita’s Thanksgiving Community Dinners!](https://santaclarita.gov/blog/2026/11/16/gather-around-the-table-for-santa-claritas-thanksgiving-community-dinners/)
 
-via City of Santa Clarita · 2026-11-16, updated 2026-11-19
+via City of Santa Clarita · 2026-11-16, updated 2026-11-25
 
 Enjoy a Free Thanksgiving Meal with Family, Friends and Neighbors Gather around the table, Santa Clarita! Celebrate the spirit of Thanksgiving with an evening of gratitude, connection and community at the City’s annual Thanksgiving Community Dinners. The free events will take place at the Newhall Community Center on Monday, November 23, and the Canyon Country \[…\]
 
@@ -740,17 +966,23 @@ via The LAist · 2026-11-16
 
 The nominations for the 69th annual Grammy Awards were announced on Monday, and women artists across genres rule the major categories.
 
+## [What Eaton Fire survivors need to know as Edison payout and lawsuit deadlines approach](https://laist.com/news/climate-environment/eaton-fire-survivors-edison-payout-and-lawsuit-deadlines)
+
+via The LAist · 2026-11-16, updated 2026-11-23
+
+Here's what more than two dozen survivors told LAist about their offers and how they're thinking about the SoCal Edison Wildfire Recovery Compensation Program.
+
+## [In LA County, hospice fraud warning signs persist despite state and federal crackdowns, records show](https://laist.com/news/health/la-county-hospice-fraud-crackdown-warning-signs)
+
+via The LAist · 2026-11-16, updated 2026-11-23
+
+LAist analyzed thousands of public records and found potential fraud signs from high rates of patients leaving care alive to hospices clustered at buildings with no signage.
+
 ## [For years, LA County has been plagued by hospice fraud. Here's how typical hospice schemes work](https://laist.com/news/criminal-justice/for-years-la-county-has-been-plagued-by-hospice-fraud-heres-how-typical-hospice-schemes-work)
 
 via The LAist · 2026-11-16
 
 Prosecutors and advocates say recruiters for fraudulent hospice companies offer older people cash, gift cards or free supplies to entice them to share Medicare ID numbers.
-
-## [What Eaton Fire survivors need to know as Edison payout and lawsuit deadlines approach](https://laist.com/news/climate-environment/eaton-fire-survivors-edison-payout-and-lawsuit-deadlines)
-
-via The LAist · 2026-11-16
-
-Here's what more than two dozen survivors told LAist about their offers and how they're thinking about the SoCal Edison Wildfire Recovery Compensation Program.
 
 ## [What happens to Nithya Raman's LA City Council seat once she's sworn in as mayor?](https://laist.com/news/politics/what-happens-to-nithya-raman-la-city-council-seat-once-sworn-in-as-mayor)
 
@@ -790,7 +1022,7 @@ The post [Stalled Offensive Drives, Rain, Flat Defense, Plague Birmingham in 36-
 
 ## [UNARMED MINUTEMAN III ICBM TEST LAUNCH SCHEDULED AT VANDENBERG SPACE FORCE BASE](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4648574/unarmed-minuteman-iii-icbm-test-launch-scheduled-at-vandenberg-space-force-base/)
 
-via Vandenberg Base News · 2026-11-14, updated 2026-11-24
+via Vandenberg Base News · 2026-11-14, updated 2026-11-25
 
 An operational test launch of an Air Force Global Strike Command unarmed Minuteman III intercontinental ballistic missile is scheduled between 11:01 p.m. Pacific Time, Nov. 17, and 5:01 a.m. Pacific Time, Nov.18, from the northern portion of the installation.
 
@@ -816,7 +1048,7 @@ The post [Muscoy’s Stacked Street Food Scene Is Proof that the Inland Empire D
 
 ## [Community Meeting on Proposed Courthouse](https://santaclarita.gov/blog/2026/11/14/community-meeting-on-proposed-courthouse/)
 
-via City of Santa Clarita · 2026-11-14, updated 2026-11-19
+via City of Santa Clarita · 2026-11-14, updated 2026-11-25
 
 By City Manager Ken Striplin For 40 years, the City of Santa Clarita has worked diligently to uphold and maintain the exceptional quality of life that residents, businesses and our entire community have come to appreciate. Every decision made by the City Council is approached with careful consideration, transparency and a commitment to listening to \[…\]
 
@@ -1022,7 +1254,7 @@ In a 2023 campaign speech, Trump pledged to reclaim universities from what he ca
 
 ## [Thank You, Santa Clarita](https://santaclarita.gov/blog/2026/11/12/thank-you-santa-clarita/)
 
-via City of Santa Clarita · 2026-11-12, updated 2026-11-19
+via City of Santa Clarita · 2026-11-12, updated 2026-11-25
 
 By Councilwoman Marsha McLean Long before I ever sat on the Santa Clarita City Council, I learned something important about this community: when residents care about an issue, they show up, speak out and work together to make a difference. I know because I was one of them. Before I was elected to the City \[…\]
 
@@ -1190,7 +1422,7 @@ The century-old diner brings back its pancakes and coleslaw, plus new dishes lik
 
 ## [Solvang holds 2026 Veterans Day observance with support of Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4646630/solvang-holds-2026-veterans-day-observance-with-support-of-vandenberg-space-for/)
 
-via Vandenberg Base News · 2026-11-11, updated 2026-11-24
+via Vandenberg Base News · 2026-11-11, updated 2026-11-25
 
 U.S. Space Force Chief Master Sgt. Shannan Sanchez, Space Launch Delta 30 command senior enlisted leader, delivered the keynote address during a Veterans Day ceremony at the Solvang Veterans Memorial Hall in Solvang, California, Nov. 11, 2026.
 
@@ -1242,12 +1474,6 @@ via The LAist · 2026-11-11
 
 Eighty-six California school districts put bond measures on the ballot. While votes are still being counted, nearly half are failing.
 
-## [In LA County, hospice fraud warning signs persist despite state and federal crackdowns, records show](https://laist.com/news/health/la-county-hospice-fraud-crackdown-warning-signs)
-
-via The LAist · 2026-11-11, updated 2026-11-16
-
-LAist analyzed thousands of public records and found potential fraud signs from high rates of patients leaving care alive to hospices clustered at buildings with no signage.
-
 ## [Your Voice, Your Community, Your Future: Help Shape How LA County Invests in Our Communities](https://sanfernandosun.com/2026/11/11/your-voice-your-community-your-future-help-shape-how-la-county-invests-in-our-communities/)
 
 via San Fernando Sun · 2026-11-11
@@ -1284,7 +1510,7 @@ Those in Little Bangladesh say they are often ignored, but Raman spent time list
 
 ## [Not Just Child’s Play: Space Force Technicians Assist Children’s Museum with Restoration Project](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4646428/not-just-childs-play-space-force-technicians-assist-childrens-museum-with-resto/)
 
-via Vandenberg Base News · 2026-11-10, updated 2026-11-24
+via Vandenberg Base News · 2026-11-10, updated 2026-11-25
 
 After painstaking restoration, a museum’s interactive recycling display recently whirred back to life thanks to the technicians of the 30th Operations Support Squadron’s Training Device Design and Engineering Center at Vandenberg Space Force Base.
 
@@ -1997,78 +2223,4 @@ The mayor's race is very close. Follow along here to track the vote count.
 via The LAist · 2026-11-04
 
 Around 15,000 members of the California State University Employees Union have to vote to ratify the agreement.
-
-## [An Anarchist Feminist’s Personal Eulogy for Dolores Huerta](https://lataco.com/dolores-huerta-eulogy)
-
-via L. A. Taco · 2026-11-03, updated 2026-11-09
-
-If a government sends choppers to silence a five-foot-tall woman, whatever she has to say must be dangerously important.
-
-The post [An Anarchist Feminist’s Personal Eulogy for Dolores Huerta](https://lataco.com/dolores-huerta-eulogy) appeared first on [L.A. TACO](https://lataco.com).
-
-## [Jane Kim declares victory in commissioner race. CA insurance could be in for big changes](https://laist.com/news/politics/california-next-insurance-commissioner-jane-kim-or-ben-allen)
-
-via The LAist · 2026-11-03, updated 2026-11-06
-
-Jane Kim declared victory in the California insurance commissioner race on Friday.
-
-## [Escondido Resident Is 58th to Die in ICE Custody Under Trump Administration](https://lataco.com/escondido-ice-death)
-
-via L. A. Taco · 2026-11-03, updated 2026-11-06
-
-Following Guillermo Pascual Verganza’s death at Otay Mesa Detention Center, his loved ones' nightmare only continued when an ICE press release confusingly misidentified him.
-
-The post [Escondido Resident Is 58th to Die in ICE Custody Under Trump Administration](https://lataco.com/escondido-ice-death) appeared first on [L.A. TACO](https://lataco.com).
-
-## [California voters reject measure to tax the wealth of billionaires](https://laist.com/news/politics/californians-vote-on-nations-first-wealth-tax-on-billionaires)
-
-via The LAist · 2026-11-03, updated 2026-11-10
-
-California voters have rejected a first-in-the-nation tax on the net worth of billionaires.
-
-## [In an act of healing, Eaton Fire survivors take their own experiences to the stage](https://laist.com/news/climate-environment/eaton-fire-survivors-play)
-
-via The LAist · 2026-11-03
-
-The play was part of a national tour sponsored by nonprofit Extreme Weather Survivors.
-
-## [Election Day FAQ: How to cast your ballot successfully, and when it will be counted](https://laist.com/news/politics/election-day-cast-ballot-successfully-when-counted)
-
-via The LAist · 2026-11-03
-
-Vote Centers will be open from 7 a.m. to 8 p.m. and you can also still mail in your ballot.
-
-## [Supreme Court Rejects DOJ Request to Separate California Ballots](https://sanfernandosun.com/2026/11/02/supreme-court-rejects-doj-request-to-separate-california-ballots/)
-
-via San Fernando Sun · 2026-11-03
-
-![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/IMG_20261102_195653-scaled.jpg?fit=768%2C1024&ssl=1)
-
-The U.S.Supreme Court today rejected the Trump administration’s 11th-hour demand for California to set aside thousands of disputed mail ballots ahead of tomorrow’s midterm elections. Earlier Monday, the Justice Department \[…\]
-
-The post [Supreme Court Rejects DOJ Request to Separate California Ballots](https://sanfernandosun.com/2026/11/02/supreme-court-rejects-doj-request-to-separate-california-ballots/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [LA County pauses syringe and pipe handouts at Skid Row services hub](https://laist.com/news/health/la-county-pauses-syringe-pipe-handouts-skid-row)
-
-via The LAist · 2026-11-03
-
-The changes come amid pressure from community members and business owners, and as Skid Row is grappling with a growing cluster of HIV cases.
-
-## [On Eve of Election, Bass and Raman Make Last Push for Mayor](https://sanfernandosun.com/2026/11/02/on-eve-of-election-bass-and-raman-make-last-push-for-mayor/)
-
-via San Fernando Sun · 2026-11-03
-
-![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261029_132309-1.jpg?fit=1024%2C683&ssl=1)
-
-On the eve of the midterm elections, Los Angeles Mayor Karen Bass and LA City Councilmember Nithya Raman actively campaigned across town, vying for the substantial number of undecided voters \[…\]
-
-The post [On Eve of Election, Bass and Raman Make Last Push for Mayor](https://sanfernandosun.com/2026/11/02/on-eve-of-election-bass-and-raman-make-last-push-for-mayor/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [Free Drive-Thru Hazardous Waste/E-Waste Collection Event](https://santaclarita.gov/blog/2026/11/02/free-drive-thru-hazardous-waste-e-waste-collection-event/)
-
-via City of Santa Clarita · 2026-11-03, updated 2026-11-12
-
-The City of Santa Clarita encourages residents to dispose of their unwanted household hazardous and electronic waste at the FREE Household Hazardous/E-Waste Collection Event on Saturday, November 21, from 9:00 a.m. to 3:00 p.m. at the College of the Canyons South Parking Lot (26455 Rockwell Canyon Road). The Household Hazardous/E-Waste Collection Event is a safe \[…\]
-
-The post [Free Drive-Thru Hazardous Waste/E-Waste Collection Event](https://santaclarita.gov/blog/2026/11/02/free-drive-thru-hazardous-waste-e-waste-collection-event/) appeared first on [City of Santa Clarita](https://santaclarita.gov).
 

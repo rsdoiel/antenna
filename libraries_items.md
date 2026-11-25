@@ -1,20 +1,54 @@
 ---
 title: "GLAM"
 description: "Libraries, archives and museums."
-pubDate: Mon, 23 Nov 2026 20:20:52 GMT
+pubDate: Wed, 25 Nov 2026 15:34:38 GMT
 aggregateOf: "libraries.md"
-dateModified: Tue, 24 Nov 2026 06:47:30 GMT
-itemCount: 68
+dateModified: Wed, 25 Nov 2026 16:33:29 GMT
+itemCount: 67
 generator: antenna/0.2.0
 ---
 
 # GLAM
 
+## [New Report From Open Knowledge Foundation and Wikimedia Foundation: “Safeguarding the Digital Future: Recognizing Open Knowledge Systems as Critical Digital Infrastructure”](https://www.infodocket.com/2026/11/25/new-report-from-open-knowledge-foundation-safeguarding-the-digital-future-recognizing-open-knowledge-systems-as-critical-digital-infrastructure/)
+
+via Library Jounral · 2026-11-25
+
+From the OKFN and Wikimedia Foundation: This resource was produced by the Open Knowledge Foundation (OKFN) and the Global Advocacy team from the Wikimedia Foundation (WMF) with the aim of influencing public policies around the globe. The policy report calls for governments to formally recognise, and protect eligible OKSs with CDI status.This resource was produced \[…\]
+
+The post [New Report From Open Knowledge Foundation and Wikimedia Foundation: “Safeguarding the Digital Future: Recognizing Open Knowledge Systems as Critical Digital Infrastructure”](https://www.infodocket.com/2026/11/25/new-report-from-open-knowledge-foundation-safeguarding-the-digital-future-recognizing-open-knowledge-systems-as-critical-digital-infrastructure/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).
+
+## [CORE joins EOSC AIssistant to help build open, verifiable AI for research](https://blog.core.ac.uk/2026/11/25/core-joins-eosc-aissistant-to-help-build-open-verifiable-ai-for-research/)
+
+via CORE blog · 2026-11-25
+
+CORE is one of 12 partners in EOSC AIssistant (Agentic GenAI Open Research Assistant), a three-year Horizon Europe project coordinated by TIB, the Leibniz Information Centre for Science and Technology. TIB is also a CORE Sustaining Member. The project officially launched on 1 September 2026. EOSC AIssistant will develop AI research agents for the European … [Continue reading CORE joins EOSC AIssistant to help build open, verifiable AI for research](https://blog.core.ac.uk/2026/11/25/core-joins-eosc-aissistant-to-help-build-open-verifiable-ai-for-research/)
+
+## [A Journey from Librarian to Author](https://blog.openlibrary.org/2026/11/24/a-journey-from-librarian-to-author/)
+
+via Open Library (blog) · 2026-11-24
+
+For years, I carefully placed books in the right locations on library shelves — physically and digitally. This month, I get to add my own. Jordyn Frederick, Librarian & Author When I finally got that call I’ve been waiting to hear for at least 10 years (“We’re interested in publishing your book”), I couldn’t wait \[…\]
+
+## [“The job I eventually will have has not been invented yet”: Reflections on Being an IT Specialist and Librarian](https://blogs.loc.gov/thesignal/2026/11/barak-stussman/)
+
+via Library of Congress · 2026-11-24
+
+Today’s guest post is from Barak Stussman, an IT Specialist at the Library of Congress. Barak has worked at the Library of Congress for the past 28 years, supporting both information technology colleagues and librarians. As Barak nears his retirement, he reflects on his background, his unique path at the Library, and on what belonging means to him.
+
+## [How a Public Radio Project Turned the Public Domain Into a Creative Playground](https://blog.archive.org/2026/11/24/public-song-project/)
+
+via Internet Archive Blog · 2026-11-24, updated 2026-11-23
+
+Simon Close says The Public Song Project invites people to think of the public domain as a free archive. It’s a place where creative works from the past can be \[…\]
+
+The post [How a Public Radio Project Turned the Public Domain Into a Creative Playground](https://blog.archive.org/2026/11/24/public-song-project/) first appeared on [Internet Archive Blogs](https://blog.archive.org).
+
 ## [ARL Daily Intelligence (November 23–24)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-november-23-24/)
 
-via Association of Research Libraries News · 2026-11-23
+via Association of Research Libraries News · 2026-11-23, updated 2026-11-24
 
-Last Updated on November 23, 2026, 3:34 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
+Last Updated on November 24, 2026, 4:48 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
 The post [ARL Daily Intelligence (November 23–24)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-november-23-24/) appeared first on [Association of Research Libraries](https://www.arl.org).
 
@@ -28,7 +62,7 @@ The post [Be Thankful for What You’ve Got](https://scholarlykitchen.sspnet.org
 
 ## [Now Available Online: Proceedings of the Association for Library and Information Science Education (ALISE) Annual Conference, 2026](https://www.infodocket.com/2026/11/22/proceedings-of-the-association-for-library-and-information-science-education-alise-annual-conference-2026-now-available-online/)
 
-via Library Jounral · 2026-11-22
+via Library Jounral · 2026-11-22, updated 2026-11-25
 
 The Proceedings of the ALISE Annual Conference, 2026 are now available online. Juried Papers (41) A Survey of North American Librarians’ Perceptions of and Experience with Artificial IntelligenceWilhelm Peekhaus (University of Wisconsin-Milwaukee)PDF Dwelling in the Threshold: Productive Liminality in the Design of Inquiry in Libraries and ArchivesDr. Laurie Bonnici (University of Alabama); Rebekah Cowell (University \[…\]
 
@@ -36,7 +70,7 @@ The post [Now Available Online: Proceedings of the Association for Library and I
 
 ## [Research Tools: University of Richmond Distant Viewing Lab Releases DataReel, a New AI Tool for Film Research](https://www.infodocket.com/2026/11/21/research-tools-university-of-richmond-distant-viewing-lab-releases-datareel-a-new-ai-tool-for-film-research/)
 
-via Library Jounral · 2026-11-21, updated 2026-11-22
+via Library Jounral · 2026-11-21, updated 2026-11-25
 
 From the University of Richmond: University of Richmond’s Distant Viewing Lab has released DataReel, a new open access, AI-powered tool that helps researchers analyze films. DataReel uses AI models to automatically capture data from over 2,000 films, presenting it in an interactive, visual format. It measures descriptions of scenes, the characters onscreen, shot length, framing \[…\]
 
@@ -44,13 +78,13 @@ The post [Research Tools: University of Richmond Distant Viewing Lab Releases Da
 
 ## [Shaping digital horizons together: IOI at UbuntuNet CONNECT 2026 in Malawi](https://investinopen.org/blog/shaping-digital-horizons-together-ioi-at-ubuntunet-connect-2026-in-malawi/)
 
-via Invest In Open · 2026-11-20, updated 2026-11-23
+via Invest In Open · 2026-11-20, updated 2026-11-25
 
 A recap of IOI's participation at UbuntuNet CONNECT 2026 in Lilongwe, Malawi
 
 ## [Fall 2026](https://www.arl.org/our-priorities/diversity-equity-inclusion/arl-groundwork/fall-2026-2/)
 
-via Association of Research Libraries News · 2026-11-20, updated 2026-11-23
+via Association of Research Libraries News · 2026-11-20, updated 2026-11-24
 
 Last Updated on November 20, 2026, 11:07 am ET ARL Groundwork (Fall 2026) Groundwork is a new, semiannual publication designed to uplift the people, partnerships, and practices across ARL member...
 
@@ -245,7 +279,7 @@ The conversation continues with #Crossref2026 and on our [community forum](https
 
 ## [Before the Paper Goes](https://metaarchivist.substack.com/p/before-the-paper-goes)
 
-via The Meta Archivist blog · 2026-11-19, updated 2026-11-24
+via The Meta Archivist blog · 2026-11-19, updated 2026-11-25
 
 NARA’s new authority spares agencies from rescanning qualifying legacy records, but it can leave them holding the paper for years.
 
@@ -257,7 +291,7 @@ Workshop on Open Citations and Open Scholarly Metadata 2027 (WOOC 2027) 27–28 
 
 ## [Dr. Carla Hayden: “The Future of Libraries is About More Than Books”](https://www.infodocket.com/2026/11/19/dr-carla-hayden-the-future-of-libraries-is-about-more-than-books/)
 
-via Library Jounral · 2026-11-19, updated 2026-11-22
+via Library Jounral · 2026-11-19, updated 2026-11-25
 
 From a New Op/Ed by Dr. Carla Hayden on Time Magazine/Time.com: Historically, libraries have served as a crucial part of the cultural and civic infrastructure of the nation, responding to local needs and bringing the world to people of all ages. However, in many places today, libraries and library workers are under attack. These attacks \[…\]
 
@@ -345,7 +379,7 @@ We welcome comments, suggestions, and challenges to this report and our practice
 
 ## [The Return of the Hit Count in academic AI search? Not Quite.](https://aarontay.substack.com/p/the-return-of-the-hit-count-in-academic)
 
-via Aaron Tay's Musings about Librarianship · 2026-11-18, updated 2026-11-24
+via Aaron Tay's Musings about Librarianship · 2026-11-18, updated 2026-11-25
 
 Why hits shown in hybrid AI search such as JSTOR Dynamic Search or Consensus should not be treated the same as a traditional database Boolean hit count.
 
@@ -379,13 +413,13 @@ Check out all of the Future Knowledge episodes at [https://archive.org/details/f
 
 ## [The Seal and the Machine](https://metaarchivist.substack.com/p/the-seal-and-the-machine)
 
-via The Meta Archivist blog · 2026-11-17, updated 2026-11-24
+via The Meta Archivist blog · 2026-11-17, updated 2026-11-25
 
 From the seals of Prussian archives to the uncertain afterlife of digital trust
 
 ## [How a Town’s Forgotten History Helped Protect Its Drinking Water](https://blog.archive.org/2026/11/17/the-falmouth-story/)
 
-via Internet Archive Blog · 2026-11-17, updated 2026-11-16
+via Internet Archive Blog · 2026-11-17, updated 2026-11-23
 
 When word started to circulate in Falmouth, Massachusetts, that the town had proposed housing development near Long Pond, the town’s main water source, Eric Hryniewicz said he was confused. “It \[…\]
 
@@ -393,7 +427,7 @@ The post [How a Town’s Forgotten History Helped Protect Its Drinking Water](ht
 
 ## [AI is Reshaping the Role of Academic Librarians; Elsevier Releases Librarian of the Future Report](https://www.infodocket.com/2026/11/17/ai-is-reshaping-the-role-of-academic-librarians-elsevier-releases-librarian-of-the-future-report/)
 
-via Library Jounral · 2026-11-17, updated 2026-11-22
+via Library Jounral · 2026-11-17, updated 2026-11-25
 
 From an Elsevier News Release: Today, Elsevier shares findings from its global Librarian of the Future research, revealing how artificial intelligence (AI) and changing research needs are reshaping the role of academic librarians. Drawing on insights from 1,100 academic librarians across 88 countries, alongside interviews with researchers and academic leaders, the report reveals a profession \[…\]
 
@@ -409,7 +443,7 @@ The post [Just-in-Time Synthesis: A New Approach to an Old Genre](https://schola
 
 ## [ARL Daily Intelligence (November 16–19)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-november-16-19/)
 
-via Association of Research Libraries News · 2026-11-16, updated 2026-11-23
+via Association of Research Libraries News · 2026-11-16, updated 2026-11-24
 
 Last Updated on November 20, 2026, 2:59 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
@@ -417,7 +451,7 @@ The post [ARL Daily Intelligence (November 16–19)](https://www.arl.org/daily-i
 
 ## [Report: “New Kickstarter Campaign Rethinks E-Book Ownership and Digital Lending”](https://www.infodocket.com/2026/11/16/report-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/)
 
-via Library Jounral · 2026-11-16, updated 2026-11-22
+via Library Jounral · 2026-11-16, updated 2026-11-25
 
 From TechCrunch: Here’s a big promise: A new Kickstarter campaign aims to usher in the “return of the human internet.” That’s the tagline of a crowdfunding campaign for The Phoenix Project, an initiative from the online culture and commentary magazine Flaming Hydra. If you back The Phoenix Project, you’re supporting three things — a one-off \[…\]
 
@@ -433,7 +467,7 @@ The post [Guest Post — Beyond the Download: What Counts as Scholarly Content U
 
 ## [Defter helps manage your Zotero references](https://blog.front-matter.de/posts/defter-helps-manage-your-zotero-references/)
 
-via Front Matter Blog · 2026-11-16, updated 2026-11-23
+via Front Matter Blog · 2026-11-16, updated 2026-11-24
 
 Today I am announcing [defter](https://crates.io/crates/defter), a new Zotero sync and file storage server that complements [Zotero Storage](https://www.zotero.org/storage) with a hosted Zotero library using SQLite and S3-compatible object storage.
 
@@ -441,13 +475,13 @@ Today I am announcing [defter](https://crates.io/crates/defter), a new Zotero sy
 
 ## [Appraising Permanence, Sustaining the Promise](https://metaarchivist.substack.com/p/appraising-permanence-sustaining)
 
-via The Meta Archivist blog · 2026-11-15, updated 2026-11-24
+via The Meta Archivist blog · 2026-11-15, updated 2026-11-25
 
 What NARA’s appraisal process reveals about the distance between deciding that federal records should survive and ensuring that they can.
 
 ## [Report From Utah: Voters Just Ousted The Republican Representative Behind The State’s Sweeping School Book Ban Law](https://www.infodocket.com/2026/11/15/report-from-utah-voters-just-ousted-the-republican-representative-behind-the-states-sweeping-school-book-ban-law/)
 
-via Library Jounral · 2026-11-15, updated 2026-11-22
+via Library Jounral · 2026-11-15, updated 2026-11-25
 
 From The Salt Lake Tribune: The Republican representative behind Utah’s statewide school book ban law was ousted last week. Rep. Ken Ivory, R-West Jordan, lost his race against Democrat Drew Howells, who secured 58.11% of the vote as of Friday morning. Ivory received about 41.89%. He acknowledged the defeat in a recent Facebook post. Two \[…\]
 
@@ -455,7 +489,7 @@ The post [Report From Utah: Voters Just Ousted The Republican Representative Beh
 
 ## [Johns Hopkins University: Sheridan Libraries Launches New Digital Collections Site](https://www.infodocket.com/2026/11/14/johns-hopkins-university-sheridan-libraries-launches-new-digital-collections-site/)
 
-via Library Jounral · 2026-11-14, updated 2026-11-22
+via Library Jounral · 2026-11-14, updated 2026-11-25
 
 From JHSL: Now available at the click of a mouse: rare maps of Maryland dating as far back as the sixteenth century, the oral history of the Hopkins surgeon who implanted the first automatic defibrillator, records associated with Chinese indentured laborers in Cuba from 1855 to 1895, and much more. Johns Hopkins Sheridan Libraries is \[…\]
 
@@ -463,7 +497,7 @@ The post [Johns Hopkins University: Sheridan Libraries Launches New Digital Coll
 
 ## [Supporting Ukraine’s open repositories: CORE at OSICU 2026](https://blog.core.ac.uk/2026/11/13/supporting-ukraines-open-repositories-core-at-osicu-2026/)
 
-via CORE blog · 2026-11-13
+via CORE blog · 2026-11-13, updated 2026-11-25
 
 CORE took part in the fifth International Conference “Open Science and Innovations in Ukraine 2026” (#OSICU\_2026), held online on 21 and 22 October as part of International Open Access Week. The conference was organised by the State Scientific and Technical Library of Ukraine, TIB (Leibniz Information Centre for Science and Technology and University Library), the … [Continue reading Supporting Ukraine’s open repositories: CORE at OSICU 2026](https://blog.core.ac.uk/2026/11/13/supporting-ukraines-open-repositories-core-at-osicu-2026/)
 
@@ -477,7 +511,7 @@ The post [Not About the Library](https://sr.ithaka.org/blog/not-about-the-librar
 
 ## [Schools, Health & Libraries Broadband (SHLB) Coalition Files Reply Comments Highlighting Overwhelming Support for E-Rate in FCC Record](https://www.infodocket.com/2026/11/13/schools-health-libraries-broadband-shlb-coalition-files-reply-comments-highlighting-overwhelming-support-for-e-rate-in-fcc-record/)
 
-via Library Jounral · 2026-11-13, updated 2026-11-22
+via Library Jounral · 2026-11-13, updated 2026-11-25
 
 Here’s the Full Text of a SHLB Statement Releases Today: The Schools, Health & Libraries Broadband (SHLB) Coalition filed reply comments with the Federal Communications Commission (FCC) in its review of the E-Rate program, pointing to the overwhelming support for E-Rate in the public record. SHLB’s filing notes that thousands of stakeholders submitted comments in \[…\]
 
@@ -493,7 +527,7 @@ The post [The Anatomy of “Harm”: An Interview with IFRRO CEO Anita Huss-Eker
 
 ## [Annual Celebration 2026: Internet Archive Staff and Friends Showcase Latest Developments](https://blog.archive.org/2026/11/12/annual-celebration-2026-internet-archive-staff-and-friends-showcase-latest-developments/)
 
-via Internet Archive Blog · 2026-11-12, updated 2026-11-16
+via Internet Archive Blog · 2026-11-12, updated 2026-11-23
 
 The theme for this year’s annual celebration was “Democracy’s Library: Tools for Participation”: putting a spotlight on the ways people can use Internet Archive’s tools to participate—from saving and contributing \[…\]
 
@@ -501,7 +535,7 @@ The post [Annual Celebration 2026: Internet Archive Staff and Friends Showcase L
 
 ## [Preserving 30 Years of Salon Journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/)
 
-via Internet Archive Blog · 2026-11-12, updated 2026-11-16
+via Internet Archive Blog · 2026-11-12, updated 2026-11-23
 
 When Salon launched in 1995, the web was still finding its voice. One of the first major publications born on the internet, Salon helped define a new kind of digital \[…\]
 
@@ -517,7 +551,7 @@ The post [Transfer Explorer Comes to Ohio](https://sr.ithaka.org/blog/transfer-e
 
 ## [Who Will Keep the Archive?](https://metaarchivist.substack.com/p/who-will-keep-the-archive)
 
-via The Meta Archivist blog · 2026-11-12, updated 2026-11-24
+via The Meta Archivist blog · 2026-11-12, updated 2026-11-25
 
 From Copenhagen to the DPC's workforce research, a question about the human infrastructure of preservation.
 
@@ -531,7 +565,7 @@ The post [Digital Humanities Research Infrastructures: An Interview with Barbara
 
 ## [University Presses Unite as AI and Financial Pressures Threaten Scholarly Publishing (Launch of University Press Charter)](https://www.infodocket.com/2026/11/11/university-presses-unite-as-ai-and-financial-pressures-threaten-scholarly-publishing-launch-of-university-press-charter/)
 
-via Library Jounral · 2026-11-12, updated 2026-11-22
+via Library Jounral · 2026-11-12, updated 2026-11-25
 
 From a Joint Statement (Full Text): The University Press Charter unites university presses for the first time behind a commitment to shape a better future for scholarly publishing, at a time when trust, quality and public value-for-money are under threat. Launched during University Press Week (9-13 November), the Charter has been founded by seven university \[…\]
 
@@ -555,7 +589,7 @@ The post [Guest Post — The Hidden Work of Integrating Scholarly Publishing](ht
 
 ## [Who Decides What the AI Sees?​](https://aarontay.substack.com/p/who-decides-what-the-ai-sees)
 
-via Aaron Tay's Musings about Librarianship · 2026-11-11, updated 2026-11-24
+via Aaron Tay's Musings about Librarianship · 2026-11-11, updated 2026-11-25
 
 The Third Discovery War: From Federated Search and Central Indexes to MCP and Agentic AI​
 
@@ -577,7 +611,7 @@ The post [2026 AI100 Report Released: (AI Goes Mainstream: The Scaling Era and t
 
 ## [2027 Public Domain Film Contest: The Internet Archive is Looking For Creative Short Films Made By You!](https://blog.archive.org/2026/11/10/2027-public-domain-film-contest/)
 
-via Internet Archive Blog · 2026-11-10, updated 2026-11-16
+via Internet Archive Blog · 2026-11-10, updated 2026-11-23
 
 We invite filmmakers, artists, and creatives of all skill levels and backgrounds to celebrate Public Domain Day, by creating and uploading a short film not exceeding 4 minutes to the \[…\]
 
@@ -601,7 +635,7 @@ The post [Report: The Free Library of Philadelphia’s Online Catalog Was Taken 
 
 ## [ARL Daily Intelligence (November 9–12)](https://www.arl.org/daily-intelligence/arl-daily-intelligence-november-9-12/)
 
-via Association of Research Libraries News · 2026-11-09, updated 2026-11-23
+via Association of Research Libraries News · 2026-11-09, updated 2026-11-24
 
 Last Updated on November 12, 2026, 3:08 pm ET The ARL Daily Intelligence is the trusted source of news and analysis for library leaders and advocates. Released Monday through Thursday, the ARL Daily...
 
@@ -625,7 +659,7 @@ The post [Lessons on Financing the Implementation and Expansion of Comprehensive
 
 ## [CORE becomes a legal entity](https://blog.core.ac.uk/2026/11/09/core-becomes-a-legal-entity/)
 
-via CORE blog · 2026-11-09, updated 2026-11-13
+via CORE blog · 2026-11-09, updated 2026-11-25
 
 CORE has become a not-for-profit legal entity dedicated to CORE’s mission. We remain committed to the Principles of Open Scholarly Infrastructure (POSI 2.0) and to delivering on CORE’s Distinctive Characteristics. Starting from September 2026 as a spin-out from The Open University, CORE: COnnecting REpositories holds responsibility for the operation, development and long-term sustainability of the … [Continue reading CORE becomes a legal entity](https://blog.core.ac.uk/2026/11/09/core-becomes-a-legal-entity/)
 
@@ -639,7 +673,7 @@ The post [Guest Post — We Have Enough Declarations. Now What? A Critique from 
 
 ## [The Context We Carry Forward](https://metaarchivist.substack.com/p/the-context-we-carry-forward)
 
-via The Meta Archivist blog · 2026-11-08, updated 2026-11-24
+via The Meta Archivist blog · 2026-11-08, updated 2026-11-25
 
 Remembering Stephen Clarke, one year on, and the unfinished possibilities of epidata
 
@@ -661,7 +695,7 @@ The post [Ask the Technology Providers: Our Charleston Conversation](https://sch
 
 ## [On the Road with RADS: Building One Front Door for Data Management and Sharing Support at the University of Nebraska–Lincoln](https://www.arl.org/blog/on-the-road-with-rads-building-one-front-door-for-data-management-and-sharing-support-at-the-university-of-nebraska-lincoln/)
 
-via Association of Research Libraries News · 2026-11-05, updated 2026-11-23
+via Association of Research Libraries News · 2026-11-05, updated 2026-11-24
 
 Last Updated on November 5, 2026, 2:05 pm ET Leslie Delserone is research data services and science librarian, University of Nebraska–Lincoln. Alicia Hofelich Mohr, PhD, is data management research associate,...
 
@@ -669,7 +703,7 @@ The post [On the Road with RADS: Building One Front Door for Data Management and
 
 ## [Rogue Scholar no longer registers concept DOIs for each post](https://blog.front-matter.de/posts/rogue-scholar-no-longer-registers-concept-dois-for-each-post/)
 
-via Front Matter Blog · 2026-11-05, updated 2026-11-23
+via Front Matter Blog · 2026-11-05, updated 2026-11-24
 
 Starting this Monday November 3rd the Rogue Scholar science blog archive stopped registering concept DOIs for new blog posts, i.e. two DOIs for each post.
 
@@ -691,13 +725,13 @@ The post [Guest Post — What AI Can’t Learn About Peer Review… Because Nobo
 
 ## [How the University of Glasgow uses CORE FreshFinds to streamline repository workflows](https://blog.core.ac.uk/2026/11/04/how-the-university-of-glasgow-uses-core-freshfinds-to-streamline-repository-workflows/)
 
-via CORE blog · 2026-11-04, updated 2026-11-13
+via CORE blog · 2026-11-04, updated 2026-11-25
 
 George Macgregor, Assistant Director – Digital Library, University of Glasgow A core objective of CORE FreshFinds is to make it easier for institutional repositories to capture newly published research and maintain a comprehensive record of their academics’ research outputs. It also helps to ensure institutions are optimising research discovery while simultaneously mitigating deposit pressures that might … [Continue reading How the University of Glasgow uses CORE FreshFinds to streamline repository workflows](https://blog.core.ac.uk/2026/11/04/how-the-university-of-glasgow-uses-core-freshfinds-to-streamline-repository-workflows/)
 
 ## [Shaping FreshFinds together: thank you to everyone at the Oxford community workshop](https://blog.core.ac.uk/2026/11/04/shaping-freshfinds-together-thank-you-to-everyone-at-the-oxford-community-workshop/)
 
-via CORE blog · 2026-11-04, updated 2026-11-13
+via CORE blog · 2026-11-04, updated 2026-11-25
 
 On 27 October, the Bodleian Libraries hosted a community workshop at the University of Oxford focused on CORE FreshFinds and the future development of shared repository infrastructure. Repository and library colleagues from across the UK joined the workshop both in person and online. We would like to thank Ruth Mallalieu, Jason Partridge and their colleagues … [Continue reading Shaping FreshFinds together: thank you to everyone at the Oxford community workshop](https://blog.core.ac.uk/2026/11/04/shaping-freshfinds-together-thank-you-to-everyone-at-the-oxford-community-workshop/)
 
@@ -718,48 +752,4 @@ Libraries are increasingly facing restrictive eBook licensing terms that can mak
 This conversation was recorded on 9/29/2026. Watch the full video recording at: [https://archive.org/details/will-state-law-solve-the-library-e-book-crisis](https://archive.org/details/will-state-law-solve-the-library-e-book-crisis)
 
 Check out all of the Future Knowledge episodes at [https://archive.org/details/future-knowledge](https://archive.org/details/future-knowledge)
-
-## [Big Ten Open Books Project Launches Three New 100-Book Collections](https://www.infodocket.com/2026/11/03/big-ten-open-books-project-launches-three-new-collections/)
-
-via Library Jounral · 2026-11-03, updated 2026-11-15
-
-From a BTAA Post: In partnership with ten Big Ten-affiliated university presses, the Big Ten Academic Alliance’s Center for Library Programs announces the expansion of the Big Ten Open Books project with the rolling publication of the next three 100-book collections: African- Asian- and Hispanic Americans, Health Disparities and Disability Culture, and Human Environmental Impact. \[…\]
-
-The post [Big Ten Open Books Project Launches Three New 100-Book Collections](https://www.infodocket.com/2026/11/03/big-ten-open-books-project-launches-three-new-collections/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).
-
-## [Company News: Cambridge University Press, Johns Hopkins University Press, Princeton University Press and Cashmere are Launching Meridian, an MCP Gateway to Scholarly Content](https://www.infodocket.com/2026/11/03/company-news-cambridge-university-press-johns-hopkins-university-press-princeton-university-press-and-cashmere-are-launching-meridian-an-mcp-gateway-to-content/)
-
-via Library Jounral · 2026-11-03, updated 2026-11-14
-
-Here’s the Full Text of Today’s Joint Announcement: Cambridge University Press, Johns Hopkins University Press and Princeton University Press today announced they are Founding Publishers of Meridian, a new University Press community initiative convened by Cashmere, its initial operator and platform provider. Meridian is a mission-driven, market-informed Model Context Protocol (MCP) gateway for scholarly content, \[…\]
-
-The post [Company News: Cambridge University Press, Johns Hopkins University Press, Princeton University Press and Cashmere are Launching Meridian, an MCP Gateway to Scholarly Content](https://www.infodocket.com/2026/11/03/company-news-cambridge-university-press-johns-hopkins-university-press-princeton-university-press-and-cashmere-are-launching-meridian-an-mcp-gateway-to-content/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).
-
-## [The Context Behind the Answer](https://metaarchivist.substack.com/p/the-context-behind-the-answer)
-
-via The Meta Archivist blog · 2026-11-03, updated 2026-11-24
-
-Reference, Description, and the Provenance of AI-Generated Knowledge
-
-## [Understanding the CORE Dashboard: Finding New Research with the FreshFinds Tab](https://blog.core.ac.uk/2026/11/03/understanding-the-core-dashboard-finding-new-research-with-the-freshfinds-tab/)
-
-via CORE blog · 2026-11-03, updated 2026-11-13
-
-CORE FreshFinds is now live in the CORE Dashboard and available to CORE Sustaining Members. It has been shaped with repository teams through our recent pilot, and we will keep developing it with your feedback. This post is part of our Understanding the CORE Dashboard series. It walks through the FreshFinds tab: what it shows, and how to … [Continue reading Understanding the CORE Dashboard: Finding New Research with the FreshFinds Tab](https://blog.core.ac.uk/2026/11/03/understanding-the-core-dashboard-finding-new-research-with-the-freshfinds-tab/)
-
-## [Company News: Oxford University Press Launches MCP Pilot; Partners Include Harvard Library, Wharton School, and University of Oxford](https://www.infodocket.com/2026/11/03/company-news-oxford-university-press-launches-mcp-pilot-partners-include-harvard-library-wharton-school-and-university-of-oxford/)
-
-via Library Jounral · 2026-11-03, updated 2026-11-13
-
-Here’s the Full Text of the Oxford University Press Announcement: Oxford University Press (OUP) is working with three universities to securely connect their ChatGPT Edu accounts to academic content from OUP. Running from October to December 2026, the pilot will enable students and researchers to access OUP’s trusted content directly within their AI-assisted research journeys. \[…\]
-
-The post [Company News: Oxford University Press Launches MCP Pilot; Partners Include Harvard Library, Wharton School, and University of Oxford](https://www.infodocket.com/2026/11/03/company-news-oxford-university-press-launches-mcp-pilot-partners-include-harvard-library-wharton-school-and-university-of-oxford/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).
-
-## [Guest Post — What Accessibility at Scale Actually Requires of Academic Publishers](https://scholarlykitchen.sspnet.org/2026/11/03/what-accessibility-at-scale-actually-requires-of-academic-publishers/)
-
-via Scholarly Kitchen · 2026-11-03, updated 2026-11-22
-
-How can publishers move past the regulatory overview for accessibility compliance and into the production reality after sitting on decades of archived content, posts, and data.
-
-The post [Guest Post — What Accessibility at Scale Actually Requires of Academic Publishers](https://scholarlykitchen.sspnet.org/2026/11/03/what-accessibility-at-scale-actually-requires-of-academic-publishers/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).
 

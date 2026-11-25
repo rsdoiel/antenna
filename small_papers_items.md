@@ -1,18 +1,208 @@
 ---
 title: "Small Papers"
 description: "Small regional papers, blogs and news."
-pubDate: Tue, 24 Nov 2026 05:11:24 GMT
+pubDate: Wed, 25 Nov 2026 16:33:31 GMT
 aggregateOf: "small_papers.md"
-dateModified: Tue, 24 Nov 2026 06:47:35 GMT
-itemCount: 86
+dateModified: Wed, 25 Nov 2026 16:33:41 GMT
+itemCount: 100
 generator: antenna/0.2.0
 ---
 
 # Small Papers
 
+## [Nuevo rink de hielo abre en Reseda en asociación con los LA Kings](https://sanfernandosun.com/2026/11/25/nuevo-rink-de-hielo-abre-en-reseda-en-asociacion-con-los-la-kings/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/888586344_1565344005402702_3404633796938087072_n-e1795624337242.jpg?fit=1024%2C528&ssl=1)
+
+Han pasado años en el camino, pero finalmente se inauguró un nuevo rink de hielo en Reseda en asociación con los Los Angeles Kings, brindando a los angelinos del Valle \[…\]
+
+The post [Nuevo rink de hielo abre en Reseda en asociación con los LA Kings](https://sanfernandosun.com/2026/11/25/nuevo-rink-de-hielo-abre-en-reseda-en-asociacion-con-los-la-kings/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Chatsworth Woman Abandoned as a Toddler on Skid Row is Thankful for Real-Life ‘Guardian Angels’](https://sanfernandosun.com/2026/11/25/chatsworth-woman-abandoned-as-a-toddler-on-skid-row-is-thankful-for-real-life-guardian-angels/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Stephanie-001.jpeg?fit=1024%2C750&ssl=1)
+
+A few weeks ago, Stephanie Orlando was writing part of her life story for her 11-year-old son Oliver, something she does regularly – sharing highlights and positive affirmations. As she \[…\]
+
+The post [Chatsworth Woman Abandoned as a Toddler on Skid Row is Thankful for Real-Life ‘Guardian Angels’](https://sanfernandosun.com/2026/11/25/chatsworth-woman-abandoned-as-a-toddler-on-skid-row-is-thankful-for-real-life-guardian-angels/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [New Ice Rink Opens in Reseda in Partnership with LA Kings](https://sanfernandosun.com/2026/11/25/new-ice-rink-opens-in-reseda-in-partnership-with-la-kings/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/885576991_1565346435402459_3016840695908914718_n-e1795623446228.jpg?fit=1024%2C683&ssl=1)
+
+It’s been years in the making, but a new ice rink was finally opened in Reseda in partnership with the Los Angeles Kings, providing Angelenos in the San Fernando Valley \[…\]
+
+The post [New Ice Rink Opens in Reseda in Partnership with LA Kings](https://sanfernandosun.com/2026/11/25/new-ice-rink-opens-in-reseda-in-partnership-with-la-kings/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Public Comment Period on Whiteman Airport Study Open Until February](https://sanfernandosun.com/2026/11/25/public-comment-period-on-whiteman-airport-study-open-until-february/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/02/View-recent-photos-e1707966402490.jpg?fit=576%2C1024&ssl=1)
+
+A full report by the Los Angeles County on Whiteman Airport was released Thursday, Nov. 19, and the public will have until early next year to provide their comments before \[…\]
+
+The post [Public Comment Period on Whiteman Airport Study Open Until February](https://sanfernandosun.com/2026/11/25/public-comment-period-on-whiteman-airport-study-open-until-february/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Hope the Mission Reopens the Iconic Original Pantry Cafe](https://sanfernandosun.com/2026/11/25/hope-the-mission-reopens-the-iconic-original-pantry-cafe/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Copy-of-IMG_4203-scaled-e1795622912637.jpg?fit=1024%2C683&ssl=1)
+
+When the Original Pantry Cafe closed in March 2025 after 101 years in business, Angelenos grieved the loss of the beloved diner that was considered a cultural institution. However, what \[…\]
+
+The post [Hope the Mission Reopens the Iconic Original Pantry Cafe](https://sanfernandosun.com/2026/11/25/hope-the-mission-reopens-the-iconic-original-pantry-cafe/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Enjoy Thanksgiving Without the Food Coma: Simple Ways to Savor the Holiday](https://sanfernandosun.com/2026/11/25/enjoy-thanksgiving-without-the-food-coma-simple-ways-to-savor-the-holiday/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Family-Eating-1.jpg?fit=1024%2C683&ssl=1)
+
+Thanksgiving is here, which means kitchens will be filled with the smell of roasted turkey, creamy mashed potatoes and pies that are almost impossible to resist. It’s a holiday centered \[…\]
+
+The post [Enjoy Thanksgiving Without the Food Coma: Simple Ways to Savor the Holiday](https://sanfernandosun.com/2026/11/25/enjoy-thanksgiving-without-the-food-coma-simple-ways-to-savor-the-holiday/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Screen-free Ways to Keep Kids Engaged Over Holiday Break](https://sanfernandosun.com/2026/11/25/screen-free-ways-to-keep-kids-engaged-over-holiday-break/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/N1809P22001C.jpg?fit=1024%2C683&ssl=1)
+
+The holiday season is a time to reunite with family and friends. Late December also is a time for students to relax and recharge over the holiday break, which typically \[…\]
+
+The post [Screen-free Ways to Keep Kids Engaged Over Holiday Break](https://sanfernandosun.com/2026/11/25/screen-free-ways-to-keep-kids-engaged-over-holiday-break/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [GR818ERS’ Flava of the Year International Street Dance Festival](https://sanfernandosun.com/2026/11/25/gr818ers-flava-of-the-year-international-street-dance-festival/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/920162130_18654225226018506_4047551326374150473_n-scaled-e1795622465301.jpg?fit=1024%2C879&ssl=1)
+
+The finals of the GR818ERS’ Flava of the Year International Street Dance Festival (FOTY) were held on Saturday, Nov. 21, in Van Nuys, where acclaimed talents busted their best moves \[…\]
+
+The post [GR818ERS’ Flava of the Year International Street Dance Festival](https://sanfernandosun.com/2026/11/25/gr818ers-flava-of-the-year-international-street-dance-festival/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Giving Thanks for the Latin Grammys, Students, Family and Friends](https://sanfernandosun.com/2026/11/25/giving-thanks-for-the-latin-grammys-students-family-and-friends/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Latin-Grammys.jpg?fit=1024%2C768&ssl=1)
+
+Going into the holiday season, there are many blessings Sergio “Checo” Alonso is thankful for, including a very prestigious nod to his musical talents: the opportunity to perform at this \[…\]
+
+The post [Giving Thanks for the Latin Grammys, Students, Family and Friends](https://sanfernandosun.com/2026/11/25/giving-thanks-for-the-latin-grammys-students-family-and-friends/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Kurt Cabrera-Miller is Grateful for the Community of Sylmar](https://sanfernandosun.com/2026/11/25/kurt-cabrera-miller-is-grateful-for-the-community-of-sylmar/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Kurt-e1795622147725.jpg?fit=1024%2C876&ssl=1)
+
+Kurt Cabrera-Miller appreciates living and working in a community he loves. As longtime president of the Sylmar Neighborhood Council, he is grateful for the community-wide strides that have been made. \[…\]
+
+The post [Kurt Cabrera-Miller is Grateful for the Community of Sylmar](https://sanfernandosun.com/2026/11/25/kurt-cabrera-miller-is-grateful-for-the-community-of-sylmar/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Long Beach finishes $11 million dredging project to help protect the Peninsula, with plans for another soon](https://lbpost.com/news/peninsula-beach-dredging-finished-whats-next)
+
+via Long Beach Post · 2026-11-25
+
+![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/23133649/20nov26-peninsula-7715-744713-rfvtoevx-834305-h6nIkOPE-1024x568.jpg)
+
+The beach boardwalk, severely damaged by a series of El Niño-driven storms, could reopen by spring.
+
+The post [Long Beach finishes $11 million dredging project to help protect the Peninsula, with plans for another soon](https://lbpost.com/news/peninsula-beach-dredging-finished-whats-next) appeared first on [Long Beach Post News](https://lbpost.com/news).
+
+## [In Photos: San Fernando Defeats Rival Sylmar to Advance to Football Championship](https://sanfernandosun.com/2026/11/24/in-photos-san-fernando-defeats-rival-sylmar-to-advance-to-football-championship/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/IMG_8291-scaled.jpeg?fit=683%2C1024&ssl=1)
+
+San Fernando will face Marquez High School in the CIF Los Angeles City Section Division II championship game Friday, Nov. 27, at 7 p.m. at Birmingham High School. Marquez advanced \[…\]
+
+The post [In Photos: San Fernando Defeats Rival Sylmar to Advance to Football Championship](https://sanfernandosun.com/2026/11/24/in-photos-san-fernando-defeats-rival-sylmar-to-advance-to-football-championship/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Takeaways from an Attempt to Identify Migrants Who Were Lost in the Atlantic](https://sanfernandosun.com/2026/11/24/takeaways-from-an-attempt-to-identify-migrants-who-were-lost-in-the-atlantic/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-24, updated 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/AP26323563594267-scaled.jpg?fit=1024%2C683&ssl=1)
+
+By Renata Brito Associated Press TACHOTT, Mauritania (AP) ‚Äî Alexandre Deitos has a grim job: identifying the dead. A criminal forensic investigator with Brazil’s federal police, he has helped put names \[…\]
+
+The post [Takeaways from an Attempt to Identify Migrants Who Were Lost in the Atlantic](https://sanfernandosun.com/2026/11/24/takeaways-from-an-attempt-to-identify-migrants-who-were-lost-in-the-atlantic/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Over a Freeway Near Los Angeles, Animals Can Roam Safely Thanks to World’s Largest Wildlife Crossing](https://sanfernandosun.com/2026/11/24/over-a-freeway-near-los-angeles-animals-can-roam-safely-thanks-to-worlds-largest-wildlife-crossing/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-24, updated 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/AP26315800585680.jpg?fit=1024%2C683&ssl=1)
+
+By Christopher Weber Associated Press AGOURA HILLS, Calif. (AP) — Touring the world’s largest wildlife crossing, Beth Pratt stepped carefully through freshly planted native vegetation and held up her hand for \[…\]
+
+The post [Over a Freeway Near Los Angeles, Animals Can Roam Safely Thanks to World’s Largest Wildlife Crossing](https://sanfernandosun.com/2026/11/24/over-a-freeway-near-los-angeles-animals-can-roam-safely-thanks-to-worlds-largest-wildlife-crossing/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [Gasoline prices may be inching down, but some have already canceled Thanksgiving travel plans](https://lbpost.com/news/business/trade-transportation/gas-prices-cancel-thanksgiving-travel)
+
+via Long Beach Post · 2026-11-24, updated 2026-11-25
+
+![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/24125836/travel-plans-gas-scprbrightspotcdn-333687-3dohjjkm-326845-UZNwAdCw-1024x768.webp)
+
+Some are canceling trips, some are eating the higher costs.
+
+The post [Gasoline prices may be inching down, but some have already canceled Thanksgiving travel plans](https://lbpost.com/news/business/trade-transportation/gas-prices-cancel-thanksgiving-travel) appeared first on [Long Beach Post News](https://lbpost.com/news).
+
+## [Long Beach speed cameras send 130,000 warnings in their first month, city official says](https://lbpost.com/news/traffic-safety/speed-cameras/speed-cameras-130000-warnings-first-month-how-many)
+
+via Long Beach Post · 2026-11-24, updated 2026-11-25
+
+![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/09/11124859/friday-sept-112026-speed-7-095170-swv0ffns-395558-DbD9XOu9-1024x710.jpg)
+
+A lot of people are getting warnings in the mail from Long Beach's new speed cameras. They'll start sending citations Dec. 7.
+
+The post [Long Beach speed cameras send 130,000 warnings in their first month, city official says](https://lbpost.com/news/traffic-safety/speed-cameras/speed-cameras-130000-warnings-first-month-how-many) appeared first on [Long Beach Post News](https://lbpost.com/news).
+
+## [No foul play suspected after man’s body found floating in marina, Long Beach police say](https://lbpost.com/news/crime/body-marina-long-beach-shoreline-village)
+
+via Long Beach Post · 2026-11-24, updated 2026-11-25
+
+![](https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28133644/0824-shoreline-176-970x489-821844-z9hyujb2-147241-a9Dc0uj2.jpg)
+
+The Los Angeles County Medical Examiner's Office was called to the scene to investigate how the man died and how he ended up in the water.
+
+The post [No foul play suspected after man’s body found floating in marina, Long Beach police say](https://lbpost.com/news/crime/body-marina-long-beach-shoreline-village) appeared first on [Long Beach Post News](https://lbpost.com/news).
+
+## [11th Annual Drumstick Dash Comes to NoHo on Thanksgiving Day](https://sanfernandosun.com/2026/11/24/11th-annual-drumstick-dash-comes-to-noho-on-thanksgiving-day/)
+
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-24, updated 2026-11-25
+
+![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/8c9cb005-4923-448d-9c72-83811ffa0793-bP8z3Q.jpg?fit=1024%2C576&ssl=1)
+
+The 11th Annual Drumstick Dash is coming to North Hollywood this Thanksgiving, with more than 8,000 runners and 250 volunteers expected to participate in the combined 5K and 10K event. \[…\]
+
+The post [11th Annual Drumstick Dash Comes to NoHo on Thanksgiving Day](https://sanfernandosun.com/2026/11/24/11th-annual-drumstick-dash-comes-to-noho-on-thanksgiving-day/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
+
+## [This neon green barge is part of how California is cutting port pollution. Will Congress interfere?](https://lbpost.com/news/this-neon-green-barge-is-part-of-how-california-is-cutting-port-pollution-will-congress-interfere)
+
+via Long Beach Post · 2026-11-24, updated 2026-11-25
+
+![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/24085208/pollution-barge-lead-scprbrightspotcdn-741531-grst3nqc-138874-gTgd2gjU-1024x681.webp)
+
+The ports of L.A. and Long Beach are the single largest fixed source of smog in Southern California.
+
+The post [This neon green barge is part of how California is cutting port pollution. Will Congress interfere?](https://lbpost.com/news/this-neon-green-barge-is-part-of-how-california-is-cutting-port-pollution-will-congress-interfere) appeared first on [Long Beach Post News](https://lbpost.com/news).
+
 ## [HOROSCOPE](https://sanfernandosun.com/2026/11/23/horoscope-291/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-24
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-24, updated 2026-11-25
 
 ARIES (March 21-April 19) This is a good weekend for kicking back and relaxing, Aries. If you feel like hosting, open your home to some guests for even more fun. \[…\]
 
@@ -20,7 +210,7 @@ The post [HOROSCOPE](https://sanfernandosun.com/2026/11/23/horoscope-291/) appea
 
 ## [California sues to block Trump rule denying aid to families with mixed immigration statuses](https://lbpost.com/news/public-housing-immigration-status-trump)
 
-via Long Beach Post · 2026-11-23
+via Long Beach Post · 2026-11-23, updated 2026-11-25
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/23134846/022326-for-sale-rent-lv-cm-06-693604-8n15vqi1-149082-M76AJNGv-1024x683.webp)
 
@@ -30,7 +220,7 @@ The post [California sues to block Trump rule denying aid to families with mixed
 
 ## [LA’s Vegan Community Seeks Thanksgiving Alternatives](https://sanfernandosun.com/2026/11/23/las-vegan-community-seeks-thanksgiving-alternatives-2/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-23, updated 2026-11-24
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-23, updated 2026-11-25
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/11/CA-Sun-turkey-hug-kid-EDIT-scaled.jpg?fit=768%2C1024&ssl=1)
 
@@ -40,7 +230,7 @@ The post [LA’s Vegan Community Seeks Thanksgiving Alternatives](https://sanfer
 
 ## [Ahead of extreme Thanksgiving tides, Naples fortifies its aging seawall with thousands of sandbags](https://lbpost.com/news/el-nino/thanksgiving-king-tides-naples-sandbages-flooding)
 
-via Long Beach Post · 2026-11-22, updated 2026-11-23
+via Long Beach Post · 2026-11-22, updated 2026-11-25
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/21140706/21nov26-sandbag-7941-476257-mciab0of-154106-8TTvEbIB-1024x651.jpg)
 
@@ -50,7 +240,7 @@ The post [Ahead of extreme Thanksgiving tides, Naples fortifies its aging seawal
 
 ## [Thieves stole hundreds of thousands of Nikes, Crocs and tools in train heists, prosecutors say](https://lbpost.com/news/crime/thieves-stole-hundreds-of-thousands-of-nikes-crocs-and-tools-in-train-heists-prosecutors-say)
 
-via Long Beach Post · 2026-11-20, updated 2026-11-23
+via Long Beach Post · 2026-11-20, updated 2026-11-25
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/20134059/screenshot-2026-11-20-at-14016-pm-237506-curjrhva-185763-5rBw4Jmp.png)
 
@@ -60,7 +250,7 @@ The post [Thieves stole hundreds of thousands of Nikes, Crocs and tools in train
 
 ## [Experts Urge Travelers to Get a Flu Shot Before Thanksgiving](https://sanfernandosun.com/2026/11/20/experts-urge-travelers-to-get-a-flu-shot-before-thanksgiving/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-20, updated 2026-11-24
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-20, updated 2026-11-25
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/500_jonathan-weiner-md-cedars-sinai.jpg?fit=285%2C400&ssl=1)
 
@@ -70,7 +260,7 @@ The post [Experts Urge Travelers to Get a Flu Shot Before Thanksgiving](https://
 
 ## [They voted to replace César Chavez’s name on their school and chose a symbol of rebirth](https://lbpost.com/news/education/cesar-chavez-new-name-school-monarca)
 
-via Long Beach Post · 2026-11-20, updated 2026-11-23
+via Long Beach Post · 2026-11-20, updated 2026-11-25
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/20082847/6-15-26-walls-7-929829-wnhgbadk-241618-6bsdcqmh-055214-gpcynryk-504484-mKrkArjS-1024x485.jpg)
 
@@ -80,7 +270,7 @@ The post [They voted to replace César Chavez’s name on their school and chose
 
 ## [Body camera footage shows how police responded when ICE called for help in North Long Beach](https://lbpost.com/news/immigration/ice-police-help-broke-arm-north-long-beach)
 
-via Long Beach Post · 2026-11-20, updated 2026-11-23
+via Long Beach Post · 2026-11-20, updated 2026-11-25
 
 ![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/19193029/oct-17ice-nlb-screenshot-2026-11-19-at-55553-pm-899592-vupgpl5y-893747-ovhjlq9u-2048x820-236608-xi7bg9bb-074942-zonrhvgz-995975-8b3c6ytm-291132-5wIENUXr-1024x410.jpg)
 
@@ -130,7 +320,7 @@ The post [LBUSD says it can’t find anything wrong with classrooms where dozens
 
 ## [Llevando el espíritu de “Si Se Puede”: Miles rinden homenaje a Dolores Huerta](https://sanfernandosun.com/2026/11/18/llevando-el-espiritu-de-si-se-puede-miles-rinden-homenaje-a-dolores-huerta/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-24
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-25
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/AP26320811633908-1.jpg?fit=1024%2C683&ssl=1)
 
@@ -140,7 +330,7 @@ The post [Llevando el espíritu de “Si Se Puede”: Miles rinden homenaje a Do
 
 ## [Demanda impugna el plan de Newsom para conmutar las 548 sentencias de muerte en California](https://sanfernandosun.com/2026/11/18/demanda-impugna-el-plan-de-newsom-para-conmutar-las-548-sentencias-de-muerte-en-california/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-24
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-25
 
 ![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/6099018590715768017_107ca394-a589-4eff-a760-08895cdb8f3e-e1795064149101.png?fit=1024%2C981&ssl=1)
 
@@ -150,7 +340,7 @@ The post [Demanda impugna el plan de Newsom para conmutar las 548 sentencias de 
 
 ## [Horóscopo](https://sanfernandosun.com/2026/11/18/horoscopo-294/)
 
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-24
+via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-19, updated 2026-11-25
 
 ARIES (21 de mar – 19 de abr) Puedes querer estar en todas partes al mismo tiempo cuando lleguen las invitaciones sociales, Aries. Pero esta semana tendrás que elegir tus \[…\]
 
@@ -797,54 +987,4 @@ via Long Beach Post · 2026-11-04, updated 2026-11-06
 Becerra will be California’s first Latino governor since the late 19th century.
 
 The post [Democrat Xavier Becerra wins California governor’s race, defeating Republican Steve Hilton](https://lbpost.com/news/xavier-becerra-wins-california-governor) appeared first on [Long Beach Post News](https://lbpost.com/news).
-
-## [Californians vote on nation’s first wealth tax on billionaires](https://lbpost.com/news/politics/elections/prop-40-californians-vote-on-nations-first-wealth-tax-on-billionaires)
-
-via Long Beach Post · 2026-11-03, updated 2026-11-05
-
-![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/03062036/100326-ballots-billionaire-mo-cm-18-489649-ybaupjst-098275-JK1YUkky-1024x683.webp)
-
-Some of the state’s wealthiest residents have spent hundreds of millions to defeat Prop. 40, the “billionaire tax.” Supporters say billionaires should pay their “fair share” and help fund social services.
-
-The post [Californians vote on nation’s first wealth tax on billionaires](https://lbpost.com/news/politics/elections/prop-40-californians-vote-on-nations-first-wealth-tax-on-billionaires) appeared first on [Long Beach Post News](https://lbpost.com/news).
-
-## [Long Beach congressman says he’ll take on ICE and Trump if Democrats win in midterms](https://lbpost.com/news/politics/elections/robert-garcia-oversight-committee-investigate-ice-trump-midterms)
-
-via Long Beach Post · 2026-11-03, updated 2026-11-04
-
-![](https://img.lbpost.com/wp-content/uploads/sites/2/2025/09/29154938/9-29-25-garcia-6-848978-91hraiwi-774968-MG9aDRUH-1024x684.jpg)
-
-Rep. Robert Garcia is in line to lead the powerful Oversight Committee, where he could demand answers from immigration agents and become one of the president’s loudest antagonists.
-
-The post [Long Beach congressman says he’ll take on ICE and Trump if Democrats win in midterms](https://lbpost.com/news/politics/elections/robert-garcia-oversight-committee-investigate-ice-trump-midterms) appeared first on [Long Beach Post News](https://lbpost.com/news).
-
-## [Beware the ‘red mirage’ if California Republicans have an election night lead](https://lbpost.com/news/politics/elections/beware-the-red-mirage-if-california-republicans-have-an-election-night-lead)
-
-via Long Beach Post · 2026-11-03, updated 2026-11-04
-
-![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/02124740/053126-spencer-pratt-ap-cm-01-137137-w49bve12-132770-P70N8MHF-1024x683.webp)
-
-Don’t be fooled by early election returns. It can take California weeks to tally votes, leading to “red mirages” and “blue shifts.”
-
-The post [Beware the ‘red mirage’ if California Republicans have an election night lead](https://lbpost.com/news/politics/elections/beware-the-red-mirage-if-california-republicans-have-an-election-night-lead) appeared first on [Long Beach Post News](https://lbpost.com/news).
-
-## [Supreme Court Rejects DOJ Request to Separate California Ballots](https://sanfernandosun.com/2026/11/02/supreme-court-rejects-doj-request-to-separate-california-ballots/)
-
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-03
-
-![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/IMG_20261102_195653-scaled.jpg?fit=768%2C1024&ssl=1)
-
-The U.S.Supreme Court today rejected the Trump administration’s 11th-hour demand for California to set aside thousands of disputed mail ballots ahead of tomorrow’s midterm elections. Earlier Monday, the Justice Department \[…\]
-
-The post [Supreme Court Rejects DOJ Request to Separate California Ballots](https://sanfernandosun.com/2026/11/02/supreme-court-rejects-doj-request-to-separate-california-ballots/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [On Eve of Election, Bass and Raman Make Last Push for Mayor](https://sanfernandosun.com/2026/11/02/on-eve-of-election-bass-and-raman-make-last-push-for-mayor/)
-
-via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-03
-
-![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/20261029_132309-1.jpg?fit=1024%2C683&ssl=1)
-
-On the eve of the midterm elections, Los Angeles Mayor Karen Bass and LA City Councilmember Nithya Raman actively campaigned across town, vying for the substantial number of undecided voters \[…\]
-
-The post [On Eve of Election, Bass and Raman Make Last Push for Mayor](https://sanfernandosun.com/2026/11/02/on-eve-of-election-bass-and-raman-make-last-push-for-mayor/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
 

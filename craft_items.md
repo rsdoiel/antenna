@@ -1,18 +1,56 @@
 ---
 title: "Craft"
 description: "Craft is a list of hand oriented craft and technology\nDo we really need all those power tools?"
-pubDate: Mon, 23 Nov 2026 14:34:03 GMT
+pubDate: Wed, 25 Nov 2026 14:27:03 GMT
 aggregateOf: "craft.md"
-dateModified: Tue, 24 Nov 2026 06:47:30 GMT
-itemCount: 34
+dateModified: Wed, 25 Nov 2026 14:48:56 GMT
+itemCount: 36
 generator: antenna/0.2.0
 ---
 
 # Craft
 
+## [Nano Truer by Nano Hone Review](https://www.popularwoodworking.com/toolreviews/nano-truer-by-nano-hone-review/)
+
+via Popular Woodworking · 2026-11-25
+
+![](https://media.popularwoodworking.com/app/uploads/2026/11/25092557/nanotrue-1024x768.jpg)Tool: Nano Truer Shop Now Manufacturer: Nano Hone MSRP: $48 Ask a dozen woodworkers how to sharpen a tool and you’ll get twenty different answers—and it’s probably 50/50 whether any of...
+
+[Source](https://www.popularwoodworking.com/toolreviews/nano-truer-by-nano-hone-review/)
+
+## [Mind Upon Mind: Wedge Setter](https://blog.lostartpress.com/2026/11/25/mind-upon-mind-wedge-setter/)
+
+via Lost Arg Press blog · 2026-11-25, updated 2026-11-24
+
+Editor’s note: Our Mind Upon Mind series is a nod to a 1937 Chips from the Chisel column in The Woodworker magazine in which Charles Hayward wrote, “The influence of mind upon mind is extraordinary.” The idea being there’s often room for improvement. To that end, we’ve asked you what else you have thought of, tried out...
+
+## [Why Ailanthus?](https://www.popularwoodworking.com/editors-blog/why-ailanthus/)
+
+via Popular Woodworking · 2026-11-24, updated 2026-11-25
+
+![](https://media.popularwoodworking.com/app/uploads/2026/11/17101731/4d47abed-e110-46b9-a4c2-fe27c7a6b247_2856x2142-768x1024.jpg)Challenging our perspective. The forests in the United States have suffered irreparable harm since their colonization a few hundred years ago. We (non-indigenous Americans) have altered entire landscapes and caused...
+
+[Source](https://www.popularwoodworking.com/editors-blog/why-ailanthus/)
+
+## [Set-Up Gauges Save Time](https://www.popularwoodworking.com/tricks/set-up-gauges-save-time/)
+
+via Popular Woodworking · 2026-11-24, updated 2026-11-25
+
+![](https://media.popularwoodworking.com/app/uploads/2026/11/24102325/feb01-set-up-gauges-save-time-photo-copy-1024x768.jpg)Setting the bit on a router table by trial and error requires a lot of time-consuming futzing around. Simplify your life by making gauges for the setups you use most...
+
+[Source](https://www.popularwoodworking.com/tricks/set-up-gauges-save-time/)
+
+## [Turned Christmas Tree](https://www.popularwoodworking.com/projects/turned-christmas-tree/)
+
+via Popular Woodworking · 2026-11-23, updated 2026-11-25
+
+![](https://media.popularwoodworking.com/app/uploads/2020/12/23095158/aw_16317_-013-1024x768.jpg)Create controlled, curled shavings with a modified skew chisel. These trees come all the way from the Erzgebirge (’erts-gә-bir-gә). Actually, I made them in Wisconsin, but the unique curl-turning technique...
+
+[Source](https://www.popularwoodworking.com/projects/turned-christmas-tree/)
+
 ## [ShopNotes Podcast Episode 293 — Personality: ACTIVATED](https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-293-personality-activated/)
 
-via Popular Woodworking · 2026-11-23
+via Popular Woodworking · 2026-11-23, updated 2026-11-25
 
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/23093202/screenshot-2026-11-23-at-8.22.17am-1024x1024.png)What’s the secret to finding great vintage woodworking tools at antique stores? In ShopNotes Podcast Episode 293, Phil Huber, Logan Wittmer, and John Doyle talk about hunting for old hand...
 
@@ -20,13 +58,13 @@ via Popular Woodworking · 2026-11-23
 
 ## [Holiday Shipping Deadlines](https://blog.lostartpress.com/2026/11/20/holiday-shipping-deadlines/)
 
-via Lost Arg Press blog · 2026-11-20
+via Lost Arg Press blog · 2026-11-20, updated 2026-11-24
 
 We have plenty to choose from when it comes to picking out a woodworking tool or book for your loved ones this holiday season. To get it in time for Christmas, the last day to order online is December 15th.  We’re a small business with only two employees working full time in the fulfillment center...
 
 ## [2026 Holiday Gift Guide for Woodworkers](https://www.popularwoodworking.com/article/2026-holiday-gift-guide-for-woodworkers/)
 
-via Popular Woodworking · 2026-11-20, updated 2026-11-23
+via Popular Woodworking · 2026-11-20, updated 2026-11-25
 
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/20130138/red-green-and-cream-vintage-classic-christmas-party-poster-1400-x-1120-px-1-1024x819.jpg)Welcome to the 2026 edition of the Popular Woodworking gift guide! Every year we round up a list of our favorite tools and accessories for woodworkers to help make shopping...
 
@@ -34,7 +72,7 @@ via Popular Woodworking · 2026-11-20, updated 2026-11-23
 
 ## [The Splinter Report: November 20th](https://www.popularwoodworking.com/editors-blog/the-splinter-report-november-20th/)
 
-via Popular Woodworking · 2026-11-20, updated 2026-11-23
+via Popular Woodworking · 2026-11-20, updated 2026-11-25
 
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/20135759/splinter-report-11-20-1024x768.jpg)Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re looking at lots of tool news, a...
 
@@ -42,7 +80,7 @@ via Popular Woodworking · 2026-11-20, updated 2026-11-23
 
 ## [My Robot Apprentice](https://www.popularwoodworking.com/editors-blog/my-robot-apprentice/)
 
-via Popular Woodworking · 2026-11-19, updated 2026-11-23
+via Popular Woodworking · 2026-11-19, updated 2026-11-25
 
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/19135607/maschinenmensch_in_a_screen_shot_from_the_metropolis_film-1024x771.jpg)Hopefully, the robots may hold us in high regard as the forefathers of robotic craftsmanship. I’m pretty good at writing woodworking how-to articles and books; actual teaching, not so much. I...
 
@@ -50,7 +88,7 @@ via Popular Woodworking · 2026-11-19, updated 2026-11-23
 
 ## [Teaching Live Edge (Part 4): Faceted Walnut and Finding the Right Stance](https://www.popularwoodworking.com/editors-blog/teaching-live-edge-part-4-faceted-walnut-and-finding-the-right-stance/)
 
-via Popular Woodworking · 2026-11-19, updated 2026-11-23
+via Popular Woodworking · 2026-11-19, updated 2026-11-25
 
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/17091115/gemini_generated_patricks-table-768x1024.jpeg)Not every student who walks into a live-edge workshop is starting from scratch. Patrick arrived at Snow Farm already an experienced hobbyist woodworker, eager to push beyond basic joinery and...
 
@@ -58,7 +96,7 @@ via Popular Woodworking · 2026-11-19, updated 2026-11-23
 
 ## [Lantern of Candlelight](https://www.popularwoodworking.com/projects/lantern-of-candlelight/)
 
-via Popular Woodworking · 2026-11-18, updated 2026-11-23
+via Popular Woodworking · 2026-11-18, updated 2026-11-25
 
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/17120730/aw173_lantern_1_opener-copy-1024x768.jpg)Six pieces of wood, a free weekend and a bit of ingenuity, lights your way in the night. During the civil War, soldiers didn’t have flashlights to light their paths...
 
@@ -66,7 +104,7 @@ via Popular Woodworking · 2026-11-18, updated 2026-11-23
 
 ## [The Wild Origin Story of ‘The Joiner & Cabinet Maker’](https://blog.lostartpress.com/2026/11/18/the-wild-origin-story-of-the-joiner-cabinet-maker/)
 
-via Lost Arg Press blog · 2026-11-18, updated 2026-11-20
+via Lost Arg Press blog · 2026-11-18, updated 2026-11-24
 
 The story behind “The Joiner & Cabinet Maker” is what keeps me digging through archives, bookstores and libraries for old books and manuscripts about woodworking. Despite all of our technology and vast resources, there are still important books out there that have been completely forgotten. And “The Joiner & Cabinet Maker” was one of them....
 
@@ -160,7 +198,7 @@ via Popular Woodworking · 2026-11-09, updated 2026-11-16
 
 ## [Holiday (& Other) Store Hours](https://blog.lostartpress.com/2026/11/09/holiday-other-store-hours/)
 
-via Lost Arg Press blog · 2026-11-09, updated 2026-11-20
+via Lost Arg Press blog · 2026-11-09, updated 2026-11-24
 
 The Lost Art Press bricks-and-mortar store will be closed this Friday (Nov. 13), because we have collective paraskevidekatriaphobia. Or because we are short-staffed due to vacations, out-of-town classed, teaching obligations and the like. One of those two. Apologies for the short notice. (But we are open 10 a.m.-2 p.m. today, Tuesday and Wednesday). And upcoming...
 
@@ -174,19 +212,19 @@ via Popular Woodworking · 2026-11-09, updated 2026-11-16
 
 ## [My Favorite (but Least Successful) Book: ‘Ingenious Mechanicks’](https://blog.lostartpress.com/2026/11/08/my-favorite-but-least-successful-book-ingenious-mechanicks/)
 
-via Lost Arg Press blog · 2026-11-09, updated 2026-11-20
+via Lost Arg Press blog · 2026-11-09, updated 2026-11-24
 
 If I could write 10 more books like “Ingenious Mechanicks,” I would be a happy guy. The book is exactly what I thought I would be doing as a writer and woodworker: That is the script for “Ingenious Mechanicks.” But there’s more. We flushed thousands of dollars away trying to translate a 1505 Germanic codex...
 
 ## [12 Years of Living With ‘Campaign Furniture’](https://blog.lostartpress.com/2026/11/08/12-years-of-living-with-campaign-furniture/)
 
-via Lost Arg Press blog · 2026-11-09, updated 2026-11-20
+via Lost Arg Press blog · 2026-11-09, updated 2026-11-24
 
 I grew up with campaign furniture. My grandparents collected it. And my dad was fond of building it. We had stacking campaign chests (and, weirdly, side tables) in our house in Arkansas. I didn’t think anything was odd about it. It was simple and rugged stuff. Nothing fancy. But when I started working at Popular...
 
 ## [Get ‘The Essential Woodworker’ at the 2010 Price](https://blog.lostartpress.com/2026/11/06/get-the-essential-woodworker-at-the-2010-price/)
 
-via Lost Arg Press blog · 2026-11-06, updated 2026-11-20
+via Lost Arg Press blog · 2026-11-06, updated 2026-11-24
 
 Special offer: We are reducing the price of “The Essential Woodworker” by Robert Wearing to $23 – that’s the price we charged in 2010 when we released our version of this important hand-tool book. This special offer lasts until Christmas Day. After that, the book will return to its normal price of $33 (still a...
 
@@ -224,7 +262,7 @@ via Popular Woodworking · 2026-11-05, updated 2026-11-11
 
 ## [Ulster Folk Museum (Yes, There are Chairs)](https://blog.lostartpress.com/2026/11/04/ulster-folk-museum-yes-there-are-chairs/)
 
-via Lost Arg Press blog · 2026-11-04, updated 2026-11-20
+via Lost Arg Press blog · 2026-11-04, updated 2026-11-24
 
 With a trip to London planned, I decided to fly to the U.K. a few days early last month to visit Belfast in Northern Ireland to meet Heritage Carpenter Peter Sloan and Curator of History Fiona Byrne at the Ulster Folk Museum. They are working together to document and photograph all the many chairs and...
 
@@ -243,30 +281,4 @@ via Popular Woodworking · 2026-11-04, updated 2026-11-10
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/04103643/apr01-varnishing-hang-up-copy-1010x1024.jpg)I always felt the need for a second pair of hands when it came to varnishing shelves or doors. A good solution is to hang them up. A series of...
 
 [Source](https://www.popularwoodworking.com/tricks/varnishing-hang-up/)
-
-## [Panel-cutting Sled](https://www.popularwoodworking.com/projects/panel-cutting-sled/)
-
-via Popular Woodworking · 2026-11-03, updated 2026-11-09
-
-![](https://media.popularwoodworking.com/app/uploads/2020/01/02170156/0710-3-jj-opener-1024x768.jpg)This jig carries its share of work while increasing the usefulness of your table saw. I’ve never been a fan of any jig that requires a degree from the Massachusetts...
-
-[Source](https://www.popularwoodworking.com/projects/panel-cutting-sled/)
-
-## [Bass guitar book-matched maple top: re-sawn by hand](https://guitar-maker.blogspot.com/2026/11/bass-guitar-book-matched-maple-top-re.html)
-
-via A Luthier's blog · 2026-11-03
-
-Another bit of preparation for the 32” scale bass that I
-hope to build for myself “at some point”. I’ve had a beautiful, figured maple
-top in stock for many years, but at 28mm I considered it too thick and
-therefore too heavy to use. I finally plucked up the courage to re-saw it by
-hand……….
-
-## [Barron Saw Guide Review](https://www.popularwoodworking.com/toolreviews/barron-saw-guide-review/)
-
-via Popular Woodworking · 2026-11-03, updated 2026-11-09
-
-![](https://media.popularwoodworking.com/app/uploads/2026/10/14105840/barronguide-copy-1024x767.jpg)Tool: Magnetic Dovetail Saw Guide Shop Now Manufacturer: Veritas MSRP: $59.50 For years, one of my favorite tools was also one of the hardest to get. It was the magnetic dovetail...
-
-[Source](https://www.popularwoodworking.com/toolreviews/barron-saw-guide-review/)
 
