@@ -5,7 +5,7 @@
     <title><![CDATA[Retro]]></title>
     <description><![CDATA[Computer history and vintage systems.]]></description>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>25 Nov 26 10:22 -0800</lastBuildDate>
+    <lastBuildDate>26 Nov 26 06:46 -0800</lastBuildDate>
     <generator>antenna/0.2.1</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -945,15 +945,6 @@ In the end, with the new TV all set up, the 1980s can live again in my rear offi
       <source:markdown>WROCC&#39;s November speaker was Chris Hughes looking at package managers for RISC OS.</source:markdown>
       <guid isPermaLink="false">cid://http://www.iconbar.com/comments/rss/news2420.html</guid>
       <pubDate>Thu, 05 Nov 2026 07:40:00 +0000</pubDate>
-    </item>    <item>
-      <title>b.log 2026/11/04 - Close, but no cigar, BabyBASIC.</title>
-      <link>https://heyrick.eu/blog/entry/20261104</link>
-      <description>
-        <![CDATA[Close, but no cigar, BabyBASIC.]]>
-      </description>
-      <source:markdown>Close, but no cigar, BabyBASIC.</source:markdown>
-      <guid isPermaLink="false">cid://https://heyrick.eu/blog/entry/20261104</guid>
-      <pubDate>Wed, 04 Nov 2026 19:03:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

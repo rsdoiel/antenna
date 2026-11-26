@@ -1,14 +1,34 @@
 ---
 title: "Small Papers"
 description: "Small regional papers, blogs and news."
-pubDate: Wed, 25 Nov 2026 16:57:05 GMT
+pubDate: Wed, 25 Nov 2026 22:39:51 GMT
 aggregateOf: "small_papers.md"
-dateModified: Wed, 25 Nov 2026 18:24:03 GMT
-itemCount: 110
+dateModified: Thu, 26 Nov 2026 14:48:13 GMT
+itemCount: 108
 generator: antenna/0.2.1
 ---
 
 # Small Papers
+
+## [El Niño-fueled king tides batter California’s coast — what is the state doing about it?](https://lbpost.com/news/el-nino-fueled-king-tides-batter-californias-coast-what-is-the-state-doing-about-it)
+
+via Long Beach Post · 2026-11-25
+
+![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/25143319/112426-alameda-flooding-ap-cm-01-161304-7rjai2l9-481479-dWywPOJ2-1024x682.webp)
+
+It’s a test of the state’s preparations for El Niño. Will it be enough?
+
+The post [El Niño-fueled king tides batter California’s coast — what is the state doing about it?](https://lbpost.com/news/el-nino-fueled-king-tides-batter-californias-coast-what-is-the-state-doing-about-it) appeared first on [Long Beach Post News](https://lbpost.com/news).
+
+## [Photos: Dramatic king tides in Long Beach — and how neighbors handled them](https://lbpost.com/news/el-nino/photos-king-tides-in-long-beach)
+
+via Long Beach Post · 2026-11-25
+
+![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/25114515/king-tide-001-176770-rcbvz966-376143-irIiVAh6-1024x612.jpg)
+
+Record-breaking tides returned on Wednesday. Here's what they looked like in Long Beach.
+
+The post [Photos: Dramatic king tides in Long Beach — and how neighbors handled them](https://lbpost.com/news/el-nino/photos-king-tides-in-long-beach) appeared first on [Long Beach Post News](https://lbpost.com/news).
 
 ## [Mujer de Chatsworth Abandonada como Bebé en Skid Row Agradece por Sus “Ángeles Guardianes” de la Vida Real](https://sanfernandosun.com/2026/11/25/mujer-de-chatsworth-abandonada-como-bebe-en-skid-row-agradece-por-sus-angeles-guardianes-de-la-vida-real/)
 
@@ -1043,44 +1063,4 @@ via the San Fernando Valley Sun/el Sol de Valle San Fernando · 2026-11-05
 By Alanna Durkin Richer and Eric Tucker Associated Press WASHINGTON (AP) — The Justice Department has escalated its investigation over an Alaska Senate candidate who shares a name with the Republican \[…\]
 
 The post [Justice Department Has Sent Target Letters in Alaska Senate Criminal Probe. Here’s What That Means](https://sanfernandosun.com/2026/11/04/justice-department-has-sent-target-letters-in-alaska-senate-criminal-probe-heres-what-that-means/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [The Trump family, ICE impunity, corporate corruption: Garcia lays out Democrats’ targets for investigations](https://lbpost.com/news/politics/elections/garcia-agenda-investigation-democrats-trump-oversight-corrution)
-
-via Long Beach Post · 2026-11-04, updated 2026-11-08
-
-![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/04135119/04nov26-garcia-299-671099-qvjnptgj-169527-zrPImbCU-1024x747.jpg)
-
-“They are stealing your money, and they're stealing your hard-earned labor, giving it to themselves and their billionaire donors and friends, while you and your family are having a hard time filling a gas tank or paying the mortgage bill," he said.
-
-The post [The Trump family, ICE impunity, corporate corruption: Garcia lays out Democrats’ targets for investigations](https://lbpost.com/news/politics/elections/garcia-agenda-investigation-democrats-trump-oversight-corrution) appeared first on [Long Beach Post News](https://lbpost.com/news).
-
-## [The Vincent Thomas Bridge closes for 16 months on Saturday. They’re calling it ‘Harborgeddon’](https://lbpost.com/news/business/trade-transportation/vincent-thomas-bridge-closes-harborgeddon-schedule)
-
-via Long Beach Post · 2026-11-04, updated 2026-11-08
-
-![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/03132253/03nov26-bridge-111-318437-afvir1kg-158192-M2Ytnmw7-1024x695.jpg)
-
-Locals say they’re planning for longer commutes and clogged truck traffic. They hope small businesses won’t lose their customers.
-
-The post [The Vincent Thomas Bridge closes for 16 months on Saturday. They’re calling it ‘Harborgeddon’](https://lbpost.com/news/business/trade-transportation/vincent-thomas-bridge-closes-harborgeddon-schedule) appeared first on [Long Beach Post News](https://lbpost.com/news).
-
-## [Democrats usher in a new era with their resounding sweep of the House and the Senate](https://lbpost.com/news/politics/elections/democrats-usher-in-a-new-era-with-their-resounding-sweep-of-the-house-and-the-senate)
-
-via Long Beach Post · 2026-11-04, updated 2026-11-06
-
-![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/04060947/ap26308183636779-483502-msydur8b-687726-0IO3YOAv-1024x682.jpg)
-
-Congress is poised to reassert itself as a coequal branch ready to challenge Trump and reverse course after the past two years of unified Republican control.
-
-The post [Democrats usher in a new era with their resounding sweep of the House and the Senate](https://lbpost.com/news/politics/elections/democrats-usher-in-a-new-era-with-their-resounding-sweep-of-the-house-and-the-senate) appeared first on [Long Beach Post News](https://lbpost.com/news).
-
-## [Democrat Xavier Becerra wins California governor’s race, defeating Republican Steve Hilton](https://lbpost.com/news/xavier-becerra-wins-california-governor)
-
-via Long Beach Post · 2026-11-04, updated 2026-11-06
-
-![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/03202830/ap26306596057577-1-585593-efrjn9b6-322462-uS1qWPpl-1024x683.jpg)
-
-Becerra will be California’s first Latino governor since the late 19th century.
-
-The post [Democrat Xavier Becerra wins California governor’s race, defeating Republican Steve Hilton](https://lbpost.com/news/xavier-becerra-wins-california-governor) appeared first on [Long Beach Post News](https://lbpost.com/news).
 

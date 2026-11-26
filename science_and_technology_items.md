@@ -1,20 +1,128 @@
 ---
 title: "STEM"
 description: "Science and technology news and blogs."
-pubDate: Wed, 25 Nov 2026 18:02:00 GMT
+pubDate: Thu, 26 Nov 2026 14:02:00 GMT
 aggregateOf: "science_and_technology.md"
-dateModified: Wed, 25 Nov 2026 18:51:19 GMT
+dateModified: Thu, 26 Nov 2026 14:45:26 GMT
 itemCount: 404
 generator: antenna/0.2.1
 ---
 
 # STEM
 
+## [Wyoming uranium operation shuts down after cyberattack](https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323)
+
+via The Register (UK I.T. News) · 2026-11-26
+
+Peninsula Energy says plant and wellfield control systems were affected, with no restart date yet
+
+## [Come for the Games, Stay for the Community With GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/)
+
+via NVidia blog · 2026-11-26, updated 2026-11-24
+
+Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. From friendships formed in online lobbies to new worlds explored on everyday devices, GeForce NOW Ambassadors share their reasons to love cloud gaming. Those ready to find their own \[…\]
+
+## [Company was religious about backups but sinned by leaving them exposed](https://www.theregister.com/security/2026/11/26/company-was-religious-about-backups-but-sinned-by-leaving-them-exposed/5312234)
+
+via The Register (UK I.T. News) · 2026-11-26
+
+Never put the backup server in the same Windows domain as production
+
+## [Stale links on UK public sector websites direct visitors to gambling dens](https://www.theregister.com/public-sector/2026/11/26/stale-links-on-uk-public-sector-websites-direct-visitors-to-gambling-dens/5312049)
+
+via The Register (UK I.T. News) · 2026-11-26
+
+Consultancy finds 93 routes to casino promotions across 26 orgs, with defunct enterprise partnership domains repurposed
+
+## [Microsoft hotpatches hotpatch that could crash Windows Server 2025](https://www.theregister.com/os-platforms/2026/11/26/microsoft-hotpatches-hotpatch-that-could-crash-windows-server-2025/5312301)
+
+via The Register (UK I.T. News) · 2026-11-26
+
+Expiring IPv6 routes can bring affected systems down, though corrective update doesn't require a restart
+
+## [UK government working 'around the clock' on Capita contingency plans](https://www.theregister.com/public-sector/2026/11/26/uk-government-working-around-the-clock-on-capita-contingency-plans/5312298)
+
+via The Register (UK I.T. News) · 2026-11-26
+
+Minister says outsourcer should be 'absolutely ashamed' of pensions failures after CEO exits and shares plunge
+
+## [Hackers help themselves to 1Password's source code and customer data](https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317)
+
+via The Register (UK I.T. News) · 2026-11-26
+
+An intruder planted malicious code in backend services, but the biz insists passwords are safe
+
+## [45°C inlets just killed the chiller. Most people haven't noticed yet](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831)
+
+via The Register (UK I.T. News) · 2026-11-26
+
+In my mind and in my car, we can't rewind, we've gone too far
+
+## [UK Home Office waved through border system without a working fix for bad data](https://www.theregister.com/security/2026/11/26/uk-home-office-waved-through-border-system-without-a-working-fix-for-bad-data/5312162)
+
+via The Register (UK I.T. News) · 2026-11-26
+
+ICO reprimand follows failings that risked wrongful detention, with a temporary correction process taking more than a year to arrive
+
+## [APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis](https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/)
+
+via NASA breaking news · 2026-11-26
+
+APOD Science APOD APOD: 2026 November 26 – Eye… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Eye in \[…\]
+
+## [Seeking Refuge on Resolution Island](https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/)
+
+via NASA breaking news · 2026-11-26
+
+New Zealanders have long envisioned the island as a predator-free zone for native birds, but swimming stoats have shown a resolve of their own.
+
+## [India’s government ponders cradle to grave AI oversight](https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275)
+
+via The Register (UK I.T. News) · 2026-11-26
+
+Machines of loving grace to turn social media grumps into services, finger painting into career advice
+
+## [The sky was once full of stars, kids; then the FCC let Elon Musk launch a million datacenter satellites](https://www.theregister.com/off-prem/2026/11/25/the-sky-was-once-full-of-stars-kids-then-the-fcc-let-elon-musk-launch-a-million-datacenter-satellites/5312268)
+
+via The Register (UK I.T. News) · 2026-11-25
+
+Approval for ‘Starmind’ granted but it’s a long way from the launchpad, or making sense
+
+## [While Exploring a 500-Year-Old Shipwreck Off the Coast of Sweden, Underwater Archaeologists Discovered Medieval Chain Mail That May Have Belonged to German Mercenaries](https://www.smithsonianmag.com/smart-news/while-exploring-a-500-year-old-shipwreck-off-the-coast-of-sweden-underwater-archaeologists-discovered-medieval-chain-mail-that-may-have-belonged-to-german-mercenaries-180989944/)
+
+via Smithsonian Magazine · 2026-11-25
+
+"Gribshunden" was the "floating castle" of King Hans of Denmark and Norway. It exploded and sank in 1495, but the Baltic Sea's low salinity has kept contents remarkably well preserved
+
+## [The security of US water systems is even leakier than we thought](https://www.theregister.com/security/2026/11/25/the-security-of-us-water-systems-is-even-leakier-than-we-thought/5312243)
+
+via The Register (UK I.T. News) · 2026-11-25
+
+And intruders don't always need to exploit bugs to break in
+
+## [NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement](https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/)
+
+via NASA breaking news · 2026-11-25, updated 2026-11-26
+
+How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreement, this one signed between The Boeing Company and GRACE \[…\]
+
+## [America's Thanksgiving Parade in Detroit Is Celebrating 100 Years of Elaborate Floats, Papier-Mâché 'Big Heads' and a Distinguished Clown Corps](https://www.smithsonianmag.com/smart-news/america-thanksgiving-parade-in-detroit-is-celebrating-100-years-of-elaborate-floats-papier-Mache-big-heads-and-a-distinguished-clown-corps-180989943/)
+
+via Smithsonian Magazine · 2026-11-25
+
+A new exhibition at the Detroit Historical Society looks back at 100 years of the city's Thanksgiving Day parade, which is tied with New York City for the country's second-oldest
+
 ## [Huawei and crew tout homegrown EDA tools to overcome China’s fab deficit](https://www.theregister.com/systems/2026/11/25/huawei-and-crew-tout-homegrown-eda-tools-to-overcome-chinas-fab-deficit/5312205)
 
 via The Register (UK I.T. News) · 2026-11-25
 
 Chip design software leans heavily into 3D packaging and multi-node assemblies
+
+## [NASA Eyes Crop Candidates for Future Menus](https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/)
+
+via NASA breaking news · 2026-11-25, updated 2026-11-26
+
+As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving.    Recent testing points to strawberries, \[…\]
 
 ## [Hera probe finds DART left a stadium-sized dent in asteroid Dimorphos](https://www.theregister.com/science/2026/11/25/hera-probe-finds-dart-left-a-stadium-sized-dent-in-asteroid-dimorphos/5312153)
 
@@ -36,7 +144,7 @@ PC shipments set to fall further thanks to the memory shortage, but high-margin 
 
 ## [Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard](https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/)
 
-via NASA breaking news · 2026-11-25
+via NASA breaking news · 2026-11-25, updated 2026-11-26
 
 Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant dialogue we had after the space shuttle Challenger disaster,” \[…\]
 
@@ -54,7 +162,7 @@ The system, called Welopō'ai, includes a red dwarf and two white dwarfs. One of
 
 ## [Eye of the Sahara](https://www.nasa.gov/image-article/eye-of-the-sahara/)
 
-via NASA breaking news · 2026-11-25
+via NASA breaking news · 2026-11-25, updated 2026-11-26
 
 The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks \[…\]
 
@@ -72,7 +180,7 @@ SR-1 Freedom gets a shorter boom and larger antennas, with roughly two years to 
 
 ## [NASA’s Hubble Views Ocean of Stars in Groundwork for Roman](https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/)
 
-via NASA breaking news · 2026-11-25
+via NASA breaking news · 2026-11-25, updated 2026-11-26
 
 These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.
 
@@ -152,7 +260,7 @@ Controversial move could save the BBC by bringing in more than a billion in extr
 
 ## [Want a better winter workout? Train your muscle clocks](https://www.npr.org/2026/11/25/nx-s1-6034942/winter-exercise-circadian-rhythm-arc)
 
-via NPR Short Wave · 2026-11-25
+via NPR Short Wave · 2026-11-25, updated 2026-11-26
 
 TikTok has another trend: the winter arc. It’s a self-improvement challenge where people try to be their best self in the 3 months leading up to New Year – often, through exercise. We at _Short Wave_ wanted to know if the science really holds up: Is ramping up your exercise routine when your circadian rhythm may be struggling with less light really a good idea? So we called up NPR health correspondent, [Will Stone](https://www.npr.org/people/919093243/will-stone). He’s done a deep dive on what scientists do and don’t know about exercise and our circadian rhythms.
 
@@ -182,13 +290,13 @@ Four more critical vulns, including another unauthorized access flaw in vCenter
 
 ## [APOD: 2026 November 25 – SPHEREx Seeing Through Dust](https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/)
 
-via NASA breaking news · 2026-11-25
+via NASA breaking news · 2026-11-25, updated 2026-11-26
 
 APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this \[…\]
 
 ## [Georgia’s Pecan Belt](https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/)
 
-via NASA breaking news · 2026-11-25
+via NASA breaking news · 2026-11-25, updated 2026-11-26
 
 Since an early-1900s planting boom, orchards along the Flint River in southwest Georgia have become a center of U.S. pecan production.
 
@@ -212,7 +320,7 @@ Pop!\_OS 26.04 LTS is here after nearly a year of thoughtful feature development
 
 ## [NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema](https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/)
 
-via NASA breaking news · 2026-11-24, updated 2026-11-25
+via NASA breaking news · 2026-11-24, updated 2026-11-26
 
 NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing space even closer to home. “The National Aeronautics and Space Act of 1958 calls us to share our story of space exploration with the broadest possible \[…\]
 
@@ -408,7 +516,7 @@ Have I Been Pwned puts a number on September's attack on Bromcom
 
 ## [Wild turkeys are in peril again — can researchers save them?](https://www.npr.org/2026/11/24/nx-s1-6042518/thanksgiving-american-wild-turkey-science)
 
-via NPR Short Wave · 2026-11-24, updated 2026-11-25
+via NPR Short Wave · 2026-11-24, updated 2026-11-26
 
 As a teen, [Mike Chamberlain](https://wildturkeylab.com/about/) spent all his free time hunting turkeys. Now, his job is researching everything about them – the birds’ behavior, their genetics and more. And for the past decade, he’s focused on their concerning decline in the American southeast. Today on the show, Emily chats with Mike about what could be driving the loss of turkey territory – and what conservationists – including hunters – are doing about it.
 
@@ -532,7 +640,7 @@ The post [Why We Need a Revolutionary Phone Now: The Librem 5 v2](https://puri.s
 
 ## [Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season](https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/)
 
-via NVidia blog · 2026-11-23
+via NVidia blog · 2026-11-23, updated 2026-11-24
 
 The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the next level. For some, that means diving into a new game. \[…\]
 
@@ -660,7 +768,7 @@ Outage after outage after outage is a syndrome that needs radical treatment
 
 ## [Your favorite apple is a cloned ovary – and other apple facts](https://www.npr.org/2026/11/23/nx-s1-6050315/apple-orchard-harvest-ovary-clone)
 
-via NPR Short Wave · 2026-11-23, updated 2026-11-25
+via NPR Short Wave · 2026-11-23, updated 2026-11-26
 
 What’s your favorite apple? Whether it’s classic Gala, tart Granny Smith, the crowd-pleasing Honeycrisp or the infamous Red Delicious – before your favorite apple made it to your local orchard or your neighborhood grocery store, it had to be invented – by a _scientist_. So in this _Short Wave_ episode, we’re going straight to the source. Host Emily Kwong and producer Hannah Chinn dive into how apples are selected, bred and grown, and discuss the discoveries that could change that process. Plus: What’s a spitter?
 
@@ -708,7 +816,7 @@ PLUS: Lenovo's infra group finally makes big profit; Indonesia’s glaciers are 
 
 ## [An ordinary evening on the Brooklyn Bridge](https://publicai.substack.com/p/an-ordinary-evening-on-the-brooklyn)
 
-via Public AI blog · 2026-11-22, updated 2026-11-25
+via Public AI blog · 2026-11-22, updated 2026-11-26
 
 On Levent Alpöge and Claude's announced proof of the Riemann Hypothesis.
 
@@ -972,7 +1080,7 @@ Canonical's stretch goal is to make the immutable OS standard in 30.04 – witho
 
 ## [This gas station drug acts like opioids. It’s getting harder to buy](https://www.npr.org/2026/11/20/nx-s1-6045648/kratom-opioid-addiction-7-oh)
 
-via NPR Short Wave · 2026-11-20, updated 2026-11-25
+via NPR Short Wave · 2026-11-20, updated 2026-11-26
 
 Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at [plus.npr.org](http://plus.npr.org/).
 
@@ -1050,7 +1158,7 @@ The agency had previously determined that the animals were too old or ill for th
 
 ## [NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs](https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/)
 
-via NVidia blog · 2026-11-19, updated 2026-11-23
+via NVidia blog · 2026-11-19, updated 2026-11-24
 
 NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NVL72 systems, as well as adding customer availability to \[…\]
 
@@ -1068,7 +1176,7 @@ Centuries ago, the Parthenon's east pediment was reduced to rubble. German resea
 
 ## [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/)
 
-via NVidia blog · 2026-11-19, updated 2026-11-23
+via NVidia blog · 2026-11-19, updated 2026-11-24
 
 Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through \[…\]
 
@@ -1124,7 +1232,7 @@ NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached o
 
 ## [Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/)
 
-via NVidia blog · 2026-11-19, updated 2026-11-23
+via NVidia blog · 2026-11-19, updated 2026-11-24
 
 GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big gaming plans, smaller price tag.  Keep the holiday savings going: Check out more NVIDIA holiday deals for gamers, \[…\]
 
@@ -1262,7 +1370,7 @@ New research suggests that coyote DNA makes up about 0.1 percent of the Chihuahu
 
 ## [NVIDIA RTX Spark Compact Desktops Out Now](https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/)
 
-via NVidia blog · 2026-11-18, updated 2026-11-23
+via NVidia blog · 2026-11-18, updated 2026-11-24
 
 New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development \[…\]
 
@@ -1274,7 +1382,7 @@ A new analysis of the Rødhals Man suggests he witnessed the Neolithic Revolutio
 
 ## [How a viral video gave a huge boost to new gene therapy](https://www.npr.org/2026/11/18/nx-s1-6034426/sanfilippo-syndrome-gene-therapy)
 
-via NPR Short Wave · 2026-11-18, updated 2026-11-25
+via NPR Short Wave · 2026-11-18, updated 2026-11-26
 
 Sanfilippo syndrome is a rare and degenerative disease that can be fatal by the time someone reaches their teens. So the O’Neill family knew they didn’t have much time after learning their 4-year old daughter, Eliza, had it. At the time no treatment existed, and the world of drug development had its eyes on more common illnesses. So the family took an all hands on deck, unusual approach to directly raise money and boost medical research. NPR pharmaceutical correspondent Sydney Lupkin shares what happened next, and what she learned from the O’Neills story about the [promises](https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi) and [challenges](https://www.npr.org/2026/02/24/nx-s1-5723768/gene-therapy-access) of drug development.
 
@@ -1400,7 +1508,7 @@ So far this year, the Centers for Disease Control and Prevention has confirmed m
 
 ## [Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents](https://blogs.nvidia.com/blog/ian-buck-sc26/)
 
-via NVidia blog · 2026-11-17, updated 2026-11-23
+via NVidia blog · 2026-11-17, updated 2026-11-24
 
 NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance \[…\]
 
@@ -1412,7 +1520,7 @@ A new study suggests people hunted and processed game near a large, lush freshwa
 
 ## [How bird poop and manta rays sustain a pristine coral reef](https://www.npr.org/2026/11/17/nx-s1-5988269/coral-reefs-pacific-island-conservation)
 
-via NPR Short Wave · 2026-11-17, updated 2026-11-25
+via NPR Short Wave · 2026-11-17, updated 2026-11-26
 
 Coral reefs [are at risk around the world](https://apps.npr.org/troubled-waters/). So how do they stay so healthy on the remote Pacific islands of Palmyra Atoll? The answer might be in bird poop, manta rays and tree saws. NPR’s Lauren Sommer recently visited the islands and takes Short Wave on a tour of its conservation secrets and lessons for the rest of the world.
 
@@ -1452,7 +1560,7 @@ Written by Candice Bedford, Research Scientist at Purdue University Date: Nov. 1
 
 ## [NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab](https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-23
+via NVidia blog · 2026-11-16, updated 2026-11-24
 
 At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming \[…\]
 
@@ -1496,7 +1604,7 @@ Two nests were spotted in September, and authorities moved the eggs to an aquari
 
 ## [How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future](https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-23
+via NVidia blog · 2026-11-16, updated 2026-11-24
 
 Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the \[…\]
 
@@ -1526,37 +1634,37 @@ Computer simulations suggest that movements in Earth's viscous mantle layer lift
 
 ## [Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics](https://blogs.nvidia.com/blog/lambda-photonics/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-23
+via NVidia blog · 2026-11-16, updated 2026-11-24
 
 To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs, delivering \[…\]
 
 ## [NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing](https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-23
+via NVidia blog · 2026-11-16, updated 2026-11-24
 
 Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum processors.  Many of these centers use Slurm to run scientific supercomputing workloads, so expanding its support for quantum processors builds on familiar workflows \[…\]
 
 ## [NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance](https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-23
+via NVidia blog · 2026-11-16, updated 2026-11-24
 
 In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference.  NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic \[…\]
 
 ## [NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery](https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-23
+via NVidia blog · 2026-11-16, updated 2026-11-24
 
 With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are helping scientists analyze larger datasets and model more complex systems. The new libraries give AI agents the tools to help researchers make discoveries \[…\]
 
 ## [CUDA at 20: How the Platform Transformed Scientific Computing](https://blogs.nvidia.com/blog/20-years-cuda/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-23
+via NVidia blog · 2026-11-16, updated 2026-11-24
 
 This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI.  CUDA’s 20th anniversary presents an occasion to reflect across computing eras, from the people who wrote the very first CUDA programs to the AI developers \[…\]
 
 ## [NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics](https://blogs.nvidia.com/blog/rubin-hpc/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-23
+via NVidia blog · 2026-11-16, updated 2026-11-24
 
 Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows.  As agents help scientists and engineers explore more candidate materials, molecules and designs, they rely on simulations to test those ideas and guide their next \[…\]
 
@@ -1588,7 +1696,7 @@ A new residential complex with a load-bearing exoskeleton made from 1,000 tons o
 
 ## [Are your body clocks off? Meet ‘circadian depression’](https://www.npr.org/2026/11/16/nx-s1-6035777/depression-daylight-sleep-circadian-rhythm)
 
-via NPR Short Wave · 2026-11-16, updated 2026-11-25
+via NPR Short Wave · 2026-11-16, updated 2026-11-26
 
 What if depression is sometimes linked to your body’s internal sense of time? That’s what researchers from the University of Sydney’s Brain and Mind Centre wanted to know. In a new study, they surveyed patients with depression whose symptoms may reflect problems with their circadian rhythms – like their sleep schedule, how tired they feel in the morning and whether they’re a night owl. They found that about 1 in 4 qualified for what might be termed a circadian subtype of depression. And while there’s still a lot of research to be done, this could open up new pathways for mental health treatment. NPR health correspondent [Will Stone](https://www.npr.org/people/919093243/will-stone) walks us through the study and its implications.
 
@@ -1618,7 +1726,7 @@ Ice near the summit of the Indonesian mountain peak has shrunk to scattered patc
 
 ## [AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities](https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/)
 
-via NVidia blog · 2026-11-16, updated 2026-11-23
+via NVidia blog · 2026-11-16, updated 2026-11-24
 
 Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai \[…\]
 
@@ -1710,13 +1818,13 @@ According to Peruvian officials, the three European travelers—including one wh
 
 ## [AI Is Helping Care Teams Get Patients the Right Care, Sooner](https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/)
 
-via NVidia blog · 2026-11-13, updated 2026-11-23
+via NVidia blog · 2026-11-13, updated 2026-11-24
 
 From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI \[…\]
 
 ## [AI could help hospitals diagnose PTSD in real time](https://www.npr.org/2026/11/13/nx-s1-6031981/ai-ptsd-trauma-prediction-er)
 
-via NPR Short Wave · 2026-11-13, updated 2026-11-25
+via NPR Short Wave · 2026-11-13, updated 2026-11-26
 
 Every year, millions of people in the United States develop PTSD from a traumatic event—like a car crash, an assault or freak accident. A lot of those people end up in the ER answering the same question: “What brought you to the emergency department today?” Now, a research team in New York has an AI model that can use patients’ answers and demographics to spit out one number that tells medical staff how likely a patient is to develop PTSD a month later _._
 
@@ -1840,7 +1948,7 @@ The post [The Evolving Story of How Chemistry Became Biology](https://www.quanta
 
 ## [A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/)
 
-via NVidia blog · 2026-11-12, updated 2026-11-23
+via NVidia blog · 2026-11-12, updated 2026-11-24
 
 Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon’s Dogma 2: Dark Arisen brings new tales \[…\]
 
@@ -1914,7 +2022,7 @@ Recently obtained by the Library of Congress, the 1760 letter offers positive ne
 
 ## [Can scientists reverse your age?](https://www.npr.org/2026/11/11/nx-s1-5971828/age-reverse-longevity-disease-eye)
 
-via NPR Short Wave · 2026-11-11, updated 2026-11-25
+via NPR Short Wave · 2026-11-11, updated 2026-11-26
 
 Reversing aging may sound like science fiction, but scientists have already found a way to do it—at least, theoretically. Based on a 2012 Nobel-prize winning discovery, researchers are testing whether they can revert diseased cells in the eye back to young and healthy ones. They gave people a drug this year. If it works, it’ll open the door to curing and possibly preventing other age-related diseases. And that led producer [Berly McCoy](https://www.npr.org/people/985775371/berly-mccoy) to wonder: Could all this research eventually extend our human lifespans?
 
@@ -2030,7 +2138,7 @@ Testing of ancient sediment from two lakes in Mexico's Yucatán Peninsula has re
 
 ## [How this year's record El Niño could hit your wallet](https://www.npr.org/2026/11/10/nx-s1-6011189/super-el-nino-2026-fish-market)
 
-via NPR Short Wave · 2026-11-10, updated 2026-11-25
+via NPR Short Wave · 2026-11-10, updated 2026-11-26
 
 Peru’s anchovy industry, the largest single-species fishery in the world, is being rocked by the ongoing El Niño . It’s not the first time the fishery has been impacted by the natural weather phenomenon — El Niño gets its name from Peruvian fishermen. And it’s a stark reminder of the reverberating economic consequences of El Niño events, which can cost the global economy [trillions of dollars](https://www.science.org/doi/10.1126/science.adf2983).
 
@@ -2172,7 +2280,7 @@ Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Start
 
 ## [An ‘Ozempic baby boom’? The GLP-1 pregnancy plot twist](https://www.npr.org/2026/11/09/nx-s1-6023369/glp1-ozempic-babies-pregnancy)
 
-via NPR Short Wave · 2026-11-09, updated 2026-11-25
+via NPR Short Wave · 2026-11-09, updated 2026-11-26
 
 The explosion of GLP-1 drugs has created a gray zone for pregnancy. That recently prompted the American College of Obstetricians and Gynecologists to issue [its first ever guidance](https://www.acog.org/clinical/guidance/practice-advisory/2026/10/use-of-glucagon-like-peptide-1-receptor-agonists-in-pregnancy-and-lactation/) on the topic. In a twist, the drugs may boost fertility for some, leading to more pregnancies – a phenomenon known on social media as “Ozempic babies”. But doctors caution against using the drugs during pregnancy itself. In fact, the more we looked into this story, the more twists and nuances we found. So, we brought Dr. [Amy Valent](https://www.ohsu.edu/providers/amy-valent-do) of Oregon Health and Science University onto the show to break down the latest on what’s known about how these drugs affect fertility and pregnancy.
 
@@ -2452,7 +2560,7 @@ This Hubble image features the sparkling collection of stars named Messier 30 (M
 
 ## [Predicting elections is getting harder. What did the midterms teach us?](https://www.npr.org/2026/11/05/nx-s1-6026649/us-midterm-election-poll-results)
 
-via NPR Short Wave · 2026-11-05, updated 2026-11-25
+via NPR Short Wave · 2026-11-05, updated 2026-11-26
 
 Famously, polls got the 2016 election wrong. And they’d been off for multiple elections since. So, Monday night, political scientist Jack Rametta nervously refreshed his [Senate forecasting model](https://jackrametta.com/senate-forecast/) for the final time. Would it be right this time? Or would it yet again cast doubt on whether modeling, statistics and forecasting can still help us understand what motivates people to vote? Now that the results are in, so is Jack – to tell us how he did, and what his and other researchers’ predictions tell us about the evolving science of polling and forecasting.
 
@@ -2481,122 +2589,4 @@ The third-largest island in the Mediterranean Sea exposes an ancient piece of th
 via NASA breaking news · 2026-11-05, updated 2026-11-06
 
 On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.  The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore \[…\]
-
-## [NetBSD 11.1 released](https://www.osnews.com/story/146301/netbsd-11-1-released/)
-
-via OS News · 2026-11-04, updated 2026-11-13
-
-The first point release for NetBSD 11 has been released. As the version number suggests, there’s no major changes here. This release includes security updates for mozilla-rootcerts, brotli, xorg-server, hdaudio(4), compat\_linux(8), unbound(8), and ipfilter. Among the non-security related changes are improved USB device stability on Raspberry Pi, fixed hot-plugging bugs in various USB Wi-Fi drivers, support for battery monitoring on the Microsoft Surface Go 3, fixed thread-local storage on ARMv5, fixes for running the MIPS Malta and PA-RISC ports under QEMU, support for the Zhaoxin KX-7000 CPU, and support for sensors, i2c, real-time clocks, and fan control on Sun Ultra 25/45 and Sun Fire V215/V245 machines. ↫ Nia Alarie on the NetBSD blog The full release notes provide more details.
-
-## [“Why don’t we run the taskbar and Task Manager at high priority, so they can remain responsive?”](https://www.osnews.com/story/146299/why-dont-we-run-the-taskbar-and-task-manager-at-high-priority-so-they-can-remain-responsive/)
-
-via OS News · 2026-11-04, updated 2026-11-12
-
-Another interesting post from Raymond Chen, this time about the difficulty of dealing with a system that’s become CPU-starved. The question is simple: why not just run Task Manager and important parts of the UI like the taskbar at a higher priority? The catch with running anything at high priority is that unless you have been very careful to avoid it, you will eventually run into a shared resource that you will have to wait for, and you are now stuck. Your priority checkout pass gets you to the front of the line, but if the person at the register has a large shopping cart full of groceries, you just have to wait until they are done before you get your chance. Even if the code that protects the shared resource is careful to avoid priority inversion by transferring the priority of the waiter to the thread that owns the resource, you are still stuck waiting, and that owning thread might be doing something that takes a long time, like, say, accessing a file over the network. ↫ Raymond Chen If a system has reached a state where even accessing or using something like a task manager becomes a problem, I personally just bonk my computer over the head with a forced shutdown using the power button. Honestly though, I can’t remember the last time I’ve had to do this, as my Linux machines all seem to handle problematic applications just fine. That being said, I’m sure people managing tons of servers and/or workstations and developers debugging their own running code run into catastrophic problems like this far more often, making forced shutdowns not as practical. Have a terminal window open with top and easy access to the kill command, or make sure you can just ssh into it remotely if the UI has gone completely nuts.
-
-## [It's Not Just You: Some Fast-Flying Birds Also Get Jet Lag](https://www.smithsonianmag.com/smart-news/its-not-just-you-some-fast-flying-birds-also-get-jet-lag-180989811/)
-
-via Smithsonian Magazine · 2026-11-04, updated 2026-11-25
-
-A new study finds that Manx shearwaters fly so fast that their internal clocks get out of sync with local time. These jet lag-like time shifts confuse their sun-based compasses, causing them to become a bit disoriented and fly slightly off course
-
-## [“Jailbreaking my car’s navigation system just so I can change the time”](https://www.osnews.com/story/146297/jailbreaking-my-cars-navigation-system-just-so-i-can-change-the-time/)
-
-via OS News · 2026-11-04, updated 2026-11-12
-
-What if you want to change the time in your car’s infotainment system, but it’s so locked down that you can’t even open the time settings menu without a very specific, DRM’d SD card? Well, you try to jailbreak it, of course, but the amount of effort required can kind of spiral out of control. And then, all the way at the end, it’s just an offset. The first thing I did was use this to create a full backup of the internal eMMC using dd. With a more complete dump of the system, I pretty quickly figured out that the date & time settings that I’m interested in are in /mnt/flash/settings.dat, which is a custom binary format. After some more reverse engineering, it turned out the unit doesn’t really have a concept of timezones at all. It gets the time from GPS and stores the local offset as a number of minutes. Mine was set to 180. I changed it to 120. That is how I was finally able to fix my car’s timezone. ↫ Rasmus Moorats This harrowing story involved an older car – a 2014 Renault Latitude – but with the number of screens and the amount of user-facing software only increasing every year, requiring jailbreaks to get your car to do what you want it to do are only going to become more common. I wouldn’t be surprised if whole generations of cars are going to become much harder to sell in the near future, cratering the used market, because people are not willing to put up with software problems nobody wants to or can fix. He just wanted to change the goddamn time.
-
-## [Actually, You Can Go Back to Constantinople. A Landmark Exhibition Reconstructs the Imperial City With 1,600 Years of Treasures From Byzantine and Ottoman Times](https://www.smithsonianmag.com/smart-news/actually-you-can-go-back-to-constantinople-a-landmark-exhibition-reconstructs-the-imperial-city-with-1600-years-of-treasures-from-byzantine-and-ottoman-times-180989812/)
-
-via Smithsonian Magazine · 2026-11-04, updated 2026-11-25
-
-"Constantinople to Istanbul: One City, Two Empires" at London's Victoria and Albert Museum tracks the storied city's evolution from a 4th-century capital to a bustling 19th-century metropolis—hippodromes, bathhouses and all
-
-## [NASA Shares Plans to Accelerate Artemis, Return to Moon](https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/)
-
-via NASA breaking news · 2026-11-04, updated 2026-11-06
-
-In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon \[…\]
-
-## [Faded Over Millennia, the Intricately Carved Sandstone Walls of This Ancient Egyptian Shrine Will See Color Once Again](https://www.smithsonianmag.com/smart-news/faded-over-millennia-the-intricately-carved-sandstone-walls-of-this-ancient-egyptian-shrine-will-see-color-once-again-180989808/)
-
-via Smithsonian Magazine · 2026-11-04, updated 2026-11-25
-
-Digital projections at Oxford's Ashmolean Museum will restore the sight of Egyptian blue, the world’s oldest synthetic pigment, and other colors that once adorned the 2,700-year-old Shrine of Taharqa
-
-## [New York Had Its First Measles Death in 30 Years. Here's What to Know](https://www.smithsonianmag.com/smart-news/new-york-had-its-first-measles-death-in-30-years-heres-what-to-know-180989809/)
-
-via Smithsonian Magazine · 2026-11-04, updated 2026-11-25
-
-Cases are still surging across the country amidst dropping vaccination rates
-
-## [NASA Announces Ka-Band Satellite Relay Awards for Space Communications](https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/)
-
-via NASA breaking news · 2026-11-04, updated 2026-11-06
-
-NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration \[…\]
-
-## [NASA Navigation Experiment Shows Promise for Planetary Landings](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/)
-
-via NASA breaking news · 2026-11-04, updated 2026-11-05
-
-NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place \[…\]
-
-## [NASA Space Grant Students Fuel Agency’s Inspiration Tour](https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/)
-
-via NASA breaking news · 2026-11-04, updated 2026-11-05
-
-NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into the heart of the action. In Iowa, NASA Administrator Jared \[…\]
-
-## [Hubble Reveals Cosmic Mystery](https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/)
-
-via NASA breaking news · 2026-11-04, updated 2026-11-05
-
-This photo released on Nov. 2, 2026, showcases NGC  4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read \[…\]
-
-## [New Research Tests Whether AI Models Know Their Own Thoughts](https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/)
-
-via Quanta Magazine · 2026-11-04, updated 2026-11-12
-
-By injecting “thoughts” directly into large language models, researchers are trying to map out AI’s capacity for introspection.
-
-The post [New Research Tests Whether AI Models Know Their Own Thoughts](https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)
-
-## [Scientists Say They've Found Preserved Dinosaur Blood in a 115-Million-Year-Old Fossil, but Not Everyone Is Convinced](https://www.smithsonianmag.com/smart-news/scientists-say-theyve-found-preserved-dinosaur-blood-in-a-115-millino-year-old-fossil-but-not-everyone-is-convinced-180989802/)
-
-via Smithsonian Magazine · 2026-11-04, updated 2026-11-25
-
-Soft tissues like blood generally break down relatively quickly after death. Environmental factors can also produce red blood cell look-alikes, so many outside researchers are cautious about the new study's claims
-
-## [Forensic Analysis of Frozen Inca Mummies Reveals That Sacrificed Children Were Plied With Coca Leaves, Corn Beer and Ayahuasca Compounds Before Death](https://www.smithsonianmag.com/smart-news/forensic-analysis-of-frozen-inca-mummies-reveals-that-sacrificed-children-were-plied-with-coca-leaves-corn-beer-and-ayahuasca-compounds-before-death-180989805/)
-
-via Smithsonian Magazine · 2026-11-04, updated 2026-11-25
-
-Five centuries after children were sacrificed on volcanic peaks in the Andes, chemical clues preserved in their hair and fingernails show how the empire used intoxicating blends to soothe the children during their final months
-
-## [AI is changing mathematics -- but not how you think](https://www.npr.org/2026/11/04/nx-s1-6010471/ai-math-navier-stokes-mathematicians-openai)
-
-via NPR Short Wave · 2026-11-04, updated 2026-11-25
-
-Math has created some of humanity's oldest intellectual challenges. And AI is completely changing the game. This year AI solved one of math’s most difficult problems. Since then, OpenAI published hundreds of new math results. So is this the end for the people who’ve dedicated their careers to pushing forward math? We get into it with NPR science correspondent Geoff Brumfel, who weighs the risks and rewards of AI’s math takeover.
-
-_Interested in more technology and_ _AI news?_ _Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)
-
-## [APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342](https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/)
-
-via NASA breaking news · 2026-11-04, updated 2026-11-05
-
-APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Not-So-Hidden \[…\]
-
-## [Before the Dawn in America’s Heartland](https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/)
-
-via NASA breaking news · 2026-11-04
-
-With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.
 

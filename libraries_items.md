@@ -1,14 +1,142 @@
 ---
 title: "GLAM"
 description: "Libraries, archives and museums."
-pubDate: Wed, 25 Nov 2026 15:34:38 GMT
+pubDate: Thu, 26 Nov 2026 00:00:00 GMT
 aggregateOf: "libraries.md"
-dateModified: Wed, 25 Nov 2026 18:23:51 GMT
-itemCount: 67
+dateModified: Thu, 26 Nov 2026 14:48:02 GMT
+itemCount: 64
 generator: antenna/0.2.1
 ---
 
 # GLAM
+
+## [POSI 2.0 Crossref self-assessment 2026](https://www.crossref.org/blog/posi-2.0-crossref-self-assessment-2026/)
+
+via Crossref Blog · 2026-11-26
+
+In 2020, Crossref’s board [voted](https://doi.org/10.64000/hzemx-j7n79) to adopt the Principles of Open Scholarly Infrastructure, and we completed our first self-assessment. We published our next reviews in [March 2022](https://doi.org/10.64000/1a8fc-3jq97) and [December 2024](https://doi.org/10.64000/7ybx5-m7924). We are happy to present our latest self-assessment showing there are improvements in a number of areas representing steady progress but there are a few areas to work on and improve.
+
+### Overview
+
+### Previous Crossref self assessments
+
+- [December 2024 self assessment](https://doi.org/10.64000/7ybx5-m7924)
+- [March 2022 self assessment](https://doi.org/10.64000/1a8fc-3jq97)
+- [December 2020 adoption and first self assessment](https://doi.org/10.64000/hzemx-j7n79)
+
+### Background
+
+The [Principles of Open Scholarly Infrastructure (POSI)](https://doi.org/10.24343/C34W2H) provides a set of guidelines for operating open infrastructure that the scholarly community can use to assess the openness and sustainability of organizations, initiatives, and services that undertake periodic self-assessments against the principles. POSI is not an organization or a certification process - each POSI adopter (there are now 30) regularly reviews progress, conducts periodic assessments, and self-reports how they’re working towards each of the principles.
+
+Enabling the community to evaluate organizations and initiatives against the principles is valuable but it is also valuable for the governance and staff of  the organizations and initiatives to have a set of principles to identify where they have to adopt new practices, procedures, or policies to make improvements to how they are governed and operated. All the adopters have found the process of doing their self-assessments to be positive.
+
+The POSI adopters have continued to review the principles, [reflecting](https://doi.org/10.54900/n6az7-4xb07) on the impact and lessons learned from their self-assessments. There were some minor [revisions to the principles in late 2023](https://openscholarlyinfrastructure.org/posi-v1.1-revisions.pdf) and most importantly, a major update to the principles in October 2025 referred to as [POSI 2.0](https://openscholarlyinfrastructure.org). Crossref has done its latest self-assessment against the revised principles.
+
+### Self assessment against principles
+
+Take a look at our 2026 POSI self-assessment at a glance:
+
+![Crossref POSI assessment 2026 at a glance](https://www.crossref.org/images/blog/2026/posi-assessment2026.png)
+
+### Governance
+
+**Coverage across the scholarly enterprise** – research transcends disciplines, geography, institutions, and stakeholders. Organisations and the infrastructure they run need to reflect this.
+
+**Stakeholder governed** – a board-governed organisation drawn from the stakeholder community builds confidence that the organisation will make decisions driven by community consensus and a balance of interests.
+
+There are two aspects to this principle to consider. Crossref has a diverse, global membership and with only 16 board seats it’s difficult to have every type of member organization represented. However, over the last few years the board has added members beyond ‘traditional’ publishers. There is currently a funder, two universities, a couple of smaller researcher-led publications, and a number of non-profit societies and associations, based in 11 different countries. Improving representation of members on our Board is the key concern of the [Nominating Committee](https://www.crossref.org/committees/nominating/) when they set out the representation priorities each year, and then encourage and review nominations in light of these priorities. The [slate for the 2026 election](https://www.crossref.org/board-and-governance/elections/) had publishers, a society, a funder, a government agency, and a research institution.
+
+The other aspect to consider is that Crossref stakeholders aren’t just the members but include the broader scholarly ecosystem that contributes to, uses, and benefits from Crossref services. Important parts of the Crossref community aren’t eligible to be members such as metadata users, services providers, sponsors, and individuals. However, unless Crossref changes its bylaws about who is eligible to be on the board, these non-member stakeholders won’t be formally represented in governance.
+
+The board periodically reviews the governance structure, and did so this year, considering structural changes to the board. The review didn’t result in any changes at this time, but the board will continue to conduct these reviews periodically.
+
+Our board structure does allow for evolution of the board seats over time. We designate half of the board seats to “large” members and half to “small” members, but how a member is categorized has changed over time. We have [16 membership tiers](https://www.crossref.org/fees/), and we look at how much annual revenue members in each tier generate. We then categorize members based on which membership tiers generated as nearly as possible 50% of our revenue. This year, members in tiers $600 and above were considered “large” members, and members in tiers $550 and below were considered “small” members. This categorization has changed over time as more revenue is generated from the lower membership fee tiers.
+
+**Non-discriminatory participation or membership** – we see the best option to be an “opt-in” approach with principles of non-discrimination and inclusivity, where any relevant group may express an interest and should be welcome. Representation in governance must reflect the character of the community or membership.
+
+**Transparent governance** – to foster trust, the processes and policies for governing the organisation and selecting representatives to governance groups should be transparent (within the constraints of privacy laws).
+
+Crossref has [an area on its website with information about its governance](https://www.crossref.org/board-and-governance/) including the current board, board election policies and processes, the Certificate of Incorporation, the bylaws, and a listing of motions from all board meetings. Each year there is an open call for expressions of interest from any member to stand for the board and in the election it’s one member, one vote. Starting at the beginning of this year we now post [summaries of board meeting discussions and decisions](https://www.crossref.org/categories/board-summary) on our blog.
+
+**Cannot lobby** – infrastructure organisations should not lobby for regulatory change to cement their own positions or narrow self-interest. However, an infrastructure organisation’s role is to support its community, and this can include advocating for policy changes.
+
+**Living will** – to build trust, organisations should establish and communicate clear commitments regarding their long-term stewardship responsibilities, including the principles by which assets, data, resources, services, and staff would be responsibly transferred to a successor or the organisation or service wound down. The commitments should address future governance, with defined criteria for acceptable successor organisations. This should include continued alignment with POSI and any legal or structural constraints.
+
+Crossref has strong foundations for long-term stewardship, including transparent governance, a board-restricted Capital Reserve Fund, and openly available metadata and code. However, we don’t yet have explicit, published commitments about how our assets, data, services, and staff would be transferred to a successor, or how we would wind down. As a New York State not-for-profit organization and a US tax-exempt entity, there are legal requirements for any transfer of assets or dissolution. For example, members would need to vote to approve major changes and any transfers would need to go to another non-profit with a similar mission.
+
+Crossref is in the process of forming a not-for-profit, international association legal entity in Belgium - an Association internationale sans but lucratif (AISBL). This will be an independent entity with overlapping governance with the US entity and will act as a backstop for it.
+
+What needs to change: the Crossref board will consider adopting a Living Will policy that is consistent with New York State law and POSI 2.0, including criteria for an acceptable successor (not-for-profit status, community governance, aligned mission, and continued alignment with POSI). The board will also consider issues with how assets, metadata, services, code, and staff would be transferred.
+
+**Regular review of purpose and community value** – organisations and services should regularly review their relevance, effectiveness, and the level of community support to determine whether their continued operation is necessary. If no longer needed, they should take responsible steps to transition or wind down operations in consultation with the community and in alignment with their living will.
+
+This is a new principle that Crossref meets. Our membership and use of our main services are continuing to grow. In particular, content registration, API queries, and Crossref DOI resolutions all continue to see rapid growth thereby demonstrating value.  We do look at all our services and interfaces and deprecate ones that are no longer used or valuable for members. We regularly survey members and the wider community about services and other issues.
+
+### Sustainability
+
+**Transparent operations** \- to enable organisational accountability and openness, the operating policies and procedures, detailed financials, sustainability models, fees, strategic and product roadmaps, organisational charts, and other appropriate operational information should be made openly available (within the constraints of privacy laws). Information should be available for investigation and reuse by the community.
+
+This is a new principle that Crossref meets. Crossref provides an [operations and sustainability section](https://www.crossref.org/operations-and-sustainability/) on its website with financial information, employment and other policies, and membership operations including membership terms, the member application process, fees and billing, and sanctions information. We have a [people page with an org chart](https://www.crossref.org/people/) and a [strategy and roadmap page](https://www.crossref.org/strategy/). We also publish our [employee manual](https://www.crossref.org/operations-and-sustainability/working-at-crossref) and [organisational policies and procedures](https://www.crossref.org/operations-and-sustainability/working-at-crossref/policies/). These are available for inspection and reuse.
+
+**Time-limited funds are used only for time-limited activities** – operations should be supported by sustainable revenue sources, whereas time-limited funds are used only for time-limited activities. Depending on grants to fund ongoing and/or long-term operations fully makes organisations fragile and distracts from maintaining core infrastructure.
+
+**Goal to generate surplus** – it is not enough to merely survive; organisations and services have to be able to adapt and change. Organisations and services that define long-term sustainability based only on recovering costs risk becoming brittle and stagnant. To weather economic, social and technological volatility, organisations and services need financial resources beyond immediate operating costs.
+
+Crossref has generated surpluses since 2003. Our 2027 budget has a net operating income surplus but has a planned net income deficit because we are spending some of the accumulated surpluses from previous years [to invest in our system modernisation](https://doi.org/10.64000/enn8e-31771).
+
+**Establish and maintain financial reserves guided by policy** – organisations and services should have a clear policy on maintaining financial reserves, including the purpose, minimum and maximum level, and governance of these funds. The actual level of reserves should be determined and periodically reviewed by the governing body, ensuring that resources are available to support Living Will implementation, including an orderly wind-down, transition to a successor, or response to major unforeseen events. A financial reserve policy might include how funds will be held, under what circumstances they will be used, and how much would be necessary for an adequate wind-down or transfer of assets, given the complexity of the organisation’s infrastructure.
+
+Crossref has a board policy to have 12 months expenses in its Capital Reserve Fund - these are board restricted funds listed separately on the balance sheet. The purpose of the fund is to maintain adequate funds to support a significant change in business or manage a wind down or transfer of operations, should Crossref cease to exist. The Capital Reserve Fund has maintained 12 months of expenses since 2023. Investment returns have grown the fund to keep pace with Crossref’s expense growth. These funds are **not** being used for the system modernisation project.
+
+**Mission-consistent revenue generation** – revenue sources should be evaluated against the infrastructure’s mission and not run counter to the aims of the organisation or service.
+
+**Revenue generated from services, not data** – data related to the running of the scholarly infrastructure should be community property. Appropriate revenue sources might include value-added services, consulting, API Service Level Agreements, or membership fees.
+
+**Volunteer labour** \- organisations that rely on volunteers and their labour should recognise this as a valuable resource for the organisation’s long-term viability, and factor it into sustainability planning and risk management.
+
+This is a new principle that doesn’t apply. Crossref does not rely on volunteers for any of its operations. We have excellent [volunteer Ambassadors](https://www.crossref.org/community/ambassadors/) who support the scholarly community in their locales with ongoing communication, interactive workshops and training from Crossref.
+
+**Transition planning** \- organisations that are heavily dependent on a limited number of individuals should take steps to reduce their dependence on these individuals, including via transition and succession planning, so that the organisation is not at risk of collapse in the event of their departure.
+
+This is a new principle. Back in 2024 [Crossref made structural changes](https://doi.org/10.64000/bm6g0-gvy36) to broaden its leadership team to include an Executive team, an extended Director team, and a Senior Management Team, as well as increasing overall staff headcount, to ensure that Crossref could deliver on its ambitious plans and not be overly reliant on any individual or single point of failure in processes. We have clear job descriptions and reporting lines as well as extensive documentation combined with collaborative working so there is knowledge sharing and staff who can cover for each other.
+
+What needs to change: Crossref doesn’t have a formal transition plan for the planned or unplanned departure of members of the leadership team, and the board doesn’t have a policy for an Executive Director transition. We will work on these in 2027.
+
+### Insurance
+
+**Open source** – all software and non-physical assets required to run the infrastructure should be available under an open-source licence. This does not include other software that may be involved with running the organisation.
+
+This was yellow and still is, but we’re making improvements. Anything new that Crossref develops is [Open Source in GitLab](https://gitlab.com/crossref) and there are repositories for [older and legacy systems in GitHub.](https://github.com/CrossRef) We are reviewing all our GitLab repositories, deprecating some, deleting some, and making any that are closed, open with an MIT license, provided that it is safe to do so. In 2024 we migrated our database off of a closed-source solution and onto [PostgreSQL](https://www.postgresql.org/) and in 2025 we moved everything to AWS and no longer have a physical data center. This was an important step and lays the groundwork for the [rebuilding of the Crossref System](https://doi.org/10.64000/enn8e-31771). We are investing about $5 million over the next 3 years in a complete redesign of the core Crossref system, which will be fully open source.
+
+What needs to change: the system redesign will ensure that all new code will be open source.
+
+**Ensure open and secure data accessibility within legal and ethical constraints**– to support potential forking or replication, infrastructure should aim to make all relevant data openly available, following best practices such as applying a CC0 waiver where appropriate. This must be balanced with compliance with privacy, data protection, and security requirements. Organisations should have a clear policy outlining how private or sensitive data will be handled—particularly in the event of a transfer to another organisation—to ensure continuity, legal compliance, and responsible stewardship.
+
+Crossref metadata is made openly available without restrictions. Crossref releases an [annual public data file](https://www.crossref.org/documentation/retrieve-metadata/bulk-downloads/) which is available on a 3rd party hosting platform. The Crossref system is hosted in the AWS East Coast US instance and we are also building a staging environment in AWS Germany and a backup in Google Cloud.
+
+**Available and preserved** – it is not enough that content, data, and software be “open” if there is no practical way to obtain them. These resources should be made easily available with clear public documentation about where they are and how to access them, as well as an open licence where possible. It is not enough that “open” resources are available. In line with the Living Will, it is essential to deposit content, data, and software with at least one trusted third-party digital archive.
+
+Crossref releases an [annual public data file](https://www.crossref.org/documentation/retrieve-metadata/bulk-downloads/) which is available on a 3rd party hosting platform and we have archiving arrangements to backup the Crossref metadata with Portico and CLOCKSS.
+
+What needs to change: Crossref’s main system software is hosted in multiple locations for redundancy but there needs to be a more formal escrow arrangement set up - Crossref will investigate this in 2027.
+
+**Patent non-assertion** – the organisation should commit to a patent non-assertion policy or covenant. The organisation may obtain patents to protect its own operations, but not use them to prevent the community from replicating the infrastructure.
+
+Crossref has a [Patent non-assertion policy](https://www.crossref.org/operations-and-sustainability/patent-policy/). Crossref doesn’t hold any patents, hasn’t applied for any, and doesn’t have any plans to file any patent applications.
+
+**Prioritise interoperability and open standards to ensure continuity and resilience** \- infrastructures should adopt and support widely accepted open standards—both formal and de facto—to ensure that systems, data, and services can be replicated, migrated, or integrated with minimal disruption without the use of proprietary extensions or software. Where relevant, organisations should document dependencies on standards.
+
+This is a complicated question and touches on different aspects of the Crossref system and operations. The DOI System is an [ISO standard](https://www.iso.org/standard/88862.html) and Crossref metadata is stored and made available in multiple formats including XML and JSON. We have a REST API using standard web technology and standards. Our website is hosted on GitLab and is stored in Markdown and exported to HTML using Hugo - an open source static site generator. Crossref metadata is stored in a PostgresSQL, an open source database. Our system is hosted with Amazon Web Services (AWS) and uses open standards like Docker but we depend on Amazon specific features that would make it hard to move cloud providers.
+
+What needs to change: In the first half of 2027 Crossref will document in more detail its technical infrastructure and dependencies in the [Operations & sustainability section](https://www.crossref.org/operations-and-sustainability/) of its website.
+
+### Conclusion
+
+The Crossref leadership team, staff, and board of directors contributed to this self-assessment and it has been a useful process leading to practical changes and important action items for areas to address. Since our last self-assessment in 2024 we have improved governance transparency by posting summaries of board meetings along with all approved motions and have a greater diversity of candidates for board seats. We have very transparent operations and are maintaining 12 months of cash reserves while investing in major updates to your systems.
+
+Areas where we are working on include developing a formal Living Will policy, improving our transition plans for staff, increasing the level of open source software we use as part of our system redesign project, and publicly documenting our technical infrastructure in more detail.
+
+Please let us have any comments or questions; by emailing or discuss on our community forum.
 
 ## [New Report From Open Knowledge Foundation and Wikimedia Foundation: “Safeguarding the Digital Future: Recognizing Open Knowledge Systems as Critical Digital Infrastructure”](https://www.infodocket.com/2026/11/25/new-report-from-open-knowledge-foundation-safeguarding-the-digital-future-recognizing-open-knowledge-systems-as-critical-digital-infrastructure/)
 
@@ -78,7 +206,7 @@ The post [Research Tools: University of Richmond Distant Viewing Lab Releases Da
 
 ## [Shaping digital horizons together: IOI at UbuntuNet CONNECT 2026 in Malawi](https://investinopen.org/blog/shaping-digital-horizons-together-ioi-at-ubuntunet-connect-2026-in-malawi/)
 
-via Invest In Open · 2026-11-20, updated 2026-11-25
+via Invest In Open · 2026-11-20, updated 2026-11-26
 
 A recap of IOI's participation at UbuntuNet CONNECT 2026 in Lilongwe, Malawi
 
@@ -279,7 +407,7 @@ The conversation continues with #Crossref2026 and on our [community forum](https
 
 ## [Before the Paper Goes](https://metaarchivist.substack.com/p/before-the-paper-goes)
 
-via The Meta Archivist blog · 2026-11-19, updated 2026-11-25
+via The Meta Archivist blog · 2026-11-19, updated 2026-11-26
 
 NARA’s new authority spares agencies from rescanning qualifying legacy records, but it can leave them holding the paper for years.
 
@@ -379,7 +507,7 @@ We welcome comments, suggestions, and challenges to this report and our practice
 
 ## [The Return of the Hit Count in academic AI search? Not Quite.](https://aarontay.substack.com/p/the-return-of-the-hit-count-in-academic)
 
-via Aaron Tay's Musings about Librarianship · 2026-11-18, updated 2026-11-25
+via Aaron Tay's Musings about Librarianship · 2026-11-18, updated 2026-11-26
 
 Why hits shown in hybrid AI search such as JSTOR Dynamic Search or Consensus should not be treated the same as a traditional database Boolean hit count.
 
@@ -413,7 +541,7 @@ Check out all of the Future Knowledge episodes at [https://archive.org/details/f
 
 ## [The Seal and the Machine](https://metaarchivist.substack.com/p/the-seal-and-the-machine)
 
-via The Meta Archivist blog · 2026-11-17, updated 2026-11-25
+via The Meta Archivist blog · 2026-11-17, updated 2026-11-26
 
 From the seals of Prussian archives to the uncertain afterlife of digital trust
 
@@ -467,7 +595,7 @@ The post [Guest Post — Beyond the Download: What Counts as Scholarly Content U
 
 ## [Defter helps manage your Zotero references](https://blog.front-matter.de/posts/defter-helps-manage-your-zotero-references/)
 
-via Front Matter Blog · 2026-11-16, updated 2026-11-25
+via Front Matter Blog · 2026-11-16, updated 2026-11-26
 
 Today I am announcing [defter](https://crates.io/crates/defter), a new Zotero sync and file storage server that complements [Zotero Storage](https://www.zotero.org/storage) with a hosted Zotero library using SQLite and S3-compatible object storage.
 
@@ -475,7 +603,7 @@ Today I am announcing [defter](https://crates.io/crates/defter), a new Zotero sy
 
 ## [Appraising Permanence, Sustaining the Promise](https://metaarchivist.substack.com/p/appraising-permanence-sustaining)
 
-via The Meta Archivist blog · 2026-11-15, updated 2026-11-25
+via The Meta Archivist blog · 2026-11-15, updated 2026-11-26
 
 What NARA’s appraisal process reveals about the distance between deciding that federal records should survive and ensuring that they can.
 
@@ -551,7 +679,7 @@ The post [Transfer Explorer Comes to Ohio](https://sr.ithaka.org/blog/transfer-e
 
 ## [Who Will Keep the Archive?](https://metaarchivist.substack.com/p/who-will-keep-the-archive)
 
-via The Meta Archivist blog · 2026-11-12, updated 2026-11-25
+via The Meta Archivist blog · 2026-11-12, updated 2026-11-26
 
 From Copenhagen to the DPC's workforce research, a question about the human infrastructure of preservation.
 
@@ -589,7 +717,7 @@ The post [Guest Post — The Hidden Work of Integrating Scholarly Publishing](ht
 
 ## [Who Decides What the AI Sees?​](https://aarontay.substack.com/p/who-decides-what-the-ai-sees)
 
-via Aaron Tay's Musings about Librarianship · 2026-11-11, updated 2026-11-25
+via Aaron Tay's Musings about Librarianship · 2026-11-11, updated 2026-11-26
 
 The Third Discovery War: From Federated Search and Central Indexes to MCP and Agentic AI​
 
@@ -673,7 +801,7 @@ The post [Guest Post — We Have Enough Declarations. Now What? A Critique from 
 
 ## [The Context We Carry Forward](https://metaarchivist.substack.com/p/the-context-we-carry-forward)
 
-via The Meta Archivist blog · 2026-11-08, updated 2026-11-25
+via The Meta Archivist blog · 2026-11-08, updated 2026-11-26
 
 Remembering Stephen Clarke, one year on, and the unfinished possibilities of epidata
 
@@ -703,7 +831,7 @@ The post [On the Road with RADS: Building One Front Door for Data Management and
 
 ## [Rogue Scholar no longer registers concept DOIs for each post](https://blog.front-matter.de/posts/rogue-scholar-no-longer-registers-concept-dois-for-each-post/)
 
-via Front Matter Blog · 2026-11-05, updated 2026-11-25
+via Front Matter Blog · 2026-11-05, updated 2026-11-26
 
 Starting this Monday November 3rd the Rogue Scholar science blog archive stopped registering concept DOIs for new blog posts, i.e. two DOIs for each post.
 
@@ -722,34 +850,4 @@ via Scholarly Kitchen · 2026-11-05, updated 2026-11-22
 What might be lost if we automate a task without first fully understanding the expertise behind it?
 
 The post [Guest Post — What AI Can’t Learn About Peer Review… Because Nobody Can Explain It](https://scholarlykitchen.sspnet.org/2026/11/05/guest-post-what-ai-cant-learn-about-peer-review-because-nobody-can-explain-it/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).
-
-## [How the University of Glasgow uses CORE FreshFinds to streamline repository workflows](https://blog.core.ac.uk/2026/11/04/how-the-university-of-glasgow-uses-core-freshfinds-to-streamline-repository-workflows/)
-
-via CORE blog · 2026-11-04, updated 2026-11-25
-
-George Macgregor, Assistant Director – Digital Library, University of Glasgow A core objective of CORE FreshFinds is to make it easier for institutional repositories to capture newly published research and maintain a comprehensive record of their academics’ research outputs. It also helps to ensure institutions are optimising research discovery while simultaneously mitigating deposit pressures that might … [Continue reading How the University of Glasgow uses CORE FreshFinds to streamline repository workflows](https://blog.core.ac.uk/2026/11/04/how-the-university-of-glasgow-uses-core-freshfinds-to-streamline-repository-workflows/)
-
-## [Shaping FreshFinds together: thank you to everyone at the Oxford community workshop](https://blog.core.ac.uk/2026/11/04/shaping-freshfinds-together-thank-you-to-everyone-at-the-oxford-community-workshop/)
-
-via CORE blog · 2026-11-04, updated 2026-11-25
-
-On 27 October, the Bodleian Libraries hosted a community workshop at the University of Oxford focused on CORE FreshFinds and the future development of shared repository infrastructure. Repository and library colleagues from across the UK joined the workshop both in person and online. We would like to thank Ruth Mallalieu, Jason Partridge and their colleagues … [Continue reading Shaping FreshFinds together: thank you to everyone at the Oxford community workshop](https://blog.core.ac.uk/2026/11/04/shaping-freshfinds-together-thank-you-to-everyone-at-the-oxford-community-workshop/)
-
-## [From AI Adoption to AI Practice: Building Governed AI in Scholarly Publishing](https://scholarlykitchen.sspnet.org/2026/11/04/from-ai-adoption-to-ai-practice-building-governed-ai-in-scholarly-publishing/)
-
-via Scholarly Kitchen · 2026-11-04, updated 2026-11-22
-
-How can a publisher make AI useful across the organization while keeping control of confidential information, editorial decisions, and accountability?
-
-The post [From AI Adoption to AI Practice: Building Governed AI in Scholarly Publishing](https://scholarlykitchen.sspnet.org/2026/11/04/from-ai-adoption-to-ai-practice-building-governed-ai-in-scholarly-publishing/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).
-
-## [Will State Law Solve the Library eBook Crisis?](https://archive.org/details/future-knowledge-episode-45)
-
-via Future Knowledge Podcast · 2026-11-04, updated 2026-11-18
-
-Libraries are increasingly facing restrictive eBook licensing terms that can make digital books more expensive, less durable, and harder to preserve than print. In this live discussion, we explore a growing state-by-state movement to establish fairer terms for library eBook contracts—and what these laws could mean for libraries, publishers, authors, and readers. Joining the conversation are **Kyle K. Courtney** and **Juliya Ziskina** of the eBook Study Group, and **Deborah Schander**, State Librarian of Connecticut.
-
-This conversation was recorded on 9/29/2026. Watch the full video recording at: [https://archive.org/details/will-state-law-solve-the-library-e-book-crisis](https://archive.org/details/will-state-law-solve-the-library-e-book-crisis)
-
-Check out all of the Future Knowledge episodes at [https://archive.org/details/future-knowledge](https://archive.org/details/future-knowledge)
 

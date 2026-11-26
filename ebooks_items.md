@@ -3,8 +3,8 @@ title: "eBooks"
 description: "New eBook releases."
 pubDate: Fri, 20 Nov 2026 17:17:24 GMT
 aggregateOf: "ebooks.md"
-dateModified: Wed, 25 Nov 2026 18:23:57 GMT
-itemCount: 141
+dateModified: Thu, 26 Nov 2026 14:48:07 GMT
+itemCount: 132
 generator: antenna/0.2.1
 ---
 
@@ -799,60 +799,6 @@ Language: German
 ## [Enough is enough by J. Anthony Ferlaine](https://www.gutenberg.org/ebooks/79922)
 
 via Project Gutenberg (New Books) · 2026-11-05
-
-Language: English
-
-## [Last night of summer by Alfed Coppel](https://www.gutenberg.org/ebooks/79916)
-
-via Project Gutenberg (New Books) · 2026-11-04
-
-Language: English
-
-## [Seasoned Traveler by F. L. Wallace](https://www.gutenberg.org/ebooks/79914)
-
-via Project Gutenberg (New Books) · 2026-11-04
-
-Language: English
-
-## [Penelope's Experiences in Scotland by Kate Douglas Smith Wiggin](https://www.gutenberg.org/ebooks/1217)
-
-via Project Gutenberg (New Books) · 2026-11-04
-
-Language: English
-
-## [Two Years Before the Mast by Richard Henry Dana](https://www.gutenberg.org/ebooks/2055)
-
-via Project Gutenberg (New Books) · 2026-11-04
-
-Language: English
-
-## [Japanese Fairy Tales by Yei Theodora Ozaki](https://www.gutenberg.org/ebooks/4018)
-
-via Project Gutenberg (New Books) · 2026-11-04
-
-Language: English
-
-## [Nicholas Nickleby by Charles Dickens](https://www.gutenberg.org/ebooks/967)
-
-via Project Gutenberg (New Books) · 2026-11-04
-
-Language: English
-
-## [Sin club by Don Elliott](https://www.gutenberg.org/ebooks/79915)
-
-via Project Gutenberg (New Books) · 2026-11-04
-
-Language: English
-
-## [The next corner by Kate Jordan](https://www.gutenberg.org/ebooks/79913)
-
-via Project Gutenberg (New Books) · 2026-11-04
-
-Language: English
-
-## [The gates of pearl by David Mason](https://www.gutenberg.org/ebooks/79917)
-
-via Project Gutenberg (New Books) · 2026-11-04
 
 Language: English
 

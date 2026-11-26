@@ -1,32 +1,674 @@
 ---
 title: "Pacific"
 description: "News from Hawaiʻi, Micronesia, Oceania and the Pacific Rim."
-pubDate: Wed, 25 Nov 2026 18:16:44 GMT
+pubDate: Thu, 26 Nov 2026 13:43:54 GMT
 aggregateOf: "pacific.md"
-dateModified: Wed, 25 Nov 2026 18:33:33 GMT
+dateModified: Thu, 26 Nov 2026 14:31:57 GMT
 itemCount: 2707
 generator: antenna/0.2.1
 ---
 
 # Pacific
 
-## [ACC’s ‘fully operational’ AI tool is finding claimants for staff to consider removing from its books](https://www.rnz.co.nz/news/political/2775506/acc-s-fully-operational-ai-tool-is-finding-claimants-for-staff-to-consider-removing-from-its-books)
+## [Muni Network: Newsrooms unite against AI disruption](https://www.rappler.com/about/special-projects/southeast-asia-newsrooms-unite-ai-threats-muni-future-news/)
 
-via RNZ National News · 2026-11-25
+via Rappler · 2026-11-26
 
-The model is much better and faster than staff at finding cases to review and potentially suspend.
+Facing the threats of AI-induced disruption and declining web traffic, Southeast Asian newsrooms unite through the Muni Network for the future of news
+
+## [Ex-Cale88 co-owner, BOC official to testify in Sara Duterte impeachment trial](https://www.rappler.com/philippines/former-cale88-co-owner-boc-official-testify-sara-duterte-impeachment-trial/)
+
+via Rappler · 2026-11-26
+
+Dr. Lourdes Tingson-Lebosada, who is also the Vice President's dentist, is expected to testify on Cale88's organizational structure, government registrations, business operations, ownership, and financial affairs
+
+## [8 banks report NT$1.82 million in unauthorized transfers: FSC](https://focustaiwan.tw/society/202611260021)
+
+via CNA · 2026-11-26
+
+Taipei, Nov. 26 (CNA) Eight banks have reported major incidents involving unauthorized online transfers totaling NT$1.82 million (US$55,201) from the accounts of 10 customers, the Financial Supervisory Commission (FSC) said Thursday.
+
+## [Candidates, party leaders step up campaigning ahead of Saturday's elections](https://focustaiwan.tw/politics/202611260020)
+
+via CNA · 2026-11-26
+
+Taipei, Nov. 26 (CNA) With two days to go before Saturday's elections, New Taipei mayoral candidates stepped up campaigning Thursday, with the Kuomintang's (KMT) Lee Shu-chuan (李四川) making his 100th market visit of the campaign and the Democratic Progressive Party's (DPP) Su Chiao-hui (蘇巧慧) campaigning by motorcade through seven districts.
+
+## [Japan Tobacco studies deal for Imperial Brands](https://www.japantimes.co.jp/business/2026/11/26/companies/japan-tobacco-considers-imperial-acquisition/)
+
+via Japan Times · 2026-11-26
+
+Japan Tobacco has been considering teaming up with a partner on an acquisition of Imperial and then splitting up the British company's assets.
+
+## [What to know about the latest U.S. tariff proposals for Taiwan](https://focustaiwan.tw/business/202611260019)
+
+via CNA · 2026-11-26
+
+Taipei, Nov. 26 (CNA) The United States on Wednesday proposed tariffs of up to 15 percent on Taiwanese goods, including existing duties, following an investigation into manufacturing overcapacity under Section 301 of the Trade Act of 1974, with a final decision expected next year after further consultations.
+
+## [Vietnam must explain ‘abduction’ of activists: U.N. experts](https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/vietnam-activists-un-experts/)
+
+via Japan Times · 2026-11-26
+
+Vietnam permits little to no dissent within its borders and critics say its security apparatus stretches abroad.
+
+## [Japan firms say rate hikes are starting to bite, new study shows](https://www.japantimes.co.jp/business/2026/11/26/economy/japan-firms-hikes-bite/)
+
+via Japan Times · 2026-11-26
+
+Almost 59% of companies said the negative effects of higher rates are greater than the positive ones.
+
+## [Nine hurt in huge explosion at Bangkok oil facility](https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/bangkok-oil-facility-explosion/)
+
+via Japan Times · 2026-11-26
+
+The blast was so strong that it rattled doors several kilometers away, according to reporters.
+
+## [When bicam convenes for 2027 budget, advocates want to be in the room](https://www.rappler.com/philippines/social-watch-hopes-genuine-budget-bicam-meeting-2027/)
+
+via Rappler · 2026-11-26
+
+‘Ang mga tinanggal ng Senado sa ngalan ng paglaban sa korupsiyon ay hindi dapat palihim na ibalik sa bicam sa ngalan ng kompromiso,’ says Social Watch Philippines co-convenor Maria Victoria Raquiza
+
+## [MAC monitoring Shanghai party chief probe as city forum remains pending](https://focustaiwan.tw/politics/202611260018)
+
+via CNA · 2026-11-26
+
+Taipei, Nov. 26 (CNA) Taiwan's top China policy agency said Thursday it is closely monitoring developments surrounding the investigation into Shanghai Chinese Communist Party (CCP) chief Chen Jining (陳吉寧), amid questions over the future of the annual Taipei-Shanghai Twin-City Forum.
+
+## [Designer baby toys and strollers drive South Korean retail boom](https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/society/south-korea-designer-stroller-boom/)
+
+via Japan Times · 2026-11-26
+
+Online spending on baby and children's products reached a record 5.48 trillion won ($4.1 billion) in 2025, up about 67% since 2017.
+
+## [6 indicted over threats to 'Winnie Xi' merchandise vendor, illegal debt collection](https://focustaiwan.tw/society/202611260017)
+
+via CNA · 2026-11-26
+
+Taipei, Nov. 26 (CNA) New Taipei prosecutors have indicted six suspects for illegal debt collection and the attempted extortion of an online vendor selling products depicting Xi Jinping (習近平) as Winnie the Pooh.
+
+## ['Neutral from the outset': Wellington mayor Andrew Little still holding back over rates controversy](https://www.rnz.co.nz/news/regional/2798557/neutral-from-the-outset-wellington-mayor-andrew-little-still-holding-back-over-rates-controversy)
+
+via RNZ National News · 2026-11-26
+
+Andrew Little said he's forming a "very clear picture" of his view on the ratings system proposal, but didn't want to get ahead of the process with final submissions underway.
+
+## [Trump administration unveils new tariffs for dozens of countries, citing unfair practices](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/trump-administration-unveils-new-tariffs-for-dozens-of-countries-citing-unfair-practices/)
+
+via Hawaii Tribune Harold · 2026-11-26
+
+WASHINGTON — The Trump administration proposed a slate of new tariffs on Wednesday targeting imports from dozens of countries, including China, Japan and the members of the European Union, marking the latest expansion of a global trade war that faces mounting obstacles in Congress and the courts.
+
+The post [Trump administration unveils new tariffs for dozens of countries, citing unfair practices](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/trump-administration-unveils-new-tariffs-for-dozens-of-countries-citing-unfair-practices/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [Another hot inflation reading keeps Fed on track to raise rates again](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/another-hot-inflation-reading-keeps-fed-on-track-to-raise-rates-again/)
+
+via Hawaii Tribune Harold · 2026-11-26
+
+The Federal Reserve received yet more discouraging news about the trajectory of inflation Wednesday, when its preferred measure showed that price pressures remained elevated last month.
+
+The post [Another hot inflation reading keeps Fed on track to raise rates again](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/another-hot-inflation-reading-keeps-fed-on-track-to-raise-rates-again/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [Macy’s Thanksgiving Day Parade postponed due to weather for first time in 100 years](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/macys-thanksgiving-day-parade-postponed-due-to-weather-for-first-time-in-100-years/)
+
+via Hawaii Tribune Harold · 2026-11-26
+
+The 100th edition of the annual Macy’s Thanksgiving Day Parade in New York City will be postponed for two days until Saturday due to forecasts of a major storm with high winds, marking the first time the event has been rescheduled due to severe weather.
+
+The post [Macy’s Thanksgiving Day Parade postponed due to weather for first time in 100 years](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/macys-thanksgiving-day-parade-postponed-due-to-weather-for-first-time-in-100-years/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [Lacson asks: Why settle unpaid 2024 DSWD guarantee letters in 2027?](https://www.rappler.com/philippines/lacson-flags-unpaid-dswd-guarantee-letters-2024/)
+
+via Rappler · 2026-11-26
+
+Service providers reportedly filed money claims and submitted supporting documents belatedly, which is why the special provision was only proposed in the 2027 budget bill
+
+## [Na Makua Christmas Gift Fair set for Dec. 4-5](https://www.hawaiitribune-herald.com/2026/11/26/community/na-makua-christmas-gift-fair-set-for-dec-4-5/)
+
+via Hawaii Tribune Harold · 2026-11-26
+
+The Na Makua Invitational Christmas Gift Fair will be held from 2 p.m. to 7 p.m. on Friday, Dec. 4, and 9 a.m. to 3 p.m. Saturday, Dec. 5, at the Edith Kanaka‘ole Multi-Purpose Stadium in Hilo.
+
+The post [Na Makua Christmas Gift Fair set for Dec. 4-5](https://www.hawaiitribune-herald.com/2026/11/26/community/na-makua-christmas-gift-fair-set-for-dec-4-5/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [KTA celebrates 110 years of serving Hawaii Island](https://www.hawaiitribune-herald.com/2026/11/26/hawaii-news/kta-celebrates-110-years-of-serving-hawaii-island/)
+
+via Hawaii Tribune Harold · 2026-11-26
+
+KTA Super Stores is celebrating its 110th anniversary, marking more than a century of serving Hawaii Island and the generations of families and communities who have helped shape the locally owned and operated company since 1916.
+
+The post [KTA celebrates 110 years of serving Hawaii Island](https://www.hawaiitribune-herald.com/2026/11/26/hawaii-news/kta-celebrates-110-years-of-serving-hawaii-island/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [Lifeguard certification course offered at NAS pool](https://www.hawaiitribune-herald.com/2026/11/26/community/lifeguard-certification-course-offered-at-nas-pool/)
+
+via Hawaii Tribune Harold · 2026-11-26
+
+The Hawaii County Department of Parks and Recreation is offering a lifeguard certification course at NAS Swimming Pool in Hilo starting Jan. 8, 2027.
+
+The post [Lifeguard certification course offered at NAS pool](https://www.hawaiitribune-herald.com/2026/11/26/community/lifeguard-certification-course-offered-at-nas-pool/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [Fort Hood shooter asks judge to delay his execution by firing squad](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/fort-hood-shooter-asks-judge-to-delay-his-execution-by-firing-squad/)
+
+via Hawaii Tribune Harold · 2026-11-26
+
+Nidal Malik Hasan, the former Army major who killed 13 people and wounded 32 others in a shooting rampage at Fort Hood, Texas, in 2009, has asked a federal judge to stay his execution by firing squad, which is scheduled for Dec. 3.
+
+The post [Fort Hood shooter asks judge to delay his execution by firing squad](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/fort-hood-shooter-asks-judge-to-delay-his-execution-by-firing-squad/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [To many, turkeys are dinner. To these artists, they’re the perfect muse](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/to-many-turkeys-are-dinner-to-these-artists-theyre-the-perfect-muse/)
+
+via Hawaii Tribune Harold · 2026-11-26
+
+LAKEVILLE, Minn. — Turkeys have been called dumb. They have been called awkward. Their name has even been brandished as an insult. Who, after all, wants to be told they’re acting like a turkey?
+
+The post [To many, turkeys are dinner. To these artists, they’re the perfect muse](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/to-many-turkeys-are-dinner-to-these-artists-theyre-the-perfect-muse/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [The US isn’t in a recession. Try telling many Americans that](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/the-us-isnt-in-a-recession-try-telling-many-americans-that/)
+
+via Hawaii Tribune Harold · 2026-11-26
+
+For Austin George, the first hint that something was wrong with the economy — beyond the typical bumps — started during his girlfriend’s job hunt this spring.
+
+The post [The US isn’t in a recession. Try telling many Americans that](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/the-us-isnt-in-a-recession-try-telling-many-americans-that/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [Huawei found guilty of stealing trade secrets in US trial](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/huawei-found-guilty-of-stealing-trade-secrets-in-us-trial/)
+
+via Hawaii Tribune Harold · 2026-11-26
+
+A federal jury on Tuesday found Huawei, the Chinese telecommunications giant that U.S. officials have long viewed with suspicion, guilty of stealing trade secrets and evading sanctions against Iran.
+
+The post [Huawei found guilty of stealing trade secrets in US trial](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/huawei-found-guilty-of-stealing-trade-secrets-in-us-trial/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [Solomon Islands enters security treaty with Australia, in a blow to China](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/solomon-islands-enters-security-treaty-with-australia-in-a-blow-to-china/)
+
+via Hawaii Tribune Harold · 2026-11-26
+
+The Solomon Islands signed a wide-reaching treaty with Australia that would preclude the establishment of a foreign military or security base in the Pacific island nation, the countries announced Wednesday, in a move apparently aimed at warding off China’s presence in the region.
+
+The post [Solomon Islands enters security treaty with Australia, in a blow to China](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/solomon-islands-enters-security-treaty-with-australia-in-a-blow-to-china/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [‘Carthage resident Al Gore’ buys his hometown Tennessee newspaper](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/carthage-resident-al-gore-buys-his-hometown-tennessee-newspaper/)
+
+via Hawaii Tribune Harold · 2026-11-26
+
+Before he was a senator, and before he was vice president, Al Gore was a reporter. Now, he’s returning to journalism, as a newspaper owner. He is buying his hometown paper, the Carthage Courier, in Carthage, Tennessee.
+
+The post [‘Carthage resident Al Gore’ buys his hometown Tennessee newspaper](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/carthage-resident-al-gore-buys-his-hometown-tennessee-newspaper/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [Obituaries for November 26](https://www.hawaiitribune-herald.com/2026/11/26/obituaries/obituaries-for-november-26-12/)
+
+via Hawaii Tribune Harold · 2026-11-26
+
+Harry Hideo Hasegawa, 94, of Holualoa died Oct. 29 at home. Born in Kona, he worked as a real estate broker, was the president of Kona Koyasan Daishiji Mission Church, was on the Kona Board of Realtors and a veteran of the Army National Guard. Services at a later date. Survived by wife, Daisy Hasegawa (Kusunoki) of Hawaii; children, Debra Ann Ching, Clement Ching, Douglas Ching, Gordon Hasegawa, Dawn Hasegawa, Charlene Ching, Cyrus Ching, Fulton Hasegawa, Clifford Ching, Francis Hasegawa and Karen Hasegawa; siblings, Barbara Kang, Raymond Hasegawa and Eddie Hasegawa; numerous grandchildren, great grandchildren, nieces and nephews. Arrangements by Dodo Mortuary, Inc - Kona Branch.
+
+The post [Obituaries for November 26](https://www.hawaiitribune-herald.com/2026/11/26/obituaries/obituaries-for-november-26-12/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [‘Russia wants more than Ukraine,’ says Germany’s Merz as he defends aid for Kyiv](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/russia-wants-more-than-ukraine-says-germanys-merz-as-he-defends-aid-for-kyiv/)
+
+via Hawaii Tribune Harold · 2026-11-26
+
+BERLIN — German Chancellor Friedrich Merz accused Russia on Wednesday of “escalating” threats to European security as he defended his government’s plans to bolster defense spending and maintain financial aid to Ukraine.
+
+The post [‘Russia wants more than Ukraine,’ says Germany’s Merz as he defends aid for Kyiv](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/russia-wants-more-than-ukraine-says-germanys-merz-as-he-defends-aid-for-kyiv/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [CIA waterboarded more than it admitted, FBI interview suggests](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/cia-waterboarded-more-than-it-admitted-fbi-interview-suggests/)
+
+via Hawaii Tribune Harold · 2026-11-26
+
+WASHINGTON — The CIA appears to have waterboarded more detainees than the three terrorism suspects it has officially acknowledged subjecting to the torture tactic in the years after the Sept. 11, 2001, attacks, according to a newly declassified account from a former CIA contractor.
+
+The post [CIA waterboarded more than it admitted, FBI interview suggests](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/cia-waterboarded-more-than-it-admitted-fbi-interview-suggests/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [Army declares success in detonation of lead-based explosives stockpile in Iowa](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/army-declares-success-in-detonation-of-lead-based-explosives-stockpile-in-iowa/)
+
+via Hawaii Tribune Harold · 2026-11-26
+
+MIDDLETOWN, Iowa — The U.S. Army conducted a controlled detonation of an aging stockpile of lead-based explosives in rural Iowa on Wednesday, declaring the operation a success at safely destroying the unstable material while minimizing toxic fallout.
+
+The post [Army declares success in detonation of lead-based explosives stockpile in Iowa](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/army-declares-success-in-detonation-of-lead-based-explosives-stockpile-in-iowa/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [Salvadoran migrant Kilmar Abrego Garcia lands in Spain after US departure deal](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/salvadoran-migrant-kilmar-abrego-garcia-lands-in-spain-after-us-departure-deal/)
+
+via Hawaii Tribune Harold · 2026-11-26
+
+MADRID — Salvadoran migrant Kilmar Abrego Garcia, whose wrongful deportation to El Salvador made him a focus for critics of President Donald Trump’s immigration crackdown, arrived in Spain on Wednesday after leaving the U.S. under a deal with the authorities.
+
+The post [Salvadoran migrant Kilmar Abrego Garcia lands in Spain after US departure deal](https://www.hawaiitribune-herald.com/2026/11/26/nation-world-news/salvadoran-migrant-kilmar-abrego-garcia-lands-in-spain-after-us-departure-deal/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [1Password customer data, source code taken in GitHub breach](https://www.rappler.com/technology/1password-customer-data-source-code-taken-github-breach/)
+
+via Rappler · 2026-11-26
+
+1Password says customer vault data, the items in them, and the keys that protect them are safe and unaffected as the platform does not have access to user passwords or secret keys
+
+## [Excise tax on your coffee? House leader shuts down suggestion](https://www.rappler.com/philippines/house-leader-shuts-down-suggestion-impose-excise-tax-coffee/)
+
+via Rappler · 2026-11-26
+
+Previously, a group of liquor makers jokingly quipped that lawmakers consider taxing coffee, citing younger consumers’ apparent preference for it over alcohol
+
+## [\[READOUT\] What businesses can get out of ASEAN 2026](https://www.rappler.com/voices/newsletters/readout-business-investment-asean-2026/)
+
+via Rappler · 2026-11-26
+
+From a landmark digital economy agreement to investment-ready energy projects, here's what businesses can take away from the Philippines' ASEAN hosting
+
+## [News Reflection: President Marcos could not keep his guest waiting](https://www.rappler.com/voices/thought-leaders/news-reflection-ferdinand-marcos-jr-donald-trump-manila-visit/)
+
+via Rappler · 2026-11-26
+
+US President Donald Trump received two welcomes in Manila: festivities on the tarmac and protests on the streets.
+
+## [Starbucks Korea sees profit return after ‘Tank Day’ backlash](https://www.japantimes.co.jp/business/2026/11/26/companies/starbucks-south-korea-profit/)
+
+via Japan Times · 2026-11-26
+
+The campaign coincided with the anniversary of a 1980 pro-democracy uprising that saw troops deployed and tanks used to crush protests.
+
+## [Retired Navy petty officer sentenced to 6 years in China spying case](https://focustaiwan.tw/society/202611260016)
+
+via CNA · 2026-11-26
+
+Tainan, Nov. 26 (CNA) The Tainan branch of the Taiwan High Court on Thursday sentenced a retired Navy petty officer to six years in prison for trying to recruit personnel to obtain classified military and coast guard information for China.
+
+## [Japan’s insurers have ‘given up’ on yen with record-low hedging](https://www.japantimes.co.jp/business/2026/11/26/yen-headwinds-insurers/)
+
+via Japan Times · 2026-11-26
+
+Nine of the largest life insurers collectively hedged 43.3% of their foreign-asset holdings with derivatives in the six months ended Sept. 30.
+
+## [U.S. chip curbs and distillation crackdown to impact Chinese AI model progress](https://www.japantimes.co.jp/business/2026/11/26/companies/china-ai-development-hurdles/)
+
+via Japan Times · 2026-11-26
+
+American firms have made efforts to prevent use of their models to train others, while Washington has set out new rules for access to computing power.
+
+## [Hawkish Bank of Japan member seeks quick rate hikes on inflation](https://www.japantimes.co.jp/business/2026/11/26/economy/boj-member-rate-hikes/)
+
+via Japan Times · 2026-11-26
+
+"I believe that the bank needs to bring the policy rate to the neutral level soon," Naoki Tamura said in a speech to local business leaders.
+
+## [Why did Mandaluyong buy 27 cars worth over P1 million each for barangays?](https://www.rappler.com/newsbreak/inside-track/mandaluyong-hybrid-car-purchase-for-barangays/)
+
+via Rappler · 2026-11-26
+
+After the backlash, one of the barangays used the car for distributing free lettuce
+
+## [TV's Nono loses final appeal against 30-month attempted rape sentence](https://focustaiwan.tw/society/202611260015)
+
+via CNA · 2026-11-26
+
+Taipei, Nov. 26 (CNA) Taiwan's Supreme Court on Thursday rejected an appeal by the entertainer Nono against a 30-month prison sentence for attempted rape.
+
+## [U.S. dollar closes sharply lower on Taipei forex market](https://focustaiwan.tw/business/202611260014)
+
+via CNA · 2026-11-26
+
+Taipei, Nov. 26 (CNA) The U.S. dollar fell against the Taiwan dollar Thursday, shedding NT$0.179 to close at NT$32.947.
+
+## [AMI promotes captains](https://marshallislandsjournal.com/ami-promotes-captains/)
+
+via Marshal Islands Journal · 2026-11-26, updated 2026-11-25
+
+Three Air Marshall Islands pilots have been elevated to captain status following extended training periods. Pilots Chris Jelke and Rasas Alfred are now officially Captains or Pilots in Command for AMI’s new Cessna 408, while pilot Kyle Paul holds the same status on the Dornier 228. “The three local Captains successfully completed their Pilots in \[…\]
+
+The post [AMI promotes captains](https://marshallislandsjournal.com/ami-promotes-captains/) appeared first on [The Marshall Islands Journal](https://marshallislandsjournal.com).
+
+## [Police search for family of boy found in Kaitaia](https://www.rnz.co.nz/news/crime-and-justice/2802173/police-search-for-family-of-boy-found-in-kaitaia)
+
+via RNZ National News · 2026-11-26
+
+The child, about two years old, was found by members of the public just after 7pm.
+
+## [Australia delays final vote on gas reservation law for LNG exporters to February](https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/australia-lng-exporters-curb/)
+
+via Japan Times · 2026-11-26
+
+The world's second-largest LNG supplier since the Iran war, Australia exports far more gas than it consumes domestically.
+
+## [Agricultural minister says no new U.S. tariffs on 322 Taiwan products](https://focustaiwan.tw/politics/202611260013)
+
+via CNA · 2026-11-26
+
+Taipei, Nov. 26 (CNA) Agriculture Minister Chen Chun-chi (陳駿季) said Thursday that 322 agricultural products will remain exempt from additional U.S. tariffs following a Section 301 investigation into structural excess capacity.
+
+## [At the Japan Prize, screenings are just the beginning of the conversation](https://www.japantimes.co.jp/culture/2026/11/26/film/japan-prize-2026-nhk/)
+
+via Japan Times · 2026-11-26
+
+From animated preschool series to hard-hitting documentaries, the event celebrates educational content and the conversation it inspires.
+
+## [ANA sets up pilot training firm ahead of expected rise in retirements](https://www.japantimes.co.jp/business/2026/11/26/companies/ana-pilot-training-firm/)
+
+via Japan Times · 2026-11-26
+
+A large number of pilots hired during Japan's economic bubble of the late 1980s and early 1990s are expected to retire starting around 2030.
+
+## [Experts question feasibility of U.S. 1st island chain withdrawal](https://focustaiwan.tw/politics/202611260012)
+
+via CNA · 2026-11-26
+
+A recent article suggesting the U.S. military pull back from the "vulnerable" first island chain, including Taiwan, in favor of the second has been met with skepticism by regional security experts and the chair of a U.S. congressional commission.
+
+## [Auckland mayor Wayne Brown says China trip was significantly under budget](https://www.rnz.co.nz/news/regional/2801819/auckland-mayor-wayne-brown-says-china-trip-was-significantly-under-budget)
+
+via RNZ National News · 2026-11-26
+
+Wayne Brown visited six cities in China at a cost just under $20,000.
+
+## [Opposition parties submit censure motion against education minister to Senate](https://www.japantimes.co.jp/news/2026/11/26/japan/politics/censure-motion-submission/)
+
+via Japan Times · 2026-11-26
+
+Yoshihiro Seki will not be required to resign should the censure pass.
+
+## [Taipei mayor candidates cancel rallies amid road use controversy](https://focustaiwan.tw/politics/202611260011)
+
+via CNA · 2026-11-26
+
+Taipei, Nov. 26 (CNA) The leading candidates for Taipei mayor have canceled major in-person political rallies amid a dispute over road usage rights, just days before Taiwan's local elections on Saturday.
+
+## [Man, 70, stabbed to death at Fukuoka bicycle parking lot](https://www.japantimes.co.jp/news/2026/11/26/japan/crime-legal/fukuoka-bicycle-parking-lot-stabbing/)
+
+via Japan Times · 2026-11-26
+
+Security camera footage showed the suspect running away inside a nearby shopping mall, and a knife was found near the scene.
+
+## [Poisonous invasive cane toad 'size of a guinea pig' spotted in Tauranga](https://www.rnz.co.nz/news/environment/2801504/poisonous-invasive-cane-toad-size-of-a-guinea-pig-spotted-in-tauranga)
+
+via RNZ National News · 2026-11-26
+
+A volunteer firefighter stumbled upon a toad "the size of a guinea pig" in Tauranga.
+
+## [North Korea’s Kim makes rare show of progress with nuclear program](https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/north-korea-kim-tactical-nukes-us-japan/)
+
+via Japan Times · 2026-11-26
+
+Kim urged the deployment of tactical nuclear weapons for a variety of missions and domains amid growing threats from the U.S. and its allies.
+
+## [Vice premier outlines tariffs, support for U.S. investments by Taiwan firms](https://focustaiwan.tw/politics/202611260010)
+
+via CNA · 2026-11-26
+
+Taipei, Nov. 26 (CNA) Vice Premier Cheng Li-chiun (鄭麗君) said Thursday that Taiwan has secured preferential treatment under potential U.S. semiconductor tariffs and is helping companies expanding there obtain tariff exemptions and investment support.
+
+## [Shane Jones promises to pause and review $200 million Gas Security Fund](https://www.rnz.co.nz/news/political/2801306/shane-jones-promises-to-pause-and-review-200-million-gas-security-fund)
+
+via RNZ National News · 2026-11-26
+
+The fund aims to bring gas to market more quickly and can support things like drilling in existing fields, exploration and storage.
+
+## [Premier Cho calls for vigilance against cyberattacks ahead of elections](https://focustaiwan.tw/politics/202611260009)
+
+via CNA · 2026-11-26
+
+Taipei, Nov. 26 (CNA) Premier Cho Jung-tai (卓榮泰) on Thursday urged the relevant authorities to remain vigilant against anticipated cyberattacks to safeguard the integrity of Taiwan's upcoming local government elections.
+
+## [Taiwan confident of keeping 15% tariffs under Trump's new proposal](https://focustaiwan.tw/politics/202611260008)
+
+via CNA · 2026-11-26
+
+Taipei, Nov. 26 (CNA) Taiwan is confident of preserving its negotiated tariff terms with the United States of no more than 15 percent, Vice Premier Cheng Li-chiun (鄭麗君) said Thursday, after U.S. President Donald Trump proposed new duties on 14 major trading partners over alleged excess manufacturing capacity.
+
+## [Myanmar won’t comply with ‘inappropriate’ parts of genocide ruling, leader says](https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/politics/myanmar-comply-genocide-ruling/)
+
+via Japan Times · 2026-11-26
+
+The International Court of Justice last week laid out evidence of Myanmar's atrocities against the mostly Muslim Rohingya during a 2017 crackdown.
+
+## [Taiwan shares close up 2.50%](https://focustaiwan.tw/business/202611260007)
+
+via CNA · 2026-11-26
+
+Taipei, Nov. 26 (CNA) Taiwan shares ended up 956.38 points, or 2.50 percent, at 39,151.81 Thursday on turnover of NT$817.47 billion (US$24.83 billion).
+
+## [Gastroenteritis outbreak at Waikato school camp](https://www.rnz.co.nz/news/health/2800879/gastroenteritis-outbreak-at-waikato-school-camp)
+
+via RNZ National News · 2026-11-26
+
+More than 400 people were at the camp.
+
+## [French tourist Maëlle Favregros' fatal fall in popular alpine area prompts safety warnings](https://www.rnz.co.nz/news/crime-and-justice/2775509/french-tourist-maelle-favregros-fatal-fall-in-popular-alpine-area-prompts-safety-warnings)
+
+via RNZ National News · 2026-11-26
+
+Maëlle Favregros, from France, died from blood loss after falling while crossing slippery, rocky terrain near the Brewster Glacier in Mount Aspiring National Park in February last year.
+
+## [Japan protests new U.S. tariff rate and allegation of excess capacity](https://www.japantimes.co.jp/business/2026/11/26/economy/japan-protests-trump-new-tariff/)
+
+via Japan Times · 2026-11-26
+
+The U.S. announced plans to impose a 15% levy on imports from Japan in response to alleged excess manufacturing capacity.
+
+## ['Like your heart's been ripped out': Community protests sale of public housing in Lower Hutt](https://www.rnz.co.nz/news/regions_wellington/2800891/like-your-heart-s-been-ripped-out-community-protests-sale-of-public-housing-in-lower-hutt)
+
+via RNZ National News · 2026-11-26
+
+Kāinga Ora is selling units in Lower Hutt deemed no longer fit for purpose. Members of the community say that’s a mistake.
+
+## [Trump and NATO chief urge Russia to avoid actions that widen Ukraine war](https://www.japantimes.co.jp/news/2026/11/26/world/politics/trump-nato-chief-russia-ukraine-war/)
+
+via Japan Times · 2026-11-26
+
+The message comes after the U.S. leader met Russian President Vladimir Putin last week in Asia, referring to him as a "friend."
+
+## [3 killed, 16 injured in 4-vehicle crash on Chunghua freeway](https://focustaiwan.tw/society/202611260006)
+
+via CNA · 2026-11-26
+
+Taipei, Nov. 26 (CNA) Three people were killed and at least 16 others injured in an accident involving four vehicles on the Sun Yat-sen Freeway in Changhua County early Thursday, according to the local fire bureau.
+
+## [Osaka governments approve draft document on design for proposed metropolis](https://www.japantimes.co.jp/news/2026/11/26/japan/society/osaka-metropolis-draft-design-approve/)
+
+via Japan Times · 2026-11-26
+
+The draft calls for reorganizing the city of Osaka into four special wards, like Tokyo's 23 wards, on Jan. 1, 2031.
+
+## [Wife of Hokkaido Shimbun journalist detained in Russia pleads for his return](https://www.japantimes.co.jp/news/2026/11/26/japan/yuki-imai-wife-letter/)
+
+via Japan Times · 2026-11-26
+
+"Please return this precious papa to his little daughter," Nozomi Imai wrote in letters that were handwritten in Japanese, Russian and English.
+
+## [More driving licence test options called for as wait times stretch](https://www.rnz.co.nz/news/education/2799536/more-driving-licence-test-options-called-for-as-wait-times-stretch)
+
+via RNZ National News · 2026-11-26
+
+Calls for more driving test options as wait times at VTNZ stretch to nearly three months at some sites.
+
+## [YSPSC Warns of Possible Water Service Disruptions During Final Tank Repairs](https://yapstate.gov.fm/post/yspsc-warns-of-possible-water-service-disruptions-during-final-tank-repairs)
+
+via Yap State Government News · 2026-11-26
+
+Thursday, November 26, 2026 /// DYCA PIO Yap FM - The Yap State Public Service Corporation (YSPSC) Water Plant Division is warning water customers, particularly those residing on the western side of Yap, to prepare for possible water service disruptions as the final phase of repair work on Tank No. 1 in Dalolab, Dalipebinaw, is currently underway. The project is anticipated to be completed on Tuesday, December 8, 2026. According to the Water Plant Division, customers may experience low water...
+
+## [Governor Itimai Grants Administrative Leave in Observance of Thanksgiving Day](https://yapstate.gov.fm/post/governor-itimai-grants-administrative-leave-in-observance-of-thanksgiving-day)
+
+via Yap State Government News · 2026-11-26
+
+Thursday, November 26, 2026 /// DYCA PIO Yap FM - Earlier today, November 26, in the spirit of Thanksgiving and in recognition of the importance of taking time to reflect, express gratitude, and spend meaningful moments with family and loved ones, Governor Francis Itimai granted government employees four hours of administrative leave. In an administrative notice issued earlier today, Governor Itimai authorized department, office, and agency heads to grant employees four hours of...
+
+## [U.S. officials divided over China spying allegations after Jensen Huang’s return](https://www.japantimes.co.jp/news/2026/11/26/world/politics/us-officials-chinese-spying-huang/)
+
+via Japan Times · 2026-11-26
+
+A central question remains unanswered: Was the woman Huang was having an affair with a Chinese spy?
+
+## [More than 10,000 students to re-sit NCEA Level 2 English exam after glitches](https://www.rnz.co.nz/news/education/2800351/more-than-10-000-students-to-re-sit-ncea-level-2-english-exam-after-glitches)
+
+via RNZ National News · 2026-11-26
+
+Students faced login problems and lost work during online exams on 12 November.
+
+## [$8.9m upgrade of New Plymouth's Brooklands Zoo to go ahead](https://www.rnz.co.nz/news/community/2800257/8-point-9m-upgrade-of-new-plymouth-s-brooklands-zoo-to-go-ahead)
+
+via RNZ National News · 2026-11-26
+
+The council has decided to push ahead with the plan, despite its aim of saving $20 million as part of its long-term process.
+
+## [RNZ Asia, business and technology teams face cuts as fallout continues](https://www.rnz.co.nz/news/country/2791214/rnz-asia-business-and-technology-teams-face-cuts-as-fallout-continues)
+
+via RNZ National News · 2026-11-26
+
+It comes after news rural reporters have also received change proposals.
+
+## [New Zealand falling behind over sexual consent laws, experts warn](https://www.rnz.co.nz/news/crime-and-justice/2800120/new-zealand-falling-behind-over-sexual-consent-laws-experts-warn)
+
+via RNZ National News · 2026-11-26
+
+Reported instances of sexual offences have doubled in a decade, with teenagers the most victimised group according to police data.
+
+## [NZ burying valuable energy source in landfills, biogas company says](https://www.rnz.co.nz/news/environment/2799873/nz-burying-valuable-energy-source-in-landfills-biogas-company-says)
+
+via RNZ National News · 2026-11-26
+
+Ecogas wants to see more waste collection with 622,000 tonnes of food put into landfill each year according to a government report.
+
+## [African insurgents take war to the skies with off-the-shelf drones](https://www.japantimes.co.jp/news/2026/11/26/world/africa-insurgents-war-drones/)
+
+via Japan Times · 2026-11-26
+
+Armed with drones, insurgents in Mali and beyond have robbed government forces of the air superiority they once commanded.
+
+## [DAY 7 - November 26 \| Empower Women and Girls](https://yapstate.gov.fm/post/day-7-november-26-empower-women-and-girls)
+
+via Yap State Government News · 2026-11-26
+
+When women and girls are empowered, families and communities become stronger. THEME: UNITE TO END VIOLENCE AGAINST WOMEN AND CHILDREN. SPEAK UP. TAKE ACTION. PROTECT EVERYONE. EVERY DAY!
+
+## [Mostly stable weather forecast for Taiwan on election day](https://focustaiwan.tw/society/202611260005)
+
+via CNA · 2026-11-26
+
+Taipei, Nov. 26 (CNA) Taiwan will see scattered showers on Thursday, but the rain will give way to mostly sunny to partly cloudy skies by Saturday, election day, according to the Central Weather Administration (CWA).
+
+## [Trump’s newest order curtailing birthright citizenship is blocked by second judge](https://www.japantimes.co.jp/news/2026/11/26/world/trump-birthright-citizenship-judge-block/)
+
+via Japan Times · 2026-11-26
+
+The U.S. president had signed the executive order after the U.S. Supreme Court rejected his initial effort to impose restrictions.
+
+## [Japan may designate secondary capitals in fall 2027, sources say](https://www.japantimes.co.jp/news/2026/11/26/japan/society/secondary-capitals-designation/)
+
+via Japan Times · 2026-11-26
+
+The government is expected to start accepting applications from June next year, aiming to launch the secondary capital system in spring 2028.
+
+## [Person who chopped branches from Ōmārama oak to receive council bill](https://www.rnz.co.nz/news/community/2799252/person-who-chopped-branches-from-omarama-oak-to-receive-council-bill)
+
+via RNZ National News · 2026-11-26
+
+Waitaki mayor Mel Tavendale said the tree had been "well hacked at".
+
+## [U.S. dollar down in Taipei trading](https://focustaiwan.tw/business/202611260004)
+
+via CNA · 2026-11-26
+
+Taipei, Nov. 26 (CNA) The U.S. dollar was traded at NT$33.060 at 10 a.m. Thursday on the Taipei Foreign Exchange, down NT$0.066 from the previous close.
+
+## [Power restored on Ebeye](https://marshallislandsjournal.com/power-restored-on-ebeye/)
+
+via Marshal Islands Journal · 2026-11-26, updated 2026-11-25
+
+Power on Ebeye was fully restored last week, according to MEC. MEC mechanics sent to the island repaired a generator that had been waiting at the Ebeye dock, so Ebeye now has reliable power again. Since one of the two working engines in the power plant went down in late October, Ebeye had been in \[…\]
+
+The post [Power restored on Ebeye](https://marshallislandsjournal.com/power-restored-on-ebeye/) appeared first on [The Marshall Islands Journal](https://marshallislandsjournal.com).
 
 ## [Health NZ hires at least 166 workers back after redundancy](https://www.rnz.co.nz/news/health/2777574/health-nz-hires-at-least-166-workers-back-after-redundancy)
 
-via RNZ National News · 2026-11-25
+via RNZ National News · 2026-11-26
 
 The agency has made hundreds of workers redundant since it was formed in 2022.
 
-## [Pollywood keeps funders at arm's length as it wraps up its 24th year](https://www.rnz.co.nz/news/pacific/2778326/pollywood-keeps-funders-at-arm-s-length-as-it-wraps-up-its-24th-year)
+## [Coroner recommends improvements in midwifery training after woman and baby's deaths](https://www.rnz.co.nz/news/health/2797336/coroner-recommends-improvements-in-midwifery-training-after-woman-and-baby-s-deaths)
+
+via RNZ National News · 2026-11-26
+
+A coroner is warning pregnant women that midwifery registration does not guarantee a standard level of experience after the death of a 33-year-old and her baby.
+
+## [Taiwan headline news](https://focustaiwan.tw/society/202611260003)
+
+via CNA · 2026-11-26
+
+Taipei, Nov. 26 (CNA) The lead stories in major Taiwan dailies on Thursday are as follows:
+
+## [Taiwan shares open higher](https://focustaiwan.tw/business/202611260002)
+
+via CNA · 2026-11-26
+
+Taipei, Nov. 26 (CNA) The Taiwan Stock Exchange's main index opened up 240.56 points at 38,435.99 Thursday on turnover of NT$16.21 billion (US$492.37 million).
+
+## [Guam deserves answers before any sale of mining right](https://www.pacificislandtimes.com/post/guam-deserves-answers-before-any-sale-of-mining-right)
+
+via Pacific Island Times · 2026-11-26
+
+It matters just as much to the people who go out on the water to earn a living. That’s why I join those who are calling for Washington to pause the sale of mining rights near Guam until we know what mining could do to the waters we depend on.
+
+## [5 Rainbow Wahine soccer players earn academic honors](https://www.hawaii.edu/news/2026/11/25/wahine-soccer-academic-honors/)
+
+via University of Hawaiʻi News · 2026-11-26
+
+Rainbow Wahine soccer players earned Academic All-District honors, the fifth consecutive year with at least five honorees.
+
+The post [5 Rainbow Wahine soccer players earn academic honors](https://www.hawaii.edu/news/2026/11/25/wahine-soccer-academic-honors/) first appeared on [University of Hawaiʻi System News](https://www.hawaii.edu/news).
+
+## [Australian billionaire-politician Clive Palmer had Vanuatu diplomatic passports](https://www.pacificislandtimes.com/post/australian-billionaire-politician-clive-palmer-had-vanuatu-diplomatic-passports)
+
+via Pacific Island Times · 2026-11-26
+
+Sydney (OCCRP)--Australian billionaire politician Clive Palmer, along with his wife and nephew, received diplomatic passports and appointments from Vanuatu, according to a parliamentary report in the Pacific nation.
+
+## [Oceania Rugby suspended from World Rugby Council as Fiji questions regional body's relevance](https://www.rnz.co.nz/news/pacific/2793021/oceania-rugby-suspended-from-world-rugby-council-as-fiji-questions-regional-body-s-relevance)
+
+via RNZ National News · 2026-11-26
+
+World Rugby has stripped Oceania Rugby of its council seat pending a governance investigation, while Fiji Rugby chair says the regional body's struggles are holding Pacific unions back.
+
+## [Weight-loss drugs could raise risk of fractures, frailty - experts](https://www.rnz.co.nz/life/wellbeing/weight-loss-drugs-could-raise-risk-of-fractures-frailty-experts)
+
+via RNZ National News · 2026-11-26
+
+Drugs like Ozempic and Wegovy should come with diet and exercise advice and support say NZ's peak exercise industry body.
+
+## [Kapolei City Lights](https://olelo.org/kapolei-city-lights-2/?utm_source=rss&utm_medium=rss&utm_campaign=kapolei-city-lights-2)
+
+via ‘Ōlelo Community Media · 2026-11-25, updated 2026-11-26
+
+The Future Looks Bright in Kapolei Watch LIVE · November 28 · 5:30 PM · ʻŌlelo 54 Some things about live television can only be learned when the cameras start rolling. For students from Hawaiʻi Technology Academy (HTA), their next lesson will unfold beneath the glow of thousands of holiday lights. This year, HTA students \[…\]
+
+The post [Kapolei City Lights](https://olelo.org/kapolei-city-lights-2/) appeared first on [Olelo Community Media](https://olelo.org).
+
+## [Rainbow Wahine volleyball wins Mountain West tournament, earns NCAA automatic bid](https://www.hawaii.edu/news/2026/11/25/wahine-volleyball-wins-mw-tournament/)
+
+via University of Hawaiʻi News · 2026-11-25, updated 2026-11-26
+
+UH has now won 14 conference tournament titles in program history, including 11 in the WAC and two in the Big West.
+
+The post [Rainbow Wahine volleyball wins Mountain West tournament, earns NCAA automatic bid](https://www.hawaii.edu/news/2026/11/25/wahine-volleyball-wins-mw-tournament/) first appeared on [University of Hawaiʻi System News](https://www.hawaii.edu/news).
+
+## [A century of Japanese studies celebrated at 2026 Nippon Culture Day](https://www.hawaii.edu/news/2026/11/25/2026-nippon-culture-day/)
+
+via University of Hawaiʻi News · 2026-11-25, updated 2026-11-26
+
+UH Mānoa celebrated 100 Years of Japanese Studies with cultural activities and performances at Nippon Culture Day.
+
+The post [A century of Japanese studies celebrated at 2026 Nippon Culture Day](https://www.hawaii.edu/news/2026/11/25/2026-nippon-culture-day/) first appeared on [University of Hawaiʻi System News](https://www.hawaii.edu/news).
+
+## [Rainbow Warrior swimmer earns Mountain West Freshman of the Week award](https://www.hawaii.edu/news/2026/11/25/swimmer-freshman-of-the-week/)
+
+via University of Hawaiʻi News · 2026-11-25, updated 2026-11-26
+
+Kristians Brenčs earned his second Freshman of the Week title
+
+The post [Rainbow Warrior swimmer earns Mountain West Freshman of the Week award](https://www.hawaii.edu/news/2026/11/25/swimmer-freshman-of-the-week/) first appeared on [University of Hawaiʻi System News](https://www.hawaii.edu/news).
+
+## [English lessons give older migrants a new lease of life](https://www.rnz.co.nz/news/chinese-english/2790385/english-lessons-give-older-migrants-a-new-lease-of-life)
 
 via RNZ National News · 2026-11-25
 
-Pollywood Pasifika Film Fest 24 is holding its final screening tonight in West Auckland, still operating on goodwill and limited resources.
+Older Chinese migrants who speak little English find that even routine tasks present significant challenges.
 
 ## [Hopes highly automated homes will help physically disabled people live independently](https://www.rnz.co.nz/news/community/2777647/hopes-highly-automated-homes-will-help-physically-disabled-people-live-independently)
 
@@ -34,23 +676,143 @@ via RNZ National News · 2026-11-25
 
 Flynn Mitchell spends as little time as possible at his Auckland flat, even though he's paid to have ramps installed so he can move between rooms.
 
-## [$13k for a cancelled trip: Why Southern Cross thinks you need domestic travel insurance](https://www.rnz.co.nz/news/personal-finance/2777587/13k-for-a-cancelled-trip-why-southern-cross-thinks-you-need-domestic-travel-insurance)
+## [Why buying a used EV could get harder next year](https://www.rnz.co.nz/news/business/2788927/why-buying-a-used-ev-could-get-harder-next-year)
 
 via RNZ National News · 2026-11-25
 
-New Zealanders are planning more expensive domestic holidays but are much less likely to take insurance for them than for international travel, the insurance company says.
+A major shipping suspension could limit the choice of used electric vehicles available to New Zealand buyers next year.
 
-## [Pair of Gottfried Lindauer portraits stolen during ram-raid gifted to Te Papa](https://www.rnz.co.nz/news/te-manu-korihi/2777586/pair-of-gottfried-lindauer-portraits-stolen-during-ram-raid-gifted-to-te-papa)
-
-via RNZ National News · 2026-11-25
-
-The 1884 tūpuna portraits were stolen in a 2017 ram-raid at the International Art Centre in Parnell, and were recovered by police in the Bay of Plenty in 2022, after sustaining significant damage.
-
-## [Homes flood, trees fall amid heavy rain in Otago](https://www.rnz.co.nz/news/weather/2777189/homes-flood-trees-fall-amid-heavy-rain-in-otago)
+## [Football player Shinnichiro Joey Omotani lured drunk woman out of pub before sexual assault](https://www.rnz.co.nz/news/crime-and-justice/2789349/football-player-shinnichiro-joey-omotani-lured-drunk-woman-out-of-pub-before-sexual-assault)
 
 via RNZ National News · 2026-11-25
 
-MetService says the wet weather in Dunedin and North Otago is expected to ease in the next few hours.
+The 28-year-old told a friend that morning that the victim looked 'dead'.
+
+## [Mount Maunganui could reopen next month - but will require support from iwi and trust](https://www.rnz.co.nz/news/emergencies_local/2779823/mount-maunganui-could-reopen-next-month-but-will-require-support-from-iwi-and-trust)
+
+via RNZ National News · 2026-11-25
+
+The Tauranga District Council has spent more than $7 million on its initial response to the fatal Mauao landslide, expert advice and works to reopen the landmark.
+
+## ['My new friend Rylan': Jack Johnson pulls Kiwi fan on stage to perform](https://www.rnz.co.nz/life/music/my-new-friend-rylan-jack-johnson-pulls-kiwi-fan-on-stage-to-perform)
+
+via RNZ National News · 2026-11-25
+
+Rylan Urquhart picked up the guitar as a kid thanks to the American star. Fourteen years later, he found himself on stage performing with his idol.
+
+## [Farmlands appoints new board chair in wake of AgriZeroNZ investment backlash](https://www.rnz.co.nz/news/country/2787591/farmlands-appoints-new-board-chair-in-wake-of-agrizeronz-investment-backlash)
+
+via RNZ National News · 2026-11-25
+
+South Otago dairy and beef farmer, chartered accountant and shareholder director Will Clarke has been appointed as Farmlands' new chair, having won 87 percent of the vote at this week's AGM.
+
+## [The floating classroom teaching kids to protect their environment](https://www.rnz.co.nz/news/pacific/2787420/the-floating-classroom-teaching-kids-to-protect-their-environment)
+
+via RNZ National News · 2026-11-25
+
+A Conservation International initiative in Fiji's remote Totoya Island is pairing elders and teachers aboard a voyaging canoe to bring traditional knowledge back into Pacific classrooms.
+
+## [Paul: Business to benefit](https://marshallislandsjournal.com/paul-business-to-benefit/)
+
+via Marshal Islands Journal · 2026-11-25
+
+Finance Minister David Paul and Taiwan’s Minister of Foreign Affairs Lin Chia-lung on November 20 signed a Memorandum of Understanding to establish a $20 million credit guarantee facility. Paul described the new agreement as “transformative” by reducing the risk for banks in the RMI to lend money to businesses here. The signing ceremony was held \[…\]
+
+The post [Paul: Business to benefit](https://marshallislandsjournal.com/paul-business-to-benefit/) appeared first on [The Marshall Islands Journal](https://marshallislandsjournal.com).
+
+## [Pacific Winds 20261126](https://pcisguam.substack.com/p/pacific-winds-20261126)
+
+via Pacific Center for Island Security · 2026-11-25, updated 2026-11-26
+
+A daily collection of news affecting the Asia-Pacific region
+
+## [Person dies after Waiouru crash](https://www.rnz.co.nz/news/emergencies_local/2781800/person-dies-after-waiouru-crash)
+
+via RNZ National News · 2026-11-25
+
+One person has died following a motorcycle crash in Napier on Thursday, while another died following a crash on State Highway 1, Waiouru on Wednesday.
+
+## [Thanksgiving Day messages from Governor & Congresswoman](https://www.talanei.com/2026/11/25/thanksgiving-day-messages-from-governor-congresswoman/)
+
+via Talanei · 2026-11-25, updated 2026-11-26
+
+Governor Pula’ali’i Nikolao Pula issued the following message for Thanksgiving Day: “As we celebrate the cherished tradition of Thanksgiving, we are called to honor the profound gifts of unity, service, and shared abundance that define our island
+
+## [Family members, friends hopeful missing man will be found](https://www.talanei.com/2026/11/25/family-members-friends-hopeful-missing-man-will-be-found/)
+
+via Talanei · 2026-11-25, updated 2026-11-26
+
+After a full day’s search yesterday, crews from the Department of Search and Rescue and private divers were unable to find 30-year old Tie Lomon of Laulii. While cleaning up the beach on Monday afternoon, he and
+
+## [Exploring the hidden side of Kīlauea volcano](https://www.hawaii.edu/news/2026/11/25/hidden-side-of-kilauea-volcano/)
+
+via University of Hawaiʻi News · 2026-11-25, updated 2026-11-26
+
+The research team will combine seafloor measurements with data collected on land to build a more complete picture of how Kīlauea’s offshore fault system moves.
+
+The post [Exploring the hidden side of Kīlauea volcano](https://www.hawaii.edu/news/2026/11/25/hidden-side-of-kilauea-volcano/) first appeared on [University of Hawaiʻi System News](https://www.hawaii.edu/news).
+
+## [Things to be thankful for](https://www.pacificislandtimes.com/post/things-to-be-thankful-for)
+
+via Pacific Island Times · 2026-11-25, updated 2026-11-26
+
+Even as gas prices increase, we are grateful we have it. The flow is constant and reliable.
+
+## [Gloriavale school closure a chance for parents to rethink lifestyle - former resident](https://www.rnz.co.nz/news/education/2775894/gloriavale-school-closure-a-chance-for-parents-to-rethink-lifestyle-former-resident)
+
+via RNZ National News · 2026-11-25
+
+The High Court has ruled the primary school, which has 80 pupils, must close in December.
+
+## [Is it better to take several short walks or a long one?](https://www.rnz.co.nz/life/wellbeing/is-it-better-to-take-several-short-walks-or-one-long-walk)
+
+via RNZ National News · 2026-11-25
+
+A daily workout and regular "exercise snacks" serve complementary purposes.
+
+## [ASPA responds to Rep Malaeoletalu’s concerns](https://www.talanei.com/2026/11/25/aspa-responds-to-rep-malaeoletalus-concerns/)
+
+via Talanei · 2026-11-25, updated 2026-11-26
+
+The Executive Director of the American Samoa Power Authority, Tupuimatagi Katrina Mariner, has responded to Rep. Malaeoletalu Melesio Gurr’s letter asking for an investigation on whether there’s a connection between the installation of smart meters and the
+
+## [Chef Gordon Ramsay to host new Top Gear series](https://www.rnz.co.nz/life/screens/tv/top-gear-to-return-in-2028-with-celebrity-chef-gordon-ramsay-as-lead-host)
+
+via RNZ National News · 2026-11-25
+
+Top Gear will return in 2028 with celebrity chef Gordon Ramsay as lead host alongside a new lineup of co-presenters, yet to be announced.
+
+## ['Agents of the devil': Outrage in PNG after five women allegedly buried alive over sorcery claims](https://www.rnz.co.nz/news/pacific/2768470/agents-of-the-devil-outrage-in-png-after-five-women-allegedly-buried-alive-over-sorcery-claims)
+
+via RNZ National News · 2026-11-25
+
+Papua New Guinea's government has condemned the killing of five women accused of sorcery in a Southern Highlands village.
+
+## [How a Haast Pass fibre cable is helping researchers measure earthquakes](https://www.rnz.co.nz/news/science-and-technology/2780797/how-a-haast-pass-fibre-cable-is-helping-researchers-measure-earthquakes)
+
+via RNZ National News · 2026-11-25
+
+A Victoria University professor says researchers have used lasers to turn a Chorus fibre optic cable in the Haast Pass into a finely attuned earthquake sensor.
+
+## [Marianas group wants more time to comment on US military exercises](https://www.rnz.co.nz/news/pacific/2780481/marianas-group-wants-more-time-to-comment-on-us-military-exercises)
+
+via RNZ National News · 2026-11-25
+
+An environmental group in CNMI is calling on the US government to extend a public comment period on military exercises that could harm whales and dolphins.
+
+## [District Development Programme Remains in Place](https://talamua.com/?p=63241)
+
+via Talamua · 2026-11-25
+
+Apia, SAMOA – 26 November 2026 – The Government of Samoa confirms that the District Development Programme remains in place and will continue across all constituencies. The Supreme Court’s judgment of 23 November 2026 leaves the Programme and its projects in place. Work already underway in communities will continue. The Court’s orders apply only to \[…\]
+
+The post [District Development Programme Remains in Place](https://talamua.com/?p=63241) appeared first on [Talamua Online](https://talamua.com).
+
+## [WOMAD announces seven more acts for its 2027 line-up](https://www.rnz.co.nz/life/music/womad-aotearoa-adds-seven-more-acts-to-2027-lineup)
+
+via RNZ National News · 2026-11-25
+
+A renowned Nigerian activist and a Palestinian diaspora DJ are among the latest artists announced for the festival.
 
 ## ['Not just a name on a list': Remembering missing Kiwi in Nepal Shweta Mhatre](https://www.rnz.co.nz/news/indonz-featured/2777521/not-just-a-name-on-a-list-remembering-missing-kiwi-in-nepal-shweta-mhatre)
 
@@ -58,17 +820,57 @@ via RNZ National News · 2026-11-25
 
 On the three-month anniversary of the devastating flash floods on the Nepal-China border, a former mentor remembers the missing New Zealander's warmth, generosity and love for life.
 
+## [French Embassy & SROS strengthen partnership on Ocean Protection](https://talamua.com/?p=63235)
+
+via Talamua · 2026-11-25
+
+26 November 2026 – The French Ambassador to Samoa, Mr. Guillaume Lemoine, and the Chief Executive Officer of the Scientific Research Organisation of Samoa (SROS), Dr. Fiame Leo, yesterday signed a new grant agreement for 2026. The French Embassy provided an initial funding of WST$45,000 for 2025. The renewed funding of WST$22,850 will support the \[…\]
+
+The post [French Embassy & SROS strengthen partnership on Ocean Protection](https://talamua.com/?p=63235) appeared first on [Talamua Online](https://talamua.com).
+
+## [2026 HIKI NŌ on PBS Hawaiʻi Fall Compilation Show HIKI NŌ](https://www.pbshawaii.org/2026-hiki-no-on-pbs-hawai%ca%bbi-fall-compilation-show-hiki-no/)
+
+via HIKI NŌ ON PBS HAWAIʻI · 2026-11-25
+
+Watch a special collection of student-produced stories from this 2026 fall season.
+
+The post [2026 HIKI NŌ on PBS Hawaiʻi Fall Compilation Show HIKI NŌ](https://www.pbshawaii.org/2026-hiki-no-on-pbs-hawai%ca%bbi-fall-compilation-show-hiki-no/) appeared first on [PBS Hawai‘i](https://www.pbshawaii.org).
+
+## [ACC’s ‘fully operational’ AI tool is finding claimants for staff to consider removing from its books](https://www.rnz.co.nz/news/political/2775506/acc-s-fully-operational-ai-tool-is-finding-claimants-for-staff-to-consider-removing-from-its-books)
+
+via RNZ National News · 2026-11-25
+
+The model is much better and faster than staff at finding cases to review and potentially suspend.
+
+## [Pair of Gottfried Lindauer portraits stolen during ram-raid gifted to Te Papa](https://www.rnz.co.nz/news/te-manu-korihi/2777586/pair-of-gottfried-lindauer-portraits-stolen-during-ram-raid-gifted-to-te-papa)
+
+via RNZ National News · 2026-11-25
+
+The 1884 tūpuna portraits were stolen in a 2017 ram-raid at the International Art Centre in Parnell, and were recovered by police in the Bay of Plenty in 2022, after sustaining significant damage.
+
+## [Pollywood keeps funders at arm's length as it wraps up its 24th year](https://www.rnz.co.nz/news/pacific/2778326/pollywood-keeps-funders-at-arm-s-length-as-it-wraps-up-its-24th-year)
+
+via RNZ National News · 2026-11-25
+
+Pollywood Pasifika Film Fest 24 is holding its final screening tonight in West Auckland, still operating on goodwill and limited resources.
+
+## [$13k for a cancelled trip: Why Southern Cross thinks you need domestic travel insurance](https://www.rnz.co.nz/news/personal-finance/2777587/13k-for-a-cancelled-trip-why-southern-cross-thinks-you-need-domestic-travel-insurance)
+
+via RNZ National News · 2026-11-25
+
+New Zealanders are planning more expensive domestic holidays but are much less likely to take insurance for them than for international travel, the insurance company says.
+
+## [Homes flood, trees fall amid heavy rain in Otago](https://www.rnz.co.nz/news/weather/2777189/homes-flood-trees-fall-amid-heavy-rain-in-otago)
+
+via RNZ National News · 2026-11-25
+
+MetService says the wet weather in Dunedin and North Otago is expected to ease in the next few hours.
+
 ## [Police director Rachael Bambery under scrutiny, investigation overseen by IPCA](https://www.rnz.co.nz/news/crime-and-justice/2775508/police-director-rachael-bambery-under-scrutiny-investigation-overseen-by-ipca)
 
 via RNZ National News · 2026-11-25
 
 It's been a year since Bambery was criticised in a scathing report by the police watchdog in relation to disgraced former Deputy Commissioner Jevon McSkimming.
-
-## [Gloriavale school closure a chance for parents to rethink lifestyle - former resident](https://www.rnz.co.nz/news/education/2775894/gloriavale-school-closure-a-chance-for-parents-to-rethink-lifestyle-former-resident)
-
-via RNZ National News · 2026-11-25
-
-The High Court has ruled the primary school, which has 80 pupils, must close in December.
 
 ## [New fine for those ignoring seafood collecting ban in Auckland, Coromandel](https://www.rnz.co.nz/news/environment/2775893/new-fine-for-those-ignoring-seafood-collecting-ban-in-auckland-coromandel)
 
@@ -102,7 +904,7 @@ Today’s headlines: Donald Trump, Senate, Miss Universe
 
 ## [Construction begins on Guam's new public market for local produce](https://www.pacificislandtimes.com/post/construction-begins-on-guam-s-new-public-market-for-local-produce)
 
-via Pacific Island Times · 2026-11-25
+via Pacific Island Times · 2026-11-25, updated 2026-11-26
 
 Officials and contractors broke ground Tuesday on a $1.3 million public market project in Sinajana, which will provide a new commercial facility for local farmers and vendors.
 
@@ -192,7 +994,7 @@ via Rappler · 2026-11-25
 
 ## [Guam archbishop: Don’t lose humanity in the age of AI](https://www.pacificislandtimes.com/post/guam-archbishop-don-t-lose-humanity-in-the-age-of-ai)
 
-via Pacific Island Times · 2026-11-25
+via Pacific Island Times · 2026-11-25, updated 2026-11-26
 
 Archbishop Ryan Jimenez urged caution in using artificial intelligence, saying the technology must not diminish people’s concern for one another.
 
@@ -204,7 +1006,7 @@ Izumi's proposal comes as Japan moves away from a two-party system due to the we
 
 ## [Carbon emissions of biggest US data centers already rival entire countries, study reveals](https://www.hawaiitribune-herald.com/2026/11/25/nation-world-news/carbon-emissions-of-biggest-us-data-centers-already-rival-entire-countries-study-reveals/)
 
-via Hawaii Tribune Harold · 2026-11-25
+via Hawaii Tribune Harold · 2026-11-25, updated 2026-11-26
 
 The largest data centers in the United States are responsible for an estimated 25.7 million metric tons of carbon dioxide emissions annually — almost as much as entire countries like Bolivia or Denmark — according to new research.
 
@@ -212,7 +1014,7 @@ The post [Carbon emissions of biggest US data centers already rival entire count
 
 ## [Longest hug ever? Two Hilo women to attempt a nearly 38-hour embrace for charity](https://www.hawaiitribune-herald.com/2026/11/25/hawaii-news/longest-hug-ever-two-hilo-woman-to-attempt-a-nearly-38-hour-embrace-for-charity/)
 
-via Hawaii Tribune Harold · 2026-11-25
+via Hawaii Tribune Harold · 2026-11-25, updated 2026-11-26
 
 Hilo could soon have a new claim to fame: the location of the world’s longest hug.
 
@@ -220,7 +1022,7 @@ The post [Longest hug ever? Two Hilo women to attempt a nearly 38-hour embrace f
 
 ## [Hawaii volunteer named to GoFundMe’s ‘Kind 50’ list](https://www.hawaiitribune-herald.com/2026/11/25/hawaii-news/hawaii-volunteer-named-to-gofundmes-kind-50-list/)
 
-via Hawaii Tribune Harold · 2026-11-25
+via Hawaii Tribune Harold · 2026-11-25, updated 2026-11-26
 
 Kenna Reed, a Hawaii volunteer who helped connect thousands of disaster survivors with direct financial assistance, has been named to GoFundMe’s inaugural “Kind 50” list recognizing 50 people and organizations whose acts of kindness have helped others over the past year.
 
@@ -228,7 +1030,7 @@ The post [Hawaii volunteer named to GoFundMe’s ‘Kind 50’ list](https://www
 
 ## [US malls make a holiday comeback as shoppers seek more than deals](https://www.hawaiitribune-herald.com/2026/11/25/nation-world-news/us-malls-make-a-holiday-comeback-as-shoppers-seek-more-than-deals/)
 
-via Hawaii Tribune Harold · 2026-11-25
+via Hawaii Tribune Harold · 2026-11-25, updated 2026-11-26
 
 LOS ANGELES — U.S. mall owners and retailers are betting they can draw online shoppers with an experience they can’t get from their screens: a festive day out.
 
@@ -236,7 +1038,7 @@ The post [US malls make a holiday comeback as shoppers seek more than deals](htt
 
 ## [Elon Musk asks US appeals court to throw out Twitter fraud verdict](https://www.hawaiitribune-herald.com/2026/11/25/nation-world-news/elon-musk-asks-us-appeals-court-to-throw-out-twitter-fraud-verdict/)
 
-via Hawaii Tribune Harold · 2026-11-25
+via Hawaii Tribune Harold · 2026-11-25, updated 2026-11-26
 
 Elon Musk asked a federal appeals court to overturn a jury verdict finding he defrauded Twitter shareholders out of billions of dollars by threatening to abandon his purchase of the social media company four years ago.
 
@@ -244,7 +1046,7 @@ The post [Elon Musk asks US appeals court to throw out Twitter fraud verdict](ht
 
 ## [News in brief for November 25](https://www.hawaiitribune-herald.com/2026/11/25/nation-world-news/news-in-brief-for-november-25-2/)
 
-via Hawaii Tribune Harold · 2026-11-25
+via Hawaii Tribune Harold · 2026-11-25, updated 2026-11-26
 
 US officials to testify before
 Congress on air travel ground stop
@@ -253,7 +1055,7 @@ The post [News in brief for November 25](https://www.hawaiitribune-herald.com/20
 
 ## [Detonation in Iowa is on track for Wednesday, but weather adds to risks](https://www.hawaiitribune-herald.com/2026/11/25/nation-world-news/detonation-in-iowa-is-on-track-for-wednesday-but-weather-adds-to-risks/)
 
-via Hawaii Tribune Harold · 2026-11-25
+via Hawaii Tribune Harold · 2026-11-25, updated 2026-11-26
 
 MIDDLETOWN, Iowa — As worries mounted over a planned detonation of toxic materials in Iowa, government and military officials sought to reassure people Tuesday that the explosion would be handled safely and said that residents around the city of Middletown may be evacuated.
 
@@ -261,7 +1063,7 @@ The post [Detonation in Iowa is on track for Wednesday, but weather adds to risk
 
 ## [Trump awards Rudy Giuliani the Medal of Freedom](https://www.hawaiitribune-herald.com/2026/11/25/nation-world-news/trump-awards-rudy-giuliani-the-medal-of-freedom/)
 
-via Hawaii Tribune Harold · 2026-11-25
+via Hawaii Tribune Harold · 2026-11-25, updated 2026-11-26
 
 WASHINGTON — President Donald Trump on Tuesday awarded the Medal of Freedom, the country’s highest civilian honor, to Rudy Giuliani, the former New York mayor who became a national figure after the September 11, 2001, attacks and later helped Trump try to overturn his 2020 election defeat.
 
@@ -269,7 +1071,7 @@ The post [Trump awards Rudy Giuliani the Medal of Freedom](https://www.hawaiitri
 
 ## [US farm secretary pledges to fight court order halting her religious emails](https://www.hawaiitribune-herald.com/2026/11/25/nation-world-news/us-farm-secretary-pledges-to-fight-court-order-halting-her-religious-emails/)
 
-via Hawaii Tribune Harold · 2026-11-25
+via Hawaii Tribune Harold · 2026-11-25, updated 2026-11-26
 
 WASHINGTON — US Agriculture Secretary Brooke Rollins pledged on Tuesday to challenge a court ruling that ordered her to stop sending religious emails to employees from her official account.
 
@@ -277,7 +1079,7 @@ The post [US farm secretary pledges to fight court order halting her religious e
 
 ## [US lawmakers raise alarm at FAA decision to deploy aviation AI tool nationally](https://www.hawaiitribune-herald.com/2026/11/25/nation-world-news/us-lawmakers-raise-alarm-at-faa-decision-to-deploy-aviation-ai-tool-nationally/)
 
-via Hawaii Tribune Harold · 2026-11-25
+via Hawaii Tribune Harold · 2026-11-25, updated 2026-11-26
 
 WASHINGTON — A group of two dozen House Democrats on Tuesday raised serious concerns about the Federal Aviation Administration decision to deploy a new AI tool to assist air traffic controllers nationwide on November 10, days before a major system failure.
 
@@ -285,7 +1087,7 @@ The post [US lawmakers raise alarm at FAA decision to deploy aviation AI tool na
 
 ## [Bill aims to clear hurdle to medication for people with opioid addiction](https://www.hawaiitribune-herald.com/2026/11/25/nation-world-news/bill-aims-to-clear-hurdle-to-medication-for-people-with-opioid-addiction/)
 
-via Hawaii Tribune Harold · 2026-11-25
+via Hawaii Tribune Harold · 2026-11-25, updated 2026-11-26
 
 NEW YORK — A pair of Democratic U.S. lawmakers on Tuesday unveiled a bill aimed at improving access to buprenorphine, a medication that can effectively treat opioid addiction but is not commonly used.
 
@@ -293,7 +1095,7 @@ The post [Bill aims to clear hurdle to medication for people with opioid addicti
 
 ## [US consumer confidence jumps to highest level in nearly two years](https://www.hawaiitribune-herald.com/2026/11/25/nation-world-news/us-consumer-confidence-jumps-to-highest-level-in-nearly-two-years/)
 
-via Hawaii Tribune Harold · 2026-11-25
+via Hawaii Tribune Harold · 2026-11-25, updated 2026-11-26
 
 WASHINGTON — U.S. consumer confidence increased more than expected in November, touching its highest level in nearly two years, amid optimism over labor market conditions and the overall economy following this month’s midterm elections.
 
@@ -301,7 +1103,7 @@ The post [US consumer confidence jumps to highest level in nearly two years](htt
 
 ## [Nvidia board’s Huang reversal raises doubts about independence, critics say](https://www.hawaiitribune-herald.com/2026/11/25/nation-world-news/nvidia-boards-huang-reversal-raises-doubts-about-independence-critics-say/)
 
-via Hawaii Tribune Harold · 2026-11-25
+via Hawaii Tribune Harold · 2026-11-25, updated 2026-11-26
 
 BOSTON/NEW YORK — Nvidia’s board undermined its claims of independence by reinstating CEO Jensen Huang before investigations into his conduct concluded, investors and corporate governance experts said on Monday.
 
@@ -309,11 +1111,19 @@ The post [Nvidia board’s Huang reversal raises doubts about independence, crit
 
 ## [House Democrats expand probe into Trump Jr.’s investments](https://www.hawaiitribune-herald.com/2026/11/25/nation-world-news/house-democrats-expand-probe-into-trump-jr-s-investments/)
 
-via Hawaii Tribune Harold · 2026-11-25
+via Hawaii Tribune Harold · 2026-11-25, updated 2026-11-26
 
 WASHINGTON — U.S. House Democrats probing Donald Trump Jr.’s business dealings have sought records from prediction market firm Polymarket, vaping company Juul and two other companies tied to 1789 Capital, the venture capital firm where the president’s son is a partner.
 
 The post [House Democrats expand probe into Trump Jr.’s investments](https://www.hawaiitribune-herald.com/2026/11/25/nation-world-news/house-democrats-expand-probe-into-trump-jr-s-investments/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
+
+## [Obituaries for November 25](https://www.hawaiitribune-herald.com/2026/11/25/obituaries/obituaries-for-november-25-10/)
+
+via Hawaii Tribune Harold · 2026-11-25, updated 2026-11-26
+
+Zoltan Magony 73, of Hawaii Island, died on June 21. Survivors are asked to call Hilo Benioff Medical Center’s Department of Pathology at 808-932-3500, option 4.
+
+The post [Obituaries for November 25](https://www.hawaiitribune-herald.com/2026/11/25/obituaries/obituaries-for-november-25-10/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
 
 ## [BOJ’s faster inflation indicator backs case for another hike](https://www.japantimes.co.jp/business/2026/11/25/economy/boj-inflation-indicator-hike/)
 
@@ -425,7 +1235,7 @@ The epidemic has killed more than 5,800 people since May.
 
 ## [Machbab and FMI Advance in Varsity Volleyball Semifinals](https://yapstate.gov.fm/post/machbab-and-fmi-advance-in-varsity-volleyball-semifinals)
 
-via Yap State Government News · 2026-11-25
+via Yap State Government News · 2026-11-25, updated 2026-11-26
 
 Wednesday, November 25, 2026 /// DYCA PIO Yap FM - The Yap varsity volleyball semifinals continued Tuesday evening, November 24, at the Yap Sports Complex, with Machbab and FMI securing victories in their respective divisions and advancing in the tournament. The girls’ semifinal matchup featured Yap High School (YHS) against Machbab. Machbab delivered a strong performance, winning the first two sets, 25–13 and 25–13. YHS responded in the third set with a close 26–24 victory, but Machbab...
 
@@ -437,7 +1247,7 @@ This week a Consumer NZ investigation revealed conflicting claims and confusion 
 
 ## [FSM Department of Health and Social Affairs Delegation Meets with Yap Governor to Discuss Family Protection and Community Support](https://yapstate.gov.fm/post/fsm-department-of-health-and-social-affairs-delegation-meets-with-yap-governor-to-discuss-family-pro)
 
-via Yap State Government News · 2026-11-25
+via Yap State Government News · 2026-11-25, updated 2026-11-26
 
 Wednesday, November 25, 2026 /// DYCA PIO Yap FM - A visiting delegation from the FSM Department of Health and Social Affairs met with Governor Francis Itimai and Yap State officials during a courtesy call held Tuesday, November 24, 2026, at 3:00 p.m. at the Governor’s Office to discuss family protection legislation, survivor-support services, and community programs aimed at strengthening the safety and well-being of women, children, and families. The delegation included Assistant Secretary...
 
@@ -545,7 +1355,7 @@ Dunedin councillors agreed today to keep the pool operating under its current se
 
 ## [CNMI opens Disaster Unemployment Assistance for Typhoon Bavi](https://www.pacificislandtimes.com/post/cnmi-opens-disaster-unemployment-assistance-for-typhoon-bavi)
 
-via Pacific Island Times · 2026-11-25
+via Pacific Island Times · 2026-11-25, updated 2026-11-26
 
 Super Typhoon Bavi left a trail of destruction after making landfall on Rota on July 6, 2026. File photo by Brian Manabat/Pacific Island Times By Pacific Island Times News Staff Saipan— The CNMI Department of Labor announced that federal Disaster Unemployment Assistance will be available beginning Dec. 2 for workers and self-employed individuals on Rota whose employment was affected by Super Typhoon Bavi. The assistance program follows a presidential disaster declaration issued Aug. 3 for the...
 
@@ -587,7 +1397,7 @@ Local governments are welcoming the trend, as they hope to balance the preservat
 
 ## [Papua New Guinea has the largest HIV epidemic in the Pacific, UN report says](https://www.pacificislandtimes.com/post/papua-new-guinea-has-the-largest-hiv-epidemic-in-the-pacific-un-report-says)
 
-via Pacific Island Times · 2026-11-25
+via Pacific Island Times · 2026-11-25, updated 2026-11-26
 
 "Many smaller Pacific island countries lack recent reliable HIV
 
@@ -661,7 +1471,7 @@ New legislation aims to reduce online harm by requiring providers such as social
 
 ## [PUBLIC NOTICE: YSPSC - Vehicle Auction Notice](https://yapstate.gov.fm/post/public-notice-yspsc-vehicle-auction-notice)
 
-via Yap State Government News · 2026-11-25
+via Yap State Government News · 2026-11-25, updated 2026-11-26
 
 Opening Date: November 25, 2026 Closing Date: December 10, 2026 The public is hereby invited to participate in a first-price sealed-bid auction for the sale of the following USED vehicles: Item No. Vehicle Description Year VIN 1 Honda CRV SUV 1996 RD1-1084802 2 Mazda B2900 Pickup Truck 2006 MTUNY08260417261 3 Mazda B2900 Pickup Truck 2002 MM7UNY08260417136 Auction Details: Bidding opens on November 25, 2026, and closes at 4:30 PM on December 10, 2026. All bids must be submitted in sealed...
 
@@ -697,7 +1507,7 @@ Approximately 1.68 million client accounts had their asset balance data leaked, 
 
 ## [DAY 6 – NOVEMBER 25 \| INTERNATIONAL DAY FOR THE ELIMINATION OF VIOLENCE AGAINST WOMEN.](https://yapstate.gov.fm/post/day-6-november-25-international-day-for-the-elimination-of-violence-against-women)
 
-via Yap State Government News · 2026-11-25
+via Yap State Government News · 2026-11-25, updated 2026-11-26
 
 DAY 6 – NOVEMBER 25 \| INTERNATIONAL DAY FOR THE ELIMINATION OF VIOLENCE AGAINST WOMEN. Say NO to violence against women and girls. Every woman deserves safety, dignity, and respect. THEME: UNITE TO END VIOLENCE AGAINST WOMEN AND CHILDREN. SPEAK UP. TAKE ACTION. PROTECT EVERYONE. EVERY DAY!
 
@@ -721,7 +1531,7 @@ Taipei, Nov. 25 (CNA) The lead stories in major Taiwan dailies on Wednesday are 
 
 ## [Education PhD student’s Animal Coding game earns international recognition](https://www.hawaii.edu/news/2026/11/24/phd-students-animal-coding/)
 
-via University of Hawaiʻi News · 2026-11-25
+via University of Hawaiʻi News · 2026-11-25, updated 2026-11-26
 
 Genta Togashi was presented with the 2026 Outstanding Digital Learning Artifact Award.
 
@@ -735,13 +1545,13 @@ The crash involved three vehicles and was blocking two lanes.
 
 ## [Solomon Islands, Australia sign new treaty to keep foreign military bases out](https://www.rnz.co.nz/news/pacific/2771868/solomon-islands-australia-sign-new-treaty-to-keep-foreign-military-bases-out)
 
-via RNZ National News · 2026-11-25
+via RNZ Pacific News · 2026-11-25
 
 Solomon Islands has singed a sweeping new treaty with Australia that will ensure there is "no foreign military or security base" in the island nation.
 
 ## [UH students help Kalihi youth envision safer spaces](https://www.hawaii.edu/news/2026/11/24/safer-spaces-in-kalihi/)
 
-via University of Hawaiʻi News · 2026-11-25
+via University of Hawaiʻi News · 2026-11-25, updated 2026-11-26
 
 UH Mānoa students partner with Kalihi youth to explore safer neighborhood spaces through community-driven research.
 
@@ -773,7 +1583,7 @@ Marty Grenfell was paid an additional severance payment of $130,792, plus $21,52
 
 ## [Rainbow Wahine volleyball racks up All-Mountain West awards](https://www.hawaii.edu/news/2026/11/24/volleyball-all-mountain-west-awards/)
 
-via University of Hawaiʻi News · 2026-11-25
+via University of Hawaiʻi News · 2026-11-25, updated 2026-11-26
 
 Seven players and head coach Joshua Walker earned conference recognition.
 
@@ -793,7 +1603,7 @@ Nearly a quarter of a tonne of drugs traded on the dark web have been seized.
 
 ## [Beyond medicine: Building connections, community at UH](https://www.hawaii.edu/news/2026/11/24/building-connection-community/)
 
-via University of Hawaiʻi News · 2026-11-25
+via University of Hawaiʻi News · 2026-11-25, updated 2026-11-26
 
 UH medical school event brings together community organizations to encourage connections beyond the workplace.
 
@@ -801,7 +1611,7 @@ The post [Beyond medicine: Building connections, community at UH](https://www.ha
 
 ## [Former Te Pāti Māori co-leader Te Ururoa Flavell slams ACT's Māori seats referendum idea](https://www.rnz.co.nz/news/political/2768972/former-te-pati-maori-co-leader-te-ururoa-flavell-slams-act-s-maori-seats-referendum-idea)
 
-via RNZ National News · 2026-11-24
+via RNZ Te Ao Māori · 2026-11-24
 
 Labour’s Willie Jackson told Midday Report scrapping the seats would see protests larger than those in opposition to the Treaty Principles Bill.
 
@@ -811,23 +1621,47 @@ via RNZ National News · 2026-11-24
 
 Ryman Healthcare's operating earnings rose to $62.4m, but property revaluations widened its net loss to $71.2m.
 
+## [Permanent residents told they won’t be eligible for Medicare in 2027](https://www.talanei.com/2026/11/24/permanent-residents-told-they-wont-be-eligible-for-medicare-in-2027/)
+
+via Talanei · 2026-11-24, updated 2026-11-26
+
+Local permanent residents who have been paying for Medicare have been sent letters by the Social Security Administration that effective February 1, 2027 they will no longer be eligible to receive Medicare benefits. Medicare covers inpatient hospital
+
+## [Divers join search for missing 30 year old man](https://www.talanei.com/2026/11/24/divers-join-search-for-missing-30-year-old-man/)
+
+via Talanei · 2026-11-24, updated 2026-11-26
+
+Private divers are helping in the search for a resident of Laulii who was washed out to sea Monday afternoon. The missing man has been identified as 30 year old Tie Lomon. While Rep Luaitaua Gene Pan
+
 ## [A time for hope, unity and progress](https://www.pacificislandtimes.com/post/a-time-for-hope-unity-and-progress)
 
-via Pacific Island Times · 2026-11-24, updated 2026-11-25
+via Pacific Island Times · 2026-11-24, updated 2026-11-26
 
 Now that the 2026 general election results have been certified, I find myself feeling hopeful about the future of our island. Elections often bring spirited debates, differing opinions, and strong emotions, but they also provide an opportunity for a fresh start and a renewed sense of purpose.
 
+## [Talofa Airways is continuing inter-Samoa flights](https://www.talanei.com/2026/11/24/talofa-airways-is-continuing-inter-samoa-flights/)
+
+via Talanei · 2026-11-24, updated 2026-11-26
+
+Talofa Airways is continuing flights on the inter Samoa route. An airline spokesperson said a company statement about the landing incident on Monday will await a report from the pilot and engineers. Talofa Airways Flight 502 had
+
 ## [French forces seize more than 3.3 tonnes of meth on tanker near French Polynesia](https://www.rnz.co.nz/news/pacific/2771094/french-forces-seize-more-than-3-point-3-tonnes-of-meth-on-tanker-near-french-polynesia)
 
-via RNZ National News · 2026-11-24
+via RNZ Pacific News · 2026-11-24
 
 More than 3.3 tonnes of methamphetamine has been seized from an unflagged light oil tanker near French Polynesia by the French military.
 
 ## [Hundreds of taonga pounamu heading to China for an international exhibition](https://www.rnz.co.nz/life/culture/hundreds-of-taonga-pounamu-heading-to-china-for-an-international-exhibition)
 
-via RNZ National News · 2026-11-24
+via RNZ Te Ao Māori · 2026-11-24
 
 "For us \[it's\] an extraordinary opportunity to share the stories of pounamu and the people of Te Waipounamu with an international audience," Canterbury Museum's deputy director says.
+
+## [Homeowner thankful home was spared](https://www.talanei.com/2026/11/24/homeowner-thankful-home-was-spared/)
+
+via Talanei · 2026-11-24, updated 2026-11-26
+
+Home owner Mary Anderson thanks God that her home in Malaeimi was spared and did not go up in smoke. She said between 6 and 7  Tuesday morning, electrical wiring in a storage room caught fire.  Luckily
 
 ## [Christchurch beauty queen competing for Miss Universe crown](https://www.rnz.co.nz/life/lifestyle/style/christchurch-beauty-queen-competing-for-miss-universe-crown)
 
@@ -837,7 +1671,7 @@ Georgia Waddington will represent New Zealand in the Miss Universe contest in Pu
 
 ## [World's deepest explosive volcanic activity discovered in Mariana Trench](https://www.rnz.co.nz/news/pacific/2770594/world-s-deepest-explosive-volcanic-activity-discovered-in-mariana-trench)
 
-via RNZ National News · 2026-11-24
+via RNZ Pacific News · 2026-11-24
 
 Scientists exploring the Mariana Trench in the western Pacific have discovered evidence of the world's deepest known explosive volcanic eruptions.
 
@@ -891,7 +1725,7 @@ Around two-thirds of students work jobs while studying, according to a new repor
 
 ## [Pacific Winds 20261125](https://pcisguam.substack.com/p/pacific-winds-20261125)
 
-via Pacific Center for Island Security · 2026-11-24, updated 2026-11-25
+via Pacific Center for Island Security · 2026-11-24, updated 2026-11-26
 
 A daily collection of news affecting the Asia-Pacific region
 
@@ -901,17 +1735,23 @@ via RNZ National News · 2026-11-24
 
 Russel Norman called on the government to reinsert the moratorium on dairy conversions to prevent excess milk being wasted.
 
+## [ASCC Awards Fall 2026 In-House Scholarships](https://www.talanei.com/2026/11/24/ascc-awards-fall-2026-in-house-scholarships/)
+
+via Talanei · 2026-11-24, updated 2026-11-26
+
+The American Samoa Community College (ASCC) has awarded its Fall 2026 Presidential Merit Scholarships and Saili le Atamai Scholarships. The Presidential Merit Scholarship, for which US citizens and nationals may apply, has been awarded to Mr. Lama
+
 ## [Search continues for man swept out to sea in Lauli’i](https://www.talanei.com/2026/11/24/search-continues-for-man-swept-out-to-sea-in-laulii/)
 
-via Talanei · 2026-11-24
+via Talanei · 2026-11-24, updated 2026-11-26
 
 A search will continue this morning for a man who was swept off to sea yesterday afternoon in Lauli’i. The man in his 30’s had been picking up trash along the beach, and is believed to have
 
-## ['Agents of the devil': Outrage in PNG after five women allegedly buried alive over sorcery claims](https://www.rnz.co.nz/news/pacific/2768470/agents-of-the-devil-outrage-in-png-after-five-women-allegedly-buried-alive-over-sorcery-claims)
+## [Samoa Victim Support Group wins UNESCO prize](https://www.talanei.com/2026/11/24/samoa-victim-support-group-wins-unesco-prize/)
 
-via RNZ Pacific News · 2026-11-24
+via Talanei · 2026-11-24, updated 2026-11-26
 
-Papua New Guinea's government has condemned the killing of five women accused of sorcery in a Southern Highlands village.
+The Samoa Victim Support Group (SVSG) has become the first organization from the Pacific to receive the UNESCO-Madanjeet Singh Prize for the Promotion of Tolerance and Non-Violence. SVSG was officially presented with the international award at a
 
 ## [Consumer calls out Kmart's 'wild double standard' over asbestos sand](https://www.rnz.co.nz/news/health/2767591/consumer-calls-out-kmart-s-wild-double-standard-over-asbestos-sand)
 
@@ -921,7 +1761,7 @@ The watchdog has found "serious gaps" in the country's product safety system, a 
 
 ## [Concussions can negatively affect student-athletes’ academic performance](https://www.hawaii.edu/news/2026/11/24/concussions-academic-performance/)
 
-via University of Hawaiʻi News · 2026-11-24, updated 2026-11-25
+via University of Hawaiʻi News · 2026-11-24, updated 2026-11-26
 
 Researchers found that the effects were most pronounced among students who experienced repeated concussions.
 
@@ -997,9 +1837,65 @@ via RNZ Pacific News · 2026-11-24
 
 Three Pacific governments have stepped up their response to ongoing El Niño droughts in their nations.
 
+## [Tama'ita'i Ola Naunau spreading Thanksgiving cheer this year](https://www.samoanews.com/tamaitai-ola-naunau-spreading-thanksgiving-cheer-yeartamaitai-ola-naunau-spreading-thanksgiving)
+
+via Samoa News · 2026-11-24
+
+[![Serita Savai'inaea Pisa, Suafa Sualoa Fa'asulu, and Joanne Puletasi Collins](https://www.samoanews.com/sites/default/files/styles/slideshow/public/field/image/founding_members.jpeg?itok=uJLrViKQ)](https://www.samoanews.com/sites/default/files/styles/article_normal_image/public/field/image/founding_members.jpeg?itok=QeAkAH4x)
+
+By
+
+Asi Andrew Fa'asau
+
+andrew@samoanews.com
+
+_Pago Pago, AMERICAN SAMOA —_ Spreading holiday cheer and gratitude to patients at the LBJ Dialysis Unit is the focus of a Thanksgiving outreach initiative organized by the Tama'ita'i Ola Naunau nonprofit organization.
+
+According to the organization’s president, Suafa Fa'asulu, who is also a dialysis patient, the idea for the initiative was born last year while she was sitting in the Dialysis Unit lobby with two other women, waiting for their treatment sessions. As they talked, the group discussed ways they could bring comfort and encouragement to fellow patients undergoing dialysis, especially during the Thanksgiving season.
+
+“It was depressing listening to patients talk about the lifestyle changes dialysis had forced on them and the adjustments they had to make for treatments every two or three days,” Fa'asulu said. “Many complained about the inconvenience and talked about improvements they wished could be made to the facility. The atmosphere was often one of doom and gloom.
+
+“We decided we wanted to do something to bring a little cheer to our fellow patients, and Thanksgiving seemed like the perfect time. We wanted to remind everyone that despite our health problems, we still have reasons to be grateful. By God's grace, we are still alive, and that's something worth giving thanks for.”
+
+From those conversations, Tama'ita'i Ola Naunau was born. The nonprofit organization was founded by three women determined to bring hope and encouragement to their fellow dialysis patients: Suafa Fa'asulu, Serita Pisa, and Joanne Collins.
+
+The LBJ Dialysis Unit operates one of the territory's largest specialized treatment programs, with 32 dialysis stations providing life-sustaining care to patients suffering from kidney failure.
+
+Hemodialysis, the most common form of dialysis treatment, uses a machine to clean and filter a patient's blood, performing the vital functions that healthy kidneys would normally carry out. Treatments typically last between three and four hours and are generally required three times a week. According to patients, the unit's clientele is divided into four treatment shifts that run throughout the day, from midnight until 8 p.m.
+
+Fa'asulu said the organization's first goal was to raise enough funds to provide Thanksgiving gifts for the 32 patients in their treatment shift, who undergo hemodialysis sessions from 5:30 a.m. to 11:00 a.m. Their fundraising efforts paid off, allowing the group to present each patient with a turkey as a Thanksgiving gift and a reminder that they were not alone in their journey.
+
+Building on that momentum, the group organized an end-of-year celebration held on December 23, 2025 at Jade Restaurant in Nu'uuli. More than 50 dialysis patients and their family members attended the gathering, which provided an opportunity for patients to socialize, share their experiences, and enjoy an evening away from the challenges of their medical routines.
+
+"It was a resounding success, and everyone enjoyed themselves," Fa'asulu said. "Of course, none of it would have been possible without God's blessings and guidance. We are deeply grateful for the unwavering support of our families, friends, Fono members from Manu'a, government agencies, local businesses, and private donors who contributed so generously to make the event possible."
+
+She said the overwhelming response reinforced the club's mission of supporting dialysis patients not only through practical assistance but also by fostering fellowship, gratitude, and a sense of community among those facing similar health challenges.
+
+The Tama'ita'i Ola Naunau Club plans to continue its tradition of giving back this Thanksgiving with a similar outreach initiative for patients in the next dialysis treatment shift, whose hemodialysis sessions run from 10:30 a.m. to 2:00 p.m.
+
+The event is scheduled to take place at the LBJ Dialysis Unit at 9:00 a.m. on Wednesday, November 24, 2026, and is expected to benefit another 32 patients. Rather than distributing turkeys on-site, patients will receive vouchers that can be redeemed for turkeys at designated local stores.
+
+In recognition of the support and dedication of the medical professionals and staff who care for dialysis patients throughout the year, the Tama'ita'i Ola Naunau Club has also provided turkeys for members of the Dialysis Unit administration, including Clinic Director RN Olita Tafiti, Facility Administrator Savali Ulutū, and Dr. Cabio Alvin Marasigan.
+
+Fa'asulu, a native of Faleasao, Manu'a, expressed heartfelt gratitude to the many individuals and organizations whose generosity made the Thanksgiving outreach possible. She extended special thanks to Manu'a's representatives in the House of Representatives, Fetu Fetui Jr., Alumamalu Ale Sea Filoiali'i, and Tiaoalii Fauagiga Sai, as well as Manu'a senators Ma'o Fa'auma Gogo, Tuialu'ulu'u Vaimili Tuialu'ulu'u, and Misaalefua J. Hudson, along with the Manu'a Veterans, for their support of the initiative.
+
+She noted that support for the project extended beyond Manu'a, with several Fono members from Tutuila also making contributions. According to Fa'asulu, a number of candidates who recently participated in the midterm election likewise stepped forward to assist, demonstrating a shared commitment to supporting dialysis patients during the Thanksgiving season.
+
+Fa'asulu also acknowledged the financial contributions and donations received from Tanya Ma'o-Aab, Director of Administrative Services; Satia Aukuso Satia; Deputy Director of the Budget Office; Sapua'i Mao Ena, the Deputy Director of Procurement; the American Samoa Telecommunications Authority (ASTCA); BlueSky Communications; Tropical Pizza; Cost U Less; Tini Lam Yuen Furniture Co. Ltd. in Futiga; and numerous other local businesses, organizations, and community members.
+
+"We are truly grateful for the overwhelming support we have received from government officials, the business community, and private citizens," Fa'asulu said. "Their generosity has enabled us to reach out to fellow dialysis patients facing the daily challenges of kidney disease and remind them that they are valued, supported, and remembered during this season of thanksgiving."
+
+Section:
+
+[Local News](https://www.samoanews.com/local-news)
+
+Tags:
+
+[Tama'ita'i Ola Naunau](https://www.samoanews.com/tamaitai-ola-naunau)
+
 ## [Supreme Court rules against 20 District Development Councils appointments](https://talamua.com/?p=63218)
 
-via Talamua · 2026-11-24
+via Talamua · 2026-11-24, updated 2026-11-25
 
 Lagi Keresoma/ Apia, SAMOA – 24 November 2026 – The Samoa Supreme Court ruled on Monday this week that the appointment of chairpersons for 20 Fono Fa’avae or District Development Councils were unlawful and unconstitutional and has told cabinet to reconsider their decision. The District Development Councils manage and control grassroots community development projects using \[…\]
 
@@ -1067,7 +1963,7 @@ In this Rappler Talk episode, multimedia reporter Patrick Cruz sits down with fo
 
 ## [Solar power helps grow food and restore coastlines in Samatau village](https://talamua.com/?p=63205)
 
-via Talamua · 2026-11-24
+via Talamua · 2026-11-24, updated 2026-11-25
 
 “A first-of-its-kind community nursery uses solar-powered irrigation to raise seedlings for family gardens, schools, and coastal restoration” Apia, SAMOA – 24 November 2026 – The sun that helps seedlings grow in Samatau now powers the pump that waters them. The village today opened a solar-powered community nursery that puts renewable energy to work for local \[…\]
 
@@ -1087,7 +1983,7 @@ Taipei, Nov. 24 (CNA) A group representing migrant worker employers rallied outs
 
 ## [SMOGA celebrates 70 years with new projects for St Marys College](https://talamua.com/?p=63196)
 
-via Talamua · 2026-11-24
+via Talamua · 2026-11-24, updated 2026-11-25
 
 By Jeannie Penehuro/ Apia, SAMOA – 23 November 2026 – Saint Mary’s Old Girls Association (SMOGA) began its weeklong 70th-anniversary programme on Monday with a parade down Beach Road and a devotional service in front of the Government Building. The celebration marks a milestone for SMOGA that has been in the forefront of assisting the \[…\]
 
@@ -1095,7 +1991,7 @@ The post [SMOGA celebrates 70 years with new projects for St Marys College](http
 
 ## [Samoa joins six new countries in global effort to protect Coral Reefs at COP31](https://talamua.com/?p=63189)
 
-via Talamua · 2026-11-24
+via Talamua · 2026-11-24, updated 2026-11-25
 
 Apia, SAMOA – 24 November 2026 – COP31 may have ended in Turkey without a final agreement, exposing deep divisions over fossil fuels and climate finance. But while global negotiations have stalled, some countries including Samoa are making it clear that they are not willing to wait for consensus to take action. Samoa joined Colombia, \[…\]
 
@@ -1447,7 +2343,7 @@ Taipei, Nov. 24 (CNA) The U.S. dollar rose against the Taiwan dollar Tuesday, ga
 
 ## [Cook Islands weighs deep-sea mining risks](https://www.pacificislandtimes.com/post/cook-islands-weighs-deep-sea-mining-risks)
 
-via Pacific Island Times · 2026-11-24, updated 2026-11-25
+via Pacific Island Times · 2026-11-24, updated 2026-11-26
 
 The potential impact of deep-sea mining on tuna fisheries is emerging as a concern in the Cook Islands, where the prospect of generating revenue from seabed minerals has divided communities and raised questions about the long-term environmental and economic consequences for Pacific island nations.
 
@@ -1549,7 +2445,7 @@ Taipei, Nov. 24 (CNA) The Ministry of Foreign Affairs (MOFA) said Tuesday it wou
 
 ## [Communicable Disease Report: Week 46](https://yapstate.gov.fm/post/communicable-disease-report-week-46)
 
-via Yap State Government News · 2026-11-24, updated 2026-11-25
+via Yap State Government News · 2026-11-24, updated 2026-11-26
 
 Monday, November 24, 2026 /// DYCA PIO Yap FM - The Department of Health Services, Epinet, released the latest Communicable Disease Report for the week of November 09, 2026 to November, 2026, Epi Week 46. During Epi Week 46, a total of 601 patient encounters were recorded across reporting sites. The Diarrheal Disease Alert was retriggered this week after two weeks of below-threshold Activity. Following two weeks of below-threshold activity, the diarrheal disease alert was retriggered this...
 
@@ -1591,7 +2487,7 @@ Six opposition lawmakers in the Upper House said they would submit the nonbindin
 
 ## [Ulithi Falalop Community Supports Campus Cleanup at Outer Islands High School](https://yapstate.gov.fm/post/ulithi-falalop-community-supports-campus-cleanup-at-outer-islands-high-school)
 
-via Yap State Government News · 2026-11-24, updated 2026-11-25
+via Yap State Government News · 2026-11-24, updated 2026-11-26
 
 Monday, November 24, 2026 /// DYCA PIO Yap FM - The Ulithi Falalop Community Action Program (UFCAP) highlighted its community-led efforts on November 20 to support a major campus cleanup at Outer Islands High School (OIHS), demonstrating the importance of community participation in maintaining a clean and welcoming school environment. The cleanup brought together members of the Falalop community, particularly women and youth, who worked to clear overgrown areas around the campus and help...
 
@@ -1609,7 +2505,7 @@ The MP says people should not be forced to leave the country in order to die wit
 
 ## [PUBLIC NOTICE: FSMTCC SCHEDULED ROAD CUTTING](https://yapstate.gov.fm/post/public-notice-fsmtcc-scheduled-road-cutting)
 
-via Yap State Government News · 2026-11-24, updated 2026-11-25
+via Yap State Government News · 2026-11-24, updated 2026-11-26
 
 This is to inform all motorists of a scheduled road cutting on the road in Gargey, Tomil. The area of the road cutting is at the top of the hill before the entrance to Abul. This road cutting will take place on Saturday, November 28, 2026, at 8:30 am and will go on until the work is completed. These road cuttings are part of the fiber build-up work currently taking place throughout the island. Roads will be cut in two halves, meaning that one half of the road will remain open for...
 
@@ -1621,7 +2517,7 @@ Allied Media says its teams are working to restore access so they can produce to
 
 ## [PUBLIC NOTICE: GAGIL WALKATHON & HEALTH SCREENINGPresented by WCHC and Gagil LHC](https://yapstate.gov.fm/post/public-notice-gagil-walkathon-health-screeningpresented-by-wchc-and-gagil-lhc)
 
-via Yap State Government News · 2026-11-24, updated 2026-11-25
+via Yap State Government News · 2026-11-24, updated 2026-11-26
 
 When: November 28, 2026 Where: Yap Sports Complex Time: 6:00 AM to 9:00 AM Start your day with healthy activity and free health screening services! Community Walkathon Basic Health Screening Health Awareness Information Family-Friendly Event w/ Incentives COMPLIMENTARY RIDES AVAILABLE By reservation, to and from Yap Sports Complex Pickup and drop-off sites: Gachpar Bus Stop • Makiy Bus Stop • ABC Store
 
@@ -1795,7 +2691,7 @@ Despite losing control of Congress to Democrats, the U.S. president's move shows
 
 ## [Water quality after Kona storms assessed by UH scientists, community](https://www.hawaii.edu/news/2026/11/23/water-quality-kona-storms/)
 
-via University of Hawaiʻi News · 2026-11-24, updated 2026-11-25
+via University of Hawaiʻi News · 2026-11-24, updated 2026-11-26
 
 UH researchers and community volunteers investigate storm runoff impacts on coastal waters and coral reefs.
 
@@ -1845,7 +2741,7 @@ Eleven niho taniwha have been released on Aotea Great Barrier Island after 30 ye
 
 ## [UH Mānoa research explores new way to image black holes](https://www.hawaii.edu/news/2026/11/23/new-way-to-image-black-holes/)
 
-via University of Hawaiʻi News · 2026-11-24, updated 2026-11-25
+via University of Hawaiʻi News · 2026-11-24, updated 2026-11-26
 
 The study examines how naturally occurring signals from water vapor orbiting black holes could help scientists test fundamental laws of physics.
 
@@ -1925,7 +2821,7 @@ Guam has secured nearly US$10.3 million in federal funding for 16 projects aimed
 
 ## [21 Days of Activism - Day 5](https://yapstate.gov.fm/post/21-days-of-activism-day-5)
 
-via Yap State Government News · 2026-11-23, updated 2026-11-25
+via Yap State Government News · 2026-11-23, updated 2026-11-26
 
 DAY 5 – NOVEMBER 24 \| SAFE HOMES, SAFE COMMUNITIES. Every home should be a place of love, respect, and safety, never violence or fear. THEME: UNITE TO END VIOLENCE AGAINST WOMEN AND CHILDREN. SPEAK UP. TAKE ACTION. PROTECT EVERYONE. EVERY DAY!
 
@@ -1973,7 +2869,7 @@ The agency head has said that war-related shipping chokepoints and climate shock
 
 ## [Growing food security through seed sharing](https://www.hawaii.edu/news/2026/11/23/food-security-seed-sharing/)
 
-via University of Hawaiʻi News · 2026-11-23, updated 2026-11-25
+via University of Hawaiʻi News · 2026-11-23, updated 2026-11-26
 
 A Waimānalo seed exchange brought communities together to strengthen food security and climate resilience.
 
@@ -1987,7 +2883,7 @@ A suspected email scam is under investigation after a Samoa Ports Authority (SPA
 
 ## [UH Mānoa student wins top international electrical engineering honor](https://www.hawaii.edu/news/2026/11/23/international-electrical-engineering-honor/)
 
-via University of Hawaiʻi News · 2026-11-23, updated 2026-11-25
+via University of Hawaiʻi News · 2026-11-23, updated 2026-11-26
 
 Andrew Alling is the fifth UH Mānoa student to receive the award.
 
@@ -2055,7 +2951,7 @@ Māngere Budgeting Service Trust says it's a "hand-up" rather than a "hand-out".
 
 ## [Free UH job trainings can boost annual paycheck by $8K](https://www.hawaii.edu/news/2026/11/23/uh-job-trainings-boost-paycheck/)
 
-via University of Hawaiʻi News · 2026-11-23, updated 2026-11-25
+via University of Hawaiʻi News · 2026-11-23, updated 2026-11-26
 
 Master valuable professional skills to elevate your income.
 
@@ -2087,7 +2983,7 @@ Prospective players must be at least 18, meet Samoan heritage eligibility rules 
 
 ## [UH composer’s music spans continents](https://www.hawaii.edu/news/2026/11/23/composers-music-continents/)
 
-via University of Hawaiʻi News · 2026-11-23, updated 2026-11-25
+via University of Hawaiʻi News · 2026-11-23, updated 2026-11-26
 
 International orchestras are bringing UH Mānoa composer Donald Reid Womack’s music to stages across South Korea and Europe.
 
@@ -2113,7 +3009,7 @@ Thanks to decades of imports, the niche Japanese car scene is thriving in New Ze
 
 ## [Pacific Winds 20261124](https://pcisguam.substack.com/p/pacific-winds-20261124)
 
-via Pacific Center for Island Security · 2026-11-23, updated 2026-11-25
+via Pacific Center for Island Security · 2026-11-23, updated 2026-11-26
 
 A daily collection of news affecting the Asia-Pacific region
 
@@ -2175,7 +3071,7 @@ The fire has only affected The Laundry Spot in Browns Bay, with no injuries repo
 
 ## [UH-mazing recipes: Lara Hackney’s English toffee](https://www.hawaii.edu/news/2026/11/23/lara-hackney-english-toffee/)
 
-via University of Hawaiʻi News · 2026-11-23, updated 2026-11-25
+via University of Hawaiʻi News · 2026-11-23, updated 2026-11-26
 
 UH Mānoa Assistant Professor Lara Hackney shares a sweet holiday tradition with her homemade English toffee recipe,.
 
@@ -2367,7 +3263,7 @@ via Rappler · 2026-11-23, updated 2026-11-24
 
 ## [No deal: Pacific islands get no relief as COP31 ends in deadlock](https://www.pacificislandtimes.com/post/no-deal-pacific-islands-get-no-relief-as-cop31-ends-in-deadlock)
 
-via Pacific Island Times · 2026-11-23, updated 2026-11-25
+via Pacific Island Times · 2026-11-23, updated 2026-11-26
 
 Pacific island leaders expressed disappointment at the collapse of the COP31 climate talks, which ended Sunday without reaching a pact due to the negotiators' failure to surmount rifts over fossil fuels.
 
@@ -2523,7 +3419,7 @@ The post [Russia starts towing ship hit by drones in Baltic, Finland says](https
 
 ## [Black Friday declared GovGuam holiday](https://www.pacificislandtimes.com/post/black-friday-declared-govguam-holiday)
 
-via Pacific Island Times · 2026-11-23, updated 2026-11-25
+via Pacific Island Times · 2026-11-23, updated 2026-11-26
 
 Gov. Lou Leon Guerrero today declared Friday—the day after Thanksgiving—a government of Guam holiday.
 
@@ -2709,13 +3605,13 @@ Small groups of otters are now being seen regularly in parts of the Malaysian me
 
 ## [NWS: Fire danger reaches record level on Guam as dry season deepens](https://www.pacificislandtimes.com/post/nws-fire-danger-reaches-record-level-on-guam-as-dry-season-deepens)
 
-via Pacific Island Times · 2026-11-23, updated 2026-11-25
+via Pacific Island Times · 2026-11-23, updated 2026-11-26
 
 Trade-wind surges are expected across much of Micronesia this week, bringing stronger winds, elevated seas and rough marine conditions as the dry season becomes established, according to the National Weather Service Guam. By Bryan Manabat The National Weather Service is warning residents across Guam and the Northern Mariana Islands to prepare for worsening drought conditions and rising fire danger as the region continues its transition into the dry season under a strong El Niño. In its weekly...
 
 ## [Guam legislature's incoming speaker vows to push for fiscal discipline](https://www.pacificislandtimes.com/post/guam-legislature-s-incoming-speaker-vows-to-push-for-fiscal-discipline)
 
-via Pacific Island Times · 2026-11-23, updated 2026-11-25
+via Pacific Island Times · 2026-11-23, updated 2026-11-26
 
 By Pacific Island Times News Staff Sen. Chris Duenas, who has been selected as the speaker of the incoming 39th Guam Legislature, vows to advocate for fiscal discipline as the territorial government gears up for a transition in January, with Republicans as the ruling party. Duenas, currently the chair of the finance committee, said the new Republican leadership will push for responsible budgeting and full implementation of performance-based budgeting, "ensuring that government expenditures...
 
@@ -2907,7 +3803,7 @@ Tonga Football men's national team technical director Kilifi Uele believes the t
 
 ## [Of course, it's always a matter of funds](https://www.pacificislandtimes.com/post/of-course-it-s-always-a-matter-of-funds)
 
-via Pacific Island Times · 2026-11-23, updated 2026-11-25
+via Pacific Island Times · 2026-11-23, updated 2026-11-26
 
 When I was growing up, there were a few words that, spoken out loud, meant things were about to get serious. One of them was dåkkun. A grown-up could say it from the other room and you knew you’d better get your story straight – or else, toka, you're going to get it.
 
@@ -2973,7 +3869,7 @@ New Zealand has just 80 dermatologists when it needs about 300 to meet internati
 
 ## [Military training plan in Marianas poses harm to whales, dolphins](https://www.pacificislandtimes.com/post/military-training-plan-in-marianas-poses-harm-to-whales-dolphins)
 
-via Pacific Island Times · 2026-11-22, updated 2026-11-25
+via Pacific Island Times · 2026-11-22, updated 2026-11-26
 
 By Jayvee Vallejera A new federal proposal could clear the way for seven more years of intensive military sonar, underwater detonations and vessel traffic across vast stretches of the Pacific Ocean, putting marine mammals in the Marianas at risk of injury or behavioral changes. The U.S. Department of the Navy, encompassing the U.S. Navy and U.S. Marine Corps and acting on behalf of the U.S. Coast Guard, U.S. Army and U.S. Air Force, has asked the National Marine Fisheries Service to authorize...
 
@@ -2985,7 +3881,7 @@ A Māori word named the world's most beautiful has been turned into a giant artw
 
 ## [NUS Ocean Acidification Research Shares Research Findings with Savaia Community](https://talamua.com/?p=63169)
 
-via Talamua · 2026-11-22, updated 2026-11-24
+via Talamua · 2026-11-22, updated 2026-11-25
 
 Apia, Samoa – 23 November 2026 – The National University of Samoa Ocean Acidification (OA) Research Team visited Savaia, Lefaga, on Friday, 20 November 2026, to share findings from its recently published research titled “Variability of Carbon Chemistry at the Marine Protected Area of Savaia Village, Upolu Island, Samoa.” The research was led by NUS \[…\]
 
@@ -2993,7 +3889,7 @@ The post [NUS Ocean Acidification Research Shares Research Findings with Savaia 
 
 ## [Christmas at Home Programme and Logo Officially Launched](https://talamua.com/?p=63156)
 
-via Talamua · 2026-11-22, updated 2026-11-24
+via Talamua · 2026-11-22, updated 2026-11-25
 
 By Jeannie Penehuro/ Apia, SAMOA – 20 November 2026 – The Christmas at Home programme which will run from 13 to 24 December and involve church congregations, 50 government ministries and young people was launched by the Prime Minister today. The Christmas at Home Festival is a partnership between the Government and the EFKS Vaitele-Uta \[…\]
 
@@ -3001,7 +3897,7 @@ The post [Christmas at Home Programme and Logo Officially Launched](https://tala
 
 ## [Head of State welcomes United Arab Emirates Ambassador to Samoa](https://talamua.com/?p=63160)
 
-via Talamua · 2026-11-22, updated 2026-11-24
+via Talamua · 2026-11-22, updated 2026-11-25
 
 Apia, SAMOA – 20 November 2026 – The Head of State, Afioga Tuimalealiifano Va’aletoa Sualauvi II, accepted His Excellency Dr. Fahad Obaid Al Taffag’s Letter of Credence, on 18 November, accrediting him as Ambassador Extraordinary and Plenipotentiary of the United Arab Emirates to Samoa, with residence in Canberra, Australia. Samoa and the United Arab Emirates \[…\]
 
@@ -3015,7 +3911,7 @@ Acne affects around 85 percent of adolescents and can persist well into adulthoo
 
 ## [Pacific Winds 20261123](https://pcisguam.substack.com/p/pacific-winds-20261123)
 
-via Pacific Center for Island Security · 2026-11-22, updated 2026-11-25
+via Pacific Center for Island Security · 2026-11-22, updated 2026-11-26
 
 A daily collection of news affecting the Asia-Pacific region
 
@@ -3027,7 +3923,7 @@ Police say Zeal Rakei was last seen on the evening of 19 November and there are 
 
 ## [Challenges for the next Guam governor](https://www.pacificislandtimes.com/post/challenges-for-the-next-guam-governor)
 
-via Pacific Island Times · 2026-11-22, updated 2026-11-25
+via Pacific Island Times · 2026-11-22, updated 2026-11-26
 
 Gov. Lou Leon Guerrero claims her successor will have it easy.
 
@@ -3333,7 +4229,7 @@ New Taipei, Nov. 22 (CNA) Eighteen people were stung by Asian hornets, with two 
 
 ## [The song she left behind](https://www.pacificislandtimes.com/post/the-song-she-left-behind)
 
-via Pacific Island Times · 2026-11-22, updated 2026-11-25
+via Pacific Island Times · 2026-11-22, updated 2026-11-26
 
 Bridgman, MI--My experience has been that for a friendship to exist, two people must intentionally invest time and meaningful communication, which will then result in an unspoken or spoken agreement to such a friendship.
 
@@ -3345,7 +4241,7 @@ Clark Freeport, the Philippines, Nov. 22 (CNA) Two Taiwanese business organizati
 
 ## [Julia Birn explores the limits of expression in ‘Chewing on Static’](https://www.pacificislandtimes.com/post/julia-birn-explores-the-limits-of-expression-in-chewing-on-static)
 
-via Pacific Island Times · 2026-11-22, updated 2026-11-25
+via Pacific Island Times · 2026-11-22, updated 2026-11-26
 
 Julia Birn By Ron Rocky Coloma How do you give shape to a feeling that cannot easily be explained? For Julia Birn, the answer lies in fragments, abstract forms and carefully selected colors. Her first solo exhibition, "Chewing on Static," at the Guam Museum brings together six years of artistic development in a collection of works that explores the difficulty of communicating deeply personal experiences. Rather than relying on recognizable images or straightforward narratives, Birn uses...
 
@@ -3357,7 +4253,7 @@ Armed with a new name and fresh off an Asian Games silver-medal breakthrough, Gi
 
 ## [The Pacific's first passwords were stories, skills and tradition](https://www.pacificislandtimes.com/post/the-pacific-s-first-passwords-were-stories-skills-and-tradition)
 
-via Pacific Island Times · 2026-11-22, updated 2026-11-25
+via Pacific Island Times · 2026-11-22, updated 2026-11-26
 
 Long before PINs, passwords and two-factor authentication, Pacific Islanders developed their own ways to protect land, resources and valuable knowledge.
 
@@ -3447,7 +4343,7 @@ Five years after Northland farmer Dave Davan died from downing a glass of poison
 
 ## [CNMI tourism eyes Philippine market](https://www.pacificislandtimes.com/post/cnmi-tourism-eyes-philippine-market)
 
-via Pacific Island Times · 2026-11-22, updated 2026-11-25
+via Pacific Island Times · 2026-11-22, updated 2026-11-26
 
 Saipan—For many decades, the Philippines has been the source of manpower for the Northern Mariana Islands. This time, the CNMI is seeking to tap this market, drawing on the resumption of Philippine Airlines' nonstop Manila-Saipan service to diversify its tourism base.
 
@@ -3585,7 +4481,7 @@ The U.S. vice president must balance his fealty to MAGA while distancing himself
 
 ## [Pacific Winds 20261122](https://pcisguam.substack.com/p/pacific-winds-20261122)
 
-via Pacific Center for Island Security · 2026-11-21, updated 2026-11-25
+via Pacific Center for Island Security · 2026-11-21, updated 2026-11-26
 
 A daily collection of news affecting the Asia-Pacific region
 
@@ -3991,7 +4887,7 @@ Japan is eager to maintain the existing international order, including by streng
 
 ## [A voice that refused to be silent: the legacy of Kal Warrington Silvert](https://www.hawaii.edu/news/2026/11/20/legacy-of-kal-warrington-silvert/)
 
-via University of Hawaiʻi News · 2026-11-20, updated 2026-11-25
+via University of Hawaiʻi News · 2026-11-20, updated 2026-11-26
 
 Kal found his passion at UHMānoa.
 
@@ -4119,7 +5015,7 @@ The American Samoa Environmental Protection Agency (AS-EPA) has successfully com
 
 ## [Pacific Winds 20261121](https://pcisguam.substack.com/p/pacific-winds-20261121)
 
-via Pacific Center for Island Security · 2026-11-20, updated 2026-11-25
+via Pacific Center for Island Security · 2026-11-20, updated 2026-11-26
 
 A daily collection of news affecting the Asia-Pacific region
 
@@ -4143,7 +5039,7 @@ Australian Border Force officers who examined the 25-year-old’s mobile phone w
 
 ## [UH astronomers help map universe in 3D](https://www.hawaii.edu/news/2026/11/20/astronomers-map-universe-3d/)
 
-via University of Hawaiʻi News · 2026-11-20, updated 2026-11-25
+via University of Hawaiʻi News · 2026-11-20, updated 2026-11-26
 
 Work by IfA researchers supports the European Space Agency’s Euclid space telescope, a six-year mission to observe billions of galaxies.
 
@@ -4157,7 +5053,7 @@ Twenty-two parāoa died in the Far North after becoming stranded at Ninety Mile 
 
 ## [UH regents amend Maunakea Master Plan to prioritize reuse of observatory sites](https://www.hawaii.edu/news/2026/11/20/bor-amends-maunakea-master-plan/)
 
-via University of Hawaiʻi News · 2026-11-20, updated 2026-11-25
+via University of Hawaiʻi News · 2026-11-20, updated 2026-11-26
 
 The amendment retains UH's commitment to a maximum of nine operating observatories in the Maunakea Science Reserve by the end of 2033.
 
@@ -4850,7 +5746,7 @@ The post [Drugs no longer needed as Fiji court exhibits under new narcotics law]
 
 ## [Volleyball Matchups Continue at Yap Sports Complex](https://yapstate.gov.fm/post/volleyball-matchups-continue-at-yap-sports-complex)
 
-via Yap State Government News · 2026-11-20, updated 2026-11-25
+via Yap State Government News · 2026-11-20, updated 2026-11-26
 
 Friday, November 20, 2026 /// DYCA PIO Yap FM - Volleyball competition continued at the Yap Sports Complex on November 17 and 18, 2026, with teams representing COM-FSM, MACHBAB, FMI, and Yap High School (YHS) competing in the girls’ and boys’ divisions. In the girls’ division on November 17, COM faced MACHBAB in a three-set matchup. COM took the opening set, 25–14, before MACHBAB responded with a 25–16 second-set win. COM secured the match with a 15–5 win in the deciding third set. In the...
 
@@ -4864,7 +5760,7 @@ The post [At COP 31, IOM Calls for Greater Investment in Disaster Readiness Acro
 
 ## [FSM Graduate Marciarose Matnan Earns Bachelor of Dental Surgery from Fiji National University](https://yapstate.gov.fm/post/fsm-graduate-marciarose-matnan-earns-bachelor-of-dental-surgery-from-fiji-national-university)
 
-via Yap State Government News · 2026-11-20, updated 2026-11-25
+via Yap State Government News · 2026-11-20, updated 2026-11-26
 
 Friday, November 20, 2026 /// DYCA PIO Yap FM - After five years of dedication, hard work, and commitment to her education, Marciarose Matnan has successfully graduated from Fiji National University (FNU) with a Bachelor of Dental Surgery, fulfilling her dream of becoming a dental professional and preparing to give back to her home community in the Federated States of Micronesia (FSM). Marciarose's journey began five years ago when she left home to pursue her ambition of becoming a dentist....
 
@@ -4966,7 +5862,7 @@ As of June 30, HNZ employed 35,338 nurses, equivalent to 29,473.8 FTE, compared 
 
 ## [International Men’s Day: Intergenerational Responsibilities](https://tritonscall.substack.com/p/international-mens-day-intergenerational)
 
-via Triton's Call · 2026-11-20, updated 2026-11-25
+via Triton's Call · 2026-11-20, updated 2026-11-26
 
 TC Reporter Lance Sana reflects on International Men’s Day and intergenerational responsibilities.
 
@@ -5074,7 +5970,7 @@ While it was the biggest advance since December, the result was a tad weaker tha
 
 ## [PUBLIC NOTICE: UPCOMING FUEL PRICE INCREASES AND POTENTIAL ELECTRICITY TARIFF IMPACT](https://yapstate.gov.fm/post/public-notice-upcoming-fuel-price-increases-and-potential-electricity-tariff-impact)
 
-via Yap State Government News · 2026-11-20, updated 2026-11-25
+via Yap State Government News · 2026-11-20, updated 2026-11-26
 
 The Yap State Public Service Corporation (YSPSC) has notified the State Government of upcoming diesel fuel price increases beginning November 19, 2026, with additional adjustments scheduled for January and March 2027. These increases are projected to affect electricity rates on Yap Island Proper beginning February 2027. YSPSC is requesting financial assistance from the State Government to help offset the increased fuel costs and reduce the impact on electricity customers. For more details,...
 
@@ -5130,7 +6026,7 @@ Low observer coverage on longline fleets and exemptions to at-sea transfer bans 
 
 ## [DAY 1 – NOVEMBER 20 \| UNIVERSAL CHILDREN’S DAY](https://yapstate.gov.fm/post/day-1-november-20-universal-children-s-day)
 
-via Yap State Government News · 2026-11-20, updated 2026-11-25
+via Yap State Government News · 2026-11-20, updated 2026-11-26
 
 Every child deserves love, protection, dignity, and a safe childhood free from violence. Protecting children is everyone's responsibility. THEME: UNITE TO END VIOLENCE AGAINST WOMEN AND CHILDREN. SPEAK UP. TAKE ACTION. PROTECT EVERYONE. EVERY DAY! " This message is brought to you by the Division of Civic Affairs at DYCA "
 
@@ -5254,7 +6150,7 @@ The Marine Minerals Administration held its first ever seabed mining lease sale 
 
 ## [Pacific Winds 20261120](https://pcisguam.substack.com/p/pacific-winds-20261120)
 
-via Pacific Center for Island Security · 2026-11-19, updated 2026-11-25
+via Pacific Center for Island Security · 2026-11-19, updated 2026-11-26
 
 A daily collection of news affecting the Asia-Pacific region
 
@@ -5272,7 +6168,7 @@ Local US Army Recruiter Sgt First Class Faimafiliotamaitai Darius Tua has been n
 
 ## [SOEs are the problem](https://marshallislandsjournal.com/soes-are-the-problem/)
 
-via Marshal Islands Journal · 2026-11-19, updated 2026-11-18
+via Marshal Islands Journal · 2026-11-19, updated 2026-11-25
 
 Journal 11/22/1983 P1 Campaign ’83 draws to a closeToday, November 22, is the day after the second constitutional Nitijela election. But ballot boxes for the most part remain sealed, awaiting the 24-hour delay in voting at Kwajalein. This delay is caused by the fact that Kwajalein follows US dates, necessary to coordinate missile testing activities. \[…\]
 
@@ -5594,7 +6490,7 @@ via Rappler · 2026-11-19
 
 ## [Unleashing Yasta power](https://marshallislandsjournal.com/unleashing-yasta-power/)
 
-via Marshal Islands Journal · 2026-11-19, updated 2026-11-18
+via Marshal Islands Journal · 2026-11-19, updated 2026-11-25
 
 Yasta Bolkeim, better known by his radio handle Yastamon, is in his element behind the microphone at Power 103.5FM. Yastamon has been the lead DJ for the station since its founding over six years ago. A rapper, singer and entertainer, his voice on the airwaves or at an event sends a “good time” message to \[…\]
 
@@ -5886,7 +6782,7 @@ Speaking at the APEC summit in Shenzhen, Lee said peace and stability on the Kor
 
 ## [FISH4ACP honors champions](https://marshallislandsjournal.com/fish4acp-honors-champions/)
 
-via Marshal Islands Journal · 2026-11-19, updated 2026-11-18
+via Marshal Islands Journal · 2026-11-19, updated 2026-11-25
 
 For over five years, FISH4ACP supported the Marshall Islands in upgrading its tuna value chain program, working in partnership with the Marshall Islands Marine Resources Authority and tuna industry players in RMI. It wrapped up this long-term engagement earlier this month with a close out program that honored many of the people involved in making \[…\]
 
@@ -6062,13 +6958,13 @@ Saipan—For the first time in Commonwealth history, voters are deciding both th
 
 ## [YSPSC Seeks State Government Assistance Following Upcoming Fuel Price Increases](https://yapstate.gov.fm/post/yspsc-seeks-state-government-assistance-following-upcoming-fuel-price-increases)
 
-via Yap State Government News · 2026-11-19, updated 2026-11-25
+via Yap State Government News · 2026-11-19, updated 2026-11-26
 
 Thursday, November 19, 2026 /// DYCA PIO Yap FM - The Yap State Public Service Corporation (YSPSC) is seeking financial assistance from the Yap State Government to help offset upcoming diesel fuel price increases and minimize their impact on electricity customers across Yap Island Proper. In a letter dated November 17, 2026, addressed to Governor Francis Itimai, YSPSC General Manager Victor Nabeyan reported that Vital FSM Petroleum Corporation will implement three fuel price increases after...
 
 ## [DHS Provides Free Cholesterol and Health Screenings to the Public](https://yapstate.gov.fm/post/dhs-provides-free-cholesterol-and-health-screenings-to-the-public)
 
-via Yap State Government News · 2026-11-19, updated 2026-11-25
+via Yap State Government News · 2026-11-19, updated 2026-11-26
 
 Thursday, November 19, 2026 /// DYCA PIO Yap FM - The Department of Health Services (DHS) conducted a free cholesterol and health screening program beginning Monday, November 16, 2026, at the DHS Hospital, encouraging members of the public to take proactive steps toward maintaining their health. The screening services were offered from 5:30 a.m. to 7:30 a.m. and included cholesterol testing, diabetes screening, kidney function testing, and height and weight measurements to assess...
 
@@ -6212,7 +7108,7 @@ Taipei, Nov. 19 (CNA) The U.S. dollar was traded at NT$32.999 at 10 a.m. Thursda
 
 ## [Pigs and chickens get focus](https://marshallislandsjournal.com/pigs-and-chickens-get-focus/)
 
-via Marshal Islands Journal · 2026-11-19, updated 2026-11-18
+via Marshal Islands Journal · 2026-11-19, updated 2026-11-25
 
 Two momentous developments in the agriculture and livestock world happened earlier this month in Majuro. In a “twofer”held at the Taiwan Technical Mission in Laura, a grand opening of the new pig slaughterhouse was held together with a groundbreaking ceremony for the Layer Supply Center in Laura. The two events held back to back were \[…\]
 
@@ -6280,7 +7176,7 @@ Gamers around the world tapped away for hours as the much-anticipated Grand Thef
 
 ## [Toa and Fetu Samoa Come Home to a Heroes Welcome](https://talamua.com/?p=63114)
 
-via Talamua · 2026-11-19, updated 2026-11-24
+via Talamua · 2026-11-19, updated 2026-11-25
 
 By Jeannie Penehuro/ Apia, SAMOA – 18 November 2026 – Toa Samoa and Fetu Samoa may have bowed out of the Rugby League World Cup semifinals, but did not diminish the heroes welcome the fans and Samoan people staged for the teams homecoming celebrations in the capital Apia, this morning. It could well be the \[…\]
 
@@ -6382,7 +7278,7 @@ Organisers are trying to chart a course for the Southern Hemisphere's largest eq
 
 ## [Hilda: ‘Find money for life’](https://marshallislandsjournal.com/hilda-find-money-for-life/)
 
-via Marshal Islands Journal · 2026-11-18
+via Marshal Islands Journal · 2026-11-18, updated 2026-11-25
 
 GIFF JOHNSON The biggest issue for the Marshall Islands and many countries of the world is simple: The world is on track for global warming higher than the 1.5 degree Celsius target set by the Paris Climate Summit in 2015. This target aims to curb climate-induced disasters such as rising intensity of storms, fires, floods \[…\]
 
@@ -6390,7 +7286,7 @@ The post [Hilda: ‘Find money for life’](https://marshallislandsjournal.com/h
 
 ## [Pacific Winds 20261119](https://pcisguam.substack.com/p/pacific-winds-20261119)
 
-via Pacific Center for Island Security · 2026-11-18, updated 2026-11-25
+via Pacific Center for Island Security · 2026-11-18, updated 2026-11-26
 
 A daily collection of news affecting the Asia-Pacific region
 
@@ -6640,7 +7536,7 @@ Taipei, Nov. 18 (CNA) Taiwan's President Lai Ching-te (賴清德) on Wednesday u
 
 ## [Container Vessel Kota Ratu Delivers 26 Containers of Essential Goods to Yap](https://yapstate.gov.fm/post/container-vessel-kota-ratu-delivers-26-containers-of-essential-goods-to-yap)
 
-via Yap State Government News · 2026-11-18, updated 2026-11-25
+via Yap State Government News · 2026-11-18, updated 2026-11-26
 
 Wednesday, November 18, 2026 /// DYCA PIO Yap FM - The arrival of container vessel Kota Ratu in Yap earlier today brought 26 containers of essential goods and supplies from Guam, providing additional shipments of food, household necessities, and other merchandise to support the local economy. The vessel's shipment included a variety of goods sourced from several countries across the region and beyond. These included three containers of Japonica rice from Vietnam, two containers of drinking...
 
@@ -7442,7 +8338,7 @@ A number of former staff at the Auckland school have been imprisoned over abuse 
 
 ## [Pacific Winds 20261118](https://pcisguam.substack.com/p/pacific-winds-20261118)
 
-via Pacific Center for Island Security · 2026-11-17, updated 2026-11-25
+via Pacific Center for Island Security · 2026-11-17, updated 2026-11-26
 
 A daily collection of news affecting the Asia-Pacific region
 
@@ -8173,7 +9069,7 @@ The tougher tax measures are expected to curb speculative transactions and will 
 
 ## [It’s Not that Deep: The over-normalization of mental health speech](https://tritonscall.substack.com/p/its-not-that-deep-the-over-normalization)
 
-via Triton's Call · 2026-11-17, updated 2026-11-25
+via Triton's Call · 2026-11-17, updated 2026-11-26
 
 TC Reporter Lance Sana examines mental health speech with the help of UOG’s Student Behavioral Counselor Supervisor and Wellness Coordinator Venus Ituralde.
 
@@ -8451,7 +9347,7 @@ The project, located near a former US World War II airfield, is a joint proposal
 
 ## [Pacific Winds 20261117](https://pcisguam.substack.com/p/pacific-winds-20261117)
 
-via Pacific Center for Island Security · 2026-11-16, updated 2026-11-25
+via Pacific Center for Island Security · 2026-11-16, updated 2026-11-26
 
 A daily collection of news affecting the Asia-Pacific region
 
@@ -9199,7 +10095,7 @@ Three weeks have been set aside for the inquest, with more than 20 witnesses exp
 
 ## [Pacific Winds 20261116](https://pcisguam.substack.com/p/pacific-winds-20261116)
 
-via Pacific Center for Island Security · 2026-11-15, updated 2026-11-25
+via Pacific Center for Island Security · 2026-11-15, updated 2026-11-26
 
 A daily collection of news affecting the Asia-Pacific region
 
@@ -9789,7 +10685,7 @@ A front moving slowly northwards is the cause, bringing heavy north-westerly rai
 
 ## [Pacific Winds 20261115](https://pcisguam.substack.com/p/pacific-winds-20261115)
 
-via Pacific Center for Island Security · 2026-11-14, updated 2026-11-25
+via Pacific Center for Island Security · 2026-11-14, updated 2026-11-26
 
 A daily collection of news affecting the Asia-Pacific region
 
@@ -10283,7 +11179,7 @@ Users on social media have been sharing cyclone developments near the Cook Islan
 
 ## [Pacific Winds 20261114](https://pcisguam.substack.com/p/pacific-winds-20261114)
 
-via Pacific Center for Island Security · 2026-11-13, updated 2026-11-25
+via Pacific Center for Island Security · 2026-11-13, updated 2026-11-26
 
 A daily collection of news affecting the Asia-Pacific region
 
@@ -11241,7 +12137,7 @@ On the night of the quake, Gary Morton and Jo-Anne MacKinnon spent their last ho
 
 ## [Pacific Winds 20261113](https://pcisguam.substack.com/p/pacific-winds-20261113)
 
-via Pacific Center for Island Security · 2026-11-12, updated 2026-11-25
+via Pacific Center for Island Security · 2026-11-12, updated 2026-11-26
 
 A daily collection of news affecting the Asia-Pacific region
 
@@ -11269,7 +12165,7 @@ The post [Climate Justice – Is it just lip-service and broken promises?](https
 
 ## [The buck stops with Jack](https://marshallislandsjournal.com/the-buck-stops-with-jack/)
 
-via Marshal Islands Journal · 2026-11-12, updated 2026-11-18
+via Marshal Islands Journal · 2026-11-12, updated 2026-11-25
 
 Journal 11/15/1983 P1 Sun Hotel opensThe Marshalls Sun Corporation Hotel and Restaurant began operations this past week with a soft opening. The 35-unit one story hotel already has six occupants and the restaurants has been presenting an excellent quality Japanese-style fare prepared by chief cook Koichi Sashi and his assistant Shuichi Ishizawa. The Marshalls Sun \[…\]
 
@@ -11435,7 +12331,7 @@ A newlywed couple and brother-in-law died after their car lost control at a roun
 
 ## [Beau is FISH4ACP MVP](https://marshallislandsjournal.com/beau-is-fish4acp-mvp/)
 
-via Marshal Islands Journal · 2026-11-12, updated 2026-11-18
+via Marshal Islands Journal · 2026-11-12, updated 2026-11-25
 
 The FISH4ACP program worked for five years with MIMRA and tuna industry players to expand tuna value chain activity. Late last month, they held their wrap up meeting at the Marshall Islands Resort to honor partners. MIMRA Oceanic Division Chief Fisheries Officer Beau Bigler was named MVP for FISH4ACP’s purse seine tuna fishery value chain. \[…\]
 
@@ -12181,7 +13077,7 @@ A Kiribati government minister is calling for an overhaul to how vulnerable Paci
 
 ## [Pacific Winds 20261112](https://pcisguam.substack.com/p/pacific-winds-20261112)
 
-via Pacific Center for Island Security · 2026-11-11, updated 2026-11-25
+via Pacific Center for Island Security · 2026-11-11, updated 2026-11-26
 
 A daily collection of news affecting the Asia-Pacific region
 
@@ -13149,7 +14045,7 @@ The post [ʻUlu science and culture take center stage](https://www.hawaii.edu/ne
 
 ## [Pacific Winds 20261111](https://pcisguam.substack.com/p/pacific-winds-20261111)
 
-via Pacific Center for Island Security · 2026-11-10, updated 2026-11-25
+via Pacific Center for Island Security · 2026-11-10, updated 2026-11-26
 
 A daily collection of news affecting the Asia-Pacific region
 
@@ -14121,7 +15017,7 @@ The post [UHERO report highlights opportunities to build on Honolulu’s Bill 7 
 
 ## [Pacific Winds 20261110](https://pcisguam.substack.com/p/pacific-winds-20261110)
 
-via Pacific Center for Island Security · 2026-11-09, updated 2026-11-25
+via Pacific Center for Island Security · 2026-11-09, updated 2026-11-26
 
 A daily collection of news affecting the Asia-Pacific region
 
@@ -14317,7 +15213,7 @@ The post [‘Failure is not an option’: A cautious Jeffries vows an ambitious 
 
 ## [‘Remathau: People of the Ocean’ premieres Tuesday in Guam](https://thehusk.substack.com/p/remathau-people-of-the-ocean-premieres)
 
-via The Husk · 2026-11-09, updated 2026-11-25
+via The Husk · 2026-11-09, updated 2026-11-26
 
 ‘The deepest dive was a dive into myself as a Micronesian’
 
@@ -14815,7 +15711,7 @@ Dr Jemma Geoghegan receives 2027 Fleming Prize for her world-leading work during
 
 ## [Pacific Winds 20261109](https://pcisguam.substack.com/p/pacific-winds-20261109)
 
-via Pacific Center for Island Security · 2026-11-08, updated 2026-11-25
+via Pacific Center for Island Security · 2026-11-08, updated 2026-11-26
 
 A daily collection of news affecting the Asia-Pacific region
 
@@ -15405,7 +16301,7 @@ Crews were called to a building in Riverlands just after 3am on Sunday, Fire and
 
 ## [Pacific Winds 20261108](https://pcisguam.substack.com/p/pacific-winds-20261108)
 
-via Pacific Center for Island Security · 2026-11-07, updated 2026-11-25
+via Pacific Center for Island Security · 2026-11-07, updated 2026-11-26
 
 A daily collection of news affecting the Asia-Pacific region
 
@@ -15929,7 +16825,7 @@ Congresswoman Uifa’atali Amata is honoring the United States Marine Corps as t
 
 ## [Pacific Winds 20261107](https://pcisguam.substack.com/p/pacific-winds-20261107)
 
-via Pacific Center for Island Security · 2026-11-06, updated 2026-11-25
+via Pacific Center for Island Security · 2026-11-06, updated 2026-11-26
 
 A daily collection of news affecting the Asia-Pacific region
 
@@ -17692,893 +18588,4 @@ A patient advocate says that's not good enough.
 via RNZ National News · 2026-11-05
 
 The charity says the need has never been greater - and funding has never been harder to find.
-
-## [Boil Water Notice for Fagamalo lifted](https://www.talanei.com/2026/11/04/boil-water-notice-for-fagamalo-lifted/)
-
-via Talanei · 2026-11-04, updated 2026-11-06
-
-The American Samoa Power Authority (ASPA) in coordination with the American Samoa Environmental Protection Agency (AS-EPA), announces that the Boil Water Notice issued on April 23, 2026 for the village of Fagamalo has been officially lifted, effective
-
-## [St John will delay shut down of specialist paramedic team who help police and firefighters](https://www.rnz.co.nz/news/health/2355310/st-john-will-delay-shut-down-of-specialist-paramedic-team-who-help-police-and-firefighters)
-
-via RNZ National News · 2026-11-04
-
-RNZ revealed earlier today the ambulance service told police and Fire and Emergency it was shutting down the paramedic teams from December 20.
-
-## [Samoa government urged at UN to address declining media freedom](https://www.rnz.co.nz/news/pacific/2355925/samoa-government-urged-at-un-to-address-declining-media-freedom)
-
-via RNZ Pacific News · 2026-11-04
-
-Media restrictions in Samoa have been criticised by 10 countries at the United Nations.
-
-## [Fiji PM Rabuka downplays El Niño impact: 'Are people dying? No. We can manage'](https://www.rnz.co.nz/news/pacific/2355926/fiji-pm-rabuka-downplays-el-nino-impact-are-people-dying-no-we-can-manage)
-
-via RNZ Pacific News · 2026-11-04
-
-The Fijian prime minister has brushed off the severity of the impact of the El Niño weather conditions that are causing widespread drought across the country.
-
-## [Timor-Leste musicians bring stories of survival and identity to life](https://www.rnz.co.nz/news/pacific/2355556/timor-leste-musicians-bring-stories-of-survival-and-identity-to-life)
-
-via RNZ Pacific News · 2026-11-04
-
-Timorese artists have captured their history, language and culture in three new albums and a single released through the Wantok Musik Foundation.
-
-## [Two people escape uninjured after light plane crash in north Canterbury](https://www.rnz.co.nz/news/emergencies_local/2355407/two-people-escape-uninjured-after-light-plane-crash-in-north-canterbury)
-
-via RNZ National News · 2026-11-04
-
-The pair walked away from the crash after the plane had a problem during take-off, FENZ says.
-
-## [Man charged in death of Filipino woman in Apia](https://www.talanei.com/2026/11/04/man-charged-in-death-of-filipino-woman-in-apia/)
-
-via Talanei · 2026-11-04, updated 2026-11-06
-
-A 21-year-old man has been charged with murder and manslaughter in connection with the death of a Filipino woman at the Chan Mow Apartments in Saleufi. He is scheduled to appear in court on November 23. The
-
-## ['Nothing to do': Young people hit hard by job shortage - youth worker](https://www.rnz.co.nz/news/business/2355246/nothing-to-do-young-people-hit-hard-by-job-shortage-youth-worker)
-
-via RNZ National News · 2026-11-04
-
-Young people are left feeling bored and apathetic as they struggle to find jobs or training opportunities, a youth worker says.
-
-## ['Envision chandeliers': Trump touts ballroom after midterms rout](https://www.rnz.co.nz/news/world/2355076/envision-chandeliers-trump-touts-ballroom-after-midterms-rout)
-
-via RNZ National News · 2026-11-04
-
-While his party nursed a brutal hangover from their US midterms defeat, Trump was busy - showing off his new ballroom at the White House.
-
-## [Employment Court decision closes loophole exploited by migrant worker recruiters](https://www.rnz.co.nz/news/pacific/2354939/employment-court-decision-closes-loophole-exploited-by-migrant-worker-recruiters)
-
-via RNZ Pacific News · 2026-11-04
-
-An Employment Court ruling has established that migrant workers can legally challenge unlawful recruitment fees paid overseas to secure jobs in New Zealand.
-
-## [Base jumper convicted and discharged after getting stuck on side of Auckland hotel](https://www.rnz.co.nz/news/crime-and-justice/2353614/base-jumper-convicted-and-discharged-after-getting-stuck-on-side-of-auckland-hotel)
-
-via RNZ National News · 2026-11-04
-
-Ilies Nait El Cadi, a 22-year-old from Belgium, has paid $22,000 in reparation.
-
-## [Two Samoan Ie Sina return home after 148 years in Australia](https://talamua.com/?p=62792)
-
-via Talamua · 2026-11-04, updated 2026-11-07
-
-By Jeannie Penehuro/ Apia, SAMOA – 4 November 2026 – Two Samoan Ie Sinas were returned to the Samoa Culture & Arts Centre and Museum this week after 148 years where they were safeguarded at the Victoria State Museum. The Ie Sinas were presented by representatives of the Victoria Museum in the presence of the \[…\]
-
-The post [Two Samoan Ie Sina return home after 148 years in Australia](https://talamua.com/?p=62792) appeared first on [Talamua Online](https://talamua.com).
-
-## [$11m El Niño relief](https://marshallislandsjournal.com/11m-el-nino-relief/)
-
-via Marshal Islands Journal · 2026-11-04, updated 2026-11-11
-
-The World Bank Group has released $11 million to support the Republic of the Marshall Islands’ response to the impacts of El Niño conditions and an ongoing dengue outbreak. The contingent financing follows a State of Emergency declared by the RMI on October 8. The new funding comes following a September 24 Country Portfolio Performance \[…\]
-
-The post [$11m El Niño relief](https://marshallislandsjournal.com/11m-el-nino-relief/) appeared first on [The Marshall Islands Journal](https://marshallislandsjournal.com).
-
-## ['Common sense has prevailed': Agriculture will remain a standalone subject at high schools](https://www.rnz.co.nz/news/country/2354035/common-sense-has-prevailed-agriculture-will-remain-a-standalone-subject-at-high-schools)
-
-via RNZ National News · 2026-11-04
-
-Rex Newman, president of the Agriculture and Horticulture Teachers Association, said he was happy with the result but it should never have been in question.
-
-## [Fiji military chief urges accountability to the people amid coup immunity debate](https://www.rnz.co.nz/news/pacific/2307642/fiji-military-chief-urges-accountability-to-the-people-amid-coup-immunity-debate)
-
-via RNZ Pacific News · 2026-11-04
-
-The Republic of Fiji Military Forces commander has taken a stand against keeping immunity provisions for past coup makers as Prime Minister Rabuka pushes constitutional change.
-
-## [What it's like to lose your job to AI](https://www.rnz.co.nz/news/personal-finance/2346813/what-it-s-like-to-lose-your-job-to-ai)
-
-via RNZ National News · 2026-11-04
-
-"It's ultimately going to be self defeating," says a business development specialist made redundant because AI was taking over her role.
-
-## [Pacific Winds 20261105](https://pcisguam.substack.com/p/pacific-winds-20261105)
-
-via Pacific Center for Island Security · 2026-11-04, updated 2026-11-24
-
-A daily collection of news affecting the Asia-Pacific region
-
-## [Swimming against the tide - the Kiwis crossing the ditch to move home](https://www.rnz.co.nz/news/world/2347891/swimming-against-the-tide-the-kiwis-crossing-the-ditch-to-move-home)
-
-via RNZ National News · 2026-11-04
-
-Why some are making their way back.
-
-## ['Completely avoidable': Fenz sees upsurge in fires due to fireworks](https://www.rnz.co.nz/news/community/2351970/completely-avoidable-fenz-sees-upsurge-in-fires-due-to-fireworks)
-
-via RNZ National News · 2026-11-04
-
-It's Guy Fawkes day and in the lead-up, Fire and Emergency has already seen a spate of fires caused by stray fireworks.
-
-## [Midterm election results recap](https://www.talanei.com/2026/11/04/mid-term-election-results-recap/)
-
-via Talanei · 2026-11-04, updated 2026-11-06
-
-The voters have elected Uifaatali Amata to a 7th term in Congress. In yesterday’s midterm elections, she received 4,215 votes, or 60.7%, of the 6,948 votes cast. Sandra King Young, a first time contender for American Samoa’s
-
-## ['I've put the hard yards in': Older jobseekers say ageism stopping them from getting work](https://www.rnz.co.nz/news/personal-finance/2348006/i-ve-put-the-hard-yards-in-older-jobseekers-say-ageism-stopping-them-from-getting-work)
-
-via RNZ National News · 2026-11-04
-
-But an expert says businesses will have to embrace them if the age of superannuation is raised.
-
-## [One dead, four badly hurt in Whanganui crash](https://www.rnz.co.nz/news/emergencies_local/2350173/one-dead-four-badly-hurt-in-whanganui-crash)
-
-via RNZ National News · 2026-11-04
-
-Two people were taken to hospital with critical injuries, while another two were in moderate condition.
-
-## [Teams of specialist paramedics who back police to be shut down by Christmas](https://www.rnz.co.nz/news/health/2346799/teams-of-specialist-paramedics-who-back-police-to-be-shut-down-by-christmas)
-
-via RNZ National News · 2026-11-04
-
-SERT paramedics were at the scene of the Linwood mosque shooting.
-
-## ['The system failed': Ricky Kwok speaks out three years after parents' murders](https://www.rnz.co.nz/news/crime-and-justice/2346696/the-system-failed-ricky-kwok-speaks-out-three-years-after-parents-murders)
-
-via RNZ National News · 2026-11-04
-
-Three years after his parents were murdered in their Auckland home, Ricky Kwok speaks for the first time about their deaths and why he believes the system failed them.
-
-## [Tonga-Samoa rivalry offers opportunity for annual Pacific rugby league series](https://www.rnz.co.nz/news/pacific/2349599/tonga-samoa-rivalry-offers-opportunity-for-annual-pacific-rugby-league-series)
-
-via RNZ Pacific News · 2026-11-04
-
-Tonga's 20-18 win over Samoa at the Rugby League World Cup has renewed discussion about the possibility of an annual series between the Pacific rivals.
-
-## [Government Beyond the Ballot](https://olelo.org/inside-local-govt/?utm_source=rss&utm_medium=rss&utm_campaign=inside-local-govt)
-
-via ‘Ōlelo Community Media · 2026-11-04
-
-Stay Informed Year-Round As another election season comes to a close, ʻŌlelo Community Media extends its congratulations to Hawaiʻi’s newly elected and reelected officials. We look forward to continuing our work with government partners to help keep our communities informed and connected. While Election Day may be behind us, the conversations and decisions shaping our \[…\]
-
-The post [Government Beyond the Ballot](https://olelo.org/inside-local-govt/) appeared first on [Olelo Community Media](https://olelo.org).
-
-## [Parliamentary committee puts ratification of Fiji-Australia security treaty on hold](https://www.rnz.co.nz/news/pacific/2349209/parliamentary-committee-puts-ratification-of-fiji-australia-security-treaty-on-hold)
-
-via RNZ Pacific News · 2026-11-04
-
-Prime Minister Sitiveni Rabuka says he is "very disappointed" and would pursue "another route" to get the Vuvale Union and Ocean of Peace Alliance bilateral agreements ratified.
-
-## [Nursing teachers blame short-staffing on better frontline pay gap](https://www.rnz.co.nz/news/health/2347918/nursing-teachers-blame-short-staffing-on-better-frontline-pay-gap)
-
-via RNZ National News · 2026-11-04
-
-They say their jobs are becoming increasingly difficult as they cope with bigger class sizes and a shortage of staff.
-
-## [TBS ATM machine now available at the airport](https://www.samoanews.com/local-news/tbs-atm-machine-now-available-airport)
-
-via Samoa News · 2026-11-04
-
-[![TBAS ATM Machine](https://www.samoanews.com/sites/default/files/styles/slideshow/public/field/image/airport_atms.png?itok=XcG85VWn)](https://www.samoanews.com/sites/default/files/styles/article_normal_image/public/field/image/airport_atms.png?itok=Y82AypP2)
-
-Source: PAAS press release
-
-Pago Pago, AMERICAN SAMOA — Port Administration American Samoa (PAAS) has announced the opening of a Territorial Bank of American Samoa (TBAS) Automated Teller Machine (ATM) at Pago Pago International Airport, providing travelers, airport employees, and the general public with convenient access to banking services.
-
-PAAS considers the new ATM as another positive step in Port Admin's ongoing efforts to improve airport facilities, enhance customer convenience, and deliver a better overall experience for residents and visitors traveling through American Samoa's primary international gateway.
-
-Port Director Barney Sene expressed his appreciation to TBAS Chief Executive Officer Owen Peery and his team for recognizing the public need and working collaboratively with Port Administration to make this service available.
-
-“We sincerely thank TBAS CEO Owen Peery and his entire team for recognizing this important public need and responding with a practical solution,” he said.
-
-“Improving the airport experience is not just about major infrastructure investments. It is also about providing the everyday services and conveniences that make travel easier for our residents and visitors.”
-
-Sene added, “Our goal is to make Pago Pago International Airport more welcoming, convenient, and responsive to the needs of the people we serve. We appreciate TBAS stepping forward as a partner in that effort and look forward to continued collaboration.”
-
-Section:
-
-[Local News](https://www.samoanews.com/local-news)
-
-Tags:
-
-[ATM MACHINES](https://www.samoanews.com/atm-machines)
-
-## [ASCC Ethnomusicology Forum showcases SOLFA string ensemble](https://www.samoanews.com/local-news/ascc-ethnomusicology-forum-showcases-solfa-string-ensemble)
-
-via Samoa News · 2026-11-04
-
-“From Kitara to Orchestra: Mapping the String Traditions of Samoa”
-
-[![Members of  SOLFA](https://www.samoanews.com/sites/default/files/styles/slideshow/public/field/image/ascc_ethnomusicology_2.jpeg?itok=8Rnp94yK)](https://www.samoanews.com/sites/default/files/styles/article_normal_image/public/field/image/ascc_ethnomusicology_2.jpeg?itok=EarJIgF8)
-
-By
-
-James Kneubuhl, ASCC Press Officer
-
-_Pago Pago, AMERICAN SAMOA  —_ The Fine Arts Department at the American Samoa Community College (ASCC) hosted its 5th annual Ethnomusicology Forum on Wednesday, October 28th. Intended to stimulate student interest, the forum typically explores some aspect of Music studies particularly relevant to the field.
-
-The theme of this year’s forum was “From Kitara to Orchestra: Mapping the String Traditions of Samoa”, and the discussion traced the evolution of SOLFA, a string ensemble and music education group based in the Independent State of Samoa that seeks to integrate a western classical music approach with Samoan musical traditions.
-
-To help set the stage for the event, on the day before the forum three members of SOLFA performed a late afternoon mini-concert for the ASCC students and staff.
-
-Featured performers included Rosaivitilesaualofaoleola “Rosa” Solomona, co-founder and president of Solfa, on vocals and violin; Rosa’s brother Philton Solomona on violin and saxophone; and Haydon Afele-Nickel on violin.
-
-The three musicians gave ensemble as well as solo performances, with a repertoire ranging from classical pieces to Samoan melodies, showcasing how easily music from different cultural contexts can co-exist within a single performance.
-
-While only three of its musicians participated in the mini-concert and forum at ASCC, SOLFA regularly collaborates with many other players and singers in Samoa and beyond, and is equally adept at performing in either a small or a large-sized configuration.
-
-At the forum itself, to give a broad overview of the history of western string instruments in relation to the music of Samoa, the forum presentation was divided into segments, the first of which was “Migration & Adaptation: The Arrival of the Strings”.
-
-This section highlighted the arrival of the guitar and ukulele in Samoa via sailors, traders and missionaries, beginning a long integration process with the culture of Samoa. Keynote speaker Susau Konousi Solomona (mother of Rosa and Philton), Lecturer of Music & Performing Arts in the Faculty of Education at the National University of Samoa, shared insights based on many years of study, including anecdotes of the limited introduction of violins to Samoa by missionaries in the 1800s.
-
-Next, the focus of the forum shifted to the present day for “The Genesis, Legacy and Politics of SOLFA”, for which Rosa Solomona served as guest speaker and recounted the formation and early activities of the string ensemble. Envisioning a group that could combine western music education with local cultural interests, Solomona found that bringing those two worlds together often required political negotiations, regional representation, and community support. Nevertheless, Solomona managed to work through the challenges, and in only a few years SOLFA established itself as a credible artistic and cultural entity.
-
-The final portions of the forum consisted of a question-and-answer exchange, followed by a musical finale in which the SOLFA musicians collaborated with the ASCC Vocal Ensemble.
-
-ASCC Fine Arts Department chairperson Mr. Kuki Tuiasosopo subsequently deemed the forum a success and thanked all of those who participated. “Fa’afetai tele lava colleagues,” said Tuiasosopo, “community members, and especially our students who joined us on Tuesday evening’s free concert and yesterday’s Ethnomusicology Forum!  Thank you for your support of our efforts.”
-
-Tuiasosopo also credited local collaborators for their role in organizing SOLFA’s visit to American Samoa.
-
-“We are deeply grateful for the wonderful partnership and collaboration with the Arts Council Executive Director Ammon Fepulea’i, Music Coordinator John Mailo, and Program Director Magdalene Leauanae of DOE Division of Curriculum and Instructions,” he said. “Together, we share a vision to preserve, perpetuate, and strengthen our Samoan musical heritage for the future generation.
-
-“Bringing SOLFA on campus has reignited an interest among our students in Samoan instrumental music.  Therefore, we are committed to revive our instrumental ensembles, and working alongside the arts council and DCI, the future looks brighter for MUS 170 Beginning Orchestra, and MUS 180 Band.”
-
-For more information on SOLFA, visit their pages on Facebook or Instagram, or their web page at: [https://solfamusic.org](https://solfamusic.org)
-
-Section:
-
-[Local News](https://www.samoanews.com/local-news)
-
-Tags:
-
-[OLFA string ensemble](https://www.samoanews.com/olfa-string-ensemble)
-
-## [No evidence of customer data leak in unauthorized transactions: SinoPac](https://focustaiwan.tw/society/202611040022)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taipei, Nov. 4 (CNA) Bank SinoPac said Wednesday it had found no evidence of customer data being leaked in 427 unauthorized transactions involving 419 customer accounts the previous day.
-
-## [A nuclear Philippines in six years? OECD’s nuclear chief isn’t convinced.](https://www.rappler.com/business/nuclear-philippines-2032-oecd-nea/)
-
-via Rappler · 2026-11-04
-
-The head of the OECD's Nuclear Energy Agency casts doubt on the Philippines' 2032 nuclear target, saying that getting its first reactor operating will likely take longer than six years
-
-## [\[In the Public Square\] US elections: What’s at stake](https://www.rappler.com/philippines/in-the-public-square-2026-usa-midterm-elections-impact/)
-
-via Rappler · 2026-11-04
-
-What are some of the highlights of an election that is consequential for the rest of the world?
-
-## [Major weapons procurement plans in limbo as lawmakers unfreeze funding](https://focustaiwan.tw/politics/202611040021)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taipei, Nov. 4 (CNA) Lawmakers unfroze funding for 74 budget items under the Ministry of National Defense's (MND) 2026 general budget Wednesday, but several major items, including the procurement of National Advanced Surface-to-Air Missile Sysyems (NASAMS) and follow-up submarines under the Indigenous Defense Submarine (IDS) program, remain unresolved.
-
-## [Taichung mayoral candidates Ho, Chiang attend transit hub opening](https://focustaiwan.tw/politics/202611040020)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taichung, Nov. 4 (CNA) Democratic Progressive Party Taichung mayoral candidate Ho Hsin-chun (何欣純) and her Kuomintang rival Johnny Chiang (江啟臣) attended Wednesday's opening ceremony for a new bus transfer center expected to make transfers safer and more convenient for commuters.
-
-## [MUFG Emut Bank to operate without cash cards](https://www.japantimes.co.jp/business/2026/11/04/mufg-emut-cash-cards/)
-
-via Japan Times · 2026-11-04
-
-MUFG Emut will be the first bank affiliated with a major Japanese financial group not to issue cash cards.
-
-## [TWSE, Bloomberg team up to boost Taiwan firms' global visibility](https://focustaiwan.tw/business/202611040019)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taipei, Nov. 4 (CNA) The Taiwan Stock Exchange (TWSE) on Wednesday signed a memorandum of understanding (MOU) with Bloomberg to raise the international profile of Taiwanese companies and help foreign institutional investors better understand their financial fundamentals.
-
-## [Ramon Ang’s youngest son Jacob joins his family on Ginebra board](https://www.rappler.com/business/ramon-ang-youngest-son-jacob-paolo-director-ginebra-san-miguel/)
-
-via Rappler · 2026-11-04
-
-With the youngest Ang’s appointment, there are now four Ang family members on Ginebra's nine-member board
-
-## [Taiwan cites bipartisan U.S. support after Democrats win Congress](https://focustaiwan.tw/politics/202611040018)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taipei, Nov. 4 (CNA) Taiwan continues to enjoy bipartisan support in the United States Congress and will work with both major parties to strengthen Taipei-Washington ties following the Democrats' midterm election victories, the government said Wednesday.
-
-## [A year after Tino: Cebu survivors strive to reclaim all they lost](https://www.rappler.com/philippines/visayas/typhoon-tino-cebu-survivors-2026/)
-
-via Rappler · 2026-11-04
-
-Gina Paumba didn’t just lose her house in the aftermath of Typhoon Tino, she lost 7 years of happy memories and what would have been her grandchildren's inheritance
-
-## [President Simina Acts on Measures Passed by the 24th Congress During Its Fifth Regular Session](https://gov.fm/10192-2/)
-
-via FSM National Government · 2026-11-04, updated 2026-11-23
-
-PALIKIR, Pohnpei – November 4, 2026 – His Excellency Wesley W. Simina, President of the Federated States of Micronesia (FSM), has completed action on measures transmitted by the 24th FSM Congress following its Fifth Regular Session, signing into law legislations aimed at supporting infrastructure development, public services, economic and social programs, government operations, and national \[…\]
-
-## [National Taiwan University remains 23rd in 2027 QS Asia rankings](https://focustaiwan.tw/culture/202611040017)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-London, Nov. 4 (CNA) National Taiwan University (NTU) held on to 23rd place in the 2027 QS Asia University Rankings released Tuesday, remaining Taiwan's highest-ranked institution, while National Cheng Kung University (NCKU) posted the biggest jump among local schools.
-
-## [Democrats clinch Senate as voters deliver blistering rebuke to Trump](https://www.hawaiitribune-herald.com/2026/11/04/nation-world-news/democrats-clinch-senate-as-voters-deliver-blistering-rebuke-to-trump/)
-
-via Hawaii Tribune Harold · 2026-11-04, updated 2026-11-05
-
-Democrats seized control of the Senate on Tuesday night, as voters delivered a thorough rebuke to President Donald Trump in places long considered Republican strongholds. On a night shaping up as a romp, Democrats flipped Senate seats in Maine, according to New York Times projections, and in six other states, and were in a strong position to take control of the House.
-
-The post [Democrats clinch Senate as voters deliver blistering rebuke to Trump](https://www.hawaiitribune-herald.com/2026/11/04/nation-world-news/democrats-clinch-senate-as-voters-deliver-blistering-rebuke-to-trump/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
-
-## [Governor upsets across US: Democrat defeats Texas Governor Abbott; Bottoms, Haaland, Crowley make history](https://www.hawaiitribune-herald.com/2026/11/04/nation-world-news/governor-upsets-across-us-democrat-defeats-texas-governor-abbott-bottoms-haaland-crowley-make-history/)
-
-via Hawaii Tribune Harold · 2026-11-04, updated 2026-11-05
-
-WASHINGTON — Three-term Republican Texas Governor Greg Abbott lost to Democratic state Representative Gina Hinojosa in a stunning upset that ends the Republican Party’s three-decade hold on the governor’s office, U.S. media projected on Tuesday.
-
-The post [Governor upsets across US: Democrat defeats Texas Governor Abbott; Bottoms, Haaland, Crowley make history](https://www.hawaiitribune-herald.com/2026/11/04/nation-world-news/governor-upsets-across-us-democrat-defeats-texas-governor-abbott-bottoms-haaland-crowley-make-history/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
-
-## [Trump says in interview that he will accept election results](https://www.hawaiitribune-herald.com/2026/11/04/nation-world-news/trump-says-in-interview-that-he-will-accept-election-results/)
-
-via Hawaii Tribune Harold · 2026-11-04, updated 2026-11-05
-
-WASHINGTON — President Donald Trump said Tuesday night that he was “absolutely willing” to accept the results of the midterm elections and was prepared to work with Democrats.
-
-The post [Trump says in interview that he will accept election results](https://www.hawaiitribune-herald.com/2026/11/04/nation-world-news/trump-says-in-interview-that-he-will-accept-election-results/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
-
-## [Army proposes ending leases on state lands ahead of expiration](https://www.hawaiitribune-herald.com/2026/11/04/hawaii-news/army-proposes-ending-leases-on-state-lands-ahead-of-expiration/)
-
-via Hawaii Tribune Harold · 2026-11-04, updated 2026-11-05
-
-The Army has proposed officially terminating its leases on several parcels of state land, including in Makua Valley on Oahu and parts of Pohakuloa on Hawaii Island.
-
-The post [Army proposes ending leases on state lands ahead of expiration](https://www.hawaiitribune-herald.com/2026/11/04/hawaii-news/army-proposes-ending-leases-on-state-lands-ahead-of-expiration/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
-
-## [Stocks tumble as Democrats are set to gain control of Congress](https://www.hawaiitribune-herald.com/2026/11/04/nation-world-news/stocks-tumble-as-democrats-are-set-to-gain-control-of-congress/)
-
-via Hawaii Tribune Harold · 2026-11-04, updated 2026-11-05
-
-Asian stock markets tumbled Wednesday as Democrats appeared poised to take control of Congress, raising concerns that greater scrutiny of the data center boom could derail a prolonged rally in the region’s technology stocks.
-
-The post [Stocks tumble as Democrats are set to gain control of Congress](https://www.hawaiitribune-herald.com/2026/11/04/nation-world-news/stocks-tumble-as-democrats-are-set-to-gain-control-of-congress/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
-
-## [A NASA telescope is predicted to crash back to Earth early today](https://www.hawaiitribune-herald.com/2026/11/04/nation-world-news/a-nasa-telescope-is-predicted-to-crash-back-to-earth-early-today/)
-
-via Hawaii Tribune Harold · 2026-11-04, updated 2026-11-05
-
-In the coming hours, NASA’s Neil Gehrels Swift Observatory will crash back to Earth.
-
-The post [A NASA telescope is predicted to crash back to Earth early today](https://www.hawaiitribune-herald.com/2026/11/04/nation-world-news/a-nasa-telescope-is-predicted-to-crash-back-to-earth-early-today/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
-
-## [Man pardoned by Trump over January 6 role charged with threatening judges](https://www.hawaiitribune-herald.com/2026/11/04/nation-world-news/man-pardoned-by-trump-over-january-6-role-charged-with-threatening-judges/)
-
-via Hawaii Tribune Harold · 2026-11-04, updated 2026-11-05
-
-A man who was pardoned by President Donald Trump after pleading guilty to a charge related to the January 6, 2021, attack on the U.S. Capitol has been arrested and charged with threatening judges who presided over cases concerning the riot.
-
-The post [Man pardoned by Trump over January 6 role charged with threatening judges](https://www.hawaiitribune-herald.com/2026/11/04/nation-world-news/man-pardoned-by-trump-over-january-6-role-charged-with-threatening-judges/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
-
-## [News in brief for November 4](https://www.hawaiitribune-herald.com/2026/11/04/nation-world-news/news-in-brief-for-november-4-2/)
-
-via Hawaii Tribune Harold · 2026-11-04, updated 2026-11-05
-
-Binance says hackers plotted
-$6.3 billion heist for months
-
-The post [News in brief for November 4](https://www.hawaiitribune-herald.com/2026/11/04/nation-world-news/news-in-brief-for-november-4-2/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
-
-## [Trump says US to end $4 billion in aid to Israel in favor of new deal](https://www.hawaiitribune-herald.com/2026/11/04/nation-world-news/trump-says-us-to-end-4-billion-in-aid-to-israel-in-favor-of-new-deal/)
-
-via Hawaii Tribune Harold · 2026-11-04, updated 2026-11-05
-
-President Donald Trump said Tuesday that the bulk of U.S. aid to Israel would be “cut off at the end of the year,” under an agreement reached with Prime Minister Benjamin Netanyahu months ago. He described the Election Day declaration chiefly as a political effort to take a “bad talking point” away from the left wing of the Democratic Party.
-
-The post [Trump says US to end $4 billion in aid to Israel in favor of new deal](https://www.hawaiitribune-herald.com/2026/11/04/nation-world-news/trump-says-us-to-end-4-billion-in-aid-to-israel-in-favor-of-new-deal/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
-
-## [New Jersey governor warns ports against accepting Russian diesel](https://www.hawaiitribune-herald.com/2026/11/04/nation-world-news/new-jersey-governor-warns-ports-against-accepting-russian-diesel/)
-
-via Hawaii Tribune Harold · 2026-11-04, updated 2026-11-05
-
-New Jersey Governor Mikie Sherrill warned local port officials and terminal operators against accepting Russian diesel, saying those shipments break federal law.
-
-The post [New Jersey governor warns ports against accepting Russian diesel](https://www.hawaiitribune-herald.com/2026/11/04/nation-world-news/new-jersey-governor-warns-ports-against-accepting-russian-diesel/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
-
-## [Trump’s DOJ sends monitors overwhelmingly to Democratic areas, expands Alaska probe](https://www.hawaiitribune-herald.com/2026/11/04/nation-world-news/trumps-doj-sends-monitors-overwhelmingly-to-democratic-areas-expands-alaska-probe/)
-
-via Hawaii Tribune Harold · 2026-11-04
-
-WASHINGTON — The U.S. Justice Department deployed officials on Tuesday across the country to monitor midterm voting in predominantly Democratic jurisdictions while widening a criminal probe into an Alaska campaign for a U.S. Senate seat.
-
-The post [Trump’s DOJ sends monitors overwhelmingly to Democratic areas, expands Alaska probe](https://www.hawaiitribune-herald.com/2026/11/04/nation-world-news/trumps-doj-sends-monitors-overwhelmingly-to-democratic-areas-expands-alaska-probe/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
-
-## [Eight THSRC employees found to have falsified inspection records](https://focustaiwan.tw/society/202611040016)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taipei, Nov. 4 (CNA) Eight Taiwan High Speed Rail Corp. (THSRC) employees were recently found to have falsified inspection records for the Yunlin section of the high-speed rail line over a five-year period, a company executive said Wednesday.
-
-## [\[DECODED\] AI is changing our lives more than we realize](https://www.rappler.com/voices/newsletters/decoded-artificial-intelligence-change-filipinos/)
-
-via Rappler · 2026-11-04
-
-AI is reshaping our lives more than we realize, from how much time we spend online, to how safe our children are, to how we vote
-
-## [The Democrats’ ‘blue tsunami’ is a strong repudiation of Donald Trump. Now, they will look to replicate it in 2028](https://www.rappler.com/world/us-canada/analysis-democrats-victory-2026-usa-midterm-elections/)
-
-via Rappler · 2026-11-04
-
-While Democrats were widely predicted to take the House and had a reasonable chance to win the Senate, no one could have predicted at the beginning of 2026 such a huge 'blue wave' washing over the US by November
-
-## [Sotto wants institutionalized rules for absentee senators](https://www.rappler.com/philippines/sotto-wants-institutionalized-rules-absentee-senators/)
-
-via Rappler · 2026-11-04
-
-'There is a policy gap as regards the possible sanction on a member of the Senate with prolonged unauthorized absence rendering them unable to participate in major legislative functions,' the senator says in his proposed resolution
-
-## [Former CCTV host seeking asylum in Taiwan deported to Thailand](https://focustaiwan.tw/society/202611040015)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taipei, Nov. 4 (CNA) Chinese national Cheng Wanjun (程萬軍), who remained at Taoyuan International Airport after arriving on a connecting flight from Thailand on Monday and sought asylum in Taiwan, was deported to Thailand early Wednesday, the National Immigration Agency (NIA) said.
-
-## [Tokyo police to introduce AI-based accident reconstruction system](https://www.japantimes.co.jp/news/2026/11/04/japan/crime-legal/tokyo-police-ai-reconstruction/)
-
-via Japan Times · 2026-11-04
-
-The system will combine AI with 3D spatial data from accident sites and footage from security cameras, reducing the need for on-site inspections.
-
-## [Taiwan shares close lower but recover from lows amid U.S. midterms](https://focustaiwan.tw/business/202611040014)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taipei, Nov. 4 (CNA) Shares in Taiwan closed lower Wednesday but recovered from the day's low as bargain hunters bought shares after prices fell, while investors assessed the U.S. midterm elections, in which Democrats were projected to gain control of Congress, dealers said.
-
-## [Singapore Airlines says 46,000 booking records affected by Amadeus breach](https://www.rappler.com/technology/singapore-airlines-booking-records-affected-amadeus-data-breach/)
-
-via Rappler · 2026-11-04
-
-Singapore Airlines joins Cathay Pacific Airways, Japan Airlines, South Korea's Asiana Airlines, and others that have reported customer data ​was compromised in the Amadeus breach
-
-## [Supreme Court junks Romualdez challenge vs Ombudsman plunder case](https://www.rappler.com/philippines/supreme-court-resolution-junk-martin-romualdez-petition-plunder-case/)
-
-via Rappler · 2026-11-04
-
-The SC en banc rules that the petition has become moot since there's already a plunder case against Romualdez pending before the Sandiganbayan
-
-## [\[In This Economy\] Pax Silica: What’s the Philippines’ trump card?](https://www.rappler.com/voices/thought-leaders/in-this-economy-pax-silica-what-philippines-trump-card/)
-
-via Rappler · 2026-11-04
-
-US President Donald Trump’s visit to the Philippines this month gives President Ferdinand Marcos Jr. a good occasion to explain what we’re negotiating for on Pax Silica
-
-## [How the midterms have just transformed American politics](https://www.rnz.co.nz/news/world/2339034/how-the-midterms-have-just-transformed-american-politics)
-
-via RNZ National News · 2026-11-04
-
-Analysis - American voters reacted decisively today to reject the way things are being done.
-
-## [Talk of Germany joining GCAP fighter program grows, but Japanese concerns persist](https://www.japantimes.co.jp/news/2026/11/04/japan/germany-japan-gcap-fighter-jet/)
-
-via Japan Times · 2026-11-04
-
-Officials in Tokyo are worried that adding a new partner at this stage could further delay the aircraft's planned 2035 introduction date.
-
-## [Unofficial 2026 Midterm Election Returns](https://www.talanei.com/2026/11/03/unofficial-2026-midterm-election-returns/)
-
-via Talanei · 2026-11-04, updated 2026-11-06
-
-KHJ News has received unofficial returns from the American Samoa Election Office for Tuesday’s midterm election. The documents cover the race for Delegate to the U.S. Congress and the territorial House of Representatives races in all 17
-
-## [Japan unlikely to raise cap for foreign workers despite labor shortages](https://www.japantimes.co.jp/news/2026/11/04/japan/onoda-foreign-residents/)
-
-via Japan Times · 2026-11-04
-
-Kimi Onoda, minister in charge of policies related to foreign nationals, said demand for a special visa category is expected to eventually decline.
-
-## [Narrow victories in Hawaii County Council races](https://www.hawaiitribune-herald.com/2026/11/03/hawaii-news/narrow-victories-in-hawaii-county-council-races/)
-
-via Hawaii Tribune Harold · 2026-11-04
-
-Three Hawaii County Council candidates won tight races in general election runoffs today and assume their seats as county lawmakers on Dec.7.
-
-The post [Narrow victories in Hawaii County Council races](https://www.hawaiitribune-herald.com/2026/11/03/hawaii-news/narrow-victories-in-hawaii-county-council-races/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
-
-## [U.S. dollar closes higher on Taipei forex market](https://focustaiwan.tw/business/202611040013)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taipei, Nov. 4 (CNA) The U.S. dollar rose against the Taiwan dollar Wednesday, gaining NT$0.061 to close at NT$32.821.
-
-## [Braised pork rice best represents Taiwan's cuisine: Survey](https://focustaiwan.tw/society/202611040012)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taipei, Nov. 4 (CNA) Braised pork rice, or "lu rou fan" (滷肉飯), is the food most representative of Taiwan's cuisine, according to a survey released Wednesday by National Taiwan Normal University (NTNU).
-
-## [‘Sister Brother Manhole Cover’ wins top prize at Tokyo International Film Festival](https://www.japantimes.co.jp/culture/2026/11/04/entertainment-news/tiff-closing-film-tokyo/)
-
-via Japan Times · 2026-11-04
-
-Directed by Milcho Manchevski, the film took the Tokyo Grand Prix, earning top honors among 15 entries in the Competition section.
-
-## [Trump hand-picked Senate candidates. Republicans paid the price.](https://www.japantimes.co.jp/news/2026/11/04/world/politics/trump-senate-candidates-republicans/)
-
-via Japan Times · 2026-11-04
-
-Tuesday's results revealed the U.S. president was unable to persuade the broader electorate to back his choices.
-
-## [One person injured in Mt Eden house fire](https://www.rnz.co.nz/news/emergencies_local/2340918/one-person-injured-in-mt-eden-house-fire)
-
-via RNZ National News · 2026-11-04
-
-Multiple sheds were found on fire when emergency services arrived.
-
-## [25.7% in Japan to use food tax cut benefits for savings, survey finds](https://www.japantimes.co.jp/business/2026/11/04/food-tax-benefits-savings-survey/)
-
-via Japan Times · 2026-11-04
-
-Regarding how the tax cut might affect their consumer behavior, 49.7% of people surveyed said they would not change their spending plans.
-
-## [DPP leader rejects food tax cut bill in current form](https://www.japantimes.co.jp/news/2026/11/04/japan/politics/tamaki-consumption-tax-bill-rejection/)
-
-via Japan Times · 2026-11-04
-
-Yuichiro Tamaki indicated the DPP's decision to back the legislation would depend on if the ruling coalition accepts its alternative proposal.
-
-## [Taiwan firm signs MOU with Ukrainian drone company on supply chains](https://focustaiwan.tw/sci-tech/202611040011)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taipei, Nov. 4 (CNA) Taiwan's AerosoarX signed a memorandum of understanding (MOU) with Ukrainian unmanned systems company UFORCE on Wednesday to explore ways to cooperate on supply chains, including finding alternative component suppliers.
-
-## [Gov. Green wins re-election by resounding margin](https://www.hawaiitribune-herald.com/2026/11/03/hawaii-news/gov-green-wins-re-election-by-resounding-margin/)
-
-via Hawaii Tribune Harold · 2026-11-04
-
-Hawaii Gov. Josh Green handily won reelection Tuesday, defeating the Republican ticket of Gary Cordery and running mate Daniel Anthony by a record margin to secure a second four-year term.
-
-The post [Gov. Green wins re-election by resounding margin](https://www.hawaiitribune-herald.com/2026/11/03/hawaii-news/gov-green-wins-re-election-by-resounding-margin/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
-
-## [Ed Case, Jill Tokuda win re-election to the U.S. House](https://www.hawaiitribune-herald.com/2026/11/03/hawaii-news/ed-case-jill-tokuda-win-re-election-to-the-u-s-house/)
-
-via Hawaii Tribune Harold · 2026-11-04
-
-U.S. Reps. Ed Case and Jill Tokuda easily won re-election today as part of a nationwide blue wave tsunami that will see a return of Democratic control of both the U.S. House and U.S. Senate when the next Congress is sworn this coming January.
-
-The post [Ed Case, Jill Tokuda win re-election to the U.S. House](https://www.hawaiitribune-herald.com/2026/11/03/hawaii-news/ed-case-jill-tokuda-win-re-election-to-the-u-s-house/) appeared first on [Hawaii Tribune-Herald](https://www.hawaiitribune-herald.com).
-
-## [Boats linked to legislative aide escape probe returned for inquiry](https://focustaiwan.tw/society/202611040010)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taipei, Nov. 4 (CNA) Investigators seized two fishing boats in Keelung on Wednesday as part of a probe into a legislative aide who jumped bail in September after being indicted on corruption charges and reportedly fled Taiwan by boat in late October.
-
-## [Dunedin councillor Benedict Ong doubles down on secret asset sale claims](https://www.rnz.co.nz/news/regional/2338379/dunedin-councillor-benedict-ong-doubles-down-on-secret-asset-sale-claims)
-
-via RNZ National News · 2026-11-04
-
-A few hours before the 5pm Wednesday deadline he made another social media post, adding audio of Crazy by Gnarls Barkley.
-
-## [Person in hospital after North Shore assault](https://www.rnz.co.nz/news/crime-and-justice/2340010/person-in-hospital-after-north-shore-assault)
-
-via RNZ National News · 2026-11-04
-
-They are in a serious condition.
-
-## ['It's really, truly a struggle' - young jobseekers say laziness is not to blame](https://www.rnz.co.nz/news/personal-finance/2339933/it-s-really-truly-a-struggle-young-jobseekers-say-laziness-is-not-to-blame)
-
-via RNZ National News · 2026-11-04
-
-Bachelor of Health graduate Fatima Alsaeed has lost count of the jobs she has applied for since graduating in May.
-
-## [Taiwan shares close down 0.83%](https://focustaiwan.tw/business/202611040009)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taipei, Nov. 4 (CNA) Taiwan shares ended down 358.63 points, or 0.83 percent, at 42,948.91 Wednesday on turnover of NT$1.11 trillion (US$34.02 billion).
-
-## [Japanese stocks sink as U.S. midterm results hit tech shares](https://www.japantimes.co.jp/business/2026/11/04/markets/japan-stocks-sink/)
-
-via Japan Times · 2026-11-04
-
-The tech-heavy Nikkei 225 declined as much as 4.8%, with chip and AI-related shares slumping more than 13% and among the worst performers.
-
-## [Firefighters union threatens 10 hours strikes, FENZ warns of 'extreme risk'](https://www.rnz.co.nz/news/community/2337771/firefighters-union-threatens-10-hours-strikes-fenz-warns-of-extreme-risk)
-
-via RNZ National News · 2026-11-04
-
-The union wants the government to step in to help bargaining with its employer.
-
-## [UN report warns of major threats to NZ's productive soils and freshwater contamination risk](https://www.rnz.co.nz/news/country/2339176/un-report-warns-of-major-threats-to-nz-s-productive-soils-and-freshwater-contamination-risk)
-
-via RNZ National News · 2026-11-04
-
-New Zealand has highly productive soils, but a global report warns erosion, compaction and freshwater contamination risks are putting the whenua under pressure.
-
-## [TSMC scheduled to list NT$14.8 billion green bonds on Nov. 12](https://focustaiwan.tw/business/202611040008)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taipei, Nov. 4 (CNA) Taiwan Semiconductor Manufacturing Co. (TSMC) is scheduled to list NT$14.8 billion (US$450 million) in green bonds on Nov. 12, the Taipei Exchange (TPEx) said Wednesday.
-
-## [Family receives remains of Hiroshima A-bomb victim 81 years after his death](https://www.japantimes.co.jp/news/2026/11/04/japan/society/hiroshima-atomic-victim-remains/)
-
-via Japan Times · 2026-11-04
-
-It marks the first time Hiroshima returned the remains of an atomic bomb victim whose name had been found to be recorded incorrectly in its registry.
-
-## [Teens fear homelessness thanks to 'unfair and punitive' Jobseeker cuts](https://www.rnz.co.nz/news/political/2338649/teens-fear-homelessness-thanks-to-unfair-and-punitive-jobseeker-cuts)
-
-via RNZ National News · 2026-11-04
-
-Teens struggling to find work face losing Jobseeker support, with their parents’ income now tested.
-
-## [Democrats clinch huge wins on inflation anger and Trump fatigue](https://www.japantimes.co.jp/news/2026/11/04/world/politics/america-us-midterms-vote-congress/)
-
-via Japan Times · 2026-11-04
-
-The party flipped Senate seats in Republican bastions and racked up wins in competitive House races.
-
-## [North Korea pours cold water on Kim-Trump meeting as APEC summit looms](https://www.japantimes.co.jp/news/2026/11/04/asia-pacific/north-korea-kim-trump-meeting/)
-
-via Japan Times · 2026-11-04
-
-The powerful sister of North Korea's leader issued a familiar ultimatum to Trump, telling him to drop his country's "hostile policy."
-
-## [Life on the streets goes on under move-on orders](https://www.rnz.co.nz/news/community/2338449/life-on-the-streets-goes-on-under-move-on-orders)
-
-via RNZ National News · 2026-11-04
-
-It is business as usual for the wardens who wander the streets to wake up rough sleepers each morning.
-
-## [North Korea fires off ‘several’ missiles in latest weapons test](https://www.japantimes.co.jp/news/2026/11/04/asia-pacific/north-korea-missile-test-november-4/)
-
-via Japan Times · 2026-11-04
-
-Tokyo did not issue an alert about any North Korean missile launches, as it usually does with those that could pose a threat to Japan.
-
-## [Visionary or conman? The legacy of Bougainville's self-proclaimed King Musingku](https://www.rnz.co.nz/news/pacific/2335611/visionary-or-conman-the-legacy-of-bougainville-s-self-proclaimed-king-musingku)
-
-via RNZ Pacific News · 2026-11-04
-
-The recent death of the self-proclaimed King of Papaala, Noah Musingku, has prompted discussion over whether this famous, reclusive Bougainvillean was a visionary or a conman.
-
-## [High waves around Ogasawara Islands expected as Typhoon In-fa approaches](https://www.japantimes.co.jp/news/2026/11/04/japan/typhoon-infa/)
-
-via Japan Times · 2026-11-04
-
-Rain could also intensify in areas from the Kanto region to around Shizuoka Prefecture on Thursday.
-
-## [Kaea Karauria's teen killer on cusp of intellectual disability - expert](https://www.rnz.co.nz/news/crime-and-justice/2338105/kaea-karauria-s-teen-killer-on-cusp-of-intellectual-disability-expert)
-
-via RNZ National News · 2026-11-04
-
-A psychologist says the teen, accused of murdering 15yo Kaea Karauria, was exposed to alcohol and drugs in the womb.
-
-## [T-34 sustains minor damage, pilots safe in Kaohsiung incident](https://focustaiwan.tw/politics/202611040007)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taipei, Nov. 4 (CNA) A T-34 trainer aircraft sustained "minor damage" during a landing at Gangshan Air Force Base in Kaohsiung Wednesday morning, while the two pilots on board were unharmed, a senior defense official said.
-
-## [Epsom rampage accused Shalty Heta to stand trial in October](https://www.rnz.co.nz/news/crime-and-justice/2337580/epsom-rampage-accused-shalty-heta-to-stand-trial-in-october)
-
-via RNZ National News · 2026-11-04
-
-Shalty Heta will go on trial in the High Court at Auckland in October next year.
-
-## [Election Results from Manu’a polling stations](https://www.talanei.com/2026/11/03/election-results-from-manua-polling-stations/)
-
-via Talanei · 2026-11-04, updated 2026-11-06
-
-The first results of today’s midterm elections were from the polling stations in Manu’a which were relayed to the Election Office around 2 p.m. Manu’a District #1, Fitiuta: Congressional Race Aumua Amata – 42 Fualaau Rosie Tago
-
-## [Woman charged with false allegation against footballer Ryan Mendes](https://www.rnz.co.nz/news/crime-and-justice/2337763/woman-charged-with-false-allegation-against-footballer-ryan-mendes)
-
-via RNZ National News · 2026-11-04
-
-Cape Verde football captain Ryan Mendes' lawyer says police have told him that his client had been cleared.
-
-## [Six political parties back proposal to make govt decisions more child-centred](https://www.rnz.co.nz/news/community/2337620/six-political-parties-back-proposal-to-make-govt-decisions-more-child-centred)
-
-via RNZ National News · 2026-11-04
-
-The plan envisages an Aotearoa where children are put first in all policy and decision making.
-
-## [Man indicted for smuggling marmot, turtles in his pants to Kinmen: CGA](https://focustaiwan.tw/society/202611040006)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taipei, Nov. 4 (CNA) Taiwan's Coast Guard Administration (CGA) said Wednesday that a man it caught entering Kinmen from China with a marmot and eight turtles taped to his inner thighs was recently indicted.
-
-## [Investigation launched after train derails near Ōtira Tunnel](https://www.rnz.co.nz/news/emergencies_local/2336510/investigation-launched-after-train-derails-near-otira-tunnel)
-
-via RNZ National News · 2026-11-04
-
-The coal train was heading towards Christchurch when the last wagon derailed about 10pm on Tuesday
-
-## [5 injured, 2 missing in Panasonic factory fire in Hsinchu](https://focustaiwan.tw/society/202611040005)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taipei, Nov. 4 (CNA) Five people were injured in a fire at one of Japan's Panasonic Holdings Corp. overseas production sites in Hsinchu County on Wednesday, while two remained missing, according to the county's fire bureau.
-
-## [Owner of Auckland heritage building fined $135,000 over dangerous building notice](https://www.rnz.co.nz/news/crime-and-justice/2337426/owner-of-auckland-heritage-building-fined-135-000-over-dangerous-building-notice)
-
-via RNZ National News · 2026-11-04
-
-Built around 1855, the former Fitzroy Hotel on Wakefield Street is considered the city's oldest brick building.
-
-## [‘Manhole card’ collectors’ bad behavior forces some municipalities to end distribution](https://www.japantimes.co.jp/news/2026/11/04/japan/society/manhole-card-collectors/)
-
-via Japan Times · 2026-11-04
-
-The popular card program, with a total distribution of around 26 million, has been hindered by verbal abuse toward employees and illegal parking.
-
-## [Vanushi Walters sees India free trade deal success hinging on first three years](https://www.rnz.co.nz/news/indonz/2336938/vanushi-walters-sees-india-free-trade-deal-success-hinging-on-first-three-years)
-
-via RNZ National News · 2026-11-04
-
-Labour foreign affairs spokesperson Vanushi Walters believes New Zealand has plenty of work to do at home and abroad to reap the trade benefits.
-
-## [Fire engulfs large building in Christchurch](https://www.rnz.co.nz/news/regional/2332517/fire-engulfs-large-building-in-christchurch)
-
-via RNZ National News · 2026-11-04
-
-Firefighters have controlled a blaze that engulfed a large building and sent out plumes of smoke near central Christchurch.
-
-## [CNMI voters favor familiar faces, force runoffs in top races](https://www.pacificislandtimes.com/post/cnmi-voters-favor-familiar-faces-force-runoffs-in-top-races)
-
-via Pacific Island Times · 2026-11-04, updated 2026-11-11
-
-Saipan--The 2026 general election delivered both certainty and suspense for the Northern Mariana Islands, producing decisive outcomes in several high-profile contests while forcing runoff elections to determine who will occupy two of the government's most powerful offices.
-
-## [PharmaEssentia seeks to expand access to blood cancer drug in Europe](https://focustaiwan.tw/sci-tech/202611040004)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taipei, Nov. 4 (CNA) Taiwan-based drugmaker PharmaEssentia Corp. is seeking to expand patient access to its blood cancer drug Ropeg in Europe, where the treatment has yet to receive regulatory approval for essential thrombocythemia (ET), despite securing approval in several major markets.
-
-## [Patient breached leave twice before murder of Laisa Waka Tunidau, inquest hears](https://www.rnz.co.nz/news/crime-and-justice/2336613/patient-breached-leave-twice-before-murder-of-laisa-waka-tunidau-inquest-hears)
-
-via RNZ National News · 2026-11-04
-
-A psychiatrist says there was no consequence for the breaches, with the team instead weighing his overall progress.
-
-## [TAIC investigating fatal plane crash near Nelson](https://www.rnz.co.nz/news/emergencies_local/2333786/taic-investigating-fatal-plane-crash-near-nelson)
-
-via RNZ National News · 2026-11-04
-
-Two people died in the crash.
-
-## [Nine children sent to Wellington Hospital after head gasket blew on school bus](https://www.rnz.co.nz/news/emergencies_local/2330922/nine-children-sent-to-wellington-hospital-after-head-gasket-blew-on-school-bus)
-
-via RNZ National News · 2026-11-04
-
-Wainuiomata Primary School says the incident happened while students were travelling to Te Papa Museum but there are no serious injuries.
-
-## [Japan’s food delivery market faces shakeout as Uber Eats dominates](https://www.japantimes.co.jp/business/2026/11/04/companies/japan-food-delivery-market/)
-
-via Japan Times · 2026-11-04
-
-The food delivery industry saw a surge in new entrants during COVID-19, but the sector has now largely consolidated around three players.
-
-## [Trump’s Supreme Court winning streak in election cases screeches to a halt](https://www.japantimes.co.jp/news/2026/11/04/world/politics/trump-supreme-court-election/)
-
-via Japan Times · 2026-11-04
-
-Justices acted with remarkable speed to shut down his attempt to intervene in California's ballot count on the eve of Tuesday's midterm elections.
-
-## [Banks Peninsula: Christchurch's biggest electorate is a swing seat](https://www.rnz.co.nz/news/politics_election-2026/2325329/banks-peninsula-christchurch-s-biggest-electorate-is-a-swing-seat)
-
-via RNZ National News · 2026-11-04
-
-It's all on in Christchurch's biggest electorate.
-
-## [U.S. dollar up in Taipei trading](https://focustaiwan.tw/business/202611040003)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taipei, Nov. 4 (CNA) The U.S. dollar was traded at NT$32.850 at 10 a.m. Wednesday on the Taipei Foreign Exchange, up NT$0.090 from the previous close.
-
-## [OpenAI employees warned about operational security lapses for years, sources say](https://www.japantimes.co.jp/business/2026/11/04/openai-employees-security-lapses/)
-
-via Japan Times · 2026-11-04
-
-Workers said OpenAI's controls were so lax that outsiders could obtain sensitive information about the AI lab's technology with relative ease.
-
-## [Māori leaving prison feel they are 'set up to fail' after being released](https://www.rnz.co.nz/news/te-manu-korihi/2335957/maori-leaving-prison-feel-they-are-set-up-to-fail-after-being-released)
-
-via RNZ Te Ao Māori · 2026-11-04
-
-Former inmates have told researchers they felt like they were being thrown in the deep end on leaving prison.
-
-## [Disaster management minister visits areas in Kumamoto affected by July quake](https://www.japantimes.co.jp/news/2026/11/04/japan/disaster-minister-kumamoto-visit/)
-
-via Japan Times · 2026-11-04
-
-Goshi Hosono called on the central government to support local governments while stressing the need to improve conditions at evacuation centers.
-
-## [Indonesia arrests chief of staff and top policemen for alleged wiretapping of president](https://www.japantimes.co.jp/news/2026/11/04/asia-pacific/politics/indonesia-wiretapping-president/)
-
-via Japan Times · 2026-11-04
-
-The suspects are accused of illegally tapping phones of the president, journalists, politicians, business people and more from 2025 to this year.
-
-## [Digger driver found dead after incident in Auckland](https://www.rnz.co.nz/news/emergencies_local/2332375/digger-driver-found-dead-after-incident-in-auckland)
-
-via RNZ National News · 2026-11-04
-
-A rapid response unit and an ambulance were called to Stanley Point Road.
-
-## [Police jobs restructure document does not mention AI](https://www.rnz.co.nz/news/science-and-technology/2335157/police-jobs-restructure-document-does-not-mention-ai)
-
-via RNZ National News · 2026-11-04
-
-Instead, the document uses the terms "automation" and "digital enablement" about a dozen times.
-
-## [Bomb threats cause disruptions across Europe but no explosives found](https://www.japantimes.co.jp/news/2026/11/04/world/crime-legal/bomb-threats-flights-cruise-europe/)
-
-via Japan Times · 2026-11-04
-
-No explosives were found, despite extensive searches on the ground after the planes all took off and landed safely in different European cities.
-
-## [Taiwan shares open higher](https://focustaiwan.tw/business/202611040002)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taipei, Nov. 4 (CNA) The Taiwan Stock Exchange's main index opened up 141.91 points at 43,449.45 Wednesday on turnover of NT$11.47 billion (US$349.95 million).
-
-## [Judge tells jury to put emotions aside as four teens face trial for Kyle Whorrall killing](https://www.rnz.co.nz/news/crime-and-justice/2334665/judge-tells-jury-to-put-emotions-aside-as-four-teens-face-trial-for-kyle-whorrall-killing)
-
-via RNZ National News · 2026-11-04
-
-Summing up the case, Justice Simon Mount warned jurors not to lump the four teens together.
-
-## [Taiwan headline news](https://focustaiwan.tw/society/202611040001)
-
-via CNA · 2026-11-04, updated 2026-11-06
-
-Taipei, Nov. 4 (CNA) The lead stories in major Taiwan dailies on Wednesday are as follows:
-
-## [Excitement as albatross lays egg on Dunedin livestream](https://www.rnz.co.nz/news/regional/2334324/excitement-as-albatross-lays-egg-on-dunedin-livestream)
-
-via RNZ National News · 2026-11-04
-
-The very first Toroa egg of the season was laid in front of the Royal Cam, before a global audience.
-
-## [SNPF Board & Staff welcome new CEO](https://talamua.com/?p=62778)
-
-via Talamua · 2026-11-04, updated 2026-11-07
-
-By Lagi Keresoma/ Apia, SAMOA – 4 November 2026 -The new Chief Executive Officer of the Samoa National Provident Fund, Lealali Faletoese Asaua has finally taken office after 3 months since Cabinet endorsed his appointment in July 2026. He was officially welcomed by the SNPF Board and staff in an ava ceremony yesterday. Also welcomed \[…\]
-
-The post [SNPF Board & Staff welcome new CEO](https://talamua.com/?p=62778) appeared first on [Talamua Online](https://talamua.com).
-
-## [Alleged West Auckland copper thieves startled by police](https://www.rnz.co.nz/news/crime-and-justice/2333776/alleged-west-auckland-copper-thieves-startled-by-police)
-
-via RNZ National News · 2026-11-04
-
-Two men have been charged after allegedly breaking into power boxes at a Massey telecommunications site.
-
-## [Campaign with 100 organisations says family justice system is failing](https://www.rnz.co.nz/news/health/2333589/campaign-with-100-organisations-says-family-justice-system-is-failing)
-
-via RNZ National News · 2026-11-04
-
-The campaign, Focus on Safety, outlines seven reforms believed to better the system.
 

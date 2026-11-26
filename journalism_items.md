@@ -1,44 +1,96 @@
 ---
 title: "Student Paper"
 description: "Student journalism and the fourth estate."
-pubDate: Wed, 25 Nov 2026 18:40:28 GMT
+pubDate: Thu, 26 Nov 2026 03:43:56 GMT
 aggregateOf: "journalism.md"
-dateModified: Wed, 25 Nov 2026 18:54:09 GMT
-itemCount: 493
+dateModified: Thu, 26 Nov 2026 14:48:33 GMT
+itemCount: 465
 generator: antenna/0.2.1
 ---
 
 # Student Paper
 
+## [USAC rejects university’s request to remove divestment-related bylaws](https://dailybruin.com/2026/11/25/usac-rejects-universitys-request-to-remove-divestment-related-bylaws/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-26
+
+_This post was updated Nov. 25 at 10:39 p.m._ The Undergraduate Students Association Council voted Tuesday to reject Chancellor Julio Frenk’s request to amend or remove several bylaw provisions related to divestment from companies associated with the Israeli military.
+
+## [UCLA football is filled with out-of-state Bruins. They know how much USC matters](https://dailybruin.com/2026/11/25/ucla-football-is-filled-with-out-of-state-bruins-they-know-how-much-usc-matters/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-26
+
+For a team helmed by a Kulpmont, Pennsylvania, local, whose top two coordinators are from Massachusetts and Pennsylvania, respectively, and with a roster that is comprised of almost half non-Californians, it is hard to imagine that there is a full understanding of arguably Los Angeles’ most famous rivalry.
+
+## [On The Steps Ep. 3: Campus protests, tree lighting, student artists and women’s basketball](https://dailybruin.com/2026/11/25/on-the-steps-ep-3-campus-protests-tree-lighting-student-artists-and-womens-basketball/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-26
+
+This week, protesters called for justice in the death of Nolan Wells, Westwood gathered for the annual tree lighting, students performed at the Bruin Fringe Festival and women’s basketball faced Princeton.
+
+## [A look into next year’s MLB Hall-of-Fame candidates](https://sundial.csun.edu/226395/sports/a-look-into-next-years-mlb-hall-of-fame-candidates/)
+
+via The Sundail (CSUN Student Newspaper) · 2026-11-26
+
+The Baseball Writers Association of America (BBWAA) has announced its 2027 Hall of Fame ballot. This year’s class spans a wide range of baseball eras, covering 33 seasons. 13 holdover...
+
+## [Vandalism reported at UCLA ahead of football game](https://dailytrojan.com/2026/11/25/vandalism-reported-at-ucla-ahead-of-football-game/)
+
+via The Daily Trojan (USC Student Newspaper) · 2026-11-26
+
+A campuswide email stated that individual members of the Trojan Marching Band were involved.
+
+The post [Vandalism reported at UCLA ahead of football game](https://dailytrojan.com/2026/11/25/vandalism-reported-at-ucla-ahead-of-football-game/) appeared first on [Daily Trojan](https://dailytrojan.com).
+
+## [USC marching band no longer playing rivalry game after members vandalized UCLA campus](https://dailybruin.com/2026/11/25/usc-marching-band-no-longer-playing-rivalry-game-after-members-vandalized-ucla-campus/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-26
+
+The University of Southern California’s Trojan Marching Band will no longer perform at the annual rivalry football game against UCLA on Saturday, after members of the band vandalized a part of UCLA’s campus, USC President Beong-Soo Kim said in an email to students Wednesday.
+Administrators and marching band leadership decided that the band will not hold its traditional pre-game and halftime performances at the Rose Bowl, Kim said.
+
+## [Bruin to Bruin: Abbas Khan turns life into a runway with fashion brand House of Abbas](https://dailybruin.com/2026/11/25/bruin-to-bruin-abbas-khan-turns-life-into-a-runway-with-fashion-brand-house-of-abbas/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-26
+
+Editor’s note: At the time of recording, Abbas Khan was a fourth-year public affairs student at UCLA. Khan graduated in 2026 and is now a first-year graduate student in entrepreneurship and innovation at the University of Southern California.
+
 ## [Harmful or helpful? Here’s what UCLA professors have to say about generative AI](https://dailybruin.com/2026/11/25/harmful-or-helpful-heres-what-ucla-professors-have-to-say-about-generative-ai/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-26
 
 Seventy-three percent of UCLA’s class of 2025 used generative AI in their academics, according to the university’s senior survey.
 The widespread proliferation of generative AI – which began after ChatGPT’s late 2022 launch – has forced universities to rethink their classroom and academic honesty policies.
 
 ## [Annual Beat ‘SC rally boosts Bruins’ spirits leading up to rivalry football game](https://dailybruin.com/2026/11/25/annual-beat-sc-rally-boosts-bruins-spirits-leading-up-to-rivalry-football-game/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-26
 
 More than 1,000 UCLA students, alumni and community members turned Wilson Plaza blue and gold at the Student Alumni Association’s annual Beat ‘SC Rally on Monday.
 
 ## [UCLA men’s basketball to open against Saint Mary’s at Rady Children’s Invitational](https://dailybruin.com/2026/11/24/ucla-mens-basketball-to-open-against-saint-marys-at-rady-childrens-invitational/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-26
 
 In the last 25 NCAA tournaments, a West Coast team has appeared in 16 Elite Eights, nearly a third of Final Fours, and five national championship games.
 
+## [Emilio Vazquez Reyes reframes Latino stories through a new lens](https://dailybruin.com/2026/11/24/emilio-vazquez-reyes-reframes-latino-stories-through-a-new-lens/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-26
+
+This UCLA student filmmaker wants to give Latino stories a new frame in Hollywood.
+Emilio Vazquez Reyes, a fourth-year film and television student has written, produced and directed short films including “Toy Planes Don’t Crash” and his debut “Honeybee,” which received the Grand Jury Award at the SXSW Film Festival in 2022.
+
 ## [UCLA women’s tennis falters in NCAA singles, looks to 2027 for team comeback](https://dailybruin.com/2026/11/24/ucla-womens-tennis-falters-in-ncaa-singles-looks-to-2027-for-team-comeback/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-26
 
 Two Bruins fell to end fall competition.
 Junior Kate Fakih and senior Ahmani Guichard were eliminated in the first round of the NCAA Singles Championship at the Dan Magill Tennis Complex in Athens, Georgia, on Tuesday, concluding UCLA women’s tennis’s fall slate.
 
 ## [Ezra Frech wins ‘Dancing with the Stars’ season 35](https://dailytrojan.com/2026/11/24/ezra-frech-wins-dancing-with-the-stars-season-35/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-25, updated 2026-11-26
 
 The Paralympic gold medalist and USC jumper is the second person with a disability to win the competition.
 
@@ -46,7 +98,7 @@ The post [Ezra Frech wins ‘Dancing with the Stars’ season 35](https://dailyt
 
 ## [UCLA men’s tennis’ Athens odyssey ends after opening-round defeats](https://dailybruin.com/2026/11/24/ucla-mens-tennis-athens-odyssey-ends-after-opening-round-defeats/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-26
 
 The Bruins arrived in Athens chasing national glory.
 But their championship hopes appeared to fare more like a Greek tragedy.
@@ -54,21 +106,21 @@ UCLA men’s tennis concluded its fall season after junior Rudy Quan and fifth-y
 
 ## [What do students, faculty want Becerra to include in higher education plans?](https://dailybruin.com/2026/11/24/what-do-students-faculty-want-becerra-to-include-in-higher-education-plans/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-26
 
 At the center of California Governor-elect Xavier Becerra’s campaign, he pledged to address the state’s affordability crisis and protect immigrant communities.
 Becerra’s specific plan for higher education, however, has yet to be released.
 
 ## [No. 10 UCLA women’s basketball braves Red Storm, defeats St. John’s 69-56](https://dailybruin.com/2026/11/24/no-10-ucla-womens-basketball-braves-red-storm-defeats-st-johns-69-56/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-26
 
 _This post was updated Nov. 25 at 12:36 a.m._
 If the Bruins could have quit while ahead, they probably would have – right around the start of the third quarter when they led by 22.
 
 ## [UCLA must prioritize students’ safety, help fund crosswalk at Gayley and Landfair](https://dailybruin.com/2026/11/24/ucla-must-prioritize-students-safety-help-fund-crosswalk-at-gayley-and-landfair/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24, updated 2026-11-25
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24, updated 2026-11-26
 
 At the north intersection of Landfair Avenue and Gayley Avenue, students choose between an inconvenient detour and a real-life game of Crossy Road.
 This path for students walking from apartments to De Neve Holly is one of few connection points between the North Westwood Village and campus.
@@ -87,42 +139,42 @@ Ask a 19-year-old how TikTok decides what to show them, and you’ll likely get 
 
 ## [UCLA women’s basketball looks to continue season-high records against St. John’s](https://dailybruin.com/2026/11/24/ucla-womens-basketball-looks-to-continue-season-high-records-against-st-johns/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24, updated 2026-11-25
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24, updated 2026-11-26
 
 Remaining undefeated is easier when your roster is playing up to its potential.
 This season, the Bruins have continued to set new ceilings for what their potential is and how high their win streak can reach.
 
 ## [Dress to impress this winter with throwback styles and trendy new pieces](https://dailybruin.com/2026/11/23/dress-to-impress-this-winter-with-throwback-styles-and-trendy-new-pieces/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24, updated 2026-11-25
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24, updated 2026-11-26
 
 The holiday season is a time for renewal: new traditions, new resolutions and, for many fashion enthusiasts, a new wardrobe.
 As the curtains close on the muted neutrals of fall, winter will offer a chance to reimagine familiar staples and experiment with new trends.
 
 ## [They can see everything: UCLA club hosts Elizabeth Holmes, Nathan Fielder lookalike competition](https://dailybruin.com/2026/11/23/they-can-see-everything-ucla-club-hosts-elizabeth-holmes-nathan-fielder-lookalike-competition/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24, updated 2026-11-25
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24, updated 2026-11-26
 
 _This post was updated Nov. 24 at 10:46 p.m._
 Nathan Fielder spent nearly three hours in A24’s “You Can See Everything” trying to determine whether Elizabeth Holmes was putting on a performance.
 
 ## [Winner Takes All: The reel rivalry: Film’s fiercest foes face off on the big screen](https://dailybruin.com/2026/11/23/winner-takes-all-the-reel-rivalry-films-fiercest-foes-face-off-on-the-big-screen/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24, updated 2026-11-25
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24, updated 2026-11-26
 
 Few things bring out a person’s competitive side quite like a rivalry.
 Whether it’s UCLA and the University of Southern California fighting for the Victory Bell or two fictional foes battling on the big screen, the stakes are rarely just about winning.
 
 ## [Immigration raids, rising costs shape Latino political attitudes](https://dailybruin.com/2026/11/23/immigration-raids-rising-costs-shape-latino-political-attitudes/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24, updated 2026-11-25
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24, updated 2026-11-26
 
 _This post was updated Nov. 24 at 9:32 a.m._
 Young Latino voters will shape political outcomes in the United States’ future, political experts said at a Tuesday event.
 
 ## [The climate crisis is not gender-blind. California’s lawmakers shouldn’t be either.](https://dailybruin.com/2026/11/23/the-climate-crisis-is-not-gender-blind-californias-lawmakers-shouldnt-be-either/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24, updated 2026-11-25
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-24, updated 2026-11-26
 
 _This post was updated Nov. 23 at 7:13 p.m._
 Lab coat-donning scholars often dominate climate debates.
@@ -138,13 +190,13 @@ She will become the fourth Bruin in the league, joining libero Zoe Jarvis, sette
 
 ## [Los Matadores consiguen su primera victoria de la temporada contra la Universidad de Grace](https://sundial.csun.edu/226123/sports/los-matadores-consiguen-su-primera-victoria-de-la-temporada-contra-la-universidad-de-grace/)
 
-via The Sundail (CSUN Student Newspaper) · 2026-11-24
+via The Sundail (CSUN Student Newspaper) · 2026-11-24, updated 2026-11-26
 
 Después de dos derrotas consecutivas, una contra la Universidad de Wichita y otra contra la Universidad Estatal de Kansas, el equipo masculino de baloncesto de la Universidad Estatal de California...
 
 ## [USC soccer names LMU’s Chris Chamides as new head coach](https://dailytrojan.com/2026/11/23/usc-soccer-names-lmus-chris-chamides-as-new-head-coach/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 Chamides brings over 20 years of collegiate experience, including a Division II title.
 
@@ -172,7 +224,7 @@ Is “seen on the Orange Line” the new “overheard on the Acela”? ProPublic
 
 ## [Classifieds – November 23, 2026](https://dailytrojan.com/2026/11/23/classifieds-november-23-2026/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 The Daily Trojan features Classified advertising in each day's edition. Here you can read, search, and even print out each day's edition of the Classifieds.
 
@@ -187,7 +239,7 @@ _The Daily Bruin publishes print issues every Monday, Wednesday and Friday durin
 
 ## [Panelists discuss midterm elections at Warschaw Conference](https://dailytrojan.com/2026/11/23/panelists-discuss-midterm-elections-at-warschaw-conference/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 The annual event brought together political experts for a civil discussion.
 
@@ -195,7 +247,7 @@ The post [Panelists discuss midterm elections at Warschaw Conference](https://da
 
 ## [USC students reflect on the 2026 midterm results](https://dailytrojan.com/2026/11/23/usc-students-reflect-on-midterms/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 The recent midterm elections gave students hope amid chaos in the political sphere.
 
@@ -203,7 +255,7 @@ The post [USC students reflect on the 2026 midterm results](https://dailytrojan.
 
 ## [An artist’s spin on still lifes creates connection on campus](https://dailytrojan.com/2026/11/23/an-artists-spin-on-still-lifes/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 An anonymous artist captures brief student moments on their social media accounts.
 
@@ -211,7 +263,7 @@ The post [An artist’s spin on still lifes creates connection on campus](https:
 
 ## [Pacific Asia Museum’s courtyard came to life with art](https://dailytrojan.com/2026/11/23/pacific-asia-museums-courtyard-came-to-life-with-art/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 Visions and Voices displayed South Asian culture through poetry, music and dance.
 
@@ -219,7 +271,7 @@ The post [Pacific Asia Museum’s courtyard came to life with art](https://daily
 
 ## [USC seniors are still ‘figuring it out’](https://dailytrojan.com/2026/11/23/usc-seniors-are-still-figuring-it-out/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 Seniors reflect on their undergraduate experiences and look toward the future.
 
@@ -227,7 +279,7 @@ The post [USC seniors are still ‘figuring it out’](https://dailytrojan.com/2
 
 ## [USC president spotlights faculty expertise through new podcast](https://dailytrojan.com/2026/11/23/usc-president-spotlights-faculty-expertise-through-new-podcast/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 “Trojan Talks” discusses research, innovation and higher education issues.
 
@@ -235,7 +287,7 @@ The post [USC president spotlights faculty expertise through new podcast](https:
 
 ## [Modern Black Friday is a recession indicator](https://dailytrojan.com/2026/11/23/modern-black-friday-is-a-recession-indicator/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 This year’s Black Friday sale discounts aggravate existing economic class disparities.
 
@@ -243,7 +295,7 @@ The post [Modern Black Friday is a recession indicator](https://dailytrojan.com/
 
 ## [USC football rides second-half rally to victory over Maryland](https://dailytrojan.com/2026/11/23/usc-football-rides-second-half-rally-to-victory-over-maryland/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 The No. 18 Trojans scored 22 points in five minutes after a lackluster first half.
 
@@ -251,7 +303,7 @@ The post [USC football rides second-half rally to victory over Maryland](https:/
 
 ## [USC reconsidering SAT requirement for undergraduate admissions](https://dailytrojan.com/2026/11/23/usc-reconsidering-sat-requirement-for-undergraduate-admissions/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 The University is reviewing its test-optional policy with potential implications for future undergraduate applicants.
 
@@ -259,7 +311,7 @@ The post [USC reconsidering SAT requirement for undergraduate admissions](https:
 
 ## [JuJu Watkins leads USC to victory in Hollywood Hardwood Classic](https://dailytrojan.com/2026/11/23/juju-watkins-leads-usc-to-victory-in-hollywood-hardwood-classic/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 The senior guard posted 36 points in the 78-69 win over Baylor at Intuit Dome.
 
@@ -267,7 +319,7 @@ The post [JuJu Watkins leads USC to victory in Hollywood Hardwood Classic](https
 
 ## [‘Lectures on Tap’ attracts USC students, professors](https://dailytrojan.com/2026/11/23/lectures-on-tap-attracts-usc-students-and-professors/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 The event series has become wildly popular for Los Angeles residents.
 
@@ -275,7 +327,7 @@ The post [‘Lectures on Tap’ attracts USC students, professors](https://daily
 
 ## [‘The Hunger Games: Sunrise on the Reaping’ is an emotional masterpiece](https://dailytrojan.com/2026/11/23/clayface-is-an-uninspired-underbaked-story-2/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 The film showcases Haymitch’s devastating backstory and what drives his determination to take the Games down.
 
@@ -283,7 +335,7 @@ The post [‘The Hunger Games: Sunrise on the Reaping’ is an emotional masterp
 
 ## [Is the future of dating through family?](https://dailytrojan.com/2026/11/23/is-the-future-of-dating-through-family/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 KNOWSBEST founders Kristi and Lexi Brandt speak on their solution to dating app troubles.
 
@@ -291,7 +343,7 @@ The post [Is the future of dating through family?](https://dailytrojan.com/2026/
 
 ## [Where campus life meets family life](https://dailytrojan.com/2026/11/23/where-campus-life-meets-family-life/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 USC’s Students with Dependents Program connects student caregivers and their families.
 
@@ -299,7 +351,7 @@ The post [Where campus life meets family life](https://dailytrojan.com/2026/11/2
 
 ## [USC students are becoming increasingly concerned about fraternities’ safety](https://dailytrojan.com/2026/11/23/usc-students-concerned-with-fraternity-safety/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 Students reveal their perceptions of fraternities following rising controversy.
 
@@ -307,7 +359,7 @@ The post [USC students are becoming increasingly concerned about fraternities’
 
 ## [Movements must abandon theory to move](https://dailytrojan.com/2026/11/23/movements-must-abandon-theory-to-move/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 When we get caught up in intellectualizing inequality, we do nothing for progress.
 
@@ -315,7 +367,7 @@ The post [Movements must abandon theory to move](https://dailytrojan.com/2026/11
 
 ## [USC women’s basketball is going to win it all](https://dailytrojan.com/2026/11/23/usc-womens-basketball-is-going-to-win-it-all/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 The Trojans are by far the best team in the NCAA, and their trio of stars is not the only reason why.
 
@@ -329,13 +381,13 @@ No. 10 UCLA football (10-1, 7-1 Big Ten) has its final regular-season match Satu
 
 ## [Matadors erase 14-point deficit to remain undefeated at home](https://sundial.csun.edu/226072/sports/matadors-erase-14-point-deficit-to-remain-undefeated-at-home/)
 
-via The Sundail (CSUN Student Newspaper) · 2026-11-23, updated 2026-11-24
+via The Sundail (CSUN Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 While down 14, the CSUN women’s basketball players rallied to beat the San Diego State Aztecs 70-66 on Thursday, Nov. 19, at Premier America Credit Union Arena. The win ended...
 
 ## [End Overdose: Informing CSUN students about prevention and resources](https://sundial.csun.edu/226067/news/end-overdose-informing-csun-students-about-prevention-and-resources/)
 
-via The Sundail (CSUN Student Newspaper) · 2026-11-23, updated 2026-11-24
+via The Sundail (CSUN Student Newspaper) · 2026-11-23, updated 2026-11-26
 
 End Overdose at CSUN is a student-run organization that informs students on what to do in the event of an opioid overdose. Members hand out naloxone and fentanyl strips to...
 
@@ -476,7 +528,7 @@ There seemed to be a real chance that the Bruins’ game against the Huskies on 
 
 ## [USC erupts after slow start to pull away with 35-21 win over Maryland](https://dailytrojan.com/2026/11/21/usc-erupts-after-slow-start-to-pull-away-with-35-21-win-over-maryland/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-22, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-22, updated 2026-11-26
 
 The No. 18 Trojans kept their faint College Football Playoff hopes alive.
 
@@ -498,7 +550,7 @@ And, heading into Saturday’s match, those same two opponents now stood in thei
 
 ## [USC vs. Maryland — as it happened](https://dailytrojan.com/2026/11/21/usc-vs-maryland-as-it-happened/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-21, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-21, updated 2026-11-26
 
 Bennett Christofferson and David Rendon report live from Los Angeles Memorial Coliseum.
 
@@ -550,7 +602,7 @@ A blue-and-gold powerhouse enters a late-season game ranked in the top four nati
 
 ## [USC vs Baylor — as it happened](https://dailytrojan.com/2026/11/20/usc-vs-baylor-as-it-happened/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-21, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-21, updated 2026-11-26
 
 Caleb Olguin and Dillon Zamperin report live from Intuit Dome.
 
@@ -586,13 +638,13 @@ The UC Board of Regents presented its proposed 2027-28 state budget Wednesday, r
 
 ## [Una mirada desde adentro: el legado de Vera Jackson llega al mundo digital](https://sundial.csun.edu/226003/espanol/una-mirada-desde-adentro-el-legado-de-vera-jackson-llega-al-mundo-digital/)
 
-via The Sundail (CSUN Student Newspaper) · 2026-11-21, updated 2026-11-24
+via The Sundail (CSUN Student Newspaper) · 2026-11-21, updated 2026-11-26
 
 La historia de la comunidad afroamericana de Los Ángeles durante las décadas de 1940 y 1950 quedó plasmada en las fotografías de Vera Jackson. Esta pionera del fotoperiodismo documentó la...
 
 ## [Voting experience at CSUN vote center during the 2026 election](https://sundial.csun.edu/225998/elections/voting-experience-at-csun-vote-center-during-the-2026-election/)
 
-via The Sundail (CSUN Student Newspaper) · 2026-11-21, updated 2026-11-24
+via The Sundail (CSUN Student Newspaper) · 2026-11-21, updated 2026-11-26
 
 On Election Day, many people were heading straight to the voting polls. As it got closer and closer, people of all ages were taking it upon themselves to make a...
 
@@ -611,7 +663,7 @@ No. 4 UCLA football (10-0, 7-0 Big Ten) will play its final regular-season road 
 
 ## [Classifieds – November 20, 2026](https://dailytrojan.com/2026/11/20/classifieds-november-20-2026/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-26
 
 The Daily Trojan features Classified advertising in each day's edition. Here you can read, search, and even print out each day's edition of the Classifieds.
 
@@ -619,7 +671,7 @@ The post [Classifieds – November 20, 2026](https://dailytrojan.com/2026/11/20/
 
 ## [Conservative students should be able to feel comfortable expressing their political views on campus](https://dailytrojan.com/2026/11/20/conservative-students-should-be-able-to-feel-comfortable-expressing-their-political-views-on-campus/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-26
 
 The post [Conservative students should be able to feel comfortable expressing their political views on campus](https://dailytrojan.com/2026/11/20/conservative-students-should-be-able-to-feel-comfortable-expressing-their-political-views-on-campus/) appeared first on [Daily Trojan](https://dailytrojan.com).
 
@@ -651,7 +703,7 @@ It’s been yet another busy week. Recap it with the fourth edition of the Niema
 
 ## [USC women’s basketball takes on Hollywood Hardwood Classic](https://dailytrojan.com/2026/11/20/usc-womens-basketball-takes-on-hollywood-hardwood-classic/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-26
 
 The Trojans look to bounce back against undefeated Baylor at Intuit Dome.
 
@@ -659,7 +711,7 @@ The post [USC women’s basketball takes on Hollywood Hardwood Classic](https://
 
 ## [USC men’s basketball looks to bolster record against Louisiana](https://dailytrojan.com/2026/11/20/usc-mens-basketball-looks-to-bolster-record-against-louisiana/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-26
 
 The Trojans continue their homestand in hopes of remaining undefeated.
 
@@ -667,7 +719,7 @@ The post [USC men’s basketball looks to bolster record against Louisiana](http
 
 ## [USC women’s volleyball falls to crosstown rival UCLA in straight sets](https://dailytrojan.com/2026/11/20/usc-womens-volleyball-falls-to-crosstown-rival-ucla-in-straight-sets/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-26
 
 The Trojans dropped a tight second set and could not complete a late comeback.
 
@@ -675,7 +727,7 @@ The post [USC women’s volleyball falls to crosstown rival UCLA in straight set
 
 ## [USC men’s water polo prepares for critical conference tournament](https://dailytrojan.com/2026/11/20/usc-mens-water-polo-prepares-for-critical-conference-tournament/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-26
 
 The fourth-seeded Trojans are to face Johns Hopkins University Friday afternoon.
 
@@ -683,7 +735,7 @@ The post [USC men’s water polo prepares for critical conference tournament](ht
 
 ## [The Heisman Trophy race is on](https://dailytrojan.com/2026/11/20/the-heisman-trophy-race-is-on/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-26
 
 The battle for college football’s most prized possession may come down to the wire.
 
@@ -691,7 +743,7 @@ The post [The Heisman Trophy race is on](https://dailytrojan.com/2026/11/20/the-
 
 ## [Christian Pierce is doing it all in his senior season](https://dailytrojan.com/2026/11/20/christian-pierce-is-doing-it-all-in-his-senior-season/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-26
 
 The Trojans’ veteran safety is seizing the moment in his fourth and final year at USC.
 
@@ -705,7 +757,7 @@ The Daily Bruin publishes print issues every Monday, Wednesday and Friday during
 
 ## [No. 18 USC football meets Maryland in home finale](https://dailytrojan.com/2026/11/20/no-18-usc-football-meets-maryland-in-home-finale/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-26
 
 On Senior Day, USC looks to bounce back following a tough loss last weekend.
 
@@ -713,7 +765,7 @@ The post [No. 18 USC football meets Maryland in home finale](https://dailytrojan
 
 ## [Women sweep 2027 Grammy nominations](https://dailytrojan.com/2026/11/20/women-sweep-2027-grammy-nominations/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-26
 
 Artists like RAYE, Rosalía and Ella Langley dominated the award show’s major categories.
 
@@ -721,7 +773,7 @@ The post [Women sweep 2027 Grammy nominations](https://dailytrojan.com/2026/11/2
 
 ## [College students are too pessimistic](https://dailytrojan.com/2026/11/20/college-students-are-too-pessimistic/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-26
 
 A little idealism about the future won’t hurt students in the United States.
 
@@ -729,7 +781,7 @@ The post [College students are too pessimistic](https://dailytrojan.com/2026/11/
 
 ## [USC reports 75 new layoffs at Keck School of Medicine](https://dailytrojan.com/2026/11/20/usc-reports-75-more-layoffs-at-keck-school-of-medicine/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-26
 
 The notice, released on Nov. 9, includes layoffs in Keck Hospital and the Health Sciences Campus.
 
@@ -737,7 +789,7 @@ The post [USC reports 75 new layoffs at Keck School of Medicine](https://dailytr
 
 ## [Saturdays in SoCal brings weekend spirit to everyday style](https://dailytrojan.com/2026/11/20/saturdays-in-socal-brings-weekend-spirit-to-everyday-style/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-26
 
 The brand, created by junior art major Maya Huppert, held a sold-out USC pop-up.
 
@@ -745,7 +797,7 @@ The post [Saturdays in SoCal brings weekend spirit to everyday style](https://da
 
 ## [US loses its measles elimination status — what does this mean for USC?](https://dailytrojan.com/2026/11/20/us-loses-its-measles-elimination-status-what-does-this-mean-for-usc/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-26
 
 Decreased vaccination rates and continued transmission of measles has cost the country its elimination status.
 
@@ -753,7 +805,7 @@ The post [US loses its measles elimination status — what does this mean for US
 
 ## [Your tuition is worth more than a slideshow](https://dailytrojan.com/2026/11/20/your-tuition-is-worth-more-than-a-slideshow/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-26
 
 Professors need to have their in-person classes feel worth attending every single week.
 
@@ -761,7 +813,7 @@ The post [Your tuition is worth more than a slideshow](https://dailytrojan.com/2
 
 ## [California sees decline in new immigrant student enrollment](https://dailytrojan.com/2026/11/20/california-sees-decline-in-new-immigrant-student-enrollment/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-26
 
 School districts like Los Angeles Unified may see significant cuts to funding.
 
@@ -824,13 +876,13 @@ No. 3 seed UCLA men’s water polo (19-3, 3-3 MPSF) has concluded its 2026 regul
 
 ## [Is Lincoln Riley promoting a toxic team culture?](https://dailytrojan.com/2026/11/19/is-lincoln-riley-promoting-a-toxic-team-culture/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-26
 
 The post [Is Lincoln Riley promoting a toxic team culture?](https://dailytrojan.com/2026/11/19/is-lincoln-riley-promoting-a-toxic-team-culture/) appeared first on [Daily Trojan](https://dailytrojan.com).
 
 ## [Shedding ‘genrephobia’: Breaking down an evolving music taste](https://dailytrojan.com/2026/11/19/shedding-genrephobia-breaking-down-an-evolving-music-taste/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-20, updated 2026-11-26
 
 The post [Shedding ‘genrephobia’: Breaking down an evolving music taste](https://dailytrojan.com/2026/11/19/shedding-genrephobia-breaking-down-an-evolving-music-taste/) appeared first on [Daily Trojan](https://dailytrojan.com).
 
@@ -892,7 +944,7 @@ It was 318 days ago that the Corporation for Public Broadcasting — the primary
 
 ## [Stop throwing money at broken systems](https://dailytrojan.com/2026/11/19/stop-throwing-money-at-broken-systems/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-19, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-19, updated 2026-11-26
 
 California needs to do something about its apparent waste and fraud problem.
 
@@ -900,7 +952,7 @@ The post [Stop throwing money at broken systems](https://dailytrojan.com/2026/11
 
 ## [Over-emphasizing protein devalues a balanced diet](https://dailytrojan.com/2026/11/19/over-emphasizing-protein-devalues-a-balanced-diet/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-19, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-19, updated 2026-11-26
 
 Don’t ignore the pleasure of eating to focus on protein.
 
@@ -908,7 +960,7 @@ The post [Over-emphasizing protein devalues a balanced diet](https://dailytrojan
 
 ## [Chase, Burrow, Pollard closing in on milestones as their production heats up](https://dailytrojan.com/2026/11/19/chase-burrow-pollard-closing-in-on-milestones-as-their-production-heats-up/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-19, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-19, updated 2026-11-26
 
 An exciting Week 10 included various historic marks and set the stage for more.
 
@@ -916,7 +968,7 @@ The post [Chase, Burrow, Pollard closing in on milestones as their production he
 
 ## [One year in, ShadeLA initiative shows signs of progress](https://dailytrojan.com/2026/11/19/one-year-in-shade-la-initiative-shows-signs-of-progress/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-19, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-19, updated 2026-11-26
 
 The team has run three pilot programs since the project first began in July 2025.
 
@@ -924,7 +976,7 @@ The post [One year in, ShadeLA initiative shows signs of progress](https://daily
 
 ## [Music taste should not be a ‘niche off’](https://dailytrojan.com/2026/11/19/music-taste-should-not-be-a-niche-off/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-19, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-19, updated 2026-11-26
 
 When outsiders are allowed to weigh in on your interests, it takes away personal authenticity.
 
@@ -932,7 +984,7 @@ The post [Music taste should not be a ‘niche off’](https://dailytrojan.com/2
 
 ## [USC professors bring traditional Chinese music performances to campus](https://dailytrojan.com/2026/11/19/usc-professors-bring-traditional-chinese-music-performances-to-campus/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-19, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-19, updated 2026-11-26
 
 Guqin and kunqu opera performances gave students firsthand encounters with class materials.
 
@@ -940,7 +992,7 @@ The post [USC professors bring traditional Chinese music performances to campus]
 
 ## [USC men’s basketball looks to continue undefeated season](https://dailytrojan.com/2026/11/19/usc-mens-basketball-looks-to-continue-undefeated-season/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-19, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-19, updated 2026-11-26
 
 The Trojans will take on Tarleton State University after a 4-0 start to the year.
 
@@ -948,7 +1000,7 @@ The post [USC men’s basketball looks to continue undefeated season](https://da
 
 ## [USC Kaufman senior wears many hats, from dancer to director](https://dailytrojan.com/2026/11/19/usc-kaufman-senior-wears-many-hats-from-dancer-to-director/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-19, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-19, updated 2026-11-26
 
 From her work in “Pigeons Anonymous” to “The Conductor,” Bella Mills brings humor and storytelling to her artistry.
 
@@ -956,7 +1008,7 @@ The post [USC Kaufman senior wears many hats, from dancer to director](https://d
 
 ## [NEWSLETTER: What the Los Angeles Super Bowl Committee is bringing to the table](https://sundial.csun.edu/225922/opinions/newsletter-what-the-los-angeles-super-bowl-committee-is-bringing-to-the-table/)
 
-via The Sundail (CSUN Student Newspaper) · 2026-11-19, updated 2026-11-24
+via The Sundail (CSUN Student Newspaper) · 2026-11-19, updated 2026-11-26
 
 The 11th week of the NFL season will begin today, leaving only seven weeks left in the regular season. As we approach the post season, this poses one question: What...
 
@@ -1014,7 +1066,7 @@ For the Bruins, however, the conference tournament provides just that opportunit
 
 ## [The scholarship that starts at 16: inside Manchester United’s academy](https://sundial.csun.edu/225879/sundialbrandstudio/sundial-marketplace/the-scholarship-that-starts-at-16-inside-manchester-uniteds-academy/)
 
-via The Sundail (CSUN Student Newspaper) · 2026-11-18, updated 2026-11-24
+via The Sundail (CSUN Student Newspaper) · 2026-11-18, updated 2026-11-26
 
 Every summer, a new group of teenagers at Manchester United signs what the club calls a scholarship. It is not a college place. It is a bridge between youth soccer...
 
@@ -1126,7 +1178,7 @@ _The Daily Bruin publishes print issues every Monday, Wednesday and Friday durin
 
 ## [Classifieds – November 18, 2026](https://dailytrojan.com/2026/11/18/classifieds-november-18-2026/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-26
 
 The Daily Trojan features Classified advertising in each day's edition. Here you can read, search, and even print out each day's edition of the Classifieds.
 
@@ -1134,7 +1186,7 @@ The post [Classifieds – November 18, 2026](https://dailytrojan.com/2026/11/18/
 
 ## [At Camp Flog Gnaw, every day is ‘November’](https://dailytrojan.com/2026/11/18/at-camp-flog-gnaw-every-day-is-november/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-26
 
 Tyler, the Creator’s music festival returned to Dodger Stadium Nov. 14 and 15.
 
@@ -1142,7 +1194,7 @@ The post [At Camp Flog Gnaw, every day is ‘November’](https://dailytrojan.co
 
 ## [Growth is a circle, not a straight line](https://dailytrojan.com/2026/11/18/growth-is-a-circle-not-a-straight-line/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-26
 
 Development as a person is not a simple feat; it requires a constant, iterative reflection.
 
@@ -1150,7 +1202,7 @@ The post [Growth is a circle, not a straight line](https://dailytrojan.com/2026/
 
 ## [USG appoints directors, suspends operations for Thanksgiving week](https://dailytrojan.com/2026/11/18/usg-suspends-operations-for-thanksgiving-week/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-26
 
 Senator Noa Foruzanfar said Muslim and Jewish students feel a “lack of representation” in student government.
 
@@ -1158,7 +1210,7 @@ The post [USG appoints directors, suspends operations for Thanksgiving week](htt
 
 ## [Students compete to improve campus life using AI](https://dailytrojan.com/2026/11/18/students-compete-to-improve-campus-life-using-ai/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-26
 
 The AI@USC Hackathon saw hundreds of students design solutions to issues on campus.
 
@@ -1166,7 +1218,7 @@ The post [Students compete to improve campus life using AI](https://dailytrojan.
 
 ## [Soul Cal Freestyle jams out, promotes self-expression](https://dailytrojan.com/2026/11/18/soul-cal-freestyle-jams-out-promotes-self-expression/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-26
 
 Dancers of all levels and styles are encouraged to freestyle at biweekly sessions.
 
@@ -1174,7 +1226,7 @@ The post [Soul Cal Freestyle jams out, promotes self-expression](https://dailytr
 
 ## [Who gets to wear the ‘Ninety Nine Percent?’](https://dailytrojan.com/2026/11/18/matieres-fecales-99-percent-show-is-a-small-step-forward/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-26
 
 Matières Fécales’ latest show celebrates the marginalized within a luxury market built on exclusivity.
 
@@ -1190,7 +1242,7 @@ The post [Who gets to wear the ‘Ninety Nine Percent?’](https://dailytrojan.c
 
 ## [Lula’s campaign insurgency is counterproductive](https://dailytrojan.com/2026/11/18/lulas-campaign-insurgency-is-counterproductive/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-26
 
 Death by a million online posts may be effective, but it strips politics of humanity.
 
@@ -1198,7 +1250,7 @@ The post [Lula’s campaign insurgency is counterproductive](https://dailytrojan
 
 ## [USC men’s basketball earns largest win in program history](https://dailytrojan.com/2026/11/18/usc-mens-basketball-earns-largest-win-in-program-history/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-26
 
 Five-star freshman forward Christian Collins made his debut in the team’s victory.
 
@@ -1206,7 +1258,7 @@ The post [USC men’s basketball earns largest win in program history](https://d
 
 ## [USC women’s basketball does not need November perfection](https://dailytrojan.com/2026/11/18/usc-womens-basketballdoes-not-need-november-perfection/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-26
 
 The Trojans’ loss to No. 1 South Carolina should sharpen expectations, not lower them.
 
@@ -1255,7 +1307,7 @@ More than 80 people attended a walkout outside Kerckhoff Hall on Tuesday to call
 
 ## [Current PDP students will be exempt from ‘degree-applicable’ unit requirement, University says](https://dailytrojan.com/2026/11/17/current-pdp-students-exempt-from-degree-applicable-unit-requirement/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-18, updated 2026-11-26
 
 Students pursuing double majors will be eligible for federal financial aid for both degrees.
 
@@ -1420,7 +1472,7 @@ It brings tension and excitement – and for the Bruins, it will hopefully bring
 
 ## [Superheroes have always been woke](https://dailytrojan.com/2026/11/17/superheroes-have-always-been-woke/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-17, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-17, updated 2026-11-26
 
 James Gunn’s ousting from DC Studios cannot change the core of DC heroism: truth, justice, and the American way.
 
@@ -1428,13 +1480,13 @@ The post [Superheroes have always been woke](https://dailytrojan.com/2026/11/17/
 
 ## [How USC, South Central voted in the midterm elections](https://dailytrojan.com/2026/11/17/elections-listicle/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-17, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-17, updated 2026-11-26
 
 The post [How USC, South Central voted in the midterm elections](https://dailytrojan.com/2026/11/17/elections-listicle/) appeared first on [Daily Trojan](https://dailytrojan.com).
 
 ## [‘Sinners: Sounds That Summon’ connects music, instruments, costumes to history](https://dailytrojan.com/2026/11/17/sinners-sounds-that-summon-connects-music-instruments-costumes-to-history/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-17, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-17, updated 2026-11-26
 
 The exhibit at the California African American Museum focuses on the Club Juke sequence.
 
@@ -1442,7 +1494,7 @@ The post [‘Sinners: Sounds That Summon’ connects music, instruments, costume
 
 ## [‘I Play Rocky’ is formulaic but has heart](https://dailytrojan.com/2026/11/17/i-play-rocky-is-formulaic-but-has-heart/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-17, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-17, updated 2026-11-26
 
 This classic feel-good story may be just what audiences are craving.
 
@@ -1450,7 +1502,7 @@ The post [‘I Play Rocky’ is formulaic but has heart](https://dailytrojan.com
 
 ## [USC women’s basketball narrowly loses ‘Real SC’ showdown](https://dailytrojan.com/2026/11/17/usc-womens-basketball-narrowly-loses-real-sc-showdown/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-17, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-17, updated 2026-11-26
 
 The Trojans came up four points short against the Gamecocks in a March Madness rematch.
 
@@ -1458,7 +1510,7 @@ The post [USC women’s basketball narrowly loses ‘Real SC’ showdown](https:
 
 ## [Everyone should practice a post-AI mindset](https://dailytrojan.com/2026/11/17/everyone-should-practice-a-post-ai-mindset/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-17, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-17, updated 2026-11-26
 
 Don’t blindly trust anything; employ ‘preemptive skepticism’ as you search for humanity and truth.
 
@@ -1466,13 +1518,13 @@ The post [Everyone should practice a post-AI mindset](https://dailytrojan.com/20
 
 ## [‘It doesn’t even feel like our month’: Native American Students react to University policy changes](https://dailytrojan.com/2026/11/17/native-american-heritage-month/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-17, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-17, updated 2026-11-26
 
 The post [‘It doesn’t even feel like our month’: Native American Students react to University policy changes](https://dailytrojan.com/2026/11/17/native-american-heritage-month/) appeared first on [Daily Trojan](https://dailytrojan.com).
 
 ## [USC men’s water polo falls in final second to UCLA](https://dailytrojan.com/2026/11/17/usc-mens-water-polo-falls-in-final-second-to-ucla/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-17, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-17, updated 2026-11-26
 
 The Trojans remain in search of a win against the Bruins following a buzzer-beater goal.
 
@@ -1526,7 +1578,7 @@ Over the next two years, NPR will address a longstanding listener plea: improvin
 
 ## [DSA needs to escape liberal elitism](https://dailytrojan.com/2026/11/16/dsa-needs-to-escape-liberal-elitism/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-26
 
 The post [DSA needs to escape liberal elitism](https://dailytrojan.com/2026/11/16/dsa-needs-to-escape-liberal-elitism/) appeared first on [Daily Trojan](https://dailytrojan.com).
 
@@ -1546,7 +1598,7 @@ The 9th U.S.
 
 ## [Men’s club hockey is working towards a championship](https://dailytrojan.com/2026/11/16/mens-club-hockey-is-working-towards-a-championship/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-26
 
 The post [Men’s club hockey is working towards a championship](https://dailytrojan.com/2026/11/16/mens-club-hockey-is-working-towards-a-championship/) appeared first on [Daily Trojan](https://dailytrojan.com).
 
@@ -1565,7 +1617,7 @@ The council, which represents UCLA and Westwood Village, meets on the first Wedn
 
 ## [Classifieds – November 16, 2026](https://dailytrojan.com/2026/11/16/classifieds-november-16-2026/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-26
 
 The Daily Trojan features Classified advertising in each day's edition. Here you can read, search, and even print out each day's edition of the Classifieds.
 
@@ -1579,7 +1631,7 @@ _The Daily Bruin publishes print issues every Monday, Wednesday and Friday durin
 
 ## [Grief is not always measured in tears](https://dailytrojan.com/2026/11/16/grief-is-not-always-measured-in-tears/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-26
 
 The act of mourning your loved ones can be more than manifestations of sadness.
 
@@ -1587,7 +1639,7 @@ The post [Grief is not always measured in tears](https://dailytrojan.com/2026/11
 
 ## [USC women’s volleyball splits final home games](https://dailytrojan.com/2026/11/16/usc-womens-volleyball-splits-final-home-games/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-26
 
 The Trojans earned their earned first home conference victory with an upset win over Washington.
 
@@ -1595,7 +1647,7 @@ The post [USC women’s volleyball splits final home games](https://dailytrojan.
 
 ## [USC club Men’s Ice Hockey skates onto the big stage](https://dailytrojan.com/2026/11/16/usc-club-mens-ice-hockey-skates-onto-the-big-stage/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-26
 
 Crypto.com Arena hosted the Trojans, but the journey to that point was not easy.
 
@@ -1603,7 +1655,7 @@ The post [USC club Men’s Ice Hockey skates onto the big stage](https://dailytr
 
 ## [USC football comes up short to Indiana in heavyweight fight](https://dailytrojan.com/2026/11/16/usc-football-comes-up-short-to-indiana-in-heavyweight-fight/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-26
 
 A mountain of missed opportunities likely crushed the Trojans’ playoff hopes.
 
@@ -1611,7 +1663,7 @@ The post [USC football comes up short to Indiana in heavyweight fight](https://d
 
 ## [USC Thornton’s Latin Pop showcase celebrates heritage](https://dailytrojan.com/2026/11/16/usc-thorntons-latin-pop-showcase-celebrates-heritage/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-26
 
 Students taking the course showed off their academic and musical skills Thursday.
 
@@ -1619,7 +1671,7 @@ The post [USC Thornton’s Latin Pop showcase celebrates heritage](https://daily
 
 ## [You don’t need to join every conversation](https://dailytrojan.com/2026/11/16/you-dont-need-to-join-every-conversation/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-26
 
 Keep your hottest takes in your drafts to sidestep the toxicity of online culture.
 
@@ -1627,13 +1679,13 @@ The post [You don’t need to join every conversation](https://dailytrojan.com/2
 
 ## [USG hosts its first Trojans Volunteer Fair](https://dailytrojan.com/2026/11/16/usg-hosts-its-first-trojan-volunteer-fair/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-26
 
 The post [USG hosts its first Trojans Volunteer Fair](https://dailytrojan.com/2026/11/16/usg-hosts-its-first-trojan-volunteer-fair/) appeared first on [Daily Trojan](https://dailytrojan.com).
 
 ## [‘Night of Hope’ spotlights Cameroonian community](https://dailytrojan.com/2026/11/16/night-of-hope-spotlights-cameroonian-community/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-26
 
 USC student Bakhari Nokuri organized the concert as his senior capstone on Saturday.
 
@@ -1641,7 +1693,7 @@ The post [‘Night of Hope’ spotlights Cameroonian community](https://dailytro
 
 ## [California Science Center brings Endeavour home](https://dailytrojan.com/2026/11/16/california-science-center-brings-endeavour-home/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-26
 
 The Samuel Oschin Air and Space Center grand opening connected the community.
 
@@ -1649,13 +1701,13 @@ The post [California Science Center brings Endeavour home](https://dailytrojan.c
 
 ## [EatWell Bites webinars bring lunchtime nutrition lessons to faculty, staff](https://dailytrojan.com/2026/11/16/eatwell-bites-webinars-bring-lunchtime-nutrition-lessons-to-faculty-staff/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-26
 
 The post [EatWell Bites webinars bring lunchtime nutrition lessons to faculty, staff](https://dailytrojan.com/2026/11/16/eatwell-bites-webinars-bring-lunchtime-nutrition-lessons-to-faculty-staff/) appeared first on [Daily Trojan](https://dailytrojan.com).
 
 ## [USC researchers to study what drives mood episodes in bipolar disorder](https://dailytrojan.com/2026/11/16/usc-researchers-to-study-what-drives-mood-episodes-in-bipolar-disorder/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-16, updated 2026-11-26
 
 The post [USC researchers to study what drives mood episodes in bipolar disorder](https://dailytrojan.com/2026/11/16/usc-researchers-to-study-what-drives-mood-episodes-in-bipolar-disorder/) appeared first on [Daily Trojan](https://dailytrojan.com).
 
@@ -1688,7 +1740,7 @@ The Undergraduate Students Association Council’s external vice president’s o
 
 ## [Matadors get their first win of the season in dominant fashion](https://sundial.csun.edu/225709/sports/matadors-get-their-first-win-of-the-season-in-dominant-fashion/)
 
-via The Sundail (CSUN Student Newspaper) · 2026-11-16, updated 2026-11-24
+via The Sundail (CSUN Student Newspaper) · 2026-11-16, updated 2026-11-26
 
 The CSUN Matadors (0-2) men’s basketball team held their season opener against the Grace University Talons (0-2). As both teams were looking to get their first win of the season,...
 
@@ -1722,7 +1774,7 @@ The Bruin Fringe Festival takes students from the periphery to the stage, spotli
 
 ## [College Football is set to have major changes with new billion-dollar playoff expansion](https://sundial.csun.edu/225678/sports/college-football-is-set-to-have-major-changes-with-new-billion-dollar-playoff-expansion/)
 
-via The Sundail (CSUN Student Newspaper) · 2026-11-16, updated 2026-11-24
+via The Sundail (CSUN Student Newspaper) · 2026-11-16, updated 2026-11-26
 
 On Monday, Nov. 9, the College Football Playoff Managing Committee announced that the College Football Playoff is being expanded to a 24-team bracket. According to the announcement, ESPN is set...
 
@@ -1762,7 +1814,7 @@ The Nov. 3 election featured California’s longest proposition list in a decade
 
 ## [Fitness culture has reached new levels of toxicity](https://dailytrojan.com/2026/11/14/fitness-culture-has-reached-new-levels-of-toxicity/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-14, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-14, updated 2026-11-26
 
 The post [Fitness culture has reached new levels of toxicity](https://dailytrojan.com/2026/11/14/fitness-culture-has-reached-new-levels-of-toxicity/) appeared first on [Daily Trojan](https://dailytrojan.com).
 
@@ -1818,7 +1870,7 @@ The Graduate Students Association – the student government for graduate studen
 
 ## [The Weekly Frame II: Halloweekend](https://dailytrojan.com/2026/11/13/the-weekly-frame-ii-halloweekend/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-26
 
 The post [The Weekly Frame II: Halloweekend](https://dailytrojan.com/2026/11/13/the-weekly-frame-ii-halloweekend/) appeared first on [Daily Trojan](https://dailytrojan.com).
 
@@ -1840,7 +1892,7 @@ Filmed by Sophia Pu Edited by Max Davis-Housefield Executive Producers: Max Davi
 
 ## [USC women’s volleyball parts ways with Head Coach Brad Keller](https://dailytrojan.com/2026/11/13/usc-womens-volleyball-parts-ways-with-head-coach-brad-keller/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-26
 
 After seven strong years at USC, the Trojans will begin the search for new leadership.
 
@@ -1861,7 +1913,7 @@ It’s been another busy week. Recap it with the third edition of the Nieman Lab
 
 ## [One piece at a time: the uncertainty behind two degrees](https://dailytrojan.com/2026/11/13/one-piece-at-a-time-the-uncertainty-behind-two-degrees/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-26
 
 Students and advisors navigate changes to academic support as USC’s Progressive Degree Programs evolve.
 
@@ -1869,13 +1921,13 @@ The post [One piece at a time: the uncertainty behind two degrees](https://daily
 
 ## [Letter from the editors](https://dailytrojan.com/2026/11/13/letter-from-the-editors-4/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-26
 
 The post [Letter from the editors](https://dailytrojan.com/2026/11/13/letter-from-the-editors-4/) appeared first on [Daily Trojan](https://dailytrojan.com).
 
 ## [Lessons learned](https://dailytrojan.com/2026/11/13/dt-dialogues-lessons-learned/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-26
 
 A Q&A with a former editor in chief on their tenure.
 
@@ -1883,7 +1935,7 @@ The post [Lessons learned](https://dailytrojan.com/2026/11/13/dt-dialogues-lesso
 
 ## [My mother hurt me; multiple sclerosis taught me to see her differently](https://dailytrojan.com/2026/11/13/my-mother-hurt-me-multiple-sclerosis-taught-me-to-see-her-differently/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-26
 
 Learning about my mother’s neurodegenerative disease has forced me to confront the harm in our relationship and rethink what forgiveness means.
 
@@ -1891,25 +1943,25 @@ The post [My mother hurt me; multiple sclerosis taught me to see her differently
 
 ## [Cartoon](https://dailytrojan.com/2026/11/13/262016-2/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-26
 
 The post [Cartoon](https://dailytrojan.com/2026/11/13/262016-2/) appeared first on [Daily Trojan](https://dailytrojan.com).
 
 ## [The sublime of the afternoon snooze](https://dailytrojan.com/2026/11/13/the-sublime-of-the-afternoon-snooze/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-26
 
 The post [The sublime of the afternoon snooze](https://dailytrojan.com/2026/11/13/the-sublime-of-the-afternoon-snooze/) appeared first on [Daily Trojan](https://dailytrojan.com).
 
 ## [Nothing ever ends](https://dailytrojan.com/2026/11/13/nothing-ever-ends/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-26
 
 The post [Nothing ever ends](https://dailytrojan.com/2026/11/13/nothing-ever-ends/) appeared first on [Daily Trojan](https://dailytrojan.com).
 
 ## [The memories are what count](https://dailytrojan.com/2026/11/13/the-memories-are-what-count/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-26
 
 A summary of local, national and international news from October and November 2026.
 
@@ -1917,7 +1969,7 @@ The post [The memories are what count](https://dailytrojan.com/2026/11/13/the-me
 
 ## [Classifieds – November 13, 2026](https://dailytrojan.com/2026/11/13/classifieds-november-13-2026/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-26
 
 The Daily Trojan features Classified advertising in each day's edition. Here you can read, search, and even print out each day's edition of the Classifieds.
 
@@ -1925,7 +1977,7 @@ The post [Classifieds – November 13, 2026](https://dailytrojan.com/2026/11/13/
 
 ## [Turning another page](https://dailytrojan.com/2026/11/13/turning-another-page/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-26
 
 Two years after budget cuts, a window into the Daily Trojan’s past is closing.
 
@@ -1933,7 +1985,7 @@ The post [Turning another page](https://dailytrojan.com/2026/11/13/turning-anoth
 
 ## [Midterms reveal necessary tensions within Democratic Party](https://dailytrojan.com/2026/11/13/midterms-reveal-necessary-tensions-within-democratic-party/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-26
 
 Students make up a base of youth voters who divided Democrats — and the party is better off for it.
 
@@ -1941,7 +1993,7 @@ The post [Midterms reveal necessary tensions within Democratic Party](https://da
 
 ## [LA voters react to this past election with hope](https://dailytrojan.com/2026/11/13/la-voters-react-to-this-past-election-with-surprise-hope/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-26
 
 Voters hopeful about Mayor-elect Raman’s victory but look to her administration to address longstanding challenges of housing and homelessness.
 
@@ -1949,13 +2001,13 @@ The post [LA voters react to this past election with hope](https://dailytrojan.c
 
 ## [November 2026 Crossword](https://dailytrojan.com/2026/11/13/november-2026-crossword/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-26
 
 The post [November 2026 Crossword](https://dailytrojan.com/2026/11/13/november-2026-crossword/) appeared first on [Daily Trojan](https://dailytrojan.com).
 
 ## [Deven Bryant’s homecoming is more than a feel-good story](https://dailytrojan.com/2026/11/13/deven-bryants-homecoming-is-more-than-a-feel-good-story/)
 
-via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-25
+via The Daily Trojan (USC Student Newspaper) · 2026-11-13, updated 2026-11-26
 
 The unheralded fourth-year linebacker is proving to be a transfer portal heist for the Trojans.
 
@@ -3250,254 +3302,4 @@ Sexual assault allegations involving a former student and members of Cornell Uni
 via Chaminade Silversword (Chaminade Univ. student newspaper) · 2026-11-05, updated 2026-11-20
 
 Rain, glowing dodgeballs, unexpected slips, and plenty of friendly trash talk made for a Halloween night to remember as Chaminade University’s Student Engagement office hosted its first-ever Monsterball tournament on Wednesday, Oct. 28. Held at Chaminade’s upper courts from 7 p.m. to 10 p.m., Monsterball (dodgeball with a Halloween twist of glow-in-the-dark balls and black-light...
-
-## [Best Psychic Near Me for College Students in Los Angeles](https://dailybruin.com/2026/11/04/best-psychic-near-me-for-college-students-in-los-angeles/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-04, updated 2026-11-05
-
-Best Psychic Near Me in Los Angeles: A Student’s Guide to Costs, Red Flags, and 6 Platforms
-Search for a psychic reading near me in Los Angeles, and the answer depends on where you are standing.
-
-## [Editorial Cartoon: “Mounting Pressure”](https://dailybruin.com/2026/11/04/editorial-cartoon-mounting-pressure/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-04, updated 2026-11-05
-
-## [Editorial Cartoon: “A Faulty Fall”](https://dailybruin.com/2026/11/04/editorial-cartoon-a-faulty-fall/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-04, updated 2026-11-05
-
-## [Weird animals win on Instagram. Mongabay’s next-best choice? Its reporters.](https://www.niemanlab.org/2026/11/weird-animals-win-on-instagram-mongabays-next-best-choice-its-reporters/)
-
-via Nieman Journalism Lab · 2026-11-04, updated 2026-11-25
-
-Mongabay’s most successful videos are about weird animals. But not every video from the environmental newsroom can be about strange — or strangely cute — animals. Some have to be about shrimp farm pollution. Or a deforestation crisis brought on by cacao farming in Liberia. That’s where the challenge comes in, Mongabay video managing editor...
-
-## [The New York Times stays on track to reach 15 million subscribers by the end of 2027](https://www.niemanlab.org/2026/11/the-new-york-times-stays-on-track-to-reach-15-million-subscribers-by-the-end-of-2027/)
-
-via Nieman Journalism Lab · 2026-11-04, updated 2026-11-25
-
-The New York Times added 420,000 new digital subscribers in the third quarter of 2026, keeping it on track to achieve its goal of hitting 15 million subscriptions by the end of 2027. The Times now has 13.76 million total subscribers, the company said in its earnings report released Wednesday. Almost all of those subscribers...
-
-## [Midterm elections at USC](https://dailytrojan.com/2026/11/04/election-night-photo-essay/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-04, updated 2026-11-17
-
-Annenberg School for Communication and Journalism and other USC organizations hosted a watch party for the 2026 midterm elections Tuesday night.
-
-The post [Midterm elections at USC](https://dailytrojan.com/2026/11/04/election-night-photo-essay/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [Mayor, CD-9 races too tight to call](https://dailytrojan.com/2026/11/04/mayor-cd-9-races-too-tight-to-call/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-04, updated 2026-11-17
-
-Nithya Raman took a late lead against incumbent Karen Bass.
-
-The post [Mayor, CD-9 races too tight to call](https://dailytrojan.com/2026/11/04/mayor-cd-9-races-too-tight-to-call/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [Trojans anticipate outcomes of 2026 midterm election](https://dailytrojan.com/2026/11/04/trojans-anticipate-outcomes-of-2026-midterm-election/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-04, updated 2026-11-17
-
-The USC community reflects on predictions for both local and nationwide results.
-
-The post [Trojans anticipate outcomes of 2026 midterm election](https://dailytrojan.com/2026/11/04/trojans-anticipate-outcomes-of-2026-midterm-election/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [Classifieds – November 4, 2026](https://dailytrojan.com/2026/11/04/classifieds-november-4-2026/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-04, updated 2026-11-17
-
-The Daily Trojan features Classified advertising in each day's edition. Here you can read, search, and even print out each day's edition of the Classifieds.
-
-The post [Classifieds – November 4, 2026](https://dailytrojan.com/2026/11/04/classifieds-november-4-2026/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [Napoleon jackets are souvenirs of empire](https://dailytrojan.com/2026/11/04/global-cuisines-converge-at-nearby-maydan-market-2/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-04, updated 2026-11-17
-
-A look into the history of military and orientalist silhouettes amid their resurgence in popularity.
-
-The post [Napoleon jackets are souvenirs of empire](https://dailytrojan.com/2026/11/04/global-cuisines-converge-at-nearby-maydan-market-2/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [‘Long Live DIY’: Matchbox Productions headlines developing artists at Oblivion](https://dailytrojan.com/2026/11/04/long-live-diy-matchbox-productions-headlines-developing-artists-at-oblivion/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-04, updated 2026-11-16
-
-The student group hosted a concert dedicated to community building and camaraderie.
-
-The post [‘Long Live DIY’: Matchbox Productions headlines developing artists at Oblivion](https://dailytrojan.com/2026/11/04/long-live-diy-matchbox-productions-headlines-developing-artists-at-oblivion/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [USC women’s volleyball’s playoff hopes dwindle with weekend losses](https://dailytrojan.com/2026/11/04/womens-volleyballs-playoff-hopes-dwindle-with-weekend-losses/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-04, updated 2026-11-16
-
-USC dropped two games to Wisconsin and Minnesota to open November matches.
-
-The post [USC women’s volleyball’s playoff hopes dwindle with weekend losses](https://dailytrojan.com/2026/11/04/womens-volleyballs-playoff-hopes-dwindle-with-weekend-losses/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [Alcohol deters self-fulfillment](https://dailytrojan.com/2026/11/04/alcohol-deters-self-fulfillment/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-04, updated 2026-11-16
-
-There are many ways to find happiness for ourselves; try not to take the easy way out.
-
-The post [Alcohol deters self-fulfillment](https://dailytrojan.com/2026/11/04/alcohol-deters-self-fulfillment/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [USC women’s basketball dominates UNLV to kick off season](https://dailytrojan.com/2026/11/04/usc-womens-basketball-dominates-unlv-to-kick-off-season/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-04, updated 2026-11-16
-
-The No. 3 Trojans scored 100 points in a season opener for the first time since 1985.
-
-The post [USC women’s basketball dominates UNLV to kick off season](https://dailytrojan.com/2026/11/04/usc-womens-basketball-dominates-unlv-to-kick-off-season/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [Art doesn’t have to be perfect to be created](https://dailytrojan.com/2026/11/04/art-doesnt-have-to-be-perfect-to-be-created/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-04, updated 2026-11-16
-
-The way to make good art, or any art, is overcoming the need to make perfect art.
-
-The post [Art doesn’t have to be perfect to be created](https://dailytrojan.com/2026/11/04/art-doesnt-have-to-be-perfect-to-be-created/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [Trojans respond to ACLU, Amnesty International report on University free speech](https://dailytrojan.com/2026/11/04/trojans-respond-aclu-amnesty-freedom-of-speech-report/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-04, updated 2026-11-16
-
-USC is mentioned in the report for suspending students before investigations were completed.
-
-The post [Trojans respond to ACLU, Amnesty International report on University free speech](https://dailytrojan.com/2026/11/04/trojans-respond-aclu-amnesty-freedom-of-speech-report/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [USC men’s basketball takes down Milwaukee to start season strong](https://dailytrojan.com/2026/11/04/usc-mens-basketball-takes-down-milwaukee-to-start-season-strong/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-04, updated 2026-11-16
-
-Two new Trojans dominated in the blowout win to open the season on a high note.
-
-The post [USC men’s basketball takes down Milwaukee to start season strong](https://dailytrojan.com/2026/11/04/usc-mens-basketball-takes-down-milwaukee-to-start-season-strong/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [UCLA Extension employees alleged their dean bullied them. The university reappointed him](https://dailybruin.com/2026/11/03/ucla-extension-employees-alleged-their-dean-bullied-them-the-university-reappointed-him/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-04, updated 2026-11-05
-
-More than 20 employees alleged that the dean of UCLA’s continuing education program bullied and verbally abused them, according to a 2022 third-party investigation.
-The investigation – commissioned by UCLA Campus Human Resources – found that Eric Bullard, the dean of UCLA Extension, violated the UC’s Guidance on Abusive Conduct and Bullying in the Workplace.
-
-## [UCLA men’s soccer to face Washington in last regular-season game](https://dailybruin.com/2026/11/03/ucla-mens-soccer-to-face-washington-in-last-regular-season-game/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-04, updated 2026-11-05
-
-With the regular season winding down, a rivalry match looms on the horizon.
-No. 25 UCLA men’s soccer (8-3-5, 3-3-3 Big Ten) will face No. 6 Washington (10-3-3, 6-1-2) on Wednesday evening at Wallis Annenberg Stadium.
-
-## [California voters approve Proposition 1, passing $11.25 billion housing bond](https://dailybruin.com/2026/11/03/california-voters-approve-proposition-1-passing-11-25-billion-housing-bond/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-04, updated 2026-11-05
-
-_This post was updated Nov. 4 at 10:57 a.m._
-California voters approved Proposition 1 on Tuesday, authorizing $11.25 billion in state bonds to fund affordable housing programs across the state, including at the UC.
-
-## [Daily Bruin Print Issue – Nov. 4, 2026](https://dailybruin.com/2026/11/03/daily-bruin-print-issue-nov-4-2026/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-04, updated 2026-11-05
-
-_The Daily Bruin publishes print issues every Monday, Wednesday and Friday during the school year. You can view the online version of The Bruin here._
-
-## [Estudiantes de CSUN hacen valer su voz en las urnas y votan por quienes no pueden hacerlo](https://sundial.csun.edu/225108/elections/estudiantes-de-csun-hacen-valer-su-voz-en-las-urnas-y-votan-por-quienes-no-pueden-hacerlo/)
-
-via The Sundail (CSUN Student Newspaper) · 2026-11-04, updated 2026-11-05
-
-La jornada electoral de este martes 3 de noviembre llega acompañada de grandes expectativas ante los resultados que arrojarán los comicios a nivel nacional, estatal y local. Mientras millones de...
-
-## [Proposition 39 fails as Californians reject proposed voter ID requirements](https://dailybruin.com/2026/11/03/proposition-39-fails-as-californians-reject-proposed-voter-id-requirements/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-04, updated 2026-11-05
-
-_This post was updated Nov. 3 at 11:36 p.m._
-Californians rejected a ballot measure that would have required voters to present government-issued identification at the polls, the Associated Press announced Tuesday.
-
-## [Texas Choosin’ Blue: A historical Democratic victory changes the state’s political future](https://sundial.csun.edu/225096/elections/texas-choosin-blue-a-historical-democratic-victory-changes-the-states-political-future/)
-
-via The Sundail (CSUN Student Newspaper) · 2026-11-04, updated 2026-11-05
-
-Texas had a Republican stronghold for decades, but that assumption took a hit Tuesday night when the Democratic Party won the U.S. Senate race. More than 7.7 million people voted...
-
-## [Incumbent Ted Lieu keeps 36th district House of Representatives seat](https://dailybruin.com/2026/11/03/incumbent-ted-lieu-keeps-36th-district-house-of-representatives-seat/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-04, updated 2026-11-05
-
-_This post was updated Nov. 3 at 10:33 p.m._
-Democrat Rep. Ted Lieu will represent California’s 36th Congressional District – which includes Westwood and surrounding areas – for another term, according to the Associated Press.
-
-## [Rob Bonta wins another term as California attorney general](https://dailybruin.com/2026/11/03/rob-bonta-wins-another-term-as-california-attorney-general/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-04, updated 2026-11-05
-
-_This post was updated Nov. 3 at 10:27 p.m._
-Democrat Rob Bonta won a second term as California’s attorney general, the Associated Press announced Tuesday.
-Bonta received 63.6% of the vote share in the midterm election, defeating Republican Michael Gates, who received 36.4% of the vote as of 8:30 p.m.
-
-## [Five Things: UCLA men’s basketball vs. Arizona](https://dailybruin.com/2026/11/03/five-things-ucla-mens-basketball-vs-arizona/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-04, updated 2026-11-05
-
-_This story was updated Nov. 3 at 9:19 p.m._
-
-No. 22 UCLA men’s basketball (1-0) opened its season with an 84-75 victory over No. 5 Arizona (0-1) at T-Mobile Arena in Las Vegas, overcoming a career-best 38-point performance from Wildcat forward Ivan Kharchenkov and a furious second-half comeback to deliver coach Mick Cronin’s second win over a top-five opponent in 2026.
-
-## [Democrat Xavier Becerra wins California governor election](https://dailybruin.com/2026/11/03/democrat-xavier-becerra-wins-california-governor-election/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-04, updated 2026-11-05
-
-Democrat Xavier Becerra will be California’s next governor.
-Becerra, a lawyer and the former United States Secretary of Health and Human Services under President Joe Biden, received 55.1% of the vote in the midterm elections as of 8:10 p.m.
-
-## [The Bruin should review its coverage of pro-Palestine, pro-Israel demonstrations since Oct. 7, 2023](https://dailybruin.com/2026/11/03/the-bruin-should-review-its-coverage-of-pro-palestine-pro-israel-demonstrations-since-oct-7-2023/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-04, updated 2026-11-05
-
-University newspapers have the responsibility to inform students, provide historical context and represent a diverse campus community fairly. The Daily Bruin should be able to report on Palestinian suffering while also recognizing the profound significance of Oct.
-
-## [UCLA’s Wagman Lab researches impact of sexual violence, supports students](https://dailybruin.com/2026/11/03/uclas-wagman-lab-researches-impact-of-sexual-violence-supports-students/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-04
-
-While Jennifer Wagman taught a women’s health class at UC San Diego, seven students confided in her and disclosed their experiences with sexual violence.
-Wagman, now an associate professor of community health sciences at UCLA, helps students with similar experiences through her research at the Wagman Lab, which studies domestic and sexual violence to understand its impact and inform preventative measures.
-
-## [Midterm elections in California, LA to decide key leaders](https://dailytrojan.com/2026/11/03/midterms-2026/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-04, updated 2026-11-16
-
-The post [Midterm elections in California, LA to decide key leaders](https://dailytrojan.com/2026/11/03/midterms-2026/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [Parents catch a glimpse of student life at Bruin Family Weekend 2026](https://dailybruin.com/2026/11/03/parents-catch-a-glimpse-of-student-life-at-bruin-family-weekend-2026/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-04
-
-_This post was updated Nov. 3 at 10:53 p.m._
-Parents learned the 8-clap, attended faculty lectures and interacted with clubs on Bruin Walk as they experienced UCLA student life last weekend.
-
-## [L.A. Comic Con brings communities together through imagination](https://dailybruin.com/2026/11/03/l-a-comic-con-brings-communities-together-through-imagination/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-04
-
-_This post was updated Nov. 3 at 7:34 p.m._
-The Saiyans invaded Los Angeles on Saturday. Nicolas Cage also swung by – a cultural crossover fans would only otherwise see in a Fortnite lobby.
-
-## [CSUN students express support towards Nithya Raman for a better change in housing affordability](https://sundial.csun.edu/225073/elections/csun-students-express-support-towards-nithya-raman-for-a-better-change-in-housing-affordability/)
-
-via The Sundail (CSUN Student Newspaper) · 2026-11-04, updated 2026-11-05
-
-Many students around CSUN and Los Angeles went out to cast their ballots for the midterm elections, hoping for a better change around these difficult times that includes the cost...
-
-## [Dolores Huerta, pioneering labor and civil rights leader, dies at 96](https://sundial.csun.edu/225064/news/dolores-huerta-pioneering-labor-and-civil-rights-leader-dies-at-96/)
-
-via The Sundail (CSUN Student Newspaper) · 2026-11-04, updated 2026-11-05
-
-Dolores Huerta, the labor organizer and civil rights leader who helped build the United Farm Workers and inspired generations of activists, died on Oct. 28, 2026, at 96, her family...
-
-## [10 Jewish UCLA faculty sign onto amicus brief supporting UC motion to dismiss DOJ suit](https://dailybruin.com/2026/11/03/10-jewish-ucla-faculty-sign-onto-amicus-brief-supporting-uc-motion-to-dismiss-doj-suit/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-04
-
-Ten Jewish UCLA faculty members signed onto an amicus brief Tuesday supporting the UC’s motion to dismiss a Department of Justice lawsuit alleging that the university fostered a hostile workplace for Jewish and Israeli faculty.
 

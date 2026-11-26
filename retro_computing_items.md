@@ -3,8 +3,8 @@ title: "Retro"
 description: "Computer history and vintage systems."
 pubDate: Tue, 24 Nov 2026 21:27:04 GMT
 aggregateOf: "retro_computing.md"
-dateModified: Wed, 25 Nov 2026 18:22:02 GMT
-itemCount: 49
+dateModified: Thu, 26 Nov 2026 14:46:18 GMT
+itemCount: 48
 generator: antenna/0.2.1
 ---
 
@@ -86,13 +86,13 @@ This is my story about a first and a second version of KB-9 or, as it is officia
 
 ## [System76 Announces the New Thelio Prime Desktop](http://www.linux-magazine.com/Online/News/System76-Announces-the-New-Thelio-Prime-Desktop)
 
-via Linux Magazine · 2026-11-19, updated 2026-11-25
+via Linux Magazine · 2026-11-19, updated 2026-11-26
 
 The makers of the Thelio desktop line and Pop!\_OS have released a powerful small form factor PC.
 
 ## [A Must See KDE Documentary](http://www.linux-magazine.com/Online/News/A-Must-See-KDE-Documentary)
 
-via Linux Magazine · 2026-11-18, updated 2026-11-25
+via Linux Magazine · 2026-11-18, updated 2026-11-26
 
 It doesn't matter what desktop environment you prefer, this KDE documentary should top your list of things to watch.
 
@@ -164,7 +164,7 @@ Jitters.
 
 ## [New KORA Linux Distro to Harness the Power of Local AI](http://www.linux-magazine.com/Online/News/New-KORA-Linux-Distro-to-Harness-the-Power-of-Local-AI)
 
-via Linux Magazine · 2026-11-12, updated 2026-11-25
+via Linux Magazine · 2026-11-12, updated 2026-11-26
 
 The development team behind CyanogenMod, Android, and Playtron unveils KORA, a Linux distribution built specifically for AI nerds.
 
@@ -194,7 +194,7 @@ If you were inspired by the recent London Show (or looking to catch-up on what y
 
 ## [Epic Games Targets Linux for New Launcher](http://www.linux-magazine.com/Online/News/Epic-Games-Targets-Linux-for-New-Launcher)
 
-via Linux Magazine · 2026-11-11, updated 2026-11-25
+via Linux Magazine · 2026-11-11, updated 2026-11-26
 
 The Epic Games new launcher is still in preview, but it looks to land on several Linux distributions.
 
@@ -485,7 +485,7 @@ This article tells part of the story of Warren Spector. A slight shift of focus,
 
 ## [Fedora 45 Now Available](http://www.linux-magazine.com/Online/News/Fedora-45-Now-Available)
 
-via Linux Magazine · 2026-11-05, updated 2026-11-25
+via Linux Magazine · 2026-11-05, updated 2026-11-26
 
 The latest iteration of Fedora has arrived with Gnome 51 and KDE Plasma 6.8.
 
@@ -494,10 +494,4 @@ The latest iteration of Fedora has arrived with Gnome 51 and KDE Plasma 6.8.
 via Icon Bar, RISC OS News · 2026-11-05
 
 WROCC's November speaker was Chris Hughes looking at package managers for RISC OS.
-
-## [b.log 2026/11/04 - Close, but no cigar, BabyBASIC.](https://heyrick.eu/blog/entry/20261104)
-
-via Richard Murray's blog · 2026-11-04, updated 2026-11-22
-
-Close, but no cigar, BabyBASIC.
 

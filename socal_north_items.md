@@ -1,14 +1,92 @@
 ---
 title: "SoCal North"
 description: "News and posts related to the greater North Los Angeles and adjacent counties.\n"
-pubDate: Wed, 25 Nov 2026 18:25:21 GMT
+pubDate: Thu, 26 Nov 2026 13:00:00 GMT
 aggregateOf: "socal_north.md"
-dateModified: Wed, 25 Nov 2026 18:32:01 GMT
-itemCount: 332
+dateModified: Thu, 26 Nov 2026 14:30:26 GMT
+itemCount: 326
 generator: antenna/0.2.1
 ---
 
 # SoCal North
+
+## [King tides have arrived for Thanksgiving, bringing coastal flooding to SoCal. Here’s what to expect](https://laist.com/news/climate-environment/king-tides-have-arrived-thanksgiving-coastal-flooding-socal-what-to-expect)
+
+via The LAist · 2026-11-26
+
+High tides and big waves could flood beaches and low-lying streets from Ventura County to Orange County through Friday.
+
+## [A Federal Agent Shot This Independent Journalist. Now He’s Been Released After A Year in ICE Detention](https://lataco.com/richard-la-release)
+
+via L. A. Taco · 2026-11-26
+
+Carlitos Ricardo Parias Ramales, aka Richard LA, was shot and arrested by federal agents in October 2025. He had been detained inside the Adelanto ICE Processing Center since November 2025.
+
+The post [A Federal Agent Shot This Independent Journalist. Now He’s Been Released After A Year in ICE Detention](https://lataco.com/richard-la-release) appeared first on [L.A. TACO](https://lataco.com).
+
+## [Playoff berth at stake for UCLA Football in Saturday’s game at the Rose Bowl](https://laist.com/news/playoff-berth-at-stake-for-ucla-football-in-saturdays-game-at-the-rose-bowl)
+
+via The LAist · 2026-11-26
+
+Bruins could cap a nearly perfect season with their best record in more than 25 years
+
+## [Jose Ugarte closes in on CD-9 win with a 69-vote lead](https://laist.com/news/politics/jose-ugarte-closes-in-on-cd-9-win-with-a-69-vote-lead)
+
+via The LAist · 2026-11-26
+
+It’s one of the last races left to watch in L.A. The election results will be certified on Friday.
+
+## [LA County chief of sustainability steps down from LA28 advisory role, citing fossil fuel sponsorship](https://laist.com/news/la-county-chief-of-sustainability-steps-down-from-la28-advisory-role-citing-fossil-fuel-sponsorship)
+
+via The LAist · 2026-11-25
+
+Olympics organizers recently announced a partnership with oil giant Phillips 66.
+
+## [Long Beach speed cameras send 130,000 warnings in their first month, city official says](https://laist.com/news/transportation/long-beach-speed-cameras-send-130-000-warnings-in-their-first-month)
+
+via The LAist · 2026-11-25
+
+In just 30 days, Long Beach’s new speed cameras sent roughly 130,000 warnings to drivers going 11 mph or more over the speed limit.
+
+## [NELA’s Most Coveted Swedish Pastries Are Dropped to You By Basket From a Craftsman Home](https://lataco.com/bun-bun-bakery-swedish)
+
+via L. A. Taco · 2026-11-25, updated 2026-11-26
+
+A Copenhagen-style cardamom bun, almond flour lemon loaf, and currant-laced London bun are just a few of the handmade goods from this DIY bakery.
+
+The post [NELA’s Most Coveted Swedish Pastries Are Dropped to You By Basket From a Craftsman Home](https://lataco.com/bun-bun-bakery-swedish) appeared first on [L.A. TACO](https://lataco.com).
+
+## [Distressed residents call for help as LA County declares Chiquita Canyon landfill an emergency](https://laist.com/news/health/chiquita-canyon-landfill-emergency-plume-eruption-health-odors-residents-public-health)
+
+via The LAist · 2026-11-25
+
+At a fractious meeting Tuesday, fingers pointed in many directions.
+
+## [With a $3M renovation price tag, nonprofit makes final call for investors to save historic house](https://laist.com/news/housing-homelessness/queen-anne-victorian-blue-house-campaign-save-3-million)
+
+via The LAist · 2026-11-25
+
+The 131-year-old Boyle Heights home is facing an uncertain future after fundraising for its revitalization failed to materialize over 10 years.
+
+## [White Memorial says it wants LAPD to do more after ICE agents blocked ambulance bay](https://laist.com/news/politics/white-memorial-says-it-wants-lapd-to-do-more-after-ice-agents-blocked-ambulance-bay)
+
+via The LAist · 2026-11-25
+
+Boyle Heights Beat reviewed the hospital’s response to local leaders who demanded answers after ICE agents clashed with protesters.
+
+## [Watch 20,000 pounds of coffee get roasted every week in this Hollywood café](https://laist.com/news/food/sightglass-coffee-roasted-every-week-hollywood-cafe)
+
+via The LAist · 2026-11-25
+
+Tucked into Hollywood’s Sycamore District, in a former prop warehouse, Sightglass Coffee roasts to order and ships the next day.
+
+## [Step Into a World of Fantasy at the 19th Annual Family Literacy Festival](https://santaclarita.gov/blog/2026/11/25/step-into-a-world-of-fantasy-at-the-19th-annual-family-literacy-festival/)
+
+via City of Santa Clarita · 2026-11-25
+
+Knights, Fairies and Magical Adventures Come to Life at the Old Town Newhall Branch! Hear ye, hear ye! Calling all knights, princes, princesses and curious adventurers! Get ready to step into a world where fairy tales come to life and imagination knows no bounds! The Santa Clarita Public Library invites families to the 19th Annual \[…\]
+
+The post [Step Into a World of Fantasy at the 19th Annual Family Literacy Festival](https://santaclarita.gov/blog/2026/11/25/step-into-a-world-of-fantasy-at-the-19th-annual-family-literacy-festival/) appeared first on [City of Santa Clarita](https://santaclarita.gov).
 
 ## [Holiday shopping scams are here. CA has tips on how to avoid them](https://laist.com/news/criminal-justice/holiday-shopping-scams-are-here-ca-has-tips-on-how-to-avoid-them)
 
@@ -23,6 +101,12 @@ via City of Santa Clarita · 2026-11-25
 The City of Santa Clarita encourages interested and qualified residents to apply for several positions serving on the Arts Commission; the Parks, Recreation and Community Services Commission; the Planning Commission; the Open Space Preservation District Financial Accountability and Audit Panel (FAAP); and the Greater Los Angeles County Vector Control Board of Trustees as the City \[…\]
 
 The post [Applications Now Being Accepted for Several Santa Clarita Local Appointment Vacancies](https://santaclarita.gov/blog/2026/11/25/applications-now-being-accepted-for-several-santa-clarita-local-appointment-vacancies-3/) appeared first on [City of Santa Clarita](https://santaclarita.gov).
+
+## [FilmWeek: ‘The Further Mis-Adventures of Cliff Booth,’ ‘Hexed,’ ‘Focker In-Law’ and more!](https://laist.com/news/arts-and-entertainment/filmweek-the-further-mis-adventures-of-cliff-booth-hexed-focker-in-law-and-more)
+
+via The LAist · 2026-11-25
+
+Critics Claudia Puig and Manuel Betancourt review The Further Mis-Adventures of Cliff Booth, and animation critic Charles Solomon champions the SoCal-set film, In Waves.
 
 ## [Mujer de Chatsworth Abandonada como Bebé en Skid Row Agradece por Sus “Ángeles Guardianes” de la Vida Real](https://sanfernandosun.com/2026/11/25/mujer-de-chatsworth-abandonada-como-bebe-en-skid-row-agradece-por-sus-angeles-guardianes-de-la-vida-real/)
 
@@ -242,6 +326,14 @@ San Fernando will face Marquez High School in the CIF Los Angeles City Section D
 
 The post [In Photos: San Fernando Defeats Rival Sylmar to Advance to Football Championship](https://sanfernandosun.com/2026/11/24/in-photos-san-fernando-defeats-rival-sylmar-to-advance-to-football-championship/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
 
+## [Chumash Artists’ Designs Fly on Banners During Native American Heritage Month](https://www.noozhawk.com/chumash-artists-designs-fly-on-banners-for-native-american-heritage-month/)
+
+via Chumash News · 2026-11-24, updated 2026-11-25
+
+Chumash-inspired artwork is on display throughout Buellton in November as
+part of Native American Heritage Month, with 35 banners installed along
+Highway 246 between Highway 101 and Buellton City Hall.
+
 ## [Takeaways from an Attempt to Identify Migrants Who Were Lost in the Atlantic](https://sanfernandosun.com/2026/11/24/takeaways-from-an-attempt-to-identify-migrants-who-were-lost-in-the-atlantic/)
 
 via San Fernando Sun · 2026-11-24, updated 2026-11-25
@@ -264,7 +356,7 @@ The post [Over a Freeway Near Los Angeles, Animals Can Roam Safely Thanks to Wor
 
 ## [Chief of Space Gen. Douglas Schiess Visits Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4659692/chief-of-space-gen-douglas-schiess-visits-vandenberg-space-force-base/)
 
-via Vandenberg Base News · 2026-11-24, updated 2026-11-25
+via Vandenberg Base News · 2026-11-24, updated 2026-11-26
 
 During his first visit to Vandenberg Space Force Base, Nov. 20, 2026, the CSO highlighted the critical role every Guardian plays in mission success, the need to build a combat-ready and resilient force, and the importance of delivering advanced space capabilities to the Joint Force.
 
@@ -278,7 +370,7 @@ L.A. City Councilmember Katy Yaroslavsky called the corporate sponsorship deal �
 
 ## [Letter From the Editor: The State of Tacos In L.A. In 2026 and Why We Will Stop Ranking Our Guides](https://lataco.com/stop-ranking-guides-2026)
 
-via L. A. Taco · 2026-11-24
+via L. A. Taco · 2026-11-24, updated 2026-11-26
 
 A year in review is a hell of a lot more exciting if measured in tacos.
 
@@ -292,7 +384,7 @@ Roughly half the businesses in the shopping center at the corner or Florence Ave
 
 ## [The Legend of L.A.’s Labor-Inducing Salad, Explained](https://lataco.com/pregnancy-salad-studio-city)
 
-via L. A. Taco · 2026-11-24
+via L. A. Taco · 2026-11-24, updated 2026-11-26
 
 “We have about 5 to 10 pregnant women come in here a day," one server tells us.
 
@@ -390,7 +482,7 @@ Because the last thing you want to do for a holiday is sit in your car for way t
 
 ## [Kratom Culture: The Messy Battle to Regulate a Smoke Shop Opioid](https://lataco.com/kratom-7-oh-drug-los-angeles)
 
-via L. A. Taco · 2026-11-23, updated 2026-11-24
+via L. A. Taco · 2026-11-23, updated 2026-11-26
 
 An L.A. TACO investigation shows that the two main combatants in the fight over the drug include influencers fighting chronic pain and right-wing politicians supporting "pure" kratom. Despite neither camp deploying much scientific research.
 
@@ -413,6 +505,12 @@ The House Ethics Committee said in a report released Monday that there is “sub
 via Congressman George Whitesides, district 27 · 2026-11-23, updated 2026-11-24
 
 Cyber Resilience for Critical Infrastructure Act would help utilities, hospitals, and water systems patch vulnerabilities faster and wall off systems that can’t be patched quickly WASHINGTON, D.C. – Today, Reps. George Whitesides (D-CA) and Josh Gottheimer (D-NJ) introduced the Cyber Resilience for Critical Infrastructure Act, legislation to help critical infrastructure operators fix security vulnerabilities faster, \[…\]
+
+## [Inside the effort to restore a 3-ton Chicano mural in East LA](https://laist.com/news/arts-and-entertainment/inside-the-effort-to-restore-a-3-ton-chicano-mural-in-east-la)
+
+via The LAist · 2026-11-23
+
+Willie Herrón III’s iconic Centro Joaquin Murieta de Aztlan mural has returned to the facade of the rebuilt Legal Aid Foundation of Los Angeles.
 
 ## [Metro Board to consider Locally Preferred Alternative for LA River Path project](https://thesource.metro.net/metro-board-to-consider-locally-preferred-alternative-for-la-river-path-project/)
 
@@ -444,7 +542,7 @@ Grocery costs have been on the rise, but food-price analysts say it's unclear if
 
 ## [Investigations Newsletter: Should Railroad Companies Do More To Secure Their Trains?](https://lataco.com/22-million-train-robbery)
 
-via L. A. Taco · 2026-11-23, updated 2026-11-24
+via L. A. Taco · 2026-11-23, updated 2026-11-26
 
 A Union Pacific official declined to specify how many police officers the multi-billion dollar company has assigned to the Los Angeles area.
 
@@ -494,7 +592,7 @@ Estrada will be the newly created creative chair for Latin music.
 
 ## [ICE Agents Smash Car Windows, Pepper Spray Community Patroller in Santa Clarita](https://lataco.com/ice-smash-windows-pepper-spray-santa-clarita)
 
-via L. A. Taco · 2026-11-21, updated 2026-11-24
+via L. A. Taco · 2026-11-21, updated 2026-11-26
 
 Community patrollers at a sheriff's station offered a ride to a man leaving the station. Video shared with L.A. TACO shows that ICE agents surrounded their vehicle, then threatened and sprayed various people at the parking lot.
 
@@ -544,7 +642,7 @@ City Councilmember Ysabel Jurado and Mayor-elect Nithya Raman have introduced a 
 
 ## [Our Nine Favorite Punk Movie Moments Filmed in L.A., Ranked](https://lataco.com/punk-movie-scenes-filmed-in-la)
 
-via L. A. Taco · 2026-11-20, updated 2026-11-24
+via L. A. Taco · 2026-11-20, updated 2026-11-26
 
 Spoilers ahead! From South L.A. to the Valley, from Downtown to the Westside, here's our guide to the locations of nine punk movie moments filmed in L.A.
 
@@ -574,7 +672,7 @@ The post [Experts Urge Travelers to Get a Flu Shot Before Thanksgiving](https://
 
 ## [Experience An Ethiopian Coffee Ceremony On Pico and a Sexy Space For Ghanaian-Japanese Fusion On Sunset](https://lataco.com/ethiopian-coffee-ceremony)
 
-via L. A. Taco · 2026-11-20, updated 2026-11-24
+via L. A. Taco · 2026-11-20, updated 2026-11-26
 
 The beans are pan-roasted in the kitchen and brewed in a traditional clay jebena before being served to you and your friends.
 
@@ -618,7 +716,7 @@ The state gave $29 million to county registrars to speed up ballot-counting this
 
 ## [ICE Watch: Remembering the Summer ICE Took the Parents of Two San Diego Teens](https://lataco.com/ice-watch-san-diego-parents-taken)
 
-via L. A. Taco · 2026-11-20, updated 2026-11-24
+via L. A. Taco · 2026-11-20, updated 2026-11-26
 
 "I hope every family stays together, and I hope none of this happens to you guys how this happened to me,” said Kevin Robles, a U.S. Citizen who was 17 years old at the time.
 
@@ -968,7 +1066,7 @@ Leonard Redway, Inglewood City Council District 1 candidate, must stay 100 yards
 
 ## [Vandenberg hosts 2026 Fall Job Fair](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649605/vandenberg-hosts-2026-fall-job-fair/)
 
-via Vandenberg Base News · 2026-11-17, updated 2026-11-25
+via Vandenberg Base News · 2026-11-17, updated 2026-11-26
 
 Attendees explore career opportunities during the Fall Job Fair at the Pacific Coast Center at Vandenberg Space Force Base, California, Nov. 16, 2026.
 
@@ -1034,7 +1132,7 @@ The U.S. Supreme Court denied the Trump administration’s appeal of lower court
 
 ## [Sentinel Stage Processing Facility Ribbon Cutting Ceremony at Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649455/sentinel-stage-processing-facility-ribbon-cutting-ceremony-at-vandenberg-space/)
 
-via Vandenberg Base News · 2026-11-16, updated 2026-11-25
+via Vandenberg Base News · 2026-11-16, updated 2026-11-26
 
 The recently completed facility will serve as a hub for processing and testing components for the next-generation Sentinel weapon system ribbon cutting ceremony held at Vandenberg Space Force Base, California, Nov. 5, 2026.
 
@@ -1138,7 +1236,7 @@ The post [Stalled Offensive Drives, Rain, Flat Defense, Plague Birmingham in 36-
 
 ## [UNARMED MINUTEMAN III ICBM TEST LAUNCH SCHEDULED AT VANDENBERG SPACE FORCE BASE](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4648574/unarmed-minuteman-iii-icbm-test-launch-scheduled-at-vandenberg-space-force-base/)
 
-via Vandenberg Base News · 2026-11-14, updated 2026-11-25
+via Vandenberg Base News · 2026-11-14, updated 2026-11-26
 
 An operational test launch of an Air Force Global Strike Command unarmed Minuteman III intercontinental ballistic missile is scheduled between 11:01 p.m. Pacific Time, Nov. 17, and 5:01 a.m. Pacific Time, Nov.18, from the northern portion of the installation.
 
@@ -1538,7 +1636,7 @@ The century-old diner brings back its pancakes and coleslaw, plus new dishes lik
 
 ## [Solvang holds 2026 Veterans Day observance with support of Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4646630/solvang-holds-2026-veterans-day-observance-with-support-of-vandenberg-space-for/)
 
-via Vandenberg Base News · 2026-11-11, updated 2026-11-25
+via Vandenberg Base News · 2026-11-11, updated 2026-11-26
 
 U.S. Space Force Chief Master Sgt. Shannan Sanchez, Space Launch Delta 30 command senior enlisted leader, delivered the keynote address during a Veterans Day ceremony at the Solvang Veterans Memorial Hall in Solvang, California, Nov. 11, 2026.
 
@@ -1626,7 +1724,7 @@ Those in Little Bangladesh say they are often ignored, but Raman spent time list
 
 ## [Not Just Child’s Play: Space Force Technicians Assist Children’s Museum with Restoration Project](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4646428/not-just-childs-play-space-force-technicians-assist-childrens-museum-with-resto/)
 
-via Vandenberg Base News · 2026-11-10, updated 2026-11-25
+via Vandenberg Base News · 2026-11-10, updated 2026-11-26
 
 After painstaking restoration, a museum’s interactive recycling display recently whirred back to life thanks to the technicians of the 30th Operations Support Squadron’s Training Device Design and Engineering Center at Vandenberg Space Force Base.
 
@@ -1660,7 +1758,7 @@ The post [The Untold Origin Story of L.A.’s Most Iconic Shrimp Taco](https://l
 
 ## [Chumash Charity Golf Classic raises $240K for two nonprofits and school program](https://www.newspress.com/2026/11/10/chumash-charity-golf-classic-raises-240k-for-two-nonprofits-and-school-program/)
 
-via Chumash News · 2026-11-10, updated 2026-11-12
+via Chumash News · 2026-11-10, updated 2026-11-25
 
 SANTA YNEZ, CA – November 10, 2026 – The Santa Ynez Band of Chumash Indians
 has announced that its annual Chumash Charity Golf Classic raised $240,000
@@ -2209,134 +2307,4 @@ The measures begin the process of reshaping the city charter and boosting fire, 
 via The LAist · 2026-11-05
 
 Gonzales-Torres is a democratic socialist. Gomez, a close ally of disgraced former Congressman Eric Swalwell, had faced misconduct allegations.
-
-## [Asada Inflation: A Rare Look at How L.A. Taqueros Are Handling Soaring Beef Prices](https://lataco.com/beef-inflation-tacos)
-
-via L. A. Taco · 2026-11-04, updated 2026-11-11
-
-We take a deep dive into carne asada inflation with the owners of Sonoratown, Tacos Royale, and Luis' Butcher Shop.
-
-The post [Asada Inflation: A Rare Look at How L.A. Taqueros Are Handling Soaring Beef Prices](https://lataco.com/beef-inflation-tacos) appeared first on [L.A. TACO](https://lataco.com).
-
-## [City of Santa Clarita Invites Residents to Community Meeting on Proposed Eight-Story Courthouse](https://santaclarita.gov/blog/2026/11/04/city-of-santa-clarita-invites-residents-to-community-meeting-on-proposed-eight-story-courthouse/)
-
-via City of Santa Clarita · 2026-11-04, updated 2026-11-12
-
-Residents Encouraged to Learn About the State’s Proposal and Share Their Concerns Imagine an eight-story courthouse towering over the intersection of McBean Parkway and Valencia Boulevard. That is exactly what the State of California is proposing, and the City of Santa Clarita wants residents to understand the potential impacts this massive project could have on \[…\]
-
-The post [City of Santa Clarita Invites Residents to Community Meeting on Proposed Eight-Story Courthouse](https://santaclarita.gov/blog/2026/11/04/city-of-santa-clarita-invites-residents-to-community-meeting-on-proposed-eight-story-courthouse/) appeared first on [City of Santa Clarita](https://santaclarita.gov).
-
-## [These 10 candidates for governor made history in the 2026 election](https://laist.com/news/politics/10-candidates-for-governor-made-history-2026-election)
-
-via The LAist · 2026-11-04
-
-Voters on Tuesday elected the nation's first Black woman governor and the nation's first Native American woman governor.
-
-## [Inglewood mayor and the leading challenger say they’re ready for a runoff](https://laist.com/news/politics/2026-election-california-general-inglewood-mayor-results)
-
-via The LAist · 2026-11-04, updated 2026-11-05
-
-Early results showed Gloria Gray with 34.51% and James Butts with 29.88%, though counting will continue over coming days.
-
-## [6 takeaways from Democrats' big wave on election night](https://laist.com/news/politics/6-takeaways-from-democrats-big-wave-on-election-night)
-
-via The LAist · 2026-11-04
-
-The magnitude of the Democrats' outcome was always a possibility, but the depth and breadth of their victories were jaw-dropping.
-
-## [Best things to do in LA and SoCal: Nov. 4-10](https://laist.com/news/arts-and-entertainment/best-things-to-do/music-arts-events-weekly-weekend-los-angeles-nov-4-10)
-
-via The LAist · 2026-11-04
-
-Heaux Church, Alanis rocks the YouTube, L.A Zine Fest, a tasting at the Last Bookstore, and more of the best things to do this week.
-
-## [Democrat Abdul El-Sayed defeats Republican Mike Rogers in key Michigan Senate race](https://laist.com/news/politics/democrat-abdul-el-sayed-defeats-republican-mike-rogers-in-key-michigan-senate-race)
-
-via The LAist · 2026-11-04
-
-El-Sayed's campaign tested how an antiestablishment candidate on the left would fare in a perennial Midwest battleground.
-
-## [Balance of power: Live Congressional and gubernatorial election results](https://laist.com/news/politics/voter-guides/2026-election-united-states-general-congressional-result)
-
-via The LAist · 2026-11-04
-
-It was a blue tsunami — nearly from coast to coast.
-
-## [Californians vote to grow the state’s savings amid AI-driven economic boom](https://laist.com/news/politics/2026-election-california-general-proposition-2-results)
-
-via The LAist · 2026-11-04
-
-Prop. 2 would allow California leaders to sock away up to 20% of the state’s general fund tax revenue, double the current cap of 10%.
-
-## [Trump says he’ll accept election results, but adds: ‘I don’t view it as a hit on me’](https://laist.com/news/politics/voter-guides/2026-election-trump-reacts-results)
-
-via The LAist · 2026-11-04
-
-The president made his remarks after candidates he backed faced a brutal beating at the polls.
-
-## [Prop 39: California voters reject conservative voter ID proposal](https://laist.com/news/politics/2026-election-california-general-proposition-39-results)
-
-via The LAist · 2026-11-04
-
-California voters rejected a ballot measure that would have required people to prove their citizenship in order to vote under Proposition 39.
-
-## [5 DSA candidates are elected to the House in a historic night for their movement](https://laist.com/news/politics/5-dsa-candidates-are-elected-to-the-house-in-a-historic-night-for-their-movement)
-
-via The LAist · 2026-11-04
-
-The candidates tapped into voter frustration with the political status quo and will now look to translate their success into policy wins that push Democrats further left.
-
-## [Prop 44 fails: Clinics defeat measures that would have restricted their spending](https://laist.com/news/politics/2026-election-california-general-proposition-44-results)
-
-via The LAist · 2026-11-04
-
-Proposition 44 would require California’s community health clinics to spend at least 90% of their annual revenue on patient care or pay fines to the state.
-
-## [California housing bonds: Voters pass Prop. 37, Prop. 1 still pending](https://laist.com/news/politics/voter-guides/2026-election-california-general-proposition-37-1-results)
-
-via The LAist · 2026-11-04
-
-The two borrowing measures — Propositions 1 and 37 — tackle the state’s affordable housing crisis in very different ways and by targeting very different constituencies.
-
-## [Democrats win full control of Congress, ushering in a new era of divided government](https://laist.com/news/politics/democrats-win-the-senate-setting-up-divided-government-for-remainder-of-trumps-term)
-
-via The LAist · 2026-11-04
-
-Democrats won by making inroads in several states where they have long struggled.
-
-## [Live results: Tight races in Orange County Board of Supervisors. Will they flip red or stay blue?](https://laist.com/news/politics/voter-guides/2026-election-california-general-orange-county-supervisors-results-foley-dixon-shaw-traut)
-
-via The LAist · 2026-11-04, updated 2026-11-05
-
-Republicans are hoping to win back control of the board.
-
-## [Jon Ossoff wins reelection in Georgia, easily defeating Republican Mike Collins](https://laist.com/news/politics/jon-ossoff-wins-reelection-in-georgia-easily-defeating-republican-mike-collins)
-
-via The LAist · 2026-11-04
-
-A year ago, the Georgia Senate race was considered one of the cycle's marquee Senate showdowns. In the end, Ossoff easily defeated Collins.
-
-## [Live results: Luna wins second term as LA County sheriff](https://laist.com/news/politics/voter-guides/2026-election-california-general-la-county-sheriff-results-luna-villanueva)
-
-via The LAist · 2026-11-04
-
-Incumbent Robert Luna easily beat challenger and former Sheriff Alex Villanueva.
-
-## [Voters rebuke Trump's picks in many races, including embarrassing loss in South Carolina](https://laist.com/news/politics/voters-rebuke-trumps-picks-in-many-races-including-embarrassing-loss-in-south-carolina)
-
-via The LAist · 2026-11-04
-
-Voters in deep-red South Carolina delivered an embarrassing loss to the president when they rejected Republican Darline Graham in a tough night for the GOP nationwide.
-
-## [Raman widens her lead over Bass as counting continues in the race for LA mayor](https://laist.com/news/politics/voter-guides/2026-election-california-general-los-angeles-city-mayor-results-bass-raman)
-
-via The LAist · 2026-11-04, updated 2026-11-05
-
-The mayor's race is very close. Follow along here to track the vote count.
-
-## [Cal State’s biggest union reaches a deal with the university system. But not everyone is happy](https://laist.com/news/education/csus-biggest-union-reaches-a-deal-csueu)
-
-via The LAist · 2026-11-04
-
-Around 15,000 members of the California State University Employees Union have to vote to ratify the agreement.
 

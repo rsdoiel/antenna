@@ -1,14 +1,20 @@
 ---
 title: "Craft"
 description: "Craft is a list of hand oriented craft and technology\nDo we really need all those power tools?"
-pubDate: Wed, 25 Nov 2026 17:12:42 GMT
+pubDate: Thu, 26 Nov 2026 11:00:00 GMT
 aggregateOf: "craft.md"
-dateModified: Wed, 25 Nov 2026 18:24:34 GMT
-itemCount: 37
+dateModified: Thu, 26 Nov 2026 14:48:43 GMT
+itemCount: 35
 generator: antenna/0.2.1
 ---
 
 # Craft
+
+## [‘Thanksgiving Day and a Day to Celebrate’](https://blog.lostartpress.com/2026/11/26/thanksgiving-day-and-a-day-to-celebrate/)
+
+via Lost Arg Press blog · 2026-11-26, updated 2026-11-24
+
+The following is excerpted from “The Handcrafted Life of Dick Proenneke,” by Monroe Robinson. Dick lived in the Alaskan wilderness for 30 years. He built his cabin on the shores of Twin Lakes, and nearly all of the household objects he required to survive, from the ingenious wooden hinges on his front door to the metal...
 
 ## [Giving Thanks at the Sawhorse: An 89th Birthday, a First Shaving, and the Rig That Started It All](https://www.popularwoodworking.com/editors-blog/giving-thanks-at-the-sawhorse-an-89th-birthday-a-first-shaving-and-the-rig-that-started-it-all/)
 
@@ -267,26 +273,4 @@ via Popular Woodworking · 2026-11-05, updated 2026-11-11
 ![](https://media.popularwoodworking.com/app/uploads/2026/10/14100136/tooley-copy-1024x768.jpg)Tool: 3 in 1 Marking Gauge Shop Now Manufacturer: Tooley Park Tools MSRP:£135.00 It’s rare to find a modern tool that captures the elegance and simplicity of those made decades ago,...
 
 [Source](https://www.popularwoodworking.com/toolreviews/tooley-park-marking-gauge-review/)
-
-## [Ulster Folk Museum (Yes, There are Chairs)](https://blog.lostartpress.com/2026/11/04/ulster-folk-museum-yes-there-are-chairs/)
-
-via Lost Arg Press blog · 2026-11-04, updated 2026-11-24
-
-With a trip to London planned, I decided to fly to the U.K. a few days early last month to visit Belfast in Northern Ireland to meet Heritage Carpenter Peter Sloan and Curator of History Fiona Byrne at the Ulster Folk Museum. They are working together to document and photograph all the many chairs and...
-
-## [Build a Traditional Japanese Writer’s Box](https://www.popularwoodworking.com/projects/build-a-traditional-japanese-writers-box/)
-
-via Popular Woodworking · 2026-11-04, updated 2026-11-10
-
-![](https://media.popularwoodworking.com/app/uploads/2020/01/03144705/beauty6a-1-1024x768.jpg)Build a traditional Japanese writing box (called a suzuribako) for your writing supplies or other treasures.
-
-[Source](https://www.popularwoodworking.com/projects/build-a-traditional-japanese-writers-box/)
-
-## [Varnishing Hang Up](https://www.popularwoodworking.com/tricks/varnishing-hang-up/)
-
-via Popular Woodworking · 2026-11-04, updated 2026-11-10
-
-![](https://media.popularwoodworking.com/app/uploads/2026/11/04103643/apr01-varnishing-hang-up-copy-1010x1024.jpg)I always felt the need for a second pair of hands when it came to varnishing shelves or doors. A good solution is to hang them up. A series of...
-
-[Source](https://www.popularwoodworking.com/tricks/varnishing-hang-up/)
 

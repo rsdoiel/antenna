@@ -5,10 +5,209 @@
     <title><![CDATA[STEM]]></title>
     <description><![CDATA[Science and technology news and blogs.]]></description>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>25 Nov 26 10:51 -0800</lastBuildDate>
+    <lastBuildDate>26 Nov 26 06:45 -0800</lastBuildDate>
     <generator>antenna/0.2.1</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Wyoming uranium operation shuts down after cyberattack</title>
+      <link>https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323</link>
+      <description>
+        <![CDATA[Peninsula Energy says plant and wellfield control systems were affected, with no restart date yet]]>
+      </description>
+      <source:markdown>Peninsula Energy says plant and wellfield control systems were affected, with no restart date yet</source:markdown>
+      <dc:creator>Connor Jones</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5312346&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312323</guid>
+      <category>security</category>
+      <pubDate>Thu, 26 Nov 2026 14:02:00 +0000</pubDate>
+    </item>    <item>
+      <title>Come for the Games, Stay for the Community With GeForce NOW</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/</link>
+      <description>
+        <![CDATA[Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. From friendships formed in online lobbies to new worlds explored on everyday devices, GeForce NOW Ambassadors share their reasons to love cloud gaming. Those ready to find their own [&#8230;]]]>
+      </description>
+      <source:markdown>Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. From friendships formed in online lobbies to new worlds explored on everyday devices, GeForce NOW Ambassadors share their reasons to love cloud gaming. Those ready to find their own \[…\]</source:markdown>
+      <dc:creator>GeForce NOW Community</dc:creator>
+      <guid isPermaLink="false">cid://https://blogs.nvidia.com/?p=100151</guid>
+      <category>Gaming</category>
+      <category>Cloud Gaming</category>
+      <category>GeForce NOW</category>
+      <pubDate>Thu, 26 Nov 2026 14:00:22 +0000</pubDate>
+    </item>    <item>
+      <title>Company was religious about backups but sinned by leaving them exposed</title>
+      <link>https://www.theregister.com/security/2026/11/26/company-was-religious-about-backups-but-sinned-by-leaving-them-exposed/5312234</link>
+      <description>
+        <![CDATA[Never put the backup server in the same Windows domain as production]]>
+      </description>
+      <source:markdown>Never put the backup server in the same Windows domain as production</source:markdown>
+      <dc:creator>Avram Piltch</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5312239&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312234</guid>
+      <category>security</category>
+      <pubDate>Thu, 26 Nov 2026 13:22:00 +0000</pubDate>
+    </item>    <item>
+      <title>Stale links on UK public sector websites direct visitors to gambling dens</title>
+      <link>https://www.theregister.com/public-sector/2026/11/26/stale-links-on-uk-public-sector-websites-direct-visitors-to-gambling-dens/5312049</link>
+      <description>
+        <![CDATA[Consultancy finds 93 routes to casino promotions across 26 orgs, with defunct enterprise partnership domains repurposed]]>
+      </description>
+      <source:markdown>Consultancy finds 93 routes to casino promotions across 26 orgs, with defunct enterprise partnership domains repurposed</source:markdown>
+      <dc:creator>Lindsay Clark</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5296669&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312049</guid>
+      <category>public sector</category>
+      <pubDate>Thu, 26 Nov 2026 13:15:00 +0000</pubDate>
+    </item>    <item>
+      <title>Microsoft hotpatches hotpatch that could crash Windows Server 2025</title>
+      <link>https://www.theregister.com/os-platforms/2026/11/26/microsoft-hotpatches-hotpatch-that-could-crash-windows-server-2025/5312301</link>
+      <description>
+        <![CDATA[Expiring IPv6 routes can bring affected systems down, though corrective update doesn't require a restart]]>
+      </description>
+      <source:markdown>Expiring IPv6 routes can bring affected systems down, though corrective update doesn&#39;t require a restart</source:markdown>
+      <dc:creator>Richard Speed</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=4093838&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312301</guid>
+      <category>os platforms</category>
+      <pubDate>Thu, 26 Nov 2026 12:27:00 +0000</pubDate>
+    </item>    <item>
+      <title>UK government working &#39;around the clock&#39; on Capita contingency plans</title>
+      <link>https://www.theregister.com/public-sector/2026/11/26/uk-government-working-around-the-clock-on-capita-contingency-plans/5312298</link>
+      <description>
+        <![CDATA[Minister says outsourcer should be 'absolutely ashamed' of pensions failures after CEO exits and shares plunge]]>
+      </description>
+      <source:markdown>Minister says outsourcer should be &#39;absolutely ashamed&#39; of pensions failures after CEO exits and shares plunge</source:markdown>
+      <dc:creator>Lindsay Clark</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=230531&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312298</guid>
+      <category>public sector</category>
+      <pubDate>Thu, 26 Nov 2026 11:45:00 +0000</pubDate>
+    </item>    <item>
+      <title>Hackers help themselves to 1Password&#39;s source code and customer data</title>
+      <link>https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317</link>
+      <description>
+        <![CDATA[An intruder planted malicious code in backend services, but the biz insists passwords are safe]]>
+      </description>
+      <source:markdown>An intruder planted malicious code in backend services, but the biz insists passwords are safe</source:markdown>
+      <dc:creator>Carly Page</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5306978&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312317</guid>
+      <category>security</category>
+      <pubDate>Thu, 26 Nov 2026 11:02:00 +0000</pubDate>
+    </item>    <item>
+      <title>45°C inlets just killed the chiller. Most people haven&#39;t noticed yet</title>
+      <link>https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</link>
+      <description>
+        <![CDATA[In my mind and in my car, we can't rewind, we've gone too far]]>
+      </description>
+      <source:markdown>In my mind and in my car, we can&#39;t rewind, we&#39;ve gone too far</source:markdown>
+      <dc:creator>Dan Olds</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311848&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311831</guid>
+      <category>hpc</category>
+      <pubDate>Thu, 26 Nov 2026 10:15:00 +0000</pubDate>
+    </item>    <item>
+      <title>UK Home Office waved through border system without a working fix for bad data</title>
+      <link>https://www.theregister.com/security/2026/11/26/uk-home-office-waved-through-border-system-without-a-working-fix-for-bad-data/5312162</link>
+      <description>
+        <![CDATA[ICO reprimand follows failings that risked wrongful detention, with a temporary correction process taking more than a year to arrive]]>
+      </description>
+      <source:markdown>ICO reprimand follows failings that risked wrongful detention, with a temporary correction process taking more than a year to arrive</source:markdown>
+      <dc:creator>Connor Jones</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=252762&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312162</guid>
+      <category>security</category>
+      <pubDate>Thu, 26 Nov 2026 09:30:00 +0000</pubDate>
+    </item>    <item>
+      <title>APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 November 26 – Eye… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Eye in [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 November 26 – Eye… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Eye in \[…\]</source:markdown>
+      <guid isPermaLink="false">cid://https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/</guid>
+      <category>APOD</category>
+      <pubDate>Thu, 26 Nov 2026 05:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>Seeking Refuge on Resolution Island</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/</link>
+      <description>
+        <![CDATA[New Zealanders have long envisioned the island as a predator-free zone for native birds, but swimming stoats have shown a resolve of their own.]]>
+      </description>
+      <source:markdown>New Zealanders have long envisioned the island as a predator-free zone for native birds, but swimming stoats have shown a resolve of their own.</source:markdown>
+      <guid isPermaLink="false">cid://https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/</guid>
+      <category>Earth Observatory</category>
+      <category>Landsat 9</category>
+      <category>Topography</category>
+      <category>Wildlife</category>
+      <pubDate>Thu, 26 Nov 2026 05:01:00 +0000</pubDate>
+    </item>    <item>
+      <title>India’s government ponders cradle to grave AI oversight</title>
+      <link>https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275</link>
+      <description>
+        <![CDATA[Machines of loving grace to turn social media grumps into services, finger painting into career advice]]>
+      </description>
+      <source:markdown>Machines of loving grace to turn social media grumps into services, finger painting into career advice</source:markdown>
+      <dc:creator>Simon Sharwood</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5312280&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312275</guid>
+      <category>public sector</category>
+      <pubDate>Thu, 26 Nov 2026 03:42:56 +0000</pubDate>
+    </item>    <item>
+      <title>The sky was once full of stars, kids; then the FCC let Elon Musk launch a million datacenter satellites</title>
+      <link>https://www.theregister.com/off-prem/2026/11/25/the-sky-was-once-full-of-stars-kids-then-the-fcc-let-elon-musk-launch-a-million-datacenter-satellites/5312268</link>
+      <description>
+        <![CDATA[Approval for ‘Starmind’ granted but it’s a long way from the launchpad, or making sense]]>
+      </description>
+      <source:markdown>Approval for ‘Starmind’ granted but it’s a long way from the launchpad, or making sense</source:markdown>
+      <dc:creator>Simon Sharwood</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=229375&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312268</guid>
+      <category>off-prem</category>
+      <pubDate>Wed, 25 Nov 2026 22:54:07 +0000</pubDate>
+    </item>    <item>
+      <title>While Exploring a 500-Year-Old Shipwreck Off the Coast of Sweden, Underwater Archaeologists Discovered Medieval Chain Mail That May Have Belonged to German Mercenaries</title>
+      <link>https://www.smithsonianmag.com/smart-news/while-exploring-a-500-year-old-shipwreck-off-the-coast-of-sweden-underwater-archaeologists-discovered-medieval-chain-mail-that-may-have-belonged-to-german-mercenaries-180989944/</link>
+      <description>
+        <![CDATA["Gribshunden" was the "floating castle" of King Hans of Denmark and Norway. It exploded and sank in 1495, but the Baltic Sea's low salinity has kept contents remarkably well preserved]]>
+      </description>
+      <source:markdown>&#34;Gribshunden&#34; was the &#34;floating castle&#34; of King Hans of Denmark and Norway. It exploded and sank in 1495, but the Baltic Sea&#39;s low salinity has kept contents remarkably well preserved</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/DPmrBaB2pOZGwVR9CxX3qyLccpI=/420x240/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b5/d4/b5d40f90-0b95-44e9-b2a3-631e9debbff9/medieval_copper_alloy_fine_mail_found_in_context_at_gribshunde-742a0fbc0bead3d0d46458567fd514a2.jpeg" length="2086988" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/while-exploring-a-500-year-old-shipwreck-off-the-coast-of-sweden-underwater-archaeologists-discovered-medieval-chain-mail-that-may-have-belonged-to-german-mercenaries-180989944/</guid>
+      <pubDate>Wed, 25 Nov 2026 20:44:21 +0000</pubDate>
+    </item>    <item>
+      <title>The security of US water systems is even leakier than we thought</title>
+      <link>https://www.theregister.com/security/2026/11/25/the-security-of-us-water-systems-is-even-leakier-than-we-thought/5312243</link>
+      <description>
+        <![CDATA[And intruders don't always need to exploit bugs to break in]]>
+      </description>
+      <source:markdown>And intruders don&#39;t always need to exploit bugs to break in</source:markdown>
+      <dc:creator>Jessica Lyons</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5312249&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312243</guid>
+      <category>security</category>
+      <pubDate>Wed, 25 Nov 2026 19:40:17 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement</title>
+      <link>https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/</link>
+      <description>
+        <![CDATA[How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreement, this one signed between The Boeing Company and GRACE [&#8230;]]]>
+      </description>
+      <source:markdown>How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreement, this one signed between The Boeing Company and GRACE \[…\]</source:markdown>
+      <dc:creator>Jennifer M. Dooren</dc:creator>
+      <guid isPermaLink="false">cid://https://www.nasa.gov/?p=1068194</guid>
+      <category>Office of Small Business Programs (OSBP)</category>
+      <pubDate>Wed, 25 Nov 2026 19:06:56 +0000</pubDate>
+    </item>    <item>
+      <title>America&#39;s Thanksgiving Parade in Detroit Is Celebrating 100 Years of Elaborate Floats, Papier-Mâché &#39;Big Heads&#39; and a Distinguished Clown Corps</title>
+      <link>https://www.smithsonianmag.com/smart-news/america-thanksgiving-parade-in-detroit-is-celebrating-100-years-of-elaborate-floats-papier-Mache-big-heads-and-a-distinguished-clown-corps-180989943/</link>
+      <description>
+        <![CDATA[A new exhibition at the Detroit Historical Society looks back at 100 years of the city's Thanksgiving Day parade, which is tied with New York City for the country's second-oldest]]>
+      </description>
+      <source:markdown>A new exhibition at the Detroit Historical Society looks back at 100 years of the city&#39;s Thanksgiving Day parade, which is tied with New York City for the country&#39;s second-oldest</source:markdown>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/3NXa0v33jDp78RvOjRjikrInR-g=/420x240/filters:focal(640x512:641x513)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cf/b5/cfb5adb7-44fa-4763-badd-10ffadf2ff21/1280px-2022_americas_thanksgiving_parade_-_big_head_corps_-_6c5a2766.jpg" length="445088" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/america-thanksgiving-parade-in-detroit-is-celebrating-100-years-of-elaborate-floats-papier-Mache-big-heads-and-a-distinguished-clown-corps-180989943/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:50:16 +0000</pubDate>
+    </item>    <item>
       <title>Huawei and crew tout homegrown EDA tools to overcome China’s fab deficit</title>
       <link>https://www.theregister.com/systems/2026/11/25/huawei-and-crew-tout-homegrown-eda-tools-to-overcome-chinas-fab-deficit/5312205</link>
       <description>
@@ -20,6 +219,18 @@
       <guid isPermaLink="false">cid://https://www.theregister.com/a/5312205</guid>
       <category>systems</category>
       <pubDate>Wed, 25 Nov 2026 18:02:00 +0000</pubDate>
+    </item>    <item>
+      <title>NASA Eyes Crop Candidates for Future Menus</title>
+      <link>https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/</link>
+      <description>
+        <![CDATA[As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving.    Recent testing points to strawberries, […]]]>
+      </description>
+      <source:markdown>As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving.    Recent testing points to strawberries, \[…\]</source:markdown>
+      <guid isPermaLink="false">cid://https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/</guid>
+      <category>Biological &#38; Physical Sciences</category>
+      <category>International Space Station (ISS)</category>
+      <category>Science Mission Directorate</category>
+      <pubDate>Wed, 25 Nov 2026 17:53:42 +0000</pubDate>
     </item>    <item>
       <title>Hera probe finds DART left a stadium-sized dent in asteroid Dimorphos</title>
       <link>https://www.theregister.com/science/2026/11/25/hera-probe-finds-dart-left-a-stadium-sized-dent-in-asteroid-dimorphos/5312153</link>
@@ -4815,216 +5026,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <category>NASA Aircraft</category>
       <category>Research and Technology Mission Directorate</category>
       <pubDate>Thu, 05 Nov 2026 01:43:21 +0000</pubDate>
-    </item>    <item>
-      <title>NetBSD 11.1 released</title>
-      <link>https://www.osnews.com/story/146301/netbsd-11-1-released/</link>
-      <description>
-        <![CDATA[The first point release for NetBSD 11 has been released. As the version number suggests, there&#8217;s no major changes here. This release includes security updates for mozilla-rootcerts, brotli, xorg-server, hdaudio(4), compat_linux(8), unbound(8), and ipfilter. Among the non-security related changes are improved USB device stability on Raspberry Pi, fixed hot-plugging bugs in various USB Wi-Fi drivers, support for battery monitoring on the Microsoft Surface Go 3, fixed thread-local storage on ARMv5, fixes for running the MIPS Malta and PA-RISC ports under QEMU, support for the Zhaoxin KX-7000 CPU, and support for sensors, i2c, real-time clocks, and fan control on Sun Ultra 25/45 and Sun Fire V215/V245 machines. ↫ Nia Alarie on the NetBSD blog The full release notes provide more details.]]>
-      </description>
-      <source:markdown>The first point release for NetBSD 11 has been released. As the version number suggests, there’s no major changes here. This release includes security updates for mozilla-rootcerts, brotli, xorg-server, hdaudio(4), compat\_linux(8), unbound(8), and ipfilter. Among the non-security related changes are improved USB device stability on Raspberry Pi, fixed hot-plugging bugs in various USB Wi-Fi drivers, support for battery monitoring on the Microsoft Surface Go 3, fixed thread-local storage on ARMv5, fixes for running the MIPS Malta and PA-RISC ports under QEMU, support for the Zhaoxin KX-7000 CPU, and support for sensors, i2c, real-time clocks, and fan control on Sun Ultra 25/45 and Sun Fire V215/V245 machines. ↫ Nia Alarie on the NetBSD blog The full release notes provide more details.</source:markdown>
-      <dc:creator>Thom Holwerda</dc:creator>
-      <guid isPermaLink="false">cid://https://www.osnews.com/?p=146301</guid>
-      <category>NetBSD</category>
-      <pubDate>Wed, 04 Nov 2026 22:52:16 +0000</pubDate>
-    </item>    <item>
-      <title>“Why don’t we run the taskbar and Task Manager at high priority, so they can remain responsive?”</title>
-      <link>https://www.osnews.com/story/146299/why-dont-we-run-the-taskbar-and-task-manager-at-high-priority-so-they-can-remain-responsive/</link>
-      <description>
-        <![CDATA[Another interesting post from Raymond Chen, this time about the difficulty of dealing with a system that&#8217;s become CPU-starved. The question is simple: why not just run Task Manager and important parts of the UI like the taskbar at a higher priority? The catch with running anything at high priority is that unless you have been very careful to avoid it, you will eventually run into a shared resource that you will have to wait for, and you are now stuck. Your priority checkout pass gets you to the front of the line, but if the person at the register has a large shopping cart full of groceries, you just have to wait until they are done before you get your chance. Even if the code that protects the shared resource is careful to avoid priority inversion by transferring the priority of the waiter to the thread that owns the resource, you are still stuck waiting, and that owning thread might be doing something that takes a long time, like, say, accessing a file over the network. ↫ Raymond Chen If a system has reached a state where even accessing or using something like a task manager becomes a problem, I personally just bonk my computer over the head with a forced shutdown using the power button. Honestly though, I can&#8217;t remember the last time I&#8217;ve had to do this, as my Linux machines all seem to handle problematic applications just fine. That being said, I&#8217;m sure people managing tons of servers and/or workstations and developers debugging their own running code run into catastrophic problems like this far more often, making forced shutdowns not as practical. Have a terminal window open with top and easy access to the kill command, or make sure you can just ssh into it remotely if the UI has gone completely nuts.]]>
-      </description>
-      <source:markdown>Another interesting post from Raymond Chen, this time about the difficulty of dealing with a system that’s become CPU-starved. The question is simple: why not just run Task Manager and important parts of the UI like the taskbar at a higher priority? The catch with running anything at high priority is that unless you have been very careful to avoid it, you will eventually run into a shared resource that you will have to wait for, and you are now stuck. Your priority checkout pass gets you to the front of the line, but if the person at the register has a large shopping cart full of groceries, you just have to wait until they are done before you get your chance. Even if the code that protects the shared resource is careful to avoid priority inversion by transferring the priority of the waiter to the thread that owns the resource, you are still stuck waiting, and that owning thread might be doing something that takes a long time, like, say, accessing a file over the network. ↫ Raymond Chen If a system has reached a state where even accessing or using something like a task manager becomes a problem, I personally just bonk my computer over the head with a forced shutdown using the power button. Honestly though, I can’t remember the last time I’ve had to do this, as my Linux machines all seem to handle problematic applications just fine. That being said, I’m sure people managing tons of servers and/or workstations and developers debugging their own running code run into catastrophic problems like this far more often, making forced shutdowns not as practical. Have a terminal window open with top and easy access to the kill command, or make sure you can just ssh into it remotely if the UI has gone completely nuts.</source:markdown>
-      <dc:creator>Thom Holwerda</dc:creator>
-      <guid isPermaLink="false">cid://https://www.osnews.com/?p=146299</guid>
-      <category>Windows</category>
-      <pubDate>Wed, 04 Nov 2026 22:44:13 +0000</pubDate>
-    </item>    <item>
-      <title>It&#39;s Not Just You: Some Fast-Flying Birds Also Get Jet Lag</title>
-      <link>https://www.smithsonianmag.com/smart-news/its-not-just-you-some-fast-flying-birds-also-get-jet-lag-180989811/</link>
-      <description>
-        <![CDATA[A new study finds that Manx shearwaters fly so fast that their internal clocks get out of sync with local time. These jet lag-like time shifts confuse their sun-based compasses, causing them to become a bit disoriented and fly slightly off course]]>
-      </description>
-      <source:markdown>A new study finds that Manx shearwaters fly so fast that their internal clocks get out of sync with local time. These jet lag-like time shifts confuse their sun-based compasses, causing them to become a bit disoriented and fly slightly off course</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/1Nw7Q80ZwhhD18i2IN1NWWq-v8o=/420x240/filters:focal(1500x1021:1501x1022)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/28/bc/28bc6631-acbc-44f9-9b52-f448b95507af/bird-jetlag.jpg" length="425184" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/its-not-just-you-some-fast-flying-birds-also-get-jet-lag-180989811/</guid>
-      <pubDate>Wed, 04 Nov 2026 22:40:04 +0000</pubDate>
-    </item>    <item>
-      <title>“Jailbreaking my car’s navigation system just so I can change the time”</title>
-      <link>https://www.osnews.com/story/146297/jailbreaking-my-cars-navigation-system-just-so-i-can-change-the-time/</link>
-      <description>
-        <![CDATA[What if you want to change the time in your car&#8217;s infotainment system, but it&#8217;s so locked down that you can&#8217;t even open the time settings menu without a very specific, DRM&#8217;d SD card? Well, you try to jailbreak it, of course, but the amount of effort required can kind of spiral out of control. And then, all the way at the end, it&#8217;s just an offset. The first thing I did was use this to create a full backup of the internal eMMC using dd. With a more complete dump of the system, I pretty quickly figured out that the date &#38; time settings that I&#8217;m interested in are in /mnt/flash/settings.dat, which is a custom binary format. After some more reverse engineering, it turned out the unit doesn&#8217;t really have a concept of timezones at all. It gets the time from GPS and stores the local offset as a number of minutes. Mine was set to 180. I changed it to 120. That is how I was finally able to fix my car&#8217;s timezone. ↫ Rasmus Moorats This harrowing story involved an older car &#8211; a 2014 Renault Latitude &#8211; but with the number of screens and the amount of user-facing software only increasing every year, requiring jailbreaks to get your car to do what you want it to do are only going to become more common. I wouldn&#8217;t be surprised if whole generations of cars are going to become much harder to sell in the near future, cratering the used market, because people are not willing to put up with software problems nobody wants to or can fix. He just wanted to change the goddamn time.]]>
-      </description>
-      <source:markdown>What if you want to change the time in your car’s infotainment system, but it’s so locked down that you can’t even open the time settings menu without a very specific, DRM’d SD card? Well, you try to jailbreak it, of course, but the amount of effort required can kind of spiral out of control. And then, all the way at the end, it’s just an offset. The first thing I did was use this to create a full backup of the internal eMMC using dd. With a more complete dump of the system, I pretty quickly figured out that the date &#38; time settings that I’m interested in are in /mnt/flash/settings.dat, which is a custom binary format. After some more reverse engineering, it turned out the unit doesn’t really have a concept of timezones at all. It gets the time from GPS and stores the local offset as a number of minutes. Mine was set to 180. I changed it to 120. That is how I was finally able to fix my car’s timezone. ↫ Rasmus Moorats This harrowing story involved an older car – a 2014 Renault Latitude – but with the number of screens and the amount of user-facing software only increasing every year, requiring jailbreaks to get your car to do what you want it to do are only going to become more common. I wouldn’t be surprised if whole generations of cars are going to become much harder to sell in the near future, cratering the used market, because people are not willing to put up with software problems nobody wants to or can fix. He just wanted to change the goddamn time.</source:markdown>
-      <dc:creator>Thom Holwerda</dc:creator>
-      <guid isPermaLink="false">cid://https://www.osnews.com/?p=146297</guid>
-      <category>Clown car</category>
-      <pubDate>Wed, 04 Nov 2026 22:33:09 +0000</pubDate>
-    </item>    <item>
-      <title>Actually, You Can Go Back to Constantinople. A Landmark Exhibition Reconstructs the Imperial City With 1,600 Years of Treasures From Byzantine and Ottoman Times</title>
-      <link>https://www.smithsonianmag.com/smart-news/actually-you-can-go-back-to-constantinople-a-landmark-exhibition-reconstructs-the-imperial-city-with-1600-years-of-treasures-from-byzantine-and-ottoman-times-180989812/</link>
-      <description>
-        <![CDATA["Constantinople to Istanbul: One City, Two Empires" at London's Victoria and Albert Museum tracks the storied city's evolution from a 4th-century capital to a bustling 19th-century metropolis—hippodromes, bathhouses and all]]>
-      </description>
-      <source:markdown>&#34;Constantinople to Istanbul: One City, Two Empires&#34; at London&#39;s Victoria and Albert Museum tracks the storied city&#39;s evolution from a 4th-century capital to a bustling 19th-century metropolis—hippodromes, bathhouses and all</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/-E24v81A0-_I7InRgspnyUM05Y8=/420x240/filters:focal(2000x1343:2001x1344)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/79/4e/794e9eb8-8d2c-4429-89a3-8744dd317839/photo_by_jas_lehal_assignments_press_association_19.jpg" length="1408888" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/actually-you-can-go-back-to-constantinople-a-landmark-exhibition-reconstructs-the-imperial-city-with-1600-years-of-treasures-from-byzantine-and-ottoman-times-180989812/</guid>
-      <pubDate>Wed, 04 Nov 2026 22:27:03 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Shares Plans to Accelerate Artemis, Return to Moon</title>
-      <link>https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/</link>
-      <description>
-        <![CDATA[In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon [&#8230;]]]>
-      </description>
-      <source:markdown>In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon \[…\]</source:markdown>
-      <dc:creator>Lee Mohon</dc:creator>
-      <guid isPermaLink="false">cid://https://www.nasa.gov/?p=1062413</guid>
-      <category>Artemis</category>
-      <category>Artemis 3</category>
-      <category>Artemis 4</category>
-      <category>Human Landing System Program</category>
-      <category>Marshall Space Flight Center</category>
-      <category>Space Launch System (SLS)</category>
-      <pubDate>Wed, 04 Nov 2026 21:04:10 +0000</pubDate>
-    </item>    <item>
-      <title>Faded Over Millennia, the Intricately Carved Sandstone Walls of This Ancient Egyptian Shrine Will See Color Once Again</title>
-      <link>https://www.smithsonianmag.com/smart-news/faded-over-millennia-the-intricately-carved-sandstone-walls-of-this-ancient-egyptian-shrine-will-see-color-once-again-180989808/</link>
-      <description>
-        <![CDATA[Digital projections at Oxford's Ashmolean Museum will restore the sight of Egyptian blue, the world’s oldest synthetic pigment, and other colors that once adorned the 2,700-year-old Shrine of Taharqa]]>
-      </description>
-      <source:markdown>Digital projections at Oxford&#39;s Ashmolean Museum will restore the sight of Egyptian blue, the world’s oldest synthetic pigment, and other colors that once adorned the 2,700-year-old Shrine of Taharqa</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/6TPS59NVbWAgo6iJbZrBL8QcG-I=/420x240/filters:focal(2579x1719:2580x1720)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1c/c2/1cc246f3-1f4d-45f9-9c59-42adc5c7dc1c/2_re-colouring_the_shrine_of_taharqa_c_fisher_studios_2026-ac3d6723a70864d0934f390b897e4cbd.jpg" length="3672759" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/faded-over-millennia-the-intricately-carved-sandstone-walls-of-this-ancient-egyptian-shrine-will-see-color-once-again-180989808/</guid>
-      <pubDate>Wed, 04 Nov 2026 19:30:53 +0000</pubDate>
-    </item>    <item>
-      <title>New York Had Its First Measles Death in 30 Years. Here&#39;s What to Know</title>
-      <link>https://www.smithsonianmag.com/smart-news/new-york-had-its-first-measles-death-in-30-years-heres-what-to-know-180989809/</link>
-      <description>
-        <![CDATA[Cases are still surging across the country amidst dropping vaccination rates]]>
-      </description>
-      <source:markdown>Cases are still surging across the country amidst dropping vaccination rates</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/pjNsunJFmekTyWhfShFR8ZICnHg=/420x240/filters:focal(3600x2040:3601x2041)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/75/a3/75a33920-f4f1-4be8-bcfb-c3991ba90f90/measles-virus.jpg" length="15250103" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/new-york-had-its-first-measles-death-in-30-years-heres-what-to-know-180989809/</guid>
-      <pubDate>Wed, 04 Nov 2026 18:57:47 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Announces Ka-Band Satellite Relay Awards for Space Communications</title>
-      <link>https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/</link>
-      <description>
-        <![CDATA[NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration [&#8230;]]]>
-      </description>
-      <source:markdown>NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration \[…\]</source:markdown>
-      <dc:creator>Jessica Taveau</dc:creator>
-      <guid isPermaLink="false">cid://https://www.nasa.gov/?post_type=press-release&#38;p=1062160</guid>
-      <category>Space Communications &#38; Navigation Program</category>
-      <category>Space Communications Technology</category>
-      <pubDate>Wed, 04 Nov 2026 18:00:02 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Navigation Experiment Shows Promise for Planetary Landings</title>
-      <link>https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/</link>
-      <description>
-        <![CDATA[NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place [&#8230;]]]>
-      </description>
-      <source:markdown>NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place \[…\]</source:markdown>
-      <dc:creator>Dede Dinius</dc:creator>
-      <guid isPermaLink="false">cid://https://www.nasa.gov/?p=1061412</guid>
-      <category>Armstrong Flight Research Center</category>
-      <category>Aeronautics</category>
-      <category>Flight Innovation</category>
-      <category>Flight Opportunities Program</category>
-      <category>Johnson Space Center</category>
-      <category>Research and Technology Mission Directorate</category>
-      <pubDate>Wed, 04 Nov 2026 16:52:43 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Space Grant Students Fuel Agency’s Inspiration Tour</title>
-      <link>https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/</link>
-      <description>
-        <![CDATA[NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into the heart of the action. In Iowa, NASA Administrator Jared [&#8230;]]]>
-      </description>
-      <source:markdown>NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into the heart of the action. In Iowa, NASA Administrator Jared \[…\]</source:markdown>
-      <dc:creator>Sandra May</dc:creator>
-      <guid isPermaLink="false">cid://https://www.nasa.gov/?p=1061949</guid>
-      <category>Learning Resources</category>
-      <category>For Colleges &#38; Universities</category>
-      <pubDate>Wed, 04 Nov 2026 16:16:41 +0000</pubDate>
-    </item>    <item>
-      <title>Hubble Reveals Cosmic Mystery</title>
-      <link>https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/</link>
-      <description>
-        <![CDATA[This photo released on Nov. 2, 2026, showcases NGC &#160;4449, a dwarf irregular. Researchers using NASA&#8217;s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read [&#8230;]]]>
-      </description>
-      <source:markdown>This photo released on Nov. 2, 2026, showcases NGC  4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read \[…\]</source:markdown>
-      <dc:creator>HQ Web Team</dc:creator>
-      <guid isPermaLink="false">cid://https://www.nasa.gov/?post_type=image-article&#38;p=1061808</guid>
-      <pubDate>Wed, 04 Nov 2026 15:59:36 +0000</pubDate>
-    </item>    <item>
-      <title>New Research Tests Whether AI Models Know Their Own Thoughts</title>
-      <link>https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/</link>
-      <description>
-        <![CDATA[By injecting “thoughts” directly into large language models, researchers are trying to map out AI’s capacity for introspection.            <p>The post <a href="https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/" target="_blank">New Research Tests Whether AI Models Know Their Own Thoughts</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>By injecting “thoughts” directly into large language models, researchers are trying to map out AI’s capacity for introspection.
-
-The post [New Research Tests Whether AI Models Know Their Own Thoughts](https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <dc:creator>Ben Brubaker</dc:creator>
-      <guid isPermaLink="false">cid://https://www.quantamagazine.org/?p=168572</guid>
-      <category>Computer Science</category>
-      <pubDate>Wed, 04 Nov 2026 15:32:52 +0000</pubDate>
-    </item>    <item>
-      <title>Scientists Say They&#39;ve Found Preserved Dinosaur Blood in a 115-Million-Year-Old Fossil, but Not Everyone Is Convinced</title>
-      <link>https://www.smithsonianmag.com/smart-news/scientists-say-theyve-found-preserved-dinosaur-blood-in-a-115-millino-year-old-fossil-but-not-everyone-is-convinced-180989802/</link>
-      <description>
-        <![CDATA[Soft tissues like blood generally break down relatively quickly after death. Environmental factors can also produce red blood cell look-alikes, so many outside researchers are cautious about the new study's claims]]>
-      </description>
-      <source:markdown>Soft tissues like blood generally break down relatively quickly after death. Environmental factors can also produce red blood cell look-alikes, so many outside researchers are cautious about the new study&#39;s claims</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/j_E-DEDMjNgRdDlFZf6cb0YCzHI=/420x240/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c3/b7/c3b7be78-5dc6-45d4-911a-114082c0fe8a/p1012262-scaled.jpg" length="320351" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/scientists-say-theyve-found-preserved-dinosaur-blood-in-a-115-millino-year-old-fossil-but-not-everyone-is-convinced-180989802/</guid>
-      <pubDate>Wed, 04 Nov 2026 15:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Forensic Analysis of Frozen Inca Mummies Reveals That Sacrificed Children Were Plied With Coca Leaves, Corn Beer and Ayahuasca Compounds Before Death</title>
-      <link>https://www.smithsonianmag.com/smart-news/forensic-analysis-of-frozen-inca-mummies-reveals-that-sacrificed-children-were-plied-with-coca-leaves-corn-beer-and-ayahuasca-compounds-before-death-180989805/</link>
-      <description>
-        <![CDATA[Five centuries after children were sacrificed on volcanic peaks in the Andes, chemical clues preserved in their hair and fingernails show how the empire used intoxicating blends to soothe the children during their final months]]>
-      </description>
-      <source:markdown>Five centuries after children were sacrificed on volcanic peaks in the Andes, chemical clues preserved in their hair and fingernails show how the empire used intoxicating blends to soothe the children during their final months</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/T0s9y7F7EfHCG-2Y3W9wu9feFJk=/420x240/filters:focal(512x363:513x364)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/0d/3d/0d3dea2c-9ad5-4cc2-923d-c02a1d13f99b/gettyimages-83514433.jpg" length="91272" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/forensic-analysis-of-frozen-inca-mummies-reveals-that-sacrificed-children-were-plied-with-coca-leaves-corn-beer-and-ayahuasca-compounds-before-death-180989805/</guid>
-      <pubDate>Wed, 04 Nov 2026 13:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>AI is changing mathematics -- but not how you think</title>
-      <link>https://www.npr.org/2026/11/04/nx-s1-6010471/ai-math-navier-stokes-mathematicians-openai</link>
-      <description>
-        <![CDATA[Math has created some of humanity's oldest intellectual challenges. And AI is completely changing the game. This year AI solved one of math’s most difficult problems. Since then, OpenAI published hundreds of new math results. So is this the end for the people who’ve dedicated their careers to pushing forward math? We get into it with NPR science correspondent Geoff Brumfel, who weighs the risks and rewards of AI’s math takeover.<br/><br/><em>Interested in more technology and </em><em>AI news?</em><em> Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Math has created some of humanity&#39;s oldest intellectual challenges. And AI is completely changing the game. This year AI solved one of math’s most difficult problems. Since then, OpenAI published hundreds of new math results. So is this the end for the people who’ve dedicated their careers to pushing forward math? We get into it with NPR science correspondent Geoff Brumfel, who weighs the risks and rewards of AI’s math takeover.
-
-_Interested in more technology and_ _AI news?_ _Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/973df2af-52b7-47fb-bbd0-b48aa71b3372/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=973df2af-52b7-47fb-bbd0-b48aa71b3372&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-6010471&#38;p=510351&#38;d=833&#38;size=13339254" length="13339254" type="audio/mpeg" />
-      <guid isPermaLink="false">cid://86324f14-4579-4a02-b1f3-71836d827859</guid>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Not-So-Hidden [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Not-So-Hidden \[…\]</source:markdown>
-      <guid isPermaLink="false">cid://https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/</guid>
-      <category>APOD</category>
-      <pubDate>Wed, 04 Nov 2026 05:05:00 +0000</pubDate>
-    </item>    <item>
-      <title>Before the Dawn in America’s Heartland</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/</link>
-      <description>
-        <![CDATA[With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.]]>
-      </description>
-      <source:markdown>With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.</source:markdown>
-      <guid isPermaLink="false">cid://https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/</guid>
-      <category>Earth Observatory</category>
-      <pubDate>Wed, 04 Nov 2026 05:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
