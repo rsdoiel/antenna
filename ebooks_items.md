@@ -3,8 +3,8 @@ title: "eBooks"
 description: "New eBook releases."
 pubDate: Fri, 20 Nov 2026 17:17:24 GMT
 aggregateOf: "ebooks.md"
-dateModified: Thu, 26 Nov 2026 14:48:07 GMT
-itemCount: 132
+dateModified: Fri, 27 Nov 2026 14:48:18 GMT
+itemCount: 122
 generator: antenna/0.2.1
 ---
 
@@ -739,66 +739,6 @@ Language: English
 ## [The debt by Helen R. Hull](https://www.gutenberg.org/ebooks/79923)
 
 via Project Gutenberg (New Books) · 2026-11-06
-
-Language: English
-
-## [English Gothic foliage sculpture by Samuel Gardner](https://www.gutenberg.org/ebooks/79482)
-
-via Project Gutenberg (New Books) · 2026-11-05
-
-Language: English
-
-## [Emmeline, the Orphan of the Castle by Charlotte Smith](https://www.gutenberg.org/ebooks/41646)
-
-via Project Gutenberg (New Books) · 2026-11-05
-
-Language: English
-
-## [Oliver Twist by Charles Dickens](https://www.gutenberg.org/ebooks/730)
-
-via Project Gutenberg (New Books) · 2026-11-05
-
-Language: English
-
-## [Tanglewood Tales by Nathaniel Hawthorne](https://www.gutenberg.org/ebooks/976)
-
-via Project Gutenberg (New Books) · 2026-11-05
-
-Language: English
-
-## [Il Pentamerone; ossia, La fiaba delle fiabe, vol. 1/2 by Giambattista Basile](https://www.gutenberg.org/ebooks/79919)
-
-via Project Gutenberg (New Books) · 2026-11-05
-
-Language: Italian
-
-## [Il Pentamerone; ossia, La fiaba delle fiabe, vol. 2/2 by Giambattista Basile](https://www.gutenberg.org/ebooks/79920)
-
-via Project Gutenberg (New Books) · 2026-11-05
-
-Language: Italian
-
-## [No more the stars by Jr. Irving E. Cox](https://www.gutenberg.org/ebooks/79921)
-
-via Project Gutenberg (New Books) · 2026-11-05
-
-Language: English
-
-## [Release : by Helen R. Hull](https://www.gutenberg.org/ebooks/79918)
-
-via Project Gutenberg (New Books) · 2026-11-05
-
-Language: English
-
-## [Die Leiden des jungen Werther — Band 2 by Johann Wolfgang von Goethe](https://www.gutenberg.org/ebooks/2408)
-
-via Project Gutenberg (New Books) · 2026-11-05
-
-Language: German
-
-## [Enough is enough by J. Anthony Ferlaine](https://www.gutenberg.org/ebooks/79922)
-
-via Project Gutenberg (New Books) · 2026-11-05
 
 Language: English
 

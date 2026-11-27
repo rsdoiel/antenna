@@ -5,10 +5,38 @@
     <title><![CDATA[GLAM]]></title>
     <description><![CDATA[Libraries, archives and museums.]]></description>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>26 Nov 26 06:48 -0800</lastBuildDate>
+    <lastBuildDate>27 Nov 26 06:48 -0800</lastBuildDate>
     <generator>antenna/0.2.1</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Now Available For 22 European Nations: Public Libraries and Information: 2025 Factsheets</title>
+      <link>https://www.infodocket.com/2026/11/26/public-libraries-and-information-2025-factsheets-now-available-for-22-european-nations/</link>
+      <description>
+        <![CDATA[<p>From PL2030: The new edition of the PL2030 Factsheets, built on 2025 data, is out. Each country&#8217;s factsheet has two parts: the first presents key data on public libraries, while the second draws on the European Parliament&#8217;s Flash Eurobarometer Social Media Survey 2025 to show where people in Europe get their information on social and [&#8230;]</p>
+        <p>The post <a href="https://www.infodocket.com/2026/11/26/public-libraries-and-information-2025-factsheets-now-available-for-22-european-nations/">Now Available For 22 European Nations: Public Libraries and Information: 2025 Factsheets</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
+      </description>
+      <source:markdown>From PL2030: The new edition of the PL2030 Factsheets, built on 2025 data, is out. Each country’s factsheet has two parts: the first presents key data on public libraries, while the second draws on the European Parliament’s Flash Eurobarometer Social Media Survey 2025 to show where people in Europe get their information on social and \[…\]
+
+The post [Now Available For 22 European Nations: Public Libraries and Information: 2025 Factsheets](https://www.infodocket.com/2026/11/26/public-libraries-and-information-2025-factsheets-now-available-for-22-european-nations/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
+      <dc:creator>Gary Price</dc:creator>
+      <guid isPermaLink="false">cid://https://www.infodocket.com/?p=169260</guid>
+      <category>Data Files</category>
+      <category>Libraries</category>
+      <category>News</category>
+      <category>Public Libraries</category>
+      <pubDate>Thu, 26 Nov 2026 17:15:23 +0000</pubDate>
+    </item>    <item>
+      <title>Working on InvenioRDM Starter Packs</title>
+      <link>https://blog.front-matter.de/posts/working-on-inveniordm-starter-packs/</link>
+      <description>
+        <![CDATA[<p><a href="https://inveniordm.docs.cern.ch/" rel="noreferrer">InvenioRDM</a> is an open source repository management platform developed by more than 25 organizations coordinated by <a href="https://home.cern/" rel="noreferrer">CERN</a> and originally developed for <a href="https://zenodo.org" rel="noreferrer">Zenodo</a>.&#xa0;InvenioRDM Starter,<a href="https://doi.org/10.53731/jxecm-0me48" rel="noreferrer"> first announced</a> in June 2024, provides a simple option to get started with InvenioRDM: a prebuilt Docker image and a Docker compose file with reasonable</p>]]>
+      </description>
+      <source:markdown>[InvenioRDM](https://inveniordm.docs.cern.ch/) is an open source repository management platform developed by more than 25 organizations coordinated by [CERN](https://home.cern/) and originally developed for [Zenodo](https://zenodo.org). InvenioRDM Starter, [first announced](https://doi.org/10.53731/jxecm-0me48) in June 2024, provides a simple option to get started with InvenioRDM: a prebuilt Docker image and a Docker compose file with reasonable</source:markdown>
+      <dc:creator>Martin Fenner</dc:creator>
+      <guid isPermaLink="false">cid://6b084603ea34a6000194ea99</guid>
+      <category>InvenioRDM</category>
+      <pubDate>Thu, 26 Nov 2026 16:08:00 +0000</pubDate>
+    </item>    <item>
       <title>POSI 2.0 Crossref self-assessment 2026</title>
       <link>https://www.crossref.org/blog/posi-2.0-crossref-self-assessment-2026/</link>
       <description>
@@ -1746,74 +1774,6 @@ The post [Ask the Technology Providers: Our Charleston Conversation](https://sch
       <category>identity management</category>
       <category>platforms</category>
       <pubDate>Fri, 06 Nov 2026 10:30:41 +0000</pubDate>
-    </item>    <item>
-      <title>On the Road with RADS: Building One Front Door for Data Management and Sharing Support at the University of Nebraska–Lincoln</title>
-      <link>https://www.arl.org/blog/on-the-road-with-rads-building-one-front-door-for-data-management-and-sharing-support-at-the-university-of-nebraska-lincoln/</link>
-      <description>
-        <![CDATA[<p>Last Updated on November 5, 2026, 2:05 pm ET Leslie Delserone is research data services and science librarian, University of Nebraska–Lincoln. Alicia Hofelich Mohr, PhD, is data management research associate,...</p>
-        <p>The post <a href="https://www.arl.org/blog/on-the-road-with-rads-building-one-front-door-for-data-management-and-sharing-support-at-the-university-of-nebraska-lincoln/">On the Road with RADS: Building One Front Door for Data Management and Sharing Support at the University of Nebraska–Lincoln</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <source:markdown>Last Updated on November 5, 2026, 2:05 pm ET Leslie Delserone is research data services and science librarian, University of Nebraska–Lincoln. Alicia Hofelich Mohr, PhD, is data management research associate,...
-
-The post [On the Road with RADS: Building One Front Door for Data Management and Sharing Support at the University of Nebraska–Lincoln](https://www.arl.org/blog/on-the-road-with-rads-building-one-front-door-for-data-management-and-sharing-support-at-the-university-of-nebraska-lincoln/) appeared first on [Association of Research Libraries](https://www.arl.org).</source:markdown>
-      <dc:creator>Leslie Delserone, Alicia Hofelich Mohr, Shawna Taylor, Marcel LaFlamme, and Cynthia Hudson Vitale</dc:creator>
-      <guid isPermaLink="false">cid://https://www.arl.org/?p=50449</guid>
-      <category>Blog</category>
-      <pubDate>Thu, 05 Nov 2026 19:05:33 +0000</pubDate>
-    </item>    <item>
-      <title>Rogue Scholar no longer registers concept DOIs for each post</title>
-      <link>https://blog.front-matter.de/posts/rogue-scholar-no-longer-registers-concept-dois-for-each-post/</link>
-      <description>
-        <![CDATA[Starting this Monday November 3rd the Rogue Scholar science blog archive stopped registering concept DOIs for new blog posts, i.e. two DOIs for each post.]]>
-      </description>
-      <source:markdown>Starting this Monday November 3rd the Rogue Scholar science blog archive stopped registering concept DOIs for new blog posts, i.e. two DOIs for each post.</source:markdown>
-      <dc:creator>Martin Fenner</dc:creator>
-      <guid isPermaLink="false">cid://6aec83c7cd244800010e4263</guid>
-      <category>InvenioRDM</category>
-      <category>Rogue Scholar</category>
-      <pubDate>Thu, 05 Nov 2026 14:09:05 +0000</pubDate>
-    </item>    <item>
-      <title>CBC Report: University Libraries are Being Swarmed by AI Bots, Putting Public Access at Risk</title>
-      <link>https://www.infodocket.com/2026/11/05/cbc-report-libraries-are-being-swarmed-by-ai-bots-putting-public-access-at-risk/</link>
-      <description>
-        <![CDATA[<p>From the CBC: University libraries say entire collections are being knocked offline by persistent streams of unruly bots trying to access their archives, which include academic, historical and government documents. &#8220;They&#8217;re just out there on the internet, just bombarding us with trying to grab up as much material as possible,&#8221; Jill Strykowski, cataloguing and government documents [&#8230;]</p>
-        <p>The post <a href="https://www.infodocket.com/2026/11/05/cbc-report-libraries-are-being-swarmed-by-ai-bots-putting-public-access-at-risk/">CBC Report: University Libraries are Being Swarmed by AI Bots, Putting Public Access at Risk</a> appeared first on <a href="https://www.infodocket.com">Library Journal infoDOCKET</a>.</p>]]>
-      </description>
-      <source:markdown>From the CBC: University libraries say entire collections are being knocked offline by persistent streams of unruly bots trying to access their archives, which include academic, historical and government documents. “They’re just out there on the internet, just bombarding us with trying to grab up as much material as possible,” Jill Strykowski, cataloguing and government documents \[…\]
-
-The post [CBC Report: University Libraries are Being Swarmed by AI Bots, Putting Public Access at Risk](https://www.infodocket.com/2026/11/05/cbc-report-libraries-are-being-swarmed-by-ai-bots-putting-public-access-at-risk/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).</source:markdown>
-      <dc:creator>Gary Price</dc:creator>
-      <guid isPermaLink="false">cid://https://www.infodocket.com/?p=169159</guid>
-      <category>Archives and Special Collections</category>
-      <category>Libraries</category>
-      <category>News</category>
-      <category>Open Access</category>
-      <pubDate>Thu, 05 Nov 2026 13:03:35 +0000</pubDate>
-    </item>    <item>
-      <title>Guest Post — What AI Can’t Learn About Peer Review… Because Nobody Can Explain It</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/11/05/guest-post-what-ai-cant-learn-about-peer-review-because-nobody-can-explain-it/</link>
-      <description>
-        <![CDATA[<p>What might be lost if we automate a task without first fully understanding the expertise behind it?</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/11/05/guest-post-what-ai-cant-learn-about-peer-review-because-nobody-can-explain-it/">Guest Post — What AI Can’t Learn About Peer Review… Because Nobody Can Explain It</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>What might be lost if we automate a task without first fully understanding the expertise behind it?
-
-The post [Guest Post — What AI Can’t Learn About Peer Review… Because Nobody Can Explain It](https://scholarlykitchen.sspnet.org/2026/11/05/guest-post-what-ai-cant-learn-about-peer-review-because-nobody-can-explain-it/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <dc:creator>Victoria Corless</dc:creator>
-      <guid isPermaLink="false">cid://https://scholarlykitchen.sspnet.org/?p=63230</guid>
-      <category>Artificial Intelligence</category>
-      <category>Authority</category>
-      <category>Authors</category>
-      <category>Peer Review</category>
-      <category>Technology</category>
-      <category>Tools</category>
-      <category>AI</category>
-      <category>AI in peer review</category>
-      <category>Artificial intelligence</category>
-      <category>Expertise</category>
-      <category>human expertise</category>
-      <category>judgment</category>
-      <pubDate>Thu, 05 Nov 2026 10:30:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

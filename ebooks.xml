@@ -5,7 +5,7 @@
     <title><![CDATA[eBooks]]></title>
     <description><![CDATA[New eBook releases.]]></description>
     <link>https://rsdoiel.github.io/antenna/ebooks.xml</link>
-    <lastBuildDate>26 Nov 26 06:48 -0800</lastBuildDate>
+    <lastBuildDate>27 Nov 26 06:48 -0800</lastBuildDate>
     <generator>antenna/0.2.1</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -1074,86 +1074,6 @@
       </description>
       <source:markdown>Language: English</source:markdown>
       <pubDate>Fri, 06 Nov 2026 10:51:23 +0000</pubDate>
-    </item>    <item>
-      <title>English Gothic foliage sculpture by Samuel Gardner</title>
-      <link>https://www.gutenberg.org/ebooks/79482</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 05 Nov 2026 10:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Emmeline, the Orphan of the Castle by Charlotte Smith</title>
-      <link>https://www.gutenberg.org/ebooks/41646</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 05 Nov 2026 10:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Oliver Twist by Charles Dickens</title>
-      <link>https://www.gutenberg.org/ebooks/730</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 05 Nov 2026 10:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Tanglewood Tales by Nathaniel Hawthorne</title>
-      <link>https://www.gutenberg.org/ebooks/976</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 05 Nov 2026 10:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Il Pentamerone; ossia, La fiaba delle fiabe, vol. 1/2 by Giambattista Basile</title>
-      <link>https://www.gutenberg.org/ebooks/79919</link>
-      <description>
-        <![CDATA[Language: Italian]]>
-      </description>
-      <source:markdown>Language: Italian</source:markdown>
-      <pubDate>Thu, 05 Nov 2026 10:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Il Pentamerone; ossia, La fiaba delle fiabe, vol. 2/2 by Giambattista Basile</title>
-      <link>https://www.gutenberg.org/ebooks/79920</link>
-      <description>
-        <![CDATA[Language: Italian]]>
-      </description>
-      <source:markdown>Language: Italian</source:markdown>
-      <pubDate>Thu, 05 Nov 2026 10:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>No more the stars by Jr. Irving E. Cox</title>
-      <link>https://www.gutenberg.org/ebooks/79921</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 05 Nov 2026 10:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Release : by Helen R.  Hull</title>
-      <link>https://www.gutenberg.org/ebooks/79918</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 05 Nov 2026 10:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Die Leiden des jungen Werther — Band 2 by Johann Wolfgang von Goethe</title>
-      <link>https://www.gutenberg.org/ebooks/2408</link>
-      <description>
-        <![CDATA[Language: German]]>
-      </description>
-      <source:markdown>Language: German</source:markdown>
-      <pubDate>Thu, 05 Nov 2026 10:51:22 +0000</pubDate>
-    </item>    <item>
-      <title>Enough is enough by J. Anthony  Ferlaine</title>
-      <link>https://www.gutenberg.org/ebooks/79922</link>
-      <description>
-        <![CDATA[Language: English]]>
-      </description>
-      <source:markdown>Language: English</source:markdown>
-      <pubDate>Thu, 05 Nov 2026 10:51:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

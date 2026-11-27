@@ -1,20 +1,28 @@
 ---
 title: "SoCal North"
 description: "News and posts related to the greater North Los Angeles and adjacent counties.\n"
-pubDate: Thu, 26 Nov 2026 13:00:00 GMT
+pubDate: Fri, 27 Nov 2026 05:41:00 GMT
 aggregateOf: "socal_north.md"
-dateModified: Thu, 26 Nov 2026 14:30:26 GMT
-itemCount: 326
+dateModified: Fri, 27 Nov 2026 14:30:48 GMT
+itemCount: 294
 generator: antenna/0.2.1
 ---
 
 # SoCal North
 
-## [King tides have arrived for Thanksgiving, bringing coastal flooding to SoCal. Here’s what to expect](https://laist.com/news/climate-environment/king-tides-have-arrived-thanksgiving-coastal-flooding-socal-what-to-expect)
+## [VSFB leadership give thanks to Team V](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4660347/vsfb-leadership-give-thanks-to-team-v/)
+
+via Vandenberg Base News · 2026-11-27
+
+On Thanksgiving Day, Space Launch Delta 30 leadership stepped behind the counters at Breakers Dining Facility to serve a traditional holiday meal to Team Vandenberg personnel, at Vandenberg Space Force Base, Calif., Nov. 26, 2026.
+
+![Military Leaders serve Thanksgiving meals to Vandenberg personnel.](https://media.defense.gov/2026/Nov/27/2004038418/300/300/0/261126-X-HP195-1106.JPG)
+
+## [King tides linger along SoCal coast. Here’s what to know](https://laist.com/news/climate-environment/king-tides-have-arrived-thanksgiving-coastal-flooding-socal-what-to-expect)
 
 via The LAist · 2026-11-26
 
-High tides and big waves could flood beaches and low-lying streets from Ventura County to Orange County through Friday.
+Coastal flood advisories are in effect until noon Friday for L.A. County’s coast and until 2 p.m. Saturday for Ventura County beaches, according to the weather service.
 
 ## [A Federal Agent Shot This Independent Journalist. Now He’s Been Released After A Year in ICE Detention](https://lataco.com/richard-la-release)
 
@@ -356,7 +364,7 @@ The post [Over a Freeway Near Los Angeles, Animals Can Roam Safely Thanks to Wor
 
 ## [Chief of Space Gen. Douglas Schiess Visits Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4659692/chief-of-space-gen-douglas-schiess-visits-vandenberg-space-force-base/)
 
-via Vandenberg Base News · 2026-11-24, updated 2026-11-26
+via Vandenberg Base News · 2026-11-24, updated 2026-11-27
 
 During his first visit to Vandenberg Space Force Base, Nov. 20, 2026, the CSO highlighted the critical role every Guardian plays in mission success, the need to build a combat-ready and resilient force, and the importance of delivering advanced space capabilities to the Joint Force.
 
@@ -1066,7 +1074,7 @@ Leonard Redway, Inglewood City Council District 1 candidate, must stay 100 yards
 
 ## [Vandenberg hosts 2026 Fall Job Fair](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649605/vandenberg-hosts-2026-fall-job-fair/)
 
-via Vandenberg Base News · 2026-11-17, updated 2026-11-26
+via Vandenberg Base News · 2026-11-17, updated 2026-11-27
 
 Attendees explore career opportunities during the Fall Job Fair at the Pacific Coast Center at Vandenberg Space Force Base, California, Nov. 16, 2026.
 
@@ -1132,7 +1140,7 @@ The U.S. Supreme Court denied the Trump administration’s appeal of lower court
 
 ## [Sentinel Stage Processing Facility Ribbon Cutting Ceremony at Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649455/sentinel-stage-processing-facility-ribbon-cutting-ceremony-at-vandenberg-space/)
 
-via Vandenberg Base News · 2026-11-16, updated 2026-11-26
+via Vandenberg Base News · 2026-11-16, updated 2026-11-27
 
 The recently completed facility will serve as a hub for processing and testing components for the next-generation Sentinel weapon system ribbon cutting ceremony held at Vandenberg Space Force Base, California, Nov. 5, 2026.
 
@@ -1236,7 +1244,7 @@ The post [Stalled Offensive Drives, Rain, Flat Defense, Plague Birmingham in 36-
 
 ## [UNARMED MINUTEMAN III ICBM TEST LAUNCH SCHEDULED AT VANDENBERG SPACE FORCE BASE](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4648574/unarmed-minuteman-iii-icbm-test-launch-scheduled-at-vandenberg-space-force-base/)
 
-via Vandenberg Base News · 2026-11-14, updated 2026-11-26
+via Vandenberg Base News · 2026-11-14, updated 2026-11-27
 
 An operational test launch of an Air Force Global Strike Command unarmed Minuteman III intercontinental ballistic missile is scheduled between 11:01 p.m. Pacific Time, Nov. 17, and 5:01 a.m. Pacific Time, Nov.18, from the northern portion of the installation.
 
@@ -1636,7 +1644,7 @@ The century-old diner brings back its pancakes and coleslaw, plus new dishes lik
 
 ## [Solvang holds 2026 Veterans Day observance with support of Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4646630/solvang-holds-2026-veterans-day-observance-with-support-of-vandenberg-space-for/)
 
-via Vandenberg Base News · 2026-11-11, updated 2026-11-26
+via Vandenberg Base News · 2026-11-11, updated 2026-11-27
 
 U.S. Space Force Chief Master Sgt. Shannan Sanchez, Space Launch Delta 30 command senior enlisted leader, delivered the keynote address during a Veterans Day ceremony at the Solvang Veterans Memorial Hall in Solvang, California, Nov. 11, 2026.
 
@@ -1724,7 +1732,7 @@ Those in Little Bangladesh say they are often ignored, but Raman spent time list
 
 ## [Not Just Child’s Play: Space Force Technicians Assist Children’s Museum with Restoration Project](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4646428/not-just-childs-play-space-force-technicians-assist-childrens-museum-with-resto/)
 
-via Vandenberg Base News · 2026-11-10, updated 2026-11-26
+via Vandenberg Base News · 2026-11-10, updated 2026-11-27
 
 After painstaking restoration, a museum’s interactive recycling display recently whirred back to life thanks to the technicians of the 30th Operations Support Squadron’s Training Device Design and Engineering Center at Vandenberg Space Force Base.
 
@@ -2055,256 +2063,4 @@ via L. A. Taco · 2026-11-06, updated 2026-11-13
 If these politicians are truly working in the best interests of their constituents, we’ll see the quick defunding and absolute abolishment of ICE, as well as better support for small businesses, working families, and improved resources for the homeless community.
 
 The post [ICE Watch Newsletter: Will Newly Elected Officials Finally Melt ICE?](https://lataco.com/ice-watch-election-abolish) appeared first on [L.A. TACO](https://lataco.com).
-
-## [Roy wins LA city attorney's race](https://laist.com/news/politics/roy-wins-la-city-attorneys-race)
-
-via The LAist · 2026-11-05, updated 2026-11-06
-
-Marissa Roy, a deputy attorney general backed by the Democratic Socialists of America, defeated challenger John McKinney.
-
-## [MacArthur Park fence construction to begin Nov. 16](https://laist.com/macarthur-park-fence-construction-to-begin-nov-16)
-
-via The LAist · 2026-11-05
-
-Things could get noisy as the city plans to break ground on an 8-foot tall fence on Nov. 16. Construction will continue through fall 2027.
-
-## [Family Continues to Remember Loved Ones for Día de los Muertos](https://sanfernandosun.com/2026/11/05/community-celebrates-dia-de-los-muertos/)
-
-via San Fernando Sun · 2026-11-05, updated 2026-11-11
-
-![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/4453646743290698225.jpg?fit=768%2C1024&ssl=1)
-
-Festivals celebrating Día de los Muertos (Day of the Dead) have ended, but in the San Fernando Valley, there’s still one more event later this week at the San Fernando \[…\]
-
-The post [Family Continues to Remember Loved Ones for Día de los Muertos](https://sanfernandosun.com/2026/11/05/community-celebrates-dia-de-los-muertos/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [Raman and DSA Candidates Have Defeated the Odds. That May Be the Easy Part](https://lataco.com/post-election-2026)
-
-via L. A. Taco · 2026-11-05, updated 2026-11-11
-
-It's been 21 years since an incumbent L.A. Mayor didn't win a second term, plus other crucial takeways from the mid-term election.
-
-The post [Raman and DSA Candidates Have Defeated the Odds. That May Be the Easy Part](https://lataco.com/post-election-2026) appeared first on [L.A. TACO](https://lataco.com).
-
-## [Raman Wins LA Mayor’s Race; Bass Concedes, Promises Smooth Transition](https://sanfernandosun.com/2026/11/05/raman-wins-la-mayors-race-bass-concedes-promises-smooth-transition/)
-
-via San Fernando Sun · 2026-11-05, updated 2026-11-11
-
-![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/55631777227_a3b8887fa5_b.jpg?fit=1024%2C683&ssl=1)
-
-By Jose Herrera City News Service LOS ANGELES (CNS) – City Councilwoman Nithya Raman emerged victorious in the race for Los Angeles mayor today, with incumbent Karen Bass conceding defeat \[…\]
-
-The post [Raman Wins LA Mayor’s Race; Bass Concedes, Promises Smooth Transition](https://sanfernandosun.com/2026/11/05/raman-wins-la-mayors-race-bass-concedes-promises-smooth-transition/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [Airbnb poured more than $6M into the LA mayoral and city attorney races. Its candidates lost](https://laist.com/news/politics/airbnb-poured-more-than-6m-into-the-la-mayoral-and-city-attorney-races-its-candidates-lost)
-
-via The LAist · 2026-11-05
-
-The short-term rental giant spent big on local races ahead of the 2028 Olympics. The two open city council seats are still too close to call
-
-## [Raman defeats Bass in race for LA mayor, ushering in new era of progressive politics](https://laist.com/news/politics/raman-defeats-bass-in-race-for-la-mayor-ushering-in-new-era-of-progressive-politics)
-
-via The LAist · 2026-11-05, updated 2026-11-06
-
-Raman, who is of Indian descent, becomes the first South Asian mayor of L.A. A relative newcomer to local politics, she was elected to the City Council in 2020.
-
-## [Your guide to eating your way through the inaugural LA Chocolate Festival](https://laist.com/news/food/la-chocolate-festival-guide)
-
-via The LAist · 2026-11-05
-
-It’s the first time the long-established Northwest Chocolate Festival is expanding to Los Angeles.
-
-## [Gavin Newsom clears death row, commutes sentences for hundreds of prisoners](https://laist.com/news/criminal-justice/gavin-newsom-clears-death-row-commutes-sentences-for-hundreds-of-prisoners)
-
-via The LAist · 2026-11-05, updated 2026-11-06
-
-Gov. Gavin Newsom commuted death sentence for 548 state prisoners. Victims rights advocates criticized his decision.
-
-## [Ye Rustic Inn (and Its 50 Years Worth of Regulars) Are Not Going Down Without a Fight](https://lataco.com/ye-rustic-inn-landlord)
-
-via L. A. Taco · 2026-11-05, updated 2026-11-11
-
-Hear ye, hear ye. Over 100 regulars gathered at Ye Rustic Inn, including L.A.'s new Mayor-Elect Nithya Raman. Where were you?
-
-The post [Ye Rustic Inn (and Its 50 Years Worth of Regulars) Are Not Going Down Without a Fight](https://lataco.com/ye-rustic-inn-landlord) appeared first on [L.A. TACO](https://lataco.com).
-
-## [Democrats’ blue wave beat Texas’ GOP gerrymanders. Did California even need Prop 50?](https://laist.com/news/politics/democrats-blue-wave-beat-texas-gop-gerrymanders-did-california-even-need-prop-50)
-
-via The LAist · 2026-11-05
-
-California Democrats went all in on redistricting to fight GOP gerrymanders in Texas and Florida. But in light of the blue wave, was Prop. 50 even necessary?
-
-## [“Winter Expressions” at the Newhall Community Center](https://santaclarita.gov/blog/2026/11/05/winter-expressions-at-the-newhall-community-center/)
-
-via City of Santa Clarita · 2026-11-05, updated 2026-11-16
-
-The City of Santa Clarita is pleased to present its latest art exhibition, “Winter Expressions,”on display at the Newhall Community Center (22421 Market Street) now through February 24, 2027. This juried exhibition explores the beauty, emotions and experiences of the winter season through a diverse collection of artwork inspired by nature, tradition and memory. Participating \[…\]
-
-The post [“Winter Expressions” at the Newhall Community Center](https://santaclarita.gov/blog/2026/11/05/winter-expressions-at-the-newhall-community-center/) appeared first on [City of Santa Clarita](https://santaclarita.gov).
-
-## [Brentwood’s Perse takes Persian food beyond the kabob house](https://laist.com/news/food/brentwood-perse-takes-persian-food-beyond-the-kabob-house)
-
-via The LAist · 2026-11-05, updated 2026-11-07
-
-The restaurant serves dishes from across Iran’s regions, from the Caspian coast to the Persian Gulf.
-
-## [Honoring a Legacy of Service, Sacrifice and Courage](https://santaclarita.gov/blog/2026/11/05/honoring-a-legacy-of-service-sacrifice-and-courage/)
-
-via City of Santa Clarita · 2026-11-05, updated 2026-11-12
-
-By Mayor Laurene Weste “Freedom is never more than one generation away from extinction. We didn’t pass it to our children in the bloodstream. It must be fought for, protected, and handed on for them to do the same.” ‒ Ronald Reagan Every generation of Americans has known men and women who answered the call \[…\]
-
-The post [Honoring a Legacy of Service, Sacrifice and Courage](https://santaclarita.gov/blog/2026/11/05/honoring-a-legacy-of-service-sacrifice-and-courage/) appeared first on [City of Santa Clarita](https://santaclarita.gov).
-
-## [Southeast L.A. Residents Can Save Thousands on an Electric Vehicle by Attending This Free Event In South Gate](https://lataco.com/ev-discount-empower-gateway)
-
-via L. A. Taco · 2026-11-05, updated 2026-11-11
-
-It can also bring you money-saving rebates on electric upgrades to your home.
-
-The post [Southeast L.A. Residents Can Save Thousands on an Electric Vehicle by Attending This Free Event In South Gate](https://lataco.com/ev-discount-empower-gateway) appeared first on [L.A. TACO](https://lataco.com).
-
-## [City of Santa Clarita to Celebrate Dedication of Beale’s Cut](https://santaclarita.gov/blog/2026/11/05/city-of-santa-clarita-to-celebrate-dedication-of-beales-cut/)
-
-via City of Santa Clarita · 2026-11-05, updated 2026-11-12
-
-Community Invited to Honor Historic Pass and Join City-Led Hike The City of Santa Clarita invites residents and community members to celebrate the Dedication of Beale’s Cut on Wednesday, November 18, at 9:30 a.m. The ceremony will take place at 22682 Sierra Highway, at the beginning of the Beale’s Cut Trailhead. Because parking at the \[…\]
-
-The post [City of Santa Clarita to Celebrate Dedication of Beale’s Cut](https://santaclarita.gov/blog/2026/11/05/city-of-santa-clarita-to-celebrate-dedication-of-beales-cut/) appeared first on [City of Santa Clarita](https://santaclarita.gov).
-
-## [Billionaire Leon Black sues U.S. Rep. Robert Garcia for defamation over Epstein comments](https://laist.com/news/politics/billionaire-leon-black-sues-u-s-rep-robert-garcia-for-defamation-over-epstein-comments)
-
-via The LAist · 2026-11-05
-
-Billionaire Leon Black filed a federal defamation lawsuit against California Rep. Robert Garcia for public comments the congressman made tying him to Jeffrey Epstein.
-
-## [Claves: Los votantes Castigan a Trump y el Partido Republicano Sufre Pérdidas Históricas](https://sanfernandosun.com/2026/11/04/claves-los-votantes-castigan-a-trump-y-el-partido-republicano-sufre-perdidas-historicas/)
-
-via San Fernando Sun · 2026-11-05, updated 2026-11-11
-
-![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/AP26306143339645-1.jpg?fit=1024%2C683&ssl=1)
-
-Por  Steve Peoples, Bill Barrow y Linley SandersAssociated Press WASHINGTON (AP) — El presidente de Estados Unidos, Donald Trump, animó repetidamente a los votantes a fingir que estaba en la \[…\]
-
-The post [Claves: Los votantes Castigan a Trump y el Partido Republicano Sufre Pérdidas Históricas](https://sanfernandosun.com/2026/11/04/claves-los-votantes-castigan-a-trump-y-el-partido-republicano-sufre-perdidas-historicas/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [El Gobernador Electo Xavier Becerra Visita la Ciudad de San Fernando un Día Antes de una Elección Histórica](https://sanfernandosun.com/2026/11/04/el-gobernador-electo-xavier-becerra-visita-la-ciudad-de-san-fernando-un-dia-antes-de-una-eleccion-historica/)
-
-via San Fernando Sun · 2026-11-05, updated 2026-11-11
-
-![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Becerra-01-e1793856212425.jpg?fit=1024%2C669&ssl=1)
-
-Xavier Becerra sucederá al gobernador Gavin Newsom como el próximo gobernador de California, convirtiéndose en el primer latino electo para el cargo más alto del estado después de una contundente \[…\]
-
-The post [El Gobernador Electo Xavier Becerra Visita la Ciudad de San Fernando un Día Antes de una Elección Histórica](https://sanfernandosun.com/2026/11/04/el-gobernador-electo-xavier-becerra-visita-la-ciudad-de-san-fernando-un-dia-antes-de-una-eleccion-historica/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [Horóscopo](https://sanfernandosun.com/2026/11/04/horoscopo-292/)
-
-via San Fernando Sun · 2026-11-05, updated 2026-11-11
-
-ARIES (21 de mar – 19 de abr)   Aries, tus niveles de energía están en 10, pero todo lo que necesitas para atravesar la semana es un 6. Conserva \[…\]
-
-The post [Horóscopo](https://sanfernandosun.com/2026/11/04/horoscopo-292/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [EVENTOS Locales – Semana de 5 de noviembre, 2026](https://sanfernandosun.com/2026/11/04/eventos-locales-semana-de-5-de-noviembre-2026/)
-
-via San Fernando Sun · 2026-11-05, updated 2026-11-11
-
-Viernes, 6 de noviembre Feria de Salud de Otoño para Adultos Mayores – ONEgeneration Wilkinson Senior Center 8956 Vanalden Ave. Northridge 9 a.m. – 12 p.m. ONEgeneration Wilkinson Senior Center \[…\]
-
-The post [EVENTOS Locales – Semana de  5 de noviembre, 2026](https://sanfernandosun.com/2026/11/04/eventos-locales-semana-de-5-de-noviembre-2026/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [Raman Mantiene una Ventaja Pequeña y en Crecimiento sobre Bass en la Carrera por la Alcaldía de Los Ángeles](https://sanfernandosun.com/2026/11/04/raman-mantiene-una-ventaja-pequena-y-en-crecimiento-sobre-bass-en-la-carrera-por-la-alcaldia-de-los-angeles/)
-
-via San Fernando Sun · 2026-11-05, updated 2026-11-11
-
-![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/Screenshot-2026-11-04-at-9.36.22-PM-1.png?fit=631%2C403&ssl=1)
-
-A medida que continúan contabilizándose los votos en la ajustada carrera por la alcaldía de Los Ángeles, al momento de enviar esta información, la concejal de Los Ángeles Nithya Raman \[…\]
-
-The post [Raman Mantiene una Ventaja Pequeña y en Crecimiento sobre Bass en la Carrera por la Alcaldía de Los Ángeles](https://sanfernandosun.com/2026/11/04/raman-mantiene-una-ventaja-pequena-y-en-crecimiento-sobre-bass-en-la-carrera-por-la-alcaldia-de-los-angeles/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [Se Espera que los Votantes de Los Ángeles Aprueben el Impuesto para Bomberos de LAFD y Reformas de Ética del Condado](https://sanfernandosun.com/2026/11/04/se-espera-que-los-votantes-de-los-angeles-aprueben-el-impuesto-para-bomberos-de-lafd-y-reformas-de-etica-del-condado/)
-
-via San Fernando Sun · 2026-11-05, updated 2026-11-11
-
-Por Jose Herrera  City News Service LOS ANGELES (CNS) – Los votantes de la ciudad de Los Ángeles estaban hoy encaminados a aprobar un aumento del impuesto a las ventas \[…\]
-
-The post [Se Espera que los Votantes de Los Ángeles Aprueben el Impuesto para Bomberos de LAFD y Reformas de Ética del Condado](https://sanfernandosun.com/2026/11/04/se-espera-que-los-votantes-de-los-angeles-aprueben-el-impuesto-para-bomberos-de-lafd-y-reformas-de-etica-del-condado/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [El Noreste del Valle Sigue Recordando a Sus Seres Queridos por Día de los Muertos](https://sanfernandosun.com/2026/11/04/el-noreste-del-valle-sigue-recordando-a-sus-seres-queridos-por-dia-de-los-muertos/)
-
-via San Fernando Sun · 2026-11-05, updated 2026-11-09
-
-![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/7781957907026893799-e1793855682119.jpg?fit=890%2C1024&ssl=1)
-
-Las festividades para celebrar el Día de los Muertos han terminado, pero en el Valle de San Fernando todavía queda un evento más adelante esta semana, en el Cementerio de \[…\]
-
-The post [El Noreste del Valle Sigue Recordando a Sus Seres Queridos por Día de los Muertos](https://sanfernandosun.com/2026/11/04/el-noreste-del-valle-sigue-recordando-a-sus-seres-queridos-por-dia-de-los-muertos/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [Reacción de la Comunidad Ante un Estudio de $2.1 Millones Sobre el Futuro del Aeropuerto Whiteman](https://sanfernandosun.com/2026/11/04/reaccion-de-la-comunidad-ante-un-estudio-de-2-1-millones-sobre-el-futuro-del-aeropuerto-whiteman/)
-
-via San Fernando Sun · 2026-11-05
-
-![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/PXL_20261029_010611839-scaled-e1793855459190.jpg?fit=1024%2C558&ssl=1)
-
-Cientos de personas llenaron el Assembly Area del Campus Center en Los Angeles Mission College la semana pasada, con ganas de conocer más sobre los resultados del estudio de varios \[…\]
-
-The post [Reacción de la Comunidad Ante un Estudio de $2.1 Millones Sobre el Futuro del Aeropuerto Whiteman](https://sanfernandosun.com/2026/11/04/reaccion-de-la-comunidad-ante-un-estudio-de-2-1-millones-sobre-el-futuro-del-aeropuerto-whiteman/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [LAPD Identifica Vehículo Buscado por Atropello Mortal con Fuga del 19 de Octubre en North Hollywood](https://sanfernandosun.com/2026/11/04/lapd-identifica-vehiculo-buscado-por-atropello-mortal-con-fuga-del-19-de-octubre-en-north-hollywood/)
-
-via San Fernando Sun · 2026-11-05
-
-![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/NoHo-Hit-and-Run-10-19-26-1.jpg?fit=1024%2C682&ssl=1)
-
-El Departamento de Policía de Los Ángeles (LAPD) identificó el vehículo que se busca en relación con un choque fatal por atropello con fuga ocurrido el 19 de octubre, el \[…\]
-
-The post [LAPD Identifica Vehículo Buscado por Atropello Mortal con Fuga del 19 de Octubre en North Hollywood](https://sanfernandosun.com/2026/11/04/lapd-identifica-vehiculo-buscado-por-atropello-mortal-con-fuga-del-19-de-octubre-en-north-hollywood/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [Justice Department Has Sent Target Letters in Alaska Senate Criminal Probe. Here’s What That Means](https://sanfernandosun.com/2026/11/04/justice-department-has-sent-target-letters-in-alaska-senate-criminal-probe-heres-what-that-means/)
-
-via San Fernando Sun · 2026-11-05
-
-![](https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2026/11/AP26287583584385-scaled.jpg?fit=1024%2C683&ssl=1)
-
-By Alanna Durkin Richer and Eric Tucker Associated Press WASHINGTON (AP) — The Justice Department has escalated its investigation over an Alaska Senate candidate who shares a name with the Republican \[…\]
-
-The post [Justice Department Has Sent Target Letters in Alaska Senate Criminal Probe. Here’s What That Means](https://sanfernandosun.com/2026/11/04/justice-department-has-sent-target-letters-in-alaska-senate-criminal-probe-heres-what-that-means/) appeared first on [The San Fernando Valley Sun](https://sanfernandosun.com).
-
-## [West Hollywood passes domestic partnership registry for polyamorous families](https://laist.com/news/politics/west-hollywood-passes-domestic-partnership-registry-for-polyamorous-families)
-
-via The LAist · 2026-11-05
-
-The registry would extend certain legal protections, like hospital visitation rights, within the city.
-
-## [Republicans tried to gerrymander their way out of big congressional losses. It didn't work](https://laist.com/news/politics/republicans-tried-to-gerrymander-their-way-out-of-big-congressional-losses-it-didnt-work)
-
-via The LAist · 2026-11-05
-
-Among the sweeping victories by Democrats were wins in several congressional districts that Republicans had redrawn explicitly to boost their party ahead of the midterms.
-
-## [Inside the California Republicans' election party on the night of the 'blue tsunami'](https://laist.com/news/politics/inside-the-california-republicans-election-party-on-the-night-of-the-blue-tsunami)
-
-via The LAist · 2026-11-05
-
-At a party in Garden Grove, attendees did anything but watch results roll in as they awaited Republican gubernatorial candidate Steve Hilton's concession speech.
-
-## [LA County courts are making it easier to request recordings of some hearings](https://laist.com/news/politics/la-county-courts-are-making-it-easier-to-request-recordings-of-some-hearings)
-
-via The LAist · 2026-11-05
-
-People in certain cases can now ask for an official audio record of their hearing if there's no official court reporter and they can't afford a private one.
-
-## [All 8 LA city ballot measures are passing. Here’s what changes](https://laist.com/news/politics/voter-guides/2026-election-california-general-la-live-results-los-angeles-city-ballot-measures-ee-fd-la-te-se-prt-el)
-
-via The LAist · 2026-11-05
-
-The measures begin the process of reshaping the city charter and boosting fire, parks funding.
-
-## [Newcomer Gonzales-Torres defeats incumbent in California's 34th Congressional District race](https://laist.com/news/politics/voter-guides/2026-election-california-general-congress-34-district-gomes-gonzales-torres-la-live-results)
-
-via The LAist · 2026-11-05
-
-Gonzales-Torres is a democratic socialist. Gomez, a close ally of disgraced former Congressman Eric Swalwell, had faced misconduct allegations.
 

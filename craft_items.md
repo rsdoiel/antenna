@@ -1,14 +1,28 @@
 ---
 title: "Craft"
 description: "Craft is a list of hand oriented craft and technology\nDo we really need all those power tools?"
-pubDate: Thu, 26 Nov 2026 11:00:00 GMT
+pubDate: Fri, 27 Nov 2026 13:28:04 GMT
 aggregateOf: "craft.md"
-dateModified: Thu, 26 Nov 2026 14:48:43 GMT
+dateModified: Fri, 27 Nov 2026 14:48:53 GMT
 itemCount: 35
 generator: antenna/0.2.1
 ---
 
 # Craft
+
+## [Power Play](https://www.popularwoodworking.com/tools/power-play/)
+
+via Popular Woodworking · 2026-11-27, updated 2026-11-25
+
+![](https://media.popularwoodworking.com/app/uploads/2026/11/25093032/ajblog-1277-image-copy-1024x768.jpg)Cordless technology keeps getting better, more powerful, and closer to the promise of replacing corded tools The first time I held a cordless tool, other than a drill, was around...
+
+[Source](https://www.popularwoodworking.com/tools/power-play/)
+
+## [Mind Upon Mind: Preserving Your End Caps](https://blog.lostartpress.com/2026/11/27/mind-upon-mind-preserving-your-end-caps/)
+
+via Lost Arg Press blog · 2026-11-27, updated 2026-11-24
+
+Editor’s note: Our Mind Upon Mind series is a nod to a 1937 Chips from the Chisel column in The Woodworker magazine in which Charles Hayward wrote, “The influence of mind upon mind is extraordinary.” The idea being there’s often room for improvement. To that end, we’ve asked you what else you have thought of, tried out...
 
 ## [‘Thanksgiving Day and a Day to Celebrate’](https://blog.lostartpress.com/2026/11/26/thanksgiving-day-and-a-day-to-celebrate/)
 
@@ -257,20 +271,4 @@ via Popular Woodworking · 2026-11-06, updated 2026-11-13
 ![](https://media.popularwoodworking.com/app/uploads/2026/11/04121031/ajblog-1274-copy-1024x729.jpg)Wouldn’t it be great to tour the inside of a great piece of woodworking, like the joinery of a Maloof rocker or the interior of a Krenov cabinet? I’m talking literally...
 
 [Source](https://www.popularwoodworking.com/editors-blog/from-the-inside-out/)
-
-## [Teaching Live Edge (Part 2): Alternative Flattening, Design Options, and Deb’s Build](https://www.popularwoodworking.com/editors-blog/teaching-live-edge-part-2-alternative-flattening-design-options-and-debs-build/)
-
-via Popular Woodworking · 2026-11-05, updated 2026-11-12
-
-![](https://media.popularwoodworking.com/app/uploads/2026/11/02164851/img_0880-1024x768.jpeg)Mornings at Snow Farm begin not with the roar of machinery, but in the dining hall. Immersive craft schools run on creativity, but they are fueled by calories, and the...
-
-[Source](https://www.popularwoodworking.com/editors-blog/teaching-live-edge-part-2-alternative-flattening-design-options-and-debs-build/)
-
-## [Tooley Park Marking Gauge Review](https://www.popularwoodworking.com/toolreviews/tooley-park-marking-gauge-review/)
-
-via Popular Woodworking · 2026-11-05, updated 2026-11-11
-
-![](https://media.popularwoodworking.com/app/uploads/2026/10/14100136/tooley-copy-1024x768.jpg)Tool: 3 in 1 Marking Gauge Shop Now Manufacturer: Tooley Park Tools MSRP:£135.00 It’s rare to find a modern tool that captures the elegance and simplicity of those made decades ago,...
-
-[Source](https://www.popularwoodworking.com/toolreviews/tooley-park-marking-gauge-review/)
 

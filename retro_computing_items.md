@@ -1,14 +1,26 @@
 ---
 title: "Retro"
 description: "Computer history and vintage systems."
-pubDate: Tue, 24 Nov 2026 21:27:04 GMT
+pubDate: Fri, 27 Nov 2026 14:00:38 GMT
 aggregateOf: "retro_computing.md"
-dateModified: Thu, 26 Nov 2026 14:46:18 GMT
+dateModified: Fri, 27 Nov 2026 14:46:27 GMT
 itemCount: 48
 generator: antenna/0.2.1
 ---
 
 # Retro
+
+## [Desk updated and rehomed](https://www.riscository.com/2026/desk-updated-rehomed/)
+
+via RiscOS Story · 2026-11-27
+
+RISC OS developers who use Desk for their projects can now update their bookmarks to find the library in its new home – and along with the move, there have been some updates, bringing Desk up to version 3.3.0. A library is a set of (often pre-compiled) functions, definitions, and other resources that is designed not just for use in a single piece of software, but for repeated use in different projects. This allows a programmer to save a certain amount of unnecessary effort when writing functions that may be…
+
+## [b.log 2026/11/26 - Dear oh dear...](https://heyrick.eu/blog/entry/20261126)
+
+via Richard Murray's blog · 2026-11-26
+
+Dear oh dear...
 
 ## [Blogger broke the lightbox](https://oldvcr.blogspot.com/2026/11/blogger-broke-lightbox.html)
 
@@ -26,7 +38,7 @@ via C64 OS Blog · 2026-11-24
 
 ## [b.log 2026/11/22 - Windy and rainy, Tea v0.04.](https://heyrick.eu/blog/entry/20261122)
 
-via Richard Murray's blog · 2026-11-22
+via Richard Murray's blog · 2026-11-22, updated 2026-11-26
 
 Windy and rainy, Tea v0.04.
 
@@ -44,7 +56,7 @@ NetCD is a DOS device driver that simulates a CD-ROM or a DVD-ROM. This makes it
 
 ## [b.log 2026/11/21 - Not working, TeaBASIC v0.03, A Time War doesn't make sense.](https://heyrick.eu/blog/entry/20261121)
 
-via Richard Murray's blog · 2026-11-21, updated 2026-11-22
+via Richard Murray's blog · 2026-11-21, updated 2026-11-26
 
 Not working, TeaBASIC v0.03, A Time War doesn't make sense.
 
@@ -56,7 +68,7 @@ Here are some of the things that I spotted which happened in the RISC OS Open so
 
 ## [b.log 2026/11/20 - A bigger better Arduino.](https://heyrick.eu/blog/entry/20261120)
 
-via Richard Murray's blog · 2026-11-20, updated 2026-11-22
+via Richard Murray's blog · 2026-11-20, updated 2026-11-26
 
 A bigger better Arduino.
 
@@ -74,7 +86,7 @@ I have been using TASM32 for a very long time. A simple DOS based assembler, cal
 
 ## [b.log 2026/11/19 - I am SO done with this shit. \[NSFW\]](https://heyrick.eu/blog/entry/20261119)
 
-via Richard Murray's blog · 2026-11-19, updated 2026-11-22
+via Richard Murray's blog · 2026-11-19, updated 2026-11-26
 
 I am SO done with this shit. \[NSFW\]
 
@@ -86,13 +98,13 @@ This is my story about a first and a second version of KB-9 or, as it is officia
 
 ## [System76 Announces the New Thelio Prime Desktop](http://www.linux-magazine.com/Online/News/System76-Announces-the-New-Thelio-Prime-Desktop)
 
-via Linux Magazine · 2026-11-19, updated 2026-11-26
+via Linux Magazine · 2026-11-19, updated 2026-11-27
 
 The makers of the Thelio desktop line and Pop!\_OS have released a powerful small form factor PC.
 
 ## [A Must See KDE Documentary](http://www.linux-magazine.com/Online/News/A-Must-See-KDE-Documentary)
 
-via Linux Magazine · 2026-11-18, updated 2026-11-26
+via Linux Magazine · 2026-11-18, updated 2026-11-27
 
 It doesn't matter what desktop environment you prefer, this KDE documentary should top your list of things to watch.
 
@@ -110,7 +122,7 @@ Rougols's November talk (appropriately enough for 42 people) was a double bill f
 
 ## [b.log 2026/11/16 - TeaBASIC v0.02](https://heyrick.eu/blog/entry/20261116)
 
-via Richard Murray's blog · 2026-11-16, updated 2026-11-22
+via Richard Murray's blog · 2026-11-16, updated 2026-11-26
 
 TeaBASIC v0.02
 
@@ -122,7 +134,7 @@ I acquired a VIDEO PLUS card. A video card for AIM 65 KIM or SYM-1. This is one 
 
 ## [b.log 2026/11/15 - TeaBASIC and NTCs, The Frenchest thing ever, Storage prices, Interlude, I bought a sewing machine!](https://heyrick.eu/blog/entry/20261115)
 
-via Richard Murray's blog · 2026-11-15, updated 2026-11-22
+via Richard Murray's blog · 2026-11-15, updated 2026-11-26
 
 TeaBASIC and NTCs, The Frenchest thing ever, Storage prices, Interlude, I bought a sewing machine!
 
@@ -134,13 +146,13 @@ Here are some of the things that I spotted which happened in the RISC OS Open so
 
 ## [A 64-bit RISC OS is coming – take a deep dive into it with ROUGOL](https://www.riscository.com/2026/64-bit-risc-os-at-rougol/)
 
-via RiscOS Story · 2026-11-14
+via RiscOS Story · 2026-11-14, updated 2026-11-27
 
 The RISC OS London Show took place only a few weeks ago, and the big news that came from it was that not only had work been started on a 64-bit version of RISC OS, but that it was already at a point where it could be demonstrated. Indeed, it was the key subject of the talk given in the show theatre by Andrew Rawnsley on behalf of RISC OS Developments. Andrew’s demonstration in the theatre could only be fairly limited due to time constraints, as well as the status…
 
 ## [b.log 2026/11/13 - AI can be useful.](https://heyrick.eu/blog/entry/20261113)
 
-via Richard Murray's blog · 2026-11-13, updated 2026-11-22
+via Richard Murray's blog · 2026-11-13, updated 2026-11-26
 
 AI can be useful.
 
@@ -158,13 +170,13 @@ The November 2026 Rougol meeting is on Monday.
 
 ## [b.log 2026/11/12 - Jitters.](https://heyrick.eu/blog/entry/20261112)
 
-via Richard Murray's blog · 2026-11-12, updated 2026-11-22
+via Richard Murray's blog · 2026-11-12, updated 2026-11-26
 
 Jitters.
 
 ## [New KORA Linux Distro to Harness the Power of Local AI](http://www.linux-magazine.com/Online/News/New-KORA-Linux-Distro-to-Harness-the-Power-of-Local-AI)
 
-via Linux Magazine · 2026-11-12, updated 2026-11-26
+via Linux Magazine · 2026-11-12, updated 2026-11-27
 
 The development team behind CyanogenMod, Android, and Playtron unveils KORA, a Linux distribution built specifically for AI nerds.
 
@@ -194,13 +206,13 @@ If you were inspired by the recent London Show (or looking to catch-up on what y
 
 ## [Epic Games Targets Linux for New Launcher](http://www.linux-magazine.com/Online/News/Epic-Games-Targets-Linux-for-New-Launcher)
 
-via Linux Magazine · 2026-11-11, updated 2026-11-26
+via Linux Magazine · 2026-11-11, updated 2026-11-27
 
 The Epic Games new launcher is still in preview, but it looks to land on several Linux distributions.
 
 ## [b.log 2026/11/11 - Stupid, What is this?, gcd.bas fails on actual BASIC, TeaBASIC progresses.](https://heyrick.eu/blog/entry/20261111)
 
-via Richard Murray's blog · 2026-11-11, updated 2026-11-22
+via Richard Murray's blog · 2026-11-11, updated 2026-11-26
 
 Stupid, What is this?, gcd.bas fails on actual BASIC, TeaBASIC progresses.
 
@@ -437,7 +449,7 @@ I recently revived an open source Apple II Agent project I began in January: An 
 
 ## [Developers’ fireside chat – 14th November](https://www.riscository.com/2026/developers-fireside-chat-14th-november/)
 
-via RiscOS Story · 2026-11-09, updated 2026-11-14
+via RiscOS Story · 2026-11-09, updated 2026-11-27
 
 The next opportunity for people with an interest in RISC OS software development to gather around the fire for a chat about all things related to the subject is this coming Saturday – 14th November. Starting at around 7:30pm via the Zoom video conferencing system, these meetings are way for for anyone who develops software for RISC OS, and anyone with an interest in the topic, to talk to other like-minded people, enabling them to discuss what they’re up to, the problems and issues they’ve come up against, and how…
 
@@ -449,19 +461,19 @@ How a childhood memory, a forgotten online service, and two years of reverse eng
 
 ## [b.log 2026/11/08 - Dreary, Initial Public Offering.](https://heyrick.eu/blog/entry/20261108)
 
-via Richard Murray's blog · 2026-11-08, updated 2026-11-22
+via Richard Murray's blog · 2026-11-08, updated 2026-11-26
 
 Dreary, Initial Public Offering.
 
 ## [Ghost Hunter now in !Store](https://www.riscository.com/2026/ghost-hunter-now-in-store/)
 
-via RiscOS Story · 2026-11-08, updated 2026-11-14
+via RiscOS Story · 2026-11-08, updated 2026-11-27
 
 Unveiled at the recent London Show, the latest title from AMCOG Games – their 25th – is Ghost Hunter, and it is now available to purchase from !Store – and the version found there is 1.03, so anyone who purchased at the show is encouraged to upgrade, which they can do for free using the code they will have received at time of purchase. In the game, you control a fire spirit, summoned by the wizard Orzabal to clear his castle of the ghosts and ghouls that have manifested there…
 
 ## [RISC OS in video #2](https://www.riscository.com/2026/risc-os-in-video-2/)
 
-via RiscOS Story · 2026-11-08, updated 2026-11-14
+via RiscOS Story · 2026-11-08, updated 2026-11-27
 
 Back in September, RISCOSitory published the first article in a new series – and now it is time to publish the second – it’s time for another round up of new videos that relate to RISC OS (or which may be of interest to its users) that have appeared on YouTube. In that first entry, I noted that it would be an occasional series, and – although this one is appearing only two months later – a likely frequency has been decided upon. You can expect to see each post…
 
@@ -473,7 +485,7 @@ Here are some of the things that I spotted which happened in the RISC OS Open so
 
 ## [b.log 2026/11/07 - Linguine, TeaBASIC, Texas, One last tweak.](https://heyrick.eu/blog/entry/20261107)
 
-via Richard Murray's blog · 2026-11-07, updated 2026-11-22
+via Richard Murray's blog · 2026-11-07, updated 2026-11-26
 
 Linguine, TeaBASIC, Texas, One last tweak.
 
@@ -482,16 +494,4 @@ Linguine, TeaBASIC, Texas, One last tweak.
 via Digital Antiquarian · 2026-11-06, updated 2026-11-22
 
 This article tells part of the story of Warren Spector. A slight shift of focus, and the future could still turn out like Deus Ex after all… — Deus Ex lead writer Sheldon Pacotti, speaking in 2014 The reviews that greeted Ion Storm’s Deus Ex upon its release in June of 2000 ranged along a continuum \[…\]
-
-## [Fedora 45 Now Available](http://www.linux-magazine.com/Online/News/Fedora-45-Now-Available)
-
-via Linux Magazine · 2026-11-05, updated 2026-11-26
-
-The latest iteration of Fedora has arrived with Gnome 51 and KDE Plasma 6.8.
-
-## [WROCC November 2026 meeting - Package managers with Chris Hughes](http://www.iconbar.com/comments/rss/news2420.html)
-
-via Icon Bar, RISC OS News · 2026-11-05
-
-WROCC's November speaker was Chris Hughes looking at package managers for RISC OS.
 

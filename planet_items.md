@@ -1,14 +1,1353 @@
 ---
 title: "Planet"
 description: "News from Europe, the Americas and the rest of the world beyond the Pacific Rim."
-pubDate: Thu, 26 Nov 2026 14:32:02 GMT
+pubDate: Fri, 27 Nov 2026 14:32:03 GMT
 aggregateOf: "planet.md"
-dateModified: Thu, 26 Nov 2026 14:32:43 GMT
-itemCount: 3159
+dateModified: Fri, 27 Nov 2026 14:33:02 GMT
+itemCount: 3144
 generator: antenna/0.2.1
 ---
 
 # Planet
+
+## [Korea Times holds first Global Supporters reunion](https://www.koreatimes.co.kr/lifestyle/people-events/20261127/korea-times-holds-first-global-supporters-reunion?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+The Korea Times held its first Global Supporters Homecoming Day on Friday, bringing together 60 former and current honorary ambassadors of the English-language daily from 35 countries, with the theme “Once a supporter, always family.” The inaugural event brought together members of three recent cohorts. It was a festive reunion for international students and expats in Korea who have served as ambassadors for the newspaper during a six-month term. Participants could network across cohorts and academic backgrounds, taking part in recreational activities with gift offerings. Organizers said the event was meant to keep supporters connected after their terms end, gathering alumni and current members in one place for the first time. “Although we are from different cohorts, it feels special that we are all here together with the same wish to share Korea’s stories with the world,” said Anna Scierska from Poland, representative of the latest cohort. “I hope that, regardless of cohort, we can keep in closer touch and get along well with each other.” Scierska said her participation in
+
+## [Belgian authorities force Google to halt data center construction](https://www.koreatimes.co.kr/world/20261127/belgian-authorities-force-google-to-halt-data-center-construction?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+BRUSSELS, Belgium — Belgian authorities have ordered Google to suspend construction of a data center in the south of the country because of a lack of proper planning permission, a regional official said Friday. "We have identified a major offense: the illegal construction of a building covering three hectares," or 7.4 acres, Nicolas Yernaux, spokesman for the Wallonia regional authorities, told AFP. The "stop-work" order at the former mining site covering some 50 hectares in total comes after NGO Greenpeace accused Google of carrying on construction despite lacking the correct permits. The regional authority said that inspectors visited the site on Thursday to inform Google representatives to halt construction. The mammoth project has been locked in legal litigation for months after Google applied to amend the terms of its planning permission. The application sought to allow a cooling system for the facilities using water drawn from the nearby River Sambre, whereas the initial project had envisaged air cooling, Belgian media reported. The move stirred local opposition as severe droughts
+
+## [US chip restrictions cast shadow over Chinese AI labs](https://www.koreatimes.co.kr/world/20261127/us-chip-restrictions-cast-shadow-over-chinese-ai-labs?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+BEIJING — Chinese AI labs like Z.ai, DeepSeek and Moonshot AI have been creeping ever closer to their U.S. rivals in their capabilities, but the fallout from the Nvidia scandal could slow their progress. Experts said tighter U.S. restrictions are curbing access to chips in the short term, which adds incentive for Beijing's efforts to accelerate development of their own cutting-edge semiconductors. How is Washington cracking down? The U.S. government first introduced export controls on advanced chips destined for China in 2022, citing national security concerns as the two countries race to develop powerful AI technology. The following year, Washington tightened its rules to stop Chinese AI companies using overseas affiliates to place orders for high-end chips made by U.S. industry leader Nvidia. Many Chinese players then turned to renting cloud computing power from data centers located overseas, especially in Southeast Asia. This workaround has come under scrutiny in recent weeks as an explosive affair scandal briefly forced Nvidia CEO Huang out of his post. One of Huang's affairs was alle
+
+## [UN warns hunger will deepen in Middle East as war, fuel costs, aid cuts collide](https://www.koreatimes.co.kr/world/20261127/un-warns-hunger-will-deepen-in-middle-east-as-war-fuel-costs-aid-cuts-collide?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+CAIRO — Hunger is expected to worsen in 16 countries over the next six months, with war-torn Sudan and Yemen among five nations facing the gravest risk, the United Nations’ food agencies warned Friday. The agencies pointed to conflict, soaring fuel costs linked to war in the Middle East and steep cuts in aid. The Food and Agriculture Organization and the World Food Program's Hunger Hotspots report covers December through May 2026. It places Sudan, Yemen, South Sudan, Somalia and northern Nigeria at the highest level of concern. All five have appeared on the list repeatedly since 2022. The Palestinian territories were moved down one level following the October 2025 ceasefire in Gaza, though 67 percent of Gaza’s population still faces crisis-level hunger or worse, and the report warned that the gains were fragile. Famine risk persists in Sudan In Sudan, a risk of famine is expected to persist through January in 13 areas of North Darfur and South Kordofan, the report said. Nearly 19.5 million people, or 41 percent of the population, faced crisis-level hunger or worse in the latest nat
+
+## [Kakao founder's acquittal finalized as prosecutors decide not to appeal](https://www.koreatimes.co.kr/southkorea/law-crime/20261127/kakao-founders-acquittal-finalized-as-prosecutors-decide-not-to-appeal?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Prosecutors have decided not to appeal an appellate court's acquittal of Kim Beom-su, founder of tech giant Kakao Corp., of stock manipulation charges, making the not-guilty verdict final, Yonhap News Agency learned Friday. Last week, the Seoul High Court acquitted Kim, indicted on charges of violating the Capital Market Act in connection with Kakao's 2023 takeover of K-pop agency SM Entertainment, upholding a lower court's ruling. Friday was the deadline to appeal, but the Seoul Southern District Prosecutors Office said it had decided not to challenge the ruling following a review of both the first-instance and appellate court decisions. The Kakao founder was accused of making large-scale purchases of SM Entertainment shares to push their price above rival Hybe's tender offer price, thereby blocking Hybe's takeover of SM. In October last year, the Seoul Southern District Court acquitted him, ruling that the fact that Kakao's large-scale purchases of SM shares affected their price did not necessarily constitute price manipulation. Kim currently serves as the head of Kakao's Future Initiat
+
+## ['YOMO JOMO': Seulgi Lee's playful, many-sided look at everyday objects](https://www.koreatimes.co.kr/lifestyle/arts-theater/20261127/yomo-jomo-seulgi-lees-playful-many-sided-look-at-everyday-objects?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+What do you see when you look at an everyday object from every angle — or, in Korean, "yomo jomo"? Seulgi Lee, a Paris-based artist who turns Korean proverbs, folk songs and artisans’ techniques into playful sculptures, installations and sound works, poses that question in her first solo show at a public art museum in Korea. “YOMO JOMO Seulgi Lee” opened Thursday at the Seoul Museum of Art's (SeMA) main Seosomun branch and runs through Feb. 28. Lee, born in 1972, has lived in France since 1992 and was selected the 2020 Korea Artist Prize winner. The show brings together more than 70 works, including nine new pieces commissioned by SeMA and serial projects dating to the late 1990s. Lee names her shows around the world in Korean, drawn to the language’s onomatopoeia and mimetic words, which often repeat a syllable in a playful rhythm. This year’s Bordeaux show, “GORU GORU,” uses a word meaning “evenly” or “equally.” It echoes the name of the Garonne River, which flows through the city, and Lee said its rounded sound reminded her of water gurgling along. Her Swiss sho
+
+## [Yonsei University unveils $97.4 mil. plan for human-centered AI campus](https://www.koreatimes.co.kr/southkorea/education/20261127/yonsei-university-unveils-974-mil-plan-for-human-centered-ai-campus?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Yonsei University will invest more than 130 billion won ($97.4 million) over eight years to bring artificial intelligence (AI) into its education, research and administration, the school said Friday. At a ceremony on its Sinchon campus, President Yoon Dong-sup unveiled "Truth that Frees, Intelligence that Serves" as the university's vision for the AI era. The slogan draws on Yonsei's founding motto, "The truth will set you free." "Knowledge can be acquired anywhere, but it is only on campus that people can come together, communicate, exercise judgment collectively and take responsibility," Yoon said. The university said the vision means training students to question, check and look for the truth themselves instead of passively accepting AI-generated answers, and to use what they learn to serve others and society. Starting with the 2027 academic year, Yonsei will offer a general education course titled "Artificial Intelligence and Contemporary Society." The course will become mandatory for all incoming students from the 2028 academic year. The university also plans an AI curriculum that ru
+
+## [Shin Min-a says she would return for 'The Remarried Empress' Season 2](https://www.koreatimes.co.kr/entertainment/shows-dramas/20261127/shin-min-a-says-would-return-for-the-remarried-empress-season-2?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Actor Shin Min-a, who played Empress Navier in the Disney+ romantic fantasy hit "The Remarried Empress," said Friday she hopes to return for a second season should it be made. Featuring a star-studded cast that also includes Ju Ji-hoon, Lee Jong-suk and Lee Se-young, the Korean original series follows Empress Navier and her husband, Sovieshu (Ju), whose seemingly peaceful marriage is upended by the arrival of Rashta (Lee Se-young), a former runaway slave. The series, based on a Korean web novel of the same name, which has also been made into a webtoon and racked up billions of views, drew attention as a live-action adaptation of a romantic fantasy story. "It was a long journey that concluded well thanks to the many people who supported the character," Shin told reporters in a group interview. "When I read the script, I felt that a second season should follow ... I hope there is a second season and they will need me (as Navier)," she said playfully. Following its release on Nov. 3, the series has become one of the most popular Korean shows Disney+ has launched, drawing more views worldwide
+
+## [Illit's Moka announces return after 5-month health hiatus](https://www.koreatimes.co.kr/entertainment/k-pop/20261127/illits-moka-announces-return-after-5-month-health-hiatus?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Moka of K-pop girl group Illit is set to gradually resume activities after taking a five-month hiatus due to health concerns, paving the way for the group's long-awaited reunion as a five-member act. On Friday, the Japanese member shared the news through the fan community platform Weverse, expressing gratitude to fans who had waited for her return. "First of all, thank you so, so much to all the GLLITs who have been waiting for me. Thanks to the fans who waited for me and everyone who helped me, I'm able to greet you like this once again," Moka said, referring to the group's official fandom. "I'm really happy, too, and I feel like I've been waiting for this day all along. I'll do my best to gradually resume activities with the members, so I hope you'll be patient with me." She also expressed her affection for fans. "I hope GLLITs are always happy and surrounded by good things," she said. "I'm always grateful, and I love you." Moka initially suspended activities in April due to health issues before returning in May. However, she went on another hiatus on June 19, raising concerns among fan
+
+## [Pan-gov't task force on integration of military academies to set sail next week](https://www.koreatimes.co.kr/southkorea/defense/20261127/pan-govt-task-force-on-integration-of-military-academies-to-set-sail-next-week?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+The defense ministry said Friday it will launch a pan-government task force to push ahead with its plan to establish a unified military academy of the Army, Navy and Air Force for joint education and training in the central city of Daejeon. The task force, comprising some 20 personnel from the military, education and land ministries, will launch for operation Wednesday to follow through on plans to merge the military academies of each armed service. The ministry announced last week a finalized plan to establish a single military academy while retaining the existing school of each armed service as regional campuses, amid fierce pushback from alumni groups and cadets over the plan. The task force will focus on overhauling the education system to ensure the envisioned military academy can nurture elite officers to lead future warfare, the ministry said. Meanwhile, the ministry disclosed the results of a survey conducted on 2,526 military cadets from Nov. 13-17 over their opinions of the integration blueprint. Of them, 2,240, or 88.6 percent, responded. When asked what the ministry should tak
+
+## [Parliamentary committee adopts confirmation hearing report for justice minister nominee](https://www.koreatimes.co.kr/southkorea/politics/20261127/parliamentary-committee-adopts-confirmation-hearing-report-for-justice-minister-nominee?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+A parliamentary committee on Friday adopted a confirmation hearing report for Justice Minister nominee Lee Yong-cheol, paving the way for his appointment. The report was adopted at a meeting of the legislation and judiciary committee led by the ruling Democratic Party of Korea (DPK), with the main opposition People Power Party (PPP) leaving the session in protest of the move. The PPP has criticized the nominee over suspicions that he could seek to drop indictments against President Lee Jae Myung. The DPK-dominated National Assembly earlier passed a special counsel bill to launch a probe into allegations that prosecutors under the previous administration had indicted Lee and others on fabricated evidence. The PPP suspects the nominee could order the prosecution to drop the indictments based on the results of the probe. The president faces several trials on various charges, including those on his alleged involvement in corrupt development schemes and illegal remittances to North Korea stemming from his time as mayor of Seongnam and governor of Gyeonggi Province. The trials have been suspend
+
+## [Prosecutors demand dismissal of Daejang-dong scandal suspects' appeals](https://www.koreatimes.co.kr/southkorea/law-crime/20261127/prosecutors-demand-dismissal-of-daejang-dong-scandal-suspects-appeals?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Prosecutors on Friday asked an appellate court to dismiss appeals filed by five key figures in a development corruption scandal linked to President Lee Jae Myung, who were sentenced to prison terms last year. Prosecutors made the request during a hearing at the Seoul High Court, where the five defendants stood trial over their roles in the Daejang-dong development scandal that occurred in Seongnam, just south of Seoul, in 2015, when Lee was the city's mayor. The scandal centers on allegations that a small number of obscure private asset management firms, including Hwacheon Daeyu, were allowed to reap astronomical profits from the project. In October last year, the Seoul Central District Court sentenced Yoo Dong-gyu, former acting president of Seongnam Development Corp., and Kim Man-bae, major shareholder of Hwacheon Daeyu, to eight years in prison each on charges including breach of duty. Kim was also ordered to forfeit 42.8 billion won (about $32 million). Two lawyers and an accountant involved in the case received prison terms ranging from four to six years. All five defendants appeal
+
+## [Busan seeks path to inclusive city as foreign population grows](https://www.koreatimes.co.kr/southkorea/others/20261127/busan-seeks-path-to-inclusive-city-as-foreign-population-grows?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+As Busan's international community continues to grow, the southeastern port city is looking beyond attracting foreign residents to a bigger challenge: making sure they can fully participate in everyday life and feel that they belong. Busan Metropolitan City held its 2026 Busan Inclusive City Forum on Friday at Busan City Hotel, bringing together foreign residents, Korean citizens, academics and public officials to discuss ways to build a more inclusive community. The gathering comes as the city's population becomes increasingly diverse. According to figures from the Ministry of the Interior and Safety, Busan had 88,542 foreign residents in 2024, up from 73,185 in 2020 — an increase of about 21 percent. Foreign residents accounted for 2.7 percent of the city's total population in 2024. The figures include not only foreign nationals but also naturalized citizens and children from multicultural families, reflecting the increasingly diverse makeup of communities across the city. Held under the theme "From a City Where People Stay to a City Where People Live Together," the forum focused on p
+
+## [Pioneering educator Trudy Kim, wife of FEBC-Korea chairman, dies at 88](https://www.koreatimes.co.kr/lifestyle/people-events/20261127/pioneering-educator-trudy-kim-wife-of-febc-korea-chairman-dies-at-88?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Trudy Kim, a pioneering educator and the wife of Rev. Billy Kim, chairman of the Far East Broadcasting Company (FEBC)-Korea, died early Friday. She was 88. Born in Michigan in 1938 as the third of four children, she met Billy Kim while studying education at Bob Jones University, where he was an international student from Korea. The couple married in 1958 and moved to Korea the following year, when the country was still recovering from the 1950-53 Korean War. She spent 67 years in Korea, saying she regarded it as her second home. In 1978, Kim founded Central Christian Kindergarten in Suwon and served as its principal for 39 years until retiring in 2017. She laid the foundation for inclusive education, in which children with and without disabilities learn together, at a time when the idea was still unfamiliar in Korea. Kim donated her entire salary to the kindergarten. Instead of staying in the principal’s office, she cleaned the restrooms herself. She also baked bread and pies to help pay tuition for children with disabilities and students from low-income families. The effort later became
+
+## [Defense minister visits Army's drone testing unit amid push for unmanned systems](https://www.koreatimes.co.kr/southkorea/defense/20261127/defense-minister-visits-armys-drone-testing-unit-amid-push-for-unmanned-systems?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Defense Minister Kang Shin-chul on Friday visited an Army mobilization unit operating drone pilot programs, the defense ministry said, as the military pushes to reshape its reserve forces into an unmanned systems-centered force amid a demographic change. Kang paid a visit to the 72nd Infantry Division, a reserve force mobilization unit north of Seoul, earlier in the day, to inspect its drone testing and meet with service members and reserve forces there, the ministry said in a release. The 72nd Infantry Division has been running a drone and robot company under its wing as part of an Army initiative to transform reserve force units into drone-centered ones. Speaking to the troops at the unit, Kang called on active-duty soldiers and reservists to grow together as "one warrior community armed with professional expertise and combat readiness," vowing to build a "strong military" that prevails against any threat. The military currently recruits drone experts as part-time reservists to run drone units in peacetime. As part of efforts to address the declining population, the military aims to exp
+
+## [KOSPI surges over 4%, Kosdaq gains top 8% on hopes for market stabilization fund](https://www.koreatimes.co.kr/economy/20261127/kospi-surges-over-4-kosdaq-gains-top-8-on-hopes-for-market-stabilization-fund?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+The benchmark KOSPI surged more than 4 percent Friday, as expectations for government measures to stabilize the stock market, including the possible deployment of a market stabilization fund, lifted investor sentiment. The tech-heavy Kosdaq index also jumped more than 8 percent to reclaim the 700 mark for the first time in 12 trading sessions. KOSPI closed at 4,915.68, up 4.34 percent from the previous session. The index opened at 4,728.80 and fluctuated during the morning session before extending its rally in the afternoon. Heavy net buying by foreign investors drove the index sharply higher, with institutional purchases adding to the gains. Foreign investors bought a net 1.13 trillion won ($845 million) on the main bourse, their largest net purchase since Sept. 7, when they bought a net 2.59 trillion won. Institutional investors bought a net 236.9 billion won, with pension funds alone buying a net 288.3 billion won. Retail investors posted net sales of 1.77 trillion won. Market bellwethers led the gains. Samsung Electronics rose 4.55 percent to close at 179,100 won, while SK hynix gaine
+
+## [Korea to tighten visa checks on foreign entertainers to curb trafficking](https://www.koreatimes.co.kr/southkorea/society/20261127/korea-to-tighten-visa-checks-on-foreign-entertainers-to-curb-trafficking?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Korea plans to tighten visa screening and workplace inspections for foreign entertainers to prevent human trafficking, including sexual exploitation and forced labor. The Ministry of Gender Equality and Family convened an interagency policy coordination meeting on human trafficking prevention on Friday, focusing on strengthening protections for foreign nationals entering the country on E-6-2 entertainment visas. The visa allows foreign nationals to work as singers, musicians and other performers at hotels and entertainment establishments. However, some have been subjected to sexual exploitation and forced labor after entering the country under the pretext of pursuing entertainment careers. The ministry discussed ways to strengthen information sharing among relevant agencies during the performance approval and visa screening processes to identify potential trafficking risks before foreign entertainers enter Korea. Discussions also focused on tightening oversight of entertainment agencies and workplaces through joint inspections and stronger follow-up measures against violations. Other propo
+
+## [\[COVER STORY\] Migrant groups hope ruling on political activities will give foreign residents stronger voice](https://www.koreatimes.co.kr/southkorea/law-crime/20261127/cover-story-migrant-groups-hope-ruling-on-political-activities-will-give-foreign-residents-stronger-voice?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Migrant support groups expressed hope Friday that the Constitutional Court’s landmark ruling against a blanket ban on foreign residents’ political activities will give residents greater freedom to speak out on issues that directly affect their lives. In a 6-3 decision Thursday, the court found the Immigration Act provision unconstitutional, 49 years after it was introduced. The court said the ban violated the principle of proportionality by restricting foreign residents’ freedom of expression more than necessary. For years, the broad restriction on political activities has left foreign nationals uncertain about where the line falls between legitimate advocacy and prohibited activity, according to Udaya Rai, head of the Migrants' Trade Union. "Immigration authorities have interpreted the provision too broadly. We have long feared visa-related disadvantages because even speaking at a rally organized by a political party or taking part in a public forum could be interpreted as political activity," Rai said. For the Seoul Branch of the Native Language Teachers Union (KGLU NTU), the rul
+
+## [KGC targets healthy aging market with premium deer antler products](https://www.koreatimes.co.kr/business/companies/20261127/kgc-targets-healthy-aging-market-with-premium-deer-antler-products?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+As healthy aging gains importance, consumers are showing renewed interest in traditional health ingredients such as red ginseng and deer antler. They are becoming more selective about their purchases, paying closer attention to ingredient quality, manufacturing processes and brand credibility. Health supplement maker KGC is tapping into this trend with Cheon Nok, its premium deer antler brand under Jung Kwan Jang, as it seeks to differentiate its products through ingredient quality and manufacturing expertise. The brand uses deer antlers sourced from New Zealand as its main ingredient, combined with traditional ingredients such as red ginseng, and applies systematic quality controls throughout the process, from raw material selection to manufacturing. The company said the deer antler used for the brand carries the Super A Traditional grade, which it describes as the highest grade guaranteed by the New Zealand government. Deer antlers are graded according to several criteria, including thickness, length and weight, with the company sourcing raw materials that meet the strictest standards.
+
+## [Jin Air's Busan relocation complicates workforce integration](https://www.koreatimes.co.kr/business/companies/20261127/jin-airs-busan-relocation-complicates-workforce-integration?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Jin Air’s decision to base its postmerger headquarters in the southern port city of Busan has reignited questions over whether the airline can relocate its key personnel and management functions, with opposition from employees and labor unions threatening to complicate the transition, experts and industry officials said Friday. Starting March 17 next year, the integrated Jin Air is set to officially begin its operations following its merger with Air Seoul and Air Busan. The relocation of integrated Jin Air’s headquarters to Busan came after the local community, which stands to lose Air Busan as a key regional carrier following the merger, repeatedly opposed the plan and strongly pressed for the new airline’s headquarters to be based in the city. Even if Hanjin Group, the parent firm of the low-cost carrier (LCC), accepted the call by announcing Jin Air’s Busan relocation plan, Thursday, industry watchers remain doubtful that the airline can transfer its key functions to the new base as scheduled. “From a corporate strategy perspective, relocating to Busan does not offer signifi
+
+## [US Apache squadron's inactivation raises questions over combat readiness in Korea](https://www.koreatimes.co.kr/southkorea/defense/20261127/apache-squadron-inactivation-at-camp-humphreys-raises-questions-about-capability-gap?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Analysts are questioning whether U.S. combat capability in South Korea has been diminished after U.S. Forces Korea (USFK) confirmed the inactivation of an Apache helicopter squadron at Camp Humphreys, with no replacement unit yet in place. USFK said Thursday that the move did not affect the allies' military readiness or ability to deter an attack, but the command did not say whether the squadron's helicopters and personnel had been reassigned within South Korea or moved out of the country. Shin Jong-woo, secretary general of the Korea Defense and Security Forum, questioned whether the U.S. could maintain the same capabilities on the peninsula after taking an aviation unit out of service before a replacement was in place. He said no additional unmanned aircraft had been deployed to take over the squadron’s duties and that U.S. combat capability on the peninsula could suffer even if troop numbers stayed the same. “As a rule, you bring in a replacement before you take an existing unit out of service,” Shin said. If the unit goes first, he added, there is no telling when its replacemen
+
+## [Why Xi's warning against a 'blind' tech rush is suddenly ringing louder](https://www.koreatimes.co.kr/world/20261127/why-xis-warning-against-a-blind-tech-rush-is-suddenly-ringing-louder?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Chinese President Xi Jinping's warning last month against a disorderly rush into new industries has come into sharper focus this week with an investigation into Shanghai's party chief, a sell-off in chip stocks and renewed questions about whether China's computing boom can pay for itself. During an October 16 visit to Ulanqab, a computing hub in north China's Inner Mongolia autonomous region, Xi cautioned against blind competition and development that ignored local conditions. Then on Wednesday, Study Times, an official publication run by the Central Party School, invoked Xi's remarks in a commentary piece warning that some localities had rushed to secure land and resources and bought chips without adequately assessing customers' needs. The commentary appeared a day after authorities announced that Shanghai party secretary Chen Jining was under investigation for suspected serious violations of discipline and law. Chen, who is also a member of the powerful Politburo, is widely seen as a pro-tech policymaker who encourages support for innovation companies. The investigation notice did not
+
+## [Ex-gymnast Son Yeon-jae, husband pledge $2.23 mil. to support high-risk pregnancies](https://www.koreatimes.co.kr/lifestyle/people-events/20261127/ex-gymnast-son-yeon-jae-husband-pledge-223-mil-to-support-high-risk-pregnancies?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Former rhythmic gymnast Son Yeon-jae and her husband, Lee Jun-hyo, have pledged 3 billion won ($2.23 million) to the Yonsei University Health System to support mothers experiencing high-risk pregnancies and their babies. Severance Hospital said Friday that the couple signed a donation agreement with the Yonsei University Health System to establish and operate the Yeon-jae Fetal Care Center. The center will provide comprehensive medical services for women with high-risk pregnancies and their babies, covering everything from pregnancy and childbirth to postnatal treatment. Specialists in obstetrics, neonatology and other relevant medical fields will work together to assess the health of mothers and their unborn babies and respond promptly to potential complications before and after delivery. The center will also establish a remote consultation system connecting medical institutions in Korea and overseas through high-resolution diagnostic equipment and real-time information-sharing technology. The initiative aims to address gaps in access to specialized maternity and fetal care while promoti
+
+## [Chinese envoy warns US-Korea alliance shouldn't become 'tool' against China](https://www.koreatimes.co.kr/foreignaffairs/20261127/chinese-envoy-warns-us-korea-alliance-shouldnt-become-tool-against-china?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Chinese Ambassador to Korea Dai Bing said Thursday that the Korea-United States alliance should not become a constraint on bilateral relations between Seoul and Beijing, voicing concerns over Washington's push to modernize the alliance and expand the strategic flexibility of U.S. Forces Korea (USFK). "Any country should maintain its autonomy. We respect the Korea-U.S. alliance, which has a long history," Dai said at a press conference in central Seoul, a week after China hosted the 2026 Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen. He said China never asked Korea to choose between Washington and Beijing, adding that he believed Seoul has the wisdom to develop relations with both. However, he questioned the implications of Washington's push to modernize the Korea-U.S. alliance and expand its strategic role. "Terms such as 'modernization of the Korea-U.S. alliance' and 'strategic flexibility' carry, to some extent, an implication of targeting China," the ambassador said. Dai also said Beijing had reason for concern, citing recent remarks by a U.S. official in Korea. He did no
+
+## [DPK lawmaker handed 'severe' disciplinary action over remarks on Lee](https://www.koreatimes.co.kr/southkorea/politics/20261127/dpk-lawmaker-handed-severe-disciplinary-action-over-remarks-on-lee?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+The ruling Democratic Party of Korea (DPK)'s ethics committee on Friday decided to suspend Rep. Choi Min-hee, a member of its Supreme Council, from party membership for two years over her controversial remarks about President Lee Jae Myung, sources said. If the punishment is finalized, Choi will be ineligible to run in the 2028 general elections. Choi recently came under fire for her remarks suggesting that Lee, when he was the party's leader, had opposed former President Yoon Suk Yeol's impeachment, and for referring to journalists as "a pack of hyenas." Choi's case was referred to the party's ethics committee after DPK leader Kim Min-seok ordered an internal inspection earlier this month. "We determined that some of Supreme Council member Choi's remarks, which were problematic, damaged the party's dignity and decided to take severe disciplinary action after comprehensively reviewing various circumstances," Lee Chang-hwan, head of the ethics panel, told reporters. Four types of disciplinary action are possible under party rules -- warning, suspension from party duties, suspension of part
+
+## [Lee's pick to lead capital market reform faces tests on shareholder rights, Kosdaq overhaul](https://www.koreatimes.co.kr/economy/others/20261127/lees-pick-to-lead-capital-market-reform-faces-tests-on-shareholder-rights-kosdaq-overhaul?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Meritz Financial Group Vice Chairman Kim Yong-beom, President Lee Jae Myung’s pick to lead a new capital market reform committee, will be tasked with strengthening protections for minority shareholders and overhauling the Kosdaq market, industry officials said Friday. Kim, who reshaped Meritz’s corporate structure and expanded shareholder payouts, will now have to persuade policymakers to act on proposals from private sector experts. The Financial Services Commission (FSC) said its chairman, Lee Eog-weon, met with Kim at Government Complex Seoul on Thursday to discuss the committee’s composition and remit. The meeting followed the president’s call at a Nov. 13 policy meeting for a high-level body to lead capital market reform. “Kim has already put into practice the changes the government is seeking to promote through policy, such as enhancing shareholder value and strengthening investor relations,” the FSC chairman said. “He will draw on his experience in business and the markets to set the reform agenda and serve as a bridge between the government and market participants.
+
+## ['Who is our main enemy?' South Korea's Gen Z weighs in](https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261127/who-is-our-main-enemy-south-koreas-gen-z-weighs-in?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+"Who is South Korea's main enemy?" For many young South Koreans, the answer may be North Korea, but being asked the question itself can feel like a test of their political beliefs. In a roundtable discussion organized by the Hankook Ilbo, participants in their 20s revealed nuanced attitudes toward national security, Korean reunification and North Korean defectors. While many identified North Korea as the country's main enemy, some questioned why individuals should be required to publicly affirm that position. Opinions were also divided over the need for reunification, although participants broadly agreed that North Korean defectors deserve support from South Korean society. Same question, different perspectives Participant 2: I've recently seen cases online of women being asked who they consider the country's main enemy. Sometimes it's their boyfriends asking, and sometimes it's students asking their female teachers. Participant 3: I first came across this question in videos of candidates being asked who the country's main enemy was during the June local elections. If someone couldn't say
+
+## [Seoul turns to AI to spot falling concrete risks on bridges, overpasses](https://www.koreatimes.co.kr/southkorea/society/20261127/seoul-turns-to-ai-to-spot-falling-concrete-risks-on-bridges-overpasses?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Seoul is turning to artificial intelligence (AI) to tackle a potentially deadly hazard on its bridges, developing a new inspection system that can detect concrete at risk of breaking loose without requiring workers to climb beneath structures. The Seoul Facilities Corporation said Thursday it had jointly developed an AI-powered diagnostic device with a private company to identify the risk of concrete spalling, in which pieces of concrete detach and fall from bridge structures. The technology was recently recognized as an outstanding case in the Ministry of the Interior and Safety's collection of successful public sector AI and advanced technology projects. Until now, inspections of bridge decks have largely relied on workers riding elevated inspection vehicles and striking concrete surfaces with hammers, then judging the condition of the structure by listening to the resulting sounds. The approach has created several challenges, including lane closures, traffic congestion, inspection costs, safety risks associated with working at height and inconsistent assessments depending on workers
+
+## [Singapore 'engaging' with local firms over US chip restrictions](https://www.koreatimes.co.kr/world/20261127/singapore-engaging-with-local-firms-over-us-chip-restrictions?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+SINGAPORE — Singapore said Friday it was "engaging" with local businesses over tightened U.S. export controls on advanced AI chips designed by tech titan Nvidia. But Deputy Prime Minister Gan Kim Yong said he was unable to confirm reports that the U.S. firm had halted server shipments to four Southeast Asian countries. Citing national security concerns, the United States has since 2022 restricted exports to China of Nvidia's industry-leading chips, which are used to train and run AI tools. Washington last week moved to close a loophole in those controls in the wake of a scandal that has engulfed Nvidia, forcing out longtime CEO Jensen Huang before his reinstatement on Sunday. The new U.S. rules crack down on alleged chip smuggling to China, as well as the large grey market of Chinese companies renting computing power from data centres in third countries, often in Southeast Asia. "We are in the process of engaging our businesses, to reach out to them to see how this impacts their businesses," Gan told a local summit in Singapore on Friday. The Financial Times and other media outlets repor
+
+## [Chinese military tests new Taiwan landing tactics in coastal drills](https://www.koreatimes.co.kr/world/20261127/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+TAIPEI/HONG KONG — China is staging a weeks-long amphibious landing drill in the province facing Taiwan, testing a new method to land troops ashore by linking civilian vessels into a makeshift floating bridge, satellite images and a research report showed. China views democratically governed Taiwan as its own territory, despite Taipei's rejection of Beijing's sovereignty claims, and has never renounced the use of force to bring it under Chinese control. The exercise, in Dacheng Bay in China's southeastern province of Fujian, was first spotted on November 1, according to satellite images and a report by geospatial data company ingeniSPACE reviewed by Reuters. "The People's Liberation Army appeared to be rehearsing low-signature methods to provide logistical support to forces that could be involved in a first island chain invasion scenario," said Jason Wang, the company's chief operating officer. "Using civilian ships to enable bridging of heavy equipment and materiel from deeper waters creates additional locations they can use along the Taiwan coastline." A senior security official brief
+
+## [Kumho Mitsui Chemicals wins award for sustainability report](https://www.koreatimes.co.kr/business/companies/20261127/kumho-mitsui-chemicals-wins-award-for-sustainability-report?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Kumho Mitsui Chemicals has won an award for its sustainability report at the 2026 Korea Sustainability Conference, earning recognition for its efforts to improve transparency in environmental, social and governance disclosures and advance resource recycling in its manufacturing operations. Kumho Petrochemical Group’s chemical manufacturing arm said that its 2026 sustainability report was selected as an outstanding report in the manufacturing category of the Korean Readers’ Choice Awards. Organized by the Korean Standards Association, the awards recognize corporate sustainability reports based on global reporting initiative guidelines and evaluations by stakeholders and experts. The latest report is Kumho Mitsui Chemicals' fourth since it began voluntarily publishing sustainability disclosures in 2023. The company said it identified hazardous chemical management, occupational health and safety, and climate change response as key material issues through a double materiality assessment. The report outlines the significance of each issue, along with its governance structures, response str
+
+## [Tunisia looks to Seoul's 120 hotline as model for better public services](https://www.koreatimes.co.kr/southkorea/others/20261127/tunisia-looks-to-seouls-120-hotline-as-model-for-better-public-services?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+A public service hotline built to help Seoul residents navigate everything from transportation to welfare and taxes is attracting attention abroad, with governments looking to Korea’s capital for lessons in making administration more responsive. Seoul’s 120 Dasan Call Foundation said it had conducted 19 international exchanges between 2023 and October 2026, including 17 visits by foreign institutions and two cooperation agreements, sharing its experience with government agencies and public service organizations across several countries. Among its recent visitors were seven senior Tunisian government officials who toured the foundation on Nov. 12 as part of a training program under the Korea International Cooperation Agency’s project to upgrade Tunisia’s national civil petition system. During the visit, the foundation introduced its specialized consultation services, procedures for handling public grievances and efforts to improve citizen satisfaction, while explaining how data gathered through consultations can be analyzed and used to improve public policies. The foundation has a
+
+## [Power suits, piercing gazes: Jang Na-ra, Park Min-young return to their strengths](https://www.koreatimes.co.kr/entertainment/shows-dramas/20261127/power-suits-piercing-gazes-jang-na-ra-park-min-young-return-to-their-strengths?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Jang Na-ra and Park Min-young are returning to what they do best, transforming into sharp-dressed career women with sleek bob haircuts as SBS looks to score back-to-back drama hits. Following the premiere of SBS' Friday-Saturday drama "Good Partner 2" on Nov. 20, starring Jang, Park joined the network's lineup with the Wednesday-Thursday series "Nine to Six," which premiered on Wednesday. Both actresses play highly competent professionals armed with legal expertise. Their strikingly similar looks have also drawn attention. From sleek bob haircuts and impeccably tailored suits to composed expressions and piercing gazes, the two actresses, long beloved for their endearing images, are showcasing a cooler, more commanding side. Yet each brings a distinct appeal to her character. While Jang exudes the quiet confidence and commanding presence of a seasoned professional, Park embodies a highly capable career woman with her sophisticated appearance and articulate delivery. Jang found one of her career-defining roles in the 2024 legal drama "Good Partner," playing Cha Eun-kyung, a divorce lawyer
+
+## [Suicide deaths fall 16.3 percent in September](https://www.koreatimes.co.kr/southkorea/society/20261127/suicide-deaths-fall-163-percent-in-september?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+The number of suicide deaths fell 16.3 percent from a year earlier to 1,014 in September, while the figure for the first nine months of the year dropped 11.7 percent on-year to 9,591, data from the Office for Government Policy Coordination showed Friday. Of September's total, men accounted for 69 percent, or 701 deaths, while women accounted for 31 percent, or 313 deaths. Across all regions, the total number of suicide deaths through September dropped from the same period last year, except for the central administrative city of Sejong, which saw a 27.3 percent increase in such deaths from a year ago, the data showed. The southern island of Jeju saw the biggest drop of 24.6 percent in suicide deaths this year, followed by the central city of Daejeon at 21.4 percent, and the southeastern cities of Ulsan and Daegu at 20.9 percent and 16.4 percent, respectively. Such sharp declines follow a series of anti-suicide measures by the Lee Jae Myung administration. Suicide prevention is part of Lee's broader goal of building what he has called an administration dedicated to saving lives. South Korea
+
+## [KOGAS wins prime minister's award for helping small businesses go global](https://www.koreatimes.co.kr/business/companies/20261127/kogas-wins-prime-ministers-award-for-helping-small-businesses-go-global?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Korea Gas Corp. (KOGAS) has won a prime minister’s citation for turning its industrial expertise into a broader support network for smaller businesses, helping them develop domestic technology, enter overseas markets and reduce financing costs. The state-run energy company said Friday it received the award at the 2026 Shared Growth Week ceremony held at Coex Magok in Seoul on Thursday, recognizing its efforts to promote cooperation between large corporations and small and midsize enterprises. One of its major achievements was helping localize cryogenic ball bearings designed to operate at temperatures as low as minus 162 degrees Celsius, a technology previously dependent on imports. Under the initiative, a small business developed the technology while KOGAS opened its Pyeongtaek liquefied natural gas terminal as a testing site, providing opportunities for field trials and establishing a track record for commercial deliveries. The company also expanded its shared payment system, which guarantees more secure payments to smaller suppliers, recording 137.1 billion won ($95 million), up 190
+
+## [Overseas card spending hits record high in Q3](https://www.koreatimes.co.kr/economy/20261127/overseas-card-spending-hits-record-high-in-q3?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+South Koreans' overseas card spending hit the highest-ever amount in the third quarter of the year on the back of an increase in outbound travelers, data showed Friday. The amount of money spent overseas by South Koreans with credit and debit cards came to $6.63 billion in the July-September period, up 13.3 percent from three months earlier, according to data from the Bank of Korea (BOK). The on-quarter rise marks the sharpest since the first quarter of 2023, when the reading spiked 14.8 percent, and also is the largest-ever. The central bank said more South Koreans traveled overseas, although direct purchases from abroad declined. The number of overseas travelers came to 7.12 million in the third quarter of the year, up 7.4 percent from the previous quarter. The combined amount of purchases made through overseas shopping malls, on the other hand, fell 0.8 percent to $1.4 billion.
+
+## [Pay-TV subscribers continue to decline; IPTV subscribers slightly up in H1: data](https://www.koreatimes.co.kr/business/20261127/pay-tv-subscribers-continue-to-decline-iptv-subscribers-slightly-up-in-h1-data?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+The number of pay-TV subscribers has declined for the past two years, while the number of people using Internet Protocol TV (IPTV) services has maintained a steady uptrend, data from the country's media watchdog showed Friday. The number of people subscribed to pay-TV services in South Korea fell 0.29 percent from the second half of 2025 to 36 million as of June this year, according to findings by the Korea Media and Communications Commission (KMCC). The number has been dropping since the second half of 2024, the KMCC said. In contrast, IPTV service subscribers inched up 0.47 percent from six months earlier to 21.6 million, accounting for over 60 percent of the market, according to the data. By company, KT accounted for the most with 25.39 percent, followed by SK Broadband with 18.67 percent and LG Uplus with 15.96 percent. The three companies are major fixed-line operators in South Korea. The media watchdog said it will continue to monitor market trends and devise measures to improve the sustainability of the broadcasting and media industry in the face of advanced digital technologies an
+
+## [Market volatility expanding amid AI uncertainties: financial authorities](https://www.koreatimes.co.kr/economy/20261127/market-volatility-expanding-amid-ai-uncertainties-financial-authorities?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Global stocks are experiencing increasing volatility due to artificial intelligence (AI)-linked uncertainties, and there is a need to guard against the deepening ties between the chipmaking sector's cycle and the financial market, South Korean authorities said Friday. Earlier in the day, Finance Minister Lee Hyoung-il held a meeting with heads of the Bank of Korea, the Financial Services Commission (FSC) and other related agencies to check market conditions. The policymakers echoed views that the local stock market's volatility is growing due to uncertainties surrounding the AI sector and changes in the global trade environment. In particular, they said it needs to closely check the risks related to the correlation of the chip sector and the stock market. Last week, the financial authorities unveiled a set of steps to respond to stock market volatility, including lifting the limit of share buybacks by listed firms. Also, the financial authorities are working to increase the size of a stock market stabilization fund currently set at some 11 trillion won as the country's stock market capita
+
+## [Ex-President Yoon's senior aide gets suspended prison term over presidential residence relocation](https://www.koreatimes.co.kr/southkorea/society/20261127/ex-president-yoons-senior-aide-gets-suspended-prison-term-over-presidential-residence-relocation?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+A Seoul district court on Friday sentenced a former senior aide to former President Yoon Suk Yeol to a suspended prison term over irregularities in the 2022 relocation of the presidential residence. The Seoul Central District Court handed down a two-year prison sentence, suspended for three years, for former presidential chief of staff Kim Dae-ki after finding him guilty of abusing his power in connection with the case. It also sentenced former presidential secretary for administrative affairs Yoon Jae-soon and former presidential secretary for general affairs Kim Oh-jin to one-year prison terms, both suspended for two years. The officials were indicted on charges of illegally diverting 2.09 billion won ($1.56 million) from the interior ministry's budget to pay an interior design company for the renovation of the presidential residence following its relocation from Cheong Wa Dae to the central Seoul district of Yongsan. The court found all three guilty of abusing their power by instructing officials to divert the budget, noting they were at least aware that it would be illegal to use the
+
+## [Lee Jong-suk proves he's still the romance king in 'The Remarried Empress'](https://www.koreatimes.co.kr/entertainment/shows-dramas/20261127/lee-jong-suk-proves-hes-still-the-romance-king-in-the-remarried-empress?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Despite early criticism surrounding Disney+'s fantasy romance series "The Remarried Empress," Lee Jong-suk emerged as one of its biggest winners, winning over viewers with his romantic chemistry with Shin Min-a and reaffirming his reputation as a master of on-screen romance. The 10-episode series concluded with a happy ending as Empress Navier (Shin Min-a), after divorcing Emperor Sovieshu (Ju Ji-hoon), marries Heinrey (Lee Jong-suk) and embarks on a new chapter in her love life. Based on the popular web novel and webtoon of the same name, "The Remarried Empress" generated considerable anticipation ahead of its release for bringing romance fantasy, a genre widely popular in Korean digital comics and fiction but relatively uncommon in live-action K-dramas, to the screen. Its star-studded cast, including Ju, Shin, Lee Jong-suk and Lee Se-young, further heightened expectations, particularly among fans eager to see how their favorite characters would be brought to life. However, the series received mixed reactions following its premiere. Some viewers criticized the costumes and props for fai
+
+## [Korea expands customs tech footprint with Guatemala's launch of UNI-PASS system](https://www.koreatimes.co.kr/southkorea/others/20261127/korea-expands-customs-tech-footprint-with-guatemalas-launch-of-uni-pass-system?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Korea is extending its digital customs network into Central America, with Guatemala launching an electronic clearance system developed through a five-year cooperation project designed to speed up trade and strengthen customs enforcement. The Korea Customs Service said Friday that Guatemala officially opened its upgraded electronic customs system, known as UNI-PASS, at the headquarters of its tax authority, the Superintendency of Tax Administration, in Guatemala City on Thursday (local time). The ceremony was attended by Kim Ki-dong, director-general for information and data policy at the Korea Customs Service, Korean Ambassador to Guatemala Kim Deuk-hwan and Guatemalan tax chief Werner Ovalle, along with officials from both countries. The project, launched in 2022 as part of Korea’s official development assistance program, involved 6.9 billion won ($4.8 million) in support over five years. It upgraded Guatemala’s risk management and data analysis systems, introduced a cargo management platform and established a portal allowing customs documents to be transmitted directly. The project
+
+## [Sungkyunkwan University ranks 24th worldwide in THE Interdisciplinary Science Rankings](https://www.koreatimes.co.kr/southkorea/education/20261127/sungkyunkwan-university-ranks-24th-worldwide-in-the-interdisciplinary-science-rankings?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Sungkyunkwan University (SKKU) ranked 24th worldwide in the Times Higher Education (THE) Interdisciplinary Science Rankings 2027, highlighting its growing strength in interdisciplinary research. SKKU climbed 19 places from last year’s ranking of 43rd to become the top-ranked university in Korea. “This achievement reflects international recognition of our university members’ efforts to tackle societal challenges beyond disciplinary boundaries,” SKKU President Yoo Ji-beom said. “We will continue to advance as a global research-oriented university at the forefront of interdisciplinary research,” he added. A total of 1,058 universities worldwide were ranked in this year’s assessment, released by THE, a U.K.-based higher education ranking organization. Launched in 2024 by THE in partnership with Schmidt Science Fellows, the rankings assess universities’ contributions and commitment to interdisciplinary scientific research. The rankings are based on 11 indicators across three areas: research funding (inputs), institutional support for interdisciplinary research (processes), and r
+
+## [HD Hyundai XiteSolution showcases parts at Asia's largest machinery expo](https://www.koreatimes.co.kr/business/companies/20261127/hd-hyundai-xitesolution-showcases-parts-at-asias-largest-machinery-expo?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+HD Hyundai XiteSolution, the intermediate holding company for HD Hyundai's construction equipment business, said Friday it showcased its core components at bauma China 2026 as it expands its global parts business. The exhibition ran from Tuesday through Friday in Shanghai. More than 4,000 companies from 30 countries took part, and organizers expect more than 300,000 visitors from 180 countries, making it Asia's largest construction machinery show. This is the first time the company's components business has exhibited on its own at an international trade fair. At a 180-square-meter booth at the Shanghai New International Expo Centre, the company displayed 22 products. The hydraulic components included eight hydraulic motors, four cylinders, three main control valves and one main pump, which are used in machines ranging from compact models to mid- and large-size equipment weighing dozens of tons. It also showed six powertrain products for industrial vehicles: two drive axles, two transmissions and two drive units. The company aims to grow sales outside the group. Most of its components cur
+
+## [Cadillac launches Korean-designed Vistiq electric SUV in Korea](https://www.koreatimes.co.kr/business/companies/20261127/cadillac-launches-korean-designed-vistiq-electric-suv-in-korea?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Cadillac has launched the Vistiq, an all-electric, three-row large SUV, in Korea. The model's design and engineering were led by GM's research and development arm in the country, the U.S. luxury automaker said Friday. GM Technical Center Korea led the development of the Vistiq, which went on sale first in North America. There, it picked up the nickname "Baby Escalade," after Cadillac's flagship full-size SUV. The Vistiq will be sold in Korea only in the top-end Platinum trim, priced at 181.7 million won after tax benefits for eco-friendly vehicles. The SUV is 5,235 millimeters long and 2,025 millimeters wide, with a 3,094-millimeter wheelbase. It seats six in three rows, with two seats in each row. A dual-motor all-wheel-drive system produces 615 horsepower and about 880 newton-meters of torque. The SUV goes from zero to 100 kilometers per hour in about 3.7 seconds, according to Cadillac's own testing. Its 102-kilowatt-hour battery provides a combined range of 430 kilometers per charge. It supports fast charging of up to 190 kilowatts. The SUV comes with the North American Charging Standa
+
+## [N. Korean fishing boat repatriated, with 1 crewman opting to stay in S. Korea](https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261127/n-korean-fishing-boat-repatriated-with-1-crewman-opting-to-stay-in-s-korea?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+South Korea sent a North Korean fishing boat back across the sea border Friday with six of its seven crew members aboard as one decided to stay, the unification ministry said. The vessel, found near Ulleung Island in the East Sea earlier this month, crossed the Northern Limit Line (NLL), the de facto maritime border, at 8:33 a.m. and met two North Korean ships waiting on the other side at 9 a.m., the ministry said. The boat was found adrift Nov. 3 in international waters north of the South Korean island. Of the seven North Korean men aboard, one expressed a wish to stay in the South. An official at the ministry said the man had made it clear from the outset that he did not want to go back to the North. The ministry decided to repatriate the six crewmen on humanitarian grounds. The remaining one will be protected in South Korea as a defector under relevant laws. Seoul contacted the North through the United Nations (U.N.) Command since the two sides have no working communication channel. The government also broadcast updates on its repatriation over the international maritime communications n
+
+## [Chaevi, Tata Daewoo, Daeshin team up to electrify parcel delivery fleets](https://www.koreatimes.co.kr/business/companies/20261127/chaevi-tata-daewoo-daeshin-team-up-to-electrify-parcel-delivery-fleets?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Chaevi, an electric vehicle (EV) fast-charging operator, signed a memorandum of understanding with commercial vehicle maker Tata Daewoo Mobility and parcel delivery firm Daeshin Parcel to expand the use of electric trucks in logistics, the company said Friday. The agreement was signed Thursday at Daeshin Parcel's Incheon office. Chaevi CEO Choi Young-hoon, Tata Daewoo Sales CEO Im Hyeong-jung and Daeshin Parcel President Park Byung-kwon attended. The three companies will begin with a pilot at Daeshin Parcel's Incheon terminal, where the first Gixen, Tata Daewoo's 2.5-ton electric truck, has gone into service. Under the deal, Chaevi will build and operate charging facilities tailored to logistics hubs. Tata Daewoo will supply the trucks and provide maintenance and parts. Daeshin Parcel will bring in the electric trucks and prepare its sites for charging. During the pilot, Chaevi will analyze data on driving distance, charging volume and charger use to estimate charging demand at each hub. It will also review vehicle routes and power supply conditions to decide where chargers go and how po
+
+## [From metal type to AI: Korea's reading culture to be explored at MMCA](https://www.koreatimes.co.kr/lifestyle/arts-theater/20261127/from-metal-type-to-ai-koreas-reading-culture-to-be-explored-at-mmca?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+In an age of endless scrolling and artificial intelligence (AI)-generated text, why does reading still matter? The National Museum of Modern and Contemporary Art (MMCA), Korea, poses that question in "Ways of Reading," which opens on Friday at its Seoul branch. The exhibition retells the history of Korean graphic design and publishing since the 1970s through the everyday act of reading. The show will run through April 11 next year, featuring about 500 works and materials by roughly 40 teams. "Amid the flood of images that envelops us, this exhibition asks why reading remains valid," MMCA Director Ki Hye-kyung said during a press preview Thursday. She noted that the ongoing "text-hip" trend, in which young people share passages from books and images of themselves reading on social media, is itself "another facet of image culture built on reading." Curator Woo Hyun-jung said reading may seem immaterial, but it is a structure built from readers, letters, pages and the technology behind them. "What we read is not only text," she said. "It passes through an order of many things, and it can eve
+
+## [Korea's speed, Finland's lifelong learning could build human skills in AI age](https://www.koreatimes.co.kr/southkorea/education/20261127/koreas-speed-finlands-lifelong-learning-could-build-human-skills-in-ai-age?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+As concerns mount over artificial intelligence (AI)-assisted cheating in examinations, educators and experts are calling for a fundamental rethink of how students are taught and assessed in the age of AI. The issue was a central topic at the Korea-Finland Innovation Forum 2026, held Wednesday at Korea University's SK Future Hall. Under the theme "Human Capabilities in the AI Age," academics, government officials and industry representatives explored how education must move beyond memorization to developing creativity and critical thinking. Welcoming participants, Finnish Ambassador to Korea Jyri Järviaho said AI would have a profound impact on future jobs and the skills required to perform them, making it essential for education systems to adapt to changing realities. "Our goal is to ensure that individuals and societies have the capabilities to thrive in the AI age by strengthening AI literacy, fostering trust in new technologies and encouraging the responsible adoption of AI," he said. During discussion, Christian Wallraven, a professor of AI at Korea University, introduced three categ
+
+## [Korea boosts commuter bus accessibility for people with disabilities](https://www.koreatimes.co.kr/southkorea/others/20261127/korea-boosts-commuter-bus-accessibility-for-people-with-disabilities?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+More than half of Korea’s city buses now feature low-floor designs, marking a significant step toward making public transportation more accessible to an aging population and people with mobility challenges. The Ministry of Land, Infrastructure and Transport said Friday that low-floor buses accounted for 51.8 percent of the nation’s city bus fleet in 2025, with 18,160 vehicles in operation. That represents an increase of 2,417 buses from the previous year, bringing the country past the 50 percent milestone. The progress comes as demand for accessible transportation continues to grow. According to the ministry’s 2025 transportation accessibility survey, 16.46 million people, or 32.2 percent of Korea’s population, were classified as having mobility challenges at the end of last year, up approximately 330,000 from 2024. The category covers a broad range of people, including those with disabilities, adults aged 65 and older, pregnant women, people accompanying children under 7 and children aged 12 or younger. Accessibility has improved across the country’s broader transportation infr
+
+## [Korea Tourism Organization, ROK-US Command join forces to boost cultural tourism](https://www.koreatimes.co.kr/lifestyle/travel-food/20261127/korea-tourism-organization-rok-us-command-join-forces-to-boost-cultural-tourism?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+The Korea Tourism Organization (KTO) and the United States Forces Korea (USFK) are strengthening ties through a new partnership aimed at expanding cultural exchange and promoting regional tourism across Korea. The KTO said Friday that it had signed a memorandum of understanding with the ROK-US Combined Forces Command to promote tourism and cultural exchange as part of efforts to deepen friendship between the two countries. Building on the success of joint tourism and cultural experience programs conducted this year, the agreement aims to provide U.S. and Korean military personnel and their families with more opportunities to explore Korean culture while encouraging visits to destinations beyond major cities. Under the agreement, which runs through Dec. 31, 2027, the two organizations will collaborate to develop region-specific tourism experiences, support security, history and cultural tours for military personnel and their families, organize joint tourism and cultural exchange initiatives, and promote programs through their respective resources and networks. The partnership follows a se
+
+## [HUFS to build 1st inter-university dormitory among private universities](https://www.koreatimes.co.kr/southkorea/education/20261127/hufs-to-build-1st-inter-university-dormitory-among-private-universities?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Hankuk University of Foreign Studies (HUFS) signed a memorandum of understanding with the Korea Advancing Schools Foundation on Monday to build an inter-university dormitory and improve its educational facilities. The agreement was signed by HUFS President Kang Kee-hoon and Lee Ha-woon, chairman of the foundation, at HUFS’ Seoul campus, the university said. The two institutions have agreed to build a privately funded Haengbok (Happy) Dormitory that will accommodate students from HUFS and nearby universities in Seoul, while improving the university’s educational environment and promoting sustainable development. The project is the first of its kind to be undertaken by a private university in Korea, HUFS said. Under the agreement, HUFS will provide the site behind the Humanities and Sciences Building on its Seoul campus free of charge to a special-purpose company (SPC) established by the foundation to build a dormitory that can accommodate about 400 students. The university will also work with the foundation to provide administrative and financial support for the project. The foundation
+
+## [CSAT perfect scorers shun spotlight amid AI cheating suspicions](https://www.koreatimes.co.kr/southkorea/education/20261127/csat-perfect-scorers-shun-spotlight-amid-ai-cheating-suspicions?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+At least three students are believed to have earned perfect scores on this year's College Scholastic Ability Test (CSAT), yet they are shunning the spotlight for fear of being suspected of artificial intelligence (AI)-assisted cheating. The current tally of three is based on preliminary self-grading, with the number expected to rise when official results are released on Dec. 11. High schools and private academies have long been eager to publicize perfect scorers on Korea's high-stakes college entrance exam, with news of such achievements emerging as early as exam day last year. Their study habits, daily routines and university aspirations have often made headlines, while schools have celebrated their success as a source of pride. This year, however, even students who earned their scores legitimately are reluctant to come forward for fear of cheating allegations. The shift in sentiment follows an admission of AI-assisted cheating by the top scorer on the national tax accountant qualification exam, which has fueled widespread suspicion of high achievers across national exams. Similar concer
+
+## [K-art takes center stage in Seoul with new wave of young talent](https://www.koreatimes.co.kr/lifestyle/people-events/20261127/k-art-takes-center-stage-in-seoul-with-new-wave-of-young-talent?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+A new exhibition in central Seoul is betting that Korea’s next cultural export may come not from a music stage or television screen, but from the studios of its emerging contemporary artists. The Korea Tourism Organization (KTO) is opening “NEW WAVE,” a special exhibition showcasing works by 10 promising Korean artists, at HiKR Ground, its tourism promotion center in Jung District, Seoul, Friday. Running through March 30, 2027, the exhibition is being organized in partnership with the Galleries Association of Korea and will offer free admission at the center’s fourth-floor Local Ground gallery. The exhibition, themed “A new wave: Young artists to watch now,” will unfold in two group shows, each featuring five artists. The first installment, running from Nov. 27 through Jan. 20, 2027, features Kim Hyung-soo, Shin Jong-min, Eum Ha-young, Jang Soo-ik and Choi Ha-na. The second exhibition, scheduled for Jan. 27 through March 30, 2027, will present works by Noh Gi-ppeum, Park Ki-il, Oh Yoo-kyung, Yoo Hyun-kyung and Kimi Kim. The works explore the intersection of contemporary art and
+
+## [Data reveals how medical tourists explore Korea beyond hospitals](https://www.koreatimes.co.kr/southkorea/20261127/data-reveals-how-medical-tourists-explore-korea-beyond-hospitals?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Korea is looking to turn its booming medical tourism industry into a wider driver of regional tourism, using big data to understand where international patients travel, shop and spend beyond their hospital visits. The Korea Tourism Organization (KTO), in partnership with the Ministry of Culture, Sports and Tourism, hosted the third Korea Tourism Today Data Seminar at Coex in southern Seoul this week. Bringing together around 500 representatives from local governments, the tourism industry and academia, the event explored the current landscape and future growth potential of K-medical tourism through mobility and consumption data. The seminar presented an analysis of medical tourism spending across six major regions: Seoul, Busan, Daegu, Jeju, Gyeonggi Province and Incheon. Notably, medical tourism expenditure in Busan and Jeju surged 150.6 percent and 157.6 percent, respectively, in the first nine months of 2026 compared with the same period last year. The findings also revealed distinct travel patterns among international medical tourists. Visitors receiving medical services in southern
+
+## [Song Joong-ki 'still looks like a college student' despite being a father of two](https://www.koreatimes.co.kr/entertainment/20261127/song-joong-ki-still-looks-like-a-college-student-despite-being-a-father-of-two?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Actor Song Joong-ki is drawing attention for his remarkably youthful appearance, with a recent firsthand account suggesting that the father of two seems to have barely aged. On Wednesday, entrepreneur Choi Sun-jung, the daughter-in-law of veteran actress Sunwoo Eun-sook, shared footage on social media from an event celebrating the 24th anniversary of YÉOL, a foundation dedicated to preserving and promoting Korean cultural heritage. Song, who serves as an official ambassador for the foundation, attended the event as part of his efforts to raise awareness of Korea's cultural heritage. When the event's host, composer and television personality Joo Young-hoon, asked Song how he had been, the actor warmly replied, "Yes, it's been a long time." However, it was Choi's description of Song's appearance in person that caught particular attention. When a social media user asked whether she had seen the actor, Choi said, "Yes. He still looks like a college student. It's as if he's been freeze-dried. He's really handsome." Her playful reference to freeze-drying suggested that the actor's youthful look
+
+## [Exam misconduct cases rise 70% in this year's CSAT: ministry](https://www.koreatimes.co.kr/southkorea/education/20261127/exam-misconduct-cases-rise-70-in-this-years-csat-ministry?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+The number of exam misconduct cases detected during this year's College Scholastic Ability Test (CSAT) rose nearly 70 percent from a year earlier, despite tighter exam management and oversight, the education ministry said Friday. Notably, cases involving smart devices rose 3.6-fold, accounting for nearly a quarter of all violations detected during the Nov. 19 exam, the ministry said. According to a report submitted to the National Assembly, a total of 474 cases of CSAT-related exam misconduct had been reported as of Wednesday, up 69.9 percent from 279 a year earlier. By category, the most common violations involved writing answers after the end-of-exam bell and breaches of answer-sheet rules during the fourth-period social studies session, with 127 cases each. The former surged from 25 cases last year, while the latter increased by 53. They were followed by violations involving smart devices, which jumped to 112 from 31, possession of electronic devices at 51 from 53 and other forms of misconduct, including failure to follow proctors' instructions at 57, up 38 from the previous year. On M
+
+## [N. Korean defector in custody after unauthorized entry into restricted front-line border area](https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261127/north-korean-defector-in-custody-after-unauthorized-entry-into-restricted-front-line-border-area?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+A North Korean defector has been taken into police custody after entering a civilian restricted area near the inter-Korean border and is currently undergoing questioning, a military official said Friday. The military found the woman in her 30s at around 6:40 p.m. Thursday between a village north of the Civilian Control Line (CCL) and the general outpost fence in the border county of Cheorwon, about 75 kilometers northeast of Seoul, a Joint Chiefs of Staff (JCS) official said. Police and relevant authorities are questioning her over possible espionage linked to North Korea, among other suspicions, the JCS official said. The woman had crossed the CCL, which runs just south of the Demilitarized Zone (DMZ) separating the two Koreas, and was heading north toward the heavily fortified GOP area secured with barbed-wire fences, according to military officials. She had come as close as about 200 meters to the GOP line before being apprehended. While public access to the CCL area is restricted, several civilian villages remain inside the zone, with residents commuting to and from their homes using
+
+## [Hyundai Motor unveils Mercury Concept to accelerate China expansion](https://www.koreatimes.co.kr/business/companies/20261127/hyundai-motor-unveils-mercury-concept-to-accelerate-china-expansion?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Hyundai Motor is unveiling the Mercury Concept, a new electric SUV developed for Chinese consumers, at Auto Guangzhou 2026, as the automaker steps up efforts to expand its IONIQ lineup and strengthen its presence in the world's largest auto market. At the 24th Guangzhou International Automobile Exhibition, running from Friday to Dec. 6, the company is presenting its China-specific IONIQ strategy alongside developments in localized research and development (R&D) and future mobility technologies. The Mercury Concept, the third IONIQ concept vehicle developed specifically for Chinese consumers, is making its global design debut. It is displayed alongside the Earth Concept and IONIQ V, as well as the all-new Palisade, IONIQ 5 N and Elantra N. The Mercury Concept is a B-segment premium smart SUV designed for urban driving, with its production version scheduled to launch in 2027. Developed by Hyundai's Chinese design and engineering teams, it features a Zhuoyu Level 2++ advanced driver assistance system and a smart cockpit powered by ByteDance's Doubao artificial intelligence (AI) model. A ba
+
+## [Renault Filante targets drivers sensitive to ride comfort](https://www.koreatimes.co.kr/business/companies/20261127/renault-filante-targets-drivers-sensitive-to-ride-comfort?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+For some drivers, ride comfort is decided by the smallest details — a bump over a speed hump, a manhole cover or a seam in the road. These minor impacts may go unnoticed at first, but once drivers become sensitive to them, they can become a constant part of the driving experience. Unlike horsepower or fuel economy, ride comfort is difficult to capture in a specification sheet. It depends on how a vehicle responds to different road surfaces and how effectively it keeps vibrations and noise away from occupants. Renault Korea’s flagship Filante crossover is designed around this everyday driving experience, with a focus on balancing comfort and stability across a wide range of road conditions. A key part of the setup is its frequency-sensitive damper, which is fitted as standard across the lineup. The system adjusts damping characteristics according to the frequency of vibrations generated by the road. On highways, for example, the system can reduce damping forces when dealing with small, rapid vibrations, helping filter out fine road imperfections. During winding-road driving or situati
+
+## [Lee's approval rating rises for 2nd straight week: poll](https://www.koreatimes.co.kr/southkorea/politics/20261127/lees-approval-rating-rises-for-2nd-straight-week-poll?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+President Lee Jae Myung's approval rating rose for the second consecutive week to 41 percent, a poll showed Friday. The survey, conducted by Gallup Korea from Tuesday through Thursday on 1,000 people aged 18 and older, showed that positive assessments of Lee's performance gained 1 percentage point from the previous week. Those who disapproved of Lee's handling of state affairs also rose 1 percentage point to 50 percent. Lee's approval rating has fluctuated between 39 and 41 percent for seven weeks since mid-October. Among those who positively assessed Lee's performance, 29 percent cited diplomacy, up from 24 percent the previous week, followed by economic and livelihood issues at 10 percent, and communication at 5 percent. Lee returned home last Thursday after attending the Association of Southeast Asian Nations (ASEAN) and the Asia-Pacific Economic Cooperation (APEC) summits, where he also held a series of bilateral talks. Economic and livelihood concerns were the most frequently cited reason by those who disapproved of Lee's performance at 22 percent. Support for the ruling Democratic Par
+
+## [Korean mystery thriller 'White Blast' set for English-language remake](https://www.koreatimes.co.kr/entertainment/films/20261127/korean-mystery-thriller-snowstorm-set-for-english-language-remake?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Korean mystery thriller "White Blast" is heading for a global audience, with an English-language remake officially confirmed and original director Hong Eui-jeong set to return behind the camera. The film, which continues to attract strong audience interest and critical praise in Korea, follows a mysterious death at a remote rural railway station cut off by heavy snowfall. As retirement approaches, veteran stationmaster Gap-soo (Kim Yoon-seok) finds himself caught up in an unsettling mystery alongside his newly appointed successor, Hyun-taek (Koo Kyo-hwan). The Canadian production company Rhombus Media will co-produce the remake with the original film’s production company, Lewis Pictures. Known for its collaborations with internationally acclaimed filmmakers, Rhombus Media has been behind projects including Park Chan-wook’s HBO series "The Sympathizer" and Denis Villeneuve’s "Enemy," starring Jake Gyllenhaal. Rhombus Media founder and producer Niv Fichman revealed that the company had been interested in adapting "White Blast" even before its Korean theatrical release. “The story w
+
+## [Police raid justice ministry, prosecution over alleged records leak to lawmaker](https://www.koreatimes.co.kr/southkorea/politics/20261127/police-raid-justice-ministry-prosecution-over-alleged-records-leak-to-lawmaker?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Police on Friday raided the justice ministry and prosecution offices over allegations that investigative records were leaked to independent lawmaker Han Dong-hoon. The Seoul Metropolitan Police Agency sent investigators to search the ministry, the Supreme Prosecutors Office and the Seoul Western District Prosecutors Office and secure evidence related to the allegations. The ruling Democratic Party of Korea filed a complaint against Han in September on suspicion of disclosing official secrets after he raised lobbying allegations against then Justice Minister nominee Kim Seung-won. Han at the time unveiled a prosecution report about Kim's lobbying allegations, drawing questions over how he obtained the document. Kim later withdrew his candidacy amid growing controversy over the scandal.
+
+## [North Korea's Kim urges grassroots party leaders to faithfully relay directives](https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261127/north-koreas-kim-urges-grassroots-party-leaders-to-faithfully-relay-directives?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+North Korean leader Kim Jong-un has urged the party's grassroots leaders to carry its directives faithfully to the people and set an example for the masses, state media reported Friday. Kim made the remarks the previous day during a photo session with participants of the Seventh Conference of Cell Secretaries of the Workers' Party of Korea (WPK), the Korean Central News Agency (KCNA) said. Cells are the party's most elementary units, with five to 30 members each. The conference ran Tuesday and Wednesday, and discussed ways to meet the policy goals set at the ninth party congress in February, which laid out five-year targets for sectors, including the economy and defense. Praising the grassroots leaders' devotion, the North's leader told them to do more to rally the masses and put party policy into practice. "Today's reality, in which our cause is going through an era of transformation that no one has ever witnessed and expanding and deepening on an unprecedented scale, requires the Party cells to further enhance their fighting efficiency," he said. "The great unity of all the people wholeh
+
+## [North Korean troops cross inter-Korean border about 40 times over past 2 months: lawmaker](https://www.koreatimes.co.kr/southkorea/defense/20261127/north-korean-troops-cross-inter-korean-border-about-40-times-over-past-2-months-lawmaker?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+North Korean troops have crossed the heavily fortified inter-Korean border on roughly 40 occasions over the past two months, a South Korean lawmaker said Friday, following September's mine blast in the Demilitarized Zone (DMZ) that injured three South Korean soldiers. The North violated the Military Demarcation Line (MDL) about 30 times in October and roughly 10 times this month, according to data submitted to Rep. Yu Yong-weon of the main opposition People Power Party. North Korean soldiers' border crossing has continued even after the Sept. 21 explosion of North Korea-planted mines south of the DMZ. Pyongyang has denied responsibility. Pyongyang has reinforced border fortification work by installing barbed-wire fences and land mines along the inter-Korean border. Such activities became evident after North Korean leader Kim Jong-un declared the relations between the two Koreas as those between "two hostile states". Under the rules of engagement, the South Korean military responds by airing warning broadcasts and firing warning shots in the event of MDL crossings. Earlier, the Joint Chief
+
+## [Korea to co-chair vice finance ministers meeting of ASEAN+3 next year](https://www.koreatimes.co.kr/foreignaffairs/others/20261127/korea-to-co-chair-vice-finance-ministers-meeting-of-asean3-next-year?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Seoul's finance ministry said Friday that the country will co-chair the meeting of vice finance ministers and deputy central bankers of Korea, China, Japan and the Association of Southeast Asian Nations (ASEAN) next year. The Ministry of Economy and Finance said the ASEAN+3 Finance and Central Bank Deputies' Meeting will be held in Singapore in April and then in Seoul around November. Korea proposed to discuss financial stability amid the spread of artificial intelligence (AI) as next year's key agenda. Meanwhile, this year's meeting was held in Kyoto, Japan, on Wednesday and Thursday to discuss ways to strengthen regional financial cooperation. During the gathering, participants assessed that regional economic growth will be maintained on the back of AI-related investment despite regional tensions such as the Middle East war trends. They also discussed how to further develop the Chiang Mai Initiative Multilateralization (CMIM), a $240 billion currency-swap arrangement established in 2010 as a regional financial safety net. ASEAN comprises Brunei, Cambodia, East Timor, Indonesia, Laos, Mal
+
+## [2 Korean naval submarines under repair after accidents](https://www.koreatimes.co.kr/southkorea/defense/20261127/2-korean-naval-submarines-under-repair-after-accidents?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Two of the Korean Navy's attack submarines are undergoing repairs after sustaining damage in separate accidents, military officials said Friday. One 1,800-ton Son Won Il-class submarine suffered damage to its protective hull coating after getting entangled in discarded fishing nets during a nighttime mission in the Yellow Sea in September, according to Navy officials. No casualties were reported. With its navigational systems intact, the vessel was able to return to its home port under its own power, the Navy said, adding that it is currently undergoing maintenance and repairs for restoration. Another submarine of the same class, the Hong Beom Do vessel, caught fire in April while undergoing a scheduled overhaul at a shipyard in the southeastern city of Ulsan, about 300 kilometers southeast of Seoul. The Navy has been assessing the damage and carrying out repairs on the vessel, noting that no timeline has been set for when the work will be completed. The incidents have raised concerns over a potential gap in naval operational readiness, as the Navy currently operates about 20 conventional
+
+## [Why China is hesitating to send new pandas to Korea](https://www.koreatimes.co.kr/foreignaffairs/20261127/why-china-is-hesitating-to-send-new-pandas-to-korea?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Chinese Ambassador to Korea Dai Bing said Thursday that Beijing would find it difficult to approve Korea’s request for a pair of giant pandas for a zoo in Gwangju. He cited public backlash in China after the Gwangju Biennale allowed an exhibition to be called “Taiwan Pavilion.” Dai made the remarks during a press conference in central Seoul, following China's hosting of the 2026 Asia-Pacific Economic Cooperation summit in Shenzhen. "Pandas are China's national treasure and China has relevant laws and regulations on the protection of rare animals. Any loan must go through strict procedures in accordance with these regulations. More than 40 pandas are currently on loan to countries outside China," Dai said. He said Beijing initially had no strong view on where in Korea the pandas would go, but the biennale controversy drew a strong reaction in China. "The move ran directly counter to the Korean government's position of upholding the one-China principle and it triggered considerable opposition among the Chinese public. Given this domestic sentiment, it remains difficult for China to r
+
+## ['King is back': Nvidia boss's return sparks fresh AI deepfake deluge](https://www.koreatimes.co.kr/world/20261127/king-is-back-nvidia-bosss-return-sparks-fresh-ai-deepfake-deluge?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+WASHINGTON — Scandal-hit Jensen Huang's return as chief executive of U.S. chip giant Nvidia has triggered a fresh avalanche of AI-generated parody videos, highlighting how the sex-and-espionage saga has become a prime target for hyper-realistic deepfakes. Following his shock resignation amid revelations of extramarital affairs, including one with a woman suspected to be a Chinese spy, AI-created clips placing Huang in fabricated scenarios provoked amusement across social media -- and millions of views. The viral videos cast Huang in Bollywood-style gangster plots, song-and-dance routines and other scenes with the purported spy. Huang's reinstatement at the helm of the chipmaker, following an extraordinary intervention by President Donald Trump, triggered a fresh wave of parody clips across social media platforms, including Elon Musk's X. One clip depicted Huang replacing the late Iraqi dictator Saddam Hussein in an infamous video of a real-life purge. Smoking a cigar, Huang was portrayed calling out the names of alleged traitors in a crowded hall. "It's time to take revenge," read the c
+
+## [Seoul stocks up over 2% Friday morning amid AI jitters](https://www.koreatimes.co.kr/economy/others/20261127/seoul-stocks-up-over-2-friday-morning-amid-ai-jitters?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+South Korean stocks traded sharply higher late Friday morning, extending a tentative recovery after a volatile week, led by gains in technology shares amid continued market jitters over artificial intelligence (AI). After opening 0.37 percent higher, the benchmark Korea Composite Stock Price Index (KOSPI) extended its earlier gains to trade up 105.42 points, or 2.24 percent, to 4,816.63 as of 11:20 a.m. Investors are watching whether the tech rally has staying power after days of volatility driven by doubts over the sustainability of the AI trade. Overnight, Wall Street was closed for the Thanksgiving holiday. In Seoul, large-cap shares were trading higher across the board. Market bellwether Samsung Electronics went up 1.98 percent and its chipmaking rival SK hynix gained 1.71 percent after both opened lower. Among other index heavyweights, SK Square, the parent of SK hynix, added 1.84 percent, while battery maker LG Energy Solution gained 3.15 percent. The Korean won was quoted at 1,341.3 won against the U.S. dollar as of 11:20 a.m., up 2.6 won from the previous stock trading session's clo
+
+## [French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault](https://www.koreatimes.co.kr/world/20261127/french-cinema-star-gerard-depardieu-ordered-to-stand-trial-for-rape-and-sexual-assault?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+PARIS — Gérard Depardieu , for decades one of France’s most celebrated actors, has been ordered to stand trial on charges of raping and sexually assaulting a young actress, authorities said Thursday, less than two weeks after the cinema star abandoned his appeal of a sexual assault conviction in a separate case. Actress Charlotte Arnould was 22 when she accused Depardieu in 2018 of raping her at his Paris home. Eight years later, the Paris Court of Appeal ruled that the actor should face trial over allegations of rape and sexual assault on Aug. 7, 2018, while dismissing allegations relating to a second incident six days later. Depardieu, 77, has denied the rape allegations. His lawyer, Delphine Meillet, told The Associated Press that he disputes Thursday’s ruling, without specifying whether he would challenge it before France’s highest court for civil and criminal cases. The ruling upholds part of an investigating judge’s August 2025 decision to send Depardieu to trial. The case has become one of the most prominent in France’s reckoning with sexual violence , as the #MeToo mo
+
+## [Musk pledges two SpaceX shares for every US child in $18 bil. AI charm offensive](https://www.koreatimes.co.kr/world/20261127/musk-pledges-two-spacex-shares-for-every-us-child-in-18-bil-ai-charm-offensive?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Elon Musk plans to gift every child in the United States two SpaceX shares, as he attempts to build public support for his satellite and AI businesses during a period of intense public and political scrutiny of the technology sector. The world's richest person announced the share giveaway, which is worth a total of around $18 billion, on the eve of U.S. Thanksgiving and just hours after SpaceX won U.S. approval on Wednesday to deploy 1 million satellites for data centers in space. Musk is seeking to expand SpaceX's role in the AI industry, even as the rapid growth of computing infrastructure raises concern about its environmental impact and the economic and political influence of technology billionaires. Opponents of data center development were among the biggest winners for the Democrats in this month's U.S. midterm elections. "The initiative clearly helps broaden public participation in the SpaceX story," Chez Anbu, head of wealth advisory at OCBC in Singapore, said on Thursday. "Giving children a direct economic stake in the company creates a powerful narrative around broader participa
+
+## [N. Korea's Kim attends Russian troupe's Pyongyang show amid deepening ties](https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261127/n-koreas-kim-attends-russian-troupes-pyongyang-show-amid-deepening-ties?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+North Korean leader Kim Jong-un has watched a Russian art troupe performance in Pyongyang, state media reported Friday, the latest sign of deepening ties between the two countries. Kim attended the show the previous day at the East Pyongyang Grand Theater with a Russian government delegation currently visiting North Korea for the 13th meeting of the two countries' intergovernmental committee on trade, economic, scientific and technological cooperation, the Korean Central News Agency (KCNA) said. Kim's wife, Ri Sol-ju, was seen with him, as were Jo Yong-won, a party secretary, and Yun Jong Ho, minister of external economic relations. Russian singer Larisa Dolina and musicians from the Osipov State Academic Russian Folk Orchestra performed. Speakers at the event called the show an opportunity to deepen "the traditional friendly relations" between the two peoples and to broaden "exchange and cooperation in various fields." Before the performance, Kim met Alexander Kozlov, minister of natural resources and ecology, who leads the government delegation; Andrei Maluishev, vice minister of cultur
+
+## [Thanksgiving storm knocks out power, disrupts flights on US East Coast](https://www.koreatimes.co.kr/world/20261127/thanksgiving-storm-knocks-out-power-disrupts-flights-on-us-east-coast?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+A powerful storm disrupted the Thanksgiving holiday along much of the U.S. East Coast on Thursday, knocking out power for hundreds of thousands of users as wind gusts of up to 70 mph (112 kph) toppled trees and power lines. Storms contributed to flight delays, with FlightAware reporting a total of 417 U.S.-related cancellations on Thursday and some 1,800 delayed by Thursday afternoon. Major airports in the Washington and New York City areas were among the hardest hit. Heavy rains flooded coastal areas, while utilities warned that rain-soaked ground and strong winds could increase the risk of falling trees and power outages. More than 836,000 U.S. utility customers had no power as of 4:06 p.m. ET (2106 GMT), including more than 174,000 in Virginia, 172,000 in Maryland and almost 170,000 in Pennsylvania, according to poweroutage.us. Its data also showed more than 117,000 outages in Missouri, over 91,000 in New Jersey, more than 20,000 in Delaware and nearly 16,000 in North Carolina. Utilities and state officials had warned the combination of strong onshore winds and rain could cause widesp
+
+## [Trump says he asked Putin to 'pull back' military aggression throughout Europe](https://www.koreatimes.co.kr/world/20261127/trump-says-he-asked-putin-to-pull-back-military-aggression-throughout-europe?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+U.S. President Donald Trump said on Thursday he told Russian leader Vladimir Putin last week he would like to see Russia pull back on military aggression against territories throughout Europe in the hope it could lead to a quick settlement of the war in Ukraine. "During my conversations in China with President Vladimir Putin, of Russia, I spent a lot of time talking about the fact that I would like to see President Putin pull back all Military aggression against territories throughout Europe, in the hopes that a Deal can be made between Russia and Ukraine, and made quickly," Trump wrote in a Truth Social post. "I really believe this is a strong possibility — Thousands of people are being killed each and every month, A COMPLETE BLOODBATH," Trump said. Trump has frequently urged a negotiated end to the war in Ukraine, but the phrase "territories throughout Europe" suggests territories beyond the battlefield in Ukraine. Trump did not elaborate on what conduct he was asking Putin to halt. Since the Russian invasion of Ukraine started in 2022, other countries have occasionally accused Russi
+
+## [Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government](https://www.koreatimes.co.kr/world/20261127/trump-uses-thanksgiving-message-to-lash-out-at-political-foes-immigrants-federal-government?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+As American families gathered to celebrate one of the biggest holidays of the year, U.S. President Donald Trump on Thursday used the occasion of Thanksgiving to attack liberals, immigrants and a federal agency. In a message on his Truth Social platform, Trump offered holiday greetings to people he accused of fraud, error or criminality. "I would like to wish a very Happy Thanksgiving to all of those people that have worked so hard to bring our Country to the Radical Far Left," Trump said in the 461-word post. The message was issued while the Republican president spent the family-oriented holiday at his Trump International Golf Club in West Palm Beach, Florida. He was expected to call U.S. service members later on Thursday from his Mar-a-Lago estate. In the holiday greeting, Trump accused his own government of falsifying U.S. economic data. He warned of efforts by unnamed people to implement Muslim religious law and forcibly redistribute private property. He also described large numbers of U.S. immigrants and people of Somali descent as jobless or criminal. Trump offered no evidence for an
+
+## [Banks' earnings edge up through Sept. on rise in interest income](https://www.koreatimes.co.kr/economy/20261127/banks-earnings-edge-up-through-sept-on-rise-in-interest-income?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+South Korean banks' net profit increased slightly in the first nine months of the year from a year earlier on the back of a rise in interest income, data showed Friday. The combined net profit of 20 banks came to 21.5 trillion won ($16 billion) in the January-September period, up 500 billion won, or 2.1 percent, from 21 trillion won in net profit recorded a year earlier, according to the data from the Financial Supervisory Service (FSS). Their interest income came to 48.4 trillion won in the first three quarters, up 3.7 trillion won, or 8.2 percent, from a year earlier. Non-interest income came to 5.9 trillion won in the January-September period, down 900 billion won, or 12.9 percent, over the cited period, according to the FSS. Their costs to cover loan losses came in at 4.9 trillion won in the January-September period, up 100 billion won, or 3.1 percent, from a year before. The banks' return on assets ratio rose to 0.66 percent at the end of September, down 0.04 percentage point from a year earlier, while their return on equity ratio also fell 0.32 percentage point to 9.02 percent over
+
+## [Insurance firms' lending down in Q3: data](https://www.koreatimes.co.kr/economy/20261127/insurance-firms-lending-down-in-q3-data?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Loans extended by insurance companies here fell in the third quarter of this year from three months earlier due to a fall in lending to both households and companies, data showed Friday. Insurers' outstanding loans reached 263.9 trillion won ($196.6 billion) as of end-September, down 2.1 trillion won from three months earlier, according to the data from the Financial Supervisory Service. The on-quarter fall was attributed to a decline in loans extended to households as well as to companies. Their household lending stood at 135.8 trillion won as of end-September, down 0.3 trillion won from the previous quarter, and corporate lending also fell 1.8 trillion won to 128 trillion won over the cited period. The loan delinquency rate, which measures the proportion of loan principal or interest unpaid for at least a month, stood at 1.27 percent at end-June, up 0.19 percentage point from three months earlier, according to the financial watchdog. The rate of insurers' nonperforming loans came to 1.42 percent at the end of September, up 0.11 percentage point from three months earlier, the latest find
+
+## [AI bruise-measuring tool wins top prize at public safety contest](https://www.koreatimes.co.kr/southkorea/society/20261127/ai-bruise-measuring-tool-wins-top-prize-at-public-safety-contest?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+A sticker that helps police use artificial intelligence (AI) to document injuries in suspected abuse cases won the top prize at a national invention contest for public servants, the Ministry of Intellectual Property said Thursday. Other winning designs included a chair that screens for drugs concealed on the body without a hands-on search and floating beacons that guide people off tidal flats as the tide comes in. The ministry announced the winners of the 2026 Public Safety Invention Challenge at an awards ceremony at the National Assembly. It co-hosted the ceremony with the Korea Customs Service, the Korean National Police Agency, the National Fire Agency, the Korea Forest Service, the Korea Coast Guard and Reps. Jang Chul-min and Jeon Eun-su. Now in its ninth year, the contest invites employees from the five agencies to develop inventions that address safety problems they encounter on the job. Judges selected 30 winners from 868 entries based on originality, potential for use in the field and commercial potential. Seo Hae-won, a lieutenant at Ulsan Jungbu Police Station, received the N
+
+## [KAI needs private ownership to compete in global market, defense consultant says](https://www.koreatimes.co.kr/southkorea/defense/20261127/kai-needs-private-ownership-to-compete-in-global-market-defense-consultant-says?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+A veteran of the European defense industry says the Korea Aerospace Industries (KAI) should move into private hands so it can invest for the long term and warns that the KF-21 fighter jet may struggle to find buyers abroad without that stability. Alfred Kong, president of Suez Communication, said in an interview with The Korea Times that developing the KF-21 has earned Korea recognition among aerospace companies, but that the aircraft’s export prospects remain uncertain. “I don’t think the fighter will be a big seller, but it could help raise South Korea’s profile,” Kong said. Kong worked on bids to sell the Rafale and Eurofighter to Korea and was involved in the country’s acquisition of Taurus missiles and Airbus aerial refueling aircraft. He said steady production by Korean suppliers helped manufacturers deliver tanks and howitzers to Poland quickly. KAI privatization Established aircraft manufacturers can offer buyers local production and broader industrial partnerships as part of a deal, Kong said. He questioned whether the KF-21 could win enough overseas business to justi
+
+## [\[TEST DRIVE\] Lexus RX500h packs punch with refined ride](https://www.koreatimes.co.kr/business/companies/20261127/test-drive-lexus-rx500h-packs-punch-with-refined-ride?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+The Lexus RX500h F Sport Performance quickly dispels the conventional notion that a Lexus hybrid is built only for quiet, comfortable cruising. When pressing the accelerator hard, the large SUV responds with surprising force, building speed with a steady surge, as the turbocharged engine and electric motors work together. The power delivery is smooth rather than abrupt, retaining the refinement expected of a Lexus. But underneath that composure is a powertrain capable of making the 2-ton-plus SUV move with authority. The RX500h F Sport Performance combines a 2.4-liter four-cylinder turbocharged gasoline engine with electric motors to produce a combined 371 horsepower. It is the most powerful version of the RX, Lexus' flagship midsize luxury SUV, adding a distinctly sportier character to a model long associated with quietness and comfort. The fifth-generation RX, launched in Korea in 2023, traces its roots to the original RX introduced globally in 1999. The performance-oriented character is visible before the engine is started. The RX500h F Sport Performance features a revised interpretatio
+
+## [Enduring legacy of 'hanji,' Korea's traditional paper](https://www.koreatimes.co.kr/lifestyle/koreanheritage/20261127/enduring-legacy-of-hanji-koreas-traditional-paper?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+MUNGYEONG, North Gyeongsang Province — With a history spanning more than 1,000 years, "hanji," traditional Korean paper, has played a vital role in the Korean Peninsula's cultural and intellectual development. First produced during the Three Kingdoms period (57 B.C. – A.D. 668), hanji became essential to the spread of Buddhism, the growth of publishing and the development of printing technology. During the Silla and Goryeo dynasties, Korean paper gained recognition throughout Asia for its exceptional whiteness, smooth texture and durability, becoming a sought-after export in China and Japan. Production expanded further during the 1392-1910 Joseon Dynasty to meet growing demand for books and scholarly publications. Next week, hanji is poised for a major moment on the international stage, as centuries of papermaking knowledge and practices are expected to be inscribed on UNESCO's Intangible Cultural Heritage list. The final decision is expected at a UNESCO committee meeting in Xiamen, China, slated for Nov. 30 to Dec. 5. Keeping heritage At a time when industrial machinery and chemical
+
+## [Your guide to 'hanji' experiences in Korea](https://www.koreatimes.co.kr/lifestyle/koreanheritage/20261127/your-guide-to-hanji-experiences-in-korea?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+There is a quiet resilience woven into every sheet of hanji, Korea’s traditional mulberry paper. Said to last a thousand years, hanji is far more than a historical artifact — it is a living, breathing medium that bridges ancient craftsmanship and contemporary design. For those looking to escape digital noise and the business of city life, a journey into the world of hanji offers a tactile connection to Korea's cultural roots. While there are many places in Seoul to experience the versatility of hanji, options within the capital are tailored toward crafting rather than raw manufacturing. Jong Ie Nara Paper Art Museum in central Seoul's Jung District stands out as Korea’s first paper culture museum and specialize institution, offering rich exhibitions and ustomized experience programs that draw large numbers of visitors. Meanwhile, artisan-centered spaces like Jonginamoo Gallery are tucked into the charming alleyways of Bukchon Hanok Village in Jongno District, where many workshops specialize in small-group experiences for crafting traditional items like jewelry boxes and lamps. Beca
+
+## [Why do celebrities keep driving drunk despite having so much to lose?](https://www.koreatimes.co.kr/southkorea/20261127/why-do-celebrities-keep-driving-drunk-despite-having-so-much-to-lose?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+Click here for more articles by Kormedi.com. They can afford chauffeurs and have people willing to help them. An arrest for drunk driving can cost them their public image and force them to suspend their careers. Yet news of celebrities driving under the influence continues to surface, with some getting behind the wheel again even after being punished. Why do they keep making the same choice despite having so much to lose? The question has long been raised overseas, too. CNN's former entertainment program “Showbiz Tonight” once examined cases involving Lindsay Lohan, Nicole Richie and Paris Hilton, asking, “Why don't they hire a driver when they have the money and the means?” The program looked beyond the cost, pointing to attitudes shaped by special treatment, environments in which risky behavior goes unchecked and persistent drinking problems. Paris Hilton explained her drunk driving case in a 2007 interview on CNN's “Larry King Live.” She said she had had one drink and was on her way to a restaurant a few blocks away. She acknowledged that she should not have been driving.
+
+## [When celebrities play poor, viewers see privilege, not relatability](https://www.koreatimes.co.kr/entertainment/20261127/when-celebrities-play-poor-viewers-see-privilege-not-relatability?utm_source=rss)
+
+via Korea Times · 2026-11-27
+
+“Wow, look at that expression," said a man watching a barista at Blank Street Coffee in London in March 2024. The barista captivating customers was Sabrina Carpenter, a famous American singer-songwriter and actress. She took orders and handed out drinks just like an ordinary coffee shop worker. The event was part of a promotional campaign for her new song “Espresso.” The coffee shop posted a photo of Carpenter on social media, captioning it, “Working late because she’s a barista.” For fans, it was a special opportunity to receive coffee directly from their favorite star. But when attention shifted from the celebrity to the workplace, the same scene took on a different meaning. Carpenter was working in a low-wage service job while wearing a luxury outfit by Fendi. The promotional caption about “working late” stood in stark contrast to the reality of workers who must stay behind the counter until late to make ends meet. Some criticized the event as “playing ordinary people.” The idea of having the singer of “Espresso” serve coffee was clever, but an event that borrow
+
+## [Nearly 6,000 children living in emergency accommodation](https://www.rte.ie/news/ireland/2026/1127/1600919-homeless-figures-ireland/)
+
+via RTÉ News · 2026-11-27
+
+The number of people living in emergency accommodation has risen again according to figures from the Department of Housing.
+
+## [USNI News Western Pacific Pulse: Nov. 27, 2026](https://news.usni.org/2026/11/27/usni-news-western-pacific-pulse-nov-27-2026)
+
+via US Navy Institute · 2026-11-27
+
+The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In Singapore Amphibious assault ship USS Makin Island (LHD-8) and amphibious transport dock USS John P. Murtha (LPD-26) departed Tuesday from Sembawang, Singapore, according to local ship spotters and AIS data. The two amphibious ships, embarked with elements of the 13th Marine Expeditionary Unit, sailed into the Malacca Strait toward the Indian Ocean.  Makin Island and John P. Murtha, with amphibious transport dock USS Anchorage (LPD-23) and the embarked 13th Marine Expeditionary Unit, form the Makin Island Amphibious Ready Group (ARG).
+
+## [Dec Donnelly says I'm a Celebrity tension 'became much bigger deal than it should have'](https://www.bbc.co.uk/news/articles/c65y1k8qx7q4o?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+The co-hosts discussed tensions that flared between Mariella Frostrup and AJ Odudu on the show.
+
+## [Mary’s Meals marks four billion meals served in schools](https://www.vaticannews.va/en/world/news/2026-11/marys-meals-interview-magnus-macfarlane-barrow.html)
+
+via Vatican News · 2026-11-27
+
+As Mary’s Meals reaches the milestone of serving 4 billion meals in schools, founder Magnus MacFarlane-Barrow recalls the boy in Malawi who inspired the international humanitarian organization’s birth and the volunteers who now help feed more than three million children every school day.
+
+[Read all](https://www.vaticannews.va/en/world/news/2026-11/marys-meals-interview-magnus-macfarlane-barrow.html)
+
+## [What we know about Department for Work and Pensions 'cyber incident'](https://www.bbc.co.uk/news/articles/ck1l0e946dqmo?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+Nearly all of the DWP's online systems have been taken down, including those for pensions, universal credit and Pip applications.
+
+## [Beach attacker sentenced to 10 years after victim, 17, loses leg in bank holiday stabbing](https://www.bbc.co.uk/news/articles/ckjwj6p6n597o?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+Idris Ahmed, 19, stabbed the 17-year-old victim in an unprovoked attack on Barry Island beach.
+
+## [Evidence reverse engineered against woman, defence claims](https://www.rte.ie/news/courts/2026/1127/1600906-scarlett-faulkner-court/)
+
+via RTÉ News · 2026-11-27
+
+A defence barrister acting for a 41-year-old woman accused of planning the murder of Scarlett Faulkner has said the prosecution reverse engineered the evidence and shoehorned it into a case against his client.
+
+## [Sudanese civilians bearing brunt of war as violence spreads across Darfur and Kordofan](https://www.vaticannews.va/en/world/news/2026-11/sudan-war-civilians-humanitarian-crisis-deaths-displacement.html)
+
+via Vatican News · 2026-11-27
+
+At least 22 civilians were killed, and dozens were injured in a series of attacks attributed to the paramilitary Rapid Support Forces (RSF) in Sudan’s West Kordofan and East Darfur states.
+
+[Read all](https://www.vaticannews.va/en/world/news/2026-11/sudan-war-civilians-humanitarian-crisis-deaths-displacement.html)
+
+## [Government to limit 'abusive lawsuits' aimed at silencing whistleblowers](https://www.bbc.co.uk/news/articles/cw24ez2zvge0o?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+An MP cited former Harrods owner Mohamed Al Fayed as someone who used legal action to suppress his "appalling abuse".
+
+## [Ministers express confidence in Carroll MacNeill](https://www.rte.ie/news/health/2026/1127/1600901-hse-board-reaction/)
+
+via RTÉ News · 2026-11-27
+
+Follow live developments as ministers express confidence in Jennifer Carroll MacNeill in the wake of the sacking of HSE chief executive Anne O'Connor. The Minister said she 'absolutely' has confidence in the HSE board, who will appear before a committee next week to answer further questions.
+
+## [PSNI appeal after man 'tried to fire crossbow' in Belfast](https://www.rte.ie/news/ireland/2026/1127/1600900-belfast-crossbow-appeal/)
+
+via RTÉ News · 2026-11-27
+
+Police believe an attempt was made to fire a crossbow bolt at a Police Service of Northern Ireland station in Belfast.
+
+## [War, fuel costs and aid cuts raise famine risk across 16 hotspots, UN agencies warn](https://www.cbc.ca/news/world/united-nations-food-report-hunger-warning-sudan-yemen-9.7438374?cmp=rss)
+
+via CBC, Top Stories · 2026-11-27
+
+![Women arrange their plastic jerrycans as they line up to collect water.](https://i.cbc.ca/ais/999b3d37-480b-4033-b45e-db96c58a7792,1795777318143/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C120%2C5500%2C3093%29%3B)
+
+United Nations' food agencies are warning that hunger is set to deepen across 16 countries over the next six months, as conflict, soaring fuel costs linked to the war in the Middle East and steep aid cuts threaten to push more people into crisis.
+
+## [A Tribute to Blacklisted Lyricist Yip Harburg: The Man Who Put the Rainbow in The Wizard of Oz](http://www.democracynow.org/2026/11/27/a_tribute_to_blacklisted_lyricist_yip)
+
+via Democracy Now · 2026-11-27
+
+His name might not be familiar to many, but his songs are sung by millions around the world. Today, we take a journey through the life and work of Yip Harburg, the Broadway lyricist who wrote such hits as “Brother, Can You Spare a Dime?” and who put the music into _The Wizard of Oz_, the movie that inspired the hit Broadway musical and now Hollywood blockbuster, _Wicked_. Born into poverty on the Lower East Side of Manhattan, Harburg always included a strong social and political component to his work, fighting racism and poverty. A lifelong socialist, Harburg was blacklisted and hounded throughout much of his life. We speak with Harburg’s son, Ernie Harburg, about the music and politics of his father. Then we take an in-depth look at _The Wizard of Oz_, and hear a medley of Harburg’s Broadway songs and the politics of the times in which they were created.
+
+## [Tube strike ends but more dates set for December](https://www.bbc.co.uk/news/articles/cq4gnzx2wdm0o?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+More industrial action by the RMT is planned for December, January and February.
+
+## [Cardinal Reina: Pope’s parish visits are ‘opportunity for pastoral renewal'](https://www.vaticannews.va/en/pope/news/2026-11/cardinal-reina-pope-parish-visits.html)
+
+via Vatican News · 2026-11-27
+
+Ahead of Pope Leo XIV's visits to five of Rome's 334 parishes, Cardinal Baldo Reina reflects on declining Mass attendance alongside a genuine search for God, and says a visit to a Roman prison is under consideration.
+
+[Read all](https://www.vaticannews.va/en/pope/news/2026-11/cardinal-reina-pope-parish-visits.html)
+
+## [Rape charge for most 'swiped-right' man on Tinder](https://www.bbc.co.uk/news/articles/cqkg5yxkl384o?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+Stefan-Pierre Tomlin, 36, is charged with rape following a reported assault at The Groucho Club in Soho.
+
+## [Five Gladiators will not return for new BBC series](https://www.bbc.co.uk/news/articles/cm0jx92d07n5o?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+The programme is set to feature a host of new faces when it returns to screens next year.
+
+## ['A lonely road': Catherine joins cancer support group in new documentary](https://www.bbc.co.uk/news/videos/c6879eqe01e0o?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+The documentary features her personal thoughts on her illness and recovery, following her cancer diagnosis.
+
+## [Spanish PM in bid to beat the right ahead of key poll](https://www.rte.ie/news/2026/1127/1600889-sanchez-spain-elections/)
+
+via RTÉ News · 2026-11-27
+
+Spain's Socialist Prime Minister Pedro Sanchez is making a final push to overcome the odds on the last day of campaigning for an election expected to deliver a victory for conservatives and the far right.
+
+## [Putting survivors at the centre of gender-based violence services](https://news.un.org/feed/view/en/story/2026/11/1168885)
+
+via United Nations, Top Stories · 2026-11-27
+
+Reaching out for help can be an enormous step for survivors of gender-based violence (GBV), and what happens after walking through the doors of a support service can shape the path towards recovery and safety
+
+## [Budapest court revokes €20 million payment order against IOR](https://www.vaticannews.va/en/vatican-city/news/2026-11/hungary-budapest-court-revokes-payment-order-vatican-bank.html)
+
+via Vatican News · 2026-11-27
+
+The Institute for the Works of Religion expresses its “full confidence in the work of the judiciary” after a Budapest court revoked an order linked to an investment in the city’s former Stock Exchange building.
+
+[Read all](https://www.vaticannews.va/en/vatican-city/news/2026-11/hungary-budapest-court-revokes-payment-order-vatican-bank.html)
+
+## [Other Voices celebrates 25 years in Daingean Uí Chúis](https://www.rte.ie/entertainment/2026/1127/1600859-other-voices-celebrates-25-years-in-an-daingean/)
+
+via RTÉ News · 2026-11-27
+
+The Other Voices music festival will open in Daingean Uí Chúis, Co Kerry, this evening. This is the 25th edition of what has become a major highlight of the Irish music calendar.
+
+## [Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'](https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.
+
+## [Rooney inquest hears evidence on disinformation campaign](https://www.rte.ie/news/courts/2026/1127/1600890-hezbollah-manipulated-unsc-resolution-inquest-told/)
+
+via RTÉ News · 2026-11-27
+
+The inquest into the death of Private Seán Rooney has heard evidence around "assumptions being made" that the attack on his vehicle was connected to a disinformation campaign and a direct response to UNIFIL being allowed to act independently in Lebanon.
+
+## [Pope Leo: Sport can help young people overcome isolation](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-says-sport-can-help-young-people-overcome-isolation.html)
+
+via Vatican News · 2026-11-27
+
+In an era where young people can experience social isolation, Pope Leo XIV says sport encourages them “to go out, meet others, engage with physical reality and the demands of exertion, and build relationships within a team or sports group.”
+
+[Read all](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-says-sport-can-help-young-people-overcome-isolation.html)
+
+## [Episodes of self-harm in prisons up 22%, report finds](https://www.rte.ie/news/ireland/2026/1127/1600879-prison-self-harm/)
+
+via RTÉ News · 2026-11-27
+
+Over 240 episodes (248) of self-harm were recorded in Irish prisons last year, an increase of over 22% on 2024.
+
+## [Pope chooses theme for Lent Message 2027: 'Let us embrace fragility'](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-theme-lent-message-2027-fragility-magnifica-humanitas.html)
+
+via Vatican News · 2026-11-27
+
+Pope Leo XIV has chosen the theme for his message for Lent 2027, which is "Let us embrace fragility," drawing from his encyclical Magnifica humanitas and offering “an alternative to the illusion of a humanity that wants to recreate itself without limits.”
+
+[Read all](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-theme-lent-message-2027-fragility-magnifica-humanitas.html)
+
+## ['Buy less, play more' - Children learn 'story of the toy'](https://www.rte.ie/news/ireland/2026/1127/1600881-monaghan-life-cycle-toy/)
+
+via RTÉ News · 2026-11-27
+
+More than 500 children in Louth, Cavan and Monaghan have been learning about the "story of a toy", their life cycle and sustainability.
+
+## [Pope Leo XIV prays for victims of Cairo fuel lorry explosion](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-telegram-condolences-egypt-tanker-explosion.html)
+
+via Vatican News · 2026-11-27
+
+Pope Leo XIV sends his condolences to the families of victims of a fuel truck explosion in the Egyptian capital of Cairo, entrusting those who died to God’s mercy.
+
+[Read all](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-telegram-condolences-egypt-tanker-explosion.html)
+
+## [Woman awarded €83,000 over tripping on Dungarvan footpath](https://www.rte.ie/news/2026/1127/1600882-dungarvan-footpath-damages/)
+
+via RTÉ News · 2026-11-27
+
+A bank worker who fractured and dislocated her shoulder after tripping over a badly finished concrete slab in Dungarvan, Co Waterford three years ago has been awarded over €83,000 in damages.
+
+## [Supreme Court set to deliver ruling on Quebec's secularism law](https://www.cbc.ca/news/canada/montreal/livestory/quebec-bill-21-supreme-court-of-canada-ruling-9.7434446?cmp=rss)
+
+via CBC, Top Stories · 2026-11-27
+
+![A group of women protest Quebec's new Bill 21](https://i.cbc.ca/ais/4b1e08fc-9a68-4b1e-a135-0c12f04593de,1795740772866/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C459%2C4513%2C2538%29%3B)
+
+## [Man charged with murder of Qayyum Balogun in Dublin](https://www.rte.ie/news/ireland/2026/1127/1600874-balogun-murder/)
+
+via RTÉ News · 2026-11-27
+
+A man has appeared in court charged with the murder of 21-year-old student Qayyum Balogun in Dublin last June.
+
+## [Hundreds of thousands still without power after storms hit US on Thanksgiving](https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.
+
+## [My self-care ritual is a meal at a fancy restaurant - on my own](https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.
+
+## [Thanksgiving storm on U.S. East Coast knocks out power, disrupts flights](https://www.cbc.ca/news/world/u-s-thanksgiving-storm-power-flight-delays-9.7438358?cmp=rss)
+
+via CBC, World News · 2026-11-27
+
+![A woman in a red rain overcoat is buffeted by high winds as she walks on an urban street.](https://i.cbc.ca/ais/36e09950-3c14-4e21-a649-39b2b2ac843e,1795786802233/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C13%2C594%2C334%29%3B)
+
+A powerful storm disrupted the Thanksgiving holiday along much of the U.S. East Coast on Thursday, knocking out power to nearly one million customers at one point as wind gusts of up to 112 km/h toppled trees and power lines.
+
+## [NHS boss warns of 'horrible spike' in flu as hospital admissions surge](https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.
+
+## [Is it a cold, flu or Covid? How to tell the difference](https://www.bbc.co.uk/news/articles/cly1rryv2ryo?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+How to tell if you have cold, flu or Covid and how to look after yourself.
+
+## ['No time to be scared' - 22 to be honoured for bravery](https://www.rte.ie/news/2026/1127/1600868-no-time-to-be-scared-22-to-be-honoured-for-bravery/)
+
+via RTÉ News · 2026-11-27
+
+Twenty-two people will be honoured today for selfless acts of bravery that saved the lives of others.
+
+## [Vatican appoints three Commissaries for Heralds of the Gospel](https://www.vaticannews.va/en/vatican-city/news/2026-11/heralds-of-the-gospel-commissioners-dicasteries-vatican-appoint.html)
+
+via Vatican News · 2026-11-27
+
+The Dicastery for Consecrated Life and the Dicastery for the Laity, Family and Life appoint three Apostolic Commissaries for the two Societies of Apostolic Life and the International Association of the Faithful known as the "Heralds of the Gospel."
+
+[Read all](https://www.vaticannews.va/en/vatican-city/news/2026-11/heralds-of-the-gospel-commissioners-dicasteries-vatican-appoint.html)
+
+## [Photos Show Apparent Stern Block of Japan’s Second ASEV](https://www.navalnews.com/naval-news/2026/11/photos-apparent-stern-block-japans-second-asev/)
+
+via Navel News · 2026-11-27
+
+New photos from JMU’s Isogo shipyard in Yokohama show a large hull block believed to be the stern section of Japan’s second ASEV missile defense ship.
+
+The post [Photos Show Apparent Stern Block of Japan’s Second ASEV](https://www.navalnews.com/naval-news/2026/11/photos-apparent-stern-block-japans-second-asev/) appeared first on [Naval News](https://www.navalnews.com).
+
+## [Zelensky criticises 'strange' Trump-Putin friendship in BBC interview](https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.
+
+## [This Independent is giving Poilievre's Conservatives the jitters ahead of a crucial byelection](https://www.cbc.ca/news/politics/brantford-byelection-dave-carrol-independent-conservative-9.7438039?cmp=rss)
+
+via CBC, Top Stories · 2026-11-27
+
+![Independent candidate Dave Carrol is running in the upcoming federal byelection in Brantford-Brant. A local pastor, Carrol was running for the Conservative nomination but was snubbed by the party brass.](https://i.cbc.ca/ais/0f876966-6d9d-4411-ac66-42a589a29ff9,1795738306263/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C4238%2C2383%29%3B)
+
+The federal riding of Brantford-Brant South has been a Conservative stronghold for most of the last 20 years. But an insurgent Independent candidate who was passed over by leader Pierre Poilievre is trying to stop Tory rule in an upcoming byelection — and there are early signs he's gaining traction.
+
+## [Small businesses worry potential consumer pullback could cut into critical holiday sales](https://www.cbc.ca/news/business/small-businesses-holiday-shopping-9.7437827?cmp=rss)
+
+via CBC, Top Stories · 2026-11-27
+
+![shoppers cross the street with bags in hand on a dreary day](https://i.cbc.ca/ais/2435acc2-6bf0-4358-9ca0-453d67d7058f,1795730024726/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C676%2C6499%2C3655%29%3B)
+
+The holiday shopping season is a critical money-making time for lots of retailers. But as retail sales point to a dip in consumer spending, small business owners worry a pullback by shoppers could dent their sales.
+
+## [Focker-In-Law isn't terrible. It's just a sitcom](https://www.cbc.ca/news/entertainment/focker-in-law-review-9.7438169?cmp=rss)
+
+via CBC, Top Stories · 2026-11-27
+
+![A man and woman stand in a kitchen with aprons on. The woman is smiling as she looks at the man, and holding a bottle of bourbon in one hand and a pan in the other.](https://i.cbc.ca/ais/f752bf7d-f037-4830-972a-4661e2e1b875,1795737913177/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5803%2C3264%29%3B)
+
+Focker-In-Law is nothing compared to 2000's Meet the Parents. But if comparing to the intentionally broad, necessarily formulaic situation-comedy field the bloated Fockers franchise has found itself in, it's ... fine? Mostly? Watchable, let's say. And that's all these things are going for.
+
+## [2,000 wild species live in our homes with us, study finds](https://www.cbc.ca/news/science/citizen-science-never-home-alone-9.7437551?cmp=rss)
+
+via CBC, Top Stories · 2026-11-27
+
+![A spider with metallic green fangs](https://i.cbc.ca/ais/51b3bf22-d158-4e53-9474-2c526632c3c6,1795721528306/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C33%2C640%2C360%29%3B)
+
+You probably have way more housemates than you think, and most of them have at least six legs, a new study suggests. If you find them, here's why scientists say you shouldn't take them outside.
+
+## [Danielle Smith’s hold over UCP takes centre stage as 7,000 members registered for annual meeting](https://www.cbc.ca/news/canada/calgary/danielle-smith-alberta-ucp-agm-martin-belanger-9.7437423?cmp=rss)
+
+via CBC, Top Stories · 2026-11-27
+
+![A crowd is pictured in front of a woman.](https://i.cbc.ca/ais/2eca4177-a527-4751-92c0-cadbf1770529,1795717024974/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5072%2C2853%29%3B)
+
+Alberta's United Conservatives kick off their fifth annual general meeting under Premier Danielle Smith Friday, a gathering expected to reveal much about the party’s future a little more than a month after a divisive referendum.
+
+## [Man in AI deepfake case admits to stalking women, voyeurism and more](https://www.cbc.ca/news/canada/ottawa/gregry-peter-joseph-van-beek-ottawa-west-nipissing-ai-deepfake-9.7432791?cmp=rss)
+
+via CBC, Top Stories · 2026-11-27
+
+![man in blue sweater poses for camera](https://i.cbc.ca/ais/2cf5004b-771e-4f9c-8d85-ab07632f4134,1795719462209/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4800%2C2700%29%3B)
+
+One of two men accused in an AI deepfake case involving 45 alleged victims in Canada and the U.S. — including real-life victims of sexual violence and kidnapping — has pleaded guilty for the role he played.
+
+## [Supreme Court to render its decision on Quebec's secularism law today](https://www.cbc.ca/news/politics/supreme-court-decison-bill-21-9.7437512?cmp=rss)
+
+via CBC, Canada News · 2026-11-27
+
+![This image shows the grand hall of the temporary Supreme Court of Canada. Its essentially an enclosed courtyard with a large spiral chandelier designed to look like the northern lights. There are no people in the image.](https://i.cbc.ca/ais/7d90793b-7015-4d10-b4fa-764d2e0acba1,1795719265108/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B)
+
+On Friday morning, a record number of journalists and lawyers of record who've been sworn to confidentiality will be the first to read a historic judgment from the Supreme Court of Canada determining the fate of Quebec's controversial Bill 21.
+
+## [This suspected North Korean operative said he had an IT company in Toronto. It wasn't real](https://www.cbc.ca/news/canada/suspected-north-korean-operative-software-company-9.7437137?cmp=rss)
+
+via CBC, World News · 2026-11-27
+
+![A suspected North Korean operative known as Aku Alatao takes part in an online interview with fake crypto company Bananacoin.](https://i.cbc.ca/ais/e85568b3-7d5d-4ec9-956c-88d3553ddcc5,1795717498840/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C52%2C932%2C524%29%3B)
+
+For the last year, the fifth estate has investigated multiple suspected North Korean operatives posing online as Canadian residents. They have been able to secure remote jobs in Canadian companies and government, their paycheques propping up the heavily sanctioned regime.
+
+## [The corruption case against Benjamin Netanyahu just suffered a serious blow. What comes next?](https://www.cbc.ca/news/world/benjamin-netanyahu-corruption-trial-9.7437235?cmp=rss)
+
+via CBC, World News · 2026-11-27
+
+![Israel's Prime Minister Benjamin Netanyahu speaks to the media after voting at a polling station in Jerusalem, Tuesday, Oct. 27, 2026. (Jewel Samad/Pool Photo via AP)](https://i.cbc.ca/ais/3c383bcf-9249-4092-a118-188e3370dd61,1795741220764/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8256%2C4644%29%3B)
+
+Israeli Prime Minister Benjamin Netanyahu was handed a major legal victory this week when the judges in the years-long corruption trial against him suggested the prosecution reconsider one case, work out a plea deal in another and entirely drop the third. Here's a look at the cases, the charges, what the judges said and where it may go next.
+
+## [HSE board confirms Health Committee attendance next week](https://www.rte.ie/news/politics/2026/1127/1600861-hse-anne-oconnor/)
+
+via RTÉ News · 2026-11-27
+
+The board of the HSE has confirmed it will attend a hearing of the Oireachtas Committee on Health next Wednesday.
+
+## [Kenya: Spiritans to discuss migrants’ rights and interfaith dialogue](https://www.vaticannews.va/en/africa/news/2026-11/kenya-spiritans-to-discuss-migrants-rights-and-interfaith-dial.html)
+
+via Vatican News · 2026-11-27
+
+Spiritan leaders from various provinces and groups across Africa and neighbouring islands are gathering for an assembly from 26 November to 3 December at Roussel House, Donum Dei Community, in Nairobi, Kenya
+
+[Read all](https://www.vaticannews.va/en/africa/news/2026-11/kenya-spiritans-to-discuss-migrants-rights-and-interfaith-dial.html)
+
+## [Man due in court over robbery of cash-in-transit van](https://www.rte.ie/news/2026/1127/1600857-cash-in-transit/)
+
+via RTÉ News · 2026-11-27
+
+A man in his 50s is due in court today in connection with a cash-in-transit robbery that occurred in Dublin on Wednesday.
+
+## ['I wouldn't be here today without you': Student's praise for man who stopped Huntingdon train attacker](https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+Astrid credits Stephen Crean with saving her life during the Huntingdon train attack last year.
+
+## [Mushroom killer launches last-ditch appeal of conviction](https://www.rte.ie/news/world/2026/1127/1600854-erin-patterson-appeal/)
+
+via RTÉ News · 2026-11-27
+
+An Australian woman who used deadly fungi to murder relatives has asked Australia's top court to hear an appeal of her conviction and life sentence, according to local media reports.
+
+## [Fincantieri signs contract to construct the 3rd LSS for the Italian Navy](https://www.navalnews.com/naval-news/2026/11/fincantieri-signs-contract-to-construct-the-3rd-lss-for-the-italian-navy/)
+
+via Navel News · 2026-11-27
+
+The Temporary Grouping of Companies (RTI), led by Fincantieri with the participation of Leonardo, has signed an amendment to the contract with OCCAR (Organisation Conjointe de Coopération en matière d’Armement) for the LSS (Logistic Support Ship) program, covering the construction of a third logistic support unit for the Italian Navy. Fincantieri press release The agreement ...
+
+The post [Fincantieri signs contract to construct the 3rd LSS for the Italian Navy](https://www.navalnews.com/naval-news/2026/11/fincantieri-signs-contract-to-construct-the-3rd-lss-for-the-italian-navy/) appeared first on [Naval News](https://www.navalnews.com).
+
+## [Watch: Student describes moment passenger 'threw himself' at attacker and saved her life](https://www.bbc.co.uk/news/videos/cqzr566llz4no?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+The BBC's Lucy Manning spoke to Astrid and Stephen after the verdicts, as they met for the first time since the attack.
+
+## [Nvidia CEO Huang not a security threat - Trump](https://www.rte.ie/news/world/2026/1127/1600850-nvidia-ceo-huang-not-a-security-threat-trump/)
+
+via RTÉ News · 2026-11-27
+
+US President Donald Trump said that he had seen sufficient information that Nvidia CEO Jensen Huang was not a security threat.
+
+## ['It's impossible': Spain's young people on housing ahead of Sunday's election](https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.
+
+## [Inside Saudi Arabia, Houthi attacks test kingdom's image of security](https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.
+
+## [Leaders clash in final Spain election debate as housing dominates run-in](https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+The struggle many face in buying a home has been the biggest issue of a bitter campaign.
+
+## [€1.7 billion in mortgages approved last month - BPFI](https://www.rte.ie/news/business/2026/1127/1600840-banking-payments-federation-ireland-mortgages/)
+
+via RTÉ News · 2026-11-27
+
+Around €1.7 billion in mortgages were approved in October of this year, according to new figures from Banking and Payments Federation Ireland.
+
+## [A Richard Curtis romcom played out in the animal kingdom](https://www.bbc.co.uk/iplayer/episode/m0033h1s?at_mid=Sl7OrcAAEa&at_campaign=Love_Naturally&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0033h1s&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Love_Naturally&at_bbc_team=BBC)
+
+via BBC, US & Canada · 2026-11-27
+
+Richard Curtis brings the romcom to the natural world.
+
+## [Thanksgiving Day storm disrupts flights on US East Coast](https://www.rte.ie/news/2026/1127/1600848-us-storms/)
+
+via RTÉ News · 2026-11-27
+
+A powerful storm disrupted the United States' Thanksgiving Day holiday along much of the country's East Coast yesterday.
+
+## [New Zealand's ruling coalition falls short of majority](https://www.rte.ie/news/2026/1127/1600847-new-zealand-election/)
+
+via RTÉ News · 2026-11-27
+
+New Zealand Prime Minister Christopher Luxon will seek the support of the ⁠centrist Opportunity Party to keep his ruling centre-right coalition in power after official results showed he fell just short of a parliamentary majority in this month's election.
+
+## [Guinea-Bissau junta postpones presidential election](https://www.rte.ie/news/2026/1127/1600846-guinea-bissau/)
+
+via RTÉ News · 2026-11-27
+
+The ruling junta in Guinea-Bissau has announced that planned presidential and legislative elections next month have been postponed for two years.
+
+## [At Issue \| Does Carney's major projects bill go too far?](https://www.cbc.ca/player/play/9.7438192?cmp=rss)
+
+via CBC, Top Stories · 2026-11-27
+
+![4 people in a split shot](https://i.cbc.ca/ais/95d77097-adcf-4155-967b-13f3db7e2382,1795740654233/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B)
+
+At Issue this week: The Conservatives pull their support for the Carney government's major projects bill. The Pentagon criticizes Canada's defence commitments. And Prime Minister Mark Carney takes heat for his question period attendance record.
+
+## ['Craving connection': The young hikers swapping screens for walking groups](https://www.bbc.co.uk/news/articles/c32l50v7x2v1o?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+From hiking in the Peak District hills to the city parks of Leicester - we talk to several young people who've embraced walking groups and feel better for it.
+
+## [Trump urges Putin to end 'military aggression' in Europe](https://www.rte.ie/news/2026/1127/1600845-trump-putin-ukraine/)
+
+via RTÉ News · 2026-11-27
+
+US President Donald Trump has told reporters he does not ⁠know if Russian President Vladimir Putin will attend next month's G20 meeting in Florida, but if Mr Putin wants to come, he can.
+
+## [Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple](https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-27
+
+Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.
+
+## [Argentina's Milei not invited to Lula inauguration](https://www.rte.ie/news/2026/1127/1600844-milei-inauguration/)
+
+via RTÉ News · 2026-11-27
+
+Brazil has excluded Argentine President Javier Milei from the guest list for the 5 January inauguration of President Luiz Inacio Lula da Silva, a Brazilian government source has said, amid diplomatic tensions between the two nations.
+
+## [Residents skate the streets as freezing rain blankets Fort St. John, B.C.](https://www.cbc.ca/news/canada/british-columbia/fort-st-john-freezing-rain-skating-9.7437589?cmp=rss)
+
+via CBC, Top Stories · 2026-11-27
+
+![People skating and sledding in composite images.](https://i.cbc.ca/ais/38be422e-b07f-4cff-90f5-d1a6ae14ab86,1795721156091/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B)
+
+Warned to stay home due to hazardous roads, some northern British Columbians strapped on their skates instead Thursday morning, as freezing rain blanketed Fort St. John.
+
+## [Alberta's Nakiska ski hill closure proves bears are still out](https://www.cbc.ca/player/play/9.7438152?cmp=rss)
+
+via CBC, Canada News · 2026-11-27
+
+![Grizzly bear at Nakiska ski resort in Kananaskis, Alberta.](https://i.cbc.ca/ais/2b740128-6e66-414a-8d66-22680c90a5c5,1795738230732/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C656%2C1080%2C607%29%3B)
+
+The Nakiska Ski Resort was temporarily closed after a bear was seen. Experts say many bears in the area are already in their dens, but it’s not unusual for some to stay out looking for food.
+
+## [Macron accuses Le Pen of 'arrogance' in EU budget clash](https://www.rte.ie/news/europe/2026/1127/1600843-macron-la-pen/)
+
+via RTÉ News · 2026-11-27
+
+French President Emmanuel Macron has hit out against far-right leader Marine Le Pen, accusing her of "arrogance" for criticising the push to finalise the EU's next budget before France's elections next year.
+
+## [Calls for regulation of tech-facilitated sexual violence](https://www.rte.ie/news/ireland/2026/1127/1600837-calls-for-regulation-of-tech-facilitated-sexual-violence/)
+
+via RTÉ News · 2026-11-27
+
+There have been calls for stronger regulation of tech companies, to address technology-facilitated sexual violence, at an event organised as part of Ireland's EU Presidency.
+
+## ['My reality now' - Challenges facing homeless in Sligo](https://www.rte.ie/news/2026/1127/1600834-homeless-sligo/)
+
+via RTÉ News · 2026-11-27
+
+Although the north west accounts for a small share of national figures, the challenges facing those in the trenches of homelessness resonate far beyond the region.
+
+## [Quebec vs. the Crown: Who wins? \| About That](https://www.cbc.ca/player/play/9.7438111?cmp=rss)
+
+via CBC, Canada News · 2026-11-26, updated 2026-11-27
+
+![Premier of Quebec, Paul St-Pierre Plamondon](https://i.cbc.ca/ais/3f9b978f-5472-4989-8b16-3b6c407cf477,1795737483384/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C201%2C3872%2C2178%29%3B)
+
+Andrew Chang breaks down Quebec Premier Paul St-Pierre Plamondon's refusal to swear an oath of allegiance to the King and explains why a judge has ruled the oath is mandatory.
+Images provided by The Canadian Press, Reuters, Adobe Stock and Getty Images
+
+## [KDgate for Montreal mayor continues with website mocking Kraft Dinner comments](https://www.cbc.ca/news/canada/montreal/kraft-dinner-mayor-soraya-martinez-ferrada-budget-9.7436967?cmp=rss)
+
+via CBC, Top Stories · 2026-11-26, updated 2026-11-27
+
+![A protestor stirs a pot of mac and cheese outside Montreal City Hall on Wednesday, Nov. 26, 2026. Text overlay says, 'Let them eat Kraft Dinner.'](https://i.cbc.ca/ais/9324602c-7463-432c-b746-e8116b7b6fc1,1795788020880/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B)
+
+## [Defence minister 'very concerned' after Poilievre claims constituent's job was threatened](https://www.cbc.ca/news/politics/defence-minister-wainwright-nurse-claims-job-threatened-9.7437979?cmp=rss)
+
+via CBC, Top Stories · 2026-11-26, updated 2026-11-27
+
+![A man and a women in business attire sit in front of microphones.](https://i.cbc.ca/ais/89c3aa54-8807-4e7e-a60c-1b27f4bd671e,1795732785627/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C269%2C5006%2C2815%29%3B)
+
+Defence Minister David McGuinty says he's asked his deputy to raise concerns about a Wainwright, Alta., nurse's job being threatened after she was photographed with Conservative Leader Pierre Poilievre.
+
+## [Woman who stole $1.3M from Legion to 'feed her gambling habits' gets 6-year sentence](https://www.cbc.ca/news/canada/calgary/janice-mary-sugai-fraud-theft-legion-alberta-9.7437795?cmp=rss)
+
+via CBC, Canada News · 2026-11-26, updated 2026-11-27
+
+![](https://i.cbc.ca/ais/1.5781938,1603989607000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C186%2C2000%2C1125%29%3B)
+
+A Calgary judge has handed down a six-year sentence to a woman who stole more than $1.3 million from the Royal Canadian Legion to “feed her gambling habits.”
+
+## [B.C. NDP MLAs sworn in, but David Eby absent](https://www.cbc.ca/news/canada/british-columbia/ndp-mlas-sworn-in-david-eby-absent-9.7437833?cmp=rss)
+
+via CBC, Canada News · 2026-11-26, updated 2026-11-27
+
+![A woman in a black jacket walks into the legislature.](https://i.cbc.ca/ais/bf0aac4b-cb4c-4de2-bb1a-474679a28342,1795730637340/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B)
+
+NDP MLAs took the oath of office in the B.C. Legislature on Thursday. Former premier David Eby did not attend the swearing in and will be sworn in separately.
+
+## [What would happen if an AI agent interfered with a Canadian election?](https://www.cbc.ca/news/politics/canadian-elections-artificial-intelligence-9.7436972?cmp=rss)
+
+via CBC, Canada News · 2026-11-26, updated 2026-11-27
+
+![Chief Electoral Officer Stéphane Perrault](https://i.cbc.ca/ais/db9bc71e-c020-4cd8-8f6f-c04b3fa471d1,1795729265968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C251%2C8041%2C4523%29%3B)
+
+There are currently no provisions in Canada's electoral laws to address the prospect of AI agents acting without human direction trying to meddle in Canada's elections, says Canada's chief electoral officer.
+
+## [Ford says he wouldn't hesitate to shoot a home invader, encourages Ontarians to 'fight back'](https://www.cbc.ca/news/canada/toronto/ford-home-invasion-ontario-9.7437456?cmp=rss)
+
+via CBC, Top Stories · 2026-11-26, updated 2026-11-27
+
+![a man talks to reporters](https://i.cbc.ca/ais/57789b44-1c64-4cb2-9668-3437da46afa7,1795743995878/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B)
+
+## [Mother of Gatineau woman killed in murder-suicide speaks out](https://www.cbc.ca/news/canada/ottawa/mother-of-gatineau-woman-killed-in-murder-suicide-speaks-out-9.7437337?cmp=rss)
+
+via CBC, Canada News · 2026-11-26, updated 2026-11-27
+
+![a blonde woman wearing a white sweater](https://i.cbc.ca/ais/71405640-8234-44ef-9631-e17662ae22ce,1795726932962/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1200%2C675%29%3B)
+
+The mother of a Gatineau, Que., woman killed in what police say was a murder-suicide is speaking out for the first time.
+
+## [12 First Nations in B.C. buy stake in Coastal GasLink pipeline](https://www.cbc.ca/news/politics/coastal-gaslink-pipeline-ownership-9.7437694?cmp=rss)
+
+via CBC, Canada News · 2026-11-26, updated 2026-11-27
+
+![Heavy equipment and a construction worker are visible along pipes that are being lowered into the ground, with a snow capped mountain in the distance ](https://i.cbc.ca/ais/1.5901410,1726186999000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C119%2C1280%2C720%29%3B)
+
+A group of 12 First Nations in British Columbia are buying an indirect ownership stake in the Coastal GasLink Pipeline, backed by a $168-million loan guarantee from the federal Indigenous Loan Guarantee Program.
+
+## [Two companies behind McGregor stout record €2.43m losses](https://www.rte.ie/news/business/2026/1126/1600839-mcgregor-stout-losses/)
+
+via RTÉ News · 2026-11-26, updated 2026-11-27
+
+Two companies behind Conor McGregor's Forged Stout brand recorded combined losses of €2.43m last year.
+
+## [A Boston man won $1M US in the lottery. Days later, ICE arrested him](https://www.cbc.ca/news/world/ice-arrest-lottery-boston-9.7437360?cmp=rss)
+
+via CBC, World News · 2026-11-26, updated 2026-11-27
+
+![A social media post of a man holding a cheque for $1 million](https://i.cbc.ca/ais/01a4e80a-ead7-42f1-bac6-c82985175c23,1795714417971/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C144%2C844%2C474%29%3B)
+
+Ariel Antonio Velasquez-Morales won $1 million US on a scratch ticket, the Massachusetts State Lottery announced Saturday. Three days later, he was arrested by immigration officials who said "his luck ran out."
+
+## [Nearly $4.7M in drugs, cash seized in months-long investigation in northern Ontario](https://www.cbc.ca/news/canada/thunder-bay/project-backdrop-naps-9.7437611?cmp=rss)
+
+via CBC, Canada News · 2026-11-26, updated 2026-11-27
+
+![Drugs, cash and firearms are seen on a table indoors.](https://i.cbc.ca/ais/bea4cbe0-f8da-477b-8b4f-99ec3b226778,1795722386397/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C431%2C5272%2C2965%29%3B)
+
+Canada’s largest Indigenous police service has seized nearly $4.7 million in drugs and cash across several remote First Nations in northern Ontario. In all, 172 charges were laid against 68 people, the majority from northern Ontario, with some from Toronto, Winnipeg, Fort St. James, B.C., and Chezzetcook, N.S. The news comes after the launch of a new border control pilot program.
+
+## [Next EU budget proving to be a more difficult beast](https://www.rte.ie/news/2026/1126/1600833-comment-analysis-eu-budget/)
+
+via RTÉ News · 2026-11-26, updated 2026-11-27
+
+Getting an agreement on a seven-year EU budget is never easy, but it is clear this long-term budget will be a different and more difficult beast, writes Europe Editor Tony Connelly.
+
+## [N.L. apologizes, says it now accepts Innu history dates back more than 300 years](https://www.cbc.ca/news/canada/newfoundland-labrador/n-l-apologizes-says-it-now-accepts-innu-history-dates-back-more-than-300-years-9.7437647?cmp=rss)
+
+via CBC, Canada News · 2026-11-26, updated 2026-11-27
+
+![Woman with brown hair in orange t-shirt.](https://i.cbc.ca/ais/03ee5d2f-b355-4a1e-91ff-c74365007c24,1790859327459/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C318%2C4240%2C2385%29%3B)
+
+The Grand Chief of the Innu Nation says Newfoundland and Labrador Premier Tony Wakeham has apologized following a months-long controversy over the Innu's history in Labrador.
+
+## [Iranian journalist, Oscar-nominated screenwriter Mehdi Mahmoudian arrested in Tehran](https://www.cbc.ca/news/world/mehdi-mahmoudian-arrest-tehran-9.7437303?cmp=rss)
+
+via CBC, World News · 2026-11-26, updated 2026-11-27
+
+![A man wearing a pink blouse and blue vest smiles as he looks on.](https://i.cbc.ca/ais/b2b85bc4-6857-4357-b62d-fe3eb6994a02,1795712565184/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C935%2C525%29%3B)
+
+Rights groups are calling for the release of freelance journalist and Oscar-nominated screenwriter Mehdi Mahmoudian after Iranian authorities arrested him at his Tehran home on Wednesday, a day after he reported on an execution notice of two jailed protesters in Iran.
+
+## [Defence committee to meet again next week on Triple Lock](https://www.rte.ie/news/ireland/2026/1126/1600828-oireachtas-triple-lock/)
+
+via RTÉ News · 2026-11-26, updated 2026-11-27
+
+The Oireachtas defence committee will meet for three more days next week to continue discussing tabled amendments to a Government bill seeking to remove the United Nations security council element of the Triple Lock.
+
+## [Sask. city councillor blasted for wanting to run homeless people 'out of town'](https://www.cbc.ca/player/play/9.7437572?cmp=rss)
+
+via CBC, Canada News · 2026-11-26, updated 2026-11-27
+
+![A man speaking on a podium.](https://i.cbc.ca/ais/f1064707-13de-4cd0-ba53-abcd0c4d0b3a,1795722102422/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B)
+
+Prince Albert city councillor Dan Brown is facing backlash after an impassioned speech at a council meeting. He suggested terminating funding for services to support homeless people — and said they should be starved and run out of town. Brown is under an ethics investigation after being accused of racism.
+
+## [Cause of plane crash northeast of Toronto that killed teen undetermined: TSB report](https://www.cbc.ca/news/canada/toronto/tsb-report-plane-crash-16-year-old-boy-9.7437497?cmp=rss)
+
+via CBC, Canada News · 2026-11-26, updated 2026-11-27
+
+![Debris of a crashed upside-down yellow seaplane on a dock in a lake. ](https://i.cbc.ca/ais/1.7588896,1752869532000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B)
+
+The Transportation Safety Board of Canada released its report Thursday on the 2025 floatplane crash that killed a 16-year-old boy when the dock he was standing on was struck by the aircraft attempting to land.
+
+## [Remains of WWII sailor recovered from Co Derry bog](https://www.rte.ie/news/ireland/2026/1126/1600823-canadian-sailor-derry/)
+
+via RTÉ News · 2026-11-26, updated 2026-11-27
+
+Almost 80 years after his plane crashed, the remains of a Canadian sailor have been recovered from a Co Derry bogland.
+
+## [Hear a judge's harsh words for killer in Saskatoon homicide](https://www.cbc.ca/player/play/9.7437252?cmp=rss)
+
+via CBC, Canada News · 2026-11-26, updated 2026-11-27
+
+![Two images: man with tattoos in the driver's seat of car (left), and man in suit (right)](https://i.cbc.ca/ais/1f2e1477-cfe0-48e0-bbe8-1daa65195d6e,1795714754570/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B)
+
+CBC obtained rare permission to share audio from inside the courtroom where Justice Richard Danyliuk sentenced Edin Vrazalica, who pleaded guilty to manslaughter in the death of Lee Perkins in February 2024.
+
+## [Cool ways to use solar panels on campus](https://www.cbc.ca/news/climate/what-on-earth-solar-western-9.7436816?cmp=rss)
+
+via CBC, Top Stories · 2026-11-26, updated 2026-11-27
+
+![Woman looks at her phone while sitting at a picnic table with a surface that is made of a solar panel](https://i.cbc.ca/ais/f0ad604c-569a-44da-822d-3eaf82ad2d83,1795695838088/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C96%2C1024%2C576%29%3B)
+
+In this issue of our environmental newsletter, we get a university campus tour featuring some neat ways to use solar panels; see what's happening to old EV batteries instead of recycling; and find out how a B.C. First Nation is protecting itself from wildfires, while showing other communities how they can too.
+
+## [Donie Nealon's name was synonymous with greatness](https://www.rte.ie/news/ireland/2026/1126/1600820-donie-nealon/)
+
+via RTÉ News · 2026-11-26, updated 2026-11-27
+
+RTÉ GAA correspondent Marty Morrissey pays tribute to his late friend, Tipperary hurling legend Donie Nealon.
+
+## [5 takeaways from RTÉ's PAC appearance](https://www.rte.ie/news/politics/2026/1126/1600813-rte-pac/)
+
+via RTÉ News · 2026-11-26, updated 2026-11-27
+
+RTÉ senior executives and high-ranking Department of Media officials today appeared at the Public Accounts Committee, where politicians asked questions about reforms at the broadcaster, a €20m funding cut, recent recruitment decisions as well as podcast funding.
+
+## [Weekly quiz: Which music icon's house did Miley Cyrus get married at?](https://www.bbc.co.uk/news/articles/c6m2lv9yy72yo?at_medium=RSS&at_campaign=rss)
+
+via BBC, US & Canada · 2026-11-26, updated 2026-11-27
+
+How much attention did you pay to what happened in the world over the past seven days?
+
+## [Taiwan Navy Receives Last Tuo Chiang-class Missile Corvettes](https://news.usni.org/2026/11/26/taiwan-navy-receives-last-tuo-chiang-class-missile-corvettes)
+
+via US Navy Institute · 2026-11-26, updated 2026-11-27
+
+The Taiwanese Navy took command of the 12th Tuo Chiang-class missile corvette last week, completing an order initiated a decade ago to bolster Taipei’s maritime strike capabilities against Beijing’s expanding fleet.  ROCS Bao Jiang (PCG-632) was delivered by Lungteh Shipbuilding to the Republic of China Navy on Nov. 19. The 600-ton catamaran is equipped with a 76mm cannon, 16 Sky Bow 2N surface-to-air missiles and a mixed loadout of Brave Wind II and III anti-ship cruise missiles.  Rated for speeds over 40 knots and designed with low-observable features, Taiwanese naval forces want to use the speedy fast attack craft to
+
+## [Thousands march during International Day for the Elimination of Violence Against Women](https://www.cbc.ca/news/world/violence-women-femicide-marches-protests-9.7437161?cmp=rss)
+
+via CBC, World News · 2026-11-26, updated 2026-11-27
+
+![A woman with red paint streaks on her face shouts and raises a fist among a crowd of people.](https://i.cbc.ca/ais/7b5507d7-b093-427c-9f05-cb84e5868de8,1795712868682/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C341%2C7729%2C4347%29%3B)
+
+Thousands of people marched at events worldwide on Wednesday to mark the International Day for the Elimination of Violence Against Women. Here's a look at some of the best photos from the day.
+
+## [After nearly 6 decades on the job, this retired CBSA officer shares stories from 'the booth'](https://www.cbc.ca/news/canada/windsor/cbsa-windsor-detroit-booth-retirement-9.7436971?cmp=rss)
+
+via CBC, Canada News · 2026-11-26, updated 2026-11-27
+
+![Anne Marie Handsor shown Nov. 23, 2026, left, and near the beginning of her border services career in the 1970s.](https://i.cbc.ca/ais/833b5c6d-88d3-42a9-9102-6d7ea3d1dd6b,1795715349699/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C56%2C1080%2C607%29%3B)
+
+Not quite 18 when she was hired, Anne Marie Handsor helped secure the border between Windsor, Ont., and Detroit, Mich., spending much of her time with the Canada Border Services Agency on the front lines at the Ambassador Bridge. Newly retired, she recalls 9/11 changes, COVID-19 crossers and celebrity encounters during her 55-year career.
+
+## [Man struck three family members with hatchet, trial told](https://www.rte.ie/news/courts/2026/1126/1600817-hatchet-attack/)
+
+via RTÉ News · 2026-11-26, updated 2026-11-27
+
+A birthday celebration ended in tragedy when a 49-year-old man produced a hatchet and struck three female family members, inflicting serious head injuries to his 81-year-old aunt that led to her death ten days later, a trial has heard.
+
+## [Cardinal Parolin: Bread must not become a hostage to war](https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-bread-must-not-become-a-hostage-to-war.html)
+
+via Vatican News · 2026-11-26, updated 2026-11-27
+
+Cardinal Pietro Parolin, Secretary of State, celebrates Mass at Rome's Basilica of Saint John Lateran in memory of the victims of the Holodomor, the tragic famine perpetrated against the Ukrainian people between 1932 and 1933.
+
+[Read all](https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-bread-must-not-become-a-hostage-to-war.html)
+
+## [Knifeman in UK guilty of attempted murder of 14 people](https://www.rte.ie/news/uk/2026/1126/1600814-anthony-williams-courts/)
+
+via RTÉ News · 2026-11-26, updated 2026-11-27
+
+A "marauding" knifeman has been found guilty of the attempted murders of 14 people, including 10 whom he stabbed on a London-bound train that made an unscheduled stop in Huntingdon.
+
+## [Archbishop of Buenos Aires: The Church’s presence in prisons is prophetic](https://www.vaticannews.va/en/vatican-city/news/2026-11/motu-proprio-prison-pastoral-ministry-archbishop-buenos-aires.html)
+
+via Vatican News · 2026-11-26, updated 2026-11-27
+
+Archbishop of Buenos Aires, Jorge García Cuerva, speaks to the Vatican’s media outlets as he begins a new mission as coordinator of the Prison Ministry Pastoral Outreach Service, established on Wednesday, November 25, by Pope Leo XIV.
+
+[Read all](https://www.vaticannews.va/en/vatican-city/news/2026-11/motu-proprio-prison-pastoral-ministry-archbishop-buenos-aires.html)
+
+## [Govt's school transport hike should be revisited - cttee](https://www.rte.ie/news/education/2026/1126/1600805-school-transport-fee-increases/)
+
+via RTÉ News · 2026-11-26, updated 2026-11-27
+
+The Chair of the Oireachtas Education Committee has said it is his belief the Government's decision to increase school transport fares for families will have to be revisited.
+
+## [Ukrainian tree gifted to the Pope planted and blessed in the Vatican Gardens](https://www.vaticannews.va/en/vatican-city/news/2026-11/ukraine-tree-planted-vatican-gardens-viburnum-diplomacy-holy-see.html)
+
+via Vatican News · 2026-11-26, updated 2026-11-27
+
+The blessing ceremony of the tree, which is a symbol of Ukrainian culture and identity, took place on the morning of November 26, in the presence of Cardinal Secretary of State Pietro Parolin, who reaffirmed the commitment of Vatican diplomacy “to a just and lasting peace.”
+
+[Read all](https://www.vaticannews.va/en/vatican-city/news/2026-11/ukraine-tree-planted-vatican-gardens-viburnum-diplomacy-holy-see.html)
+
+## [Cardinal Parolin: Universities must help humanity navigate today's challenges](https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-academic-year-pontifical-lateran-university.html)
+
+via Vatican News · 2026-11-26, updated 2026-11-27
+
+Inaugurating the Pontifical Lateran University’s academic year, Cardinal Pietro Parolin highlights the challenges posed by AI, global inequalities, and a growing logic of domination and says universities have a responsibility to interpret the complexities of the modern world, defend human dignity, and contribute to building a culture of peace.
+
+[Read all](https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-academic-year-pontifical-lateran-university.html)
+
+## [Iran denies involvement after 2 Italian technicians killed in attack on Kuwait site](https://www.cbc.ca/news/world/italian-workers-killed-kuwait-iran-strike-9.7437089?cmp=rss)
+
+via CBC, World News · 2026-11-26, updated 2026-11-27
+
+![A man wearing a suit looks on.](https://i.cbc.ca/ais/9eb3c171-16e5-4072-89a2-bad62147bbc4,1795708348214/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C321%2C6163%2C3466%29%3B)
+
+Two Italians were killed in a drone attack in Kuwait on Thursday that Italy and Kuwait blamed on Iran, although Tehran has denied any involvement.
+
+## [Man who cares for wife with brain injury wins carer award](https://www.rte.ie/news/ireland/2026/1126/1600794-ireland-carer-awards/)
+
+via RTÉ News · 2026-11-26, updated 2026-11-27
+
+A Donegal man who has cared for his wife since she suffered a brain haemorrhage 35 years ago has been named as the Lidl Family Carer of the Year 2026.
+
+## [French Startup Arsenals Unveils Modular AUV Designed for Rapid Production](https://www.navalnews.com/naval-news/2026/11/euronaval-2026-french-startup-arsenals-unveils-modular-auv/)
+
+via Navel News · 2026-11-26, updated 2026-11-27
+
+At Euronaval 2026 in Paris, Naval News spoke with Bastien Allanot, CEO and Co-Founder of French defense startup Arsenals, about its modular autonomous underwater vehicle.
+
+The post [French Startup Arsenals Unveils Modular AUV Designed for Rapid Production](https://www.navalnews.com/naval-news/2026/11/euronaval-2026-french-startup-arsenals-unveils-modular-auv/) appeared first on [Naval News](https://www.navalnews.com).
+
+## [Officer 'assumed worst' after hearing gunshots - inquest](https://www.rte.ie/news/2026/1126/1600797-sean-rooney-inquest/)
+
+via RTÉ News · 2026-11-26, updated 2026-11-27
+
+Private Seán Rooney's commanding officer "assumed the worst" after hearing gunshots and screams over a phone call with the peacekeeper's vehicle – but told an inquest into his death about efforts to reach the scene of the attack in Lebanon.
+
+## [High Court refuses to sanction BAWAG acquisition of PTSB](https://www.rte.ie/news/business/2026/1126/1600795-high-court-refuses-to-sanction-bawag-acquisition-of-ptsb/)
+
+via RTÉ News · 2026-11-26, updated 2026-11-27
+
+The High Court has refused to sanction BAWAG's proposed €1.62 billion acquisition of PTSB because the lender failed to hold a separate meeting for minority shareholders to vote on the deal.
+
+## [Peace is not simply about arms but personal relationships](https://www.vaticannews.va/en/church/news/2026-11/peace-personal-relationships-haiti-usg-uisg-pope-leo-communities.html)
+
+via Vatican News · 2026-11-26, updated 2026-11-27
+
+As leaders of men and women religious congregations meet in Rome to discuss an “unarmed and disarming peace”, Br. Mark Hilton, Superior General of the Brothers of the Sacred Heart, stresses that “one of the great witnesses today is a peaceful environment in a world that lacks peace.”
+
+[Read all](https://www.vaticannews.va/en/church/news/2026-11/peace-personal-relationships-haiti-usg-uisg-pope-leo-communities.html)
+
+## [Ebola cases reach 12,000 in Congo as second-largest outbreak on record grows](https://www.cbc.ca/news/health/ebola-tops-12000-cases-outbreak-9.7436970?cmp=rss)
+
+via CBC, World News · 2026-11-26, updated 2026-11-27
+
+![A woman holds her face as she stands outside a structure with other people in the background. Another person in the background has their hand over their face as well.](https://i.cbc.ca/ais/d283e576-9690-45aa-aca1-c086a7d833a2,1795704755405/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C153%2C5307%2C2985%29%3B)
+
+The number of confirmed Ebola cases in Democratic Republic of Congo now exceeds 12,000, government data showed on Thursday, as responders continue to struggle to bring the second-largest outbreak on record under control.
+
+## [Pope Leo to make first Advent parish pastoral visit in central Rome](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-make-first-advent-pastoral-visit-central-roman-parish.html)
+
+via Vatican News · 2026-11-26, updated 2026-11-27
+
+Pope Leo will visit on Friday, November 27, the Roman parish of Sant’Andrea delle Fratte located in the city's historic center. The pastoral visit will mark the first of five parish visits scheduled during the season of Advent.
+
+[Read all](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-make-first-advent-pastoral-visit-central-roman-parish.html)
+
+## [GAO on How the Defense Department can Address Munitions Shortages](https://news.usni.org/2026/11/26/gao-on-how-the-defense-department-can-address-munitions-shortages)
+
+via US Navy Institute · 2026-11-26, updated 2026-11-27
+
+The following is the Nov. 19, 2026, Government Accountability Office report, DOD Munitions: Planning and Leadership Needed to Address Persistent Shortages. The report was submitted to the House of Representative’s Committee on Armed Services.  From the Report A key part of military readiness is having a reliable supply of munitions, including bombs, missiles, and torpedoes. But the Department of Defense has faced persistent munitions shortages. The 2026 conflict with Iran only reinforced the challenges with the munitions inventory. DOD has taken steps toward increasing its inventory, but could do more. For example, DOD doesn’t have an overarching plan that identifies
+
+## [Present and past UK PMs attend Ann Widdecombe's memorial](https://www.rte.ie/news/world/2026/1126/1600785-ann-widdecombe-memorial/)
+
+via RTÉ News · 2026-11-26, updated 2026-11-27
+
+UK Prime Minister Andy Burnham and several former prime ministers came together at a memorial service for late ex-minister Ann Widdecombe.
+
+## [Germany and Austria call for European ownership of TikTok](https://www.rte.ie/news/business/2026/1126/1600787-germany-and-austria-call-for-european-ownership-of-tiktok/)
+
+via RTÉ News · 2026-11-26, updated 2026-11-27
+
+Germany and Austria have called for TikTok's European business to be placed under European ownership and control, arguing that regulation alone cannot address concerns over data access and algorithms.
+
+## [Award named after Princess Diana enters administration](https://www.rte.ie/news/world/2026/1126/1600783-diana-award-administration/)
+
+via RTÉ News · 2026-11-26, updated 2026-11-27
+
+The Diana Award, set up in tribute to the late Princess of Wales, has been placed into administration, the charity has announced.
 
 ## [US Army detonates toxic explosives in Iowa despite contamination fears](https://www.koreatimes.co.kr/world/20261126/us-army-detonates-toxic-explosives-in-iowa-despite-contamination-fears?utm_source=rss)
 
@@ -658,13 +1997,27 @@ via Korea Times · 2026-11-26
 
 Director Na Hong-jin's sci-fi thriller "Hope" won best picture at the 47th Blue Dragon Film Awards on Wednesday, while Lee Chang-dong's "Possible Love" emerged as the night's biggest winner with four awards, including both top acting honors. "Hope," which competed at this year's Cannes Film Festival, entered the ceremony at KBS Hall in Seoul with 10 nominations. In addition to best picture, it also won awards for cinematography and lighting. Accepting the best picture trophy, Na drew laughter from the audience by joking that he should have won the award at Cannes. "They should have given me this at Cannes. Why here instead?" he said. Na then credited the cast and crew, describing the experience of making the film as one of the happiest and most memorable times of his life. Lee's "Possible Love," which won the Grand Jury Prize at this year's Venice International Film Festival, dominated the acting categories. Sul Kyung-gu and Jeon Do-yeon, who play a married couple in the drama exploring class divisions, won best actor and best actress, respectively. Their co-star Cho Yeo-jeong took home be
 
+## [Meningitis cases rising in Gaza amid water crisis, UN says](https://www.vaticannews.va/en/world/news/2026-11/gaza-meningitis-united-nations-israeli-attacks-displaced-persons.html)
+
+via Vatican News · 2026-11-26, updated 2026-11-27
+
+Meningitis cases are rising in Gaza amid a deepening water and sanitation crisis.
+
+[Read all](https://www.vaticannews.va/en/world/news/2026-11/gaza-meningitis-united-nations-israeli-attacks-displaced-persons.html)
+
 ## [UK MOD Awards Babcock Record £8.7B ‘Gateway’ Submarine Support Deal](https://www.navalnews.com/naval-news/2026/11/uk-mod-awards-babcock-record-8-7b-gateway-submarine-support-deal/)
 
-via Navel News · 2026-11-26
+via Navel News · 2026-11-26, updated 2026-11-27
 
 Babcock has signed a record £8.7 billion Gateway Agreement with the UK Ministry of Defence to succeed the Future Maritime Support Programme.
 
 The post [UK MOD Awards Babcock Record £8.7B ‘Gateway’ Submarine Support Deal](https://www.navalnews.com/naval-news/2026/11/uk-mod-awards-babcock-record-8-7b-gateway-submarine-support-deal/) appeared first on [Naval News](https://www.navalnews.com).
+
+## [Eurozone members pick Spain's De Cos as next ECB chief](https://www.rte.ie/news/business/2026/1126/1600777-new-ecb-president/)
+
+via RTÉ News · 2026-11-26, updated 2026-11-27
+
+Euro area ⁠member states have agreed to recommend former governor of the Spanish central bank Pablo Hernández de Cos as the next president of the European Central Bank, EU ⁠Council President ‌António Costa has said.
 
 ## [UK net migration at lowest level since 1997 as asylum claims also fall](https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss)
 
@@ -674,7 +2027,7 @@ Net migration figures of 77,000 in the year to the end of June mark the lowest t
 
 ## [Gerard Depardieu to face trial for rape, lawyer says](https://www.rte.ie/news/europe/2026/1126/1600774-gerard-depardieu-trial/)
 
-via RTÉ News · 2026-11-26
+via RTÉ News · 2026-11-26, updated 2026-11-27
 
 Gerard Depardieu, one of the leading faces of French cinema, will face trial on charges of raping actress Charlotte Arnould in 2018, his lawyer has said.
 
@@ -684,11 +2037,11 @@ via BBC, US & Canada · 2026-11-26
 
 More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.
 
-## [Jury in Faulkner case asked to hold alleged murder weapon](https://www.rte.ie/news/courts/2026/1126/1600771-murder-trial-scarlett-faulkner/)
+## [Jury told murder accused was not a 'manic killer'](https://www.rte.ie/news/courts/2026/1126/1600771-murder-trial-scarlett-faulkner/)
 
-via RTÉ News · 2026-11-26
+via RTÉ News · 2026-11-26, updated 2026-11-27
 
-The jury in the trial of a woman and a teenager charged with the murder of Scarlett Faulkner at Birdhill, Co Tipperary, earlier this year has been asked to hold and examine the alleged murder weapon.
+The jury in the trial of a teenager accused of murdering Scarlett Faulkner in a roadside attack last March, has been told she was a vulnerable young child and not a manic killer.
 
 ## [William expresses sadness as Diana Award charity goes into administration](https://www.bbc.co.uk/news/articles/cwvg2nmd9n8yo?at_medium=RSS&at_campaign=rss)
 
@@ -716,7 +2069,7 @@ It comes after reports that reservists have received letters telling them to pre
 
 ## [Three more teens in court over wrong-way crash on M50](https://www.rte.ie/news/courts/2026/1126/1600769-dublin-m50-case/)
 
-via RTÉ News · 2026-11-26
+via RTÉ News · 2026-11-26, updated 2026-11-27
 
 Three teenagers have been charged with being in a stolen car when it was involved in a head-on collision with another car after being driven the wrong way on the M50 in Dublin.
 
@@ -736,9 +2089,9 @@ In September 2025, _Democracy Now!_ host Amy Goodman sat down with longtime poli
 
 “We still have to live under that, that fear of losing our identity, losing our culture, our religion,” Peltier says about his continued commitment to Indigenous rights. “The struggle still goes on for me. I’m not going to give up.”
 
-## [Care firm admits liability over fatal assault of resident](https://www.rte.ie/news/ireland/2026/1126/1600764-paul-burke-settlement/)
+## [Fatal attack on man in care home 'unforgivable' - mother](https://www.rte.ie/news/ireland/2026/1126/1600764-paul-burke-settlement/)
 
-via RTÉ News · 2026-11-26
+via RTÉ News · 2026-11-26, updated 2026-11-27
 
 A residential care company has admitted liability and failings in its care over the death of a 31-year-old man who suffered a catastrophic brain injury when he was assaulted by another resident.
 
@@ -750,7 +2103,7 @@ Simon Le Bon and his other bandmates say Taylor "brought an indelible fire and s
 
 ## [Finucane probe to hold UK govt, PSNI to promises - chair](https://www.rte.ie/news/ulster/2026/1126/1600759-pat-finucane-inquiry/)
 
-via RTÉ News · 2026-11-26
+via RTÉ News · 2026-11-26, updated 2026-11-27
 
 The chairman of the Pat Finucane Inquiry says he will hold the UK government and the PSNI to their promises to divulge what they know about the 1989 murder of the Belfast solicitor.
 
@@ -760,17 +2113,35 @@ via BBC, US & Canada · 2026-11-26
 
 Lord Mann says he has launched the investigation after "growing discomfort among Jewish BBC staff".
 
-## [Temu commits to changing some commercial practices in EU](https://www.rte.ie/news/business/2026/1126/1600757-temu-commits-to-changing-some-commercial-practices-in-eu/)
+## [Temu commits to making returns and refunds easier in EU](https://www.rte.ie/news/business/2026/1126/1600757-temu-commits-to-changing-some-commercial-practices-in-eu/)
 
-via RTÉ News · 2026-11-26
+via RTÉ News · 2026-11-26, updated 2026-11-27
 
-Chinese e-commerce giant ⁠Temu has committed to bringing several of its commercial practices inline with EU consumer protection laws, the Competition and Consumer Protection Commission and European Commission said today.
+Chinese e-commerce giant ⁠Temu will make it easier to return goods and receive refunds as part of a raft of commitments by the Chinese-owned online retailer to avoid a fine, the EU said today.
 
 ## [Data breaches are coming fast and furious. Are businesses doing enough to protect your data?](https://www.cbc.ca/news/business/data-breaches-ai-data-protection-9.7436341?cmp=rss)
 
 via CBC, Top Stories · 2026-11-26
 
 ![a man sits in front of a computer with the words "data breach" and lines of code running across the screen](https://i.cbc.ca/ais/69eec3be-25fb-4c30-acdf-1e14467b4ffc,1795647358124/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4000%2C2250%29%3B)
+
+## [DR Congo: Peacekepers step up civilian protection amid fighting in Ituri](https://news.un.org/feed/view/en/story/2026/11/1168883)
+
+via United Nations, Top Stories · 2026-11-26, updated 2026-11-27
+
+United Nations peacekeepers in the Democratic Republic of the Congo (DRC) have stepped up efforts to protect civilians in Ebola-hit Ituri province following renewed armed clashes in Djugu territory.
+
+## [‘Come right now’: How a crisis centre in Samarkand helps women escape violence](https://news.un.org/feed/view/en/story/2026/11/1168878)
+
+via United Nations, Top Stories · 2026-11-26, updated 2026-11-27
+
+Irina\* paced the apartment. Her husband had come home drunk again, and she knew the beatings would follow.
+
+## [Maritime trade stagnates amid geopolitical uncertainty](https://news.un.org/feed/view/en/story/2026/11/1168884)
+
+via United Nations, Economic Development · 2026-11-26, updated 2026-11-27
+
+Seaborne trade that underpins the global economy continues to slow, while disruption from conflict and climate-related factors is hitting least-developed economies and small island nations hardest, UN economists said on Thursday.
 
 ## [Flood watch in place on Vancouver Island as king tide impact continues](https://www.cbc.ca/news/canada/british-columbia/flood-watch-king-tides-british-columbia-storm-9.7436709?cmp=rss)
 
@@ -779,18 +2150,6 @@ via CBC, Top Stories · 2026-11-26
 ![A person is seen on a riverbank, underneath a bridge, on a cloudy day.](https://i.cbc.ca/ais/e5ec6237-60f1-460a-b44b-fefda1f1904c,1795662649188/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B)
 
 A flood watch is in place for eastern Vancouver Island as the B.C. coast continues to deal with a series of storms that are combining with unusually high tides on Thursday.
-
-## [Maritime trade stagnates amid geopolitical uncertainty](https://news.un.org/feed/view/en/story/2026/11/1168884)
-
-via United Nations, Top Stories · 2026-11-26
-
-Seaborne trade that underpins the global economy continues to slow, while disruption from conflict and climate-related factors is hitting least-developed economies and small island nations hardest, UN economists said on Thursday.
-
-## [DR Congo: Peacekepers step up civilian protection amid fighting in Ituri](https://news.un.org/feed/view/en/story/2026/11/1168883)
-
-via United Nations, Top Stories · 2026-11-26
-
-United Nations peacekeepers in the Democratic Republic of the Congo (DRC) have stepped up efforts to protect civilians in Ebola-hit Ituri province following renewed armed clashes in Djugu territory.
 
 ## [Every day is living hell, says dad of boy, 2, murdered by grandparents](https://www.bbc.co.uk/news/articles/c8g46r0lnnw3o?at_medium=RSS&at_campaign=rss)
 
@@ -814,15 +2173,15 @@ Toronto police have identified a suspect vehicle tied to a fatal shooting and at
 
 ## [Pope urges religious superiors to 'serve with charity' to build unity and peace](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-audience-usg-uisg-religious-superiors-audience-peace.html)
 
-via Vatican News · 2026-11-26
+via Vatican News · 2026-11-26, updated 2026-11-27
 
-Meeting more than 250 superiors general at the conclusion of the second Joint Assembly of the UISG and USG, the Pope calls consecrated men and women to be artisans of peace, witnesses of fraternity and responsible guides in a divided world.
+Meeting more than 250 superiors general as they are in Rome to participate in the second Joint Assembly of the UISG and USG, the Pope calls consecrated men and women to be artisans of peace, witnesses of fraternity and responsible guides in a divided world.
 
 [Read all](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-audience-usg-uisg-religious-superiors-audience-peace.html)
 
 ## [Pope: Integral human development is inseparable from evangelization](https://www.vaticannews.va/en/pope/news/2026-11/pope-integral-human-development-inseparable-from-evangelization.html)
 
-via Vatican News · 2026-11-26
+via Vatican News · 2026-11-26, updated 2026-11-27
 
 Meeting with members of the Dicastery for Promoting Integral Human Development for their Plenary Assembly, Pope Leo warns against reducing the Gospel to a social programme or separating it from people’s concrete lives. Rather, he says all are called to “remove obstacles and unleash the potential for good.”
 
@@ -830,7 +2189,7 @@ Meeting with members of the Dicastery for Promoting Integral Human Development f
 
 ## [Pope: Authentic dialogue necessary in today’s geopolitical landscape](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-interreligious-dialogue-peace-conflict-education-war.html)
 
-via Vatican News · 2026-11-26
+via Vatican News · 2026-11-26, updated 2026-11-27
 
 In a meeting with those participating in the Plenary Assembly of the Dicastery for Interreligious Dialogue, Pope Leo XIV insists on the importance of dialogue and forming people’s consciences in the face of conflicts, weakening trust and rapid technological developments.
 
@@ -852,21 +2211,21 @@ Text of the treaties will be published this afternoon, alongside legislation des
 
 ## [FedEx airplane overruns runway at Miami airport, temporarily closing all but 1 runway](https://www.cbc.ca/news/world/fedex-plane-miami-overrun-runway-9.7436760?cmp=rss)
 
-via CBC, World News · 2026-11-26
+via CBC, World News · 2026-11-26, updated 2026-11-27
 
 ![A FedEx cargo plane sits on a runway at night.](https://i.cbc.ca/ais/5bcff81a-5000-4df5-81b6-038ede5c5d7b,1795678745006/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C190%2C3571%2C2008%29%3B)
 
 There were no reports of injuries after the plane ran off the runway at about 8:40 p.m. ET, the airport reported. By early Thursday, the Federal Aviation Administration was reporting hourslong flight delays.
 
-## [Nine killed in overnight Israeli attacks - medics](https://www.rte.ie/news/world/2026/1126/1600737-nine-killed-gaza-abu-nada/)
+## [Katz threatens to displace 1m in Gaza unless Hamas disarm](https://www.rte.ie/news/world/2026/1126/1600737-nine-killed-gaza-abu-nada/)
 
-via RTÉ News · 2026-11-26
+via RTÉ News · 2026-11-26, updated 2026-11-27
 
-At least nine Palestinians were ⁠killed, including the Hamas-appointed deputy minister of education, in a third consecutive night of Israeli strikes and gunfire on Gaza, according to medics.
+Israeli Defense Minister Israel Katz as threatened to displace 1 million Palestinians in Gaza unless Hamas gives up its weapons
 
 ## [Nvidia scandal has put Singapore in U.S. sights. What's at stake for the city-state](https://www.cbc.ca/news/world/nvidia-singapore-9.7436761?cmp=rss)
 
-via CBC, World News · 2026-11-26
+via CBC, World News · 2026-11-26, updated 2026-11-27
 
 ![People with backpacks walk beneath several glass skyscrapers in Singapore](https://i.cbc.ca/ais/2a8d19f6-4aeb-4437-821c-0ecd56f8d1cf,1795684329012/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B)
 
@@ -874,7 +2233,7 @@ The Nvidia crisis has put Singapore squarely in Washington’s sights amid conce
 
 ## [Lockheed Martin Unveils Weapons Suite for Gibbs & Cox’s International Class Frigate](https://www.navalnews.com/naval-news/2026/11/lockheed-martin-weapons-suite-international-class-frigate/)
 
-via Navel News · 2026-11-26
+via Navel News · 2026-11-26, updated 2026-11-27
 
 At Euronaval 2026, Lockheed Martin unveiled a mid-range weapons suite for Gibbs & Cox’s International Class Frigate, pairing VLS cells with JAGM launchers.
 
@@ -891,6 +2250,14 @@ The deal will allow "work around the clock to get our submarines back out to sea
 via RTÉ News · 2026-11-26
 
 Two men who were arrested as part of the investigation into a fire that killed five family members in Waterford, have been released without charge.
+
+## [Where big U.S. unions stand on Trump's Canada tariffs](https://www.cbc.ca/news/world/trump-tariffs-canada-unions-auto-steel-uaw-usw-afl-cio-9.7435501?cmp=rss)
+
+via CBC, World News · 2026-11-26, updated 2026-11-27
+
+![A small crowd of people on a stage, some holding signs that say 'We Stand With The UAW'](https://i.cbc.ca/ais/abc5fad2-28e9-4064-ade1-00728ace559f,1795629563989/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C262%2C4176%2C2349%29%3B)
+
+While U.S. President Donald Trump insists his tariffs will bring a boom in factory jobs, the unions who represent hundreds of thousands of manufacturing workers are largely skeptical of his approach. Nowhere is that skepticism more apparent than big labour's view of Trump's tariffs on imports from Canada.
 
 ## [The 'unity' fight splitting Danielle Smith's party intensifies at UCP convention](https://www.cbc.ca/news/canada/calgary/analysis-ucp-convention-loyalists-independence-board-alberta-danielle-smith-9.7436015?cmp=rss)
 
@@ -940,37 +2307,29 @@ via CBC, Top Stories · 2026-11-26
 
 A coalition of countries has decided that rather than accept a bad deal, they will meet on their own, separately, outside the UN process to tackle the problem amongst their like-minded allies.
 
-## [Where big U.S. unions stand on Trump's Canada tariffs](https://www.cbc.ca/news/world/trump-tariffs-canada-unions-auto-steel-uaw-usw-afl-cio-9.7435501?cmp=rss)
-
-via CBC, World News · 2026-11-26
-
-![A small crowd of people on a stage, some holding signs that say 'We Stand With The UAW'](https://i.cbc.ca/ais/abc5fad2-28e9-4064-ade1-00728ace559f,1795629563989/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C262%2C4176%2C2349%29%3B)
-
-While U.S. President Donald Trump insists his tariffs will bring a boom in factory jobs, the unions who represent hundreds of thousands of manufacturing workers are largely skeptical of his approach. Nowhere is that skepticism more apparent than big labour's view of Trump's tariffs on imports from Canada.
-
 ## [Euronaval 2026: Euroatlas and EvoLogics Move Greyshark AUV into Series Production](https://www.navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-euroatlas-evologics-greyshark-uuv-series-production/)
 
-via Navel News · 2026-11-26
+via Navel News · 2026-11-26, updated 2026-11-27
 
 Euroatlas and EvoLogics have moved the battery-powered Greyshark Bravo UUV into series production, with first deliveries scheduled before the end of 2026.
 
 The post [Euronaval 2026: Euroatlas and EvoLogics Move Greyshark AUV into Series Production](https://www.navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-euroatlas-evologics-greyshark-uuv-series-production/) appeared first on [Naval News](https://www.navalnews.com).
 
-## [RTÉ appears before PAC; pressure mounts on HSE board](https://www.rte.ie/news/ireland/2026/1126/1600729-politics-ireland/)
+## [Recap: Health Cttee waiting to hear from HSE board](https://www.rte.ie/news/ireland/2026/1126/1600729-politics-ireland/)
 
-via RTÉ News · 2026-11-26
+via RTÉ News · 2026-11-26, updated 2026-11-27
 
 Follow live developments as RTÉ executives appear before the Public Accounts Committee and pressure mounts on the HSE board to elaborate on the events leading to CEO Anne O'Connor's dismissal.
 
 ## [Nepal moves to declare dead those missing after floods](https://www.rte.ie/news/2026/1126/1600726-nepal-floods/)
 
-via RTÉ News · 2026-11-26
+via RTÉ News · 2026-11-26, updated 2026-11-27
 
 Nepal has begun a process to legally declare dead thousands of people still missing after its catastrophic summer floods, authorities have said, three months after the disaster.
 
 ## [French Navy Trains with Philippine Coast Guard Ship from Taiwan](https://www.navalnews.com/naval-news/2026/11/french-navy-trains-with-philippine-coast-guard-ship-from-taiwan/)
 
-via Navel News · 2026-11-26
+via Navel News · 2026-11-26, updated 2026-11-27
 
 The French Navy trained with the Philippine Coast Guard’s ex-Taiwanese patrol cutter BRP Sarangani and frigate BRP Diego Silang in the Sulu Sea.
 
@@ -1008,21 +2367,29 @@ Graduates of the University of Galway's journalism and Global Media programmes f
 
 ## [Eight months: What we know about the sacking of a HSE CEO](https://www.rte.ie/news/primetime/2026/1126/1600685-clarity-anne-o-connor/)
 
-via RTÉ News · 2026-11-26
+via RTÉ News · 2026-11-26, updated 2026-11-27
 
 What is known about how Anne O'Connor went from being the best candidate for one of the most difficult jobs in the public service, to being fired less than eight months later?
 
 ## [Rare disease patients cite staffing for drug access delay](https://www.rte.ie/news/2026/1126/1600676-spinal-muscular-atrophy-drug/)
 
-via RTÉ News · 2026-11-26
+via RTÉ News · 2026-11-26, updated 2026-11-27
 
 Patients with Spinal Muscular Atrophy say they are unable to access an approved drug for the rare condition due to staffing shortages at the main treatment centre.
 
 ## [EU tax on tech giants sends 'wrong message' - Martin](https://www.rte.ie/news/europe/2026/1126/1600694-taoiseach-eu-budget/)
 
-via RTÉ News · 2026-11-26
+via RTÉ News · 2026-11-26, updated 2026-11-27
 
-Taoiseach Micheál Martin has said Ireland is opposed to a tax on tech giants as one way of raising extra revenue for the long-term EU budget.
+Ireland is opposed to a tax on tech giants as one way of raising extra revenue for the long-term EU budget, Taoiseach Micheál Martin has said.
+
+## [Human dignity and care for our common home are non negotiable](https://www.vaticannews.va/en/church/news/2026-11/cop31-catholic-organizations-protect-humanity-common-home.html)
+
+via Vatican News · 2026-11-26, updated 2026-11-27
+
+Catholic organizations that took part in the COP31 climate summit in Antalya, co-chaired by Türkiye and Australia, express their disappointment at the lack of consensus on moving away from fossil fuels, but also their hope for what comes next.
+
+[Read all](https://www.vaticannews.va/en/church/news/2026-11/cop31-catholic-organizations-protect-humanity-common-home.html)
 
 ## [I regret surviving the e-bike fire that killed my family](https://www.bbc.co.uk/news/articles/c9n73yp1g057o?at_medium=RSS&at_campaign=rss)
 
@@ -1030,11 +2397,11 @@ via BBC, US & Canada · 2026-11-26
 
 Scott Peden says he was powerless to put out the fatal fire that tore through the family's home.
 
-## [Kremlin accuses Ukraine of trying to widen conflict zone](https://www.rte.ie/news/ukraine/2026/1126/1600710-ukraine-war/)
+## [Ukraine rejects Russian accusation of widening conflict](https://www.rte.ie/news/ukraine/2026/1126/1600710-ukraine-war/)
 
-via RTÉ News · 2026-11-26
+via RTÉ News · 2026-11-26, updated 2026-11-27
 
-The Kremlin has accused Ukraine of trying to spread the war it is fighting against Russia to the Mediterranean and Baltics seas, ⁠a move it called very dangerous.
+Ukraine was not attempting to spread the war with Russia to Libyan shores by attacking two Russian ships off the coast of Benghazi, Kyiv's Foreign Minister Andriy Sybiga said today.
 
 ## [Watch: BBC confronts German man suspected of supplying migrant gangs with small boats](https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss)
 
@@ -1054,15 +2421,15 @@ via RTÉ News · 2026-11-26
 
 With no end to the controversy around Anne O'Connor's sacking as HSE chief in sight, it is very much a case of "danger here" for the HSE board, the Minister for Health and the Government, writes Barry Lenihan.
 
-## [HSE board to appear before cttee over O'Connor sacking](https://www.rte.ie/news/politics/2026/1126/1600709-politics-hse-ireland/)
+## [HSE board expected to appear at cttee over CEO sacking](https://www.rte.ie/news/politics/2026/1126/1600709-politics-hse-ireland/)
 
-via RTÉ News · 2026-11-26
+via RTÉ News · 2026-11-26, updated 2026-11-27
 
-The board of the HSE is to appear before the Oireachtas health committee next week to answer questions about its controversial sacking of former chief executive Anne O'Connor.
+The board of the HSE is expected to appear before the Oireachtas health committee next week to answer questions about its controversial sacking of former chief executive Anne O'Connor.
 
 ## [Judge blocks FCC review of Disney's ABC stations, says Trump administration appears retaliatory](https://www.cbc.ca/news/world/judge-blocks-fcc-revoking-abc-licences-9.7436635?cmp=rss)
 
-via CBC, World News · 2026-11-26
+via CBC, World News · 2026-11-26, updated 2026-11-27
 
 ![A man wearing glasses and a suit speaks at a podium during a meeting.](https://i.cbc.ca/ais/a7abe22c-6237-4cee-b934-7c8281b29e4c,1795656578066/full/max/0/default.jpg?im=Crop%2Crect%3D%28739%2C1505%2C4294%2C2415%29%3B)
 
@@ -1074,11 +2441,11 @@ via RTÉ News · 2026-11-26
 
 A Status Yellow fog warning for 17 counties across the country has ended.
 
-## [Liquidation of HSI confirmed with loss of around 40 jobs](https://www.rte.ie/news/ireland/2026/1126/1600689-horse-sport-ireland/)
+## ['Extensive efforts' to avoid HSI liquidation - minister](https://www.rte.ie/news/ireland/2026/1126/1600689-horse-sport-ireland/)
 
-via RTÉ News · 2026-11-26
+via RTÉ News · 2026-11-26, updated 2026-11-27
 
-The liquidation of Horse Sport Ireland (HSI), the country's governing body for equestrian sport, has been confirmed at the High Court this afternoon.
+"Extensive efforts" were made to avoid the liquidation of Horse Sport Ireland, Minister for Agriculture, Food and the Marine Martin Heydon has said.
 
 ## [Macy's postpones Thanksgiving Day parade over major storm](https://www.rte.ie/news/us/2026/1126/1600707-thanksgiving-parade-us/)
 
@@ -1096,13 +2463,13 @@ Conservative Leader Pierre Poilievre says one of his constituents — a nurse wh
 
 ## [Reform not keeping pace with RTÉ's timelines, PAC hears](https://www.rte.ie/news/ireland/2026/1126/1600705-rte-politics-ireland/)
 
-via RTÉ News · 2026-11-26
+via RTÉ News · 2026-11-26, updated 2026-11-27
 
 The Committee of Public Accounts has been told that while RTÉ has delivered on many of its reform commitments, implementation has not kept pace with the timelines set by the broadcaster.
 
 ## [Indonesian Navy Takes Delivery of 58-Knot Missile-Capable USV](https://www.navalnews.com/naval-news/2026/11/indonesian-navy-ksr-x33-missile-usv/)
 
-via Navel News · 2026-11-26
+via Navel News · 2026-11-26, updated 2026-11-27
 
 North Sea Boats has delivered the first Indonesian Navy KSR X33, a 58-knot missile-capable USV commissioned as Patkamla Geledek, for coastal defence.
 
@@ -1118,7 +2485,7 @@ The lawsuit, filed by Trina's mother, brother and sister-in-law, asks the B.C. S
 
 ## [Brad Pitt, Angelina Jolie settle dispute over French estate Château Miraval](https://www.cbc.ca/news/entertainment/pitt-jolie-miraval-lawsuits-allegations-9.7436552?cmp=rss)
 
-via CBC, World News · 2026-11-26
+via CBC, World News · 2026-11-26, updated 2026-11-27
 
 ![A composite image showing a portrait of a man with a goatee wearing tinted glasses, at left, and a woman with long hair looking to towards the right.](https://i.cbc.ca/ais/58143663-9c20-41fe-8b83-49a3d5380825,1795651209808/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1600%2C900%29%3B)
 
@@ -1156,7 +2523,7 @@ The 41-year-old was found dead in August following weeks of media coverage over 
 
 ## [Cave bones study alters date of human settlers in Ireland](https://www.rte.ie/news/2026/1126/1600681-animal-bones-waterford/)
 
-via RTÉ News · 2026-11-26
+via RTÉ News · 2026-11-26, updated 2026-11-27
 
 New excavations in a Waterford cave and a fresh examination of animal bones from the late 1800s found in the same area may show that humans lived in Ireland nearly 1,000 years earlier than currently confirmed, according to a study.
 
@@ -1168,7 +2535,7 @@ Almost half of Irish shoppers say they have encountered a suspected online shopp
 
 ## [Manitoba premier dismisses renewed calls for child welfare system inquiry after girl's death](https://www.cbc.ca/news/canada/manitoba/baileigh-berens-cfs-girl-death-inquiry-calls-9.7436145?cmp=rss)
 
-via CBC, Canada News · 2026-11-25, updated 2026-11-26
+via CBC, Indigenious News · 2026-11-25, updated 2026-11-26
 
 ![A photo of a young child.](https://i.cbc.ca/ais/ab3c275d-844f-45dc-a3f1-90f39328f922,1795555756984/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C410%2C9425%2C5301%29%3B)
 
@@ -1176,7 +2543,7 @@ Manitoba's premier says his government already knows what's needed to fix the ch
 
 ## [Pig kidney transplant patient marks 1 year without dialysis in medical breakthrough](https://www.cbc.ca/radio/asithappens/pig-kidney-transplant-one-year-9.7436372?cmp=rss)
 
-via CBC, World News · 2026-11-25, updated 2026-11-26
+via CBC, World News · 2026-11-25, updated 2026-11-27
 
 ![A woman lies in a hospital bed, her head propped up on one hand. Behind her is a crocheted lily in a glass.](https://i.cbc.ca/ais/327537fa-7d87-4f87-a053-7d8f9460b8a5,1795645981387/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C192%2C2048%2C1152%29%3B)
 
@@ -1184,7 +2551,7 @@ It's been more than a year since Molly Falco underwent experimental surgery to r
 
 ## [Ahousaht declares state of emergency as storm and king tides batter west coast of Vancouver Island](https://www.cbc.ca/news/indigenous/ahousaht-state-emergency-storm-king-tide-9.7436291?cmp=rss)
 
-via CBC, Indigenious News · 2026-11-25
+via CBC, Indigenious News · 2026-11-25, updated 2026-11-26
 
 ![A flooded beach.](https://i.cbc.ca/ais/c25c402d-6070-4b57-b666-6a4ba1b65c01,1795643688267/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B)
 
@@ -1236,7 +2603,7 @@ Macy's 100th annual U.S. Thanksgiving Day Parade has been postponed from Thursda
 
 ## [Andy Taylor, guitarist of new wave icons Duran Duran, dead at 65](https://www.cbc.ca/news/entertainment/duran-duran-guitarist-andy-taylor-dead-9.7436261?cmp=rss)
 
-via CBC, World News · 2026-11-25, updated 2026-11-26
+via CBC, World News · 2026-11-25, updated 2026-11-27
 
 ![A man wearing sunglasses playing guitar on stage.](https://i.cbc.ca/ais/ed510afd-f032-4244-abeb-cb520c39b37f,1795646843622/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C29%2C3000%2C1687%29%3B)
 
@@ -1250,7 +2617,7 @@ How a wayward child from the north-east of England made it with the world's bigg
 
 ## [At least 31 dead after fuel tanker fire in Egypt](https://www.cbc.ca/news/world/egypt-fire-petroleum-vehicle-overturns-9.7436271?cmp=rss)
 
-via CBC, World News · 2026-11-25, updated 2026-11-26
+via CBC, World News · 2026-11-25, updated 2026-11-27
 
 ![A fire at night.](https://i.cbc.ca/ais/c5431289-648a-4c87-819b-5ec958f67888,1795643556639/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C3018%2C1697%29%3B)
 
@@ -1296,7 +2663,7 @@ Qatar is partnering with Ottawa to provide consular services to Canadians in Afg
 
 ## [Australia Receives First Virginia-Class Submarine Simulator at HMAS Stirling](https://www.navalnews.com/naval-news/2026/11/australia-first-virginia-class-submarine-simulator-hmas-stirling/)
 
-via Navel News · 2026-11-25, updated 2026-11-26
+via Navel News · 2026-11-25, updated 2026-11-27
 
 Australia has received its first Virginia-class submarine training systems, including the VSCOT ship control simulator, at HMAS Stirling under AUKUS.
 
@@ -1334,13 +2701,13 @@ Surveillance video shows one of so-called "Crypto King" Aiden Pleterski's allege
 
 ## [Talking Climate Around the Holiday Table](https://www.talkingclimate.ca/p/talking-climate-around-the-holiday)
 
-via Talking Climate · 2026-11-25, updated 2026-11-26
+via Talking Climate · 2026-11-25, updated 2026-11-27
 
 Four myths about climate conversations that might be holding you back
 
 ## [NATO's No. 2 commander strikes different tone on Canada than Pentagon](https://www.cbc.ca/news/politics/defence-spending-pentagon-nato-carney-9.7435919?cmp=rss)
 
-via CBC, World News · 2026-11-25, updated 2026-11-26
+via CBC, World News · 2026-11-25, updated 2026-11-27
 
 ![A man in military fatigues sitting in a chair.](https://i.cbc.ca/ais/f4914af2-0625-4a31-8794-a19731dcd709,1795635682295/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C2768%2C1557%29%3B)
 
@@ -1362,7 +2729,7 @@ Taoiseach Micheál Martin has indicated the Government may review some of the pl
 
 ## [Marine Corps Sets New Water Survival Requirements](https://news.usni.org/2026/11/25/marine-corps-sets-new-water-survival-requirements)
 
-via US Navy Institute · 2026-11-25
+via US Navy Institute · 2026-11-25, updated 2026-11-27
 
 The Marines have a new minimum fleet requirement for water survival, according to a policy released earlier this month.  Under the new water survival novice qualification, Marines will need to complete a 50-meter self-rescue, demonstrate at least one identifiable stroke, perform a “stay at surface” for five minutes that includes preparing a blouse inflation, a shallow-water gear shed and a 25-meter “employ float gear.”  The qualification will be valid for two years.  While water survival novice is the minimum qualification for the fleet, the minimum standard for recruit graduation remains at water survival basic, for those who cannot meet the
 
@@ -1470,7 +2837,7 @@ The Secretary General of the Department of Media will defend a move by Minister 
 
 ## [Marine Corps Trials Portable 5G Network for Deployments](https://news.usni.org/2026/11/25/marine-corps-trials-portable-5g-network-for-deployments)
 
-via US Navy Institute · 2026-11-25
+via US Navy Institute · 2026-11-25, updated 2026-11-27
 
 The Marine Corps is trialling a portable system that will provide units with a private 5G network enabling Marines to maintain communications while operating across dispersed locations.  The use of the Tactical High-Bandwidth, Low-Latency Minimum Viable Product, or Tactical HiBaLL MVP, is being explored by Program Manager Marine Air-Ground Task Force Command and Control (PM MAGTF C2), part of Portfolio Acquisition Executive Marine Corps (PAE MC), reads a PAE MC news release published on Friday. At the center of the capability are tactical networking nodes in a portable system that provide cellular network capabilities in environments where traditional infrastructure may
 
@@ -1482,7 +2849,7 @@ Chef Gordon Ramsay will take over as the new lead host of Top Gear when it retur
 
 ## [Italian Navy’s First ‘Full’ PPA Giovanni delle Bande Nere Demonstrates BMD Capabilities](https://www.navalnews.com/naval-news/2026/11/italian-navy-bmd-ppa-bande-nere/)
 
-via Navel News · 2026-11-25, updated 2026-11-26
+via Navel News · 2026-11-25, updated 2026-11-27
 
 In a major Italian Navy BMD milestone, the first ‘Full’ MPCS/PPA Giovanni delle Bande Nere intercepted a high-speed ballistic missile using Aster 30.
 
@@ -1592,7 +2959,7 @@ The new levies would hit many of America's biggest trading partners, including C
 
 ## [COP31 and the courage to say no](https://www.talkingclimate.ca/p/cop31-and-the-courage-to-say-no)
 
-via Talking Climate · 2026-11-25, updated 2026-11-26
+via Talking Climate · 2026-11-25, updated 2026-11-27
 
 Climate gets more screen time, COP31 ends without a deal, and how to find your climate role
 
@@ -1622,7 +2989,7 @@ The lawyers for convicted murderer Christa Pike say the full extent of the injur
 
 ## [New ‘Green Lava’ trailer brings Giacomo Mattivi’s story to wider audience](https://www.vaticannews.va/en/vatican-city/news/2026-11/green-lava-trailer-launch-justin-beiber-everything-hallelujah.html)
 
-via Vatican News · 2026-11-25, updated 2026-11-26
+via Vatican News · 2026-11-25, updated 2026-11-27
 
 The filmmakers behind "Green Lava" release an international trailer featuring Justin Bieber’s “Everything Hallelujah” to accompany the documentary about a young Italian poet and catechist who lives with Duchenne muscular dystrophy.
 
@@ -1684,7 +3051,7 @@ Dealz parent company Poundland has entered administration, its American owner ha
 
 ## [Ghana: Cardinal Peter Poreku Dery features on new GH¢2 banknote](https://www.vaticannews.va/en/africa/news/2026-11/ghana-cardinal-peter-poreku-dery-features-on-new-ghc2-banknote.html)
 
-via Vatican News · 2026-11-25, updated 2026-11-26
+via Vatican News · 2026-11-25, updated 2026-11-27
 
 The late Ghanaian Cardinal, Peter Poreku Dery, remembered for his contribution to the growth of the Catholic Church in northern Ghana, has been featured on a newly redesigned two-cedi banknote introduced by the Bank of Ghana
 
@@ -1712,7 +3079,7 @@ The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missi
 
 ## [Opening Remarks from Richard Breckenridge to be the Navy’s Chief Acquisition Official](https://news.usni.org/2026/11/25/opening-remarks-from-richard-breckenridge-to-be-the-navys-chief-acquisition-official)
 
-via US Navy Institute · 2026-11-25
+via US Navy Institute · 2026-11-25, updated 2026-11-27
 
 The following are Richard Breckenridge’s opening remarks, provided to the U.S. Senate Committee on Armed Services during a Nov. 19, 2026, hearing to consider Breckenridge to be the assistant secretary of the Navy for research, development and acquisition. From the Report The hearing saw testimony from Breckenridge, who has been serving as the top civilian deputy for the RDA and as a shipbuilding adviser since June. Below are also prepared advance policy questions from Breckenridge. Watch the full hearing here. Download the opening remarks here. Download the advance policy questions here.
 
@@ -2437,7 +3804,7 @@ with its plan to continue free admission to parks through 2027.
 
 ## [Myanmar: Cathedral in Mandalay reopens after earthquake](https://www.vaticannews.va/en/church/news/2026-11/myanmar-mandalay-cathedral-earthquake-community-church.html)
 
-via Vatican News · 2026-11-25, updated 2026-11-26
+via Vatican News · 2026-11-25, updated 2026-11-27
 
 Cardinal Charles Maung Bo, Archbishop of Yangon, presides over the reconsecration of Mandalay’s Sacred Heart Cathedral, damaged by the March 2025 earthquake, and calls for rebuilding hope and reconciliation in a country still marked by conflict.
 
@@ -2445,7 +3812,7 @@ Cardinal Charles Maung Bo, Archbishop of Yangon, presides over the reconsecratio
 
 ## [Sudan: Saving lives in the forgotten Nuba Mountains](https://www.vaticannews.va/en/church/news/2026-11/sudan-mountains-health-war-peace-humanitarian-crisis-displaced.html)
 
-via Vatican News · 2026-11-25, updated 2026-11-26
+via Vatican News · 2026-11-25, updated 2026-11-27
 
 Amid the world’s worst humanitarian crisis, American doctor Tom Catena shares the stories of two young patients, bearing witness to the devastating consequences of war, famine and displacement, while appealing for prayers and peace in Sudan’s Nuba Mountains.
 
@@ -2543,37 +3910,37 @@ The country's governing body for equestrian sport - Horse Sport Ireland (HSI) - 
 
 ## [Yemen war: Emergency aid chief calls for access to war-hit communities](https://news.un.org/feed/view/en/story/2026/11/1168872)
 
-via United Nations, Top Stories · 2026-11-25, updated 2026-11-26
+via United Nations, Top Stories · 2026-11-25, updated 2026-11-27
 
 The UN’s top aid official, Tom Fletcher, arrived in Yemen on Wednesday warning that the war there is preventing families from accessing the food and medicine they need to survive, particularly those in Taiz City.
 
 ## [Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’](https://news.un.org/feed/view/en/story/2026/11/1168875)
 
-via United Nations, Top Stories · 2026-11-25, updated 2026-11-26
+via United Nations, Top Stories · 2026-11-25, updated 2026-11-27
 
 For women in Gaza who lost their husbands in the war, providing for a family no longer means just putting food on the table. Now it also means finding shelter, hauling water and keeping children in school – all from a tent.
 
 ## [Gisèle Pelicot’s son: ‘Not being violent is the bare minimum’](https://news.un.org/feed/view/en/story/2026/11/1168876)
 
-via United Nations, Top Stories · 2026-11-25, updated 2026-11-26
+via United Nations, Top Stories · 2026-11-25, updated 2026-11-27
 
 Two years after the Mazan rape trial, David Pelicot has decided to put his name to the fight against sexual violence – and to confront what he calls the silence of men.
 
 ## [Somalia: Famine risk decreases in Baidoa – but millions still going hungry](https://news.un.org/feed/view/en/story/2026/11/1168874)
 
-via United Nations, Top Stories · 2026-11-25, updated 2026-11-26
+via United Nations, Top Stories · 2026-11-25, updated 2026-11-27
 
 Millions of people in Somalia still face severe food shortages and malnutrition despite the reduced risk of famine in Baidoa, global food security experts warned on Wednesday.
 
 ## [Governments and experts gather in Nairobi to tackle the global housing crisis](https://news.un.org/feed/view/en/story/2026/11/1168873)
 
-via United Nations, Top Stories · 2026-11-25, updated 2026-11-26
+via United Nations, Top Stories · 2026-11-25, updated 2026-11-27
 
 A home is a place where people can feel safe. Yet billions worldwide do not have a proper place to live. As the global housing crisis deepens, government representatives and housing experts are gathering at the United Nations in Nairobi from 26-27 November to discuss how to address it.
 
 ## [Türk warns of widening risk of atrocity crimes against Palestinians](https://news.un.org/feed/view/en/story/2026/11/1168879)
 
-via United Nations, Top Stories · 2026-11-25, updated 2026-11-26
+via United Nations, Top Stories · 2026-11-25, updated 2026-11-27
 
 UN human rights chief Volker Türk on Wednesday warned of a widening risk of further atrocity crimes by Israel against Palestinians, saying violence in the occupied West Bank in recent months has heightened existential fears.
 
@@ -2619,7 +3986,7 @@ The PSNI has told a public inquiry into the murder of Belfast solicitor Pat Finu
 
 ## [Pope establishes network to coordinate Church's pastoral care in prisons](https://www.vaticannews.va/en/vatican-city/news/2026-11/pope-leo-xiv-motu-proprio-prison-ministry-coordination-service.html)
 
-via Vatican News · 2026-11-25, updated 2026-11-26
+via Vatican News · 2026-11-25, updated 2026-11-27
 
 Pope Leo XIV abolishes the International Commission of Catholic Prison Pastoral Care and establishes the Prison Ministry Pastoral Outreach Service, affiliated with the Dicastery for Promoting Integral Human Development and coordinated by Archbishop Jorge Ignacio García Cuerva of Buenos Aires.
 
@@ -2692,7 +4059,7 @@ Pakistan's Muhammad Zeeshan Ali has become the first foreign national to board C
 
 ## [Pope Leo: We must not forget human face of climate crisis](https://www.vaticannews.va/en/pope/news/2026-11/pope-we-must-not-forget-the-human-face-of-the-climate-crisis.html)
 
-via Vatican News · 2026-11-25, updated 2026-11-26
+via Vatican News · 2026-11-25, updated 2026-11-27
 
 Pope Leo XIV calls on the international community and on every individual person “to renew our commitment to fostering a culture of care for creation, centred on the dignity bestowed by God upon every human being; the common good; and solidarity with the poorest and with future generations.”
 
@@ -2758,7 +4125,7 @@ The post [Russia’s Grip On Crimea Much Weaker After Key Waterways Blocked](htt
 
 ## [Pope: We must break 'ideological, economic chains that enslave' us to war](https://www.vaticannews.va/en/pope/news/2026-11/pope-break-the-ideological-economic-chains-that-enslave-us-war.html)
 
-via Vatican News · 2026-11-25, updated 2026-11-26
+via Vatican News · 2026-11-25, updated 2026-11-27
 
 At the weekly General Audience, Pope Leo XIV calls for an end to the conflicts that seem to “appear increasingly inhuman and devastating” and to the arms race, stressing that “there is no room for resignation, as if violence were inevitable.”
 
@@ -2780,7 +4147,7 @@ via CBC, Top Stories · 2026-11-25, updated 2026-11-26
 
 ## [Suspected North Korean computer programmers did contract work for B.C. government](https://www.cbc.ca/news/canada/suspected-north-korean-computer-programmers-british-columbia-government-9.7433830?cmp=rss)
 
-via CBC, World News · 2026-11-25, updated 2026-11-26
+via CBC, World News · 2026-11-25, updated 2026-11-27
 
 ![A man going by the name Kevin Zhang, who worked for the B.C. government, had these two fake Chinese passports in an online account.](https://i.cbc.ca/ais/852026bc-7daa-4367-9942-ea7502fff976,1795529820548/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C50%2C860%2C483%29%3B)
 
@@ -2834,7 +4201,7 @@ The post [Elbit to Supply Aqua Marine EW Suite for Germany’s F128 Frigates](ht
 
 ## [Pope: Church’s understanding of Apostolic Tradition deepens coherently](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-audience-international-theological-commission.html)
 
-via Vatican News · 2026-11-25, updated 2026-11-26
+via Vatican News · 2026-11-25, updated 2026-11-27
 
 At an audience with the International Theological Commission, Pope Leo XIV upholds the continuity of the Apostolic Tradition, which seeks inculturation and deepens our understanding of the realities and words handed down.
 
@@ -2935,6 +4302,14 @@ Jay Stewart tells The National about the moment he found a two-year-old toddler 
 via BBC, US & Canada · 2026-11-25
 
 Jane Collins had all but given up on seeing Michael Donovan and Richard Moore face justice. Then they were charged with stealing from a mass-shooter’s brother.
+
+## ['Our youth are watching,' says 23-year-old Mataya Gillis after N.W.T. byelection win](https://www.cbc.ca/news/canada/north/our-youth-are-watching-says-23-year-old-mataya-gillis-after-n-w-t-byelection-win-9.7435013?cmp=rss)
+
+via CBC, Indigenious News · 2026-11-25, updated 2026-11-26
+
+![woman smiles, hands over face](https://i.cbc.ca/ais/4f060933-0962-4932-b7fa-34cb34f2563a,1795582495652/full/max/0/default.jpg?im=Crop%2Crect%3D%2874%2C204%2C528%2C297%29%3B)
+
+According to unofficial results posted by Elections N.W.T. late Tuesday evening, Gillis won the Inuvik Twin Lakes district byelection on Tuesday by a substantial margin, defeating two other candidates. She will be youngest member in the current Legislative Assembly.
 
 ## [Huang apologises to Nvidia staff as comeback rally fades](https://www.rte.ie/news/business/2026/1125/1600553-nvidia-us/)
 
@@ -3110,7 +4485,7 @@ Tidal announced Tuesday it is banning fully AI-generated music from its platform
 
 ## [Ford-class Redesign, Battleship Funds on White House List for CR Anomaly Funding](https://news.usni.org/2026/11/24/ford-class-redesign-battleship-funds-on-white-house-list-for-cr-anomaly-funding)
 
-via US Navy Institute · 2026-11-24, updated 2026-11-25
+via US Navy Institute · 2026-11-24, updated 2026-11-27
 
 The Trump administration wants Congress to fund several major shipbuilding programs, including the Trump-class battleship, in the next patchwork spending bill that keeps the government funded, according to a document obtained by USNI News. The White House Office of Management and Budget has compiled a list of so-called “anomalies,” or exceptions, that it wants lawmakers to appropriate money for in the next continuing resolution. The document, delivered Monday to Congress, lists anomalies OMB wants included in the next CR for agencies across the government and notes it will seek more anomalies for the Defense Department. Under a continuing resolution, the
 
@@ -3166,7 +4541,7 @@ President Catherine Connolly has rejected a suggestion that her first year in of
 
 ## [Philippine Forces Train to Secure Luzon Strait with Warships, BrahMos Missiles](https://news.usni.org/2026/11/24/philippine-forces-train-to-secure-luzon-strait-with-warships-brahmos-missiles)
 
-via US Navy Institute · 2026-11-24, updated 2026-11-25
+via US Navy Institute · 2026-11-24, updated 2026-11-27
 
 MANILA, Philippines — Philippine forces are practicing how to secure the Luzon Strait through the deployment of warships and a BrahMos missile battery for maritime strike operations this month.  The drills are being conducted during an annual territorial defense exercise, which runs through Friday. The exercise is meant to reinforce Manila’s approach to deter a potential Taiwan Contingency Operation spillover to its northern islands. In 2025, former Philippine military chief Romero Brawner Jr. told troops stationed near Taiwan to prepare for a conflict.  This year’s iteration of “Dagit, Langit at Lupa” – translating from Tagalog to sea, air and land
 
@@ -3202,7 +4577,7 @@ Rudolph Giuliani, the former New York City mayor and longtime ally of President 
 
 ## [Amphibs USS Makin Island, USS John P. Murtha Depart Singapore](https://news.usni.org/2026/11/24/amphibs-uss-makin-island-uss-john-p-murtha-depart-singapore)
 
-via US Navy Institute · 2026-11-24, updated 2026-11-25
+via US Navy Institute · 2026-11-24, updated 2026-11-27
 
 Amphibious assault ship USS Makin Island (LHD-8) and amphibious transport dock USS John P. Murtha (LPD-26) departed Tuesday from Sembawang, Singapore, and are heading toward the Indian Ocean. Makin Island and John P. Murtha, embarked with elements of the 13th Marine Expeditionary Unit, are transiting north through the Malacca Strait, according to local ship spotters and AIS data. AIS data shows the two ships were in the Malacca Strait south of Malaysia’s capital of Kuala Lumpur at 10 p.m. local time with fleet oiler USNS Rappahannock (T-AO-204). Makin Island, John P. Murtha, amphibious transport dock USS Anchorage (LPD-23) and the
 
@@ -3258,6 +4633,14 @@ via RTÉ News · 2026-11-24, updated 2026-11-25
 
 France's ex-president Nicolas Sarkozy, his wife singer Carla Bruni and a paparazzi boss will stand trial next year over alleged witness tampering in a case over funding for his 2007 election, a source close to the case said.
 
+## [Jury in inquest for woman at Kenora, Ont., jail recommends better suicide prevention, Indigenous supports](https://www.cbc.ca/news/canada/thunder-bay/kaylee-martha-dallas-crowchild-inquest-verdictrecommends-better-suicide-prevention-indigenous-supports-at-ken-9.7433780?cmp=rss)
+
+via CBC, Indigenious News · 2026-11-24, updated 2026-11-26
+
+![A close-up of a person seen smiling.](https://i.cbc.ca/ais/7cd07ee7-f74b-40e9-937c-515f616fedef,1795538958456/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2000%2C1125%29%3B)
+
+A coroner’s jury has determined Kaylee Martha Dallas Crowchild died by suicide in 2022 following transfer to a hospital from the Kenora District Jail in northwestern Ontario, some 1,500 kilometres from her home community of Tsuut’ina Nation in southern Alberta. Following testimony by more than a dozen witnesses, jurors made 21 recommendations aimed at preventing similar deaths, with a focus on improving suicide screening and prevention, and Indigenous cultural supports at the jail.
+
 ## [Veto blocks NI bill to support Irish-medium education](https://www.rte.ie/news/ulster/2026/1124/1600491-northern-ireland-budget/)
 
 via RTÉ News · 2026-11-24, updated 2026-11-25
@@ -3266,7 +4649,7 @@ via RTÉ News · 2026-11-24, updated 2026-11-25
 
 ## [CAFOD decries COP31 failure, calls for people and planet-first policies](https://www.vaticannews.va/en/church/news/2026-11/cop31-climate-conference-interview-cafod-faith-based-groups.html)
 
-via Vatican News · 2026-11-24, updated 2026-11-26
+via Vatican News · 2026-11-24, updated 2026-11-27
 
 CAFOD’s Director of Advocacy reflects on the collapse of the UN climate summit in Türkiye caused by lack of political will and failure to put vulnerable communities first, and he reiterates the precious role played by faith-based groups in advocating for justice.
 
@@ -3310,7 +4693,7 @@ The anthem singer at the Toronto Maple Leafs game against New York Monday night 
 
 ## [For children in Ukraine, war has become a part of everyday life](https://www.vaticannews.va/en/world/news/2026-11/for-children-in-ukraine-war-has-become-a-part-of-everyday-life.html)
 
-via Vatican News · 2026-11-24, updated 2026-11-26
+via Vatican News · 2026-11-24, updated 2026-11-27
 
 Nearly five years after the Russia's full-scale invasion of Ukraine, the “Tree of Life” Foundation provides daily support to the country’s children. In observance of International Children’s Day—celebrated on November 20—the organization highlights Article 31 of the United Nations Convention on the Rights of the Child, which recognizes the rights of the youngest among us.
 
@@ -3324,7 +4707,7 @@ Gardaí will retain responsibility for the conduct of prosecutions in court unde
 
 ## [Opening Remarks from William Toti to be Undersecretary of the Navy](https://news.usni.org/2026/11/24/opening-remarks-from-william-toti-to-be-undersecretary-of-the-navy)
 
-via US Navy Institute · 2026-11-24, updated 2026-11-25
+via US Navy Institute · 2026-11-24, updated 2026-11-27
 
 The following are William Toti’s opening remarks, provided to the U.S. Senate Committee on Armed Services during a Nov. 19, 2026, hearing to consider Toti to be the undersecretary of the Navy. From the Report The hearing saw testimony from Toti who has served in an acting capacity since May. Below are also prepared advance policy questions from Toti. Watch the full hearing here. Download the opening remarks here. Download the advance policy questions here.
 
@@ -4093,43 +5476,43 @@ New opinion polling by IPSOS on British people's attitudes to Ireland and Northe
 
 ## [Colombia: Guterres urges renewed commitment to landmark peace deal](https://news.un.org/feed/view/en/story/2026/11/1168864)
 
-via United Nations, Top Stories · 2026-11-24, updated 2026-11-26
+via United Nations, Top Stories · 2026-11-24, updated 2026-11-27
 
 UN Secretary-General António Guterres has commended Colombia for progress achieved in the decade since a landmark accord known as the Final Peace Agreement ended more than 50 years of insurgency but stressed the need to fully implement its provisions.
 
 ## [Five women killed every hour by partners or family members](https://news.un.org/feed/view/en/story/2026/11/1168863)
 
-via United Nations, Top Stories · 2026-11-24, updated 2026-11-26
+via United Nations, Top Stories · 2026-11-24, updated 2026-11-27
 
 Some 47,000 women and girls were killed by intimate partners or family members in 2025 – five every hour – according to new UN figures published on Tuesday.
 
 ## [World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed](https://news.un.org/feed/view/en/story/2026/11/1168871)
 
-via United Nations, Top Stories · 2026-11-24, updated 2026-11-26
+via United Nations, Top Stories · 2026-11-24, updated 2026-11-27
 
 More than 364,000 people have been displaced in Yemen since the beginning of August as fighting and insecurity continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Tuesday.
 
 ## [Decades of gains against AIDS could unravel as HIV funding dries up](https://news.un.org/feed/view/en/story/2026/11/1168869)
 
-via United Nations, Top Stories · 2026-11-24, updated 2026-11-26
+via United Nations, Top Stories · 2026-11-24, updated 2026-11-27
 
 Decades of progress against AIDS, one of the greatest public health achievements in history, could go into reverse as international HIV funding is cut and campaigns against human rights and gender equality gain ground, the UN agency devoted to ending the pandemic warned Tuesday in a new report.
 
 ## [‘Far too much failure’: UN deputy chief’s final call to end violence against women](https://news.un.org/feed/view/en/story/2026/11/1168868)
 
-via United Nations, Top Stories · 2026-11-24, updated 2026-11-26
+via United Nations, Top Stories · 2026-11-24, updated 2026-11-27
 
 UN Deputy Secretary-General Amina Mohammed warned on Tuesday that another woman or girl would be killed by a partner or family member before she finished speaking, as she called for justice for survivors and consequences for perpetrators.
 
 ## [Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?](https://news.un.org/feed/view/en/story/2026/11/1168866)
 
-via United Nations, Top Stories · 2026-11-24, updated 2026-11-26
+via United Nations, Top Stories · 2026-11-24, updated 2026-11-27
 
 When the UN was founded in 1945, computers, the internet and satellites were the stuff of science fiction. Today, artificial intelligence (AI) is already assisting in targeting, drones are reshaping warfare and disinformation is spreading in unprecedented ways, fuelling record levels of conflict. The Security Council on Tuesday is weighing these changes, with UN chief António Guterres telling ambassadors, “killer robots must have no place in our future.”
 
 ## [DR Congo: Concern for trapped Ebola workers as violence against women and girls deepens](https://news.un.org/feed/view/en/story/2026/11/1168865)
 
-via United Nations, Top Stories · 2026-11-24, updated 2026-11-26
+via United Nations, Top Stories · 2026-11-24, updated 2026-11-27
 
 Staff from the World Health Organization (WHO) and Ebola responders remain trapped in a hospital in Ituri province, Democratic Republic of the Congo (DRC), as heavy fighting continues in the vicinity, the UN agency said in an update on Tuesday.
 
@@ -4165,7 +5548,7 @@ Ukraine continues attacks on Russian oil refineries despite requests from US Pre
 
 ## [Haiti: Mountain parish reinforces community as gangs spread](https://www.vaticannews.va/en/world/news/2026-11/haiti-community-mountain-parish-gangs.html)
 
-via Vatican News · 2026-11-24, updated 2026-11-26
+via Vatican News · 2026-11-24, updated 2026-11-27
 
 As Salvadoran troops intensify operations against armed gangs and thousands are forced from their homes, Catholic communities in the mountains of Haiti carry on teaching, praying and building together.
 
@@ -4173,7 +5556,7 @@ As Salvadoran troops intensify operations against armed gangs and thousands are 
 
 ## [Pope Leo set to preside at liturgies throughout the Christmas season](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-s-set-to-preside-at-liturgies-throughout-christmas.html)
 
-via Vatican News · 2026-11-24, updated 2026-11-26
+via Vatican News · 2026-11-24, updated 2026-11-27
 
 The Vatican’s Office for the Liturgical Celebrations of the Supreme Pontiff releases Pope Leo XIV’s schedule for celebrations throughout the liturgical season of Christmas.
 
@@ -4181,7 +5564,7 @@ The Vatican’s Office for the Liturgical Celebrations of the Supreme Pontiff re
 
 ## [Brother Olivier-Thomas Venard: ‘We are comforted by not feeling alone'](https://www.vaticannews.va/en/church/news/2026-11/brother-olivier-venard-jerusalem-interview-holy-land-faith.html)
 
-via Vatican News · 2026-11-24, updated 2026-11-26
+via Vatican News · 2026-11-24, updated 2026-11-27
 
 The Dominican friar, who has lived in the Holy Land for 25 years, directs the research programme The Bible in Its Traditions at the École Biblique et Archéologique Française in Jerusalem. In an interview with Vatican News, he reflects on the increasingly tense atmosphere in the region, the dehumanising language used in public discourse, and the quiet, everyday work of dialogue.
 
@@ -4237,7 +5620,7 @@ Follow live developments as Opposition politicians demand greater clarity on the
 
 ## [Church in Ecuador delivers aid as heavy rainfall and floods continue](https://www.vaticannews.va/en/church/news/2026-11/church-in-ecuador-offers-aid-heavy-rainfall-floods-continue.html)
 
-via Vatican News · 2026-11-24, updated 2026-11-26
+via Vatican News · 2026-11-24, updated 2026-11-27
 
 Following the Ecuadorian Bishops' ad limina visit to Rome, the local Church continues to offer aid to the more than 106,000 people in different provinces affected by the ongoing heavy rain and flooding across the country.
 
@@ -4283,7 +5666,7 @@ Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro
 
 ## [Italy: Religious sister's musical talent helps unite people to God in prayer](https://www.vaticannews.va/en/church/news/2026-11/sisters-project-italy-music-liturgy-beauty-media-charism-service.html)
 
-via Vatican News · 2026-11-24, updated 2026-11-26
+via Vatican News · 2026-11-24, updated 2026-11-27
 
 Through liturgical music, Sr. Maria Alžbeta Stračinová reveals how the beauty of music can lead to a deeper encounter with God. Her story reflects the quiet yet powerful impact of consecrated women around the world who serve, inspire, and enrich others, finding deep personal fulfillment in their vocation.
 
@@ -4467,7 +5850,7 @@ A multi-million euro tea room planned for Dublin's Merrion Square Park, already 
 
 ## [Cardinal Fernández: ‘The Diary reveals Francis’ heart and his spirituality’](https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-fernandez-interview-diary-pope-francis.html)
 
-via Vatican News · 2026-11-24, updated 2026-11-26
+via Vatican News · 2026-11-24, updated 2026-11-27
 
 The Cardinal Prefect of the Dicastery for the Doctrine of the Faith, author of "The Private Diary of Pope Francis," which brings together some of the Argentine Pontiff’s private writings, speaks to Vatican News about how the book came about, commenting on its most significant passages.
 
@@ -4475,7 +5858,7 @@ The Cardinal Prefect of the Dicastery for the Doctrine of the Faith, author of "
 
 ## [Humanity, fears, thirst for God, temptations: Francis’ mystical side in ‘Diary’](https://www.vaticannews.va/en/vatican-city/news/2026-11/personal-diary-pope-francis-cardinal-fernandez-book.html)
 
-via Vatican News · 2026-11-24, updated 2026-11-26
+via Vatican News · 2026-11-24, updated 2026-11-27
 
 Edited by Cardinal Victor Manuel Fernández, “The Private Diary of Pope Francis” hits bookshelves around the world and brings together notes by the late Pope from 1992 to 2024 made in his planner, showing the personal side of the Pope who wrote down his fears, his judgments about himself, and his feelings of inadequacy, as he entrusted himself entirely to God’s mercy.
 
@@ -4749,7 +6132,7 @@ The Princess of Wales talks about her cancer journey in a new clip from the upco
 
 ## [Switch to the Sun--a manifesto](https://billmckibben.substack.com/p/switch-to-the-sun-a-manifesto)
 
-via The Crucial Years · 2026-11-23, updated 2026-11-26
+via The Crucial Years · 2026-11-23, updated 2026-11-27
 
 Four Arguments for the (Rapid) Replacement of Fossil Fuel
 
@@ -4847,7 +6230,7 @@ Windsor, Ont., police say new sexual assault charges have been brought against 2
 
 ## [USNI News Fleet and Marine Tracker: Nov. 23, 2026](https://news.usni.org/2026/11/23/usni-news-fleet-and-marine-tracker-nov-23-2026)
 
-via US Navy Institute · 2026-11-23, updated 2026-11-25
+via US Navy Institute · 2026-11-23, updated 2026-11-27
 
 These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 23, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 286 (USS 228, USNS 58) 102 (USS 71, USNS 31) (46 FDNF, 56 Rotational) 64 (56 Deployed, 8 Local) In Japan USS Tripoli (LHA-7) is in port in Sasebo, Japan. USS Anchorage (LPD-23), assigned to the Makin Island Amphibious Ready Group, is in Naval Support Activity Yokosuka,
 
@@ -4913,7 +6296,7 @@ A healthcare assistant convicted of sexual assault after he undressed and washed
 
 ## [Recon Marines Join Finnish Naval Exercise, Baltic NATO Naval Drills](https://news.usni.org/2026/11/23/recon-marines-join-finnish-naval-exercise-baltic-nato-naval-drills)
 
-via US Navy Institute · 2026-11-23, updated 2026-11-25
+via US Navy Institute · 2026-11-23, updated 2026-11-27
 
 Four dozen Reconnaissance Marines will operate in Finland this week as part of a Finnish naval exercise and NATO’s enhanced Vigilant Activity (eVA) Baltic Sentry.  The Finnish Navy’s Narrow Waters 26-2 drill will begin Wednesday in the coastal areas of Southern Finland and in the Gulf of Finland. The exercise will run throughDec. 4. The exercise is the Finnish Navy’s main exercise in autumn and involves Finnish Navy ships and troops and NATO allies training in combined naval operations in the northern Baltic Sea and its coast. In addition to Finnish personnel, ships and aircraft, Estonian Navy command and support
 
@@ -5007,7 +6390,7 @@ Three Calgary police officers have been charged with manslaughter two years afte
 
 ## [United on two wheels: ‘On a bike, there is no difference. We're equal'](https://www.vaticannews.va/en/vatican-city/news/2026-11/united-on-two-wheels-on-bike-there-is-no-difference-youre-one.html)
 
-via Vatican News · 2026-11-23, updated 2026-11-26
+via Vatican News · 2026-11-23, updated 2026-11-27
 
 Former and current cycling champions gather at the Vatican to meet Pope Leo and partake in a ceremony to donate bicycles to young people in vulnerable situations, bringing to life the notion that cycling breaks down social barriers.
 
@@ -5033,7 +6416,7 @@ A mother and son who were "instigators" in racially aggravated rioting in Ballym
 
 ## [Catholic observers at COP31: Silence on fossil fuels is unacceptable](https://www.vaticannews.va/en/world/news/2026-11/cop31-un-climate-summit-antalya-catholic-organizations.html)
 
-via Vatican News · 2026-11-23, updated 2026-11-26
+via Vatican News · 2026-11-23, updated 2026-11-27
 
 The COP31 Climate Summit collapses without an agreement as countries fail to move away from fossil fuels.
 
@@ -5041,7 +6424,7 @@ The COP31 Climate Summit collapses without an agreement as countries fail to mov
 
 ## [First copy of 2025 Jubilee Photo Book presented to Pope Leo XIV](https://www.vaticannews.va/en/vatican-city/news/2026-11/vatican-pope-leo-xiv-jubilee-photo-book-hope-2025-evangelization.html)
 
-via Vatican News · 2026-11-23, updated 2026-11-26
+via Vatican News · 2026-11-23, updated 2026-11-27
 
 Archbishop Rino Fisichella, Pro-Prefect of the Dicastery for Evangelization, presents to Pope Leo XIV the first copy of the photo book of the 2025 Jubilee, which will be available online and in bookshops as of November 27.
 
@@ -5055,7 +6438,7 @@ Two men have been arrested as part of the investigation into a fire that killed 
 
 ## [U.S. Commits $2B Defense Loan for Philippine Military, Luzon Strait Development](https://news.usni.org/2026/11/23/u-s-commits-2b-defense-loan-for-philippine-military-luzon-strait-development)
 
-via US Navy Institute · 2026-11-23, updated 2026-11-25
+via US Navy Institute · 2026-11-23, updated 2026-11-27
 
 MANILA, Philippines — The U.S. pledged to grant a $2 billion foreign military financing loan package for Manila’s military modernization efforts and the development of an airport in the Luzon Strait. The targeted defense assistance was one of several deals inked last week during President Donald Trump’s visit to the Philippines for the Association of Southeast Asian Nations’ annual summit. Announced alongside Philippine President Ferdinand Marcos Jr., these deals mark a drastic increase in Washington’s commitment to its longtime Indo-Pacific ally. The $2 billion in defense loans will be made available for the Philippines covering the sale of “critical defense
 
@@ -5649,12 +7032,6 @@ via Korea Times · 2026-11-23
 
 Strings are no strangers to K-pop, usually brought in to lend drama to a track's intro or swell beneath its bridge. Singer-violinist ALL'N, however, asks the instrument to do something harder and more important — carry most of a song's hook. On "Four Seasons," the title track of his first mini album of the same name, out Monday, the violin opens the song, answers the chorus and takes over the final post-chorus, doing the work a vocal hook usually would. "It's easy to add a violin section that sounds impressive, but I want a hook that someone remembers and wants to hear again," the 32-year-old told The Korea Times in a written interview. For the classically trained violinist, who also writes, produces and runs his own agency, the album caps a debut year spent testing how far the instrument can go inside a pop song. "I didn't want the violin to be something I brought out briefly to surprise people," he said. "I wanted it to be part of how they recognized my music." Born Kang Sung-min in Korea and raised in the United States, ALL'N trained as a violinist before heading to China, where he c
 
-## [Peugeot moves car shopping to Naver](https://www.koreatimes.co.kr/business/companies/20261123/peugeot-moves-car-shopping-to-naver?utm_source=rss)
-
-via Korea Times · 2026-11-23
-
-Peugeot is moving more of the car-buying journey online by offering vehicle reservations and test-drive bookings through its official Naver store, allowing customers to compare prices and specifications without switching between platforms. The auto brand under Stellantis Korea opened its official store on Naver in October, enabling customers to make purchase reservations for all models sold in Korea. Naver is the nation’s dominant internet portal. In November, the automaker added a test-drive booking function, so customers move from browsing to arranging a test drive without leaving the platform. Previously, customers who wanted to test-drive a vehicle after viewing it on Peugeot’s online store had to use the automaker’s official website. Now, they can check prices and specifications on a model page and use the same Naver account to book a test drive or make a purchase reservation. The move comes as online commerce continues to expand in Korea, including the automotive sector. According to the Ministry of Data and Statistics, Korea’s total online shopping transaction value increas
-
 ## [Gardaí 'feeding' Europol probe following threats - Kelly](https://www.rte.ie/news/2026/1123/1600324-garda-commissioner-europol/)
 
 via RTÉ News · 2026-11-23, updated 2026-11-24
@@ -5731,7 +7108,7 @@ Rap fans say people were "choking" and "coughing up blood" after "some smoke" we
 
 ## [Caritas Ukraine: Welcoming evacuees from Oleshky, 'a deeply human experience'](https://www.vaticannews.va/en/church/news/2026-11/caritas-ukraine-interview-oleshky-evacuation-pope-audience-war.html)
 
-via Vatican News · 2026-11-23, updated 2026-11-26
+via Vatican News · 2026-11-23, updated 2026-11-27
 
 The President of Caritas Ukraine speaks of her feelings and hopes as she witnessed the evacuation of hundreds of people from Ukraine’s Russian-occupied city of Oleshky, and about how the organisation is preparing for a new emergency as attacks on energy infrastructure intensify at the onset of winter.
 
@@ -5801,7 +7178,7 @@ U.N. Climate Summit Collapses After Countries Fail to Agree to Phase Out Coal, O
 
 ## [Why the RCMP spied on Wab Kinew’s dad](https://www.cbc.ca/player/play/9.7429771?cmp=rss)
 
-via CBC, Indigenious News · 2026-11-23, updated 2026-11-25
+via CBC, Indigenious News · 2026-11-23, updated 2026-11-26
 
 ![Manitoba Premier Wab Kinew wants to know who spied on his father for the RCMP, and why. Documents obtained by CBC News reveal the late Anishinaabe leader Tobasonakwut Kinew and his brother were under surveillance in the 1960s, early targets in a coun](https://i.cbc.ca/ais/0ea8b59c-b28c-423a-bf85-61b39007a9f2,1795189746352/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B)
 
@@ -5823,31 +7200,31 @@ The two Americans convicted of murdering Quebec entrepreneur Daniel Langlois and
 
 ## [Libya: UN mission urges probe into Benghazi port attacks](https://news.un.org/feed/view/en/story/2026/11/1168857)
 
-via United Nations, Top Stories · 2026-11-23, updated 2026-11-26
+via United Nations, Top Stories · 2026-11-23, updated 2026-11-27
 
 The UN Support Mission in Libya (UNSMIL) has called for an independent investigation into attacks carried out at Benghazi port and off the coast of the eastern city on Sunday.
 
 ## [Gaza war has undone 77 years of human development, UN warns](https://news.un.org/feed/view/en/story/2026/11/1168862)
 
-via United Nations, Top Stories · 2026-11-23, updated 2026-11-26
+via United Nations, Top Stories · 2026-11-23, updated 2026-11-27
 
 The UN deputy chief urged renewed international support for a two-State solution to the Israel-Palestine conflict on Monday, warning that Palestinians continue to face violence, displacement and dire living conditions despite the October 2025 ceasefire in Gaza.
 
 ## [Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies](https://news.un.org/feed/view/en/story/2026/11/1168859)
 
-via United Nations, Top Stories · 2026-11-23, updated 2026-11-26
+via United Nations, Top Stories · 2026-11-23, updated 2026-11-27
 
 As winter sets in, the Security Council held a high stakes meeting Monday to discuss how Russian attacks on Ukraine's energy grid are leaving civilians without heat, power and water. It will also look at how strikes on Black Sea shipping threaten grain supplies to import-dependent countries far from the war’s frontline.
 
 ## [Heavy fighting in Ituri traps DR Congo Ebola responders: WHO](https://news.un.org/feed/view/en/story/2026/11/1168858)
 
-via United Nations, Top Stories · 2026-11-23, updated 2026-11-26
+via United Nations, Top Stories · 2026-11-23, updated 2026-11-27
 
 Heavy fighting near a hospital in Ituri province in the Democratic Republic of the Congo (DRC) has disrupted the vital work of Ebola responders and forced emergency teams to take cover for more than 24 hours.
 
 ## [UN chief urges talks on global AI safety framework, warns of historic shift in power](https://news.un.org/feed/view/en/story/2026/11/1168861)
 
-via United Nations, Economic Development · 2026-11-23, updated 2026-11-26
+via United Nations, Economic Development · 2026-11-23, updated 2026-11-27
 
 UN Secretary-General António Guterres on Monday called on Member States to begin discussions on a multilateral framework for managing the risks of artificial intelligence (AI), warning that the technology is driving “the biggest transfer of power in the history of humankind”.
 
@@ -5881,7 +7258,7 @@ Public sector workers have been hit by delays to pension payments, in a scheme o
 
 ## [Dicastery for Interreligious Dialogue to hold Plenary Assembly](https://www.vaticannews.va/en/vatican-city/news/2026-11/vatican-dicastery-interreligious-dialogue-education-peace.html)
 
-via Vatican News · 2026-11-23, updated 2026-11-26
+via Vatican News · 2026-11-23, updated 2026-11-27
 
 The Members and Consultors of the Dicastery for Interreligious Dialogue will gather in Rome for their 15th Plenary Assembly focusing on the theme “The Contribution of Interreligious Dialogue to Educating for Unarmed and Disarming Peace,” and will then meet Pope Leo XIV in an audience.
 
@@ -5917,7 +7294,7 @@ Review updates after the HSE announced that Chief Executive Anne O'Connor is to 
 
 ## [Pope Leo: Cycling can be a metaphor for abundant life](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-cycling-can-be-a-metaphor-for-abundant-life.html)
 
-via Vatican News · 2026-11-23, updated 2026-11-26
+via Vatican News · 2026-11-23, updated 2026-11-27
 
 In an address to cycling enthusiasts, Pope Leo XIV says cycling “can be understood as a metaphor for that ‘life in abundance’ that is characteristic of every sporting experience."
 
@@ -5925,7 +7302,7 @@ In an address to cycling enthusiasts, Pope Leo XIV says cycling “can be unders
 
 ## [Pope Leo thanks Foundation behind new Swiss Guard Barracks](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-swiss-guards-foundation-23-november-2026.html)
 
-via Vatican News · 2026-11-23, updated 2026-11-26
+via Vatican News · 2026-11-23, updated 2026-11-27
 
 Pope Leo XIV thanks the Foundation for the Renovation of the Barracks of the Pontifical Swiss Guard for its generosity in enabling the imminent construction of the new barracks, noting that even if the Guardsmen may not know the names of those responsible, God does.
 
@@ -5951,7 +7328,7 @@ Poundland has a matter of days to find a buyer or face collapsing into administr
 
 ## [Spying on survivors: Why RCMP watched Wab Kinew's father in the 1960s](https://www.cbc.ca/news/indigenous/rcmp-surveillance-kinew-9.7426927?cmp=rss)
 
-via CBC, Indigenious News · 2026-11-23, updated 2026-11-25
+via CBC, Indigenious News · 2026-11-23, updated 2026-11-26
 
 ![A man poses for a photo while holding a book of redacted documents up for the camera.](https://i.cbc.ca/ais/5c8a8e97-7852-41af-816b-34fbd85c611b,1795393189103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C160%2C4032%2C2268%29%3B)
 
@@ -5981,7 +7358,7 @@ Ukraine carried out an attack on a Russian warship moored at a naval base in Lib
 
 ## [Bethlehem: Every saved child is a small miracle](https://www.vaticannews.va/en/church/news/2026-11/bethlehem-sisters-project-children-babies-creche-palestine.html)
 
-via Vatican News · 2026-11-23, updated 2026-11-26
+via Vatican News · 2026-11-23, updated 2026-11-27
 
 Babies abandoned in plastic bags, children found near dumpsters, or newborns whose mothers had to give them up to save their own lives... This is the reality that Slovak Sister Františka Lukačková DC, encounters every day in Bethlehem. For more than seven years, she has been serving at the Holy Family Crèche, the only institution of its kind in Palestine for found and abandoned children up to six years of age.
 
@@ -5997,7 +7374,7 @@ The post [Royal Thai Navy Forced to Retender Frigate Programme](https://www.nava
 
 ## [Madagascar: Radio Saint Vincent De Paul - A new voice of faith](https://www.vaticannews.va/en/africa/news/2026-11/madagascar-radio-saint-vincent-de-paul-a-new-voice-of-faith.html)
 
-via Vatican News · 2026-11-23, updated 2026-11-26
+via Vatican News · 2026-11-23, updated 2026-11-27
 
 Radio Saint Vincent de Paul is a Catholic FM radio station in Ambovombe, in the Androy region of southern Madagascar. It was inaugurated on 15 August 2026 and is run by the Vincentian Fathers (Congregation of Saint Vincent de Paul / Lazarists).
 
@@ -6039,7 +7416,7 @@ Rescuers and local media said the 74-year-old man ate wild fruit and slept on be
 
 ## [Rome holds first 2026-2027 'Ecological Sunday' as sign of sustainable change](https://www.vaticannews.va/en/church/news/2026-11/launch-of-the-2026-2027-ecological-sunday-sustainable-change.html)
 
-via Vatican News · 2026-11-23, updated 2026-11-26
+via Vatican News · 2026-11-23, updated 2026-11-27
 
 Designed to raise awareness about reducing environmental pollution while reclaiming public space, the first 'Ecological Sunday' of the 2026-2027 season took place in Rome on November 15, offering opportunities for community engagement through cultural activities and social interaction.
 
@@ -6309,239 +7686,11 @@ Registered clinical counsellor Shane Trudell estimates one-third of the populati
 
 ## [EU and Panama reject draft deal at UN climate talks, putting agreement in doubt](https://www.vaticannews.va/en/world/news/2026-11/eu-panama-draft-deal-cop-environment-united-nations-fossil-fuels.html)
 
-via Vatican News · 2026-11-22, updated 2026-11-26
+via Vatican News · 2026-11-22, updated 2026-11-27
 
 The President of the COP31 UN climate talks in Türkiye has said there is no agreement on a deal.
 
 [Read all](https://www.vaticannews.va/en/world/news/2026-11/eu-panama-draft-deal-cop-environment-united-nations-fossil-fuels.html)
-
-## [N. Korean leader receives credentials from Russian ambassador in protocol shift after 30 years](https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261122/n-korean-leader-receives-credentials-from-russian-ambassador-in-protocol-shift-after-30-years?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-North Korean leader Kim Jong-un received credentials from Russia's new ambassador to Pyongyang on Sunday, marking the first time in more than 30 years that the country's top leader has directly received credentials from a foreign envoy, reports said. The Russian Embassy in Pyongyang said on its Telegram channel that Ambassador Andrei Podelyshev presented his credentials to Kim earlier in the day. Kim also received credentials from diplomats of several other countries, shaking hands with them and delivering a speech, according to the Russia's Tass news agency. The move follows a constitutional revision in March that granted the chairman of the State Affairs Commission, a post held by Kim, the authority to receive credentials from foreign diplomats. Under the previous system, the chairman of the Standing Committee of the Supreme People's Assembly (SPA) performed the role. Kim's grandfather and national founder Kim Il-sung personally received credentials from foreign ambassadors, while the SPA Standing Committee chairman did so under his father, Kim Jong-il. Observers say the ceremony undersc
-
-## [Miley Cyrus weds drummer Maxx Morando](https://www.koreatimes.co.kr/entertainment/20261122/miley-cyrus-weds-drummer-maxx-morando?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-Grammy-winning pop star Miley Cyrus married her longtime partner, drummer Maxx Morando, in California on Saturday, People magazine and other U.S. entertainment news outlets reported. Cyrus and Morando reportedly tied the knot at a private ceremony in Palm Springs, a month after performing "Let's Get Married" together at the Hollywood Bowl. The song appears on Cyrus' latest studio album, Bass Persuades. Representatives for both Cyrus and Morando did not immediately respond to a Reuters' request for comment. Morando is the drummer for Liily, a Los Angeles-based alternative rock band affiliated with Atlantic Records, according to the band's website. The "Flowers" singer was previously married to Australian actor Liam Hemsworth, who filed for divorce in Los Angeles in 2019.
-
-## [KEPCO reports another massive data breach](https://www.koreatimes.co.kr/business/companies/20261122/kepco-reports-another-massive-data-breach?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-The state-run Korea Electric Power (KEPCO) said Sunday it has confirmed another data breach involving the personal information of around 1.52 million users, a month after disclosing a separate leak affecting tens of thousands of people. The power utility said personal information belonging to 650,487 users of its KEPCO ON customer service platform and 869,761 users of its electronic procurement system, known as SRM, had been leaked. The KEPCO ON breach exposed customers' names, resident registration numbers, bank account details, credit card information, and electricity rates and billing records, while the SRM breach exposed information on 426,827 corporate representatives, including their names, phone numbers and email addresses. The SRM breach exposed personal information of 426,827 corporate representatives, including their names, registration numbers and email addresses, as well as 442,934 KEPCO and company employees, whose names, affiliations and contact details were leaked. After becoming aware of the incident on Friday, KEPCO said it blocked access from external IP addresses and s
-
-## [Rail union postpones threatened labor action following train derailment](https://www.koreatimes.co.kr/southkorea/20261122/rail-union-postpones-threatened-labor-action-following-train-derailment?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-The Korean Railway Workers' Union said Sunday it has postponed its planned work-to-rule action to later this week to prioritize the restoration of train services following a recent freight train derailment. The union had planned to launch the work-to-rule action at 9 a.m. Monday, with workers strictly following work rules to demand more maintenance and station staff, and expanded facilities for high-speed train maintenance and storage. But it decided to postpone the labor action by three days to Thursday, after a freight train derailed at Sojeong-ri Station on the Gyeongbu Line in Sejong on Saturday morning, disrupting train services in the area. "We will postpone the work-to-rule action until rail services are stabilized and do our best to support the recovery effort," the union said, adding it would call for measures to prevent a recurrence once the cause of the accident is identified. No casualties were reported, but power outages and track obstructions disrupted services, leading to the suspension of regular passenger trains on the line Saturday. Train services had returned to normal
-
-## [N. Korea to hold int'l Pyongyang marathon in Oct. 2027: tour agency](https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261122/n-korea-to-hold-intl-pyongyang-marathon-in-oct-2027-tour-agency?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-North Korea plans to hold an international marathon in its capital of Pyongyang in October next year, a tour agency that is an official partner of the event said Sunday. Koryo Tours, a Beijing-based tour agency specializing in North Korea, said in a social media post that the 2027 Pyongyang International Marathon would take place in October, adding that the exact date would be announced once officially confirmed. If held as planned, the event would mark a shift from its traditional schedule in April to October. North Korea has held the international marathon in Pyongyang since 1981 to mark the April 15 birthday of late national founder, Kim Il-sung. The marathon was not held for five consecutive years from 2020 due to the COVID-19 pandemic before resuming in 2025. But this year's event was abruptly canceled by North Korean authorities about a month before the scheduled date, though it had planned to hold the race on April 5 and promoted tour packages through Koryo Tours to recruit foreign participants.
-
-## [MAMA in Osaka grows into global K-pop festival](https://www.koreatimes.co.kr/entertainment/k-pop/20261122/mama-in-osaka-grows-into-global-k-pop-festival?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-The 2026 MAMA Awards, held at Kyocera Dome Osaka on Friday and Saturday, closed with a celebration of BIGBANG’s 20th anniversary, a reunion of I.O.I and a show that went beyond a trophy ceremony. CJ ENM said Sunday that about 90,000 people attended the two-night event, which was streamed live to more than 220 regions worldwide. Under the theme “A Music Interstellar,” actor Park Bo-gum served as the first official ambassador and solo host across both nights. The ceremony also went beyond trophies, with ENHYPEN performing a cinematic stage created in partnership with the upcoming film “Dune: Part Three,” a moment where K-pop met one of Hollywood’s biggest sci-fi franchises. BIGBANG’s night BIGBANG, which debuted in 2006, won three trophies, including Music Visionary of the Year and Best Music Video for “BiiiG.” G-Dragon recalled receiving the same Music Visionary of the Year award as a solo artist at the 2024 ceremony, where the prize was first introduced. “I felt lonely back then,” he said, adding that winning it this time together under the BIGBANG name felt much more
-
-## [Coast Guard finds hull of missing fishing boat Haegwangho on seabed](https://www.koreatimes.co.kr/southkorea/society/20261122/coast-guard-finds-hull-of-missing-fishing-boat-haegwangho-on-seabed?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-The Coast Guard said Sunday it confirmed that an object found on the seabed off Korea's west coast was the hull of the missing fishing boat Haegwangho, as the search entered its fifth day. The Coast Guard had been working to identify the object it had earlier discovered lying on the seabed near where the Haegwangho went missing off the western coastal county of Taean last Wednesday. Coast Guard officials confirmed that what had appeared to be a sunken ship was the missing boat. The Haegwangho, a 7.93-ton boat carrying three Koreans and four Indonesians, was reported missing early last Wednesday. It had left a port in Taean two days earlier.
-
-## [Sungkyunkwan University forum explores advances in next-generation solar cells](https://www.koreatimes.co.kr/southkorea/education/20261122/sungkyunkwan-university-forum-explores-advances-in-next-generation-solar-cells?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-Sungkyunkwan University hosted the 14th Sungkyun International Solar Forum at its Seoul campus from Nov. 11-13, bringing together researchers to discuss advances in perovskite solar cells and optoelectronic devices. The forum came amid growing demand for carbon-free energy sources to address the climate crisis, as electricity demand continues to rise due to the expansion of artificial intelligence (AI) data centers and the increasing adoption of electric vehicles. Commercializing perovskite solar cells, which are seen as a next-generation power generation technology, and developing technologies for mass production have emerged as key challenges. Park Nam-gyu, a distinguished professor of chemical engineering at the university and director of the SKKU National Laboratory for Intelligent Energy Solution Technology, chaired the forum’s organizing committee. He presented the latest research findings on perovskite solar cells and outlined technological developments aimed at their commercialization. The university said Park was the first researcher in the world to develop solid-state perovski
-
-## [Ruling party outlines grounds to impeach chief justice](https://www.koreatimes.co.kr/southkorea/politics/20261122/ruling-party-outlines-grounds-to-impeach-chief-justice?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-The ruling Democratic Party of Korea (DPK) laid out its grounds Sunday for impeaching Supreme Court Chief Justice Cho Hee-dae and said it would seek a National Assembly vote by the end of December, drawing criticism that the move could undermine judicial independence. At its first public briefing at the Assembly, the party’s impeachment task force pointed to the Supreme Court’s handling of President Lee Jae Myung’s election law case and Cho’s refusal to recommend a new candidate for a vacant Supreme Court seat. “We will do our utmost to finalize the impeachment motion as quickly as possible and bring it to a vote in the National Assembly before the end of December,” said Rep. Yang Bu-nam, who leads the task force. He did not give a date for filing the motion. Other grounds previously raised by the party include the court’s response to the Dec. 3, 2024, martial law declaration, allegations over court operating expenses and cash payments, and Cho’s refusal to testify before the Assembly. The DPK made pursuing Cho’s impeachment its official position Friday, a day after the
-
-## [Half of Korean workers fear workplace photos could be used in AI sex crimes](https://www.koreatimes.co.kr/economy/20261122/half-of-korean-workers-fear-workplace-photos-could-be-used-in-ai-sex-crimes?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-More than half of workers in Korea worry that photos of themselves posted on company intranets or messaging platforms could be used in artificial intelligence (AI)-assisted sex crimes, a survey showed Sunday. According to the survey commissioned by labor rights group Workplace Gapjil 119 and conducted by polling firm Global Research, 53.1 percent of 1,000 workers aged 19 or older said they were concerned that their workplace photos could be exploited for such crimes. The survey was conducted from Aug. 1–7. The concern was more widespread among women, with 58.2 percent expressing anxiety, compared with 49 percent among male respondents. The survey also pointed to a lack of safeguards at companies. Only 11.6 percent of respondents said their employers had rules in place to prevent and respond to AI-related sex crimes. Nearly half, or 48.6 percent, said their companies had no such rules, while another 39.8 percent said they did not know whether such rules existed. Asked what measures companies should take, 29.2 percent called for stronger security regulations, while 28.8 percent said empl
-
-## [Korean consortium wins Vietnam high-speed rail design contract](https://www.koreatimes.co.kr/business/companies/20261122/korean-consortium-wins-vietnam-high-speed-rail-design-contract?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-The Korea National Railway and two Korean engineering firms will take part in a project to develop a high-speed railway connecting northern and southern Vietnam, spanning 1,541 kilometers between Hanoi and Ho Chi Minh City, according to Korea's Ministry of Land, Infrastructure and Transport, Sunday. A consortium comprising Korean, French and Vietnamese companies has won a contract for a feasibility study and front-end engineering design (FEED) for the project. The contract was tendered by the Thang Long Project Management Unit under Vietnam's Ministry of Construction. The consortium includes state-run Korea National Railway and Korean engineering firms Yooshin and Sambo, along with France's Systra and Vietnam's Tedi, both of which specialize in railway design. The consortium won the contract in competition with 40 other bidders, according to the ministry. The initial phase of the project is valued at 560 billion won ($416 million), with the consortium set to carry out the work over 30 months. The study and design work will cover four sections: a 281-kilometer stretch between Hanoi and Vin
-
-## [\[COVER STORY\] 'AI spending binge puts Samsung, SK at risk of memory price collapse'](https://www.koreatimes.co.kr/business/companies/20261122/cover-story-ai-spending-binge-puts-samsung-sk-at-risk-of-memory-price-collapse?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-Samsung Electronics and SK hynix could face a sharp memory price decline if hyperscalers scale back the artificial intelligence (AI) spending that has driven the current chip boom, according to a renowned U.S. semiconductor analyst. Jim Handy, founder and general director at Objective Analysis, said in an interview with The Korea Times that the surge in memory prices — caused by a sharp increase in demand — is “temporary,” echoing concerns among some Korean analysts that the current memory cycle may be nearing its peak. “I do not think that AI demand is growing that quickly, so they are likely to slow their spending at some point, and that will cause memory prices to collapse,” Handy said. Although the timing of a downturn is difficult to predict, memory prices could eventually fall back to 2024 levels once demand weakens, he said. Handy has raised particular concerns over the scale of spending by hyperscalers such as Google, Meta, Amazon and OpenAI. These companies are spending roughly 40 percent of their revenue on capital expenditures, including massive investments in AI c
-
-## [KOSPI rout fuels calls for bolder stabilization measures](https://www.koreatimes.co.kr/economy/20261122/kospi-rout-fuels-calls-for-bolder-stabilization-measures?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-Calls are growing for the government to take stronger steps to stabilize the stock market after KOSPI fell to a 10-month low, with market watchers and lawmakers warning Sunday that further losses could follow. The benchmark index closed at 4,869.96 on Friday, down 267.93 points, or 5.21 percent, from the previous session. It marked its first close below 4,900 in about 10 months. The index lost 7.95 percent over the week as growing doubts over the returns on artificial intelligence investments weighed on major semiconductor stocks. The steep decline has put the financial authorities' response under scrutiny, with critics saying measures introduced so far have done little to calm the market. Jung Jeom-sik, floor leader of the main opposition People Power Party, urged the government to prepare emergency measures for a possible "Black Monday," warning that the market could face an even sharper fall. "The government should prepare emergency measures in advance for the sharp decline expected in the stock market tomorrow. Retail investors have already suffered heavy losses and investors' confid
-
-## [Korea holds landmark Kimchi Day vision declaration in New York](https://www.koreatimes.co.kr/business/20261122/korea-holds-landmark-kimchi-day-vision-declaration-in-new-york?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-The Ministry of Agriculture, Food and Rural Affairs said Sunday that it held its first-ever Kimchi Global Vision Declaration ceremony in New York on Friday (local time) to mark the seventh annual Kimchi Day and promote kimchi in global markets. Kimchi Day was first designated on Nov. 22, 2020 to honor kimchi's cultural heritage, ingredients and health benefits. The event, held at the Korean Cultural Center New York, brought together about 100 participants, including New York State Assemblymember Ron Kim, Korean Consul General in New York Kim Sang-ho, chef Hooni Kim and local food industry representatives. During the event, Jeong Gyeong-seok, director general of the ministry's Food Industry Policy Bureau, outlined four priorities: studying kimchi's potential benefits for gut health and immunity; using artificial intelligence to automate production and improve quality control; preserving more than 200 regional and seasonal varieties while expanding education; and working with retailers and restaurants to expand offerings, including vegan kimchi. As part of the ceremony, participants placed
-
-## [Kookmin University teams up with QNX to introduce Korea's first embedded software curriculum](https://www.koreatimes.co.kr/southkorea/education/20261122/kookmin-university-teams-up-with-qnx-to-introduce-koreas-first-embedded-software-curriculum?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-Kookmin University established the QNX Centre Korea on Nov. 4 in partnership with QNX, a global provider of embedded software and operating systems, to provide specialized education in the field. The university said the center will serve as a platform for industry-academia collaboration aimed at nurturing talent in embedded software. Through the partnership, Kookmin University becomes the first university in Korea to introduce a curriculum based on QNX technology. QNX, a division of BlackBerry Limited, provides operating systems and software development technologies for industries where safety and reliability are critical, including the automotive, medical device and industrial automation sectors. The university plans to develop the center into a hub for embedded software education and industry-academia cooperation, connecting academic institutions, government agencies and industry partners across Korea. The initiative aims to cultivate skilled professionals in various fields, including software-defined vehicles, robotics, industrial automation, smart factories and the industrial internet
-
-## [Ramyeon exports set to approach $2 bil. this year on global popularity](https://www.koreatimes.co.kr/economy/others/20261122/ramyeon-exports-set-to-approach-2-bil-this-year-on-global-popularity?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-Exports of "ramyeon," or instant noodles, are set to approach $2 billion this year amid the expanding global popularity of Korean food and culture, industry data showed Sunday. Ramyeon shipments rose 26.3 percent to $1.59 billion in the January-October period, already surpassing last year's full-year total of $1.52 billion, according to data from the Korea Agro-Fisheries & Food Trade Corp. If the growth trend continues through the rest of the year, annual ramyeon exports are expected to approach $2 billion. Korea's ramyeon exports have steadily increased since 2014. China was the biggest buyer, importing $395.5 million worth in the 10-month period, up 23.9 percent from a year earlier. Exports to the United States rose 29.1 percent to $276.5 million over the cited period. Exports to Europe and Central and South America also posted strong growth. Ramyeon shipments to the Netherlands soared 41.3 percent to $95.7 million, while those to Britain rose 41.9 percent to $60.4 million. Exports to Mexico surged 190.4 percent to $51.9 million.
-
-## [Sogang University, KIST join forces on research, talent development](https://www.koreatimes.co.kr/southkorea/education/20261122/sogang-university-kist-join-forces-on-research-talent-development?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-Sogang University and the Korea Institute of Science and Technology (KIST) have signed a memorandum of understanding to expand joint research and foster specialized talent in semiconductors, clean hydrogen and space-related composite materials. The agreement was signed by Sogang President Sim Jong-hyeok and KIST President Oh Sang-rok at the Sogang’s Seoul campus on Nov. 11, the universities said. The partnership will combine KIST’s mission-oriented research capabilities with Sogang’s academic and educational strengths to advance strategic technologies and nurture the next generation of researchers. “Our partnership with KIST, which has been at the forefront of science and technology development in Korea, will further strengthen Sogang’s research and educational capabilities,” Sim said. He added that the university would support students in taking part in key national research projects and preparing to lead future industries. Oh noted that KIST has shifted its focus from individual research projects to collaborative research aimed at addressing national challenges, while expand
-
-## [HUFS teams up with Korea National University of Arts to expand joint academic programs](https://www.koreatimes.co.kr/southkorea/education/20261122/hufs-teams-up-with-korea-national-university-of-arts-to-expand-joint-academic-programs?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-Hankuk University of Foreign Studies (HUFS) has signed a memorandum of understanding with the Korea National University of Arts (K-Arts) to expand their joint academic programs. HUFS said the signing ceremony was held Tuesday at HUFS’ Seoul campus, with its President Kang Kee-hoon and K-Arts President Pyeon Jang-wan in attendance. The agreement aims to broaden the scope of the two universities’ joint general education programs, which have been running for 12 years, and strengthen the foundation for interdisciplinary education by leveraging their respective academic resources. The universities plan to establish a new model of cross-university educational cooperation that transcends institutional boundaries by combining HUFS’ expertise in artificial intelligence (AI) education with K-Arts’ specialization in arts education. “The combination of HUFS’ basic AI education curriculum and K-Arts’ expertise in arts education will provide students with an opportunity to develop new interdisciplinary competencies beyond university boundaries,” Kang said. “Bringing together the arts,
-
-## [Education minister resigns amid backlash over CSAT anti-cheating measures](https://www.koreatimes.co.kr/southkorea/education/20261122/education-minister-resigns-amid-backlash-over-csat-anti-cheating-measures?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-Education Minister Choi Kyo-jin offered to resign Sunday, taking responsibility for confusion over anti-cheating measures in the run-up to the 2027 College Scholastic Ability Test (CSAT). President Lee Jae Myung accepted his resignation within an hour. "Last-minute changes in preparations for the CSAT caused inconvenience to the public, particularly test takers," Choi said in a statement released by the ministry. With the exam now over, Choi acknowledged responsibility for the confusion and announced his decision to step down. The resignation followed mounting criticism of the ministry's slow response to concerns over artificial intelligence (AI)-assisted cheating ahead of the CSAT, Korea's high-stakes college entrance exam. The government repeatedly revised its anti-cheating measures just days before the test, leaving students and test administrators scrambling to keep up with the changes. The ministry initially focused its anti-cheating measures on smart glasses but expanded them to cover other high-tech devices after the top scorer on the tax accountant exam admitted on Nov. 15 to using
-
-## [Sejong University medical device startup secures $9.7 mil. in new investments](https://www.koreatimes.co.kr/southkorea/education/20261122/sejong-university-medical-device-startup-secures-97-mil-in-new-investments?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-Raywatt, a medical device startup founded by a Sejong University professor, has raised 13 billion won ($9.7 million) in a new funding round, bringing its cumulative funding to more than 23.5 billion won. Ha Jin-yong, a professor in the university’s Department of AI Convergence Electronics Engineering, launched the company in 2019. It specializes in medical imaging devices for cardiovascular and cerebrovascular diagnosis. The investors included participation from InterVest, Life Asset Management, Ryukyung PSG Asset Management, Hyundai Venture Investment, L&S Venture Capital, Eugene Investment & Securities and EcoPro Partners. Investors recognized Raywatt’s achievements in commercializing its technology both in Korea and overseas. The company’s technology has been used in more than 100 clinical cases at Severance Cardiovascular Hospital in Seoul. It has also been designated an innovative prototype product by the Public Procurement Service. Raywatt obtained marketing approval in Vietnam and won a tender for government hospitals in the United Arab Emirates. Its flagship product, FASTER O
-
-## [Trump again calls Putin 'friend' despite criticism in US](https://www.koreatimes.co.kr/world/20261122/trump-again-calls-putin-friend-despite-criticism-in-us?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-Washington — US President Donald Trump again called Russian President Vladimir Putin his "friend" on Saturday, despite fierce criticism from US lawmakers. Trump posted a photo on Truth Social showing the two leaders shaking hands, accompanied by the caption "My Friend." The post followed a summit in China this week, where Trump greeted Putin warmly and referred to him as a friend, drawing criticism from Democrats and some Republicans. Senate Democratic leader Chuck Schumer accused Putin of abducting tens of thousands of children, killing tens of thousands of civilians and wrongfully detaining US citizens. "Donald Trump considers him a friend," Schumer wrote on X. Republican Senator Rick Scott of Florida described Putin as a "thug." Ahead of the summit, Republican Senator Jim Banks of Indiana also warned that China and Russia were "not our friends," calling for a tough stance toward both countries. At a White House press conference on Friday, Trump again praised his ties with Putin, despite Russia's nearly five-year war against Ukraine. "I have fantastic relationships with Putin," he said. H
-
-## [Coast Guard finds vessel-like object on seabed amid search for missing fishing boat](https://www.koreatimes.co.kr/southkorea/society/20261122/coast-guard-finds-vessel-like-object-on-seabed-amid-search-for-missing-fishing-boat?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-The Coast Guard said Sunday it has located an object believed to be a sunken vessel on the seabed near where a fishing boat went missing off South Korea's west coast last week. The unidentified object was detected by naval sonar at 7:55 p.m. Saturday, according to the Taean Coast Guard. The object lies 52 meters deep and roughly 41 kilometers northwest of an island off Taean, about 110 km southwest of Seoul. The location is near the site where the fishing boat Haegwangho went missing Wednesday. Officials said they are working to determine whether the object is linked to the vessel. The search entered its fifth day Sunday for the seven crew members who remain missing, as well as the 7.93-ton boat. High waves and strong winds have hampered search and rescue operations. The Navy said it is sending its 3,500-ton Tongyeong rescue and salvage ship to the site to carry out a detailed underwater search. The Navy will also deploy an unmanned remotely operated vehicle (ROV) from the salvage ship to help identify the object found on the seabed. An ROV is connected to a mothership and used to explore
-
-## [Hana Financial donates winter supplies, home safety equipment to senior citizens in need](https://www.koreatimes.co.kr/business/companies/20261122/hana-financial-donates-winter-supplies-home-safety-equipment-to-senior-citizens-in-need?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-Hana Financial Group said Sunday that it provided winter supplies and home safety equipment to senior citizens from vulnerable communities as part of efforts to improve their living conditions and prevent household accidents. Hana Financial Chairman Ham Young-joo visited the home of an older woman living alone in Yangcheon-gu, Seoul, Friday, delivering home safety equipment and winter essentials, including blankets, scarves and gloves. “Helping elderly people enjoy a safe and comfortable retirement in the homes they have spent their lives building is a responsibility we all share,” Ham said. “We will continue to bring warmth to their daily lives and work together across the group to build a society where no one is left behind.” The group plans to provide home safety items, including non-slip pads, portable handrails, smoke detectors and household fire extinguishers, to 1,000 seniors who live in poor housing conditions or have limited mobility. Those with mobility difficulties will also receive safety walkers. Hana Financial also plans to work with care workers at local senior wel
-
-## [Van Gogh Museum bistro drops kimchi sandwich after 'Japanese' labeling controversy](https://www.koreatimes.co.kr/lifestyle/koreanheritage/20261122/van-gogh-museum-bistro-drops-kimchi-sandwich-after-japanese-labeling-controversy?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-A restaurant inside the Van Gogh Museum in Amsterdam has changed its menu after it faced criticism for listing a sandwich with kimchi on a menu that cited Japanese but not Korean influences on the cuisine served. Seo Kyoung-duk, a professor at Sungshin Women’s University and an advocate for Korean culture, said Sunday that a recent visitor to the Van Gogh Museum found the kimchi sandwich missing from Bistro Vincent’s menu. The item had been replaced with a new item described as including Japanese milk bread. The change comes about six months after the controversy first emerged in May. Sunday was also Kimchi Day in Korea, observed annually on Nov. 22. Bistro Vincent describes its cuisine as French food with a Japanese twist, made with Dutch ingredients. Listing a kimchi sandwich on its menu raised concerns that the Korean fermented dish could be mistaken for Japanese food. While welcoming the change, Seo expressed apprehension that similar cases remain widespread across the continent. “This kind of incident is still happening frequently in Europe, which is concerning,” he said. This
-
-## [Korea's car trade deficit with China hits record on Tesla EV imports](https://www.koreatimes.co.kr/business/20261122/koreas-car-trade-deficit-with-china-hits-record-on-tesla-ev-imports?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-South Korea's deficit in the car trade with China rose to a record high in the January-October period on rising demand for Tesla electric vehicles (EVs) made in China, industry data showed Sunday. South Korea exported $168.77 million worth of cars to China in the first 10 months of the year, down 34.9 percent from the same period last year, according to data from the Korea International Trade Association (KITA) and the Ministry of Trade, Industry and Resources. However, its imports of cars from China surged 79.2 percent on-year to $4.39 billion over the cited period, bringing the trade deficit to a record $4.23 billion. South Korea has recorded a deficit in the car trade with China every year since 2017, with the gap widening sharply from $466 million in 2022 to $943 million in 2023 and $1.73 billion in 2024. The widening deficit is largely attributed to strong sales of Tesla EVs manufactured at the U.S. automaker's Gigafactory in Shanghai. According to separate data from the Korea Automobile Importers & Distributors Association (KAIDA), 98,313 Tesla EVs were sold in South Korea in the Ja
-
-## [Korea expected to become world's 4th-largest exporter this year](https://www.koreatimes.co.kr/economy/20261122/korea-expected-to-become-worlds-4th-largest-exporter-this-year?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-South Korea is expected to rank fourth globally in annual exports this year after its cumulative exports surpassed $1 trillion for the first time last week, data showed Sunday. According to data from the World Trade Organization (WTO) and U.N. Comtrade, a trade statistics database run by the United Nations, South Korea posted $595.3 billion in exports in the first seven months of 2026. It ranked fifth, behind China with $2.52 trillion, the United States with $1.44 trillion, Germany with $1.12 trillion and the Netherlands with $627.7 billion. The Ministry of Trade, Industry and Resources said it believes South Korea overtook the Netherlands after July as exports accelerated, driven by strong semiconductor shipments amid an artificial intelligence (AI) boom. The ministry said South Korea is expected to finish the year as the world's fourth-largest exporter, with annual shipments reaching $1.17 trillion. However, WTO and U.N. data showed that South Korea ranked eighth when semiconductor exports were excluded from its total shipments. South Korea's non-semiconductor exports totaled $413.6 bill
-
-## [SK chair urges Korea-Japan joint AI talent development program](https://www.koreatimes.co.kr/business/companies/20261122/sk-chair-urges-korea-japan-joint-ai-talent-development-program?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-SK Group Chairman Chey Tae-won has called for a fundamental overhaul of education to prepare for an artificial intelligence (AI)-native society, urging Korean and Japanese universities and businesses to jointly develop talent for the AI era. Chey made the remarks at Tokyo Forum 2026 on Saturday, emphasizing the need to redesign education systems for a society in which AI is accepted as an integral part of everyday life rather than simply used as a tool. The two-day forum, co-hosted by the Chey Institute for Advanced Studies and the University of Tokyo, started Friday under the theme "AI as a Transformative Technology: Humanity, Knowledge and Civilization." It brought together global experts, including French government AI envoy Anne Bouverot and Sakana AI co-founder Ren Ito. "An AI-native society is not one that simply uses AI, but one that accepts AI as an inherent part of its environment," Chey said during a business leaders' session moderated by University of Tokyo President Teruo Fujii. He joined NTT Group Chairman Jun Sawada, Taejae University President Yeom Jae-ho and Sophia Unive
-
-## [Samsung Electronics, SK hynix dividend payout ratios surge through Q3 amid AI boom](https://www.koreatimes.co.kr/business/companies/20261122/samsung-electronics-sk-hynix-dividend-payout-ratios-surge-through-q3-amid-ai-boom?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-Samsung Electronics and SK hynix saw their dividend payout ratios rise sharply through the third quarter under their shareholder return policies, data showed Sunday, amid the memory chip boom driven by artificial intelligence (AI). According to the companies' respective quarterly reports, Samsung Electronics' dividend payout ratio stood at 18 percent on a consolidated basis as of end-September, up from 4.1 percent at the end of the first half, while SK hynix's ratio rose to 8.4 percent from 0.4 percent over the same period. A dividend payout ratio refers to the proportion of a company's earnings distributed to shareholders as dividends, serving as an indicator of how a company allocates its profits. The sharp increases came as the two chipmakers announced plans to distribute sizable dividends to shareholders as part of their respective shareholder return policies. Samsung Electronics decided to pay 30 trillion won ($22.3 billion) in dividends for the third quarter, or 4,601 won per share, compared with 372 won per common share in the first quarter and 374 won in the second quarter. SK hyn
-
-## [Virginia reports young child is the state's first measles death in 2026](https://www.koreatimes.co.kr/world/20261122/virginia-reports-young-child-is-the-states-first-measles-death-in-2026?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-A young child has died in Virginia after testing positive for measles, officials said, the first deadly case in the state this year. The Virginia Department of Health reported the death Friday, saying only that the child was under 5 years old. Just days earlier the U.S., along with Mexico and Bolivia, lost its designation as having eliminated the highly contagious virus. States have reported at least 12 measles-linked deaths in 2026. Eight of them, including one last week, have been in Pennsylvania, one was in New York and two were in Wisconsin. Virginia has reported 220 cases overall this year, most of them in the central part of the state, and the vast majority were among people not vaccinated against the virus. The U.S. Centers for Disease Control and Prevention has tracked more than 5,800 cases nationally in 2026, by far the most of any year since 1991. There has been some concern about the virus spreading as families and friends gather for Thanksgiving next week and for Christmas and other holidays in December. But experts say most adults do not need a booster shot, though some are goo
-
-## [Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests](https://www.koreatimes.co.kr/world/20261122/mexico-captures-top-drug-lord-el-chapo-isidro-latest-in-string-of-arrests?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-MEXICO CITY — Mexican military forces captured Fausto Isidro Meza Flores, known as "El Chapo Isidro," one of the FBI's 10 most wanted fugitives, and two other leaders of his drug-trafficking organization in Sinaloa state on Friday night, Mexico's security chief said on Saturday. For over 20 years, according to the US State Department, Meza Flores and his criminal organization smuggled vast amounts of heroin, methamphetamine, cocaine and marijuana into the United States. He was considered one of the leaders of the Beltran Leyva cartel, previously a rival of the Sinaloa cartel. After Sinaloa cartel founder Ismael “El Mayo” Zambada was taken into US custody in 2024, infighting began between two factions for control of the cartel, Los Chapitos and Los Mayos. Meza Flores' Beltran Leyva had recently allied with the Los Mayos faction, security experts say. The arrest is the latest in a string of captures and killings of high-profile suspected drug traffickers by Mexico, which is under pressure from US President Donald Trump. He has threatened unilateral military action inside Mexico if t
-
-## [Climate talks in overtime as nations wrestle with response to worsening global warming](https://www.koreatimes.co.kr/world/20261122/climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-ANTALYA, Turkey — Work crews boxed up the venue for this year’s United Nations climate talks in Turkey, as negotiators went into overtime on Saturday in an attempt to reach a final agreement on global warming. But hopes are slim that additional discussions will produce concrete plans to slash fossil fuel use. The added day of talks came as the two-week annual summit, or COP31 , drew strong condemnation for failing to mention fossil fuels in a draft of the final agreement. The document is meant to address how the world will deal with climate change, which drives heat waves, floods and other disasters. To avert the most catastrophic effects of warming, experts said the world needs to urgently and drastically cut emissions from the use of coal, oil and gas. In a letter sent on Saturday to this year's co-hosts , Turkey and Australia, 100 civil society groups warned that they were “on course to preside over one of the most disappointing COPs” the U.N. has ever held. The letter stated there were only hours left “to save this COP from becoming a low point of three decades of climate
-
-## [Trump downplays FBI data breach of NCIC, adds 'positive spin'](https://www.koreatimes.co.kr/world/20261122/trump-downplays-fbi-data-breach-of-ncic-adds-positive-spin?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-An FBI database that police all over the country use was hacked in the second major security breach in two months, and President Donald Trump downplayed it Saturday. The FBI's National Crime Information Center, which police use constantly, was hacked, CNN and NBC reported Friday night. The NCIC includes FBI fingerprint records, wanted persons, violent felons, missing persons and related information. Its use is restricted to law enforcement but is not classified. On Saturday, Trump said the breach is "not good," but that it could be helpful to him. We could "learn things that we would have never learned otherwise," he said. "I always like to put things in a positive spin," Trump said during a phone interview with Fox News when asked about the reports. "You had the Russia, Russia, Russia hoax. You had all of these other hoaxes. We call it Ukraine, the Ukraine, Ukraine, Ukraine hoax ... the perfect phone call, as I say," Trump said, talking about the call in 2019 when Trump asked Ukrainian President Volodymyr Zelensky to investigate President Joe Biden, while he was running for office. "You h
-
-## [Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates](https://www.koreatimes.co.kr/world/20261122/russian-cargo-ship-ablaze-in-baltic-sea-after-drone-strike-crew-evacuates?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-HELSINKI — A Russian cargo ship with links to the military was hit by drones and caught fire in the Baltic Sea on Saturday in what Finland said was likely an attack by Ukraine, and the vessel later drifted into Finnish waters. The 16-member crew of the Sparta II evacuated onto lifeboats, then to a nearby Russian ship, and is on its way back to Russia, Finnish Border Guard Commander Ilja Iljin told public broadcaster Yle late on Saturday. Ukraine has sent waves of military drones towards Russia's northwest Leningrad region this year, including some that strayed into the airspace of the Baltic region, leading to fears that the war was affecting NATO territory. "It is likely that Ukraine... is behind (the attack)," Finnish armed forces spokesperson Aki-Mauri Huhtinen told a press conference, adding it was not clear why the vessel had been targeted. The ship, bound for Russian exclave Kaliningrad, was damaged in international waters west of Russia's Gogland island, Finland's Defense Forces said, corroborating an earlier account by Russian officials. The blaze was ongoing late on Saturday an
-
-## [Seoul district prepares to bring pet funerals directly to residents' doors](https://www.koreatimes.co.kr/southkorea/others/20261122/seoul-district-prepares-to-bring-pet-funerals-directly-to-residents-doors?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-Courier scooters in Seoul deliver everything from midnight kimchi stew to designer handbags in under an hour, and soon grieving pet owners in the city's east will be able to summon a hearse just as easily. Starting in December, Seongdong District, located just east of downtown Seoul, will roll out a municipal mobile pet funeral service, dispatching specialized vans to residents' homes to collect deceased pets, hold a memorial ceremony and perform odorless, smoke-free cremations before returning the ashes in an urn. The initiative, finalized through a partnership signed earlier this month between the district office and local pet funeral operator Petmoon, tackles a thorny urban dilemma in Korea’s densely packed capital. While roughly 1 in 4 Korean households — an estimated 15 million people nationwide — now lives with a companion animal, strict zoning rules have pushed licensed pet crematoriums to the suburban fringes. For car-free Seoulites or elderly residents, saying a final goodbye often requires a lengthy, stressful trek out of the city. Under the new program, registered pet o
-
-## [Herbalife Korea builds next chapter on 30 years of trust](https://www.koreatimes.co.kr/business/companies/20261122/herbalife-korea-builds-next-chapter-on-30-years-of-trust?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-Herbalife Korea’s next phase of growth will depend on lasting customer relationships rather than individual transactions, Herbalife Korea General Manager Sean Chung said, as the company marks its 30th anniversary in Korea by overhauling distributor compensation and introducing AI tools. The company’s history has been about helping Koreans build healthy nutrition habits, he said, arguing that sustainable growth comes from maintaining trust beyond a single sale. Since entering Korea in 1996, Herbalife has expanded from weight management products into everyday nutrition, protein, sports nutrition and beauty-related wellness as consumer priorities have evolved. Its first decade centered on its flagship Formula 1 shake brand, balancing nutrient intake and healthy eating habits in a market dominated by physical stores and face-to-face sales. From 2006 and 2015, the rapid growth of online shopping and hypermarkets intensified competition. During this period, Herbalife emphasized ongoing communication and communities that helped customers maintain habits they found difficult to sustain on t
-
-## [Mountain festival brings foreign tourists to Seoul's peaks](https://www.koreatimes.co.kr/lifestyle/people-events/20261122/mountain-festival-brings-foreign-tourists-to-seouls-peaks?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-In a sprawling metropolis better known globally for neon-lit shopping districts, K-pop studios and royal palaces, some of Seoul’s hottest tourist attractions this fall required sturdy boots and a willingness to work up a sweat. More than 13,000 hikers passed through Seoul’s mountain tourism centers during the three weeks of 2026 Seoul Hiking Week, which wrapped up Sunday, underscoring how Korea’s capital is successfully turning its rugged granite peaks into an urban playground. According to the Seoul Tourism Organization, which hosted the third edition of the autumn festival starting on Oct. 26, roughly 4,800 of the visitors to its three Seoul Hiking Tourism Centers were foreign nationals — a 48 percent jump from the same period in 2025. Seoul is built directly into a basin ringed by dozens of steep, forested peaks and ancient fortress walls. Trailheads sit steps from subway stations, allowing residents and tourists alike to step off a commuter train and start ascending mountain trails within minutes. While hiking has long been a weekend ritual for Koreans, municipal officials ha
-
-## [More Chinese than Korean members: Why K-pop is becoming more multicultural](https://www.koreatimes.co.kr/entertainment/20261122/more-chinese-than-korean-members-why-k-pop-is-becoming-more-multicultural?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-Six. That is the number of Chinese members in A2O Soul, the new group recently launched by producer Lee Soo-man's A2O Entertainment as he returns to Korea's K-pop market after a three-year hiatus. The multinational group consists of 15 members, with Chinese nationals accounting for 40 percent, the largest share of any nationality. Korean nationals, including those with dual citizenship, make up five members, or 33.3 percent. It is the first time a K-pop group debuting in Korea has more Chinese members than Korean ones. Multinational groups are nothing new in K-pop. However, among groups debuting in Korea, rather than overseas-localized acts, Korean members have traditionally made up the largest nationality group. Seventeen, for example, has two Chinese members, but 10 of its 13 members (76.9 percent) are Korean. Twice, which has three Japanese members, has five Koreans out of nine members (55.6 percent). Two groups that debuted in Korea, TimeZ in 2012 and UNIQ in 2014, also had more Chinese than Korean members. But their origins were different from those of A2O Soul. Both were joint Kore
-
-## [Why are young Koreans falling for Japanese animated series 'Chiikawa?'](https://www.koreatimes.co.kr/southkorea/20261122/why-are-young-koreans-falling-for-japanese-animated-series-chiikawa?utm_source=rss)
-
-via Korea Times · 2026-11-22
-
-"I'm worried everything will sell out. They'll keep restocking, right?" A long line of customers stretched outside the Chiikawa Shop on the third floor of I'Park Mall in Yongsan District, Seoul, Nov. 5. A quick count put the number of people waiting at well over 50. They had come to buy merchandise featuring characters from the Japanese animated series "Chiikawa." One shopper, surnamed Kim, 27, emerged carrying a large bag filled with stuffed toys, figurines and key rings. "I came to love the animation because I find hope in the way Chiikawa overcomes life's hardships and grows along the way," Kim said with a laugh. "I kept adding things to my basket and ended up spending 460,000 won ($315)." "Chiikawa," created by Japanese manga artist Nagano, depicts the everyday lives of characters collectively described as "something small and cute." In Korea, the series has gained a large following not only among children but also among people in their 20s and 30s. The theatrical film "Chiikawa: The Secret of Mermaid Island," which opened Sept. 30, had attracted approximately 2.95 million moviegoer
 
 ## ['Time for action' - calls for hospice project to start](https://www.rte.ie/news/health/2026/1122/1600205-midlands-hospice/)
 
@@ -6563,7 +7712,7 @@ Strictly Come Dancing judge Motsi Mabuse was giving feedback to Delta Goodrem wh
 
 ## [Pope Leo at lunch with the poor: “Today, we are all one family”](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-at-lunch-with-the-poor-today-we-are-all-one-family.html)
 
-via Vatican News · 2026-11-22, updated 2026-11-26
+via Vatican News · 2026-11-22, updated 2026-11-27
 
 Pope Leo XIV arrives at the Paul VI Audience Hall after praying the Angelus in Saint Peter’s Square. Waiting to share lunch with him are families, children, religious men and women, and volunteers who care for the most vulnerable every day.
 
@@ -6597,21 +7746,21 @@ via RTÉ News · 2026-11-22, updated 2026-11-24
 
 Chris Bryant has said he will not "make any apologies for cracking a few jokes" as he discussed combining "levity and seriousness" in his role as Northern Ireland Secretary.
 
-## [‘I had a better life in Iran’: Afghan women forced home struggle to rebuild](https://news.un.org/feed/view/en/story/2026/11/1168852)
-
-via United Nations, Top Stories · 2026-11-22, updated 2026-11-26
-
-For five years, Zahra cared for an elderly woman in Iran and earned enough to get by. Now back in Herat, western Afghanistan, the 28-year-old trained midwife is unemployed. She lives with her parents and siblings, apart from her six-year-old son, who lives with her ex-husband.
-
 ## [COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’](https://news.un.org/feed/view/en/story/2026/11/1168855)
 
-via United Nations, Climate Change · 2026-11-22, updated 2026-11-26
+via United Nations, Climate Change · 2026-11-22, updated 2026-11-27
 
 COP31 ended on Sunday without a climate pact after negotiators failed to overcome divisions over fossil fuels, bringing two weeks of talks and two days of overtime to a close that UN Secretary-General António Guterres described as a “deeply disappointing” setback.
 
+## [‘I had a better life in Iran’: Afghan women forced home struggle to rebuild](https://news.un.org/feed/view/en/story/2026/11/1168852)
+
+via United Nations, Top Stories · 2026-11-22, updated 2026-11-27
+
+For five years, Zahra cared for an elderly woman in Iran and earned enough to get by. Now back in Herat, western Afghanistan, the 28-year-old trained midwife is unemployed. She lives with her parents and siblings, apart from her six-year-old son, who lives with her ex-husband.
+
 ## [Guterres laments COP31 outcome, urges climate justice from Barbados](https://news.un.org/feed/view/en/story/2026/11/1168856)
 
-via United Nations, Economic Development · 2026-11-22, updated 2026-11-26
+via United Nations, Economic Development · 2026-11-22, updated 2026-11-27
 
 Secretary-General António Guterres on Sunday expressed deep disappointment over the collapse of COP31 climate negotiations, using a visit to Barbados to call for stronger action on fossil fuels, climate finance and support for vulnerable nations.
 
@@ -7023,240 +8172,6 @@ via CBC, World News · 2026-11-21, updated 2026-11-22
 
 Israeli forces on Saturday hit a truck in Gaza, which witnesses said was carrying food and papers bearing the ‌logo of the World Central Kitchen charity, but the organization said the vehicle was not affiliated with it.
 
-## [Bus rams into pavement near Hongik University Station, injuring 6](https://www.koreatimes.co.kr/southkorea/society/20261121/bus-rams-into-pavement-near-hongik-university-station-injuring-6?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-A bus rammed into the pavement near Hongik University Station in Seoul on Saturday, injuring six people. The bus veered onto the pavement and crashed into a structure following a collision involving another bus and a sedan at around 6:57 p.m. in the busy entertainment district. Six people were taken to hospitals for treatment after sustaining injuries. No deaths or serious injuries have been reported. Police and fire authorities were looking into the exact cause of the accident.
-
-## [BTS wins 5 MAMA awards as Cortis takes Song of the Year](https://www.koreatimes.co.kr/entertainment/20261121/bts-wins-5-mama-awards-as-cortis-takes-song-of-the-year?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-K-pop supergroup BTS won five awards, including two grand prizes, at the 2026 MAMA Awards, which ran from Friday to Saturday, while rising boy group Cortis claimed Song of the Year, also a grand prize. On the second night of the ceremony Saturday at Kyocera Dome Osaka, BTS received Album of the Year for "Arirang" and Best Song Top 10 for "Swim," bringing its tally to five awards. The group won Artist of the Year, Best Male Group and a spot in the Fans' Choice Male Top 10 on the opening night. BTS, which did not attend the ceremony because of its world tour, delivered a video message. Member Suga said, "We're so grateful that our first album back as a group in such a long time has received so much love." Jungkook said the group returned to its fandom, ARMY, after three years and nine months wanting to show how much it had grown, adding that the members worked hard "to find honest stories that truly reflect who we are and what BTS stands for today." Jimin added, "We'll cherish the meaning behind every award, and we'll keep working hard to give back all the love you've shown us." Cortis, whi
-
-## [6.7 magnitude earthquake hits central Peru](https://www.koreatimes.co.kr/world/20261121/67-magnitude-earthquake-hits-central-peru?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-LIMA — A 6.7-magnitude earthquake struck central Peru on Friday, Peru's Defense Ministry said, with preliminary reports indicating minor damage and no fatalities. The earthquake occurred at 7:09 pm (0009 GMT Saturday), 30 kilometers (18 miles) northwest of the city of Junin, at a depth of 129 kilometers. The United States Geological Survey (USGS) also measured the quake to have a magnitude of 6.7, but estimated its depth to be only 108 kilometers. Peru's Defense Minister, Rafael Belaunde, reported that after the earthquake "minor damage was reported to homes in different parts of Junin, as well as interruptions of electricity service and restrictions on highway transit." Belaunde added that there had been "no harm to people or impacts to their bodies and health." AFP journalists in Lima saw hundreds of people evacuating buildings in the Miraflores district during the quake. The earthquake was also felt in the capital Lima, as well as Ancash, Ica, Ucayali, Cerro de Pasco, Huanuco and Callao. Peru's National Emergency Operation Center (COEN) reported the quake was felt with moderate to stro
-
-## [FBI's criminal information database hacked, CNN reports](https://www.koreatimes.co.kr/world/20261121/fbis-criminal-information-database-hacked-cnn-reports?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-The FBI is investigating a suspected breach of a nationwide database used by federal, state and local law enforcement agencies to share criminal justice information, CNN reported on Friday, citing two people briefed on the investigation. The apparent compromise of the National Crime Information Center database would mark the second intrusion involving an FBI system in recent months and the latest in a string of cyber incidents that have alarmed US officials over the past week. The agency did not respond to a request for comment from Reuters. The FBI database is used by law enforcement agencies nationwide to store and share information on warrants, criminal histories and background checks. Previous high-profile cyber disruptions over the past week have included a global outage affecting hundreds of millions of Microsoft users and a nationwide halt to air travel that disrupted more than 18,000 flights. A September breach by a digital extortion group known as "ShinyHunters" accessed an FBI jobs website, compromising data on current and former FBI employees.
-
-## [Lee reiterates $75,000 reward for reporting cheating on CSAT](https://www.koreatimes.co.kr/southkorea/politics/20261121/lee-reiterates-75000-reward-for-reporting-cheating-on-csat?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-President Lee Jae Myung reiterated Saturday that the government will offer 100 million won ($75,000) in reward to anyone reporting those who cheated on this week's college entrance exam, calling the misconduct a "crime as serious as corruption" involving government officials. Lee made the comments on social media, saying the reward will be provided per case of cheating, meaning the total reward could be greater than 100 million won if one reports multiple cheating cases at once. Lee also said that if a cheater turns themselves in for their own cheating and reports other accomplices, they will receive a reduced punishment for their offense while still being paid the full reward for reporting. "Cheating on the college entrance exam is a crime as serious as corruption by public officials," Lee said. "We will track cheaters down to the very end and strictly punish exam cheating that steals the lifelong efforts of hundreds of thousands of test-takers." Offering cash rewards is one of the anti-cheating measures the government has come up with amid growing concerns over the use of artificial in
-
-## [Jang Na-ra, Kim Hye-yoon spark fresh chemistry as 'Good Partner 2' premieres to strong ratings](https://www.koreatimes.co.kr/entertainment/shows-dramas/20261121/jang-na-ra-kim-hye-yoon-spark-fresh-chemistry-as-good-partner-2-premieres-to-strong-ratings?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-SBS legal drama "Good Partner" has returned for its second season after nearly two years, introducing a new partnership between Jang Na-ra and Kim Hye-yoon that promises sharp courtroom confrontations, contrasting personalities and an evolving bond between two divorce lawyers. The first episode of "Good Partner 2," which aired Friday, recorded a nationwide viewership rating of 8.4 percent and a peak of 9.9 percent, according to Nielsen Korea. The figure surpassed the 7.8 percent premiere rating of the first season, giving the sequel a promising start. The new season follows Cha Eun-kyung (Jang), a seasoned divorce attorney who heads her own law firm, and Kang Hye-seong (Kim), a fiercely determined lawyer who joins her as a partner. The series is once again written by Choi Yu-na, a practicing divorce attorney who also penned the first season, while director Seo Min-jung takes the helm this time. Although divorce cases remain central to the story, the new season places greater emphasis on humor and warmth, using its colorful characters to balance the emotional weight of marital disputes. A
-
-## [Red, orange, yellow or green? How bell pepper colors reveal different health benefits](https://www.koreatimes.co.kr/southkorea/health/20261121/red-orange-yellow-or-green-how-bell-pepper-colors-reveal-different-health-benefits?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-Click here for more articles by Kormedi.com. Bell peppers do more than add vibrant colors and a satisfying crunch to dishes such as salads and japchae, a Korean stir-fried glass noodle dish. Their colors also offer clues to the nutrients they contain, with each variety providing different nutritional benefits. From vitamin A precursors that support vision in dim light to compounds that help protect the retina and vitamin C that improves iron absorption, the nutritional profiles of bell peppers vary depending on their color. So which color should you choose, and how can you get the most out of its nutrients? Red bell peppers: Beta-carotene supports vision in low light Red bell peppers are rich in beta-carotene, a pigment that the body can convert into vitamin A. According to comparative data released by Korea's Rural Development Administration, red bell peppers had the highest beta-carotene content among the four colors examined. Beta-carotene is a naturally occurring pigment responsible for the yellow and orange hues of many fruits and vegetables. Beyond giving produce its color, some of th
-
-## [Why Korean occult films are casting a spell on audiences in Vietnam and Indonesia](https://www.koreatimes.co.kr/entertainment/films/20261121/why-korean-occult-films-are-casting-a-spell-on-audiences-in-vietnam-and-indonesia?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-Korean occult thriller "Exhuma" (2024) was a massive box-office success at home, drawing nearly 12 million moviegoers. But its remarkable performance in Vietnam and Indonesia, where it broke records previously held by other Korean films, revealed something equally significant: Southeast Asia could become a lucrative market for Korean supernatural cinema. The film, which explores feng shui, shamanism, ancestral graves and the legacy of Japanese colonial rule, struck a chord with audiences in countries where spiritual traditions remain deeply rooted and horror is already a popular genre. Its success has also attracted the attention of Korean film producers and investors searching for new opportunities overseas as the domestic theatrical market struggles to recover from a prolonged downturn. 'Exhuma' breaks records at home and abroad "Exhuma" was produced on a budget of 14 billion won ($9.4 million). Including an estimated 3 billion won in marketing and release expenses, its total cost reached approximately 17 billion won. The film ultimately attracted 11.91 million moviegoers in Korea, gene
-
-## [Impeachment motion against Supreme Court chief likely to be initiated on 2nd anniversary of martial law bid: lawmaker](https://www.koreatimes.co.kr/southkorea/politics/20261121/impeachment-motion-against-supreme-court-chief-likely-to-be-initiated-on-2nd-anniversary-of-martial-law-bid-lawmaker?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-The ruling Democratic Party of Korea (DPK) is expected to initiate a parliamentary motion to impeach the Supreme Court chief justice on Dec. 3, the second anniversary of ousted former President Yoon Suk Yeol's 2024 martial law bid, the party's spokesman said Saturday. Rep. Cho Gye-won, the spokesman, made the remark a day after the DPK made an official decision to seek the impeachment of Supreme Court Chief Justice Cho Hee-dae over its accusation that the top court complied with Yoon's martial law declaration, its decision to send President Lee Jae Myung's election law case back to the appeals court and other reasons. Though no official decision or discussions have been made, Rep. Cho said there appears to be a tacit "consensus" in the party about initiating the motion on Dec. 3, a point in time that he said can "demonstrate a firm determination to root out the insurrection."
-
-## [Rights commission to recommend IFEZ stop excluding foreign residents from bridge toll exemption](https://www.koreatimes.co.kr/southkorea/society/20261121/rights-commission-to-recommend-ifez-stop-excluding-foreign-residents-from-bridge-toll-exemption?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-The rights watchdog is set to recommend that the Incheon Free Economic Zone (IFEZ) Authority revise a toll exemption program for the Cheongna Sky Bridge, as the current rule excluding foreign residents of Incheon from the program discriminates against them. According to a draft of the National Human Rights Commission of Korea's recommendation obtained exclusively by The Korea Times on Saturday, the commission found little reasonable basis for the exclusion, calling it "a discriminatory act violating the right to equality." “Given that the bridge toll exemption program aims to ease local residents’ transportation burden and improve their living conditions, it is hard to see a reasonable justification for excluding foreign residents solely on the formal ground that they are not subject to resident registration,” the commission said in the draft. It added that, besides the resident registration for locals, there are other means through which foreign residents can have their residence in Incheon officially verified. Opened in January, the 4.68-kilometer bridge links Incheon Internatio
-
-## [Lee visits AI data center construction site in Ulsan](https://www.koreatimes.co.kr/southkorea/politics/20261121/lee-visits-ai-data-center-construction-site-in-ulsan?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-President Lee Jae Myung visited an artificial intelligence (AI) data center construction site in the southern port city of Ulsan on Saturday, a day after he concluded a four-day trip to the Philippines and China. The visit was aimed at checking the progress of the government-led "mega projects" aimed at transforming three regional provinces -- the central region of Chungcheong, the southwestern region of Honam and the southern region of Yeongnam -- into hubs for cutting-edge industries, such as AI data centers, physical AI and advanced semiconductors. "AI data centers are a major source of demand for semiconductors and key infrastructure behind physical AI, such as robots and autonomous vehicles," Lee said as he toured the construction site of an AI data center operated by SK. "I expect the successful progress of the AI data center project in Ulsan will serve as a catalyst for additional investments from global AI companies," he added. Lee said that the three mega projects will play a crucial role in promoting balanced regional growth, noting the government plans to provide support to re
-
-## [A 24-year-old Korean's Silicon Valley gamble pays off with a16z backing](https://www.koreatimes.co.kr/lifestyle/people-events/20261121/a-24-year-old-koreans-silicon-valley-gamble-pays-off-with-a16z-backing?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-Lee Seung-heon, also known as Heon Lee in the U.S., has chosen a path that many other Koreans would consider too risky to take. He dropped out of college to work full time at Philyron, a San Francisco-based maritime technology startup he co-founded in June this year. “Korean students and their parents feel pressure when it comes to choosing a career over a college education. But in Silicon Valley, I’ve met plenty of young Americans who dropped out of prestigious universities to start their own businesses,” he told The Korea Times. “There is certainly a cultural difference between the two countries when it comes to college education. I concluded that starting my own business was the right decision and that spending three more years in college would be meaningless because schools don’t teach you how to start a business and keep it growing.” Lee, 24, initially studied political science at Boston University. After completing his freshman year, he transferred to the University of Michigan at Ann Arbor before returning to Korea to fulfill his mandatory military service. Initially
-
-## [Art becomes key component of financial services for wealthy clients](https://www.koreatimes.co.kr/business/banking-finance/20261121/art-becomes-key-component-of-financial-services-for-wealthy-clients?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-Art is finding a place in the world of personalized wealth management, as Korea’s financial firms look beyond traditional services to cater to the interests and lifestyles of their wealthy clients, according to industry watchers on Friday. For years, private banking revolved around investment products, tax planning and inheritance. Now, banks and insurers are adding art to the mix, betting that helping clients navigate the art world can give them an edge in the competitive business of managing the wealthy. The appeal is reflected in the numbers. Art accounted for an average of 15 percent of high-net-worth collectors’ overall wealth portfolios this year, according to the Art Basel and UBS Survey of Global Collecting 2026. They spent an average of $124,265 on fine art in 2025, 13 percent more than a year earlier. In Korea, collecting is starting to draw interest not only as a matter of taste but also as a way to manage and pass on wealth. “People with money often get into art through their social circles. They go to galleries and art fairs, and before long, an interest in looking at
-
-## [From online mockery to addictive drama: 'The Remarried Empress' wins over viewers as finale nears](https://www.koreatimes.co.kr/entertainment/shows-dramas/20261121/from-online-mockery-to-addictive-drama-the-remarried-empress-wins-over-viewers-as-finale-nears?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-What began as a wave of online ridicule over questionable styling and unusual visuals is turning into growing enthusiasm for Disney+'s Korean fantasy romance "The Remarried Empress," as its fast-paced plot, tangled relationships and increasingly intense performances draw viewers deeper into the story. The Disney+ series released its seventh and eighth episodes on Wednesday, bringing the troubled marriage between Emperor Sovieshu (Ju Ji-hoon) and Empress Navier (Shin Min-a) closer to collapse. In the latest episodes, Sovieshu decides to divorce Navier, sending their already strained relationship into a downward spiral as the 10-part series approaches its conclusion. Based on a popular Korean web novel and webtoon, "The Remarried Empress" follows Navier, the seemingly perfect empress of the Eastern Empire, whose husband falls for Rashta (Lee Se-young), an escaped slave. When Sovieshu seeks a divorce, Navier agrees on one condition: that he approve her remarriage to Heinrey (Lee Jong-suk), a prince of the Western Kingdom. Blending royal intrigue, romance and fantasy, the series represents an
-
-## [Veteran actress criticizes younger actors but recalls why Park Bo-gum stood out](https://www.koreatimes.co.kr/entertainment/20261121/veteran-actress-criticizes-younger-actors-but-recalls-why-park-bo-gum-stood-out?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-Veteran actress Bae Jong-ok, known for her blunt criticism of younger actors' attitudes on set, has once again taken aim at those who spend too much time in their vehicles instead of preparing for scenes. Yet her past praise for actor Park Bo-gum, who once became so emotional that he cried before the cameras even started rolling, offers a striking contrast. Bae criticized the work habits of some younger actors during a press screening for her film "A Perfect Home" at CGV Yongsan I'Park Mall in Seoul on Wednesday. "Jang Gyu-ri and Kim Min-chul weren't like that, but sometimes when I visit sets, I wonder if young actors have honey smeared all over their cars because they never seem to leave them," Bae said. "They stay in their cars until right before filming, and only come out when the staff tell them they have to start shooting. Sometimes I even ask younger actors, 'Is there something stuck to your car?' It's really frustrating to watch." Bae said she takes a different approach to preparing for her roles, immersing herself in the environment her character inhabits. When she arrives on set,
-
-## [NewJeans' Haerin steps into spotlight again as other members remain largely out of sight](https://www.koreatimes.co.kr/entertainment/k-pop/20261121/newjeans-haerin-steps-into-spotlight-again-as-other-members-remain-largely-out-of-sight?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-Haerin of K-pop girl group NewJeans is emerging as the group's most publicly active member following her return to agency Ador, making her second official appearance in two months while her bandmates have largely stayed out of the spotlight. On Friday, Haerin attended a photo call for a cosmetics brand at Shinsegae Department Store's Gangnam branch in southern Seoul, drawing attention with her elegant styling and signature catlike features. The singer wore a black dress featuring a ribbon detail at the waist, paired with a distinctive clutch from luxury fashion house Dior. Her large eyes, delicate facial features and subtle smile gave her a doll-like appearance, combining an innocent charm with an air of mystery. Haerin waved to cameras and posed with finger hearts pressed against her cheeks, showing a playful side during the event. The appearance marked her first public event in about two months and her second official engagement since returning to Ador following the group's prolonged contract dispute. In September, Haerin made headlines when she appeared before reporters for the first t
-
-## [Actor Kim Min turns real-life hero as he helps battle rapidly spreading wildfire](https://www.koreatimes.co.kr/lifestyle/people-events/20261121/actor-kim-min-turns-real-life-hero-as-he-helps-battle-rapidly-spreading-wildfire?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-Actor Kim Min helped contain a rapidly spreading wildfire in Gangwon Province, risking his own safety as flames scorched his jacket during an emergency firefighting effort. According to JTBC on Friday, Kim spotted a fire in Goseong, Gangwon Province, on Thursday while returning to his accommodation after filming the upcoming Netflix series "The Twilight Between Us." Kim initially planned to report the fire and continue to his accommodation. But when he saw how quickly the flames were spreading, he stopped his vehicle and rushed to the scene to help extinguish them. The fire reportedly grew from about 16 square meters to roughly 165 square meters in just five minutes. With strong winds blowing from a nearby resort toward the mountains, there were concerns that the blaze could develop into a major wildfire. Kim joined a resort employee in tackling the flames with fire extinguishers available at the building, helping prevent the fire from spreading further. Despite thick smoke that severely limited visibility, the actor continued fighting the flames while covering his mouth and nose with a w
-
-## [Trump says 'confronting dangers on Korean Peninsula' discussed at 3-way summit with Xi, Putin](https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261121/trump-says-confronting-dangers-on-korean-peninsula-discussed-at-3-way-summit-with-xi-putin?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-WASHINGTON — U.S. President Donald Trump said Friday that "confronting dangers" on the Korean Peninsula was discussed when he held three-way summit talks with Chinese President Xi Jinping and Russian President Vladimir Putin this week. "We also talked about confronting dangers on the Korean Peninsula and stopping the killing in Ukraine," Trump said during a press conference at the White House. He did not elaborate on what the "dangers on the Korean Peninsula" mean. The historic talks took place Thursday in the southern Chinese city of Shenzhen on the sidelines of the annual Asia-Pacific Economic Cooperation (APEC) forum.
-
-## [Freight train derails near Sejong, leaving Saemaeul, Mugunghwa services suspended](https://www.koreatimes.co.kr/southkorea/society/20261121/freight-train-derails-near-sejong-leaving-saemaeul-mugunghwa-services-suspended?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-PYEONGTAEK/SEJONG — Five cars of a freight train derailed near the central administrative city of Sejong early Saturday, leaving Saemaeul and Mugunghwa train services between the cities of Daejeon and Cheonan suspended. High-speed KTX services were unaffected, and no human casualties were reported. The 21-car train went off the rails after an automatic emergency brake system activated as it entered Sojeong-ri Station in Sejong, some 120 kilometers south of Seoul, at 5:37 a.m. When the train went off the tracks, it hit and broke a steel support pole, snapping the overhead power lines and causing a power outage between Cheonan and Jeonui stations. The accident initially delayed Saemaeul and Mugunghwa passenger trains before services were suspended. KTX bullet trains, which run on separate tracks, were not affected. Korea Railroad Corp. (KORAIL) said it will use buses to transport passengers over the suspended section so that they can change trains to their ultimate destinations. KORAIL said it would carry out repair work and safety inspections overnight to fully restore rail services on a
-
-## [Araqchi says Iran wants diplomacy to end war; Trump says terms unacceptable](https://www.koreatimes.co.kr/world/20261121/araqchi-says-iran-wants-diplomacy-to-end-war-trump-says-terms-unacceptable?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-Iran's Foreign Minister Abbas Araqchi said Tehran still hoped diplomacy could end its war with the United States, while US President Donald Trump said Iran wanted a deal but one that was not acceptable to him. Araqchi told the state-owned Iran newspaper that Tehran was seeking "an agreement that would ensure there was no further war" and wanted guarantees that Washington was serious about negotiations before proceeding further, adding that Iran had discussed with mediators the form and nature of confidence-building measures. The remarks came as diplomatic efforts continued to try to end a conflict that has destabilized the Middle East, disrupted shipping, driven up global energy prices and drawn in countries across the region. The foreign minister said Iran's red lines included keeping enriched uranium in the country, though he added that he believed "a fair solution" could be reached. "They want to make a deal, but they don't want to make a deal that's acceptable to me," Trump said at a press conference on Friday. The United States and Israel attacked Iran on February 28, prompting Tehra
-
-## [Texas prisoner moans in pain for minutes during unusual lethal injection, witnesses say](https://www.koreatimes.co.kr/world/20261121/texas-prisoner-moans-in-pain-for-minutes-during-unusual-lethal-injection-witnesses-say?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-A condemned Texas prisoner moaned and yelled out in pain and remained conscious for several minutes after prison officials began administering lethal injections in what witnesses described on Friday as an unusually protracted execution. Prison officials took about 34 minutes to successfully insert two intravenous lines in convicted murderer Reinaldo Dennes: one in his neck and the other in his left foot after the veins in his arms were found unviable, according to the Texas Department of Criminal Justice. They began injecting pentobarbital, a caustic barbiturate, at 6:52 p.m. on Thursday, and he was declared dead 15 minutes later, according to the department's records, during which a media witness and a spiritual adviser said Dennes repeatedly moaned in pain. The spiritual adviser, the Rev. Jeff Hood, recalled Dennes using repeated expletives and saying: "My leg is killing me," and, "My leg it's on fire, it's on fire." "He was clearly in tremendous distress," Hood, who was inside the execution chamber with his hand on Dennes' shoulder, told reporters. "Twice he said 'it's not working, it
-
-## [Telecoms ramp up AI investment amid questions over returns](https://www.koreatimes.co.kr/business/tech-science/20261121/telecoms-ramp-up-ai-investment-amid-questions-over-returns?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-Major telecom companies are increasing capital expenditures as they expand into artificial intelligence (AI) data center businesses, with questions remaining over their ability to recoup the growing investments as construction and operating costs mount. According to the companies' regulatory filings on Friday, SK Telecom, KT and LG Uplus spent a total of 3.68 trillion won ($2.75 billion) on capital expenditure in the first nine months of this year, up 13.7 percent from a year earlier. LG Uplus posted the biggest increase, with capital expenditure on a standalone basis reaching 569.8 billion won in the third quarter, up 30.1 percent year-on-year. The increase was largely driven by investment in its AI data center project in Paju, Gyeonggi Province. The company is building a 200-megawatt-scale facility in the city, with four buildings scheduled to begin operations by 2028. Its first 50-megawatt building is expected to be completed by next June, while the company says it has secured customer demand for all four buildings. KT's cumulative capital expenditure, including major affiliates, reac
-
-## [Robots patrol parks, serve meals in Seoul's wealthy Gangnam District](https://www.koreatimes.co.kr/southkorea/others/20261121/robots-patrol-parks-serve-meals-in-seouls-wealthy-gangnam-district?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-In Seoul’s affluent Gangnam District, long synonymous with glittering skyscrapers, luxury boutiques and K-pop glamour, the newest public servants roll on wheels, purify library air and strap onto the backs of sanitation workers. Under an expanded municipal trial unveiled recently, Gangnam District is deploying artificial intelligence (AI)-powered robots across five everyday civic roles — patrolling parks for fire hazards, clearing lunch trays at a senior center and assisting street sweepers with heavy lifting. The program transforms the bustling urban district into a live testing ground for Korean robotics startups eager to prove their machines can survive the unpredictability of real city streets. The initiative underscores a wider national push across Korea, which already leads the world in industrial robot density — with more than 1,000 robots per 10,000 manufacturing workers — and is now racing to bring automation out of factories and into daily life. Facing one of the fastest-aging populations and lowest birthrates among developed economies, Korean policymakers and tech com
-
-## [Mexican novelist explores Korea through AI dolls, shamans, beauty in 'Peeling'](https://www.koreatimes.co.kr/lifestyle/books/20261121/mexican-novelist-explores-korea-through-ai-dolls-shamans-beauty-in-peeling?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-Beyond the global appeal of K-pop, K-dramas and K-beauty lies another side of Korea. For Mexican anthropologist and novelist Verónica González Laporte, who lived in Seoul for more than five years with her husband, former Mexican Ambassador to Korea Bruno Figueroa Fischer, her affection for the country inspired her to look beyond its polished image and explore the complexities of a society where cutting-edge technology coexists with centuries-old beliefs. "I was trying to offer another Korea, as I always try to go behind the stage," González told The Korea Times, explaining the inspiration behind her latest novel, "Peeling," which explores Korean society through the intertwined themes of beauty, isolation, gender and shamanism. From real-life encounters to fiction The novel follows Ji-ho, a plastic surgeon who, after a series of failed relationships and a period of loneliness, orders an AI sex doll named Seong-mi and falls in love with her. As he grows increasingly attached to the doll, his father becomes critically ill. A shaman warns that his father's condition is linked to a family
-
-## [Nvidia's accounting is focus of US SEC investigation, sources say](https://www.koreatimes.co.kr/world/20261121/nvidias-accounting-is-focus-of-us-sec-investigation-sources-say?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-NEW YORK/WASHINGTON — The U.S. Securities and Exchange Commission is probing Nvidia's accounting practices, said two people briefed on the matter, adding to the legal woes facing the scandal-hit chip giant. The Wall Street Journal on Tuesday reported that the SEC was probing Nvidia but said it could not ascertain the focus of the investigation. The people, who spoke to Reuters on condition of anonymity to discuss confidential issues, said SEC enforcement staff are scrutinizing potential accounting issues at the company. A spokesperson for the SEC declined to comment. Spokespeople for Nvidia did not immediately respond to requests for comment. Reuters could not immediately determine when the SEC opened its inquiry or exactly what potential accounting issues the watchdog is examining. Investigations are not evidence of wrongdoing and many close without resulting in enforcement action. Still, the accounting focus of the probe, which Reuters is reporting for the first time, increases pressure on Nvidia, whose investors are still reeling from revelations about ousted CEO Jensen Huang's extr
-
-## [Former Nvidia CEO Huang agreed to testify at public US Senate hearing, senator's aide says](https://www.koreatimes.co.kr/world/20261121/former-nvidia-ceo-huang-agreed-to-testify-at-public-us-senate-hearing-senators-aide-says?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-WASHINGTON — Former Nvidia CEO Jensen Huang has agreed to testify before the U.S. Senate in a public hearing, an aide to Republican U.S. Senator Tim Scott said in a statement on Friday, as lawmakers probe allegations about Huang's ties to a woman accused of being a Chinese spy. Huang has drawn increased attention from U.S. lawmakers since the New York Times reported he had a romantic relationship with the woman, raising questions on exports of Nvidia's advanced AI chips to China. If the hearing proceeds as planned, it would mark Huang's first public testimony since stepping down as Nvidia's chief executive on November 12. A spokesperson for Huang declined to comment on the hearing. Scott's office did not provide a date, though the senator's original request asked Huang to appear on December 3. Huang separately agreed to a closed-door interview with three House committees, slated for December 1.
-
-## [Trump calls for Nvidia's Huang to be given 'second chance'](https://www.koreatimes.co.kr/world/20261121/trump-calls-for-nvidias-huang-to-be-given-second-chance?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-WASHINGTON — U.S. President Donald Trump on Friday called for chip giant Nvidia to reinstate disgraced former CEO Jensen Huang after he resigned over extramarital affairs, including one with an alleged Chinese spy. "I would love to see him be back. You have one of the truly most brilliant minds in the world, and where is he going to go?" Trump told reporters. "I think that I would love to see Jensen be given a second chance." Huang resigned last week as chief of Nvidia, a company at the center of the AI revolution, after revelations of an affair with an alleged Chinese spy who may have funneled restricted chips to that country. Reports of at least two further affairs emerged after that initial report, with U.S. intelligence said to be aware of the possibility of the alleged Chinese espionage. Trump defended Huang as "a good man" who "made some bad decisions." "I'd like to see Jensen make a big apology and go back because he created something with Blackwell," he said, referring to the most advanced chips designed by Nvidia. The U.S. president also appeared to directly contradict his own tr
-
-## [Trump defends calling Putin a friend, unsure if he's a friend to US](https://www.koreatimes.co.kr/world/20261121/trump-defends-calling-putin-a-friend-unsure-if-hes-a-friend-to-us?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-WASHINGTON — President Donald Trump has defended calling Russian President Vladimir Putin a friend but says he “can’t speak” to whether the Russian leader is a friend to the U.S. Trump raised eyebrows in China days ago with his warm welcome and repeated references to his Russian counterpart as his “friend,” and he did not back away from that in the briefing room on Friday. The Republican president appeared to sidestep a question about whether he sees Putin as a friend to the United States. “I can’t speak to America,” he said, without expounding before he shifted to his “very good” personal relationship with Putin and repeated his longstanding grievances over the extended federal probe into Russian attempts to influence U.S. voters in the 2016 presidential election. “I consider him to be somebody that I have a very good relationship (with),” Trump said. “It’s actually very good.” Trump broadly praised Putin and China's Xi Jinping after bilateral and trilateral meetings among the trio. Putin, Trump insisted, would “love to end the war” in Ukraine but said
-
-## [Trump vows 'tremendous tax' for US firms building data centers in other countries](https://www.koreatimes.co.kr/world/20261121/trump-vows-tremendous-tax-for-us-firms-building-data-centers-in-other-countries?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-WASHINGTON — President Donald Trump says U.S. tech companies will face “a tremendous tax” if they build artificial intelligence data centers in other countries. Trump did not provide details Friday and he said he hadn’t yet told his own officials about his plan. The Republican president urged Americans to welcome data center construction in their communities and extract concessions from the developers, repeating a point he made before the midterms. Trump says, “You ought to take advantage of the data centers. Make them pay you, make them pay your community, but don’t shut them off.” With host communities across the U.S. turning against their gargantuan data centers, America’s technology giants are promising to take fewer taxpayer handouts, keep fewer secrets or shower more money onto the communities willing to allow the server warehouses. The new raft of promises from the world’s richest companies came as anti-data center sentiment was a potent issue in the midterm elections, in which Democrats took control of Congress. Despite backing from Trump , the data centers power
-
-## [Fed's Cook says rate hikes needed to lower high inflation](https://www.koreatimes.co.kr/world/20261121/feds-cook-says-rate-hikes-needed-to-lower-high-inflation?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-Federal Reserve Governor Lisa Cook on Friday made a case for more interest rate hikes, saying the U.S. central bank's current policy rate is not high enough to deal with inflation levels she views with "great concern." "In a different environment, the (Federal Open Market) Committee could afford to be patient, but I continue to believe that in this economic climate we do not have that luxury," given how high inflation is and for how long it has been above the Fed's 2 percent target, Cook said in the text of a speech to be presented at a central bank conference in Chile. Cook said the quarter-percentage-point rate hike the Fed delivered at its September 15-16 policy meeting was not enough to moderate current levels of inflation. What's more, "inflation data received since the September rate increase, including reports last week, fail to provide me with sufficient evidence that inflation is returning to a sustainable path," she said. "There is little evidence inflation is declining." Cook, who voted for a rate hike at that meeting, was one of two Fed officials who dissented over the Fed's
-
-## [Anthropic's post-debut stumble delivers reality check for AI trade](https://www.koreatimes.co.kr/world/20261121/anthropics-post-debut-stumble-delivers-reality-check-for-ai-trade?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-Anthropic's much-hyped arrival on Wall Street fizzled out on Friday as a dramatic unraveling of the AI trade showed that even a blockbuster listing could not shake the gloom hanging over the sector. As the first large machine-learning model maker to go public, Anthropic is widely seen as a proxy for the AI trade, and its listing had been viewed as a potential boost for a sector struggling to regain its footing. But the stock was last trading at $87.28, about 10 percent below Thursday's close and not far from its $83 IPO price, while declines in other technology heavyweights suggested the listing had done little to stem the broader selloff. "Anthropic faded relatively quickly. I don't think investors believe there's something inherently wrong with the company, management or business. I think they're just skeptical of this market," said Robert Pavlik, senior portfolio manager at Dakota Wealth. The AI boom has come under pressure over the past month as concerns mount that spending on the technology, expected by some estimates to top $1 trillion this year, is not generating returns quickly e
-
-## [Second judge blocks Trump's triumphal arch, calling it a 'rushed job'](https://www.koreatimes.co.kr/world/20261121/second-judge-blocks-trumps-triumphal-arch-calling-it-a-rushed-job?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-ALEXANDRIA, Virginia — A federal judge on Friday blocked construction of President Donald Trump’s proposed triumphal arch, saying it was a “rushed job” that lacked a legal basis. During a court hearing, U.S. District Judge Leonie Brinkema in Alexandria, Virginia, said she would issue an injunction indefinitely blocking the proposed 250-foot (76-meter) arch near Arlington National Cemetery from moving forward while she hears a legal challenge brought by Virginia's Arlington County. A different judge in Washington had previously blocked the project until December 3 and is weighing a longer-term injunction. Brinkema, an appointee of President Bill Clinton, said there were multiple defects in the federal government’s analysis of the economic and environmental impact of the project, including an inadequate explanation of how it will affect nearby Reagan Washington National Airport. "That just hasn’t been done in the case because it’s been such a rushed job,” the judge said. The ruling was the latest courtroom setback for one of Trump's many efforts to leave a lasting architectu
-
-## [Trump faces tumult at home after Xi-Putin 'embarrassment'](https://www.koreatimes.co.kr/world/20261121/trump-faces-tumult-at-home-after-xi-putin-embarrassment?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-WASHINGTON — U.S. President Donald Trump returned to face post-midterms turmoil at home Friday after strutting on the world stage in a widely criticized meeting in China with Xi Jinping and Vladimir Putin. Trump was holding a press conference at the White House at noon (1700 GMT) on what he said was a "Great and Highly Consequential Trip" to Shenzhen and Manila. But U.S. media and Trump's opponents dismissed his trilateral summit as a little more than a photo opportunity for a lame-duck president seeking to reassert some power abroad. Trump was mocked in particular for saying "that's my friend" as he greeted Russia's Putin, despite Moscow's brutal war in Ukraine. The news conference will be a chance for Trump to try to reset the narrative by talking up his trip and its benefits for the United States, with the Republican saying he will also be discussing trade deals with Asian nations. Trump arrived in Asia on the back of a bruising defeat in U.S. midterm elections earlier this month, with the Iran war grinding on and the White House facing multiple investigations by the incoming Democra
-
-## [Trump, Xi did not discuss Nvidia's Huang: US Treasury Secretary](https://www.koreatimes.co.kr/world/20261121/trump-xi-did-not-discuss-nvidias-huang-us-treasury-secretary?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-WASHINGTON — U.S. President Donald Trump did not discuss former Nvidia CEO Jensen Huang with Chinese President Xi Jinping during their meeting this week, Treasury Secretary Scott Bessent said on Friday. Huang resigned as chief of the chip giant at the center of the artificial intelligence revolution after revelations of extramarital affairs, including one with an alleged Chinese spy who may have funneled restricted chips to that country. Responding to a question, Bessent told U.S. broadcaster CNBC that Huang had not come up in Trump's talks with Xi, held earlier this week in Shenzhen. Speaking about the Trump administration's support for the domestic AI sector, Bessent stressed that the United States "must stay ahead" of China in that realm. "Our best protection against the foreign SI and exploits by foreign actors is for our labs to maintain their substantial lead, and in effect, they are our shield against SI," he said, using the administration's term for AI technology. "There's no turning back on this. What we have to do is make sure that our labs maintain their leads through their c
-
-## [Signal restricts screenshots to block AI agents from reading messages](https://www.koreatimes.co.kr/world/20261121/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-NEW YORK — Encrypted messaging service Signal said on Friday it would restrict screenshots to stop AI agents from reading private chats on phones, warning that the tech industry's push to embed AI in consumer devices was eroding its ability to guarantee privacy. Signal, widely regarded by privacy advocates as a leader in secure messaging, called its new protections "incomplete" and urged operating system providers Apple, Alphabet's Google and Microsoft to give app developers more concrete ways to block the agents from accessing sensitive data. It also called on those companies to provide more information about how their agents function, so developers can assess what data the bots are accessing and adjust their systems accordingly. The move reflects growing tension between privacy-focused apps and the biggest tech companies, which are racing to roll out AI agents designed to see what is on a user's screen and take actions based on it. Signal identified as particularly worrisome the AI capabilities built directly into operating systems, like Apple's Siri AI and Google's Gemini Intelligen
-
-## [Bessent says still living at US military base, vows to squeeze Iran](https://www.koreatimes.co.kr/world/20261121/bessent-says-still-living-at-us-military-base-vows-to-squeeze-iran?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-WASHINGTON — Treasury Secretary Scott Bessent said on Friday he was still living at a U.S. military base after receiving unspecified threats from Iran, but vowed to continue squeezing the country economically. "If the Iranians are after me, it means that they are being squeezed. We're going to continue squeezing them," Bessent said in an interview with CNBC. Treasury has been tightening sanctions on Iran. The U.S. and Israel launched strikes against Iran in February and the conflict is simmering in the region despite intermittent talks on a resolution.
-
-## [Nasdaq falls as Anthropic fails to rekindle AI optimism](https://www.koreatimes.co.kr/world/20261121/nasdaq-falls-as-anthropic-fails-to-rekindle-ai-optimism?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-Tumbling technology-related shares led a global stock selloff on Friday, with U.S. traders rotating into defensive sectors and the U.S. 10-year yield dropping by the most in a month. Stock benchmarks in Japan and Korea tumbled over 5 percent overnight to close the week, while on Wall Street chipmaker shares were down close to 6 percent. Taiwanese shares were down 17 percent for the week, their biggest weekly decline since 1990. Anthropic fell as much as 12.5 percent on its first full day of trading. Consumer staples and healthcare led sector gains on the S&P 500, which was still on track to post its largest weekly loss since March 2025. "Markets are entering a more defensive phase," said Daniela Hathorn, senior market analyst at Capital.com. "Strong AI demand and successful individual listings are no longer sufficient to sustain broader risk appetite when investors are questioning valuations, borrowing costs and the outlook for corporate profitability." The Dow Jones Industrial Average rose 0.08 percent to 49,135.56, the S&P 500 fell 1.20 percent to 7,089.64 and the Nasdaq Composite fell
-
-## [Celebrities' YouTube channels become double-edged sword](https://www.koreatimes.co.kr/entertainment/20261121/celebrities-youtube-channels-become-double-edged-sword?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-It is the age of self-promotion. Celebrities are increasingly turning to their own channels, beyond their acting projects and television appearances, to communicate with the public and reveal different sides of themselves. From behind-the-scenes footage of their work to glimpses of their everyday lives in private spaces, they are making efforts to bring themselves closer to their audiences. For stars, approachability has become a new competitive advantage and a way to win public favor. But as the distance between celebrities and their fans narrows, unexpected controversies are also becoming more common. Attempts to connect with audiences through an image of familiarity are increasingly turning into sources of controversy. Actress Son Tae-young recently found herself at the center of a heated debate over remarks she made on her YouTube channel. The controversy began after she said that she had raised her two children in the United States while taking care of all the housework and childcare herself for six years without hiring domestic help. Although the comment came in the course of sha
-
-## [Love, conflict and the paradox of choice: Inside Korea's dating show boom](https://www.koreatimes.co.kr/entertainment/20261121/love-conflict-and-the-paradox-of-choice-inside-koreas-dating-show-boom?utm_source=rss)
-
-via Korea Times · 2026-11-21
-
-At a park along the Skagit Riverwalk in Mount Vernon, Washington, a man in a white dress shirt sat on a bench, holding three tulips. He was waiting for his “wife.” She traveled from Busan to Incheon International Airport before embarking on an 11-hour flight to the United States, barely sleeping at all during the journey. “Are you hungry? Are you? This is so awkward.” When she finally arrived, he appeared flustered and unsure of what to say. There was a good reason for his awkwardness: It was the first time the two had ever met. The man was Sang-cheol, a contestant on the 16th season of the dating reality show “I Am Solo,” and the woman was Young-sook, a contestant from its 28th season. The two recently began living together as a married couple on “Marriage of Convenience,” a reality show released on KBS Joy, MBC every1 and Netflix. The premise is that a man and a woman first live together as if they were married before deciding whether to actually tie the knot. Neither Sang-cheol nor Young-sook knew they would be paired with each other. Nam Gyu-hong, the producer oversee
-
 ## [Thousands attend protest in defence of Triple Lock](https://www.rte.ie/news/dublin/2026/1121/1600126-rally-neutrality/)
 
 via RTÉ News · 2026-11-21, updated 2026-11-23
@@ -7349,17 +8264,17 @@ via BBC, US & Canada · 2026-11-21
 
 "There is a much, much deeper part to what a cancer diagnosis shifts in you," says Catherine in the documentary.
 
-## [‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen](https://news.un.org/feed/view/en/story/2026/11/1168851)
-
-via United Nations, Top Stories · 2026-11-21, updated 2026-11-26
-
-When fighting suddenly escalated around Taiz, in southwestern Yemen two months ago, midwife Anisa Fadhl had no time to pack a bag before she fled, leaving behind her home and her clinic. Both were later looted and destroyed.
-
 ## [Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño](https://news.un.org/feed/view/en/story/2026/11/1168834)
 
-via United Nations, Climate Change · 2026-11-21, updated 2026-11-26
+via United Nations, Climate Change · 2026-11-21, updated 2026-11-27
 
 Years of insecurity, violence perpetrated by murderous armed gangs and economic instability, combined with displacement, poor agricultural performance and climate shocks, have left millions of Haitians struggling to meet their food needs.
+
+## [‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen](https://news.un.org/feed/view/en/story/2026/11/1168851)
+
+via United Nations, Top Stories · 2026-11-21, updated 2026-11-27
+
+When fighting suddenly escalated around Taiz, in southwestern Yemen two months ago, midwife Anisa Fadhl had no time to pack a bag before she fled, leaving behind her home and her clinic. Both were later looted and destroyed.
 
 ## [Age-Friendly initiative works to help Sask. seniors stay in their home communities](https://www.cbc.ca/news/canada/saskatchewan/age-friendly-sask-9.7430139?cmp=rss)
 
@@ -7801,7 +8716,7 @@ U.S. tech companies that build artificial intelligence data centers in other cou
 
 ## [Haida Nation competitor uses knowledge of the land to make top 4 on MasterChef Canada](https://www.cbc.ca/news/indigenous/masterchef-canada-geraldine-russ-9.7428652?cmp=rss)
 
-via CBC, Indigenious News · 2026-11-20, updated 2026-11-25
+via CBC, Indigenious News · 2026-11-20, updated 2026-11-26
 
 ![A woman is cooking.](https://i.cbc.ca/ais/8cb0401a-5d52-4e85-b56f-622219561771,1795211456307/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B)
 
@@ -7833,13 +8748,13 @@ A Windsor, Ont., police officer has pleaded guilty to uttering threats and was g
 
 ## [Navy’s Shipbuilding Plan Would Exceed Budget Estimates by Hundreds of Billions, CBO Finds](https://news.usni.org/2026/11/20/navys-shipbuilding-plan-would-exceed-budget-estimates-by-hundreds-of-billions-cbo-finds)
 
-via US Navy Institute · 2026-11-20, updated 2026-11-25
+via US Navy Institute · 2026-11-20, updated 2026-11-27
 
 Increasing the size of the Navy’s fleet by 112 ships over the next three decades would require a 41 percent increase in the sea service’s annual budget and exceed the Navy’s own budget estimates by about 18 percent – a total delta of some $234 billion.  That’s according to a new analysis from the Congressional Budget Office, released Wednesday. The report evaluates the 30-year shipbuilding plan for Fiscal Year 2027 that the Navy submitted to Congress in May, which would take the fleet from its current 286 ships to 398 by 2056. The Department of Defense submitted the Navy’s shipbuilding
 
 ## [Pearl Harbor Hero Doris Miller Will Stay Namesake of CVN-81](https://news.usni.org/2026/11/20/pearl-harbor-hero-doris-miller-will-stay-namesake-of-cvn-81)
 
-via US Navy Institute · 2026-11-20, updated 2026-11-25
+via US Navy Institute · 2026-11-20, updated 2026-11-27
 
 The future aircraft carrier CVN-81 will keep its name of USS Doris Miller, USNI News has learned. HII’s Newport News Shipbuilding will lay the ceremonial keel for the future Doris Miller on Dec. 5, according to an invitation to the ceremony reviewed by USNI News. The ship is named after the enlisted sailor who received the Navy Cross for his heroics during the attack on Pearl Harbor. Miller, 25, died in the Battle of Makin.  Earlier this year, CNN reported that the Navy was considering naming CVN-81, potentially in honor of President Donald Trump. Following the reporting, several defense officials
 
@@ -7861,7 +8776,7 @@ Original Baywatch star Erika Eleniak is opening up about work and money challeng
 
 ## [Budget promises $11B to address First Nations housing needs over 10 years](https://www.cbc.ca/news/indigenous/rebecca-alty-bearspaw-chief-darcy-dixon-michael-day-9.7429793?cmp=rss)
 
-via CBC, Indigenious News · 2026-11-20, updated 2026-11-25
+via CBC, Indigenious News · 2026-11-20, updated 2026-11-26
 
 ![Crown-Indigenous Relations Minister speaks with Bearspaw First Nation leadership after federal housing announcement for homes to be built in Mini-Thni](https://i.cbc.ca/ais/d12027c2-d850-4a8c-90ff-c8fbef86d613,1795204586348/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C74%2C1440%2C810%29%3B)
 
@@ -7869,7 +8784,7 @@ Last Friday in Bearspaw First Nation, Crown-Indigenous Relations Minister Rebecc
 
 ## [USNI News Western Pacific Pulse: Nov. 20, 2026](https://news.usni.org/2026/11/20/usni-news-western-pacific-pulse-nov-20-2026)
 
-via US Navy Institute · 2026-11-20, updated 2026-11-25
+via US Navy Institute · 2026-11-20, updated 2026-11-27
 
 ﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In Singapore On Friday, amphibious assault ship USS Makin Island (LHD-8) and amphibious transport dock USS John P. Murtha (LPD-26) pulled into Sembawang, Singapore, according to local ship spotters and AIS data.  Makin Island and John P. Murtha, with amphibious transport dock USS Anchorage (LPD-23) and the embarked 13th Marine Expeditionary Unit, form the Makin Island Amphibious Ready Group. Anchorage remains docked at Commander Fleet Activities Yokosuka in Japan. Littoral Combat Ship USS Tulsa (LCS-16) pulled into Singapore on Saturday
 
@@ -7929,7 +8844,7 @@ New late-night working rules have been announced for young people employed in th
 
 ## [CBO Analysis of the Navy’s Fiscal Year 2027 Shipbuilding Plan](https://news.usni.org/2026/11/20/cbo-analysis-of-the-navys-fiscal-year-2027-shipbuilding-plan)
 
-via US Navy Institute · 2026-11-20, updated 2026-11-25
+via US Navy Institute · 2026-11-20, updated 2026-11-27
 
 The following is the Congressional Budget Office’s Analysis of the Navy’s Fiscal Year 2027 Shipbuilding Plan, released Nov. 19, 2026. From the Report Summary Each year, as directed by the Congress, the Department of Defense submits a report with the President’s budget describing the Navy’s plan for its future fleet for the next 30 years. In this report, the Congressional Budget Office analyzes the Navy’s 2027 plan and estimates its costs. Overall, the Navy wants to build a larger fleet whose firepower is distributed among more ships and unmanned vessels than it is today. Cost. CBO estimates that the Navy’s
 
@@ -7961,7 +8876,7 @@ Two former U.S service members who were stationed at Pearl Harbor in Hawaii when
 
 ## [U.S., Philippine Marines Set Up Surveillance Radar in Palawan](https://news.usni.org/2026/11/20/u-s-philippine-marines-set-up-surveillance-radar-in-palawan)
 
-via US Navy Institute · 2026-11-20, updated 2026-11-25
+via US Navy Institute · 2026-11-20, updated 2026-11-27
 
 MANILA, Philippines — U.S. and Philippine Marines set up coastal surveillance radar on a beach facing the South China Sea during a maritime strike targeting drill earlier this month. Marines with Marine Rotational Force-Southeast Asia practiced deploying a Ground Based Maritime Systems-Light system in Aporawan, Palawan, with their Philippine counterparts on Nov. 5. The activity was held under the latest iteration of the Archipelagic Coastal Defense Continuum. These series of small bilateral drills aim to enhance Philippine forces through training activities involving maritime domain awareness and fire coordination. Derived from a short-range Furuno radar system, the Marine Corps radar is
 
@@ -7986,42 +8901,6 @@ via Vatican News · 2026-11-20, updated 2026-11-26
 Russia has struck bridges and railway stations in Kyiv in one of its largest assaults on Ukraine, killing at least eight people.
 
 [Read all](https://www.vaticannews.va/en/world/news/2026-11/russia-hits-kyiv-bridges-in-massive-overnight-attack.html)
-
-## [Roy Kim turns KSPO Dome into refuge for lovers on chilly night](https://www.koreatimes.co.kr/entertainment/k-pop/20261120/roy-kim-turns-kspo-dome-into-refuge-for-lovers-on-chilly-night?utm_source=rss)
-
-via Korea Times · 2026-11-20
-
-For those familiar with K-pop, KSPO Dome in southern Seoul usually means an arena awash in synchronized lightsticks, with fans chanting between choreographed sets. On Friday, as singer-songwriter Roy Kim took the stage there for the first time in his career, the stands looked entirely different. Couples filled much of the arena, many huddled close against the first real chill of the season. In place of the usual lightsticks, a quieter kind of warmth rippled through the seating — the comfort of sitting beside someone you love on a cold night. The concert, "2026-27 Roy Kim Live Tour 'R:O:Y' in Seoul," runs through Sunday and marks a milestone for an artist who has built his career on ballads. After the originally scheduled weekend shows sold out, his agency, DEUL, added a Friday performance, which also sold out — a rare feat for a ballad singer at a venue many Korean musicians dream of headlining. Kim rose to fame by winning Mnet's audition program "Superstar K4" in 2012 and debuted the following year with "Bom Bom Bom," a breezy spring tune that became his signature. Writing and singi
-
-## [Temple food offers more than just taste of Korea, Ven. Sunjae says](https://www.koreatimes.co.kr/lifestyle/koreanheritage/20261120/temple-food-offers-more-than-just-taste-of-korea-ven-sunjae-says?utm_source=rss)
-
-via Korea Times · 2026-11-20
-
-Korean temple food can offer more than a healthy, meat-free meal, Korean Buddhist temple food master Ven. Sunjae said Friday, inviting future travelers to discover the stories, seasonal rhythms and respect for nature behind the cuisine. Speaking at a forum held at Kyonggi University’s Seoul campus, Sunjae urged her audience to look beyond recipes and presentation to the relationships connecting food, people and the environment. More than 200 people, including professors, students and members of the public, attended the lecture, which was part of the university’s forum on the future of tourism. “When I went abroad, I never simply showed people food,” she said. “I always brought culture with it.” Her remarks offered an approach to culinary tourism through storytelling and participation rather than consumption. A meal, she explained, carries the history of its ingredients, the work of farmers and the customs of those who prepare and share it. Sunjae, a former head of the Korean Food Promotion Institute, illustrated that philosophy using a radish as an example. "I was once speaking
-
-## [Cold snap to bring subzero temperatures Saturday, with up to 8 cm of snow in North Jeolla Province](https://www.koreatimes.co.kr/southkorea/others/20261120/cold-snap-to-bring-subzero-temperatures-saturday-with-up-to-8-cm-of-snow-in-north-jeolla-province?utm_source=rss)
-
-via Korea Times · 2026-11-20
-
-A cold snap is expected to bring subzero temperatures to most of the nation Saturday morning, with up to 8 centimeters of snow forecast for parts of North Jeolla Province, the Korea Meteorological Administration (KMA) said Friday. Morning lows are expected to range from minus 8 to 3 degrees Celsius, with daytime highs of 1 to 11 degrees, below seasonal averages. Cold air moving south from the northwest will push temperatures below freezing across most regions. Morning lows in major cities are forecast at minus 5 degrees in Seoul and Incheon, minus 7 degrees in Chuncheon, minus 4 degrees in Daejeon, minus 3 degrees in Daegu, zero degrees in Gwangju and 1 degree in Busan. Daytime highs are expected to reach 2 degrees in Seoul, Incheon and Chuncheon, 4 degrees in Daejeon, 6 degrees in Daegu, 7 degrees in Gwangju and 8 degrees in Busan. Skies will be mostly clear nationwide, although South Chungcheong Province, North Jeolla Province, Jeonnam-Gwangju Special Metropolitan City and Jeju Island will be mostly cloudy. Rain or snow is expected in parts of South Chungcheong Province through early S
-
-## [Lee approves appointment of new police chief](https://www.koreatimes.co.kr/southkorea/law-crime/20261120/lee-approves-appointment-of-new-police-chief?utm_source=rss)
-
-via Korea Times · 2026-11-20
-
-President Lee Jae Myung on Friday approved the appointment of Kim Jong-chul as new commissioner general of the Korean National Police Agency (KNPA), his office said. Lee's approval came after a parliamentary committee adopted a report on Kim's confirmation hearing with bipartisan support earlier this week. Kim will fill a post that has remained vacant for nearly two years since the former police chief was suspended from duty in connection with former President Yoon Suk Yeol's failed martial law bid in late 2024. The KNPA commissioner general can be appointed by the president without parliamentary consent following a confirmation hearing.
-
-## [K-pop solo queens square off in late-November showdown](https://www.koreatimes.co.kr/entertainment/k-pop/20261120/k-pop-solo-queens-square-off-in-late-november-showdown?utm_source=rss)
-
-via Korea Times · 2026-11-20
-
-Four girl group stars who went on to build solo careers of their own are releasing new music within 10 days of one another, setting up a late-November contest among the leading female voices of K-pop's second and third generations. Nayeon of girl group TWICE, who made her solo debut in 2022 with the EP "IM NAYEON," returns about two and a half years after her second EP, "NA." Her first single album, "NA-sty," plays on her name and the English word "nasty," hinting at a mischievous streak, according to her label, JYP Entertainment. The lead track "BABY ANGEL" is an R&B-pop number featuring contributions from Sim Eun-ji, the songwriter behind TWICE hits like "YES or YES," and layers an impish edge over her bright image. Nayeon has described "cheekiness" as the release's defining image, saying she wanted an unpredictable boldness and playfulness to sit alongside her familiar brightness. Nayeon also wrote the lyrics and co-composed "SHiVER," one of three tracks on the new work. CL, who led girl group 2NE1 and launched her solo career in 2013 with "The Baddest Female," also returned to the K-p
-
-## [Moon Ga-young's smoothie packs protein, vitamins using kitchen staples](https://www.koreatimes.co.kr/entertainment/20261120/moon-ga-youngs-smoothie-packs-protein-vitamins-using-kitchen-staples?utm_source=rss)
-
-via Korea Times · 2026-11-20
-
-Click here for more articles by Kormedi.com. Actress Moon Ga-young has shared her own recipe for a quick and easy smoothie. A video showing Moon making the drink herself was recently posted on the official YouTube channel of her agency, Fantagio. In the video, Moon said, "It's 2:20 p.m. right now, and I haven't eaten anything yet today. I'm going to make my own smoothie so I can have something quickly." "You don't need many ingredients. All you need is avocado, blueberries, yogurt, coconut milk and vanilla extract," she said before getting started. She first put blueberries and avocado into a blender, then added a spoonful of Greek yogurt. She poured in coconut milk and vanilla extract before turning on the blender. Moments after switching it on, however, Moon realized she had forgotten something important. "I left out the most important ingredient," she said. "I was supposed to add protein powder. Good thing I remembered now." She quickly stopped the blender, added the protein powder and hit the button again. "Blueberry-avocado protein shake, complete!" she exclaimed. After tasting it, she s
 
 ## [Young protesters hit the streets across Europe](https://www.rte.ie/news/2026/1120/1600022-europe-protests/)
 
@@ -8181,11 +9060,29 @@ Cardinal Pierbattista Pizzaballa, Latin Patriarch of Jerusalem, highlights the i
 
 [Read all](https://www.vaticannews.va/en/vatican-city/news/2026-11/holy-land-pizzaballa-gugerotti-visit-interview.html)
 
+## [COP31: Countries demand stronger climate deal amid deadlock in Antalya](https://news.un.org/feed/view/en/story/2026/11/1168845)
+
+via United Nations, Climate Change · 2026-11-20, updated 2026-11-27
+
+A group of countries from Europe, Africa, Latin America and the Pacific has challenged the proposed COP31 agreement, demanding explicit action on fossil fuels and stronger climate finance. With the summit due to close on Friday, tensions are rising as activists warn the talks are headed for failure, and negotiators search for a deal that nearly 200 governments can accept.
+
 ## [‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling](https://news.un.org/feed/view/en/story/2026/11/1168853)
 
-via United Nations, Top Stories · 2026-11-20, updated 2026-11-26
+via United Nations, Top Stories · 2026-11-20, updated 2026-11-27
 
 A day after the UN’s highest court found that Myanmar had committed genocide against the Rohingya, the President of the General Assembly visited the refugee camps in Cox’s Bazar, Bangladesh, urging the world to turn the landmark judgement into action.
+
+## [Bridgetown AI summit to tackle safety as risks outpace capacity to respond](https://news.un.org/feed/view/en/story/2026/11/1168854)
+
+via United Nations, Economic Development · 2026-11-20, updated 2026-11-27
+
+UN Secretary-General António Guterres is heading to Barbados to co-host a special summit on artificial intelligence (AI) safety on Monday, aimed at closing the gap between accelerating risks and many countries’ capacity to deal with the pace of development.
+
+## [West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers](https://news.un.org/feed/view/en/story/2026/11/1168849)
+
+via United Nations, Economic Development · 2026-11-20, updated 2026-11-27
+
+Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.
 
 ## [Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children](https://news.un.org/feed/view/en/story/2026/11/1168847)
 
@@ -8198,24 +9095,6 @@ Amid the ruins of a twice-bombed Kyiv kindergarten as a day-long power cut conti
 via United Nations, Top Stories · 2026-11-20, updated 2026-11-26
 
 The World Food Programme (WFP) will require $12.1 billion to assist 91 million people next year but warned that millions more will go hungry as funding shortfalls continue and another global food crisis looms.
-
-## [COP31: Countries demand stronger climate deal amid deadlock in Antalya](https://news.un.org/feed/view/en/story/2026/11/1168845)
-
-via United Nations, Climate Change · 2026-11-20, updated 2026-11-26
-
-A group of countries from Europe, Africa, Latin America and the Pacific has challenged the proposed COP31 agreement, demanding explicit action on fossil fuels and stronger climate finance. With the summit due to close on Friday, tensions are rising as activists warn the talks are headed for failure, and negotiators search for a deal that nearly 200 governments can accept.
-
-## [Bridgetown AI summit to tackle safety as risks outpace capacity to respond](https://news.un.org/feed/view/en/story/2026/11/1168854)
-
-via United Nations, Economic Development · 2026-11-20, updated 2026-11-26
-
-UN Secretary-General António Guterres is heading to Barbados to co-host a special summit on artificial intelligence (AI) safety on Monday, aimed at closing the gap between accelerating risks and many countries’ capacity to deal with the pace of development.
-
-## [West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers](https://news.un.org/feed/view/en/story/2026/11/1168849)
-
-via United Nations, Economic Development · 2026-11-20, updated 2026-11-26
-
-Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.
 
 ## [Afghanistan restrictions prevent pregnant women from seeking medical help](https://news.un.org/feed/view/en/story/2026/11/1168844)
 
@@ -8285,7 +9164,7 @@ The post [Italy’s Next-Generation DDG (NG DDG / DDX): First Platform and Comba
 
 ## [Northern Manitoba First Nation's operations 'in jeopardy' amid attempts to oust chief: lawsuit](https://www.cbc.ca/news/canada/manitoba/wasagamack-lawsuit-knott-defamation-9.7426810?cmp=rss)
 
-via CBC, Indigenious News · 2026-11-20, updated 2026-11-25
+via CBC, Indigenious News · 2026-11-20, updated 2026-11-26
 
 ![An aerial view shows several buildings in a remote wooded area next to a lake.](https://i.cbc.ca/ais/c8a4b8c7-3dbb-46aa-a888-4474eef97c19,1760722560666/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B)
 
@@ -8679,7 +9558,7 @@ Armed forces in Haiti launched an aggressive operation on Thursday to remove pow
 
 ## [Navy Wants New U.S. Frigate Shipyard Paid for by Foreign Shipbuilder](https://news.usni.org/2026/11/19/navy-wants-new-u-s-frigate-shipyard-paid-for-by-foreign-shipbuilder)
 
-via US Navy Institute · 2026-11-19, updated 2026-11-25
+via US Navy Institute · 2026-11-19, updated 2026-11-27
 
 WASHINGTON — The Navy wants a new foreign-owned shipyard devoted to building small surface combatants in the United States, the service’s nominee for its number two civilian told lawmakers Thursday. Pressed by Sen. Angus King (I-Maine) on whether he supports building warships in foreign yards, nominee Bill Toti said he doesn’t back that approach anymore but argued the Navy needs to find a way to churn out frigates for the fleet. “We have destroyers today doing frigate work,” Toti, a retired Navy captain, said during a Senate Armed Services Committee hearing for his nomination to serve as the under secretary
 
@@ -8699,7 +9578,7 @@ US President Donald Trump said he was ⁠looking to next year before deciding on
 
 ## [U.S. Expands Iranian Blockade As Ship Attacks Continue](https://news.usni.org/2026/11/19/u-s-expands-iranian-blockade-as-ship-attacks-continue)
 
-via US Navy Institute · 2026-11-19, updated 2026-11-25
+via US Navy Institute · 2026-11-19, updated 2026-11-27
 
 The U.S. expanded its blockade of Iranian ports and coastline to include any ship that receives cargo via ship-to-ship transfer, according to Joint Maritime Information Center. Any ship that receives cargo via ship-to-ship transfer from a ship that loaded at an Iranian port or coastline could be considered as attempting to evade the U.S.’s blockade, reads the JMIC advisory. The U.S. reinstated the blockade in July after the memorandum of understanding between Iran and the U.S. failed nearly a month into it. Since July, U.S. Navy ships have redirected about 150 ships and disabled five, according to a U.S. Central
 
@@ -8795,7 +9674,7 @@ NASA's Voyager 1 spacecraft has phoned home from one light-day away, humanity's 
 
 ## [Indigenous languages still not given enough space, resources, say leaders at Quebec forum](https://www.cbc.ca/news/canada/montreal/quebec-indigenous-languages-forum-schools-revitalization-language-rights-9.7427835?cmp=rss)
 
-via CBC, Indigenious News · 2026-11-19, updated 2026-11-25
+via CBC, Indigenious News · 2026-11-19, updated 2026-11-26
 
 ![A man with a bun stares into the camera.](https://i.cbc.ca/ais/67e7fa30-86fb-450d-87a8-5d62ad82045c,1770380310248/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C4238%2C2383%29%3B)
 
@@ -8811,7 +9690,7 @@ A former high-ranking B.C. RCMP officer has been granted a conditional discharge
 
 ## [Report to Congress on the Creation of an Autonomous Warfare Command](https://news.usni.org/2026/11/19/report-to-congress-on-the-creation-of-an-autonomous-warfare-command)
 
-via US Navy Institute · 2026-11-19, updated 2026-11-25
+via US Navy Institute · 2026-11-19, updated 2026-11-27
 
 The following is the Nov. 18, 2026, Congressional Research Service report, Autonomous Warfare Command: Background and Considerations for Congress. From the Report On September 30, 2026, Secretary of Defense Pete Hegseth issued a memorandum directing the Direct Reporting Portfolio Manager for Unmanned Systems (DRPM-UxS) to lead Project Agincourt, an effort to create a new combatant command (CCMD) known as Autonomous Warfare Command (AUTOWARCOM). (The Secretary is using “Secretary of War” as a “secondary title” under Executive Order \[EO\] 14347 dated September 5, 2025.) According to the memo, the Secretary tasked Project Agincourt with “\[establishing\] the pathway to the Autonomous Warfare
 
@@ -8925,7 +9804,7 @@ The Chairperson of the Committee of Public Accounts has called TU Dublin spend o
 
 ## [Compact and Covert](https://news.usni.org/2026/11/19/compact-and-covert)
 
-via US Navy Institute · 2026-11-19, updated 2026-11-25
+via US Navy Institute · 2026-11-19, updated 2026-11-27
 
 TOULON, France — The French Navy’s submarine quay resides within covered dry docks and behind thick concrete walls at Paris’ largest naval base. Concealed from prying eyes, this closely guarded facility is home to the Squadron of Nuclear Attack Submarines’ most capable and modern attack boats. Last month, USNI News visited one of the French Navy’s Suffren-class nuclear attack submarines, FS Duguay-Trouin (S636), while the boat was undergoing maintenance. Commissioned in 2023, the nuclear attack submarine is the second of the sea service’s Suffren class and will form the backbone of French undersea warfare in the coming decades. “For us,
 
@@ -9175,7 +10054,7 @@ Langley won six awards, weeks after her hit Choosin' Texas broke a Billboard cha
 
 ## [COP31: Ambition goes missing as fossil fuel language drops from draft deal](https://news.un.org/feed/view/en/story/2026/11/1168839)
 
-via United Nations, Economic Development · 2026-11-19, updated 2026-11-26
+via United Nations, Economic Development · 2026-11-19, updated 2026-11-27
 
 A cat named Ambition went missing again at COP31 on Thursday. While activists delivered the message with humour, it reflected a serious concern: explicit references to moving away from fossil fuels had disappeared from the latest draft climate agreement. On the eve of the summit's scheduled close, ministers and the Presidency were still trying to bridge sharp differences as civil society groups pressed for stronger action.
 
@@ -9547,7 +10426,7 @@ Three people arrested over the arson attack which claimed the lives of a four-ye
 
 ## [Senate Appropriators Cut $20B from Navy Shipbuilding Request](https://news.usni.org/2026/11/18/senate-appropriators-cut-20b-from-navy-shipbuilding-request)
 
-via US Navy Institute · 2026-11-18, updated 2026-11-25
+via US Navy Institute · 2026-11-18, updated 2026-11-27
 
 Lawmakers are pushing back on the Navy’s shipbuilding plans by cutting funding for several high-profile programs and reducing the shipbuilding budget by nearly $20 billion. Senate appropriators allotted $41.6 billion for the shipbuilding account in their draft of the Fiscal Year 2027 defense spending bill, according to a summary of the legislation, cutting $18.5 billion from the Navy’s budget submission. The Senate Appropriations Committee’s defense subcommittee zeroed out the $1 billion the Navy sought in advanced procurement funding for the Trump-class battleship, calling the request “early to need” in the funding tables. Like the other three congressional defense committees, the
 
@@ -9559,13 +10438,13 @@ More needs to be done to change the mindset when it comes to the circular econom
 
 ## [Even cacti can’t handle the heat](https://www.talkingclimate.ca/p/even-cacti-cant-handle-the-heat)
 
-via Talking Climate · 2026-11-18, updated 2026-11-26
+via Talking Climate · 2026-11-18, updated 2026-11-27
 
 Growing economies without growing emissions, climate change is coming for cacti, and how to find a climate job
 
 ## [Carrier USS George Washington Leaves Middle East After Three Months](https://news.usni.org/2026/11/18/carrier-uss-george-washington-leaves-middle-east-after-three-months)
 
-via US Navy Institute · 2026-11-18, updated 2026-11-25
+via US Navy Institute · 2026-11-18, updated 2026-11-27
 
 USS George Washington (CVN-73) left the Middle East after being on station for three months, a U.S. Pacific Fleet spokesperson confirmed Wednesday to USNI News.  George Washington is now in U.S. 7th Fleet. The spokesperson did not provide additional details, including which of George Washington’s escorts accompanied the ship. George Washington and its escorts USS Robert Smalls (CG-62) and destroyer USS Shoup (DDG-86) arrived in U.S. 5th Fleet on Aug. 19, USNI News previously reported. The Japan-based carrier strike group, originally out on a western Pacific deployment, headed to the Middle East to relieve USS Abraham Lincoln (CVN-71) and some
 
@@ -9667,7 +10546,7 @@ A group of masked individuals vandalized the Université-de-Montréal station at
 
 ## [U.K. Carrier Strike Group Concludes 6-month Operation Firecrest Deployment](https://news.usni.org/2026/11/18/u-k-carrier-strike-group-concludes-6-month-operation-firecrest-deployment)
 
-via US Navy Institute · 2026-11-18, updated 2026-11-25
+via US Navy Institute · 2026-11-18, updated 2026-11-27
 
 Royal Navy aircraft carrier HMS Prince of Wales (R09) returned Monday to its homeport of Portsmouth, concluding the U.K. Carrier Strike Group’s two-phase Operation Firecrest deployment.  The deployment spanned six months and took the carrier strike group the Atlantic and High North.  “From conducting complex air operations alongside Norwegian and U.S. forces to hosting strategic engagements with military and political leaders in Oslo, this deployment has showcased the carrier strike group’s ability to generate credible military effect while delivering strategic influence wherever required. It has reaffirmed the United Kingdom’s commitment to NATO, strengthened interoperability with key allies, and demonstrated the
 
@@ -9861,7 +10740,7 @@ The Transportation Safety Board of Canada says a train derailment in northwester
 
 ## [Report to Congress on the Defense Innovation Ecosystem](https://news.usni.org/2026/11/18/report-to-congress-on-the-defense-innovation-ecosystem)
 
-via US Navy Institute · 2026-11-18, updated 2026-11-25
+via US Navy Institute · 2026-11-18, updated 2026-11-27
 
 The following is the Nov. 16, 2026, Congressional Research Service report, the Defense Innovation Ecosystem. From the Report Providing for the national defense is a central concern of Congress. Technological advantage has long contributed to decisive U.S. military victories and deterred potential conflicts. Underpinning U.S. technological advantage is the defense innovation ecosystem—a broad set of organizations, activities, functions, and processes that research, develop, produce, and field new or improved technologies and capabilities for military use. The defense innovation ecosystem is composed of organizations and activities both within the Department of Defense (DOD; e.g., DOD laboratories), which is “using a secondary
 
@@ -10123,7 +11002,7 @@ Democrats nominated Hakeem Jeffries on Wednesday to be speaker of the U.S. House
 
 ## [COP31 deadlock persists as countries launch new ‘climate reality check’](https://news.un.org/feed/view/en/story/2026/11/1168833)
 
-via United Nations, Economic Development · 2026-11-18, updated 2026-11-26
+via United Nations, Economic Development · 2026-11-18, updated 2026-11-27
 
 With the clock running down at COP31 in Antalya, countries on Wednesday launched a new global check on whether climate promises are being kept, even as ministers remained deadlocked over some of the summit’s toughest questions: who pays, how fast the world moves away from fossil fuels and whether a greener future can be called “just” if poorer countries cannot afford it.
 
@@ -10402,7 +11281,7 @@ Body cameras can be a valuable source of evidence for the justice system, but it
 
 ## [If BAAJA passes, then what?](https://billmckibben.substack.com/p/if-baaja-passes-then-what)
 
-via The Crucial Years · 2026-11-18, updated 2026-11-26
+via The Crucial Years · 2026-11-18, updated 2026-11-27
 
 The energy future, viewed from the floor of the world’s biggest renewables trade show
 
@@ -10488,7 +11367,7 @@ A 48-year-old Irish man, indicted by US authorities for breaking into and destro
 
 ## [Reverting Ford-class Carriers to Steam is ‘Non-Starter,’ Says SASC Chair Wicker](https://news.usni.org/2026/11/17/reverting-ford-class-carriers-to-steam-is-non-starter-says-sasc-chair-wicker)
 
-via US Navy Institute · 2026-11-17, updated 2026-11-25
+via US Navy Institute · 2026-11-17, updated 2026-11-27
 
 WASHINGTON — The chair of the Senate Armed Services Committee told Navy Secretary nominee Hung Cao that the White House’s plan to go back to steam catapults on the Ford-class aircraft carriers is a “non-starter.” Following a defense of President Donald Trump’s preference for steam catapults on aircraft carriers between Sen. Tim Kaine (D-Va.) and Cao, Sen. Roger Wicker (R-Miss.) interjected. “Secretary Cao, returning to steam is a non-starter, and everybody needs to understand that,” Wicker said halfway through the two and a half hour hearing on Tuesday. In August, the White House called for the Navy to deliver a
 
@@ -10510,7 +11389,7 @@ Democrat Mary Peltola defeated two-term Republican Sen. Dan Sullivan in Alaska, 
 
 ## [Kwakwaka’wakw artist has dream come true with Bata Shoe Museum exhibition](https://www.cbc.ca/news/indigenous/jamie-gentry-brilliant-beaded-moccasins-9.7424874?cmp=rss)
 
-via CBC, Indigenious News · 2026-11-17, updated 2026-11-25
+via CBC, Indigenious News · 2026-11-17, updated 2026-11-26
 
 ![A woman stands in a black-painted doorway.](https://i.cbc.ca/ais/7549ce04-f6ac-4c67-9158-5a663366e305,1794955080012/full/max/0/default.jpg?im=Crop%2Crect%3D%28292%2C673%2C790%2C444%29%3B)
 
@@ -10580,7 +11459,7 @@ Edmonton Elks players hoisted a sign saying “City of Champions” in front of 
 
 ## [Suspected Russian Aircraft Violated Japan’s Airspace, Says Defense Minister](https://news.usni.org/2026/11/17/suspected-russian-aircraft-violated-japans-airspace-says-defense-minister)
 
-via US Navy Institute · 2026-11-17, updated 2026-11-25
+via US Navy Institute · 2026-11-17, updated 2026-11-27
 
 Suspected Russian aircraft violated Japanese territorial airspace twice on Thursdays, prompting fighter aircraft to be scrambled in response, Japan’s Defense Minister announced Tuesday. Between 4:07 and 4:10 a.m. on Thursday, one suspected Russian aircraft violated Japanese airspace northwest of Okinoshima, which lies in the East China Sea, Defense Minister Shinjiro Koizumi said in his regularly scheduled Tuesday press conference. Subsequently, between 4:09 and 4:12 a.m., a second suspected Russian aircraft violated Japanese airspace in the same area. The aircraft passed through the Tsushima Strait, flew between Yonaguni Island and Taiwan, and proceeded into the Philippine Sea. Japan Air Self-Defense Force
 
@@ -10614,7 +11493,7 @@ Health service to get extra funding of €780 million to address HSE overrun thi
 
 ## [Opening Remarks from Acting Navy Secretary Hung Cao’s Confirmation Hearing](https://news.usni.org/2026/11/17/opening-remarks-from-acting-navy-secretary-hung-caos-confirmation-hearing)
 
-via US Navy Institute · 2026-11-17, updated 2026-11-25
+via US Navy Institute · 2026-11-17, updated 2026-11-27
 
 The following is Acting Secretary of the Navy Hung Cao’s opening remarks, provided to the U.S. Senate Committee on Armed Services during Cao’s confirmation hearing on Nov. 17, 2026. From the Report The hearing saw testimony from Cao, who has served in an acting capacity since April. Below are also prepared advance policy questions from Cao. Watch the full hearing here. Download the remarks here. Download the advance policy questions here.
 
@@ -11034,7 +11913,7 @@ As China welcomes world leaders to the Asia-Pacific Economic Cooperation forum t
 
 ## [COP31: The push to protect warming oceans reaches the negotiating table](https://news.un.org/feed/view/en/story/2026/11/1168824)
 
-via United Nations, Climate Change · 2026-11-17, updated 2026-11-26
+via United Nations, Climate Change · 2026-11-17, updated 2026-11-27
 
 From identifying marine life with a cup of seawater to drawing on Indigenous knowledge to prevent wildfires, scientists and communities showcased both cutting-edge and time-tested ways to protect nature at COP31 on Tuesday. Yet turning innovation into action remains a challenge, with funding gaps persisting and ministers struggling to bridge divisions over fossil fuels and climate finance as negotiations enter their final days.
 
@@ -11440,7 +12319,7 @@ A man in his 20s has died following a three-vehicle road collision in Co Meath.
 
 ## [Father calls for apology after son target of racist taunts at Kitchener, Ont., hockey tournament](https://www.cbc.ca/news/indigenous/brantford-kitchener-hockey-racism-9.7421077?cmp=rss)
 
-via CBC, Indigenious News · 2026-11-16, updated 2026-11-25
+via CBC, Indigenious News · 2026-11-16, updated 2026-11-26
 
 ![Hockey player and father stand on ice with championship cup and banner.](https://i.cbc.ca/ais/00c3ce79-2e19-45da-8c9f-f1f1823f527e,1794597044655/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C132%2C1170%2C658%29%3B)
 
@@ -11448,13 +12327,13 @@ The father of a 16-year-old hockey player says he wants a public apology and cul
 
 ## [Vice Adm. Oliver Lewis Takes Command of 2nd Fleet](https://news.usni.org/2026/11/16/vice-adm-oliver-lewis-takes-command-of-2nd-fleet)
 
-via US Navy Institute · 2026-11-16, updated 2026-11-25
+via US Navy Institute · 2026-11-16, updated 2026-11-27
 
 A career submariner has taken command of U.S. 2nd Fleet following the retirement of Vice Adm. Doug Perry, the command announced on Monday. Vice Adm. Oliver Lewis will now lead the Virginia-based command, taking command from newly promoted Vice Adm. Mark Behning who had overseen the command, located in Norfolk, Va., since mid-October following Perry’s departure in September. “The Atlantic and Arctic operational environments demand relentless vigilance, advanced tactical capability and unwavering readiness – demands that are met every single day by the remarkable men and women of U.S. 2nd Fleet,” Lewis said in a statement. “Together, we will continue
 
 ## [Downtown Eastside advocate Herb Varley remembered by Vancouver activists, family and friends](https://www.cbc.ca/news/indigenous/herb-varley-dtes-legacy-9.7416754?cmp=rss)
 
-via CBC, Indigenious News · 2026-11-16, updated 2026-11-25
+via CBC, Indigenious News · 2026-11-16, updated 2026-11-26
 
 ![A man wearing a blue hat stands with a microphone in front of a sign that says 'Land Back.'](https://i.cbc.ca/ais/8db07d8b-18b8-489d-8d3e-297ec34a33ae,1794884073138/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C282%2C1302%2C732%29%3B)
 
@@ -11934,13 +12813,13 @@ A number of tech figures want the board of the AI chip giant to give Jensen Huan
 
 ## [AI gets climate science right – until users push back](https://news.un.org/feed/view/en/story/2026/11/1168817)
 
-via United Nations, Climate Change · 2026-11-16, updated 2026-11-26
+via United Nations, Climate Change · 2026-11-16, updated 2026-11-27
 
 The best AI models answer most climate science questions correctly, but they often abandon established facts as soon as a user disagrees, according to a new report co-authored by the UN.
 
 ## [COP31 enters decisive week as climate talks face political test and AI initiatives gather pace](https://news.un.org/feed/view/en/story/2026/11/1168812)
 
-via United Nations, Economic Development · 2026-11-16, updated 2026-11-26
+via United Nations, Economic Development · 2026-11-16, updated 2026-11-27
 
 New international initiatives on artificial intelligence and green industrialization showcased technology’s growing role in climate action, even as negotiators remained deadlocked on finance, fossil fuels and adaptation ahead of the final stretch of the UN talks.
 
@@ -12638,13 +13517,13 @@ Brian MacKinnon - who posed as a school boy in his 30s - targeted a former unive
 
 ## [Nadia Murad: ‘Day by day, I took my story back’](https://news.un.org/feed/view/en/story/2026/11/1168801)
 
-via United Nations, Culture and Education · 2026-11-15, updated 2026-11-26
+via United Nations, Culture and Education · 2026-11-15, updated 2026-11-27
 
 Nobel Peace Prize laureate Nadia Murad has spent years telling the world about the atrocities committed against her and the Yazidi community by militants from the terrorist group, ISIL.
 
 ## [Empowering faith and Indigenous leaders to combat hate](https://news.un.org/feed/view/en/story/2026/11/1168808)
 
-via United Nations, Culture and Education · 2026-11-15, updated 2026-11-26
+via United Nations, Culture and Education · 2026-11-15, updated 2026-11-27
 
 Religious, traditional and Indigenous leaders need to be empowered to act as full partners in preventing conflict, not just praised for their role, speakers said Sunday at the opening of the Muscat Plan of Action Forum in Oman.
 
@@ -12922,7 +13801,7 @@ The presenter says she has received a 'five-year clear' after having a hysterect
 
 ## [Turkey before Thanksgiving](https://billmckibben.substack.com/p/turkey-before-thanksgiving)
 
-via The Crucial Years · 2026-11-15, updated 2026-11-26
+via The Crucial Years · 2026-11-15, updated 2026-11-27
 
 As the world sits down to talk climate, where we stand
 
@@ -13220,7 +14099,7 @@ A controversial change to "safer-supply" opioid prescriptions in Ontario that wo
 
 ## [When the rains fail: Preparing for drought in Central America](https://news.un.org/feed/view/en/story/2026/11/1168776)
 
-via United Nations, Climate Change · 2026-11-14, updated 2026-11-26
+via United Nations, Climate Change · 2026-11-14, updated 2026-11-27
 
 Across Central America’s so-called Dry Corridor, farming families live at the mercy of the rains. In southwestern Honduras, Anastacio Martínez Gómez has spent most of his 73 years learning to work the land. But experience can only take him so far.
 
@@ -13596,7 +14475,7 @@ These stories represent the consequences of changes that began years ago, rather
 
 ## [Repatriation group visits Indigenous items for sale by Swiss collector](https://www.cbc.ca/news/indigenous/coleen-rajotte-swiss-museum-repatriation-9.7421660?cmp=rss)
 
-via CBC, Indigenious News · 2026-11-14, updated 2026-11-25
+via CBC, Indigenious News · 2026-11-14, updated 2026-11-26
 
 ![a women, in middle holding a photo o a headdress sits at long table with two older men on each side.](https://i.cbc.ca/ais/6c621971-8e44-4962-b7e6-ecbe5b0255d6,1794614659330/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C3%2C3309%2C1861%29%3B)
 
@@ -13644,7 +14523,7 @@ Meeting with representatives of the local Church in Chiclayo, Pope Leo XIV remin
 
 ## [Indigenous Screen Office welcomes $51M promised by federal budget](https://www.cbc.ca/news/indigenous/iso-funding-budget-2026-9.7421180?cmp=rss)
 
-via CBC, Indigenious News · 2026-11-13, updated 2026-11-25
+via CBC, Indigenious News · 2026-11-13, updated 2026-11-26
 
 ![A group of women wearing coats in the snow appear in this image. ](https://i.cbc.ca/ais/1.7425821,1736350824000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C155%2C3000%2C1687%29%3B)
 
@@ -13694,7 +14573,7 @@ Artificial intelligence should be designed for the benefit rather than the "ruin
 
 ## [Canada appoints new Indigenous languages commissioner](https://www.cbc.ca/news/indigenous/dorothy-myo-indigenous-languages-commissioner-9.7421064?cmp=rss)
 
-via CBC, Indigenious News · 2026-11-13, updated 2026-11-25
+via CBC, Indigenious News · 2026-11-13, updated 2026-11-26
 
 ![Sign reading office of the commissioner of indigenous languages](https://i.cbc.ca/ais/1cae2579-5d28-4b31-a865-4a644dfe71a8,1794601265126/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B)
 
@@ -14152,19 +15031,19 @@ Eleanor Donaldson, the wife of former DUP leader Jeffrey Donaldson, has been pla
 
 ## [COP31: New initiative targets AI and reliable climate change information](https://news.un.org/feed/view/en/story/2026/11/1168798)
 
-via United Nations, Climate Change · 2026-11-13, updated 2026-11-26
+via United Nations, Climate Change · 2026-11-13, updated 2026-11-27
 
 New guidance has been issued to ensure that people everywhere can obtain credible climate change information from artificial intelligence (AI) and understand how the technology impacts the environment.
 
 ## [Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount](https://news.un.org/feed/view/en/story/2026/11/1168804)
 
-via United Nations, Economic Development · 2026-11-13, updated 2026-11-26
+via United Nations, Economic Development · 2026-11-13, updated 2026-11-27
 
 Nearly nine months after Israeli and US strikes on Iran set off a regional war, the Gulf remains on a knife edge. Iran has all but closed the Strait of Hormuz, which carried a fifth of the world’s oil before the conflict. Attacks on shipping are rising, and efforts to stop a return to full-scale fighting have yet to produce a deal. The Security Council is meeting at Bahrain’s request to discuss the threat to regional and maritime security. Follow live below – and for full meetings coverage year round, go here.
 
 ## [COP31: Climate finance falls short as calls grow for polluters to pay](https://news.un.org/feed/view/en/story/2026/11/1168802)
 
-via United Nations, Economic Development · 2026-11-13, updated 2026-11-26
+via United Nations, Economic Development · 2026-11-13, updated 2026-11-27
 
 From emotional appeals for climate justice to high-stakes negotiations over billions of dollars, finance dominated discussions at COP31 on Friday. UN Secretary-General António Guterres warned that even tripling adaptation funding for vulnerable countries would meet less than a third of their needs, as pressure mounted on wealthy nations and major polluters to pay their fair share.
 
@@ -14500,7 +15379,7 @@ During a prayer vigil in Lima, Pope Leo XIV reminds the young people of Peru tha
 
 ## [Indigenous women leaders say budget doesn't address their realities](https://www.cbc.ca/news/politics/indigenous-inuit-women-carney-budget-9.7419887?cmp=rss)
 
-via CBC, Indigenious News · 2026-11-13, updated 2026-11-25
+via CBC, Indigenious News · 2026-11-13, updated 2026-11-26
 
 ![People stand at a podium with flags behind them.](https://i.cbc.ca/ais/ac46503c-9392-473a-b3df-24c651074dfb,1794529006739/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C374%2C5083%2C2859%29%3B)
 
@@ -14592,7 +15471,7 @@ Following a day of hectic diplomatic activity around Dublin's Convention Centre,
 
 ## [What's uniting climate's unlikeliest allies?](https://www.talkingclimate.ca/p/whats-uniting-climates-unlikeliest)
 
-via Talking Climate · 2026-11-12, updated 2026-11-26
+via Talking Climate · 2026-11-12, updated 2026-11-27
 
 Data centre pushback takes off, adaptation funding gaps, and bringing COP31 home
 
@@ -15024,13 +15903,13 @@ Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet
 
 ## [New platform aims to get money moving before disaster strikes](https://news.un.org/feed/view/en/story/2026/11/1168794)
 
-via United Nations, Climate Change · 2026-11-12, updated 2026-11-26
+via United Nations, Climate Change · 2026-11-12, updated 2026-11-27
 
 UN agencies on Thursday launched a joint platform at COP31 in Antalya, Türkiye, that aims to secure access to more than $3 billion in risk financing to protect 75 million people and their livelihoods from climate shocks and natural hazards by 2030.
 
 ## [COP31: Cities rise up the climate agenda as leaders face demands for action](https://news.un.org/feed/view/en/story/2026/11/1168792)
 
-via United Nations, Climate Change · 2026-11-12, updated 2026-11-26
+via United Nations, Climate Change · 2026-11-12, updated 2026-11-27
 
 From flooded homes to melting Himalayan glaciers, the human cost of climate change took centre stage at COP31 on Thursday, as world leaders turned their attention to protecting cities and vulnerable communities, while activists challenged governments to do more.
 
@@ -15856,19 +16735,19 @@ The Republicans may have just lost control of the House of Representatives in re
 
 ## [From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected](https://news.un.org/feed/view/en/story/2026/11/1168787)
 
-via United Nations, Climate Change · 2026-11-11, updated 2026-11-26
+via United Nations, Climate Change · 2026-11-11, updated 2026-11-27
 
 Early warning systems are saving lives across the globe, but for millions of people the warning never arrives, UN Secretary-General António Guterres said on Wednesday, urging the world to protect every person on Earth by the end of 2027.
 
 ## [Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support](https://news.un.org/feed/view/en/story/2026/11/1168788)
 
-via United Nations, Economic Development · 2026-11-11, updated 2026-11-26
+via United Nations, Economic Development · 2026-11-11, updated 2026-11-27
 
 The UN’s Emergency Relief Coordinator, Tom Fletcher, expressed deep concern about the deteriorating humanitarian situation in Gaza, as UN member states and partners have been repeatedly delaying sending their support to the Strip.
 
 ## [‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31](https://news.un.org/feed/view/en/story/2026/11/1168783)
 
-via United Nations, Economic Development · 2026-11-11, updated 2026-11-26
+via United Nations, Economic Development · 2026-11-11, updated 2026-11-27
 
 UN chief António Guterres called for a new global climate justice agreement at COP31 on Wednesday, urging governments to tax fossil fuel companies to help countries bearing the brunt of a crisis they did little to cause. His appeal came as world leaders gathered in Antalya amid unresolved questions over climate finance and the future of fossil fuels.
 
@@ -16848,13 +17727,13 @@ A CBC News copy editor turned into one half of an unexpected comedy duo in a vid
 
 ## [Climate crisis could push 141 million more women into extreme poverty](https://news.un.org/feed/view/en/story/2026/11/1168770)
 
-via United Nations, Climate Change · 2026-11-10, updated 2026-11-26
+via United Nations, Climate Change · 2026-11-10, updated 2026-11-27
 
 More than one in three women and girls worldwide – roughly 1.5 billion – live in so-called “climate hotspots”, where high exposure to hazards such as cyclones and droughts combine with insecure jobs and deep gender inequality.
 
 ## [COP31: Energy transition takes centre stage as countries map path beyond fossil fuels](https://news.un.org/feed/view/en/story/2026/11/1168775)
 
-via United Nations, Economic Development · 2026-11-10, updated 2026-11-26
+via United Nations, Economic Development · 2026-11-10, updated 2026-11-27
 
 The global energy transition took centre stage on the second day of COP31, as countries explored how to move away from fossil fuels, accelerate clean energy and overcome financial and infrastructure barriers standing in the way.
 
@@ -17270,7 +18149,7 @@ Pope Leo XIV concludes his second day in Argentina by greeting the faithful in B
 
 ## [Community-led search for missing Ma’amtagila Nation man amplifies, family says resources still needed](https://www.cbc.ca/news/indigenous/james-smith-missing-maamtagila-nation-9.7415743?cmp=rss)
 
-via CBC, Indigenious News · 2026-11-09, updated 2026-11-25
+via CBC, Indigenious News · 2026-11-09, updated 2026-11-26
 
 ![A family.](https://i.cbc.ca/ais/5949b301-1f31-4884-82de-e54d68d10005,1794265763585/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C112%2C1531%2C861%29%3B)
 
@@ -17306,7 +18185,7 @@ Pope Leo XIV prays Vespers with the Bishops and synodal teams of Argentina, and 
 
 ## [Alaska Airlines vice-president apologizes to passenger over sacred medicine pouch incident](https://www.cbc.ca/news/indigenous/alaska-airlines-medicine-pouch-flight-9.7415529?cmp=rss)
 
-via CBC, Indigenious News · 2026-11-09, updated 2026-11-25
+via CBC, Indigenious News · 2026-11-09, updated 2026-11-26
 
 ![Woman stands at desk.](https://i.cbc.ca/ais/333a8eef-9487-4bbd-a2f4-6c8114511d15,1794259683840/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C867%2C1536%2C864%29%3B)
 
@@ -17834,25 +18713,25 @@ French Foreign Minister Jean-Noël Barrot ‌on Monday accused Iran's ​Revolut
 
 ## [‘Exceptional’ extreme temperatures to continue into next year, UN reports](https://news.un.org/feed/view/en/story/2026/11/1168760)
 
-via United Nations, Climate Change · 2026-11-09, updated 2026-11-26
+via United Nations, Climate Change · 2026-11-09, updated 2026-11-27
 
 In April this year, roughly 146.5 million Indians were exposed to an extreme heatwave with temperatures hitting a sweltering 47℃.
 
 ## [World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates](https://news.un.org/feed/view/en/story/2026/11/1168768)
 
-via United Nations, Climate Change · 2026-11-09, updated 2026-11-26
+via United Nations, Climate Change · 2026-11-09, updated 2026-11-27
 
 The El Niño extreme weather pattern could cost the global economy up to $11 trillion and seriously impact food security, said the UN agency tackling rural poverty in developing countries on Monday.
 
 ## [Children among the dead as heavy rains flood tents and shelters in Gaza](https://news.un.org/feed/view/en/story/2026/11/1168766)
 
-via United Nations, Climate Change · 2026-11-09, updated 2026-11-26
+via United Nations, Climate Change · 2026-11-09, updated 2026-11-27
 
 An infant reportedly drowned and five Gazans were killed – including three children – when a sand dune collapsed on their tents as the first heavy rains swept across the enclave at the weekend, according to the UN aid coordination office (OCHA).
 
 ## [COP31 opens in Antalya: Can climate promises finally deliver results?](https://news.un.org/feed/view/en/story/2026/11/1168763)
 
-via United Nations, Climate Change · 2026-11-09, updated 2026-11-26
+via United Nations, Climate Change · 2026-11-09, updated 2026-11-27
 
 Nearly 200 countries have arrived on Türkiye's Mediterranean coast for a climate summit with a different ambition: fewer grand declarations and more concrete decisions. With a powerful El Niño threatening to worsen extreme weather, negotiators face difficult questions over climate finance, clean energy and how to protect communities already living with the consequences of climate change.
 
@@ -18492,7 +19371,7 @@ King Charles has led the annual Remembrance Sunday commemorations, laying a wrea
 
 ## [Beyond the broken glass: The human cost of the 1938 November Pogrom](https://news.un.org/feed/view/en/story/2026/11/1168756)
 
-via United Nations, Culture and Education · 2026-11-08, updated 2026-11-26
+via United Nations, Culture and Education · 2026-11-08, updated 2026-11-27
 
 On his way to school in Vienna on the morning of 10 November 1938, eight-year-old Arthur Schneier watched his synagogue burn while firefighters and police officers stood by “rejoicing”.
 
@@ -18944,7 +19823,7 @@ Israel's president has tapped opposition candidate Gadi Eisenkot to form a new g
 
 ## [Post-wave Politics](https://billmckibben.substack.com/p/post-wave-politics)
 
-via The Crucial Years · 2026-11-07, updated 2026-11-26
+via The Crucial Years · 2026-11-07, updated 2026-11-27
 
 Permitting reform in the froth of the tsunami
 
@@ -19394,7 +20273,7 @@ The faculty senate of Cornell University approved a resolution Friday declaring 
 
 ## [What COP Can—and Can’t—Do](https://www.talkingclimate.ca/p/twk-cop31)
 
-via Talking Climate · 2026-11-06, updated 2026-11-26
+via Talking Climate · 2026-11-06, updated 2026-11-27
 
 What should we expect when the world gathers to talk climate? Progress, promises, and a very uneven potluck
 
@@ -19904,7 +20783,7 @@ Pope Leo XIV is returning home to the continent where he spent two decades as a 
 
 ## [From a ship frozen into Arctic ice, a warning to world leaders: Trust the science](https://news.un.org/feed/view/en/story/2026/11/1168751)
 
-via United Nations, Climate Change · 2026-11-06, updated 2026-11-26
+via United Nations, Climate Change · 2026-11-06, updated 2026-11-27
 
 Drifting through the polar darkness, a team of scientists is documenting a rapidly changing Arctic. As sea ice retreats and oil tankers move in, a conversation with the UN chief reveals why the battle for climate science matters far beyond the North Pole.
 
@@ -20274,986 +21153,4 @@ It's an album of two halves from U2 but one which offers a sense of sanctuary an
 via RTÉ News · 2026-11-06, updated 2026-11-07
 
 Three-quarters of the world's displaced people live in countries facing severe exposure to climate-related hazards, the United Nations said, calling for urgent action to protect them.
-
-## [Dolly Parton's manager moves to drop complaint against late singer's nephew](https://www.cbc.ca/news/entertainment/dolly-parton-manager-nephew-case-9.7411680?cmp=rss)
-
-via CBC, World News · 2026-11-05, updated 2026-11-07
-
-![Man and woman stand arm in arm in a music studio](https://i.cbc.ca/ais/68dc2f3b-8572-4a47-8269-426353e36098,1793937134647/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C291%2C3000%2C1687%29%3B)
-
-Dolly Parton's longtime manager moved Thursday to drop a complaint that accused the late singer's nephew who acted as her head of security with threatening her estate and its employees.
-
-## [Naval Group Unveils a Larger, More Powerful FDI Frigate](https://www.navalnews.com/event-news/euronaval-2026/2026/11/naval-group-unveils-a-larger-more-powerful-fdi-frigate/)
-
-via Navel News · 2026-11-05, updated 2026-11-08
-
-During Euronaval 2026, Naval Group presented its FDI frigate family, which now includes a new, larger and more powerful variant alongside the existing FDI in its various configurations. This development highlights the continuous evolution of the FDI frigate design, made possible by the inherent flexibility of its naval architecture and the provisions incorporated into the ...
-
-The post [Naval Group Unveils a Larger, More Powerful FDI Frigate](https://www.navalnews.com/event-news/euronaval-2026/2026/11/naval-group-unveils-a-larger-more-powerful-fdi-frigate/) appeared first on [Naval News](https://www.navalnews.com).
-
-## [Hegseth defends record as Pentagon chief, slams 'sham' push for his impeachment](https://www.cbc.ca/news/world/hegseth-video-vows-fight-impeachment-9.7411639?cmp=rss)
-
-via CBC, World News · 2026-11-05, updated 2026-11-07
-
-![U.S. Secretary of War Pete Hegseth speaking at an ASEAN defence ministers' informal meeting in Cebu, in the Philippines.](https://i.cbc.ca/ais/e854fd0a-34bd-45b3-90f0-daf243403118,1793933303935/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C163%2C2430%2C1366%29%3B)
-
-U.S. Secretary of War Pete Hegseth issued a video message on Thursday vowing to fight efforts in Congress to impeach him and defending the Iran war as "courageous and historic" after voters punished Republicans over it in this week’s midterm elections.
-
-## [Native American women make election history](https://www.cbc.ca/player/play/9.7411236?cmp=rss)
-
-via CBC, Indigenious News · 2026-11-05, updated 2026-11-23
-
-![](https://i.cbc.ca/ais/1.4840350,1717207977074/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B)
-
-Two Native American women have made history in the 2026 U.S. midterm elections. Deb Haaland, a member of Laguna Pueblo in New Mexico, became the first Native American woman elected governor of a U.S. state. While Peggy Flanagan, a member of White Earth Nation in Minnesota, became the first Native American woman elected to the U.S. Senate.
-
-## [North Korean Leader Inspects New Warship Under Construction at Nampho Shipyard](https://news.usni.org/2026/11/05/north-korean-leader-inspects-new-warship-under-construction-at-nampho-shipyard)
-
-via US Navy Institute · 2026-11-05, updated 2026-11-17
-
-North Korea leader Kim Jong Un inspected the ongoing construction of a new warship that is larger than the country’s 5,000-ton destroyers on Monday during a visit to North Korea’s Nampho Shipyard, state media reported Wednesday. The under-construction warship is believed to be a 10,000-ton cruiser. An image released by state media Korean Central News Agency (KCNA) shows Kim and North Korean officials in front of a ship hull at Nampho Shipyard. The hull shown is significantly larger than the two 5,000-ton Choe Hyon-class destroyers in service, which are currently North Korea’s largest surface warships. “Looking at the vessel under
-
-## [Tóibín PSNI interview over Drumcree protest postponed](https://www.rte.ie/news/politics/2026/1105/1598201-toibin-psni-garvaghy/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-A PSNI interview with Aontú leader Peadar Tóibín over his presence at the Garvaghy Road protest in Portadown has been postponed, after he requested it be conducted through the Irish language.
-
-## [Carney government pledges $50B over 10 years for Indigenous programs, services](https://www.cbc.ca/news/indigenous/indigenous-budget-2026-9.7411006?cmp=rss)
-
-via CBC, Indigenious News · 2026-11-05, updated 2026-11-23
-
-![Two people in suit hold up copies of Canada's 2026 federal budget.](https://i.cbc.ca/ais/a8facafa-e9ad-4577-9407-43983c171093,1793913980598/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C383%2C7330%2C4123%29%3B)
-
-Prime Minister Mark Carney's Liberal government is promising to spend $50 billion over a decade on programs and services for Indigenous peoples in key sectors like on-reserve infrastructure, housing, education, health care, child welfare, policing and emergency management.
-
-## [Elections Alberta reveals October referendum cost $84M, receives additional funds from legislature committee](https://www.cbc.ca/news/canada/edmonton/elections-alberta-referendum-cost-9.7411555?cmp=rss)
-
-via CBC, Canada News · 2026-11-05, updated 2026-11-07
-
-![A man in a suit in profile.](https://i.cbc.ca/ais/d7dd0c64-ffcc-435a-8afe-648b9feee1a6,1793927286763/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B)
-
-Elections Alberta is estimating the province’s Oct. 19 referendum cost just over $84 million to execute.
-
-## [Newsom to commute death sentences for 548 on death row](https://www.rte.ie/news/us/2026/1105/1598198-california-death-sentences/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-07
-
-California Governor Gavin Newsom has said he will commute the death sentences of all 548 inmates currently condemned to execution in his state, the largest death row in the Western Hemisphere.
-
-## [Marines Identify Member Who Died After Fast-rope Training in Japan](https://news.usni.org/2026/11/05/marines-identify-member-who-died-after-fast-rope-training-in-japan)
-
-via US Navy Institute · 2026-11-05, updated 2026-11-17
-
-Lance Cpl. Devin Hernandez died this week after he was injured during fast-rope training in Japan, the 3rd Marine Division announced Thursday. Hernandez, 25, sustained injuries during training at Camp Schwab in Okinawa. He was transported for medical treatment and later died from his injuries. “The Marines and sailors of 3rd Marine Division mourn the loss of one of our own. We extend our deepest condolences to Lance Cpl. Hernandez’s family, friends and fellow Marines,” said Maj. Gen. Kyle Ellison, commanding general of 3rd Marine Division, in a news release. The incident remains under investigation. Hernandez was a Maryland native.
-
-## [Expansion of Bell Canada's AI data centre near Regina clears final vote, despite protest](https://www.cbc.ca/news/canada/saskatchewan/protesters-regina-oppose-bell-data-centre-expansion-approved-rm-sherwood-9.7411279?cmp=rss)
-
-via CBC, Canada News · 2026-11-05, updated 2026-11-06
-
-![People mill around outside a building.](https://i.cbc.ca/ais/113c5c73-df24-487b-bc0a-b0c26ea84416,1793925137312/full/max/0/default.jpg?im=Crop%2Crect%3D%28149%2C840%2C3882%2C2183%29%3B)
-
-Protesters gathered outside the Rural Municipality of Sherwood's office in Regina on Thursday to oppose the expansion of Bell Canada's AI data centre in Saskatchewan.
-
-## [Weekly quiz: How did Rice Krispies lose their snap, crackle and pop?](https://www.bbc.co.uk/news/articles/cqy0rzz0w9wlo?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05, updated 2026-11-06
-
-How much attention did you pay to what happened in the world over the past seven days?
-
-## [Trump declares his redesigned Oval Office a national monument](https://www.cbc.ca/news/world/trump-midterms-oval-office-9.7411316?cmp=rss)
-
-via CBC, Top Stories · 2026-11-05, updated 2026-11-06
-
-![Donald Trump at his desk in the Oval Office](https://i.cbc.ca/ais/45a2e627-e3fe-43e4-9f82-7e2cee4ece16,1793914934983/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C525%2C6636%2C3732%29%3B)
-
-U.S. President Donald Trump signed a proclamation Thursday declaring the Oval Office and Cabinet room of the White House to be national monuments.
-
-## [Special needs pupil travelling 330km to school in taxis](https://www.rte.ie/news/education/2026/1105/1598187-special-education-school-transport/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-The Public Accounts Committee has heard that a child with special education needs is travelling 330km per day to and from school at a cost of over €109,000 per year.
-
-## [New residential spots for those with disabilities paused](https://www.rte.ie/news/ireland/2026/1105/1598189-residential-placements-hse/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-07
-
-There will be no new residential placements for people with disabilities for the rest of the year where new funding is required, according to an internal HSE memo seen by RTÉ News.
-
-## ['A long time coming': Jubilation in the Sahtu as feds earmark $3.1B for Mackenzie Valley Highway](https://www.cbc.ca/news/canada/north/a-long-time-coming-jubilation-in-the-sahtu-as-feds-earmark-3-1b-for-mackenzie-valley-highway-9.7411380?cmp=rss)
-
-via CBC, Canada News · 2026-11-05, updated 2026-11-06
-
-![A man sitting at a desk](https://i.cbc.ca/ais/543a36ad-4a63-45a1-b5b3-c682e6af71da,1793924393975/full/max/0/default.jpg?im=Crop%2Crect%3D%28253%2C272%2C1382%2C777%29%3B)
-
-Fort Good Hope, N.W.T., Chief Shawn Grandjambe says now is a great time for work to start on the Mackenzie Valley Highway, which has long been on the wish list of leaders in the N.W.T.
-
-## [Work-to-rule action affecting family law court hearings](https://www.rte.ie/news/ireland/2026/1105/1598184-family-law-courts/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-Work-to-rule action in Dublin's family law courts has led to repeated closures and adjournments of cases in the past five weeks.
-
-## [Govt won't oppose Labour bill to tackle AI abuse imagery](https://www.rte.ie/news/politics/2026/1105/1598185-politics-labour-bill/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-The Government is not opposing a proposal from the Labour Party to strengthen the law around tackling AI-generated sexual abuse imagery.
-
-## [PR expert says author Steven Galloway had path to rehabilitate reputation](https://www.cbc.ca/news/canada/british-columbia/steven-galloway-pr-expert-trial-9.7411280?cmp=rss)
-
-via CBC, Top Stories · 2026-11-05, updated 2026-11-06
-
-![A man stands with his arms crossed looking at the camera in front of a whiteboard.](https://i.cbc.ca/ais/7f98cbe1-d84d-40e2-9a85-82b7b9102598,1791209587609/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C151%2C5000%2C2812%29%3B)
-
-Galloway, a former University of British Columbia writing professor, is suing multiple people who published allegations of sexual assault against him.
-
-## [Man accused of killing 11-year-old Burnaby boy makes 1st court appearance](https://www.cbc.ca/news/canada/british-columbia/branko-bijelic-kai-pavlovic-court-appearance-murder-charge-9.7410976?cmp=rss)
-
-via CBC, Top Stories · 2026-11-05, updated 2026-11-06
-
-![A courtroom sketch of a bald man wearing glasses and a red sweatshirt.](https://i.cbc.ca/ais/62342f50-2472-47e9-8188-0c1cbcd99b16,1793909698135/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B)
-
-One of two people charged in relation to the death of an 11-year-old Burnaby boy appeared in a Vancouver courtroom for the first time on Thursday.
-
-## [L.A. has a new mayor, and she's a democratic socialist](https://www.cbc.ca/news/world/raman-defeats-bass-la-mayor-9.7411057?cmp=rss)
-
-via CBC, World News · 2026-11-05, updated 2026-11-07
-
-![Nithya Raman speaking during an election night event in Los Angeles.](https://i.cbc.ca/ais/76956625-7aa0-4a63-a714-6dbe7ee4764d,1793913563696/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C419%2C4925%2C2770%29%3B)
-
-Nithya Raman, a little-known Los Angeles City Council member backed by the Democratic Socialists of America, has defeated Mayor Karen Bass, an upset that will alter the trajectory of the nation's second-largest city.
-
-## [Carney's new budget aims to end homelessness in 10 years](https://www.cbc.ca/news/politics/budget-homelessness-canada-decade-9.7411226?cmp=rss)
-
-via CBC, Canada News · 2026-11-05, updated 2026-11-06
-
-![A person is shown sleeping under a red blanked on the street.](https://i.cbc.ca/ais/cd212095-3f69-465a-990d-af74421f7df1,1793915289672/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C160%2C3066%2C1724%29%3B)
-
-Canada is embarking on a path to end homelessness in 10 years, Finance Minister François-Philippe Champagne said as he presented the federal budget on Thursday.
-
-## [Watch: Brand denies allegations in police interviews](https://www.rte.ie/news/2026/1105/1598175-russell-brand-police-interview/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-Comedian Russell Brand, once one of Britain's most high-profile broadcasters and star of several Hollywood movies, faces a lengthy jail term after being convicted of raping a woman and sexually assaulting three more.
-
-## [AI stock sell-off sends the S&P 500 down 4.4% in worst day since April 2025](https://www.cbc.ca/news/business/ai-stocks-markets-9.7411079?cmp=rss)
-
-via CBC, World News · 2026-11-05, updated 2026-11-06
-
-![A Wall St. sign stands above Wall Street in the financial district of New York, Wednesday, January 10, 2007.](https://i.cbc.ca/ais/1.5716272,1793914261251/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C314%2C3000%2C1687%29%3B)
-
-AI stocks worldwide felt pressure as worries rise about possible moratoriums on data centres following Democratic victories in the U.S. midterm elections.
-
-## [Russell Brand: The rise and fall of a TV star](https://www.rte.ie/entertainment/2026/1105/1598154-russell-brand-the-rise-and-fall-of-a-tv-star/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-Following Russell Brand's conviction for rape and sexual assault, Evelyn O'Rourke looks back at his rise to fame and the role television played in both his career and the exposure of allegations against him.
-
-## [15 patients released, 5 still hospitalized following bus crash near Mackenzie, B.C.](https://www.cbc.ca/news/canada/british-columbia/mackenzie-bus-crash-patient-update-9.7411047?cmp=rss)
-
-via CBC, Canada News · 2026-11-05, updated 2026-11-06
-
-![A white vehicle lies at the bottom of a forested embankment.](https://i.cbc.ca/ais/cf4c7420-7854-4588-9074-03e322e378fa,1793831489285/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C380%2C900%2C506%29%3B)
-
-WorkSafeBC and RCMP are still investigating what police described as a "chaotic scene" when the shuttle bus went off Highway 39, causing hospitals in Prince George and Mackenzie to declare a code orange.
-
-## [California Gov. Gavin Newsom says he'll commute all death row sentences to life in prison](https://www.cbc.ca/news/world/california-newsom-death-row-commutation-9.7410993?cmp=rss)
-
-via CBC, World News · 2026-11-05, updated 2026-11-07
-
-![Grey haired man in white shirt against dark background](https://i.cbc.ca/ais/be2a7f32-22c5-4c44-a697-380563e2095d,1793911061237/full/max/0/default.jpg?im=Crop%2Crect%3D%28850%2C294%2C4263%2C2397%29%3B)
-
-California governor Gavin Newsom is commuting the death sentences of more than 500 inmates to life in prison with no parole, saying he believes state-sanctioned killing is incompatible with the values of California, undermines the foundations of the legal system and "diminishes each of us."
-
-## [USS Stout Loses Power During Port Visit Due to ‘Engineering Casualty’](https://news.usni.org/2026/11/05/uss-stout-loses-power-during-port-visit-due-to-engineering-casualty)
-
-via US Navy Institute · 2026-11-05, updated 2026-11-17
-
-A deployed destroyer recently lost power during a port visit to Italy, USNI News understands. USS Stout (DDG-55) was in port in Augusta Bay, Italy, for a scheduled port visit on Oct. 25 when it experienced an engineering casualty, causing the ship to lose power, Cmdr. Lauren Spaziano, U.S. 6th Fleet spokesperson, told USNI News. The Navy restored power for critical systems within 36 hours, with full power restored within three days. “While the U.S. Navy conducted repairs, the crew had continuous access to food, water and alternate lodging. To maintain operations security, we do not comment on ship schedules
-
-## [7 takeaways from the Carney government's 2nd budget](https://www.cbc.ca/news/politics/highlights-federal-liberal-budget-2026-9.7411046?cmp=rss)
-
-via CBC, Canada News · 2026-11-05, updated 2026-11-06
-
-![Two men in suits hold books that read "Masters of our Destiny."](https://i.cbc.ca/ais/2ebcedcf-2ae7-46dd-ac23-7acfbbf28412,1793912981969/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C144%2C7330%2C4123%29%3B)
-
-The 2026 federal budget outlines billions in new spending, but mostly on non-permanent measures. Here are some takeaways.
-
-## [From groceries to tax credits, how much is in the federal budget for your wallet?](https://www.cbc.ca/news/business/budget-2026-gas-groceries-affordability-9.7411104?cmp=rss)
-
-via CBC, Top Stories · 2026-11-05, updated 2026-11-06
-
-![A man in a coat stands looking at a selection of fruit in a grocery store](https://i.cbc.ca/ais/9b190b09-4d1f-4735-adae-5e34117f413d,1793846443973/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C419%2C5357%2C3013%29%3B)
-
-The 2026 budget increases payments for the Canada Groceries and Essentials Benefit, expands a tax credit for low-wage workers and makes the Canada caregiver credit refundable. But the affordability measures are mostly for the short term, and took a back seat to measures aimed at boosting investment.
-
-## [Fighter jets scrambled as bomb threats target flights across Europe](https://www.vaticannews.va/en/world/news/2026-11/europe-bomb-threats-flights-fighter-jets-hoax.html)
-
-via Vatican News · 2026-11-05, updated 2026-11-10
-
-A wave of bomb threats targeting at least 16 passenger flights across Europe prompt military fighter jet escorts, emergency diversions and airport security alerts on Thursday, raising concerns about aviation security amid growing fears of hybrid warfare.
-
-[Read all](https://www.vaticannews.va/en/world/news/2026-11/europe-bomb-threats-flights-fighter-jets-hoax.html)
-
-## [Late Late Show reveals this week's guests](https://www.rte.ie/entertainment/2026/1105/1598162-late-late-show-reveals-this-weeks-guests/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-This week's Late Late Show will celebrate Ciara Mageean's remarkable life and legacy, with her friends and fellow athletes Ellen Keane and Thomas Barr joining host Patrick Kielty to celebrate her life and legacy.
-
-## [Spooky Halloween Workshops](https://www.vaticanobservatory.org/sacred-space-astronomy/spooky-halloween-workshops/)
-
-via Vatican Obervatory · 2026-11-05, updated 2026-11-10
-
-I drew the Perseus Cluster in stages. The children followed along and learned a bit about using pastels effectively.
-
-## [Inquest into Aruebose death adjourned over garda probe](https://www.rte.ie/news/dublin/2026/1105/1598164-daniel-aruebose-inquest/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-An inquest into the death of Daniel Aruebose has been adjourned pending an ongoing garda investigation, with criminal proceedings "being contemplated".
-
-## [RTsys Group Strengthens Its Presence in Canada with the Sale of Several SEMA Training Targets](https://www.navalnews.com/event-news/euronaval-2026/2026/11/rtsys-group-strengthens-its-presence-in-canada-with-the-sale-of-several-sema-training-targets/)
-
-via Navel News · 2026-11-05, updated 2026-11-08
-
-At Euronaval 2026, the Morbihan-based RTsys Group announced the sale of several SEMA training targets to two Canadian defense agencies: Defense Research and Development Canada (DRDC) and the Naval Engineering Test Establishment (NETE). This marks a new international milestone for its anti-submarine warfare (ASW) solution, further solidifying its presence in the North American naval defense ...
-
-The post [RTsys Group Strengthens Its Presence in Canada with the Sale of Several SEMA Training Targets](https://www.navalnews.com/event-news/euronaval-2026/2026/11/rtsys-group-strengthens-its-presence-in-canada-with-the-sale-of-several-sema-training-targets/) appeared first on [Naval News](https://www.navalnews.com).
-
-## [Brand being investigated over two new rape complaints](https://www.rte.ie/news/2026/1105/1598153-brand-rape-complaint/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-Russell Brand has been accused of raping two more women and could now face further criminal charges, it can be revealed.
-
-## [Submarine ‘Isaac Peral’ sinks the old patrol vessel ‘Infanta Elena’ during the live-fire exercise SINKEX-26](https://www.navalnews.com/naval-news/2026/11/submarine-isaac-peral-sinks-the-old-patrol-vessel-infanta-elena-during-the-live-fire-exercise-sinkex-26/)
-
-via Navel News · 2026-11-05, updated 2026-11-06
-
-The Spanish Navy has successfully completed the SINKEX 26 naval exercise in waters of the Atlantic Ocean —a periodic training event involving live-fire weaponry— during which the submarine ‘Isaac Peral’ (S-81) sank the decommissioned offshore patrol vessel ‘Infanta Elena’ by firing a single torpedo. Spanish Navy press release This exercise provided an opportunity to put ...
-
-The post [Submarine ‘Isaac Peral’ sinks the old patrol vessel ‘Infanta Elena’ during the live-fire exercise SINKEX-26](https://www.navalnews.com/naval-news/2026/11/submarine-isaac-peral-sinks-the-old-patrol-vessel-infanta-elena-during-the-live-fire-exercise-sinkex-26/) appeared first on [Naval News](https://www.navalnews.com).
-
-## [Witnesses yelled at Faulkner attacker to stop, court told](https://www.rte.ie/news/courts/2026/1105/1598138-scarlett-faulkner/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-The Central Criminal Court has been shown video footage of an attack on Scarlett Faulkner at Birdhill last March during which she suffered fatal injuries.
-
-## [Russell Brand found guilty of rape, sexual assaults](https://www.rte.ie/news/courts/2026/1105/1598090-russell-brand-court/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-07
-
-Russell Brand is facing years in prison after being found guilty of raping one of his fans and sexually assaulting three women during his showbiz career.
-
-## [Post-secondary students across Ontario walk out of classrooms to protest OSAP changes, tuition hike](https://www.cbc.ca/news/canada/toronto/student-walkout-protest-osap-tuition-ontario-9.7410724?cmp=rss)
-
-via CBC, Canada News · 2026-11-05, updated 2026-11-06
-
-![Students on the side of a road holding signs, saying "OSAP weaves futures, not baskets" and "Free Education for All!" Daytime.](https://i.cbc.ca/ais/7c949f3d-a005-411b-9f67-6c159357128a,1793899435315/full/max/0/default.jpg?im=Crop%2Crect%3D%28918%2C0%2C4793%2C2696%29%3B)
-
-University and college students across Ontario are protesting rising tuition fees and the province's cuts to the Ontario Student Assistance Program in a provincewide walkout Thursday.
-
-## [MBDA and TERMA join forces to develop innovative, flexible air and surface defence solutions against a wide spectrum of threats](https://www.navalnews.com/event-news/euronaval-2026/2026/11/mbda-and-terma-join-forces-to-develop-innovative-flexible-air-and-surface-defence-solutions-against-a-wide-spectrum-of-threats/)
-
-via Navel News · 2026-11-05, updated 2026-11-06
-
-MBDA and TERMA, building on their longstanding partnership and in the framework of the cooperation agreement signed during Eurosatory last June, have announced the development of the Self Protection Integrated Mistral 3 Module (SPIMM), an innovative, containerised air and surface defence solution, deployable at sea and on land. MBDA press release Recent global conflicts and ...
-
-The post [MBDA and TERMA join forces to develop innovative, flexible air and surface defence solutions against a wide spectrum of threats](https://www.navalnews.com/event-news/euronaval-2026/2026/11/mbda-and-terma-join-forces-to-develop-innovative-flexible-air-and-surface-defence-solutions-against-a-wide-spectrum-of-threats/) appeared first on [Naval News](https://www.navalnews.com).
-
-## [Married at First Sight U.K. cancelled after review, sexual assault allegations](https://www.cbc.ca/news/entertainment/married-at-first-sight-uk-cancelled-rape-allegations-9.7410409?cmp=rss)
-
-via CBC, Top Stories · 2026-11-05, updated 2026-11-06
-
-![A bride and groom, seen from behind, standing beside each other with their fingers crossed behind their backs.](https://i.cbc.ca/ais/1c5900e9-3288-420c-b7e7-fc3f5bba57a9,1793890423067/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C43%2C634%2C356%29%3B)
-
-Months after three female cast members came forward with allegations of sexual assault on the set of Married at First Sight U.K., the results of an external review have prompted Channel 4 to decide not to bring the show back.
-
-## [Herzog begins coalition talks after inconclusive Israeli election](https://www.vaticannews.va/en/world/news/2026-11/israel-herzog-coalition-talks-after-election.html)
-
-via Vatican News · 2026-11-05, updated 2026-11-10
-
-Israeli President Isaac Herzog on Thursday begins consultations with political parties to determine who should be given the mandate to form the country's next government, after a general election produced no clear winner.
-
-[Read all](https://www.vaticannews.va/en/world/news/2026-11/israel-herzog-coalition-talks-after-election.html)
-
-## [Files on Drumcree parade suspects to be sent - Boutcher](https://www.rte.ie/news/ulster/2026/1105/1598136-drumcree-suspects-files/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-Files on suspects accused of criminal offences during a protest that blocked the proposed route of an Orange Order parade along the Garvaghy Road in Portadown will be sent to prosecutors to decide if they will face charges within days, the Chief Constable of the PSNI said.
-
-## [Defense Primer on U.S. Special Operations Forces](https://news.usni.org/2026/11/05/defense-primer-on-u-s-special-operations-forces)
-
-via US Navy Institute · 2026-11-05, updated 2026-11-17
-
-The following is the Nov. 3, 2026, Congressional Research Service report Defense Primer: U.S. Special Operations Forces. From the Report U.S. Special Operations Forces (SOF) are active duty and reserve components of the military services that are designated as SOF by the Secretary of Defense, who is using “Secretary of War” as a “secondary title” under Executive Order (EO) 14347, dated September 5, 2025. SOF are selected, organized, trained, and equipped to conduct and support special operations. Special operations frequently require unique modes of employment, tactics, techniques, procedures, and equipment. SOF often conduct special operations in hostile, politically, and/or diplomatically
-
-## [Canadian youth are helping others understand how climate change affects the brain](https://www.cbc.ca/news/climate/what-on-earth-brain-health-9.7409423?cmp=rss)
-
-via CBC, Top Stories · 2026-11-05, updated 2026-11-06
-
-![Young woman beside a computer with pictures of the brain in the background](https://i.cbc.ca/ais/8f794707-0595-4577-be18-1526160024cb,1793880694396/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1875%2C4000%2C2250%29%3B)
-
-In this issue of our environmental newsletter, we meet a group of youth who are helping people understand the impact of climate change on brain health; find out just how super this year's El Niño is so far; and see how some some municipalities are keeping Halloween pumpkins out of the trash (hint: they're getting eaten).
-
-## [AirTag hidden in historic wall reveals stone thief](https://www.bbc.co.uk/news/articles/cq70pdgrk4dyo?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05, updated 2026-11-08
-
-Matt Smith hid a tracker inside a wall stone, which led police to the culprit's house.
-
-## ['You've had a wonderful life Tommy, but it's over' - Sir Tom feared he was dying](https://www.bbc.co.uk/news/articles/c8qlnwng5pzwo?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-The singer from Pontypridd told the audience just how serious his "bad case of the flu" was.
-
-## [Two more arrests after Halloween party stabbings](https://www.bbc.co.uk/news/articles/cq5ynjn61kkzo?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-Two 16-year-old boys from Southampton are arrested on suspicion of attempted murder.
-
-## ["They Have Eyes": How Trump's Corruption Became a Top Concern for Midterm Voters](http://www.democracynow.org/2026/11/5/corruption_and_elections)
-
-via Democracy Now · 2026-11-05
-
-Democrats regained control of both the House and the Senate in Tuesday’s historic midterm elections, a comeback fueled largely by voter anger over high prices and the war on Iran. But surveys also found that corruption was a major concern, with 76% of voters telling a Harris poll that elected officials care more about enriching themselves than improving the economy for ordinary people. A separate Reuters/Ipsos poll found that 63% of Americans considered it inappropriate for Trump and his family to profit from cryptocurrency, while 69% said his private business interests influence his decisions as president.
-
-“If this election was about corruption and cost, then this next Congress needs to be focused on accountability and affordability,” says Donald Sherman, the president and CEO of Citizens for Responsibility and Ethics in Washington, or CREW.
-
-“Congress needs to do oversight not just on the administration’s corruption, not just on the president’s profiteering, but also on corporate America, what they have gotten out of engaging in the president’s pay-to-play environment, how corporate America and the outside influence of money in our political system has undermined the public voice in our policy discussions.”
-
-## [Passenger recalls 'terrifying' alert on Aer Lingus flight](https://www.rte.ie/news/2026/1105/1598131-passenger-aer-lingus-flight/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-A passenger on an Aer Lingus flight, which was diverted due to a security threat this morning, has described seeing French air force jets escort the plane to an air field in France.
-
-## [Govt criticised over garda protected disclosures handling](https://www.rte.ie/news/politics/2026/1105/1598128-dail-politics/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-Labour TD Alan Kelly has told the Dáil that the Government is in "very dangerous and potentially fatal" territory in relation to its handling of protected disclosures from within the gardaí.
-
-## [First Gen Z Congresswoman: DSA's Melat Kiros on Corruption, Medicare for All & Israel](http://www.democracynow.org/2026/11/5/melat_kiros)
-
-via Democracy Now · 2026-11-05
-
-The Democratic Socialists of America made major gains in this year’s U.S. midterms, electing not just the largest-ever socialist bloc to Congress, but also winning dozens of races at the state, county and municipal levels. _Democracy Now!_ spoke with Congressmember-elect Melat Kiros on election night following her victory in Denver, Colorado. She identified Medicare for All as her top priority and said progressives must lay the groundwork “so that in ’29, when we have the House, the Senate and the White House, we can sign it into law on day one.”
-
-Kiros is a 29-year-old Ethiopian immigrant and lawyer. In 2023, Kiros wrote an open letter about the danger of conflating antisemitism and criticism of Israel, for which she was fired by her law firm. She won a major upset in the Democratic primary earlier this year against longtime incumbent Congressmember Diana DeGette.
-
-## [Could this be the last Bonfire Night for noisy fireworks at home?](https://www.bbc.co.uk/news/articles/crp3gk07850zo?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-About 20 million people enjoy fireworks at home every year, but some campaigners want quieter displays.
-
-## [HGH receives the French Navy’s Perséus label for its SPYNEL-F Maritime Surveillance System](https://www.navalnews.com/event-news/euronaval-2026/2026/11/hgh-receives-the-french-navys-perseus-label-for-its-spynel-f-maritime-surveillance-system/)
-
-via Navel News · 2026-11-05, updated 2026-11-06
-
-HGH announced that its SPYNEL-F maritime surveillance system has been awarded the Perséus Label, a distinction recognizing innovative technologies tested in real-world conditions with the French Navy. HGH press release The award recognizes an experiment conducted in January 2026, during which HGH’s SPYNEL-F system was tested aboard a French Maritime Gendarmerie patrol vessel. By taking ...
-
-The post [HGH receives the French Navy’s Perséus label for its SPYNEL-F Maritime Surveillance System](https://www.navalnews.com/event-news/euronaval-2026/2026/11/hgh-receives-the-french-navys-perseus-label-for-its-spynel-f-maritime-surveillance-system/) appeared first on [Naval News](https://www.navalnews.com).
-
-## [Mexican judge arrested over alleged $2M bribe to release Ryan Wedding's second-in-command](https://www.cbc.ca/news/canada/mexican-judge-bribe-ryan-wedding-9.7410789?cmp=rss)
-
-via CBC, World News · 2026-11-05, updated 2026-11-06
-
-![A man is flanked on either side by uniformed men](https://i.cbc.ca/ais/28283bd0-04f3-42aa-a1bc-f08968ea12ec,1793901635982/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C52%2C582%2C327%29%3B)
-
-A Mexican judge has been arrested on allegations that he accepted a $2-million US bribe in exchange for granting bail to a man accused of acting as second-in-command to Ryan Wedding, the former Canadian Olympic snowboarder turned alleged drug kingpin, American officials said on Thursday.
-
-## ['Dead Zoo' won't reopen until 'well into 2030s', PAC told](https://www.rte.ie/news/2026/1105/1598129-natural-history-museum/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-The Public Accounts Committee has heard that the Natural History Museum will not reopen until the 2030s, with €3.6 million spent on its refurbishment to date and no final budget in place.
-
-## [Faisal Islam: How high will interest rates go?](https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-The BBC's economics editor views one more interest rate as likely, but thinks that will be all.
-
-## [The Country Says "No" to Trump: Not Just Congress, the Blue Tsunami Flips Statehouses Across U.S.](http://www.democracynow.org/2026/11/5/2026_midterm_election_overview)
-
-via Democracy Now · 2026-11-05
-
-We examine the results of Tuesday’s historic U.S. midterm elections with Daniel Nichanian, editor-in-chief of _Bolts_. In addition to taking back the House and Senate, Democrats also made major gains at the state level and will control a majority of governorships for the first time in 16 years. Democrats also flipped 12 state legislative chambers.
-
-“The size of the wins for Democrats in statewide races was wild,” says Nichanian. He identifies protecting abortion access, bolstering unions and ending police cooperation with ICE as some of the priorities Democrats are likely to pursue.
-
-## [Three ways the interest rate rise could affect you](https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.
-
-## [Melania Trump calls for 'more enduring' Ukraine ceasefire](https://www.rte.ie/news/ukraine/2026/1105/1598123-ukraine-russia/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-US First Lady Melania Trump has called for a new, "more enduring" ceasefire in Ukraine as she hosted officials from the war-torn country and its invader Russia at the White House.
-
-## [France holds new strikes and protests as unions demand immediate answers](https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-Five of France's unions join a wave of strikes and protests in a national day of action.
-
-## [Pope Leo returns to continent full of contradictions but rich in hope](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-apostolic-journey-peru-argentina-uruguay-editorial.html)
-
-via Vatican News · 2026-11-05, updated 2026-11-09
-
-Our Editorial Director reflects on the upcoming 12-day Apostolic Journey to Latin American of Pope Leo XIV, who served for many years as a missionary in Peru.
-
-[Read all](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-apostolic-journey-peru-argentina-uruguay-editorial.html)
-
-## [Headlines for November 5, 2026](http://www.democracynow.org/2026/11/5/headlines)
-
-via Democracy Now · 2026-11-05
-
-Vance Blames Republican Election Losses on the U.S. War on Iran, Florida’s GOP Gov. DeSantis Calls Election “Extinction-Level Event for Republicans”, Yemeni Government Claims to Have Thwarted Large-Scale Attack by Ansar Allah in Taiz, Israeli Attacks Kill at Least Four Palestinians in Gaza, Israeli Court Extends Detention of Palestinian Journalist Abed Abu Shehadeh, United Nations Ends Peacekeeping Mission in Western Sahara, South Africans Begin Voting in Municipal Elections, World Health Organization Approves Trials of Two New Ebola Vaccines, Paraguay Central Bank Takes Over Lender with Close Ties to President Peña, Colombia Toughens Terms for Armed Groups Who Surrender, Ending “Total Peace” Approach, Striking Bangladeshi Garment Workers Win Concessions Amid Protests over Poverty Wages, Court Blocks Trump Administration from Deporting Afghans to Pakistan or Afghanistan, Google Plans to Cut Off Search Access to Schools That Reject AI
-
-## [Man wants to stop dialysis for child's therapy, Dáil told](https://www.rte.ie/news/politics/2026/1105/1598120-leaders-dail/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-A 52-year-old grandfather, who is on dialysis, offered to end his treatment if his three-year-old non-verbal grandson could get speech therapy, the Dáil has heard.
-
-## [Football fan tried to stop Huntingdon train attack, jury hears](https://www.bbc.co.uk/news/articles/c6ly37727nk3o?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-Stephen Crean says his grapple with the attacker was "like Come Dancing, we were all over the place".
-
-## [How will a resounding U.S. political shift impact the cross-border auto industry?](https://www.cbc.ca/news/canada/windsor/america-canada-democratic-midterms-auto-industry-impact-9.7410608?cmp=rss)
-
-via CBC, Canada News · 2026-11-05, updated 2026-11-06
-
-![A drone view shows a vehicle crossing the $4.7 billion Gordie Howe International Bridge, connecting Windsor, Ontario and Detroit, Michigan, the day after it opened in Windsor, Ontario, Canada, July 28, 2026.](https://i.cbc.ca/ais/cab190fa-9e9f-4b3f-8665-cde28f303df9,1793896500332/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B)
-
-In Michigan, it's believed U.S. President Donald Trump's tariffs played a big role with midterm election voters. Here's what auto industry members and business interests are saying about how the results may impact cross-border relations.
-
-## [Fairbanks Morse Defense Unveils AutoHook for Fully Autonomous Vessel Recovery at EURONAVAL 2026](https://www.navalnews.com/event-news/euronaval-2026/2026/11/fairbanks-morse-defense-unveils-autohook-for-fully-autonomous-vessel-recovery-at-euronaval-2026/)
-
-via Navel News · 2026-11-05, updated 2026-11-06
-
-Fairbanks Morse Defense (FMD) debuted AutoHook™ at EURONAVAL 2026 in Paris, a first-of-its-kind fully autonomous vessel recovery interface developed by FMD’s Norway-based business, Vestdavit. Fairbanks Morse Defense press release AutoHook is a cornerstone capability in establishing a new standard for fully autonomous Launch and Recovery System (LARS) supporting Uncrewed Surface Vessels (USVs) and other assets ...
-
-The post [Fairbanks Morse Defense Unveils AutoHook for Fully Autonomous Vessel Recovery at EURONAVAL 2026](https://www.navalnews.com/event-news/euronaval-2026/2026/11/fairbanks-morse-defense-unveils-autohook-for-fully-autonomous-vessel-recovery-at-euronaval-2026/) appeared first on [Naval News](https://www.navalnews.com).
-
-## [40% of income spent on rent in areas around Dublin - CSO](https://www.rte.ie/news/business/2026/1105/1598103-rental-sector-ireland/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-More than a third of tenants living in the South Dublin Co Council area spent over 40% of their disposable income on rent, according to the Central Statistics Office.
-
-## [40% of income spent on rent in areas around Dublin - CSO](https://www.rte.ie/news/business/2026/1105/1598103-rental-sector-in-ireland/)
-
-via RTÉ News · 2026-11-05
-
-More than a third of tenants living in the South Dublin Co Council area spent over 40% of their disposable income on rent, according to the Central Statistics Office.
-
-## [Married at First Sight UK cancelled after BBC revealed rape allegations](https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-Three women made allegations about the men they were partnered with. Channel 4 has apologised and said the show's budget would be reinvested in "distinctive new programming".
-
-## [Burke wants to resolve RTÉ funding issue by end of year](https://www.rte.ie/news/ireland/2026/1105/1598114-rte-pac/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-The Minister for Communications has said he wants to resolve the funding issue at RTÉ by the end of the year.
-
-## [ELT Group and Thales announce the establishment of a Joint Venture in naval Electronic Warfare for the export market](https://www.navalnews.com/event-news/euronaval-2026/2026/11/elt-group-and-thales-announce-the-establishment-of-a-joint-venture-in-naval-electronic-warfare-for-the-export-market/)
-
-via Navel News · 2026-11-05
-
-ELT Group and Thales DMS formally announce the establishment of a joint venture, equally owned by the two companies. ELT Group press release The joint venture, named ‘Thales ELT Naval EW Solutions’, is set to strengthen ELT and Thales position and to be a leading European company in Naval Electronic Warfare (EW), to address the ...
-
-The post [ELT Group and Thales announce the establishment of a Joint Venture in naval Electronic Warfare for the export market](https://www.navalnews.com/event-news/euronaval-2026/2026/11/elt-group-and-thales-announce-the-establishment-of-a-joint-venture-in-naval-electronic-warfare-for-the-export-market/) appeared first on [Naval News](https://www.navalnews.com).
-
-## [Mixed results for RTÉ radio shows in latest JNLR](https://www.rte.ie/entertainment/2026/1105/1598080-mixed-results-for-rte-radio-shows-in-latest-jnlr/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-Some of RTÉ's best-known radio programmes have recorded audience gains in the latest JNLR (Joint National Listenership Research) figures, while others have seen significant declines.
-
-## [World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31](https://news.un.org/feed/view/en/story/2026/11/1168750)
-
-via United Nations, Climate Change · 2026-11-05, updated 2026-11-26
-
-UN Secretary-General António Guterres remains concerned over the situation on the Korean Peninsula, including the potential escalation of tensions across the Demilitarized Zone (DMZ), his Spokesperson said on Thursday.
-
-## [Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns](https://news.un.org/feed/view/en/story/2026/11/1168749)
-
-via United Nations, Top Stories · 2026-11-05, updated 2026-11-12
-
-Drone strikes that killed at least 30 people in Abyei last month have added “a new and concerning dimension” to security in the disputed area, the UN’s peacekeeping chief told the Security Council on Thursday.
-
-## [Two new Ebola vaccines to join DR Congo clinical trial](https://news.un.org/feed/view/en/story/2026/11/1168742)
-
-via United Nations, Top Stories · 2026-11-05, updated 2026-11-11
-
-Two new Ebola vaccine candidates will be added to a clinical trial in the Democratic Republic of the Congo (DRC) as the country continues to battle a deadly outbreak caused by the Bundibugyo species of the virus.
-
-## [Children at risk as war zone attacks on water and sanitation more than triple](https://news.un.org/feed/view/en/story/2026/11/1168743)
-
-via United Nations, Top Stories · 2026-11-05, updated 2026-11-11
-
-Attacks that damaged or destroyed water and sanitation systems in conflict zones tripled between 2021 and 2025, increasing children’s risk of exposure to disease outbreaks, malnutrition and violence.
-
-## [Cardinal Parolin: Pope’s Latin America visit is ‘witness to unity, reconciliation’](https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-pope-leo-xiv-interview-latin-america-visit.html)
-
-via Vatican News · 2026-11-05, updated 2026-11-09
-
-As Uruguay, Argentina, and Peru await Pope Leo XIV for his 6th Apostolic Journey, Cardinal Secretary of State Pietro Parolin says the encounter with local communities “will be filled with memories, affection, and gratitude.”
-
-[Read all](https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-pope-leo-xiv-interview-latin-america-visit.html)
-
-## [Which airlines have been affected by bomb threats?](https://www.rte.ie/news/europe/2026/1105/1598108-bomb-threats-europe/)
-
-via RTÉ News · 2026-11-05
-
-A string of bomb threats have disrupted passenger flights across Europe in recent days, forcing diversions, emergency landings and security sweeps, though no explosives have been found so far.
-
-## [Pope chooses theme for 2027 World Day of the Sick](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-theme-world-day-sick-2027-caring-for-every-person.html)
-
-via Vatican News · 2026-11-05, updated 2026-11-09
-
-Pope Leo XIV announces the theme for the 2027 World Day of the Sick, highlighting the role of Christian communities and civil society in caring for the sick, the elderly, and those who suffer.
-
-[Read all](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-theme-world-day-sick-2027-caring-for-every-person.html)
-
-## [Specialized burn treatments deployed for soldiers injured in Alberta military base fire](https://www.cbc.ca/news/canada/edmonton/specialized-burn-treatments-soldiers-wainwright-military-base-fire-9.7415813?cmp=rss)
-
-via CBC, Top Stories · 2026-11-05, updated 2026-11-10
-
-![a doctor displays a burn treatment](https://i.cbc.ca/ais/7f21e98d-3824-4bc7-ac72-b4d53d27d6bc,1794277852910/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B)
-
-## [France hit by more strikes, Macron bids to contain unrest](https://www.rte.ie/news/europe/2026/1105/1598105-france-protests/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-Flag-waving protesters have marched through French cities and public workers have gone on strike, in a renewed challenge to President Emmanuel Macron.
-
-## [France hit by more strikes, Macron bids to contain unrest](https://www.rte.ie/news/world/2026/1105/1598105-france-protests/)
-
-via RTÉ News · 2026-11-05
-
-Flag-waving protesters have marched through French cities and public workers have gone on strike, in a renewed challenge to President Emmanuel Macron.
-
-## [Democrats plunge into wide-open 2028 presidential race](https://www.rte.ie/news/us/2026/1105/1598102-democrats-2028-race/)
-
-via RTÉ News · 2026-11-05
-
-The 2028 presidential contest is likely to expose the Democrats' divide over how to win back the White House.
-
-## [Cardinal Parolin expresses hopes for cooperation after US midterm elections](https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-us-midterm-elections-china-holy-see-agreement.html)
-
-via Vatican News · 2026-11-05, updated 2026-11-09
-
-Cardinal Secretary of State Pietro Parolin speaks to journalists on the sidelines of an event at the Pontifical Urbaniana University and comments on the US midterm elections and the China-Holy See Agreement.
-
-[Read all](https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-us-midterm-elections-china-holy-see-agreement.html)
-
-## [Pope appoints two Undersecretaries to Dicastery for Integral Development](https://www.vaticannews.va/en/vatican-city/news/2026-11/pope-appoints-undersecretaries-dicastery-integral-development.html)
-
-via Vatican News · 2026-11-05, updated 2026-11-09
-
-Pope Leo XIV appoints Jesuit Fr. Avelino Chicoma Bundo Chico and Professor Claudia Leal Luna as Undersecretaries of the Dicastery for Promoting Integral Human Development
-
-[Read all](https://www.vaticannews.va/en/vatican-city/news/2026-11/pope-appoints-undersecretaries-dicastery-integral-development.html)
-
-## [Eisenkot tipped to seek Israel govt amid ongoing talks](https://www.rte.ie/news/middle-east/2026/1105/1598104-israel-government/)
-
-via RTÉ News · 2026-11-05
-
-Gadi Eisenkot has emerged as the favourite to be tasked with trying to form an Israeli government as a religious party long aligned with Prime Minister Benjamin Netanyahu declined to recommend him.
-
-## [Kenyan pharmacists warn against viral craze of using allergy drug for vaginal tightening](https://www.bbc.co.uk/news/articles/cm1dwl13zge7o?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-Women who have already tried inserting the tablets are advised to stop and seek medical attention if needed.
-
-## [The Pitt and ER are similar enough for lawsuit to proceed, judge rules](https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.
-
-## [Fincantieri and Leonardo sign an agreement to further strengthen the role of Orizzonte Sistemi Navali](https://www.navalnews.com/event-news/euronaval-2026/2026/11/fincantieri-and-leonardo-sign-an-agreement-to-further-strengthen-the-role-of-orizzonte-sistemi-navali/)
-
-via Navel News · 2026-11-05
-
-During Euronaval, Europe’s leading naval defense exhibition currently underway in Paris, Fincantieri and Leonardo signed a Letter of Intent (LoI) aimed at, among other things, further strengthening the role of Orizzonte Sistemi Navali (OSN), a joint venture owned by Fincantieri (51%) and Leonardo (49%). Fincantieri press release Representing the companies were Fincantieri’s Chief Executive Officer ...
-
-The post [Fincantieri and Leonardo sign an agreement to further strengthen the role of Orizzonte Sistemi Navali](https://www.navalnews.com/event-news/euronaval-2026/2026/11/fincantieri-and-leonardo-sign-an-agreement-to-further-strengthen-the-role-of-orizzonte-sistemi-navali/) appeared first on [Naval News](https://www.navalnews.com).
-
-## [Men involved in Old Montreal fire that killed 2 plead guilty to reduced manslaughter charge](https://www.cbc.ca/news/canada/montreal/men-involved-in-old-montreal-fire-that-killed-2-plead-guilty-to-reduced-manslaughter-charge-9.7410461?cmp=rss)
-
-via CBC, Canada News · 2026-11-05, updated 2026-11-06
-
-![A firefighter battles a blaze in Old Montreal on Friday, Oct.4, 2024.](https://i.cbc.ca/ais/a0c9380d-827d-426c-a0c5-a9d3f5b739c6,1793893773200/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C760%2C6336%2C3564%29%3B)
-
-Two young men pleaded guilty to a reduced charge of manslaughter for their involvement in an Old Montreal building fire that killed a woman and her daughter in October 2024.
-
-## [U.S. midterms are a 'vindication' of Alberta's approach to tariffs, says Premier Smith](https://www.cbc.ca/news/canada/edmonton/us-cda-midterms-alta-9.7410234?cmp=rss)
-
-via CBC, Canada News · 2026-11-05, updated 2026-11-06
-
-![A woman with brown hair in a white suit stands in front of the Alberta flag.](https://i.cbc.ca/ais/ef40a913-ffd7-4298-b596-4e3a10911ae2,1793883037195/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C230%2C5624%2C3163%29%3B)
-
-Alberta Premier Danielle Smith says sweeping Democrat wins in the U.S. midterm elections prove her province was on the right path in the cross-border trade war.
-
-## [Watch: Was an Italian chef really fired over refusal to put pineapple on pizza?](https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-The chef had stated that putting pineapple on pizza was "offensive to his culture".
-
-## [British man with Ebola to be flown to UK for treatment](https://www.rte.ie/news/health/2026/1105/1598091-ebola-uk-patient/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-A British man is being flown back to the UK for treatment after testing positive for Ebola in the DRC, the government has confirmed.
-
-## [British man with Ebola to be flown to UK for treatment](https://www.rte.ie/news/uk/2026/1105/1598091-ebola-uk-patient/)
-
-via RTÉ News · 2026-11-05
-
-A British man is being flown back to the UK for treatment after testing positive for Ebola in the DRC, the government has confirmed.
-
-## [Holles Street emergency access to continue during summit](https://www.rte.ie/news/eu-presidency/2026/1105/1598087-eu-summit-dublin/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-Emergency access for vehicles to the National Maternity Hospital will be maintained for the duration of the security operation around next week's EU Presidency meeting, the Master of the hospital has said.
-
-## [Drunk and dangerous e-bike riders face on-the-spot fines under crackdown](https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.
-
-## [Pope: Safeguard Church's treasure of communion, a source of peace for all](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-conference-church-china-unity-diversity.html)
-
-via Vatican News · 2026-11-05, updated 2026-11-09
-
-Pope Leo XIV sends a video message to a conference in Rome exploring the face of the universal Church in China, and encourages Catholics to preserve unity in diversity, not uniformity.
-
-[Read all](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-conference-church-china-unity-diversity.html)
-
-## [Largely peaceful marches across France as workers stage strike, some police clashes reported](https://www.cbc.ca/news/world/france-protests-macron-government-9.7410318?cmp=rss)
-
-via CBC, World News · 2026-11-05, updated 2026-11-06
-
-![A man holds a French flag near fire.](https://i.cbc.ca/ais/e00a0970-c727-4ba9-bab9-f82768454335,1793886408743/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C560%2C4761%2C2678%29%3B)
-
-Some protesters clashed with police in Paris and Lyon on Thursday during largely peaceful nationwide demonstrations and a one-day strike by some public sector workers in a renewed challenge to President Emmanuel Macron.
-
-## [MKE Reveals TOLGA 20mm Dual Gun System](https://www.navalnews.com/event-news/euronaval-2026/2026/11/mke-reveals-tolga-20mm-dual-gun-system/)
-
-via Navel News · 2026-11-05
-
-During Euronaval 2026, Turkish defence company MKE showcased the TOLGA 20mm Dual Gun System, a naval remotely operated weapon (RWS) station with high rates of fire designed for close-range defence against surface and aerial threats. Low-cost FPV drones and loitering munitions are increasingly challenging conventional air defence systems through coordinated swarm attacks. Meanwhile, the low ...
-
-The post [MKE Reveals TOLGA 20mm Dual Gun System](https://www.navalnews.com/event-news/euronaval-2026/2026/11/mke-reveals-tolga-20mm-dual-gun-system/) appeared first on [Naval News](https://www.navalnews.com).
-
-## [Pope Leo: In Christ, life has been redeemed](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-recalls-how-in-christ-life-has-been-redeemed.html)
-
-via Vatican News · 2026-11-05, updated 2026-11-09
-
-Pope Leo XIV celebrates Mass in memory of the Cardinals and Bishops who died over the past year, and invites the faithful to reflect on the mystery of death “without fear,” because praying for the deceased “is to celebrate life.”
-
-[Read all](https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-recalls-how-in-christ-life-has-been-redeemed.html)
-
-## [India's costliest film retells a beloved Hindu epic - but divides critics](https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.
-
-## [Aer Lingus plane among 27 flights hit by bomb hoaxes](https://www.rte.ie/news/europe/2026/1105/1598073-europe-flight-threats/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-Hoax bomb threats affected at least 27 flights around Europe today from Ireland to Bulgaria, forcing some to make unplanned landings and prompting fighter jets to escort or intercept others.
-
-## [CMAT releases Christmas song with Elton John](https://www.rte.ie/entertainment/2026/1105/1598047-cmat-elton-john/)
-
-via RTÉ News · 2026-11-05
-
-Elton John has teamed up with CMAT for a new version of his festive hit single Step Into Christmas.
-
-## [Details announced of next week's public sector strike](https://www.rte.ie/news/ireland/2026/1105/1598068-public-pay-dispute-talks/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-Unions have announced details of next week's planned public sector strike on Thursday 12 November.
-
-## [General Atomics Concept Eyes Vektrex in Air-Launched Missile](https://www.navalnews.com/event-news/euronaval-2026/2026/11/general-atomics-concept-eyes-vektrex-in-air-launched-missile/)
-
-via Navel News · 2026-11-05
-
-General Atomics hinted at another potential submunition deployment method for its Vektrex maneuvering projectiles from an air-launched missile. A graphic from General Atomics’ booth at Euronaval 2026 shows a F/A-18E/F Super Hornet launching a missile loaded with seven Vektrex projectiles. The American defense firm did not comment on the missile type. However, the conceptual graphic ...
-
-The post [General Atomics Concept Eyes Vektrex in Air-Launched Missile](https://www.navalnews.com/event-news/euronaval-2026/2026/11/general-atomics-concept-eyes-vektrex-in-air-launched-missile/) appeared first on [Naval News](https://www.navalnews.com).
-
-## [Garth Brooks announces 10 Irish concerts for 2027](https://www.rte.ie/entertainment/2026/1105/1598059-garth-brooks-announces-10-irish-concerts-for-2027/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-Country music superstar Garth Brooks has announced 10 concerts across five Irish cities for 2027.
-
-## [Govt should oppose aspects of UK Troubles Bill - cttee](https://www.rte.ie/news/ireland/2026/1105/1598051-troubles-bill/)
-
-via RTÉ News · 2026-11-05
-
-The Government should formally oppose proposals requiring the Attorney General for England and Wales to give consent for Troubles-related prosecutions, an Oireachtas committee said.
-
-## [1 in 3 young people in Canada have faced dating violence, pediatricians warn](https://www.cbc.ca/news/health/teen-dating-violence-9.7409541?cmp=rss)
-
-via CBC, Top Stories · 2026-11-05
-
-![Teenagers are shown on cellphones, in closeup. ](https://i.cbc.ca/ais/1.6944159,1692737239000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C282%2C5472%2C3078%29%3B)
-
-## [Altar Stone mystery continues as Stonehenge theory overturned](https://www.bbc.co.uk/news/articles/c54g14v42ykgo?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-It was thought the Stonehenge artefact was from north east Scotland but a new study disputes that.
-
-## [Surreal moment Tarantino and Kylie Minogue came to my hometown to star in my new film](https://www.bbc.co.uk/news/articles/cmn068j9z4w3o?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-The Pulp Fiction director and Spinning Around singer caused a stir in a Welsh seaside town.
-
-## [New £200m fleet of publicly funded trains in Wales barely used after three years](https://www.bbc.co.uk/news/articles/cv62kwg0k038o?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-The final piece in a £2bn rail project is late, with less than half of the trains tested.
-
-## [Food, fuel and taxes – can the Democrats do anything to ease cost of living pressures?](https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-Democrats will hold Congress but President Donald Trump still has the power to block their plans.
-
-## [How did supermarket fridges become a target for hackers?](https://www.rte.ie/news/primetime/2026/1105/1598007-clarity-supermarket-cyberattack/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-How did equipment used to keep food cold become a target for hackers - and what do we know about how they got in?
-
-## [Haulage body says targets for electric HGVs unachievable](https://www.rte.ie/news/ireland/2026/1105/1598020-hgv-targets-ireland/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-Government and EU targets aimed at moving away from diesel in the sector are not achievable at the present time, the Irish Road Haulage Association has said.
-
-## [Family of injured Wainwright soldier holds bedside vigil in burn unit](https://www.cbc.ca/news/canada/edmonton/family-injured-wainwright-soldier-vigil-bedside-9.7409856?cmp=rss)
-
-via CBC, Top Stories · 2026-11-05
-
-![A man is seen wearing army fatigues in a field of tall grass.](https://i.cbc.ca/ais/8e79c860-683b-4067-8995-96c78f25c5ee,1793837018377/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B)
-
-Pte. Liam Ramage, 27, of Red Deer, Alta., was one of dozens of service members hurt in an out-of-control grass fire at CFB Wainwright on Oct. 17.
-
-## [Knitalian: Artist uses yarn to create Italian deli](https://www.bbc.co.uk/news/articles/cvze4zy3ng10o?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05, updated 2026-11-07
-
-From spaghetti to Parma ham, everything at a new Soho exhibition is knitted, crocheted or embroidered.
-
-## [Bomb threats affect at least 27 flights, leading to emergency landings at several European airports](https://www.cbc.ca/news/world/europe-bomb-threats-czechia-poland-france-9.7410169?cmp=rss)
-
-via CBC, World News · 2026-11-05, updated 2026-11-06
-
-![An arrival and departure board at an airport is shown along with the backs of people's heads.](https://i.cbc.ca/ais/e671fa4b-5747-4a8b-b450-3bb81fd601cf,1793886645175/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8640%2C4860%29%3B)
-
-A series of hoax ‌bomb threats hit European airlines from Ireland to Bulgaria on Thursday morning for the second time this week, with some of at least 27 affected flights making unplanned landings or being escorted by fighter jets.
-
-## [‘Everybody’s pissed’: Sand blowing into homes next to rural N.S. subdivision development](https://www.cbc.ca/news/canada/nova-scotia/coldbrook-sandpit-residents-upset-blowing-sand-9.7409006?cmp=rss)
-
-via CBC, Top Stories · 2026-11-05
-
-![An aerial view of a sandpit next to two homes that are otherwise surrounded by tress.](https://i.cbc.ca/ais/2a65ea93-b068-4458-b8cb-48fc874cfa7b,1793822949941/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B)
-
-Residents say they're fed up with blowing sand from the site of a subdivision development in the middle of a quiet neighbourhood in Coldbrook, N.S.
-
-## [Ramayana: Part 1 has the muscle, but lacks a certain epic soul](https://www.cbc.ca/news/entertainment/ramayana-part-one-review-9.7409628?cmp=rss)
-
-via CBC, Top Stories · 2026-11-05, updated 2026-11-08
-
-![A bearded man in gold and black armour with a giant crown, screams in anger in front of an ornate palace.](https://i.cbc.ca/ais/08127266-564c-4ca3-9e73-8206e6447986,1793829324007/full/max/0/default.jpg?im=Crop%2Crect%3D%2823%2C0%2C1768%2C994%29%3B)
-
-Never before has this Hindu myth looked as visually stunning, nor involved so much top-tier talent from across India's and other film industries. But the final effect is mixed.
-
-## [Melania Trump hosted officials from Russia and Ukraine. Just what's behind her peace push?](https://www.cbc.ca/news/world/melania-trump-oleshky-ceasefire-meeting-9.7409316?cmp=rss)
-
-via CBC, World News · 2026-11-05, updated 2026-11-06
-
-![Melania Trump stands in a room as she prepares to cast her ballot in 2026 midterm elections.](https://i.cbc.ca/ais/0adecc68-bc7f-4222-9629-ea1c6116b61c,1793821389584/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C315%2C5061%2C2846%29%3B)
-
-As President Donald Trump and his fellow Republicans take stock after a devastating midterm election that saw the Democrats seize control of Congress, his wife Melania is preparing to host representatives who will almost certainly praise Washington's actions.
-
-## [Pediatrician accused of uploading illicit video of young girl remained licensed for months](https://www.cbc.ca/news/investigates/sickkids-doctor-csaem-charges-license-suspension-delay-9.7402720?cmp=rss)
-
-via CBC, Top Stories · 2026-11-05
-
-![A portrait photo of a middle-aged South Asian doctor with glasses wearing a blue shirt.](https://i.cbc.ca/ais/58ea6564-78e3-49f8-b7a5-23ebe92ff0b3,1793374302875/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B)
-
-Toronto police applications to obtain search warrants obtained by CBC reveal that a tip from Dropbox led to the investigation into 45-year-old Dr. Dilan Dissanayake, who has since been charged with possessing and accessing child sexual abuse and exploitation material.
-
-## [Will this year’s super El Niño push 2026 to be the warmest year on record?](https://www.cbc.ca/news/science/super-el-nino-2026-global-temperature-9.7409095?cmp=rss)
-
-via CBC, Top Stories · 2026-11-05
-
-![A global map with colours denoting temperature anomalies in Earth's oceans.](https://i.cbc.ca/ais/bd4e6870-8a26-4a8e-a6e1-b0d79168fd40,1793816064336/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C41%2C2302%2C1294%29%3B)
-
-While the most significant impact on the global temperature typically comes in the months after an El Niño peak — which hasn't happened yet — some climate models are suggesting 2026 could edge out 2024 as the warmest year on record. Could El Niño be influencing this year's global temperature?
-
-## [Habiba Nosheen on her new documentary — and working with Malala](https://www.cbc.ca/news/entertainment/the-gymnasts-of-fisherman-colony-9.7409994?cmp=rss)
-
-via CBC, Top Stories · 2026-11-05
-
-![A group of girls wearing yellow sit in a group while smiling.](https://i.cbc.ca/ais/30521829-235b-4036-90d1-c05b2841c3cb,1793838410756/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C420%2C1920%2C1080%29%3B)
-
-CBC News speaks to documentarian Habiba Nosheen about her new documentary, The Gymnasts of Fisherman Colony.
-
-## [University libraries are being swarmed by AI bots, putting public access at risk](https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287?cmp=rss)
-
-via CBC, Top Stories · 2026-11-05
-
-![Five young women work on laptops in a large room, with textbooks and other documents piled nearby.](https://i.cbc.ca/ais/47809d1c-efd6-4753-9529-d57b9893d8fb,1793831483888/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C64%2C3000%2C1687%29%3B)
-
-Academic libraries are fighting off swarms of data-scraping bots — that are slowing or crashing sites meant for students, researchers and the public — as AI companies continue hunting for content to feed their large language models.
-
-## [Is Grand Theft Auto VI the most anticipated video game of all time? Here are some reasons why](https://www.cbc.ca/news/entertainment/grand-theft-auto-6-hype-9.7406132?cmp=rss)
-
-via CBC, Top Stories · 2026-11-05
-
-![A woman walks past a large poster for a video game with a "Grand Theft Auto VI" logo.](https://i.cbc.ca/ais/51534da3-3cc6-43a3-a2c8-e33a0aef4b2f,1793651306824/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1024%2C576%29%3B)
-
-The latest in the long-running series of crime simulators by Rockstar Games is predicted to be the biggest release in video game history.
-
-## [Alberta's new riding map skews Lethbridge, Banff, Calgary seats toward UCP, voter data suggests](https://www.cbc.ca/news/canada/calgary/alberta-riding-electoral-boundaries-data-analysis-danielle-smith-naheed-nenshi-9.7409182?cmp=rss)
-
-via CBC, Top Stories · 2026-11-05
-
-![The legilsature building at daybreak](https://i.cbc.ca/ais/bdf16101-d871-4f74-9876-e899cf0456b6,1793833490097/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C350%2C6720%2C3780%29%3B)
-
-Danielle Smith's MLAs approved a panel's controversial boundary plan over NDP protests.
-
-## [Niagara police investigate 'hate-motivated' vandalism in St. Catharines, Ont.](https://www.cbc.ca/news/canada/hamilton/hate-motivated-vandalism-jewish-niagara-9.7408953?cmp=rss)
-
-via CBC, Top Stories · 2026-11-05
-
-![Niagara Reginal Police badge.](https://i.cbc.ca/ais/1.4489127,1780675216549/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C298%2C167%29%3B)
-
-Niagara police say they are investigating an act of vandalism Saturday in St. Catharines, Ont., as a "hate-motivated crime." B'nai Brith Canada says the incident is part of a disturbing trend of escalating antisemitism in Canada
-
-## [Some permanent resident applicants left in limbo by changes to Canadian citizenship law](https://www.cbc.ca/news/politics/immigration-permanent-resident-billc3-9.7409321?cmp=rss)
-
-via CBC, Top Stories · 2026-11-05
-
-![Michel Pottier and his wife Lindsey Jade Higgins.](https://i.cbc.ca/ais/713f56ac-bd3e-4285-abd5-e18c0e24b8d3,1793836734882/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C53%2C706%2C397%29%3B)
-
-CBC News has learned that Immigration, Refugees and Citizenship Canada quietly put permanent resident applications on hold for an unknown number of people who could now qualify for citizenship by descent.
-
-## [Vance walks Trump tightrope after blaming Iran war for election defeat](https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.
-
-## [Zelensky speaks to US envoys ahead of Russia talks](https://www.rte.ie/news/ukraine/2026/1105/1598044-ukraine-russia/)
-
-via RTÉ News · 2026-11-05
-
-Ukrainian President Volodymyr Zelensky said he had a detailed conversation with US envoys ahead of several scheduled meetings between Ukrainian and Russian officials next week.
-
-## [Democrats vow to rein in Trump after midterm victory](https://www.rte.ie/news/2026/1105/1598043-us-midterm-elections/)
-
-via RTÉ News · 2026-11-05
-
-Democrats vowed to use their resounding midterm victory to rein in US President Donald Trump, setting up two years of possible deadlock in Washington.
-
-## [Poor wastewater management harming the environment - EPA](https://www.rte.ie/news/environment/2026/1105/1598041-ireland-environment-wastewater/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-The Environmental Protection Agency has warned that poor management of wastewater treatment plants by Uisce Éireann is harming the environment.
-
-## [Poor wastewater management harming the environment - EPA](https://www.rte.ie/news/2026/1105/1598041-ireland-environment-wastewater/)
-
-via RTÉ News · 2026-11-05
-
-The Environmental Protection Agency has warned that poor management of wastewater treatment plants by Uisce Éireann is harming the environment.
-
-## [Would you take a test to see if your life will be cut short? I did - and it changed me](https://www.bbc.co.uk/news/articles/cw62yq9vp7yyo?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-Laura Sides faced a dilemma of whether to find out if she would inherit her father's condition.
-
-## [Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau](https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-The trial was condemned as "unethical" and "neocolonial" because half of the babies would not be given the vaccine.
-
-## [The NHS is relying more on charities - and that might be creating problems for patients](https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&at_campaign=rss)
-
-via BBC, US & Canada · 2026-11-05
-
-Is it symptom a health service at breaking point - or a positive way of involving the public?
-
-## [Ohio and Texas went from red to blue in the midterms but may not stay that way in 2028](https://www.cbc.ca/news/world/texas-ohio-midterm-results-9.7409481?cmp=rss)
-
-via CBC, World News · 2026-11-05, updated 2026-11-06
-
-![A man and a woman sitting in a booth at a fast food restaurant smile as their raise their plastic soft-drink cups while surrounded by smiling people.](https://i.cbc.ca/ais/3fbb59a5-1923-4746-8cfd-db123f6611af,1793850271961/full/max/0/default.jpg?im=Crop%2Crect%3D%28225%2C107%2C1822%2C1024%29%3B)
-
-The Democrats flipping governorships and Senate seats in Texas and Ohio turned the states dramatically blue on election night. Some political observers say these wins don't necessarily mean the states will stay that colour, but they do reveal a new political reality — that they'll be electoral battlegrounds in the 2028 presidential election.
-
-## [Rise in anti-social behaviour by girls over past decade](https://www.rte.ie/news/ireland/2026/1105/1598040-esri-report/)
-
-via RTÉ News · 2026-11-05
-
-Anti-social behaviour has increased for girls and remained broadly stable for boys over the past decade, according to a new study from the ESRI.
-
-## [Free period products initiative extended to all schools](https://www.rte.ie/news/2026/1105/1598030-free-period-products-extended-schools/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-The expansion of the free period products initiative to all eligible upper primary, post-primary and special schools from the 2027/28 school year, is expected to be announced.
-
-## [Private security plan for Dublin needs legal framework](https://www.rte.ie/news/dublin/2026/1105/1598035-dublin-city-security/)
-
-via RTÉ News · 2026-11-05, updated 2026-11-06
-
-The head of Dublin's new regeneration body has said the introduction of private security in the city centre would need a legal clear legal framework and legitimate fears would have to be allayed.
-
-## [Councillors divided over private security plan for Dublin](https://www.rte.ie/news/2026/1105/1598035-dublin-city-security/)
-
-via RTÉ News · 2026-11-05
-
-The Dublin City Development Company said it is examining the introduction of introducing private security in Dublin city centre.
 

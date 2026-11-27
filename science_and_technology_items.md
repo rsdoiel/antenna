@@ -1,14 +1,144 @@
 ---
 title: "STEM"
 description: "Science and technology news and blogs."
-pubDate: Thu, 26 Nov 2026 14:02:00 GMT
+pubDate: Fri, 27 Nov 2026 14:03:00 GMT
 aggregateOf: "science_and_technology.md"
-dateModified: Thu, 26 Nov 2026 14:45:26 GMT
-itemCount: 404
+dateModified: Fri, 27 Nov 2026 14:45:45 GMT
+itemCount: 405
 generator: antenna/0.2.1
 ---
 
 # STEM
+
+## [Bill for Birmingham's Oracle debacle reaches £128M](https://www.theregister.com/public-sector/2026/11/27/bill-for-birminghams-oracle-debacle-reaches-128m/5312563)
+
+via The Register (UK I.T. News) · 2026-11-27
+
+True cost may be much higher for delayed SAP replacement that helped bankrupt the city
+
+## [UK government rejects national consultation on AI datacenters](https://www.theregister.com/off-prem/2026/11/27/uk-government-rejects-national-consultation-on-ai-datacenters/5312501)
+
+via The Register (UK I.T. News) · 2026-11-27
+
+Ministers point to project-level environmental checks as petition passes 39,000 signatures
+
+## [Lloyds and Bank of Scotland apps fall over on payday](https://www.theregister.com/applications/2026/11/27/lloyds-and-bank-of-scotland-apps-fall-over-on-payday/5312566)
+
+via The Register (UK I.T. News) · 2026-11-27
+
+Black horse down (again)
+
+## [Europe's AI sovereignty push: Lots of cloud, not much silver lining](https://www.theregister.com/ai-and-ml/2026/11/27/europes-ai-sovereignty-push-lots-of-cloud-not-much-silver-lining/5312120)
+
+via The Register (UK I.T. News) · 2026-11-27
+
+Datacenter spending is booming but the models, the chips, and the clout all live in US and Asia
+
+## [AI boom leaves network operators waiting up to 18 months for kit](https://www.theregister.com/networks/2026/11/27/ai-boom-leaves-network-operators-waiting-up-to-18-months-for-kit/5312366)
+
+via The Register (UK I.T. News) · 2026-11-27
+
+Optical equipment prices up around 50% this year as telcos compete with datacenters for components, says RETN
+
+## [British social security system techies yank services offline following 'cyber incident'](https://www.theregister.com/security/2026/11/27/british-social-security-system-techies-yank-services-offline-following-cyber-incident/5312522)
+
+via The Register (UK I.T. News) · 2026-11-27
+
+Pensioners assured their funds will arrive as normal
+
+## [Royal Navy orders £142M in minehunting drones from US supplier](https://www.theregister.com/offbeat/2026/11/27/royal-navy-orders-142m-in-minehunting-drones-from-us-supplier/5312291)
+
+via The Register (UK I.T. News) · 2026-11-27
+
+Huntington Ingalls Industries lands deal despite MoD pledge to buy British wherever possible
+
+## [Feeling more anxious? Researchers may know what’s driving it](https://www.npr.org/2026/11/27/nx-s1-6044623/anxiety-uncertainty-intolerance-smartphone-genz)
+
+via NPR Short Wave · 2026-11-27
+
+Younger people are more anxious these days than previous generations, and scientists have speculated all kinds of reasons as to why. A new study pinpoints when anxiety started rising –  about 15 years ago. That aligns with when many people started amping up their smartphone use. But what about phones is making people more anxious? The answer may surprise you: Researchers think it may have to do with the way we handle uncertainty.
+
+**If you liked this episode, check out our episode on the** [**science of healthy screen time**](http://lnk.to/gEf2HE) **.**
+
+_Interested in more science in the news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)
+
+## [Support team put in an emergency order for vodka – lots of vodka – to bring PCs back online](https://www.theregister.com/on-prem/2026/11/27/support-team-put-in-an-emergency-order-for-vodka-lots-of-vodka-to-bring-pcs-back-online/5312283)
+
+via The Register (UK I.T. News) · 2026-11-27
+
+Some clean-up jobs need powerful stuff
+
+## [AWS adds virtual iPhones to its cloud](https://www.theregister.com/off-prem/2026/11/27/aws-adds-virtual-iphones-to-its-cloud/5312457)
+
+via The Register (UK I.T. News) · 2026-11-27
+
+Emulating Android, too, but offers just two handsets and one tablet
+
+## [APOD: 2026 November 27 – The Moon Watchers](https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/)
+
+via NASA breaking news · 2026-11-27
+
+APOD Science APOD APOD: 2026 November 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Moon Watchers \[…\]
+
+## [Shivelyuch Socked In](https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/)
+
+via NASA breaking news · 2026-11-27
+
+A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.
+
+## [Free e-government platform that serves two billion people in ten countries has critical SQL injection bug](https://www.theregister.com/security/2026/11/27/free-e-government-platform-that-serves-two-billion-people-in-ten-countries-has-critical-sql-injection-bug/5312449)
+
+via The Register (UK I.T. News) · 2026-11-27
+
+India’s Digital Infrastructure for Governance Impact and Transformation tool can leak data
+
+## [The token factory never sleeps](https://www.theregister.com/ai-and-ml/2026/11/27/sponsored-the-token-factory-never-sleeps/5311612)
+
+via The Register (UK I.T. News) · 2026-11-27
+
+SPONSORED FEATURE: Agentic AI turns inference into a round-the-clock production job. Here's what it takes to keep the tokens flowing in the datacenter you already have.
+
+## [Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems](https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433)
+
+via The Register (UK I.T. News) · 2026-11-26
+
+Agentic offensive framework automates familiar attack techniques, with weak defenses potentially breached in minutes
+
+## [Indie web browser Ladybird enters alpha testing](https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914)
+
+via The Register (UK I.T. News) · 2026-11-26
+
+Upstart engine gets downloadable macOS and Linux builds, but no security guarantees
+
+## [Tech's outage problem needs maintenance, not conspiracy theories](https://www.theregister.com/research/2026/11/26/techs-outage-problem-needs-maintenance-not-conspiracy-theories/5312180)
+
+via The Register (UK I.T. News) · 2026-11-26
+
+Forrester warns that shiny new services rest on brittle systems as organizations skimp on resilience
+
+## [UK privacy watchdog faces probe into its workplace culture](https://www.theregister.com/public-sector/2026/11/26/uk-privacy-watchdog-faces-probe-into-its-workplace-culture/5312380)
+
+via The Register (UK I.T. News) · 2026-11-26
+
+Independent review will examine leadership, accountability, and how staff concerns were handled before former commissioner John Edwards resigned
+
+## ['Significant number of customer records' pwned in Flight Centre Travel Group breach](https://www.theregister.com/security/2026/11/26/significant-number-of-customer-records-pwned-in-flight-centre-travel-group-breach/5312360)
+
+via The Register (UK I.T. News) · 2026-11-26
+
+The latest attack in spate of similar incidents targeting booking systems globally
+
+## [Rackspace pulls plug on Spot cloud service after security breach](https://www.theregister.com/cyber-crime/2026/11/26/rackspace-pulls-plug-on-spot-cloud-service-after-security-breach/5312352)
+
+via The Register (UK I.T. News) · 2026-11-26
+
+Customers face frantic scramble to migrate workloads and rotate compromised credentials
 
 ## [Wyoming uranium operation shuts down after cyberattack](https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323)
 
@@ -66,13 +196,13 @@ ICO reprimand follows failings that risked wrongful detention, with a temporary 
 
 ## [APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis](https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/)
 
-via NASA breaking news · 2026-11-26
+via NASA breaking news · 2026-11-26, updated 2026-11-27
 
 APOD Science APOD APOD: 2026 November 26 – Eye… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Eye in \[…\]
 
 ## [Seeking Refuge on Resolution Island](https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/)
 
-via NASA breaking news · 2026-11-26
+via NASA breaking news · 2026-11-26, updated 2026-11-27
 
 New Zealanders have long envisioned the island as a predator-free zone for native birds, but swimming stoats have shown a resolve of their own.
 
@@ -102,7 +232,7 @@ And intruders don't always need to exploit bugs to break in
 
 ## [NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement](https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/)
 
-via NASA breaking news · 2026-11-25, updated 2026-11-26
+via NASA breaking news · 2026-11-25, updated 2026-11-27
 
 How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreement, this one signed between The Boeing Company and GRACE \[…\]
 
@@ -120,7 +250,7 @@ Chip design software leans heavily into 3D packaging and multi-node assemblies
 
 ## [NASA Eyes Crop Candidates for Future Menus](https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/)
 
-via NASA breaking news · 2026-11-25, updated 2026-11-26
+via NASA breaking news · 2026-11-25, updated 2026-11-27
 
 As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving.    Recent testing points to strawberries, \[…\]
 
@@ -136,6 +266,14 @@ via The Register (UK I.T. News) · 2026-11-25
 
 It's not our fault if you've implemented it wrong
 
+## [10 Reasons to back the Librem 5 v2 campaign](https://puri.sm/posts/10-reasons-to-back-the-librem-5-v2-campaign/)
+
+via Purism News · 2026-11-25, updated 2026-11-23
+
+Your phone should help you live your life—not make decisions for you. At Purism, we’re developing the Librem 5 v2 for people who want more say over their technology: what it runs, what it shares, and how long it lasts.
+
+The post [10 Reasons to back the Librem 5 v2 campaign](https://puri.sm/posts/10-reasons-to-back-the-librem-5-v2-campaign/) appeared first on [Purism](https://puri.sm).
+
 ## [HP sees premium-priced AI PCs as its meal ticket in a shrinking market](https://www.theregister.com/personal-tech/2026/11/25/hp-sees-premium-priced-ai-pcs-as-its-meal-ticket-in-a-shrinking-market/5312174)
 
 via The Register (UK I.T. News) · 2026-11-25
@@ -144,7 +282,7 @@ PC shipments set to fall further thanks to the memory shortage, but high-margin 
 
 ## [Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard](https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/)
 
-via NASA breaking news · 2026-11-25, updated 2026-11-26
+via NASA breaking news · 2026-11-25, updated 2026-11-27
 
 Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant dialogue we had after the space shuttle Challenger disaster,” \[…\]
 
@@ -162,7 +300,7 @@ The system, called Welopō'ai, includes a red dwarf and two white dwarfs. One of
 
 ## [Eye of the Sahara](https://www.nasa.gov/image-article/eye-of-the-sahara/)
 
-via NASA breaking news · 2026-11-25, updated 2026-11-26
+via NASA breaking news · 2026-11-25, updated 2026-11-27
 
 The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks \[…\]
 
@@ -180,7 +318,7 @@ SR-1 Freedom gets a shorter boom and larger antennas, with roughly two years to 
 
 ## [NASA’s Hubble Views Ocean of Stars in Groundwork for Roman](https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/)
 
-via NASA breaking news · 2026-11-25, updated 2026-11-26
+via NASA breaking news · 2026-11-25, updated 2026-11-27
 
 These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.
 
@@ -260,7 +398,7 @@ Controversial move could save the BBC by bringing in more than a billion in extr
 
 ## [Want a better winter workout? Train your muscle clocks](https://www.npr.org/2026/11/25/nx-s1-6034942/winter-exercise-circadian-rhythm-arc)
 
-via NPR Short Wave · 2026-11-25, updated 2026-11-26
+via NPR Short Wave · 2026-11-25, updated 2026-11-27
 
 TikTok has another trend: the winter arc. It’s a self-improvement challenge where people try to be their best self in the 3 months leading up to New Year – often, through exercise. We at _Short Wave_ wanted to know if the science really holds up: Is ramping up your exercise routine when your circadian rhythm may be struggling with less light really a good idea? So we called up NPR health correspondent, [Will Stone](https://www.npr.org/people/919093243/will-stone). He’s done a deep dive on what scientists do and don’t know about exercise and our circadian rhythms.
 
@@ -290,7 +428,7 @@ Four more critical vulns, including another unauthorized access flaw in vCenter
 
 ## [APOD: 2026 November 25 – SPHEREx Seeing Through Dust](https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/)
 
-via NASA breaking news · 2026-11-25, updated 2026-11-26
+via NASA breaking news · 2026-11-25, updated 2026-11-27
 
 APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this \[…\]
 
@@ -412,11 +550,11 @@ NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopei
 
 ## [All the Unsung Awesomeness Purism Has Brought to Market](https://puri.sm/posts/all-the-unsung-awesomeness-purism-has-brought-to-market/)
 
-via Purism News · 2026-11-24, updated 2026-11-25
+via Purism News · 2026-11-24, updated 2026-11-23
 
 From a phone-sized Linux experience to hardware kill switches, Purism’s biggest contribution may be proving that a more user-controlled digital world can be built—and shared.
 
-The post [All the Unsung Awesomeness Purism Has Brought to Market](https://puri.sm/posts/all-the-unsung-awesomeness-purism-has-brought-to-market/) appeared first on [Purism](https://puri.sm/).
+The post [All the Unsung Awesomeness Purism Has Brought to Market](https://puri.sm/posts/all-the-unsung-awesomeness-purism-has-brought-to-market/) appeared first on [Purism](https://puri.sm).
 
 ## [Biologists Discover a 'One-in-a-Million' Bright Yellow Burbot Fish in New York's Oswego Harbor](https://www.smithsonianmag.com/smart-news/biologists-discovere-a-one-in-a-million-bright-yellow-burbot-fish-in-new-yorks-oswego-harbor-180989928/)
 
@@ -516,7 +654,7 @@ Have I Been Pwned puts a number on September's attack on Bromcom
 
 ## [Wild turkeys are in peril again — can researchers save them?](https://www.npr.org/2026/11/24/nx-s1-6042518/thanksgiving-american-wild-turkey-science)
 
-via NPR Short Wave · 2026-11-24, updated 2026-11-26
+via NPR Short Wave · 2026-11-24, updated 2026-11-27
 
 As a teen, [Mike Chamberlain](https://wildturkeylab.com/about/) spent all his free time hunting turkeys. Now, his job is researching everything about them – the birds’ behavior, their genetics and more. And for the past decade, he’s focused on their concerning decline in the American southeast. Today on the show, Emily chats with Mike about what could be driving the loss of turkey territory – and what conservationists – including hunters – are doing about it.
 
@@ -632,11 +770,11 @@ Minister says intruders downloaded more than 130 GB of data as political churn l
 
 ## [Why We Need a Revolutionary Phone Now: The Librem 5 v2](https://puri.sm/posts/why-we-need-a-revolutionary-phone-now-the-librem-5-v2/)
 
-via Purism News · 2026-11-23, updated 2026-11-25
+via Purism News · 2026-11-23
 
 Recent mobile security flaws, Android’s update gaps, and new app-verification rules show why user control matters. Meet the Purism Librem 5 v2.
 
-The post [Why We Need a Revolutionary Phone Now: The Librem 5 v2](https://puri.sm/posts/why-we-need-a-revolutionary-phone-now-the-librem-5-v2/) appeared first on [Purism](https://puri.sm/).
+The post [Why We Need a Revolutionary Phone Now: The Librem 5 v2](https://puri.sm/posts/why-we-need-a-revolutionary-phone-now-the-librem-5-v2/) appeared first on [Purism](https://puri.sm).
 
 ## [Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season](https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/)
 
@@ -768,7 +906,7 @@ Outage after outage after outage is a syndrome that needs radical treatment
 
 ## [Your favorite apple is a cloned ovary – and other apple facts](https://www.npr.org/2026/11/23/nx-s1-6050315/apple-orchard-harvest-ovary-clone)
 
-via NPR Short Wave · 2026-11-23, updated 2026-11-26
+via NPR Short Wave · 2026-11-23, updated 2026-11-27
 
 What’s your favorite apple? Whether it’s classic Gala, tart Granny Smith, the crowd-pleasing Honeycrisp or the infamous Red Delicious – before your favorite apple made it to your local orchard or your neighborhood grocery store, it had to be invented – by a _scientist_. So in this _Short Wave_ episode, we’re going straight to the source. Host Emily Kwong and producer Hannah Chinn dive into how apples are selected, bred and grown, and discuss the discoveries that could change that process. Plus: What’s a spitter?
 
@@ -816,7 +954,7 @@ PLUS: Lenovo's infra group finally makes big profit; Indonesia’s glaciers are 
 
 ## [An ordinary evening on the Brooklyn Bridge](https://publicai.substack.com/p/an-ordinary-evening-on-the-brooklyn)
 
-via Public AI blog · 2026-11-22, updated 2026-11-26
+via Public AI blog · 2026-11-22, updated 2026-11-27
 
 On Levent Alpöge and Claude's announced proof of the Riemann Hypothesis.
 
@@ -894,11 +1032,11 @@ Like a parent disciplining a misbehaving child, PHP’s annual update clamps dow
 
 ## [Purism Differentiator Series, Part 20: Releasing Source Code to the Public](https://puri.sm/posts/purism-differentiator-series-part-20-releasing-source-code-to-the-public/)
 
-via Purism News · 2026-11-20, updated 2026-11-25
+via Purism News · 2026-11-20, updated 2026-11-23
 
 When we use a computer, we trust software to make decisions on our behalf. It stores our work, carries our messages, and helps run the services we depend on.
 
-The post [Purism Differentiator Series, Part 20: Releasing Source Code to the Public](https://puri.sm/posts/purism-differentiator-series-part-20-releasing-source-code-to-the-public/) appeared first on [Purism](https://puri.sm/).
+The post [Purism Differentiator Series, Part 20: Releasing Source Code to the Public](https://puri.sm/posts/purism-differentiator-series-part-20-releasing-source-code-to-the-public/) appeared first on [Purism](https://puri.sm).
 
 ## [Curiosity Spots Drifting Twilight Clouds](https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/)
 
@@ -992,11 +1130,11 @@ This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars ro
 
 ## [Librem 5 v2 Campaign Builds Early Momentum at 100 Orders](https://puri.sm/posts/librem-5-v2-campaign-builds-early-momentum-at-100-orders/)
 
-via Purism News · 2026-11-20, updated 2026-11-25
+via Purism News · 2026-11-20, updated 2026-11-23
 
 A new smartphone campaign has reached a memorable early milestone. Following its public launch on November 17, Purism’s Librem 5 v2 crowdfunding campaign has the first 100 of its 2,500-order goal. That early progress signals interest in a different vision for mobile technology: one built around user control, open software, and digital independence.
 
-The post [Librem 5 v2 Campaign Builds Early Momentum at 100 Orders](https://puri.sm/posts/librem-5-v2-campaign-builds-early-momentum-at-100-orders/) appeared first on [Purism](https://puri.sm/).
+The post [Librem 5 v2 Campaign Builds Early Momentum at 100 Orders](https://puri.sm/posts/librem-5-v2-campaign-builds-early-momentum-at-100-orders/) appeared first on [Purism](https://puri.sm).
 
 ## ['Critical' 1970s-era Fujitsu UK police system could remain unsupported for three years](https://www.theregister.com/public-sector/2026/11/20/critical-1970s-era-fujitsu-uk-police-system-could-remain-unsupported-for-three-years/5311322)
 
@@ -1080,7 +1218,7 @@ Canonical's stretch goal is to make the immutable OS standard in 30.04 – witho
 
 ## [This gas station drug acts like opioids. It’s getting harder to buy](https://www.npr.org/2026/11/20/nx-s1-6045648/kratom-opioid-addiction-7-oh)
 
-via NPR Short Wave · 2026-11-20, updated 2026-11-26
+via NPR Short Wave · 2026-11-20, updated 2026-11-27
 
 Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at [plus.npr.org](http://plus.npr.org/).
 
@@ -1132,11 +1270,11 @@ Bluesky's preferred encrypted messaging app allows multiple identities without t
 
 ## [Purism Differentiator Series, Part 19: PureOS Store](https://puri.sm/posts/purism-differentiator-series-part-19-pureos-store/)
 
-via Purism News · 2026-11-19, updated 2026-11-25
+via Purism News · 2026-11-19, updated 2026-11-23
 
 A useful app store should make it easy to find and install software. It should also help people understand what they are choosing.
 
-The post [Purism Differentiator Series, Part 19: PureOS Store](https://puri.sm/posts/purism-differentiator-series-part-19-pureos-store/) appeared first on [Purism](https://puri.sm/).
+The post [Purism Differentiator Series, Part 19: PureOS Store](https://puri.sm/posts/purism-differentiator-series-part-19-pureos-store/) appeared first on [Purism](https://puri.sm).
 
 ## [Harvard Returns Two Skulls Likely Belonging to Enslaved Individuals, More Than 150 Years After They Were Taken From Brazil for Eugenics Studies](https://www.smithsonianmag.com/smart-news/harvard-returns-two-skulls-likely-belonging-to-enslaved-individuals-more-than-150-years-after-they-were-taken-from-brazil-for-eugenics-studies-180989910/)
 
@@ -1182,11 +1320,11 @@ Turning a simulation idea into a working application means assembling assets, co
 
 ## [Price Is Not the Entire Point: How Purism is Building a Different Digital Future](https://puri.sm/posts/price-is-not-the-entire-point-how-purism-is-building-a-different-digital-future/)
 
-via Purism News · 2026-11-19, updated 2026-11-25
+via Purism News · 2026-11-19, updated 2026-11-23
 
 A phone has a price. Digital freedom has a value. If we judge a revolutionary phone only by its price tag, we miss the work behind it.
 
-The post [Price Is Not the Entire Point: How Purism is Building a Different Digital Future](https://puri.sm/posts/price-is-not-the-entire-point-how-purism-is-building-a-different-digital-future/) appeared first on [Purism](https://puri.sm/).
+The post [Price Is Not the Entire Point: How Purism is Building a Different Digital Future](https://puri.sm/posts/price-is-not-the-entire-point-how-purism-is-building-a-different-digital-future/) appeared first on [Purism](https://puri.sm).
 
 ## [This Self-Charging Toothbrush Has Bristles That Generate Electricity to Help Kill Bacteria That Cause Cavities and Gum Disease](https://www.smithsonianmag.com/smart-news/this-self-charging-toothbrush-has-bristles-that-generate-electricity-to-help-kill-bacteria-that-cause-cavities-and-gum-disease-180989895/)
 
@@ -1250,11 +1388,11 @@ Winter precipitation helped wake dormant seeds in northern Chile, carpeting the 
 
 ## [Purism Differentiator Series, Part 18: Funding the App Gap](https://puri.sm/posts/purism-differentiator-series-part-18-funding-the-app-gap/)
 
-via Purism News · 2026-11-18, updated 2026-11-25
+via Purism News · 2026-11-18, updated 2026-11-23
 
 A phone can respect your freedom and still need more apps. That is the app gap.
 
-The post [Purism Differentiator Series, Part 18: Funding the App Gap](https://puri.sm/posts/purism-differentiator-series-part-18-funding-the-app-gap/) appeared first on [Purism](https://puri.sm/).
+The post [Purism Differentiator Series, Part 18: Funding the App Gap](https://puri.sm/posts/purism-differentiator-series-part-18-funding-the-app-gap/) appeared first on [Purism](https://puri.sm).
 
 ## [NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch](https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/)
 
@@ -1336,11 +1474,11 @@ It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Scienc
 
 ## [A RISC-V Phone: The Librem 5 v2 For the Win](https://puri.sm/posts/a-risc-v-phone-the-librem-5-v2/)
 
-via Purism News · 2026-11-18, updated 2026-11-25
+via Purism News · 2026-11-18, updated 2026-11-23
 
 For many people, a smartphone feels like an extra part of the body: it has a touchscreen, a camera, and internet access, while its operating system is controlled by one of a few big tech firms. That setup is convenient, but it also gives those firms power over the phone’s software, apps, updates, and hardware. Owners often have little say in those choices. Purism is making a RISC-V phone as an alternative.
 
-The post [A RISC-V Phone: The Librem 5 v2 For the Win](https://puri.sm/posts/a-risc-v-phone-the-librem-5-v2/) appeared first on [Purism](https://puri.sm/).
+The post [A RISC-V Phone: The Librem 5 v2 For the Win](https://puri.sm/posts/a-risc-v-phone-the-librem-5-v2/) appeared first on [Purism](https://puri.sm).
 
 ## [See Stunning Images of the Universe Captured by Europe's Euclid Space Telescope, Which Is Building the Biggest 3D Map of the Cosmos](https://www.smithsonianmag.com/smart-news/see-stunning-images-of-the-universe-captured-by-europes-euclid-space-telescope-which-is-buildling-the-biggest-3d-map-of-the-cosmos-180989884/)
 
@@ -1382,7 +1520,7 @@ A new analysis of the Rødhals Man suggests he witnessed the Neolithic Revolutio
 
 ## [How a viral video gave a huge boost to new gene therapy](https://www.npr.org/2026/11/18/nx-s1-6034426/sanfilippo-syndrome-gene-therapy)
 
-via NPR Short Wave · 2026-11-18, updated 2026-11-26
+via NPR Short Wave · 2026-11-18, updated 2026-11-27
 
 Sanfilippo syndrome is a rare and degenerative disease that can be fatal by the time someone reaches their teens. So the O’Neill family knew they didn’t have much time after learning their 4-year old daughter, Eliza, had it. At the time no treatment existed, and the world of drug development had its eyes on more common illnesses. So the family took an all hands on deck, unusual approach to directly raise money and boost medical research. NPR pharmaceutical correspondent Sydney Lupkin shares what happened next, and what she learned from the O’Neills story about the [promises](https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi) and [challenges](https://www.npr.org/2026/02/24/nx-s1-5723768/gene-therapy-access) of drug development.
 
@@ -1408,11 +1546,11 @@ A widespread, early-season snowstorm blanketed California’s mountains in white
 
 ## [Purism Differentiator Series, Part 17: Ecosystem](https://puri.sm/posts/purism-differentiator-series-part-17-ecosystem/)
 
-via Purism News · 2026-11-17, updated 2026-11-25
+via Purism News · 2026-11-17, updated 2026-11-23
 
 When people hear the word “ecosystem,” they often think of convenience. A phone, a computer, an app store, and a cloud account can work together...
 
-The post [Purism Differentiator Series, Part 17: Ecosystem](https://puri.sm/posts/purism-differentiator-series-part-17-ecosystem/) appeared first on [Purism](https://puri.sm/).
+The post [Purism Differentiator Series, Part 17: Ecosystem](https://puri.sm/posts/purism-differentiator-series-part-17-ecosystem/) appeared first on [Purism](https://puri.sm).
 
 ## [NASA Launches Nuclear Power Systems Student Contest](https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/)
 
@@ -1520,7 +1658,7 @@ A new study suggests people hunted and processed game near a large, lush freshwa
 
 ## [How bird poop and manta rays sustain a pristine coral reef](https://www.npr.org/2026/11/17/nx-s1-5988269/coral-reefs-pacific-island-conservation)
 
-via NPR Short Wave · 2026-11-17, updated 2026-11-26
+via NPR Short Wave · 2026-11-17, updated 2026-11-27
 
 Coral reefs [are at risk around the world](https://apps.npr.org/troubled-waters/). So how do they stay so healthy on the remote Pacific islands of Palmyra Atoll? The answer might be in bird poop, manta rays and tree saws. NPR’s Lauren Sommer recently visited the islands and takes Short Wave on a tour of its conservation secrets and lessons for the rest of the world.
 
@@ -1546,11 +1684,11 @@ For many astronauts, the spectacular sight of lightning stands out when looking 
 
 ## [Purism Launches Librem 5 v2 , A RISC-V Phone to Empower People](https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/)
 
-via Purism News · 2026-11-17, updated 2026-11-25
+via Purism News · 2026-11-17, updated 2026-11-23
 
 Purism, an independent U.S. technology company dedicated to protecting users’ privacy, security, and online freedom, today announced the launch of its second smartphone crowdfunding campaign, the Librem 5 v2.
 
-The post [Purism Launches Librem 5 v2 , A RISC-V Phone to Empower People](https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/) appeared first on [Purism](https://puri.sm/).
+The post [Purism Launches Librem 5 v2 , A RISC-V Phone to Empower People](https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/) appeared first on [Purism](https://puri.sm).
 
 ## [Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago](https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/)
 
@@ -1566,11 +1704,11 @@ At SC26, an annual supercomputing conference taking place this week in Chicago, 
 
 ## [Purism Differentiator Series, Part 16: Decentralization](https://puri.sm/posts/purism-differentiator-series-part-16-decentralization/)
 
-via Purism News · 2026-11-16, updated 2026-11-25
+via Purism News · 2026-11-16, updated 2026-11-23
 
 The internet was built to connect people across networks. But much of our digital life now runs through a small number of companies...
 
-The post [Purism Differentiator Series, Part 16: Decentralization](https://puri.sm/posts/purism-differentiator-series-part-16-decentralization/) appeared first on [Purism](https://puri.sm/).
+The post [Purism Differentiator Series, Part 16: Decentralization](https://puri.sm/posts/purism-differentiator-series-part-16-decentralization/) appeared first on [Purism](https://puri.sm).
 
 ## [A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover](https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/)
 
@@ -1696,7 +1834,7 @@ A new residential complex with a load-bearing exoskeleton made from 1,000 tons o
 
 ## [Are your body clocks off? Meet ‘circadian depression’](https://www.npr.org/2026/11/16/nx-s1-6035777/depression-daylight-sleep-circadian-rhythm)
 
-via NPR Short Wave · 2026-11-16, updated 2026-11-26
+via NPR Short Wave · 2026-11-16, updated 2026-11-27
 
 What if depression is sometimes linked to your body’s internal sense of time? That’s what researchers from the University of Sydney’s Brain and Mind Centre wanted to know. In a new study, they surveyed patients with depression whose symptoms may reflect problems with their circadian rhythms – like their sleep schedule, how tired they feel in the morning and whether they’re a night owl. They found that about 1 in 4 qualified for what might be termed a circadian subtype of depression. And while there’s still a lot of research to be done, this could open up new pathways for mental health treatment. NPR health correspondent [Will Stone](https://www.npr.org/people/919093243/will-stone) walks us through the study and its implications.
 
@@ -1750,11 +1888,11 @@ NetBSD developer Nia Alarie has written a guide on how to set up a NetBSD system
 
 ## [Purism Differentiator Series, Part 15: Individual Control](https://puri.sm/posts/purism-differentiator-series-part-15-individual-control/)
 
-via Purism News · 2026-11-15, updated 2026-11-25
+via Purism News · 2026-11-15, updated 2026-11-23
 
 Technology should work for people. Yet many devices give their owners little say over the software, the services, or the data involved in everyday use.
 
-The post [Purism Differentiator Series, Part 15: Individual Control](https://puri.sm/posts/purism-differentiator-series-part-15-individual-control/) appeared first on [Purism](https://puri.sm/).
+The post [Purism Differentiator Series, Part 15: Individual Control](https://puri.sm/posts/purism-differentiator-series-part-15-individual-control/) appeared first on [Purism](https://puri.sm).
 
 ## [Creating a self-booting ZIP archive](https://www.osnews.com/story/146395/creating-a-self-booting-zip-archive/)
 
@@ -1824,7 +1962,7 @@ From pediatric research to smart hospitals, AI is helping care teams spend less 
 
 ## [AI could help hospitals diagnose PTSD in real time](https://www.npr.org/2026/11/13/nx-s1-6031981/ai-ptsd-trauma-prediction-er)
 
-via NPR Short Wave · 2026-11-13, updated 2026-11-26
+via NPR Short Wave · 2026-11-13, updated 2026-11-27
 
 Every year, millions of people in the United States develop PTSD from a traumatic event—like a car crash, an assault or freak accident. A lot of those people end up in the ER answering the same question: “What brought you to the emergency department today?” Now, a research team in New York has an AI model that can use patients’ answers and demographics to spit out one number that tells medical staff how likely a patient is to develop PTSD a month later _._
 
@@ -2022,7 +2160,7 @@ Recently obtained by the Library of Congress, the 1760 letter offers positive ne
 
 ## [Can scientists reverse your age?](https://www.npr.org/2026/11/11/nx-s1-5971828/age-reverse-longevity-disease-eye)
 
-via NPR Short Wave · 2026-11-11, updated 2026-11-26
+via NPR Short Wave · 2026-11-11, updated 2026-11-27
 
 Reversing aging may sound like science fiction, but scientists have already found a way to do it—at least, theoretically. Based on a 2012 Nobel-prize winning discovery, researchers are testing whether they can revert diseased cells in the eye back to young and healthy ones. They gave people a drug this year. If it works, it’ll open the door to curing and possibly preventing other age-related diseases. And that led producer [Berly McCoy](https://www.npr.org/people/985775371/berly-mccoy) to wonder: Could all this research eventually extend our human lifespans?
 
@@ -2138,7 +2276,7 @@ Testing of ancient sediment from two lakes in Mexico's Yucatán Peninsula has re
 
 ## [How this year's record El Niño could hit your wallet](https://www.npr.org/2026/11/10/nx-s1-6011189/super-el-nino-2026-fish-market)
 
-via NPR Short Wave · 2026-11-10, updated 2026-11-26
+via NPR Short Wave · 2026-11-10, updated 2026-11-27
 
 Peru’s anchovy industry, the largest single-species fishery in the world, is being rocked by the ongoing El Niño . It’s not the first time the fishery has been impacted by the natural weather phenomenon — El Niño gets its name from Peruvian fishermen. And it’s a stark reminder of the reverberating economic consequences of El Niño events, which can cost the global economy [trillions of dollars](https://www.science.org/doi/10.1126/science.adf2983).
 
@@ -2280,7 +2418,7 @@ Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Start
 
 ## [An ‘Ozempic baby boom’? The GLP-1 pregnancy plot twist](https://www.npr.org/2026/11/09/nx-s1-6023369/glp1-ozempic-babies-pregnancy)
 
-via NPR Short Wave · 2026-11-09, updated 2026-11-26
+via NPR Short Wave · 2026-11-09, updated 2026-11-27
 
 The explosion of GLP-1 drugs has created a gray zone for pregnancy. That recently prompted the American College of Obstetricians and Gynecologists to issue [its first ever guidance](https://www.acog.org/clinical/guidance/practice-advisory/2026/10/use-of-glucagon-like-peptide-1-receptor-agonists-in-pregnancy-and-lactation/) on the topic. In a twist, the drugs may boost fertility for some, leading to more pregnancies – a phenomenon known on social media as “Ozempic babies”. But doctors caution against using the drugs during pregnancy itself. In fact, the more we looked into this story, the more twists and nuances we found. So, we brought Dr. [Amy Valent](https://www.ohsu.edu/providers/amy-valent-do) of Oregon Health and Science University onto the show to break down the latest on what’s known about how these drugs affect fertility and pregnancy.
 
@@ -2461,132 +2599,4 @@ APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissi
 via NASA breaking news · 2026-11-06, updated 2026-11-08
 
 The San Juan River has carved deep, improbably curvy meanders into the desert landscape.
-
-## [A Nazi Submarine Torpedoed a Merchant Ship Just Off the Coast of Maine in 1944. Divers Have Finally Located the Wreckage, 400 Feet Below the Surface](https://www.smithsonianmag.com/smart-news/a-nazi-submarine-torpedoed-a-merchant-ship-just-off-the-coast-of-maine-in-1944-divers-have-finally-located-the-wreckage-400-feet-below-the-surface-180989822/)
-
-via Smithsonian Magazine · 2026-11-05, updated 2026-11-25
-
-The SS "Cornwallis" was traveling between Barbados and Canada when it was sunk by a German U-boat that had delivered Nazi spies to American soil just days earlier
-
-## [Was the British King Who Urged the Romans to Invade Actually a Queen? One Archaeologist Thinks So](https://www.smithsonianmag.com/smart-news/was-the-british-king-who-urged-the-roman-invasion-of-britain-actually-a-queen-one-archaeologist-thinks-so-180989821/)
-
-via Smithsonian Magazine · 2026-11-05, updated 2026-11-25
-
-Linguistic clues and ancient coins could suggest that Verica—a ruler who fled Britain and convinced Roman Emperor Claudius to launch an invasion across the English Channel—has been misgendered for centuries
-
-## [Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents](https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/)
-
-via NVidia blog · 2026-11-05, updated 2026-11-15
-
-AI agents do more than generate answers. They search for information, query databases, write and test code and take action.  Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task.  As businesses put more agents to work, AI factories need CPUs that can execute those \[…\]
-
-## [China Announces a Plan to Put Astronauts on the Moon by 2030, Revealing Details of Four Upcoming Missions](https://www.smithsonianmag.com/smart-news/china-announces-a-plan-to-put-astronauts-on-the-moon-by-2030-revealing-details-of-four-upcoming-missions-180989810/)
-
-via Smithsonian Magazine · 2026-11-05, updated 2026-11-25
-
-The country intends to launch three uncrewed test missions followed by a human lunar landing within the next few years. NASA hopes to send humans to the moon in 2028, though some experts have expressed doubt about that timeline
-
-## [This Bull and Male Donkey Have a Surprisingly Sexual Relationship, Providing Insights Into Interspecies and Same-Sex Bonds](https://www.smithsonianmag.com/smart-news/this-bull-and-male-donkey-have-a-surprisingly-sexual-relationship-revealing-insights-into-interspecies-and-same-sex-bonds-180989803/)
-
-via Smithsonian Magazine · 2026-11-05, updated 2026-11-25
-
-The ungulates, dubbed Achille and Patroclo, chose each other repeatedly and showed affection before and after each rendezvous. Same-sex sexual encounters are common among animals of the same species, but less so between different ones
-
-## [The Ubuntu 26.04 Rust sudo is not compatible with standard sudo](https://www.osnews.com/story/146309/the-ubuntu-26-04-rust-sudo-is-not-compatible-with-standard-sudo/)
-
-via OS News · 2026-11-05, updated 2026-11-13
-
-Ubuntu has been at the forefront of replacing the traditional versions of basic tools like sudo with replacements written in Rust, but aside from worries about replacing battle-tested code with brand new, relatively untested code, there’s new things to worry about it. As it turns out, sudo-rs, the Rust replacement for sudo, is intentionally incompatible with the classic version in dangerous ways, as Chris Siebenmann discovered to his dismay. Basically, the classic sudo supports the use of wildcards defined using square brackets, so that if you allow a user to run, say, /usr/sbin/exim -bp, without a password, they can run exim -bpa, exim -bpc, exim -bpr, or exim -bpu without having to supply a password. This allows for very specific, fine-grained access control, which is quite a nice capability to have if you’re managing many systems and users. Sadly, sudo-rs intentionally does not support this, opting to only allow you to use the generic \* wildcard. Worse yet, it doesn’t really make this clear, either. ↫ Chris Siebenmann I do not really have words for this. The Rust sudo has apparently opted to keep the single most dangerous wildcard while disallowing all of the wildcards that allow one to be narrow and specific about what you’re allowing, and it buries this at the end of a section that devotes a bunch of words to describing functionality it doesn’t have and doesn’t support, with absolutely nothing else in that section to say this (either up front or in the descriptions of how all the wildcards would work if sudo-rs supported them, which it doesn’t). If you’re going to replace such vital, core tools like sudo that god knows how many people rely on every single day, you better be damn sure you’re feature-complete and can act as a drop-in replacement. If someone switches from sudo to doas, nobody expects the experience to be identical. However, if you’re consistently being told that sudo-rs is a drop-in replacement and you shouldn’t expect any disruptions, you better be able to make true on that promise. Ubuntu isn’t some also-ran small hobby distribution, and its developers should act like it. What a clown show.
-
-## [LXQt 2.5.0 released](https://www.osnews.com/story/146307/lxqt-2-5-0-released/)
-
-via OS News · 2026-11-05, updated 2026-11-13
-
-The second desktop environment release I’ve got for you today is LXQt 2.5.0. This new version excises its last LXDE dependency, and QTerminal and QTermWidget received considerable improvements, like new background image modes, a visual bell, support for OSC-8 hyperlinks, and more. There’s a ton of smaller changes and improvements as well, but do note that due to a bug, 2.5.0 broke LXQt’s Monitor Settings on X11. The project intends to fix this as quickly as possible and push a point release to address this issue.
-
-## [This Ancient 'Hell Chicken' Might Be the First Known Fruit-Loving Dinosaur, Revealing a Whole New Cretaceous Lifestyle](https://www.smithsonianmag.com/smart-news/this-ancient-hell-chicken-might-be-the-first-known-fruit-loving-dinosaur-revealing-a-whole-new-cretaceous-lifestyle-180989801/)
-
-via Smithsonian Magazine · 2026-11-05, updated 2026-11-25
-
-Infernogallus jamesi had beak and mouth adaptations that hint it could mash soft foods, like today's frugivorous birds. The dinosaur probably munched on fruits resembling modern-day cherries and peaches, and may have helped spread seeds via its poop
-
-## [The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models](https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/)
-
-via NVidia blog · 2026-11-05, updated 2026-11-15
-
-Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers.  \[…\]
-
-## [More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge](https://blogs.nvidia.com/blog/memory-full-stack-codesign/)
-
-via NVidia blog · 2026-11-05, updated 2026-11-15
-
-Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack.  \[…\]
-
-## [Cinnamon 6.8 desktop environment released with hibernation support](https://www.osnews.com/story/146305/cinnamon-6-8-desktop-environment-released-with-hibernation-support/)
-
-via OS News · 2026-11-05, updated 2026-11-13
-
-It’s desktop environment Thursday, as I’ve got two new releases for you today. First, Cinnamon, the desktop environment primarily associated with Linux Mint, has hit version 6.8. This version will officially ship with Linux Mint 27, scheduled for around Christmas of this year. Highlights of Cinnamon 6.8 include hibernation support via a Suspend action in the main menu, modern one-to-one trackpad gestures for both Wayland and Xorg sessions, support for the oo7 Secret Service provider, support for multiple instances in the Sound applet, and a more unified Network applet that merges the WireGuard and VPN sections. ↫ Marcus Nestor at 9To5Linux While Cinnamon is first and foremost a Linux Mint project, it’s available on countless other distributions as well, including dedicated variants for popular distributions like Fedora and Ubuntu. Its Wayland support is finally materialising too, which is long overdue.
-
-## [Midwestern City Lights](https://www.nasa.gov/image-article/midwestern-city-lights/)
-
-via NASA breaking news · 2026-11-05, updated 2026-11-08
-
-City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Station was orbiting 259 miles above Earth when this \[…\]
-
-## [NASA Astronauts to Answer Questions from Florida Students](https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/)
-
-via NASA breaking news · 2026-11-05, updated 2026-11-08
-
-Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Freedom Crossing Academy in \[…\]
-
-## [Archaeologists Found a 3,300-Year-Old Sword at the Bottom of a Volcanic Lake in Italy—and It's Still Sharp](https://www.smithsonianmag.com/smart-news/archaeologists-found-a-3300-year-old-sword-at-the-bottom-of-a-volcanic-lake-in-italy-and-its-still-sharp-180989813/)
-
-via Smithsonian Magazine · 2026-11-05, updated 2026-11-25
-
-The remarkably well-preserved 13th-century B.C.E. weapon was found submerged in Lake Mezzano, once home to a Bronze Age village on stilts
-
-## [‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/)
-
-via NVidia blog · 2026-11-05, updated 2026-11-15
-
-Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward available for GeForce NOW members. Meanwhile, Ubisoft brings fresh challenges with expansions \[…\]
-
-## [Hubble Learns Galactic History From Stars](https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/)
-
-via NASA breaking news · 2026-11-05, updated 2026-11-07
-
-This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.
-
-## [Predicting elections is getting harder. What did the midterms teach us?](https://www.npr.org/2026/11/05/nx-s1-6026649/us-midterm-election-poll-results)
-
-via NPR Short Wave · 2026-11-05, updated 2026-11-26
-
-Famously, polls got the 2016 election wrong. And they’d been off for multiple elections since. So, Monday night, political scientist Jack Rametta nervously refreshed his [Senate forecasting model](https://jackrametta.com/senate-forecast/) for the final time. Would it be right this time? Or would it yet again cast doubt on whether modeling, statistics and forecasting can still help us understand what motivates people to vote? Now that the results are in, so is Jack – to tell us how he did, and what his and other researchers’ predictions tell us about the evolving science of polling and forecasting.
-
-_Interested in more science behind the news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)
-
-## [APOD: 2026 November 5 – Enceladus in Silhouette](https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/)
-
-via NASA breaking news · 2026-11-05, updated 2026-11-07
-
-APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Enceladus in Silhouette \[…\]
-
-## [Cyprus: Island of Snakes, Cats, and Ophiolites](https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/)
-
-via NASA breaking news · 2026-11-05, updated 2026-11-07
-
-The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.
-
-## [NASA Announces X-70 Experimental Aircraft to Advance Flight Research](https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/)
-
-via NASA breaking news · 2026-11-05, updated 2026-11-06
-
-On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.  The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore \[…\]
 

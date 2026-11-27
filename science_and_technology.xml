@@ -5,10 +5,256 @@
     <title><![CDATA[STEM]]></title>
     <description><![CDATA[Science and technology news and blogs.]]></description>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>26 Nov 26 06:45 -0800</lastBuildDate>
+    <lastBuildDate>27 Nov 26 06:45 -0800</lastBuildDate>
     <generator>antenna/0.2.1</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Bill for Birmingham&#39;s Oracle debacle reaches £128M</title>
+      <link>https://www.theregister.com/public-sector/2026/11/27/bill-for-birminghams-oracle-debacle-reaches-128m/5312563</link>
+      <description>
+        <![CDATA[True cost may be much higher for delayed SAP replacement that helped bankrupt the city]]>
+      </description>
+      <source:markdown>True cost may be much higher for delayed SAP replacement that helped bankrupt the city</source:markdown>
+      <dc:creator>Lindsay Clark</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=226632&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312563</guid>
+      <category>public sector</category>
+      <pubDate>Fri, 27 Nov 2026 14:03:00 +0000</pubDate>
+    </item>    <item>
+      <title>UK government rejects national consultation on AI datacenters</title>
+      <link>https://www.theregister.com/off-prem/2026/11/27/uk-government-rejects-national-consultation-on-ai-datacenters/5312501</link>
+      <description>
+        <![CDATA[Ministers point to project-level environmental checks as petition passes 39,000 signatures]]>
+      </description>
+      <source:markdown>Ministers point to project-level environmental checks as petition passes 39,000 signatures</source:markdown>
+      <dc:creator>Dan Robinson</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5289080&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312501</guid>
+      <category>off-prem</category>
+      <pubDate>Fri, 27 Nov 2026 12:38:00 +0000</pubDate>
+    </item>    <item>
+      <title>Lloyds and Bank of Scotland apps fall over on payday</title>
+      <link>https://www.theregister.com/applications/2026/11/27/lloyds-and-bank-of-scotland-apps-fall-over-on-payday/5312566</link>
+      <description>
+        <![CDATA[Black horse down (again)]]>
+      </description>
+      <source:markdown>Black horse down (again)</source:markdown>
+      <dc:creator>Jude Karabus</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=227132&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312566</guid>
+      <category>applications</category>
+      <pubDate>Fri, 27 Nov 2026 12:01:27 +0000</pubDate>
+    </item>    <item>
+      <title>Europe&#39;s AI sovereignty push: Lots of cloud, not much silver lining</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/11/27/europes-ai-sovereignty-push-lots-of-cloud-not-much-silver-lining/5312120</link>
+      <description>
+        <![CDATA[Datacenter spending is booming but the models, the chips, and the clout all live in US and Asia]]>
+      </description>
+      <source:markdown>Datacenter spending is booming but the models, the chips, and the clout all live in US and Asia</source:markdown>
+      <dc:creator>Lindsay Clark</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5240668&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312120</guid>
+      <category>ai and ml</category>
+      <pubDate>Fri, 27 Nov 2026 11:32:00 +0000</pubDate>
+    </item>    <item>
+      <title>AI boom leaves network operators waiting up to 18 months for kit</title>
+      <link>https://www.theregister.com/networks/2026/11/27/ai-boom-leaves-network-operators-waiting-up-to-18-months-for-kit/5312366</link>
+      <description>
+        <![CDATA[Optical equipment prices up around 50% this year as telcos compete with datacenters for components, says RETN]]>
+      </description>
+      <source:markdown>Optical equipment prices up around 50% this year as telcos compete with datacenters for components, says RETN</source:markdown>
+      <dc:creator>Dan Robinson</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=255652&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312366</guid>
+      <category>networks</category>
+      <pubDate>Fri, 27 Nov 2026 10:45:00 +0000</pubDate>
+    </item>    <item>
+      <title>British social security system techies yank services offline following &#39;cyber incident&#39;</title>
+      <link>https://www.theregister.com/security/2026/11/27/british-social-security-system-techies-yank-services-offline-following-cyber-incident/5312522</link>
+      <description>
+        <![CDATA[Pensioners assured their funds will arrive as normal]]>
+      </description>
+      <source:markdown>Pensioners assured their funds will arrive as normal</source:markdown>
+      <dc:creator>Connor Jones</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=249560&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312522</guid>
+      <category>security</category>
+      <pubDate>Fri, 27 Nov 2026 10:01:00 +0000</pubDate>
+    </item>    <item>
+      <title>Royal Navy orders £142M in minehunting drones from US supplier</title>
+      <link>https://www.theregister.com/offbeat/2026/11/27/royal-navy-orders-142m-in-minehunting-drones-from-us-supplier/5312291</link>
+      <description>
+        <![CDATA[Huntington Ingalls Industries lands deal despite MoD pledge to buy British wherever possible]]>
+      </description>
+      <source:markdown>Huntington Ingalls Industries lands deal despite MoD pledge to buy British wherever possible</source:markdown>
+      <dc:creator>Dan Robinson</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5312295&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312291</guid>
+      <category>offbeat</category>
+      <pubDate>Fri, 27 Nov 2026 09:15:00 +0000</pubDate>
+    </item>    <item>
+      <title>Feeling more anxious? Researchers may know what’s driving it</title>
+      <link>https://www.npr.org/2026/11/27/nx-s1-6044623/anxiety-uncertainty-intolerance-smartphone-genz</link>
+      <description>
+        <![CDATA[Younger people are more anxious these days than previous generations, and scientists have speculated all kinds of reasons as to why. A new study pinpoints when anxiety started rising –  about 15 years ago. That aligns with when many people started amping up their smartphone use. But what about phones is making people more anxious? The answer may surprise you: Researchers think it may have to do with the way we handle uncertainty. <br/><br/><strong>If you liked this episode, check out our episode on the </strong><a href="http://lnk.to/gEf2HE"target="_blank"   ><strong>science of healthy screen time</strong></a><strong>.</strong><br/><br/><em>Interested in more science in the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>.</em><br><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
+      </description>
+      <source:markdown>Younger people are more anxious these days than previous generations, and scientists have speculated all kinds of reasons as to why. A new study pinpoints when anxiety started rising –  about 15 years ago. That aligns with when many people started amping up their smartphone use. But what about phones is making people more anxious? The answer may surprise you: Researchers think it may have to do with the way we handle uncertainty.
+
+**If you liked this episode, check out our episode on the** [**science of healthy screen time**](http://lnk.to/gEf2HE) **.**
+
+_Interested in more science in the news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
+
+_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
+
+See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
+
+[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f81c2e92-6cdd-4427-9cb7-dd5880f568d0/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=f81c2e92-6cdd-4427-9cb7-dd5880f568d0&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-6044623&#38;p=510351&#38;d=657&#38;size=10524674" length="10524674" type="audio/mpeg" />
+      <guid isPermaLink="false">cid://fafc9091-06dd-4b54-bcc6-98ce67ae736e</guid>
+      <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Support team put in an emergency order for vodka – lots of vodka – to bring PCs back online</title>
+      <link>https://www.theregister.com/on-prem/2026/11/27/support-team-put-in-an-emergency-order-for-vodka-lots-of-vodka-to-bring-pcs-back-online/5312283</link>
+      <description>
+        <![CDATA[Some clean-up jobs need powerful stuff]]>
+      </description>
+      <source:markdown>Some clean-up jobs need powerful stuff</source:markdown>
+      <dc:creator>Simon Sharwood</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5312288&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312283</guid>
+      <category>on-prem</category>
+      <pubDate>Fri, 27 Nov 2026 07:34:00 +0000</pubDate>
+    </item>    <item>
+      <title>AWS adds virtual iPhones to its cloud</title>
+      <link>https://www.theregister.com/off-prem/2026/11/27/aws-adds-virtual-iphones-to-its-cloud/5312457</link>
+      <description>
+        <![CDATA[Emulating Android, too, but offers just two handsets and one tablet]]>
+      </description>
+      <source:markdown>Emulating Android, too, but offers just two handsets and one tablet</source:markdown>
+      <dc:creator>Simon Sharwood</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5312462&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312457</guid>
+      <category>off-prem</category>
+      <pubDate>Fri, 27 Nov 2026 05:13:32 +0000</pubDate>
+    </item>    <item>
+      <title>APOD: 2026 November 27 – The Moon Watchers</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 November 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Moon Watchers [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 November 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Moon Watchers \[…\]</source:markdown>
+      <guid isPermaLink="false">cid://https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/</guid>
+      <category>APOD</category>
+      <pubDate>Fri, 27 Nov 2026 05:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>Shivelyuch Socked In</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/</link>
+      <description>
+        <![CDATA[A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.]]>
+      </description>
+      <source:markdown>A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.</source:markdown>
+      <guid isPermaLink="false">cid://https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/</guid>
+      <category>Earth Observatory</category>
+      <category>Landsat 9</category>
+      <category>Volcanoes</category>
+      <pubDate>Fri, 27 Nov 2026 05:01:00 +0000</pubDate>
+    </item>    <item>
+      <title>Free e-government platform that serves two billion people in ten countries has critical SQL injection bug</title>
+      <link>https://www.theregister.com/security/2026/11/27/free-e-government-platform-that-serves-two-billion-people-in-ten-countries-has-critical-sql-injection-bug/5312449</link>
+      <description>
+        <![CDATA[India’s Digital Infrastructure for Governance Impact and Transformation tool can leak data]]>
+      </description>
+      <source:markdown>India’s Digital Infrastructure for Governance Impact and Transformation tool can leak data</source:markdown>
+      <dc:creator>Simon Sharwood</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5312454&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312449</guid>
+      <category>security</category>
+      <pubDate>Fri, 27 Nov 2026 01:19:31 +0000</pubDate>
+    </item>    <item>
+      <title>The token factory never sleeps</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/11/27/sponsored-the-token-factory-never-sleeps/5311612</link>
+      <description>
+        <![CDATA[<span data-lab-font_weight_desktop="font-weight-bold" class="font-weight-bold m-font-weight-bold">SPONSORED FEATURE:</span> Agentic AI turns inference into a round-the-clock production job. Here's what it takes to keep the tokens flowing in the datacenter you already have.]]>
+      </description>
+      <source:markdown>SPONSORED FEATURE: Agentic AI turns inference into a round-the-clock production job. Here&#39;s what it takes to keep the tokens flowing in the datacenter you already have.</source:markdown>
+      <dc:creator>Robin Birtstone</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5311615&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311612</guid>
+      <category>ai and ml</category>
+      <pubDate>Fri, 27 Nov 2026 01:00:00 +0000</pubDate>
+    </item>    <item>
+      <title>Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems</title>
+      <link>https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433</link>
+      <description>
+        <![CDATA[Agentic offensive framework automates familiar attack techniques, with weak defenses potentially breached in minutes]]>
+      </description>
+      <source:markdown>Agentic offensive framework automates familiar attack techniques, with weak defenses potentially breached in minutes</source:markdown>
+      <dc:creator>Connor Jones</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5310524&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312433</guid>
+      <category>security</category>
+      <pubDate>Thu, 26 Nov 2026 19:04:00 +0000</pubDate>
+    </item>    <item>
+      <title>Indie web browser Ladybird enters alpha testing</title>
+      <link>https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914</link>
+      <description>
+        <![CDATA[Upstart engine gets downloadable macOS and Linux builds, but no security guarantees]]>
+      </description>
+      <source:markdown>Upstart engine gets downloadable macOS and Linux builds, but no security guarantees</source:markdown>
+      <dc:creator>Liam Proven</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=243744&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5311914</guid>
+      <category>software</category>
+      <pubDate>Thu, 26 Nov 2026 18:15:00 +0000</pubDate>
+    </item>    <item>
+      <title>Tech&#39;s outage problem needs maintenance, not conspiracy theories</title>
+      <link>https://www.theregister.com/research/2026/11/26/techs-outage-problem-needs-maintenance-not-conspiracy-theories/5312180</link>
+      <description>
+        <![CDATA[Forrester warns that shiny new services rest on brittle systems as organizations skimp on resilience]]>
+      </description>
+      <source:markdown>Forrester warns that shiny new services rest on brittle systems as organizations skimp on resilience</source:markdown>
+      <dc:creator>Lindsay Clark</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=254851&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312180</guid>
+      <category>research</category>
+      <pubDate>Thu, 26 Nov 2026 17:09:00 +0000</pubDate>
+    </item>    <item>
+      <title>UK privacy watchdog faces probe into its workplace culture</title>
+      <link>https://www.theregister.com/public-sector/2026/11/26/uk-privacy-watchdog-faces-probe-into-its-workplace-culture/5312380</link>
+      <description>
+        <![CDATA[Independent review will examine leadership, accountability, and how staff concerns were handled before former commissioner John Edwards resigned]]>
+      </description>
+      <source:markdown>Independent review will examine leadership, accountability, and how staff concerns were handled before former commissioner John Edwards resigned</source:markdown>
+      <dc:creator>Carly Page</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=237639&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312380</guid>
+      <category>public sector</category>
+      <pubDate>Thu, 26 Nov 2026 16:16:00 +0000</pubDate>
+    </item>    <item>
+      <title>&#39;Significant number of customer records&#39; pwned in Flight Centre Travel Group breach</title>
+      <link>https://www.theregister.com/security/2026/11/26/significant-number-of-customer-records-pwned-in-flight-centre-travel-group-breach/5312360</link>
+      <description>
+        <![CDATA[The latest attack in spate of similar incidents targeting booking systems globally]]>
+      </description>
+      <source:markdown>The latest attack in spate of similar incidents targeting booking systems globally</source:markdown>
+      <dc:creator>Connor Jones</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=259334&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312360</guid>
+      <category>security</category>
+      <pubDate>Thu, 26 Nov 2026 15:29:00 +0000</pubDate>
+    </item>    <item>
+      <title>Rackspace pulls plug on Spot cloud service after security breach</title>
+      <link>https://www.theregister.com/cyber-crime/2026/11/26/rackspace-pulls-plug-on-spot-cloud-service-after-security-breach/5312352</link>
+      <description>
+        <![CDATA[Customers face frantic scramble to migrate workloads and rotate compromised credentials]]>
+      </description>
+      <source:markdown>Customers face frantic scramble to migrate workloads and rotate compromised credentials</source:markdown>
+      <dc:creator>Carly Page</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5242796&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312352</guid>
+      <category>cyber-crime</category>
+      <pubDate>Thu, 26 Nov 2026 14:45:00 +0000</pubDate>
+    </item>    <item>
       <title>Wyoming uranium operation shuts down after cyberattack</title>
       <link>https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323</link>
       <description>
@@ -255,6 +501,20 @@
       <guid isPermaLink="false">cid://https://www.theregister.com/a/5312085</guid>
       <category>security</category>
       <pubDate>Wed, 25 Nov 2026 17:01:00 +0000</pubDate>
+    </item>    <item>
+      <title>10 Reasons to back the Librem 5 v2 campaign</title>
+      <link>https://puri.sm/posts/10-reasons-to-back-the-librem-5-v2-campaign/</link>
+      <description>
+        <![CDATA[<p>Your phone should help you live your life—not make decisions for you. At Purism, we’re developing the Librem 5 v2 for people who want more say over their technology: what it runs, what it shares, and how long it lasts.</p>
+        <p>The post <a href="https://puri.sm/posts/10-reasons-to-back-the-librem-5-v2-campaign/">10 Reasons to back the Librem 5 v2 campaign</a> appeared first on <a href="https://puri.sm">Purism</a>.</p>]]>
+      </description>
+      <source:markdown>Your phone should help you live your life—not make decisions for you. At Purism, we’re developing the Librem 5 v2 for people who want more say over their technology: what it runs, what it shares, and how long it lasts.
+
+The post [10 Reasons to back the Librem 5 v2 campaign](https://puri.sm/posts/10-reasons-to-back-the-librem-5-v2-campaign/) appeared first on [Purism](https://puri.sm).</source:markdown>
+      <dc:creator>Purism</dc:creator>
+      <guid isPermaLink="false">cid://https://puri.sm/?p=87456</guid>
+      <category>Librem 5 v2</category>
+      <pubDate>Wed, 25 Nov 2026 17:00:24 +0000</pubDate>
     </item>    <item>
       <title>HP sees premium-priced AI PCs as its meal ticket in a shrinking market</title>
       <link>https://www.theregister.com/personal-tech/2026/11/25/hp-sees-premium-priced-ai-pcs-as-its-meal-ticket-in-a-shrinking-market/5312174</link>
@@ -780,11 +1040,11 @@ The post [Desktop Add-ons Spotlight: Identity Chooser Helps You Send From the Ri
       <link>https://puri.sm/posts/all-the-unsung-awesomeness-purism-has-brought-to-market/</link>
       <description>
         <![CDATA[<p>From a phone-sized Linux experience to hardware kill switches, Purism’s biggest contribution may be proving that a more user-controlled digital world can be built&#8212;and shared.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/all-the-unsung-awesomeness-purism-has-brought-to-market/">All the Unsung Awesomeness Purism Has Brought to Market</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+        <p>The post <a href="https://puri.sm/posts/all-the-unsung-awesomeness-purism-has-brought-to-market/">All the Unsung Awesomeness Purism Has Brought to Market</a> appeared first on <a href="https://puri.sm">Purism</a>.</p>]]>
       </description>
       <source:markdown>From a phone-sized Linux experience to hardware kill switches, Purism’s biggest contribution may be proving that a more user-controlled digital world can be built—and shared.
 
-The post [All the Unsung Awesomeness Purism Has Brought to Market](https://puri.sm/posts/all-the-unsung-awesomeness-purism-has-brought-to-market/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+The post [All the Unsung Awesomeness Purism Has Brought to Market](https://puri.sm/posts/all-the-unsung-awesomeness-purism-has-brought-to-market/) appeared first on [Purism](https://puri.sm).</source:markdown>
       <dc:creator>Purism</dc:creator>
       <guid isPermaLink="false">cid://https://puri.sm/?p=87441</guid>
       <category>Librem 5 v2</category>
@@ -1204,11 +1464,11 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <link>https://puri.sm/posts/why-we-need-a-revolutionary-phone-now-the-librem-5-v2/</link>
       <description>
         <![CDATA[<p>Recent mobile security flaws, Android’s update gaps, and new app-verification rules show why user control matters. Meet the Purism Librem 5 v2.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/why-we-need-a-revolutionary-phone-now-the-librem-5-v2/">Why We Need a Revolutionary Phone Now: The Librem 5 v2</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+        <p>The post <a href="https://puri.sm/posts/why-we-need-a-revolutionary-phone-now-the-librem-5-v2/">Why We Need a Revolutionary Phone Now: The Librem 5 v2</a> appeared first on <a href="https://puri.sm">Purism</a>.</p>]]>
       </description>
       <source:markdown>Recent mobile security flaws, Android’s update gaps, and new app-verification rules show why user control matters. Meet the Purism Librem 5 v2.
 
-The post [Why We Need a Revolutionary Phone Now: The Librem 5 v2](https://puri.sm/posts/why-we-need-a-revolutionary-phone-now-the-librem-5-v2/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+The post [Why We Need a Revolutionary Phone Now: The Librem 5 v2](https://puri.sm/posts/why-we-need-a-revolutionary-phone-now-the-librem-5-v2/) appeared first on [Purism](https://puri.sm).</source:markdown>
       <dc:creator>Purism</dc:creator>
       <guid isPermaLink="false">cid://https://puri.sm/?p=87366</guid>
       <category>Librem 5 v2</category>
@@ -1717,11 +1977,11 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <link>https://puri.sm/posts/purism-differentiator-series-part-20-releasing-source-code-to-the-public/</link>
       <description>
         <![CDATA[<p>When we use a computer, we trust software to make decisions on our behalf. It stores our work, carries our messages, and helps run the services we depend on.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/purism-differentiator-series-part-20-releasing-source-code-to-the-public/">Purism Differentiator Series, Part 20: Releasing Source Code to the Public</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+        <p>The post <a href="https://puri.sm/posts/purism-differentiator-series-part-20-releasing-source-code-to-the-public/">Purism Differentiator Series, Part 20: Releasing Source Code to the Public</a> appeared first on <a href="https://puri.sm">Purism</a>.</p>]]>
       </description>
       <source:markdown>When we use a computer, we trust software to make decisions on our behalf. It stores our work, carries our messages, and helps run the services we depend on.
 
-The post [Purism Differentiator Series, Part 20: Releasing Source Code to the Public](https://puri.sm/posts/purism-differentiator-series-part-20-releasing-source-code-to-the-public/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+The post [Purism Differentiator Series, Part 20: Releasing Source Code to the Public](https://puri.sm/posts/purism-differentiator-series-part-20-releasing-source-code-to-the-public/) appeared first on [Purism](https://puri.sm).</source:markdown>
       <dc:creator>Todd Weaver</dc:creator>
       <guid isPermaLink="false">cid://https://puri.sm/?p=81207</guid>
       <category>Differentiator Series</category>
@@ -1901,11 +2161,11 @@ The post [Purism Differentiator Series, Part 20: Releasing Source Code to the Pu
       <link>https://puri.sm/posts/librem-5-v2-campaign-builds-early-momentum-at-100-orders/</link>
       <description>
         <![CDATA[<p>A new smartphone campaign has reached a memorable early milestone. Following its public launch on November 17, Purism’s Librem 5 v2 crowdfunding campaign has the first 100 of its 2,500-order goal. That early progress signals interest in a different vision for mobile technology: one built around user control, open software, and digital independence. </p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/librem-5-v2-campaign-builds-early-momentum-at-100-orders/">Librem 5 v2 Campaign Builds Early Momentum at 100 Orders</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+        <p>The post <a href="https://puri.sm/posts/librem-5-v2-campaign-builds-early-momentum-at-100-orders/">Librem 5 v2 Campaign Builds Early Momentum at 100 Orders</a> appeared first on <a href="https://puri.sm">Purism</a>.</p>]]>
       </description>
       <source:markdown>A new smartphone campaign has reached a memorable early milestone. Following its public launch on November 17, Purism’s Librem 5 v2 crowdfunding campaign has the first 100 of its 2,500-order goal. That early progress signals interest in a different vision for mobile technology: one built around user control, open software, and digital independence.
 
-The post [Librem 5 v2 Campaign Builds Early Momentum at 100 Orders](https://puri.sm/posts/librem-5-v2-campaign-builds-early-momentum-at-100-orders/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+The post [Librem 5 v2 Campaign Builds Early Momentum at 100 Orders](https://puri.sm/posts/librem-5-v2-campaign-builds-early-momentum-at-100-orders/) appeared first on [Purism](https://puri.sm).</source:markdown>
       <dc:creator>Purism</dc:creator>
       <guid isPermaLink="false">cid://https://puri.sm/?p=87390</guid>
       <category>Librem 5 v2</category>
@@ -2161,11 +2421,11 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <link>https://puri.sm/posts/purism-differentiator-series-part-19-pureos-store/</link>
       <description>
         <![CDATA[<p>A useful app store should make it easy to find and install software. It should also help people understand what they are choosing.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/purism-differentiator-series-part-19-pureos-store/">Purism Differentiator Series, Part 19: PureOS Store</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+        <p>The post <a href="https://puri.sm/posts/purism-differentiator-series-part-19-pureos-store/">Purism Differentiator Series, Part 19: PureOS Store</a> appeared first on <a href="https://puri.sm">Purism</a>.</p>]]>
       </description>
       <source:markdown>A useful app store should make it easy to find and install software. It should also help people understand what they are choosing.
 
-The post [Purism Differentiator Series, Part 19: PureOS Store](https://puri.sm/posts/purism-differentiator-series-part-19-pureos-store/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+The post [Purism Differentiator Series, Part 19: PureOS Store](https://puri.sm/posts/purism-differentiator-series-part-19-pureos-store/) appeared first on [Purism](https://puri.sm).</source:markdown>
       <dc:creator>Todd Weaver</dc:creator>
       <guid isPermaLink="false">cid://https://puri.sm/?p=81205</guid>
       <category>Differentiator Series</category>
@@ -2280,11 +2540,11 @@ The post [Purism Differentiator Series, Part 19: PureOS Store](https://puri.sm/p
       <link>https://puri.sm/posts/price-is-not-the-entire-point-how-purism-is-building-a-different-digital-future/</link>
       <description>
         <![CDATA[<p>A phone has a price. Digital freedom has a value. If we judge a revolutionary phone only by its price tag, we miss the work behind it.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/price-is-not-the-entire-point-how-purism-is-building-a-different-digital-future/">Price Is Not the Entire Point:  How Purism is Building a Different Digital Future</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+        <p>The post <a href="https://puri.sm/posts/price-is-not-the-entire-point-how-purism-is-building-a-different-digital-future/">Price Is Not the Entire Point:  How Purism is Building a Different Digital Future</a> appeared first on <a href="https://puri.sm">Purism</a>.</p>]]>
       </description>
       <source:markdown>A phone has a price. Digital freedom has a value. If we judge a revolutionary phone only by its price tag, we miss the work behind it.
 
-The post [Price Is Not the Entire Point: How Purism is Building a Different Digital Future](https://puri.sm/posts/price-is-not-the-entire-point-how-purism-is-building-a-different-digital-future/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+The post [Price Is Not the Entire Point: How Purism is Building a Different Digital Future](https://puri.sm/posts/price-is-not-the-entire-point-how-purism-is-building-a-different-digital-future/) appeared first on [Purism](https://puri.sm).</source:markdown>
       <dc:creator>Purism</dc:creator>
       <guid isPermaLink="false">cid://https://puri.sm/?p=87402</guid>
       <category>Civil Liberties</category>
@@ -2422,11 +2682,11 @@ The post [Price Is Not the Entire Point: How Purism is Building a Different Digi
       <link>https://puri.sm/posts/purism-differentiator-series-part-18-funding-the-app-gap/</link>
       <description>
         <![CDATA[<p>A phone can respect your freedom and still need more apps. That is the app gap.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/purism-differentiator-series-part-18-funding-the-app-gap/">Purism Differentiator Series, Part 18: Funding the App Gap</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+        <p>The post <a href="https://puri.sm/posts/purism-differentiator-series-part-18-funding-the-app-gap/">Purism Differentiator Series, Part 18: Funding the App Gap</a> appeared first on <a href="https://puri.sm">Purism</a>.</p>]]>
       </description>
       <source:markdown>A phone can respect your freedom and still need more apps. That is the app gap.
 
-The post [Purism Differentiator Series, Part 18: Funding the App Gap](https://puri.sm/posts/purism-differentiator-series-part-18-funding-the-app-gap/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+The post [Purism Differentiator Series, Part 18: Funding the App Gap](https://puri.sm/posts/purism-differentiator-series-part-18-funding-the-app-gap/) appeared first on [Purism](https://puri.sm).</source:markdown>
       <dc:creator>Todd Weaver</dc:creator>
       <guid isPermaLink="false">cid://https://puri.sm/?p=81203</guid>
       <category>Differentiator Series</category>
@@ -2587,11 +2847,11 @@ The post [Purism Differentiator Series, Part 18: Funding the App Gap](https://pu
       <link>https://puri.sm/posts/a-risc-v-phone-the-librem-5-v2/</link>
       <description>
         <![CDATA[<p>For many people, a smartphone feels like an extra part of the body: it has a touchscreen, a camera, and internet access, while its operating system is controlled by one of a few big tech firms. That setup is convenient, but it also gives those firms power over the phone’s software, apps, updates, and hardware. Owners often have little say in those choices. Purism is making a RISC-V phone as an alternative.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/a-risc-v-phone-the-librem-5-v2/">A RISC-V Phone: The Librem 5 v2 For the Win</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+        <p>The post <a href="https://puri.sm/posts/a-risc-v-phone-the-librem-5-v2/">A RISC-V Phone: The Librem 5 v2 For the Win</a> appeared first on <a href="https://puri.sm">Purism</a>.</p>]]>
       </description>
       <source:markdown>For many people, a smartphone feels like an extra part of the body: it has a touchscreen, a camera, and internet access, while its operating system is controlled by one of a few big tech firms. That setup is convenient, but it also gives those firms power over the phone’s software, apps, updates, and hardware. Owners often have little say in those choices. Purism is making a RISC-V phone as an alternative.
 
-The post [A RISC-V Phone: The Librem 5 v2 For the Win](https://puri.sm/posts/a-risc-v-phone-the-librem-5-v2/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+The post [A RISC-V Phone: The Librem 5 v2 For the Win](https://puri.sm/posts/a-risc-v-phone-the-librem-5-v2/) appeared first on [Purism](https://puri.sm).</source:markdown>
       <dc:creator>Purism</dc:creator>
       <guid isPermaLink="false">cid://https://puri.sm/?p=87151</guid>
       <category>Librem 5 v2</category>
@@ -2726,11 +2986,11 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <link>https://puri.sm/posts/purism-differentiator-series-part-17-ecosystem/</link>
       <description>
         <![CDATA[<p>When people hear the word “ecosystem,” they often think of convenience. A phone, a computer, an app store, and a cloud account can work together...</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/purism-differentiator-series-part-17-ecosystem/">Purism Differentiator Series, Part 17: Ecosystem</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+        <p>The post <a href="https://puri.sm/posts/purism-differentiator-series-part-17-ecosystem/">Purism Differentiator Series, Part 17: Ecosystem</a> appeared first on <a href="https://puri.sm">Purism</a>.</p>]]>
       </description>
       <source:markdown>When people hear the word “ecosystem,” they often think of convenience. A phone, a computer, an app store, and a cloud account can work together...
 
-The post [Purism Differentiator Series, Part 17: Ecosystem](https://puri.sm/posts/purism-differentiator-series-part-17-ecosystem/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+The post [Purism Differentiator Series, Part 17: Ecosystem](https://puri.sm/posts/purism-differentiator-series-part-17-ecosystem/) appeared first on [Purism](https://puri.sm).</source:markdown>
       <dc:creator>Todd Weaver</dc:creator>
       <guid isPermaLink="false">cid://https://puri.sm/?p=81201</guid>
       <category>Differentiator Series</category>
@@ -2994,11 +3254,11 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <link>https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/</link>
       <description>
         <![CDATA[<p>Purism, an independent U.S. technology company dedicated to protecting users’ privacy, security, and online freedom, today announced the launch of its second smartphone crowdfunding campaign, the Librem 5 v2.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/">Purism Launches Librem 5 v2 , A RISC-V Phone to Empower People</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+        <p>The post <a href="https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/">Purism Launches Librem 5 v2 , A RISC-V Phone to Empower People</a> appeared first on <a href="https://puri.sm">Purism</a>.</p>]]>
       </description>
       <source:markdown>Purism, an independent U.S. technology company dedicated to protecting users’ privacy, security, and online freedom, today announced the launch of its second smartphone crowdfunding campaign, the Librem 5 v2.
 
-The post [Purism Launches Librem 5 v2 , A RISC-V Phone to Empower People](https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+The post [Purism Launches Librem 5 v2 , A RISC-V Phone to Empower People](https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/) appeared first on [Purism](https://puri.sm).</source:markdown>
       <dc:creator>Purism</dc:creator>
       <guid isPermaLink="false">cid://https://puri.sm/?p=86252</guid>
       <category>Additional Press Information</category>
@@ -3042,11 +3302,11 @@ The post [Purism Launches Librem 5 v2 , A RISC-V Phone to Empower People](https:
       <link>https://puri.sm/posts/purism-differentiator-series-part-16-decentralization/</link>
       <description>
         <![CDATA[<p>The internet was built to connect people across networks. But much of our digital life now runs through a small number of companies...</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/purism-differentiator-series-part-16-decentralization/">Purism Differentiator Series, Part 16: Decentralization</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+        <p>The post <a href="https://puri.sm/posts/purism-differentiator-series-part-16-decentralization/">Purism Differentiator Series, Part 16: Decentralization</a> appeared first on <a href="https://puri.sm">Purism</a>.</p>]]>
       </description>
       <source:markdown>The internet was built to connect people across networks. But much of our digital life now runs through a small number of companies...
 
-The post [Purism Differentiator Series, Part 16: Decentralization](https://puri.sm/posts/purism-differentiator-series-part-16-decentralization/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+The post [Purism Differentiator Series, Part 16: Decentralization](https://puri.sm/posts/purism-differentiator-series-part-16-decentralization/) appeared first on [Purism](https://puri.sm).</source:markdown>
       <dc:creator>Todd Weaver</dc:creator>
       <guid isPermaLink="false">cid://https://puri.sm/?p=81199</guid>
       <category>Differentiator Series</category>
@@ -3412,11 +3672,11 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <link>https://puri.sm/posts/purism-differentiator-series-part-15-individual-control/</link>
       <description>
         <![CDATA[<p>Technology should work for people. Yet many devices give their owners little say over the software, the services, or the data involved in everyday use.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/purism-differentiator-series-part-15-individual-control/">Purism Differentiator Series, Part 15: Individual Control</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+        <p>The post <a href="https://puri.sm/posts/purism-differentiator-series-part-15-individual-control/">Purism Differentiator Series, Part 15: Individual Control</a> appeared first on <a href="https://puri.sm">Purism</a>.</p>]]>
       </description>
       <source:markdown>Technology should work for people. Yet many devices give their owners little say over the software, the services, or the data involved in everyday use.
 
-The post [Purism Differentiator Series, Part 15: Individual Control](https://puri.sm/posts/purism-differentiator-series-part-15-individual-control/) appeared first on [Purism](https://puri.sm/).</source:markdown>
+The post [Purism Differentiator Series, Part 15: Individual Control](https://puri.sm/posts/purism-differentiator-series-part-15-individual-control/) appeared first on [Purism](https://puri.sm).</source:markdown>
       <dc:creator>Todd Weaver</dc:creator>
       <guid isPermaLink="false">cid://https://puri.sm/?p=81197</guid>
       <category>Differentiator Series</category>
@@ -4769,263 +5029,6 @@ The post [A Strange Quantum Theorem Has Killed Einstein’s Reality](https://www
       <category>Surface Water</category>
       <category>Topography</category>
       <pubDate>Fri, 06 Nov 2026 05:01:00 +0000</pubDate>
-    </item>    <item>
-      <title>A Nazi Submarine Torpedoed a Merchant Ship Just Off the Coast of Maine in 1944. Divers Have Finally Located the Wreckage, 400 Feet Below the Surface</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-nazi-submarine-torpedoed-a-merchant-ship-just-off-the-coast-of-maine-in-1944-divers-have-finally-located-the-wreckage-400-feet-below-the-surface-180989822/</link>
-      <description>
-        <![CDATA[The SS "Cornwallis" was traveling between Barbados and Canada when it was sunk by a German U-boat that had delivered Nazi spies to American soil just days earlier]]>
-      </description>
-      <source:markdown>The SS &#34;Cornwallis&#34; was traveling between Barbados and Canada when it was sunk by a German U-boat that had delivered Nazi spies to American soil just days earlier</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/8bQReyOLCWAr0mjfBUpadLS5Zbc=/420x240/filters:focal(960x530:961x531)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/75/54/755403b6-87d9-4459-8597-6ec1ccc0faea/cornwallis.jpeg" length="431577" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/a-nazi-submarine-torpedoed-a-merchant-ship-just-off-the-coast-of-maine-in-1944-divers-have-finally-located-the-wreckage-400-feet-below-the-surface-180989822/</guid>
-      <pubDate>Thu, 05 Nov 2026 22:40:00 +0000</pubDate>
-    </item>    <item>
-      <title>Was the British King Who Urged the Romans to Invade Actually a Queen? One Archaeologist Thinks So</title>
-      <link>https://www.smithsonianmag.com/smart-news/was-the-british-king-who-urged-the-roman-invasion-of-britain-actually-a-queen-one-archaeologist-thinks-so-180989821/</link>
-      <description>
-        <![CDATA[Linguistic clues and ancient coins could suggest that Verica—a ruler who fled Britain and convinced Roman Emperor Claudius to launch an invasion across the English Channel—has been misgendered for centuries]]>
-      </description>
-      <source:markdown>Linguistic clues and ancient coins could suggest that Verica—a ruler who fled Britain and convinced Roman Emperor Claudius to launch an invasion across the English Channel—has been misgendered for centuries</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/jJB3JjL0VdMQYl2h_7iDQE88tFA=/420x240/filters:focal(512x458:513x459)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ce/3b/ce3ba593-6137-4ecf-bba2-a723bfb94818/gettyimages-1183129122.jpg" length="169948" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/was-the-british-king-who-urged-the-roman-invasion-of-britain-actually-a-queen-one-archaeologist-thinks-so-180989821/</guid>
-      <pubDate>Thu, 05 Nov 2026 21:38:09 +0000</pubDate>
-    </item>    <item>
-      <title>Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents</title>
-      <link>https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/</link>
-      <description>
-        <![CDATA[AI agents do more than generate answers. They search for information, query databases, write and test code and take action.  Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task.  As businesses put more agents to work, AI factories need CPUs that can execute those [&#8230;]]]>
-      </description>
-      <source:markdown>AI agents do more than generate answers. They search for information, query databases, write and test code and take action.  Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task.  As businesses put more agents to work, AI factories need CPUs that can execute those \[…\]</source:markdown>
-      <dc:creator>Hannah Coutand</dc:creator>
-      <guid isPermaLink="false">cid://https://blogs.nvidia.com/?p=99689</guid>
-      <category>AI Infrastructure</category>
-      <category>Hardware</category>
-      <category>Networking</category>
-      <category>Software</category>
-      <category>Agentic AI</category>
-      <category>NVIDIA Vera</category>
-      <pubDate>Thu, 05 Nov 2026 20:00:41 +0000</pubDate>
-    </item>    <item>
-      <title>China Announces a Plan to Put Astronauts on the Moon by 2030, Revealing Details of Four Upcoming Missions</title>
-      <link>https://www.smithsonianmag.com/smart-news/china-announces-a-plan-to-put-astronauts-on-the-moon-by-2030-revealing-details-of-four-upcoming-missions-180989810/</link>
-      <description>
-        <![CDATA[The country intends to launch three uncrewed test missions followed by a human lunar landing within the next few years. NASA hopes to send humans to the moon in 2028, though some experts have expressed doubt about that timeline]]>
-      </description>
-      <source:markdown>The country intends to launch three uncrewed test missions followed by a human lunar landing within the next few years. NASA hopes to send humans to the moon in 2028, though some experts have expressed doubt about that timeline</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/4Te-yCgINvgeRgPZOExzF9V5qtQ=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d2/74/d274b638-89da-4d42-ad1c-09a3021afbd6/smithsonian_feature_images_30.png" length="2317535" type="image/png" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/china-announces-a-plan-to-put-astronauts-on-the-moon-by-2030-revealing-details-of-four-upcoming-missions-180989810/</guid>
-      <pubDate>Thu, 05 Nov 2026 19:32:00 +0000</pubDate>
-    </item>    <item>
-      <title>This Bull and Male Donkey Have a Surprisingly Sexual Relationship, Providing Insights Into Interspecies and Same-Sex Bonds</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-bull-and-male-donkey-have-a-surprisingly-sexual-relationship-revealing-insights-into-interspecies-and-same-sex-bonds-180989803/</link>
-      <description>
-        <![CDATA[The ungulates, dubbed Achille and Patroclo, chose each other repeatedly and showed affection before and after each rendezvous. Same-sex sexual encounters are common among animals of the same species, but less so between different ones]]>
-      </description>
-      <source:markdown>The ungulates, dubbed Achille and Patroclo, chose each other repeatedly and showed affection before and after each rendezvous. Same-sex sexual encounters are common among animals of the same species, but less so between different ones</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/_E89q7eIsIbAP6I9oBblu1ecBU4=/420x240/filters:focal(751x415:752x416)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ab/3c/ab3c924d-1d61-4178-90a1-3775fa014c56/an-unusual-sexual-bond.jpg" length="487184" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/this-bull-and-male-donkey-have-a-surprisingly-sexual-relationship-revealing-insights-into-interspecies-and-same-sex-bonds-180989803/</guid>
-      <pubDate>Thu, 05 Nov 2026 18:47:54 +0000</pubDate>
-    </item>    <item>
-      <title>The Ubuntu 26.04 Rust sudo is not compatible with standard sudo</title>
-      <link>https://www.osnews.com/story/146309/the-ubuntu-26-04-rust-sudo-is-not-compatible-with-standard-sudo/</link>
-      <description>
-        <![CDATA[Ubuntu has been at the forefront of replacing the traditional versions of basic tools like sudo with replacements written in Rust, but aside from worries about replacing battle-tested code with brand new, relatively untested code, there&#8217;s new things to worry about it. As it turns out, sudo-rs, the Rust replacement for sudo, is intentionally incompatible with the classic version in dangerous ways, as Chris Siebenmann discovered to his dismay. Basically, the classic sudo supports the use of wildcards defined using square brackets, so that if you allow a user to run, say, /usr/sbin/exim -bp, without a password, they can run exim -bpa, exim -bpc, exim -bpr, or exim -bpu without having to supply a password. This allows for very specific, fine-grained access control, which is quite a nice capability to have if you&#8217;re managing many systems and users. Sadly, sudo-rs intentionally does not support this, opting to only allow you to use the generic * wildcard. Worse yet, it doesn&#8217;t really make this clear, either. ↫ Chris Siebenmann I do not really have words for this. The Rust sudo has apparently opted to keep the single most dangerous wildcard while disallowing all of the wildcards that allow one to be narrow and specific about what you&#8217;re allowing, and it buries this at the end of a section that devotes a bunch of words to describing functionality it doesn&#8217;t have and doesn&#8217;t support, with absolutely nothing else in that section to say this (either up front or in the descriptions of how all the wildcards would work if sudo-rs supported them, which it doesn&#8217;t). If you&#8217;re going to replace such vital, core tools like sudo that god knows how many people rely on every single day, you better be damn sure you&#8217;re feature-complete and can act as a drop-in replacement. If someone switches from sudo to doas, nobody expects the experience to be identical. However, if you&#8217;re consistently being told that sudo-rs is a drop-in replacement and you shouldn&#8217;t expect any disruptions, you better be able to make true on that promise. Ubuntu isn&#8217;t some also-ran small hobby distribution, and its developers should act like it. What a clown show.]]>
-      </description>
-      <source:markdown>Ubuntu has been at the forefront of replacing the traditional versions of basic tools like sudo with replacements written in Rust, but aside from worries about replacing battle-tested code with brand new, relatively untested code, there’s new things to worry about it. As it turns out, sudo-rs, the Rust replacement for sudo, is intentionally incompatible with the classic version in dangerous ways, as Chris Siebenmann discovered to his dismay. Basically, the classic sudo supports the use of wildcards defined using square brackets, so that if you allow a user to run, say, /usr/sbin/exim -bp, without a password, they can run exim -bpa, exim -bpc, exim -bpr, or exim -bpu without having to supply a password. This allows for very specific, fine-grained access control, which is quite a nice capability to have if you’re managing many systems and users. Sadly, sudo-rs intentionally does not support this, opting to only allow you to use the generic \* wildcard. Worse yet, it doesn’t really make this clear, either. ↫ Chris Siebenmann I do not really have words for this. The Rust sudo has apparently opted to keep the single most dangerous wildcard while disallowing all of the wildcards that allow one to be narrow and specific about what you’re allowing, and it buries this at the end of a section that devotes a bunch of words to describing functionality it doesn’t have and doesn’t support, with absolutely nothing else in that section to say this (either up front or in the descriptions of how all the wildcards would work if sudo-rs supported them, which it doesn’t). If you’re going to replace such vital, core tools like sudo that god knows how many people rely on every single day, you better be damn sure you’re feature-complete and can act as a drop-in replacement. If someone switches from sudo to doas, nobody expects the experience to be identical. However, if you’re consistently being told that sudo-rs is a drop-in replacement and you shouldn’t expect any disruptions, you better be able to make true on that promise. Ubuntu isn’t some also-ran small hobby distribution, and its developers should act like it. What a clown show.</source:markdown>
-      <dc:creator>Thom Holwerda</dc:creator>
-      <guid isPermaLink="false">cid://https://www.osnews.com/?p=146309</guid>
-      <category>Ubuntu</category>
-      <pubDate>Thu, 05 Nov 2026 16:24:04 +0000</pubDate>
-    </item>    <item>
-      <title>LXQt 2.5.0 released</title>
-      <link>https://www.osnews.com/story/146307/lxqt-2-5-0-released/</link>
-      <description>
-        <![CDATA[The second desktop environment release I&#8217;ve got for you today is LXQt 2.5.0. This new version excises its last LXDE dependency, and QTerminal and QTermWidget received considerable improvements, like new background image modes, a visual bell, support for OSC-8 hyperlinks, and more. There&#8217;s a ton of smaller changes and improvements as well, but do note that due to a bug, 2.5.0 broke LXQt&#8217;s Monitor Settings on X11. The project intends to fix this as quickly as possible and push a point release to address this issue.]]>
-      </description>
-      <source:markdown>The second desktop environment release I’ve got for you today is LXQt 2.5.0. This new version excises its last LXDE dependency, and QTerminal and QTermWidget received considerable improvements, like new background image modes, a visual bell, support for OSC-8 hyperlinks, and more. There’s a ton of smaller changes and improvements as well, but do note that due to a bug, 2.5.0 broke LXQt’s Monitor Settings on X11. The project intends to fix this as quickly as possible and push a point release to address this issue.</source:markdown>
-      <dc:creator>Thom Holwerda</dc:creator>
-      <guid isPermaLink="false">cid://https://www.osnews.com/?p=146307</guid>
-      <category>Desktop environments</category>
-      <pubDate>Thu, 05 Nov 2026 16:03:27 +0000</pubDate>
-    </item>    <item>
-      <title>This Ancient &#39;Hell Chicken&#39; Might Be the First Known Fruit-Loving Dinosaur, Revealing a Whole New Cretaceous Lifestyle</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-ancient-hell-chicken-might-be-the-first-known-fruit-loving-dinosaur-revealing-a-whole-new-cretaceous-lifestyle-180989801/</link>
-      <description>
-        <![CDATA[Infernogallus jamesi had beak and mouth adaptations that hint it could mash soft foods, like today's frugivorous birds. The dinosaur probably munched on fruits resembling modern-day cherries and peaches, and may have helped spread seeds via its poop]]>
-      </description>
-      <source:markdown>Infernogallus jamesi had beak and mouth adaptations that hint it could mash soft foods, like today&#39;s frugivorous birds. The dinosaur probably munched on fruits resembling modern-day cherries and peaches, and may have helped spread seeds via its poop</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/gDq0TlvIBO0DioQAw0NKjQvZgOk=/420x240/filters:focal(1406x790:1407x791)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9f/3f/9f3fe00f-d12a-4e69-a161-480ebeb358df/paleoart_illustration_nrjpg.webp" length="393370" type="image/webp" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/this-ancient-hell-chicken-might-be-the-first-known-fruit-loving-dinosaur-revealing-a-whole-new-cretaceous-lifestyle-180989801/</guid>
-      <pubDate>Thu, 05 Nov 2026 16:01:07 +0000</pubDate>
-    </item>    <item>
-      <title>The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/</link>
-      <description>
-        <![CDATA[Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers.  [&#8230;]]]>
-      </description>
-      <source:markdown>Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers.  \[…\]</source:markdown>
-      <dc:creator>Matthew Leib</dc:creator>
-      <enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/ChrisAlexiuk_captions_9MB.mp4" length="9701261" type="video/mp4" />
-      <guid isPermaLink="false">cid://https://blogs.nvidia.com/?p=99663</guid>
-      <category>AI</category>
-      <category>NVIDIA Life</category>
-      <category>Agentic AI</category>
-      <category>Nemotron</category>
-      <category>Nemotron Labs</category>
-      <category>Open Source</category>
-      <pubDate>Thu, 05 Nov 2026 16:00:05 +0000</pubDate>
-    </item>    <item>
-      <title>More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge</title>
-      <link>https://blogs.nvidia.com/blog/memory-full-stack-codesign/</link>
-      <description>
-        <![CDATA[Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack.  [&#8230;]]]>
-      </description>
-      <source:markdown>Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack.  \[…\]</source:markdown>
-      <dc:creator>Amr Elmeleegy</dc:creator>
-      <guid isPermaLink="false">cid://https://blogs.nvidia.com/?p=99648</guid>
-      <category>AI Infrastructure</category>
-      <category>Agentic AI</category>
-      <category>AI Factory</category>
-      <category>Artificial Intelligence</category>
-      <category>Dynamo</category>
-      <category>Hardware</category>
-      <category>Inference</category>
-      <category>Nemotron</category>
-      <category>NVIDIA Blackwell</category>
-      <category>NVIDIA Hopper Architecture</category>
-      <category>NVIDIA Rubin</category>
-      <category>NVIDIA Vera</category>
-      <category>NVLink</category>
-      <pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Cinnamon 6.8 desktop environment released with hibernation support</title>
-      <link>https://www.osnews.com/story/146305/cinnamon-6-8-desktop-environment-released-with-hibernation-support/</link>
-      <description>
-        <![CDATA[It&#8217;s desktop environment Thursday, as I&#8217;ve got two new releases for you today. First, Cinnamon, the desktop environment primarily associated with Linux Mint, has hit version 6.8. This version will officially ship with Linux Mint 27, scheduled for around Christmas of this year. Highlights of Cinnamon 6.8 include hibernation support via a Suspend action in the main menu, modern one-to-one trackpad gestures for both Wayland and Xorg sessions, support for the oo7 Secret Service provider, support for multiple instances in the Sound applet, and a more unified Network applet that merges the WireGuard and VPN sections. ↫ Marcus Nestor at 9To5Linux While Cinnamon is first and foremost a Linux Mint project, it&#8217;s available on countless other distributions as well, including dedicated variants for popular distributions like Fedora and Ubuntu. Its Wayland support is finally materialising too, which is long overdue.]]>
-      </description>
-      <source:markdown>It’s desktop environment Thursday, as I’ve got two new releases for you today. First, Cinnamon, the desktop environment primarily associated with Linux Mint, has hit version 6.8. This version will officially ship with Linux Mint 27, scheduled for around Christmas of this year. Highlights of Cinnamon 6.8 include hibernation support via a Suspend action in the main menu, modern one-to-one trackpad gestures for both Wayland and Xorg sessions, support for the oo7 Secret Service provider, support for multiple instances in the Sound applet, and a more unified Network applet that merges the WireGuard and VPN sections. ↫ Marcus Nestor at 9To5Linux While Cinnamon is first and foremost a Linux Mint project, it’s available on countless other distributions as well, including dedicated variants for popular distributions like Fedora and Ubuntu. Its Wayland support is finally materialising too, which is long overdue.</source:markdown>
-      <dc:creator>Thom Holwerda</dc:creator>
-      <guid isPermaLink="false">cid://https://www.osnews.com/?p=146305</guid>
-      <category>Desktop environments</category>
-      <pubDate>Thu, 05 Nov 2026 15:57:51 +0000</pubDate>
-    </item>    <item>
-      <title>Midwestern City Lights</title>
-      <link>https://www.nasa.gov/image-article/midwestern-city-lights/</link>
-      <description>
-        <![CDATA[City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Station was orbiting 259 miles above Earth when this [&#8230;]]]>
-      </description>
-      <source:markdown>City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Station was orbiting 259 miles above Earth when this \[…\]</source:markdown>
-      <dc:creator>HQ Web Team</dc:creator>
-      <guid isPermaLink="false">cid://https://www.nasa.gov/?post_type=image-article&#38;p=1061815</guid>
-      <category>International Space Station (ISS)</category>
-      <pubDate>Thu, 05 Nov 2026 15:17:19 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Astronauts to Answer Questions from Florida Students</title>
-      <link>https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/</link>
-      <description>
-        <![CDATA[Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the&#160;International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s&#160;Learn With NASA&#160;YouTube channel. This event is hosted by Freedom Crossing Academy in [&#8230;]]]>
-      </description>
-      <source:markdown>Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Freedom Crossing Academy in \[…\]</source:markdown>
-      <dc:creator>Gerelle Q. Dodson</dc:creator>
-      <guid isPermaLink="false">cid://https://www.nasa.gov/?p=1062633</guid>
-      <category>Learning Resources</category>
-      <category>Humans in Space</category>
-      <category>In-flight Education Downlinks</category>
-      <pubDate>Thu, 05 Nov 2026 15:11:25 +0000</pubDate>
-    </item>    <item>
-      <title>Archaeologists Found a 3,300-Year-Old Sword at the Bottom of a Volcanic Lake in Italy—and It&#39;s Still Sharp</title>
-      <link>https://www.smithsonianmag.com/smart-news/archaeologists-found-a-3300-year-old-sword-at-the-bottom-of-a-volcanic-lake-in-italy-and-its-still-sharp-180989813/</link>
-      <description>
-        <![CDATA[The remarkably well-preserved 13th-century B.C.E. weapon was found submerged in Lake Mezzano, once home to a Bronze Age village on stilts]]>
-      </description>
-      <source:markdown>The remarkably well-preserved 13th-century B.C.E. weapon was found submerged in Lake Mezzano, once home to a Bronze Age village on stilts</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/bks3_8bl7OOpRDquKt18ndzlAjw=/420x240/filters:focal(384x218:385x219)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3b/d5/3bd5f8c9-a1af-4708-9899-03e607df68dc/spada_mezzano-3-768x432.jpg" length="26596" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/archaeologists-found-a-3300-year-old-sword-at-the-bottom-of-a-volcanic-lake-in-italy-and-its-still-sharp-180989813/</guid>
-      <pubDate>Thu, 05 Nov 2026 15:08:53 +0000</pubDate>
-    </item>    <item>
-      <title>‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/</link>
-      <description>
-        <![CDATA[Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward available for GeForce NOW members. Meanwhile, Ubisoft brings fresh challenges with expansions [&#8230;]]]>
-      </description>
-      <source:markdown>Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward available for GeForce NOW members. Meanwhile, Ubisoft brings fresh challenges with expansions \[…\]</source:markdown>
-      <dc:creator>GeForce NOW Community</dc:creator>
-      <guid isPermaLink="false">cid://https://blogs.nvidia.com/?p=99635</guid>
-      <category>Gaming</category>
-      <category>Cloud Gaming</category>
-      <category>GeForce NOW</category>
-      <pubDate>Thu, 05 Nov 2026 14:00:34 +0000</pubDate>
-    </item>    <item>
-      <title>Hubble Learns Galactic History From Stars</title>
-      <link>https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/</link>
-      <description>
-        <![CDATA[This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.]]>
-      </description>
-      <source:markdown>This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.</source:markdown>
-      <guid isPermaLink="false">cid://https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/</guid>
-      <category>Astrophysics</category>
-      <category>Astrophysics Division</category>
-      <category>Globular Clusters</category>
-      <category>Goddard Space Flight Center</category>
-      <category>Hubble Space Telescope</category>
-      <category>Star Clusters</category>
-      <category>Stars</category>
-      <category>The Universe</category>
-      <pubDate>Thu, 05 Nov 2026 12:56:21 +0000</pubDate>
-    </item>    <item>
-      <title>Predicting elections is getting harder. What did the midterms teach us?</title>
-      <link>https://www.npr.org/2026/11/05/nx-s1-6026649/us-midterm-election-poll-results</link>
-      <description>
-        <![CDATA[Famously, polls got the 2016 election wrong. And they’d been off for multiple elections since. So, Monday night, political scientist Jack Rametta nervously refreshed his <a href="https://jackrametta.com/senate-forecast/"target="_blank"   >Senate forecasting model</a> for the final time. Would it be right this time? Or would it yet again cast doubt on whether modeling, statistics and forecasting can still help us understand what motivates people to vote? Now that the results are in, so is Jack – to tell us how he did, and what his and other researchers’ predictions tell us about the evolving science of polling and forecasting.<br/><br/><em>Interested in more science behind the news? Email us your question at </em><a href="mailto:shortwave@npr.org"target="_blank"   ><em>shortwave@npr.org</em></a><em>.</em><br/><br/><em>Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at </em><a href="http://plus.npr.org"target="_blank"   ><em>plus.npr.org</em></a><em>. </em><br/><br/>See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.<br/><br/><a href="https://www.npr.org/about-npr/179878450/privacy-policy">NPR Privacy Policy</a>]]>
-      </description>
-      <source:markdown>Famously, polls got the 2016 election wrong. And they’d been off for multiple elections since. So, Monday night, political scientist Jack Rametta nervously refreshed his [Senate forecasting model](https://jackrametta.com/senate-forecast/) for the final time. Would it be right this time? Or would it yet again cast doubt on whether modeling, statistics and forecasting can still help us understand what motivates people to vote? Now that the results are in, so is Jack – to tell us how he did, and what his and other researchers’ predictions tell us about the evolving science of polling and forecasting.
-
-_Interested in more science behind the news? Email us your question at_ [_shortwave@npr.org_](mailto:shortwave@npr.org) _._
-
-_Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at_ [_plus.npr.org_](http://plus.npr.org) _._
-
-See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
-
-[NPR Privacy Policy](https://www.npr.org/about-npr/179878450/privacy-policy)</source:markdown>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/1a710728-6a1a-479d-bca3-655f02b631ef/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&#38;awEpisodeId=1a710728-6a1a-479d-bca3-655f02b631ef&#38;feed=F0qJcgXZ&#38;t=podcast&#38;e=nx-s1-6026649&#38;p=510351&#38;d=763&#38;size=12208675" length="12208675" type="audio/mpeg" />
-      <guid isPermaLink="false">cid://0bfa2ee5-7877-4b6c-963d-91d768091a28</guid>
-      <pubDate>Thu, 05 Nov 2026 08:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>APOD: 2026 November 5 – Enceladus in Silhouette</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Enceladus in Silhouette [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Enceladus in Silhouette \[…\]</source:markdown>
-      <guid isPermaLink="false">cid://https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/</guid>
-      <category>APOD</category>
-      <pubDate>Thu, 05 Nov 2026 05:05:00 +0000</pubDate>
-    </item>    <item>
-      <title>Cyprus: Island of Snakes, Cats, and Ophiolites</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/</link>
-      <description>
-        <![CDATA[The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.]]>
-      </description>
-      <source:markdown>The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.</source:markdown>
-      <guid isPermaLink="false">cid://https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/</guid>
-      <category>Earth Observatory</category>
-      <category>Landsat 8 / LDCM (Landsat Data Continuity Mission)</category>
-      <category>Topography</category>
-      <pubDate>Thu, 05 Nov 2026 05:01:00 +0000</pubDate>
-    </item>    <item>
-      <title>NASA Announces X-70 Experimental Aircraft to Advance Flight Research</title>
-      <link>https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/</link>
-      <description>
-        <![CDATA[On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.&#160; The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore [&#8230;]]]>
-      </description>
-      <source:markdown>On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.  The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore \[…\]</source:markdown>
-      <dc:creator>Cheryl Warner</dc:creator>
-      <guid isPermaLink="false">cid://https://www.nasa.gov/?post_type=press-release&#38;p=1062503</guid>
-      <category>Aeronautics</category>
-      <category>Flight Innovation</category>
-      <category>NASA Aircraft</category>
-      <category>Research and Technology Mission Directorate</category>
-      <pubDate>Thu, 05 Nov 2026 01:43:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

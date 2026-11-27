@@ -5,10 +5,54 @@
     <title><![CDATA[Student Paper]]></title>
     <description><![CDATA[Student journalism and the fourth estate.]]></description>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>26 Nov 26 06:48 -0800</lastBuildDate>
+    <lastBuildDate>27 Nov 26 06:48 -0800</lastBuildDate>
     <generator>antenna/0.2.1</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Gallery: From taxidermy to telescopes, this UCLA science fair explores the universe</title>
+      <link>https://dailybruin.com/2026/11/26/gallery-from-taxidermy-to-telescopes-this-ucla-science-fair-explores-the-universe/</link>
+      <description>
+        <![CDATA[Parasites were ogled at and science was celebrated at the Nov. 8 Exploring Your Universe science fair.
+        Over 16,000 registered for the 18th installment of the event, a day of science demonstrations and experiments led by more than 600 student volunteers in the Court of Sciences.]]>
+      </description>
+      <source:markdown>Parasites were ogled at and science was celebrated at the Nov. 8 Exploring Your Universe science fair.
+Over 16,000 registered for the 18th installment of the event, a day of science demonstrations and experiments led by more than 600 student volunteers in the Court of Sciences.</source:markdown>
+      <dc:creator>Selin Filiz</dc:creator>
+      <guid isPermaLink="false">cid://https://dailybruin.com/?p=521060</guid>
+      <category>Daily Bruin: In Focus</category>
+      <category>News: In Focus</category>
+      <category>db-story-m1</category>
+      <pubDate>Fri, 27 Nov 2026 04:45:29 +0000</pubDate>
+    </item>    <item>
+      <title>Saint Mary’s serves UCLA men’s basketball first loss of the season on Thanksgiving</title>
+      <link>https://dailybruin.com/2026/11/26/saint-marys-serves-ucla-mens-basketball-first-loss-of-the-season-on-thanksgiving/</link>
+      <description>
+        <![CDATA[<em>This post was updated Nov. 26 at 5:29 p.m.</em>
+        On Thursday afternoon in San Diego, the Gaels were serving it up.
+        But instead of platters of mashed potatoes and stuffing, they were dishing out triples.]]>
+      </description>
+      <source:markdown>_This post was updated Nov. 26 at 5:29 p.m._
+On Thursday afternoon in San Diego, the Gaels were serving it up.
+But instead of platters of mashed potatoes and stuffing, they were dishing out triples.</source:markdown>
+      <dc:creator>Jacob Nguyen</dc:creator>
+      <guid isPermaLink="false">cid://https://dailybruin.com/?p=521038</guid>
+      <category>Men&#39;s Basketball</category>
+      <category>Sports</category>
+      <category>breaking</category>
+      <category>db-story-a</category>
+      <pubDate>Fri, 27 Nov 2026 01:23:37 +0000</pubDate>
+    </item>    <item>
+      <title>Editorial Cartoon: “Happy Giving Thanks”</title>
+      <link>https://dailybruin.com/2026/11/26/editorial-cartoon-happy-giving-thanks/</link>
+      <description>
+        <![CDATA[&#160;]]>
+      </description>
+      <dc:creator>Sun Woo Park</dc:creator>
+      <guid isPermaLink="false">cid://https://dailybruin.com/?p=521029</guid>
+      <category>Cartoons</category>
+      <category>db-story-m1</category>
+      <pubDate>Thu, 26 Nov 2026 20:39:31 +0000</pubDate>
+    </item>    <item>
       <title>USAC rejects university’s request to remove divestment-related bylaws</title>
       <link>https://dailybruin.com/2026/11/25/usac-rejects-universitys-request-to-remove-divestment-related-bylaws/</link>
       <description>
@@ -21,7 +65,7 @@
       <category>Campus</category>
       <category>News</category>
       <category>breaking</category>
-      <category>db-story-a</category>
+      <category>db-story-c1</category>
       <pubDate>Thu, 26 Nov 2026 03:43:56 +0000</pubDate>
     </item>    <item>
       <title>UCLA football is filled with out-of-state Bruins. They know how much USC matters</title>
@@ -34,6 +78,7 @@
       <guid isPermaLink="false">cid://https://dailybruin.com/?p=521017</guid>
       <category>Football</category>
       <category>Sports</category>
+      <category>db-story-g</category>
       <pubDate>Thu, 26 Nov 2026 03:31:53 +0000</pubDate>
     </item>    <item>
       <title>On The Steps Ep. 3: Campus protests, tree lighting, student artists and women’s basketball</title>
@@ -120,6 +165,7 @@ The widespread proliferation of generative AI – which began after ChatGPT’s 
       <guid isPermaLink="false">cid://https://dailybruin.com/?p=520995</guid>
       <category>Academics</category>
       <category>The Quad</category>
+      <category>db-story-d1</category>
       <pubDate>Wed, 25 Nov 2026 18:40:28 +0000</pubDate>
     </item>    <item>
       <title>Annual Beat ‘SC rally boosts Bruins’ spirits leading up to rivalry football game</title>
@@ -133,6 +179,7 @@ The widespread proliferation of generative AI – which began after ChatGPT’s 
       <category>A Closer Look</category>
       <category>Campus</category>
       <category>News</category>
+      <category>db-story-b</category>
       <pubDate>Wed, 25 Nov 2026 17:41:05 +0000</pubDate>
     </item>    <item>
       <title>UCLA men’s basketball to open against Saint Mary’s at Rady Children’s Invitational</title>
@@ -160,6 +207,7 @@ Emilio Vazquez Reyes, a fourth-year film and television student has written, pro
       <guid isPermaLink="false">cid://https://dailybruin.com/?p=520972</guid>
       <category>Arts</category>
       <category>Film &#38; TV</category>
+      <category>db-story-d2</category>
       <pubDate>Wed, 25 Nov 2026 05:39:18 +0000</pubDate>
     </item>    <item>
       <title>UCLA women’s tennis falters in NCAA singles, looks to 2027 for team comeback</title>
@@ -174,7 +222,7 @@ Junior Kate Fakih and senior Ahmani Guichard were eliminated in the first round 
       <guid isPermaLink="false">cid://https://dailybruin.com/?p=520966</guid>
       <category>Sports</category>
       <category>Women&#39;s Tennis</category>
-      <category>db-story-b</category>
+      <category>db-story-f1</category>
       <pubDate>Wed, 25 Nov 2026 04:59:48 +0000</pubDate>
     </item>    <item>
       <title>Ezra Frech wins ‘Dancing with the Stars’ season 35</title>
@@ -216,7 +264,7 @@ UCLA men’s tennis concluded its fall season after junior Rudy Quan and fifth-y
       <guid isPermaLink="false">cid://https://dailybruin.com/?p=520960</guid>
       <category>Men&#39;s Tennis</category>
       <category>Sports</category>
-      <category>db-story-g</category>
+      <category>db-story-h</category>
       <pubDate>Wed, 25 Nov 2026 03:03:22 +0000</pubDate>
     </item>    <item>
       <title>What do students, faculty want Becerra to include in higher education plans?</title>
@@ -233,7 +281,7 @@ Becerra’s specific plan for higher education, however, has yet to be released.
       <category>Higher Education</category>
       <category>News</category>
       <category>UC</category>
-      <category>db-story-a</category>
+      <category>db-story-i</category>
       <pubDate>Wed, 25 Nov 2026 01:26:16 +0000</pubDate>
     </item>    <item>
       <title>No. 10 UCLA women’s basketball braves Red Storm, defeats St. John’s 69-56</title>
@@ -249,7 +297,7 @@ If the Bruins could have quit while ahead, they probably would have – right a
       <category>Sports</category>
       <category>Women&#39;s Basketball</category>
       <category>breaking</category>
-      <category>db-story-c1</category>
+      <category>db-story-f2</category>
       <pubDate>Wed, 25 Nov 2026 00:23:46 +0000</pubDate>
     </item>    <item>
       <title>UCLA must prioritize students’ safety, help fund crosswalk at Gayley and Landfair</title>
@@ -349,7 +397,7 @@ Nathan Fielder spent nearly three hours in A24’s “You Can See Everything” 
       <category>A Closer Look</category>
       <category>Campus</category>
       <category>News</category>
-      <category>db-story-f1</category>
+      <category>db-story-j</category>
       <pubDate>Tue, 24 Nov 2026 07:02:39 +0000</pubDate>
     </item>    <item>
       <title>Winner Takes All: The reel rivalry: Film’s fiercest foes face off on the big screen</title>
@@ -7418,447 +7466,6 @@ UCPD recorded 757 unique entries in its Oct. 1-31 daily crime log.</source:markd
       <category>Crime</category>
       <category>News</category>
       <pubDate>Fri, 06 Nov 2026 01:00:14 +0000</pubDate>
-    </item>    <item>
-      <title>Meta pulls down controversial terms of service</title>
-      <link>https://www.niemanlab.org/2026/11/meta-pulls-down-controversial-terms-of-service/</link>
-      <description>
-        <![CDATA[Meta has indefinitely delayed its proposed commercial terms of service, which would have permitted the company to scrape the websites of Meta Business account users. On Thursday, the company took down the preview link to the proposed terms and published an update to its Business Help Center that reads: &#8220;We recently shared that we were...]]>
-      </description>
-      <source:markdown>Meta has indefinitely delayed its proposed commercial terms of service, which would have permitted the company to scrape the websites of Meta Business account users. On Thursday, the company took down the preview link to the proposed terms and published an update to its Business Help Center that reads: “We recently shared that we were...</source:markdown>
-      <dc:creator>Hanaa&#39; Tameez</dc:creator>
-      <enclosure url="https://www.niemanlab.org/images/AdobeStock_858537249_Editorial_Use_Only-990x589.jpeg" length="0" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.niemanlab.org/?p=254971</guid>
-      <category>Featured Art</category>
-      <category>Regular post</category>
-      <category>meta</category>
-      <category>Meta commercial terms</category>
-      <category>scraping</category>
-      <category>terms of service</category>
-      <pubDate>Thu, 05 Nov 2026 23:27:49 +0000</pubDate>
-    </item>    <item>
-      <title>Football bests Michigan State, remains undefeated</title>
-      <link>https://dailybruin.com/2026/11/05/football-bests-michigan-state-remains-undefeated/</link>
-      <description>
-        <![CDATA[No. 9 UCLA football took down Michigan State 28-10 on Oct. 24 at the Rose Bowl in the Bruins&#8217; homecoming game. 
-        Filmed and edited by Victoria Marchetti Edited by Milo Misher Executive producers: Max Davis-Housefield, Nina Ali and Nora Gallagher]]>
-      </description>
-      <source:markdown>No. 9 UCLA football took down Michigan State 28-10 on Oct. 24 at the Rose Bowl in the Bruins’ homecoming game.
-Filmed and edited by Victoria Marchetti Edited by Milo Misher Executive producers: Max Davis-Housefield, Nina Ali and Nora Gallagher</source:markdown>
-      <dc:creator>Victoria Marchetti</dc:creator>
-      <guid isPermaLink="false">cid://https://dailybruin.com/?p=519222</guid>
-      <category>Video</category>
-      <category>db-story-m1</category>
-      <pubDate>Thu, 05 Nov 2026 21:23:14 +0000</pubDate>
-    </item>    <item>
-      <title>With “Bimbo University,” Nikita Redkar leans into femininity to explain the news</title>
-      <link>https://www.niemanlab.org/2026/11/with-bimbo-university-nikita-redkar-leans-into-femininity-to-explain-the-news/</link>
-      <description>
-        <![CDATA[For Nikita Redkar, a big part of filming a video is putting together an outfit. In a July video about youth-led protests in India, the 33-year-old is walking around New York City explaining how movements grow when people with opposing views come together on the things they do agree on. She&#8217;s wearing a white tube...]]>
-      </description>
-      <source:markdown>For Nikita Redkar, a big part of filming a video is putting together an outfit. In a July video about youth-led protests in India, the 33-year-old is walking around New York City explaining how movements grow when people with opposing views come together on the things they do agree on. She’s wearing a white tube...</source:markdown>
-      <dc:creator>Hanaa&#39; Tameez</dc:creator>
-      <enclosure url="https://www.niemanlab.org/images/Nikita-Redkar-990x660.png" length="0" type="image/png" />
-      <guid isPermaLink="false">cid://https://www.niemanlab.org/?p=254919</guid>
-      <category>Featured Art</category>
-      <category>Regular post</category>
-      <category>CoR</category>
-      <category>creators of record</category>
-      <category>news creators</category>
-      <category>news influencers</category>
-      <category>Nikita Redkar</category>
-      <category>nikitadumptruck</category>
-      <pubDate>Thu, 05 Nov 2026 21:03:35 +0000</pubDate>
-    </item>    <item>
-      <title>The Onion’s new plan to market its print newspaper: sponsoring a bowl game</title>
-      <link>https://www.niemanlab.org/2026/11/the-onions-new-plan-to-market-its-print-newspaper-sponsoring-a-bowl-game/</link>
-      <description>
-        <![CDATA[College football already has an Orange Bowl, a Peach Bowl, and a Citrus Bowl, so on its face, there&#8217;s nothing outlandish about the concept of an Onion Bowl. But this matchup wouldn&#8217;t be titled to evoke some locale&#8217;s bumper crop, à la the Famous Idaho Potato Bowl. Instead it would market &#8220;America’s Finest News Source,&#8221;...]]>
-      </description>
-      <source:markdown>College football already has an Orange Bowl, a Peach Bowl, and a Citrus Bowl, so on its face, there’s nothing outlandish about the concept of an Onion Bowl. But this matchup wouldn’t be titled to evoke some locale’s bumper crop, à la the Famous Idaho Potato Bowl. Instead it would market “America’s Finest News Source,”...</source:markdown>
-      <dc:creator>Joshua Benton</dc:creator>
-      <enclosure url="https://www.niemanlab.org/images/Superdome_night-cc-1-990x468.jpg" length="0" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.niemanlab.org/?p=254917</guid>
-      <category>Link post</category>
-      <category>Alex Jones</category>
-      <category>Ben Collins</category>
-      <category>bowl games</category>
-      <category>college football</category>
-      <category>New Orleans Bowl</category>
-      <category>The Onion</category>
-      <pubDate>Thu, 05 Nov 2026 20:39:06 +0000</pubDate>
-    </item>    <item>
-      <title>Nithya Raman wins LA mayoral race, ousts incumbent Karen Bass</title>
-      <link>https://dailybruin.com/2026/11/05/nithya-raman-wins-la-mayoral-race-ousts-incumbent-karen-bass/</link>
-      <description>
-        <![CDATA[Nithya Raman will serve as Los Angeles’ next mayor.&#160;
-        Raman, who received 52.1% of the vote, challenged incumbent Karen Bass, who earned 47.9% of the vote as of Thursday morning, according to the Associated Press.]]>
-      </description>
-      <source:markdown>Nithya Raman will serve as Los Angeles’ next mayor.
-Raman, who received 52.1% of the vote, challenged incumbent Karen Bass, who earned 47.9% of the vote as of Thursday morning, according to the Associated Press.</source:markdown>
-      <dc:creator>Julian Duaybis</dc:creator>
-      <guid isPermaLink="false">cid://https://dailybruin.com/?p=519223</guid>
-      <category>Los Angeles</category>
-      <category>News</category>
-      <category>Ballot Breakdown | 2026 Midterm Elections</category>
-      <category>breaking</category>
-      <category>db-story-c1</category>
-      <pubDate>Thu, 05 Nov 2026 20:11:46 +0000</pubDate>
-    </item>    <item>
-      <title>Majo Aguilar comparte mensaje con estudiantes de CSUN antes de su debut en The Soraya, con mariachi y banda.</title>
-      <link>https://sundial.csun.edu/225195/espanol/majo-aguilar-comparte-mensaje-con-estudiantes-de-csun-antes-de-su-debut-en-the-soraya-con-mariachi-y-banda/</link>
-      <description>
-        <![CDATA[Con un escenario repleto, la cantante mexicana Majo Aguilar debutó en The Soraya con un espectáculo de gran calidad musical, en el que el mariachi y la banda fueron protagonistas...]]>
-      </description>
-      <source:markdown>Con un escenario repleto, la cantante mexicana Majo Aguilar debutó en The Soraya con un espectáculo de gran calidad musical, en el que el mariachi y la banda fueron protagonistas...</source:markdown>
-      <dc:creator>Ariadna Sánchez, Spanish-language Editor</dc:creator>
-      <guid isPermaLink="false">cid://https://sundial.csun.edu/?p=225195</guid>
-      <category>Sundial En Español</category>
-      <pubDate>Thu, 05 Nov 2026 18:30:49 +0000</pubDate>
-    </item>    <item>
-      <title>Nithya Raman elected mayor of Los Angeles</title>
-      <link>https://dailytrojan.com/2026/11/05/nithya-raman-elected-mayor/</link>
-      <description>
-        <![CDATA[<p>Nithya Raman, current city councilmember for District 4, beat incumbent Karen Bass Tuesday night.</p>
-        <p>The post <a href="https://dailytrojan.com/2026/11/05/nithya-raman-elected-mayor/">Nithya Raman elected mayor of Los Angeles</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <source:markdown>Nithya Raman, current city councilmember for District 4, beat incumbent Karen Bass Tuesday night.
-
-The post [Nithya Raman elected mayor of Los Angeles](https://dailytrojan.com/2026/11/05/nithya-raman-elected-mayor/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
-      <dc:creator>Lizzy Liautaud</dc:creator>
-      <guid isPermaLink="false">cid://https://dailytrojan.com/?p=263557</guid>
-      <category>Featured</category>
-      <category>Los Angeles</category>
-      <category>News</category>
-      <category>News Sub-Main Feature</category>
-      <category>Politics</category>
-      <category>david-rendon</category>
-      <category>fall-2026</category>
-      <category>karen-bass</category>
-      <category>los-angeles</category>
-      <category>mayoral-race</category>
-      <category>midterm-elections-2026</category>
-      <category>news</category>
-      <category>nicholas-corral</category>
-      <category>nithya-raman</category>
-      <category>politics</category>
-      <pubDate>Thu, 05 Nov 2026 17:00:06 +0000</pubDate>
-    </item>    <item>
-      <title>Patrick’s Playbook: ‘Is it casual now?’ The art of dating for fun has been lost</title>
-      <link>https://dailybruin.com/2026/11/05/patricks-playbook-is-it-causal-now-the-art-of-dating-for-fun-has-been-lost/</link>
-      <description>
-        <![CDATA[“Patrick’s Playbook” is a dating column created by Patrick Woodham, an Opinion columnist and fourth-year African American studies student. In it, he writes about issues related to dating and his own experiences with romance as a UCLA student.]]>
-      </description>
-      <source:markdown>“Patrick’s Playbook” is a dating column created by Patrick Woodham, an Opinion columnist and fourth-year African American studies student. In it, he writes about issues related to dating and his own experiences with romance as a UCLA student.</source:markdown>
-      <dc:creator>Patrick Woodham</dc:creator>
-      <guid isPermaLink="false">cid://https://dailybruin.com/?p=519215</guid>
-      <category>Opinion</category>
-      <category>Opinion Columns</category>
-      <category>db-story-d1</category>
-      <category>db-story-op</category>
-      <pubDate>Thu, 05 Nov 2026 09:34:51 +0000</pubDate>
-    </item>    <item>
-      <title>Student protests at UCLA prompt UCPD presence. Clavicular’s was met with nothing</title>
-      <link>https://dailybruin.com/2026/11/05/student-protests-at-ucla-prompt-ucpd-presence-claviculars-was-met-with-nothing/</link>
-      <description>
-        <![CDATA[<em>This post was updated Nov. 5 at 4:33 p.m.</em>
-        Terrifying men are multiplying.
-        Politicians amass sexual assault allegations at staggering speeds while influencers reinforce the manosphere &#8211; an echo chamber of online content championing hypermasculinity &#8211; daily.]]>
-      </description>
-      <source:markdown>_This post was updated Nov. 5 at 4:33 p.m._
-Terrifying men are multiplying.
-Politicians amass sexual assault allegations at staggering speeds while influencers reinforce the manosphere – an echo chamber of online content championing hypermasculinity – daily.</source:markdown>
-      <dc:creator>Nora Gallagher</dc:creator>
-      <guid isPermaLink="false">cid://https://dailybruin.com/?p=519210</guid>
-      <category>Opinion</category>
-      <category>Opinion Columns</category>
-      <category>db-story-c2</category>
-      <category>db-story-op</category>
-      <pubDate>Thu, 05 Nov 2026 09:07:36 +0000</pubDate>
-    </item>    <item>
-      <title>Astrid Scholte’s ‘Fallen Beauty’ fails to paint a dynamic portrait</title>
-      <link>https://dailytrojan.com/2026/11/05/astrid-scholtes-fallen-beauty-fails-to-paint-a-dynamic-portrait/</link>
-      <description>
-        <![CDATA[<p>Despite its lush language, the young adult novel “Fallen Beauty” promised way more than it could deliver.</p>
-        <p>The post <a href="https://dailytrojan.com/2026/11/05/astrid-scholtes-fallen-beauty-fails-to-paint-a-dynamic-portrait/">Astrid Scholte’s ‘Fallen Beauty’ fails to paint a dynamic portrait</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <source:markdown>Despite its lush language, the young adult novel “Fallen Beauty” promised way more than it could deliver.
-
-The post [Astrid Scholte’s ‘Fallen Beauty’ fails to paint a dynamic portrait](https://dailytrojan.com/2026/11/05/astrid-scholtes-fallen-beauty-fails-to-paint-a-dynamic-portrait/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
-      <dc:creator>Sophia Kang</dc:creator>
-      <guid isPermaLink="false">cid://https://dailytrojan.com/?p=263492</guid>
-      <category>Arts &#38; Entertainment</category>
-      <category>Literature</category>
-      <category>Reviews</category>
-      <category>a&#38;e</category>
-      <category>astrid-scholte</category>
-      <category>fall-2026</category>
-      <category>fallen-beauty</category>
-      <category>nicole-figueroa</category>
-      <pubDate>Thu, 05 Nov 2026 08:00:44 +0000</pubDate>
-    </item>    <item>
-      <title>Trojans reflect on midterm election results</title>
-      <link>https://dailytrojan.com/2026/11/05/trojans-reflect-on-midterm-election-results/</link>
-      <description>
-        <![CDATA[<p>On Tuesday, Angelenos voted for governor, mayor, local officials and propositions.</p>
-        <p>The post <a href="https://dailytrojan.com/2026/11/05/trojans-reflect-on-midterm-election-results/">Trojans reflect on midterm election results</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <source:markdown>On Tuesday, Angelenos voted for governor, mayor, local officials and propositions.
-
-The post [Trojans reflect on midterm election results](https://dailytrojan.com/2026/11/05/trojans-reflect-on-midterm-election-results/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
-      <dc:creator>Lizzy Liautaud</dc:creator>
-      <guid isPermaLink="false">cid://https://dailytrojan.com/?p=263462</guid>
-      <category>News</category>
-      <category>News Main Feature</category>
-      <category>adrian-jao</category>
-      <category>election</category>
-      <category>fall-2026</category>
-      <category>midterm elections</category>
-      <category>midterm-elections-2026</category>
-      <category>naomi-sedwick</category>
-      <category>news</category>
-      <category>politics</category>
-      <pubDate>Thu, 05 Nov 2026 08:00:43 +0000</pubDate>
-    </item>    <item>
-      <title>Students, faculty diverge on AI approaches in higher education</title>
-      <link>https://dailytrojan.com/2026/11/05/students-faculty-diverge-on-ai-approaches-in-higher-education/</link>
-      <description>
-        <![CDATA[<p>The post <a href="https://dailytrojan.com/2026/11/05/students-faculty-diverge-on-ai-approaches-in-higher-education/">Students, faculty diverge on AI approaches in higher education</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <source:markdown>The post [Students, faculty diverge on AI approaches in higher education](https://dailytrojan.com/2026/11/05/students-faculty-diverge-on-ai-approaches-in-higher-education/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
-      <dc:creator>Lizzy Liautaud</dc:creator>
-      <guid isPermaLink="false">cid://https://dailytrojan.com/?p=263449</guid>
-      <category>News</category>
-      <category>News Sub-Main Feature</category>
-      <category>ai</category>
-      <category>ai-initiative</category>
-      <category>fall-2026</category>
-      <category>kiyomi-miura</category>
-      <category>luis-ochea</category>
-      <category>news</category>
-      <pubDate>Thu, 05 Nov 2026 08:00:36 +0000</pubDate>
-    </item>    <item>
-      <title>USC women’s volleyball looks to snap three-game losing streak against Maryland</title>
-      <link>https://dailytrojan.com/2026/11/05/usc-womens-volleyball-looks-to-snap-three-game-losing-streak-against-maryland/</link>
-      <description>
-        <![CDATA[<p>The Trojans look to reverse their Big Ten woes against the Terrapins.</p>
-        <p>The post <a href="https://dailytrojan.com/2026/11/05/usc-womens-volleyball-looks-to-snap-three-game-losing-streak-against-maryland/">USC women’s volleyball looks to snap three-game losing streak against Maryland</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <source:markdown>The Trojans look to reverse their Big Ten woes against the Terrapins.
-
-The post [USC women’s volleyball looks to snap three-game losing streak against Maryland](https://dailytrojan.com/2026/11/05/usc-womens-volleyball-looks-to-snap-three-game-losing-streak-against-maryland/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
-      <dc:creator>Bennett Christofferson</dc:creator>
-      <guid isPermaLink="false">cid://https://dailytrojan.com/?p=263482</guid>
-      <category>Sports</category>
-      <category>Sports Main Feature</category>
-      <category>Volleyball</category>
-      <category>fall-26</category>
-      <category>luke-seruma</category>
-      <category>sandip-maharaj</category>
-      <category>sports</category>
-      <category>womens-volleyball</category>
-      <pubDate>Thu, 05 Nov 2026 08:00:34 +0000</pubDate>
-    </item>    <item>
-      <title>Shopping for university is shopping for an identity</title>
-      <link>https://dailytrojan.com/2026/11/05/shopping-for-university-is-shopping-for-an-identity/</link>
-      <description>
-        <![CDATA[<p>Belonging has become something students feel they need to purchase. </p>
-        <p>The post <a href="https://dailytrojan.com/2026/11/05/shopping-for-university-is-shopping-for-an-identity/">Shopping for university is shopping for an identity</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <source:markdown>Belonging has become something students feel they need to purchase.
-
-The post [Shopping for university is shopping for an identity](https://dailytrojan.com/2026/11/05/shopping-for-university-is-shopping-for-an-identity/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
-      <dc:creator>Charlotte Dekle</dc:creator>
-      <guid isPermaLink="false">cid://https://dailytrojan.com/?p=263479</guid>
-      <category>Opinion</category>
-      <category>Opinion General</category>
-      <category>fall-2026</category>
-      <category>krystal-rose-uduma</category>
-      <category>opinion</category>
-      <category>rachel-gonzalez</category>
-      <category>university-shopping</category>
-      <pubDate>Thu, 05 Nov 2026 08:00:32 +0000</pubDate>
-    </item>    <item>
-      <title>Growing up with a DJ dad is great</title>
-      <link>https://dailytrojan.com/2026/11/05/growing-up-with-a-dj-dad-is-great/</link>
-      <description>
-        <![CDATA[<p>A complicated mix of genres is necessary for anyone who actually loves music.</p>
-        <p>The post <a href="https://dailytrojan.com/2026/11/05/growing-up-with-a-dj-dad-is-great/">Growing up with a DJ dad is great</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <source:markdown>A complicated mix of genres is necessary for anyone who actually loves music.
-
-The post [Growing up with a DJ dad is great](https://dailytrojan.com/2026/11/05/growing-up-with-a-dj-dad-is-great/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
-      <dc:creator>Sophia Kang</dc:creator>
-      <guid isPermaLink="false">cid://https://dailytrojan.com/?p=263486</guid>
-      <category>Arts &#38; Entertainment</category>
-      <category>Music</category>
-      <category>a&#38;e</category>
-      <category>caleb-olguin</category>
-      <category>dj</category>
-      <category>fall-2026</category>
-      <category>jam-journal</category>
-      <category>music-discovery</category>
-      <pubDate>Thu, 05 Nov 2026 08:00:05 +0000</pubDate>
-    </item>    <item>
-      <title>Ward, Diggs, Johnson look to highlight productive seasons with career milestones</title>
-      <link>https://dailytrojan.com/2026/11/05/ward-diggs-johnson-look-to-highlight-productive-seasons-with-career-milestones/</link>
-      <description>
-        <![CDATA[<p>Another group of players close in on historic marks as Week 9 of the NFL season kicks off.</p>
-        <p>The post <a href="https://dailytrojan.com/2026/11/05/ward-diggs-johnson-look-to-highlight-productive-seasons-with-career-milestones/">Ward, Diggs, Johnson look to highlight productive seasons with career milestones</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <source:markdown>Another group of players close in on historic marks as Week 9 of the NFL season kicks off.
-
-The post [Ward, Diggs, Johnson look to highlight productive seasons with career milestones](https://dailytrojan.com/2026/11/05/ward-diggs-johnson-look-to-highlight-productive-seasons-with-career-milestones/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
-      <dc:creator>Bennett Christofferson</dc:creator>
-      <guid isPermaLink="false">cid://https://dailytrojan.com/?p=263463</guid>
-      <category>Sports</category>
-      <category>Sports Columns</category>
-      <category>fall-2026</category>
-      <category>finn-mcnamara</category>
-      <category>milestone-watch</category>
-      <category>NFL</category>
-      <category>sports</category>
-      <pubDate>Thu, 05 Nov 2026 08:00:01 +0000</pubDate>
-    </item>    <item>
-      <title>USC must provide more career support to international students</title>
-      <link>https://dailytrojan.com/2026/11/05/usc-must-provide-more-career-support-to-international-students/</link>
-      <description>
-        <![CDATA[<p> International students make up 26.1% of USC’s student body but aren’t receiving enough support to face increasingly uncertain work policies.</p>
-        <p>The post <a href="https://dailytrojan.com/2026/11/05/usc-must-provide-more-career-support-to-international-students/">USC must provide more career support to international students</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <source:markdown>International students make up 26.1% of USC’s student body but aren’t receiving enough support to face increasingly uncertain work policies.
-
-The post [USC must provide more career support to international students](https://dailytrojan.com/2026/11/05/usc-must-provide-more-career-support-to-international-students/) appeared first on [Daily Trojan](https://dailytrojan.com).</source:markdown>
-      <dc:creator>Charlotte Dekle</dc:creator>
-      <guid isPermaLink="false">cid://https://dailytrojan.com/?p=263448</guid>
-      <category>Opinion</category>
-      <category>Opinion General</category>
-      <category>Opinion Main Feature</category>
-      <category>alicia-wang</category>
-      <category>fall-2026</category>
-      <category>international-students</category>
-      <category>opinion</category>
-      <category>yiyi-xu</category>
-      <pubDate>Thu, 05 Nov 2026 08:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>UCLA students brave long lines, show political enthusiasm at on-campus vote centers</title>
-      <link>https://dailybruin.com/2026/11/04/ucla-students-brave-long-lines-show-political-enthusiasm-at-on-campus-vote-centers/</link>
-      <description>
-        <![CDATA[<em>This post was updated Nov. 6 at 1:46 a.m.</em>
-        Hundreds of students stood in hour-long lines at UCLA vote centers to cast their ballots in Tuesday’s midterm election.]]>
-      </description>
-      <source:markdown>_This post was updated Nov. 6 at 1:46 a.m._
-Hundreds of students stood in hour-long lines at UCLA vote centers to cast their ballots in Tuesday’s midterm election.</source:markdown>
-      <dc:creator>Sophia Pu</dc:creator>
-      <guid isPermaLink="false">cid://https://dailybruin.com/?p=519204</guid>
-      <category>Campus</category>
-      <category>News</category>
-      <category>db-story-g</category>
-      <pubDate>Thu, 05 Nov 2026 07:13:18 +0000</pubDate>
-    </item>    <item>
-      <title>Lexi Jayde takes a page out of the girlhood diary on ‘The Lover Girl Tour’</title>
-      <link>https://dailybruin.com/2026/11/04/lexi-jayde-takes-a-page-out-of-the-girlhood-diary-on-the-lover-girl-tour/</link>
-      <description>
-        <![CDATA[Lexi Jayde’s last night on tour looked like the inside of a diary. But by the end of the night, the pages began to look familiar.]]>
-      </description>
-      <source:markdown>Lexi Jayde’s last night on tour looked like the inside of a diary. But by the end of the night, the pages began to look familiar.</source:markdown>
-      <dc:creator>Alexis Coffee</dc:creator>
-      <guid isPermaLink="false">cid://https://dailybruin.com/?p=519198</guid>
-      <category>Arts</category>
-      <category>Arts Columns</category>
-      <category>Music</category>
-      <pubDate>Thu, 05 Nov 2026 07:10:42 +0000</pubDate>
-    </item>    <item>
-      <title>He herds. He runs. And he’s a corgi champion. Meet Frank the Tank</title>
-      <link>https://dailybruin.com/2026/11/04/he-herds-he-runs-and-hes-a-corgi-champion-meet-frank-the-tank/</link>
-      <description>
-        <![CDATA[UCLA football remains undefeated.
-        And like coach Bob Chesney, this corgi kicked off his career at the Rose Bowl with a win.
-        Frank the Tank, also known as Frankie, made his debut in front of Bruins with a victory at UCLA’s home matchup against Wisconsin on Oct.]]>
-      </description>
-      <source:markdown>UCLA football remains undefeated.
-And like coach Bob Chesney, this corgi kicked off his career at the Rose Bowl with a win.
-Frank the Tank, also known as Frankie, made his debut in front of Bruins with a victory at UCLA’s home matchup against Wisconsin on Oct.</source:markdown>
-      <dc:creator>Nury Salazar-Ibanez</dc:creator>
-      <guid isPermaLink="false">cid://https://dailybruin.com/?p=519192</guid>
-      <category>Arts</category>
-      <category>Lifestyle</category>
-      <pubDate>Thu, 05 Nov 2026 06:31:55 +0000</pubDate>
-    </item>    <item>
-      <title>NEWSLETTER: How California voters participated in the 2026 election</title>
-      <link>https://sundial.csun.edu/225153/elections/newsletter-how-california-voters-participated-in-the-2026-election/</link>
-      <description>
-        <![CDATA[CSUN students and local voters lined up at the polls on Tuesday, Nov. 3, for the 2026 midterm elections. This election decided the state’s next governor, congressional representation, several ballot...]]>
-      </description>
-      <source:markdown>CSUN students and local voters lined up at the polls on Tuesday, Nov. 3, for the 2026 midterm elections. This election decided the state’s next governor, congressional representation, several ballot...</source:markdown>
-      <dc:creator>Emily  Velasquez, Managing Editor and Co-News Editor</dc:creator>
-      <guid isPermaLink="false">cid://https://sundial.csun.edu/?p=225153</guid>
-      <category>Elections</category>
-      <category>Featured</category>
-      <pubDate>Thu, 05 Nov 2026 05:12:28 +0000</pubDate>
-    </item>    <item>
-      <title>UCLA women’s volleyball seeks to snap losing streak in final 5 away games</title>
-      <link>https://dailybruin.com/2026/11/04/ucla-womens-volleyball-seeks-to-snap-losing-streak-in-final-5-away-games/</link>
-      <description>
-        <![CDATA[November brings a fresh start.
-        The autumn air gets chillier and leaves start to fall, but one thing remains at the forefront of UCLA’s mind – a chance to snap a four-game losing streak.]]>
-      </description>
-      <source:markdown>November brings a fresh start.
-The autumn air gets chillier and leaves start to fall, but one thing remains at the forefront of UCLA’s mind – a chance to snap a four-game losing streak.</source:markdown>
-      <dc:creator>Jaelyn Chung</dc:creator>
-      <guid isPermaLink="false">cid://https://dailybruin.com/?p=519180</guid>
-      <category>Sports</category>
-      <category>Women&#39;s Volleyball</category>
-      <pubDate>Thu, 05 Nov 2026 04:56:04 +0000</pubDate>
-    </item>    <item>
-      <title>UCLA women’s basketball to face Irvine as new roster settles in</title>
-      <link>https://dailybruin.com/2026/11/04/ucla-womens-basketball-to-face-irvine-as-new-roster-settles-in/</link>
-      <description>
-        <![CDATA[Growing pains are a natural part of development.
-        And with a roster still learning to play with each other, these opening games allow the Bruins to work out any mistakes.]]>
-      </description>
-      <source:markdown>Growing pains are a natural part of development.
-And with a roster still learning to play with each other, these opening games allow the Bruins to work out any mistakes.</source:markdown>
-      <dc:creator>Sinclair Richman</dc:creator>
-      <guid isPermaLink="false">cid://https://dailybruin.com/?p=519174</guid>
-      <category>Sports</category>
-      <category>Women&#39;s Basketball</category>
-      <pubDate>Thu, 05 Nov 2026 04:43:22 +0000</pubDate>
-    </item>    <item>
-      <title>Haunted House Made Its Way to Chaminade This Halloween</title>
-      <link>https://thesilversword.com/news/2026/11/04/haunted-house-made-its-way-to-chaminade-this-halloween/</link>
-      <description>
-        <![CDATA[Halloween brought a new kind of spooky to Chaminade University as the Forensic Science Club transformed the campus Crime Scene House into a haunted house on Wednesday, Oct. 28. Visitors experienced four frightening rooms: a cauldron room, a hospital room, a clown room and a cannibal room. Featuring actors and scary props, the rooms were...]]>
-      </description>
-      <source:markdown>Halloween brought a new kind of spooky to Chaminade University as the Forensic Science Club transformed the campus Crime Scene House into a haunted house on Wednesday, Oct. 28. Visitors experienced four frightening rooms: a cauldron room, a hospital room, a clown room and a cannibal room. Featuring actors and scary props, the rooms were...</source:markdown>
-      <dc:creator>By Milan Cordone, Staff Writer</dc:creator>
-      <guid isPermaLink="false">cid://https://thesilversword.com/?p=25812</guid>
-      <category>News</category>
-      <category>Top Stories</category>
-      <pubDate>Thu, 05 Nov 2026 03:03:50 +0000</pubDate>
-    </item>    <item>
-      <title>After Cornell, What Chaminade Resources Are Available To Get Support?</title>
-      <link>https://thesilversword.com/news/2026/11/04/after-cornell-what-chaminade-resources-are-available-to-get-support/</link>
-      <description>
-        <![CDATA[Sexual assault allegations involving a former student and members of Cornell University’s Chi Phi fraternity have drawn attention to how universities respond to reports of sexual misconduct. The allegations at Cornell raise questions relevant to students everywhere, including at Chaminade University of Honolulu. Understanding how Chaminade responds to reports of sexual misconduct can help students...]]>
-      </description>
-      <source:markdown>Sexual assault allegations involving a former student and members of Cornell University’s Chi Phi fraternity have drawn attention to how universities respond to reports of sexual misconduct. The allegations at Cornell raise questions relevant to students everywhere, including at Chaminade University of Honolulu. Understanding how Chaminade responds to reports of sexual misconduct can help students...</source:markdown>
-      <dc:creator>By Maddy Weaver, Staff Writer</dc:creator>
-      <guid isPermaLink="false">cid://https://thesilversword.com/?p=25702</guid>
-      <category>News</category>
-      <category>Top Stories</category>
-      <pubDate>Thu, 05 Nov 2026 02:27:17 +0000</pubDate>
-    </item>    <item>
-      <title>Glow-In-The-Dark Dodgeball Brings Life to Chaminade</title>
-      <link>https://thesilversword.com/news/2026/11/04/glow-in-the-dark-dodgeball-brings-life-to-chaminade/</link>
-      <description>
-        <![CDATA[Rain, glowing dodgeballs, unexpected slips, and plenty of friendly trash talk made for a Halloween night to remember as Chaminade University&#8217;s Student Engagement office hosted its first-ever Monsterball tournament on Wednesday, Oct. 28. Held at Chaminade&#8217;s upper courts from 7 p.m. to 10 p.m., Monsterball (dodgeball with a Halloween twist of glow-in-the-dark balls and black-light...]]>
-      </description>
-      <source:markdown>Rain, glowing dodgeballs, unexpected slips, and plenty of friendly trash talk made for a Halloween night to remember as Chaminade University’s Student Engagement office hosted its first-ever Monsterball tournament on Wednesday, Oct. 28. Held at Chaminade’s upper courts from 7 p.m. to 10 p.m., Monsterball (dodgeball with a Halloween twist of glow-in-the-dark balls and black-light...</source:markdown>
-      <dc:creator>By Shelby Baguio, Staff Writer</dc:creator>
-      <guid isPermaLink="false">cid://https://thesilversword.com/?p=25817</guid>
-      <category>News</category>
-      <category>Top Stories</category>
-      <pubDate>Thu, 05 Nov 2026 02:19:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

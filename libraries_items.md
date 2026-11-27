@@ -1,14 +1,28 @@
 ---
 title: "GLAM"
 description: "Libraries, archives and museums."
-pubDate: Thu, 26 Nov 2026 00:00:00 GMT
+pubDate: Thu, 26 Nov 2026 17:15:23 GMT
 aggregateOf: "libraries.md"
-dateModified: Thu, 26 Nov 2026 14:48:02 GMT
-itemCount: 64
+dateModified: Fri, 27 Nov 2026 14:48:12 GMT
+itemCount: 62
 generator: antenna/0.2.1
 ---
 
 # GLAM
+
+## [Now Available For 22 European Nations: Public Libraries and Information: 2025 Factsheets](https://www.infodocket.com/2026/11/26/public-libraries-and-information-2025-factsheets-now-available-for-22-european-nations/)
+
+via Library Jounral · 2026-11-26
+
+From PL2030: The new edition of the PL2030 Factsheets, built on 2025 data, is out. Each country’s factsheet has two parts: the first presents key data on public libraries, while the second draws on the European Parliament’s Flash Eurobarometer Social Media Survey 2025 to show where people in Europe get their information on social and \[…\]
+
+The post [Now Available For 22 European Nations: Public Libraries and Information: 2025 Factsheets](https://www.infodocket.com/2026/11/26/public-libraries-and-information-2025-factsheets-now-available-for-22-european-nations/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).
+
+## [Working on InvenioRDM Starter Packs](https://blog.front-matter.de/posts/working-on-inveniordm-starter-packs/)
+
+via Front Matter Blog · 2026-11-26
+
+[InvenioRDM](https://inveniordm.docs.cern.ch/) is an open source repository management platform developed by more than 25 organizations coordinated by [CERN](https://home.cern/) and originally developed for [Zenodo](https://zenodo.org). InvenioRDM Starter, [first announced](https://doi.org/10.53731/jxecm-0me48) in June 2024, provides a simple option to get started with InvenioRDM: a prebuilt Docker image and a Docker compose file with reasonable
 
 ## [POSI 2.0 Crossref self-assessment 2026](https://www.crossref.org/blog/posi-2.0-crossref-self-assessment-2026/)
 
@@ -140,7 +154,7 @@ Please let us have any comments or questions; by emailing or discuss on our comm
 
 ## [New Report From Open Knowledge Foundation and Wikimedia Foundation: “Safeguarding the Digital Future: Recognizing Open Knowledge Systems as Critical Digital Infrastructure”](https://www.infodocket.com/2026/11/25/new-report-from-open-knowledge-foundation-safeguarding-the-digital-future-recognizing-open-knowledge-systems-as-critical-digital-infrastructure/)
 
-via Library Jounral · 2026-11-25
+via Library Jounral · 2026-11-25, updated 2026-11-26
 
 From the OKFN and Wikimedia Foundation: This resource was produced by the Open Knowledge Foundation (OKFN) and the Global Advocacy team from the Wikimedia Foundation (WMF) with the aim of influencing public policies around the globe. The policy report calls for governments to formally recognise, and protect eligible OKSs with CDI status.This resource was produced \[…\]
 
@@ -190,7 +204,7 @@ The post [Be Thankful for What You’ve Got](https://scholarlykitchen.sspnet.org
 
 ## [Now Available Online: Proceedings of the Association for Library and Information Science Education (ALISE) Annual Conference, 2026](https://www.infodocket.com/2026/11/22/proceedings-of-the-association-for-library-and-information-science-education-alise-annual-conference-2026-now-available-online/)
 
-via Library Jounral · 2026-11-22, updated 2026-11-25
+via Library Jounral · 2026-11-22, updated 2026-11-26
 
 The Proceedings of the ALISE Annual Conference, 2026 are now available online. Juried Papers (41) A Survey of North American Librarians’ Perceptions of and Experience with Artificial IntelligenceWilhelm Peekhaus (University of Wisconsin-Milwaukee)PDF Dwelling in the Threshold: Productive Liminality in the Design of Inquiry in Libraries and ArchivesDr. Laurie Bonnici (University of Alabama); Rebekah Cowell (University \[…\]
 
@@ -198,7 +212,7 @@ The post [Now Available Online: Proceedings of the Association for Library and I
 
 ## [Research Tools: University of Richmond Distant Viewing Lab Releases DataReel, a New AI Tool for Film Research](https://www.infodocket.com/2026/11/21/research-tools-university-of-richmond-distant-viewing-lab-releases-datareel-a-new-ai-tool-for-film-research/)
 
-via Library Jounral · 2026-11-21, updated 2026-11-25
+via Library Jounral · 2026-11-21, updated 2026-11-26
 
 From the University of Richmond: University of Richmond’s Distant Viewing Lab has released DataReel, a new open access, AI-powered tool that helps researchers analyze films. DataReel uses AI models to automatically capture data from over 2,000 films, presenting it in an interactive, visual format. It measures descriptions of scenes, the characters onscreen, shot length, framing \[…\]
 
@@ -407,7 +421,7 @@ The conversation continues with #Crossref2026 and on our [community forum](https
 
 ## [Before the Paper Goes](https://metaarchivist.substack.com/p/before-the-paper-goes)
 
-via The Meta Archivist blog · 2026-11-19, updated 2026-11-26
+via The Meta Archivist blog · 2026-11-19, updated 2026-11-27
 
 NARA’s new authority spares agencies from rescanning qualifying legacy records, but it can leave them holding the paper for years.
 
@@ -419,7 +433,7 @@ Workshop on Open Citations and Open Scholarly Metadata 2027 (WOOC 2027) 27–28 
 
 ## [Dr. Carla Hayden: “The Future of Libraries is About More Than Books”](https://www.infodocket.com/2026/11/19/dr-carla-hayden-the-future-of-libraries-is-about-more-than-books/)
 
-via Library Jounral · 2026-11-19, updated 2026-11-25
+via Library Jounral · 2026-11-19, updated 2026-11-26
 
 From a New Op/Ed by Dr. Carla Hayden on Time Magazine/Time.com: Historically, libraries have served as a crucial part of the cultural and civic infrastructure of the nation, responding to local needs and bringing the world to people of all ages. However, in many places today, libraries and library workers are under attack. These attacks \[…\]
 
@@ -507,7 +521,7 @@ We welcome comments, suggestions, and challenges to this report and our practice
 
 ## [The Return of the Hit Count in academic AI search? Not Quite.](https://aarontay.substack.com/p/the-return-of-the-hit-count-in-academic)
 
-via Aaron Tay's Musings about Librarianship · 2026-11-18, updated 2026-11-26
+via Aaron Tay's Musings about Librarianship · 2026-11-18, updated 2026-11-27
 
 Why hits shown in hybrid AI search such as JSTOR Dynamic Search or Consensus should not be treated the same as a traditional database Boolean hit count.
 
@@ -541,7 +555,7 @@ Check out all of the Future Knowledge episodes at [https://archive.org/details/f
 
 ## [The Seal and the Machine](https://metaarchivist.substack.com/p/the-seal-and-the-machine)
 
-via The Meta Archivist blog · 2026-11-17, updated 2026-11-26
+via The Meta Archivist blog · 2026-11-17, updated 2026-11-27
 
 From the seals of Prussian archives to the uncertain afterlife of digital trust
 
@@ -555,7 +569,7 @@ The post [How a Town’s Forgotten History Helped Protect Its Drinking Water](ht
 
 ## [AI is Reshaping the Role of Academic Librarians; Elsevier Releases Librarian of the Future Report](https://www.infodocket.com/2026/11/17/ai-is-reshaping-the-role-of-academic-librarians-elsevier-releases-librarian-of-the-future-report/)
 
-via Library Jounral · 2026-11-17, updated 2026-11-25
+via Library Jounral · 2026-11-17, updated 2026-11-26
 
 From an Elsevier News Release: Today, Elsevier shares findings from its global Librarian of the Future research, revealing how artificial intelligence (AI) and changing research needs are reshaping the role of academic librarians. Drawing on insights from 1,100 academic librarians across 88 countries, alongside interviews with researchers and academic leaders, the report reveals a profession \[…\]
 
@@ -579,7 +593,7 @@ The post [ARL Daily Intelligence (November 16–19)](https://www.arl.org/daily-i
 
 ## [Report: “New Kickstarter Campaign Rethinks E-Book Ownership and Digital Lending”](https://www.infodocket.com/2026/11/16/report-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/)
 
-via Library Jounral · 2026-11-16, updated 2026-11-25
+via Library Jounral · 2026-11-16, updated 2026-11-26
 
 From TechCrunch: Here’s a big promise: A new Kickstarter campaign aims to usher in the “return of the human internet.” That’s the tagline of a crowdfunding campaign for The Phoenix Project, an initiative from the online culture and commentary magazine Flaming Hydra. If you back The Phoenix Project, you’re supporting three things — a one-off \[…\]
 
@@ -603,13 +617,13 @@ Today I am announcing [defter](https://crates.io/crates/defter), a new Zotero sy
 
 ## [Appraising Permanence, Sustaining the Promise](https://metaarchivist.substack.com/p/appraising-permanence-sustaining)
 
-via The Meta Archivist blog · 2026-11-15, updated 2026-11-26
+via The Meta Archivist blog · 2026-11-15, updated 2026-11-27
 
 What NARA’s appraisal process reveals about the distance between deciding that federal records should survive and ensuring that they can.
 
 ## [Report From Utah: Voters Just Ousted The Republican Representative Behind The State’s Sweeping School Book Ban Law](https://www.infodocket.com/2026/11/15/report-from-utah-voters-just-ousted-the-republican-representative-behind-the-states-sweeping-school-book-ban-law/)
 
-via Library Jounral · 2026-11-15, updated 2026-11-25
+via Library Jounral · 2026-11-15, updated 2026-11-26
 
 From The Salt Lake Tribune: The Republican representative behind Utah’s statewide school book ban law was ousted last week. Rep. Ken Ivory, R-West Jordan, lost his race against Democrat Drew Howells, who secured 58.11% of the vote as of Friday morning. Ivory received about 41.89%. He acknowledged the defeat in a recent Facebook post. Two \[…\]
 
@@ -617,7 +631,7 @@ The post [Report From Utah: Voters Just Ousted The Republican Representative Beh
 
 ## [Johns Hopkins University: Sheridan Libraries Launches New Digital Collections Site](https://www.infodocket.com/2026/11/14/johns-hopkins-university-sheridan-libraries-launches-new-digital-collections-site/)
 
-via Library Jounral · 2026-11-14, updated 2026-11-25
+via Library Jounral · 2026-11-14, updated 2026-11-26
 
 From JHSL: Now available at the click of a mouse: rare maps of Maryland dating as far back as the sixteenth century, the oral history of the Hopkins surgeon who implanted the first automatic defibrillator, records associated with Chinese indentured laborers in Cuba from 1855 to 1895, and much more. Johns Hopkins Sheridan Libraries is \[…\]
 
@@ -639,7 +653,7 @@ The post [Not About the Library](https://sr.ithaka.org/blog/not-about-the-librar
 
 ## [Schools, Health & Libraries Broadband (SHLB) Coalition Files Reply Comments Highlighting Overwhelming Support for E-Rate in FCC Record](https://www.infodocket.com/2026/11/13/schools-health-libraries-broadband-shlb-coalition-files-reply-comments-highlighting-overwhelming-support-for-e-rate-in-fcc-record/)
 
-via Library Jounral · 2026-11-13, updated 2026-11-25
+via Library Jounral · 2026-11-13, updated 2026-11-26
 
 Here’s the Full Text of a SHLB Statement Releases Today: The Schools, Health & Libraries Broadband (SHLB) Coalition filed reply comments with the Federal Communications Commission (FCC) in its review of the E-Rate program, pointing to the overwhelming support for E-Rate in the public record. SHLB’s filing notes that thousands of stakeholders submitted comments in \[…\]
 
@@ -679,7 +693,7 @@ The post [Transfer Explorer Comes to Ohio](https://sr.ithaka.org/blog/transfer-e
 
 ## [Who Will Keep the Archive?](https://metaarchivist.substack.com/p/who-will-keep-the-archive)
 
-via The Meta Archivist blog · 2026-11-12, updated 2026-11-26
+via The Meta Archivist blog · 2026-11-12, updated 2026-11-27
 
 From Copenhagen to the DPC's workforce research, a question about the human infrastructure of preservation.
 
@@ -717,7 +731,7 @@ The post [Guest Post — The Hidden Work of Integrating Scholarly Publishing](ht
 
 ## [Who Decides What the AI Sees?​](https://aarontay.substack.com/p/who-decides-what-the-ai-sees)
 
-via Aaron Tay's Musings about Librarianship · 2026-11-11, updated 2026-11-26
+via Aaron Tay's Musings about Librarianship · 2026-11-11, updated 2026-11-27
 
 The Third Discovery War: From Federated Search and Central Indexes to MCP and Agentic AI​
 
@@ -801,7 +815,7 @@ The post [Guest Post — We Have Enough Declarations. Now What? A Critique from 
 
 ## [The Context We Carry Forward](https://metaarchivist.substack.com/p/the-context-we-carry-forward)
 
-via The Meta Archivist blog · 2026-11-08, updated 2026-11-26
+via The Meta Archivist blog · 2026-11-08, updated 2026-11-27
 
 Remembering Stephen Clarke, one year on, and the unfinished possibilities of epidata
 
@@ -820,34 +834,4 @@ via Scholarly Kitchen · 2026-11-06, updated 2026-11-22
 Did you miss us at Charleston this week? Never fear, here are some highlights from our TSK panel discussion with three of our esteemed guest bloggers.
 
 The post [Ask the Technology Providers: Our Charleston Conversation](https://scholarlykitchen.sspnet.org/2026/11/06/ask-the-technology-providers-our-charleston-conversation/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).
-
-## [On the Road with RADS: Building One Front Door for Data Management and Sharing Support at the University of Nebraska–Lincoln](https://www.arl.org/blog/on-the-road-with-rads-building-one-front-door-for-data-management-and-sharing-support-at-the-university-of-nebraska-lincoln/)
-
-via Association of Research Libraries News · 2026-11-05, updated 2026-11-24
-
-Last Updated on November 5, 2026, 2:05 pm ET Leslie Delserone is research data services and science librarian, University of Nebraska–Lincoln. Alicia Hofelich Mohr, PhD, is data management research associate,...
-
-The post [On the Road with RADS: Building One Front Door for Data Management and Sharing Support at the University of Nebraska–Lincoln](https://www.arl.org/blog/on-the-road-with-rads-building-one-front-door-for-data-management-and-sharing-support-at-the-university-of-nebraska-lincoln/) appeared first on [Association of Research Libraries](https://www.arl.org).
-
-## [Rogue Scholar no longer registers concept DOIs for each post](https://blog.front-matter.de/posts/rogue-scholar-no-longer-registers-concept-dois-for-each-post/)
-
-via Front Matter Blog · 2026-11-05, updated 2026-11-26
-
-Starting this Monday November 3rd the Rogue Scholar science blog archive stopped registering concept DOIs for new blog posts, i.e. two DOIs for each post.
-
-## [CBC Report: University Libraries are Being Swarmed by AI Bots, Putting Public Access at Risk](https://www.infodocket.com/2026/11/05/cbc-report-libraries-are-being-swarmed-by-ai-bots-putting-public-access-at-risk/)
-
-via Library Jounral · 2026-11-05, updated 2026-11-16
-
-From the CBC: University libraries say entire collections are being knocked offline by persistent streams of unruly bots trying to access their archives, which include academic, historical and government documents. “They’re just out there on the internet, just bombarding us with trying to grab up as much material as possible,” Jill Strykowski, cataloguing and government documents \[…\]
-
-The post [CBC Report: University Libraries are Being Swarmed by AI Bots, Putting Public Access at Risk](https://www.infodocket.com/2026/11/05/cbc-report-libraries-are-being-swarmed-by-ai-bots-putting-public-access-at-risk/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).
-
-## [Guest Post — What AI Can’t Learn About Peer Review… Because Nobody Can Explain It](https://scholarlykitchen.sspnet.org/2026/11/05/guest-post-what-ai-cant-learn-about-peer-review-because-nobody-can-explain-it/)
-
-via Scholarly Kitchen · 2026-11-05, updated 2026-11-22
-
-What might be lost if we automate a task without first fully understanding the expertise behind it?
-
-The post [Guest Post — What AI Can’t Learn About Peer Review… Because Nobody Can Explain It](https://scholarlykitchen.sspnet.org/2026/11/05/guest-post-what-ai-cant-learn-about-peer-review-because-nobody-can-explain-it/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).
 
