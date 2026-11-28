@@ -1,14 +1,20 @@
 ---
 title: "GLAM"
 description: "Libraries, archives and museums."
-pubDate: Thu, 26 Nov 2026 17:15:23 GMT
+pubDate: Fri, 27 Nov 2026 15:02:21 GMT
 aggregateOf: "libraries.md"
-dateModified: Fri, 27 Nov 2026 14:48:12 GMT
+dateModified: Sat, 28 Nov 2026 14:47:07 GMT
 itemCount: 62
 generator: antenna/0.2.1
 ---
 
 # GLAM
+
+## [New Online at the Library of Congress: November 2026](https://blogs.loc.gov/thesignal/2026/11/new-loc-november-2026/)
+
+via Library of Congress · 2026-11-27, updated 2026-11-25
+
+In our November 2026 edition of "New Online at the Library of Congress," we share updates to the Library's digital collections, including new volunteer transcriptions, historical newspapers from Georgia, and documentary materials from a 2024 Community Collections Grant recipient.
 
 ## [Now Available For 22 European Nations: Public Libraries and Information: 2025 Factsheets](https://www.infodocket.com/2026/11/26/public-libraries-and-information-2025-factsheets-now-available-for-22-european-nations/)
 
@@ -174,7 +180,7 @@ For years, I carefully placed books in the right locations on library shelves �
 
 ## [“The job I eventually will have has not been invented yet”: Reflections on Being an IT Specialist and Librarian](https://blogs.loc.gov/thesignal/2026/11/barak-stussman/)
 
-via Library of Congress · 2026-11-24
+via Library of Congress · 2026-11-24, updated 2026-11-25
 
 Today’s guest post is from Barak Stussman, an IT Specialist at the Library of Congress. Barak has worked at the Library of Congress for the past 28 years, supporting both information technology colleagues and librarians. As Barak nears his retirement, he reflects on his background, his unique path at the Library, and on what belonging means to him.
 
@@ -421,7 +427,7 @@ The conversation continues with #Crossref2026 and on our [community forum](https
 
 ## [Before the Paper Goes](https://metaarchivist.substack.com/p/before-the-paper-goes)
 
-via The Meta Archivist blog · 2026-11-19, updated 2026-11-27
+via The Meta Archivist blog · 2026-11-19, updated 2026-11-28
 
 NARA’s new authority spares agencies from rescanning qualifying legacy records, but it can leave them holding the paper for years.
 
@@ -521,7 +527,7 @@ We welcome comments, suggestions, and challenges to this report and our practice
 
 ## [The Return of the Hit Count in academic AI search? Not Quite.](https://aarontay.substack.com/p/the-return-of-the-hit-count-in-academic)
 
-via Aaron Tay's Musings about Librarianship · 2026-11-18, updated 2026-11-27
+via Aaron Tay's Musings about Librarianship · 2026-11-18, updated 2026-11-28
 
 Why hits shown in hybrid AI search such as JSTOR Dynamic Search or Consensus should not be treated the same as a traditional database Boolean hit count.
 
@@ -555,7 +561,7 @@ Check out all of the Future Knowledge episodes at [https://archive.org/details/f
 
 ## [The Seal and the Machine](https://metaarchivist.substack.com/p/the-seal-and-the-machine)
 
-via The Meta Archivist blog · 2026-11-17, updated 2026-11-27
+via The Meta Archivist blog · 2026-11-17, updated 2026-11-28
 
 From the seals of Prussian archives to the uncertain afterlife of digital trust
 
@@ -617,7 +623,7 @@ Today I am announcing [defter](https://crates.io/crates/defter), a new Zotero sy
 
 ## [Appraising Permanence, Sustaining the Promise](https://metaarchivist.substack.com/p/appraising-permanence-sustaining)
 
-via The Meta Archivist blog · 2026-11-15, updated 2026-11-27
+via The Meta Archivist blog · 2026-11-15, updated 2026-11-28
 
 What NARA’s appraisal process reveals about the distance between deciding that federal records should survive and ensuring that they can.
 
@@ -693,7 +699,7 @@ The post [Transfer Explorer Comes to Ohio](https://sr.ithaka.org/blog/transfer-e
 
 ## [Who Will Keep the Archive?](https://metaarchivist.substack.com/p/who-will-keep-the-archive)
 
-via The Meta Archivist blog · 2026-11-12, updated 2026-11-27
+via The Meta Archivist blog · 2026-11-12, updated 2026-11-28
 
 From Copenhagen to the DPC's workforce research, a question about the human infrastructure of preservation.
 
@@ -731,7 +737,7 @@ The post [Guest Post — The Hidden Work of Integrating Scholarly Publishing](ht
 
 ## [Who Decides What the AI Sees?​](https://aarontay.substack.com/p/who-decides-what-the-ai-sees)
 
-via Aaron Tay's Musings about Librarianship · 2026-11-11, updated 2026-11-27
+via Aaron Tay's Musings about Librarianship · 2026-11-11, updated 2026-11-28
 
 The Third Discovery War: From Federated Search and Central Indexes to MCP and Agentic AI​
 
@@ -815,7 +821,7 @@ The post [Guest Post — We Have Enough Declarations. Now What? A Critique from 
 
 ## [The Context We Carry Forward](https://metaarchivist.substack.com/p/the-context-we-carry-forward)
 
-via The Meta Archivist blog · 2026-11-08, updated 2026-11-27
+via The Meta Archivist blog · 2026-11-08, updated 2026-11-28
 
 Remembering Stephen Clarke, one year on, and the unfinished possibilities of epidata
 
@@ -826,12 +832,4 @@ via Library Jounral · 2026-11-08, updated 2026-11-17
 The full text article linked below was recently published by Royal Society Open Science. Title Large Language Model Developments Authors Philip Treleaven University College London Edward Sharkey University College London Sara Craciun University College London Source Royal Society Open Science (2026) 13 (11): 252099 DOI: 10.1098/rsos.252099 Abstract Large language models (LLMs) are generative artificial intelligence \[…\]
 
 The post [New Journal Article: Large Language Model Developments](https://www.infodocket.com/2026/11/08/new-journal-article-large-language-model-developments/) appeared first on [Library Journal infoDOCKET](https://www.infodocket.com).
-
-## [Ask the Technology Providers: Our Charleston Conversation](https://scholarlykitchen.sspnet.org/2026/11/06/ask-the-technology-providers-our-charleston-conversation/)
-
-via Scholarly Kitchen · 2026-11-06, updated 2026-11-22
-
-Did you miss us at Charleston this week? Never fear, here are some highlights from our TSK panel discussion with three of our esteemed guest bloggers.
-
-The post [Ask the Technology Providers: Our Charleston Conversation](https://scholarlykitchen.sspnet.org/2026/11/06/ask-the-technology-providers-our-charleston-conversation/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).
 

@@ -1,14 +1,32 @@
 ---
 title: "Retro"
 description: "Computer history and vintage systems."
-pubDate: Fri, 27 Nov 2026 14:00:38 GMT
+pubDate: Sat, 28 Nov 2026 06:21:00 GMT
 aggregateOf: "retro_computing.md"
-dateModified: Fri, 27 Nov 2026 14:46:27 GMT
-itemCount: 48
+dateModified: Sat, 28 Nov 2026 14:45:22 GMT
+itemCount: 49
 generator: antenna/0.2.1
 ---
 
 # Retro
+
+## [November 2026 News Summary](http://www.iconbar.com/comments/rss/news2417.html)
+
+via Icon Bar, RISC OS News · 2026-11-28, updated 2026-11-07
+
+Some things we noticed this month. What did you see?
+
+## [b.log 2026/11/27 - Expression evaluation, Cheeseburger, Mars madness.](https://heyrick.eu/blog/entry/20261127)
+
+via Richard Murray's blog · 2026-11-27
+
+Expression evaluation, Cheeseburger, Mars madness.
+
+## [This Week on The Analog Antiquarian](https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/)
+
+via Digital Antiquarian · 2026-11-27
+
+The Rhythm of Life
 
 ## [Desk updated and rehomed](https://www.riscository.com/2026/desk-updated-rehomed/)
 
@@ -18,7 +36,7 @@ RISC OS developers who use Desk for their projects can now update their bookmark
 
 ## [b.log 2026/11/26 - Dear oh dear...](https://heyrick.eu/blog/entry/20261126)
 
-via Richard Murray's blog · 2026-11-26
+via Richard Murray's blog · 2026-11-26, updated 2026-11-27
 
 Dear oh dear...
 
@@ -38,13 +56,13 @@ via C64 OS Blog · 2026-11-24
 
 ## [b.log 2026/11/22 - Windy and rainy, Tea v0.04.](https://heyrick.eu/blog/entry/20261122)
 
-via Richard Murray's blog · 2026-11-22, updated 2026-11-26
+via Richard Murray's blog · 2026-11-22, updated 2026-11-27
 
 Windy and rainy, Tea v0.04.
 
 ## [Announcing the TIB 2026 Advent Calendar](http://www.iconbar.com/comments/rss/news2429.html)
 
-via Icon Bar, RISC OS News · 2026-11-22, updated 2026-11-05
+via Icon Bar, RISC OS News · 2026-11-22, updated 2026-11-07
 
 For the last few years, TIB has run an advent calender over the festive season. It's shown up lots of exciting things going on in the RISC OS world and even managed a few exclusive reveals...
 
@@ -56,25 +74,25 @@ NetCD is a DOS device driver that simulates a CD-ROM or a DVD-ROM. This makes it
 
 ## [b.log 2026/11/21 - Not working, TeaBASIC v0.03, A Time War doesn't make sense.](https://heyrick.eu/blog/entry/20261121)
 
-via Richard Murray's blog · 2026-11-21, updated 2026-11-26
+via Richard Murray's blog · 2026-11-21, updated 2026-11-27
 
 Not working, TeaBASIC v0.03, A Time War doesn't make sense.
 
 ## [RISC OS open source developments weekly update (21st November 2026)](http://www.iconbar.com/comments/rss/news2428.html)
 
-via Icon Bar, RISC OS News · 2026-11-21, updated 2026-11-05
+via Icon Bar, RISC OS News · 2026-11-21, updated 2026-11-07
 
 Here are some of the things that I spotted which happened in the RISC OS Open source world this week...
 
 ## [b.log 2026/11/20 - A bigger better Arduino.](https://heyrick.eu/blog/entry/20261120)
 
-via Richard Murray's blog · 2026-11-20, updated 2026-11-26
+via Richard Murray's blog · 2026-11-20, updated 2026-11-27
 
 A bigger better Arduino.
 
 ## [Diablo II](https://www.filfre.net/2026/11/diablo-ii/)
 
-via Digital Antiquarian · 2026-11-20, updated 2026-11-22
+via Digital Antiquarian · 2026-11-20, updated 2026-11-27
 
 This article tells part of the story of the Diablo series.  \[Diablo II\] is a progression with a character where you go and defeat enemies and get rewarded. There’s overriding goals as well as lots of sub-goals. There’s many things to do, yet it’s very simple. It’s very straightforward. There’s no, “What am I supposed \[…\]
 
@@ -86,7 +104,7 @@ I have been using TASM32 for a very long time. A simple DOS based assembler, cal
 
 ## [b.log 2026/11/19 - I am SO done with this shit. \[NSFW\]](https://heyrick.eu/blog/entry/20261119)
 
-via Richard Murray's blog · 2026-11-19, updated 2026-11-26
+via Richard Murray's blog · 2026-11-19, updated 2026-11-27
 
 I am SO done with this shit. \[NSFW\]
 
@@ -98,31 +116,31 @@ This is my story about a first and a second version of KB-9 or, as it is officia
 
 ## [System76 Announces the New Thelio Prime Desktop](http://www.linux-magazine.com/Online/News/System76-Announces-the-New-Thelio-Prime-Desktop)
 
-via Linux Magazine · 2026-11-19, updated 2026-11-27
+via Linux Magazine · 2026-11-19, updated 2026-11-28
 
 The makers of the Thelio desktop line and Pop!\_OS have released a powerful small form factor PC.
 
 ## [A Must See KDE Documentary](http://www.linux-magazine.com/Online/News/A-Must-See-KDE-Documentary)
 
-via Linux Magazine · 2026-11-18, updated 2026-11-27
+via Linux Magazine · 2026-11-18, updated 2026-11-28
 
 It doesn't matter what desktop environment you prefer, this KDE documentary should top your list of things to watch.
 
 ## [WROCC Newsletter Volume 43:03 reviewed](http://www.iconbar.com/comments/rss/news2425.html)
 
-via Icon Bar, RISC OS News · 2026-11-17, updated 2026-11-05
+via Icon Bar, RISC OS News · 2026-11-17, updated 2026-11-07
 
 WROCC subscribers should have received the November edition of WROCC's mini magazine.
 
 ## [ROUGOL November 2026 meeting - RISC OS 10](http://www.iconbar.com/comments/rss/news2426.html)
 
-via Icon Bar, RISC OS News · 2026-11-17, updated 2026-11-05
+via Icon Bar, RISC OS News · 2026-11-17, updated 2026-11-07
 
 Rougols's November talk (appropriately enough for 42 people) was a double bill from Andrew Rawnsley and Richard Brown doing a deep dive into RISC OS 10.
 
 ## [b.log 2026/11/16 - TeaBASIC v0.02](https://heyrick.eu/blog/entry/20261116)
 
-via Richard Murray's blog · 2026-11-16, updated 2026-11-26
+via Richard Murray's blog · 2026-11-16, updated 2026-11-27
 
 TeaBASIC v0.02
 
@@ -134,13 +152,13 @@ I acquired a VIDEO PLUS card. A video card for AIM 65 KIM or SYM-1. This is one 
 
 ## [b.log 2026/11/15 - TeaBASIC and NTCs, The Frenchest thing ever, Storage prices, Interlude, I bought a sewing machine!](https://heyrick.eu/blog/entry/20261115)
 
-via Richard Murray's blog · 2026-11-15, updated 2026-11-26
+via Richard Murray's blog · 2026-11-15, updated 2026-11-27
 
 TeaBASIC and NTCs, The Frenchest thing ever, Storage prices, Interlude, I bought a sewing machine!
 
 ## [RISC OS open source developments weekly update (14th November 2026)](http://www.iconbar.com/comments/rss/news2424.html)
 
-via Icon Bar, RISC OS News · 2026-11-15, updated 2026-11-05
+via Icon Bar, RISC OS News · 2026-11-15, updated 2026-11-07
 
 Here are some of the things that I spotted which happened in the RISC OS Open source world this week...
 
@@ -152,37 +170,31 @@ The RISC OS London Show took place only a few weeks ago, and the big news that c
 
 ## [b.log 2026/11/13 - AI can be useful.](https://heyrick.eu/blog/entry/20261113)
 
-via Richard Murray's blog · 2026-11-13, updated 2026-11-26
+via Richard Murray's blog · 2026-11-13, updated 2026-11-27
 
 AI can be useful.
 
-## [This Week on The Analog Antiquarian](https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/)
-
-via Digital Antiquarian · 2026-11-13, updated 2026-11-22
-
-Opus 7: Titus Andronicus
-
 ## [Rougol November 2026 meeting on monday - RISC OS 10 deep dive](http://www.iconbar.com/comments/rss/news2416.html)
 
-via Icon Bar, RISC OS News · 2026-11-13, updated 2026-11-05
+via Icon Bar, RISC OS News · 2026-11-13, updated 2026-11-07
 
 The November 2026 Rougol meeting is on Monday.
 
 ## [b.log 2026/11/12 - Jitters.](https://heyrick.eu/blog/entry/20261112)
 
-via Richard Murray's blog · 2026-11-12, updated 2026-11-26
+via Richard Murray's blog · 2026-11-12, updated 2026-11-27
 
 Jitters.
 
 ## [New KORA Linux Distro to Harness the Power of Local AI](http://www.linux-magazine.com/Online/News/New-KORA-Linux-Distro-to-Harness-the-Power-of-Local-AI)
 
-via Linux Magazine · 2026-11-12, updated 2026-11-27
+via Linux Magazine · 2026-11-12, updated 2026-11-28
 
 The development team behind CyanogenMod, Android, and Playtron unveils KORA, a Linux distribution built specifically for AI nerds.
 
 ## [Chris Hall will be talking ARM 64 at tonights Bristol RISC OS User Group](http://www.iconbar.com/comments/rss/news2422.html)
 
-via Icon Bar, RISC OS News · 2026-11-12, updated 2026-11-05
+via Icon Bar, RISC OS News · 2026-11-12, updated 2026-11-07
 
 If you are Bristol based and free tonight, Chris Hall is the featured speaker at the Bristol RISC OS User Group November meeting.
 
@@ -200,19 +212,19 @@ With the aid of the source of Microchess and some detective work, started severa
 
 ## [Fireside developer chat on saturday night](http://www.iconbar.com/comments/rss/news2386.html)
 
-via Icon Bar, RISC OS News · 2026-11-12, updated 2026-11-05
+via Icon Bar, RISC OS News · 2026-11-12, updated 2026-11-07
 
 If you were inspired by the recent London Show (or looking to catch-up on what you missed), the next developer fireside chat is saturday night (14th November). It is aimed at anyone interested in a very informal event online aimed at RISC OS developers of all levels.
 
 ## [Epic Games Targets Linux for New Launcher](http://www.linux-magazine.com/Online/News/Epic-Games-Targets-Linux-for-New-Launcher)
 
-via Linux Magazine · 2026-11-11, updated 2026-11-27
+via Linux Magazine · 2026-11-11, updated 2026-11-28
 
 The Epic Games new launcher is still in preview, but it looks to land on several Linux distributions.
 
 ## [b.log 2026/11/11 - Stupid, What is this?, gcd.bas fails on actual BASIC, TeaBASIC progresses.](https://heyrick.eu/blog/entry/20261111)
 
-via Richard Murray's blog · 2026-11-11, updated 2026-11-26
+via Richard Murray's blog · 2026-11-11, updated 2026-11-27
 
 Stupid, What is this?, gcd.bas fails on actual BASIC, TeaBASIC progresses.
 
@@ -461,7 +473,7 @@ How a childhood memory, a forgotten online service, and two years of reverse eng
 
 ## [b.log 2026/11/08 - Dreary, Initial Public Offering.](https://heyrick.eu/blog/entry/20261108)
 
-via Richard Murray's blog · 2026-11-08, updated 2026-11-26
+via Richard Murray's blog · 2026-11-08, updated 2026-11-27
 
 Dreary, Initial Public Offering.
 
@@ -479,19 +491,13 @@ Back in September, RISCOSitory published the first article in a new series – a
 
 ## [RISC OS Open source developments weekly update (7th November 2026)](http://www.iconbar.com/comments/rss/news2421.html)
 
-via Icon Bar, RISC OS News · 2026-11-07, updated 2026-11-05
+via Icon Bar, RISC OS News · 2026-11-07
 
 Here are some of the things that I spotted which happened in the RISC OS Open source world this week...
 
 ## [b.log 2026/11/07 - Linguine, TeaBASIC, Texas, One last tweak.](https://heyrick.eu/blog/entry/20261107)
 
-via Richard Murray's blog · 2026-11-07, updated 2026-11-26
+via Richard Murray's blog · 2026-11-07, updated 2026-11-27
 
 Linguine, TeaBASIC, Texas, One last tweak.
-
-## [Deus Ex](https://www.filfre.net/2026/11/deus-ex/)
-
-via Digital Antiquarian · 2026-11-06, updated 2026-11-22
-
-This article tells part of the story of Warren Spector. A slight shift of focus, and the future could still turn out like Deus Ex after all… — Deus Ex lead writer Sheldon Pacotti, speaking in 2014 The reviews that greeted Ion Storm’s Deus Ex upon its release in June of 2000 ranged along a continuum \[…\]
 

@@ -1,14 +1,50 @@
 ---
 title: "STEM"
 description: "Science and technology news and blogs."
-pubDate: Fri, 27 Nov 2026 14:03:00 GMT
+pubDate: Sat, 28 Nov 2026 09:24:00 GMT
 aggregateOf: "science_and_technology.md"
-dateModified: Fri, 27 Nov 2026 14:45:45 GMT
-itemCount: 405
+dateModified: Sat, 28 Nov 2026 14:44:39 GMT
+itemCount: 397
 generator: antenna/0.2.1
 ---
 
 # STEM
+
+## [Quantum: 'Five years, that's all we got…'](https://www.theregister.com/hpc/2026/11/28/quantum-five-years-thats-all-we-got/5312034)
+
+via The Register (UK I.T. News) · 2026-11-28
+
+Futuristic computing had a major presence in Chicago supercomputer show this year
+
+## [Unkernel and Trynix just transported computing to 2035](https://www.theregister.com/software/2026/11/28/unkernel-and-trynix-just-transported-computing-to-2035/5313200)
+
+via The Register (UK I.T. News) · 2026-11-28
+
+A fun demo has the potential to flip computing inside-out
+
+## [APOD: 2026 November 28 – Apollo 17 VIP Site Anaglyph](https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph/)
+
+via NASA breaking news · 2026-11-28
+
+APOD Science APOD APOD: 2026 November 28 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Apollo 17 VIP \[…\]
+
+## [Smartphone shipments face another bleak year before modest 2028 comeback](https://www.theregister.com/personal-tech/2026/11/27/smartphone-shipments-face-another-bleak-year-before-modest-2028-comeback/5312580)
+
+via The Register (UK I.T. News) · 2026-11-27
+
+Counterpoint forecasts another 6% shipment drop in 2027, with volumes still below 2025 levels by decade's end
+
+## [Artemis III Astronaut Andre Douglas Visits VAB](https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/)
+
+via NASA breaking news · 2026-11-27, updated 2026-11-28
+
+NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 17, 2026. During Artemis III, four RS-25 engines will power the SLS (Space Launch System) rocket core stage to send the Orion \[…\]
+
+## [NASA’s NG-25 Mission to Launch Pioneering Space Crops Research](https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/)
+
+via NASA breaking news · 2026-11-27, updated 2026-11-28
+
+NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency. Investigations from NASA’s Biological and Physical Sciences Division will advance research that benefits life on Earth and future exploration, expanding knowledge of space crops and human health. Groundbreaking \[…\]
 
 ## [Bill for Birmingham's Oracle debacle reaches £128M](https://www.theregister.com/public-sector/2026/11/27/bill-for-birminghams-oracle-debacle-reaches-128m/5312563)
 
@@ -26,7 +62,7 @@ Ministers point to project-level environmental checks as petition passes 39,000 
 
 via The Register (UK I.T. News) · 2026-11-27
 
-Black horse down (again)
+Black horse down (again), this time on Black Friday
 
 ## [Europe's AI sovereignty push: Lots of cloud, not much silver lining](https://www.theregister.com/ai-and-ml/2026/11/27/europes-ai-sovereignty-push-lots-of-cloud-not-much-silver-lining/5312120)
 
@@ -82,13 +118,13 @@ Emulating Android, too, but offers just two handsets and one tablet
 
 ## [APOD: 2026 November 27 – The Moon Watchers](https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/)
 
-via NASA breaking news · 2026-11-27
+via NASA breaking news · 2026-11-27, updated 2026-11-28
 
 APOD Science APOD APOD: 2026 November 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Moon Watchers \[…\]
 
 ## [Shivelyuch Socked In](https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/)
 
-via NASA breaking news · 2026-11-27
+via NASA breaking news · 2026-11-27, updated 2026-11-28
 
 A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.
 
@@ -196,13 +232,13 @@ ICO reprimand follows failings that risked wrongful detention, with a temporary 
 
 ## [APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis](https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/)
 
-via NASA breaking news · 2026-11-26, updated 2026-11-27
+via NASA breaking news · 2026-11-26, updated 2026-11-28
 
 APOD Science APOD APOD: 2026 November 26 – Eye… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Eye in \[…\]
 
 ## [Seeking Refuge on Resolution Island](https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/)
 
-via NASA breaking news · 2026-11-26, updated 2026-11-27
+via NASA breaking news · 2026-11-26, updated 2026-11-28
 
 New Zealanders have long envisioned the island as a predator-free zone for native birds, but swimming stoats have shown a resolve of their own.
 
@@ -232,7 +268,7 @@ And intruders don't always need to exploit bugs to break in
 
 ## [NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement](https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/)
 
-via NASA breaking news · 2026-11-25, updated 2026-11-27
+via NASA breaking news · 2026-11-25, updated 2026-11-28
 
 How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreement, this one signed between The Boeing Company and GRACE \[…\]
 
@@ -250,7 +286,7 @@ Chip design software leans heavily into 3D packaging and multi-node assemblies
 
 ## [NASA Eyes Crop Candidates for Future Menus](https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/)
 
-via NASA breaking news · 2026-11-25, updated 2026-11-27
+via NASA breaking news · 2026-11-25, updated 2026-11-28
 
 As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving.    Recent testing points to strawberries, \[…\]
 
@@ -282,7 +318,7 @@ PC shipments set to fall further thanks to the memory shortage, but high-margin 
 
 ## [Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard](https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/)
 
-via NASA breaking news · 2026-11-25, updated 2026-11-27
+via NASA breaking news · 2026-11-25, updated 2026-11-28
 
 Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant dialogue we had after the space shuttle Challenger disaster,” \[…\]
 
@@ -954,7 +990,7 @@ PLUS: Lenovo's infra group finally makes big profit; Indonesia’s glaciers are 
 
 ## [An ordinary evening on the Brooklyn Bridge](https://publicai.substack.com/p/an-ordinary-evening-on-the-brooklyn)
 
-via Public AI blog · 2026-11-22, updated 2026-11-27
+via Public AI blog · 2026-11-22, updated 2026-11-28
 
 On Levent Alpöge and Claude's announced proof of the Riemann Hypothesis.
 
@@ -2513,90 +2549,4 @@ NASA is looking for the explorers who will help write the next chapter of human 
 via NASA breaking news · 2026-11-07, updated 2026-11-09
 
 APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. De Gerlache-Kocher Massif \[…\]
-
-## [Where Did Stonehenge's Mysterious, Six-Ton Altar Stone Really Come From? Geologists Rule Out the Scottish Hypothesis as the Search Deepens](https://www.smithsonianmag.com/smart-news/where-did-stonehenges-mysterious-six-ton-altar-stone-really-come-from-geologists-rule-out-the-scottish-hypothesis-as-search-deepens-180989833/)
-
-via Smithsonian Magazine · 2026-11-06, updated 2026-11-25
-
-A comprehensive investigation of the sandstone megalith’s "geological fingerprint" suggests it did not originate in northeast Scotland, as a surprising study concluded in 2024, sending scientists back into the field to track down the enigmatic slab's origins
-
-## [Stolen During the Nazi Occupation of Orléans, France, This Painting Was Rediscovered After 86 Years With Help From Wild West-Inspired 'Wanted' Posters](https://www.smithsonianmag.com/smart-news/stolen-during-the-nazi-occupation-of-orleans-france-this-painting-was-rediscovered-after-86-years-with-help-from-wild-west-inspired-wanted-posters-180989839/)
-
-via Smithsonian Magazine · 2026-11-06, updated 2026-11-25
-
-The Musée des Beaux-Arts d'Orléans is on a mission to retrieve hundreds of missing artworks from its collections. It recently tracked down a 17th-century painting by Dutch artist Willem Cornelisz Duyster right before it went to auction in Switzerland
-
-## [This Wooden Wardrobe in Pompeii Remained Sealed for Nearly 2,000 Years. Archaeologists Just Opened It for the First Time](https://www.smithsonianmag.com/smart-news/this-wooden-wardrobe-in-pompeii-remained-sealed-for-nearly-2000-years-archaeologists-just-opened-it-for-the-first-time-180989831/)
-
-via Smithsonian Magazine · 2026-11-06, updated 2026-11-25
-
-The ancient cabinet held a pair of tweezers, a perfume bottle, an incense burner and ceramic vessels. But the most impressive find was a necklace sporting at least 24 amulets shaped like deities, plants and body parts
-
-## [For Centuries, Cave Visitors Walked Right by 280 Ice Age Engravings. The Newly Discovered Rock Art Is Rewriting Catalonia's Prehistory](https://www.smithsonianmag.com/smart-news/for-centuries-visitors-walked-right-by-280-ice-age-engravings-in-a-catalan-cave-the-newly-discovered-rock-art-is-rewriting-catalonias-prehistory-180989827/)
-
-via Smithsonian Magazine · 2026-11-06, updated 2026-11-25
-
-Prior to the discovery, rock art in northeastern Spain was "very scarce," one archaeologist says. The drawings show dozens of animals, as well as more abstract shapes, which are distinct from other Paleolithic styles
-
-## [Strange Gas in Mars' Atmosphere Hints the Red Planet Is Still Volcanically Active—and Points to Places to Search for Alien Life](https://www.smithsonianmag.com/smart-news/strange-gas-in-mars-atmosphere-hints-the-red-planet-is-still-volcanically-active-and-points-to-places-to-search-for-alien-life-180989817/)
-
-via Smithsonian Magazine · 2026-11-06, updated 2026-11-25
-
-Cracks along a giant Martian volcano, possibly above a magma chamber, might be spewing magmatic gases into the atmosphere, according to a new study. The fissures might host environments akin to Earth's hydrothermal vents, where life on our planet may have emerged
-
-## [M30’s Sparkling Stars](https://www.nasa.gov/image-article/m30s-sparkling-stars/)
-
-via NASA breaking news · 2026-11-06, updated 2026-11-09
-
-This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about \[…\]
-
-## [Supercomputing Tech Demo Schedule](https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/)
-
-via NASA breaking news · 2026-11-06, updated 2026-11-09
-
-Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates in Fortran 2028Tom Clune11:00 AM Type-safe Templates in Fortran 2028Tom Clune1:00PM Mixing and Matching and Multiple Versions, Oh My!Brad Richardson1:30 PMMixing and Matching and Multiple \[…\]
-
-## [How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks](https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/)
-
-via NVidia blog · 2026-11-06, updated 2026-11-15
-
-A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless \[…\]
-
-## [These Moths Use Their Genitals to Fend Off Bats—but Not in the Way You Think. They Emit Ultrasound to Scramble the Predators' Sonar](https://www.smithsonianmag.com/smart-news/these-moths-use-their-genitals-to-fend-off-bats-but-not-in-the-way-you-think-they-emit-ultrasound-to-scramble-the-predators-sonar-180989819/)
-
-via Smithsonian Magazine · 2026-11-06, updated 2026-11-25
-
-New research suggests male hawkmoths have three distinct anti-bat, ultrasound-producing systems. These may have evolved independently up to seven times between 5 million and 30 million years ago
-
-## [A Strange Quantum Theorem Has Killed Einstein’s Reality](https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/)
-
-via Quanta Magazine · 2026-11-06, updated 2026-11-12
-
-Albert Einstein fought to save our everyday notion of reality from the strangeness of quantum mechanics. But those who set out to aid him keep poking holes in his argument.
-
-The post [A Strange Quantum Theorem Has Killed Einstein’s Reality](https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)
-
-## [The Arctic Polar Vortex Is Collapsing Earlier in the Season Than Ever Documented—but We Don't Know How It'll Affect Global Weather](https://www.smithsonianmag.com/smart-news/the-arctic-polar-vortex-is-collapsing-earlier-in-the-season-than-ever-documented-but-we-dont-know-how-itll-affect-global-weather-180989818/)
-
-via Smithsonian Magazine · 2026-11-06, updated 2026-11-25
-
-A previous polar vortex disruption contributed to the Great Texas Freeze in 2021. This time, the ongoing "super" El Niño might offset some of the collapse's influence
-
-## [Michelangelo Used These Custom, Multi-Headed Brushes While Painting 'The Last Judgment' to Replicate His Intricate Sculpting Techniques](https://www.smithsonianmag.com/smart-news/michelangelo-used-these-custom-multi-headed-brushes-while-painting-the-last-judgment-to-replicate-his-intricate-sculpting-techniques-180989816/)
-
-via Smithsonian Magazine · 2026-11-06, updated 2026-11-25
-
-While restoring the Sistine Chapel, researchers discovered wavy groupings of brushstrokes which indicated that the artist used the special brushes to create a distinct crosshatching pattern
-
-## [APOD: 2026 November 6 – A Farewell to Swift](https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/)
-
-via NASA breaking news · 2026-11-06, updated 2026-11-08
-
-APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Farewell \[…\]
-
-## [Taking a Gander at Utah’s Goosenecks](https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/)
-
-via NASA breaking news · 2026-11-06, updated 2026-11-08
-
-The San Juan River has carved deep, improbably curvy meanders into the desert landscape.
 

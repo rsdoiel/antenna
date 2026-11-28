@@ -1,49 +1,90 @@
 ---
 title: "Student Paper"
 description: "Student journalism and the fourth estate."
-pubDate: Fri, 27 Nov 2026 04:45:29 GMT
+pubDate: Sat, 28 Nov 2026 08:42:46 GMT
 aggregateOf: "journalism.md"
-dateModified: Fri, 27 Nov 2026 14:48:43 GMT
-itemCount: 442
+dateModified: Sat, 28 Nov 2026 14:47:36 GMT
+itemCount: 413
 generator: antenna/0.2.1
 ---
 
 # Student Paper
 
+## [UCLA men’s soccer to face No. 1 overall seed Georgetown in NCAA third round](https://dailybruin.com/2026/11/28/ucla-mens-soccer-to-face-no-1-overall-seed-georgetown-in-ncaa-third-round/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-28
+
+Junior midfielder Albert Ruiz’s free kick with 60 seconds remaining in regulation to defeat Omaha 2-1 completed one of the NCAA men’s soccer tournament’s most improbable comebacks.
+
+## [UCLA football looks to ring Victory Bell at home in crosstown showdown against USC](https://dailybruin.com/2026/11/28/ucla-football-looks-to-ring-victory-bell-at-home-in-crosstown-showdown-against-usc/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-28
+
+A bell ringing through the Pasadena night won’t just signal a merry appearance for the holiday-spirited Bruins on Saturday.
+In this case, No. 9 UCLA (10-1, 7-1 Big Ten) hosts crosstown rival No.
+
+## [UCLA women’s soccer’s NCAA run ends in second round with penalty loss to Kansas](https://dailybruin.com/2026/11/27/ucla-womens-soccers-ncaa-run-ends-in-second-round-with-penalty-loss-to-kansas/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-28
+
+_This post was updated Nov. 27 at 4:49 p.m._
+With less than 10 minutes left on the game clock, it looked like the Bruins were going to be shut out to end the 2026 campaign.
+But after one reversed score, back-to-back goals from junior forward Kara Croone, a pair of scoreless overtimes and a final deciding penalty kick, Friday afternoon’s game was anything but a quiet exit.
+After conceding a goal almost immediately after kickoff, No.
+
+## [UCLA men’s basketball beats Georgetown, places 3rd at Rady Children’s Invitational](https://dailybruin.com/2026/11/27/ucla-mens-basketball-beats-georgetown-places-3rd-at-rady-childrens-invitational/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-27, updated 2026-11-28
+
+_This post was updated Nov. 27 at 2:38 p.m._
+SAN DIEGO – After suffering his first loss of the season on Thanksgiving, coach Mick Cronin made it clear that his older players were the team’s weakest links on defense.
+
+## [UCLA sends cease and desist letter to ASUCLA over trademark licensing rights](https://dailybruin.com/2026/11/27/ucla-sends-cease-and-desist-letter-to-asucla-over-trademark-licensing-rights/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-27, updated 2026-11-28
+
+UCLA sent a cease and desist letter to ASUCLA amid a monthslong battle over the trademark licensing rights of the university’s logo, a UCLA spokesperson confirmed Wednesday.
+
+## [Regents hear public comment on testing, immigration enforcement concerns](https://dailybruin.com/2026/11/27/regents-hear-public-comment-on-testing-immigration-enforcement-concerns/)
+
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-27, updated 2026-11-28
+
+Students urged the UC Board of Regents at its November meeting to reject the proposed reinstatement of standardized testing in undergraduate admissions, confront alleged discrimination and address healthcare disparities.
+
 ## [Gallery: From taxidermy to telescopes, this UCLA science fair explores the universe](https://dailybruin.com/2026/11/26/gallery-from-taxidermy-to-telescopes-this-ucla-science-fair-explores-the-universe/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-27
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-27, updated 2026-11-28
 
 Parasites were ogled at and science was celebrated at the Nov. 8 Exploring Your Universe science fair.
 Over 16,000 registered for the 18th installment of the event, a day of science demonstrations and experiments led by more than 600 student volunteers in the Court of Sciences.
 
 ## [Saint Mary’s serves UCLA men’s basketball first loss of the season on Thanksgiving](https://dailybruin.com/2026/11/26/saint-marys-serves-ucla-mens-basketball-first-loss-of-the-season-on-thanksgiving/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-27
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-27, updated 2026-11-28
 
-_This post was updated Nov. 26 at 5:29 p.m._
-On Thursday afternoon in San Diego, the Gaels were serving it up.
+_This post was updated Nov. 27 at 11:22 a.m._
+SAN DIEGO – On Thursday afternoon in San Diego, the Gaels were serving it up.
 But instead of platters of mashed potatoes and stuffing, they were dishing out triples.
 
 ## [Editorial Cartoon: “Happy Giving Thanks”](https://dailybruin.com/2026/11/26/editorial-cartoon-happy-giving-thanks/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-26, updated 2026-11-27
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-26, updated 2026-11-28
 
 ## [USAC rejects university’s request to remove divestment-related bylaws](https://dailybruin.com/2026/11/25/usac-rejects-universitys-request-to-remove-divestment-related-bylaws/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-26, updated 2026-11-27
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-26, updated 2026-11-28
 
 _This post was updated Nov. 25 at 10:39 p.m._ The Undergraduate Students Association Council voted Tuesday to reject Chancellor Julio Frenk’s request to amend or remove several bylaw provisions related to divestment from companies associated with the Israeli military.
 
 ## [UCLA football is filled with out-of-state Bruins. They know how much USC matters](https://dailybruin.com/2026/11/25/ucla-football-is-filled-with-out-of-state-bruins-they-know-how-much-usc-matters/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-26, updated 2026-11-27
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-26, updated 2026-11-28
 
 For a team helmed by a Kulpmont, Pennsylvania, local, whose top two coordinators are from Massachusetts and Pennsylvania, respectively, and with a roster that is comprised of almost half non-Californians, it is hard to imagine that there is a full understanding of arguably Los Angeles’ most famous rivalry.
 
-## [On The Steps Ep. 3: Campus protests, tree lighting, student artists and women’s basketball](https://dailybruin.com/2026/11/25/on-the-steps-ep-3-campus-protests-tree-lighting-student-artists-and-womens-basketball/)
+## [On the Steps Ep. 3: Students call for investigation into death of Nolan Wells and other stories](https://dailybruin.com/2026/11/25/on-the-steps-ep-3-campus-protests-tree-lighting-student-artists-and-womens-basketball/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-26, updated 2026-11-27
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-26, updated 2026-11-28
 
 This week, protesters called for justice in the death of Nolan Wells, Westwood gathered for the annual tree lighting, students performed at the Bruin Fringe Festival and women’s basketball faced Princeton.
 
@@ -63,46 +104,46 @@ The post [Vandalism reported at UCLA ahead of football game](https://dailytrojan
 
 ## [USC marching band no longer playing rivalry game after members vandalized UCLA campus](https://dailybruin.com/2026/11/25/usc-marching-band-no-longer-playing-rivalry-game-after-members-vandalized-ucla-campus/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-27
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-28
 
 The University of Southern California’s Trojan Marching Band will no longer perform at the annual rivalry football game against UCLA on Saturday, after members of the band vandalized a part of UCLA’s campus, USC President Beong-Soo Kim said in an email to students Wednesday.
 Administrators and marching band leadership decided that the band will not hold its traditional pre-game and halftime performances at the Rose Bowl, Kim said.
 
 ## [Bruin to Bruin: Abbas Khan turns life into a runway with fashion brand House of Abbas](https://dailybruin.com/2026/11/25/bruin-to-bruin-abbas-khan-turns-life-into-a-runway-with-fashion-brand-house-of-abbas/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-27
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-28
 
 Editor’s note: At the time of recording, Abbas Khan was a fourth-year public affairs student at UCLA. Khan graduated in 2026 and is now a first-year graduate student in entrepreneurship and innovation at the University of Southern California.
 
 ## [Harmful or helpful? Here’s what UCLA professors have to say about generative AI](https://dailybruin.com/2026/11/25/harmful-or-helpful-heres-what-ucla-professors-have-to-say-about-generative-ai/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-27
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-28
 
 Seventy-three percent of UCLA’s class of 2025 used generative AI in their academics, according to the university’s senior survey.
 The widespread proliferation of generative AI – which began after ChatGPT’s late 2022 launch – has forced universities to rethink their classroom and academic honesty policies.
 
 ## [Annual Beat ‘SC rally boosts Bruins’ spirits leading up to rivalry football game](https://dailybruin.com/2026/11/25/annual-beat-sc-rally-boosts-bruins-spirits-leading-up-to-rivalry-football-game/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-27
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-28
 
 More than 1,000 UCLA students, alumni and community members turned Wilson Plaza blue and gold at the Student Alumni Association’s annual Beat ‘SC Rally on Monday.
 
 ## [UCLA men’s basketball to open against Saint Mary’s at Rady Children’s Invitational](https://dailybruin.com/2026/11/24/ucla-mens-basketball-to-open-against-saint-marys-at-rady-childrens-invitational/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-27
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-28
 
 In the last 25 NCAA tournaments, a West Coast team has appeared in 16 Elite Eights, nearly a third of Final Fours, and five national championship games.
 
 ## [Emilio Vazquez Reyes reframes Latino stories through a new lens](https://dailybruin.com/2026/11/24/emilio-vazquez-reyes-reframes-latino-stories-through-a-new-lens/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-27
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-28
 
 This UCLA student filmmaker wants to give Latino stories a new frame in Hollywood.
 Emilio Vazquez Reyes, a fourth-year film and television student has written, produced and directed short films including “Toy Planes Don’t Crash” and his debut “Honeybee,” which received the Grand Jury Award at the SXSW Film Festival in 2022.
 
 ## [UCLA women’s tennis falters in NCAA singles, looks to 2027 for team comeback](https://dailybruin.com/2026/11/24/ucla-womens-tennis-falters-in-ncaa-singles-looks-to-2027-for-team-comeback/)
 
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-27
+via The Daily Bruin (UCLA Student Newspaper) · 2026-11-25, updated 2026-11-28
 
 Two Bruins fell to end fall competition.
 Junior Kate Fakih and senior Ahmani Guichard were eliminated in the first round of the NCAA Singles Championship at the Dan Magill Tennis Complex in Athens, Georgia, on Tuesday, concluding UCLA women’s tennis’s fall slate.
@@ -1091,7 +1132,7 @@ Every summer, a new group of teenagers at Manchester United signs what the club 
 
 ## [New restaurant for meat lovers opens in Eagle Rock](https://www.theoccidentalnews.com/community/2026/11/18/new-restaurant-for-meat-lovers-opens-in-eagle-rock/2919512)
 
-via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-19
+via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-27
 
 Brothers Pablo and Luciano Alcorta opened Carnivorous at 1632 Colorado Blvd. June 6. The restaurant serves Argentinian-style dishes including burgers, protein bowls and choripán (an Argentinian sandwich), according to Luciano Alcorta. Nearly 20 years after opening their first restaurant Malbec, their new restaurant embodies the mission statement: “Pure fuel. No waste. In meat we trust.” \[…\]
 
@@ -1099,7 +1140,7 @@ The post [New restaurant for meat lovers opens in Eagle Rock](https://www.theocc
 
 ## [‘Hamlet’ explores timeless ‘questions of human existence’ Nov. 19 – 22](https://www.theoccidentalnews.com/culture/2026/11/18/hamlet-explores-timeless-questions-of-human-existence-nov-19-22/2919435)
 
-via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-19
+via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-27
 
 Set not in Middle Ages Europe, but 100 years from now in post-apocalyptic LA, Occidental’s theater & performance studies department aims to take Shakespeare’s “Hamlet” into a future without modern conveniences. Department chair and professor of theater Will Power is directing Occidental’s production of the Shakespearean classic in Keck Theater Nov. 19 to Nov. 22. According to \[…\]
 
@@ -1126,7 +1167,7 @@ A UCLA alumnus is suing the UC Board of Regents after UCPD allegedly disclosed h
 
 ## [Students and staff raise concerns over Fizz](https://www.theoccidentalnews.com/news/2026/11/18/students-and-staff-raise-concerns-over-fizz/2919441)
 
-via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-19
+via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-27
 
 A task force is being organized to address cyberbullying at Occidental after students raised concerns over harassment and offensive speech on the anonymous social media platform Fizz. Fizz is an app on which users post anonymously to forums dedicated to their schools. Servers exist at more than 800 colleges across the U.S., and every account \[…\]
 
@@ -1134,7 +1175,7 @@ The post [Students and staff raise concerns over Fizz](https://www.theoccidental
 
 ## [Lola Deli set to open Dec. 1 in the place of Bagel + Slice](https://www.theoccidentalnews.com/community/2026/11/18/lola-deli-set-to-open-dec-1-in-the-place-of-bagel-slice/2919513)
 
-via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-19
+via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-27
 
 Lola Deli will open Dec. 1 on the corner of York Boulevard and Armadale Avenue, where Bagel + Slice was located until its closing Oct. 31. According to the owner of the new shop, Orlando Rodriguez, a team of people at Occidental are working to transform the space and get ready to open in the \[…\]
 
@@ -1142,7 +1183,7 @@ The post [Lola Deli set to open Dec. 1 in the place of Bagel + Slice](https://ww
 
 ## [New cafe opens in ghost kitchen, tenant raises concerns](https://www.theoccidentalnews.com/community/2026/11/18/new-cafe-opens-in-ghost-kitchen-tenant-raises-concerns/2919508)
 
-via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-19
+via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-27
 
 Benny’s Cafe opened Nov. 15 inside a location owned by Partake Collective, a ghost kitchen at 3716 Eagle Rock Blvd. Partake has two locations, the Glassell Park site and its original in Long Beach, according to the company’s website. Adam Carrillo, Partake’s CEO, said the company rents kitchens to new food businesses to lower the \[…\]
 
@@ -1150,7 +1191,7 @@ The post [New cafe opens in ghost kitchen, tenant raises concerns](https://www.t
 
 ## [Eagle Rock pie contest brings neighbors together through baking](https://www.theoccidentalnews.com/community/2026/11/18/eagle-rock-pie-contest-brings-neighbors-together-through-baking/2919504)
 
-via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-19
+via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-27
 
 The Eagle Rock Pie Baking Contest at the Center for the Arts Eagle Rock  welcomed community members for an afternoon of pie tasting, friendly competition and neighborhood connection Nov. 14. The contest featured several categories, including savory, sweet, vegan, gluten-free, store-bought and baked by kids. Attendees also had the opportunity to participate in the people’s \[…\]
 
@@ -1158,7 +1199,7 @@ The post [Eagle Rock pie contest brings neighbors together through baking](https
 
 ## [Metro’s BRT project prompts discussions over tree removal](https://www.theoccidentalnews.com/community/2026/11/18/metros-brt-project-prompts-discussions-over-tree-removal/2919506)
 
-via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-19
+via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-27
 
 The LA County Metropolitan Transportation Authority (LA Metro) will oversee the removal of 14 trees on West Colorado Boulevard to further the plans of the North Hollywood to Pasadena Bus Rapid Transit (BRT) project. A meeting on this topic will be held by LA Metro Nov. 19 at Occidental in the Herrick Interfaith Center. According \[…\]
 
@@ -1166,7 +1207,7 @@ The post [Metro’s BRT project prompts discussions over tree removal](https://w
 
 ## [Gianmarco Soresi makes Tigers roar at ‘Laugh Your Class Off’](https://www.theoccidentalnews.com/culture/2026/11/18/gianmarco-soresi-makes-tigers-roar-at-laugh-your-class-off/2919437)
 
-via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-19
+via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-27
 
 Stand-up comedian Gianmarco Soresi has built a national following over the past few years with sets that range from family dysfunction to politics and post-grad job anxiety. Ahead of his debut Netflix special next month, the New York-based comic has been touring clubs and universities across the country. Soresi stopped at Occidental College Nov. 11, performing a show in Thorne Hall \[…\]
 
@@ -1174,7 +1215,7 @@ The post [Gianmarco Soresi makes Tigers roar at ‘Laugh Your Class Off’](http
 
 ## [‘Self-coached’ Occidental dance team learns to ‘win on their own’](https://www.theoccidentalnews.com/sports/2026/11/18/self-coached-occidental-dance-team-learns-to-win-on-their-own/2919474)
 
-via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-19
+via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-27
 
 During the 2025–2026 season, at their first-ever competition, the Occidental dance team placed third at the United Spirit Association (USA) Collegiate Championships. The team competed in the 4 Year College Pom Div II/III Finals, which consisted of two days of competition Feb. 21–22 in Anaheim, CA. The team is hoping to expand their spring 2027 \[…\]
 
@@ -1182,7 +1223,7 @@ The post [‘Self-coached’ Occidental dance team learns to ‘win on their own
 
 ## [Athletes of the week Taylor and Noble fueled by passion](https://www.theoccidentalnews.com/sports/2026/11/18/athletes-of-the-week-taylor-and-noble-fueled-by-passion/2919490)
 
-via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-19
+via The Occidental News (Occidental College Student Newspaper) · 2026-11-18, updated 2026-11-27
 
 Kendall Taylor Volleyball setter Kendall Taylor (junior) has grown since debuting as one of eight first-year players, turning into a key presence for the team by bringing energy and experience to a changing roster. Taylor closed out the season by recording 10 assists and eight digs against Whittier Nov. 7, following a team-high 10 assists \[…\]
 
@@ -2874,270 +2915,4 @@ via The Daily Bruin (UCLA Student Newspaper) · 2026-11-07, updated 2026-11-08
 
 Democrat Brian Goldsmith will represent California’s 24th State Senate District, which includes UCLA’s campus and surrounding communities, the Associated Press announced Friday.
 Goldsmith received 56.6% of the vote in the Tuesday midterm election, beating democrat John Erickson, who received 43.4% of the vote as of Friday, according to the AP.
-
-## [USC soccer parts ways with Head Coach Jane Alukonis](https://dailytrojan.com/2026/11/06/usc-soccer-parts-ways-with-head-coach-jane-alukonis/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-06, updated 2026-11-19
-
-Following a disappointing season, the University will search for a new coach for the 2027 season.
-
-The post [USC soccer parts ways with Head Coach Jane Alukonis](https://dailytrojan.com/2026/11/06/usc-soccer-parts-ways-with-head-coach-jane-alukonis/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [What happens after you vote in LA County?](https://dailybruin.com/2026/11/06/what-happens-after-you-vote-in-la-county/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-06, updated 2026-11-08
-
-After votes are cast in an election, California ballots are processed at large Ballot Processing Centers. The Daily Bruin’s Sophia Pu takes us on a tour of a Los Angeles Ballot Processing Center in the City of Industry.
-
-## [UCLA Athletics offers free tuition at upcoming football game](https://dailybruin.com/2026/11/06/ucla-athletics-offers-free-tuition-at-upcoming-football-game/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-06, updated 2026-11-08
-
-UCLA students now have an opportunity to earn free tuition.
-It is not by applying for a scholarship. Or applying for financial aid. Or even asking for parental support.
-
-## [Dizon’s Disposition: Happy coach, happy life – UCLA men’s basketball needs Cronin to keep his cool](https://dailybruin.com/2026/11/06/dizons-disposition-happy-coach-happy-life-ucla-mens-basketball-needs-cronin-to-keep-his-cool/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-06, updated 2026-11-08
-
-Mick Cronin was not the most heated coach Monday in Las Vegas.
-For the first time, possibly ever, I think he actually got beat in that department.
-
-## [The Nieman Lab News-About-News Quiz, November 6, 2026](https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-6-2026/)
-
-via Nieman Journalism Lab · 2026-11-06, updated 2026-11-25
-
-What a week! Recap it with the second edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are based on the week’s Nieman Lab stories or articles elsewhere that we’ve linked to in What We’re Reading. The quiz will...
-
-## [Los dominicanos tenemos que desaprender el racismo contra los haitianos](https://dailytrojan.com/2026/11/06/los-dominicanos-tenemos-que-desaprender-el-racismo-contra-los-haitianos/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-06, updated 2026-11-19
-
-Comentarios recientes de Alofoke son parte de una historia de antihaitianismo.
-
-The post [Los dominicanos tenemos que desaprender el racismo contra los haitianos](https://dailytrojan.com/2026/11/06/los-dominicanos-tenemos-que-desaprender-el-racismo-contra-los-haitianos/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [Del aula a la clínica: el español que no se aprende en la clase](https://dailytrojan.com/2026/11/06/del-aula-a-la-clinica-el-espanol-que-no-se-aprende-en-la-clase/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-06, updated 2026-11-19
-
-Solamente cumplir con el requisito de idioma no es suficiente, hay que aprender.
-
-The post [Del aula a la clínica: el español que no se aprende en la clase](https://dailytrojan.com/2026/11/06/del-aula-a-la-clinica-el-espanol-que-no-se-aprende-en-la-clase/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [Ugarte superando a Mazariegos en elección del Distrito 9](https://dailytrojan.com/2026/11/06/ugarte-superando-a-mazariegos/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-06, updated 2026-11-19
-
-Jose Ugarte está ganando aproximadamente 5 % más votos que su adversario.
-
-The post [Ugarte superando a Mazariegos en elección del Distrito 9](https://dailytrojan.com/2026/11/06/ugarte-superando-a-mazariegos/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [Nattalia Núñez Sanchez está siguiendo sus sueños en USC](https://dailytrojan.com/2026/11/06/nattalia-nunez-sanchez-esta-siguiendo-sus-suenos-en-usc/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-06, updated 2026-11-19
-
-La clavadista está en su primer año en la Universidad después de haber practicado clavados más de 10 años
-
-The post [Nattalia Núñez Sanchez está siguiendo sus sueños en USC](https://dailytrojan.com/2026/11/06/nattalia-nunez-sanchez-esta-siguiendo-sus-suenos-en-usc/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [LatiFAM crea oportunidades para estudiantes latines interesados en el cine](https://dailytrojan.com/2026/11/06/latifam-crea-oportunidades-para-estudiantes-latines-interesados-en-el-cine-2/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-06, updated 2026-11-19
-
-La organización busca crear un espacio de comunidad y apoyo para estudiantes.
-
-The post [LatiFAM crea oportunidades para estudiantes latines interesados en el cine](https://dailytrojan.com/2026/11/06/latifam-crea-oportunidades-para-estudiantes-latines-interesados-en-el-cine-2/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [USC celebra a los estudiantes de primera generación](https://dailytrojan.com/2026/11/06/usc-celebra-a-los-estudiantes-de-primera-generacion/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-06, updated 2026-11-19
-
-El lunes el First Generation Student Assembly organizó un evento para estudiantes.
-
-The post [USC celebra a los estudiantes de primera generación](https://dailytrojan.com/2026/11/06/usc-celebra-a-los-estudiantes-de-primera-generacion/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [THIS interpreta en situaciones médicas](https://dailytrojan.com/2026/11/06/this-interpreta-en-situaciones-medicas/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-06, updated 2026-11-19
-
-La organización se enfoca en ayudar a hispanohablantes en citas médicas.
-
-The post [THIS interpreta en situaciones médicas](https://dailytrojan.com/2026/11/06/this-interpreta-en-situaciones-medicas/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [‘Wicker’ writers talk weaving together romance and history at post-screening Q&A](https://dailybruin.com/2026/11/06/wicker-writers-talk-weaving-together-romance-and-history-at-post-screening-qa/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-06, updated 2026-11-08
-
-Writer-directors Alex Huston Fischer and Eleanor Wilson reimagined romance for a world without any during a post-screening Q&A for their newest film, “Wicker,” on Sunday.
-The Cinemas Los Angeles hosted the Q&A with the directorial couple to discuss “Wicker,” which released Oct.
-
-## [Daily Bruin Print Issue – Nov. 6, 2026](https://dailybruin.com/2026/11/06/daily-bruin-print-issue-nov-6-2026/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-06, updated 2026-11-08
-
-_The Daily Bruin publishes print issues every Monday, Wednesday and Friday during the school year. You can view the online version of The Bruin here._
-﻿
-
-## [UCLA men’s basketball returns home to face North Florida after upsetting Arizona](https://dailybruin.com/2026/11/06/ucla-mens-basketball-returns-home-to-face-north-florida-after-upsetting-arizona/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-06, updated 2026-11-08
-
-Some seasons start slow.
-Some begin unremarkably.
-But the Bruins are looking to continue the momentum from their jackpot of a start.
-No. 22 UCLA men’s basketball (1-0) takes on North Florida (1-0) at Pauley Pavilion on Friday night in its home debut.
-
-## [Classifieds – November 6, 2026](https://dailytrojan.com/2026/11/06/classifieds-november-6-2026/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-06, updated 2026-11-19
-
-The Daily Trojan features Classified advertising in each day's edition. Here you can read, search, and even print out each day's edition of the Classifieds.
-
-The post [Classifieds – November 6, 2026](https://dailytrojan.com/2026/11/06/classifieds-november-6-2026/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [Make art, not love — and get busy](https://dailytrojan.com/2026/11/06/make-art-not-love-and-get-busy/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-06, updated 2026-11-19
-
-The desire you look for in romance is often an unfed hunger for a creative outlet.
-
-The post [Make art, not love — and get busy](https://dailytrojan.com/2026/11/06/make-art-not-love-and-get-busy/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [The first edition of the 2026 College Football Playoff rankings suck](https://dailytrojan.com/2026/11/06/the-first-edition-of-the-2026-college-football-playoff-rankings-suck/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-06, updated 2026-11-19
-
-In a crazy season of college football, the committee can’t decide what they want.
-
-The post [The first edition of the 2026 College Football Playoff rankings suck](https://dailytrojan.com/2026/11/06/the-first-edition-of-the-2026-college-football-playoff-rankings-suck/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [California Science Center, NASA JPL bring decades of space exploration to new exhibit](https://dailytrojan.com/2026/11/06/california-science-center-new-exhibit/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-06, updated 2026-11-19
-
-The California Science Center will open a 200,000 square-foot Samuel Oschin Air and Space Center Nov. 13.
-
-The post [California Science Center, NASA JPL bring decades of space exploration to new exhibit](https://dailytrojan.com/2026/11/06/california-science-center-new-exhibit/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [The Original Pantry Cafe reborn with new mission](https://dailytrojan.com/2026/11/06/the-original-pantry-cafe-reborn-with-new-mission/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-06, updated 2026-11-18
-
-The century-old diner will reopen Nov. 19 under Hope the Mission, a nonprofit.
-
-The post [The Original Pantry Cafe reborn with new mission](https://dailytrojan.com/2026/11/06/the-original-pantry-cafe-reborn-with-new-mission/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [AI may inadvertently bring about a creative renaissance](https://dailytrojan.com/2026/11/06/ai-may-inadvertently-bring-about-a-creative-renaissance/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-06, updated 2026-11-18
-
-Learning to develop the human side of ourselves is better than any technology.
-
-The post [AI may inadvertently bring about a creative renaissance](https://dailytrojan.com/2026/11/06/ai-may-inadvertently-bring-about-a-creative-renaissance/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [Men’s water polo gears up to face another strong opponent](https://dailytrojan.com/2026/11/06/mens-water-polo-gears-up-to-face-another-strong-opponent/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-06, updated 2026-11-18
-
-The No. 4 Trojans head up the coast for a road match against the No. 8 Gauchos.
-
-The post [Men’s water polo gears up to face another strong opponent](https://dailytrojan.com/2026/11/06/mens-water-polo-gears-up-to-face-another-strong-opponent/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [Mindful USC offers Trojans ways to slow down, reconnect](https://dailytrojan.com/2026/11/06/mindful-usc-offers-trojans-ways-to-slow-down-and-reconnect-2/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-06, updated 2026-11-18
-
-The free program’s classes include meditation, self-compassion and nature-based practices.
-
-The post [Mindful USC offers Trojans ways to slow down, reconnect](https://dailytrojan.com/2026/11/06/mindful-usc-offers-trojans-ways-to-slow-down-and-reconnect-2/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [The Victoria’s Secret show has further to go in body inclusivity](https://dailytrojan.com/2026/11/06/the-victorias-secret-show-has-further-to-go-in-body-inclusivity/)
-
-via The Daily Trojan (USC Student Newspaper) · 2026-11-06, updated 2026-11-18
-
-Despite the rebrand, Angels still have strides to go.
-
-The post [The Victoria’s Secret show has further to go in body inclusivity](https://dailytrojan.com/2026/11/06/the-victorias-secret-show-has-further-to-go-in-body-inclusivity/) appeared first on [Daily Trojan](https://dailytrojan.com).
-
-## [Elina Aarnisalo returns to UCLA women’s basketball after a year away](https://dailybruin.com/2026/11/05/elina-aarnisalo-returns-to-ucla-womens-basketball-after-a-year-away/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-06, updated 2026-11-07
-
-_This post was updated on Nov. 2:17 a.m._
-Elina Aarnisalo ran onto the Pauley Pavilion court for the last time during her freshman season March 23, 2025.
-
-## [UCLA researchers may be able to treat depression by stimulating the brain itself](https://dailybruin.com/2026/11/05/ucla-researchers-may-be-able-to-treat-depression-by-stimulating-the-brain-itself/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-06, updated 2026-11-07
-
-Treatment for severe depression can include a combination of medications, therapy sessions and specialized care.
-Now, however, UCLA researchers are trying to expand those options. Patients may now be able to stimulate their brain with an implanted device.
-
-## [Before Jay-Z’s Super Bowl LXI debut, here are the halftime shows worth revisiting](https://dailybruin.com/2026/11/05/before-jay-zs-super-bowl-lxi-debut-here-are-the-halftime-shows-worth-revisiting/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-06, updated 2026-11-07
-
-After years of deciding who gets the Super Bowl halftime stage spotlight, Jay-Z is ready to take it for himself.
-This February, he’s ready to “Run This Town.”
-The National Football League, Roc Nation and Apple Music announced Oct.
-
-## [UCLA women’s basketball overwhelms UC Irvine 78-42 in home victory](https://dailybruin.com/2026/11/05/ucla-womens-basketball-overwhelms-uc-irvine-78-42-in-home-victory/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-06, updated 2026-11-07
-
-_This post was updated Nov. 6 at 1:13 a.m._
-Holding your opponent under double-digit points for a quarter is difficult.
-But to hold them scoreless – that’s even harder.
-And the Bruins did just that in the fourth quarter.
-
-## [From manager to player: Jordan Houegban says ‘there’s no better feeling’](https://dailybruin.com/2026/11/05/from-manager-to-player-jordan-houegban-says-theres-no-better-feeling/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-06, updated 2026-11-07
-
-_This post was updated on Nov. 6 at 2:07 a.m._
-For most high school athletes, graduation marks the end of their basketball careers.
-Only 3.6% of high school basketball players go on to compete in college – a metric that gets even slimmer when looking only at Division I play, according to the NCAA.
-
-## [Bruins will host Tritons, look to rebuild men’s water polo win streak](https://dailybruin.com/2026/11/05/bruins-will-host-tritons-look-to-rebuild-mens-water-polo-win-streak/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-06
-
-_This post was updated Nov. 6 at 1:25 a.m._
-For the first time since 2021, the Bruins are on a regular-season losing streak.
-No. 3 UCLA men’s water polo (17-3, 2-3 MPSF) – fresh off back-to-back away losses against then-No.
-
-## [USAC Recap – Nov. 3](https://dailybruin.com/2026/11/05/usac-recap-nov-3-2/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-06
-
-The Undergraduate Students Association Council approved guidelines for a textbook assistance program supported by a $50,000 grant and heard concerns about a community service funding denial at its Nov.
-
-## [UCLA’s Title IX statistics haven’t been updated for over half a decade. Survivors deserve to be heard](https://dailybruin.com/2026/11/05/uclas-title-ix-statistics-havent-been-updated-for-over-half-a-decade-survivors-deserve-to-be-heard/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-06
-
-UCLA’s Title IX Civil Rights Office claims it is committed to transparency.
-But that’s hard to believe when, as of Nov. 5, the “Reporting Statistics” page on its website hasn’t been updated since 2021.
-
-## [Rick Chavez Zbur reelected to California State Assembly District 51 seat](https://dailybruin.com/2026/11/05/rick-chavez-zbur-reelected-to-california-state-assembly-district-51-seat/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-06
-
-_This post was updated Nov. 6 at 2:02 a.m._
-Democrat Rick Chavez Zbur was reelected to the California State Assembly District 51 seat Thursday.
-Zbur, whose district includes UCLA and its surrounding communities, received 61.5% of the vote as of Thursday evening, according to the Associated Press.
-
-## [UCLA students cast their ballots in 2026 midterm elections](https://dailybruin.com/2026/11/05/ucla-students-cast-their-ballots-in-2026-midterm-elections/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-06
-
-On Election Day, Nov. 3, students lined up at on-campus vote centers to cast their ballots. They shared their thoughts on the issues and the process with the Daily Bruin’s Sophia Pu.
-
-## [Crimewatch: October 2026](https://dailybruin.com/2026/11/05/crimewatch-october-2026/)
-
-via The Daily Bruin (UCLA Student Newspaper) · 2026-11-06
-
-Sources: UCPD. Graphic reporting by Julian Duaybis, Metro editor. Interactive by Bianca Peralta, Data editor.
-UCPD recorded 757 unique entries in its Oct. 1-31 daily crime log.
 

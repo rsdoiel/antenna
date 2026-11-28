@@ -1,28 +1,68 @@
 ---
 title: "SoCal North"
 description: "News and posts related to the greater North Los Angeles and adjacent counties.\n"
-pubDate: Fri, 27 Nov 2026 05:41:00 GMT
+pubDate: Sat, 28 Nov 2026 13:00:00 GMT
 aggregateOf: "socal_north.md"
-dateModified: Fri, 27 Nov 2026 14:30:48 GMT
-itemCount: 294
+dateModified: Sat, 28 Nov 2026 14:30:27 GMT
+itemCount: 285
 generator: antenna/0.2.1
 ---
 
 # SoCal North
 
+## [Tang’s Donut in Silver Lake closed 13 years ago. Its sign just found a new home](https://laist.com/news/los-angeles-activities/tangs-donuts-silver-lake-sign-new-home)
+
+via The LAist · 2026-11-28
+
+The vacant shop was once a late-night chess hangout and the starting line for Wolfpack Hustle. Now one of its signs hangs in a Los Feliz T-shirt store.
+
+## [VSFB Beaches to reopen at 8 a.m. Nov. 28 after king tides](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4660681/vsfb-beaches-to-reopen-at-8-am-nov-28-after-king-tides/)
+
+via Vandenberg Base News · 2026-11-28
+
+Space Launch Delta 30 leadership has announced that all Vandenberg Space Force Base beaches will reopen for standard recreational and mission access, effective Saturday, Nov. 28, at 8:00 AM PT.
+
+![a snowy plover bird runs on a beach](https://media.defense.gov/2026/Oct/30/2004021747/300/300/0/261027-X-DY416-1002.JPG)
+
+## [Westlake tenants push back against landlord’s plan to replace parking lot with ADUs](https://laist.com/news/housing-homelessness/westlake-tenants-push-back-against-landlords-plan-to-replace-parking-lot-with-adus)
+
+via The LAist · 2026-11-27
+
+Most of the tenants at the Westlake apartment are elderly and worry about the losing their parking spaces in an already crowded neighborhood.
+
+## [L.A. TACO’s 2026 Holiday Gift Guide](https://lataco.com/holiday-gift-guide-2026)
+
+via L. A. Taco · 2026-11-27, updated 2026-11-26
+
+Santa Claus-buttplug chocolate sculptures, a 12-pack of assorted pre-rolls, and gifts benefiting the causes we care about.
+
+The post [L.A. TACO’s 2026 Holiday Gift Guide](https://lataco.com/holiday-gift-guide-2026) appeared first on [L.A. TACO](https://lataco.com).
+
+## [LA’s city attorney used tax dollars to pay her court penalty. A complaint claims that’s illegal](https://laist.com/news/city-attorney-court-penalty-la-sanctions)
+
+via The LAist · 2026-11-27
+
+Hydee Feldstein Soto reimbursed the city $1,000 the day after LAist requested the records. A judge ordered the sanctions against her and her chief deputy, not the city.
+
+## [Bruins and Trojans face off in the ‘Battle for LA’ — the whole city will be watching](https://laist.com/news/los-angeles-activities/bruins-and-trojans-face-off-in-the-battle-for-la-the-whole-city-will-be-watching)
+
+via The LAist · 2026-11-27
+
+The crosstown college football rivalry between the USC Trojans and the UCLA Bruins takes place is on Saturday. How I picked my side — and then switched.
+
 ## [VSFB leadership give thanks to Team V](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4660347/vsfb-leadership-give-thanks-to-team-v/)
 
-via Vandenberg Base News · 2026-11-27
+via Vandenberg Base News · 2026-11-27, updated 2026-11-28
 
 On Thanksgiving Day, Space Launch Delta 30 leadership stepped behind the counters at Breakers Dining Facility to serve a traditional holiday meal to Team Vandenberg personnel, at Vandenberg Space Force Base, Calif., Nov. 26, 2026.
 
 ![Military Leaders serve Thanksgiving meals to Vandenberg personnel.](https://media.defense.gov/2026/Nov/27/2004038418/300/300/0/261126-X-HP195-1106.JPG)
 
-## [King tides linger along SoCal coast. Here’s what to know](https://laist.com/news/climate-environment/king-tides-have-arrived-thanksgiving-coastal-flooding-socal-what-to-expect)
+## [The worst of the king tides has passed. Now a storm is headed for SoCal](https://laist.com/news/climate-environment/king-tides-have-arrived-thanksgiving-coastal-flooding-socal-what-to-expect)
 
-via The LAist · 2026-11-26
+via The LAist · 2026-11-26, updated 2026-11-27
 
-Coastal flood advisories are in effect until noon Friday for L.A. County’s coast and until 2 p.m. Saturday for Ventura County beaches, according to the weather service.
+Tides are dropping after a record high, but a strong storm is all but certain to arrive Monday night.
 
 ## [A Federal Agent Shot This Independent Journalist. Now He’s Been Released After A Year in ICE Detention](https://lataco.com/richard-la-release)
 
@@ -38,11 +78,11 @@ via The LAist · 2026-11-26
 
 Bruins could cap a nearly perfect season with their best record in more than 25 years
 
-## [Jose Ugarte closes in on CD-9 win with a 69-vote lead](https://laist.com/news/politics/jose-ugarte-closes-in-on-cd-9-win-with-a-69-vote-lead)
+## [Jose Ugarte wins tight LA City Council race in District 9](https://laist.com/news/politics/jose-ugarte-closes-in-on-cd-9-win-with-a-69-vote-lead)
 
-via The LAist · 2026-11-26
+via The LAist · 2026-11-26, updated 2026-11-28
 
-It’s one of the last races left to watch in L.A. The election results will be certified on Friday.
+It was one of the last races left to watch in L.A.
 
 ## [LA County chief of sustainability steps down from LA28 advisory role, citing fossil fuel sponsorship](https://laist.com/news/la-county-chief-of-sustainability-steps-down-from-la28-advisory-role-citing-fossil-fuel-sponsorship)
 
@@ -364,7 +404,7 @@ The post [Over a Freeway Near Los Angeles, Animals Can Roam Safely Thanks to Wor
 
 ## [Chief of Space Gen. Douglas Schiess Visits Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4659692/chief-of-space-gen-douglas-schiess-visits-vandenberg-space-force-base/)
 
-via Vandenberg Base News · 2026-11-24, updated 2026-11-27
+via Vandenberg Base News · 2026-11-24, updated 2026-11-28
 
 During his first visit to Vandenberg Space Force Base, Nov. 20, 2026, the CSO highlighted the critical role every Guardian plays in mission success, the need to build a combat-ready and resilient force, and the importance of delivering advanced space capabilities to the Joint Force.
 
@@ -567,6 +607,12 @@ Here’s how you can help hold our elected officials accountable.
 via The Source MTA blog · 2026-11-23
 
 ![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/24-1299_Alternative5_mod_IOS-scaled-1.jpg?fit=1124%2C1200&ssl=1)If you’ve been on your socials or following the news this week, you’ve probably heard that Metro is looking at a site that partly includes the parking lots by Westfield Fashion Square mall in Sherman Oaks as a possible location for a rail maintenance facility. Many of you have told us clearly that you oppose \[…\]
+
+## [Route 66 is an American icon. That's why international tourists love it](https://laist.com/news/los-angeles-activities/route-66-is-an-american-icon-thats-why-international-tourists-love-it)
+
+via The LAist · 2026-11-22
+
+International tour groups drive the length of Route 66 every year. NPR joined one from New Zealand and Australia as they visited for the road's 100th anniversary.
 
 ## [Thousands of mixed-status California families to lose housing under Trump HUD rule](https://laist.com/news/housing-homelessness/thousands-of-mixed-status-california-families-to-lose-housing-under-trump-hud-rule)
 
@@ -1074,7 +1120,7 @@ Leonard Redway, Inglewood City Council District 1 candidate, must stay 100 yards
 
 ## [Vandenberg hosts 2026 Fall Job Fair](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649605/vandenberg-hosts-2026-fall-job-fair/)
 
-via Vandenberg Base News · 2026-11-17, updated 2026-11-27
+via Vandenberg Base News · 2026-11-17, updated 2026-11-28
 
 Attendees explore career opportunities during the Fall Job Fair at the Pacific Coast Center at Vandenberg Space Force Base, California, Nov. 16, 2026.
 
@@ -1140,7 +1186,7 @@ The U.S. Supreme Court denied the Trump administration’s appeal of lower court
 
 ## [Sentinel Stage Processing Facility Ribbon Cutting Ceremony at Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4649455/sentinel-stage-processing-facility-ribbon-cutting-ceremony-at-vandenberg-space/)
 
-via Vandenberg Base News · 2026-11-16, updated 2026-11-27
+via Vandenberg Base News · 2026-11-16, updated 2026-11-28
 
 The recently completed facility will serve as a hub for processing and testing components for the next-generation Sentinel weapon system ribbon cutting ceremony held at Vandenberg Space Force Base, California, Nov. 5, 2026.
 
@@ -1244,7 +1290,7 @@ The post [Stalled Offensive Drives, Rain, Flat Defense, Plague Birmingham in 36-
 
 ## [UNARMED MINUTEMAN III ICBM TEST LAUNCH SCHEDULED AT VANDENBERG SPACE FORCE BASE](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4648574/unarmed-minuteman-iii-icbm-test-launch-scheduled-at-vandenberg-space-force-base/)
 
-via Vandenberg Base News · 2026-11-14, updated 2026-11-27
+via Vandenberg Base News · 2026-11-14, updated 2026-11-28
 
 An operational test launch of an Air Force Global Strike Command unarmed Minuteman III intercontinental ballistic missile is scheduled between 11:01 p.m. Pacific Time, Nov. 17, and 5:01 a.m. Pacific Time, Nov.18, from the northern portion of the installation.
 
@@ -1644,7 +1690,7 @@ The century-old diner brings back its pancakes and coleslaw, plus new dishes lik
 
 ## [Solvang holds 2026 Veterans Day observance with support of Vandenberg Space Force Base](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4646630/solvang-holds-2026-veterans-day-observance-with-support-of-vandenberg-space-for/)
 
-via Vandenberg Base News · 2026-11-11, updated 2026-11-27
+via Vandenberg Base News · 2026-11-11, updated 2026-11-28
 
 U.S. Space Force Chief Master Sgt. Shannan Sanchez, Space Launch Delta 30 command senior enlisted leader, delivered the keynote address during a Veterans Day ceremony at the Solvang Veterans Memorial Hall in Solvang, California, Nov. 11, 2026.
 
@@ -1732,7 +1778,7 @@ Those in Little Bangladesh say they are often ignored, but Raman spent time list
 
 ## [Not Just Child’s Play: Space Force Technicians Assist Children’s Museum with Restoration Project](https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4646428/not-just-childs-play-space-force-technicians-assist-childrens-museum-with-resto/)
 
-via Vandenberg Base News · 2026-11-10, updated 2026-11-27
+via Vandenberg Base News · 2026-11-10, updated 2026-11-28
 
 After painstaking restoration, a museum’s interactive recycling display recently whirred back to life thanks to the technicians of the 30th Operations Support Squadron’s Training Device Design and Engineering Center at Vandenberg Space Force Base.
 
@@ -1963,104 +2009,4 @@ via Santa Clarita Public Library · 2026-11-07
 ![](https://library.santaclarita.gov/files/2026/11/FLF-Social-Media-Ad.png)
 
 Family Literacy Festival A Midwinter Night’s Dream Step into a world where fairy tales come to life, knights embark on daring adventures and a little imagination can turn an ordinary day into something magical! The Santa Clarita Public Library invites families to the 19th Annual Family Literacy Festival on Saturday, December 5, from 9:00 a.m. \[…\]
-
-## [LA schools at the forefront of falling public school enrollment](https://laist.com/news/education/la-schools-at-the-forefront-of-falling-public-school-enrollment)
-
-via The LAist · 2026-11-06, updated 2026-11-10
-
-School enrollment was already expected to plunge by 2 million kids by 2030.
-
-## [Piece by piece: Celebrating progress on the proposed E Line extension](https://thesource.metro.net/piece-by-piece-celebrating-progress-on-the-proposed-e-line-extension/)
-
-via The Source MTA blog · 2026-11-06, updated 2026-11-23
-
-![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/eastside-map-1.png?fit=958%2C497&ssl=1)Residents, community partners and local leaders came together Friday morning in East LA to celebrate the years of collaboration behind the proposed E Line extension from East Los Angeles to Montebello and, eventually, Whittier. The giant puzzle in the video above represents that shared effort to help advance the project toward construction. Known as the \[…\]
-
-## [Trump replaces Susie Wiles with Stephen Miller as chief of staff after GOP’s midterm defeat](https://laist.com/news/politics/trump-replaces-susie-wiles-with-stephen-miller-as-chief-of-staff-after-gops-midterm-defeat)
-
-via The LAist · 2026-11-06
-
-President Donald Trump said Friday that Stephen Miller was replacing Susie Wiles as White House chief of staff, mere days after Republicans lost control of Congress.
-
-## [From Eastside beer to artist lofts: The Brewery Artwalk returns to Lincoln Heights](https://laist.com/news/los-angeles-activities/from-eastside-beer-to-artist-lofts-the-brewery-artwalk-returns-to-lincoln-heights)
-
-via The LAist · 2026-11-06, updated 2026-11-08
-
-The 17-acre campus of the Brewery opens to the public this weekend for its twice-yearly artwalk.
-
-## [Juicy Ribeye Khao Soi In a Wisteria-Covered West Hollywood Courtyard](https://lataco.com/ribeye-steak-khao-soi-west-hollywood)
-
-via L. A. Taco · 2026-11-06, updated 2026-11-13
-
-Where to get a big bowl of rich, coconut-creamy Thai curry with fresh noodles and dry egg noodles, and pickled mustard greens, with an entire medium-rare sliced ribeye, cooked to your preference, on top.
-
-The post [Juicy Ribeye Khao Soi In a Wisteria-Covered West Hollywood Courtyard](https://lataco.com/ribeye-steak-khao-soi-west-hollywood) appeared first on [L.A. TACO](https://lataco.com).
-
-## [Defense attorney: Long Beach police can’t be trusted to share evidence that could clear defendants](https://laist.com/news/criminal-justice/defense-attorney-long-beach-police-cant-be-trusted-to-share-evidence-that-could-clear-defendants)
-
-via The LAist · 2026-11-06, updated 2026-11-09
-
-A new court filing alleges LBPD knew one of its officers was convicted of battery in Georgia in 2022 for years — but failed to tell defendants, prosecutors and the courts.
-
-## [The Vincent Thomas Bridge closes for 16 months on Saturday. They’re calling it ‘Harborgeddon’](https://laist.com/news/transportation/vincent-thomas-bridge-closure-harborgeddon)
-
-via The LAist · 2026-11-06, updated 2026-11-08
-
-Locals say they’re planning for longer commutes and clogged truck traffic. They hope small businesses won’t lose their customers.
-
-## [None of Nithya Raman’s council colleagues backed her bid for mayor. Will they work with her?](https://laist.com/news/politics/mayor-elect-nithya-raman-council-colleagues-cooperation)
-
-via The LAist · 2026-11-06
-
-Raman won without a single endorsement from her colleagues on the City Council, but she’ll have to govern with them.
-
-## [Voters have chosen to increase LA's sales tax — here’s how it compares to other cities](https://laist.com/news/politics/voters-have-chosen-to-increase-las-sales-tax-heres-how-it-compares-to-other-cities)
-
-via The LAist · 2026-11-06
-
-Measure FD raises sales taxes from 10.25% to 10.75% to raise money for firefighting.
-
-## [As Diwali begins, a celebration of Indian Basmati rice](https://laist.com/news/food/diwali-celebration-indian-basmati-rice)
-
-via The LAist · 2026-11-06
-
-Basmati means "the fragrant one" in Sanskrit, an indication of why it's prized so highly.
-
-## [Coastal Commission approves seawall, sand for battered stretch of San Clemente](https://laist.com/news/climate-environment/coastal-commission-approves-seawall-sand-for-battered-stretch-of-san-clemente)
-
-via The LAist · 2026-11-06
-
-Orange County Supervisor Katrina Foley hailed the plan as 'a major milestone to save our critical coastal rail corridor and restore San Clemente’s iconic beaches.'
-
-## [Former clients of immigration lawyer Alexandra Lozano Kennedy can get free legal help in LA](https://laist.com/news/politics/former-clients-immigration-lawyer-alexandra-lozano-kennedy-free-legal-clinic-loyola-marymount-university-counsel-for-justice)
-
-via The LAist · 2026-11-06
-
-Experienced immigration attorneys are ready to help community members who may have been victims of fraud.
-
-## [Shaw concedes California superintendent race](https://laist.com/news/politics/shaw-concedes-california-superintendent-race)
-
-via The LAist · 2026-11-06
-
-Republican Sonja Shaw conceded the race for California Superintendent of Public Instruction to Democrat Richard Barrera late Wednesday evening.
-
-## [Go Metro to Corita Day Festival and the best fall events in Los Angeles: November 6-8](https://thesource.metro.net/go-metro-to-corita-day-festival-and-the-best-fall-events-in-los-angeles-november-6-8/)
-
-via The Source MTA blog · 2026-11-06, updated 2026-11-23
-
-![](https://i0.wp.com/thesource.metro.net/wp-content/uploads/2026/11/DJI_20260830170121_0008_D-scaled.jpg?fit=1200%2C800&ssl=1)November opens with a mix of art, music and sports across Los Angeles. Corita Day Festival fills the SCI-Arc campus in Little Tokyo with art-making and live music, Self Help Graphics celebrates its 53rd Día de los Muertos in Boyle Heights, and the Lakers, Kings, Chargers, and Clippers are all home. Metro can get you \[…\]
-
-## [Coyote becomes first mammal seen using 101 wildlife crossing: 'This is amazing'](https://laist.com/news/climate-environment/coyote-becomes-first-mammal-seen-using-101-wildlife-crossing-this-is-amazing)
-
-via The LAist · 2026-11-06
-
-A coyote was caught on video early Thursday morning as it crossed the bridge.
-
-## [ICE Watch Newsletter: Will Newly Elected Officials Finally Melt ICE?](https://lataco.com/ice-watch-election-abolish)
-
-via L. A. Taco · 2026-11-06, updated 2026-11-13
-
-If these politicians are truly working in the best interests of their constituents, we’ll see the quick defunding and absolute abolishment of ICE, as well as better support for small businesses, working families, and improved resources for the homeless community.
-
-The post [ICE Watch Newsletter: Will Newly Elected Officials Finally Melt ICE?](https://lataco.com/ice-watch-election-abolish) appeared first on [L.A. TACO](https://lataco.com).
 

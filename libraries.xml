@@ -5,10 +5,21 @@
     <title><![CDATA[GLAM]]></title>
     <description><![CDATA[Libraries, archives and museums.]]></description>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>27 Nov 26 06:48 -0800</lastBuildDate>
+    <lastBuildDate>28 Nov 26 06:47 -0800</lastBuildDate>
     <generator>antenna/0.2.1</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>New Online at the Library of Congress: November 2026</title>
+      <link>https://blogs.loc.gov/thesignal/2026/11/new-loc-november-2026/</link>
+      <description>
+        <![CDATA[In our November 2026 edition of "New Online at the Library of Congress," we share updates to the Library's digital collections, including new volunteer transcriptions, historical newspapers from Georgia, and documentary materials from a 2024 Community Collections Grant recipient.]]>
+      </description>
+      <source:markdown>In our November 2026 edition of &#34;New Online at the Library of Congress,&#34; we share updates to the Library&#39;s digital collections, including new volunteer transcriptions, historical newspapers from Georgia, and documentary materials from a 2024 Community Collections Grant recipient.</source:markdown>
+      <dc:creator>Carlyn Osborn</dc:creator>
+      <guid isPermaLink="false">cid://https://blogs.loc.gov/thesignal/?p=38767</guid>
+      <category>New on loc.gov</category>
+      <pubDate>Fri, 27 Nov 2026 15:02:21 +0000</pubDate>
+    </item>    <item>
       <title>Now Available For 22 European Nations: Public Libraries and Information: 2025 Factsheets</title>
       <link>https://www.infodocket.com/2026/11/26/public-libraries-and-information-2025-factsheets-now-available-for-22-european-nations/</link>
       <description>
@@ -1747,33 +1758,6 @@ The post [New Journal Article: Large Language Model Developments](https://www.in
       <category>News</category>
       <category>Open Access</category>
       <pubDate>Sun, 08 Nov 2026 15:46:22 +0000</pubDate>
-    </item>    <item>
-      <title>Ask the Technology Providers: Our Charleston Conversation</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/11/06/ask-the-technology-providers-our-charleston-conversation/</link>
-      <description>
-        <![CDATA[<p>Did you miss us at Charleston this week? Never fear, here are some highlights from our TSK panel discussion with three of our esteemed guest bloggers.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2026/11/06/ask-the-technology-providers-our-charleston-conversation/">Ask the Technology Providers: Our Charleston Conversation</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <source:markdown>Did you miss us at Charleston this week? Never fear, here are some highlights from our TSK panel discussion with three of our esteemed guest bloggers.
-
-The post [Ask the Technology Providers: Our Charleston Conversation](https://scholarlykitchen.sspnet.org/2026/11/06/ask-the-technology-providers-our-charleston-conversation/) appeared first on [The Scholarly Kitchen](https://scholarlykitchen.sspnet.org).</source:markdown>
-      <dc:creator>Lettie Y. Conrad</dc:creator>
-      <guid isPermaLink="false">cid://https://scholarlykitchen.sspnet.org/?p=63233</guid>
-      <category>Discovery</category>
-      <category>Experimentation</category>
-      <category>Infrastructure</category>
-      <category>Innovation</category>
-      <category>Research</category>
-      <category>Society for Scholarly Publishing</category>
-      <category>Technology</category>
-      <category>Tools</category>
-      <category>acess control</category>
-      <category>AI agents</category>
-      <category>AI usage</category>
-      <category>bot u sage</category>
-      <category>identity management</category>
-      <category>platforms</category>
-      <pubDate>Fri, 06 Nov 2026 10:30:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

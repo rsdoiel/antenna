@@ -3,8 +3,8 @@ title: "Small Papers"
 description: "Small regional papers, blogs and news."
 pubDate: Wed, 25 Nov 2026 22:39:51 GMT
 aggregateOf: "small_papers.md"
-dateModified: Fri, 27 Nov 2026 14:48:23 GMT
-itemCount: 92
+dateModified: Sat, 28 Nov 2026 14:47:19 GMT
+itemCount: 90
 generator: antenna/0.2.1
 ---
 
@@ -889,24 +889,4 @@ via Long Beach Post · 2026-11-08, updated 2026-11-12
 The Naples Improvement Association says it wouldn’t be safe to bring crowds to the island given this year’s strong El Niño, and the group accused the city of failing to invest in coastal infrastructure.
 
 The post [Naples Boat Parade canceled as El Niño season threatens dangerously high tides over Christmas week](https://lbpost.com/news/naples-boat-parade-canceled-el-nino-tides-christmas) appeared first on [Long Beach Post News](https://lbpost.com/news).
-
-## [Defense attorney: Long Beach police can’t be trusted to share evidence that could clear defendants](https://lbpost.com/news/long-beach-police-assault-brady-trust)
-
-via Long Beach Post · 2026-11-06, updated 2026-11-12
-
-![](https://img.lbpost.com/wp-content/uploads/sites/2/2026/11/06094822/lbpd-698899-ivo6mvsv-990259-NsssTeuS-1024x768.webp)
-
-Defense attorney Scott Sanders says the department hid an arrest and conviction involving one of its officers for seven years.
-
-The post [Defense attorney: Long Beach police can’t be trusted to share evidence that could clear defendants](https://lbpost.com/news/long-beach-police-assault-brady-trust) appeared first on [Long Beach Post News](https://lbpost.com/news).
-
-## [LBCC will pay $2.7 million to settle former superintendent’s retaliation lawsuit](https://lbpost.com/news/education/lbcc-will-pay-2-7-million-to-settle-former-superintendents-retaliation-lawsuit)
-
-via Long Beach Post · 2026-11-06, updated 2026-11-10
-
-![](https://img.lbpost.com/wp-content/uploads/2018/02/10164835/romali-addres.jpg)
-
-The protracted dispute began years ago when Romali was publicly named as a whistleblower on March 2, 2020 and fired two days later.
-
-The post [LBCC will pay $2.7 million to settle former superintendent’s retaliation lawsuit](https://lbpost.com/news/education/lbcc-will-pay-2-7-million-to-settle-former-superintendents-retaliation-lawsuit) appeared first on [Long Beach Post News](https://lbpost.com/news).
 

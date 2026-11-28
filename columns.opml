@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Columns</title>
-        <dateCreated>26 Nov 26 06:44 -0800</dateCreated>
+        <dateCreated>28 Nov 26 06:43 -0800</dateCreated>
     </head>
     <body>
         <outline text="404 Media Group" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/,https://www.404media.co/rss/" description="404 Media is an independent media company founded by technology journalists Jason Koebler, Emanuel Maiberg, Samantha Cole, and Joseph Cox." url="https://www.404media.co/rss/"></outline>
@@ -136,7 +136,7 @@
         <outline text="Goblog blog" type="rss" xmlUrl="https://goblog.app/.rss" htmlUrl="https://goblog.app" description="A blog about GoBlog"></outline>
         <outline text="Greg Egan&#39;s feed" type="rss" xmlUrl="https://www.gregegan.net/feed.rss" htmlUrl="https://www.gregegan.net/,https://www.gregegan.net/feed.rss" description="Updates to the web site of SF author Greg Egan." url="https://www.gregegan.net/feed.rss"></outline>
         <outline text="Gtk Developer blog" type="rss" xmlUrl="https://blog.gtk.org/feed/" htmlUrl="https://blogs.gnome.org/gtk,https://blogs.gnome.org/gtk/feed/" description="All things GTK" url="https://blogs.gnome.org/gtk/feed/"></outline>
-        <outline text="Guy Kawasaki blog" type="rss" xmlUrl="https://guykawasaki.substack.com/feed" htmlUrl="https://guykawasaki.substack.com,https://guykawasaki.substack.com/feed" description="Become remarkable. Interviews, livestreams, essays, how-tos, and lessons from my work at Apple, Canva, Google, Wikipedia and Mercedes plus interviews of remarkable people such as Katie Phang, Jane Goodall, Woz, Carol Dweck, Seth Godin, and Bob Cialdini." url="https://guykawasaki.substack.com/feed"></outline>
+        <outline text="Guy Kawasaki blog" type="rss" xmlUrl="https://guykawasaki.substack.com/feed" htmlUrl="https://guykawasaki.substack.com,https://guykawasaki.substack.com/feed" description="Smart people want to hear what other smart people have to say. I bring you remarkable folks like Katie Phang, Jane Goodall, Steve Wozniak, Carol Dweck, and Seth Godin. Through interviews, livestreams, and essays, I share their wisdom with you." url="https://guykawasaki.substack.com/feed"></outline>
         <outline text="Gwern Branwen&#39;s blog" type="rss" xmlUrl="https://gwern.substack.com/feed" htmlUrl="https://gwern.substack.com,https://gwern.substack.com/feed" description="Latest gwern.net updates, interesting links, and reviews" url="https://gwern.substack.com/feed"></outline>
         <outline text="HTMH(ell) newsletter, improving the web toolbox" type="atom" xmlUrl="https://www.htmhell.dev/feed_tips.xml" htmlUrl="https://htmhell.dev/feed_tips.xml,https://htmhell.dev/tips" description="A collection of HTML tips and tricks." url="https://htmhell.dev/feed_tips.xml"></outline>
         <outline text="Hakai Magazine" type="rss" xmlUrl="https://hakaimagazine.com/feed/" htmlUrl="https://hakaimagazine.com,https://hakaimagazine.com/feed/" description="Coastal science and societies" url="https://hakaimagazine.com/feed/"></outline>
@@ -194,7 +194,7 @@
         <outline text="Joss Whittle, The rantings of a mad scientist" type="rss" xmlUrl="http://l2program.co.uk/feed" htmlUrl="http://l2program.co.uk,http://l2program.co.uk/feed" description="The rantings of a lunatic Scientist" url="http://l2program.co.uk/feed"></outline>
         <outline text="Julia Evans blog" type="atom" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="https://jvns.ca/atom.xml,https://jvns.ca" url="https://jvns.ca/atom.xml"></outline>
         <outline text="Just Dario" type="rss" xmlUrl="https://justdario.com/feed/" htmlUrl="https://justdario.com/,https://justdario.com/feed/" url="https://justdario.com/feed/"></outline>
-        <outline text="Justine LOL" type="rss" xmlUrl="https://justine.lol/rss.xml" htmlUrl="https://justine.lol" description="Justine Tunney&#39;s Web Page"></outline>
+        <outline text="Justine LOL" type="rss" xmlUrl="https://justine.lol/rss.xml" htmlUrl="https://jart.dev" description="Justin Tunney&#39;s Web Page"></outline>
         <outline text="Kara Wynn blog" type="rss" xmlUrl="https://karawynn.substack.com/feed" htmlUrl="https://karawynn.substack.com,https://karawynn.substack.com/feed" description="personal essays, this time with a quarter-century more wisdom" url="https://karawynn.substack.com/feed"></outline>
         <outline text="Karine Jean-Piere" type="rss" xmlUrl="https://www.karinejean-pierre.com/feed/rss2" htmlUrl="https://www.karinejean-pierre.com,https://www.karinejean-pierre.com/feed/rss2" url="https://www.karinejean-pierre.com/feed/rss2"></outline>
         <outline text="Keiran Healy Blog" type="rss" xmlUrl="https://kieranhealy.org/blog/index.xml" htmlUrl="https://kieranhealy.org/blog/,https://kieranhealy.org/blog/index.xml" description="Recent content in Blogs on kieranhealy.org" url="https://kieranhealy.org/blog/index.xml"></outline>

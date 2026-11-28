@@ -5,10 +5,81 @@
     <title><![CDATA[STEM]]></title>
     <description><![CDATA[Science and technology news and blogs.]]></description>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>27 Nov 26 06:45 -0800</lastBuildDate>
+    <lastBuildDate>28 Nov 26 06:44 -0800</lastBuildDate>
     <generator>antenna/0.2.1</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Quantum: &#39;Five years, that&#39;s all we got…&#39;</title>
+      <link>https://www.theregister.com/hpc/2026/11/28/quantum-five-years-thats-all-we-got/5312034</link>
+      <description>
+        <![CDATA[Futuristic computing had a major presence in Chicago supercomputer show this year]]>
+      </description>
+      <source:markdown>Futuristic computing had a major presence in Chicago supercomputer show this year</source:markdown>
+      <dc:creator>Dan Olds</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5312040&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312034</guid>
+      <category>hpc</category>
+      <pubDate>Sat, 28 Nov 2026 09:24:00 +0000</pubDate>
+    </item>    <item>
+      <title>Unkernel and Trynix just transported computing to 2035</title>
+      <link>https://www.theregister.com/software/2026/11/28/unkernel-and-trynix-just-transported-computing-to-2035/5313200</link>
+      <description>
+        <![CDATA[A fun demo has the potential to flip computing inside-out]]>
+      </description>
+      <source:markdown>A fun demo has the potential to flip computing inside-out</source:markdown>
+      <dc:creator>Liam Proven</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5313212&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5313200</guid>
+      <category>software</category>
+      <pubDate>Sat, 28 Nov 2026 08:34:00 +0000</pubDate>
+    </item>    <item>
+      <title>APOD: 2026 November 28 – Apollo 17 VIP Site Anaglyph</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph/</link>
+      <description>
+        <![CDATA[APOD Science APOD APOD: 2026 November 28 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Apollo 17 VIP [&#8230;]]]>
+      </description>
+      <source:markdown>APOD Science APOD APOD: 2026 November 28 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Apollo 17 VIP \[…\]</source:markdown>
+      <guid isPermaLink="false">cid://https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph/</guid>
+      <category>APOD</category>
+      <pubDate>Sat, 28 Nov 2026 05:05:00 +0000</pubDate>
+    </item>    <item>
+      <title>Smartphone shipments face another bleak year before modest 2028 comeback</title>
+      <link>https://www.theregister.com/personal-tech/2026/11/27/smartphone-shipments-face-another-bleak-year-before-modest-2028-comeback/5312580</link>
+      <description>
+        <![CDATA[Counterpoint forecasts another 6% shipment drop in 2027, with volumes still below 2025 levels by decade's end]]>
+      </description>
+      <source:markdown>Counterpoint forecasts another 6% shipment drop in 2027, with volumes still below 2025 levels by decade&#39;s end</source:markdown>
+      <dc:creator>Dan Robinson</dc:creator>
+      <enclosure url="https://image.theregister.com/?imageId=5228637&#38;width=800" length="0" type="image/jpeg" />
+      <guid isPermaLink="false">cid://https://www.theregister.com/a/5312580</guid>
+      <category>personal tech</category>
+      <pubDate>Fri, 27 Nov 2026 15:33:00 +0000</pubDate>
+    </item>    <item>
+      <title>Artemis III Astronaut Andre Douglas Visits VAB</title>
+      <link>https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/</link>
+      <description>
+        <![CDATA[NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 17, 2026. During Artemis III, four RS-25 engines will power the SLS (Space Launch System) rocket core stage to send the Orion [&#8230;]]]>
+      </description>
+      <source:markdown>NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 17, 2026. During Artemis III, four RS-25 engines will power the SLS (Space Launch System) rocket core stage to send the Orion \[…\]</source:markdown>
+      <dc:creator>HQ Web Team</dc:creator>
+      <guid isPermaLink="false">cid://https://www.nasa.gov/?post_type=image-article&#38;p=1067991</guid>
+      <category>Andre Douglas</category>
+      <category>Artemis 3</category>
+      <category>Kennedy Space Center</category>
+      <pubDate>Fri, 27 Nov 2026 15:01:00 +0000</pubDate>
+    </item>    <item>
+      <title>NASA’s NG-25 Mission to Launch Pioneering Space Crops Research</title>
+      <link>https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/</link>
+      <description>
+        <![CDATA[NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency. Investigations from NASA’s Biological and Physical Sciences Division will advance research that benefits life on Earth and future exploration, expanding knowledge of space crops and human health. Groundbreaking […]]]>
+      </description>
+      <source:markdown>NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency. Investigations from NASA’s Biological and Physical Sciences Division will advance research that benefits life on Earth and future exploration, expanding knowledge of space crops and human health. Groundbreaking \[…\]</source:markdown>
+      <guid isPermaLink="false">cid://https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/</guid>
+      <category>Biological &#38; Physical Sciences</category>
+      <category>International Space Station (ISS)</category>
+      <category>Science Mission Directorate</category>
+      <pubDate>Fri, 27 Nov 2026 14:22:00 +0000</pubDate>
+    </item>    <item>
       <title>Bill for Birmingham&#39;s Oracle debacle reaches £128M</title>
       <link>https://www.theregister.com/public-sector/2026/11/27/bill-for-birminghams-oracle-debacle-reaches-128m/5312563</link>
       <description>
@@ -36,9 +107,9 @@
       <title>Lloyds and Bank of Scotland apps fall over on payday</title>
       <link>https://www.theregister.com/applications/2026/11/27/lloyds-and-bank-of-scotland-apps-fall-over-on-payday/5312566</link>
       <description>
-        <![CDATA[Black horse down (again)]]>
+        <![CDATA[Black horse down (again), this time on Black Friday]]>
       </description>
-      <source:markdown>Black horse down (again)</source:markdown>
+      <source:markdown>Black horse down (again), this time on Black Friday</source:markdown>
       <dc:creator>Jude Karabus</dc:creator>
       <enclosure url="https://image.theregister.com/?imageId=227132&#38;width=800" length="0" type="image/jpeg" />
       <guid isPermaLink="false">cid://https://www.theregister.com/a/5312566</guid>
@@ -4877,158 +4948,6 @@ See [pcm.adswizz.com](https://pcm.adswizz.com) for information about our collect
       <guid isPermaLink="false">cid://https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/</guid>
       <category>APOD</category>
       <pubDate>Sat, 07 Nov 2026 05:05:00 +0000</pubDate>
-    </item>    <item>
-      <title>Where Did Stonehenge&#39;s Mysterious, Six-Ton Altar Stone Really Come From? Geologists Rule Out the Scottish Hypothesis as the Search Deepens</title>
-      <link>https://www.smithsonianmag.com/smart-news/where-did-stonehenges-mysterious-six-ton-altar-stone-really-come-from-geologists-rule-out-the-scottish-hypothesis-as-search-deepens-180989833/</link>
-      <description>
-        <![CDATA[A comprehensive investigation of the sandstone megalith’s "geological fingerprint" suggests it did not originate in northeast Scotland, as a surprising study concluded in 2024, sending scientists back into the field to track down the enigmatic slab's origins]]>
-      </description>
-      <source:markdown>A comprehensive investigation of the sandstone megalith’s &#34;geological fingerprint&#34; suggests it did not originate in northeast Scotland, as a surprising study concluded in 2024, sending scientists back into the field to track down the enigmatic slab&#39;s origins</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/rnT3aXTGpcnbH6VmodBI97ikXek=/420x240/filters:focal(1000x671:1001x672)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/12/d3/12d31303-a522-4eaf-b012-ba89ec6d2332/altar-stone-prof-nick-pearce-aberystwyth-university-reduced.jpg" length="1299408" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/where-did-stonehenges-mysterious-six-ton-altar-stone-really-come-from-geologists-rule-out-the-scottish-hypothesis-as-search-deepens-180989833/</guid>
-      <pubDate>Fri, 06 Nov 2026 21:41:20 +0000</pubDate>
-    </item>    <item>
-      <title>Stolen During the Nazi Occupation of Orléans, France, This Painting Was Rediscovered After 86 Years With Help From Wild West-Inspired &#39;Wanted&#39; Posters</title>
-      <link>https://www.smithsonianmag.com/smart-news/stolen-during-the-nazi-occupation-of-orleans-france-this-painting-was-rediscovered-after-86-years-with-help-from-wild-west-inspired-wanted-posters-180989839/</link>
-      <description>
-        <![CDATA[The Musée des Beaux-Arts d'Orléans is on a mission to retrieve hundreds of missing artworks from its collections. It recently tracked down a 17th-century painting by Dutch artist Willem Cornelisz Duyster right before it went to auction in Switzerland]]>
-      </description>
-      <source:markdown>The Musée des Beaux-Arts d&#39;Orléans is on a mission to retrieve hundreds of missing artworks from its collections. It recently tracked down a 17th-century painting by Dutch artist Willem Cornelisz Duyster right before it went to auction in Switzerland</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/14tgONBn0Jd4FuS_yAWM2IoJTqE=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c6/cf/c6cfca0c-e1d2-4995-90cf-4e8b6b08e8a1/cropped.png" length="1282729" type="image/png" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/stolen-during-the-nazi-occupation-of-orleans-france-this-painting-was-rediscovered-after-86-years-with-help-from-wild-west-inspired-wanted-posters-180989839/</guid>
-      <pubDate>Fri, 06 Nov 2026 21:24:21 +0000</pubDate>
-    </item>    <item>
-      <title>This Wooden Wardrobe in Pompeii Remained Sealed for Nearly 2,000 Years. Archaeologists Just Opened It for the First Time</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-wooden-wardrobe-in-pompeii-remained-sealed-for-nearly-2000-years-archaeologists-just-opened-it-for-the-first-time-180989831/</link>
-      <description>
-        <![CDATA[The ancient cabinet held a pair of tweezers, a perfume bottle, an incense burner and ceramic vessels. But the most impressive find was a necklace sporting at least 24 amulets shaped like deities, plants and body parts]]>
-      </description>
-      <source:markdown>The ancient cabinet held a pair of tweezers, a perfume bottle, an incense burner and ceramic vessels. But the most impressive find was a necklace sporting at least 24 amulets shaped like deities, plants and body parts</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/dJaocL179w8YeNv78i8Tvri9nW4=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/59/12/591201bc-a54a-4e18-aae0-8b8a68273cf0/vessels.jpg" length="520766" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/this-wooden-wardrobe-in-pompeii-remained-sealed-for-nearly-2000-years-archaeologists-just-opened-it-for-the-first-time-180989831/</guid>
-      <pubDate>Fri, 06 Nov 2026 21:13:35 +0000</pubDate>
-    </item>    <item>
-      <title>For Centuries, Cave Visitors Walked Right by 280 Ice Age Engravings. The Newly Discovered Rock Art Is Rewriting Catalonia&#39;s Prehistory</title>
-      <link>https://www.smithsonianmag.com/smart-news/for-centuries-visitors-walked-right-by-280-ice-age-engravings-in-a-catalan-cave-the-newly-discovered-rock-art-is-rewriting-catalonias-prehistory-180989827/</link>
-      <description>
-        <![CDATA[Prior to the discovery, rock art in northeastern Spain was "very scarce," one archaeologist says. The drawings show dozens of animals, as well as more abstract shapes, which are distinct from other Paleolithic styles]]>
-      </description>
-      <source:markdown>Prior to the discovery, rock art in northeastern Spain was &#34;very scarce,&#34; one archaeologist says. The drawings show dozens of animals, as well as more abstract shapes, which are distinct from other Paleolithic styles</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/SWb3yKHz45X9kWtqm_q8u7pZV-I=/420x240/filters:focal(532x375:533x376)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c3/d1/c3d11185-0358-4ca4-a7dc-2f0ad4f6791c/urn_cambridgeorg_id_binary-alt_20261022184619-29572-optimisedimage-png-s0003598x26104475_fig3.png" length="1858003" type="image/png" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/for-centuries-visitors-walked-right-by-280-ice-age-engravings-in-a-catalan-cave-the-newly-discovered-rock-art-is-rewriting-catalonias-prehistory-180989827/</guid>
-      <pubDate>Fri, 06 Nov 2026 18:57:53 +0000</pubDate>
-    </item>    <item>
-      <title>Strange Gas in Mars&#39; Atmosphere Hints the Red Planet Is Still Volcanically Active—and Points to Places to Search for Alien Life</title>
-      <link>https://www.smithsonianmag.com/smart-news/strange-gas-in-mars-atmosphere-hints-the-red-planet-is-still-volcanically-active-and-points-to-places-to-search-for-alien-life-180989817/</link>
-      <description>
-        <![CDATA[Cracks along a giant Martian volcano, possibly above a magma chamber, might be spewing magmatic gases into the atmosphere, according to a new study. The fissures might host environments akin to Earth's hydrothermal vents, where life on our planet may have emerged]]>
-      </description>
-      <source:markdown>Cracks along a giant Martian volcano, possibly above a magma chamber, might be spewing magmatic gases into the atmosphere, according to a new study. The fissures might host environments akin to Earth&#39;s hydrothermal vents, where life on our planet may have emerged</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/xpUmLGNeSWSAFdNilDCEsnsSCks=/420x240/filters:focal(511x423:512x424)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3b/9f/3b9f4410-bdf1-4c91-b094-ec5cfc7fc487/alba_mons_viking_dim.jpg" length="191808" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/strange-gas-in-mars-atmosphere-hints-the-red-planet-is-still-volcanically-active-and-points-to-places-to-search-for-alien-life-180989817/</guid>
-      <pubDate>Fri, 06 Nov 2026 17:13:33 +0000</pubDate>
-    </item>    <item>
-      <title>M30’s Sparkling Stars</title>
-      <link>https://www.nasa.gov/image-article/m30s-sparkling-stars/</link>
-      <description>
-        <![CDATA[This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about [&#8230;]]]>
-      </description>
-      <source:markdown>This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about \[…\]</source:markdown>
-      <dc:creator>HQ Web Team</dc:creator>
-      <guid isPermaLink="false">cid://https://www.nasa.gov/?post_type=image-article&#38;p=1062898</guid>
-      <category>Messier Catalog</category>
-      <pubDate>Fri, 06 Nov 2026 16:23:41 +0000</pubDate>
-    </item>    <item>
-      <title>Supercomputing Tech Demo Schedule</title>
-      <link>https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/</link>
-      <description>
-        <![CDATA[Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates in Fortran 2028Tom Clune11:00 AM Type-safe Templates in Fortran 2028Tom Clune1:00PM Mixing and Matching and Multiple Versions, Oh My!Brad Richardson1:30 PMMixing and Matching and Multiple […]]]>
-      </description>
-      <source:markdown>Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates in Fortran 2028Tom Clune11:00 AM Type-safe Templates in Fortran 2028Tom Clune1:00PM Mixing and Matching and Multiple Versions, Oh My!Brad Richardson1:30 PMMixing and Matching and Multiple \[…\]</source:markdown>
-      <guid isPermaLink="false">cid://https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/</guid>
-      <category>Earth</category>
-      <pubDate>Fri, 06 Nov 2026 16:03:52 +0000</pubDate>
-    </item>    <item>
-      <title>How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks</title>
-      <link>https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/</link>
-      <description>
-        <![CDATA[A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless [&#8230;]]]>
-      </description>
-      <source:markdown>A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless \[…\]</source:markdown>
-      <dc:creator>Soma Velayutham</dc:creator>
-      <guid isPermaLink="false">cid://https://blogs.nvidia.com/?p=99702</guid>
-      <category>AI</category>
-      <category>AI Infrastructure</category>
-      <category>Software</category>
-      <category>6G</category>
-      <category>Open Source</category>
-      <category>Telecommunications</category>
-      <pubDate>Fri, 06 Nov 2026 16:00:35 +0000</pubDate>
-    </item>    <item>
-      <title>These Moths Use Their Genitals to Fend Off Bats—but Not in the Way You Think. They Emit Ultrasound to Scramble the Predators&#39; Sonar</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-moths-use-their-genitals-to-fend-off-bats-but-not-in-the-way-you-think-they-emit-ultrasound-to-scramble-the-predators-sonar-180989819/</link>
-      <description>
-        <![CDATA[New research suggests male hawkmoths have three distinct anti-bat, ultrasound-producing systems. These may have evolved independently up to seven times between 5 million and 30 million years ago]]>
-      </description>
-      <source:markdown>New research suggests male hawkmoths have three distinct anti-bat, ultrasound-producing systems. These may have evolved independently up to seven times between 5 million and 30 million years ago</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/mtnoOFdeA5HFDpKLGxQZiXWyA-g=/420x240/filters:focal(1782x1154:1783x1155)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c4/da/c4dafb1f-efc8-405d-8d67-cf58f34b6c9f/megacorma_obliqua_mgcl_1195979_d_cropped.jpg" length="1309997" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/these-moths-use-their-genitals-to-fend-off-bats-but-not-in-the-way-you-think-they-emit-ultrasound-to-scramble-the-predators-sonar-180989819/</guid>
-      <pubDate>Fri, 06 Nov 2026 16:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>A Strange Quantum Theorem Has Killed Einstein’s Reality</title>
-      <link>https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/</link>
-      <description>
-        <![CDATA[Albert Einstein fought to save our everyday notion of reality from the strangeness of quantum mechanics. But those who set out to aid him keep poking holes in his argument.            <p>The post <a href="https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/" target="_blank">A Strange Quantum Theorem Has Killed Einstein’s Reality</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <source:markdown>Albert Einstein fought to save our everyday notion of reality from the strangeness of quantum mechanics. But those who set out to aid him keep poking holes in his argument.
-
-The post [A Strange Quantum Theorem Has Killed Einstein’s Reality](https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/) first appeared on [Quanta Magazine](https://www.quantamagazine.org)</source:markdown>
-      <dc:creator>Charlie Wood</dc:creator>
-      <guid isPermaLink="false">cid://https://www.quantamagazine.org/?p=168674</guid>
-      <category>Physics</category>
-      <pubDate>Fri, 06 Nov 2026 15:48:54 +0000</pubDate>
-    </item>    <item>
-      <title>The Arctic Polar Vortex Is Collapsing Earlier in the Season Than Ever Documented—but We Don&#39;t Know How It&#39;ll Affect Global Weather</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-arctic-polar-vortex-is-collapsing-earlier-in-the-season-than-ever-documented-but-we-dont-know-how-itll-affect-global-weather-180989818/</link>
-      <description>
-        <![CDATA[A previous polar vortex disruption contributed to the Great Texas Freeze in 2021. This time, the ongoing "super" El Niño might offset some of the collapse's influence]]>
-      </description>
-      <source:markdown>A previous polar vortex disruption contributed to the Great Texas Freeze in 2021. This time, the ongoing &#34;super&#34; El Niño might offset some of the collapse&#39;s influence</source:markdown>
-      <enclosure url="https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/27/d7/27d7820e-e7b8-45c0-b068-71debfbdb708/airs_captures_polar_vortex_2019_pia22823.gif" length="1236628" type="image/gif" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/the-arctic-polar-vortex-is-collapsing-earlier-in-the-season-than-ever-documented-but-we-dont-know-how-itll-affect-global-weather-180989818/</guid>
-      <pubDate>Fri, 06 Nov 2026 15:00:00 +0000</pubDate>
-    </item>    <item>
-      <title>Michelangelo Used These Custom, Multi-Headed Brushes While Painting &#39;The Last Judgment&#39; to Replicate His Intricate Sculpting Techniques</title>
-      <link>https://www.smithsonianmag.com/smart-news/michelangelo-used-these-custom-multi-headed-brushes-while-painting-the-last-judgment-to-replicate-his-intricate-sculpting-techniques-180989816/</link>
-      <description>
-        <![CDATA[While restoring the Sistine Chapel, researchers discovered wavy groupings of brushstrokes which indicated that the artist used the special brushes to create a distinct crosshatching pattern]]>
-      </description>
-      <source:markdown>While restoring the Sistine Chapel, researchers discovered wavy groupings of brushstrokes which indicated that the artist used the special brushes to create a distinct crosshatching pattern</source:markdown>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/efmAN1aSNp9g_ZFyL7zYl4Tpzpk=/420x240/filters:focal(2916x1944:2917x1945)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7e/24/7e246316-1413-4047-8b72-a209fdc52de2/5.jpg" length="5080714" type="image/jpeg" />
-      <guid isPermaLink="false">cid://https://www.smithsonianmag.com/smart-news/michelangelo-used-these-custom-multi-headed-brushes-while-painting-the-last-judgment-to-replicate-his-intricate-sculpting-techniques-180989816/</guid>
-      <pubDate>Fri, 06 Nov 2026 14:42:11 +0000</pubDate>
-    </item>    <item>
-      <title>APOD: 2026 November 6 – A Farewell to Swift</title>
-      <link>https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/</link>
-      <description>
-        <![CDATA[APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Farewell [&#8230;]]]>
-      </description>
-      <source:markdown>APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Farewell \[…\]</source:markdown>
-      <guid isPermaLink="false">cid://https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/</guid>
-      <category>APOD</category>
-      <pubDate>Fri, 06 Nov 2026 05:05:00 +0000</pubDate>
-    </item>    <item>
-      <title>Taking a Gander at Utah’s Goosenecks</title>
-      <link>https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/</link>
-      <description>
-        <![CDATA[The San Juan River has carved deep, improbably curvy meanders into the desert landscape.]]>
-      </description>
-      <source:markdown>The San Juan River has carved deep, improbably curvy meanders into the desert landscape.</source:markdown>
-      <guid isPermaLink="false">cid://https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/</guid>
-      <category>Earth Observatory</category>
-      <category>Surface Water</category>
-      <category>Topography</category>
-      <pubDate>Fri, 06 Nov 2026 05:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

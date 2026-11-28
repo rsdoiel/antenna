@@ -1,14 +1,128 @@
 ---
 title: "Urban Farm"
 description: "Home, garden and urban farm blogs and news."
-pubDate: Fri, 27 Nov 2026 01:08:05 GMT
+pubDate: Sat, 28 Nov 2026 01:19:57 GMT
 aggregateOf: "home.md"
-dateModified: Fri, 27 Nov 2026 14:46:54 GMT
-itemCount: 388
+dateModified: Sat, 28 Nov 2026 14:45:50 GMT
+itemCount: 385
 generator: antenna/0.2.1
 ---
 
 # Urban Farm
+
+## [10 House Centipede Secrets That Most California Homeowners Overlook](https://ownyardlife.com/10-house-centipede-secrets-that-most-california-homeowners-overlook/)
+
+via Yard Life blog · 2026-11-28
+
+The sight of a house centipede racing across a bathroom floor can make even a clean, well-maintained California home feel ...
+
+[Read more](https://ownyardlife.com/10-house-centipede-secrets-that-most-california-homeowners-overlook/#more-70328 "10 House Centipede Secrets That Most California Homeowners Overlook")
+
+The post [10 House Centipede Secrets That Most California Homeowners Overlook](https://ownyardlife.com/10-house-centipede-secrets-that-most-california-homeowners-overlook/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Most Ohio Homeowners Don’t Know About the Hidden Lives of House Centipedes](https://ownyardlife.com/what-most-ohio-homeowners-dont-know-about-the-hidden-lives-of-house-centipedes/)
+
+via Yard Life blog · 2026-11-28
+
+A house centipede racing across a basement wall in Ohio can disappear into a crack before most homeowners have time ...
+
+[Read more](https://ownyardlife.com/what-most-ohio-homeowners-dont-know-about-the-hidden-lives-of-house-centipedes/#more-70321 "What Most Ohio Homeowners Don’t Know About the Hidden Lives of House Centipedes")
+
+The post [What Most Ohio Homeowners Don’t Know About the Hidden Lives of House Centipedes](https://ownyardlife.com/what-most-ohio-homeowners-dont-know-about-the-hidden-lives-of-house-centipedes/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Happens When Bobcats and Domestic Cats Meet in New York](https://ownyardlife.com/what-happens-when-bobcats-and-domestic-cats-meet-in-new-york/)
+
+via Yard Life blog · 2026-11-28
+
+A trail camera in the Adirondacks captures a bobcat walking past a snow-covered deer carcass. In the Catskills, another may ...
+
+[Read more](https://ownyardlife.com/what-happens-when-bobcats-and-domestic-cats-meet-in-new-york/#more-70314 "What Happens When Bobcats and Domestic Cats Meet in New York")
+
+The post [What Happens When Bobcats and Domestic Cats Meet in New York](https://ownyardlife.com/what-happens-when-bobcats-and-domestic-cats-meet-in-new-york/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Happens When Bobcats and Domestic Cats Meet in Missouri](https://ownyardlife.com/what-happens-when-bobcats-and-domestic-cats-meet-in-missouri/)
+
+via Yard Life blog · 2026-11-28
+
+A bobcat moving along a limestone bluff in the Missouri Ozarks may be hunting rabbits, following a scent trail, or ...
+
+[Read more](https://ownyardlife.com/what-happens-when-bobcats-and-domestic-cats-meet-in-missouri/#more-70307 "What Happens When Bobcats and Domestic Cats Meet in Missouri")
+
+The post [What Happens When Bobcats and Domestic Cats Meet in Missouri](https://ownyardlife.com/what-happens-when-bobcats-and-domestic-cats-meet-in-missouri/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Happens When Bobcats and Domestic Cats Meet in Maine](https://ownyardlife.com/what-happens-when-bobcats-and-domestic-cats-meet-in-maine/)
+
+via Yard Life blog · 2026-11-28
+
+Maine winters can change the way wildlife moves through the landscape. When deep snow covers forest floors and makes hunting ...
+
+[Read more](https://ownyardlife.com/what-happens-when-bobcats-and-domestic-cats-meet-in-maine/#more-70299 "What Happens When Bobcats and Domestic Cats Meet in Maine")
+
+The post [What Happens When Bobcats and Domestic Cats Meet in Maine](https://ownyardlife.com/what-happens-when-bobcats-and-domestic-cats-meet-in-maine/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Happens When Bobcats and Domestic Cats Meet in Indiana](https://ownyardlife.com/what-happens-when-bobcats-and-domestic-cats-meet-in-indiana/)
+
+via Yard Life blog · 2026-11-28
+
+For much of the twentieth century, bobcats were so scarce in Indiana that many residents grew up thinking the state ...
+
+[Read more](https://ownyardlife.com/what-happens-when-bobcats-and-domestic-cats-meet-in-indiana/#more-70292 "What Happens When Bobcats and Domestic Cats Meet in Indiana")
+
+The post [What Happens When Bobcats and Domestic Cats Meet in Indiana](https://ownyardlife.com/what-happens-when-bobcats-and-domestic-cats-meet-in-indiana/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Happens When Bobcats and Domestic Cats Meet in Illinois](https://ownyardlife.com/what-happens-when-bobcats-and-domestic-cats-meet-in-illinois/)
+
+via Yard Life blog · 2026-11-28
+
+Outdoor cats wandering along wooded property lines and bobcats moving through Illinois farm country sometimes use the same narrow corridors ...
+
+[Read more](https://ownyardlife.com/what-happens-when-bobcats-and-domestic-cats-meet-in-illinois/#more-70285 "What Happens When Bobcats and Domestic Cats Meet in Illinois")
+
+The post [What Happens When Bobcats and Domestic Cats Meet in Illinois](https://ownyardlife.com/what-happens-when-bobcats-and-domestic-cats-meet-in-illinois/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Happens When Opossums and Water Moccasins Encounter Each Other in Western Kentucky](https://ownyardlife.com/what-happens-when-opossums-and-water-moccasins-encounter-each-other-in-western-kentucky/)
+
+via Yard Life blog · 2026-11-28
+
+Opossums searching through flooded leaves and cottonmouths resting beneath submerged branches share some of the same hidden spaces in western ...
+
+[Read more](https://ownyardlife.com/what-happens-when-opossums-and-water-moccasins-encounter-each-other-in-western-kentucky/#more-70278 "What Happens When Opossums and Water Moccasins Encounter Each Other in Western Kentucky")
+
+The post [What Happens When Opossums and Water Moccasins Encounter Each Other in Western Kentucky](https://ownyardlife.com/what-happens-when-opossums-and-water-moccasins-encounter-each-other-in-western-kentucky/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Happens When Opossums and Water Moccasins Encounter Each Other in Arkansas](https://ownyardlife.com/what-happens-when-opossums-and-water-moccasins-encounter-each-other-in-arkansas/)
+
+via Yard Life blog · 2026-11-28
+
+A water moccasin has one of the most effective weapons available to a predator: venom capable of damaging tissue, disrupting ...
+
+[Read more](https://ownyardlife.com/what-happens-when-opossums-and-water-moccasins-encounter-each-other-in-arkansas/#more-70272 "What Happens When Opossums and Water Moccasins Encounter Each Other in Arkansas")
+
+The post [What Happens When Opossums and Water Moccasins Encounter Each Other in Arkansas](https://ownyardlife.com/what-happens-when-opossums-and-water-moccasins-encounter-each-other-in-arkansas/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [What Happens When Opossums and Water Moccasins Encounter Each Other in South Carolina](https://ownyardlife.com/what-happens-when-opossums-and-water-moccasins-encounter-each-other-in-south-carolina/)
+
+via Yard Life blog · 2026-11-28
+
+On a warm evening in South Carolina’s Coastal Plain, an opossum may wander along the muddy edge of a creek, ...
+
+[Read more](https://ownyardlife.com/what-happens-when-opossums-and-water-moccasins-encounter-each-other-in-south-carolina/#more-70265 "What Happens When Opossums and Water Moccasins Encounter Each Other in South Carolina")
+
+The post [What Happens When Opossums and Water Moccasins Encounter Each Other in South Carolina](https://ownyardlife.com/what-happens-when-opossums-and-water-moccasins-encounter-each-other-in-south-carolina/) appeared first on [Own Yard Life](https://ownyardlife.com).
+
+## [Experts Say These Simple Home Changes Can Make Your Space Less Gloomy in the Winter](https://sunset.com/home-garden/design/make-home-less-gloomy-in-winter)
+
+via Sunset Magazine - Living in the West · 2026-11-27, updated 2026-11-28
+
+From brighter bulbs to better evening routines, sleep experts share simple ways to make your home feel cozier during winter time.
+
+## [How to Manage Winter Damage in Yews](https://gardenerspath.com/plants/ornamentals/yew-winter-damage/)
+
+via The Gardener's Path · 2026-11-27
+
+Winter damage can really put a dent in a yew’s evergreen status, often causing the foliage to die and turn brown. In this guide, we’ll cover the various forms winter damage can take in these plants, and provide prevention and treatment strategies for dealing with this unwanted condition. Read more now.
+
+The post [How to Manage Winter Damage in Yews](https://gardenerspath.com/plants/ornamentals/yew-winter-damage/) appeared first on [Gardener's Path](https://gardenerspath.com).
 
 ## [What Those Tiny Worms Hiding in Mississippi Pantry Shelves Actually Are](https://ownyardlife.com/what-those-tiny-worms-hiding-in-mississippi-pantry-shelves-actually-are/)
 
@@ -112,13 +226,13 @@ The post [What Those Strange Worms Crawling Out of Tennessee Bathroom Drains Act
 
 ## [Homepage 2025](https://sunset.com/)
 
-via Sunset Magazine - Living in the West · 2026-11-26, updated 2026-11-27
+via Sunset Magazine - Living in the West · 2026-11-26, updated 2026-11-28
 
 Food & Drink, Holidays From Empanadas to a Noodle Stir Fry, Here’s How to Make Your Thanksgiving Leftovers More Exciting These recipes will even make three-day-old turkey appetizing. Read more: From… [Read More](https://sunset.com/)
 
 ## [How to Grow and Care for Key Lime Pie Plants](https://gardenerspath.com/plants/succulents/grow-key-lime-pie-plant/)
 
-via The Gardener's Path · 2026-11-26
+via The Gardener's Path · 2026-11-26, updated 2026-11-27
 
 Key lime pie aka crinkle leaf plants are distinctive succulents with attractive foliage and plenty of ornamental flexibility. Whether grown as houseplants or outdoors, they make eye-catching specimens wherever you choose to put them. Learn how to grow and care for key lime pie plants in this guide. Read more now.
 
@@ -226,19 +340,19 @@ The post [What Happens When Bobcats and Domestic Cats Meet in New Mexico](https:
 
 ## [How This ADU’s Living Room Became Los Angeles’ Hottest Cafe](https://sunset.com/home-garden/home-tours/granada-adu-los-angeles)
 
-via Sunset Magazine - Living in the West · 2026-11-26, updated 2026-11-27
+via Sunset Magazine - Living in the West · 2026-11-26, updated 2026-11-28
 
 Interior designer Sydney Wayser and architect Isaac Watters turned their ADU home into a coffee shop for their community.
 
 ## [These Are the Best Black Friday and Cyber Monday Deals This Year](https://sunset.com/lifestyle/shopping/best-black-friday-cyber-monday-deals-2026)
 
-via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-27
+via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-28
 
 Our editors are sharing the best deals to shop this Black Friday and Cyber Monday in the categories of home, kitchen, travel, and wellness.
 
 ## [How to Create a Naturalized Daffodil Planting](https://gardenerspath.com/plants/flowers/naturalizing-daffodils/)
 
-via The Gardener's Path · 2026-11-25, updated 2026-11-26
+via The Gardener's Path · 2026-11-25, updated 2026-11-27
 
 Naturalized daffodils are great for hard-to-landscape areas and can last for decades, providing springtime color year after year. To make these drifts of flowers look like they were designed by nature’s hand rather than your own, you’ll want to plan your layout before you plant in the fall. Keep reading to learn more.
 
@@ -270,7 +384,7 @@ The post [Agencies Team Up at Mountain Mandarin Festival to Protect California A
 
 ## [Travel the West](https://sunset.com/travel)
 
-via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-27
+via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-28
 
 The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure!
 
@@ -292,91 +406,91 @@ The post [Has That Final Destination Truck Scene Ever Actually Happened in Real 
 
 ## [From Empanadas to a Noodle Stir Fry, Here’s How to Make Your Thanksgiving Leftovers More Exciting](https://sunset.com/food-wine/holidays-occasions/thanksgiving-leftover-recipes)
 
-via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-27
+via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-28
 
 It's just not Thanksgiving without leftovers. Try these recipes for some great ways to reinvent Thanksgiving leftovers.
 
 ## [The Most Surprising Things Chefs Serve for Thanksgiving](https://sunset.com/food-wine/surprising-thanksgiving-dishes)
 
-via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-27
+via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-28
 
 We asked professional chefs for the surprising and unique Thanksgiving dishes they serve their family and friends.
 
 ## [Even Chefs Dread Making These Holiday Dishes. Here’s What They’d Cook Instead](https://sunset.com/food-wine/chefs-least-favorite-holiday-dishes)
 
-via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-27
+via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-28
 
 We asked chefs across the West which holiday staples aren't worth the hassle. Their answers might surprise you.
 
 ## [Your Ultimate Guide to Seeing Holiday Lights in Western Gardens This Season](https://sunset.com/home-garden/flowers-plants/holiday-lights-in-western-gardens-2026)
 
-via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-27
+via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-28
 
 Discover the best holiday light displays at botanical gardens, arboretums, and outdoor destinations across the West.
 
 ## [From Cooking Tools to Unique Meal Kits, Foodies Will Appreciate These Holiday Gifts](https://sunset.com/lifestyle/shopping/best-food-gifts)
 
-via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-27
+via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-28
 
 From cooking tools and gear to unique food sets, these indulgent food gifts will satisfy everyone on your list.
 
 ## [The Best Travel Gifts for the Person Who Is Serious About Their Frequent Flyer Status](https://sunset.com/lifestyle/shopping/best-travel-gifts)
 
-via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-27
+via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-28
 
 Got an adventurer on your gift list? Our editors picked the best travel gifts. These finds can elevate their next trip.
 
 ## [25 Hostess Gifts That Will Guarantee You an Invite Back](https://sunset.com/food-wine/entertaining/hostess-gift-ideas)
 
-via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-27
+via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-28
 
 Don't show up empty-handed to your next holiday party. These hostess gift ideas will be much appreciated and get you invited back.
 
 ## [These Hacks Will Save You Time on Thanksgiving Day](https://sunset.com/food-wine/time-saving-thanksgiving-tips)
 
-via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-27
+via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-28
 
 There never seems to be enough time when you’re hosting Thanksgiving, but if you plan you can manage your time wisely with these tips.
 
 ## [15 Thanksgiving Pie Recipes That Aren’t All Pumpkin](https://sunset.com/food-wine/kitchen-assistant/thanksgiving-pie-recipes)
 
-via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-27
+via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-28
 
 We love a classic pumpkin pie, but there are other fall flavors to tuck into a crust for Thanksgiving. Try these Thanksgiving pie recipes.
 
 ## [These 10 Thanksgiving Hacks Will Save Your Holiday Feast](https://sunset.com/food-wine/holidays/thanksgiving-hacks)
 
-via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-27
+via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-28
 
 For every Thanksgiving crisis, we’ve got a delicious hack—each equally useful even when all is going according to plan.
 
 ## [These Thanksgiving Dishes Are Often an Afterthought—and That’s a Big Mistake](https://sunset.com/food-wine/underrated-thanksgiving-dishes)
 
-via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-27
+via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-28
 
 On Thanksgiving Day, the emphasis is always on the turkey, but chefs say not to forget about these overlooked dishes.
 
 ## [Yes, You Can Sauna and Cold-Plunge at Home. Here’s How.](https://sunset.com/lifestyle/wellness/stylish-at-home-saunas-cold-plunges)
 
-via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-27
+via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-28
 
 These winners of the Sunset Wellness & Beauty Awards can help you achieve a full-on wellness center in your backyard.
 
 ## [These Are the Absolute Best Spots for Après in the West (Even If You Aren’t Hitting the Slopes)](https://sunset.com/travel/best-apres-ski-bars-in-the-west)
 
-via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-27
+via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-28
 
 Even if you don't ski or snowboard, these iconic bars in the West offer the best apres ski experiences this winter.
 
 ## [How I Found Peace This Winter on a Cold-Plunging, Snow-Shoeing, Forest-Bathing Adventure](https://sunset.com/travel/outdoor-adventure/eleven-wellness-retreat-taylor-river-lodge)
 
-via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-27
+via Sunset Magazine - Living in the West · 2026-11-25, updated 2026-11-28
 
 I got to visit Taylor River Lodge, which offers winter activities that allow guests to connect with the cold in new, meaningful ways.
 
 ## [The West Shore Is Lake Tahoe’s Best-Kept Secret—Save This Itinerary for Your Next Visit](https://sunset.com/travel/outdoor-adventure/west-shore-lake-tahoe-things-to-do)
 
-via Sunset Magazine - Living in the West · 2026-11-24, updated 2026-11-27
+via Sunset Magazine - Living in the West · 2026-11-24, updated 2026-11-28
 
 The West Shore has always offered a different pace in Lake Tahoe. Here's where to stay, drink, eat, and visit in Lake Tahoe's West Shore.
 
@@ -518,7 +632,7 @@ The post [Is Heat Escaping Your House? A RISION Thermal Imaging Camera Can Help]
 
 ## [How to Overwinter Garden Geraniums](https://gardenerspath.com/plants/flowers/geranium-winter-care/)
 
-via The Gardener's Path · 2026-11-24, updated 2026-11-26
+via The Gardener's Path · 2026-11-24, updated 2026-11-27
 
 Garden, or zonal geraniums are popular herbaceous perennials in Zones 10 and 11 that grow as annuals in colder regions. Instead of letting them die at season’s end, you can overwinter your plants indoors for planting out the following spring. Learn all you need to know to winter over garden geraniums in this guide.
 
@@ -766,7 +880,7 @@ The post [What Most Michigan Homeowners Don’t Know About Stink Bugs in Winter]
 
 ## [How to Grow Butterfly Pea (Blue Tea Flower)](https://gardenerspath.com/plants/flowers/grow-butterfly-pea/)
 
-via The Gardener's Path · 2026-11-22, updated 2026-11-26
+via The Gardener's Path · 2026-11-22, updated 2026-11-27
 
 Butterfly peas have bright, bold blue flowers and can be used as fodder. They also give back to the garden by fixing nitrogen in the soil. The blossoms are edible and they even change color from vibrant blue to brilliant purple when you put them in water and add lemon juice. Learn how to grow butterfly pea in this guide.
 
@@ -824,7 +938,7 @@ The post [What Happens When Coyotes and Domestic Dogs Breed in Texas](https://ow
 
 ## [The Best Cold Hardy Rosemary Varieties](https://gardenerspath.com/plants/herbs/cold-hardy-rosemary/)
 
-via The Gardener's Path · 2026-11-22, updated 2026-11-26
+via The Gardener's Path · 2026-11-22, updated 2026-11-27
 
 Do you live in Zones 5 to 7 and would like to overwinter rosemary? This pungent, warm-weather herb from the Mediterranean is commonly used to season savory dishes and provides interest in the garden. Learn about the different cold-hardy varieties that can withstand brutally cold weather. Read more now.
 
@@ -1108,7 +1222,7 @@ The next shipment of Sunset Wine Club bottles matches beautifully with the dishe
 
 ## [What Is Xerophytic Garden Design?](https://gardenerspath.com/plants/succulents/xerophytic-garden-design/)
 
-via The Gardener's Path · 2026-11-20, updated 2026-11-26
+via The Gardener's Path · 2026-11-20, updated 2026-11-27
 
 Nowadays, we’re all concerned about natural resources and the environment – and rightly so! But there are steps that we can take to reduce our environmental impact, like landscaping with plant species that need less water to thrive. Learn how to plan a xerophytic garden and choose the best plants for your needs.
 
@@ -1216,7 +1330,7 @@ The post [What Those Strange Worms Crawling Out of Ohio Bathroom Drains Actually
 
 ## [What To Do About Woody Stems on Your Christmas Cactus](https://gardenerspath.com/plants/succulents/woody-christmas-cactus/)
 
-via The Gardener's Path · 2026-11-19, updated 2026-11-26
+via The Gardener's Path · 2026-11-19, updated 2026-11-27
 
 Tropical Christmas cactus is a relatively easy houseplant to grow. Native to the rainforests of South America, it thrives with indirect sunlight in organically-rich, well-draining potting medium. The fleshy stems are green and segmented, but sometimes they turn brown and become woody. Read on to learn what this means.
 
@@ -1293,12 +1407,6 @@ via Family Handyman Blog · 2026-11-19, updated 2026-11-27
 Avoid damaging salt-sensitive outdoor surfaces with these expert-backed suggestions.
 
 The post [7 Surfaces You Should Never Use Ice Melt On](https://www.familyhandyman.com/article/surfaces-melting-salt/) appeared first on [Family Handyman](https://www.familyhandyman.com).
-
-## [Experts Say These Simple Home Changes Can Make Your Space Less Gloomy in the Winter](https://sunset.com/home-garden/design/make-home-less-gloomy-in-winter)
-
-via Sunset Magazine - Living in the West · 2026-11-19, updated 2026-11-21
-
-From brighter bulbs to better evening routines, sleep experts share simple ways to make your home feel cozier during winter time.
 
 ## [It’s Time to Give That Tired Retaining Wall a Fall Upgrade](https://sunset.com/home-garden/landscaping/fall-upgrade-for-retaining-walls)
 
@@ -1442,7 +1550,7 @@ The post [Follow the Leader](https://www.cnps.org/flora-magazine/bruce-ehlers-en
 
 ## [How to Acclimate Plants for Winter Indoors](https://gardenerspath.com/plants/houseplants/acclimate-plants-indoors/)
 
-via The Gardener's Path · 2026-11-18, updated 2026-11-26
+via The Gardener's Path · 2026-11-18, updated 2026-11-27
 
 If you take some of your houseplants outside to spend the summer months on the patio or in the garden, you'll need to plan ahead before you bring them back indoors. As the temperatures drop, follow these top tips for acclimating your plants to the indoor environment to ensure a smooth transition. Read more now.
 
@@ -1630,7 +1738,7 @@ The post [18 Kitchen Hacks Our Readers Swear By](https://www.familyhandyman.com/
 
 ## [Why Is My Christmas Cactus Turning Yellow?](https://gardenerspath.com/plants/succulents/christmas-cactus-yellow/)
 
-via The Gardener's Path · 2026-11-17, updated 2026-11-26
+via The Gardener's Path · 2026-11-17, updated 2026-11-27
 
 Tropical Christmas cactus is a rainforest epiphyte with beautiful blooms that has become a popular houseplant. It thrives in indirect sunlight, and organically-rich, well-draining potting medium. It has green segmented stems that sometimes turn yellow. Read on to find out why this happens and what you can do about it.
 
@@ -3235,136 +3343,4 @@ Texas residents sometimes notice a bobcat moving through a backyard, slipping al
 [Read more](https://ownyardlife.com/10-strange-bobcat-behaviors-that-texas-residents-often-misunderstand/#more-68779 "10 Strange Bobcat Behaviors That Texas Residents Often Misunderstand")
 
 The post [10 Strange Bobcat Behaviors That Texas Residents Often Misunderstand](https://ownyardlife.com/10-strange-bobcat-behaviors-that-texas-residents-often-misunderstand/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [Why Is My Christmas Cactus Turning Purple?](https://gardenerspath.com/plants/succulents/christmas-cactus-purple/)
-
-via The Gardener's Path · 2026-11-06, updated 2026-11-17
-
-Christmas cactus is a relatively trouble-free, easy-care houseplant that puts on a show of abundant tropical blooms during the holiday season. Sometimes you may notice that the segmented stems are no longer green, but purplish-red. Read on to discover what may cause this to happen, and what you can do to prevent it.
-
-The post [Why Is My Christmas Cactus Turning Purple?](https://gardenerspath.com/plants/succulents/christmas-cactus-purple/) appeared first on [Gardener's Path](https://gardenerspath.com).
-
-## [8 Reasons a Contractor Might Give You an Outrageously High Estimate](https://www.familyhandyman.com/list/why-contractor-gave-high-quote/)
-
-via Family Handyman Blog · 2026-11-06, updated 2026-11-27
-
-If you just got a quote for a home repair that made your eyes water, there's probably a reason it's so high. A team of contractors weighs in with possible explanations.
-
-The post [8 Reasons a Contractor Might Give You an Outrageously High Estimate](https://www.familyhandyman.com/list/why-contractor-gave-high-quote/) appeared first on [Family Handyman](https://www.familyhandyman.com).
-
-## [I Thought Multi-Tools Were a Gimmick — Then I Took One on a Camping Trip](https://www.familyhandyman.com/article/leatherman-wave-plus-multi-tool/)
-
-via Family Handyman Blog · 2026-11-06, updated 2026-11-27
-
-If, like me, you think multi-tools are gimmicky gadgets, you might change your mind once you discover how handy they are when your toolbox isn’t within reach.
-
-The post [I Thought Multi-Tools Were a Gimmick — Then I Took One on a Camping Trip](https://www.familyhandyman.com/article/leatherman-wave-plus-multi-tool/) appeared first on [Family Handyman](https://www.familyhandyman.com).
-
-## [Black Friday Is Here! Our Editors Found 65+ Deals for the Home and Workshop](https://www.familyhandyman.com/list/black-friday-2026/)
-
-via Family Handyman Blog · 2026-11-06, updated 2026-11-27
-
-Score big savings on tools, furniture and home essentials for this year's Black Friday sales.
-
-The post [Black Friday Is Here! Our Editors Found 65+ Deals for the Home and Workshop](https://www.familyhandyman.com/list/black-friday-2026/) appeared first on [Family Handyman](https://www.familyhandyman.com).
-
-## [9 Little-Known Secrets of Colorado Jerusalem Crickets](https://ownyardlife.com/9-little-known-secrets-of-colorado-jerusalem-crickets/)
-
-via Yard Life blog · 2026-11-06
-
-Colorado residents who discover a Jerusalem cricket beneath a garden pot, beside a basement foundation, or crossing a patio after ...
-
-[Read more](https://ownyardlife.com/9-little-known-secrets-of-colorado-jerusalem-crickets/#more-68772 "9 Little-Known Secrets of Colorado Jerusalem Crickets")
-
-The post [9 Little-Known Secrets of Colorado Jerusalem Crickets](https://ownyardlife.com/9-little-known-secrets-of-colorado-jerusalem-crickets/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [10 Surprising Things New Mexico Jerusalem Crickets Do Underground](https://ownyardlife.com/10-surprising-things-new-mexico-jerusalem-crickets-do-underground/)
-
-via Yard Life blog · 2026-11-06
-
-New Mexico’s dry landscapes hide a surprisingly active world beneath the soil, where insects spend much of their lives away ...
-
-[Read more](https://ownyardlife.com/10-surprising-things-new-mexico-jerusalem-crickets-do-underground/#more-68765 "10 Surprising Things New Mexico Jerusalem Crickets Do Underground")
-
-The post [10 Surprising Things New Mexico Jerusalem Crickets Do Underground](https://ownyardlife.com/10-surprising-things-new-mexico-jerusalem-crickets-do-underground/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [10 Fascinating Facts About Utah Scorpions That May Surprise Residents](https://ownyardlife.com/10-fascinating-facts-about-utah-scorpions-that-may-surprise-residents/)
-
-via Yard Life blog · 2026-11-06
-
-Utah residents sometimes discover a scorpion crawling across a garage floor, hiding beneath a rock, or appearing near an outdoor ...
-
-[Read more](https://ownyardlife.com/10-fascinating-facts-about-utah-scorpions-that-may-surprise-residents/#more-68759 "10 Fascinating Facts About Utah Scorpions That May Surprise Residents")
-
-The post [10 Fascinating Facts About Utah Scorpions That May Surprise Residents](https://ownyardlife.com/10-fascinating-facts-about-utah-scorpions-that-may-surprise-residents/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [10 Water Moccasin Facts That Mississippi Residents Should Recognize](https://ownyardlife.com/10-water-moccasin-facts-that-mississippi-residents-should-recognize/)
-
-via Yard Life blog · 2026-11-06
-
-Mississippi residents sometimes encounter a dark, heavy-bodied snake resting beside a pond, moving through a flooded ditch, or disappearing beneath ...
-
-[Read more](https://ownyardlife.com/10-water-moccasin-facts-that-mississippi-residents-should-recognize/#more-68752 "10 Water Moccasin Facts That Mississippi Residents Should Recognize")
-
-The post [10 Water Moccasin Facts That Mississippi Residents Should Recognize](https://ownyardlife.com/10-water-moccasin-facts-that-mississippi-residents-should-recognize/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [10 Strange Crow Behaviors That California Residents Often Misunderstand](https://ownyardlife.com/10-strange-crow-behaviors-that-california-residents-often-misunderstand/)
-
-via Yard Life blog · 2026-11-06
-
-California residents often notice crows doing things that seem surprisingly deliberate. One bird may repeatedly drop a walnut onto a ...
-
-[Read more](https://ownyardlife.com/10-strange-crow-behaviors-that-california-residents-often-misunderstand/#more-68745 "10 Strange Crow Behaviors That California Residents Often Misunderstand")
-
-The post [10 Strange Crow Behaviors That California Residents Often Misunderstand](https://ownyardlife.com/10-strange-crow-behaviors-that-california-residents-often-misunderstand/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [9 Little-Known Facts About New York Chipmunks That May Surprise Residents](https://ownyardlife.com/9-little-known-facts-about-new-york-chipmunks-that-may-surprise-residents/)
-
-via Yard Life blog · 2026-11-06
-
-New York residents often notice chipmunks darting across stone walls, disappearing beneath porches, or gathering seeds around backyard feeders. Their ...
-
-[Read more](https://ownyardlife.com/9-little-known-facts-about-new-york-chipmunks-that-may-surprise-residents/#more-68738 "9 Little-Known Facts About New York Chipmunks That May Surprise Residents")
-
-The post [9 Little-Known Facts About New York Chipmunks That May Surprise Residents](https://ownyardlife.com/9-little-known-facts-about-new-york-chipmunks-that-may-surprise-residents/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [10 Strange Habits of Pennsylvania Deer That Many Residents Overlook](https://ownyardlife.com/10-strange-habits-of-pennsylvania-deer-that-many-residents-overlook/)
-
-via Yard Life blog · 2026-11-06
-
-Pennsylvania residents often see white-tailed deer standing beside wooded roads, feeding near gardens, or moving quietly through suburban neighborhoods. Their ...
-
-[Read more](https://ownyardlife.com/10-strange-habits-of-pennsylvania-deer-that-many-residents-overlook/#more-68731 "10 Strange Habits of Pennsylvania Deer That Many Residents Overlook")
-
-The post [10 Strange Habits of Pennsylvania Deer That Many Residents Overlook](https://ownyardlife.com/10-strange-habits-of-pennsylvania-deer-that-many-residents-overlook/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [9 Surprising Things Florida Alligators Do Outside the Water](https://ownyardlife.com/9-surprising-things-florida-alligators-do-outside-the-water/)
-
-via Yard Life blog · 2026-11-06
-
-Florida alligators are usually associated with ponds, lakes, marshes, and slow-moving waterways, where their eyes and nostrils can remain above ...
-
-[Read more](https://ownyardlife.com/9-surprising-things-florida-alligators-do-outside-the-water/#more-68724 "9 Surprising Things Florida Alligators Do Outside the Water")
-
-The post [9 Surprising Things Florida Alligators Do Outside the Water](https://ownyardlife.com/9-surprising-things-florida-alligators-do-outside-the-water/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [9 Strange Behaviors of Cardinals That Ohio Residents Often Misunderstand](https://ownyardlife.com/9-strange-behaviors-of-cardinals-that-ohio-residents-often-misunderstand/)
-
-via Yard Life blog · 2026-11-06
-
-Northern Cardinals are among the most familiar birds in Ohio, appearing in backyard feeders, neighborhood trees, wooded parks, and gardens ...
-
-[Read more](https://ownyardlife.com/9-strange-behaviors-of-cardinals-that-ohio-residents-often-misunderstand/#more-68717 "9 Strange Behaviors of Cardinals That Ohio Residents Often Misunderstand")
-
-The post [9 Strange Behaviors of Cardinals That Ohio Residents Often Misunderstand](https://ownyardlife.com/9-strange-behaviors-of-cardinals-that-ohio-residents-often-misunderstand/) appeared first on [Own Yard Life](https://ownyardlife.com).
-
-## [10 Little-Known Facts About Texas Raccoons That May Surprise Residents](https://ownyardlife.com/10-little-known-facts-about-texas-raccoons-that-may-surprise-residents/)
-
-via Yard Life blog · 2026-11-06
-
-Texas raccoons often appear when neighborhoods become quiet, moving along fences, exploring backyard ponds, or searching around garbage containers after ...
-
-[Read more](https://ownyardlife.com/10-little-known-facts-about-texas-raccoons-that-may-surprise-residents/#more-68710 "10 Little-Known Facts About Texas Raccoons That May Surprise Residents")
-
-The post [10 Little-Known Facts About Texas Raccoons That May Surprise Residents](https://ownyardlife.com/10-little-known-facts-about-texas-raccoons-that-may-surprise-residents/) appeared first on [Own Yard Life](https://ownyardlife.com).
 

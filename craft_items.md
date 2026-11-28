@@ -1,14 +1,22 @@
 ---
 title: "Craft"
 description: "Craft is a list of hand oriented craft and technology\nDo we really need all those power tools?"
-pubDate: Fri, 27 Nov 2026 13:28:04 GMT
+pubDate: Fri, 27 Nov 2026 16:29:52 GMT
 aggregateOf: "craft.md"
-dateModified: Fri, 27 Nov 2026 14:48:53 GMT
-itemCount: 35
+dateModified: Sat, 28 Nov 2026 14:47:47 GMT
+itemCount: 33
 generator: antenna/0.2.1
 ---
 
 # Craft
+
+## [The Splinter Report: November 27th](https://www.popularwoodworking.com/editors-blog/the-splinter-report-november-27th/)
+
+via Popular Woodworking · 2026-11-27, updated 2026-11-25
+
+![](https://media.popularwoodworking.com/app/uploads/2026/11/25133747/splinter-report-11-27-1024x768.jpg)Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re looking at historically accurate furniture, what I’m...
+
+[Source](https://www.popularwoodworking.com/editors-blog/the-splinter-report-november-27th/)
 
 ## [Power Play](https://www.popularwoodworking.com/tools/power-play/)
 
@@ -249,26 +257,4 @@ If I could write 10 more books like “Ingenious Mechanicks,” I would be a hap
 via Lost Arg Press blog · 2026-11-09, updated 2026-11-24
 
 I grew up with campaign furniture. My grandparents collected it. And my dad was fond of building it. We had stacking campaign chests (and, weirdly, side tables) in our house in Arkansas. I didn’t think anything was odd about it. It was simple and rugged stuff. Nothing fancy. But when I started working at Popular...
-
-## [Get ‘The Essential Woodworker’ at the 2010 Price](https://blog.lostartpress.com/2026/11/06/get-the-essential-woodworker-at-the-2010-price/)
-
-via Lost Arg Press blog · 2026-11-06, updated 2026-11-24
-
-Special offer: We are reducing the price of “The Essential Woodworker” by Robert Wearing to $23 – that’s the price we charged in 2010 when we released our version of this important hand-tool book. This special offer lasts until Christmas Day. After that, the book will return to its normal price of $33 (still a...
-
-## [The Splinter Report: November 6th](https://www.popularwoodworking.com/editors-blog/the-splinter-report-november-6th/)
-
-via Popular Woodworking · 2026-11-06, updated 2026-11-16
-
-![](https://media.popularwoodworking.com/app/uploads/2026/11/05140341/splinter-report-11-6-1024x768.jpg)Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re looking at big dreams and a burnt...
-
-[Source](https://www.popularwoodworking.com/editors-blog/the-splinter-report-november-6th/)
-
-## [From The Inside Out](https://www.popularwoodworking.com/editors-blog/from-the-inside-out/)
-
-via Popular Woodworking · 2026-11-06, updated 2026-11-13
-
-![](https://media.popularwoodworking.com/app/uploads/2026/11/04121031/ajblog-1274-copy-1024x729.jpg)Wouldn’t it be great to tour the inside of a great piece of woodworking, like the joinery of a Maloof rocker or the interior of a Krenov cabinet? I’m talking literally...
-
-[Source](https://www.popularwoodworking.com/editors-blog/from-the-inside-out/)
 

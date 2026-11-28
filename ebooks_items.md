@@ -3,8 +3,8 @@ title: "eBooks"
 description: "New eBook releases."
 pubDate: Fri, 20 Nov 2026 17:17:24 GMT
 aggregateOf: "ebooks.md"
-dateModified: Fri, 27 Nov 2026 14:48:18 GMT
-itemCount: 122
+dateModified: Sat, 28 Nov 2026 14:47:13 GMT
+itemCount: 106
 generator: antenna/0.2.1
 ---
 
@@ -643,102 +643,6 @@ Language: English
 ## [A history of Japanese colour-prints by Woldemar von Seidlitz](https://www.gutenberg.org/ebooks/79936)
 
 via Project Gutenberg (New Books) · 2026-11-07
-
-Language: English
-
-## [The Gold Bag](https://standardebooks.org/ebooks/carolyn-wells/the-gold-bag)
-
-via Standard Books · 2026-11-06, updated 2026-11-15
-
-A detective investigates the death of a wealthy man found murdered in his own home.
-
-## [Entretiens / Interviews / Entrevistas by Marie Lebert](https://www.gutenberg.org/ebooks/27035)
-
-via Project Gutenberg (New Books) · 2026-11-06
-
-Language: English
-
-## [Romanesque Art in Southern Manche: Album by Marie Lebert](https://www.gutenberg.org/ebooks/33249)
-
-via Project Gutenberg (New Books) · 2026-11-06
-
-Language: English
-
-## [Old Coloured Books by George Paston](https://www.gutenberg.org/ebooks/33682)
-
-via Project Gutenberg (New Books) · 2026-11-06
-
-Language: English
-
-## [The Schoolmistress: A Farce in Three Acts by Arthur Wing Pinero](https://www.gutenberg.org/ebooks/47560)
-
-via Project Gutenberg (New Books) · 2026-11-06
-
-Language: English
-
-## [Narratives of the rites and laws of the Yncas by Avila and Molina and Ondegardo and Salcamayhua](https://www.gutenberg.org/ebooks/79927)
-
-via Project Gutenberg (New Books) · 2026-11-06
-
-Language: English
-
-## [Jewel's Story Book by Clara Louise Burnham](https://www.gutenberg.org/ebooks/16448)
-
-via Project Gutenberg (New Books) · 2026-11-06
-
-Language: English
-
-## [The Ship of Ishtar by Abraham Merritt](https://www.gutenberg.org/ebooks/79925)
-
-via Project Gutenberg (New Books) · 2026-11-06
-
-Language: English
-
-## [Amusements in Mathematics by Henry Ernest Dudeney](https://www.gutenberg.org/ebooks/16713)
-
-via Project Gutenberg (New Books) · 2026-11-06
-
-Language: English
-
-## [The Riddle of the Sands by Erskine Childers](https://www.gutenberg.org/ebooks/2360)
-
-via Project Gutenberg (New Books) · 2026-11-06
-
-Language: English
-
-## [The Orneks and the Gogos by Charles E. Fritch](https://www.gutenberg.org/ebooks/79926)
-
-via Project Gutenberg (New Books) · 2026-11-06
-
-Language: English
-
-## [A last diary by W. N. P. Barbellion](https://www.gutenberg.org/ebooks/79924)
-
-via Project Gutenberg (New Books) · 2026-11-06
-
-Language: English
-
-## [The Academy Boys in Camp by Mrs. S. F. Keene](https://www.gutenberg.org/ebooks/33968)
-
-via Project Gutenberg (New Books) · 2026-11-06
-
-Language: English
-
-## [Don Quijote by Miguel de Cervantes Saavedra](https://www.gutenberg.org/ebooks/2000)
-
-via Project Gutenberg (New Books) · 2026-11-06
-
-Language: Spanish
-
-## [A Dark Night's Work by Elizabeth Cleghorn Gaskell](https://www.gutenberg.org/ebooks/2522)
-
-via Project Gutenberg (New Books) · 2026-11-06
-
-Language: English
-
-## [The debt by Helen R. Hull](https://www.gutenberg.org/ebooks/79923)
-
-via Project Gutenberg (New Books) · 2026-11-06
 
 Language: English
 
